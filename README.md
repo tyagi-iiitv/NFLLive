@@ -9,11 +9,16 @@ https://docs.google.com/a/cs.stonybrook.edu/document/d/1EbUJxrUN1WshOiy08ETVJ7dy
 
 ## Todo List
 
-- Live data parser
+Discuss
+
 - Vegas point spread for season 2017
 - Baseline Model
+
+- Live json data
+
 - Evaluation
+
 
 ## Work Log
 
-20171101 point spread history data
+20171101 (Lucas) point spread history data
