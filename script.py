@@ -7,8 +7,8 @@ for match in list(match_ids['GameId']):
     print(match)
     filename = 'http://www.nfl.com/liveupdate/game-center/'+str(match)+'/'+str(match)+'_gtd.json'
     json_data = json.loads(requests.get(filename).text)
-    match_id = list(json_data.keys())[0]
-    drives = list(json_data[str(match_id)]['drives'].keys())
+    match_id = str(match)
+    drives = list(json_data[match_id]['drives'].keys())
     colnames_plays = ['down','time','desc','ydstogo','qtr','ydsnet','yrdln','sp','posteam','note']
     colnames_drives = ['fds','result','penyds','ydsgained','numplays','postime']
     file_plays = match_id + '_plays.csv'
@@ -27,6 +27,7 @@ for match in list(match_ids['GameId']):
             postime = json_data[match_id]['drives'][values]['postime']
             writer.writerow({'fds':fds, 'result':result, 'penyds':penyds, 'ydsgained':ydsgained,
                              'numplays':numplays,'postime':postime})
+        csvfile.close()
     with open(file_plays,'w')as csvfile:
         writer = csv.DictWriter(csvfile,fieldnames=colnames_plays)
         writer.writeheader()
@@ -46,3 +47,4 @@ for match in list(match_ids['GameId']):
                 posteam = json_data[match_id]['drives'][values]['plays'][play]['posteam']
                 writer.writerow({'down':down, 'time':time, 'desc':desc, 'ydstogo':ydstogo,
                                  'qtr':qtr,'ydsnet':ydsnet,'yrdln':yrdln,'sp':sp,'posteam':posteam})
+        csvfile.close()
