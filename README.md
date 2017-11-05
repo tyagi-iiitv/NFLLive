@@ -6,7 +6,8 @@ We provide **Live** predictions for NFL games.
 The project proposal is on the link:
 https://docs.google.com/a/cs.stonybrook.edu/document/d/1EbUJxrUN1WshOiy08ETVJ7dyCaWKLIqSlK2UtW0QMD4/edit?usp=sharing
 
-## Gameids are available at http://www.nflsavant.com/about.php from 2013 till date.
+## Gameids 
+Available at http://www.nflsavant.com/about.php from 2013 till date.
 
 ## Todo List
 
