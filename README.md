@@ -20,6 +20,8 @@ Discuss
 
 - Evaluation
 
+- Correct the string matching problem in **desc** field.
+
 
 ## Work Log
 
