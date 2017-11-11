@@ -1,21 +1,21 @@
 drive,fds,result,penyds,ydsgained,numplays,postime
-1,2,Touchdown,0,81,5,1:30
-6,2,Punt,0,34,9,3:36
-12,5,Downs,0,75,15,6:44
-8,5,Touchdown,-30,98,15,5:58
-20,0,End of Game,0,-3,5,1:25
-18,2,Fumble,0,21,6,1:00
-15,0,Punt,-5,3,5,1:01
-5,5,Touchdown,0,80,11,4:47
-10,0,Punt,0,-7,6,0:55
-2,0,Fumble,0,-2,2,0:11
-3,2,Touchdown,3,4,6,0:43
-13,4,Field Goal,0,73,12,4:17
-7,0,Punt,0,5,4,1:34
-11,0,End of Half,0,4,3,0:16
-14,2,Punt,-10,45,10,3:19
 9,3,Field Goal,0,69,12,4:08
-4,6,Touchdown,0,80,14,6:22
+18,2,Fumble,0,21,6,1:00
+6,2,Punt,0,34,9,3:36
+14,2,Punt,-10,45,10,3:19
+7,0,Punt,0,5,4,1:34
+8,5,Touchdown,-30,98,15,5:58
+10,0,Punt,0,-7,6,0:55
 19,1,Interception,0,17,5,0:40
+12,5,Downs,0,75,15,6:44
 16,7,Touchdown,9,63,18,7:24
+11,0,End of Half,0,4,3,0:16
+3,2,Touchdown,3,4,6,0:43
 17,4,Touchdown,-10,90,11,4:10
+4,6,Touchdown,0,80,14,6:22
+2,0,Fumble,0,-2,2,0:11
+1,2,Touchdown,0,81,5,1:30
+5,5,Touchdown,0,80,11,4:47
+13,4,Field Goal,0,73,12,4:17
+15,0,Punt,-5,3,5,1:01
+20,0,End of Game,0,-3,5,1:25

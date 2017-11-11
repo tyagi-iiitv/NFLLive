@@ -1,19 +1,19 @@
 drive,fds,result,penyds,ydsgained,numplays,postime
-1,1,Punt,0,25,7,2:16
-16,0,Punt,5,-2,5,3:06
-12,2,Punt,5,13,10,3:15
-13,3,Field Goal,0,74,11,4:45
-15,1,Interception,0,21,6,2:12
+9,3,Punt,-20,41,15,2:58
 18,0,End of Game,0,2,3,1:09
 6,0,Punt,0,9,5,2:04
-3,5,Touchdown,0,83,10,4:57
-10,3,Field Goal,4,37,14,5:53
-9,3,Punt,-20,41,15,2:58
-7,2,Field Goal,-5,51,9,4:12
-4,1,Punt,0,17,7,2:54
-17,2,Punt,0,30,11,5:42
 14,0,Safety,0,-13,2,0:16
-5,4,Touchdown,-10,95,9,2:43
+7,2,Field Goal,-5,51,9,4:12
 8,6,Touchdown,19,61,15,4:48
+10,3,Field Goal,4,37,14,5:53
+12,2,Punt,5,13,10,3:15
+16,0,Punt,5,-2,5,3:06
 11,3,Touchdown,0,80,11,3:42
+3,5,Touchdown,0,83,10,4:57
+17,2,Punt,0,30,11,5:42
+4,1,Punt,0,17,7,2:54
 2,2,Punt,0,13,9,3:08
+1,1,Punt,0,25,7,2:16
+5,4,Touchdown,-10,95,9,2:43
+13,3,Field Goal,0,74,11,4:45
+15,1,Interception,0,21,6,2:12
