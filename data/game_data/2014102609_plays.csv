@@ -1,215 +1,215 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,2111,2,05:21,,2,2,16,PHI 27,0,PHI,
-9,2236,4,03:51,,22,2,4,PHI 23,0,PHI,PUNT
-9,2154,2,04:38,,10,2,3,PHI 35,0,PHI,PENALTY
-9,2081,1,05:50,,10,2,3,PHI 19,0,PHI,
-9,2132,1,04:43,,10,2,16,PHI 35,0,PHI,
-9,2189,2,04:24,,23,2,3,PHI 22,0,PHI,
-9,2211,3,04:18,,23,2,4,PHI 22,0,PHI,
-24,4446,2,09:18,,10,4,30,PHI 10,0,ARI,
-24,4358,1,11:18,,10,4,19,PHI 27,0,ARI,
-24,4424,1,09:22,,10,4,30,PHI 10,0,ARI,
-24,4490,4,09:06,,10,4,30,PHI 10,1,ARI,FG
-24,4400,3,10:02,,2,4,30,PHI 19,0,ARI,
-24,4468,3,09:12,,10,4,30,PHI 10,0,ARI,
-24,4313,1,12:20,,10,4,7,PHI 40,0,ARI,
-24,4379,2,10:43,,4,4,21,PHI 21,0,ARI,
-24,4337,2,11:52,,3,4,13,PHI 33,0,ARI,
-10,2326,1,02:57,,10,2,15,ARI 42,0,ARI,
-10,2388,3,02:00,,5,2,26,ARI 47,0,ARI,
-10,2410,4,01:56,,5,2,26,ARI 47,0,ARI,PUNT
-10,2371,0,02:00,,0,2,26,,0,,
-10,2300,2,03:34,,10,2,21,ARI 21,0,ARI,
-10,2278,1,03:41,,10,2,0,ARI 21,0,ARI,
-10,2347,2,02:13,,16,2,26,ARI 36,0,ARI,
-20,3907,2,01:03,,10,3,25,ARI 37,0,ARI,FUMBLE
-20,3877,1,01:41,,10,3,17,ARI 37,0,ARI,
-20,3816,0,02:22,,0,3,0,PHI 35,0,PHI,KICKOFF
-20,3853,2,02:13,,10,3,17,ARI 20,0,ARI,
-20,3831,1,02:22,,10,3,0,ARI 20,0,ARI,
-6,1654,3,08:47,,10,2,46,ARI 48,0,ARI,
-6,1615,2,08:51,,10,2,46,ARI 48,0,ARI,
-6,1513,1,10:34,,10,2,2,ARI 2,0,ARI,
-6,1593,1,08:59,,10,2,46,ARI 48,0,ARI,
-6,1558,3,09:24,,4,2,46,ARI 8,0,ARI,PENALTY
-6,1676,4,08:43,,10,2,46,ARI 48,0,ARI,PUNT
-6,1534,2,09:58,,8,2,6,ARI 4,0,ARI,
-27,5247,1,00:43,,10,4,34,ARI 46,0,PHI,
-27,5120,2,01:17,,10,4,22,PHI 20,0,PHI,
-27,5482,0,00:00,,0,4,64,,0,,
-27,5098,1,01:21,,10,4,0,PHI 20,0,PHI,
-27,5320,0,00:25,,0,4,42,,0,,TIMEOUT
-27,5460,3,00:01,,10,4,64,ARI 16,0,PHI,
-27,5399,1,00:13,,10,4,64,ARI 16,0,PHI,
-27,5218,3,00:48,,2,4,34,50,0,PHI,
-27,5177,2,00:54,,10,4,30,PHI 42,0,PHI,
-27,5155,1,00:59,,10,4,22,PHI 42,0,PHI,
-27,5337,4,00:25,,2,4,45,ARI 38,0,PHI,
-27,5201,0,00:48,,0,4,30,,0,,TIMEOUT
-27,5269,2,00:37,,10,4,42,ARI 46,0,PHI,
-27,5358,0,00:18,,0,4,45,,0,,TIMEOUT
-27,5421,2,00:07,,10,4,64,ARI 16,0,PHI,
-27,5083,0,01:21,,0,4,0,ARI 35,0,ARI,KICKOFF
-27,5298,3,00:30,,2,4,42,ARI 38,0,PHI,
-27,5375,1,00:18,,10,4,64,ARI 35,0,PHI,
-27,5443,0,00:01,,0,4,64,,0,,TIMEOUT
-18,3713,3,03:39,,9,3,-4,ARI 15,0,ARI,PENALTY
-18,3759,4,02:39,,14,3,-4,ARI 10,0,ARI,PUNT
-18,3666,1,04:17,,10,3,3,ARI 14,0,ARI,
-18,3692,2,03:39,,7,3,1,ARI 17,0,ARI,
-18,3737,3,02:48,,14,3,-4,ARI 10,0,ARI,
-26,5037,0,01:21,,0,4,80,PHI 2,1,ARI,XP
-26,4946,1,01:56,,10,4,5,ARI 20,0,ARI,
-26,4931,0,01:56,,0,4,0,PHI 35,0,PHI,KICKOFF
-26,4995,0,01:33,,0,4,5,,0,,TIMEOUT
-26,5016,3,01:33,,5,4,80,ARI 25,1,ARI,TD
-26,4970,2,01:39,,5,4,5,ARI 25,0,ARI,
-25,4525,0,09:01,,0,4,0,ARI 35,0,ARI,KICKOFF
-25,4646,1,07:07,,20,4,78,PHI 41,0,PHI,PENALTY
-25,4611,1,07:29,,10,4,21,ARI 49,0,PHI,PENALTY
-25,4714,2,06:19,,9,4,78,ARI 43,0,PHI,
-25,4869,0,02:00,,0,4,78,,0,,
-25,4801,1,03:56,,10,4,78,ARI 11,0,PHI,
-25,4759,1,05:09,,10,4,78,ARI 21,0,PHI,
-25,4780,2,04:35,,6,4,78,ARI 17,0,PHI,
-25,4886,4,02:00,,1,4,78,ARI 2,1,PHI,FG
-25,4843,3,02:36,,1,4,78,ARI 2,0,PHI,
-25,4561,2,08:32,,1,4,78,PHI 29,0,PHI,
-25,4690,1,06:44,,10,4,78,ARI 44,0,PHI,
-25,4822,2,03:15,,4,4,78,ARI 5,0,PHI,
-25,4735,3,05:42,,2,4,78,ARI 36,0,PHI,
-25,4540,1,09:01,,10,4,9,PHI 20,0,PHI,
-25,4582,1,07:55,,10,4,31,PHI 38,0,PHI,
-1,75,2,14:40,,8,1,4,PHI 22,0,PHI,
-1,99,3,14:06,,6,1,4,PHI 24,0,PHI,
-1,121,4,13:59,,6,1,4,PHI 24,0,PHI,PUNT
-1,51,1,15:00,,10,1,2,PHI 20,0,PHI,
-1,36,0,15:00,,0,1,0,ARI 35,0,ARI,KICKOFF
-5,1477,1,10:47,,10,2,72,ARI 19,0,PHI,FUMBLE
-5,1363,1,13:14,,10,2,12,PHI 32,0,PHI,
-5,1432,1,11:42,,10,2,32,PHI 46,0,PHI,
-5,1387,2,12:50,,9,2,18,PHI 33,0,PHI,
-5,1453,2,11:13,,3,2,60,ARI 47,0,PHI,
-5,1234,1,13:41,,10,2,0,PHI 21,0,PHI,
-5,1323,2,13:31,,10,2,11,PHI 21,0,PHI,
-5,1212,0,13:45,,0,2,0,ARI 35,0,ARI,KICKOFF
-5,1408,3,12:16,,3,2,25,PHI 39,0,PHI,
-13,2924,2,13:43,,5,3,5,PHI 25,0,PHI,
-13,3016,3,12:12,,4,3,23,PHI 37,0,PHI,
-13,3118,4,10:55,,3,3,30,50,0,PHI,PUNT
-13,2946,3,13:38,,5,3,30,PHI 25,0,PHI,
-13,2970,1,12:52,,10,3,11,PHI 31,0,PHI,
-13,2903,1,14:07,,10,3,5,PHI 20,0,PHI,
-13,2888,0,14:07,,0,3,0,ARI 35,0,ARI,KICKOFF
-13,2992,2,12:46,,10,3,17,PHI 31,0,PHI,
-13,3075,2,11:23,,1,3,30,ARI 48,0,PHI,
-13,3096,3,11:02,,3,3,30,50,0,PHI,
-13,3046,1,11:46,,10,3,32,PHI 43,0,PHI,
-21,3994,2,00:22,,7,3,-4,ARI 45,0,PHI,
-21,4031,3,15:00,,14,4,-4,PHI 48,0,PHI,
-21,3928,1,00:56,,10,3,3,ARI 48,0,PHI,
-21,4015,0,,,0,3,-4,,0,,
-21,4053,4,14:52,,14,4,-4,PHI 48,0,PHI,PUNT
-23,4246,3,12:29,,11,4,-1,PHI 41,0,PHI,INT
-23,4223,3,12:29,,6,4,-1,PHI 46,0,PHI,PENALTY
-23,4180,1,13:11,,10,4,4,PHI 42,0,PHI,
-23,4201,2,12:37,,6,4,4,PHI 46,0,PHI,
-11,2737,4,00:06,,10,2,45,ARI 44,0,PHI,PUNT
-11,2672,0,00:18,,0,2,45,,0,,TIMEOUT
-11,2556,1,01:06,,10,2,31,PHI 27,0,PHI,
-11,2430,1,01:48,,10,2,5,PHI 11,0,PHI,PENALTY
-11,2580,0,00:58,,0,2,32,,0,,TIMEOUT
-11,2621,2,00:32,,7,2,45,PHI 45,0,PHI,
-11,2597,1,00:58,,10,2,34,PHI 42,0,PHI,
-11,2486,1,01:43,,13,2,4,PHI 8,0,PHI,
-11,2453,1,01:48,,5,2,-3,PHI 16,0,PHI,PENALTY
-11,2532,3,01:27,,6,2,16,PHI 15,0,PHI,
-11,2689,2,00:18,,10,2,45,ARI 44,0,PHI,
-11,2715,3,00:14,,10,2,45,ARI 44,0,PHI,
-11,2510,2,01:37,,6,2,4,PHI 15,0,PHI,
-11,2647,1,00:23,,10,2,45,ARI 44,0,PHI,
-14,3153,1,10:45,,10,3,-4,ARI 20,0,ARI,
-14,3217,4,09:19,,12,3,-2,ARI 18,0,ARI,PUNT
-14,3174,2,10:07,,14,3,-2,ARI 16,0,ARI,
-14,3195,3,09:25,,12,3,-2,ARI 18,0,ARI,
-8,2016,3,06:29,,20,2,2,ARI 28,0,ARI,
-8,1970,3,07:02,,10,2,-10,ARI 38,0,ARI,PENALTY
-8,1948,2,07:07,,10,2,0,ARI 38,0,ARI,
-8,2040,4,06:01,,8,2,2,ARI 40,0,ARI,PUNT
-8,1922,1,07:14,,10,2,0,ARI 38,0,ARI,
-19,3779,1,02:31,,10,3,54,PHI 46,1,PHI,TD
-19,3800,0,02:22,,0,3,54,ARI 2,1,PHI,XP
-22,4073,1,14:39,,10,4,4,ARI 3,0,ARI,
-22,4121,3,13:23,,2,4,8,ARI 11,0,ARI,
-22,4143,4,13:19,,2,4,8,ARI 11,0,ARI,PUNT
-22,4097,2,14:02,,6,4,8,ARI 7,0,ARI,
-12,2857,0,14:07,,0,3,80,PHI 2,1,ARI,XP
-12,2832,3,14:19,,10,3,80,ARI 20,1,ARI,TD
-12,2789,1,15:00,,10,3,0,ARI 20,0,ARI,
-12,2771,0,15:00,,0,3,0,PHI 35,0,PHI,KICKOFF
-12,2810,2,14:24,,10,3,0,ARI 20,0,ARI,
-16,3484,2,06:48,,20,3,-3,ARI 10,0,ARI,
-16,3508,3,06:09,,13,3,-3,ARI 17,0,ARI,
-16,3427,1,07:19,,10,3,-10,ARI 20,0,ARI,PENALTY
-16,3530,4,06:03,,13,3,-3,ARI 17,0,ARI,PUNT
-16,3412,0,07:19,,0,3,0,PHI 35,0,PHI,KICKOFF
-16,3462,1,06:52,,20,3,-10,ARI 10,0,ARI,
-7,1774,2,07:57,,15,2,-5,PHI 10,0,PHI,
-7,1713,1,08:31,,10,2,5,PHI 15,0,PHI,
-7,1835,1,07:32,,10,2,60,ARI 25,0,PHI,INT
-7,1796,3,07:52,,15,2,60,PHI 10,0,PHI,PENALTY
-7,1734,2,08:08,,5,2,-5,PHI 20,0,PHI,PENALTY
-3,623,3,07:19,,2,1,11,PHI 41,0,PHI,PENALTY
-3,724,3,05:18,,5,1,59,ARI 41,0,PHI,PENALTY
-3,658,3,06:52,,12,1,34,PHI 31,0,PHI,
-3,802,0,04:39,,0,1,80,ARI 2,1,PHI,XP
-3,703,2,05:53,,9,1,80,ARI 45,0,PHI,
-3,557,1,08:49,,10,1,13,PHI 20,0,PHI,
-3,578,1,08:27,,10,1,9,PHI 33,0,PHI,
-3,759,1,04:54,,10,1,59,ARI 21,0,PHI,
-3,682,1,06:20,,10,1,35,ARI 46,0,PHI,
-3,599,2,07:57,,14,1,21,PHI 29,0,PHI,
-3,781,2,04:47,,10,1,80,ARI 21,1,PHI,TD
-17,3597,2,05:10,,6,3,7,ARI 47,0,PHI,
-17,3618,3,04:33,,3,3,7,ARI 44,0,PHI,
-17,3640,4,04:27,,3,3,7,ARI 44,0,PHI,PUNT
-17,3573,1,05:45,,10,3,4,PHI 49,0,PHI,
-4,1138,1,14:19,,6,2,79,PHI 6,0,ARI,
-4,1114,3,15:00,,7,2,74,PHI 19,0,ARI,
-4,848,0,04:39,,0,1,0,,0,,Timeout
-4,1030,4,00:46,,1,1,58,PHI 25,0,ARI,
-4,1051,1,00:11,,10,1,58,PHI 22,0,ARI,
-4,931,1,02:43,,10,1,46,ARI 36,0,ARI,
-4,1006,3,01:15,,8,1,55,PHI 32,0,ARI,
-4,907,3,03:23,,1,1,16,ARI 29,0,ARI,
-4,886,2,04:02,,3,1,9,ARI 27,0,ARI,
-4,1181,0,13:45,,0,2,80,PHI 2,1,ARI,XP
-4,1163,2,13:50,,1,2,80,PHI 1,1,ARI,TD
-4,833,0,04:39,,0,1,0,PHI 35,0,PHI,KICKOFF
-4,1077,2,00:03,,10,1,61,PHI 22,0,ARI,
-4,955,1,02:07,,10,1,46,PHI 34,0,ARI,
-4,865,1,04:39,,10,1,9,ARI 20,0,ARI,
-4,985,2,01:58,,10,1,48,PHI 34,0,ARI,
-4,1098,0,,,0,1,61,,0,,
-2,314,3,10:41,,6,1,30,ARI 48,0,ARI,PENALTY
-2,522,4,08:58,,13,1,42,PHI 35,0,ARI,PUNT
-2,434,1,09:46,,10,1,47,PHI 32,0,ARI,
-2,360,3,09:58,,6,1,30,ARI 48,0,ARI,PENALTY
-2,189,3,12:29,,3,1,16,ARI 30,0,ARI,
-2,337,3,10:21,,1,1,25,PHI 47,0,ARI,PENALTY
-2,477,3,09:10,,8,1,42,PHI 30,0,ARI,PENALTY
-2,218,0,12:04,,0,1,16,,0,,TIMEOUT
-2,168,2,13:10,,13,1,7,ARI 20,0,ARI,
-2,235,1,12:03,,10,1,21,ARI 39,0,ARI,PENALTY
-2,401,1,09:52,,10,1,45,PHI 47,0,ARI,PENALTY
-2,289,2,11:19,,9,1,25,ARI 45,0,ARI,
-2,500,3,09:05,,13,1,42,PHI 35,0,ARI,
-2,455,2,09:10,,8,1,47,PHI 30,0,ARI,
-2,147,1,13:48,,10,1,-3,ARI 23,0,ARI,
-2,268,1,11:58,,10,1,42,ARI 44,0,ARI,
-15,3377,4,07:24,,2,3,20,ARI 36,1,PHI,FG
-15,3305,1,08:18,,10,3,19,ARI 44,0,PHI,
-15,3281,2,08:50,,8,3,12,PHI 46,0,PHI,
-15,3326,2,07:51,,3,3,20,ARI 37,0,PHI,
-15,3355,3,07:29,,2,3,20,ARI 36,0,PHI,
-15,3260,1,09:09,,10,3,2,PHI 44,0,PHI,
+24,4313,1,12:20,(12:20) (Shotgun) C.Palmer pass short left to A.Ellington ran ob at PHI 33 for 7 yards (C.Barwin).,10,4,7,PHI 40,0,ARI,
+24,4468,3,09:12,(9:12) (Shotgun) C.Palmer pass incomplete short middle to J.Carlson (D.Ryans).,10,4,30,PHI 10,0,ARI,
+24,4337,2,11:52,(11:52) A.Ellington right end to PHI 27 for 6 yards (B.Fletcher).,3,4,13,PHI 33,0,ARI,
+24,4400,3,10:02,(10:02) (Shotgun) C.Palmer pass short middle to R.Hughes to PHI 10 for 9 yards (M.Kendricks).,2,4,30,PHI 19,0,ARI,
+24,4424,1,09:22,(9:22) (Shotgun) C.Palmer pass incomplete short middle to J.Carlson.,10,4,30,PHI 10,0,ARI,
+24,4379,2,10:43,(10:43) A.Ellington up the middle to PHI 19 for 2 yards (B.Logan).,4,4,21,PHI 21,0,ARI,
+24,4358,1,11:18,(11:18) A.Ellington up the middle to PHI 21 for 6 yards (B.Logan).,10,4,19,PHI 27,0,ARI,
+24,4446,2,09:18,(9:18) (Shotgun) C.Palmer pass incomplete short left to Jo. Brown.,10,4,30,PHI 10,0,ARI,
+24,4490,4,09:06,"(9:06) C.Catanzaro 28 yard field goal is GOOD, Center-M.Leach, Holder-D.Butler.",10,4,30,PHI 10,1,ARI,FG
+25,4714,2,06:19,"(6:19) (No Huddle, Shotgun) L.McCoy up the middle to ARI 36 for 7 yards (T.Jefferson).",9,4,78,ARI 43,0,PHI,
+25,4690,1,06:44,(6:44) (Shotgun) N.Foles pass short right to J.Matthews pushed ob at ARI 43 for 1 yard (T.Mathieu).,10,4,78,ARI 44,0,PHI,
+25,4801,1,03:56,"(3:56) (No Huddle, Shotgun) C.Polk up the middle to ARI 5 for 6 yards (A.Okafor).",10,4,78,ARI 11,0,PHI,
+25,4735,3,05:42,"(5:42) (No Huddle, Shotgun) N.Foles pass short right to Z.Ertz pushed ob at ARI 21 for 15 yards (R.Johnson).",2,4,78,ARI 36,0,PHI,
+25,4822,2,03:15,"(3:15) (Shotgun) C.Polk up the middle to ARI 2 for 3 yards (T.Jefferson, C.Campbell).",4,4,78,ARI 5,0,PHI,
+25,4525,0,09:01,"C.Catanzaro kicks 65 yards from ARI 35 to end zone, Touchback.",0,4,0,ARI 35,0,ARI,KICKOFF
+25,4759,1,05:09,"(5:09) (No Huddle, Shotgun) L.McCoy left end to ARI 17 for 4 yards (C.Campbell).",10,4,78,ARI 21,0,PHI,
+25,4646,1,07:07,"(7:07) (Shotgun) L.McCoy up the middle to PHI 41 for no gain (J.Powers). PENALTY on ARI-J.Powers, Horse Collar Tackle, 15 yards, enforced at PHI 41. Penalty on ARI-A.Okafor, Illegal Use of Hands, declined.",20,4,78,PHI 41,0,PHI,PENALTY
+25,4886,4,02:00,"(2:00) C.Parkey 20 yard field goal is GOOD, Center-J.Dorenbos, Holder-D.Jones.",1,4,78,ARI 2,1,PHI,FG
+25,4561,2,08:32,"(8:32) (No Huddle, Shotgun) L.McCoy up the middle to PHI 38 for 9 yards (E.Stinson, T.Jefferson).",1,4,78,PHI 29,0,PHI,
+25,4869,0,02:00,Two-Minute Warning,0,4,78,,0,,
+25,4843,3,02:36,(2:36) (Shotgun) L.McCoy up the middle to ARI 2 for no gain (T.Jefferson).,1,4,78,ARI 2,0,PHI,
+25,4611,1,07:29,"(7:29) (No Huddle) N.Foles pass short left to Z.Ertz to ARI 44 for 5 yards (L.Foote). PENALTY on PHI-T.Herremans, Offensive Holding, 10 yards, enforced at ARI 49 - No Play. Penalty on PHI-L.Johnson, Ineligible Downfield Pass, declined.",10,4,21,ARI 49,0,PHI,PENALTY
+25,4540,1,09:01,(9:01) L.McCoy up the middle to PHI 29 for 9 yards (E.Stinson).,10,4,9,PHI 20,0,PHI,
+25,4780,2,04:35,"(4:35) (No Huddle, Shotgun) L.McCoy up the middle to ARI 11 for 6 yards (A.Cromartie).",6,4,78,ARI 17,0,PHI,
+25,4582,1,07:55,"(7:55) (No Huddle, Shotgun) N.Foles pass short right to J.Matthews pushed ob at ARI 49 for 13 yards (R.Johnson).",10,4,31,PHI 38,0,PHI,
+26,4931,0,01:56,"C.Parkey kicks 65 yards from PHI 35 to end zone, Touchback.",0,4,0,PHI 35,0,PHI,KICKOFF
+26,4946,1,01:56,(1:56) (Shotgun) C.Palmer pass short middle to L.Fitzgerald to ARI 25 for 5 yards (M.Kendricks).,10,4,5,ARI 20,0,ARI,
+26,5016,3,01:33,"(1:33) (Shotgun) C.Palmer pass deep left to Jo. Brown for 75 yards, TOUCHDOWN. The Replay Official challenged the runner broke the plane ruling, and the play was Upheld. The ruling on the field stands.",5,4,80,ARI 25,1,ARI,TD
+26,5037,0,01:21,"C.Catanzaro extra point is GOOD, Center-M.Leach, Holder-D.Butler.",0,4,80,PHI 2,1,ARI,XP
+26,4995,0,01:33,Timeout #1 by PHI at 01:33. Taken due to injury on the field.,0,4,5,,0,,TIMEOUT
+26,4970,2,01:39,"(1:39) (No Huddle, Shotgun) C.Palmer pass incomplete deep middle to Jo. Brown (N.Carroll). PHI-N.Carroll was injured during the play.",5,4,5,ARI 25,0,ARI,
+27,5098,1,01:21,(1:21) (Shotgun) N.Foles pass incomplete short right to J.Matthews.,10,4,0,PHI 20,0,PHI,
+27,5177,2,00:54,"(:54) (No Huddle, Shotgun) N.Foles pass short right to J.Maclin to 50 for 8 yards (J.Powers).",10,4,30,PHI 42,0,PHI,
+27,5337,4,00:25,(:25) (Shotgun) N.Foles right tackle to ARI 35 for 3 yards (M.Benard).,2,4,45,ARI 38,0,PHI,
+27,5298,3,00:30,"(:30) (No Huddle, Shotgun) N.Foles pass incomplete deep right to Z.Ertz [T.Jefferson].",2,4,42,ARI 38,0,PHI,
+27,5460,3,00:01,(:01) (Shotgun) N.Foles pass incomplete deep left to J.Matthews (R.Johnson).,10,4,64,ARI 16,0,PHI,
+27,5083,0,01:21,"C.Catanzaro kicks 65 yards from ARI 35 to end zone, Touchback.",0,4,0,ARI 35,0,ARI,KICKOFF
+27,5421,2,00:07,"(:07) (No Huddle, Shotgun) N.Foles pass incomplete deep right to Z.Ertz (D.Bucannon).",10,4,64,ARI 16,0,PHI,
+27,5247,1,00:43,"(:43) (No Huddle, Shotgun) N.Foles pass incomplete deep left to J.Huff.",10,4,34,ARI 46,0,PHI,
+27,5155,1,00:59,"(:59) (No Huddle, Shotgun) N.Foles pass incomplete short right to J.Maclin.",10,4,22,PHI 42,0,PHI,
+27,5269,2,00:37,"(:37) (No Huddle, Shotgun) N.Foles pass short right to L.McCoy pushed ob at ARI 38 for 8 yards (R.Johnson).",10,4,42,ARI 46,0,PHI,
+27,5358,0,00:18,Timeout #3 by PHI at 00:18.,0,4,45,,0,,TIMEOUT
+27,5201,0,00:48,Timeout #2 by PHI at 00:48.,0,4,30,,0,,TIMEOUT
+27,5375,1,00:18,(:18) (Shotgun) N.Foles pass deep right to J.Maclin pushed ob at ARI 16 for 19 yards (J.Powers).,10,4,64,ARI 35,0,PHI,
+27,5482,0,00:00,END GAME,0,4,64,,0,,
+27,5443,0,00:01,Timeout #2 by ARI at 00:01.,0,4,64,,0,,TIMEOUT
+27,5320,0,00:25,Timeout #1 by ARI at 00:25.,0,4,42,,0,,TIMEOUT
+27,5120,2,01:17,"(1:17) (No Huddle, Shotgun) N.Foles pass deep middle to R.Cooper to PHI 42 for 22 yards (A.Cromartie).",10,4,22,PHI 20,0,PHI,
+27,5399,1,00:13,"(:13) (No Huddle, Shotgun) N.Foles pass incomplete deep left to J.Matthews.",10,4,64,ARI 16,0,PHI,
+27,5218,3,00:48,(:48) N.Foles pass short right to L.McCoy pushed ob at ARI 46 for 4 yards (T.Jefferson).,2,4,34,50,0,PHI,
+20,3907,2,01:03,"(1:03) A.Ellington left end to ARI 48 for 11 yards (N.Allen). Philadelphia challenged the loose ball recovery ruling, and the play was REVERSED. A.Ellington left end to ARI 45 for 8 yards (N.Allen). FUMBLES (N.Allen), RECOVERED by PHI-N.Allen at ARI 48. N.Allen, dead ball declared at ARI 48 for no gain.",10,3,25,ARI 37,0,ARI,FUMBLE
+20,3877,1,01:41,(1:41) C.Palmer pass short right to A.Ellington to ARI 37 for no gain (N.Carroll).,10,3,17,ARI 37,0,ARI,
+20,3816,0,02:22,"C.Parkey kicks 65 yards from PHI 35 to end zone, Touchback.",0,3,0,PHI 35,0,PHI,KICKOFF
+20,3831,1,02:22,(2:22) (Shotgun) C.Palmer pass incomplete short left to J.Carlson [B.Logan].,10,3,0,ARI 20,0,ARI,
+20,3853,2,02:13,(2:13) C.Palmer pass short right to L.Fitzgerald pushed ob at ARI 37 for 17 yards (M.Jenkins).,10,3,17,ARI 20,0,ARI,
+21,4031,3,15:00,(15:00) (Shotgun) N.Foles pass incomplete deep right [E.Stinson].,14,4,-4,PHI 48,0,PHI,
+21,3928,1,00:56,(:56) (Shotgun) N.Foles pass short left to J.Maclin to ARI 45 for 3 yards (T.Jefferson).,10,3,3,ARI 48,0,PHI,
+21,3994,2,00:22,(:22) (No Huddle) L.McCoy right tackle to PHI 48 for -7 yards (T.Kelly).,7,3,-4,ARI 45,0,PHI,
+21,4053,4,14:52,"(14:52) D.Jones punts 49 yards to ARI 3, Center-J.Dorenbos, downed by PHI-C.Maragos.",14,4,-4,PHI 48,0,PHI,PUNT
+21,4015,0,,END QUARTER 3,0,3,-4,,0,,
+22,4121,3,13:23,(13:23) C.Palmer pass incomplete short middle to M.Floyd (M.Jenkins).,2,4,8,ARI 11,0,ARI,
+22,4097,2,14:02,(14:02) C.Palmer pass short middle to J.Carlson to ARI 11 for 4 yards (T.Cole).,6,4,8,ARI 7,0,ARI,
+22,4143,4,13:19,"(13:19) D.Butler punts 47 yards to PHI 42, Center-M.Leach, fair catch by J.Maclin.",2,4,8,ARI 11,0,ARI,PUNT
+22,4073,1,14:39,(14:39) C.Palmer pass short right to R.Hughes to ARI 7 for 4 yards (M.Jenkins).,10,4,4,ARI 3,0,ARI,
+23,4246,3,12:29,(12:29) (Shotgun) N.Foles pass deep left intended for R.Cooper INTERCEPTED by A.Cromartie at ARI 42. A.Cromartie to PHI 40 for 18 yards (J.Maclin).,11,4,-1,PHI 41,0,PHI,INT
+23,4180,1,13:11,(13:11) (Shotgun) L.McCoy up the middle to PHI 46 for 4 yards (T.Kelly).,10,4,4,PHI 42,0,PHI,
+23,4201,2,12:37,"(12:37) (No Huddle, Shotgun) N.Foles pass incomplete short left to R.Cooper.",6,4,4,PHI 46,0,PHI,
+23,4223,3,12:29,"(12:29) (No Huddle, Shotgun) PENALTY on PHI-J.Peters, False Start, 5 yards, enforced at PHI 46 - No Play.",6,4,-1,PHI 46,0,PHI,PENALTY
+1,99,3,14:06,"(14:06) (No Huddle, Shotgun) N.Foles pass incomplete short middle to J.Maclin (R.Johnson).",6,1,4,PHI 24,0,PHI,
+1,121,4,13:59,"(13:59) D.Jones punts 58 yards to ARI 18, Center-J.Dorenbos. T.Ginn to ARI 23 for 5 yards (T.Burton).",6,1,4,PHI 24,0,PHI,PUNT
+1,75,2,14:40,"(14:40) (No Huddle, Shotgun) N.Foles pass short right to B.Celek to PHI 24 for 2 yards (P.Peterson).",8,1,4,PHI 22,0,PHI,
+1,51,1,15:00,(15:00) (Shotgun) N.Foles pass short right to L.McCoy to PHI 22 for 2 yards (S.Acho).,10,1,2,PHI 20,0,PHI,
+1,36,0,15:00,"C.Catanzaro kicks 65 yards from ARI 35 to end zone, Touchback.",0,1,0,ARI 35,0,ARI,KICKOFF
+3,623,3,07:19,"(7:19) (No Huddle, Shotgun) N.Foles pass short left to J.Huff to PHI 45 for 4 yards (P.Peterson). PENALTY on PHI-J.Peters, Illegal Use of Hands, 10 yards, enforced at PHI 41 - No Play.",2,1,11,PHI 41,0,PHI,PENALTY
+3,578,1,08:27,"(8:27) (No Huddle, Shotgun) L.McCoy up the middle to PHI 29 for -4 yards (A.Okafor).",10,1,9,PHI 33,0,PHI,
+3,781,2,04:47,"(4:47) (No Huddle, Shotgun) N.Foles pass short right to J.Maclin for 21 yards, TOUCHDOWN.",10,1,80,ARI 21,1,PHI,TD
+3,599,2,07:57,"(7:57) (No Huddle, Shotgun) N.Foles pass short right to J.Maclin to PHI 41 for 12 yards (D.Bucannon, P.Peterson).",14,1,21,PHI 29,0,PHI,
+3,557,1,08:49,(8:49) L.McCoy right end to PHI 33 for 13 yards (R.Johnson).,10,1,13,PHI 20,0,PHI,
+3,703,2,05:53,"(5:53) (No Huddle, Shotgun) C.Polk up the middle to ARI 41 for 4 yards (D.Bucannon; E.Stinson).",9,1,80,ARI 45,0,PHI,
+3,724,3,05:18,"(5:18) (No Huddle, Shotgun) N.Foles pass short right to Z.Ertz pushed ob at ARI 36 for 5 yards (A.Cromartie). PENALTY on ARI-S.Acho, Roughing the Passer, 15 yards, enforced at ARI 36.",5,1,59,ARI 41,0,PHI,PENALTY
+3,802,0,04:39,"C.Parkey extra point is GOOD, Center-J.Dorenbos, Holder-D.Jones.",0,1,80,ARI 2,1,PHI,XP
+3,759,1,04:54,"(4:54) (No Huddle, Shotgun) N.Foles pass incomplete short left.",10,1,59,ARI 21,0,PHI,
+3,658,3,06:52,(6:52) (Shotgun) N.Foles pass short middle to J.Matthews to ARI 46 for 23 yards (R.Johnson).,12,1,34,PHI 31,0,PHI,
+3,682,1,06:20,"(6:20) (No Huddle, Shotgun) L.McCoy left tackle to ARI 45 for 1 yard (S.Acho).",10,1,35,ARI 46,0,PHI,
+2,147,1,13:48,(13:48) A.Ellington right end to ARI 20 for -3 yards (M.Jenkins).,10,1,-3,ARI 23,0,ARI,
+2,189,3,12:29,(12:29) (Shotgun) C.Palmer pass short right to Jo. Brown pushed ob at ARI 39 for 9 yards (B.Boykin) [F.Cox].,3,1,16,ARI 30,0,ARI,
+2,522,4,08:58,"(8:58) D.Butler punts 35 yards to end zone, Center-M.Leach, Touchback.",13,1,42,PHI 35,0,ARI,PUNT
+2,337,3,10:21,"(10:21) PENALTY on ARI-R.Housler, False Start, 5 yards, enforced at PHI 47 - No Play.",1,1,25,PHI 47,0,ARI,PENALTY
+2,455,2,09:10,(9:10) C.Palmer pass incomplete short middle to L.Fitzgerald.,8,1,47,PHI 30,0,ARI,
+2,218,0,12:04,Timeout #1 by ARI at 12:04.,0,1,16,,0,,TIMEOUT
+2,314,3,10:41,"(10:41) (Shotgun) PENALTY on PHI-M.Kendricks, Encroachment, 5 yards, enforced at ARI 48 - No Play.",6,1,30,ARI 48,0,ARI,PENALTY
+2,289,2,11:19,(11:19) (Shotgun) C.Palmer pass short left to Jo. Brown to ARI 48 for 3 yards (N.Carroll).,9,1,25,ARI 45,0,ARI,
+2,500,3,09:05,(9:05) (Shotgun) C.Palmer pass incomplete deep right to M.Floyd.,13,1,42,PHI 35,0,ARI,
+2,168,2,13:10,(13:10) A.Ellington up the middle to ARI 30 for 10 yards (N.Carroll).,13,1,7,ARI 20,0,ARI,
+2,477,3,09:10,"(9:10) (Shotgun) PENALTY on ARI-Jo. Brown, False Start, 5 yards, enforced at PHI 30 - No Play.",8,1,42,PHI 30,0,ARI,PENALTY
+2,401,1,09:52,"(9:52) C.Palmer pass incomplete short right to T.Ginn. PENALTY on PHI-B.Fletcher, Defensive Pass Interference, 15 yards, enforced at PHI 47 - No Play.",10,1,45,PHI 47,0,ARI,PENALTY
+2,235,1,12:03,"(12:03) (Shotgun) C.Palmer pass incomplete deep left to Jo. Brown. PENALTY on PHI-B.Boykin, Defensive Holding, 5 yards, enforced at ARI 39 - No Play.",10,1,21,ARI 39,0,ARI,PENALTY
+2,434,1,09:46,(9:46) A.Ellington left end to PHI 30 for 2 yards (B.Logan).,10,1,47,PHI 32,0,ARI,
+2,268,1,11:58,(11:58) A.Ellington right tackle to ARI 45 for 1 yard (D.Ryans).,10,1,42,ARI 44,0,ARI,
+2,360,3,09:58,"(9:58) (Shotgun) C.Palmer pass incomplete short right to Jo. Brown. PENALTY on PHI-N.Allen, Illegal Use of Hands, 5 yards, enforced at ARI 48 - No Play.",6,1,30,ARI 48,0,ARI,PENALTY
+5,1212,0,13:45,C.Catanzaro kicks 70 yards from ARI 35 to PHI -5. J.Huff to PHI 21 for 26 yards (T.Jefferson).,0,2,0,ARI 35,0,ARI,KICKOFF
+5,1234,1,13:41,"(13:41) N.Foles pass deep middle to J.Matthews to PHI 35 for 14 yards (R.Johnson) [T.Kelly]. FUMBLES (R.Johnson), and recovers at PHI 35. J.Matthews to PHI 35 for no gain (R.Johnson). Arizona challenged the pass completion ruling, and the play was REVERSED. N.Foles pass incomplete deep middle to J.Matthews (R.Johnson) [T.Kelly].",10,2,0,PHI 21,0,PHI,
+5,1432,1,11:42,(11:42) (No Huddle) L.McCoy right end to ARI 47 for 7 yards (D.Bucannon).,10,2,32,PHI 46,0,PHI,
+5,1323,2,13:31,"(13:31) (Shotgun) N.Foles pass short right to J.Maclin ran ob at PHI 32 for 11 yards. Penalty on ARI-P.Peterson, Defensive Holding, declined.",10,2,11,PHI 21,0,PHI,
+5,1408,3,12:16,"(12:16) (No Huddle, Shotgun) N.Foles pass short left to Z.Ertz to PHI 46 for 7 yards (D.Bucannon).",3,2,25,PHI 39,0,PHI,
+5,1363,1,13:14,"(13:14) (No Huddle, Shotgun) N.Foles pass short right to J.Maclin to PHI 33 for 1 yard (P.Peterson, D.Bucannon).",10,2,12,PHI 32,0,PHI,
+5,1453,2,11:13,"(11:13) (No Huddle, Shotgun) N.Foles pass deep right to J.Maclin to ARI 19 for 28 yards (P.Peterson).",3,2,60,ARI 47,0,PHI,
+5,1387,2,12:50,"(12:50) (No Huddle, Shotgun) L.McCoy left end to PHI 39 for 6 yards (R.Johnson).",9,2,18,PHI 33,0,PHI,
+5,1477,1,10:47,"(10:47) (No Huddle, Shotgun) N.Foles pass short left to J.Huff to ARI 7 for 12 yards (F.Rucker). FUMBLES (F.Rucker), RECOVERED by ARI-D.Bucannon at ARI 2. D.Bucannon to ARI 2 for no gain (J.Maclin).",10,2,72,ARI 19,0,PHI,FUMBLE
+4,1098,0,,END QUARTER 1,0,1,61,,0,,
+4,833,0,04:39,"C.Parkey kicks 65 yards from PHI 35 to end zone, Touchback.",0,1,0,PHI 35,0,PHI,KICKOFF
+4,1138,1,14:19,(14:19) ARI #61 reports as eligible A.Ellington left end to PHI 1 for 5 yards (C.Williams).,6,2,79,PHI 6,0,ARI,
+4,1181,0,13:45,"C.Catanzaro extra point is GOOD, Center-M.Leach, Holder-D.Butler.",0,2,80,PHI 2,1,ARI,XP
+4,907,3,03:23,(3:23) (Shotgun) C.Palmer pass short left to A.Ellington to ARI 36 for 7 yards (N.Allen).,1,1,16,ARI 29,0,ARI,
+4,1051,1,00:11,(:11) C.Palmer pass incomplete short right. Thrown away by Palmer.,10,1,58,PHI 22,0,ARI,
+4,955,1,02:07,(2:07) (Shotgun) C.Palmer pass incomplete short right. Thrown away by Palmer.,10,1,46,PHI 34,0,ARI,
+4,1163,2,13:50,"(13:50) A.Ellington up the middle for 1 yard, TOUCHDOWN.",1,2,80,PHI 1,1,ARI,TD
+4,865,1,04:39,(4:39) A.Ellington up the middle to ARI 27 for 7 yards (M.Jenkins).,10,1,9,ARI 20,0,ARI,
+4,848,0,04:39,Timeout at 04:39.,0,1,0,,0,,Timeout
+4,1114,3,15:00,(15:00) (Shotgun) C.Palmer pass short middle to L.Fitzgerald to PHI 6 for 13 yards (B.Boykin).,7,2,74,PHI 19,0,ARI,
+4,1077,2,00:03,(:03) (Shotgun) A.Ellington up the middle to PHI 19 for 3 yards (N.Carroll).,10,1,61,PHI 22,0,ARI,
+4,1006,3,01:15,(1:15) (Shotgun) C.Palmer pass short middle to Ja. Brown to PHI 25 for 7 yards (B.Fletcher).,8,1,55,PHI 32,0,ARI,
+4,931,1,02:43,(2:43) (Shotgun) C.Palmer pass deep right to L.Fitzgerald to PHI 34 for 30 yards (B.Boykin).,10,1,46,ARI 36,0,ARI,
+4,985,2,01:58,(1:58) A.Ellington up the middle to PHI 32 for 2 yards (C.Thornton).,10,1,48,PHI 34,0,ARI,
+4,1030,4,00:46,(:46) A.Ellington right tackle to PHI 22 for 3 yards (C.Matthews).,1,1,58,PHI 25,0,ARI,
+4,886,2,04:02,(4:02) A.Ellington right tackle to ARI 29 for 2 yards (B.Fletcher).,3,1,9,ARI 27,0,ARI,
+7,1713,1,08:31,(8:31) L.McCoy up the middle to PHI 20 for 5 yards (K.Minter).,10,2,5,PHI 15,0,PHI,
+7,1774,2,07:57,"(7:57) (No Huddle, Shotgun) N.Foles pass incomplete short left to L.McCoy.",15,2,-5,PHI 10,0,PHI,
+7,1835,1,07:32,(7:32) (Shotgun) N.Foles pass deep middle intended for J.Huff INTERCEPTED by A.Cromartie at ARI -2. A.Cromartie to ARI 38 for 40 yards (L.Johnson; Z.Ertz).,10,2,60,ARI 25,0,PHI,INT
+7,1734,2,08:08,"(8:08) (No Huddle, Shotgun) N.Foles pass short right to J.Maclin ran ob at PHI 31 for 11 yards. PENALTY on PHI-J.Peters, Illegal Use of Hands, 10 yards, enforced at PHI 20 - No Play.",5,2,-5,PHI 20,0,PHI,PENALTY
+7,1796,3,07:52,"(7:52) (No Huddle, Shotgun) N.Foles pass deep right to R.Cooper ran ob at ARI 40 for 50 yards. PENALTY on ARI-T.Mathieu, Roughing the Passer, 15 yards, enforced at ARI 40. Arizona challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #2.)",15,2,60,PHI 10,0,PHI,PENALTY
+6,1558,3,09:24,"(9:24) (Shotgun) C.Palmer pass deep left to Jo. Brown to ARI 33 for 25 yards (C.Williams). PENALTY on PHI-T.Cole, Roughing the Passer, 15 yards, enforced at ARI 33.",4,2,46,ARI 8,0,ARI,PENALTY
+6,1615,2,08:51,(8:51) (Shotgun) C.Palmer pass incomplete short middle to A.Ellington (C.Thornton).,10,2,46,ARI 48,0,ARI,
+6,1534,2,09:58,(9:58) C.Palmer pass short left to L.Fitzgerald ran ob at ARI 8 for 4 yards.,8,2,6,ARI 4,0,ARI,
+6,1654,3,08:47,(8:47) (Shotgun) C.Palmer pass incomplete short left to Jo. Brown.,10,2,46,ARI 48,0,ARI,
+6,1593,1,08:59,(8:59) (Shotgun) C.Palmer pass incomplete deep right to M.Floyd. ARI-M.Floyd was injured during the play.,10,2,46,ARI 48,0,ARI,
+6,1676,4,08:43,"(8:43) D.Butler punts 37 yards to PHI 15, Center-M.Leach, downed by ARI-M.Leach.",10,2,46,ARI 48,0,ARI,PUNT
+6,1513,1,10:34,(10:34) A.Ellington up the middle to ARI 4 for 2 yards (D.Ryans).,10,2,2,ARI 2,0,ARI,
+9,2211,3,04:18,"(4:18) (No Huddle, Shotgun) N.Foles pass short right to C.Polk to PHI 23 for 1 yard (T.Kelly).",23,2,4,PHI 22,0,PHI,
+9,2132,1,04:43,"(4:43) (No Huddle, Shotgun) N.Foles pass incomplete short right to Z.Ertz (A.Cromartie).",10,2,16,PHI 35,0,PHI,
+9,2081,1,05:50,(5:50) (Shotgun) N.Foles pass short right to J.Maclin to PHI 27 for 8 yards (P.Peterson; D.Bucannon). ARI-P.Peterson was injured during the play. PHI-J.Maclin was injured during the play.,10,2,3,PHI 19,0,PHI,
+9,2236,4,03:51,"(3:51) D.Jones punts 46 yards to ARI 31, Center-J.Dorenbos. T.Ginn ran ob at ARI 38 for 7 yards (E.Acho). PENALTY on ARI-R.Hughes, Offensive Holding, 10 yards, enforced at ARI 31.",22,2,4,PHI 23,0,PHI,PUNT
+9,2154,2,04:38,"(4:38) (No Huddle, Shotgun) N.Foles pass short right to J.Matthews to PHI 41 for 6 yards (R.Johnson). PENALTY on PHI-J.Maehl, Low Block, 15 yards, enforced at PHI 37.",10,2,3,PHI 35,0,PHI,PENALTY
+9,2111,2,05:21,(5:21) (Shotgun) L.McCoy left end to PHI 35 for 8 yards (T.Mathieu).,2,2,16,PHI 27,0,PHI,
+9,2189,2,04:24,(4:24) N.Foles pass incomplete deep left to J.Huff.,23,2,3,PHI 22,0,PHI,
+8,1922,1,07:14,(7:14) C.Palmer pass incomplete deep right to M.Floyd. Fleaflicker play. Handoff to #38 ARI.,10,2,0,ARI 38,0,ARI,
+8,2016,3,06:29,"(6:29) (Shotgun) C.Palmer pass short middle to J.Carlson to ARI 40 for 12 yards (B.Boykin, N.Allen).",20,2,2,ARI 28,0,ARI,
+8,1948,2,07:07,(7:07) C.Palmer pass incomplete short right to A.Ellington.,10,2,0,ARI 38,0,ARI,
+8,2040,4,06:01,"(6:01) D.Butler punts 41 yards to PHI 19, Center-M.Leach, fair catch by J.Maclin.",8,2,2,ARI 40,0,ARI,PUNT
+8,1970,3,07:02,"(7:02) (Shotgun) C.Palmer pass deep middle to Jo. Brown to PHI 41 for 21 yards (B.Fletcher). PENALTY on ARI-T.Larsen, Offensive Holding, 10 yards, enforced at ARI 38 - No Play.",10,2,-10,ARI 38,0,ARI,PENALTY
+11,2597,1,00:58,(:58) (Shotgun) N.Foles pass short middle to R.Cooper to PHI 45 for 3 yards (A.Cromartie).,10,2,34,PHI 42,0,PHI,
+11,2556,1,01:06,"(1:06) (No Huddle, Shotgun) N.Foles pass deep middle to Z.Ertz to PHI 42 for 15 yards (D.Bucannon).",10,2,31,PHI 27,0,PHI,
+11,2580,0,00:58,Timeout #1 by PHI at 00:58.,0,2,32,,0,,TIMEOUT
+11,2486,1,01:43,(1:43) (Shotgun) N.Foles pass short left to J.Matthews pushed ob at PHI 15 for 7 yards (R.Johnson).,13,2,4,PHI 8,0,PHI,
+11,2430,1,01:48,"(1:48) (Shotgun) PENALTY on ARI-C.Campbell, Neutral Zone Infraction, 5 yards, enforced at PHI 11 - No Play.",10,2,5,PHI 11,0,PHI,PENALTY
+11,2737,4,00:06,"(:06) D.Jones punts 44 yards to end zone, Center-J.Dorenbos, Touchback.",10,2,45,ARI 44,0,PHI,PUNT
+11,2453,1,01:48,"(1:48) (Shotgun) N.Foles pass incomplete short right to J.Matthews. PENALTY on PHI-J.Huff, Offensive Pass Interference, 8 yards, enforced at PHI 16 - No Play.",5,2,-3,PHI 16,0,PHI,PENALTY
+11,2647,1,00:23,"(:23) (No Huddle, Shotgun) N.Foles pass incomplete short left (L.Foote). ARI-A.Cromartie was injured during the play.",10,2,45,ARI 44,0,PHI,
+11,2621,2,00:32,"(:32) (No Huddle, Shotgun) N.Foles scrambles right end pushed ob at ARI 44 for 11 yards (R.Johnson).",7,2,45,PHI 45,0,PHI,
+11,2689,2,00:18,(:18) (Shotgun) N.Foles pass incomplete deep right to J.Maclin.,10,2,45,ARI 44,0,PHI,
+11,2672,0,00:18,Timeout #3 by ARI at 00:18. Taken due to injury under two minutes.,0,2,45,,0,,TIMEOUT
+11,2532,3,01:27,(1:27) (Shotgun) N.Foles pass short middle to J.Maclin to PHI 27 for 12 yards (R.Johnson; D.Bucannon).,6,2,16,PHI 15,0,PHI,
+11,2715,3,00:14,(:14) (Shotgun) N.Foles pass incomplete deep left to R.Cooper.,10,2,45,ARI 44,0,PHI,
+11,2510,2,01:37,"(1:37) (No Huddle, Shotgun) N.Foles pass incomplete deep left to R.Cooper (J.Powers).",6,2,4,PHI 15,0,PHI,
+10,2347,2,02:13,(2:13) C.Palmer pass short middle to L.Fitzgerald to ARI 47 for 11 yards (N.Allen).,16,2,26,ARI 36,0,ARI,
+10,2326,1,02:57,(2:57) A.Ellington right end to ARI 36 for -6 yards (C.Barwin).,10,2,15,ARI 42,0,ARI,
+10,2300,2,03:34,(3:34) (Shotgun) A.Ellington right end pushed ob at ARI 42 for 21 yards (M.Jenkins).,10,2,21,ARI 21,0,ARI,
+10,2278,1,03:41,(3:41) (Shotgun) C.Palmer pass incomplete deep right to Jo. Brown.,10,2,0,ARI 21,0,ARI,
+10,2410,4,01:56,"(1:56) D.Butler punts 42 yards to PHI 11, Center-M.Leach, fair catch by R.Cooper.",5,2,26,ARI 47,0,ARI,PUNT
+10,2388,3,02:00,(2:00) (Shotgun) C.Palmer pass incomplete short middle to J.Carlson.,5,2,26,ARI 47,0,ARI,
+10,2371,0,02:00,Two-Minute Warning,0,2,26,,0,,
+13,2903,1,14:07,(14:07) L.McCoy up the middle to PHI 25 for 5 yards (T.Mathieu).,10,3,5,PHI 20,0,PHI,
+13,3118,4,10:55,"(10:55) D.Jones punts 50 yards to end zone, Center-J.Dorenbos, Touchback.",3,3,30,50,0,PHI,PUNT
+13,2888,0,14:07,"C.Catanzaro kicks 65 yards from ARI 35 to end zone, Touchback.",0,3,0,ARI 35,0,ARI,KICKOFF
+13,3016,3,12:12,"(12:12) (No Huddle, Shotgun) N.Foles pass short left to Z.Ertz pushed ob at PHI 43 for 6 yards (T.Jefferson).",4,3,23,PHI 37,0,PHI,
+13,2924,2,13:43,"(13:43) (No Huddle, Shotgun) N.Foles pass incomplete short left to B.Celek.",5,3,5,PHI 25,0,PHI,
+13,3096,3,11:02,"(11:02) (No Huddle, Shotgun) N.Foles pass incomplete short left to J.Maclin (R.Johnson) [M.Benard].",3,3,30,50,0,PHI,
+13,3075,2,11:23,(11:23) (No Huddle) L.McCoy left end to 50 for -2 yards (L.Foote).,1,3,30,ARI 48,0,PHI,
+13,2946,3,13:38,(13:38) (Shotgun) N.Foles pass short right to J.Maehl to PHI 31 for 6 yards (J.Powers) [D.Bucannon].,5,3,30,PHI 25,0,PHI,
+13,2970,1,12:52,(12:52) (No Huddle) N.Foles pass incomplete short right to L.McCoy [L.Foote].,10,3,11,PHI 31,0,PHI,
+13,2992,2,12:46,"(12:46) (No Huddle, Shotgun) N.Foles pass short left to B.Celek to PHI 37 for 6 yards (T.Jefferson) [L.Foote].",10,3,17,PHI 31,0,PHI,
+13,3046,1,11:46,(11:46) (No Huddle) N.Foles pass short left to R.Cooper pushed ob at ARI 48 for 9 yards (A.Cromartie).,10,3,32,PHI 43,0,PHI,
+12,2771,0,15:00,"C.Parkey kicks 65 yards from PHI 35 to end zone, Touchback. PHI-E.Wolff was injured during the play.",0,3,0,PHI 35,0,PHI,KICKOFF
+12,2789,1,15:00,(15:00) A.Ellington right tackle to ARI 20 for no gain (B.Logan).,10,3,0,ARI 20,0,ARI,
+12,2810,2,14:24,(14:24) C.Palmer pass incomplete short middle to R.Housler.,10,3,0,ARI 20,0,ARI,
+12,2857,0,14:07,"C.Catanzaro extra point is GOOD, Center-M.Leach, Holder-D.Butler.",0,3,80,PHI 2,1,ARI,XP
+12,2832,3,14:19,"(14:19) (Shotgun) C.Palmer pass short right to L.Fitzgerald for 80 yards, TOUCHDOWN.",10,3,80,ARI 20,1,ARI,TD
+15,3377,4,07:24,"(7:24) C.Parkey 54 yard field goal is GOOD, Center-J.Dorenbos, Holder-D.Jones.",2,3,20,ARI 36,1,PHI,FG
+15,3355,3,07:29,"(7:29) (No Huddle, Shotgun) N.Foles pass incomplete short right to B.Celek (T.Jefferson).",2,3,20,ARI 36,0,PHI,
+15,3260,1,09:09,(9:09) (Shotgun) L.McCoy left end to PHI 46 for 2 yards (K.Minter).,10,3,2,PHI 44,0,PHI,
+15,3326,2,07:51,"(7:51) (No Huddle, Shotgun) N.Foles pass short left to J.Matthews pushed ob at ARI 36 for 1 yard (T.Mathieu).",3,3,20,ARI 37,0,PHI,
+15,3305,1,08:18,(8:18) (No Huddle) L.McCoy up the middle to ARI 37 for 7 yards (T.Jefferson).,10,3,19,ARI 44,0,PHI,
+15,3281,2,08:50,"(8:50) (No Huddle, Shotgun) N.Foles pass short middle to J.Maclin to ARI 44 for 10 yards (K.Minter).",8,3,12,PHI 46,0,PHI,
+14,3153,1,10:45,(10:45) A.Ellington left tackle to ARI 16 for -4 yards (D.Ryans).,10,3,-4,ARI 20,0,ARI,
+14,3195,3,09:25,(9:25) (Shotgun) C.Palmer pass incomplete deep left to L.Fitzgerald.,12,3,-2,ARI 18,0,ARI,
+14,3217,4,09:19,"(9:19) D.Butler punts 45 yards to PHI 37, Center-M.Leach. J.Maclin to PHI 44 for 7 yards (Ja. Brown, J.Bethel).",12,3,-2,ARI 18,0,ARI,PUNT
+14,3174,2,10:07,(10:07) A.Ellington up the middle to ARI 18 for 2 yards (F.Cox).,14,3,-2,ARI 16,0,ARI,
+17,3618,3,04:33,"(4:33) (No Huddle, Shotgun) N.Foles pass incomplete short left to J.Matthews (T.Mathieu).",3,3,7,ARI 44,0,PHI,
+17,3597,2,05:10,"(5:10) (No Huddle, Shotgun) L.McCoy up the middle to ARI 44 for 3 yards (T.Jefferson).",6,3,7,ARI 47,0,PHI,
+17,3573,1,05:45,(5:45) (Shotgun) N.Foles pass short left to R.Cooper to ARI 47 for 4 yards (T.Jefferson).,10,3,4,PHI 49,0,PHI,
+17,3640,4,04:27,"(4:27) D.Jones punts 41 yards to ARI 3, Center-J.Dorenbos. T.Ginn pushed ob at ARI 14 for 11 yards (C.Polk).",3,3,7,ARI 44,0,PHI,PUNT
+16,3508,3,06:09,(6:09) (Shotgun) C.Palmer pass incomplete short left to Jo. Brown [C.Barwin].,13,3,-3,ARI 17,0,ARI,
+16,3462,1,06:52,(6:52) C.Palmer pass incomplete short middle to A.Ellington.,20,3,-10,ARI 10,0,ARI,
+16,3427,1,07:19,"(7:19) C.Palmer pass short middle to L.Fitzgerald to ARI 25 for 5 yards (E.Acho). PENALTY on ARI-P.Fanaika, Offensive Holding, 10 yards, enforced at ARI 20 - No Play.",10,3,-10,ARI 20,0,ARI,PENALTY
+16,3484,2,06:48,(6:48) (Shotgun) C.Palmer pass short left to Jo. Brown to ARI 17 for 7 yards (C.Williams).,20,3,-3,ARI 10,0,ARI,
+16,3530,4,06:03,"(6:03) D.Butler punts 52 yards to PHI 31, Center-M.Leach. J.Maclin pushed ob at PHI 49 for 18 yards (R.Johnson).",13,3,-3,ARI 17,0,ARI,PUNT
+16,3412,0,07:19,"C.Parkey kicks 65 yards from PHI 35 to end zone, Touchback.",0,3,0,PHI 35,0,PHI,KICKOFF
+19,3779,1,02:31,"(2:31) (Shotgun) N.Foles pass deep middle to J.Maclin for 54 yards, TOUCHDOWN [D.Williams].",10,3,54,PHI 46,1,PHI,TD
+19,3800,0,02:22,"C.Parkey extra point is GOOD, Center-J.Dorenbos, Holder-D.Jones.",0,3,54,ARI 2,1,PHI,XP
+18,3737,3,02:48,(2:48) (Shotgun) C.Palmer pass incomplete short right to L.Fitzgerald (B.Boykin).,14,3,-4,ARI 10,0,ARI,
+18,3759,4,02:39,"(2:39) D.Butler punts 44 yards to PHI 46, Center-M.Leach, fair catch by J.Maclin.",14,3,-4,ARI 10,0,ARI,PUNT
+18,3692,2,03:39,(3:39) A.Ellington left tackle to ARI 15 for -2 yards (B.Graham).,7,3,1,ARI 17,0,ARI,
+18,3666,1,04:17,(4:17) A.Ellington up the middle to ARI 17 for 3 yards (B.Bair).,10,3,3,ARI 14,0,ARI,
+18,3713,3,03:39,"(3:39) PENALTY on ARI, Offensive 12 On-field, 5 yards, enforced at ARI 15 - No Play.",9,3,-4,ARI 15,0,ARI,PENALTY

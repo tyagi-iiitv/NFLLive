@@ -1,216 +1,216 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1124,1,14:40,,10,2,24,IND 44,0,IND,FUMBLE
-9,1180,3,13:15,,4,2,20,50,0,IND,
-9,1246,3,11:15,,3,2,27,CAR 29,0,IND,
-9,1156,2,13:58,,11,2,6,IND 43,0,IND,
-9,1267,4,10:27,,3,2,27,CAR 29,1,IND,FG
-9,1204,1,12:36,,10,2,24,CAR 36,0,IND,
-9,1225,2,11:56,,6,2,27,CAR 32,0,IND,
-24,3105,0,10:44,,0,4,30,IND 15,0,CAR,XPM
-24,3064,1,11:25,,10,4,22,IND 11,0,CAR,
-24,3036,1,12:08,,10,4,19,IND 30,0,CAR,
-24,3085,2,10:51,,7,4,30,IND 8,1,CAR,TD
-10,1334,2,09:40,,1,2,11,CAR 25,0,CAR,
-10,1355,1,09:05,,10,2,18,CAR 27,0,CAR,
-10,1286,0,10:24,,0,2,18,IND 35,0,IND,KICKOFF
-10,1379,2,08:19,,3,2,18,CAR 34,0,CAR,FUMBLE
-10,1313,1,10:18,,10,2,18,CAR 16,0,CAR,
-20,2752,0,00:14,,0,3,29,IND 15,1,CAR,XP
-20,2732,2,00:22,,8,3,29,IND 27,1,CAR,TD
-20,2711,1,01:01,,10,3,2,IND 29,0,CAR,
-30,4335,1,14:52,,10,5,6,IND 45,0,IND,
-30,4420,3,12:46,,10,5,23,CAR 38,0,IND,
-30,4356,2,14:22,,4,5,17,CAR 49,0,IND,
-30,4448,4,12:09,,4,5,23,CAR 32,1,IND,FG
-30,4313,0,15:00,,0,5,0,CAR 35,0,CAR,KICKOFF
-30,4377,1,13:37,,10,5,17,CAR 38,0,IND,
-30,4399,2,13:30,,10,5,17,CAR 38,0,IND,
-6,764,1,04:34,,10,1,1,CAR 4,0,CAR,
-6,834,4,03:03,,2,1,8,CAR 12,0,CAR,PUNT
-6,785,2,03:55,,9,1,8,CAR 5,0,CAR,TIMEOUT
-6,806,3,03:06,,2,1,8,CAR 12,0,CAR,
-27,3591,1,03:41,,10,4,44,CAR 22,0,IND,
-27,3521,2,04:35,,10,4,0,IND 43,0,IND,
-27,3499,1,04:41,,10,4,0,IND 43,0,IND,
-27,3615,2,03:34,,1,4,46,CAR 13,0,IND,
-27,3688,0,02:27,,0,4,57,CAR 15,1,IND,XP
-27,3567,1,04:04,,10,4,35,CAR 37,0,IND,
-27,3543,3,04:29,,10,4,20,IND 43,0,IND,
-27,3639,1,03:05,,10,4,49,CAR 11,0,IND,
-27,3668,2,02:37,,7,4,57,CAR 8,1,IND,TD
-18,2482,0,05:08,,0,3,40,,0,,TIMEOUT
-18,2499,1,05:08,,10,3,54,IND 40,0,CAR,
-18,2437,2,06:27,,10,3,0,CAR 20,0,CAR,
-18,2586,2,02:29,,1,3,77,IND 1,0,CAR,FUMBLE
-18,2520,1,04:32,,10,3,60,IND 26,0,CAR,
-18,2544,2,03:57,,4,3,74,IND 20,0,CAR,
-18,2565,1,03:14,,6,3,79,IND 6,0,CAR,
-18,2458,3,05:51,,10,3,40,CAR 20,0,CAR,
-18,2415,1,06:33,,10,3,0,CAR 20,0,CAR,
-28,3782,0,02:16,,0,4,6,,0,,TIMEOUT
-28,3761,2,02:22,,8,4,7,CAR 22,0,CAR,
-28,3704,0,02:27,,0,4,0,IND 35,0,IND,KICKOFF
-28,3799,0,02:16,,0,4,7,,0,,TIMEOUT
-28,3723,1,02:27,,10,4,2,CAR 20,0,CAR,
-28,3816,3,02:16,,3,4,7,CAR 27,0,CAR,
-28,3744,0,02:22,,0,4,2,,0,,TIMEOUT
-28,3838,4,02:10,,3,4,7,CAR 27,0,CAR,PUNT
-26,3457,0,04:51,,0,4,5,,0,,TIMEOUT
-26,3362,1,07:03,,10,4,4,CAR 20,0,CAR,
-26,3383,2,06:22,,6,4,5,CAR 24,0,CAR,
-26,3343,0,07:04,,0,4,0,IND 35,0,IND,KICKOFF
-26,3404,3,05:35,,5,4,-5,CAR 25,0,CAR,PENALTY
-26,3474,4,04:51,,5,4,5,CAR 25,0,CAR,PUNT
-26,3436,3,05:01,,15,4,5,CAR 15,0,CAR,
-31,4467,0,12:04,,0,5,0,IND 35,0,IND,KICKOFF
-31,4698,4,07:55,,8,5,57,IND 23,1,CAR,FG
-31,4676,3,08:00,,8,5,57,IND 23,0,CAR,
-31,4506,2,11:30,,9,5,24,CAR 21,0,CAR,
-31,4659,0,08:00,,0,5,57,,0,,TIMEOUT
-31,4530,1,10:54,,10,5,24,CAR 44,0,CAR,
-31,4569,2,10:46,,10,5,43,CAR 44,0,CAR,
-31,4552,0,10:46,,0,5,24,,0,,TIMEOUT
-31,4482,1,12:04,,10,5,1,CAR 20,0,CAR,
-31,4617,1,09:25,,10,5,55,IND 25,0,CAR,
-31,4638,2,08:45,,10,5,57,IND 25,0,CAR,
-31,4593,1,10:08,,10,5,55,IND 37,0,CAR,
-25,3307,2,07:11,,1,4,86,CAR 18,1,IND,TD
-25,3327,0,07:04,,0,4,86,CAR 15,1,IND,XP
-25,3283,1,07:48,,10,4,68,CAR 27,0,IND,
-25,3144,1,10:40,,10,4,0,IND 14,0,IND,
-25,3213,2,09:01,,6,4,29,IND 31,0,IND,
-25,3121,0,10:44,,0,4,0,CAR 35,0,CAR,KICKOFF
-25,3259,2,08:20,,10,4,59,IND 43,0,IND,
-25,3189,1,09:32,,10,4,17,IND 27,0,IND,
-25,3165,2,10:04,,10,4,13,IND 14,0,IND,
-25,3237,1,08:27,,10,4,29,IND 43,0,IND,
-1,87,2,14:31,,7,1,2,IND 25,0,IND,FUMBLE
-1,58,1,14:56,,10,1,3,IND 22,0,IND,
-1,36,0,15:00,,0,1,2,CAR 35,0,CAR,KICKOFF
-5,702,2,05:32,,5,1,26,CAR 44,0,IND,
-5,723,3,04:49,,7,1,26,CAR 46,0,IND,
-5,595,0,07:21,,0,1,0,CAR 35,0,CAR,KICKOFF
-5,638,2,06:36,,10,1,0,IND 28,0,IND,
-5,681,1,06:03,,10,1,28,CAR 49,0,IND,
-5,745,4,04:43,,7,1,26,CAR 46,0,IND,PUNT
-5,660,3,06:31,,10,1,23,IND 28,0,IND,
-5,617,1,07:14,,10,1,0,IND 28,0,IND,
-13,1713,4,02:39,,3,2,20,IND 47,0,IND,PUNT
-13,1692,3,03:19,,1,2,20,IND 49,0,IND,
-13,1626,2,05:32,,10,2,13,IND 27,0,IND,
-13,1605,1,06:06,,10,2,0,IND 27,0,IND,
-13,1671,2,04:05,,6,2,22,IND 44,0,IND,
-13,1650,1,04:51,,10,2,17,IND 40,0,IND,
-29,3934,3,01:49,,10,4,0,IND 40,0,IND,
-29,4015,2,01:18,,10,4,23,CAR 48,0,IND,
-29,4194,1,00:20,,10,4,54,CAR 12,0,IND,
-29,3895,0,01:56,,0,4,0,,0,,
-29,4142,2,00:41,,10,4,41,CAR 26,0,IND,
-29,4237,0,00:09,,0,4,54,,0,,TIMEOUT
-29,4280,4,00:02,,4,4,54,CAR 6,1,IND,FG
-29,3993,1,01:24,,10,4,12,CAR 48,0,IND,
-29,4065,2,01:00,,10,4,29,CAR 37,0,IND,
-29,4254,3,00:09,,4,4,54,CAR 6,0,IND,
-29,4039,1,01:18,,10,4,23,CAR 37,0,IND,
-29,3912,2,01:56,,10,4,0,IND 40,0,IND,
-29,3873,1,02:02,,10,4,0,IND 40,0,IND,
-29,4091,3,00:53,,4,4,34,CAR 31,0,IND,
-29,3963,4,01:49,,10,4,12,IND 40,0,IND,
-29,4166,3,00:31,,3,4,48,CAR 19,0,IND,
-29,4120,1,00:48,,10,4,34,CAR 26,0,IND,
-29,4216,2,00:19,,10,4,54,CAR 12,0,IND,
-33,4786,1,07:02,,10,5,0,IND 39,0,CAR,
-33,4831,3,06:12,,10,5,5,IND 39,0,CAR,
-33,4808,2,06:59,,10,5,0,IND 39,0,CAR,
-33,4855,4,05:27,,5,5,5,IND 34,1,CAR,FG
-21,2865,4,14:18,,16,4,-6,IND 14,0,IND,PUNT
-21,2846,3,14:57,,9,4,-6,IND 21,0,IND,
-21,2787,1,00:14,,10,3,1,IND 20,0,IND,
-21,2768,0,00:14,,0,3,0,CAR 35,0,CAR,KICKOFF
-21,2824,2,15:00,,9,4,1,IND 21,0,IND,
-21,2808,0,,,0,3,1,,0,,
-23,2988,1,12:25,,10,4,0,IND 23,0,IND,
-23,3010,2,12:20,,10,4,0,IND 23,0,IND,INT
-11,1466,3,07:14,,4,2,6,CAR 16,0,IND,
-11,1445,2,08:01,,10,2,6,CAR 22,0,IND,
-11,1423,1,08:08,,10,2,0,CAR 22,0,IND,
-11,1488,4,07:08,,4,2,6,CAR 16,1,IND,FG
-14,1730,1,02:30,,10,2,-7,CAR 20,0,CAR,
-14,1768,2,02:00,,17,2,-6,CAR 13,0,CAR,
-14,1861,2,01:22,,2,2,48,IND 30,0,CAR,
-14,1751,0,02:00,,0,2,-7,,0,,
-14,1939,4,01:00,,14,2,38,IND 42,0,CAR,PUNT
-14,1820,0,01:43,,0,2,38,,0,,TIMEOUT
-14,1904,4,01:11,,4,2,38,IND 32,0,CAR,PENALTY
-14,1882,3,01:15,,4,2,48,IND 32,0,CAR,
-14,1796,3,01:52,,16,2,42,CAR 14,0,CAR,
-14,1837,1,01:43,,10,2,50,IND 38,0,CAR,
-8,1040,0,,,0,1,3,,0,,
-8,1056,2,15:00,,7,2,3,CAR 13,0,CAR,
-8,1019,1,00:25,,10,1,3,CAR 10,0,CAR,
-8,1084,3,14:55,,7,2,3,CAR 13,0,CAR,
-8,1106,4,14:49,,7,2,3,CAR 13,0,CAR,PUNT
-19,2638,2,02:20,,10,3,1,IND 3,0,IND,
-19,2659,3,01:22,,9,3,1,IND 4,0,IND,
-19,2681,4,01:14,,9,3,1,IND 4,0,IND,PUNT
-19,2612,1,02:23,,10,3,0,IND 3,0,IND,
-22,2963,4,12:39,,17,4,-7,CAR 17,0,CAR,PUNT
-22,2944,3,13:19,,8,4,-7,CAR 26,0,CAR,
-22,2923,2,14:00,,10,4,2,CAR 24,0,CAR,
-22,2901,1,14:06,,10,4,0,CAR 24,0,CAR,
-12,1579,1,06:15,,10,2,11,CAR 34,0,CAR,INT
-12,1511,0,07:04,,0,2,0,IND 35,0,IND,KICKOFF
-12,1555,2,06:52,,10,2,11,CAR 23,0,CAR,
-12,1533,1,06:58,,10,2,0,CAR 23,0,CAR,
-16,2208,4,11:20,,2,3,36,IND 44,0,CAR,PUNT
-16,2088,2,14:12,,10,3,17,CAR 33,0,CAR,
-16,2109,3,13:29,,6,3,28,CAR 37,0,CAR,
-16,2066,1,14:16,,10,3,13,CAR 33,0,CAR,
-16,2045,1,15:00,,10,3,13,CAR 20,0,CAR,
-16,2186,3,11:27,,2,3,36,IND 44,0,CAR,
-16,2130,1,12:41,,10,3,35,CAR 48,0,CAR,
-16,2030,0,15:00,,0,3,0,IND 35,0,IND,KICKOFF
-16,2151,2,12:08,,3,3,36,IND 45,0,CAR,
-7,889,1,02:25,,20,1,-5,IND 27,0,IND,PENALTY
-7,859,1,02:51,,10,1,3,IND 37,0,IND,PENALTY
-7,978,3,00:42,,7,1,3,IND 40,0,IND,
-7,957,2,01:22,,16,1,3,IND 31,0,IND,
-7,921,1,02:02,,15,1,-6,IND 32,0,IND,FUMBLE
-7,1000,4,00:35,,7,1,3,IND 40,0,IND,PUNT
-3,254,3,12:35,,3,1,7,IND 27,0,IND,INT
-3,212,1,13:41,,10,1,5,IND 20,0,IND,
-3,197,0,13:41,,0,1,0,CAR 35,0,CAR,KICKOFF
-3,233,2,13:16,,5,1,7,IND 25,0,IND,
-32,4717,0,07:50,,0,5,0,CAR 35,0,CAR,KICKOFF
-32,4739,1,07:44,,10,5,2,IND 29,0,IND,
-32,4760,2,07:10,,8,5,2,IND 31,0,IND,INT
-17,2227,1,11:12,,10,3,3,IND 20,0,IND,
-17,2293,1,09:29,,10,3,17,IND 34,0,IND,
-17,2272,3,09:58,,2,3,14,IND 28,0,IND,
-17,2377,3,07:18,,1,3,28,CAR 45,0,IND,
-17,2335,1,08:24,,10,3,27,IND 46,0,IND,
-17,2356,2,07:46,,9,3,35,IND 47,0,IND,
-17,2314,2,08:55,,7,3,26,IND 37,0,IND,
-17,2251,2,10:39,,7,3,8,IND 23,0,IND,
-17,2398,4,06:38,,8,3,28,IND 48,0,IND,PUNT
-4,394,3,10:32,,8,1,21,IND 21,0,CAR,PENALTY
-4,511,2,08:38,,15,1,27,IND 17,0,CAR,
-4,351,1,11:05,,10,1,16,IND 23,0,CAR,
-4,323,3,11:42,,9,1,14,IND 36,0,CAR,
-4,466,1,09:40,,10,1,20,IND 12,0,CAR,PENALTY
-4,445,4,09:40,,1,1,25,IND 14,0,CAR,
-4,280,1,12:24,,10,1,1,IND 37,0,CAR,
-4,372,2,10:32,,8,1,16,IND 21,0,CAR,
-4,575,0,07:21,,0,1,37,IND 15,1,CAR,XP
-4,424,3,10:25,,3,1,23,IND 16,0,CAR,
-4,537,3,07:56,,8,1,34,IND 10,0,CAR,
-4,558,4,07:27,,1,1,37,IND 3,1,CAR,TD
-4,489,1,08:43,,15,1,20,IND 17,0,CAR,
-4,301,2,11:50,,9,1,1,IND 36,0,CAR,
-2,178,4,13:45,,7,1,3,IND 21,1,CAR,FG
-2,134,2,13:53,,7,1,3,IND 21,0,CAR,
-2,156,3,13:50,,7,1,3,IND 21,0,CAR,
-2,113,1,14:25,,10,1,3,IND 24,0,CAR,
-15,1979,2,00:12,,3,2,17,IND 15,0,IND,
-15,1958,1,00:51,,10,2,17,IND 8,0,IND,
-15,2000,0,,,0,2,17,,0,,
+24,3085,2,10:51,"(10:51) (No Huddle, Shotgun) C.Newton pass short right to C.Brown for 8 yards, TOUCHDOWN.",7,4,30,IND 8,1,CAR,TD
+24,3105,0,10:44,"G.Gano extra point is No Good, Wide Left, Center-J.Jansen, Holder-B.Nortman.",0,4,30,IND 15,0,CAR,XPM
+24,3036,1,12:08,(12:08) (Shotgun) C.Newton pass deep left to G.Olsen to IND 11 for 19 yards (E.Walden).,10,4,19,IND 30,0,CAR,
+24,3064,1,11:25,"(11:25) (No Huddle, Shotgun) F.Whittaker left end to IND 8 for 3 yards (D.Butler).",10,4,22,IND 11,0,CAR,
+25,3259,2,08:20,(8:20) (Shotgun) A.Luck pass deep right to A.Johnson to CAR 27 for 30 yards (K.Coleman).,10,4,59,IND 43,0,IND,
+25,3237,1,08:27,"(8:27) (No Huddle, Shotgun) A.Luck pass incomplete short left to A.Johnson (C.Tillman).",10,4,29,IND 43,0,IND,
+25,3213,2,09:01,"(9:01) (No Huddle, Shotgun) A.Luck pass short right to F.Gore to IND 43 for 12 yards (K.Coleman; B.Benwikere).",6,4,29,IND 31,0,IND,
+25,3121,0,10:44,G.Gano kicks 69 yards from CAR 35 to IND -4. Q.Bray to IND 14 for 18 yards (J.Webb).,0,4,0,CAR 35,0,CAR,KICKOFF
+25,3144,1,10:40,(10:40) (Shotgun) F.Gore up the middle to IND 14 for no gain (J.Allen; L.Kuechly).,10,4,0,IND 14,0,IND,
+25,3327,0,07:04,"A.Vinatieri extra point is GOOD, Center-M.Overton, Holder-P.McAfee.",0,4,86,CAR 15,1,IND,XP
+25,3307,2,07:11,"(7:11) (No Huddle, Shotgun) A.Luck pass deep left to A.Johnson for 18 yards, TOUCHDOWN.",1,4,86,CAR 18,1,IND,TD
+25,3165,2,10:04,(10:04) A.Luck pass short left to D.Moncrief to IND 27 for 13 yards (C.Tillman).,10,4,13,IND 14,0,IND,
+25,3283,1,07:48,"(7:48) (No Huddle, Shotgun) A.Luck pass short right to G.Whalen to CAR 18 for 9 yards (J.Norman).",10,4,68,CAR 27,0,IND,
+25,3189,1,09:32,"(9:32) (No Huddle, Shotgun) A.Luck pass short right to D.Allen to IND 31 for 4 yards (K.Coleman).",10,4,17,IND 27,0,IND,
+26,3474,4,04:51,"(4:51) B.Nortman punts 38 yards to IND 37, Center-J.Jansen. T.Hilton to IND 43 for 6 yards (B.Jacobs).",5,4,5,CAR 25,0,CAR,PUNT
+26,3457,0,04:51,Timeout #1 by IND at 04:51.,0,4,5,,0,,TIMEOUT
+26,3343,0,07:04,"P.McAfee kicks 65 yards from IND 35 to end zone, Touchback.",0,4,0,IND 35,0,IND,KICKOFF
+26,3436,3,05:01,(5:01) (Shotgun) J.Stewart up the middle to CAR 25 for 10 yards (D.Lowery; D.Jackson).,15,4,5,CAR 15,0,CAR,
+26,3362,1,07:03,(7:03) J.Stewart right end pushed ob at CAR 24 for 4 yards (D.Lowery).,10,4,4,CAR 20,0,CAR,
+26,3404,3,05:35,"(5:35) (Shotgun) C.Newton up the middle to CAR 42 for 17 yards (M.Adams). PENALTY on CAR-G.Olsen, Offensive Holding, 10 yards, enforced at CAR 25 - No Play.",5,4,-5,CAR 25,0,CAR,PENALTY
+26,3383,2,06:22,(6:22) (Shotgun) J.Stewart up the middle to CAR 25 for 1 yard (R.Mathis).,6,4,5,CAR 24,0,CAR,
+27,3591,1,03:41,"(3:41) (No Huddle, Shotgun) A.Luck pass short right to G.Whalen pushed ob at CAR 13 for 9 yards (B.Benwikere).",10,4,44,CAR 22,0,IND,
+27,3688,0,02:27,"A.Vinatieri extra point is GOOD, Center-M.Overton, Holder-P.McAfee.",0,4,57,CAR 15,1,IND,XP
+27,3639,1,03:05,"(3:05) (No Huddle, Shotgun) A.Luck pass short left to C.Fleener pushed ob at CAR 8 for 3 yards (L.Kuechly).",10,4,49,CAR 11,0,IND,
+27,3615,2,03:34,(3:34) (Shotgun) A.Luck pass short left to C.Fleener to CAR 11 for 2 yards (B.Benwikere).,1,4,46,CAR 13,0,IND,
+27,3543,3,04:29,(4:29) (Shotgun) A.Luck pass deep middle to A.Johnson to CAR 37 for 20 yards (K.Coleman).,10,4,20,IND 43,0,IND,
+27,3499,1,04:41,(4:41) (Shotgun) A.Luck pass incomplete short left to A.Bradshaw.,10,4,0,IND 43,0,IND,
+27,3668,2,02:37,"(2:37) (No Huddle, Shotgun) A.Luck pass short middle to C.Fleener for 8 yards, TOUCHDOWN.",7,4,57,CAR 8,1,IND,TD
+27,3521,2,04:35,(4:35) A.Luck pass incomplete deep right to D.Moncrief [J.Allen].,10,4,0,IND 43,0,IND,
+27,3567,1,04:04,(4:04) (No Huddle) A.Luck pass short right to T.Hilton to CAR 22 for 15 yards (J.Norman).,10,4,35,CAR 37,0,IND,
+20,2711,1,01:01,(1:01) J.Stewart up the middle to IND 27 for 2 yards (H.Anderson).,10,3,2,IND 29,0,CAR,
+20,2752,0,00:14,"G.Gano extra point is GOOD, Center-J.Jansen, Holder-B.Nortman.",0,3,29,IND 15,1,CAR,XP
+20,2732,2,00:22,"(:22) (No Huddle, Shotgun) C.Newton pass deep left to G.Olsen for 27 yards, TOUCHDOWN.",8,3,29,IND 27,1,CAR,TD
+21,2787,1,00:14,(:14) (Shotgun) F.Gore up the middle to IND 21 for 1 yard (K.Short; K.Ealy).,10,3,1,IND 20,0,IND,
+21,2768,0,00:14,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback.",0,3,0,CAR 35,0,CAR,KICKOFF
+21,2865,4,14:18,"(14:18) P.McAfee punts 52 yards to CAR 34, Center-M.Overton. T.Ginn to CAR 34 for no gain (C.Anderson). PENALTY on CAR-T.Williams, Offensive Holding, 10 yards, enforced at CAR 34.",16,4,-6,IND 14,0,IND,PUNT
+21,2846,3,14:57,(14:57) (Shotgun) A.Luck sacked at IND 14 for -7 yards (J.Allen).,9,4,-6,IND 21,0,IND,
+21,2808,0,,END QUARTER 3,0,3,1,,0,,
+21,2824,2,15:00,(15:00) (Shotgun) A.Luck pass incomplete short left to D.Moncrief (K.Short).,9,4,1,IND 21,0,IND,
+22,2901,1,14:06,(14:06) (Shotgun) C.Newton pass incomplete short right to G.Olsen (G.Toler).,10,4,0,CAR 24,0,CAR,
+22,2944,3,13:19,(13:19) (Shotgun) C.Newton sacked at CAR 17 for -9 yards (R.Mathis).,8,4,-7,CAR 26,0,CAR,
+22,2923,2,14:00,(14:00) J.Stewart up the middle to CAR 26 for 2 yards (B.Werner; H.Anderson).,10,4,2,CAR 24,0,CAR,
+22,2963,4,12:39,"(12:39) B.Nortman punts 53 yards to IND 30, Center-J.Jansen. T.Hilton to IND 23 for -7 yards (T.Williams).",17,4,-7,CAR 17,0,CAR,PUNT
+23,3010,2,12:20,(12:20) A.Luck pass deep middle intended for T.Hilton INTERCEPTED by K.Coleman at IND 45. K.Coleman to IND 30 for 15 yards (A.Johnson).,10,4,0,IND 23,0,IND,INT
+23,2988,1,12:25,(12:25) A.Luck pass incomplete short left to C.Fleener.,10,4,0,IND 23,0,IND,
+28,3782,0,02:16,Timeout #3 by IND at 02:16.,0,4,6,,0,,TIMEOUT
+28,3761,2,02:22,(2:22) (Shotgun) J.Stewart up the middle to CAR 27 for 5 yards (J.Freeman; D.Jackson).,8,4,7,CAR 22,0,CAR,
+28,3799,0,02:16,Timeout #2 by CAR at 02:16.,0,4,7,,0,,TIMEOUT
+28,3744,0,02:22,Timeout #2 by IND at 02:22.,0,4,2,,0,,TIMEOUT
+28,3838,4,02:10,"(2:10) B.Nortman punts 40 yards to IND 33, Center-J.Jansen. T.Hilton pushed ob at IND 40 for 7 yards (A.Klein).",3,4,7,CAR 27,0,CAR,PUNT
+28,3816,3,02:16,(2:16) (Shotgun) C.Newton pass incomplete short left to T.Ginn (V.Davis).,3,4,7,CAR 27,0,CAR,
+28,3704,0,02:27,"P.McAfee kicks 65 yards from IND 35 to end zone, Touchback.",0,4,0,IND 35,0,IND,KICKOFF
+28,3723,1,02:27,(2:27) (Shotgun) J.Stewart up the middle to CAR 22 for 2 yards (H.Anderson; D.Jackson).,10,4,2,CAR 20,0,CAR,
+29,4166,3,00:31,(:31) (Shotgun) A.Luck pass short left to C.Fleener to CAR 12 for 7 yards (L.Kuechly).,3,4,48,CAR 19,0,IND,
+29,4091,3,00:53,(:53) (Shotgun) A.Luck pass short right to D.Moncrief ran ob at CAR 26 for 5 yards.,4,4,34,CAR 31,0,IND,
+29,4120,1,00:48,(:48) (Shotgun) A.Luck pass incomplete deep left to T.Hilton (K.Coleman).,10,4,34,CAR 26,0,IND,
+29,3912,2,01:56,(1:56) (Shotgun) A.Luck pass incomplete deep right to D.Moncrief (C.Tillman).,10,4,0,IND 40,0,IND,
+29,4065,2,01:00,(1:00) (Shotgun) A.Luck scrambles left end pushed ob at CAR 31 for 6 yards (R.Harper).,10,4,29,CAR 37,0,IND,
+29,3934,3,01:49,(1:49) (Shotgun) A.Luck pass incomplete deep right to D.Moncrief.,10,4,0,IND 40,0,IND,
+29,4194,1,00:20,(:20) (No Huddle) A.Luck spiked the ball to stop the clock.,10,4,54,CAR 12,0,IND,
+29,3873,1,02:02,(2:02) (Shotgun) A.Luck pass incomplete short left to D.Moncrief (L.Kuechly).,10,4,0,IND 40,0,IND,
+29,4254,3,00:09,(:09) (Shotgun) A.Luck pass incomplete short middle to A.Johnson (L.Kuechly).,4,4,54,CAR 6,0,IND,
+29,4015,2,01:18,(1:18) (Shotgun) A.Luck pass short middle to G.Whalen to CAR 37 for 11 yards (C.Tillman).,10,4,23,CAR 48,0,IND,
+29,4142,2,00:41,(:41) (Shotgun) A.Luck pass short right to G.Whalen to CAR 19 for 7 yards (R.Harper).,10,4,41,CAR 26,0,IND,
+29,4237,0,00:09,Timeout #3 by CAR at 00:09.,0,4,54,,0,,TIMEOUT
+29,4280,4,00:02,"(:02) A.Vinatieri 24 yard field goal is GOOD, Center-M.Overton, Holder-P.McAfee.",4,4,54,CAR 6,1,IND,FG
+29,4216,2,00:19,(:19) (Shotgun) A.Luck scrambles right end pushed ob at CAR 6 for 6 yards (J.Norman).,10,4,54,CAR 12,0,IND,
+29,3963,4,01:49,"(1:49) (Shotgun) A.Luck pass short middle to G.Whalen to CAR 48 for 12 yards (L.Kuechly). The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands.",10,4,12,IND 40,0,IND,
+29,4039,1,01:18,(1:18) (No Huddle) A.Luck spiked the ball to stop the clock.,10,4,23,CAR 37,0,IND,
+29,3993,1,01:24,(1:24) (Shotgun) A.Luck pass incomplete deep right to T.Hilton (J.Norman).,10,4,12,CAR 48,0,IND,
+29,3895,0,01:56,Two-Minute Warning,0,4,0,,0,,
+1,87,2,14:31,"(14:31) A.Luck Aborted. J.Harrison FUMBLES at IND 25, RECOVERED by CAR-R.Harper at IND 24. R.Harper to IND 24 for no gain (J.Reitz).",7,1,2,IND 25,0,IND,FUMBLE
+1,36,0,15:00,"G.Gano kicks 73 yards from CAR 35 to IND -8. Q.Bray MUFFS catch, touched at IND -8, and recovers at IND -8. Q.Bray to IND 22 for 30 yards (M.Tolbert).",0,1,2,CAR 35,0,CAR,KICKOFF
+1,58,1,14:56,(14:56) A.Luck pass short left to C.Fleener pushed ob at IND 25 for 3 yards (R.Harper).,10,1,3,IND 22,0,IND,
+3,197,0,13:41,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback.",0,1,0,CAR 35,0,CAR,KICKOFF
+3,212,1,13:41,(13:41) F.Gore left tackle to IND 25 for 5 yards (K.Short; L.Kuechly).,10,1,5,IND 20,0,IND,
+3,254,3,12:35,(12:35) A.Luck pass short left intended for T.Hilton INTERCEPTED by C.Tillman [J.Allen] at IND 37. C.Tillman to IND 37 for no gain (D.Allen).,3,1,7,IND 27,0,IND,INT
+3,233,2,13:16,(13:16) (No Huddle) F.Gore left tackle to IND 27 for 2 yards (L.Kuechly; T.Davis).,5,1,7,IND 25,0,IND,
+2,178,4,13:45,"(13:45) G.Gano 39 yard field goal is GOOD, Center-J.Jansen, Holder-B.Nortman.",7,1,3,IND 21,1,CAR,FG
+2,156,3,13:50,"(13:50) (No Huddle, Shotgun) C.Newton pass incomplete short left to G.Olsen.",7,1,3,IND 21,0,CAR,
+2,113,1,14:25,(14:25) J.Stewart left guard to IND 21 for 3 yards (D.Parry; K.Langford).,10,1,3,IND 24,0,CAR,
+2,134,2,13:53,(13:53) (No Huddle) C.Newton pass incomplete short right to J.Stewart.,7,1,3,IND 21,0,CAR,
+5,595,0,07:21,G.Gano kicks 60 yards from CAR 35 to IND 5. Z.Tipton to IND 28 for 23 yards (T.Boston).,0,1,0,CAR 35,0,CAR,KICKOFF
+5,745,4,04:43,"(4:43) P.McAfee punts 42 yards to CAR 4, Center-M.Overton, downed by IND-D.Moncrief.",7,1,26,CAR 46,0,IND,PUNT
+5,638,2,06:36,(6:36) A.Luck pass incomplete short left to C.Fleener.,10,1,0,IND 28,0,IND,
+5,617,1,07:14,(7:14) F.Gore right end to IND 28 for no gain (K.Love).,10,1,0,IND 28,0,IND,
+5,702,2,05:32,(5:32) F.Gore up the middle to CAR 46 for -2 yards (L.Kuechly).,5,1,26,CAR 44,0,IND,
+5,660,3,06:31,(6:31) (Shotgun) A.Bradshaw up the middle to CAR 49 for 23 yards (T.Boston).,10,1,23,IND 28,0,IND,
+5,723,3,04:49,(4:49) (Shotgun) A.Luck pass incomplete short left to D.Allen.,7,1,26,CAR 46,0,IND,
+5,681,1,06:03,(6:03) F.Gore up the middle to CAR 44 for 5 yards (J.Allen).,10,1,28,CAR 49,0,IND,
+4,489,1,08:43,(8:43) C.Newton pass incomplete deep middle to G.Olsen.,15,1,20,IND 17,0,CAR,
+4,301,2,11:50,"(11:50) (No Huddle, Shotgun) C.Newton pass incomplete deep left to T.Ginn [D.Parry].",9,1,1,IND 36,0,CAR,
+4,466,1,09:40,"(9:40) (No Huddle, Shotgun) PENALTY on CAR-M.Remmers, False Start, 5 yards, enforced at IND 12 - No Play.",10,1,20,IND 12,0,CAR,PENALTY
+4,445,4,09:40,"(9:40) (No Huddle, Shotgun) C.Newton left guard to IND 12 for 2 yards (D.Jackson; J.Freeman).",1,1,25,IND 14,0,CAR,
+4,537,3,07:56,(7:56) (Shotgun) C.Newton left tackle to IND 3 for 7 yards (M.Adams; E.Walden).,8,1,34,IND 10,0,CAR,
+4,323,3,11:42,(11:42) (Shotgun) C.Newton pass short right to J.Cotchery to IND 23 for 13 yards (G.Toler).,9,1,14,IND 36,0,CAR,
+4,575,0,07:21,"G.Gano extra point is GOOD, Center-J.Jansen, Holder-B.Nortman.",0,1,37,IND 15,1,CAR,XP
+4,351,1,11:05,(11:05) J.Stewart up the middle to IND 21 for 2 yards (J.Freeman; D.Jackson).,10,1,16,IND 23,0,CAR,
+4,394,3,10:32,"(10:32) (No Huddle, Shotgun) PENALTY on IND-E.Walden, Neutral Zone Infraction, 5 yards, enforced at IND 21 - No Play.",8,1,21,IND 21,0,CAR,PENALTY
+4,511,2,08:38,(8:38) J.Stewart left end pushed ob at IND 10 for 7 yards (M.Adams).,15,1,27,IND 17,0,CAR,
+4,280,1,12:24,(12:24) (Shotgun) J.Stewart left guard to IND 36 for 1 yard (J.Freeman; T.Cole).,10,1,1,IND 37,0,CAR,
+4,372,2,10:32,"(10:32) (No Huddle, Shotgun) C.Newton pass incomplete deep right to C.Brown.",8,1,16,IND 21,0,CAR,
+4,424,3,10:25,(10:25) (Shotgun) J.Stewart right end to IND 14 for 2 yards (J.Freeman).,3,1,23,IND 16,0,CAR,
+4,558,4,07:27,"(7:27) J.Stewart left guard for 3 yards, TOUCHDOWN. Amini Silatolu reported as eligible",1,1,37,IND 3,1,CAR,TD
+7,889,1,02:25,"(2:25) (Shotgun) F.Gore up the middle to IND 29 for 2 yards (S.Lotulelei; K.Love). PENALTY on CAR-K.Ealy, Defensive Offside, 5 yards, enforced at IND 27 - No Play.",20,1,-5,IND 27,0,IND,PENALTY
+7,859,1,02:51,"(2:51) A.Luck pass short left to T.Hilton to IND 46 for 9 yards (J.Norman). PENALTY on IND-J.Reitz, Offensive Holding, 10 yards, enforced at IND 37 - No Play.",10,1,3,IND 37,0,IND,PENALTY
+7,957,2,01:22,(1:22) F.Gore up the middle to IND 40 for 9 yards (J.Norman).,16,1,3,IND 31,0,IND,
+7,978,3,00:42,(:42) (Shotgun) A.Luck pass incomplete deep right to A.Johnson [J.Allen].,7,1,3,IND 40,0,IND,
+7,921,1,02:02,"(2:02) A.Luck sacked at IND 26 for -6 yards (K.Ealy). FUMBLES (K.Ealy), and recovers at IND 31. A.Luck to IND 31 for no gain (K.Love).",15,1,-6,IND 32,0,IND,FUMBLE
+7,1000,4,00:35,"(:35) P.McAfee punts 50 yards to CAR 10, Center-M.Overton, downed by IND-D.Moncrief.",7,1,3,IND 40,0,IND,PUNT
+6,785,2,03:55,"(3:55) (No Huddle, Shotgun) C.Newton left guard to CAR 12 for 7 yards (M.Adams). Indianapolis challenged the runner was down by contact ruling, and the play was Upheld. The ruling on the field was confirmed. (Timeout #1.)",9,1,8,CAR 5,0,CAR,TIMEOUT
+6,806,3,03:06,(3:06) (Shotgun) C.Newton pass incomplete short left to G.Olsen (T.Cole).,2,1,8,CAR 12,0,CAR,
+6,764,1,04:34,(4:34) J.Stewart up the middle to CAR 5 for 1 yard (J.Freeman; D.Jackson).,10,1,1,CAR 4,0,CAR,
+6,834,4,03:03,"(3:03) B.Nortman punts 59 yards to IND 29, Center-J.Jansen. T.Hilton to IND 37 for 8 yards (E.Dickson).",2,1,8,CAR 12,0,CAR,PUNT
+9,1225,2,11:56,(11:56) (No Huddle) F.Gore right guard to CAR 29 for 3 yards (B.Benwikere; R.Harper).,6,2,27,CAR 32,0,IND,
+9,1204,1,12:36,(12:36) (No Huddle) F.Gore up the middle to CAR 32 for 4 yards (R.Harper; J.Allen).,10,2,24,CAR 36,0,IND,
+9,1156,2,13:58,(13:58) A.Luck pass short middle to F.Gore to 50 for 7 yards (A.Klein).,11,2,6,IND 43,0,IND,
+9,1124,1,14:40,"(14:40) F.Gore right guard to IND 43 for -1 yards (S.Lotulelei). FUMBLES (S.Lotulelei), recovered by IND-H.Thornton at IND 43. H.Thornton to IND 43 for no gain (W.Horton).",10,2,24,IND 44,0,IND,FUMBLE
+9,1180,3,13:15,(13:15) (Shotgun) A.Luck pass short left to C.Fleener to CAR 36 for 14 yards (K.Coleman; R.Harper).,4,2,20,50,0,IND,
+9,1267,4,10:27,"(10:27) A.Vinatieri 47 yard field goal is GOOD, Center-M.Overton, Holder-P.McAfee.",3,2,27,CAR 29,1,IND,FG
+9,1246,3,11:15,(11:15) A.Bradshaw up the middle to CAR 29 for no gain (C.Tillman; S.Lotulelei).,3,2,27,CAR 29,0,IND,
+8,1106,4,14:49,"(14:49) B.Nortman punts 43 yards to IND 44, Center-J.Jansen, out of bounds.",7,2,3,CAR 13,0,CAR,PUNT
+8,1040,0,,END QUARTER 1,0,1,3,,0,,
+8,1084,3,14:55,(14:55) (Shotgun) C.Newton pass incomplete deep left to T.Ginn.,7,2,3,CAR 13,0,CAR,
+8,1019,1,00:25,(:25) (Shotgun) J.Stewart right end to CAR 13 for 3 yards (G.Toler).,10,1,3,CAR 10,0,CAR,
+8,1056,2,15:00,(15:00) (Shotgun) C.Newton pass incomplete short left to T.Ginn.,7,2,3,CAR 13,0,CAR,
+11,1423,1,08:08,(8:08) A.Luck pass incomplete deep right to D.Allen (R.Harper).,10,2,0,CAR 22,0,IND,
+11,1466,3,07:14,(7:14) (Shotgun) A.Luck pass incomplete deep middle to C.Fleener (K.Coleman).,4,2,6,CAR 16,0,IND,
+11,1488,4,07:08,"(7:08) A.Vinatieri 34 yard field goal is GOOD, Center-M.Overton, Holder-P.McAfee.",4,2,6,CAR 16,1,IND,FG
+11,1445,2,08:01,(8:01) (Shotgun) A.Luck scrambles up the middle to CAR 16 for 6 yards (L.Kuechly).,10,2,6,CAR 22,0,IND,
+10,1379,2,08:19,"(8:19) (No Huddle, Shotgun) J.Stewart to CAR 33 for -1 yards (T.Cole). FUMBLES (T.Cole), RECOVERED by IND-B.Werner at CAR 37. B.Werner to CAR 37 for no gain (M.Remmers). PENALTY on CAR-F.Velasco, Unnecessary Roughness, 15 yards, enforced at CAR 37.",3,2,18,CAR 34,0,CAR,FUMBLE
+10,1334,2,09:40,(9:40) J.Stewart left guard to CAR 27 for 2 yards (D.Parry; D.Jackson).,1,2,11,CAR 25,0,CAR,
+10,1286,0,10:24,"P.McAfee kicks 65 yards from IND 35 to CAR 0. F.Whittaker MUFFS catch, touched at CAR -2, and recovers at CAR 0. F.Whittaker to CAR 16 for 16 yards (J.Thomas).",0,2,18,IND 35,0,IND,KICKOFF
+10,1313,1,10:18,(10:18) (Shotgun) C.Newton scrambles left end pushed ob at CAR 25 for 9 yards (J.Freeman).,10,2,18,CAR 16,0,CAR,
+10,1355,1,09:05,"(9:05) (No Huddle, Shotgun) C.Newton pass short left to G.Olsen to CAR 34 for 7 yards (V.Davis).",10,2,18,CAR 27,0,CAR,
+13,1713,4,02:39,"(2:39) P.McAfee punts 53 yards to end zone, Center-M.Overton, Touchback.",3,2,20,IND 47,0,IND,PUNT
+13,1626,2,05:32,(5:32) (No Huddle) A.Luck pass short middle to A.Johnson to IND 40 for 13 yards (R.Harper).,10,2,13,IND 27,0,IND,
+13,1605,1,06:06,(6:06) F.Gore left tackle to IND 27 for no gain (L.Kuechly).,10,2,0,IND 27,0,IND,
+13,1692,3,03:19,(3:19) A.Bradshaw left tackle to IND 47 for -2 yards (K.Coleman).,1,2,20,IND 49,0,IND,
+13,1650,1,04:51,(4:51) (No Huddle) F.Gore left guard to IND 44 for 4 yards (R.Harper).,10,2,17,IND 40,0,IND,
+13,1671,2,04:05,(4:05) (Shotgun) F.Gore left guard to IND 49 for 5 yards (K.Ealy; J.Allen).,6,2,22,IND 44,0,IND,
+12,1533,1,06:58,(6:58) (Shotgun) C.Newton pass incomplete short left to G.Olsen.,10,2,0,CAR 23,0,CAR,
+12,1579,1,06:15,(6:15) (No Huddle) C.Newton pass deep left intended for T.Ginn INTERCEPTED by V.Davis at IND 27. V.Davis to IND 27 for no gain (T.Ginn).,10,2,11,CAR 34,0,CAR,INT
+12,1511,0,07:04,P.McAfee kicks 63 yards from IND 35 to CAR 2. F.Whittaker to CAR 23 for 21 yards (G.Whalen; Z.Tipton).,0,2,0,IND 35,0,IND,KICKOFF
+12,1555,2,06:52,"(6:52) (No Huddle, Shotgun) C.Newton pass short right to C.Brown to CAR 34 for 11 yards (G.Toler).",10,2,11,CAR 23,0,CAR,
+15,2000,0,,END QUARTER 2,0,2,17,,0,,
+15,1958,1,00:51,(:51) F.Gore right tackle to IND 15 for 7 yards (R.Harper; K.Ealy).,10,2,17,IND 8,0,IND,
+15,1979,2,00:12,(:12) (No Huddle) F.Gore right guard to IND 25 for 10 yards (R.Harper).,3,2,17,IND 15,0,IND,
+14,1837,1,01:43,(1:43) (Shotgun) C.Newton pass short right to D.Funchess to IND 30 for 8 yards (G.Toler).,10,2,50,IND 38,0,CAR,
+14,1939,4,01:00,"(1:00) B.Nortman punts 34 yards to IND 8, Center-J.Jansen, fair catch by T.Hilton.",14,2,38,IND 42,0,CAR,PUNT
+14,1730,1,02:30,(2:30) J.Stewart right end to CAR 13 for -7 yards (D.Jackson).,10,2,-7,CAR 20,0,CAR,
+14,1796,3,01:52,"(1:52) (No Huddle, Shotgun) C.Newton pass deep right to T.Ginn to IND 38 for 48 yards (G.Toler).",16,2,42,CAR 14,0,CAR,
+14,1820,0,01:43,Timeout #1 by CAR at 01:43.,0,2,38,,0,,TIMEOUT
+14,1861,2,01:22,"(1:22) (No Huddle, Shotgun) C.Newton right end to IND 32 for -2 yards (M.Adams).",2,2,48,IND 30,0,CAR,
+14,1768,2,02:00,(2:00) (Shotgun) C.Newton pass short right to G.Olsen to CAR 14 for 1 yard (D.Butler).,17,2,-6,CAR 13,0,CAR,
+14,1904,4,01:11,"(1:11) (Shotgun) C.Newton pass short left to T.Ginn to IND 4 for 28 yards (M.Adams). PENALTY on CAR-G.Olsen, Offensive Pass Interference, 10 yards, enforced at IND 32 - No Play.",4,2,38,IND 32,0,CAR,PENALTY
+14,1882,3,01:15,"(1:15) (No Huddle, Shotgun) C.Newton pass incomplete short left to T.Ginn.",4,2,48,IND 32,0,CAR,
+14,1751,0,02:00,Two-Minute Warning,0,2,-7,,0,,
+17,2335,1,08:24,(8:24) F.Gore up the middle to IND 47 for 1 yard (R.Harper; L.Kuechly).,10,3,27,IND 46,0,IND,
+17,2272,3,09:58,(9:58) A.Bradshaw left tackle to IND 34 for 6 yards (L.Kuechly).,2,3,14,IND 28,0,IND,
+17,2293,1,09:29,(9:29) (No Huddle) A.Bradshaw up the middle to IND 37 for 3 yards (K.Love; B.Benwikere).,10,3,17,IND 34,0,IND,
+17,2227,1,11:12,(11:12) A.Luck pass short right to F.Gore to IND 23 for 3 yards (B.Benwikere).,10,3,3,IND 20,0,IND,
+17,2314,2,08:55,(8:55) (Shotgun) F.Gore left guard to IND 46 for 9 yards (L.Kuechly; K.Coleman).,7,3,26,IND 37,0,IND,
+17,2398,4,06:38,"(6:38) P.McAfee punts 52 yards to end zone, Center-M.Overton, Touchback.",8,3,28,IND 48,0,IND,PUNT
+17,2377,3,07:18,(7:18) (No Huddle) A.Bradshaw left end to IND 48 for -7 yards (K.Coleman).,1,3,28,CAR 45,0,IND,
+17,2356,2,07:46,(7:46) (Shotgun) A.Bradshaw left guard to CAR 45 for 8 yards (B.Benwikere).,9,3,35,IND 47,0,IND,
+17,2251,2,10:39,(10:39) (Shotgun) F.Gore up the middle to IND 28 for 5 yards (R.Harper).,7,3,8,IND 23,0,IND,
+16,2088,2,14:12,(14:12) J.Stewart left guard to CAR 37 for 4 yards (J.Freeman; D.Jackson).,10,3,17,CAR 33,0,CAR,
+16,2045,1,15:00,(15:00) J.Stewart right guard to CAR 33 for 13 yards (G.Toler; M.Adams).,10,3,13,CAR 20,0,CAR,
+16,2130,1,12:41,(12:41) J.Stewart left tackle to IND 45 for 7 yards (M.Adams; D.Jackson).,10,3,35,CAR 48,0,CAR,
+16,2208,4,11:20,"(11:20) B.Nortman punts 24 yards to IND 20, Center-J.Jansen, fair catch by T.Hilton.",2,3,36,IND 44,0,CAR,PUNT
+16,2109,3,13:29,(13:29) (Shotgun) C.Newton scrambles left guard to CAR 48 for 11 yards (D.Butler).,6,3,28,CAR 37,0,CAR,
+16,2151,2,12:08,(12:08) J.Stewart right guard to IND 44 for 1 yard (D.Parry).,3,3,36,IND 45,0,CAR,
+16,2030,0,15:00,"P.McAfee kicks 65 yards from IND 35 to end zone, Touchback.",0,3,0,IND 35,0,IND,KICKOFF
+16,2066,1,14:16,(14:16) (No Huddle) C.Newton pass incomplete short left to G.Olsen (D.Lowery).,10,3,13,CAR 33,0,CAR,
+16,2186,3,11:27,(11:27) (No Huddle) C.Newton pass incomplete short right to F.Whittaker.,2,3,36,IND 44,0,CAR,
+19,2659,3,01:22,(1:22) A.Luck pass incomplete deep middle to T.Hilton (J.Norman).,9,3,1,IND 4,0,IND,
+19,2681,4,01:14,"(1:14) P.McAfee punts 43 yards to IND 47, Center-M.Overton. T.Ginn pushed ob at IND 29 for 18 yards (P.McAfee).",9,3,1,IND 4,0,IND,PUNT
+19,2612,1,02:23,(2:23) A.Luck pass incomplete short right to T.Hilton.,10,3,0,IND 3,0,IND,
+19,2638,2,02:20,(2:20) F.Gore up the middle to IND 4 for 1 yard (A.Klein).,10,3,1,IND 3,0,IND,
+18,2499,1,05:08,(5:08) (Shotgun) C.Brown right end to IND 26 for 14 yards (D.Lowery).,10,3,54,IND 40,0,CAR,
+18,2586,2,02:29,"(2:29) C.Newton FUMBLES (Aborted) at IND 1, RECOVERED by IND-B.Winn at IND 3. B.Winn to IND 3 for no gain (C.Newton). Chris Scott reported as eligible.",1,3,77,IND 1,0,CAR,FUMBLE
+18,2520,1,04:32,(4:32) (No Huddle) C.Newton pass short left to G.Olsen to IND 20 for 6 yards (J.Freeman).,10,3,60,IND 26,0,CAR,
+18,2544,2,03:57,"(3:57) (No Huddle, Shotgun) J.Stewart right tackle pushed ob at IND 6 for 14 yards (M.Adams).",4,3,74,IND 20,0,CAR,
+18,2482,0,05:08,Timeout #1 by CAR at 05:08.,0,3,40,,0,,TIMEOUT
+18,2437,2,06:27,"(6:27) (No Huddle, Shotgun) C.Newton left tackle to CAR 20 for no gain (D.Jackson).",10,3,0,CAR 20,0,CAR,
+18,2415,1,06:33,(6:33) (Shotgun) C.Newton pass incomplete short right to T.Ginn.,10,3,0,CAR 20,0,CAR,
+18,2565,1,03:14,"(3:14) (No Huddle, Shotgun) C.Newton right guard to IND 1 for 5 yards (J.Freeman).",6,3,79,IND 6,0,CAR,
+18,2458,3,05:51,"(5:51) (No Huddle, Shotgun) C.Newton pass short left to M.Tolbert pushed ob at IND 40 for 40 yards (M.Adams) [K.Langford].",10,3,40,CAR 20,0,CAR,
+31,4698,4,07:55,"(7:55) G.Gano 42 yard field goal is GOOD, Center-J.Jansen, Holder-B.Nortman.",8,5,57,IND 23,1,CAR,FG
+31,4659,0,08:00,Timeout #1 by IND at 08:00.,0,5,57,,0,,TIMEOUT
+31,4530,1,10:54,"(10:54) (No Huddle, Shotgun) C.Newton pass incomplete deep left to T.Ginn.",10,5,24,CAR 44,0,CAR,
+31,4593,1,10:08,"(10:08) (No Huddle, Shotgun) C.Newton pass short left to T.Ginn to IND 25 for 12 yards (V.Davis).",10,5,55,IND 37,0,CAR,
+31,4506,2,11:30,(11:30) C.Newton pass deep right to C.Brown to CAR 44 for 23 yards (G.Toler).,9,5,24,CAR 21,0,CAR,
+31,4482,1,12:04,(12:04) (Shotgun) C.Newton pass short left to J.Stewart to CAR 21 for 1 yard (J.Freeman).,10,5,1,CAR 20,0,CAR,
+31,4676,3,08:00,(8:00) (Shotgun) C.Newton pass incomplete short left to C.Brown [K.Langford].,8,5,57,IND 23,0,CAR,
+31,4467,0,12:04,"P.McAfee kicks 65 yards from IND 35 to end zone, Touchback.",0,5,0,IND 35,0,IND,KICKOFF
+31,4569,2,10:46,(10:46) (Shotgun) C.Newton pass deep left to G.Olsen to IND 37 for 19 yards (D.Lowery).,10,5,43,CAR 44,0,CAR,
+31,4638,2,08:45,"(8:45) (No Huddle, Shotgun) C.Newton scrambles right tackle to IND 23 for 2 yards (D.Jackson).",10,5,57,IND 25,0,CAR,
+31,4552,0,10:46,Timeout #1 by CAR at 10:46.,0,5,24,,0,,TIMEOUT
+31,4617,1,09:25,(9:25) (No Huddle) J.Stewart left end to IND 25 for no gain (J.Freeman; D.Jackson).,10,5,55,IND 25,0,CAR,
+30,4399,2,13:30,(13:30) (Shotgun) F.Gore up the middle to CAR 38 for no gain (L.Kuechly).,10,5,17,CAR 38,0,IND,
+30,4313,0,15:00,G.Gano kicks 65 yards from CAR 35 to IND 0. Q.Bray to IND 45 for 45 yards (J.Webb).,0,5,0,CAR 35,0,CAR,KICKOFF
+30,4420,3,12:46,(12:46) (Shotgun) A.Luck pass short left to C.Fleener to CAR 32 for 6 yards (L.Kuechly).,10,5,23,CAR 38,0,IND,
+30,4335,1,14:52,(14:52) A.Luck scrambles left end to CAR 49 for 6 yards (T.Davis).,10,5,6,IND 45,0,IND,
+30,4448,4,12:09,"(12:09) A.Vinatieri 50 yard field goal is GOOD, Center-M.Overton, Holder-P.McAfee.",4,5,23,CAR 32,1,IND,FG
+30,4356,2,14:22,(14:22) A.Luck scrambles right end to CAR 38 for 11 yards (B.Benwikere).,4,5,17,CAR 49,0,IND,
+30,4377,1,13:37,(13:37) (Shotgun) A.Luck pass incomplete deep left to A.Johnson [J.Allen].,10,5,17,CAR 38,0,IND,
+33,4808,2,06:59,(6:59) (Shotgun) C.Newton sacked at IND 39 for 0 yards (R.Mathis).,10,5,0,IND 39,0,CAR,
+33,4786,1,07:02,(7:02) (Shotgun) C.Newton pass incomplete short right to J.Cotchery.,10,5,0,IND 39,0,CAR,
+33,4855,4,05:27,"(5:27) G.Gano 52 yard field goal is GOOD, Center-J.Jansen, Holder-B.Nortman.",5,5,5,IND 34,1,CAR,FG
+33,4831,3,06:12,(6:12) (Shotgun) C.Newton pass short right to J.Cotchery to IND 34 for 5 yards (D.Butler).,10,5,5,IND 39,0,CAR,
+32,4739,1,07:44,(7:44) (Shotgun) F.Gore right guard to IND 31 for 2 yards (C.Tillman; K.Ealy).,10,5,2,IND 29,0,IND,
+32,4760,2,07:10,"(7:10) (No Huddle, Shotgun) A.Luck pass short middle intended for C.Fleener INTERCEPTED by L.Kuechly (R.Harper) at IND 38. L.Kuechly to IND 39 for -1 yards (C.Fleener).",8,5,2,IND 31,0,IND,INT
+32,4717,0,07:50,G.Gano kicks 70 yards from CAR 35 to IND -5. Q.Bray to IND 29 for 34 yards (A.Klein).,0,5,0,CAR 35,0,CAR,KICKOFF

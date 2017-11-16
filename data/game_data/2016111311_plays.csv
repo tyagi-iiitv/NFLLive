@@ -1,187 +1,187 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1780,4,03:17,,2,2,8,DAL 33,0,DAL,PUNT
-9,1709,1,04:43,,10,2,8,DAL 25,0,DAL,
-9,1754,3,03:22,,2,2,8,DAL 33,0,DAL,
-9,1694,0,04:43,,0,2,0,PIT 35,0,PIT,KICKOFF
-9,1733,2,04:03,,2,2,8,DAL 33,0,DAL,
-10,1884,1,02:00,,10,2,33,PIT 47,0,PIT,
-10,2008,0,00:52,,0,2,39,,0,,TIMEOUT
-10,1932,1,01:16,,10,2,42,DAL 40,0,PIT,
-10,1908,2,01:43,,6,2,42,DAL 49,0,PIT,
-10,1984,3,01:04,,10,2,39,DAL 40,0,PIT,
-10,2025,4,00:51,,13,2,39,DAL 43,0,PIT,PUNT
-10,1798,1,03:10,,10,2,1,PIT 18,0,PIT,
-10,1958,2,01:10,,10,2,42,DAL 40,0,PIT,
-10,1819,2,02:41,,9,2,39,PIT 19,0,PIT,
-10,1843,1,02:10,,10,2,29,PIT 32,0,PIT,
-10,1867,0,02:00,,0,2,29,,0,,
-20,3721,1,05:56,,10,4,34,PIT 41,0,DAL,
-20,3612,0,07:51,,0,4,0,PIT 35,0,PIT,KICKOFF
-20,3745,2,05:16,,10,4,43,PIT 41,0,DAL,
-20,3630,1,07:50,,10,4,43,DAL 25,0,DAL,PENALTY
-20,3773,3,04:49,,1,4,45,PIT 32,0,DAL,
-20,3794,1,04:07,,10,4,53,PIT 30,0,DAL,
-20,3882,1,02:00,,10,4,75,PIT 14,1,DAL,TD
-20,3818,2,03:33,,2,4,47,PIT 22,0,DAL,
-20,3697,2,06:40,,8,4,34,DAL 47,0,DAL,
-20,3841,3,02:50,,8,4,61,PIT 28,0,DAL,
-20,3865,0,02:00,,0,4,61,,0,,
-20,3901,0,01:55,,0,4,75,PIT 2,0,DAL,2PPF
-20,3676,1,07:19,,10,4,22,DAL 45,0,DAL,
-6,1018,0,00:12,,0,1,0,DAL 35,0,DAL,KICKOFF
-6,1069,2,00:03,,10,1,9,PIT 21,0,PIT,
-6,1093,0,,,0,1,9,,0,,
-6,1040,1,00:07,,10,1,0,PIT 21,0,PIT,
-6,1109,3,15:00,,1,2,0,PIT 30,0,PIT,FUMBLE
-6,1134,4,14:38,,10,2,0,PIT 21,0,PIT,PUNT
-18,3427,4,11:09,,1,4,9,DAL 20,0,DAL,PUNT
-18,3359,1,13:13,,10,4,2,DAL 11,0,DAL,
-18,3380,2,12:37,,8,4,9,DAL 13,0,DAL,
-18,3404,3,11:53,,1,4,9,DAL 20,0,DAL,
-1,72,2,14:25,,4,1,25,DAL 31,0,DAL,
-1,51,1,15:00,,10,1,6,DAL 25,0,DAL,
-1,36,0,15:00,,0,1,0,PIT 35,0,PIT,KICKOFF
-1,96,1,13:55,,10,1,13,50,0,DAL,FUMBLE
-5,883,0,01:13,,0,1,0,PIT 35,0,PIT,KICKOFF
-5,955,1,00:44,,25,1,-8,DAL 10,0,DAL,
-5,898,1,01:13,,10,1,-5,DAL 25,0,DAL,PENALTY
-5,982,2,00:27,,18,1,75,DAL 17,1,DAL,TD
-5,923,1,01:13,,15,1,-15,DAL 20,0,DAL,PENALTY
-5,1002,0,00:12,,0,1,75,PIT 15,1,DAL,XP
-13,2489,2,13:21,,7,3,68,DAL 7,0,PIT,
-13,2383,1,14:16,,10,3,68,DAL 36,0,PIT,
-13,2463,1,13:24,,7,3,68,DAL 7,0,PIT,
-13,2359,1,15:00,,10,3,39,PIT 25,0,PIT,
-13,2404,2,13:37,,9,3,40,DAL 35,0,PIT,
-13,2344,0,15:00,,0,3,0,DAL 35,0,DAL,KICKOFF
-13,2430,3,13:29,,9,3,68,DAL 35,0,PIT,PENALTY
-13,2541,4,13:14,,7,3,68,DAL 7,1,PIT,FG
-13,2515,3,13:17,,7,3,68,DAL 7,0,PIT,
-21,4002,0,01:04,,0,4,36,,0,,TIMEOUT
-21,4019,1,01:04,,10,4,60,DAL 39,0,PIT,
-21,3954,2,01:34,,7,4,13,PIT 28,0,PIT,
-21,3915,0,01:55,,0,4,0,DAL 35,0,DAL,KICKOFF
-21,4043,1,00:43,,10,4,75,DAL 15,1,PIT,TD
-21,3930,1,01:55,,10,4,3,PIT 25,0,PIT,
-21,4063,0,00:42,,0,4,75,DAL 2,0,PIT,2PPF
-21,3978,1,01:13,,10,4,36,PIT 38,0,PIT,
-23,4307,0,00:09,,0,4,0,DAL 35,0,DAL,KICKOFF
-23,4387,0,,,0,4,55,,0,,
-23,4322,1,00:09,,10,4,11,PIT 25,0,PIT,
-23,4346,0,00:02,,0,4,11,,0,,TIMEOUT
-23,4363,1,00:02,,10,4,55,PIT 36,0,PIT,
-11,2118,4,00:27,,10,2,0,DAL 16,0,DAL,PUNT
-11,2044,1,00:45,,10,2,0,DAL 16,0,DAL,
-11,2066,2,00:39,,10,2,0,DAL 16,0,DAL,
-11,2092,3,00:33,,10,2,0,DAL 16,0,DAL,
-14,2627,3,11:55,,1,3,12,DAL 35,0,DAL,
-14,2606,2,12:38,,4,3,9,DAL 32,0,DAL,
-14,2873,3,06:22,,5,3,46,PIT 16,0,DAL,
-14,2716,3,09:14,,1,3,38,PIT 42,0,DAL,
-14,2803,3,07:50,,7,3,53,PIT 33,0,DAL,
-14,2582,1,13:05,,10,3,6,DAL 26,0,DAL,
-14,2695,2,09:59,,4,3,32,PIT 45,0,DAL,
-14,2765,2,08:32,,10,3,41,PIT 36,0,DAL,
-14,2827,1,07:12,,10,3,53,PIT 21,0,DAL,
-14,2650,1,11:15,,10,3,23,DAL 38,0,DAL,
-14,2849,2,07:08,,10,3,58,PIT 21,0,DAL,
-14,2739,1,08:37,,10,3,41,PIT 36,0,DAL,
-14,2674,1,10:39,,10,3,29,DAL 49,0,DAL,
-14,2560,0,13:10,,0,3,0,PIT 35,0,PIT,KICKOFF
-14,2786,0,07:50,,0,3,41,,0,,TIMEOUT
-14,2892,4,05:39,,17,3,46,PIT 28,1,DAL,FG
-8,1604,1,06:13,,10,2,50,DAL 25,0,PIT,
-8,1387,1,11:04,,10,2,9,PIT 25,0,PIT,
-8,1556,2,07:38,,10,2,54,DAL 38,0,PIT,
-8,1675,4,04:47,,6,2,54,DAL 21,1,PIT,FG
-8,1533,2,08:00,,15,2,37,DAL 43,0,PIT,PENALTY
-8,1651,3,05:26,,11,2,54,DAL 26,0,PIT,
-8,1435,1,09:54,,10,2,22,PIT 36,0,PIT,
-8,1456,1,09:06,,10,2,54,PIT 47,0,PIT,PENALTY
-8,1510,2,08:19,,10,2,32,DAL 38,0,PIT,PENALTY
-8,1580,3,07:00,,10,2,50,DAL 38,0,PIT,
-8,1630,2,06:09,,10,2,49,DAL 25,0,PIT,
-8,1489,1,09:01,,10,2,37,DAL 38,0,PIT,
-8,1411,2,10:29,,1,2,11,PIT 34,0,PIT,
-8,1372,0,11:04,,0,2,0,DAL 35,0,DAL,KICKOFF
-19,3598,0,07:51,,0,4,46,DAL 2,0,PIT,2PPF
-19,3502,1,09:48,,10,4,15,DAL 33,0,PIT,
-19,3473,2,10:22,,9,4,13,DAL 45,0,PIT,
-19,3452,1,10:56,,10,4,1,DAL 46,0,PIT,
-19,3526,2,09:15,,8,4,35,DAL 31,0,PIT,
-19,3579,1,07:56,,1,4,46,DAL 1,1,PIT,TD
-19,3555,1,08:39,,10,4,45,DAL 11,0,PIT,
-22,4113,1,00:42,,10,4,0,DAL 25,0,DAL,
-22,4276,0,00:09,,0,4,75,PIT 2,0,DAL,2PPF
-22,4139,2,00:37,,10,4,10,DAL 25,0,DAL,
-22,4204,1,00:23,,10,4,43,DAL 48,0,DAL,PENALTY
-22,4262,0,00:09,,0,4,0,,0,,TIMEOUT
-22,4243,1,00:15,,10,4,75,PIT 32,1,DAL,TD
-22,4284,0,00:23,,0,4,75,,0,,TIMEOUT
-22,4180,1,00:31,,10,4,23,DAL 35,0,DAL,
-22,4088,0,00:42,,0,4,0,PIT 35,0,PIT,KICKOFF
-22,4163,0,00:31,,0,4,10,,0,,TIMEOUT
-12,2185,0,00:08,,0,2,22,,0,,TIMEOUT
-12,2161,1,00:13,,10,2,22,PIT 49,0,PIT,
-12,2202,2,00:02,,1,2,27,DAL 42,0,PIT,PENALTY
-12,2308,1,00:02,,10,2,27,DAL 37,0,PIT,FGM
-12,2137,1,00:20,,10,2,13,PIT 36,0,PIT,
-16,3104,3,01:43,,11,3,49,50,1,DAL,TD
-16,3070,3,02:10,,1,3,-1,PIT 40,0,DAL,PENALTY
-16,3049,2,02:46,,3,3,9,PIT 42,0,DAL,
-16,3024,1,03:23,,10,3,7,PIT 49,0,DAL,
-16,3124,0,01:35,,0,3,49,PIT 15,1,DAL,XP
-7,1353,4,11:09,,3,2,25,PIT 35,1,DAL,FG
-7,1286,1,12:46,,15,2,19,PIT 47,0,DAL,
-7,1310,2,12:02,,9,2,25,PIT 41,0,DAL,
-7,1222,1,13:29,,10,2,23,PIT 42,0,DAL,PENALTY
-7,1331,3,11:15,,3,2,25,PIT 35,0,DAL,
-7,1254,1,13:09,,5,2,25,PIT 37,0,DAL,PENALTY
-7,1159,1,14:28,,10,2,2,DAL 40,0,DAL,
-7,1182,2,13:53,,8,2,25,DAL 42,0,DAL,
-3,389,2,09:16,,7,1,42,DAL 43,0,DAL,
-3,434,1,08:09,,10,1,41,PIT 35,0,DAL,
-3,483,2,07:19,,9,1,43,PIT 34,0,DAL,
-3,360,1,09:54,,10,1,42,DAL 40,0,DAL,
-3,602,4,05:20,,5,1,52,PIT 18,1,DAL,FG
-3,578,3,06:01,,10,1,52,PIT 23,0,DAL,
-3,410,1,08:44,,10,1,42,PIT 49,0,DAL,
-3,525,1,06:07,,10,1,47,PIT 23,0,DAL,
-3,320,0,09:54,,0,1,42,PIT 35,0,PIT,KICKOFF
-3,460,2,07:35,,4,1,36,PIT 29,0,DAL,PENALTY
-3,504,3,06:41,,2,1,47,PIT 27,0,DAL,
-3,551,2,06:05,,10,1,47,PIT 23,0,DAL,
-17,3243,0,,,0,3,11,,0,,
-17,3159,1,01:35,,10,3,3,PIT 25,0,PIT,
-17,3140,0,01:35,,0,3,0,DAL 35,0,DAL,KICKOFF
-17,3340,4,13:17,,3,4,18,PIT 43,0,PIT,PUNT
-17,3183,2,00:50,,7,3,9,PIT 28,0,PIT,
-17,3304,3,13:39,,9,4,18,PIT 37,0,PIT,
-17,3280,2,14:18,,20,4,12,PIT 26,0,PIT,
-17,3259,1,15:00,,10,4,1,PIT 36,0,PIT,
-17,3211,3,00:08,,1,3,11,PIT 34,0,PIT,
-4,749,2,03:11,,9,1,50,DAL 30,0,PIT,PENALTY
-4,849,3,01:18,,3,1,75,DAL 3,1,PIT,TD
-4,828,2,02:02,,1,1,72,DAL 1,0,PIT,
-4,728,1,03:45,,10,1,45,DAL 31,0,PIT,
-4,869,0,01:13,,0,1,75,DAL 2,0,PIT,2PPF
-4,621,0,05:17,,0,1,0,DAL 35,0,DAL,KICKOFF
-4,786,2,03:04,,4,1,66,DAL 25,0,PIT,
-4,641,1,05:17,,10,1,5,PIT 25,0,PIT,
-4,669,2,04:45,,5,1,27,PIT 30,0,PIT,
-4,807,1,02:26,,9,1,74,DAL 9,0,PIT,
-4,704,1,04:17,,10,1,44,DAL 48,0,PIT,
-2,149,2,13:11,,2,1,12,DAL 30,0,PIT,
-2,194,1,12:08,,10,1,38,DAL 14,0,PIT,
-2,286,3,09:54,,2,1,38,DAL 2,1,PIT,TD
-2,170,1,12:39,,10,1,24,DAL 26,0,PIT,
-2,215,2,11:25,,2,1,34,DAL 6,0,PIT,
-2,306,0,09:54,,0,1,38,DAL 2,0,PIT,2PPF
-2,125,1,13:45,,10,1,8,DAL 38,0,PIT,
-2,239,1,10:43,,4,1,36,DAL 4,0,PIT,
-2,260,2,10:01,,2,1,36,DAL 2,0,PIT,
-15,2938,1,05:27,,10,3,4,PIT 32,0,PIT,
-15,2911,0,05:35,,0,3,0,DAL 35,0,DAL,KICKOFF
-15,2959,2,04:54,,6,3,7,PIT 36,0,PIT,
-15,2980,3,04:12,,3,3,-1,PIT 39,0,PIT,
-15,2999,4,03:41,,11,3,-1,PIT 31,0,PIT,PUNT
+20,3773,3,04:49,"(4:49) E.Elliott up the middle to PIT 30 for 2 yards (D.McCullers, J.Harrison).",1,4,45,PIT 32,0,DAL,
+20,3612,0,07:51,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback.",0,4,0,PIT 35,0,PIT,KICKOFF
+20,3901,0,01:55,(Pass formation) TWO-POINT CONVERSION ATTEMPT. D.Prescott pass to D.Bryant is incomplete. ATTEMPT FAILS.,0,4,75,PIT 2,0,DAL,2PPF
+20,3882,1,02:00,"(2:00) J.Looney reported in as eligible.  E.Elliott right tackle for 14 yards, TOUCHDOWN.",10,4,75,PIT 14,1,DAL,TD
+20,3794,1,04:07,(4:07) (Shotgun) D.Prescott pass short middle to C.Beasley to PIT 22 for 8 yards (L.Timmons).,10,4,53,PIT 30,0,DAL,
+20,3818,2,03:33,(3:33) J.Looney reported in as eligible.  E.Elliott left tackle to PIT 28 for -6 yards (R.Shazier).,2,4,47,PIT 22,0,DAL,
+20,3745,2,05:16,(5:16) (Shotgun) D.Prescott pass short right to J.Witten to PIT 32 for 9 yards (R.Cockrell). Official measurement.,10,4,43,PIT 41,0,DAL,
+20,3630,1,07:50,"(7:50) D.Prescott pass short right to L.Whitehead pushed ob at DAL 30 for 5 yards (A.Moats). PENALTY on PIT-R.Cockrell, Unnecessary Roughness, 15 yards, enforced at DAL 30.",10,4,43,DAL 25,0,DAL,PENALTY
+20,3697,2,06:40,"(6:40) (Shotgun) D.Prescott pass short left to E.Elliott to PIT 41 for 12 yards (R.Shazier, W.Gay).",8,4,34,DAL 47,0,DAL,
+20,3841,3,02:50,(2:50) (Shotgun) D.Prescott pass short right to J.Witten to PIT 14 for 14 yards (R.Cockrell; S.Davis).,8,4,61,PIT 28,0,DAL,
+20,3865,0,02:00,Two-Minute Warning,0,4,61,,0,,
+20,3676,1,07:19,"(7:19) E.Elliott up the middle to DAL 47 for 2 yards (L.Timmons, J.Harrison).",10,4,22,DAL 45,0,DAL,
+20,3721,1,05:56,(5:56) (Shotgun) D.Prescott pass short right to C.Beasley to PIT 41 for no gain (S.Davis).,10,4,34,PIT 41,0,DAL,
+21,4063,0,00:42,(Pass formation) TWO-POINT CONVERSION ATTEMPT. B.Roethlisberger pass to A.Brown is incomplete. ATTEMPT FAILS. DEFENSIVE TWO-POINT ATTEMPT. B.Carr intercepted the try attempt. ATTEMPT FAILS. Tackled by 72-Foster.,0,4,75,DAL 2,0,PIT,2PPF
+21,4019,1,01:04,(1:04) (Shotgun) B.Roethlisberger pass short right to J.James to DAL 15 for 24 yards (J.Heath).,10,4,60,DAL 39,0,PIT,
+21,4043,1,00:43,"(:43) (No Huddle) B.Roethlisberger pass short right to A.Brown for 15 yards, TOUCHDOWN.",10,4,75,DAL 15,1,PIT,TD
+21,4002,0,01:04,Timeout #2 by PIT at 01:04.,0,4,36,,0,,TIMEOUT
+21,3915,0,01:55,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback.",0,4,0,DAL 35,0,DAL,KICKOFF
+21,3930,1,01:55,"(1:55) (Shotgun) B.Roethlisberger pass short right to A.Brown to PIT 28 for 3 yards (L.McFadden, S.Lee).",10,4,3,PIT 25,0,PIT,
+21,3978,1,01:13,"(1:13) (No Huddle, Shotgun) B.Roethlisberger pass short right to L.Bell to DAL 39 for 23 yards (J.Heath, J.Wilcox).",10,4,36,PIT 38,0,PIT,
+21,3954,2,01:34,"(1:34) (No Huddle, Shotgun) B.Roethlisberger pass short middle to L.Green to PIT 38 for 10 yards (B.Jones).",7,4,13,PIT 28,0,PIT,
+22,4139,2,00:37,(:37) (Shotgun) D.Prescott pass short right to C.Beasley to DAL 35 for 10 yards (W.Gay).,10,4,10,DAL 25,0,DAL,
+22,4262,0,00:09,Timeout #2 by DAL at 00:09.,0,4,0,,0,,TIMEOUT
+22,4163,0,00:31,Timeout #1 by DAL at 00:31.,0,4,10,,0,,TIMEOUT
+22,4276,0,00:09,(Pass formation) TWO-POINT CONVERSION ATTEMPT. D.Prescott pass to D.Bryant is incomplete. ATTEMPT FAILS.,0,4,75,PIT 2,0,DAL,2PPF
+22,4284,0,00:23,Timeout #2 by DAL at 00:23.,0,4,75,,0,,TIMEOUT
+22,4088,0,00:42,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback.",0,4,0,PIT 35,0,PIT,KICKOFF
+22,4180,1,00:31,"(:31) (Shotgun) D.Prescott pass short right to J.Witten to DAL 48 for 13 yards (R.Shazier, S.Tuitt).",10,4,23,DAL 35,0,DAL,
+22,4243,1,00:15,"(:15) J.Looney reported in as eligible.  E.Elliott up the middle for 32 yards, TOUCHDOWN.",10,4,75,PIT 32,1,DAL,TD
+22,4113,1,00:42,(:42) (Shotgun) D.Prescott pass incomplete short right to J.Witten. Pressure by 91-Tuitt.,10,4,0,DAL 25,0,DAL,
+22,4204,1,00:23,"(:23) (Shotgun) D.Prescott pass short right to J.Witten to PIT 47 for 5 yards (R.Cockrell). PENALTY on PIT-S.Davis, Face Mask (15 Yards), 15 yards, enforced at PIT 47.",10,4,43,DAL 48,0,DAL,PENALTY
+23,4346,0,00:02,Timeout #3 by PIT at 00:02.,0,4,11,,0,,TIMEOUT
+23,4322,1,00:09,(:09) (Shotgun) B.Roethlisberger pass short middle to A.Brown to PIT 36 for 11 yards (A.Brown).,10,4,11,PIT 25,0,PIT,
+23,4307,0,00:09,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback.",0,4,0,DAL 35,0,DAL,KICKOFF
+23,4363,1,00:02,(:02) (Shotgun) B.Roethlisberger pass short right to A.Brown pushed ob at DAL 20 for 44 yards (B.Jones).,10,4,55,PIT 36,0,PIT,
+23,4387,0,,END GAME,0,4,55,,0,,
+1,96,1,13:55,"(13:55) (Shotgun) D.Prescott sacked at DAL 43 for -7 yards (A.Chickillo). FUMBLES (A.Chickillo) [A.Chickillo], RECOVERED by PIT-R.Shazier at DAL 38. R.Shazier to DAL 38 for no gain (Z.Martin).",10,1,13,50,0,DAL,FUMBLE
+1,51,1,15:00,"(15:00) E.Elliott right guard to DAL 31 for 6 yards (R.Golden, M.Mitchell).",10,1,6,DAL 25,0,DAL,
+1,36,0,15:00,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback.",0,1,0,PIT 35,0,PIT,KICKOFF
+1,72,2,14:25,(14:25) (Shotgun) D.Prescott pass deep left to D.Bryant pushed ob at 50 for 19 yards (A.Burns).,4,1,25,DAL 31,0,DAL,
+3,578,3,06:01,(6:01) (Shotgun) D.Prescott pass short left to T.Williams to PIT 18 for 5 yards (R.Shazier; A.Chickillo).,10,1,52,PIT 23,0,DAL,
+3,602,4,05:20,"(5:20) (Field Goal formation) D.Bailey 37 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",5,1,52,PIT 18,1,DAL,FG
+3,551,2,06:05,(6:05) (Shotgun) D.Prescott pass incomplete short left to J.Witten. Coverage by 28-Davis.,10,1,47,PIT 23,0,DAL,
+3,460,2,07:35,"(7:35) PENALTY on DAL-R.Leary, False Start, 5 yards, enforced at PIT 29 - No Play.",4,1,36,PIT 29,0,DAL,PENALTY
+3,525,1,06:07,(6:07) (Shotgun) D.Prescott pass incomplete short right to D.Bryant. Coverage by 31-Cockrell.,10,1,47,PIT 23,0,DAL,
+3,320,0,09:54,"C.Boswell kicks 59 yards from PIT 35 to DAL 6, out of bounds.",0,1,42,PIT 35,0,PIT,KICKOFF
+3,410,1,08:44,(8:44) D.Prescott pass short left to D.Bryant pushed ob at PIT 35 for 14 yards (A.Burns).,10,1,42,PIT 49,0,DAL,
+3,389,2,09:16,(9:16) E.Elliott right end to PIT 49 for 8 yards (S.Davis).,7,1,42,DAL 43,0,DAL,
+3,434,1,08:09,"(8:09) E.Elliott up the middle to PIT 29 for 6 yards (S.Davis, M.Mitchell).",10,1,41,PIT 35,0,DAL,
+3,483,2,07:19,(7:19) (Shotgun) E.Elliott left guard to PIT 27 for 7 yards (S.Davis).,9,1,43,PIT 34,0,DAL,
+3,504,3,06:41,(6:41) (Shotgun) E.Elliott up the middle to PIT 23 for 4 yards (J.Jones).,2,1,47,PIT 27,0,DAL,
+3,360,1,09:54,(9:54) E.Elliott up the middle to DAL 43 for 3 yards (V.Williams; A.Chickillo).,10,1,42,DAL 40,0,DAL,
+2,215,2,11:25,(11:25) B.Roethlisberger pass short right to D.Johnson to DAL 4 for 2 yards (J.Wilcox).,2,1,34,DAL 6,0,PIT,
+2,194,1,12:08,"(12:08) (Shotgun) L.Bell left guard to DAL 6 for 8 yards (B.Jones, T.McClain).",10,1,38,DAL 14,0,PIT,
+2,306,0,09:54,(Pass formation) TWO-POINT CONVERSION ATTEMPT. B.Roethlisberger pass to L.Green is incomplete. ATTEMPT FAILS. Pass Defense 31-Jones,0,1,38,DAL 2,0,PIT,2PPF
+2,149,2,13:11,(13:11) L.Bell right guard to DAL 26 for 4 yards (A.Hitchens).,2,1,12,DAL 30,0,PIT,
+2,260,2,10:01,(10:01) (Shotgun) B.Roethlisberger pass incomplete short left to L.Bell. Coverage 32-Carr,2,1,36,DAL 2,0,PIT,
+2,239,1,10:43,(10:43) (Shotgun) L.Bell right tackle to DAL 2 for 2 yards (J.Crawford).,4,1,36,DAL 4,0,PIT,
+2,286,3,09:54,"(9:54) (Shotgun) B.Roethlisberger pass short right to L.Bell for 2 yards, TOUCHDOWN.",2,1,38,DAL 2,1,PIT,TD
+2,125,1,13:45,(13:45) (Shotgun) B.Roethlisberger pass short middle to J.James to DAL 30 for 8 yards (A.Hitchens).,10,1,8,DAL 38,0,PIT,
+2,170,1,12:39,"(12:39) (Shotgun) B.Roethlisberger pass short right to L.Bell to DAL 14 for 12 yards (O.Scandrick, S.Lee).",10,1,24,DAL 26,0,PIT,
+5,883,0,01:13,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback.",0,1,0,PIT 35,0,PIT,KICKOFF
+5,898,1,01:13,"(1:13) J.Looney reported in as eligible.  PENALTY on DAL-T.Smith, False Start, 5 yards, enforced at DAL 25 - No Play.",10,1,-5,DAL 25,0,DAL,PENALTY
+5,955,1,00:44,(:44) (Shotgun) D.Prescott pass short left to C.Beasley to DAL 17 for 7 yards (R.Shazier; A.Burns). PIT-A.Burns was injured during the play.,25,1,-8,DAL 10,0,DAL,
+5,982,2,00:27,"(:27) D.Prescott pass short right to E.Elliott for 83 yards, TOUCHDOWN.",18,1,75,DAL 17,1,DAL,TD
+5,923,1,01:13,"(1:13) E.Elliott right guard to DAL 26 for 6 yards (M.Mitchell, L.Timmons). PENALTY on DAL-Z.Martin, Offensive Holding, 10 yards, enforced at DAL 20 - No Play.",15,1,-15,DAL 20,0,DAL,PENALTY
+5,1002,0,00:12,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,1,75,PIT 15,1,DAL,XP
+4,869,0,01:13,(Pass formation) TWO-POINT CONVERSION ATTEMPT. B.Roethlisberger pass to J.James is incomplete. ATTEMPT FAILS.,0,1,75,DAL 2,0,PIT,2PPF
+4,621,0,05:17,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback. PIT-R.Cockrell was injured during the play.",0,1,0,DAL 35,0,DAL,KICKOFF
+4,669,2,04:45,"(4:45) (Shotgun) B.Roethlisberger pass deep middle to E.Rogers to DAL 48 for 22 yards (J.Wilcox). Penalty on DAL-O.Scandrick, Defensive Offside, declined.",5,1,27,PIT 30,0,PIT,
+4,704,1,04:17,(4:17) (Shotgun) B.Roethlisberger pass short right to J.James to DAL 31 for 17 yards (A.Hitchens).,10,1,44,DAL 48,0,PIT,
+4,749,2,03:11,"(3:11) (Shotgun) B.Roethlisberger pass incomplete deep right to C.Hamilton. Coverage 30-Brown PENALTY on DAL-R.Davis, Defensive Offside, 5 yards, enforced at DAL 30 - No Play.",9,1,50,DAL 30,0,PIT,PENALTY
+4,786,2,03:04,"(3:04) L.Bell up the middle to DAL 9 for 16 yards (B.Jones, A.Hitchens).",4,1,66,DAL 25,0,PIT,
+4,849,3,01:18,"(1:18) (Shotgun) B.Roethlisberger pass short left to E.Rogers for 3 yards, TOUCHDOWN.",3,1,75,DAL 3,1,PIT,TD
+4,641,1,05:17,(5:17) (Shotgun) B.Roethlisberger pass short right to A.Brown pushed ob at PIT 30 for 5 yards (A.Brown).,10,1,5,PIT 25,0,PIT,
+4,828,2,02:02,"(2:02) (No Huddle, Shotgun) L.Bell right guard to DAL 3 for -2 yards (B.Jones).",1,1,72,DAL 1,0,PIT,
+4,807,1,02:26,(2:26) (Shotgun) L.Bell up the middle to DAL 1 for 8 yards (T.McClain).,9,1,74,DAL 9,0,PIT,
+4,728,1,03:45,(3:45) L.Bell up the middle to DAL 30 for 1 yard (D.Lawrence).,10,1,45,DAL 31,0,PIT,
+7,1286,1,12:46,(12:46) (Shotgun) D.Prescott pass short left to A.Morris to PIT 41 for 6 yards (J.Jones).,15,2,19,PIT 47,0,DAL,
+7,1159,1,14:28,"(14:28) J.Looney reported in as eligible.  A.Morris left guard to DAL 42 for 2 yards (A.Chickillo, J.Jones).",10,2,2,DAL 40,0,DAL,
+7,1222,1,13:29,"(13:29) A.Morris up the middle to PIT 40 for 2 yards (S.Davis, R.Cockrell). PENALTY on PIT-C.Heyward, Defensive Offside, 5 yards, enforced at PIT 42 - No Play.",10,2,23,PIT 42,0,DAL,PENALTY
+7,1310,2,12:02,(12:02) A.Morris left tackle to PIT 35 for 6 yards (J.Jones).,9,2,25,PIT 41,0,DAL,
+7,1353,4,11:09,"(11:09) (Field Goal formation) D.Bailey 53 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",3,2,25,PIT 35,1,DAL,FG
+7,1331,3,11:15,(11:15) (Shotgun) D.Prescott pass incomplete short right to C.Beasley.,3,2,25,PIT 35,0,DAL,
+7,1182,2,13:53,"(13:53) D.Prescott pass deep left to D.Bryant ran ob at PIT 42 for 16 yards. Penalty on PIT-W.Gay, Illegal Contact, declined.",8,2,25,DAL 42,0,DAL,
+7,1254,1,13:09,"(13:09) A.Morris left guard to PIT 34 for 3 yards (J.Jones; R.Shazier). PENALTY on DAL-D.Free, Offensive Holding, 10 yards, enforced at PIT 37 - No Play.",5,2,25,PIT 37,0,DAL,PENALTY
+6,1069,2,00:03,(:03) (Shotgun) B.Roethlisberger pass short left to A.Brown to PIT 30 for 9 yards (B.Carr).,10,1,9,PIT 21,0,PIT,
+6,1040,1,00:07,(:07) (Shotgun) B.Roethlisberger pass incomplete short right to X.Grimble (J.Wilcox).,10,1,0,PIT 21,0,PIT,
+6,1093,0,,END QUARTER 1,0,1,9,,0,,
+6,1134,4,14:38,"(14:38) (Punt formation) J.Berry punts 44 yards to DAL 35, Center-G.Warren. L.Whitehead to DAL 40 for 5 yards (T.Matakevich, A.Moats).",10,2,0,PIT 21,0,PIT,PUNT
+6,1018,0,00:12,"D.Bailey kicks 61 yards from DAL 35 to PIT 4. F.Toussaint to PIT 21 for 17 yards (K.Frazier, L.Dunbar).",0,1,0,DAL 35,0,DAL,KICKOFF
+6,1109,3,15:00,"(15:00) L.Bell right end to PIT 27 for -3 yards (D.Lawrence). FUMBLES (D.Lawrence), touched at PIT 28, ball out of bounds at PIT 21.",1,2,0,PIT 30,0,PIT,FUMBLE
+9,1780,4,03:17,"(3:17) (Punt formation) C.Jones punts 49 yards to PIT 18, Center-L.Ladouceur, out of bounds.",2,2,8,DAL 33,0,DAL,PUNT
+9,1709,1,04:43,(4:43) D.Prescott pass short left to C.Beasley to DAL 33 for 8 yards (R.Golden).,10,2,8,DAL 25,0,DAL,
+9,1694,0,04:43,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback.",0,2,0,PIT 35,0,PIT,KICKOFF
+9,1754,3,03:22,(3:22) (Shotgun) D.Prescott pass incomplete deep right to D.Bryant. Coverage by 22-Gay.,2,2,8,DAL 33,0,DAL,
+9,1733,2,04:03,(4:03) E.Elliott left tackle to DAL 33 for no gain (J.Harrison).,2,2,8,DAL 33,0,DAL,
+8,1630,2,06:09,(6:09) L.Bell left guard to DAL 26 for -1 yards (S.Lee).,10,2,49,DAL 25,0,PIT,
+8,1435,1,09:54,(9:54) L.Bell left guard to PIT 47 for 11 yards (J.Wilcox; B.Jones).,10,2,22,PIT 36,0,PIT,
+8,1651,3,05:26,(5:26) (Shotgun) B.Roethlisberger pass short left to X.Grimble to DAL 21 for 5 yards (J.Wilcox).,11,2,54,DAL 26,0,PIT,
+8,1556,2,07:38,(7:38) (Shotgun) B.Roethlisberger pass short right to A.Brown to DAL 38 for no gain (A.Brown).,10,2,54,DAL 38,0,PIT,
+8,1580,3,07:00,(7:00) (Shotgun) B.Roethlisberger pass short right to A.Brown to DAL 25 for 13 yards (A.Brown).,10,2,50,DAL 38,0,PIT,
+8,1604,1,06:13,(6:13) (Shotgun) B.Roethlisberger pass incomplete deep middle to L.Green. Coverage 56-Durant,10,2,50,DAL 25,0,PIT,
+8,1456,1,09:06,"(9:06) B.Roethlisberger pass incomplete short left to C.Hamilton [C.Thornton]. PIT-B.Roethlisberger was injured during the play.  PENALTY on DAL-J.Durant, Roughing the Passer, 15 yards, enforced at PIT 47 - No Play.",10,2,54,PIT 47,0,PIT,PENALTY
+8,1372,0,11:04,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback.",0,2,0,DAL 35,0,DAL,KICKOFF
+8,1533,2,08:00,"(8:00) (Shotgun) PENALTY on DAL-T.McClain, Encroachment, 5 yards, enforced at DAL 43 - No Play.",15,2,37,DAL 43,0,PIT,PENALTY
+8,1675,4,04:47,"(4:47) (Field Goal formation) C.Boswell 39 yard field goal is GOOD, Center-G.Warren, Holder-J.Berry.",6,2,54,DAL 21,1,PIT,FG
+8,1411,2,10:29,(10:29) (No Huddle) B.Roethlisberger pass short left to A.Brown pushed ob at PIT 36 for 2 yards (B.Jones).,1,2,11,PIT 34,0,PIT,
+8,1489,1,09:01,(9:01) L.Bell up the middle to DAL 38 for no gain (D.Wilson).,10,2,37,DAL 38,0,PIT,
+8,1387,1,11:04,(11:04) B.Roethlisberger pass short right to A.Brown to PIT 34 for 9 yards (J.Wilcox).,10,2,9,PIT 25,0,PIT,
+8,1510,2,08:19,"(8:19) PENALTY on PIT-D.DeCastro, False Start, 5 yards, enforced at DAL 38 - No Play.",10,2,32,DAL 38,0,PIT,PENALTY
+11,2118,4,00:27,"(:27) (Punt formation) C.Jones punts 48 yards to PIT 36, Center-L.Ladouceur, fair catch by A.Brown.",10,2,0,DAL 16,0,DAL,PUNT
+11,2044,1,00:45,(:45) (Shotgun) D.Prescott pass incomplete short right to C.Beasley (W.Gay).,10,2,0,DAL 16,0,DAL,
+11,2066,2,00:39,"(:39) (Shotgun) D.Prescott pass incomplete short right to L.Dunbar. Coverage by 56-Chickillo, Pressure by 50-Shazier.",10,2,0,DAL 16,0,DAL,
+11,2092,3,00:33,(:33) (Shotgun) D.Prescott pass incomplete short right to C.Beasley (R.Cockrell).,10,2,0,DAL 16,0,DAL,
+10,1984,3,01:04,"(1:04) (Shotgun) B.Roethlisberger pass short left to L.Bell to DAL 43 for -3 yards (S.Lee, D.Irving) [J.Durant].",10,2,39,DAL 40,0,PIT,
+10,1798,1,03:10,(3:10) (Shotgun) L.Bell right end to PIT 19 for 1 yard (S.Lee).,10,2,1,PIT 18,0,PIT,
+10,1908,2,01:43,"(1:43) (No Huddle, Shotgun) B.Roethlisberger pass short left to A.Brown to DAL 40 for 9 yards (O.Scandrick).",6,2,42,DAL 49,0,PIT,
+10,2025,4,00:51,"(:51) (Punt formation) J.Berry punts 27 yards to DAL 16, Center-G.Warren, fair catch by C.Beasley.",13,2,39,DAL 43,0,PIT,PUNT
+10,1843,1,02:10,"(2:10) (No Huddle, Shotgun) B.Roethlisberger pass short left to L.Bell to PIT 47 for 15 yards (O.Scandrick).",10,2,29,PIT 32,0,PIT,
+10,1819,2,02:41,"(2:41) (No Huddle, Shotgun) B.Roethlisberger pass short middle to E.Rogers to PIT 32 for 13 yards (O.Scandrick).",9,2,39,PIT 19,0,PIT,
+10,1932,1,01:16,"(1:16) (No Huddle, Shotgun) B.Roethlisberger pass incomplete deep right to S.Coates. Coverage 30-Brown",10,2,42,DAL 40,0,PIT,
+10,1867,0,02:00,Two-Minute Warning,0,2,29,,0,,
+10,2008,0,00:52,Timeout #1 by DAL at 00:52.,0,2,39,,0,,TIMEOUT
+10,1884,1,02:00,(2:00) (Shotgun) B.Roethlisberger pass short middle to E.Rogers to DAL 49 for 4 yards (O.Scandrick).,10,2,33,PIT 47,0,PIT,
+10,1958,2,01:10,(1:10) (Shotgun) B.Roethlisberger pass incomplete deep left to A.Brown. Coverage 39-Carr,10,2,42,DAL 40,0,PIT,
+13,2344,0,15:00,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback.",0,3,0,DAL 35,0,DAL,KICKOFF
+13,2541,4,13:14,"(13:14) (Field Goal formation) C.Boswell 25 yard field goal is GOOD, Center-G.Warren, Holder-J.Berry.",7,3,68,DAL 7,1,PIT,FG
+13,2463,1,13:24,(13:24) (Shotgun) B.Roethlisberger pass incomplete short right to A.Brown. Coverage 30-Brown,7,3,68,DAL 7,0,PIT,
+13,2430,3,13:29,"(13:29) (Shotgun) B.Roethlisberger pass incomplete deep right to C.Hamilton. PENALTY on DAL-A.Brown, Defensive Pass Interference, 28 yards, enforced at DAL 35 - No Play.",9,3,68,DAL 35,0,PIT,PENALTY
+13,2404,2,13:37,(13:37) (Shotgun) B.Roethlisberger pass incomplete deep right to A.Brown. Coverage 30-Brown,9,3,40,DAL 35,0,PIT,
+13,2383,1,14:16,(14:16) (Shotgun) B.Roethlisberger up the middle to DAL 35 for 1 yard (S.Lee).,10,3,68,DAL 36,0,PIT,
+13,2359,1,15:00,(15:00) (Shotgun) B.Roethlisberger pass deep left to C.Hamilton to DAL 36 for 39 yards (B.Carr).,10,3,39,PIT 25,0,PIT,
+13,2515,3,13:17,(13:17) (Shotgun) B.Roethlisberger pass incomplete short middle to A.Brown.,7,3,68,DAL 7,0,PIT,
+13,2489,2,13:21,(13:21) (Shotgun) B.Roethlisberger pass incomplete short middle to E.Rogers. Coverage 59-Hitchens,7,3,68,DAL 7,0,PIT,
+12,2137,1,00:20,(:20) (Shotgun) B.Roethlisberger pass short right to L.Bell pushed ob at PIT 49 for 13 yards (A.Brown).,10,2,13,PIT 36,0,PIT,
+12,2202,2,00:02,"(:02) (Shotgun) B.Roethlisberger pass deep right to E.Rogers to DAL 19 for 23 yards (O.Scandrick). Penalty on DAL-O.Scandrick, Defensive Holding, declined. The Replay Official reviewed the pass completion ruling, and the play was REVERSED. (Shotgun) B.Roethlisberger pass incomplete deep right to E.Rogers (O.Scandrick). PENALTY on DAL-O.Scandrick, Defensive Holding, 5 yards, enforced at DAL 42 - No Play.",1,2,27,DAL 42,0,PIT,PENALTY
+12,2161,1,00:13,(:13) (Shotgun) B.Roethlisberger pass short middle to L.Green to DAL 42 for 9 yards (B.Jones).,10,2,22,PIT 49,0,PIT,
+12,2185,0,00:08,Timeout #1 by PIT at 00:08.,0,2,22,,0,,TIMEOUT
+12,2308,1,00:02,"(:02) (Field Goal formation) C.Boswell 55 yard field goal is No Good, Wide Right, Center-G.Warren, Holder-J.Berry.",10,2,27,DAL 37,0,PIT,FGM
+15,2911,0,05:35,D.Bailey kicks 66 yards from DAL 35 to PIT -1. F.Toussaint ran ob at PIT 32 for 33 yards.,0,3,0,DAL 35,0,DAL,KICKOFF
+15,2980,3,04:12,"(4:12) (No Huddle, Shotgun) B.Roethlisberger sacked at PIT 31 for -8 yards (D.Lawrence).",3,3,-1,PIT 39,0,PIT,
+15,2959,2,04:54,"(4:54) (No Huddle, Shotgun) L.Bell left tackle to PIT 39 for 3 yards (A.Hitchens, J.Wilcox).",6,3,7,PIT 36,0,PIT,
+15,2938,1,05:27,(5:27) (Shotgun) L.Bell left end to PIT 36 for 4 yards (S.Lee).,10,3,4,PIT 32,0,PIT,
+15,2999,4,03:41,"(3:41) (Punt formation) J.Berry punts 57 yards to DAL 12, Center-G.Warren. L.Whitehead to PIT 49 for 39 yards (R.Nix).",11,3,-1,PIT 31,0,PIT,PUNT
+14,2873,3,06:22,(6:22) (Shotgun) D.Prescott sacked at PIT 28 for -12 yards (S.Tuitt).,5,3,46,PIT 16,0,DAL,
+14,2606,2,12:38,"(12:38) (Shotgun) E.Elliott left end to DAL 35 for 3 yards (J.Hargrave, C.Heyward).",4,3,9,DAL 32,0,DAL,
+14,2786,0,07:50,Timeout #1 by PIT at 07:50.,0,3,41,,0,,TIMEOUT
+14,2716,3,09:14,"(9:14) J.Looney reported in as eligible.  E.Elliott right guard to PIT 36 for 6 yards (D.McCullers, M.Mitchell).",1,3,38,PIT 42,0,DAL,
+14,2582,1,13:05,"(13:05) E.Elliott up the middle to DAL 32 for 6 yards (R.Cockrell, L.Timmons). PIT-R.Cockrell was injured during the play.",10,3,6,DAL 26,0,DAL,
+14,2849,2,07:08,(7:08) (Shotgun) D.Prescott pass short left to D.Bryant to PIT 16 for 5 yards (A.Burns).,10,3,58,PIT 21,0,DAL,
+14,2560,0,13:10,"C.Boswell kicks 69 yards from PIT 35 to DAL -4. L.Whitehead to DAL 26 for 30 yards (T.Matakevich, V.Williams).",0,3,0,PIT 35,0,PIT,KICKOFF
+14,2650,1,11:15,(11:15) (Shotgun) D.Prescott pass short right to J.Witten to DAL 49 for 11 yards (R.Shazier).,10,3,23,DAL 38,0,DAL,
+14,2739,1,08:37,"(8:37) D.Prescott pass incomplete deep middle to D.Bryant [J.Harrison]. Pressure by 50-Shazier, 92-Harrison.",10,3,41,PIT 36,0,DAL,
+14,2765,2,08:32,(8:32) A.Morris up the middle to PIT 33 for 3 yards (J.Harrison; R.Shazier).,10,3,41,PIT 36,0,DAL,
+14,2892,4,05:39,"(5:39) (Field Goal formation) D.Bailey 46 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",17,3,46,PIT 28,1,DAL,FG
+14,2674,1,10:39,(10:39) (Shotgun) E.Elliott up the middle to PIT 45 for 6 yards (M.Mitchell; R.Shazier).,10,3,29,DAL 49,0,DAL,
+14,2803,3,07:50,(7:50) (Shotgun) D.Prescott pass short left to D.Bryant to PIT 21 for 12 yards (A.Burns).,7,3,53,PIT 33,0,DAL,
+14,2695,2,09:59,"(9:59) E.Elliott up the middle to PIT 42 for 3 yards (R.Cockrell, M.Mitchell).",4,3,32,PIT 45,0,DAL,
+14,2827,1,07:12,(7:12) (Shotgun) D.Prescott pass incomplete short right to C.Beasley.,10,3,53,PIT 21,0,DAL,
+14,2627,3,11:55,(11:55) J.Looney reported in as eligible.  E.Elliott right guard to DAL 38 for 3 yards (L.Timmons).,1,3,12,DAL 35,0,DAL,
+17,3259,1,15:00,(15:00) A.Brown up the middle to PIT 26 for -10 yards (D.Lawrence).,10,4,1,PIT 36,0,PIT,
+17,3211,3,00:08,(:08) (Shotgun) L.Bell right guard to PIT 36 for 2 yards (B.Jones).,1,3,11,PIT 34,0,PIT,
+17,3243,0,,END QUARTER 3,0,3,11,,0,,
+17,3340,4,13:17,"(13:17) (Punt formation) J.Berry punts 46 yards to DAL 11, Center-G.Warren, out of bounds.",3,4,18,PIT 43,0,PIT,PUNT
+17,3140,0,01:35,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback.",0,3,0,DAL 35,0,DAL,KICKOFF
+17,3183,2,00:50,(:50) (Shotgun) B.Roethlisberger pass short right to L.Bell to PIT 34 for 6 yards (D.Wilson).,7,3,9,PIT 28,0,PIT,
+17,3159,1,01:35,"(1:35) (Shotgun) B.Roethlisberger pass short right to L.Bell to PIT 28 for 3 yards (T.McClain, S.Lee). PIT-D.DeCastro was injured during the play.",10,3,3,PIT 25,0,PIT,
+17,3304,3,13:39,"(13:39) (Shotgun) B.Roethlisberger pass short left to L.Bell to PIT 43 for 6 yards (B.Jones, J.Wilcox). Penalty on PIT-M.Gilbert, Illegal Use of Hands, declined.",9,4,18,PIT 37,0,PIT,
+17,3280,2,14:18,(14:18) (Shotgun) B.Roethlisberger pass short middle to L.Green to PIT 37 for 11 yards (S.Lee).,20,4,12,PIT 26,0,PIT,
+16,3049,2,02:46,(2:46) A.Morris up the middle to PIT 40 for 2 yards (C.Heyward).,3,3,9,PIT 42,0,DAL,
+16,3070,3,02:10,"(2:10) J.Looney reported in as eligible.  E.Elliott left guard to PIT 37 for 3 yards (S.Davis). PENALTY on DAL-R.Leary, Offensive Holding, 10 yards, enforced at PIT 40 - No Play.",1,3,-1,PIT 40,0,DAL,PENALTY
+16,3024,1,03:23,"(3:23) E.Elliott left tackle to PIT 42 for 7 yards (S.Tuitt, R.Shazier).",10,3,7,PIT 49,0,DAL,
+16,3124,0,01:35,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,3,49,PIT 15,1,DAL,XP
+16,3104,3,01:43,"(1:43) (Shotgun) D.Prescott pass deep left to D.Bryant for 50 yards, TOUCHDOWN.",11,3,49,50,1,DAL,TD
+19,3452,1,10:56,(10:56) (Shotgun) L.Bell left tackle to DAL 45 for 1 yard (J.Durant).,10,4,1,DAL 46,0,PIT,
+19,3555,1,08:39,(8:39) (Shotgun) B.Roethlisberger pass short left to J.James to DAL 1 for 10 yards (J.Durant).,10,4,45,DAL 11,0,PIT,
+19,3579,1,07:56,"(7:56) C.Hubbard reported in as eligible.  L.Bell right tackle for 1 yard, TOUCHDOWN.",1,4,46,DAL 1,1,PIT,TD
+19,3473,2,10:22,"(10:22) (No Huddle, Shotgun) B.Roethlisberger pass short right to A.Brown pushed ob at DAL 33 for 12 yards (B.Jones).",9,4,13,DAL 45,0,PIT,
+19,3502,1,09:48,(9:48) (Shotgun) B.Roethlisberger pass short left to A.Brown to DAL 31 for 2 yards (B.Carr).,10,4,15,DAL 33,0,PIT,
+19,3598,0,07:51,(Pass formation) TWO-POINT CONVERSION ATTEMPT. B.Roethlisberger pass to F.Toussaint is incomplete. ATTEMPT FAILS.,0,4,46,DAL 2,0,PIT,2PPF
+19,3526,2,09:15,(9:15) (Shotgun) B.Roethlisberger pass deep right to A.Brown pushed ob at DAL 11 for 20 yards (B.Jones).,8,4,35,DAL 31,0,PIT,
+18,3427,4,11:09,"(11:09) (Punt formation) C.Jones punts 48 yards to PIT 32, Center-L.Ladouceur. A.Brown pushed ob at DAL 46 for 22 yards (C.Jones).",1,4,9,DAL 20,0,DAL,PUNT
+18,3359,1,13:13,"(13:13) E.Elliott right guard to DAL 13 for 2 yards (J.Harrison, A.Burns).",10,4,2,DAL 11,0,DAL,
+18,3404,3,11:53,"(11:53) J.Looney reported in as eligible.  E.Elliott left guard to DAL 20 for no gain (S.Davis, L.Timmons).",1,4,9,DAL 20,0,DAL,
+18,3380,2,12:37,(12:37) (Shotgun) D.Prescott pass short left to J.Witten to DAL 20 for 7 yards (L.Timmons).,8,4,9,DAL 13,0,DAL,

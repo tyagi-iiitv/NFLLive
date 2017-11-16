@@ -1,201 +1,201 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1399,0,10:13,,0,2,79,PIT 2,1,DET,XP
-9,1357,0,10:31,,0,2,0,PIT 35,0,PIT,KICKOFF
-9,1379,1,10:27,,10,2,79,DET 21,1,DET,TD
-24,4234,1,04:40,,10,4,0,DET 20,0,DET,
-24,4286,3,04:28,,10,4,0,DET 20,0,DET,INT
-24,4260,2,04:36,,10,4,0,DET 20,0,DET,
-24,4212,0,04:46,,0,4,0,PIT 35,0,PIT,KICKOFF
-10,1475,2,09:07,,6,2,68,PIT 45,0,PIT,
-10,1430,1,10:13,,10,2,21,PIT 20,0,PIT,
-10,1609,4,07:24,,14,2,64,DET 16,1,PIT,FG
-10,1554,3,08:11,,10,2,59,DET 12,0,PIT,
-10,1499,1,08:21,,10,2,68,DET 12,0,PIT,
-10,1415,0,10:13,,0,2,0,DET 35,0,DET,KICKOFF
-10,1573,4,07:42,,19,2,64,DET 21,0,PIT,PENALTY
-10,1454,1,09:52,,10,2,25,PIT 41,0,PIT,
-10,1521,2,08:16,,10,2,68,DET 12,0,PIT,
-20,3065,1,12:00,,10,3,0,DET 12,0,DET,
-20,3131,4,10:31,,20,3,-10,DET 2,0,DET,PUNT
-20,3091,2,11:57,,10,3,1,DET 12,0,DET,
-20,3112,3,11:13,,9,3,-10,DET 13,0,DET,
-6,1067,3,13:26,,18,2,-3,PIT 12,0,PIT,
-6,1045,2,13:31,,18,2,-8,PIT 12,0,PIT,
-6,1095,4,12:50,,13,2,-3,PIT 17,0,PIT,PUNT
-6,1005,0,14:05,,0,2,0,DET 35,0,DET,KICKOFF
-6,1024,1,14:05,,10,2,-8,PIT 20,0,PIT,
-27,4713,1,01:39,,10,4,-3,DET 22,0,PIT,
-27,4734,2,01:01,,11,4,-2,DET 23,0,PIT,
-27,4776,0,,,0,4,-3,,0,,
-27,4755,3,00:36,,12,4,-3,DET 24,0,PIT,
-18,2881,3,12:38,,8,3,2,DET 14,0,DET,
-18,2903,4,12:34,,8,3,2,DET 14,0,DET,PUNT
-18,2855,2,12:42,,8,3,2,DET 14,0,DET,
-18,2834,1,13:22,,10,3,2,DET 12,0,DET,
-26,4528,3,02:20,,10,4,0,DET 20,0,DET,
-26,4484,1,02:29,,10,4,0,DET 20,0,DET,
-26,4465,0,02:29,,0,4,0,PIT 35,0,PIT,KICKOFF
-26,4580,1,02:03,,10,4,9,DET 34,0,DET,PENALTY
-26,4603,1,02:03,,15,4,9,DET 29,0,DET,
-26,4506,2,02:25,,10,4,0,DET 20,0,DET,
-26,4694,4,01:46,,15,4,2,DET 29,0,DET,
-26,4672,3,01:53,,15,4,9,DET 29,0,DET,
-26,4554,4,02:11,,10,4,14,DET 20,0,DET,
-26,4646,2,01:57,,15,4,9,DET 29,0,DET,
-25,4374,1,03:21,,10,4,11,DET 24,0,PIT,
-25,4312,1,04:11,,10,4,4,DET 34,0,PIT,
-25,4449,0,02:29,,0,4,34,DET 2,1,PIT,XP
-25,4357,0,03:21,,0,4,10,,0,,TIMEOUT
-25,4419,3,02:35,,6,4,34,DET 20,1,PIT,TD
-25,4395,2,02:40,,9,4,14,DET 23,0,PIT,
-25,4336,2,03:29,,6,4,10,DET 30,0,PIT,
-1,180,3,12:19,,7,1,42,DET 48,0,DET,
-1,135,1,13:37,,10,1,27,DET 45,0,DET,
-1,204,1,11:42,,10,1,43,PIT 38,0,DET,
-1,275,4,10:22,,3,1,49,PIT 31,0,DET,
-1,36,0,15:00,,0,1,0,PIT 35,0,PIT,KICKOFF
-1,99,3,13:53,,2,1,25,DET 28,0,DET,
-1,225,2,11:10,,9,1,49,PIT 37,0,DET,
-1,156,2,13:05,,8,1,28,DET 47,0,DET,
-1,78,2,14:36,,5,1,8,DET 25,0,DET,
-1,51,1,15:00,,10,1,5,DET 20,0,DET,
-1,246,3,10:25,,3,1,49,PIT 31,0,DET,
-5,913,1,15:00,,10,2,48,PIT 19,0,DET,
-5,939,2,14:55,,10,2,50,PIT 19,0,DET,
-5,831,1,01:59,,10,1,31,DET 46,0,DET,
-5,743,0,03:58,,0,1,0,PIT 35,0,PIT,KICKOFF
-5,986,4,14:10,,8,2,50,PIT 17,1,DET,FG
-5,873,2,00:37,,9,1,48,PIT 35,0,DET,
-5,786,2,03:17,,9,1,8,DET 34,0,DET,
-5,810,3,02:34,,2,1,13,DET 41,0,DET,
-5,765,1,03:52,,10,1,1,DET 33,0,DET,
-5,852,1,01:19,,10,1,32,PIT 36,0,DET,
-5,960,3,14:15,,8,2,50,PIT 17,0,DET,
-13,1935,2,02:27,,10,2,23,DET 38,0,DET,
-13,2000,1,01:50,,2,2,60,PIT 2,0,DET,
-13,2026,2,01:46,,2,2,62,PIT 2,1,DET,TD
-13,1913,1,02:31,,10,2,0,DET 38,0,DET,
-13,1976,1,02:00,,10,2,60,PIT 39,0,DET,
-13,2050,0,01:42,,0,2,62,PIT 2,1,DET,XP
-21,3269,3,07:24,,4,3,44,DET 7,0,PIT,
-21,3384,4,05:17,,3,3,42,DET 3,1,PIT,FG
-21,3293,1,06:58,,1,3,44,DET 1,0,PIT,PENALTY
-21,3341,2,06:07,,1,3,44,DET 1,0,PIT,
-21,3316,1,06:45,,1,3,44,DET 1,0,PIT,
-21,3150,1,10:25,,10,3,9,DET 45,0,PIT,
-21,3195,1,09:13,,10,3,32,DET 34,0,PIT,
-21,3174,2,09:56,,1,3,11,DET 36,0,PIT,
-21,3245,2,08:06,,4,3,38,DET 7,0,PIT,
-21,3363,3,06:02,,1,3,42,DET 1,0,PIT,
-21,3224,1,08:36,,10,3,38,DET 13,0,PIT,
-23,4043,2,06:16,,10,4,96,DET 20,0,PIT,
-23,3799,3,11:25,,9,4,17,PIT 4,0,PIT,
-23,3823,1,10:51,,10,4,26,PIT 20,0,PIT,
-23,3956,0,07:30,,0,4,61,,0,,TIMEOUT
-23,3753,1,12:49,,10,4,0,PIT 3,0,PIT,
-23,4172,2,04:50,,1,4,97,DET 1,1,PIT,TD
-23,3997,1,06:53,,10,4,77,DET 33,0,PIT,
-23,4196,0,04:46,,0,4,97,DET 2,1,PIT,XP
-23,4092,1,05:39,,1,4,96,DET 1,0,PIT,
-23,3868,1,09:44,,10,4,53,PIT 35,0,PIT,
-23,3774,2,12:09,,10,4,1,PIT 3,0,PIT,
-23,3847,2,10:21,,1,4,32,PIT 29,0,PIT,
-23,3913,2,08:21,,12,4,51,DET 46,0,PIT,
-23,4147,1,05:30,,1,4,96,DET 1,0,PIT,
-23,3973,4,07:30,,2,4,64,DET 36,0,PIT,
-23,4021,1,06:19,,10,4,77,DET 20,0,PIT,
-23,4114,2,05:35,,1,4,96,DET 1,0,PIT,PENALTY
-23,4071,0,05:39,,0,4,96,,0,,TIMEOUT
-23,3892,1,09:01,,10,4,51,DET 44,0,PIT,
-23,3935,3,08:14,,12,4,61,DET 46,0,PIT,
-11,1718,3,05:27,,11,2,30,DET 25,0,DET,
-11,1628,0,07:19,,0,2,0,PIT 35,0,PIT,KICKOFF
-11,1786,0,03:52,,0,2,74,PIT 2,1,DET,XP
-11,1742,1,04:43,,10,2,55,PIT 44,0,DET,
-11,1695,3,05:54,,6,2,-1,DET 30,0,DET,PENALTY
-11,1671,2,06:36,,7,2,4,DET 29,0,DET,
-11,1766,1,03:58,,10,2,74,PIT 19,1,DET,TD
-11,1650,1,07:14,,10,2,3,DET 26,0,DET,
-14,2215,3,01:17,,26,2,-10,PIT 4,0,PIT,
-14,2256,4,01:11,,20,2,-10,PIT 10,0,PIT,PUNT
-14,2066,0,01:42,,0,2,0,DET 35,0,DET,KICKOFF
-14,2193,2,01:20,,26,2,-16,PIT 4,0,PIT,
-14,2085,1,01:42,,10,2,-10,PIT 20,0,PIT,PENALTY
-14,2141,0,01:29,,0,2,-11,,0,,TIMEOUT
-14,2117,1,01:37,,20,2,-11,PIT 10,0,PIT,
-14,2239,0,01:11,,0,2,-10,,0,,TIMEOUT
-14,2158,2,01:29,,21,2,-16,PIT 9,0,PIT,PENALTY
-8,1334,4,10:34,,6,2,25,DET 7,1,PIT,FG
-8,1273,2,10:44,,6,2,25,DET 7,0,PIT,
-8,1168,1,12:31,,10,2,25,DET 32,0,PIT,
-8,1312,3,10:40,,6,2,25,DET 7,0,PIT,
-8,1295,0,10:40,,0,2,25,,0,,TIMEOUT
-8,1247,1,10:51,,10,2,25,DET 11,0,PIT,
-8,1201,1,11:57,,10,2,25,DET 22,0,PIT,
-8,1223,2,11:25,,10,2,21,DET 22,0,PIT,
-19,2994,2,12:15,,10,3,15,50,0,PIT,
-19,3042,4,12:08,,10,3,15,50,0,PIT,PUNT
-19,2972,1,12:18,,10,3,15,50,0,PIT,
-19,2939,1,12:23,,10,3,15,PIT 35,0,PIT,PENALTY
-19,3020,3,12:12,,10,3,15,50,0,PIT,
-22,3661,2,13:44,,4,4,70,PIT 9,0,DET,
-22,3619,3,15:00,,3,4,65,PIT 22,0,DET,
-22,3582,2,00:38,,4,3,58,PIT 23,0,DET,
-22,3704,4,12:56,,5,4,73,PIT 10,0,DET,FUMBLE
-22,3640,1,14:24,,10,4,71,PIT 15,0,DET,
-22,3443,2,04:39,,3,3,26,DET 27,0,DET,
-22,3422,1,05:14,,10,3,7,DET 20,0,DET,
-22,3682,3,13:00,,5,4,70,PIT 10,0,DET,
-22,3403,0,05:14,,0,3,0,PIT 35,0,PIT,KICKOFF
-22,3533,2,02:08,,1,3,51,PIT 32,0,DET,
-22,3467,1,04:00,,10,3,29,DET 46,0,DET,
-22,3558,1,01:25,,10,3,57,PIT 29,0,DET,
-22,3512,1,02:47,,10,3,48,PIT 41,0,DET,
-22,3488,2,03:23,,7,3,39,DET 49,0,DET,
-12,1821,1,03:52,,10,2,-1,PIT 20,0,PIT,
-12,1864,3,03:17,,11,2,5,PIT 19,0,PIT,
-12,1842,2,03:22,,11,2,-1,PIT 19,0,PIT,
-12,1802,0,03:52,,0,2,0,DET 35,0,DET,KICKOFF
-12,1888,4,02:40,,5,2,5,PIT 25,0,PIT,PUNT
-16,2647,1,00:04,,10,2,-1,PIT 20,0,PIT,
-16,2628,0,00:04,,0,2,0,DET 35,0,DET,KICKOFF
-7,1120,1,12:41,,10,2,6,PIT 45,0,DET,FUMBLE
-3,615,4,05:28,,8,1,2,DET 22,0,DET,PUNT
-3,542,1,06:20,,10,1,2,DET 20,0,DET,
-3,589,3,05:34,,8,1,2,DET 22,0,DET,
-3,563,2,05:40,,8,1,2,DET 22,0,DET,
-3,523,0,06:20,,0,1,0,PIT 35,0,PIT,KICKOFF
-17,2706,1,14:56,,10,3,3,PIT 18,0,PIT,
-17,2748,3,13:41,,8,3,2,PIT 20,0,PIT,
-17,2684,0,15:00,,0,3,0,DET 35,0,DET,KICKOFF
-17,2809,4,13:35,,8,3,2,PIT 20,0,PIT,PUNT
-17,2727,2,14:11,,7,3,2,PIT 21,0,PIT,
-4,661,2,04:49,,7,1,3,PIT 40,0,PIT,
-4,707,1,04:08,,10,1,63,DET 47,1,PIT,TD
-4,727,0,03:58,,0,1,63,DET 2,1,PIT,XP
-4,640,1,05:17,,10,1,3,PIT 37,0,PIT,
-4,683,3,04:45,,7,1,16,PIT 40,0,PIT,
-2,487,1,06:28,,10,1,68,DET 34,1,PIT,TD
-2,436,3,07:25,,6,1,23,DET 40,0,PIT,PENALTY
-2,391,1,08:19,,10,1,26,DET 44,0,PIT,
-2,367,3,08:46,,8,1,24,PIT 47,0,PIT,
-2,322,1,09:57,,10,1,10,PIT 45,0,PIT,
-2,459,3,07:05,,11,1,34,DET 45,0,PIT,
-2,343,2,09:26,,13,1,15,PIT 42,0,PIT,
-2,507,0,06:20,,0,1,68,DET 2,1,PIT,XP
-2,297,1,10:18,,10,1,13,PIT 32,0,PIT,
-2,415,2,07:52,,8,1,28,DET 42,0,PIT,
-15,2565,2,00:14,,1,2,50,PIT 1,0,DET,
-15,2359,0,00:52,,0,2,-5,,0,,TIMEOUT
-15,2526,1,00:17,,1,2,50,PIT 1,0,DET,
-15,2493,1,00:21,,4,2,50,PIT 4,0,DET,PENALTY
-15,2292,1,01:02,,10,2,0,DET 49,0,DET,
-15,2376,3,00:52,,15,2,20,DET 44,0,DET,
-15,2609,4,00:07,,1,2,50,PIT 1,1,DET,FG
-15,2400,1,00:33,,10,2,15,PIT 36,0,DET,
-15,2422,2,00:33,,10,2,25,PIT 36,0,DET,
-15,2548,0,00:14,,0,2,50,,0,,TIMEOUT
-15,2337,2,00:58,,15,2,-5,DET 44,0,DET,
-15,2458,1,00:27,,10,2,47,PIT 26,0,DET,
-15,2314,2,00:59,,10,2,-5,DET 49,0,DET,PENALTY
-15,2587,3,00:12,,1,2,50,PIT 1,0,DET,
+24,4260,2,04:36,(4:36) (Shotgun) M.Stafford pass incomplete short right to J.Ross. Coverage by #22 Gay.,10,4,0,DET 20,0,DET,
+24,4234,1,04:40,"(4:40) (Shotgun) M.Stafford pass incomplete short left to T.Riddick. Coverage by #94 Timmons, Pressure by #93 Worilds.",10,4,0,DET 20,0,DET,
+24,4286,3,04:28,(4:28) (Shotgun) M.Stafford pass deep middle intended for C.Johnson INTERCEPTED by W.Allen at PIT 39. W.Allen to DET 34 for 27 yards (J.Ross; W.Young).,10,4,0,DET 20,0,DET,INT
+24,4212,0,04:46,S.Suisham kicks 67 yards from PIT 35 to DET -2. M.Spurlock to DET 20 for 22 yards (A.Blake).,0,4,0,PIT 35,0,PIT,KICKOFF
+25,4312,1,04:11,(4:11) (Shotgun) B.Roethlisberger pass short left to H.Miller to DET 30 for 4 yards (L.Delmas).,10,4,4,DET 34,0,PIT,
+25,4419,3,02:35,"(2:35) (No Huddle, Shotgun) B.Roethlisberger pass deep left to J.Cotchery for 20 yards, TOUCHDOWN.",6,4,34,DET 20,1,PIT,TD
+25,4336,2,03:29,"(3:29) (No Huddle, Shotgun) L.Bell up the middle to DET 24 for 6 yards (S.Tulloch; D.Levy).",6,4,10,DET 30,0,PIT,
+25,4395,2,02:40,"(2:40) (No Huddle, Shotgun) B.Roethlisberger pass short right to H.Miller to DET 20 for 3 yards (D.Gomes).",9,4,14,DET 23,0,PIT,
+25,4449,0,02:29,"S.Suisham extra point is GOOD, Center-G.Warren, Holder-M.McBriar.",0,4,34,DET 2,1,PIT,XP
+25,4357,0,03:21,Timeout #2 by DET at 03:21.,0,4,10,,0,,TIMEOUT
+25,4374,1,03:21,(3:21) L.Bell right guard to DET 23 for 1 yard (D.Carey).,10,4,11,DET 24,0,PIT,
+26,4694,4,01:46,(1:46) (Shotgun) M.Stafford sacked at DET 22 for -7 yards (E.Hood).,15,4,2,DET 29,0,DET,
+26,4528,3,02:20,(2:20) (Shotgun) M.Stafford pass incomplete deep right to K.Ogletree. Coverage by #22 Gay.,10,4,0,DET 20,0,DET,
+26,4646,2,01:57,(1:57) (Shotgun) M.Stafford pass incomplete short left to K.Durham. Coverage by #22 Gay.,15,4,9,DET 29,0,DET,
+26,4672,3,01:53,(1:53) (Shotgun) M.Stafford pass incomplete short middle to K.Durham (C.Allen).,15,4,9,DET 29,0,DET,
+26,4603,1,02:03,(2:03) (Shotgun) M.Stafford pass incomplete short right to K.Durham. Coverage by #41 Blake.,15,4,9,DET 29,0,DET,
+26,4484,1,02:29,(2:29) (Shotgun) M.Stafford pass incomplete short middle to K.Ogletree.,10,4,0,DET 20,0,DET,
+26,4506,2,02:25,(2:25) (Shotgun) M.Stafford pass incomplete short middle to C.Johnson (J.Jones).,10,4,0,DET 20,0,DET,
+26,4554,4,02:11,(2:11) (Shotgun) M.Stafford scrambles right end ran ob at DET 34 for 14 yards.,10,4,14,DET 20,0,DET,
+26,4465,0,02:29,"S.Suisham kicks 65 yards from PIT 35 to end zone, Touchback.",0,4,0,PIT 35,0,PIT,KICKOFF
+26,4580,1,02:03,"(2:03) (Shotgun) PENALTY on DET-L.Waddle, False Start, 5 yards, enforced at DET 34 - No Play.",10,4,9,DET 34,0,DET,PENALTY
+27,4776,0,,END GAME,0,4,-3,,0,,
+27,4755,3,00:36,(:36) B.Roethlisberger kneels to DET 25 for -1 yards.,12,4,-3,DET 24,0,PIT,
+27,4734,2,01:01,(1:01) B.Roethlisberger kneels to DET 24 for -1 yards.,11,4,-2,DET 23,0,PIT,
+27,4713,1,01:39,(1:39) B.Roethlisberger kneels to DET 23 for -1 yards.,10,4,-3,DET 22,0,PIT,
+20,3091,2,11:57,(11:57) (Shotgun) R.Bush up the middle to DET 13 for 1 yard (J.Worilds).,10,3,1,DET 12,0,DET,
+20,3131,4,10:31,"(10:31) (Punt formation) S.Martin punts 43 yards to DET 45, Center-D.Muhlbach, fair catch by A.Brown.",20,3,-10,DET 2,0,DET,PUNT
+20,3112,3,11:13,(11:13) (Shotgun) M.Stafford sacked at DET 2 for -11 yards (J.Worilds).,9,3,-10,DET 13,0,DET,
+20,3065,1,12:00,(12:00) M.Stafford pass incomplete short left to K.Durham. Coverage by #28 Allen.,10,3,0,DET 12,0,DET,
+21,3384,4,05:17,"(5:17) (Field Goal formation) S.Suisham 21 yard field goal is GOOD, Center-G.Warren, Holder-M.McBriar.",3,3,42,DET 3,1,PIT,FG
+21,3224,1,08:36,"(8:36) (No Huddle, Shotgun) B.Roethlisberger scrambles right end ran ob at DET 7 for 6 yards.",10,3,38,DET 13,0,PIT,
+21,3341,2,06:07,(6:07) B.Roethlisberger pass incomplete short middle to D.Paulson.,1,3,44,DET 1,0,PIT,
+21,3245,2,08:06,"(8:06) (No Huddle, Shotgun) B.Roethlisberger pass short right to L.Bell to DET 7 for no gain (D.Levy).",4,3,38,DET 7,0,PIT,
+21,3363,3,06:02,(6:02) L.Bell left guard to DET 3 for -2 yards (R.McIntosh).,1,3,42,DET 1,0,PIT,
+21,3195,1,09:13,"(9:13) (No Huddle, Shotgun) B.Roethlisberger pass short right to A.Brown pushed ob at DET 13 for 21 yards (D.Gomes).",10,3,32,DET 34,0,PIT,
+21,3150,1,10:25,(10:25) (Shotgun) B.Roethlisberger pass short left to J.Cotchery to DET 36 for 9 yards (L.Delmas).,10,3,9,DET 45,0,PIT,
+21,3269,3,07:24,"(7:24) (No Huddle, Shotgun) B.Roethlisberger pass short middle to L.Bell to DET 1 for 6 yards (D.Levy).",4,3,44,DET 7,0,PIT,
+21,3316,1,06:45,(6:45) #76 Adams reports as eligible receiver. L.Bell up the middle to DET 1 for no gain (I.Idonije; D.Levy).,1,3,44,DET 1,0,PIT,
+21,3174,2,09:56,(9:56) L.Bell right end to DET 34 for 2 yards (C.Houston; S.Tulloch).,1,3,11,DET 36,0,PIT,
+21,3293,1,06:58,"(6:58) (No Huddle) PENALTY on DET-A.Fluellen, Encroachment, 0 yards, enforced at DET 1 - No Play.",1,3,44,DET 1,0,PIT,PENALTY
+22,3467,1,04:00,(4:00) J.Bell up the middle to DET 49 for 3 yards (J.Jones).,10,3,29,DET 46,0,DET,
+22,3488,2,03:23,(3:23) (Shotgun) M.Stafford pass short left to K.Durham to PIT 41 for 10 yards (C.Allen; T.Polamalu).,7,3,39,DET 49,0,DET,
+22,3582,2,00:38,(:38) R.Bush right guard to PIT 22 for 1 yard (E.Hood).,4,3,58,PIT 23,0,DET,
+22,3661,2,13:44,(13:44) R.Bush right guard to PIT 10 for -1 yards (E.Hood).,4,4,70,PIT 9,0,DET,
+22,3422,1,05:14,"(5:14) J.Bell up the middle to DET 27 for 7 yards (W.Allen, L.Timmons).",10,3,7,DET 20,0,DET,
+22,3533,2,02:08,(2:08) R.Bush right guard to PIT 29 for 3 yards (C.Heyward).,1,3,51,PIT 32,0,DET,
+22,3443,2,04:39,"(4:39) M.Stafford pass short right to J.Ross to DET 46 for 19 yards (I.Taylor, W.Allen).",3,3,26,DET 27,0,DET,
+22,3558,1,01:25,"(1:25) (Shotgun) M.Stafford pass short middle to R.Bush to PIT 23 for 6 yards (C.Heyward, V.Williams).",10,3,57,PIT 29,0,DET,
+22,3403,0,05:14,"S.Suisham kicks 65 yards from PIT 35 to end zone, Touchback.",0,3,0,PIT 35,0,PIT,KICKOFF
+22,3512,1,02:47,"(2:47) J.Bell right guard to PIT 32 for 9 yards (C.Heyward, T.Polamalu). DET-J.Bell was injured during the play.",10,3,48,PIT 41,0,DET,
+22,3619,3,15:00,(15:00) (Shotgun) M.Stafford up the middle to PIT 15 for 7 yards.,3,4,65,PIT 22,0,DET,
+22,3682,3,13:00,(13:00) (Shotgun) M.Stafford pass incomplete short right to C.Johnson (R.Clark).,5,4,70,PIT 10,0,DET,
+22,3704,4,12:56,"(12:56) (Field Goal formation) Direct snap to S.Martin.  S.Martin right guard to PIT 7 for 3 yards (S.McLendon, C.Heyward). FUMBLES (S.McLendon), RECOVERED by PIT-R.Clark at PIT 3. R.Clark to PIT 3 for no gain (L.Waddle).",5,4,73,PIT 10,0,DET,FUMBLE
+22,3640,1,14:24,(14:24) R.Bush right guard to PIT 9 for 6 yards (E.Hood).,10,4,71,PIT 15,0,DET,
+23,4092,1,05:39,(5:39) B.Roethlisberger pass incomplete short right to A.Brown.,1,4,96,DET 1,0,PIT,
+23,3868,1,09:44,"(9:44) (No Huddle, Shotgun) B.Roethlisberger pass deep middle to H.Miller to DET 44 for 21 yards (D.Carey, L.Delmas).",10,4,53,PIT 35,0,PIT,
+23,3823,1,10:51,"(10:51) (No Huddle, Shotgun) B.Roethlisberger pass short left to H.Miller to PIT 29 for 9 yards (D.Carey).",10,4,26,PIT 20,0,PIT,
+23,4172,2,04:50,"(4:50) #76 Adams reports as eligible receiver. B.Roethlisberger pass short right to W.Johnson for 1 yard, TOUCHDOWN.",1,4,97,DET 1,1,PIT,TD
+23,3774,2,12:09,"(12:09) #76 Adams reports as eligible receiver. L.Bell up the middle to PIT 4 for 1 yard (S.Tulloch, W.Young).",10,4,1,PIT 3,0,PIT,
+23,3935,3,08:14,(8:14) (Shotgun) B.Roethlisberger scrambles right end to DET 36 for 10 yards (D.Carey).,12,4,61,DET 46,0,PIT,
+23,4071,0,05:39,Timeout #1 by DET at 05:39.,0,4,96,,0,,TIMEOUT
+23,3753,1,12:49,(12:49) L.Bell up the middle to PIT 3 for no gain (D.Carey; S.Tulloch).,10,4,0,PIT 3,0,PIT,
+23,4043,2,06:16,"(6:16) (No Huddle, Shotgun) B.Roethlisberger pass short left to J.Cotchery to DET 1 for 19 yards (L.Delmas).",10,4,96,DET 20,0,PIT,
+23,3913,2,08:21,(8:21) (No Huddle) B.Roethlisberger pass incomplete deep left to A.Brown (R.Mathis).,12,4,51,DET 46,0,PIT,
+23,3956,0,07:30,Timeout #1 by PIT at 07:30.,0,4,61,,0,,TIMEOUT
+23,4196,0,04:46,"S.Suisham extra point is GOOD, Center-G.Warren, Holder-M.McBriar.",0,4,97,DET 2,1,PIT,XP
+23,3997,1,06:53,"(6:53) (No Huddle, Shotgun) B.Roethlisberger pass short right to J.Dwyer to DET 20 for 13 yards (D.Levy).",10,4,77,DET 33,0,PIT,
+23,3973,4,07:30,(7:30) B.Roethlisberger pass short right to L.Bell to DET 33 for 3 yards (R.McIntosh).,2,4,64,DET 36,0,PIT,
+23,3847,2,10:21,(10:21) (No Huddle) L.Bell up the middle to PIT 35 for 6 yards (C.Mosley; S.Tulloch).,1,4,32,PIT 29,0,PIT,
+23,4021,1,06:19,"(6:19) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short middle to A.Brown. Coverage by #23 Houston.",10,4,77,DET 20,0,PIT,
+23,3892,1,09:01,"(9:01) (No Huddle, Shotgun) L.Bell left guard to DET 46 for -2 yards (D.Levy).",10,4,51,DET 44,0,PIT,
+23,3799,3,11:25,(11:25) (Shotgun) B.Roethlisberger pass deep right to A.Brown to PIT 20 for 16 yards (D.Gomes).,9,4,17,PIT 4,0,PIT,
+23,4114,2,05:35,"(5:35) B.Roethlisberger pass incomplete short left to J.Cotchery. PENALTY on DET-R.Mathis, Defensive Pass Interference, 0 yards, enforced at DET 1 - No Play.",1,4,96,DET 1,0,PIT,PENALTY
+23,4147,1,05:30,(5:30) #76 Adams reports as eligible receiver. J.Dwyer up the middle to DET 1 for no gain (N.Fairley; A.Fluellen).,1,4,96,DET 1,0,PIT,
+1,204,1,11:42,(11:42) R.Bush left guard to PIT 37 for 1 yard (J.Worilds).,10,1,43,PIT 38,0,DET,
+1,156,2,13:05,(13:05) M.Stafford pass short right to J.Bell to DET 48 for 1 yard (J.Worilds).,8,1,28,DET 47,0,DET,
+1,51,1,15:00,(15:00) (Shotgun) M.Stafford pass short middle to B.Pettigrew to DET 25 for 5 yards (L.Timmons). DET-B.Pettigrew was injured during the play.,10,1,5,DET 20,0,DET,
+1,36,0,15:00,"S.Suisham kicks 65 yards from PIT 35 to end zone, Touchback.",0,1,0,PIT 35,0,PIT,KICKOFF
+1,99,3,13:53,(13:53) (Shotgun) M.Stafford pass short right to R.Bush to DET 45 for 17 yards (R.Clark).,2,1,25,DET 28,0,DET,
+1,180,3,12:19,(12:19) (Shotgun) M.Stafford pass short left to J.Fauria to PIT 38 for 14 yards (W.Allen).,7,1,42,DET 48,0,DET,
+1,246,3,10:25,(10:25) (Shotgun) M.Stafford pass incomplete short left to R.Bush.,3,1,49,PIT 31,0,DET,
+1,275,4,10:22,(10:22) (Shotgun) M.Stafford pass incomplete short middle to C.Johnson. Coverage by #24 Taylor.,3,1,49,PIT 31,0,DET,
+1,135,1,13:37,(13:37) (No Huddle) R.Bush up the middle to DET 47 for 2 yards (J.Worilds).,10,1,27,DET 45,0,DET,
+1,225,2,11:10,(11:10) R.Bush left guard to PIT 31 for 6 yards (R.Clark).,9,1,49,PIT 37,0,DET,
+1,78,2,14:36,"(14:36) R.Bush right tackle to DET 28 for 3 yards (J.Worilds, L.Timmons).",5,1,8,DET 25,0,DET,
+3,542,1,06:20,"(6:20) (Shotgun) J.Bell up the middle to DET 22 for 2 yards (L.Timmons, E.Hood).",10,1,2,DET 20,0,DET,
+3,615,4,05:28,"(5:28) (Punt formation) S.Martin punts 50 yards to PIT 28, Center-D.Muhlbach. A.Brown to PIT 37 for 9 yards (J.Wendling).",8,1,2,DET 22,0,DET,PUNT
+3,563,2,05:40,(5:40) (Shotgun) M.Stafford pass incomplete deep middle to B.Pettigrew. Coverage by #20 Allen.,8,1,2,DET 22,0,DET,
+3,589,3,05:34,(5:34) (Shotgun) M.Stafford pass incomplete short left to K.Ogletree. Coverage by #22 Gay.,8,1,2,DET 22,0,DET,
+3,523,0,06:20,"S.Suisham kicks 65 yards from PIT 35 to end zone, Touchback.",0,1,0,PIT 35,0,PIT,KICKOFF
+2,459,3,07:05,"(7:05) (Shotgun) B.Roethlisberger pass short right to A.Brown to DET 34 for 11 yards (L.Delmas, G.Quin). Official measurement.",11,1,34,DET 45,0,PIT,
+2,343,2,09:26,"(9:26) (No Huddle, Shotgun) B.Roethlisberger pass short right to H.Miller to PIT 47 for 5 yards (C.Houston).",13,1,15,PIT 42,0,PIT,
+2,322,1,09:57,"(9:57) (No Huddle) L.Bell up the middle to PIT 42 for -3 yards (D.Carey, D.Levy).",10,1,10,PIT 45,0,PIT,
+2,415,2,07:52,(7:52) (No Huddle) L.Bell up the middle to DET 40 for 2 yards (S.Tulloch).,8,1,28,DET 42,0,PIT,
+2,391,1,08:19,(8:19) (Shotgun) B.Roethlisberger pass short left to E.Sanders to DET 42 for 2 yards (L.Delmas).,10,1,26,DET 44,0,PIT,
+2,487,1,06:28,"(6:28) (Shotgun) B.Roethlisberger pass short right to A.Brown for 34 yards, TOUCHDOWN.",10,1,68,DET 34,1,PIT,TD
+2,367,3,08:46,"(8:46) (No Huddle, Shotgun) B.Roethlisberger pass short middle to H.Miller to DET 44 for 9 yards (S.Tulloch).",8,1,24,PIT 47,0,PIT,
+2,436,3,07:25,"(7:25) (No Huddle, Shotgun) PENALTY on PIT-K.Beachum, False Start, 5 yards, enforced at DET 40 - No Play.",6,1,23,DET 40,0,PIT,PENALTY
+2,297,1,10:18,(10:18) L.Bell right guard to PIT 45 for 13 yards (G.Quin).,10,1,13,PIT 32,0,PIT,
+2,507,0,06:20,"S.Suisham extra point is GOOD, Center-G.Warren, Holder-M.McBriar.",0,1,68,DET 2,1,PIT,XP
+5,786,2,03:17,(3:17) (Shotgun) M.Stafford pass short middle to K.Durham to DET 41 for 7 yards (W.Allen) [J.Worilds].,9,1,8,DET 34,0,DET,
+5,743,0,03:58,S.Suisham kicks 68 yards from PIT 35 to DET -3. M.Spurlock to DET 33 for 36 yards (S.Suisham).,0,1,0,PIT 35,0,PIT,KICKOFF
+5,960,3,14:15,(14:15) (Shotgun) M.Stafford pass incomplete deep middle to B.Pettigrew. Coverage by #94 Timmons.,8,2,50,PIT 17,0,DET,
+5,852,1,01:19,(1:19) J.Bell left guard to PIT 35 for 1 yard (A.Woods; J.Jones).,10,1,32,PIT 36,0,DET,
+5,986,4,14:10,"(14:10) (Field Goal formation) D.Akers 35 yard field goal is GOOD, Center-D.Muhlbach, Holder-S.Martin.",8,2,50,PIT 17,1,DET,FG
+5,873,2,00:37,"(:37) (Shotgun) M.Stafford pass short right to C.Johnson to PIT 19 for 16 yards (W.Allen, W.Gay).",9,1,48,PIT 35,0,DET,
+5,765,1,03:52,(3:52) R.Bush left tackle to DET 34 for 1 yard (C.Heyward).,10,1,1,DET 33,0,DET,
+5,939,2,14:55,"(14:55) (Shotgun) J.Bell up the middle to PIT 17 for 2 yards (C.Heyward, R.Clark).",10,2,50,PIT 19,0,DET,
+5,831,1,01:59,(1:59) J.Bell right tackle to PIT 36 for 18 yards (S.McLendon).,10,1,31,DET 46,0,DET,
+5,810,3,02:34,(2:34) (Shotgun) J.Bell right guard to DET 46 for 5 yards (R.Clark).,2,1,13,DET 41,0,DET,
+5,913,1,15:00,(15:00) (Shotgun) M.Stafford pass incomplete deep left to C.Johnson. Coverage by #24 Taylor.,10,2,48,PIT 19,0,DET,
+4,640,1,05:17,(5:17) L.Bell left guard to PIT 40 for 3 yards (G.Quin).,10,1,3,PIT 37,0,PIT,
+4,707,1,04:08,"(4:08) (No Huddle, Shotgun) B.Roethlisberger pass short middle to A.Brown for 47 yards, TOUCHDOWN.",10,1,63,DET 47,1,PIT,TD
+4,683,3,04:45,"(4:45) (No Huddle, Shotgun) B.Roethlisberger pass short left to A.Brown to DET 47 for 13 yards (R.Mathis).",7,1,16,PIT 40,0,PIT,
+4,661,2,04:49,"(4:49) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short right to E.Sanders.",7,1,3,PIT 40,0,PIT,
+4,727,0,03:58,"S.Suisham extra point is GOOD, Center-G.Warren, Holder-M.McBriar.",0,1,63,DET 2,1,PIT,XP
+7,1120,1,12:41,"(12:41) (Shotgun) R.Bush left guard to PIT 39 for 6 yards (W.Allen, R.Clark). FUMBLES (W.Allen), RECOVERED by PIT-L.Timmons at PIT 39. L.Timmons pushed ob at DET 32 for 29 yards (M.Stafford). Penalty on DET-R.Sims, Offensive Holding, declined.",10,2,6,PIT 45,0,DET,FUMBLE
+6,1024,1,14:05,(14:05) A.Brown left guard to PIT 12 for -8 yards (D.Levy).,10,2,-8,PIT 20,0,PIT,
+6,1005,0,14:05,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,2,0,DET 35,0,DET,KICKOFF
+6,1067,3,13:26,(13:26) (Shotgun) B.Roethlisberger pass short right to A.Brown to PIT 17 for 5 yards (C.Houston).,18,2,-3,PIT 12,0,PIT,
+6,1045,2,13:31,"(13:31) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short left to A.Brown. Coverage by #31 Mathis.",18,2,-8,PIT 12,0,PIT,
+6,1095,4,12:50,"(12:50) (Punt formation) M.McBriar punts 41 yards to DET 42, Center-G.Warren. M.Spurlock ran ob at PIT 45 for 13 yards.",13,2,-3,PIT 17,0,PIT,PUNT
+9,1379,1,10:27,"(10:27) M.Stafford pass deep middle to C.Johnson for 79 yards, TOUCHDOWN.",10,2,79,DET 21,1,DET,TD
+9,1357,0,10:31,S.Suisham kicks 62 yards from PIT 35 to DET 3. M.Spurlock to DET 21 for 18 yards (C.Brown).,0,2,0,PIT 35,0,PIT,KICKOFF
+9,1399,0,10:13,"D.Akers extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin.",0,2,79,PIT 2,1,DET,XP
+8,1223,2,11:25,(11:25) (Shotgun) B.Roethlisberger pass short right to M.Wheaton to DET 11 for 11 yards (C.Houston).,10,2,21,DET 22,0,PIT,
+8,1312,3,10:40,(10:40) (Shotgun) B.Roethlisberger pass incomplete short right to M.Wheaton.,6,2,25,DET 7,0,PIT,
+8,1168,1,12:31,"(12:31) (Shotgun) B.Roethlisberger pass short right to H.Miller to DET 22 for 10 yards (D.Carey, D.Levy).",10,2,25,DET 32,0,PIT,
+8,1273,2,10:44,"(10:44) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short middle to L.Bell.",6,2,25,DET 7,0,PIT,
+8,1201,1,11:57,(11:57) (No Huddle) F.Jones up the middle to DET 22 for no gain (L.Delmas).,10,2,25,DET 22,0,PIT,
+8,1247,1,10:51,"(10:51) (No Huddle, Shotgun) L.Bell right tackle pushed ob at DET 7 for 4 yards (D.Levy).",10,2,25,DET 11,0,PIT,
+8,1334,4,10:34,"(10:34) (Field Goal formation) S.Suisham 25 yard field goal is GOOD, Center-G.Warren, Holder-M.McBriar.",6,2,25,DET 7,1,PIT,FG
+8,1295,0,10:40,Timeout #1 by PIT at 10:40.,0,2,25,,0,,TIMEOUT
+11,1718,3,05:27,(5:27) (Shotgun) M.Stafford pass deep left to B.Pettigrew to PIT 44 for 31 yards (W.Allen).,11,2,30,DET 25,0,DET,
+11,1628,0,07:19,S.Suisham kicks 55 yards from PIT 35 to DET 10. M.Spurlock to DET 26 for 16 yards (D.Van Dyke).,0,2,0,PIT 35,0,PIT,KICKOFF
+11,1786,0,03:52,"D.Akers extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin.",0,2,74,PIT 2,1,DET,XP
+11,1695,3,05:54,"(5:54) (Shotgun) PENALTY on DET-C.Johnson, False Start, 5 yards, enforced at DET 30 - No Play.",6,2,-1,DET 30,0,DET,PENALTY
+11,1650,1,07:14,(7:14) M.Stafford left guard to DET 29 for 3 yards (J.Worilds).,10,2,3,DET 26,0,DET,
+11,1766,1,03:58,"(3:58) (Shotgun) M.Stafford pass deep left to C.Johnson for 19 yards, TOUCHDOWN.",10,2,74,PIT 19,1,DET,TD
+11,1671,2,06:36,(6:36) (Shotgun) M.Stafford pass short left to B.Pettigrew to DET 30 for 1 yard (L.Timmons).,7,2,4,DET 29,0,DET,
+11,1742,1,04:43,(4:43) M.Stafford pass deep left to K.Durham to PIT 19 for 25 yards (T.Polamalu).,10,2,55,PIT 44,0,DET,
+10,1609,4,07:24,"(7:24) (Field Goal formation) S.Suisham 34 yard field goal is GOOD, Center-G.Warren, Holder-M.McBriar.",14,2,64,DET 16,1,PIT,FG
+10,1554,3,08:11,(8:11) (Shotgun) B.Roethlisberger sacked at DET 21 for -9 yards (N.Fairley).,10,2,59,DET 12,0,PIT,
+10,1430,1,10:13,(10:13) (Shotgun) B.Roethlisberger pass short right to M.Wheaton ran ob at PIT 41 for 21 yards.,10,2,21,PIT 20,0,PIT,
+10,1454,1,09:52,"(9:52) (No Huddle) L.Bell up the middle to PIT 45 for 4 yards (W.Young, D.Slay).",10,2,25,PIT 41,0,PIT,
+10,1521,2,08:16,"(8:16) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short right to H.Miller (G.Quin).",10,2,68,DET 12,0,PIT,
+10,1475,2,09:07,"(9:07) (No Huddle, Shotgun) B.Roethlisberger pass short middle to L.Bell to DET 12 for 43 yards (D.Levy).",6,2,68,PIT 45,0,PIT,
+10,1573,4,07:42,"(7:42) (Field Goal formation) PENALTY on DET-N.Fairley, Encroachment, 5 yards, enforced at DET 21 - No Play.",19,2,64,DET 21,0,PIT,PENALTY
+10,1499,1,08:21,"(8:21) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short middle to J.Cotchery. Coverage by #55 Tulloch.",10,2,68,DET 12,0,PIT,
+10,1415,0,10:13,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,2,0,DET 35,0,DET,KICKOFF
+13,2050,0,01:42,"D.Akers extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin.",0,2,62,PIT 2,1,DET,XP
+13,1976,1,02:00,(2:00) (Shotgun) M.Stafford pass short right to J.Bell to PIT 2 for 37 yards (R.Clark).,10,2,60,PIT 39,0,DET,
+13,2026,2,01:46,"(1:46) (Shotgun) J.Bell up the middle for 2 yards, TOUCHDOWN.",2,2,62,PIT 2,1,DET,TD
+13,2000,1,01:50,(1:50) M.Stafford pass incomplete short right to C.Johnson. Coverage by #24 Taylor.,2,2,60,PIT 2,0,DET,
+13,1935,2,02:27,(2:27) (Shotgun) M.Stafford pass deep left to C.Johnson to PIT 39 for 23 yards (I.Taylor).,10,2,23,DET 38,0,DET,
+13,1913,1,02:31,(2:31) (Shotgun) M.Stafford pass incomplete short right to C.Johnson (I.Taylor).,10,2,0,DET 38,0,DET,
+12,1842,2,03:22,"(3:22) (No Huddle, Shotgun) B.Roethlisberger pass incomplete deep right to A.Brown (C.Houston).",11,2,-1,PIT 19,0,PIT,
+12,1888,4,02:40,"(2:40) (Punt formation) M.McBriar punts 39 yards to DET 36, Center-G.Warren. M.Spurlock to DET 38 for 2 yards (J.Worilds).",5,2,5,PIT 25,0,PIT,PUNT
+12,1821,1,03:52,(3:52) (Shotgun) L.Bell up the middle to PIT 19 for -1 yards (D.Carey).,10,2,-1,PIT 20,0,PIT,
+12,1802,0,03:52,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,2,0,DET 35,0,DET,KICKOFF
+12,1864,3,03:17,(3:17) (Shotgun) B.Roethlisberger pass short right to M.Wheaton to PIT 25 for 6 yards (S.Tulloch).,11,2,5,PIT 19,0,PIT,
+15,2587,3,00:12,(:12) (Shotgun) M.Stafford pass incomplete short middle to J.Fauria (C.Heyward).,1,2,50,PIT 1,0,DET,
+15,2526,1,00:17,(:17) M.Stafford pass incomplete short middle to J.Ross (W.Gay).,1,2,50,PIT 1,0,DET,
+15,2458,1,00:27,"(:27) (Shotgun) M.Stafford pass deep middle to C.Johnson to PIT 4 for 22 yards (R.Clark). Penalty on PIT-I.Taylor, Defensive Holding, declined.",10,2,47,PIT 26,0,DET,
+15,2337,2,00:58,(:58) (Shotgun) M.Stafford pass incomplete deep left to K.Durham (C.Allen).,15,2,-5,DET 44,0,DET,
+15,2292,1,01:02,(1:02) (Shotgun) M.Stafford pass incomplete short left to K.Durham (J.Jones).,10,2,0,DET 49,0,DET,
+15,2314,2,00:59,"(:59) (Shotgun) PENALTY on DET-R.Reiff, False Start, 5 yards, enforced at DET 49 - No Play.",10,2,-5,DET 49,0,DET,PENALTY
+15,2548,0,00:14,Timeout #2 by PIT at 00:14.,0,2,50,,0,,TIMEOUT
+15,2565,2,00:14,(:14) (Shotgun) M.Stafford pass incomplete short right to R.Bush (I.Taylor).,1,2,50,PIT 1,0,DET,
+15,2609,4,00:07,"(:07) (Field Goal formation) D.Akers 19 yard field goal is GOOD, Center-D.Muhlbach, Holder-S.Martin.",1,2,50,PIT 1,1,DET,FG
+15,2359,0,00:52,Timeout #3 by DET at 00:52.,0,2,-5,,0,,TIMEOUT
+15,2400,1,00:33,(:33) M.Stafford spiked the ball to stop the clock.,10,2,15,PIT 36,0,DET,
+15,2493,1,00:21,"(:21) (Shotgun) M.Stafford pass incomplete short right to C.Johnson. PENALTY on PIT-I.Taylor, Defensive Pass Interference, 3 yards, enforced at PIT 4 - No Play.",4,2,50,PIT 4,0,DET,PENALTY
+15,2376,3,00:52,(:52) (Shotgun) M.Stafford pass deep right to C.Johnson to PIT 36 for 20 yards (W.Allen).,15,2,20,DET 44,0,DET,
+15,2422,2,00:33,(:33) M.Stafford pass short middle to J.Bell pushed ob at PIT 26 for 10 yards (W.Gay) [J.Worilds].,10,2,25,PIT 36,0,DET,
+14,2239,0,01:11,Timeout #2 by DET at 01:11.,0,2,-10,,0,,TIMEOUT
+14,2215,3,01:17,(1:17) (Shotgun) B.Roethlisberger pass short middle to H.Miller to PIT 10 for 6 yards (S.Tulloch).,26,2,-10,PIT 4,0,PIT,
+14,2085,1,01:42,"(1:42) (Shotgun) J.Dwyer left guard to PIT 24 for 4 yards (L.Delmas). PENALTY on PIT-G.Whimper, Offensive Holding, 10 yards, enforced at PIT 20 - No Play.",10,2,-10,PIT 20,0,PIT,PENALTY
+14,2193,2,01:20,(1:20) (Shotgun) B.Roethlisberger pass incomplete short middle to D.Paulson.,26,2,-16,PIT 4,0,PIT,
+14,2141,0,01:29,Timeout #1 by DET at 01:29.,0,2,-11,,0,,TIMEOUT
+14,2256,4,01:11,"(1:11) (Punt formation) M.McBriar punts 31 yards to PIT 41, Center-G.Warren. M.Spurlock ran ob at PIT 30 for 11 yards. PENALTY on DET-D.Gomes, Offensive Holding, 10 yards, enforced at PIT 41.",20,2,-10,PIT 10,0,PIT,PUNT
+14,2158,2,01:29,"(1:29) (Shotgun) B.Roethlisberger pass short left to L.Bell to PIT 11 for 2 yards (R.Mathis). PENALTY on PIT-G.Whimper, Offensive Holding, 5 yards, enforced at PIT 9 - No Play.",21,2,-16,PIT 9,0,PIT,PENALTY
+14,2066,0,01:42,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,2,0,DET 35,0,DET,KICKOFF
+14,2117,1,01:37,(1:37) (Shotgun) B.Roethlisberger pass short middle to J.Dwyer to PIT 9 for -1 yards (N.Fairley).,20,2,-11,PIT 10,0,PIT,
+17,2684,0,15:00,S.Martin kicks 68 yards from DET 35 to PIT -3. F.Jones pushed ob at PIT 18 for 21 yards (M.Spurlock).,0,3,0,DET 35,0,DET,KICKOFF
+17,2727,2,14:11,"(14:11) (No Huddle, Shotgun) L.Bell right guard to PIT 20 for -1 yards (D.Carey; W.Young).",7,3,2,PIT 21,0,PIT,
+17,2706,1,14:56,(14:56) (Shotgun) L.Bell left tackle to PIT 21 for 3 yards (D.Levy).,10,3,3,PIT 18,0,PIT,
+17,2809,4,13:35,"(13:35) (Punt formation) M.McBriar punts 70 yards to DET 10, Center-G.Warren. M.Spurlock to DET 12 for 2 yards (A.Blake).",8,3,2,PIT 20,0,PIT,PUNT
+17,2748,3,13:41,"(13:41) (No Huddle, Shotgun) B.Roethlisberger pass deep left to J.Cotchery to PIT 36 for 16 yards (L.Delmas). Detroit challenged the pass completion ruling, and the play was REVERSED. (No Huddle, Shotgun) B.Roethlisberger pass incomplete deep left to J.Cotchery (L.Delmas).",8,3,2,PIT 20,0,PIT,
+16,2628,0,00:04,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,2,0,DET 35,0,DET,KICKOFF
+16,2647,1,00:04,(:04) B.Roethlisberger kneels to PIT 19 for -1 yards.,10,2,-1,PIT 20,0,PIT,
+19,2972,1,12:18,(12:18) (Shotgun) B.Roethlisberger pass incomplete short right to A.Brown (D.Levy).,10,3,15,50,0,PIT,
+19,3020,3,12:12,(12:12) (Shotgun) B.Roethlisberger pass incomplete short left to H.Miller (D.Levy).,10,3,15,50,0,PIT,
+19,2994,2,12:15,"(12:15) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short left to M.Wheaton. Coverage by #31 Mathis.",10,3,15,50,0,PIT,
+19,3042,4,12:08,"(12:08) (Punt formation) M.McBriar punts 38 yards to DET 12, Center-G.Warren, fair catch by M.Spurlock.",10,3,15,50,0,PIT,PUNT
+19,2939,1,12:23,"(12:23) (Shotgun) B.Roethlisberger pass incomplete short middle to A.Brown. PENALTY on DET-C.Mosley, Roughing the Passer, 15 yards, enforced at PIT 35 - No Play.",10,3,15,PIT 35,0,PIT,PENALTY
+18,2903,4,12:34,"(12:34) (Punt formation) S.Martin punts 59 yards to PIT 27, Center-D.Muhlbach. A.Brown to PIT 35 for 8 yards (R.McIntosh).",8,3,2,DET 14,0,DET,PUNT
+18,2881,3,12:38,(12:38) (Shotgun) M.Stafford pass incomplete short middle to J.Bell (C.Heyward) [J.Worilds].,8,3,2,DET 14,0,DET,
+18,2834,1,13:22,(13:22) R.Bush left guard to DET 14 for 2 yards (W.Allen; W.Gay).,10,3,2,DET 12,0,DET,
+18,2855,2,12:42,(12:42) (Shotgun) M.Stafford pass incomplete short left to R.Bush. Coverage by #94 Timmons.,8,3,2,DET 14,0,DET,

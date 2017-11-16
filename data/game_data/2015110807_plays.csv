@@ -1,185 +1,185 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1654,2,06:21,,4,2,11,NYG 39,0,NYG,
-9,1699,1,05:11,,10,2,26,TB 43,0,NYG,
-9,1802,4,03:05,,2,2,32,TB 35,0,NYG,
-9,1785,0,03:05,,0,2,32,,0,,TIMEOUT
-9,1761,3,03:51,,9,2,32,TB 42,0,NYG,
-9,1675,1,05:44,,10,2,24,NYG 44,0,NYG,
-9,1633,1,06:58,,10,2,6,NYG 33,0,NYG,
-9,1720,2,04:38,,8,2,25,TB 41,0,NYG,
-9,1744,0,03:51,,0,2,25,,0,,TIMEOUT
-10,1912,1,02:00,,10,2,47,NYG 30,0,TB,
-10,2050,4,00:10,,3,2,62,NYG 3,1,TB,FG
-10,1933,1,01:36,,10,2,56,NYG 18,0,TB,PENALTY
-10,1871,1,02:24,,5,2,35,NYG 35,0,TB,
-10,1895,0,02:00,,0,2,35,,0,,
-10,2012,3,00:59,,5,2,62,NYG 5,0,TB,
-10,1966,1,01:31,,9,2,60,NYG 9,0,TB,
-10,2033,0,00:10,,0,2,62,,0,,TIMEOUT
-10,1824,1,03:02,,10,2,35,TB 35,0,TB,
-10,1990,2,01:04,,5,2,60,NYG 5,0,TB,
-10,1848,1,02:40,,10,2,30,NYG 40,0,TB,PENALTY
-20,3681,3,06:34,,7,4,31,TB 23,0,TB,
-20,3716,1,06:23,,10,4,31,TB 41,0,TB,
-20,3761,1,05:25,,10,4,31,NYG 49,0,TB,
-20,3660,2,07:11,,10,4,3,TB 20,0,TB,
-20,3828,3,05:12,,10,4,31,NYG 49,0,TB,
-20,3740,2,06:00,,3,4,31,TB 48,0,TB,
-20,3806,2,05:19,,10,4,31,NYG 49,0,TB,
-20,3638,1,07:18,,10,4,21,TB 20,0,TB,
-20,3623,0,07:18,,0,4,0,NYG 35,0,NYG,KICKOFF
-20,3850,4,05:07,,10,4,31,NYG 49,0,TB,PUNT
-20,3788,0,05:19,,0,4,31,,0,,TIMEOUT
-6,965,0,00:53,,0,1,0,NYG 35,0,NYG,KICKOFF
-6,984,1,00:53,,10,1,-1,TB 20,0,TB,
-6,1067,1,15:00,,10,2,6,TB 24,0,TB,FUMBLE
-6,1005,2,00:11,,11,1,4,TB 19,0,TB,PENALTY
-6,1051,0,,,0,1,4,,0,,
-18,3351,1,10:57,,10,4,77,NYG 28,0,TB,
-18,3430,3,09:35,,10,4,87,NYG 10,1,TB,TD
-18,3396,2,09:40,,10,4,87,NYG 10,0,TB,
-18,3330,1,11:36,,10,4,59,TB 13,0,TB,
-18,3375,1,10:17,,10,4,77,NYG 10,0,TB,
-18,3447,0,09:25,,0,4,87,NYG 2,0,TB,2PPF
-1,55,1,15:00,,10,1,0,NYG 20,0,NYG,INT
-1,36,0,15:00,,0,1,0,TB 35,0,TB,KICKOFF
-5,929,3,01:00,,5,1,80,TB 8,1,NYG,TD
-5,880,1,02:17,,10,1,70,TB 13,0,NYG,
-5,831,1,03:38,,5,1,54,TB 29,0,NYG,
-5,605,2,07:36,,4,1,12,NYG 26,0,NYG,
-5,852,2,02:58,,2,1,67,TB 26,0,NYG,
-5,808,1,03:56,,10,1,51,TB 34,0,NYG,PENALTY
-5,676,3,06:03,,5,1,22,NYG 37,0,NYG,PENALTY
-5,655,2,06:39,,4,1,17,NYG 38,0,NYG,
-5,565,0,08:04,,0,1,0,TB 35,0,TB,KICKOFF
-5,626,1,07:02,,10,1,18,NYG 32,0,NYG,
-5,760,2,05:01,,9,1,38,TB 49,0,NYG,
-5,949,0,00:53,,0,1,80,TB 15,1,NYG,XP
-5,908,2,01:42,,7,1,72,TB 10,0,NYG,
-5,784,3,04:30,,2,1,80,TB 42,0,NYG,
-5,732,1,05:28,,10,1,31,50,0,NYG,
-5,699,1,05:32,,10,1,30,NYG 42,0,NYG,PENALTY
-5,584,1,08:04,,10,1,6,NYG 20,0,NYG,
-13,2302,2,12:28,,10,3,7,TB 24,0,NYG,
-13,2323,3,11:58,,3,3,7,TB 17,0,NYG,
-13,2345,4,11:53,,3,3,7,TB 17,1,NYG,FG
-13,2280,1,12:32,,10,3,7,TB 24,0,NYG,
-21,4025,1,02:26,,10,4,47,TB 33,0,NYG,
-21,3934,1,03:29,,10,4,31,NYG 33,0,NYG,PENALTY
-21,3987,0,03:21,,0,4,40,,0,,TIMEOUT
-21,3888,2,04:20,,6,4,4,NYG 24,0,NYG,
-21,4101,3,01:11,,2,4,54,TB 25,0,NYG,
-21,4084,0,01:11,,0,4,55,,0,,TIMEOUT
-21,4139,4,00:28,,3,4,54,TB 26,1,NYG,FG
-21,3867,1,04:57,,10,4,4,NYG 20,0,NYG,
-21,4046,0,02:00,,0,4,47,,0,,
-21,4004,2,03:10,,1,4,47,TB 40,0,NYG,
-21,4063,2,02:00,,10,4,55,TB 33,0,NYG,
-21,3910,3,04:14,,6,4,13,NYG 24,0,NYG,
-21,3966,1,03:21,,10,4,40,TB 49,0,NYG,
-21,4122,0,00:28,,0,4,54,,0,,TIMEOUT
-11,2069,0,00:06,,0,2,0,TB 35,0,TB,KICKOFF
-11,2088,1,00:06,,10,2,-1,NYG 20,0,NYG,
-11,2109,0,,,0,2,-1,,0,,
-14,2516,2,09:36,,10,3,24,TB 38,0,TB,
-14,2364,0,11:49,,0,3,0,NYG 35,0,NYG,KICKOFF
-14,2470,3,10:11,,5,3,41,TB 22,0,TB,
-14,2407,2,11:08,,5,3,49,TB 22,0,TB,PENALTY
-14,2606,3,07:27,,2,3,49,NYG 34,0,TB,
-14,2582,2,08:07,,6,3,49,NYG 38,0,TB,
-14,2446,2,10:40,,15,3,49,TB 12,0,TB,
-14,2494,1,09:44,,10,3,45,TB 38,0,TB,
-14,2628,4,07:20,,2,3,49,NYG 34,1,TB,FG
-14,2537,3,08:55,,7,3,41,TB 41,0,TB,
-14,2386,1,11:43,,10,3,-4,TB 17,0,TB,
-14,2561,1,08:43,,10,3,45,NYG 42,0,TB,
-8,1357,1,11:11,,10,2,9,TB 10,0,TB,
-8,1492,1,08:18,,10,2,46,TB 40,0,TB,PENALTY
-8,1468,2,08:38,,6,2,30,TB 24,0,TB,
-8,1385,2,10:42,,1,2,9,TB 19,0,TB,
-8,1323,0,11:20,,0,2,9,NYG 35,0,NYG,KICKOFF
-8,1570,2,07:29,,10,2,65,NYG 33,0,TB,
-8,1524,1,08:05,,10,2,57,NYG 44,0,TB,
-8,1444,1,09:17,,10,2,14,TB 20,0,TB,
-8,1591,3,07:10,,2,2,65,NYG 25,0,TB,
-8,1423,3,09:56,,1,2,46,TB 19,0,TB,
-8,1406,0,09:56,,0,2,9,,0,,TIMEOUT
-8,1613,4,07:03,,2,2,65,NYG 25,0,TB,FGM
-8,1548,1,07:34,,10,2,57,NYG 33,0,TB,
-19,3537,1,08:30,,10,4,42,TB 41,0,NYG,
-19,3561,2,08:05,,6,4,42,TB 37,0,NYG,
-19,3582,3,07:30,,3,4,42,TB 34,0,NYG,
-19,3483,1,09:18,,10,4,39,NYG 24,0,NYG,FUMBLE
-19,3461,0,09:25,,0,4,0,TB 35,0,TB,KICKOFF
-19,3604,4,07:24,,3,4,42,TB 34,1,NYG,FG
-19,3516,1,09:03,,10,4,42,NYG 48,0,NYG,
-22,4213,2,00:13,,10,4,1,TB 6,1,TB,TD
-22,4191,1,00:18,,10,4,0,TB 6,0,TB,
-22,4158,0,00:23,,0,4,0,NYG 35,0,NYG,KICKOFF
-12,2147,1,14:54,,10,3,5,TB 22,0,TB,
-12,2192,3,13:40,,3,3,16,TB 29,0,TB,
-12,2237,2,12:44,,3,3,22,TB 45,0,TB,FUMBLE
-12,2125,0,15:00,,0,3,0,NYG 35,0,NYG,KICKOFF
-12,2168,2,14:20,,5,3,2,TB 27,0,TB,
-12,2216,1,13:14,,10,3,23,TB 38,0,TB,
-16,3101,4,00:31,,10,3,10,NYG 47,0,TB,PUNT
-16,3079,3,00:38,,10,3,10,NYG 47,0,TB,
-16,2966,1,02:02,,10,3,5,TB 43,0,TB,
-16,3050,2,00:45,,10,3,10,NYG 47,0,TB,
-16,3033,0,00:45,,0,3,10,,0,,TIMEOUT
-16,3011,1,00:52,,10,3,10,NYG 47,0,TB,
-16,2990,2,01:32,,5,3,10,TB 48,0,TB,
-7,1266,1,12:00,,2,2,28,TB 2,0,NYG,
-7,1221,2,12:59,,8,2,28,TB 13,0,NYG,
-7,1123,2,14:48,,10,2,3,TB 28,0,NYG,
-7,1168,1,13:42,,10,2,28,TB 15,0,NYG,PENALTY
-7,1242,3,12:18,,3,2,28,TB 8,0,NYG,
-7,1144,3,14:03,,7,2,13,TB 25,0,NYG,
-7,1307,0,11:20,,0,2,28,TB 15,1,NYG,XP
-7,1101,1,14:54,,10,2,0,TB 28,0,NYG,
-7,1200,1,13:25,,17,2,28,TB 22,0,NYG,
-7,1287,2,11:25,,4,2,28,TB 4,1,NYG,TD
-3,406,4,09:57,,9,1,63,TB 17,1,NYG,FG
-3,168,0,13:26,,0,1,0,TB 35,0,TB,KICKOFF
-3,296,2,11:54,,3,1,52,TB 36,0,NYG,
-3,384,3,10:02,,9,1,63,TB 17,0,NYG,
-3,211,2,12:51,,4,1,6,NYG 26,0,NYG,
-3,317,1,11:16,,10,1,62,TB 28,0,NYG,
-3,362,2,10:07,,9,1,63,TB 17,0,NYG,
-3,233,3,12:44,,4,1,37,NYG 26,0,NYG,PENALTY
-3,341,1,10:41,,10,1,63,TB 18,0,NYG,
-3,187,1,13:26,,10,1,6,NYG 20,0,NYG,
-3,268,1,12:23,,10,1,44,TB 43,0,NYG,
-17,3124,1,00:24,,10,3,4,NYG 11,0,NYG,
-17,3161,2,15:00,,6,4,9,NYG 15,0,NYG,PENALTY
-17,3205,1,14:12,,10,4,11,NYG 21,0,NYG,
-17,3184,2,15:00,,1,4,10,NYG 20,0,NYG,
-17,3274,4,12:02,,2,4,13,NYG 29,0,NYG,PENALTY
-17,3250,3,12:51,,5,4,13,NYG 26,0,NYG,
-17,3301,4,11:51,,7,4,13,NYG 24,0,NYG,FUMBLE
-17,3145,0,,,0,3,4,,0,,
-17,3226,2,13:31,,9,4,15,NYG 22,0,NYG,
-4,425,0,09:52,,0,1,0,NYG 35,0,NYG,KICKOFF
-4,444,1,09:52,,10,1,68,TB 20,0,TB,
-4,546,4,08:08,,8,1,70,NYG 10,1,TB,FG
-4,468,1,09:01,,10,1,70,NYG 12,0,TB,
-4,491,2,08:23,,8,1,70,NYG 10,0,TB,
-4,513,3,08:17,,8,1,70,NYG 10,0,TB,
-2,149,4,13:30,,4,1,6,NYG 7,1,TB,FG
-2,81,1,14:51,,10,1,4,NYG 13,0,TB,
-2,123,3,13:34,,4,1,6,NYG 7,0,TB,
-2,102,2,14:15,,6,1,6,NYG 9,0,TB,
-15,2919,2,02:53,,10,3,47,TB 34,0,NYG,
-15,2940,3,02:10,,9,3,47,TB 33,0,NYG,INT
-15,2897,1,02:57,,10,3,46,TB 34,0,NYG,
-15,2690,2,06:35,,13,3,7,NYG 17,0,NYG,
-15,2852,3,03:29,,9,3,46,TB 46,0,NYG,
-15,2738,1,05:25,,10,3,34,NYG 42,0,NYG,
-15,2805,1,04:12,,10,3,34,TB 47,0,NYG,
-15,2760,2,05:20,,10,3,25,NYG 42,0,NYG,
-15,2669,1,07:10,,10,3,-3,NYG 20,0,NYG,
-15,2714,3,05:48,,3,3,22,NYG 27,0,NYG,
-15,2880,0,02:57,,0,3,46,,0,,TIMEOUT
-15,2781,3,04:46,,7,3,34,NYG 45,0,NYG,
-15,2826,2,03:35,,9,3,34,TB 46,0,NYG,
-15,2647,0,07:15,,0,3,0,TB 35,0,TB,KICKOFF
+20,3761,1,05:25,"(5:25) (No Huddle, Shotgun) J.Winston pass incomplete deep right to C.Sims [J.Pierre-Paul].",10,4,31,NYG 49,0,TB,
+20,3716,1,06:23,(6:23) J.Winston pass short right to A.Humphries pushed ob at TB 48 for 7 yards (D.Kennard).,10,4,31,TB 41,0,TB,
+20,3660,2,07:11,(7:11) B.Rainey right guard to TB 23 for 3 yards (D.Kennard).,10,4,3,TB 20,0,TB,
+20,3638,1,07:18,(7:18) J.Winston pass incomplete deep middle to D.Dye.,10,4,21,TB 20,0,TB,
+20,3623,0,07:18,"J.Brown kicks 65 yards from NYG 35 to end zone, Touchback.",0,4,0,NYG 35,0,NYG,KICKOFF
+20,3806,2,05:19,(5:19) (Shotgun) J.Winston pass incomplete short right to M.Evans.,10,4,31,NYG 49,0,TB,
+20,3740,2,06:00,"(6:00) (No Huddle, Shotgun) C.Sims up the middle to NYG 49 for 3 yards (L.Collins, D.Kennard).",3,4,31,TB 48,0,TB,
+20,3828,3,05:12,(5:12) (Shotgun) J.Winston pass incomplete short right to M.Evans [T.Wade].,10,4,31,NYG 49,0,TB,
+20,3788,0,05:19,Timeout #2 by TB at 05:19.,0,4,31,,0,,TIMEOUT
+20,3850,4,05:07,"(5:07) (Punt formation) J.Schum punts 49 yards to end zone, Center-A.DePaola, Touchback.",10,4,31,NYG 49,0,TB,PUNT
+20,3681,3,06:34,"(6:34) (Shotgun) J.Winston pass short middle to M.Evans to TB 41 for 18 yards (T.Wade) [J.Pierre-Paul]. Penalty on NYG-T.Wade, Defensive Holding, declined.",7,4,31,TB 23,0,TB,
+21,4063,2,02:00,"(2:00) R.Jennings right guard to TB 25 for 8 yards (K.Alexander, C.Conte).",10,4,55,TB 33,0,NYG,
+21,4046,0,02:00,Two-Minute Warning,0,4,47,,0,,
+21,4084,0,01:11,Timeout #2 by NYG at 01:11.,0,4,55,,0,,TIMEOUT
+21,3910,3,04:14,"(4:14) (No Huddle, Shotgun) E.Manning pass short left to O.Beckham Jr. to NYG 33 for 9 yards (S.Moore).",6,4,13,NYG 24,0,NYG,
+21,3934,1,03:29,"(3:29) (No Huddle) S.Vereen right guard to NYG 36 for 3 yards (L.David). PENALTY on TB-A.Spence, Unnecessary Roughness, 15 yards, enforced at NYG 36.",10,4,31,NYG 33,0,NYG,PENALTY
+21,4004,2,03:10,(3:10) R.Jennings left guard to TB 33 for 7 yards (K.Tandy).,1,4,47,TB 40,0,NYG,
+21,3867,1,04:57,(4:57) R.Jennings up the middle to NYG 24 for 4 yards (A.Spence).,10,4,4,NYG 20,0,NYG,
+21,3888,2,04:20,"(4:20) (No Huddle, Shotgun) E.Manning pass incomplete deep right to D.Harris.",6,4,4,NYG 24,0,NYG,
+21,4101,3,01:11,(1:11) R.Jennings up the middle to TB 26 for -1 yards (D.Lansanah).,2,4,54,TB 25,0,NYG,
+21,4139,4,00:28,"(:28) (Field Goal formation) J.Brown 44 yard field goal is GOOD, Center-Z.DeOssie, Holder-B.Wing.",3,4,54,TB 26,1,NYG,FG
+21,3966,1,03:21,(3:21) (Shotgun) R.Jennings left guard to TB 40 for 9 yards (K.Tandy).,10,4,40,TB 49,0,NYG,
+21,4025,1,02:26,(2:26) R.Jennings left guard to TB 33 for no gain (L.David).,10,4,47,TB 33,0,NYG,
+21,4122,0,00:28,Timeout #3 by NYG at 00:28.,0,4,54,,0,,TIMEOUT
+21,3987,0,03:21,Timeout #3 by TB at 03:21.,0,4,40,,0,,TIMEOUT
+22,4158,0,00:23,"J.Brown kicks 68 yards from NYG 35 to TB -3. B.Rainey to TB 12 for 15 yards (T.Jacobs). PENALTY on TB-B.Carter, Illegal Block Above the Waist, 6 yards, enforced at TB 12.",0,4,0,NYG 35,0,NYG,KICKOFF
+22,4213,2,00:13,"(:13) (Shotgun) J.Winston pass short right to C.Sims to TB 10 for 4 yards. Lateral to M.Evans to TB 7 for -3 yards. FUMBLES, touched at TB 10, RECOVERED by NYG-T.Wade at TB 5. T.Wade for 5 yards, TOUCHDOWN.",10,4,1,TB 6,1,TB,TD
+22,4191,1,00:18,(:18) (Shotgun) J.Winston pass incomplete short left to M.Evans.,10,4,0,TB 6,0,TB,
+1,55,1,15:00,(15:00) (Shotgun) E.Manning pass short right intended for O.Beckham Jr. INTERCEPTED by S.Moore at NYG 31. S.Moore pushed ob at NYG 13 for 18 yards (D.Harris).,10,1,0,NYG 20,0,NYG,INT
+1,36,0,15:00,"C.Barth kicks 65 yards from TB 35 to end zone, Touchback.",0,1,0,TB 35,0,TB,KICKOFF
+3,211,2,12:51,(12:51) E.Manning pass incomplete short right to O.Beckham Jr..,4,1,6,NYG 26,0,NYG,
+3,317,1,11:16,(11:16) (Shotgun) E.Manning pass short left to S.Vereen to TB 18 for 10 yards (J.Adjei-Barimah).,10,1,62,TB 28,0,NYG,
+3,406,4,09:57,"(9:57) (Field Goal formation) J.Brown 35 yard field goal is GOOD, Center-Z.DeOssie, Holder-B.Wing.",9,1,63,TB 17,1,NYG,FG
+3,168,0,13:26,"C.Barth kicks 65 yards from TB 35 to end zone, Touchback.",0,1,0,TB 35,0,TB,KICKOFF
+3,187,1,13:26,"(13:26) E.Manning pass short left to R.Randle to NYG 26 for 6 yards (J.Adjei-Barimah, D.Lansanah).",10,1,6,NYG 20,0,NYG,
+3,296,2,11:54,"(11:54) S.Vereen left guard to TB 28 for 8 yards (C.Conte, W.Gholston).",3,1,52,TB 36,0,NYG,
+3,384,3,10:02,(10:02) (Shotgun) E.Manning pass incomplete short left to W.Tye.,9,1,63,TB 17,0,NYG,
+3,268,1,12:23,(12:23) E.Manning pass short left to R.Randle to TB 36 for 7 yards (A.Verner).,10,1,44,TB 43,0,NYG,
+3,362,2,10:07,"(10:07) (No Huddle, Shotgun) E.Manning pass incomplete deep middle to W.Tye (C.Conte).",9,1,63,TB 17,0,NYG,
+3,341,1,10:41,"(10:41) (No Huddle) S.Vereen right guard to TB 17 for 1 yard (H.Melton, K.Alexander).",10,1,63,TB 18,0,NYG,
+3,233,3,12:44,"(12:44) (Shotgun) E.Manning pass short middle to O.Beckham Jr. to NYG 42 for 16 yards (B.McDougald, C.Conte). PENALTY on TB-L.David, Unnecessary Roughness, 15 yards, enforced at NYG 42.",4,1,37,NYG 26,0,NYG,PENALTY
+2,102,2,14:15,(14:15) D.Martin left guard to NYG 7 for 2 yards (J.Hosley).,6,1,6,NYG 9,0,TB,
+2,123,3,13:34,(13:34) (Shotgun) J.Winston pass incomplete short left to M.Evans.,4,1,6,NYG 7,0,TB,
+2,81,1,14:51,(14:51) D.Martin right end to NYG 9 for 4 yards (J.Casillas).,10,1,4,NYG 13,0,TB,
+2,149,4,13:30,"(13:30) (Field Goal formation) C.Barth 25 yard field goal is GOOD, Center-A.DePaola, Holder-J.Schum.",4,1,6,NYG 7,1,TB,FG
+5,605,2,07:36,(7:36) (No Huddle) A.Williams left guard to NYG 32 for 6 yards (B.McDougald).,4,1,12,NYG 26,0,NYG,
+5,784,3,04:30,(4:30) (Shotgun) E.Manning pass short right to S.Vereen to TB 34 for 8 yards (L.David) [H.Melton].,2,1,80,TB 42,0,NYG,
+5,584,1,08:04,"(8:04) A.Williams up the middle to NYG 26 for 6 yards (H.Melton, G.Johnson).",10,1,6,NYG 20,0,NYG,
+5,831,1,03:38,"(3:38) (No Huddle, Shotgun) A.Williams left guard to TB 26 for 3 yards (B.McDougald).",5,1,54,TB 29,0,NYG,
+5,626,1,07:02,"(7:02) (No Huddle, Shotgun) E.Manning pass short left to R.Randle pushed ob at NYG 38 for 6 yards (J.Adjei-Barimah).",10,1,18,NYG 32,0,NYG,
+5,852,2,02:58,"(2:58) (No Huddle, Shotgun) E.Manning pass short middle to O.Beckham Jr. to TB 13 for 13 yards (A.Verner, L.David).",2,1,67,TB 26,0,NYG,
+5,949,0,00:53,"J.Brown extra point is GOOD, Center-Z.DeOssie, Holder-B.Wing.",0,1,80,TB 15,1,NYG,XP
+5,732,1,05:28,"(5:28) (No Huddle, Shotgun) E.Manning pass short right to D.Harris to TB 49 for 1 yard (A.Verner) [G.McCoy].",10,1,31,50,0,NYG,
+5,676,3,06:03,"(6:03) (No Huddle, Shotgun) PENALTY on TB-W.Gholston, Neutral Zone Infraction, 5 yards, enforced at NYG 37 - No Play.",5,1,22,NYG 37,0,NYG,PENALTY
+5,699,1,05:32,"(5:32) (No Huddle, Shotgun) E.Manning pass incomplete short middle to D.Harris. PENALTY on TB-L.David, Defensive Pass Interference, 8 yards, enforced at NYG 42 - No Play.",10,1,30,NYG 42,0,NYG,PENALTY
+5,565,0,08:04,"C.Barth kicks 65 yards from TB 35 to end zone, Touchback.",0,1,0,TB 35,0,TB,KICKOFF
+5,808,1,03:56,"(3:56) (No Huddle, Shotgun) PENALTY on TB-T.McDaniel, Neutral Zone Infraction, 5 yards, enforced at TB 34 - No Play.",10,1,51,TB 34,0,NYG,PENALTY
+5,929,3,01:00,"(1:00) (No Huddle, Shotgun) E.Manning pass short left to R.Randle for 8 yards, TOUCHDOWN.",5,1,80,TB 8,1,NYG,TD
+5,655,2,06:39,"(6:39) (No Huddle) A.Williams left tackle to NYG 37 for -1 yards (K.Tandy, K.Alexander).",4,1,17,NYG 38,0,NYG,
+5,908,2,01:42,(1:42) A.Williams left guard to TB 8 for 2 yards (D.Lansanah).,7,1,72,TB 10,0,NYG,
+5,880,1,02:17,"(2:17) (No Huddle, Shotgun) E.Manning pass short left to M.White to TB 10 for 3 yards (J.Adjei-Barimah; L.David).",10,1,70,TB 13,0,NYG,
+5,760,2,05:01,"(5:01) (No Huddle, Shotgun) E.Manning pass short middle to A.Williams to TB 42 for 7 yards (A.Verner).",9,1,38,TB 49,0,NYG,
+4,468,1,09:01,"(9:01) K.Pamphile reported in as eligible.  D.Martin right guard to NYG 10 for 2 yards (J.Pierre-Paul, J.Brinkley).",10,1,70,NYG 12,0,TB,
+4,444,1,09:52,(9:52) J.Winston pass deep middle to M.Evans to NYG 12 for 68 yards (J.Casillas).,10,1,68,TB 20,0,TB,
+4,546,4,08:08,"(8:08) (Field Goal formation) C.Barth 28 yard field goal is GOOD, Center-A.DePaola, Holder-J.Schum.",8,1,70,NYG 10,1,TB,FG
+4,513,3,08:17,"(8:17) (Shotgun) J.Winston pass incomplete short left to D.Martin. Penalty on TB-C.Brate, Offensive Pass Interference, declined.",8,1,70,NYG 10,0,TB,
+4,425,0,09:52,"J.Brown kicks 65 yards from NYG 35 to end zone, Touchback.",0,1,0,NYG 35,0,NYG,KICKOFF
+4,491,2,08:23,(8:23) J.Winston pass incomplete short left to M.Evans.,8,1,70,NYG 10,0,TB,
+7,1287,2,11:25,"(11:25) (No Huddle, Shotgun) E.Manning pass short right to S.Vereen for 4 yards, TOUCHDOWN.",4,2,28,TB 4,1,NYG,TD
+7,1307,0,11:20,"J.Brown extra point is GOOD, Center-Z.DeOssie, Holder-B.Wing.",0,2,28,TB 15,1,NYG,XP
+7,1144,3,14:03,"(14:03) (No Huddle, Shotgun) E.Manning pass short left to O.Beckham Jr. pushed ob at TB 15 for 10 yards (K.Tandy).",7,2,13,TB 25,0,NYG,
+7,1221,2,12:59,(12:59) (No Huddle) O.Darkwa up the middle to TB 8 for 5 yards (L.David).,8,2,28,TB 13,0,NYG,
+7,1123,2,14:48,"(14:48) (Shotgun) O.Darkwa left guard to TB 25 for 3 yards (G.McCoy, A.Spence).",10,2,3,TB 28,0,NYG,
+7,1168,1,13:42,"(13:42) (No Huddle) S.Vereen up the middle to TB 12 for 3 yards (K.Tandy). PENALTY on NYG-E.Flowers, Offensive Holding, 10 yards, enforced at TB 12.",10,2,28,TB 15,0,NYG,PENALTY
+7,1200,1,13:25,(13:25) O.Darkwa up the middle to TB 13 for 9 yards (A.Spence).,17,2,28,TB 22,0,NYG,
+7,1266,1,12:00,"(12:00) (No Huddle) S.Vereen up the middle to TB 4 for -2 yards (K.Alexander, C.Conte).",2,2,28,TB 2,0,NYG,
+7,1242,3,12:18,"(12:18) (No Huddle, Shotgun) E.Manning pass short right to J.Cunningham to TB 2 for 6 yards (C.Conte, L.David).",3,2,28,TB 8,0,NYG,
+7,1101,1,14:54,(14:54) (Shotgun) E.Manning pass incomplete short middle to W.Tye.,10,2,0,TB 28,0,NYG,
+6,965,0,00:53,"J.Brown kicks 65 yards from NYG 35 to end zone, Touchback.",0,1,0,NYG 35,0,NYG,KICKOFF
+6,1005,2,00:11,"(:11) (Shotgun) J.Winston pass short middle to C.Brate to TB 24 for 5 yards (D.Kennard). PENALTY on NYG-J.Hosley, Defensive Holding, 5 yards, enforced at TB 19 - No Play.",11,1,4,TB 19,0,TB,PENALTY
+6,1067,1,15:00,"(15:00) K.Pamphile reported in as eligible.  D.Martin up the middle to TB 26 for 2 yards (J.Hankins). FUMBLES (J.Hankins), RECOVERED by NYG-J.Brinkley at TB 28. J.Brinkley to TB 28 for no gain (J.Hawley).",10,2,6,TB 24,0,TB,FUMBLE
+6,984,1,00:53,(:53) D.Martin right end to TB 19 for -1 yards (J.Brinkley).,10,1,-1,TB 20,0,TB,
+6,1051,0,,END QUARTER 1,0,1,4,,0,,
+9,1633,1,06:58,"(6:58) R.Jennings right guard to NYG 39 for 6 yards (A.Verner, W.Gholston).",10,2,6,NYG 33,0,NYG,
+9,1802,4,03:05,(3:05) (Shotgun) E.Manning pass incomplete short middle to O.Beckham Jr. (H.Melton).,2,2,32,TB 35,0,NYG,
+9,1785,0,03:05,Timeout #2 by TB at 03:05.,0,2,32,,0,,TIMEOUT
+9,1720,2,04:38,"(4:38) (No Huddle, Shotgun) E.Manning pass short left to R.Jennings to TB 42 for -1 yards (J.Adjei-Barimah).",8,2,25,TB 41,0,NYG,
+9,1744,0,03:51,Timeout #1 by NYG at 03:51.,0,2,25,,0,,TIMEOUT
+9,1675,1,05:44,"(5:44) (No Huddle, Shotgun) E.Manning pass short left to R.Randle to TB 43 for 13 yards (A.Verner, J.Adjei-Barimah).",10,2,24,NYG 44,0,NYG,
+9,1761,3,03:51,(3:51) (Shotgun) E.Manning pass short middle to S.Vereen to TB 35 for 7 yards (K.Alexander; L.David).,9,2,32,TB 42,0,NYG,
+9,1654,2,06:21,"(6:21) (No Huddle, Shotgun) R.Jennings right guard to NYG 44 for 5 yards (K.Alexander, W.Gholston).",4,2,11,NYG 39,0,NYG,
+9,1699,1,05:11,"(5:11) (No Huddle) R.Jennings left guard to TB 41 for 2 yards (L.David, G.Johnson).",10,2,26,TB 43,0,NYG,
+8,1323,0,11:20,"J.Brown kicks 69 yards from NYG 35 to TB -4. B.Rainey to TB 42 for 46 yards (J.Brown). PENALTY on TB-O.Lemon, Offensive Holding, 10 yards, enforced at TB 20.",0,2,9,NYG 35,0,NYG,KICKOFF
+8,1423,3,09:56,"(9:56) C.Sims right guard to TB 20 for 1 yard (D.Kennard, M.Herzlich).",1,2,46,TB 19,0,TB,
+8,1357,1,11:11,(11:11) J.Winston pass short left to M.Evans pushed ob at TB 19 for 9 yards (D.Rodgers-Cromartie).,10,2,9,TB 10,0,TB,
+8,1613,4,07:03,"(7:03) (Field Goal formation) C.Barth 43 yard field goal is No Good, Wide Right, Center-A.DePaola, Holder-J.Schum.",2,2,65,NYG 25,0,TB,FGM
+8,1548,1,07:34,(7:34) (No Huddle) J.Winston pass incomplete short middle to M.Evans.,10,2,57,NYG 33,0,TB,
+8,1524,1,08:05,(8:05) (No Huddle) J.Winston pass short right to A.Humphries pushed ob at NYG 33 for 11 yards (C.Dahl).,10,2,57,NYG 44,0,TB,
+8,1492,1,08:18,"(8:18) (No Huddle) C.Sims right tackle to TB 41 for 1 yard (D.Kennard, J.Bromley). PENALTY on NYG-B.Meriweather, Unnecessary Roughness, 15 yards, enforced at TB 41.",10,2,46,TB 40,0,TB,PENALTY
+8,1444,1,09:17,(9:17) (No Huddle) J.Winston pass short left to M.Evans to TB 24 for 4 yards (C.Jenkins).,10,2,14,TB 20,0,TB,
+8,1591,3,07:10,(7:10) (Shotgun) J.Winston pass incomplete short right to M.Evans.,2,2,65,NYG 25,0,TB,
+8,1468,2,08:38,(8:38) (No Huddle) J.Winston pass deep left to A.Humphries to TB 40 for 16 yards (L.Collins).,6,2,30,TB 24,0,TB,
+8,1385,2,10:42,"(10:42) C.Sims right guard to TB 19 for no gain (K.Wynn, J.Brinkley).",1,2,9,TB 19,0,TB,
+8,1570,2,07:29,(7:29) C.Sims right tackle to NYG 25 for 8 yards (C.Dahl).,10,2,65,NYG 33,0,TB,
+8,1406,0,09:56,Timeout #1 by TB at 09:56.,0,2,9,,0,,TIMEOUT
+11,2069,0,00:06,"C.Barth kicks 65 yards from TB 35 to end zone, Touchback.",0,2,0,TB 35,0,TB,KICKOFF
+11,2088,1,00:06,(:06) E.Manning kneels to NYG 19 for -1 yards.,10,2,-1,NYG 20,0,NYG,
+11,2109,0,,END QUARTER 2,0,2,-1,,0,,
+10,1990,2,01:04,"(1:04) (No Huddle, Shotgun) J.Winston pass incomplete short right to D.Dye (J.Hosley).",5,2,60,NYG 5,0,TB,
+10,1848,1,02:40,"(2:40) (Shotgun) PENALTY on NYG-J.Pierre-Paul, Neutral Zone Infraction, 5 yards, enforced at NYG 40 - No Play.",10,2,30,NYG 40,0,TB,PENALTY
+10,2050,4,00:10,"(:10) (Field Goal formation) C.Barth 21 yard field goal is GOOD, Center-A.DePaola, Holder-J.Schum.",3,2,62,NYG 3,1,TB,FG
+10,1824,1,03:02,(3:02) (Shotgun) J.Winston pass short left to M.Evans ran ob at NYG 40 for 25 yards.,10,2,35,TB 35,0,TB,
+10,1966,1,01:31,(1:31) (Shotgun) J.Winston pass short right to D.Dye to NYG 5 for 4 yards (J.Casillas).,9,2,60,NYG 9,0,TB,
+10,1933,1,01:36,"(1:36) (No Huddle, Shotgun) J.Winston pass incomplete short right to M.Evans. PENALTY on NYG-D.Moore, Roughing the Passer, 9 yards, enforced at NYG 18 - No Play.",10,2,56,NYG 18,0,TB,PENALTY
+10,2033,0,00:10,Timeout #3 by TB at 00:10.,0,2,62,,0,,TIMEOUT
+10,1871,1,02:24,(2:24) (Shotgun) J.Winston pass short middle to A.Humphries to NYG 30 for 5 yards (J.Casillas) [R.Ayers Jr.].,5,2,35,NYG 35,0,TB,
+10,1895,0,02:00,Two-Minute Warning,0,2,35,,0,,
+10,1912,1,02:00,(2:00) (Shotgun) J.Winston scrambles right end to NYG 18 for 12 yards (D.Moore).,10,2,47,NYG 30,0,TB,
+10,2012,3,00:59,(:59) (Shotgun) J.Winston scrambles up the middle to NYG 3 for 2 yards (B.Meriweather).,5,2,62,NYG 5,0,TB,
+13,2280,1,12:32,(12:32) (Shotgun) E.Manning pass incomplete short middle to O.Beckham Jr..,10,3,7,TB 24,0,NYG,
+13,2323,3,11:58,"(11:58) (No Huddle, Shotgun) E.Manning pass incomplete short right to O.Beckham Jr. (S.Moore).",3,3,7,TB 17,0,NYG,
+13,2302,2,12:28,"(12:28) R.Jennings right tackle to TB 17 for 7 yards (B.Carter, K.Tandy).",10,3,7,TB 24,0,NYG,
+13,2345,4,11:53,"(11:53) (Field Goal formation) J.Brown 35 yard field goal is GOOD, Center-Z.DeOssie, Holder-B.Wing.",3,3,7,TB 17,1,NYG,FG
+12,2125,0,15:00,J.Brown kicks 69 yards from NYG 35 to TB -4. B.Rainey to TB 22 for 26 yards (C.Dahl).,0,3,0,NYG 35,0,NYG,KICKOFF
+12,2216,1,13:14,(13:14) (No Huddle) C.Sims left tackle to TB 45 for 7 yards (J.Brinkley).,10,3,23,TB 38,0,TB,
+12,2237,2,12:44,"(12:44) (No Huddle) C.Sims right end to TB 44 for -1 yards (J.Brinkley). FUMBLES (J.Brinkley), touched at TB 44, RECOVERED by NYG-T.Wade at TB 24. T.Wade to TB 24 for no gain (A.Humphries). Penalty on TB-C.Brate, Offensive Holding, declined.",3,3,22,TB 45,0,TB,FUMBLE
+12,2147,1,14:54,(14:54) D.Martin right guard to TB 27 for 5 yards (J.Brinkley).,10,3,5,TB 22,0,TB,
+12,2192,3,13:40,(13:40) (Shotgun) J.Winston pass short middle to M.Evans to TB 38 for 9 yards (D.Rodgers-Cromartie).,3,3,16,TB 29,0,TB,
+12,2168,2,14:20,(14:20) J.Winston pass short left to D.Martin to TB 29 for 2 yards (J.Pierre-Paul).,5,3,2,TB 27,0,TB,
+15,2880,0,02:57,Timeout #1 by TB at 02:57.,0,3,46,,0,,TIMEOUT
+15,2852,3,03:29,"(3:29) (No Huddle, Shotgun) E.Manning pass short left to O.Beckham Jr. to TB 34 for 12 yards (A.Verner).",9,3,46,TB 46,0,NYG,
+15,2781,3,04:46,"(4:46) (No Huddle, Shotgun) E.Manning pass short middle to O.Beckham Jr. to TB 47 for 8 yards (A.Verner, L.David).",7,3,34,NYG 45,0,NYG,
+15,2714,3,05:48,"(5:48) (No Huddle, Shotgun) E.Manning pass short right to W.Tye to NYG 42 for 15 yards (C.Conte).",3,3,22,NYG 27,0,NYG,
+15,2919,2,02:53,"(2:53) (No Huddle, Shotgun) R.Jennings left tackle to TB 33 for 1 yard (K.Tandy).",10,3,47,TB 34,0,NYG,
+15,2897,1,02:57,(2:57) E.Manning pass incomplete short right to W.Tye.,10,3,46,TB 34,0,NYG,
+15,2760,2,05:20,"(5:20) R.Jennings left tackle to NYG 45 for 3 yards (C.Conte, K.Alexander).",10,3,25,NYG 42,0,NYG,
+15,2738,1,05:25,(5:25) (No Huddle) E.Manning pass incomplete short right to O.Beckham Jr. (S.Moore).,10,3,34,NYG 42,0,NYG,
+15,2647,0,07:15,"C.Barth kicks 71 yards from TB 35 to NYG -6. D.Harris to NYG 20 for 26 yards (B.Carter, R.Shepard).",0,3,0,TB 35,0,TB,KICKOFF
+15,2805,1,04:12,(4:12) S.Vereen left tackle to TB 46 for 1 yard (W.Gholston).,10,3,34,TB 47,0,NYG,
+15,2940,3,02:10,"(2:10) (No Huddle, Shotgun) E.Manning pass short middle intended for O.Beckham Jr. INTERCEPTED by A.Verner at TB 27. A.Verner to TB 43 for 16 yards (O.Beckham Jr.).",9,3,47,TB 33,0,NYG,INT
+15,2826,2,03:35,"(3:35) (No Huddle, Shotgun) E.Manning pass incomplete short left to D.Harris.",9,3,34,TB 46,0,NYG,
+15,2669,1,07:10,(7:10) R.Jennings left end to NYG 17 for -3 yards (K.Alexander).,10,3,-3,NYG 20,0,NYG,
+15,2690,2,06:35,(6:35) E.Manning pass short right to O.Beckham Jr. to NYG 27 for 10 yards (K.Alexander).,13,3,7,NYG 17,0,NYG,
+14,2606,3,07:27,(7:27) (Shotgun) J.Winston pass incomplete short right to D.Martin.,2,3,49,NYG 34,0,TB,
+14,2446,2,10:40,"(10:40) (Shotgun) J.Winston pass short right to D.Martin to TB 22 for 10 yards (L.Collins, D.Kennard).",15,3,49,TB 12,0,TB,
+14,2582,2,08:07,(8:07) J.Winston pass short right to M.Evans to NYG 34 for 4 yards (D.Rodgers-Cromartie) [J.Bromley].,6,3,49,NYG 38,0,TB,
+14,2470,3,10:11,"(10:11) (No Huddle, Shotgun) J.Winston pass short left to A.Humphries pushed ob at TB 38 for 16 yards (T.McBride) [L.Collins].",5,3,41,TB 22,0,TB,
+14,2561,1,08:43,(8:43) D.Martin up the middle to NYG 38 for 4 yards (J.Bromley).,10,3,45,NYG 42,0,TB,
+14,2628,4,07:20,"(7:20) (Field Goal formation) C.Barth 53 yard field goal is GOOD, Center-A.DePaola, Holder-J.Schum.",2,3,49,NYG 34,1,TB,FG
+14,2494,1,09:44,(9:44) J.Winston pass incomplete short right to M.Evans [M.Kuhn].,10,3,45,TB 38,0,TB,
+14,2407,2,11:08,"(11:08) J.Winston pass short left to J.Lane to TB 26 for 4 yards (D.Kennard, J.Brinkley). PENALTY on TB-L.Mankins, Offensive Holding, 10 yards, enforced at TB 22 - No Play.",5,3,49,TB 22,0,TB,PENALTY
+14,2386,1,11:43,"(11:43) D.Martin right tackle to TB 22 for 5 yards (J.Casillas, L.Collins).",10,3,-4,TB 17,0,TB,
+14,2516,2,09:36,"(9:36) D.Martin right guard to TB 41 for 3 yards (R.Ayers Jr., B.Meriweather).",10,3,24,TB 38,0,TB,
+14,2364,0,11:49,J.Brown kicks 70 yards from NYG 35 to TB -5. B.Rainey to TB 17 for 22 yards (G.Davis).,0,3,0,NYG 35,0,NYG,KICKOFF
+14,2537,3,08:55,"(8:55) (No Huddle, Shotgun) J.Winston pass deep right to C.Brate ran ob at NYG 42 for 17 yards.",7,3,41,TB 41,0,TB,
+17,3205,1,14:12,(14:12) O.Darkwa right guard to NYG 22 for 1 yard (W.Gholston).,10,4,11,NYG 21,0,NYG,
+17,3250,3,12:51,"(12:51) (No Huddle, Shotgun) E.Manning pass short right to O.Beckham Jr. to NYG 29 for 3 yards (S.Moore).",5,4,13,NYG 26,0,NYG,
+17,3226,2,13:31,(13:31) E.Manning pass short left to W.Tye to NYG 26 for 4 yards (L.David).,9,4,15,NYG 22,0,NYG,
+17,3124,1,00:24,"(:24) O.Darkwa up the middle to NYG 15 for 4 yards (D.Lansanah, W.Gholston).",10,3,4,NYG 11,0,NYG,
+17,3184,2,15:00,(15:00) O.Darkwa right guard to NYG 21 for 1 yard (W.Gholston).,1,4,10,NYG 20,0,NYG,
+17,3274,4,12:02,"(12:02) (Punt formation) PENALTY on NYG-B.Wing, Delay of Game, 5 yards, enforced at NYG 29 - No Play.",2,4,13,NYG 29,0,NYG,PENALTY
+17,3145,0,,END QUARTER 3,0,3,4,,0,,
+17,3301,4,11:51,"(11:51) (Punt formation) B.Wing punts 64 yards to TB 12, Center-Z.DeOssie. B.Rainey MUFFS catch, touched at TB 12, and recovers at TB 12. B.Rainey to TB 13 for 1 yard (C.Dahl, D.Moore).",7,4,13,NYG 24,0,NYG,FUMBLE
+17,3161,2,15:00,"(15:00) PENALTY on TB-G.McCoy, Neutral Zone Infraction, 5 yards, enforced at NYG 15 - No Play.",6,4,9,NYG 15,0,NYG,PENALTY
+16,2966,1,02:02,(2:02) J.Winston pass short right to J.Lane pushed ob at TB 48 for 5 yards (J.Casillas).,10,3,5,TB 43,0,TB,
+16,2990,2,01:32,(1:32) D.Martin left tackle to NYG 47 for 5 yards (J.Brinkley).,5,3,10,TB 48,0,TB,
+16,3011,1,00:52,(:52) J.Winston pass incomplete deep left to M.Evans [J.Bromley].,10,3,10,NYG 47,0,TB,
+16,3101,4,00:31,"(:31) (Punt formation) J.Schum punts 36 yards to NYG 11, Center-A.DePaola, fair catch by D.Harris.",10,3,10,NYG 47,0,TB,PUNT
+16,3033,0,00:45,Timeout #1 by NYG at 00:45.,0,3,10,,0,,TIMEOUT
+16,3079,3,00:38,(:38) (Shotgun) J.Winston pass incomplete short right to M.Evans [D.Kennard].,10,3,10,NYG 47,0,TB,
+16,3050,2,00:45,(:45) (Shotgun) J.Winston pass incomplete short middle to M.Evans (L.Collins).,10,3,10,NYG 47,0,TB,
+19,3582,3,07:30,"(7:30) (No Huddle, Shotgun) E.Manning pass incomplete deep left to O.Beckham Jr..",3,4,42,TB 34,0,NYG,
+19,3561,2,08:05,"(8:05) (Shotgun) A.Williams right guard to TB 34 for 3 yards (G.Johnson, K.Alexander).",6,4,42,TB 37,0,NYG,
+19,3461,0,09:25,C.Barth kicks 69 yards from TB 35 to NYG -4. D.Harris to NYG 24 for 28 yards (O.Lemon).,0,4,0,TB 35,0,TB,KICKOFF
+19,3604,4,07:24,"(7:24) (Field Goal formation) J.Brown 53 yard field goal is GOOD, Center-Z.DeOssie, Holder-B.Wing.",3,4,42,TB 34,1,NYG,FG
+19,3483,1,09:18,"(9:18) E.Manning pass short right to O.Beckham Jr. to NYG 48 for 24 yards (S.Moore). FUMBLES (S.Moore), ball out of bounds at NYG 48.",10,4,39,NYG 24,0,NYG,FUMBLE
+19,3516,1,09:03,(9:03) A.Williams up the middle to TB 41 for 11 yards (C.Conte).,10,4,42,NYG 48,0,NYG,
+19,3537,1,08:30,(8:30) (Shotgun) E.Manning pass short right to J.Cunningham to TB 37 for 4 yards (K.Tandy).,10,4,42,TB 41,0,NYG,
+18,3396,2,09:40,(9:40) (Shotgun) J.Winston pass incomplete short right to D.Dye.,10,4,87,NYG 10,0,TB,
+18,3430,3,09:35,"(9:35) (Shotgun) J.Winston scrambles right end for 10 yards, TOUCHDOWN.",10,4,87,NYG 10,1,TB,TD
+18,3375,1,10:17,(10:17) D.Martin left tackle to NYG 10 for no gain (J.Bromley).,10,4,77,NYG 10,0,TB,
+18,3330,1,11:36,(11:36) C.Sims left guard to NYG 28 for 59 yards (T.Wade).,10,4,59,TB 13,0,TB,
+18,3351,1,10:57,"(10:57) (No Huddle, Shotgun) J.Winston pass deep middle to M.Evans to NYG 10 for 18 yards (L.Collins).",10,4,77,NYG 28,0,TB,
+18,3447,0,09:25,(Pass formation) TWO-POINT CONVERSION ATTEMPT. J.Winston pass to R.Shepard is incomplete. ATTEMPT FAILS.,0,4,87,NYG 2,0,TB,2PPF

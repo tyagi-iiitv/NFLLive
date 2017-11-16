@@ -1,177 +1,177 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1887,0,00:50,,0,2,0,ARI 35,0,ARI,KICKOFF
-9,1945,3,00:27,,4,2,13,MIN 31,0,MIN,
-9,2005,0,,,0,2,-1,,0,,
-9,1902,1,00:50,,10,2,6,MIN 25,0,MIN,
-9,1969,0,00:20,,0,2,13,,0,,TIMEOUT
-9,1923,2,00:31,,4,2,6,MIN 31,0,MIN,
-9,1986,1,00:20,,10,2,-1,MIN 38,0,MIN,
-24,4151,0,,,0,4,-1,,0,,
-24,4130,1,00:37,,10,4,-1,ARI 19,0,MIN,
-10,2039,0,14:47,,0,3,0,ARI 15,1,MIN,XP
-10,2021,0,15:00,,0,3,0,ARI 35,1,ARI,TD
-20,3561,0,07:24,,0,4,0,ARI 35,0,ARI,KICKOFF
-20,3600,2,06:56,,2,4,4,MIN 33,0,MIN,
-20,3621,3,06:15,,6,4,4,MIN 29,0,MIN,
-20,3643,4,06:10,,6,4,4,MIN 29,0,MIN,PUNT
-20,3576,1,07:24,,10,4,8,MIN 25,0,MIN,
-6,1311,0,07:16,,0,2,75,ARI 15,0,MIN,XPB
-6,1197,1,08:08,,10,2,44,ARI 36,0,MIN,
-6,1152,2,09:29,,2,2,9,MIN 33,0,MIN,
-6,1128,1,10:04,,10,2,8,MIN 25,0,MIN,
-6,1173,3,08:48,,1,2,39,MIN 34,0,MIN,
-6,1113,0,10:04,,0,2,0,ARI 35,0,ARI,KICKOFF
-6,1251,1,07:19,,2,2,75,ARI 2,1,MIN,TD
-6,1218,2,07:27,,5,2,73,ARI 31,0,MIN,PENALTY
-18,3115,2,12:50,,11,4,9,MIN 15,0,MIN,
-18,3186,2,10:45,,3,4,23,MIN 35,0,MIN,
-18,3162,1,11:24,,10,4,19,MIN 28,0,MIN,
-18,3139,3,12:07,,1,4,12,MIN 25,0,MIN,
-18,3207,1,10:03,,10,4,26,MIN 39,0,MIN,
-18,3228,2,09:19,,7,4,26,MIN 42,0,MIN,TIMEOUT
-18,3315,3,09:16,,12,4,11,MIN 37,0,MIN,FUMBLE
-18,3090,1,13:26,,10,4,-1,MIN 16,0,MIN,
-18,3292,3,09:16,,7,4,21,MIN 42,0,MIN,PENALTY
-1,119,3,13:36,,4,1,6,ARI 31,0,ARI,
-1,141,4,13:33,,4,1,6,ARI 31,0,ARI,PUNT
-1,36,0,15:00,,0,1,0,MIN 35,0,MIN,KICKOFF
-1,98,2,14:18,,6,1,6,ARI 29,0,ARI,
-1,74,1,15:00,,15,1,4,ARI 20,0,ARI,
-1,51,1,15:00,,10,1,-5,ARI 25,0,ARI,PENALTY
-5,856,2,00:50,,1,1,19,ARI 15,0,ARI,
-5,898,0,,,0,1,30,,0,,
-5,957,1,13:47,,10,2,56,ARI 49,0,ARI,
-5,1071,3,10:13,,2,2,78,MIN 16,0,ARI,
-5,936,2,14:24,,7,2,43,ARI 39,0,ARI,
-5,1029,1,11:38,,10,2,77,MIN 24,0,ARI,
-5,1005,2,12:16,,7,2,70,MIN 35,0,ARI,
-5,835,1,01:30,,10,1,9,ARI 6,0,ARI,
-5,877,1,00:09,,10,1,30,ARI 25,0,ARI,
-5,1050,2,10:57,,3,2,78,MIN 17,0,ARI,
-5,981,1,13:04,,10,2,59,MIN 38,0,ARI,
-5,1093,4,10:08,,2,2,78,MIN 16,1,ARI,FG
-5,915,1,15:00,,10,2,33,ARI 36,0,ARI,
-13,2409,3,08:26,,4,3,-5,ARI 44,0,ARI,
-13,2367,1,09:48,,10,3,5,ARI 38,0,ARI,
-13,2428,4,07:47,,15,3,-5,ARI 33,0,ARI,PUNT
-13,2388,2,09:10,,5,3,6,ARI 43,0,ARI,
-21,3669,1,05:56,,10,4,0,MIN 47,0,ARI,
-21,3742,4,04:24,,30,4,-20,ARI 33,0,ARI,PUNT
-21,3690,2,05:16,,10,4,-8,MIN 47,0,ARI,
-21,3709,3,04:31,,18,4,-20,ARI 45,0,ARI,PENALTY
-23,3988,4,01:12,,19,4,6,ARI 4,0,ARI,PENALTY
-23,4064,2,00:56,,10,4,21,ARI 30,0,ARI,
-23,3906,1,02:20,,10,4,0,ARI 13,0,ARI,
-23,4021,1,01:07,,10,4,6,ARI 19,0,ARI,
-23,3930,0,02:00,,0,4,0,,0,,
-23,3947,2,02:00,,10,4,0,ARI 13,0,ARI,
-23,3969,3,01:53,,10,4,-9,ARI 13,0,ARI,
-23,4042,1,01:00,,10,4,17,ARI 30,0,ARI,
-23,4088,3,00:50,,6,4,21,ARI 34,0,ARI,
-23,4110,4,00:44,,6,4,6,ARI 34,0,ARI,
-11,2055,0,14:47,,0,3,0,MIN 35,0,MIN,KICKOFF
-11,2070,1,14:47,,10,3,3,ARI 25,0,ARI,
-11,2091,2,14:12,,7,3,3,ARI 28,0,ARI,
-11,2139,4,13:59,,7,3,3,ARI 28,0,ARI,PUNT
-11,2113,3,14:06,,7,3,3,ARI 28,0,ARI,
-14,2475,2,07:31,,10,3,4,MIN 29,0,MIN,
-14,2453,1,07:36,,10,3,0,MIN 29,0,MIN,
-14,2499,3,06:48,,6,3,-6,MIN 33,0,MIN,PENALTY
-14,2582,4,05:30,,16,3,-6,MIN 23,0,MIN,PUNT
-14,2534,3,06:15,,16,3,-11,MIN 23,0,MIN,PENALTY
-14,2561,3,06:14,,21,3,-6,MIN 18,0,MIN,
-8,1759,1,01:57,,10,2,33,MIN 42,0,ARI,
-8,1871,0,00:50,,0,2,75,MIN 15,1,ARI,XP
-8,1661,0,03:07,,0,2,0,MIN 35,0,MIN,KICKOFF
-8,1676,1,03:07,,10,2,15,ARI 25,0,ARI,
-8,1742,0,01:57,,0,2,33,,0,,
-8,1850,1,00:58,,10,2,75,MIN 29,1,ARI,TD
-8,1826,3,01:20,,6,2,46,MIN 38,0,ARI,
-8,1809,0,01:20,,0,2,37,,0,,TIMEOUT
-8,1700,1,02:30,,10,2,23,ARI 40,0,ARI,
-8,1721,2,02:03,,2,2,33,ARI 48,0,ARI,
-8,1781,2,01:53,,10,2,37,MIN 42,0,ARI,FUMBLE
-19,3437,0,08:34,,0,4,2,,0,,TIMEOUT
-19,3415,2,08:40,,8,4,2,MIN 25,0,ARI,
-19,3502,2,07:32,,3,4,23,MIN 4,0,ARI,
-19,3454,3,08:34,,8,4,16,MIN 25,0,ARI,
-19,3545,0,07:24,,0,4,27,MIN 15,1,ARI,XP
-19,3478,1,08:01,,10,4,23,MIN 11,0,ARI,
-19,3388,1,09:10,,10,4,2,MIN 27,0,ARI,
-19,3524,3,07:28,,3,4,27,MIN 4,1,ARI,TD
-22,3822,3,03:18,,9,4,-4,MIN 10,0,MIN,PENALTY
-22,3779,1,04:07,,10,4,6,MIN 9,0,MIN,
-22,3862,3,03:18,,14,4,6,MIN 5,0,MIN,
-22,3886,4,02:33,,4,4,6,MIN 15,0,MIN,PUNT
-22,3845,0,03:18,,0,4,-4,,0,,TIMEOUT
-22,3800,2,03:26,,9,4,1,MIN 10,0,MIN,
-12,2227,2,12:19,,5,3,38,50,0,MIN,PENALTY
-12,2283,2,11:12,,13,3,38,ARI 48,0,MIN,
-12,2304,3,10:33,,13,3,38,ARI 48,0,MIN,
-12,2328,0,09:53,,0,3,38,,0,,TIMEOUT
-12,2206,1,12:58,,10,3,26,MIN 45,0,MIN,
-12,2182,2,13:20,,1,3,21,MIN 33,0,MIN,
-12,2345,4,09:53,,3,3,38,ARI 38,0,MIN,
-12,2262,1,11:49,,10,3,28,ARI 45,0,MIN,
-12,2158,1,13:54,,10,3,9,MIN 24,0,MIN,
-16,2644,1,05:10,,10,3,8,MIN 16,0,MIN,
-16,2692,3,03:55,,5,3,26,MIN 21,0,MIN,PENALTY
-16,2668,2,04:33,,2,3,5,MIN 24,0,MIN,
-16,2783,2,02:32,,8,3,54,ARI 32,0,MIN,
-16,2804,3,01:59,,6,3,76,ARI 30,0,MIN,PENALTY
-16,2839,1,01:34,,8,3,74,ARI 8,0,MIN,
-16,2759,1,03:12,,10,3,52,ARI 34,0,MIN,
-16,2906,4,00:07,,9,3,75,ARI 9,1,MIN,FG
-16,2727,1,03:40,,10,3,75,MIN 42,0,MIN,PENALTY
-16,2884,3,00:13,,9,3,75,ARI 9,0,MIN,
-16,2863,2,00:55,,10,3,75,ARI 10,0,MIN,
-7,1622,3,03:23,,9,2,39,MIN 9,1,ARI,TD
-7,1600,2,03:28,,9,2,39,MIN 9,0,ARI,
-7,1327,0,07:16,,0,2,0,MIN 35,0,MIN,KICKOFF
-7,1366,1,07:07,,10,2,0,MIN 48,0,ARI,
-7,1491,1,05:38,,10,2,20,MIN 30,0,ARI,
-7,1449,1,06:51,,10,2,13,MIN 43,0,ARI,
-7,1512,2,04:54,,8,2,25,MIN 28,0,ARI,PENALTY
-7,1388,2,07:03,,10,2,0,MIN 48,0,ARI,
-7,1349,0,07:07,,0,2,0,,0,,TIMEOUT
-7,1545,1,04:50,,10,2,40,MIN 23,0,ARI,
-7,1579,1,04:06,,8,2,39,MIN 8,0,ARI,
-7,1416,3,06:56,,10,2,5,MIN 48,0,ARI,PENALTY
-7,1470,2,06:15,,2,2,18,MIN 35,0,ARI,
-3,394,2,09:46,,7,1,3,ARI 28,0,ARI,
-3,515,1,07:35,,10,1,56,MIN 41,0,ARI,
-3,373,1,10:25,,10,1,3,ARI 25,0,ARI,
-3,539,1,06:46,,10,1,63,MIN 19,0,ARI,
-3,449,1,09:38,,10,1,12,ARI 33,0,ARI,
-3,491,1,08:20,,10,1,34,ARI 43,0,ARI,
-3,560,2,06:12,,3,1,62,MIN 12,0,ARI,
-3,581,3,05:30,,4,1,72,MIN 13,0,ARI,
-3,605,1,04:49,,3,1,74,MIN 3,0,ARI,
-3,416,3,09:42,,7,1,8,ARI 28,0,ARI,PENALTY
-3,644,0,04:07,,0,1,75,MIN 15,1,ARI,XP
-3,358,0,10:25,,0,1,0,MIN 35,0,MIN,KICKOFF
-3,470,2,08:59,,6,1,75,ARI 37,0,ARI,
-3,626,2,04:10,,1,1,75,MIN 1,1,ARI,TD
-17,3004,1,14:39,,10,4,11,ARI 36,0,ARI,
-17,2980,2,15:00,,4,4,19,ARI 31,0,ARI,
-17,2964,0,,,0,3,6,,0,,
-17,3026,2,14:35,,10,4,16,ARI 36,0,ARI,
-17,3071,4,13:34,,2,4,19,ARI 44,0,ARI,PUNT
-17,2940,1,00:04,,10,3,6,ARI 25,0,ARI,
-17,3047,3,14:04,,5,4,19,ARI 41,0,ARI,
-17,2925,0,00:04,,0,3,0,MIN 35,0,MIN,KICKOFF
-4,787,4,01:42,,11,1,10,MIN 35,0,MIN,PUNT
-4,675,1,04:07,,10,1,4,MIN 25,0,MIN,
-4,696,2,03:38,,6,1,11,MIN 29,0,MIN,
-4,741,2,02:28,,8,1,10,MIN 38,0,MIN,
-4,765,3,01:47,,11,1,10,MIN 35,0,MIN,
-4,660,0,04:07,,0,1,0,ARI 35,0,ARI,KICKOFF
-4,720,1,03:04,,10,1,13,MIN 36,0,MIN,
-2,264,2,11:13,,12,1,28,ARI 22,0,MIN,
-2,167,1,13:19,,10,1,44,ARI 44,0,MIN,
-2,342,0,10:25,,0,1,44,ARI 15,1,MIN,XP
-2,212,1,11:58,,10,1,32,ARI 20,0,MIN,
-2,285,3,10:30,,6,1,44,ARI 16,1,MIN,TD
-2,188,2,12:40,,8,1,24,ARI 42,0,MIN,
-2,233,2,11:18,,2,1,22,ARI 12,0,MIN,PENALTY
-15,2607,1,05:20,,10,3,0,ARI 31,0,ARI,INT
+24,4130,1,00:37,(:37) (Run formation) S.Bradford kneels to ARI 20 for -1 yards.,10,4,-1,ARI 19,0,MIN,
+24,4151,0,,END GAME,0,4,-1,,0,,
+20,3621,3,06:15,(6:15) (Shotgun) S.Bradford pass incomplete short middle to C.Patterson (C.Campbell).,6,4,4,MIN 29,0,MIN,
+20,3600,2,06:56,(6:56) J.McKinnon up the middle to MIN 29 for -4 yards (M.Golden).,2,4,4,MIN 33,0,MIN,
+20,3561,0,07:24,"C.Catanzaro kicks 65 yards from ARI 35 to end zone, Touchback.",0,4,0,ARI 35,0,ARI,KICKOFF
+20,3643,4,06:10,"(6:10) (Punt formation) J.Locke punts 50 yards to ARI 21, Center-K.McDermott. Jo.Brown pushed ob at MIN 47 for 32 yards (J.Locke).",6,4,4,MIN 29,0,MIN,PUNT
+20,3576,1,07:24,(7:24) (Shotgun) S.Bradford pass short left to S.Diggs pushed ob at MIN 33 for 8 yards (P.Peterson).,10,4,8,MIN 25,0,MIN,
+21,3690,2,05:16,(5:16) (Shotgun) C.Palmer sacked at ARI 45 for -8 yards (D.Hunter).,10,4,-8,MIN 47,0,ARI,
+21,3742,4,04:24,"(4:24) (Punt formation) D.Butler punts 51 yards to MIN 16, Center-A.Brewer. M.Sherels to MIN 47 for 31 yards (B.Golden). PENALTY on MIN-J.Kearse, Illegal Block Above the Waist, 8 yards, enforced at MIN 17. Penalty on MIN-A.Harris, Illegal Block Above the Waist, declined.",30,4,-20,ARI 33,0,ARI,PUNT
+21,3709,3,04:31,"(4:31) (Shotgun) C.Palmer pass incomplete short right [B.Robison]. PENALTY on ARI-C.Palmer, Intentional Grounding, 12 yards, enforced at ARI 45.",18,4,-20,ARI 45,0,ARI,PENALTY
+21,3669,1,05:56,(5:56) D.Johnson right end to MIN 47 for no gain (L.Joseph; T.Waynes).,10,4,0,MIN 47,0,ARI,
+22,3886,4,02:33,"(2:33) (Punt formation) J.Locke punts 72 yards to ARI 13, Center-K.McDermott, downed by MIN-K.Brothers.",4,4,6,MIN 15,0,MIN,PUNT
+22,3822,3,03:18,"(3:18) (Shotgun) PENALTY on MIN-J.Sirles, False Start, 5 yards, enforced at MIN 10 - No Play.",9,4,-4,MIN 10,0,MIN,PENALTY
+22,3862,3,03:18,(3:18) (Shotgun) S.Bradford pass short left to A.Thielen to MIN 15 for 10 yards (D.Swearinger).,14,4,6,MIN 5,0,MIN,
+22,3779,1,04:07,(4:07) M.Asiata up the middle to MIN 10 for 1 yard (K.Minter).,10,4,6,MIN 9,0,MIN,
+22,3800,2,03:26,(3:26) S.Bradford pass incomplete short right to R.Ellison [F.Rucker].,9,4,1,MIN 10,0,MIN,
+22,3845,0,03:18,Timeout #2 by MIN at 03:18.,0,4,-4,,0,,TIMEOUT
+23,3906,1,02:20,(2:20) (Shotgun) C.Palmer pass short left to J.Nelson to ARI 13 for no gain (L.Joseph).,10,4,0,ARI 13,0,ARI,
+23,4064,2,00:56,(:56) (Shotgun) C.Palmer pass short right to D.Johnson pushed ob at ARI 34 for 4 yards (T.Waynes).,10,4,21,ARI 30,0,ARI,
+23,4042,1,01:00,(1:00) (Shotgun) C.Palmer pass incomplete short right to J.Nelson [E.Griffen].,10,4,17,ARI 30,0,ARI,
+23,4088,3,00:50,(:50) (Shotgun) C.Palmer pass incomplete short left to J.Nelson.,6,4,21,ARI 34,0,ARI,
+23,3930,0,02:00,Two-Minute Warning,0,4,0,,0,,
+23,3947,2,02:00,(2:00) (Shotgun) C.Palmer pass incomplete deep middle to Jo.Brown (A.Sendejo) [E.Griffen].,10,4,0,ARI 13,0,ARI,
+23,3988,4,01:12,"(1:12) (Shotgun) C.Palmer pass incomplete deep middle to Jo.Brown. PENALTY on MIN-Tom.Johnson, Roughing the Passer, 15 yards, enforced at ARI 4 - No Play.",19,4,6,ARI 4,0,ARI,PENALTY
+23,4110,4,00:44,(:44) (Shotgun) C.Palmer sacked at ARI 19 for -15 yards (D.Hunter).,6,4,6,ARI 34,0,ARI,
+23,4021,1,01:07,(1:07) (Shotgun) C.Palmer scrambles right end pushed ob at ARI 30 for 11 yards (E.Griffen).,10,4,6,ARI 19,0,ARI,
+23,3969,3,01:53,(1:53) (Shotgun) C.Palmer sacked at ARI 4 for -9 yards (H.Smith).,10,4,-9,ARI 13,0,ARI,
+1,141,4,13:33,"(13:33) (Punt formation) D.Butler punts 36 yards to MIN 33, Center-A.Brewer. M.Sherels to ARI 44 for 23 yards (D.Butler).",4,1,6,ARI 31,0,ARI,PUNT
+1,51,1,15:00,"(15:00) PENALTY on ARI-A.Shipley, False Start, 5 yards, enforced at ARI 25 - No Play.",10,1,-5,ARI 25,0,ARI,PENALTY
+1,36,0,15:00,"K.Forbath kicks 65 yards from MIN 35 to end zone, Touchback.",0,1,0,MIN 35,0,MIN,KICKOFF
+1,98,2,14:18,(14:18) (Shotgun) D.Johnson up the middle to ARI 31 for 2 yards (S.Stephen; B.Robison).,6,1,6,ARI 29,0,ARI,
+1,74,1,15:00,(15:00) C.Palmer pass short right to L.Fitzgerald to ARI 29 for 9 yards (H.Smith).,15,1,4,ARI 20,0,ARI,
+1,119,3,13:36,(13:36) (Shotgun) C.Palmer pass incomplete short middle to Jo.Brown [B.Robison].,4,1,6,ARI 31,0,ARI,
+3,605,1,04:49,"(4:49) D.Johnson up the middle to MIN 1 for 2 yards (H.Smith, A.Sendejo).",3,1,74,MIN 3,0,ARI,
+3,449,1,09:38,(9:38) D.Johnson up the middle to ARI 37 for 4 yards (C.Greenway; E.Kendricks).,10,1,12,ARI 33,0,ARI,
+3,626,2,04:10,"(4:10) (Run formation) D.Johnson up the middle for 1 yard, TOUCHDOWN.",1,1,75,MIN 1,1,ARI,TD
+3,581,3,05:30,(5:30) (Shotgun) C.Palmer pass short middle to M.Floyd to MIN 3 for 10 yards (H.Smith).,4,1,72,MIN 13,0,ARI,
+3,560,2,06:12,(6:12) D.Johnson up the middle to MIN 13 for -1 yards (Tom.Johnson).,3,1,62,MIN 12,0,ARI,
+3,416,3,09:42,"(9:42) (Shotgun) C.Palmer pass incomplete short middle to L.Fitzgerald. PENALTY on MIN-C.Munnerlyn, Defensive Holding, 5 yards, enforced at ARI 28 - No Play.",7,1,8,ARI 28,0,ARI,PENALTY
+3,470,2,08:59,(8:59) D.Johnson left end to ARI 43 for 6 yards (L.Joseph).,6,1,75,ARI 37,0,ARI,
+3,644,0,04:07,"(Kick formation) C.Catanzaro extra point is GOOD, Center-A.Brewer, Holder-D.Butler.",0,1,75,MIN 15,1,ARI,XP
+3,394,2,09:46,(9:46) (Shotgun) C.Palmer pass incomplete short left to Jo.Brown.,7,1,3,ARI 28,0,ARI,
+3,373,1,10:25,(10:25) D.Johnson left end to ARI 28 for 3 yards (L.Joseph).,10,1,3,ARI 25,0,ARI,
+3,515,1,07:35,(7:35) C.Palmer pass short middle to D.Fells to MIN 19 for 22 yards (H.Smith; T.Waynes).,10,1,56,MIN 41,0,ARI,
+3,491,1,08:20,(8:20) C.Palmer pass short left to L.Fitzgerald to MIN 41 for 16 yards (X.Rhodes).,10,1,34,ARI 43,0,ARI,
+3,539,1,06:46,(6:46) (Shotgun) A.Ellington left end to MIN 12 for 7 yards (X.Rhodes).,10,1,63,MIN 19,0,ARI,
+3,358,0,10:25,"K.Forbath kicks 65 yards from MIN 35 to end zone, Touchback.",0,1,0,MIN 35,0,MIN,KICKOFF
+2,212,1,11:58,(11:58) (Shotgun) J.McKinnon up the middle to ARI 12 for 8 yards (J.Bethel).,10,1,32,ARI 20,0,MIN,
+2,342,0,10:25,"(Kick formation) K.Forbath extra point is GOOD, Center-K.McDermott, Holder-J.Locke.",0,1,44,ARI 15,1,MIN,XP
+2,264,2,11:13,(11:13) J.McKinnon right guard to ARI 16 for 6 yards (D.Swearinger).,12,1,28,ARI 22,0,MIN,
+2,188,2,12:40,(12:40) (Shotgun) S.Bradford pass short right to A.Thielen to ARI 20 for 22 yards (M.Cooper).,8,1,24,ARI 42,0,MIN,
+2,167,1,13:19,(13:19) J.McKinnon left guard to ARI 42 for 2 yards (Ch.Jones).,10,1,44,ARI 44,0,MIN,
+2,285,3,10:30,"(10:30) (Shotgun) S.Bradford pass incomplete deep right to A.Thielen. Minnesota challenged the incomplete pass ruling, and the play was REVERSED. (Shotgun) S.Bradford pass deep right to A.Thielen for 16 yards, TOUCHDOWN.",6,1,44,ARI 16,1,MIN,TD
+2,233,2,11:18,"(11:18) (Shotgun) S.Bradford pass short left to K.Rudolph for 12 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on MIN-J.Sirles, Illegal Use of Hands, 10 yards, enforced at ARI 12 - No Play.",2,1,22,ARI 12,0,MIN,PENALTY
+5,1050,2,10:57,(10:57) D.Johnson up the middle to MIN 16 for 1 yard (E.Kendricks).,3,2,78,MIN 17,0,ARI,
+5,856,2,00:50,(:50) D.Johnson right tackle to ARI 25 for 10 yards (T.Newman; A.Barr).,1,1,19,ARI 15,0,ARI,
+5,835,1,01:30,(1:30) D.Johnson left tackle to ARI 15 for 9 yards (H.Smith).,10,1,9,ARI 6,0,ARI,
+5,898,0,,END QUARTER 1,0,1,30,,0,,
+5,877,1,00:09,(:09) D.Johnson left tackle to ARI 36 for 11 yards (H.Smith).,10,1,30,ARI 25,0,ARI,
+5,1093,4,10:08,"(10:08) (Field Goal formation) C.Catanzaro 34 yard field goal is GOOD, Center-A.Brewer, Holder-D.Butler.",2,2,78,MIN 16,1,ARI,FG
+5,981,1,13:04,(13:04) D.Johnson left tackle to MIN 35 for 3 yards (E.Griffen; L.Joseph). ARI-M.Iupati was injured during the play.,10,2,59,MIN 38,0,ARI,
+5,1029,1,11:38,(11:38) D.Johnson right tackle to MIN 17 for 7 yards (T.Waynes).,10,2,77,MIN 24,0,ARI,
+5,957,1,13:47,(13:47) C.Palmer pass short right to L.Fitzgerald to MIN 38 for 13 yards (T.Newman) [S.Stephen].,10,2,56,ARI 49,0,ARI,
+5,1071,3,10:13,(10:13) (Shotgun) C.Palmer pass incomplete short right to M.Floyd.,2,2,78,MIN 16,0,ARI,
+5,915,1,15:00,(15:00) D.Johnson up the middle to ARI 39 for 3 yards (S.Stephen).,10,2,33,ARI 36,0,ARI,
+5,1005,2,12:16,(12:16) (Shotgun) C.Palmer pass short right to M.Floyd to MIN 24 for 11 yards (C.Munnerlyn).,7,2,70,MIN 35,0,ARI,
+5,936,2,14:24,(14:24) D.Johnson left guard to ARI 49 for 10 yards (L.Joseph).,7,2,43,ARI 39,0,ARI,
+4,741,2,02:28,(2:28) (Shotgun) S.Bradford pass short left to J.McKinnon to MIN 35 for -3 yards (F.Rucker).,8,1,10,MIN 38,0,MIN,
+4,787,4,01:42,"(1:42) (Punt formation) J.Locke punts 53 yards to ARI 12, Center-K.McDermott. Jo.Brown to ARI 18 for 6 yards (K.Brothers). PENALTY on ARI-P.Peterson, Offensive Holding, 6 yards, enforced at ARI 12.",11,1,10,MIN 35,0,MIN,PUNT
+4,696,2,03:38,(3:38) (Shotgun) S.Bradford pass short left to A.Thielen to MIN 36 for 7 yards (J.Bethel) [J.Mauro].,6,1,11,MIN 29,0,MIN,
+4,675,1,04:07,(4:07) (Shotgun) J.McKinnon right tackle to MIN 29 for 4 yards (K.Minter).,10,1,4,MIN 25,0,MIN,
+4,765,3,01:47,(1:47) (Shotgun) S.Bradford pass incomplete deep middle to S.Diggs.,11,1,10,MIN 35,0,MIN,
+4,720,1,03:04,(3:04) J.McKinnon up the middle to MIN 38 for 2 yards (E.Stinson).,10,1,13,MIN 36,0,MIN,
+4,660,0,04:07,"C.Catanzaro kicks 65 yards from ARI 35 to end zone, Touchback.",0,1,0,ARI 35,0,ARI,KICKOFF
+7,1349,0,07:07,Timeout #1 by ARI at 07:07.,0,2,0,,0,,TIMEOUT
+7,1545,1,04:50,(4:50) C.Palmer pass short right to L.Fitzgerald to MIN 8 for 15 yards (T.Waynes).,10,2,40,MIN 23,0,ARI,
+7,1327,0,07:16,K.Forbath kicks 62 yards from MIN 35 to ARI 3. B.Golden to MIN 48 for 49 yards (K.Forbath).,0,2,0,MIN 35,0,MIN,KICKOFF
+7,1622,3,03:23,"(3:23) (Shotgun) C.Palmer pass short left intended for Jo.Brown INTERCEPTED by X.Rhodes at MIN 0. X.Rhodes for 100 yards, TOUCHDOWN.",9,2,39,MIN 9,1,ARI,TD
+7,1600,2,03:28,(3:28) (Shotgun) C.Palmer pass incomplete short right to L.Fitzgerald (T.Waynes).,9,2,39,MIN 9,0,ARI,
+7,1579,1,04:06,(4:06) (Shotgun) A.Ellington left end to MIN 9 for -1 yards (E.Kendricks).,8,2,39,MIN 8,0,ARI,
+7,1366,1,07:07,(7:07) C.Palmer pass incomplete short right to A.Ellington.,10,2,0,MIN 48,0,ARI,
+7,1491,1,05:38,(5:38) A.Ellington right end to MIN 28 for 2 yards (H.Smith).,10,2,20,MIN 30,0,ARI,
+7,1470,2,06:15,(6:15) A.Ellington up the middle to MIN 30 for 5 yards (L.Joseph; A.Sendejo).,2,2,18,MIN 35,0,ARI,
+7,1388,2,07:03,(7:03) C.Palmer pass incomplete short left to J.Nelson [D.Hunter].,10,2,0,MIN 48,0,ARI,
+7,1449,1,06:51,(6:51) A.Ellington left guard to MIN 35 for 8 yards (A.Barr).,10,2,13,MIN 43,0,ARI,
+7,1416,3,06:56,"(6:56) (Shotgun) C.Palmer pass incomplete short middle to L.Fitzgerald. PENALTY on MIN-T.Waynes, Illegal Contact, 5 yards, enforced at MIN 48 - No Play.",10,2,5,MIN 48,0,ARI,PENALTY
+7,1512,2,04:54,"(4:54) C.Palmer pass incomplete short right to M.Floyd [A.Barr]. PENALTY on MIN-T.Waynes, Defensive Holding, 5 yards, enforced at MIN 28 - No Play.",8,2,25,MIN 28,0,ARI,PENALTY
+6,1128,1,10:04,(10:04) (Shotgun) S.Bradford pass short right to K.Rudolph to MIN 33 for 8 yards (D.Swearinger).,10,2,8,MIN 25,0,MIN,
+6,1173,3,08:48,(8:48) (Shotgun) S.Bradford pass short left to C.Patterson pushed ob at ARI 36 for 30 yards (D.Bucannon).,1,2,39,MIN 34,0,MIN,
+6,1311,0,07:16,"(Kick formation) K.Forbath extra point is Blocked (J.Bethel), Center-K.McDermott, Holder-J.Locke.",0,2,75,ARI 15,0,MIN,XPB
+6,1218,2,07:27,"(7:27) (Shotgun) S.Bradford pass incomplete deep middle to A.Thielen (T.Jefferson). PENALTY on ARI-T.Jefferson, Defensive Pass Interference, 29 yards, enforced at ARI 31 - No Play.",5,2,73,ARI 31,0,MIN,PENALTY
+6,1197,1,08:08,(8:08) (Shotgun) J.McKinnon up the middle to ARI 31 for 5 yards (K.Minter; R.Gunter).,10,2,44,ARI 36,0,MIN,
+6,1152,2,09:29,(9:29) J.McKinnon left guard to MIN 34 for 1 yard (F.Rucker).,2,2,9,MIN 33,0,MIN,
+6,1113,0,10:04,"C.Catanzaro kicks 65 yards from ARI 35 to end zone, Touchback.",0,2,0,ARI 35,0,ARI,KICKOFF
+6,1251,1,07:19,"(7:19) M.Asiata up the middle to ARI 1 for 1 yard (D.Bucannon; J.Mauro). Minnesota challenged the runner was down by contact ruling, and the play was REVERSED. M.Asiata up the middle for 2 yards, TOUCHDOWN.",2,2,75,ARI 2,1,MIN,TD
+9,1986,1,00:20,(:20) (Shotgun) S.Bradford sacked at MIN 24 for -14 yards (A.Okafor).,10,2,-1,MIN 38,0,MIN,
+9,1969,0,00:20,Timeout #1 by MIN at 00:20.,0,2,13,,0,,TIMEOUT
+9,1945,3,00:27,(:27) (Shotgun) S.Bradford pass short right to M.Asiata to MIN 38 for 7 yards (T.Jefferson).,4,2,13,MIN 31,0,MIN,
+9,1923,2,00:31,(:31) (Shotgun) S.Bradford pass incomplete short middle to K.Rudolph (C.Campbell).,4,2,6,MIN 31,0,MIN,
+9,2005,0,,END QUARTER 2,0,2,-1,,0,,
+9,1887,0,00:50,"C.Catanzaro kicks 65 yards from ARI 35 to end zone, Touchback.",0,2,0,ARI 35,0,ARI,KICKOFF
+9,1902,1,00:50,(:50) (Shotgun) R.Hillman up the middle to MIN 31 for 6 yards (T.Jefferson).,10,2,6,MIN 25,0,MIN,
+8,1700,1,02:30,(2:30) (Shotgun) D.Johnson right tackle to ARI 48 for 8 yards (A.Sendejo).,10,2,23,ARI 40,0,ARI,
+8,1850,1,00:58,"(:58) (Shotgun) C.Palmer pass short middle to J.Gresham for 29 yards, TOUCHDOWN.",10,2,75,MIN 29,1,ARI,TD
+8,1781,2,01:53,"(1:53) (Shotgun) C.Palmer pass short left to J.Gresham to MIN 38 for 4 yards (C.Munnerlyn). FUMBLES (C.Munnerlyn), ball out of bounds at MIN 35.",10,2,37,MIN 42,0,ARI,FUMBLE
+8,1826,3,01:20,(1:20) (Shotgun) C.Palmer pass short middle to D.Johnson to MIN 29 for 9 yards (H.Smith).,6,2,46,MIN 38,0,ARI,
+8,1809,0,01:20,Timeout #2 by ARI at 01:20.,0,2,37,,0,,TIMEOUT
+8,1721,2,02:03,(2:03) (Shotgun) D.Johnson right end pushed ob at MIN 42 for 10 yards (A.Barr).,2,2,33,ARI 48,0,ARI,
+8,1661,0,03:07,"K.Forbath kicks 65 yards from MIN 35 to end zone, Touchback.",0,2,0,MIN 35,0,MIN,KICKOFF
+8,1759,1,01:57,(1:57) (Shotgun) C.Palmer pass incomplete short right to D.Johnson [Tom.Johnson].,10,2,33,MIN 42,0,ARI,
+8,1871,0,00:50,"(Kick formation) C.Catanzaro extra point is GOOD, Center-A.Brewer, Holder-D.Butler.",0,2,75,MIN 15,1,ARI,XP
+8,1676,1,03:07,(3:07) (Shotgun) C.Palmer pass short middle to D.Johnson to ARI 40 for 15 yards (A.Barr).,10,2,15,ARI 25,0,ARI,
+8,1742,0,01:57,Two-Minute Warning,0,2,33,,0,,
+11,2091,2,14:12,(14:12) C.Palmer pass incomplete short left to D.Johnson (E.Kendricks).,7,3,3,ARI 28,0,ARI,
+11,2113,3,14:06,(14:06) (Shotgun) C.Palmer pass incomplete short middle to D.Johnson [E.Griffen].,7,3,3,ARI 28,0,ARI,
+11,2070,1,14:47,(14:47) D.Johnson right tackle to ARI 28 for 3 yards (T.Waynes).,10,3,3,ARI 25,0,ARI,
+11,2055,0,14:47,"K.Forbath kicks 65 yards from MIN 35 to end zone, Touchback.",0,3,0,MIN 35,0,MIN,KICKOFF
+11,2139,4,13:59,"(13:59) D.Butler punts 48 yards to MIN 24, Center-A.Brewer, fair catch by M.Sherels.",7,3,3,ARI 28,0,ARI,PUNT
+10,2021,0,15:00,"C.Catanzaro kicks 69 yards from ARI 35 to MIN -4. C.Patterson for 104 yards, TOUCHDOWN.",0,3,0,ARI 35,1,ARI,TD
+10,2039,0,14:47,"K.Forbath extra point is GOOD, Center-K.McDermott, Holder-J.Locke.",0,3,0,ARI 15,1,MIN,XP
+13,2367,1,09:48,(9:48) D.Johnson up the middle to ARI 43 for 5 yards (T.Waynes).,10,3,5,ARI 38,0,ARI,
+13,2388,2,09:10,(9:10) D.Johnson up the middle to ARI 44 for 1 yard (T.Waynes; A.Barr).,5,3,6,ARI 43,0,ARI,
+13,2428,4,07:47,"(7:47) D.Butler punts 49 yards to MIN 18, Center-A.Brewer. M.Sherels to MIN 29 for 11 yards (Z.Gooden).",15,3,-5,ARI 33,0,ARI,PUNT
+13,2409,3,08:26,(8:26) (Shotgun) C.Palmer sacked at ARI 33 for -11 yards (B.Robison).,4,3,-5,ARI 44,0,ARI,
+12,2345,4,09:53,(9:53) (Shotgun) S.Bradford pass incomplete short middle to C.Patterson (M.Cooper).,3,3,38,ARI 38,0,MIN,
+12,2328,0,09:53,Timeout #1 by MIN at 09:53.,0,3,38,,0,,TIMEOUT
+12,2206,1,12:58,(12:58) J.McKinnon up the middle to 50 for 5 yards (K.Minter).,10,3,26,MIN 45,0,MIN,
+12,2227,2,12:19,"(12:19) S.Bradford pass short right to R.Ellison to 50 for no gain (K.Minter). PENALTY on ARI-M.Golden, Defensive Holding, 5 yards, enforced at 50 - No Play.",5,3,38,50,0,MIN,PENALTY
+12,2283,2,11:12,(11:12) J.McKinnon left end to ARI 48 for no gain (C.Campbell).,13,3,38,ARI 48,0,MIN,
+12,2304,3,10:33,(10:33) (Shotgun) S.Bradford pass short right to A.Thielen to ARI 38 for 10 yards (M.Cooper).,13,3,38,ARI 48,0,MIN,
+12,2182,2,13:20,(13:20) (Shotgun) J.McKinnon right end to MIN 45 for 12 yards (D.Swearinger; Ch.Jones). ARI-C.Campbell was injured during the play.,1,3,21,MIN 33,0,MIN,
+12,2262,1,11:49,(11:49) (Shotgun) J.McKinnon up the middle to ARI 48 for -3 yards (F.Rucker).,10,3,28,ARI 45,0,MIN,
+12,2158,1,13:54,(13:54) (Shotgun) S.Bradford pass short middle to S.Diggs to MIN 33 for 9 yards (P.Peterson).,10,3,9,MIN 24,0,MIN,
+15,2607,1,05:20,(5:20) C.Palmer pass deep middle intended for M.Floyd INTERCEPTED by X.Rhodes at MIN 16. X.Rhodes to MIN 16 for no gain (M.Floyd).,10,3,0,ARI 31,0,ARI,INT
+14,2499,3,06:48,"(6:48) (Shotgun) S.Bradford pass short right to A.Thielen to ARI 46 for 21 yards (T.Jefferson). PENALTY on MIN-A.Thielen, Offensive Pass Interference, 10 yards, enforced at MIN 33 - No Play.",6,3,-6,MIN 33,0,MIN,PENALTY
+14,2475,2,07:31,(7:31) (Shotgun) S.Bradford pass short right to K.Rudolph to MIN 33 for 4 yards (D.Bucannon).,10,3,4,MIN 29,0,MIN,
+14,2582,4,05:30,"(5:30) J.Locke punts 50 yards to ARI 27, Center-K.McDermott. Jo.Brown to ARI 31 for 4 yards (K.Brothers).",16,3,-6,MIN 23,0,MIN,PUNT
+14,2561,3,06:14,(6:14) (Shotgun) M.Asiata left guard to MIN 23 for 5 yards (M.Golden; A.Okafor).,21,3,-6,MIN 18,0,MIN,
+14,2453,1,07:36,(7:36) (Shotgun) S.Bradford pass incomplete short right to C.Patterson (P.Peterson).,10,3,0,MIN 29,0,MIN,
+14,2534,3,06:15,"(6:15) (Shotgun) PENALTY on MIN-S.Bradford, Delay of Game, 5 yards, enforced at MIN 23 - No Play.",16,3,-11,MIN 23,0,MIN,PENALTY
+17,2964,0,,END QUARTER 3,0,3,6,,0,,
+17,3071,4,13:34,"(13:34) (Punt formation) D.Butler punts 40 yards to MIN 16, Center-A.Brewer, fair catch by M.Sherels.",2,4,19,ARI 44,0,ARI,PUNT
+17,3026,2,14:35,(14:35) (Shotgun) D.Johnson right tackle to ARI 41 for 5 yards (A.Barr; E.Kendricks).,10,4,16,ARI 36,0,ARI,
+17,2980,2,15:00,(15:00) (Shotgun) C.Palmer pass short middle to D.Johnson to ARI 36 for 5 yards (A.Barr).,4,4,19,ARI 31,0,ARI,
+17,2925,0,00:04,"K.Forbath kicks 65 yards from MIN 35 to end zone, Touchback.",0,3,0,MIN 35,0,MIN,KICKOFF
+17,3004,1,14:39,"(14:39) (No Huddle, Shotgun) C.Palmer pass incomplete short right to D.Johnson.",10,4,11,ARI 36,0,ARI,
+17,3047,3,14:04,"(14:04) (No Huddle, Shotgun) C.Palmer pass short left to L.Fitzgerald to ARI 44 for 3 yards (X.Rhodes; C.Munnerlyn).",5,4,19,ARI 41,0,ARI,
+17,2940,1,00:04,(:04) (Shotgun) C.Palmer pass short right to D.Johnson to ARI 31 for 6 yards (E.Kendricks).,10,3,6,ARI 25,0,ARI,
+16,2727,1,03:40,"(3:40) (Shotgun) M.Asiata left guard to ARI 49 for 9 yards (E.Stinson). PENALTY on ARI-P.Peterson, Unnecessary Roughness, 15 yards, enforced at ARI 49.",10,3,75,MIN 42,0,MIN,PENALTY
+16,2863,2,00:55,(:55) J.McKinnon right guard to ARI 9 for 1 yard (K.Minter; C.Campbell).,10,3,75,ARI 10,0,MIN,
+16,2884,3,00:13,(:13) (Shotgun) S.Bradford pass incomplete short left to C.Patterson.,9,3,75,ARI 9,0,MIN,
+16,2783,2,02:32,(2:32) (Shotgun) J.McKinnon up the middle to ARI 30 for 2 yards (D.Bucannon).,8,3,54,ARI 32,0,MIN,
+16,2644,1,05:10,(5:10) S.Bradford pass short right to S.Diggs to MIN 24 for 8 yards (M.Golden).,10,3,8,MIN 16,0,MIN,
+16,2906,4,00:07,"(:07) (Field Goal formation) K.Forbath 27 yard field goal is GOOD, Center-K.McDermott, Holder-J.Locke.",9,3,75,ARI 9,1,MIN,FG
+16,2804,3,01:59,"(1:59) (Shotgun) S.Bradford pass short left to S.Diggs to ARI 17 for 13 yards (P.Peterson). PENALTY on ARI-T.Jefferson, Unnecessary Roughness, 9 yards, enforced at ARI 17.",6,3,76,ARI 30,0,MIN,PENALTY
+16,2839,1,01:34,(1:34) (Shotgun) S.Bradford pass short right to R.Ellison to ARI 10 for -2 yards (K.Minter).,8,3,74,ARI 8,0,MIN,
+16,2692,3,03:55,"(3:55) (Shotgun) S.Bradford pass short left to C.Patterson to MIN 27 for 6 yards (J.Bethel) [M.Golden]. PENALTY on ARI-M.Golden, Roughing the Passer, 15 yards, enforced at MIN 27.",5,3,26,MIN 21,0,MIN,PENALTY
+16,2668,2,04:33,(4:33) (Shotgun) S.Bradford pass short left to S.Diggs to MIN 21 for -3 yards (Ch.Jones).,2,3,5,MIN 24,0,MIN,
+16,2759,1,03:12,(3:12) S.Bradford pass short right to S.Diggs to ARI 32 for 2 yards (Ch.Jones).,10,3,52,ARI 34,0,MIN,
+19,3545,0,07:24,"(Kick formation) C.Catanzaro extra point is GOOD, Center-A.Brewer, Holder-D.Butler.",0,4,27,MIN 15,1,ARI,XP
+19,3454,3,08:34,"(8:34) (Shotgun) C.Palmer pass short right to D.Johnson to MIN 11 for 14 yards (H.Smith, A.Sendejo) [Tom.Johnson].",8,4,16,MIN 25,0,ARI,
+19,3502,2,07:32,(7:32) (Shotgun) C.Palmer pass incomplete short left to M.Floyd [B.Robison].,3,4,23,MIN 4,0,ARI,
+19,3478,1,08:01,(8:01) (Shotgun) C.Palmer pass short middle to L.Fitzgerald to MIN 4 for 7 yards (C.Munnerlyn).,10,4,23,MIN 11,0,ARI,
+19,3388,1,09:10,(9:10) (Shotgun) C.Palmer pass short right to A.Ellington to MIN 25 for 2 yards (T.Waynes). MIN-E.Kendricks was injured during the play.,10,4,2,MIN 27,0,ARI,
+19,3437,0,08:34,Timeout #2 by ARI at 08:34.,0,4,2,,0,,TIMEOUT
+19,3524,3,07:28,"(7:28) (Shotgun) C.Palmer pass short right to D.Johnson for 4 yards, TOUCHDOWN.",3,4,27,MIN 4,1,ARI,TD
+19,3415,2,08:40,(8:40) (Shotgun) C.Palmer pass incomplete deep middle to J.Nelson [B.Robison].,8,4,2,MIN 25,0,ARI,
+18,3207,1,10:03,(10:03) (Shotgun) R.Hillman right end to MIN 42 for 3 yards (K.Minter).,10,4,26,MIN 39,0,MIN,
+18,3228,2,09:19,"(9:19) S.Bradford pass incomplete short middle to R.Ellison [K.Minter]. Arizona challenged the incomplete pass ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",7,4,26,MIN 42,0,MIN,TIMEOUT
+18,3139,3,12:07,(12:07) (Run formation) B.Fusco reported in as eligible.  M.Asiata up the middle to MIN 28 for 3 yards (F.Rucker; R.Gunter).,1,4,12,MIN 25,0,MIN,
+18,3115,2,12:50,(12:50) (Shotgun) S.Bradford pass short right to C.Patterson to MIN 25 for 10 yards (D.Bucannon; T.Jefferson).,11,4,9,MIN 15,0,MIN,
+18,3186,2,10:45,(10:45) J.McKinnon right tackle to MIN 39 for 4 yards (C.Campbell; D.Bucannon).,3,4,23,MIN 35,0,MIN,
+18,3090,1,13:26,(13:26) (Shotgun) J.McKinnon up the middle to MIN 15 for -1 yards (J.Bethel).,10,4,-1,MIN 16,0,MIN,
+18,3315,3,09:16,"(9:16) (Shotgun) S.Bradford sacked at MIN 26 for -11 yards (Ch.Jones). FUMBLES (Ch.Jones) [Ch.Jones], RECOVERED by ARI-D.Bucannon at MIN 27. D.Bucannon to MIN 27 for no gain (M.Asiata). The Replay Official reviewed the fumble ruling, and the play was Upheld. The ruling on the field stands.",12,4,11,MIN 37,0,MIN,FUMBLE
+18,3162,1,11:24,(11:24) (Shotgun) S.Bradford pass short right to C.Patterson to MIN 35 for 7 yards (J.Bethel).,10,4,19,MIN 28,0,MIN,
+18,3292,3,09:16,"(9:16) (Shotgun) PENALTY on MIN-S.Diggs, False Start, 5 yards, enforced at MIN 42 - No Play.",7,4,21,MIN 42,0,MIN,PENALTY

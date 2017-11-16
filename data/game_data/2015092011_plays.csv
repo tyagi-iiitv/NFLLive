@@ -1,189 +1,189 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1732,0,01:48,,0,2,0,MIA 35,0,MIA,KICKOFF
-9,1747,1,01:48,,10,2,0,JAC 20,0,JAC,
-9,1769,2,01:44,,10,2,0,JAC 20,0,JAC,
-9,1822,4,01:28,,12,2,-2,JAC 18,0,JAC,PUNT
-9,1798,3,01:35,,10,2,-2,JAC 20,0,JAC,
-24,4437,3,00:26,,1,4,9,MIA 29,0,MIA,
-24,4415,2,00:40,,1,4,9,MIA 29,0,MIA,
-24,4459,4,00:20,,1,4,9,MIA 29,0,MIA,
-24,4376,0,00:40,,0,4,0,JAC 35,0,JAC,KICKOFF
-24,4391,1,00:40,,10,4,9,MIA 20,0,MIA,
-10,2015,3,00:34,,7,2,31,JAC 29,0,MIA,PENALTY
-10,2072,4,00:22,,2,2,31,JAC 24,0,MIA,FGM
-10,1937,2,01:02,,7,2,21,JAC 29,0,MIA,PENALTY
-10,1960,0,00:42,,0,2,21,,0,,TIMEOUT
-10,1998,0,00:34,,0,2,26,,0,,TIMEOUT
-10,1872,2,01:11,,9,2,23,MIA 46,0,MIA,
-10,2050,3,00:28,,2,2,31,JAC 24,0,MIA,
-10,1913,1,01:02,,10,2,26,JAC 32,0,MIA,
-10,1896,0,01:02,,0,2,23,,0,,TIMEOUT
-10,1977,2,00:42,,12,2,26,JAC 34,0,MIA,
-10,1848,1,01:16,,10,2,1,MIA 45,0,MIA,
-20,3634,1,08:21,,10,4,2,MIA 23,0,MIA,
-20,3736,4,06:53,,8,4,2,MIA 25,0,MIA,PUNT
-20,3690,2,07:29,,11,4,2,MIA 22,0,MIA,
-20,3658,2,07:44,,1,4,2,MIA 32,0,MIA,PENALTY
-20,3714,3,06:59,,8,4,-8,MIA 25,0,MIA,
-6,972,1,14:44,,10,2,4,MIA 20,0,MIA,
-6,1041,1,12:52,,10,2,34,MIA 45,0,MIA,
-6,993,2,14:03,,6,2,7,MIA 24,0,MIA,
-6,1157,3,10:16,,5,2,56,JAC 24,0,MIA,
-6,1112,1,11:33,,10,2,53,JAC 29,0,MIA,
-6,1066,2,12:18,,1,2,34,JAC 46,0,MIA,
-6,1017,3,13:20,,3,2,25,MIA 27,0,MIA,
-6,1136,2,10:57,,8,2,56,JAC 27,0,MIA,
-6,1088,3,12:12,,1,2,51,JAC 46,0,MIA,
-6,1179,4,10:16,,5,2,56,JAC 24,1,MIA,FG
-18,3353,1,11:31,,10,4,3,MIA 35,0,MIA,
-18,3329,1,12:06,,10,4,11,MIA 24,0,MIA,
-18,3419,3,09:50,,6,4,15,MIA 39,0,MIA,TIMEOUT
-18,3513,4,09:39,,6,4,15,MIA 39,0,MIA,PUNT
-18,3395,2,10:25,,23,4,15,MIA 22,0,MIA,
-18,3372,2,11:31,,18,4,-2,MIA 27,0,MIA,PENALTY
-25,4503,0,00:00,,0,4,-1,,0,,
-25,4482,1,00:15,,10,4,-1,MIA 29,0,JAC,
-1,107,1,13:49,,10,1,13,JAC 29,0,JAC,
-1,128,2,13:12,,8,1,14,JAC 31,0,JAC,
-1,40,0,15:00,,0,1,0,MIA 35,0,MIA,KICKOFF
-1,230,1,11:07,,10,1,77,MIA 11,0,JAC,
-1,182,3,12:32,,2,1,35,JAC 37,0,JAC,
-1,206,1,11:53,,10,1,71,MIA 47,0,JAC,
-1,364,0,09:21,,0,1,82,MIA 15,1,JAC,XP
-1,343,2,09:28,,3,1,82,MIA 3,1,JAC,TD
-1,83,2,14:20,,8,1,11,JAC 20,0,JAC,
-1,149,3,12:35,,7,1,82,JAC 32,0,JAC,PENALTY
-1,62,1,14:56,,10,1,2,JAC 18,0,JAC,
-1,322,1,10:11,,1,1,79,MIA 1,0,JAC,
-1,251,2,10:25,,4,1,81,MIA 5,0,JAC,
-5,904,0,,,0,1,20,,0,,
-5,833,1,01:42,,10,1,12,JAC 28,0,JAC,
-5,854,1,01:00,,10,1,16,JAC 40,0,JAC,
-5,920,3,15:00,,2,2,20,JAC 48,0,JAC,
-5,953,4,14:55,,2,2,20,JAC 48,0,JAC,PUNT
-5,880,2,00:22,,6,1,20,JAC 44,0,JAC,
-13,2447,1,10:28,,10,3,-10,JAC 20,0,JAC,PENALTY
-13,2591,1,07:28,,10,3,33,MIA 48,0,JAC,
-13,2656,4,06:37,,9,3,33,MIA 47,0,JAC,PUNT
-13,2482,1,10:06,,20,3,-6,JAC 10,0,JAC,
-13,2570,2,08:11,,3,3,32,JAC 45,0,JAC,
-13,2432,0,10:28,,0,3,0,MIA 35,0,MIA,KICKOFF
-13,2503,2,09:27,,16,3,-6,JAC 14,0,JAC,
-13,2525,3,09:22,,16,3,18,JAC 14,0,JAC,
-13,2612,2,06:47,,9,3,33,MIA 47,0,JAC,
-13,2549,1,08:43,,10,3,25,JAC 38,0,JAC,
-13,2634,3,06:42,,9,3,33,MIA 47,0,JAC,
-21,3884,0,03:52,,0,4,22,,0,,TIMEOUT
-21,3767,1,06:45,,10,4,6,JAC 32,0,JAC,
-21,3922,4,03:06,,3,4,20,MIA 48,0,JAC,PUNT
-21,3809,3,05:38,,2,4,13,JAC 40,0,JAC,PENALTY
-21,3863,2,04:40,,3,4,22,MIA 48,0,JAC,
-21,3901,3,03:52,,1,4,20,MIA 46,0,JAC,
-21,3788,2,06:17,,4,4,8,JAC 38,0,JAC,
-21,3839,1,05:16,,10,4,20,JAC 45,0,JAC,
-23,4153,1,01:13,,10,4,27,MIA 39,0,JAC,PENALTY
-23,4186,1,01:11,,20,4,36,MIA 49,0,JAC,
-23,4210,2,01:06,,11,4,66,MIA 40,0,JAC,PENALTY
-23,4301,0,00:48,,0,4,66,,0,,TIMEOUT
-23,4280,2,00:54,,7,4,66,MIA 16,0,JAC,
-23,4107,1,01:22,,10,4,18,JAC 42,0,JAC,
-23,4318,3,00:48,,1,4,66,MIA 10,0,JAC,
-23,4083,1,01:48,,10,4,18,JAC 24,0,JAC,
-23,4263,0,00:54,,0,4,60,,0,,TIMEOUT
-23,4129,2,01:19,,10,4,37,JAC 42,0,JAC,
-23,4356,4,00:43,,1,4,66,MIA 10,1,JAC,FG
-23,4242,1,00:59,,10,4,60,MIA 19,0,JAC,
-23,4339,0,00:43,,0,4,66,,0,,TIMEOUT
-11,2115,2,00:13,,10,2,28,JAC 32,0,JAC,
-11,2172,1,00:02,,10,2,27,MIA 40,1,JAC,FG
-11,2093,1,00:18,,10,2,28,JAC 32,0,JAC,
-11,2139,1,00:07,,10,2,27,JAC 43,0,JAC,PENALTY
-14,2695,2,05:51,,6,3,22,MIA 24,0,MIA,PENALTY
-14,2771,3,04:57,,15,3,22,MIA 34,0,MIA,
-14,2728,1,05:46,,10,3,19,MIA 39,0,MIA,
-14,2674,1,06:30,,10,3,4,MIA 20,0,MIA,
-14,2750,2,05:41,,10,3,14,MIA 39,0,MIA,
-14,2795,4,04:16,,7,3,22,MIA 42,0,MIA,PUNT
-8,1678,0,01:55,,0,2,72,,0,,TIMEOUT
-8,1657,2,02:00,,4,2,72,JAC 8,0,MIA,
-8,1640,0,02:00,,0,2,74,,0,,
-8,1716,0,01:48,,0,2,82,JAC 15,1,MIA,XP
-8,1584,3,03:05,,2,2,82,MIA 45,0,MIA,PENALTY
-8,1695,3,01:55,,6,2,82,JAC 10,1,MIA,TD
-8,1493,0,05:03,,0,2,0,JAC 35,0,JAC,KICKOFF
-8,1515,1,04:55,,10,2,19,MIA 18,0,MIA,
-8,1539,1,04:18,,10,2,23,MIA 37,0,MIA,
-8,1560,2,03:40,,6,2,27,MIA 41,0,MIA,
-8,1619,1,02:40,,10,2,74,JAC 14,0,MIA,
-19,3539,1,09:23,,10,4,-1,JAC 34,0,JAC,
-19,3604,4,08:30,,11,4,-1,JAC 33,0,JAC,PUNT
-19,3582,3,08:39,,11,4,-1,JAC 33,0,JAC,
-19,3560,2,08:42,,11,4,-1,JAC 33,0,JAC,
-22,3971,2,02:17,,17,4,-7,MIA 1,0,MIA,
-22,3993,3,02:12,,17,4,6,MIA 1,0,MIA,
-22,4034,4,02:00,,4,4,6,MIA 14,0,MIA,PUNT
-22,3942,1,03:02,,10,4,-7,MIA 8,0,MIA,FUMBLE
-22,4017,0,02:00,,0,4,6,,0,,
-12,2244,1,14:18,,10,3,48,MIA 32,0,MIA,
-12,2395,2,10:33,,5,3,80,JAC 5,1,MIA,TD
-12,2220,1,15:00,,10,3,12,MIA 20,0,MIA,
-12,2374,1,11:11,,6,3,75,JAC 6,0,MIA,
-12,2205,0,15:00,,0,3,0,JAC 35,0,JAC,KICKOFF
-12,2345,1,11:45,,10,3,74,JAC 19,0,MIA,
-12,2268,1,13:36,,10,3,44,JAC 32,0,MIA,PENALTY
-12,2321,2,12:26,,11,3,61,JAC 33,0,MIA,
-12,2416,0,10:28,,0,3,80,JAC 15,1,MIA,XP
-12,2300,1,13:08,,14,3,47,JAC 36,0,MIA,
-16,3077,1,13:45,,10,4,15,JAC 39,0,MIA,PENALTY
-16,3163,3,12:45,,9,4,26,JAC 38,0,MIA,
-16,3212,4,12:37,,14,4,21,JAC 43,0,MIA,PUNT
-16,3028,1,15:00,,10,4,15,MIA 49,0,MIA,
-16,3141,2,12:52,,9,4,26,JAC 38,0,MIA,
-16,2943,1,01:59,,10,3,5,MIA 36,0,MIA,
-16,3012,0,,,0,3,13,,0,,
-16,3049,2,14:23,,8,4,25,JAC 49,0,MIA,
-16,3185,4,12:45,,9,4,21,JAC 38,0,MIA,PENALTY
-16,3117,1,13:38,,20,4,26,JAC 49,0,MIA,
-16,2967,2,01:23,,5,3,5,MIA 41,0,MIA,
-16,2988,3,00:43,,5,3,13,MIA 41,0,MIA,
-7,1477,0,05:03,,0,2,91,MIA 15,1,JAC,XP
-7,1382,1,06:40,,10,2,91,JAC 49,0,JAC,PENALTY
-7,1435,2,05:43,,5,2,45,MIA 46,0,JAC,
-7,1307,1,08:07,,10,2,34,JAC 42,0,JAC,
-7,1414,1,06:23,,17,2,45,JAC 42,0,JAC,
-7,1328,2,07:26,,9,2,35,JAC 43,0,JAC,
-7,1349,3,06:45,,8,2,40,JAC 44,0,JAC,PENALTY
-7,1231,1,10:04,,10,2,8,JAC 9,0,JAC,
-7,1198,0,10:08,,0,2,0,MIA 35,0,MIA,KICKOFF
-7,1255,2,09:31,,2,2,5,JAC 17,0,JAC,
-7,1456,3,05:10,,5,2,91,MIA 46,1,JAC,TD
-7,1276,3,08:48,,5,2,33,JAC 14,0,JAC,
-3,506,0,07:16,,0,1,0,MIA 35,0,MIA,KICKOFF
-3,542,2,06:39,,1,1,9,JAC 29,0,JAC,
-3,622,1,04:47,,10,1,71,MIA 16,0,JAC,
-3,563,3,05:55,,1,1,12,JAC 29,0,JAC,
-3,643,2,04:12,,3,1,71,MIA 9,0,JAC,
-3,587,1,05:16,,10,1,64,JAC 32,0,JAC,
-3,521,1,07:16,,10,1,9,JAC 20,0,JAC,
-3,667,3,03:27,,3,1,71,MIA 9,0,JAC,
-3,689,4,03:23,,3,1,71,MIA 9,1,JAC,FG
-17,3230,1,12:30,,10,4,0,JAC 20,0,JAC,
-17,3303,4,12:16,,10,4,0,JAC 20,0,JAC,PUNT
-17,3281,3,12:20,,10,4,0,JAC 20,0,JAC,
-17,3259,2,12:24,,10,4,0,JAC 20,0,JAC,
-4,735,1,03:15,,10,1,2,MIA 24,0,MIA,
-4,807,4,01:54,,8,1,2,MIA 26,0,MIA,PUNT
-4,759,2,02:43,,8,1,2,MIA 26,0,MIA,
-4,713,0,03:20,,0,1,0,JAC 35,0,JAC,KICKOFF
-4,785,3,02:00,,8,1,2,MIA 26,0,MIA,
-2,395,1,09:21,,10,1,48,MIA 20,0,MIA,
-2,464,3,07:26,,8,1,50,JAC 30,0,MIA,
-2,486,4,07:21,,8,1,50,JAC 30,1,MIA,FG
-2,380,0,09:21,,0,1,0,JAC 35,0,JAC,KICKOFF
-2,443,2,08:04,,10,1,50,JAC 32,0,MIA,
-2,419,1,08:37,,10,1,50,JAC 32,0,MIA,
-15,2917,4,02:09,,14,3,-4,JAC 18,0,JAC,PUNT
-15,2836,2,03:31,,14,3,6,JAC 18,0,JAC,
-15,2895,3,02:17,,14,3,-4,JAC 18,0,JAC,
-15,2860,3,02:49,,4,3,-4,JAC 28,0,JAC,PENALTY
-15,2815,1,04:09,,10,3,-4,JAC 22,0,JAC,
+24,4391,1,00:40,(:40) (Shotgun) R.Tannehill pass short middle to J.Landry to MIA 29 for 9 yards (T.Smith).,10,4,9,MIA 20,0,MIA,
+24,4415,2,00:40,(:40) R.Tannehill spiked the ball to stop the clock.,1,4,9,MIA 29,0,MIA,
+24,4376,0,00:40,"J.Myers kicks 65 yards from JAC 35 to end zone, Touchback.",0,4,0,JAC 35,0,JAC,KICKOFF
+24,4437,3,00:26,(:26) (Shotgun) R.Tannehill pass incomplete short middle to G.Jennings (D.Skuta) [R.Davis].,1,4,9,MIA 29,0,MIA,
+24,4459,4,00:20,(:20) (Shotgun) R.Tannehill pass incomplete deep right to R.Matthews (T.Smith).,1,4,9,MIA 29,0,MIA,
+25,4503,0,00:00,END GAME,0,4,-1,,0,,
+25,4482,1,00:15,(:15) B.Bortles kneels to MIA 30 for -1 yards.,10,4,-1,MIA 29,0,JAC,
+20,3690,2,07:29,(7:29) (Shotgun) R.Tannehill pass short left to D.Williams ran ob at MIA 25 for 3 yards.,11,4,2,MIA 22,0,MIA,
+20,3714,3,06:59,(6:59) (Shotgun) R.Tannehill pass incomplete short right to K.Stills [P.Posluszny].,8,4,-8,MIA 25,0,MIA,
+20,3634,1,08:21,(8:21) (Shotgun) R.Tannehill pass short left to R.Matthews to MIA 32 for 9 yards (A.Colvin).,10,4,2,MIA 23,0,MIA,
+20,3658,2,07:44,"(7:44) (Shotgun) D.Williams up the middle to MIA 34 for 2 yards (M.Bennett). PENALTY on MIA-D.Thomas, Offensive Holding, 10 yards, enforced at MIA 32 - No Play.",1,4,2,MIA 32,0,MIA,PENALTY
+20,3736,4,06:53,"(6:53) (Punt formation) M.Darr punts 53 yards to JAC 22, Center-J.Denney, fair catch by R.Greene. PENALTY on MIA-D.Williams, Offensive Holding, 10 yards, enforced at JAC 22.",8,4,2,MIA 25,0,MIA,PUNT
+21,3922,4,03:06,"(3:06) (Punt formation) B.Anger punts 40 yards to MIA 8, Center-C.Tinker, fair catch by J.Landry.",3,4,20,MIA 48,0,JAC,PUNT
+21,3884,0,03:52,Timeout #2 by JAC at 03:52.,0,4,22,,0,,TIMEOUT
+21,3809,3,05:38,"(5:38) (Shotgun) B.Bortles sacked at JAC 34 for -6 yards (O.Vernon). PENALTY on MIA-W.Aikens, Illegal Use of Hands, 5 yards, enforced at JAC 40 - No Play.",2,4,13,JAC 40,0,JAC,PENALTY
+21,3901,3,03:52,(3:52) T.Yeldon up the middle to MIA 48 for -2 yards (K.Sheppard).,1,4,20,MIA 46,0,JAC,
+21,3767,1,06:45,(6:45) (Shotgun) T.Yeldon up the middle pushed ob at JAC 38 for 6 yards (B.Grimes).,10,4,6,JAC 32,0,JAC,
+21,3863,2,04:40,(4:40) (Shotgun) T.Yeldon up the middle to MIA 46 for 2 yards (J.Jenkins; R.Jones).,3,4,22,MIA 48,0,JAC,
+21,3788,2,06:17,(6:17) (Shotgun) T.Yeldon up the middle to JAC 40 for 2 yards (O.Vernon).,4,4,8,JAC 38,0,JAC,
+21,3839,1,05:16,(5:16) B.Bortles pass short left to R.Greene to MIA 48 for 7 yards (J.Taylor).,10,4,20,JAC 45,0,JAC,
+22,3971,2,02:17,(2:17) (Shotgun) R.Tannehill pass incomplete short left to D.Williams (J.Odrick).,17,4,-7,MIA 1,0,MIA,
+22,4017,0,02:00,Two-Minute Warning,0,4,6,,0,,
+22,3942,1,03:02,"(3:02) (Shotgun) R.Tannehill sacked at MIA 1 for -7 yards (J.Odrick). FUMBLES (J.Odrick), recovered by MIA-J.Fox at MIA 1. J.Fox to MIA 1 for no gain (C.Clemons).",10,4,-7,MIA 8,0,MIA,FUMBLE
+22,3993,3,02:12,(2:12) (Shotgun) R.Tannehill pass short middle to J.Stoneburner to MIA 14 for 13 yards (P.Posluszny).,17,4,6,MIA 1,0,MIA,
+22,4034,4,02:00,"(2:00) (Punt formation) M.Darr punts 54 yards to JAC 32, Center-J.Denney. N.Marshall to JAC 34 for 2 yards (Z.Vigil). Penalty on JAC-L.Reynolds, Offensive Holding, declined. PENALTY on JAC-D.Skuta, Offensive Holding, 10 yards, enforced at JAC 34.",4,4,6,MIA 14,0,MIA,PUNT
+23,4153,1,01:13,"(1:13) (Shotgun) B.Bortles pass incomplete short right to A.Hurns. PENALTY on JAC-M.Lee, Offensive Pass Interference, 10 yards, enforced at MIA 39 - No Play.",10,4,27,MIA 39,0,JAC,PENALTY
+23,4129,2,01:19,(1:19) (Shotgun) B.Bortles pass deep left to A.Hurns ran ob at MIA 39 for 19 yards.,10,4,37,JAC 42,0,JAC,
+23,4083,1,01:48,(1:48) (Shotgun) B.Bortles pass short middle to M.Lee to JAC 42 for 18 yards (K.Misi; R.Jones).,10,4,18,JAC 24,0,JAC,
+23,4210,2,01:06,"(1:06) (Shotgun) T.Yeldon up the middle to MIA 34 for 6 yards (J.Jenkins). PENALTY on MIA-O.Vernon, Unnecessary Roughness, 15 yards, enforced at MIA 34.",11,4,66,MIA 40,0,JAC,PENALTY
+23,4339,0,00:43,Timeout #3 by MIA at 00:43.,0,4,66,,0,,TIMEOUT
+23,4301,0,00:48,Timeout #2 by MIA at 00:48.,0,4,66,,0,,TIMEOUT
+23,4242,1,00:59,(:59) T.Yeldon left end to MIA 16 for 3 yards (K.Misi).,10,4,60,MIA 19,0,JAC,
+23,4280,2,00:54,(:54) T.Yeldon right end to MIA 10 for 6 yards (K.Misi).,7,4,66,MIA 16,0,JAC,
+23,4186,1,01:11,(1:11) (Shotgun) B.Bortles pass short right to A.Hurns pushed ob at MIA 40 for 9 yards (B.Grimes).,20,4,36,MIA 49,0,JAC,
+23,4318,3,00:48,(:48) B.Pierce up the middle to MIA 10 for no gain (S.Paysinger).,1,4,66,MIA 10,0,JAC,
+23,4263,0,00:54,Timeout #1 by MIA at 00:54.,0,4,60,,0,,TIMEOUT
+23,4107,1,01:22,"(1:22) (No Huddle, Shotgun) B.Bortles pass incomplete short middle to M.Lewis.",10,4,18,JAC 42,0,JAC,
+23,4356,4,00:43,"(:43) (Field Goal formation) J.Myers 28 yard field goal is GOOD, Center-C.Tinker, Holder-B.Anger.",1,4,66,MIA 10,1,JAC,FG
+1,322,1,10:11,(10:11) T.Yeldon up the middle to MIA 3 for -2 yards (R.Jones).,1,1,79,MIA 1,0,JAC,
+1,206,1,11:53,(11:53) B.Bortles pass deep right to A.Robinson to MIA 11 for 36 yards (B.Grimes).,10,1,71,MIA 47,0,JAC,
+1,40,0,15:00,A.Franks kicks 69 yards from MIA 35 to JAC -4. C.Grant to JAC 18 for 22 yards (S.Paysinger).,0,1,0,MIA 35,0,MIA,KICKOFF
+1,149,3,12:35,"(12:35) (Shotgun) B.Bortles pass incomplete short left to A.Hurns. PENALTY on MIA-O.Vernon, Defensive Offside, 5 yards, enforced at JAC 32 - No Play.",7,1,82,JAC 32,0,JAC,PENALTY
+1,182,3,12:32,(12:32) (Shotgun) B.Bortles pass short right to A.Hurns to MIA 47 for 16 yards (R.Jones).,2,1,35,JAC 37,0,JAC,
+1,62,1,14:56,(14:56) T.Yeldon up the middle to JAC 20 for 2 yards (N.Suh).,10,1,2,JAC 18,0,JAC,
+1,343,2,09:28,"(9:28) B.Bortles pass short left to A.Robinson for 3 yards, TOUCHDOWN.",3,1,82,MIA 3,1,JAC,TD
+1,128,2,13:12,(13:12) T.Yeldon up the middle to JAC 32 for 1 yard (R.Jones).,8,1,14,JAC 31,0,JAC,
+1,83,2,14:20,(14:20) (Shotgun) B.Bortles pass short left to M.Lee pushed ob at JAC 29 for 9 yards (Br.McCain) [O.Vernon].,8,1,11,JAC 20,0,JAC,
+1,364,0,09:21,"(Kick formation) J.Myers extra point is GOOD, Center-C.Tinker, Holder-B.Anger.",0,1,82,MIA 15,1,JAC,XP
+1,251,2,10:25,"(10:25) T.Yeldon left end for 5 yards, TOUCHDOWN. The Replay Official reviewed the runner broke the plane ruling, and the play was REVERSED. T.Yeldon left end to MIA 1 for 4 yards (K.Sheppard).",4,1,81,MIA 5,0,JAC,
+1,230,1,11:07,(11:07) T.Yeldon left end to MIA 5 for 6 yards (M.Thomas).,10,1,77,MIA 11,0,JAC,
+1,107,1,13:49,(13:49) (Shotgun) T.Yeldon up the middle to JAC 31 for 2 yards (J.Jenkins).,10,1,13,JAC 29,0,JAC,
+3,622,1,04:47,(4:47) (Shotgun) T.Yeldon up the middle to MIA 9 for 7 yards (E.Mitchell).,10,1,71,MIA 16,0,JAC,
+3,587,1,05:16,"(5:16) B.Bortles pass deep left to A.Robinson to MIA 16 for 52 yards (W.Aikens). Penalty on MIA-T.Fede, Illegal Use of Hands, declined.",10,1,64,JAC 32,0,JAC,
+3,667,3,03:27,(3:27) (Shotgun) B.Bortles pass incomplete short right to M.Lewis.,3,1,71,MIA 9,0,JAC,
+3,563,3,05:55,(5:55) B.Bortles pass short left to T.Alualu to JAC 32 for 3 yards (K.Sheppard; Br.McCain).,1,1,12,JAC 29,0,JAC,
+3,542,2,06:39,(6:39) T.Yeldon up the middle to JAC 29 for no gain (K.Misi; W.Aikens).,1,1,9,JAC 29,0,JAC,
+3,643,2,04:12,(4:12) (Shotgun) B.Bortles pass short right to R.Greene to MIA 9 for no gain (B.Grimes).,3,1,71,MIA 9,0,JAC,
+3,689,4,03:23,"(3:23) (Field Goal formation) J.Myers 27 yard field goal is GOOD, Center-C.Tinker, Holder-B.Anger.",3,1,71,MIA 9,1,JAC,FG
+3,521,1,07:16,(7:16) D.Robinson right end to JAC 29 for 9 yards (R.Jones).,10,1,9,JAC 20,0,JAC,
+3,506,0,07:16,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback.",0,1,0,MIA 35,0,MIA,KICKOFF
+2,443,2,08:04,(8:04) (Shotgun) L.Miller up the middle to JAC 30 for 2 yards (T.Alualu).,10,1,50,JAC 32,0,MIA,
+2,464,3,07:26,(7:26) (Shotgun) R.Tannehill pass incomplete short middle to G.Jennings.,8,1,50,JAC 30,0,MIA,
+2,380,0,09:21,"J.Myers kicks 65 yards from JAC 35 to end zone, Touchback.",0,1,0,JAC 35,0,JAC,KICKOFF
+2,395,1,09:21,(9:21) (Shotgun) R.Tannehill pass deep right to R.Matthews to JAC 32 for 48 yards (J.Sample).,10,1,48,MIA 20,0,MIA,
+2,486,4,07:21,"(7:21) (Field Goal formation) A.Franks 48 yard field goal is GOOD, Center-J.Denney, Holder-M.Darr.",8,1,50,JAC 30,1,MIA,FG
+2,419,1,08:37,(8:37) (Shotgun) R.Tannehill pass short left to K.Stills to JAC 32 for no gain (A.Colvin; D.McCray).,10,1,50,JAC 32,0,MIA,
+5,854,1,01:00,(1:00) T.Yeldon right end pushed ob at JAC 44 for 4 yards (R.Jones).,10,1,16,JAC 40,0,JAC,
+5,833,1,01:42,(1:42) M.Lee right end to JAC 40 for 12 yards (J.Jenkins).,10,1,12,JAC 28,0,JAC,
+5,880,2,00:22,(:22) (Shotgun) B.Bortles pass short right to T.Yeldon pushed ob at JAC 48 for 4 yards (J.Jenkins).,6,1,20,JAC 44,0,JAC,
+5,904,0,,END QUARTER 1,0,1,20,,0,,
+5,953,4,14:55,"(14:55) (Punt formation) B.Anger punts 32 yards to MIA 20, Center-C.Tinker, downed by JAC-L.Reynolds.",2,2,20,JAC 48,0,JAC,PUNT
+5,920,3,15:00,"(15:00) (Shotgun) B.Bortles pass incomplete short right to A.Robinson. Penalty on JAC-S.Wisniewski, Offensive Holding, declined.",2,2,20,JAC 48,0,JAC,
+4,735,1,03:15,(3:15) R.Tannehill pass short right to J.Landry to MIA 26 for 2 yards (A.Colvin).,10,1,2,MIA 24,0,MIA,
+4,759,2,02:43,(2:43) L.Miller right end pushed ob at MIA 26 for no gain (T.Smith).,8,1,2,MIA 26,0,MIA,
+4,713,0,03:20,J.Myers kicks 73 yards from JAC 35 to MIA -8. R.Mostert to MIA 24 for 32 yards (S.Brown).,0,1,0,JAC 35,0,JAC,KICKOFF
+4,807,4,01:54,"(1:54) (Punt formation) M.Darr punts 52 yards to JAC 22, Center-J.Denney. R.Greene to JAC 28 for 6 yards (K.Sheppard).",8,1,2,MIA 26,0,MIA,PUNT
+4,785,3,02:00,(2:00) (Shotgun) R.Tannehill pass incomplete deep right to G.Jennings.,8,1,2,MIA 26,0,MIA,
+7,1198,0,10:08,"A.Franks kicks 72 yards from MIA 35 to JAC -7. C.Grant to JAC 17 for 24 yards (D.Williams). PENALTY on JAC-J.Lotulelei, Offensive Holding, 8 yards, enforced at JAC 17.",0,2,0,MIA 35,0,MIA,KICKOFF
+7,1307,1,08:07,(8:07) C.Grant up the middle to JAC 43 for 1 yard (J.Jenkins).,10,2,34,JAC 42,0,JAC,
+7,1231,1,10:04,(10:04) B.Bortles pass short right to A.Robinson to JAC 17 for 8 yards (B.Grimes).,10,2,8,JAC 9,0,JAC,
+7,1349,3,06:45,"(6:45) (Shotgun) B.Bortles pass incomplete short left to C.Harbor. PENALTY on MIA-J.Taylor, Illegal Contact, 5 yards, enforced at JAC 44 - No Play.",8,2,40,JAC 44,0,JAC,PENALTY
+7,1328,2,07:26,(7:26) (Shotgun) T.Yeldon up the middle to JAC 44 for 1 yard (R.Jones).,9,2,35,JAC 43,0,JAC,
+7,1276,3,08:48,(8:48) (Shotgun) B.Bortles scrambles right end ran ob at JAC 42 for 28 yards (W.Aikens).,5,2,33,JAC 14,0,JAC,
+7,1456,3,05:10,"(5:10) (Shotgun) B.Bortles pass deep left to A.Robinson for 46 yards, TOUCHDOWN [K.Misi].",5,2,91,MIA 46,1,JAC,TD
+7,1255,2,09:31,(9:31) T.Yeldon right end to JAC 14 for -3 yards (J.Jenkins).,2,2,5,JAC 17,0,JAC,
+7,1477,0,05:03,"J.Myers extra point is GOOD, Center-C.Tinker, Holder-B.Anger.",0,2,91,MIA 15,1,JAC,XP
+7,1435,2,05:43,(5:43) T.Yeldon up the middle to MIA 46 for no gain (T.Fede).,5,2,45,MIA 46,0,JAC,
+7,1414,1,06:23,(6:23) (Shotgun) T.Yeldon up the middle to MIA 46 for 12 yards (R.Jones; J.Taylor).,17,2,45,JAC 42,0,JAC,
+7,1382,1,06:40,"(6:40) B.Pierce up the middle to MIA 48 for 3 yards (M.Thomas). PENALTY on JAC-S.Wisniewski, Offensive Holding, 10 yards, enforced at MIA 48.",10,2,91,JAC 49,0,JAC,PENALTY
+6,1041,1,12:52,(12:52) (Shotgun) R.Tannehill right end to JAC 46 for 9 yards (T.Smith).,10,2,34,MIA 45,0,MIA,
+6,972,1,14:44,(14:44) (Shotgun) L.Miller up the middle to MIA 24 for 4 yards (C.Smith).,10,2,4,MIA 20,0,MIA,
+6,993,2,14:03,(14:03) (Shotgun) R.Tannehill pass short middle to D.Parker to MIA 27 for 3 yards (A.Colvin).,6,2,7,MIA 24,0,MIA,
+6,1157,3,10:16,(10:16) (Shotgun) R.Tannehill pass incomplete short right to J.Landry (R.Davis).,5,2,56,JAC 24,0,MIA,
+6,1066,2,12:18,(12:18) (Shotgun) R.Tannehill pass incomplete short right to L.Miller.,1,2,34,JAC 46,0,MIA,
+6,1136,2,10:57,(10:57) (Shotgun) D.Williams left end to JAC 24 for 3 yards (J.Sample).,8,2,56,JAC 27,0,MIA,
+6,1179,4,10:16,"(10:16) A.Franks 41 yard field goal is GOOD, Center-J.Denney, Holder-M.Darr.",5,2,56,JAC 24,1,MIA,FG
+6,1088,3,12:12,(12:12) (Shotgun) R.Tannehill pass short middle to J.Cameron to JAC 29 for 17 yards (S.Brown).,1,2,51,JAC 46,0,MIA,
+6,1112,1,11:33,(11:33) (Shotgun) R.Tannehill pass short left to D.Williams to JAC 27 for 2 yards (J.Sample) [J.Odrick].,10,2,53,JAC 29,0,MIA,
+6,1017,3,13:20,(13:20) (Shotgun) R.Tannehill pass short right to J.Landry to MIA 45 for 18 yards (D.House). MIA-B.Albert was injured during the play.,3,2,25,MIA 27,0,MIA,
+9,1798,3,01:35,(1:35) (Shotgun) B.Bortles pass short right to T.Yeldon to JAC 18 for -2 yards (B.Grimes; J.Jenkins).,10,2,-2,JAC 20,0,JAC,
+9,1732,0,01:48,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback.",0,2,0,MIA 35,0,MIA,KICKOFF
+9,1769,2,01:44,(1:44) (Shotgun) B.Bortles pass incomplete short left to T.Yeldon.,10,2,0,JAC 20,0,JAC,
+9,1822,4,01:28,"(1:28) B.Anger punts 56 yards to MIA 26, Center-C.Tinker. J.Landry to MIA 45 for 19 yards (L.Reynolds).",12,2,-2,JAC 18,0,JAC,PUNT
+9,1747,1,01:48,(1:48) (Shotgun) B.Bortles pass incomplete short left to A.Robinson.,10,2,0,JAC 20,0,JAC,
+8,1640,0,02:00,Two-Minute Warning,0,2,74,,0,,
+8,1619,1,02:40,(2:40) (Shotgun) L.Miller left end to JAC 8 for 6 yards (T.Smith).,10,2,74,JAC 14,0,MIA,
+8,1695,3,01:55,"(1:55) (Shotgun) R.Tannehill pass short left to D.Williams for 10 yards, TOUCHDOWN.",6,2,82,JAC 10,1,MIA,TD
+8,1584,3,03:05,"(3:05) (Shotgun) R.Tannehill pass deep middle to J.Cameron to JAC 29 for 26 yards (J.Sample). PENALTY on JAC-D.Skuta, Face Mask (15 Yards), 15 yards, enforced at JAC 29.",2,2,82,MIA 45,0,MIA,PENALTY
+8,1560,2,03:40,(3:40) (Shotgun) R.Tannehill pass short left to L.Miller pushed ob at MIA 45 for 4 yards (D.Skuta).,6,2,27,MIA 41,0,MIA,
+8,1493,0,05:03,J.Myers kicks 72 yards from JAC 35 to MIA -7. R.Mostert to MIA 18 for 25 yards (R.Davis).,0,2,0,JAC 35,0,JAC,KICKOFF
+8,1678,0,01:55,Timeout #1 by JAC at 01:55.,0,2,72,,0,,TIMEOUT
+8,1515,1,04:55,(4:55) (Shotgun) R.Tannehill pass short middle to J.Cameron to MIA 37 for 19 yards (D.McCray).,10,2,19,MIA 18,0,MIA,
+8,1657,2,02:00,(2:00) L.Miller left end to JAC 10 for -2 yards (D.Skuta).,4,2,72,JAC 8,0,MIA,
+8,1539,1,04:18,(4:18) (Shotgun) L.Miller left end to MIA 41 for 4 yards (T.Smith; C.Smith).,10,2,23,MIA 37,0,MIA,
+8,1716,0,01:48,"A.Franks extra point is GOOD, Center-J.Denney, Holder-M.Darr.",0,2,82,JAC 15,1,MIA,XP
+11,2172,1,00:02,"(:02) J.Myers 58 yard field goal is GOOD, Center-C.Tinker, Holder-B.Anger.",10,2,27,MIA 40,1,JAC,FG
+11,2115,2,00:13,(:13) (Shotgun) B.Bortles pass short middle to T.Yeldon ran ob at JAC 43 for 11 yards.,10,2,28,JAC 32,0,JAC,
+11,2093,1,00:18,(:18) (Shotgun) B.Bortles pass incomplete deep middle to A.Robinson (B.Grimes).,10,2,28,JAC 32,0,JAC,
+11,2139,1,00:07,"(:07) (Shotgun) B.Bortles pass incomplete short right to R.Greene. PENALTY on MIA-Br.McCain, Defensive Pass Interference, 17 yards, enforced at JAC 43 - No Play.",10,2,27,JAC 43,0,JAC,PENALTY
+10,2050,3,00:28,(:28) (Shotgun) R.Tannehill pass incomplete deep right to G.Jennings.,2,2,31,JAC 24,0,MIA,
+10,1848,1,01:16,(1:16) (Shotgun) R.Tannehill pass short left to L.Miller ran ob at MIA 46 for 1 yard.,10,2,1,MIA 45,0,MIA,
+10,1977,2,00:42,(:42) (Shotgun) R.Tannehill scrambles right end to JAC 29 for 5 yards (P.Posluszny).,12,2,26,JAC 34,0,MIA,
+10,1998,0,00:34,Timeout #3 by MIA at 00:34.,0,2,26,,0,,TIMEOUT
+10,1960,0,00:42,Timeout #2 by MIA at 00:42.,0,2,21,,0,,TIMEOUT
+10,1937,2,01:02,"(1:02) PENALTY on MIA-J.James, False Start, 5 yards, enforced at JAC 29 - No Play.",7,2,21,JAC 29,0,MIA,PENALTY
+10,2072,4,00:22,"(:22) A.Franks 42 yard field goal is No Good, Wide Left, Center-J.Denney, Holder-M.Darr.",2,2,31,JAC 24,0,MIA,FGM
+10,2015,3,00:34,"(:34) (Shotgun) R.Tannehill pass short left to J.Cameron to JAC 24 for 5 yards (A.Colvin). PENALTY on JAC-C.Smith, Defensive Offside, 5 yards, enforced at JAC 29 - No Play.",7,2,31,JAC 29,0,MIA,PENALTY
+10,1872,2,01:11,(1:11) (Shotgun) R.Tannehill pass deep middle to R.Matthews to JAC 32 for 22 yards (P.Posluszny).,9,2,23,MIA 46,0,MIA,
+10,1896,0,01:02,Timeout #1 by MIA at 01:02.,0,2,23,,0,,TIMEOUT
+10,1913,1,01:02,(1:02) (Shotgun) R.Tannehill pass short left to L.Miller to JAC 29 for 3 yards (P.Posluszny).,10,2,26,JAC 32,0,MIA,
+13,2525,3,09:22,(9:22) (Shotgun) B.Bortles pass deep middle to A.Hurns to JAC 38 for 24 yards (R.Jones).,16,3,18,JAC 14,0,JAC,
+13,2612,2,06:47,(6:47) (Shotgun) B.Bortles pass incomplete deep left to A.Robinson (Br.McCain).,9,3,33,MIA 47,0,JAC,
+13,2447,1,10:28,"(10:28) B.Bortles pass deep right to A.Robinson to JAC 37 for 17 yards (B.Grimes). PENALTY on JAC-A.Robinson, Offensive Pass Interference, 10 yards, enforced at JAC 20 - No Play.",10,3,-10,JAC 20,0,JAC,PENALTY
+13,2432,0,10:28,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback.",0,3,0,MIA 35,0,MIA,KICKOFF
+13,2549,1,08:43,(8:43) (Shotgun) T.Yeldon up the middle to JAC 45 for 7 yards (D.Shelby; W.Aikens).,10,3,25,JAC 38,0,JAC,
+13,2482,1,10:06,(10:06) T.Yeldon up the middle to JAC 14 for 4 yards (J.Jenkins).,20,3,-6,JAC 10,0,JAC,
+13,2656,4,06:37,"(6:37) B.Anger punts 47 yards to end zone, Center-C.Tinker, Touchback.",9,3,33,MIA 47,0,JAC,PUNT
+13,2570,2,08:11,(8:11) T.Yeldon right end to MIA 48 for 7 yards (J.Jenkins).,3,3,32,JAC 45,0,JAC,
+13,2634,3,06:42,(6:42) B.Bortles pass incomplete short right to M.Lewis (B.Grimes).,9,3,33,MIA 47,0,JAC,
+13,2503,2,09:27,(9:27) (Shotgun) B.Bortles pass incomplete deep middle to M.Lee.,16,3,-6,JAC 14,0,JAC,
+13,2591,1,07:28,(7:28) B.Pierce right guard to MIA 47 for 1 yard (D.Shelby).,10,3,33,MIA 48,0,JAC,
+12,2345,1,11:45,(11:45) (Shotgun) R.Tannehill pass short left to J.Landry pushed ob at JAC 6 for 13 yards (A.Colvin).,10,3,74,JAC 19,0,MIA,
+12,2321,2,12:26,(12:26) (Shotgun) R.Tannehill pass short right to R.Matthews to JAC 19 for 14 yards (D.McCray).,11,3,61,JAC 33,0,MIA,
+12,2205,0,15:00,"J.Myers kicks 65 yards from JAC 35 to end zone, Touchback.",0,3,0,JAC 35,0,JAC,KICKOFF
+12,2300,1,13:08,(13:08) (Shotgun) R.Tannehill right end to JAC 33 for 3 yards (S.Brown).,14,3,47,JAC 36,0,MIA,
+12,2220,1,15:00,(15:00) (Shotgun) R.Tannehill pass short right to L.Miller to MIA 32 for 12 yards (J.Sample).,10,3,12,MIA 20,0,MIA,
+12,2374,1,11:11,(11:11) (Shotgun) L.Miller up the middle to JAC 5 for 1 yard (S.Brown).,6,3,75,JAC 6,0,MIA,
+12,2268,1,13:36,"(13:36) (Shotgun) J.Landry right end to JAC 3 for 29 yards (P.Posluszny). PENALTY on MIA-J.James, Offensive Holding, 10 yards, enforced at JAC 26.",10,3,44,JAC 32,0,MIA,PENALTY
+12,2395,2,10:33,"(10:33) (Shotgun) R.Tannehill pass short middle to J.Stoneburner for 5 yards, TOUCHDOWN.",5,3,80,JAC 5,1,MIA,TD
+12,2416,0,10:28,"A.Franks extra point is GOOD, Center-J.Denney, Holder-M.Darr.",0,3,80,JAC 15,1,MIA,XP
+12,2244,1,14:18,(14:18) (Shotgun) R.Tannehill pass deep middle to J.Landry to JAC 32 for 36 yards (T.Smith).,10,3,48,MIA 32,0,MIA,
+15,2815,1,04:09,(4:09) T.Yeldon left end to JAC 18 for -4 yards (K.Sheppard; J.Jenkins).,10,3,-4,JAC 22,0,JAC,
+15,2836,2,03:31,(3:31) (Shotgun) B.Bortles pass short right to A.Robinson to JAC 28 for 10 yards (R.Jones).,14,3,6,JAC 18,0,JAC,
+15,2860,3,02:49,"(2:49) (Shotgun) B.Bortles pass short middle to M.Lee to JAC 37 for 9 yards (B.Grimes) [E.Mitchell]. PENALTY on JAC-J.Parnell, Illegal Use of Hands, 10 yards, enforced at JAC 28 - No Play.",4,3,-4,JAC 28,0,JAC,PENALTY
+15,2917,4,02:09,"(2:09) B.Anger punts 53 yards to MIA 29, Center-C.Tinker. J.Landry to MIA 36 for 7 yards (L.Reynolds).",14,3,-4,JAC 18,0,JAC,PUNT
+15,2895,3,02:17,(2:17) (Shotgun) B.Bortles pass incomplete deep right to A.Robinson.,14,3,-4,JAC 18,0,JAC,
+14,2771,3,04:57,(4:57) (Shotgun) R.Tannehill pass short right to L.Miller to MIA 42 for 8 yards (D.McCray; T.Smith).,15,3,22,MIA 34,0,MIA,
+14,2728,1,05:46,(5:46) (Shotgun) R.Tannehill pass incomplete short right to J.Cameron [T.Alualu].,10,3,19,MIA 39,0,MIA,
+14,2674,1,06:30,(6:30) (Shotgun) L.Miller up the middle to MIA 24 for 4 yards (T.Smith).,10,3,4,MIA 20,0,MIA,
+14,2750,2,05:41,(5:41) (Shotgun) L.Miller right end to MIA 34 for -5 yards (J.Evans).,10,3,14,MIA 39,0,MIA,
+14,2695,2,05:51,"(5:51) R.Tannehill pass incomplete short middle to L.Miller (T.Alualu). PENALTY on JAC-T.Alualu, Roughing the Passer, 15 yards, enforced at MIA 24 - No Play.",6,3,22,MIA 24,0,MIA,PENALTY
+14,2795,4,04:16,"(4:16) M.Darr punts 36 yards to JAC 22, Center-J.Denney, fair catch by R.Greene.",7,3,22,MIA 42,0,MIA,PUNT
+17,3259,2,12:24,(12:24) (Shotgun) B.Bortles pass incomplete short middle to R.Greene.,10,4,0,JAC 20,0,JAC,
+17,3230,1,12:30,(12:30) B.Bortles pass incomplete deep right to M.Lee [T.Fede].,10,4,0,JAC 20,0,JAC,
+17,3303,4,12:16,"(12:16) (Punt formation) B.Anger punts 55 yards to MIA 25, Center-C.Tinker. J.Landry to MIA 24 for -1 yards (N.Marshall).",10,4,0,JAC 20,0,JAC,PUNT
+17,3281,3,12:20,(12:20) (Shotgun) B.Bortles pass incomplete short left to R.Greene.,10,4,0,JAC 20,0,JAC,
+16,2967,2,01:23,(1:23) (Shotgun) L.Miller up the middle to MIA 41 for no gain (T.Smith; J.Evans).,5,3,5,MIA 41,0,MIA,
+16,2988,3,00:43,(:43) (Shotgun) R.Tannehill pass short middle to K.Stills to MIA 49 for 8 yards (P.Posluszny).,5,3,13,MIA 41,0,MIA,
+16,3212,4,12:37,"(12:37) (Punt formation) M.Darr punts 43 yards to end zone, Center-J.Denney, Touchback.",14,4,21,JAC 43,0,MIA,PUNT
+16,3028,1,15:00,(15:00) (Shotgun) D.Williams up the middle to JAC 49 for 2 yards (J.Odrick).,10,4,15,MIA 49,0,MIA,
+16,3012,0,,END QUARTER 3,0,3,13,,0,,
+16,3185,4,12:45,"(12:45) (Punt formation) PENALTY on MIA-M.Darr, Delay of Game, 5 yards, enforced at JAC 38 - No Play.",9,4,21,JAC 38,0,MIA,PENALTY
+16,3049,2,14:23,(14:23) (Shotgun) R.Tannehill pass short middle to J.Landry to JAC 39 for 10 yards (P.Thompson).,8,4,25,JAC 49,0,MIA,
+16,3117,1,13:38,(13:38) (Shotgun) R.Tannehill pass short right to J.Landry to JAC 38 for 11 yards (P.Posluszny).,20,4,26,JAC 49,0,MIA,
+16,3141,2,12:52,(12:52) (Shotgun) R.Tannehill pass incomplete deep right to K.Stills.,9,4,26,JAC 38,0,MIA,
+16,3077,1,13:45,"(13:45) (Shotgun) R.Tannehill pass incomplete short middle to R.Matthews. PENALTY on MIA-J.James, Offensive Holding, 10 yards, enforced at JAC 39 - No Play.",10,4,15,JAC 39,0,MIA,PENALTY
+16,2943,1,01:59,(1:59) (Shotgun) R.Tannehill pass short right to R.Matthews to MIA 41 for 5 yards (S.Brown).,10,3,5,MIA 36,0,MIA,
+16,3163,3,12:45,(12:45) (Shotgun) R.Tannehill pass incomplete deep right to G.Jennings.,9,4,26,JAC 38,0,MIA,
+19,3539,1,09:23,(9:23) T.Yeldon left end to JAC 33 for -1 yards (J.Jenkins).,10,4,-1,JAC 34,0,JAC,
+19,3560,2,08:42,(8:42) (Shotgun) B.Bortles pass incomplete short right to M.Lewis.,11,4,-1,JAC 33,0,JAC,
+19,3582,3,08:39,(8:39) (Shotgun) B.Bortles pass incomplete deep right to A.Robinson.,11,4,-1,JAC 33,0,JAC,
+19,3604,4,08:30,"(8:30) (Punt formation) B.Anger punts 34 yards to MIA 33, Center-C.Tinker, out of bounds. PENALTY on MIA-Z.Bowman, Offensive Holding, 10 yards, enforced at MIA 33.",11,4,-1,JAC 33,0,JAC,PUNT
+18,3395,2,10:25,(10:25) (Shotgun) R.Tannehill pass deep middle to R.Matthews to MIA 39 for 17 yards (A.Colvin).,23,4,15,MIA 22,0,MIA,
+18,3513,4,09:39,"(9:39) (Punt formation) M.Darr punts 51 yards to JAC 10, Center-J.Denney. R.Greene ran ob at JAC 34 for 24 yards.",6,4,15,MIA 39,0,MIA,PUNT
+18,3372,2,11:31,"(11:31) (Shotgun) PENALTY on MIA-R.Tannehill, Delay of Game, 5 yards, enforced at MIA 27 - No Play.",18,4,-2,MIA 27,0,MIA,PENALTY
+18,3353,1,11:31,(11:31) (Shotgun) R.Tannehill sacked at MIA 27 for -8 yards (sack split by S.Brown and R.Miller).,10,4,3,MIA 35,0,MIA,
+18,3329,1,12:06,(12:06) (Shotgun) R.Tannehill pass short right to J.Landry pushed ob at MIA 35 for 11 yards (P.Thompson).,10,4,11,MIA 24,0,MIA,
+18,3419,3,09:50,"(9:50) (Shotgun) R.Tannehill pass incomplete short middle to J.Landry (P.Thompson). Jacksonville challenged the incomplete pass ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",6,4,15,MIA 39,0,MIA,TIMEOUT

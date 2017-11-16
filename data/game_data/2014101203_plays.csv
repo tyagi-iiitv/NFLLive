@@ -1,179 +1,179 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1369,3,07:47,,1,2,24,PIT 44,0,PIT,
-9,1344,2,08:27,,4,2,24,PIT 41,0,PIT,
-9,1282,0,09:35,,0,2,0,CLE 35,0,CLE,KICKOFF
-9,1297,1,09:35,,10,2,15,PIT 20,0,PIT,
-9,1391,4,07:41,,1,2,24,PIT 44,0,PIT,PUNT
-9,1323,1,09:05,,10,2,21,PIT 35,0,PIT,
-24,4126,4,01:48,,7,4,3,PIT 38,0,CLE,PUNT
-24,4012,1,02:33,,10,4,-4,PIT 41,0,CLE,
-24,3990,0,02:36,,0,4,-4,PIT 35,0,PIT,KICKOFF
-24,4109,0,01:48,,0,4,3,,0,,TIMEOUT
-24,4033,0,02:00,,0,4,-4,,0,,
-24,4071,0,01:55,,0,4,-2,,0,,TIMEOUT
-24,4088,3,01:55,,12,4,3,PIT 43,0,CLE,
-24,4050,2,02:00,,14,4,-2,PIT 45,0,CLE,
-10,1441,1,07:18,,10,2,35,CLE 26,0,CLE,
-10,1644,0,03:12,,0,2,75,,0,,TIMEOUT
-10,1661,0,03:12,,0,2,75,,0,,TIMEOUT
-10,1549,2,05:07,,9,2,55,PIT 30,0,CLE,
-10,1678,3,03:11,,2,2,77,PIT 10,0,CLE,
-10,1521,1,05:46,,10,2,55,PIT 31,0,CLE,FUMBLE
-10,1623,2,03:59,,8,2,75,PIT 16,0,CLE,
-10,1496,2,06:22,,7,2,54,PIT 47,0,CLE,
-10,1699,1,02:31,,8,2,85,PIT 8,1,CLE,TD
-10,1465,1,06:57,,10,2,67,50,0,CLE,
-10,1602,1,04:27,,10,2,69,PIT 18,0,CLE,
-10,1716,0,02:27,,0,2,85,PIT 2,1,CLE,XP
-10,1416,1,07:34,,10,2,11,CLE 15,0,CLE,
-10,1578,3,05:03,,9,2,67,PIT 30,0,CLE,
-20,3311,2,11:19,,6,4,14,CLE 30,0,CLE,FUMBLE
-20,3290,1,11:58,,10,4,4,CLE 26,0,CLE,
-6,902,2,13:28,,10,2,4,CLE 32,0,CLE,
-6,975,1,11:49,,5,2,68,PIT 5,1,CLE,TD
-6,927,3,12:51,,6,2,21,CLE 36,0,CLE,
-6,951,1,12:15,,10,2,63,PIT 47,0,CLE,
-6,992,0,11:45,,0,2,68,PIT 2,1,CLE,XP
-6,880,1,13:36,,10,2,4,CLE 32,0,CLE,
-18,2927,1,02:04,,10,3,2,PIT 39,0,CLE,
-18,3074,2,14:18,,7,4,35,PIT 9,0,CLE,
-18,2977,3,00:46,,5,3,27,PIT 34,0,CLE,PENALTY
-18,3012,1,00:43,,10,3,27,PIT 24,0,CLE,
-18,3053,1,15:00,,10,4,30,PIT 12,0,CLE,
-18,2948,2,01:24,,8,3,5,PIT 37,0,CLE,
-18,3095,3,13:33,,2,4,39,PIT 4,0,CLE,PENALTY
-18,3166,0,12:47,,0,4,39,PIT 2,1,CLE,XP
-18,3149,2,12:50,,1,4,39,PIT 1,1,CLE,TD
-18,3128,1,13:29,,2,4,38,PIT 2,0,CLE,
-25,4193,3,00:20,,6,4,4,PIT 7,0,PIT,
-25,4240,4,00:11,,6,4,4,PIT 7,0,PIT,PUNT
-25,4215,0,00:11,,0,4,4,,0,,TIMEOUT
-25,4151,1,01:37,,10,4,-1,PIT 3,0,PIT,
-25,4172,2,01:02,,11,4,4,PIT 2,0,PIT,
-1,107,3,13:34,,1,1,8,PIT 23,0,PIT,
-1,132,4,12:56,,2,1,8,PIT 22,0,PIT,PUNT
-1,62,1,14:56,,10,1,6,PIT 14,0,PIT,
-1,86,2,14:16,,4,1,9,PIT 20,0,PIT,
-1,36,0,15:00,,0,1,0,CLE 35,0,CLE,KICKOFF
-5,686,1,01:43,,10,1,9,CLE 39,0,PIT,
-5,662,3,02:21,,1,1,11,CLE 41,0,PIT,
-5,831,3,13:45,,3,2,33,CLE 17,0,PIT,
-5,853,4,13:41,,3,2,18,CLE 17,0,PIT,FUMBLE
-5,772,0,15:00,,0,2,26,,0,,TIMEOUT
-5,620,1,03:37,,10,1,5,50,0,PIT,
-5,789,1,15:00,,10,2,31,CLE 24,0,PIT,
-5,711,2,01:09,,12,1,18,CLE 41,0,PIT,
-5,810,2,14:26,,5,2,33,CLE 19,0,PIT,
-5,732,3,00:26,,3,1,26,CLE 32,0,PIT,
-5,641,2,03:01,,5,1,9,CLE 45,0,PIT,
-13,2057,2,00:16,,10,2,0,PIT 38,0,PIT,
-13,2096,3,00:08,,10,2,39,PIT 38,0,PIT,
-13,2079,0,00:08,,0,2,0,,0,,TIMEOUT
-13,2120,0,00:01,,0,2,16,,0,,TIMEOUT
-13,2035,1,00:23,,10,2,0,PIT 38,0,PIT,
-13,2137,1,00:01,,10,2,39,CLE 46,0,PIT,
-21,3595,1,07:45,,1,4,35,CLE 1,0,PIT,PENALTY
-21,3458,1,10:05,,10,4,28,CLE 25,0,PIT,
-21,3628,2,07:42,,16,4,28,CLE 16,0,PIT,
-21,3492,2,10:05,,1,4,28,CLE 16,0,PIT,
-21,3423,3,10:05,,12,4,19,CLE 30,0,PIT,PENALTY
-21,3563,2,08:02,,1,4,43,CLE 2,0,PIT,PENALTY
-21,3377,1,10:44,,10,4,14,CLE 28,0,PIT,
-21,3343,1,11:11,,10,4,16,CLE 44,0,PIT,
-21,3518,3,09:02,,1,4,33,CLE 16,0,PIT,
-21,3674,4,06:48,,9,4,35,CLE 9,0,PIT,
-21,3539,1,08:23,,10,4,42,CLE 11,0,PIT,
-21,3401,2,10:10,,12,4,14,CLE 30,0,PIT,
-21,3650,3,07:37,,16,4,35,CLE 16,0,PIT,
-23,3851,1,03:39,,10,4,22,PIT 26,0,PIT,PENALTY
-23,3932,1,02:51,,10,4,48,CLE 26,0,PIT,
-23,3954,2,02:45,,10,4,74,CLE 26,1,PIT,TD
-23,3884,1,03:26,,10,4,31,PIT 48,0,PIT,
-23,3974,0,02:36,,0,4,74,CLE 2,1,PIT,XP
-23,3908,2,02:57,,1,4,48,CLE 43,0,PIT,
-11,1732,0,02:27,,0,2,0,CLE 35,0,CLE,KICKOFF
-11,1863,2,01:46,,10,2,33,CLE 48,0,PIT,
-11,1841,1,01:51,,10,2,33,CLE 48,0,PIT,
-11,1754,1,02:22,,10,2,16,PIT 19,0,PIT,
-11,1795,1,02:00,,10,2,16,PIT 35,0,PIT,
-11,1909,4,01:33,,9,2,34,CLE 47,0,PIT,PUNT
-11,1885,3,01:41,,10,2,34,CLE 48,0,PIT,
-11,1817,2,01:56,,10,2,33,PIT 35,0,PIT,
-14,2287,2,12:37,,8,3,44,PIT 36,0,CLE,
-14,2177,0,15:00,,0,3,0,PIT 35,0,PIT,KICKOFF
-14,2192,1,15:00,,10,3,8,CLE 20,0,CLE,
-14,2242,1,13:40,,10,3,42,CLE 31,0,CLE,
-14,2331,4,12:27,,8,3,44,PIT 36,0,CLE,PUNT
-14,2217,2,14:27,,2,3,11,CLE 28,0,CLE,
-14,2309,3,12:31,,8,3,44,PIT 36,0,CLE,
-14,2266,1,13:06,,10,3,44,PIT 38,0,CLE,
-8,1266,0,09:35,,0,2,60,PIT 2,1,CLE,XP
-8,1221,2,10:09,,2,2,9,CLE 48,0,CLE,
-8,1189,2,10:21,,7,2,60,CLE 43,0,CLE,PENALTY
-8,1168,1,10:43,,10,2,3,CLE 40,0,CLE,
-8,1242,3,09:40,,1,2,60,CLE 49,1,CLE,TD
-19,3243,3,12:14,,4,4,6,PIT 26,0,PIT,
-19,3265,4,12:09,,4,4,6,PIT 26,0,PIT,PUNT
-19,3182,0,12:47,,0,4,0,CLE 35,0,CLE,KICKOFF
-19,3221,2,12:20,,4,4,6,PIT 26,0,PIT,
-19,3197,1,12:47,,10,4,6,PIT 20,0,PIT,
-22,3759,2,04:41,,8,4,16,CLE 24,0,CLE,
-22,3696,1,06:46,,10,4,2,CLE 9,0,CLE,
-22,3804,0,03:49,,0,4,14,,0,,TIMEOUT
-22,3717,2,06:04,,8,4,13,CLE 11,0,CLE,
-22,3826,4,03:49,,9,4,14,CLE 23,0,CLE,PUNT
-22,3780,3,03:55,,7,4,14,CLE 25,0,CLE,
-22,3738,1,05:23,,10,4,15,CLE 22,0,CLE,
-12,1945,1,01:27,,10,2,2,CLE 14,0,CLE,
-12,1988,3,00:38,,8,2,2,CLE 16,0,CLE,
-12,2010,4,00:28,,8,2,2,CLE 16,0,CLE,PUNT
-12,1967,2,01:23,,10,2,2,CLE 14,0,CLE,
-16,2779,4,03:28,,7,3,58,PIT 22,1,CLE,FG
-16,2673,1,05:46,,10,3,55,CLE 44,0,CLE,
-16,2753,3,03:34,,7,3,58,PIT 22,0,CLE,
-16,2729,2,04:18,,16,3,58,PIT 31,0,CLE,
-16,2701,1,05:02,,10,3,58,PIT 25,0,CLE,FUMBLE
-16,2647,1,06:15,,10,3,24,CLE 20,0,CLE,
-7,1008,0,11:45,,0,2,0,CLE 35,0,CLE,KICKOFF
-7,1030,1,11:41,,10,2,0,PIT 16,0,PIT,
-7,1067,2,11:36,,10,2,4,PIT 16,0,PIT,
-7,1110,4,10:50,,6,2,-1,PIT 20,0,PIT,PENALTY
-7,1137,4,10:50,,11,2,-1,PIT 15,0,PIT,PUNT
-7,1088,3,10:55,,6,2,4,PIT 20,0,PIT,
-3,413,1,07:14,,7,1,63,CLE 7,0,PIT,
-3,380,2,07:20,,7,1,58,CLE 31,0,PIT,PENALTY
-3,458,3,05:59,,3,1,63,CLE 3,0,PIT,
-3,292,1,10:06,,10,1,15,PIT 47,0,PIT,
-3,338,3,08:43,,3,1,31,CLE 46,0,PIT,
-3,359,1,08:03,,10,1,34,CLE 34,0,PIT,
-3,317,2,09:22,,7,1,19,50,0,PIT,
-3,479,4,05:12,,2,1,63,CLE 2,1,PIT,FG
-3,246,1,11:20,,10,1,58,PIT 35,0,PIT,
-3,437,2,06:43,,5,1,63,CLE 5,0,PIT,
-3,267,2,10:41,,2,1,12,PIT 43,0,PIT,
-17,2802,0,03:23,,0,3,0,CLE 35,0,CLE,KICKOFF
-17,2866,1,02:13,,10,3,13,PIT 33,0,PIT,INT
-17,2842,2,02:47,,10,3,13,PIT 20,0,PIT,
-17,2818,1,03:23,,10,3,0,PIT 20,0,PIT,
-4,567,3,03:50,,8,1,2,CLE 22,0,CLE,
-4,542,2,04:34,,12,1,2,CLE 18,0,CLE,
-4,589,4,03:46,,8,1,2,CLE 22,0,CLE,PUNT
-4,498,0,05:09,,0,1,-2,PIT 35,0,PIT,KICKOFF
-4,513,1,05:09,,10,1,-2,CLE 20,0,CLE,
-2,227,4,11:28,,20,1,-10,CLE 22,0,CLE,PUNT
-2,183,2,12:42,,10,1,-3,CLE 32,0,CLE,
-2,161,1,12:49,,10,1,-10,CLE 32,0,CLE,
-2,208,3,12:07,,13,1,-10,CLE 29,0,CLE,
-15,2524,1,09:04,,10,3,62,CLE 41,0,PIT,
-15,2470,1,09:32,,10,3,41,PIT 47,0,PIT,
-15,2425,1,10:40,,10,3,35,PIT 37,0,PIT,
-15,2566,1,07:59,,10,3,63,CLE 30,0,PIT,
-15,2446,2,10:07,,6,3,41,PIT 41,0,PIT,
-15,2492,2,09:28,,10,3,53,PIT 47,0,PIT,PENALTY
-15,2585,2,07:18,,11,3,57,CLE 31,0,PIT,
-15,2350,1,12:18,,10,3,2,PIT 6,0,PIT,
-15,2392,3,11:04,,2,3,31,PIT 14,0,PIT,
-15,2371,2,11:46,,8,3,8,PIT 8,0,PIT,
-15,2604,3,06:32,,17,3,57,CLE 37,0,PIT,
-15,2545,2,08:37,,1,3,64,CLE 32,0,PIT,
-15,2626,4,06:26,,17,3,57,CLE 37,0,PIT,PUNT
+24,4050,2,02:00,(2:00) B.Tate right guard to PIT 43 for 2 yards (T.Polamalu).,14,4,-2,PIT 45,0,CLE,
+24,4088,3,01:55,(1:55) B.Tate left guard to PIT 38 for 5 yards (T.Polamalu; L.Timmons).,12,4,3,PIT 43,0,CLE,
+24,4012,1,02:33,(2:33) B.Tate left tackle to PIT 45 for -4 yards (J.Worilds).,10,4,-4,PIT 41,0,CLE,
+24,4071,0,01:55,Timeout #2 by PIT at 01:55.,0,4,-2,,0,,TIMEOUT
+24,4126,4,01:48,"(1:48) (Punt formation) S.Lanning punts 35 yards to PIT 3, Center-C.Yount. V.Williams to PIT 3 for no gain (J.Leonhard; C.Yount).",7,4,3,PIT 38,0,CLE,PUNT
+24,4033,0,02:00,Two-Minute Warning,0,4,-4,,0,,
+24,4109,0,01:48,Timeout #3 by PIT at 01:48.,0,4,3,,0,,TIMEOUT
+24,3990,0,02:36,S.Suisham kicks onside 9 yards from PIT 35 to PIT 44. C.Robertson to PIT 41 for 3 yards (M.Spaeth).,0,4,-4,PIT 35,0,PIT,KICKOFF
+25,4215,0,00:11,Timeout #1 by CLE at 00:11.,0,4,4,,0,,TIMEOUT
+25,4151,1,01:37,(1:37) L.Blount right guard to PIT 2 for -1 yards (J.Sheard; T.Gipson).,10,4,-1,PIT 3,0,PIT,
+25,4193,3,00:20,(:20) (Shotgun) B.Roethlisberger pass incomplete deep right to L.Moore (J.Haden).,6,4,4,PIT 7,0,PIT,
+25,4172,2,01:02,(1:02) L.Blount right guard to PIT 7 for 5 yards (K.Dansby).,11,4,4,PIT 2,0,PIT,
+25,4240,4,00:11,"(:11) B.Wing punts 70 yards to CLE 23, Center-G.Warren, downed by PIT-R.Ventrone.",6,4,4,PIT 7,0,PIT,PUNT
+20,3311,2,11:19,"(11:19) I.Crowell right tackle to CLE 40 for 10 yards (M.Mitchell). FUMBLES (M.Mitchell), RECOVERED by PIT-C.Allen at CLE 44. C.Allen to CLE 44 for no gain (A.Hawkins).",6,4,14,CLE 30,0,CLE,FUMBLE
+20,3290,1,11:58,(11:58) I.Crowell left guard to CLE 30 for 4 yards (T.Polamalu).,10,4,4,CLE 26,0,CLE,
+21,3563,2,08:02,"(8:02) (No Huddle) L.Bell left guard to CLE 6 for -4 yards (D.Whitner). PENALTY on CLE-I.Kitchen, Defensive Offside, 1 yard, enforced at CLE 2 - No Play. Penalty on CLE, Defensive 12 On-field, declined.",1,4,43,CLE 2,0,PIT,PENALTY
+21,3518,3,09:02,(9:02) L.Bell right guard to CLE 11 for 5 yards (T.Gipson; E.Martin).,1,4,33,CLE 16,0,PIT,
+21,3595,1,07:45,"(7:45) B.Roethlisberger pass incomplete short right to A.Brown (B.Skrine). PENALTY on PIT-K.Beachum, Personal Foul, 15 yards, enforced at CLE 1.",1,4,35,CLE 1,0,PIT,PENALTY
+21,3628,2,07:42,(7:42) (Shotgun) B.Roethlisberger pass incomplete deep right to M.Wheaton.,16,4,28,CLE 16,0,PIT,
+21,3377,1,10:44,"(10:44) (No Huddle, Shotgun) B.Roethlisberger pass short right to L.Bell to CLE 30 for -2 yards (K.Dansby).",10,4,14,CLE 28,0,PIT,
+21,3343,1,11:11,(11:11) B.Roethlisberger pass short left to A.Brown ran ob at CLE 28 for 16 yards (T.Gipson).,10,4,16,CLE 44,0,PIT,
+21,3458,1,10:05,(10:05) B.Roethlisberger pass short left to M.Wheaton to CLE 16 for 9 yards (B.Skrine).,10,4,28,CLE 25,0,PIT,
+21,3492,2,10:05,"(10:05) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short middle to L.Moore.",1,4,28,CLE 16,0,PIT,
+21,3401,2,10:10,"(10:10) (No Huddle, Shotgun) B.Roethlisberger pass incomplete deep left to A.Brown (J.Haden).",12,4,14,CLE 30,0,PIT,
+21,3423,3,10:05,"(10:05) (Shotgun) B.Roethlisberger pass short left to H.Miller to CLE 20 for 10 yards (K.Dansby). PENALTY on CLE-J.Haden, Defensive Holding, 5 yards, enforced at CLE 30 - No Play.",12,4,19,CLE 30,0,PIT,PENALTY
+21,3539,1,08:23,(8:23) (Shotgun) B.Roethlisberger pass short left to M.Wheaton to CLE 2 for 9 yards (J.Gilbert).,10,4,42,CLE 11,0,PIT,
+21,3650,3,07:37,(7:37) (Shotgun) B.Roethlisberger pass short middle to J.Brown to CLE 9 for 7 yards (D.Whitner) [J.Sheard].,16,4,35,CLE 16,0,PIT,
+21,3674,4,06:48,(6:48) (Shotgun) B.Roethlisberger pass incomplete short right to M.Wheaton.,9,4,35,CLE 9,0,PIT,
+22,3759,2,04:41,(4:41) I.Crowell left tackle to CLE 25 for 1 yard (C.Thomas).,8,4,16,CLE 24,0,CLE,
+22,3826,4,03:49,"(3:49) (Punt formation) S.Lanning punts 53 yards to PIT 24, Center-C.Yount. D.Archer to PIT 26 for 2 yards (M.Moore).",9,4,14,CLE 23,0,CLE,PUNT
+22,3717,2,06:04,(6:04) B.Tate left guard to CLE 22 for 11 yards (J.Worilds).,8,4,13,CLE 11,0,CLE,
+22,3804,0,03:49,Timeout #1 by PIT at 03:49.,0,4,14,,0,,TIMEOUT
+22,3780,3,03:55,(3:55) I.Crowell right tackle to CLE 23 for -2 yards (J.Worilds).,7,4,14,CLE 25,0,CLE,
+22,3696,1,06:46,(6:46) B.Tate right guard to CLE 11 for 2 yards (C.Heyward; L.Timmons).,10,4,2,CLE 9,0,CLE,
+22,3738,1,05:23,(5:23) B.Tate right guard to CLE 24 for 2 yards (T.Polamalu).,10,4,15,CLE 22,0,CLE,
+23,3884,1,03:26,(3:26) (Shotgun) B.Roethlisberger pass short right to M.Wheaton to CLE 43 for 9 yards (J.Gilbert).,10,4,31,PIT 48,0,PIT,
+23,3908,2,02:57,"(2:57) (No Huddle, Shotgun) B.Roethlisberger pass deep left to A.Brown to CLE 26 for 17 yards (J.Haden).",1,4,48,CLE 43,0,PIT,
+23,3932,1,02:51,"(2:51) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short middle to L.Moore.",10,4,48,CLE 26,0,PIT,
+23,3974,0,02:36,"S.Suisham extra point is GOOD, Center-G.Warren, Holder-B.Wing.",0,4,74,CLE 2,1,PIT,XP
+23,3851,1,03:39,"(3:39) (Shotgun) L.Bell left tackle to PIT 33 for 7 yards (J.Sheard; T.Gipson). PENALTY on CLE-T.Gipson, Taunting, 15 yards, enforced at PIT 33.",10,4,22,PIT 26,0,PIT,PENALTY
+23,3954,2,02:45,"(2:45) (Shotgun) B.Roethlisberger pass deep left to L.Moore for 26 yards, TOUCHDOWN.",10,4,74,CLE 26,1,PIT,TD
+1,132,4,12:56,"(12:56) (Punt formation) B.Wing punts 51 yards to CLE 27, Center-G.Warren, out of bounds. PENALTY on PIT-A.Blake, Player Out of Bounds on Punt, 5 yards, enforced at CLE 27.",2,1,8,PIT 22,0,PIT,PUNT
+1,62,1,14:56,(14:56) (Shotgun) B.Roethlisberger pass short right to M.Wheaton to PIT 20 for 6 yards (B.Skrine).,10,1,6,PIT 14,0,PIT,
+1,86,2,14:16,(14:16) L.Bell right guard to PIT 23 for 3 yards (I.Kitchen).,4,1,9,PIT 20,0,PIT,
+1,36,0,15:00,B.Cundiff kicks 71 yards from CLE 35 to PIT -6. D.Archer to PIT 14 for 20 yards (B.Mingo; J.Bademosi). Steelers call tails for the coin toss,0,1,0,CLE 35,0,CLE,KICKOFF
+1,107,3,13:34,(13:34) L.Bell left end to PIT 22 for -1 yards (T.Gipson). Pitch out,1,1,8,PIT 23,0,PIT,
+3,458,3,05:59,(5:59) L.Blount right tackle to CLE 2 for 1 yard (C.Robertson).,3,1,63,CLE 3,0,PIT,
+3,338,3,08:43,(8:43) (Shotgun) L.Bell left end to CLE 34 for 12 yards (C.Kirksey).,3,1,31,CLE 46,0,PIT,
+3,317,2,09:22,(9:22) (Shotgun) D.Archer left guard to CLE 46 for 4 yards (C.Kirksey).,7,1,19,50,0,PIT,
+3,380,2,07:20,"(7:20) (Shotgun) B.Roethlisberger pass incomplete deep left to A.Brown. PENALTY on CLE-B.Skrine, Defensive Pass Interference, 24 yards, enforced at CLE 31 - No Play.",7,1,58,CLE 31,0,PIT,PENALTY
+3,246,1,11:20,(11:20) L.Blount right guard to PIT 43 for 8 yards (D.Whitner).,10,1,58,PIT 35,0,PIT,
+3,267,2,10:41,(10:41) L.Bell right guard to PIT 47 for 4 yards (D.Bryant). Pitch back,2,1,12,PIT 43,0,PIT,
+3,413,1,07:14,(7:14) L.Bell left guard to CLE 5 for 2 yards (A.Bryant). CLE-A.Bryant was injured during the play. His return is Questionable.,7,1,63,CLE 7,0,PIT,
+3,437,2,06:43,(6:43) L.Bell right guard to CLE 3 for 2 yards (D.Whitner; D.Bryant).,5,1,63,CLE 5,0,PIT,
+3,479,4,05:12,"(5:12) (Field Goal formation) S.Suisham 20 yard field goal is GOOD, Center-G.Warren, Holder-B.Wing.",2,1,63,CLE 2,1,PIT,FG
+3,292,1,10:06,(10:06) L.Bell right guard to 50 for 3 yards (P.Kruger). Pitch back,10,1,15,PIT 47,0,PIT,
+3,359,1,08:03,(8:03) L.Blount right guard to CLE 31 for 3 yards (A.Bryant; I.Kitchen).,10,1,34,CLE 34,0,PIT,
+2,227,4,11:28,"(11:28) (Punt formation) S.Lanning punts 43 yards to PIT 35, Center-C.Yount, fair catch by A.Brown.",20,1,-10,CLE 22,0,CLE,PUNT
+2,183,2,12:42,(12:42) B.Tate left tackle to CLE 29 for -3 yards (T.Polamalu). Pitch out,10,1,-3,CLE 32,0,CLE,
+2,161,1,12:49,(12:49) B.Hoyer pass incomplete short right to R.Agnew.,10,1,-10,CLE 32,0,CLE,
+2,208,3,12:07,(12:07) (Shotgun) B.Hoyer sacked at CLE 22 for -7 yards (C.Heyward).,13,1,-10,CLE 29,0,CLE,
+5,620,1,03:37,(3:37) (Shotgun) D.Archer left guard to CLE 45 for 5 yards (K.Dansby; I.Kitchen).,10,1,5,50,0,PIT,
+5,831,3,13:45,(13:45) (Shotgun) B.Roethlisberger pass incomplete short left to M.Wheaton.,3,2,33,CLE 17,0,PIT,
+5,772,0,15:00,Timeout #1 by PIT at 15:00.,0,2,26,,0,,TIMEOUT
+5,853,4,13:41,"(13:41) (Field Goal formation) B.Wing FUMBLES (Aborted) at CLE 25, and recovers at CLE 32. B.Wing to CLE 32 for no gain (C.Robertson).",3,2,18,CLE 17,0,PIT,FUMBLE
+5,662,3,02:21,(2:21) B.Roethlisberger pass short right to J.Brown to CLE 39 for 2 yards (K.Williams).,1,1,11,CLE 41,0,PIT,
+5,711,2,01:09,(1:09) (Shotgun) L.Bell left tackle to CLE 32 for 9 yards (K.Dansby; T.Gipson).,12,1,18,CLE 41,0,PIT,
+5,789,1,15:00,(15:00) L.Blount left guard to CLE 19 for 5 yards (T.Gipson).,10,2,31,CLE 24,0,PIT,
+5,641,2,03:01,(3:01) L.Blount right guard to CLE 41 for 4 yards (C.Robertson).,5,1,9,CLE 45,0,PIT,
+5,732,3,00:26,(:26) (Shotgun) B.Roethlisberger pass short left to L.Bell to CLE 24 for 8 yards (T.Gipson; C.Kirksey).,3,1,26,CLE 32,0,PIT,
+5,810,2,14:26,(14:26) L.Blount right guard to CLE 17 for 2 yards (J.Hughes; E.Martin).,5,2,33,CLE 19,0,PIT,
+5,686,1,01:43,(1:43) A.Brown left end to CLE 41 for -2 yards (D.Whitner). End around,10,1,9,CLE 39,0,PIT,
+4,542,2,04:34,(4:34) B.Tate right tackle to CLE 22 for 4 yards (J.Harrison). Pitch Out,12,1,2,CLE 18,0,CLE,
+4,513,1,05:09,(5:09) B.Tate left guard to CLE 18 for -2 yards (L.Timmons). Pitch back,10,1,-2,CLE 20,0,CLE,
+4,589,4,03:46,"(3:46) (Punt formation) S.Lanning punts 38 yards to PIT 40, Center-C.Yount. A.Brown ran ob at 50 for 10 yards (C.Kirksey).",8,1,2,CLE 22,0,CLE,PUNT
+4,498,0,05:09,"S.Suisham kicks 65 yards from PIT 35 to end zone, Touchback.",0,1,-2,PIT 35,0,PIT,KICKOFF
+4,567,3,03:50,(3:50) (Shotgun) B.Hoyer pass incomplete short left to T.Gabriel [S.Spence].,8,1,2,CLE 22,0,CLE,
+7,1137,4,10:50,"(10:50) B.Wing punts 35 yards to 50, Center-G.Warren, fair catch by T.Benjamin. PENALTY on CLE-M.Moore, Offensive Holding, 10 yards, enforced at 50.",11,2,-1,PIT 15,0,PIT,PUNT
+7,1067,2,11:36,(11:36) L.Bell right guard to PIT 20 for 4 yards (K.Dansby; I.Kitchen).,10,2,4,PIT 16,0,PIT,
+7,1088,3,10:55,"(10:55) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short left to M.Wheaton (B.Skrine).",6,2,4,PIT 20,0,PIT,
+7,1110,4,10:50,"(10:50) (Punt formation) PENALTY on PIT-S.Spence, False Start, 5 yards, enforced at PIT 20 - No Play.",6,2,-1,PIT 20,0,PIT,PENALTY
+7,1008,0,11:45,B.Cundiff kicks 71 yards from CLE 35 to PIT -6. D.Archer to PIT 16 for 22 yards (J.Poyer).,0,2,0,CLE 35,0,CLE,KICKOFF
+7,1030,1,11:41,(11:41) (Shotgun) B.Roethlisberger pass incomplete deep right to L.Bell.,10,2,0,PIT 16,0,PIT,
+6,902,2,13:28,(13:28) I.Crowell right tackle to CLE 36 for 4 yards (S.Spence). Pitch Out,10,2,4,CLE 32,0,CLE,
+6,975,1,11:49,"(11:49) (No Huddle) I.Crowell right end for 5 yards, TOUCHDOWN.",5,2,68,PIT 5,1,CLE,TD
+6,880,1,13:36,(13:36) B.Hoyer pass incomplete short left to A.Hawkins.,10,2,4,CLE 32,0,CLE,
+6,992,0,11:45,"(Kick formation) B.Cundiff extra point is GOOD, Center-C.Yount, Holder-S.Lanning.",0,2,68,PIT 2,1,CLE,XP
+6,951,1,12:15,(12:15) B.Hoyer pass deep right to J.Cameron to PIT 5 for 42 yards (B.Keisel).,10,2,63,PIT 47,0,CLE,
+6,927,3,12:51,(12:51) (Shotgun) B.Hoyer pass deep left to M.Austin to PIT 47 for 17 yards (W.Gay).,6,2,21,CLE 36,0,CLE,
+9,1323,1,09:05,(9:05) (Shotgun) L.Bell right tackle to PIT 41 for 6 yards (K.Dansby).,10,2,21,PIT 35,0,PIT,
+9,1282,0,09:35,"B.Cundiff kicks 65 yards from CLE 35 to end zone, Touchback.",0,2,0,CLE 35,0,CLE,KICKOFF
+9,1344,2,08:27,(8:27) L.Bell right guard to PIT 44 for 3 yards (P.Kruger). Pitch back,4,2,24,PIT 41,0,PIT,
+9,1297,1,09:35,(9:35) (Shotgun) D.Archer left guard ran ob at PIT 35 for 15 yards.,10,2,15,PIT 20,0,PIT,
+9,1391,4,07:41,"(7:41) (Punt formation) B.Wing punts 40 yards to CLE 16, Center-G.Warren. J.Leonhard to CLE 15 for -1 yards (R.Ventrone).",1,2,24,PIT 44,0,PIT,PUNT
+9,1369,3,07:47,(7:47) (Shotgun) B.Roethlisberger pass incomplete deep left to M.Wheaton.,1,2,24,PIT 44,0,PIT,
+8,1242,3,09:40,"(9:40) (No Huddle) B.Hoyer pass deep middle to J.Cameron for 51 yards, TOUCHDOWN.",1,2,60,CLE 49,1,CLE,TD
+8,1168,1,10:43,(10:43) B.Tate left guard to CLE 43 for 3 yards (L.Timmons).,10,2,3,CLE 40,0,CLE,
+8,1266,0,09:35,"B.Cundiff extra point is GOOD, Center-C.Yount, Holder-S.Lanning.",0,2,60,PIT 2,1,CLE,XP
+8,1221,2,10:09,(10:09) B.Tate right guard to CLE 49 for 1 yard (C.Allen).,2,2,9,CLE 48,0,CLE,
+8,1189,2,10:21,"(10:21) (No Huddle) B.Tate left guard to CLE 43 for no gain (J.Harrison). PENALTY on PIT-C.Heyward, Defensive Offside, 5 yards, enforced at CLE 43 - No Play.",7,2,60,CLE 43,0,CLE,PENALTY
+11,1817,2,01:56,"(1:56) (No Huddle, Shotgun) B.Roethlisberger pass short left to A.Brown to CLE 48 for 17 yards (J.Haden) [D.Bryant].",10,2,33,PIT 35,0,PIT,
+11,1841,1,01:51,"(1:51) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short left to L.Bell (C.Kirksey).",10,2,33,CLE 48,0,PIT,
+11,1732,0,02:27,B.Cundiff kicks 68 yards from CLE 35 to PIT -3. D.Archer to PIT 19 for 22 yards (M.Moore).,0,2,0,CLE 35,0,CLE,KICKOFF
+11,1795,1,02:00,(2:00) (Shotgun) B.Roethlisberger pass incomplete short middle to M.Wheaton (K.Williams).,10,2,16,PIT 35,0,PIT,
+11,1863,2,01:46,"(1:46) (No Huddle, Shotgun) B.Roethlisberger pass incomplete deep right to M.Wheaton.",10,2,33,CLE 48,0,PIT,
+11,1909,4,01:33,"(1:33) (Punt formation) B.Wing punts 33 yards to CLE 14, Center-G.Warren, fair catch by J.Leonhard.",9,2,34,CLE 47,0,PIT,PUNT
+11,1885,3,01:41,(1:41) (Shotgun) B.Roethlisberger pass short right to L.Bell to CLE 47 for 1 yard (C.Kirksey; J.Haden).,10,2,34,CLE 48,0,PIT,
+11,1754,1,02:22,(2:22) (Shotgun) B.Roethlisberger pass short left to A.Brown to PIT 35 for 16 yards (J.Haden).,10,2,16,PIT 19,0,PIT,
+10,1623,2,03:59,(3:59) (No Huddle) B.Tate left guard to PIT 10 for 6 yards (L.Timmons; C.Allen).,8,2,75,PIT 16,0,CLE,
+10,1644,0,03:12,Timeout #1 by CLE at 03:12.,0,2,75,,0,,TIMEOUT
+10,1441,1,07:18,(7:18) (No Huddle) B.Hoyer pass deep left to T.Gabriel to 50 for 24 yards (C.Allen).,10,2,35,CLE 26,0,CLE,
+10,1602,1,04:27,(4:27) B.Tate left guard to PIT 16 for 2 yards (L.Timmons).,10,2,69,PIT 18,0,CLE,
+10,1661,0,03:12,Timeout #2 by PIT at 03:12.,0,2,75,,0,,TIMEOUT
+10,1549,2,05:07,(5:07) B.Hoyer pass incomplete deep right to T.Gabriel (M.Mitchell).,9,2,55,PIT 30,0,CLE,
+10,1716,0,02:27,"B.Cundiff extra point is GOOD, Center-C.Yount, Holder-S.Lanning.",0,2,85,PIT 2,1,CLE,XP
+10,1578,3,05:03,(5:03) (Shotgun) B.Hoyer pass short right to M.Austin to PIT 18 for 12 yards (C.Allen).,9,2,67,PIT 30,0,CLE,
+10,1678,3,03:11,(3:11) (Shotgun) B.Tate right guard to PIT 8 for 2 yards (L.Timmons; B.Keisel).,2,2,77,PIT 10,0,CLE,
+10,1521,1,05:46,"(5:46) I.Crowell to PIT 31 for no gain. FUMBLES, and recovers at PIT 31. I.Crowell to PIT 30 for 1 yard (W.Gay; S.Tuitt).",10,2,55,PIT 31,0,CLE,FUMBLE
+10,1496,2,06:22,(6:22) I.Crowell left tackle to PIT 31 for 16 yards (M.Mitchell). pitchout,7,2,54,PIT 47,0,CLE,
+10,1465,1,06:57,(6:57) (No Huddle) I.Crowell right tackle to PIT 47 for 3 yards (C.Heyward). CLE-A.Mack was injured during the play. He is Out.,10,2,67,50,0,CLE,
+10,1416,1,07:34,(7:34) I.Crowell right end to CLE 26 for 11 yards (C.Allen). Pitch Out,10,2,11,CLE 15,0,CLE,
+10,1699,1,02:31,"(2:31) B.Tate right guard for 8 yards, TOUCHDOWN.",8,2,85,PIT 8,1,CLE,TD
+13,2120,0,00:01,Timeout #3 by PIT at 00:01.,0,2,16,,0,,TIMEOUT
+13,2057,2,00:16,(:16) (Shotgun) B.Roethlisberger pass incomplete deep left to J.Brown.,10,2,0,PIT 38,0,PIT,
+13,2137,1,00:01,(:01) (Shotgun) B.Roethlisberger pass short left to A.Brown to CLE 23 for 23 yards (J.Gilbert).,10,2,39,CLE 46,0,PIT,
+13,2079,0,00:08,Timeout #3 by CLE at 00:08.,0,2,0,,0,,TIMEOUT
+13,2035,1,00:23,(:23) (Shotgun) B.Roethlisberger pass incomplete short left to L.Moore (K.Williams).,10,2,0,PIT 38,0,PIT,
+13,2096,3,00:08,(:08) (Shotgun) B.Roethlisberger pass short right to L.Bell to CLE 46 for 16 yards (K.Dansby; J.Leonhard).,10,2,39,PIT 38,0,PIT,
+12,1967,2,01:23,(1:23) (Shotgun) B.Tate right guard to CLE 16 for 2 yards (T.Polamalu).,10,2,2,CLE 14,0,CLE,
+12,2010,4,00:28,"(:28) (Punt formation) S.Lanning punts 45 yards to PIT 39, Center-C.Yount. A.Brown to PIT 38 for -1 yards (G.Barnidge).",8,2,2,CLE 16,0,CLE,PUNT
+12,1988,3,00:38,(:38) (Shotgun) B.Hoyer pass incomplete short left to A.Hawkins.,8,2,2,CLE 16,0,CLE,
+12,1945,1,01:27,(1:27) (Shotgun) B.Hoyer pass incomplete short right to T.Gabriel.,10,2,2,CLE 14,0,CLE,
+15,2604,3,06:32,(6:32) (Shotgun) B.Roethlisberger pass incomplete deep right to L.Moore. CLE-K.Williams was injured during the play. His return is Questionable.,17,3,57,CLE 37,0,PIT,
+15,2524,1,09:04,(9:04) L.Bell right guard to CLE 32 for 9 yards (K.Dansby; D.Whitner).,10,3,62,CLE 41,0,PIT,
+15,2585,2,07:18,"(7:18) (No Huddle, Shotgun) B.Roethlisberger sacked at CLE 37 for -6 yards (D.Bryant).",11,3,57,CLE 31,0,PIT,
+15,2446,2,10:07,"(10:07) (No Huddle, Shotgun) B.Roethlisberger pass short right to H.Miller to PIT 47 for 6 yards (D.Whitner; I.Kitchen).",6,3,41,PIT 41,0,PIT,
+15,2545,2,08:37,(8:37) (No Huddle) L.Bell left guard to CLE 30 for 2 yards (J.Sheard).,1,3,64,CLE 32,0,PIT,
+15,2470,1,09:32,"(9:32) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short left to H.Miller.",10,3,41,PIT 47,0,PIT,
+15,2492,2,09:28,"(9:28) (No Huddle, Shotgun) B.Roethlisberger scrambles left guard to CLE 46 for 7 yards (T.Gipson). PENALTY on CLE-J.Haden, Defensive Holding, 5 yards, enforced at CLE 46.",10,3,53,PIT 47,0,PIT,PENALTY
+15,2425,1,10:40,"(10:40) (No Huddle, Shotgun) L.Bell left guard to PIT 41 for 4 yards (K.Dansby; I.Kitchen).",10,3,35,PIT 37,0,PIT,
+15,2566,1,07:59,"(7:59) (No Huddle, Shotgun) B.Roethlisberger sacked at CLE 31 for -1 yards (K.Dansby).",10,3,63,CLE 30,0,PIT,
+15,2392,3,11:04,(11:04) B.Roethlisberger pass deep left to A.Brown ran ob at PIT 37 for 23 yards.,2,3,31,PIT 14,0,PIT,
+15,2626,4,06:26,"(6:26) (Punt formation) B.Wing punts 37 yards to end zone, Center-G.Warren, Touchback.",17,3,57,CLE 37,0,PIT,PUNT
+15,2350,1,12:18,(12:18) L.Bell right guard to PIT 8 for 2 yards (B.Mingo).,10,3,2,PIT 6,0,PIT,
+15,2371,2,11:46,(11:46) L.Bell right guard to PIT 14 for 6 yards (C.Kirksey; D.Whitner).,8,3,8,PIT 8,0,PIT,
+14,2309,3,12:31,(12:31) (Shotgun) B.Hoyer pass incomplete short right to M.Austin.,8,3,44,PIT 36,0,CLE,
+14,2331,4,12:27,"(12:27) (Punt formation) S.Lanning punts 30 yards to PIT 6, Center-C.Yount, downed by CLE-B.Mingo.",8,3,44,PIT 36,0,CLE,PUNT
+14,2217,2,14:27,(14:27) T.Benjamin right end to CLE 31 for 3 yards (S.Spence). End Around,2,3,11,CLE 28,0,CLE,
+14,2287,2,12:37,(12:37) (No Huddle) B.Hoyer pass incomplete short left to J.Cameron [B.Keisel].,8,3,44,PIT 36,0,CLE,
+14,2192,1,15:00,(15:00) B.Tate left tackle to CLE 28 for 8 yards (J.Worilds). Pitch Out,10,3,8,CLE 20,0,CLE,
+14,2177,0,15:00,"S.Suisham kicks 65 yards from PIT 35 to end zone, Touchback.",0,3,0,PIT 35,0,PIT,KICKOFF
+14,2266,1,13:06,(13:06) (No Huddle) B.Tate right tackle to PIT 36 for 2 yards (T.Polamalu).,10,3,44,PIT 38,0,CLE,
+14,2242,1,13:40,(13:40) B.Hoyer pass deep left to T.Benjamin to PIT 38 for 31 yards (C.Allen).,10,3,42,CLE 31,0,CLE,
+17,2802,0,03:23,"B.Cundiff kicks 65 yards from CLE 35 to end zone, Touchback.",0,3,0,CLE 35,0,CLE,KICKOFF
+17,2842,2,02:47,"(2:47) (No Huddle, Shotgun) B.Roethlisberger pass short right to H.Miller to PIT 33 for 13 yards (K.Dansby) [I.Kitchen].",10,3,13,PIT 20,0,PIT,
+17,2818,1,03:23,(3:23) (Shotgun) B.Roethlisberger pass short right to D.Archer to PIT 20 for no gain (B.Skrine).,10,3,0,PIT 20,0,PIT,
+17,2866,1,02:13,"(2:13) (No Huddle, Shotgun) B.Roethlisberger pass short left intended for H.Miller INTERCEPTED by B.Skrine (J.Hughes) at PIT 37. B.Skrine to PIT 39 for -2 yards (M.Wheaton). 93 Hughes tipped ball The Replay Official challenged the incomplete pass ruling, and the play was Upheld. The ruling on the field stands.",10,3,13,PIT 33,0,PIT,INT
+16,2779,4,03:28,"(3:28) (Field Goal formation) B.Cundiff 40 yard field goal is GOOD, Center-C.Yount, Holder-S.Lanning.",7,3,58,PIT 22,1,CLE,FG
+16,2701,1,05:02,"(5:02) B.Hoyer FUMBLES (Aborted) at PIT 31, recovered by CLE-I.Crowell at PIT 31. I.Crowell to PIT 31 for no gain (J.Harrison).",10,3,58,PIT 25,0,CLE,FUMBLE
+16,2729,2,04:18,(4:18) (Shotgun) B.Hoyer pass short right to J.Cameron to PIT 22 for 9 yards (L.Timmons).,16,3,58,PIT 31,0,CLE,
+16,2647,1,06:15,(6:15) I.Crowell right end ran ob at CLE 44 for 24 yards (C.Allen). Pitch Out,10,3,24,CLE 20,0,CLE,
+16,2673,1,05:46,(5:46) (No Huddle) B.Hoyer pass short left to J.Dray to PIT 25 for 31 yards (J.Harrison).,10,3,55,CLE 44,0,CLE,
+16,2753,3,03:34,(3:34) (Shotgun) B.Hoyer pass incomplete deep middle to J.Cameron (M.Mitchell). PIT-L.Timmons was injured during the play. His return is Probable.,7,3,58,PIT 22,0,CLE,
+19,3197,1,12:47,(12:47) (Shotgun) B.Roethlisberger pass short right to A.Brown to PIT 26 for 6 yards (D.Whitner).,10,4,6,PIT 20,0,PIT,
+19,3243,3,12:14,"(12:14) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short left to A.Brown.",4,4,6,PIT 26,0,PIT,
+19,3221,2,12:20,"(12:20) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short left to J.Brown (B.Skrine).",4,4,6,PIT 26,0,PIT,
+19,3182,0,12:47,"B.Cundiff kicks 65 yards from CLE 35 to end zone, Touchback.",0,4,0,CLE 35,0,CLE,KICKOFF
+19,3265,4,12:09,"(12:09) (Punt formation) B.Wing punts 56 yards to CLE 18, Center-G.Warren. J.Poyer to CLE 26 for 8 yards (R.Ventrone; G.Warren).",4,4,6,PIT 26,0,PIT,PUNT
+18,3128,1,13:29,(13:29) B.Tate right guard to PIT 1 for 1 yard (J.Worilds; L.Timmons).,2,4,38,PIT 2,0,CLE,
+18,3012,1,00:43,(:43) B.Tate right tackle to PIT 12 for 12 yards (M.Mitchell). Pitch out,10,3,27,PIT 24,0,CLE,
+18,3095,3,13:33,"(13:33) (Shotgun) B.Hoyer pass incomplete short right to M.Austin. PENALTY on PIT-C.Allen, Defensive Holding, 2 yards, enforced at PIT 4 - No Play.",2,4,39,PIT 4,0,CLE,PENALTY
+18,2927,1,02:04,(2:04) B.Tate left guard to PIT 37 for 2 yards (C.Heyward; S.Spence).,10,3,2,PIT 39,0,CLE,
+18,2977,3,00:46,"(:46) (Shotgun) B.Hoyer pass incomplete short right to J.Cameron (T.Polamalu). PENALTY on PIT-M.Mitchell, Defensive Pass Interference, 10 yards, enforced at PIT 34 - No Play.",5,3,27,PIT 34,0,CLE,PENALTY
+18,3074,2,14:18,(14:18) B.Tate right guard to PIT 4 for 5 yards (S.Spence; T.Polamalu).,7,4,35,PIT 9,0,CLE,
+18,2948,2,01:24,(1:24) B.Tate right tackle to PIT 34 for 3 yards (L.Timmons). Pitch Out,8,3,5,PIT 37,0,CLE,
+18,3166,0,12:47,"B.Cundiff extra point is GOOD, Center-C.Yount, Holder-S.Lanning.",0,4,39,PIT 2,1,CLE,XP
+18,3149,2,12:50,"(12:50) B.Tate right guard for 1 yard, TOUCHDOWN.",1,4,39,PIT 1,1,CLE,TD
+18,3053,1,15:00,(15:00) B.Tate right tackle to PIT 9 for 3 yards (S.Spence; J.Harrison).,10,4,30,PIT 12,0,CLE,

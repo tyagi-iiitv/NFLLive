@@ -1,166 +1,166 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,2347,0,07:39,,0,3,0,KC 35,0,KC,KICKOFF
-9,2463,2,04:52,,9,3,11,SEA 31,0,SEA,
-9,2418,3,06:09,,5,3,11,SEA 24,0,SEA,
-9,2442,1,05:29,,10,3,12,SEA 30,0,SEA,
-9,2503,4,03:26,,10,3,11,SEA 30,0,SEA,PUNT
-9,2484,3,04:04,,8,3,11,SEA 32,0,SEA,
-9,2390,2,06:52,,5,3,5,SEA 24,0,SEA,
-9,2369,1,07:33,,10,3,5,SEA 19,0,SEA,
-18,3875,2,00:34,,10,4,-1,SEA 20,0,KC,
-18,3896,0,00:00,,0,4,-1,,0,,
-18,3854,1,01:13,,10,4,0,SEA 20,0,KC,
-6,1598,1,01:26,,5,2,5,KC 41,0,KC,
-6,1620,2,01:21,,5,2,5,KC 41,0,KC,
-6,1536,0,01:39,,0,2,0,SEA 35,0,SEA,KICKOFF
-6,1642,3,01:17,,5,2,10,KC 41,0,KC,FUMBLE
-6,1558,1,01:32,,10,2,5,KC 36,0,KC,PENALTY
-14,3277,1,07:08,,11,4,0,KC 1,0,KC,
-14,3231,1,07:08,,10,4,-1,KC 2,0,KC,PENALTY
-14,3320,3,06:31,,10,4,0,KC 2,0,KC,
-14,3254,1,07:08,,11,4,-1,KC 1,0,KC,PENALTY
-14,3342,4,06:27,,10,4,0,KC 2,0,KC,PUNT
-14,3298,2,06:35,,10,4,0,KC 2,0,KC,
-7,1961,3,00:09,,9,2,38,KC 9,0,SEA,
-7,1766,1,00:39,,10,2,12,KC 35,0,SEA,
-7,1829,1,00:31,,10,2,38,KC 23,0,SEA,
-7,1867,1,00:22,,9,2,38,KC 9,0,SEA,
-7,1788,2,00:39,,10,2,24,KC 35,0,SEA,
-7,1673,1,00:54,,10,2,12,KC 47,0,SEA,
-7,1850,0,00:22,,0,2,38,,0,,TIMEOUT
-7,1900,1,00:18,,9,2,38,KC 9,0,SEA,
-7,1944,0,00:09,,0,2,38,,0,,TIMEOUT
-7,1983,4,00:04,,9,2,38,KC 9,1,SEA,FG
-7,1922,2,00:13,,9,2,38,KC 9,0,SEA,
-7,1812,0,00:31,,0,2,24,,0,,TIMEOUT
-8,2240,1,09:42,,10,3,61,SEA 12,0,KC,
-8,2174,2,11:45,,3,3,47,SEA 33,0,KC,
-8,2038,1,15:00,,10,3,5,KC 28,0,KC,PENALTY
-8,2307,3,08:28,,1,3,67,SEA 3,0,KC,
-8,2132,2,13:06,,3,3,32,SEA 44,0,KC,
-8,2219,2,10:21,,1,3,60,SEA 16,0,KC,
-8,2328,4,07:43,,3,3,67,SEA 5,1,KC,FG
-8,2153,1,12:26,,10,3,39,SEA 40,0,KC,
-8,2111,1,13:41,,10,3,28,KC 49,0,KC,
-8,2016,0,15:00,,0,3,0,SEA 35,0,SEA,KICKOFF
-8,2087,1,14:28,,10,3,21,KC 39,0,KC,
-8,2061,1,14:53,,5,3,11,KC 33,0,KC,
-8,2195,1,11:00,,10,3,56,SEA 25,0,KC,
-8,2261,2,08:58,,9,3,69,SEA 11,0,KC,
-8,2290,0,08:28,,0,3,69,,0,,TIMEOUT
-10,2555,1,03:16,,10,3,0,KC 44,0,KC,FUMBLE
-12,2857,1,14:54,,10,4,15,KC 35,0,KC,
-12,2913,1,13:46,,4,4,71,SEA 4,1,KC,TD
-12,2787,1,00:17,,10,3,1,KC 29,0,KC,
-12,2881,2,14:15,,1,4,67,KC 44,0,KC,PENALTY
-12,2930,0,13:41,,0,4,71,SEA 2,1,KC,XP
-12,2824,2,15:00,,9,4,71,KC 30,0,KC,PENALTY
-12,2765,0,00:23,,0,3,0,SEA 35,0,SEA,KICKOFF
-12,2808,0,,,0,3,1,,0,,
-16,3547,2,03:23,,9,4,9,KC 37,0,KC,
-16,3585,3,03:13,,1,4,9,KC 45,0,KC,
-16,3638,4,02:56,,1,4,9,KC 45,0,KC,PUNT
-16,3509,1,03:31,,10,4,1,KC 36,0,KC,
-16,3606,0,02:58,,0,4,9,,0,,TIMEOUT
-16,3568,0,03:13,,0,4,9,,0,,TIMEOUT
-16,3530,0,03:23,,0,4,1,,0,,TIMEOUT
-11,2687,1,01:45,,10,3,40,KC 12,0,SEA,
-11,2708,2,01:09,,2,3,43,KC 4,0,SEA,
-11,2729,1,00:27,,1,3,44,KC 1,1,SEA,TD
-11,2663,2,02:30,,5,3,32,KC 39,0,SEA,
-11,2749,0,00:23,,0,3,44,KC 2,1,SEA,XP
-11,2642,1,03:05,,10,3,5,KC 44,0,SEA,
-3,738,2,00:04,,8,1,46,KC 45,0,SEA,
-3,882,1,13:22,,10,2,61,KC 31,0,SEA,
-3,675,2,02:00,,6,1,39,SEA 45,0,SEA,
-3,954,2,11:05,,8,2,83,KC 8,0,SEA,
-3,906,2,12:40,,8,2,85,KC 29,0,SEA,
-3,607,1,03:41,,10,1,18,SEA 20,0,SEA,
-3,717,1,00:40,,10,1,45,KC 47,0,SEA,
-3,980,3,10:31,,7,2,90,KC 7,1,SEA,TD
-3,820,2,13:43,,12,2,54,KC 36,0,SEA,
-3,1005,0,10:22,,0,2,90,KC 2,1,SEA,XP
-3,654,1,02:32,,10,1,35,SEA 41,0,SEA,
-3,775,3,15:00,,7,2,82,KC 44,0,SEA,
-3,696,3,01:19,,2,1,43,SEA 49,0,SEA,
-3,564,0,04:22,,0,1,0,KC 35,0,KC,KICKOFF
-3,799,1,14:24,,10,2,54,KC 34,0,SEA,
-3,842,3,13:37,,12,2,59,KC 36,0,SEA,PENALTY
-3,759,0,,,0,1,46,,0,,
-3,930,1,11:50,,5,2,90,KC 5,0,SEA,
-3,628,2,02:58,,2,1,31,SEA 28,0,SEA,
-3,586,1,04:16,,10,1,10,SEA 10,0,SEA,
-17,3748,1,01:58,,10,4,24,SEA 28,0,SEA,
-17,3774,2,01:53,,10,4,16,SEA 28,0,SEA,
-17,3685,2,02:12,,9,4,1,SEA 5,0,SEA,
-17,3832,4,01:18,,18,4,16,SEA 20,0,SEA,
-17,3661,1,02:47,,10,4,1,SEA 4,0,SEA,
-17,3793,3,01:23,,18,4,16,SEA 20,0,SEA,
-17,3815,0,01:18,,0,4,16,,0,,TIMEOUT
-17,3707,3,02:06,,9,4,24,SEA 5,0,SEA,
-17,3731,0,01:58,,0,4,24,,0,,
-4,1085,1,08:54,,10,2,64,SEA 29,0,KC,
-4,1126,0,08:09,,0,2,80,SEA 2,1,KC,XP
-4,1109,1,08:15,,10,2,80,SEA 16,1,KC,TD
-4,1040,1,10:22,,10,2,23,KC 20,0,KC,
-4,1064,1,09:40,,10,2,51,KC 43,0,KC,
-4,1021,0,10:22,,0,2,0,SEA 35,0,SEA,KICKOFF
-2,428,1,06:38,,10,1,79,SEA 16,0,KC,
-2,254,2,11:01,,2,1,26,KC 33,0,KC,
-2,275,1,10:22,,10,1,32,KC 40,0,KC,
-2,386,2,08:05,,2,1,56,SEA 33,0,KC,
-2,473,1,05:18,,5,1,85,SEA 5,0,KC,
-2,548,0,04:22,,0,1,86,SEA 2,1,KC,XP
-2,188,2,12:44,,7,1,9,KC 17,0,KC,
-2,520,3,04:28,,1,1,86,SEA 1,1,KC,TD
-2,452,2,05:57,,1,1,81,SEA 7,0,KC,
-2,212,3,12:17,,1,1,11,KC 23,0,KC,
-2,494,2,04:35,,1,1,86,SEA 1,0,KC,
-2,407,1,07:21,,10,1,70,SEA 30,0,KC,
-2,357,2,08:23,,7,1,53,SEA 38,0,KC,PENALTY
-2,164,1,13:23,,10,1,48,KC 14,0,KC,FUMBLE
-2,233,1,11:38,,10,1,19,KC 25,0,KC,
-2,325,1,09:00,,10,1,45,SEA 41,0,KC,
-2,296,2,09:46,,4,1,42,KC 46,0,KC,
-1,119,3,13:40,,2,1,8,SEA 33,0,SEA,
-1,98,2,14:17,,5,1,8,SEA 30,0,SEA,
-1,74,1,14:54,,10,1,5,SEA 25,0,SEA,
-1,141,4,13:36,,2,1,8,SEA 33,0,SEA,PUNT
-1,36,0,15:00,,0,1,0,KC 35,0,KC,FUMBLE
-5,1400,1,02:10,,10,2,76,KC 12,0,SEA,
-5,1438,2,01:55,,13,2,67,KC 15,0,SEA,
-5,1320,1,04:11,,10,2,55,KC 39,0,SEA,
-5,1299,2,04:51,,5,2,42,KC 47,0,SEA,
-5,1517,4,01:43,,3,2,76,KC 5,1,SEA,FG
-5,1209,1,06:40,,10,2,18,SEA 37,0,SEA,
-5,1500,0,01:43,,0,2,76,,0,,TIMEOUT
-5,1379,2,02:35,,12,2,69,KC 26,0,SEA,
-5,1275,1,05:31,,15,2,34,SEA 43,0,SEA,
-5,1362,0,02:35,,0,2,55,,0,,TIMEOUT
-5,1341,1,03:25,,10,2,55,KC 24,0,SEA,
-5,1459,0,01:48,,0,2,67,,0,,TIMEOUT
-5,1164,1,08:04,,10,2,0,SEA 19,0,SEA,
-5,1421,0,01:55,,0,2,66,,0,,
-5,1142,0,08:09,,0,2,0,KC 35,0,KC,KICKOFF
-5,1185,2,07:20,,10,2,18,SEA 19,0,SEA,
-5,1231,2,06:37,,10,2,29,SEA 37,0,SEA,
-5,1476,3,01:48,,12,2,76,KC 14,0,SEA,
-5,1252,1,05:52,,10,2,24,SEA 48,0,SEA,PENALTY
-13,2946,0,13:41,,0,4,0,KC 35,0,KC,KICKOFF
-13,3171,3,07:50,,4,4,75,KC 4,0,SEA,
-13,3147,2,08:25,,4,4,73,KC 4,0,SEA,
-13,3209,4,07:11,,2,4,75,KC 2,0,SEA,
-13,3060,1,10:55,,10,4,57,KC 31,0,SEA,
-13,3039,1,11:43,,10,4,46,KC 42,0,SEA,
-13,2973,1,13:35,,10,4,14,SEA 23,0,SEA,
-13,3102,2,09:44,,6,4,68,KC 16,0,SEA,
-13,2997,1,13:01,,10,4,18,SEA 37,0,SEA,
-13,3018,2,12:24,,6,4,35,SEA 41,0,SEA,
-13,3123,1,09:06,,9,4,75,KC 9,0,SEA,
-13,3081,1,10:20,,10,4,61,KC 20,0,SEA,
-13,3192,0,07:11,,0,4,75,,0,,TIMEOUT
-15,3391,2,06:15,,5,4,0,KC 40,0,SEA,PENALTY
-15,3459,4,03:38,,1,4,9,KC 36,0,SEA,
-15,3367,1,06:15,,10,4,5,KC 45,0,SEA,
-15,3414,2,05:05,,10,4,2,KC 45,0,SEA,
-15,3435,3,04:23,,8,4,9,KC 43,0,SEA,
+11,2708,2,01:09,(1:09) M.Lynch up the middle to KC 1 for 3 yards (H.Abdullah).,2,3,43,KC 4,0,SEA,
+11,2642,1,03:05,(3:05) (Shotgun) M.Lynch up the middle to KC 39 for 5 yards (D.Poe).,10,3,5,KC 44,0,SEA,
+11,2729,1,00:27,"(:27) R.Wilson pass short right to T.Moeaki for 1 yard, TOUCHDOWN.",1,3,44,KC 1,1,SEA,TD
+11,2663,2,02:30,(2:30) R.Wilson pass short right to L.Willson to KC 12 for 27 yards (R.Parker).,5,3,32,KC 39,0,SEA,
+11,2749,0,00:23,"S.Hauschka extra point is GOOD, Center-C.Gresham, Holder-J.Ryan.",0,3,44,KC 2,1,SEA,XP
+11,2687,1,01:45,(1:45) (Shotgun) M.Lynch up the middle to KC 4 for 8 yards (T.Hali).,10,3,40,KC 12,0,SEA,
+10,2555,1,03:16,"(3:16) (Shotgun) J.Charles up the middle to KC 43 for -1 yards (E.Thomas). FUMBLES (E.Thomas), RECOVERED by SEA-B.Maxwell at KC 44. B.Maxwell to KC 44 for no gain (J.Charles).",10,3,0,KC 44,0,KC,FUMBLE
+13,3018,2,12:24,(12:24) (Shotgun) M.Lynch up the middle to KC 42 for 17 yards (P.Gaines).,6,4,35,SEA 41,0,SEA,
+13,3039,1,11:43,(11:43) R.Wilson scrambles left end to KC 31 for 11 yards (S.Smith).,10,4,46,KC 42,0,SEA,
+13,3123,1,09:06,(9:06) M.Lynch left tackle to KC 4 for 5 yards (K.Vickerson). SEA-M.Unger was injured during the play. His return is Doubtful.,9,4,75,KC 9,0,SEA,
+13,3147,2,08:25,(8:25) (Shotgun) R.Wilson pass short right to D.Baldwin to KC 4 for no gain (R.Parker).,4,4,73,KC 4,0,SEA,
+13,3102,2,09:44,(9:44) (Shotgun) R.Wilson left end to KC 9 for 7 yards (H.Abdullah).,6,4,68,KC 16,0,SEA,
+13,2997,1,13:01,(13:01) (Shotgun) M.Lynch up the middle to SEA 41 for 4 yards (H.Abdullah; D.Poe).,10,4,18,SEA 37,0,SEA,
+13,3209,4,07:11,(7:11) (Shotgun) R.Wilson pass incomplete short left to D.Baldwin.,2,4,75,KC 2,0,SEA,
+13,3060,1,10:55,(10:55) (Shotgun) R.Wilson scrambles right end pushed ob at KC 20 for 11 yards (E.Berry).,10,4,57,KC 31,0,SEA,
+13,3192,0,07:11,Timeout #2 by KC at 07:11.,0,4,75,,0,,TIMEOUT
+13,2973,1,13:35,(13:35) (Shotgun) R.Wilson pass short left to L.Willson to SEA 37 for 14 yards (J.Johnson).,10,4,14,SEA 23,0,SEA,
+13,3171,3,07:50,(7:50) (Shotgun) M.Lynch up the middle to KC 2 for 2 yards (J.Mauga; H.Abdullah).,4,4,75,KC 4,0,SEA,
+13,2946,0,13:41,C.Santos kicks 66 yards from KC 35 to SEA -1. D.Baldwin pushed ob at SEA 23 for 24 yards (F.Zombo).,0,4,0,KC 35,0,KC,KICKOFF
+13,3081,1,10:20,(10:20) (Shotgun) M.Lynch up the middle to KC 16 for 4 yards (J.Houston).,10,4,61,KC 20,0,SEA,
+12,2787,1,00:17,(:17) J.Charles up the middle to KC 30 for 1 yard (K.Chancellor).,10,3,1,KC 29,0,KC,
+12,2881,2,14:15,"(14:15) (Shotgun) J.Charles up the middle pushed ob at SEA 9 for 47 yards (K.Chancellor). PENALTY on SEA-B.Irvin, Unnecessary Roughness, 5 yards, enforced at SEA 9.",1,4,67,KC 44,0,KC,PENALTY
+12,2857,1,14:54,(14:54) A.Smith pass short left to D.Bowe to KC 44 for 9 yards (E.Thomas; R.Sherman).,10,4,15,KC 35,0,KC,
+12,2930,0,13:41,"C.Santos extra point is GOOD, Center-T.Gafford, Holder-D.Colquitt.",0,4,71,SEA 2,1,KC,XP
+12,2808,0,,END QUARTER 3,0,3,1,,0,,
+12,2913,1,13:46,"(13:46) K.Davis right end for 4 yards, TOUCHDOWN.",4,4,71,SEA 4,1,KC,TD
+12,2765,0,00:23,S.Hauschka kicks 60 yards from SEA 35 to KC 5. K.Davis to KC 29 for 24 yards (D.Shead).,0,3,0,SEA 35,0,SEA,KICKOFF
+12,2824,2,15:00,"(15:00) (Shotgun) A.Smith pass incomplete short right to D.Bowe (B.Maxwell). PENALTY on SEA-B.Maxwell, Defensive Holding, 5 yards, enforced at KC 30 - No Play. Penalty on SEA-T.Simon, Illegal Use of Hands, declined.",9,4,71,KC 30,0,KC,PENALTY
+15,3391,2,06:15,"(6:15) (Shotgun) PENALTY on SEA-R.Wilson, Delay of Game, 5 yards, enforced at KC 40 - No Play.",5,4,0,KC 40,0,SEA,PENALTY
+15,3459,4,03:38,(3:38) (Shotgun) M.Lynch up the middle to KC 36 for no gain (A.Bailey).,1,4,9,KC 36,0,SEA,
+15,3414,2,05:05,(5:05) (Shotgun) M.Lynch up the middle to KC 43 for 2 yards (T.Hali).,10,4,2,KC 45,0,SEA,
+15,3367,1,06:15,(6:15) R.Wilson pass short right to J.Kearse to KC 40 for 5 yards (R.Parker).,10,4,5,KC 45,0,SEA,
+15,3435,3,04:23,"(4:23) (Shotgun) R.Wilson pass short left to J.Kearse to KC 35 for 8 yards (P.Gaines). Kansas City challenged the first down ruling, and the play was REVERSED. (Shotgun) R.Wilson pass short left to J.Kearse to KC 36 for 7 yards (P.Gaines).",8,4,9,KC 43,0,SEA,
+14,3231,1,07:08,"(7:08) (Run formation) PENALTY on KC-M.McGlynn, False Start, 1 yard, enforced at KC 2 - No Play.",10,4,-1,KC 2,0,KC,PENALTY
+14,3342,4,06:27,"(6:27) D.Colquitt punts 53 yards to SEA 45, Center-T.Gafford. B.Walters to KC 45 for 10 yards (J.Martin).",10,4,0,KC 2,0,KC,PUNT
+14,3254,1,07:08,"(7:08) (Run formation) PENALTY on KC, False Start, 0 yards, enforced at KC 1 - No Play.",11,4,-1,KC 1,0,KC,PENALTY
+14,3320,3,06:31,(6:31) (Shotgun) A.Smith pass incomplete short right to T.Kelce (M.Smith).,10,4,0,KC 2,0,KC,
+14,3277,1,07:08,(7:08) J.Charles right tackle to KC 2 for 1 yard (R.Sherman).,11,4,0,KC 1,0,KC,
+14,3298,2,06:35,(6:35) A.Smith pass incomplete short middle to D.Bowe (E.Thomas).,10,4,0,KC 2,0,KC,
+17,3661,1,02:47,(2:47) (Shotgun) R.Wilson pass short middle to M.Lynch to SEA 5 for 1 yard (J.Mauga) [D.Poe].,10,4,1,SEA 4,0,SEA,
+17,3832,4,01:18,(1:18) (Shotgun) R.Wilson pass incomplete deep left to P.Richardson (S.Smith) [T.Hali].,18,4,16,SEA 20,0,SEA,
+17,3748,1,01:58,(1:58) (Shotgun) R.Wilson pass incomplete short middle to C.Helfet (E.Berry).,10,4,24,SEA 28,0,SEA,
+17,3774,2,01:53,(1:53) (Shotgun) R.Wilson sacked at SEA 20 for -8 yards (D.Poe).,10,4,16,SEA 28,0,SEA,
+17,3815,0,01:18,Timeout #3 by KC at 01:18.,0,4,16,,0,,TIMEOUT
+17,3685,2,02:12,"(2:12) (No Huddle, Shotgun) R.Wilson pass incomplete deep right to J.Kearse.",9,4,1,SEA 5,0,SEA,
+17,3793,3,01:23,(1:23) (Shotgun) R.Wilson pass incomplete short middle to C.Helfet (H.Abdullah).,18,4,16,SEA 20,0,SEA,
+17,3707,3,02:06,(2:06) (Shotgun) R.Wilson pass deep left to D.Baldwin to SEA 28 for 23 yards (K.Coleman).,9,4,24,SEA 5,0,SEA,
+17,3731,0,01:58,Two-Minute Warning,0,4,24,,0,,
+16,3509,1,03:31,(3:31) J.Charles left end to KC 37 for 1 yard (C.Avril).,10,4,1,KC 36,0,KC,
+16,3547,2,03:23,(3:23) J.Charles right end to KC 45 for 8 yards (M.Smith).,9,4,9,KC 37,0,KC,
+16,3585,3,03:13,(3:13) J.Charles up the middle to KC 45 for no gain (K.Williams).,1,4,9,KC 45,0,KC,
+16,3638,4,02:56,"(2:56) D.Colquitt punts 51 yards to SEA 4, Center-T.Gafford, downed by KC-J.Martin. Ball batted back out of endzone by J.Hemingway, then at SEA1 by A.Wilson and downed at SEA4 by J.Martin.",1,4,9,KC 45,0,KC,PUNT
+16,3568,0,03:13,Timeout #2 by SEA at 03:13.,0,4,9,,0,,TIMEOUT
+16,3530,0,03:23,Timeout #1 by SEA at 03:23.,0,4,1,,0,,TIMEOUT
+16,3606,0,02:58,Timeout #3 by SEA at 02:58.,0,4,9,,0,,TIMEOUT
+18,3854,1,01:13,(1:13) A.Smith kneels to SEA 20 for no gain.,10,4,0,SEA 20,0,KC,
+18,3896,0,00:00,END GAME,0,4,-1,,0,,
+18,3875,2,00:34,(:34) A.Smith kneels to SEA 21 for -1 yards.,10,4,-1,SEA 20,0,KC,
+1,98,2,14:17,(14:17) (Shotgun) M.Lynch up the middle to SEA 33 for 3 yards (H.Abdullah).,5,1,8,SEA 30,0,SEA,
+1,74,1,14:54,(14:54) (Shotgun) R.Wilson pass short left to P.Richardson to SEA 30 for 5 yards (S.Smith).,10,1,5,SEA 25,0,SEA,
+1,119,3,13:40,(13:40) (Shotgun) R.Wilson pass incomplete short right to J.Kearse (J.Houston).,2,1,8,SEA 33,0,SEA,
+1,36,0,15:00,"C.Santos kicks 60 yards from KC 35 to SEA 5. P.Richardson to SEA 26 for 21 yards (A.Wilson). FUMBLES (A.Wilson), recovered by SEA-J.Johnson at SEA 25. J.Johnson to SEA 25 for no gain (A.Sherman).",0,1,0,KC 35,0,KC,FUMBLE
+1,141,4,13:36,"(13:36) J.Ryan punts 53 yards to KC 14, Center-C.Gresham, downed by SEA-D.Shead.",2,1,8,SEA 33,0,SEA,PUNT
+3,586,1,04:16,(4:16) (Shotgun) M.Lynch left guard to SEA 20 for 10 yards (T.Hali).,10,1,10,SEA 10,0,SEA,
+3,775,3,15:00,(15:00) (Shotgun) R.Wilson pass short right to L.Willson to KC 34 for 10 yards (P.Gaines).,7,2,82,KC 44,0,SEA,
+3,607,1,03:41,(3:41) M.Lynch up the middle to SEA 28 for 8 yards (V.Walker).,10,1,18,SEA 20,0,SEA,
+3,696,3,01:19,(1:19) (Shotgun) R.Turbin up the middle to KC 47 for 4 yards (K.Coleman).,2,1,43,SEA 49,0,SEA,
+3,842,3,13:37,"(13:37) (Shotgun) R.Wilson sacked at KC 46 for -10 yards (J.Houston). FUMBLES (J.Houston), recovered by SEA-J.Britt at KC 48. J.Britt to KC 48 for no gain (A.Bailey). PENALTY on KC-R.Parker, Illegal Use of Hands, 5 yards, enforced at KC 36 - No Play.",12,2,59,KC 36,0,SEA,PENALTY
+3,980,3,10:31,"(10:31) (Shotgun) R.Wilson pass short middle to D.Baldwin for 7 yards, TOUCHDOWN [J.Mauga].",7,2,90,KC 7,1,SEA,TD
+3,882,1,13:22,(13:22) (Shotgun) R.Wilson pass short right to C.Helfet to KC 29 for 2 yards (E.Berry).,10,2,61,KC 31,0,SEA,
+3,717,1,00:40,(:40) (Shotgun) R.Turbin left guard to KC 45 for 2 yards (T.Hali).,10,1,45,KC 47,0,SEA,
+3,675,2,02:00,(2:00) R.Turbin left guard to SEA 49 for 4 yards (T.Hali).,6,1,39,SEA 45,0,SEA,
+3,759,0,,END QUARTER 1,0,1,46,,0,,
+3,628,2,02:58,(2:58) (Shotgun) M.Lynch right end pushed ob at SEA 41 for 13 yards (R.Parker).,2,1,31,SEA 28,0,SEA,
+3,564,0,04:22,C.Santos kicks 59 yards from KC 35 to SEA 6. P.Richardson to SEA 10 for 4 yards (J.Hemingway).,0,1,0,KC 35,0,KC,KICKOFF
+3,954,2,11:05,(11:05) (Shotgun) R.Wilson left end pushed ob at KC 7 for 1 yard (J.Mauga).,8,2,83,KC 8,0,SEA,
+3,799,1,14:24,(14:24) M.Lynch left guard to KC 36 for -2 yards (J.Howard).,10,2,54,KC 34,0,SEA,
+3,654,1,02:32,(2:32) M.Lynch up the middle to SEA 45 for 4 yards (J.Johnson).,10,1,35,SEA 41,0,SEA,
+3,738,2,00:04,(:04) R.Turbin up the middle to KC 44 for 1 yard (A.Bailey).,8,1,46,KC 45,0,SEA,
+3,1005,0,10:22,"S.Hauschka extra point is GOOD, Center-C.Gresham, Holder-J.Ryan.",0,2,90,KC 2,1,SEA,XP
+3,930,1,11:50,(11:50) (Shotgun) R.Wilson pass short right to D.Baldwin to KC 8 for -3 yards (P.Gaines).,5,2,90,KC 5,0,SEA,
+3,820,2,13:43,(13:43) (Shotgun) R.Wilson pass incomplete short right to M.Lynch [J.Houston].,12,2,54,KC 36,0,SEA,
+3,906,2,12:40,(12:40) (Shotgun) R.Wilson pass short left to J.Kearse to KC 5 for 24 yards (J.Johnson).,8,2,85,KC 29,0,SEA,
+2,407,1,07:21,(7:21) (Shotgun) J.Charles right guard to SEA 16 for 14 yards (K.Chancellor).,10,1,70,SEA 30,0,KC,
+2,473,1,05:18,(5:18) J.Charles up the middle to SEA 1 for 4 yards (M.Smith).,5,1,85,SEA 5,0,KC,
+2,212,3,12:17,(12:17) (Shotgun) J.Charles left guard to KC 25 for 2 yards (M.Smith).,1,1,11,KC 23,0,KC,
+2,494,2,04:35,(4:35) A.Smith pass incomplete short right. A.Smith intentionally threw pass out of endzone. No intended receiver.,1,1,86,SEA 1,0,KC,
+2,428,1,06:38,(6:38) (Shotgun) A.Smith pass short left to T.Kelce to SEA 7 for 9 yards (E.Thomas).,10,1,79,SEA 16,0,KC,
+2,452,2,05:57,(5:57) K.Davis up the middle to SEA 5 for 2 yards (K.Wright).,1,1,81,SEA 7,0,KC,
+2,357,2,08:23,"(8:23) (Shotgun) PENALTY on SEA-M.Bennett, Defensive Offside, 5 yards, enforced at SEA 38 - No Play.",7,1,53,SEA 38,0,KC,PENALTY
+2,296,2,09:46,(9:46) (Shotgun) A.Smith pass short right to J.Charles to SEA 41 for 13 yards (E.Thomas).,4,1,42,KC 46,0,KC,
+2,520,3,04:28,"(4:28) J.Charles right end for 1 yard, TOUCHDOWN. Penalty on SEA-M.Bennett, Illegal Use of Hands, declined.",1,1,86,SEA 1,1,KC,TD
+2,275,1,10:22,(10:22) J.Charles up the middle to KC 46 for 6 yards (K.Wright).,10,1,32,KC 40,0,KC,
+2,386,2,08:05,(8:05) K.Davis right tackle to SEA 30 for 3 yards (T.McDaniel).,2,1,56,SEA 33,0,KC,
+2,325,1,09:00,(9:00) K.Davis left guard to SEA 38 for 3 yards (D.Dobbs).,10,1,45,SEA 41,0,KC,
+2,164,1,13:23,"(13:23) (Shotgun) A.Smith FUMBLES (Aborted) at KC 17, and recovers at KC 14. A.Smith pass short left to P.Supernaw to KC 17 for 3 yards (B.Irvin).",10,1,48,KC 14,0,KC,FUMBLE
+2,188,2,12:44,(12:44) (Shotgun) A.Smith pass short left to J.Charles pushed ob at KC 23 for 6 yards (K.Pierre-Louis).,7,1,9,KC 17,0,KC,
+2,548,0,04:22,"C.Santos extra point is GOOD, Center-T.Gafford, Holder-D.Colquitt.",0,1,86,SEA 2,1,KC,XP
+2,254,2,11:01,(11:01) J.Charles right tackle to KC 40 for 7 yards (R.Sherman).,2,1,26,KC 33,0,KC,
+2,233,1,11:38,(11:38) D.Thomas right end to KC 33 for 8 yards (E.Thomas).,10,1,19,KC 25,0,KC,
+5,1142,0,08:09,C.Santos kicks 67 yards from KC 35 to SEA -2. D.Baldwin to SEA 19 for 21 yards (A.Wilson).,0,2,0,KC 35,0,KC,KICKOFF
+5,1164,1,08:04,(8:04) M.Lynch up the middle to SEA 19 for no gain (J.Howard).,10,2,0,SEA 19,0,SEA,
+5,1320,1,04:11,(4:11) (Shotgun) M.Lynch left tackle to KC 24 for 15 yards (E.Berry).,10,2,55,KC 39,0,SEA,
+5,1209,1,06:40,(6:40) (Shotgun) R.Wilson pass incomplete short right to D.Baldwin [T.Hali].,10,2,18,SEA 37,0,SEA,
+5,1231,2,06:37,(6:37) (Shotgun) M.Lynch left end to SEA 48 for 11 yards (E.Berry).,10,2,29,SEA 37,0,SEA,
+5,1341,1,03:25,(3:25) (Shotgun) C.Michael up the middle to KC 26 for -2 yards (J.Howard).,10,2,55,KC 24,0,SEA,
+5,1185,2,07:20,(7:20) R.Wilson pass deep right to J.Kearse to SEA 37 for 18 yards (R.Parker).,10,2,18,SEA 19,0,SEA,
+5,1275,1,05:31,(5:31) (Shotgun) R.Wilson pass short right to P.Richardson to KC 47 for 10 yards (R.Parker).,15,2,34,SEA 43,0,SEA,
+5,1438,2,01:55,(1:55) (Shotgun) M.Lynch left tackle to KC 14 for 1 yard (K.Vickerson).,13,2,67,KC 15,0,SEA,
+5,1421,0,01:55,Two-Minute Warning,0,2,66,,0,,
+5,1500,0,01:43,Timeout #2 by KC at 01:43.,0,2,76,,0,,TIMEOUT
+5,1299,2,04:51,(4:51) M.Lynch up the middle to KC 39 for 8 yards (E.Berry).,5,2,42,KC 47,0,SEA,
+5,1252,1,05:52,"(5:52) (Run formation) PENALTY on SEA-J.Sweezy, False Start, 5 yards, enforced at SEA 48 - No Play.",10,2,24,SEA 48,0,SEA,PENALTY
+5,1476,3,01:48,(1:48) (Shotgun) R.Wilson pass short right to P.Richardson to KC 5 for 9 yards (R.Parker).,12,2,76,KC 14,0,SEA,
+5,1379,2,02:35,(2:35) (Shotgun) R.Wilson left end pushed ob at KC 12 for 14 yards (R.Parker).,12,2,69,KC 26,0,SEA,
+5,1362,0,02:35,Timeout #1 by SEA at 02:35.,0,2,55,,0,,TIMEOUT
+5,1517,4,01:43,"(1:43) S.Hauschka 24 yard field goal is GOOD, Center-C.Gresham, Holder-J.Ryan.",3,2,76,KC 5,1,SEA,FG
+5,1400,1,02:10,(2:10) M.Lynch right guard to KC 15 for -3 yards (K.Vickerson; J.Houston).,10,2,76,KC 12,0,SEA,
+5,1459,0,01:48,Timeout #1 by KC at 01:48.,0,2,67,,0,,TIMEOUT
+4,1085,1,08:54,(8:54) (Shotgun) A.Smith pass short middle to A.Sherman to SEA 16 for 13 yards (E.Thomas).,10,2,64,SEA 29,0,KC,
+4,1040,1,10:22,(10:22) A.Smith pass deep left to T.Kelce to KC 43 for 23 yards (E.Thomas).,10,2,23,KC 20,0,KC,
+4,1021,0,10:22,"S.Hauschka kicks 65 yards from SEA 35 to end zone, Touchback.",0,2,0,SEA 35,0,SEA,KICKOFF
+4,1064,1,09:40,(9:40) J.Charles up the middle to SEA 29 for 28 yards (K.Chancellor).,10,2,51,KC 43,0,KC,
+4,1126,0,08:09,"C.Santos extra point is GOOD, Center-T.Gafford, Holder-D.Colquitt.",0,2,80,SEA 2,1,KC,XP
+4,1109,1,08:15,"(8:15) J.Charles left guard for 16 yards, TOUCHDOWN.",10,2,80,SEA 16,1,KC,TD
+7,1788,2,00:39,(:39) (Shotgun) R.Wilson pass short right to D.Baldwin to KC 23 for 12 yards (R.Parker) [J.Houston].,10,2,24,KC 35,0,SEA,
+7,1829,1,00:31,(:31) (Shotgun) R.Wilson up the middle to KC 9 for 14 yards (R.Parker).,10,2,38,KC 23,0,SEA,
+7,1983,4,00:04,"(:04) S.Hauschka 27 yard field goal is GOOD, Center-C.Gresham, Holder-J.Ryan.",9,2,38,KC 9,1,SEA,FG
+7,1812,0,00:31,Timeout #2 by SEA at 00:31.,0,2,24,,0,,TIMEOUT
+7,1850,0,00:22,Timeout #3 by SEA at 00:22.,0,2,38,,0,,TIMEOUT
+7,1961,3,00:09,(:09) (Shotgun) R.Wilson pass incomplete short left to M.Lynch.,9,2,38,KC 9,0,SEA,
+7,1944,0,00:09,Timeout #3 by KC at 00:09.,0,2,38,,0,,TIMEOUT
+7,1922,2,00:13,(:13) (Shotgun) R.Wilson pass incomplete short middle to J.Kearse.,9,2,38,KC 9,0,SEA,
+7,1867,1,00:22,"(:22) (Shotgun) R.Wilson pass incomplete short left to C.Helfet. Penalty on KC-P.Gaines, Illegal Use of Hands, offsetting, enforced at KC 9 - No Play. Penalty on SEA-R.Wilson, Intentional Grounding, offsetting.",9,2,38,KC 9,0,SEA,
+7,1766,1,00:39,(:39) R.Wilson pass incomplete deep left to D.Baldwin.,10,2,12,KC 35,0,SEA,
+7,1900,1,00:18,(:18) (Shotgun) R.Wilson pass incomplete short left to J.Kearse (S.Smith).,9,2,38,KC 9,0,SEA,
+7,1673,1,00:54,(:54) R.Wilson right end to KC 35 for 12 yards (J.Houston).,10,2,12,KC 47,0,SEA,
+6,1536,0,01:39,S.Hauschka kicks 68 yards from SEA 35 to KC -3. K.Davis to KC 36 for 39 yards (K.Chancellor).,0,2,0,SEA 35,0,SEA,KICKOFF
+6,1620,2,01:21,(1:21) (Shotgun) A.Smith pass incomplete short left to T.Kelce.,5,2,5,KC 41,0,KC,
+6,1598,1,01:26,(1:26) (Shotgun) A.Smith pass incomplete short left to D.Bowe.,5,2,5,KC 41,0,KC,
+6,1642,3,01:17,"(1:17) (Shotgun) A.Smith pass short middle to T.Kelce to KC 46 for 5 yards (E.Thomas). The Replay Official challenged the fumble ruling, and the play was REVERSED. (Shotgun) A.Smith pass short middle to T.Kelce to KC 46 for 5 yards (E.Thomas). FUMBLES (E.Thomas), RECOVERED by SEA-J.Hill at KC 47. J.Hill to KC 47 for no gain (F.Hammond).",5,2,10,KC 41,0,KC,FUMBLE
+6,1558,1,01:32,"(1:32) (Shotgun) A.Smith sacked at KC 28 for -8 yards (B.Irvin). FUMBLES (B.Irvin), recovered by KC-R.Hudson at KC 30. R.Hudson to KC 30 for no gain (J.Hill). PENALTY on SEA-B.Irvin, Defensive Offside, 5 yards, enforced at KC 36 - No Play.",10,2,5,KC 36,0,KC,PENALTY
+9,2442,1,05:29,(5:29) M.Lynch left tackle to SEA 31 for 1 yard (J.Mauga).,10,3,12,SEA 30,0,SEA,
+9,2347,0,07:39,C.Santos kicks 56 yards from KC 35 to SEA 9. D.Baldwin to SEA 19 for 10 yards (A.Sherman).,0,3,0,KC 35,0,KC,KICKOFF
+9,2369,1,07:33,(7:33) (Shotgun) M.Lynch up the middle to SEA 24 for 5 yards (T.Hali).,10,3,5,SEA 19,0,SEA,
+9,2463,2,04:52,(4:52) (Shotgun) R.Wilson scrambles left end to SEA 32 for 1 yard (K.Coleman; J.Houston).,9,3,11,SEA 31,0,SEA,
+9,2484,3,04:04,(4:04) (Shotgun) R.Wilson sacked at SEA 30 for -2 yards (T.Hali).,8,3,11,SEA 32,0,SEA,
+9,2390,2,06:52,(6:52) (Shotgun) R.Wilson pass short left to J.Kearse to SEA 24 for no gain (R.Parker).,5,3,5,SEA 24,0,SEA,
+9,2418,3,06:09,(6:09) (Shotgun) R.Wilson pass short right to D.Baldwin to SEA 30 for 6 yards (P.Gaines) [J.Houston].,5,3,11,SEA 24,0,SEA,
+9,2503,4,03:26,"(3:26) J.Ryan punts 50 yards to KC 20, Center-C.Gresham. D.Thomas pushed ob at SEA 40 for 40 yards (M.Smith). PENALTY on SEA-R.Lockette, Unnecessary Roughness, 15 yards, enforced at SEA 40. R.Lockette ejected from the game. Seattle challenged the runner was in bounds ruling, and the play was REVERSED. J.Ryan punts 50 yards to KC 20, Center-C.Gresham. D.Thomas ran ob at KC 29 for 9 yards. PENALTY on SEA-R.Lockette, Unnecessary Roughness, 15 yards, enforced at KC 29. R.Lockette ejected from the game.",10,3,11,SEA 30,0,SEA,PUNT
+8,2328,4,07:43,"(7:43) C.Santos 23 yard field goal is GOOD, Center-T.Gafford, Holder-D.Colquitt.",3,3,67,SEA 5,1,KC,FG
+8,2261,2,08:58,(8:58) (Shotgun) A.Smith pass short right to K.Davis pushed ob at SEA 3 for 8 yards (E.Thomas).,9,3,69,SEA 11,0,KC,
+8,2132,2,13:06,(13:06) (Shotgun) J.Charles up the middle to SEA 40 for 4 yards (J.Hill).,3,3,32,SEA 44,0,KC,
+8,2219,2,10:21,(10:21) J.Charles up the middle to SEA 12 for 4 yards (W.Tukuafu; K.Wright).,1,3,60,SEA 16,0,KC,
+8,2153,1,12:26,(12:26) D.Thomas left end to SEA 33 for 7 yards (K.Wright).,10,3,39,SEA 40,0,KC,
+8,2087,1,14:28,(14:28) (Shotgun) A.Smith pass short right to D.Thomas to KC 49 for 10 yards (E.Thomas).,10,3,21,KC 39,0,KC,
+8,2307,3,08:28,(8:28) K.Davis up the middle to SEA 5 for -2 yards (M.Smith).,1,3,67,SEA 3,0,KC,
+8,2195,1,11:00,(11:00) (Shotgun) A.Smith pass short right to D.Bowe to SEA 16 for 9 yards (R.Sherman).,10,3,56,SEA 25,0,KC,
+8,2174,2,11:45,(11:45) J.Charles up the middle to SEA 25 for 8 yards (O.Schofield).,3,3,47,SEA 33,0,KC,
+8,2111,1,13:41,(13:41) D.Thomas right end to SEA 44 for 7 yards (K.Chancellor).,10,3,28,KC 49,0,KC,
+8,2290,0,08:28,Timeout #1 by KC at 08:28.,0,3,69,,0,,TIMEOUT
+8,2061,1,14:53,(14:53) J.Charles left end pushed ob at KC 39 for 6 yards (E.Thomas).,5,3,11,KC 33,0,KC,
+8,2016,0,15:00,S.Hauschka kicks 69 yards from SEA 35 to KC -4. D.Thomas to KC 28 for 32 yards (D.Dobbs).,0,3,0,SEA 35,0,SEA,KICKOFF
+8,2240,1,09:42,(9:42) (Shotgun) J.Charles right tackle to SEA 11 for 1 yard (T.McDaniel).,10,3,61,SEA 12,0,KC,
+8,2038,1,15:00,"(15:00) (Run formation) PENALTY on SEA-T.McDaniel, Neutral Zone Infraction, 5 yards, enforced at KC 28 - No Play.",10,3,5,KC 28,0,KC,PENALTY

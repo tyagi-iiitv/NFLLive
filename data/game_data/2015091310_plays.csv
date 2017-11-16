@@ -1,177 +1,177 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1714,1,02:18,,10,2,-6,OAK 25,0,OAK,
-9,1772,3,02:00,,16,2,6,OAK 19,0,OAK,
-9,1794,4,01:15,,4,2,6,OAK 31,0,OAK,PUNT
-9,1682,0,02:21,,0,2,-6,CIN 35,0,CIN,KICKOFF
-9,1755,0,02:00,,0,2,-6,,0,,
-9,1736,2,02:18,,10,2,-6,OAK 25,0,OAK,
-24,3970,1,01:16,,10,4,15,CIN 30,0,CIN,
-24,3932,0,02:00,,0,4,6,,0,,
-24,4012,2,01:04,,7,4,14,CIN 33,0,CIN,
-24,3889,0,02:13,,0,4,0,OAK 35,0,OAK,KICKOFF
-24,3949,2,02:00,,4,4,12,CIN 24,0,CIN,
-24,3995,0,01:04,,0,4,15,,0,,TIMEOUT
-24,4033,3,00:34,,8,4,13,CIN 32,0,CIN,
-24,4054,0,00:00,,0,4,13,,0,,
-24,3911,1,02:09,,10,4,6,CIN 18,0,CIN,
-10,1945,2,00:18,,7,2,61,OAK 13,0,CIN,
-10,1969,3,00:12,,7,2,61,OAK 13,1,CIN,TD
-10,1830,1,01:03,,10,2,18,CIN 39,0,CIN,
-10,1989,0,00:07,,0,2,61,OAK 15,1,CIN,XP
-10,1854,1,00:38,,10,2,31,OAK 43,0,CIN,
-10,1892,1,00:29,,10,2,45,OAK 30,0,CIN,
-10,1916,1,00:23,,10,2,48,OAK 16,0,CIN,
-10,1875,0,00:29,,0,2,31,,0,,TIMEOUT
-20,3117,1,14:22,,10,4,2,CIN 20,0,CIN,
-20,3177,3,13:32,,8,4,9,CIN 22,0,CIN,
-20,3138,0,13:36,,0,4,2,,0,,TIMEOUT
-20,3155,2,13:36,,8,4,9,CIN 22,0,CIN,
-20,3201,4,12:47,,1,4,9,CIN 29,0,CIN,PUNT
-6,1072,1,12:18,,10,2,13,CIN 18,0,CIN,
-6,1096,2,11:46,,7,2,41,CIN 21,0,CIN,
-6,1168,2,10:22,,4,2,78,OAK 14,0,CIN,
-6,1231,4,09:33,,4,2,78,OAK 14,1,CIN,FG
-6,1207,3,10:17,,4,2,78,OAK 14,0,CIN,
-6,1048,2,12:57,,10,2,10,CIN 8,0,CIN,
-6,1144,1,10:52,,10,2,78,OAK 20,0,CIN,
-6,1120,1,11:20,,10,2,72,CIN 49,0,CIN,
-6,1190,0,10:17,,0,2,78,,0,,TIMEOUT
-6,1027,1,13:34,,10,2,0,CIN 8,0,CIN,
-18,2881,3,01:35,,10,3,0,OAK 17,0,CIN,
-18,2906,4,01:30,,10,3,0,OAK 17,1,CIN,FG
-18,2843,2,02:18,,8,3,0,OAK 15,0,CIN,
-18,2822,1,02:50,,10,3,2,OAK 17,0,CIN,
-18,2864,0,01:35,,0,3,0,,0,,TIMEOUT
-1,52,1,15:00,,10,1,0,OAK 20,0,OAK,
-1,95,3,14:22,,8,1,5,OAK 22,0,OAK,
-1,37,0,15:00,,0,1,0,CIN 35,0,CIN,KICKOFF
-1,74,2,14:57,,10,1,2,OAK 20,0,OAK,
-1,119,4,13:43,,5,1,5,OAK 25,0,OAK,PUNT
-5,846,2,01:00,,3,1,32,OAK 37,0,OAK,
-5,867,3,00:30,,1,1,38,OAK 39,0,OAK,PENALTY
-5,825,1,01:38,,10,1,30,OAK 30,0,OAK,
-5,941,1,15:00,,10,2,37,OAK 43,0,OAK,
-5,890,3,00:09,,6,1,36,OAK 34,0,OAK,PENALTY
-5,965,2,14:24,,9,2,40,OAK 44,0,OAK,
-5,790,2,02:01,,8,1,27,OAK 9,0,OAK,PENALTY
-5,768,1,02:35,,10,1,32,OAK 7,0,OAK,
-5,1008,4,13:41,,6,2,40,OAK 47,0,OAK,PUNT
-5,986,3,13:46,,6,2,40,OAK 47,0,OAK,
-5,925,0,,,0,1,38,,0,,
-13,2237,1,12:14,,10,3,13,OAK 46,0,OAK,
-13,2259,2,12:09,,10,3,12,OAK 46,0,OAK,INT
-13,2189,1,13:07,,10,3,12,OAK 34,0,OAK,
-13,2213,2,12:35,,3,3,12,OAK 41,0,OAK,
-21,3351,2,10:50,,5,4,16,CIN 41,0,OAK,
-21,3448,2,08:26,,4,4,48,CIN 19,0,OAK,
-21,3472,1,08:00,,10,4,59,CIN 11,1,OAK,TD
-21,3492,0,07:55,,0,4,59,CIN 15,1,OAK,XP
-21,3327,1,11:29,,10,4,48,CIN 46,0,OAK,
-21,3274,3,11:56,,1,4,9,50,0,OAK,
-21,3226,1,12:36,,10,4,5,OAK 41,0,OAK,
-21,3376,3,10:12,,7,4,20,CIN 43,0,OAK,
-21,3250,2,12:17,,5,4,9,OAK 46,0,OAK,
-21,3303,4,11:54,,1,4,13,50,0,OAK,
-21,3400,4,09:32,,3,4,34,CIN 39,0,OAK,
-21,3424,1,08:51,,10,4,40,CIN 25,0,OAK,
-23,3759,3,03:27,,6,4,32,CIN 36,0,OAK,
-23,3864,0,02:13,,0,4,55,CIN 2,0,OAK,2PPF
-23,3692,2,04:39,,1,4,15,CIN 46,0,OAK,
-23,3645,1,05:17,,10,4,5,OAK 45,0,OAK,PENALTY
-23,3713,1,03:58,,10,4,19,CIN 40,0,OAK,
-23,3783,1,02:53,,10,4,36,CIN 23,0,OAK,
-23,3840,1,02:19,,9,4,55,CIN 9,1,OAK,TD
-23,3668,1,05:17,,5,4,55,50,0,OAK,
-23,3737,2,03:30,,6,4,19,CIN 36,0,OAK,
-23,3807,2,02:24,,6,4,55,CIN 19,0,OAK,PENALTY
-11,2005,0,00:07,,0,2,0,CIN 35,0,CIN,KICKOFF
-11,2027,1,00:04,,10,2,8,OAK 33,0,OAK,
-11,2048,0,,,0,2,8,,0,,
-14,2364,2,10:50,,20,3,8,CIN 32,0,CIN,
-14,2331,2,10:57,,10,3,8,CIN 42,0,CIN,PENALTY
-14,2386,3,10:46,,20,3,3,CIN 32,0,CIN,
-14,2410,4,10:06,,25,3,3,CIN 27,0,CIN,PUNT
-14,2286,1,12:03,,10,3,18,CIN 24,0,CIN,
-14,2310,1,11:30,,10,3,18,CIN 42,0,CIN,
-8,1506,2,05:16,,10,2,3,OAK 44,0,CIN,
-8,1649,1,02:26,,2,2,44,OAK 2,1,CIN,TD
-8,1479,1,05:21,,10,2,0,OAK 44,0,CIN,
-8,1666,0,02:21,,0,2,44,OAK 15,1,CIN,XP
-8,1583,2,03:27,,4,2,40,OAK 5,0,CIN,
-8,1538,3,04:31,,7,2,33,OAK 41,0,CIN,
-8,1605,3,02:47,,3,2,42,OAK 4,0,CIN,PENALTY
-8,1562,1,04:01,,10,2,39,OAK 11,0,CIN,
-19,3056,2,14:35,,9,4,24,CIN 48,0,OAK,
-19,3016,0,,,0,3,23,,0,,
-19,2947,1,01:20,,10,3,4,OAK 28,0,OAK,
-19,3100,4,14:28,,9,4,24,CIN 48,0,OAK,PUNT
-19,2968,2,00:47,,6,3,12,OAK 32,0,OAK,
-19,2992,1,00:24,,10,3,23,OAK 40,0,OAK,
-19,3078,3,14:33,,9,4,24,CIN 48,0,OAK,
-19,2925,0,01:25,,0,3,0,CIN 35,0,CIN,KICKOFF
-19,3032,1,15:00,,10,4,24,CIN 49,0,OAK,
-22,3620,4,05:29,,6,4,4,CIN 13,0,CIN,PUNT
-22,3508,0,07:55,,0,4,0,OAK 35,0,OAK,KICKOFF
-22,3572,3,06:34,,1,4,9,CIN 18,0,CIN,
-22,3593,4,05:37,,1,4,4,CIN 18,0,CIN,PENALTY
-22,3530,1,07:53,,10,4,7,CIN 9,0,CIN,
-22,3551,2,07:12,,3,4,9,CIN 16,0,CIN,
-12,2079,1,15:00,,10,3,1,CIN 20,0,CIN,
-12,2124,0,13:41,,0,3,8,,0,,TIMEOUT
-12,2141,3,13:41,,2,3,7,CIN 28,0,CIN,
-12,2064,0,15:00,,0,3,0,OAK 35,0,OAK,KICKOFF
-12,2170,4,13:18,,3,3,7,CIN 27,0,CIN,PUNT
-12,2100,2,14:24,,9,3,8,CIN 21,0,CIN,
-16,2627,2,06:17,,10,3,24,CIN 32,0,CIN,
-16,2649,3,05:34,,3,3,48,CIN 39,0,CIN,
-16,2558,1,07:36,,10,3,9,CIN 20,0,CIN,
-16,2694,1,04:26,,9,3,77,OAK 9,0,CIN,
-16,2673,1,04:55,,10,3,76,OAK 37,0,CIN,
-16,2523,1,07:50,,10,3,5,CIN 15,0,CIN,PENALTY
-16,2605,1,06:23,,10,3,17,CIN 32,0,CIN,
-16,2715,2,03:45,,8,3,85,OAK 8,1,CIN,TD
-16,2579,2,06:59,,6,3,17,CIN 24,0,CIN,
-16,2735,0,03:42,,0,3,85,OAK 15,0,CIN,XPB
-7,1348,2,07:56,,5,2,11,OAK 30,0,OAK,
-7,1454,4,05:29,,1,2,20,OAK 45,0,OAK,
-7,1273,1,09:21,,10,2,5,OAK 25,0,OAK,
-7,1250,0,09:29,,0,2,0,CIN 35,0,CIN,KICKOFF
-7,1393,2,06:43,,9,2,12,OAK 37,0,OAK,
-7,1414,3,05:59,,9,2,20,OAK 37,0,OAK,FUMBLE
-7,1372,1,07:17,,10,2,12,OAK 36,0,OAK,
-7,1294,2,08:39,,5,2,5,OAK 30,0,OAK,
-3,522,1,06:18,,10,1,5,OAK 30,0,OAK,PENALTY
-3,588,3,05:22,,14,1,17,OAK 26,0,OAK,
-3,567,2,05:58,,15,1,6,OAK 25,0,OAK,
-3,545,1,06:02,,15,1,5,OAK 25,0,OAK,
-3,418,0,07:15,,0,1,0,CIN 35,0,CIN,KICKOFF
-3,612,4,04:45,,3,1,17,OAK 37,0,OAK,PUNT
-3,455,2,07:12,,10,1,0,OAK 20,0,OAK,
-3,433,1,07:15,,10,1,0,OAK 20,0,OAK,
-3,488,3,07:08,,10,1,10,OAK 20,0,OAK,
-17,2751,0,03:42,,0,3,-3,CIN 35,0,CIN,KICKOFF
-17,2793,1,03:03,,10,3,-3,OAK 31,0,OAK,FUMBLE
-17,2769,1,03:42,,10,3,-3,OAK 20,0,OAK,
-4,749,4,02:43,,3,1,25,OAK 44,0,CIN,PUNT
-4,725,3,03:27,,10,1,25,CIN 49,0,CIN,
-4,631,1,04:38,,10,1,7,CIN 31,0,CIN,
-4,701,2,03:31,,10,1,25,CIN 49,0,CIN,
-4,679,1,03:37,,10,1,18,CIN 49,0,CIN,
-4,655,2,04:04,,3,1,25,CIN 38,0,CIN,
-2,402,0,07:15,,0,1,59,OAK 15,1,CIN,XP
-2,347,0,08:05,,0,1,59,,0,,TIMEOUT
-2,326,2,08:45,,4,1,59,OAK 6,0,CIN,
-2,189,3,12:29,,1,1,19,50,0,CIN,
-2,168,2,13:03,,6,1,9,CIN 45,0,CIN,
-2,144,1,13:33,,10,1,47,CIN 41,0,CIN,
-2,385,4,07:21,,1,1,59,OAK 3,1,CIN,TD
-2,303,1,09:27,,10,1,53,OAK 12,0,CIN,
-2,258,1,10:37,,10,1,37,OAK 25,0,CIN,
-2,234,2,11:13,,7,1,56,OAK 37,0,CIN,
-2,210,1,11:52,,10,1,56,OAK 40,0,CIN,
-2,364,3,08:05,,1,1,59,OAK 3,0,CIN,
-2,279,2,09:53,,7,1,56,OAK 22,0,CIN,
-15,2504,4,07:58,,2,3,8,OAK 37,0,OAK,PUNT
-15,2459,2,09:21,,4,3,8,OAK 35,0,OAK,
-15,2435,1,09:56,,10,3,6,OAK 29,0,OAK,
-15,2480,3,08:42,,2,3,8,OAK 37,0,OAK,
+24,3949,2,02:00,(2:00) G.Bernard left guard to CIN 30 for 6 yards (C.Woodson).,4,4,12,CIN 24,0,CIN,
+24,4054,0,00:00,END GAME,0,4,13,,0,,
+24,3911,1,02:09,(2:09) G.Bernard left tackle to CIN 24 for 6 yards (M.Smith).,10,4,6,CIN 18,0,CIN,
+24,4012,2,01:04,(1:04) A.Dalton kneels to CIN 32 for -1 yards.,7,4,14,CIN 33,0,CIN,
+24,3889,0,02:13,S.Janikowski kicks 55 yards from OAK 35 to CIN 10. B.Tate to CIN 18 for 8 yards (N.Ball).,0,4,0,OAK 35,0,OAK,KICKOFF
+24,3932,0,02:00,Two-Minute Warning,0,4,6,,0,,
+24,3970,1,01:16,(1:16) G.Bernard right tackle to CIN 33 for 3 yards (R.Armstrong). OAK-C.Woodson was injured during the play.,10,4,15,CIN 30,0,CIN,
+24,4033,3,00:34,(:34) A.Dalton kneels to CIN 31 for -1 yards.,8,4,13,CIN 32,0,CIN,
+24,3995,0,01:04,Timeout #1 by OAK at 01:04.,0,4,15,,0,,TIMEOUT
+20,3117,1,14:22,(14:22) J.Hill right tackle to CIN 22 for 2 yards (D.Williams).,10,4,2,CIN 20,0,CIN,
+20,3201,4,12:47,"(12:47) K.Huber punts 41 yards to OAK 30, Center-C.Harris. T.Carrie to OAK 41 for 11 yards (E.Lamur).",1,4,9,CIN 29,0,CIN,PUNT
+20,3177,3,13:32,(13:32) (Shotgun) A.Dalton pass short right to G.Bernard to CIN 29 for 7 yards (T.Carrie; R.Armstrong).,8,4,9,CIN 22,0,CIN,
+20,3138,0,13:36,Timeout #3 by CIN at 13:36.,0,4,2,,0,,TIMEOUT
+20,3155,2,13:36,(13:36) A.Dalton pass incomplete short middle to T.Eifert (D.Williams).,8,4,9,CIN 22,0,CIN,
+21,3448,2,08:26,"(8:26) (No Huddle, Shotgun) M.McGloin pass short right to R.Streater to CIN 11 for 8 yards (D.Kirkpatrick).",4,4,48,CIN 19,0,OAK,
+21,3472,1,08:00,"(8:00) (No Huddle, Shotgun) M.McGloin pass short middle to M.Reece for 11 yards, TOUCHDOWN.",10,4,59,CIN 11,1,OAK,TD
+21,3250,2,12:17,"(12:17) (No Huddle, Shotgun) M.McGloin pass short middle to L.Murray to 50 for 4 yards (V.Rey).",5,4,9,OAK 46,0,OAK,
+21,3376,3,10:12,(10:12) (Shotgun) M.McGloin pass short left to M.Rivera to CIN 39 for 4 yards (V.Rey).,7,4,20,CIN 43,0,OAK,
+21,3226,1,12:36,(12:36) (Shotgun) M.McGloin pass short left to S.Roberts to OAK 46 for 5 yards (D.Dennard).,10,4,5,OAK 41,0,OAK,
+21,3492,0,07:55,"S.Janikowski extra point is GOOD, Center-J.Condo, Holder-M.King.",0,4,59,CIN 15,1,OAK,XP
+21,3424,1,08:51,(8:51) (Shotgun) M.McGloin pass short middle to L.Murray to CIN 19 for 6 yards (P.Dawson; V.Rey).,10,4,40,CIN 25,0,OAK,
+21,3400,4,09:32,(9:32) (Shotgun) M.McGloin pass short middle to A.Cooper to CIN 25 for 14 yards (D.Dennard).,3,4,34,CIN 39,0,OAK,
+21,3274,3,11:56,"(11:56) (No Huddle, Shotgun) M.McGloin pass incomplete short left to S.Roberts (D.Dennard).",1,4,9,50,0,OAK,
+21,3351,2,10:50,(10:50) (Shotgun) M.McGloin pass short right to A.Cooper to CIN 43 for -2 yards (L.Hall).,5,4,16,CIN 41,0,OAK,
+21,3327,1,11:29,(11:29) (Shotgun) M.McGloin pass short middle to L.Murray to CIN 41 for 5 yards (E.Lamur).,10,4,48,CIN 46,0,OAK,
+21,3303,4,11:54,(11:54) (Shotgun) M.McGloin pass short right to M.Crabtree to CIN 46 for 4 yards (S.Williams).,1,4,13,50,0,OAK,
+22,3508,0,07:55,S.Janikowski kicks 62 yards from OAK 35 to CIN 3. B.Tate to CIN 9 for 6 yards (A.Holmes).,0,4,0,OAK 35,0,OAK,KICKOFF
+22,3593,4,05:37,"(5:37) (Punt formation) PENALTY on CIN-K.Huber, Delay of Game, 5 yards, enforced at CIN 18 - No Play.",1,4,4,CIN 18,0,CIN,PENALTY
+22,3551,2,07:12,(7:12) (Shotgun) J.Hill right tackle to CIN 18 for 2 yards (R.Armstrong).,3,4,9,CIN 16,0,CIN,
+22,3620,4,05:29,"(5:29) K.Huber punts 53 yards to OAK 34, Center-C.Harris. T.Carrie to OAK 45 for 11 yards (C.Peerman).",6,4,4,CIN 13,0,CIN,PUNT
+22,3572,3,06:34,(6:34) A.Dalton right guard to CIN 18 for no gain (Team).,1,4,9,CIN 18,0,CIN,
+22,3530,1,07:53,(7:53) J.Hill left tackle to CIN 16 for 7 yards (D.Williams).,10,4,7,CIN 9,0,CIN,
+23,3759,3,03:27,(3:27) (Shotgun) M.McGloin pass short right to T.Jones to CIN 23 for 13 yards (S.Williams).,6,4,32,CIN 36,0,OAK,
+23,3783,1,02:53,(2:53) (Shotgun) M.McGloin pass short middle to J.Olawale to CIN 19 for 4 yards (R.Maualuga).,10,4,36,CIN 23,0,OAK,
+23,3713,1,03:58,(3:58) (Shotgun) M.McGloin pass short left to M.Crabtree to CIN 36 for 4 yards (A.Jones).,10,4,19,CIN 40,0,OAK,
+23,3692,2,04:39,(4:39) (Shotgun) J.Olawale left end to CIN 40 for 6 yards (D.Dennard).,1,4,15,CIN 46,0,OAK,
+23,3668,1,05:17,(5:17) (Shotgun) M.McGloin pass short middle to J.Olawale to CIN 46 for 4 yards (R.Maualuga; V.Rey).,5,4,55,50,0,OAK,
+23,3864,0,02:13,TWO-POINT CONVERSION ATTEMPT. M.McGloin pass to R.Streater is incomplete. ATTEMPT FAILS. Shotgun Formation.,0,4,55,CIN 2,0,OAK,2PPF
+23,3840,1,02:19,"(2:19) (Shotgun) M.McGloin pass short right to M.Reece for 9 yards, TOUCHDOWN.",9,4,55,CIN 9,1,OAK,TD
+23,3737,2,03:30,(3:30) (Shotgun) M.McGloin pass incomplete short middle to C.Walford.,6,4,19,CIN 36,0,OAK,
+23,3645,1,05:17,"(5:17) (Shotgun) PENALTY on CIN, Defensive 12 On-field, 5 yards, enforced at OAK 45 - No Play.",10,4,5,OAK 45,0,OAK,PENALTY
+23,3807,2,02:24,"(2:24) (No Huddle, Shotgun) M.McGloin pass incomplete deep right to M.Crabtree [M.Johnson]. PENALTY on CIN-D.Kirkpatrick, Taunting, 10 yards, enforced at CIN 19.",6,4,55,CIN 19,0,OAK,PENALTY
+1,95,3,14:22,(14:22) (Shotgun) D.Carr pass short left to L.Murray to OAK 25 for 3 yards (A.Jones).,8,1,5,OAK 22,0,OAK,
+1,119,4,13:43,"(13:43) M.King punts 39 yards to CIN 36, Center-J.Condo. A.Jones to CIN 41 for 5 yards (J.Condo).",5,1,5,OAK 25,0,OAK,PUNT
+1,74,2,14:57,"(14:57) (No Huddle, Shotgun) L.Murray up the middle to OAK 22 for 2 yards (V.Rey).",10,1,2,OAK 20,0,OAK,
+1,37,0,15:00,"M.Nugent kicks 65 yards from CIN 35 to end zone, Touchback.",0,1,0,CIN 35,0,CIN,KICKOFF
+1,52,1,15:00,(15:00) (Shotgun) D.Carr pass incomplete short left to A.Cooper.,10,1,0,OAK 20,0,OAK,
+3,612,4,04:45,"(4:45) M.King punts 32 yards to CIN 31, Center-J.Condo, fair catch by B.Tate.",3,1,17,OAK 37,0,OAK,PUNT
+3,488,3,07:08,(7:08) (Shotgun) D.Carr pass short right to M.Crabtree pushed ob at OAK 30 for 10 yards (D.Kirkpatrick).,10,1,10,OAK 20,0,OAK,
+3,455,2,07:12,"(7:12) D.Carr pass incomplete short right to A.Cooper. Penalty on OAK-A.Cooper, Offensive Pass Interference, declined.",10,1,0,OAK 20,0,OAK,
+3,588,3,05:22,(5:22) (Shotgun) D.Carr pass short middle to L.Murray to OAK 37 for 11 yards (V.Rey).,14,1,17,OAK 26,0,OAK,
+3,567,2,05:58,(5:58) T.Jones left end to OAK 26 for 1 yard (A.Jones).,15,1,6,OAK 25,0,OAK,
+3,522,1,06:18,"(6:18) (Shotgun) PENALTY on OAK-D.Carr, Delay of Game, 5 yards, enforced at OAK 30 - No Play.",10,1,5,OAK 30,0,OAK,PENALTY
+3,545,1,06:02,(6:02) (Shotgun) D.Carr pass incomplete short right to M.Reece.,15,1,5,OAK 25,0,OAK,
+3,418,0,07:15,"M.Nugent kicks 65 yards from CIN 35 to end zone, Touchback.",0,1,0,CIN 35,0,CIN,KICKOFF
+3,433,1,07:15,(7:15) (Shotgun) D.Carr pass incomplete short left to A.Cooper (A.Jones).,10,1,0,OAK 20,0,OAK,
+2,144,1,13:33,(13:33) (Shotgun) A.Dalton pass short middle to T.Eifert to CIN 45 for 4 yards (M.Smith).,10,1,47,CIN 41,0,CIN,
+2,210,1,11:52,(11:52) A.Dalton pass short right to T.Eifert to OAK 37 for 3 yards (C.Lofton).,10,1,56,OAK 40,0,CIN,
+2,303,1,09:27,(9:27) J.Fisher reported in as eligible.  J.Hill left tackle to OAK 6 for 6 yards (N.Allen; C.Lofton).,10,1,53,OAK 12,0,CIN,
+2,258,1,10:37,"(10:37) (No Huddle, Shotgun) A.Dalton scrambles up the middle to OAK 22 for 3 yards (M.Smith).",10,1,37,OAK 25,0,CIN,
+2,347,0,08:05,Timeout #1 by CIN at 08:05.,0,1,59,,0,,TIMEOUT
+2,168,2,13:03,(13:03) (No Huddle) J.Hill right guard to 50 for 5 yards (K.Mack).,6,1,9,CIN 45,0,CIN,
+2,385,4,07:21,"(7:21) J.Hill left end for 3 yards, TOUCHDOWN.",1,1,59,OAK 3,1,CIN,TD
+2,234,2,11:13,(11:13) (Shotgun) A.Dalton pass short right to M.Jones to OAK 25 for 12 yards (M.Smith).,7,1,56,OAK 37,0,CIN,
+2,279,2,09:53,(9:53) (Shotgun) A.Dalton pass short right to T.Eifert to OAK 12 for 10 yards (D.Hayden).,7,1,56,OAK 22,0,CIN,
+2,364,3,08:05,(8:05) J.Hill up the middle to OAK 3 for no gain (Team).,1,1,59,OAK 3,0,CIN,
+2,189,3,12:29,(12:29) J.Hill left end to OAK 40 for 10 yards (T.Carrie).,1,1,19,50,0,CIN,
+2,326,2,08:45,(8:45) J.Hill right guard to OAK 3 for 3 yards (Team).,4,1,59,OAK 6,0,CIN,
+2,402,0,07:15,"M.Nugent extra point is GOOD, Center-C.Harris, Holder-K.Huber.",0,1,59,OAK 15,1,CIN,XP
+5,890,3,00:09,"(:09) (Shotgun) D.Carr pass short left to A.Cooper to CIN 42 for 24 yards (C.Carter; G.Iloka). PENALTY on OAK-R.Hudson, Unnecessary Roughness, 15 yards, enforced at CIN 42.",6,1,36,OAK 34,0,OAK,PENALTY
+5,846,2,01:00,(1:00) L.Murray up the middle to OAK 39 for 2 yards (A.Jones).,3,1,32,OAK 37,0,OAK,
+5,768,1,02:35,(2:35) L.Murray right tackle to OAK 9 for 2 yards (A.Jones).,10,1,32,OAK 7,0,OAK,
+5,790,2,02:01,"(2:01) (No Huddle, Shotgun) D.Carr pass short middle to A.Cooper to OAK 15 for 6 yards (G.Iloka). PENALTY on CIN-G.Iloka, Unsportsmanlike Conduct, 15 yards, enforced at OAK 15.",8,1,27,OAK 9,0,OAK,PENALTY
+5,986,3,13:46,(13:46) (Shotgun) D.Carr pass incomplete short right to M.Crabtree.,6,2,40,OAK 47,0,OAK,
+5,867,3,00:30,"(:30) PENALTY on OAK-R.Hudson, False Start, 5 yards, enforced at OAK 39 - No Play.",1,1,38,OAK 39,0,OAK,PENALTY
+5,941,1,15:00,(15:00) (Shotgun) D.Carr pass short left to L.Murray to OAK 44 for 1 yard (A.Jones).,10,2,37,OAK 43,0,OAK,
+5,1008,4,13:41,"(13:41) M.King punts 45 yards to CIN 8, Center-J.Condo, fair catch by B.Tate.",6,2,40,OAK 47,0,OAK,PUNT
+5,825,1,01:38,(1:38) (No Huddle) L.Murray left guard to OAK 37 for 7 yards (R.Maualuga).,10,1,30,OAK 30,0,OAK,
+5,965,2,14:24,(14:24) (Shotgun) L.Murray left tackle to OAK 47 for 3 yards (V.Rey; P.Sims).,9,2,40,OAK 44,0,OAK,
+5,925,0,,END QUARTER 1,0,1,38,,0,,
+4,631,1,04:38,(4:38) (Shotgun) A.Dalton pass short right to A.Green to CIN 38 for 7 yards (D.Hayden).,10,1,7,CIN 31,0,CIN,
+4,679,1,03:37,(3:37) (Shotgun) A.Dalton pass incomplete deep right to A.Green.,10,1,18,CIN 49,0,CIN,
+4,749,4,02:43,"(2:43) K.Huber punts 37 yards to OAK 7, Center-C.Harris, fair catch by T.Carrie.",3,1,25,OAK 44,0,CIN,PUNT
+4,701,2,03:31,(3:31) (Shotgun) J.Fisher reported in as eligible.  A.Dalton pass incomplete short left to M.Sanu (J.Tuck).,10,1,25,CIN 49,0,CIN,
+4,725,3,03:27,(3:27) (Shotgun) A.Dalton pass short right to T.Eifert to OAK 44 for 7 yards (T.Carrie).,10,1,25,CIN 49,0,CIN,
+4,655,2,04:04,"(4:04) (No Huddle, Shotgun) J.Hill up the middle to CIN 49 for 11 yards (C.Woodson). OAK-N.Allen was injured during the play. He is Out.",3,1,25,CIN 38,0,CIN,
+7,1348,2,07:56,(7:56) D.Carr pass short middle to L.Murray to OAK 36 for 6 yards (A.Hawk).,5,2,11,OAK 30,0,OAK,
+7,1414,3,05:59,"(5:59) (Shotgun) D.Carr scrambles left end to OAK 46 for 9 yards (A.Jones). FUMBLES (A.Jones), ball out of bounds at OAK 45. CIN-A.Jones was injured during the play. OAK-D.Carr was injured during the play. His return is Questionable.",9,2,20,OAK 37,0,OAK,FUMBLE
+7,1273,1,09:21,(9:21) L.Murray up the middle to OAK 30 for 5 yards (M.Johnson).,10,2,5,OAK 25,0,OAK,
+7,1454,4,05:29,(5:29) #14 M.McGloin in at QB. L.Murray up the middle to OAK 45 for no gain (R.Maualuga).,1,2,20,OAK 45,0,OAK,
+7,1372,1,07:17,(7:17) L.Murray up the middle to OAK 37 for 1 yard (A.Hawk; C.Dunlap).,10,2,12,OAK 36,0,OAK,
+7,1250,0,09:29,M.Nugent kicks 73 yards from CIN 35 to OAK -8. T.Jones to OAK 25 for 33 yards (D.Dennard).,0,2,0,CIN 35,0,CIN,KICKOFF
+7,1393,2,06:43,(6:43) T.Jones left end to OAK 37 for no gain (A.Jones).,9,2,12,OAK 37,0,OAK,
+7,1294,2,08:39,"(8:39) (Shotgun) J.Olawale left tackle pushed ob at CIN 10 for 60 yards (D.Kirkpatrick). Penalty on OAK-A.Howard, Offensive Holding, offsetting, enforced at OAK 30 - No Play. Penalty on OAK-A.Howard, Unnecessary Roughness, offsetting. Penalty on CIN-A.Jones, Unnecessary Roughness, offsetting.",5,2,5,OAK 30,0,OAK,
+6,1027,1,13:34,(13:34) G.Bernard right tackle to CIN 8 for no gain (D.Williams; J.Tuck).,10,2,0,CIN 8,0,CIN,
+6,1231,4,09:33,"(9:33) M.Nugent 32 yard field goal is GOOD, Center-C.Harris, Holder-K.Huber.",4,2,78,OAK 14,1,CIN,FG
+6,1144,1,10:52,"(10:52) (No Huddle, Shotgun) A.Dalton pass short right to M.Sanu to OAK 14 for 6 yards (C.Woodson).",10,2,78,OAK 20,0,CIN,
+6,1120,1,11:20,"(11:20) (No Huddle, Shotgun) A.Dalton pass deep left to T.Eifert to OAK 20 for 31 yards (C.Woodson; L.Asante).",10,2,72,CIN 49,0,CIN,
+6,1168,2,10:22,"(10:22) (No Huddle, Shotgun) A.Dalton pass incomplete short right to A.Green.",4,2,78,OAK 14,0,CIN,
+6,1207,3,10:17,(10:17) (Shotgun) A.Dalton pass short right to A.Green pushed ob at OAK 14 for no gain (T.Carrie).,4,2,78,OAK 14,0,CIN,
+6,1048,2,12:57,(12:57) (Shotgun) A.Dalton pass short middle to T.Eifert to CIN 18 for 10 yards (M.Smith).,10,2,10,CIN 8,0,CIN,
+6,1072,1,12:18,(12:18) (Shotgun) A.Dalton pass short middle to G.Bernard to CIN 21 for 3 yards (D.Hayden).,10,2,13,CIN 18,0,CIN,
+6,1096,2,11:46,"(11:46) (No Huddle, Shotgun) A.Dalton pass short right to M.Sanu to CIN 49 for 28 yards (L.Asante).",7,2,41,CIN 21,0,CIN,
+6,1190,0,10:17,Timeout #2 by CIN at 10:17.,0,2,78,,0,,TIMEOUT
+9,1772,3,02:00,(2:00) (Shotgun) L.Murray up the middle to OAK 31 for 12 yards (C.Carter).,16,2,6,OAK 19,0,OAK,
+9,1714,1,02:18,(2:18) (Shotgun) M.McGloin pass incomplete short left to S.Roberts.,10,2,-6,OAK 25,0,OAK,
+9,1794,4,01:15,"(1:15) M.King punts 48 yards to CIN 21, Center-J.Condo. A.Jones to CIN 39 for 18 yards (J.Condo).",4,2,6,OAK 31,0,OAK,PUNT
+9,1682,0,02:21,"M.Nugent kicks 65 yards from CIN 35 to end zone, Touchback. PENALTY on CIN-R.Burkhead, Offensive Offside, 5 yards, enforced at OAK 20.",0,2,-6,CIN 35,0,CIN,KICKOFF
+9,1755,0,02:00,Two-Minute Warning,0,2,-6,,0,,
+9,1736,2,02:18,(2:18) (Shotgun) M.McGloin sacked at OAK 19 for -6 yards (C.Dunlap).,10,2,-6,OAK 25,0,OAK,
+8,1583,2,03:27,"(3:27) (No Huddle, Shotgun) J.Hill up the middle to OAK 4 for 1 yard (J.Tuck).",4,2,40,OAK 5,0,CIN,
+8,1605,3,02:47,"(2:47) (Shotgun) A.Dalton pass short right to A.Green to OAK 3 for 1 yard (M.Smith). PENALTY on OAK-D.Hayden, Defensive Holding, 2 yards, enforced at OAK 4 - No Play.",3,2,42,OAK 4,0,CIN,PENALTY
+8,1506,2,05:16,(5:16) (Shotgun) A.Dalton pass short right to G.Bernard to OAK 41 for 3 yards (K.Mack).,10,2,3,OAK 44,0,CIN,
+8,1649,1,02:26,"(2:26) J.Hill up the middle for 2 yards, TOUCHDOWN.",2,2,44,OAK 2,1,CIN,TD
+8,1666,0,02:21,"M.Nugent extra point is GOOD, Center-C.Harris, Holder-K.Huber.",0,2,44,OAK 15,1,CIN,XP
+8,1562,1,04:01,"(4:01) (No Huddle, Shotgun) G.Bernard up the middle to OAK 5 for 6 yards (A.Smith; M.Smith).",10,2,39,OAK 11,0,CIN,
+8,1479,1,05:21,(5:21) (Shotgun) A.Dalton pass incomplete deep right to T.Eifert.,10,2,0,OAK 44,0,CIN,
+8,1538,3,04:31,(4:31) (Shotgun) A.Dalton pass deep left to A.Green to OAK 11 for 30 yards (L.Asante).,7,2,33,OAK 41,0,CIN,
+11,2027,1,00:04,(:04) L.Murray up the middle to OAK 41 for 8 yards (A.Hawk; R.Maualuga).,10,2,8,OAK 33,0,OAK,
+11,2048,0,,END QUARTER 2,0,2,8,,0,,
+11,2005,0,00:07,M.Nugent kicks 40 yards from CIN 35 to OAK 25. L.Smith to OAK 33 for 8 yards (C.Peerman).,0,2,0,CIN 35,0,CIN,KICKOFF
+10,1830,1,01:03,(1:03) (Shotgun) A.Dalton pass short middle to T.Eifert to OAK 43 for 18 yards (L.Asante).,10,2,18,CIN 39,0,CIN,
+10,1969,3,00:12,"(:12) (Shotgun) A.Dalton pass short middle to T.Eifert for 13 yards, TOUCHDOWN.",7,2,61,OAK 13,1,CIN,TD
+10,1854,1,00:38,"(:38) (No Huddle, Shotgun) G.Bernard up the middle to OAK 30 for 13 yards (L.Asante).",10,2,31,OAK 43,0,CIN,
+10,1945,2,00:18,(:18) (Shotgun) J.Fisher reported in as eligible.  A.Dalton pass incomplete short left to M.Jones (T.Carrie).,7,2,61,OAK 13,0,CIN,
+10,1875,0,00:29,Timeout #3 by CIN at 00:29.,0,2,31,,0,,TIMEOUT
+10,1989,0,00:07,"M.Nugent extra point is GOOD, Center-C.Harris, Holder-K.Huber.",0,2,61,OAK 15,1,CIN,XP
+10,1892,1,00:29,(:29) (Shotgun) A.Dalton pass short left to G.Bernard ran ob at OAK 16 for 14 yards.,10,2,45,OAK 30,0,CIN,
+10,1916,1,00:23,"(:23) (No Huddle, Shotgun) A.Dalton pass short right to G.Bernard pushed ob at OAK 13 for 3 yards (C.Woodson).",10,2,48,OAK 16,0,CIN,
+13,2213,2,12:35,(12:35) (Shotgun) M.McGloin pass short left to A.Cooper to OAK 46 for 5 yards (A.Jones).,3,3,12,OAK 41,0,OAK,
+13,2189,1,13:07,(13:07) (Shotgun) M.McGloin pass short middle to S.Roberts to OAK 41 for 7 yards (R.Maualuga).,10,3,12,OAK 34,0,OAK,
+13,2259,2,12:09,(12:09) (Shotgun) M.McGloin pass deep left intended for M.Rivera INTERCEPTED by R.Nelson at CIN 24. R.Nelson to CIN 24 for no gain (M.Rivera).,10,3,12,OAK 46,0,OAK,INT
+13,2237,1,12:14,"(12:14) (No Huddle, Shotgun) M.McGloin pass incomplete short right to M.Crabtree.",10,3,13,OAK 46,0,OAK,
+12,2124,0,13:41,Timeout #1 by CIN at 13:41.,0,3,8,,0,,TIMEOUT
+12,2170,4,13:18,"(13:18) K.Huber punts 39 yards to OAK 34, Center-C.Harris, downed by CIN-C.Lewis-Harris.",3,3,7,CIN 27,0,CIN,PUNT
+12,2079,1,15:00,(15:00) J.Hill left tackle to CIN 21 for 1 yard (K.Mack).,10,3,1,CIN 20,0,CIN,
+12,2141,3,13:41,(13:41) (Shotgun) J.Hill left guard to CIN 27 for -1 yards (L.Asante). OAK-D.Hayden was injured during the play.,2,3,7,CIN 28,0,CIN,
+12,2100,2,14:24,(14:24) (Shotgun) A.Dalton pass short left to M.Jones to CIN 28 for 7 yards (A.Smith).,9,3,8,CIN 21,0,CIN,
+12,2064,0,15:00,"S.Janikowski kicks 65 yards from OAK 35 to end zone, Touchback.",0,3,0,OAK 35,0,OAK,KICKOFF
+15,2504,4,07:58,"(7:58) M.King punts 48 yards to CIN 15, Center-J.Condo, fair catch by B.Tate.",2,3,8,OAK 37,0,OAK,PUNT
+15,2459,2,09:21,(9:21) (Shotgun) L.Murray up the middle to OAK 37 for 2 yards (G.Atkins).,4,3,8,OAK 35,0,OAK,
+15,2480,3,08:42,(8:42) (Shotgun) M.McGloin pass short right to S.Roberts to OAK 37 for no gain (L.Hall).,2,3,8,OAK 37,0,OAK,
+15,2435,1,09:56,(9:56) (Shotgun) M.McGloin pass short left to M.Reece to OAK 35 for 6 yards (A.Jones).,10,3,6,OAK 29,0,OAK,
+14,2331,2,10:57,"(10:57) A.Dalton pass incomplete deep left to A.Green. PENALTY on CIN-R.Bodine, Offensive Holding, 10 yards, enforced at CIN 42 - No Play.",10,3,8,CIN 42,0,CIN,PENALTY
+14,2310,1,11:30,(11:30) (No Huddle) J.Hill up the middle to CIN 42 for no gain (M.Smith).,10,3,18,CIN 42,0,CIN,
+14,2410,4,10:06,"(10:06) K.Huber punts 49 yards to OAK 24, Center-C.Harris. T.Carrie to OAK 29 for 5 yards (D.Dennard).",25,3,3,CIN 27,0,CIN,PUNT
+14,2286,1,12:03,(12:03) (Shotgun) A.Dalton pass short right to A.Green to CIN 42 for 18 yards (L.Asante).,10,3,18,CIN 24,0,CIN,
+14,2386,3,10:46,(10:46) (Shotgun) A.Dalton pass short right to G.Bernard to CIN 27 for -5 yards (J.Tuck; K.Mack) [A.Smith].,20,3,3,CIN 32,0,CIN,
+14,2364,2,10:50,(10:50) (Shotgun) A.Dalton pass incomplete short right to T.Eifert (J.Tuck).,20,3,8,CIN 32,0,CIN,
+17,2793,1,03:03,"(3:03) (Shotgun) M.McGloin sacked at OAK 18 for -13 yards (G.Atkins). FUMBLES (G.Atkins), RECOVERED by CIN-M.Johnson at OAK 17. M.Johnson to OAK 17 for no gain (D.Penn).",10,3,-3,OAK 31,0,OAK,FUMBLE
+17,2769,1,03:42,(3:42) M.McGloin pass short middle to J.Olawale to OAK 31 for 11 yards (R.Maualuga; A.Hawk).,10,3,-3,OAK 20,0,OAK,
+17,2751,0,03:42,"M.Nugent kicks 65 yards from CIN 35 to end zone, Touchback.",0,3,-3,CIN 35,0,CIN,KICKOFF
+16,2605,1,06:23,(6:23) A.Dalton pass incomplete deep right to A.Green.,10,3,17,CIN 32,0,CIN,
+16,2627,2,06:17,(6:17) (Shotgun) J.Hill right guard to CIN 39 for 7 yards (L.Asante).,10,3,24,CIN 32,0,CIN,
+16,2523,1,07:50,"(7:50) A.Dalton pass short right to A.Green to CIN 23 for 8 yards (D.Hayden). PENALTY on OAK-D.Hayden, Defensive Holding, 5 yards, enforced at CIN 15 - No Play.",10,3,5,CIN 15,0,CIN,PENALTY
+16,2649,3,05:34,(5:34) (Shotgun) A.Dalton pass deep right to R.Burkhead to OAK 37 for 24 yards (T.Carrie).,3,3,48,CIN 39,0,CIN,
+16,2558,1,07:36,(7:36) (Shotgun) J.Hill left guard to CIN 24 for 4 yards (J.Tuck).,10,3,9,CIN 20,0,CIN,
+16,2579,2,06:59,(6:59) (Shotgun) J.Fisher reported in as eligible.  A.Dalton pass short right to A.Green to CIN 32 for 8 yards (D.Hayden; C.Woodson).,6,3,17,CIN 24,0,CIN,
+16,2735,0,03:42,"M.Nugent extra point is Blocked (J.Tuck), Center-C.Harris, Holder-K.Huber.",0,3,85,OAK 15,0,CIN,XPB
+16,2673,1,04:55,(4:55) (No Huddle) G.Bernard left guard pushed ob at OAK 9 for 28 yards (C.Woodson).,10,3,76,OAK 37,0,CIN,
+16,2694,1,04:26,(4:26) (No Huddle) G.Bernard up the middle to OAK 8 for 1 yard (D.Williams).,9,3,77,OAK 9,0,CIN,
+16,2715,2,03:45,"(3:45) (Shotgun) A.Dalton pass short left to T.Eifert for 8 yards, TOUCHDOWN.",8,3,85,OAK 8,1,CIN,TD
+19,2925,0,01:25,M.Nugent kicks 65 yards from CIN 35 to OAK 0. T.Jones to OAK 28 for 28 yards (C.Carter).,0,3,0,CIN 35,0,CIN,KICKOFF
+19,2992,1,00:24,"(:24) (No Huddle, Shotgun) M.McGloin pass short middle to M.Crabtree to CIN 49 for 11 yards (V.Rey).",10,3,23,OAK 40,0,OAK,
+19,3100,4,14:28,"(14:28) M.King punts 48 yards to end zone, Center-J.Condo, Touchback.",9,4,24,CIN 48,0,OAK,PUNT
+19,3016,0,,END QUARTER 3,0,3,23,,0,,
+19,2968,2,00:47,"(:47) (No Huddle, Shotgun) M.McGloin pass short middle to M.Crabtree to OAK 40 for 8 yards (E.Lamur; L.Hall).",6,3,12,OAK 32,0,OAK,
+19,3032,1,15:00,(15:00) (Shotgun) M.McGloin pass short left to C.Walford to CIN 48 for 1 yard (V.Rey).,10,4,24,CIN 49,0,OAK,
+19,3078,3,14:33,(14:33) (Shotgun) M.McGloin pass incomplete deep middle to S.Roberts.,9,4,24,CIN 48,0,OAK,
+19,3056,2,14:35,"(14:35) (No Huddle, Shotgun) M.McGloin pass incomplete short right to A.Cooper.",9,4,24,CIN 48,0,OAK,
+19,2947,1,01:20,(1:20) (Shotgun) T.Jones right guard to OAK 32 for 4 yards (C.Carter).,10,3,4,OAK 28,0,OAK,
+18,2881,3,01:35,(1:35) A.Dalton pass incomplete deep left to R.Hewitt.,10,3,0,OAK 17,0,CIN,
+18,2864,0,01:35,Timeout #2 by CIN at 01:35.,0,3,0,,0,,TIMEOUT
+18,2843,2,02:18,(2:18) (Shotgun) J.Hill left tackle to OAK 17 for -2 yards (J.Tuck).,8,3,0,OAK 15,0,CIN,
+18,2822,1,02:50,(2:50) J.Hill left tackle to OAK 15 for 2 yards (T.Carrie).,10,3,2,OAK 17,0,CIN,
+18,2906,4,01:30,"(1:30) M.Nugent 35 yard field goal is GOOD, Center-C.Harris, Holder-K.Huber.",10,3,0,OAK 17,1,CIN,FG

@@ -1,174 +1,174 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1723,3,01:01,,7,2,39,MIA 28,0,SD,
-9,1742,4,00:55,,15,2,39,MIA 36,0,SD,PUNT
-9,1629,1,02:00,,10,2,44,MIA 45,0,SD,
-9,1653,1,01:22,,10,2,47,MIA 31,0,SD,
-9,1612,0,02:00,,0,2,30,,0,,
-9,1501,0,02:50,,0,2,0,MIA 35,0,MIA,KICKOFF
-9,1798,0,00:55,,0,2,39,,0,,TIMEOUT
-9,1566,1,02:11,,10,2,11,SD 36,0,SD,
-9,1588,2,02:06,,10,2,30,SD 36,0,SD,
-9,1684,0,01:07,,0,2,47,,0,,TIMEOUT
-9,1701,2,01:07,,7,2,47,MIA 28,0,SD,
-9,1516,1,02:50,,10,2,0,SD 25,0,SD,
-9,1538,2,02:44,,10,2,11,SD 25,0,SD,
-10,1761,1,00:45,,10,2,1,MIA 7,0,MIA,
-10,1782,0,,,0,2,1,,0,,
-20,3618,3,03:06,,9,4,66,SD 9,0,MIA,
-20,3523,1,04:04,,10,4,66,MIA 25,0,MIA,PENALTY
-20,3601,0,03:06,,0,4,66,,0,,TIMEOUT
-20,3640,0,03:01,,0,4,66,,0,,TIMEOUT
-20,3508,0,04:04,,0,4,0,SD 35,0,SD,KICKOFF
-20,3579,2,03:11,,9,4,66,SD 9,0,MIA,
-20,3558,1,03:54,,10,4,66,SD 10,0,MIA,
-20,3663,4,03:01,,9,4,66,SD 9,1,MIA,FG
-6,956,2,14:05,,12,2,9,MIA 15,0,MIA,
-6,977,3,13:21,,9,2,9,MIA 18,0,MIA,
-6,932,1,14:46,,10,2,-2,MIA 17,0,MIA,
-6,1001,4,12:42,,1,2,9,MIA 26,0,MIA,PUNT
-6,910,0,14:51,,0,2,0,SD 35,0,SD,KICKOFF
-18,3317,3,05:39,,28,4,-9,MIA 23,0,MIA,
-18,3247,2,06:14,,19,4,-9,MIA 32,0,MIA,
-18,3349,4,05:21,,19,4,-9,MIA 32,0,MIA,PUNT
-18,3226,1,06:59,,10,4,-9,MIA 41,0,MIA,
-18,3282,3,06:08,,18,4,-9,MIA 33,0,MIA,PENALTY
-1,117,1,13:02,,10,1,13,SD 37,0,SD,
-1,93,3,13:40,,4,1,12,SD 31,0,SD,
-1,36,0,15:00,,0,1,0,MIA 35,0,MIA,KICKOFF
-1,160,3,12:17,,9,1,13,SD 38,0,SD,
-1,138,2,12:22,,9,1,13,SD 38,0,SD,
-1,72,2,14:23,,8,1,6,SD 27,0,SD,
-1,51,1,15:00,,10,1,2,SD 25,0,SD,
-1,182,4,12:11,,9,1,13,SD 38,0,SD,PUNT
-5,677,1,02:54,,10,1,-5,SD 27,0,SD,PENALTY
-5,721,2,02:18,,12,1,-3,SD 25,0,SD,
-5,742,3,01:32,,13,1,46,SD 24,0,SD,PENALTY
-5,796,1,00:47,,10,1,43,MIA 30,0,SD,
-5,700,1,02:54,,15,1,-3,SD 22,0,SD,
-5,891,4,14:55,,7,2,46,MIA 27,1,SD,FG
-5,841,0,,,0,1,46,,0,,
-5,775,1,01:28,,10,1,43,MIA 49,0,SD,
-5,820,2,00:06,,10,1,46,MIA 30,0,SD,
-5,869,3,15:00,,7,2,46,MIA 27,0,SD,
-13,2325,1,05:36,,10,3,21,MIA 25,0,MIA,
-13,2481,3,01:49,,2,3,75,SD 18,1,MIA,TD
-13,2418,3,03:35,,11,3,49,SD 44,0,MIA,
-13,2351,1,05:00,,10,3,31,MIA 46,0,MIA,
-13,2460,2,02:27,,3,3,57,SD 19,0,MIA,
-13,2439,1,02:59,,10,3,56,SD 26,0,MIA,
-13,2375,1,04:22,,10,3,49,SD 43,0,MIA,
-13,2501,0,01:43,,0,3,75,SD 15,1,MIA,XP
-13,2397,2,04:18,,10,3,31,SD 43,0,MIA,
-13,2310,0,05:36,,0,3,0,SD 35,0,SD,KICKOFF
-21,3739,0,02:00,,0,4,13,,0,,
-21,3797,1,01:13,,10,4,33,MIA 42,1,SD,TD
-21,3756,2,02:00,,10,4,33,SD 38,0,SD,
-21,3718,1,02:30,,10,4,13,SD 38,0,SD,
-21,3697,1,02:57,,10,4,13,SD 25,0,SD,
-21,3682,0,02:57,,0,4,0,MIA 35,0,MIA,KICKOFF
-21,3780,0,01:13,,0,4,33,,0,,TIMEOUT
-23,3921,0,00:00,,0,4,-1,,0,,
-23,3900,1,00:37,,10,4,-1,MIA 47,0,MIA,
-11,1865,1,13:50,,10,3,48,SD 30,0,MIA,
-11,1844,2,14:29,,5,3,45,MIA 30,0,MIA,
-11,1910,0,12:33,,0,3,73,,0,,TIMEOUT
-11,1820,1,15:00,,10,3,5,MIA 25,0,MIA,
-11,1930,1,12:33,,2,3,75,SD 2,1,MIA,TD
-11,1886,2,13:06,,7,3,73,SD 27,0,MIA,
-11,1947,0,12:29,,0,3,75,SD 15,1,MIA,XP
-11,1805,0,15:00,,0,3,0,SD 35,0,SD,KICKOFF
-14,2755,4,13:51,,4,4,17,SD 38,0,SD,FUMBLE
-14,2708,3,14:41,,9,4,7,SD 33,0,SD,PENALTY
-14,2656,0,,,0,3,14,,0,,
-14,2731,3,14:16,,14,4,17,SD 28,0,SD,
-14,2672,2,15:00,,7,4,12,SD 35,0,SD,
-14,2635,1,00:27,,10,3,14,SD 32,0,SD,
-14,2539,1,01:37,,10,3,1,SD 21,0,SD,
-14,2605,3,00:53,,4,3,11,SD 27,0,SD,PENALTY
-14,2582,3,00:53,,9,3,6,SD 22,0,SD,PENALTY
-14,2517,0,01:43,,0,3,0,MIA 35,0,MIA,KICKOFF
-14,2560,2,00:59,,9,3,1,SD 22,0,SD,
-8,1311,3,06:47,,7,2,8,MIA 29,0,MIA,
-8,1346,1,06:24,,10,2,8,MIA 37,0,MIA,
-8,1268,1,07:31,,10,2,3,MIA 26,0,MIA,
-8,1485,0,02:50,,0,2,74,SD 15,1,MIA,XP
-8,1460,1,02:59,,10,2,74,SD 39,1,MIA,TD
-8,1246,0,07:37,,0,2,0,SD 35,0,SD,KICKOFF
-8,1415,2,04:22,,1,2,29,SD 43,0,MIA,
-8,1289,2,06:51,,7,2,3,MIA 29,0,MIA,
-8,1391,1,04:57,,10,2,31,MIA 48,0,MIA,
-8,1367,2,05:40,,13,2,22,MIA 34,0,MIA,
-8,1436,3,03:39,,3,2,35,SD 45,0,MIA,
-19,3450,1,04:17,,10,4,7,SD 49,0,SD,
-19,3374,1,05:06,,10,4,7,SD 42,0,SD,
-19,3396,2,05:02,,10,4,2,SD 42,0,SD,
-19,3472,2,04:13,,10,4,58,SD 49,1,SD,TD
-19,3492,0,04:04,,0,4,58,MIA 15,1,SD,XP
-19,3417,3,04:24,,8,4,58,SD 44,0,SD,PENALTY
-22,3835,0,01:01,,0,4,0,MIA 35,0,MIA,KICKOFF
-22,3874,1,00:44,,10,4,12,SD 37,0,SD,INT
-22,3850,1,01:01,,10,4,12,SD 25,0,SD,
-12,2021,3,11:03,,9,3,6,SD 26,0,SD,PENALTY
-12,2274,3,05:42,,7,3,75,MIA 7,1,SD,TD
-12,2089,2,09:28,,10,3,18,SD 43,0,SD,
-12,2068,1,10:10,,10,3,18,SD 43,0,SD,
-12,2178,1,07:55,,10,3,62,MIA 18,0,SD,
-12,2002,2,11:50,,6,3,1,SD 29,0,SD,
-12,2111,3,09:22,,10,3,39,SD 43,0,SD,
-12,1978,1,12:29,,10,3,4,SD 25,0,SD,
-12,2044,3,10:40,,4,3,18,SD 31,0,SD,
-12,2135,1,08:38,,10,3,39,MIA 36,0,SD,
-12,2157,2,08:33,,10,3,57,MIA 36,0,SD,
-12,2253,2,06:26,,1,3,68,MIA 1,0,SD,
-12,1963,0,12:29,,0,3,0,MIA 35,0,MIA,KICKOFF
-12,2294,0,05:36,,0,3,75,MIA 15,1,SD,XP
-12,2199,2,07:11,,5,3,74,MIA 13,0,SD,PENALTY
-12,2232,1,07:05,,1,3,74,MIA 1,0,SD,
-16,2957,3,11:51,,11,4,-1,MIA 19,0,MIA,
-16,2935,2,11:55,,11,4,-1,MIA 19,0,MIA,
-16,2979,4,11:46,,11,4,-1,MIA 19,0,MIA,PUNT
-16,2914,1,12:38,,10,4,-1,MIA 20,0,MIA,
-7,1141,1,09:50,,10,2,51,MIA 45,0,SD,
-7,1071,2,11:07,,14,2,51,SD 28,0,SD,
-7,1210,1,07:42,,10,2,80,MIA 11,1,SD,TD
-7,1186,2,08:27,,11,2,69,MIA 30,0,SD,
-7,1093,3,11:03,,14,2,23,SD 28,0,SD,
-7,1050,1,11:48,,10,2,8,SD 32,0,SD,
-7,1117,1,10:26,,10,2,35,SD 43,0,SD,
-7,1230,0,07:37,,0,2,80,MIA 15,1,SD,XP
-7,1026,1,12:30,,10,2,8,SD 20,0,SD,
-7,1165,1,09:06,,10,2,50,MIA 29,0,SD,
-3,511,2,04:51,,4,1,6,SD 9,0,SD,
-3,490,1,05:34,,5,1,6,SD 8,0,SD,
-3,555,4,04:41,,4,1,6,SD 9,0,SD,FUMBLE
-3,533,3,04:47,,4,1,6,SD 9,0,SD,
-3,467,1,05:34,,10,1,5,SD 3,0,SD,PENALTY
-17,3030,2,11:03,,6,4,58,SD 16,0,SD,PENALTY
-17,3130,2,08:44,,6,4,31,SD 43,0,SD,
-17,3152,3,08:38,,6,4,44,SD 43,0,SD,
-17,3176,1,07:53,,10,4,58,MIA 44,0,SD,
-17,3200,1,07:09,,10,4,58,MIA 30,0,SD,INT
-17,3082,2,10:10,,16,4,58,SD 14,0,SD,
-17,3063,1,10:56,,10,4,2,SD 20,0,SD,
-17,3106,1,09:23,,10,4,58,SD 39,0,SD,
-17,3009,1,11:33,,10,4,4,SD 12,0,SD,
-4,630,3,03:11,,9,1,1,MIA 39,0,MIA,
-4,588,1,04:30,,10,1,1,MIA 38,0,MIA,
-4,652,4,03:06,,9,1,1,MIA 39,0,MIA,PUNT
-4,609,2,03:50,,9,1,1,MIA 39,0,MIA,
-2,448,4,05:44,,14,1,46,SD 43,0,MIA,PUNT
-2,218,1,12:00,,10,1,3,MIA 11,0,MIA,
-2,284,2,10:23,,5,1,25,MIA 28,0,MIA,
-2,374,1,07:51,,10,1,59,SD 39,0,MIA,
-2,419,3,06:26,,5,1,46,SD 34,0,MIA,FUMBLE
-2,329,1,09:09,,10,1,40,50,0,MIA,
-2,239,2,11:28,,7,1,12,MIA 14,0,MIA,
-2,305,1,09:48,,10,1,40,MIA 36,0,MIA,
-2,263,1,10:58,,10,1,17,MIA 23,0,MIA,
-2,398,2,07:07,,1,1,55,SD 30,0,MIA,
-2,350,2,08:31,,9,1,50,SD 49,0,MIA,
-15,2860,1,12:47,,2,4,3,MIA 2,0,SD,
-15,2882,2,12:42,,2,4,3,MIA 2,0,SD,INT
-15,2827,3,12:51,,5,4,3,MIA 5,0,SD,PENALTY
-15,2784,1,13:41,,5,4,0,MIA 5,0,SD,
-15,2805,2,12:56,,5,4,0,MIA 5,0,SD,
+20,3508,0,04:04,"J.Lambo kicks 65 yards from SD 35 to end zone, Touchback.",0,4,0,SD 35,0,SD,KICKOFF
+20,3601,0,03:06,Timeout #1 by SD at 03:06.,0,4,66,,0,,TIMEOUT
+20,3579,2,03:11,(3:11) R.Tannehill pass incomplete short right to D.Sims.,9,4,66,SD 9,0,MIA,
+20,3663,4,03:01,"(3:01) A.Franks 27 yard field goal is GOOD, Center-J.Denney, Holder-M.Darr.",9,4,66,SD 9,1,MIA,FG
+20,3618,3,03:06,(3:06) (Shotgun) R.Tannehill pass incomplete short left to D.Parker (T.Williams).,9,4,66,SD 9,0,MIA,
+20,3558,1,03:54,(3:54) J.Ajayi left end to SD 9 for 1 yard (K.Toomer).,10,4,66,SD 10,0,MIA,
+20,3523,1,04:04,"(4:04) (Shotgun) R.Tannehill pass deep left to D.Parker to SD 19 for 56 yards (A.Phillips) [C.Liuget]. PENALTY on SD-C.Liuget, Roughing the Passer, 9 yards, enforced at SD 19.",10,4,66,MIA 25,0,MIA,PENALTY
+20,3640,0,03:01,Timeout #2 by SD at 03:01.,0,4,66,,0,,TIMEOUT
+21,3780,0,01:13,Timeout #3 by SD at 01:13.,0,4,33,,0,,TIMEOUT
+21,3682,0,02:57,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback.",0,4,0,MIA 35,0,MIA,KICKOFF
+21,3797,1,01:13,"(1:13) (Shotgun) P.Rivers pass short left intended for Ty.Williams INTERCEPTED by K.Alonso [I.Abdul-Quddus] at MIA 40. K.Alonso for 60 yards, TOUCHDOWN.",10,4,33,MIA 42,1,SD,TD
+21,3718,1,02:30,"(2:30) (Shotgun) M.Gordon up the middle to SD 38 for no gain (N.Suh, A.Branch).",10,4,13,SD 38,0,SD,
+21,3756,2,02:00,(2:00) (Shotgun) P.Rivers pass short right to M.Gordon to MIA 42 for 20 yards (J.Jenkins).,10,4,33,SD 38,0,SD,
+21,3739,0,02:00,Two-Minute Warning,0,4,13,,0,,
+21,3697,1,02:57,(2:57) (Shotgun) M.Gordon up the middle to SD 38 for 13 yards (I.Abdul-Quddus).,10,4,13,SD 25,0,SD,
+22,3835,0,01:01,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback.",0,4,0,MIA 35,0,MIA,KICKOFF
+22,3874,1,00:44,"(:44) (No Huddle, Shotgun) P.Rivers pass deep left intended for Ty.Williams INTERCEPTED by T.Lippett at MIA 47. T.Lippett ran ob at MIA 47 for no gain.",10,4,12,SD 37,0,SD,INT
+22,3850,1,01:01,(1:01) (Shotgun) P.Rivers pass short middle to M.Gordon to SD 37 for 12 yards (B.McCain).,10,4,12,SD 25,0,SD,
+23,3921,0,00:00,END GAME,0,4,-1,,0,,
+23,3900,1,00:37,(:37) R.Tannehill kneels to MIA 46 for -1 yards.,10,4,-1,MIA 47,0,MIA,
+1,51,1,15:00,"(15:00) M.Gordon right tackle to SD 27 for 2 yards (B.Maxwell, J.Phillips).",10,1,2,SD 25,0,SD,
+1,36,0,15:00,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback.",0,1,0,MIA 35,0,MIA,KICKOFF
+1,182,4,12:11,"(12:11) D.Kaser punts 54 yards to MIA 8, Center-M.Windt. J.Grant to MIA 11 for 3 yards (D.Watt). Penalty on MIA-M.Thomas, Running Into the Kicker, declined.",9,1,13,SD 38,0,SD,PUNT
+1,117,1,13:02,(13:02) M.Gordon right tackle to SD 38 for 1 yard (M.Williams).,10,1,13,SD 37,0,SD,
+1,72,2,14:23,(14:23) (Shotgun) M.Gordon right tackle to SD 31 for 4 yards (B.Maxwell).,8,1,6,SD 27,0,SD,
+1,93,3,13:40,(13:40) (Shotgun) P.Rivers pass short right to D.Inman to SD 37 for 6 yards (B.Maxwell).,4,1,12,SD 31,0,SD,
+1,138,2,12:22,(12:22) (Shotgun) P.Rivers pass incomplete short middle to A.Gates (B.Rambo).,9,1,13,SD 38,0,SD,
+1,160,3,12:17,(12:17) (Shotgun) P.Rivers pass incomplete short middle to A.Gates.,9,1,13,SD 38,0,SD,
+3,511,2,04:51,(4:51) (Shotgun) P.Rivers pass incomplete short left to D.Inman.,4,1,6,SD 9,0,SD,
+3,533,3,04:47,(4:47) (Shotgun) P.Rivers pass incomplete deep left to I.Burse.,4,1,6,SD 9,0,SD,
+3,467,1,05:34,"(5:34) PENALTY on MIA-J.Phillips, Encroachment, 5 yards, enforced at SD 3 - No Play.",10,1,5,SD 3,0,SD,PENALTY
+3,555,4,04:41,"(4:41) D.Kaser punts 55 yards to MIA 36, Center-M.Windt. J.Grant MUFFS catch, touched at MIA 36, and recovers at MIA 38. J.Grant to MIA 38 for no gain (To.Williams).",4,1,6,SD 9,0,SD,FUMBLE
+3,490,1,05:34,"(5:34) M.Gordon left tackle to SD 9 for 1 yard (E.Mitchell, M.Thomas).",5,1,6,SD 8,0,SD,
+2,398,2,07:07,(7:07) (Shotgun) J.Ajayi up the middle to SD 34 for -4 yards (B.Flowers).,1,1,55,SD 30,0,MIA,
+2,305,1,09:48,(9:48) (Shotgun) R.Tannehill pass short left to D.Parker to 50 for 14 yards (A.Phillips).,10,1,40,MIA 36,0,MIA,
+2,218,1,12:00,"(12:00) J.Ajayi left tackle to MIA 14 for 3 yards (K.Toomer, J.Bosa).",10,1,3,MIA 11,0,MIA,
+2,374,1,07:51,(7:51) R.Tannehill pass short right to M.Gray to SD 30 for 9 yards (D.Lowery).,10,1,59,SD 39,0,MIA,
+2,263,1,10:58,(10:58) J.Ajayi left tackle to MIA 28 for 5 yards (M.Ingram).,10,1,17,MIA 23,0,MIA,
+2,448,4,05:44,"(5:44) M.Darr punts 40 yards to SD 3, Center-J.Denney, downed by MIA-W.Aikens.",14,1,46,SD 43,0,MIA,PUNT
+2,239,2,11:28,(11:28) R.Tannehill pass short left to M.Gray pushed ob at MIA 23 for 9 yards (M.Ingram).,7,1,12,MIA 14,0,MIA,
+2,350,2,08:31,"(8:31) (Shotgun) R.Tannehill pass short right to D.Parker to SD 39 for 10 yards (D.Lowery, A.Phillips).",9,1,50,SD 49,0,MIA,
+2,419,3,06:26,"(6:26) (Shotgun) R.Tannehill sacked at SD 43 for -9 yards (M.Ingram). FUMBLES (M.Ingram) [M.Ingram], recovered by MIA-J.Bushrod at SD 43. J.Bushrod to SD 43 for no gain (C.Liuget).",5,1,46,SD 34,0,MIA,FUMBLE
+2,329,1,09:09,"(9:09) (Shotgun) J.Ajayi up the middle to SD 49 for 1 yard (To.Williams, K.Emanuel).",10,1,40,50,0,MIA,
+2,284,2,10:23,(10:23) (Shotgun) J.Ajayi up the middle to MIA 36 for 8 yards (M.Ingram).,5,1,25,MIA 28,0,MIA,
+5,775,1,01:28,(1:28) M.Gordon right end to MIA 30 for 19 yards (N.Hewitt).,10,1,43,MIA 49,0,SD,
+5,796,1,00:47,"(:47) M.Gordon right end to MIA 30 for no gain (C.Wake, I.Abdul-Quddus). SD-J.Barksdale was injured during the play.",10,1,43,MIA 30,0,SD,
+5,742,3,01:32,"(1:32) (Shotgun) P.Rivers pass incomplete short middle to D.Inman. PENALTY on MIA-B.McCain, Defensive Pass Interference, 12 yards, enforced at SD 24 - No Play. PENALTY on MIA-B.McCain, Face Mask (15 Yards), 15 yards, enforced between downs.",13,1,46,SD 24,0,SD,PENALTY
+5,841,0,,END QUARTER 1,0,1,46,,0,,
+5,891,4,14:55,"(14:55) J.Lambo 45 yard field goal is GOOD, Center-M.Windt, Holder-K.Clemens.",7,2,46,MIA 27,1,SD,FG
+5,677,1,02:54,"(2:54) (Shotgun) PENALTY on SD-J.Barksdale, False Start, 5 yards, enforced at SD 27 - No Play.",10,1,-5,SD 27,0,SD,PENALTY
+5,700,1,02:54,(2:54) M.Gordon right guard to SD 25 for 3 yards (K.Alonso).,15,1,-3,SD 22,0,SD,
+5,721,2,02:18,"(2:18) (Shotgun) M.Gordon left end to SD 24 for -1 yards (E.Mitchell, N.Hewitt).",12,1,-3,SD 25,0,SD,
+5,869,3,15:00,(15:00) (Shotgun) P.Rivers pass incomplete deep right to Ty.Williams.,7,2,46,MIA 27,0,SD,
+5,820,2,00:06,(:06) (Shotgun) M.Gordon up the middle to MIA 27 for 3 yards (N.Suh).,10,1,46,MIA 30,0,SD,
+4,630,3,03:11,(3:11) (Shotgun) R.Tannehill pass incomplete deep left to K.Stills.,9,1,1,MIA 39,0,MIA,
+4,652,4,03:06,"(3:06) M.Darr punts 55 yards to SD 6, Center-J.Denney. I.Burse to SD 27 for 21 yards (M.Hull).",9,1,1,MIA 39,0,MIA,PUNT
+4,609,2,03:50,"(3:50) (Shotgun) D.Williams up the middle to MIA 39 for no gain (K.Toomer, C.Liuget).",9,1,1,MIA 39,0,MIA,
+4,588,1,04:30,"(4:30) J.Ajayi left guard to MIA 39 for 1 yard (K.Toomer, To.Williams).",10,1,1,MIA 38,0,MIA,
+7,1050,1,11:48,(11:48) M.Gordon right end to SD 28 for -4 yards (K.Alonso).,10,2,8,SD 32,0,SD,
+7,1165,1,09:06,"(9:06) M.Gordon right end to MIA 30 for -1 yards (L.Orr, J.Jenkins).",10,2,50,MIA 29,0,SD,
+7,1210,1,07:42,"(7:42) (Shotgun) P.Rivers pass short middle to A.Gates for 11 yards, TOUCHDOWN.",10,2,80,MIA 11,1,SD,TD
+7,1026,1,12:30,(12:30) (Shotgun) P.Rivers pass short left to S.McGrath to SD 32 for 12 yards (T.Lippett).,10,2,8,SD 20,0,SD,
+7,1230,0,07:37,"J.Lambo extra point is GOOD, Center-M.Windt, Holder-K.Clemens.",0,2,80,MIA 15,1,SD,XP
+7,1093,3,11:03,(11:03) (Shotgun) P.Rivers pass short right to M.Gordon to SD 43 for 15 yards (A.Branch).,14,2,23,SD 28,0,SD,
+7,1186,2,08:27,(8:27) (Shotgun) P.Rivers pass deep right to A.Gates to MIA 11 for 19 yards (I.Abdul-Quddus).,11,2,69,MIA 30,0,SD,
+7,1071,2,11:07,(11:07) (Shotgun) P.Rivers pass incomplete short middle to D.Inman (N.Suh).,14,2,51,SD 28,0,SD,
+7,1141,1,09:50,(9:50) (Shotgun) P.Rivers pass deep right to Ty.Williams to MIA 29 for 16 yards (B.McCain).,10,2,51,MIA 45,0,SD,
+7,1117,1,10:26,(10:26) (Shotgun) P.Rivers pass short left to D.Inman to MIA 45 for 12 yards (J.Jones).,10,2,35,SD 43,0,SD,
+6,977,3,13:21,"(13:21) (Shotgun) R.Tannehill pass short left to J.Landry to MIA 26 for 8 yards (C.Mager, B.Flowers) [M.Ingram].",9,2,9,MIA 18,0,MIA,
+6,932,1,14:46,(14:46) (Shotgun) R.Tannehill pass short left to J.Landry to MIA 15 for -2 yards (C.Hayward).,10,2,-2,MIA 17,0,MIA,
+6,910,0,14:51,J.Lambo kicks 71 yards from SD 35 to MIA -6. J.Grant to MIA 17 for 23 yards (D.McCoil).,0,2,0,SD 35,0,SD,KICKOFF
+6,1001,4,12:42,"(12:42) M.Darr punts 57 yards to SD 17, Center-J.Denney. I.Burse to SD 20 for 3 yards (M.Thomas, J.Denney).",1,2,9,MIA 26,0,MIA,PUNT
+6,956,2,14:05,(14:05) J.Ajayi right guard to MIA 18 for 3 yards (K.Toomer).,12,2,9,MIA 15,0,MIA,
+9,1701,2,01:07,(1:07) P.Rivers pass incomplete short left to A.Gates.,7,2,47,MIA 28,0,SD,
+9,1588,2,02:06,(2:06) (Shotgun) P.Rivers pass deep left to A.Gates to MIA 45 for 19 yards (B.McCain).,10,2,30,SD 36,0,SD,
+9,1798,0,00:55,Timeout #1 by MIA at 00:55.,0,2,39,,0,,TIMEOUT
+9,1742,4,00:55,"(:55) D.Kaser punts 29 yards to MIA 7, impetus ends at MIA 1, Center-M.Windt, downed by SD-J.Perry.",15,2,39,MIA 36,0,SD,PUNT
+9,1629,1,02:00,(2:00) (Shotgun) P.Rivers pass short right to A.Gates to MIA 31 for 14 yards (K.Alonso).,10,2,44,MIA 45,0,SD,
+9,1612,0,02:00,Two-Minute Warning,0,2,30,,0,,
+9,1723,3,01:01,"(1:01) (Shotgun) P.Rivers sacked at MIA 36 for -8 yards (C.Wake, M.Williams).",7,2,39,MIA 28,0,SD,
+9,1501,0,02:50,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback.",0,2,0,MIA 35,0,MIA,KICKOFF
+9,1684,0,01:07,Timeout #1 by SD at 01:07.,0,2,47,,0,,TIMEOUT
+9,1653,1,01:22,(1:22) (Shotgun) M.Gordon right end to MIA 28 for 3 yards (B.Maxwell).,10,2,47,MIA 31,0,SD,
+9,1516,1,02:50,(2:50) P.Rivers pass incomplete short right. SD-O.Franklin was injured during the play.,10,2,0,SD 25,0,SD,
+9,1566,1,02:11,(2:11) (Shotgun) P.Rivers pass incomplete short middle to A.Gates.,10,2,11,SD 36,0,SD,
+9,1538,2,02:44,(2:44) P.Rivers pass short left to M.Gordon to SD 36 for 11 yards (J.Phillips) [N.Suh].,10,2,11,SD 25,0,SD,
+8,1436,3,03:39,(3:39) (Shotgun) R.Tannehill pass short left to J.Landry pushed ob at SD 39 for 6 yards (D.Lowery) [M.Ingram].,3,2,35,SD 45,0,MIA,
+8,1268,1,07:31,(7:31) J.Ajayi right end to MIA 29 for 3 yards (B.Mebane).,10,2,3,MIA 26,0,MIA,
+8,1311,3,06:47,"(6:47) (Shotgun) R.Tannehill pass short right to K.Stills to MIA 37 for 8 yards (D.McCoil). Penalty on SD-M.Ingram, Defensive Offside, declined.",7,2,8,MIA 29,0,MIA,
+8,1289,2,06:51,(6:51) (Shotgun) R.Tannehill pass incomplete short right to D.Jones (K.Toomer).,7,2,3,MIA 29,0,MIA,
+8,1346,1,06:24,(6:24) J.Ajayi right end to MIA 34 for -3 yards (K.Toomer).,10,2,8,MIA 37,0,MIA,
+8,1460,1,02:59,"(2:59) R.Tannehill pass deep middle to K.Stills for 39 yards, TOUCHDOWN [T.Palepoi].",10,2,74,SD 39,1,MIA,TD
+8,1367,2,05:40,(5:40) (Shotgun) R.Tannehill pass short middle to D.Parker to MIA 48 for 14 yards (C.Mager).,13,2,22,MIA 34,0,MIA,
+8,1485,0,02:50,"A.Franks extra point is GOOD, Center-J.Denney, Holder-M.Darr.",0,2,74,SD 15,1,MIA,XP
+8,1246,0,07:37,J.Lambo kicks 70 yards from SD 35 to MIA -5. J.Grant to MIA 26 for 31 yards (D.McCoil).,0,2,0,SD 35,0,SD,KICKOFF
+8,1415,2,04:22,"(4:22) J.Ajayi up the middle to SD 45 for -2 yards (K.Toomer, To.Williams).",1,2,29,SD 43,0,MIA,
+8,1391,1,04:57,(4:57) R.Tannehill pass short left to D.Parker pushed ob at SD 43 for 9 yards (C.Mager).,10,2,31,MIA 48,0,MIA,
+11,1805,0,15:00,"J.Lambo kicks 65 yards from SD 35 to end zone, Touchback.",0,3,0,SD 35,0,SD,KICKOFF
+11,1820,1,15:00,(15:00) (Shotgun) R.Tannehill pass short right to J.Landry pushed ob at MIA 30 for 5 yards (K.Emanuel).,10,3,5,MIA 25,0,MIA,
+11,1844,2,14:29,(14:29) J.Ajayi left end to SD 30 for 40 yards (A.Phillips).,5,3,45,MIA 30,0,MIA,
+11,1930,1,12:33,"(12:33) D.Williams up the middle for 2 yards, TOUCHDOWN.",2,3,75,SD 2,1,MIA,TD
+11,1865,1,13:50,(13:50) J.Ajayi right guard to SD 27 for 3 yards (D.Stuckey).,10,3,48,SD 30,0,MIA,
+11,1910,0,12:33,Timeout #1 by MIA at 12:33.,0,3,73,,0,,TIMEOUT
+11,1886,2,13:06,(13:06) (Shotgun) R.Tannehill pass deep right to J.Landry to SD 2 for 25 yards (D.Stuckey).,7,3,73,SD 27,0,MIA,
+11,1947,0,12:29,"A.Franks extra point is GOOD, Center-J.Denney, Holder-M.Darr.",0,3,75,SD 15,1,MIA,XP
+10,1782,0,,END QUARTER 2,0,2,1,,0,,
+10,1761,1,00:45,"(:45) J.Ajayi right guard to MIA 8 for 1 yard (K.Toomer, T.Palepoi).",10,2,1,MIA 7,0,MIA,
+13,2439,1,02:59,(2:59) J.Ajayi right end ran ob at SD 19 for 7 yards (A.Phillips).,10,3,56,SD 26,0,MIA,
+13,2460,2,02:27,"(2:27) J.Ajayi left end to SD 18 for 1 yard (K.Toomer, D.Square).",3,3,57,SD 19,0,MIA,
+13,2325,1,05:36,(5:36) (Shotgun) J.Ajayi left end pushed ob at MIA 46 for 21 yards (A.Phillips).,10,3,21,MIA 25,0,MIA,
+13,2310,0,05:36,"J.Lambo kicks 65 yards from SD 35 to end zone, Touchback.",0,3,0,SD 35,0,SD,KICKOFF
+13,2481,3,01:49,"(1:49) (Shotgun) R.Tannehill pass deep left to D.Williams for 18 yards, TOUCHDOWN.",2,3,75,SD 18,1,MIA,TD
+13,2397,2,04:18,"(4:18) (Shotgun) R.Tannehill right end to SD 44 for -1 yards (A.Phillips, K.Toomer).",10,3,31,SD 43,0,MIA,
+13,2418,3,03:35,(3:35) (Shotgun) R.Tannehill scrambles right end to SD 26 for 18 yards (C.Hayward).,11,3,49,SD 44,0,MIA,
+13,2375,1,04:22,"(4:22) R.Tannehill pass incomplete short right to D.Parker (M.Ingram, C.Hayward).",10,3,49,SD 43,0,MIA,
+13,2351,1,05:00,(5:00) (Shotgun) R.Tannehill pass short right to J.Landry pushed ob at SD 43 for 11 yards (B.Flowers).,10,3,31,MIA 46,0,MIA,
+13,2501,0,01:43,"A.Franks extra point is GOOD, Center-J.Denney, Holder-M.Darr.",0,3,75,SD 15,1,MIA,XP
+12,2068,1,10:10,"(10:10) M.Gordon left guard to SD 43 for no gain (I.Abdul-Quddus, N.Suh).",10,3,18,SD 43,0,SD,
+12,2044,3,10:40,(10:40) (Shotgun) P.Rivers pass short left to Ty.Williams to SD 43 for 12 yards (T.Lippett).,4,3,18,SD 31,0,SD,
+12,2089,2,09:28,(9:28) (Shotgun) P.Rivers pass incomplete short right to M.Gordon.,10,3,18,SD 43,0,SD,
+12,1978,1,12:29,(12:29) (Shotgun) P.Rivers pass short right to H.Henry to SD 29 for 4 yards (K.Alonso).,10,3,4,SD 25,0,SD,
+12,2232,1,07:05,(7:05) M.Gordon up the middle to MIA 1 for no gain (J.Jenkins).,1,3,74,MIA 1,0,SD,
+12,1963,0,12:29,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback.",0,3,0,MIA 35,0,MIA,KICKOFF
+12,2002,2,11:50,(11:50) (Shotgun) P.Rivers sacked at SD 26 for -3 yards (C.Wake).,6,3,1,SD 29,0,SD,
+12,2157,2,08:33,(8:33) M.Gordon left end to MIA 18 for 18 yards (M.Thomas).,10,3,57,MIA 36,0,SD,
+12,2135,1,08:38,(8:38) (Shotgun) P.Rivers pass incomplete short right to D.Inman.,10,3,39,MIA 36,0,SD,
+12,2021,3,11:03,"(11:03) (Shotgun) PENALTY on MIA-N.Suh, Neutral Zone Infraction, 5 yards, enforced at SD 26 - No Play.",9,3,6,SD 26,0,SD,PENALTY
+12,2294,0,05:36,"J.Lambo extra point is GOOD, Center-M.Windt, Holder-K.Clemens.",0,3,75,MIA 15,1,SD,XP
+12,2199,2,07:11,"(7:11) (Shotgun) P.Rivers pass incomplete short middle to D.Inman. PENALTY on MIA-B.McCain, Defensive Pass Interference, 12 yards, enforced at MIA 13 - No Play.",5,3,74,MIA 13,0,SD,PENALTY
+12,2111,3,09:22,(9:22) (Shotgun) P.Rivers pass deep left to Ty.Williams to MIA 36 for 21 yards (T.Lippett).,10,3,39,SD 43,0,SD,
+12,2178,1,07:55,(7:55) (Shotgun) M.Gordon up the middle to MIA 13 for 5 yards (N.Suh).,10,3,62,MIA 18,0,SD,
+12,2274,3,05:42,"(5:42) (Shotgun) P.Rivers pass short right to H.Henry for 7 yards, TOUCHDOWN.",7,3,75,MIA 7,1,SD,TD
+12,2253,2,06:26,(6:26) M.Gordon left end to MIA 7 for -6 yards (E.Mitchell).,1,3,68,MIA 1,0,SD,
+15,2860,1,12:47,(12:47) (Shotgun) P.Rivers pass incomplete short left.,2,4,3,MIA 2,0,SD,
+15,2784,1,13:41,(13:41) (Shotgun) M.Gordon up the middle to MIA 5 for no gain (A.Branch).,5,4,0,MIA 5,0,SD,
+15,2827,3,12:51,"(12:51) (Shotgun) P.Rivers pass incomplete short right to Ty.Williams. PENALTY on MIA-B.Maxwell, Defensive Holding, 3 yards, enforced at MIA 5 - No Play.",5,4,3,MIA 5,0,SD,PENALTY
+15,2882,2,12:42,(12:42) (Shotgun) P.Rivers pass short left intended for Ty.Williams INTERCEPTED by T.Lippett at MIA -8. Touchback.,2,4,3,MIA 2,0,SD,INT
+15,2805,2,12:56,(12:56) (Shotgun) P.Rivers pass incomplete short right to M.Gordon.,5,4,0,MIA 5,0,SD,
+14,2605,3,00:53,"(:53) (Shotgun) P.Rivers sacked at SD 16 for -11 yards (sack split by C.Wake and A.Branch). PENALTY on MIA-B.McCain, Defensive Holding, 5 yards, enforced at SD 27 - No Play.",4,3,11,SD 27,0,SD,PENALTY
+14,2582,3,00:53,"(:53) (Shotgun) PENALTY on MIA-C.Wake, Neutral Zone Infraction, 5 yards, enforced at SD 22 - No Play.",9,3,6,SD 22,0,SD,PENALTY
+14,2635,1,00:27,(:27) M.Gordon right end to SD 35 for 3 yards (N.Hewitt).,10,3,14,SD 32,0,SD,
+14,2560,2,00:59,(:59) (Shotgun) P.Rivers pass incomplete short right to M.Gordon.,9,3,1,SD 22,0,SD,
+14,2656,0,,END QUARTER 3,0,3,14,,0,,
+14,2539,1,01:37,"(1:37) M.Gordon right tackle to SD 22 for 1 yard (E.Mitchell, N.Hewitt).",10,3,1,SD 21,0,SD,
+14,2672,2,15:00,"(15:00) (Shotgun) P.Rivers pass short left to D.Inman to SD 33 for -2 yards (T.Lippett). Penalty on SD-K.Dunlap, Illegal Use of Hands, declined.",7,4,12,SD 35,0,SD,
+14,2731,3,14:16,(14:16) (Shotgun) P.Rivers pass short left to G.Whalen ran ob at SD 38 for 10 yards (T.Lippett).,14,4,17,SD 28,0,SD,
+14,2517,0,01:43,A.Franks kicks 65 yards from MIA 35 to SD 0. I.Burse to SD 21 for 21 yards (M.Thomas).,0,3,0,MIA 35,0,MIA,KICKOFF
+14,2755,4,13:51,"(13:51) D.Kaser punts 55 yards to MIA 7, Center-M.Windt. J.Grant MUFFS catch, touched at MIA 7, RECOVERED by SD-D.Stuckey at MIA 5. D.Stuckey to MIA 5 for no gain (J.Grant).",4,4,17,SD 38,0,SD,FUMBLE
+14,2708,3,14:41,"(14:41) (Shotgun) PENALTY on SD-Ty.Williams, False Start, 5 yards, enforced at SD 33 - No Play.",9,4,7,SD 33,0,SD,PENALTY
+17,3200,1,07:09,(7:09) (Shotgun) P.Rivers pass deep right intended for A.Gates INTERCEPTED by B.Maxwell at MIA 14. B.Maxwell to MIA 41 for 27 yards (K.Farrow).,10,4,58,MIA 30,0,SD,INT
+17,3106,1,09:23,(9:23) (Shotgun) P.Rivers pass short right to M.Gordon to SD 43 for 4 yards (I.Abdul-Quddus).,10,4,58,SD 39,0,SD,
+17,3030,2,11:03,"(11:03) (Shotgun) P.Rivers pass incomplete short right to G.Whalen. PENALTY on MIA-T.Lippett, Defensive Holding, 4 yards, enforced at SD 16 - No Play.",6,4,58,SD 16,0,SD,PENALTY
+17,3063,1,10:56,(10:56) (Shotgun) P.Rivers sacked at SD 14 for -6 yards (sack split by A.Branch and N.Suh).,10,4,2,SD 20,0,SD,
+17,3152,3,08:38,(8:38) (Shotgun) P.Rivers pass short left to D.Inman to MIA 44 for 13 yards (T.Lippett) [K.Alonso].,6,4,44,SD 43,0,SD,
+17,3130,2,08:44,(8:44) (Shotgun) P.Rivers pass incomplete short left to D.Inman.,6,4,31,SD 43,0,SD,
+17,3176,1,07:53,(7:53) (Shotgun) P.Rivers pass short middle to D.Inman to MIA 30 for 14 yards (I.Abdul-Quddus).,10,4,58,MIA 44,0,SD,
+17,3009,1,11:33,"(11:33) (Shotgun) M.Gordon up the middle to SD 16 for 4 yards (T.Lippett, J.Jenkins).",10,4,4,SD 12,0,SD,
+17,3082,2,10:10,"(10:10) (Shotgun) P.Rivers pass short right to Ty.Williams to SD 39 for 25 yards (B.Maxwell, B.Rambo) [A.Branch].",16,4,58,SD 14,0,SD,
+16,2957,3,11:51,(11:51) (Shotgun) R.Tannehill pass incomplete short middle [C.Liuget].,11,4,-1,MIA 19,0,MIA,
+16,2935,2,11:55,(11:55) (Shotgun) R.Tannehill pass incomplete short right to D.Parker [B.Mebane].,11,4,-1,MIA 19,0,MIA,
+16,2914,1,12:38,(12:38) J.Ajayi right end to MIA 19 for -1 yards (K.Toomer).,10,4,-1,MIA 20,0,MIA,
+16,2979,4,11:46,"(11:46) M.Darr punts 59 yards to SD 22, Center-J.Denney, downed by MIA-L.Pitts. PENALTY on SD-C.Mager, Offensive Holding, 10 yards, enforced at SD 22.",11,4,-1,MIA 19,0,MIA,PUNT
+19,3450,1,04:17,(4:17) (Shotgun) P.Rivers pass incomplete short left to Ty.Williams.,10,4,7,SD 49,0,SD,
+19,3472,2,04:13,"(4:13) (Shotgun) P.Rivers pass deep left to Ty.Williams for 51 yards, TOUCHDOWN.",10,4,58,SD 49,1,SD,TD
+19,3396,2,05:02,(5:02) (Shotgun) M.Gordon up the middle to SD 44 for 2 yards (J.Jones).,10,4,2,SD 42,0,SD,
+19,3374,1,05:06,(5:06) (Shotgun) P.Rivers pass incomplete short right to Ty.Williams (B.Maxwell).,10,4,7,SD 42,0,SD,
+19,3492,0,04:04,"J.Lambo extra point is GOOD, Center-M.Windt, Holder-K.Clemens.",0,4,58,MIA 15,1,SD,XP
+19,3417,3,04:24,"(4:24) (Shotgun) P.Rivers pass incomplete short left to D.Inman (T.Lippett). PENALTY on MIA-T.Lippett, Defensive Holding, 5 yards, enforced at SD 44 - No Play.",8,4,58,SD 44,0,SD,PENALTY
+18,3349,4,05:21,"(5:21) M.Darr punts 47 yards to SD 21, Center-J.Denney. I.Burse to SD 42 for 21 yards (N.Hewitt).",19,4,-9,MIA 32,0,MIA,PUNT
+18,3226,1,06:59,(6:59) J.Ajayi left guard to MIA 32 for -9 yards (C.Liuget).,10,4,-9,MIA 41,0,MIA,
+18,3247,2,06:14,"(6:14) (Shotgun) R.Tannehill pass short right to J.Ajayi to MIA 33 for 1 yard (K.Emanuel). Penalty on MIA-J.Landry, Offensive Pass Interference, declined.",19,4,-9,MIA 32,0,MIA,
+18,3282,3,06:08,"(6:08) (Shotgun) R.Tannehill pass deep right to D.Parker to SD 26 for 41 yards (A.Phillips). PENALTY on MIA-J.James, Offensive Holding, 10 yards, enforced at MIA 33 - No Play.",18,4,-9,MIA 33,0,MIA,PENALTY
+18,3317,3,05:39,"(5:39) (Shotgun) K.Drake right end to MIA 32 for 9 yards (T.Palepoi). Penalty on MIA-K.Stills, Offensive Holding, declined.",28,4,-9,MIA 23,0,MIA,

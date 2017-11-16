@@ -1,22 +1,22 @@
 drive,fds,result,penyds,ydsgained,numplays,postime
-9,0,End of Half,0,0,1,0:03
-10,3,Missed FG,0,40,10,4:04
 20,3,Downs,0,40,13,2:23
-6,2,Punt,0,33,9,4:36
-18,0,UNKNOWN,0,0,2,0:02
-1,0,Punt,0,1,5,1:00
-5,1,Punt,0,10,9,2:32
-13,2,Field Goal,15,5,8,1:45
 21,1,End of Game,10,7,8,1:21
-11,0,Punt,-5,14,5,2:19
-14,2,Punt,-15,33,12,3:53
-8,5,Field Goal,10,51,17,5:08
-19,3,Touchdown,21,33,6,2:23
-12,0,Punt,-5,10,5,1:49
-16,4,Touchdown,15,54,7,2:39
-7,4,Field Goal,15,45,13,6:25
+1,0,Punt,0,1,5,1:00
 3,2,Interception,10,33,12,2:49
-17,2,Touchdown,2,18,10,2:21
-4,4,Touchdown,0,56,12,5:49
 2,2,Touchdown,0,40,5,1:38
+5,1,Punt,0,10,9,2:32
+4,4,Touchdown,0,56,12,5:49
+7,4,Field Goal,15,45,13,6:25
+6,2,Punt,0,33,9,4:36
+9,0,End of Half,0,0,1,0:03
+8,5,Field Goal,10,51,17,5:08
+11,0,Punt,-5,14,5,2:19
+10,3,Missed FG,0,40,10,4:04
+13,2,Field Goal,15,5,8,1:45
+12,0,Punt,-5,10,5,1:49
 15,3,Downs,-5,50,13,5:01
+14,2,Punt,-15,33,12,3:53
+17,2,Touchdown,2,18,10,2:21
+16,4,Touchdown,15,54,7,2:39
+19,3,Touchdown,21,33,6,2:23
+18,0,UNKNOWN,0,0,2,0:02

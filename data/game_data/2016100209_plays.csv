@@ -1,177 +1,177 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1634,2,03:28,,5,2,12,LA 40,0,ARI,
-9,1610,1,04:10,,10,2,5,LA 45,0,ARI,
-9,1663,1,03:00,,10,2,12,LA 33,0,ARI,INT
-24,4137,1,01:01,,10,4,32,ARI 31,0,ARI,PENALTY
-24,4170,1,00:56,,10,4,17,ARI 46,0,ARI,
-24,4220,3,00:27,,8,4,32,ARI 48,0,ARI,
-24,4244,1,00:13,,10,4,32,LA 37,0,ARI,
-24,4198,2,00:33,,8,4,17,ARI 48,0,ARI,
-24,4342,3,00:05,,10,4,32,LA 37,0,ARI,INT
-24,4266,2,00:12,,10,4,32,LA 37,0,ARI,
-10,1712,2,02:15,,7,2,7,LA 23,0,LA,
-10,1775,4,01:56,,3,2,7,LA 27,0,LA,PUNT
-10,1736,0,02:00,,0,2,7,,0,,
-10,1753,3,02:00,,3,2,7,LA 27,0,LA,
-10,1691,1,02:53,,10,2,3,LA 20,0,LA,
-20,3473,1,08:26,,10,4,1,ARI 5,0,ARI,
-20,3518,1,06:58,,10,4,30,ARI 35,0,ARI,
-20,3539,2,06:23,,10,4,34,ARI 35,0,ARI,
-20,3563,3,05:40,,6,4,25,ARI 39,0,ARI,
-20,3494,2,07:46,,9,4,30,ARI 6,0,ARI,
-20,3582,4,05:26,,15,4,25,ARI 30,0,ARI,PUNT
-6,1085,0,12:19,,0,2,0,ARI 35,0,ARI,KICKOFF
-6,1192,3,10:18,,12,2,55,LA 46,0,LA,
-6,1118,1,12:18,,10,2,23,LA 25,0,LA,
-6,1163,2,10:53,,16,2,21,LA 42,0,LA,
-6,1237,2,09:06,,9,2,56,ARI 19,0,LA,
-6,1142,1,11:36,,10,2,17,LA 48,0,LA,
-6,1216,1,09:44,,10,2,56,ARI 20,0,LA,
-6,1270,3,09:00,,9,2,64,ARI 19,0,LA,
-6,1100,0,12:19,,0,2,0,,0,,Timeout
-6,1294,4,08:46,,1,2,64,ARI 11,1,LA,FG
-18,3150,1,12:22,,10,4,19,ARI 39,0,ARI,
-18,3198,2,11:23,,3,4,20,LA 42,0,ARI,FUMBLE
-18,3174,1,11:45,,10,4,19,LA 49,0,ARI,
-1,75,2,14:24,,7,1,1,ARI 28,0,ARI,
-1,129,4,13:32,,9,1,1,ARI 26,0,ARI,PUNT
-1,51,1,15:00,,10,1,3,ARI 25,0,ARI,
-1,36,0,15:00,,0,1,0,LA 35,0,LA,KICKOFF
-1,96,3,13:39,,9,1,1,ARI 26,0,ARI,
-5,802,2,01:53,,10,1,12,ARI 25,0,ARI,
-5,914,1,15:00,,10,2,30,ARI 47,0,ARI,
-5,826,1,01:17,,10,1,12,ARI 37,0,ARI,
-5,780,1,01:59,,10,1,0,ARI 25,0,ARI,
-5,1017,2,13:50,,15,2,68,LA 18,0,ARI,
-5,869,3,00:34,,10,1,22,ARI 37,0,ARI,
-5,935,2,14:26,,2,2,62,LA 45,0,ARI,PENALTY
-5,1041,3,13:10,,9,2,68,LA 12,0,ARI,
-5,967,1,14:03,,10,2,57,LA 13,0,ARI,
-5,748,0,01:59,,0,1,0,LA 35,0,LA,KICKOFF
-5,989,2,13:57,,10,2,68,LA 13,0,ARI,PENALTY
-5,898,0,,,0,1,22,,0,,
-5,1065,4,12:23,,4,2,68,LA 7,1,ARI,FG
-5,847,2,00:40,,10,1,12,ARI 37,0,ARI,
-5,763,0,01:59,,0,1,0,,0,,Timeout
-13,2185,3,14:05,,7,3,36,LA 24,0,LA,
-13,2115,1,14:54,,10,3,0,LA 21,0,LA,TIMEOUT
-13,2209,1,13:21,,10,3,31,ARI 43,0,LA,FUMBLE
-13,2092,0,15:00,,0,3,0,ARI 35,0,ARI,KICKOFF
-13,2158,2,14:44,,10,3,31,LA 21,0,LA,
-21,3619,1,05:09,,10,4,2,ARI 19,0,LA,
-21,3720,2,02:41,,4,4,19,ARI 4,1,LA,TD
-21,3640,2,04:24,,8,4,2,ARI 17,0,LA,
-21,3662,3,04:16,,8,4,10,ARI 17,0,LA,
-21,3686,1,03:27,,9,4,15,ARI 9,0,LA,
-21,3741,0,02:36,,0,4,19,ARI 15,1,LA,XP
-23,4083,0,01:14,,0,4,-2,,0,,TIMEOUT
-23,3986,1,01:27,,10,4,0,LA 45,0,LA,
-23,4045,0,01:18,,0,4,-4,,0,,TIMEOUT
-23,4062,3,01:18,,14,4,-2,LA 41,0,LA,
-23,4024,2,01:22,,10,4,-4,LA 45,0,LA,
-23,4007,0,01:22,,0,4,0,,0,,TIMEOUT
-23,4100,4,01:14,,12,4,-2,LA 43,0,LA,PUNT
-11,2002,1,00:29,,5,2,80,LA 5,1,ARI,TD
-11,1846,3,01:38,,4,2,21,ARI 26,0,ARI,
-11,1937,2,01:01,,10,2,59,LA 39,0,ARI,
-11,1898,1,01:08,,10,2,41,LA 39,0,ARI,
-11,2023,0,00:24,,0,2,80,LA 15,1,ARI,XP
-11,1920,0,01:01,,0,2,41,,0,,TIMEOUT
-11,1961,0,00:53,,0,2,59,,0,,TIMEOUT
-11,1874,1,01:30,,10,2,41,ARI 41,0,ARI,
-11,1824,2,01:42,,4,2,6,ARI 26,0,ARI,
-11,1978,1,00:53,,10,2,80,LA 21,0,ARI,
-11,1795,1,01:48,,10,2,21,ARI 20,0,ARI,
-14,2310,1,11:20,,10,3,26,LA 27,0,ARI,
-14,2260,2,12:35,,10,3,5,ARI 48,0,ARI,
-14,2331,2,10:40,,9,3,21,LA 26,0,ARI,FUMBLE
-14,2281,3,11:54,,5,3,25,LA 47,0,ARI,
-14,2239,1,13:12,,10,3,0,ARI 48,0,ARI,
-8,1517,1,05:49,,10,2,1,LA 3,0,LA,
-8,1562,3,04:27,,4,2,6,LA 9,0,LA,
-8,1584,4,04:23,,4,2,6,LA 9,0,LA,PUNT
-8,1538,2,05:09,,9,2,6,LA 4,0,LA,
-19,3357,3,08:42,,8,4,10,ARI 44,0,LA,TIMEOUT
-19,3322,3,09:15,,3,4,10,ARI 39,0,LA,PENALTY
-19,3277,1,10:42,,10,4,10,ARI 46,0,LA,
-19,3234,1,11:11,,10,4,0,LA 41,0,LA,
-19,3382,4,08:34,,8,4,10,ARI 44,0,LA,PENALTY
-19,3256,2,11:05,,10,4,10,LA 41,0,LA,
-19,3453,4,08:34,,13,4,10,ARI 49,0,LA,PUNT
-19,3298,2,10:01,,11,4,10,ARI 47,0,LA,
-22,3882,0,01:58,,0,4,12,,0,,
-22,3927,1,01:38,,10,4,25,ARI 40,0,ARI,
-22,3899,2,01:58,,10,4,25,ARI 27,0,ARI,
-22,3949,2,01:34,,10,4,25,ARI 40,0,ARI,INT
-22,3795,1,02:32,,10,4,25,ARI 15,0,ARI,
-22,3823,2,02:08,,3,4,12,ARI 22,0,ARI,PENALTY
-22,3858,1,02:03,,10,4,25,ARI 27,0,ARI,
-22,3773,0,02:36,,0,4,12,LA 35,0,LA,KICKOFF
-12,2076,0,,,0,2,-1,,0,,
-12,2040,0,00:24,,0,2,0,ARI 35,0,ARI,KICKOFF
-12,2055,1,00:24,,10,2,-1,LA 25,0,LA,
-16,2964,4,00:04,,3,3,72,LA 3,1,ARI,FG
-16,2920,2,00:15,,3,3,72,LA 3,0,ARI,
-16,2715,2,04:20,,14,3,11,ARI 21,0,ARI,
-16,2942,3,00:09,,3,3,72,LA 3,0,ARI,
-16,2895,1,00:56,,4,3,72,LA 4,0,ARI,
-16,2760,2,03:17,,7,3,14,ARI 39,0,ARI,
-16,2782,3,03:10,,7,3,38,ARI 39,0,ARI,
-16,2694,1,05:05,,10,3,-4,ARI 25,0,ARI,
-16,2739,1,03:53,,10,3,14,ARI 36,0,ARI,
-16,2871,2,01:34,,12,3,71,LA 28,0,ARI,
-16,2848,2,01:47,,7,3,47,LA 23,0,ARI,PENALTY
-16,2827,1,02:24,,10,3,52,LA 26,0,ARI,
-16,2806,1,03:03,,10,3,49,LA 37,0,ARI,
-7,1459,3,06:04,,8,2,33,LA 43,0,ARI,
-7,1389,1,07:50,,10,2,38,LA 45,0,ARI,
-7,1481,4,06:00,,8,2,33,LA 43,0,ARI,PUNT
-7,1368,1,08:34,,10,2,31,ARI 24,0,ARI,
-7,1329,0,08:42,,0,2,0,LA 35,0,LA,KICKOFF
-7,1410,2,07:09,,13,2,38,LA 48,0,ARI,
-7,1351,0,08:34,,0,2,0,,0,,Timeout
-7,1434,3,06:25,,3,2,33,LA 38,0,ARI,PENALTY
-3,272,2,10:50,,7,1,17,ARI 17,0,ARI,
-3,404,3,07:10,,1,1,54,LA 34,0,ARI,
-3,317,1,09:39,,10,1,35,ARI 41,0,ARI,
-3,466,3,05:42,,19,1,45,LA 41,0,ARI,
-3,341,2,09:04,,2,1,43,ARI 49,0,ARI,
-3,447,2,06:21,,10,1,45,LA 32,0,ARI,
-3,383,2,07:46,,4,1,45,LA 37,0,ARI,
-3,488,4,05:36,,19,1,45,LA 41,0,ARI,PUNT
-3,425,1,06:27,,10,1,45,LA 32,0,ARI,
-3,362,1,08:24,,10,1,54,LA 43,0,ARI,
-3,251,1,11:22,,10,1,3,ARI 14,0,ARI,
-3,296,1,10:19,,10,1,45,ARI 31,0,ARI,
-17,3041,1,14:20,,10,4,34,ARI 44,0,LA,
-17,3110,4,12:29,,5,4,36,ARI 39,0,LA,
-17,3062,2,13:39,,7,4,40,ARI 41,0,LA,
-17,3013,1,15:00,,10,4,31,LA 25,0,LA,
-17,2998,0,15:00,,0,4,0,ARI 35,0,ARI,KICKOFF
-17,3086,3,13:01,,1,4,36,ARI 35,0,LA,
-4,535,1,05:27,,10,1,2,LA 10,0,LA,
-4,623,3,03:28,,5,1,22,LA 27,0,LA,PENALTY
-4,696,3,02:11,,7,1,90,LA 35,1,LA,TD
-4,653,1,02:57,,10,1,25,LA 32,0,LA,
-4,556,2,04:50,,8,1,12,LA 12,0,LA,
-4,601,2,03:34,,5,1,17,LA 27,0,LA,
-4,674,2,02:15,,7,1,25,LA 35,0,LA,
-4,717,0,01:59,,0,1,90,ARI 15,1,LA,XP
-4,580,1,04:12,,10,1,17,LA 22,0,LA,
-2,149,1,13:23,,10,1,3,LA 37,0,LA,
-2,194,3,12:07,,1,1,8,LA 46,0,LA,
-2,170,2,12:46,,7,1,9,LA 40,0,LA,
-2,215,4,11:32,,2,1,8,LA 45,0,LA,PUNT
-15,2427,1,08:57,,10,3,17,LA 45,0,LA,
-15,2552,2,06:45,,8,3,24,ARI 35,0,LA,PENALTY
-15,2507,3,08:04,,2,3,5,ARI 47,0,LA,
-15,2607,2,05:58,,23,3,19,50,0,LA,
-15,2651,4,05:17,,37,3,5,LA 36,0,LA,PUNT
-15,2531,1,07:26,,10,3,34,ARI 37,0,LA,
-15,2632,3,05:53,,23,3,5,50,0,LA,
-15,2403,3,09:15,,7,3,5,LA 34,0,LA,
-15,2361,1,10:32,,10,3,5,LA 31,0,LA,
-15,2452,2,08:18,,7,3,22,LA 48,0,LA,PENALTY
-15,2382,2,09:56,,10,3,5,LA 31,0,LA,
-15,2485,2,08:12,,2,3,22,ARI 47,0,LA,
-15,2584,2,06:14,,18,3,19,ARI 45,0,LA,PENALTY
+24,4170,1,00:56,(:56) D.Stanton pass short left to D.Fells to ARI 48 for 2 yards (E.Gaines). ARI-D.Fells was injured during the play.,10,4,17,ARI 46,0,ARI,
+24,4198,2,00:33,(:33) (Shotgun) D.Stanton pass incomplete deep left to M.Floyd (T.McDonald).,8,4,17,ARI 48,0,ARI,
+24,4266,2,00:12,"(:12) D.Stanton pass short right intended for Ja.Brown INTERCEPTED by T.Johnson at LA 23. T.Johnson pushed ob at LA 23 for no gain (Ja.Brown). The Replay Official reviewed the pass interception ruling, and the play was REVERSED. D.Stanton pass incomplete short right to Ja.Brown (T.Johnson).",10,4,32,LA 37,0,ARI,
+24,4244,1,00:13,(:13) D.Stanton spiked the ball to stop the clock.,10,4,32,LA 37,0,ARI,
+24,4137,1,01:01,"(1:01) (Shotgun) D.Stanton pass incomplete short middle to L.Fitzgerald. PENALTY on LA-E.Sims, Roughing the Passer, 15 yards, enforced at ARI 31 - No Play.",10,4,32,ARI 31,0,ARI,PENALTY
+24,4220,3,00:27,(:27) (Shotgun) D.Stanton pass short middle to L.Fitzgerald to LA 37 for 15 yards (A.Ogletree).,8,4,32,ARI 48,0,ARI,
+24,4342,3,00:05,(:05) (Shotgun) D.Stanton pass intended for L.Fitzgerald INTERCEPTED by T.McDonald at LA 0. Touchback.,10,4,32,LA 37,0,ARI,INT
+20,3563,3,05:40,"(5:40) (Shotgun) C.Palmer sacked at ARI 30 for -9 yards (sack split by A.Donald and E.Sims). Penalty on ARI-M.Iupati, Offensive Holding, declined.",6,4,25,ARI 39,0,ARI,
+20,3582,4,05:26,"(5:26) R.Quigley punts 51 yards to LA 19, Center-A.Brewer. T.Austin to ARI 34 for 47 yards (I.Momah). PENALTY on ARI-I.Momah, Face Mask (15 Yards), 15 yards, enforced at ARI 34.",15,4,25,ARI 30,0,ARI,PUNT
+20,3518,1,06:58,(6:58) A.Ellington up the middle to ARI 35 for no gain (A.Donald).,10,4,30,ARI 35,0,ARI,
+20,3473,1,08:26,(8:26) D.Johnson up the middle to ARI 6 for 1 yard (E.Westbrooks).,10,4,1,ARI 5,0,ARI,
+20,3494,2,07:46,(7:46) C.Palmer pass short middle to Jo.Brown to ARI 35 for 29 yards (M.Barron).,9,4,30,ARI 6,0,ARI,
+20,3539,2,06:23,(6:23) C.Palmer pass short right to A.Ellington to ARI 39 for 4 yards (T.Johnson).,10,4,34,ARI 35,0,ARI,
+21,3662,3,04:16,(4:16) (Shotgun) C.Keenum pass short right to T.Gurley to ARI 9 for 8 yards (K.Minter; D.Bucannon).,8,4,10,ARI 17,0,LA,
+21,3619,1,05:09,(5:09) T.Gurley right end to ARI 17 for 2 yards (T.Jefferson).,10,4,2,ARI 19,0,LA,
+21,3686,1,03:27,(3:27) T.Gurley right tackle to ARI 4 for 5 yards (T.Jefferson).,9,4,15,ARI 9,0,LA,
+21,3741,0,02:36,"G.Zuerlein extra point is GOOD, Center-J.McQuaide, Holder-J.Hekker.",0,4,19,ARI 15,1,LA,XP
+21,3720,2,02:41,"(2:41) (Shotgun) C.Keenum pass short right to B.Quick for 4 yards, TOUCHDOWN.",4,4,19,ARI 4,1,LA,TD
+21,3640,2,04:24,(4:24) (Shotgun) C.Keenum pass incomplete short right.,8,4,2,ARI 17,0,LA,
+22,3773,0,02:36,G.Zuerlein kicks 63 yards from LA 35 to ARI 2. A.Ellington to ARI 15 for 13 yards (C.Littleton).,0,4,12,LA 35,0,LA,KICKOFF
+22,3949,2,01:34,(1:34) (Shotgun) D.Stanton pass deep middle intended for M.Floyd INTERCEPTED by M.Barron at LA 44. M.Barron to LA 45 for 1 yard.,10,4,25,ARI 40,0,ARI,INT
+22,3823,2,02:08,"(2:08) (No Huddle, Shotgun) D.Stanton pass short middle to D.Johnson to ARI 26 for 4 yards (M.Barron). PENALTY on LA-A.Ogletree, Illegal Contact, 5 yards, enforced at ARI 22 - No Play.",3,4,12,ARI 22,0,ARI,PENALTY
+22,3927,1,01:38,"(1:38) (No Huddle, Shotgun) D.Stanton pass incomplete short left to Ja.Brown.",10,4,25,ARI 40,0,ARI,
+22,3882,0,01:58,Two-Minute Warning,0,4,12,,0,,
+22,3795,1,02:32,(2:32) ARI #5-Stanton in at QB. (Shotgun) D.Stanton pass short right to Ja.Brown to ARI 22 for 7 yards (M.Barron).,10,4,25,ARI 15,0,ARI,
+22,3899,2,01:58,(1:58) (Shotgun) D.Stanton pass short middle to L.Fitzgerald to ARI 40 for 13 yards (M.Barron).,10,4,25,ARI 27,0,ARI,
+22,3858,1,02:03,(2:03) (Shotgun) D.Stanton pass incomplete short right to Jo.Brown [A.Donald].,10,4,25,ARI 27,0,ARI,
+23,4062,3,01:18,(1:18) T.Gurley right end to LA 43 for 2 yards (Ch.Jones).,14,4,-2,LA 41,0,LA,
+23,4045,0,01:18,Timeout #2 by ARI at 01:18.,0,4,-4,,0,,TIMEOUT
+23,4083,0,01:14,Timeout #3 by ARI at 01:14.,0,4,-2,,0,,TIMEOUT
+23,4007,0,01:22,Timeout #1 by ARI at 01:22.,0,4,0,,0,,TIMEOUT
+23,4100,4,01:14,"(1:14) J.Hekker punts 41 yards to ARI 16, Center-J.McQuaide. Jo.Brown to ARI 16 for no gain (M.Brown). PENALTY on LA-M.Brown, Horse Collar Tackle, 15 yards, enforced at ARI 16.",12,4,-2,LA 43,0,LA,PUNT
+23,4024,2,01:22,(1:22) T.Gurley up the middle to LA 41 for -4 yards (C.Campbell).,10,4,-4,LA 45,0,LA,
+23,3986,1,01:27,(1:27) T.Gurley right tackle to LA 45 for no gain (J.Mauro).,10,4,0,LA 45,0,LA,
+1,129,4,13:32,"(13:32) R.Quigley punts 37 yards to LA 37, Center-A.Brewer, fair catch by T.Austin.",9,1,1,ARI 26,0,ARI,PUNT
+1,75,2,14:24,(14:24) D.Johnson right end to ARI 26 for -2 yards (A.Donald).,7,1,1,ARI 28,0,ARI,
+1,51,1,15:00,(15:00) C.Palmer pass short middle to Jo.Brown to ARI 28 for 3 yards (T.McDonald).,10,1,3,ARI 25,0,ARI,
+1,36,0,15:00,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback.",0,1,0,LA 35,0,LA,KICKOFF
+1,96,3,13:39,"(13:39) (Shotgun) C.Palmer pass incomplete deep middle to M.Floyd (T.Johnson). Penalty on ARI-J.Veldheer, Offensive Holding, declined.",9,1,1,ARI 26,0,ARI,
+3,425,1,06:27,(6:27) (Shotgun) C.Palmer pass incomplete short middle to L.Fitzgerald.,10,1,45,LA 32,0,ARI,
+3,466,3,05:42,(5:42) (Shotgun) C.Palmer pass incomplete short right to Ja.Brown (T.Johnson).,19,1,45,LA 41,0,ARI,
+3,317,1,09:39,(9:39) C.Palmer pass short right to Jo.Brown to ARI 49 for 8 yards (T.Johnson).,10,1,35,ARI 41,0,ARI,
+3,404,3,07:10,(7:10) D.Johnson up the middle to LA 32 for 2 yards (A.Donald).,1,1,54,LA 34,0,ARI,
+3,272,2,10:50,(10:50) C.Palmer pass short left to Jo.Brown pushed ob at ARI 31 for 14 yards (T.Hill).,7,1,17,ARI 17,0,ARI,
+3,383,2,07:46,"(7:46) D.Johnson up the middle to LA 34 for 3 yards (A.Ogletree, T.Hill).",4,1,45,LA 37,0,ARI,
+3,447,2,06:21,(6:21) C.Palmer sacked at LA 41 for -9 yards (M.Alexander).,10,1,45,LA 32,0,ARI,
+3,341,2,09:04,(9:04) D.Johnson up the middle to LA 43 for 8 yards (C.Davis).,2,1,43,ARI 49,0,ARI,
+3,488,4,05:36,"(5:36) R.Quigley punts 41 yards to end zone, Center-A.Brewer, Touchback. PENALTY on LA-T.Hill, Offensive Holding, 10 yards, enforced at LA 20.",19,1,45,LA 41,0,ARI,PUNT
+3,296,1,10:19,"(10:19) D.Johnson right tackle to ARI 41 for 10 yards (A.Ogletree, E.Sims).",10,1,45,ARI 31,0,ARI,
+3,251,1,11:22,(11:22) D.Johnson left end to ARI 17 for 3 yards (T.Hill).,10,1,3,ARI 14,0,ARI,
+3,362,1,08:24,(8:24) D.Johnson up the middle to LA 37 for 6 yards (A.Ogletree).,10,1,54,LA 43,0,ARI,
+2,215,4,11:32,"(11:32) J.Hekker punts 41 yards to ARI 14, Center-J.McQuaide, out of bounds.",2,1,8,LA 45,0,LA,PUNT
+2,194,3,12:07,(12:07) T.Gurley right tackle to LA 45 for -1 yards (T.Jefferson).,1,1,8,LA 46,0,LA,
+2,170,2,12:46,(12:46) C.Keenum pass short right to K.Britt to LA 46 for 6 yards (M.Cooper).,7,1,9,LA 40,0,LA,
+2,149,1,13:23,(13:23) (Shotgun) T.Gurley right tackle to LA 40 for 3 yards (D.Bucannon).,10,1,3,LA 37,0,LA,
+5,847,2,00:40,(:40) (Shotgun) C.Palmer pass incomplete deep right to Ja.Brown.,10,1,12,ARI 37,0,ARI,
+5,869,3,00:34,(:34) (Shotgun) C.Palmer pass short left to L.Fitzgerald pushed ob at ARI 47 for 10 yards (T.Hill).,10,1,22,ARI 37,0,ARI,
+5,1041,3,13:10,(13:10) C.Palmer pass short middle to D.Johnson to LA 7 for 5 yards (E.Gaines).,9,2,68,LA 12,0,ARI,
+5,967,1,14:03,(14:03) C.Palmer pass incomplete short left to Jo.Brown (C.Davis).,10,2,57,LA 13,0,ARI,
+5,780,1,01:59,(1:59) C.Palmer pass incomplete short left to Jo.Brown.,10,1,0,ARI 25,0,ARI,
+5,748,0,01:59,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback.",0,1,0,LA 35,0,LA,KICKOFF
+5,763,0,01:59,Timeout at 01:59.,0,1,0,,0,,Timeout
+5,1065,4,12:23,"(12:23) C.Catanzaro 25 yard field goal is GOOD, Center-A.Brewer, Holder-R.Quigley.",4,2,68,LA 7,1,ARI,FG
+5,898,0,,END QUARTER 1,0,1,22,,0,,
+5,989,2,13:57,"(13:57) C.Johnson right tackle for 13 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on ARI-J.Gresham, Offensive Holding, 10 yards, enforced at LA 8.",10,2,68,LA 13,0,ARI,PENALTY
+5,1017,2,13:50,(13:50) C.Palmer pass short middle to D.Johnson to LA 12 for 6 yards (M.Brockers).,15,2,68,LA 18,0,ARI,
+5,914,1,15:00,(15:00) C.Johnson right tackle to LA 45 for 8 yards (E.Sims).,10,2,30,ARI 47,0,ARI,
+5,802,2,01:53,(1:53) (Shotgun) C.Palmer pass short left to L.Fitzgerald to ARI 37 for 12 yards (L.Joyner).,10,1,12,ARI 25,0,ARI,
+5,826,1,01:17,(1:17) C.Johnson up the middle to ARI 37 for no gain (M.Barron).,10,1,12,ARI 37,0,ARI,
+5,935,2,14:26,"(14:26) C.Johnson left end ran ob at LA 27 for 18 yards (M.Barron). PENALTY on LA-M.Barron, Unnecessary Roughness, 14 yards, enforced at LA 27.",2,2,62,LA 45,0,ARI,PENALTY
+4,623,3,03:28,"(3:28) (Shotgun) C.Keenum sacked at LA 24 for -3 yards (D.Bucannon). PENALTY on ARI-P.Peterson, Defensive Holding, 5 yards, enforced at LA 27 - No Play.",5,1,22,LA 27,0,LA,PENALTY
+4,601,2,03:34,(3:34) C.Keenum pass incomplete short right to T.Austin.,5,1,17,LA 27,0,LA,
+4,580,1,04:12,(4:12) T.Gurley right end to LA 27 for 5 yards (D.Bucannon).,10,1,17,LA 22,0,LA,
+4,674,2,02:15,(2:15) (Shotgun) C.Keenum pass incomplete short middle to T.Austin.,7,1,25,LA 35,0,LA,
+4,556,2,04:50,(4:50) C.Keenum pass short middle to L.Kendricks to LA 22 for 10 yards (T.Jefferson).,8,1,12,LA 12,0,LA,
+4,717,0,01:59,"G.Zuerlein extra point is GOOD, Center-J.McQuaide, Holder-J.Hekker.",0,1,90,ARI 15,1,LA,XP
+4,535,1,05:27,(5:27) T.Gurley up the middle to LA 12 for 2 yards (Ch.Jones).,10,1,2,LA 10,0,LA,
+4,653,1,02:57,(2:57) T.Gurley right tackle to LA 35 for 3 yards (C.Peters).,10,1,25,LA 32,0,LA,
+4,696,3,02:11,"(2:11) (Shotgun) C.Keenum pass short right to B.Quick for 65 yards, TOUCHDOWN.",7,1,90,LA 35,1,LA,TD
+7,1434,3,06:25,"(6:25) (Shotgun) PENALTY on ARI-A.Shipley, False Start, 5 yards, enforced at LA 38 - No Play.",3,2,33,LA 38,0,ARI,PENALTY
+7,1351,0,08:34,Timeout at 08:34.,0,2,0,,0,,Timeout
+7,1329,0,08:42,G.Zuerlein kicks 66 yards from LA 35 to ARI -1. A.Ellington to ARI 24 for 25 yards (B.Cunningham).,0,2,0,LA 35,0,LA,KICKOFF
+7,1481,4,06:00,"(6:00) R.Quigley punts 40 yards to LA 3, Center-A.Brewer, downed by ARI-T.Simon.",8,2,33,LA 43,0,ARI,PUNT
+7,1389,1,07:50,(7:50) D.Johnson right end to LA 48 for -3 yards (E.Sims).,10,2,38,LA 45,0,ARI,
+7,1410,2,07:09,(7:09) (Shotgun) C.Palmer pass short right to Jo.Brown to LA 38 for 10 yards (T.Johnson).,13,2,38,LA 48,0,ARI,
+7,1459,3,06:04,(6:04) (Shotgun) C.Palmer pass incomplete short right to C.Johnson.,8,2,33,LA 43,0,ARI,
+7,1368,1,08:34,(8:34) D.Johnson right end to LA 45 for 31 yards (M.Alexander).,10,2,31,ARI 24,0,ARI,
+6,1142,1,11:36,(11:36) T.Austin left end to LA 42 for -6 yards (T.Jefferson).,10,2,17,LA 48,0,LA,
+6,1085,0,12:19,"C.Catanzaro kicks 65 yards from ARI 35 to end zone, Touchback.",0,2,0,ARI 35,0,ARI,KICKOFF
+6,1237,2,09:06,"(9:06) (Shotgun) C.Keenum pass incomplete deep left to T.Higbee [Ch.Jones]. Penalty on LA, Illegal Formation, declined.",9,2,56,ARI 19,0,LA,
+6,1216,1,09:44,(9:44) T.Gurley up the middle to ARI 19 for 1 yard (E.Stinson).,10,2,56,ARI 20,0,LA,
+6,1163,2,10:53,(10:53) (Shotgun) C.Keenum pass short right to L.Kendricks pushed ob at LA 46 for 4 yards (K.Minter).,16,2,21,LA 42,0,LA,
+6,1270,3,09:00,(9:00) (Shotgun) C.Keenum pass short left to T.Austin pushed ob at ARI 11 for 8 yards (P.Peterson).,9,2,64,ARI 19,0,LA,
+6,1192,3,10:18,(10:18) (Shotgun) C.Keenum pass deep right to K.Britt pushed ob at ARI 20 for 34 yards (T.Jefferson).,12,2,55,LA 46,0,LA,
+6,1100,0,12:19,Timeout at 12:19.,0,2,0,,0,,Timeout
+6,1118,1,12:18,(12:18) C.Keenum pass short middle to L.Kendricks to LA 48 for 23 yards (K.Minter).,10,2,23,LA 25,0,LA,
+6,1294,4,08:46,"(8:46) G.Zuerlein 29 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",1,2,64,ARI 11,1,LA,FG
+9,1663,1,03:00,(3:00) C.Palmer pass deep right intended for Jo.Brown INTERCEPTED by T.Johnson at LA 0. Touchback.,10,2,12,LA 33,0,ARI,INT
+9,1634,2,03:28,(3:28) C.Palmer pass short left to Jo.Brown pushed ob at LA 33 for 7 yards (E.Gaines).,5,2,12,LA 40,0,ARI,
+9,1610,1,04:10,(4:10) C.Palmer pass short middle to D.Fells to LA 40 for 5 yards (A.Ogletree).,10,2,5,LA 45,0,ARI,
+8,1517,1,05:49,(5:49) T.Gurley up the middle to LA 4 for 1 yard (M.Golden).,10,2,1,LA 3,0,LA,
+8,1562,3,04:27,(4:27) (Shotgun) C.Keenum pass incomplete short middle to L.Kendricks.,4,2,6,LA 9,0,LA,
+8,1584,4,04:23,"(4:23) J.Hekker punts 55 yards to ARI 36, Center-J.McQuaide. Jo.Brown to LA 45 for 19 yards (C.Davis).",4,2,6,LA 9,0,LA,PUNT
+8,1538,2,05:09,(5:09) (Shotgun) C.Keenum pass short left to L.Kendricks to LA 9 for 5 yards (K.Minter).,9,2,6,LA 4,0,LA,
+11,2002,1,00:29,"(:29) (No Huddle, Shotgun) C.Palmer pass short left to M.Floyd for 5 yards, TOUCHDOWN.",5,2,80,LA 5,1,ARI,TD
+11,1978,1,00:53,(:53) (Shotgun) C.Palmer pass deep middle to M.Floyd to LA 5 for 16 yards (A.Ogletree).,10,2,80,LA 21,0,ARI,
+11,1824,2,01:42,"(1:42) (No Huddle, Shotgun) C.Palmer pass incomplete short right to Jo.Brown (T.Johnson).",4,2,6,ARI 26,0,ARI,
+11,1846,3,01:38,(1:38) (Shotgun) C.Palmer pass short right to Jo.Brown to ARI 41 for 15 yards (T.Johnson). LA-R.Quinn was injured during the play.,4,2,21,ARI 26,0,ARI,
+11,1795,1,01:48,(1:48) (Shotgun) C.Palmer pass short left to D.Johnson pushed ob at ARI 26 for 6 yards (M.Barron) [A.Donald].,10,2,21,ARI 20,0,ARI,
+11,1961,0,00:53,Timeout #2 by ARI at 00:53.,0,2,59,,0,,TIMEOUT
+11,1920,0,01:01,Timeout #1 by ARI at 01:01.,0,2,41,,0,,TIMEOUT
+11,1874,1,01:30,(1:30) (Shotgun) C.Palmer pass deep left to Jo.Brown to LA 39 for 20 yards (L.Joyner).,10,2,41,ARI 41,0,ARI,
+11,1898,1,01:08,"(1:08) (No Huddle, Shotgun) C.Palmer pass incomplete short right to M.Floyd (T.Johnson).",10,2,41,LA 39,0,ARI,
+11,2023,0,00:24,"C.Catanzaro extra point is GOOD, Center-A.Brewer, Holder-R.Quigley.",0,2,80,LA 15,1,ARI,XP
+11,1937,2,01:01,(1:01) (Shotgun) C.Palmer pass short left to Jo.Brown to LA 21 for 18 yards (E.Gaines).,10,2,59,LA 39,0,ARI,
+10,1775,4,01:56,"(1:56) J.Hekker punts 53 yards to ARI 20, Center-J.McQuaide, fair catch by Jo.Brown.",3,2,7,LA 27,0,LA,PUNT
+10,1712,2,02:15,(2:15) (Shotgun) C.Keenum pass short middle to T.Gurley to LA 27 for 4 yards (A.Okafor).,7,2,7,LA 23,0,LA,
+10,1736,0,02:00,Two-Minute Warning,0,2,7,,0,,
+10,1753,3,02:00,(2:00) (Shotgun) C.Keenum pass incomplete short left to T.Austin.,3,2,7,LA 27,0,LA,
+10,1691,1,02:53,(2:53) T.Gurley right tackle to LA 23 for 3 yards (Ch.Jones).,10,2,3,LA 20,0,LA,
+13,2209,1,13:21,"(13:21) (Shotgun) C.Keenum sacked at 50 for -7 yards (Ch.Jones). FUMBLES (Ch.Jones), RECOVERED by ARI-Ch.Jones at ARI 48. Ch.Jones to ARI 48 for no gain (G.Robinson).",10,3,31,ARI 43,0,LA,FUMBLE
+13,2158,2,14:44,(14:44) (Shotgun) T.Gurley up the middle to LA 24 for 3 yards (A.Okafor).,10,3,31,LA 21,0,LA,
+13,2115,1,14:54,"(14:54) C.Keenum pass incomplete deep middle to T.Austin. Los Angeles challenged the incomplete pass ruling, and the play was Upheld. The ruling on the field was confirmed. (Timeout #1.)",10,3,0,LA 21,0,LA,TIMEOUT
+13,2185,3,14:05,(14:05) (Shotgun) C.Keenum pass short right to T.Gurley to ARI 43 for 33 yards (M.Cooper).,7,3,36,LA 24,0,LA,
+13,2092,0,15:00,C.Catanzaro kicks 70 yards from ARI 35 to LA -5. B.Cunningham to LA 21 for 26 yards (T.Branch).,0,3,0,ARI 35,0,ARI,KICKOFF
+12,2055,1,00:24,(:24) C.Keenum kneels to LA 24 for -1 yards.,10,2,-1,LA 25,0,LA,
+12,2076,0,,END QUARTER 2,0,2,-1,,0,,
+12,2040,0,00:24,"C.Catanzaro kicks 65 yards from ARI 35 to end zone, Touchback.",0,2,0,ARI 35,0,ARI,KICKOFF
+15,2552,2,06:45,"(6:45) (Shotgun) C.Keenum scrambles up the middle to ARI 8 for 27 yards (T.Branch). PENALTY on LA-G.Robinson, Offensive Holding, 10 yards, enforced at ARI 35 - No Play.",8,3,24,ARI 35,0,LA,PENALTY
+15,2531,1,07:26,(7:26) (Shotgun) C.Keenum right end to ARI 35 for 2 yards (T.Jefferson).,10,3,34,ARI 37,0,LA,
+15,2584,2,06:14,"(6:14) (Shotgun) PENALTY on LA-C.Wichmann, False Start, 5 yards, enforced at ARI 45 - No Play.",18,3,19,ARI 45,0,LA,PENALTY
+15,2485,2,08:12,(8:12) C.Keenum pass incomplete deep left to B.Quick.,2,3,22,ARI 47,0,LA,
+15,2452,2,08:18,"(8:18) (Shotgun) C.Keenum pass incomplete short right to T.Gurley (M.Cooper). PENALTY on ARI-J.Mauro, Defensive Offside, 5 yards, enforced at LA 48 - No Play.",7,3,22,LA 48,0,LA,PENALTY
+15,2382,2,09:56,(9:56) (Shotgun) T.Gurley left tackle to LA 34 for 3 yards (E.Stinson).,10,3,5,LA 31,0,LA,
+15,2632,3,05:53,(5:53) (Shotgun) C.Keenum sacked at LA 36 for -14 yards (M.Golden).,23,3,5,50,0,LA,
+15,2403,3,09:15,(9:15) (Shotgun) C.Keenum pass short middle to K.Britt to LA 45 for 11 yards (T.Branch). ARI-T.Branch was injured during the play.,7,3,5,LA 34,0,LA,
+15,2607,2,05:58,(5:58) (Shotgun) C.Keenum pass incomplete short left to B.Quick. ARI-T.Branch was injured during the play.,23,3,19,50,0,LA,
+15,2507,3,08:04,(8:04) (Shotgun) C.Keenum pass short middle to L.Kendricks to ARI 37 for 10 yards (T.Jefferson).,2,3,5,ARI 47,0,LA,
+15,2427,1,08:57,(8:57) T.Gurley up the middle to LA 48 for 3 yards (E.Stinson).,10,3,17,LA 45,0,LA,
+15,2651,4,05:17,"(5:17) J.Hekker punts 43 yards to ARI 21, Center-J.McQuaide. Jo.Brown to ARI 25 for 4 yards (J.McQuaide).",37,3,5,LA 36,0,LA,PUNT
+15,2361,1,10:32,(10:32) (Shotgun) T.Gurley up the middle to LA 31 for no gain (J.Mauro).,10,3,5,LA 31,0,LA,
+14,2239,1,13:12,(13:12) D.Johnson right end to ARI 48 for no gain (T.Johnson).,10,3,0,ARI 48,0,ARI,
+14,2281,3,11:54,(11:54) (Shotgun) C.Palmer pass deep left to Jo.Brown pushed ob at LA 27 for 20 yards (M.Alexander).,5,3,25,LA 47,0,ARI,
+14,2260,2,12:35,(12:35) D.Johnson up the middle to LA 47 for 5 yards (L.Joyner).,10,3,5,ARI 48,0,ARI,
+14,2310,1,11:20,(11:20) L.Fitzgerald left end to LA 26 for 1 yard (E.Gaines).,10,3,26,LA 27,0,ARI,
+14,2331,2,10:40,"(10:40) C.Palmer sacked at LA 31 for -5 yards (A.Donald). FUMBLES (A.Donald) [A.Donald], RECOVERED by LA-E.Sims at LA 31. E.Sims to LA 31 for no gain (D.Johnson).",9,3,21,LA 26,0,ARI,FUMBLE
+17,2998,0,15:00,"C.Catanzaro kicks 65 yards from ARI 35 to end zone, Touchback.",0,4,0,ARI 35,0,ARI,KICKOFF
+17,3013,1,15:00,"(15:00) LA #64-Donnal reports as eligible. C.Keenum pass deep middle to K.Britt to ARI 44 for 31 yards (M.Cooper, D.Bucannon).",10,4,31,LA 25,0,LA,
+17,3110,4,12:29,(12:29) (Shotgun) C.Keenum pass incomplete deep left to B.Quick (P.Peterson).,5,4,36,ARI 39,0,LA,
+17,3062,2,13:39,(13:39) (Shotgun) C.Keenum pass short right to T.Austin pushed ob at ARI 35 for 6 yards (T.Mathieu).,7,4,40,ARI 41,0,LA,
+17,3041,1,14:20,(14:20) T.Gurley left tackle to ARI 41 for 3 yards (T.Jefferson).,10,4,34,ARI 44,0,LA,
+17,3086,3,13:01,(13:01) (Shotgun) C.Keenum pass short left to T.Gurley pushed ob at ARI 39 for -4 yards (T.Mathieu).,1,4,36,ARI 35,0,LA,
+16,2964,4,00:04,"(:04) C.Catanzaro 21 yard field goal is GOOD, Center-A.Brewer, Holder-R.Quigley.",3,3,72,LA 3,1,ARI,FG
+16,2871,2,01:34,"(1:34) (Shotgun) C.Palmer pass short right to D.Johnson to LA 4 for 24 yards (A.Ogletree, M.Alexander). LA-T.McDonald was injured during the play.",12,3,71,LA 28,0,ARI,
+16,2827,1,02:24,(2:24) D.Johnson up the middle to LA 23 for 3 yards (M.Longacre).,10,3,52,LA 26,0,ARI,
+16,2848,2,01:47,"(1:47) PENALTY on ARI-D.Humphries, False Start, 5 yards, enforced at LA 23 - No Play.",7,3,47,LA 23,0,ARI,PENALTY
+16,2782,3,03:10,(3:10) (Shotgun) C.Palmer pass deep right to J.Nelson ran ob at LA 37 for 24 yards.,7,3,38,ARI 39,0,ARI,
+16,2715,2,04:20,(4:20) (Shotgun) C.Palmer pass short left to M.Floyd ran ob at ARI 36 for 15 yards.,14,3,11,ARI 21,0,ARI,
+16,2920,2,00:15,(:15) (Shotgun) C.Palmer pass incomplete.,3,3,72,LA 3,0,ARI,
+16,2760,2,03:17,(3:17) C.Palmer pass incomplete short left to J.Gresham (E.Gaines).,7,3,14,ARI 39,0,ARI,
+16,2739,1,03:53,(3:53) D.Johnson up the middle to ARI 39 for 3 yards (L.Joyner).,10,3,14,ARI 36,0,ARI,
+16,2895,1,00:56,(:56) D.Johnson up the middle to LA 3 for 1 yard (M.Brockers).,4,3,72,LA 4,0,ARI,
+16,2694,1,05:05,"(5:05) C.Johnson left tackle to ARI 21 for -4 yards (M.Longacre, E.Gaines).",10,3,-4,ARI 25,0,ARI,
+16,2806,1,03:03,"(3:03) (No Huddle, Shotgun) D.Johnson up the middle to LA 26 for 11 yards (M.Barron).",10,3,49,LA 37,0,ARI,
+16,2942,3,00:09,(:09) (Shotgun) C.Palmer pass incomplete short left to Jo.Brown (E.Gaines).,3,3,72,LA 3,0,ARI,
+19,3453,4,08:34,"(8:34) J.Hekker punts 44 yards to ARI 5, Center-J.McQuaide, fair catch by P.Peterson.",13,4,10,ARI 49,0,LA,PUNT
+19,3382,4,08:34,"(8:34) (Punt formation) PENALTY on LA-T.Hemingway, False Start, 5 yards, enforced at ARI 44 - No Play.",8,4,10,ARI 44,0,LA,PENALTY
+19,3234,1,11:11,(11:11) C.Keenum pass incomplete deep left to L.Kendricks.,10,4,0,LA 41,0,LA,
+19,3322,3,09:15,"(9:15) (Shotgun) C.Keenum pass short left to L.Kendricks to ARI 12 for 27 yards (P.Peterson). PENALTY on LA-G.Robinson, Ineligible Downfield Pass, 5 yards, enforced at ARI 39 - No Play.",3,4,10,ARI 39,0,LA,PENALTY
+19,3256,2,11:05,(11:05) (Shotgun) C.Keenum scrambles up the middle to ARI 46 for 13 yards (D.Bucannon).,10,4,10,LA 41,0,LA,
+19,3277,1,10:42,(10:42) T.Gurley up the middle to ARI 47 for -1 yards (K.Minter).,10,4,10,ARI 46,0,LA,
+19,3357,3,08:42,"(8:42) (Shotgun) C.Keenum pass incomplete short right to B.Quick. LA-B.Quick was injured during the play.  Los Angeles challenged the incomplete pass ruling, and the play was Upheld. The ruling on the field was confirmed. (Timeout #2.)",8,4,10,ARI 44,0,LA,TIMEOUT
+19,3298,2,10:01,(10:01) (Shotgun) C.Keenum pass short left to T.Gurley to ARI 39 for 8 yards (D.Swearinger).,11,4,10,ARI 47,0,LA,
+18,3150,1,12:22,(12:22) C.Palmer pass short left to L.Fitzgerald to LA 49 for 12 yards (M.Alexander).,10,4,19,ARI 39,0,ARI,
+18,3174,1,11:45,(11:45) C.Johnson left tackle to LA 42 for 7 yards (E.Gaines). ARI-C.Johnson was injured during the play.,10,4,19,LA 49,0,ARI,
+18,3198,2,11:23,"(11:23) D.Johnson up the middle to LA 41 for 1 yard (D.Easley). FUMBLES (D.Easley), RECOVERED by LA-J.Forrest at LA 41. J.Forrest to LA 41 for no gain (D.Johnson).",3,4,20,LA 42,0,ARI,FUMBLE

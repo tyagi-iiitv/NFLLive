@@ -1,181 +1,181 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1427,1,06:07,,10,2,30,NYG 49,0,NYG,
-9,1403,2,06:41,,7,2,32,NYG 31,0,NYG,
-9,1361,2,07:41,,10,2,11,NYG 17,0,NYG,
-9,1448,2,05:36,,12,2,31,NYG 47,0,NYG,
-9,1496,1,04:14,,10,2,57,HOU 39,0,NYG,
-9,1382,1,07:12,,10,2,14,NYG 28,0,NYG,
-9,1472,3,04:55,,11,2,44,NYG 48,0,NYG,
-9,1546,0,03:21,,0,2,83,HOU 2,1,NYG,XP
-9,1339,1,07:44,,10,2,0,NYG 17,0,NYG,
-9,1520,1,03:30,,10,2,83,HOU 26,1,NYG,TD
-24,3616,1,03:45,,10,4,68,NYG 19,0,HOU,
-24,3694,2,02:15,,1,4,79,NYG 1,0,HOU,
-24,3733,0,02:00,,0,4,80,NYG 2,1,HOU,XP
-24,3640,2,03:05,,3,4,79,NYG 12,0,HOU,PENALTY
-24,3522,1,05:33,,10,4,0,HOU 20,0,HOU,
-24,3716,3,02:05,,1,4,80,NYG 1,1,HOU,TD
-24,3507,0,05:33,,0,4,0,NYG 35,0,NYG,KICKOFF
-24,3589,1,04:20,,10,4,61,HOU 32,0,HOU,
-24,3673,1,02:56,,1,4,79,NYG 1,0,HOU,
-24,3544,2,05:27,,10,4,5,HOU 20,0,HOU,
-24,3568,3,04:50,,5,4,12,HOU 25,0,HOU,
-10,1623,1,02:52,,15,2,-11,HOU 13,0,HOU,
-10,1588,1,03:16,,10,2,-5,HOU 18,0,HOU,PENALTY
-10,1642,2,02:04,,21,2,-9,HOU 7,0,HOU,
-10,1680,3,02:00,,19,2,-9,HOU 9,0,HOU,INT
-10,1663,0,02:00,,0,2,-9,,0,,
-10,1562,0,03:21,,0,2,0,NYG 35,0,NYG,KICKOFF
-20,3145,3,10:57,,8,4,9,HOU 29,0,HOU,
-20,3077,0,12:19,,0,4,0,NYG 35,0,NYG,KICKOFF
-20,3209,4,10:41,,1,4,9,HOU 36,0,HOU,PUNTB
-20,3099,1,12:14,,10,4,2,HOU 27,0,HOU,
-20,3120,2,11:37,,8,4,2,HOU 29,0,HOU,
-6,956,1,13:35,,10,2,19,NYG 42,0,HOU,
-6,977,2,13:06,,8,2,19,NYG 40,0,HOU,
-6,932,1,14:07,,10,2,17,HOU 41,0,HOU,
-6,1006,3,12:55,,8,2,19,NYG 40,0,HOU,
-6,1028,4,12:51,,8,2,19,NYG 40,0,HOU,PUNT
-18,2746,2,02:21,,9,3,93,NYG 44,1,HOU,TD
-18,2725,1,03:01,,10,3,49,NYG 45,0,HOU,
-18,2704,2,03:41,,8,3,48,HOU 9,0,HOU,
-18,2766,0,02:13,,0,3,93,NYG 2,1,HOU,XP
-18,2683,1,04:16,,10,3,2,HOU 7,0,HOU,
-26,3919,1,01:37,,10,4,8,HOU 9,0,HOU,
-26,3940,2,01:29,,2,4,15,HOU 17,0,HOU,
-26,3992,0,00:55,,0,4,72,,0,,TIMEOUT
-26,4057,1,00:15,,10,4,41,50,0,HOU,
-26,4116,0,,,0,4,72,,0,,
-26,4033,2,00:31,,7,4,41,HOU 38,0,HOU,
-26,3964,1,01:06,,10,4,26,HOU 24,0,HOU,
-26,4009,1,00:55,,10,4,29,HOU 35,0,HOU,
-26,4079,2,00:13,,10,4,72,50,0,HOU,
-25,3883,0,01:44,,0,4,6,,0,,TIMEOUT
-25,3786,1,01:58,,10,4,1,HOU 46,0,NYG,
-25,3900,4,01:44,,4,4,6,HOU 40,0,NYG,PUNT
-25,3764,0,02:00,,0,4,0,HOU 35,0,HOU,KICKOFF
-25,3862,3,01:49,,6,4,6,HOU 42,0,NYG,
-25,3845,0,01:49,,0,4,4,,0,,TIMEOUT
-25,3807,0,01:54,,0,4,1,,0,,TIMEOUT
-25,3824,2,01:54,,9,4,4,HOU 45,0,NYG,
-1,54,1,15:00,,10,1,4,NYG 20,0,NYG,
-1,141,2,13:14,,8,1,7,NYG 35,0,NYG,
-1,160,3,12:41,,16,1,13,NYG 27,0,NYG,
-1,99,3,14:11,,1,1,13,NYG 29,0,NYG,
-1,181,4,12:10,,10,1,13,NYG 33,0,NYG,PUNT
-1,120,1,13:44,,10,1,15,NYG 33,0,NYG,
-1,78,2,14:37,,6,1,9,NYG 24,0,NYG,
-1,36,0,15:00,,0,1,13,HOU 35,0,HOU,KICKOFF
-5,813,1,00:05,,10,1,65,HOU 15,0,NYG,
-5,850,2,15:00,,10,2,65,HOU 15,0,NYG,
-5,872,3,14:56,,10,2,68,HOU 15,0,NYG,
-5,789,2,00:57,,6,1,65,NYG 24,0,NYG,
-5,834,0,,,0,1,65,,0,,
-5,768,1,01:28,,10,1,4,NYG 20,0,NYG,
-5,896,4,14:19,,7,2,39,HOU 12,0,NYG,FUMBLE
-13,1972,1,00:07,,10,2,-1,NYG 21,0,NYG,
-13,1993,0,,,0,2,-1,,0,,
-21,3301,0,09:25,,0,4,29,HOU 2,1,NYG,XP
-21,3236,1,10:31,,10,4,5,HOU 29,0,NYG,
-21,3281,1,09:34,,9,4,29,HOU 9,1,NYG,TD
-21,3257,2,10:04,,5,4,20,HOU 24,0,NYG,
-23,3361,1,09:12,,10,4,4,HOU 29,0,NYG,
-23,3466,3,05:43,,4,4,16,HOU 13,0,NYG,
-23,3382,2,08:29,,6,4,8,HOU 25,0,NYG,
-23,3403,3,07:50,,2,4,10,HOU 21,0,NYG,
-23,3488,4,05:37,,4,4,16,HOU 13,1,NYG,FG
-23,3445,2,06:22,,7,4,16,HOU 16,0,NYG,
-23,3424,1,07:06,,10,4,13,HOU 19,0,NYG,
-11,1727,2,01:19,,1,2,1,HOU 1,0,NYG,
-11,1748,0,01:10,,0,2,1,,0,,TIMEOUT
-11,1706,1,01:48,,2,2,1,HOU 2,0,NYG,
-11,1782,0,01:07,,0,2,2,HOU 2,1,NYG,XP
-11,1765,3,01:10,,1,2,2,HOU 1,1,NYG,TD
-14,2067,1,14:36,,10,3,9,HOU 37,0,HOU,
-14,2133,4,13:17,,1,3,19,HOU 46,0,HOU,
-14,2021,0,15:00,,0,3,0,NYG 35,0,NYG,KICKOFF
-14,2088,2,14:09,,12,3,19,HOU 35,0,HOU,
-14,2112,3,13:47,,2,3,20,HOU 45,0,HOU,
-14,2043,1,14:56,,10,3,11,HOU 26,0,HOU,
-8,1299,4,08:01,,10,2,0,HOU 19,0,HOU,PUNT
-8,1229,1,09:37,,10,2,1,HOU 19,0,HOU,
-8,1250,2,09:08,,9,2,1,HOU 20,0,HOU,
-8,1271,3,08:30,,9,2,0,HOU 20,0,HOU,
-19,2958,2,13:41,,7,4,58,HOU 24,0,NYG,PENALTY
-19,2804,1,02:06,,10,3,10,NYG 23,0,NYG,
-19,3036,3,12:29,,2,4,66,HOU 11,0,NYG,
-19,2991,1,13:34,,10,4,65,HOU 19,0,NYG,
-19,3058,4,12:22,,2,4,66,HOU 11,1,NYG,FG
-19,2828,1,01:41,,10,3,25,NYG 33,0,NYG,
-19,2782,0,02:13,,0,3,0,HOU 35,0,HOU,KICKOFF
-19,2910,1,15:00,,10,4,50,HOU 39,0,NYG,
-19,2849,1,01:16,,10,3,32,NYG 48,0,NYG,
-19,2873,2,00:48,,3,3,38,HOU 45,0,NYG,
-19,3012,2,13:04,,3,4,66,HOU 12,0,NYG,
-19,2894,0,,,0,3,38,,0,,
-19,2934,1,14:23,,10,4,53,HOU 27,0,NYG,
-22,3317,0,09:25,,0,4,0,NYG 35,0,NYG,KICKOFF
-22,3335,1,09:25,,10,4,0,HOU 20,0,HOU,INT
-12,1947,4,00:22,,11,2,15,HOU 35,0,HOU,PUNT
-12,1813,1,01:07,,10,2,0,HOU 20,0,HOU,
-12,1900,3,00:27,,11,2,15,HOU 35,0,HOU,
-12,1798,0,01:07,,0,2,0,NYG 35,0,NYG,KICKOFF
-12,1878,2,00:32,,11,2,15,HOU 35,0,HOU,FUMBLE
-12,1926,0,00:22,,0,2,15,,0,,TIMEOUT
-12,1859,1,00:42,,10,2,15,HOU 36,0,HOU,
-12,1835,2,01:01,,10,2,16,HOU 20,0,HOU,
-16,2389,1,08:01,,10,3,57,NYG 33,0,HOU,
-16,2470,2,06:48,,4,3,71,NYG 12,0,HOU,
-16,2278,0,10:39,,0,3,0,NYG 35,0,NYG,KICKOFF
-16,2491,3,06:21,,1,3,71,NYG 9,0,HOU,
-16,2344,1,09:24,,10,3,36,NYG 47,0,HOU,
-16,2365,2,08:39,,7,3,47,NYG 44,0,HOU,
-16,2320,1,10:00,,10,3,33,HOU 41,0,HOU,
-16,2517,4,06:13,,1,3,71,NYG 9,1,HOU,FG
-16,2446,1,07:23,,10,3,68,NYG 18,0,HOU,
-16,2296,1,10:39,,10,3,21,HOU 20,0,HOU,
-16,2413,1,07:31,,10,3,62,NYG 23,0,HOU,PENALTY
-7,1204,4,09:47,,8,2,32,NYG 41,0,NYG,PUNT
-7,1088,1,11:27,,10,2,30,NYG 21,0,NYG,
-7,1046,1,12:44,,10,2,7,NYG 9,0,NYG,
-7,1067,2,12:12,,3,2,12,NYG 16,0,NYG,
-7,1109,1,10:44,,10,2,30,NYG 39,0,NYG,
-7,1182,3,09:54,,8,2,32,NYG 41,0,NYG,
-7,1135,2,10:35,,10,2,25,NYG 39,0,NYG,PENALTY
-7,1158,2,10:35,,15,2,32,NYG 34,0,NYG,
-3,530,1,05:42,,10,1,29,HOU 40,0,NYG,
-3,438,1,07:31,,10,1,9,NYG 36,0,NYG,
-3,459,2,07:04,,1,1,13,NYG 45,0,NYG,
-3,607,2,04:20,,1,1,51,HOU 21,0,NYG,
-3,554,2,05:15,,5,1,34,HOU 35,0,NYG,
-3,509,2,06:11,,2,1,24,HOU 43,0,NYG,
-3,649,2,03:19,,7,1,60,HOU 10,0,NYG,FUMBLE
-3,480,1,06:37,,10,1,21,NYG 49,0,NYG,
-3,583,1,04:47,,10,1,43,HOU 30,0,NYG,
-3,628,1,03:45,,10,1,54,HOU 13,0,NYG,
-17,2631,3,04:30,,2,3,36,HOU 44,0,NYG,
-17,2664,4,04:23,,2,3,36,HOU 44,0,NYG,PUNT
-17,2610,2,05:13,,5,3,36,HOU 47,0,NYG,
-17,2536,0,06:09,,0,3,0,HOU 35,0,HOU,KICKOFF
-17,2554,1,06:09,,10,3,28,NYG 20,0,NYG,PENALTY
-17,2589,1,05:46,,10,3,33,NYG 48,0,NYG,
-4,751,4,01:36,,1,1,9,HOU 36,0,HOU,PUNT
-4,709,2,03:01,,10,1,4,HOU 27,0,HOU,
-4,687,1,03:05,,10,1,0,HOU 27,0,HOU,
-4,730,3,02:17,,6,1,9,HOU 31,0,HOU,
-2,412,3,07:39,,11,1,29,HOU 48,0,HOU,INT
-2,199,1,12:00,,10,1,11,HOU 19,0,HOU,
-2,287,4,10:10,,1,1,30,HOU 39,0,HOU,
-2,315,1,09:41,,10,1,39,HOU 49,0,HOU,
-2,220,1,11:28,,10,1,13,HOU 30,0,HOU,
-2,359,2,08:48,,6,1,24,NYG 47,0,HOU,PENALTY
-2,241,2,10:49,,8,1,13,HOU 32,0,HOU,
-2,336,2,09:03,,1,1,34,NYG 42,0,HOU,PENALTY
-2,263,3,10:45,,8,1,20,HOU 32,0,HOU,
-2,391,2,08:21,,16,1,29,HOU 43,0,HOU,
-15,2154,1,13:13,,10,3,10,HOU 45,0,NYG,
-15,2259,4,10:50,,9,3,24,HOU 21,1,NYG,FG
-15,2196,1,12:19,,10,3,27,HOU 22,0,NYG,
-15,2175,1,12:46,,10,3,23,HOU 35,0,NYG,
-15,2238,3,11:19,,3,3,24,HOU 15,0,NYG,
-15,2217,2,11:49,,6,3,30,HOU 18,0,NYG,
+24,3544,2,05:27,(5:27) (Shotgun) R.Fitzpatrick pass short right to R.Brown to HOU 25 for 5 yards (J.McClain).,10,4,5,HOU 20,0,HOU,
+24,3716,3,02:05,"(2:05) (Shotgun) R.Fitzpatrick scrambles up the middle for 1 yard, TOUCHDOWN.",1,4,80,NYG 1,1,HOU,TD
+24,3616,1,03:45,"(3:45) (Shotgun) R.Fitzpatrick pass short middle to A.Johnson to NYG 12 for 7 yards (T.McBride, D.Moore) [M.Kiwanuka].",10,4,68,NYG 19,0,HOU,
+24,3589,1,04:20,"(4:20) (No Huddle, Shotgun) R.Fitzpatrick pass deep left to D.Hopkins to NYG 19 for 49 yards (P.Amukamara). NYG-J.Pierre-Paul was injured during the play.",10,4,61,HOU 32,0,HOU,
+24,3568,3,04:50,(4:50) (Shotgun) R.Fitzpatrick scrambles left end to HOU 32 for 7 yards (J.Pierre-Paul).,5,4,12,HOU 25,0,HOU,
+24,3694,2,02:15,(2:15) (Shotgun) R.Fitzpatrick pass incomplete short right to A.Johnson.,1,4,79,NYG 1,0,HOU,
+24,3507,0,05:33,"J.Brown kicks 65 yards from NYG 35 to end zone, Touchback.",0,4,0,NYG 35,0,NYG,KICKOFF
+24,3522,1,05:33,(5:33) (Shotgun) R.Fitzpatrick pass incomplete short left to A.Johnson (P.Amukamara).,10,4,0,HOU 20,0,HOU,
+24,3673,1,02:56,"(2:56) A.Blue left tackle to NYG 1 for no gain (J.Hankins, J.McClain).",1,4,79,NYG 1,0,HOU,
+24,3733,0,02:00,"R.Bullock extra point is GOOD, Center-J.Weeks, Holder-S.Lechler.",0,4,80,NYG 2,1,HOU,XP
+24,3640,2,03:05,"(3:05) (Shotgun) R.Fitzpatrick pass incomplete short left to A.Johnson (P.Amukamara). PENALTY on NYG-P.Amukamara, Defensive Pass Interference, 11 yards, enforced at NYG 12 - No Play.",3,4,79,NYG 12,0,HOU,PENALTY
+25,3824,2,01:54,"(1:54) R.Jennings left end to HOU 42 for 3 yards (T.Jamison, B.Cushing).",9,4,4,HOU 45,0,NYG,
+25,3786,1,01:58,"(1:58) R.Jennings up the middle to HOU 45 for 1 yard (J.Watt, J.Tuggle).",10,4,1,HOU 46,0,NYG,
+25,3883,0,01:44,Timeout #3 by HOU at 01:44.,0,4,6,,0,,TIMEOUT
+25,3862,3,01:49,(1:49) R.Jennings left guard to HOU 40 for 2 yards (J.Powe).,6,4,6,HOU 42,0,NYG,
+25,3807,0,01:54,Timeout #1 by HOU at 01:54.,0,4,1,,0,,TIMEOUT
+25,3845,0,01:49,Timeout #2 by HOU at 01:49.,0,4,4,,0,,TIMEOUT
+25,3764,0,02:00,R.Bullock kicks onside 11 yards from HOU 35 to HOU 46. L.Donnell (didn't try to advance) to HOU 46 for no gain (R.Bullock).,0,4,0,HOU 35,0,HOU,KICKOFF
+25,3900,4,01:44,"(1:44) S.Weatherford punts 31 yards to HOU 9, Center-Z.DeOssie, fair catch by D.Johnson.",4,4,6,HOU 40,0,NYG,PUNT
+26,4057,1,00:15,(:15) (No Huddle) R.Fitzpatrick spiked the ball to stop the clock.,10,4,41,50,0,HOU,
+26,4009,1,00:55,(:55) (Shotgun) R.Fitzpatrick pass short right to G.Graham to HOU 38 for 3 yards (T.McBride).,10,4,29,HOU 35,0,HOU,
+26,4079,2,00:13,"(:13) R.Fitzpatrick pass short right to J.Grimes to NYG 19 for 31 yards (J.McClain, N.Berhe).",10,4,72,50,0,HOU,
+26,3940,2,01:29,(1:29) (Shotgun) R.Fitzpatrick pass short left to D.Hopkins to HOU 24 for 7 yards (T.McBride).,2,4,15,HOU 17,0,HOU,
+26,4033,2,00:31,"(:31) (No Huddle, Shotgun) R.Fitzpatrick pass short middle to D.Johnson to 50 for 12 yards (J.McClain).",7,4,41,HOU 38,0,HOU,
+26,3919,1,01:37,(1:37) (Shotgun) R.Fitzpatrick scrambles right end pushed ob at HOU 17 for 8 yards (J.Williams).,10,4,8,HOU 9,0,HOU,
+26,4116,0,,END GAME,0,4,72,,0,,
+26,3964,1,01:06,"(1:06) (No Huddle, Shotgun) R.Fitzpatrick pass short middle to G.Graham to HOU 35 for 11 yards (A.Rolle). NYG-D.Moore was injured during the play.",10,4,26,HOU 24,0,HOU,
+26,3992,0,00:55,Timeout #1 by NYG at 00:55.,0,4,72,,0,,TIMEOUT
+20,3120,2,11:37,(11:37) (Shotgun) D.Johnson left end to HOU 29 for no gain (A.Rolle). End around.,8,4,2,HOU 29,0,HOU,
+20,3099,1,12:14,"(12:14) A.Blue left end to HOU 29 for 2 yards (J.Williams, A.Rolle).",10,4,2,HOU 27,0,HOU,
+20,3145,3,10:57,"(10:57) (Shotgun) R.Fitzpatrick scrambles right tackle to HOU 37 for 8 yards (T.McBride). NYG-M.Kiwanuka was injured during the play.  New York Giants challenged the first down ruling, and the play was REVERSED. (Shotgun) R.Fitzpatrick scrambles right tackle to HOU 36 for 7 yards (T.McBride). NYG-M.Kiwanuka was injured during the play.",8,4,9,HOU 29,0,HOU,
+20,3209,4,10:41,"(10:41) S.Lechler punt is BLOCKED by D.Moore, Center-J.Weeks, ball out of bounds at HOU 29. HOU-S.Lechler was injured during the play.",1,4,9,HOU 36,0,HOU,PUNTB
+20,3077,0,12:19,J.Brown kicks 69 yards from NYG 35 to HOU -4. D.Johnson to HOU 27 for 31 yards (S.Paysinger).,0,4,0,NYG 35,0,NYG,KICKOFF
+21,3301,0,09:25,"J.Brown extra point is GOOD, Center-Z.DeOssie, Holder-S.Weatherford.",0,4,29,HOU 2,1,NYG,XP
+21,3236,1,10:31,(10:31) R.Jennings left end ran ob at HOU 24 for 5 yards (K.Lewis).,10,4,5,HOU 29,0,NYG,
+21,3281,1,09:34,"(9:34) (Shotgun) E.Manning pass short left to D.Fells for 9 yards, TOUCHDOWN.",9,4,29,HOU 9,1,NYG,TD
+21,3257,2,10:04,"(10:04) (No Huddle, Shotgun) R.Jennings left end to HOU 9 for 15 yards (R.Sapp, B.Cushing). HOU-K.Lewis was injured during the play.",5,4,20,HOU 24,0,NYG,
+22,3335,1,09:25,(9:25) (Shotgun) R.Fitzpatrick pass deep middle intended for D.Hopkins INTERCEPTED by D.Rodgers-Cromartie at HOU 39. D.Rodgers-Cromartie to HOU 29 for 10 yards (C.Myers).,10,4,0,HOU 20,0,HOU,INT
+22,3317,0,09:25,"J.Brown kicks 74 yards from NYG 35 to HOU -9. D.Johnson, Touchback.",0,4,0,NYG 35,0,NYG,KICKOFF
+23,3466,3,05:43,(5:43) (Shotgun) E.Manning pass incomplete short right to R.Randle (D.Morris).,4,4,16,HOU 13,0,NYG,
+23,3382,2,08:29,(8:29) R.Jennings left end pushed ob at HOU 21 for 4 yards (K.Lewis).,6,4,8,HOU 25,0,NYG,
+23,3488,4,05:37,"(5:37) J.Brown 31 yard field goal is GOOD, Center-Z.DeOssie, Holder-S.Weatherford.",4,4,16,HOU 13,1,NYG,FG
+23,3445,2,06:22,"(6:22) A.Williams up the middle to HOU 13 for 3 yards (K.Lewis, B.Cushing).",7,4,16,HOU 16,0,NYG,
+23,3361,1,09:12,(9:12) R.Jennings right guard to HOU 25 for 4 yards (J.Powe).,10,4,4,HOU 29,0,NYG,
+23,3424,1,07:06,(7:06) A.Williams right end to HOU 16 for 3 yards (J.Tuggle).,10,4,13,HOU 19,0,NYG,
+23,3403,3,07:50,(7:50) R.Jennings up the middle to HOU 19 for 2 yards (B.Cushing).,2,4,10,HOU 21,0,NYG,
+1,120,1,13:44,"(13:44) (No Huddle) R.Jennings left tackle to NYG 35 for 2 yards (T.Jamison, J.Crick).",10,1,15,NYG 33,0,NYG,
+1,141,2,13:14,"(13:14) (No Huddle, Shotgun) E.Manning sacked at NYG 27 for -8 yards (J.Watt).",8,1,7,NYG 35,0,NYG,
+1,54,1,15:00,"(15:00) (Shotgun) E.Manning pass short left to R.Randle to NYG 24 for 4 yards (J.Joseph, K.Lewis).",10,1,4,NYG 20,0,NYG,
+1,36,0,15:00,"R.Bullock kicks 72 yards from HOU 35 to NYG -7. Q.Demps, Touchback.",0,1,13,HOU 35,0,HOU,KICKOFF
+1,99,3,14:11,"(14:11) (No Huddle, Shotgun) R.Jennings left guard to NYG 33 for 4 yards (T.Jamison, B.Cushing).",1,1,13,NYG 29,0,NYG,
+1,181,4,12:10,"(12:10) S.Weatherford punts 48 yards to HOU 19, Center-Z.DeOssie, out of bounds.",10,1,13,NYG 33,0,NYG,PUNT
+1,160,3,12:41,"(12:41) (No Huddle, Shotgun) R.Jennings right tackle to NYG 33 for 6 yards (W.Mercilus, D.Manning).",16,1,13,NYG 27,0,NYG,
+1,78,2,14:37,"(14:37) (No Huddle, Shotgun) R.Jennings left tackle to NYG 29 for 5 yards (T.Jamison, B.Cushing).",6,1,9,NYG 24,0,NYG,
+3,459,2,07:04,"(7:04) (No Huddle, Shotgun) R.Jennings right end to NYG 49 for 4 yards (B.Cushing, J.Watt).",1,1,13,NYG 45,0,NYG,
+3,607,2,04:20,"(4:20) (No Huddle, Shotgun) R.Jennings left guard to HOU 13 for 8 yards (D.Swearinger, B.Cushing).",1,1,51,HOU 21,0,NYG,
+3,628,1,03:45,"(3:45) (No Huddle) R.Jennings left guard to HOU 10 for 3 yards (J.Crick, B.Reed).",10,1,54,HOU 13,0,NYG,
+3,583,1,04:47,"(4:47) (No Huddle, Shotgun) E.Manning pass short right to R.Randle to HOU 21 for 9 yards (D.Morris).",10,1,43,HOU 30,0,NYG,
+3,554,2,05:15,(5:15) (No Huddle) E.Manning pass short right to R.Randle pushed ob at HOU 30 for 5 yards (J.Joseph).,5,1,34,HOU 35,0,NYG,
+3,530,1,05:42,"(5:42) (No Huddle) E.Manning pass short right to L.Donnell to HOU 35 for 5 yards (D.Manning, D.Swearinger).",10,1,29,HOU 40,0,NYG,
+3,438,1,07:31,"(7:31) (Shotgun) R.Jennings left tackle to NYG 45 for 9 yards (K.Lewis, D.Manning).",10,1,9,NYG 36,0,NYG,
+3,509,2,06:11,"(6:11) (No Huddle, Shotgun) R.Jennings up the middle to HOU 40 for 3 yards (J.Powe, J.Crick).",2,1,24,HOU 43,0,NYG,
+3,649,2,03:19,"(3:19) E.Manning pass short left to L.Donnell to HOU 4 for 6 yards (K.Lewis). FUMBLES (K.Lewis), RECOVERED by HOU-J.Joseph at HOU 3. J.Joseph to HOU 27 for 24 yards (W.Beatty). HOU-J.Joseph was injured during the play.",7,1,60,HOU 10,0,NYG,FUMBLE
+3,480,1,06:37,"(6:37) (No Huddle, Shotgun) E.Manning pass short right to R.Randle pushed ob at HOU 43 for 8 yards (J.Joseph).",10,1,21,NYG 49,0,NYG,
+2,199,1,12:00,"(12:00) A.Blue left tackle to HOU 30 for 11 yards (J.McClain, J.Pierre-Paul).",10,1,11,HOU 19,0,HOU,
+2,336,2,09:03,"(9:03) PENALTY on HOU-C.Fiedorowicz, False Start, 5 yards, enforced at NYG 42 - No Play.",1,1,34,NYG 42,0,HOU,PENALTY
+2,315,1,09:41,"(9:41) A.Blue left tackle to NYG 42 for 9 yards (Z.Bowman, S.Brown).",10,1,39,HOU 49,0,HOU,
+2,263,3,10:45,(10:45) (Shotgun) R.Fitzpatrick pass short right to A.Johnson to HOU 39 for 7 yards (D.Rodgers-Cromartie).,8,1,20,HOU 32,0,HOU,
+2,391,2,08:21,(8:21) (Shotgun) J.Grimes up the middle to HOU 48 for 5 yards (R.Ayers).,16,1,29,HOU 43,0,HOU,
+2,241,2,10:49,(10:49) (Shotgun) R.Fitzpatrick pass incomplete short left to A.Johnson (J.Hankins).,8,1,13,HOU 32,0,HOU,
+2,359,2,08:48,"(8:48) R.Fitzpatrick scrambles right end to NYG 46 for 1 yard (J.Hankins). PENALTY on HOU-B.Brooks, Illegal Use of Hands, 10 yards, enforced at NYG 47 - No Play.",6,1,24,NYG 47,0,HOU,PENALTY
+2,412,3,07:39,(7:39) (Shotgun) R.Fitzpatrick pass deep left intended for D.Hopkins INTERCEPTED by P.Amukamara (J.Pierre-Paul) [D.Moore] at NYG 36. P.Amukamara to NYG 36 for no gain (D.Johnson).,11,1,29,HOU 48,0,HOU,INT
+2,287,4,10:10,(10:10) (Punt formation) S.Lechler pass short right to A.Blue pushed ob at HOU 49 for 10 yards (N.Berhe).,1,1,30,HOU 39,0,HOU,
+2,220,1,11:28,"(11:28) A.Blue right guard to HOU 32 for 2 yards (J.McClain, J.Hankins).",10,1,13,HOU 30,0,HOU,
+5,768,1,01:28,"(1:28) A.Williams left tackle to NYG 24 for 4 yards (B.Cushing, W.Mercilus).",10,1,4,NYG 20,0,NYG,
+5,850,2,15:00,(15:00) E.Manning pass incomplete short right to R.Randle.,10,2,65,HOU 15,0,NYG,
+5,896,4,14:19,"(14:19) (Field Goal formation) S.Weatherford Aborted. Z.DeOssie FUMBLES at HOU 12, recovered by NYG-J.Brown at HOU 37. J.Brown to HOU 41 for -4 yards (K.Jackson, J.Crick). The Field Goal attempt would have been from 30 yards.",7,2,39,HOU 12,0,NYG,FUMBLE
+5,834,0,,END QUARTER 1,0,1,65,,0,,
+5,872,3,14:56,(14:56) (Shotgun) E.Manning pass short left to L.Donnell to HOU 12 for 3 yards (K.Lewis).,10,2,68,HOU 15,0,NYG,
+5,789,2,00:57,"(:57) (No Huddle, Shotgun) E.Manning pass short middle to V.Cruz to HOU 15 for 61 yards (D.Morris).",6,1,65,NYG 24,0,NYG,
+5,813,1,00:05,"(:05) A.Williams up the middle to HOU 15 for no gain (J.Watt, B.Cushing).",10,1,65,HOU 15,0,NYG,
+4,730,3,02:17,(2:17) (Shotgun) R.Fitzpatrick scrambles left tackle to HOU 36 for 5 yards (C.Jenkins).,6,1,9,HOU 31,0,HOU,
+4,687,1,03:05,(3:05) R.Fitzpatrick pass incomplete short right to A.Johnson (C.Jenkins).,10,1,0,HOU 27,0,HOU,
+4,751,4,01:36,"(1:36) S.Lechler punts 64 yards to end zone, Center-J.Weeks, Touchback.",1,1,9,HOU 36,0,HOU,PUNT
+4,709,2,03:01,"(3:01) A.Blue right end to HOU 31 for 4 yards (C.Jenkins, J.Pierre-Paul).",10,1,4,HOU 27,0,HOU,
+7,1158,2,10:35,(10:35) (Shotgun) E.Manning pass short right to V.Cruz to NYG 41 for 7 yards (D.Manning).,15,2,32,NYG 34,0,NYG,
+7,1204,4,09:47,"(9:47) S.Weatherford punts 43 yards to HOU 16, Center-Z.DeOssie. D.Johnson to HOU 19 for 3 yards (Z.DeOssie).",8,2,32,NYG 41,0,NYG,PUNT
+7,1182,3,09:54,(9:54) (Shotgun) E.Manning pass incomplete short middle to P.Parker (D.Manning).,8,2,32,NYG 41,0,NYG,
+7,1135,2,10:35,"(10:35) PENALTY on NYG-D.Fells, False Start, 5 yards, enforced at NYG 39 - No Play.",10,2,25,NYG 39,0,NYG,PENALTY
+7,1088,1,11:27,"(11:27) R.Jennings left guard to NYG 39 for 18 yards (K.Lewis, A.J. Bouye).",10,2,30,NYG 21,0,NYG,
+7,1067,2,12:12,"(12:12) R.Jennings left guard to NYG 21 for 5 yards (B.Cushing, J.Tuggle).",3,2,12,NYG 16,0,NYG,
+7,1046,1,12:44,(12:44) R.Jennings up the middle to NYG 16 for 7 yards (B.Cushing).,10,2,7,NYG 9,0,NYG,
+7,1109,1,10:44,(10:44) E.Manning pass incomplete deep middle to R.Randle (K.Jackson). HOU-K.Jackson was injured during the play.,10,2,30,NYG 39,0,NYG,
+6,977,2,13:06,(13:06) R.Fitzpatrick pass incomplete short right to J.Prosch.,8,2,19,NYG 40,0,HOU,
+6,932,1,14:07,(14:07) R.Fitzpatrick pass deep left to D.Hopkins to NYG 42 for 17 yards (P.Amukamara).,10,2,17,HOU 41,0,HOU,
+6,1006,3,12:55,(12:55) (Shotgun) R.Fitzpatrick pass incomplete short left to D.Hopkins.,8,2,19,NYG 40,0,HOU,
+6,1028,4,12:51,"(12:51) S.Lechler punts 31 yards to NYG 9, Center-J.Weeks, out of bounds.",8,2,19,NYG 40,0,HOU,PUNT
+6,956,1,13:35,"(13:35) A.Blue left tackle to NYG 40 for 2 yards (R.Ayers, M.Patterson).",10,2,19,NYG 42,0,HOU,
+9,1546,0,03:21,"J.Brown extra point is GOOD, Center-Z.DeOssie, Holder-S.Weatherford.",0,2,83,HOU 2,1,NYG,XP
+9,1339,1,07:44,(7:44) (Shotgun) E.Manning pass incomplete short left to R.Randle.,10,2,0,NYG 17,0,NYG,
+9,1427,1,06:07,(6:07) (No Huddle) R.Jennings left guard to NYG 47 for -2 yards (K.Jackson).,10,2,30,NYG 49,0,NYG,
+9,1472,3,04:55,"(4:55) (No Huddle, Shotgun) E.Manning pass short right to P.Parker to HOU 39 for 13 yards (D.Morris).",11,2,44,NYG 48,0,NYG,
+9,1520,1,03:30,"(3:30) (No Huddle, Shotgun) E.Manning pass short middle to V.Cruz for 26 yards, TOUCHDOWN. The Replay Official challenged the runner broke the plane ruling, and the play was Upheld. The ruling on the field stands.",10,2,83,HOU 26,1,NYG,TD
+9,1496,1,04:14,"(4:14) (No Huddle, Shotgun) E.Manning pass short right to P.Parker to HOU 26 for 13 yards (D.Morris).",10,2,57,HOU 39,0,NYG,
+9,1361,2,07:41,"(7:41) (No Huddle) R.Jennings right tackle to NYG 28 for 11 yards (M.Mohamed, B.Reed).",10,2,11,NYG 17,0,NYG,
+9,1403,2,06:41,"(6:41) (No Huddle, Shotgun) E.Manning pass short right to L.Donnell to NYG 49 for 18 yards (J.Joseph).",7,2,32,NYG 31,0,NYG,
+9,1382,1,07:12,"(7:12) (No Huddle) R.Jennings left guard to NYG 31 for 3 yards (W.Mercilus, J.Watt).",10,2,14,NYG 28,0,NYG,
+9,1448,2,05:36,"(5:36) (No Huddle, Shotgun) E.Manning pass short left to V.Cruz to NYG 48 for 1 yard (A.J. Bouye).",12,2,31,NYG 47,0,NYG,
+8,1271,3,08:30,"(8:30) (Shotgun) R.Fitzpatrick pass short left to A.Johnson to HOU 19 for -1 yards (J.Pierre-Paul, D.Moore).",9,2,0,HOU 20,0,HOU,
+8,1299,4,08:01,"(8:01) S.Lechler punts 54 yards to NYG 27, Center-J.Weeks. P.Parker to NYG 39 for 12 yards (A.Dent). PENALTY on NYG-D.Moore, Offensive Holding, 10 yards, enforced at NYG 27. Officially, a return for 0 yards.",10,2,0,HOU 19,0,HOU,PUNT
+8,1250,2,09:08,(9:08) R.Brown right guard to HOU 20 for no gain (J.Pierre-Paul).,9,2,1,HOU 20,0,HOU,
+8,1229,1,09:37,"(9:37) R.Brown right tackle to HOU 20 for 1 yard (J.McClain, M.Herzlich).",10,2,1,HOU 19,0,HOU,
+11,1727,2,01:19,"(1:19) R.Jennings left guard to HOU 1 for no gain (B.Cushing, M.Mohamed).",1,2,1,HOU 1,0,NYG,
+11,1782,0,01:07,"J.Brown extra point is GOOD, Center-Z.DeOssie, Holder-S.Weatherford.",0,2,2,HOU 2,1,NYG,XP
+11,1748,0,01:10,Timeout #1 by HOU at 01:10.,0,2,1,,0,,TIMEOUT
+11,1706,1,01:48,"(1:48) R.Jennings up the middle to HOU 1 for 1 yard (B.Cushing, M.Mohamed).",2,2,1,HOU 2,0,NYG,
+11,1765,3,01:10,"(1:10) R.Jennings right guard for 1 yard, TOUCHDOWN.",1,2,2,HOU 1,1,NYG,TD
+10,1623,1,02:52,(2:52) R.Fitzpatrick sacked at HOU 7 for -6 yards (sack split by J.McClain and J.Hankins).,15,2,-11,HOU 13,0,HOU,
+10,1588,1,03:16,"(3:16) R.Fitzpatrick pass deep middle to D.Hopkins to NYG 29 for 53 yards (S.Brown). PENALTY on HOU-T.Clabo, Illegal Formation, 5 yards, enforced at HOU 18 - No Play.",10,2,-5,HOU 18,0,HOU,PENALTY
+10,1642,2,02:04,"(2:04) A.Blue up the middle to HOU 9 for 2 yards (R.Ayers, T.McBride).",21,2,-9,HOU 7,0,HOU,
+10,1680,3,02:00,(2:00) (Shotgun) R.Fitzpatrick pass deep left intended for A.Johnson INTERCEPTED by A.Rolle [R.Ayers] at HOU 27. A.Rolle to HOU 2 for 25 yards (K.Martin).,19,2,-9,HOU 9,0,HOU,INT
+10,1562,0,03:21,J.Brown kicks 61 yards from NYG 35 to HOU 4. D.Johnson to HOU 18 for 14 yards (P.Hillis).,0,2,0,NYG 35,0,NYG,KICKOFF
+10,1663,0,02:00,Two-Minute Warning,0,2,-9,,0,,
+13,1993,0,,END QUARTER 2,0,2,-1,,0,,
+13,1972,1,00:07,(:07) E.Manning kneels to NYG 20 for -1 yards.,10,2,-1,NYG 21,0,NYG,
+12,1859,1,00:42,"(:42) (No Huddle, Shotgun) R.Fitzpatrick sacked ob at HOU 35 for -1 yards (T.McBride).",10,2,15,HOU 36,0,HOU,
+12,1798,0,01:07,"J.Brown kicks 65 yards from NYG 35 to end zone, Touchback.",0,2,0,NYG 35,0,NYG,KICKOFF
+12,1835,2,01:01,(1:01) (Shotgun) R.Fitzpatrick pass short right to K.Martin to HOU 36 for 16 yards (S.Brown).,10,2,16,HOU 20,0,HOU,
+12,1813,1,01:07,(1:07) (Shotgun) R.Fitzpatrick pass incomplete deep left to A.Johnson.,10,2,0,HOU 20,0,HOU,
+12,1947,4,00:22,"(:22) S.Lechler punts 56 yards to NYG 9, Center-J.Weeks. P.Parker to NYG 21 for 12 yards (J.Weeks).",11,2,15,HOU 35,0,HOU,PUNT
+12,1878,2,00:32,"(:32) (Shotgun) R.Fitzpatrick to HOU 30 for -5 yards. FUMBLES, and recovers at HOU 17. R.Fitzpatrick pass incomplete short left to G.Graham.",11,2,15,HOU 35,0,HOU,FUMBLE
+12,1926,0,00:22,Timeout #2 by HOU at 00:22.,0,2,15,,0,,TIMEOUT
+12,1900,3,00:27,(:27) (Shotgun) R.Fitzpatrick pass incomplete short right to K.Martin (D.Rodgers-Cromartie).,11,2,15,HOU 35,0,HOU,
+15,2238,3,11:19,(11:19) R.Jennings left tackle to HOU 21 for -6 yards (J.Watt).,3,3,24,HOU 15,0,NYG,
+15,2217,2,11:49,"(11:49) R.Jennings left guard to HOU 15 for 3 yards (B.Cushing, D.Swearinger).",6,3,30,HOU 18,0,NYG,
+15,2196,1,12:19,"(12:19) R.Jennings left tackle to HOU 18 for 4 yards (J.Tuggle, B.Cushing).",10,3,27,HOU 22,0,NYG,
+15,2154,1,13:13,"(13:13) R.Jennings left tackle to HOU 35 for 10 yards (K.Lewis, D.Swearinger).",10,3,10,HOU 45,0,NYG,
+15,2259,4,10:50,"(10:50) J.Brown 39 yard field goal is GOOD, Center-Z.DeOssie, Holder-S.Weatherford.",9,3,24,HOU 21,1,NYG,FG
+15,2175,1,12:46,"(12:46) R.Jennings left tackle to HOU 22 for 13 yards (K.Lewis, D.Swearinger).",10,3,23,HOU 35,0,NYG,
+14,2088,2,14:09,"(14:09) (No Huddle, Shotgun) R.Fitzpatrick pass short middle to G.Graham to HOU 45 for 10 yards (J.McClain, J.Williams).",12,3,19,HOU 35,0,HOU,
+14,2043,1,14:56,"(14:56) (Shotgun) R.Fitzpatrick pass short middle to G.Graham to HOU 37 for 11 yards (M.Herzlich, J.McClain).",10,3,11,HOU 26,0,HOU,
+14,2133,4,13:17,"(13:17) (No Huddle) A.Blue right tackle to HOU 45 for -1 yards (M.Herzlich, J.Hankins).",1,3,19,HOU 46,0,HOU,
+14,2021,0,15:00,"J.Brown kicks 61 yards from NYG 35 to HOU 4. D.Johnson to HOU 26 for 22 yards (Q.Demps, S.Paysinger).",0,3,0,NYG 35,0,NYG,KICKOFF
+14,2112,3,13:47,"(13:47) (No Huddle) A.Blue right end to HOU 46 for 1 yard (J.Pierre-Paul, C.Jenkins).",2,3,20,HOU 45,0,HOU,
+14,2067,1,14:36,"(14:36) (No Huddle, Shotgun) A.Blue right end to HOU 35 for -2 yards (D.Rodgers-Cromartie).",10,3,9,HOU 37,0,HOU,
+17,2554,1,06:09,"(6:09) E.Manning pass short right to D.Fells to NYG 33 for 13 yards (J.Crick). PENALTY on HOU-K.Lewis, Face Mask (15 Yards), 15 yards, enforced at NYG 33.",10,3,28,NYG 20,0,NYG,PENALTY
+17,2610,2,05:13,"(5:13) A.Williams right tackle to HOU 44 for 3 yards (J.Watt, T.Jamison).",5,3,36,HOU 47,0,NYG,
+17,2631,3,04:30,"(4:30) (Shotgun) E.Manning pass incomplete short left to V.Cruz. Penalty on NYG-L.Donnell, Offensive Pass Interference, declined.",2,3,36,HOU 44,0,NYG,
+17,2589,1,05:46,"(5:46) A.Williams right end to HOU 47 for 5 yards (J.Joseph, B.Cushing).",10,3,33,NYG 48,0,NYG,
+17,2664,4,04:23,"(4:23) S.Weatherford punts 37 yards to HOU 7, Center-Z.DeOssie, fair catch by D.Johnson.",2,3,36,HOU 44,0,NYG,PUNT
+17,2536,0,06:09,"R.Bullock kicks 71 yards from HOU 35 to NYG -6. Q.Demps, Touchback.",0,3,0,HOU 35,0,HOU,KICKOFF
+16,2344,1,09:24,"(9:24) (No Huddle, Shotgun) R.Fitzpatrick scrambles up the middle to NYG 44 for 3 yards (M.Kiwanuka).",10,3,36,NYG 47,0,HOU,
+16,2320,1,10:00,(10:00) (Shotgun) R.Fitzpatrick pass short middle to D.Hopkins to NYG 47 for 12 yards (M.Herzlich).,10,3,33,HOU 41,0,HOU,
+16,2446,1,07:23,(7:23) (Shotgun) R.Fitzpatrick pass short middle to G.Graham to NYG 12 for 6 yards (J.McClain).,10,3,68,NYG 18,0,HOU,
+16,2470,2,06:48,(6:48) R.Fitzpatrick scrambles up the middle to NYG 9 for 3 yards (C.Jenkins).,4,3,71,NYG 12,0,HOU,
+16,2491,3,06:21,(6:21) (No Huddle) R.Fitzpatrick pass incomplete short right to A.Johnson.,1,3,71,NYG 9,0,HOU,
+16,2278,0,10:39,"J.Brown kicks 72 yards from NYG 35 to HOU -7. D.Johnson, Touchback.",0,3,0,NYG 35,0,NYG,KICKOFF
+16,2296,1,10:39,(10:39) (Shotgun) R.Fitzpatrick pass short middle to D.Hopkins to HOU 41 for 21 yards (A.Rolle).,10,3,21,HOU 20,0,HOU,
+16,2413,1,07:31,"(7:31) (No Huddle, Shotgun) R.Fitzpatrick pass incomplete short middle to A.Johnson (P.Amukamara). PENALTY on NYG-D.Rodgers-Cromartie, Defensive Holding, 5 yards, enforced at NYG 23 - No Play.",10,3,62,NYG 23,0,HOU,PENALTY
+16,2389,1,08:01,"(8:01) (No Huddle, Shotgun) R.Fitzpatrick pass short left to D.Hopkins to NYG 23 for 10 yards (D.Rodgers-Cromartie).",10,3,57,NYG 33,0,HOU,
+16,2365,2,08:39,"(8:39) (No Huddle, Shotgun) R.Fitzpatrick pass short left to A.Johnson to NYG 33 for 11 yards (P.Amukamara).",7,3,47,NYG 44,0,HOU,
+16,2517,4,06:13,"(6:13) R.Bullock 27 yard field goal is GOOD, Center-J.Weeks, Holder-S.Lechler.",1,3,71,NYG 9,1,HOU,FG
+19,2873,2,00:48,"(:48) (No Huddle) R.Jennings right guard to HOU 39 for 6 yards (M.Mohamed, W.Mercilus).",3,3,38,HOU 45,0,NYG,
+19,2910,1,15:00,(15:00) (Shotgun) E.Manning pass short middle to V.Cruz to HOU 27 for 12 yards (D.Manning).,10,4,50,HOU 39,0,NYG,
+19,2849,1,01:16,"(1:16) (No Huddle, Shotgun) E.Manning pass short left to P.Parker to HOU 45 for 7 yards (B.Reed).",10,3,32,NYG 48,0,NYG,
+19,3012,2,13:04,"(13:04) (No Huddle, Shotgun) E.Manning pass short right to R.Randle to HOU 11 for 1 yard (D.Swearinger).",3,4,66,HOU 12,0,NYG,
+19,2894,0,,END QUARTER 3,0,3,38,,0,,
+19,2934,1,14:23,"(14:23) (No Huddle, Shotgun) E.Manning pass short left to L.Donnell to HOU 24 for 3 yards (B.Reed, A.J. Bouye).",10,4,53,HOU 27,0,NYG,
+19,2782,0,02:13,R.Bullock kicks 59 yards from HOU 35 to NYG 6. Q.Demps to NYG 23 for 17 yards (J.Tarpinian).,0,3,0,HOU 35,0,HOU,KICKOFF
+19,2828,1,01:41,(1:41) (No Huddle) R.Jennings left tackle pushed ob at NYG 48 for 15 yards (K.Lewis).,10,3,25,NYG 33,0,NYG,
+19,3058,4,12:22,"(12:22) J.Brown 29 yard field goal is GOOD, Center-Z.DeOssie, Holder-S.Weatherford.",2,4,66,HOU 11,1,NYG,FG
+19,2991,1,13:34,(13:34) R.Jennings left end pushed ob at HOU 12 for 7 yards (K.Lewis).,10,4,65,HOU 19,0,NYG,
+19,2958,2,13:41,"(13:41) (No Huddle) E.Manning pass incomplete short right to R.Jennings (D.Manning). PENALTY on HOU-D.Manning, Defensive Holding, 5 yards, enforced at HOU 24 - No Play.",7,4,58,HOU 24,0,NYG,PENALTY
+19,3036,3,12:29,"(12:29) (No Huddle, Shotgun) E.Manning pass incomplete short middle to R.Randle (J.Watt).",2,4,66,HOU 11,0,NYG,
+19,2804,1,02:06,(2:06) (Shotgun) E.Manning pass short left to L.Donnell pushed ob at NYG 33 for 10 yards (W.Mercilus).,10,3,10,NYG 23,0,NYG,
+18,2704,2,03:41,(3:41) A.Blue left guard to NYG 45 for 46 yards (P.Amukamara).,8,3,48,HOU 9,0,HOU,
+18,2725,1,03:01,"(3:01) R.Brown left guard to NYG 44 for 1 yard (J.Pierre-Paul, J.Williams).",10,3,49,NYG 45,0,HOU,
+18,2746,2,02:21,"(2:21) (Shotgun) R.Fitzpatrick pass deep middle to D.Johnson for 44 yards, TOUCHDOWN.",9,3,93,NYG 44,1,HOU,TD
+18,2766,0,02:13,"R.Bullock extra point is GOOD, Center-J.Weeks, Holder-S.Lechler.",0,3,93,NYG 2,1,HOU,XP
+18,2683,1,04:16,"(4:16) A.Blue left tackle to HOU 9 for 2 yards (J.Williams, P.Amukamara).",10,3,2,HOU 7,0,HOU,

@@ -1,168 +1,168 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1747,1,01:08,,10,2,5,IND 14,0,IND,
-9,1768,2,00:40,,5,2,7,IND 19,0,IND,
-9,1806,3,00:12,,3,2,11,IND 21,0,IND,
-9,1789,0,00:12,,0,2,7,,0,,TIMEOUT
-18,3814,2,00:35,,5,4,75,IND 5,0,MIA,
-18,3751,0,00:47,,0,4,56,,0,,TIMEOUT
-18,3836,3,00:30,,5,4,75,IND 5,0,MIA,
-18,3570,1,02:48,,10,4,-9,MIA 20,0,MIA,
-18,3708,2,01:22,,3,4,64,IND 30,0,MIA,
-18,3875,4,00:27,,5,4,66,IND 5,0,MIA,
-18,3646,0,01:56,,0,4,15,,0,,
-18,3768,2,00:47,,18,4,75,IND 24,0,MIA,
-18,3613,3,02:03,,10,4,15,MIA 20,0,MIA,PENALTY
-18,3589,2,02:25,,19,4,0,MIA 11,0,MIA,
-18,3732,1,00:53,,10,4,56,IND 16,0,MIA,
-18,3858,0,00:27,,0,4,75,,0,,TIMEOUT
-18,3792,1,00:40,,5,4,75,IND 5,0,MIA,
-18,3684,1,01:28,,10,4,50,IND 37,0,MIA,
-18,3663,1,01:56,,10,4,43,MIA 35,0,MIA,
-6,1127,2,12:53,,11,2,17,MIA 46,0,MIA,
-6,1172,1,11:31,,10,2,55,IND 29,0,MIA,
-6,1196,1,10:54,,10,2,58,IND 14,0,MIA,
-6,1280,3,08:15,,1,2,69,IND 1,1,MIA,TD
-6,1104,2,13:11,,6,2,15,IND 49,0,MIA,PENALTY
-6,1148,3,12:14,,9,2,40,MIA 48,0,MIA,
-6,1238,1,09:37,,1,2,67,IND 1,0,MIA,
-6,1038,1,15:00,,10,2,2,MIA 31,0,MIA,
-6,1259,2,09:01,,2,2,68,IND 2,0,MIA,
-6,1297,0,08:07,,0,2,69,IND 2,0,MIA,2PPF
-6,1217,2,10:17,,7,2,68,IND 11,0,MIA,
-6,1083,1,13:42,,10,2,20,MIA 47,0,MIA,
-6,1059,2,14:22,,8,2,16,MIA 33,0,MIA,
-14,2748,2,15:00,,15,4,-5,MIA 18,0,MIA,
-14,2706,1,00:29,,10,3,-5,MIA 23,0,MIA,
-14,2770,3,14:55,,15,4,-2,MIA 18,0,MIA,
-14,2794,4,14:23,,12,4,-2,MIA 21,0,MIA,PUNT
-7,1311,0,08:07,,0,2,0,MIA 35,0,MIA,KICKOFF
-7,1438,2,05:38,,10,2,80,MIA 22,0,IND,
-7,1347,1,07:41,,10,2,26,IND 38,0,IND,
-7,1509,1,04:49,,10,2,80,MIA 11,1,IND,TD
-7,1392,1,06:30,,10,2,58,50,0,IND,
-7,1481,3,05:33,,10,2,69,MIA 22,0,IND,
-7,1526,0,04:42,,0,2,80,MIA 15,1,IND,XP
-7,1416,1,05:48,,10,2,58,MIA 22,0,IND,
-7,1326,1,08:07,,10,2,18,IND 20,0,IND,
-7,1371,2,07:11,,2,2,30,IND 46,0,IND,
-8,1581,1,04:09,,10,2,16,MIA 35,0,MIA,
-8,1707,0,01:16,,0,2,22,,0,,TIMEOUT
-8,1542,0,04:42,,0,2,0,IND 35,0,IND,KICKOFF
-8,1688,3,02:00,,5,2,22,50,0,MIA,
-8,1647,2,02:13,,6,2,30,MIA 49,0,MIA,
-8,1602,2,03:32,,9,2,30,MIA 36,0,MIA,
-8,1557,1,04:42,,10,2,15,MIA 20,0,MIA,
-8,1626,1,02:52,,10,2,29,MIA 45,0,MIA,
-8,1728,4,01:16,,13,2,22,MIA 42,0,MIA,PUNT
-10,1903,1,13:52,,10,3,13,MIA 33,0,MIA,
-10,1971,4,13:01,,14,3,9,MIA 29,0,MIA,PUNT
-10,1879,2,14:28,,11,3,13,MIA 19,0,MIA,
-10,1946,3,13:12,,14,3,9,MIA 29,0,MIA,
-10,1925,2,13:48,,10,3,9,MIA 33,0,MIA,
-10,1843,0,15:00,,0,3,0,IND 35,0,IND,KICKOFF
-10,1858,1,15:00,,10,3,-1,MIA 20,0,MIA,
-19,3894,1,00:23,,10,4,-1,IND 14,0,IND,
-19,3915,0,00:00,,0,4,-1,,0,,
-12,2304,3,08:00,,1,3,42,IND 45,0,MIA,
-12,2468,3,04:36,,13,3,64,IND 26,0,MIA,
-12,2446,2,04:41,,13,3,53,IND 26,0,MIA,
-12,2216,2,09:48,,5,3,5,MIA 26,0,MIA,
-12,2328,1,07:21,,10,3,48,IND 37,0,MIA,
-12,2492,4,03:53,,2,3,64,IND 15,1,MIA,FG
-12,2283,2,08:44,,3,3,34,IND 47,0,MIA,
-12,2195,1,10:24,,10,3,5,MIA 21,0,MIA,
-12,2394,1,05:26,,10,3,63,IND 23,0,MIA,
-12,2373,3,06:04,,2,3,56,IND 29,0,MIA,
-12,2238,3,09:45,,5,3,25,MIA 26,0,MIA,
-12,2415,2,04:50,,3,3,53,IND 16,0,MIA,PENALTY
-12,2262,1,09:19,,10,3,32,MIA 46,0,MIA,
-12,2352,2,06:37,,4,3,50,IND 31,0,MIA,
-16,3070,0,08:30,,0,4,0,IND 35,0,IND,KICKOFF
-16,3283,4,05:22,,2,4,78,IND 2,1,MIA,FG
-16,3109,1,08:06,,10,4,23,MIA 34,0,MIA,
-16,3162,1,07:17,,10,4,45,50,0,MIA,
-16,3085,1,08:30,,10,4,14,MIA 20,0,MIA,
-16,3133,2,07:33,,1,4,30,MIA 43,0,MIA,
-16,3237,2,06:12,,9,4,71,IND 9,0,MIA,
-16,3259,3,06:08,,9,4,78,IND 9,0,MIA,
-16,3215,1,06:23,,9,4,71,IND 9,0,MIA,
-16,3191,1,06:56,,10,4,71,IND 35,0,MIA,
-11,2078,2,11:32,,8,3,16,IND 35,0,IND,
-11,2031,2,12:14,,3,3,12,IND 28,0,IND,PENALTY
-11,2114,3,10:48,,6,3,16,IND 37,0,IND,
-11,2054,1,12:09,,10,3,14,IND 33,0,IND,
-11,2136,4,10:42,,6,3,6,IND 37,0,IND,PENALTY
-11,2176,4,10:31,,16,3,6,IND 27,0,IND,PUNT
-11,2007,1,12:48,,10,3,7,IND 21,0,IND,
-3,522,2,06:56,,11,1,16,IND 41,0,IND,
-3,379,0,09:16,,0,1,0,MIA 20,0,MIA,KICKOFF
-3,494,1,07:45,,10,1,16,IND 42,0,IND,
-3,401,1,09:11,,10,1,5,IND 25,0,IND,PENALTY
-3,449,1,09:05,,10,1,7,IND 30,0,IND,
-3,470,2,08:28,,8,1,17,IND 32,0,IND,
-3,551,3,06:53,,11,1,38,IND 41,0,IND,
-3,592,0,06:01,,0,1,75,MIA 15,0,IND,XPM
-3,575,1,06:13,,10,1,75,MIA 37,1,IND,TD
-17,3527,3,02:59,,9,4,17,IND 45,0,IND,
-17,3510,0,03:02,,0,4,25,,0,,TIMEOUT
-17,3370,1,04:22,,10,4,14,IND 34,0,IND,
-17,3302,0,05:17,,0,4,0,MIA 35,0,MIA,KICKOFF
-17,3392,2,04:07,,10,4,19,IND 34,0,IND,PENALTY
-17,3349,1,04:59,,5,4,14,IND 25,0,IND,
-17,3486,2,03:07,,11,4,25,IND 43,0,IND,
-17,3317,1,05:17,,10,4,5,IND 20,0,IND,PENALTY
-17,3448,0,03:12,,0,4,24,,0,,TIMEOUT
-17,3538,0,03:07,,0,4,17,,0,,TIMEOUT
-17,3424,2,04:03,,5,4,24,IND 39,0,IND,
-17,3552,4,02:56,,17,4,17,IND 37,0,IND,PUNT
-17,3465,1,03:12,,10,4,23,IND 44,0,IND,
-4,813,1,01:44,,3,1,74,IND 3,0,MIA,
-4,789,3,02:22,,3,1,77,IND 11,0,MIA,
-4,707,3,04:00,,20,1,62,IND 41,0,MIA,PENALTY
-4,856,3,00:59,,6,1,74,IND 6,0,MIA,INT
-4,664,1,05:19,,10,1,74,IND 31,0,MIA,
-4,688,2,04:40,,12,1,39,IND 33,0,MIA,
-4,834,2,01:09,,6,1,74,IND 6,0,MIA,
-4,768,2,02:59,,6,1,69,IND 14,0,MIA,
-4,608,0,06:01,,0,1,0,IND 35,0,IND,KICKOFF
-4,640,1,06:01,,10,1,49,MIA 20,0,MIA,
-4,747,1,03:35,,10,1,66,IND 18,0,MIA,
-2,318,1,10:40,,10,1,1,MIA 4,0,MIA,
-2,339,2,10:11,,9,1,4,MIA 5,0,MIA,
-2,360,3,09:25,,6,1,-4,MIA 8,1,MIA,SAF
-1,58,1,14:55,,10,1,0,IND 16,0,IND,
-1,298,4,10:49,,4,1,40,MIA 44,0,IND,PUNT
-1,196,1,12:02,,5,1,34,IND 45,0,IND,PENALTY
-1,276,3,10:54,,4,1,40,MIA 44,0,IND,
-1,229,1,11:57,,10,1,39,50,0,IND,
-1,149,3,12:56,,6,1,24,IND 32,0,IND,
-1,125,2,13:38,,10,1,16,IND 28,0,IND,
-1,80,2,14:51,,10,1,12,IND 16,0,IND,
-1,250,2,11:23,,5,1,40,MIA 45,0,IND,
-1,104,1,14:17,,10,1,12,IND 28,0,IND,
-1,173,1,12:23,,10,1,29,IND 40,0,IND,PENALTY
-1,36,0,15:00,,0,1,0,MIA 35,0,MIA,KICKOFF
-5,937,3,00:12,,3,1,7,IND 27,0,IND,
-5,959,4,00:07,,3,1,7,IND 27,0,IND,PUNT
-5,900,2,00:55,,10,1,7,IND 20,0,IND,
-5,878,1,00:55,,10,1,0,IND 20,0,IND,
-13,2644,2,01:26,,4,3,14,IND 42,0,IND,
-13,2556,1,03:43,,5,3,5,IND 30,0,IND,
-13,2533,1,03:43,,10,3,5,IND 25,0,IND,PENALTY
-13,2578,2,03:39,,5,3,8,IND 30,0,IND,
-13,2599,3,02:56,,2,3,11,IND 33,0,IND,
-13,2687,4,00:36,,7,3,14,IND 39,0,IND,PUNT
-13,2623,1,02:07,,10,3,17,IND 36,0,IND,
-13,2511,0,03:50,,0,3,0,MIA 35,0,MIA,KICKOFF
-13,2665,3,00:46,,7,3,14,IND 39,0,IND,
-15,2912,2,11:35,,4,4,28,MIA 26,0,IND,PENALTY
-15,3030,3,09:04,,13,4,39,MIA 23,0,IND,
-15,2864,1,12:51,,10,4,27,MIA 48,0,IND,
-15,2980,1,09:59,,10,4,36,MIA 20,0,IND,
-15,2956,3,10:38,,13,4,39,MIA 35,0,IND,
-15,2819,1,14:01,,10,4,-2,IND 41,0,IND,
-15,3051,4,08:33,,10,4,39,MIA 20,1,IND,FG
-15,2888,1,12:14,,10,4,33,MIA 32,0,IND,
-15,3001,2,09:13,,13,4,36,MIA 23,0,IND,
-15,2935,2,11:20,,9,4,24,MIA 31,0,IND,
-15,2840,2,13:19,,12,4,11,IND 39,0,IND,
+11,2136,4,10:42,"(10:42) (Punt formation) P.McAfee punts 51 yards to MIA 12, Center-M.Overton. J.Landry MUFFS catch, recovered by MIA-Bo.McCain at MIA 8. Bo.McCain to MIA 8 for no gain (S.Moore). PENALTY on IND-M.Overton, Offensive Holding, 10 yards, enforced at IND 37 - No Play.",6,3,6,IND 37,0,IND,PENALTY
+11,2054,1,12:09,(12:09) F.Gore left tackle to IND 35 for 2 yards (R.Jones; N.Suh). MIA-J.Phillips was injured during the play. His return is Questionable.,10,3,14,IND 33,0,IND,
+11,2078,2,11:32,(11:32) F.Gore up the middle to IND 37 for 2 yards (N.Hewitt; D.Shelby).,8,3,16,IND 35,0,IND,
+11,2176,4,10:31,"(10:31) (Punt formation) P.McAfee punts 52 yards to MIA 21, Center-M.Overton, fair catch by J.Landry.",16,3,6,IND 27,0,IND,PUNT
+11,2007,1,12:48,(12:48) C.Whitehurst pass short right to P.Dorsett ran ob at IND 28 for 7 yards.,10,3,7,IND 21,0,IND,
+11,2031,2,12:14,"(12:14) PENALTY on MIA-J.Phillips, Neutral Zone Infraction, 5 yards, enforced at IND 28 - No Play.",3,3,12,IND 28,0,IND,PENALTY
+11,2114,3,10:48,(10:48) (Shotgun) C.Whitehurst pass incomplete short middle to T.Hilton (Br.McCain).,6,3,16,IND 37,0,IND,
+10,1858,1,15:00,"(15:00) L.Miller right end to MIA 19 for -1 yards (D.Jackson, R.Mathis).",10,3,-1,MIA 20,0,MIA,
+10,1843,0,15:00,"P.McAfee kicks 65 yards from IND 35 to end zone, Touchback.",0,3,0,IND 35,0,IND,KICKOFF
+10,1946,3,13:12,(13:12) (Shotgun) R.Tannehill pass incomplete short right to J.Landry. MIA-R.Tannehill was injured during the play. His return is Probable.,14,3,9,MIA 29,0,MIA,
+10,1971,4,13:01,"(13:01) (Punt formation) M.Darr punts 59 yards to IND 12, Center-J.Denney. Q.Bray to IND 31 for 19 yards (J.Johnson). PENALTY on IND-A.Davis, Offensive Holding, 10 yards, enforced at IND 31.",14,3,9,MIA 29,0,MIA,PUNT
+10,1925,2,13:48,(13:48) L.Miller left guard to MIA 29 for -4 yards (Z.Kerr).,10,3,9,MIA 33,0,MIA,
+10,1903,1,13:52,(13:52) (Shotgun) R.Tannehill pass incomplete short middle to D.Parker (Z.Kerr).,10,3,13,MIA 33,0,MIA,
+10,1879,2,14:28,(14:28) R.Tannehill pass short left to L.Miller to MIA 33 for 14 yards (D.Jackson).,11,3,13,MIA 19,0,MIA,
+13,2623,1,02:07,(2:07) F.Gore left end to IND 42 for 6 yards (K.Sheppard).,10,3,17,IND 36,0,IND,
+13,2556,1,03:43,(3:43) C.Whitehurst pass incomplete deep left to A.Johnson (Br.McCain).,5,3,5,IND 30,0,IND,
+13,2578,2,03:39,(3:39) F.Gore right tackle to IND 33 for 3 yards (B.Grimes).,5,3,8,IND 30,0,IND,
+13,2644,2,01:26,(1:26) F.Gore up the middle to IND 39 for -3 yards (R.Jones).,4,3,14,IND 42,0,IND,
+13,2599,3,02:56,(2:56) (Shotgun) C.Whitehurst pass short right to C.Fleener to IND 36 for 3 yards (S.Gary).,2,3,11,IND 33,0,IND,
+13,2665,3,00:46,(:46) (Shotgun) C.Whitehurst pass incomplete deep right to C.Fleener (R.Jones).,7,3,14,IND 39,0,IND,
+13,2533,1,03:43,"(3:43) PENALTY on MIA-N.Suh, Encroachment, 5 yards, enforced at IND 25 - No Play.",10,3,5,IND 25,0,IND,PENALTY
+13,2687,4,00:36,"(:36) (Punt formation) P.McAfee punts 38 yards to MIA 23, Center-M.Overton, fair catch by J.Landry.",7,3,14,IND 39,0,IND,PUNT
+13,2511,0,03:50,M.Darr kicks 66 yards from MIA 35 to IND -1. Q.Bray to IND 25 for 26 yards (J.Johnson; S.Paysinger).,0,3,0,MIA 35,0,MIA,KICKOFF
+12,2238,3,09:45,(9:45) (Shotgun) R.Tannehill pass short right to D.Parker to MIA 46 for 20 yards (D.Lowery).,5,3,25,MIA 26,0,MIA,
+12,2328,1,07:21,(7:21) R.Tannehill pass short left to L.Miller to IND 31 for 6 yards (D.Jackson).,10,3,48,IND 37,0,MIA,
+12,2446,2,04:41,(4:41) (Shotgun) R.Tannehill pass incomplete short left to D.Parker.,13,3,53,IND 26,0,MIA,
+12,2216,2,09:48,(9:48) R.Tannehill pass incomplete deep middle to D.Parker.,5,3,5,MIA 26,0,MIA,
+12,2283,2,08:44,(8:44) L.Miller up the middle to IND 45 for 2 yards (Z.Kerr).,3,3,34,IND 47,0,MIA,
+12,2468,3,04:36,(4:36) (Shotgun) R.Tannehill pass short right to J.Cameron to IND 15 for 11 yards (C.Geathers).,13,3,64,IND 26,0,MIA,
+12,2304,3,08:00,(8:00) (Shotgun) R.Tannehill pass short right to D.Sims to IND 37 for 8 yards (M.Adams).,1,3,42,IND 45,0,MIA,
+12,2492,4,03:53,"(3:53) (Field Goal formation) A.Franks 33 yard field goal is GOOD, Center-J.Denney, Holder-M.Darr.",2,3,64,IND 15,1,MIA,FG
+12,2352,2,06:37,(6:37) L.Miller right guard to IND 29 for 2 yards (K.Langford).,4,3,50,IND 31,0,MIA,
+12,2394,1,05:26,(5:26) J.Ajayi right tackle to IND 16 for 7 yards (Z.Kerr).,10,3,63,IND 23,0,MIA,
+12,2415,2,04:50,"(4:50) R.Tannehill pass short right to J.Cameron for 16 yards, TOUCHDOWN NULLIFIED by Penalty [S.Moore]. PENALTY on MIA-J.Landry, Offensive Pass Interference, 10 yards, enforced at IND 16 - No Play.",3,3,53,IND 16,0,MIA,PENALTY
+12,2195,1,10:24,"(10:24) L.Miller right tackle to MIA 26 for 5 yards (D.Jackson, D.Parry).",10,3,5,MIA 21,0,MIA,
+12,2262,1,09:19,(9:19) L.Miller up the middle to IND 47 for 7 yards (M.Adams).,10,3,32,MIA 46,0,MIA,
+12,2373,3,06:04,(6:04) (Shotgun) L.Miller right guard to IND 23 for 6 yards (D.Parry).,2,3,56,IND 29,0,MIA,
+15,2912,2,11:35,"(11:35) PENALTY on IND-K.Holmes, False Start, 5 yards, enforced at MIA 26 - No Play.",4,4,28,MIA 26,0,IND,PENALTY
+15,2980,1,09:59,(9:59) F.Gore up the middle to MIA 23 for -3 yards (O.Vernon).,10,4,36,MIA 20,0,IND,
+15,2864,1,12:51,(12:51) (Shotgun) C.Whitehurst pass short middle to A.Johnson to MIA 32 for 16 yards (S.Gary).,10,4,27,MIA 48,0,IND,
+15,3030,3,09:04,(9:04) D.Herron left end pushed ob at MIA 20 for 3 yards (N.Hewitt).,13,4,39,MIA 23,0,IND,
+15,2888,1,12:14,(12:14) (Shotgun) C.Whitehurst pass short right to F.Gore to MIA 26 for 6 yards (R.Jones).,10,4,33,MIA 32,0,IND,
+15,2935,2,11:20,(11:20) (Shotgun) D.Herron up the middle to MIA 35 for -4 yards (O.Vernon).,9,4,24,MIA 31,0,IND,
+15,2819,1,14:01,(14:01) F.Gore left tackle to IND 39 for -2 yards (Z.Vigil).,10,4,-2,IND 41,0,IND,
+15,2840,2,13:19,(13:19) (Shotgun) C.Whitehurst pass short right to T.Hilton ran ob at MIA 48 for 13 yards (B.Grimes).,12,4,11,IND 39,0,IND,
+15,3001,2,09:13,(9:13) (Shotgun) C.Whitehurst pass incomplete short left to F.Gore (N.Hewitt).,13,4,36,MIA 23,0,IND,
+15,2956,3,10:38,(10:38) (Shotgun) C.Whitehurst pass short left to T.Hilton to MIA 20 for 15 yards (Br.McCain).,13,4,39,MIA 35,0,IND,
+15,3051,4,08:33,"(8:33) (Field Goal formation) A.Vinatieri 38 yard field goal is GOOD, Center-M.Overton, Holder-P.McAfee.",10,4,39,MIA 20,1,IND,FG
+14,2770,3,14:55,(14:55) (Shotgun) R.Tannehill pass short left to Da.Williams to MIA 21 for 3 yards (J.Freeman).,15,4,-2,MIA 18,0,MIA,
+14,2748,2,15:00,(15:00) (Shotgun) R.Tannehill pass incomplete short left to D.Parker.,15,4,-5,MIA 18,0,MIA,
+14,2706,1,00:29,(:29) J.Ajayi left end pushed ob at MIA 18 for -5 yards (J.Freeman).,10,3,-5,MIA 23,0,MIA,
+14,2794,4,14:23,"(14:23) (Punt formation) M.Darr punts 54 yards to IND 25, Center-J.Denney. Q.Bray to IND 41 for 16 yards (M.Thomas; S.Paysinger).",12,4,-2,MIA 21,0,MIA,PUNT
+17,3465,1,03:12,(3:12) F.Gore left tackle to IND 43 for -1 yards (K.Sheppard).,10,4,23,IND 44,0,IND,
+17,3392,2,04:07,"(4:07) F.Gore left tackle to IND 27 for -7 yards (N.Suh). PENALTY on MIA-O.Vernon, Defensive Offside, 5 yards, enforced at IND 34 - No Play.",10,4,19,IND 34,0,IND,PENALTY
+17,3448,0,03:12,Timeout #1 by IND at 03:12.,0,4,24,,0,,TIMEOUT
+17,3510,0,03:02,Timeout #1 by MIA at 03:02.,0,4,25,,0,,TIMEOUT
+17,3424,2,04:03,(4:03) C.Whitehurst pass short middle to J.Doyle to IND 44 for 5 yards (D.Shelby) [N.Suh].,5,4,24,IND 39,0,IND,
+17,3527,3,02:59,(2:59) (Shotgun) C.Whitehurst sacked at IND 37 for -8 yards (D.Moore).,9,4,17,IND 45,0,IND,
+17,3349,1,04:59,(4:59) F.Gore right tackle to IND 34 for 9 yards (T.Lippett).,5,4,14,IND 25,0,IND,
+17,3538,0,03:07,Timeout #1 by MIA at 03:07.,0,4,17,,0,,TIMEOUT
+17,3486,2,03:07,(3:07) C.Whitehurst pass short right to J.Doyle to IND 45 for 2 yards (K.Sheppard).,11,4,25,IND 43,0,IND,
+17,3370,1,04:22,(4:22) (Shotgun) C.Whitehurst pass incomplete short middle to A.Johnson [O.Vernon].,10,4,14,IND 34,0,IND,
+17,3302,0,05:17,"M.Darr kicks 65 yards from MIA 35 to end zone, Touchback.",0,4,0,MIA 35,0,MIA,KICKOFF
+17,3317,1,05:17,"(5:17) F.Gore left tackle to IND 19 for -1 yards (N.Suh). PENALTY on MIA-D.Shelby, Defensive Offside, 5 yards, enforced at IND 20 - No Play.",10,4,5,IND 20,0,IND,PENALTY
+17,3552,4,02:56,"(2:56) (Punt formation) P.McAfee punts 63 yards to end zone, Center-M.Overton, Touchback.",17,4,17,IND 37,0,IND,PUNT
+16,3215,1,06:23,"(6:23) (No Huddle, Shotgun) R.Tannehill pass incomplete short middle to L.Miller (K.Langford).",9,4,71,IND 9,0,MIA,
+16,3109,1,08:06,"(8:06) (No Huddle, Shotgun) R.Tannehill pass short right to K.Stills to MIA 43 for 9 yards (G.Toler).",10,4,23,MIA 34,0,MIA,
+16,3259,3,06:08,(6:08) (Shotgun) R.Tannehill pass short left to Da.Williams to IND 2 for 7 yards (V.Davis; D.Lowery).,9,4,78,IND 9,0,MIA,
+16,3283,4,05:22,"(5:22) (Field Goal formation) A.Franks 20 yard field goal is GOOD, Center-J.Denney, Holder-M.Darr.",2,4,78,IND 2,1,MIA,FG
+16,3133,2,07:33,(7:33) R.Tannehill pass short right to K.Stills pushed ob at 50 for 7 yards (M.Adams).,1,4,30,MIA 43,0,MIA,
+16,3070,0,08:30,"P.McAfee kicks 65 yards from IND 35 to end zone, Touchback.",0,4,0,IND 35,0,IND,KICKOFF
+16,3191,1,06:56,"(6:56) (No Huddle, Shotgun) R.Tannehill pass deep left to J.Landry to IND 9 for 26 yards (D.Butler).",10,4,71,IND 35,0,MIA,
+16,3085,1,08:30,(8:30) (Shotgun) R.Tannehill pass short right to J.Landry pushed ob at MIA 34 for 14 yards (D.Butler).,10,4,14,MIA 20,0,MIA,
+16,3162,1,07:17,"(7:17) (No Huddle, Shotgun) R.Tannehill pass short left to J.Landry pushed ob at IND 35 for 15 yards (D.Butler).",10,4,45,50,0,MIA,
+16,3237,2,06:12,(6:12) (Shotgun) R.Tannehill pass incomplete short right to J.Landry.,9,4,71,IND 9,0,MIA,
+19,3915,0,00:00,END GAME,0,4,-1,,0,,
+19,3894,1,00:23,(:23) C.Whitehurst kneels to IND 13 for -1 yards.,10,4,-1,IND 14,0,IND,
+18,3836,3,00:30,(:30) (Shotgun) R.Tannehill pass incomplete short middle to J.Landry (D.Butler).,5,4,75,IND 5,0,MIA,
+18,3613,3,02:03,"(2:03) (No Huddle, Shotgun) R.Tannehill pass incomplete deep left to J.Cameron. PENALTY on IND-E.Walden, Roughing the Passer, 15 yards, enforced at MIA 20 - No Play.",10,4,15,MIA 20,0,MIA,PENALTY
+18,3814,2,00:35,(:35) (Shotgun) R.Tannehill pass incomplete short middle to M.Hazel (D.Jackson).,5,4,75,IND 5,0,MIA,
+18,3663,1,01:56,(1:56) (Shotgun) R.Tannehill scrambles right guard to IND 37 for 28 yards (J.Freeman).,10,4,43,MIA 35,0,MIA,
+18,3751,0,00:47,Timeout #3 by MIA at 00:47.,0,4,56,,0,,TIMEOUT
+18,3589,2,02:25,"(2:25) (No Huddle, Shotgun) R.Tannehill pass short middle to J.Landry to MIA 20 for 9 yards (J.Brown).",19,4,0,MIA 11,0,MIA,
+18,3570,1,02:48,(2:48) (Shotgun) R.Tannehill sacked at MIA 11 for -9 yards (T.McGill).,10,4,-9,MIA 20,0,MIA,
+18,3684,1,01:28,"(1:28) (No Huddle, Shotgun) R.Tannehill pass short middle to L.Miller ran ob at IND 30 for 7 yards (J.Freeman).",10,4,50,IND 37,0,MIA,
+18,3768,2,00:47,(:47) (Shotgun) R.Tannehill pass short left to J.Landry pushed ob at IND 5 for 19 yards (V.Davis).,18,4,75,IND 24,0,MIA,
+18,3708,2,01:22,(1:22) (Shotgun) R.Tannehill pass short right to J.Landry to IND 16 for 14 yards (M.Adams).,3,4,64,IND 30,0,MIA,
+18,3646,0,01:56,Two-Minute Warning,0,4,15,,0,,
+18,3792,1,00:40,(:40) (Shotgun) R.Tannehill pass incomplete short right to J.Landry.,5,4,75,IND 5,0,MIA,
+18,3732,1,00:53,"(:53) (No Huddle, Shotgun) R.Tannehill sacked at IND 24 for -8 yards (K.Langford).",10,4,56,IND 16,0,MIA,
+18,3858,0,00:27,Timeout #2 by IND at 00:27.,0,4,75,,0,,TIMEOUT
+18,3875,4,00:27,(:27) (Shotgun) R.Tannehill sacked at IND 14 for -9 yards (R.Mathis).,5,4,66,IND 5,0,MIA,
+1,298,4,10:49,"(10:49) (Punt formation) P.McAfee punts 40 yards to MIA 4, Center-M.Overton, downed by IND-J.Brown.",4,1,40,MIA 44,0,IND,PUNT
+1,58,1,14:55,(14:55) (Shotgun) M.Hasselbeck pass incomplete short middle to T.Hilton.,10,1,0,IND 16,0,IND,
+1,196,1,12:02,"(12:02) (Shotgun) M.Hasselbeck pass incomplete short middle to D.Allen (N.Suh). PENALTY on MIA-K.Sheppard, Illegal Contact, 5 yards, enforced at IND 45 - No Play.",5,1,34,IND 45,0,IND,PENALTY
+1,36,0,15:00,A.Franks kicks 68 yards from MIA 35 to IND -3. Q.Bray to IND 16 for 19 yards (S.Paysinger).,0,1,0,MIA 35,0,MIA,KICKOFF
+1,149,3,12:56,(12:56) (Shotgun) M.Hasselbeck pass short right to T.Hilton to IND 40 for 8 yards (R.Jones).,6,1,24,IND 32,0,IND,
+1,125,2,13:38,(13:38) M.Hasselbeck pass short middle to F.Gore to IND 32 for 4 yards (Z.Vigil).,10,1,16,IND 28,0,IND,
+1,229,1,11:57,(11:57) F.Gore up the middle to MIA 45 for 5 yards (J.Jenkins).,10,1,39,50,0,IND,
+1,276,3,10:54,(10:54) (Shotgun) M.Hasselbeck pass incomplete short left to P.Dorsett.,4,1,40,MIA 44,0,IND,
+1,80,2,14:51,(14:51) M.Hasselbeck pass short right to A.Johnson to IND 28 for 12 yards (Z.Vigil).,10,1,12,IND 16,0,IND,
+1,173,1,12:23,"(12:23) (Shotgun) PENALTY on MIA, Defensive 12 On-field, 5 yards, enforced at IND 40 - No Play.",10,1,29,IND 40,0,IND,PENALTY
+1,250,2,11:23,(11:23) (Shotgun) F.Gore left end pushed ob at MIA 44 for 1 yard (Br.McCain).,5,1,40,MIA 45,0,IND,
+1,104,1,14:17,(14:17) F.Gore left tackle to IND 28 for no gain (K.Sheppard; R.Jones).,10,1,12,IND 28,0,IND,
+3,449,1,09:05,(9:05) P.Dorsett left end pushed ob at IND 32 for 2 yards (T.Lippett).,10,1,7,IND 30,0,IND,
+3,592,0,06:01,"A.Vinatieri extra point is No Good, Wide Right, Center-M.Overton, Holder-P.McAfee.",0,1,75,MIA 15,0,IND,XPM
+3,522,2,06:56,(6:56) (Shotgun) M.Hasselbeck pass incomplete short middle to C.Fleener.,11,1,16,IND 41,0,IND,
+3,551,3,06:53,(6:53) (Shotgun) M.Hasselbeck pass short left to P.Dorsett to MIA 37 for 22 yards (T.Lippett).,11,1,38,IND 41,0,IND,
+3,575,1,06:13,"(6:13) F.Gore left guard for 37 yards, TOUCHDOWN.",10,1,75,MIA 37,1,IND,TD
+3,379,0,09:16,M.Darr kicks 68 yards from MIA 20 to IND 12. Q.Bray to IND 25 for 13 yards (N.Hewitt).,0,1,0,MIA 20,0,MIA,KICKOFF
+3,470,2,08:28,(8:28) (Shotgun) M.Hasselbeck pass short right to C.Fleener to IND 42 for 10 yards (K.Sheppard).,8,1,17,IND 32,0,IND,
+3,401,1,09:11,"(9:11) (Shotgun) M.Hasselbeck pass deep right intended for T.Hilton INTERCEPTED by B.Grimes at IND 46. B.Grimes to IND 46 for no gain. PENALTY on MIA-B.Grimes, Defensive Holding, 5 yards, enforced at IND 25 - No Play.",10,1,5,IND 25,0,IND,PENALTY
+3,494,1,07:45,(7:45) M.Hasselbeck sacked at IND 41 for -1 yards (N.Suh).,10,1,16,IND 42,0,IND,
+2,318,1,10:40,(10:40) L.Miller left tackle to MIA 5 for 1 yard (D.Parry).,10,1,1,MIA 4,0,MIA,
+2,339,2,10:11,(10:11) L.Miller left end to MIA 8 for 3 yards (V.Davis).,9,1,4,MIA 5,0,MIA,
+2,360,3,09:25,"(9:25) (Shotgun) R.Tannehill sacked in End Zone for -8 yards, SAFETY (T.McGill).",6,1,-4,MIA 8,1,MIA,SAF
+5,959,4,00:07,"(:07) P.McAfee punts 62 yards to MIA 11, Center-M.Overton. J.Landry to MIA 26 for 15 yards (C.Geathers). PENALTY on IND-S.Moore, Ineligible Downfield Kick, 5 yards, enforced at MIA 26.",3,1,7,IND 27,0,IND,PUNT
+5,900,2,00:55,(:55) M.Hasselbeck pass short left to D.Moncrief to IND 27 for 7 yards (T.Lippett).,10,1,7,IND 20,0,IND,
+5,937,3,00:12,(:12) (Shotgun) M.Hasselbeck pass incomplete short right to T.Hilton.,3,1,7,IND 27,0,IND,
+5,878,1,00:55,(:55) (Shotgun) M.Hasselbeck pass incomplete short right to F.Gore (D.Shelby).,10,1,0,IND 20,0,IND,
+4,768,2,02:59,(2:59) L.Miller left guard to IND 11 for 3 yards (T.Cole).,6,1,69,IND 14,0,MIA,
+4,707,3,04:00,"(4:00) (Shotgun) R.Tannehill pass short right to L.Miller pushed ob at IND 33 for 8 yards (J.Freeman). PENALTY on IND-J.Freeman, Face Mask (15 Yards), 15 yards, enforced at IND 33.",20,1,62,IND 41,0,MIA,PENALTY
+4,834,2,01:09,(1:09) (Shotgun) R.Tannehill pass incomplete short right to D.Parker.,6,1,74,IND 6,0,MIA,
+4,747,1,03:35,(3:35) L.Miller left tackle to IND 14 for 4 yards (J.Freeman; Z.Kerr).,10,1,66,IND 18,0,MIA,
+4,664,1,05:19,(5:19) (Shotgun) R.Tannehill pass short right to K.Stills to IND 33 for -2 yards (V.Davis).,10,1,74,IND 31,0,MIA,
+4,608,0,06:01,"P.McAfee kicks 65 yards from IND 35 to end zone, Touchback.",0,1,0,IND 35,0,IND,KICKOFF
+4,789,3,02:22,(2:22) (Shotgun) R.Tannehill pass short middle to J.Cameron to IND 3 for 8 yards (C.Geathers).,3,1,77,IND 11,0,MIA,
+4,640,1,06:01,(6:01) R.Tannehill pass deep left to D.Parker to IND 31 for 49 yards (G.Toler).,10,1,49,MIA 20,0,MIA,
+4,688,2,04:40,(4:40) (Shotgun) R.Tannehill sacked at IND 41 for -8 yards (K.Langford).,12,1,39,IND 33,0,MIA,
+4,813,1,01:44,(1:44) L.Miller left end to IND 6 for -3 yards (K.Langford; E.Walden).,3,1,74,IND 3,0,MIA,
+4,856,3,00:59,(:59) R.Tannehill pass short right intended for D.Parker INTERCEPTED by V.Davis [D.Jackson] at IND -9. Touchback.,6,1,74,IND 6,0,MIA,INT
+7,1326,1,08:07,(8:07) F.Gore left tackle to IND 38 for 18 yards (R.Jones; N.Suh).,10,2,18,IND 20,0,IND,
+7,1311,0,08:07,"M.Darr kicks 65 yards from MIA 35 to end zone, Touchback.",0,2,0,MIA 35,0,MIA,KICKOFF
+7,1526,0,04:42,"A.Vinatieri extra point is GOOD, Center-M.Overton, Holder-P.McAfee.",0,2,80,MIA 15,1,IND,XP
+7,1438,2,05:38,(5:38) M.Hasselbeck pass incomplete short right to J.Doyle. IND-M.Hasselbeck was injured during the play. He is Out.,10,2,80,MIA 22,0,IND,
+7,1347,1,07:41,(7:41) (No Huddle) M.Hasselbeck pass short middle to D.Moncrief to IND 46 for 8 yards (T.Lippett).,10,2,26,IND 38,0,IND,
+7,1371,2,07:11,(7:11) D.Herron right tackle to 50 for 4 yards (J.Phillips).,2,2,30,IND 46,0,IND,
+7,1481,3,05:33,(5:33) (Shotgun) C.Whitehurst pass short left to A.Johnson to MIA 11 for 11 yards (Br.McCain).,10,2,69,MIA 22,0,IND,
+7,1509,1,04:49,"(4:49) F.Gore left tackle for 11 yards, TOUCHDOWN.",10,2,80,MIA 11,1,IND,TD
+7,1392,1,06:30,(6:30) M.Hasselbeck pass deep middle to T.Hilton to MIA 22 for 28 yards (M.Thomas).,10,2,58,50,0,IND,
+7,1416,1,05:48,(5:48) M.Hasselbeck pass incomplete short right to D.Allen [J.Phillips].,10,2,58,MIA 22,0,IND,
+6,1297,0,08:07,TWO-POINT CONVERSION ATTEMPT. R.Tannehill pass to D.Parker is incomplete. ATTEMPT FAILS.,0,2,69,IND 2,0,MIA,2PPF
+6,1083,1,13:42,(13:42) J.Ajayi right end to IND 49 for 4 yards (J.Freeman).,10,2,20,MIA 47,0,MIA,
+6,1172,1,11:31,(11:31) R.Tannehill pass short middle to J.Cameron to IND 14 for 15 yards (D.Lowery).,10,2,55,IND 29,0,MIA,
+6,1059,2,14:22,(14:22) (Shotgun) R.Tannehill pass short middle to J.Landry to MIA 47 for 14 yards (R.Mathis).,8,2,16,MIA 33,0,MIA,
+6,1148,3,12:14,(12:14) (Shotgun) R.Tannehill pass deep middle to Da.Williams to IND 29 for 23 yards (D.Jackson).,9,2,40,MIA 48,0,MIA,
+6,1280,3,08:15,"(8:15) (Shotgun) L.Miller up the middle for 1 yard, TOUCHDOWN.",1,2,69,IND 1,1,MIA,TD
+6,1238,1,09:37,(9:37) (Shotgun) J.Ajayi left guard to IND 2 for -1 yards (J.Freeman; D.Jackson).,1,2,67,IND 1,0,MIA,
+6,1104,2,13:11,"(13:11) PENALTY on MIA, False Start, 5 yards, enforced at IND 49 - No Play.",6,2,15,IND 49,0,MIA,PENALTY
+6,1127,2,12:53,(12:53) J.Ajayi right guard to MIA 48 for 2 yards (Z.Kerr).,11,2,17,MIA 46,0,MIA,
+6,1038,1,15:00,(15:00) J.Ajayi right tackle to MIA 33 for 2 yards (D.Parry; D.Lowery).,10,2,2,MIA 31,0,MIA,
+6,1196,1,10:54,(10:54) J.Ajayi left tackle to IND 11 for 3 yards (K.Langford).,10,2,58,IND 14,0,MIA,
+6,1259,2,09:01,(9:01) J.Ajayi up the middle to IND 1 for 1 yard (J.Freeman; D.Parry).,2,2,68,IND 2,0,MIA,
+6,1217,2,10:17,"(10:17) (Shotgun) J.Ajayi up the middle to IND 1 for 10 yards (J.Newsome, D.Lowery).",7,2,68,IND 11,0,MIA,
+9,1789,0,00:12,Timeout #2 by MIA at 00:12.,0,2,7,,0,,TIMEOUT
+9,1768,2,00:40,(:40) D.Herron up the middle to IND 21 for 2 yards (D.Moore).,5,2,7,IND 19,0,IND,
+9,1747,1,01:08,(1:08) D.Herron right tackle to IND 19 for 5 yards (S.Gary).,10,2,5,IND 14,0,IND,
+9,1806,3,00:12,"(:12) D.Herron up the middle to IND 25 for 4 yards (N.Hewitt, K.Sheppard).",3,2,11,IND 21,0,IND,
+8,1728,4,01:16,"(1:16) (Punt formation) M.Darr punts 44 yards to IND 14, Center-J.Denney, out of bounds.",13,2,22,MIA 42,0,MIA,PUNT
+8,1647,2,02:13,(2:13) R.Tannehill pass short right to L.Miller to 50 for 1 yard (J.Freeman).,6,2,30,MIA 49,0,MIA,
+8,1602,2,03:32,(3:32) (Shotgun) R.Tannehill pass short middle to D.Parker to MIA 45 for 9 yards (V.Davis).,9,2,30,MIA 36,0,MIA,
+8,1542,0,04:42,"P.McAfee kicks 65 yards from IND 35 to end zone, Touchback.",0,2,0,IND 35,0,IND,KICKOFF
+8,1626,1,02:52,(2:52) L.Miller right tackle to MIA 49 for 4 yards (D.Jackson).,10,2,29,MIA 45,0,MIA,
+8,1557,1,04:42,(4:42) R.Tannehill pass short middle to D.Parker to MIA 35 for 15 yards (M.Adams).,10,2,15,MIA 20,0,MIA,
+8,1707,0,01:16,Timeout #1 by MIA at 01:16.,0,2,22,,0,,TIMEOUT
+8,1581,1,04:09,(4:09) L.Miller left end to MIA 36 for 1 yard (E.Okine).,10,2,16,MIA 35,0,MIA,
+8,1688,3,02:00,(2:00) (Shotgun) R.Tannehill sacked at MIA 42 for -8 yards (R.Mathis).,5,2,22,50,0,MIA,

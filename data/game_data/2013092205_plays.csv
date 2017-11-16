@@ -1,218 +1,218 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1389,2,09:23,,10,2,12,NYJ 20,0,NYJ,
-9,1479,2,07:06,,5,2,80,NYJ 49,1,NYJ,TD
-9,1413,1,08:47,,10,2,12,NYJ 31,0,NYJ,
-9,1499,0,06:58,,0,2,80,BUF 2,1,NYJ,XP
-9,1458,1,07:42,,10,2,29,NYJ 44,0,NYJ,
-9,1368,1,09:57,,10,2,0,NYJ 20,0,NYJ,
-9,1434,2,08:12,,9,2,24,NYJ 32,0,NYJ,
-9,1352,0,09:57,,0,2,0,BUF 35,0,BUF,KICKOFF
-24,4326,1,08:47,,10,4,21,BUF 41,0,BUF,
-24,4393,4,07:55,,10,4,21,BUF 41,0,BUF,PUNT
-24,4261,0,09:23,,0,4,0,NYJ 35,0,NYJ,KICKOFF
-24,4348,2,08:43,,10,4,21,BUF 41,0,BUF,
-24,4371,3,08:00,,10,4,21,BUF 41,0,BUF,
-24,4280,1,09:23,,10,4,21,BUF 20,0,BUF,
-24,4302,2,09:16,,10,4,21,BUF 20,0,BUF,
-10,1682,2,04:56,,10,2,48,NYJ 41,0,BUF,
-10,1649,1,05:00,,10,2,39,NYJ 41,0,BUF,
-10,1620,2,05:22,,11,2,39,BUF 30,0,BUF,
-10,1706,3,04:26,,1,2,47,NYJ 32,0,BUF,
-10,1727,4,03:49,,2,2,44,NYJ 33,0,BUF,
-10,1599,1,05:50,,10,2,10,BUF 31,0,BUF,
-10,1576,3,05:58,,4,2,11,BUF 26,0,BUF,PENALTY
-10,1515,0,06:58,,0,2,0,NYJ 35,0,NYJ,KICKOFF
-10,1534,1,06:58,,10,2,4,BUF 20,0,BUF,
-10,1555,2,06:30,,6,2,6,BUF 24,0,BUF,
-20,3605,2,01:25,,17,3,16,NYJ 47,0,BUF,
-20,3647,4,00:43,,17,3,16,NYJ 47,0,BUF,PUNT
-20,3543,1,01:56,,10,3,16,NYJ 40,0,BUF,
-20,3519,1,02:02,,10,3,23,BUF 37,0,BUF,TIMEOUT
-20,3628,3,01:17,,17,3,16,NYJ 47,0,BUF,
-30,5335,0,,,0,4,9,,0,,
-30,5350,3,00:01,,1,4,9,BUF 10,0,BUF,
-30,5289,1,00:21,,10,4,0,BUF 1,0,BUF,
-30,5311,2,00:17,,10,4,9,BUF 1,0,BUF,
-6,1047,1,15:00,,10,2,70,NYJ 21,0,BUF,
-6,1068,2,14:27,,8,2,70,NYJ 19,0,BUF,FUMBLE
-6,1100,3,13:53,,8,2,70,NYJ 19,0,BUF,
-6,1031,0,,,0,1,68,,0,,
-6,1010,3,00:26,,1,1,68,BUF 20,0,BUF,
-6,1122,4,13:48,,8,2,70,NYJ 19,1,BUF,FG
-6,986,2,00:52,,2,1,9,BUF 19,0,BUF,
-6,960,1,01:02,,10,1,8,BUF 11,0,BUF,
-27,4878,3,03:01,,8,4,18,NYJ 28,0,NYJ,
-27,4902,0,02:54,,0,4,18,,0,,TIMEOUT
-27,4856,2,03:04,,8,4,16,NYJ 28,0,NYJ,
-27,4814,1,04:36,,10,4,14,NYJ 12,0,NYJ,
-27,4835,1,03:48,,10,4,16,NYJ 26,0,NYJ,
-27,4919,4,02:54,,6,4,18,NYJ 30,0,NYJ,PUNT
-18,3216,2,06:21,,6,3,5,NYJ 9,0,BUF,
-18,3194,1,06:50,,10,3,4,NYJ 13,0,BUF,
-18,3260,4,05:38,,5,3,5,NYJ 8,1,BUF,FG
-18,3238,3,05:38,,5,3,5,NYJ 8,0,BUF,
-28,4999,2,02:14,,6,4,8,BUF 44,0,BUF,
-28,5019,0,02:00,,0,4,8,,0,,
-28,5092,4,01:48,,7,4,15,BUF 43,0,BUF,
-28,5068,3,01:53,,24,4,15,BUF 26,0,BUF,
-28,4975,1,02:39,,10,4,8,BUF 40,0,BUF,
-28,4945,1,02:44,,10,4,8,BUF 28,0,BUF,
-28,5036,3,02:00,,14,4,-2,BUF 36,0,BUF,PENALTY
-26,4720,1,05:20,,10,4,21,NYJ 45,0,BUF,
-26,4604,3,06:09,,5,4,21,BUF 39,0,BUF,PENALTY
-26,4571,3,06:14,,10,4,5,BUF 34,0,BUF,PENALTY
-26,4790,4,04:43,,11,4,20,NYJ 46,0,BUF,PUNT
-26,4548,2,06:17,,10,4,0,BUF 34,0,BUF,
-26,4636,1,05:59,,10,4,16,BUF 44,0,BUF,
-26,4768,3,04:47,,11,4,20,NYJ 46,0,BUF,
-26,4514,1,06:19,,10,4,0,BUF 34,0,BUF,
-26,4660,2,05:30,,4,4,16,50,0,BUF,
-26,4749,2,05:15,,10,4,20,NYJ 45,0,BUF,
-26,4686,3,05:25,,4,4,21,50,0,BUF,PENALTY
-25,4483,4,06:25,,5,4,5,NYJ 23,0,NYJ,PUNT
-25,4461,3,06:30,,5,4,5,NYJ 23,0,NYJ,
-25,4440,2,07:11,,9,4,5,NYJ 19,0,NYJ,
-25,4419,1,07:47,,10,4,1,NYJ 18,0,NYJ,
-1,97,3,14:00,,7,1,48,NYJ 23,0,NYJ,
-1,76,2,14:31,,12,1,3,NYJ 18,0,NYJ,
-1,194,2,13:02,,18,1,41,BUF 40,0,NYJ,
-1,287,0,10:38,,0,1,66,,0,,TIMEOUT
-1,55,1,15:00,,10,1,-2,NYJ 20,0,NYJ,
-1,161,1,13:05,,18,1,40,BUF 40,0,NYJ,
-1,392,0,09:06,,0,1,80,BUF 2,1,NYJ,XP
-1,328,1,10:05,,7,1,80,BUF 7,0,NYJ,
-1,243,1,11:44,,10,1,80,BUF 21,0,NYJ,
-1,351,2,09:30,,3,1,80,BUF 3,0,NYJ,PENALTY
-1,264,2,11:16,,5,1,80,BUF 16,0,NYJ,
-1,126,1,13:33,,10,1,80,BUF 32,0,NYJ,PENALTY
-1,304,3,10:38,,3,1,80,BUF 14,0,NYJ,
-1,374,2,09:11,,8,1,80,BUF 8,1,NYJ,TD
-1,36,0,15:00,,0,1,0,BUF 35,0,BUF,KICKOFF
-1,215,3,12:22,,17,1,59,BUF 39,0,NYJ,
-5,940,4,01:15,,4,1,27,NYJ 47,0,NYJ,PUNT
-5,829,3,03:43,,13,1,21,NYJ 17,0,NYJ,
-5,918,3,01:19,,4,1,27,NYJ 47,0,NYJ,
-5,895,3,01:40,,9,1,27,NYJ 42,0,NYJ,PENALTY
-5,853,1,03:01,,10,1,26,NYJ 41,0,NYJ,
-5,874,2,02:18,,5,1,22,NYJ 46,0,NYJ,
-5,753,1,04:50,,10,1,7,NYJ 20,0,NYJ,
-5,807,2,03:48,,13,1,-3,NYJ 17,0,NYJ,
-5,777,2,04:11,,3,1,-3,NYJ 27,0,NYJ,PENALTY
-13,2208,0,00:05,,0,2,39,,0,,TIMEOUT
-13,2058,1,00:24,,10,2,15,NYJ 49,0,NYJ,
-13,2000,1,00:43,,10,2,5,NYJ 34,0,NYJ,PENALTY
-13,2023,1,00:43,,5,2,15,NYJ 39,0,NYJ,
-13,2258,2,00:14,,1,2,39,BUF 27,0,NYJ,
-13,2101,2,00:18,,10,2,30,NYJ 49,0,NYJ,PENALTY
-13,2225,3,00:05,,3,2,37,BUF 29,1,NYJ,FG
-13,2186,1,00:14,,10,2,39,BUF 36,0,NYJ,
-29,5184,2,01:37,,13,4,4,BUF 46,0,NYJ,
-29,5222,3,01:32,,6,4,7,BUF 39,0,NYJ,
-29,5205,0,01:32,,0,4,4,,0,,TIMEOUT
-29,5111,1,01:43,,10,4,2,BUF 43,0,NYJ,
-29,5269,4,00:30,,8,4,2,BUF 41,0,NYJ,PUNT
-29,5161,2,01:37,,8,4,-3,BUF 41,0,NYJ,PENALTY
-29,5246,4,01:32,,3,4,2,BUF 36,0,NYJ,PENALTY
-29,5144,0,01:37,,0,4,2,,0,,TIMEOUT
-21,3686,0,,,0,3,13,,0,,
-21,3723,2,14:24,,7,4,22,NYJ 36,0,NYJ,
-21,3665,1,00:35,,10,3,13,NYJ 20,0,NYJ,
-21,3747,3,13:38,,1,4,22,NYJ 42,0,NYJ,
-21,3702,1,15:00,,10,4,16,NYJ 33,0,NYJ,
-21,3770,4,13:33,,1,4,22,NYJ 42,0,NYJ,PUNT
-23,4245,0,09:23,,0,4,85,BUF 2,1,NYJ,XP
-23,4098,0,10:39,,0,4,0,BUF 35,0,BUF,KICKOFF
-23,4141,2,10:08,,9,4,21,NYJ 16,0,NYJ,PENALTY
-23,4174,1,10:00,,10,4,16,NYJ 36,0,NYJ,PENALTY
-23,4207,1,09:34,,15,4,85,NYJ 31,1,NYJ,TD
-23,4120,1,10:23,,10,4,85,NYJ 15,0,NYJ,
-11,1834,2,02:35,,10,2,16,NYJ 48,0,NYJ,
-11,2279,0,01:45,,0,2,-5,,0,,TIMEOUT
-11,1772,2,03:17,,1,2,12,NYJ 45,0,NYJ,
-11,1751,1,03:42,,10,2,9,NYJ 36,0,NYJ,
-11,1793,1,02:44,,10,2,12,NYJ 48,0,NYJ,
-11,1905,4,01:43,,27,2,-5,NYJ 31,0,NYJ,PUNT
-11,1855,0,02:00,,0,2,16,,0,,
-11,1872,3,02:00,,6,2,-5,BUF 48,0,NYJ,FUMBLE
-14,2481,4,13:44,,3,3,21,BUF 34,0,BUF,PUNT
-14,2372,3,14:09,,5,3,14,BUF 18,0,BUF,PENALTY
-14,2350,2,14:39,,5,3,5,BUF 18,0,BUF,
-14,2326,1,14:56,,10,3,5,BUF 13,0,BUF,
-14,2406,1,14:05,,10,3,14,BUF 27,0,BUF,
-14,2302,0,15:00,,0,3,5,NYJ 35,0,NYJ,KICKOFF
-14,2458,3,13:47,,3,3,21,BUF 34,0,BUF,
-14,2433,2,14:00,,10,3,21,BUF 27,0,BUF,
-8,1311,3,10:43,,6,2,16,NYJ 6,0,BUF,
-8,1248,3,12:07,,1,2,11,NYJ 12,0,BUF,
-8,1206,1,13:26,,10,2,8,NYJ 21,0,BUF,
-8,1332,4,10:00,,5,2,16,NYJ 5,1,BUF,FG
-8,1269,1,11:40,,10,2,10,NYJ 10,0,BUF,
-8,1227,2,12:51,,2,2,9,NYJ 13,0,BUF,
-8,1290,2,11:18,,11,2,15,NYJ 11,0,BUF,
-19,3324,2,04:55,,5,3,14,NYJ 20,0,NYJ,
-19,3303,1,05:28,,10,3,5,NYJ 15,0,NYJ,
-19,3348,1,04:32,,10,3,17,NYJ 29,0,NYJ,
-19,3428,2,03:26,,8,3,48,BUF 44,0,NYJ,
-19,3372,2,04:02,,7,3,39,NYJ 32,0,NYJ,PENALTY
-19,3449,3,02:55,,1,3,48,BUF 37,0,NYJ,TIMEOUT
-19,3280,0,05:35,,0,3,0,BUF 35,0,BUF,KICKOFF
-19,3406,1,03:56,,10,3,48,BUF 46,0,NYJ,
-19,3471,4,02:10,,1,3,48,BUF 37,0,NYJ,
-22,4042,1,11:55,,10,4,80,NYJ 37,0,BUF,
-22,3953,1,12:16,,10,4,80,BUF 29,0,BUF,PENALTY
-22,3920,3,12:19,,6,4,9,BUF 24,0,BUF,PENALTY
-22,4063,3,10:47,,6,4,80,NYJ 33,1,BUF,TD
-22,4501,2,11:26,,14,4,80,NYJ 41,0,BUF,
-22,4084,0,10:39,,0,4,80,NYJ 2,1,BUF,2PS
-22,3862,2,12:57,,20,4,4,BUF 10,0,BUF,
-22,3818,2,13:16,,10,4,5,BUF 20,0,BUF,PENALTY
-22,3796,1,13:22,,10,4,0,BUF 20,0,BUF,
-22,4007,1,12:08,,10,4,80,BUF 34,0,BUF,PENALTY
-22,3886,3,12:23,,6,4,4,BUF 24,0,BUF,
-12,1923,1,01:41,,10,2,-8,BUF 25,0,BUF,
-12,1942,2,01:20,,18,2,6,BUF 17,0,BUF,
-12,2034,3,01:00,,9,2,6,BUF 26,0,BUF,
-12,2179,0,00:52,,0,2,6,,0,,TIMEOUT
-12,1970,4,00:49,,4,2,6,BUF 31,0,BUF,PUNT
-16,2975,1,08:49,,10,3,55,NYJ 28,0,BUF,
-16,2890,2,09:35,,18,3,9,BUF 12,0,BUF,
-16,2859,1,09:48,,10,3,-8,BUF 20,0,BUF,
-16,2998,2,08:35,,7,3,55,NYJ 25,0,BUF,
-16,2844,0,09:48,,0,3,0,NYJ 35,0,NYJ,KICKOFF
-16,3043,4,08:22,,7,3,55,NYJ 25,1,BUF,FG
-16,3021,3,08:28,,7,3,55,NYJ 25,0,BUF,
-16,2935,1,09:01,,10,3,52,BUF 48,0,BUF,PENALTY
-16,2914,3,09:16,,1,3,28,BUF 29,0,BUF,
-7,1141,0,13:45,,0,2,0,BUF 35,0,BUF,KICKOFF
-7,1163,1,13:40,,10,2,0,NYJ 15,0,NYJ,INT
-3,601,2,06:46,,9,1,3,NYJ 13,0,NYJ,
-3,644,4,05:57,,7,1,3,NYJ 15,0,NYJ,PUNT
-3,622,3,06:04,,7,1,3,NYJ 15,0,NYJ,
-3,580,1,07:21,,10,1,1,NYJ 12,0,NYJ,
-17,3167,1,07:13,,20,3,18,NYJ 38,0,NYJ,INT
-17,3123,1,07:13,,10,3,18,NYJ 48,0,NYJ,PENALTY
-17,3101,2,07:52,,9,3,28,NYJ 21,0,NYJ,
-17,3063,0,08:18,,0,3,0,BUF 35,0,BUF,KICKOFF
-17,3079,1,08:18,,10,3,1,NYJ 20,0,NYJ,
-4,735,4,05:00,,15,1,-5,BUF 39,0,BUF,PUNT
-4,685,2,05:42,,12,1,-5,BUF 42,0,BUF,
-4,664,1,05:51,,10,1,-2,BUF 44,0,BUF,
-4,706,3,05:07,,15,1,-5,BUF 39,0,BUF,
-2,505,2,07:40,,7,1,13,BUF 33,0,BUF,
-2,444,2,08:32,,6,1,10,BUF 24,0,BUF,FUMBLE
-2,481,1,08:09,,10,1,13,BUF 30,0,BUF,
-2,549,4,07:32,,7,1,13,BUF 33,0,BUF,PUNT
-2,527,3,07:37,,7,1,13,BUF 33,0,BUF,
-2,423,1,09:06,,10,1,4,BUF 20,0,BUF,
-2,408,0,09:06,,0,1,0,NYJ 35,0,NYJ,KICKOFF
-15,2504,1,13:35,,10,3,21,NYJ 20,0,NYJ,
-15,2700,1,11:47,,10,3,49,BUF 21,0,NYJ,PENALTY
-15,2824,4,09:51,,5,3,64,BUF 16,1,NYJ,FG
-15,2756,1,11:15,,25,3,62,BUF 36,0,NYJ,
-15,2625,3,12:28,,12,3,59,NYJ 39,0,NYJ,
-15,2733,1,11:26,,20,3,44,BUF 31,0,NYJ,PENALTY
-15,2801,3,09:59,,5,3,64,BUF 16,0,NYJ,
-15,2780,2,10:38,,7,3,64,BUF 18,0,NYJ,
-15,2532,1,13:04,,10,3,11,NYJ 41,0,NYJ,PENALTY
-15,2567,1,12:52,,20,3,19,NYJ 31,0,NYJ,
-15,2589,2,12:31,,12,3,19,NYJ 39,0,NYJ,
+24,4261,0,09:23,"N.Folk kicks 65 yards from NYJ 35 to end zone, Touchback.",0,4,0,NYJ 35,0,NYJ,KICKOFF
+24,4280,1,09:23,(9:23) E.Manuel pass incomplete short left to S.Johnson [C.Pace].,10,4,21,BUF 20,0,BUF,
+24,4302,2,09:16,(9:16) (Shotgun) E.Manuel pass deep right to S.Johnson to BUF 41 for 21 yards (D.Landry).,10,4,21,BUF 20,0,BUF,
+24,4393,4,07:55,"(7:55) S.Powell punts 45 yards to NYJ 14, Center-G.Sanborn. J.Kerley pushed ob at NYJ 18 for 4 yards (M.Easley).",10,4,21,BUF 41,0,BUF,PUNT
+24,4326,1,08:47,(8:47) (Shotgun) E.Manuel pass incomplete short left to R.Woods.,10,4,21,BUF 41,0,BUF,
+24,4348,2,08:43,(8:43) (Shotgun) E.Manuel sacked at BUF 41 for 0 yards (D.Landry).,10,4,21,BUF 41,0,BUF,
+24,4371,3,08:00,(8:00) (Shotgun) E.Manuel pass incomplete deep left to R.Woods [M.Wilkerson].,10,4,21,BUF 41,0,BUF,
+25,4440,2,07:11,(7:11) (Shotgun) B.Powell right guard to NYJ 23 for 4 yards (A.Branch; A.Moats).,9,4,5,NYJ 19,0,NYJ,
+25,4483,4,06:25,"(6:25) R.Quigley punts 43 yards to BUF 34, Center-T.Purdum, fair catch by J.Leonhard.",5,4,5,NYJ 23,0,NYJ,PUNT
+25,4419,1,07:47,(7:47) B.Powell right tackle to NYJ 19 for 1 yard (M.Lawson).,10,4,1,NYJ 18,0,NYJ,
+25,4461,3,06:30,(6:30) (Shotgun) G.Smith pass incomplete short middle to J.Kerley.,5,4,5,NYJ 23,0,NYJ,
+26,4686,3,05:25,"(5:25) (Shotgun) E.Manuel pass incomplete deep left to T.Graham. PENALTY on NYJ-M.Wilkerson, Defensive Offside, 5 yards, enforced at 50 - No Play.",4,4,21,50,0,BUF,PENALTY
+26,4749,2,05:15,(5:15) (Shotgun) E.Manuel sacked at NYJ 46 for -1 yards (D.Harris).,10,4,20,NYJ 45,0,BUF,
+26,4571,3,06:14,"(6:14) (Shotgun) E.Manuel pass incomplete deep right to S.Johnson. NYJ-D.Harris was injured during the play.  PENALTY on NYJ-Q.Coples, Defensive Offside, 5 yards, enforced at BUF 34 - No Play.",10,4,5,BUF 34,0,BUF,PENALTY
+26,4660,2,05:30,(5:30) (Shotgun) E.Manuel pass incomplete short right to R.Woods [M.Wilkerson].,4,4,16,50,0,BUF,
+26,4720,1,05:20,(5:20) (Shotgun) E.Manuel pass incomplete short left to R.Woods [L.Douzable].,10,4,21,NYJ 45,0,BUF,
+26,4514,1,06:19,(6:19) (Shotgun) E.Manuel pass incomplete short left to F.Jackson.,10,4,0,BUF 34,0,BUF,
+26,4548,2,06:17,"(6:17) (No Huddle, Shotgun) E.Manuel pass incomplete short middle to S.Johnson.",10,4,0,BUF 34,0,BUF,
+26,4636,1,05:59,(5:59) (Shotgun) E.Manuel pass short left to R.Woods to 50 for 6 yards (D.Harrison).,10,4,16,BUF 44,0,BUF,
+26,4768,3,04:47,(4:47) (Shotgun) E.Manuel pass incomplete short middle to T.Choice.,11,4,20,NYJ 46,0,BUF,
+26,4604,3,06:09,"(6:09) (Shotgun) F.Jackson left end pushed ob at BUF 43 for 4 yards (N.Bellore). PENALTY on NYJ-Q.Coples, Defensive Offside, 5 yards, enforced at BUF 39 - No Play.",5,4,21,BUF 39,0,BUF,PENALTY
+26,4790,4,04:43,"(4:43) S.Powell punts 34 yards to NYJ 12, Center-G.Sanborn, fair catch by J.Kerley.",11,4,20,NYJ 46,0,BUF,PUNT
+27,4919,4,02:54,"(2:54) R.Quigley punts 43 yards to BUF 27, Center-T.Purdum. J.Leonhard to BUF 28 for 1 yard (I.Trufant).",6,4,18,NYJ 30,0,NYJ,PUNT
+27,4902,0,02:54,Timeout #1 by BUF at 02:54.,0,4,18,,0,,TIMEOUT
+27,4835,1,03:48,(3:48) B.Powell left tackle to NYJ 28 for 2 yards (K.Alonso).,10,4,16,NYJ 26,0,NYJ,
+27,4878,3,03:01,(3:01) (Shotgun) G.Smith pass short left to J.Cumberland to NYJ 30 for 2 yards (M.Lawson).,8,4,18,NYJ 28,0,NYJ,
+27,4856,2,03:04,(3:04) (Shotgun) G.Smith pass incomplete short right to S.Holmes [A.Carrington].,8,4,16,NYJ 28,0,NYJ,
+27,4814,1,04:36,(4:36) B.Powell left end to NYJ 26 for 14 yards (A.Williams; J.Leonhard).,10,4,14,NYJ 12,0,NYJ,
+20,3647,4,00:43,"(:43) S.Powell punts 47 yards to end zone, Center-G.Sanborn, Touchback.",17,3,16,NYJ 47,0,BUF,PUNT
+20,3628,3,01:17,(1:17) (Shotgun) E.Manuel sacked at NYJ 47 for 0 yards (C.Pace).,17,3,16,NYJ 47,0,BUF,
+20,3519,1,02:02,"(2:02) (Shotgun) E.Manuel pass deep right to S.Johnson ran ob at NYJ 40 for 23 yards. New York Jets challenged the incomplete pass ruling, and the play was Upheld. (Timeout #2.)",10,3,23,BUF 37,0,BUF,TIMEOUT
+20,3605,2,01:25,(1:25) (Shotgun) E.Manuel pass incomplete short right to R.Woods.,17,3,16,NYJ 47,0,BUF,
+20,3543,1,01:56,(1:56) E.Manuel sacked at NYJ 47 for -7 yards (A.Allen).,10,3,16,NYJ 40,0,BUF,
+21,3665,1,00:35,(:35) B.Powell right tackle to NYJ 33 for 13 yards (J.Rogers; J.Leonhard).,10,3,13,NYJ 20,0,NYJ,
+21,3770,4,13:33,"(13:33) R.Quigley punts 41 yards to BUF 17, Center-T.Purdum. J.Leonhard to BUF 20 for 3 yards (J.Bush; E.Lankster).",1,4,22,NYJ 42,0,NYJ,PUNT
+21,3747,3,13:38,(13:38) G.Smith pass incomplete short right to S.Hill.,1,4,22,NYJ 42,0,NYJ,
+21,3686,0,,END QUARTER 3,0,3,13,,0,,
+21,3702,1,15:00,(15:00) (Shotgun) B.Powell right guard to NYJ 36 for 3 yards (M.Williams).,10,4,16,NYJ 33,0,NYJ,
+21,3723,2,14:24,(14:24) G.Smith pass short right to J.Cumberland to NYJ 42 for 6 yards (A.Moats; D.Searcy).,7,4,22,NYJ 36,0,NYJ,
+22,4063,3,10:47,"(10:47) E.Manuel pass short left to S.Chandler for 33 yards, TOUCHDOWN.",6,4,80,NYJ 33,1,BUF,TD
+22,3920,3,12:19,"(12:19) (Shotgun) E.Manuel pass incomplete deep right to S.Johnson. PENALTY on NYJ-K.Wilson, Illegal Contact, 5 yards, enforced at BUF 24 - No Play.",6,4,9,BUF 24,0,BUF,PENALTY
+22,3886,3,12:23,"(12:23) E.Manuel pass incomplete short middle to S.Johnson [A.Barnes]. Penalty on NYJ, Defensive Holding, offsetting, enforced at BUF 24 - No Play. Penalty on BUF, Taunting, offsetting.",6,4,4,BUF 24,0,BUF,
+22,4084,0,10:39,TWO-POINT CONVERSION ATTEMPT. E.Manuel pass to S.Johnson is complete. ATTEMPT SUCCEEDS.,0,4,80,NYJ 2,1,BUF,2PS
+22,4042,1,11:55,(11:55) (Shotgun) T.Choice right end to NYJ 41 for -4 yards (D.Harris).,10,4,80,NYJ 37,0,BUF,
+22,3953,1,12:16,"(12:16) (No Huddle) F.Jackson left tackle to BUF 30 for 1 yard (D.Harrison). FUMBLES (D.Harrison), RECOVERED by NYJ-S.Richardson at BUF 32. S.Richardson to BUF 19 for 13 yards. PENALTY on NYJ-K.Wilson, Personal Foul, 5 yards, enforced at BUF 29 - No Play. Penalty on NYJ-S.Richardson, Illegal Use of Hands, declined.",10,4,80,BUF 29,0,BUF,PENALTY
+22,3862,2,12:57,(12:57) E.Manuel pass short left to S.Johnson to BUF 24 for 14 yards (D.Harris).,20,4,4,BUF 10,0,BUF,
+22,3818,2,13:16,"(13:16) (No Huddle, Shotgun) E.Manuel scrambles up the middle to BUF 41 for 21 yards (D.Landry). FUMBLES (D.Landry), RECOVERED by NYJ-J.Jarrett at BUF 41. PENALTY on BUF-E.Wood, Offensive Holding, 10 yards, enforced at BUF 20 - No Play.",10,4,5,BUF 20,0,BUF,PENALTY
+22,3796,1,13:22,(13:22) (Shotgun) E.Manuel pass incomplete deep left to T.Graham.,10,4,0,BUF 20,0,BUF,
+22,4007,1,12:08,"(12:08) (Shotgun) E.Manuel pass short left to S.Johnson to BUF 48 for 14 yards (K.Wilson). PENALTY on NYJ, Personal Foul, 15 yards, enforced at BUF 48.",10,4,80,BUF 34,0,BUF,PENALTY
+22,4501,2,11:26,(11:26) (Shotgun) E.Manuel pass short middle to S.Chandler to NYJ 33 for 8 yards (D.Davis).,14,4,80,NYJ 41,0,BUF,
+23,4174,1,10:00,"(10:00) B.Powell left end to NYJ 43 for 7 yards (D.Searcy). PENALTY on NYJ-S.Holmes, Illegal Shift, 5 yards, enforced at NYJ 36 - No Play.",10,4,16,NYJ 36,0,NYJ,PENALTY
+23,4098,0,10:39,D.Carpenter kicks 67 yards from BUF 35 to NYJ -2. E.Gates to NYJ 15 for 17 yards (Du.Williams).,0,4,0,BUF 35,0,BUF,KICKOFF
+23,4245,0,09:23,"N.Folk extra point is GOOD, Center-T.Purdum, Holder-R.Quigley.",0,4,85,BUF 2,1,NYJ,XP
+23,4141,2,10:08,"(10:08) (No Huddle, Shotgun) G.Smith pass incomplete deep left to J.Kerley. PENALTY on BUF-N.Robey, Defensive Pass Interference, 20 yards, enforced at NYJ 16 - No Play.",9,4,21,NYJ 16,0,NYJ,PENALTY
+23,4120,1,10:23,(10:23) (Shotgun) B.Powell up the middle to NYJ 16 for 1 yard (K.Alonso).,10,4,85,NYJ 15,0,NYJ,
+23,4207,1,09:34,"(9:34) (Shotgun) G.Smith pass deep right to S.Holmes for 69 yards, TOUCHDOWN.",15,4,85,NYJ 31,1,NYJ,TD
+28,4945,1,02:44,(2:44) (Shotgun) E.Manuel pass short left to S.Chandler ran ob at BUF 40 for 12 yards.,10,4,8,BUF 28,0,BUF,
+28,5036,3,02:00,"(2:00) (Shotgun) E.Manuel right tackle to BUF 40 for 4 yards (D.Harris). PENALTY on BUF-C.Glenn, Offensive Holding, 10 yards, enforced at BUF 36 - No Play.",14,4,-2,BUF 36,0,BUF,PENALTY
+28,5019,0,02:00,Two-Minute Warning,0,4,8,,0,,
+28,5092,4,01:48,(1:48) (Shotgun) E.Manuel pass incomplete deep right to R.Woods [M.Wilkerson].,7,4,15,BUF 43,0,BUF,
+28,5068,3,01:53,(1:53) (Shotgun) E.Manuel pass short right to S.Chandler ran ob at BUF 43 for 17 yards.,24,4,15,BUF 26,0,BUF,
+28,4975,1,02:39,(2:39) (Shotgun) E.Manuel pass short left to F.Jackson to BUF 44 for 4 yards (D.Davis; D.Harris).,10,4,8,BUF 40,0,BUF,
+28,4999,2,02:14,(2:14) (Shotgun) E.Manuel sacked at BUF 36 for -8 yards (M.Wilkerson).,6,4,8,BUF 44,0,BUF,
+29,5161,2,01:37,"(1:37) PENALTY on NYJ-S.Hill, False Start, 5 yards, enforced at BUF 41 - No Play.",8,4,-3,BUF 41,0,NYJ,PENALTY
+29,5111,1,01:43,(1:43) B.Powell left tackle to BUF 41 for 2 yards (K.Alonso).,10,4,2,BUF 43,0,NYJ,
+29,5184,2,01:37,(1:37) B.Powell up the middle to BUF 39 for 7 yards (D.Searcy).,13,4,4,BUF 46,0,NYJ,
+29,5222,3,01:32,(1:32) B.Powell up the middle to BUF 36 for 3 yards (K.Williams). BUF-A.Carrington was injured during the play.,6,4,7,BUF 39,0,NYJ,
+29,5144,0,01:37,Timeout #2 by BUF at 01:37.,0,4,2,,0,,TIMEOUT
+29,5246,4,01:32,"(1:32) (Run formation) PENALTY on NYJ-G.Smith, Delay of Game, 5 yards, enforced at BUF 36 - No Play.",3,4,2,BUF 36,0,NYJ,PENALTY
+29,5269,4,00:30,"(:30) R.Quigley punts 40 yards to BUF 1, Center-T.Purdum, downed by NYJ-I.Trufant.",8,4,2,BUF 41,0,NYJ,PUNT
+29,5205,0,01:32,Timeout #3 by BUF at 01:32.,0,4,4,,0,,TIMEOUT
+1,215,3,12:22,(12:22) (Shotgun) G.Smith pass short middle to J.Kerley to BUF 21 for 18 yards (L.McKelvin). BUF-L.McKelvin was injured during the play.,17,1,59,BUF 39,0,NYJ,
+1,243,1,11:44,(11:44) (Shotgun) B.Powell up the middle to BUF 16 for 5 yards (J.Hughes).,10,1,80,BUF 21,0,NYJ,
+1,392,0,09:06,"N.Folk extra point is GOOD, Center-T.Purdum, Holder-R.Quigley.",0,1,80,BUF 2,1,NYJ,XP
+1,55,1,15:00,(15:00) C.Ivory left guard to NYJ 18 for -2 yards (M.Lawson).,10,1,-2,NYJ 20,0,NYJ,
+1,194,2,13:02,(13:02) C.Ivory left tackle to BUF 39 for 1 yard (D.Searcy).,18,1,41,BUF 40,0,NYJ,
+1,304,3,10:38,(10:38) (Shotgun) G.Smith pass short middle to J.Kerley to BUF 7 for 7 yards (D.Searcy).,3,1,80,BUF 14,0,NYJ,
+1,36,0,15:00,"D.Carpenter kicks 65 yards from BUF 35 to end zone, Touchback.",0,1,0,BUF 35,0,BUF,KICKOFF
+1,374,2,09:11,"(9:11) (Shotgun) G.Smith up the middle for 8 yards, TOUCHDOWN.",8,1,80,BUF 8,1,NYJ,TD
+1,76,2,14:31,(14:31) C.Ivory right guard to NYJ 23 for 5 yards (M.Dareus).,12,1,3,NYJ 18,0,NYJ,
+1,287,0,10:38,Timeout #1 by NYJ at 10:38.,0,1,66,,0,,TIMEOUT
+1,126,1,13:33,"(13:33) (Shotgun) G.Smith pass short right to B.Powell to BUF 27 for 5 yards (L.McKelvin). PENALTY on NYJ, Offensive Holding, 10 yards, enforced at BUF 30.",10,1,80,BUF 32,0,NYJ,PENALTY
+1,264,2,11:16,(11:16) (Shotgun) Direct snap to B.Powell.  B.Powell right guard to BUF 14 for 2 yards (K.Williams; M.Lawson).,5,1,80,BUF 16,0,NYJ,
+1,328,1,10:05,(10:05) (Shotgun) Direct snap to B.Powell.  B.Powell up the middle to BUF 3 for 4 yards (M.Dareus).,7,1,80,BUF 7,0,NYJ,
+1,351,2,09:30,"(9:30) (Shotgun) PENALTY on NYJ-V.Ducasse, False Start, 5 yards, enforced at BUF 3 - No Play.",3,1,80,BUF 3,0,NYJ,PENALTY
+1,161,1,13:05,(13:05) (Shotgun) G.Smith pass incomplete short left to J.Kerley.,18,1,40,BUF 40,0,NYJ,
+1,97,3,14:00,(14:00) (Shotgun) G.Smith pass deep right to S.Hill pushed ob at BUF 32 for 45 yards (J.Rogers).,7,1,48,NYJ 23,0,NYJ,
+3,622,3,06:04,(6:04) (Shotgun) G.Smith pass incomplete deep right to S.Holmes.,7,1,3,NYJ 15,0,NYJ,
+3,601,2,06:46,(6:46) (Shotgun) B.Powell right tackle to NYJ 15 for 2 yards (M.Lawson; A.Moats).,9,1,3,NYJ 13,0,NYJ,
+3,644,4,05:57,"(5:57) R.Quigley punts 41 yards to BUF 44, Center-T.Purdum, fair catch by J.Leonhard.",7,1,3,NYJ 15,0,NYJ,PUNT
+3,580,1,07:21,(7:21) C.Ivory right end to NYJ 13 for 1 yard (A.Moats; J.Rogers).,10,1,1,NYJ 12,0,NYJ,
+2,549,4,07:32,"(7:32) S.Powell punts 57 yards to NYJ 10, Center-G.Sanborn. J.Kerley pushed ob at NYJ 12 for 2 yards (T.Choice).",7,1,13,BUF 33,0,BUF,PUNT
+2,444,2,08:32,"(8:32) (No Huddle, Shotgun) C.Spiller right tackle to BUF 30 for 6 yards (A.Cromartie). FUMBLES (A.Cromartie), ball out of bounds at BUF 30.",6,1,10,BUF 24,0,BUF,FUMBLE
+2,527,3,07:37,"(7:37) (No Huddle, Shotgun) E.Manuel pass incomplete deep left to S.Johnson.",7,1,13,BUF 33,0,BUF,
+2,423,1,09:06,(9:06) (Shotgun) C.Spiller left end to BUF 24 for 4 yards (C.Pace; D.Landry).,10,1,4,BUF 20,0,BUF,
+2,505,2,07:40,(7:40) (No Huddle) E.Manuel pass incomplete deep middle to S.Johnson.,7,1,13,BUF 33,0,BUF,
+2,481,1,08:09,"(8:09) (No Huddle, Shotgun) E.Manuel scrambles right end to BUF 33 for 3 yards (C.Pace).",10,1,13,BUF 30,0,BUF,
+2,408,0,09:06,"N.Folk kicks 65 yards from NYJ 35 to end zone, Touchback.",0,1,0,NYJ 35,0,NYJ,KICKOFF
+5,753,1,04:50,(4:50) G.Smith pass short right to B.Powell to NYJ 27 for 7 yards (M.Lawson).,10,1,7,NYJ 20,0,NYJ,
+5,777,2,04:11,"(4:11) (Shotgun) G.Smith sacked at NYJ 25 for -2 yards (A.Branch). PENALTY on NYJ-J.Cumberland, Offensive Holding, 10 yards, enforced at NYJ 27 - No Play.",3,1,-3,NYJ 27,0,NYJ,PENALTY
+5,895,3,01:40,"(1:40) (No Huddle, Shotgun) PENALTY on BUF-J.Hughes, Defensive Offside, 5 yards, enforced at NYJ 42 - No Play.",9,1,27,NYJ 42,0,NYJ,PENALTY
+5,853,1,03:01,(3:01) (Shotgun) B.Powell left guard to NYJ 46 for 5 yards (K.Alonso; M.Lawson).,10,1,26,NYJ 41,0,NYJ,
+5,874,2,02:18,(2:18) (Shotgun) A.Green up the middle to NYJ 42 for -4 yards (A.Carrington).,5,1,22,NYJ 46,0,NYJ,
+5,940,4,01:15,"(1:15) R.Quigley punts 42 yards to BUF 11, Center-T.Purdum, downed by NYJ-I.Trufant.",4,1,27,NYJ 47,0,NYJ,PUNT
+5,829,3,03:43,(3:43) (Shotgun) G.Smith pass deep right to S.Holmes to NYJ 41 for 24 yards (J.Rogers).,13,1,21,NYJ 17,0,NYJ,
+5,918,3,01:19,(1:19) G.Smith pass incomplete short right to S.Holmes.,4,1,27,NYJ 47,0,NYJ,
+5,807,2,03:48,(3:48) G.Smith pass incomplete short left to B.Powell.,13,1,-3,NYJ 17,0,NYJ,
+4,685,2,05:42,"(5:42) (No Huddle, Shotgun) C.Spiller right tackle to BUF 39 for -3 yards (D.Harris).",12,1,-5,BUF 42,0,BUF,
+4,706,3,05:07,"(5:07) (No Huddle, Shotgun) E.Manuel pass incomplete short right to T.Graham.",15,1,-5,BUF 39,0,BUF,
+4,664,1,05:51,(5:51) (Shotgun) C.Spiller left end to BUF 42 for -2 yards (A.Allen).,10,1,-2,BUF 44,0,BUF,
+4,735,4,05:00,"(5:00) S.Powell punts 61 yards to end zone, Center-G.Sanborn, Touchback.",15,1,-5,BUF 39,0,BUF,PUNT
+7,1141,0,13:45,D.Carpenter kicks 68 yards from BUF 35 to NYJ -3. E.Gates to NYJ 15 for 18 yards (M.Easley).,0,2,0,BUF 35,0,BUF,KICKOFF
+7,1163,1,13:40,"(13:40) (Shotgun) G.Smith pass deep left intended for S.Holmes INTERCEPTED by J.Leonhard at 50. J.Leonhard to NYJ 36 for 14 yards (N.Mangold; D.Ferguson). PENALTY on NYJ-V.Ducasse, Face Mask (15 Yards), 15 yards, enforced at NYJ 36.",10,2,0,NYJ 15,0,NYJ,INT
+6,1068,2,14:27,"(14:27) (Shotgun) C.Spiller left guard to NYJ 19 for no gain (M.Wilkerson). FUMBLES (M.Wilkerson), and recovers at NYJ 19. C.Spiller to NYJ 19 for no gain (M.Wilkerson).",8,2,70,NYJ 19,0,BUF,FUMBLE
+6,960,1,01:02,(1:02) (Shotgun) E.Manuel left end pushed ob at BUF 19 for 8 yards (K.Wilson).,10,1,8,BUF 11,0,BUF,
+6,1122,4,13:48,"(13:48) D.Carpenter 37 yard field goal is GOOD, Center-G.Sanborn, Holder-S.Powell.",8,2,70,NYJ 19,1,BUF,FG
+6,986,2,00:52,"(:52) (No Huddle, Shotgun) E.Manuel pass short right to C.Spiller to BUF 20 for 1 yard (C.Pace).",2,1,9,BUF 19,0,BUF,
+6,1100,3,13:53,(13:53) (Shotgun) E.Manuel pass incomplete deep right to R.Woods.,8,2,70,NYJ 19,0,BUF,
+6,1047,1,15:00,(15:00) (Shotgun) C.Spiller up the middle to NYJ 19 for 2 yards (D.Davis).,10,2,70,NYJ 21,0,BUF,
+6,1031,0,,END QUARTER 1,0,1,68,,0,,
+6,1010,3,00:26,(:26) F.Jackson up the middle to NYJ 21 for 59 yards (A.Cromartie).,1,1,68,BUF 20,0,BUF,
+9,1434,2,08:12,(8:12) (Shotgun) G.Smith pass short middle to S.Hill to NYJ 44 for 12 yards (J.Leonhard).,9,2,24,NYJ 32,0,NYJ,
+9,1479,2,07:06,"(7:06) (Shotgun) G.Smith pass deep right to S.Hill for 51 yards, TOUCHDOWN [K.Williams].",5,2,80,NYJ 49,1,NYJ,TD
+9,1352,0,09:57,"D.Carpenter kicks 65 yards from BUF 35 to end zone, Touchback.",0,2,0,BUF 35,0,BUF,KICKOFF
+9,1389,2,09:23,(9:23) (Shotgun) G.Smith pass short left to S.Holmes to NYJ 31 for 11 yards (A.Williams).,10,2,12,NYJ 20,0,NYJ,
+9,1499,0,06:58,"N.Folk extra point is GOOD, Center-T.Purdum, Holder-R.Quigley.",0,2,80,BUF 2,1,NYJ,XP
+9,1413,1,08:47,(8:47) B.Powell right tackle to NYJ 32 for 1 yard (M.Lawson).,10,2,12,NYJ 31,0,NYJ,
+9,1458,1,07:42,"(7:42) (No Huddle, Shotgun) A.Green up the middle to NYJ 49 for 5 yards (M.Lawson).",10,2,29,NYJ 44,0,NYJ,
+9,1368,1,09:57,(9:57) B.Powell right tackle to NYJ 20 for no gain (M.Lawson).,10,2,0,NYJ 20,0,NYJ,
+8,1227,2,12:51,(12:51) C.Spiller right tackle to NYJ 12 for 1 yard (C.Pace).,2,2,9,NYJ 13,0,BUF,
+8,1269,1,11:40,(11:40) F.Jackson up the middle to NYJ 11 for -1 yards (Q.Coples).,10,2,10,NYJ 10,0,BUF,
+8,1311,3,10:43,(10:43) (Shotgun) E.Manuel scrambles up the middle to NYJ 5 for 1 yard (S.Richardson; D.Harris).,6,2,16,NYJ 6,0,BUF,
+8,1206,1,13:26,(13:26) (Shotgun) F.Jackson right tackle to NYJ 13 for 8 yards (S.Richardson).,10,2,8,NYJ 21,0,BUF,
+8,1332,4,10:00,"(10:00) D.Carpenter 23 yard field goal is GOOD, Center-G.Sanborn, Holder-S.Powell.",5,2,16,NYJ 5,1,BUF,FG
+8,1248,3,12:07,(12:07) F.Jackson up the middle to NYJ 10 for 2 yards (Q.Coples; C.Pace).,1,2,11,NYJ 12,0,BUF,
+8,1290,2,11:18,(11:18) (Shotgun) E.Manuel left end to NYJ 6 for 5 yards (C.Pace; A.Allen).,11,2,15,NYJ 11,0,BUF,
+11,1834,2,02:35,(2:35) A.Green left end to BUF 48 for 4 yards (K.Alonso; Du.Williams).,10,2,16,NYJ 48,0,NYJ,
+11,1772,2,03:17,"(3:17) (No Huddle, Shotgun) B.Powell up the middle to NYJ 48 for 3 yards (M.Williams; K.Alonso).",1,2,12,NYJ 45,0,NYJ,
+11,1793,1,02:44,(2:44) Direct snap to B.Powell.  G.Smith pass incomplete deep middle to S.Hill.,10,2,12,NYJ 48,0,NYJ,
+11,2279,0,01:45,Timeout #1 by BUF at 01:45.,0,2,-5,,0,,TIMEOUT
+11,1855,0,02:00,Two-Minute Warning,0,2,16,,0,,
+11,1872,3,02:00,"(2:00) (Shotgun) G.Smith Aborted. N.Mangold FUMBLES at NYJ 31, recovered by NYJ-B.Powell at NYJ 31.",6,2,-5,BUF 48,0,NYJ,FUMBLE
+11,1905,4,01:43,"(1:43) R.Quigley punts 44 yards to BUF 25, Center-T.Purdum, out of bounds.",27,2,-5,NYJ 31,0,NYJ,PUNT
+11,1751,1,03:42,(3:42) (Shotgun) B.Powell right tackle to NYJ 45 for 9 yards (M.Lawson).,10,2,9,NYJ 36,0,NYJ,
+10,1620,2,05:22,(5:22) (No Huddle) E.Manuel pass short right to R.Woods ran ob at NYJ 41 for 29 yards.,11,2,39,BUF 30,0,BUF,
+10,1555,2,06:30,(6:30) (No Huddle) C.Spiller up the middle to BUF 26 for 2 yards (M.Wilkerson; D.Harrison).,6,2,6,BUF 24,0,BUF,
+10,1706,3,04:26,(4:26) (Shotgun) F.Jackson right tackle to NYJ 33 for -1 yards (S.Richardson). BUF-K.Urbik was injured during the play.,1,2,47,NYJ 32,0,BUF,
+10,1727,4,03:49,(3:49) (Shotgun) E.Manuel sacked at NYJ 36 for -3 yards (D.Davis).,2,2,44,NYJ 33,0,BUF,
+10,1649,1,05:00,(5:00) E.Manuel pass incomplete short right to S.Chandler.,10,2,39,NYJ 41,0,BUF,
+10,1534,1,06:58,(6:58) E.Manuel scrambles right end to BUF 24 for 4 yards (D.Harris; G.McIntyre).,10,2,4,BUF 20,0,BUF,
+10,1515,0,06:58,"N.Folk kicks 65 yards from NYJ 35 to end zone, Touchback.",0,2,0,NYJ 35,0,NYJ,KICKOFF
+10,1599,1,05:50,(5:50) C.Spiller right tackle to BUF 30 for -1 yards (L.Douzable).,10,2,10,BUF 31,0,BUF,
+10,1576,3,05:58,"(5:58) (Shotgun) PENALTY on NYJ-M.Wilkerson, Defensive Offside, 5 yards, enforced at BUF 26 - No Play.",4,2,11,BUF 26,0,BUF,PENALTY
+10,1682,2,04:56,(4:56) (Shotgun) E.Manuel pass short middle to S.Chandler to NYJ 32 for 9 yards (D.Landry) [Q.Coples].,10,2,48,NYJ 41,0,BUF,
+13,2225,3,00:05,"(:05) N.Folk 47 yard field goal is GOOD, Center-T.Purdum, Holder-R.Quigley.",3,2,37,BUF 29,1,NYJ,FG
+13,2208,0,00:05,Timeout #3 by NYJ at 00:05.,0,2,39,,0,,TIMEOUT
+13,2058,1,00:24,"(:24) (Shotgun) G.Smith pass incomplete short left to J.Kerley (N.Robey). The Replay Assistant challenged the incomplete pass ruling, and the play was Upheld.",10,2,15,NYJ 49,0,NYJ,
+13,2023,1,00:43,(:43) (Shotgun) G.Smith pass short left to S.Holmes to NYJ 49 for 10 yards (J.Rogers).,5,2,15,NYJ 39,0,NYJ,
+13,2000,1,00:43,"(:43) (Shotgun) PENALTY on BUF-M.Dareus, Defensive Offside, 5 yards, enforced at NYJ 34 - No Play.",10,2,5,NYJ 34,0,NYJ,PENALTY
+13,2186,1,00:14,(:14) (Shotgun) B.Powell left end to BUF 27 for 9 yards (Du.Williams).,10,2,39,BUF 36,0,NYJ,
+13,2258,2,00:14,(:14) G.Smith up the middle to BUF 29 for -2 yards.,1,2,39,BUF 27,0,NYJ,
+13,2101,2,00:18,"(:18) (Shotgun) G.Smith pass incomplete short right to K.Winslow. PENALTY on BUF-Du.Williams, Defensive Pass Interference, 15 yards, enforced at NYJ 49 - No Play.",10,2,30,NYJ 49,0,NYJ,PENALTY
+12,1942,2,01:20,(1:20) E.Manuel pass short right to S.Johnson to BUF 26 for 9 yards (A.Cromartie).,18,2,6,BUF 17,0,BUF,
+12,1923,1,01:41,(1:41) E.Manuel sacked at BUF 17 for -8 yards (M.Wilkerson).,10,2,-8,BUF 25,0,BUF,
+12,2179,0,00:52,Timeout #2 by NYJ at 00:52.,0,2,6,,0,,TIMEOUT
+12,2034,3,01:00,(1:00) E.Manuel pass short right to S.Johnson to BUF 31 for 5 yards (K.Wilson).,9,2,6,BUF 26,0,BUF,
+12,1970,4,00:49,"(:49) S.Powell punts 47 yards to NYJ 22, Center-G.Sanborn. J.Kerley to NYJ 34 for 12 yards (J.Leonhard).",4,2,6,BUF 31,0,BUF,PUNT
+15,2801,3,09:59,(9:59) (Shotgun) G.Smith pass incomplete deep right to S.Hill.,5,3,64,BUF 16,0,NYJ,
+15,2780,2,10:38,(10:38) (Shotgun) B.Powell right guard to BUF 16 for 2 yards (A.Branch; A.Carrington).,7,3,64,BUF 18,0,NYJ,
+15,2625,3,12:28,(12:28) (Shotgun) G.Smith pass deep right to S.Holmes to BUF 21 for 40 yards (D.Searcy).,12,3,59,NYJ 39,0,NYJ,
+15,2733,1,11:26,"(11:26) PENALTY on NYJ-V.Ducasse, False Start, 5 yards, enforced at BUF 31 - No Play.",20,3,44,BUF 31,0,NYJ,PENALTY
+15,2700,1,11:47,"(11:47) (No Huddle, Shotgun) B.Powell right tackle to BUF 21 for no gain. PENALTY on NYJ-V.Ducasse, Offensive Holding, 10 yards, enforced at BUF 21 - No Play.",10,3,49,BUF 21,0,NYJ,PENALTY
+15,2589,2,12:31,"(12:31) (Shotgun) G.Smith pass short right to S.Holmes to NYJ 47 for 8 yards (J.Rogers). FUMBLES (J.Rogers), RECOVERED by BUF-M.Lawson at NYJ 47. M.Lawson to NYJ 47 for no gain (S.Holmes). The Replay Assistant challenged the incomplete pass ruling, and the play was REVERSED. (Shotgun) G.Smith pass incomplete short right to S.Holmes.",12,3,19,NYJ 39,0,NYJ,
+15,2756,1,11:15,(11:15) (Shotgun) G.Smith pass deep right to J.Cumberland to BUF 18 for 18 yards (J.Rogers).,25,3,62,BUF 36,0,NYJ,
+15,2824,4,09:51,"(9:51) N.Folk 34 yard field goal is GOOD, Center-T.Purdum, Holder-R.Quigley.",5,3,64,BUF 16,1,NYJ,FG
+15,2567,1,12:52,(12:52) (Shotgun) G.Smith left end pushed ob at NYJ 39 for 8 yards (A.Williams).,20,3,19,NYJ 31,0,NYJ,
+15,2532,1,13:04,"(13:04) Direct snap to B.Powell.  B.Powell left guard to NYJ 41 for no gain (K.Alonso). PENALTY on NYJ-W.Colon, Offensive Holding, 10 yards, enforced at NYJ 41 - No Play.",10,3,11,NYJ 41,0,NYJ,PENALTY
+15,2504,1,13:35,(13:35) (Shotgun) B.Powell up the middle to NYJ 41 for 21 yards (J.Leonhard).,10,3,21,NYJ 20,0,NYJ,
+14,2326,1,14:56,(14:56) (Shotgun) E.Manuel pass short right to T.Graham to BUF 18 for 5 yards (A.Cromartie).,10,3,5,BUF 13,0,BUF,
+14,2433,2,14:00,(14:00) (Shotgun) E.Manuel pass short left to F.Jackson pushed ob at BUF 34 for 7 yards (J.Jarrett).,10,3,21,BUF 27,0,BUF,
+14,2302,0,15:00,N.Folk kicks 70 yards from NYJ 35 to BUF -5. M.Easley to BUF 13 for 18 yards (E.Lankster).,0,3,5,NYJ 35,0,NYJ,KICKOFF
+14,2481,4,13:44,"(13:44) S.Powell punts 66 yards to end zone, Center-G.Sanborn, Touchback.",3,3,21,BUF 34,0,BUF,PUNT
+14,2406,1,14:05,"(14:05) (No Huddle, Shotgun) E.Manuel pass incomplete short left to R.Woods [Q.Coples].",10,3,14,BUF 27,0,BUF,
+14,2350,2,14:39,"(14:39) (No Huddle, Shotgun) C.Spiller right end to BUF 18 for no gain (D.Davis).",5,3,5,BUF 18,0,BUF,
+14,2372,3,14:09,"(14:09) (No Huddle, Shotgun) E.Manuel pass incomplete short right to T.Graham. PENALTY on NYJ-A.Cromartie, Defensive Pass Interference, 9 yards, enforced at BUF 18 - No Play.",5,3,14,BUF 18,0,BUF,PENALTY
+14,2458,3,13:47,"(13:47) (No Huddle, Shotgun) E.Manuel pass incomplete short right to S.Johnson (K.Wilson).",3,3,21,BUF 34,0,BUF,
+17,3063,0,08:18,"D.Carpenter kicks 65 yards from BUF 35 to end zone, Touchback.",0,3,0,BUF 35,0,BUF,KICKOFF
+17,3079,1,08:18,(8:18) (Shotgun) B.Powell right guard to NYJ 21 for 1 yard (M.Lawson).,10,3,1,NYJ 20,0,NYJ,
+17,3167,1,07:13,(7:13) G.Smith pass short left intended for E.Gates INTERCEPTED by K.Alonso at NYJ 45. K.Alonso to NYJ 13 for 32 yards (N.Mangold).,20,3,18,NYJ 38,0,NYJ,INT
+17,3101,2,07:52,(7:52) B.Powell left end to NYJ 48 for 27 yards (C.Bryant; N.Robey).,9,3,28,NYJ 21,0,NYJ,
+17,3123,1,07:13,"(7:13) (Shotgun) G.Smith pass short right to S.Holmes pushed ob at BUF 41 for 11 yards (J.Leonhard). PENALTY on NYJ-K.Winslow, Offensive Pass Interference, 10 yards, enforced at NYJ 48 - No Play.",10,3,18,NYJ 48,0,NYJ,PENALTY
+16,2859,1,09:48,"(9:48) (Shotgun) E.Manuel sacked at BUF 12 for -8 yards (S.Richardson). Penalty on BUF-E.Wood, Offensive Holding, declined.",10,3,-8,BUF 20,0,BUF,
+16,2998,2,08:35,(8:35) E.Manuel pass incomplete short left to T.Graham.,7,3,55,NYJ 25,0,BUF,
+16,2914,3,09:16,(9:16) (No Huddle) E.Manuel right end ran ob at BUF 48 for 19 yards (A.Cromartie).,1,3,28,BUF 29,0,BUF,
+16,2844,0,09:48,"N.Folk kicks 65 yards from NYJ 35 to end zone, Touchback.",0,3,0,NYJ 35,0,NYJ,KICKOFF
+16,2935,1,09:01,"(9:01) (No Huddle, Shotgun) E.Manuel pass incomplete deep left to T.Graham. PENALTY on NYJ-K.Wilson, Defensive Pass Interference, 24 yards, enforced at BUF 48 - No Play.",10,3,52,BUF 48,0,BUF,PENALTY
+16,2890,2,09:35,(9:35) (Shotgun) E.Manuel pass short right to F.Jackson pushed ob at BUF 29 for 17 yards (D.Davis).,18,3,9,BUF 12,0,BUF,
+16,3021,3,08:28,(8:28) (Shotgun) E.Manuel pass incomplete deep left to T.Graham.,7,3,55,NYJ 25,0,BUF,
+16,3043,4,08:22,"(8:22) D.Carpenter 43 yard field goal is GOOD, Center-G.Sanborn, Holder-S.Powell.",7,3,55,NYJ 25,1,BUF,FG
+16,2975,1,08:49,(8:49) T.Choice up the middle to NYJ 25 for 3 yards (G.McIntyre).,10,3,55,NYJ 28,0,BUF,
+19,3348,1,04:32,(4:32) (Shotgun) Direct snap to B.Powell.  B.Powell right tackle to NYJ 32 for 3 yards (A.Branch; K.Alonso).,10,3,17,NYJ 29,0,NYJ,
+19,3428,2,03:26,(3:26) A.Green left tackle to BUF 37 for 7 yards (A.Williams).,8,3,48,BUF 44,0,NYJ,
+19,3449,3,02:55,"(2:55) B.Powell right tackle to BUF 37 for no gain (A.Moats; J.Hughes). New York Jets challenged the first down ruling, and the play was Upheld. (Timeout #1.)",1,3,48,BUF 37,0,NYJ,TIMEOUT
+19,3471,4,02:10,(2:10) T.Bohanon up the middle to BUF 37 for no gain (M.Lawson).,1,3,48,BUF 37,0,NYJ,
+19,3372,2,04:02,"(4:02) G.Smith pass incomplete deep right to S.Hill. PENALTY on BUF-J.Rogers, Defensive Pass Interference, 22 yards, enforced at NYJ 32 - No Play.",7,3,39,NYJ 32,0,NYJ,PENALTY
+19,3324,2,04:55,(4:55) G.Smith pass short right to T.Bohanon to NYJ 29 for 9 yards (A.Moats).,5,3,14,NYJ 20,0,NYJ,
+19,3406,1,03:56,(3:56) (Shotgun) A.Green right tackle to BUF 44 for 2 yards (C.Bryant; K.Alonso).,10,3,48,BUF 46,0,NYJ,
+19,3303,1,05:28,(5:28) (Shotgun) B.Powell up the middle to NYJ 20 for 5 yards (M.Lawson).,10,3,5,NYJ 15,0,NYJ,
+19,3280,0,05:35,D.Carpenter kicks 68 yards from BUF 35 to NYJ -3. E.Gates to NYJ 15 for 18 yards (Du.Williams).,0,3,0,BUF 35,0,BUF,KICKOFF
+18,3260,4,05:38,"(5:38) D.Carpenter 26 yard field goal is GOOD, Center-G.Sanborn, Holder-S.Powell.",5,3,5,NYJ 8,1,BUF,FG
+18,3216,2,06:21,(6:21) (Shotgun) F.Jackson right tackle to NYJ 8 for 1 yard (C.Pace; M.Wilkerson).,6,3,5,NYJ 9,0,BUF,
+18,3194,1,06:50,(6:50) F.Jackson right tackle to NYJ 9 for 4 yards (Q.Coples).,10,3,4,NYJ 13,0,BUF,
+18,3238,3,05:38,(5:38) E.Manuel pass incomplete short right to S.Johnson.,5,3,5,NYJ 8,0,BUF,
+30,5289,1,00:21,(:21) E.Manuel pass incomplete short right to S.Johnson [A.Barnes].,10,4,0,BUF 1,0,BUF,
+30,5311,2,00:17,(:17) E.Manuel pass short middle to F.Jackson to BUF 10 for 9 yards (K.Wilson).,10,4,9,BUF 1,0,BUF,
+30,5335,0,,END GAME,0,4,9,,0,,
+30,5350,3,00:01,(:01) E.Manuel spiked the ball to stop the clock.,1,4,9,BUF 10,0,BUF,

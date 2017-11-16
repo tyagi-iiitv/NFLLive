@@ -1,191 +1,191 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1475,1,08:43,,10,2,4,BUF 33,0,BUF,
-9,1623,2,05:45,,10,2,53,NE 19,0,BUF,
-9,1541,2,07:18,,7,2,20,BUF 48,0,BUF,
-9,1497,2,08:12,,6,2,12,BUF 37,0,BUF,
-9,1571,3,06:33,,2,2,48,NE 47,0,BUF,
-9,1645,3,05:11,,5,2,60,NE 14,0,BUF,
-9,1600,1,05:50,,10,2,48,NE 19,0,BUF,
-9,1673,1,04:32,,9,2,60,NE 9,0,BUF,
-9,1723,0,03:52,,0,2,67,NE 2,1,BUF,XP
-9,1696,2,03:57,,7,2,67,NE 7,1,BUF,TD
-9,1519,1,07:40,,10,2,67,BUF 45,0,BUF,
-24,4791,0,02:49,,0,4,0,NE 35,0,NE,KICKOFF
-24,4875,2,02:45,,10,4,-2,BUF 20,0,BUF,
-24,4900,3,02:15,,12,4,15,BUF 18,0,BUF,
-24,4993,4,01:15,,9,4,16,BUF 36,0,BUF,
-24,4925,1,02:00,,10,4,15,BUF 35,0,BUF,
-24,4973,3,01:48,,3,4,16,BUF 42,0,BUF,
-24,4852,1,02:49,,10,4,0,BUF 20,0,BUF,
-24,4835,0,02:49,,0,4,0,,0,,TIMEOUT
-24,4948,2,01:55,,10,4,22,BUF 35,0,BUF,
-10,1785,2,03:13,,8,2,3,NE 22,0,NE,
-10,1900,4,02:28,,7,2,3,NE 23,0,NE,PUNT
-10,1756,1,03:52,,10,2,2,NE 20,0,NE,
-10,1740,0,03:52,,0,2,2,BUF 35,0,BUF,KICKOFF
-10,1807,3,02:32,,7,2,3,NE 23,0,NE,
-20,3597,1,00:53,,10,3,20,NE 30,0,BUF,
-20,3725,3,00:26,,20,3,20,NE 40,0,BUF,
-20,3484,2,02:16,,20,3,8,BUF 23,0,BUF,
-20,3749,0,,,0,3,20,,0,,
-20,3701,2,00:30,,20,3,27,NE 40,0,BUF,
-20,3638,2,00:48,,10,3,27,NE 30,0,BUF,PENALTY
-20,3782,4,15:00,,27,4,20,NE 47,0,BUF,PUNT
-20,3441,0,03:08,,0,3,0,NE 35,0,NE,KICKOFF
-20,3464,1,03:02,,10,3,-10,BUF 33,0,BUF,
-20,3765,0,,,0,3,20,,0,,
-20,3558,3,01:11,,12,3,20,BUF 31,0,BUF,PENALTY
-20,3512,3,01:38,,2,3,-2,BUF 41,0,BUF,PENALTY
-6,1168,1,13:08,,1,2,61,BUF 1,1,NE,TD
-6,1077,3,14:14,,2,2,21,NE 47,0,NE,
-6,1131,1,13:16,,10,2,60,BUF 30,0,NE,PENALTY
-6,1051,2,14:19,,2,2,8,NE 47,0,NE,
-6,1193,0,13:04,,0,2,61,BUF 2,1,NE,XP
-6,1022,1,14:53,,10,2,8,NE 39,0,NE,
-6,1105,1,13:42,,10,2,31,BUF 40,0,NE,
-18,2831,0,12:30,,0,3,11,NE 35,0,NE,KICKOFF
-18,3130,1,06:50,,3,3,73,NE 3,0,BUF,
-18,3180,3,05:35,,1,3,80,NE 1,1,BUF,TD
-18,2847,1,12:30,,10,3,9,BUF 20,0,BUF,
-18,3198,0,05:33,,0,3,80,NE 2,1,BUF,XP
-18,2953,2,11:12,,4,3,19,BUF 37,0,BUF,
-18,3080,1,08:03,,10,3,57,NE 27,0,BUF,
-18,3030,2,09:31,,10,3,31,NE 48,0,BUF,
-18,2975,3,10:31,,2,3,32,BUF 39,0,BUF,
-18,3008,1,10:10,,10,3,32,NE 48,0,BUF,
-18,3102,2,07:26,,6,3,77,NE 23,0,BUF,
-18,3152,2,06:14,,7,3,79,NE 7,0,BUF,
-18,2909,2,12:19,,1,3,17,BUF 29,0,BUF,
-18,2931,1,11:44,,10,3,17,BUF 31,0,BUF,
-18,3052,3,08:44,,11,3,53,NE 49,0,BUF,
-25,5037,2,00:34,,11,4,-2,BUF 37,0,NE,
-25,5016,1,01:12,,10,4,-2,BUF 36,0,NE,
-25,5060,0,,,0,4,-2,,0,,
-25,5076,0,00:00,,0,4,-2,,0,,
-1,54,1,15:00,,10,1,-3,BUF 20,0,BUF,
-1,76,2,14:23,,13,1,1,BUF 17,0,BUF,
-1,98,3,13:38,,9,1,1,BUF 21,0,BUF,
-1,35,0,15:00,,0,1,1,NE 35,0,NE,KICKOFF
-1,125,4,13:34,,9,1,1,BUF 21,0,BUF,PUNT
-5,934,2,00:12,,2,1,25,BUF 34,0,BUF,
-5,962,0,,,0,1,25,,0,,
-5,994,1,15:00,,10,2,25,NE 49,0,BUF,INT
-5,906,1,00:57,,10,1,30,BUF 26,0,BUF,
-5,978,0,,,0,1,30,,0,,
-13,2177,2,01:13,,11,2,-1,BUF 19,0,BUF,
-13,2207,3,01:09,,11,2,-7,BUF 19,0,BUF,
-13,2141,1,01:43,,10,2,-1,BUF 20,0,BUF,
-13,2125,0,01:43,,0,2,-7,NE 35,0,NE,KICKOFF
-13,2227,0,01:04,,0,2,-7,,0,,TIMEOUT
-13,2244,4,01:03,,17,2,-7,BUF 13,0,BUF,PUNT
-21,4018,1,10:12,,10,4,80,BUF 16,0,NE,
-21,3801,1,14:50,,10,4,0,NE 20,0,NE,
-21,4077,2,09:29,,22,4,62,BUF 28,0,NE,
-21,3873,2,13:23,,9,4,80,NE 38,0,NE,PENALTY
-21,3851,1,13:55,,10,4,18,NE 37,0,NE,
-21,3823,2,14:12,,10,4,17,NE 20,0,NE,
-21,4131,0,08:42,,0,4,80,BUF 2,1,NE,XP
-21,3974,1,11:26,,10,4,80,BUF 29,0,NE,
-21,3952,3,12:02,,1,4,51,BUF 33,0,NE,
-21,3908,1,12:44,,10,4,80,BUF 42,0,NE,
-21,4800,1,13:10,,10,4,80,BUF 42,0,NE,
-21,3996,2,10:51,,5,4,80,BUF 24,0,NE,
-21,3929,2,12:44,,1,4,80,BUF 33,0,NE,
-21,4106,3,08:47,,12,4,80,BUF 18,1,NE,TD
-21,4040,2,09:34,,12,4,52,BUF 18,0,NE,PENALTY
-23,4688,3,03:48,,16,4,39,NE 29,0,NE,
-23,4774,0,02:49,,0,4,93,BUF 2,1,NE,XP
-23,4753,2,03:00,,12,4,93,NE 44,1,NE,TD
-23,4666,2,04:26,,15,4,22,NE 30,0,NE,
-23,4419,0,05:58,,0,4,0,BUF 35,0,BUF,KICKOFF
-23,4571,1,05:13,,15,4,28,NE 15,0,NE,
-23,4495,2,05:19,,2,4,8,NE 15,0,NE,PENALTY
-23,4713,1,03:07,,10,4,37,NE 46,0,NE,
-23,4468,1,05:52,,10,4,8,NE 7,0,NE,
-23,4735,0,03:00,,0,4,37,,0,,TIMEOUT
-23,4537,1,05:13,,10,4,8,NE 20,0,NE,PENALTY
-23,4638,1,04:30,,15,4,23,NE 30,0,NE,
-23,4596,1,04:31,,10,4,23,NE 35,0,NE,PENALTY
-11,1942,1,02:15,,10,2,-2,BUF 26,0,BUF,FUMBLE
-14,2346,0,00:20,,0,2,2,,0,,TIMEOUT
-14,2327,3,00:30,,7,2,-3,NE 45,0,NE,
-14,2369,4,00:20,,13,2,-3,NE 39,0,NE,PUNT
-14,2271,1,00:52,,10,2,-3,NE 42,0,NE,
-14,2300,2,00:30,,7,2,-3,NE 45,0,NE,
-8,1405,2,10:01,,19,2,-7,NE 23,0,NE,
-8,1385,1,10:41,,10,2,-9,NE 32,0,NE,
-8,1449,4,08:52,,16,2,-6,NE 26,0,NE,PUNT
-8,1427,3,09:24,,17,2,-6,NE 25,0,NE,
-19,3390,3,03:17,,5,3,56,BUF 22,0,NE,
-19,3266,1,04:52,,10,3,34,BUF 45,0,NE,
-19,3365,2,03:35,,12,3,56,BUF 29,0,NE,
-19,3421,4,03:12,,5,3,56,BUF 22,1,NE,FG
-19,3288,2,04:10,,9,3,51,BUF 44,0,NE,PENALTY
-19,3238,1,05:26,,10,3,33,NE 22,0,NE,
-19,3328,1,04:05,,10,3,56,BUF 27,0,NE,
-19,3215,0,05:33,,0,3,0,BUF 35,0,BUF,KICKOFF
-22,4385,0,05:58,,0,4,80,NE 2,1,BUF,2PS
-22,4250,2,08:03,,10,4,12,BUF 32,0,BUF,
-22,4360,1,06:03,,8,4,80,NE 8,1,BUF,TD
-22,4164,1,08:42,,10,4,0,BUF 20,0,BUF,
-22,4276,3,07:57,,10,4,20,BUF 32,0,BUF,
-22,4148,0,08:42,,0,4,0,NE 35,0,NE,KICKOFF
-22,4332,1,06:41,,10,4,72,NE 25,0,BUF,
-22,4224,1,08:07,,10,4,12,BUF 32,0,BUF,
-22,4304,4,07:15,,2,4,55,BUF 40,0,BUF,
-22,4192,2,08:37,,10,4,12,BUF 20,0,BUF,
-12,2078,3,01:50,,10,2,0,BUF 24,0,NE,
-12,2012,2,02:00,,10,2,0,BUF 24,0,NE,
-12,2105,4,01:47,,10,2,0,BUF 24,1,NE,FG
-12,1995,0,02:00,,0,2,0,,0,,
-12,2051,2,01:54,,10,2,0,BUF 24,0,NE,
-12,1972,1,02:09,,10,2,0,BUF 24,0,NE,
-16,2462,1,00:06,,10,2,7,BUF 42,0,NE,
-16,2490,2,00:03,,3,2,7,BUF 35,1,NE,FG
-7,1270,2,12:18,,8,2,8,BUF 8,0,BUF,
-7,1357,4,10:52,,1,2,9,BUF 15,0,BUF,PUNT
-7,1292,3,11:45,,2,2,9,BUF 14,0,BUF,
-7,1210,0,13:04,,0,2,0,NE 35,0,NE,KICKOFF
-7,1317,4,11:03,,1,2,9,BUF 15,0,BUF,
-7,1248,1,12:59,,10,2,2,BUF 6,0,BUF,
-3,522,2,07:35,,9,1,30,NE 49,0,BUF,
-3,389,2,10:08,,5,1,10,BUF 25,0,BUF,
-3,544,3,06:52,,10,1,30,50,0,BUF,
-3,417,1,09:32,,10,1,10,BUF 30,0,BUF,
-3,500,1,08:13,,10,1,31,50,0,BUF,
-3,450,2,09:27,,10,1,15,BUF 30,0,BUF,
-3,367,1,10:46,,10,1,5,BUF 20,0,BUF,
-3,570,4,06:47,,10,1,30,50,0,BUF,PUNT
-3,472,3,08:48,,5,1,30,BUF 35,0,BUF,
-17,2700,3,13:08,,9,3,37,NE 40,0,NE,
-17,2725,1,12:38,,10,3,80,BUF 43,1,NE,TD
-17,2654,2,14:03,,5,3,25,NE 44,0,NE,
-17,2676,3,14:03,,4,3,20,NE 45,0,NE,PENALTY
-17,2753,0,12:30,,0,3,80,BUF 2,0,NE,PENALTY
-17,2544,0,15:00,,0,3,24,BUF 35,0,BUF,KICKOFF
-17,2813,0,12:30,,0,3,80,BUF 7,1,NE,XP
-17,2560,1,15:00,,10,3,9,NE 20,0,NE,
-17,2604,2,14:42,,1,3,19,NE 29,0,NE,
-17,2626,1,14:23,,10,3,24,NE 39,0,NE,
-4,829,3,01:38,,1,1,66,BUF 14,0,NE,
-4,668,1,05:20,,10,1,33,NE 38,0,NE,
-4,614,2,06:32,,10,1,9,NE 20,0,NE,
-4,724,2,03:58,,4,1,42,BUF 41,0,NE,
-4,885,4,01:01,,5,1,62,BUF 18,0,NE,FGM
-4,778,1,02:52,,10,1,63,BUF 23,0,NE,
-4,640,3,05:54,,1,1,18,NE 29,0,NE,
-4,592,1,06:39,,10,1,0,NE 20,0,NE,
-4,696,1,04:29,,10,1,39,BUF 47,0,NE,
-4,851,4,01:06,,1,1,62,BUF 14,0,NE,PENALTY
-4,807,2,02:17,,4,1,66,BUF 17,0,NE,
-4,746,3,03:22,,1,1,57,BUF 38,0,NE,PENALTY
-2,179,2,12:44,,3,1,5,NE 44,0,NE,
-2,345,4,10:54,,13,1,12,NE 49,0,NE,PUNT
-2,255,2,11:27,,10,1,15,BUF 48,0,NE,
-2,322,3,11:20,,15,1,12,NE 47,0,NE,
-2,229,1,11:31,,10,1,15,BUF 48,0,NE,
-2,151,1,13:26,,10,1,7,NE 37,0,NE,
-2,299,3,11:20,,10,1,10,BUF 48,0,NE,PENALTY
-2,281,0,11:20,,0,1,15,,0,,TIMEOUT
-2,201,3,12:04,,5,1,15,NE 42,0,NE,
-15,2407,1,00:14,,10,2,12,BUF 30,0,BUF,FUMBLE
+24,4875,2,02:45,"(2:45) (Shotgun) K.Orton pass short right to F.Jackson to BUF 18 for -2 yards (A.Dennard, P.Chung) [Cha.Jones].",10,4,-2,BUF 20,0,BUF,
+24,4925,1,02:00,(2:00) (Shotgun) K.Orton pass incomplete short right to F.Jackson [J.Collins].,10,4,15,BUF 35,0,BUF,
+24,4900,3,02:15,"(2:15) (No Huddle, Shotgun) K.Orton pass short middle to C.Hogan to BUF 35 for 17 yards (D.Harmon).",12,4,15,BUF 18,0,BUF,
+24,4835,0,02:49,Timeout #1 by NE at 02:49.,0,4,0,,0,,TIMEOUT
+24,4948,2,01:55,(1:55) (Shotgun) K.Orton pass short right to S.Watkins to BUF 42 for 7 yards (D.Revis).,10,4,22,BUF 35,0,BUF,
+24,4852,1,02:49,(2:49) (Shotgun) K.Orton pass incomplete short left to R.Woods.,10,4,0,BUF 20,0,BUF,
+24,4993,4,01:15,(1:15) (Shotgun) K.Orton pass incomplete short right to S.Chandler.,9,4,16,BUF 36,0,BUF,
+24,4791,0,02:49,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",0,4,0,NE 35,0,NE,KICKOFF
+24,4973,3,01:48,(1:48) (Shotgun) K.Orton sacked at BUF 36 for -6 yards (R.Ninkovich).,3,4,16,BUF 42,0,BUF,
+25,5037,2,00:34,(:34) T.Brady kneels to BUF 38 for -1 yards.,11,4,-2,BUF 37,0,NE,
+25,5076,0,00:00,END GAME,0,4,-2,,0,,
+25,5060,0,,End of game - 4.22 pm,0,4,-2,,0,,
+25,5016,1,01:12,(1:12) T.Brady kneels to BUF 37 for -1 yards.,10,4,-2,BUF 36,0,NE,
+20,3782,4,15:00,"(15:00) C.Schmidt punts 47 yards to end zone, Center-G.Sanborn, Touchback.",27,4,20,NE 47,0,BUF,PUNT
+20,3464,1,03:02,(3:02) K.Orton sacked at BUF 23 for -10 yards (D.Skinner).,10,3,-10,BUF 33,0,BUF,
+20,3597,1,00:53,(:53) (Shotgun) K.Orton pass incomplete deep left to S.Watkins. Caught out of bounds at NE 10.,10,3,20,NE 30,0,BUF,
+20,3765,0,,END QUARTER 3,0,3,20,,0,,
+20,3638,2,00:48,"(:48) K.Orton pass short left to R.Woods to NE 21 for 9 yards (A.Dennard). Caught along sideline at NE 22. Penalty on BUF, Illegal Formation, declined. PENALTY on BUF-R.Woods, Offensive Pass Interference, 10 yards, enforced at NE 30 - No Play.",10,3,27,NE 30,0,BUF,PENALTY
+20,3749,0,,End of quarter - 3.35 pm,0,3,20,,0,,
+20,3512,3,01:38,"(1:38) (Shotgun) K.Orton pass short right to R.Woods to NE 29 for 30 yards (D.McCourty, A.Dennard). Caught along sideline at BUF 45. PENALTY on BUF-S.Watkins, Offensive Pass Interference, 10 yards, enforced at BUF 41 - No Play.",2,3,-2,BUF 41,0,BUF,PENALTY
+20,3441,0,03:08,S.Gostkowski kicks 69 yards from NE 35 to BUF -4. C.Spiller pushed ob at BUF 33 for 37 yards (K.Arrington).,0,3,0,NE 35,0,NE,KICKOFF
+20,3484,2,02:16,(2:16) (Shotgun) K.Orton pass short left to S.Chandler to BUF 41 for 18 yards (J.Collins). Caught in flat at BUF 36.,20,3,8,BUF 23,0,BUF,
+20,3558,3,01:11,"(1:11) (Shotgun) K.Orton pass deep middle to C.Hogan to NE 45 for 24 yards (K.Arrington, D.Harmon). Caught at 50, crossing from left. PENALTY on NE-D.Harmon, Face Mask (15 Yards), 15 yards, enforced at NE 45.",12,3,20,BUF 31,0,BUF,PENALTY
+20,3725,3,00:26,(:26) (Shotgun) K.Orton sacked at NE 47 for -7 yards (R.Ninkovich).,20,3,20,NE 40,0,BUF,
+20,3701,2,00:30,"(:30) (Shotgun) K.Orton pass incomplete short right to R.Woods. Reciever fell from hook pattern, overthrown at NE 30.",20,3,27,NE 40,0,BUF,
+21,4800,1,13:10,(13:10) T.Brady pass short right to J.Edelman to BUF 33 for 9 yards (B.Spikes).,10,4,80,BUF 42,0,NE,
+21,3929,2,12:44,"(12:44) B.Bolden up the middle to BUF 33 for no gain (J.Hughes, B.Spikes).",1,4,80,BUF 33,0,NE,
+21,3823,2,14:12,"(14:12) T.Brady pass short left to J.Edelman ran ob at NE 37 for 17 yards [K.Williams]. Out-pattern, caught at NE 35.",10,4,17,NE 20,0,NE,
+21,4131,0,08:42,"S.Gostkowski extra point is GOOD, Center-D.Aiken, Holder-R.Allen.",0,4,80,BUF 2,1,NE,XP
+21,3801,1,14:50,"(14:50) S.Vereen up the middle to NE 20 for no gain (K.Rivers, B.Spikes).",10,4,0,NE 20,0,NE,
+21,3952,3,12:02,(12:02) T.Brady up the middle to BUF 29 for 4 yards (S.Charles).,1,4,51,BUF 33,0,NE,
+21,3873,2,13:23,"(13:23) T.Brady pass short middle to J.Edelman to NE 43 for 5 yards (N.Robey, D.Williams). PENALTY on BUF-J.Hughes, Roughing the Passer, 15 yards, enforced at NE 43.",9,4,80,NE 38,0,NE,PENALTY
+21,3908,1,12:44,(12:44) B.Bolden up the middle to BUF 33 for 9 yards (J.Hughes; B.Spikes).,10,4,80,BUF 42,0,NE,
+21,4106,3,08:47,"(8:47) (Shotgun) T.Brady pass short middle to B.LaFell for 18 yards, TOUCHDOWN. Caught at BUF 12, slanting from left.",12,4,80,BUF 18,1,NE,TD
+21,4018,1,10:12,(10:12) B.Bolden right guard to BUF 18 for -2 yards (Ma.Williams).,10,4,80,BUF 16,0,NE,
+21,3974,1,11:26,(11:26) B.Bolden up the middle to BUF 24 for 5 yards (K.Rivers).,10,4,80,BUF 29,0,NE,
+21,3851,1,13:55,(13:55) B.Bolden left end to NE 38 for 1 yard (B.Spikes).,10,4,18,NE 37,0,NE,
+21,4040,2,09:34,"(9:34) (Shotgun) T.Brady pass deep right to R.Gronkowski for 18 yards, TOUCHDOWN NULLIFIED by Penalty. Caught near sideline at BUF 2. PENALTY on NE-J.Devey, Offensive Holding, 10 yards, enforced at BUF 18 - No Play.",12,4,52,BUF 18,0,NE,PENALTY
+21,3996,2,10:51,"(10:51) B.Bolden left tackle to BUF 16 for 8 yards (S.Gilmore, K.Rivers).",5,4,80,BUF 24,0,NE,
+21,4077,2,09:29,"(9:29) T.Brady pass short left to R.Gronkowski to BUF 18 for 10 yards (Ma.Williams). Swing pass, caught at BUF 32.",22,4,62,BUF 28,0,NE,
+22,4332,1,06:41,"(6:41) (No Huddle) K.Orton pass deep left to C.Hogan to NE 8 for 17 yards (D.McCourty). Caught at NE 8, slanting to middle.",10,4,72,NE 25,0,BUF,
+22,4164,1,08:42,"(8:42) K.Orton pass incomplete short middle to C.Spiller. Screen pass, underthrown at BUF 20.",10,4,0,BUF 20,0,BUF,
+22,4148,0,08:42,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback. Kick through end zone.",0,4,0,NE 35,0,NE,KICKOFF
+22,4304,4,07:15,"(7:15) (No Huddle, Shotgun) K.Orton pass deep right to R.Woods to NE 25 for 35 yards (A.Dennard). Caught in flat at NE 36.",2,4,55,BUF 40,0,BUF,
+22,4250,2,08:03,"(8:03) (Shotgun) K.Orton pass incomplete short left to C.Hogan. Dropped, receiver along sideline at BUF 40.",10,4,12,BUF 32,0,BUF,
+22,4192,2,08:37,"(8:37) (Shotgun) K.Orton pass short right to F.Jackson to BUF 32 for 12 yards (P.Chung, K.Arrington). Caught at BUF 20.",10,4,12,BUF 20,0,BUF,
+22,4385,0,05:58,"(Pass formation) TWO-POINT CONVERSION ATTEMPT. K.Orton pass to R.Woods is complete. ATTEMPT SUCCEEDS. The Replay Official challenged the runner broke the plane ruling, and the play was Upheld. The ruling on the field stands.",0,4,80,NE 2,1,BUF,2PS
+22,4360,1,06:03,"(6:03) (No Huddle) K.Orton pass short right to C.Hogan for 8 yards, TOUCHDOWN. Caught 3 yds. into end zone, near sideline.",8,4,80,NE 8,1,BUF,TD
+22,4224,1,08:07,"(8:07) (No Huddle, Shotgun) K.Orton pass incomplete short middle to S.Chandler. Dropped, receiver at BUF 36.",10,4,12,BUF 32,0,BUF,
+22,4276,3,07:57,(7:57) (Shotgun) K.Orton pass short left to R.Woods to BUF 40 for 8 yards (D.McCourty). Caught at BUF 34.,10,4,20,BUF 32,0,BUF,
+23,4753,2,03:00,"(3:00) (Shotgun) T.Brady pass deep right to B.LaFell for 56 yards, TOUCHDOWN.",12,4,93,NE 44,1,NE,TD
+23,4419,0,05:58,"J.Gay kicks 60 yards from BUF 35 to NE 5. P.Chung to NE 23 for 18 yards (A.Dixon, K.Ladler). Return credited to NE 13 (spot of foul). PENALTY on NE-D.Harmon, Illegal Block Above the Waist, 6 yards, enforced at NE 13.",0,4,0,BUF 35,0,BUF,KICKOFF
+23,4713,1,03:07,(3:07) B.Bolden left end to NE 44 for -2 yards (S.Gilmore).,10,4,37,NE 46,0,NE,
+23,4666,2,04:26,(4:26) (Shotgun) S.Vereen left guard to NE 29 for -1 yards (N.Bradham; M.Dareus).,15,4,22,NE 30,0,NE,
+23,4537,1,05:13,"(5:13) B.Bolden right tackle to NE 20 for no gain (N.Bradham, K.Williams). PENALTY on NE-B.LaFell, False Start, 5 yards, enforced at NE 20 - No Play.",10,4,8,NE 20,0,NE,PENALTY
+23,4774,0,02:49,"S.Gostkowski extra point is GOOD, Center-D.Aiken, Holder-R.Allen.",0,4,93,BUF 2,1,NE,XP
+23,4688,3,03:48,(3:48) (Shotgun) T.Brady pass deep middle to R.Gronkowski to NE 46 for 17 yards (D.Williams).,16,4,39,NE 29,0,NE,
+23,4571,1,05:13,(5:13) T.Brady pass short right to J.Edelman to NE 35 for 20 yards (L.McKelvin; N.Bradham).,15,4,28,NE 15,0,NE,
+23,4495,2,05:19,"(5:19) (Shotgun) T.Brady pass incomplete short middle to R.Gronkowski (L.McKelvin) [M.Lawson]. Receiver and coverage at NE 17. PENALTY on BUF-J.Wynn, Defensive Offside, 5 yards, enforced at NE 15 - No Play.",2,4,8,NE 15,0,NE,PENALTY
+23,4596,1,04:31,"(4:31) PENALTY on NE-N.Solder, False Start, 5 yards, enforced at NE 35 - No Play.",10,4,23,NE 35,0,NE,PENALTY
+23,4468,1,05:52,"(5:52) T.Brady pass short right to R.Gronkowski pushed ob at NE 15 for 8 yards (D.Williams). Out-pattern, caught at NE 15.",10,4,8,NE 7,0,NE,
+23,4735,0,03:00,Timeout #1 by BUF at 03:00.,0,4,37,,0,,TIMEOUT
+23,4638,1,04:30,(4:30) (Shotgun) T.Brady pass incomplete short left to J.Edelman.,15,4,23,NE 30,0,NE,
+1,54,1,15:00,(15:00) C.Spiller left tackle to BUF 17 for -3 yards (A.Dennard).,10,1,-3,BUF 20,0,BUF,
+1,98,3,13:38,(13:38) (Shotgun) K.Orton pass incomplete short left to R.Woods. Thrown wide of receiver in flat at BUF 25.,9,1,1,BUF 21,0,BUF,
+1,125,4,13:34,"(13:34) C.Schmidt punts 42 yards to NE 37, Center-G.Sanborn. J.Edelman to NE 37 for no gain (D.Williams).",9,1,1,BUF 21,0,BUF,PUNT
+1,35,0,15:00,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback. Kick through end zone.",0,1,1,NE 35,0,NE,KICKOFF
+1,76,2,14:23,"(14:23) A.Dixon up the middle to BUF 21 for 4 yards (J.Collins, V.Wilfork).",13,1,1,BUF 17,0,BUF,
+3,544,3,06:52,"(6:52) (Shotgun) K.Orton pass incomplete deep left to M.Goodwin. Overthrown, receiver near sideline at NE 19.",10,1,30,50,0,BUF,
+3,450,2,09:27,"(9:27) A.Dixon up the middle to BUF 35 for 5 yards (J.Mayo, P.Chung).",10,1,15,BUF 30,0,BUF,
+3,570,4,06:47,"(6:47) C.Schmidt punts 50 yards to end zone, Center-G.Sanborn, Touchback. Kick into end zone.",10,1,30,50,0,BUF,PUNT
+3,472,3,08:48,"(8:48) (Shotgun) K.Orton pass short middle to S.Chandler to 50 for 15 yards (K.Arrington). Caught at BUF 48, crossing from right.",5,1,30,BUF 35,0,BUF,
+3,417,1,09:32,(9:32) (Shotgun) K.Orton pass incomplete short left to F.Jackson. Thrown wide of receiver in flat at BUF 32.,10,1,10,BUF 30,0,BUF,
+3,522,2,07:35,(7:35) (Shotgun) C.Spiller right tackle pushed ob at 50 for -1 yards (D.Revis).,9,1,30,NE 49,0,BUF,
+3,389,2,10:08,"(10:08) (Shotgun) K.Orton pass short left to R.Woods to BUF 30 for 5 yards (J.Mayo, D.Skinner). Screen pass, caught at BUF 25.",5,1,10,BUF 25,0,BUF,
+3,367,1,10:46,(10:46) C.Spiller left guard to BUF 25 for 5 yards (A.Dennard).,10,1,5,BUF 20,0,BUF,
+3,500,1,08:13,(8:13) A.Dixon right tackle to NE 49 for 1 yard (Cha.Jones).,10,1,31,50,0,BUF,
+2,151,1,13:26,(13:26) (Shotgun) T.Brady pass short right to R.Gronkowski to NE 44 for 7 yards (L.McKelvin). Caught in flat at NE 40.,10,1,7,NE 37,0,NE,
+2,201,3,12:04,"(12:04) (Shotgun) T.Brady pass short middle to R.Gronkowski to BUF 48 for 10 yards (C.Graham, D.Searcy). Caught at NE 46, crossing to left.",5,1,15,NE 42,0,NE,
+2,179,2,12:44,"(12:44) S.Ridley right guard to NE 42 for -2 yards (N.Bradham, Ma.Williams).",3,1,5,NE 44,0,NE,
+2,322,3,11:20,(11:20) (Shotgun) S.Vereen up the middle to NE 49 for 2 yards (K.Williams).,15,1,12,NE 47,0,NE,
+2,345,4,10:54,"(10:54) R.Allen punts 51 yards to end zone, Center-D.Aiken, Touchback. Kick through end zone.",13,1,12,NE 49,0,NE,PUNT
+2,229,1,11:31,"(11:31) (No Huddle, Shotgun) T.Brady pass incomplete deep left to B.LaFell. Thrown wide of receiver, along sideline at BUF 30.",10,1,15,BUF 48,0,NE,
+2,299,3,11:20,"(11:20) (Shotgun) PENALTY on NE-J.Edelman, False Start, 5 yards, enforced at BUF 48 - No Play.",10,1,10,BUF 48,0,NE,PENALTY
+2,281,0,11:20,Timeout #1 by NE at 11:20.,0,1,15,,0,,TIMEOUT
+2,255,2,11:27,"(11:27) T.Brady pass incomplete deep middle to B.Tyms. Overthrown, receiver at BUF 7.",10,1,15,BUF 48,0,NE,
+5,994,1,15:00,(15:00) (Shotgun) K.Orton pass short middle intended for M.Goodwin INTERCEPTED by J.Collins at NE 39. J.Collins to NE 39 for no gain (M.Goodwin).,10,2,25,NE 49,0,BUF,INT
+5,978,0,,END QUARTER 1,0,1,30,,0,,
+5,906,1,00:57,"(:57) K.Orton pass short middle to F.Jackson to BUF 34 for 8 yards (C.Walker, D.Skinner). Shovel pass, caught at BUF 25, slanting to right.",10,1,30,BUF 26,0,BUF,
+5,962,0,,End of quarter - 1.34 pm,0,1,25,,0,,
+5,934,2,00:12,"(:12) (Shotgun) K.Orton pass short middle to S.Chandler to NE 49 for 17 yards (D.McCourty). Caught at BUF 49, slanting from left.",2,1,25,BUF 34,0,BUF,
+4,592,1,06:39,(6:39) T.Brady pass incomplete deep right to J.Edelman. Receiver fell in flat at NE 37.,10,1,0,NE 20,0,NE,
+4,696,1,04:29,"(4:29) T.Brady pass short middle to S.Ridley to BUF 41 for 6 yards (C.Graham, P.Brown). Buttonhook, caught at BUF 44.",10,1,39,BUF 47,0,NE,
+4,851,4,01:06,"(1:06) (Field Goal formation) PENALTY on NE-D.Aiken, False Start, 4 yards, enforced at BUF 14 - No Play.",1,1,62,BUF 14,0,NE,PENALTY
+4,746,3,03:22,"(3:22) S.Ridley left tackle to BUF 38 for no gain (B.Spikes; T.Powell). PENALTY on BUF-J.Hughes, Unsportsmanlike Conduct, 15 yards, enforced at BUF 38.",1,1,57,BUF 38,0,NE,PENALTY
+4,668,1,05:20,"(5:20) T.Brady pass short right to M.Hoomanawanui to BUF 47 for 15 yards (N.Bradham, J.Wynn). Caught along sideline at 50.",10,1,33,NE 38,0,NE,
+4,778,1,02:52,"(2:52) (Shotgun) T.Brady pass short right to B.LaFell to BUF 17 for 6 yards (L.McKelvin). Screen pass, caught at BUF 25.",10,1,63,BUF 23,0,NE,
+4,614,2,06:32,"(6:32) S.Ridley up the middle to NE 29 for 9 yards (D.Williams, C.Graham).",10,1,9,NE 20,0,NE,
+4,640,3,05:54,"(5:54) (Shotgun) T.Brady pass short left to R.Gronkowski to NE 38 for 9 yards (D.Williams; N.Bradham). Caught at NE 35, crossing to middle.",1,1,18,NE 29,0,NE,
+4,724,2,03:58,"(3:58) S.Ridley up the middle to BUF 38 for 3 yards (J.Hughes, K.Rivers).",4,1,42,BUF 41,0,NE,
+4,829,3,01:38,"(1:38) J.Develin up the middle to BUF 14 for no gain (K.Williams, T.Powell). Measurement = fourth down.",1,1,66,BUF 14,0,NE,
+4,885,4,01:01,"(1:01) S.Gostkowski 36 yard field goal is No Good, Wide Left, Center-D.Aiken, Holder-R.Allen.",5,1,62,BUF 18,0,NE,FGM
+4,807,2,02:17,(2:17) S.Ridley up the middle to BUF 14 for 3 yards (M.Dareus).,4,1,66,BUF 17,0,NE,
+7,1317,4,11:03,"(11:03) C.Schmidt punts 44 yards to NE 41, Center-G.Sanborn. J.Edelman to 50 for 9 yards (G.Sanborn, T.Powell). Penalty on BUF-L.Dean, Offensive Holding, offsetting, enforced at BUF 15 - No Play. Penalty on NE-D.Skinner, Illegal Block Above the Waist, offsetting.",1,2,9,BUF 15,0,BUF,
+7,1210,0,13:04,"S.Gostkowski kicks 68 yards from NE 35 to BUF -3. C.Spiller to BUF 15 for 18 yards (D.Skinner). Return credited to BUF 12 (spot of foul). PENALTY on BUF-L.Smith, Offensive Holding, 6 yards, enforced at BUF 12.",0,2,0,NE 35,0,NE,KICKOFF
+7,1270,2,12:18,(12:18) A.Dixon up the middle to BUF 14 for 6 yards (J.Mayo).,8,2,8,BUF 8,0,BUF,
+7,1357,4,10:52,"(10:52) C.Schmidt punts 58 yards to NE 27, Center-G.Sanborn. J.Edelman to NE 32 for 5 yards (D.Williams).",1,2,9,BUF 15,0,BUF,PUNT
+7,1292,3,11:45,(11:45) (Shotgun) K.Orton pass short left to R.Woods to BUF 15 for 1 yard (A.Dennard). Caught near sideline at BUF 15.,2,2,9,BUF 14,0,BUF,
+7,1248,1,12:59,"(12:59) F.Jackson up the middle to BUF 8 for 2 yards (J.Mayo, V.Wilfork).",10,2,2,BUF 6,0,BUF,
+6,1051,2,14:19,"(14:19) (Shotgun) T.Brady pass incomplete short right to S.Vereen [M.Lawson]. Underthrown under pressure, receiver in flat at NE 49.",2,2,8,NE 47,0,NE,
+6,1022,1,14:53,(14:53) (Shotgun) T.Brady pass short left to J.Edelman to NE 47 for 8 yards (N.Bradham). Caught at NE 44.,10,2,8,NE 39,0,NE,
+6,1077,3,14:14,"(14:14) (Shotgun) T.Brady pass short middle to J.Edelman to BUF 40 for 13 yards (C.Graham). Caught at 50, crossing to left.",2,2,21,NE 47,0,NE,
+6,1131,1,13:16,"(13:16) T.Brady pass incomplete deep right to J.Edelman. Overthrown, receiver in rear corner of end zone. PENALTY on BUF-D.Williams, Defensive Pass Interference, 29 yards, enforced at BUF 30 - No Play.",10,2,60,BUF 30,0,NE,PENALTY
+6,1168,1,13:08,"(13:08) T.Brady pass short right to T.Wright for 1 yard, TOUCHDOWN. Caught 7 yds. into end zone, crossing towards corner.",1,2,61,BUF 1,1,NE,TD
+6,1105,1,13:42,(13:42) J.Edelman left end pushed ob at BUF 30 for 10 yards (D.Searcy). End-around.,10,2,31,BUF 40,0,NE,
+6,1193,0,13:04,"S.Gostkowski extra point is GOOD, Center-D.Aiken, Holder-R.Allen.",0,2,61,BUF 2,1,NE,XP
+9,1623,2,05:45,(5:45) F.Jackson up the middle to NE 14 for 5 yards (Chr.Jones).,10,2,53,NE 19,0,BUF,
+9,1645,3,05:11,"(5:11) K.Orton pass short left to S.Chandler to NE 9 for 5 yards (D.Harmon). Caught at BUF 9, crossing from middle.",5,2,60,NE 14,0,BUF,
+9,1541,2,07:18,(7:18) A.Dixon left end to NE 47 for 5 yards (D.Revis).,7,2,20,BUF 48,0,BUF,
+9,1600,1,05:50,(5:50) K.Orton pass incomplete short left to S.Chandler [R.Ninkovich].,10,2,48,NE 19,0,BUF,
+9,1475,1,08:43,"(8:43) F.Jackson up the middle to BUF 37 for 4 yards (V.Wilfork, R.Ninkovich).",10,2,4,BUF 33,0,BUF,
+9,1723,0,03:52,"D.Carpenter extra point is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",0,2,67,NE 2,1,BUF,XP
+9,1696,2,03:57,"(3:57) (Shotgun) K.Orton pass short middle to R.Woods for 7 yards, TOUCHDOWN. Caught 7 yds. into end zone, crossing from right.",7,2,67,NE 7,1,BUF,TD
+9,1519,1,07:40,"(7:40) A.Dixon up the middle to BUF 48 for 3 yards (J.Mayo, Cha.Jones). NE-J.Mayo was injured during the play. He is Out.  J.Mayo taken off field on cart.",10,2,67,BUF 45,0,BUF,
+9,1497,2,08:12,"(8:12) F.Jackson up the middle to BUF 45 for 8 yards (Chr.Jones, P.Chung).",6,2,12,BUF 37,0,BUF,
+9,1571,3,06:33,(6:33) (Shotgun) K.Orton pass short left to S.Chandler to NE 19 for 28 yards (P.Chung). Caught near sideline at NE 37.,2,2,48,NE 47,0,BUF,
+9,1673,1,04:32,"(4:32) F.Jackson up the middle to NE 7 for 2 yards (C.Walker, P.Chung).",9,2,60,NE 9,0,BUF,
+8,1385,1,10:41,(10:41) T.Brady sacked at NE 23 for -9 yards (J.Hughes).,10,2,-9,NE 32,0,NE,
+8,1427,3,09:24,"(9:24) (Shotgun) S.Vereen left guard to NE 26 for 1 yard (P.Brown, B.Spikes).",17,2,-6,NE 25,0,NE,
+8,1405,2,10:01,(10:01) S.Vereen right guard to NE 25 for 2 yards (N.Robey).,19,2,-7,NE 23,0,NE,
+8,1449,4,08:52,"(8:52) R.Allen punts 50 yards to BUF 24, Center-D.Aiken. L.McKelvin to BUF 33 for 9 yards (C.White, J.Davis).",16,2,-6,NE 26,0,NE,PUNT
+11,1942,1,02:15,"(2:15) (Shotgun) K.Orton sacked at BUF 23 for -3 yards (Cha.Jones). FUMBLES (Cha.Jones), RECOVERED by NE-Cha.Jones at BUF 24. Cha.Jones to BUF 24 for no gain (C.Glenn).",10,2,-2,BUF 26,0,BUF,FUMBLE
+10,1807,3,02:32,"(2:32) (Shotgun) T.Brady pass short middle to R.Gronkowski to NE 33 for 10 yards (D.Williams) [J.Hughes]. FUMBLES (D.Williams), and recovers at NE 40. R.Gronkowski to NE 40 for no gain (D.Searcy). Caught at NE 30, crossing to left. Buffalo challenged the pass completion ruling, and the play was REVERSED. (Shotgun) T.Brady pass incomplete short middle to R.Gronkowski (D.Williams) [J.Hughes]. Receiver did not have control of ball at NE 30, crossing to left.",7,2,3,NE 23,0,NE,
+10,1756,1,03:52,"(3:52) (Shotgun) T.Brady pass short right to J.Develin to NE 22 for 2 yards (N.Bradham, L.McKelvin).",10,2,2,NE 20,0,NE,
+10,1740,0,03:52,"J.Gay kicks 65 yards from BUF 35 to end zone, Touchback. Kick through end zone.",0,2,2,BUF 35,0,BUF,KICKOFF
+10,1785,2,03:13,(3:13) T.Brady scrambles up the middle to NE 23 for 1 yard (J.Hughes).,8,2,3,NE 22,0,NE,
+10,1900,4,02:28,"(2:28) R.Allen punts 54 yards to BUF 23, Center-D.Aiken. L.McKelvin to BUF 26 for 3 yards (C.White).",7,2,3,NE 23,0,NE,PUNT
+13,2125,0,01:43,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback. Kick through end zone.",0,2,-7,NE 35,0,NE,KICKOFF
+13,2207,3,01:09,(1:09) (Shotgun) K.Orton sacked at BUF 13 for -6 yards (R.Ninkovich).,11,2,-7,BUF 19,0,BUF,
+13,2227,0,01:04,Timeout #2 by NE at 01:04.,0,2,-7,,0,,TIMEOUT
+13,2177,2,01:13,"(1:13) (No Huddle, Shotgun) K.Orton pass incomplete deep right to M.Goodwin. Overthrown, receiver along sideline at BUF 37.",11,2,-1,BUF 19,0,BUF,
+13,2141,1,01:43,"(1:43) (Shotgun) K.Orton pass short right to F.Jackson to BUF 19 for -1 yards (R.Ninkovich, Chr.Jones). Screen pass, caught at BUF 15.",10,2,-1,BUF 20,0,BUF,
+13,2244,4,01:03,"(1:03) C.Schmidt punts 52 yards to NE 35, Center-G.Sanborn. J.Edelman to NE 42 for 7 yards (C.Graham, G.Sanborn).",17,2,-7,BUF 13,0,BUF,PUNT
+12,2051,2,01:54,"(1:54) (Shotgun) T.Brady pass incomplete short left to B.LaFell (N.Robey). Screen pass, overthrown at BUF 30.",10,2,0,BUF 24,0,NE,
+12,1995,0,02:00,Two-Minute Warning,0,2,0,,0,,
+12,1972,1,02:09,"(2:09) S.Ridley up the middle to BUF 24 for no gain (N.Bradham, J.Hughes).",10,2,0,BUF 24,0,NE,
+12,2078,3,01:50,"(1:50) (Shotgun) T.Brady pass incomplete short middle to J.Edelman [M.Dareus]. Underthrown under pressure, receiver at BUF 20, crossing from right.",10,2,0,BUF 24,0,NE,
+12,2105,4,01:47,"(1:47) S.Gostkowski 42 yard field goal is GOOD, Center-D.Aiken, Holder-R.Allen.",10,2,0,BUF 24,1,NE,FG
+12,2012,2,02:00,"(2:00) (Shotgun) T.Brady pass short middle to B.LaFell to BUF 6 for 18 yards (N.Bradham, C.Graham). Caught at BUF 19, crossing to left. Penalty on BUF-J.Hughes, Defensive Offside, offsetting, enforced at BUF 24 - No Play. Penalty on NE-M.Cannon, Offensive Holding, offsetting.",10,2,0,BUF 24,0,NE,
+15,2407,1,00:14,"(:14) (Shotgun) C.Spiller right tackle to BUF 45 for 15 yards (D.McCourty). FUMBLES (D.McCourty), RECOVERED by NE-Z.Moore at BUF 42. Z.Moore ran ob at BUF 42 for no gain.",10,2,12,BUF 30,0,BUF,FUMBLE
+14,2300,2,00:30,"(:30) T.Brady pass incomplete short middle to R.Gronkowski. Overthrown, receiver at 50.",7,2,-3,NE 45,0,NE,
+14,2346,0,00:20,Timeout #1 by BUF at 00:20.,0,2,2,,0,,TIMEOUT
+14,2271,1,00:52,"(:52) (Shotgun) T.Brady pass short left to S.Vereen to NE 45 for 3 yards (M.Dareus, J.Hughes). Caught at NE 36.",10,2,-3,NE 42,0,NE,
+14,2369,4,00:20,"(:20) R.Allen punts 31 yards to BUF 30, Center-D.Aiken, out of bounds.",13,2,-3,NE 39,0,NE,PUNT
+14,2327,3,00:30,(:30) (Shotgun) T.Brady sacked at NE 39 for -6 yards (Ma.Williams).,7,2,-3,NE 45,0,NE,
+17,2604,2,14:42,(14:42) S.Ridley left end pushed ob at NE 39 for 10 yards (B.Spikes).,1,3,19,NE 29,0,NE,
+17,2725,1,12:38,"(12:38) T.Brady pass deep middle to B.Tyms for 43 yards, TOUCHDOWN. Caught at goal line. The Replay Official challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands.",10,3,80,BUF 43,1,NE,TD
+17,2626,1,14:23,(14:23) T.Brady pass short right to J.Edelman to NE 44 for 5 yards. Caught near sideline at NE 42.,10,3,24,NE 39,0,NE,
+17,2813,0,12:30,"S.Gostkowski extra point is GOOD, Center-D.Aiken, Holder-R.Allen.",0,3,80,BUF 7,1,NE,XP
+17,2544,0,15:00,"J.Gay kicks 65 yards from BUF 35 to end zone, Touchback. P.Chung kneels 8 yds. deep.",0,3,24,BUF 35,0,BUF,KICKOFF
+17,2560,1,15:00,"(15:00) T.Brady pass short left to A.Dobson pushed ob at NE 29 for 9 yards (C.Graham). Swing pass, caught at NE 21.",10,3,9,NE 20,0,NE,
+17,2700,3,13:08,"(13:08) (Shotgun) T.Brady pass short middle to B.LaFell to BUF 43 for 17 yards (N.Bradham, C.Graham). Caught at NE 46, crossing from right.",9,3,37,NE 40,0,NE,
+17,2654,2,14:03,"(14:03) S.Ridley up the middle to NE 45 for 1 yard (J.Hughes, N.Bradham).",5,3,25,NE 44,0,NE,
+17,2753,0,12:30,"(Kick formation) PENALTY on NE-J.Kline, False Start, 5 yards, enforced at BUF 2 - No Play.",0,3,80,BUF 2,0,NE,PENALTY
+17,2676,3,14:03,"(14:03) (Shotgun) PENALTY on NE-A.Dobson, False Start, 5 yards, enforced at NE 45 - No Play.",4,3,20,NE 45,0,NE,PENALTY
+16,2490,2,00:03,"(:03) S.Gostkowski 53 yard field goal is GOOD, Center-D.Aiken, Holder-R.Allen.",3,2,7,BUF 35,1,NE,FG
+16,2462,1,00:06,(:06) (Shotgun) T.Brady pass short left to J.Edelman ran ob at BUF 35 for 7 yards. Caught along sideline at BUF 35.,10,2,7,BUF 42,0,NE,
+19,3215,0,05:33,"J.Gay kicks 64 yards from BUF 35 to NE 1. P.Chung to NE 22 for 21 yards (L.Dean, A.Dixon).",0,3,0,BUF 35,0,BUF,KICKOFF
+19,3390,3,03:17,"(3:17) (Shotgun) T.Brady pass incomplete short right to S.Vereen. Overthrown, receiver near sideline at BUF 19.",5,3,56,BUF 22,0,NE,
+19,3365,2,03:35,(3:35) (Shotgun) T.Brady pass short right to J.Edelman pushed ob at BUF 22 for 7 yards (K.Rivers). Caught along sideline at BUF 25.,12,3,56,BUF 29,0,NE,
+19,3238,1,05:26,"(5:26) (Shotgun) T.Brady pass deep right to R.Gronkowski to BUF 45 for 33 yards (D.Williams, C.Graham). Caught near sideline at NE 46,",10,3,33,NE 22,0,NE,
+19,3266,1,04:52,"(4:52) S.Ridley up the middle to BUF 44 for 1 yard (N.Bradham, B.Spikes).",10,3,34,BUF 45,0,NE,
+19,3288,2,04:10,"(4:10) (Shotgun) T.Brady pass incomplete deep right to R.Gronkowski. NE-R.Gronkowski was injured during the play.  Off receiver's hands, near sideline at BUF 27. PENALTY on BUF-D.Williams, Defensive Pass Interference, 17 yards, enforced at BUF 44 - No Play.",9,3,51,BUF 44,0,NE,PENALTY
+19,3328,1,04:05,(4:05) S.Ridley left tackle to BUF 29 for -2 yards (S.Gilmore). NE-S.Ridley was injured during the play. He is Out.,10,3,56,BUF 27,0,NE,
+19,3421,4,03:12,"(3:12) S.Gostkowski 40 yard field goal is GOOD, Center-D.Aiken, Holder-R.Allen.",5,3,56,BUF 22,1,NE,FG
+18,3080,1,08:03,"(8:03) (Shotgun) C.Spiller up the middle to NE 23 for 4 yards (D.Skinner, V.Wilfork).",10,3,57,NE 27,0,BUF,
+18,3198,0,05:33,"D.Carpenter extra point is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",0,3,80,NE 2,1,BUF,XP
+18,2847,1,12:30,"(12:30) (Shotgun) K.Orton pass short right to R.Woods to BUF 29 for 9 yards (P.Chung, D.Skinner). Caught near sideline at BUF 27. Penalty on NE-A.Dennard, Illegal Use of Hands, declined.",10,3,9,BUF 20,0,BUF,
+18,2909,2,12:19,(12:19) C.Spiller left guard to BUF 31 for 2 yards (Cha.Jones).,1,3,17,BUF 29,0,BUF,
+18,3030,2,09:31,"(9:31) A.Dixon up the middle to NE 49 for -1 yards (P.Chung, J.Collins).",10,3,31,NE 48,0,BUF,
+18,3102,2,07:26,(7:26) (Shotgun) K.Orton pass deep left to S.Watkins to NE 3 for 20 yards (D.Revis). Caught along sideline at NE 3.,6,3,77,NE 23,0,BUF,
+18,2931,1,11:44,"(11:44) F.Jackson left guard to BUF 37 for 6 yards (Cha.Jones, J.Collins).",10,3,17,BUF 31,0,BUF,
+18,3152,2,06:14,"(6:14) (Shotgun) K.Orton pass short middle to C.Hogan to NE 1 for 6 yards (D.McCourty). Caught at NE 2, crossing from left.",7,3,79,NE 7,0,BUF,
+18,3180,3,05:35,"(5:35) F.Jackson up the middle for 1 yard, TOUCHDOWN.",1,3,80,NE 1,1,BUF,TD
+18,3130,1,06:50,(6:50) (Shotgun) F.Jackson up the middle to NE 7 for -4 yards (P.Chung).,3,3,73,NE 3,0,BUF,
+18,2975,3,10:31,(10:31) (Shotgun) K.Orton pass short left to R.Woods ran ob at NE 48 for 13 yards. Caught near sideline at BUF 40.,2,3,32,BUF 39,0,BUF,
+18,3052,3,08:44,"(8:44) (Shotgun) K.Orton pass deep middle to S.Chandler to NE 27 for 22 yards (T.Wilson, D.McCourty). Caught at NE 32, slanting to right.",11,3,53,NE 49,0,BUF,
+18,3008,1,10:10,"(10:10) F.Jackson up the middle to NE 48 for no gain (C.Walker, V.Wilfork).",10,3,32,NE 48,0,BUF,
+18,2831,0,12:30,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback. C.Spiller kneels 5 yds. deep.",0,3,11,NE 35,0,NE,KICKOFF
+18,2953,2,11:12,"(11:12) (Shotgun) F.Jackson left guard to BUF 39 for 2 yards (V.Wilfork, R.Ninkovich).",4,3,19,BUF 37,0,BUF,

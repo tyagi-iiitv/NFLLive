@@ -1,174 +1,174 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1606,1,05:58,,10,2,34,WAS 44,0,WAS,
-9,1582,1,06:34,,10,2,24,WAS 32,0,WAS,
-9,1503,1,07:56,,10,2,3,WAS 20,0,WAS,
-9,1763,0,02:00,,0,2,67,,0,,
-9,1627,1,05:29,,10,2,67,NE 46,0,WAS,
-9,1648,2,04:54,,8,2,67,NE 44,0,WAS,
-9,1546,3,07:13,,7,2,12,WAS 23,0,WAS,
-9,1780,2,02:00,,4,2,71,NE 13,0,WAS,
-9,1910,4,00:16,,5,2,75,NE 5,1,WAS,FG
-9,1848,0,00:26,,0,2,67,,0,,TIMEOUT
-9,1893,0,00:16,,0,2,75,,0,,TIMEOUT
-9,1801,1,01:19,,9,2,67,NE 9,0,WAS,
-9,1524,2,07:18,,7,2,3,WAS 23,0,WAS,
-9,1822,2,00:37,,13,2,67,NE 13,0,WAS,
-9,1694,2,03:41,,7,2,59,NE 27,0,WAS,
-9,1869,3,00:26,,13,2,75,NE 13,0,WAS,
-9,1715,3,03:03,,1,2,61,NE 21,0,WAS,
-9,1673,1,04:18,,10,2,53,NE 30,0,WAS,
-9,1488,0,07:56,,0,2,0,NE 35,0,NE,KICKOFF
-9,1738,1,02:23,,10,2,67,NE 19,0,WAS,
-18,3460,2,07:25,,10,4,31,NE 31,0,NE,
-18,3484,1,06:51,,10,4,32,NE 48,0,NE,
-18,3505,2,06:13,,9,4,49,NE 49,0,NE,
-18,3529,1,05:30,,10,4,49,WAS 34,0,NE,
-18,3605,4,04:02,,9,4,45,WAS 33,0,NE,PENALTY
-18,3437,1,07:28,,10,4,14,NE 31,0,NE,
-18,3632,4,03:57,,14,4,45,WAS 38,0,NE,PUNT
-18,3389,2,08:38,,6,4,6,NE 21,0,NE,
-18,3410,3,07:59,,4,4,14,NE 23,0,NE,
-18,3572,3,04:45,,10,4,50,WAS 34,0,NE,
-18,3368,1,09:15,,10,4,4,NE 17,0,NE,
-18,3550,2,04:49,,10,4,49,WAS 34,0,NE,
-6,965,2,01:20,,8,1,52,WAS 16,0,NE,
-6,943,1,01:58,,10,1,52,WAS 18,0,NE,
-6,919,3,02:43,,8,1,50,NE 34,0,NE,
-6,873,1,03:27,,10,1,2,NE 32,0,NE,
-6,897,2,02:48,,8,1,2,NE 34,0,NE,
-6,987,3,01:16,,8,1,52,WAS 16,0,NE,INT
-14,2503,1,06:05,,10,3,-10,NE 27,0,NE,PENALTY
-14,2624,4,05:16,,6,3,4,NE 31,0,NE,PUNT
-14,2538,1,05:42,,20,3,-10,NE 17,0,NE,
-14,2560,2,05:35,,20,3,4,NE 17,0,NE,TIMEOUT
-14,2602,3,05:20,,6,3,4,NE 31,0,NE,
-7,1178,4,13:05,,11,2,10,NE 36,0,WAS,
-7,1097,1,15:00,,10,2,12,NE 35,0,WAS,
-7,1142,3,13:48,,7,2,10,NE 32,0,WAS,
-7,1057,3,00:25,,8,1,11,NE 44,0,WAS,
-7,1013,1,01:07,,10,1,2,NE 46,0,WAS,
-7,1161,0,13:05,,0,2,10,,0,,TIMEOUT
-7,1035,2,00:34,,8,1,2,NE 44,0,WAS,
-7,1081,0,,,0,1,11,,0,,
-7,1118,2,14:27,,9,2,14,NE 34,0,WAS,
-8,1221,2,12:30,,4,2,16,NE 42,0,NE,
-8,1423,2,08:47,,11,2,53,WAS 11,0,NE,
-8,1401,1,09:22,,12,2,53,WAS 12,0,NE,
-8,1368,1,09:26,,7,2,52,WAS 7,0,NE,PENALTY
-8,1339,2,10:05,,9,2,57,WAS 22,0,NE,
-8,1200,1,12:59,,10,2,6,NE 36,0,NE,
-8,1296,1,11:14,,10,2,41,WAS 37,0,NE,
-8,1242,1,11:54,,10,2,22,WAS 48,0,NE,
-8,1318,1,10:41,,10,2,42,WAS 23,0,NE,
-8,1445,3,08:42,,11,2,61,WAS 11,0,NE,
-8,1263,2,11:19,,4,2,27,WAS 42,0,NE,PENALTY
-8,1469,4,07:59,,3,2,61,WAS 3,1,NE,FG
-10,1944,1,00:13,,10,2,-1,NE 20,0,NE,
-10,1929,0,00:13,,0,2,0,WAS 35,0,WAS,KICKOFF
-10,1965,0,,,0,2,-1,,0,,
-19,3994,2,00:29,,3,4,83,NE 3,1,WAS,TD
-19,4015,0,00:25,,0,4,83,NE 15,1,WAS,XP
-19,3895,0,00:46,,0,4,77,,0,,TIMEOUT
-19,3674,1,03:20,,10,4,16,WAS 33,0,WAS,
-19,3920,1,00:46,,6,4,77,NE 6,0,WAS,
-19,3779,0,02:00,,0,4,44,,0,,
-19,3845,3,01:28,,6,4,64,NE 35,0,WAS,
-19,3942,2,00:42,,6,4,80,NE 6,0,WAS,PENALTY
-19,3696,2,03:14,,10,4,44,WAS 33,0,WAS,FUMBLE
-19,3731,3,02:46,,8,4,26,WAS 35,0,WAS,
-19,3871,1,01:00,,10,4,77,NE 19,0,WAS,
-19,3972,1,00:33,,3,4,80,NE 3,0,WAS,
-19,3822,2,01:32,,6,4,48,NE 35,0,WAS,
-19,3755,1,02:20,,10,4,44,WAS 43,0,WAS,
-19,3650,1,03:51,,10,4,16,WAS 17,0,WAS,
-19,3796,1,02:00,,10,4,48,NE 39,0,WAS,
-12,2246,2,09:38,,7,3,52,WAS 15,0,NE,
-12,2334,4,07:35,,3,3,54,WAS 3,1,NE,FG
-12,2180,1,11:41,,10,3,15,WAS 44,0,NE,
-12,2270,1,08:58,,5,3,52,WAS 5,0,NE,
-12,2225,1,10:21,,10,3,42,WAS 18,0,NE,
-12,2313,3,08:17,,1,3,54,WAS 1,0,NE,FUMBLE
-12,2292,2,08:54,,5,3,56,WAS 5,0,NE,
-12,2159,1,12:10,,10,3,13,NE 43,0,NE,
-12,2201,2,11:01,,8,3,39,WAS 42,0,NE,
-16,2961,2,13:56,,5,4,68,WAS 26,0,NE,
-16,2879,2,00:34,,9,3,45,WAS 44,0,NE,
-16,3100,3,11:33,,8,4,88,WAS 18,1,NE,TD
-16,2757,1,03:41,,10,3,31,NE 22,0,NE,
-16,2736,1,04:10,,10,3,10,NE 12,0,NE,
-16,2833,3,01:53,,10,3,43,NE 43,0,NE,
-16,2778,1,03:08,,10,3,31,NE 43,0,NE,
-16,2940,1,14:27,,10,4,62,WAS 31,0,NE,
-16,3120,0,11:28,,0,4,88,WAS 15,1,NE,XP
-16,2857,1,01:15,,10,3,44,WAS 45,0,NE,
-16,2916,3,15:00,,8,4,57,WAS 43,0,NE,
-16,3083,0,11:33,,0,4,70,,0,,TIMEOUT
-16,3062,2,12:13,,20,4,70,WAS 30,0,NE,
-16,3040,1,12:17,,20,4,58,WAS 30,0,NE,
-16,2982,3,13:16,,1,4,68,WAS 22,0,NE,
-16,2900,0,,,0,3,45,,0,,
-16,3003,1,12:38,,10,4,58,WAS 20,0,NE,PENALTY
-16,2808,2,02:31,,10,3,43,NE 43,0,NE,
-11,2052,3,14:12,,9,3,37,WAS 14,0,WAS,
-11,2076,1,13:29,,10,3,42,50,0,WAS,
-11,1982,0,15:00,,0,3,0,NE 35,0,NE,KICKOFF
-11,2031,2,14:51,,10,3,1,WAS 13,0,WAS,
-11,2009,1,14:56,,10,3,0,WAS 13,0,WAS,
-11,2100,2,12:56,,5,3,45,NE 45,0,WAS,
-11,2121,3,12:17,,2,3,44,NE 42,0,WAS,FUMBLE
-3,554,1,06:38,,10,1,0,WAS 26,0,WAS,INT
-17,3175,2,11:03,,1,4,9,WAS 29,0,WAS,
-17,3235,3,10:36,,11,4,12,WAS 19,0,WAS,
-17,3332,4,09:23,,8,4,14,WAS 34,0,WAS,PUNT
-17,3264,1,10:10,,10,4,12,WAS 32,0,WAS,
-17,3151,1,11:28,,10,4,9,WAS 20,0,WAS,
-17,3286,2,10:04,,10,4,12,WAS 32,0,WAS,
-17,3308,3,10:00,,10,4,14,WAS 32,0,WAS,
-17,3136,0,11:28,,0,4,0,NE 35,0,NE,KICKOFF
-17,3197,3,11:00,,1,4,-1,WAS 29,0,WAS,PENALTY
-4,680,2,05:05,,3,1,28,WAS 7,0,NE,
-4,602,2,06:24,,10,1,3,WAS 28,0,NE,
-4,701,3,04:33,,1,1,28,WAS 5,1,NE,TD
-4,651,1,05:26,,10,1,21,WAS 14,0,NE,
-4,580,1,06:29,,10,1,0,WAS 28,0,NE,
-4,731,0,04:30,,0,1,28,WAS 15,1,NE,XP
-4,626,3,05:50,,7,1,14,WAS 25,0,NE,
-2,440,2,08:35,,2,1,14,WAS 47,0,NE,
-2,385,0,09:01,,0,1,0,NE 35,0,NE,KICKOFF
-2,409,1,08:58,,10,1,8,NE 45,0,NE,
-2,519,3,06:47,,6,1,29,WAS 37,0,NE,FUMBLE
-2,472,1,08:05,,10,1,3,WAS 41,0,NE,
-2,494,2,07:25,,21,1,18,NE 48,0,NE,
-1,100,1,13:56,,10,1,22,NE 33,0,NE,
-1,244,4,11:25,,2,1,56,WAS 33,0,NE,
-1,198,2,12:03,,10,1,51,WAS 41,0,NE,
-1,58,1,14:56,,10,1,9,NE 16,0,NE,
-1,151,1,12:55,,10,1,43,NE 46,0,NE,
-1,130,2,13:29,,5,1,30,NE 38,0,NE,
-1,312,3,09:32,,5,1,84,WAS 23,0,NE,PENALTY
-1,176,1,12:10,,10,1,43,WAS 41,0,NE,
-1,269,1,10:45,,10,1,60,WAS 28,0,NE,
-1,348,1,09:06,,8,1,84,WAS 8,1,NE,TD
-1,79,2,14:25,,1,1,17,NE 25,0,NE,
-1,222,3,11:32,,2,1,51,WAS 33,0,NE,
-1,291,2,10:14,,6,1,61,WAS 24,0,NE,
-1,35,0,15:00,,0,1,0,WAS 35,0,WAS,KICKOFF
-1,368,0,09:01,,0,1,84,WAS 15,1,NE,XP
-5,757,0,04:30,,0,1,0,NE 35,0,NE,KICKOFF
-5,779,1,04:26,,10,1,4,WAS 13,0,WAS,
-5,800,2,03:51,,6,1,4,WAS 17,0,WAS,
-5,822,3,03:44,,6,1,4,WAS 17,0,WAS,
-5,848,4,03:39,,6,1,4,WAS 17,0,WAS,PUNT
-13,2414,2,06:52,,9,3,1,WAS 22,0,WAS,
-13,2353,0,07:32,,0,3,0,NE 35,0,NE,KICKOFF
-13,2460,3,06:47,,13,3,6,WAS 18,0,WAS,
-13,2485,4,06:10,,4,3,6,WAS 27,0,WAS,PUNT
-13,2393,1,07:27,,10,3,1,WAS 21,0,WAS,
-13,2436,3,06:47,,9,3,-3,WAS 22,0,WAS,PENALTY
-15,2649,1,05:06,,10,3,3,WAS 30,0,WAS,
-15,2695,3,04:30,,7,3,3,WAS 33,0,WAS,
-15,2673,2,04:33,,7,3,3,WAS 33,0,WAS,
-15,2717,4,04:24,,7,3,3,WAS 33,0,WAS,PUNT
-20,4031,0,00:25,,0,4,0,WAS 35,0,WAS,KICKOFF
-20,4053,1,00:22,,10,4,-1,NE 2,0,NE,
-20,4078,0,,,0,4,-1,,0,,
+11,2121,3,12:17,"(12:17) (Shotgun) M.Jones up the middle to NE 43 for -1 yards (A.Branch). FUMBLES (A.Branch), RECOVERED by NE-R.Ninkovich at NE 43. R.Ninkovich to NE 43 for no gain (M.Jones).",2,3,44,NE 42,0,WAS,FUMBLE
+11,2052,3,14:12,(14:12) (Shotgun) K.Cousins pass deep right to P.Garcon to 50 for 36 yards (L.Ryan).,9,3,37,WAS 14,0,WAS,
+11,1982,0,15:00,"S.Gostkowski kicks 64 yards from NE 35 to WAS 1. A.Roberts MUFFS catch, and recovers at WAS 9. A.Roberts to WAS 13 for 4 yards (B.King; M.Slater).",0,3,0,NE 35,0,NE,KICKOFF
+11,2009,1,14:56,(14:56) K.Cousins pass incomplete short left to M.Jones.,10,3,0,WAS 13,0,WAS,
+11,2031,2,14:51,(14:51) M.Jones up the middle to WAS 14 for 1 yard (A.Branch; C.Jones).,10,3,1,WAS 13,0,WAS,
+11,2100,2,12:56,(12:56) M.Jones right end to NE 42 for 3 yards (M.Butler).,5,3,45,NE 45,0,WAS,
+11,2076,1,13:29,(13:29) K.Cousins pass short right to M.Jones to NE 45 for 5 yards (P.Chung).,10,3,42,50,0,WAS,
+10,1929,0,00:13,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback.",0,2,0,WAS 35,0,WAS,KICKOFF
+10,1944,1,00:13,(:13) T.Brady kneels to NE 19 for -1 yards.,10,2,-1,NE 20,0,NE,
+10,1965,0,,END QUARTER 2,0,2,-1,,0,,
+13,2460,3,06:47,(6:47) (Shotgun) K.Cousins pass short left to J.Reed to WAS 27 for 9 yards (D.McCourty).,13,3,6,WAS 18,0,WAS,
+13,2485,4,06:10,"(6:10) T.Way punts 46 yards to NE 27, Center-N.Sundberg, out of bounds.",4,3,6,WAS 27,0,WAS,PUNT
+13,2436,3,06:47,"(6:47) (Shotgun) PENALTY on WAS-M.Moses, False Start, 4 yards, enforced at WAS 22 - No Play.",9,3,-3,WAS 22,0,WAS,PENALTY
+13,2393,1,07:27,(7:27) A.Morris right guard to WAS 22 for 1 yard (S.Siliga; A.Hicks).,10,3,1,WAS 21,0,WAS,
+13,2353,0,07:32,S.Gostkowski kicks 70 yards from NE 35 to WAS -5. A.Roberts to WAS 21 for 26 yards (R.Melvin).,0,3,0,NE 35,0,NE,KICKOFF
+13,2414,2,06:52,(6:52) (Shotgun) K.Cousins pass incomplete short middle to J.Crowder [A.Hicks].,9,3,1,WAS 22,0,WAS,
+12,2201,2,11:01,(11:01) (Shotgun) T.Brady pass short left to J.Edelman to WAS 18 for 24 yards (C.Culliver).,8,3,39,WAS 42,0,NE,
+12,2334,4,07:35,"(7:35) S.Gostkowski 21 yard field goal is GOOD, Center-J.Cardona, Holder-R.Allen.",3,3,54,WAS 3,1,NE,FG
+12,2270,1,08:58,(8:58) T.Brady pass incomplete short left to B.LaFell.,5,3,52,WAS 5,0,NE,
+12,2292,2,08:54,(8:54) L.Blount left end to WAS 1 for 4 yards (T.Murphy; W.Compton).,5,3,56,WAS 5,0,NE,
+12,2225,1,10:21,(10:21) L.Blount right tackle to WAS 15 for 3 yards (C.Baker; W.Blackmon).,10,3,42,WAS 18,0,NE,
+12,2313,3,08:17,"(8:17) L.Blount up the middle to WAS 3 for -2 yards (S.Paea). FUMBLES (S.Paea), and recovers at WAS 3. L.Blount to WAS 3 for no gain (S.Paea).",1,3,54,WAS 1,0,NE,FUMBLE
+12,2180,1,11:41,(11:41) L.Blount right guard to WAS 42 for 2 yards (C.Baker).,10,3,15,WAS 44,0,NE,
+12,2246,2,09:38,(9:38) (Shotgun) T.Brady pass short left to D.Amendola to WAS 5 for 10 yards (P.Smith).,7,3,52,WAS 15,0,NE,
+12,2159,1,12:10,(12:10) L.Blount up the middle to WAS 44 for 13 yards (W.Blackmon).,10,3,13,NE 43,0,NE,
+15,2649,1,05:06,(5:06) (Shotgun) K.Cousins pass short middle to J.Crowder to WAS 33 for 3 yards (J.Freeny).,10,3,3,WAS 30,0,WAS,
+15,2673,2,04:33,(4:33) (Shotgun) K.Cousins pass incomplete short right to J.Reed.,7,3,3,WAS 33,0,WAS,
+15,2695,3,04:30,(4:30) (Shotgun) K.Cousins pass incomplete deep middle to P.Garcon.,7,3,3,WAS 33,0,WAS,
+15,2717,4,04:24,"(4:24) T.Way punts 55 yards to NE 12, Center-N.Sundberg, downed by WAS-D.Everett.",7,3,3,WAS 33,0,WAS,PUNT
+14,2560,2,05:35,"(5:35) T.Brady pass short right to D.Lewis to NE 31 for 14 yards (C.Baker). Washington challenged the runner was down by contact ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",20,3,4,NE 17,0,NE,TIMEOUT
+14,2538,1,05:42,(5:42) T.Brady pass incomplete short left to B.LaFell.,20,3,-10,NE 17,0,NE,
+14,2503,1,06:05,"(6:05) T.Brady pass short left to R.Gronkowski to NE 42 for 15 yards. PENALTY on NE-B.Stork, Offensive Holding, 10 yards, enforced at NE 27 - No Play.",10,3,-10,NE 27,0,NE,PENALTY
+14,2624,4,05:16,"(5:16) R.Allen punts 48 yards to WAS 21, Center-J.Cardona. J.Crowder to WAS 30 for 9 yards (N.Ebner; M.Slater).",6,3,4,NE 31,0,NE,PUNT
+14,2602,3,05:20,(5:20) (Shotgun) T.Brady pass incomplete short left to D.Amendola.,6,3,4,NE 31,0,NE,
+17,3235,3,10:36,(10:36) (Shotgun) K.Cousins pass short left to J.Crowder pushed ob at WAS 32 for 13 yards (J.Coleman).,11,4,12,WAS 19,0,WAS,
+17,3197,3,11:00,"(11:00) (Shotgun) C.Thompson right end pushed ob at WAS 38 for 9 yards (L.Ryan). PENALTY on WAS-M.Moses, Offensive Holding, 10 yards, enforced at WAS 29 - No Play.",1,4,-1,WAS 29,0,WAS,PENALTY
+17,3332,4,09:23,"(9:23) T.Way punts 38 yards to NE 28, Center-N.Sundberg. D.Amendola ran ob at NE 33 for 5 yards. PENALTY on NE-P.Chung, Offensive Holding, 10 yards, enforced at NE 27.",8,4,14,WAS 34,0,WAS,PUNT
+17,3151,1,11:28,(11:28) (Shotgun) K.Cousins pass short right to D.Jackson to WAS 29 for 9 yards (M.Butler).,10,4,9,WAS 20,0,WAS,
+17,3136,0,11:28,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",0,4,0,NE 35,0,NE,KICKOFF
+17,3264,1,10:10,"(10:10) (No Huddle, Shotgun) K.Cousins pass incomplete short left to C.Thompson.",10,4,12,WAS 32,0,WAS,
+17,3308,3,10:00,(10:00) (Shotgun) K.Cousins pass short right to J.Crowder to WAS 34 for 2 yards (J.Coleman).,10,4,14,WAS 32,0,WAS,
+17,3286,2,10:04,(10:04) (Shotgun) K.Cousins pass incomplete short right to C.Thompson.,10,4,12,WAS 32,0,WAS,
+17,3175,2,11:03,"(11:03) (No Huddle, Shotgun) K.Cousins pass incomplete short right to J.Reed (M.Butler).",1,4,9,WAS 29,0,WAS,
+16,2778,1,03:08,(3:08) L.Blount right tackle to NE 43 for no gain (C.Baker).,10,3,31,NE 43,0,NE,
+16,2736,1,04:10,(4:10) L.Blount left guard to NE 22 for 10 yards (J.Johnson).,10,3,10,NE 12,0,NE,
+16,2900,0,,END QUARTER 3,0,3,45,,0,,
+16,2961,2,13:56,(13:56) L.Blount right tackle to WAS 22 for 4 yards (R.Kerrigan; W.Blackmon).,5,4,68,WAS 26,0,NE,
+16,2916,3,15:00,(15:00) (Shotgun) T.Brady pass short left to R.Gronkowski to WAS 31 for 12 yards (D.Goldson).,8,4,57,WAS 43,0,NE,
+16,3062,2,12:13,(12:13) (Shotgun) B.Bolden right tackle to WAS 18 for 12 yards (K.Robinson).,20,4,70,WAS 30,0,NE,
+16,2982,3,13:16,(13:16) L.Blount right guard to WAS 20 for 2 yards (C.Baker).,1,4,68,WAS 22,0,NE,
+16,2879,2,00:34,(:34) L.Blount up the middle to WAS 43 for 1 yard (K.Golston; W.Compton).,9,3,45,WAS 44,0,NE,
+16,3100,3,11:33,"(11:33) (Shotgun) T.Brady pass deep right to B.Bolden for 18 yards, TOUCHDOWN.",8,4,88,WAS 18,1,NE,TD
+16,2857,1,01:15,(1:15) L.Blount up the middle to WAS 44 for 1 yard (S.Paea; K.Golston).,10,3,44,WAS 45,0,NE,
+16,2757,1,03:41,(3:41) L.Blount right tackle to NE 43 for 21 yards (D.Goldson). WAS-K.Robinson was injured during the play.  NE 29-Blount 10th career 100-yard game.,10,3,31,NE 22,0,NE,
+16,2808,2,02:31,(2:31) T.Brady pass short left to D.Amendola to NE 43 for no gain (K.Jarrett; T.Murphy).,10,3,43,NE 43,0,NE,
+16,3003,1,12:38,"(12:38) J.Edelman left end to WAS 15 for 5 yards (K.Robinson). reverse PENALTY on NE-R.Gronkowski, Offensive Holding, 10 yards, enforced at WAS 20 - No Play.",10,4,58,WAS 20,0,NE,PENALTY
+16,3040,1,12:17,(12:17) (Shotgun) T.Brady pass incomplete short left to B.Bolden.,20,4,58,WAS 30,0,NE,
+16,2833,3,01:53,(1:53) (Shotgun) T.Brady pass short middle to R.Gronkowski to WAS 45 for 12 yards (D.Goldson).,10,3,43,NE 43,0,NE,
+16,3120,0,11:28,"S.Gostkowski extra point is GOOD, Center-J.Cardona, Holder-R.Allen.",0,4,88,WAS 15,1,NE,XP
+16,3083,0,11:33,Timeout #1 by NE at 11:33.,0,4,70,,0,,TIMEOUT
+16,2940,1,14:27,(14:27) L.Blount left tackle to WAS 26 for 5 yards (J.Johnson).,10,4,62,WAS 31,0,NE,
+19,3920,1,00:46,(:46) (Shotgun) K.Cousins pass incomplete short left to J.Reed.,6,4,77,NE 6,0,WAS,
+19,3822,2,01:32,"(1:32) (No Huddle, Shotgun) K.Cousins pass incomplete deep left to J.Crowder (J.Coleman) [J.Bostic].",6,4,48,NE 35,0,WAS,
+19,3871,1,01:00,"(1:00) (No Huddle, Shotgun) K.Cousins pass short left to C.Thompson to NE 6 for 13 yards (D.Harmon; M.Butler). NE-D.Harmon was injured during the play.",10,4,77,NE 19,0,WAS,
+19,3779,0,02:00,Two-Minute Warning,0,4,44,,0,,
+19,3796,1,02:00,(2:00) (Shotgun) K.Cousins pass short right to D.Jackson to NE 35 for 4 yards (M.Butler) [R.Ninkovich].,10,4,48,NE 39,0,WAS,
+19,3755,1,02:20,"(2:20) (No Huddle, Shotgun) K.Cousins pass short middle to A.Roberts to NE 39 for 18 yards (L.Ryan).",10,4,44,WAS 43,0,WAS,
+19,3696,2,03:14,"(3:14) (Shotgun) K.Cousins pass short left to J.Crowder to WAS 35 for 2 yards (J.Freeny). FUMBLES (J.Freeny), ball out of bounds at WAS 35.",10,4,44,WAS 33,0,WAS,FUMBLE
+19,3972,1,00:33,(:33) K.Cousins pass incomplete short left to P.Garcon.,3,4,80,NE 3,0,WAS,
+19,3845,3,01:28,(1:28) (Shotgun) K.Cousins pass short middle to P.Garcon to NE 19 for 16 yards (L.Ryan).,6,4,64,NE 35,0,WAS,
+19,3674,1,03:20,"(3:20) (No Huddle, Shotgun) K.Cousins pass incomplete deep left to D.Jackson [R.Ninkovich].",10,4,16,WAS 33,0,WAS,
+19,4015,0,00:25,"D.Hopkins extra point is GOOD, Center-N.Sundberg, Holder-T.Way.",0,4,83,NE 15,1,WAS,XP
+19,3994,2,00:29,"(:29) (Shotgun) K.Cousins pass short left to J.Reed for 3 yards, TOUCHDOWN.",3,4,83,NE 3,1,WAS,TD
+19,3650,1,03:51,(3:51) (Shotgun) K.Cousins pass short middle to J.Crowder to WAS 33 for 16 yards (G.Grissom).,10,4,16,WAS 17,0,WAS,
+19,3942,2,00:42,"(:42) (Shotgun) K.Cousins sacked at NE 15 for -9 yards (A.Hicks). PENALTY on NE-J.Coleman, Defensive Holding, 3 yards, enforced at NE 6 - No Play.",6,4,80,NE 6,0,WAS,PENALTY
+19,3731,3,02:46,(2:46) (Shotgun) K.Cousins pass short middle to C.Thompson to WAS 43 for 8 yards (J.Bostic; D.McCourty).,8,4,26,WAS 35,0,WAS,
+19,3895,0,00:46,Timeout #2 by NE at 00:46. injury with under 2:00 left in half.,0,4,77,,0,,TIMEOUT
+18,3572,3,04:45,(4:45) (Shotgun) T.Brady pass short left to B.Bolden to WAS 33 for 1 yard (W.Compton; J.Johnson).,10,4,50,WAS 34,0,NE,
+18,3505,2,06:13,(6:13) T.Brady pass short middle to B.LaFell to WAS 34 for 17 yards (B.Breeland; K.Jarrett). NE 19-LaFell 5th career 100-yard game.,9,4,49,NE 49,0,NE,
+18,3368,1,09:15,(9:15) L.Blount right guard to NE 21 for 4 yards (C.Baker).,10,4,4,NE 17,0,NE,
+18,3605,4,04:02,"(4:02) (Punt formation) PENALTY on NE-R.Allen, Delay of Game, 5 yards, enforced at WAS 33 - No Play.",9,4,45,WAS 33,0,NE,PENALTY
+18,3460,2,07:25,(7:25) (Shotgun) T.Brady pass short left to B.LaFell to NE 48 for 17 yards (T.Robinson).,10,4,31,NE 31,0,NE,
+18,3550,2,04:49,(4:49) (Shotgun) T.Brady pass incomplete short left to B.LaFell.,10,4,49,WAS 34,0,NE,
+18,3632,4,03:57,"(3:57) R.Allen punts 21 yards to WAS 17, Center-J.Cardona, out of bounds.",14,4,45,WAS 38,0,NE,PUNT
+18,3484,1,06:51,(6:51) L.Blount right tackle to NE 49 for 1 yard (W.Blackmon; W.Compton).,10,4,32,NE 48,0,NE,
+18,3437,1,07:28,(7:28) T.Brady pass incomplete short left to B.LaFell.,10,4,14,NE 31,0,NE,
+18,3410,3,07:59,(7:59) (Shotgun) T.Brady pass short left to B.Bolden to NE 31 for 8 yards (W.Compton; D.Goldson). WAS-D.Goldson was injured during the play.,4,4,14,NE 23,0,NE,
+18,3389,2,08:38,(8:38) (Shotgun) L.Blount left guard to NE 23 for 2 yards (W.Compton).,6,4,6,NE 21,0,NE,
+18,3529,1,05:30,(5:30) (Shotgun) L.Blount up the middle to WAS 34 for no gain (J.Johnson).,10,4,49,WAS 34,0,NE,
+20,4031,0,00:25,(Onside Kick formation) D.Hopkins kicks 63 yards from WAS 35 to NE 2. D.McCourty (didn't try to advance) to NE 2 for no gain (H.Bates).,0,4,0,WAS 35,0,WAS,KICKOFF
+20,4053,1,00:22,(:22) NE 10-Garoppolo now at QB. J.Garoppolo kneels to NE 1 for -1 yards.,10,4,-1,NE 2,0,NE,
+20,4078,0,,END GAME,0,4,-1,,0,,
+1,151,1,12:55,(12:55) (Shotgun) T.Brady pass short left to B.LaFell pushed ob at WAS 41 for 13 yards (D.Goldson; K.Robinson).,10,1,43,NE 46,0,NE,
+1,269,1,10:45,(10:45) L.Blount right guard to WAS 24 for 4 yards (K.Robinson; R.Jean Francois).,10,1,60,WAS 28,0,NE,
+1,58,1,14:56,(14:56) (Shotgun) D.Lewis right tackle to NE 25 for 9 yards (K.Jarrett).,10,1,9,NE 16,0,NE,
+1,312,3,09:32,"(9:32) (Shotgun) T.Brady pass short middle to J.Edelman to WAS 16 for 7 yards (K.Robinson). PENALTY on WAS-K.Jarrett, Unnecessary Roughness, 8 yards, enforced at WAS 16.",5,1,84,WAS 23,0,NE,PENALTY
+1,35,0,15:00,D.Hopkins kicks 67 yards from WAS 35 to NE -2. D.Amendola to NE 16 for 18 yards (D.Goldson).,0,1,0,WAS 35,0,WAS,KICKOFF
+1,244,4,11:25,(11:25) (Shotgun) T.Brady pass short left to J.Edelman to WAS 28 for 5 yards (K.Robinson).,2,1,56,WAS 33,0,NE,
+1,130,2,13:29,(13:29) (Shotgun) D.Lewis left tackle to NE 46 for 8 yards (T.Robinson).,5,1,30,NE 38,0,NE,
+1,368,0,09:01,"S.Gostkowski extra point is GOOD, Center-J.Cardona, Holder-R.Allen.",0,1,84,WAS 15,1,NE,XP
+1,176,1,12:10,(12:10) T.Brady pass incomplete deep middle to J.Edelman.,10,1,43,WAS 41,0,NE,
+1,100,1,13:56,"(13:56) (No Huddle, Shotgun) T.Brady pass short left to S.Chandler pushed ob at NE 38 for 5 yards (K.Jarrett).",10,1,22,NE 33,0,NE,
+1,291,2,10:14,(10:14) L.Blount right guard to WAS 23 for 1 yard (T.Murphy; D.Goldson).,6,1,61,WAS 24,0,NE,
+1,348,1,09:06,"(9:06) (Shotgun) T.Brady pass short left to J.Edelman for 8 yards, TOUCHDOWN.",8,1,84,WAS 8,1,NE,TD
+1,222,3,11:32,(11:32) (Shotgun) T.Brady pass incomplete deep right to D.Lewis.,2,1,51,WAS 33,0,NE,
+1,79,2,14:25,(14:25) D.Lewis up the middle to NE 33 for 8 yards (C.Baker; K.Jarrett).,1,1,17,NE 25,0,NE,
+1,198,2,12:03,(12:03) (Shotgun) T.Brady pass short left to R.Gronkowski pushed ob at WAS 33 for 8 yards (T.Robinson).,10,1,51,WAS 41,0,NE,
+3,554,1,06:38,(6:38) (Shotgun) K.Cousins pass short middle intended for P.Garcon INTERCEPTED by L.Ryan at WAS 41. L.Ryan to WAS 28 for 13 yards (J.Crowder).,10,1,0,WAS 26,0,WAS,INT
+2,519,3,06:47,"(6:47) (Shotgun) T.Brady pass short middle to J.Edelman to WAS 26 for 11 yards (W.Blackmon). FUMBLES (W.Blackmon), RECOVERED by WAS-W.Blackmon at WAS 26. W.Blackmon to WAS 26 for no gain (J.Edelman).",6,1,29,WAS 37,0,NE,FUMBLE
+2,440,2,08:35,(8:35) L.Blount right tackle to WAS 41 for 6 yards (W.Blackmon).,2,1,14,WAS 47,0,NE,
+2,472,1,08:05,(8:05) D.Lewis right end to NE 48 for -11 yards (R.Kerrigan).,10,1,3,WAS 41,0,NE,
+2,385,0,09:01,S.Gostkowski kicks onside 10 yards from NE 35 to NE 45. RECOVERED by NE-J.Freeny.,0,1,0,NE 35,0,NE,KICKOFF
+2,494,2,07:25,(7:25) T.Brady pass short right to D.Lewis to WAS 37 for 15 yards (D.Goldson).,21,1,18,NE 48,0,NE,
+2,409,1,08:58,(8:58) D.Amendola left end ran ob at WAS 47 for 8 yards. reverse,10,1,8,NE 45,0,NE,
+5,779,1,04:26,(4:26) (Shotgun) A.Morris up the middle to WAS 17 for 4 yards (R.Ninkovich; M.Brown).,10,1,4,WAS 13,0,WAS,
+5,848,4,03:39,"(3:39) T.Way punts 49 yards to NE 34, Center-N.Sundberg. J.Edelman to NE 32 for -2 yards (H.Bates).",6,1,4,WAS 17,0,WAS,PUNT
+5,800,2,03:51,(3:51) K.Cousins pass incomplete deep left to D.Carrier.,6,1,4,WAS 17,0,WAS,
+5,757,0,04:30,S.Gostkowski kicks 70 yards from NE 35 to WAS -5. C.Thompson to WAS 13 for 18 yards (M.Slater).,0,1,0,NE 35,0,NE,KICKOFF
+5,822,3,03:44,(3:44) (Shotgun) K.Cousins pass incomplete short left to J.Reed.,6,1,4,WAS 17,0,WAS,
+4,626,3,05:50,(5:50) (Shotgun) T.Brady pass short middle to D.Amendola to WAS 14 for 11 yards (D.Goldson). WAS-C.Baker was injured during the play.,7,1,14,WAS 25,0,NE,
+4,580,1,06:29,(6:29) T.Brady pass incomplete short right to S.Chandler.,10,1,0,WAS 28,0,NE,
+4,602,2,06:24,(6:24) (Shotgun) T.Brady pass short left to D.Amendola to WAS 25 for 3 yards (K.Jarrett).,10,1,3,WAS 28,0,NE,
+4,701,3,04:33,"(4:33) S.Mason reported in as eligible.  L.Blount left guard for 5 yards, TOUCHDOWN. Penalty on WAS, Defensive 12 On-field, declined.",1,1,28,WAS 5,1,NE,TD
+4,731,0,04:30,"S.Gostkowski extra point is GOOD, Center-J.Cardona, Holder-R.Allen.",0,1,28,WAS 15,1,NE,XP
+4,651,1,05:26,(5:26) T.Brady pass short left to B.LaFell pushed ob at WAS 7 for 7 yards (C.Culliver).,10,1,21,WAS 14,0,NE,
+4,680,2,05:05,(5:05) L.Blount right tackle to WAS 5 for 2 yards (K.Jarrett; R.Jean Francois).,3,1,28,WAS 7,0,NE,
+7,1142,3,13:48,(13:48) (Shotgun) K.Cousins sacked at NE 36 for -4 yards (C.Jones).,7,2,10,NE 32,0,WAS,
+7,1097,1,15:00,(15:00) (Shotgun) M.Jones up the middle to NE 34 for 1 yard (C.Jones).,10,2,12,NE 35,0,WAS,
+7,1161,0,13:05,Timeout #1 by WAS at 13:05.,0,2,10,,0,,TIMEOUT
+7,1081,0,,END QUARTER 1,0,1,11,,0,,
+7,1057,3,00:25,(:25) (Shotgun) K.Cousins pass short middle to P.Garcon to NE 35 for 9 yards (D.McCourty).,8,1,11,NE 44,0,WAS,
+7,1178,4,13:05,(13:05) (Shotgun) K.Cousins pass incomplete deep left to P.Garcon (L.Ryan).,11,2,10,NE 36,0,WAS,
+7,1118,2,14:27,(14:27) (Shotgun) K.Cousins pass short left to D.Jackson to NE 32 for 2 yards (M.Butler).,9,2,14,NE 34,0,WAS,
+7,1013,1,01:07,(1:07) A.Morris left tackle to NE 44 for 2 yards (S.Siliga).,10,1,2,NE 46,0,WAS,
+7,1035,2,00:34,(:34) K.Cousins pass incomplete deep right to D.Jackson (J.Coleman).,8,1,2,NE 44,0,WAS,
+6,965,2,01:20,(1:20) T.Brady pass incomplete short middle to S.Chandler.,8,1,52,WAS 16,0,NE,
+6,897,2,02:48,(2:48) T.Brady pass incomplete deep middle to J.Edelman.,8,1,2,NE 34,0,NE,
+6,987,3,01:16,(1:16) (Shotgun) T.Brady pass short middle intended for J.Edelman INTERCEPTED by K.Robinson at WAS 10. K.Robinson to NE 46 for 44 yards (T.Brady).,8,1,52,WAS 16,0,NE,INT
+6,943,1,01:58,(1:58) L.Blount right guard to WAS 16 for 2 yards (K.Robinson).,10,1,52,WAS 18,0,NE,
+6,919,3,02:43,(2:43) (Shotgun) T.Brady pass deep middle to B.LaFell to WAS 18 for 48 yards (T.Robinson) [J.Hatcher].,8,1,50,NE 34,0,NE,
+6,873,1,03:27,(3:27) (Shotgun) T.Brady pass short left to D.Lewis to NE 34 for 2 yards (R.Jean Francois).,10,1,2,NE 32,0,NE,
+9,1546,3,07:13,(7:13) (Shotgun) K.Cousins pass short right to P.Garcon to WAS 32 for 9 yards (L.Ryan) [D.Easley].,7,2,12,WAS 23,0,WAS,
+9,1738,1,02:23,(2:23) (Shotgun) K.Cousins pass short left to J.Reed to NE 13 for 6 yards (L.Ryan).,10,2,67,NE 19,0,WAS,
+9,1893,0,00:16,Timeout #1 by NE at 00:16.,0,2,75,,0,,TIMEOUT
+9,1848,0,00:26,Timeout #2 by WAS at 00:26. injury with under 2:00 left in half.,0,2,67,,0,,TIMEOUT
+9,1627,1,05:29,(5:29) M.Jones right tackle to NE 44 for 2 yards (M.Brown).,10,2,67,NE 46,0,WAS,
+9,1801,1,01:19,(1:19) M.Jones right end to NE 13 for -4 yards (R.Ninkovich).,9,2,67,NE 9,0,WAS,
+9,1715,3,03:03,(3:03) T.Compton reported in as eligible.  M.Jones right guard to NE 19 for 2 yards (J.Freeny; P.Chung).,1,2,61,NE 21,0,WAS,
+9,1582,1,06:34,(6:34) K.Cousins pass short middle to M.Jones to WAS 44 for 12 yards (R.Ninkovich).,10,2,24,WAS 32,0,WAS,
+9,1822,2,00:37,(:37) (Shotgun) K.Cousins pass incomplete short left to D.Jackson. WAS-J.LeRibeus was injured during the play.,13,2,67,NE 13,0,WAS,
+9,1648,2,04:54,"(4:54) (No Huddle, Shotgun) K.Cousins pass short right to J.Crowder to NE 30 for 14 yards (J.Coleman; P.Chung).",8,2,67,NE 44,0,WAS,
+9,1606,1,05:58,(5:58) (Shotgun) M.Jones right guard to NE 46 for 10 yards (D.Hightower).,10,2,34,WAS 44,0,WAS,
+9,1524,2,07:18,(7:18) (Shotgun) K.Cousins pass incomplete short middle to D.Carrier.,7,2,3,WAS 23,0,WAS,
+9,1503,1,07:56,(7:56) A.Morris up the middle to WAS 23 for 3 yards (C.Jones).,10,2,3,WAS 20,0,WAS,
+9,1694,2,03:41,(3:41) M.Jones right guard to NE 21 for 6 yards (R.Ninkovich; J.Freeny).,7,2,59,NE 27,0,WAS,
+9,1910,4,00:16,"(:16) D.Hopkins 23 yard field goal is GOOD, Center-N.Sundberg, Holder-T.Way.",5,2,75,NE 5,1,WAS,FG
+9,1869,3,00:26,(:26) (Shotgun) K.Cousins pass short left to A.Roberts to NE 5 for 8 yards (D.McCourty).,13,2,75,NE 13,0,WAS,
+9,1763,0,02:00,Two-Minute Warning,0,2,67,,0,,
+9,1488,0,07:56,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",0,2,0,NE 35,0,NE,KICKOFF
+9,1780,2,02:00,(2:00) M.Jones up the middle to NE 9 for 4 yards (S.Siliga).,4,2,71,NE 13,0,WAS,
+9,1673,1,04:18,(4:18) M.Jones right guard to NE 27 for 3 yards (L.Ryan).,10,2,53,NE 30,0,WAS,
+8,1423,2,08:47,(8:47) (Shotgun) T.Brady pass incomplete short right to R.Gronkowski.,11,2,53,WAS 11,0,NE,
+8,1339,2,10:05,(10:05) T.Brady pass short left to R.Gronkowski pushed ob at WAS 7 for 15 yards (W.Compton).,9,2,57,WAS 22,0,NE,
+8,1221,2,12:30,(12:30) L.Blount up the middle to WAS 48 for 10 yards (J.Johnson).,4,2,16,NE 42,0,NE,
+8,1263,2,11:19,"(11:19) T.Brady pass incomplete short right to M.Williams [J.Hatcher]. PENALTY on WAS-K.Robinson, Illegal Contact, 5 yards, enforced at WAS 42 - No Play.",4,2,27,WAS 42,0,NE,PENALTY
+8,1200,1,12:59,(12:59) L.Blount right guard to NE 42 for 6 yards (K.Robinson; W.Blackmon).,10,2,6,NE 36,0,NE,
+8,1318,1,10:41,(10:41) L.Blount left guard to WAS 22 for 1 yard (R.Jean Francois; D.Goldson).,10,2,42,WAS 23,0,NE,
+8,1445,3,08:42,(8:42) (Shotgun) T.Brady pass short middle to D.Lewis to WAS 3 for 8 yards (W.Compton).,11,2,61,WAS 11,0,NE,
+8,1242,1,11:54,(11:54) L.Blount right guard to WAS 42 for 6 yards (W.Blackmon; W.Compton).,10,2,22,WAS 48,0,NE,
+8,1469,4,07:59,"(7:59) S.Gostkowski 21 yard field goal is GOOD, Center-J.Cardona, Holder-R.Allen.",3,2,61,WAS 3,1,NE,FG
+8,1401,1,09:22,(9:22) L.Blount right tackle to WAS 11 for 1 yard (W.Compton).,12,2,53,WAS 12,0,NE,
+8,1296,1,11:14,(11:14) (Shotgun) L.Blount left tackle to WAS 23 for 14 yards (J.Johnson).,10,2,41,WAS 37,0,NE,
+8,1368,1,09:26,"(9:26) (Shotgun) T.Brady pass incomplete short left to R.Gronkowski. PENALTY on NE-S.Vollmer, Illegal Formation, 5 yards, enforced at WAS 7 - No Play.",7,2,52,WAS 7,0,NE,PENALTY

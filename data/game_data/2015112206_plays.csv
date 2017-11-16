@@ -1,175 +1,175 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1207,1,11:03,,10,2,32,CAR 23,0,CAR,
-9,1428,1,09:02,,1,2,90,WAS 1,0,CAR,
-9,1160,1,12:18,,10,2,6,CAR 8,0,CAR,
-9,1443,0,09:07,,0,2,90,,0,,TIMEOUT
-9,1373,1,10:04,,10,2,90,WAS 13,0,CAR,
-9,1455,2,08:29,,2,2,92,WAS 2,1,CAR,TD
-9,1395,3,09:07,,8,2,90,WAS 11,0,CAR,PENALTY
-9,1181,2,11:37,,4,2,15,CAR 14,0,CAR,
-9,1271,1,10:20,,10,2,90,WAS 26,0,CAR,PENALTY
-9,1242,1,10:43,,10,2,66,CAR 40,0,CAR,
-9,1343,2,09:17,,8,2,81,WAS 11,0,CAR,
-9,1496,0,08:21,,0,2,92,WAS 15,1,CAR,XP
-9,1315,0,09:17,,0,2,66,,0,,TIMEOUT
-24,3958,3,02:39,,5,4,18,WAS 40,0,WAS,
-24,3867,2,04:13,,4,4,8,WAS 28,0,WAS,
-24,3888,3,03:37,,2,4,13,WAS 30,0,WAS,
-24,3980,4,02:34,,5,4,18,WAS 40,0,WAS,PUNT
-24,3936,2,02:46,,5,4,18,WAS 40,0,WAS,
-24,3845,1,04:49,,10,4,6,WAS 22,0,WAS,
-24,3912,1,03:11,,10,4,18,WAS 35,0,WAS,
-10,1622,2,08:14,,10,2,2,WAS 20,0,WAS,FUMBLE
-10,1600,1,08:21,,10,2,2,WAS 20,0,WAS,
-10,1585,0,08:21,,0,2,0,CAR 35,0,CAR,KICKOFF
-20,3135,2,03:33,,5,3,-5,WAS 25,0,WAS,PENALTY
-20,3255,1,01:36,,10,3,38,WAS 45,0,WAS,FUMBLE
-20,3223,2,02:22,,5,3,25,WAS 40,0,WAS,FUMBLE
-20,3170,2,03:12,,15,3,15,WAS 15,0,WAS,
-20,3194,1,02:43,,10,3,20,WAS 35,0,WAS,
-20,3111,1,04:04,,10,3,5,WAS 20,0,WAS,
-20,3096,0,04:04,,0,3,0,CAR 35,0,CAR,KICKOFF
-6,927,0,00:27,,0,1,0,CAR 15,1,WAS,XP
-6,904,0,00:41,,0,1,0,CAR 35,1,CAR,TD
-18,2816,4,08:58,,14,3,-4,WAS 16,0,WAS,PUNT
-18,2747,1,09:53,,10,3,-6,WAS 20,0,WAS,
-18,2766,2,09:09,,16,3,-4,WAS 14,0,WAS,
-18,2788,3,09:05,,16,3,-4,WAS 14,0,WAS,
-26,4155,1,00:11,,10,4,0,WAS 42,0,WAS,
-26,4176,0,00:00,,0,4,0,,0,,
-26,4133,0,00:16,,0,4,0,CAR 20,0,CAR,KICKOFF
-25,4106,4,00:26,,13,4,-4,CAR 1,1,CAR,SAF
-25,3999,1,02:23,,10,4,-1,CAR 4,0,CAR,
-25,4037,2,02:00,,11,4,-2,CAR 3,0,CAR,
-25,4058,3,01:15,,12,4,-2,CAR 2,0,CAR,
-25,4020,0,02:00,,0,4,-1,,0,,
-25,4079,4,01:15,,12,4,-3,CAR 2,0,CAR,PENALTY
-1,100,3,14:18,,10,1,0,CAR 38,0,CAR,
-1,122,4,14:13,,10,1,0,CAR 38,0,CAR,PUNT
-1,35,0,15:00,,0,1,0,WAS 35,0,WAS,KICKOFF
-1,78,2,14:24,,10,1,0,CAR 38,0,CAR,
-1,57,1,14:56,,10,1,0,CAR 38,0,CAR,
-5,511,0,08:26,,0,1,0,WAS 35,0,WAS,KICKOFF
-5,576,3,06:56,,3,1,14,CAR 29,0,CAR,
-5,624,1,05:41,,10,1,26,CAR 47,0,CAR,
-5,687,1,03:58,,10,1,41,WAS 40,0,CAR,
-5,666,3,04:31,,1,1,38,WAS 44,0,CAR,
-5,824,1,01:42,,10,1,72,WAS 11,0,CAR,PENALTY
-5,778,1,02:08,,10,1,62,WAS 11,0,CAR,PENALTY
-5,847,1,01:32,,5,1,75,WAS 6,0,CAR,
-5,708,2,03:23,,7,1,52,WAS 37,0,CAR,
-5,868,2,00:47,,2,1,78,WAS 3,1,CAR,TD
-5,888,0,00:41,,0,1,78,WAS 15,1,CAR,XP
-5,645,2,05:08,,9,1,34,CAR 48,0,CAR,
-5,754,2,02:43,,10,1,67,WAS 26,0,CAR,
-5,600,1,06:18,,10,1,25,CAR 36,0,CAR,
-5,801,1,01:54,,15,1,67,WAS 16,0,CAR,PENALTY
-5,732,1,02:48,,10,1,52,WAS 26,0,CAR,
-5,533,1,08:20,,10,1,-12,CAR 22,0,CAR,
-5,552,2,07:34,,22,1,7,CAR 10,0,CAR,
-13,2130,2,01:20,,8,2,2,CAR 40,0,CAR,
-13,2106,1,01:54,,10,2,2,CAR 38,0,CAR,
-13,2336,1,00:03,,10,2,38,WAS 24,1,CAR,FG
-13,2272,2,00:21,,10,2,28,WAS 39,0,CAR,PENALTY
-13,2250,1,00:21,,10,2,38,WAS 39,0,CAR,
-13,2177,1,00:31,,10,2,38,CAR 49,0,CAR,PENALTY
-13,2295,2,00:16,,5,2,38,WAS 34,0,CAR,
-13,2226,2,00:27,,15,2,38,CAR 44,0,CAR,
-13,2200,1,00:31,,15,2,6,CAR 44,0,CAR,
-13,2151,3,00:39,,8,2,11,CAR 40,0,CAR,
-13,2319,0,00:03,,0,2,38,,0,,TIMEOUT
-21,3369,2,14:15,,11,4,15,WAS 48,0,CAR,
-21,3290,1,01:26,,10,3,3,CAR 35,0,CAR,
-21,3348,1,15:00,,10,4,17,WAS 47,0,CAR,
-21,3418,1,12:43,,10,4,50,WAS 15,0,CAR,
-21,3484,4,10:39,,2,4,58,WAS 7,1,CAR,FG
-21,3332,0,,,0,3,18,,0,,
-21,3439,2,12:02,,10,4,56,WAS 15,0,CAR,
-21,3311,2,00:42,,7,3,18,CAR 38,0,CAR,
-21,3394,3,13:29,,13,4,50,50,0,CAR,
-21,3460,3,11:18,,4,4,58,WAS 9,0,CAR,
-23,3784,3,05:39,,4,4,8,CAR 25,0,CAR,FUMBLE
-23,3822,4,04:56,,2,4,8,CAR 27,0,CAR,PUNT
-23,3735,1,07:10,,10,4,2,CAR 19,0,CAR,
-23,3756,2,06:26,,8,4,6,CAR 21,0,CAR,
-11,1780,2,05:21,,5,2,19,WAS 5,0,CAR,
-11,1802,3,05:19,,5,2,24,WAS 5,1,CAR,TD
-11,1693,1,07:44,,20,2,-1,WAS 34,0,CAR,
-11,1714,2,07:16,,11,2,8,WAS 25,0,CAR,
-11,1735,3,06:30,,2,2,19,WAS 16,0,CAR,
-11,1658,1,08:05,,10,2,-10,WAS 24,0,CAR,PENALTY
-11,1759,1,05:58,,7,2,19,WAS 7,0,CAR,
-11,1822,0,05:14,,0,2,24,WAS 15,1,CAR,XP
-14,2384,1,15:00,,10,3,-9,WAS 20,0,WAS,FUMBLE
-14,2369,0,15:00,,0,3,0,CAR 35,0,CAR,KICKOFF
-8,1072,1,14:27,,10,2,-2,WAS 35,0,WAS,
-8,1117,3,13:07,,9,2,8,WAS 36,0,WAS,
-8,1141,4,12:27,,2,2,8,WAS 43,0,WAS,PUNT
-8,1093,2,13:46,,12,2,8,WAS 33,0,WAS,
-19,2921,1,07:09,,10,3,38,50,0,CAR,
-19,3033,2,04:20,,12,3,48,WAS 30,0,CAR,
-19,2965,1,05:57,,5,3,45,WAS 35,0,CAR,
-19,2873,1,08:21,,10,3,13,CAR 33,0,CAR,
-19,3077,4,04:08,,12,3,48,WAS 30,1,CAR,FG
-19,3012,1,05:00,,10,3,48,WAS 28,0,CAR,
-19,2986,2,05:24,,3,3,50,WAS 33,0,CAR,
-19,3055,3,04:14,,12,3,48,WAS 30,0,CAR,
-19,2852,1,08:47,,10,3,11,CAR 22,0,CAR,
-19,2942,1,06:21,,10,3,43,WAS 40,0,CAR,PENALTY
-19,2897,2,07:49,,8,3,28,CAR 35,0,CAR,
-22,3666,2,07:50,,18,4,10,WAS 24,0,WAS,
-22,3578,3,09:26,,9,4,5,WAS 21,0,WAS,
-22,3535,1,10:30,,10,4,-6,WAS 20,0,WAS,
-22,3619,4,08:41,,5,4,10,WAS 25,0,WAS,
-22,3554,2,09:58,,16,4,1,WAS 14,0,WAS,
-22,3712,4,07:18,,12,4,10,WAS 30,0,WAS,PUNT
-22,3643,1,08:16,,10,4,4,WAS 32,0,WAS,
-22,3503,0,10:36,,0,4,0,CAR 35,0,CAR,KICKOFF
-22,3690,3,07:24,,12,4,10,WAS 30,0,WAS,
-22,3602,0,08:41,,0,4,5,,0,,TIMEOUT
-12,1945,1,03:37,,10,2,22,CAR 36,0,WAS,
-12,1969,2,02:57,,8,2,30,CAR 34,0,WAS,
-12,2015,2,02:11,,10,2,24,CAR 26,0,WAS,PENALTY
-12,1871,1,05:09,,10,2,6,WAS 44,0,WAS,
-12,1900,2,04:50,,4,2,7,50,0,WAS,
-12,2064,2,02:00,,16,2,18,CAR 32,0,WAS,FUMBLE
-12,1921,3,04:12,,3,2,24,CAR 49,0,WAS,
-12,1993,1,02:16,,10,2,30,CAR 26,0,WAS,
-12,2047,0,02:00,,0,2,24,,0,,
-12,1838,0,05:14,,0,2,0,CAR 35,0,CAR,KICKOFF
-16,2537,1,13:52,,10,3,0,WAS 20,0,WAS,
-16,2558,2,13:18,,10,3,-4,WAS 20,0,WAS,
-16,2582,3,12:38,,14,3,-4,WAS 16,0,WAS,
-16,2522,0,13:52,,0,3,0,CAR 35,0,CAR,KICKOFF
-16,2604,4,12:31,,14,3,-4,WAS 16,0,WAS,PUNT
-7,995,2,15:00,,8,2,2,CAR 22,0,CAR,
-7,943,0,00:27,,0,1,0,WAS 35,0,WAS,KICKOFF
-7,1047,4,14:35,,16,2,-6,CAR 14,0,CAR,PUNT
-7,979,0,,,0,1,2,,0,,
-7,1017,3,14:57,,8,2,-6,CAR 22,0,CAR,
-7,958,1,00:27,,10,1,2,CAR 20,0,CAR,
-3,348,2,10:01,,4,1,31,WAS 12,1,CAR,TD
-3,380,0,09:56,,0,1,31,WAS 15,1,CAR,XP
-3,327,1,10:37,,10,1,19,WAS 18,0,CAR,
-3,303,1,11:14,,10,1,13,WAS 31,0,CAR,
-17,2644,2,11:38,,9,3,13,CAR 28,0,CAR,
-17,2708,3,10:05,,6,3,17,CAR 44,0,CAR,
-17,2686,2,10:11,,6,3,17,CAR 44,0,CAR,
-17,2623,1,12:18,,10,3,1,CAR 27,0,CAR,
-17,2730,4,10:01,,6,3,17,CAR 44,0,CAR,PUNT
-17,2665,1,10:58,,10,3,17,CAR 40,0,CAR,
-4,495,0,08:26,,0,1,71,CAR 15,1,WAS,XP
-4,396,0,09:56,,0,1,0,CAR 20,0,CAR,KICKOFF
-4,443,1,09:14,,10,1,15,WAS 46,0,WAS,
-4,464,2,08:36,,12,1,71,WAS 44,1,WAS,TD
-4,419,1,09:50,,10,1,17,WAS 29,0,WAS,
-2,164,2,13:30,,8,1,20,WAS 23,0,WAS,
-2,255,3,11:24,,5,1,20,WAS 41,0,WAS,INT
-2,188,1,12:44,,10,1,11,WAS 36,0,WAS,
-2,209,2,12:06,,12,1,18,WAS 34,0,WAS,
-2,220,1,14:03,,10,1,20,WAS 21,0,WAS,
-15,2420,1,14:51,,10,3,1,WAS 11,0,CAR,
-15,2486,3,13:57,,4,3,11,WAS 5,1,CAR,TD
-15,2506,0,13:52,,0,3,11,WAS 15,1,CAR,XP
-15,2441,2,14:51,,9,3,6,WAS 10,0,CAR,PENALTY
-15,2464,2,14:02,,4,3,6,WAS 5,0,CAR,
+24,3958,3,02:39,"(2:39) (No Huddle, Shotgun) K.Cousins pass incomplete short left to J.Reed (S.Thompson).",5,4,18,WAS 40,0,WAS,
+24,3912,1,03:11,"(3:11) (No Huddle, Shotgun) K.Cousins pass short left to D.Carrier to WAS 40 for 5 yards (A.Klein).",10,4,18,WAS 35,0,WAS,
+24,3936,2,02:46,"(2:46) (No Huddle, Shotgun) K.Cousins pass incomplete deep left to D.Jackson.",5,4,18,WAS 40,0,WAS,
+24,3867,2,04:13,(4:13) (Shotgun) M.Jones right guard to WAS 30 for 2 yards (J.Allen; S.Thompson).,4,4,8,WAS 28,0,WAS,
+24,3888,3,03:37,(3:37) (Shotgun) K.Cousins pass short middle to M.Jones to WAS 35 for 5 yards (S.Thompson).,2,4,13,WAS 30,0,WAS,
+24,3845,1,04:49,(4:49) (Shotgun) C.Thompson left end to WAS 28 for 6 yards (S.Thompson).,10,4,6,WAS 22,0,WAS,
+24,3980,4,02:34,"(2:34) T.Way punts 56 yards to CAR 4, Center-N.Sundberg, downed by WAS-R.Grant.",5,4,18,WAS 40,0,WAS,PUNT
+25,4079,4,01:15,"(1:15) (Punt formation) PENALTY on CAR-B.Nortman, Defensive Delay of Game, 1 yard, enforced at CAR 2 - No Play.",12,4,-3,CAR 2,0,CAR,PENALTY
+25,4020,0,02:00,Two-Minute Warning,0,4,-1,,0,,
+25,4058,3,01:15,(1:15) D.Anderson up the middle to CAR 2 for no gain (S.Paea; C.Baker).,12,4,-2,CAR 2,0,CAR,
+25,4037,2,02:00,(2:00) M.Tolbert right guard to CAR 2 for -1 yards (W.Compton; J.Johnson).,11,4,-2,CAR 3,0,CAR,
+25,4106,4,00:26,"(:26) (Punt formation) B.Nortman tackled in End Zone for -1 yards, SAFETY (H.Bates).",13,4,-4,CAR 1,1,CAR,SAF
+25,3999,1,02:23,(2:23) M.Tolbert up the middle to CAR 3 for -1 yards (S.Paea).,10,4,-1,CAR 4,0,CAR,
+26,4176,0,00:00,END GAME,0,4,0,,0,,
+26,4133,0,00:16,G.Gano kicks 51 yards from CAR 20 to WAS 29. J.Crowder to WAS 42 for 13 yards (D.Mayo; A.Klein).,0,4,0,CAR 20,0,CAR,KICKOFF
+26,4155,1,00:11,(:11) M.Jones right guard to WAS 42 for no gain (R.Delaire).,10,4,0,WAS 42,0,WAS,
+20,3255,1,01:36,"(1:36) (Shotgun) K.Cousins pass short right to J.Reed to CAR 42 for 13 yards (J.Norman). FUMBLES (J.Norman), RECOVERED by CAR-L.Kuechly at CAR 35. L.Kuechly to CAR 35 for no gain (J.Crowder).",10,3,38,WAS 45,0,WAS,FUMBLE
+20,3223,2,02:22,"(2:22) (No Huddle, Shotgun) C.Thompson up the middle to WAS 43 for 3 yards (T.Davis). FUMBLES (T.Davis), recovered by WAS-M.Moses at WAS 45. M.Moses to WAS 45 for no gain (T.Davis).",5,3,25,WAS 40,0,WAS,FUMBLE
+20,3135,2,03:33,"(3:33) (Shotgun) K.Cousins pass short right to C.Thompson to WAS 25 for no gain (L.Kuechly). PENALTY on WAS-B.Scherff, Offensive Holding, 10 yards, enforced at WAS 25 - No Play.",5,3,-5,WAS 25,0,WAS,PENALTY
+20,3194,1,02:43,"(2:43) (No Huddle, Shotgun) K.Cousins pass short left to C.Thompson pushed ob at WAS 40 for 5 yards (T.Davis).",10,3,20,WAS 35,0,WAS,
+20,3096,0,04:04,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback.",0,3,0,CAR 35,0,CAR,KICKOFF
+20,3111,1,04:04,(4:04) (Shotgun) K.Cousins pass short left to J.Crowder to WAS 25 for 5 yards (B.Benwikere).,10,3,5,WAS 20,0,WAS,
+20,3170,2,03:12,(3:12) (Shotgun) K.Cousins pass deep left to D.Jackson to WAS 35 for 20 yards (K.Coleman).,15,3,15,WAS 15,0,WAS,
+21,3439,2,12:02,(12:02) (Shotgun) M.Tolbert left guard to WAS 9 for 6 yards (P.Riley).,10,4,56,WAS 15,0,CAR,
+21,3348,1,15:00,(15:00) J.Stewart right tackle to WAS 48 for -1 yards (M.Foster; T.Murphy). 60 Daryl Williams reported as eligible,10,4,17,WAS 47,0,CAR,
+21,3369,2,14:15,(14:15) M.Tolbert up the middle to 50 for -2 yards (T.Knighton; C.Baker).,11,4,15,WAS 48,0,CAR,
+21,3460,3,11:18,(11:18) (Shotgun) C.Newton pass short left to M.Tolbert to WAS 7 for 2 yards (D.Goldson).,4,4,58,WAS 9,0,CAR,
+21,3484,4,10:39,"(10:39) G.Gano 25 yard field goal is GOOD, Center-J.Jansen, Holder-B.Nortman.",2,4,58,WAS 7,1,CAR,FG
+21,3332,0,,END QUARTER 3,0,3,18,,0,,
+21,3311,2,00:42,(:42) J.Stewart left guard to WAS 47 for 15 yards (J.Johnson).,7,3,18,CAR 38,0,CAR,
+21,3290,1,01:26,(1:26) J.Stewart left tackle to CAR 38 for 3 yards (R.Kerrigan).,10,3,3,CAR 35,0,CAR,
+21,3418,1,12:43,(12:43) J.Stewart left tackle to WAS 15 for no gain (R.Jean Francois; P.Riley).,10,4,50,WAS 15,0,CAR,
+21,3394,3,13:29,(13:29) (Shotgun) C.Newton pass deep left to D.Funchess to WAS 15 for 35 yards (C.Culliver).,13,4,50,50,0,CAR,
+22,3602,0,08:41,Timeout #1 by WAS at 08:41.,0,4,5,,0,,TIMEOUT
+22,3554,2,09:58,(9:58) (Shotgun) K.Cousins pass short middle to J.Reed to WAS 21 for 7 yards (A.Klein).,16,4,1,WAS 14,0,WAS,
+22,3578,3,09:26,(9:26) (Shotgun) K.Cousins pass short left to J.Reed to WAS 25 for 4 yards (C.Jones).,9,4,5,WAS 21,0,WAS,
+22,3712,4,07:18,"(7:18) T.Way punts 51 yards to CAR 19, Center-N.Sundberg, fair catch by B.Bersin.",12,4,10,WAS 30,0,WAS,PUNT
+22,3690,3,07:24,"(7:24) (No Huddle, Shotgun) K.Cousins pass incomplete short middle to C.Thompson.",12,4,10,WAS 30,0,WAS,
+22,3619,4,08:41,(8:41) (Shotgun) K.Cousins pass short left to J.Reed to WAS 32 for 7 yards (K.Coleman; A.Klein). WAS-Trent.Williams was injured during the play. His return is Questionable.,5,4,10,WAS 25,0,WAS,
+22,3503,0,10:36,G.Gano kicks 66 yards from CAR 35 to WAS -1. A.Roberts pushed ob at WAS 20 for 21 yards (J.Webb).,0,4,0,CAR 35,0,CAR,KICKOFF
+22,3666,2,07:50,"(7:50) (No Huddle, Shotgun) K.Cousins pass short left to C.Thompson to WAS 30 for 6 yards (D.Edwards).",18,4,10,WAS 24,0,WAS,
+22,3535,1,10:30,(10:30) (Shotgun) K.Cousins sacked at WAS 14 for -6 yards (sack split by R.Delaire and M.Addison).,10,4,-6,WAS 20,0,WAS,
+22,3643,1,08:16,(8:16) (Shotgun) K.Cousins sacked at WAS 24 for -8 yards (M.Addison).,10,4,4,WAS 32,0,WAS,
+23,3735,1,07:10,(7:10) F.Whittaker up the middle to CAR 21 for 2 yards (S.Paea; W.Compton).,10,4,2,CAR 19,0,CAR,
+23,3822,4,04:56,"(4:56) B.Nortman punts 51 yards to WAS 22, Center-J.Jansen, fair catch by J.Crowder.",2,4,8,CAR 27,0,CAR,PUNT
+23,3784,3,05:39,"(5:39) (Shotgun) D.Anderson FUMBLES (Aborted) at CAR 20, and recovers at CAR 21. D.Anderson to CAR 27 for 6 yards (C.Baker).",4,4,8,CAR 25,0,CAR,FUMBLE
+23,3756,2,06:26,(6:26) F.Whittaker left guard to CAR 25 for 4 yards (D.Goldson; S.Paea).,8,4,6,CAR 21,0,CAR,
+1,57,1,14:56,(14:56) (Shotgun) J.Stewart right tackle to CAR 38 for no gain (W.Compton; D.Goldson).,10,1,0,CAR 38,0,CAR,
+1,122,4,14:13,"(14:13) B.Nortman punts 48 yards to WAS 14, Center-J.Jansen. J.Crowder to WAS 16 for 2 yards (T.Williams). PENALTY on CAR-T.Williams, Player Out of Bounds on Punt, 5 yards, enforced at WAS 16.",10,1,0,CAR 38,0,CAR,PUNT
+1,100,3,14:18,(14:18) (Shotgun) C.Newton pass incomplete deep left to D.Funchess.,10,1,0,CAR 38,0,CAR,
+1,35,0,15:00,D.Hopkins kicks 35 yards from WAS 35 to CAR 30. M.Tolbert to CAR 38 for 8 yards (D.Goldson).,0,1,0,WAS 35,0,WAS,KICKOFF
+1,78,2,14:24,(14:24) (Shotgun) C.Newton pass incomplete short right to D.Funchess [T.Murphy].,10,1,0,CAR 38,0,CAR,
+3,380,0,09:56,"G.Gano extra point is GOOD, Center-J.Jansen, Holder-B.Nortman.",0,1,31,WAS 15,1,CAR,XP
+3,303,1,11:14,(11:14) (Shotgun) C.Newton pass short middle to D.Funchess to WAS 18 for 13 yards (J.Johnson).,10,1,13,WAS 31,0,CAR,
+3,348,2,10:01,"(10:01) (No Huddle) C.Newton pass short right to J.Stewart for 12 yards, TOUCHDOWN. PENALTY on CAR-J.Stewart, Taunting, 15 yards, enforced between downs.",4,1,31,WAS 12,1,CAR,TD
+3,327,1,10:37,"(10:37) (No Huddle, Shotgun) J.Stewart right tackle to WAS 12 for 6 yards (B.Breeland).",10,1,19,WAS 18,0,CAR,
+2,164,2,13:30,(13:30) (Shotgun) K.Cousins pass short left to P.Garcon to WAS 36 for 13 yards (B.Benwikere).,8,1,20,WAS 23,0,WAS,
+2,209,2,12:06,(12:06) (Shotgun) K.Cousins pass short right to J.Reed to WAS 41 for 7 yards (J.Norman).,12,1,18,WAS 34,0,WAS,
+2,188,1,12:44,(12:44) A.Morris left guard to WAS 34 for -2 yards (K.Short).,10,1,11,WAS 36,0,WAS,
+2,255,3,11:24,"(11:24) (Shotgun) K.Cousins pass deep middle intended for D.Jackson INTERCEPTED by K.Coleman at CAR 41. K.Coleman to WAS 31 for 28 yards (Trent.Williams; S.Long). Penalty on WAS-P.Garcon, Offensive Pass Interference, declined.",5,1,20,WAS 41,0,WAS,INT
+2,220,1,14:03,(14:03) A.Morris up the middle to WAS 23 for 2 yards (L.Kuechly).,10,1,20,WAS 21,0,WAS,
+5,847,1,01:32,(1:32) J.Stewart right guard to WAS 3 for 3 yards (J.Johnson).,5,1,75,WAS 6,0,CAR,
+5,868,2,00:47,"(:47) C.Newton pass short right to M.Tolbert for 3 yards, TOUCHDOWN.",2,1,78,WAS 3,1,CAR,TD
+5,888,0,00:41,"G.Gano extra point is GOOD, Center-J.Jansen, Holder-B.Nortman.",0,1,78,WAS 15,1,CAR,XP
+5,708,2,03:23,"(3:23) (No Huddle, Shotgun) C.Newton pass short right to J.Cotchery to WAS 26 for 11 yards (W.Compton).",7,1,52,WAS 37,0,CAR,
+5,600,1,06:18,(6:18) C.Newton pass short right to D.Funchess to CAR 47 for 11 yards (B.Breeland).,10,1,25,CAR 36,0,CAR,
+5,624,1,05:41,(5:41) T.Ginn right end pushed ob at CAR 48 for 1 yard (P.Riley).,10,1,26,CAR 47,0,CAR,
+5,666,3,04:31,(4:31) J.Stewart up the middle to WAS 40 for 4 yards (D.Goldson; W.Compton).,1,1,38,WAS 44,0,CAR,
+5,778,1,02:08,"(2:08) PENALTY on CAR-M.Oher, False Start, 5 yards, enforced at WAS 11 - No Play.",10,1,62,WAS 11,0,CAR,PENALTY
+5,754,2,02:43,"(2:43) (No Huddle, Shotgun) C.Newton pass short right to B.Bersin to WAS 11 for 15 yards (B.Breeland).",10,1,67,WAS 26,0,CAR,
+5,576,3,06:56,"(6:56) (No Huddle, Shotgun) C.Newton pass short left to T.Ginn to CAR 36 for 7 yards (C.Culliver).",3,1,14,CAR 29,0,CAR,
+5,552,2,07:34,(7:34) (Shotgun) C.Newton pass deep left to J.Cotchery to CAR 29 for 19 yards (C.Culliver).,22,1,7,CAR 10,0,CAR,
+5,732,1,02:48,"(2:48) (No Huddle, Shotgun) C.Newton pass incomplete short left to T.Ginn.",10,1,52,WAS 26,0,CAR,
+5,533,1,08:20,(8:20) (Shotgun) C.Newton sacked at CAR 10 for -12 yards (R.Kerrigan).,10,1,-12,CAR 22,0,CAR,
+5,824,1,01:42,"(1:42) (No Huddle) PENALTY on WAS-J.Hatcher, Neutral Zone Infraction, 5 yards, enforced at WAS 11 - No Play.",10,1,72,WAS 11,0,CAR,PENALTY
+5,511,0,08:26,D.Hopkins kicks 66 yards from WAS 35 to CAR -1. J.Webb to CAR 22 for 23 yards (D.Everett; W.Blackmon).,0,1,0,WAS 35,0,WAS,KICKOFF
+5,645,2,05:08,(5:08) (Shotgun) J.Stewart up the middle to WAS 44 for 8 yards (P.Smith; P.Riley).,9,1,34,CAR 48,0,CAR,
+5,687,1,03:58,(3:58) (No Huddle) M.Tolbert up the middle to WAS 37 for 3 yards (B.Breeland; C.Baker).,10,1,41,WAS 40,0,CAR,
+5,801,1,01:54,"(1:54) (Shotgun) PENALTY on WAS-T.Murphy, Neutral Zone Infraction, 5 yards, enforced at WAS 16 - No Play.",15,1,67,WAS 16,0,CAR,PENALTY
+4,443,1,09:14,(9:14) M.Jones left guard to WAS 44 for -2 yards (J.Allen).,10,1,15,WAS 46,0,WAS,
+4,464,2,08:36,"(8:36) (Shotgun) K.Cousins pass deep right to D.Jackson for 56 yards, TOUCHDOWN. Penalty on CAR-J.Norman, Illegal Use of Hands, declined.",12,1,71,WAS 44,1,WAS,TD
+4,495,0,08:26,"D.Hopkins extra point is GOOD, Center-N.Sundberg, Holder-T.Way.",0,1,71,CAR 15,1,WAS,XP
+4,396,0,09:56,G.Gano kicks 74 yards from CAR 20 to WAS 6. A.Roberts to WAS 29 for 23 yards (D.Mayo; A.Klein).,0,1,0,CAR 20,0,CAR,KICKOFF
+4,419,1,09:50,(9:50) K.Cousins pass deep middle to P.Garcon to WAS 46 for 17 yards (J.Norman).,10,1,17,WAS 29,0,WAS,
+7,995,2,15:00,(15:00) (Shotgun) C.Newton pass incomplete short middle to G.Olsen (W.Compton).,8,2,2,CAR 22,0,CAR,
+7,958,1,00:27,(:27) J.Stewart right tackle to CAR 22 for 2 yards (T.Murphy).,10,1,2,CAR 20,0,CAR,
+7,1047,4,14:35,"(14:35) B.Nortman punts 52 yards to WAS 34, Center-J.Jansen. J.Crowder to WAS 35 for 1 yard (C.Jones).",16,2,-6,CAR 14,0,CAR,PUNT
+7,943,0,00:27,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback.",0,1,0,WAS 35,0,WAS,KICKOFF
+7,979,0,,END QUARTER 1,0,1,2,,0,,
+7,1017,3,14:57,"(14:57) (Shotgun) C.Newton sacked at CAR 14 for -8 yards (P.Smith). Penalty on CAR-R.Kalil, Offensive Holding, declined.",8,2,-6,CAR 22,0,CAR,
+6,904,0,00:41,"G.Gano kicks 64 yards from CAR 35 to WAS 1. A.Roberts for 99 yards, TOUCHDOWN.",0,1,0,CAR 35,1,CAR,TD
+6,927,0,00:27,"D.Hopkins extra point is GOOD, Center-N.Sundberg, Holder-T.Way.",0,1,0,CAR 15,1,WAS,XP
+9,1315,0,09:17,Timeout #1 by CAR at 09:17.,0,2,66,,0,,TIMEOUT
+9,1160,1,12:18,(12:18) J.Stewart right guard to CAR 14 for 6 yards (J.Johnson; D.Goldson).,10,2,6,CAR 8,0,CAR,
+9,1271,1,10:20,"(10:20) (No Huddle, Shotgun) C.Newton pass short left intended for G.Olsen INTERCEPTED by C.Culliver at WAS 25. C.Culliver for 75 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on WAS-C.Culliver, Unnecessary Roughness, 13 yards, enforced at WAS 26 - No Play.",10,2,90,WAS 26,0,CAR,PENALTY
+9,1207,1,11:03,"(11:03) (Shotgun) C.Newton pass short left to J.Cotchery to CAR 40 for 17 yards (K.Jarrett). Penalty on WAS-C.Culliver, Illegal Contact, declined.",10,2,32,CAR 23,0,CAR,
+9,1343,2,09:17,(9:17) (Shotgun) C.Newton pass incomplete short middle to J.Cotchery.,8,2,81,WAS 11,0,CAR,
+9,1181,2,11:37,(11:37) J.Stewart left tackle pushed ob at CAR 23 for 9 yards (P.Riley).,4,2,15,CAR 14,0,CAR,
+9,1455,2,08:29,"(8:29) C.Newton pass incomplete short middle to T.Ginn. PENALTY on WAS-C.Culliver, Defensive Holding, 1 yard, enforced at WAS 2 - No Play. Carolina challenged the incomplete pass ruling, and the play was REVERSED. C.Newton pass short middle to T.Ginn for 2 yards, TOUCHDOWN.",2,2,92,WAS 2,1,CAR,TD
+9,1373,1,10:04,(10:04) J.Stewart left guard to WAS 11 for 2 yards (W.Compton; B.Breeland).,10,2,90,WAS 13,0,CAR,
+9,1242,1,10:43,(10:43) (Shotgun) C.Newton pass deep right to G.Olsen pushed ob at WAS 26 for 34 yards (B.Breeland).,10,2,66,CAR 40,0,CAR,
+9,1443,0,09:07,Timeout #2 by CAR at 09:07.,0,2,90,,0,,TIMEOUT
+9,1496,0,08:21,"G.Gano extra point is GOOD, Center-J.Jansen, Holder-B.Nortman.",0,2,92,WAS 15,1,CAR,XP
+9,1428,1,09:02,(9:02) M.Tolbert left tackle to WAS 2 for -1 yards (B.Breeland).,1,2,90,WAS 1,0,CAR,
+9,1395,3,09:07,"(9:07) (Shotgun) C.Newton pass incomplete short right to T.Ginn [R.Kerrigan]. PENALTY on WAS-K.Jarrett, Defensive Pass Interference, 10 yards, enforced at WAS 11 - No Play.",8,2,90,WAS 11,0,CAR,PENALTY
+8,1141,4,12:27,"(12:27) T.Way punts 49 yards to CAR 8, Center-N.Sundberg, fair catch by T.Ginn.",2,2,8,WAS 43,0,WAS,PUNT
+8,1072,1,14:27,(14:27) M.Jones left end to WAS 33 for -2 yards (A.Klein).,10,2,-2,WAS 35,0,WAS,
+8,1117,3,13:07,(13:07) (Shotgun) K.Cousins pass short middle to M.Jones to WAS 43 for 7 yards (L.Kuechly).,9,2,8,WAS 36,0,WAS,
+8,1093,2,13:46,(13:46) K.Cousins pass short left to D.Jackson to WAS 36 for 3 yards (R.Harper).,12,2,8,WAS 33,0,WAS,
+11,1802,3,05:19,"(5:19) (Shotgun) C.Newton pass short right to G.Olsen for 5 yards, TOUCHDOWN.",5,2,24,WAS 5,1,CAR,TD
+11,1714,2,07:16,"(7:16) (No Huddle, Shotgun) J.Stewart left guard to WAS 16 for 9 yards (D.Goldson).",11,2,8,WAS 25,0,CAR,
+11,1780,2,05:21,"(5:21) (No Huddle, Shotgun) C.Newton pass incomplete short left to D.Funchess.",5,2,19,WAS 5,0,CAR,
+11,1735,3,06:30,"(6:30) (No Huddle, Shotgun) C.Newton pass short left to T.Ginn pushed ob at WAS 7 for 9 yards (P.Smith).",2,2,19,WAS 16,0,CAR,
+11,1822,0,05:14,"G.Gano extra point is GOOD, Center-J.Jansen, Holder-B.Nortman.",0,2,24,WAS 15,1,CAR,XP
+11,1658,1,08:05,"(8:05) C.Newton pass short left to J.Stewart to WAS 18 for 6 yards (J.Hatcher). PENALTY on CAR-M.Oher, Offensive Holding, 10 yards, enforced at WAS 24 - No Play.",10,2,-10,WAS 24,0,CAR,PENALTY
+11,1693,1,07:44,(7:44) (Shotgun) J.Stewart left end to WAS 25 for 9 yards (D.Goldson; P.Riley).,20,2,-1,WAS 34,0,CAR,
+11,1759,1,05:58,(5:58) (Shotgun) C.Newton right guard to WAS 5 for 2 yards (R.Kerrigan; T.Knighton).,7,2,19,WAS 7,0,CAR,
+10,1600,1,08:21,(8:21) K.Cousins pass incomplete deep left to D.Carrier [J.Allen]. 68 Tom Compton reported as eligible,10,2,2,WAS 20,0,WAS,
+10,1622,2,08:14,"(8:14) M.Jones left end to WAS 22 for 2 yards (L.Kuechly). FUMBLES (L.Kuechly), RECOVERED by CAR-T.Davis at WAS 24. T.Davis to WAS 24 for no gain (B.Scherff).",10,2,2,WAS 20,0,WAS,FUMBLE
+10,1585,0,08:21,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback.",0,2,0,CAR 35,0,CAR,KICKOFF
+13,2200,1,00:31,(:31) (Shotgun) C.Newton pass incomplete deep left to D.Funchess.,15,2,6,CAR 44,0,CAR,
+13,2336,1,00:03,"(:03) G.Gano 42 yard field goal is GOOD, Center-J.Jansen, Holder-B.Nortman.",10,2,38,WAS 24,1,CAR,FG
+13,2130,2,01:20,"(1:20) (No Huddle, Shotgun) C.Newton right guard to CAR 40 for no gain (B.Breeland).",8,2,2,CAR 40,0,CAR,
+13,2272,2,00:21,"(:21) (Shotgun) PENALTY on WAS-S.Paea, Neutral Zone Infraction, 5 yards, enforced at WAS 39 - No Play.",10,2,28,WAS 39,0,CAR,PENALTY
+13,2226,2,00:27,(:27) (Shotgun) C.Newton pass short left to T.Ginn pushed ob at WAS 39 for 17 yards (P.Riley).,15,2,38,CAR 44,0,CAR,
+13,2319,0,00:03,Timeout #3 by CAR at 00:03.,0,2,38,,0,,TIMEOUT
+13,2295,2,00:16,(:16) (Shotgun) C.Newton pass short middle to J.Cotchery to WAS 24 for 10 yards (W.Blackmon).,5,2,38,WAS 34,0,CAR,
+13,2177,1,00:31,"(:31) PENALTY on CAR-M.Remmers, False Start, 5 yards, enforced at CAR 49 - No Play.",10,2,38,CAR 49,0,CAR,PENALTY
+13,2250,1,00:21,(:21) (Shotgun) C.Newton pass incomplete short left to G.Olsen (W.Blackmon).,10,2,38,WAS 39,0,CAR,
+13,2106,1,01:54,(1:54) (Shotgun) C.Newton pass short right to F.Whittaker to CAR 40 for 2 yards (P.Riley; W.Compton).,10,2,2,CAR 38,0,CAR,
+13,2151,3,00:39,(:39) (Shotgun) C.Newton scrambles left end pushed ob at CAR 49 for 9 yards (C.Culliver).,8,2,11,CAR 40,0,CAR,
+12,2047,0,02:00,Two-Minute Warning,0,2,24,,0,,
+12,1993,1,02:16,(2:16) (Shotgun) K.Cousins pass incomplete short middle to D.Jackson (K.Ealy).,10,2,30,CAR 26,0,WAS,
+12,1969,2,02:57,(2:57) K.Cousins pass short left to J.Reed to CAR 26 for 8 yards (L.Kuechly; S.Thompson).,8,2,30,CAR 34,0,WAS,
+12,1838,0,05:14,"G.Gano kicks 70 yards from CAR 35 to WAS -5. A.Roberts to WAS 29 for 34 yards (D.Mayo). PENALTY on CAR-B.Jacobs, Unnecessary Roughness, 15 yards, enforced at WAS 29.",0,2,0,CAR 35,0,CAR,KICKOFF
+12,1945,1,03:37,(3:37) K.Cousins pass short right to D.Carrier to CAR 34 for 2 yards (C.Jones).,10,2,22,CAR 36,0,WAS,
+12,1921,3,04:12,(4:12) (Shotgun) K.Cousins pass short left to P.Garcon to CAR 36 for 13 yards (C.Jones; K.Coleman).,3,2,24,CAR 49,0,WAS,
+12,1871,1,05:09,(5:09) (Shotgun) K.Cousins pass short left to D.Jackson ran ob at 50 for 6 yards.,10,2,6,WAS 44,0,WAS,
+12,2015,2,02:11,"(2:11) (Shotgun) K.Cousins left tackle pushed ob at CAR 3 for 23 yards (B.Benwikere). PENALTY on WAS-J.Reed, Offensive Holding, 10 yards, enforced at CAR 22.",10,2,24,CAR 26,0,WAS,PENALTY
+12,2064,2,02:00,"(2:00) (Shotgun) K.Cousins sacked at CAR 39 for -7 yards (K.Ealy). FUMBLES (K.Ealy), RECOVERED by CAR-K.Ealy at CAR 38. Penalty on WAS-M.Moses, Offensive Holding, declined.",16,2,18,CAR 32,0,WAS,FUMBLE
+12,1900,2,04:50,(4:50) (Shotgun) C.Thompson up the middle to CAR 49 for 1 yard (D.Edwards; T.Davis).,4,2,7,50,0,WAS,
+15,2420,1,14:51,(14:51) (Shotgun) M.Tolbert up the middle to WAS 10 for 1 yard (T.Knighton).,10,3,1,WAS 11,0,CAR,
+15,2464,2,14:02,(14:02) (Shotgun) C.Newton pass incomplete short left to G.Olsen.,4,3,6,WAS 5,0,CAR,
+15,2441,2,14:51,"(14:51) (No Huddle, Shotgun) PENALTY on WAS-C.Baker, Encroachment, 5 yards, enforced at WAS 10 - No Play.",9,3,6,WAS 10,0,CAR,PENALTY
+15,2506,0,13:52,"G.Gano extra point is GOOD, Center-J.Jansen, Holder-B.Nortman.",0,3,11,WAS 15,1,CAR,XP
+15,2486,3,13:57,"(13:57) (Shotgun) C.Newton pass short left to D.Funchess for 5 yards, TOUCHDOWN.",4,3,11,WAS 5,1,CAR,TD
+14,2384,1,15:00,"(15:00) K.Cousins sacked at WAS 11 for -9 yards (B.Benwikere). FUMBLES (B.Benwikere) [B.Benwikere], RECOVERED by CAR-B.Benwikere at WAS 11. B.Benwikere to WAS 11 for no gain (B.Scherff).",10,3,-9,WAS 20,0,WAS,FUMBLE
+14,2369,0,15:00,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback.",0,3,0,CAR 35,0,CAR,KICKOFF
+17,2623,1,12:18,(12:18) J.Stewart up the middle to CAR 28 for 1 yard (R.Jean Francois; C.Baker).,10,3,1,CAR 27,0,CAR,
+17,2730,4,10:01,"(10:01) B.Nortman punts 56 yards to end zone, Center-J.Jansen, Touchback.",6,3,17,CAR 44,0,CAR,PUNT
+17,2708,3,10:05,(10:05) (Shotgun) C.Newton pass incomplete short middle to E.Dickson.,6,3,17,CAR 44,0,CAR,
+17,2644,2,11:38,(11:38) J.Stewart right tackle to CAR 40 for 12 yards (K.Jarrett).,9,3,13,CAR 28,0,CAR,
+17,2665,1,10:58,(10:58) (Shotgun) J.Stewart right tackle to CAR 44 for 4 yards (K.Jarrett; B.Breeland).,10,3,17,CAR 40,0,CAR,
+17,2686,2,10:11,"(10:11) (No Huddle, Shotgun) C.Newton pass incomplete short left to T.Ginn.",6,3,17,CAR 44,0,CAR,
+16,2558,2,13:18,(13:18) (Shotgun) K.Cousins pass short left to C.Thompson to WAS 16 for -4 yards (B.Benwikere).,10,3,-4,WAS 20,0,WAS,
+16,2604,4,12:31,"(12:31) T.Way punts 57 yards to CAR 27, Center-N.Sundberg, downed by WAS-J.Johnson.",14,3,-4,WAS 16,0,WAS,PUNT
+16,2537,1,13:52,(13:52) C.Thompson left end to WAS 20 for no gain (L.Kuechly).,10,3,0,WAS 20,0,WAS,
+16,2582,3,12:38,(12:38) (Shotgun) K.Cousins pass incomplete deep left to P.Garcon [J.Allen].,14,3,-4,WAS 16,0,WAS,
+16,2522,0,13:52,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback.",0,3,0,CAR 35,0,CAR,KICKOFF
+19,2873,1,08:21,(8:21) (Shotgun) C.Newton pass short right to T.Ginn to CAR 35 for 2 yards (B.Breeland).,10,3,13,CAR 33,0,CAR,
+19,2965,1,05:57,(5:57) (Shotgun) J.Stewart up the middle to WAS 33 for 2 yards (W.Compton).,5,3,45,WAS 35,0,CAR,
+19,2921,1,07:09,"(7:09) (No Huddle, Shotgun) J.Stewart right end to WAS 40 for 10 yards (P.Riley).",10,3,38,50,0,CAR,
+19,2897,2,07:49,"(7:49) (No Huddle, Shotgun) C.Newton pass short right to G.Olsen to 50 for 15 yards (B.Breeland).",8,3,28,CAR 35,0,CAR,
+19,2852,1,08:47,(8:47) T.Ginn left end to CAR 33 for 11 yards (C.Culliver).,10,3,11,CAR 22,0,CAR,
+19,2986,2,05:24,(5:24) (No Huddle) C.Newton scrambles right end pushed ob at WAS 28 for 5 yards (T.Murphy).,3,3,50,WAS 33,0,CAR,
+19,3033,2,04:20,(4:20) (Shotgun) C.Newton pass incomplete deep left to T.Ginn.,12,3,48,WAS 30,0,CAR,
+19,3012,1,05:00,(5:00) J.Stewart right tackle to WAS 30 for -2 yards (C.Baker; W.Compton).,10,3,48,WAS 28,0,CAR,
+19,3077,4,04:08,"(4:08) G.Gano 48 yard field goal is GOOD, Center-J.Jansen, Holder-B.Nortman.",12,3,48,WAS 30,1,CAR,FG
+19,3055,3,04:14,(4:14) (Shotgun) C.Newton pass incomplete deep middle to J.Cotchery.,12,3,48,WAS 30,0,CAR,
+19,2942,1,06:21,"(6:21) (Shotgun) PENALTY on WAS-C.Baker, Neutral Zone Infraction, 5 yards, enforced at WAS 40 - No Play.",10,3,43,WAS 40,0,CAR,PENALTY
+18,2816,4,08:58,"(8:58) T.Way punts 53 yards to CAR 31, Center-N.Sundberg. T.Ginn to CAR 32 for 1 yard (D.Carrier). PENALTY on CAR-T.Williams, Illegal Block Above the Waist, 10 yards, enforced at CAR 32.",14,3,-4,WAS 16,0,WAS,PUNT
+18,2766,2,09:09,(9:09) (Shotgun) K.Cousins pass incomplete short middle to J.Reed.,16,3,-4,WAS 14,0,WAS,
+18,2747,1,09:53,(9:53) K.Cousins sacked at WAS 14 for -6 yards (K.Love).,10,3,-6,WAS 20,0,WAS,
+18,2788,3,09:05,(9:05) (Shotgun) K.Cousins pass short right to D.Jackson pushed ob at WAS 16 for 2 yards (J.Norman).,16,3,-4,WAS 14,0,WAS,

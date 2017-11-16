@@ -1,230 +1,230 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1354,0,04:24,,0,2,0,MIN 35,0,MIN,KICKOFF
-9,1438,3,03:27,,7,2,3,GB 23,0,GB,
-9,1393,2,03:47,,2,2,3,GB 28,0,GB,PENALTY
-9,1416,2,03:32,,7,2,3,GB 23,0,GB,
-9,1460,4,03:23,,7,2,3,GB 23,0,GB,PUNT
-9,1372,1,04:24,,10,2,8,GB 20,0,GB,
-24,4177,3,14:10,,9,5,6,GB 22,0,GB,PENALTY
-24,4253,1,13:13,,10,5,16,GB 42,0,GB,PENALTY
-24,4207,1,13:53,,10,5,6,GB 27,0,GB,
-24,4112,0,15:00,,0,5,0,MIN 35,0,MIN,KICKOFF
-24,4229,2,13:49,,10,5,21,GB 27,0,GB,
-24,4377,3,10:32,,2,5,77,MIN 2,0,GB,
-24,4276,1,12:54,,15,5,38,GB 37,0,GB,
-24,4300,1,12:18,,10,5,72,MIN 41,0,GB,
-24,4335,1,12:02,,7,5,76,MIN 7,0,GB,
-24,4356,2,11:17,,3,5,77,MIN 3,0,GB,
-24,4156,2,14:49,,10,5,1,GB 21,0,GB,
-24,4134,1,14:55,,10,5,0,GB 21,0,GB,
-24,4399,4,10:28,,2,5,77,MIN 2,1,GB,FG
-10,1673,3,00:53,,1,2,63,GB 1,1,MIN,TD
-10,1479,1,03:14,,10,2,-2,MIN 37,0,MIN,
-10,1597,1,01:14,,2,2,62,GB 2,0,MIN,
-10,1535,1,02:16,,10,2,41,GB 27,0,MIN,
-10,1656,0,00:53,,0,2,62,,0,,TIMEOUT
-10,1635,2,01:00,,1,2,62,GB 1,0,MIN,
-10,1618,0,01:00,,0,2,62,,0,,TIMEOUT
-10,1500,2,02:38,,12,2,41,MIN 35,0,MIN,PENALTY
-10,1573,2,02:00,,5,2,61,GB 22,0,MIN,
-10,1691,0,00:50,,0,2,63,GB 2,1,MIN,XP
-20,3532,3,02:44,,11,4,-2,MIN 20,0,MIN,
-20,3494,2,02:53,,8,4,-1,MIN 23,0,MIN,
-20,3568,4,02:37,,12,4,-2,MIN 19,0,MIN,PUNT
-20,3448,0,03:30,,0,4,0,GB 35,0,GB,KICKOFF
-20,3515,0,02:44,,0,4,-1,,0,,TIMEOUT
-20,3470,1,03:24,,10,4,2,MIN 21,0,MIN,
-20,3551,0,02:37,,0,4,-2,,0,,TIMEOUT
-6,976,3,10:20,,4,2,34,MIN 47,0,MIN,
-6,955,2,11:01,,10,2,28,MIN 41,0,MIN,
-6,912,2,11:39,,6,2,22,MIN 34,0,MIN,
-6,891,1,12:18,,10,2,15,MIN 30,0,MIN,
-6,870,1,12:52,,10,2,36,MIN 19,0,MIN,
-6,933,1,11:06,,10,2,22,MIN 41,0,MIN,
-6,1000,1,09:43,,10,2,36,GB 47,0,MIN,FUMBLE
-27,4856,1,03:26,,10,5,3,MIN 39,0,MIN,
-27,4898,3,02:11,,5,5,5,MIN 44,0,MIN,
-27,4920,4,02:07,,5,5,5,MIN 44,0,MIN,PUNT
-27,4877,2,02:50,,7,5,5,MIN 42,0,MIN,
-18,3021,2,11:06,,5,4,22,MIN 28,0,MIN,
-18,2976,0,11:42,,0,4,0,GB 35,0,GB,KICKOFF
-18,3085,3,09:33,,7,4,22,MIN 48,0,MIN,
-18,3000,1,11:37,,10,4,5,MIN 23,0,MIN,
-18,3063,2,09:40,,7,4,25,MIN 48,0,MIN,
-18,3109,4,08:50,,10,4,22,MIN 45,0,MIN,PUNT
-18,3042,1,10:25,,10,4,25,MIN 45,0,MIN,
-28,5173,4,00:07,,18,5,17,GB 27,0,GB,PUNT
-28,5005,2,01:37,,6,5,12,GB 27,0,GB,PENALTY
-28,5028,2,01:13,,11,5,25,GB 22,0,GB,
-28,5127,2,00:19,,25,5,17,GB 20,0,GB,
-28,5049,1,00:46,,10,5,20,GB 35,0,GB,PENALTY
-28,4981,1,01:37,,10,5,17,GB 23,0,GB,
-28,5105,1,00:24,,25,5,10,GB 20,0,GB,
-28,4957,1,01:59,,10,5,13,GB 10,0,GB,
-28,5151,3,00:13,,18,5,17,GB 27,0,GB,
-28,5072,1,00:32,,15,5,10,GB 30,0,GB,PENALTY
-26,4786,2,03:44,,10,5,1,GB 20,0,GB,
-26,4814,3,03:37,,9,5,1,GB 21,0,GB,
-26,4836,4,03:33,,9,5,1,GB 21,0,GB,PUNT
-26,4749,0,03:49,,0,5,0,MIN 35,0,MIN,KICKOFF
-26,4764,1,03:49,,10,5,0,GB 20,0,GB,
-25,4606,1,06:33,,10,5,56,GB 36,0,MIN,
-25,4627,1,05:53,,10,5,67,GB 24,0,MIN,
-25,4669,0,04:42,,0,5,68,,0,,TIMEOUT
-25,4507,1,08:30,,10,5,25,MIN 36,0,MIN,
-25,4462,2,09:37,,7,5,1,MIN 23,0,MIN,
-25,4582,2,07:13,,6,5,44,GB 46,0,MIN,
-25,4707,3,03:59,,14,5,63,GB 17,0,MIN,
-25,4528,2,07:54,,1,5,30,MIN 45,0,MIN,PENALTY
-25,4561,1,07:48,,10,5,34,50,0,MIN,
-25,4481,3,09:01,,9,5,16,MIN 21,0,MIN,
-25,4648,1,05:15,,10,5,68,GB 13,0,MIN,
-25,4441,1,10:20,,10,5,3,MIN 20,0,MIN,
-25,4729,4,03:54,,14,5,63,GB 17,1,MIN,FG
-25,4419,0,10:25,,0,5,0,GB 35,0,GB,KICKOFF
-25,4686,2,04:42,,9,5,63,GB 12,0,MIN,
-1,98,3,13:42,,16,1,-6,GB 16,0,GB,
-1,58,1,14:54,,10,1,-7,GB 22,0,GB,
-1,77,2,14:23,,17,1,-6,GB 15,0,GB,
-1,36,0,15:00,,0,1,-6,MIN 35,0,MIN,KICKOFF
-1,120,4,13:38,,16,1,-6,GB 16,0,GB,FUMBLE
-5,788,1,14:18,,10,2,28,GB 48,0,GB,
-5,850,4,13:00,,19,2,19,GB 39,0,GB,PUNT
-5,831,3,13:31,,8,2,19,50,0,GB,
-5,766,2,15:00,,10,2,28,GB 34,0,GB,
-5,685,1,01:37,,10,1,9,GB 20,0,GB,
-5,810,2,14:13,,10,2,30,GB 48,0,GB,
-5,708,2,00:55,,1,1,14,GB 29,0,GB,
-5,667,0,01:37,,0,1,0,MIN 35,0,MIN,KICKOFF
-5,729,1,00:20,,10,1,14,GB 34,0,GB,
-13,2058,4,11:59,,10,3,0,GB 22,0,GB,PUNT
-13,2015,2,12:45,,10,3,0,GB 22,0,GB,
-13,2036,3,12:04,,10,3,0,GB 22,0,GB,
-13,1993,1,12:49,,10,3,0,GB 22,0,GB,
-29,5193,1,00:01,,10,5,21,MIN 34,0,MIN,
-29,5217,0,00:00,,0,5,21,,0,,
-21,3814,0,01:03,,0,4,57,,0,,TIMEOUT
-21,3884,0,00:50,,0,4,60,,0,,TIMEOUT
-21,3618,2,02:03,,1,4,25,GB 40,0,GB,
-21,3724,4,01:17,,6,4,57,MIN 40,0,GB,
-21,3594,1,02:27,,10,4,9,GB 31,0,GB,
-21,3680,2,01:27,,6,4,29,MIN 40,0,GB,
-21,3901,4,00:50,,7,4,60,MIN 9,1,GB,FG
-21,3659,1,01:55,,10,4,29,MIN 44,0,GB,
-21,3792,1,01:10,,10,4,57,MIN 12,0,GB,
-21,3702,3,01:22,,6,4,29,MIN 40,0,GB,
-21,3860,3,00:57,,10,4,60,MIN 12,0,GB,
-21,3831,2,01:03,,10,4,57,MIN 12,0,GB,
-23,4096,0,,,0,4,-1,,0,,
-23,4075,1,00:02,,10,4,-1,GB 16,0,GB,
-11,1707,0,00:50,,0,2,0,MIN 35,0,MIN,KICKOFF
-11,1725,1,00:50,,10,2,24,GB 20,0,GB,
-11,1749,1,00:26,,10,2,33,GB 44,0,GB,
-11,1814,1,00:13,,10,2,35,MIN 45,0,GB,
-11,1790,2,00:19,,1,2,35,MIN 47,0,GB,
-11,1836,2,00:10,,10,2,54,MIN 45,0,GB,
-11,1773,0,00:19,,0,2,33,,0,,TIMEOUT
-14,2218,0,08:22,,0,3,59,GB 2,1,MIN,XP
-14,2197,2,08:29,,4,3,59,GB 12,1,MIN,TD
-14,2125,3,10:29,,5,3,20,MIN 46,0,MIN,
-14,2083,1,11:50,,10,3,3,MIN 41,0,MIN,
-14,2173,1,09:06,,10,3,47,GB 18,0,MIN,
-14,2149,1,09:49,,10,3,41,GB 39,0,MIN,
-14,2104,2,11:15,,7,3,5,MIN 44,0,MIN,
-8,1334,4,04:28,,13,2,69,GB 29,1,MIN,FG
-8,1272,1,05:49,,10,2,74,GB 26,0,MIN,
-8,1312,3,04:35,,13,2,69,GB 29,0,MIN,
-8,1145,2,08:10,,3,2,14,MIN 9,0,MIN,
-8,1293,2,05:11,,8,2,69,GB 24,0,MIN,
-8,1121,1,08:47,,10,2,7,MIN 2,0,MIN,
-8,1169,1,07:36,,10,2,41,MIN 16,0,MIN,
-8,1190,1,06:53,,10,2,41,MIN 38,0,MIN,
-8,1236,3,06:06,,5,2,72,MIN 43,0,MIN,
-8,1214,2,06:12,,5,2,41,MIN 43,0,MIN,
-19,3230,1,06:47,,10,4,40,MIN 36,0,GB,
-19,3432,0,03:30,,0,4,76,MIN 2,1,GB,XP
-19,3386,2,04:15,,10,4,70,MIN 10,0,GB,
-19,3362,1,04:39,,10,4,66,MIN 10,0,GB,
-19,3410,3,03:33,,6,4,76,MIN 6,1,GB,TD
-19,3252,2,06:41,,10,4,48,MIN 36,0,GB,
-19,3180,1,07:44,,10,4,33,MIN 49,0,GB,
-19,3206,2,07:19,,4,4,40,MIN 43,0,GB,
-19,3317,4,05:23,,1,4,53,MIN 27,0,GB,
-19,3156,1,08:11,,10,4,27,GB 41,0,GB,
-19,3300,0,05:23,,0,4,49,,0,,TIMEOUT
-19,3338,1,04:46,,10,4,66,MIN 23,0,GB,
-19,3276,3,06:02,,2,4,49,MIN 28,0,GB,
-19,3135,1,08:40,,10,4,17,GB 24,0,GB,
-22,4049,4,00:09,,7,4,14,MIN 44,0,MIN,PUNT
-22,3921,0,00:46,,0,4,0,GB 35,0,GB,KICKOFF
-22,4010,0,00:14,,0,4,14,,0,,TIMEOUT
-22,4027,3,00:14,,7,4,14,MIN 44,0,MIN,
-22,3967,1,00:24,,10,4,11,MIN 41,0,MIN,
-22,3989,2,00:21,,10,4,14,MIN 41,0,MIN,
-22,3943,1,00:41,,10,4,11,MIN 30,0,MIN,
-12,1889,1,14:59,,10,3,-2,MIN 40,0,MIN,
-12,1973,4,12:57,,10,3,0,MIN 40,0,MIN,PUNT
-12,1931,3,14:24,,4,3,1,MIN 46,0,MIN,PENALTY
-12,1954,3,13:23,,9,3,0,MIN 41,0,MIN,
-12,1874,0,15:00,,0,3,0,GB 35,0,GB,KICKOFF
-12,1910,2,14:24,,12,3,6,MIN 38,0,MIN,
-16,2491,3,02:52,,4,3,41,MIN 37,0,MIN,
-16,2385,1,05:26,,10,3,7,MIN 4,0,MIN,
-16,2515,1,02:19,,10,3,67,MIN 45,0,MIN,
-16,2427,1,04:21,,10,3,27,MIN 16,0,MIN,
-16,2469,2,02:57,,4,3,33,MIN 37,0,MIN,
-16,2578,2,00:14,,9,3,80,GB 17,0,MIN,
-16,2615,3,15:00,,8,4,85,GB 16,0,MIN,
-16,2639,4,14:24,,3,4,85,GB 11,1,MIN,FG
-16,2406,2,05:00,,3,3,12,MIN 11,0,MIN,
-16,2557,1,00:53,,10,3,79,GB 18,0,MIN,
-16,2448,1,03:39,,10,3,33,MIN 31,0,MIN,
-16,2536,1,01:34,,10,3,78,GB 29,0,MIN,
-7,1036,1,09:33,,10,2,5,GB 45,0,GB,
-7,1101,4,08:56,,5,2,5,50,0,GB,PUNT
-7,1079,3,09:03,,5,2,5,50,0,GB,
-7,1058,2,09:29,,10,2,5,GB 45,0,GB,
-3,394,2,07:09,,9,1,37,GB 45,0,GB,
-3,370,1,07:45,,10,1,32,GB 44,0,GB,
-3,259,1,10:58,,10,1,2,GB 13,0,GB,
-3,482,2,05:06,,6,1,87,MIN 6,1,GB,TD
-3,415,3,06:29,,4,1,71,50,0,GB,
-3,280,2,10:18,,8,1,10,GB 15,0,GB,
-3,304,1,09:37,,10,1,9,GB 23,0,GB,
-3,439,1,05:45,,10,1,81,MIN 16,0,GB,
-3,460,1,05:10,,6,1,81,MIN 6,0,GB,
-3,500,0,04:59,,0,1,87,MIN 2,1,GB,XP
-3,346,3,08:23,,9,1,31,GB 24,0,GB,
-3,325,2,08:58,,11,1,11,GB 22,0,GB,
-17,2891,2,12:10,,10,4,65,MIN 15,0,GB,
-17,2812,2,12:49,,7,4,30,GB 46,0,GB,
-17,2659,0,14:22,,0,4,0,MIN 35,0,MIN,KICKOFF
-17,2681,1,14:16,,10,4,10,GB 20,0,GB,
-17,2962,0,11:42,,0,4,80,MIN 2,0,GB,2PPF
-17,2836,3,12:21,,3,4,65,50,0,GB,PENALTY
-17,2869,1,12:15,,10,4,65,MIN 15,0,GB,
-17,2913,3,12:06,,10,4,80,MIN 15,0,GB,PENALTY
-17,2945,1,11:47,,3,4,80,MIN 3,1,GB,TD
-17,2705,1,13:50,,10,4,10,GB 30,0,GB,
-17,2791,1,13:14,,10,4,26,GB 43,0,GB,
-17,2737,2,13:45,,10,4,15,GB 30,0,GB,PENALTY
-17,2770,2,13:41,,5,4,23,GB 35,0,GB,
-4,538,1,04:48,,10,1,7,GB 42,0,MIN,
-4,607,2,02:58,,11,1,25,GB 22,0,MIN,
-4,562,2,04:07,,3,1,21,GB 35,0,MIN,
-4,516,0,04:59,,0,1,0,GB 35,0,GB,KICKOFF
-4,647,4,01:41,,7,1,24,GB 18,1,MIN,FG
-4,628,3,02:16,,6,1,24,GB 17,0,MIN,
-4,586,1,03:38,,10,1,20,GB 21,0,MIN,
-2,150,1,13:27,,10,1,11,MIN 40,0,MIN,
-2,235,4,11:06,,18,1,3,MIN 43,0,MIN,PUNT
-2,192,2,12:20,,15,1,-2,MIN 46,0,MIN,
-2,211,3,11:49,,23,1,3,MIN 38,0,MIN,
-2,171,1,12:50,,10,1,3,GB 49,0,MIN,
-15,2277,2,07:40,,1,3,43,GB 29,0,GB,
-15,2365,4,05:38,,13,3,40,MIN 40,0,GB,PUNT
-15,2234,0,08:22,,0,3,0,MIN 35,0,MIN,KICKOFF
-15,2298,1,06:59,,10,3,45,MIN 37,0,GB,
-15,2252,1,08:22,,10,3,9,GB 20,0,GB,
-15,2341,3,06:18,,8,3,40,MIN 35,0,GB,
-15,2319,2,06:25,,8,3,45,MIN 35,0,GB,
+24,4399,4,10:28,"(10:28) M.Crosby 20 yard field goal is GOOD, Center-B.Goode, Holder-T.Masthay.",2,5,77,MIN 2,1,GB,FG
+24,4177,3,14:10,"(14:10) (No Huddle, Shotgun) M.Flynn sacked at GB 20 for -2 yards (C.Greenway). PENALTY on MIN-R.Blanton, Defensive Holding, 5 yards, enforced at GB 22 - No Play.",9,5,6,GB 22,0,GB,PENALTY
+24,4156,2,14:49,(14:49) E.Lacy right end to GB 22 for 1 yard (M.Sherels).,10,5,1,GB 21,0,GB,
+24,4276,1,12:54,(12:54) (Shotgun) M.Flynn pass short middle to J.Jones to MIN 41 for 22 yards (J.Sanford).,15,5,38,GB 37,0,GB,
+24,4253,1,13:13,"(13:13) (No Huddle, Shotgun) PENALTY on GB-T.Lang, False Start, 5 yards, enforced at GB 42 - No Play.",10,5,16,GB 42,0,GB,PENALTY
+24,4335,1,12:02,"(12:02) (Shotgun) E.Lacy left guard to MIN 3 for 4 yards (A.Sendejo, C.Greenway).",7,5,76,MIN 7,0,GB,
+24,4134,1,14:55,(14:55) M.Flynn pass incomplete short right.,10,5,0,GB 21,0,GB,
+24,4377,3,10:32,(10:32) (Shotgun) M.Flynn pass incomplete short right to J.Nelson.,2,5,77,MIN 2,0,GB,
+24,4300,1,12:18,"(12:18) (No Huddle, Shotgun) M.Flynn pass deep left to J.Boykin pushed ob at MIN 7 for 34 yards (C.Cook). Penalty on MIN-R.Blanton, Defensive Holding, declined.",10,5,72,MIN 41,0,GB,
+24,4112,0,15:00,B.Walsh kicks 65 yards from MIN 35 to GB 0. M.Hyde to GB 21 for 21 yards (J.Sanford; G.Hodges).,0,5,0,MIN 35,0,MIN,KICKOFF
+24,4229,2,13:49,(13:49) (Shotgun) M.Flynn pass short middle to J.Nelson to GB 42 for 15 yards (R.Blanton).,10,5,21,GB 27,0,GB,
+24,4356,2,11:17,(11:17) E.Lacy right tackle to MIN 2 for 1 yard (J.Allen).,3,5,77,MIN 3,0,GB,
+24,4207,1,13:53,(13:53) (Shotgun) M.Flynn pass incomplete short right to J.Boykin (J.Allen).,10,5,6,GB 27,0,GB,
+25,4686,2,04:42,(4:42) A.Peterson right end to GB 17 for -5 yards (M.Neal).,9,5,63,GB 12,0,MIN,
+25,4707,3,03:59,(3:59) (Shotgun) C.Ponder pass incomplete deep middle to C.Patterson (D.House).,14,5,63,GB 17,0,MIN,
+25,4648,1,05:15,(5:15) T.Gerhart up the middle to GB 12 for 1 yard (B.Jones; M.Daniels).,10,5,68,GB 13,0,MIN,
+25,4729,4,03:54,"(3:54) B.Walsh 35 yard field goal is GOOD, Center-C.Loeffler, Holder-J.Locke.",14,5,63,GB 17,1,MIN,FG
+25,4669,0,04:42,Timeout #1 by GB at 04:42.,0,5,68,,0,,TIMEOUT
+25,4419,0,10:25,M.Crosby kicks 70 yards from GB 35 to MIN -5. C.Patterson to MIN 20 for 25 yards (B.Bostick).,0,5,0,GB 35,0,GB,KICKOFF
+25,4528,2,07:54,"(7:54) C.Ponder pass incomplete short right to J.Simpson. PENALTY on GB-M.Burnett, Defensive Holding, 5 yards, enforced at MIN 45 - No Play.",1,5,30,MIN 45,0,MIN,PENALTY
+25,4561,1,07:48,"(7:48) A.Peterson right guard to GB 46 for 4 yards (D.Jones, R.Pickett).",10,5,34,50,0,MIN,
+25,4441,1,10:20,(10:20) A.Peterson up the middle to MIN 23 for 3 yards (M.Burnett; M.Neal).,10,5,3,MIN 20,0,MIN,
+25,4507,1,08:30,(8:30) T.Gerhart left tackle to MIN 45 for 9 yards (M.Burnett; T.Williams).,10,5,25,MIN 36,0,MIN,
+25,4481,3,09:01,(9:01) (Shotgun) A.Peterson left guard pushed ob at MIN 36 for 15 yards (M.Jennings).,9,5,16,MIN 21,0,MIN,
+25,4627,1,05:53,(5:53) T.Gerhart left tackle to GB 13 for 11 yards (B.Jones; M.Burnett).,10,5,67,GB 24,0,MIN,
+25,4606,1,06:33,(6:33) T.Gerhart up the middle to GB 24 for 12 yards (M.Jennings; A.Hawk).,10,5,56,GB 36,0,MIN,
+25,4462,2,09:37,(9:37) C.Ponder sacked at MIN 21 for -2 yards (M.Daniels).,7,5,1,MIN 23,0,MIN,
+25,4582,2,07:13,(7:13) C.Ponder pass short right to J.Carlson to GB 36 for 10 yards (B.Jones).,6,5,44,GB 46,0,MIN,
+26,4786,2,03:44,(3:44) J.Starks right end pushed ob at GB 21 for 1 yard (C.Greenway).,10,5,1,GB 20,0,GB,
+26,4749,0,03:49,"B.Walsh kicks 65 yards from MIN 35 to end zone, Touchback.",0,5,0,MIN 35,0,MIN,KICKOFF
+26,4836,4,03:33,"(3:33) T.Masthay punts 40 yards to MIN 39, Center-B.Goode, fair catch by M.Sherels.",9,5,1,GB 21,0,GB,PUNT
+26,4764,1,03:49,(3:49) (Shotgun) M.Flynn pass incomplete short right to J.Boykin.,10,5,0,GB 20,0,GB,
+26,4814,3,03:37,(3:37) (Shotgun) M.Flynn pass incomplete short middle to J.Starks [A.Cole].,9,5,1,GB 21,0,GB,
+27,4856,1,03:26,(3:26) A.Peterson right guard to MIN 42 for 3 yards (A.Hawk).,10,5,3,MIN 39,0,MIN,
+27,4877,2,02:50,(2:50) (Shotgun) A.Peterson up the middle to MIN 44 for 2 yards (C.Matthews).,7,5,5,MIN 42,0,MIN,
+27,4898,3,02:11,(2:11) (Shotgun) C.Ponder pass incomplete short left to G.Jennings.,5,5,5,MIN 44,0,MIN,
+27,4920,4,02:07,"(2:07) J.Locke punts 46 yards to GB 10, Center-C.Loeffler, fair catch by M.Hyde.",5,5,5,MIN 44,0,MIN,PUNT
+20,3470,1,03:24,(3:24) A.Peterson left end to MIN 23 for 2 yards (C.Matthews; R.Pickett). GB-C.Wilson was injured during the play.,10,4,2,MIN 21,0,MIN,
+20,3448,0,03:30,"M.Crosby kicks 62 yards from GB 35 to MIN 3. C.Patterson to MIN 21 for 18 yards (D.House, J.Bush).",0,4,0,GB 35,0,GB,KICKOFF
+20,3551,0,02:37,Timeout #3 by GB at 02:37.,0,4,-2,,0,,TIMEOUT
+20,3494,2,02:53,(2:53) C.Ponder left end to MIN 20 for -3 yards (B.Jones).,8,4,-1,MIN 23,0,MIN,
+20,3515,0,02:44,Timeout #2 by GB at 02:44.,0,4,-1,,0,,TIMEOUT
+20,3532,3,02:44,(2:44) (Shotgun) C.Ponder sacked at MIN 19 for -1 yards (M.Neal).,11,4,-2,MIN 20,0,MIN,
+20,3568,4,02:37,"(2:37) J.Locke punts 50 yards to GB 31, Center-C.Loeffler. M.Hyde to GB 31 for no gain (S.Prater).",12,4,-2,MIN 19,0,MIN,PUNT
+21,3884,0,00:50,Timeout #2 by MIN at 00:50.,0,4,60,,0,,TIMEOUT
+21,3860,3,00:57,(:57) (Shotgun) M.Flynn pass short right to J.Boykin to MIN 9 for 3 yards (X.Rhodes).,10,4,60,MIN 12,0,GB,
+21,3831,2,01:03,(1:03) (Shotgun) M.Flynn pass incomplete short left to A.Quarless (L.Guion).,10,4,57,MIN 12,0,GB,
+21,3814,0,01:03,Timeout #1 by MIN at 01:03.,0,4,57,,0,,TIMEOUT
+21,3594,1,02:27,(2:27) (Shotgun) M.Flynn pass short right to J.Jones to GB 40 for 9 yards (X.Rhodes).,10,4,9,GB 31,0,GB,
+21,3618,2,02:03,"(2:03) (No Huddle, Shotgun) M.Flynn pass short middle to E.Lacy ran ob at MIN 44 for 16 yards (C.Greenway).",1,4,25,GB 40,0,GB,
+21,3680,2,01:27,"(1:27) (No Huddle, Shotgun) M.Flynn pass incomplete short right.",6,4,29,MIN 40,0,GB,
+21,3792,1,01:10,"(1:10) E.Lacy left end to MIN 12 for no gain (K.Williams, B.Robison).",10,4,57,MIN 12,0,GB,
+21,3724,4,01:17,"(1:17) (No Huddle) M.Flynn pass deep left to J.Jones to MIN 12 for 28 yards (M.Sherels) [A.Cole]. Penalty on MIN-E.Griffen, Defensive Offside, declined.",6,4,57,MIN 40,0,GB,
+21,3659,1,01:55,"(1:55) (Shotgun) E.Lacy right tackle to MIN 40 for 4 yards (A.Cole, B.Robison).",10,4,29,MIN 44,0,GB,
+21,3702,3,01:22,"(1:22) (Shotgun) M.Flynn pass incomplete short left to J.Boykin [B.Robison]. The Replay Assistant challenged the fumble ruling, and the play was Upheld.",6,4,29,MIN 40,0,GB,
+21,3901,4,00:50,"(:50) M.Crosby 27 yard field goal is GOOD, Center-B.Goode, Holder-T.Masthay.",7,4,60,MIN 9,1,GB,FG
+22,3921,0,00:46,"M.Crosby kicks 52 yards from GB 35 to MIN 13. T.Gerhart to MIN 30 for 17 yards (A.Mulumba, B.Bostick).",0,4,0,GB 35,0,GB,KICKOFF
+22,4027,3,00:14,(:14) (Shotgun) C.Ponder pass incomplete deep left to J.Simpson.,7,4,14,MIN 44,0,MIN,
+22,3943,1,00:41,(:41) (Shotgun) C.Ponder pass short middle to J.Carlson to MIN 41 for 11 yards (M.Hyde).,10,4,11,MIN 30,0,MIN,
+22,4049,4,00:09,"(:09) J.Locke punts 40 yards to GB 16, Center-C.Loeffler. M.Hyde to GB 16 for no gain (S.Prater).",7,4,14,MIN 44,0,MIN,PUNT
+22,3967,1,00:24,"(:24) (No Huddle, Shotgun) C.Ponder pass incomplete short right to J.Wright.",10,4,11,MIN 41,0,MIN,
+22,3989,2,00:21,(:21) (Shotgun) C.Ponder up the middle to MIN 44 for 3 yards (D.Jones).,10,4,14,MIN 41,0,MIN,
+22,4010,0,00:14,Timeout #3 by MIN at 00:14.,0,4,14,,0,,TIMEOUT
+23,4075,1,00:02,(:02) M.Flynn kneels to GB 15 for -1 yards.,10,4,-1,GB 16,0,GB,
+23,4096,0,,END QUARTER 4,0,4,-1,,0,,
+28,5173,4,00:07,"(:07) T.Masthay punts 39 yards to MIN 34, Center-B.Goode, fair catch by M.Sherels.",18,5,17,GB 27,0,GB,PUNT
+28,5028,2,01:13,"(1:13) (No Huddle, Shotgun) M.Flynn right end to GB 35 for 13 yards (K.Williams).",11,5,25,GB 22,0,GB,
+28,5005,2,01:37,"(1:37) (No Huddle, Shotgun) PENALTY on GB-T.Lang, False Start, 5 yards, enforced at GB 27 - No Play.",6,5,12,GB 27,0,GB,PENALTY
+28,5151,3,00:13,(:13) (Shotgun) M.Flynn pass incomplete short right to J.Nelson.,18,5,17,GB 27,0,GB,
+28,4981,1,01:37,"(1:37) (No Huddle, Shotgun) M.Flynn pass short right to J.Jones to GB 27 for 4 yards (M.Sherels).",10,5,17,GB 23,0,GB,
+28,5049,1,00:46,"(:46) (No Huddle, Shotgun) PENALTY on GB-E.Dietrich-Smith, False Start, 5 yards, enforced at GB 35 - No Play.",10,5,20,GB 35,0,GB,PENALTY
+28,5072,1,00:32,"(:32) (No Huddle, Shotgun) M.Flynn pass incomplete short right to A.Quarless. PENALTY on GB-D.Bakhtiari, Offensive Holding, 10 yards, enforced at GB 30 - No Play.",15,5,10,GB 30,0,GB,PENALTY
+28,5127,2,00:19,"(:19) (No Huddle, Shotgun) M.Flynn pass short left to J.Nelson pushed ob at GB 27 for 7 yards (A.Sendejo).",25,5,17,GB 20,0,GB,
+28,4957,1,01:59,(1:59) (Shotgun) M.Flynn pass short middle to A.Quarless to GB 23 for 13 yards (A.Sendejo).,10,5,13,GB 10,0,GB,
+28,5105,1,00:24,"(:24) (No Huddle, Shotgun) M.Flynn pass incomplete short right to J.Kuhn.",25,5,10,GB 20,0,GB,
+29,5217,0,00:00,END GAME,0,5,21,,0,,
+29,5193,1,00:01,(:01) (Shotgun) C.Ponder pass short left to C.Patterson to GB 45 for 21 yards (J.Bush).,10,5,21,MIN 34,0,MIN,
+1,77,2,14:23,(14:23) E.Lacy right guard to GB 16 for 1 yard (C.Greenway).,17,1,-6,GB 15,0,GB,
+1,98,3,13:42,(13:42) (Shotgun) S.Tolzien pass incomplete short right to J.Jones (K.Williams).,16,1,-6,GB 16,0,GB,
+1,36,0,15:00,B.Walsh kicks 65 yards from MIN 35 to GB 0. J.Franklin to GB 22 for 22 yards (J.Sanford).,0,1,-6,MIN 35,0,MIN,KICKOFF
+1,120,4,13:38,"(13:38) T.Masthay punts 41 yards to MIN 43, Center-B.Goode. M.Sherels MUFFS catch, and recovers at MIN 40. M.Sherels to MIN 40 for no gain (M.Jennings).",16,1,-6,GB 16,0,GB,FUMBLE
+1,58,1,14:54,(14:54) S.Tolzien sacked at GB 15 for -7 yards (A.Cole).,10,1,-7,GB 22,0,GB,
+3,325,2,08:58,(8:58) (Shotgun) E.Lacy right guard to GB 24 for 2 yards (A.Cole).,11,1,11,GB 22,0,GB,
+3,304,1,09:37,(9:37) E.Lacy left end to GB 22 for -1 yards (J.Allen).,10,1,9,GB 23,0,GB,
+3,460,1,05:10,(5:10) (Shotgun) S.Tolzien pass incomplete short right to J.Jones (X.Rhodes).,6,1,81,MIN 6,0,GB,
+3,482,2,05:06,"(5:06) S.Tolzien left tackle for 6 yards, TOUCHDOWN.",6,1,87,MIN 6,1,GB,TD
+3,415,3,06:29,(6:29) (Shotgun) S.Tolzien pass deep middle to J.Nelson to MIN 16 for 34 yards (M.Sherels).,4,1,71,50,0,GB,
+3,346,3,08:23,(8:23) S.Tolzien pass short right to J.Kuhn to GB 44 for 20 yards (C.Greenway).,9,1,31,GB 24,0,GB,
+3,259,1,10:58,"(10:58) E.Lacy left end to GB 15 for 2 yards (E.Griffen, J.Sanford).",10,1,2,GB 13,0,GB,
+3,280,2,10:18,(10:18) (Shotgun) S.Tolzien pass short left to J.Jones to GB 23 for 8 yards (C.Cook).,8,1,10,GB 15,0,GB,
+3,370,1,07:45,(7:45) S.Tolzien pass short right to J.Jones to GB 45 for 1 yard (X.Rhodes).,10,1,32,GB 44,0,GB,
+3,394,2,07:09,(7:09) (Shotgun) E.Lacy up the middle to 50 for 5 yards (A.Cole).,9,1,37,GB 45,0,GB,
+3,500,0,04:59,"M.Crosby extra point is GOOD, Center-B.Goode, Holder-T.Masthay.",0,1,87,MIN 2,1,GB,XP
+3,439,1,05:45,(5:45) (Shotgun) E.Lacy left guard to MIN 6 for 10 yards (K.Williams).,10,1,81,MIN 16,0,GB,
+2,235,4,11:06,"(11:06) J.Locke punts 44 yards to GB 13, Center-C.Loeffler, fair catch by M.Hyde.",18,1,3,MIN 43,0,MIN,PUNT
+2,150,1,13:27,(13:27) A.Peterson up the middle to GB 49 for 11 yards (M.Jennings).,10,1,11,MIN 40,0,MIN,
+2,211,3,11:49,(11:49) (Shotgun) C.Ponder pass short middle to T.Gerhart to MIN 43 for 5 yards (M.Hyde).,23,1,3,MIN 38,0,MIN,
+2,171,1,12:50,(12:50) C.Ponder up the middle to MIN 46 for -5 yards (M.Neal).,10,1,3,GB 49,0,MIN,
+2,192,2,12:20,(12:20) C.Ponder sacked at MIN 38 for -8 yards (C.Matthews).,15,1,-2,MIN 46,0,MIN,
+5,831,3,13:31,(13:31) (Shotgun) S.Tolzien sacked at GB 39 for -11 yards (B.Robison).,8,2,19,50,0,GB,
+5,708,2,00:55,(:55) E.Lacy right guard to GB 34 for 5 yards (M.Mitchell).,1,1,14,GB 29,0,GB,
+5,667,0,01:37,"B.Walsh kicks 73 yards from MIN 35 to GB -8. M.Hyde, Touchback.",0,1,0,MIN 35,0,MIN,KICKOFF
+5,766,2,15:00,"(15:00) E.Lacy right tackle to GB 48 for 14 yards (J.Sanford, A.Cole).",10,2,28,GB 34,0,GB,
+5,788,1,14:18,(14:18) S.Tolzien pass incomplete short right to J.Kuhn.,10,2,28,GB 48,0,GB,
+5,810,2,14:13,(14:13) E.Lacy up the middle to 50 for 2 yards (J.Allen).,10,2,30,GB 48,0,GB,
+5,685,1,01:37,(1:37) E.Lacy left end to GB 29 for 9 yards (A.Sendejo).,10,1,9,GB 20,0,GB,
+5,850,4,13:00,"(13:00) T.Masthay punts 42 yards to MIN 19, Center-B.Goode, fair catch by M.Sherels.",19,2,19,GB 39,0,GB,PUNT
+5,729,1,00:20,(:20) E.Lacy left guard to GB 34 for no gain (M.Mitchell).,10,1,14,GB 34,0,GB,
+4,586,1,03:38,(3:38) A.Peterson left tackle to GB 22 for -1 yards (C.Wilson).,10,1,20,GB 21,0,MIN,
+4,607,2,02:58,(2:58) A.Peterson left tackle to GB 17 for 5 yards (M.Daniels).,11,1,25,GB 22,0,MIN,
+4,562,2,04:07,(4:07) C.Ponder pass short right to R.Ellison pushed ob at GB 21 for 14 yards (D.House).,3,1,21,GB 35,0,MIN,
+4,628,3,02:16,(2:16) (Shotgun) C.Ponder sacked at GB 18 for -1 yards (C.Matthews).,6,1,24,GB 17,0,MIN,
+4,647,4,01:41,"(1:41) B.Walsh 36 yard field goal is GOOD, Center-C.Loeffler, Holder-J.Locke.",7,1,24,GB 18,1,MIN,FG
+4,516,0,04:59,M.Crosby kicks 64 yards from GB 35 to MIN 1. C.Patterson pushed ob at GB 42 for 57 yards (M.Neal).,0,1,0,GB 35,0,GB,KICKOFF
+4,538,1,04:48,(4:48) C.Ponder pass short middle to C.Patterson to GB 35 for 7 yards (D.House; A.Hawk).,10,1,7,GB 42,0,MIN,
+7,1058,2,09:29,(9:29) (Shotgun) E.Lacy left end ran ob at 50 for 5 yards (R.Blanton).,10,2,5,GB 45,0,GB,
+7,1101,4,08:56,"(8:56) T.Masthay punts 48 yards to MIN 2, Center-B.Goode, downed by GB-J.Bush.",5,2,5,50,0,GB,PUNT
+7,1036,1,09:33,(9:33) S.Tolzien pass incomplete short middle (K.Williams).,10,2,5,GB 45,0,GB,
+7,1079,3,09:03,(9:03) (Shotgun) S.Tolzien pass incomplete deep right to J.Boykin (J.Sanford).,5,2,5,50,0,GB,
+6,891,1,12:18,(12:18) A.Peterson right guard to MIN 34 for 4 yards (C.Wilson).,10,2,15,MIN 30,0,MIN,
+6,976,3,10:20,(10:20) (Shotgun) C.Ponder pass short middle to C.Patterson to GB 47 for 6 yards (D.House).,4,2,34,MIN 47,0,MIN,
+6,955,2,11:01,(11:01) A.Peterson right tackle to MIN 47 for 6 yards (B.Jones; M.Burnett).,10,2,28,MIN 41,0,MIN,
+6,870,1,12:52,"(12:52) A.Peterson right end to MIN 30 for 11 yards (A.Hawk, A.Mulumba).",10,2,36,MIN 19,0,MIN,
+6,933,1,11:06,(11:06) C.Ponder pass incomplete short middle to J.Carlson (D.House).,10,2,22,MIN 41,0,MIN,
+6,1000,1,09:43,"(9:43) C.Ponder pass short middle to A.Peterson to GB 44 for 3 yards (A.Hawk). FUMBLES (A.Hawk), RECOVERED by GB-A.Mulumba at GB 45. A.Mulumba to GB 45 for no gain (C.Ponder).",10,2,36,GB 47,0,MIN,FUMBLE
+6,912,2,11:39,(11:39) A.Peterson left end to MIN 41 for 7 yards (M.Burnett).,6,2,22,MIN 34,0,MIN,
+9,1438,3,03:27,(3:27) (Shotgun) S.Tolzien pass incomplete short middle to J.Jones (X.Rhodes).,7,2,3,GB 23,0,GB,
+9,1354,0,04:24,"B.Walsh kicks 69 yards from MIN 35 to GB -4. M.Hyde, Touchback.",0,2,0,MIN 35,0,MIN,KICKOFF
+9,1372,1,04:24,(4:24) E.Lacy right tackle to GB 28 for 8 yards (A.Sendejo; M.Mitchell).,10,2,8,GB 20,0,GB,
+9,1393,2,03:47,"(3:47) PENALTY on GB-J.Boykin, False Start, 5 yards, enforced at GB 28 - No Play.",2,2,3,GB 28,0,GB,PENALTY
+9,1460,4,03:23,"(3:23) T.Masthay punts 40 yards to MIN 37, Center-B.Goode, out of bounds.",7,2,3,GB 23,0,GB,PUNT
+9,1416,2,03:32,(3:32) (Shotgun) S.Tolzien pass incomplete deep right to J.Jones (X.Rhodes).,7,2,3,GB 23,0,GB,
+8,1236,3,06:06,"(6:06) (Shotgun) C.Ponder pass deep right to J.Simpson to GB 26 for 31 yards (T.Williams). Penalty on GB-T.Williams, Illegal Contact, declined.",5,2,72,MIN 43,0,MIN,
+8,1312,3,04:35,(4:35) (Shotgun) C.Ponder pass incomplete short left to J.Simpson [C.Matthews].,13,2,69,GB 29,0,MIN,
+8,1214,2,06:12,(6:12) C.Ponder pass incomplete short left to C.Patterson.,5,2,41,MIN 43,0,MIN,
+8,1145,2,08:10,(8:10) C.Ponder pass short right to J.Felton to MIN 16 for 7 yards (M.Burnett).,3,2,14,MIN 9,0,MIN,
+8,1121,1,08:47,(8:47) C.Ponder pass short middle to C.Patterson to MIN 9 for 7 yards (D.House).,10,2,7,MIN 2,0,MIN,
+8,1272,1,05:49,(5:49) A.Peterson right tackle to GB 24 for 2 yards (A.Hawk).,10,2,74,GB 26,0,MIN,
+8,1169,1,07:36,(7:36) A.Peterson right guard to MIN 38 for 22 yards (M.Jennings).,10,2,41,MIN 16,0,MIN,
+8,1190,1,06:53,(6:53) (Shotgun) C.Ponder pass short right to C.Patterson to MIN 43 for 5 yards (T.Williams).,10,2,41,MIN 38,0,MIN,
+8,1293,2,05:11,(5:11) C.Ponder sacked at GB 29 for -5 yards (B.Jones).,8,2,69,GB 24,0,MIN,
+8,1334,4,04:28,"(4:28) B.Walsh 47 yard field goal is GOOD, Center-C.Loeffler, Holder-J.Locke.",13,2,69,GB 29,1,MIN,FG
+11,1814,1,00:13,(:13) (Shotgun) S.Tolzien pass incomplete short left to B.Bostick.,10,2,35,MIN 45,0,GB,
+11,1725,1,00:50,(:50) (Shotgun) S.Tolzien pass short left to B.Bostick to GB 44 for 24 yards (C.Cook).,10,2,24,GB 20,0,GB,
+11,1836,2,00:10,(:10) (Shotgun) S.Tolzien up the middle to MIN 26 for 19 yards (A.Cole).,10,2,54,MIN 45,0,GB,
+11,1773,0,00:19,Timeout #3 by GB at 00:19.,0,2,33,,0,,TIMEOUT
+11,1707,0,00:50,"B.Walsh kicks 71 yards from MIN 35 to GB -6. M.Hyde, Touchback.",0,2,0,MIN 35,0,MIN,KICKOFF
+11,1790,2,00:19,(:19) (Shotgun) S.Tolzien pass short left to J.Nelson pushed ob at MIN 45 for 2 yards (C.Cook).,1,2,35,MIN 47,0,GB,
+11,1749,1,00:26,"(:26) (No Huddle, Shotgun) S.Tolzien pass short middle to J.Kuhn to MIN 47 for 9 yards (C.Greenway).",10,2,33,GB 44,0,GB,
+10,1635,2,01:00,(1:00) A.Peterson right guard to GB 1 for no gain (M.Burnett).,1,2,62,GB 1,0,MIN,
+10,1618,0,01:00,Timeout #1 by GB at 01:00.,0,2,62,,0,,TIMEOUT
+10,1535,1,02:16,(2:16) A.Peterson left end ran ob at GB 22 for 5 yards (M.Burnett).,10,2,41,GB 27,0,MIN,
+10,1597,1,01:14,(1:14) A.Peterson right tackle to GB 1 for 1 yard (M.Burnett).,2,2,62,GB 2,0,MIN,
+10,1500,2,02:38,"(2:38) C.Ponder pass deep right to J.Simpson to GB 42 for 23 yards (M.Burnett). PENALTY on GB-M.Burnett, Personal Foul, 15 yards, enforced at GB 42.",12,2,41,MIN 35,0,MIN,PENALTY
+10,1691,0,00:50,"B.Walsh extra point is GOOD, Center-C.Loeffler, Holder-J.Locke.",0,2,63,GB 2,1,MIN,XP
+10,1573,2,02:00,(2:00) C.Ponder pass deep left to C.Ford to GB 2 for 20 yards (A.Hawk).,5,2,61,GB 22,0,MIN,
+10,1479,1,03:14,"(3:14) A.Peterson right end to MIN 35 for -2 yards (A.Hawk, M.Neal).",10,2,-2,MIN 37,0,MIN,
+10,1656,0,00:53,Timeout #2 by GB at 00:53.,0,2,62,,0,,TIMEOUT
+10,1673,3,00:53,"(:53) A.Peterson left tackle for 1 yard, TOUCHDOWN.",1,2,63,GB 1,1,MIN,TD
+13,2015,2,12:45,"(12:45) E.Lacy left end to GB 22 for no gain (J.Allen, B.Robison).",10,3,0,GB 22,0,GB,
+13,2036,3,12:04,(12:04) (Shotgun) S.Tolzien pass incomplete short middle to B.Bostick.,10,3,0,GB 22,0,GB,
+13,1993,1,12:49,(12:49) (Shotgun) S.Tolzien pass incomplete short left to J.Nelson.,10,3,0,GB 22,0,GB,
+13,2058,4,11:59,"(11:59) T.Masthay punts 37 yards to MIN 41, Center-B.Goode. M.Sherels to MIN 41 for no gain (B.Goode).",10,3,0,GB 22,0,GB,PUNT
+12,1973,4,12:57,"(12:57) J.Locke punts 38 yards to GB 22, Center-C.Loeffler, fair catch by M.Hyde.",10,3,0,MIN 40,0,MIN,PUNT
+12,1931,3,14:24,"(14:24) (Shotgun) PENALTY on MIN-B.Fusco, False Start, 5 yards, enforced at MIN 46 - No Play.",4,3,1,MIN 46,0,MIN,PENALTY
+12,1954,3,13:23,(13:23) (Shotgun) C.Ponder sacked at MIN 40 for -1 yards (A.Hawk).,9,3,0,MIN 41,0,MIN,
+12,1874,0,15:00,"M.Crosby kicks 25 yards from GB 35 to MIN 40, out of bounds.",0,3,0,GB 35,0,GB,KICKOFF
+12,1889,1,14:59,(14:59) A.Peterson right end to MIN 38 for -2 yards (B.Raji).,10,3,-2,MIN 40,0,MIN,
+12,1910,2,14:24,(14:24) A.Peterson up the middle to MIN 46 for 8 yards (M.Jennings).,12,3,6,MIN 38,0,MIN,
+15,2277,2,07:40,(7:40) J.Starks right tackle to MIN 37 for 34 yards (R.Blanton).,1,3,43,GB 29,0,GB,
+15,2298,1,06:59,(6:59) J.Starks left end to MIN 35 for 2 yards (S.Floyd; E.Griffen).,10,3,45,MIN 37,0,GB,
+15,2341,3,06:18,(6:18) (Shotgun) M.Flynn pass short middle to J.Starks to MIN 40 for -5 yards (A.Cole) [J.Allen].,8,3,40,MIN 35,0,GB,
+15,2319,2,06:25,(6:25) (Shotgun) M.Flynn pass incomplete short right to J.Jones.,8,3,45,MIN 35,0,GB,
+15,2234,0,08:22,"B.Walsh kicks 68 yards from MIN 35 to GB -3. M.Hyde, Touchback.",0,3,0,MIN 35,0,MIN,KICKOFF
+15,2365,4,05:38,"(5:38) T.Masthay punts 36 yards to MIN 4, Center-B.Goode, downed by GB-C.Banjo.",13,3,40,MIN 40,0,GB,PUNT
+15,2252,1,08:22,(8:22) M.Flynn pass short right to A.Quarless to GB 29 for 9 yards (C.Greenway) [E.Griffen].,10,3,9,GB 20,0,GB,
+14,2125,3,10:29,(10:29) (Shotgun) C.Ponder pass short middle to J.Carlson to GB 39 for 15 yards (M.Jennings).,5,3,20,MIN 46,0,MIN,
+14,2083,1,11:50,(11:50) A.Peterson left end to MIN 44 for 3 yards (T.Williams).,10,3,3,MIN 41,0,MIN,
+14,2218,0,08:22,"B.Walsh extra point is GOOD, Center-C.Loeffler, Holder-J.Locke.",0,3,59,GB 2,1,MIN,XP
+14,2173,1,09:06,(9:06) (Shotgun) C.Ponder pass short right to C.Patterson to GB 12 for 6 yards (M.Burnett).,10,3,47,GB 18,0,MIN,
+14,2197,2,08:29,"(8:29) C.Ponder pass short right to R.Ellison for 12 yards, TOUCHDOWN.",4,3,59,GB 12,1,MIN,TD
+14,2149,1,09:49,(9:49) C.Ponder pass deep middle to G.Jennings to GB 18 for 21 yards (M.Jennings).,10,3,41,GB 39,0,MIN,
+14,2104,2,11:15,(11:15) A.Peterson right end to MIN 46 for 2 yards (A.Mulumba).,7,3,5,MIN 44,0,MIN,
+17,2659,0,14:22,B.Walsh kicks 65 yards from MIN 35 to GB 0. M.Hyde to GB 20 for 20 yards (G.Hodges).,0,4,0,MIN 35,0,MIN,KICKOFF
+17,2737,2,13:45,"(13:45) (Shotgun) M.Flynn pass incomplete deep right to J.Nelson. PENALTY on MIN-B.Robison, Defensive Offside, 5 yards, enforced at GB 30 - No Play.",10,4,15,GB 30,0,GB,PENALTY
+17,2812,2,12:49,"(12:49) (No Huddle, Shotgun) M.Flynn pass short left to E.Lacy pushed ob at 50 for 4 yards (C.Greenway).",7,4,30,GB 46,0,GB,
+17,2705,1,13:50,"(13:50) (No Huddle, Shotgun) M.Flynn pass incomplete deep right to J.Boykin (X.Rhodes). MIN-X.Rhodes was injured during the play.",10,4,10,GB 30,0,GB,
+17,2869,1,12:15,(12:15) (Shotgun) M.Flynn pass incomplete short middle to B.Bostick.,10,4,65,MIN 15,0,GB,
+17,2962,0,11:42,TWO-POINT CONVERSION ATTEMPT. M.Flynn pass to A.Quarless is incomplete. ATTEMPT FAILS.,0,4,80,MIN 2,0,GB,2PPF
+17,2891,2,12:10,"(12:10) (No Huddle, Shotgun) M.Flynn pass incomplete short middle to B.Bostick.",10,4,65,MIN 15,0,GB,
+17,2770,2,13:41,(13:41) E.Lacy up the middle to GB 43 for 8 yards (A.Cole).,5,4,23,GB 35,0,GB,
+17,2913,3,12:06,"(12:06) (Shotgun) M.Flynn right guard to MIN 6 for 9 yards (M.Mauti, J.Sanford). PENALTY on MIN-J.Allen, Illegal Use of Hands, 3 yards, enforced at MIN 6.",10,4,80,MIN 15,0,GB,PENALTY
+17,2836,3,12:21,"(12:21) (No Huddle, Shotgun) M.Flynn pass incomplete deep right to J.Jones. PENALTY on MIN-M.Sherels, Defensive Pass Interference, 35 yards, enforced at 50 - No Play.",3,4,65,50,0,GB,PENALTY
+17,2945,1,11:47,"(11:47) (Shotgun) E.Lacy up the middle for 3 yards, TOUCHDOWN.",3,4,80,MIN 3,1,GB,TD
+17,2791,1,13:14,"(13:14) (No Huddle, Shotgun) M.Flynn left end pushed ob at GB 46 for 3 yards (A.Cole).",10,4,26,GB 43,0,GB,
+17,2681,1,14:16,"(14:16) (Shotgun) M.Flynn pass short middle to E.Lacy to GB 30 for 10 yards (C.Greenway, M.Sherels).",10,4,10,GB 20,0,GB,
+16,2615,3,15:00,(15:00) (Shotgun) C.Ponder pass short right to C.Patterson pushed ob at GB 11 for 5 yards (T.Williams).,8,4,85,GB 16,0,MIN,
+16,2639,4,14:24,"(14:24) B.Walsh 29 yard field goal is GOOD, Center-C.Loeffler, Holder-J.Locke.",3,4,85,GB 11,1,MIN,FG
+16,2578,2,00:14,(:14) A.Peterson right end to GB 16 for 1 yard (M.Neal).,9,3,80,GB 17,0,MIN,
+16,2557,1,00:53,(:53) A.Peterson left tackle to GB 17 for 1 yard (B.Jones).,10,3,79,GB 18,0,MIN,
+16,2491,3,02:52,(2:52) (Shotgun) C.Ponder pass short left to G.Jennings pushed ob at MIN 45 for 8 yards (M.Hyde).,4,3,41,MIN 37,0,MIN,
+16,2448,1,03:39,(3:39) T.Gerhart right tackle to MIN 37 for 6 yards (B.Jones).,10,3,33,MIN 31,0,MIN,
+16,2469,2,02:57,(2:57) C.Ponder pass incomplete short right to J.Carlson.,4,3,33,MIN 37,0,MIN,
+16,2427,1,04:21,(4:21) T.Gerhart left tackle to MIN 31 for 15 yards (C.Banjo).,10,3,27,MIN 16,0,MIN,
+16,2406,2,05:00,(5:00) A.Peterson left tackle to MIN 16 for 5 yards (C.Wilson).,3,3,12,MIN 11,0,MIN,
+16,2385,1,05:26,(5:26) A.Peterson right end ran ob at MIN 11 for 7 yards (A.Hawk).,10,3,7,MIN 4,0,MIN,
+16,2515,1,02:19,(2:19) T.Gerhart right guard to GB 29 for 26 yards (M.Burnett).,10,3,67,MIN 45,0,MIN,
+16,2536,1,01:34,(1:34) T.Gerhart left tackle to GB 18 for 11 yards (A.Mulumba; B.Jones).,10,3,78,GB 29,0,MIN,
+19,3386,2,04:15,(4:15) (Shotgun) M.Flynn pass short left to E.Lacy to MIN 6 for 4 yards (A.Cole).,10,4,70,MIN 10,0,GB,
+19,3206,2,07:19,"(7:19) (No Huddle, Shotgun) M.Flynn pass short left to J.Boykin to MIN 36 for 7 yards (C.Cook).",4,4,40,MIN 43,0,GB,
+19,3230,1,06:47,"(6:47) (No Huddle, Shotgun) M.Flynn pass incomplete short left.",10,4,40,MIN 36,0,GB,
+19,3252,2,06:41,"(6:41) (No Huddle, Shotgun) M.Flynn pass short right to J.Jones to MIN 28 for 8 yards (X.Rhodes, A.Cole).",10,4,48,MIN 36,0,GB,
+19,3317,4,05:23,(5:23) E.Lacy left end to MIN 23 for 4 yards (M.Mitchell).,1,4,53,MIN 27,0,GB,
+19,3276,3,06:02,"(6:02) (No Huddle, Shotgun) M.Flynn pass short middle to E.Lacy to MIN 27 for 1 yard (A.Cole).",2,4,49,MIN 28,0,GB,
+19,3135,1,08:40,"(8:40) (Shotgun) E.Lacy left end to GB 41 for 17 yards (R.Blanton, C.Cook).",10,4,17,GB 24,0,GB,
+19,3362,1,04:39,"(4:39) E.Lacy right tackle to MIN 10 for no gain (R.Blanton, J.Allen). MIN-L.Guion was injured during the play.",10,4,66,MIN 10,0,GB,
+19,3180,1,07:44,(7:44) (No Huddle) E.Lacy left end pushed ob at MIN 43 for 6 yards (C.Cook).,10,4,33,MIN 49,0,GB,
+19,3156,1,08:11,"(8:11) (No Huddle, Shotgun) M.Flynn pass short left to J.Boykin to MIN 49 for 10 yards (C.Cook).",10,4,27,GB 41,0,GB,
+19,3410,3,03:33,"(3:33) (Shotgun) M.Flynn pass short right to J.Boykin for 6 yards, TOUCHDOWN.",6,4,76,MIN 6,1,GB,TD
+19,3338,1,04:46,"(4:46) (No Huddle, Shotgun) M.Flynn pass short right to E.Lacy pushed ob at MIN 10 for 13 yards (A.Cole).",10,4,66,MIN 23,0,GB,
+19,3432,0,03:30,"M.Crosby extra point is GOOD, Center-B.Goode, Holder-T.Masthay.",0,4,76,MIN 2,1,GB,XP
+19,3300,0,05:23,Timeout #1 by GB at 05:23.,0,4,49,,0,,TIMEOUT
+18,3109,4,08:50,"(8:50) J.Locke punts 39 yards to GB 16, Center-C.Loeffler. M.Hyde to GB 24 for 8 yards (M.Mitchell).",10,4,22,MIN 45,0,MIN,PUNT
+18,3021,2,11:06,(11:06) (Shotgun) A.Peterson up the middle to MIN 45 for 17 yards (B.Jones).,5,4,22,MIN 28,0,MIN,
+18,3063,2,09:40,(9:40) C.Ponder pass incomplete deep left to C.Patterson.,7,4,25,MIN 48,0,MIN,
+18,3000,1,11:37,(11:37) A.Peterson left end ran ob at MIN 28 for 5 yards (A.Hawk).,10,4,5,MIN 23,0,MIN,
+18,3085,3,09:33,(9:33) (Shotgun) C.Ponder pass short right to C.Patterson to MIN 45 for -3 yards (M.Hyde).,7,4,22,MIN 48,0,MIN,
+18,3042,1,10:25,(10:25) A.Peterson right end to MIN 48 for 3 yards (R.Pickett).,10,4,25,MIN 45,0,MIN,
+18,2976,0,11:42,M.Crosby kicks 68 yards from GB 35 to MIN -3. C.Patterson to MIN 23 for 26 yards (R.Taylor).,0,4,0,GB 35,0,GB,KICKOFF

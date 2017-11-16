@@ -1,166 +1,166 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,2063,1,14:17,,10,3,21,IND 42,0,IND,
-9,2240,1,09:16,,10,3,68,TEN 14,0,IND,
-9,2192,2,10:24,,10,3,54,TEN 25,0,IND,
-9,2171,1,10:56,,10,3,49,TEN 25,0,IND,
-9,2126,2,12:19,,3,3,42,TEN 33,0,IND,
-9,2039,1,14:52,,10,3,16,IND 26,0,IND,
-9,2216,3,09:46,,5,3,60,TEN 20,0,IND,
-9,2084,2,13:40,,5,3,34,IND 47,0,IND,
-9,2147,3,11:35,,2,3,49,TEN 32,0,IND,
-9,2286,0,08:33,,0,3,74,TEN 2,1,IND,XP
-9,2264,2,08:39,,2,3,74,TEN 6,1,IND,TD
-9,2105,1,13:01,,10,3,41,TEN 40,0,IND,
-9,2017,0,15:00,,0,3,0,TEN 35,0,TEN,KICKOFF
-18,3762,1,02:00,,10,4,80,IND 19,1,TEN,TD
-18,3695,2,02:36,,6,4,19,TEN 24,0,TEN,
-18,3721,1,02:26,,10,4,61,TEN 39,0,TEN,
-18,3652,0,03:01,,0,4,0,IND 35,0,IND,KICKOFF
-18,3671,1,03:01,,10,4,4,TEN 20,0,TEN,
-18,3787,0,01:54,,0,4,80,IND 2,1,TEN,XP
-6,1197,1,09:08,,10,2,15,TEN 39,0,IND,
-6,1176,1,09:46,,10,2,15,IND 46,0,IND,
-6,1263,4,08:51,,10,2,15,TEN 39,0,IND,PUNT
-6,1219,2,09:00,,10,2,15,TEN 39,0,IND,
-6,1241,3,08:55,,10,2,15,TEN 39,0,IND,
-14,2958,1,13:26,,10,4,30,IND 20,0,TEN,PENALTY
-14,2780,1,01:27,,10,3,5,TEN 40,0,TEN,
-14,3060,4,11:44,,10,4,40,IND 20,1,TEN,FG
-14,2822,3,00:22,,3,3,10,TEN 47,0,TEN,
-14,3014,2,12:15,,22,4,40,IND 32,0,TEN,
-14,2801,2,00:54,,5,3,7,TEN 45,0,TEN,
-14,2761,0,01:27,,0,3,0,IND 35,0,IND,KICKOFF
-14,2862,1,15:00,,10,4,21,50,0,TEN,
-14,3038,3,11:48,,10,4,40,IND 20,0,TEN,
-14,2907,2,13:50,,9,4,22,IND 38,0,TEN,
-14,2929,3,13:46,,9,4,40,IND 38,0,TEN,
-14,2990,1,12:57,,20,4,28,IND 30,0,TEN,
-14,2886,1,14:29,,10,4,22,IND 39,0,TEN,
-7,1398,3,05:32,,2,2,35,TEN 41,0,TEN,PENALTY
-7,1350,1,06:52,,10,2,18,TEN 33,0,TEN,
-7,1516,2,03:44,,7,2,69,IND 10,0,TEN,
-7,1329,3,07:34,,1,2,13,TEN 29,0,TEN,
-7,1431,1,05:29,,10,2,51,IND 45,0,TEN,PENALTY
-7,1537,0,02:58,,0,2,69,,0,,TIMEOUT
-7,1586,4,02:35,,4,2,73,IND 7,1,TEN,FG
-7,1374,2,06:16,,5,2,21,TEN 38,0,TEN,
-7,1495,1,04:24,,10,2,70,IND 13,0,TEN,
-7,1554,3,02:58,,8,2,73,IND 11,0,TEN,
-7,1284,1,08:41,,10,2,0,TEN 20,0,TEN,
-7,1305,2,08:06,,10,2,9,TEN 20,0,TEN,
-7,1463,1,05:03,,10,2,70,IND 29,0,TEN,PENALTY
-8,1864,0,00:52,,0,2,65,,0,,TIMEOUT
-8,1696,3,02:04,,10,2,20,IND 31,0,IND,PENALTY
-8,1770,1,01:32,,10,2,34,TEN 46,0,IND,
-8,1816,1,01:22,,10,2,49,TEN 36,0,IND,
-8,1648,1,02:13,,10,2,11,IND 31,0,IND,
-8,1746,1,02:00,,10,2,34,IND 40,0,IND,
-8,1881,1,00:52,,10,2,71,TEN 14,0,IND,
-8,1984,4,00:02,,8,2,68,TEN 12,1,IND,FG
-8,1792,2,01:29,,10,2,44,TEN 46,0,IND,
-8,1674,2,02:09,,10,2,11,IND 31,0,IND,
-8,1927,3,00:40,,5,2,68,TEN 9,0,IND,
-8,1624,1,02:32,,10,2,11,IND 20,0,IND,
-8,1840,2,01:01,,5,2,66,TEN 31,0,IND,
-8,1946,0,00:02,,0,2,68,,0,,TIMEOUT
-8,1605,0,02:32,,0,2,0,TEN 35,0,TEN,KICKOFF
-8,1905,2,00:46,,5,2,71,TEN 9,0,IND,
-10,2302,0,08:33,,0,3,0,IND 35,0,IND,FUMBLE
-19,3868,3,00:33,,11,4,-2,TEN 45,0,IND,
-19,3847,2,01:13,,10,4,-1,TEN 44,0,IND,
-19,3825,1,01:53,,10,4,0,TEN 44,0,IND,
-19,3803,0,01:54,,0,4,0,TEN 35,0,TEN,KICKOFF
-19,3889,0,00:00,,0,4,-2,,0,,
-12,2424,0,07:36,,0,3,0,IND 35,0,IND,KICKOFF
-12,2470,2,06:43,,12,3,4,TEN 23,0,TEN,
-12,2446,1,07:29,,10,3,-2,TEN 25,0,TEN,
-12,2494,3,06:02,,6,3,1,TEN 29,0,TEN,
-12,2513,4,05:28,,9,3,1,TEN 26,0,TEN,PUNT
-16,3235,2,09:40,,10,4,9,TEN 9,0,TEN,
-16,3213,1,09:53,,10,4,0,TEN 9,0,TEN,
-16,3259,1,09:17,,10,4,9,TEN 20,0,TEN,
-16,3302,3,08:35,,12,4,20,TEN 18,0,TEN,
-16,3280,2,08:41,,12,4,9,TEN 18,0,TEN,
-16,3326,4,07:53,,1,4,20,TEN 29,0,TEN,PUNT
-11,2381,0,07:36,,0,3,20,TEN 2,0,IND,PENALTY
-11,2340,1,08:27,,10,3,9,TEN 20,0,IND,
-11,2364,2,07:42,,1,3,20,TEN 11,1,IND,TD
-11,2408,0,07:36,,0,3,20,TEN 7,1,IND,XP
-3,441,1,08:38,,10,1,17,TEN 47,0,TEN,
-3,510,1,07:05,,10,1,39,IND 36,0,TEN,
-3,555,1,06:01,,10,1,48,IND 25,0,TEN,
-3,576,2,05:23,,5,1,53,IND 20,0,TEN,
-3,597,1,04:46,,10,1,61,IND 15,0,TEN,
-3,618,2,04:13,,2,1,68,IND 7,1,TEN,TD
-3,399,1,09:57,,10,1,9,TEN 32,0,TEN,
-3,462,2,08:05,,8,1,18,TEN 49,0,TEN,
-3,486,3,07:36,,7,1,32,50,0,TEN,
-3,635,0,04:06,,0,1,68,IND 2,1,TEN,XP
-3,534,2,06:37,,3,1,43,IND 29,0,TEN,
-3,420,2,09:19,,1,1,15,TEN 41,0,TEN,
-17,3419,2,05:36,,2,4,32,TEN 43,0,IND,
-17,3440,3,04:53,,1,4,36,TEN 42,0,IND,
-17,3461,1,04:11,,10,4,35,TEN 38,0,IND,
-17,3636,0,03:01,,0,4,74,TEN 2,1,IND,XP
-17,3581,1,03:09,,10,4,74,TEN 11,0,IND,
-17,3549,2,03:14,,6,4,74,TEN 21,0,IND,PENALTY
-17,3532,0,03:14,,0,4,53,,0,,TIMEOUT
-17,3377,2,07:00,,4,4,23,IND 32,0,IND,
-17,3398,1,06:14,,10,4,31,IND 49,0,IND,
-17,3511,1,03:21,,10,4,53,TEN 25,0,IND,
-17,3619,2,03:05,,10,4,74,TEN 11,1,IND,TD
-17,3602,0,03:05,,0,4,63,,0,,TIMEOUT
-17,3482,2,03:29,,11,4,49,TEN 39,0,IND,
-17,3356,1,07:41,,10,4,6,IND 26,0,IND,
-4,811,1,00:19,,10,1,54,TEN 46,0,IND,PENALTY
-4,651,0,04:06,,0,1,0,TEN 35,0,TEN,KICKOFF
-4,769,1,01:16,,10,1,45,IND 41,0,IND,
-4,848,1,15:00,,5,2,60,TEN 41,0,IND,
-4,947,1,13:08,,10,2,60,TEN 35,0,IND,
-4,790,2,00:37,,1,1,49,50,0,IND,
-4,745,3,01:54,,5,1,36,IND 24,0,IND,
-4,926,3,13:47,,1,2,60,TEN 37,0,IND,
-4,1049,4,11:31,,5,2,65,TEN 30,1,IND,FG
-4,721,2,02:40,,10,1,19,IND 19,0,IND,
-4,976,2,13:00,,10,2,55,TEN 35,0,IND,PENALTY
-4,905,2,14:13,,2,2,58,TEN 38,0,IND,
-4,999,2,13:00,,15,2,62,TEN 40,0,IND,
-4,697,1,03:22,,10,1,14,IND 19,0,IND,
-4,673,1,04:01,,10,1,14,IND 5,0,IND,
-4,1028,3,12:14,,8,2,65,TEN 33,0,IND,
-2,317,2,10:53,,9,1,4,IND 26,0,IND,
-2,274,0,11:36,,0,1,0,TEN 35,0,TEN,KICKOFF
-2,374,4,10:05,,6,1,4,IND 29,0,IND,PUNT
-2,341,3,10:11,,6,1,4,IND 29,0,IND,
-2,296,1,11:31,,10,1,1,IND 25,0,IND,
-1,206,1,12:11,,10,1,50,IND 41,0,TEN,
-1,55,1,15:00,,10,1,-1,TEN 20,0,TEN,
-1,161,2,13:21,,10,1,22,TEN 41,0,TEN,
-1,115,3,13:55,,1,1,21,TEN 29,0,TEN,
-1,258,0,11:36,,0,1,80,IND 2,1,TEN,XP
-1,241,1,11:43,,10,1,80,IND 30,1,TEN,TD
-1,139,1,13:24,,10,1,21,TEN 41,0,TEN,
-1,98,0,13:55,,0,1,9,,0,,TIMEOUT
-1,74,2,14:36,,11,1,9,TEN 19,0,TEN,
-1,36,0,15:00,,0,1,0,IND 35,0,IND,KICKOFF
-1,182,3,12:46,,9,1,39,TEN 42,0,TEN,
-5,1132,3,09:57,,1,2,9,TEN 29,0,TEN,
-5,1068,0,11:26,,0,2,0,IND 35,0,IND,KICKOFF
-5,1154,4,09:53,,1,2,9,TEN 29,0,TEN,PUNT
-5,1090,1,11:19,,10,2,4,TEN 20,0,TEN,
-5,1111,2,10:40,,6,2,9,TEN 24,0,TEN,
-13,2674,1,02:16,,10,3,21,TEN 37,0,IND,
-13,2650,2,02:55,,7,3,21,TEN 45,0,IND,
-13,2538,1,05:16,,10,3,2,IND 42,0,IND,
-13,2742,4,01:32,,5,3,26,TEN 32,1,IND,FG
-13,2559,2,04:40,,8,3,9,IND 44,0,IND,
-13,2583,3,04:15,,1,3,10,TEN 49,0,IND,TIMEOUT
-13,2720,3,01:38,,5,3,26,TEN 32,0,IND,
-13,2604,1,03:34,,10,3,13,TEN 48,0,IND,
-13,2696,2,02:10,,10,3,26,TEN 37,0,IND,
-15,3079,0,11:39,,0,4,0,TEN 35,0,TEN,KICKOFF
-15,3125,1,10:57,,10,4,41,TEN 40,0,IND,
-15,3101,1,11:32,,10,4,39,IND 21,0,IND,
-15,3146,2,10:14,,8,4,41,TEN 38,0,IND,
-15,3168,3,10:08,,8,4,41,TEN 38,0,IND,
-15,3190,4,10:03,,8,4,41,TEN 38,0,IND,PUNT
+11,2381,0,07:36,"(Kick formation) PENALTY on IND-M.McGlynn, False Start, 5 yards, enforced at TEN 2 - No Play.",0,3,20,TEN 2,0,IND,PENALTY
+11,2364,2,07:42,"(7:42) A.Luck scrambles right tackle for 11 yards, TOUCHDOWN.",1,3,20,TEN 11,1,IND,TD
+11,2340,1,08:27,(8:27) A.Luck pass short left to S.Havili to TEN 11 for 9 yards (C.McCarthy).,10,3,9,TEN 20,0,IND,
+11,2408,0,07:36,"A.Vinatieri extra point is GOOD, Center-M.Overton, Holder-P.McAfee.",0,3,20,TEN 7,1,IND,XP
+10,2302,0,08:33,"P.McAfee kicks 63 yards from IND 35 to TEN 2. D.Wylie to TEN 21 for 19 yards. FUMBLES, RECOVERED by IND-D.Herron at TEN 20. D.Herron to TEN 20 for no gain (Mi.Martin).",0,3,0,IND 35,0,IND,FUMBLE
+13,2604,1,03:34,(3:34) T.Richardson right end to TEN 45 for 3 yards (M.Griffin).,10,3,13,TEN 48,0,IND,
+13,2583,3,04:15,"(4:15) A.Luck up the middle to TEN 48 for 1 yard (C.McCarthy). Tennessee challenged the first down ruling, and the play was Upheld. (Timeout #1.)",1,3,10,TEN 49,0,IND,TIMEOUT
+13,2720,3,01:38,(1:38) (Shotgun) A.Luck pass incomplete deep right to G.Whalen.,5,3,26,TEN 32,0,IND,
+13,2559,2,04:40,(4:40) A.Luck pass short left to T.Hilton to TEN 49 for 7 yards (J.McCourty).,8,3,9,IND 44,0,IND,
+13,2650,2,02:55,(2:55) (Shotgun) A.Luck pass short right to C.Fleener to TEN 37 for 8 yards (M.Griffin).,7,3,21,TEN 45,0,IND,
+13,2538,1,05:16,(5:16) T.Richardson right guard to IND 44 for 2 yards (J.Casey).,10,3,2,IND 42,0,IND,
+13,2742,4,01:32,"(1:32) (Field Goal formation) A.Vinatieri 50 yard field goal is GOOD, Center-M.Overton, Holder-P.McAfee.",5,3,26,TEN 32,1,IND,FG
+13,2674,1,02:16,(2:16) A.Luck pass incomplete short left to C.Fleener.,10,3,21,TEN 37,0,IND,
+13,2696,2,02:10,(2:10) (Shotgun) A.Luck pass short left to C.Fleener to TEN 32 for 5 yards (C.Sensabaugh; A.Ayers).,10,3,26,TEN 37,0,IND,
+12,2446,1,07:29,(7:29) (Shotgun) R.Fitzpatrick pass short right to D.Walker to TEN 23 for -2 yards (A.Franklin).,10,3,-2,TEN 25,0,TEN,
+12,2513,4,05:28,"(5:28) (Punt formation) B.Kern punts 48 yards to IND 26, Center-B.Brinkley. T.Hilton to IND 42 for 16 yards (G.Wilson; T.Thompson).",9,3,1,TEN 26,0,TEN,PUNT
+12,2424,0,07:36,P.McAfee kicks 63 yards from IND 35 to TEN 2. D.Wylie to TEN 25 for 23 yards (K.Conner).,0,3,0,IND 35,0,IND,KICKOFF
+12,2494,3,06:02,(6:02) (Shotgun) R.Fitzpatrick sacked at TEN 26 for -3 yards (E.Walden).,6,3,1,TEN 29,0,TEN,
+12,2470,2,06:43,"(6:43) (No Huddle, Shotgun) R.Fitzpatrick pass short middle to D.Walker to TEN 29 for 6 yards (P.Angerer).",12,3,4,TEN 23,0,TEN,
+15,3146,2,10:14,(10:14) (Shotgun) A.Luck pass incomplete deep left to T.Hilton.,8,4,41,TEN 38,0,IND,
+15,3101,1,11:32,(11:32) A.Luck pass short left to C.Fleener pushed ob at TEN 40 for 39 yards (A.Verner).,10,4,39,IND 21,0,IND,
+15,3125,1,10:57,(10:57) D.Brown right tackle to TEN 38 for 2 yards (R.Pitoitua).,10,4,41,TEN 40,0,IND,
+15,3168,3,10:08,(10:08) (Shotgun) A.Luck pass incomplete short right to T.Hilton [J.Casey].,8,4,41,TEN 38,0,IND,
+15,3190,4,10:03,"(10:03) (Punt formation) P.McAfee punts 29 yards to TEN 9, Center-M.Overton, downed by IND-A.Studebaker.",8,4,41,TEN 38,0,IND,PUNT
+15,3079,0,11:39,R.Bironas kicks 64 yards from TEN 35 to IND 1. L.Brazill to IND 21 for 20 yards (C.Sensabaugh).,0,4,0,TEN 35,0,TEN,KICKOFF
+14,2929,3,13:46,(13:46) (Shotgun) R.Fitzpatrick pass short left to D.Walker pushed ob at IND 20 for 18 yards (V.Davis).,9,4,40,IND 38,0,TEN,
+14,2862,1,15:00,(15:00) (Shotgun) R.Fitzpatrick pass short middle to K.Wright to IND 39 for 11 yards (J.Freeman).,10,4,21,50,0,TEN,
+14,2886,1,14:29,(14:29) (No Huddle) C.Johnson left guard to IND 38 for 1 yard (C.Vaughn; E.Walden).,10,4,22,IND 39,0,TEN,
+14,2780,1,01:27,(1:27) C.Johnson up the middle to TEN 45 for 5 yards (P.Angerer).,10,3,5,TEN 40,0,TEN,
+14,2990,1,12:57,(12:57) (Shotgun) R.Fitzpatrick pass short left to C.Johnson to IND 32 for -2 yards (R.Jean Francois).,20,4,28,IND 30,0,TEN,
+14,2761,0,01:27,"P.McAfee kicks 49 yards from IND 35 to TEN 16, out of bounds.",0,3,0,IND 35,0,IND,KICKOFF
+14,3014,2,12:15,(12:15) (Shotgun) R.Fitzpatrick pass short left to K.Wright pushed ob at IND 20 for 12 yards (D.Butler).,22,4,40,IND 32,0,TEN,
+14,3038,3,11:48,(11:48) (Shotgun) R.Fitzpatrick pass incomplete short middle to K.Wright.,10,4,40,IND 20,0,TEN,
+14,3060,4,11:44,"(11:44) (Field Goal formation) R.Bironas 38 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",10,4,40,IND 20,1,TEN,FG
+14,2958,1,13:26,"(13:26) S.Greene left tackle to IND 20 for no gain (J.Freeman). PENALTY on TEN-C.Spencer, Offensive Holding, 10 yards, enforced at IND 20 - No Play.",10,4,30,IND 20,0,TEN,PENALTY
+14,2907,2,13:50,"(13:50) (No Huddle, Shotgun) R.Fitzpatrick pass incomplete short right to C.Stevens.",9,4,22,IND 38,0,TEN,
+14,2801,2,00:54,(:54) C.Johnson right tackle to TEN 47 for 2 yards (F.Moala).,5,3,7,TEN 45,0,TEN,
+14,2822,3,00:22,(:22) (Shotgun) R.Fitzpatrick pass short left to D.Walker to 50 for 3 yards (L.Landry).,3,3,10,TEN 47,0,TEN,
+17,3581,1,03:09,(3:09) D.Brown right tackle to TEN 11 for no gain (C.McCarthy).,10,4,74,TEN 11,0,IND,
+17,3461,1,04:11,(4:11) T.Richardson right guard to TEN 39 for -1 yards (A.Ayers).,10,4,35,TEN 38,0,IND,
+17,3602,0,03:05,Timeout #3 by TEN at 03:05.,0,4,63,,0,,TIMEOUT
+17,3377,2,07:00,(7:00) D.Brown right tackle to IND 49 for 17 yards (M.Griffin).,4,4,23,IND 32,0,IND,
+17,3398,1,06:14,(6:14) D.Brown right tackle to TEN 43 for 8 yards (D.Morgan; B.Pollard).,10,4,31,IND 49,0,IND,
+17,3511,1,03:21,(3:21) T.Richardson left tackle to TEN 21 for 4 yards (C.McCarthy).,10,4,53,TEN 25,0,IND,
+17,3482,2,03:29,(3:29) A.Luck pass short right to C.Fleener pushed ob at TEN 25 for 14 yards (J.McCourty).,11,4,49,TEN 39,0,IND,
+17,3532,0,03:14,Timeout #2 by TEN at 03:14.,0,4,53,,0,,TIMEOUT
+17,3440,3,04:53,(4:53) S.Havili left guard to TEN 38 for 4 yards (C.McCarthy; Z.Brown).,1,4,36,TEN 42,0,IND,
+17,3549,2,03:14,"(3:14) D.Brown left guard to TEN 21 for no gain (R.Pitoitua). PENALTY on TEN-A.Ayers, Unnecessary Roughness, 10 yards, enforced at TEN 21.",6,4,74,TEN 21,0,IND,PENALTY
+17,3636,0,03:01,"A.Vinatieri extra point is GOOD, Center-M.Overton, Holder-P.McAfee.",0,4,74,TEN 2,1,IND,XP
+17,3356,1,07:41,(7:41) D.Brown right tackle to IND 32 for 6 yards (A.Ayers).,10,4,6,IND 26,0,IND,
+17,3619,2,03:05,"(3:05) D.Brown right guard for 11 yards, TOUCHDOWN.",10,4,74,TEN 11,1,IND,TD
+17,3419,2,05:36,(5:36) D.Brown up the middle to TEN 42 for 1 yard (C.McCarthy).,2,4,32,TEN 43,0,IND,
+16,3259,1,09:17,(9:17) (No Huddle) C.Johnson right tackle to TEN 18 for -2 yards (E.Walden).,10,4,9,TEN 20,0,TEN,
+16,3235,2,09:40,(9:40) R.Fitzpatrick pass short right to N.Washington to TEN 20 for 11 yards (C.Vaughn).,10,4,9,TEN 9,0,TEN,
+16,3213,1,09:53,(9:53) (Shotgun) R.Fitzpatrick pass incomplete deep right to J.Hunter (C.Vaughn).,10,4,0,TEN 9,0,TEN,
+16,3326,4,07:53,"(7:53) (Punt formation) B.Kern punts 44 yards to IND 27, Center-B.Brinkley. T.Hilton pushed ob at IND 26 for -1 yards (C.Stevens).",1,4,20,TEN 29,0,TEN,PUNT
+16,3302,3,08:35,(8:35) (Shotgun) R.Fitzpatrick pass short right to K.Wright to TEN 29 for 11 yards (D.Butler).,12,4,20,TEN 18,0,TEN,
+16,3280,2,08:41,"(8:41) (No Huddle, Shotgun) R.Fitzpatrick pass incomplete short middle to N.Washington (D.Butler).",12,4,9,TEN 18,0,TEN,
+19,3825,1,01:53,(1:53) A.Luck kneels to TEN 44 for no gain.,10,4,0,TEN 44,0,IND,
+19,3868,3,00:33,(:33) A.Luck kneels to TEN 46 for -1 yards.,11,4,-2,TEN 45,0,IND,
+19,3889,0,00:00,END GAME,0,4,-2,,0,,
+19,3847,2,01:13,(1:13) A.Luck kneels to TEN 45 for -1 yards.,10,4,-1,TEN 44,0,IND,
+19,3803,0,01:54,(Onside Kick formation) R.Bironas kicks onside 9 yards from TEN 35 to TEN 44. P.Angerer (didn't try to advance) to TEN 44 for no gain (Z.Diles).,0,4,0,TEN 35,0,TEN,KICKOFF
+18,3762,1,02:00,"(2:00) (Shotgun) R.Fitzpatrick pass deep right to D.Walker for 19 yards, TOUCHDOWN.",10,4,80,IND 19,1,TEN,TD
+18,3787,0,01:54,"R.Bironas extra point is GOOD, Center-B.Brinkley, Holder-B.Kern.",0,4,80,IND 2,1,TEN,XP
+18,3695,2,02:36,(2:36) (Shotgun) R.Fitzpatrick scrambles left guard pushed ob at TEN 39 for 15 yards (L.Landry).,6,4,19,TEN 24,0,TEN,
+18,3671,1,03:01,(3:01) (Shotgun) R.Fitzpatrick pass short left to D.Walker to TEN 24 for 4 yards (P.Angerer) [E.Walden].,10,4,4,TEN 20,0,TEN,
+18,3721,1,02:26,(2:26) (Shotgun) R.Fitzpatrick pass deep middle to N.Washington to IND 19 for 42 yards (C.Vaughn).,10,4,61,TEN 39,0,TEN,
+18,3652,0,03:01,"P.McAfee kicks 65 yards from IND 35 to end zone, Touchback.",0,4,0,IND 35,0,IND,KICKOFF
+1,182,3,12:46,(12:46) (Shotgun) R.Fitzpatrick pass short middle to K.Wright to IND 41 for 17 yards (A.Bethea).,9,1,39,TEN 42,0,TEN,
+1,206,1,12:11,"(12:11) (No Huddle, Shotgun) R.Fitzpatrick pass short middle to K.Wright to IND 30 for 11 yards (L.Landry). Penalty on IND-C.Vaughn, Defensive Holding, declined.",10,1,50,IND 41,0,TEN,
+1,55,1,15:00,(15:00) R.Fitzpatrick sacked at TEN 19 for -1 yards (C.Redding).,10,1,-1,TEN 20,0,TEN,
+1,36,0,15:00,"P.McAfee kicks 65 yards from IND 35 to end zone, Touchback.",0,1,0,IND 35,0,IND,KICKOFF
+1,115,3,13:55,(13:55) (Shotgun) R.Fitzpatrick pass short left to D.Walker to TEN 41 for 12 yards (P.Angerer).,1,1,21,TEN 29,0,TEN,
+1,98,0,13:55,Timeout #1 by IND at 13:55.,0,1,9,,0,,TIMEOUT
+1,258,0,11:36,"R.Bironas extra point is GOOD, Center-B.Brinkley, Holder-B.Kern.",0,1,80,IND 2,1,TEN,XP
+1,74,2,14:36,"(14:36) (No Huddle, Shotgun) R.Fitzpatrick pass short left to D.Walker to TEN 29 for 10 yards (J.Freeman).",11,1,9,TEN 19,0,TEN,
+1,241,1,11:43,"(11:43) C.Johnson right guard for 30 yards, TOUCHDOWN.",10,1,80,IND 30,1,TEN,TD
+1,139,1,13:24,"(13:24) (No Huddle, Shotgun) R.Fitzpatrick pass incomplete short middle to K.Wright.",10,1,21,TEN 41,0,TEN,
+1,161,2,13:21,(13:21) C.Johnson left tackle to TEN 42 for 1 yard (R.Mathis).,10,1,22,TEN 41,0,TEN,
+3,618,2,04:13,"(4:13) (No Huddle) C.Johnson left guard for 7 yards, TOUCHDOWN.",2,1,68,IND 7,1,TEN,TD
+3,635,0,04:06,"R.Bironas extra point is GOOD, Center-B.Brinkley, Holder-B.Kern.",0,1,68,IND 2,1,TEN,XP
+3,597,1,04:46,(4:46) (No Huddle) C.Johnson left tackle to IND 7 for 8 yards (V.Davis).,10,1,61,IND 15,0,TEN,
+3,555,1,06:01,(6:01) (Shotgun) R.Fitzpatrick scrambles right end to IND 20 for 5 yards (J.Freeman).,10,1,48,IND 25,0,TEN,
+3,441,1,08:38,"(8:38) (No Huddle, Shotgun) R.Fitzpatrick scrambles right end to TEN 49 for 2 yards (E.Walden).",10,1,17,TEN 47,0,TEN,
+3,576,2,05:23,"(5:23) (No Huddle, Shotgun) C.Johnson right end pushed ob at IND 15 for 5 yards (C.Vaughn).",5,1,53,IND 20,0,TEN,
+3,462,2,08:05,"(8:05) (No Huddle, Shotgun) R.Fitzpatrick pass short left to K.Wright to 50 for 1 yard (V.Davis).",8,1,18,TEN 49,0,TEN,
+3,486,3,07:36,(7:36) (Shotgun) R.Fitzpatrick pass short right to D.Walker to IND 36 for 14 yards (A.Bethea) [R.Jean Francois].,7,1,32,50,0,TEN,
+3,534,2,06:37,(6:37) (No Huddle) C.Johnson left guard to IND 25 for 4 yards (J.Freeman).,3,1,43,IND 29,0,TEN,
+3,510,1,07:05,"(7:05) (No Huddle, Shotgun) R.Fitzpatrick pass short middle to D.Walker to IND 29 for 7 yards (P.Angerer) [R.Mathis].",10,1,39,IND 36,0,TEN,
+3,420,2,09:19,(9:19) C.Johnson left guard to TEN 47 for 6 yards (P.Angerer).,1,1,15,TEN 41,0,TEN,
+3,399,1,09:57,(9:57) C.Johnson right guard to TEN 41 for 9 yards (C.Vaughn).,10,1,9,TEN 32,0,TEN,
+2,296,1,11:31,(11:31) T.Richardson up the middle to IND 26 for 1 yard (A.Verner).,10,1,1,IND 25,0,IND,
+2,317,2,10:53,(10:53) A.Luck pass short right to C.Fleener to IND 29 for 3 yards (J.McCourty).,9,1,4,IND 26,0,IND,
+2,274,0,11:36,R.Bironas kicks 65 yards from TEN 35 to IND 0. D.Reed to IND 25 for 25 yards (J.Battle; P.Bailey).,0,1,0,TEN 35,0,TEN,KICKOFF
+2,341,3,10:11,"(10:11) (Shotgun) A.Luck pass incomplete short left to G.Whalen (A.Verner). Penalty on IND-A.Castonzo, Illegal Formation, declined.",6,1,4,IND 29,0,IND,
+2,374,4,10:05,"(10:05) (Punt formation) P.McAfee punts 43 yards to TEN 28, Center-M.Overton. D.Wylie to TEN 32 for 4 yards (L.Brazill).",6,1,4,IND 29,0,IND,PUNT
+5,1111,2,10:40,(10:40) S.Greene right guard to TEN 29 for 5 yards (A.Franklin; L.Landry).,6,2,9,TEN 24,0,TEN,
+5,1068,0,11:26,P.McAfee kicks 67 yards from IND 35 to TEN -2. D.Wylie to TEN 20 for 22 yards (M.Harvey).,0,2,0,IND 35,0,IND,KICKOFF
+5,1090,1,11:19,(11:19) S.Greene left end to TEN 24 for 4 yards (L.Landry).,10,2,4,TEN 20,0,TEN,
+5,1154,4,09:53,"(9:53) (Punt formation) B.Kern punts 25 yards to IND 46, Center-B.Brinkley, out of bounds.",1,2,9,TEN 29,0,TEN,PUNT
+5,1132,3,09:57,(9:57) (Shotgun) R.Fitzpatrick pass incomplete short right to K.Wright (C.Vaughn).,1,2,9,TEN 29,0,TEN,
+4,976,2,13:00,"(13:00) PENALTY on IND-M.McGlynn, False Start, 5 yards, enforced at TEN 35 - No Play.",10,2,55,TEN 35,0,IND,PENALTY
+4,769,1,01:16,(1:16) D.Brown up the middle to 50 for 9 yards (M.Griffin).,10,1,45,IND 41,0,IND,
+4,745,3,01:54,(1:54) (Shotgun) A.Luck pass short left to T.Hilton to IND 41 for 17 yards (C.Sensabaugh).,5,1,36,IND 24,0,IND,
+4,790,2,00:37,(:37) D.Brown right tackle to TEN 46 for 4 yards (Z.Brown).,1,1,49,50,0,IND,
+4,947,1,13:08,"(13:08) A.Luck pass incomplete deep middle to D.Heyward-Bey (J.McCourty, S.Hill).",10,2,60,TEN 35,0,IND,
+4,1049,4,11:31,"(11:31) (Field Goal formation) A.Vinatieri 48 yard field goal is GOOD, Center-M.Overton, Holder-P.McAfee.",5,2,65,TEN 30,1,IND,FG
+4,651,0,04:06,R.Bironas kicks 64 yards from TEN 35 to IND 1. D.Reed to IND 5 for 4 yards (G.Wilson).,0,1,0,TEN 35,0,TEN,KICKOFF
+4,999,2,13:00,(13:00) (Shotgun) A.Luck pass short left to T.Richardson pushed ob at TEN 33 for 7 yards (C.McCarthy).,15,2,62,TEN 40,0,IND,
+4,1028,3,12:14,(12:14) (Shotgun) A.Luck scrambles right end to TEN 30 for 3 yards (C.McCarthy).,8,2,65,TEN 33,0,IND,
+4,673,1,04:01,(4:01) A.Luck pass short left to T.Richardson to IND 19 for 14 yards (B.Pollard).,10,1,14,IND 5,0,IND,
+4,905,2,14:13,(14:13) D.Brown right guard to TEN 37 for 1 yard (B.Pollard).,2,2,58,TEN 38,0,IND,
+4,721,2,02:40,(2:40) (Shotgun) A.Luck pass short middle to T.Richardson to IND 24 for 5 yards (A.Ayers).,10,1,19,IND 19,0,IND,
+4,811,1,00:19,"(:19) (No Huddle) D.Brown right tackle to TEN 43 for 3 yards (Mi.Martin; K.Klug). Indianapolis challenged the too many players on field ruling, and the play was REVERSED. (No Huddle) D.Brown right tackle to TEN 43 for 3 yards (Mi.Martin; K.Klug). PENALTY on TEN, Defensive 12 On-field, 5 yards, enforced at TEN 46 - No Play.",10,1,54,TEN 46,0,IND,PENALTY
+4,848,1,15:00,(15:00) A.Luck scrambles left tackle to TEN 38 for 3 yards (Z.Brown).,5,2,60,TEN 41,0,IND,
+4,926,3,13:47,(13:47) (No Huddle) A.Luck up the middle to TEN 35 for 2 yards (C.McCarthy).,1,2,60,TEN 37,0,IND,
+4,697,1,03:22,(3:22) A.Luck pass short right to T.Richardson to IND 19 for no gain (R.Pitoitua).,10,1,14,IND 19,0,IND,
+7,1284,1,08:41,(8:41) C.Johnson right tackle to TEN 20 for no gain (A.Bethea).,10,2,0,TEN 20,0,TEN,
+7,1329,3,07:34,(7:34) (No Huddle) C.Johnson left guard to TEN 33 for 4 yards (P.Angerer).,1,2,13,TEN 29,0,TEN,
+7,1554,3,02:58,(2:58) (Shotgun) R.Fitzpatrick scrambles right end pushed ob at IND 7 for 4 yards (J.Freeman).,8,2,73,IND 11,0,TEN,
+7,1305,2,08:06,(8:06) (Shotgun) R.Fitzpatrick pass short left to K.Wright to TEN 29 for 9 yards (A.Bethea).,10,2,9,TEN 20,0,TEN,
+7,1350,1,06:52,"(6:52) (No Huddle, Shotgun) R.Fitzpatrick pass short left to K.Wright to TEN 38 for 5 yards (V.Davis).",10,2,18,TEN 33,0,TEN,
+7,1586,4,02:35,"(2:35) (Field Goal formation) R.Bironas 25 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",4,2,73,IND 7,1,TEN,FG
+7,1431,1,05:29,"(5:29) S.Greene right tackle to IND 44 for 1 yard (A.Franklin). PENALTY on IND-C.Vaughn, Unnecessary Roughness, 15 yards, enforced at IND 44.",10,2,51,IND 45,0,TEN,PENALTY
+7,1537,0,02:58,Timeout #1 by TEN at 02:58.,0,2,69,,0,,TIMEOUT
+7,1374,2,06:16,"(6:16) (No Huddle, Shotgun) R.Fitzpatrick pass short left to K.Wright to TEN 41 for 3 yards (R.Mathis).",5,2,21,TEN 38,0,TEN,
+7,1398,3,05:32,"(5:32) (No Huddle, Shotgun) R.Fitzpatrick pass incomplete short middle to N.Washington [R.Mathis]. PENALTY on IND-R.Mathis, Roughing the Passer, 14 yards, enforced at TEN 41 - No Play. Penalty on IND-C.Vaughn, Defensive Pass Interference, declined.",2,2,35,TEN 41,0,TEN,PENALTY
+7,1516,2,03:44,(3:44) C.Johnson right guard to IND 11 for -1 yards (P.Angerer).,7,2,69,IND 10,0,TEN,
+7,1463,1,05:03,"(5:03) C.Johnson right tackle to IND 25 for 4 yards (C.Vaughn). PENALTY on IND-E.Walden, Unnecessary Roughness, 12 yards, enforced at IND 25.",10,2,70,IND 29,0,TEN,PENALTY
+7,1495,1,04:24,(4:24) (Shotgun) C.Johnson right guard to IND 10 for 3 yards (R.Mathews; P.Angerer).,10,2,70,IND 13,0,TEN,
+6,1241,3,08:55,(8:55) (Shotgun) A.Luck pass incomplete short middle to C.Fleener [A.Ayers].,10,2,15,TEN 39,0,IND,
+6,1176,1,09:46,(9:46) D.Brown right guard to TEN 39 for 15 yards (M.Griffin).,10,2,15,IND 46,0,IND,
+6,1219,2,09:00,(9:00) (Shotgun) A.Luck pass incomplete short left to L.Brazill (A.Verner).,10,2,15,TEN 39,0,IND,
+6,1263,4,08:51,"(8:51) (Punt formation) P.McAfee punts 39 yards to end zone, Center-M.Overton, Touchback.",10,2,15,TEN 39,0,IND,PUNT
+6,1197,1,09:08,(9:08) A.Luck pass incomplete short left to T.Hilton.,10,2,15,TEN 39,0,IND,
+9,2286,0,08:33,"A.Vinatieri extra point is GOOD, Center-M.Overton, Holder-P.McAfee.",0,3,74,TEN 2,1,IND,XP
+9,2216,3,09:46,(9:46) (Shotgun) A.Luck pass short middle to G.Whalen to TEN 14 for 6 yards (C.Sensabaugh).,5,3,60,TEN 20,0,IND,
+9,2126,2,12:19,(12:19) T.Richardson left guard to TEN 32 for 1 yard (R.Pitoitua).,3,3,42,TEN 33,0,IND,
+9,2084,2,13:40,(13:40) A.Luck scrambles left guard to TEN 40 for 13 yards (C.McCarthy).,5,3,34,IND 47,0,IND,
+9,2264,2,08:39,"(8:39) D.Brown left end for 6 yards, TOUCHDOWN.",2,3,74,TEN 6,1,IND,TD
+9,2147,3,11:35,(11:35) (Shotgun) A.Luck pass short left to T.Hilton to TEN 25 for 7 yards (A.Verner).,2,3,49,TEN 32,0,IND,
+9,2192,2,10:24,(10:24) (Shotgun) A.Luck pass short middle to C.Fleener to TEN 20 for 5 yards (A.Ayers).,10,3,54,TEN 25,0,IND,
+9,2171,1,10:56,(10:56) D.Brown left tackle to TEN 25 for no gain (A.Ayers).,10,3,49,TEN 25,0,IND,
+9,2105,1,13:01,(13:01) T.Richardson left guard to TEN 33 for 7 yards (M.Griffin; R.Pitoitua).,10,3,41,TEN 40,0,IND,
+9,2017,0,15:00,R.Bironas kicks 66 yards from TEN 35 to IND -1. D.Reed to IND 26 for 27 yards (Z.Diles).,0,3,0,TEN 35,0,TEN,KICKOFF
+9,2063,1,14:17,(14:17) T.Richardson right guard to IND 47 for 5 yards (D.Morgan).,10,3,21,IND 42,0,IND,
+9,2240,1,09:16,(9:16) (Shotgun) A.Luck pass short left to T.Hilton to TEN 6 for 8 yards (C.McCarthy).,10,3,68,TEN 14,0,IND,
+9,2039,1,14:52,(14:52) A.Luck pass deep right to C.Fleener to IND 42 for 16 yards (M.Griffin).,10,3,16,IND 26,0,IND,
+8,1816,1,01:22,(1:22) (Shotgun) A.Luck pass short middle to T.Richardson to TEN 31 for 5 yards (B.Pollard).,10,2,49,TEN 36,0,IND,
+8,1770,1,01:32,"(1:32) (No Huddle, Shotgun) A.Luck pass incomplete short left to T.Hilton.",10,2,34,TEN 46,0,IND,
+8,1624,1,02:32,(2:32) (Shotgun) A.Luck pass short middle to W.Saunders to IND 31 for 11 yards (A.Ayers).,10,2,11,IND 20,0,IND,
+8,1792,2,01:29,(1:29) (Shotgun) A.Luck pass short right to D.Heyward-Bey ran ob at TEN 36 for 10 yards.,10,2,44,TEN 46,0,IND,
+8,1840,2,01:01,"(1:01) (No Huddle, Shotgun) A.Luck pass short middle to C.Fleener to TEN 14 for 17 yards (A.Verner).",5,2,66,TEN 31,0,IND,
+8,1605,0,02:32,"R.Bironas kicks 65 yards from TEN 35 to end zone, Touchback.",0,2,0,TEN 35,0,TEN,KICKOFF
+8,1648,1,02:13,"(2:13) (No Huddle, Shotgun) A.Luck pass incomplete short right to W.Saunders.",10,2,11,IND 31,0,IND,
+8,1946,0,00:02,Timeout #3 by IND at 00:02.,0,2,68,,0,,TIMEOUT
+8,1696,3,02:04,"(2:04) (Shotgun) A.Luck pass incomplete short right to T.Hilton. PENALTY on TEN-J.McCourty, Defensive Pass Interference, 9 yards, enforced at IND 31 - No Play.",10,2,20,IND 31,0,IND,PENALTY
+8,1864,0,00:52,Timeout #2 by IND at 00:52.,0,2,65,,0,,TIMEOUT
+8,1927,3,00:40,(:40) (Shotgun) A.Luck sacked at TEN 12 for -3 yards (D.Morgan).,5,2,68,TEN 9,0,IND,
+8,1674,2,02:09,(2:09) (Shotgun) A.Luck pass incomplete short middle to W.Saunders [A.Ayers].,10,2,11,IND 31,0,IND,
+8,1746,1,02:00,(2:00) (Shotgun) A.Luck pass short right to D.Brown to TEN 46 for 14 yards (Mi.Martin; C.McCarthy).,10,2,34,IND 40,0,IND,
+8,1905,2,00:46,(:46) (Shotgun) A.Luck pass incomplete short right to D.Heyward-Bey.,5,2,71,TEN 9,0,IND,
+8,1881,1,00:52,(:52) (Shotgun) A.Luck pass short right to T.Hilton pushed ob at TEN 9 for 5 yards (C.Sensabaugh).,10,2,71,TEN 14,0,IND,
+8,1984,4,00:02,"(:02) (Field Goal formation) A.Vinatieri 30 yard field goal is GOOD, Center-M.Overton, Holder-P.McAfee.",8,2,68,TEN 12,1,IND,FG

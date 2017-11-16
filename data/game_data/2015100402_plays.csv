@@ -1,191 +1,191 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1336,1,12:24,,10,2,8,HOU 20,0,HOU,
-9,1440,0,10:56,,0,2,8,,0,,TIMEOUT
-9,1535,4,09:42,,3,2,20,HOU 40,0,HOU,PUNT
-9,1358,2,12:15,,10,2,4,HOU 20,0,HOU,
-9,1321,0,12:24,,0,2,0,ATL 35,0,ATL,KICKOFF
-9,1468,1,10:56,,15,2,9,HOU 28,0,HOU,
-9,1393,3,11:48,,6,2,13,HOU 24,0,HOU,
-9,1489,2,10:25,,14,2,20,HOU 29,0,HOU,
-9,1417,1,11:23,,10,2,8,HOU 33,0,HOU,PENALTY
-9,1513,3,09:46,,3,2,20,HOU 40,0,HOU,
-24,4051,1,03:01,,10,4,-5,ATL 20,0,ATL,PENALTY
-24,4095,0,02:51,,0,4,0,,0,,TIMEOUT
-24,4171,0,02:00,,0,4,-2,,0,,
-24,4133,0,02:43,,0,4,-2,,0,,TIMEOUT
-24,4074,1,03:01,,15,4,0,ATL 15,0,ATL,
-24,4112,2,02:50,,10,4,-4,ATL 20,0,ATL,
-24,4036,0,03:01,,0,4,0,HOU 35,0,HOU,KICKOFF
-24,4192,4,02:00,,12,4,-2,ATL 18,0,ATL,PUNT
-24,4150,3,02:43,,14,4,-2,ATL 16,0,ATL,
-10,1780,3,03:15,,1,2,82,HOU 3,1,ATL,TD
-10,1644,2,06:40,,9,2,19,ATL 33,0,ATL,
-10,1668,3,05:56,,5,2,26,ATL 37,0,ATL,
-10,1714,2,05:12,,10,2,70,ATL 44,0,ATL,
-10,1599,3,07:59,,2,2,14,ATL 26,0,ATL,
-10,1578,2,08:46,,10,2,8,ATL 18,0,ATL,
-10,1800,0,03:11,,0,2,82,HOU 15,1,ATL,XP
-10,1759,2,04:00,,3,2,79,HOU 5,0,ATL,
-10,1623,1,07:19,,10,2,15,ATL 32,0,ATL,
-10,1557,1,09:31,,10,2,0,ATL 18,0,ATL,
-10,1692,1,05:16,,10,2,26,ATL 44,0,ATL,
-10,1738,1,04:25,,10,2,77,HOU 12,0,ATL,
-20,3297,1,14:22,,10,4,-3,ATL 20,0,ATL,
-20,3360,4,12:09,,10,4,0,ATL 20,0,ATL,PUNT
-20,3339,3,12:52,,11,4,0,ATL 19,0,ATL,
-20,3318,2,13:36,,13,4,-1,ATL 17,0,ATL,
-20,3282,0,14:22,,0,4,0,HOU 35,0,HOU,KICKOFF
-6,1068,1,14:32,,10,2,0,HOU 21,0,HOU,
-6,1133,4,13:46,,10,2,0,HOU 21,0,HOU,PUNT
-6,1090,2,14:29,,10,2,0,HOU 21,0,HOU,
-6,1111,3,13:49,,10,2,0,HOU 21,0,HOU,
-6,1046,0,14:39,,0,2,0,ATL 35,0,ATL,KICKOFF
-18,2755,1,07:48,,10,3,1,ATL 41,0,ATL,PENALTY
-18,2951,2,03:37,,11,3,62,HOU 14,0,ATL,
-18,2787,1,07:22,,20,3,2,ATL 31,0,ATL,
-18,2930,1,04:20,,10,3,56,HOU 13,0,ATL,
-18,2989,0,02:56,,0,3,70,HOU 15,1,ATL,XP
-18,2713,1,09:13,,10,3,2,ATL 30,0,ATL,
-18,2898,1,04:47,,10,3,57,HOU 40,0,ATL,PENALTY
-18,2734,2,08:32,,8,3,11,ATL 32,0,ATL,
-18,2832,3,05:50,,1,3,15,50,0,ATL,PENALTY
-18,2972,3,03:02,,5,3,70,HOU 8,1,ATL,TD
-18,2855,3,05:24,,6,3,30,ATL 45,0,ATL,
-18,2808,2,06:38,,19,3,20,ATL 32,0,ATL,
-25,4239,2,01:42,,10,4,6,HOU 46,0,HOU,
-25,4263,3,01:14,,4,4,34,ATL 48,0,HOU,
-25,4482,4,00:00,,17,4,38,ATL 17,1,HOU,TD
-25,4406,3,00:06,,17,4,37,ATL 17,0,HOU,
-25,4365,1,00:34,,9,4,45,ATL 9,0,HOU,
-25,4217,1,01:50,,10,4,0,HOU 46,0,HOU,
-25,4287,1,00:49,,10,4,34,ATL 20,0,HOU,
-25,4387,2,00:30,,9,4,37,ATL 9,0,HOU,
-25,4331,3,00:39,,10,4,45,ATL 20,0,HOU,
-25,4309,2,00:43,,10,4,34,ATL 20,0,HOU,
-1,126,4,14:10,,8,1,2,ATL 31,0,ATL,PUNT
-1,104,3,14:14,,8,1,2,ATL 31,0,ATL,
-1,58,1,14:53,,10,1,2,ATL 29,0,ATL,
-1,82,2,14:17,,8,1,2,ATL 31,0,ATL,
-1,36,0,15:00,,0,1,0,HOU 35,0,HOU,KICKOFF
-5,615,2,05:31,,12,1,3,ATL 27,0,ATL,PENALTY
-5,826,2,02:10,,11,1,3,ATL 32,0,ATL,
-5,648,1,05:26,,10,1,-7,ATL 32,0,ATL,PENALTY
-5,734,3,03:34,,15,1,4,ATL 27,0,ATL,PENALTY
-5,767,1,03:28,,10,1,-6,ATL 33,0,ATL,PENALTY
-5,983,1,15:00,,15,2,48,HOU 28,0,ATL,PENALTY
-5,1013,1,14:45,,10,2,71,HOU 23,1,ATL,TD
-5,802,1,02:56,,20,1,3,ATL 23,0,ATL,
-5,896,1,00:58,,10,1,40,HOU 33,0,ATL,
-5,594,1,05:58,,10,1,-2,ATL 29,0,ATL,
-5,872,1,01:34,,10,1,38,ATL 48,0,ATL,
-5,944,0,,,0,1,48,,0,,
-5,715,2,04:19,,10,1,-2,ATL 32,0,ATL,
-5,960,1,15:00,,10,2,43,HOU 23,0,ATL,PENALTY
-5,1030,0,14:39,,0,2,71,HOU 15,1,ATL,XP
-5,920,2,00:09,,8,1,48,HOU 31,0,ATL,
-5,691,1,04:55,,20,1,3,ATL 22,0,ATL,
-5,848,3,02:06,,11,1,19,ATL 32,0,ATL,
-13,2123,1,01:02,,10,2,51,ATL 47,0,HOU,
-13,2225,3,00:24,,10,2,63,ATL 37,0,HOU,
-13,2249,4,00:17,,8,2,63,ATL 35,0,HOU,FGM
-13,1979,1,01:51,,10,2,0,HOU 2,0,HOU,
-13,2025,1,01:19,,10,2,21,HOU 15,0,HOU,
-13,2181,1,00:34,,10,2,61,ATL 37,0,HOU,
-13,2066,2,01:15,,2,2,26,HOU 23,0,HOU,PENALTY
-13,2001,2,01:47,,10,2,13,HOU 2,0,HOU,
-13,2099,1,01:10,,10,2,51,HOU 28,0,HOU,
-13,2157,2,00:55,,10,2,63,ATL 47,0,HOU,
-13,2203,2,00:29,,10,2,61,ATL 37,0,HOU,
-13,2049,0,01:15,,0,2,21,,0,,TIMEOUT
-21,3531,1,10:44,,10,4,75,ATL 49,0,HOU,
-21,3463,1,11:22,,10,4,13,HOU 38,0,HOU,
-21,3593,1,09:57,,1,4,74,ATL 1,0,HOU,
-21,3614,2,09:14,,1,4,75,ATL 1,1,HOU,TD
-21,3631,0,09:09,,0,4,75,ATL 15,1,HOU,XP
-21,3485,2,11:18,,10,4,13,HOU 38,0,HOU,
-21,3439,3,11:48,,10,4,13,HOU 25,0,HOU,
-21,3417,2,11:51,,10,4,0,HOU 25,0,HOU,
-21,3507,3,11:11,,10,4,26,HOU 38,0,HOU,
-21,3395,1,11:56,,10,4,0,HOU 25,0,HOU,
-21,3552,2,10:21,,4,4,74,ATL 43,0,HOU,
-23,3932,2,03:43,,10,4,44,ATL 20,0,HOU,
-23,3903,1,03:50,,10,4,44,ATL 20,0,HOU,
-23,3954,3,03:38,,10,4,56,ATL 20,0,HOU,
-23,3874,1,03:58,,10,4,44,ATL 46,0,HOU,
-23,3998,0,03:01,,0,4,64,ATL 15,1,HOU,XP
-23,3850,1,04:32,,10,4,18,HOU 36,0,HOU,
-23,3978,1,03:08,,8,4,64,ATL 8,1,HOU,TD
-11,1816,0,03:11,,0,2,0,ATL 35,0,ATL,KICKOFF
-11,1835,1,03:11,,10,2,19,HOU 20,0,HOU,FUMBLE
-14,2269,1,00:12,,10,2,-1,ATL 43,0,ATL,
-14,2290,0,,,0,2,-1,,0,,
-8,1255,1,12:40,,10,2,0,HOU 31,0,HOU,
-8,1277,2,12:34,,10,2,-7,HOU 31,1,HOU,TD
-19,3187,0,,,0,3,66,,0,,
-19,3118,1,01:35,,10,3,41,50,0,HOU,
-19,3094,2,01:55,,6,3,30,HOU 40,0,HOU,
-19,3203,1,15:00,,10,4,66,ATL 14,0,HOU,
-19,3246,3,14:28,,1,4,80,ATL 5,1,HOU,TD
-19,3166,2,00:41,,2,3,66,ATL 31,0,HOU,
-19,3024,1,02:56,,10,3,0,HOU 20,0,HOU,
-19,3225,2,14:54,,10,4,75,ATL 14,0,HOU,
-19,3070,1,02:25,,10,3,20,HOU 36,0,HOU,
-19,3005,0,02:56,,0,3,0,ATL 35,0,ATL,KICKOFF
-19,3266,0,14:22,,0,4,80,ATL 15,1,HOU,XP
-19,3142,1,01:10,,10,3,49,ATL 39,0,HOU,
-19,3046,2,02:53,,10,3,16,HOU 20,0,HOU,
-22,3667,1,09:09,,10,4,-1,ATL 24,0,ATL,
-22,3777,3,05:23,,4,4,20,ATL 43,0,ATL,
-22,3735,1,06:51,,10,4,16,ATL 37,0,ATL,
-22,3709,3,07:40,,9,4,13,ATL 25,0,ATL,
-22,3756,2,06:07,,7,4,19,ATL 40,0,ATL,
-22,3798,4,04:43,,3,4,20,ATL 44,0,ATL,PUNT
-22,3688,2,08:24,,11,4,1,ATL 23,0,ATL,
-22,3647,0,09:09,,0,4,0,HOU 35,0,HOU,KICKOFF
-12,1913,3,02:17,,10,2,7,HOU 47,0,ATL,
-12,1870,1,03:02,,10,2,0,HOU 47,0,ATL,
-12,1937,0,02:00,,0,2,7,,0,,
-12,1954,4,02:00,,3,2,7,HOU 40,0,ATL,PUNT
-12,1891,2,02:19,,10,2,0,HOU 47,0,ATL,
-16,2521,2,12:11,,5,3,7,ATL 37,0,ATL,
-16,2583,0,10:50,,0,3,68,HOU 15,1,ATL,XP
-16,2542,3,11:41,,3,3,62,ATL 39,0,ATL,
-16,2566,1,10:55,,6,3,68,HOU 6,1,ATL,TD
-16,2500,1,12:46,,10,3,5,ATL 32,0,ATL,
-7,1221,4,12:49,,18,2,-8,ATL 26,0,ATL,PUNT
-7,1180,2,13:32,,10,2,0,ATL 34,0,ATL,
-7,1202,3,13:28,,10,2,-8,ATL 34,0,ATL,
-7,1158,1,13:34,,10,2,0,ATL 34,0,ATL,
-3,264,2,11:25,,8,1,5,ATL 48,0,ATL,
-3,405,1,08:38,,10,1,54,HOU 16,1,ATL,TD
-3,422,0,08:32,,0,1,54,HOU 15,1,ATL,XP
-3,288,3,10:52,,5,1,9,HOU 49,0,ATL,
-3,338,1,10:08,,10,1,14,HOU 44,0,ATL,
-3,359,2,09:33,,6,1,14,HOU 40,0,ATL,
-3,317,4,10:24,,1,1,10,HOU 45,0,ATL,
-3,243,1,12:01,,10,1,54,ATL 46,0,ATL,
-3,381,3,09:29,,6,1,38,HOU 40,0,ATL,
-17,2664,3,09:58,,9,3,8,HOU 21,0,HOU,
-17,2688,4,09:25,,2,3,8,HOU 28,0,HOU,PUNT
-17,2599,0,10:50,,0,3,0,ATL 35,0,ATL,KICKOFF
-17,2621,1,10:43,,10,3,1,HOU 20,0,HOU,
-17,2642,2,10:06,,9,3,1,HOU 21,0,HOU,
-4,438,0,08:32,,0,1,0,ATL 35,0,ATL,KICKOFF
-4,571,4,06:08,,6,1,15,HOU 35,0,HOU,PUNT
-4,525,2,06:40,,11,1,10,HOU 30,0,HOU,
-4,547,3,06:37,,11,1,15,HOU 30,0,HOU,
-4,483,2,07:47,,8,1,11,HOU 22,0,HOU,
-4,460,1,08:26,,10,1,2,HOU 20,0,HOU,
-4,504,1,07:16,,10,1,10,HOU 31,0,HOU,
-2,175,1,13:14,,10,1,17,HOU 45,0,HOU,
-2,151,1,14:00,,10,1,15,HOU 30,0,HOU,
-2,196,2,12:46,,8,1,20,HOU 47,0,HOU,
-2,217,3,12:08,,5,1,20,50,0,HOU,INT
-15,2325,1,15:00,,10,3,15,HOU 20,0,HOU,PENALTY
-15,2306,0,15:00,,0,3,0,ATL 35,0,ATL,KICKOFF
-15,2457,3,13:22,,8,3,48,ATL 37,0,HOU,
-15,2435,2,13:26,,8,3,43,ATL 37,0,HOU,
-15,2414,1,14:07,,10,3,43,ATL 39,0,HOU,
-15,2478,4,12:49,,3,3,48,ATL 32,0,HOU,
-15,2357,1,14:43,,10,3,15,HOU 35,0,HOU,
-15,2379,2,14:39,,10,3,41,HOU 35,0,HOU,
+24,4150,3,02:43,(2:43) T.Ward right end to ATL 18 for 2 yards (B.McKinney).,14,4,-2,ATL 16,0,ATL,
+24,4051,1,03:01,"(3:01) PENALTY on ATL-B.Harris, False Start, 5 yards, enforced at ATL 20 - No Play.",10,4,-5,ATL 20,0,ATL,PENALTY
+24,4095,0,02:51,Timeout #2 by HOU at 02:51.,0,4,0,,0,,TIMEOUT
+24,4074,1,03:01,(3:01) T.Ward left end to ATL 20 for 5 yards (B.Cushing).,15,4,0,ATL 15,0,ATL,
+24,4133,0,02:43,Timeout #3 by HOU at 02:43.,0,4,-2,,0,,TIMEOUT
+24,4192,4,02:00,"(2:00) M.Bosher punts 53 yards to HOU 29, Center-J.Harris. C.Shorts ran ob at HOU 46 for 17 yards (J.Harris).",12,4,-2,ATL 18,0,ATL,PUNT
+24,4112,2,02:50,(2:50) S.Renfree right end to ATL 16 for -4 yards.,10,4,-4,ATL 20,0,ATL,
+24,4036,0,03:01,"N.Novak kicks 65 yards from HOU 35 to end zone, Touchback.",0,4,0,HOU 35,0,HOU,KICKOFF
+24,4171,0,02:00,Two-Minute Warning,0,4,-2,,0,,
+25,4365,1,00:34,(:34) (Shotgun) B.Hoyer pass incomplete short left to G.Graham (K.Ishmael).,9,4,45,ATL 9,0,HOU,
+25,4217,1,01:50,(1:50) (Shotgun) B.Hoyer pass incomplete deep middle to D.Hopkins (R.Therezie) [P.Soliai].,10,4,0,HOU 46,0,HOU,
+25,4263,3,01:14,(1:14) (Shotgun) B.Hoyer pass deep right to D.Hopkins to ATL 20 for 28 yards (P.Adams).,4,4,34,ATL 48,0,HOU,
+25,4287,1,00:49,(:49) (Shotgun) B.Hoyer pass incomplete deep left to K.Mumphery.,10,4,34,ATL 20,0,HOU,
+25,4309,2,00:43,(:43) (Shotgun) B.Hoyer pass incomplete deep left to D.Hopkins.,10,4,34,ATL 20,0,HOU,
+25,4387,2,00:30,(:30) (Shotgun) B.Hoyer sacked at ATL 17 for -8 yards (R.Hageman).,9,4,37,ATL 9,0,HOU,
+25,4482,4,00:00,"(:00) (Shotgun) B.Hoyer pass short left to C.Shorts to ATL 16 for 1 yard (A.Bradford). FUMBLES (A.Bradford), RECOVERED by ATL-N.Stupar at ATL 16. N.Stupar for 84 yards, TOUCHDOWN. HOU-C.Shorts was injured during the play. He is Out.",17,4,38,ATL 17,1,HOU,TD
+25,4331,3,00:39,(:39) B.Hoyer pass short right to D.Hopkins pushed ob at ATL 9 for 11 yards (D.Southward).,10,4,45,ATL 20,0,HOU,
+25,4239,2,01:42,(1:42) (Shotgun) B.Hoyer pass short left to G.Graham to ATL 48 for 6 yards (K.Ishmael).,10,4,6,HOU 46,0,HOU,
+25,4406,3,00:06,"(:06) (Shotgun) B.Hoyer pass deep right to D.Hopkins for 17 yards, TOUCHDOWN. The Replay Official reviewed the pass completion ruling, and the play was REVERSED. (Shotgun) B.Hoyer pass incomplete deep right to D.Hopkins.",17,4,37,ATL 17,0,HOU,
+20,3318,2,13:36,(13:36) T.Ward right tackle to ATL 19 for 2 yards (J.Crick).,13,4,-1,ATL 17,0,ATL,
+20,3339,3,12:52,(12:52) (Shotgun) T.Ward left guard to ATL 20 for 1 yard (W.Mercilus).,11,4,0,ATL 19,0,ATL,
+20,3297,1,14:22,(14:22) T.Ward right end to ATL 17 for -3 yards (J.Watt).,10,4,-3,ATL 20,0,ATL,
+20,3360,4,12:09,"(12:09) M.Bosher punts 55 yards to HOU 25, Center-J.Harris. C.Shorts pushed ob at HOU 25 for no gain (P.DiMarco).",10,4,0,ATL 20,0,ATL,PUNT
+20,3282,0,14:22,"N.Novak kicks 65 yards from HOU 35 to end zone, Touchback.",0,4,0,HOU 35,0,HOU,KICKOFF
+21,3593,1,09:57,(9:57) A.Blue right end to ATL 1 for no gain (A.Bradford).,1,4,74,ATL 1,0,HOU,
+21,3439,3,11:48,(11:48) (Shotgun) B.Hoyer pass short middle to C.Shorts to HOU 38 for 13 yards (R.Therezie; K.Ishmael).,10,4,13,HOU 25,0,HOU,
+21,3395,1,11:56,(11:56) (Shotgun) B.Hoyer pass incomplete deep left to G.Graham.,10,4,0,HOU 25,0,HOU,
+21,3552,2,10:21,"(10:21) B.Hoyer pass deep left to C.Shorts to ATL 1 for 42 yards (P.Adams). Penalty on ATL-P.Adams, Defensive Pass Interference, declined.",4,4,74,ATL 43,0,HOU,
+21,3614,2,09:14,"(9:14) C.Polk right end for 1 yard, TOUCHDOWN.",1,4,75,ATL 1,1,HOU,TD
+21,3485,2,11:18,(11:18) B.Hoyer pass incomplete deep right to D.Hopkins.,10,4,13,HOU 38,0,HOU,
+21,3507,3,11:11,(11:11) (Shotgun) B.Hoyer pass short left to C.Shorts to ATL 49 for 13 yards (A.Bradford).,10,4,26,HOU 38,0,HOU,
+21,3531,1,10:44,(10:44) A.Blue left tackle to ATL 43 for 6 yards (A.Bradford).,10,4,75,ATL 49,0,HOU,
+21,3417,2,11:51,(11:51) (Shotgun) B.Hoyer pass incomplete short middle to C.Polk.,10,4,0,HOU 25,0,HOU,
+21,3463,1,11:22,(11:22) (Shotgun) B.Hoyer pass incomplete deep left to C.Shorts.,10,4,13,HOU 38,0,HOU,
+21,3631,0,09:09,"N.Novak extra point is GOOD, Center-J.Weeks, Holder-S.Lechler.",0,4,75,ATL 15,1,HOU,XP
+22,3667,1,09:09,(9:09) T.Ward right end to ATL 23 for -1 yards (J.Simon; C.Covington).,10,4,-1,ATL 24,0,ATL,
+22,3688,2,08:24,(8:24) T.Ward left guard to ATL 25 for 2 yards (J.Crick).,11,4,1,ATL 23,0,ATL,
+22,3777,3,05:23,"(5:23) T.Ward right tackle to ATL 44 for 1 yard (A.Hal, J.Watt).",4,4,20,ATL 43,0,ATL,
+22,3798,4,04:43,"(4:43) M.Bosher punts 46 yards to HOU 10, Center-J.Harris. C.Shorts ran ob at HOU 26 for 16 yards (P.DiMarco). PENALTY on ATL-J.Harris, Offensive Holding, 10 yards, enforced at HOU 26. Penalty on ATL, Illegal Formation, declined.",3,4,20,ATL 44,0,ATL,PUNT
+22,3756,2,06:07,(6:07) T.Ward right guard to ATL 43 for 3 yards (J.Simon).,7,4,19,ATL 40,0,ATL,
+22,3709,3,07:40,(7:40) (Shotgun) T.Ward right end to ATL 37 for 12 yards (D.Morris; J.Tuggle).,9,4,13,ATL 25,0,ATL,
+22,3647,0,09:09,"N.Novak kicks 41 yards from HOU 35 to ATL 24, fair catch by R.White.",0,4,0,HOU 35,0,HOU,KICKOFF
+22,3735,1,06:51,(6:51) T.Ward left tackle to ATL 40 for 3 yards (B.Cushing).,10,4,16,ATL 37,0,ATL,
+23,3903,1,03:50,(3:50) (Shotgun) B.Hoyer pass incomplete deep left to D.Hopkins.,10,4,44,ATL 20,0,HOU,
+23,3874,1,03:58,(3:58) (Shotgun) B.Hoyer pass deep left to D.Hopkins pushed ob at ATL 20 for 26 yards (N.Stupar).,10,4,44,ATL 46,0,HOU,
+23,3932,2,03:43,(3:43) (Shotgun) B.Hoyer pass incomplete deep middle to D.Hopkins.,10,4,44,ATL 20,0,HOU,
+23,3850,1,04:32,(4:32) B.Hoyer pass short left to D.Hopkins to ATL 46 for 18 yards (K.Ishmael).,10,4,18,HOU 36,0,HOU,
+23,3998,0,03:01,"N.Novak extra point is GOOD, Center-J.Weeks, Holder-S.Lechler.",0,4,64,ATL 15,1,HOU,XP
+23,3978,1,03:08,"(3:08) (Shotgun) B.Hoyer pass short middle to C.Shorts for 8 yards, TOUCHDOWN.",8,4,64,ATL 8,1,HOU,TD
+23,3954,3,03:38,(3:38) (Shotgun) B.Hoyer pass short left to D.Hopkins to ATL 8 for 12 yards (R.Therezie).,10,4,56,ATL 20,0,HOU,
+1,82,2,14:17,(14:17) (Shotgun) M.Ryan pass incomplete short left to P.DiMarco (J.Clowney).,8,1,2,ATL 31,0,ATL,
+1,126,4,14:10,"(14:10) M.Bosher punts 46 yards to HOU 23, Center-J.Harris. C.Shorts to HOU 30 for 7 yards (N.Stupar).",8,1,2,ATL 31,0,ATL,PUNT
+1,36,0,15:00,N.Novak kicks 65 yards from HOU 35 to ATL 0. E.Weems to ATL 29 for 29 yards (B.Peters).,0,1,0,HOU 35,0,HOU,KICKOFF
+1,104,3,14:14,(14:14) (Shotgun) M.Ryan pass incomplete short right to L.Hankerson.,8,1,2,ATL 31,0,ATL,
+1,58,1,14:53,(14:53) (Shotgun) M.Ryan pass short left to D.Freeman to ATL 31 for 2 yards (B.Cushing).,10,1,2,ATL 29,0,ATL,
+3,338,1,10:08,(10:08) D.Freeman right guard to HOU 40 for 4 yards (B.Cushing).,10,1,14,HOU 44,0,ATL,
+3,381,3,09:29,(9:29) (Shotgun) M.Ryan pass short right to D.Freeman to HOU 16 for 24 yards (J.Joseph).,6,1,38,HOU 40,0,ATL,
+3,317,4,10:24,(10:24) D.Freeman right end to HOU 44 for 1 yard (V.Wilfork).,1,1,10,HOU 45,0,ATL,
+3,288,3,10:52,(10:52) (Shotgun) M.Ryan pass short right to R.White pushed ob at HOU 45 for 4 yards (K.Johnson).,5,1,9,HOU 49,0,ATL,
+3,405,1,08:38,"(8:38) (Shotgun) D.Freeman right tackle for 16 yards, TOUCHDOWN.",10,1,54,HOU 16,1,ATL,TD
+3,243,1,12:01,(12:01) (Shotgun) D.Freeman left end to ATL 48 for 2 yards (J.Crick).,10,1,54,ATL 46,0,ATL,
+3,264,2,11:25,(11:25) (Shotgun) M.Ryan pass short right to J.Jones to HOU 49 for 3 yards (B.McKinney).,8,1,5,ATL 48,0,ATL,
+3,422,0,08:32,"M.Bryant extra point is GOOD, Center-J.Harris, Holder-M.Bosher.",0,1,54,HOU 15,1,ATL,XP
+3,359,2,09:33,(9:33) M.Ryan pass incomplete short left to L.Hankerson.,6,1,14,HOU 40,0,ATL,
+2,151,1,14:00,(14:00) R.Mallett pass short middle to A.Foster to HOU 45 for 15 yards (B.Reed).,10,1,15,HOU 30,0,HOU,
+2,217,3,12:08,(12:08) (Shotgun) R.Mallett pass short middle intended for D.Hopkins INTERCEPTED by J.Babineaux at ATL 47. J.Babineaux to ATL 46 for -1 yards (D.Hopkins).,5,1,20,50,0,HOU,INT
+2,175,1,13:14,(13:14) A.Foster right end to HOU 47 for 2 yards.,10,1,17,HOU 45,0,HOU,
+2,196,2,12:46,(12:46) A.Foster right end to 50 for 3 yards (K.Biermann).,8,1,20,HOU 47,0,HOU,
+5,691,1,04:55,(4:55) (Shotgun) M.Ryan pass short right to J.Jones to ATL 32 for 10 yards (K.Jackson).,20,1,3,ATL 22,0,ATL,
+5,960,1,15:00,"(15:00) (Shotgun) PENALTY on ATL-J.Matthews, False Start, 5 yards, enforced at HOU 23 - No Play.",10,2,43,HOU 23,0,ATL,PENALTY
+5,594,1,05:58,(5:58) D.Freeman right end ran ob at ATL 27 for -2 yards (B.Cushing).,10,1,-2,ATL 29,0,ATL,
+5,896,1,00:58,(:58) M.Ryan pass short left to D.Freeman to HOU 31 for 2 yards (B.Cushing).,10,1,40,HOU 33,0,ATL,
+5,983,1,15:00,"(15:00) (Shotgun) M.Ryan sacked at HOU 32 for -4 yards (B.Cushing). PENALTY on HOU-E.Pleasant, Illegal Use of Hands, 5 yards, enforced at HOU 28 - No Play.",15,2,48,HOU 28,0,ATL,PENALTY
+5,715,2,04:19,(4:19) (Shotgun) M.Ryan sacked at ATL 27 for -5 yards (J.Crick).,10,1,-2,ATL 32,0,ATL,
+5,872,1,01:34,(1:34) M.Ryan pass deep right to J.Jones to HOU 33 for 19 yards (A.Bouye).,10,1,38,ATL 48,0,ATL,
+5,767,1,03:28,"(3:28) (Shotgun) M.Ryan pass short middle to R.White to ATL 42 for 9 yards (A.Bouye). PENALTY on ATL-R.White, Offensive Pass Interference, 10 yards, enforced at ATL 33 - No Play.",10,1,-6,ATL 33,0,ATL,PENALTY
+5,615,2,05:31,"(5:31) (Shotgun) M.Ryan pass incomplete short right to J.Jones (J.Watt) [J.Clowney]. PENALTY on HOU-J.Clowney, Illegal Use of Hands, 5 yards, enforced at ATL 27 - No Play.",12,1,3,ATL 27,0,ATL,PENALTY
+5,1013,1,14:45,"(14:45) (Shotgun) D.Freeman left guard for 23 yards, TOUCHDOWN.",10,2,71,HOU 23,1,ATL,TD
+5,734,3,03:34,"(3:34) (Shotgun) M.Ryan pass incomplete deep left to L.Hankerson. PENALTY on HOU-K.Johnson, Illegal Contact, 6 yards, enforced at ATL 27 - No Play.",15,1,4,ATL 27,0,ATL,PENALTY
+5,802,1,02:56,(2:56) (Shotgun) M.Ryan pass short right to D.Freeman to ATL 32 for 9 yards (J.Tuggle).,20,1,3,ATL 23,0,ATL,
+5,920,2,00:09,(:09) (Shotgun) M.Ryan pass short middle to N.Williams to HOU 23 for 8 yards (K.Jackson).,8,1,48,HOU 31,0,ATL,
+5,648,1,05:26,"(5:26) D.Freeman right end to ATL 28 for -4 yards (V.Wilfork). FUMBLES (V.Wilfork), and recovers at ATL 27. D.Freeman to ATL 27 for no gain (V.Wilfork). PENALTY on ATL-A.Levitre, Offensive Holding, 10 yards, enforced at ATL 32 - No Play.",10,1,-7,ATL 32,0,ATL,PENALTY
+5,1030,0,14:39,"M.Bryant extra point is GOOD, Center-J.Harris, Holder-M.Bosher.",0,2,71,HOU 15,1,ATL,XP
+5,826,2,02:10,(2:10) (Shotgun) M.Ryan pass incomplete short right to J.Jones.,11,1,3,ATL 32,0,ATL,
+5,944,0,,END QUARTER 1,0,1,48,,0,,
+5,848,3,02:06,(2:06) (Shotgun) M.Ryan pass short left to L.Hankerson pushed ob at ATL 48 for 16 yards (K.Jackson).,11,1,19,ATL 32,0,ATL,
+4,571,4,06:08,"(6:08) S.Lechler punts 36 yards to ATL 29, Center-J.Weeks, fair catch by E.Weems.",6,1,15,HOU 35,0,HOU,PUNT
+4,460,1,08:26,(8:26) K.Lamm reported in as eligible.  A.Blue left end to HOU 22 for 2 yards (R.Hageman; P.Worrilow).,10,1,2,HOU 20,0,HOU,
+4,525,2,06:40,(6:40) R.Mallett pass incomplete short middle to C.Shorts.,11,1,10,HOU 30,0,HOU,
+4,547,3,06:37,(6:37) (Shotgun) R.Mallett pass short right to C.Polk to HOU 35 for 5 yards (W.Moore).,11,1,15,HOU 30,0,HOU,
+4,438,0,08:32,M.Bosher kicks 66 yards from ATL 35 to HOU -1. K.Mumphery to HOU 20 for 21 yards (N.Stupar).,0,1,0,ATL 35,0,ATL,KICKOFF
+4,504,1,07:16,(7:16) A.Blue right end to HOU 30 for -1 yards (B.Reed).,10,1,10,HOU 31,0,HOU,
+4,483,2,07:47,(7:47) A.Blue right tackle to HOU 31 for 9 yards (W.Moore).,8,1,11,HOU 22,0,HOU,
+7,1221,4,12:49,"(12:49) M.Bosher punts 48 yards to HOU 26, Center-J.Harris, fair catch by C.Shorts. PENALTY on ATL-N.Stupar, Illegal Formation, 5 yards, enforced at HOU 26.",18,2,-8,ATL 26,0,ATL,PUNT
+7,1158,1,13:34,(13:34) M.Ryan pass incomplete short right to R.White.,10,2,0,ATL 34,0,ATL,
+7,1180,2,13:32,(13:32) (Shotgun) M.Ryan pass incomplete short right to R.White (J.Watt).,10,2,0,ATL 34,0,ATL,
+7,1202,3,13:28,"(13:28) (Shotgun) M.Ryan sacked at ATL 26 for -8 yards (J.Watt, J.Simon).",10,2,-8,ATL 34,0,ATL,
+6,1111,3,13:49,(13:49) (Shotgun) R.Mallett pass incomplete deep middle to G.Graham.,10,2,0,HOU 21,0,HOU,
+6,1068,1,14:32,(14:32) (Shotgun) R.Mallett pass incomplete short middle to D.Hopkins (D.Trufant).,10,2,0,HOU 21,0,HOU,
+6,1090,2,14:29,(14:29) A.Foster left end to HOU 21 for no gain (J.Babineaux).,10,2,0,HOU 21,0,HOU,
+6,1046,0,14:39,M.Bosher kicks 69 yards from ATL 35 to HOU -4. K.Mumphery to HOU 21 for 25 yards (N.Stupar).,0,2,0,ATL 35,0,ATL,KICKOFF
+6,1133,4,13:46,"(13:46) S.Lechler punts 56 yards to ATL 23, Center-J.Weeks. E.Weems to ATL 34 for 11 yards (J.Simon; J.Weeks).",10,2,0,HOU 21,0,HOU,PUNT
+9,1358,2,12:15,(12:15) A.Foster right end pushed ob at HOU 24 for 4 yards (W.Moore).,10,2,4,HOU 20,0,HOU,
+9,1336,1,12:24,(12:24) R.Mallett pass incomplete deep right to G.Graham (R.Alford). HOU-N.Washington was injured during the play. His return is Probable.,10,2,8,HOU 20,0,HOU,
+9,1535,4,09:42,"(9:42) S.Lechler punts 42 yards to ATL 18, Center-J.Weeks, out of bounds.",3,2,20,HOU 40,0,HOU,PUNT
+9,1321,0,12:24,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback.",0,2,0,ATL 35,0,ATL,KICKOFF
+9,1468,1,10:56,(10:56) (Shotgun) A.Foster right guard to HOU 29 for 1 yard (J.Bartu).,15,2,9,HOU 28,0,HOU,
+9,1440,0,10:56,Timeout #1 by HOU at 10:56.,0,2,8,,0,,TIMEOUT
+9,1489,2,10:25,(10:25) (Shotgun) R.Mallett pass short right to D.Hopkins to HOU 40 for 11 yards (D.Trufant).,14,2,20,HOU 29,0,HOU,
+9,1393,3,11:48,(11:48) (Shotgun) R.Mallett pass short middle to K.Mumphery to HOU 33 for 9 yards (V.Beasley).,6,2,13,HOU 24,0,HOU,
+9,1513,3,09:46,(9:46) (Shotgun) R.Mallett pass incomplete short left to D.Hopkins (R.Alford).,3,2,20,HOU 40,0,HOU,
+9,1417,1,11:23,"(11:23) PENALTY on HOU-G.Graham, False Start, 5 yards, enforced at HOU 33 - No Play.",10,2,8,HOU 33,0,HOU,PENALTY
+8,1255,1,12:40,(12:40) (Shotgun) R.Mallett pass incomplete deep right to D.Hopkins (D.Trufant).,10,2,0,HOU 31,0,HOU,
+8,1277,2,12:34,"(12:34) (Shotgun) A.Foster right end to HOU 27 for -4 yards. FUMBLES, RECOVERED by ATL-D.Trufant at HOU 24. D.Trufant for 24 yards, TOUCHDOWN.",10,2,-7,HOU 31,1,HOU,TD
+11,1816,0,03:11,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback.",0,2,0,ATL 35,0,ATL,KICKOFF
+11,1835,1,03:11,"(3:11) R.Mallett pass short right to C.Fiedorowicz to HOU 39 for 19 yards (W.Moore). FUMBLES (W.Moore), RECOVERED by ATL-D.Trufant at HOU 44. D.Trufant to HOU 47 for -3 yards (G.Graham).",10,2,19,HOU 20,0,HOU,FUMBLE
+10,1623,1,07:19,(7:19) (Shotgun) D.Freeman left guard to ATL 33 for 1 yard (W.Mercilus).,10,2,15,ATL 32,0,ATL,
+10,1644,2,06:40,(6:40) (Shotgun) M.Ryan pass short right to R.White to ATL 37 for 4 yards (K.Johnson).,9,2,19,ATL 33,0,ATL,
+10,1557,1,09:31,(9:31) D.Freeman left tackle to ATL 18 for no gain (B.Cushing).,10,2,0,ATL 18,0,ATL,
+10,1714,2,05:12,(5:12) (Shotgun) M.Ryan pass short left to D.Freeman to HOU 12 for 44 yards (Q.Demps).,10,2,70,ATL 44,0,ATL,
+10,1780,3,03:15,"(3:15) M.Ryan pass short left to L.Hankerson for 3 yards, TOUCHDOWN.",1,2,82,HOU 3,1,ATL,TD
+10,1800,0,03:11,"M.Bryant extra point is GOOD, Center-J.Harris, Holder-M.Bosher.",0,2,82,HOU 15,1,ATL,XP
+10,1578,2,08:46,(8:46) D.Freeman right end to ATL 26 for 8 yards (Q.Demps; B.Cushing).,10,2,8,ATL 18,0,ATL,
+10,1692,1,05:16,(5:16) (Shotgun) M.Ryan pass incomplete short right to D.Freeman.,10,2,26,ATL 44,0,ATL,
+10,1759,2,04:00,(4:00) T.Ward right end to HOU 3 for 2 yards (J.Simon).,3,2,79,HOU 5,0,ATL,
+10,1668,3,05:56,(5:56) (Shotgun) M.Ryan pass short middle to L.Hankerson to ATL 44 for 7 yards (K.Jackson).,5,2,26,ATL 37,0,ATL,
+10,1599,3,07:59,(7:59) M.Ryan pass short left to J.Jones to ATL 32 for 6 yards (J.Joseph).,2,2,14,ATL 26,0,ATL,
+10,1738,1,04:25,(4:25) T.Ward left guard to HOU 5 for 7 yards (R.Moore).,10,2,77,HOU 12,0,ATL,
+13,2157,2,00:55,(:55) (Shotgun) R.Mallett pass short right to D.Hopkins to ATL 37 for 10 yards (D.Trufant) [V.Beasley].,10,2,63,ATL 47,0,HOU,
+13,2123,1,01:02,"(1:02) (No Huddle, Shotgun) R.Mallett pass incomplete short right to C.Shorts (D.Trufant).",10,2,51,ATL 47,0,HOU,
+13,2203,2,00:29,(:29) (Shotgun) R.Mallett pass incomplete deep left to K.Mumphery [K.Biermann].,10,2,61,ATL 37,0,HOU,
+13,1979,1,01:51,(1:51) (Shotgun) R.Mallett pass incomplete short left to K.Mumphery.,10,2,0,HOU 2,0,HOU,
+13,2225,3,00:24,(:24) (Shotgun) R.Mallett pass short left to A.Foster ran ob at ATL 35 for 2 yards (P.Worrilow).,10,2,63,ATL 37,0,HOU,
+13,2049,0,01:15,Timeout #2 by HOU at 01:15.,0,2,21,,0,,TIMEOUT
+13,2025,1,01:19,(1:19) (Shotgun) R.Mallett pass short left to A.Foster to HOU 23 for 8 yards (R.Therezie).,10,2,21,HOU 15,0,HOU,
+13,2181,1,00:34,"(:34) (No Huddle, Shotgun) R.Mallett pass incomplete short right to G.Graham (W.Moore).",10,2,61,ATL 37,0,HOU,
+13,2001,2,01:47,(1:47) (Shotgun) R.Mallett pass short left to K.Mumphery to HOU 15 for 13 yards (R.Alford).,10,2,13,HOU 2,0,HOU,
+13,2249,4,00:17,"(:17) N.Novak 53 yard field goal is No Good, Short, Center-J.Weeks, Holder-S.Lechler.",8,2,63,ATL 35,0,HOU,FGM
+13,2099,1,01:10,(1:10) R.Mallett pass deep left to D.Hopkins to ATL 47 for 25 yards (P.DiMarco).,10,2,51,HOU 28,0,HOU,
+13,2066,2,01:15,"(1:15) R.Mallett pass incomplete deep left to K.Mumphery. PENALTY on ATL-V.Beasley, Defensive Offside, 5 yards, enforced at HOU 23 - No Play.",2,2,26,HOU 23,0,HOU,PENALTY
+12,1954,4,02:00,"(2:00) M.Bosher punts 38 yards to HOU 2, Center-J.Harris, downed by ATL-D.Southward.",3,2,7,HOU 40,0,ATL,PUNT
+12,1913,3,02:17,(2:17) (Shotgun) M.Ryan pass short right to L.Hankerson to HOU 40 for 7 yards (B.Cushing; K.Jackson).,10,2,7,HOU 47,0,ATL,
+12,1937,0,02:00,Two-Minute Warning,0,2,7,,0,,
+12,1891,2,02:19,(2:19) (Shotgun) M.Ryan pass incomplete short right to J.Jones (J.Watt).,10,2,0,HOU 47,0,ATL,
+12,1870,1,03:02,(3:02) (Shotgun) D.Freeman left guard to HOU 47 for no gain (J.Crick; J.Tuggle).,10,2,0,HOU 47,0,ATL,
+15,2325,1,15:00,"(15:00) (Shotgun) A.Foster left end to HOU 20 for no gain (R.Hageman). PENALTY on ATL-R.Hageman, Face Mask (15 Yards), 15 yards, enforced at HOU 20 - No Play.",10,3,15,HOU 20,0,HOU,PENALTY
+15,2457,3,13:22,(13:22) (Shotgun) A.Foster right tackle to ATL 32 for 5 yards (P.Worrilow).,8,3,48,ATL 37,0,HOU,
+15,2435,2,13:26,(13:26) R.Mallett pass incomplete short left to D.Hopkins (R.Alford).,8,3,43,ATL 37,0,HOU,
+15,2306,0,15:00,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback.",0,3,0,ATL 35,0,ATL,KICKOFF
+15,2414,1,14:07,(14:07) A.Foster right guard to ATL 37 for 2 yards (K.Biermann).,10,3,43,ATL 39,0,HOU,
+15,2478,4,12:49,(12:49) (Shotgun) R.Mallett pass incomplete short right to A.Foster.,3,3,48,ATL 32,0,HOU,
+15,2357,1,14:43,(14:43) (Shotgun) R.Mallett pass incomplete short left to A.Foster.,10,3,15,HOU 35,0,HOU,
+15,2379,2,14:39,(14:39) (Shotgun) R.Mallett pass deep right to K.Mumphery to ATL 39 for 26 yards (R.Therezie).,10,3,41,HOU 35,0,HOU,
+14,2290,0,,END QUARTER 2,0,2,-1,,0,,
+14,2269,1,00:12,(:12) M.Ryan kneels to ATL 42 for -1 yards.,10,2,-1,ATL 43,0,ATL,
+17,2642,2,10:06,(10:06) R.Mallett pass incomplete deep right to D.Hopkins.,9,3,1,HOU 21,0,HOU,
+17,2621,1,10:43,(10:43) A.Blue left end to HOU 21 for 1 yard (G.Jarrett).,10,3,1,HOU 20,0,HOU,
+17,2688,4,09:25,"(9:25) S.Lechler punts 60 yards to ATL 12, Center-J.Weeks. E.Weems to ATL 30 for 18 yards (W.Mercilus; M.Bullough).",2,3,8,HOU 28,0,HOU,PUNT
+17,2599,0,10:50,M.Bosher kicks 69 yards from ATL 35 to HOU -4. K.Mumphery to HOU 20 for 24 yards (J.Collins).,0,3,0,ATL 35,0,ATL,KICKOFF
+17,2664,3,09:58,(9:58) (Shotgun) R.Mallett pass short left to C.Polk to HOU 28 for 7 yards (J.Bartu).,9,3,8,HOU 21,0,HOU,
+16,2583,0,10:50,"M.Bryant extra point is GOOD, Center-J.Harris, Holder-M.Bosher.",0,3,68,HOU 15,1,ATL,XP
+16,2542,3,11:41,(11:41) (Shotgun) M.Ryan pass short middle to L.Hankerson to HOU 6 for 55 yards (D.Morris).,3,3,62,ATL 39,0,ATL,
+16,2566,1,10:55,"(10:55) D.Freeman right guard for 6 yards, TOUCHDOWN.",6,3,68,HOU 6,1,ATL,TD
+16,2521,2,12:11,(12:11) D.Freeman left end pushed ob at ATL 39 for 2 yards (E.Pleasant).,5,3,7,ATL 37,0,ATL,
+16,2500,1,12:46,(12:46) D.Freeman left end to ATL 37 for 5 yards (J.Clowney).,10,3,5,ATL 32,0,ATL,
+19,3070,1,02:25,(2:25) (Shotgun) B.Hoyer pass short left to C.Fiedorowicz pushed ob at HOU 40 for 4 yards (P.Worrilow).,10,3,20,HOU 36,0,HOU,
+19,3203,1,15:00,(15:00) (Shotgun) B.Hoyer pass incomplete short right to D.Hopkins.,10,4,66,ATL 14,0,HOU,
+19,3118,1,01:35,(1:35) (Shotgun) B.Hoyer pass short right to C.Polk to ATL 39 for 11 yards (N.Stupar).,10,3,41,50,0,HOU,
+19,3225,2,14:54,(14:54) C.Polk right tackle to ATL 5 for 9 yards (K.Ishmael; R.Therezie).,10,4,75,ATL 14,0,HOU,
+19,3024,1,02:56,(2:56) (Shotgun) B.Hoyer pass incomplete short middle to C.Shorts.,10,3,0,HOU 20,0,HOU,
+19,3246,3,14:28,"(14:28) (Shotgun) B.Hoyer pass short right to C.Fiedorowicz for 5 yards, TOUCHDOWN.",1,4,80,ATL 5,1,HOU,TD
+19,3005,0,02:56,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback.",0,3,0,ATL 35,0,ATL,KICKOFF
+19,3142,1,01:10,(1:10) (Shotgun) B.Hoyer pass short left to K.Mumphery to ATL 31 for 8 yards (J.Bartu; A.Bradford).,10,3,49,ATL 39,0,HOU,
+19,3187,0,,END QUARTER 3,0,3,66,,0,,
+19,3094,2,01:55,(1:55) B.Hoyer pass short right to C.Shorts pushed ob at 50 for 10 yards (P.Adams).,6,3,30,HOU 40,0,HOU,
+19,3266,0,14:22,"N.Novak extra point is GOOD, Center-J.Weeks, Holder-S.Lechler.",0,4,80,ATL 15,1,HOU,XP
+19,3166,2,00:41,(:41) (Shotgun) C.Polk left tackle to ATL 14 for 17 yards (N.Stupar).,2,3,66,ATL 31,0,HOU,
+19,3046,2,02:53,(2:53) (Shotgun) B.Hoyer pass short right to D.Hopkins to HOU 36 for 16 yards (P.Adams).,10,3,16,HOU 20,0,HOU,
+18,2734,2,08:32,(8:32) T.Ward left end to ATL 41 for 9 yards (K.Johnson).,8,3,11,ATL 32,0,ATL,
+18,2713,1,09:13,(9:13) D.Freeman right tackle to ATL 32 for 2 yards (J.Clowney; B.McKinney).,10,3,2,ATL 30,0,ATL,
+18,2787,1,07:22,(7:22) (Shotgun) T.Ward right guard to ATL 32 for 1 yard (V.Wilfork; B.Cushing).,20,3,2,ATL 31,0,ATL,
+18,2898,1,04:47,"(4:47) T.Ward right guard to HOU 27 for 13 yards (K.Johnson). PENALTY on HOU-E.Pleasant, Unnecessary Roughness, 14 yards, enforced at HOU 27.",10,3,57,HOU 40,0,ATL,PENALTY
+18,2855,3,05:24,"(5:24) M.Ryan pass short right to L.Hankerson ran ob at HOU 40 for 15 yards (D.Morris). HOU-W.Mercilus was injured during the play. His return is Probable.  Penalty on HOU-E.Pleasant, Defensive Holding, declined.",6,3,30,ATL 45,0,ATL,
+18,2989,0,02:56,"M.Bryant extra point is GOOD, Center-J.Harris, Holder-M.Bosher.",0,3,70,HOU 15,1,ATL,XP
+18,2930,1,04:20,(4:20) T.Ward right guard to HOU 14 for -1 yards (J.Watt).,10,3,56,HOU 13,0,ATL,
+18,2951,2,03:37,(3:37) T.Ward left end ran ob at HOU 8 for 6 yards (K.Johnson).,11,3,62,HOU 14,0,ATL,
+18,2808,2,06:38,(6:38) M.Ryan pass short middle to T.Ward to 50 for 18 yards (B.Cushing; R.Moore).,19,3,20,ATL 32,0,ATL,
+18,2755,1,07:48,"(7:48) T.Ward right end to ATL 39 for -2 yards (A.Bouye). PENALTY on ATL-L.Toilolo, Offensive Holding, 10 yards, enforced at ATL 41 - No Play.",10,3,1,ATL 41,0,ATL,PENALTY
+18,2972,3,03:02,"(3:02) (Shotgun) T.Ward left guard for 8 yards, TOUCHDOWN.",5,3,70,HOU 8,1,ATL,TD
+18,2832,3,05:50,"(5:50) PENALTY on ATL-L.Toilolo, False Start, 5 yards, enforced at 50 - No Play.",1,3,15,50,0,ATL,PENALTY

@@ -1,209 +1,209 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1400,1,13:01,,10,2,0,NYG 11,0,NYG,
-9,1443,3,12:16,,9,2,1,NYG 12,0,NYG,
-9,1422,2,12:55,,10,2,1,NYG 11,0,NYG,
-9,1465,4,12:08,,9,2,1,NYG 12,0,NYG,PUNT
-24,4206,1,09:58,,10,4,39,NYG 28,0,PHI,
-24,4118,2,11:09,,1,4,32,NYG 42,0,PHI,
-24,4090,1,11:29,,10,4,46,PHI 49,0,PHI,
-24,4055,1,11:41,,10,4,23,PHI 26,0,PHI,PENALTY
-24,4161,1,10:35,,10,4,42,NYG 38,0,PHI,
-24,4225,2,09:31,,17,4,43,NYG 35,0,PHI,
-24,4246,3,08:56,,13,4,48,NYG 31,0,PHI,PENALTY
-24,4293,4,08:02,,3,4,53,NYG 21,1,PHI,FG
-24,4185,2,10:13,,4,4,46,NYG 32,0,PHI,
-24,4269,3,08:47,,8,4,53,NYG 26,0,PHI,
-24,4140,3,11:00,,1,4,39,NYG 42,0,PHI,
-24,4033,0,11:47,,0,4,0,NYG 35,0,NYG,KICKOFF
-10,1484,1,11:57,,10,2,0,PHI 38,0,PHI,INT
-20,3353,1,04:24,,10,3,11,PHI 20,0,PHI,
-20,3374,1,03:59,,10,3,14,PHI 31,0,PHI,
-20,3395,2,03:34,,7,3,17,PHI 34,0,PHI,
-20,3338,0,04:24,,0,3,0,NYG 35,0,NYG,KICKOFF
-20,3438,4,02:55,,4,3,17,PHI 37,0,PHI,PUNT
-20,3416,3,03:03,,4,3,17,PHI 37,0,PHI,
-6,1124,2,01:21,,10,1,32,PHI 47,0,PHI,
-6,1196,4,00:09,,9,1,28,PHI 48,0,PHI,PUNT
-6,1168,3,00:40,,10,1,28,PHI 47,0,PHI,
-6,1020,0,02:11,,0,1,0,NYG 35,0,NYG,KICKOFF
-6,1145,3,00:54,,5,1,27,NYG 48,0,PHI,PENALTY
-6,1078,3,01:45,,7,1,27,PHI 23,0,PHI,
-6,1056,2,01:51,,7,1,3,PHI 23,0,PHI,
-6,1035,1,02:11,,10,1,3,PHI 20,0,PHI,
-6,1102,1,01:26,,10,1,27,PHI 47,0,PHI,
-27,4587,2,03:10,,6,4,4,NYG 35,0,NYG,INT
-27,4566,1,03:45,,10,4,4,NYG 31,0,NYG,
-18,3064,2,08:03,,10,3,19,PHI 29,0,PHI,
-18,3107,4,07:25,,5,3,19,PHI 34,0,PHI,PUNT
-18,3085,3,07:34,,5,3,19,PHI 34,0,PHI,
-18,2997,1,08:45,,10,3,-1,PHI 15,0,PHI,
-18,3018,2,08:21,,11,3,14,PHI 14,0,PHI,
-18,3042,1,08:09,,10,3,14,PHI 29,0,PHI,
-28,4665,0,02:00,,0,4,7,,0,,
-28,4720,1,01:55,,7,4,10,NYG 7,0,PHI,
-28,4623,1,02:51,,10,4,0,NYG 18,0,PHI,
-28,4783,0,,,0,4,8,,0,,
-28,4762,3,00:35,,9,4,8,NYG 9,0,PHI,
-28,4644,2,02:10,,10,4,7,NYG 18,0,PHI,
-28,4703,0,01:55,,0,4,11,,0,,TIMEOUT
-28,4741,2,01:21,,8,4,9,NYG 8,0,PHI,
-28,4682,3,02:00,,3,4,11,NYG 11,0,PHI,
-26,4505,3,04:03,,18,4,9,PHI 8,0,PHI,
-26,4543,4,03:53,,1,4,9,PHI 25,0,PHI,PUNT
-26,4462,1,05:19,,10,4,-12,PHI 16,0,PHI,
-26,4481,2,04:40,,22,4,-8,PHI 4,0,PHI,
-26,4526,0,03:53,,0,4,9,,0,,TIMEOUT
-25,4393,2,06:09,,10,4,18,NYG 38,0,NYG,
-25,4312,0,07:56,,0,4,0,PHI 35,0,PHI,KICKOFF
-25,4372,1,06:47,,10,4,18,NYG 38,0,NYG,
-25,4348,2,07:20,,6,4,18,NYG 24,0,NYG,
-25,4327,1,07:56,,10,4,4,NYG 20,0,NYG,
-25,4415,3,06:02,,10,4,19,NYG 38,0,NYG,
-25,4439,4,05:28,,9,4,19,NYG 39,0,NYG,PUNT
-1,54,1,15:00,,10,1,6,NYG 20,0,NYG,
-1,190,0,12:11,,0,1,80,PHI 2,1,NYG,XP
-1,168,1,12:17,,1,1,80,PHI 1,1,NYG,TD
-1,144,1,12:41,,10,1,79,PHI 19,0,NYG,
-1,99,3,14:00,,1,1,18,NYG 29,0,NYG,
-1,120,1,13:25,,10,1,61,NYG 38,0,NYG,
-1,35,0,15:00,,0,1,0,PHI 35,0,PHI,KICKOFF
-1,78,2,14:35,,4,1,9,NYG 26,0,NYG,
-5,811,2,05:32,,6,1,5,NYG 24,0,NYG,
-5,787,1,06:12,,10,1,4,NYG 20,0,NYG,
-5,881,2,03:41,,2,1,38,PHI 45,0,NYG,
-5,907,1,03:31,,10,1,55,PHI 42,0,NYG,
-5,860,1,04:24,,10,1,60,NYG 47,0,NYG,
-5,957,2,02:26,,5,1,60,PHI 20,0,NYG,
-5,979,3,02:21,,5,1,60,PHI 20,0,NYG,
-5,768,0,06:12,,0,1,0,PHI 35,0,PHI,KICKOFF
-5,936,1,03:05,,10,1,60,PHI 25,0,NYG,
-5,836,3,04:50,,5,1,27,NYG 25,0,NYG,
-5,1001,4,02:16,,5,1,60,PHI 20,1,NYG,FG
-13,1932,1,04:10,,10,2,39,50,0,NYG,
-13,1908,3,04:48,,7,2,39,NYG 14,0,NYG,
-13,2088,2,02:18,,13,2,71,PHI 13,0,NYG,
-13,1954,0,04:00,,0,2,39,,0,,TIMEOUT
-13,1880,2,04:58,,7,2,0,NYG 14,0,NYG,
-13,2031,1,02:53,,3,2,86,PHI 3,0,NYG,
-13,1859,1,05:29,,10,2,3,NYG 11,0,NYG,
-13,1971,2,04:00,,10,2,61,50,0,NYG,PENALTY
-13,2110,3,02:12,,13,2,76,PHI 13,0,NYG,
-13,2055,2,02:22,,3,2,76,PHI 3,0,NYG,PENALTY
-13,2132,4,02:06,,13,2,71,PHI 13,0,NYG,PENALTY
-13,2007,1,03:38,,10,2,86,PHI 28,0,NYG,
-13,2161,4,02:06,,18,2,71,PHI 18,1,NYG,FG
-21,3531,1,01:21,,10,3,15,NYG 35,0,NYG,
-21,3485,2,02:10,,5,3,15,NYG 25,0,NYG,
-21,3638,4,00:20,,6,3,19,NYG 39,0,NYG,PUNT
-21,3461,1,02:47,,10,3,5,NYG 20,0,NYG,
-21,3574,0,00:38,,0,3,15,,0,,TIMEOUT
-21,3507,3,02:00,,5,3,15,NYG 25,0,NYG,
-21,3614,3,00:38,,10,3,19,NYG 35,0,NYG,
-21,3552,2,00:52,,10,3,15,NYG 35,0,NYG,
-23,4017,0,11:47,,0,4,80,PHI 2,1,NYG,XP
-23,3916,2,12:55,,10,4,0,NYG 20,0,NYG,
-23,3997,2,12:00,,6,4,80,NYG 37,1,NYG,TD
-23,3938,3,12:48,,10,4,13,NYG 20,0,NYG,
-23,3973,1,12:40,,10,4,17,NYG 33,0,NYG,
-23,3872,0,13:08,,0,4,0,PHI 35,0,PHI,KICKOFF
-23,3894,1,13:02,,10,4,0,NYG 20,0,NYG,
-11,1623,2,09:37,,10,2,41,PHI 20,0,NYG,
-11,1510,1,11:46,,10,2,0,PHI 49,0,NYG,
-11,1532,2,11:36,,10,2,14,PHI 49,0,NYG,
-11,1647,1,08:57,,8,2,45,PHI 8,0,NYG,
-11,1668,2,08:17,,4,2,47,PHI 4,0,NYG,
-11,1689,3,07:35,,2,2,47,PHI 2,0,NYG,
-11,1556,1,11:06,,10,2,17,PHI 35,0,NYG,
-11,1577,2,10:30,,7,2,29,PHI 32,0,NYG,
-11,1711,4,07:29,,2,2,47,PHI 2,1,NYG,FG
-11,1601,1,09:43,,10,2,29,PHI 20,0,NYG,
-14,2240,1,01:56,,10,2,39,PHI 39,0,PHI,
-14,2287,3,01:06,,16,2,33,PHI 33,0,PHI,
-14,2332,2,00:32,,4,2,49,NYG 41,0,PHI,
-14,2356,0,00:25,,0,2,49,,0,,TIMEOUT
-14,2436,1,00:12,,9,2,71,NYG 9,0,PHI,
-14,2419,0,00:12,,0,2,71,,0,,TIMEOUT
-14,2507,3,00:02,,14,2,66,NYG 14,1,PHI,FG
-14,2223,0,01:56,,0,2,19,,0,,
-14,2180,0,02:02,,0,2,0,NYG 35,0,NYG,KICKOFF
-14,2481,2,00:08,,14,2,66,NYG 14,0,PHI,
-14,2199,1,02:02,,10,2,19,PHI 20,0,PHI,
-14,2264,2,01:38,,7,2,13,PHI 42,0,PHI,
-14,2373,1,00:25,,10,2,49,NYG 31,0,PHI,
-14,2395,2,00:21,,10,2,71,NYG 31,0,PHI,
-14,2458,2,00:08,,9,2,66,NYG 9,0,PHI,PENALTY
-14,2311,1,00:39,,10,2,39,NYG 47,0,PHI,
-8,1314,1,14:01,,10,2,4,PHI 43,0,PHI,
-8,1338,2,13:39,,6,2,7,PHI 47,0,PHI,
-8,1381,4,13:08,,3,2,7,50,0,PHI,PUNT
-8,1359,3,13:15,,3,2,7,50,0,PHI,
-19,3319,4,04:32,,11,3,46,PHI 35,1,NYG,FG
-19,3295,3,04:50,,20,3,46,PHI 44,0,NYG,
-19,3130,1,07:16,,10,3,6,NYG 19,0,NYG,
-19,3172,3,06:03,,2,3,32,NYG 27,0,NYG,
-19,3220,1,05:10,,10,3,37,PHI 34,0,NYG,PENALTY
-19,3151,2,06:44,,4,3,8,NYG 25,0,NYG,
-19,3196,1,05:53,,10,3,47,PHI 49,0,NYG,
-19,3251,1,05:02,,20,3,37,PHI 44,0,NYG,
-19,3273,2,04:57,,20,3,37,PHI 44,0,NYG,
-22,3748,1,14:21,,10,4,51,NYG 22,0,PHI,
-22,3663,1,00:07,,10,3,7,PHI 35,0,PHI,
-22,3724,1,14:47,,10,4,43,NYG 37,0,PHI,
-22,3839,3,13:09,,1,4,65,NYG 1,1,PHI,TD
-22,3793,1,13:34,,9,4,56,NYG 9,0,PHI,
-22,3856,0,13:08,,0,4,65,NYG 2,1,PHI,XP
-22,3703,2,15:00,,3,4,28,PHI 42,0,PHI,
-22,3772,2,13:56,,2,4,56,NYG 14,0,PHI,
-22,3815,2,13:32,,9,4,64,NYG 9,0,PHI,
-22,3687,0,,,0,3,7,,0,,
-12,1730,0,07:26,,0,2,0,NYG 35,0,NYG,KICKOFF
-12,1752,1,07:19,,10,2,25,PHI 24,0,PHI,
-12,1816,3,06:07,,9,2,31,50,0,PHI,
-12,1797,2,06:41,,7,2,26,NYG 48,0,PHI,
-12,1840,4,05:36,,4,2,31,NYG 45,0,PHI,PUNT
-12,1776,1,07:07,,10,2,28,PHI 49,0,PHI,
-16,2656,1,13:56,,10,3,-1,NYG 28,0,NYG,
-16,2698,3,12:45,,11,3,-1,NYG 27,0,NYG,
-16,2677,2,13:22,,11,3,-1,NYG 27,0,NYG,
-16,2720,4,12:34,,11,3,-1,NYG 27,1,NYG,TD
-7,1231,1,15:00,,10,2,5,NYG 10,0,NYG,
-7,1274,3,14:15,,5,2,5,NYG 15,0,NYG,
-7,1296,4,14:10,,5,2,5,NYG 15,0,NYG,PUNT
-7,1252,2,14:26,,5,2,5,NYG 15,0,NYG,
-3,505,4,08:46,,9,1,14,NYG 38,0,NYG,PUNT
-3,436,1,09:33,,10,1,14,NYG 37,0,NYG,
-3,333,0,11:00,,0,1,14,PHI 35,0,PHI,FUMBLE
-3,412,3,10:16,,13,1,13,NYG 21,0,NYG,
-3,483,3,08:51,,9,1,14,NYG 38,0,NYG,
-3,457,2,08:57,,9,1,14,NYG 38,0,NYG,
-3,390,2,10:26,,13,1,-3,NYG 21,0,NYG,
-3,369,1,10:52,,10,1,-3,NYG 24,0,NYG,
-17,2869,1,11:00,,10,3,15,PHI 48,0,NYG,PENALTY
-17,2842,1,11:40,,10,3,33,NYG 34,0,NYG,
-17,2818,1,12:21,,10,3,30,NYG 19,0,NYG,
-17,2901,2,10:31,,28,3,19,NYG 34,0,NYG,
-17,2796,0,12:21,,0,3,15,PHI 35,0,PHI,KICKOFF
-17,2972,4,08:58,,13,3,30,NYG 49,0,NYG,PUNT
-17,2948,3,09:27,,29,3,30,NYG 33,0,NYG,
-17,2925,3,09:45,,24,3,14,NYG 38,0,NYG,PENALTY
-4,594,3,08:02,,7,1,13,PHI 28,0,PHI,
-4,629,1,07:53,,10,1,28,PHI 38,0,PHI,
-4,550,2,08:30,,10,1,74,PHI 25,0,PHI,PENALTY
-4,690,1,07:20,,6,1,74,NYG 6,0,PHI,
-4,711,2,07:02,,1,1,75,NYG 1,0,PHI,
-4,752,0,06:12,,0,1,75,NYG 2,1,PHI,XP
-4,573,2,08:30,,15,1,3,PHI 20,0,PHI,
-4,650,1,07:28,,10,1,75,NYG 47,0,PHI,PENALTY
-4,528,1,08:38,,10,1,0,PHI 25,0,PHI,
-4,732,3,06:21,,1,1,75,NYG 1,1,PHI,TD
-2,206,0,12:11,,0,1,0,NYG 35,0,NYG,KICKOFF
-2,225,1,12:11,,10,1,80,PHI 20,0,PHI,
-2,317,0,11:00,,0,1,80,NYG 2,1,PHI,XP
-2,276,1,11:32,,15,1,36,PHI 33,0,PHI,
-2,297,1,11:10,,10,1,80,NYG 44,1,PHI,TD
-2,253,1,11:48,,10,1,80,PHI 38,0,PHI,PENALTY
-15,2540,0,15:00,,0,3,0,NYG 35,0,NYG,KICKOFF
-15,2609,3,14:22,,2,3,9,PHI 28,0,PHI,
-15,2580,2,14:38,,8,3,8,PHI 22,0,PHI,
-15,2633,4,14:05,,1,3,9,PHI 29,0,PHI,PUNT
-15,2559,1,15:00,,10,3,2,PHI 20,0,PHI,
+24,4055,1,11:41,"(11:41) (Shotgun) M.Sanchez pass short right to D.Sproles to PHI 34 for 8 yards (A.Rolle). PENALTY on NYG-A.Rolle, Face Mask (15 Yards), 15 yards, enforced at PHI 34.",10,4,23,PHI 26,0,PHI,PENALTY
+24,4090,1,11:29,"(11:29) (Shotgun) M.Sanchez pass short middle to Z.Ertz to NYG 42 for 9 yards (A.Rolle, J.McClain).",10,4,46,PHI 49,0,PHI,
+24,4161,1,10:35,"(10:35) (No Huddle, Shotgun) M.Sanchez pass short left to J.Huff to NYG 32 for 6 yards (C.Brown).",10,4,42,NYG 38,0,PHI,
+24,4246,3,08:56,"(8:56) PENALTY on NYG-C.Brown, Encroachment, 5 yards, enforced at NYG 31 - No Play.",13,4,48,NYG 31,0,PHI,PENALTY
+24,4269,3,08:47,"(8:47) (No Huddle, Shotgun) M.Sanchez pass short right to J.Matthews to NYG 21 for 5 yards (J.McClain, Z.Bowman).",8,4,53,NYG 26,0,PHI,
+24,4185,2,10:13,"(10:13) (No Huddle, Shotgun) L.McCoy right guard to NYG 28 for 4 yards (A.Rolle).",4,4,46,NYG 32,0,PHI,
+24,4140,3,11:00,(11:00) (Shotgun) L.McCoy up the middle to NYG 38 for 4 yards (K.Wynn).,1,4,39,NYG 42,0,PHI,
+24,4293,4,08:02,"(8:02) C.Parkey 39 yard field goal is GOOD, Center-J.Dorenbos, Holder-D.Jones.",3,4,53,NYG 21,1,PHI,FG
+24,4033,0,11:47,"J.Brown kicks 50 yards from NYG 35 to PHI 15. J.Casey to PHI 26 for 11 yards (S.Paysinger, O.Darkwa).",0,4,0,NYG 35,0,NYG,KICKOFF
+24,4225,2,09:31,"(9:31) (No Huddle, Shotgun) C.Polk up the middle to NYG 31 for 4 yards (M.Harris, J.McClain).",17,4,43,NYG 35,0,PHI,
+24,4206,1,09:58,(9:58) (Shotgun) M.Sanchez sacked at NYG 35 for -7 yards (M.Kuhn).,10,4,39,NYG 28,0,PHI,
+24,4118,2,11:09,"(11:09) (No Huddle, Shotgun) M.Sanchez pass incomplete deep right to J.Maclin.",1,4,32,NYG 42,0,PHI,
+25,4312,0,07:56,"C.Parkey kicks 65 yards from PHI 35 to end zone, Touchback.",0,4,0,PHI 35,0,PHI,KICKOFF
+25,4415,3,06:02,"(6:02) (No Huddle, Shotgun) E.Manning pass short middle to R.Jennings to NYG 39 for 1 yard (M.Kendricks).",10,4,19,NYG 38,0,NYG,
+25,4393,2,06:09,"(6:09) (No Huddle, Shotgun) E.Manning pass incomplete short right to P.Parker (B.Boykin).",10,4,18,NYG 38,0,NYG,
+25,4327,1,07:56,"(7:56) (Shotgun) A.Williams up the middle to NYG 24 for 4 yards (E.Acho, F.Cox).",10,4,4,NYG 20,0,NYG,
+25,4348,2,07:20,"(7:20) (No Huddle, Shotgun) E.Manning pass short left to A.Williams to NYG 38 for 14 yards (M.Kendricks).",6,4,18,NYG 24,0,NYG,
+25,4372,1,06:47,(6:47) (No Huddle) R.Jennings left end to NYG 38 for no gain (F.Cox).,10,4,18,NYG 38,0,NYG,
+25,4439,4,05:28,"(5:28) S.Weatherford punts 45 yards to PHI 16, Center-Z.DeOssie, fair catch by D.Sproles.",9,4,19,NYG 39,0,NYG,PUNT
+26,4505,3,04:03,(4:03) (Shotgun) C.Polk up the middle to PHI 25 for 17 yards (Q.Demps).,18,4,9,PHI 8,0,PHI,
+26,4526,0,03:53,Timeout #2 by NYG at 03:53.,0,4,9,,0,,TIMEOUT
+26,4543,4,03:53,"(3:53) D.Jones punts 44 yards to NYG 31, Center-J.Dorenbos, fair catch by R.Randle.",1,4,9,PHI 25,0,PHI,PUNT
+26,4462,1,05:19,(5:19) (Shotgun) M.Sanchez sacked at PHI 4 for -12 yards (J.Pierre-Paul).,10,4,-12,PHI 16,0,PHI,
+26,4481,2,04:40,"(4:40) (No Huddle, Shotgun) L.McCoy left tackle to PHI 8 for 4 yards (M.Harris, M.Herzlich). PHI-L.McCoy was injured during the play.",22,4,-8,PHI 4,0,PHI,
+27,4587,2,03:10,"(3:10) (No Huddle, Shotgun) E.Manning pass deep left intended for R.Randle INTERCEPTED by N.Allen at PHI 42. N.Allen ran ob at NYG 18 for 40 yards (P.Parker).",6,4,4,NYG 35,0,NYG,INT
+27,4566,1,03:45,"(3:45) (Shotgun) R.Jennings left guard to NYG 35 for 4 yards (M.Kendricks, T.Cole).",10,4,4,NYG 31,0,NYG,
+20,3438,4,02:55,"(2:55) D.Jones punts 43 yards to NYG 20, Center-J.Dorenbos, fair catch by R.Randle.",4,3,17,PHI 37,0,PHI,PUNT
+20,3395,2,03:34,"(3:34) (No Huddle, Shotgun) M.Sanchez scrambles right end to PHI 37 for 3 yards (A.Rolle).",7,3,17,PHI 34,0,PHI,
+20,3374,1,03:59,(3:59) (No Huddle) L.McCoy right tackle to PHI 34 for 3 yards (M.Herzlich).,10,3,14,PHI 31,0,PHI,
+20,3416,3,03:03,(3:03) (No Huddle) M.Sanchez pass incomplete deep middle to J.Huff.,4,3,17,PHI 37,0,PHI,
+20,3353,1,04:24,(4:24) (Shotgun) L.McCoy left guard to PHI 31 for 11 yards (M.Herzlich).,10,3,11,PHI 20,0,PHI,
+20,3338,0,04:24,"J.Brown kicks 65 yards from NYG 35 to end zone, Touchback.",0,3,0,NYG 35,0,NYG,KICKOFF
+21,3614,3,00:38,(:38) (Shotgun) E.Manning pass short left to R.Jennings to NYG 39 for 4 yards (M.Jenkins).,10,3,19,NYG 35,0,NYG,
+21,3552,2,00:52,"(:52) (No Huddle, Shotgun) E.Manning pass incomplete deep right to O.Beckham (J.Watkins).",10,3,15,NYG 35,0,NYG,
+21,3461,1,02:47,(2:47) (Shotgun) E.Manning pass short left to A.Williams to NYG 25 for 5 yards (B.Graham).,10,3,5,NYG 20,0,NYG,
+21,3574,0,00:38,Timeout #1 by NYG at 00:38.,0,3,15,,0,,TIMEOUT
+21,3485,2,02:10,"(2:10) (No Huddle, Shotgun) E.Manning pass incomplete deep middle to O.Beckham (M.Jenkins).",5,3,15,NYG 25,0,NYG,
+21,3507,3,02:00,"(2:00) (No Huddle, Shotgun) E.Manning pass short right to L.Donnell to NYG 35 for 10 yards (M.Jenkins).",5,3,15,NYG 25,0,NYG,
+21,3531,1,01:21,(1:21) (No Huddle) A.Williams left tackle to NYG 35 for no gain (B.Logan).,10,3,15,NYG 35,0,NYG,
+21,3638,4,00:20,"(:20) S.Weatherford punts 39 yards to PHI 22, Center-Z.DeOssie. D.Sproles to PHI 35 for 13 yards (D.Moore, Z.DeOssie).",6,3,19,NYG 39,0,NYG,PUNT
+22,3772,2,13:56,"(13:56) (No Huddle, Shotgun) C.Polk up the middle to NYG 9 for 5 yards (J.Pierre-Paul, C.Brown).",2,4,56,NYG 14,0,PHI,
+22,3663,1,00:07,"(:07) (Shotgun) M.Sanchez pass short left to J.Matthews pushed ob at PHI 42 for 7 yards (M.Harris, C.Brown).",10,3,7,PHI 35,0,PHI,
+22,3748,1,14:21,"(14:21) (No Huddle, Shotgun) M.Sanchez pass short middle to J.Matthews to NYG 14 for 8 yards (J.McClain, M.Herzlich).",10,4,51,NYG 22,0,PHI,
+22,3815,2,13:32,"(13:32) (No Huddle, Shotgun) M.Sanchez pass short middle to J.Matthews to NYG 1 for 8 yards (M.Harris) [J.Hankins].",9,4,64,NYG 9,0,PHI,
+22,3687,0,,END QUARTER 3,0,3,7,,0,,
+22,3839,3,13:09,"(13:09) C.Polk up the middle for 1 yard, TOUCHDOWN.",1,4,65,NYG 1,1,PHI,TD
+22,3793,1,13:34,"(13:34) (No Huddle, Shotgun) M.Sanchez pass incomplete short left to C.Polk.",9,4,56,NYG 9,0,PHI,
+22,3856,0,13:08,"C.Parkey extra point is GOOD, Center-J.Dorenbos, Holder-D.Jones.",0,4,65,NYG 2,1,PHI,XP
+22,3724,1,14:47,"(14:47) (No Huddle, Shotgun) M.Sanchez pass short left to L.McCoy pushed ob at NYG 22 for 15 yards (J.McClain).",10,4,43,NYG 37,0,PHI,
+22,3703,2,15:00,(15:00) L.McCoy right end pushed ob at NYG 37 for 21 yards (Q.Demps).,3,4,28,PHI 42,0,PHI,
+23,3916,2,12:55,(12:55) (Shotgun) E.Manning pass incomplete deep middle to L.Donnell.,10,4,0,NYG 20,0,NYG,
+23,3938,3,12:48,"(12:48) (Shotgun) E.Manning pass short right to P.Parker to NYG 33 for 13 yards (B.Boykin). Penalty on PHI-B.Boykin, Illegal Contact, declined.",10,4,13,NYG 20,0,NYG,
+23,3872,0,13:08,C.Parkey kicks 65 yards from PHI 35 to NYG 0. P.Parker to NYG 20 for 20 yards (B.Graham).,0,4,0,PHI 35,0,PHI,KICKOFF
+23,4017,0,11:47,"J.Brown extra point is GOOD, Center-Z.DeOssie, Holder-S.Weatherford.",0,4,80,PHI 2,1,NYG,XP
+23,3973,1,12:40,"(12:40) (No Huddle, Shotgun) E.Manning pass short right to O.Beckham to NYG 37 for 4 yards (J.Watkins, C.Barwin).",10,4,17,NYG 33,0,NYG,
+23,3997,2,12:00,"(12:00) (No Huddle, Shotgun) E.Manning pass deep right to O.Beckham for 63 yards, TOUCHDOWN.",6,4,80,NYG 37,1,NYG,TD
+23,3894,1,13:02,(13:02) E.Manning pass incomplete short middle to R.Randle.,10,4,0,NYG 20,0,NYG,
+28,4682,3,02:00,(2:00) C.Polk up the middle to NYG 7 for 4 yards (Z.Bowman).,3,4,11,NYG 11,0,PHI,
+28,4665,0,02:00,Two-Minute Warning,0,4,7,,0,,
+28,4741,2,01:21,(1:21) M.Sanchez kneels to NYG 9 for -1 yards.,8,4,9,NYG 8,0,PHI,
+28,4783,0,,END GAME,0,4,8,,0,,
+28,4720,1,01:55,(1:55) M.Sanchez kneels to NYG 8 for -1 yards.,7,4,10,NYG 7,0,PHI,
+28,4644,2,02:10,"(2:10) C.Polk up the middle to NYG 11 for 7 yards (Q.Demps, C.Brown).",10,4,7,NYG 18,0,PHI,
+28,4623,1,02:51,"(2:51) (Shotgun) C.Polk up the middle to NYG 18 for no gain (M.Patterson, C.Jenkins).",10,4,0,NYG 18,0,PHI,
+28,4703,0,01:55,Timeout #3 by NYG at 01:55.,0,4,11,,0,,TIMEOUT
+28,4762,3,00:35,(:35) M.Sanchez kneels to NYG 10 for -1 yards.,9,4,8,NYG 9,0,PHI,
+1,120,1,13:25,"(13:25) (No Huddle, Shotgun) E.Manning pass deep left to R.Randle to PHI 19 for 43 yards (N.Carroll) [C.Barwin].",10,1,61,NYG 38,0,NYG,
+1,144,1,12:41,"(12:41) (No Huddle, Shotgun) E.Manning pass deep left to R.Randle to PHI 1 for 18 yards (N.Carroll).",10,1,79,PHI 19,0,NYG,
+1,54,1,15:00,(15:00) (Shotgun) E.Manning pass short left to O.Beckham to NYG 26 for 6 yards (N.Allen).,10,1,6,NYG 20,0,NYG,
+1,190,0,12:11,"J.Brown extra point is GOOD, Center-Z.DeOssie, Holder-S.Weatherford.",0,1,80,PHI 2,1,NYG,XP
+1,35,0,15:00,"C.Parkey kicks 65 yards from PHI 35 to end zone, Touchback.",0,1,0,PHI 35,0,PHI,KICKOFF
+1,99,3,14:00,"(14:00) (No Huddle, Shotgun) A.Williams left tackle to NYG 38 for 9 yards (M.Kendricks).",1,1,18,NYG 29,0,NYG,
+1,168,1,12:17,"(12:17) (No Huddle) A.Williams up the middle for 1 yard, TOUCHDOWN.",1,1,80,PHI 1,1,NYG,TD
+1,78,2,14:35,(14:35) A.Williams right guard to NYG 29 for 3 yards (B.Logan).,4,1,9,NYG 26,0,NYG,
+3,333,0,11:00,"C.Parkey kicks 70 yards from PHI 35 to NYG -5. P.Parker to NYG 20 for 25 yards (C.Maragos). FUMBLES (C.Maragos), recovered by NYG-M.Herzlich at NYG 23. M.Herzlich to NYG 24 for 1 yard (B.Smith). NYG-N.Berhe was injured during the play. He is Out.",0,1,14,PHI 35,0,PHI,FUMBLE
+3,457,2,08:57,"(8:57) (No Huddle, Shotgun) E.Manning pass incomplete short left to R.Randle [C.Matthews].",9,1,14,NYG 38,0,NYG,
+3,390,2,10:26,(10:26) (No Huddle) E.Manning pass incomplete deep right to O.Beckham (C.Williams).,13,1,-3,NYG 21,0,NYG,
+3,412,3,10:16,"(10:16) (No Huddle, Shotgun) E.Manning pass short middle to R.Jennings to NYG 37 for 16 yards (N.Allen).",13,1,13,NYG 21,0,NYG,
+3,369,1,10:52,(10:52) R.Jennings up the middle to NYG 21 for -3 yards (B.Logan).,10,1,-3,NYG 24,0,NYG,
+3,436,1,09:33,"(9:33) (No Huddle) R.Jennings right guard to NYG 38 for 1 yard (F.Cox, C.Matthews).",10,1,14,NYG 37,0,NYG,
+3,505,4,08:46,"(8:46) S.Weatherford punts 37 yards to PHI 25, Center-Z.DeOssie, fair catch by D.Sproles.",9,1,14,NYG 38,0,NYG,PUNT
+3,483,3,08:51,"(8:51) (No Huddle, Shotgun) E.Manning pass incomplete short middle to O.Beckham.",9,1,14,NYG 38,0,NYG,
+2,206,0,12:11,"J.Brown kicks 65 yards from NYG 35 to end zone, Touchback.",0,1,0,NYG 35,0,NYG,KICKOFF
+2,317,0,11:00,"C.Parkey extra point is GOOD, Center-J.Dorenbos, Holder-D.Jones.",0,1,80,NYG 2,1,PHI,XP
+2,276,1,11:32,"(11:32) (No Huddle, Shotgun) L.McCoy right end to NYG 44 for 23 yards (S.Brown).",15,1,36,PHI 33,0,PHI,
+2,297,1,11:10,"(11:10) (No Huddle, Shotgun) M.Sanchez pass short right to J.Matthews for 44 yards, TOUCHDOWN.",10,1,80,NYG 44,1,PHI,TD
+2,253,1,11:48,"(11:48) (No Huddle, Shotgun) PENALTY on PHI-A.Gardner, False Start, 5 yards, enforced at PHI 38 - No Play.",10,1,80,PHI 38,0,PHI,PENALTY
+2,225,1,12:11,"(12:11) (Shotgun) M.Sanchez pass short middle to Z.Ertz to PHI 38 for 18 yards (M.Harris, S.Brown).",10,1,80,PHI 20,0,PHI,
+5,768,0,06:12,"C.Parkey kicks 65 yards from PHI 35 to end zone, Touchback.",0,1,0,PHI 35,0,PHI,KICKOFF
+5,787,1,06:12,(6:12) (Shotgun) E.Manning pass short right to O.Beckham to NYG 24 for 4 yards (N.Carroll).,10,1,4,NYG 20,0,NYG,
+5,836,3,04:50,"(4:50) (No Huddle, Shotgun) E.Manning pass deep right to O.Beckham pushed ob at NYG 47 for 22 yards (C.Williams).",5,1,27,NYG 25,0,NYG,
+5,907,1,03:31,(3:31) (No Huddle) E.Manning pass short right to O.Beckham pushed ob at PHI 25 for 17 yards (N.Carroll).,10,1,55,PHI 42,0,NYG,
+5,860,1,04:24,"(4:24) (No Huddle, Shotgun) A.Williams left tackle to PHI 45 for 8 yards (M.Jenkins, E.Acho).",10,1,60,NYG 47,0,NYG,
+5,881,2,03:41,(3:41) R.Jennings left end pushed ob at PHI 42 for 3 yards (C.Williams).,2,1,38,PHI 45,0,NYG,
+5,957,2,02:26,"(2:26) (No Huddle, Shotgun) E.Manning pass incomplete short right to R.Randle.",5,1,60,PHI 20,0,NYG,
+5,979,3,02:21,"(2:21) (No Huddle, Shotgun) E.Manning pass incomplete deep middle to L.Donnell (N.Carroll).",5,1,60,PHI 20,0,NYG,
+5,811,2,05:32,(5:32) A.Williams left guard to NYG 25 for 1 yard (B.Bair).,6,1,5,NYG 24,0,NYG,
+5,936,1,03:05,(3:05) (No Huddle) R.Jennings right tackle to PHI 20 for 5 yards (B.Graham).,10,1,60,PHI 25,0,NYG,
+5,1001,4,02:16,"(2:16) J.Brown 38 yard field goal is GOOD, Center-Z.DeOssie, Holder-S.Weatherford.",5,1,60,PHI 20,1,NYG,FG
+4,752,0,06:12,"C.Parkey extra point is GOOD, Center-J.Dorenbos, Holder-D.Jones.",0,1,75,NYG 2,1,PHI,XP
+4,690,1,07:20,(7:20) (Shotgun) L.McCoy right guard to NYG 1 for 5 yards (A.Rolle).,6,1,74,NYG 6,0,PHI,
+4,594,3,08:02,"(8:02) (No Huddle, Shotgun) M.Sanchez pass short middle to Z.Ertz to PHI 38 for 10 yards (M.Harris). Penalty on NYG-C.Brown, Illegal Use of Hands, declined.",7,1,13,PHI 28,0,PHI,
+4,573,2,08:30,"(8:30) (No Huddle, Shotgun) L.McCoy left end to PHI 28 for 8 yards (M.Harris).",15,1,3,PHI 20,0,PHI,
+4,629,1,07:53,"(7:53) (No Huddle, Shotgun) M.Sanchez right end to NYG 47 for 15 yards (S.Brown).",10,1,28,PHI 38,0,PHI,
+4,550,2,08:30,"(8:30) (No Huddle, Shotgun) PENALTY on PHI-Z.Ertz, False Start, 5 yards, enforced at PHI 25 - No Play.",10,1,74,PHI 25,0,PHI,PENALTY
+4,711,2,07:02,"(7:02) (No Huddle, Shotgun) L.McCoy right guard to NYG 1 for no gain (M.Harris).",1,1,75,NYG 1,0,PHI,
+4,732,3,06:21,"(6:21) (No Huddle, Shotgun) M.Sanchez pass short right to B.Celek for 1 yard, TOUCHDOWN.",1,1,75,NYG 1,1,PHI,TD
+4,650,1,07:28,"(7:28) (No Huddle, Shotgun) M.Sanchez pass deep middle intended for R.Cooper INTERCEPTED by S.Brown [M.Herzlich] at NYG 9. S.Brown to NYG 11 for 2 yards (R.Cooper). NYG-S.Brown was injured during the play. He is Out.  PENALTY on NYG-C.Brown, Defensive Pass Interference, 41 yards, enforced at NYG 47 - No Play.",10,1,75,NYG 47,0,PHI,PENALTY
+4,528,1,08:38,(8:38) (Shotgun) M.Sanchez pass incomplete deep middle to R.Cooper.,10,1,0,PHI 25,0,PHI,
+7,1274,3,14:15,(14:15) (Shotgun) E.Manning pass incomplete short middle to L.Donnell.,5,2,5,NYG 15,0,NYG,
+7,1296,4,14:10,"(14:10) S.Weatherford punts 42 yards to PHI 43, Center-Z.DeOssie, out of bounds.",5,2,5,NYG 15,0,NYG,PUNT
+7,1252,2,14:26,(14:26) E.Manning pass incomplete deep middle to A.Robinson.,5,2,5,NYG 15,0,NYG,
+7,1231,1,15:00,"(15:00) R.Jennings up the middle to NYG 15 for 5 yards (F.Cox, M.Kendricks).",10,2,5,NYG 10,0,NYG,
+6,1020,0,02:11,"J.Brown kicks 65 yards from NYG 35 to end zone, Touchback.",0,1,0,NYG 35,0,NYG,KICKOFF
+6,1078,3,01:45,"(1:45) (No Huddle, Shotgun) M.Sanchez pass short middle to J.Matthews ran ob at PHI 47 for 24 yards (C.Brown).",7,1,27,PHI 23,0,PHI,
+6,1056,2,01:51,"(1:51) (No Huddle, Shotgun) M.Sanchez pass incomplete short right to J.Maclin.",7,1,3,PHI 23,0,PHI,
+6,1168,3,00:40,"(:40) (No Huddle, Shotgun) M.Sanchez scrambles left end to PHI 48 for 1 yard (D.Moore).",10,1,28,PHI 47,0,PHI,
+6,1145,3,00:54,"(:54) (No Huddle, Shotgun) PENALTY on PHI-J.Maclin, False Start, 5 yards, enforced at NYG 48 - No Play.",5,1,27,NYG 48,0,PHI,PENALTY
+6,1124,2,01:21,"(1:21) (No Huddle, Shotgun) D.Sproles right tackle to NYG 48 for 5 yards (J.McClain, M.Kuhn).",10,1,32,PHI 47,0,PHI,
+6,1196,4,00:09,"(:09) D.Jones punts 42 yards to NYG 10, Center-J.Dorenbos, fair catch by R.Randle.",9,1,28,PHI 48,0,PHI,PUNT
+6,1102,1,01:26,"(1:26) (No Huddle, Shotgun) M.Sanchez pass incomplete short left to J.Matthews (C.Brown).",10,1,27,PHI 47,0,PHI,
+6,1035,1,02:11,(2:11) (Shotgun) L.McCoy left tackle to PHI 23 for 3 yards (J.Hankins).,10,1,3,PHI 20,0,PHI,
+9,1465,4,12:08,"(12:08) S.Weatherford punts 50 yards to PHI 38, Center-Z.DeOssie, downed by NYG-C.Fenner.",9,2,1,NYG 12,0,NYG,PUNT
+9,1422,2,12:55,"(12:55) A.Williams left tackle to NYG 12 for 1 yard (F.Cox, B.Logan).",10,2,1,NYG 11,0,NYG,
+9,1400,1,13:01,(13:01) (Shotgun) E.Manning pass incomplete short right to O.Beckham (B.Boykin).,10,2,0,NYG 11,0,NYG,
+9,1443,3,12:16,"(12:16) (No Huddle, Shotgun) E.Manning pass incomplete short left to R.Randle.",9,2,1,NYG 12,0,NYG,
+8,1359,3,13:15,"(13:15) (No Huddle, Shotgun) M.Sanchez pass incomplete short middle to D.Sproles.",3,2,7,50,0,PHI,
+8,1314,1,14:01,"(14:01) (Shotgun) M.Sanchez pass short right to J.Maclin to PHI 47 for 4 yards (M.Herzlich, J.Pierre-Paul).",10,2,4,PHI 43,0,PHI,
+8,1338,2,13:39,"(13:39) (No Huddle, Shotgun) L.McCoy left tackle to 50 for 3 yards (M.Kuhn, M.Patterson).",6,2,7,PHI 47,0,PHI,
+8,1381,4,13:08,"(13:08) D.Jones punts 39 yards to NYG 11, Center-J.Dorenbos, fair catch by R.Randle.",3,2,7,50,0,PHI,PUNT
+11,1623,2,09:37,"(9:37) (No Huddle, Shotgun) E.Manning pass short middle to O.Beckham to PHI 8 for 12 yards (V.Curry).",10,2,41,PHI 20,0,NYG,
+11,1647,1,08:57,"(8:57) A.Williams right tackle to PHI 4 for 4 yards (C.Thornton, E.Acho).",8,2,45,PHI 8,0,NYG,
+11,1556,1,11:06,(11:06) (No Huddle) A.Williams right tackle to PHI 32 for 3 yards (T.Cole).,10,2,17,PHI 35,0,NYG,
+11,1601,1,09:43,(9:43) (Shotgun) E.Manning pass incomplete deep right to L.Donnell.,10,2,29,PHI 20,0,NYG,
+11,1711,4,07:29,"(7:29) J.Brown 20 yard field goal is GOOD, Center-Z.DeOssie, Holder-S.Weatherford.",2,2,47,PHI 2,1,NYG,FG
+11,1532,2,11:36,(11:36) (Shotgun) E.Manning pass short middle to O.Beckham to PHI 35 for 14 yards (M.Jenkins).,10,2,14,PHI 49,0,NYG,
+11,1668,2,08:17,"(8:17) A.Williams right tackle to PHI 2 for 2 yards (T.Cole, F.Cox).",4,2,47,PHI 4,0,NYG,
+11,1689,3,07:35,(7:35) (Shotgun) E.Manning pass incomplete short left to O.Beckham (B.Boykin) [C.Barwin].,2,2,47,PHI 2,0,NYG,
+11,1577,2,10:30,"(10:30) (No Huddle, Shotgun) E.Manning pass short left to R.Randle to PHI 20 for 12 yards (C.Williams, E.Acho).",7,2,29,PHI 32,0,NYG,
+11,1510,1,11:46,(11:46) E.Manning pass incomplete deep middle to O.Beckham (M.Jenkins).,10,2,0,PHI 49,0,NYG,
+10,1484,1,11:57,"(11:57) M.Sanchez pass deep left intended for Z.Ertz INTERCEPTED by M.Harris at NYG 40. M.Harris to PHI 49 for 11 yards (J.Kelce, L.Johnson).",10,2,0,PHI 38,0,PHI,INT
+13,1859,1,05:29,"(5:29) R.Jennings right tackle to NYG 14 for 3 yards (B.Graham, B.Logan).",10,2,3,NYG 11,0,NYG,
+13,2088,2,02:18,(2:18) (Shotgun) E.Manning pass incomplete short right to R.Jennings.,13,2,71,PHI 13,0,NYG,
+13,2055,2,02:22,"(2:22) (No Huddle, Shotgun) E.Manning pass incomplete short right to O.Beckham (N.Carroll). PENALTY on NYG-R.Randle, Offensive Pass Interference, 10 yards, enforced at PHI 3 - No Play.",3,2,76,PHI 3,0,NYG,PENALTY
+13,2031,1,02:53,"(2:53) (No Huddle, Shotgun) E.Manning pass short right to A.Williams pushed ob at PHI 3 for no gain (C.Williams, M.Kendricks).",3,2,86,PHI 3,0,NYG,
+13,1932,1,04:10,"(4:10) (No Huddle, Shotgun) E.Manning pass incomplete deep left to O.Beckham (N.Carroll).",10,2,39,50,0,NYG,
+13,1971,2,04:00,"(4:00) (Shotgun) E.Manning pass short right to P.Parker to PHI 43 for 7 yards (M.Jenkins). PENALTY on PHI-M.Jenkins, Face Mask (15 Yards), 15 yards, enforced at PHI 43.",10,2,61,50,0,NYG,PENALTY
+13,1954,0,04:00,Timeout #1 by NYG at 04:00.,0,2,39,,0,,TIMEOUT
+13,2007,1,03:38,"(3:38) (No Huddle, Shotgun) E.Manning pass deep right to R.Randle to PHI 3 for 25 yards (C.Williams).",10,2,86,PHI 28,0,NYG,
+13,1908,3,04:48,"(4:48) (No Huddle, Shotgun) E.Manning pass deep left to R.Randle to 50 for 36 yards (J.Watkins).",7,2,39,NYG 14,0,NYG,
+13,2110,3,02:12,"(2:12) (No Huddle, Shotgun) E.Manning pass incomplete short middle to O.Beckham (C.Williams).",13,2,76,PHI 13,0,NYG,
+13,2132,4,02:06,"(2:06) (Field Goal formation) PENALTY on NYG-S.Weatherford, False Start, 5 yards, enforced at PHI 13 - No Play.",13,2,71,PHI 13,0,NYG,PENALTY
+13,2161,4,02:06,"(2:06) J.Brown 36 yard field goal is GOOD, Center-Z.DeOssie, Holder-S.Weatherford.",18,2,71,PHI 18,1,NYG,FG
+13,1880,2,04:58,"(4:58) (No Huddle, Shotgun) E.Manning pass incomplete short left to R.Jennings.",7,2,0,NYG 14,0,NYG,
+12,1816,3,06:07,"(6:07) (No Huddle, Shotgun) M.Sanchez pass short left to D.Sproles to NYG 45 for 5 yards (M.Harris).",9,2,31,50,0,PHI,
+12,1776,1,07:07,"(7:07) (No Huddle, Shotgun) L.McCoy left guard to NYG 48 for 3 yards (J.Hankins, K.Wynn).",10,2,28,PHI 49,0,PHI,
+12,1730,0,07:26,J.Brown kicks 70 yards from NYG 35 to PHI -5. J.Huff to PHI 24 for 29 yards (D.Moore).,0,2,0,NYG 35,0,NYG,KICKOFF
+12,1840,4,05:36,"(5:36) D.Jones punts 34 yards to NYG 11, Center-J.Dorenbos, fair catch by R.Randle.",4,2,31,NYG 45,0,PHI,PUNT
+12,1797,2,06:41,"(6:41) (No Huddle, Shotgun) M.Sanchez sacked at 50 for -2 yards (M.Herzlich).",7,2,26,NYG 48,0,PHI,
+12,1752,1,07:19,(7:19) (Shotgun) M.Sanchez pass short right to J.Maclin ran ob at PHI 49 for 25 yards (D.Rodgers-Cromartie).,10,2,25,PHI 24,0,PHI,
+15,2559,1,15:00,(15:00) (Shotgun) L.McCoy up the middle to PHI 22 for 2 yards (M.Patterson).,10,3,2,PHI 20,0,PHI,
+15,2540,0,15:00,"J.Brown kicks 65 yards from NYG 35 to end zone, Touchback.",0,3,0,NYG 35,0,NYG,KICKOFF
+15,2609,3,14:22,"(14:22) (No Huddle, Shotgun) L.McCoy right guard to PHI 29 for 1 yard (M.Herzlich). NYG-J.Hankins was injured during the play.",2,3,9,PHI 28,0,PHI,
+15,2633,4,14:05,"(14:05) D.Jones punts 43 yards to NYG 28, Center-J.Dorenbos, fair catch by O.Beckham.",1,3,9,PHI 29,0,PHI,PUNT
+15,2580,2,14:38,"(14:38) (No Huddle, Shotgun) M.Sanchez pass short left to J.Matthews pushed ob at PHI 28 for 6 yards (M.Harris).",8,3,8,PHI 22,0,PHI,
+14,2332,2,00:32,"(:32) (No Huddle, Shotgun) M.Sanchez pass short right to D.Sproles to NYG 31 for 10 yards (K.Wynn).",4,2,49,NYG 41,0,PHI,
+14,2458,2,00:08,"(:08) (No Huddle, Shotgun) PENALTY on PHI-M.Sanchez, Delay of Game, 5 yards, enforced at NYG 9 - No Play.",9,2,66,NYG 9,0,PHI,PENALTY
+14,2436,1,00:12,(:12) (Shotgun) M.Sanchez pass incomplete short middle to Z.Ertz.,9,2,71,NYG 9,0,PHI,
+14,2356,0,00:25,Timeout #1 by PHI at 00:25.,0,2,49,,0,,TIMEOUT
+14,2395,2,00:21,"(:21) (No Huddle, Shotgun) M.Sanchez pass deep left to R.Cooper to NYG 9 for 22 yards (A.Rolle).",10,2,71,NYG 31,0,PHI,
+14,2223,0,01:56,Two-Minute Warning,0,2,19,,0,,
+14,2287,3,01:06,"(1:06) (No Huddle, Shotgun) M.Sanchez pass deep middle to J.Maclin to NYG 47 for 20 yards (D.Rodgers-Cromartie).",16,2,33,PHI 33,0,PHI,
+14,2507,3,00:02,"(:02) C.Parkey 32 yard field goal is GOOD, Center-J.Dorenbos, Holder-D.Jones.",14,2,66,NYG 14,1,PHI,FG
+14,2180,0,02:02,"J.Brown kicks 65 yards from NYG 35 to end zone, Touchback.",0,2,0,NYG 35,0,NYG,KICKOFF
+14,2419,0,00:12,Timeout #2 by PHI at 00:12.,0,2,71,,0,,TIMEOUT
+14,2199,1,02:02,(2:02) (Shotgun) M.Sanchez pass short middle to Z.Ertz to PHI 39 for 19 yards (J.McClain).,10,2,19,PHI 20,0,PHI,
+14,2311,1,00:39,"(:39) (No Huddle, Shotgun) M.Sanchez scrambles right end ran ob at NYG 41 for 6 yards (J.McClain).",10,2,39,NYG 47,0,PHI,
+14,2240,1,01:56,(1:56) (Shotgun) M.Sanchez pass short middle to J.Matthews to PHI 42 for 3 yards (A.Rolle).,10,2,39,PHI 39,0,PHI,
+14,2481,2,00:08,(:08) (Shotgun) M.Sanchez pass incomplete short middle to D.Sproles (J.McClain).,14,2,66,NYG 14,0,PHI,
+14,2264,2,01:38,"(1:38) (No Huddle, Shotgun) M.Sanchez sacked at PHI 33 for -9 yards (J.Pierre-Paul).",7,2,13,PHI 42,0,PHI,
+14,2373,1,00:25,(:25) (Shotgun) M.Sanchez pass incomplete short right to J.Maclin.,10,2,49,NYG 31,0,PHI,
+17,2901,2,10:31,"(10:31) (No Huddle, Shotgun) E.Manning pass short right to O.Beckham to NYG 38 for 4 yards (B.Boykin).",28,3,19,NYG 34,0,NYG,
+17,2925,3,09:45,"(9:45) (No Huddle, Shotgun) PENALTY on NYG-J.Walton, False Start, 5 yards, enforced at NYG 38 - No Play.",24,3,14,NYG 38,0,NYG,PENALTY
+17,2948,3,09:27,"(9:27) (No Huddle, Shotgun) E.Manning pass short left to L.Donnell to NYG 49 for 16 yards (N.Allen).",29,3,30,NYG 33,0,NYG,
+17,2842,1,11:40,"(11:40) R.Jennings left tackle to PHI 48 for 18 yards (C.Barwin, M.Jenkins).",10,3,33,NYG 34,0,NYG,
+17,2818,1,12:21,(12:21) E.Manning pass short right to O.Beckham pushed ob at NYG 34 for 15 yards (M.Jenkins).,10,3,30,NYG 19,0,NYG,
+17,2869,1,11:00,"(11:00) (No Huddle) R.Jennings left tackle to NYG 49 for -3 yards (C.Thornton, B.Logan). PENALTY on NYG-J.Walton, Unnecessary Roughness, 15 yards, enforced at NYG 49.",10,3,15,PHI 48,0,NYG,PENALTY
+17,2972,4,08:58,"(8:58) S.Weatherford punts 38 yards to PHI 13, Center-Z.DeOssie. D.Sproles to PHI 15 for 2 yards (Z.Bowman).",13,3,30,NYG 49,0,NYG,PUNT
+17,2796,0,12:21,"C.Parkey kicks 69 yards from PHI 35 to NYG -4. P.Parker to NYG 19 for 23 yards (J.Casey, J.Huff).",0,3,15,PHI 35,0,PHI,KICKOFF
+16,2720,4,12:34,"(12:34) S.Weatherford punt is BLOCKED by J.Casey, Center-Z.DeOssie, RECOVERED by PHI-T.Burton at NYG 27. T.Burton for 27 yards, TOUCHDOWN.",11,3,-1,NYG 27,1,NYG,TD
+16,2656,1,13:56,(13:56) A.Williams left end to NYG 27 for -1 yards (C.Matthews).,10,3,-1,NYG 28,0,NYG,
+16,2677,2,13:22,"(13:22) (No Huddle, Shotgun) A.Williams up the middle to NYG 27 for no gain (F.Cox).",11,3,-1,NYG 27,0,NYG,
+16,2698,3,12:45,(12:45) (Shotgun) E.Manning pass incomplete short middle to R.Randle.,11,3,-1,NYG 27,0,NYG,
+19,3251,1,05:02,"(5:02) (No Huddle, Shotgun) E.Manning pass incomplete short left to R.Randle.",20,3,37,PHI 44,0,NYG,
+19,3220,1,05:10,"(5:10) (No Huddle, Shotgun) E.Manning pass deep middle to R.Randle for 34 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on NYG-W.Beatty, Offensive Holding, 10 yards, enforced at PHI 34 - No Play.",10,3,37,PHI 34,0,NYG,PENALTY
+19,3319,4,04:32,"(4:32) J.Brown 53 yard field goal is GOOD, Center-Z.DeOssie, Holder-S.Weatherford.",11,3,46,PHI 35,1,NYG,FG
+19,3196,1,05:53,"(5:53) (No Huddle, Shotgun) E.Manning pass short middle to O.Beckham to PHI 34 for 15 yards (M.Jenkins, N.Allen).",10,3,47,PHI 49,0,NYG,
+19,3151,2,06:44,"(6:44) A.Williams right guard to NYG 27 for 2 yards (C.Matthews, C.Thornton).",4,3,8,NYG 25,0,NYG,
+19,3130,1,07:16,(7:16) A.Williams right guard to NYG 25 for 6 yards (T.Cole).,10,3,6,NYG 19,0,NYG,
+19,3295,3,04:50,"(4:50) (No Huddle, Shotgun) E.Manning pass short right to O.Beckham to PHI 35 for 9 yards (B.Boykin).",20,3,46,PHI 44,0,NYG,
+19,3172,3,06:03,"(6:03) (No Huddle, Shotgun) E.Manning pass short right to R.Randle pushed ob at PHI 49 for 24 yards (N.Allen).",2,3,32,NYG 27,0,NYG,
+19,3273,2,04:57,"(4:57) (No Huddle, Shotgun) E.Manning pass incomplete deep right to P.Parker.",20,3,37,PHI 44,0,NYG,
+18,3018,2,08:21,"(8:21) (No Huddle, Shotgun) M.Sanchez pass short left to R.Cooper pushed ob at PHI 29 for 15 yards (C.Brown).",11,3,14,PHI 14,0,PHI,
+18,3107,4,07:25,"(7:25) D.Jones punts 47 yards to NYG 19, Center-J.Dorenbos, fair catch by O.Beckham.",5,3,19,PHI 34,0,PHI,PUNT
+18,2997,1,08:45,"(8:45) (Shotgun) L.McCoy left end to PHI 14 for -1 yards (J.Pierre-Paul, M.Patterson).",10,3,-1,PHI 15,0,PHI,
+18,3064,2,08:03,(8:03) (No Huddle) L.McCoy left end to PHI 34 for 5 yards (A.Rolle).,10,3,19,PHI 29,0,PHI,
+18,3085,3,07:34,"(7:34) (No Huddle, Shotgun) M.Sanchez pass incomplete short left to D.Sproles.",5,3,19,PHI 34,0,PHI,
+18,3042,1,08:09,"(8:09) (No Huddle, Shotgun) M.Sanchez pass incomplete short right to J.Matthews.",10,3,14,PHI 29,0,PHI,

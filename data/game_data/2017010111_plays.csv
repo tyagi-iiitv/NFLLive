@@ -1,167 +1,167 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1559,1,02:40,,10,2,2,WAS 28,0,WAS,
-9,1597,2,02:00,,8,2,2,WAS 30,0,WAS,
-9,1675,4,01:41,,17,2,-7,WAS 21,0,WAS,PUNT
-9,1631,3,01:50,,8,2,-7,WAS 30,0,WAS,
-9,1580,0,02:00,,0,2,2,,0,,
-9,1650,0,01:41,,0,2,-7,,0,,TIMEOUT
-24,3814,2,01:08,,9,4,3,WAS 46,0,NYG,
-24,3835,0,01:03,,0,4,3,,0,,TIMEOUT
-24,3797,0,01:08,,0,4,1,,0,,TIMEOUT
-24,3776,1,01:12,,10,4,1,WAS 47,0,NYG,
-24,3890,4,00:18,,2,4,8,WAS 39,0,NYG,PUNT
-24,3852,3,01:03,,7,4,8,WAS 44,0,NYG,
-24,3873,0,00:18,,0,4,8,,0,,TIMEOUT
-10,1803,3,00:54,,9,2,12,NYG 44,0,NYG,
-10,1825,4,00:49,,9,2,12,NYG 44,0,NYG,PUNT
-10,1752,1,01:06,,10,2,12,NYG 43,0,NYG,
-10,1781,2,00:59,,9,2,12,NYG 44,0,NYG,
-10,1728,2,01:12,,7,2,11,NYG 35,0,NYG,
-10,1704,1,01:30,,10,2,3,NYG 32,0,NYG,
-20,3312,4,06:44,,15,4,-5,NYG 20,0,NYG,PUNT
-20,3231,0,08:13,,0,4,0,WAS 35,0,WAS,KICKOFF
-20,3293,3,07:23,,6,4,-5,NYG 29,0,NYG,
-20,3272,2,08:05,,10,4,4,NYG 25,0,NYG,
-20,3250,1,08:13,,10,4,0,NYG 25,0,NYG,
-6,1009,3,11:23,,2,2,55,WAS 33,0,NYG,
-6,1129,0,09:20,,0,2,74,WAS 15,1,NYG,XP
-6,1054,2,10:05,,6,2,70,WAS 15,0,NYG,PENALTY
-6,1091,1,09:48,,4,2,74,WAS 4,0,NYG,
-6,943,3,13:10,,4,2,59,NYG 47,0,NYG,
-6,967,1,12:41,,10,2,39,WAS 41,0,NYG,
-6,877,1,15:00,,10,2,15,NYG 26,0,NYG,
-6,922,2,13:51,,6,2,21,NYG 45,0,NYG,
-6,988,2,12:03,,4,2,59,WAS 35,0,NYG,
-6,1112,2,09:24,,2,2,74,WAS 2,1,NYG,TD
-6,1033,1,10:45,,10,2,59,WAS 19,0,NYG,
-6,901,1,14:28,,10,2,19,NYG 41,0,NYG,
-18,2873,3,14:24,,2,4,9,NYG 33,0,NYG,
-18,2832,0,,,0,3,7,,0,,
-18,2807,1,00:25,,10,3,7,NYG 25,0,NYG,
-18,2848,2,15:00,,3,4,8,NYG 32,0,NYG,
-18,2894,4,13:35,,1,4,9,NYG 34,0,NYG,PUNT
-18,2788,0,00:25,,0,3,0,WAS 35,0,WAS,KICKOFF
-25,3915,1,00:06,,10,4,5,WAS 6,1,WAS,TD
-1,112,3,13:35,,1,1,9,WAS 34,0,WAS,
-1,135,4,12:57,,1,1,9,WAS 34,0,WAS,PUNT
-1,67,1,15:00,,10,1,1,WAS 25,0,WAS,
-1,88,2,14:15,,9,1,9,WAS 26,0,WAS,
-1,48,0,15:00,,0,1,0,NYG 35,0,NYG,KICKOFF
-5,824,4,00:01,,26,1,5,WAS 30,0,WAS,PUNT
-5,668,1,02:12,,10,1,-2,WAS 25,0,WAS,
-5,715,1,01:21,,10,1,22,WAS 46,0,WAS,
-5,736,2,00:44,,9,1,22,WAS 47,0,WAS,
-5,649,0,02:12,,0,1,0,NYG 35,0,NYG,KICKOFF
-5,758,3,00:37,,9,1,17,WAS 47,0,WAS,PENALTY
-5,691,2,01:30,,12,1,21,WAS 23,0,WAS,
-5,781,3,00:37,,14,1,5,WAS 42,0,WAS,
-13,2298,2,09:47,,10,3,0,WAS 16,0,WAS,
-13,2338,4,08:33,,20,3,-10,WAS 6,0,WAS,PUNT
-13,2276,1,09:54,,10,3,0,WAS 16,0,WAS,
-13,2319,3,09:09,,10,3,-10,WAS 16,0,WAS,
-21,3378,3,06:21,,10,4,0,WAS 31,0,WAS,
-21,3334,1,06:35,,10,4,0,WAS 31,0,WAS,
-21,3400,4,06:13,,10,4,0,WAS 31,0,WAS,PUNT
-21,3356,2,06:26,,10,4,0,WAS 31,0,WAS,
-23,3620,1,02:12,,10,4,11,WAS 25,0,WAS,
-23,3644,1,02:08,,10,4,14,WAS 36,0,WAS,
-23,3601,0,02:12,,0,4,0,NYG 35,0,NYG,KICKOFF
-23,3685,2,02:00,,7,4,32,WAS 39,0,WAS,
-23,3709,1,01:37,,10,4,32,WAS 46,0,WAS,
-23,3733,0,01:27,,0,4,32,,0,,TIMEOUT
-23,3750,1,01:27,,10,4,32,NYG 43,0,WAS,INT
-23,3668,0,02:00,,0,4,14,,0,,
-11,1984,1,00:01,,10,2,34,NYG 39,0,WAS,FGM
-11,1967,0,00:01,,0,2,34,,0,,TIMEOUT
-11,1902,2,00:15,,8,2,34,WAS 29,0,WAS,
-11,1926,0,00:08,,0,2,11,,0,,TIMEOUT
-11,1867,1,00:39,,10,2,34,WAS 27,0,WAS,FUMBLE
-11,1943,1,00:08,,10,2,34,WAS 38,0,WAS,
-14,2363,1,08:18,,10,3,5,WAS 49,0,NYG,
-14,2466,4,06:19,,12,3,-2,NYG 49,0,NYG,PUNT
-14,2442,3,06:54,,13,3,-2,NYG 48,0,NYG,
-14,2421,2,07:31,,15,3,-3,NYG 46,0,NYG,
-14,2388,2,07:43,,5,3,-5,WAS 44,0,NYG,PENALTY
-8,1474,3,03:48,,8,2,22,NYG 41,0,NYG,PENALTY
-8,1347,2,05:50,,10,2,6,NYG 9,0,NYG,
-8,1513,3,03:26,,18,2,28,NYG 31,0,NYG,
-8,1407,3,05:03,,4,2,30,NYG 15,0,NYG,
-8,1368,0,05:03,,0,2,6,,0,,TIMEOUT
-8,1534,4,02:53,,12,2,28,NYG 37,0,NYG,PUNT
-8,1431,1,04:32,,10,2,32,NYG 39,0,NYG,
-8,1326,1,06:29,,10,2,0,NYG 9,0,NYG,
-8,1452,2,03:53,,8,2,32,NYG 41,0,NYG,
-19,3138,2,08:48,,17,4,52,NYG 24,0,WAS,
-19,2965,3,12:44,,6,4,15,WAS 28,0,WAS,
-19,3010,2,11:32,,5,4,26,WAS 44,0,WAS,
-19,2917,1,13:27,,10,4,4,WAS 24,0,WAS,
-19,3055,1,10:14,,10,4,59,NYG 35,0,WAS,
-19,3106,2,09:10,,7,4,52,NYG 14,0,WAS,PENALTY
-19,2989,1,12:12,,10,4,20,WAS 39,0,WAS,
-19,3215,0,08:13,,0,4,76,NYG 15,1,WAS,XP
-19,3031,1,10:55,,10,4,41,50,0,WAS,
-19,2943,2,12:50,,6,4,4,WAS 28,0,WAS,
-19,3085,1,09:43,,10,4,62,NYG 17,0,WAS,
-19,3160,3,08:42,,17,4,76,NYG 24,0,WAS,PENALTY
-19,3195,1,08:17,,1,4,76,NYG 1,1,WAS,TD
-22,3582,4,02:17,,7,4,58,WAS 22,1,NYG,FG
-22,3560,3,02:24,,7,4,58,WAS 22,0,NYG,
-22,3494,1,04:02,,10,4,55,NYG 31,0,NYG,
-22,3425,1,06:01,,10,4,0,NYG 20,0,NYG,
-22,3518,1,03:58,,10,4,58,WAS 25,0,NYG,
-22,3539,2,03:11,,7,4,58,WAS 22,0,NYG,
-22,3470,3,04:40,,5,4,11,NYG 25,0,NYG,
-22,3446,2,05:26,,10,4,5,NYG 20,0,NYG,
-12,2191,1,12:04,,10,3,55,WAS 24,0,NYG,
-12,2212,2,11:29,,6,3,58,WAS 20,0,NYG,
-12,2145,1,13:08,,20,3,39,50,0,NYG,
-12,2254,4,09:58,,2,3,59,WAS 16,0,NYG,
-12,2060,2,14:28,,3,3,12,NYG 32,0,NYG,
-12,2081,1,13:48,,10,3,25,NYG 37,0,NYG,PENALTY
-12,2039,1,15:00,,10,3,7,NYG 25,0,NYG,
-12,2020,0,15:00,,0,3,0,WAS 35,0,WAS,KICKOFF
-12,2233,3,10:45,,3,3,59,WAS 17,0,NYG,
-12,2167,2,12:38,,6,3,51,WAS 36,0,NYG,
-12,2113,1,13:30,,10,3,38,WAS 40,0,NYG,PENALTY
-16,2583,1,04:06,,10,3,2,NYG 5,0,NYG,
-16,2647,4,02:48,,4,3,6,NYG 11,0,NYG,PUNT
-16,2604,2,03:28,,8,3,2,NYG 7,0,NYG,
-16,2626,3,03:23,,8,3,6,NYG 7,0,NYG,
-7,1164,1,09:20,,10,2,5,WAS 25,0,WAS,
-7,1145,0,09:20,,0,2,0,NYG 35,0,NYG,KICKOFF
-7,1188,2,08:49,,5,2,5,WAS 30,0,WAS,
-7,1258,2,07:23,,5,2,34,NYG 44,0,WAS,
-7,1234,1,08:08,,10,2,31,NYG 49,0,WAS,
-7,1210,3,08:39,,5,2,26,WAS 30,0,WAS,
-7,1281,3,06:44,,2,2,34,NYG 41,0,WAS,
-7,1303,4,06:37,,2,2,34,NYG 41,0,WAS,PUNT
-3,327,4,09:04,,7,1,3,WAS 17,0,WAS,PUNT
-3,261,1,11:10,,10,1,-10,WAS 14,0,WAS,
-3,303,3,09:44,,15,1,3,WAS 9,0,WAS,
-3,282,2,10:26,,20,1,-5,WAS 4,0,WAS,
-17,2745,3,01:14,,8,3,33,NYG 14,0,WAS,
-17,2719,2,01:24,,8,3,33,NYG 14,0,WAS,
-17,2698,1,02:02,,10,3,33,NYG 16,0,WAS,
-17,2672,1,02:36,,10,3,31,NYG 47,0,WAS,
-17,2769,4,00:30,,8,3,33,NYG 14,1,WAS,FG
-4,440,3,06:56,,3,1,23,WAS 41,0,NYG,
-4,503,2,04:52,,8,1,52,WAS 13,0,NYG,
-4,630,4,02:16,,4,1,56,WAS 4,1,NYG,FG
-4,482,1,05:32,,10,1,47,WAS 15,0,NYG,
-4,352,1,08:52,,10,1,8,NYG 40,0,NYG,
-4,527,3,04:05,,3,1,56,WAS 8,0,NYG,
-4,606,3,02:57,,14,1,56,WAS 14,0,NYG,
-4,572,2,03:04,,4,1,46,WAS 4,0,NYG,PENALTY
-4,418,2,07:03,,3,1,19,WAS 41,0,NYG,
-4,397,1,07:39,,10,1,19,WAS 48,0,NYG,
-4,461,1,06:21,,10,1,45,WAS 37,0,NYG,
-4,551,1,03:40,,4,1,56,WAS 4,0,NYG,
-4,376,2,08:23,,2,1,12,NYG 48,0,NYG,
-2,224,4,11:26,,3,1,7,NYG 29,0,NYG,PUNT
-2,202,3,11:31,,3,1,7,NYG 29,0,NYG,
-2,181,2,12:11,,7,1,7,NYG 25,0,NYG,
-2,160,1,12:46,,10,1,3,NYG 22,0,NYG,
-15,2487,1,06:09,,10,3,7,WAS 20,0,WAS,
-15,2529,3,05:01,,2,3,57,WAS 28,0,WAS,
-15,2557,1,04:13,,10,3,57,NYG 23,0,WAS,INT
-15,2508,2,05:36,,3,3,8,WAS 27,0,WAS,
+24,3835,0,01:03,Timeout #3 by WAS at 01:03.,0,4,3,,0,,TIMEOUT
+24,3776,1,01:12,(1:12) R.Jennings up the middle to WAS 46 for 1 yard (J.Norman).,10,4,1,WAS 47,0,NYG,
+24,3814,2,01:08,(1:08) (Shotgun) R.Jennings right guard to WAS 44 for 2 yards (P.Smith; D.Ihenacho).,9,4,3,WAS 46,0,NYG,
+24,3797,0,01:08,Timeout #2 by WAS at 01:08.,0,4,1,,0,,TIMEOUT
+24,3873,0,00:18,Timeout #1 by NYG at 00:18.,0,4,8,,0,,TIMEOUT
+24,3852,3,01:03,"(1:03) R.Jennings up the middle to WAS 39 for 5 yards (R.Jean Francois, W.Blackmon).",7,4,8,WAS 44,0,NYG,
+24,3890,4,00:18,"(:18) B.Wing punts 34 yards to WAS 5, Center-Z.DeOssie. J.Crowder to WAS 6 for 1 yard (Z.DeOssie).",2,4,8,WAS 39,0,NYG,PUNT
+25,3915,1,00:06,"(:06) (Shotgun) K.Cousins pass short middle to J.Reed to WAS 15 for 9 yards. FUMBLES, RECOVERED by NYG-T.Wade at WAS 11. T.Wade for 11 yards, TOUCHDOWN. Penalty on WAS-S.Long, Ineligible Downfield Pass, declined.",10,4,5,WAS 6,1,WAS,TD
+20,3250,1,08:13,(8:13) (Shotgun) E.Manning pass incomplete deep right to V.Cruz.,10,4,0,NYG 25,0,NYG,
+20,3231,0,08:13,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback.",0,4,0,WAS 35,0,WAS,KICKOFF
+20,3272,2,08:05,(8:05) (No Huddle) P.Perkins up the middle to NYG 29 for 4 yards (D.Ihenacho).,10,4,4,NYG 25,0,NYG,
+20,3312,4,06:44,"(6:44) B.Wing punts 49 yards to WAS 31, Center-Z.DeOssie, out of bounds.",15,4,-5,NYG 20,0,NYG,PUNT
+20,3293,3,07:23,"(7:23) (No Huddle, Shotgun) E.Manning sacked at NYG 20 for -9 yards (C.Jenkins).",6,4,-5,NYG 29,0,NYG,
+21,3400,4,06:13,"(6:13) T.Way punts 59 yards to NYG 10, Center-N.Sundberg. D.Harris to NYG 20 for 10 yards (D.Everett).",10,4,0,WAS 31,0,WAS,PUNT
+21,3356,2,06:26,(6:26) (Shotgun) K.Cousins pass incomplete short right to J.Crowder.,10,4,0,WAS 31,0,WAS,
+21,3378,3,06:21,(6:21) (Shotgun) K.Cousins pass incomplete deep left to D.Jackson.,10,4,0,WAS 31,0,WAS,
+21,3334,1,06:35,(6:35) K.Cousins pass incomplete short right to V.Davis (J.Casillas).,10,4,0,WAS 31,0,WAS,
+22,3560,3,02:24,"(2:24) (No Huddle, Shotgun) E.Manning pass incomplete short left to S.Shepard.",7,4,58,WAS 22,0,NYG,
+22,3518,1,03:58,"(3:58) (No Huddle, Shotgun) P.Perkins left end to WAS 22 for 3 yards (R.Jean Francois; P.Smith).",10,4,58,WAS 25,0,NYG,
+22,3470,3,04:40,"(4:40) (No Huddle, Shotgun) E.Manning pass short left to V.Cruz to NYG 31 for 6 yards (G.Toler, W.Blackmon).",5,4,11,NYG 25,0,NYG,
+22,3494,1,04:02,"(4:02) (No Huddle, Shotgun) E.Manning pass deep left to T.King pushed ob at WAS 25 for 44 yards (W.Blackmon).",10,4,55,NYG 31,0,NYG,
+22,3446,2,05:26,"(5:26) (No Huddle, Shotgun) E.Manning pass short right to W.Tye to NYG 25 for 5 yards (M.Foster).",10,4,5,NYG 20,0,NYG,
+22,3582,4,02:17,"(2:17) R.Gould 40 yard field goal is GOOD, Center-Z.DeOssie, Holder-B.Wing.",7,4,58,WAS 22,1,NYG,FG
+22,3425,1,06:01,(6:01) P.Perkins left guard to NYG 20 for no gain (M.Foster).,10,4,0,NYG 20,0,NYG,
+22,3539,2,03:11,"(3:11) (No Huddle) R.Jennings right guard to WAS 22 for no gain (C.Baker, T.Murphy).",7,4,58,WAS 22,0,NYG,
+23,3601,0,02:12,"R.Gould kicks 65 yards from NYG 35 to end zone, Touchback.",0,4,0,NYG 35,0,NYG,KICKOFF
+23,3620,1,02:12,(2:12) (Shotgun) K.Cousins pass short right to D.Jackson ran ob at WAS 36 for 11 yards.,10,4,11,WAS 25,0,WAS,
+23,3668,0,02:00,Two-Minute Warning,0,4,14,,0,,
+23,3685,2,02:00,(2:00) (Shotgun) K.Cousins pass short right to C.Thompson to WAS 46 for 7 yards (L.Hall).,7,4,32,WAS 39,0,WAS,
+23,3709,1,01:37,"(1:37) (No Huddle, Shotgun) K.Cousins pass short middle to C.Thompson to NYG 43 for 11 yards (L.Hall; T.Wade).",10,4,32,WAS 46,0,WAS,
+23,3750,1,01:27,(1:27) (Shotgun) K.Cousins pass deep middle intended for P.Garcon INTERCEPTED by D.Rodgers-Cromartie at NYG 25. D.Rodgers-Cromartie to WAS 47 for 28 yards.,10,4,32,NYG 43,0,WAS,INT
+23,3644,1,02:08,(2:08) (Shotgun) K.Cousins pass short right to P.Garcon to WAS 39 for 3 yards (T.Wade).,10,4,14,WAS 36,0,WAS,
+23,3733,0,01:27,Timeout #1 by WAS at 01:27.,0,4,32,,0,,TIMEOUT
+1,88,2,14:15,"(14:15) (Shotgun) K.Cousins pass short middle to J.Reed to WAS 34 for 8 yards (K.Robinson, L.Collins).",9,1,9,WAS 26,0,WAS,
+1,112,3,13:35,"(13:35) T.Nsekhe reported in as eligible.  R.Kelley right tackle to WAS 34 for no gain (K.Sheppard, A.Adams).",1,1,9,WAS 34,0,WAS,
+1,135,4,12:57,"(12:57) T.Way punts 55 yards to NYG 11, Center-N.Sundberg. D.Harris to NYG 22 for 11 yards (D.Everett).",1,1,9,WAS 34,0,WAS,PUNT
+1,48,0,15:00,"R.Gould kicks 65 yards from NYG 35 to end zone, Touchback.",0,1,0,NYG 35,0,NYG,KICKOFF
+1,67,1,15:00,"(15:00) (Shotgun) R.Kelley left tackle to WAS 26 for 1 yard (D.Harrison, L.Collins).",10,1,1,WAS 25,0,WAS,
+3,261,1,11:10,(11:10) T.Nsekhe reported in as eligible.  K.Cousins sacked at WAS 4 for -10 yards (D.Harrison).,10,1,-10,WAS 14,0,WAS,
+3,282,2,10:26,"(10:26) (Shotgun) R.Kelley left guard to WAS 9 for 5 yards (D.Harrison, J.Casillas).",20,1,-5,WAS 4,0,WAS,
+3,327,4,09:04,"(9:04) T.Way punts 45 yards to NYG 38, Center-N.Sundberg. D.Harris to NYG 40 for 2 yards (D.Phillips; D.Carrier).",7,1,3,WAS 17,0,WAS,PUNT
+3,303,3,09:44,(9:44) (Shotgun) K.Cousins pass short left to C.Thompson to WAS 17 for 8 yards (D.Kennard).,15,1,3,WAS 9,0,WAS,
+2,224,4,11:26,"(11:26) B.Wing punts 48 yards to WAS 23, Center-Z.DeOssie. J.Crowder pushed ob at WAS 48 for 25 yards (B.Rainey). PENALTY on WAS-D.Phillips, Offensive Holding, 9 yards, enforced at WAS 23.",3,1,7,NYG 29,0,NYG,PUNT
+2,181,2,12:11,(12:11) (No Huddle) P.Perkins left guard to NYG 29 for 4 yards (C.Baker).,7,1,7,NYG 25,0,NYG,
+2,160,1,12:46,(12:46) (Shotgun) P.Perkins left guard to NYG 25 for 3 yards (P.Smith).,10,1,3,NYG 22,0,NYG,
+2,202,3,11:31,"(11:31) (No Huddle, Shotgun) E.Manning pass incomplete short left to P.Perkins (E.Hood).",3,1,7,NYG 29,0,NYG,
+5,691,2,01:30,(1:30) (Shotgun) K.Cousins pass deep right to P.Garcon ran ob at WAS 46 for 23 yards.,12,1,21,WAS 23,0,WAS,
+5,781,3,00:37,"(:37) (Shotgun) K.Cousins sacked at WAS 30 for -12 yards (L.Collins, O.Vernon).",14,1,5,WAS 42,0,WAS,
+5,668,1,02:12,(2:12) T.Nsekhe reported in as eligible.  R.Kelley right end to WAS 23 for -2 yards (L.Collins).,10,1,-2,WAS 25,0,WAS,
+5,715,1,01:21,(1:21) (No Huddle) C.Thompson up the middle to WAS 47 for 1 yard (L.Collins; J.Bromley).,10,1,22,WAS 46,0,WAS,
+5,758,3,00:37,"(:37) (Shotgun) PENALTY on WAS-P.Garcon, False Start, 5 yards, enforced at WAS 47 - No Play.",9,1,17,WAS 47,0,WAS,PENALTY
+5,736,2,00:44,(:44) (Shotgun) K.Cousins pass incomplete deep left to D.Jackson.,9,1,22,WAS 47,0,WAS,
+5,649,0,02:12,"R.Gould kicks 65 yards from NYG 35 to end zone, Touchback.",0,1,0,NYG 35,0,NYG,KICKOFF
+5,824,4,00:01,"(:01) T.Way punts 56 yards to NYG 14, Center-N.Sundberg. D.Harris to NYG 26 for 12 yards (M.Spaight; T.Garvin).",26,1,5,WAS 30,0,WAS,PUNT
+4,630,4,02:16,"(2:16) R.Gould 22 yard field goal is GOOD, Center-Z.DeOssie, Holder-B.Wing.",4,1,56,WAS 4,1,NYG,FG
+4,606,3,02:57,"(2:57) (Shotgun) E.Manning pass short middle to W.Tye to WAS 4 for 10 yards (W.Compton, M.Foster).",14,1,56,WAS 14,0,NYG,
+4,551,1,03:40,(3:40) P.Perkins right guard to WAS 4 for no gain (M.Foster).,4,1,56,WAS 4,0,NYG,
+4,440,3,06:56,(6:56) (Shotgun) P.Perkins left guard to WAS 37 for 4 yards (M.Foster).,3,1,23,WAS 41,0,NYG,
+4,461,1,06:21,"(6:21) (Shotgun) P.Perkins left end to WAS 15 for 22 yards (M.Foster, W.Blackmon).",10,1,45,WAS 37,0,NYG,
+4,503,2,04:52,"(4:52) E.Manning pass short right to R.Jennings to WAS 8 for 5 yards (R.Jean Francois, D.Ihenacho).",8,1,52,WAS 13,0,NYG,
+4,527,3,04:05,(4:05) (Shotgun) E.Manning pass short left to S.Shepard pushed ob at WAS 4 for 4 yards (B.Breeland).,3,1,56,WAS 8,0,NYG,
+4,397,1,07:39,"(7:39) (No Huddle, Shotgun) P.Perkins right end to WAS 41 for 7 yards (W.Blackmon; M.Foster).",10,1,19,WAS 48,0,NYG,
+4,352,1,08:52,(8:52) (Shotgun) E.Manning pass short right to W.Tye to NYG 48 for 8 yards (M.Foster).,10,1,8,NYG 40,0,NYG,
+4,572,2,03:04,"(3:04) E.Manning pass incomplete short right [R.Kerrigan]. PENALTY on NYG-E.Manning, Intentional Grounding, 10 yards, enforced at WAS 4.",4,1,46,WAS 4,0,NYG,PENALTY
+4,418,2,07:03,"(7:03) (No Huddle, Shotgun) E.Manning pass incomplete short left to S.Shepard (J.Norman).",3,1,19,WAS 41,0,NYG,
+4,482,1,05:32,(5:32) (No Huddle) R.Jennings up the middle to WAS 13 for 2 yards (M.Foster).,10,1,47,WAS 15,0,NYG,
+4,376,2,08:23,(8:23) P.Perkins right tackle to WAS 48 for 4 yards (D.Ihenacho).,2,1,12,NYG 48,0,NYG,
+7,1164,1,09:20,(9:20) K.Cousins pass short right to J.Crowder pushed ob at WAS 30 for 5 yards (E.Apple).,10,2,5,WAS 25,0,WAS,
+7,1234,1,08:08,"(8:08) (No Huddle, Shotgun) K.Cousins pass short right to J.Reed to NYG 44 for 5 yards (K.Robinson).",10,2,31,NYG 49,0,WAS,
+7,1210,3,08:39,(8:39) (Shotgun) K.Cousins pass short middle to J.Reed to NYG 49 for 21 yards (K.Robinson; L.Hall).,5,2,26,WAS 30,0,WAS,
+7,1281,3,06:44,(6:44) (Shotgun) K.Cousins pass incomplete deep right to J.Reed.,2,2,34,NYG 41,0,WAS,
+7,1188,2,08:49,(8:49) K.Cousins pass incomplete deep right to P.Garcon (J.Jenkins).,5,2,5,WAS 30,0,WAS,
+7,1145,0,09:20,"R.Gould kicks 65 yards from NYG 35 to end zone, Touchback.",0,2,0,NYG 35,0,NYG,KICKOFF
+7,1303,4,06:37,"(6:37) T.Way punts 32 yards to NYG 9, Center-N.Sundberg, fair catch by D.Harris.",2,2,34,NYG 41,0,WAS,PUNT
+7,1258,2,07:23,(7:23) T.Nsekhe reported in as eligible.  R.Kelley up the middle to NYG 41 for 3 yards (J.Hankins).,5,2,34,NYG 44,0,WAS,
+6,1129,0,09:20,"R.Gould extra point is GOOD, Center-Z.DeOssie, Holder-B.Wing.",0,2,74,WAS 15,1,NYG,XP
+6,988,2,12:03,"(12:03) (Shotgun) R.Jennings left end to WAS 33 for 2 yards (T.Murphy, G.Toler).",4,2,59,WAS 35,0,NYG,
+6,901,1,14:28,(14:28) (Shotgun) R.Jennings left guard to NYG 45 for 4 yards (M.Foster).,10,2,19,NYG 41,0,NYG,
+6,1054,2,10:05,"(10:05) (No Huddle, Shotgun) E.Manning pass short left to O.Beckham pushed ob at WAS 7 for 8 yards (J.Norman). PENALTY on WAS-J.Norman, Unnecessary Roughness, 3 yards, enforced at WAS 7.",6,2,70,WAS 15,0,NYG,PENALTY
+6,1091,1,09:48,(9:48) (Shotgun) R.Jennings left guard to WAS 2 for 2 yards (R.Jean Francois; C.Baker).,4,2,74,WAS 4,0,NYG,
+6,877,1,15:00,(15:00) E.Manning pass short middle to O.Beckham to NYG 41 for 15 yards (M.Foster).,10,2,15,NYG 26,0,NYG,
+6,943,3,13:10,"(13:10) (No Huddle, Shotgun) E.Manning pass short middle to O.Beckham pushed ob at WAS 41 for 12 yards (J.Norman).",4,2,59,NYG 47,0,NYG,
+6,967,1,12:41,(12:41) (No Huddle) R.Jennings left end to WAS 35 for 6 yards (W.Compton; J.Norman).,10,2,39,WAS 41,0,NYG,
+6,1009,3,11:23,(11:23) E.Manning pass short middle to S.Shepard to WAS 19 for 14 yards (M.Foster).,2,2,55,WAS 33,0,NYG,
+6,1033,1,10:45,"(10:45) (No Huddle, Shotgun) R.Jennings right tackle to WAS 15 for 4 yards (R.Jean Francois).",10,2,59,WAS 19,0,NYG,
+6,922,2,13:51,(13:51) (No Huddle) R.Jennings up the middle to NYG 47 for 2 yards (B.Breeland).,6,2,21,NYG 45,0,NYG,
+6,1112,2,09:24,"(9:24) R.Jennings up the middle for 2 yards, TOUCHDOWN.",2,2,74,WAS 2,1,NYG,TD
+9,1631,3,01:50,(1:50) (Shotgun) K.Cousins sacked at WAS 21 for -9 yards (D.Rodgers-Cromartie).,8,2,-7,WAS 30,0,WAS,
+9,1559,1,02:40,(2:40) R.Kelley left end to WAS 30 for 2 yards (J.Casillas).,10,2,2,WAS 28,0,WAS,
+9,1580,0,02:00,Two-Minute Warning,0,2,2,,0,,
+9,1597,2,02:00,(2:00) (Shotgun) K.Cousins pass incomplete short middle to C.Thompson (J.Casillas).,8,2,2,WAS 30,0,WAS,
+9,1675,4,01:41,"(1:41) T.Way punts 52 yards to NYG 27, Center-N.Sundberg. D.Harris to NYG 32 for 5 yards (D.Ihenacho).",17,2,-7,WAS 21,0,WAS,PUNT
+9,1650,0,01:41,Timeout #2 by NYG at 01:41.,0,2,-7,,0,,TIMEOUT
+8,1326,1,06:29,(6:29) P.Perkins right guard to NYG 9 for no gain (R.Jean Francois).,10,2,0,NYG 9,0,NYG,
+8,1474,3,03:48,"(3:48) (Shotgun) E.Manning pass short left to S.Shepard to WAS 43 for 16 yards (M.Spaight; W.Blackmon) [C.Jenkins]. PENALTY on NYG-M.Newhouse, Illegal Use of Hands, 10 yards, enforced at NYG 41 - No Play.",8,2,22,NYG 41,0,NYG,PENALTY
+8,1431,1,04:32,(4:32) (No Huddle) P.Perkins left guard to NYG 41 for 2 yards (D.Ihenacho; E.Hood).,10,2,32,NYG 39,0,NYG,
+8,1347,2,05:50,(5:50) (Shotgun) P.Perkins up the middle to NYG 15 for 6 yards (M.Ioannidis).,10,2,6,NYG 9,0,NYG,
+8,1534,4,02:53,"(2:53) B.Wing punts 44 yards to WAS 19, Center-Z.DeOssie. J.Crowder to WAS 28 for 9 yards (D.Skinner).",12,2,28,NYG 37,0,NYG,PUNT
+8,1513,3,03:26,(3:26) (Shotgun) P.Perkins right end to NYG 37 for 6 yards (B.Breeland).,18,2,28,NYG 31,0,NYG,
+8,1452,2,03:53,"(3:53) (No Huddle, Shotgun) E.Manning pass incomplete short middle to P.Perkins. WAS-W.Compton was injured during the play.",8,2,32,NYG 41,0,NYG,
+8,1407,3,05:03,(5:03) (Shotgun) E.Manning pass short right to W.Tye pushed ob at NYG 39 for 24 yards (W.Blackmon).,4,2,30,NYG 15,0,NYG,
+8,1368,0,05:03,Timeout #1 by NYG at 05:03.,0,2,6,,0,,TIMEOUT
+11,1984,1,00:01,"(:01) D.Hopkins 57 yard field goal is No Good, Wide Left, Center-N.Sundberg, Holder-T.Way.",10,2,34,NYG 39,0,WAS,FGM
+11,1867,1,00:39,"(:39) (Shotgun) K.Cousins pass short left to C.Thompson to WAS 29 for 2 yards. FUMBLES, and recovers at WAS 29. C.Thompson to WAS 29 for no gain (J.Jenkins).",10,2,34,WAS 27,0,WAS,FUMBLE
+11,1943,1,00:08,(:08) (Shotgun) K.Cousins pass deep middle to D.Jackson to NYG 39 for 23 yards (T.Wade).,10,2,34,WAS 38,0,WAS,
+11,1967,0,00:01,Timeout #2 by WAS at 00:01.,0,2,34,,0,,TIMEOUT
+11,1926,0,00:08,Timeout #1 by WAS at 00:08.,0,2,11,,0,,TIMEOUT
+11,1902,2,00:15,"(:15) (No Huddle, Shotgun) K.Cousins pass short middle to C.Thompson to WAS 38 for 9 yards (K.Robinson).",8,2,34,WAS 29,0,WAS,
+10,1803,3,00:54,"(:54) (No Huddle, Shotgun) E.Manning pass incomplete deep right to O.Beckham.",9,2,12,NYG 44,0,NYG,
+10,1728,2,01:12,"(1:12) (No Huddle, Shotgun) E.Manning pass short left to O.Beckham pushed ob at NYG 43 for 8 yards (J.Norman).",7,2,11,NYG 35,0,NYG,
+10,1825,4,00:49,"(:49) B.Wing punts 40 yards to WAS 16, Center-Z.DeOssie. J.Crowder to WAS 27 for 11 yards (M.Herzlich; D.Kennard).",9,2,12,NYG 44,0,NYG,PUNT
+10,1781,2,00:59,"(:59) (No Huddle, Shotgun) E.Manning pass incomplete short left to V.Cruz.",9,2,12,NYG 44,0,NYG,
+10,1704,1,01:30,(1:30) (Shotgun) E.Manning pass short left to B.Rainey pushed ob at NYG 35 for 3 yards (D.Ihenacho).,10,2,3,NYG 32,0,NYG,
+10,1752,1,01:06,"(1:06) (No Huddle, Shotgun) E.Manning pass short middle to O.Beckham pushed ob at NYG 44 for 1 yard (B.Breeland).",10,2,12,NYG 43,0,NYG,
+13,2298,2,09:47,"(9:47) (Shotgun) C.Thompson right end to WAS 16 for no gain (E.Apple, J.Casillas).",10,3,0,WAS 16,0,WAS,
+13,2338,4,08:33,"(8:33) T.Way punts 49 yards to NYG 45, Center-N.Sundberg. D.Harris to WAS 49 for 6 yards (T.Garvin; D.Ihenacho). NYG-D.Harris was injured during the play. His return is Questionable.  17-Harris has a knee injury",20,3,-10,WAS 6,0,WAS,PUNT
+13,2276,1,09:54,(9:54) K.Cousins pass incomplete deep left to D.Jackson [O.Vernon].,10,3,0,WAS 16,0,WAS,
+13,2319,3,09:09,"(9:09) (Shotgun) K.Cousins sacked at WAS 6 for -10 yards (L.Hall, D.Kennard).",10,3,-10,WAS 16,0,WAS,
+12,2212,2,11:29,"(11:29) (No Huddle, Shotgun) R.Jennings up the middle to WAS 17 for 3 yards (C.Baker; R.Jean Francois).",6,3,58,WAS 20,0,NYG,
+12,2254,4,09:58,"(9:58) (No Huddle, Shotgun) E.Manning pass incomplete short left to O.Beckham (M.Foster).",2,3,59,WAS 16,0,NYG,
+12,2233,3,10:45,"(10:45) (No Huddle, Shotgun) P.Perkins left end to WAS 16 for 1 yard (M.Foster, L.Trail).",3,3,59,WAS 17,0,NYG,
+12,2081,1,13:48,"(13:48) (No Huddle) P.Perkins left tackle to NYG 45 for 8 yards (D.Ihenacho). PENALTY on WAS-J.Norman, Unsportsmanlike Conduct, 15 yards, enforced at NYG 45.",10,3,25,NYG 37,0,NYG,PENALTY
+12,2191,1,12:04,(12:04) (No Huddle) R.Jennings up the middle to WAS 20 for 4 yards (D.Ihenacho).,10,3,55,WAS 24,0,NYG,
+12,2145,1,13:08,(13:08) P.Perkins left end pushed ob at WAS 36 for 14 yards (D.Ihenacho).,20,3,39,50,0,NYG,
+12,2020,0,15:00,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback.",0,3,0,WAS 35,0,WAS,KICKOFF
+12,2060,2,14:28,"(14:28) (No Huddle, Shotgun) P.Perkins left end to NYG 37 for 5 yards (M.Foster, D.Ihenacho).",3,3,12,NYG 32,0,NYG,
+12,2167,2,12:38,(12:38) (Shotgun) E.Manning pass short left to S.Shepard to WAS 24 for 12 yards (G.Toler).,6,3,51,WAS 36,0,NYG,
+12,2113,1,13:30,"(13:30) (Shotgun) P.Perkins left end to WAS 33 for 7 yards (M.Foster; W.Compton). PENALTY on NYG-L.Donnell, Offensive Holding, 10 yards, enforced at WAS 40 - No Play.",10,3,38,WAS 40,0,NYG,PENALTY
+12,2039,1,15:00,(15:00) P.Perkins left tackle to NYG 32 for 7 yards (E.Hood; P.Smith).,10,3,7,NYG 25,0,NYG,
+15,2487,1,06:09,(6:09) R.Kelley right guard to WAS 27 for 7 yards (K.Robinson).,10,3,7,WAS 20,0,WAS,
+15,2557,1,04:13,(4:13) K.Cousins pass deep left intended for M.Harris INTERCEPTED by D.Rodgers-Cromartie at NYG 5. D.Rodgers-Cromartie ran ob at NYG 5 for no gain.,10,3,57,NYG 23,0,WAS,INT
+15,2529,3,05:01,"(5:01) (Shotgun) K.Cousins pass deep left to P.Garcon to NYG 23 for 49 yards (T.Wade, D.Rodgers-Cromartie).",2,3,57,WAS 28,0,WAS,
+15,2508,2,05:36,(5:36) R.Kelley right end to WAS 28 for 1 yard (O.Vernon).,3,3,8,WAS 27,0,WAS,
+14,2442,3,06:54,"(6:54) (No Huddle, Shotgun) E.Manning pass short right to V.Cruz to NYG 49 for 1 yard (B.Breeland).",13,3,-2,NYG 48,0,NYG,
+14,2388,2,07:43,"(7:43) (No Huddle) E.Manning pass incomplete short middle to R.Jennings (R.Jean Francois). PENALTY on NYG-E.Flowers, Offensive Holding, 10 yards, enforced at WAS 44 - No Play.",5,3,-5,WAS 44,0,NYG,PENALTY
+14,2466,4,06:19,"(6:19) B.Wing punts 51 yards to end zone, Center-Z.DeOssie, Touchback.",12,3,-2,NYG 49,0,NYG,PUNT
+14,2363,1,08:18,(8:18) (Shotgun) R.Jennings left end to WAS 44 for 5 yards (M.Foster).,10,3,5,WAS 49,0,NYG,
+14,2421,2,07:31,"(7:31) R.Jennings up the middle to NYG 48 for 2 yards (E.Hood, C.Baker).",15,3,-3,NYG 46,0,NYG,
+17,2719,2,01:24,(1:24) (Shotgun) K.Cousins pass incomplete short left. Thrown away.,8,3,33,NYG 14,0,WAS,
+17,2769,4,00:30,"(:30) D.Hopkins 32 yard field goal is GOOD, Center-N.Sundberg, Holder-T.Way.",8,3,33,NYG 14,1,WAS,FG
+17,2672,1,02:36,(2:36) T.Nsekhe reported in as eligible.  K.Cousins pass deep right to V.Davis pushed ob at NYG 16 for 31 yards (L.Collins).,10,3,31,NYG 47,0,WAS,
+17,2745,3,01:14,(1:14) (Shotgun) K.Cousins pass short right to C.Thompson to NYG 14 for no gain (J.Casillas; L.Collins).,8,3,33,NYG 14,0,WAS,
+17,2698,1,02:02,(2:02) (Shotgun) R.Kelley right guard to NYG 14 for 2 yards (D.Harrison).,10,3,33,NYG 16,0,WAS,
+16,2604,2,03:28,"(3:28) (No Huddle, Shotgun) E.Manning pass incomplete short middle to W.Tye.",8,3,2,NYG 7,0,NYG,
+16,2626,3,03:23,"(3:23) (No Huddle, Shotgun) R.Jennings right guard to NYG 11 for 4 yards (T.Murphy).",8,3,6,NYG 7,0,NYG,
+16,2583,1,04:06,(4:06) R.Jennings up the middle to NYG 7 for 2 yards (R.Jean Francois).,10,3,2,NYG 5,0,NYG,
+16,2647,4,02:48,"(2:48) B.Wing punts 55 yards to WAS 34, Center-Z.DeOssie. J.Crowder to NYG 47 for 19 yards (Z.DeOssie).",4,3,6,NYG 11,0,NYG,PUNT
+19,2965,3,12:44,(12:44) (Shotgun) K.Cousins pass short right to J.Crowder ran ob at WAS 39 for 11 yards.,6,4,15,WAS 28,0,WAS,
+19,3215,0,08:13,"D.Hopkins extra point is GOOD, Center-N.Sundberg, Holder-T.Way.",0,4,76,NYG 15,1,WAS,XP
+19,2989,1,12:12,(12:12) R.Kelley up the middle to WAS 44 for 5 yards (J.Casillas; R.Thomas).,10,4,20,WAS 39,0,WAS,
+19,2917,1,13:27,(13:27) C.Thompson left end pushed ob at WAS 28 for 4 yards (K.Robinson).,10,4,4,WAS 24,0,WAS,
+19,3010,2,11:32,(11:32) R.Kelley right end pushed ob at 50 for 6 yards (K.Robinson).,5,4,26,WAS 44,0,WAS,
+19,3031,1,10:55,(10:55) K.Cousins pass short middle to M.Harris to NYG 35 for 15 yards (E.Apple).,10,4,41,50,0,WAS,
+19,3138,2,08:48,(8:48) (Shotgun) K.Cousins pass incomplete short right to C.Thompson.,17,4,52,NYG 24,0,WAS,
+19,3195,1,08:17,"(8:17) (Shotgun) K.Cousins pass short right to J.Reed for 1 yard, TOUCHDOWN.",1,4,76,NYG 1,1,WAS,TD
+19,3085,1,09:43,(9:43) R.Kelley right end to NYG 14 for 3 yards (D.Rodgers-Cromartie; J.Casillas).,10,4,62,NYG 17,0,WAS,
+19,3055,1,10:14,(10:14) T.Nsekhe reported in as eligible.  K.Cousins pass short left to V.Davis pushed ob at NYG 17 for 18 yards (E.Apple).,10,4,59,NYG 35,0,WAS,
+19,2943,2,12:50,(12:50) K.Cousins pass incomplete short right to P.Garcon.,6,4,4,WAS 28,0,WAS,
+19,3106,2,09:10,"(9:10) (Shotgun) R.Kelley left tackle to NYG 7 for 7 yards (K.Sheppard). PENALTY on WAS-M.Moses, Offensive Holding, 10 yards, enforced at NYG 14 - No Play.",7,4,52,NYG 14,0,WAS,PENALTY
+19,3160,3,08:42,"(8:42) (Shotgun) K.Cousins pass short right to P.Garcon pushed ob at NYG 3 for 21 yards (L.Collins). PENALTY on NYG-L.Collins, Unsportsmanlike Conduct, 2 yards, enforced at NYG 3.",17,4,76,NYG 24,0,WAS,PENALTY
+18,2873,3,14:24,(14:24) P.Perkins left tackle to NYG 34 for 1 yard (M.Foster).,2,4,9,NYG 33,0,NYG,
+18,2848,2,15:00,(15:00) W.Beatty and B.Jones reported in as eligible.  P.Perkins left guard to NYG 33 for 1 yard (T.Murphy; W.Compton).,3,4,8,NYG 32,0,NYG,
+18,2894,4,13:35,"(13:35) B.Wing punts 42 yards to WAS 24, Center-Z.DeOssie, fair catch by J.Crowder.",1,4,9,NYG 34,0,NYG,PUNT
+18,2788,0,00:25,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback.",0,3,0,WAS 35,0,WAS,KICKOFF
+18,2807,1,00:25,(:25) S.Shepard right end to NYG 32 for 7 yards (M.Foster). End around,10,3,7,NYG 25,0,NYG,
+18,2832,0,,END QUARTER 3,0,3,7,,0,,

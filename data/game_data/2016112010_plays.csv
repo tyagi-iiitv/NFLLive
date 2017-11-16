@@ -1,195 +1,195 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1664,1,05:32,,10,2,44,SEA 23,0,SEA,
-9,1712,1,04:29,,3,2,74,PHI 3,0,SEA,
-9,1777,4,03:50,,3,2,74,PHI 3,1,SEA,FG
-9,1755,3,03:52,,3,2,74,PHI 3,0,SEA,
-9,1688,1,04:47,,10,2,74,PHI 33,0,SEA,
-9,1733,2,03:58,,3,2,74,PHI 3,0,SEA,
-24,4002,2,03:46,,5,4,66,SEA 5,1,PHI,TD
-24,3933,3,05:14,,1,4,49,SEA 15,0,PHI,
-24,3811,2,06:11,,5,4,31,SEA 35,0,PHI,
-24,3833,3,06:08,,5,4,42,SEA 35,0,PHI,
-24,3912,2,05:37,,5,4,51,SEA 19,0,PHI,
-24,3763,1,07:15,,10,4,26,PHI 34,0,PHI,
-24,3857,1,05:47,,10,4,66,SEA 24,0,PHI,PENALTY
-24,3954,4,04:36,,3,4,57,SEA 17,0,PHI,
-24,3890,1,05:42,,5,4,47,SEA 19,0,PHI,
-24,4026,0,03:42,,0,4,66,SEA 2,1,PHI,2PS
-24,3787,1,06:39,,10,4,31,SEA 40,0,PHI,
-24,3978,1,04:12,,9,4,61,SEA 9,0,PHI,
-10,1839,2,03:42,,10,2,8,PHI 25,0,PHI,
-10,1860,3,02:56,,2,2,8,PHI 33,0,PHI,
-10,1882,4,02:53,,2,2,8,PHI 33,0,PHI,PUNT
-10,1815,1,03:47,,10,2,0,PHI 25,0,PHI,
-10,1796,0,03:47,,0,2,0,SEA 35,0,SEA,KICKOFF
-20,3097,1,03:16,,10,3,22,PHI 27,0,PHI,
-20,3118,2,02:36,,6,3,22,PHI 31,0,PHI,
-20,3076,2,03:56,,10,3,18,PHI 9,0,PHI,
-20,3141,3,01:50,,6,3,8,PHI 31,0,PHI,FUMBLE
-20,3170,4,01:27,,20,3,8,PHI 17,0,PHI,PUNT
-20,3054,1,03:59,,10,3,0,PHI 9,0,PHI,
-6,769,1,04:58,,10,1,18,PHI 49,0,PHI,
-6,902,2,02:02,,3,1,37,SEA 33,0,PHI,
-6,1031,2,14:19,,4,2,68,SEA 4,1,PHI,TD
-6,860,3,03:14,,3,1,28,SEA 44,0,PHI,
-6,790,2,04:14,,9,1,24,50,0,PHI,
-6,1051,0,14:13,,0,2,68,SEA 15,1,PHI,XP
-6,970,2,00:23,,9,1,59,SEA 28,0,PHI,
-6,716,2,06:08,,11,1,6,PHI 31,0,PHI,
-6,825,3,03:40,,3,1,28,SEA 44,0,PHI,
-6,881,1,02:38,,10,1,35,SEA 40,0,PHI,
-6,1010,1,15:00,,9,2,64,SEA 9,0,PHI,
-6,745,3,05:34,,4,1,17,PHI 38,0,PHI,
-6,994,0,,,0,1,59,,0,,
-6,923,3,01:37,,1,1,39,SEA 31,0,PHI,
-6,693,1,06:48,,10,1,-1,PHI 32,0,PHI,
-6,944,1,00:57,,10,1,40,SEA 29,0,PHI,
-27,4511,0,00:00,,0,4,-4,,0,,
-27,4490,3,00:35,,13,4,-4,SEA 48,0,SEA,
-27,4444,1,01:47,,10,4,-2,PHI 49,0,SEA,
-27,4469,2,01:06,,12,4,-3,SEA 49,0,SEA,
-18,2857,2,06:56,,6,3,8,PHI 29,0,PHI,
-18,2831,1,07:31,,10,3,4,PHI 25,0,PHI,
-18,2898,3,06:17,,2,3,8,PHI 33,0,PHI,
-18,2920,4,06:13,,2,3,8,PHI 33,0,PHI,PUNT
-18,2881,0,06:17,,0,3,8,,0,,TIMEOUT
-18,2812,0,07:31,,0,3,0,SEA 35,0,SEA,KICKOFF
-26,4315,2,02:07,,1,4,43,SEA 41,0,PHI,
-26,4267,1,02:44,,10,4,34,PHI 32,0,PHI,
-26,4208,1,03:17,,10,4,34,PHI 16,0,PHI,PENALTY
-26,4291,1,02:32,,10,4,43,50,0,PHI,
-26,4372,0,01:57,,0,4,34,,0,,
-26,4243,1,03:08,,15,4,16,PHI 11,0,PHI,
-26,4422,4,01:52,,10,4,34,50,0,PHI,
-26,4337,3,02:03,,1,4,34,SEA 41,0,PHI,PENALTY
-26,4389,3,01:57,,10,4,34,50,0,PHI,
-25,4067,1,03:41,,10,4,-5,PHI 48,0,SEA,
-25,4045,0,03:42,,0,4,0,PHI 35,0,PHI,KICKOFF
-25,4130,0,03:32,,0,4,-1,,0,,TIMEOUT
-25,4092,0,03:37,,0,4,-5,,0,,TIMEOUT
-25,4147,3,03:32,,11,4,1,PHI 49,0,SEA,
-25,4109,2,03:37,,15,4,-1,SEA 47,0,SEA,
-25,4168,0,03:28,,0,4,1,,0,,TIMEOUT
-25,4185,4,03:28,,9,4,1,PHI 47,0,SEA,PUNT
-1,72,1,15:00,,10,1,0,SEA 25,0,SEA,
-1,53,0,15:00,,0,1,0,PHI 35,0,PHI,KICKOFF
-1,123,3,14:28,,10,1,6,SEA 25,0,SEA,
-1,144,4,13:54,,4,1,6,SEA 31,0,SEA,PUNT
-1,101,2,14:31,,10,1,0,SEA 25,0,SEA,
-5,670,4,07:02,,11,1,-1,SEA 19,0,SEA,PUNT
-5,603,1,08:31,,10,1,5,SEA 20,0,SEA,
-5,627,2,07:51,,5,1,-1,SEA 25,0,SEA,
-5,648,3,07:08,,11,1,-1,SEA 19,0,SEA,
-13,2222,2,00:10,,10,2,0,SEA 40,0,SEA,
-13,2200,1,00:16,,10,2,0,SEA 40,0,SEA,
-13,2268,0,,,0,2,20,,0,,
-13,2244,3,00:04,,10,2,20,SEA 40,0,SEA,
-21,3216,2,00:40,,3,3,24,PHI 34,0,SEA,
-21,3240,0,,,0,3,13,,0,,
-21,3277,2,14:21,,8,4,24,PHI 26,0,SEA,
-21,3301,1,13:51,,10,4,24,PHI 17,0,SEA,
-21,3323,2,13:45,,10,4,24,PHI 17,0,SEA,
-21,3256,1,15:00,,10,4,15,PHI 28,0,SEA,
-21,3345,3,13:43,,10,4,24,PHI 17,0,SEA,
-21,3367,4,13:37,,10,4,24,PHI 17,1,SEA,FG
-21,3195,1,01:16,,10,3,7,PHI 41,0,SEA,
-23,3634,2,09:55,,1,4,11,50,0,SEA,
-23,3655,1,09:20,,10,4,28,PHI 48,0,SEA,
-23,3700,2,08:13,,8,4,33,PHI 29,0,SEA,
-23,3613,1,10:38,,10,4,9,SEA 41,0,SEA,
-23,3679,1,08:50,,10,4,30,PHI 31,0,SEA,
-23,3743,4,07:19,,5,4,33,PHI 26,0,SEA,FGM
-23,3721,3,07:30,,5,4,33,PHI 26,0,SEA,
-11,2063,0,01:45,,0,2,4,,0,,TIMEOUT
-11,2080,4,01:45,,6,2,4,SEA 34,0,SEA,PUNT
-11,1937,1,02:24,,20,2,-15,SEA 20,0,SEA,PENALTY
-11,1998,2,01:59,,23,2,-8,SEA 17,0,SEA,
-11,1981,0,01:59,,0,2,-13,,0,,
-11,1904,1,02:47,,10,2,-10,SEA 30,0,SEA,PENALTY
-11,1960,1,02:04,,25,2,-13,SEA 15,0,SEA,
-11,2039,3,01:53,,18,2,4,SEA 22,0,SEA,
-11,2022,0,01:53,,0,2,-8,,0,,TIMEOUT
-14,2357,3,14:19,,11,3,-6,PHI 24,0,PHI,PENALTY
-14,2402,4,14:13,,16,3,-6,PHI 19,0,PHI,PUNT
-14,2335,2,14:24,,11,3,-1,PHI 24,0,PHI,
-14,2312,1,15:00,,10,3,-1,PHI 25,0,PHI,
-14,2293,0,15:00,,0,3,0,SEA 35,0,SEA,KICKOFF
-14,2380,3,14:19,,16,3,-6,PHI 19,0,PHI,
-8,1475,0,08:20,,0,2,0,SEA 35,0,SEA,KICKOFF
-8,1494,1,08:20,,10,2,3,PHI 25,0,PHI,
-8,1563,2,06:40,,6,2,18,PHI 43,0,PHI,
-8,1584,3,05:57,,6,2,13,PHI 43,0,PHI,PENALTY
-8,1641,4,05:38,,11,2,13,PHI 38,0,PHI,PUNT
-8,1515,2,07:52,,7,2,14,PHI 28,0,PHI,
-8,1539,1,07:20,,10,2,18,PHI 39,0,PHI,
-8,1619,3,05:45,,11,2,13,PHI 38,0,PHI,
-19,2945,1,06:03,,10,3,3,SEA 22,0,SEA,
-19,2973,2,05:28,,7,3,6,SEA 25,0,SEA,
-19,2994,3,04:42,,4,3,8,SEA 28,0,SEA,
-19,3018,4,04:09,,2,3,8,SEA 30,0,SEA,PUNT
-22,3591,4,10:42,,3,4,34,SEA 41,0,PHI,
-22,3386,0,13:34,,0,4,0,SEA 35,0,SEA,KICKOFF
-22,3473,2,12:37,,10,4,15,PHI 37,0,PHI,
-22,3567,3,11:25,,10,4,34,SEA 48,0,PHI,
-22,3430,2,13:09,,4,4,12,PHI 31,0,PHI,
-22,3499,3,11:54,,7,4,27,PHI 40,0,PHI,
-22,3451,1,12:43,,10,4,12,PHI 37,0,PHI,
-22,3406,1,13:34,,10,4,6,PHI 25,0,PHI,
-22,3523,1,11:33,,10,4,27,SEA 48,0,PHI,
-22,3545,2,11:29,,10,4,27,SEA 48,0,PHI,
-12,2105,1,01:34,,10,2,6,PHI 38,0,PHI,
-12,2150,3,00:45,,1,2,12,PHI 47,0,PHI,
-12,2174,1,00:24,,10,2,12,50,0,PHI,INT
-12,2126,2,01:10,,4,2,9,PHI 44,0,PHI,
-16,2620,2,09:56,,6,3,4,PHI 6,0,PHI,INT
-16,2599,1,10:35,,10,3,4,PHI 2,0,PHI,
-7,1229,1,12:03,,10,2,30,SEA 33,0,SEA,PENALTY
-7,1304,1,10:45,,10,2,92,SEA 48,0,SEA,
-7,1089,1,14:07,,10,2,12,SEA 8,0,SEA,
-7,1459,0,08:20,,0,2,92,PHI 15,1,SEA,XP
-7,1325,1,10:09,,10,2,61,PHI 34,0,SEA,
-7,1406,3,08:36,,16,2,57,PHI 40,0,SEA,PENALTY
-7,1439,3,08:30,,11,2,92,PHI 35,1,SEA,TD
-7,1350,2,09:38,,7,2,62,PHI 31,0,SEA,
-7,1371,3,09:01,,6,2,52,PHI 30,0,SEA,PENALTY
-7,1262,1,11:56,,10,2,39,SEA 38,0,SEA,
-7,1136,1,13:14,,15,2,7,SEA 15,0,SEA,
-7,1181,2,13:06,,20,2,19,SEA 10,0,SEA,
-7,1205,3,12:38,,3,2,25,SEA 27,0,SEA,
-7,1067,0,14:13,,0,2,0,PHI 35,0,PHI,KICKOFF
-7,1113,1,13:41,,10,2,7,SEA 20,0,SEA,PENALTY
-7,1283,2,11:22,,1,2,40,SEA 47,0,SEA,
-7,1158,2,13:06,,15,2,2,SEA 15,0,SEA,PENALTY
-3,402,2,11:14,,2,1,80,SEA 28,1,SEA,TD
-3,419,0,11:02,,0,1,80,PHI 15,0,SEA,XPB
-3,376,1,11:50,,10,1,8,SEA 20,0,SEA,
-17,2719,1,08:50,,10,3,42,PHI 26,0,SEA,
-17,2648,1,09:47,,10,3,0,SEA 41,0,SEA,
-17,2771,1,07:38,,10,3,59,PHI 15,1,SEA,TD
-17,2796,0,07:31,,0,3,59,PHI 15,1,SEA,XP
-17,2750,2,08:14,,1,3,44,PHI 17,0,SEA,
-17,2691,3,09:15,,11,3,33,SEA 40,0,SEA,
-17,2670,2,09:38,,10,3,-1,SEA 41,0,SEA,
-4,582,4,08:39,,18,1,21,PHI 46,0,PHI,PUNT
-4,454,1,11:02,,10,1,18,PHI 25,0,PHI,
-4,563,3,09:02,,9,1,21,SEA 45,0,PHI,
-4,546,0,09:02,,0,1,30,,0,,TIMEOUT
-4,501,1,09:54,,10,1,29,SEA 46,0,PHI,
-4,435,0,11:02,,0,1,0,SEA 35,0,SEA,KICKOFF
-4,480,1,10:32,,10,1,29,PHI 43,0,PHI,
-4,523,2,09:47,,10,1,30,SEA 46,0,PHI,
-2,167,1,13:47,,10,1,22,PHI 23,0,PHI,
-2,333,3,12:07,,10,1,22,PHI 45,0,PHI,
-2,248,2,12:19,,10,1,22,PHI 37,0,PHI,PENALTY
-2,216,2,12:41,,5,1,14,PHI 42,0,PHI,PENALTY
-2,310,2,12:11,,10,1,22,PHI 45,0,PHI,
-2,355,4,11:58,,10,1,22,PHI 45,0,PHI,PUNT
-2,284,1,12:15,,10,1,22,PHI 45,0,PHI,
-2,191,1,13:18,,10,1,19,PHI 37,0,PHI,
-15,2427,1,14:01,,10,3,5,SEA 22,0,SEA,
-15,2482,3,13:02,,5,3,18,SEA 27,0,SEA,FUMBLE
-15,2510,1,12:38,,10,3,17,SEA 36,0,SEA,
-15,2576,4,10:48,,6,3,18,SEA 40,0,SEA,PUNT
-15,2557,3,11:22,,6,3,18,SEA 40,0,SEA,
-15,2448,2,13:18,,5,3,18,SEA 27,0,SEA,
-15,2536,2,12:06,,7,3,18,SEA 39,0,SEA,
+24,3763,1,07:15,(7:15) C.Wentz pass deep left to J.Matthews ran ob at SEA 40 for 26 yards (S.Terrell).,10,4,26,PHI 34,0,PHI,
+24,3787,1,06:39,(6:39) (Shotgun) C.Wentz pass short middle to W.Smallwood to SEA 35 for 5 yards (K.Wright).,10,4,31,SEA 40,0,PHI,
+24,3833,3,06:08,(6:08) (Shotgun) C.Wentz pass short middle to J.Matthews to SEA 24 for 11 yards (N.Thorpe).,5,4,42,SEA 35,0,PHI,
+24,4002,2,03:46,"(3:46) (Shotgun) C.Wentz pass short middle to D.Green-Beckham for 5 yards, TOUCHDOWN.",5,4,66,SEA 5,1,PHI,TD
+24,3933,3,05:14,(5:14) (Shotgun) W.Smallwood right guard to SEA 17 for -2 yards (B.Wagner).,1,4,49,SEA 15,0,PHI,
+24,3954,4,04:36,(4:36) (Shotgun) C.Wentz pass short left to D.Green-Beckham to SEA 9 for 8 yards (D.Elliott).,3,4,57,SEA 17,0,PHI,
+24,4026,0,03:42,TWO-POINT CONVERSION ATTEMPT. C.Wentz pass to N.Agholor is complete. ATTEMPT SUCCEEDS.,0,4,66,SEA 2,1,PHI,2PS
+24,3857,1,05:47,"(5:47) (No Huddle, Shotgun) C.Wentz pass incomplete deep middle to Z.Ertz. PENALTY on SEA-C.Marsh, Defensive Offside, 5 yards, enforced at SEA 24 - No Play. Penalty on SEA, Defensive 12 On-field, declined.",10,4,66,SEA 24,0,PHI,PENALTY
+24,3811,2,06:11,(6:11) (Shotgun) C.Wentz pass incomplete short right to J.Matthews (J.Reed).,5,4,31,SEA 35,0,PHI,
+24,3978,1,04:12,"(4:12) (No Huddle, Shotgun) C.Wentz pass short left to W.Smallwood to SEA 5 for 4 yards (K.Wright; S.Terrell). SEA-D.Moore was injured during the play.",9,4,61,SEA 9,0,PHI,
+24,3890,1,05:42,(5:42) (Shotgun) C.Wentz pass incomplete deep left to N.Agholor.,5,4,47,SEA 19,0,PHI,
+24,3912,2,05:37,(5:37) (Shotgun) W.Smallwood up the middle to SEA 15 for 4 yards (J.Reed).,5,4,51,SEA 19,0,PHI,
+25,4045,0,03:42,(Onside Kick formation) C.Sturgis kicks onside 13 yards from PHI 35 to PHI 48. L.Willson (didn't try to advance) to PHI 48 for no gain (J.Mills).,0,4,0,PHI 35,0,PHI,KICKOFF
+25,4067,1,03:41,(3:41) T.Boykin up the middle to SEA 47 for -5 yards (F.Cox). #2 Boykin in at RB.,10,4,-5,PHI 48,0,SEA,
+25,4092,0,03:37,Timeout #1 by PHI at 03:37.,0,4,-5,,0,,TIMEOUT
+25,4130,0,03:32,Timeout #2 by PHI at 03:32.,0,4,-1,,0,,TIMEOUT
+25,4147,3,03:32,(3:32) W.Tukuafu up the middle to PHI 47 for 2 yards (N.Bradham; B.Allen).,11,4,1,PHI 49,0,SEA,
+25,4185,4,03:28,"(3:28) J.Ryan punts 31 yards to PHI 16, Center-N.Frese, downed by SEA-B.Williams.",9,4,1,PHI 47,0,SEA,PUNT
+25,4168,0,03:28,Timeout #3 by PHI at 03:28.,0,4,1,,0,,TIMEOUT
+25,4109,2,03:37,(3:37) (Shotgun) R.Wilson right end to PHI 49 for 4 yards (M.Jenkins).,15,4,-1,SEA 47,0,SEA,
+26,4389,3,01:57,"(1:57) (Shotgun) C.Wentz pass incomplete short right to Z.Ertz [C.Avril]. Penalty on PHI-J.Peters, Offensive Holding, declined.",10,4,34,50,0,PHI,
+26,4315,2,02:07,"(2:07) (No Huddle, Shotgun) C.Wentz pass incomplete short left to D.Green-Beckham [C.Avril].",1,4,43,SEA 41,0,PHI,
+26,4267,1,02:44,"(2:44) (No Huddle, Shotgun) C.Wentz pass short middle to W.Smallwood to 50 for 18 yards (B.Wagner; K.Chancellor).",10,4,34,PHI 32,0,PHI,
+26,4422,4,01:52,(1:52) (Shotgun) C.Wentz pass incomplete short right to J.Matthews [C.Avril].,10,4,34,50,0,PHI,
+26,4337,3,02:03,"(2:03) (Shotgun) C.Wentz pass short left to K.Barner to SEA 25 for 16 yards (J.Lane). PENALTY on PHI-D.Green-Beckham, Offensive Pass Interference, 9 yards, enforced at SEA 41 - No Play.",1,4,34,SEA 41,0,PHI,PENALTY
+26,4291,1,02:32,(2:32) (Shotgun) C.Wentz pass short left to D.Green-Beckham to SEA 41 for 9 yards (J.Lane).,10,4,43,50,0,PHI,
+26,4243,1,03:08,(3:08) (Shotgun) C.Wentz pass short middle to D.Green-Beckham to PHI 32 for 21 yards (S.Terrell).,15,4,16,PHI 11,0,PHI,
+26,4208,1,03:17,"(3:17) (Shotgun) C.Wentz pass short right to Z.Ertz to PHI 19 for 3 yards (K.Wright). PENALTY on PHI, Illegal Shift, 5 yards, enforced at PHI 16 - No Play.",10,4,34,PHI 16,0,PHI,PENALTY
+26,4372,0,01:57,Two-Minute Warning,0,4,34,,0,,
+27,4490,3,00:35,(:35) R.Wilson kneels to SEA 47 for -1 yards.,13,4,-4,SEA 48,0,SEA,
+27,4444,1,01:47,(1:47) Ball placed at 49 to start drive. R.Wilson kneels to SEA 49 for -2 yards.,10,4,-2,PHI 49,0,SEA,
+27,4511,0,00:00,END GAME,0,4,-4,,0,,
+27,4469,2,01:06,(1:06) R.Wilson kneels to SEA 48 for -1 yards.,12,4,-3,SEA 49,0,SEA,
+20,3118,2,02:36,(2:36) I.Seumalo reported in as eligible.  K.Barner up the middle to PHI 31 for no gain (B.Wagner; F.Clark).,6,3,22,PHI 31,0,PHI,
+20,3141,3,01:50,"(1:50) (Shotgun) C.Wentz sacked at PHI 20 for -11 yards (C.Avril). FUMBLES (C.Avril) [C.Avril], recovered by PHI-H.Vaitai at PHI 17. H.Vaitai to PHI 17 for no gain (C.Marsh).",6,3,8,PHI 31,0,PHI,FUMBLE
+20,3097,1,03:16,(3:16) W.Smallwood left tackle to PHI 31 for 4 yards (J.Reed; K.Chancellor).,10,3,22,PHI 27,0,PHI,
+20,3076,2,03:56,(3:56) W.Smallwood right tackle to PHI 27 for 18 yards (R.Sherman; S.Terrell).,10,3,18,PHI 9,0,PHI,
+20,3170,4,01:27,"(1:27) D.Jones punts 43 yards to SEA 40, Center-J.Dorenbos. T.Lockett to PHI 41 for 19 yards (W.Smallwood).",20,3,8,PHI 17,0,PHI,PUNT
+20,3054,1,03:59,(3:59) C.Wentz pass incomplete short right to T.Burton.,10,3,0,PHI 9,0,PHI,
+21,3216,2,00:40,(:40) R.Wilson pass short middle to P.Richardson to PHI 28 for 6 yards (L.McKelvin; J.Watkins).,3,3,24,PHI 34,0,SEA,
+21,3367,4,13:37,"(13:37) S.Hauschka 35 yard field goal is GOOD, Center-N.Frese, Holder-J.Ryan.",10,4,24,PHI 17,1,SEA,FG
+21,3240,0,,END QUARTER 3,0,3,13,,0,,
+21,3256,1,15:00,(15:00) T.Pope left tackle to PHI 26 for 2 yards (F.Cox; J.Hicks).,10,4,15,PHI 28,0,SEA,
+21,3345,3,13:43,(13:43) (Shotgun) R.Wilson pass incomplete deep middle to J.Graham.,10,4,24,PHI 17,0,SEA,
+21,3277,2,14:21,(14:21) (Shotgun) R.Wilson pass short right to T.Lockett ran ob at PHI 17 for 9 yards (J.Mills).,8,4,24,PHI 26,0,SEA,
+21,3195,1,01:16,(1:16) R.Wilson scrambles up the middle to PHI 34 for 7 yards (N.Bradham).,10,3,7,PHI 41,0,SEA,
+21,3323,2,13:45,(13:45) (Shotgun) R.Wilson pass incomplete deep middle to T.Lockett.,10,4,24,PHI 17,0,SEA,
+21,3301,1,13:51,(13:51) R.Wilson pass incomplete short right to J.Graham (R.McLeod).,10,4,24,PHI 17,0,SEA,
+22,3386,0,13:34,"S.Hauschka kicks 65 yards from SEA 35 to end zone, Touchback.",0,4,0,SEA 35,0,SEA,KICKOFF
+22,3545,2,11:29,(11:29) (Shotgun) C.Wentz pass incomplete short middle to Z.Ertz (T.McDaniel).,10,4,27,SEA 48,0,PHI,
+22,3591,4,10:42,(10:42) (Shotgun) C.Wentz pass incomplete short right to Z.Ertz (K.Wright).,3,4,34,SEA 41,0,PHI,
+22,3451,1,12:43,(12:43) (Shotgun) C.Wentz pass incomplete deep middle to Z.Ertz.,10,4,12,PHI 37,0,PHI,
+22,3567,3,11:25,(11:25) (Shotgun) C.Wentz pass short right to Z.Ertz to SEA 41 for 7 yards (J.Lane).,10,4,34,SEA 48,0,PHI,
+22,3499,3,11:54,(11:54) (Shotgun) C.Wentz pass short left to J.Matthews pushed ob at SEA 48 for 12 yards (J.Lane).,7,4,27,PHI 40,0,PHI,
+22,3430,2,13:09,(13:09) (Shotgun) W.Smallwood left guard to PHI 37 for 6 yards (B.Wagner; F.Clark).,4,4,12,PHI 31,0,PHI,
+22,3473,2,12:37,(12:37) (Shotgun) W.Smallwood left end pushed ob at PHI 40 for 3 yards (J.Lane; B.Wagner).,10,4,15,PHI 37,0,PHI,
+22,3523,1,11:33,"(11:33) (No Huddle, Shotgun) C.Wentz pass incomplete short left to D.Green-Beckham.",10,4,27,SEA 48,0,PHI,
+22,3406,1,13:34,(13:34) (Shotgun) C.Wentz pass short middle to J.Matthews to PHI 31 for 6 yards (B.Wagner).,10,4,6,PHI 25,0,PHI,
+23,3613,1,10:38,(10:38) T.Rawls left tackle to 50 for 9 yards (M.Jenkins).,10,4,9,SEA 41,0,SEA,
+23,3634,2,09:55,(9:55) T.Rawls right guard to PHI 48 for 2 yards (C.Barwin; B.Logan).,1,4,11,50,0,SEA,
+23,3743,4,07:19,"(7:19) S.Hauschka 44 yard field goal is No Good, Wide Right, Center-N.Frese, Holder-J.Ryan.",5,4,33,PHI 26,0,SEA,FGM
+23,3679,1,08:50,(8:50) T.Rawls left tackle to PHI 29 for 2 yards (F.Cox).,10,4,30,PHI 31,0,SEA,
+23,3655,1,09:20,(9:20) R.Wilson pass short right to D.Baldwin pushed ob at PHI 31 for 17 yards (J.Hicks).,10,4,28,PHI 48,0,SEA,
+23,3700,2,08:13,(8:13) (Shotgun) T.Rawls left guard to PHI 26 for 3 yards (N.Carroll).,8,4,33,PHI 29,0,SEA,
+23,3721,3,07:30,(7:30) (Shotgun) R.Wilson pass incomplete short right [V.Curry].,5,4,33,PHI 26,0,SEA,
+1,144,4,13:54,"(13:54) J.Ryan punts 46 yards to PHI 23, Center-N.Frese, fair catch by D.Sproles.",4,1,6,SEA 31,0,SEA,PUNT
+1,123,3,14:28,(14:28) (Shotgun) R.Wilson scrambles up the middle to SEA 31 for 6 yards (C.Barwin).,10,1,6,SEA 25,0,SEA,
+1,101,2,14:31,(14:31) (Shotgun) R.Wilson pass incomplete short middle to J.Kearse.,10,1,0,SEA 25,0,SEA,
+1,72,1,15:00,(15:00) (Shotgun) R.Wilson pass short left to C.Prosise pushed ob at SEA 25 for no gain (M.Kendricks; N.Carroll).,10,1,0,SEA 25,0,SEA,
+1,53,0,15:00,"C.Sturgis kicks 65 yards from PHI 35 to end zone, Touchback.",0,1,0,PHI 35,0,PHI,KICKOFF
+3,419,0,11:02,"S.Hauschka extra point is Blocked (B.Logan), Center-N.Frese, Holder-J.Ryan.",0,1,80,PHI 15,0,SEA,XPB
+3,402,2,11:14,"(11:14) C.Prosise right guard for 72 yards, TOUCHDOWN.",2,1,80,SEA 28,1,SEA,TD
+3,376,1,11:50,(11:50) C.Prosise up the middle to SEA 28 for 8 yards (R.McLeod).,10,1,8,SEA 20,0,SEA,
+2,216,2,12:41,"(12:41) I.Seumalo reported in as eligible.  PENALTY on PHI-J.Peters, False Start, 5 yards, enforced at PHI 42 - No Play.",5,1,14,PHI 42,0,PHI,PENALTY
+2,310,2,12:11,(12:11) (Shotgun) C.Wentz pass incomplete short right to W.Smallwood.,10,1,22,PHI 45,0,PHI,
+2,191,1,13:18,(13:18) R.Mathews up the middle to PHI 42 for 5 yards (C.Avril).,10,1,19,PHI 37,0,PHI,
+2,333,3,12:07,(12:07) (Shotgun) C.Wentz pass incomplete short left.,10,1,22,PHI 45,0,PHI,
+2,284,1,12:15,(12:15) (Shotgun) C.Wentz pass incomplete short right to Z.Ertz.,10,1,22,PHI 45,0,PHI,
+2,355,4,11:58,"(11:58) D.Jones punts 55 yards to end zone, Center-J.Dorenbos, Touchback.",10,1,22,PHI 45,0,PHI,PUNT
+2,167,1,13:47,(13:47) (Shotgun) C.Wentz pass short right to T.Burton to PHI 37 for 14 yards (K.Chancellor; D.Shead). SEA-K.Chancellor was injured during the play.,10,1,22,PHI 23,0,PHI,
+2,248,2,12:19,"(12:19) I.Seumalo reported in as eligible.  C.Wentz pass incomplete short middle to Z.Ertz. PENALTY on SEA-R.Sherman, Defensive Pass Interference, 8 yards, enforced at PHI 37 - No Play.",10,1,22,PHI 37,0,PHI,PENALTY
+5,670,4,07:02,"(7:02) J.Ryan punts 49 yards to PHI 32, Center-N.Frese, downed by SEA-K.McCray.",11,1,-1,SEA 19,0,SEA,PUNT
+5,648,3,07:08,(7:08) (Shotgun) R.Wilson pass incomplete deep left to P.Richardson.,11,1,-1,SEA 19,0,SEA,
+5,627,2,07:51,(7:51) C.Prosise left end to SEA 19 for -6 yards (N.Bradham; M.Jenkins).,5,1,-1,SEA 25,0,SEA,
+5,603,1,08:31,(8:31) R.Wilson pass short right to J.Graham to SEA 25 for 5 yards (M.Jenkins).,10,1,5,SEA 20,0,SEA,
+4,582,4,08:39,"(8:39) D.Jones punts 54 yards to end zone, Center-J.Dorenbos, Touchback.",18,1,21,PHI 46,0,PHI,PUNT
+4,480,1,10:32,(10:32) K.Barner left end pushed ob at SEA 46 for 11 yards (E.Thomas).,10,1,29,PHI 43,0,PHI,
+4,563,3,09:02,(9:02) (Shotgun) C.Wentz sacked at PHI 46 for -9 yards (B.Wagner).,9,1,21,SEA 45,0,PHI,
+4,454,1,11:02,(11:02) R.Mathews left end pushed ob at PHI 43 for 18 yards (E.Thomas; K.Chancellor).,10,1,18,PHI 25,0,PHI,
+4,546,0,09:02,Timeout #1 by PHI at 09:02.,0,1,30,,0,,TIMEOUT
+4,523,2,09:47,(9:47) I.Seumalo reported in as eligible.  R.Mathews right guard to SEA 45 for 1 yard (K.Wright; B.Coyle).,10,1,30,SEA 46,0,PHI,
+4,435,0,11:02,"S.Hauschka kicks 65 yards from SEA 35 to end zone, Touchback.",0,1,0,SEA 35,0,SEA,KICKOFF
+4,501,1,09:54,(9:54) C.Wentz pass incomplete deep middle to B.Treggs (E.Thomas).,10,1,29,SEA 46,0,PHI,
+7,1304,1,10:45,(10:45) T.Rawls left end to PHI 34 for 18 yards (N.Carroll; R.McLeod). SEA-G.Fant was injured during the play. His return is Questionable.,10,2,92,SEA 48,0,SEA,
+7,1229,1,12:03,"(12:03) R.Wilson pass incomplete deep left to D.Baldwin. PENALTY on PHI-M.Jenkins, Defensive Holding, 5 yards, enforced at SEA 33 - No Play.",10,2,30,SEA 33,0,SEA,PENALTY
+7,1158,2,13:06,"(13:06) (Shotgun) PENALTY on SEA-M.Glowinski, False Start, 5 yards, enforced at SEA 15 - No Play.",15,2,2,SEA 15,0,SEA,PENALTY
+7,1283,2,11:22,(11:22) T.Rawls up the middle to SEA 48 for 1 yard (N.Bradham).,1,2,40,SEA 47,0,SEA,
+7,1325,1,10:09,(10:09) T.Rawls left tackle to PHI 31 for 3 yards (M.Kendricks; C.Barwin).,10,2,61,PHI 34,0,SEA,
+7,1205,3,12:38,(12:38) (Shotgun) R.Wilson pass short right to J.Graham to SEA 33 for 6 yards (J.Watkins).,3,2,25,SEA 27,0,SEA,
+7,1262,1,11:56,(11:56) T.Rawls right tackle to SEA 47 for 9 yards (M.Kendricks).,10,2,39,SEA 38,0,SEA,
+7,1350,2,09:38,(9:38) T.Rawls left guard to PHI 30 for 1 yard (F.Cox; M.Jenkins).,7,2,62,PHI 31,0,SEA,
+7,1136,1,13:14,(13:14) (Shotgun) R.Wilson pass incomplete short left to T.Rawls (N.Carroll).,15,2,7,SEA 15,0,SEA,
+7,1089,1,14:07,(14:07) (Shotgun) R.Wilson pass short left to J.Kearse pushed ob at SEA 20 for 12 yards (N.Carroll).,10,2,12,SEA 8,0,SEA,
+7,1181,2,13:06,(13:06) (Shotgun) R.Wilson pass short left to J.Kearse pushed ob at SEA 27 for 17 yards (N.Carroll).,20,2,19,SEA 10,0,SEA,
+7,1371,3,09:01,"(9:01) (Shotgun) R.Wilson pass short right to T.Lockett pushed ob at PHI 3 for 27 yards (N.Bradham). PENALTY on SEA-J.Kearse, Offensive Pass Interference, 10 yards, enforced at PHI 30 - No Play.",6,2,52,PHI 30,0,SEA,PENALTY
+7,1113,1,13:41,"(13:41) (Shotgun) PENALTY on SEA-G.Fant, False Start, 5 yards, enforced at SEA 20 - No Play.",10,2,7,SEA 20,0,SEA,PENALTY
+7,1067,0,14:13,C.Sturgis kicks 64 yards from PHI 35 to SEA 1. T.Lockett to SEA 8 for 7 yards (J.Watkins).,0,2,0,PHI 35,0,PHI,KICKOFF
+7,1459,0,08:20,"S.Hauschka extra point is GOOD, Center-N.Frese, Holder-J.Ryan.",0,2,92,PHI 15,1,SEA,XP
+7,1439,3,08:30,"(8:30) (Shotgun) R.Wilson pass deep left to J.Graham for 35 yards, TOUCHDOWN.",11,2,92,PHI 35,1,SEA,TD
+7,1406,3,08:36,"(8:36) (Shotgun) R.Wilson pass incomplete deep middle to D.Baldwin. PENALTY on PHI-B.Graham, Defensive Offside, 5 yards, enforced at PHI 40 - No Play.",16,2,57,PHI 40,0,SEA,PENALTY
+6,902,2,02:02,(2:02) R.Mathews right guard to SEA 31 for 2 yards (J.Jenkins; B.Wagner).,3,1,37,SEA 33,0,PHI,
+6,693,1,06:48,(6:48) I.Seumalo reported in as eligible.  R.Mathews right tackle to PHI 31 for -1 yards (B.Wagner; B.Coyle).,10,1,-1,PHI 32,0,PHI,
+6,881,1,02:38,(2:38) (Shotgun) D.Sproles left tackle to SEA 33 for 7 yards (N.Thorpe; B.Wagner).,10,1,35,SEA 40,0,PHI,
+6,769,1,04:58,(4:58) W.Smallwood left end to 50 for 1 yard (N.Thorpe; D.Moore).,10,1,18,PHI 49,0,PHI,
+6,745,3,05:34,(5:34) (Shotgun) C.Wentz pass short right to D.Green-Beckham to PHI 49 for 11 yards (K.Chancellor; N.Thorpe).,4,1,17,PHI 38,0,PHI,
+6,994,0,,END QUARTER 1,0,1,59,,0,,
+6,790,2,04:14,(4:14) (Shotgun) C.Wentz pass short left to D.Sproles to SEA 44 for 6 yards (K.Wright).,9,1,24,50,0,PHI,
+6,716,2,06:08,(6:08) C.Wentz pass short right to Z.Ertz pushed ob at PHI 38 for 7 yards (K.Chancellor).,11,1,6,PHI 31,0,PHI,
+6,944,1,00:57,(:57) R.Mathews left end pushed ob at SEA 28 for 1 yard (J.Lane).,10,1,40,SEA 29,0,PHI,
+6,970,2,00:23,(:23) C.Wentz pass short middle to B.Celek to SEA 9 for 19 yards (R.Sherman; K.Chancellor).,9,1,59,SEA 28,0,PHI,
+6,1051,0,14:13,"C.Sturgis extra point is GOOD, Center-J.Dorenbos, Holder-D.Jones.",0,2,68,SEA 15,1,PHI,XP
+6,860,3,03:14,(3:14) W.Smallwood right tackle to SEA 40 for 4 yards (R.Sherman).,3,1,28,SEA 44,0,PHI,
+6,825,3,03:40,"(3:40) (Shotgun) C.Wentz pass short middle to T.Burton to SEA 42 for 2 yards (B.Wagner). Penalty on SEA-K.Wright, Defensive Holding, offsetting, enforced at SEA 44 - No Play. Penalty on PHI-T.Burton, Offensive Pass Interference, offsetting.",3,1,28,SEA 44,0,PHI,
+6,1031,2,14:19,"(14:19) (Shotgun) C.Wentz pass short middle to Z.Ertz for 4 yards, TOUCHDOWN.",4,2,68,SEA 4,1,PHI,TD
+6,923,3,01:37,(1:37) C.Wentz up the middle to SEA 29 for 2 yards (F.Clark).,1,1,39,SEA 31,0,PHI,
+6,1010,1,15:00,(15:00) R.Mathews right guard to SEA 4 for 5 yards (B.Wagner; E.Thomas).,9,2,64,SEA 9,0,PHI,
+9,1712,1,04:29,(4:29) (Shotgun) T.Rawls up the middle to PHI 3 for no gain (B.Graham).,3,2,74,PHI 3,0,SEA,
+9,1777,4,03:50,"(3:50) S.Hauschka 21 yard field goal is GOOD, Center-N.Frese, Holder-J.Ryan.",3,2,74,PHI 3,1,SEA,FG
+9,1733,2,03:58,(3:58) R.Wilson pass incomplete short right to J.Kearse.,3,2,74,PHI 3,0,SEA,
+9,1688,1,04:47,(4:47) R.Wilson pass deep left to T.Lockett pushed ob at PHI 3 for 30 yards (R.McLeod).,10,2,74,PHI 33,0,SEA,
+9,1755,3,03:52,(3:52) (Shotgun) R.Wilson pass incomplete short middle to J.Kearse.,3,2,74,PHI 3,0,SEA,
+9,1664,1,05:32,(5:32) R.Wilson pass deep right to D.Baldwin to PHI 33 for 44 yards (M.Jenkins).,10,2,44,SEA 23,0,SEA,
+8,1641,4,05:38,"(5:38) D.Jones punts 39 yards to SEA 23, Center-J.Dorenbos, fair catch by T.Lockett.",11,2,13,PHI 38,0,PHI,PUNT
+8,1619,3,05:45,(5:45) (Shotgun) C.Wentz pass incomplete deep left to N.Agholor [C.Marsh].,11,2,13,PHI 38,0,PHI,
+8,1584,3,05:57,"(5:57) (Shotgun) C.Wentz pass short right to Z.Ertz for 57 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on PHI, Illegal Formation, 5 yards, enforced at PHI 43 - No Play.",6,2,13,PHI 43,0,PHI,PENALTY
+8,1494,1,08:20,(8:20) W.Smallwood left end to PHI 28 for 3 yards (K.Chancellor; J.Jenkins).,10,2,3,PHI 25,0,PHI,
+8,1475,0,08:20,"S.Hauschka kicks 65 yards from SEA 35 to end zone, Touchback.",0,2,0,SEA 35,0,SEA,KICKOFF
+8,1515,2,07:52,(7:52) (Shotgun) C.Wentz pass short middle to Z.Ertz to PHI 39 for 11 yards (B.Wagner).,7,2,14,PHI 28,0,PHI,
+8,1563,2,06:40,(6:40) W.Smallwood right guard to PHI 43 for no gain (B.Wagner; J.Jenkins).,6,2,18,PHI 43,0,PHI,
+8,1539,1,07:20,(7:20) (Shotgun) C.Wentz pass short middle to J.Matthews to PHI 43 for 4 yards (K.Wright).,10,2,18,PHI 39,0,PHI,
+11,1981,0,01:59,Two-Minute Warning,0,2,-13,,0,,
+11,1998,2,01:59,(1:59) (Shotgun) R.Wilson pass short middle to C.Prosise to SEA 22 for 5 yards (J.Hicks).,23,2,-8,SEA 17,0,SEA,
+11,2080,4,01:45,"(1:45) J.Ryan punts 43 yards to PHI 23, Center-N.Frese. D.Sproles to PHI 38 for 15 yards (N.Frese; B.Coyle).",6,2,4,SEA 34,0,SEA,PUNT
+11,1960,1,02:04,(2:04) (Shotgun) C.Prosise right tackle to SEA 17 for 2 yards (N.Bradham).,25,2,-13,SEA 15,0,SEA,
+11,1937,1,02:24,"(2:24) (Shotgun) PENALTY on SEA-G.Gilliam, False Start, 5 yards, enforced at SEA 20 - No Play.",20,2,-15,SEA 20,0,SEA,PENALTY
+11,2022,0,01:53,Timeout #2 by PHI at 01:53.,0,2,-8,,0,,TIMEOUT
+11,1904,1,02:47,"(2:47) (Shotgun) C.Prosise right tackle to SEA 35 for 5 yards (N.Bradham). PENALTY on SEA-M.Glowinski, Offensive Holding, 10 yards, enforced at SEA 30 - No Play.",10,2,-10,SEA 30,0,SEA,PENALTY
+11,2063,0,01:45,Timeout #3 by PHI at 01:45.,0,2,4,,0,,TIMEOUT
+11,2039,3,01:53,(1:53) (Shotgun) R.Wilson pass short left to L.Willson to SEA 34 for 12 yards (M.Jenkins; J.Mills).,18,2,4,SEA 22,0,SEA,
+10,1815,1,03:47,(3:47) I.Seumalo reported in as eligible.  C.Wentz pass incomplete deep middle to N.Agholor.,10,2,0,PHI 25,0,PHI,
+10,1882,4,02:53,"(2:53) D.Jones punts 37 yards to SEA 30, Center-J.Dorenbos, out of bounds.",2,2,8,PHI 33,0,PHI,PUNT
+10,1839,2,03:42,(3:42) (Shotgun) D.Sproles right tackle to PHI 33 for 8 yards (R.Sherman).,10,2,8,PHI 25,0,PHI,
+10,1796,0,03:47,"S.Hauschka kicks 65 yards from SEA 35 to end zone, Touchback.",0,2,0,SEA 35,0,SEA,KICKOFF
+10,1860,3,02:56,(2:56) (Shotgun) C.Wentz pass incomplete short right to J.Matthews (K.Chancellor).,2,2,8,PHI 33,0,PHI,
+13,2200,1,00:16,"(:16) (Shotgun) R.Wilson pass incomplete short right to C.Prosise (N.Bradham, F.Cox).",10,2,0,SEA 40,0,SEA,
+13,2244,3,00:04,(:04) (Shotgun) R.Wilson pass short left to T.Rawls to PHI 40 for 20 yards (J.Hicks).,10,2,20,SEA 40,0,SEA,
+13,2268,0,,END QUARTER 2,0,2,20,,0,,
+13,2222,2,00:10,(:10) (Shotgun) R.Wilson pass incomplete deep left to P.Richardson.,10,2,0,SEA 40,0,SEA,
+12,2150,3,00:45,(:45) (Shotgun) C.Wentz pass short middle to Z.Ertz to 50 for 3 yards (K.Wright; B.Wagner).,1,2,12,PHI 47,0,PHI,
+12,2174,1,00:24,"(:24) (No Huddle, Shotgun) C.Wentz pass short middle intended for D.Green-Beckham INTERCEPTED by K.Chancellor at SEA 35. K.Chancellor to SEA 40 for 5 yards (Z.Ertz).",10,2,12,50,0,PHI,INT
+12,2105,1,01:34,(1:34) (Shotgun) K.Barner left end to PHI 44 for 6 yards (K.Wright; E.Thomas).,10,2,6,PHI 38,0,PHI,
+12,2126,2,01:10,"(1:10) (No Huddle, Shotgun) C.Wentz pass short right to Z.Ertz to PHI 47 for 3 yards (B.Wagner).",4,2,9,PHI 44,0,PHI,
+15,2557,3,11:22,(11:22) (Shotgun) R.Wilson sacked at SEA 40 for 0 yards (sack split by V.Curry and M.Smith).,6,3,18,SEA 40,0,SEA,
+15,2576,4,10:48,"(10:48) J.Ryan punts 58 yards to PHI 2, Center-N.Frese, downed by SEA-N.Thorpe.",6,3,18,SEA 40,0,SEA,PUNT
+15,2536,2,12:06,(12:06) T.Pope left tackle to SEA 40 for 1 yard (D.Vaeao; M.Smith).,7,3,18,SEA 39,0,SEA,
+15,2448,2,13:18,(13:18) (Shotgun) R.Wilson pass incomplete deep left to D.Baldwin (L.McKelvin).,5,3,18,SEA 27,0,SEA,
+15,2482,3,13:02,"(13:02) (Shotgun) J.Britt to SEA 22 for -5 yards. FUMBLES, recovered by SEA-R.Wilson at SEA 22. R.Wilson pass short left to D.Baldwin to SEA 36 for 9 yards (N.Carroll).",5,3,18,SEA 27,0,SEA,FUMBLE
+15,2427,1,14:01,(14:01) T.Rawls up the middle to SEA 27 for 5 yards (L.McKelvin).,10,3,5,SEA 22,0,SEA,
+15,2510,1,12:38,(12:38) (Shotgun) R.Wilson scrambles left end ran ob at SEA 39 for 3 yards (V.Curry).,10,3,17,SEA 36,0,SEA,
+14,2335,2,14:24,(14:24) (Shotgun) C.Wentz pass incomplete short right to J.Matthews (R.Sherman).,11,3,-1,PHI 24,0,PHI,
+14,2293,0,15:00,"S.Hauschka kicks 65 yards from SEA 35 to end zone, Touchback.",0,3,0,SEA 35,0,SEA,KICKOFF
+14,2312,1,15:00,(15:00) I.Seumalo reported in as eligible.  W.Smallwood left tackle to PHI 24 for -1 yards (K.Wright).,10,3,-1,PHI 25,0,PHI,
+14,2380,3,14:19,(14:19) (Shotgun) C.Wentz pass incomplete short right to K.Barner.,16,3,-6,PHI 19,0,PHI,
+14,2402,4,14:13,"(14:13) D.Jones punts 60 yards to SEA 21, Center-J.Dorenbos. T.Lockett to SEA 22 for 1 yard (B.Braman).",16,3,-6,PHI 19,0,PHI,PUNT
+14,2357,3,14:19,"(14:19) (Shotgun) PENALTY on PHI-J.Peters, False Start, 5 yards, enforced at PHI 24 - No Play.",11,3,-6,PHI 24,0,PHI,PENALTY
+17,2648,1,09:47,(9:47) R.Wilson pass incomplete deep left to J.Kearse [B.Graham].,10,3,0,SEA 41,0,SEA,
+17,2771,1,07:38,"(7:38) (Shotgun) D.Baldwin pass short left to R.Wilson for 15 yards, TOUCHDOWN.",10,3,59,PHI 15,1,SEA,TD
+17,2719,1,08:50,(8:50) (Shotgun) R.Wilson pass short right to T.Rawls to PHI 17 for 9 yards (N.Bradham).,10,3,42,PHI 26,0,SEA,
+17,2670,2,09:38,(9:38) T.Rawls up the middle to SEA 40 for -1 yards (B.Logan; J.Hicks). PHI-F.Cox was injured during the play.,10,3,-1,SEA 41,0,SEA,
+17,2750,2,08:14,(8:14) T.Rawls up the middle to PHI 15 for 2 yards (B.Graham; J.Watkins).,1,3,44,PHI 17,0,SEA,
+17,2796,0,07:31,"S.Hauschka extra point is GOOD, Center-N.Frese, Holder-J.Ryan.",0,3,59,PHI 15,1,SEA,XP
+17,2691,3,09:15,(9:15) (Shotgun) R.Wilson pass deep middle to D.Baldwin pushed ob at PHI 26 for 34 yards (J.Watkins) [B.Logan].,11,3,33,SEA 40,0,SEA,
+16,2620,2,09:56,(9:56) I.Seumalo reported in as eligible.  C.Wentz pass deep middle intended for B.Treggs INTERCEPTED by R.Sherman [J.Reed] at SEA 41. R.Sherman to SEA 41 for no gain (B.Treggs).,6,3,4,PHI 6,0,PHI,INT
+16,2599,1,10:35,(10:35) W.Smallwood left tackle to PHI 6 for 4 yards (J.Lane).,10,3,4,PHI 2,0,PHI,
+19,2973,2,05:28,(5:28) (Shotgun) R.Wilson scrambles right end to SEA 28 for 3 yards (J.Hicks).,7,3,6,SEA 25,0,SEA,
+19,2945,1,06:03,(6:03) T.Rawls up the middle to SEA 25 for 3 yards (B.Logan).,10,3,3,SEA 22,0,SEA,
+19,2994,3,04:42,(4:42) (Shotgun) R.Wilson pass short right to T.Rawls to SEA 30 for 2 yards (L.McKelvin) [F.Cox].,4,3,8,SEA 28,0,SEA,
+19,3018,4,04:09,"(4:09) J.Ryan punts 52 yards to PHI 18, Center-N.Frese. K.Barner to PHI 18 for no gain (D.Elliott; N.Thorpe). PENALTY on PHI-T.Burton, Unnecessary Roughness, 9 yards, enforced at PHI 18.",2,3,8,SEA 30,0,SEA,PUNT
+18,2881,0,06:17,Timeout #1 by SEA at 06:17.,0,3,8,,0,,TIMEOUT
+18,2898,3,06:17,(6:17) (Shotgun) C.Wentz pass incomplete short middle to J.Matthews.,2,3,8,PHI 33,0,PHI,
+18,2812,0,07:31,"S.Hauschka kicks 65 yards from SEA 35 to end zone, Touchback.",0,3,0,SEA 35,0,SEA,KICKOFF
+18,2920,4,06:13,"(6:13) D.Jones punts 56 yards to SEA 11, Center-J.Dorenbos. T.Lockett to SEA 22 for 11 yards (K.Grugier-Hill; W.Smallwood).",2,3,8,PHI 33,0,PHI,PUNT
+18,2857,2,06:56,(6:56) (Shotgun) C.Wentz pass short left to W.Smallwood to PHI 33 for 4 yards (K.Wright).,6,3,8,PHI 29,0,PHI,
+18,2831,1,07:31,(7:31) W.Smallwood left end pushed ob at PHI 29 for 4 yards (K.Wright).,10,3,4,PHI 25,0,PHI,

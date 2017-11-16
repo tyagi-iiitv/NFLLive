@@ -1,186 +1,186 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1604,2,02:57,,5,2,6,BUF 23,0,BUF,
-9,1713,1,01:49,,10,2,48,NE 34,0,BUF,
-9,1667,1,02:00,,10,2,46,NE 45,0,BUF,
-9,1811,4,00:50,,6,2,52,NE 30,0,BUF,FGM
-9,1583,1,03:41,,10,2,5,BUF 18,0,BUF,
-9,1692,2,01:55,,1,2,48,NE 36,0,BUF,
-9,1735,2,01:42,,10,2,52,NE 34,0,BUF,
-9,1625,3,02:18,,4,2,37,BUF 24,0,BUF,
-9,1782,0,00:51,,0,2,52,,0,,TIMEOUT
-9,1759,3,00:57,,6,2,52,NE 30,0,BUF,
-9,1650,0,02:00,,0,2,37,,0,,
-24,3844,2,05:39,,12,4,60,BUF 43,0,BUF,
-24,3774,2,07:07,,5,4,5,BUF 30,0,BUF,
-24,3913,3,03:40,,10,4,60,NE 15,0,BUF,
-24,3796,3,07:01,,5,4,20,BUF 30,0,BUF,
-24,3889,2,04:23,,14,4,60,NE 19,0,BUF,
-24,3753,1,07:35,,10,4,5,BUF 25,0,BUF,
-24,3868,1,05:05,,10,4,56,NE 15,0,BUF,
-24,3823,1,06:20,,10,4,18,BUF 45,0,BUF,
-24,3935,4,03:34,,10,4,60,NE 15,1,BUF,FG
-10,1877,0,00:35,,0,2,18,,0,,TIMEOUT
-10,1935,1,00:27,,10,2,42,BUF 20,0,NE,
-10,1853,2,00:41,,10,2,18,NE 38,0,NE,
-10,1894,1,00:35,,10,2,42,BUF 44,0,NE,
-10,1964,2,00:23,,10,2,42,BUF 20,0,NE,
-10,1987,3,00:19,,10,2,62,BUF 20,1,NE,TD
-10,1918,0,00:27,,0,2,42,,0,,TIMEOUT
-10,2007,0,00:13,,0,2,62,BUF 15,1,NE,XP
-10,1831,1,00:46,,10,2,0,NE 38,0,NE,
-20,3304,0,,,0,3,6,,0,,
-20,3269,2,00:03,,9,3,6,BUF 21,0,BUF,
-20,3229,0,00:47,,0,3,0,NE 35,0,NE,KICKOFF
-20,3320,3,15:00,,4,4,6,BUF 26,0,BUF,
-20,3339,4,14:26,,4,4,6,BUF 26,0,BUF,PUNT
-20,3248,1,00:47,,10,3,1,BUF 20,0,BUF,
-6,1228,3,08:46,,10,2,8,NE 20,0,NE,
-6,1169,0,09:27,,0,2,0,BUF 35,0,BUF,KICKOFF
-6,1249,4,08:18,,2,2,8,NE 28,0,NE,PUNT
-6,1206,2,08:54,,10,2,0,NE 20,0,NE,
-6,1185,1,09:27,,10,2,0,NE 20,0,NE,
-18,3046,4,02:50,,8,3,2,NE 36,0,NE,FUMBLE
-18,3025,3,03:26,,15,3,2,NE 29,0,NE,
-18,2943,1,04:45,,10,3,0,NE 34,0,NE,
-18,2965,2,04:40,,10,3,5,NE 34,0,NE,
-18,2989,3,03:53,,5,3,-5,NE 39,0,NE,PENALTY
-26,4188,2,01:17,,1,4,12,BUF 25,0,BUF,
-26,4277,4,00:50,,6,4,24,BUF 32,0,BUF,
-26,4209,1,01:09,,10,4,16,BUF 28,0,BUF,
-26,4401,3,00:07,,18,4,32,BUF 32,0,BUF,
-26,4233,2,01:01,,6,4,16,BUF 32,0,BUF,
-26,4124,1,01:51,,10,4,9,BUF 16,0,BUF,
-26,4255,3,00:57,,6,4,16,BUF 32,0,BUF,
-26,4349,1,00:46,,10,4,24,BUF 40,0,BUF,
-26,4371,2,00:40,,10,4,16,BUF 40,0,BUF,FUMBLE
-26,4425,0,,,0,4,32,,0,,
-25,4094,4,02:00,,2,4,8,NE 33,0,NE,FUMBLE
-25,4015,2,03:20,,5,4,7,NE 30,0,NE,
-25,4037,0,02:36,,0,4,7,,0,,TIMEOUT
-25,3955,0,03:30,,0,4,0,BUF 35,0,BUF,KICKOFF
-25,4077,0,02:00,,0,4,8,,0,,
-25,4054,3,02:36,,3,4,8,NE 32,0,NE,
-25,3977,1,03:28,,10,4,5,NE 25,0,NE,
-25,3998,0,03:20,,0,4,5,,0,,TIMEOUT
-1,97,3,13:39,,5,1,5,BUF 25,0,BUF,
-1,119,4,13:35,,5,1,5,BUF 25,0,BUF,PUNT
-1,75,2,14:22,,1,1,5,BUF 29,0,BUF,
-1,51,1,15:00,,10,1,9,BUF 20,0,BUF,
-1,36,0,15:00,,0,1,5,NE 35,0,NE,KICKOFF
-5,1107,2,10:24,,6,2,51,NE 36,0,BUF,
-5,1128,3,09:40,,4,2,51,NE 34,0,BUF,
-5,911,0,,,0,1,0,,0,,
-5,927,2,15:00,,10,2,2,BUF 15,0,BUF,
-5,1061,2,11:40,,5,2,45,NE 46,0,BUF,
-5,973,1,13:29,,10,2,51,BUF 35,0,BUF,
-5,889,1,00:03,,10,1,0,BUF 15,0,BUF,
-5,948,3,14:18,,8,2,20,BUF 17,0,BUF,
-5,997,2,12:58,,4,2,34,BUF 41,0,BUF,
-5,1150,4,09:32,,4,2,51,NE 34,1,BUF,FG
-5,1083,1,11:02,,10,2,49,NE 40,0,BUF,
-5,1022,1,12:19,,10,2,39,BUF 49,0,BUF,FUMBLE
-13,2304,1,12:35,,10,3,0,BUF 44,0,BUF,
-13,2326,2,12:29,,10,3,25,BUF 44,0,BUF,
-13,2406,2,10:40,,6,3,56,NE 27,1,BUF,TD
-13,2434,0,10:29,,0,3,56,NE 15,1,BUF,XP
-13,2379,1,11:24,,10,3,29,NE 31,0,BUF,
-13,2355,1,11:56,,10,3,25,NE 45,0,BUF,
-21,3375,1,14:16,,10,4,27,NE 28,0,NE,
-21,3400,1,13:38,,10,4,27,BUF 45,0,NE,INT
-23,3683,2,08:56,,20,4,12,NE 14,0,NE,
-23,3607,1,10:04,,10,4,17,NE 7,0,NE,
-23,3728,4,07:47,,5,4,22,NE 29,0,NE,PUNT
-23,3704,3,08:21,,15,4,22,NE 19,0,NE,
-23,3661,1,09:00,,20,4,7,NE 14,0,NE,
-23,3629,1,09:28,,10,4,7,NE 24,0,NE,PENALTY
-11,2050,1,00:08,,10,2,-1,BUF 35,0,BUF,
-11,2023,0,00:13,,0,2,0,NE 35,0,NE,KICKOFF
-11,2071,0,,,0,2,-1,,0,,
-14,2537,4,09:37,,5,3,5,NE 27,0,NE,PUNT
-14,2450,0,10:29,,0,3,0,BUF 35,0,BUF,KICKOFF
-14,2515,3,09:47,,5,3,5,NE 27,0,NE,
-14,2472,1,10:25,,10,3,0,NE 22,0,NE,
-14,2494,2,10:21,,10,3,5,NE 22,0,NE,
-8,1531,3,03:59,,6,2,27,NE 46,0,NE,
-8,1458,2,05:23,,10,2,27,NE 25,0,NE,
-8,1389,2,06:07,,1,2,9,NE 22,0,NE,
-8,1563,4,03:48,,12,2,27,NE 40,0,NE,PUNT
-8,1411,3,06:03,,1,2,12,NE 22,0,NE,
-8,1485,1,04:45,,10,2,29,NE 42,0,NE,
-8,1359,1,06:28,,10,2,9,NE 13,0,NE,
-8,1432,1,05:31,,10,2,12,NE 25,0,NE,
-8,1507,2,04:39,,10,2,33,NE 42,0,NE,
-19,3187,3,00:54,,7,3,14,BUF 16,0,NE,
-19,3140,1,01:51,,10,3,12,BUF 19,0,NE,
-19,3209,4,00:50,,7,3,14,BUF 16,1,NE,FG
-19,3165,2,01:23,,9,3,14,BUF 18,0,NE,
-19,3098,1,02:37,,10,3,7,BUF 30,0,NE,
-19,3119,2,02:16,,3,3,11,BUF 23,0,NE,
-22,3565,3,10:54,,1,4,41,BUF 48,0,BUF,
-22,3588,4,10:12,,2,4,41,BUF 47,0,BUF,PUNT
-22,3426,1,13:22,,10,4,7,BUF 6,0,BUF,
-22,3515,1,12:01,,10,4,37,BUF 39,0,BUF,
-22,3482,2,12:09,,8,4,42,BUF 8,0,BUF,PENALTY
-22,3447,2,12:46,,3,4,2,BUF 13,0,BUF,PENALTY
-22,3536,2,11:23,,6,4,42,BUF 43,0,BUF,
-12,2260,0,12:39,,0,3,44,,0,,TIMEOUT
-12,2283,4,12:39,,6,3,44,BUF 36,0,NE,FGM
-12,2195,1,13:36,,10,3,44,BUF 40,0,NE,
-12,2087,0,15:00,,0,3,0,BUF 35,0,BUF,KICKOFF
-12,2137,1,14:39,,5,3,11,NE 25,0,NE,
-12,2102,1,15:00,,10,3,5,NE 20,0,NE,PENALTY
-12,2238,3,12:44,,6,3,44,BUF 36,0,NE,
-12,2217,2,13:27,,10,3,44,BUF 40,0,NE,
-12,2161,1,14:05,,10,3,44,NE 31,0,NE,PENALTY
-16,2695,2,07:36,,1,3,14,NE 45,0,NE,
-16,2668,1,07:59,,10,3,9,NE 36,0,NE,
-16,2762,3,06:25,,7,3,58,BUF 47,0,NE,
-16,2740,2,06:35,,7,3,17,BUF 47,0,NE,
-16,2824,0,05:55,,0,3,64,BUF 15,1,NE,XP
-16,2719,1,07:13,,10,3,17,50,0,NE,
-16,2786,1,06:00,,6,3,64,BUF 6,1,NE,TD
-7,1311,3,06:45,,7,2,3,BUF 34,0,BUF,
-7,1269,1,08:07,,10,2,2,BUF 31,0,BUF,
-7,1333,4,06:37,,7,2,3,BUF 34,0,BUF,PUNT
-7,1290,2,07:26,,8,2,3,BUF 33,0,BUF,
-3,594,1,06:13,,10,1,12,BUF 24,0,BUF,
-3,757,4,02:14,,8,1,35,BUF 48,0,BUF,PUNT
-3,615,2,05:34,,9,1,22,BUF 25,0,BUF,
-3,639,1,04:55,,10,1,33,BUF 35,0,BUF,
-3,681,2,03:31,,6,1,40,50,0,BUF,
-3,735,3,02:21,,8,1,35,BUF 48,0,BUF,
-3,573,2,06:57,,3,1,11,BUF 20,0,BUF,
-3,527,0,07:29,,0,1,0,NE 35,0,NE,KICKOFF
-3,703,3,02:49,,3,1,35,NE 47,0,BUF,PENALTY
-3,549,1,07:24,,10,1,7,BUF 13,0,BUF,
-3,660,1,04:14,,10,1,37,BUF 46,0,BUF,
-17,2924,4,04:57,,11,3,-1,BUF 19,0,BUF,PUNT
-17,2902,3,05:06,,11,3,-1,BUF 19,0,BUF,
-17,2880,2,05:12,,11,3,-1,BUF 19,0,BUF,
-17,2840,0,05:55,,0,3,0,NE 35,0,NE,KICKOFF
-17,2859,1,05:55,,10,3,-1,BUF 20,0,BUF,
-4,849,3,00:15,,9,1,28,BUF 46,0,NE,
-4,871,4,00:12,,9,1,28,BUF 46,0,NE,PUNT
-4,776,1,02:04,,10,1,27,NE 26,0,NE,
-4,802,1,01:34,,10,1,30,BUF 47,0,NE,
-4,827,2,00:58,,7,1,28,BUF 44,0,NE,
-2,441,1,08:55,,10,1,41,BUF 25,0,NE,
-2,324,3,10:28,,7,1,26,NE 49,0,NE,
-2,370,2,09:07,,9,1,27,BUF 39,0,NE,
-2,286,3,10:41,,7,1,15,NE 49,0,NE,
-2,193,1,12:30,,10,1,13,NE 46,0,NE,
-2,484,3,08:13,,7,1,49,BUF 22,0,NE,
-2,237,2,11:48,,14,1,20,NE 42,0,NE,
-2,214,2,12:04,,9,1,8,NE 47,0,NE,PENALTY
-2,263,3,11:01,,2,1,15,BUF 46,0,NE,PENALTY
-2,508,4,07:33,,2,1,49,BUF 17,1,NE,FG
-2,463,2,08:51,,10,1,44,BUF 25,0,NE,
-2,168,2,13:03,,8,1,12,NE 36,0,NE,
-2,349,1,09:47,,10,1,27,BUF 40,0,NE,
-2,147,1,13:25,,10,1,8,NE 34,0,NE,
-2,408,3,08:59,,9,1,41,BUF 39,0,NE,PENALTY
-15,2622,3,08:48,,3,3,1,BUF 44,0,BUF,
-15,2583,2,08:55,,3,3,7,BUF 44,0,BUF,
-15,2605,0,08:48,,0,3,7,,0,,TIMEOUT
-15,2643,4,08:12,,9,3,1,BUF 38,0,BUF,PUNT
-15,2562,1,09:30,,10,3,7,BUF 37,0,BUF,
+24,3868,1,05:05,(5:05) (Shotgun) L.McCoy left tackle to NE 19 for -4 yards (J.Sheard).,10,4,56,NE 15,0,BUF,
+24,3823,1,06:20,(6:20) (Shotgun) Ka.Williams right end to BUF 43 for -2 yards (L.Ryan).,10,4,18,BUF 45,0,BUF,
+24,3774,2,07:07,(7:07) (Shotgun) T.Taylor pass incomplete short left to L.McCoy.,5,4,5,BUF 30,0,BUF,
+24,3935,4,03:34,"(3:34) D.Carpenter 33 yard field goal is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",10,4,60,NE 15,1,BUF,FG
+24,3753,1,07:35,(7:35) (Shotgun) T.Taylor scrambles left end pushed ob at BUF 30 for 5 yards (D.Hightower).,10,4,5,BUF 25,0,BUF,
+24,3796,3,07:01,(7:01) (Shotgun) T.Taylor pass short right to S.Watkins pushed ob at BUF 45 for 15 yards (M.Butler). BUF-S.Watkins was injured during the play.,5,4,20,BUF 30,0,BUF,
+24,3889,2,04:23,(4:23) (Shotgun) T.Taylor pass short right to C.Hogan to NE 15 for 4 yards (J.Sheard).,14,4,60,NE 19,0,BUF,
+24,3844,2,05:39,(5:39) (Shotgun) T.Taylor pass deep right to C.Hogan pushed ob at NE 15 for 42 yards (P.Chung).,12,4,60,BUF 43,0,BUF,
+24,3913,3,03:40,(3:40) (Shotgun) T.Taylor pass incomplete short left to C.Gragg (L.Ryan).,10,4,60,NE 15,0,BUF,
+25,4054,3,02:36,(2:36) S.Mason reported in as eligible.  L.Blount right guard to NE 33 for 1 yard (P.Brown; C.Graham).,3,4,8,NE 32,0,NE,
+25,3977,1,03:28,(3:28) L.Blount right guard to NE 30 for 5 yards (I.Enemkpali; P.Brown).,10,4,5,NE 25,0,NE,
+25,4094,4,02:00,"(2:00) R.Allen punts 52 yards to BUF 15, Center-J.Cardona. L.McKelvin MUFFS catch, and recovers at BUF 16. L.McKelvin to BUF 16 for no gain (B.King).",2,4,8,NE 33,0,NE,FUMBLE
+25,4077,0,02:00,Two-Minute Warning,0,4,8,,0,,
+25,4015,2,03:20,(3:20) L.Blount right guard to NE 32 for 2 yards (I.Enemkpali).,5,4,7,NE 30,0,NE,
+25,3955,0,03:30,J.Gay kicks 40 yards from BUF 35 to NE 25. D.McCourty (didn't try to advance) to NE 25 for no gain (R.Woods).,0,4,0,BUF 35,0,BUF,KICKOFF
+25,4037,0,02:36,Timeout #2 by NE at 02:36.,0,4,7,,0,,TIMEOUT
+25,3998,0,03:20,Timeout #3 by BUF at 03:20.,0,4,5,,0,,TIMEOUT
+26,4425,0,,END GAME,0,4,32,,0,,
+26,4188,2,01:17,(1:17) (Shotgun) T.Taylor scrambles right end ran ob at BUF 28 for 3 yards.,1,4,12,BUF 25,0,BUF,
+26,4277,4,00:50,"(:50) (Shotgun) T.Taylor pass incomplete short left to S.Watkins. The Replay Official reviewed the incomplete pass ruling, and the play was REVERSED. (Shotgun) T.Taylor pass short left to S.Watkins ran ob at BUF 40 for 8 yards.",6,4,24,BUF 32,0,BUF,
+26,4255,3,00:57,(:57) (Shotgun) T.Taylor pass incomplete deep left to S.Watkins.,6,4,16,BUF 32,0,BUF,
+26,4401,3,00:07,"(:07) (No Huddle, Shotgun) T.Taylor pass deep left to S.Watkins ran ob at BUF 48 for 16 yards. Scoreless 4th quarter is 1st scoreless quarter for Patriots since 1st quater of game 1.  Patriots had scored in 38 straight quarters, NFL record.",18,4,32,BUF 32,0,BUF,
+26,4124,1,01:51,"(1:51) (Shotgun) T.Taylor pass short left to R.Woods to BUF 26 for 10 yards (P.Chung; L.Ryan). The Replay Official reviewed the first down ruling, and the play was REVERSED. (Shotgun) T.Taylor pass short left to R.Woods to BUF 25 for 9 yards (P.Chung; L.Ryan).",10,4,9,BUF 16,0,BUF,
+26,4209,1,01:09,(1:09) (Shotgun) T.Taylor pass short left to L.McCoy ran ob at BUF 32 for 4 yards.,10,4,16,BUF 28,0,BUF,
+26,4349,1,00:46,(:46) (Shotgun) T.Taylor pass incomplete short left to L.McCoy.,10,4,24,BUF 40,0,BUF,
+26,4371,2,00:40,"(:40) (Shotgun) T.Taylor sacked at BUF 32 for -8 yards (R.Ninkovich). FUMBLES (R.Ninkovich), recovered by BUF-C.Glenn at BUF 32. C.Glenn to BUF 32 for no gain (D.Easley).",10,4,16,BUF 40,0,BUF,FUMBLE
+26,4233,2,01:01,(1:01) (Shotgun) T.Taylor pass incomplete short right to R.Woods (P.Chung).,6,4,16,BUF 32,0,BUF,
+20,3248,1,00:47,(:47) (Shotgun) L.McCoy left end to BUF 21 for 1 yard (L.Ryan).,10,3,1,BUF 20,0,BUF,
+20,3229,0,00:47,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",0,3,0,NE 35,0,NE,KICKOFF
+20,3320,3,15:00,(15:00) (Shotgun) T.Taylor sacked at BUF 26 for 0 yards (sack split by R.Ninkovich and D.Easley).,4,4,6,BUF 26,0,BUF,
+20,3269,2,00:03,(:03) (Shotgun) T.Taylor pass short middle to L.McCoy to BUF 26 for 5 yards (R.Ninkovich).,9,3,6,BUF 21,0,BUF,
+20,3304,0,,END QUARTER 3,0,3,6,,0,,
+20,3339,4,14:26,"(14:26) C.Schmidt punts 46 yards to NE 28, Center-G.Sanborn, fair catch by C.Harper.",4,4,6,BUF 26,0,BUF,PUNT
+21,3400,1,13:38,(13:38) (Shotgun) T.Brady pass deep left intended for C.Harper INTERCEPTED by S.Gilmore at BUF 2. S.Gilmore to BUF 6 for 4 yards (R.Gronkowski).,10,4,27,BUF 45,0,NE,INT
+21,3375,1,14:16,(14:16) T.Brady pass deep left to R.Gronkowski pushed ob at BUF 45 for 27 yards (B.Rambo) [C.Bryant].,10,4,27,NE 28,0,NE,
+22,3565,3,10:54,(10:54) J.Mills reported in as eligible.  Ka.Williams left end to BUF 47 for -1 yards (P.Chung; L.Ryan).,1,4,41,BUF 48,0,BUF,
+22,3588,4,10:12,"(10:12) C.Schmidt punts 46 yards to NE 7, Center-G.Sanborn, fair catch by C.Harper.",2,4,41,BUF 47,0,BUF,PUNT
+22,3447,2,12:46,"(12:46) (Shotgun) T.Taylor pass short left to L.McCoy to BUF 16 for 3 yards (J.Freeny). PENALTY on BUF-S.Henderson, Ineligible Downfield Pass, 5 yards, enforced at BUF 13 - No Play.",3,4,2,BUF 13,0,BUF,PENALTY
+22,3482,2,12:09,"(12:09) (Shotgun) T.Taylor pass incomplete deep left to S.Watkins. PENALTY on NE-M.Butler, Defensive Pass Interference, 31 yards, enforced at BUF 8 - No Play.",8,4,42,BUF 8,0,BUF,PENALTY
+22,3426,1,13:22,(13:22) (Shotgun) L.McCoy right end to BUF 13 for 7 yards (R.Ninkovich).,10,4,7,BUF 6,0,BUF,
+22,3515,1,12:01,(12:01) (Shotgun) Ka.Williams left end to BUF 43 for 4 yards (L.Ryan).,10,4,37,BUF 39,0,BUF,
+22,3536,2,11:23,(11:23) (Shotgun) T.Taylor pass short middle to C.Hogan to BUF 48 for 5 yards (R.Ninkovich). measurement,6,4,42,BUF 43,0,BUF,
+23,3629,1,09:28,"(9:28) L.Blount left end pushed ob at NE 32 for 8 yards (C.Graham). PENALTY on NE-B.Stork, Offensive Holding, 10 yards, enforced at NE 24 - No Play.",10,4,7,NE 24,0,NE,PENALTY
+23,3661,1,09:00,(9:00) T.Brady pass incomplete deep middle to S.Chandler [J.Hughes].,20,4,7,NE 14,0,NE,
+23,3683,2,08:56,(8:56) B.Bolden right guard to NE 19 for 5 yards (I.Enemkpali; A.Carrington).,20,4,12,NE 14,0,NE,
+23,3728,4,07:47,"(7:47) R.Allen punts 50 yards to BUF 21, Center-J.Cardona. L.McKelvin to BUF 25 for 4 yards (N.Ebner).",5,4,22,NE 29,0,NE,PUNT
+23,3607,1,10:04,(10:04) L.Blount right end ran ob at NE 24 for 17 yards.,10,4,17,NE 7,0,NE,
+23,3704,3,08:21,(8:21) (Shotgun) T.Brady pass short left to B.LaFell to NE 29 for 10 yards (N.Bradham; B.Rambo).,15,4,22,NE 19,0,NE,
+1,119,4,13:35,"(13:35) C.Schmidt punts 48 yards to NE 27, Center-G.Sanborn. D.Amendola to NE 34 for 7 yards (M.Easley). BUF-M.Easley was injured during the play. He is Out.",5,1,5,BUF 25,0,BUF,PUNT
+1,75,2,14:22,(14:22) (Shotgun) L.McCoy left end to BUF 25 for -4 yards (J.Mayo).,1,1,5,BUF 29,0,BUF,
+1,51,1,15:00,(15:00) (Shotgun) T.Taylor pass short right to L.McCoy to BUF 29 for 9 yards (L.Ryan).,10,1,9,BUF 20,0,BUF,
+1,36,0,15:00,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",0,1,5,NE 35,0,NE,KICKOFF
+1,97,3,13:39,(13:39) (Shotgun) T.Taylor pass incomplete short left to R.Woods [D.Easley].,5,1,5,BUF 25,0,BUF,
+3,757,4,02:14,"(2:14) C.Schmidt punts 26 yards to NE 26, Center-G.Sanborn, downed by BUF-J.Meeks.",8,1,35,BUF 48,0,BUF,PUNT
+3,594,1,06:13,(6:13) (Shotgun) L.McCoy right end to BUF 25 for 1 yard (J.Sheard).,10,1,12,BUF 24,0,BUF,
+3,703,3,02:49,"(2:49) (Shotgun) T.Taylor scrambles right tackle to NE 40 for 7 yards (T.Wilson). PENALTY on BUF-S.Henderson, Illegal Formation, 5 yards, enforced at NE 47 - No Play.",3,1,35,NE 47,0,BUF,PENALTY
+3,573,2,06:57,(6:57) (Shotgun) L.McCoy right tackle to BUF 24 for 4 yards (J.Freeny).,3,1,11,BUF 20,0,BUF,
+3,639,1,04:55,(4:55) (Shotgun) L.McCoy left tackle to BUF 46 for 11 yards (J.Freeny).,10,1,33,BUF 35,0,BUF,
+3,615,2,05:34,(5:34) (Shotgun) T.Taylor pass short middle to R.Woods to BUF 35 for 10 yards (D.Hightower).,9,1,22,BUF 25,0,BUF,
+3,527,0,07:29,S.Gostkowski kicks 66 yards from NE 35 to BUF -1. D.Moore to BUF 13 for 14 yards (N.Ebner).,0,1,0,NE 35,0,NE,KICKOFF
+3,735,3,02:21,(2:21) (Shotgun) T.Taylor pass incomplete short left to R.Woods.,8,1,35,BUF 48,0,BUF,
+3,660,1,04:14,(4:14) (Shotgun) L.McCoy left tackle to 50 for 4 yards (J.Mayo).,10,1,37,BUF 46,0,BUF,
+3,549,1,07:24,(7:24) (Shotgun) T.Taylor pass short right to R.Woods pushed ob at BUF 20 for 7 yards (P.Chung).,10,1,7,BUF 13,0,BUF,
+3,681,2,03:31,(3:31) (Shotgun) Ka.Williams left guard to NE 47 for 3 yards (M.Brown).,6,1,40,50,0,BUF,
+2,147,1,13:25,(13:25) L.Blount right guard to NE 36 for 2 yards (J.Hughes).,10,1,8,NE 34,0,NE,
+2,214,2,12:04,"(12:04) (No Huddle, Shotgun) PENALTY on NE-D.Andrews, False Start, 5 yards, enforced at NE 47 - No Play.",9,1,8,NE 47,0,NE,PENALTY
+2,484,3,08:13,(8:13) (Shotgun) T.Brady pass short left to D.Amendola to BUF 17 for 5 yards (L.McKelvin).,7,1,49,BUF 22,0,NE,
+2,508,4,07:33,"(7:33) S.Gostkowski 35 yard field goal is GOOD, Center-J.Cardona, Holder-R.Allen.",2,1,49,BUF 17,1,NE,FG
+2,441,1,08:55,(8:55) (Shotgun) T.Brady pass incomplete short left to R.Gronkowski [A.Carrington].,10,1,41,BUF 25,0,NE,
+2,193,1,12:30,(12:30) (No Huddle) L.Blount up the middle to NE 47 for 1 yard (P.Brown).,10,1,13,NE 46,0,NE,
+2,263,3,11:01,"(11:01) (Shotgun) PENALTY on NE-M.Cannon, False Start, 5 yards, enforced at BUF 46 - No Play.",2,1,15,BUF 46,0,NE,PENALTY
+2,408,3,08:59,"(8:59) (Shotgun) T.Brady pass incomplete short left to A.Dobson [N.Robey]. PENALTY on BUF-S.Gilmore, Defensive Pass Interference, 14 yards, enforced at BUF 39 - No Play.",9,1,41,BUF 39,0,NE,PENALTY
+2,168,2,13:03,"(13:03) (No Huddle, Shotgun) T.Brady pass short right to R.Gronkowski to NE 46 for 10 yards (R.Darby).",8,1,12,NE 36,0,NE,
+2,463,2,08:51,(8:51) (Shotgun) L.Blount left tackle to BUF 22 for 3 yards (N.Bradham).,10,1,44,BUF 25,0,NE,
+2,324,3,10:28,(10:28) (Shotgun) T.Brady pass short middle to D.Amendola to BUF 40 for 11 yards (B.Rambo) [C.Graham].,7,1,26,NE 49,0,NE,
+2,370,2,09:07,"(9:07) (No Huddle, Shotgun) T.Brady pass incomplete short left to D.Amendola. flag for illegal contact picked up",9,1,27,BUF 39,0,NE,
+2,237,2,11:48,(11:48) (Shotgun) T.Brady pass short left to J.White to BUF 46 for 12 yards (B.Rambo).,14,1,20,NE 42,0,NE,
+2,349,1,09:47,(9:47) L.Blount left guard to BUF 39 for 1 yard (A.Carrington).,10,1,27,BUF 40,0,NE,
+2,286,3,10:41,"(10:41) (Shotgun) T.Brady pass short left intended for R.Gronkowski INTERCEPTED by B.Rambo at BUF 37. B.Rambo to NE 24 for 39 yards (D.Amendola). Penalty on NE-M.Cannon, Illegal Formation, offsetting, enforced at NE 49 - No Play. Penalty on BUF-C.Graham, Defensive Holding, offsetting.",7,1,15,NE 49,0,NE,
+5,1128,3,09:40,(9:40) (Shotgun) T.Taylor pass incomplete deep left to C.Hogan.,4,2,51,NE 34,0,BUF,
+5,997,2,12:58,(12:58) (Shotgun) T.Taylor pass short right to L.McCoy pushed ob at BUF 49 for 8 yards (J.Freeny).,4,2,34,BUF 41,0,BUF,
+5,973,1,13:29,(13:29) (Shotgun) L.McCoy right tackle to BUF 41 for 6 yards (J.Freeny). BUF-J.Miller was injured during the play. His return is Questionable.,10,2,51,BUF 35,0,BUF,
+5,948,3,14:18,(14:18) (Shotgun) T.Taylor pass deep right to R.Woods to BUF 35 for 18 yards (M.Butler).,8,2,20,BUF 17,0,BUF,
+5,1022,1,12:19,"(12:19) Ka.Williams left guard to NE 46 for 5 yards (J.Sheard). FUMBLES (J.Sheard), and recovers at NE 46. Ka.Williams to NE 46 for no gain (J.Mayo).",10,2,39,BUF 49,0,BUF,FUMBLE
+5,1061,2,11:40,(11:40) (Shotgun) L.McCoy left end to NE 40 for 6 yards (L.Ryan).,5,2,45,NE 46,0,BUF,
+5,889,1,00:03,(:03) (Shotgun) T.Taylor pass incomplete short left to L.McCoy.,10,1,0,BUF 15,0,BUF,
+5,1150,4,09:32,"(9:32) D.Carpenter 52 yard field goal is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",4,2,51,NE 34,1,BUF,FG
+5,1107,2,10:24,(10:24) (Shotgun) Ka.Williams up the middle to NE 34 for 2 yards (T.Wilson).,6,2,51,NE 36,0,BUF,
+5,1083,1,11:02,(11:02) (Shotgun) T.Taylor pass short right to L.McCoy to NE 36 for 4 yards (M.Butler).,10,2,49,NE 40,0,BUF,
+5,911,0,,END QUARTER 1,0,1,0,,0,,
+5,927,2,15:00,(15:00) (Shotgun) L.McCoy left tackle to BUF 17 for 2 yards (J.Freeny; M.Brown).,10,2,2,BUF 15,0,BUF,
+4,802,1,01:34,(1:34) T.Brady pass short left to S.Chandler to BUF 44 for 3 yards (C.Graham; P.Brown).,10,1,30,BUF 47,0,NE,
+4,827,2,00:58,(:58) L.Blount left tackle to BUF 46 for -2 yards (M.Dareus).,7,1,28,BUF 44,0,NE,
+4,776,1,02:04,(2:04) (Shotgun) T.Brady pass short right to B.LaFell pushed ob at BUF 47 for 27 yards (B.Rambo).,10,1,27,NE 26,0,NE,
+4,849,3,00:15,(:15) (Shotgun) T.Brady pass incomplete short left to A.Dobson.,9,1,28,BUF 46,0,NE,
+4,871,4,00:12,"(:12) R.Allen punts 31 yards to BUF 15, Center-J.Cardona, out of bounds.",9,1,28,BUF 46,0,NE,PUNT
+7,1333,4,06:37,"(6:37) C.Schmidt punts 59 yards to NE 7, Center-G.Sanborn. D.Amendola to NE 13 for 6 yards (Du.Williams).",7,2,3,BUF 34,0,BUF,PUNT
+7,1269,1,08:07,(8:07) (Shotgun) L.McCoy left tackle to BUF 33 for 2 yards (J.Mayo).,10,2,2,BUF 31,0,BUF,
+7,1290,2,07:26,(7:26) (Shotgun) L.McCoy up the middle to BUF 34 for 1 yard (D.Hightower).,8,2,3,BUF 33,0,BUF,
+7,1311,3,06:45,(6:45) (Shotgun) T.Taylor pass incomplete short right to R.Woods.,7,2,3,BUF 34,0,BUF,
+6,1249,4,08:18,"(8:18) R.Allen punts 41 yards to BUF 31, Center-J.Cardona, downed by NE-E.Martin.",2,2,8,NE 28,0,NE,PUNT
+6,1185,1,09:27,(9:27) B.Bolden left guard to NE 20 for no gain (J.Hughes; P.Brown).,10,2,0,NE 20,0,NE,
+6,1206,2,08:54,(8:54) (Shotgun) T.Brady pass incomplete short right to D.Amendola.,10,2,0,NE 20,0,NE,
+6,1169,0,09:27,"J.Gay kicks 65 yards from BUF 35 to end zone, Touchback.",0,2,0,BUF 35,0,BUF,KICKOFF
+6,1228,3,08:46,(8:46) (Shotgun) J.White right guard to NE 28 for 8 yards (S.Gilmore).,10,2,8,NE 20,0,NE,
+9,1713,1,01:49,(1:49) (Shotgun) T.Taylor pass incomplete short middle to R.Woods.,10,2,48,NE 34,0,BUF,
+9,1811,4,00:50,"(:50) D.Carpenter 48 yard field goal is No Good, Hit Right Upright, Center-G.Sanborn, Holder-C.Schmidt.",6,2,52,NE 30,0,BUF,FGM
+9,1625,3,02:18,(2:18) (Shotgun) T.Taylor pass deep left to C.Hogan to NE 45 for 31 yards (D.McCourty).,4,2,37,BUF 24,0,BUF,
+9,1583,1,03:41,(3:41) (Shotgun) L.McCoy left tackle to BUF 23 for 5 yards (T.Wilson).,10,2,5,BUF 18,0,BUF,
+9,1782,0,00:51,Timeout #1 by BUF at 00:51. injury in last 2:00,0,2,52,,0,,TIMEOUT
+9,1735,2,01:42,(1:42) (Shotgun) T.Taylor pass short right to C.Hogan to NE 30 for 4 yards (T.Wilson).,10,2,52,NE 34,0,BUF,
+9,1604,2,02:57,(2:57) (Shotgun) L.McCoy up the middle to BUF 24 for 1 yard (J.Sheard; A.Hicks).,5,2,6,BUF 23,0,BUF,
+9,1692,2,01:55,(1:55) (Shotgun) L.McCoy left end pushed ob at NE 34 for 2 yards (L.Ryan).,1,2,48,NE 36,0,BUF,
+9,1759,3,00:57,(:57) (Shotgun) T.Taylor pass incomplete deep left to L.McCoy. BUF-L.McCoy was injured during the play.,6,2,52,NE 30,0,BUF,
+9,1667,1,02:00,(2:00) (Shotgun) T.Taylor pass short right to C.Hogan pushed ob at NE 36 for 9 yards (L.Ryan).,10,2,46,NE 45,0,BUF,
+9,1650,0,02:00,Two-Minute Warning,0,2,37,,0,,
+8,1359,1,06:28,(6:28) (Shotgun) T.Brady pass short middle to D.Amendola pushed ob at NE 22 for 9 yards (B.Rambo).,10,2,9,NE 13,0,NE,
+8,1432,1,05:31,(5:31) T.Brady pass incomplete [C.Graham]. thrown away from outside the pocket,10,2,12,NE 25,0,NE,
+8,1531,3,03:59,"(3:59) (Shotgun) T.Brady sacked at NE 40 for -6 yards (M.Lawson). Penalty on NE-S.Vollmer, Offensive Holding, declined.",6,2,27,NE 46,0,NE,
+8,1389,2,06:07,(6:07) T.Brady pass incomplete short right to R.Gronkowski.,1,2,9,NE 22,0,NE,
+8,1485,1,04:45,(4:45) (Shotgun) T.Brady pass incomplete short right to B.Bolden.,10,2,29,NE 42,0,NE,
+8,1411,3,06:03,(6:03) B.Bolden right guard to NE 25 for 3 yards (M.Lawson; C.Graham).,1,2,12,NE 22,0,NE,
+8,1563,4,03:48,"(3:48) R.Allen punts 42 yards to BUF 18, Center-J.Cardona, fair catch by L.McKelvin.",12,2,27,NE 40,0,NE,PUNT
+8,1458,2,05:23,(5:23) T.Brady pass short middle to A.Dobson to NE 42 for 17 yards (B.Rambo; R.Darby). NE-A.Dobson was injured during the play. His return is Questionable.,10,2,27,NE 25,0,NE,
+8,1507,2,04:39,(4:39) (Shotgun) T.Brady pass short middle to D.Amendola to NE 46 for 4 yards (M.Lawson).,10,2,33,NE 42,0,NE,
+11,2050,1,00:08,(:08) T.Taylor kneels to BUF 34 for -1 yards.,10,2,-1,BUF 35,0,BUF,
+11,2071,0,,END QUARTER 2,0,2,-1,,0,,
+11,2023,0,00:13,S.Gostkowski kicks 46 yards from NE 35 to BUF 19. A.Dixon pushed ob at BUF 35 for 16 yards (R.Melvin).,0,2,0,NE 35,0,NE,KICKOFF
+10,1987,3,00:19,"(:19) (Shotgun) T.Brady pass short right to J.White for 20 yards, TOUCHDOWN. NE 28-White 1st NFL TD.",10,2,62,BUF 20,1,NE,TD
+10,1831,1,00:46,(:46) (Shotgun) T.Brady pass incomplete short left to B.LaFell.,10,2,0,NE 38,0,NE,
+10,1918,0,00:27,Timeout #2 by NE at 00:27.,0,2,42,,0,,TIMEOUT
+10,1964,2,00:23,(:23) (Shotgun) T.Brady pass incomplete short middle to J.White [M.Lawson].,10,2,42,BUF 20,0,NE,
+10,1853,2,00:41,(:41) (Shotgun) T.Brady pass short middle to D.Amendola to BUF 44 for 18 yards (J.Hughes).,10,2,18,NE 38,0,NE,
+10,1877,0,00:35,Timeout #1 by NE at 00:35.,0,2,18,,0,,TIMEOUT
+10,2007,0,00:13,"S.Gostkowski extra point is GOOD, Center-J.Cardona, Holder-R.Allen.",0,2,62,BUF 15,1,NE,XP
+10,1935,1,00:27,(:27) (Shotgun) T.Brady pass incomplete short left to B.LaFell.,10,2,42,BUF 20,0,NE,
+10,1894,1,00:35,"(:35) (Shotgun) T.Brady pass deep middle to B.LaFell to BUF 20 for 24 yards (C.Graham). The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands.",10,2,42,BUF 44,0,NE,
+13,2326,2,12:29,(12:29) T.Taylor pass short right to L.McCoy pushed ob at NE 45 for 11 yards (J.Mayo).,10,3,25,BUF 44,0,BUF,
+13,2304,1,12:35,(12:35) (Shotgun) T.Taylor pass incomplete deep left to S.Watkins.,10,3,0,BUF 44,0,BUF,
+13,2434,0,10:29,"D.Carpenter extra point is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",0,3,56,NE 15,1,BUF,XP
+13,2406,2,10:40,"(10:40) (Shotgun) L.McCoy right end for 27 yards, TOUCHDOWN. The Replay Official reviewed the runner broke the plane ruling, and the play was Upheld. The ruling on the field stands.",6,3,56,NE 27,1,BUF,TD
+13,2379,1,11:24,(11:24) (Shotgun) L.McCoy right guard to NE 27 for 4 yards (R.Ninkovich; J.Freeny).,10,3,29,NE 31,0,BUF,
+13,2355,1,11:56,(11:56) T.Taylor pass short left to C.Clay pushed ob at NE 31 for 14 yards (P.Chung).,10,3,25,NE 45,0,BUF,
+12,2137,1,14:39,(14:39) (Shotgun) T.Brady pass short middle to D.Amendola to NE 31 for 6 yards (P.Brown).,5,3,11,NE 25,0,NE,
+12,2217,2,13:27,(13:27) L.Blount up the middle to BUF 36 for 4 yards (C.Bryant; P.Brown).,10,3,44,BUF 40,0,NE,
+12,2238,3,12:44,(12:44) (Shotgun) T.Brady pass incomplete short middle to D.Amendola [N.Bradham].,6,3,44,BUF 36,0,NE,
+12,2283,4,12:39,"(12:39) S.Gostkowski 54 yard field goal is No Good, Wide Right, Center-J.Cardona, Holder-R.Allen.",6,3,44,BUF 36,0,NE,FGM
+12,2087,0,15:00,"J.Gay kicks 65 yards from BUF 35 to end zone, Touchback.",0,3,0,BUF 35,0,BUF,KICKOFF
+12,2195,1,13:36,(13:36) T.Brady pass incomplete deep right to B.LaFell [A.Carrington].,10,3,44,BUF 40,0,NE,
+12,2102,1,15:00,"(15:00) (Shotgun) T.Brady pass short right to D.Amendola to NE 21 for 1 yard (M.Lawson). PENALTY on BUF-M.Lawson, Defensive Offside, 5 yards, enforced at NE 20 - No Play.",10,3,5,NE 20,0,NE,PENALTY
+12,2260,0,12:39,Timeout #1 by NE at 12:39.,0,3,44,,0,,TIMEOUT
+12,2161,1,14:05,"(14:05) (No Huddle) T.Brady pass short right to D.Amendola, dead ball declared at NE 45 for 14 yards. PENALTY on BUF, Unsportsmanlike Conduct, 15 yards, enforced at NE 45.",10,3,44,NE 31,0,NE,PENALTY
+15,2622,3,08:48,(8:48) (Shotgun) T.Taylor left end to BUF 38 for -6 yards (C.Jones).,3,3,1,BUF 44,0,BUF,
+15,2605,0,08:48,Timeout #1 by BUF at 08:48.,0,3,7,,0,,TIMEOUT
+15,2562,1,09:30,(9:30) (Shotgun) L.McCoy up the middle to BUF 44 for 7 yards (M.Brown).,10,3,7,BUF 37,0,BUF,
+15,2583,2,08:55,(8:55) (Shotgun) T.Taylor pass incomplete deep left to S.Watkins.,3,3,7,BUF 44,0,BUF,
+15,2643,4,08:12,"(8:12) C.Schmidt punts 47 yards to NE 15, Center-G.Sanborn. D.Amendola to NE 36 for 21 yards (N.Bradham; J.Meeks).",9,3,1,BUF 38,0,BUF,PUNT
+14,2515,3,09:47,(9:47) (Shotgun) T.Brady pass incomplete deep right to B.LaFell (S.Gilmore) [B.Rambo].,5,3,5,NE 27,0,NE,
+14,2537,4,09:37,"(9:37) R.Allen punts 38 yards to BUF 35, Center-J.Cardona. L.McKelvin to BUF 37 for 2 yards (M.Slater).",5,3,5,NE 27,0,NE,PUNT
+14,2494,2,10:21,(10:21) L.Blount left end pushed ob at NE 27 for 5 yards (C.Graham).,10,3,5,NE 22,0,NE,
+14,2450,0,10:29,J.Gay kicks 53 yards from BUF 35 to NE 12. M.Williams to NE 22 for 10 yards (M.Butler).,0,3,0,BUF 35,0,BUF,KICKOFF
+14,2472,1,10:25,(10:25) (Shotgun) T.Brady pass incomplete short right to R.Gronkowski.,10,3,0,NE 22,0,NE,
+17,2859,1,05:55,(5:55) (Shotgun) L.McCoy left end to BUF 19 for -1 yards (D.Hightower).,10,3,-1,BUF 20,0,BUF,
+17,2902,3,05:06,(5:06) (Shotgun) T.Taylor pass incomplete short right to C.Clay (D.McCourty).,11,3,-1,BUF 19,0,BUF,
+17,2880,2,05:12,(5:12) (Shotgun) T.Taylor pass incomplete short middle to C.Clay.,11,3,-1,BUF 19,0,BUF,
+17,2924,4,04:57,"(4:57) C.Schmidt punts 47 yards to NE 34, Center-G.Sanborn, downed by BUF-R.Brooks.",11,3,-1,BUF 19,0,BUF,PUNT
+17,2840,0,05:55,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",0,3,0,NE 35,0,NE,KICKOFF
+16,2786,1,06:00,"(6:00) (No Huddle) J.White right end for 6 yards, TOUCHDOWN. Penalty on BUF, Defensive Offside, declined.",6,3,64,BUF 6,1,NE,TD
+16,2762,3,06:25,(6:25) (Shotgun) T.Brady pass short right to D.Amendola to BUF 6 for 41 yards (R.Darby). NE-80 Amendola 7th career 100-yard game.,7,3,58,BUF 47,0,NE,
+16,2719,1,07:13,(7:13) L.Blount left tackle to BUF 47 for 3 yards (C.Bryant; M.Dareus).,10,3,17,50,0,NE,
+16,2740,2,06:35,(6:35) T.Brady pass incomplete deep left to R.Gronkowski.,7,3,17,BUF 47,0,NE,
+16,2824,0,05:55,"S.Gostkowski extra point is GOOD, Center-J.Cardona, Holder-R.Allen.",0,3,64,BUF 15,1,NE,XP
+16,2695,2,07:36,(7:36) T.Brady pass short left to B.LaFell pushed ob at 50 for 5 yards (N.Bradham).,1,3,14,NE 45,0,NE,
+16,2668,1,07:59,(7:59) (Shotgun) T.Brady pass short middle to D.Amendola to NE 45 for 9 yards (B.Rambo). BUF-B.Rambo was injured during the play.,10,3,9,NE 36,0,NE,
+19,3119,2,02:16,(2:16) (No Huddle) L.Blount left guard to BUF 19 for 4 yards (P.Brown).,3,3,11,BUF 23,0,NE,
+19,3209,4,00:50,"(:50) S.Gostkowski 35 yard field goal is GOOD, Center-J.Cardona, Holder-R.Allen.",7,3,14,BUF 16,1,NE,FG
+19,3140,1,01:51,(1:51) L.Blount up the middle to BUF 18 for 1 yard (P.Brown). BUF-M.Dareus was injured during the play.,10,3,12,BUF 19,0,NE,
+19,3187,3,00:54,(:54) T.Brady pass incomplete short left to R.Gronkowski.,7,3,14,BUF 16,0,NE,
+19,3098,1,02:37,(2:37) L.Blount left guard to BUF 23 for 7 yards (N.Bradham).,10,3,7,BUF 30,0,NE,
+19,3165,2,01:23,(1:23) L.Blount left tackle to BUF 16 for 2 yards (N.Bradham; C.Graham).,9,3,14,BUF 18,0,NE,
+18,2965,2,04:40,(4:40) (Shotgun) T.Brady pass short left to L.Blount to NE 39 for 5 yards (P.Brown).,10,3,5,NE 34,0,NE,
+18,2989,3,03:53,"(3:53) (Shotgun) T.Brady pass deep left to C.Harper to BUF 34 for 27 yards (S.Gilmore). PENALTY on NE-M.Cannon, Offensive Holding, 10 yards, enforced at NE 39 - No Play.",5,3,-5,NE 39,0,NE,PENALTY
+18,2943,1,04:45,(4:45) T.Brady pass incomplete short middle to L.Blount.,10,3,0,NE 34,0,NE,
+18,3025,3,03:26,(3:26) (Shotgun) B.Bolden left guard to NE 36 for 7 yards (C.Graham; L.McKelvin).,15,3,2,NE 29,0,NE,
+18,3046,4,02:50,"(2:50) R.Allen punts 34 yards to BUF 30, Center-J.Cardona. L.McKelvin to BUF 32 for 2 yards (B.King). FUMBLES (B.King), RECOVERED by NE-J.Freeny at BUF 35. J.Freeny to BUF 30 for 5 yards (J.Meeks). FUMBLES (J.Meeks), ball out of bounds at BUF 30.",8,3,2,NE 36,0,NE,FUMBLE

@@ -1,179 +1,179 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1322,1,09:06,,10,2,0,HOU 15,0,HOU,
-9,1344,2,08:58,,10,2,7,HOU 15,0,HOU,
-9,1365,3,08:16,,3,2,9,HOU 22,0,HOU,
-9,1389,4,07:41,,1,2,9,HOU 24,0,HOU,PUNT
-9,1300,0,09:10,,0,2,0,DEN 35,0,DEN,KICKOFF
-24,4092,4,00:09,,4,4,30,DEN 47,0,HOU,
-24,4070,3,00:15,,4,4,28,DEN 47,0,HOU,
-24,3933,1,01:57,,10,4,2,HOU 25,0,HOU,
-24,4003,1,00:49,,10,4,22,HOU 35,0,HOU,
-24,3979,3,01:19,,8,4,10,HOU 27,0,HOU,
-24,4027,1,00:41,,10,4,28,HOU 47,0,HOU,
-24,3918,0,01:57,,0,4,0,DEN 35,0,DEN,KICKOFF
-24,4048,2,00:19,,4,4,28,DEN 47,0,HOU,
-24,3957,2,01:22,,8,4,2,HOU 27,0,HOU,
-10,1490,1,06:20,,10,2,35,HOU 43,0,DEN,
-10,1511,1,05:37,,10,2,64,HOU 33,0,DEN,
-10,1469,1,06:53,,10,2,25,DEN 45,0,DEN,
-10,1448,1,07:25,,5,2,13,DEN 37,0,DEN,
-10,1599,0,04:04,,0,2,68,HOU 15,1,DEN,XP
-10,1535,1,04:51,,4,2,64,HOU 4,0,DEN,
-10,1557,2,04:46,,4,2,64,HOU 4,0,DEN,
-10,1415,1,07:29,,10,2,5,DEN 32,0,DEN,PENALTY
-10,1578,3,04:08,,4,2,68,HOU 4,1,DEN,TD
-20,3269,2,11:00,,1,4,17,HOU 23,0,HOU,
-20,3293,1,10:20,,10,4,17,HOU 31,0,HOU,
-20,3212,0,11:36,,0,4,0,DEN 35,0,DEN,KICKOFF
-20,3358,4,09:29,,6,4,21,HOU 35,0,HOU,PUNT
-20,3245,1,11:31,,10,4,9,HOU 14,0,HOU,
-20,3336,3,09:34,,6,4,21,HOU 35,0,HOU,
-20,3315,2,10:13,,10,4,21,HOU 31,0,HOU,
-6,609,0,07:11,,0,1,0,HOU 35,0,HOU,KICKOFF
-6,671,3,06:37,,8,1,-8,DEN 27,0,DEN,PENALTY
-6,649,2,06:41,,8,1,2,DEN 27,0,DEN,
-6,628,1,07:11,,10,1,2,DEN 25,0,DEN,
-6,727,4,05:35,,6,1,4,DEN 29,0,DEN,PUNT
-6,706,3,06:08,,18,1,4,DEN 17,0,DEN,
-18,2913,1,00:40,,10,3,4,HOU 25,0,HOU,
-18,2898,0,00:40,,0,3,0,DEN 35,0,DEN,KICKOFF
-18,2958,0,,,0,3,5,,0,,
-18,2937,2,00:07,,6,3,5,HOU 29,0,HOU,
-18,2975,3,15:00,,5,4,5,HOU 30,0,HOU,FUMBLE
-25,4117,1,00:03,,10,4,-1,DEN 45,0,DEN,
-25,4138,0,00:00,,0,4,-1,,0,,
-1,92,3,13:54,,5,1,5,HOU 30,0,HOU,
-1,71,2,14:34,,8,1,5,HOU 27,0,HOU,
-1,35,0,15:00,,0,1,5,DEN 35,0,DEN,KICKOFF
-1,114,4,13:49,,5,1,5,HOU 30,0,HOU,PUNT
-1,50,1,15:00,,10,1,2,HOU 25,0,HOU,
-5,538,2,08:00,,10,1,33,DEN 27,0,HOU,
-5,515,1,08:05,,10,1,31,DEN 27,0,HOU,
-5,494,3,08:39,,4,1,31,HOU 48,0,HOU,
-5,559,3,07:19,,8,1,33,DEN 25,0,HOU,
-5,581,4,07:15,,8,1,33,DEN 25,1,HOU,FG
-5,473,2,09:20,,10,1,31,HOU 42,0,HOU,
-5,451,1,09:27,,10,1,0,HOU 42,0,HOU,
-13,2069,4,14:06,,1,3,9,DEN 34,0,DEN,PUNT
-13,1982,0,15:00,,0,3,0,HOU 35,0,HOU,KICKOFF
-13,2047,3,14:11,,1,3,8,DEN 34,0,DEN,
-13,2001,1,15:00,,10,3,0,DEN 25,0,DEN,
-13,2023,2,14:56,,10,3,8,DEN 25,0,DEN,
-21,3385,1,09:20,,10,4,21,DEN 35,0,DEN,
-21,3502,4,06:33,,2,4,21,HOU 44,0,DEN,PUNT
-21,3459,2,07:18,,4,4,21,HOU 46,0,DEN,
-21,3480,3,06:38,,2,4,21,HOU 44,0,DEN,
-21,3417,2,08:42,,8,4,13,DEN 37,0,DEN,
-21,3438,1,07:57,,10,4,19,DEN 48,0,DEN,
-23,3826,0,02:25,,0,4,18,,0,,TIMEOUT
-23,3745,3,04:01,,4,4,15,HOU 28,0,DEN,
-23,3898,4,02:00,,4,4,20,HOU 14,1,DEN,FG
-23,3724,2,04:01,,7,4,6,HOU 31,0,DEN,
-23,3766,0,03:13,,0,4,15,,0,,TIMEOUT
-23,3804,2,02:31,,7,4,20,HOU 17,0,DEN,FUMBLE
-23,3881,0,02:00,,0,4,20,,0,,
-23,3783,1,03:13,,10,4,18,HOU 20,0,DEN,
-23,3703,1,04:40,,10,4,17,HOU 34,0,DEN,
-23,3843,3,02:25,,6,4,20,HOU 16,0,DEN,
-11,1837,0,01:04,,0,2,19,,0,,TIMEOUT
-11,1718,1,02:20,,10,2,20,HOU 28,0,HOU,
-11,1615,0,04:04,,0,2,0,DEN 35,0,DEN,KICKOFF
-11,1739,0,02:00,,0,2,20,,0,,
-11,1854,4,01:04,,6,2,19,HOU 32,0,HOU,PUNT
-11,1789,2,01:53,,15,2,15,HOU 23,0,HOU,
-11,1686,1,02:47,,10,2,20,HOU 28,0,HOU,
-11,1662,2,03:29,,2,2,15,HOU 21,0,HOU,
-11,1756,2,02:00,,5,2,10,HOU 33,0,HOU,PENALTY
-11,1813,3,01:11,,10,2,19,HOU 28,0,HOU,
-11,1638,1,03:58,,10,2,8,HOU 13,0,HOU,
-14,2208,2,12:10,,4,3,64,DEN 22,0,HOU,
-14,2319,4,09:19,,9,3,72,DEN 16,0,HOU,PENALTY
-14,2250,1,10:51,,10,3,61,DEN 17,0,HOU,FUMBLE
-14,2093,1,13:59,,10,3,7,HOU 17,0,HOU,
-14,2276,2,10:09,,15,3,67,DEN 22,0,HOU,
-14,2229,3,11:34,,1,3,66,DEN 19,0,HOU,
-14,2187,1,12:49,,10,3,61,DEN 28,0,HOU,
-14,2297,3,09:25,,9,3,67,DEN 16,0,HOU,
-14,2352,4,09:12,,4,3,72,DEN 11,1,HOU,FG
-14,2149,1,12:56,,10,3,55,HOU 36,0,HOU,PENALTY
-14,2114,2,13:24,,3,3,19,HOU 24,0,HOU,
-8,1266,1,09:15,,7,2,75,HOU 7,1,DEN,TD
-8,1221,1,10:35,,10,2,60,HOU 18,0,DEN,
-8,1197,2,11:12,,6,2,57,HOU 26,0,DEN,
-8,1176,1,11:52,,10,2,49,HOU 30,0,DEN,
-8,1130,1,13:10,,10,2,33,HOU 48,0,DEN,
-8,1105,2,13:54,,9,2,27,DEN 37,0,DEN,
-8,993,0,00:21,,0,1,0,HOU 35,0,HOU,KICKOFF
-8,1033,0,,,0,1,11,,0,,
-8,1242,2,09:55,,7,2,68,HOU 15,0,DEN,
-8,1049,1,15:00,,10,2,1,DEN 36,0,DEN,PENALTY
-8,1284,0,09:10,,0,2,75,HOU 15,1,DEN,XP
-8,1151,2,12:30,,4,2,45,HOU 42,0,DEN,
-8,1081,1,14:35,,20,2,12,DEN 26,0,DEN,
-8,1012,1,00:21,,10,1,11,DEN 25,0,DEN,
-19,3116,1,13:02,,6,4,22,HOU 6,0,DEN,
-19,3071,2,14:22,,8,4,8,HOU 23,0,DEN,
-19,3137,2,12:25,,5,4,22,HOU 5,0,DEN,
-19,3158,3,11:45,,3,4,22,HOU 3,0,DEN,
-19,3050,1,14:56,,10,4,22,HOU 25,0,DEN,
-19,3188,4,11:37,,3,4,22,HOU 3,1,DEN,FG
-19,3092,3,13:37,,2,4,19,HOU 17,0,DEN,
-22,3595,1,05:02,,10,4,26,HOU 34,0,HOU,
-22,3641,3,04:51,,10,4,26,HOU 34,0,HOU,
-22,3680,4,04:43,,10,4,26,HOU 34,0,HOU,
-22,3522,1,06:25,,10,4,13,HOU 8,0,HOU,
-22,3619,2,04:55,,10,4,26,HOU 34,0,HOU,
-22,3571,2,05:22,,4,4,26,HOU 27,0,HOU,
-22,3547,1,05:54,,10,4,19,HOU 21,0,HOU,
-22,3663,0,04:43,,0,4,26,,0,,TIMEOUT
-12,1884,1,00:53,,10,2,17,DEN 23,0,DEN,
-12,1945,2,00:39,,10,2,21,DEN 40,0,DEN,
-12,1966,0,,,0,2,21,,0,,
-12,1905,0,00:44,,0,2,17,,0,,TIMEOUT
-12,1922,1,00:44,,10,2,17,DEN 40,0,DEN,
-16,2620,1,06:16,,10,3,13,DEN 46,0,HOU,
-16,2558,2,07:26,,10,3,9,HOU 43,0,HOU,
-16,2684,1,04:46,,10,3,30,DEN 34,0,HOU,FUMBLE
-16,2596,3,06:53,,1,3,11,DEN 48,0,HOU,
-16,2663,3,05:30,,8,3,30,DEN 44,0,HOU,FUMBLE
-16,2579,0,06:53,,0,3,9,,0,,TIMEOUT
-16,2536,1,07:33,,10,3,0,HOU 43,0,HOU,
-16,2641,2,05:33,,8,3,13,DEN 44,0,HOU,
-7,862,2,02:39,,1,1,31,DEN 33,0,HOU,
-7,930,2,01:14,,6,1,39,DEN 26,0,HOU,
-7,772,1,05:26,,10,1,31,HOU 36,0,HOU,
-7,817,3,03:56,,5,1,22,HOU 41,0,HOU,
-7,951,3,00:30,,5,1,39,DEN 25,0,HOU,
-7,793,2,04:40,,5,1,39,HOU 41,0,HOU,
-7,906,1,01:54,,10,1,38,DEN 30,0,HOU,
-7,973,4,00:25,,5,1,39,DEN 25,1,HOU,FG
-7,838,1,03:23,,10,1,31,DEN 42,0,HOU,
-7,884,3,02:35,,1,1,34,DEN 33,0,HOU,
-3,234,1,12:33,,10,1,7,HOU 40,0,HOU,
-3,303,4,11:19,,2,1,8,HOU 48,0,HOU,PUNT
-3,280,3,11:23,,2,1,8,HOU 48,0,HOU,
-3,259,2,12:04,,3,1,8,HOU 47,0,HOU,
-17,2864,2,00:45,,1,3,72,HOU 1,1,DEN,TD
-17,2882,0,00:40,,0,3,72,HOU 15,1,DEN,XP
-17,2717,1,04:37,,10,3,39,DEN 28,0,DEN,
-17,2780,1,02:38,,10,3,72,HOU 36,0,DEN,
-17,2738,2,04:07,,2,3,17,DEN 36,0,DEN,
-17,2843,1,01:26,,2,3,71,HOU 2,0,DEN,
-17,2759,1,03:15,,10,3,36,DEN 45,0,DEN,
-17,2801,2,01:55,,7,3,70,HOU 33,0,DEN,
-17,2826,0,01:26,,0,3,70,,0,,TIMEOUT
-4,425,4,09:38,,2,1,8,DEN 16,0,DEN,PUNT
-4,323,1,11:12,,10,1,0,DEN 8,0,DEN,
-4,345,2,11:05,,10,1,7,DEN 8,0,DEN,
-4,369,3,10:28,,3,1,0,DEN 15,0,DEN,PENALTY
-4,401,3,09:58,,10,1,8,DEN 8,0,DEN,
-2,140,1,13:37,,10,1,0,DEN 24,0,DEN,
-2,208,4,12:44,,10,1,0,DEN 24,0,DEN,PUNT
-2,162,2,13:28,,10,1,0,DEN 24,0,DEN,
-2,186,3,12:49,,10,1,0,DEN 24,0,DEN,
-15,2398,1,09:04,,10,3,-5,DEN 20,0,DEN,PENALTY
-15,2444,1,09:03,,15,3,-3,DEN 15,0,DEN,
-15,2490,3,07:46,,9,3,1,DEN 21,0,DEN,
-15,2466,2,08:26,,13,3,1,DEN 17,0,DEN,
-15,2512,4,07:42,,9,3,1,DEN 21,0,DEN,PUNT
-15,2376,0,09:09,,0,3,0,HOU 35,0,HOU,KICKOFF
+24,4092,4,00:09,"(:09) (No Huddle, Shotgun) B.Osweiler pass short right to J.Strong to DEN 45 for 2 yards (C.Harris Jr.).",4,4,30,DEN 47,0,HOU,
+24,4048,2,00:19,"(:19) (No Huddle, Shotgun) B.Osweiler pass incomplete short middle to A.Blue.",4,4,28,DEN 47,0,HOU,
+24,4003,1,00:49,(:49) (Shotgun) B.Osweiler pass short right to D.Hopkins ran ob at HOU 47 for 12 yards.,10,4,22,HOU 35,0,HOU,
+24,3957,2,01:22,(1:22) (Shotgun) B.Osweiler pass incomplete short right to C.Fiedorowicz (J.Crick).,8,4,2,HOU 27,0,HOU,
+24,4070,3,00:15,(:15) (Shotgun) B.Osweiler pass incomplete deep left to C.Fiedorowicz (T.Ward) [A.Gotsis].,4,4,28,DEN 47,0,HOU,
+24,3933,1,01:57,(1:57) (Shotgun) B.Osweiler pass short right to L.Miller to HOU 27 for 2 yards (C.Nelson; S.Ray).,10,4,2,HOU 25,0,HOU,
+24,3918,0,01:57,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback.",0,4,0,DEN 35,0,DEN,KICKOFF
+24,4027,1,00:41,"(:41) (No Huddle, Shotgun) A.Blue up the middle to DEN 47 for 6 yards (C.Nelson).",10,4,28,HOU 47,0,HOU,
+24,3979,3,01:19,(1:19) (Shotgun) B.Osweiler pass short middle to C.Fiedorowicz to HOU 35 for 8 yards (T.Ward; J.Crick).,8,4,10,HOU 27,0,HOU,
+25,4138,0,00:00,END GAME,0,4,-1,,0,,
+25,4117,1,00:03,(:03) T.Siemian kneels to DEN 44 for -1 yards.,10,4,-1,DEN 45,0,DEN,
+20,3212,0,11:36,B.McManus kicks 70 yards from DEN 35 to HOU -5. W.Fuller to HOU 14 for 19 yards (C.Nelson).,0,4,0,DEN 35,0,DEN,KICKOFF
+20,3245,1,11:31,(11:31) (Shotgun) B.Osweiler pass short right to R.Griffin to HOU 23 for 9 yards (C.Nelson).,10,4,9,HOU 14,0,HOU,
+20,3336,3,09:34,(9:34) (Shotgun) B.Osweiler pass incomplete short right to L.Miller.,6,4,21,HOU 35,0,HOU,
+20,3269,2,11:00,(11:00) (Shotgun) B.Osweiler pass short right to J.Strong to HOU 31 for 8 yards (B.Roby).,1,4,17,HOU 23,0,HOU,
+20,3315,2,10:13,"(10:13) (Shotgun) L.Miller up the middle to HOU 35 for 4 yards (V.Miller, C.Nelson).",10,4,21,HOU 31,0,HOU,
+20,3358,4,09:29,"(9:29) S.Lechler punts 30 yards to DEN 35, Center-J.Weeks, out of bounds. Ball was tipped by Den 48",6,4,21,HOU 35,0,HOU,PUNT
+20,3293,1,10:20,(10:20) B.Osweiler pass incomplete deep middle to D.Hopkins.,10,4,17,HOU 31,0,HOU,
+21,3438,1,07:57,(7:57) D.Booker right tackle to HOU 46 for 6 yards (B.McKinney).,10,4,19,DEN 48,0,DEN,
+21,3385,1,09:20,(9:20) D.Booker right tackle to DEN 37 for 2 yards (B.Cushing).,10,4,21,DEN 35,0,DEN,
+21,3480,3,06:38,(6:38) (Shotgun) T.Siemian pass incomplete deep left to D.Thomas.,2,4,21,HOU 44,0,DEN,
+21,3502,4,06:33,"(6:33) R.Dixon punts 36 yards to HOU 8, Center-C.Kreiter, fair catch by W.Fuller.",2,4,21,HOU 44,0,DEN,PUNT
+21,3459,2,07:18,(7:18) C.Anderson left tackle to HOU 44 for 2 yards (B.Cushing).,4,4,21,HOU 46,0,DEN,
+21,3417,2,08:42,(8:42) D.Booker right tackle to DEN 48 for 11 yards (E.Pleasant).,8,4,13,DEN 37,0,DEN,
+22,3547,1,05:54,(5:54) (Shotgun) B.Osweiler pass short right to C.Fiedorowicz pushed ob at HOU 27 for 6 yards (T.Ward).,10,4,19,HOU 21,0,HOU,
+22,3663,0,04:43,Timeout #1 by HOU at 04:43.,0,4,26,,0,,TIMEOUT
+22,3595,1,05:02,"(5:02) (No Huddle, Shotgun) B.Osweiler pass short right to L.Miller pushed ob at HOU 34 for no gain (A.Talib).",10,4,26,HOU 34,0,HOU,
+22,3619,2,04:55,(4:55) (Shotgun) B.Osweiler pass incomplete short middle to R.Griffin.,10,4,26,HOU 34,0,HOU,
+22,3680,4,04:43,(4:43) (Shotgun) B.Osweiler pass incomplete short right to R.Griffin (D.Wolfe).,10,4,26,HOU 34,0,HOU,
+22,3571,2,05:22,(5:22) (Shotgun) B.Osweiler pass short right to D.Hopkins ran ob at HOU 34 for 7 yards.,4,4,26,HOU 27,0,HOU,
+22,3522,1,06:25,(6:25) (Shotgun) B.Osweiler pass short right to W.Fuller to HOU 21 for 13 yards (A.Talib; W.Parks).,10,4,13,HOU 8,0,HOU,
+22,3641,3,04:51,(4:51) (Shotgun) B.Osweiler pass incomplete short right to D.Hopkins (A.Talib).,10,4,26,HOU 34,0,HOU,
+23,3783,1,03:13,(3:13) D.Booker up the middle to HOU 17 for 3 yards (B.Dunn).,10,4,18,HOU 20,0,DEN,
+23,3881,0,02:00,Two-Minute Warning,0,4,20,,0,,
+23,3766,0,03:13,Timeout #2 by HOU at 03:13.,0,4,15,,0,,TIMEOUT
+23,3826,0,02:25,Timeout #3 by HOU at 02:25.,0,4,18,,0,,TIMEOUT
+23,3804,2,02:31,"(2:31) D.Booker right tackle to HOU 16 for 1 yard. FUMBLES, and recovers at HOU 16. D.Booker to HOU 16 for no gain (B.Dunn).",7,4,20,HOU 17,0,DEN,FUMBLE
+23,3745,3,04:01,(4:01) C.Anderson left guard to HOU 20 for 8 yards (B.McKinney).,4,4,15,HOU 28,0,DEN,
+23,3898,4,02:00,"(2:00) B.McManus 32 yard field goal is GOOD, Center-C.Kreiter, Holder-R.Dixon.",4,4,20,HOU 14,1,DEN,FG
+23,3843,3,02:25,(2:25) D.Booker right tackle to HOU 14 for 2 yards (B.Dunn).,6,4,20,HOU 16,0,DEN,
+23,3724,2,04:01,(4:01) C.Anderson up the middle to HOU 28 for 3 yards (D.Reader; J.Simon).,7,4,6,HOU 31,0,DEN,
+23,3703,1,04:40,(4:40) C.Anderson up the middle to HOU 31 for 3 yards (C.Covington).,10,4,17,HOU 34,0,DEN,
+1,71,2,14:34,(14:34) L.Miller right guard to HOU 30 for 3 yards (D.Stewart; D.Kilgo).,8,1,5,HOU 27,0,HOU,
+1,114,4,13:49,"(13:49) S.Lechler punts 62 yards to DEN 8, Center-J.Weeks. J.Norwood to DEN 24 for 16 yards (M.Bullough).",5,1,5,HOU 30,0,HOU,PUNT
+1,92,3,13:54,(13:54) (Shotgun) B.Osweiler pass incomplete short middle to D.Hopkins (T.Ward).,5,1,5,HOU 30,0,HOU,
+1,50,1,15:00,(15:00) L.Miller up the middle to HOU 27 for 2 yards (S.Williams).,10,1,2,HOU 25,0,HOU,
+1,35,0,15:00,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback.",0,1,5,DEN 35,0,DEN,KICKOFF
+3,234,1,12:33,(12:33) (Shotgun) B.Osweiler pass short left to D.Hopkins pushed ob at HOU 47 for 7 yards (C.Harris Jr.).,10,1,7,HOU 40,0,HOU,
+3,280,3,11:23,(11:23) (Shotgun) B.Osweiler pass incomplete short right to D.Hopkins (A.Talib) [D.Stewart].,2,1,8,HOU 48,0,HOU,
+3,259,2,12:04,(12:04) L.Miller right guard to HOU 48 for 1 yard (J.Crick; D.Wolfe).,3,1,8,HOU 47,0,HOU,
+3,303,4,11:19,"(11:19) S.Lechler punts 44 yards to DEN 8, Center-J.Weeks, fair catch by J.Norwood.",2,1,8,HOU 48,0,HOU,PUNT
+2,208,4,12:44,"(12:44) R.Dixon punts 46 yards to HOU 30, Center-C.Kreiter. T.Ervin to HOU 40 for 10 yards (C.Nelson).",10,1,0,DEN 24,0,DEN,PUNT
+2,186,3,12:49,(12:49) (Shotgun) T.Siemian pass incomplete short left to E.Sanders (A.Bouye).,10,1,0,DEN 24,0,DEN,
+2,162,2,13:28,(13:28) T.Siemian pass short right to D.Thomas to DEN 24 for no gain (A.Bouye).,10,1,0,DEN 24,0,DEN,
+2,140,1,13:37,(13:37) T.Siemian pass incomplete short left to A.Janovich.,10,1,0,DEN 24,0,DEN,
+5,559,3,07:19,(7:19) (Shotgun) B.Osweiler pass incomplete short left to A.Blue. HOU-D.Newton was injured during the play. He is Out.,8,1,33,DEN 25,0,HOU,
+5,581,4,07:15,"(7:15) N.Novak 43 yard field goal is GOOD, Center-J.Weeks, Holder-S.Lechler.",8,1,33,DEN 25,1,HOU,FG
+5,451,1,09:27,(9:27) (Shotgun) B.Osweiler pass incomplete deep left to D.Hopkins.,10,1,0,HOU 42,0,HOU,
+5,473,2,09:20,(9:20) (Shotgun) L.Miller up the middle to HOU 48 for 6 yards (D.Wolfe).,10,1,31,HOU 42,0,HOU,
+5,494,3,08:39,(8:39) (Shotgun) L.Miller left tackle pushed ob at DEN 27 for 25 yards (W.Parks).,4,1,31,HOU 48,0,HOU,
+5,515,1,08:05,(8:05) (Shotgun) B.Osweiler pass incomplete short middle to W.Fuller (A.Talib).,10,1,31,DEN 27,0,HOU,
+5,538,2,08:00,(8:00) (Shotgun) A.Blue up the middle to DEN 25 for 2 yards (S.Barrett; S.Williams).,10,1,33,DEN 27,0,HOU,
+4,323,1,11:12,(11:12) T.Siemian pass incomplete deep right to E.Sanders (A.Bouye).,10,1,0,DEN 8,0,DEN,
+4,369,3,10:28,"(10:28) (Shotgun) D.Booker up the middle to DEN 23 for 8 yards (E.Pleasant). PENALTY on DEN-R.Okung, Offensive Holding, 7 yards, enforced at DEN 15 - No Play.",3,1,0,DEN 15,0,DEN,PENALTY
+4,425,4,09:38,"(9:38) R.Dixon punts 43 yards to HOU 41, Center-C.Kreiter. T.Ervin to HOU 42 for 1 yard (C.Nelson).",2,1,8,DEN 16,0,DEN,PUNT
+4,401,3,09:58,(9:58) (Shotgun) T.Siemian pass short left to J.Norwood pushed ob at DEN 16 for 8 yards (A.Bouye).,10,1,8,DEN 8,0,DEN,
+4,345,2,11:05,(11:05) T.Siemian pass short right to B.Fowler to DEN 15 for 7 yards (A.Bouye).,10,1,7,DEN 8,0,DEN,
+7,793,2,04:40,(4:40) (Shotgun) B.Osweiler pass short left to W.Fuller to HOU 41 for no gain (C.Harris Jr.).,5,1,39,HOU 41,0,HOU,
+7,884,3,02:35,(2:35) A.Blue up the middle to DEN 30 for 3 yards (B.Marshall).,1,1,34,DEN 33,0,HOU,
+7,951,3,00:30,(:30) (Shotgun) B.Osweiler pass incomplete deep right to W.Fuller [T.Ward].,5,1,39,DEN 25,0,HOU,
+7,838,1,03:23,(3:23) (Shotgun) B.Osweiler pass short middle to T.Ervin to DEN 33 for 9 yards (D.Watson).,10,1,31,DEN 42,0,HOU,
+7,862,2,02:39,(2:39) B.Osweiler pass incomplete deep left to D.Hopkins.,1,1,31,DEN 33,0,HOU,
+7,772,1,05:26,(5:26) A.Blue right end to HOU 41 for 5 yards (T.Ward; S.Williams).,10,1,31,HOU 36,0,HOU,
+7,973,4,00:25,"(:25) N.Novak 43 yard field goal is GOOD, Center-J.Weeks, Holder-S.Lechler.",5,1,39,DEN 25,1,HOU,FG
+7,906,1,01:54,(1:54) (Shotgun) B.Osweiler pass short left to C.Fiedorowicz to DEN 26 for 4 yards (S.Ray).,10,1,38,DEN 30,0,HOU,
+7,930,2,01:14,"(1:14) A.Blue right tackle to DEN 25 for 1 yard (D.Wolfe, B.Marshall).",6,1,39,DEN 26,0,HOU,
+7,817,3,03:56,(3:56) (Shotgun) A.Blue left guard pushed ob at DEN 42 for 17 yards (T.Ward).,5,1,22,HOU 41,0,HOU,
+6,706,3,06:08,(6:08) (Shotgun) C.Anderson up the middle to DEN 29 for 12 yards (A.Hal).,18,1,4,DEN 17,0,DEN,
+6,628,1,07:11,(7:11) D.Booker right tackle to DEN 27 for 2 yards (B.McKinney).,10,1,2,DEN 25,0,DEN,
+6,609,0,07:11,"N.Novak kicks 65 yards from HOU 35 to end zone, Touchback.",0,1,0,HOU 35,0,HOU,KICKOFF
+6,671,3,06:37,"(6:37) (Shotgun) T.Siemian pass deep right to D.Thomas pushed ob at HOU 46 for 27 yards (C.Moore). PENALTY on DEN-R.Okung, Offensive Holding, 10 yards, enforced at DEN 27 - No Play.",8,1,-8,DEN 27,0,DEN,PENALTY
+6,727,4,05:35,"(5:35) R.Dixon punts 45 yards to HOU 26, Center-C.Kreiter, out of bounds. PENALTY on DEN-C.Kreiter, Offensive Holding, 10 yards, enforced at HOU 26.",6,1,4,DEN 29,0,DEN,PUNT
+6,649,2,06:41,(6:41) T.Siemian pass incomplete short right to D.Thomas.,8,1,2,DEN 27,0,DEN,
+9,1322,1,09:06,(9:06) B.Osweiler pass incomplete deep middle to W.Fuller.,10,2,0,HOU 15,0,HOU,
+9,1344,2,08:58,(8:58) (Shotgun) L.Miller up the middle to HOU 22 for 7 yards (T.Davis).,10,2,7,HOU 15,0,HOU,
+9,1365,3,08:16,(8:16) (Shotgun) B.Osweiler pass short middle to W.Fuller to HOU 24 for 2 yards (A.Talib).,3,2,9,HOU 22,0,HOU,
+9,1300,0,09:10,B.McManus kicks 64 yards from DEN 35 to HOU 1. T.Ervin to HOU 15 for 14 yards (K.Webster).,0,2,0,DEN 35,0,DEN,KICKOFF
+9,1389,4,07:41,"(7:41) S.Lechler punts 48 yards to DEN 28, Center-J.Weeks. J.Norwood to DEN 32 for 4 yards (D.Jones).",1,2,9,HOU 24,0,HOU,PUNT
+8,1176,1,11:52,(11:52) D.Booker right tackle to HOU 26 for 4 yards (B.McKinney).,10,2,49,HOU 30,0,DEN,
+8,993,0,00:21,"N.Novak kicks 65 yards from HOU 35 to end zone, Touchback.",0,1,0,HOU 35,0,HOU,KICKOFF
+8,1081,1,14:35,(14:35) T.Siemian pass short middle to D.Thomas to DEN 37 for 11 yards (A.Bouye; B.McKinney).,20,2,12,DEN 26,0,DEN,
+8,1242,2,09:55,(9:55) (Shotgun) T.Siemian pass short middle to D.Thomas to HOU 7 for 8 yards (A.Bouye).,7,2,68,HOU 15,0,DEN,
+8,1049,1,15:00,"(15:00) D.Booker right tackle to DEN 41 for 5 yards (B.Cushing). PENALTY on DEN-M.Schofield, Offensive Holding, 10 yards, enforced at DEN 36 - No Play.",10,2,1,DEN 36,0,DEN,PENALTY
+8,1130,1,13:10,(13:10) D.Booker right guard to HOU 42 for 6 yards (B.Cushing; K.Jackson).,10,2,33,HOU 48,0,DEN,
+8,1151,2,12:30,(12:30) T.Siemian pass short left to A.Janovich to HOU 30 for 12 yards (A.Bouye).,4,2,45,HOU 42,0,DEN,
+8,1266,1,09:15,"(9:15) C.Anderson left guard for 7 yards, TOUCHDOWN.",7,2,75,HOU 7,1,DEN,TD
+8,1197,2,11:12,(11:12) (Shotgun) T.Siemian pass short right to D.Thomas ran ob at HOU 18 for 8 yards.,6,2,57,HOU 26,0,DEN,
+8,1284,0,09:10,"B.McManus extra point is GOOD, Center-C.Kreiter, Holder-R.Dixon.",0,2,75,HOU 15,1,DEN,XP
+8,1221,1,10:35,(10:35) C.Anderson right tackle to HOU 15 for 3 yards (J.Clowney; J.Simon).,10,2,60,HOU 18,0,DEN,
+8,1105,2,13:54,(13:54) (Shotgun) T.Siemian pass short middle to E.Sanders to HOU 48 for 15 yards (C.James; C.Moore).,9,2,27,DEN 37,0,DEN,
+8,1033,0,,END QUARTER 1,0,1,11,,0,,
+8,1012,1,00:21,(:21) C.Anderson right tackle to DEN 36 for 11 yards (A.Bouye).,10,1,11,DEN 25,0,DEN,
+11,1739,0,02:00,Two-Minute Warning,0,2,20,,0,,
+11,1789,2,01:53,(1:53) (Shotgun) B.Osweiler pass short left to C.Fiedorowicz to HOU 28 for 5 yards (T.Ward).,15,2,15,HOU 23,0,HOU,
+11,1718,1,02:20,(2:20) A.Blue up the middle to HOU 33 for 5 yards (S.Ray; T.Davis).,10,2,20,HOU 28,0,HOU,
+11,1837,0,01:04,Timeout #1 by DEN at 01:04.,0,2,19,,0,,TIMEOUT
+11,1813,3,01:11,(1:11) (Shotgun) B.Osweiler pass short left to R.Griffin to HOU 32 for 4 yards (B.Marshall).,10,2,19,HOU 28,0,HOU,
+11,1638,1,03:58,(3:58) B.Osweiler pass short right to D.Hopkins pushed ob at HOU 21 for 8 yards (A.Talib).,10,2,8,HOU 13,0,HOU,
+11,1615,0,04:04,B.McManus kicks 61 yards from DEN 35 to HOU 4. B.Miller to HOU 13 for 9 yards (D.Watson).,0,2,0,DEN 35,0,DEN,KICKOFF
+11,1854,4,01:04,"(1:04) S.Lechler punts 58 yards to DEN 10, Center-J.Weeks. J.Norwood to DEN 23 for 13 yards (R.Nelson).",6,2,19,HOU 32,0,HOU,PUNT
+11,1686,1,02:47,"(2:47) (Shotgun) B.Osweiler scrambles up the middle to HOU 33 for 5 yards (T.Davis). Penalty on HOU-C.Clark, Offensive Holding, offsetting, enforced at HOU 28 - No Play. Penalty on DEN-T.Davis, Unnecessary Roughness, offsetting.",10,2,20,HOU 28,0,HOU,
+11,1756,2,02:00,"(2:00) (Shotgun) A.Blue right guard to HOU 43 for 10 yards (A.Talib, D.Stewart). PENALTY on HOU-J.Allen, Offensive Holding, 10 yards, enforced at HOU 33 - No Play.",5,2,10,HOU 33,0,HOU,PENALTY
+11,1662,2,03:29,(3:29) (Shotgun) B.Osweiler pass short left to W.Fuller to HOU 28 for 7 yards (D.Stewart).,2,2,15,HOU 21,0,HOU,
+10,1557,2,04:46,(4:46) C.Anderson up the middle to HOU 4 for no gain (B.McKinney; W.Mercilus).,4,2,64,HOU 4,0,DEN,
+10,1599,0,04:04,"B.McManus extra point is GOOD, Center-C.Kreiter, Holder-R.Dixon.",0,2,68,HOU 15,1,DEN,XP
+10,1490,1,06:20,(6:20) D.Booker right guard to HOU 33 for 10 yards (W.Mercilus).,10,2,35,HOU 43,0,DEN,
+10,1535,1,04:51,(4:51) T.Siemian pass incomplete short left to E.Sanders.,4,2,64,HOU 4,0,DEN,
+10,1578,3,04:08,"(4:08) (Shotgun) T.Siemian pass short left to D.Thomas for 4 yards, TOUCHDOWN.",4,2,68,HOU 4,1,DEN,TD
+10,1469,1,06:53,(6:53) D.Booker up the middle to HOU 43 for 12 yards (A.Hal; B.Cushing).,10,2,25,DEN 45,0,DEN,
+10,1511,1,05:37,(5:37) T.Siemian pass short left to E.Sanders to HOU 4 for 29 yards (K.Jackson).,10,2,64,HOU 33,0,DEN,
+10,1415,1,07:29,"(7:29) T.Siemian pass incomplete deep middle to E.Sanders (A.Bouye). PENALTY on HOU-B.Cushing, Defensive Offside, 5 yards, enforced at DEN 32 - No Play.",10,2,5,DEN 32,0,DEN,PENALTY
+10,1448,1,07:25,(7:25) D.Booker right tackle to DEN 45 for 8 yards (B.McKinney).,5,2,13,DEN 37,0,DEN,
+13,2069,4,14:06,"(14:06) R.Dixon punts 49 yards to HOU 17, Center-C.Kreiter, fair catch by T.Ervin.",1,3,9,DEN 34,0,DEN,PUNT
+13,2047,3,14:11,(14:11) (Shotgun) T.Siemian pass incomplete short right to E.Sanders.,1,3,8,DEN 34,0,DEN,
+13,2001,1,15:00,(15:00) T.Siemian pass incomplete short right to D.Booker [W.Mercilus].,10,3,0,DEN 25,0,DEN,
+13,1982,0,15:00,"N.Novak kicks 65 yards from HOU 35 to end zone, Touchback.",0,3,0,HOU 35,0,HOU,KICKOFF
+13,2023,2,14:56,(14:56) T.Siemian pass short right to D.Thomas to DEN 34 for 9 yards (J.Joseph).,10,3,8,DEN 25,0,DEN,
+12,1905,0,00:44,Timeout #2 by DEN at 00:44.,0,2,17,,0,,TIMEOUT
+12,1922,1,00:44,(:44) (Shotgun) T.Siemian pass incomplete short middle to D.Thomas [J.Simon].,10,2,17,DEN 40,0,DEN,
+12,1884,1,00:53,"(:53) (Shotgun) C.Anderson up the middle to DEN 40 for 17 yards (B.McKinney, A.Bouye).",10,2,17,DEN 23,0,DEN,
+12,1966,0,,END QUARTER 2,0,2,21,,0,,
+12,1945,2,00:39,(:39) (Shotgun) C.Anderson up the middle to DEN 44 for 4 yards (J.Clowney).,10,2,21,DEN 40,0,DEN,
+15,2466,2,08:26,(8:26) (Shotgun) T.Siemian pass short left to D.Booker to DEN 21 for 4 yards (A.Bouye).,13,3,1,DEN 17,0,DEN,
+15,2444,1,09:03,(9:03) D.Booker left tackle to DEN 17 for 2 yards (W.Mercilus).,15,3,-3,DEN 15,0,DEN,
+15,2490,3,07:46,(7:46) (Shotgun) T.Siemian pass incomplete short right to D.Thomas.,9,3,1,DEN 21,0,DEN,
+15,2398,1,09:04,"(9:04) PENALTY on DEN-D.Stephenson, False Start, 5 yards, enforced at DEN 20 - No Play.",10,3,-5,DEN 20,0,DEN,PENALTY
+15,2376,0,09:09,N.Novak kicks 64 yards from HOU 35 to DEN 1. J.Norwood to DEN 20 for 19 yards (J.Prosch).,0,3,0,HOU 35,0,HOU,KICKOFF
+15,2512,4,07:42,"(7:42) R.Dixon punts 36 yards to HOU 43, Center-C.Kreiter, fair catch by T.Ervin.",9,3,1,DEN 21,0,DEN,PUNT
+14,2276,2,10:09,(10:09) (Shotgun) A.Blue up the middle to DEN 16 for 6 yards (T.Davis; J.Crick).,15,3,67,DEN 22,0,HOU,
+14,2229,3,11:34,(11:34) (Shotgun) L.Miller left tackle to DEN 17 for 2 yards (S.Ray; T.Ward).,1,3,66,DEN 19,0,HOU,
+14,2208,2,12:10,(12:10) L.Miller left guard to DEN 19 for 3 yards (D.Stewart).,4,3,64,DEN 22,0,HOU,
+14,2319,4,09:19,"(9:19) N.Novak 34 yard field goal is BLOCKED (A.Talib), Center-J.Weeks, Holder-S.Lechler, RECOVERED by DEN-S.Barrett at DEN 24. S.Barrett to DEN 24 for no gain (J.Prosch). PENALTY on DEN-A.Talib, Defensive Offside, 5 yards, enforced at DEN 16 - No Play.",9,3,72,DEN 16,0,HOU,PENALTY
+14,2297,3,09:25,(9:25) (Shotgun) B.Osweiler pass incomplete deep right to A.Blue [S.Ray].,9,3,67,DEN 16,0,HOU,
+14,2187,1,12:49,(12:49) (Shotgun) B.Osweiler scrambles up the middle to DEN 22 for 6 yards (S.Ray).,10,3,61,DEN 28,0,HOU,
+14,2093,1,13:59,(13:59) L.Miller left tackle pushed ob at HOU 24 for 7 yards (C.Harris Jr.).,10,3,7,HOU 17,0,HOU,
+14,2352,4,09:12,"(9:12) N.Novak 29 yard field goal is GOOD, Center-J.Weeks, Holder-S.Lechler.",4,3,72,DEN 11,1,HOU,FG
+14,2114,2,13:24,"(13:24) B.Osweiler pass short middle to C.Fiedorowicz to HOU 36 for 12 yards (T.Ward; B.Marshall). DEN-D.Wolfe was injured during the play. His return is Probable.  Penalty on DEN-C.Harris Jr., Defensive Holding, declined.",3,3,19,HOU 24,0,HOU,
+14,2149,1,12:56,"(12:56) (Shotgun) B.Osweiler pass incomplete deep left to S.Anderson. PENALTY on DEN-T.Ward, Defensive Pass Interference, 36 yards, enforced at HOU 36 - No Play.",10,3,55,HOU 36,0,HOU,PENALTY
+14,2250,1,10:51,"(10:51) (Shotgun) B.Osweiler FUMBLES (Aborted) at DEN 22, and recovers at DEN 22. B.Osweiler to DEN 22 for no gain (V.Miller).",10,3,61,DEN 17,0,HOU,FUMBLE
+17,2882,0,00:40,"B.McManus extra point is GOOD, Center-C.Kreiter, Holder-R.Dixon.",0,3,72,HOU 15,1,DEN,XP
+17,2759,1,03:15,(3:15) C.Anderson right end pushed ob at HOU 36 for 19 yards (A.Hal).,10,3,36,DEN 45,0,DEN,
+17,2864,2,00:45,"(:45) D.Booker right guard for 1 yard, TOUCHDOWN.",1,3,72,HOU 1,1,DEN,TD
+17,2780,1,02:38,(2:38) D.Booker up the middle to HOU 33 for 3 yards (J.Simon).,10,3,72,HOU 36,0,DEN,
+17,2738,2,04:07,(4:07) C.Anderson up the middle to DEN 45 for 9 yards (C.Moore).,2,3,17,DEN 36,0,DEN,
+17,2843,1,01:26,(1:26) A.Janovich up the middle to HOU 1 for 1 yard (J.Clowney).,2,3,71,HOU 2,0,DEN,
+17,2826,0,01:26,Timeout #2 by DEN at 01:26.,0,3,70,,0,,TIMEOUT
+17,2801,2,01:55,(1:55) T.Siemian pass deep left to E.Sanders ran ob at HOU 2 for 31 yards.,7,3,70,HOU 33,0,DEN,
+17,2717,1,04:37,(4:37) D.Booker right tackle to DEN 36 for 8 yards (A.Bouye).,10,3,39,DEN 28,0,DEN,
+16,2596,3,06:53,(6:53) B.Osweiler pass short left to D.Hopkins to DEN 46 for 2 yards (C.Harris Jr.).,1,3,11,DEN 48,0,HOU,
+16,2579,0,06:53,Timeout #1 by DEN at 06:53.,0,3,9,,0,,TIMEOUT
+16,2558,2,07:26,(7:26) (Shotgun) A.Blue left tackle to DEN 48 for 9 yards (D.Stewart; C.Harris Jr.).,10,3,9,HOU 43,0,HOU,
+16,2641,2,05:33,(5:33) (Shotgun) B.Osweiler pass incomplete short left to R.Griffin.,8,3,13,DEN 44,0,HOU,
+16,2620,1,06:16,(6:16) A.Blue left guard to DEN 44 for 2 yards (D.Stewart; B.Winn).,10,3,13,DEN 46,0,HOU,
+16,2663,3,05:30,"(5:30) (Shotgun) B.Osweiler scrambles up the middle to DEN 34 for 10 yards (C.Harris Jr.). FUMBLES (C.Harris Jr.), and recovers at DEN 34. B.Osweiler to DEN 34 for no gain (J.Simmons).",8,3,30,DEN 44,0,HOU,FUMBLE
+16,2684,1,04:46,"(4:46) (Shotgun) A.Blue up the middle to DEN 27 for 7 yards (D.Stewart, T.Ward). FUMBLES (D.Stewart), RECOVERED by DEN-T.Davis at DEN 27. T.Davis to DEN 28 for 1 yard (D.Hopkins).",10,3,30,DEN 34,0,HOU,FUMBLE
+16,2536,1,07:33,(7:33) B.Osweiler pass incomplete deep right to D.Hopkins [D.Wolfe].,10,3,0,HOU 43,0,HOU,
+19,3116,1,13:02,(13:02) C.Anderson left tackle to HOU 5 for 1 yard (B.Cushing).,6,4,22,HOU 6,0,DEN,
+19,3092,3,13:37,(13:37) (Shotgun) T.Siemian pass short left to E.Sanders to HOU 6 for 11 yards (B.McKinney).,2,4,19,HOU 17,0,DEN,
+19,3071,2,14:22,"(14:22) C.Anderson up the middle to HOU 17 for 6 yards (E.Pleasant, B.Cushing).",8,4,8,HOU 23,0,DEN,
+19,3137,2,12:25,(12:25) D.Booker up the middle to HOU 3 for 2 yards (J.Clowney).,5,4,22,HOU 5,0,DEN,
+19,3158,3,11:45,(11:45) (Shotgun) T.Siemian pass incomplete short left to J.Norwood [J.Clowney].,3,4,22,HOU 3,0,DEN,
+19,3188,4,11:37,"(11:37) B.McManus 22 yard field goal is GOOD, Center-C.Kreiter, Holder-R.Dixon.",3,4,22,HOU 3,1,DEN,FG
+19,3050,1,14:56,(14:56) C.Anderson right end pushed ob at HOU 23 for 2 yards (A.Bouye).,10,4,22,HOU 25,0,DEN,
+18,2937,2,00:07,(:07) L.Miller up the middle to HOU 30 for 1 yard (T.Davis).,6,3,5,HOU 29,0,HOU,
+18,2913,1,00:40,(:40) B.Osweiler pass short right to L.Miller to HOU 29 for 4 yards (V.Miller).,10,3,4,HOU 25,0,HOU,
+18,2958,0,,END QUARTER 3,0,3,5,,0,,
+18,2898,0,00:40,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback.",0,3,0,DEN 35,0,DEN,KICKOFF
+18,2975,3,15:00,"(15:00) (Shotgun) B.Osweiler sacked at HOU 23 for -7 yards. FUMBLES, RECOVERED by DEN-C.Harris Jr. at HOU 31. C.Harris Jr. to HOU 25 for 6 yards. The Replay Official reviewed the fumble ruling, and the play was Upheld. The ruling on the field stands.",5,4,5,HOU 30,0,HOU,FUMBLE

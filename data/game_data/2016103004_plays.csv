@@ -1,168 +1,168 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1717,2,01:42,,10,2,9,DET 18,0,DET,
-9,1739,3,01:38,,10,2,0,DET 18,0,DET,
-9,1695,1,01:48,,10,2,9,DET 18,0,DET,
-9,1662,1,01:53,,10,2,9,DET 9,0,DET,PENALTY
-9,1775,4,01:32,,19,2,0,DET 9,0,DET,PUNT
-9,1758,0,01:32,,0,2,0,,0,,TIMEOUT
-10,1887,3,00:39,,8,2,17,DET 27,0,HOU,INT
-10,1865,2,00:45,,8,2,17,DET 27,0,HOU,
-10,1800,1,01:21,,10,2,15,DET 44,0,HOU,
-10,1824,1,00:52,,10,2,17,DET 29,0,HOU,
-10,1848,0,00:52,,0,2,17,,0,,TIMEOUT
-20,3597,3,03:39,,10,4,39,HOU 21,0,DET,
-20,3500,1,04:00,,10,4,11,DET 45,0,DET,
-20,3478,0,04:09,,0,4,0,HOU 35,0,HOU,KICKOFF
-20,3524,1,03:54,,10,4,34,HOU 44,0,DET,
-20,3575,2,03:42,,10,4,34,HOU 21,0,DET,
-20,3621,4,02:57,,5,4,39,HOU 16,1,DET,FG
-20,3553,1,03:45,,10,4,34,HOU 21,0,DET,
-6,1226,3,08:30,,5,2,40,DET 20,0,HOU,
-6,1031,1,11:38,,10,2,53,HOU 47,0,HOU,
-6,1122,1,09:45,,10,2,13,DET 42,0,HOU,
-6,1254,1,07:50,,10,2,52,DET 13,0,HOU,
-6,1205,2,08:52,,10,2,33,DET 25,0,HOU,
-6,1077,3,10:50,,11,2,9,HOU 46,0,HOU,
-6,1295,0,07:04,,0,2,53,DET 15,1,HOU,XP
-6,1101,4,10:18,,1,2,11,DET 44,0,HOU,
-6,1055,2,10:54,,11,2,-1,HOU 46,0,HOU,
-6,1183,1,08:58,,10,2,28,DET 25,0,HOU,
-6,1278,1,07:09,,1,2,53,DET 1,1,HOU,TD
-6,1143,2,09:06,,8,2,53,DET 40,0,HOU,PENALTY
-18,3229,4,10:24,,9,4,1,DET 23,0,DET,FUMBLE
-18,3205,3,10:51,,18,4,1,DET 14,0,DET,
-18,3149,2,11:56,,11,4,-11,DET 21,0,DET,PENALTY
-18,3184,2,11:33,,21,4,-8,DET 11,0,DET,
-18,3125,1,12:36,,10,4,-1,DET 22,0,DET,
-1,135,3,14:02,,3,1,25,DET 45,0,DET,
-1,189,2,12:49,,6,1,31,HOU 40,0,DET,PENALTY
-1,270,4,11:25,,4,1,31,HOU 38,0,DET,
-1,224,2,12:17,,11,1,31,HOU 45,0,DET,
-1,92,1,14:49,,10,1,7,DET 38,0,DET,
-1,37,0,15:00,,0,1,0,HOU 35,0,HOU,KICKOFF
-1,246,3,12:13,,11,1,31,HOU 45,0,DET,
-1,114,2,14:45,,10,1,14,DET 38,0,DET,
-1,59,1,14:53,,10,1,7,DET 31,0,DET,PENALTY
-1,165,1,13:28,,10,1,29,HOU 44,0,DET,
-5,1006,4,11:52,,8,2,2,DET 16,0,DET,PUNT
-5,908,0,12:56,,0,2,0,HOU 35,0,HOU,KICKOFF
-5,963,2,12:42,,10,2,2,DET 14,0,DET,
-5,984,3,11:58,,8,2,2,DET 16,0,DET,
-5,941,1,12:46,,10,2,0,DET 14,0,DET,
-13,2131,1,15:00,,10,3,-8,HOU 25,0,HOU,PENALTY
-13,2240,4,12:37,,3,3,7,HOU 32,0,HOU,PUNT
-13,2192,2,13:58,,18,3,-5,HOU 17,0,HOU,
-13,2171,1,14:36,,15,3,-8,HOU 20,0,HOU,
-13,2216,3,13:15,,15,3,7,HOU 20,0,HOU,
-13,2112,0,15:00,,0,3,0,DET 35,0,DET,KICKOFF
-21,3814,1,02:00,,10,4,24,DET 19,0,HOU,
-21,3721,0,02:42,,0,4,13,,0,,TIMEOUT
-21,3856,3,00:38,,12,4,22,DET 21,0,HOU,
-21,3776,2,02:37,,4,4,25,DET 25,0,HOU,
-21,3640,0,02:53,,0,4,25,DET 35,0,DET,KICKOFF
-21,3700,2,02:47,,7,4,13,DET 41,0,HOU,
-21,3877,0,,,0,4,22,,0,,
-21,3797,0,02:00,,0,4,25,,0,,
-21,3738,1,02:42,,10,4,19,DET 31,0,HOU,
-21,3683,0,02:47,,0,4,25,,0,,TIMEOUT
-21,3835,2,01:19,,11,4,23,DET 20,0,HOU,
-21,3759,0,02:37,,0,4,19,,0,,TIMEOUT
-21,3662,1,02:52,,10,4,3,DET 44,0,HOU,
-11,2002,2,00:13,,2,2,52,HOU 34,0,DET,
-11,2037,1,00:06,,10,2,52,HOU 29,1,DET,FG
-11,1937,2,00:26,,5,2,52,DET 24,0,DET,
-11,1913,1,00:32,,10,2,47,DET 19,0,DET,
-11,1961,0,00:18,,0,2,52,,0,,TIMEOUT
-11,1978,1,00:18,,10,2,52,HOU 42,0,DET,
-14,2318,2,11:22,,8,3,13,DET 25,0,DET,
-14,2297,1,12:02,,10,3,13,DET 23,0,DET,
-14,2265,1,12:22,,10,3,13,DET 15,0,DET,PENALTY
-14,2339,3,10:38,,5,3,13,DET 28,0,DET,
-14,2361,4,10:32,,5,3,13,DET 28,0,DET,PUNT
-8,1531,1,03:29,,10,2,29,HOU 38,0,HOU,
-8,1622,0,02:00,,0,2,27,,0,,
-8,1639,4,02:00,,12,2,27,DET 49,0,HOU,PUNT
-8,1576,2,02:23,,9,2,30,DET 46,0,HOU,
-8,1598,3,02:16,,9,2,27,DET 46,0,HOU,
-8,1555,1,03:02,,10,2,30,DET 47,0,HOU,
-8,1507,1,04:08,,10,2,14,HOU 24,0,HOU,
-19,3384,2,06:10,,8,4,54,DET 10,0,HOU,PENALTY
-19,3363,1,06:48,,10,4,55,DET 12,0,HOU,
-19,3416,2,05:38,,18,4,54,DET 20,0,HOU,
-19,3440,3,05:00,,9,4,47,DET 11,0,HOU,
-19,3276,2,09:37,,2,4,16,HOU 43,0,HOU,
-19,3459,4,04:14,,16,4,47,DET 18,1,HOU,FG
-19,3297,1,08:56,,10,4,26,DET 49,0,HOU,
-19,3255,1,10:14,,10,4,8,HOU 35,0,HOU,
-19,3342,2,07:34,,2,4,53,DET 31,0,HOU,
-19,3318,1,08:10,,10,4,34,DET 39,0,HOU,
-12,2074,0,00:02,,0,2,0,DET 35,0,DET,KICKOFF
-12,2096,0,,,0,2,0,,0,,
-16,2627,0,05:51,,0,3,0,HOU 35,0,HOU,KICKOFF
-16,2949,3,15:00,,6,4,74,HOU 14,0,DET,PENALTY
-16,2751,1,03:54,,10,3,31,HOU 45,0,DET,
-16,2982,1,14:55,,1,4,75,HOU 1,1,DET,TD
-16,2933,0,,,0,3,61,,0,,
-16,2716,2,04:18,,8,3,30,DET 46,0,DET,
-16,2796,3,02:29,,4,3,47,HOU 39,0,DET,
-16,2887,1,00:19,,10,3,57,HOU 18,0,DET,
-16,2649,1,05:43,,10,3,21,DET 25,0,DET,
-16,2695,1,05:00,,10,3,21,DET 44,0,DET,
-16,2842,2,01:44,,10,3,46,HOU 28,0,DET,
-16,2671,2,05:38,,10,3,19,DET 25,0,DET,
-16,3002,0,14:50,,0,4,75,HOU 15,1,DET,XP
-16,2772,2,03:09,,9,3,36,HOU 44,0,DET,
-16,2909,2,00:14,,10,3,61,HOU 18,0,DET,
-16,2820,1,01:50,,10,3,47,HOU 28,0,DET,
-16,2863,3,01:03,,11,3,57,HOU 29,0,DET,
-7,1311,0,07:04,,0,2,12,HOU 35,0,HOU,KICKOFF
-7,1354,1,06:24,,10,2,12,DET 33,0,DET,
-7,1333,1,06:57,,10,2,12,DET 23,0,DET,
-7,1411,2,05:34,,18,2,-3,DET 25,0,DET,PENALTY
-7,1458,3,04:59,,12,2,12,DET 31,0,DET,
-7,1378,2,05:40,,8,2,12,DET 35,0,DET,PENALTY
-7,1434,2,05:34,,23,2,8,DET 20,0,DET,
-7,1482,4,04:21,,8,2,12,DET 35,0,DET,PUNT
-3,569,3,03:59,,6,1,63,HOU 31,0,DET,
-3,591,4,03:54,,6,1,63,HOU 31,0,DET,FGM
-3,389,1,09:12,,10,1,6,DET 6,0,DET,
-3,434,1,07:55,,10,1,29,DET 19,0,DET,
-3,545,2,04:40,,9,1,63,HOU 34,0,DET,
-3,479,1,06:42,,10,1,45,DET 48,0,DET,
-3,524,1,05:18,,10,1,60,HOU 35,0,DET,
-3,500,2,05:58,,7,1,59,HOU 49,0,DET,
-3,455,1,07:21,,10,1,42,DET 35,0,DET,
-3,410,2,08:31,,4,1,13,DET 12,0,DET,
-17,3039,1,14:50,,10,4,1,HOU 25,0,HOU,
-17,3100,4,12:51,,8,4,2,HOU 27,0,HOU,PUNT
-17,3079,3,13:27,,14,4,2,HOU 21,0,HOU,
-17,3024,0,14:50,,0,4,0,DET 35,0,DET,KICKOFF
-17,3060,2,14:10,,9,4,-4,HOU 26,0,HOU,
-4,702,2,01:53,,8,1,17,DET 44,0,HOU,
-4,724,3,01:46,,8,1,61,DET 44,0,HOU,
-4,830,1,14:21,,9,2,53,DET 9,0,HOU,
-4,806,3,15:00,,10,2,52,DET 21,0,HOU,
-4,681,1,02:33,,10,1,17,DET 46,0,HOU,
-4,851,2,13:47,,8,2,55,DET 8,0,HOU,
-4,892,0,12:56,,0,2,61,DET 15,1,HOU,XP
-4,611,1,03:50,,10,1,61,HOU 39,0,HOU,
-4,657,3,03:13,,5,1,15,HOU 44,0,HOU,
-4,748,1,01:13,,10,1,37,DET 21,0,HOU,
-4,790,0,,,0,1,40,,0,,
-4,872,3,13:01,,6,2,61,DET 6,1,HOU,TD
-4,769,2,00:37,,13,1,40,DET 24,0,HOU,
-4,635,2,03:20,,5,1,5,HOU 44,0,HOU,
-2,313,2,10:47,,4,1,7,HOU 44,0,HOU,
-2,334,3,10:03,,3,1,-3,HOU 45,0,HOU,
-2,292,1,11:16,,10,1,6,HOU 38,0,HOU,
-2,353,4,09:26,,13,1,-3,HOU 35,0,HOU,PUNT
-15,2608,4,05:54,,8,3,46,DET 15,1,HOU,FG
-15,2386,1,10:21,,10,3,11,HOU 39,0,HOU,
-15,2407,2,09:38,,8,3,11,HOU 41,0,HOU,
-15,2586,3,05:58,,8,3,46,DET 15,0,HOU,
-15,2487,2,08:07,,10,3,46,50,0,HOU,PENALTY
-15,2520,1,08:02,,10,3,46,DET 40,0,HOU,
-15,2544,1,07:16,,10,3,41,DET 17,0,HOU,
-15,2565,2,06:37,,13,3,46,DET 20,0,HOU,
-15,2458,1,08:21,,10,3,46,50,0,HOU,
-15,2431,3,09:04,,4,3,11,HOU 45,0,HOU,
+20,3553,1,03:45,(3:45) (Shotgun) M.Stafford pass incomplete short right to E.Ebron (B.McKinney).,10,4,34,HOU 21,0,DET,
+20,3500,1,04:00,(4:00) (Shotgun) M.Stafford pass short left to M.Jones to HOU 44 for 11 yards (A.Bouye).,10,4,11,DET 45,0,DET,
+20,3478,0,04:09,N.Novak kicks 62 yards from HOU 35 to DET 3. A.Roberts to DET 45 for 42 yards (C.James).,0,4,0,HOU 35,0,HOU,KICKOFF
+20,3575,2,03:42,(3:42) (Shotgun) M.Stafford pass incomplete short left to T.Riddick.,10,4,34,HOU 21,0,DET,
+20,3524,1,03:54,(3:54) (Shotgun) M.Stafford pass short left to T.Riddick pushed ob at HOU 21 for 23 yards (J.Clowney).,10,4,34,HOU 44,0,DET,
+20,3621,4,02:57,"(2:57) M.Prater 34 yard field goal is GOOD, Center-D.Muhlbach, Holder-S.Martin.",5,4,39,HOU 16,1,DET,FG
+20,3597,3,03:39,(3:39) (Shotgun) M.Stafford pass short right to G.Tate to HOU 16 for 5 yards (E.Pleasant).,10,4,39,HOU 21,0,DET,
+21,3759,0,02:37,Timeout #3 by DET at 02:37.,0,4,19,,0,,TIMEOUT
+21,3835,2,01:19,(1:19) B.Osweiler kneels to DET 21 for -1 yards.,11,4,23,DET 20,0,HOU,
+21,3776,2,02:37,(2:37) L.Miller left guard to DET 19 for 6 yards (J.Bynes).,4,4,25,DET 25,0,HOU,
+21,3814,1,02:00,(2:00) B.Osweiler kneels to DET 20 for -1 yards.,10,4,24,DET 19,0,HOU,
+21,3662,1,02:52,"(2:52) (Shotgun) L.Miller up the middle to DET 41 for 3 yards (G.Quin, K.Thornton).",10,4,3,DET 44,0,HOU,
+21,3683,0,02:47,Timeout #1 by DET at 02:47.,0,4,25,,0,,TIMEOUT
+21,3797,0,02:00,Two-Minute Warning,0,4,25,,0,,
+21,3877,0,,END GAME,0,4,22,,0,,
+21,3856,3,00:38,(:38) B.Osweiler kneels to DET 22 for -1 yards.,12,4,22,DET 21,0,HOU,
+21,3738,1,02:42,(2:42) (Shotgun) L.Miller up the middle to DET 25 for 6 yards (A.Williams).,10,4,19,DET 31,0,HOU,
+21,3700,2,02:47,(2:47) (Shotgun) L.Miller right guard to DET 31 for 10 yards (N.Lawson; G.Quin).,7,4,13,DET 41,0,HOU,
+21,3721,0,02:42,Timeout #2 by DET at 02:42.,0,4,13,,0,,TIMEOUT
+21,3640,0,02:53,S.Martin kicks onside 9 yards from DET 35 to DET 44. R.Nelson (didn't try to advance) to DET 44 for no gain.,0,4,25,DET 35,0,DET,KICKOFF
+1,189,2,12:49,"(12:49) (Shotgun) M.Stafford pass short middle to G.Tate to HOU 28 for 12 yards (A.Hal). PENALTY on DET-A.Boldin, Offensive Holding, 10 yards, enforced at HOU 35.",6,1,31,HOU 40,0,DET,PENALTY
+1,59,1,14:53,"(14:53) (Shotgun) M.Stafford pass incomplete short left to M.Jones (A.Bouye). PENALTY on HOU-A.Bouye, Defensive Pass Interference, 7 yards, enforced at DET 31 - No Play.",10,1,7,DET 31,0,DET,PENALTY
+1,224,2,12:17,(12:17) (Shotgun) M.Stafford pass incomplete short middle to T.Riddick.,11,1,31,HOU 45,0,DET,
+1,37,0,15:00,N.Novak kicks 64 yards from HOU 35 to DET 1. A.Roberts to DET 31 for 30 yards (A.Hal; R.Nelson).,0,1,0,HOU 35,0,HOU,KICKOFF
+1,270,4,11:25,(11:25) (Shotgun) M.Stafford pass incomplete deep right to A.Boldin [J.Simon].,4,1,31,HOU 38,0,DET,
+1,114,2,14:45,(14:45) T.Riddick up the middle to DET 45 for 7 yards (B.Cushing).,10,1,14,DET 38,0,DET,
+1,246,3,12:13,(12:13) (Shotgun) M.Stafford pass short middle to T.Riddick to HOU 38 for 7 yards (B.McKinney; J.Simon).,11,1,31,HOU 45,0,DET,
+1,135,3,14:02,(14:02) (Shotgun) M.Stafford pass short right to M.Jones ran ob at HOU 44 for 11 yards.,3,1,25,DET 45,0,DET,
+1,165,1,13:28,(13:28) (Shotgun) M.Stafford pass short middle to A.Boldin to HOU 40 for 4 yards (B.Cushing).,10,1,29,HOU 44,0,DET,
+1,92,1,14:49,(14:49) (Shotgun) M.Stafford pass incomplete short left to G.Tate.,10,1,7,DET 38,0,DET,
+3,591,4,03:54,"(3:54) M.Prater 49 yard field goal is No Good, Hit Right Upright, Center-D.Muhlbach, Holder-S.Martin.",6,1,63,HOU 31,0,DET,FGM
+3,569,3,03:59,(3:59) (Shotgun) M.Stafford pass incomplete short middle to A.Boldin (K.Jackson).,6,1,63,HOU 31,0,DET,
+3,455,1,07:21,(7:21) (Shotgun) M.Stafford pass short right to G.Tate to DET 48 for 13 yards (B.Cushing).,10,1,42,DET 35,0,DET,
+3,524,1,05:18,"(5:18) (Shotgun) T.Riddick left guard to HOU 34 for 1 yard (B.McKinney, J.Simon).",10,1,60,HOU 35,0,DET,
+3,410,2,08:31,(8:31) (Shotgun) M.Stafford pass short left to G.Tate to DET 19 for 7 yards (A.Bouye).,4,1,13,DET 12,0,DET,
+3,545,2,04:40,(4:40) (Shotgun) M.Stafford pass short left to E.Ebron to HOU 31 for 3 yards (A.Bouye).,9,1,63,HOU 34,0,DET,
+3,389,1,09:12,(9:12) (Shotgun) T.Riddick right end to DET 12 for 6 yards (J.Joseph).,10,1,6,DET 6,0,DET,
+3,434,1,07:55,(7:55) T.Riddick left end pushed ob at DET 35 for 16 yards (A.Hal).,10,1,29,DET 19,0,DET,
+3,479,1,06:42,(6:42) (Shotgun) T.Riddick left end to HOU 49 for 3 yards (C.Moore).,10,1,45,DET 48,0,DET,
+3,500,2,05:58,(5:58) (Shotgun) M.Stafford pass short left to E.Ebron to HOU 35 for 14 yards (A.Hal).,7,1,59,HOU 49,0,DET,
+2,313,2,10:47,(10:47) L.Miller right guard to HOU 45 for 1 yard (D.Taylor).,4,1,7,HOU 44,0,HOU,
+2,334,3,10:03,(10:03) (Shotgun) B.Osweiler sacked at HOU 35 for -10 yards (A.Bryant).,3,1,-3,HOU 45,0,HOU,
+2,292,1,11:16,(11:16) L.Miller left end pushed ob at HOU 44 for 6 yards (N.Lawson).,10,1,6,HOU 38,0,HOU,
+2,353,4,09:26,"(9:26) S.Lechler punts 54 yards to DET 11, Center-J.Weeks. A.Roberts to DET 28 for 17 yards (D.Jones). PENALTY on DET-A.Barnes, Offensive Holding, 5 yards, enforced at DET 11.",13,1,-3,HOU 35,0,HOU,PUNT
+5,1006,4,11:52,"(11:52) S.Martin punts 52 yards to HOU 32, Center-D.Muhlbach. T.Ervin to HOU 47 for 15 yards (M.Killebrew).",8,2,2,DET 16,0,DET,PUNT
+5,908,0,12:56,"N.Novak kicks 61 yards from HOU 35 to DET 4. A.Roberts pushed ob at HOU 40 for 56 yards (A.Hal). PENALTY on DET-A.Williams, Offensive Holding, 10 yards, enforced at DET 24.",0,2,0,HOU 35,0,HOU,KICKOFF
+5,963,2,12:42,(12:42) (Shotgun) Z.Zenner right end to DET 16 for 2 yards (J.Simon).,10,2,2,DET 14,0,DET,
+5,984,3,11:58,(11:58) (Shotgun) M.Stafford pass incomplete short left to E.Ebron.,8,2,2,DET 16,0,DET,
+5,941,1,12:46,(12:46) (Shotgun) M.Stafford pass incomplete short left to G.Tate.,10,2,0,DET 14,0,DET,
+4,830,1,14:21,"(14:21) (Shotgun) A.Blue right guard to DET 8 for 1 yard (J.Bynes, S.Charles).",9,2,53,DET 9,0,HOU,
+4,769,2,00:37,(:37) A.Blue up the middle to DET 21 for 3 yards (T.Whitehead; T.Walker).,13,1,40,DET 24,0,HOU,
+4,635,2,03:20,(3:20) B.Osweiler pass incomplete short right to L.Miller.,5,1,5,HOU 44,0,HOU,
+4,790,0,,END QUARTER 1,0,1,40,,0,,
+4,748,1,01:13,(1:13) L.Miller right tackle to DET 24 for -3 yards (K.Hyder).,10,1,37,DET 21,0,HOU,
+4,611,1,03:50,"(3:50) B.Osweiler pass short middle to C.Fiedorowicz to HOU 44 for 5 yards (T.Whitehead, T.Wilson).",10,1,61,HOU 39,0,HOU,
+4,872,3,13:01,"(13:01) (Shotgun) B.Osweiler pass short left to C.Fiedorowicz for 6 yards, TOUCHDOWN.",6,2,61,DET 6,1,HOU,TD
+4,892,0,12:56,"N.Novak extra point is GOOD, Center-J.Weeks, Holder-S.Lechler.",0,2,61,DET 15,1,HOU,XP
+4,702,2,01:53,(1:53) B.Osweiler pass incomplete short middle to C.Fiedorowicz.,8,1,17,DET 44,0,HOU,
+4,657,3,03:13,(3:13) (Shotgun) B.Osweiler pass short middle to D.Hopkins to DET 46 for 10 yards (Q.Diggs).,5,1,15,HOU 44,0,HOU,
+4,724,3,01:46,(1:46) (Shotgun) B.Osweiler pass deep right to R.Griffin to DET 21 for 23 yards (R.Bush).,8,1,61,DET 44,0,HOU,
+4,681,1,02:33,(2:33) (Shotgun) L.Miller right guard to DET 44 for 2 yards (S.Charles).,10,1,17,DET 46,0,HOU,
+4,806,3,15:00,(15:00) (Shotgun) B.Osweiler pass short right to R.Griffin to DET 9 for 12 yards (R.Bush).,10,2,52,DET 21,0,HOU,
+4,851,2,13:47,(13:47) (Shotgun) A.Blue left guard to DET 6 for 2 yards (G.Quin).,8,2,55,DET 8,0,HOU,
+7,1434,2,05:34,(5:34) (Shotgun) M.Stafford pass short right to G.Tate pushed ob at DET 31 for 11 yards (J.Joseph).,23,2,8,DET 20,0,DET,
+7,1311,0,07:04,N.Novak kicks 58 yards from HOU 35 to DET 7. A.Roberts to DET 23 for 16 yards (C.James).,0,2,12,HOU 35,0,HOU,KICKOFF
+7,1333,1,06:57,(6:57) T.Riddick left end pushed ob at DET 33 for 10 yards (A.Bouye).,10,2,12,DET 23,0,DET,
+7,1354,1,06:24,(6:24) (Shotgun) M.Stafford pass short right to G.Tate to DET 35 for 2 yards (K.Jackson).,10,2,12,DET 33,0,DET,
+7,1482,4,04:21,"(4:21) S.Martin punts 44 yards to HOU 21, Center-D.Muhlbach. W.Fuller pushed ob at HOU 24 for 3 yards (M.Killebrew).",8,2,12,DET 35,0,DET,PUNT
+7,1411,2,05:34,"(5:34) (Shotgun) PENALTY on DET-M.Jones, False Start, 5 yards, enforced at DET 25 - No Play.",18,2,-3,DET 25,0,DET,PENALTY
+7,1378,2,05:40,"(5:40) (Shotgun) M.Stafford pass incomplete deep right to G.Tate [B.Cushing]. PENALTY on DET-R.Reiff, Offensive Holding, 10 yards, enforced at DET 35 - No Play.",8,2,12,DET 35,0,DET,PENALTY
+7,1458,3,04:59,(4:59) (Shotgun) M.Stafford pass short right to T.Riddick to DET 35 for 4 yards (J.Simon).,12,2,12,DET 31,0,DET,
+6,1278,1,07:09,"(7:09) L.Miller right guard for 1 yard, TOUCHDOWN.",1,2,53,DET 1,1,HOU,TD
+6,1143,2,09:06,"(9:06) (Shotgun) B.Osweiler pass incomplete short middle to C.Fiedorowicz (T.Wilson). PENALTY on DET-T.Wilson, Unnecessary Roughness, 15 yards, enforced at DET 40 - No Play. Penalty on DET-T.Whitehead, Defensive Holding, declined.",8,2,53,DET 40,0,HOU,PENALTY
+6,1055,2,10:54,(10:54) (Shotgun) B.Osweiler pass incomplete short left to W.Fuller (N.Lawson).,11,2,-1,HOU 46,0,HOU,
+6,1226,3,08:30,(8:30) (Shotgun) B.Osweiler pass short right to S.Anderson to DET 13 for 7 yards (M.Killebrew) [K.Hyder].,5,2,40,DET 20,0,HOU,
+6,1205,2,08:52,(8:52) (Shotgun) L.Miller right guard to DET 20 for 5 yards (Q.Diggs). HOU-J.Strong was injured during the play. His return is Questionable.,10,2,33,DET 25,0,HOU,
+6,1077,3,10:50,(10:50) (Shotgun) B.Osweiler pass short right to S.Anderson to DET 44 for 10 yards (Q.Diggs).,11,2,9,HOU 46,0,HOU,
+6,1122,1,09:45,(9:45) L.Miller left guard to DET 40 for 2 yards (T.Wilson).,10,2,13,DET 42,0,HOU,
+6,1183,1,08:58,(8:58) B.Osweiler pass incomplete deep right to D.Hopkins.,10,2,28,DET 25,0,HOU,
+6,1254,1,07:50,(7:50) (Shotgun) B.Osweiler pass short middle to D.Hopkins to DET 1 for 12 yards (B.Copeland; T.Whitehead).,10,2,52,DET 13,0,HOU,
+6,1101,4,10:18,(10:18) A.Blue left guard to DET 42 for 2 yards (K.Hyder; K.Thornton).,1,2,11,DET 44,0,HOU,
+6,1031,1,11:38,(11:38) B.Osweiler pass short left to R.Griffin to HOU 46 for -1 yards (A.Williams).,10,2,53,HOU 47,0,HOU,
+6,1295,0,07:04,"N.Novak extra point is GOOD, Center-J.Weeks, Holder-S.Lechler.",0,2,53,DET 15,1,HOU,XP
+9,1739,3,01:38,(1:38) (Shotgun) M.Stafford sacked at DET 9 for -9 yards (J.Clowney).,10,2,0,DET 18,0,DET,
+9,1775,4,01:32,"(1:32) S.Martin punts 43 yards to HOU 48, Center-D.Muhlbach. T.Ervin to DET 44 for 8 yards (D.Carey).",19,2,0,DET 9,0,DET,PUNT
+9,1717,2,01:42,(1:42) (Shotgun) M.Stafford pass incomplete short right to E.Ebron.,10,2,9,DET 18,0,DET,
+9,1695,1,01:48,(1:48) (Shotgun) M.Stafford pass incomplete short middle to T.Riddick (C.Moore).,10,2,9,DET 18,0,DET,
+9,1758,0,01:32,Timeout #1 by HOU at 01:32.,0,2,0,,0,,TIMEOUT
+9,1662,1,01:53,"(1:53) (Shotgun) M.Stafford pass incomplete short left to M.Jones (A.Bouye). PENALTY on HOU-A.Bouye, Defensive Pass Interference, 9 yards, enforced at DET 9 - No Play.",10,2,9,DET 9,0,DET,PENALTY
+8,1622,0,02:00,Two-Minute Warning,0,2,27,,0,,
+8,1555,1,03:02,(3:02) A.Blue right guard to DET 46 for 1 yard (A.Robinson; S.Charles).,10,2,30,DET 47,0,HOU,
+8,1639,4,02:00,"(2:00) S.Lechler punts 40 yards to DET 9, Center-J.Weeks, fair catch by A.Roberts.",12,2,27,DET 49,0,HOU,PUNT
+8,1576,2,02:23,(2:23) (Shotgun) B.Osweiler pass incomplete deep right to W.Fuller.,9,2,30,DET 46,0,HOU,
+8,1507,1,04:08,(4:08) (Shotgun) B.Osweiler pass short right to D.Hopkins to HOU 38 for 14 yards (J.Bademosi).,10,2,14,HOU 24,0,HOU,
+8,1531,1,03:29,(3:29) B.Osweiler pass short right to C.Fiedorowicz pushed ob at DET 47 for 15 yards (J.Bynes).,10,2,29,HOU 38,0,HOU,
+8,1598,3,02:16,(2:16) (Shotgun) B.Osweiler pass short middle to B.Miller to DET 49 for -3 yards (K.Hyder; G.Quin).,9,2,27,DET 46,0,HOU,
+11,2037,1,00:06,"(:06) M.Prater 47 yard field goal is GOOD, Center-D.Muhlbach, Holder-S.Martin.",10,2,52,HOU 29,1,DET,FG
+11,1978,1,00:18,(:18) (Shotgun) M.Stafford pass short left to E.Ebron pushed ob at HOU 34 for 8 yards (E.Pleasant).,10,2,52,HOU 42,0,DET,
+11,1961,0,00:18,Timeout #1 by DET at 00:18.,0,2,52,,0,,TIMEOUT
+11,2002,2,00:13,"(:13) (Shotgun) M.Stafford pass short right to E.Ebron ran ob at HOU 29 for 5 yards (K.Jackson). Penalty on HOU-J.Clowney, Defensive Holding, declined.",2,2,52,HOU 34,0,DET,
+11,1937,2,00:26,(:26) (Shotgun) M.Stafford pass deep left to E.Ebron to HOU 42 for 34 yards (C.Moore).,5,2,52,DET 24,0,DET,
+11,1913,1,00:32,(:32) (Shotgun) M.Stafford pass short left to T.Riddick pushed ob at DET 24 for 5 yards (A.Bouye).,10,2,47,DET 19,0,DET,
+10,1887,3,00:39,(:39) (Shotgun) B.Osweiler pass short right intended for D.Hopkins INTERCEPTED by J.Bademosi [D.Taylor] at DET 16. J.Bademosi to DET 19 for 3 yards (S.Anderson).,8,2,17,DET 27,0,HOU,INT
+10,1824,1,00:52,(:52) (Shotgun) B.Osweiler pass short right to C.Fiedorowicz to DET 27 for 2 yards (T.Wilson).,10,2,17,DET 29,0,HOU,
+10,1848,0,00:52,Timeout #2 by HOU at 00:52.,0,2,17,,0,,TIMEOUT
+10,1865,2,00:45,(:45) (Shotgun) B.Osweiler pass incomplete short right to W.Fuller.,8,2,17,DET 27,0,HOU,
+10,1800,1,01:21,(1:21) (Shotgun) B.Osweiler pass short middle to C.Fiedorowicz to DET 29 for 15 yards (G.Quin).,10,2,15,DET 44,0,HOU,
+13,2216,3,13:15,(13:15) (Shotgun) B.Osweiler pass short right to B.Miller to HOU 32 for 12 yards (K.Hyder).,15,3,7,HOU 20,0,HOU,
+13,2131,1,15:00,"(15:00) B.Osweiler pass short right to R.Griffin pushed ob at HOU 30 for 5 yards (A.Williams). PENALTY on HOU-C.Clark, Illegal Formation, 5 yards, enforced at HOU 25 - No Play.",10,3,-8,HOU 25,0,HOU,PENALTY
+13,2192,2,13:58,(13:58) (Shotgun) B.Osweiler pass short middle to L.Miller to HOU 20 for 3 yards (T.Whitehead).,18,3,-5,HOU 17,0,HOU,
+13,2171,1,14:36,(14:36) L.Miller right end to HOU 17 for -3 yards (T.Walker).,15,3,-8,HOU 20,0,HOU,
+13,2112,0,15:00,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,3,0,DET 35,0,DET,KICKOFF
+13,2240,4,12:37,"(12:37) S.Lechler punts 50 yards to DET 18, Center-J.Weeks. A.Roberts to DET 15 for -3 yards (R.Nelson, A.Dent).",3,3,7,HOU 32,0,HOU,PUNT
+12,2096,0,,END QUARTER 2,0,2,0,,0,,
+12,2074,0,00:02,S.Martin kicks 35 yards from DET 35 to HOU 30. J.Prosch to HOU 40 for 10 yards (A.Williams).,0,2,0,DET 35,0,DET,KICKOFF
+15,2586,3,05:58,(5:58) (Shotgun) B.Osweiler pass incomplete short middle to C.Fiedorowicz.,8,3,46,DET 15,0,HOU,
+15,2608,4,05:54,"(5:54) N.Novak 33 yard field goal is GOOD, Center-J.Weeks, Holder-S.Lechler.",8,3,46,DET 15,1,HOU,FG
+15,2458,1,08:21,(8:21) (Shotgun) B.Osweiler pass incomplete short right to D.Hopkins (J.Bademosi).,10,3,46,50,0,HOU,
+15,2544,1,07:16,(7:16) L.Miller up the middle to DET 20 for -3 yards (T.Wilson).,10,3,41,DET 17,0,HOU,
+15,2487,2,08:07,"(8:07) (Shotgun) B.Osweiler pass incomplete short middle to D.Hopkins (G.Quin). PENALTY on DET-G.Quin, Defensive Pass Interference, 10 yards, enforced at 50 - No Play.",10,3,46,50,0,HOU,PENALTY
+15,2431,3,09:04,(9:04) (Shotgun) J.Grimes up the middle to 50 for 5 yards (E.Ansah).,4,3,11,HOU 45,0,HOU,
+15,2565,2,06:37,(6:37) (Shotgun) L.Miller right guard to DET 15 for 5 yards (G.Quin).,13,3,46,DET 20,0,HOU,
+15,2407,2,09:38,(9:38) (Shotgun) B.Osweiler pass short left to L.Miller pushed ob at HOU 45 for 4 yards (J.Bademosi).,8,3,11,HOU 41,0,HOU,
+15,2386,1,10:21,(10:21) L.Miller up the middle to HOU 41 for 2 yards (K.Thornton).,10,3,11,HOU 39,0,HOU,
+15,2520,1,08:02,(8:02) B.Osweiler pass deep middle to W.Fuller to DET 17 for 23 yards (T.Whitehead).,10,3,46,DET 40,0,HOU,
+14,2339,3,10:38,(10:38) (Shotgun) M.Stafford pass incomplete short left to M.Jones.,5,3,13,DET 28,0,DET,
+14,2297,1,12:02,(12:02) T.Riddick left guard to DET 25 for 2 yards (V.Wilfork).,10,3,13,DET 23,0,DET,
+14,2361,4,10:32,"(10:32) S.Martin punts 42 yards to HOU 30, Center-D.Muhlbach. T.Ervin to HOU 39 for 9 yards (Z.Zenner, A.Williams).",5,3,13,DET 28,0,DET,PUNT
+14,2318,2,11:22,(11:22) (Shotgun) T.Riddick left end to DET 28 for 3 yards (B.Cushing).,8,3,13,DET 25,0,DET,
+14,2265,1,12:22,"(12:22) (Shotgun) T.Riddick left tackle to DET 18 for 3 yards (B.Cushing). PENALTY on HOU-V.Wilfork, Defensive Holding, 5 yards, enforced at DET 18.",10,3,13,DET 15,0,DET,PENALTY
+17,3100,4,12:51,"(12:51) S.Lechler punts 59 yards to DET 14, Center-J.Weeks. A.Roberts to DET 22 for 8 yards (D.Jones).",8,4,2,HOU 27,0,HOU,PUNT
+17,3079,3,13:27,(13:27) (Shotgun) J.Grimes right end to HOU 27 for 6 yards (M.Killebrew; T.Whitehead).,14,4,2,HOU 21,0,HOU,
+17,3024,0,14:50,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,4,0,DET 35,0,DET,KICKOFF
+17,3060,2,14:10,(14:10) B.Osweiler sacked at HOU 21 for -5 yards (A.Robinson).,9,4,-4,HOU 26,0,HOU,
+17,3039,1,14:50,(14:50) A.Blue right end to HOU 26 for 1 yard (T.Wilson; A.Robinson).,10,4,1,HOU 25,0,HOU,
+16,2649,1,05:43,(5:43) (Shotgun) M.Stafford pass incomplete deep right to M.Jones.,10,3,21,DET 25,0,DET,
+16,2863,3,01:03,(1:03) (Shotgun) M.Stafford pass short middle to E.Ebron to HOU 18 for 11 yards (C.Moore).,11,3,57,HOU 29,0,DET,
+16,2716,2,04:18,(4:18) (Shotgun) M.Stafford pass short right to T.Riddick to HOU 45 for 9 yards (B.Cushing).,8,3,30,DET 46,0,DET,
+16,2627,0,05:51,N.Novak kicks 66 yards from HOU 35 to DET -1. A.Roberts to DET 25 for 26 yards (R.Nelson).,0,3,0,HOU 35,0,HOU,KICKOFF
+16,2820,1,01:50,(1:50) (Shotgun) M.Stafford pass incomplete deep left to M.Jones (A.Bouye).,10,3,47,HOU 28,0,DET,
+16,2772,2,03:09,(3:09) (Shotgun) M.Stafford pass short left to Z.Zenner to HOU 39 for 5 yards (K.Jackson).,9,3,36,HOU 44,0,DET,
+16,3002,0,14:50,"M.Prater extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin.",0,4,75,HOU 15,1,DET,XP
+16,2842,2,01:44,"(1:44) (Shotgun) Z.Zenner up the middle to HOU 29 for -1 yards (D.Reader, J.Clowney).",10,3,46,HOU 28,0,DET,
+16,2933,0,,END QUARTER 3,0,3,61,,0,,
+16,2671,2,05:38,(5:38) (Shotgun) M.Stafford pass short middle to T.Riddick to DET 44 for 19 yards (B.McKinney).,10,3,19,DET 25,0,DET,
+16,2949,3,15:00,"(15:00) (Shotgun) M.Stafford pass incomplete short left to E.Ebron. PENALTY on HOU-C.Moore, Defensive Pass Interference, 13 yards, enforced at HOU 14 - No Play.",6,4,74,HOU 14,0,DET,PENALTY
+16,2751,1,03:54,"(3:54) (Shotgun) Z.Zenner up the middle to HOU 44 for 1 yard (J.Simon, B.McKinney).",10,3,31,HOU 45,0,DET,
+16,2982,1,14:55,"(14:55) (Shotgun) M.Stafford pass short right to T.Riddick for 1 yard, TOUCHDOWN. The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands.",1,4,75,HOU 1,1,DET,TD
+16,2695,1,05:00,(5:00) (Shotgun) T.Riddick right end to DET 46 for 2 yards (J.Simon).,10,3,21,DET 44,0,DET,
+16,2796,3,02:29,(2:29) (Shotgun) M.Stafford pass short left to M.Jones to HOU 28 for 11 yards (J.Simon).,4,3,47,HOU 39,0,DET,
+16,2909,2,00:14,(:14) (Shotgun) M.Stafford pass short right to E.Ebron to HOU 14 for 4 yards (B.Cushing).,10,3,61,HOU 18,0,DET,
+16,2887,1,00:19,(:19) (Shotgun) M.Stafford pass incomplete short left to M.Jones (C.Moore).,10,3,57,HOU 18,0,DET,
+19,3416,2,05:38,(5:38) (Shotgun) B.Osweiler pass short left to B.Miller to DET 11 for 9 yards (T.Wilson).,18,4,54,DET 20,0,HOU,
+19,3384,2,06:10,"(6:10) A.Blue right guard to DET 1 for 9 yards (G.Quin; B.Copeland). PENALTY on HOU-X.Su'a-Filo, Offensive Holding, 10 yards, enforced at DET 10 - No Play.",8,4,54,DET 10,0,HOU,PENALTY
+19,3440,3,05:00,(5:00) (Shotgun) B.Osweiler sacked at DET 18 for -7 yards (K.Thornton).,9,4,47,DET 11,0,HOU,
+19,3342,2,07:34,(7:34) A.Blue left tackle to DET 12 for 19 yards (T.Wilson).,2,4,53,DET 31,0,HOU,
+19,3459,4,04:14,"(4:14) N.Novak 36 yard field goal is GOOD, Center-J.Weeks, Holder-S.Lechler.",16,4,47,DET 18,1,HOU,FG
+19,3255,1,10:14,(10:14) L.Miller up the middle to HOU 43 for 8 yards (T.Wilson; R.Bush).,10,4,8,HOU 35,0,HOU,
+19,3363,1,06:48,(6:48) A.Blue right guard to DET 10 for 2 yards (T.Wilson).,10,4,55,DET 12,0,HOU,
+19,3276,2,09:37,(9:37) L.Miller up the middle to DET 49 for 8 yards (T.Whitehead).,2,4,16,HOU 43,0,HOU,
+19,3318,1,08:10,(8:10) B.Osweiler pass short left to D.Hopkins to DET 31 for 8 yards (J.Bademosi).,10,4,34,DET 39,0,HOU,
+19,3297,1,08:56,(8:56) A.Blue up the middle to DET 39 for 10 yards (N.Lawson; A.Robinson).,10,4,26,DET 49,0,HOU,
+18,3184,2,11:33,(11:33) (Shotgun) T.Riddick right end to DET 14 for 3 yards (J.Simon).,21,4,-8,DET 11,0,DET,
+18,3149,2,11:56,"(11:56) (Shotgun) M.Stafford pass short right to T.Riddick to DET 22 for 1 yard (B.Cushing). PENALTY on DET-G.Glasgow, Illegal Block Above the Waist, 10 yards, enforced at DET 21 - No Play.",11,4,-11,DET 21,0,DET,PENALTY
+18,3205,3,10:51,(10:51) (Shotgun) M.Stafford pass short left to T.Riddick pushed ob at DET 23 for 9 yards (K.Jackson) [W.Mercilus].,18,4,1,DET 14,0,DET,
+18,3229,4,10:24,"(10:24) S.Martin punts 42 yards to HOU 35, Center-D.Muhlbach. T.Ervin MUFFS catch, ball out of bounds at HOU 35.",9,4,1,DET 23,0,DET,FUMBLE
+18,3125,1,12:36,(12:36) (Shotgun) M.Stafford pass short right to G.Tate to DET 21 for -1 yards (K.Jackson).,10,4,-1,DET 22,0,DET,

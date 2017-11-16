@@ -1,187 +1,187 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1712,1,02:21,,10,2,3,PHI 2,0,PHI,
-9,1772,3,01:28,,6,2,4,PHI 6,0,PHI,
-9,1794,4,01:23,,6,2,4,PHI 6,0,PHI,PUNT
-9,1750,2,02:00,,7,2,4,PHI 5,0,PHI,
-10,1819,1,01:13,,10,2,31,PHI 49,0,SD,
-10,1843,1,01:07,,10,2,40,PHI 18,0,SD,PENALTY
-10,1876,1,01:03,,9,2,41,PHI 9,0,SD,FUMBLE
-20,3919,1,02:53,,10,4,22,PHI 40,0,PHI,
-20,3851,0,03:11,,0,4,0,SD 35,0,SD,KICKOFF
-20,3873,1,03:05,,10,4,0,PHI 29,0,PHI,
-20,3895,2,03:00,,10,4,11,PHI 29,0,PHI,
-20,4053,3,01:58,,10,4,57,SD 14,0,PHI,
-20,4036,0,01:58,,0,4,57,,0,,
-20,4010,2,02:03,,10,4,57,SD 14,0,PHI,
-20,4075,4,01:55,,10,4,57,SD 14,1,PHI,FG
-20,3964,1,02:39,,10,4,57,SD 39,0,PHI,
-20,3988,1,02:09,,10,4,57,SD 14,0,PHI,
-20,3940,1,02:46,,10,4,32,SD 49,0,PHI,
-6,1341,4,08:06,,4,2,53,PHI 26,1,SD,FG
-6,1274,1,09:30,,10,2,51,PHI 32,0,SD,
-6,1250,1,10:08,,10,2,47,PHI 49,0,SD,
-6,1196,2,10:59,,4,2,12,SD 27,0,SD,
-6,1295,2,08:48,,6,2,51,PHI 28,0,SD,
-6,1217,1,10:14,,10,2,53,SD 33,0,SD,PENALTY
-6,1317,3,08:44,,6,2,53,PHI 28,0,SD,
-6,1175,1,11:38,,10,2,6,SD 21,0,SD,
-18,3346,0,10:47,,0,4,0,SD 35,0,SD,KICKOFF
-18,3390,2,10:37,,10,4,8,PHI 24,0,PHI,
-18,3411,3,10:14,,2,4,39,PHI 32,0,PHI,
-18,3432,1,09:44,,10,4,66,PHI 34,0,PHI,
-18,3570,2,07:43,,10,4,74,SD 10,0,PHI,
-18,3477,1,08:57,,10,4,44,PHI 47,0,PHI,
-18,3611,0,07:06,,0,4,61,SD 2,1,PHI,XP
-18,3456,2,09:15,,6,4,23,PHI 38,0,PHI,
-18,3368,1,10:42,,10,4,0,PHI 24,0,PHI,
-18,3548,1,07:49,,10,4,66,SD 10,0,PHI,
-18,3524,1,08:02,,15,4,66,SD 37,0,PHI,
-18,3594,3,07:13,,2,4,76,SD 2,1,PHI,TD
-18,3501,1,08:23,,10,4,39,SD 32,0,PHI,PENALTY
-1,45,0,15:00,,0,1,27,SD 35,0,SD,KICKOFF
-1,178,1,12:59,,10,1,33,50,0,PHI,
-1,91,2,14:37,,5,1,14,PHI 30,0,PHI,
-1,157,3,13:33,,4,1,25,PHI 45,0,PHI,
-1,136,2,13:58,,6,1,20,PHI 43,0,PHI,
-1,115,1,14:24,,10,1,18,PHI 39,0,PHI,
-1,240,4,12:01,,8,1,27,SD 48,0,PHI,PUNT
-1,67,1,14:55,,10,1,5,PHI 25,0,PHI,
-1,218,3,12:06,,8,1,27,SD 48,0,PHI,
-1,199,2,12:35,,2,1,27,SD 42,0,PHI,
-5,1098,2,12:43,,21,2,9,PHI 26,0,PHI,
-5,974,0,14:07,,0,2,0,SD 35,0,SD,KICKOFF
-5,1046,3,13:38,,1,2,15,PHI 31,0,PHI,
-5,1067,1,13:12,,10,2,4,PHI 37,0,PHI,FUMBLE
-5,1120,3,12:19,,17,2,9,PHI 30,0,PHI,
-5,996,1,13:43,,10,2,9,PHI 22,0,PHI,
-5,1017,2,13:41,,1,2,15,PHI 31,0,PHI,
-5,1150,4,11:47,,16,2,9,PHI 31,0,PHI,PUNT
-13,2332,2,10:57,,10,3,56,PHI 24,0,SD,
-13,2141,2,14:51,,10,3,2,SD 20,0,SD,
-13,2370,3,10:12,,10,3,80,PHI 24,1,SD,TD
-13,2268,1,12:18,,10,3,52,PHI 36,0,SD,
-13,2201,1,13:38,,10,3,20,SD 40,0,SD,
-13,2310,1,11:00,,10,3,56,PHI 24,0,SD,
-13,2244,3,12:48,,7,3,44,SD 43,0,SD,
-13,2223,2,13:33,,10,3,23,SD 40,0,SD,
-13,2289,2,11:38,,2,3,56,PHI 28,0,SD,
-13,2093,0,15:00,,0,3,0,PHI 35,0,PHI,KICKOFF
-13,2390,0,10:04,,0,3,80,PHI 2,1,SD,XP
-13,2166,3,14:05,,8,3,20,SD 22,0,SD,
-13,2112,1,15:00,,10,3,0,SD 20,0,SD,
-13,2353,0,10:12,,0,3,56,,0,,TIMEOUT
-21,4188,2,00:37,,4,4,42,PHI 37,0,SD,
-21,4272,0,00:17,,0,4,49,,0,,TIMEOUT
-21,4210,3,00:31,,4,4,48,PHI 37,0,SD,
-21,4310,0,00:14,,0,4,51,,0,,TIMEOUT
-21,4116,1,01:45,,10,4,15,SD 21,0,SD,
-21,4289,2,00:17,,9,4,51,PHI 30,0,SD,
-21,4327,3,00:14,,7,4,51,PHI 28,0,SD,
-21,4094,0,01:51,,0,4,0,PHI 35,0,PHI,KICKOFF
-21,4348,4,00:11,,7,4,51,PHI 28,1,SD,FG
-21,4234,0,00:21,,0,4,48,,0,,TIMEOUT
-21,4140,1,01:12,,10,4,36,SD 36,0,SD,
-21,4164,1,01:04,,10,4,42,PHI 43,0,SD,
-21,4251,1,00:21,,10,4,49,PHI 31,0,SD,
-11,1951,1,00:30,,10,2,17,PHI 31,0,PHI,
-11,1908,1,00:52,,10,2,0,PHI 14,0,PHI,
-11,2021,1,00:09,,10,2,58,SD 28,0,PHI,FGM
-11,1973,2,00:24,,10,2,38,PHI 31,0,PHI,
-11,2032,0,00:15,,0,2,58,,0,,TIMEOUT
-11,1930,2,00:50,,10,2,17,PHI 14,0,PHI,
-11,1997,1,00:15,,10,2,58,SD 48,0,PHI,
-11,2049,0,00:09,,0,2,58,,0,,TIMEOUT
-14,2620,4,06:50,,3,3,49,SD 30,1,PHI,FG
-14,2599,3,07:24,,3,3,49,SD 30,0,PHI,
-14,2553,1,07:59,,15,3,49,SD 42,0,PHI,
-14,2522,1,07:59,,10,3,49,SD 37,0,PHI,PENALTY
-14,2406,0,10:04,,0,3,0,SD 35,0,SD,KICKOFF
-14,2474,3,09:24,,4,3,11,PHI 27,0,PHI,
-14,2428,1,09:59,,10,3,0,PHI 21,0,PHI,
-14,2498,1,08:35,,10,3,49,PHI 32,0,PHI,
-14,2577,2,07:37,,3,3,49,SD 30,0,PHI,
-14,2450,2,09:51,,10,3,6,PHI 21,0,PHI,
-8,1494,0,06:41,,0,2,0,PHI 35,0,PHI,KICKOFF
-8,1509,1,06:41,,10,2,16,SD 20,0,SD,
-8,1533,1,05:59,,10,2,16,SD 36,0,SD,
-8,1579,1,05:18,,10,2,33,50,0,SD,
-8,1600,2,04:35,,7,2,78,PHI 47,0,SD,PENALTY
-8,1677,2,02:31,,5,2,78,PHI 26,0,SD,FUMBLE
-8,1555,2,05:52,,10,2,30,SD 36,0,SD,
-8,1632,2,04:08,,17,2,78,SD 43,0,SD,
-8,1656,1,03:18,,10,2,78,PHI 31,0,SD,
-19,3835,0,03:11,,0,4,39,PHI 2,1,SD,XP
-19,3725,3,05:48,,3,4,13,PHI 32,0,SD,
-19,3680,1,06:53,,10,4,6,PHI 39,0,SD,
-19,3749,1,05:12,,10,4,21,PHI 26,0,SD,
-19,3704,2,06:26,,4,4,7,PHI 33,0,SD,
-19,3794,3,04:01,,1,4,24,PHI 17,0,SD,
-19,3770,2,04:35,,2,4,22,PHI 18,0,SD,
-19,3815,1,03:17,,10,4,39,PHI 15,1,SD,TD
-19,3647,0,07:06,,0,4,7,PHI 20,0,PHI,FUMBLE
-22,4392,1,00:00,,10,4,6,PHI 29,0,PHI,FUMBLE
-22,4367,0,00:07,,0,4,0,SD 35,0,SD,KICKOFF
-12,2050,1,00:04,,10,2,-1,SD 36,0,SD,
-16,2778,0,04:42,,0,3,65,SD 2,1,PHI,XP
-16,2737,1,05:08,,10,3,65,PHI 35,0,PHI,
-16,2758,2,04:49,,6,3,65,PHI 39,1,PHI,TD
-7,1458,2,06:46,,6,2,75,SD 13,1,PHI,TD
-7,1360,0,08:01,,0,2,0,SD 35,0,SD,KICKOFF
-7,1430,1,07:11,,10,2,62,SD 17,0,PHI,
-7,1382,1,07:55,,10,2,17,PHI 25,0,PHI,
-7,1478,0,06:41,,0,2,75,SD 2,1,PHI,XP
-7,1406,1,07:31,,10,2,58,PHI 42,0,PHI,
-3,535,3,05:41,,2,1,75,SD 2,0,PHI,
-3,598,4,05:33,,7,1,70,SD 7,1,PHI,FG
-3,564,4,05:36,,2,1,70,SD 2,0,PHI,PENALTY
-3,514,2,06:16,,6,1,75,SD 6,0,PHI,
-3,469,1,07:20,,10,1,75,PHI 23,0,PHI,
-3,447,0,07:26,,0,1,0,SD 35,0,SD,KICKOFF
-3,493,1,06:39,,7,1,71,SD 7,0,PHI,
-17,2856,1,04:36,,10,3,38,SD 12,0,SD,
-17,2977,2,02:45,,7,3,17,SD 26,0,SD,
-17,3091,0,,,0,3,37,,0,,
-17,3107,2,15:00,,8,4,43,SD 49,0,SD,
-17,3188,1,13:16,,10,4,58,PHI 34,0,SD,
-17,3303,3,11:39,,10,4,73,PHI 18,0,SD,
-17,3131,3,14:28,,2,4,38,PHI 45,0,SD,PENALTY
-17,2940,1,03:22,,10,3,14,SD 23,0,SD,
-17,2895,3,03:47,,4,3,5,SD 18,0,SD,PENALTY
-17,3164,3,13:56,,7,4,54,50,0,SD,
-17,3327,4,10:51,,7,4,73,PHI 15,1,SD,FG
-17,3235,3,12:36,,6,4,70,PHI 30,0,SD,
-17,3213,2,12:40,,6,4,58,PHI 30,0,SD,
-17,2873,2,03:51,,4,3,0,SD 18,0,SD,
-17,2794,0,04:42,,0,3,37,PHI 35,0,PHI,KICKOFF
-17,2998,3,02:01,,4,3,33,SD 29,0,SD,
-17,3281,2,11:44,,10,4,70,PHI 18,0,SD,
-17,3259,1,11:49,,10,4,70,PHI 18,0,SD,
-17,3067,1,00:23,,10,3,37,SD 47,0,SD,
-17,3022,1,01:29,,10,3,33,SD 36,0,SD,
-17,3046,2,01:03,,1,3,35,SD 45,0,SD,
-4,914,1,15:00,,10,2,82,PHI 14,0,SD,
-4,734,2,02:46,,6,1,46,SD 45,0,SD,
-4,874,3,00:13,,3,1,79,PHI 19,0,SD,
-4,758,1,02:07,,10,1,67,PHI 47,0,SD,
-4,713,1,03:32,,10,1,38,SD 41,0,SD,
-4,803,2,00:42,,12,1,74,PHI 28,0,SD,TIMEOUT
-4,617,0,05:30,,0,1,74,PHI 35,0,PHI,KICKOFF
-4,958,0,14:07,,0,2,93,PHI 2,1,SD,XP
-4,782,1,01:29,,10,1,65,PHI 26,0,SD,
-4,938,2,14:13,,7,2,93,PHI 11,1,SD,TD
-4,671,2,04:49,,8,1,22,SD 9,0,SD,
-4,650,1,05:23,,10,1,2,SD 7,0,SD,
-4,692,1,04:06,,10,1,34,SD 29,0,SD,
-2,428,4,07:32,,10,1,59,PHI 31,1,SD,FG
-2,295,1,11:26,,10,1,44,SD 35,0,SD,
-2,319,1,10:49,,10,1,51,PHI 46,0,SD,
-2,340,2,10:09,,3,1,59,PHI 39,0,SD,
-2,404,3,08:09,,12,1,59,PHI 33,0,SD,
-2,259,1,11:51,,10,1,59,SD 10,0,SD,PENALTY
-2,364,1,09:33,,10,1,63,PHI 31,0,SD,
-2,385,2,08:49,,6,1,57,PHI 27,0,SD,
-15,2675,2,06:03,,6,3,5,SD 24,0,SD,
-15,2718,4,05:17,,5,3,5,SD 25,0,SD,PUNT
-15,2654,1,06:45,,10,3,4,SD 20,0,SD,
-15,2696,3,05:23,,5,3,5,SD 25,0,SD,
-15,2639,0,06:45,,0,3,0,PHI 35,0,PHI,KICKOFF
+20,4010,2,02:03,(2:03) (Shotgun) N.Foles pass incomplete short right to D.Jackson.,10,4,57,SD 14,0,PHI,
+20,4053,3,01:58,(1:58) (Shotgun) M.Vick pass incomplete short middle to J.Avant.,10,4,57,SD 14,0,PHI,
+20,3940,1,02:46,"(2:46) (No Huddle, Shotgun) M.Vick pass short left to D.Jackson pushed ob at SD 39 for 10 yards (J.Patrick).",10,4,32,SD 49,0,PHI,
+20,4036,0,01:58,Two-Minute Warning,0,4,57,,0,,
+20,3873,1,03:05,(3:05) (Shotgun) M.Vick pass incomplete deep middle to J.Avant.,10,4,0,PHI 29,0,PHI,
+20,3919,1,02:53,"(2:53) (No Huddle, Shotgun) M.Vick scrambles right end ran ob at SD 49 for 11 yards.",10,4,22,PHI 40,0,PHI,
+20,4075,4,01:55,"(1:55) A.Henery 32 yard field goal is GOOD, Center-J.Dorenbos, Holder-D.Jones.",10,4,57,SD 14,1,PHI,FG
+20,3964,1,02:39,"(2:39) (No Huddle, Shotgun) M.Vick pass deep middle to D.Jackson to SD 14 for 25 yards (S.Wright).",10,4,57,SD 39,0,PHI,
+20,3988,1,02:09,"(2:09) (No Huddle, Shotgun) M.Vick pass incomplete short left to B.Celek (E.Weddle) [J.Wynn]. PHI-M.Vick was injured during the play. His return is Probable.",10,4,57,SD 14,0,PHI,
+20,3851,0,03:11,N.Novak kicks 69 yards from SD 35 to PHI -4. D.Johnson to PHI 29 for 33 yards (B.Bird).,0,4,0,SD 35,0,SD,KICKOFF
+20,3895,2,03:00,"(3:00) (No Huddle, Shotgun) M.Vick pass short right to L.McCoy ran ob at PHI 40 for 11 yards.",10,4,11,PHI 29,0,PHI,
+21,4310,0,00:14,Timeout #2 by PHI at 00:14.,0,4,51,,0,,TIMEOUT
+21,4188,2,00:37,"(:37) (No Huddle, Shotgun) P.Rivers pass incomplete short right.",4,4,42,PHI 37,0,SD,
+21,4164,1,01:04,"(1:04) (No Huddle, Shotgun) P.Rivers pass short middle to D.Woodhead to PHI 37 for 6 yards (D.Ryans).",10,4,42,PHI 43,0,SD,
+21,4210,3,00:31,(:31) (Shotgun) P.Rivers pass short right to D.Woodhead to PHI 31 for 6 yards (C.Barwin).,4,4,48,PHI 37,0,SD,
+21,4094,0,01:51,A.Henery kicks 67 yards from PHI 35 to SD -2. F.Whittaker to SD 21 for 23 yards (J.Knott).,0,4,0,PHI 35,0,PHI,KICKOFF
+21,4251,1,00:21,(:21) (Shotgun) D.Woodhead up the middle to PHI 30 for 1 yard (F.Cox; P.Chung).,10,4,49,PHI 31,0,SD,
+21,4289,2,00:17,(:17) (Shotgun) D.Woodhead right tackle to PHI 28 for 2 yards (T.Cole).,9,4,51,PHI 30,0,SD,
+21,4140,1,01:12,"(1:12) (No Huddle, Shotgun) P.Rivers pass short left to A.Gates pushed ob at PHI 43 for 21 yards (E.Wolff).",10,4,36,SD 36,0,SD,
+21,4272,0,00:17,Timeout #1 by PHI at 00:17.,0,4,49,,0,,TIMEOUT
+21,4116,1,01:45,(1:45) (Shotgun) P.Rivers pass short left to A.Gates to SD 36 for 15 yards (N.Allen).,10,4,15,SD 21,0,SD,
+21,4327,3,00:14,(:14) P.Rivers up the middle to PHI 28 for no gain.,7,4,51,PHI 28,0,SD,
+21,4348,4,00:11,"(:11) N.Novak 46 yard field goal is GOOD, Center-M.Windt, Holder-M.Scifres.",7,4,51,PHI 28,1,SD,FG
+21,4234,0,00:21,Timeout #2 by SD at 00:21.,0,4,48,,0,,TIMEOUT
+22,4367,0,00:07,N.Novak kicks 36 yards from SD 35 to PHI 29. Z.Ertz to PHI 29 for no gain.,0,4,0,SD 35,0,SD,KICKOFF
+22,4392,1,00:00,"(:00) (Shotgun) M.Vick pass short right to J.Avant to PHI 37 for 8 yards. Lateral to R.Cooper to PHI 35 for -2 yards. Lateral to M.Vick to PHI 35 for no gain. M.Vick pass to J.Peters to PHI 35 for no gain. Lateral to J.Avant to PHI 35 for no gain. FUMBLES, RECOVERED by SD-J.Addae at PHI 40. J.Addae to PHI 40 for no gain (B.Celek). PENALTY on PHI-M.Vick, Illegal Forward Pass, 5 yards, enforced at PHI 39.",10,4,6,PHI 29,0,PHI,FUMBLE
+1,199,2,12:35,"(12:35) (No Huddle, Shotgun) M.Vick sacked at SD 48 for -6 yards (J.Wynn).",2,1,27,SD 42,0,PHI,
+1,157,3,13:33,"(13:33) (No Huddle, Shotgun) L.McCoy right tackle to 50 for 5 yards (K.Reyes; R.Walker).",4,1,25,PHI 45,0,PHI,
+1,45,0,15:00,N.Novak kicks 70 yards from SD 35 to PHI -5. D.Johnson to PHI 25 for 30 yards.,0,1,27,SD 35,0,SD,KICKOFF
+1,218,3,12:06,"(12:06) (No Huddle, Shotgun) M.Vick pass incomplete deep right to D.Jackson [D.Freeney].",8,1,27,SD 48,0,PHI,
+1,115,1,14:24,"(14:24) (No Huddle, Shotgun) L.McCoy right tackle to PHI 43 for 4 yards (D.Butler).",10,1,18,PHI 39,0,PHI,
+1,178,1,12:59,"(12:59) (No Huddle, Shotgun) B.Brown left end to SD 42 for 8 yards (E.Weddle).",10,1,33,50,0,PHI,
+1,136,2,13:58,"(13:58) (No Huddle, Shotgun) L.McCoy right end to PHI 45 for 2 yards (J.Johnson).",6,1,20,PHI 43,0,PHI,
+1,67,1,14:55,(14:55) (Shotgun) M.Vick pass short right to J.Avant to PHI 30 for 5 yards (J.Johnson).,10,1,5,PHI 25,0,PHI,
+1,91,2,14:37,"(14:37) (No Huddle, Shotgun) M.Vick pass short right to D.Jackson pushed ob at PHI 39 for 9 yards (S.Wright).",5,1,14,PHI 30,0,PHI,
+1,240,4,12:01,"(12:01) D.Jones punts 38 yards to SD 10, Center-J.Dorenbos, downed by PHI-C.Anderson.",8,1,27,SD 48,0,PHI,PUNT
+3,469,1,07:20,(7:20) (Shotgun) M.Vick pass short middle to L.McCoy to SD 7 for 70 yards (R.Walker).,10,1,75,PHI 23,0,PHI,
+3,447,0,07:26,N.Novak kicks 63 yards from SD 35 to PHI 2. D.Johnson to PHI 23 for 21 yards (A.Gachkar).,0,1,0,SD 35,0,SD,KICKOFF
+3,564,4,05:36,"(5:36) A.Henery 20 yard field goal is GOOD, NULLIFIED by Penalty, Center-J.Dorenbos, Holder-D.Jones. PENALTY on PHI, Illegal Formation, 5 yards, enforced at SD 2 - No Play.",2,1,70,SD 2,0,PHI,PENALTY
+3,535,3,05:41,(5:41) (Shotgun) M.Vick pass incomplete short left to J.Casey. SD-S.Wright was injured during the play. His return is Probable.,2,1,75,SD 2,0,PHI,
+3,598,4,05:33,"(5:33) A.Henery 25 yard field goal is GOOD, Center-J.Dorenbos, Holder-D.Jones.",7,1,70,SD 7,1,PHI,FG
+3,514,2,06:16,"(6:16) (No Huddle, Shotgun) B.Brown left tackle to SD 2 for 4 yards (E.Weddle).",6,1,75,SD 6,0,PHI,
+3,493,1,06:39,"(6:39) (No Huddle, Shotgun) B.Brown left tackle to SD 6 for 1 yard (J.Johnson).",7,1,71,SD 7,0,PHI,
+2,319,1,10:49,(10:49) R.Mathews up the middle to PHI 39 for 7 yards (M.Kendricks).,10,1,51,PHI 46,0,SD,
+2,428,4,07:32,"(7:32) N.Novak 49 yard field goal is GOOD, Center-M.Windt, Holder-M.Scifres.",10,1,59,PHI 31,1,SD,FG
+2,404,3,08:09,(8:09) (Shotgun) P.Rivers pass short left to D.Woodhead to PHI 31 for 2 yards (M.Kendricks).,12,1,59,PHI 33,0,SD,
+2,259,1,11:51,"(11:51) (Shotgun) R.Mathews right end to SD 20 for 10 yards (N.Allen). PENALTY on PHI-N.Allen, Face Mask (15 Yards), 15 yards, enforced at SD 20.",10,1,59,SD 10,0,SD,PENALTY
+2,340,2,10:09,(10:09) P.Rivers pass short left to D.Woodhead to PHI 31 for 8 yards (P.Chung).,3,1,59,PHI 39,0,SD,
+2,385,2,08:49,(8:49) (Shotgun) P.Rivers sacked at PHI 33 for -6 yards (C.Barwin).,6,1,57,PHI 27,0,SD,
+2,364,1,09:33,(9:33) R.Mathews left tackle to PHI 27 for 4 yards (T.Cole).,10,1,63,PHI 31,0,SD,
+2,295,1,11:26,(11:26) P.Rivers pass deep middle to M.Floyd to PHI 46 for 19 yards (N.Allen).,10,1,44,SD 35,0,SD,
+5,996,1,13:43,(13:43) (Shotgun) L.McCoy right end pushed ob at PHI 31 for 9 yards (R.Walker).,10,2,9,PHI 22,0,PHI,
+5,1046,3,13:38,(13:38) (Shotgun) L.McCoy up the middle to PHI 37 for 6 yards (R.Walker).,1,2,15,PHI 31,0,PHI,
+5,1120,3,12:19,(12:19) M.Vick pass short left to B.Brown to PHI 31 for 1 yard (J.Addae).,17,2,9,PHI 30,0,PHI,
+5,1098,2,12:43,(12:43) M.Vick pass short right to D.Jackson to PHI 30 for 4 yards (S.Wright).,21,2,9,PHI 26,0,PHI,
+5,1150,4,11:47,"(11:47) D.Jones punts 45 yards to SD 24, Center-J.Dorenbos. E.Royal to SD 21 for -3 yards (C.Anderson).",16,2,9,PHI 31,0,PHI,PUNT
+5,1067,1,13:12,"(13:12) (No Huddle, Shotgun) M.Vick to PHI 26 for -11 yards. FUMBLES, ball out of bounds at PHI 26. Penalty on PHI, Illegal Formation, declined.",10,2,4,PHI 37,0,PHI,FUMBLE
+5,974,0,14:07,N.Novak kicks 66 yards from SD 35 to PHI -1. D.Johnson to PHI 22 for 23 yards (A.Gachkar).,0,2,0,SD 35,0,SD,KICKOFF
+5,1017,2,13:41,(13:41) M.Vick pass incomplete deep right to D.Jackson.,1,2,15,PHI 31,0,PHI,
+4,692,1,04:06,(4:06) (Shotgun) P.Rivers scrambles right end ran ob at SD 41 for 12 yards.,10,1,34,SD 29,0,SD,
+4,958,0,14:07,"N.Novak extra point is GOOD, Center-M.Windt, Holder-M.Scifres.",0,2,93,PHI 2,1,SD,XP
+4,782,1,01:29,(1:29) R.Mathews right end to PHI 28 for -2 yards (C.Barwin).,10,1,65,PHI 26,0,SD,
+4,874,3,00:13,(:13) (Shotgun) P.Rivers pass short right to D.Woodhead to PHI 14 for 5 yards (N.Allen).,3,1,79,PHI 19,0,SD,
+4,758,1,02:07,(2:07) (Shotgun) P.Rivers pass short left to A.Gates to PHI 26 for 21 yards (P.Chung; N.Allen).,10,1,67,PHI 47,0,SD,
+4,713,1,03:32,(3:32) R.Mathews right end to SD 45 for 4 yards (D.Ryans).,10,1,38,SD 41,0,SD,
+4,617,0,05:30,"A.Henery kicks 66 yards from PHI 35 to SD -1. F.Whittaker to SD 20 for 21 yards (N.Allen; B.Hughes). PENALTY on SD-A.Gachkar, Illegal Block Above the Waist, 7 yards, enforced at SD 14.",0,1,74,PHI 35,0,PHI,KICKOFF
+4,671,2,04:49,(4:49) R.Mathews left end to SD 29 for 20 yards (D.Ryans; N.Allen).,8,1,22,SD 9,0,SD,
+4,938,2,14:13,"(14:13) P.Rivers pass short right to E.Royal for 11 yards, TOUCHDOWN.",7,2,93,PHI 11,1,SD,TD
+4,734,2,02:46,(2:46) (Shotgun) P.Rivers pass short right to V.Brown to PHI 47 for 8 yards (B.Boykin).,6,1,46,SD 45,0,SD,
+4,650,1,05:23,(5:23) (Shotgun) R.Mathews up the middle to SD 9 for 2 yards (D.Ryans).,10,1,2,SD 7,0,SD,
+4,803,2,00:42,"(:42) (Shotgun) P.Rivers pass short right to M.Floyd ran ob at PHI 19 for 9 yards. Philadelphia challenged the pass completion ruling, and the play was Upheld. (Timeout #1.)",12,1,74,PHI 28,0,SD,TIMEOUT
+4,914,1,15:00,(15:00) P.Rivers pass short left to R.Mathews to PHI 11 for 3 yards (C.Williams; D.Ryans).,10,2,82,PHI 14,0,SD,
+7,1430,1,07:11,"(7:11) (No Huddle, Shotgun) M.Vick scrambles right end ran ob at SD 13 for 4 yards.",10,2,62,SD 17,0,PHI,
+7,1360,0,08:01,N.Novak kicks 66 yards from SD 35 to PHI -1. D.Johnson to PHI 25 for 26 yards (J.Patrick).,0,2,0,SD 35,0,SD,KICKOFF
+7,1478,0,06:41,"A.Henery extra point is GOOD, Center-J.Dorenbos, Holder-D.Jones.",0,2,75,SD 2,1,PHI,XP
+7,1458,2,06:46,"(6:46) (No Huddle, Shotgun) M.Vick pass short left to R.Cooper for 13 yards, TOUCHDOWN.",6,2,75,SD 13,1,PHI,TD
+7,1406,1,07:31,"(7:31) (No Huddle, Shotgun) M.Vick pass short left to D.Jackson to SD 17 for 41 yards (D.Cox).",10,2,58,PHI 42,0,PHI,
+7,1382,1,07:55,"(7:55) (No Huddle, Shotgun) M.Vick pass short left to D.Jackson to PHI 42 for 17 yards (M.Gilchrist).",10,2,17,PHI 25,0,PHI,
+6,1317,3,08:44,(8:44) (Shotgun) P.Rivers pass short right to D.Woodhead to PHI 26 for 2 yards (D.Ryans).,6,2,53,PHI 28,0,SD,
+6,1175,1,11:38,(11:38) (Shotgun) R.Mathews up the middle to SD 27 for 6 yards (M.Kendricks).,10,2,6,SD 21,0,SD,
+6,1217,1,10:14,"(10:14) (Shotgun) P.Rivers pass incomplete deep left to M.Floyd (C.Williams). PENALTY on PHI-C.Williams, Defensive Pass Interference, 18 yards, enforced at SD 33 - No Play.",10,2,53,SD 33,0,SD,PENALTY
+6,1341,4,08:06,"(8:06) N.Novak 44 yard field goal is GOOD, Center-M.Windt, Holder-M.Scifres.",4,2,53,PHI 26,1,SD,FG
+6,1274,1,09:30,"(9:30) (No Huddle, Shotgun) D.Woodhead left tackle to PHI 28 for 4 yards (D.Ryans).",10,2,51,PHI 32,0,SD,
+6,1196,2,10:59,(10:59) (No Huddle) R.Mathews left end to SD 33 for 6 yards (C.Barwin).,4,2,12,SD 27,0,SD,
+6,1250,1,10:08,(10:08) (Shotgun) P.Rivers pass deep middle to M.Floyd to PHI 32 for 17 yards (E.Wolff).,10,2,47,PHI 49,0,SD,
+6,1295,2,08:48,(8:48) (Shotgun) P.Rivers pass incomplete short left to D.Woodhead.,6,2,51,PHI 28,0,SD,
+9,1712,1,02:21,(2:21) L.McCoy up the middle to PHI 5 for 3 yards (K.Reyes).,10,2,3,PHI 2,0,PHI,
+9,1794,4,01:23,"(1:23) D.Jones punts 51 yards to SD 43, Center-J.Dorenbos. E.Royal to PHI 49 for 8 yards (C.Anderson).",6,2,4,PHI 6,0,PHI,PUNT
+9,1772,3,01:28,(1:28) (Shotgun) M.Vick pass incomplete short middle to R.Cooper.,6,2,4,PHI 6,0,PHI,
+9,1750,2,02:00,(2:00) (Shotgun) L.McCoy left end to PHI 6 for 1 yard (C.Thomas).,7,2,4,PHI 5,0,PHI,
+8,1632,2,04:08,(4:08) (Shotgun) P.Rivers pass deep left to M.Floyd to PHI 31 for 26 yards (C.Williams).,17,2,78,SD 43,0,SD,
+8,1677,2,02:31,"(2:31) (Shotgun) P.Rivers pass short right to A.Gates to PHI 2 for 24 yards (B.Boykin). FUMBLES (B.Boykin), RECOVERED by PHI-C.Matthews at PHI 2. C.Matthews to PHI 2 for no gain (R.Mathews).",5,2,78,PHI 26,0,SD,FUMBLE
+8,1555,2,05:52,(5:52) (Shotgun) P.Rivers pass short right to A.Gates to 50 for 14 yards (P.Chung).,10,2,30,SD 36,0,SD,
+8,1600,2,04:35,"(4:35) (Shotgun) R.Mathews left end to PHI 45 for 2 yards (D.Ryans). PENALTY on SD-K.Dunlap, Offensive Holding, 10 yards, enforced at PHI 47 - No Play.",7,2,78,PHI 47,0,SD,PENALTY
+8,1579,1,05:18,(5:18) R.Mathews left end to PHI 47 for 3 yards (T.Cole).,10,2,33,50,0,SD,
+8,1533,1,05:59,(5:59) (Shotgun) P.Rivers pass incomplete deep right to V.Brown.,10,2,16,SD 36,0,SD,
+8,1494,0,06:41,"A.Henery kicks 65 yards from PHI 35 to end zone, Touchback.",0,2,0,PHI 35,0,PHI,KICKOFF
+8,1509,1,06:41,(6:41) P.Rivers pass short middle to A.Gates to SD 36 for 16 yards (E.Wolff).,10,2,16,SD 20,0,SD,
+8,1656,1,03:18,(3:18) D.Woodhead right end to PHI 26 for 5 yards (I.Sopoaga).,10,2,78,PHI 31,0,SD,
+11,1997,1,00:15,(:15) (Shotgun) M.Vick pass deep right to D.Jackson to SD 28 for 20 yards (S.Wright).,10,2,58,SD 48,0,PHI,
+11,1973,2,00:24,(:24) (Shotgun) M.Vick pass short left to L.McCoy to SD 48 for 21 yards (K.Reyes).,10,2,38,PHI 31,0,PHI,
+11,2049,0,00:09,Timeout #3 by PHI at 00:09.,0,2,58,,0,,TIMEOUT
+11,1930,2,00:50,"(:50) (No Huddle, Shotgun) L.McCoy left tackle to PHI 31 for 17 yards (J.Addae).",10,2,17,PHI 14,0,PHI,
+11,1951,1,00:30,"(:30) (No Huddle, Shotgun) M.Vick pass incomplete deep right to D.Jackson [D.Freeney].",10,2,17,PHI 31,0,PHI,
+11,2032,0,00:15,Timeout #2 by PHI at 00:15.,0,2,58,,0,,TIMEOUT
+11,1908,1,00:52,(:52) (Shotgun) M.Vick pass incomplete short left to J.Avant.,10,2,0,PHI 14,0,PHI,
+11,2021,1,00:09,"(:09) A.Henery 46 yard field goal is No Good, Wide Right, Center-J.Dorenbos, Holder-D.Jones.",10,2,58,SD 28,0,PHI,FGM
+10,1843,1,01:07,"(1:07) (Shotgun) P.Rivers pass incomplete short left to V.Brown (C.Williams). PENALTY on PHI-C.Williams, Defensive Pass Interference, 9 yards, enforced at PHI 18 - No Play.",10,2,40,PHI 18,0,SD,PENALTY
+10,1876,1,01:03,"(1:03) R.Mathews up the middle to PHI 8 for 1 yard (T.Cole). FUMBLES (T.Cole), RECOVERED by PHI-M.Kendricks at PHI 8. M.Kendricks to PHI 14 for 6 yards (J.Clary).",9,2,41,PHI 9,0,SD,FUMBLE
+10,1819,1,01:13,(1:13) (Shotgun) P.Rivers pass deep right to M.Floyd ran ob at PHI 18 for 31 yards (B.Hughes).,10,2,31,PHI 49,0,SD,
+13,2201,1,13:38,(13:38) (Shotgun) P.Rivers pass incomplete short left to K.Allen (C.Williams).,10,3,20,SD 40,0,SD,
+13,2332,2,10:57,"(10:57) (No Huddle, Shotgun) D.Woodhead up the middle to PHI 24 for no gain (F.Cox).",10,3,56,PHI 24,0,SD,
+13,2093,0,15:00,"A.Henery kicks 65 yards from PHI 35 to end zone, Touchback.",0,3,0,PHI 35,0,PHI,KICKOFF
+13,2289,2,11:38,"(11:38) (No Huddle, Shotgun) R.Brown left tackle to PHI 24 for 4 yards (P.Chung).",2,3,56,PHI 28,0,SD,
+13,2390,0,10:04,"N.Novak extra point is GOOD, Center-M.Windt, Holder-M.Scifres.",0,3,80,PHI 2,1,SD,XP
+13,2223,2,13:33,(13:33) R.Mathews up the middle to SD 43 for 3 yards (M.Kendricks; D.Ryans).,10,3,23,SD 40,0,SD,
+13,2310,1,11:00,(11:00) (Shotgun) P.Rivers pass incomplete short right to A.Gates.,10,3,56,PHI 24,0,SD,
+13,2268,1,12:18,(12:18) (Shotgun) R.Brown left end to PHI 28 for 8 yards (N.Allen).,10,3,52,PHI 36,0,SD,
+13,2141,2,14:51,(14:51) (Shotgun) R.Mathews left end to SD 22 for 2 yards (P.Chung).,10,3,2,SD 20,0,SD,
+13,2244,3,12:48,(12:48) (Shotgun) P.Rivers pass deep left to E.Royal ran ob at PHI 36 for 21 yards.,7,3,44,SD 43,0,SD,
+13,2353,0,10:12,Timeout #1 by SD at 10:12.,0,3,56,,0,,TIMEOUT
+13,2112,1,15:00,(15:00) P.Rivers pass incomplete deep middle to M.Floyd (N.Allen). SD-M.Floyd was injured during the play. He is Out.,10,3,0,SD 20,0,SD,
+13,2166,3,14:05,"(14:05) (Shotgun) P.Rivers pass deep left to K.Allen to SD 40 for 18 yards (C.Williams). Penalty on PHI-C.Williams, Defensive Pass Interference, declined.",8,3,20,SD 22,0,SD,
+13,2370,3,10:12,"(10:12) (Shotgun) P.Rivers pass deep left to E.Royal for 24 yards, TOUCHDOWN.",10,3,80,PHI 24,1,SD,TD
+12,2050,1,00:04,(:04) P.Rivers kneels to SD 35 for -1 yards.,10,2,-1,SD 36,0,SD,
+15,2675,2,06:03,(6:03) D.Woodhead left end to SD 25 for 1 yard (M.Kendricks).,6,3,5,SD 24,0,SD,
+15,2718,4,05:17,"(5:17) M.Scifres punts 40 yards to PHI 35, Center-M.Windt, downed by SD-D.Stuckey.",5,3,5,SD 25,0,SD,PUNT
+15,2696,3,05:23,(5:23) (Shotgun) P.Rivers pass incomplete deep right to V.Brown (B.Boykin).,5,3,5,SD 25,0,SD,
+15,2639,0,06:45,"A.Henery kicks 65 yards from PHI 35 to end zone, Touchback.",0,3,0,PHI 35,0,PHI,KICKOFF
+15,2654,1,06:45,(6:45) R.Mathews right guard to SD 24 for 4 yards (E.Wolff).,10,3,4,SD 20,0,SD,
+14,2428,1,09:59,(9:59) (Shotgun) M.Vick pass incomplete deep right to D.Jackson.,10,3,0,PHI 21,0,PHI,
+14,2498,1,08:35,(8:35) M.Vick pass deep right to Z.Ertz to SD 37 for 31 yards (M.Gilchrist).,10,3,49,PHI 32,0,PHI,
+14,2620,4,06:50,"(6:50) A.Henery 48 yard field goal is GOOD, Center-J.Dorenbos, Holder-D.Jones.",3,3,49,SD 30,1,PHI,FG
+14,2474,3,09:24,"(9:24) (No Huddle, Shotgun) M.Vick pass short left to J.Avant to PHI 32 for 5 yards (J.Patrick).",4,3,11,PHI 27,0,PHI,
+14,2522,1,07:59,"(7:59) M.Vick pass deep left to D.Jackson for 37 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on PHI-L.Johnson, Illegal Formation, 5 yards, enforced at SD 37 - No Play.",10,3,49,SD 37,0,PHI,PENALTY
+14,2577,2,07:37,"(7:37) (No Huddle, Shotgun) M.Vick pass incomplete short left to L.McCoy.",3,3,49,SD 30,0,PHI,
+14,2450,2,09:51,(9:51) (Shotgun) M.Vick pass short right to D.Jackson to PHI 27 for 6 yards (D.Butler).,10,3,6,PHI 21,0,PHI,
+14,2599,3,07:24,"(7:24) (No Huddle, Shotgun) L.McCoy up the middle to SD 30 for no gain (L.English).",3,3,49,SD 30,0,PHI,
+14,2406,0,10:04,N.Novak kicks 67 yards from SD 35 to PHI -2. D.Johnson to PHI 21 for 23 yards (E.Weddle).,0,3,0,SD 35,0,SD,KICKOFF
+14,2553,1,07:59,(7:59) (Shotgun) M.Vick pass short left to R.Cooper to SD 30 for 12 yards (D.Cox).,15,3,49,SD 42,0,PHI,
+17,2873,2,03:51,(3:51) (Shotgun) P.Rivers pass incomplete short right to V.Brown.,4,3,0,SD 18,0,SD,
+17,2998,3,02:01,"(2:01) (No Huddle, Shotgun) P.Rivers pass short left to A.Gates to SD 36 for 7 yards (M.Kendricks).",4,3,33,SD 29,0,SD,
+17,3281,2,11:44,(11:44) (Shotgun) P.Rivers pass incomplete deep left to A.Gates.,10,4,70,PHI 18,0,SD,
+17,3259,1,11:49,(11:49) (Shotgun) P.Rivers pass incomplete middle to E.Royal.,10,4,70,PHI 18,0,SD,
+17,3213,2,12:40,(12:40) (Shotgun) P.Rivers pass incomplete short right (T.Cole).,6,4,58,PHI 30,0,SD,
+17,2895,3,03:47,"(3:47) (Shotgun) P.Rivers pass short left to A.Gates to SD 18 for no gain (C.Williams). PENALTY on PHI-P.Chung, Defensive Holding, 5 yards, enforced at SD 18 - No Play.",4,3,5,SD 18,0,SD,PENALTY
+17,3107,2,15:00,(15:00) (Shotgun) P.Rivers pass short left to D.Woodhead pushed ob at PHI 45 for 6 yards (C.Williams).,8,4,43,SD 49,0,SD,
+17,3022,1,01:29,(1:29) (Shotgun) P.Rivers pass short left to V.Brown to SD 45 for 9 yards (C.Williams).,10,3,33,SD 36,0,SD,
+17,3303,3,11:39,(11:39) (Shotgun) P.Rivers pass short right to V.Brown to PHI 15 for 3 yards (M.Kendricks).,10,4,73,PHI 18,0,SD,
+17,2856,1,04:36,(4:36) P.Rivers pass short right to V.Brown to SD 18 for 6 yards (B.Boykin).,10,3,38,SD 12,0,SD,
+17,3091,0,,END QUARTER 3,0,3,37,,0,,
+17,3067,1,00:23,"(:23) (No Huddle, Shotgun) P.Rivers pass short left to D.Woodhead to SD 49 for 2 yards (C.Williams).",10,3,37,SD 47,0,SD,
+17,3235,3,12:36,(12:36) (Shotgun) P.Rivers pass short right to E.Royal to PHI 18 for 12 yards (E.Wolff).,6,4,70,PHI 30,0,SD,
+17,3327,4,10:51,"(10:51) N.Novak 33 yard field goal is GOOD, Center-M.Windt, Holder-M.Scifres.",7,4,73,PHI 15,1,SD,FG
+17,3131,3,14:28,"(14:28) (Shotgun) PENALTY on SD-K.Dunlap, False Start, 5 yards, enforced at PHI 45 - No Play.",2,4,38,PHI 45,0,SD,PENALTY
+17,3164,3,13:56,(13:56) (Shotgun) P.Rivers pass short right to K.Allen to PHI 34 for 16 yards (B.Boykin). PHI-B.Boykin was injured during the play. His return is Probable.,7,4,54,50,0,SD,
+17,3046,2,01:03,(1:03) (No Huddle) D.Woodhead up the middle to SD 47 for 2 yards (C.Barwin).,1,3,35,SD 45,0,SD,
+17,3188,1,13:16,(13:16) (Shotgun) D.Woodhead left tackle to PHI 30 for 4 yards (B.Logan).,10,4,58,PHI 34,0,SD,
+17,2977,2,02:45,(2:45) R.Brown up the middle to SD 29 for 3 yards (C.Barwin; C.Thornton).,7,3,17,SD 26,0,SD,
+17,2794,0,04:42,"A.Henery kicks 70 yards from PHI 35 to SD -5. F.Whittaker to SD 22 for 27 yards (P.Chung). PENALTY on SD-B.Bird, Offensive Holding, 10 yards, enforced at SD 22.",0,3,37,PHI 35,0,PHI,KICKOFF
+17,2940,1,03:22,(3:22) (Shotgun) P.Rivers pass short right to R.Brown to SD 26 for 3 yards (C.Barwin).,10,3,14,SD 23,0,SD,
+16,2778,0,04:42,"A.Henery extra point is GOOD, Center-J.Dorenbos, Holder-D.Jones.",0,3,65,SD 2,1,PHI,XP
+16,2737,1,05:08,(5:08) (Shotgun) L.McCoy up the middle to PHI 39 for 4 yards (R.Walker).,10,3,65,PHI 35,0,PHI,
+16,2758,2,04:49,"(4:49) (No Huddle, Shotgun) M.Vick pass deep right to D.Jackson for 61 yards, TOUCHDOWN.",6,3,65,PHI 39,1,PHI,TD
+19,3835,0,03:11,"N.Novak extra point is GOOD, Center-M.Windt, Holder-M.Scifres.",0,4,39,PHI 2,1,SD,XP
+19,3770,2,04:35,(4:35) (Shotgun) P.Rivers pass short right to E.Royal to PHI 17 for 1 yard (P.Chung).,2,4,22,PHI 18,0,SD,
+19,3749,1,05:12,(5:12) (Shotgun) D.Woodhead right guard to PHI 18 for 8 yards (N.Allen).,10,4,21,PHI 26,0,SD,
+19,3794,3,04:01,(4:01) R.Mathews right tackle to PHI 15 for 2 yards (D.Ryans).,1,4,24,PHI 17,0,SD,
+19,3680,1,06:53,(6:53) (Shotgun) P.Rivers pass short middle to E.Royal to PHI 33 for 6 yards (N.Allen).,10,4,6,PHI 39,0,SD,
+19,3815,1,03:17,"(3:17) (Shotgun) P.Rivers pass short left to E.Royal for 15 yards, TOUCHDOWN.",10,4,39,PHI 15,1,SD,TD
+19,3647,0,07:06,"A.Henery kicks 69 yards from PHI 20 to SD 11. F.Whittaker to SD 39 for 28 yards (C.Anderson). FUMBLES (C.Anderson), recovered by SD-D.Stuckey at PHI 41. D.Stuckey to PHI 39 for 2 yards (E.Wolff).",0,4,7,PHI 20,0,PHI,FUMBLE
+19,3725,3,05:48,(5:48) (Shotgun) P.Rivers pass short left to A.Gates to PHI 26 for 6 yards (M.Kendricks; N.Allen).,3,4,13,PHI 32,0,SD,
+19,3704,2,06:26,(6:26) (Shotgun) R.Mathews right tackle to PHI 32 for 1 yard (C.Thornton).,4,4,7,PHI 33,0,SD,
+18,3390,2,10:37,(10:37) (Shotgun) M.Vick right end to PHI 32 for 8 yards (M.Gilchrist).,10,4,8,PHI 24,0,PHI,
+18,3477,1,08:57,(8:57) (Shotgun) M.Vick pass short middle to J.Avant to SD 32 for 21 yards (D.Cox).,10,4,44,PHI 47,0,PHI,
+18,3456,2,09:15,"(9:15) (No Huddle, Shotgun) M.Vick left end ran ob at PHI 47 for 9 yards.",6,4,23,PHI 38,0,PHI,
+18,3594,3,07:13,"(7:13) (No Huddle, Shotgun) M.Vick left end for 2 yards, TOUCHDOWN. PENALTY on PHI-D.Jackson, Unnecessary Roughness, 15 yards, enforced between downs.",2,4,76,SD 2,1,PHI,TD
+18,3501,1,08:23,"(8:23) (Shotgun) PENALTY on PHI-B.Brown, False Start, 5 yards, enforced at SD 32 - No Play.",10,4,39,SD 32,0,PHI,PENALTY
+18,3432,1,09:44,(9:44) (Shotgun) M.Vick pass short left to L.McCoy to PHI 38 for 4 yards (C.Liuget).,10,4,66,PHI 34,0,PHI,
+18,3346,0,10:47,N.Novak kicks 71 yards from SD 35 to PHI -6. D.Johnson to PHI 24 for 30 yards (J.Patrick).,0,4,0,SD 35,0,SD,KICKOFF
+18,3570,2,07:43,(7:43) (Shotgun) M.Vick pass short right to L.McCoy to SD 2 for 8 yards (E.Weddle).,10,4,74,SD 10,0,PHI,
+18,3611,0,07:06,"A.Henery extra point is GOOD, Center-J.Dorenbos, Holder-D.Jones.",0,4,61,SD 2,1,PHI,XP
+18,3524,1,08:02,(8:02) (Shotgun) M.Vick pass short right to Z.Ertz pushed ob at SD 10 for 27 yards (S.Wright).,15,4,66,SD 37,0,PHI,
+18,3411,3,10:14,"(10:14) (No Huddle, Shotgun) L.McCoy up the middle to PHI 34 for 2 yards (K.Reyes).",2,4,39,PHI 32,0,PHI,
+18,3368,1,10:42,(10:42) M.Vick pass incomplete deep right to D.Jackson (D.Freeney).,10,4,0,PHI 24,0,PHI,
+18,3548,1,07:49,"(7:49) (No Huddle, Shotgun) M.Vick pass incomplete short left.",10,4,66,SD 10,0,PHI,

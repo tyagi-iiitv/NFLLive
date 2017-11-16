@@ -1,180 +1,180 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1860,2,01:10,,11,2,22,SF 26,0,SF,
-9,1898,3,01:03,,7,2,37,SF 30,0,SF,
-9,2009,1,00:20,,10,2,73,SEA 29,0,SF,
-9,1881,0,01:03,,0,2,22,,0,,TIMEOUT
-9,1985,3,00:42,,1,2,63,SEA 46,0,SF,
-9,1836,1,01:33,,10,2,18,SF 27,0,SF,
-9,1807,1,01:40,,10,2,19,SF 8,0,SF,
-9,2035,1,00:13,,10,2,92,SEA 19,1,SF,TD
-9,1946,0,00:48,,0,2,46,,0,,TIMEOUT
-9,2055,0,00:09,,0,2,92,SEA 15,1,SF,XP
-9,1963,2,00:48,,1,2,46,SEA 46,0,SF,
-9,1922,1,00:56,,10,2,46,SF 45,0,SF,
-10,2107,0,,,0,2,-1,,0,,
-10,2086,1,00:09,,10,2,-1,SEA 20,0,SEA,
-10,2071,0,00:09,,0,2,0,SF 35,0,SF,KICKOFF
-20,3823,2,03:20,,10,4,2,SF 9,0,SF,
-20,3801,1,03:27,,10,4,0,SF 9,0,SF,
-20,3871,4,03:09,,8,4,2,SF 11,0,SF,PUNT
-20,3849,3,03:14,,8,4,2,SF 11,0,SF,
-6,1160,2,10:56,,3,2,60,SF 33,0,SEA,
-6,1268,2,07:59,,6,2,80,SF 7,0,SEA,
-6,1202,1,09:42,,10,2,73,SF 23,0,SEA,
-6,1289,3,07:21,,10,2,91,SF 11,1,SEA,TD
-6,1094,2,12:56,,1,2,34,SEA 36,0,SEA,
-6,1070,1,13:31,,10,2,27,SEA 27,0,SEA,
-6,1007,2,14:16,,6,2,-2,SEA 13,0,SEA,PENALTY
-6,1136,1,11:28,,10,2,58,SF 40,0,SEA,
-6,1181,3,10:19,,1,2,68,SF 31,0,SEA,
-6,1309,0,07:15,,0,2,91,SF 15,1,SEA,XP
-6,1044,2,13:57,,12,2,58,SEA 7,0,SEA,
-6,986,1,14:52,,10,2,4,SEA 9,0,SEA,
-6,1115,1,12:15,,10,2,51,SEA 43,0,SEA,
-6,1247,1,08:38,,10,2,84,SF 11,0,SEA,
-6,1223,2,09:05,,5,2,80,SF 18,0,SEA,
-18,3634,3,06:27,,3,4,13,SF 35,0,SF,
-18,3608,2,06:55,,10,4,23,SF 28,0,SF,
-18,3562,1,07:34,,10,4,16,SF 12,0,SF,
-18,3586,1,06:59,,10,4,16,SF 28,0,SF,
-18,3653,4,05:45,,13,4,13,SF 25,0,SF,PUNT
-1,135,4,13:05,,10,1,0,SF 20,0,SF,PUNT
-1,93,3,13:51,,8,1,7,SF 22,0,SF,PENALTY
-1,36,0,15:00,,0,1,0,SEA 35,0,SEA,KICKOFF
-1,72,2,14:29,,8,1,0,SF 22,0,SF,FUMBLE
-1,116,3,13:40,,3,1,0,SF 27,0,SF,
-1,51,1,15:00,,10,1,2,SF 20,0,SF,
-5,862,1,01:07,,10,1,23,SF 30,0,SF,
-5,795,2,02:25,,4,1,11,SF 13,0,SF,
-5,715,0,03:04,,0,1,32,SEA 35,0,SEA,KICKOFF
-5,816,1,01:48,,10,1,11,SF 18,0,SF,
-5,748,1,02:58,,10,1,5,SF 7,0,SF,PENALTY
-5,771,1,02:58,,5,1,6,SF 12,0,SF,
-5,959,4,15:00,,1,2,32,SF 39,0,SF,PUNT
-5,908,3,00:24,,10,1,32,SF 30,0,SF,
-5,939,0,,,0,1,32,,0,,
-5,838,2,01:41,,10,1,23,SF 18,0,SF,
-5,884,2,01:01,,10,1,23,SF 30,0,SF,
-13,2419,0,09:44,,0,3,0,SF 35,0,SF,KICKOFF
-13,2509,1,08:10,,10,3,43,SF 37,0,SEA,
-13,2620,3,05:44,,8,3,65,SF 17,0,SEA,
-13,2483,1,08:42,,10,3,43,SEA 33,0,SEA,
-13,2644,4,05:04,,6,3,65,SF 15,1,SEA,FG
-13,2555,1,07:22,,10,3,64,SF 19,0,SEA,
-13,2438,1,09:44,,10,3,5,SEA 20,0,SEA,
-13,2459,2,09:10,,5,3,13,SEA 25,0,SEA,
-13,2576,2,06:44,,7,3,68,SF 16,0,SEA,
-13,2597,3,06:19,,3,3,63,SF 12,0,SEA,PENALTY
-13,2531,2,08:02,,10,3,61,SF 37,0,SEA,
-21,3994,3,02:06,,8,4,34,SF 32,0,SEA,
-21,3939,0,02:12,,0,4,22,,0,,TIMEOUT
-21,3897,1,03:00,,10,4,22,SEA 44,0,SEA,
-21,3956,2,02:12,,10,4,24,SF 34,0,SEA,
-21,4095,0,00:00,,0,4,31,,0,,
-21,4053,2,01:19,,11,4,32,SF 23,0,SEA,
-21,4032,1,02:00,,10,4,33,SF 22,0,SEA,
-21,3918,1,02:17,,10,4,22,SF 34,0,SEA,
-21,4074,3,00:38,,12,4,31,SF 24,0,SEA,
-21,4015,0,02:00,,0,4,34,,0,,
-21,3977,0,02:06,,0,4,24,,0,,TIMEOUT
-11,2142,1,15:00,,10,3,-3,SEA 20,0,SEA,
-11,2123,0,15:00,,0,3,0,SF 35,0,SF,KICKOFF
-11,2193,3,13:57,,11,3,8,SEA 19,0,SEA,
-11,2217,4,13:22,,2,3,8,SEA 28,0,SEA,PUNT
-11,2172,2,14:37,,13,3,-1,SEA 17,0,SEA,
-14,2883,2,00:58,,5,3,61,SEA 5,0,SF,PENALTY
-14,2693,1,04:54,,10,3,4,SF 29,0,SF,
-14,2906,2,00:37,,10,3,61,SEA 10,0,SF,
-14,2715,2,04:14,,6,3,-6,SF 33,0,SF,PENALTY
-14,2862,1,01:40,,7,3,66,SEA 7,0,SF,
-14,2792,2,02:38,,12,3,53,SF 46,0,SF,
-14,2838,2,02:02,,10,3,64,SEA 18,0,SF,
-14,2928,3,00:33,,10,3,64,SEA 10,0,SF,
-14,2771,1,03:13,,10,3,17,SF 48,0,SF,
-14,2747,2,03:48,,16,3,19,SF 23,0,SF,
-14,2663,0,05:01,,0,3,0,SEA 35,0,SEA,FUMBLE
-14,2816,1,02:06,,10,3,64,SEA 18,0,SF,
-14,2952,4,00:10,,7,3,64,SEA 7,1,SF,FG
-8,1451,1,05:54,,10,2,5,SEA 40,0,SEA,
-8,1698,2,02:13,,12,2,17,SF 39,0,SEA,
-8,1734,3,02:00,,16,2,23,SF 43,0,SEA,
-8,1617,2,03:43,,3,2,23,SF 42,0,SEA,
-8,1638,1,03:07,,10,2,13,SF 37,0,SEA,PENALTY
-8,1674,1,02:38,,20,2,21,SF 47,0,SEA,
-8,1787,4,01:50,,11,2,22,SF 38,0,SEA,PUNT
-8,1529,3,04:35,,9,2,23,SEA 41,0,SEA,TIMEOUT
-8,1717,0,02:00,,0,2,17,,0,,
-8,1593,1,04:20,,10,2,18,SF 49,0,SEA,
-8,1476,2,05:21,,5,2,-5,SEA 45,0,SEA,PENALTY
-8,1760,4,01:50,,11,2,23,SF 38,0,SEA,
-8,1508,2,05:01,,15,2,1,SEA 35,0,SEA,
-19,3694,1,04:53,,10,4,17,SEA 44,0,SEA,
-19,3764,0,03:34,,0,4,20,,0,,TIMEOUT
-19,3718,2,04:23,,4,4,20,50,0,SEA,
-19,3743,3,03:40,,1,4,20,SF 47,0,SEA,
-19,3781,4,03:34,,1,4,20,SF 47,0,SEA,PUNT
-19,3673,1,05:34,,10,4,11,SEA 33,0,SEA,
-12,2288,1,12:03,,10,3,40,SEA 28,0,SF,
-12,2309,2,11:33,,7,3,49,SEA 25,0,SF,
-12,2264,2,12:40,,6,3,37,SF 39,0,SF,
-12,2354,2,10:16,,10,3,49,SEA 16,0,SF,
-12,2376,3,10:12,,10,3,56,SEA 16,0,SF,
-12,2400,4,09:47,,3,3,56,SEA 9,1,SF,FG
-12,2330,1,10:52,,10,3,49,SEA 16,0,SF,
-12,2243,1,13:11,,10,3,4,SF 35,0,SF,
-16,3207,0,12:32,,0,4,0,SEA 35,0,SEA,KICKOFF
-16,3222,1,12:32,,10,4,28,SF 20,0,SF,
-16,3313,4,10:42,,12,4,26,SF 46,0,SF,PUNT
-16,3270,2,11:22,,10,4,26,SF 48,0,SF,
-16,3246,1,11:55,,10,4,28,SF 48,0,SF,
-16,3291,3,10:46,,12,4,26,SF 46,0,SF,
-7,1325,0,07:15,,0,2,0,SEA 35,0,SEA,KICKOFF
-7,1368,2,06:45,,6,2,7,SF 24,0,SF,
-7,1347,1,07:10,,10,2,4,SF 20,0,SF,
-7,1414,4,06:02,,3,2,7,SF 27,0,SF,PUNT
-7,1392,3,06:09,,3,2,7,SF 27,0,SF,
-3,331,0,09:55,,0,1,0,SEA 35,0,SEA,KICKOFF
-3,444,4,08:36,,6,1,4,SF 22,0,SF,PUNT
-3,422,3,08:41,,6,1,4,SF 22,0,SF,
-3,377,1,09:50,,15,1,2,SF 13,0,SF,
-3,354,1,09:50,,10,1,-5,SF 18,0,SF,PENALTY
-3,398,2,09:21,,8,1,4,SF 20,0,SF,
-17,3353,1,09:56,,10,4,21,SEA 32,0,SEA,
-17,3377,2,09:21,,7,4,31,SEA 35,0,SEA,
-17,3483,3,07:47,,10,4,36,50,0,SEA,
-17,3462,2,08:27,,10,4,36,50,0,SEA,
-17,3440,1,08:33,,10,4,36,50,0,SEA,
-17,3505,4,07:41,,10,4,31,50,0,SEA,PENALTY
-17,3332,1,10:36,,10,4,18,SEA 14,0,SEA,
-17,3401,3,08:59,,2,4,36,SEA 40,0,SEA,
-17,3532,4,07:41,,15,4,31,SEA 45,0,SEA,PUNT
-4,616,2,04:54,,2,1,40,SF 27,0,SEA,
-4,506,3,07:21,,1,1,11,50,0,SEA,
-4,682,1,03:09,,2,1,59,SF 2,1,SEA,TD
-4,464,1,08:29,,10,1,8,SEA 41,0,SEA,
-4,595,1,05:21,,10,1,32,SF 35,0,SEA,
-4,549,2,06:09,,6,1,15,SF 44,0,SEA,
-4,571,3,06:00,,6,1,24,SF 44,0,SEA,
-4,658,2,03:37,,3,1,57,SF 12,0,SEA,
-4,637,1,04:17,,10,1,47,SF 19,0,SEA,
-4,527,1,06:40,,10,1,59,SF 48,0,SEA,
-4,485,2,08:03,,2,1,9,SEA 49,0,SEA,
-4,699,0,03:04,,0,1,59,SF 15,0,SEA,XPM
-2,274,2,10:38,,1,1,37,SF 29,0,SEA,
-2,295,1,10:01,,10,1,61,SF 24,1,SEA,TD
-2,182,2,12:28,,7,1,61,SEA 42,0,SEA,
-2,161,1,12:53,,10,1,61,SEA 39,0,SEA,
-2,229,1,11:51,,10,1,23,50,0,SEA,
-2,253,1,11:21,,10,1,32,SF 38,0,SEA,
-2,315,0,09:55,,0,1,61,SF 15,1,SEA,XP
-15,3190,0,12:32,,0,4,80,SF 15,0,SEA,XPB
-15,3096,1,13:55,,10,4,23,SEA 43,0,SEA,
-15,3118,2,13:49,,10,4,44,SEA 43,0,SEA,
-15,3142,1,13:08,,10,4,49,SF 36,0,SEA,
-15,3170,2,12:41,,5,4,80,SF 31,1,SEA,TD
-15,3072,3,14:25,,7,4,23,SEA 23,0,SEA,
-15,3025,2,15:00,,7,4,-2,SEA 23,0,SEA,PENALTY
-15,3048,2,15:00,,12,4,3,SEA 18,0,SEA,
-15,2972,0,00:07,,0,3,0,SF 35,0,SF,KICKOFF
-15,2988,1,00:07,,10,3,3,SEA 20,0,SEA,
-15,3009,0,,,0,3,3,,0,,
+20,3849,3,03:14,(3:14) (Shotgun) B.Gabbert pass incomplete short left to A.Boldin (M.Burley).,8,4,2,SF 11,0,SF,
+20,3823,2,03:20,(3:20) (Shotgun) B.Gabbert scrambles right end ran ob at SF 11 for 2 yards (C.Marsh).,10,4,2,SF 9,0,SF,
+20,3801,1,03:27,(3:27) (Shotgun) B.Gabbert pass incomplete short left.,10,4,0,SF 9,0,SF,
+20,3871,4,03:09,"(3:09) B.Pinion punts 42 yards to SEA 47, Center-K.Nelson. T.Lockett to SEA 44 for -3 yards (Q.Patton).",8,4,2,SF 11,0,SF,PUNT
+21,3939,0,02:12,Timeout #2 by SF at 02:12.,0,4,22,,0,,TIMEOUT
+21,4095,0,00:00,END GAME,0,4,31,,0,,
+21,4074,3,00:38,(:38) R.Wilson kneels to SF 25 for -1 yards.,12,4,31,SF 24,0,SEA,
+21,3956,2,02:12,(2:12) (Shotgun) T.Rawls left tackle to SF 32 for 2 yards (A.Brooks; I.Williams).,10,4,24,SF 34,0,SEA,
+21,4015,0,02:00,Two-Minute Warning,0,4,34,,0,,
+21,3918,1,02:17,(2:17) T.Rawls left guard to SF 34 for no gain (I.Williams).,10,4,22,SF 34,0,SEA,
+21,4032,1,02:00,(2:00) R.Wilson kneels to SF 23 for -1 yards.,10,4,33,SF 22,0,SEA,
+21,3977,0,02:06,Timeout #3 by SF at 02:06.,0,4,24,,0,,TIMEOUT
+21,4053,2,01:19,(1:19) R.Wilson kneels to SF 24 for -1 yards.,11,4,32,SF 23,0,SEA,
+21,3994,3,02:06,(2:06) (Shotgun) T.Rawls left tackle to SF 22 for 10 yards (J.Tartt).,8,4,34,SF 32,0,SEA,
+21,3897,1,03:00,(3:00) (Shotgun) T.Rawls left guard to SF 34 for 22 yards (J.Ward).,10,4,22,SEA 44,0,SEA,
+1,51,1,15:00,(15:00) S.Draughn left guard to SF 22 for 2 yards (K.Chancellor).,10,1,2,SF 20,0,SF,
+1,36,0,15:00,"S.Hauschka kicks 65 yards from SEA 35 to end zone, Touchback.",0,1,0,SEA 35,0,SEA,KICKOFF
+1,116,3,13:40,(13:40) (Shotgun) B.Gabbert sacked at SF 20 for -7 yards (C.Avril).,3,1,0,SF 27,0,SF,
+1,72,2,14:29,"(14:29) S.Draughn left tackle to SF 22 for no gain (K.Wright). FUMBLES (K.Wright), and recovers at SF 22. S.Draughn to SF 22 for no gain (K.Wright).",8,1,0,SF 22,0,SF,FUMBLE
+1,135,4,13:05,"(13:05) B.Pinion punts 45 yards to SEA 35, Center-K.Nelson. T.Lockett to SEA 39 for 4 yards (K.Nelson).",10,1,0,SF 20,0,SF,PUNT
+1,93,3,13:51,"(13:51) (Shotgun) PENALTY on SEA-C.Avril, Neutral Zone Infraction, 5 yards, enforced at SF 22 - No Play.",8,1,7,SF 22,0,SF,PENALTY
+3,398,2,09:21,(9:21) B.Gabbert pass short right to G.Celek to SF 22 for 2 yards (A.Rubin; K.Wright) [C.Avril].,8,1,4,SF 20,0,SF,
+3,331,0,09:55,S.Hauschka kicks 70 yards from SEA 35 to SF -5. B.Ellington to SF 18 for 23 yards (K.Pierre-Louis).,0,1,0,SEA 35,0,SEA,KICKOFF
+3,444,4,08:36,"(8:36) B.Pinion punts 37 yards to SEA 41, Center-K.Nelson, fair catch by T.Lockett.",6,1,4,SF 22,0,SF,PUNT
+3,354,1,09:50,"(9:50) PENALTY on SF-M.Martin, False Start, 5 yards, enforced at SF 18 - No Play.",10,1,-5,SF 18,0,SF,PENALTY
+3,422,3,08:41,(8:41) (Shotgun) B.Gabbert pass incomplete deep left to T.Smith.,6,1,4,SF 22,0,SF,
+3,377,1,09:50,(9:50) S.Draughn up the middle to SF 20 for 7 yards (R.Sherman; E.Thomas).,15,1,2,SF 13,0,SF,
+2,315,0,09:55,"S.Hauschka extra point is GOOD, Center-C.Gresham, Holder-J.Ryan.",0,1,61,SF 15,1,SEA,XP
+2,182,2,12:28,(12:28) (Shotgun) R.Wilson pass short right to D.Baldwin to 50 for 8 yards (T.Brock).,7,1,61,SEA 42,0,SEA,
+2,274,2,10:38,(10:38) T.Rawls left tackle to SF 24 for 5 yards (K.Acker).,1,1,37,SF 29,0,SEA,
+2,229,1,11:51,(11:51) (Shotgun) R.Wilson pass short right to T.Rawls to SF 38 for 12 yards (T.Brock).,10,1,23,50,0,SEA,
+2,253,1,11:21,(11:21) T.Rawls left end to SF 29 for 9 yards (M.Wilhoite; I.Williams).,10,1,32,SF 38,0,SEA,
+2,295,1,10:01,"(10:01) (Shotgun) R.Wilson pass deep right to T.Lockett for 24 yards, TOUCHDOWN.",10,1,61,SF 24,1,SEA,TD
+2,161,1,12:53,(12:53) T.Rawls left tackle to SEA 42 for 3 yards (N.Bowman; M.Wilhoite). SF-G.Dorsey was injured during the play. His return is Questionable.,10,1,61,SEA 39,0,SEA,
+5,959,4,15:00,"(15:00) B.Pinion punts 52 yards to SEA 9, Center-K.Nelson. T.Lockett ran ob at SEA 9 for no gain.",1,2,32,SF 39,0,SF,PUNT
+5,795,2,02:25,(2:25) S.Draughn right tackle to SF 18 for 5 yards (D.Dobbs).,4,1,11,SF 13,0,SF,
+5,771,1,02:58,(2:58) (Shotgun) B.Gabbert pass short middle to S.Draughn to SF 13 for 1 yard (B.Wagner).,5,1,6,SF 12,0,SF,
+5,884,2,01:01,(1:01) B.Gabbert pass short left to Q.Patton to SF 30 for no gain (B.Wagner; M.Morgan).,10,1,23,SF 30,0,SF,
+5,748,1,02:58,"(2:58) (Shotgun) PENALTY on SEA-B.Mebane, Encroachment, 5 yards, enforced at SF 7 - No Play.",10,1,5,SF 7,0,SF,PENALTY
+5,715,0,03:04,"S.Hauschka kicks 70 yards from SEA 35 to SF -5. B.Ellington to SF 14 for 19 yards (D.Coleman). PENALTY on SF-J.Ward, Illegal Block Above the Waist, 7 yards, enforced at SF 14.",0,1,32,SEA 35,0,SEA,KICKOFF
+5,862,1,01:07,(1:07) B.Gabbert pass incomplete deep right to G.Celek.,10,1,23,SF 30,0,SF,
+5,939,0,,END QUARTER 1,0,1,32,,0,,
+5,908,3,00:24,(:24) (Shotgun) B.Gabbert pass short left to S.Draughn pushed ob at SF 39 for 9 yards (C.Williams).,10,1,32,SF 30,0,SF,
+5,838,2,01:41,(1:41) (Shotgun) B.Gabbert pass short left to A.Boldin to SF 30 for 12 yards (D.Shead).,10,1,23,SF 18,0,SF,
+5,816,1,01:48,(1:48) B.Gabbert pass incomplete deep middle to B.Ellington (E.Thomas) [C.Avril].,10,1,11,SF 18,0,SF,
+4,595,1,05:21,(5:21) (Shotgun) R.Wilson scrambles left end ran ob at SF 27 for 8 yards (K.Acker).,10,1,32,SF 35,0,SEA,
+4,637,1,04:17,(4:17) (Shotgun) R.Wilson left tackle to SF 12 for 7 yards (E.Reid).,10,1,47,SF 19,0,SEA,
+4,464,1,08:29,(8:29) (Shotgun) R.Wilson scrambles right end ran ob at SEA 49 for 8 yards (A.Brooks).,10,1,8,SEA 41,0,SEA,
+4,571,3,06:00,(6:00) (Shotgun) R.Wilson pass short middle to J.Graham to SF 35 for 9 yards (J.Tartt).,6,1,24,SF 44,0,SEA,
+4,699,0,03:04,"S.Hauschka extra point is No Good, Wide Right, Center-C.Gresham, Holder-J.Ryan.",0,1,59,SF 15,0,SEA,XPM
+4,616,2,04:54,(4:54) (Shotgun) T.Rawls right tackle to SF 19 for 8 yards (M.Wilhoite).,2,1,40,SF 27,0,SEA,
+4,527,1,06:40,(6:40) T.Rawls left tackle to SF 44 for 4 yards (M.Wilhoite).,10,1,59,SF 48,0,SEA,
+4,506,3,07:21,(7:21) T.Rawls left guard to SF 48 for 2 yards (M.Wilhoite).,1,1,11,50,0,SEA,
+4,485,2,08:03,(8:03) (Shotgun) T.Rawls left tackle to 50 for 1 yard (A.Armstead).,2,1,9,SEA 49,0,SEA,
+4,549,2,06:09,(6:09) R.Wilson pass incomplete short right to J.Kearse.,6,1,15,SF 44,0,SEA,
+4,658,2,03:37,(3:37) R.Wilson pass short right to D.Baldwin to SF 2 for 10 yards (E.Reid).,3,1,57,SF 12,0,SEA,
+4,682,1,03:09,"(3:09) T.Rawls right guard for 2 yards, TOUCHDOWN.",2,1,59,SF 2,1,SEA,TD
+7,1347,1,07:10,(7:10) S.Draughn left tackle to SF 24 for 4 yards (M.Bennett; K.Wright).,10,2,4,SF 20,0,SF,
+7,1414,4,06:02,"(6:02) B.Pinion punts 48 yards to SEA 25, Center-K.Nelson. T.Lockett to SEA 25 for no gain (Q.Patton). SEA-N.Moody was injured during the play. His return is Questionable.  PENALTY on SF-Q.Patton, Unnecessary Roughness, 15 yards, enforced at SEA 25.",3,2,7,SF 27,0,SF,PUNT
+7,1392,3,06:09,(6:09) B.Gabbert pass incomplete deep left to B.Ellington (R.Sherman).,3,2,7,SF 27,0,SF,
+7,1368,2,06:45,"(6:45) (No Huddle, Shotgun) B.Gabbert pass short left to V.McDonald to SF 27 for 3 yards (M.Morgan).",6,2,7,SF 24,0,SF,
+7,1325,0,07:15,S.Hauschka kicks 66 yards from SEA 35 to SF -1. B.Ellington to SF 20 for 21 yards (C.Marsh).,0,2,0,SEA 35,0,SEA,KICKOFF
+6,1094,2,12:56,(12:56) T.Rawls right tackle to SEA 43 for 7 yards (K.Acker; E.Reid).,1,2,34,SEA 36,0,SEA,
+6,1268,2,07:59,(7:59) T.Rawls up the middle to SF 11 for -4 yards (A.Lynch).,6,2,80,SF 7,0,SEA,
+6,1160,2,10:56,(10:56) (Shotgun) F.Jackson up the middle to SF 31 for 2 yards (A.Armstead; N.Bowman).,3,2,60,SF 33,0,SEA,
+6,1044,2,13:57,(13:57) (Shotgun) T.Rawls right end pushed ob at SEA 27 for 20 yards (E.Reid).,12,2,58,SEA 7,0,SEA,
+6,1289,3,07:21,"(7:21) (Shotgun) R.Wilson pass short middle to T.Lockett for 11 yards, TOUCHDOWN [A.Lynch].",10,2,91,SF 11,1,SEA,TD
+6,986,1,14:52,(14:52) (Shotgun) T.Rawls left guard to SEA 13 for 4 yards (M.Purcell).,10,2,4,SEA 9,0,SEA,
+6,1136,1,11:28,(11:28) (Shotgun) R.Wilson pass short middle to J.Kearse to SF 33 for 7 yards (E.Reid).,10,2,58,SF 40,0,SEA,
+6,1070,1,13:31,(13:31) R.Wilson pass short left to F.Jackson to SEA 36 for 9 yards (E.Reid; M.Wilhoite) [A.Armstead].,10,2,27,SEA 27,0,SEA,
+6,1181,3,10:19,(10:19) (Shotgun) T.Rawls up the middle to SF 23 for 8 yards (M.Wilhoite; N.Bowman).,1,2,68,SF 31,0,SEA,
+6,1115,1,12:15,(12:15) T.Rawls left guard to SF 40 for 17 yards (K.Acker).,10,2,51,SEA 43,0,SEA,
+6,1247,1,08:38,"(8:38) (No Huddle, Shotgun) F.Jackson right guard to SF 7 for 4 yards (A.Lynch; M.Purcell).",10,2,84,SF 11,0,SEA,
+6,1007,2,14:16,"(14:16) (Shotgun) R.Wilson pass short left to J.Graham pushed ob at SEA 15 for 2 yards (K.Acker). PENALTY on SEA-G.Gilliam, Unnecessary Roughness, 6 yards, enforced at SEA 13 - No Play.",6,2,-2,SEA 13,0,SEA,PENALTY
+6,1223,2,09:05,(9:05) (Shotgun) R.Wilson pass short right to D.Baldwin to SF 11 for 7 yards (J.Ward).,5,2,80,SF 18,0,SEA,
+6,1202,1,09:42,(9:42) T.Rawls right guard to SF 18 for 5 yards (M.Purcell).,10,2,73,SF 23,0,SEA,
+6,1309,0,07:15,"S.Hauschka extra point is GOOD, Center-C.Gresham, Holder-J.Ryan.",0,2,91,SF 15,1,SEA,XP
+9,1807,1,01:40,(1:40) (Shotgun) B.Gabbert pass short right to S.Draughn ran ob at SF 27 for 19 yards (D.Dobbs) [K.Pierre-Louis].,10,2,19,SF 8,0,SF,
+9,1985,3,00:42,(:42) (Shotgun) B.Gabbert pass short middle to A.Boldin to SEA 29 for 17 yards (K.Wright; E.Thomas).,1,2,63,SEA 46,0,SF,
+9,1836,1,01:33,"(1:33) (No Huddle, Shotgun) B.Gabbert pass short right to S.Draughn to SF 26 for -1 yards (K.Chancellor).",10,2,18,SF 27,0,SF,
+9,1946,0,00:48,Timeout #2 by SF at 00:48.,0,2,46,,0,,TIMEOUT
+9,2035,1,00:13,"(:13) (Shotgun) B.Gabbert pass short middle to V.McDonald for 19 yards, TOUCHDOWN.",10,2,92,SEA 19,1,SF,TD
+9,1963,2,00:48,(:48) (Shotgun) B.Gabbert pass incomplete short left to S.Draughn (B.Wagner) [F.Clark].,1,2,46,SEA 46,0,SF,
+9,1860,2,01:10,"(1:10) (No Huddle, Shotgun) S.Draughn up the middle to SF 30 for 4 yards (B.Wagner; J.Hill).",11,2,22,SF 26,0,SF,
+9,1922,1,00:56,(:56) (Shotgun) B.Gabbert pass short left to S.Draughn to SEA 46 for 9 yards (B.Wagner; K.Wright).,10,2,46,SF 45,0,SF,
+9,1898,3,01:03,(1:03) (Shotgun) B.Gabbert pass short left to Q.Patton to SF 45 for 15 yards (C.Williams) [M.Bennett].,7,2,37,SF 30,0,SF,
+9,2055,0,00:09,"P.Dawson extra point is GOOD, Center-K.Nelson, Holder-B.Pinion.",0,2,92,SEA 15,1,SF,XP
+9,2009,1,00:20,"(:20) (No Huddle, Shotgun) B.Gabbert scrambles right end ran ob at SEA 19 for 10 yards (K.Chancellor).",10,2,73,SEA 29,0,SF,
+9,1881,0,01:03,Timeout #1 by SEA at 01:03.,0,2,22,,0,,TIMEOUT
+8,1717,0,02:00,Two-Minute Warning,0,2,17,,0,,
+8,1638,1,03:07,"(3:07) F.Jackson right guard to SF 26 for 11 yards (E.Reid; T.Brock). PENALTY on SEA-J.Sweezy, Offensive Holding, 10 yards, enforced at SF 37 - No Play.",10,2,13,SF 37,0,SEA,PENALTY
+8,1617,2,03:43,(3:43) F.Jackson right tackle to SF 37 for 5 yards (T.Brock; A.Armstead).,3,2,23,SF 42,0,SEA,
+8,1734,3,02:00,(2:00) (Shotgun) R.Wilson scrambles left end pushed ob at SF 38 for 5 yards (T.Jerod-Eddie).,16,2,23,SF 43,0,SEA,
+8,1787,4,01:50,"(1:50) J.Ryan punts 30 yards to SF 8, Center-C.Gresham, downed by SEA-D.Shead.",11,2,22,SF 38,0,SEA,PUNT
+8,1760,4,01:50,"(1:50) (Punt formation) Penalty on SEA-J.Ryan, Delay of Game, declined. Seattle players on sideline - not in formation.",11,2,23,SF 38,0,SEA,
+8,1476,2,05:21,"(5:21) T.Rawls right end to SEA 45 for no gain (N.Bowman). PENALTY on SEA-J.Graham, Offensive Holding, 10 yards, enforced at SEA 45 - No Play.",5,2,-5,SEA 45,0,SEA,PENALTY
+8,1451,1,05:54,(5:54) T.Rawls right tackle to SEA 45 for 5 yards (I.Williams; A.Armstead).,10,2,5,SEA 40,0,SEA,
+8,1593,1,04:20,(4:20) R.Wilson pass short left to C.Helfet to SF 42 for 7 yards (J.Tartt; Q.Dial).,10,2,18,SF 49,0,SEA,
+8,1674,1,02:38,(2:38) (Shotgun) R.Wilson pass short left to T.Lockett to SF 39 for 8 yards (M.Cromartie).,20,2,21,SF 47,0,SEA,
+8,1508,2,05:01,(5:01) (Shotgun) R.Wilson scrambles left end ran ob at SEA 41 for 6 yards (C.Lemonier).,15,2,1,SEA 35,0,SEA,
+8,1529,3,04:35,"(4:35) (Shotgun) R.Wilson pass short right to L.Willson pushed ob at SF 49 for 10 yards (J.Ward). SF-T.Jerod-Eddie was injured during the play.  San Francisco challenged the runner was down by contact ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",9,2,23,SEA 41,0,SEA,TIMEOUT
+8,1698,2,02:13,(2:13) R.Wilson sacked at SF 43 for -4 yards (A.Brooks).,12,2,17,SF 39,0,SEA,
+11,2172,2,14:37,(14:37) (Shotgun) T.Rawls left tackle to SEA 19 for 2 yards (J.Tartt; Q.Dial).,13,3,-1,SEA 17,0,SEA,
+11,2123,0,15:00,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback.",0,3,0,SF 35,0,SF,KICKOFF
+11,2193,3,13:57,(13:57) (Shotgun) R.Wilson pass short right to J.Kearse to SEA 28 for 9 yards (D.Johnson).,11,3,8,SEA 19,0,SEA,
+11,2217,4,13:22,"(13:22) J.Ryan punts 43 yards to SF 29, Center-C.Gresham. B.Ellington to SF 35 for 6 yards (K.Pierre-Louis).",2,3,8,SEA 28,0,SEA,PUNT
+11,2142,1,15:00,"(15:00) R.Wilson sacked at SEA 17 for -3 yards (sack split by A.Lynch and Q.Dial). Penalty on SEA-J.Britt, Offensive Holding, declined.",10,3,-3,SEA 20,0,SEA,
+10,2107,0,,END QUARTER 2,0,2,-1,,0,,
+10,2071,0,00:09,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback.",0,2,0,SF 35,0,SF,KICKOFF
+10,2086,1,00:09,(:09) R.Wilson kneels to SEA 19 for -1 yards.,10,2,-1,SEA 20,0,SEA,
+13,2620,3,05:44,(5:44) (Shotgun) R.Wilson pass short left to F.Jackson to SF 15 for 2 yards (J.Tartt).,8,3,65,SF 17,0,SEA,
+13,2438,1,09:44,(9:44) (Shotgun) T.Rawls up the middle to SEA 25 for 5 yards (J.Tartt).,10,3,5,SEA 20,0,SEA,
+13,2459,2,09:10,(9:10) (Shotgun) R.Wilson pass short right to D.Baldwin ran ob at SEA 33 for 8 yards (N.Bowman).,5,3,13,SEA 25,0,SEA,
+13,2555,1,07:22,(7:22) T.Rawls left guard to SF 16 for 3 yards (A.Armstead).,10,3,64,SF 19,0,SEA,
+13,2576,2,06:44,(6:44) T.Rawls right end to SF 12 for 4 yards (A.Armstead).,7,3,68,SF 16,0,SEA,
+13,2644,4,05:04,"(5:04) S.Hauschka 33 yard field goal is GOOD, Center-C.Gresham, Holder-J.Ryan.",6,3,65,SF 15,1,SEA,FG
+13,2483,1,08:42,(8:42) T.Rawls right tackle pushed ob at SF 37 for 30 yards (E.Reid).,10,3,43,SEA 33,0,SEA,
+13,2597,3,06:19,"(6:19) (Shotgun) PENALTY on SEA-R.Okung, False Start, 5 yards, enforced at SF 12 - No Play.",3,3,63,SF 12,0,SEA,PENALTY
+13,2509,1,08:10,(8:10) R.Wilson pass incomplete short right [A.Lynch].,10,3,43,SF 37,0,SEA,
+13,2419,0,09:44,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback.",0,3,0,SF 35,0,SF,KICKOFF
+13,2531,2,08:02,(8:02) (Shotgun) R.Wilson pass short middle to J.Kearse to SF 19 for 18 yards (T.Brock; E.Reid).,10,3,61,SF 37,0,SEA,
+12,2288,1,12:03,(12:03) B.Gabbert scrambles right end ran ob at SEA 25 for 3 yards (B.Wagner).,10,3,40,SEA 28,0,SF,
+12,2309,2,11:33,(11:33) S.Draughn left end to SEA 16 for 9 yards (R.Sherman; M.Morgan).,7,3,49,SEA 25,0,SF,
+12,2330,1,10:52,(10:52) B.Gabbert pass short right to S.Draughn to SEA 16 for no gain (M.Morgan).,10,3,49,SEA 16,0,SF,
+12,2264,2,12:40,(12:40) B.Gabbert pass deep left to G.Celek to SEA 28 for 33 yards (C.Williams; K.Chancellor).,6,3,37,SF 39,0,SF,
+12,2400,4,09:47,"(9:47) P.Dawson 27 yard field goal is GOOD, Center-K.Nelson, Holder-B.Pinion.",3,3,56,SEA 9,1,SF,FG
+12,2376,3,10:12,(10:12) B.Gabbert pass short right to V.McDonald ran ob at SEA 9 for 7 yards (C.Williams).,10,3,56,SEA 16,0,SF,
+12,2354,2,10:16,(10:16) (Shotgun) B.Gabbert pass incomplete short middle to T.Smith.,10,3,49,SEA 16,0,SF,
+12,2243,1,13:11,(13:11) S.Draughn left tackle to SF 39 for 4 yards (B.Wagner).,10,3,4,SF 35,0,SF,
+15,2988,1,00:07,(:07) (Shotgun) T.Rawls left tackle to SEA 23 for 3 yards (M.Wilhoite; Q.Dial).,10,3,3,SEA 20,0,SEA,
+15,3118,2,13:49,(13:49) (Shotgun) R.Wilson pass short left to D.Baldwin to SF 36 for 21 yards (J.Ward).,10,4,44,SEA 43,0,SEA,
+15,3025,2,15:00,"(15:00) (Shotgun) PENALTY on SEA-P.Lewis, False Start, 5 yards, enforced at SEA 23 - No Play.",7,4,-2,SEA 23,0,SEA,PENALTY
+15,3142,1,13:08,(13:08) (Shotgun) T.Lockett right end to SF 31 for 5 yards (T.Brock).,10,4,49,SF 36,0,SEA,
+15,3048,2,15:00,(15:00) (Shotgun) R.Wilson pass short right to L.Willson pushed ob at SEA 23 for 5 yards (N.Bowman).,12,4,3,SEA 18,0,SEA,
+15,3072,3,14:25,(14:25) (Shotgun) R.Wilson pass short middle to J.Graham to SEA 43 for 20 yards (N.Bowman; E.Reid).,7,4,23,SEA 23,0,SEA,
+15,3096,1,13:55,"(13:55) (No Huddle, Shotgun) R.Wilson pass incomplete short right [A.Lynch].",10,4,23,SEA 43,0,SEA,
+15,3190,0,12:32,"S.Hauschka extra point is Blocked (I.Williams), Center-C.Gresham, Holder-J.Ryan.",0,4,80,SF 15,0,SEA,XPB
+15,2972,0,00:07,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback.",0,3,0,SF 35,0,SF,KICKOFF
+15,3170,2,12:41,"(12:41) R.Wilson pass short left to T.Rawls for 31 yards, TOUCHDOWN.",5,4,80,SF 31,1,SEA,TD
+15,3009,0,,END QUARTER 3,0,3,3,,0,,
+14,2883,2,00:58,"(:58) PENALTY on SF-E.Pears, False Start, 5 yards, enforced at SEA 5 - No Play.",5,3,61,SEA 5,0,SF,PENALTY
+14,2862,1,01:40,(1:40) S.Draughn right tackle to SEA 5 for 2 yards (B.Wagner; D.Dobbs).,7,3,66,SEA 7,0,SF,
+14,2816,1,02:06,(2:06) (Shotgun) B.Gabbert pass incomplete short right to Q.Patton.,10,3,64,SEA 18,0,SF,
+14,2906,2,00:37,(:37) (Shotgun) B.Gabbert pass incomplete short right to S.Draughn (K.Wright).,10,3,61,SEA 10,0,SF,
+14,2715,2,04:14,"(4:14) (Shotgun) B.Gabbert scrambles right guard to SF 48 for 15 yards (E.Thomas). PENALTY on SF-A.Tiller, Offensive Holding, 10 yards, enforced at SF 33 - No Play.",6,3,-6,SF 33,0,SF,PENALTY
+14,2771,1,03:13,(3:13) S.Draughn left tackle to SF 46 for -2 yards (J.Hill; C.Avril).,10,3,17,SF 48,0,SF,
+14,2928,3,00:33,(:33) (Shotgun) B.Gabbert pass short right to S.Draughn pushed ob at SEA 7 for 3 yards (R.Sherman).,10,3,64,SEA 10,0,SF,
+14,2663,0,05:01,"S.Hauschka kicks 69 yards from SEA 35 to SF -4. B.Ellington to SF 29 for 33 yards (D.Shead). FUMBLES (D.Shead), ball out of bounds at SF 32.",0,3,0,SEA 35,0,SEA,FUMBLE
+14,2747,2,03:48,(3:48) B.Gabbert pass short right to A.Boldin to SF 48 for 25 yards (E.Thomas; C.Williams).,16,3,19,SF 23,0,SF,
+14,2838,2,02:02,(2:02) B.Gabbert pass short right to A.Boldin pushed ob at SEA 7 for 11 yards (D.Shead).,10,3,64,SEA 18,0,SF,
+14,2792,2,02:38,(2:38) B.Gabbert pass deep left to V.McDonald pushed ob at SEA 18 for 36 yards (E.Thomas).,12,3,53,SF 46,0,SF,
+14,2693,1,04:54,(4:54) S.Draughn left tackle to SF 33 for 4 yards (B.Wagner; K.Chancellor).,10,3,4,SF 29,0,SF,
+14,2952,4,00:10,"(:10) P.Dawson 25 yard field goal is GOOD, Center-K.Nelson, Holder-B.Pinion.",7,3,64,SEA 7,1,SF,FG
+17,3462,2,08:27,(8:27) F.Jackson up the middle to 50 for no gain (N.Bowman).,10,4,36,50,0,SEA,
+17,3377,2,09:21,(9:21) (Shotgun) R.Wilson pass short right to T.Lockett to SEA 40 for 5 yards (T.Brock; M.Wilhoite). SEA-P.Lewis was injured during the play. His return is Doubtful.,7,4,31,SEA 35,0,SEA,
+17,3483,3,07:47,(7:47) (Shotgun) R.Wilson pass incomplete deep left to T.Lockett.,10,4,36,50,0,SEA,
+17,3440,1,08:33,(8:33) R.Wilson pass incomplete short right to J.Kearse.,10,4,36,50,0,SEA,
+17,3505,4,07:41,"(7:41) (Punt formation) PENALTY on SEA-M.Morgan, False Start, 5 yards, enforced at 50 - No Play.",10,4,31,50,0,SEA,PENALTY
+17,3401,3,08:59,"(8:59) R.Wilson pass short left to J.Graham to 50 for 10 yards (E.Reid). Penalty on SF-J.Ward, Defensive Holding, declined.",2,4,36,SEA 40,0,SEA,
+17,3332,1,10:36,(10:36) (Shotgun) T.Rawls left tackle to SEA 32 for 18 yards (J.Tartt; M.Cromartie).,10,4,18,SEA 14,0,SEA,
+17,3532,4,07:41,"(7:41) J.Ryan punts 43 yards to SF 12, Center-C.Gresham, fair catch by B.Ellington.",15,4,31,SEA 45,0,SEA,PUNT
+17,3353,1,09:56,(9:56) (Shotgun) R.Wilson pass short left to T.Rawls to SEA 35 for 3 yards (J.Tartt; M.Cromartie).,10,4,21,SEA 32,0,SEA,
+16,3207,0,12:32,"S.Hauschka kicks 65 yards from SEA 35 to end zone, Touchback.",0,4,0,SEA 35,0,SEA,KICKOFF
+16,3246,1,11:55,(11:55) (Shotgun) B.Gabbert pass short left to S.Draughn to SF 48 for no gain (F.Clark; E.Thomas).,10,4,28,SF 48,0,SF,
+16,3222,1,12:32,(12:32) (Shotgun) B.Gabbert pass deep right to A.Boldin to SF 48 for 28 yards (D.Shead).,10,4,28,SF 20,0,SF,
+16,3270,2,11:22,(11:22) S.Draughn right end to SF 46 for -2 yards (D.Dobbs).,10,4,26,SF 48,0,SF,
+16,3313,4,10:42,"(10:42) B.Pinion punts 40 yards to SEA 14, Center-K.Nelson, fair catch by T.Lockett.",12,4,26,SF 46,0,SF,PUNT
+16,3291,3,10:46,(10:46) (Shotgun) B.Gabbert pass incomplete short middle to S.Draughn.,12,4,26,SF 46,0,SF,
+19,3781,4,03:34,"(3:34) J.Ryan punts 38 yards to SF 9, Center-C.Gresham, fair catch by B.Ellington.",1,4,20,SF 47,0,SEA,PUNT
+19,3764,0,03:34,Timeout #1 by SF at 03:34.,0,4,20,,0,,TIMEOUT
+19,3694,1,04:53,(4:53) (Shotgun) R.Wilson pass short left to D.Baldwin to 50 for 6 yards (Q.Dial). SEA-D.Baldwin was injured during the play.,10,4,17,SEA 44,0,SEA,
+19,3718,2,04:23,(4:23) (Shotgun) T.Rawls left tackle to SF 47 for 3 yards (M.Purcell; N.Bowman).,4,4,20,50,0,SEA,
+19,3743,3,03:40,(3:40) (Shotgun) T.Rawls up the middle to SF 47 for no gain (N.Bowman).,1,4,20,SF 47,0,SEA,
+19,3673,1,05:34,(5:34) T.Rawls right tackle to SEA 44 for 11 yards (T.Brock).,10,4,11,SEA 33,0,SEA,
+18,3562,1,07:34,(7:34) (Shotgun) B.Gabbert pass short left to T.Smith to SF 28 for 16 yards (R.Sherman).,10,4,16,SF 12,0,SF,
+18,3634,3,06:27,(6:27) (Shotgun) B.Gabbert sacked at SF 25 for -10 yards (C.Avril).,3,4,13,SF 35,0,SF,
+18,3608,2,06:55,(6:55) (Shotgun) B.Gabbert scrambles left end ran ob at SF 35 for 7 yards (M.Burley).,10,4,23,SF 28,0,SF,
+18,3586,1,06:59,(6:59) (Shotgun) B.Gabbert pass incomplete short middle to A.Boldin.,10,4,16,SF 28,0,SF,
+18,3653,4,05:45,"(5:45) B.Pinion punts 42 yards to SEA 33, Center-K.Nelson, downed by SF-K.Nelson.",13,4,13,SF 25,0,SF,PUNT

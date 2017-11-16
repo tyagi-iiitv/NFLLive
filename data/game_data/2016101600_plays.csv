@@ -1,189 +1,189 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,2105,0,00:21,,0,2,0,BUF 35,0,BUF,KICKOFF
-9,2150,0,,,0,2,-1,,0,,
-9,2167,0,,,0,2,-1,,0,,
-9,2129,1,00:15,,10,2,-1,SF 19,0,SF,
-24,4361,1,04:37,,10,4,4,BUF 20,0,BUF,FUMBLE
-10,2184,0,15:00,,0,3,0,SF 35,0,SF,KICKOFF
-10,2342,4,13:21,,8,3,2,BUF 27,0,BUF,PUNT
-10,2229,1,15:00,,15,3,2,BUF 20,0,BUF,
-10,2286,2,14:04,,24,3,2,BUF 11,0,BUF,
-10,2314,3,13:59,,24,3,2,BUF 11,0,BUF,
-10,2251,2,14:22,,14,3,2,BUF 21,0,BUF,PENALTY
-10,2201,1,15:00,,10,3,-5,BUF 25,0,BUF,PENALTY
-20,3813,0,10:37,,0,4,22,,0,,TIMEOUT
-20,3775,1,10:43,,10,4,22,SF 27,0,BUF,PENALTY
-20,3856,0,10:32,,0,4,27,SF 15,1,BUF,XP
-20,3831,1,10:36,,5,4,27,SF 5,1,BUF,TD
-6,1229,2,13:23,,2,2,46,BUF 33,0,BUF,
-6,1251,1,12:41,,10,2,53,SF 29,0,BUF,
-6,1180,0,13:56,,0,2,0,SF 35,0,SF,KICKOFF
-6,1368,0,10:18,,0,2,75,SF 15,1,BUF,XP
-6,1346,2,10:24,,4,2,75,SF 12,1,BUF,TD
-6,1295,3,11:50,,1,2,57,SF 20,0,BUF,
-6,1273,2,12:17,,3,2,55,SF 22,0,BUF,
-6,1317,1,11:07,,10,2,63,SF 18,0,BUF,
-6,1200,1,13:56,,10,2,8,BUF 25,0,BUF,
-18,3525,1,14:48,,10,4,-5,BUF 25,0,BUF,
-18,3569,3,13:34,,8,4,16,BUF 27,0,BUF,
-18,3506,0,14:48,,0,4,0,SF 35,0,SF,KICKOFF
-18,3668,2,11:37,,5,4,57,SF 39,0,BUF,
-18,3646,1,12:04,,10,4,36,SF 44,0,BUF,
-18,3624,2,12:41,,3,4,31,BUF 48,0,BUF,
-18,3715,0,10:53,,0,4,75,SF 15,1,BUF,XP
-18,3697,1,10:59,,10,4,75,SF 18,1,BUF,TD
-18,3547,2,14:11,,15,4,2,BUF 20,0,BUF,
-18,3602,1,13:09,,10,4,23,BUF 41,0,BUF,
-26,4668,1,00:31,,10,4,10,BUF 22,0,BUF,
-26,4646,3,01:13,,3,4,11,BUF 18,0,BUF,
-26,4623,2,02:00,,9,4,7,BUF 12,0,BUF,
-26,4706,0,00:00,,0,4,10,,0,,
-26,4577,1,02:34,,10,4,10,BUF 11,0,BUF,
-26,4690,0,,,0,4,10,,0,,
-26,4605,0,02:00,,0,4,1,,0,,
-25,4518,3,02:50,,8,4,17,BUF 10,0,SF,
-25,4546,4,02:41,,8,4,17,BUF 10,0,SF,
-25,4496,2,03:33,,10,4,17,BUF 12,0,SF,
-25,4448,3,03:44,,11,4,15,BUF 28,0,SF,
-25,4428,2,04:21,,4,4,-1,BUF 21,0,SF,
-25,4473,1,03:37,,10,4,17,BUF 12,0,SF,
-25,4399,1,04:28,,10,4,17,BUF 27,0,SF,
-1,185,3,13:17,,3,1,35,BUF 41,0,SF,
-1,60,1,15:00,,10,1,35,SF 25,0,SF,
-1,130,1,13:52,,10,1,34,BUF 48,0,SF,
-1,104,1,14:05,,10,1,35,SF 35,0,SF,
-1,82,2,14:28,,5,1,10,SF 30,0,SF,
-1,158,2,13:24,,3,1,34,BUF 41,0,SF,
-1,36,0,15:00,,0,1,0,BUF 35,0,BUF,KICKOFF
-1,207,4,12:37,,2,1,35,BUF 40,0,SF,PUNT
-5,1138,1,14:07,,10,2,75,SF 47,1,SF,TD
-5,1163,0,13:56,,0,2,75,BUF 15,1,SF,XP
-5,1093,2,15:00,,3,2,75,SF 32,0,SF,
-5,1017,0,00:14,,0,1,0,BUF 35,0,BUF,KICKOFF
-5,1034,1,00:14,,10,1,7,SF 25,0,SF,
-5,1116,1,14:32,,10,2,22,SF 36,0,SF,
-13,2724,1,08:36,,10,3,16,SF 16,0,SF,
-13,2779,3,07:59,,5,3,16,SF 21,0,SF,
-13,2680,1,09:45,,10,3,1,SF 5,0,SF,
-13,2806,4,07:54,,5,3,16,SF 21,0,SF,PUNT
-13,2752,2,08:07,,5,3,16,SF 21,0,SF,
-13,2702,2,09:13,,9,3,11,SF 6,0,SF,
-21,3968,4,09:18,,17,4,-7,SF 18,0,SF,PUNT
-21,3873,0,10:32,,0,4,0,BUF 35,0,BUF,KICKOFF
-21,3915,2,10:10,,5,4,-7,SF 30,0,SF,FUMBLE
-21,3889,1,10:32,,10,4,5,SF 25,0,SF,
-21,3945,3,09:28,,17,4,-7,SF 18,0,SF,
-23,4289,2,05:29,,10,4,6,SF 37,0,SF,
-23,4344,4,04:45,,4,4,6,SF 43,0,SF,PUNT
-23,4266,1,05:34,,10,4,0,SF 37,0,SF,
-23,4317,3,04:50,,4,4,6,SF 43,0,SF,
-23,4242,0,05:40,,0,4,0,BUF 35,0,BUF,KICKOFF
-11,2447,3,12:46,,9,3,1,SF 32,0,SF,
-11,2423,3,12:46,,4,3,1,SF 37,0,SF,PENALTY
-11,2372,1,13:08,,10,3,1,SF 31,0,SF,
-11,2470,4,12:40,,9,3,1,SF 32,0,SF,PUNT
-11,2395,2,12:50,,4,3,6,SF 37,0,SF,
-14,2879,2,07:09,,4,3,6,SF 49,0,BUF,
-14,2832,1,07:43,,10,3,6,BUF 45,0,BUF,
-14,2906,3,07:02,,4,3,6,SF 49,0,BUF,
-14,2933,4,06:58,,4,3,6,SF 49,0,BUF,PUNT
-8,2005,2,00:38,,10,2,53,SF 24,0,BUF,
-8,1672,2,05:15,,10,2,5,BUF 25,0,BUF,
-8,2086,4,00:25,,8,2,53,SF 22,1,BUF,FG
-8,1849,1,02:38,,10,2,27,BUF 48,0,BUF,
-8,2055,3,00:32,,8,2,53,SF 22,0,BUF,
-8,2037,0,00:32,,0,2,53,,0,,TIMEOUT
-8,1956,1,01:22,,2,2,51,SF 30,0,BUF,
-8,1828,3,03:10,,20,2,23,BUF 26,0,BUF,
-8,1981,1,00:47,,10,2,51,SF 24,0,BUF,
-8,1700,3,04:31,,5,2,11,BUF 30,0,BUF,
-8,1801,2,03:15,,20,2,1,BUF 26,0,BUF,
-8,1729,1,03:43,,10,2,27,BUF 36,0,BUF,
-8,1894,2,02:00,,6,2,37,SF 48,0,BUF,
-8,1630,0,05:54,,0,2,0,SF 35,0,SF,KICKOFF
-8,1876,0,02:00,,0,2,27,,0,,
-8,1756,2,03:38,,10,2,1,BUF 36,0,BUF,PENALTY
-8,1918,1,01:29,,10,2,45,SF 38,0,BUF,PENALTY
-8,1650,1,05:54,,10,2,0,BUF 25,0,BUF,
-19,3732,0,10:53,,0,4,0,BUF 35,0,BUF,FUMBLE
-22,4052,1,07:44,,10,4,12,BUF 39,0,BUF,
-22,4101,3,06:57,,7,4,73,BUF 42,0,BUF,PENALTY
-22,4206,2,05:47,,7,4,73,SF 44,1,BUF,TD
-22,4152,4,06:38,,2,4,73,BUF 48,0,BUF,PENALTY
-22,4225,0,05:40,,0,4,73,SF 15,1,BUF,XP
-22,4184,1,06:27,,10,4,29,SF 47,0,BUF,
-22,4004,1,09:05,,10,4,5,BUF 27,0,BUF,
-22,4030,2,08:24,,5,4,21,BUF 32,0,BUF,
-22,4126,3,06:43,,2,4,73,BUF 48,0,BUF,
-22,4079,2,07:39,,10,4,15,BUF 39,0,BUF,
-12,2518,2,11:56,,6,3,8,BUF 42,0,BUF,FUMBLE
-12,2661,4,09:54,,7,3,8,BUF 46,0,BUF,PUNT
-12,2605,2,10:42,,7,3,8,BUF 46,0,BUF,
-12,2495,1,12:29,,10,3,4,BUF 38,0,BUF,
-12,2583,1,11:10,,10,3,8,BUF 43,0,BUF,
-12,2545,3,11:15,,10,3,8,BUF 38,0,BUF,PENALTY
-12,2634,3,09:59,,7,3,8,BUF 46,0,BUF,
-16,3133,1,03:48,,10,3,7,SF 48,0,BUF,
-16,3189,1,02:40,,10,3,60,SF 30,1,BUF,TD
-16,3214,0,02:34,,0,3,60,SF 15,1,BUF,XP
-16,3111,1,04:29,,10,3,12,BUF 40,0,BUF,
-16,3160,2,03:13,,15,3,30,BUF 47,0,BUF,
-7,1561,2,06:42,,2,2,59,BUF 28,0,SF,
-7,1536,1,07:09,,10,2,61,BUF 36,0,SF,
-7,1610,4,05:59,,4,2,59,BUF 30,1,SF,FG
-7,1430,2,09:42,,7,2,38,SF 14,0,SF,
-7,1583,3,06:03,,4,2,59,BUF 30,0,SF,
-7,1484,1,08:24,,10,2,38,SF 38,0,SF,
-7,1385,0,10:18,,0,2,0,BUF 35,0,BUF,KICKOFF
-7,1408,1,10:11,,10,2,3,SF 11,0,SF,
-7,1452,1,09:02,,10,2,27,SF 25,0,SF,
-7,1513,1,07:50,,10,2,53,SF 49,0,SF,
-3,637,3,06:27,,22,1,13,BUF 26,0,SF,
-3,596,2,07:12,,19,1,1,BUF 23,0,SF,
-3,666,4,05:47,,11,1,13,BUF 15,1,SF,FG
-3,507,3,08:50,,11,1,13,BUF 29,0,SF,
-3,540,1,08:20,,10,1,3,BUF 14,0,SF,PENALTY
-3,460,1,09:36,,10,1,13,BUF 28,0,SF,
-3,486,2,09:31,,10,1,13,BUF 28,0,SF,
-3,619,0,06:27,,0,1,2,,0,,TIMEOUT
-3,574,1,07:54,,20,1,4,BUF 24,0,SF,
-17,3230,0,02:34,,0,3,0,BUF 35,0,BUF,KICKOFF
-17,3360,0,00:28,,0,3,44,,0,,TIMEOUT
-17,3459,3,15:00,,8,4,46,BUF 29,0,SF,
-17,3443,0,,,0,3,46,,0,,
-17,3246,1,02:34,,10,3,-1,SF 25,0,SF,
-17,3486,4,14:53,,8,4,46,BUF 29,1,SF,FG
-17,3427,0,,,0,3,46,,0,,
-17,3338,2,01:14,,7,3,44,BUF 39,0,SF,
-17,3316,1,01:40,,10,3,36,BUF 42,0,SF,
-17,3266,2,01:58,,11,3,36,SF 24,0,SF,PENALTY
-17,3401,2,00:21,,10,3,46,BUF 31,0,SF,
-17,3378,1,00:28,,10,3,44,BUF 31,0,SF,
-4,686,0,05:43,,0,1,0,SF 35,0,SF,KICKOFF
-4,824,1,03:46,,10,1,51,SF 27,0,BUF,
-4,707,1,05:43,,10,1,20,BUF 25,0,BUF,
-4,769,2,04:56,,8,1,30,BUF 47,0,BUF,
-4,906,2,02:07,,5,1,63,SF 12,0,BUF,
-4,995,0,00:14,,0,1,75,SF 15,1,BUF,XP
-4,850,2,03:11,,7,1,58,SF 24,0,BUF,
-4,926,3,01:21,,5,1,68,SF 12,0,BUF,
-4,884,1,02:33,,10,1,63,SF 17,0,BUF,
-4,795,1,04:23,,10,1,51,SF 45,0,BUF,
-4,977,2,00:18,,4,1,75,SF 4,1,BUF,TD
-4,955,1,00:46,,7,1,71,SF 7,0,BUF,
-4,747,1,05:25,,10,1,22,BUF 45,0,BUF,
-2,390,3,10:15,,5,1,23,BUF 28,0,BUF,
-2,274,3,11:48,,9,1,10,BUF 14,0,BUF,
-2,304,1,11:11,,10,1,15,BUF 23,0,BUF,
-2,252,2,12:24,,10,1,15,BUF 13,0,BUF,
-2,368,2,10:57,,21,1,15,BUF 12,0,BUF,
-2,419,1,09:41,,10,1,15,BUF 36,0,BUF,FUMBLE
-2,226,1,12:30,,10,1,0,BUF 13,0,BUF,
-2,330,2,11:05,,10,1,15,BUF 23,0,BUF,PENALTY
-15,3089,4,04:35,,1,3,40,BUF 40,0,SF,
-15,2951,1,06:51,,10,3,40,SF 20,0,SF,
-15,3045,2,05:19,,8,3,40,BUF 47,0,SF,
-15,3001,3,06:16,,8,3,31,SF 22,0,SF,
-15,2979,2,06:47,,10,3,2,SF 20,0,SF,
-15,3067,3,05:05,,1,3,40,BUF 40,0,SF,
-15,3023,1,05:47,,10,3,33,BUF 49,0,SF,
+24,4361,1,04:37,"(4:37) J.Williams left tackle to BUF 24 for 4 yards (M.Purcell). FUMBLES (M.Purcell), RECOVERED by SF-N.Bellore at BUF 27.",10,4,4,BUF 20,0,BUF,FUMBLE
+25,4399,1,04:28,(4:28) (Shotgun) C.Kaepernick pass short right to M.Davis pushed ob at BUF 21 for 6 yards (R.Humber). Caught along sideline at BUF 24.,10,4,17,BUF 27,0,SF,
+25,4428,2,04:21,"(4:21) (No Huddle, Shotgun) C.Kaepernick sacked at BUF 28 for -7 yards (A.Washington).",4,4,-1,BUF 21,0,SF,
+25,4518,3,02:50,(2:50) (Shotgun) C.Kaepernick pass incomplete short left to Q.Patton (D.Williams). Receiver and coverage 8 yds. into end zone.,8,4,17,BUF 10,0,SF,
+25,4496,2,03:33,(3:33) (Shotgun) S.Draughn up the middle to BUF 10 for 2 yards (R.Humber).,10,4,17,BUF 12,0,SF,
+25,4448,3,03:44,"(3:44) (No Huddle, Shotgun) C.Kaepernick pass short right to R.Streater pushed ob at BUF 12 for 16 yards (P.Brown).",11,4,15,BUF 28,0,SF,
+25,4473,1,03:37,"(3:37) (No Huddle, Shotgun) C.Kaepernick pass incomplete short right to M.Davis.",10,4,17,BUF 12,0,SF,
+25,4546,4,02:41,"(2:41) (Shotgun) C.Kaepernick pass incomplete short right to T.Smith (R.Darby). Receiver and coverage along sideline, 8 yds. into end zone.",8,4,17,BUF 10,0,SF,
+26,4690,0,,End of game - 4.16 pm,0,4,10,,0,,
+26,4668,1,00:31,(:31) E.Manuel kneels to BUF 21 for -1 yards.,10,4,10,BUF 22,0,BUF,
+26,4706,0,00:00,END GAME,0,4,10,,0,,
+26,4646,3,01:13,(1:13) (Shotgun) E.Manuel right tackle to BUF 22 for 4 yards (C.Carradine).,3,4,11,BUF 18,0,BUF,
+26,4623,2,02:00,(2:00) J.Williams left tackle to BUF 18 for 6 yards (M.Wilhoite).,9,4,7,BUF 12,0,BUF,
+26,4577,1,02:34,"(2:34) One-yard difference on change of possession. (Shotgun) J.Williams left guard to BUF 12 for 1 yard (M.Purcell, D.Buckner).",10,4,10,BUF 11,0,BUF,
+26,4605,0,02:00,Two-Minute Warning,0,4,1,,0,,
+20,3856,0,10:32,"D.Carpenter extra point is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",0,4,27,SF 15,1,BUF,XP
+20,3813,0,10:37,Timeout #1 by BUF at 10:37.,0,4,22,,0,,TIMEOUT
+20,3831,1,10:36,"(10:36) T.Taylor pass short middle to R.Woods for 5 yards, TOUCHDOWN. Caught 2 yds. into end zone, crossing from right.",5,4,27,SF 5,1,BUF,TD
+20,3775,1,10:43,"(10:43) T.Taylor pass incomplete deep right to L.McCoy. Overthrown, receiver in front corner of end zone. PENALTY on SF-E.Reid, Defensive Pass Interference, 22 yards, enforced at SF 27 - No Play.",10,4,22,SF 27,0,BUF,PENALTY
+21,3915,2,10:10,"(10:10) (No Huddle, Shotgun) C.Kaepernick sacked at SF 23 for -7 yards (L.Alexander). FUMBLES (L.Alexander) [L.Alexander], recovered by SF-J.Garnett at SF 18. J.Garnett to SF 18 for no gain (L.Douzable).",5,4,-7,SF 30,0,SF,FUMBLE
+21,3873,0,10:32,"D.Carpenter kicks 65 yards from BUF 35 to end zone, Touchback. Kick through end zone.",0,4,0,BUF 35,0,BUF,KICKOFF
+21,3889,1,10:32,(10:32) (Shotgun) M.Davis up the middle to SF 30 for 5 yards (L.Douzable; K.Williams).,10,4,5,SF 25,0,SF,
+21,3945,3,09:28,(9:28) (Shotgun) C.Kaepernick pass incomplete deep left [L.Alexander]. Thrown away under pressure.,17,4,-7,SF 18,0,SF,
+21,3968,4,09:18,"(9:18) B.Pinion punts 48 yards to BUF 34, Center-K.Nelson. B.Tate pushed ob at BUF 37 for 3 yards (A.Burbridge). PENALTY on BUF-L.McCray, Illegal Block Above the Waist, 10 yards, enforced at BUF 37.",17,4,-7,SF 18,0,SF,PUNT
+22,4152,4,06:38,"(6:38) C.Schmidt punts 49 yards to SF 3, Center-G.Sanborn, downed by BUF-K.Seymour. PENALTY on SF, Defensive Offside, 5 yards, enforced at BUF 48 - No Play.",2,4,73,BUF 48,0,BUF,PENALTY
+22,4079,2,07:39,"(7:39) (Shotgun) J.Williams left guard to BUF 42 for 3 yards (D.Buckner, E.Harold).",10,4,15,BUF 39,0,BUF,
+22,4052,1,07:44,(7:44) (Shotgun) E.Manuel pass incomplete short right to J.Felton. Dropped in flat at BUF 39.,10,4,12,BUF 39,0,BUF,
+22,4004,1,09:05,(9:05) E.Manuel in at QB. (Shotgun) R.Bush left guard to BUF 32 for 5 yards (A.Brooks).,10,4,5,BUF 27,0,BUF,
+22,4126,3,06:43,(6:43) (Shotgun) E.Manuel pass incomplete short middle to B.Tate (E.Harold). Nearly intercepted at SF 48.,2,4,73,BUF 48,0,BUF,
+22,4184,1,06:27,(6:27) (Shotgun) M.Gillislee left guard to SF 44 for 3 yards (M.Wilhoite).,10,4,29,SF 47,0,BUF,
+22,4101,3,06:57,"(6:57) (Shotgun) PENALTY on SF-E.Harold, Neutral Zone Infraction, 5 yards, enforced at BUF 42 - No Play.",7,4,73,BUF 42,0,BUF,PENALTY
+22,4030,2,08:24,"(8:24) (Shotgun) J.Williams right guard to BUF 39 for 7 yards (N.Bellore, E.Harold).",5,4,21,BUF 32,0,BUF,
+22,4225,0,05:40,"D.Carpenter extra point is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",0,4,73,SF 15,1,BUF,XP
+22,4206,2,05:47,"(5:47) (Shotgun) M.Gillislee left guard for 44 yards, TOUCHDOWN.",7,4,73,SF 44,1,BUF,TD
+23,4344,4,04:45,"(4:45) B.Pinion punts 57 yards to end zone, Center-K.Nelson, Touchback. Kick through end zone.",4,4,6,SF 43,0,SF,PUNT
+23,4289,2,05:29,"(5:29) (No Huddle, Shotgun) C.Kaepernick pass short middle to V.McDonald to SF 43 for 6 yards (Z.Brown). Caught in flat at SF 43.",10,4,6,SF 37,0,SF,
+23,4242,0,05:40,D.Carpenter kicks 48 yards from BUF 35 to SF 17. J.Kerley pushed ob at SF 37 for 20 yards (N.Robey-Coleman).,0,4,0,BUF 35,0,BUF,KICKOFF
+23,4266,1,05:34,(5:34) (Shotgun) C.Kaepernick pass incomplete short left to M.Davis.,10,4,0,SF 37,0,SF,
+23,4317,3,04:50,"(4:50) (No Huddle, Shotgun) C.Kaepernick pass incomplete short right to J.Kerley. Through receiver's hands at SF 47.",4,4,6,SF 43,0,SF,
+1,207,4,12:37,"(12:37) B.Pinion punts 27 yards to BUF 13, Center-K.Nelson, fair catch by B.Tate.",2,1,35,BUF 40,0,SF,PUNT
+1,158,2,13:24,"(13:24) (No Huddle, Shotgun) C.Kaepernick pass incomplete deep middle to T.Smith [L.Douzable]. Overthrown, receiver 8 yds. into end zone.",3,1,34,BUF 41,0,SF,
+1,36,0,15:00,"D.Carpenter kicks 65 yards from BUF 35 to end zone, Touchback. K.Martin kneels 3 yds. into end zone.",0,1,0,BUF 35,0,BUF,KICKOFF
+1,60,1,15:00,(15:00) (Shotgun) C.Hyde up the middle to SF 30 for 5 yards (C.Graham).,10,1,35,SF 25,0,SF,
+1,130,1,13:52,"(13:52) (No Huddle, Shotgun) C.Kaepernick pass short right to J.Kerley to BUF 41 for 7 yards (N.Robey-Coleman). Slant pattern, caught at BUF 41.",10,1,34,BUF 48,0,SF,
+1,185,3,13:17,"(13:17) (No Huddle, Shotgun) C.Hyde up the middle to BUF 40 for 1 yard (L.Douzable, J.Hughes).",3,1,35,BUF 41,0,SF,
+1,82,2,14:28,"(14:28) (No Huddle, Shotgun) C.Kaepernick scrambles left end pushed ob at SF 35 for 5 yards (C.Graham).",5,1,10,SF 30,0,SF,
+1,104,1,14:05,"(14:05) (No Huddle, Shotgun) C.Kaepernick pass short middle to Q.Patton ran ob at BUF 48 for 17 yards. Shovel pass, caught at SF 32.",10,1,35,SF 35,0,SF,
+3,619,0,06:27,Timeout #1 by SF at 06:27.,0,1,2,,0,,TIMEOUT
+3,596,2,07:12,(7:12) (Shotgun) C.Kaepernick left tackle to BUF 26 for -3 yards (Z.Brown).,19,1,1,BUF 23,0,SF,
+3,666,4,05:47,"(5:47) P.Dawson 33 yard field goal is GOOD, Center-K.Nelson, Holder-B.Pinion.",11,1,13,BUF 15,1,SF,FG
+3,637,3,06:27,(6:27) (Shotgun) C.Kaepernick pass short left to Q.Patton to BUF 15 for 11 yards (P.Brown).,22,1,13,BUF 26,0,SF,
+3,460,1,09:36,"(9:36) (Shotgun) C.Kaepernick pass incomplete deep left to S.Draughn. Overthrown, receiver near sideline at BUF 12.",10,1,13,BUF 28,0,SF,
+3,574,1,07:54,(7:54) (Shotgun) C.Hyde up the middle to BUF 23 for 1 yard (J.Hughes).,20,1,4,BUF 24,0,SF,
+3,540,1,08:20,"(8:20) (Shotgun) C.Hyde left end to BUF 17 for -3 yards (Z.Brown). PENALTY on SF-J.Garnett, Offensive Holding, 10 yards, enforced at BUF 14 - No Play.",10,1,3,BUF 14,0,SF,PENALTY
+3,507,3,08:50,"(8:50) (Shotgun) C.Kaepernick pass short right to T.Smith pushed ob at BUF 14 for 15 yards (R.Darby). Crossing pattern, caught at BUF 25.",11,1,13,BUF 29,0,SF,
+3,486,2,09:31,"(9:31) (No Huddle, Shotgun) C.Hyde up the middle to BUF 29 for -1 yards (K.Williams, C.Graham).",10,1,13,BUF 28,0,SF,
+2,304,1,11:11,"(11:11) T.Taylor pass incomplete short right. Thrown away, under pressure by A.Armstead.",10,1,15,BUF 23,0,BUF,
+2,330,2,11:05,"(11:05) (Shotgun) T.Taylor pass incomplete deep right to M.Goodwin [N.Bellore]. Thrown wide of receiver, at SF 43. PENALTY on BUF-L.McCoy, Face Mask (15 Yards), 11 yards, enforced at BUF 23 - No Play.",10,1,15,BUF 23,0,BUF,PENALTY
+2,390,3,10:15,"(10:15) (Shotgun) T.Taylor pass short right to R.Woods to BUF 36 for 8 yards (R.Robinson). Curl route, caught in flat at BUF 34.",5,1,23,BUF 28,0,BUF,
+2,274,3,11:48,(11:48) (Shotgun) T.Taylor scrambles right end pushed ob at BUF 23 for 9 yards (K.Reaser).,9,1,10,BUF 14,0,BUF,
+2,368,2,10:57,(10:57) (Shotgun) L.McCoy left guard to BUF 28 for 16 yards (A.Brooks).,21,1,15,BUF 12,0,BUF,
+2,252,2,12:24,"(12:24) L.McCoy left tackle to BUF 14 for 1 yard (M.Wilhoite, E.Reid).",10,1,15,BUF 13,0,BUF,
+2,226,1,12:30,"(12:30) (Shotgun) T.Taylor pass incomplete short right to C.Clay. Underthrown, receiver in flat at BUF 17.",10,1,0,BUF 13,0,BUF,
+2,419,1,09:41,"(9:41) T.Taylor to BUF 30 for -6 yards (A.Armstead). FUMBLES (A.Armstead), RECOVERED by SF-D.Buckner at BUF 28. Fumble forced as T.Taylor's arm hit going back for handoff.",10,1,15,BUF 36,0,BUF,FUMBLE
+5,1138,1,14:07,"(14:07) (No Huddle, Shotgun) C.Kaepernick pass deep right to T.Smith for 53 yards, TOUCHDOWN. Caught near sideline at BUF 25, crossed to middle after catch.",10,2,75,SF 47,1,SF,TD
+5,1163,0,13:56,"P.Dawson extra point is GOOD, Center-K.Nelson, Holder-B.Pinion.",0,2,75,BUF 15,1,SF,XP
+5,1093,2,15:00,(15:00) (Shotgun) C.Hyde left end to SF 36 for 4 yards (C.Graham).,3,2,75,SF 32,0,SF,
+5,1116,1,14:32,"(14:32) (No Huddle, Shotgun) C.Hyde left end pushed ob at SF 47 for 11 yards (K.Williams).",10,2,22,SF 36,0,SF,
+5,1017,0,00:14,"D.Carpenter kicks 65 yards from BUF 35 to end zone, Touchback. Kick through end zone.",0,1,0,BUF 35,0,BUF,KICKOFF
+5,1034,1,00:14,(:14) (Shotgun) C.Kaepernick right tackle to SF 32 for 7 yards (P.Brown).,10,1,7,SF 25,0,SF,
+4,977,2,00:18,"(:18) (Shotgun) L.McCoy right tackle for 4 yards, TOUCHDOWN. Key block: J.Felton. Option pitch.",4,1,75,SF 4,1,BUF,TD
+4,995,0,00:14,"D.Carpenter extra point is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",0,1,75,SF 15,1,BUF,XP
+4,795,1,04:23,(4:23) T.Taylor back at QB. (Shotgun) T.Taylor pass short right to R.Woods pushed ob at SF 27 for 18 yards (A.Bethea). Caught in flat at SF 40.,10,1,51,SF 45,0,BUF,
+4,769,2,04:56,"(4:56) E.Manuel in at QB (T.Taylor at WR). (Shotgun) E.Manuel left tackle to SF 45 for 8 yards (R.Robinson, A.Brooks).",8,1,30,BUF 47,0,BUF,
+4,850,2,03:11,"(3:11) (Shotgun) T.Taylor pass short left to R.Woods to SF 17 for 7 yards (M.Wilhoite). Caught n flat at SF 20, slanting to middle.",7,1,58,SF 24,0,BUF,
+4,906,2,02:07,(2:07) (Shotgun) T.Taylor sacked at SF 12 for 0 yards (A.Armstead).,5,1,63,SF 12,0,BUF,
+4,747,1,05:25,(5:25) L.McCoy left tackle to BUF 47 for 2 yards (T.Brock).,10,1,22,BUF 45,0,BUF,
+4,707,1,05:43,"(5:43) (Shotgun) T.Taylor pass deep right to C.Clay to BUF 45 for 20 yards (E.Reid). Caught at BUF 43, crossing from middle. Penalty on SF-R.Robinson, Defensive Holding, declined.",10,1,20,BUF 25,0,BUF,
+4,955,1,00:46,(:46) (Shotgun) L.McCoy up the middle to SF 4 for 3 yards (N.Bellore; A.Brooks).,7,1,71,SF 7,0,BUF,
+4,884,1,02:33,(2:33) L.McCoy left end pushed ob at SF 12 for 5 yards (N.Bellore).,10,1,63,SF 17,0,BUF,
+4,824,1,03:46,(3:46) Direct snap to L.McCoy (T.Taylor at WR).  (Shotgun) L.McCoy right guard to SF 24 for 3 yards (A.Bethea).,10,1,51,SF 27,0,BUF,
+4,686,0,05:43,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback. B.Tate kneels 4 yds. into end zone.",0,1,0,SF 35,0,SF,KICKOFF
+4,926,3,01:21,"(1:21) (Shotgun) T.Taylor pass short left to C.Clay to SF 7 for 5 yards (K.Reaser). Caught at SF 11, crossing to sideline.",5,1,68,SF 12,0,BUF,
+7,1430,2,09:42,"(9:42) (No Huddle, Shotgun) C.Kaepernick scrambles left guard to SF 25 for 11 yards (P.Brown). BUF-Z.Brown was injured during the play.",7,2,38,SF 14,0,SF,
+7,1583,3,06:03,"(6:03) (No Huddle, Shotgun) C.Kaepernick pass incomplete short left to J.Kerley (L.Alexander). Screen pass hit L.Alexander in back, receiver in flat at BUF 30..",4,2,59,BUF 30,0,SF,
+7,1610,4,05:59,"(5:59) P.Dawson 48 yard field goal is GOOD, Center-K.Nelson, Holder-B.Pinion.",4,2,59,BUF 30,1,SF,FG
+7,1536,1,07:09,"(7:09) (No Huddle, Shotgun) C.Kaepernick pass short right to T.Smith to BUF 28 for 8 yards (R.Darby).",10,2,61,BUF 36,0,SF,
+7,1408,1,10:11,"(10:11) (Shotgun) C.Hyde left guard to SF 14 for 3 yards (J.Worthy, C.Graham).",10,2,3,SF 11,0,SF,
+7,1561,2,06:42,"(6:42) (No Huddle, Shotgun) C.Hyde left tackle to BUF 30 for -2 yards (L.Alexander, Z.Brown).",2,2,59,BUF 28,0,SF,
+7,1452,1,09:02,"(9:02) (Shotgun) C.Kaepernick pass short left to Q.Patton to SF 38 for 13 yards (A.Williams). Caught at SF 37, crossing from middle.",10,2,27,SF 25,0,SF,
+7,1484,1,08:24,"(8:24) (No Huddle, Shotgun) C.Kaepernick pass short middle to Q.Patton to SF 49 for 11 yards (C.Graham). Shovel pass, caught at SF 34.",10,2,38,SF 38,0,SF,
+7,1385,0,10:18,D.Carpenter kicks 67 yards from BUF 35 to SF -2. T.Smith to SF 11 for 13 yards (N.Robey-Coleman).,0,2,0,BUF 35,0,BUF,KICKOFF
+7,1513,1,07:50,"(7:50) (No Huddle, Shotgun) C.Hyde right guard to BUF 36 for 15 yards (A.Williams; P.Brown).",10,2,53,SF 49,0,SF,
+6,1317,1,11:07,"(11:07) T.Taylor pass short middle to N.O'Leary to SF 12 for 6 yards (E.Reid). Caught at SF 18, crossing from right.",10,2,63,SF 18,0,BUF,
+6,1346,2,10:24,"(10:24) Direct snap to L.McCoy (T.Taylor at WR). (Shotgun) L.McCoy left guard for 12 yards, TOUCHDOWN.",4,2,75,SF 12,1,BUF,TD
+6,1273,2,12:17,(12:17) (Shotgun) M.Gillislee up the middle to SF 20 for 2 yards (D.Buckner; Q.Dial).,3,2,55,SF 22,0,BUF,
+6,1200,1,13:56,"(13:56) (Shotgun) T.Taylor pass short middle to C.Clay to BUF 33 for 8 yards (N.Bellore). Curl pattern, caught at BUF 31.",10,2,8,BUF 25,0,BUF,
+6,1229,2,13:23,(13:23) (Shotgun) L.McCoy up the middle to SF 29 for 38 yards (E.Reid).,2,2,46,BUF 33,0,BUF,
+6,1180,0,13:56,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback. Kick through end zone.",0,2,0,SF 35,0,SF,KICKOFF
+6,1251,1,12:41,(12:41) (Shotgun) T.Taylor scrambles left end pushed ob at SF 22 for 7 yards (E.Reid).,10,2,53,SF 29,0,BUF,
+6,1368,0,10:18,"D.Carpenter extra point is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",0,2,75,SF 15,1,BUF,XP
+6,1295,3,11:50,"(11:50) (No Huddle) M.Gillislee up the middle to SF 18 for 2 yards (D.Buckner, N.Bellore).",1,2,57,SF 20,0,BUF,
+9,2129,1,00:15,(:15) C.Kaepernick kneels to SF 18 for -1 yards.,10,2,-1,SF 19,0,SF,
+9,2167,0,,END QUARTER 2,0,2,-1,,0,,
+9,2150,0,,End of half - 2.28 pm,0,2,-1,,0,,
+9,2105,0,00:21,D.Carpenter kicks 63 yards from BUF 35 to SF 2. K.Martin to SF 19 for 17 yards (K.Seymour).,0,2,0,BUF 35,0,BUF,KICKOFF
+8,1630,0,05:54,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback. Kick through end zone.",0,2,0,SF 35,0,SF,KICKOFF
+8,1700,3,04:31,"(4:31) (Shotgun) T.Taylor pass short right to R.Woods to BUF 36 for 6 yards (E.Harold). Caught at BUF 35, crossing from middle.",5,2,11,BUF 30,0,BUF,
+8,1849,1,02:38,(2:38) Direct snap to M.Gillislee (T.Taylor at WR). (Shotgun) M.Gillislee left guard to SF 48 for 4 yards (N.Bellore).,10,2,27,BUF 48,0,BUF,
+8,2055,3,00:32,(:32) (Shotgun) T.Taylor pass incomplete short left to M.Goodwin. Caught out of bounds at SF 8.,8,2,53,SF 22,0,BUF,
+8,1828,3,03:10,(3:10) (Shotgun) L.McCoy left tackle pushed ob at BUF 48 for 22 yards (R.Robinson).,20,2,23,BUF 26,0,BUF,
+8,1801,2,03:15,"(3:15) (Shotgun) T.Taylor pass incomplete short middle to L.McCoy. Overthrown, receiver at BUF 30, crossing from right.",20,2,1,BUF 26,0,BUF,
+8,1729,1,03:43,(3:43) (Shotgun) T.Taylor pass incomplete short left to M.Goodwin [D.Buckner]. Pass bounced to receiver at BUF 33.,10,2,27,BUF 36,0,BUF,
+8,2037,0,00:32,Timeout #1 by BUF at 00:32. Injury inside 2-minutes: timeout by rule.,0,2,53,,0,,TIMEOUT
+8,1981,1,00:47,"(:47) (No Huddle, Shotgun) T.Taylor sacked at SF 24 for 0 yards (D.Buckner).",10,2,51,SF 24,0,BUF,
+8,2086,4,00:25,"(:25) D.Carpenter 40 yard field goal is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",8,2,53,SF 22,1,BUF,FG
+8,1876,0,02:00,Two-Minute Warning,0,2,27,,0,,
+8,1918,1,01:29,"(1:29) (No Huddle, Shotgun) T.Taylor left end pushed ob at SF 20 for 18 yards (R.Robinson). PENALTY on BUF-R.Woods, Offensive Holding, 10 yards, enforced at SF 20.",10,2,45,SF 38,0,BUF,PENALTY
+8,1956,1,01:22,(1:22) R.Woods left tackle to SF 24 for 6 yards (E.Reid). End-around.,2,2,51,SF 30,0,BUF,
+8,2005,2,00:38,"(:38) (Shotgun) T.Taylor pass short middle to L.McCoy to SF 22 for 2 yards (N.Bellore). BUF-L.McCoy was injured during the play. His return is Probable.  Caught at SF 23, crossing from right.",10,2,53,SF 24,0,BUF,
+8,1894,2,02:00,(2:00) (Shotgun) T.Taylor right end to SF 38 for 10 yards (N.Bellore).,6,2,37,SF 48,0,BUF,
+8,1756,2,03:38,"(3:38) (Shotgun) T.Taylor pass short left to M.Goodwin pushed ob at BUF 47 for 11 yards (K.Reaser). Caught near sideline at BUF 47. PENALTY on BUF-M.Goodwin, Offensive Pass Interference, 10 yards, enforced at BUF 36 - No Play.",10,2,1,BUF 36,0,BUF,PENALTY
+8,1650,1,05:54,(5:54) (Shotgun) L.McCoy right tackle to BUF 25 for no gain (N.Bellore).,10,2,0,BUF 25,0,BUF,
+8,1672,2,05:15,"(5:15) (Shotgun) T.Taylor pass short left to C.Clay to BUF 30 for 5 yards (M.Wilhoite, D.Buckner). Dump pass, caught at BUF 25.",10,2,5,BUF 25,0,BUF,
+11,2423,3,12:46,"(12:46) (No Huddle, Shotgun) PENALTY on SF-T.Brown, False Start, 5 yards, enforced at SF 37 - No Play.",4,3,1,SF 37,0,SF,PENALTY
+11,2395,2,12:50,"(12:50) (No Huddle, Shotgun) C.Kaepernick pass incomplete short right to T.Smith. Thrown wide of receiver near sideline at SF 40.",4,3,6,SF 37,0,SF,
+11,2447,3,12:46,"(12:46) (No Huddle, Shotgun) C.Kaepernick pass incomplete deep left to J.Kerley. Overthrown on out-pattern, along sideline at 50.",9,3,1,SF 32,0,SF,
+11,2372,1,13:08,(13:08) (Shotgun) C.Hyde right guard to SF 37 for 6 yards (P.Brown; C.Graham).,10,3,1,SF 31,0,SF,
+11,2470,4,12:40,"(12:40) B.Pinion punts 30 yards to BUF 38, Center-K.Nelson, downed by SF-A.Burbridge.",9,3,1,SF 32,0,SF,PUNT
+10,2201,1,15:00,"(15:00) (Shotgun) PENALTY on BUF, Illegal Substitution, 5 yards, enforced at BUF 25 - No Play.",10,3,-5,BUF 25,0,BUF,PENALTY
+10,2229,1,15:00,(15:00) (Shotgun) R.Bush left end to BUF 21 for 1 yard (N.Bellore; M.Wilhoite).,15,3,2,BUF 20,0,BUF,
+10,2314,3,13:59,(13:59) (Shotgun) T.Taylor pass short left to M.Goodwin to BUF 27 for 16 yards (R.Robinson). Caught near sideline at BUF 26.,24,3,2,BUF 11,0,BUF,
+10,2342,4,13:21,"(13:21) C.Schmidt punts 54 yards to SF 19, Center-G.Sanborn. J.Kerley to SF 31 for 12 yards (M.Gillislee).",8,3,2,BUF 27,0,BUF,PUNT
+10,2286,2,14:04,(14:04) (Shotgun) T.Taylor pass incomplete short left to C.Clay (E.Reid). Receiver and coverage at BUF 23.,24,3,2,BUF 11,0,BUF,
+10,2184,0,15:00,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback. R.Bush kneels 8 yds. into end zone.",0,3,0,SF 35,0,SF,KICKOFF
+10,2251,2,14:22,"(14:22) (Shotgun) T.Taylor pass short left to L.McCoy to BUF 33 for 12 yards (A.Bethea). Screen pass, caught at BUF 11. Play credited to BUF 21 (spot of foul). PENALTY on BUF-R.Incognito, Illegal Block Above the Waist, 10 yards, enforced at BUF 21.",14,3,2,BUF 21,0,BUF,PENALTY
+13,2779,3,07:59,"(7:59) (No Huddle, Shotgun) C.Kaepernick pass incomplete short right to J.Kerley (N.Robey-Coleman). Receiver and coverage at SF 28, slanting to middle.",5,3,16,SF 21,0,SF,
+13,2724,1,08:36,"(8:36) (No Huddle, Shotgun) C.Kaepernick pass short middle to J.Kerley to SF 21 for 5 yards (A.Williams). Caught at SF 20, crossing from right.",10,3,16,SF 16,0,SF,
+13,2806,4,07:54,"(7:54) B.Pinion punts 47 yards to BUF 32, Center-K.Nelson. B.Tate pushed ob at BUF 45 for 13 yards (S.Skov).",5,3,16,SF 21,0,SF,PUNT
+13,2702,2,09:13,"(9:13) (No Huddle, Shotgun) C.Kaepernick up the middle to SF 16 for 10 yards (S.Gilmore, Z.Brown).",9,3,11,SF 6,0,SF,
+13,2752,2,08:07,"(8:07) (No Huddle, Shotgun) C.Kaepernick pass incomplete short right to Q.Patton. Thrown under pressure by J.Hughes. Receiver overthrown, along sideline at SF 30,",5,3,16,SF 21,0,SF,
+13,2680,1,09:45,"(9:45) (Shotgun) M.Davis up the middle to SF 6 for 1 yard (J.Hughes, P.Brown).",10,3,1,SF 5,0,SF,
+12,2605,2,10:42,(10:42) (Shotgun) T.Taylor sacked at BUF 46 for 0 yards (D.Buckner).,7,3,8,BUF 46,0,BUF,
+12,2583,1,11:10,(11:10) T.Taylor right tackle pushed ob at BUF 46 for 3 yards (K.Reaser).,10,3,8,BUF 43,0,BUF,
+12,2545,3,11:15,"(11:15) (Shotgun) T.Taylor pass incomplete short middle to R.Woods. Overthrown, receiver at BUF 45, crossing from left. PENALTY on SF-N.Bellore, Illegal Contact, 5 yards, enforced at BUF 38 - No Play.",10,3,8,BUF 38,0,BUF,PENALTY
+12,2634,3,09:59,"(9:59) (Shotgun) T.Taylor pass incomplete short left to J.Hunter (K.Reaser). Thrown wide of receiver, along sideline at SF 48.",7,3,8,BUF 46,0,BUF,
+12,2495,1,12:29,"(12:29) L.McCoy left guard to BUF 42 for 4 yards (Q.Dial, D.Buckner).",10,3,4,BUF 38,0,BUF,
+12,2518,2,11:56,"(11:56) Direct snap to L.McCoy (T.Taylor at WR). (Shotgun) L.McCoy right end to BUF 40 for -2 yards (T.Brock). FUMBLES (T.Brock), and recovers at BUF 38. L.McCoy to BUF 38 for no gain (T.Brock).",6,3,8,BUF 42,0,BUF,FUMBLE
+12,2661,4,09:54,"(9:54) C.Schmidt punts 49 yards to SF 5, Center-G.Sanborn, out of bounds.",7,3,8,BUF 46,0,BUF,PUNT
+15,3023,1,05:47,"(5:47) (No Huddle, Shotgun) C.Hyde up the middle to BUF 47 for 2 yards (L.Douzable).",10,3,33,BUF 49,0,SF,
+15,2979,2,06:47,"(6:47) (No Huddle, Shotgun) C.Hyde up the middle to SF 22 for 2 yards (J.Hughes).",10,3,2,SF 20,0,SF,
+15,3067,3,05:05,"(5:05) (No Huddle, Shotgun) M.Davis right guard to BUF 40 for no gain (P.Brown, Z.Brown).",1,3,40,BUF 40,0,SF,
+15,3089,4,04:35,"(4:35) (No Huddle, Shotgun) M.Davis up the middle to BUF 40 for no gain (P.Brown, L.McCray).",1,3,40,BUF 40,0,SF,
+15,3001,3,06:16,"(6:16) (No Huddle, Shotgun) C.Kaepernick scrambles right tackle to BUF 49 for 29 yards (S.Gilmore).",8,3,31,SF 22,0,SF,
+15,3045,2,05:19,"(5:19) (No Huddle, Shotgun) M.Davis left end pushed ob at BUF 40 for 7 yards (S.Gilmore).",8,3,40,BUF 47,0,SF,
+15,2951,1,06:51,"(6:51) (Shotgun) C.Kaepernick pass incomplete short left to Q.Patton (S.Gilmore). Receiver and coverage at SF 28, crossing to middle.",10,3,40,SF 20,0,SF,
+14,2933,4,06:58,"(6:58) C.Schmidt punts 49 yards to end zone, Center-G.Sanborn, Touchback.",4,3,6,SF 49,0,BUF,PUNT
+14,2879,2,07:09,(7:09) T.Taylor pass incomplete short right. Thrown away under pressure by G.Hodges.,4,3,6,SF 49,0,BUF,
+14,2832,1,07:43,(7:43) (Shotgun) T.Taylor pass short left to M.Goodwin to SF 49 for 6 yards (T.Brock). Caught in flat at 50.,10,3,6,BUF 45,0,BUF,
+14,2906,3,07:02,"(7:02) (Shotgun) T.Taylor pass incomplete short right to R.Woods (T.Brock). Receiver and coverage at SF 44, crossing from middle.",4,3,6,SF 49,0,BUF,
+17,3230,0,02:34,"D.Carpenter kicks 65 yards from BUF 35 to end zone, Touchback.",0,3,0,BUF 35,0,BUF,KICKOFF
+17,3378,1,00:28,"(:28) (Shotgun) C.Kaepernick pass incomplete deep middle to T.Smith. Post route, underthrown, receiver 1 yd. into end zone.",10,3,44,BUF 31,0,SF,
+17,3427,0,,End of quarter - 3.26 pm,0,3,46,,0,,
+17,3459,3,15:00,"(15:00) (Shotgun) C.Kaepernick pass incomplete deep left to J.Kerley. Underthrown, receiver near sideline at BUF 5.",8,4,46,BUF 29,0,SF,
+17,3360,0,00:28,Timeout #1 by SF at 00:28.,0,3,44,,0,,TIMEOUT
+17,3246,1,02:34,(2:34) (Shotgun) C.Kaepernick sacked at SF 24 for -1 yards (Z.Brown).,10,3,-1,SF 25,0,SF,
+17,3443,0,,END QUARTER 3,0,3,46,,0,,
+17,3486,4,14:53,"(14:53) P.Dawson 47 yard field goal is GOOD, Center-K.Nelson, Holder-B.Pinion.",8,4,46,BUF 29,1,SF,FG
+17,3401,2,00:21,"(:21) (No Huddle, Shotgun) C.Hyde left tackle to BUF 29 for 2 yards (Z.Brown).",10,3,46,BUF 31,0,SF,
+17,3266,2,01:58,"(1:58) (No Huddle, Shotgun) C.Kaepernick pass deep right to V.McDonald to SF 43 for 19 yards (R.Darby). Caught near sideline at SF 43. PENALTY on BUF-A.Williams, Face Mask (15 Yards), 15 yards, enforced at SF 43.",11,3,36,SF 24,0,SF,PENALTY
+17,3338,2,01:14,"(1:14) (No Huddle, Shotgun) C.Kaepernick scrambles left end to BUF 31 for 8 yards (C.Graham).",7,3,44,BUF 39,0,SF,
+17,3316,1,01:40,"(1:40) (No Huddle, Shotgun) C.Hyde up the middle to BUF 39 for 3 yards (C.Bryant, B.Spikes).",10,3,36,BUF 42,0,SF,
+16,3214,0,02:34,"D.Carpenter extra point is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",0,3,60,SF 15,1,BUF,XP
+16,3160,2,03:13,(3:13) (Shotgun) T.Taylor pass deep right to N.O'Leary to SF 30 for 23 yards (A.Bethea). Caught along sideline at SF 30.,15,3,30,BUF 47,0,BUF,
+16,3133,1,03:48,(3:48) Direct snap to L.McCoy (T.Taylor at WR). (Shotgun) L.McCoy right guard to BUF 47 for -5 yards (N.Bellore).,10,3,7,SF 48,0,BUF,
+16,3111,1,04:29,(4:29) L.McCoy right tackle to SF 48 for 12 yards (T.Brock).,10,3,12,BUF 40,0,BUF,
+16,3189,1,02:40,"(2:40) (Shotgun) T.Taylor pass deep left to J.Hunter for 30 yards, TOUCHDOWN. Caught 2 yds. into end zone, slanting to sideline.",10,3,60,SF 30,1,BUF,TD
+19,3732,0,10:53,"D.Carpenter kicks 58 yards from BUF 35 to SF 7. K.Martin to SF 27 for 20 yards (N.Robey-Coleman). FUMBLES (N.Robey-Coleman), RECOVERED by BUF-J.Meeks at SF 27.",0,4,0,BUF 35,0,BUF,FUMBLE
+18,3715,0,10:53,"D.Carpenter extra point is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",0,4,75,SF 15,1,BUF,XP
+18,3602,1,13:09,(13:09) (Shotgun) L.McCoy up the middle to BUF 48 for 7 yards (M.Wilhoite).,10,4,23,BUF 41,0,BUF,
+18,3547,2,14:11,(14:11) (Shotgun) L.McCoy left tackle to BUF 27 for 7 yards (N.Bellore).,15,4,2,BUF 20,0,BUF,
+18,3569,3,13:34,(13:34) (Shotgun) T.Taylor pass short left to C.Clay ran ob at BUF 41 for 14 yards. Caught along sideline at BUF 38.,8,4,16,BUF 27,0,BUF,
+18,3624,2,12:41,"(12:41) (No Huddle, Shotgun) T.Taylor up the middle to SF 44 for 8 yards (E.Reid).",3,4,31,BUF 48,0,BUF,
+18,3506,0,14:48,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback. Kick through end zone.",0,4,0,SF 35,0,SF,KICKOFF
+18,3668,2,11:37,"(11:37) (No Huddle, Shotgun) T.Taylor scrambles left end pushed ob at SF 18 for 21 yards (A.Bethea).",5,4,57,SF 39,0,BUF,
+18,3525,1,14:48,(14:48) (Shotgun) L.McCoy right tackle to BUF 20 for -5 yards (A.Armstead).,10,4,-5,BUF 25,0,BUF,
+18,3646,1,12:04,"(12:04) (No Huddle, Shotgun) M.Gillislee up the middle to SF 39 for 5 yards (D.Buckner).",10,4,36,SF 44,0,BUF,
+18,3697,1,10:59,"(10:59) L.McCoy right guard for 18 yards, TOUCHDOWN. Key block: R.Incognito.",10,4,75,SF 18,1,BUF,TD

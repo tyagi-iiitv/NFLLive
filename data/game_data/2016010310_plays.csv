@@ -1,168 +1,168 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1732,1,00:34,,10,2,10,50,0,MIN,
-9,1715,0,00:34,,0,2,10,,0,,TIMEOUT
-9,1800,0,00:15,,0,2,18,,0,,TIMEOUT
-9,1840,4,00:12,,7,2,13,GB 47,0,MIN,PUNT
-9,1754,2,00:29,,10,2,10,50,0,MIN,
-9,1669,1,00:46,,10,2,13,MIN 40,0,MIN,
-9,1817,4,00:15,,2,2,13,GB 42,0,MIN,PENALTY
-9,1776,3,00:23,,10,2,18,50,0,MIN,
-9,1691,2,00:40,,10,2,10,MIN 40,0,MIN,
-10,1875,1,00:08,,10,2,-1,GB 17,0,GB,
-10,1897,0,,,0,2,-1,,0,,
-20,3613,0,02:18,,0,4,64,,0,,TIMEOUT
-20,3463,1,04:37,,10,4,54,GB 40,0,GB,
-20,3591,3,02:27,,13,4,64,MIN 13,0,GB,
-20,3572,2,03:10,,10,4,64,MIN 10,0,GB,
-20,3537,1,03:17,,10,4,67,MIN 10,0,GB,
-20,3439,1,05:21,,10,4,17,GB 23,0,GB,
-20,3487,1,04:02,,10,4,54,MIN 23,0,GB,
-20,3630,4,02:18,,13,4,64,MIN 13,0,GB,INT
-20,3513,2,03:56,,10,4,67,MIN 23,0,GB,
-6,1091,2,08:11,,12,2,0,GB 17,0,GB,
-6,1066,1,08:41,,10,2,0,GB 19,0,GB,
-6,1170,4,06:41,,10,2,0,GB 19,0,GB,PUNT
-6,1139,4,06:44,,5,2,0,GB 24,0,GB,PENALTY
-6,1115,3,07:28,,19,2,5,GB 10,0,GB,
-18,3216,1,10:00,,10,4,17,GB 16,0,GB,
-18,3385,4,05:39,,10,4,59,MIN 25,1,GB,FG
-18,3337,2,06:55,,7,4,66,MIN 22,0,GB,
-18,3366,3,06:22,,3,4,59,MIN 18,0,GB,
-18,3268,2,08:41,,4,4,48,GB 39,0,GB,
-18,3316,1,07:30,,10,4,62,MIN 25,0,GB,
-18,3244,1,09:19,,10,4,23,GB 33,0,GB,
-18,3292,1,08:02,,10,4,59,MIN 36,0,GB,
-1,160,4,12:16,,3,1,59,MIN 38,0,MIN,
-1,248,4,10:49,,10,1,59,GB 21,1,MIN,FG
-1,93,1,13:40,,10,1,11,MIN 31,0,MIN,
-1,36,0,15:00,,0,1,0,GB 35,0,GB,KICKOFF
-1,136,3,12:50,,11,1,18,MIN 30,0,MIN,
-1,115,2,13:35,,10,1,10,MIN 31,0,MIN,
-1,72,2,14:24,,9,1,11,MIN 21,0,MIN,
-1,185,1,11:31,,10,1,59,GB 21,0,MIN,
-1,204,2,11:00,,10,1,59,GB 21,0,MIN,
-1,51,1,15:00,,10,1,1,MIN 20,0,MIN,
-1,226,3,10:54,,10,1,59,GB 21,0,MIN,
-5,937,2,12:26,,10,2,24,MIN 16,0,MIN,
-5,1046,4,08:48,,10,2,24,MIN 40,0,MIN,PUNT
-5,982,1,11:01,,10,2,26,MIN 40,0,MIN,
-5,958,3,11:44,,8,2,24,MIN 18,0,MIN,
-5,916,1,12:48,,10,2,0,MIN 16,0,MIN,
-5,1027,3,09:29,,7,2,24,MIN 43,0,MIN,
-5,1003,2,10:21,,8,2,27,MIN 42,0,MIN,
-13,2210,1,10:23,,10,3,0,GB 27,0,GB,
-13,2259,3,08:59,,9,3,1,GB 28,0,GB,
-13,2281,4,08:52,,9,3,1,GB 28,0,GB,PUNT
-13,2188,0,10:32,,0,3,0,MIN 35,0,MIN,KICKOFF
-13,2235,2,09:48,,10,3,1,GB 27,0,GB,
-21,3712,2,02:00,,10,4,5,MIN 20,0,MIN,
-21,3695,0,02:00,,0,4,0,,0,,
-21,3733,0,01:53,,0,4,5,,0,,TIMEOUT
-21,3750,3,01:53,,5,4,7,MIN 25,0,MIN,
-21,3771,0,01:08,,0,4,7,,0,,TIMEOUT
-21,3792,4,01:07,,3,4,7,MIN 27,0,MIN,PUNT
-21,3663,1,02:09,,10,4,7,MIN 20,0,MIN,FUMBLE
-11,2003,3,14:09,,5,3,9,GB 25,0,GB,
-11,1970,3,14:15,,10,3,5,GB 20,0,GB,PENALTY
-11,1913,0,15:00,,0,3,0,MIN 35,0,MIN,KICKOFF
-11,1928,1,15:00,,10,3,9,GB 20,0,GB,
-11,1949,2,14:31,,5,3,0,GB 25,0,GB,
-11,2027,4,13:33,,1,3,9,GB 29,0,GB,PUNT
-14,2318,1,08:42,,10,3,6,MIN 23,0,MIN,
-14,2362,1,07:55,,10,3,14,MIN 34,0,MIN,
-14,2383,2,07:09,,7,3,16,MIN 37,0,MIN,
-14,2339,2,08:42,,4,3,11,MIN 29,0,MIN,PENALTY
-14,2404,3,06:35,,5,3,16,MIN 39,0,MIN,INT
-8,1538,2,01:30,,4,2,41,MIN 39,0,GB,
-8,1514,1,01:55,,10,2,41,MIN 45,0,GB,
-8,1584,0,00:52,,0,2,40,,0,,TIMEOUT
-8,1474,2,02:00,,11,2,35,GB 43,0,GB,PENALTY
-8,1409,1,02:55,,10,2,24,GB 20,0,GB,
-8,1394,0,02:55,,0,2,0,MIN 35,0,MIN,KICKOFF
-8,1601,4,00:52,,5,2,40,MIN 40,0,GB,
-8,1457,0,02:00,,0,2,23,,0,,
-8,1433,1,02:26,,10,2,23,GB 44,0,GB,
-8,1560,3,01:27,,4,2,40,MIN 39,0,GB,
-19,3405,0,05:35,,0,4,0,GB 35,0,GB,FUMBLE
-22,3964,3,00:15,,3,4,20,MIN 39,0,GB,
-22,3994,4,00:01,,2,4,20,MIN 38,0,GB,
-22,3942,2,00:24,,3,4,19,MIN 39,0,GB,
-22,3823,1,00:58,,10,4,0,GB 42,0,GB,
-22,3918,1,00:27,,10,4,19,MIN 46,0,GB,
-22,3872,3,00:50,,10,4,0,GB 42,0,GB,
-22,3894,4,00:43,,10,4,12,GB 42,0,GB,
-22,3850,2,00:54,,10,4,0,GB 42,0,GB,
-12,2154,3,10:37,,2,3,58,GB 3,1,MIN,TD
-12,2091,1,12:24,,10,3,47,GB 37,0,MIN,
-12,2133,2,11:12,,5,3,55,GB 6,0,MIN,
-12,2172,0,10:32,,0,3,58,GB 15,1,MIN,XP
-12,2070,1,12:59,,10,3,21,GB 47,0,MIN,
-12,2112,1,11:46,,10,3,52,GB 11,0,MIN,
-12,2046,1,13:27,,10,3,11,MIN 42,0,MIN,
-16,2955,3,15:00,,3,4,65,MIN 26,0,GB,
-16,2742,2,03:43,,10,3,37,GB 33,0,GB,PENALTY
-16,2976,1,14:21,,10,4,64,MIN 15,0,GB,
-16,2673,1,04:28,,10,3,0,GB 20,0,GB,
-16,2819,2,02:09,,3,3,43,MIN 36,0,GB,
-16,2886,1,00:39,,10,3,50,MIN 33,0,GB,
-16,2840,3,01:24,,4,3,43,MIN 37,0,GB,
-16,2862,4,01:18,,4,3,47,MIN 37,0,GB,
-16,2908,2,00:12,,7,3,54,MIN 30,0,GB,
-16,3016,0,13:27,,0,4,80,MIN 15,1,GB,XP
-16,2798,1,02:49,,10,3,44,MIN 43,0,GB,
-16,2774,2,03:14,,18,3,37,GB 25,0,GB,
-16,2720,1,03:49,,10,3,13,GB 33,0,GB,
-16,2929,0,,,0,3,54,,0,,
-16,2995,2,13:37,,11,4,80,MIN 16,1,GB,TD
-16,2696,2,04:23,,10,3,13,GB 20,0,GB,
-16,2647,0,04:28,,0,3,54,MIN 35,0,MIN,KICKOFF
-7,1333,2,03:45,,8,2,48,GB 9,0,MIN,
-7,1259,1,05:11,,10,2,34,GB 26,0,MIN,
-7,1374,4,02:58,,13,2,43,GB 14,1,MIN,FG
-7,1312,1,04:21,,10,2,48,GB 11,0,MIN,
-7,1280,2,04:38,,7,2,43,GB 23,0,MIN,PENALTY
-7,1355,3,03:39,,8,2,43,GB 9,0,MIN,
-7,1235,1,05:45,,10,2,31,GB 41,0,MIN,
-7,1204,1,06:32,,10,2,16,MIN 43,0,MIN,
-3,726,4,00:33,,2,1,8,MIN 32,0,MIN,PUNT
-3,662,1,01:57,,10,1,6,MIN 24,0,MIN,
-3,704,3,00:37,,2,1,8,MIN 32,0,MIN,
-3,640,0,02:02,,0,1,0,GB 35,0,GB,KICKOFF
-3,683,2,01:22,,4,1,8,MIN 30,0,MIN,
-17,3124,1,11:47,,10,4,18,MIN 42,0,MIN,
-17,3089,2,12:07,,4,4,18,MIN 36,0,MIN,PENALTY
-17,3172,3,10:42,,14,4,28,MIN 38,0,MIN,
-17,3196,4,10:07,,4,4,28,MIN 48,0,MIN,PUNT
-17,3032,0,13:27,,0,4,10,GB 35,0,GB,KICKOFF
-17,3145,2,11:05,,12,4,18,MIN 40,0,MIN,
-17,3047,1,13:27,,10,4,10,MIN 20,0,MIN,
-17,3068,1,12:49,,10,4,16,MIN 30,0,MIN,
-4,886,4,12:58,,14,2,7,GB 23,0,GB,FUMBLE
-4,824,1,14:28,,10,2,11,GB 27,0,GB,
-4,787,0,,,0,1,9,,0,,
-4,867,3,13:35,,8,2,7,GB 29,0,GB,
-4,763,1,00:22,,10,1,9,GB 16,0,GB,
-4,846,2,14:21,,10,2,13,GB 27,0,GB,
-4,803,2,15:00,,1,2,11,GB 25,0,GB,
-2,421,4,07:11,,1,1,23,GB 41,0,GB,
-2,529,3,04:00,,1,1,61,MIN 24,0,GB,
-2,508,2,04:45,,6,1,56,MIN 29,0,GB,
-2,620,4,02:06,,1,1,70,MIN 10,1,GB,FG
-2,463,2,05:55,,4,1,47,GB 49,0,GB,
-2,325,1,09:37,,10,1,17,GB 32,0,GB,PENALTY
-2,574,2,02:55,,2,1,69,MIN 11,0,GB,
-2,283,1,10:45,,10,1,1,GB 20,0,GB,
-2,487,1,05:20,,10,1,51,MIN 33,0,GB,
-2,596,3,02:48,,2,1,70,MIN 11,0,GB,
-2,304,2,10:12,,9,1,12,GB 21,0,GB,
-2,550,1,03:30,,10,1,69,MIN 19,0,GB,
-2,400,3,08:10,,3,1,21,GB 39,0,GB,
-2,358,1,09:29,,5,1,16,GB 37,0,GB,
-2,379,2,08:54,,6,1,19,GB 36,0,GB,
-2,442,1,06:36,,10,1,29,GB 43,0,GB,
-2,268,0,10:45,,0,1,0,MIN 35,0,MIN,KICKOFF
-15,2568,3,04:42,,12,3,-2,MIN 45,1,GB,TD
-15,2532,3,05:12,,2,3,-2,MIN 35,0,GB,PENALTY
-15,2515,0,05:13,,0,3,8,,0,,TIMEOUT
-15,2494,2,05:56,,6,3,8,MIN 39,0,GB,
-15,2431,1,06:28,,10,3,8,MIN 43,0,GB,
+20,3439,1,05:21,(5:21) (Shotgun) A.Rodgers pass short left to R.Cobb to GB 40 for 17 yards (C.Munnerlyn).,10,4,17,GB 23,0,GB,
+20,3591,3,02:27,(2:27) (Shotgun) A.Rodgers pass incomplete short right to J.Jones [E.Kendricks].,13,4,64,MIN 13,0,GB,
+20,3613,0,02:18,Timeout #2 by GB at 02:18.,0,4,64,,0,,TIMEOUT
+20,3463,1,04:37,"(4:37) (No Huddle, Shotgun) A.Rodgers pass deep middle to J.Jones to MIN 23 for 37 yards (T.Newman). MIN-A.Barr was injured during the play.",10,4,54,GB 40,0,GB,
+20,3513,2,03:56,"(3:56) (No Huddle, Shotgun) A.Rodgers pass short middle to J.Kuhn to MIN 10 for 13 yards (A.Sendejo).",10,4,67,MIN 23,0,GB,
+20,3487,1,04:02,(4:02) (Shotgun) A.Rodgers pass incomplete deep left to J.Jones.,10,4,54,MIN 23,0,GB,
+20,3572,2,03:10,(3:10) (Shotgun) A.Rodgers sacked at MIN 13 for -3 yards (S.Floyd).,10,4,64,MIN 10,0,GB,
+20,3630,4,02:18,(2:18) (Shotgun) A.Rodgers pass deep left intended for J.Jones INTERCEPTED by X.Rhodes [T.Johnson] at MIN -4. Touchback.,13,4,64,MIN 13,0,GB,INT
+20,3537,1,03:17,"(3:17) (No Huddle, Shotgun) A.Rodgers pass short left to R.Cobb to MIN 10 for no gain (C.Munnerlyn). Penalty on GB-L.Taylor, Ineligible Downfield Pass, declined.",10,4,67,MIN 10,0,GB,
+21,3771,0,01:08,Timeout #1 by MIN at 01:08.,0,4,7,,0,,TIMEOUT
+21,3663,1,02:09,"(2:09) T.Bridgewater FUMBLES (Aborted) at MIN 15, recovered by MIN-A.Peterson at MIN 20. A.Peterson to MIN 20 for no gain (J.Ryan).",10,4,7,MIN 20,0,MIN,FUMBLE
+21,3712,2,02:00,"(2:00) A.Peterson left end to MIN 25 for 5 yards (J.Peppers, C.Matthews).",10,4,5,MIN 20,0,MIN,
+21,3750,3,01:53,"(1:53) A.Peterson up the middle to MIN 27 for 2 yards (H.Clinton-Dix, J.Ryan).",5,4,7,MIN 25,0,MIN,
+21,3695,0,02:00,Two-Minute Warning,0,4,0,,0,,
+21,3792,4,01:07,"(1:07) J.Locke punts 36 yards to GB 37, Center-K.McDermott. M.Hyde pushed ob at GB 42 for 5 yards (A.Sendejo).",3,4,7,MIN 27,0,MIN,PUNT
+21,3733,0,01:53,Timeout #3 by GB at 01:53.,0,4,5,,0,,TIMEOUT
+22,3823,1,00:58,(:58) (Shotgun) A.Rodgers pass incomplete short middle to D.Adams [T.Johnson].,10,4,0,GB 42,0,GB,
+22,3942,2,00:24,"(:24) (No Huddle, Shotgun) A.Rodgers pass incomplete deep left to J.Jones.",3,4,19,MIN 39,0,GB,
+22,3918,1,00:27,(:27) (No Huddle) A.Rodgers pass short right to D.Adams pushed ob at MIN 39 for 7 yards (T.Newman).,10,4,19,MIN 46,0,GB,
+22,3964,3,00:15,"(:15) (No Huddle, Shotgun) A.Rodgers pass short left to R.Rodgers to MIN 38 for 1 yard (X.Rhodes).",3,4,20,MIN 39,0,GB,
+22,3850,2,00:54,"(:54) (No Huddle, Shotgun) A.Rodgers pass incomplete short middle to R.Cobb.",10,4,0,GB 42,0,GB,
+22,3994,4,00:01,"(:01) (No Huddle, Shotgun) A.Rodgers pass incomplete deep left to J.Jones (A.Barr).",2,4,20,MIN 38,0,GB,
+22,3872,3,00:50,"(:50) (No Huddle, Shotgun) A.Rodgers pass incomplete deep right to R.Rodgers (C.Munnerlyn).",10,4,0,GB 42,0,GB,
+22,3894,4,00:43,"(:43) (No Huddle, Shotgun) A.Rodgers pass short middle to R.Rodgers to MIN 46 for 12 yards (C.Munnerlyn; A.Sendejo).",10,4,12,GB 42,0,GB,
+1,204,2,11:00,(11:00) T.Bridgewater pass incomplete deep right to M.Pruitt.,10,1,59,GB 21,0,MIN,
+1,51,1,15:00,(15:00) A.Peterson left tackle to MIN 21 for 1 yard (M.Pennel; M.Burnett).,10,1,1,MIN 20,0,MIN,
+1,36,0,15:00,"M.Crosby kicks 65 yards from GB 35 to end zone, Touchback.",0,1,0,GB 35,0,GB,KICKOFF
+1,115,2,13:35,(13:35) A.Peterson left end to MIN 30 for -1 yards (C.Matthews).,10,1,10,MIN 31,0,MIN,
+1,136,3,12:50,(12:50) (Shotgun) T.Bridgewater pass short middle to J.McKinnon to MIN 38 for 8 yards (J.Thomas).,11,1,18,MIN 30,0,MIN,
+1,185,1,11:31,(11:31) T.Bridgewater sacked ob at GB 21 for 0 yards (H.Clinton-Dix).,10,1,59,GB 21,0,MIN,
+1,226,3,10:54,(10:54) (Shotgun) T.Bridgewater pass incomplete deep right to J.Wright.,10,1,59,GB 21,0,MIN,
+1,93,1,13:40,(13:40) (Shotgun) T.Bridgewater pass incomplete deep right to J.McKinnon.,10,1,11,MIN 31,0,MIN,
+1,160,4,12:16,(12:16) A.Thielen left end to GB 21 for 41 yards (A.Mulumba).,3,1,59,MIN 38,0,MIN,
+1,248,4,10:49,"(10:49) B.Walsh 39 yard field goal is GOOD, Center-K.McDermott, Holder-J.Locke.",10,1,59,GB 21,1,MIN,FG
+1,72,2,14:24,(14:24) A.Peterson right guard to MIN 31 for 10 yards (M.Burnett).,9,1,11,MIN 21,0,MIN,
+3,704,3,00:37,(:37) (Shotgun) T.Bridgewater pass incomplete short middle to M.Wallace.,2,1,8,MIN 32,0,MIN,
+3,640,0,02:02,M.Crosby kicks 65 yards from GB 35 to MIN 0. J.McKinnon to MIN 24 for 24 yards (N.Palmer).,0,1,0,GB 35,0,GB,KICKOFF
+3,726,4,00:33,"(:33) J.Locke punts 52 yards to GB 16, Center-K.McDermott. M.Hyde to GB 26 for 10 yards (J.Trattou). PENALTY on GB-J.Janis, Illegal Block Above the Waist, 10 yards, enforced at GB 26.",2,1,8,MIN 32,0,MIN,PUNT
+3,662,1,01:57,(1:57) A.Peterson up the middle to MIN 30 for 6 yards (J.Ryan).,10,1,6,MIN 24,0,MIN,
+3,683,2,01:22,(1:22) A.Peterson left tackle to MIN 32 for 2 yards (M.Daniels; L.Guion).,4,1,8,MIN 30,0,MIN,
+2,620,4,02:06,"(2:06) M.Crosby 28 yard field goal is GOOD, Center-R.Lovato, Holder-T.Masthay.",1,1,70,MIN 10,1,GB,FG
+2,596,3,02:48,(2:48) A.Rodgers pass short right to J.Kuhn to MIN 10 for 1 yard (C.Greenway).,2,1,70,MIN 11,0,GB,
+2,442,1,06:36,(6:36) E.Lacy right end to GB 49 for 6 yards (S.Floyd; E.Griffen).,10,1,29,GB 43,0,GB,
+2,400,3,08:10,(8:10) (Shotgun) A.Rodgers scrambles up the middle to GB 41 for 2 yards (E.Kendricks).,3,1,21,GB 39,0,GB,
+2,304,2,10:12,"(10:12) E.Lacy right tackle to GB 32 for 11 yards (A.Sendejo, T.Johnson).",9,1,12,GB 21,0,GB,
+2,550,1,03:30,(3:30) A.Rodgers pass short left to J.Jones pushed ob at MIN 11 for 8 yards (H.Smith).,10,1,69,MIN 19,0,GB,
+2,463,2,05:55,(5:55) A.Rodgers pass short middle to R.Rodgers to MIN 33 for 18 yards (A.Sendejo).,4,1,47,GB 49,0,GB,
+2,574,2,02:55,(2:55) A.Rodgers pass incomplete short left to J.Jones.,2,1,69,MIN 11,0,GB,
+2,379,2,08:54,(8:54) J.Kuhn right guard to GB 39 for 3 yards (E.Griffen).,6,1,19,GB 36,0,GB,
+2,487,1,05:20,(5:20) E.Lacy left tackle to MIN 29 for 4 yards (A.Sendejo).,10,1,51,MIN 33,0,GB,
+2,508,2,04:45,(4:45) (No Huddle) E.Lacy left end to MIN 24 for 5 yards (C.Greenway).,6,1,56,MIN 29,0,GB,
+2,325,1,09:37,"(9:37) A.Rodgers pass incomplete deep right to R.Rodgers. PENALTY on MIN-T.Johnson, Defensive Offside, 5 yards, enforced at GB 32 - No Play.",10,1,17,GB 32,0,GB,PENALTY
+2,421,4,07:11,"(7:11) E.Lacy left guard to GB 43 for 2 yards (S.Floyd, A.Sendejo).",1,1,23,GB 41,0,GB,
+2,283,1,10:45,"(10:45) E.Lacy left end to GB 21 for 1 yard (H.Smith, S.Floyd).",10,1,1,GB 20,0,GB,
+2,268,0,10:45,"B.Walsh kicks 65 yards from MIN 35 to end zone, Touchback.",0,1,0,MIN 35,0,MIN,KICKOFF
+2,529,3,04:00,(4:00) J.Starks right end to MIN 19 for 5 yards (C.Greenway).,1,1,61,MIN 24,0,GB,
+2,358,1,09:29,(9:29) E.Lacy right end to GB 36 for -1 yards (C.Greenway).,5,1,16,GB 37,0,GB,
+5,958,3,11:44,(11:44) (Shotgun) T.Bridgewater pass short middle to M.Wallace to MIN 40 for 22 yards (M.Burnett).,8,2,24,MIN 18,0,MIN,
+5,1027,3,09:29,(9:29) (Shotgun) T.Bridgewater sacked at MIN 40 for -3 yards (J.Peppers).,7,2,24,MIN 43,0,MIN,
+5,1046,4,08:48,"(8:48) J.Locke punts 41 yards to GB 19, Center-K.McDermott, fair catch by M.Hyde.",10,2,24,MIN 40,0,MIN,PUNT
+5,982,1,11:01,(11:01) A.Peterson up the middle to MIN 42 for 2 yards (L.Guion; M.Burnett).,10,2,26,MIN 40,0,MIN,
+5,1003,2,10:21,(10:21) (Shotgun) T.Bridgewater pass short left to A.Peterson to MIN 43 for 1 yard (J.Ryan).,8,2,27,MIN 42,0,MIN,
+5,916,1,12:48,(12:48) A.Peterson right tackle to MIN 16 for no gain (D.Jones).,10,2,0,MIN 16,0,MIN,
+5,937,2,12:26,(12:26) (No Huddle) A.Peterson right end to MIN 18 for 2 yards (B.Raji; M.Daniels).,10,2,24,MIN 16,0,MIN,
+4,846,2,14:21,(14:21) (No Huddle) J.Starks left end to GB 29 for 2 yards (S.Floyd).,10,2,13,GB 27,0,GB,
+4,787,0,,END QUARTER 1,0,1,9,,0,,
+4,886,4,12:58,"(12:58) T.Masthay punts 47 yards to MIN 30, Center-R.Lovato. M.Sherels MUFFS catch, touched at MIN 26, ball out of bounds at MIN 16. Ball batted at Minn 26 by Minn 35 Sherels.",14,2,7,GB 23,0,GB,FUMBLE
+4,763,1,00:22,(:22) A.Rodgers pass short right to R.Rodgers to GB 25 for 9 yards (A.Sendejo).,10,1,9,GB 16,0,GB,
+4,867,3,13:35,(13:35) (Shotgun) A.Rodgers sacked at GB 23 for -6 yards (sack split by T.Johnson and H.Smith).,8,2,7,GB 29,0,GB,
+4,803,2,15:00,(15:00) J.Starks right guard to GB 27 for 2 yards (C.Greenway).,1,2,11,GB 25,0,GB,
+4,824,1,14:28,(14:28) (No Huddle) A.Rodgers pass incomplete short right to A.Quarless.,10,2,11,GB 27,0,GB,
+7,1235,1,05:45,(5:45) (Shotgun) T.Bridgewater pass short right to J.McKinnon pushed ob at GB 26 for 15 yards (N.Perry).,10,2,31,GB 41,0,MIN,
+7,1280,2,04:38,"(4:38) A.Peterson right guard to GB 20 for 3 yards (M.Neal). PENALTY on GB-C.Matthews, Unnecessary Roughness, 9 yards, enforced at GB 20.",7,2,43,GB 23,0,MIN,PENALTY
+7,1204,1,06:32,"(6:32) T.Bridgewater pass short right to A.Thielen to GB 41 for 16 yards (D.Randall, M.Burnett).",10,2,16,MIN 43,0,MIN,
+7,1374,4,02:58,"(2:58) B.Walsh 32 yard field goal is GOOD, Center-K.McDermott, Holder-J.Locke.",13,2,43,GB 14,1,MIN,FG
+7,1333,2,03:45,(3:45) T.Bridgewater pass incomplete short right.,8,2,48,GB 9,0,MIN,
+7,1355,3,03:39,(3:39) (Shotgun) T.Bridgewater sacked at GB 14 for -5 yards (C.Matthews).,8,2,43,GB 9,0,MIN,
+7,1312,1,04:21,(4:21) A.Peterson right tackle to GB 9 for 2 yards (J.Ryan; M.Daniels).,10,2,48,GB 11,0,MIN,
+7,1259,1,05:11,(5:11) A.Peterson up the middle to GB 23 for 3 yards (D.Jones).,10,2,34,GB 26,0,MIN,
+6,1139,4,06:44,"(6:44) (Punt formation) PENALTY on GB-R.Lovato, False Start, 5 yards, enforced at GB 24 - No Play.",5,2,0,GB 24,0,GB,PENALTY
+6,1170,4,06:41,"(6:41) T.Masthay punts 49 yards to MIN 32, Center-R.Lovato. M.Sherels pushed ob at MIN 43 for 11 yards (C.Banjo).",10,2,0,GB 19,0,GB,PUNT
+6,1115,3,07:28,"(7:28) (No Huddle, Shotgun) A.Rodgers pass short middle to E.Lacy to GB 24 for 14 yards (E.Kendricks).",19,2,5,GB 10,0,GB,
+6,1091,2,08:11,"(8:11) (No Huddle, Shotgun) A.Rodgers pass short left to E.Lacy to GB 10 for -7 yards (K.Ellis; A.Barr) [E.Griffen].",12,2,0,GB 17,0,GB,
+6,1066,1,08:41,"(8:41) (No Huddle) E.Lacy left tackle to GB 17 for -2 yards (E.Griffen, E.Kendricks).",10,2,0,GB 19,0,GB,
+9,1776,3,00:23,(:23) (Shotgun) T.Bridgewater pass short middle to S.Diggs to GB 42 for 8 yards (M.Hyde).,10,2,18,50,0,MIN,
+9,1715,0,00:34,Timeout #2 by MIN at 00:34.,0,2,10,,0,,TIMEOUT
+9,1800,0,00:15,Timeout #3 by MIN at 00:15.,0,2,18,,0,,TIMEOUT
+9,1732,1,00:34,(:34) (Shotgun) T.Bridgewater pass incomplete short middle (M.Daniels).,10,2,10,50,0,MIN,
+9,1840,4,00:12,"(:12) J.Locke punts 30 yards to GB 17, Center-K.McDermott, fair catch by M.Hyde.",7,2,13,GB 47,0,MIN,PUNT
+9,1817,4,00:15,"(:15) (Shotgun) PENALTY on MIN-T.Bridgewater, Delay of Game, 5 yards, enforced at GB 42 - No Play.",2,2,13,GB 42,0,MIN,PENALTY
+9,1669,1,00:46,(:46) (Shotgun) T.Bridgewater pass incomplete deep left to S.Diggs.,10,2,13,MIN 40,0,MIN,
+9,1691,2,00:40,(:40) (Shotgun) T.Bridgewater pass short middle to J.McKinnon to 50 for 10 yards (M.Burnett).,10,2,10,MIN 40,0,MIN,
+9,1754,2,00:29,(:29) (Shotgun) T.Bridgewater pass incomplete short right to K.Rudolph.,10,2,10,50,0,MIN,
+8,1433,1,02:26,"(2:26) (No Huddle, Shotgun) A.Rodgers pass short middle to J.Starks to GB 43 for -1 yards (A.Barr) [E.Griffen].",10,2,23,GB 44,0,GB,
+8,1601,4,00:52,(:52) (Shotgun) A.Rodgers pass incomplete deep left to J.Jones.,5,2,40,MIN 40,0,GB,
+8,1584,0,00:52,Timeout #1 by MIN at 00:52.,0,2,40,,0,,TIMEOUT
+8,1409,1,02:55,(2:55) (Shotgun) A.Rodgers pass short right to D.Adams to GB 44 for 24 yards (D.Hunter).,10,2,24,GB 20,0,GB,
+8,1457,0,02:00,Two-Minute Warning,0,2,23,,0,,
+8,1474,2,02:00,"(2:00) (Shotgun) A.Rodgers pass incomplete short right to J.Jones [A.Barr]. PENALTY on MIN-T.Newman, Defensive Pass Interference, 12 yards, enforced at GB 43 - No Play.",11,2,35,GB 43,0,GB,PENALTY
+8,1560,3,01:27,"(1:27) (No Huddle, Shotgun) A.Rodgers pass short left to R.Rodgers to MIN 40 for -1 yards (E.Kendricks). The Replay Official reviewed the runner was down by contact ruling, and the play was Upheld. The ruling on the field stands.",4,2,40,MIN 39,0,GB,
+8,1514,1,01:55,"(1:55) (Shotgun) A.Rodgers pass short right to J.Starks to MIN 39 for 6 yards (T.Newman, A.Barr).",10,2,41,MIN 45,0,GB,
+8,1394,0,02:55,"B.Walsh kicks 65 yards from MIN 35 to end zone, Touchback.",0,2,0,MIN 35,0,MIN,KICKOFF
+8,1538,2,01:30,"(1:30) (No Huddle, Shotgun) A.Rodgers pass incomplete short left to R.Cobb.",4,2,41,MIN 39,0,GB,
+11,1949,2,14:31,"(14:31) (No Huddle, Shotgun) E.Lacy left tackle to GB 20 for -5 yards (E.Griffen).",5,3,0,GB 25,0,GB,
+11,1970,3,14:15,"(14:15) (No Huddle) A.Rodgers pass incomplete deep left to J.Jones. PENALTY on MIN-S.Floyd, Defensive 12 On-field, 5 yards, enforced at GB 20 - No Play.",10,3,5,GB 20,0,GB,PENALTY
+11,2003,3,14:09,(14:09) (Shotgun) A.Rodgers pass short right to R.Cobb to GB 29 for 4 yards (T.Newman; A.Sendejo).,5,3,9,GB 25,0,GB,
+11,2027,4,13:33,"(13:33) T.Masthay punts 29 yards to MIN 42, Center-R.Lovato, out of bounds.",1,3,9,GB 29,0,GB,PUNT
+11,1928,1,15:00,"(15:00) (Shotgun) E.Lacy up the middle to GB 25 for 5 yards (S.Floyd, E.Kendricks).",10,3,9,GB 20,0,GB,
+11,1913,0,15:00,"B.Walsh kicks 65 yards from MIN 35 to end zone, Touchback.",0,3,0,MIN 35,0,MIN,KICKOFF
+10,1875,1,00:08,(:08) A.Rodgers kneels to GB 16 for -1 yards.,10,2,-1,GB 17,0,GB,
+10,1897,0,,END QUARTER 2,0,2,-1,,0,,
+13,2210,1,10:23,(10:23) (Shotgun) E.Lacy right end to GB 27 for no gain (A.Sendejo).,10,3,0,GB 27,0,GB,
+13,2188,0,10:32,"B.Walsh kicks 64 yards from MIN 35 to GB 1. J.Janis to GB 27 for 26 yards (J.McKinnon, R.Blanton). MIN-A.Thielen was injured during the play.",0,3,0,MIN 35,0,MIN,KICKOFF
+13,2235,2,09:48,"(9:48) (No Huddle, Shotgun) A.Rodgers pass short left to R.Cobb pushed ob at GB 28 for 1 yard (C.Greenway).",10,3,1,GB 27,0,GB,
+13,2259,3,08:59,"(8:59) (No Huddle, Shotgun) A.Rodgers pass incomplete short right to D.Adams.",9,3,1,GB 28,0,GB,
+13,2281,4,08:52,"(8:52) T.Masthay punts 49 yards to MIN 23, Center-R.Lovato. M.Sherels to MIN 36 for 13 yards (J.Ryan). PENALTY on MIN-E.Robinson, Illegal Block Above the Waist, 10 yards, enforced at MIN 33.",9,3,1,GB 28,0,GB,PUNT
+12,2046,1,13:27,(13:27) T.Bridgewater pass short right to J.Wright pushed ob at GB 47 for 11 yards (D.Randall).,10,3,11,MIN 42,0,MIN,
+12,2172,0,10:32,"B.Walsh extra point is GOOD, Center-K.McDermott, Holder-J.Locke.",0,3,58,GB 15,1,MIN,XP
+12,2133,2,11:12,(11:12) A.Peterson up the middle to GB 3 for 3 yards (L.Guion).,5,3,55,GB 6,0,MIN,
+12,2154,3,10:37,"(10:37) (Shotgun) A.Peterson up the middle for 3 yards, TOUCHDOWN.",2,3,58,GB 3,1,MIN,TD
+12,2091,1,12:24,(12:24) A.Thielen right end pushed ob at GB 11 for 26 yards (D.Randall).,10,3,47,GB 37,0,MIN,
+12,2112,1,11:46,(11:46) A.Peterson right end pushed ob at GB 6 for 5 yards (H.Clinton-Dix).,10,3,52,GB 11,0,MIN,
+12,2070,1,12:59,(12:59) A.Peterson left guard to GB 37 for 10 yards (C.Hayward; N.Perry).,10,3,21,GB 47,0,MIN,
+15,2532,3,05:12,"(5:12) (Shotgun) E.Lacy up the middle pushed ob at MIN 30 for 5 yards (E.Kendricks). MIN-K.Ellis was injured during the play.  PENALTY on GB-C.Linsley, Offensive Holding, 10 yards, enforced at MIN 35 - No Play.",2,3,-2,MIN 35,0,GB,PENALTY
+15,2515,0,05:13,Timeout #1 by GB at 05:13.,0,3,8,,0,,TIMEOUT
+15,2431,1,06:28,(6:28) E.Lacy left tackle to MIN 39 for 4 yards (K.Ellis).,10,3,8,MIN 43,0,GB,
+15,2494,2,05:56,(5:56) (No Huddle) E.Lacy left guard to MIN 35 for 4 yards (K.Ellis; H.Smith).,6,3,8,MIN 39,0,GB,
+15,2568,3,04:42,"(4:42) (Shotgun) A.Rodgers sacked at GB 47 for -8 yards (E.Griffen). FUMBLES (E.Griffen), RECOVERED by MIN-C.Munnerlyn at MIN 45. C.Munnerlyn for 55 yards, TOUCHDOWN. The Replay Official reviewed the fumble ruling, and the play was Upheld. The ruling on the field was confirmed.",12,3,-2,MIN 45,1,GB,TD
+14,2339,2,08:42,"(8:42) PENALTY on GB-M.Pennel, Neutral Zone Infraction, 5 yards, enforced at MIN 29 - No Play.",4,3,11,MIN 29,0,MIN,PENALTY
+14,2383,2,07:09,(7:09) (Shotgun) T.Bridgewater scrambles right end ran ob at MIN 39 for 2 yards (M.Neal).,7,3,16,MIN 37,0,MIN,
+14,2404,3,06:35,"(6:35) (Shotgun) T.Bridgewater pass short middle intended for M.Wallace INTERCEPTED by M.Hyde [M.Neal] at MIN 43. M.Hyde to MIN 43 for no gain (J.Wright). The Replay Official reviewed the incomplete pass ruling, and the play was Upheld. The ruling on the field was confirmed.",5,3,16,MIN 39,0,MIN,INT
+14,2362,1,07:55,(7:55) A.Peterson right end to MIN 37 for 3 yards (M.Burnett).,10,3,14,MIN 34,0,MIN,
+14,2318,1,08:42,(8:42) A.Peterson up the middle to MIN 29 for 6 yards (M.Pennel).,10,3,6,MIN 23,0,MIN,
+17,3172,3,10:42,(10:42) (Shotgun) T.Bridgewater pass short middle to J.Wright to MIN 48 for 10 yards (J.Thomas).,14,4,28,MIN 38,0,MIN,
+17,3124,1,11:47,"(11:47) J.McKinnon right end to MIN 40 for -2 yards (J.Ryan, M.Daniels).",10,4,18,MIN 42,0,MIN,
+17,3032,0,13:27,"M.Crosby kicks 65 yards from GB 35 to end zone, Touchback.",0,4,10,GB 35,0,GB,KICKOFF
+17,3196,4,10:07,"(10:07) J.Locke punts 36 yards to GB 16, Center-K.McDermott, fair catch by J.Abbrederis. Yard marker changed due to change of possession.",4,4,28,MIN 48,0,MIN,PUNT
+17,3089,2,12:07,"(12:07) J.McKinnon left tackle to MIN 37 for 1 yard (J.Ryan). PENALTY on GB-B.Raji, Illegal Use of Hands, 5 yards, enforced at MIN 37.",4,4,18,MIN 36,0,MIN,PENALTY
+17,3145,2,11:05,(11:05) T.Bridgewater pass short right to R.Ellison to MIN 38 for -2 yards (N.Perry). MIN-R.Ellison was injured during the play.,12,4,18,MIN 40,0,MIN,
+17,3068,1,12:49,(12:49) J.McKinnon up the middle to MIN 36 for 6 yards (M.Burnett).,10,4,16,MIN 30,0,MIN,
+17,3047,1,13:27,(13:27) J.McKinnon right end to MIN 30 for 10 yards (H.Clinton-Dix).,10,4,10,MIN 20,0,MIN,
+16,2929,0,,END QUARTER 3,0,3,54,,0,,
+16,2862,4,01:18,(1:18) (Shotgun) A.Rodgers pass short left to R.Cobb to MIN 33 for 4 yards (X.Rhodes) [E.Griffen].,4,3,47,MIN 37,0,GB,
+16,2886,1,00:39,(:39) (Shotgun) J.Starks up the middle to MIN 30 for 3 yards (E.Kendricks).,10,3,50,MIN 33,0,GB,
+16,3016,0,13:27,"M.Crosby extra point is GOOD, Center-R.Lovato, Holder-T.Masthay.",0,4,80,MIN 15,1,GB,XP
+16,2720,1,03:49,"(3:49) (No Huddle, Shotgun) A.Rodgers pass incomplete short left.",10,3,13,GB 33,0,GB,
+16,2819,2,02:09,"(2:09) (No Huddle, Shotgun) J.Starks left end to MIN 37 for -1 yards (E.Kendricks; C.Greenway).",3,3,43,MIN 36,0,GB,
+16,2908,2,00:12,"(:12) (No Huddle, Shotgun) J.Starks right end to MIN 26 for 4 yards (H.Smith).",7,3,54,MIN 30,0,GB,
+16,2774,2,03:14,(3:14) (Shotgun) A.Rodgers pass deep right to J.Jones ran ob at MIN 43 for 32 yards (T.Newman).,18,3,37,GB 25,0,GB,
+16,2798,1,02:49,"(2:49) (No Huddle, Shotgun) J.Starks left tackle to MIN 36 for 7 yards (S.Floyd).",10,3,44,MIN 43,0,GB,
+16,2840,3,01:24,(1:24) A.Rodgers pass incomplete short right to J.Jones.,4,3,43,MIN 37,0,GB,
+16,2647,0,04:28,"B.Walsh kicks 65 yards from MIN 35 to end zone, Touchback.",0,3,54,MIN 35,0,MIN,KICKOFF
+16,2673,1,04:28,(4:28) A.Rodgers pass incomplete short left to J.Jones.,10,3,0,GB 20,0,GB,
+16,2742,2,03:43,"(3:43) (No Huddle, Shotgun) J.Starks right tackle to GB 39 for 6 yards (E.Kendricks, A.Sendejo). PENALTY on GB-J.Sitton, Offensive Holding, 10 yards, enforced at GB 35.",10,3,37,GB 33,0,GB,PENALTY
+16,2955,3,15:00,(15:00) (Shotgun) A.Rodgers scrambles up the middle to MIN 15 for 11 yards (T.Newman).,3,4,65,MIN 26,0,GB,
+16,2696,2,04:23,(4:23) (Shotgun) A.Rodgers pass short left to J.Starks to GB 33 for 13 yards (A.Sendejo).,10,3,13,GB 20,0,GB,
+16,2976,1,14:21,"(14:21) (No Huddle, Shotgun) A.Rodgers sacked at MIN 16 for -1 yards (A.Barr).",10,4,64,MIN 15,0,GB,
+16,2995,2,13:37,"(13:37) (Shotgun) A.Rodgers pass short left to R.Rodgers for 16 yards, TOUCHDOWN.",11,4,80,MIN 16,1,GB,TD
+19,3405,0,05:35,"M.Crosby kicks 66 yards from GB 35 to MIN -1. C.Patterson to GB 31 for 70 yards (M.Crosby). FUMBLES (M.Crosby), RECOVERED by GB-M.Hyde at GB 23. M.Hyde to GB 23 for no gain (J.Trusnik).",0,4,0,GB 35,0,GB,FUMBLE
+18,3216,1,10:00,(10:00) A.Rodgers pass deep middle to D.Adams to GB 33 for 17 yards (A.Sendejo).,10,4,17,GB 16,0,GB,
+18,3385,4,05:39,"(5:39) M.Crosby 43 yard field goal is GOOD, Center-R.Lovato, Holder-T.Masthay.",10,4,59,MIN 25,1,GB,FG
+18,3366,3,06:22,"(6:22) (No Huddle, Shotgun) A.Rodgers sacked at MIN 25 for -7 yards (E.Griffen).",3,4,59,MIN 18,0,GB,
+18,3244,1,09:19,"(9:19) (No Huddle, Shotgun) A.Rodgers pass short right to D.Adams to GB 39 for 6 yards (E.Kendricks).",10,4,23,GB 33,0,GB,
+18,3337,2,06:55,"(6:55) (No Huddle, Shotgun) A.Rodgers pass short left to R.Rodgers pushed ob at MIN 18 for 4 yards (A.Sendejo; A.Barr).",7,4,66,MIN 22,0,GB,
+18,3268,2,08:41,"(8:41) (No Huddle, Shotgun) A.Rodgers pass deep left to J.Jones pushed ob at MIN 36 for 25 yards (X.Rhodes).",4,4,48,GB 39,0,GB,
+18,3292,1,08:02,"(8:02) (No Huddle, Shotgun) A.Rodgers pass short middle to R.Cobb to MIN 25 for 11 yards (C.Munnerlyn).",10,4,59,MIN 36,0,GB,
+18,3316,1,07:30,(7:30) (No Huddle) R.Cobb right end to MIN 22 for 3 yards (T.Johnson).,10,4,62,MIN 25,0,GB,

@@ -1,187 +1,187 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1462,1,08:44,,10,2,-1,DET 17,0,DET,
-9,1547,3,06:52,,9,2,24,DET 41,0,DET,
-9,1576,4,06:46,,9,2,24,DET 41,0,DET,PUNT
-9,1483,2,08:20,,11,2,23,DET 16,0,DET,
-9,1528,2,07:27,,9,2,24,DET 41,0,DET,
-9,1507,1,07:53,,10,2,24,DET 40,0,DET,
-24,4311,3,00:26,,24,4,72,CLE 46,0,CLE,
-24,4106,1,02:01,,10,4,10,CLE 20,0,CLE,
-24,4396,1,00:05,,9,4,72,DET 9,0,CLE,
-24,4420,0,00:00,,0,4,72,,0,,
-24,4260,1,00:57,,10,4,40,DET 40,0,CLE,
-24,4147,1,01:54,,10,4,10,CLE 30,0,CLE,
-24,4191,3,01:45,,10,4,19,CLE 30,0,CLE,
-24,4169,2,01:50,,10,4,10,CLE 30,0,CLE,
-24,4335,1,00:17,,10,4,72,DET 21,0,CLE,
-24,4130,0,01:54,,0,4,10,,0,,
-24,4215,4,01:17,,1,4,25,CLE 39,0,CLE,
-24,4236,1,00:57,,10,4,40,CLE 45,0,CLE,
-24,4357,2,00:17,,10,4,71,DET 21,0,CLE,
-24,4088,0,02:01,,0,4,0,DET 35,0,DET,KICKOFF
-24,4282,2,00:41,,10,4,72,DET 40,0,CLE,FUMBLE
-10,1698,1,04:25,,10,2,80,DET 24,0,CLE,
-10,1823,1,02:00,,4,2,82,DET 4,0,CLE,PENALTY
-10,1846,1,02:00,,2,2,82,DET 2,0,CLE,
-10,1892,0,01:16,,0,2,84,DET 2,1,CLE,XP
-10,1599,1,06:38,,10,2,32,CLE 16,0,CLE,PENALTY
-10,1867,2,01:20,,2,2,84,DET 2,1,CLE,TD
-10,1723,1,03:48,,10,2,80,DET 14,0,CLE,
-10,1653,2,05:49,,1,2,42,CLE 48,0,CLE,
-10,1674,1,05:03,,10,2,80,DET 42,0,CLE,
-10,1768,0,02:21,,0,2,78,,0,,TIMEOUT
-10,1744,2,03:08,,10,2,80,DET 14,0,CLE,
-10,1632,1,06:31,,10,2,32,CLE 39,0,CLE,
-10,1785,3,02:21,,2,2,80,DET 6,0,CLE,
-20,3324,1,10:35,,10,4,14,CLE 20,0,CLE,
-20,3348,1,09:57,,10,4,4,CLE 34,0,CLE,PENALTY
-20,3494,4,09:05,,12,4,12,CLE 32,0,CLE,PUNT
-20,3370,2,09:57,,20,4,-1,CLE 24,0,CLE,PENALTY
-20,3306,0,10:35,,0,4,0,DET 35,0,DET,KICKOFF
-20,3427,3,09:41,,25,4,12,CLE 19,0,CLE,
-20,3405,2,09:49,,25,4,-1,CLE 19,0,CLE,TIMEOUT
-6,1085,3,14:19,,8,2,68,DET 15,0,CLE,
-6,1038,1,15:00,,10,2,57,DET 17,0,CLE,
-6,952,1,01:32,,10,1,45,CLE 26,0,CLE,
-6,1154,0,12:52,,0,2,74,DET 2,1,CLE,XP
-6,1130,2,12:57,,4,2,74,DET 4,1,CLE,TD
-6,1109,1,13:39,,6,2,70,DET 6,0,CLE,
-6,973,1,00:53,,10,1,54,DET 29,0,CLE,
-6,1001,2,00:22,,1,1,57,DET 20,0,CLE,
-6,1060,2,14:54,,10,2,68,DET 17,0,CLE,
-18,3085,4,15:00,,19,4,-9,CLE 21,0,CLE,PUNT
-18,3001,1,01:40,,10,3,2,CLE 30,0,CLE,
-18,3022,2,01:05,,8,3,0,CLE 32,0,CLE,
-18,3046,3,01:05,,10,3,-9,CLE 30,0,CLE,
-1,100,3,14:01,,1,1,11,DET 29,0,DET,
-1,76,2,14:29,,9,1,9,DET 21,0,DET,
-1,211,1,10:52,,10,1,33,CLE 47,0,DET,
-1,190,2,11:30,,2,1,33,CLE 49,0,DET,
-1,121,1,13:25,,10,1,13,DET 31,0,DET,
-1,257,3,10:06,,2,1,41,CLE 39,0,DET,
-1,233,2,10:48,,10,1,41,CLE 47,0,DET,
-1,166,1,12:07,,10,1,31,DET 43,0,DET,
-1,51,1,15:00,,10,1,1,DET 20,0,DET,
-1,142,2,12:46,,8,1,23,DET 33,0,DET,
-1,36,0,15:00,,0,1,0,CLE 35,0,CLE,KICKOFF
-1,279,4,10:02,,2,1,41,CLE 39,0,DET,PUNT
-5,873,2,02:29,,10,1,5,DET 12,0,DET,
-5,852,0,02:29,,0,1,0,,0,,TIMEOUT
-5,916,4,01:43,,5,1,5,DET 17,0,DET,PUNT
-5,894,3,01:46,,5,1,5,DET 17,0,DET,
-5,826,1,02:32,,10,1,5,DET 12,0,DET,
-13,2244,1,00:08,,10,2,-1,DET 20,0,DET,
-13,2229,0,00:08,,0,2,0,CLE 35,0,CLE,KICKOFF
-21,3603,2,06:55,,6,4,26,CLE 35,0,DET,
-21,3646,4,06:04,,4,4,26,CLE 33,1,DET,FG
-21,3582,1,07:38,,10,4,24,CLE 39,0,DET,
-21,3537,1,08:57,,10,4,3,DET 41,0,DET,
-21,3624,3,06:11,,4,4,26,CLE 33,0,DET,
-21,3558,2,08:17,,7,4,20,DET 44,0,DET,
-23,4052,3,02:05,,4,4,49,CLE 10,1,DET,TD
-23,3812,1,04:36,,10,4,3,CLE 49,0,DET,
-23,3902,2,03:07,,15,4,18,CLE 43,0,DET,
-23,3997,0,02:52,,0,4,36,,0,,TIMEOUT
-23,4072,0,02:01,,0,4,49,CLE 2,1,DET,XP
-23,3833,2,03:53,,7,4,6,CLE 46,0,DET,
-23,3857,1,03:11,,10,4,6,CLE 38,0,DET,PENALTY
-23,4014,2,02:52,,7,4,39,CLE 13,0,DET,
-23,3976,1,02:58,,10,4,36,CLE 16,0,DET,
-23,4035,0,02:05,,0,4,39,,0,,TIMEOUT
-23,3880,1,03:09,,15,4,6,CLE 43,0,DET,
-23,3926,0,03:01,,0,4,18,,0,,TIMEOUT
-23,3943,3,03:01,,3,4,36,CLE 31,0,DET,PENALTY
-11,1948,2,01:10,,10,2,0,DET 20,0,DET,
-11,1999,4,00:58,,10,2,0,DET 20,0,DET,PUNT
-11,1908,0,01:16,,0,2,0,CLE 35,0,CLE,KICKOFF
-11,1977,3,01:04,,10,2,0,DET 20,0,DET,
-11,1926,1,01:16,,10,2,0,DET 20,0,DET,
-14,2334,1,15:00,,15,3,-3,CLE 15,0,CLE,
-14,2403,4,13:04,,1,3,9,CLE 29,0,CLE,PUNT
-14,2304,1,15:00,,10,3,-5,CLE 20,0,CLE,PENALTY
-14,2355,2,14:26,,13,3,0,CLE 17,0,CLE,
-14,2285,0,15:00,,0,3,0,DET 35,0,DET,KICKOFF
-14,2379,3,13:46,,10,3,9,CLE 20,0,CLE,
-8,1322,2,11:53,,10,2,45,CLE 15,0,CLE,
-8,1346,3,11:22,,1,2,45,CLE 24,0,CLE,
-8,1394,1,10:07,,10,2,46,DET 46,0,CLE,
-8,1370,1,10:50,,10,2,39,CLE 40,0,CLE,
-8,1415,2,09:30,,3,2,45,DET 39,0,CLE,
-8,1436,3,08:51,,4,2,45,DET 40,0,CLE,INT
-8,1300,1,11:58,,10,2,0,CLE 15,0,CLE,
-19,3200,1,12:05,,10,4,32,CLE 38,0,DET,
-19,3290,0,10:35,,0,4,67,CLE 2,1,DET,XP
-19,3246,3,11:24,,7,4,67,CLE 35,0,DET,
-19,3155,1,13:31,,10,4,20,DET 48,0,DET,
-19,3110,1,14:49,,10,4,3,DET 33,0,DET,
-19,3131,2,14:11,,7,4,15,DET 36,0,DET,
-19,3224,2,11:26,,7,4,32,CLE 35,0,DET,
-19,3270,1,10:41,,10,4,67,CLE 23,1,DET,TD
-19,3176,2,12:49,,5,4,29,CLE 47,0,DET,
-22,3733,2,05:31,,10,4,22,CLE 31,0,CLE,
-22,3665,0,06:04,,0,4,0,DET 35,0,DET,KICKOFF
-22,3757,3,05:11,,3,4,40,CLE 38,0,CLE,
-22,3711,1,05:37,,10,4,15,CLE 31,0,CLE,
-22,3781,1,04:44,,10,4,40,DET 44,0,CLE,INT
-22,3687,1,05:59,,10,4,15,CLE 16,0,CLE,
-12,2109,1,00:27,,10,2,52,DET 25,0,CLE,PENALTY
-12,2085,1,00:43,,10,2,52,CLE 39,0,CLE,
-12,2210,4,00:08,,7,2,52,DET 22,1,CLE,FG
-12,2142,1,00:27,,15,2,52,DET 30,0,CLE,
-12,2164,2,00:23,,15,2,52,DET 30,0,CLE,
-12,2047,1,00:50,,5,2,13,CLE 31,0,CLE,
-12,2024,1,00:50,,10,2,52,CLE 26,0,CLE,PENALTY
-12,2068,0,00:43,,0,2,13,,0,,TIMEOUT
-12,2186,3,00:17,,15,2,52,DET 30,0,CLE,
-16,2732,4,07:34,,4,3,6,CLE 26,0,CLE,PUNT
-16,2686,2,08:54,,5,3,5,CLE 25,0,CLE,
-16,2623,0,08:57,,0,3,0,DET 35,0,DET,KICKOFF
-16,2663,2,08:54,,10,3,5,CLE 20,0,CLE,PENALTY
-16,2641,1,08:57,,10,3,0,CLE 20,0,CLE,
-16,2707,3,08:14,,5,3,6,CLE 25,0,CLE,
-7,1242,3,12:13,,6,2,4,DET 24,0,DET,
-7,1220,2,12:16,,6,2,4,DET 24,0,DET,
-7,1170,0,12:52,,0,2,4,CLE 35,0,CLE,KICKOFF
-7,1196,1,12:52,,10,2,4,DET 20,0,DET,
-7,1264,4,12:09,,6,2,4,DET 24,0,DET,PUNT
-3,683,0,03:27,,0,1,58,CLE 2,1,DET,XP
-3,663,2,03:31,,1,1,58,CLE 1,1,DET,TD
-3,454,3,07:07,,3,1,15,DET 49,0,DET,
-3,478,1,06:33,,10,1,20,CLE 43,0,DET,
-3,411,1,07:50,,10,1,7,DET 42,0,DET,
-3,432,2,07:14,,3,1,7,DET 49,0,DET,
-3,641,1,03:33,,1,1,57,CLE 1,0,DET,
-3,523,1,05:13,,10,1,33,CLE 32,0,DET,
-3,547,2,04:30,,3,1,35,CLE 25,0,DET,
-3,568,3,03:43,,1,1,51,CLE 23,0,DET,PENALTY
-3,502,2,05:55,,5,1,26,CLE 38,0,DET,
-3,608,1,03:37,,7,1,57,CLE 7,0,DET,PENALTY
-17,2883,3,03:59,,1,3,30,CLE 42,0,DET,
-17,2841,1,05:22,,10,3,24,DET 49,0,DET,
-17,2971,1,01:55,,10,3,41,CLE 28,0,DET,INT
-17,2947,3,02:38,,7,3,41,CLE 36,0,DET,
-17,2817,3,06:04,,2,3,18,DET 39,0,DET,
-17,2904,1,03:20,,10,3,33,CLE 39,0,DET,
-17,2768,1,07:24,,10,3,-2,DET 31,0,DET,
-17,2793,2,06:39,,12,3,18,DET 29,0,DET,
-17,2925,2,02:43,,7,3,33,CLE 36,0,DET,
-17,2862,2,04:42,,4,3,27,CLE 45,0,DET,
-4,790,4,02:42,,4,1,6,CLE 26,0,CLE,PUNT
-4,717,1,03:27,,10,1,0,CLE 20,0,CLE,
-4,768,3,02:47,,4,1,6,CLE 26,0,CLE,
-4,699,0,03:27,,0,1,0,DET 35,0,DET,KICKOFF
-4,743,2,03:24,,10,1,6,CLE 20,0,CLE,
-2,386,4,08:00,,8,1,14,CLE 19,0,CLE,PUNT
-2,343,2,08:47,,8,1,14,CLE 19,0,CLE,
-2,364,3,08:04,,8,1,14,CLE 19,0,CLE,
-2,298,1,09:53,,10,1,12,CLE 5,0,CLE,
-2,319,1,09:21,,10,1,14,CLE 17,0,CLE,
-15,2542,2,10:24,,4,3,58,CLE 28,0,DET,
-15,2444,2,12:56,,10,3,4,DET 21,0,DET,
-15,2607,0,08:57,,0,3,79,CLE 2,1,DET,XP
-15,2518,1,11:01,,10,3,51,CLE 34,0,DET,
-15,2465,3,12:08,,6,3,11,DET 25,0,DET,PENALTY
-15,2566,1,09:46,,10,3,61,CLE 21,0,DET,
-15,2587,2,09:04,,7,3,79,CLE 18,1,DET,TD
-15,2422,1,12:56,,10,3,0,DET 21,0,DET,
-15,2497,1,11:48,,10,3,45,DET 27,0,DET,
+24,4215,4,01:17,"(1:17) (No Huddle, Shotgun) C.Ogbonnaya right guard to CLE 45 for 6 yards (W.Young).",1,4,25,CLE 39,0,CLE,
+24,4260,1,00:57,(:57) B.Weeden spiked the ball to stop the clock.,10,4,40,DET 40,0,CLE,
+24,4335,1,00:17,(:17) (Shotgun) B.Weeden pass incomplete deep right to G.Little. DET-G.Quin was injured during the play. His return is Doubtful.,10,4,72,DET 21,0,CLE,
+24,4311,3,00:26,(:26) B.Weeden pass short right to J.Cameron to DET 21 for 33 yards (D.Levy).,24,4,72,CLE 46,0,CLE,
+24,4088,0,02:01,"S.Martin kicks 72 yards from DET 35 to CLE -7. F.Whittaker, Touchback.",0,4,0,DET 35,0,DET,KICKOFF
+24,4147,1,01:54,(1:54) (Shotgun) B.Weeden pass incomplete short right to C.Ogbonnaya.,10,4,10,CLE 30,0,CLE,
+24,4282,2,00:41,"(:41) (Shotgun) B.Weeden sacked at CLE 46 for -14 yards (D.Taylor). FUMBLES (D.Taylor), recovered by CLE at CLE 46.",10,4,72,DET 40,0,CLE,FUMBLE
+24,4169,2,01:50,(1:50) (Shotgun) B.Weeden pass incomplete short left to C.Ogbonnaya.,10,4,10,CLE 30,0,CLE,
+24,4191,3,01:45,(1:45) (Shotgun) B.Weeden pass short right to J.Cameron to CLE 39 for 9 yards (D.Bentley; S.Tulloch).,10,4,19,CLE 30,0,CLE,
+24,4130,0,01:54,Two-Minute Warning,0,4,10,,0,,
+24,4396,1,00:05,(:05) (Shotgun) B.Weeden pass short left to J.Cameron to DET 8 for 1 yard (D.Levy).,9,4,72,DET 9,0,CLE,
+24,4106,1,02:01,(2:01) (Shotgun) B.Weeden pass short left to G.Little to CLE 30 for 10 yards (D.Slay).,10,4,10,CLE 20,0,CLE,
+24,4236,1,00:57,"(:57) (No Huddle, Shotgun) B.Weeden pass short middle to C.Ogbonnaya to DET 40 for 15 yards (D.Levy).",10,4,40,CLE 45,0,CLE,
+24,4357,2,00:17,(:17) B.Weeden pass short left to D.Bess ran ob at DET 9 for 12 yards (D.Bentley).,10,4,71,DET 21,0,CLE,
+24,4420,0,00:00,END GAME,0,4,72,,0,,
+20,3348,1,09:57,"(9:57) B.Weeden pass incomplete deep right [N.Fairley]. PENALTY on CLE-B.Weeden, Intentional Grounding, 10 yards, enforced at CLE 34.",10,4,4,CLE 34,0,CLE,PENALTY
+20,3494,4,09:05,"(9:05) S.Lanning punts 44 yards to DET 24, Center-C.Yount. M.Spurlock to DET 26 for 2 yards (P.Hazel; T.Carder). PENALTY on CLE-J.Bademosi, Unsportsmanlike Conduct, 15 yards, enforced at DET 26.",12,4,12,CLE 32,0,CLE,PUNT
+20,3427,3,09:41,(9:41) (Shotgun) B.Weeden pass short left to C.Ogbonnaya to CLE 32 for 13 yards (C.Houston).,25,4,12,CLE 19,0,CLE,
+20,3370,2,09:57,"(9:57) (Shotgun) PENALTY on CLE-J.Cameron, False Start, 5 yards, enforced at CLE 24 - No Play.",20,4,-1,CLE 24,0,CLE,PENALTY
+20,3405,2,09:49,(9:49) (Shotgun) B.Weeden pass incomplete deep right to G.Little. Play Challenged by CLE and Upheld. (Timeout #1.),25,4,-1,CLE 19,0,CLE,TIMEOUT
+20,3306,0,10:35,"S.Martin kicks 73 yards from DET 35 to CLE -8. G.Little, Touchback.",0,4,0,DET 35,0,DET,KICKOFF
+20,3324,1,10:35,(10:35) (Shotgun) B.Weeden pass short left to J.Gordon to CLE 34 for 14 yards (L.Delmas).,10,4,14,CLE 20,0,CLE,
+21,3603,2,06:55,(6:55) (Shotgun) R.Bush right guard to CLE 33 for 2 yards (B.Skrine).,6,4,26,CLE 35,0,DET,
+21,3582,1,07:38,(7:38) M.Leshoure left guard to CLE 35 for 4 yards (D.Jackson; T.Ward).,10,4,24,CLE 39,0,DET,
+21,3624,3,06:11,(6:11) (Shotgun) M.Stafford pass incomplete short middle to C.Johnson (T.Ward).,4,4,26,CLE 33,0,DET,
+21,3558,2,08:17,(8:17) (Shotgun) M.Stafford pass short middle to K.Durham to CLE 39 for 17 yards (C.Robertson).,7,4,20,DET 44,0,DET,
+21,3537,1,08:57,(8:57) R.Bush left tackle to DET 44 for 3 yards (T.Gipson).,10,4,3,DET 41,0,DET,
+21,3646,4,06:04,"(6:04) (Field Goal formation) D.Akers 51 yard field goal is GOOD, Center-D.Muhlbach, Holder-S.Martin.",4,4,26,CLE 33,1,DET,FG
+22,3665,0,06:04,S.Martin kicks 70 yards from DET 35 to CLE -5. G.Little to CLE 16 for 21 yards (D.Slay).,0,4,0,DET 35,0,DET,KICKOFF
+22,3781,1,04:44,"(4:44) (No Huddle, Shotgun) B.Weeden pass short left intended for C.Ogbonnaya INTERCEPTED by D.Levy at CLE 49. D.Levy ran ob at CLE 49 for no gain.",10,4,40,DET 44,0,CLE,INT
+22,3711,1,05:37,(5:37) (Shotgun) B.Weeden pass incomplete short right to T.Benjamin (D.Bentley).,10,4,15,CLE 31,0,CLE,
+22,3687,1,05:59,(5:59) (Shotgun) B.Weeden pass short left to J.Gordon to CLE 31 for 15 yards (C.Houston).,10,4,15,CLE 16,0,CLE,
+22,3757,3,05:11,(5:11) (Shotgun) B.Weeden pass short right to J.Gordon to DET 44 for 18 yards (S.Tulloch).,3,4,40,CLE 38,0,CLE,
+22,3733,2,05:31,(5:31) (Shotgun) B.Weeden pass short left to J.Cameron to CLE 38 for 7 yards (C.Houston).,10,4,22,CLE 31,0,CLE,
+23,3812,1,04:36,(4:36) R.Bush right guard to CLE 46 for 3 yards (B.Mingo; D.Jackson).,10,4,3,CLE 49,0,DET,
+23,3926,0,03:01,Timeout #2 by CLE at 03:01.,0,4,18,,0,,TIMEOUT
+23,3880,1,03:09,(3:09) (Shotgun) M.Stafford pass incomplete short left to K.Durham.,15,4,6,CLE 43,0,DET,
+23,3902,2,03:07,(3:07) (Shotgun) M.Stafford pass short middle to B.Pettigrew to CLE 31 for 12 yards (T.Ward).,15,4,18,CLE 43,0,DET,
+23,3833,2,03:53,(3:53) (Shotgun) M.Stafford pass short right to R.Bush to CLE 38 for 8 yards (C.Robertson).,7,4,6,CLE 46,0,DET,
+23,3943,3,03:01,"(3:01) (Shotgun) M.Stafford pass incomplete short middle to C.Johnson (B.Skrine) [Q.Groves]. PENALTY on CLE-Q.Groves, Roughing the Passer, 15 yards, enforced at CLE 31 - No Play.",3,4,36,CLE 31,0,DET,PENALTY
+23,4014,2,02:52,(2:52) R.Bush right guard to CLE 10 for 3 yards (A.Rubin).,7,4,39,CLE 13,0,DET,
+23,3857,1,03:11,"(3:11) PENALTY on DET-R.Reiff, False Start, 5 yards, enforced at CLE 38 - No Play.",10,4,6,CLE 38,0,DET,PENALTY
+23,4035,0,02:05,Timeout #1 by DET at 02:05.,0,4,39,,0,,TIMEOUT
+23,3976,1,02:58,(2:58) R.Bush right guard to CLE 13 for 3 yards (T.Ward).,10,4,36,CLE 16,0,DET,
+23,3997,0,02:52,Timeout #3 by CLE at 02:52.,0,4,36,,0,,TIMEOUT
+23,4072,0,02:01,"D.Akers extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin.",0,4,49,CLE 2,1,DET,XP
+23,4052,3,02:05,"(2:05) (Shotgun) M.Stafford pass short right to J.Fauria for 10 yards, TOUCHDOWN.",4,4,49,CLE 10,1,DET,TD
+1,142,2,12:46,(12:46) (Shotgun) M.Stafford pass short left to K.Durham to DET 43 for 10 yards (C.Owens; C.Robertson).,8,1,23,DET 33,0,DET,
+1,121,1,13:25,(13:25) (Shotgun) R.Bush left tackle to DET 33 for 2 yards (P.Kruger).,10,1,13,DET 31,0,DET,
+1,211,1,10:52,(10:52) M.Stafford pass incomplete short right to K.Durham.,10,1,33,CLE 47,0,DET,
+1,51,1,15:00,(15:00) R.Bush left guard to DET 21 for 1 yard (T.Ward).,10,1,1,DET 20,0,DET,
+1,36,0,15:00,"B.Cundiff kicks 65 yards from CLE 35 to end zone, Touchback. ball kicked through endzone",0,1,0,CLE 35,0,CLE,KICKOFF
+1,190,2,11:30,(11:30) R.Bush right tackle to CLE 47 for 2 yards (T.Ward).,2,1,33,CLE 49,0,DET,
+1,76,2,14:29,(14:29) M.Stafford pass short left to K.Durham to DET 29 for 8 yards (B.Skrine).,9,1,9,DET 21,0,DET,
+1,257,3,10:06,(10:06) (Shotgun) M.Stafford pass incomplete short middle to C.Johnson [D.Bryant].,2,1,41,CLE 39,0,DET,
+1,279,4,10:02,"(10:02) (Punt formation) S.Martin punts 34 yards to CLE 5, Center-D.Muhlbach, downed by DET-D.Slay.",2,1,41,CLE 39,0,DET,PUNT
+1,100,3,14:01,(14:01) J.Bell right guard to DET 31 for 2 yards (T.Ward; A.Rubin).,1,1,11,DET 29,0,DET,
+1,166,1,12:07,(12:07) M.Stafford pass short right to J.Bell to CLE 49 for 8 yards (T.Ward).,10,1,31,DET 43,0,DET,
+1,233,2,10:48,(10:48) (Shotgun) M.Stafford pass short left to K.Durham to CLE 39 for 8 yards (C.Owens).,10,1,41,CLE 47,0,DET,
+3,568,3,03:43,"(3:43) M.Stafford pass incomplete deep right to K.Ogletree. PENALTY on CLE-J.Haden, Defensive Pass Interference, 16 yards, enforced at CLE 23 - No Play.",1,1,51,CLE 23,0,DET,PENALTY
+3,502,2,05:55,(5:55) J.Bell left guard to CLE 32 for 6 yards (T.Gipson; A.Rubin).,5,1,26,CLE 38,0,DET,
+3,454,3,07:07,(7:07) (Shotgun) M.Stafford pass short middle to B.Pettigrew to CLE 43 for 8 yards (T.Gipson).,3,1,15,DET 49,0,DET,
+3,608,1,03:37,"(3:37) (Shotgun) M.Stafford pass incomplete short right to C.Johnson. PENALTY on CLE-J.Haden, Defensive Pass Interference, 6 yards, enforced at CLE 7 - No Play.",7,1,57,CLE 7,0,DET,PENALTY
+3,663,2,03:31,"(3:31) M.Stafford pass short right to J.Fauria for 1 yard, TOUCHDOWN.",1,1,58,CLE 1,1,DET,TD
+3,641,1,03:33,(3:33) M.Stafford pass incomplete short right to C.Johnson.,1,1,57,CLE 1,0,DET,
+3,411,1,07:50,(7:50) R.Bush left tackle to DET 49 for 7 yards (T.Gipson; C.Robertson).,10,1,7,DET 42,0,DET,
+3,523,1,05:13,(5:13) (Shotgun) M.Stafford pass short left to C.Johnson to CLE 25 for 7 yards (J.Haden).,10,1,33,CLE 32,0,DET,
+3,478,1,06:33,(6:33) (Shotgun) M.Stafford pass short right to K.Ogletree to CLE 38 for 5 yards (J.Haden).,10,1,20,CLE 43,0,DET,
+3,432,2,07:14,(7:14) M.Stafford pass incomplete deep middle to K.Durham (B.Skrine).,3,1,7,DET 49,0,DET,
+3,683,0,03:27,"D.Akers extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin.",0,1,58,CLE 2,1,DET,XP
+3,547,2,04:30,(4:30) (Shotgun) R.Bush left guard to CLE 23 for 2 yards (J.Haden).,3,1,35,CLE 25,0,DET,
+2,386,4,08:00,"(8:00) (Punt formation) S.Lanning punts 46 yards to DET 35, Center-C.Yount. M.Spurlock to DET 42 for 7 yards (C.Ogbonnaya).",8,1,14,CLE 19,0,CLE,PUNT
+2,319,1,09:21,(9:21) (Shotgun) B.Weeden pass short right to W.McGahee to CLE 19 for 2 yards (S.Tulloch).,10,1,14,CLE 17,0,CLE,
+2,364,3,08:04,(8:04) (Shotgun) B.Weeden pass incomplete short middle to J.Cameron (S.Tulloch).,8,1,14,CLE 19,0,CLE,
+2,298,1,09:53,(9:53) W.McGahee right guard to CLE 17 for 12 yards (R.Mathis).,10,1,12,CLE 5,0,CLE,
+2,343,2,08:47,(8:47) W.McGahee right tackle to CLE 19 for no gain (A.Palmer; N.Fairley).,8,1,14,CLE 19,0,CLE,
+5,826,1,02:32,(2:32) (Shotgun) M.Stafford pass incomplete short left to R.Broyles. shovel pass,10,1,5,DET 12,0,DET,
+5,894,3,01:46,(1:46) (Shotgun) M.Stafford pass incomplete short left to C.Johnson.,5,1,5,DET 17,0,DET,
+5,873,2,02:29,(2:29) M.Leshoure right guard to DET 17 for 5 yards (T.Gipson).,10,1,5,DET 12,0,DET,
+5,852,0,02:29,Timeout #1 by DET at 02:29.,0,1,0,,0,,TIMEOUT
+5,916,4,01:43,"(1:43) S.Martin punts 49 yards to CLE 34, Center-D.Muhlbach. T.Benjamin to CLE 36 for 2 yards (D.Carey). PENALTY on CLE-B.Skrine, Illegal Block Above the Waist, 10 yards, enforced at CLE 36.",5,1,5,DET 17,0,DET,PUNT
+4,717,1,03:27,(3:27) (Shotgun) B.Weeden pass incomplete short left to J.Gordon.,10,1,0,CLE 20,0,CLE,
+4,768,3,02:47,(2:47) (Shotgun) B.Weeden pass incomplete short middle to D.Bess [N.Suh].,4,1,6,CLE 26,0,CLE,
+4,699,0,03:27,"S.Martin kicks 74 yards from DET 35 to CLE -9. G.Little, Touchback. kicked through endzone",0,1,0,DET 35,0,DET,KICKOFF
+4,743,2,03:24,(3:24) C.Ogbonnaya left tackle to CLE 26 for 6 yards (W.Young). pitchout,10,1,6,CLE 20,0,CLE,
+4,790,4,02:42,"(2:42) S.Lanning punts 52 yards to DET 22, Center-C.Yount. M.Spurlock to DET 29 for 7 yards (J.Bademosi). PENALTY on DET-D.Carey, Offensive Holding, 10 yards, enforced at DET 22.",4,1,6,CLE 26,0,CLE,PUNT
+7,1220,2,12:16,(12:16) M.Stafford pass incomplete short left to K.Ogletree.,6,2,4,DET 24,0,DET,
+7,1242,3,12:13,(12:13) (Shotgun) M.Stafford pass incomplete short right to J.Bell.,6,2,4,DET 24,0,DET,
+7,1196,1,12:52,(12:52) (Shotgun) M.Stafford pass short right to B.Pettigrew to DET 24 for 4 yards (C.Robertson).,10,2,4,DET 20,0,DET,
+7,1264,4,12:09,"(12:09) (Punt formation) S.Martin punts 52 yards to CLE 24, Center-D.Muhlbach. T.Benjamin to CLE 15 for -9 yards (D.Carey). Penalty on CLE-P.Hazel, Running Into the Kicker, declined.",6,2,4,DET 24,0,DET,PUNT
+7,1170,0,12:52,"B.Cundiff kicks 74 yards from CLE 35 to DET -9. M.Spurlock, Touchback. kicked through endzone",0,2,4,CLE 35,0,CLE,KICKOFF
+6,1085,3,14:19,(14:19) (Shotgun) B.Weeden pass short left to J.Gordon to DET 6 for 9 yards (R.Mathis; D.Bentley).,8,2,68,DET 15,0,CLE,
+6,1130,2,12:57,"(12:57) B.Weeden pass short left to C.Ogbonnaya for 4 yards, TOUCHDOWN.",4,2,74,DET 4,1,CLE,TD
+6,973,1,00:53,(:53) B.Weeden pass short right to D.Bess to DET 20 for 9 yards (A.Palmer).,10,1,54,DET 29,0,CLE,
+6,1060,2,14:54,(14:54) (Shotgun) C.Ogbonnaya right guard to DET 15 for 2 yards (E.Ansah; A.Palmer). direct snap to 25 Ogbonnaya,10,2,68,DET 17,0,CLE,
+6,952,1,01:32,(1:32) T.Benjamin left end to DET 29 for 45 yards (D.Levy). end around to 80 Benjamin,10,1,45,CLE 26,0,CLE,
+6,1038,1,15:00,(15:00) B.Weeden pass incomplete deep right to G.Barnidge.,10,2,57,DET 17,0,CLE,
+6,1154,0,12:52,"B.Cundiff extra point is GOOD, Center-C.Yount, Holder-S.Lanning.",0,2,74,DET 2,1,CLE,XP
+6,1001,2,00:22,(:22) W.McGahee right guard to DET 17 for 3 yards (D.Taylor).,1,1,57,DET 20,0,CLE,
+6,1109,1,13:39,(13:39) W.McGahee right guard to DET 4 for 2 yards (E.Ansah; G.Quin). pitchout,6,2,70,DET 6,0,CLE,
+9,1547,3,06:52,(6:52) (Shotgun) M.Stafford pass incomplete deep left to C.Johnson (T.Ward).,9,2,24,DET 41,0,DET,
+9,1483,2,08:20,"(8:20) (No Huddle, Shotgun) M.Stafford pass deep right to K.Durham to DET 40 for 24 yards (T.Ward).",11,2,23,DET 16,0,DET,
+9,1507,1,07:53,(7:53) (No Huddle) R.Bush left guard to DET 41 for 1 yard (J.Hughes).,10,2,24,DET 40,0,DET,
+9,1528,2,07:27,"(7:27) (No Huddle, Shotgun) M.Stafford sacked ob at DET 41 for 0 yards (C.Robertson).",9,2,24,DET 41,0,DET,
+9,1576,4,06:46,"(6:46) (Punt formation) S.Martin punts 43 yards to CLE 16, Center-D.Muhlbach, fair catch by T.Benjamin.",9,2,24,DET 41,0,DET,PUNT
+9,1462,1,08:44,(8:44) R.Bush left guard to DET 16 for -1 yards (T.Ward).,10,2,-1,DET 17,0,DET,
+8,1322,2,11:53,(11:53) (Shotgun) B.Weeden pass short left to C.Ogbonnaya to CLE 24 for 9 yards (N.Fairley).,10,2,45,CLE 15,0,CLE,
+8,1436,3,08:51,(8:51) (Shotgun) B.Weeden pass deep right intended for C.Ogbonnaya INTERCEPTED by D.Levy at DET 17. D.Levy to DET 17 for no gain (C.Ogbonnaya).,4,2,45,DET 40,0,CLE,INT
+8,1300,1,11:58,(11:58) (Shotgun) B.Weeden pass incomplete deep left to T.Benjamin [W.Young].,10,2,0,CLE 15,0,CLE,
+8,1346,3,11:22,(11:22) B.Weeden pass short right to J.Gordon to CLE 40 for 16 yards (L.Delmas) [A.Palmer].,1,2,45,CLE 24,0,CLE,
+8,1370,1,10:50,(10:50) B.Weeden pass short left to J.Cameron to DET 46 for 14 yards (L.Delmas).,10,2,39,CLE 40,0,CLE,
+8,1394,1,10:07,(10:07) W.McGahee left guard to DET 39 for 7 yards (D.Bentley).,10,2,46,DET 46,0,CLE,
+8,1415,2,09:30,(9:30) W.McGahee right guard to DET 40 for -1 yards (S.Tulloch; D.Slay).,3,2,45,DET 39,0,CLE,
+11,1977,3,01:04,(1:04) (Shotgun) M.Stafford pass incomplete deep left to P.Edwards.,10,2,0,DET 20,0,DET,
+11,1999,4,00:58,"(:58) S.Martin punts 51 yards to CLE 29, Center-D.Muhlbach. T.Benjamin ran ob at CLE 26 for -3 yards.",10,2,0,DET 20,0,DET,PUNT
+11,1948,2,01:10,(1:10) (Shotgun) M.Stafford pass incomplete short right to K.Durham (J.Haden).,10,2,0,DET 20,0,DET,
+11,1926,1,01:16,(1:16) (Shotgun) M.Stafford pass incomplete deep left to P.Edwards (C.Owens).,10,2,0,DET 20,0,DET,
+11,1908,0,01:16,"B.Cundiff kicks 74 yards from CLE 35 to DET -9. M.Spurlock, Touchback.",0,2,0,CLE 35,0,CLE,KICKOFF
+10,1632,1,06:31,(6:31) (Shotgun) B.Weeden scrambles left end to CLE 48 for 9 yards (D.Levy).,10,2,32,CLE 39,0,CLE,
+10,1723,1,03:48,(3:48) B.Rainey left guard to DET 14 for no gain (W.Young; L.Delmas).,10,2,80,DET 14,0,CLE,
+10,1823,1,02:00,"(2:00) PENALTY on DET-N.Suh, Defensive Offside, 2 yards, enforced at DET 4 - No Play.",4,2,82,DET 4,0,CLE,PENALTY
+10,1785,3,02:21,(2:21) (Shotgun) C.Ogbonnaya right guard to DET 4 for 2 yards (S.Tulloch).,2,2,80,DET 6,0,CLE,
+10,1744,2,03:08,(3:08) (Shotgun) B.Weeden pass short left to G.Barnidge to DET 6 for 8 yards (R.McIntosh; C.Houston).,10,2,80,DET 14,0,CLE,
+10,1768,0,02:21,Timeout #1 by CLE at 02:21.,0,2,78,,0,,TIMEOUT
+10,1846,1,02:00,(2:00) W.McGahee left guard to DET 2 for no gain (G.Quin).,2,2,82,DET 2,0,CLE,
+10,1892,0,01:16,"B.Cundiff extra point is GOOD, Center-C.Yount, Holder-S.Lanning.",0,2,84,DET 2,1,CLE,XP
+10,1867,2,01:20,"(1:20) (Shotgun) B.Weeden pass short right to G.Little for 2 yards, TOUCHDOWN.",2,2,84,DET 2,1,CLE,TD
+10,1674,1,05:03,(5:03) (Shotgun) B.Weeden pass deep middle to J.Gordon to DET 24 for 18 yards (C.Houston).,10,2,80,DET 42,0,CLE,
+10,1653,2,05:49,(5:49) W.McGahee left tackle to DET 42 for 10 yards (L.Delmas).,1,2,42,CLE 48,0,CLE,
+10,1599,1,06:38,"(6:38) B.Weeden pass incomplete deep middle to G.Little. PENALTY on DET-D.Slay, Defensive Pass Interference, 23 yards, enforced at CLE 16 - No Play.",10,2,32,CLE 16,0,CLE,PENALTY
+10,1698,1,04:25,(4:25) (Shotgun) M.Gray scrambles up the middle to DET 14 for 10 yards (G.Quin; D.Taylor). direct snap to 47 Gray at QB,10,2,80,DET 24,0,CLE,
+13,2244,1,00:08,(:08) M.Stafford kneels to DET 19 for -1 yards.,10,2,-1,DET 20,0,DET,
+13,2229,0,00:08,"B.Cundiff kicks 65 yards from CLE 35 to end zone, Touchback. kicked through endzone",0,2,0,CLE 35,0,CLE,KICKOFF
+12,2047,1,00:50,(:50) (Shotgun) C.Ogbonnaya left guard to CLE 39 for 8 yards (D.Levy).,5,2,13,CLE 31,0,CLE,
+12,2210,4,00:08,"(:08) (Field Goal formation) B.Cundiff 40 yard field goal is GOOD, Center-C.Yount, Holder-S.Lanning.",7,2,52,DET 22,1,CLE,FG
+12,2068,0,00:43,Timeout #2 by CLE at 00:43.,0,2,13,,0,,TIMEOUT
+12,2085,1,00:43,(:43) (Shotgun) B.Weeden pass deep right to J.Gordon to DET 25 for 36 yards (S.Tulloch).,10,2,52,CLE 39,0,CLE,
+12,2024,1,00:50,"(:50) PENALTY on DET-N.Fairley, Neutral Zone Infraction, 5 yards, enforced at CLE 26 - No Play.",10,2,52,CLE 26,0,CLE,PENALTY
+12,2109,1,00:27,"(:27) B.Weeden pass incomplete deep right to G.Little. PENALTY on CLE, Illegal Shift, 5 yards, enforced at DET 25 - No Play.",10,2,52,DET 25,0,CLE,PENALTY
+12,2142,1,00:27,(:27) (Shotgun) B.Weeden pass incomplete short right to C.Ogbonnaya.,15,2,52,DET 30,0,CLE,
+12,2164,2,00:23,(:23) (Shotgun) B.Weeden pass incomplete deep left to J.Gordon.,15,2,52,DET 30,0,CLE,
+12,2186,3,00:17,(:17) (Shotgun) B.Weeden pass short left to C.Ogbonnaya to DET 22 for 8 yards (D.Slay).,15,2,52,DET 30,0,CLE,
+15,2587,2,09:04,"(9:04) (Shotgun) M.Stafford pass short left to R.Bush for 18 yards, TOUCHDOWN.",7,3,79,CLE 18,1,DET,TD
+15,2465,3,12:08,"(12:08) (Shotgun) M.Stafford scrambles up the middle to DET 32 for 7 yards (D.Bryant). PENALTY on DET-M.Stafford, Delay of Game, 5 yards, enforced between downs.",6,3,11,DET 25,0,DET,PENALTY
+15,2607,0,08:57,"D.Akers extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin.",0,3,79,CLE 2,1,DET,XP
+15,2444,2,12:56,(12:56) (Shotgun) R.Bush right guard to DET 25 for 4 yards (A.Rubin; D.Jackson).,10,3,4,DET 21,0,DET,
+15,2542,2,10:24,(10:24) (Shotgun) M.Stafford pass short middle to K.Durham to CLE 21 for 7 yards (D.Jackson).,4,3,58,CLE 28,0,DET,
+15,2422,1,12:56,(12:56) (Shotgun) M.Stafford pass incomplete short left to R.Bush.,10,3,0,DET 21,0,DET,
+15,2497,1,11:48,(11:48) R.Bush left guard to CLE 34 for 39 yards (C.Owens; D.Bryant).,10,3,45,DET 27,0,DET,
+15,2566,1,09:46,(9:46) (Shotgun) J.Bell right tackle to CLE 18 for 3 yards (D.Jackson; A.Rubin).,10,3,61,CLE 21,0,DET,
+15,2518,1,11:01,(11:01) M.Stafford pass short left to K.Durham to CLE 28 for 6 yards (C.Owens).,10,3,51,CLE 34,0,DET,
+14,2334,1,15:00,(15:00) (Shotgun) W.McGahee left guard to CLE 17 for 2 yards (S.Tulloch; M.Stafford).,15,3,-3,CLE 15,0,CLE,
+14,2403,4,13:04,"(13:04) (Punt formation) S.Lanning punts 50 yards to DET 21, Center-C.Yount, fair catch by M.Spurlock.",1,3,9,CLE 29,0,CLE,PUNT
+14,2285,0,15:00,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback. Kick out of the endzone.",0,3,0,DET 35,0,DET,KICKOFF
+14,2304,1,15:00,"(15:00) PENALTY on CLE-J.Cameron, False Start, 5 yards, enforced at CLE 20 - No Play.",10,3,-5,CLE 20,0,CLE,PENALTY
+14,2379,3,13:46,(13:46) (Shotgun) B.Weeden pass short left to C.Ogbonnaya to CLE 29 for 9 yards (D.Bentley; C.Houston).,10,3,9,CLE 20,0,CLE,
+14,2355,2,14:26,(14:26) (Shotgun) B.Weeden pass short right to C.Ogbonnaya to CLE 20 for 3 yards (N.Fairley).,13,3,0,CLE 17,0,CLE,
+17,2883,3,03:59,(3:59) J.Bell left guard to CLE 39 for 3 yards (D.Jackson).,1,3,30,CLE 42,0,DET,
+17,2817,3,06:04,(6:04) (Shotgun) M.Stafford pass short middle to C.Johnson to DET 49 for 10 yards (T.Gipson).,2,3,18,DET 39,0,DET,
+17,2768,1,07:24,(7:24) R.Bush left tackle to DET 29 for -2 yards (B.Mingo). pitchout,10,3,-2,DET 31,0,DET,
+17,2904,1,03:20,(3:20) (Shotgun) R.Bush right guard to CLE 36 for 3 yards (T.Ward).,10,3,33,CLE 39,0,DET,
+17,2925,2,02:43,(2:43) (Shotgun) M.Stafford pass incomplete short right to K.Durham.,7,3,33,CLE 36,0,DET,
+17,2862,2,04:42,(4:42) (Shotgun) J.Bell right guard to CLE 42 for 3 yards (D.Jackson; A.Rubin).,4,3,27,CLE 45,0,DET,
+17,2841,1,05:22,(5:22) R.Bush right tackle to CLE 45 for 6 yards (T.Gipson; D.Bryant).,10,3,24,DET 49,0,DET,
+17,2947,3,02:38,(2:38) (Shotgun) M.Stafford pass short right to C.Johnson to CLE 28 for 8 yards (B.Skrine).,7,3,41,CLE 36,0,DET,
+17,2793,2,06:39,(6:39) (Shotgun) M.Stafford pass short left to R.Bush to DET 39 for 10 yards (C.Robertson).,12,3,18,DET 29,0,DET,
+17,2971,1,01:55,(1:55) (Shotgun) M.Stafford pass deep middle intended for P.Edwards INTERCEPTED by T.Gipson (B.Skrine) at CLE -5. T.Gipson to CLE 30 for 35 yards (C.Hilliard). tipped by 22 Skrine,10,3,41,CLE 28,0,DET,INT
+16,2623,0,08:57,"S.Martin kicks 72 yards from DET 35 to CLE -7. G.Little, Touchback.",0,3,0,DET 35,0,DET,KICKOFF
+16,2732,4,07:34,"(7:34) (Punt formation) S.Lanning punts 44 yards to DET 30, Center-C.Yount. M.Spurlock to DET 41 for 11 yards (B.Magee). PENALTY on DET-D.Carey, Offensive Holding, 10 yards, enforced at DET 41.",4,3,6,CLE 26,0,CLE,PUNT
+16,2641,1,08:57,(8:57) (Shotgun) B.Weeden pass incomplete deep right to G.Little.,10,3,0,CLE 20,0,CLE,
+16,2707,3,08:14,(8:14) (Shotgun) B.Weeden scrambles left tackle to CLE 26 for 1 yard (N.Suh).,5,3,6,CLE 25,0,CLE,
+16,2663,2,08:54,"(8:54) PENALTY on DET-N.Suh, Neutral Zone Infraction, 5 yards, enforced at CLE 20 - No Play.",10,3,5,CLE 20,0,CLE,PENALTY
+16,2686,2,08:54,(8:54) J.Gordon left end to CLE 25 for no gain (D.Levy). end around,5,3,5,CLE 25,0,CLE,
+19,3270,1,10:41,"(10:41) (Shotgun) M.Stafford pass deep right to J.Fauria for 23 yards, TOUCHDOWN.",10,4,67,CLE 23,1,DET,TD
+19,3200,1,12:05,(12:05) (Shotgun) M.Stafford pass short right to K.Durham to CLE 35 for 3 yards (B.Skrine).,10,4,32,CLE 38,0,DET,
+19,3224,2,11:26,(11:26) (Shotgun) M.Stafford pass incomplete short middle to R.Broyles.,7,4,32,CLE 35,0,DET,
+19,3246,3,11:24,(11:24) (Shotgun) M.Stafford pass short left to B.Pettigrew to CLE 23 for 12 yards (C.Robertson).,7,4,67,CLE 35,0,DET,
+19,3110,1,14:49,(14:49) (Shotgun) J.Bell left tackle to DET 36 for 3 yards (B.Mingo).,10,4,3,DET 33,0,DET,
+19,3131,2,14:11,(14:11) (Shotgun) M.Stafford pass short left to R.Bush to DET 48 for 12 yards (C.Owens) [P.Taylor].,7,4,15,DET 36,0,DET,
+19,3155,1,13:31,(13:31) J.Bell right guard to CLE 47 for 5 yards (A.Rubin; T.Ward).,10,4,20,DET 48,0,DET,
+19,3290,0,10:35,"D.Akers extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin.",0,4,67,CLE 2,1,DET,XP
+19,3176,2,12:49,(12:49) (Shotgun) M.Stafford pass short left to R.Bush to CLE 38 for 9 yards (D.Jackson).,5,4,29,CLE 47,0,DET,
+18,3085,4,15:00,"(15:00) (Punt formation) S.Lanning punts 48 yards to DET 31, Center-C.Yount. M.Spurlock to DET 33 for 2 yards (T.Carder).",19,4,-9,CLE 21,0,CLE,PUNT
+18,3001,1,01:40,(1:40) W.McGahee left guard to CLE 32 for 2 yards (C.Mosley).,10,3,2,CLE 30,0,CLE,
+18,3022,2,01:05,(1:05) (Shotgun) B.Weeden pass short right to G.Barnidge to CLE 30 for -2 yards (G.Quin; D.Slay) [S.Tulloch].,8,3,0,CLE 32,0,CLE,
+18,3046,3,01:05,(1:05) (Shotgun) B.Weeden sacked at CLE 21 for -9 yards (W.Young).,10,3,-9,CLE 30,0,CLE,

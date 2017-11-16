@@ -1,151 +1,151 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1692,3,02:00,,1,2,62,PIT 1,0,IND,
-9,1675,0,02:00,,0,2,62,,0,,
-9,1525,1,04:30,,10,2,15,PIT 48,0,IND,
-9,1740,0,01:12,,0,2,62,,0,,TIMEOUT
-9,1480,2,05:49,,10,2,9,IND 37,0,IND,
-9,1580,1,04:19,,10,2,29,PIT 33,0,IND,
-9,1757,4,01:12,,1,2,62,PIT 1,0,IND,
-9,1547,2,04:23,,10,2,30,PIT 48,0,IND,PENALTY
-9,1654,2,02:39,,2,2,62,PIT 2,0,IND,
-9,1715,0,01:12,,0,2,62,,0,,TIMEOUT
-9,1601,2,03:41,,11,2,62,PIT 34,0,IND,
-9,1457,1,05:55,,10,2,0,IND 37,0,IND,
-9,1631,1,03:18,,2,2,61,PIT 2,0,IND,
-9,1504,3,05:07,,1,2,15,IND 46,0,IND,
-18,3391,1,01:42,,10,4,12,IND 20,0,IND,
-18,3433,2,00:34,,4,4,37,IND 38,0,IND,
-18,3454,0,,,0,4,37,,0,,
-18,3412,1,01:09,,10,4,18,IND 32,0,IND,
-6,1151,0,09:00,,0,2,75,IND 15,1,PIT,XP
-6,1110,1,09:50,,10,2,42,IND 35,0,PIT,
-6,1011,1,12:00,,10,2,15,PIT 36,0,PIT,
-6,1065,2,11:12,,16,2,8,PIT 30,0,PIT,
-6,1032,2,11:17,,6,2,5,PIT 40,0,PIT,PENALTY
-6,1131,2,09:08,,8,2,75,IND 33,1,PIT,TD
-6,988,2,12:37,,4,2,11,PIT 31,0,PIT,
-6,945,0,13:02,,0,2,0,IND 35,0,IND,KICKOFF
-6,964,1,13:02,,10,2,6,PIT 25,0,PIT,
-6,1086,3,10:33,,13,2,40,PIT 33,0,PIT,
-14,2886,1,08:47,,10,4,30,IND 45,0,IND,
-14,2910,1,08:09,,10,4,30,PIT 43,0,IND,INT
-14,2862,1,09:11,,10,4,18,IND 27,0,IND,
-7,1226,2,08:46,,10,2,0,IND 22,0,IND,
-7,1268,4,07:34,,5,2,5,IND 27,0,IND,PUNT
-7,1171,0,09:00,,0,2,0,PIT 35,0,PIT,KICKOFF
-7,1247,3,08:08,,10,2,5,IND 22,0,IND,
-7,1193,1,08:53,,10,2,0,IND 22,0,IND,
-8,1314,2,07:18,,10,2,0,PIT 23,0,PIT,
-8,1292,1,07:25,,10,2,0,PIT 23,0,PIT,
-8,1373,3,06:56,,20,2,-1,PIT 13,0,PIT,
-8,1338,3,07:13,,10,2,-10,PIT 23,0,PIT,PENALTY
-8,1433,4,06:03,,6,2,4,PIT 27,0,PIT,PUNT
-8,1397,4,06:17,,11,2,4,PIT 22,0,PIT,PENALTY
-10,1803,0,00:58,,0,2,3,,0,,TIMEOUT
-10,1780,1,01:08,,10,2,3,PIT 1,0,PIT,
-10,1904,0,,,0,2,13,,0,,
-10,1820,2,00:58,,7,2,13,PIT 4,0,PIT,PENALTY
-10,1883,3,00:10,,1,2,13,PIT 10,0,PIT,
-10,1862,2,00:50,,9,2,9,PIT 2,0,PIT,
-12,2487,3,01:15,,4,3,72,PIT 18,0,IND,
-12,2218,3,08:25,,3,3,13,IND 17,0,IND,
-12,2372,1,03:34,,10,3,56,PIT 41,0,IND,
-12,2242,1,07:47,,10,3,14,IND 23,0,IND,
-12,2591,3,14:16,,2,4,89,PIT 2,0,IND,
-12,2570,2,15:00,,4,4,89,PIT 4,0,IND,
-12,2554,0,,,0,3,86,,0,,
-12,2172,1,09:49,,10,3,4,IND 10,0,IND,
-12,2197,2,09:09,,6,3,7,IND 14,0,IND,
-12,2437,1,02:06,,10,3,66,PIT 24,0,IND,
-12,2612,4,13:31,,1,4,89,PIT 1,0,IND,
-12,2330,2,05:04,,3,3,31,IND 41,0,IND,
-12,2509,4,01:08,,4,3,84,PIT 18,0,IND,
-12,2413,2,02:49,,3,3,66,PIT 34,0,IND,
-12,2533,1,00:26,,6,3,86,PIT 6,0,IND,
-12,2309,1,05:38,,10,3,31,IND 34,0,IND,
-12,2351,3,04:20,,3,3,49,IND 41,0,IND,
-12,2396,0,02:49,,0,3,56,,0,,TIMEOUT
-12,2285,3,06:15,,15,3,24,IND 18,0,IND,
-12,2459,2,01:57,,10,3,72,PIT 24,0,IND,
-12,2266,2,07:02,,9,3,8,IND 24,0,IND,
-16,3182,3,04:21,,7,4,29,IND 42,0,IND,
-16,3112,3,05:00,,7,4,14,IND 28,0,IND,
-16,3158,2,04:47,,10,4,17,IND 39,0,IND,
-16,3066,1,05:30,,10,4,3,IND 25,0,IND,
-16,3206,1,04:16,,10,4,29,PIT 46,0,IND,INT
-16,3090,2,05:05,,7,4,3,IND 28,0,IND,
-16,3047,0,05:30,,0,4,0,PIT 35,0,PIT,KICKOFF
-16,3136,1,04:53,,10,4,14,IND 39,0,IND,
-11,1985,3,13:35,,1,3,14,PIT 30,0,PIT,
-11,2054,1,11:34,,10,3,32,50,0,PIT,
-11,1964,2,14:17,,7,3,9,PIT 24,0,PIT,
-11,2009,1,12:59,,10,3,19,PIT 35,0,PIT,
-11,2030,2,12:22,,5,3,29,PIT 40,0,PIT,
-11,2152,4,09:55,,7,3,32,IND 47,0,PIT,PUNT
-11,2121,4,09:56,,2,3,32,IND 42,0,PIT,PENALTY
-11,1921,0,15:00,,0,3,0,IND 35,0,IND,KICKOFF
-11,2099,3,10:04,,2,3,37,IND 42,0,PIT,
-11,2075,2,10:48,,7,3,37,IND 47,0,PIT,
-11,1943,1,14:54,,10,3,3,PIT 21,0,PIT,
-3,457,3,06:49,,8,1,37,IND 44,0,IND,
-3,345,1,09:10,,10,1,1,IND 25,0,IND,
-3,414,1,07:32,,10,1,19,IND 42,0,IND,
-3,545,4,04:13,,6,1,41,PIT 34,0,IND,FGM
-3,435,2,06:55,,8,1,19,IND 44,0,IND,
-3,390,3,08:11,,6,1,17,IND 29,0,IND,
-3,326,0,09:10,,0,1,0,PIT 35,0,PIT,KICKOFF
-3,481,1,06:02,,10,1,37,PIT 38,0,IND,
-3,526,3,04:37,,1,1,41,PIT 29,0,IND,
-3,502,2,05:19,,10,1,46,PIT 38,0,IND,
-3,366,2,08:42,,9,1,41,IND 26,0,IND,
-17,3369,4,01:53,,4,4,26,50,0,PIT,PUNT
-17,3305,2,02:31,,7,4,26,PIT 47,0,PIT,
-17,3258,2,03:24,,6,4,20,PIT 28,0,PIT,
-17,3345,3,02:00,,4,4,26,50,0,PIT,
-17,3328,0,02:00,,0,4,26,,0,,
-17,3284,1,03:18,,10,4,23,PIT 44,0,PIT,
-17,3233,1,04:08,,10,4,23,PIT 24,0,PIT,
-4,677,2,01:54,,10,1,33,IND 30,0,PIT,
-4,591,2,03:25,,6,1,16,PIT 46,0,PIT,
-4,721,0,01:06,,0,1,58,IND 15,1,PIT,XP
-4,612,1,02:41,,10,1,16,IND 42,0,PIT,
-4,566,1,04:08,,10,1,4,PIT 42,0,PIT,
-4,634,2,02:34,,10,1,28,IND 42,0,PIT,
-4,701,3,01:13,,5,1,58,IND 25,1,PIT,TD
-4,655,1,02:01,,10,1,28,IND 30,0,PIT,
-2,178,2,12:56,,8,1,12,50,0,PIT,
-2,310,0,09:10,,0,1,52,IND 15,1,PIT,XP
-2,270,1,09:59,,8,1,47,IND 8,0,PIT,
-2,222,2,11:30,,10,1,14,IND 40,0,PIT,
-2,154,1,13:29,,10,1,2,PIT 48,0,PIT,
-2,293,2,09:16,,5,1,52,IND 5,1,PIT,TD
-2,201,1,12:11,,10,1,12,IND 40,0,PIT,
-2,246,3,10:46,,8,1,44,IND 38,0,PIT,
-1,130,4,13:38,,25,1,-15,IND 10,0,IND,PUNT
-1,106,3,14:12,,20,1,-15,IND 15,0,IND,
-1,84,2,14:17,,20,1,-10,IND 15,0,IND,
-1,55,1,15:00,,10,1,-15,IND 25,0,IND,FUMBLE
-1,36,0,15:00,,0,1,0,PIT 35,0,PIT,KICKOFF
-5,749,0,01:06,,0,1,0,PIT 20,0,PIT,KICKOFF
-5,886,1,13:53,,8,2,42,PIT 8,0,IND,
-5,854,4,14:55,,6,2,39,PIT 43,0,IND,
-5,816,0,,,0,1,4,,0,,
-5,929,0,13:02,,0,2,47,PIT 15,1,IND,XP
-5,832,3,15:00,,6,2,42,PIT 43,0,IND,
-5,909,2,13:07,,5,2,47,PIT 5,1,IND,TD
-5,771,1,00:56,,10,1,1,PIT 47,0,IND,
-5,792,2,00:16,,9,1,4,PIT 46,0,IND,
-13,2700,1,11:22,,10,4,16,PIT 16,0,PIT,
-13,2727,2,10:43,,9,4,23,PIT 17,0,PIT,
-13,2782,3,09:31,,12,4,13,PIT 14,0,PIT,
-13,2679,3,11:58,,4,4,15,PIT 7,0,PIT,
-13,2804,4,09:26,,12,4,18,PIT 14,0,PIT,PENALTY
-13,2658,2,12:43,,7,4,6,PIT 4,0,PIT,
-13,2635,1,13:27,,10,4,3,PIT 1,0,PIT,
-13,2838,4,09:18,,7,4,18,PIT 19,0,PIT,PUNT
-13,2750,3,10:00,,2,4,13,PIT 24,0,PIT,PENALTY
-15,3031,0,05:30,,0,4,64,IND 15,1,PIT,XP
-15,2936,1,07:51,,10,4,35,PIT 36,0,PIT,
-15,3008,3,05:38,,3,4,64,IND 22,1,PIT,TD
-15,2987,2,06:24,,6,4,42,IND 25,0,PIT,
-15,2960,1,07:04,,10,4,39,IND 29,0,PIT,
+11,2121,4,09:56,"(9:56) (Punt formation) PENALTY on PIT-C.Hamilton, False Start, 5 yards, enforced at IND 42 - No Play.",2,3,32,IND 42,0,PIT,PENALTY
+11,1985,3,13:35,(13:35) (Shotgun) B.Roethlisberger pass short middle to C.Hamilton to PIT 35 for 5 yards (P.Robinson).,1,3,14,PIT 30,0,PIT,
+11,2054,1,11:34,"(11:34) (No Huddle, Shotgun) L.Bell left end to IND 47 for 3 yards (D.Jackson; T.McGill).",10,3,32,50,0,PIT,
+11,1964,2,14:17,(14:17) (Run formation) L.Bell left guard to PIT 30 for 6 yards (A.Jones; E.Jackson).,7,3,9,PIT 24,0,PIT,
+11,1943,1,14:54,(14:54) (Run formation) L.Bell right guard to PIT 24 for 3 yards (E.Jackson; A.Jones).,10,3,3,PIT 21,0,PIT,
+11,1921,0,15:00,P.McAfee kicks 65 yards from IND 35 to PIT 0. S.Coates to PIT 21 for 21 yards (M.Farley).,0,3,0,IND 35,0,IND,KICKOFF
+11,2152,4,09:55,"(9:55) (Punt formation) J.Berry punts 37 yards to IND 10, Center-G.Warren, fair catch by C.Rogers.",7,3,32,IND 47,0,PIT,PUNT
+11,2030,2,12:22,(12:22) (Shotgun) B.Roethlisberger pass short right to L.Bell to 50 for 10 yards (T.Green).,5,3,29,PIT 40,0,PIT,
+11,2009,1,12:59,"(12:59) (No Huddle, Shotgun) L.Bell left tackle to PIT 40 for 5 yards (E.Walden).",10,3,19,PIT 35,0,PIT,
+11,2099,3,10:04,(10:04) (Shotgun) B.Roethlisberger pass incomplete deep right to S.Coates.,2,3,37,IND 42,0,PIT,
+11,2075,2,10:48,"(10:48) (No Huddle, Shotgun) B.Roethlisberger pass short left to L.Bell to IND 42 for 5 yards (A.Ayers).",7,3,37,IND 47,0,PIT,
+10,1803,0,00:58,Timeout #2 by IND at 00:58.,0,2,3,,0,,TIMEOUT
+10,1780,1,01:08,(1:08) (Run formation) C.Hubbard reported in as eligible.  L.Bell up the middle to PIT 4 for 3 yards (E.Walden).,10,2,3,PIT 1,0,PIT,
+10,1820,2,00:58,"(:58) (Run formation) L.Bell up the middle to PIT 25 for 21 yards (R.Melvin). PENALTY on PIT-D.DeCastro, Offensive Holding, 2 yards, enforced at PIT 4 - No Play. Penalty on PIT-A.Villanueva, Illegal Formation, declined.",7,2,13,PIT 4,0,PIT,PENALTY
+10,1862,2,00:50,(:50) (Run formation) L.Bell up the middle to PIT 10 for 8 yards (R.Melvin).,9,2,9,PIT 2,0,PIT,
+10,1904,0,,END QUARTER 2,0,2,13,,0,,
+10,1883,3,00:10,(:10) (Run formation) L.Bell up the middle to PIT 14 for 4 yards (D.Jackson).,1,2,13,PIT 10,0,PIT,
+13,2727,2,10:43,(10:43) (Run formation) C.Hubbard reported in as eligible.  L.Bell left tackle to PIT 24 for 7 yards (E.Jackson).,9,4,23,PIT 17,0,PIT,
+13,2658,2,12:43,(12:43) (Run formation) L.Bell right guard to PIT 7 for 3 yards (H.Anderson; D.Parry).,7,4,6,PIT 4,0,PIT,
+13,2782,3,09:31,(9:31) (Shotgun) B.Roethlisberger pass incomplete short left to S.Coates.,12,4,13,PIT 14,0,PIT,
+13,2635,1,13:27,(13:27) (Run formation) C.Hubbard reported in as eligible.  L.Bell up the middle to PIT 4 for 3 yards (T.Green).,10,4,3,PIT 1,0,PIT,
+13,2700,1,11:22,(11:22) (Run formation) L.Bell right tackle to PIT 17 for 1 yard (D.Jackson).,10,4,16,PIT 16,0,PIT,
+13,2750,3,10:00,"(10:00) (Shotgun) L.Bell right end to PIT 29 for 5 yards (H.Anderson). PENALTY on PIT-D.DeCastro, Offensive Holding, 10 yards, enforced at PIT 24 - No Play.",2,4,13,PIT 24,0,PIT,PENALTY
+13,2838,4,09:18,"(9:18) (Punt formation) J.Berry punts 54 yards to IND 27, Center-G.Warren, fair catch by C.Rogers.",7,4,18,PIT 19,0,PIT,PUNT
+13,2679,3,11:58,(11:58) (Shotgun) L.Bell up the middle pushed ob at PIT 16 for 9 yards (R.Melvin).,4,4,15,PIT 7,0,PIT,
+13,2804,4,09:26,"(9:26) (Punt formation) J.Berry punts 38 yards to IND 48, Center-G.Warren, fair catch by C.Rogers. PENALTY on IND-T.Green, Running Into the Kicker, 5 yards, enforced at PIT 14 - No Play.",12,4,18,PIT 14,0,PIT,PENALTY
+12,2309,1,05:38,(5:38) (Pass formation) F.Gore up the middle to IND 41 for 7 yards (S.Davis).,10,3,31,IND 34,0,IND,
+12,2330,2,05:04,(5:04) (Run formation) F.Gore up the middle to IND 41 for no gain (L.Timmons).,3,3,31,IND 41,0,IND,
+12,2533,1,00:26,(:26) (Pass formation) R.Turbin left tackle to PIT 4 for 2 yards (L.Timmons).,6,3,86,PIT 6,0,IND,
+12,2459,2,01:57,(1:57) (Run formation) S.Tolzien pass short left to D.Allen to PIT 18 for 6 yards (A.Burns) [D.McCullers].,10,3,72,PIT 24,0,IND,
+12,2591,3,14:16,(14:16) (Shotgun) S.Tolzien right tackle to PIT 1 for 1 yard (M.Mitchell).,2,4,89,PIT 2,0,IND,
+12,2487,3,01:15,(1:15) (Shotgun) S.Tolzien pass incomplete short left to R.Turbin [L.Timmons].,4,3,72,PIT 18,0,IND,
+12,2218,3,08:25,(8:25) (Shotgun) S.Tolzien pass short left to D.Moncrief to IND 23 for 6 yards (A.Burns).,3,3,13,IND 17,0,IND,
+12,2437,1,02:06,(2:06) (Shotgun) S.Tolzien pass incomplete deep left to D.Moncrief.,10,3,66,PIT 24,0,IND,
+12,2285,3,06:15,(6:15) (Shotgun) S.Tolzien pass deep right to P.Dorsett to IND 34 for 16 yards (R.Cockrell).,15,3,24,IND 18,0,IND,
+12,2570,2,15:00,(15:00) (Run formation) F.Gore up the middle to PIT 2 for 2 yards (S.Tuitt; R.Shazier).,4,4,89,PIT 4,0,IND,
+12,2172,1,09:49,(9:49) (Shotgun) S.Tolzien pass short left to T.Hilton to IND 14 for 4 yards (W.Gay).,10,3,4,IND 10,0,IND,
+12,2554,0,,END QUARTER 3,0,3,86,,0,,
+12,2413,2,02:49,(2:49) (Shotgun) S.Tolzien pass short middle to D.Moncrief to PIT 24 for 10 yards (S.Davis).,3,3,66,PIT 34,0,IND,
+12,2372,1,03:34,(3:34) (Shotgun) S.Tolzien pass short right to J.Doyle to PIT 34 for 7 yards (R.Shazier).,10,3,56,PIT 41,0,IND,
+12,2509,4,01:08,(1:08) (Shotgun) S.Tolzien pass short middle to D.Allen to PIT 6 for 12 yards (L.Timmons) [B.Dupree].,4,3,84,PIT 18,0,IND,
+12,2197,2,09:09,(9:09) (Run formation) F.Gore up the middle to IND 17 for 3 yards (J.Hargrave).,6,3,7,IND 14,0,IND,
+12,2396,0,02:49,Timeout #1 by PIT at 02:49.,0,3,56,,0,,TIMEOUT
+12,2351,3,04:20,(4:20) (Pass formation) R.Turbin left end to PIT 41 for 18 yards (M.Mitchell).,3,3,49,IND 41,0,IND,
+12,2266,2,07:02,(7:02) (Shotgun) S.Tolzien sacked at IND 18 for -6 yards (J.Hargrave).,9,3,8,IND 24,0,IND,
+12,2242,1,07:47,(7:47) (Shotgun) S.Tolzien pass short right to D.Moncrief to IND 24 for 1 yard (A.Burns).,10,3,14,IND 23,0,IND,
+12,2612,4,13:31,(13:31) (Shotgun) S.Tolzien pass incomplete short right to P.Dorsett.,1,4,89,PIT 1,0,IND,
+15,2936,1,07:51,(7:51) (Run formation) B.Roethlisberger pass deep right to L.Green to IND 29 for 35 yards (E.Jackson).,10,4,35,PIT 36,0,PIT,
+15,3031,0,05:30,"C.Boswell extra point is GOOD, Center-G.Warren, Holder-J.Berry.",0,4,64,IND 15,1,PIT,XP
+15,2987,2,06:24,(6:24) (Run formation) C.Hubbard reported in as eligible.  L.Bell left tackle to IND 22 for 3 yards (H.Ridgeway).,6,4,42,IND 25,0,PIT,
+15,2960,1,07:04,(7:04) (Run formation) C.Hubbard reported in as eligible.  L.Bell right end to IND 25 for 4 yards (R.Melvin).,10,4,39,IND 29,0,PIT,
+15,3008,3,05:38,"(5:38) (Shotgun) B.Roethlisberger pass deep right to A.Brown for 22 yards, TOUCHDOWN.",3,4,64,IND 22,1,PIT,TD
+14,2910,1,08:09,(8:09) (Shotgun) S.Tolzien pass deep right intended for P.Dorsett INTERCEPTED by M.Mitchell at PIT 10. M.Mitchell to PIT 36 for 26 yards (S.Tolzien).,10,4,30,PIT 43,0,IND,INT
+14,2862,1,09:11,(9:11) (Shotgun) S.Tolzien pass short middle to J.Doyle to IND 45 for 18 yards (M.Mitchell).,10,4,18,IND 27,0,IND,
+14,2886,1,08:47,"(8:47) (No Huddle, Shotgun) S.Tolzien pass short right to D.Moncrief pushed ob at PIT 43 for 12 yards (R.Shazier).",10,4,30,IND 45,0,IND,
+17,3258,2,03:24,(3:24) (Run formation) F.Toussaint left end ran ob at PIT 44 for 16 yards (E.Walden).,6,4,20,PIT 28,0,PIT,
+17,3233,1,04:08,(4:08) (Run formation) F.Toussaint up the middle to PIT 28 for 4 yards (D.Parry). #3 Jones in at QB.,10,4,23,PIT 24,0,PIT,
+17,3305,2,02:31,(2:31) (Run formation) C.Hubbard reported in as eligible.  F.Toussaint left tackle to 50 for 3 yards (D.Jackson; A.Ayers).,7,4,26,PIT 47,0,PIT,
+17,3369,4,01:53,"(1:53) J.Berry punts 50 yards to end zone, Center-G.Warren, Touchback.",4,4,26,50,0,PIT,PUNT
+17,3345,3,02:00,(2:00) (Run formation) C.Hubbard reported in as eligible.  L.Jones pass incomplete deep left to J.James.,4,4,26,50,0,PIT,
+17,3328,0,02:00,Two-Minute Warning,0,4,26,,0,,
+17,3284,1,03:18,(3:18) (Run formation) F.Toussaint up the middle to PIT 47 for 3 yards (A.Jones; D.Jackson).,10,4,23,PIT 44,0,PIT,
+16,3206,1,04:16,(4:16) (Shotgun) S.Tolzien pass deep right intended for D.Moncrief INTERCEPTED by W.Gay at PIT 24. W.Gay to PIT 24 for no gain (D.Moncrief).,10,4,29,PIT 46,0,IND,INT
+16,3112,3,05:00,(5:00) (Shotgun) S.Tolzien pass short left to D.Moncrief pushed ob at IND 39 for 11 yards (W.Gay) [R.Cockrell].,7,4,14,IND 28,0,IND,
+16,3090,2,05:05,"(5:05) (No Huddle, Shotgun) S.Tolzien pass incomplete deep left to D.Moncrief [S.Tuitt].",7,4,3,IND 28,0,IND,
+16,3136,1,04:53,(4:53) (Shotgun) S.Tolzien pass incomplete short right to P.Dorsett (W.Gay) [S.Tuitt].,10,4,14,IND 39,0,IND,
+16,3066,1,05:30,(5:30) (Shotgun) S.Tolzien pass short right to P.Dorsett to IND 28 for 3 yards (R.Cockrell).,10,4,3,IND 25,0,IND,
+16,3182,3,04:21,"(4:21) (No Huddle, Shotgun) S.Tolzien pass short left to P.Dorsett pushed ob at PIT 46 for 12 yards (A.Burns).",7,4,29,IND 42,0,IND,
+16,3158,2,04:47,(4:47) (Shotgun) S.Tolzien pass short left to R.Turbin to IND 42 for 3 yards (B.Dupree).,10,4,17,IND 39,0,IND,
+16,3047,0,05:30,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback.",0,4,0,PIT 35,0,PIT,KICKOFF
+18,3391,1,01:42,(1:42) (Shotgun) J.Todman up the middle to IND 32 for 12 yards (M.Mitchell).,10,4,12,IND 20,0,IND,
+18,3433,2,00:34,(:34) (Shotgun) J.Todman up the middle to PIT 43 for 19 yards (M.Mitchell).,4,4,37,IND 38,0,IND,
+18,3412,1,01:09,(1:09) (Shotgun) J.Todman right tackle to IND 38 for 6 yards (L.Timmons).,10,4,18,IND 32,0,IND,
+18,3454,0,,END GAME,0,4,37,,0,,
+1,55,1,15:00,"(15:00) (Shotgun) S.Tolzien sacked at IND 16 for -9 yards (W.Gay). FUMBLES (W.Gay), and recovers at IND 15. S.Tolzien to IND 15 for no gain (A.Chickillo). Credit William Gay with a sack for minus 10 yards.",10,1,-15,IND 25,0,IND,FUMBLE
+1,130,4,13:38,"(13:38) (Punt formation) P.McAfee punts 42 yards to PIT 48, Center-M.Overton, fair catch by A.Brown.",25,1,-15,IND 10,0,IND,PUNT
+1,106,3,14:12,(14:12) (Shotgun) S.Tolzien pass short left to R.Turbin to IND 10 for -5 yards (J.Hargrave).,20,1,-15,IND 15,0,IND,
+1,36,0,15:00,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback.",0,1,0,PIT 35,0,PIT,KICKOFF
+1,84,2,14:17,(14:17) (Shotgun) S.Tolzien pass incomplete deep middle to T.Hilton.,20,1,-10,IND 15,0,IND,
+3,457,3,06:49,(6:49) (Shotgun) S.Tolzien pass deep left to T.Hilton to PIT 38 for 18 yards (S.Davis) [J.Hargrave].,8,1,37,IND 44,0,IND,
+3,414,1,07:32,(7:32) (Run formation) F.Gore right tackle to IND 44 for 2 yards (S.Tuitt; L.Timmons).,10,1,19,IND 42,0,IND,
+3,345,1,09:10,(9:10) (Run formation) F.Gore right tackle to IND 26 for 1 yard (R.Shazier).,10,1,1,IND 25,0,IND,
+3,526,3,04:37,(4:37) (Run formation) S.Tolzien sacked at PIT 34 for -5 yards (J.Harrison).,1,1,41,PIT 29,0,IND,
+3,390,3,08:11,(8:11) (Shotgun) S.Tolzien pass short middle to D.Allen to IND 42 for 13 yards (L.Timmons).,6,1,17,IND 29,0,IND,
+3,326,0,09:10,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback.",0,1,0,PIT 35,0,PIT,KICKOFF
+3,545,4,04:13,"(4:13) A.Vinatieri 52 yard field goal is No Good, Wide Right, Center-M.Overton, Holder-P.McAfee.",6,1,41,PIT 34,0,IND,FGM
+3,366,2,08:42,(8:42) (Run formation) F.Gore up the middle to IND 29 for 3 yards (J.Harrison). IND-D.Good was injured during the play. His return is Questionable.,9,1,41,IND 26,0,IND,
+3,435,2,06:55,(6:55) (Run formation) S.Tolzien pass incomplete deep left to D.Moncrief.,8,1,19,IND 44,0,IND,
+3,502,2,05:19,(5:19) (Shotgun) S.Tolzien pass short middle to D.Allen to PIT 29 for 9 yards (L.Timmons).,10,1,46,PIT 38,0,IND,
+3,481,1,06:02,(6:02) (Run formation) F.Gore left tackle to PIT 38 for no gain (A.Chickillo).,10,1,37,PIT 38,0,IND,
+2,201,1,12:11,(12:11) (No Huddle) F.Toussaint right end to IND 40 for no gain (D.Parry).,10,1,12,IND 40,0,PIT,
+2,154,1,13:29,(13:29) (Shotgun) B.Roethlisberger pass short right to L.Bell to 50 for 2 yards (D.Butler).,10,1,2,PIT 48,0,PIT,
+2,310,0,09:10,"(Kick formation) C.Boswell extra point is GOOD, Center-G.Warren, Holder-J.Berry.",0,1,52,IND 15,1,PIT,XP
+2,293,2,09:16,"(9:16) (Shotgun) L.Bell left end for 5 yards, TOUCHDOWN.",5,1,52,IND 5,1,PIT,TD
+2,270,1,09:59,(9:59) (No Huddle) C.Hubbard reported in as eligible.  L.Bell up the middle to IND 5 for 3 yards (A.Jones; D.Jackson).,8,1,47,IND 8,0,PIT,
+2,246,3,10:46,(10:46) (Shotgun) B.Roethlisberger pass short middle to E.Rogers to IND 8 for 30 yards (P.Robinson).,8,1,44,IND 38,0,PIT,
+2,178,2,12:56,(12:56) (No Huddle) C.Hubbard reported in as eligible.  L.Bell left tackle to IND 40 for 10 yards (D.Jackson).,8,1,12,50,0,PIT,
+2,222,2,11:30,(11:30) (No Huddle) B.Roethlisberger pass short left to A.Brown to IND 38 for 2 yards (V.Davis).,10,1,14,IND 40,0,PIT,
+5,832,3,15:00,(15:00) (Shotgun) S.Tolzien pass incomplete short middle to D.Allen.,6,2,42,PIT 43,0,IND,
+5,854,4,14:55,(14:55) (Punt formation) P.McAfee pass deep right to E.Swoope to PIT 8 for 35 yards (J.Gilbert).,6,2,39,PIT 43,0,IND,
+5,771,1,00:56,(:56) (Run formation) F.Gore left tackle to PIT 46 for 1 yard (L.Timmons).,10,1,1,PIT 47,0,IND,
+5,792,2,00:16,(:16) (Shotgun) S.Tolzien pass short middle to F.Gore to PIT 43 for 3 yards (B.Dupree) [S.Tuitt].,9,1,4,PIT 46,0,IND,
+5,749,0,01:06,C.Boswell kicks 70 yards from PIT 20 to IND 10. J.Todman ran ob at PIT 47 for 43 yards (T.Matakevich).,0,1,0,PIT 20,0,PIT,KICKOFF
+5,909,2,13:07,"(13:07) (Shotgun) S.Tolzien pass short left to D.Moncrief for 5 yards, TOUCHDOWN.",5,2,47,PIT 5,1,IND,TD
+5,929,0,13:02,"(Kick formation) A.Vinatieri extra point is GOOD, Center-M.Overton, Holder-P.McAfee.",0,2,47,PIT 15,1,IND,XP
+5,816,0,,END QUARTER 1,0,1,4,,0,,
+5,886,1,13:53,(13:53) (Shotgun) Direct snap to F.Gore.  F.Gore up the middle to PIT 5 for 3 yards (L.Timmons; M.Mitchell).,8,2,42,PIT 8,0,IND,
+4,591,2,03:25,(3:25) (Shotgun) L.Bell right end to IND 42 for 12 yards (R.Melvin; E.Jackson).,6,1,16,PIT 46,0,PIT,
+4,634,2,02:34,(2:34) (Shotgun) L.Bell right end pushed ob at IND 30 for 12 yards (R.Melvin).,10,1,28,IND 42,0,PIT,
+4,612,1,02:41,(2:41) (Run formation) B.Roethlisberger pass incomplete short middle to L.Bell [T.Green].,10,1,16,IND 42,0,PIT,
+4,677,2,01:54,"(1:54) (No Huddle, Shotgun) B.Roethlisberger pass short right to L.Bell to IND 25 for 5 yards (E.Jackson).",10,1,33,IND 30,0,PIT,
+4,701,3,01:13,"(1:13) (Shotgun) B.Roethlisberger pass deep right to A.Brown for 25 yards, TOUCHDOWN. PENALTY on PIT, Unsportsmanlike Conduct, 15 yards, enforced between downs.",5,1,58,IND 25,1,PIT,TD
+4,566,1,04:08,(4:08) (Run formation) L.Bell up the middle to PIT 46 for 4 yards (H.Anderson).,10,1,4,PIT 42,0,PIT,
+4,655,1,02:01,(2:01) (Shotgun) B.Roethlisberger pass incomplete deep left to A.Brown (D.Butler).,10,1,28,IND 30,0,PIT,
+4,721,0,01:06,"(Kick formation) C.Boswell extra point is GOOD, Center-G.Warren, Holder-J.Berry.",0,1,58,IND 15,1,PIT,XP
+7,1226,2,08:46,(8:46) (Run formation) F.Gore up the middle to IND 22 for no gain (A.Chickillo).,10,2,0,IND 22,0,IND,
+7,1193,1,08:53,(8:53) (Shotgun) S.Tolzien pass incomplete deep right to D.Moncrief (R.Cockrell) [R.Shazier].,10,2,0,IND 22,0,IND,
+7,1268,4,07:34,"(7:34) (Punt formation) P.McAfee punts 50 yards to PIT 23, Center-M.Overton, fair catch by A.Brown.",5,2,5,IND 27,0,IND,PUNT
+7,1247,3,08:08,(8:08) (Shotgun) S.Tolzien scrambles up the middle to IND 27 for 5 yards (J.Hargrave).,10,2,5,IND 22,0,IND,
+7,1171,0,09:00,C.Boswell kicks 67 yards from PIT 35 to IND -2. J.Ferguson to IND 22 for 24 yards (A.Chickillo).,0,2,0,PIT 35,0,PIT,KICKOFF
+6,964,1,13:02,(13:02) (Run formation) B.Roethlisberger pass short left to E.Rogers ran ob at PIT 31 for 6 yards (P.Robinson).,10,2,6,PIT 25,0,PIT,
+6,1086,3,10:33,(10:33) (Shotgun) B.Roethlisberger pass deep left to L.Green to IND 35 for 32 yards (D.Butler).,13,2,40,PIT 33,0,PIT,
+6,988,2,12:37,(12:37) (Run formation) C.Hubbard reported in as eligible.  L.Bell up the middle to PIT 36 for 5 yards (A.Jones).,4,2,11,PIT 31,0,PIT,
+6,1151,0,09:00,"(Kick formation) C.Boswell extra point is GOOD, Center-G.Warren, Holder-J.Berry.",0,2,75,IND 15,1,PIT,XP
+6,1131,2,09:08,"(9:08) (Pass formation) B.Roethlisberger pass deep right to A.Brown for 33 yards, TOUCHDOWN. IND-V.Davis was injured during the play. His return is Questionable.",8,2,75,IND 33,1,PIT,TD
+6,945,0,13:02,"P.McAfee kicks 65 yards from IND 35 to end zone, Touchback.",0,2,0,IND 35,0,IND,KICKOFF
+6,1065,2,11:12,(11:12) (Shotgun) L.Bell up the middle to PIT 33 for 3 yards (D.Parry; R.Mathis).,16,2,8,PIT 30,0,PIT,
+6,1110,1,09:50,(9:50) (No Huddle) F.Toussaint up the middle to IND 33 for 2 yards (H.Ridgeway).,10,2,42,IND 35,0,PIT,
+6,1032,2,11:17,"(11:17) (No Huddle, Shotgun) B.Roethlisberger pass incomplete deep right to A.Brown. PENALTY on PIT-A.Brown, Offensive Pass Interference, 10 yards, enforced at PIT 40 - No Play.",6,2,5,PIT 40,0,PIT,PENALTY
+6,1011,1,12:00,"(12:00) (No Huddle, Shotgun) L.Bell up the middle to PIT 40 for 4 yards (E.Jackson).",10,2,15,PIT 36,0,PIT,
+9,1547,2,04:23,"(4:23) (Shotgun) S.Tolzien pass incomplete short middle to F.Gore [L.Timmons]. PENALTY on PIT-L.Timmons, Roughing the Passer, 15 yards, enforced at PIT 48 - No Play. Penalty on PIT-R.Shazier, Defensive Holding, declined.",10,2,30,PIT 48,0,IND,PENALTY
+9,1715,0,01:12,Timeout #1 by IND at 01:12.,0,2,62,,0,,TIMEOUT
+9,1631,1,03:18,(3:18) (Shotgun) Direct snap to F.Gore.  F.Gore up the middle to PIT 2 for no gain (S.Davis).,2,2,61,PIT 2,0,IND,
+9,1601,2,03:41,(3:41) (Shotgun) S.Tolzien pass deep middle to T.Hilton to PIT 2 for 32 yards (M.Mitchell). IND-T.Hilton was injured during the play. His return is Questionable. PIT-M.Mitchell was injured during the play. His return is Probable.,11,2,62,PIT 34,0,IND,
+9,1580,1,04:19,(4:19) (Run formation) F.Gore right tackle to PIT 34 for -1 yards (R.Shazier; J.Hargrave).,10,2,29,PIT 33,0,IND,
+9,1692,3,02:00,(2:00) (Run formation) J.Reitz reported in as eligible.  S.Tolzien right end to PIT 1 for no gain (S.Davis).,1,2,62,PIT 1,0,IND,
+9,1525,1,04:30,(4:30) (Run formation) S.Tolzien pass incomplete deep left to E.Swoope (R.Cockrell).,10,2,15,PIT 48,0,IND,
+9,1457,1,05:55,(5:55) (Shotgun) S.Tolzien pass incomplete deep right to T.Hilton.,10,2,0,IND 37,0,IND,
+9,1480,2,05:49,(5:49) (Shotgun) S.Tolzien pass short middle to D.Allen to IND 46 for 9 yards (L.Timmons).,10,2,9,IND 37,0,IND,
+9,1504,3,05:07,(5:07) (Run formation) F.Gore left tackle to PIT 48 for 6 yards (A.Burns; R.Shazier).,1,2,15,IND 46,0,IND,
+9,1757,4,01:12,(1:12) (Shotgun) S.Tolzien pass incomplete short middle to C.Rogers (M.Mitchell).,1,2,62,PIT 1,0,IND,
+9,1675,0,02:00,Two-Minute Warning,0,2,62,,0,,
+9,1740,0,01:12,Timeout #1 by PIT at 01:12.,0,2,62,,0,,TIMEOUT
+9,1654,2,02:39,(2:39) (Shotgun) F.Gore up the middle to PIT 1 for 1 yard (R.Mathews).,2,2,62,PIT 2,0,IND,
+8,1314,2,07:18,(7:18) (Run formation) C.Hubbard reported in as eligible.  B.Roethlisberger pass incomplete short middle to L.Green.,10,2,0,PIT 23,0,PIT,
+8,1338,3,07:13,"(7:13) (Shotgun) B.Roethlisberger pass deep middle to A.Brown to PIT 40 for 17 yards (M.Adams). PENALTY on PIT-L.Green, Illegal Use of Hands, 10 yards, enforced at PIT 23 - No Play.",10,2,-10,PIT 23,0,PIT,PENALTY
+8,1397,4,06:17,"(6:17) J.Berry punts 63 yards to IND 15, Center-G.Warren. C.Rogers to IND 44 for 29 yards (S.Coates; L.Fort). PENALTY on IND-J.McNary, Illegal Formation, 5 yards, enforced at PIT 22 - No Play.",11,2,4,PIT 22,0,PIT,PENALTY
+8,1373,3,06:56,(6:56) (Shotgun) B.Roethlisberger pass short middle to A.Brown to PIT 22 for 9 yards (D.Butler).,20,2,-1,PIT 13,0,PIT,
+8,1292,1,07:25,(7:25) (Run formation) B.Roethlisberger pass incomplete deep right to S.Coates (P.Robinson).,10,2,0,PIT 23,0,PIT,
+8,1433,4,06:03,"(6:03) (Punt formation) J.Berry punts 36 yards to IND 37, Center-G.Warren, fair catch by C.Rogers.",6,2,4,PIT 27,0,PIT,PUNT

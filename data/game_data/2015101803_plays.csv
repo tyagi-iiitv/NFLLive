@@ -1,172 +1,172 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1689,3,02:25,,8,2,2,MIN 18,0,MIN,
-9,1667,2,02:31,,8,2,2,MIN 18,0,MIN,
-9,1711,4,02:18,,8,2,2,MIN 18,0,MIN,PUNT
-9,1629,1,02:35,,10,2,2,MIN 16,0,MIN,
-9,1650,0,02:31,,0,2,2,,0,,TIMEOUT
-10,1856,3,01:07,,2,2,23,MIN 46,0,KC,
-10,1743,1,02:05,,10,2,4,KC 31,0,KC,
-10,1832,2,01:33,,10,2,23,KC 46,0,KC,
-10,1810,1,01:37,,10,2,23,KC 46,0,KC,
-10,1784,2,02:00,,6,2,15,KC 35,0,KC,
-10,1878,4,01:03,,2,2,23,MIN 46,0,KC,PUNT
-10,1767,0,02:00,,0,2,4,,0,,
-20,3648,1,04:46,,10,4,37,KC 20,0,KC,
-20,3672,1,04:38,,10,4,38,MIN 43,0,KC,FUMBLE
-20,3633,0,04:46,,0,4,0,MIN 35,0,MIN,KICKOFF
-6,1119,4,11:03,,17,2,-7,KC 14,0,KC,PUNT
-6,1076,2,12:22,,23,2,0,KC 8,0,KC,
-6,1020,1,13:30,,20,2,-15,KC 11,0,KC,PENALTY
-6,1055,1,13:05,,25,2,-13,KC 6,0,KC,
-6,1100,3,11:46,,10,2,-7,KC 21,0,KC,
-6,985,1,14:00,,10,2,-10,KC 21,0,KC,PENALTY
-18,3333,3,08:55,,10,4,77,MIN 42,1,KC,TD
-18,3213,1,10:45,,10,4,23,KC 33,0,KC,
-18,3258,2,09:37,,3,4,35,MIN 47,0,KC,
-18,3311,2,09:00,,10,4,35,MIN 42,0,KC,
-18,3189,1,11:12,,10,4,10,KC 23,0,KC,
-18,3237,1,10:06,,10,4,30,KC 46,0,KC,
-18,3354,0,08:46,,0,4,77,MIN 15,1,KC,XP
-18,3282,1,09:05,,10,4,35,MIN 42,0,KC,
-1,100,3,13:44,,4,1,22,MIN 20,0,MIN,
-1,231,3,10:54,,15,1,71,KC 15,0,MIN,INT
-1,167,3,12:54,,7,1,77,MIN 39,0,MIN,
-1,58,1,14:56,,10,1,5,MIN 14,0,MIN,
-1,212,2,11:36,,10,1,71,KC 10,0,MIN,
-1,124,1,13:30,,10,1,25,MIN 36,0,MIN,
-1,79,2,14:25,,5,1,6,MIN 19,0,MIN,
-1,145,2,12:59,,7,1,25,MIN 39,0,MIN,
-1,191,1,12:07,,9,1,76,KC 9,0,MIN,
-1,36,0,15:00,,0,1,71,KC 35,0,KC,KICKOFF
-5,849,2,00:38,,7,1,23,MIN 22,0,MIN,
-5,825,1,01:07,,10,1,3,MIN 19,0,MIN,
-5,894,0,,,0,1,18,,0,,
-5,911,2,15:00,,15,2,31,MIN 37,0,MIN,
-5,873,1,00:07,,10,1,18,MIN 42,0,MIN,
-5,935,3,14:43,,2,2,28,50,0,MIN,
-5,959,4,14:13,,5,2,28,MIN 47,0,MIN,PUNT
-13,2240,1,11:25,,10,3,23,MIN 27,0,MIN,
-13,2306,2,09:35,,7,3,41,KC 32,0,MIN,
-13,2352,4,08:55,,2,3,46,KC 27,1,MIN,FG
-13,2285,1,10:13,,10,3,41,KC 35,0,MIN,
-13,2261,1,10:52,,10,3,41,50,0,MIN,
-13,2328,3,09:32,,7,3,46,KC 32,0,MIN,
-21,3716,1,04:32,,10,4,0,KC 47,0,MIN,
-21,3775,3,02:56,,7,4,3,KC 44,0,MIN,
-21,3758,0,03:00,,0,4,3,,0,,TIMEOUT
-21,3737,2,03:46,,10,4,3,KC 47,0,MIN,
-21,3797,4,02:51,,7,4,3,KC 44,0,MIN,PUNT
-23,3940,1,02:00,,10,4,-4,KC 47,0,MIN,
-23,4003,0,00:00,,0,4,-5,,0,,
-23,3982,3,00:40,,14,4,-5,MIN 49,0,MIN,
-23,3961,2,01:17,,13,4,-4,50,0,MIN,
-11,1898,1,00:55,,10,2,0,MIN 6,0,MIN,
-11,1998,0,,,0,2,4,,0,,
-11,1939,2,00:51,,10,2,0,MIN 6,0,MIN,
-11,1960,0,00:46,,0,2,0,,0,,TIMEOUT
-11,1977,3,00:46,,10,2,4,MIN 6,0,MIN,
-11,1922,0,00:51,,0,2,0,,0,,TIMEOUT
-14,2537,2,05:46,,4,3,73,MIN 10,0,KC,
-14,2423,1,08:07,,10,3,22,KC 34,0,KC,
-14,2558,3,05:03,,1,3,73,MIN 7,0,KC,
-14,2444,2,07:33,,2,3,25,KC 42,0,KC,
-14,2399,1,08:45,,10,3,14,KC 20,0,KC,
-14,2465,1,06:51,,10,3,64,KC 45,0,KC,
-14,2376,0,08:51,,0,3,0,MIN 35,0,MIN,KICKOFF
-14,2513,1,06:27,,10,3,73,MIN 16,0,KC,
-14,2581,4,04:34,,1,3,73,MIN 7,0,KC,
-8,1527,0,04:43,,0,2,0,MIN 35,0,MIN,KICKOFF
-8,1588,3,03:20,,1,2,9,KC 29,0,KC,
-8,1543,1,04:43,,10,2,3,KC 20,0,KC,
-8,1609,4,02:43,,1,2,9,KC 29,0,KC,PUNT
-8,1564,2,04:07,,7,2,9,KC 23,0,KC,
-19,4019,0,05:00,,0,4,53,,0,,TIMEOUT
-19,3385,1,08:46,,10,4,2,MIN 20,0,MIN,
-19,3473,2,06:01,,7,4,33,MIN 48,0,MIN,
-19,3591,3,04:55,,1,4,53,KC 27,0,MIN,
-19,3406,2,08:13,,8,4,-5,MIN 22,0,MIN,
-19,3553,0,05:00,,0,4,50,,0,,TIMEOUT
-19,3570,2,05:00,,4,4,53,KC 30,0,MIN,
-19,3532,1,05:08,,10,4,50,KC 36,0,MIN,
-19,3494,3,05:20,,2,4,44,KC 47,0,MIN,
-19,3425,3,07:31,,15,4,25,MIN 15,0,MIN,
-19,3370,0,08:46,,0,4,0,KC 35,0,KC,KICKOFF
-19,3449,1,06:45,,10,4,28,MIN 45,0,MIN,
-19,3613,4,04:51,,1,4,53,KC 27,1,MIN,FG
-19,3515,0,05:08,,0,4,44,,0,,TIMEOUT
-22,3906,4,02:04,,10,4,12,KC 32,0,KC,PENALTY
-22,3884,3,02:12,,10,4,12,KC 32,0,KC,
-22,3862,2,02:17,,10,4,12,KC 32,0,KC,
-22,3815,1,02:46,,10,4,12,KC 20,0,KC,
-22,3839,1,02:21,,10,4,12,KC 32,0,KC,
-12,2052,2,14:54,,10,3,6,KC 20,0,KC,
-12,2076,3,14:11,,4,3,19,KC 26,0,KC,
-12,2170,2,11:44,,7,3,34,MIN 46,0,KC,
-12,2030,1,15:00,,10,3,0,KC 20,0,KC,
-12,2100,1,13:32,,10,3,22,KC 39,0,KC,
-12,2015,0,15:00,,0,3,0,MIN 35,0,MIN,KICKOFF
-12,2221,4,11:25,,7,3,34,MIN 46,0,KC,PUNT
-12,2121,2,12:51,,7,3,31,KC 42,0,KC,
-12,2199,3,11:37,,7,3,34,MIN 46,0,KC,
-12,2149,1,12:26,,10,3,34,MIN 49,0,KC,
-16,2961,2,14:05,,10,4,43,MIN 23,0,KC,
-16,3040,4,13:15,,16,4,28,MIN 29,1,KC,FG
-16,3018,3,13:20,,16,4,28,MIN 29,0,KC,
-16,2854,2,00:59,,4,3,24,KC 49,0,KC,
-16,2878,1,00:21,,10,3,33,MIN 33,0,KC,
-16,2939,1,14:14,,10,4,34,MIN 23,0,KC,
-16,2982,3,13:24,,1,4,28,MIN 14,0,KC,PENALTY
-16,2830,1,01:37,,10,3,6,KC 43,0,KC,
-16,2918,2,15:00,,1,4,34,MIN 24,0,KC,
-16,2902,0,,,0,3,33,,0,,
-7,1314,1,08:30,,10,2,12,KC 39,0,MIN,
-7,1229,3,09:56,,9,2,9,50,0,MIN,TIMEOUT
-7,1511,0,04:43,,0,2,51,KC 15,1,MIN,XP
-7,1357,3,07:45,,6,2,31,KC 35,0,MIN,PENALTY
-7,1145,1,10:52,,10,2,0,MIN 49,0,MIN,
-7,1336,2,08:25,,10,2,16,KC 39,0,MIN,
-7,1446,1,06:09,,3,2,47,KC 3,0,MIN,
-7,1293,4,09:08,,1,2,12,KC 42,0,MIN,
-7,1189,3,10:15,,4,2,1,KC 45,0,MIN,PENALTY
-7,1467,2,05:29,,4,2,51,KC 4,0,MIN,
-7,1168,2,10:46,,10,2,6,MIN 49,0,MIN,
-7,1490,3,04:46,,4,2,51,KC 4,1,MIN,TD
-7,1422,2,06:43,,4,2,51,KC 14,0,MIN,
-7,1212,0,09:56,,0,2,1,,0,,TIMEOUT
-7,1390,1,07:39,,10,2,51,KC 20,0,MIN,FUMBLE
-3,522,2,06:30,,16,1,48,KC 16,0,MIN,
-3,405,2,09:04,,10,1,31,MIN 46,0,MIN,
-3,434,1,08:28,,10,1,31,KC 23,0,MIN,
-3,384,1,09:40,,10,1,0,MIN 46,0,MIN,
-3,546,3,05:50,,6,1,48,KC 6,0,MIN,
-3,501,1,07:15,,10,1,38,KC 10,0,MIN,
-3,568,4,05:44,,6,1,48,KC 6,1,MIN,FG
-3,456,2,08:28,,10,1,30,KC 23,0,MIN,
-3,477,3,07:47,,11,1,44,KC 24,0,MIN,
-17,3106,1,12:24,,10,4,20,MIN 45,0,MIN,
-17,3130,2,11:47,,7,4,32,MIN 48,0,MIN,
-17,3082,1,13:04,,10,4,17,MIN 28,0,MIN,
-17,3151,1,11:18,,10,4,32,KC 40,0,MIN,INT
-17,3060,0,13:10,,0,4,0,KC 35,0,KC,KICKOFF
-4,765,2,02:36,,2,1,22,KC 43,0,KC,
-4,610,1,05:35,,10,1,-10,KC 20,0,KC,PENALTY
-4,744,1,03:14,,10,1,23,KC 35,0,KC,
-4,645,1,05:06,,20,1,18,KC 10,0,KC,PENALTY
-4,588,0,05:40,,0,1,0,MIN 35,0,MIN,KICKOFF
-4,786,3,01:53,,3,1,18,KC 42,0,KC,
-4,678,1,05:02,,10,1,6,KC 25,0,KC,
-4,699,2,04:35,,9,1,12,KC 26,0,KC,
-4,720,3,03:53,,3,1,15,KC 32,0,KC,
-4,805,4,01:14,,7,1,18,KC 38,0,KC,PUNT
-2,309,3,09:57,,12,1,-2,KC 2,0,KC,
-2,285,2,10:42,,10,1,-2,KC 4,0,KC,
-2,263,1,10:45,,10,1,0,KC 4,0,KC,
-2,342,4,09:51,,12,1,-2,KC 2,0,KC,PUNT
-15,2664,3,03:48,,10,3,15,MIN 8,0,MIN,PENALTY
-15,2793,4,01:50,,16,3,9,MIN 17,0,MIN,PUNT
-15,2771,3,01:55,,16,3,9,MIN 17,0,MIN,
-15,2739,3,02:14,,11,3,9,MIN 22,0,MIN,PENALTY
-15,2697,1,03:44,,10,3,17,MIN 23,0,MIN,
-15,2718,2,02:58,,8,3,14,MIN 25,0,MIN,
-15,2621,1,04:30,,10,3,0,MIN 8,0,MIN,
-15,2642,2,03:54,,10,3,0,MIN 8,0,MIN,
+20,3672,1,04:38,"(4:38) (Shotgun) C.West up the middle to MIN 42 for 1 yard (D.Hunter). FUMBLES (D.Hunter), RECOVERED by MIN-B.Robison at MIN 38. B.Robison to MIN 38 for no gain (M.Morse). PENALTY on KC-T.Kelce, Unsportsmanlike Conduct, 15 yards, enforced at MIN 38.",10,4,38,MIN 43,0,KC,FUMBLE
+20,3633,0,04:46,"B.Walsh kicks 65 yards from MIN 35 to end zone, Touchback.",0,4,0,MIN 35,0,MIN,KICKOFF
+20,3648,1,04:46,(4:46) (Shotgun) A.Smith pass short left to T.Kelce pushed ob at MIN 43 for 37 yards (H.Smith).,10,4,37,KC 20,0,KC,
+21,3737,2,03:46,"(3:46) M.Asiata left tackle to KC 44 for 3 yards (N.Williams, R.Wilson).",10,4,3,KC 47,0,MIN,
+21,3758,0,03:00,Timeout #1 by MIN at 03:00.,0,4,3,,0,,TIMEOUT
+21,3797,4,02:51,"(2:51) (Punt formation) J.Locke punts 44 yards to end zone, Center-K.McDermott, Touchback.",7,4,3,KC 44,0,MIN,PUNT
+21,3716,1,04:32,(4:32) A.Peterson right end to KC 47 for no gain (M.Peters).,10,4,0,KC 47,0,MIN,
+21,3775,3,02:56,(2:56) T.Bridgewater pass incomplete deep right to M.Wallace.,7,4,3,KC 44,0,MIN,
+22,3862,2,02:17,(2:17) (Shotgun) A.Smith pass incomplete short right to J.Avant.,10,4,12,KC 32,0,KC,
+22,3884,3,02:12,(2:12) (Shotgun) A.Smith pass incomplete deep left to A.Wilson.,10,4,12,KC 32,0,KC,
+22,3839,1,02:21,(2:21) (Shotgun) A.Smith pass incomplete short middle to T.Kelce.,10,4,12,KC 32,0,KC,
+22,3906,4,02:04,"(2:04) (Shotgun) A.Smith pass incomplete deep left to A.Wilson. PENALTY on MIN-A.Barr, Taunting, 15 yards, enforced between downs.",10,4,12,KC 32,0,KC,PENALTY
+22,3815,1,02:46,(2:46) (Shotgun) A.Smith pass short middle to K.Davis to KC 32 for 12 yards (E.Kendricks).,10,4,12,KC 20,0,KC,
+23,3940,1,02:00,(2:00) (Run formation) T.Bridgewater kneels to 50 for -3 yards.,10,4,-4,KC 47,0,MIN,
+23,4003,0,00:00,END GAME,0,4,-5,,0,,
+23,3982,3,00:40,(:40) (Run formation) T.Bridgewater kneels to MIN 48 for -1 yards.,14,4,-5,MIN 49,0,MIN,
+23,3961,2,01:17,(1:17) (Run formation) T.Bridgewater kneels to MIN 49 for -1 yards.,13,4,-4,50,0,MIN,
+1,145,2,12:59,(12:59) T.Bridgewater pass incomplete short right to M.Wallace.,7,1,25,MIN 39,0,MIN,
+1,212,2,11:36,(11:36) (Shotgun) T.Bridgewater sacked at KC 15 for -5 yards (A.Bailey).,10,1,71,KC 10,0,MIN,
+1,58,1,14:56,(14:56) A.Peterson right tackle to MIN 19 for 5 yards (M.Peters).,10,1,5,MIN 14,0,MIN,
+1,191,1,12:07,"(12:07) (Shotgun) A.Peterson right tackle to KC 10 for -1 yards (A.Bailey, R.Wilson).",9,1,76,KC 9,0,MIN,
+1,36,0,15:00,C.Santos kicks 69 yards from KC 35 to MIN -4. C.Patterson to MIN 14 for 18 yards (A.Wilson).,0,1,71,KC 35,0,KC,KICKOFF
+1,124,1,13:30,"(13:30) (No Huddle) A.Peterson left guard to MIN 39 for 3 yards (R.Wilson, A.Bailey).",10,1,25,MIN 36,0,MIN,
+1,100,3,13:44,(13:44) (Shotgun) T.Bridgewater pass deep right to S.Diggs ran ob at MIN 36 for 16 yards.,4,1,22,MIN 20,0,MIN,
+1,167,3,12:54,(12:54) (Shotgun) T.Bridgewater pass deep left to J.Wright to KC 9 for 52 yards (H.Abdullah).,7,1,77,MIN 39,0,MIN,
+1,231,3,10:54,(10:54) (Shotgun) T.Bridgewater pass deep right intended for K.Rudolph INTERCEPTED by R.Parker at KC -1. R.Parker pushed ob at KC 4 for 5 yards (K.Rudolph).,15,1,71,KC 15,0,MIN,INT
+1,79,2,14:25,"(14:25) A.Peterson left tackle to MIN 20 for 1 yard (D.Johnson, A.Bailey).",5,1,6,MIN 19,0,MIN,
+3,568,4,05:44,"(5:44) (Field Goal formation) B.Walsh 24 yard field goal is GOOD, Center-K.McDermott, Holder-J.Locke.",6,1,48,KC 6,1,MIN,FG
+3,456,2,08:28,(8:28) A.Peterson right tackle to KC 24 for -1 yards (A.Bailey).,10,1,30,KC 23,0,MIN,
+3,405,2,09:04,(9:04) T.Bridgewater pass short left to S.Diggs ran ob at KC 23 for 31 yards.,10,1,31,MIN 46,0,MIN,
+3,384,1,09:40,(9:40) (Shotgun) A.Peterson left guard to MIN 46 for no gain (M.Devito).,10,1,0,MIN 46,0,MIN,
+3,477,3,07:47,(7:47) (Shotgun) T.Bridgewater pass short right to S.Diggs pushed ob at KC 10 for 14 yards (M.Peters).,11,1,44,KC 24,0,MIN,
+3,522,2,06:30,(6:30) T.Bridgewater pass short left to M.Wallace to KC 6 for 10 yards (S.Smith).,16,1,48,KC 16,0,MIN,
+3,546,3,05:50,(5:50) (Shotgun) T.Bridgewater pass incomplete short right to M.Wallace.,6,1,48,KC 6,0,MIN,
+3,434,1,08:28,(8:28) (Shotgun) T.Bridgewater pass incomplete short right to M.Wallace (J.Houston).,10,1,31,KC 23,0,MIN,
+3,501,1,07:15,(7:15) (Shotgun) A.Peterson up the middle to KC 16 for -6 yards (J.Howard).,10,1,38,KC 10,0,MIN,
+2,263,1,10:45,(10:45) (Shotgun) A.Smith pass incomplete short right to T.Kelce.,10,1,0,KC 4,0,KC,
+2,309,3,09:57,"(9:57) (Shotgun) A.Smith pass incomplete deep left to J.Maclin. Penalty on KC-B.Grubbs, Offensive Holding, declined.",12,1,-2,KC 2,0,KC,
+2,285,2,10:42,(10:42) A.Smith pass short right to J.Maclin to KC 2 for -2 yards (C.Munnerlyn).,10,1,-2,KC 4,0,KC,
+2,342,4,09:51,"(9:51) (Punt formation) D.Colquitt punts 48 yards to 50, Center-J.Winchester. M.Sherels pushed ob at KC 44 for 6 yards (H.Abdullah). PENALTY on MIN-D.Hunter, Illegal Block Above the Waist, 10 yards, enforced at KC 44.",12,1,-2,KC 2,0,KC,PUNT
+5,959,4,14:13,"(14:13) (Punt formation) J.Locke punts 46 yards to KC 7, Center-K.McDermott. D.Thomas to KC 21 for 14 yards (M.Sherels).",5,2,28,MIN 47,0,MIN,PUNT
+5,894,0,,END QUARTER 1,0,1,18,,0,,
+5,873,1,00:07,(:07) (Shotgun) A.Peterson left tackle to MIN 37 for -5 yards (T.Hali).,10,1,18,MIN 42,0,MIN,
+5,849,2,00:38,(:38) (Shotgun) T.Bridgewater pass deep left to S.Diggs pushed ob at MIN 42 for 20 yards (S.Smith).,7,1,23,MIN 22,0,MIN,
+5,825,1,01:07,(1:07) A.Peterson up the middle to MIN 22 for 3 yards (R.Wilson). KC-R.Wilson was injured during the play.,10,1,3,MIN 19,0,MIN,
+5,911,2,15:00,(15:00) (Shotgun) T.Bridgewater pass short right to M.Wallace pushed ob at 50 for 13 yards (M.Peters).,15,2,31,MIN 37,0,MIN,
+5,935,3,14:43,"(14:43) (No Huddle, Shotgun) T.Bridgewater pass short right to A.Peterson to MIN 47 for -3 yards (J.Houston).",2,2,28,50,0,MIN,
+4,786,3,01:53,(1:53) (Shotgun) A.Smith sacked at KC 38 for -4 yards (E.Kendricks).,3,1,18,KC 42,0,KC,
+4,678,1,05:02,(5:02) D.Thomas right end to KC 26 for 1 yard (E.Kendricks).,10,1,6,KC 25,0,KC,
+4,610,1,05:35,"(5:35) (Shotgun) A.Smith pass short right to J.Maclin to KC 33 for 13 yards (T.Newman). PENALTY on KC-M.Morse, Offensive Holding, 10 yards, enforced at KC 20 - No Play.",10,1,-10,KC 20,0,KC,PENALTY
+4,699,2,04:35,(4:35) (Shotgun) C.West up the middle to KC 32 for 6 yards (D.Hunter).,9,1,12,KC 26,0,KC,
+4,588,0,05:40,B.Walsh kicks 64 yards from MIN 35 to KC 1. K.Davis to KC 20 for 19 yards (Z.Line).,0,1,0,MIN 35,0,MIN,KICKOFF
+4,765,2,02:36,"(2:36) K.Davis right end to KC 42 for -1 yards (L.Joseph, B.Robison).",2,1,22,KC 43,0,KC,
+4,645,1,05:06,"(5:06) (Shotgun) A.Smith pass incomplete short left to T.Kelce [S.Floyd]. PENALTY on MIN-S.Floyd, Roughing the Passer, 15 yards, enforced at KC 10 - No Play.",20,1,18,KC 10,0,KC,PENALTY
+4,720,3,03:53,(3:53) (Shotgun) A.Smith pass short left to C.Conley to KC 35 for 3 yards (C.Munnerlyn).,3,1,15,KC 32,0,KC,
+4,744,1,03:14,(3:14) K.Davis left end to KC 43 for 8 yards (A.Sendejo).,10,1,23,KC 35,0,KC,
+4,805,4,01:14,"(1:14) (Punt formation) D.Colquitt punts 43 yards to MIN 19, Center-J.Winchester, fair catch by M.Sherels.",7,1,18,KC 38,0,KC,PUNT
+7,1212,0,09:56,Timeout #1 by MIN at 09:56.,0,2,1,,0,,TIMEOUT
+7,1314,1,08:30,(8:30) T.Bridgewater pass incomplete short left to S.Diggs.,10,2,12,KC 39,0,MIN,
+7,1189,3,10:15,"(10:15) (Shotgun) PENALTY on MIN-T.Clemmings, False Start, 5 yards, enforced at KC 45 - No Play.",4,2,1,KC 45,0,MIN,PENALTY
+7,1357,3,07:45,"(7:45) (Shotgun) T.Bridgewater pass incomplete short left to J.Wright [S.Nelson]. PENALTY on KC-S.Nelson, Roughing the Passer, 15 yards, enforced at KC 35 - No Play. Penalty on KC-H.Abdullah, Illegal Contact, declined.",6,2,31,KC 35,0,MIN,PENALTY
+7,1145,1,10:52,(10:52) T.Bridgewater pass incomplete deep left to K.Rudolph (R.Parker).,10,2,0,MIN 49,0,MIN,
+7,1168,2,10:46,(10:46) A.Peterson up the middle to KC 45 for 6 yards (R.Wilson).,10,2,6,MIN 49,0,MIN,
+7,1229,3,09:56,"(9:56) (Shotgun) T.Bridgewater pass short left to M.Asiata to KC 42 for 8 yards (T.Hali). Minnesota challenged the first down ruling, and the play was Upheld. The ruling on the field stands. (Timeout #2.)",9,2,9,50,0,MIN,TIMEOUT
+7,1490,3,04:46,"(4:46) (Shotgun) T.Bridgewater pass short middle to K.Rudolph for 4 yards, TOUCHDOWN.",4,2,51,KC 4,1,MIN,TD
+7,1446,1,06:09,(6:09) A.Peterson right guard to KC 4 for -1 yards (M.Devito).,3,2,47,KC 3,0,MIN,
+7,1422,2,06:43,"(6:43) (Shotgun) T.Bridgewater pass short left to R.Ellison to KC 3 for 11 yards (E.Berry, S.Smith).",4,2,51,KC 14,0,MIN,
+7,1336,2,08:25,(8:25) A.Peterson up the middle to KC 35 for 4 yards (R.Parker).,10,2,16,KC 39,0,MIN,
+7,1293,4,09:08,(9:08) (Run formation) A.Peterson up the middle to KC 39 for 3 yards (M.Devito).,1,2,12,KC 42,0,MIN,
+7,1467,2,05:29,(5:29) (Run formation) A.Shepherd reported in as eligible.  A.Peterson right guard to KC 4 for no gain (A.Bailey; T.Hali).,4,2,51,KC 4,0,MIN,
+7,1511,0,04:43,"(Kick formation) B.Walsh extra point is GOOD, Center-K.McDermott, Holder-J.Locke.",0,2,51,KC 15,1,MIN,XP
+7,1390,1,07:39,"(7:39) A.Peterson up the middle to KC 15 for 5 yards (A.Bailey). FUMBLES (A.Bailey), recovered by MIN-J.Berger at KC 14. J.Berger to KC 14 for no gain (R.Parker).",10,2,51,KC 20,0,MIN,FUMBLE
+6,1055,1,13:05,(13:05) C.West left tackle to KC 8 for 2 yards (E.Kendricks).,25,2,-13,KC 6,0,KC,
+6,1076,2,12:22,(12:22) (Shotgun) A.Smith pass short left to A.Sherman to KC 21 for 13 yards (X.Rhodes).,23,2,0,KC 8,0,KC,
+6,985,1,14:00,"(14:00) A.Smith pass short left to C.West to KC 28 for 7 yards (E.Kendricks, A.Sendejo). PENALTY on KC-D.Stephenson, Offensive Holding, 10 yards, enforced at KC 21 - No Play.",10,2,-10,KC 21,0,KC,PENALTY
+6,1100,3,11:46,(11:46) (Shotgun) A.Smith sacked at KC 14 for -7 yards (sack split by S.Floyd and D.Hunter).,10,2,-7,KC 21,0,KC,
+6,1119,4,11:03,"(11:03) (Punt formation) D.Colquitt punts 45 yards to MIN 41, Center-J.Winchester. M.Sherels to MIN 49 for 8 yards (D.Alexander).",17,2,-7,KC 14,0,KC,PUNT
+6,1020,1,13:30,"(13:30) (Shotgun) A.Smith pass short left to T.Kelce to KC 16 for 5 yards (E.Kendricks). PENALTY on KC-J.Maclin, Offensive Pass Interference, 5 yards, enforced at KC 11 - No Play.",20,2,-15,KC 11,0,KC,PENALTY
+9,1667,2,02:31,(2:31) (Shotgun) T.Bridgewater pass incomplete short right to M.Wallace (M.Peters).,8,2,2,MIN 18,0,MIN,
+9,1689,3,02:25,(2:25) (Shotgun) T.Bridgewater pass incomplete short right to K.Rudolph.,8,2,2,MIN 18,0,MIN,
+9,1629,1,02:35,(2:35) J.McKinnon up the middle to MIN 18 for 2 yards (T.Hali).,10,2,2,MIN 16,0,MIN,
+9,1650,0,02:31,Timeout #1 by KC at 02:31.,0,2,2,,0,,TIMEOUT
+9,1711,4,02:18,"(2:18) (Punt formation) J.Locke punts 41 yards to KC 41, Center-K.McDermott, downed by MIN-A.Thielen. PENALTY on KC-S.Nelson, Offensive Holding, 10 yards, enforced at KC 41.",8,2,2,MIN 18,0,MIN,PUNT
+8,1609,4,02:43,"(2:43) (Punt formation) D.Colquitt punts 55 yards to MIN 16, Center-J.Winchester, fair catch by M.Sherels.",1,2,9,KC 29,0,KC,PUNT
+8,1588,3,03:20,(3:20) K.Davis left guard to KC 29 for no gain (E.Kendricks).,1,2,9,KC 29,0,KC,
+8,1527,0,04:43,"B.Walsh kicks 65 yards from MIN 35 to end zone, Touchback.",0,2,0,MIN 35,0,MIN,KICKOFF
+8,1564,2,04:07,(4:07) A.Smith pass short left to D.Harris to KC 29 for 6 yards (E.Kendricks).,7,2,9,KC 23,0,KC,
+8,1543,1,04:43,(4:43) K.Davis left tackle to KC 23 for 3 yards (D.Hunter).,10,2,3,KC 20,0,KC,
+11,1977,3,00:46,(:46) M.Asiata up the middle to MIN 10 for 4 yards (R.Wilson).,10,2,4,MIN 6,0,MIN,
+11,1998,0,,END QUARTER 2,0,2,4,,0,,
+11,1960,0,00:46,Timeout #3 by KC at 00:46.,0,2,0,,0,,TIMEOUT
+11,1922,0,00:51,Timeout #2 by KC at 00:51.,0,2,0,,0,,TIMEOUT
+11,1898,1,00:55,"(:55) A.Peterson right guard to MIN 6 for no gain (D.Johnson, M.Devito). KC-M.Devito was injured during the play.",10,2,0,MIN 6,0,MIN,
+11,1939,2,00:51,(:51) (Run formation) A.Peterson left tackle to MIN 6 for no gain (D.Johnson).,10,2,0,MIN 6,0,MIN,
+10,1832,2,01:33,(1:33) (Shotgun) A.Smith pass short right to C.Conley to MIN 46 for 8 yards (T.Waynes).,10,2,23,KC 46,0,KC,
+10,1810,1,01:37,"(1:37) (No Huddle, Shotgun) A.Smith pass incomplete short right to C.West.",10,2,23,KC 46,0,KC,
+10,1784,2,02:00,(2:00) (Shotgun) A.Smith pass short right to J.Maclin to KC 46 for 11 yards (T.Waynes).,6,2,15,KC 35,0,KC,
+10,1856,3,01:07,"(1:07) (No Huddle, Shotgun) A.Smith pass incomplete short right to C.Conley.",2,2,23,MIN 46,0,KC,
+10,1767,0,02:00,Two-Minute Warning,0,2,4,,0,,
+10,1878,4,01:03,"(1:03) (Punt formation) D.Colquitt punts 40 yards to MIN 6, Center-J.Winchester, downed by KC-J.Fleming.",2,2,23,MIN 46,0,KC,PUNT
+10,1743,1,02:05,(2:05) (Shotgun) A.Smith pass short right to J.Avant to KC 35 for 4 yards (T.Waynes).,10,2,4,KC 31,0,KC,
+13,2328,3,09:32,(9:32) (Shotgun) T.Bridgewater pass short middle to K.Rudolph to KC 27 for 5 yards (R.Parker).,7,3,46,KC 32,0,MIN,
+13,2285,1,10:13,"(10:13) A.Peterson right guard to KC 32 for 3 yards (R.Wilson, J.Howard).",10,3,41,KC 35,0,MIN,
+13,2306,2,09:35,(9:35) T.Bridgewater pass incomplete short right to M.Wallace.,7,3,41,KC 32,0,MIN,
+13,2352,4,08:55,"(8:55) (Field Goal formation) B.Walsh 45 yard field goal is GOOD, Center-K.McDermott, Holder-J.Locke.",2,3,46,KC 27,1,MIN,FG
+13,2261,1,10:52,(10:52) (Shotgun) T.Bridgewater pass short left to S.Diggs to KC 35 for 15 yards (T.Hali).,10,3,41,50,0,MIN,
+13,2240,1,11:25,(11:25) A.Peterson right tackle to 50 for 23 yards (D.Johnson).,10,3,23,MIN 27,0,MIN,
+12,2121,2,12:51,(12:51) (Shotgun) A.Smith pass short left to A.Wilson pushed ob at MIN 49 for 9 yards (X.Rhodes).,7,3,31,KC 42,0,KC,
+12,2052,2,14:54,(14:54) (Shotgun) A.Smith pass short right to T.Kelce to KC 26 for 6 yards (A.Sendejo).,10,3,6,KC 20,0,KC,
+12,2221,4,11:25,"(11:25) (Punt formation) D.Colquitt punts 19 yards to MIN 27, Center-J.Winchester, out of bounds.",7,3,34,MIN 46,0,KC,PUNT
+12,2170,2,11:44,(11:44) (Shotgun) A.Smith pass incomplete short right to C.Conley (E.Kendricks).,7,3,34,MIN 46,0,KC,
+12,2030,1,15:00,(15:00) (Shotgun) A.Smith pass incomplete short left to C.Conley.,10,3,0,KC 20,0,KC,
+12,2015,0,15:00,"B.Walsh kicks 65 yards from MIN 35 to end zone, Touchback.",0,3,0,MIN 35,0,MIN,KICKOFF
+12,2199,3,11:37,(11:37) (Shotgun) A.Smith pass incomplete deep right to C.Conley.,7,3,34,MIN 46,0,KC,
+12,2100,1,13:32,"(13:32) C.West left guard to KC 42 for 3 yards (T.Newman, L.Joseph).",10,3,22,KC 39,0,KC,
+12,2076,3,14:11,(14:11) (Shotgun) A.Smith pass short middle to T.Kelce to KC 39 for 13 yards (A.Sendejo).,4,3,19,KC 26,0,KC,
+12,2149,1,12:26,(12:26) (Shotgun) A.Smith scrambles left end to MIN 46 for 3 yards.,10,3,34,MIN 49,0,KC,
+15,2621,1,04:30,(4:30) A.Peterson right guard to MIN 8 for no gain (R.Wilson).,10,3,0,MIN 8,0,MIN,
+15,2771,3,01:55,(1:55) (Shotgun) T.Bridgewater pass incomplete short right to S.Diggs (J.Houston).,16,3,9,MIN 17,0,MIN,
+15,2718,2,02:58,(2:58) A.Peterson right end to MIN 22 for -3 yards (J.Houston).,8,3,14,MIN 25,0,MIN,
+15,2739,3,02:14,"(2:14) (Shotgun) PENALTY on MIN-J.Berger, False Start, 5 yards, enforced at MIN 22 - No Play. snap infraction",11,3,9,MIN 22,0,MIN,PENALTY
+15,2664,3,03:48,"(3:48) (Shotgun) T.Bridgewater pass incomplete short left to S.Diggs [J.Howard]. PENALTY on KC-J.Howard, Roughing the Passer, 15 yards, enforced at MIN 8 - No Play.",10,3,15,MIN 8,0,MIN,PENALTY
+15,2697,1,03:44,(3:44) (Shotgun) A.Peterson up the middle to MIN 25 for 2 yards (N.Williams).,10,3,17,MIN 23,0,MIN,
+15,2793,4,01:50,"(1:50) (Punt formation) J.Locke punts 50 yards to KC 33, Center-K.McDermott. D.Thomas to KC 43 for 10 yards (A.Thielen). Penalty on KC-D.Harris, Defensive Offside, declined.",16,3,9,MIN 17,0,MIN,PUNT
+15,2642,2,03:54,(3:54) (Shotgun) T.Bridgewater pass incomplete short left to J.Wright.,10,3,0,MIN 8,0,MIN,
+14,2465,1,06:51,"(6:51) A.Smith pass deep middle to J.Maclin to MIN 16 for 39 yards (A.Sendejo). Penalty on MIN-X.Rhodes, Defensive Holding, declined.",10,3,64,KC 45,0,KC,
+14,2581,4,04:34,(4:34) C.West up the middle to MIN 7 for no gain (S.Floyd).,1,3,73,MIN 7,0,KC,
+14,2444,2,07:33,(7:33) (Shotgun) K.Davis left end to KC 45 for 3 yards (B.Robison).,2,3,25,KC 42,0,KC,
+14,2558,3,05:03,"(5:03) J.Allen reported in as eligible.  A.Sherman up the middle to MIN 7 for no gain (B.Robison, A.Barr).",1,3,73,MIN 7,0,KC,
+14,2423,1,08:07,(8:07) (Shotgun) C.West up the middle to KC 42 for 8 yards (E.Kendricks).,10,3,22,KC 34,0,KC,
+14,2376,0,08:51,B.Walsh kicks 65 yards from MIN 35 to KC 0. D.Thomas to KC 20 for 20 yards (S.Crichton).,0,3,0,MIN 35,0,MIN,KICKOFF
+14,2399,1,08:45,(8:45) (Shotgun) A.Smith pass short middle to T.Kelce to KC 34 for 14 yards (H.Smith).,10,3,14,KC 20,0,KC,
+14,2537,2,05:46,"(5:46) (Shotgun) C.West up the middle to MIN 7 for 3 yards (L.Joseph, E.Kendricks).",4,3,73,MIN 10,0,KC,
+14,2513,1,06:27,(6:27) (Shotgun) A.Smith pass short left to C.West to MIN 10 for 6 yards (S.Floyd).,10,3,73,MIN 16,0,KC,
+17,3151,1,11:18,"(11:18) (No Huddle, Shotgun) T.Bridgewater pass deep right intended for M.Wallace INTERCEPTED by M.Peters at KC 23. M.Peters to KC 23 for no gain (M.Wallace). Penalty on MIN-M.Kalil, Offensive Holding, declined.",10,4,32,KC 40,0,MIN,INT
+17,3106,1,12:24,(12:24) T.Bridgewater pass short left to Z.Line to MIN 48 for 3 yards (D.Johnson).,10,4,20,MIN 45,0,MIN,
+17,3060,0,13:10,C.Santos kicks 70 yards from KC 35 to MIN -5. C.Patterson to MIN 28 for 33 yards (S.Nelson).,0,4,0,KC 35,0,KC,KICKOFF
+17,3130,2,11:47,(11:47) A.Peterson up the middle to KC 40 for 12 yards (R.Nunez-Roches).,7,4,32,MIN 48,0,MIN,
+17,3082,1,13:04,"(13:04) (Shotgun) T.Bridgewater pass short middle to J.Wright to MIN 45 for 17 yards (E.Berry, D.Johnson).",10,4,17,MIN 28,0,MIN,
+16,2902,0,,END QUARTER 3,0,3,33,,0,,
+16,3018,3,13:20,(13:20) (Shotgun) A.Smith pass incomplete short right to J.Avant (C.Munnerlyn).,16,4,28,MIN 29,0,KC,
+16,2961,2,14:05,(14:05) C.West up the middle to MIN 14 for 9 yards (A.Sendejo).,10,4,43,MIN 23,0,KC,
+16,2939,1,14:14,(14:14) (Shotgun) A.Smith pass incomplete short left to D.Thomas.,10,4,34,MIN 23,0,KC,
+16,2918,2,15:00,"(15:00) (Shotgun) C.West right guard to MIN 23 for 1 yard (T.Johnson, T.Newman).",1,4,34,MIN 24,0,KC,
+16,2982,3,13:24,"(13:24) (Shotgun) A.Smith pass incomplete short right to J.Maclin (C.Munnerlyn). KC-J.Maclin was injured during the play.  PENALTY on KC-C.West, Chop Block, 15 yards, enforced at MIN 14 - No Play.",1,4,28,MIN 14,0,KC,PENALTY
+16,2878,1,00:21,(:21) (Shotgun) A.Smith pass short middle to D.Harris to MIN 24 for 9 yards (E.Kendricks).,10,3,33,MIN 33,0,KC,
+16,2854,2,00:59,(:59) (Shotgun) A.Smith pass short middle to T.Kelce to MIN 33 for 18 yards (A.Sendejo).,4,3,24,KC 49,0,KC,
+16,3040,4,13:15,"(13:15) (Field Goal formation) C.Santos 48 yard field goal is GOOD, Center-J.Winchester, Holder-D.Colquitt.",16,4,28,MIN 29,1,KC,FG
+16,2830,1,01:37,(1:37) (Shotgun) A.Smith pass short right to A.Wilson to KC 49 for 6 yards (T.Newman).,10,3,6,KC 43,0,KC,
+19,4019,0,05:00,Timeout #3 by KC at 05:00.,0,4,53,,0,,TIMEOUT
+19,3385,1,08:46,(8:46) A.Peterson right end to MIN 22 for 2 yards (R.Wilson).,10,4,2,MIN 20,0,MIN,
+19,3449,1,06:45,(6:45) (Shotgun) T.Bridgewater pass short right to S.Diggs to MIN 48 for 3 yards (M.Peters).,10,4,28,MIN 45,0,MIN,
+19,3473,2,06:01,"(6:01) A.Peterson left guard to KC 47 for 5 yards (A.Bailey, D.Johnson).",7,4,33,MIN 48,0,MIN,
+19,3613,4,04:51,"(4:51) (Field Goal formation) B.Walsh 45 yard field goal is GOOD, Center-K.McDermott, Holder-J.Locke.",1,4,53,KC 27,1,MIN,FG
+19,3494,3,05:20,(5:20) (Shotgun) M.Asiata up the middle to KC 36 for 11 yards (M.Peters).,2,4,44,KC 47,0,MIN,
+19,3570,2,05:00,"(5:00) M.Asiata left guard to KC 27 for 3 yards (D.Johnson, N.Williams).",4,4,53,KC 30,0,MIN,
+19,3425,3,07:31,(7:31) (Shotgun) T.Bridgewater pass deep middle to S.Diggs to MIN 45 for 30 yards (E.Berry).,15,4,25,MIN 15,0,MIN,
+19,3370,0,08:46,"C.Santos kicks 65 yards from KC 35 to end zone, Touchback.",0,4,0,KC 35,0,KC,KICKOFF
+19,3532,1,05:08,"(5:08) M.Asiata right end to KC 30 for 6 yards (R.Parker, D.Johnson).",10,4,50,KC 36,0,MIN,
+19,3515,0,05:08,Timeout #1 by KC at 05:08.,0,4,44,,0,,TIMEOUT
+19,3406,2,08:13,(8:13) T.Bridgewater sacked at MIN 15 for -7 yards (J.Houston).,8,4,-5,MIN 22,0,MIN,
+19,3553,0,05:00,Timeout #2 by KC at 05:00.,0,4,50,,0,,TIMEOUT
+19,3591,3,04:55,(4:55) T.Bridgewater pass incomplete short right to R.Ellison.,1,4,53,KC 27,0,MIN,
+18,3258,2,09:37,"(9:37) (No Huddle, Shotgun) A.Smith pass short right to C.Conley to MIN 42 for 5 yards (T.Newman).",3,4,35,MIN 47,0,KC,
+18,3237,1,10:06,(10:06) (Shotgun) A.Smith scrambles up the middle to MIN 47 for 7 yards.,10,4,30,KC 46,0,KC,
+18,3213,1,10:45,"(10:45) (No Huddle, Shotgun) A.Smith pass short middle to J.O'Shaughnessy to KC 46 for 13 yards (A.Sendejo).",10,4,23,KC 33,0,KC,
+18,3282,1,09:05,"(9:05) (No Huddle, Shotgun) A.Smith pass incomplete short left to J.O'Shaughnessy (A.Sendejo).",10,4,35,MIN 42,0,KC,
+18,3333,3,08:55,"(8:55) (Shotgun) A.Smith pass short left to A.Wilson for 42 yards, TOUCHDOWN.",10,4,77,MIN 42,1,KC,TD
+18,3354,0,08:46,"(Kick formation) C.Santos extra point is GOOD, Center-J.Winchester, Holder-D.Colquitt.",0,4,77,MIN 15,1,KC,XP
+18,3311,2,09:00,(9:00) (Shotgun) A.Smith pass incomplete deep right to A.Wilson.,10,4,35,MIN 42,0,KC,
+18,3189,1,11:12,(11:12) (Shotgun) A.Smith pass short right to J.O'Shaughnessy to KC 33 for 10 yards (E.Kendricks).,10,4,10,KC 23,0,KC,

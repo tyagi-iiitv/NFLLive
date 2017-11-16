@@ -1,182 +1,182 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1623,2,03:31,,10,2,37,50,0,CAR,
-9,1719,1,02:00,,10,2,87,KC 38,1,CAR,TD
-9,1532,1,05:28,,10,2,14,CAR 13,0,CAR,
-9,1655,3,03:31,,10,2,42,50,0,CAR,PENALTY
-9,1702,0,02:00,,0,2,49,,0,,
-9,1678,3,02:30,,5,2,49,KC 45,0,CAR,
-9,1556,1,04:54,,10,2,19,CAR 27,0,CAR,
-9,1577,2,04:17,,5,2,37,CAR 32,0,CAR,
-9,1601,1,03:34,,10,2,37,50,0,CAR,
-9,1739,0,01:52,,0,2,87,KC 15,1,CAR,XP
-10,1885,2,01:21,,5,2,27,CAR 48,0,KC,
-10,2073,0,00:27,,0,2,41,,0,,TIMEOUT
-10,1907,3,01:13,,5,2,31,CAR 48,0,KC,
-10,1974,1,00:44,,10,2,45,CAR 35,0,KC,
-10,1821,1,01:30,,15,2,50,KC 32,0,KC,PENALTY
-10,1755,0,01:52,,0,2,0,CAR 35,0,CAR,KICKOFF
-10,2119,3,00:21,,9,2,46,CAR 24,0,KC,
-10,1798,1,01:52,,10,2,7,KC 37,0,KC,PENALTY
-10,1948,4,00:50,,1,2,40,CAR 44,0,KC,
-10,2090,2,00:27,,19,2,51,CAR 34,0,KC,
-10,2155,4,00:15,,14,2,46,CAR 29,1,KC,FG
-10,1770,1,01:52,,10,2,46,KC 25,0,KC,
-10,2002,2,00:39,,5,2,50,CAR 30,0,KC,
-10,1856,1,01:26,,10,2,27,KC 47,0,KC,
-10,2031,1,00:33,,10,2,45,CAR 25,0,KC,PENALTY
-10,2138,0,00:15,,0,2,46,,0,,TIMEOUT
-10,1931,0,00:50,,0,2,31,,0,,TIMEOUT
-10,2054,1,00:33,,15,2,41,CAR 30,0,KC,
-20,4065,1,00:29,,10,4,14,CAR 20,0,CAR,FUMBLE
-6,874,3,00:16,,6,1,9,KC 31,0,KC,
-6,927,4,15:00,,1,2,9,KC 36,0,KC,PUNT
-6,853,2,00:58,,9,1,4,KC 28,0,KC,
-6,907,0,,,0,1,9,,0,,
-6,832,1,01:31,,10,1,9,KC 27,0,KC,
-18,3729,2,03:47,,1,4,16,CAR 34,0,CAR,
-18,3705,1,04:25,,10,4,9,CAR 25,0,CAR,
-18,3774,2,02:36,,3,4,21,CAR 48,0,CAR,
-18,3795,0,02:00,,0,4,21,,0,,
-18,3750,1,03:14,,10,4,23,CAR 41,0,CAR,
-18,3834,4,01:56,,5,4,21,CAR 46,0,CAR,PUNT
-18,3690,0,04:25,,0,4,0,KC 35,0,KC,KICKOFF
-18,3812,3,02:00,,5,4,21,CAR 46,0,CAR,
-1,102,3,13:32,,1,1,37,CAR 31,0,CAR,
-1,204,2,11:44,,10,1,54,KC 27,0,CAR,
-1,225,3,11:02,,7,1,54,KC 24,0,CAR,
-1,128,1,12:58,,10,1,37,KC 41,0,CAR,
-1,154,2,12:54,,10,1,51,KC 41,0,CAR,
-1,57,1,14:52,,10,1,1,CAR 22,0,CAR,
-1,35,0,15:00,,0,1,0,KC 35,0,KC,KICKOFF
-1,78,2,14:13,,9,1,9,CAR 23,0,CAR,
-1,183,1,12:24,,10,1,51,KC 27,0,CAR,
-1,247,4,10:52,,7,1,54,KC 24,1,CAR,FG
-5,654,1,04:00,,10,1,0,CAR 26,0,CAR,
-5,799,4,01:43,,11,1,4,CAR 30,0,CAR,FUMBLE
-5,753,2,02:35,,10,1,4,CAR 31,0,CAR,
-5,697,3,03:15,,10,1,5,CAR 26,0,CAR,PENALTY
-5,777,3,01:50,,11,1,4,CAR 30,0,CAR,
-5,727,1,02:42,,10,1,5,CAR 31,0,CAR,
-5,676,2,03:54,,10,1,0,CAR 26,0,CAR,
-13,2644,1,07:15,,10,3,26,CAR 31,0,CAR,
-13,2777,4,04:21,,1,3,43,KC 49,0,CAR,
-13,2828,2,03:50,,10,3,46,KC 48,0,CAR,
-13,2889,1,02:57,,10,3,71,KC 31,0,CAR,
-13,2802,1,03:56,,10,3,43,KC 48,0,CAR,
-13,2958,3,01:07,,18,3,51,KC 28,0,CAR,
-13,2913,1,02:23,,10,3,70,KC 20,0,CAR,
-13,2584,2,08:05,,5,3,16,CAR 25,0,CAR,
-13,2461,1,10:29,,10,3,70,CAR 9,0,CAR,
-13,2686,3,06:03,,3,3,33,CAR 38,0,CAR,
-13,2627,0,07:15,,0,3,22,,0,,TIMEOUT
-13,2560,1,08:37,,15,3,16,CAR 15,0,CAR,
-13,2860,3,03:20,,7,3,60,KC 45,0,CAR,
-13,2528,1,09:00,,10,3,6,CAR 20,0,CAR,PENALTY
-13,2606,3,08:01,,5,3,22,CAR 25,0,CAR,
-13,2710,1,05:18,,10,3,33,CAR 42,0,CAR,
-13,2756,3,04:35,,2,3,42,50,0,CAR,
-13,2483,2,10:25,,10,3,4,CAR 9,0,CAR,
-13,2732,2,05:14,,10,3,41,CAR 42,0,CAR,
-13,2665,2,06:45,,6,3,29,CAR 35,0,CAR,
-13,2504,3,09:46,,6,3,11,CAR 13,0,CAR,
-13,2977,4,00:30,,30,3,51,KC 40,0,CAR,PUNT
-13,2939,2,01:49,,11,3,63,KC 21,0,CAR,
-21,4156,1,00:13,,10,4,11,CAR 18,0,KC,
-21,4194,2,00:00,,10,4,11,CAR 18,1,KC,FG
-21,4177,0,00:03,,0,4,11,,0,,TIMEOUT
-21,4100,1,00:20,,10,4,11,CAR 29,0,KC,
-21,4139,0,00:13,,0,4,11,,0,,TIMEOUT
-11,2174,0,00:10,,0,2,0,KC 35,0,KC,KICKOFF
-11,2193,1,00:10,,10,2,-1,CAR 25,0,CAR,
-11,2214,0,,,0,2,-1,,0,,
-14,3077,2,14:31,,9,4,38,KC 48,0,KC,
-14,3056,1,15:00,,10,4,28,KC 47,0,KC,
-14,3040,0,,,0,3,27,,0,,
-14,3150,1,13:03,,10,4,62,CAR 28,0,KC,
-14,3126,2,13:41,,10,4,52,CAR 42,0,KC,
-14,3174,1,12:20,,10,4,62,CAR 18,0,KC,
-14,3240,4,12:07,,10,4,62,CAR 18,1,KC,FG
-14,3105,1,14:07,,10,4,38,CAR 42,0,KC,
-14,2994,1,00:21,,10,3,27,KC 20,0,KC,
-14,3016,2,00:16,,10,3,27,KC 20,0,KC,
-14,3196,2,12:16,,10,4,62,CAR 18,0,KC,
-14,3218,3,12:11,,10,4,62,CAR 18,0,KC,
-8,1513,4,05:35,,10,2,23,KC 48,0,KC,PUNT
-8,1444,2,06:17,,10,2,18,KC 48,0,KC,PENALTY
-8,1467,2,06:17,,15,2,23,KC 43,0,KC,
-8,1401,3,07:03,,3,2,23,KC 44,0,KC,
-8,1292,1,09:05,,10,2,12,KC 25,0,KC,
-8,1277,0,09:05,,0,2,0,CAR 35,0,CAR,KICKOFF
-8,1323,1,08:32,,10,2,17,KC 37,0,KC,PENALTY
-8,1491,3,05:46,,10,2,23,KC 48,0,KC,
-8,1422,1,06:22,,10,2,23,KC 48,0,KC,
-8,1356,1,08:27,,5,2,16,KC 42,0,KC,
-8,1380,2,07:48,,6,2,23,KC 41,0,KC,
-19,3919,1,01:16,,15,4,1,KC 26,0,KC,FUMBLE
-19,3851,1,01:47,,10,4,11,KC 20,0,KC,
-19,3879,1,01:23,,10,4,6,KC 31,0,KC,PENALTY
-19,4024,4,00:43,,15,4,6,KC 26,0,KC,PUNT
-19,3966,0,00:48,,0,4,6,,0,,TIMEOUT
-19,3983,3,00:48,,20,4,6,KC 21,0,KC,
-19,3947,2,00:51,,16,4,1,KC 25,0,KC,
-19,4007,0,00:43,,0,4,6,,0,,TIMEOUT
-12,2324,2,13:37,,10,3,21,KC 29,0,KC,
-12,2230,0,15:00,,0,3,0,CAR 35,0,CAR,KICKOFF
-12,2353,3,12:59,,1,3,23,KC 38,0,KC,
-12,2281,2,14:23,,4,3,12,KC 23,0,KC,
-12,2257,1,14:56,,10,3,6,KC 17,0,KC,
-12,2302,1,13:40,,10,3,12,KC 29,0,KC,
-12,2375,1,12:15,,10,3,23,KC 40,0,KC,
-12,2442,4,10:37,,6,3,27,KC 44,0,KC,PUNT
-12,2420,3,10:44,,6,3,27,KC 44,0,KC,
-12,2399,2,11:29,,10,3,27,KC 40,0,KC,
-16,3486,3,07:56,,4,4,18,CAR 27,0,CAR,
-16,3441,1,09:12,,10,4,13,CAR 21,0,CAR,
-16,3462,2,08:34,,9,4,18,CAR 22,0,CAR,
-16,3508,4,07:49,,4,4,18,CAR 27,0,CAR,PUNT
-16,3359,0,10:32,,0,4,0,KC 35,0,KC,KICKOFF
-16,3417,2,09:50,,10,4,12,CAR 9,0,CAR,
-16,3392,1,10:26,,10,4,0,CAR 9,0,CAR,
-7,1261,0,09:05,,0,2,80,KC 15,1,CAR,XP
-7,1019,1,13:29,,10,2,24,CAR 34,0,CAR,
-7,944,1,14:49,,10,2,9,CAR 20,0,CAR,
-7,1196,2,10:25,,20,2,65,KC 41,0,CAR,
-7,1127,1,11:03,,10,2,39,KC 31,0,CAR,
-7,1061,2,12:37,,4,2,35,50,0,CAR,
-7,1103,2,11:36,,10,2,49,KC 45,0,CAR,
-7,1082,1,12:15,,10,2,35,KC 45,0,CAR,
-7,965,2,14:15,,1,2,9,CAR 29,0,CAR,
-7,1244,1,09:12,,4,2,80,KC 4,1,CAR,TD
-7,1149,2,10:58,,10,2,80,KC 31,0,CAR,PENALTY
-7,986,3,13:35,,1,2,14,CAR 29,0,CAR,PENALTY
-7,1040,1,12:59,,10,2,30,CAR 44,0,CAR,
-7,1220,1,09:47,,10,2,76,KC 15,0,CAR,
-7,1179,0,10:25,,0,2,39,,0,,TIMEOUT
-3,520,3,06:36,,9,1,9,CAR 30,0,CAR,
-3,544,4,05:51,,1,1,9,CAR 38,0,CAR,PUNT
-3,498,2,06:41,,9,1,1,CAR 30,0,CAR,
-3,477,1,07:17,,10,1,1,CAR 29,0,CAR,
-17,3604,1,05:44,,10,4,32,CAR 22,0,KC,
-17,3559,2,07:08,,7,4,11,CAR 46,0,KC,
-17,3533,1,07:34,,10,4,3,CAR 49,0,KC,
-17,3649,3,04:35,,2,4,35,CAR 14,0,KC,
-17,3628,2,05:18,,5,4,35,CAR 17,0,KC,
-17,3580,1,06:29,,10,4,27,CAR 38,0,KC,
-17,3671,4,04:28,,2,4,35,CAR 14,1,KC,FG
-4,636,4,04:09,,3,1,7,KC 32,0,KC,PUNT
-4,614,3,04:15,,3,1,7,KC 32,0,KC,
-4,593,2,04:59,,5,1,7,KC 30,0,KC,
-4,569,1,05:38,,10,1,5,KC 25,0,KC,
-2,441,3,07:32,,9,1,25,50,0,KC,INT
-2,333,1,09:46,,10,1,12,KC 36,0,KC,
-2,420,2,08:10,,15,1,25,KC 44,0,KC,
-2,354,2,09:13,,9,1,24,KC 37,0,KC,
-2,266,0,10:49,,0,1,0,CAR 35,0,CAR,KICKOFF
-2,375,1,09:13,,10,1,19,KC 49,0,KC,PENALTY
-2,309,2,10:13,,9,1,11,KC 26,0,KC,
-2,285,1,10:49,,10,1,25,KC 25,0,KC,
-2,398,1,08:14,,15,1,19,KC 44,0,KC,
-15,3316,3,10:51,,6,4,4,CAR 29,1,CAR,TD
-15,3274,1,12:02,,10,4,1,CAR 25,0,CAR,
-15,3295,2,11:27,,9,4,4,CAR 26,0,CAR,
-15,3259,0,12:02,,0,4,0,KC 35,0,KC,KICKOFF
+20,4065,1,00:29,"(:29) (Shotgun) C.Newton pass short right to K.Benjamin to CAR 34 for 14 yards (M.Peters). FUMBLES (M.Peters), RECOVERED by KC-M.Peters at CAR 34. M.Peters to CAR 24 for 10 yards (F.Whittaker). PENALTY on KC, Delay of Game, 5 yards, enforced at CAR 24. The Replay Official reviewed the fumble ruling, and the play was Upheld. The ruling on the field stands.",10,4,14,CAR 20,0,CAR,FUMBLE
+21,4100,1,00:20,(:20) S.Ware left guard to CAR 18 for 11 yards (D.Worley).,10,4,11,CAR 29,0,KC,
+21,4194,2,00:00,"(:00) C.Santos 37 yard field goal is GOOD, Center-J.Winchester, Holder-D.Colquitt.",10,4,11,CAR 18,1,KC,FG
+21,4177,0,00:03,Timeout #2 by KC at 00:03.,0,4,11,,0,,TIMEOUT
+21,4156,1,00:13,(:13) A.Smith right guard to CAR 18 for no gain (S.Lotulelei).,10,4,11,CAR 18,0,KC,
+21,4139,0,00:13,Timeout #1 by KC at 00:13.,0,4,11,,0,,TIMEOUT
+1,154,2,12:54,"(12:54) (No Huddle, Shotgun) C.Newton pass short right to T.Ginn pushed ob at KC 27 for 14 yards (M.Peters).",10,1,51,KC 41,0,CAR,
+1,183,1,12:24,"(12:24) (No Huddle, Shotgun) J.Stewart right guard to KC 27 for no gain (F.Zombo; D.Poe).",10,1,51,KC 27,0,CAR,
+1,57,1,14:52,(14:52) J.Stewart right guard to CAR 23 for 1 yard (E.Berry; R.Wilson).,10,1,1,CAR 22,0,CAR,
+1,35,0,15:00,C.Santos kicks 66 yards from KC 35 to CAR -1. F.Whittaker to CAR 22 for 23 yards (D.Alexander; J.O'Shaughnessy).,0,1,0,KC 35,0,KC,KICKOFF
+1,128,1,12:58,(12:58) (Shotgun) C.Newton pass incomplete short right to T.Ginn (D.Poe).,10,1,37,KC 41,0,CAR,
+1,247,4,10:52,"(10:52) G.Gano 42 yard field goal is GOOD, Center-J.Jansen, Holder-A.Lee.",7,1,54,KC 24,1,CAR,FG
+1,102,3,13:32,(13:32) C.Newton left end pushed ob at KC 41 for 28 yards (R.Parker). Chris Scott reported as eligible,1,1,37,CAR 31,0,CAR,
+1,204,2,11:44,"(11:44) (No Huddle, Shotgun) C.Newton right guard to KC 24 for 3 yards (M.Peters).",10,1,54,KC 27,0,CAR,
+1,225,3,11:02,"(11:02) (No Huddle, Shotgun) C.Newton pass incomplete short right to F.Whittaker [D.Ford].",7,1,54,KC 24,0,CAR,
+1,78,2,14:13,"(14:13) (No Huddle, Shotgun) C.Newton pass short middle to G.Olsen to CAR 31 for 8 yards (E.Berry).",9,1,9,CAR 23,0,CAR,
+3,520,3,06:36,(6:36) (Shotgun) C.Newton pass short left to G.Olsen to CAR 38 for 8 yards (E.Berry).,9,1,9,CAR 30,0,CAR,
+3,498,2,06:41,"(6:41) (No Huddle, Shotgun) C.Newton pass incomplete deep left to K.Benjamin.",9,1,1,CAR 30,0,CAR,
+3,477,1,07:17,(7:17) (Shotgun) T.Ginn left tackle to CAR 30 for 1 yard (E.Berry).,10,1,1,CAR 29,0,CAR,
+3,544,4,05:51,"(5:51) A.Lee punts 43 yards to KC 19, Center-J.Jansen. T.Hill to KC 25 for 6 yards (R.McClain; D.Mayo).",1,1,9,CAR 38,0,CAR,PUNT
+2,309,2,10:13,(10:13) A.Smith pass short right to T.Hill to KC 36 for 10 yards (J.Bradberry).,9,1,11,KC 26,0,KC,
+2,285,1,10:49,(10:49) (Shotgun) A.Smith pass short left to S.Ware to KC 26 for 1 yard (L.Kuechly).,10,1,25,KC 25,0,KC,
+2,441,3,07:32,(7:32) (Shotgun) A.Smith pass deep middle intended for T.Hill INTERCEPTED by T.Boston at CAR 7. T.Boston to CAR 29 for 22 yards (M.Morse; T.Hill).,9,1,25,50,0,KC,INT
+2,333,1,09:46,(9:46) S.Ware right tackle to KC 37 for 1 yard (T.Davis; L.Kuechly).,10,1,12,KC 36,0,KC,
+2,354,2,09:13,(9:13) S.Ware left tackle to KC 49 for 12 yards (K.Coleman; D.Worley).,9,1,24,KC 37,0,KC,
+2,266,0,10:49,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback.",0,1,0,CAR 35,0,CAR,KICKOFF
+2,420,2,08:10,(8:10) (Shotgun) A.Smith scrambles left end to 50 for 6 yards (C.Johnson).,15,1,25,KC 44,0,KC,
+2,398,1,08:14,(8:14) (Shotgun) A.Smith pass incomplete short right to D.Harris.,15,1,19,KC 44,0,KC,
+2,375,1,09:13,"(9:13) PENALTY on KC-M.Schwartz, False Start, 5 yards, enforced at KC 49 - No Play.",10,1,19,KC 49,0,KC,PENALTY
+5,753,2,02:35,(2:35) C.Newton pass short left to T.Ginn to CAR 30 for -1 yards (S.Nelson).,10,1,4,CAR 31,0,CAR,
+5,777,3,01:50,(1:50) (Shotgun) C.Newton pass incomplete short right to D.Funchess (M.Peters).,11,1,4,CAR 30,0,CAR,
+5,697,3,03:15,"(3:15) (Shotgun) C.Newton sacked at CAR 15 for -11 yards (D.Ford). PENALTY on KC-P.Gaines, Defensive Holding, 5 yards, enforced at CAR 26 - No Play.",10,1,5,CAR 26,0,CAR,PENALTY
+5,676,2,03:54,"(3:54) (No Huddle, Shotgun) J.Stewart up the middle to CAR 26 for no gain (E.Berry).",10,1,0,CAR 26,0,CAR,
+5,799,4,01:43,"(1:43) G.Gano punts 42 yards to KC 28, Center-J.Jansen. T.Hill MUFFS catch, and recovers at KC 27. T.Hill to KC 27 for no gain (J.Cash).",11,1,4,CAR 30,0,CAR,FUMBLE
+5,727,1,02:42,(2:42) C.Newton pass incomplete deep right to T.Ginn (M.Peters).,10,1,5,CAR 31,0,CAR,
+5,654,1,04:00,(4:00) C.Newton pass incomplete short middle to G.Olsen (E.Berry).,10,1,0,CAR 26,0,CAR,
+4,569,1,05:38,(5:38) (Shotgun) A.Smith pass short left to T.Kelce to KC 30 for 5 yards (R.McClain).,10,1,5,KC 25,0,KC,
+4,593,2,04:59,(4:59) (Shotgun) C.West up the middle to KC 32 for 2 yards (K.Coleman; W.Horton).,5,1,7,KC 30,0,KC,
+4,636,4,04:09,"(4:09) D.Colquitt punts 42 yards to CAR 26, Center-J.Winchester, out of bounds.",3,1,7,KC 32,0,KC,PUNT
+4,614,3,04:15,(4:15) (Shotgun) A.Smith pass incomplete deep left to A.Wilson.,3,1,7,KC 32,0,KC,
+7,965,2,14:15,"(14:15) (No Huddle, Shotgun) M.Tolbert right guard to CAR 29 for no gain (C.Jones).",1,2,9,CAR 29,0,CAR,
+7,1040,1,12:59,"(12:59) (No Huddle, Shotgun) J.Stewart up the middle to 50 for 6 yards (D.Poe; K.Reyes).",10,2,30,CAR 44,0,CAR,
+7,1082,1,12:15,"(12:15) (No Huddle, Shotgun) C.Newton up the middle to KC 45 for no gain (D.Johnson; F.Zombo).",10,2,35,KC 45,0,CAR,
+7,1220,1,09:47,(9:47) (Shotgun) C.Newton pass short left to K.Benjamin to KC 4 for 11 yards (K.Acker).,10,2,76,KC 15,0,CAR,
+7,1061,2,12:37,"(12:37) (No Huddle, Shotgun) J.Stewart left guard to KC 45 for 5 yards (D.Johnson).",4,2,35,50,0,CAR,
+7,944,1,14:49,(14:49) (Shotgun) C.Newton right tackle to CAR 29 for 9 yards (P.Gaines).,10,2,9,CAR 20,0,CAR,
+7,1149,2,10:58,"(10:58) (Shotgun) C.Newton pass short left to T.Ginn to KC 24 for 7 yards (P.Gaines). PENALTY on CAR-A.Norwell, Offensive Holding, 10 yards, enforced at KC 31 - No Play.",10,2,80,KC 31,0,CAR,PENALTY
+7,986,3,13:35,"(13:35) (Shotgun) C.Newton pass incomplete short right to K.Benjamin. PENALTY on KC-M.Peters, Defensive Holding, 5 yards, enforced at CAR 29 - No Play.",1,2,14,CAR 29,0,CAR,PENALTY
+7,1179,0,10:25,Timeout #1 by CAR at 10:25.,0,2,39,,0,,TIMEOUT
+7,1127,1,11:03,"(11:03) (No Huddle, Shotgun) C.Newton pass incomplete short right to T.Ginn (M.Peters, D.Ford).",10,2,39,KC 31,0,CAR,
+7,1019,1,13:29,(13:29) (Shotgun) J.Stewart left guard to CAR 44 for 10 yards (F.Zombo).,10,2,24,CAR 34,0,CAR,
+7,1196,2,10:25,(10:25) (Shotgun) C.Newton pass short right to E.Dickson to KC 15 for 26 yards (R.Parker).,20,2,65,KC 41,0,CAR,
+7,1261,0,09:05,"G.Gano extra point is GOOD, Center-J.Jansen, Holder-A.Lee.",0,2,80,KC 15,1,CAR,XP
+7,1244,1,09:12,"(9:12) (Shotgun) C.Newton up the middle for 4 yards, TOUCHDOWN.",4,2,80,KC 4,1,CAR,TD
+7,1103,2,11:36,(11:36) (Shotgun) C.Newton pass short left to K.Benjamin to KC 31 for 14 yards (P.Gaines).,10,2,49,KC 45,0,CAR,
+6,832,1,01:31,(1:31) S.Ware right end to KC 28 for 1 yard (J.Bradberry).,10,1,9,KC 27,0,KC,
+6,874,3,00:16,(:16) (Shotgun) A.Smith pass short right to S.Ware pushed ob at KC 36 for 5 yards (L.Kuechly) [K.Short].,6,1,9,KC 31,0,KC,
+6,927,4,15:00,"(15:00) D.Colquitt punts 64 yards to end zone, Center-J.Winchester, Touchback.",1,2,9,KC 36,0,KC,PUNT
+6,907,0,,END QUARTER 1,0,1,9,,0,,
+6,853,2,00:58,(:58) (Shotgun) S.Ware left tackle to KC 31 for 3 yards (L.Kuechly).,9,1,4,KC 28,0,KC,
+9,1623,2,03:31,"(3:31) (No Huddle, Shotgun) J.Stewart left end to 50 for no gain (R.Parker).",10,2,37,50,0,CAR,
+9,1739,0,01:52,"G.Gano extra point is GOOD, Center-J.Jansen, Holder-A.Lee.",0,2,87,KC 15,1,CAR,XP
+9,1702,0,02:00,Two-Minute Warning,0,2,49,,0,,
+9,1556,1,04:54,"(4:54) (No Huddle, Shotgun) J.Stewart left tackle to CAR 32 for 5 yards (F.Zombo; R.Wilson).",10,2,19,CAR 27,0,CAR,
+9,1601,1,03:34,(3:34) (Shotgun) C.Newton pass incomplete short left to G.Olsen.,10,2,37,50,0,CAR,
+9,1719,1,02:00,"(2:00) (Shotgun) C.Newton pass deep left to D.Funchess for 38 yards, TOUCHDOWN.",10,2,87,KC 38,1,CAR,TD
+9,1678,3,02:30,(2:30) (Shotgun) C.Newton pass short left to K.Benjamin to KC 38 for 7 yards (K.Acker).,5,2,49,KC 45,0,CAR,
+9,1532,1,05:28,(5:28) (Shotgun) C.Newton pass short right to G.Olsen to CAR 27 for 14 yards (E.Berry).,10,2,14,CAR 13,0,CAR,
+9,1577,2,04:17,"(4:17) (No Huddle, Shotgun) C.Newton pass short left to K.Benjamin to 50 for 18 yards (S.Nelson).",5,2,37,CAR 32,0,CAR,
+9,1655,3,03:31,"(3:31) (Shotgun) PENALTY on KC-D.Ford, Neutral Zone Infraction, 5 yards, enforced at 50 - No Play.",10,2,42,50,0,CAR,PENALTY
+8,1323,1,08:32,"(8:32) A.Smith pass incomplete deep right to J.O'Shaughnessy. PENALTY on CAR-P.Soliai, Defensive Offside, 5 yards, enforced at KC 37 - No Play.",10,2,17,KC 37,0,KC,PENALTY
+8,1422,1,06:22,(6:22) (Shotgun) A.Smith pass incomplete deep right to T.Kelce.,10,2,23,KC 48,0,KC,
+8,1356,1,08:27,(8:27) (Shotgun) A.Smith pass short right to T.Hill to KC 41 for -1 yards (R.McClain).,5,2,16,KC 42,0,KC,
+8,1277,0,09:05,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback.",0,2,0,CAR 35,0,CAR,KICKOFF
+8,1491,3,05:46,(5:46) (Shotgun) A.Smith pass incomplete deep right to A.Wilson (L.Kuechly).,10,2,23,KC 48,0,KC,
+8,1444,2,06:17,"(6:17) (Shotgun) PENALTY on KC-E.Fisher, False Start, 5 yards, enforced at KC 48 - No Play.",10,2,18,KC 48,0,KC,PENALTY
+8,1292,1,09:05,(9:05) T.Hill right end pushed ob at KC 37 for 12 yards (T.Davis).,10,2,12,KC 25,0,KC,
+8,1401,3,07:03,(7:03) (Shotgun) S.Ware right end to KC 48 for 4 yards (J.Bradberry).,3,2,23,KC 44,0,KC,
+8,1380,2,07:48,(7:48) S.Ware right guard to KC 44 for 3 yards (P.Soliai; C.Johnson).,6,2,23,KC 41,0,KC,
+8,1467,2,06:17,(6:17) (Shotgun) A.Smith pass short left to R.Travis pushed ob at KC 48 for 5 yards (T.Davis).,15,2,23,KC 43,0,KC,
+8,1513,4,05:35,"(5:35) D.Colquitt punts 39 yards to CAR 13, Center-J.Winchester, fair catch by T.Ginn.",10,2,23,KC 48,0,KC,PUNT
+11,2193,1,00:10,(:10) C.Newton kneels to CAR 24 for -1 yards.,10,2,-1,CAR 25,0,CAR,
+11,2174,0,00:10,"C.Santos kicks 65 yards from KC 35 to end zone, Touchback.",0,2,0,KC 35,0,KC,KICKOFF
+11,2214,0,,END QUARTER 2,0,2,-1,,0,,
+10,1948,4,00:50,(:50) S.Ware left end pushed ob at CAR 35 for 9 yards (J.Bradberry). Jah Reid reported as eligible,1,2,40,CAR 44,0,KC,
+10,1798,1,01:52,"(1:52) (No Huddle, Shotgun) PENALTY on KC-M.Schwartz, False Start, 5 yards, enforced at KC 37 - No Play.",10,2,7,KC 37,0,KC,PENALTY
+10,1770,1,01:52,(1:52) (Shotgun) A.Smith pass short right to C.Conley to KC 37 for 12 yards (C.Johnson; J.Bradberry).,10,2,46,KC 25,0,KC,
+10,2138,0,00:15,Timeout #3 by KC at 00:15.,0,2,46,,0,,TIMEOUT
+10,1974,1,00:44,(:44) (Shotgun) A.Smith pass short left to C.West pushed ob at CAR 30 for 5 yards (T.Davis).,10,2,45,CAR 35,0,KC,
+10,1821,1,01:30,"(1:30) (Shotgun) A.Smith pass short right to C.West pushed ob at KC 32 for no gain (T.Davis). PENALTY on CAR-T.Davis, Unnecessary Roughness, 15 yards, enforced at KC 32.",15,2,50,KC 32,0,KC,PENALTY
+10,1856,1,01:26,(1:26) (Shotgun) A.Smith pass short left to A.Wilson pushed ob at CAR 48 for 5 yards (D.Worley).,10,2,27,KC 47,0,KC,
+10,2002,2,00:39,(:39) (Shotgun) A.Smith pass short left to T.Hill pushed ob at CAR 25 for 5 yards (D.Worley).,5,2,50,CAR 30,0,KC,
+10,2119,3,00:21,(:21) (Shotgun) A.Smith sacked at CAR 29 for -5 yards (M.Addison).,9,2,46,CAR 24,0,KC,
+10,1931,0,00:50,Timeout #1 by KC at 00:50.,0,2,31,,0,,TIMEOUT
+10,2155,4,00:15,"(:15) C.Santos 47 yard field goal is GOOD, Center-J.Winchester, Holder-D.Colquitt.",14,2,46,CAR 29,1,KC,FG
+10,2090,2,00:27,(:27) (Shotgun) A.Smith pass short middle to A.Wilson pushed ob at CAR 24 for 10 yards (L.Kuechly).,19,2,51,CAR 34,0,KC,
+10,2031,1,00:33,"(:33) (Shotgun) PENALTY on KC-L.Duvernay-Tardif, False Start, 5 yards, enforced at CAR 25 - No Play.",10,2,45,CAR 25,0,KC,PENALTY
+10,2073,0,00:27,Timeout #2 by KC at 00:27.,0,2,41,,0,,TIMEOUT
+10,1907,3,01:13,(1:13) (Shotgun) A.Smith pass short right to A.Wilson to CAR 44 for 4 yards (T.Boston).,5,2,31,CAR 48,0,KC,
+10,1885,2,01:21,(1:21) (Shotgun) A.Smith pass incomplete short right to T.Kelce [L.Kuechly].,5,2,27,CAR 48,0,KC,
+10,1755,0,01:52,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback.",0,2,0,CAR 35,0,CAR,KICKOFF
+10,2054,1,00:33,(:33) (Shotgun) A.Smith sacked at CAR 34 for -4 yards (sack split by C.Johnson and V.Butler).,15,2,41,CAR 30,0,KC,
+13,2860,3,03:20,"(3:20) (No Huddle, Shotgun) C.Newton pass short right to T.Ginn pushed ob at KC 31 for 14 yards (R.Parker).",7,3,60,KC 45,0,CAR,
+13,2710,1,05:18,(5:18) (Shotgun) C.Newton pass incomplete short middle to E.Dickson.,10,3,33,CAR 42,0,CAR,
+13,2732,2,05:14,(5:14) (Shotgun) C.Newton pass short right to K.Benjamin to 50 for 8 yards (M.Peters).,10,3,41,CAR 42,0,CAR,
+13,2483,2,10:25,(10:25) (Shotgun) J.Stewart left end to CAR 13 for 4 yards (K.Acker).,10,3,4,CAR 9,0,CAR,
+13,2913,1,02:23,"(2:23) (No Huddle, Shotgun) C.Newton right end pushed ob at KC 21 for -1 yards (E.Berry).",10,3,70,KC 20,0,CAR,
+13,2828,2,03:50,(3:50) (Shotgun) C.Newton pass short left to C.Brown to KC 45 for 3 yards (S.Nelson).,10,3,46,KC 48,0,CAR,
+13,2802,1,03:56,(3:56) (Shotgun) C.Newton pass incomplete short left to K.Benjamin (M.Peters). KC-M.Peters was injured during the play.,10,3,43,KC 48,0,CAR,
+13,2627,0,07:15,Timeout #1 by CAR at 07:15.,0,3,22,,0,,TIMEOUT
+13,2560,1,08:37,(8:37) (Shotgun) C.Newton pass short right to T.Ginn to CAR 25 for 10 yards (S.Nelson; M.Peters).,15,3,16,CAR 15,0,CAR,
+13,2889,1,02:57,"(2:57) (No Huddle, Shotgun) C.Newton pass short right to D.Funchess to KC 20 for 11 yards (M.Peters).",10,3,71,KC 31,0,CAR,
+13,2528,1,09:00,"(9:00) (Shotgun) J.Stewart up the middle to CAR 22 for 2 yards (D.Poe; D.Johnson). PENALTY on CAR-E.Dickson, Illegal Formation, 5 yards, enforced at CAR 20 - No Play.",10,3,6,CAR 20,0,CAR,PENALTY
+13,2665,2,06:45,(6:45) (No Huddle) J.Stewart right guard to CAR 38 for 3 yards (R.Nunez-Roches).,6,3,29,CAR 35,0,CAR,
+13,2686,3,06:03,(6:03) (Shotgun) C.Newton pass short right to G.Olsen to CAR 42 for 4 yards (E.Berry).,3,3,33,CAR 38,0,CAR,
+13,2504,3,09:46,(9:46) (Shotgun) C.Newton pass short middle to D.Funchess to CAR 20 for 7 yards (S.Nelson; D.Sorensen).,6,3,11,CAR 13,0,CAR,
+13,2606,3,08:01,(8:01) (Shotgun) C.Newton up the middle to CAR 31 for 6 yards (C.Jones).,5,3,22,CAR 25,0,CAR,
+13,2584,2,08:05,(8:05) (Shotgun) C.Newton pass incomplete short left to K.Benjamin (S.Nelson).,5,3,16,CAR 25,0,CAR,
+13,2461,1,10:29,(10:29) (Shotgun) C.Newton pass incomplete short left to K.Benjamin.,10,3,70,CAR 9,0,CAR,
+13,2939,2,01:49,"(1:49) (No Huddle, Shotgun) C.Newton sacked at KC 28 for -7 yards (D.Ford).",11,3,63,KC 21,0,CAR,
+13,2644,1,07:15,(7:15) (Shotgun) J.Stewart right tackle to CAR 35 for 4 yards (E.Berry; R.Nunez-Roches).,10,3,26,CAR 31,0,CAR,
+13,2958,3,01:07,(1:07) (Shotgun) C.Newton sacked at KC 40 for -12 yards (C.Jones).,18,3,51,KC 28,0,CAR,
+13,2777,4,04:21,(4:21) C.Newton up the middle to KC 48 for 1 yard (R.Nunez-Roches; K.Reyes). Chris Scott reported as eligible,1,3,43,KC 49,0,CAR,
+13,2977,4,00:30,"(:30) G.Gano punts 40 yards to end zone, Center-J.Jansen, Touchback.",30,3,51,KC 40,0,CAR,PUNT
+13,2756,3,04:35,(4:35) C.Newton up the middle to KC 49 for 1 yard (R.Wilson). Chris Scott reported as eligible,2,3,42,50,0,CAR,
+12,2442,4,10:37,"(10:37) D.Colquitt punts 47 yards to CAR 9, Center-J.Winchester, fair catch by T.Ginn.",6,3,27,KC 44,0,KC,PUNT
+12,2375,1,12:15,(12:15) (Shotgun) A.Smith pass short right to C.West to KC 40 for no gain (T.Davis).,10,3,23,KC 40,0,KC,
+12,2324,2,13:37,(13:37) A.Smith pass short right to T.Hill to KC 38 for 9 yards (R.McClain; J.Bradberry).,10,3,21,KC 29,0,KC,
+12,2420,3,10:44,(10:44) (Shotgun) A.Smith pass incomplete deep left to T.Hill.,6,3,27,KC 44,0,KC,
+12,2230,0,15:00,G.Gano kicks 69 yards from CAR 35 to KC -4. K.Davis pushed ob at KC 17 for 21 yards (Z.Sanchez).,0,3,0,CAR 35,0,CAR,KICKOFF
+12,2302,1,13:40,(13:40) (Shotgun) A.Smith pass incomplete short left to A.Wilson [T.Davis].,10,3,12,KC 29,0,KC,
+12,2281,2,14:23,(14:23) S.Ware up the middle to KC 29 for 6 yards (R.McClain).,4,3,12,KC 23,0,KC,
+12,2257,1,14:56,(14:56) (Shotgun) A.Smith pass short right to A.Wilson to KC 23 for 6 yards (J.Bradberry).,10,3,6,KC 17,0,KC,
+12,2353,3,12:59,(12:59) S.Ware left guard to KC 40 for 2 yards (T.Davis; T.Boston).,1,3,23,KC 38,0,KC,
+12,2399,2,11:29,(11:29) (Shotgun) A.Smith scrambles right end to KC 44 for 4 yards (K.Coleman).,10,3,27,KC 40,0,KC,
+15,3259,0,12:02,"C.Santos kicks 65 yards from KC 35 to end zone, Touchback.",0,4,0,KC 35,0,KC,KICKOFF
+15,3274,1,12:02,(12:02) (Shotgun) J.Stewart up the middle to CAR 26 for 1 yard (T.Hali; D.Johnson).,10,4,1,CAR 25,0,CAR,
+15,3316,3,10:51,"(10:51) (Shotgun) C.Newton pass short left intended for G.Olsen INTERCEPTED by E.Berry [D.Sorensen] at CAR 42. E.Berry for 42 yards, TOUCHDOWN.",6,4,4,CAR 29,1,CAR,TD
+15,3295,2,11:27,"(11:27) (No Huddle, Shotgun) C.Newton up the middle to CAR 29 for 3 yards (D.Johnson; T.Hali).",9,4,4,CAR 26,0,CAR,
+14,3196,2,12:16,(12:16) (Shotgun) A.Smith pass incomplete deep left to C.Conley.,10,4,62,CAR 18,0,KC,
+14,2994,1,00:21,(:21) (Shotgun) A.Smith pass incomplete deep right to T.Hill.,10,3,27,KC 20,0,KC,
+14,3240,4,12:07,"(12:07) C.Santos 36 yard field goal is GOOD, Center-J.Winchester, Holder-D.Colquitt.",10,4,62,CAR 18,1,KC,FG
+14,3016,2,00:16,(:16) (Shotgun) A.Smith pass short left to T.Hill pushed ob at KC 47 for 27 yards (T.Boston).,10,3,27,KC 20,0,KC,
+14,3126,2,13:41,"(13:41) (No Huddle, Shotgun) A.Smith pass short right to T.Hill to CAR 28 for 14 yards (J.Bradberry).",10,4,52,CAR 42,0,KC,
+14,3105,1,14:07,(14:07) S.Ware left tackle to CAR 42 for no gain (K.Short; C.Johnson).,10,4,38,CAR 42,0,KC,
+14,3150,1,13:03,(13:03) (Shotgun) A.Smith pass short left to T.Hill to CAR 18 for 10 yards (D.Worley).,10,4,62,CAR 28,0,KC,
+14,3077,2,14:31,"(14:31) (No Huddle, Shotgun) A.Smith pass short middle to T.Kelce to CAR 42 for 10 yards (D.Worley).",9,4,38,KC 48,0,KC,
+14,3056,1,15:00,(15:00) (Shotgun) S.Ware up the middle to KC 48 for 1 yard (W.Horton; K.Short).,10,4,28,KC 47,0,KC,
+14,3040,0,,END QUARTER 3,0,3,27,,0,,
+14,3218,3,12:11,(12:11) (Shotgun) A.Smith pass incomplete short left to R.Travis.,10,4,62,CAR 18,0,KC,
+14,3174,1,12:20,(12:20) (Shotgun) A.Smith pass incomplete short right to C.Conley.,10,4,62,CAR 18,0,KC,
+17,3580,1,06:29,(6:29) (Shotgun) A.Smith pass short left to T.Kelce to CAR 22 for 16 yards (T.Boston).,10,4,27,CAR 38,0,KC,
+17,3628,2,05:18,(5:18) C.West right tackle to CAR 14 for 3 yards (R.McClain).,5,4,35,CAR 17,0,KC,
+17,3604,1,05:44,(5:44) (Shotgun) A.Smith pass short left to S.Ware to CAR 17 for 5 yards (L.Kuechly).,10,4,32,CAR 22,0,KC,
+17,3559,2,07:08,(7:08) S.Ware left guard to CAR 38 for 8 yards (W.Horton).,7,4,11,CAR 46,0,KC,
+17,3533,1,07:34,(7:34) (Shotgun) A.Smith scrambles left end pushed ob at CAR 46 for 3 yards (D.Worley).,10,4,3,CAR 49,0,KC,
+17,3649,3,04:35,(4:35) (Shotgun) A.Smith pass incomplete short left to T.Kelce.,2,4,35,CAR 14,0,KC,
+17,3671,4,04:28,"(4:28) C.Santos 33 yard field goal is GOOD, Center-J.Winchester, Holder-D.Colquitt.",2,4,35,CAR 14,1,KC,FG
+16,3508,4,07:49,"(7:49) G.Gano punts 43 yards to KC 30, Center-J.Jansen. T.Hill to CAR 49 for 21 yards (G.Gano).",4,4,18,CAR 27,0,CAR,PUNT
+16,3392,1,10:26,(10:26) (Shotgun) J.Stewart up the middle to CAR 9 for no gain (R.Nunez-Roches; D.Johnson).,10,4,0,CAR 9,0,CAR,
+16,3462,2,08:34,(8:34) (Shotgun) C.Newton pass short right to G.Olsen to CAR 27 for 5 yards (R.Wilson).,9,4,18,CAR 22,0,CAR,
+16,3441,1,09:12,(9:12) (Shotgun) C.Newton up the middle to CAR 22 for 1 yard (D.Ford; D.Poe).,10,4,13,CAR 21,0,CAR,
+16,3486,3,07:56,"(7:56) (No Huddle, Shotgun) C.Newton pass incomplete short right to J.Stewart.",4,4,18,CAR 27,0,CAR,
+16,3417,2,09:50,(9:50) (Shotgun) C.Newton pass short left to K.Benjamin to CAR 21 for 12 yards (K.Acker).,10,4,12,CAR 9,0,CAR,
+16,3359,0,10:32,"C.Santos kicks 66 yards from KC 35 to CAR -1. F.Whittaker to CAR 17 for 18 yards (D.Robinson). KC-D.Alexander was injured during the play.  PENALTY on CAR-R.McClain, Illegal Block Above the Waist, 8 yards, enforced at CAR 17.",0,4,0,KC 35,0,KC,KICKOFF
+19,3879,1,01:23,"(1:23) (No Huddle, Shotgun) PENALTY on KC-A.Smith, Illegal Forward Pass, 5 yards, enforced at KC 31 - No Play.",10,4,6,KC 31,0,KC,PENALTY
+19,3919,1,01:16,"(1:16) (Shotgun) A.Smith pass short left to T.Hill to KC 25 for -1 yards (L.Kuechly). FUMBLES (L.Kuechly), ball out of bounds at KC 25.",15,4,1,KC 26,0,KC,FUMBLE
+19,3947,2,00:51,(:51) (Shotgun) A.Smith sacked at KC 21 for -4 yards (K.Short).,16,4,1,KC 25,0,KC,
+19,3966,0,00:48,Timeout #2 by CAR at 00:48.,0,4,6,,0,,TIMEOUT
+19,4024,4,00:43,"(:43) D.Colquitt punts 53 yards to CAR 21, Center-J.Winchester. T.Ginn ran ob at CAR 33 for 12 yards (J.Winchester). PENALTY on CAR-D.Mayo, Illegal Block Above the Waist, 10 yards, enforced at CAR 30.",15,4,6,KC 26,0,KC,PUNT
+19,3851,1,01:47,(1:47) (Shotgun) A.Smith pass short right to T.Hill to KC 31 for 11 yards (S.Lotulelei).,10,4,11,KC 20,0,KC,
+19,4007,0,00:43,Timeout #3 by CAR at 00:43.,0,4,6,,0,,TIMEOUT
+19,3983,3,00:48,(:48) (Shotgun) A.Smith pass short middle to T.Hill to KC 26 for 5 yards (L.Kuechly).,20,4,6,KC 21,0,KC,
+18,3812,3,02:00,(2:00) (Shotgun) C.Newton pass incomplete short left to K.Benjamin.,5,4,21,CAR 46,0,CAR,
+18,3834,4,01:56,"(1:56) G.Gano punts 54 yards to end zone, Center-J.Jansen, Touchback.",5,4,21,CAR 46,0,CAR,PUNT
+18,3774,2,02:36,(2:36) F.Whittaker up the middle to CAR 46 for -2 yards (D.Ford).,3,4,21,CAR 48,0,CAR,
+18,3690,0,04:25,"C.Santos kicks 65 yards from KC 35 to end zone, Touchback.",0,4,0,KC 35,0,KC,KICKOFF
+18,3750,1,03:14,(3:14) (Shotgun) C.Newton pass short left to T.Ginn pushed ob at CAR 48 for 7 yards (S.Nelson).,10,4,23,CAR 41,0,CAR,
+18,3795,0,02:00,Two-Minute Warning,0,4,21,,0,,
+18,3729,2,03:47,(3:47) F.Whittaker right guard to CAR 41 for 7 yards (R.Wilson).,1,4,16,CAR 34,0,CAR,
+18,3705,1,04:25,(4:25) (Shotgun) C.Newton pass short left to F.Whittaker to CAR 34 for 9 yards (D.Poe).,10,4,9,CAR 25,0,CAR,

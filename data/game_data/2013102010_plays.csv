@@ -1,168 +1,168 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1730,1,01:18,,10,2,28,TEN 37,0,TEN,
-9,1752,2,01:13,,10,2,24,TEN 37,0,TEN,
-9,1682,1,01:58,,10,2,20,TEN 20,0,TEN,
-9,1627,1,02:03,,10,2,11,TEN 9,0,TEN,
-9,1605,0,02:07,,0,2,0,SF 35,0,SF,KICKOFF
-9,1706,2,01:37,,1,2,28,TEN 29,0,TEN,
-9,1776,3,00:32,,14,2,33,TEN 33,0,TEN,
-10,2058,1,08:45,,4,3,77,TEN 4,0,SF,
-10,1992,1,10:44,,10,3,57,TEN 23,0,SF,
-10,2079,2,08:06,,2,3,78,TEN 2,0,SF,
-10,2100,3,07:25,,1,3,79,TEN 1,1,SF,TD
-10,1968,2,11:26,,10,3,56,TEN 38,0,SF,
-10,2034,3,09:22,,3,3,75,TEN 16,0,SF,
-10,1877,3,13:31,,4,3,25,SF 27,0,SF,
-10,1856,2,14:14,,8,3,6,SF 23,0,SF,
-10,1901,0,12:45,,0,3,25,,0,,TIMEOUT
-10,1813,0,15:00,,0,3,0,TEN 35,0,TEN,KICKOFF
-10,2013,2,10:05,,9,3,63,TEN 22,0,SF,
-10,2118,0,07:20,,0,3,79,TEN 2,1,SF,XP
-10,1947,1,12:04,,10,3,41,TEN 38,0,SF,
-10,1918,1,12:45,,10,3,41,SF 46,0,SF,
-10,1835,1,14:54,,10,3,2,SF 21,0,SF,
-20,3441,1,06:50,,10,4,10,SF 30,0,SF,
-20,3386,0,06:59,,0,4,7,,0,,TIMEOUT
-20,3523,4,06:29,,6,4,14,SF 34,1,SF,TD
-20,3484,0,06:34,,0,4,13,,0,,TIMEOUT
-20,3365,1,07:07,,10,4,7,SF 20,0,SF,
-20,3403,2,06:59,,3,4,10,SF 27,0,SF,
-20,3350,0,07:07,,0,4,0,TEN 35,0,TEN,KICKOFF
-20,3463,2,06:40,,10,4,14,SF 30,0,SF,
-20,3501,3,06:34,,6,4,14,SF 34,0,SF,
-20,3424,0,06:50,,0,4,10,,0,,TIMEOUT
-6,1172,1,09:31,,15,2,36,SF 45,0,SF,
-6,1125,3,10:39,,5,2,30,SF 25,0,SF,
-6,1313,3,06:50,,7,2,80,TEN 20,1,SF,TD
-6,1254,1,08:22,,10,2,59,TEN 23,0,SF,
-6,1196,2,09:09,,4,2,42,TEN 44,0,SF,
-6,1275,2,07:35,,8,2,60,TEN 21,0,SF,
-6,1079,1,11:28,,10,2,0,SF 20,0,SF,
-6,1296,0,06:50,,0,2,60,,0,,TIMEOUT
-6,1149,1,09:57,,10,2,25,50,0,SF,PENALTY
-6,1330,0,06:42,,0,2,80,TEN 2,1,SF,XP
-6,1101,2,11:21,,10,2,5,SF 20,0,SF,
-6,1217,1,08:29,,10,2,57,TEN 38,0,SF,PENALTY
-18,3263,4,07:49,,5,4,5,SF 49,0,SF,PUNT
-18,3197,3,07:53,,5,4,5,SF 49,0,SF,
-18,3155,1,09:22,,10,4,5,SF 44,0,SF,
-18,3176,2,08:37,,5,4,5,SF 49,0,SF,
-1,169,3,12:05,,4,1,35,SF 45,0,TEN,
-1,191,4,12:01,,4,1,35,SF 45,0,TEN,PUNT
-1,148,2,12:45,,5,1,35,SF 46,0,TEN,
-1,55,1,14:59,,10,1,4,TEN 20,0,TEN,
-1,79,2,14:26,,6,1,8,TEN 24,0,TEN,
-1,127,1,13:18,,10,1,34,TEN 49,0,TEN,
-1,103,3,13:46,,2,1,29,TEN 28,0,TEN,
-1,36,0,15:00,,0,1,0,SF 35,0,SF,KICKOFF
-5,972,2,13:03,,3,2,9,SF 47,0,TEN,PENALTY
-5,1025,3,12:02,,11,2,0,TEN 45,0,TEN,
-5,951,1,13:37,,10,2,19,TEN 46,0,TEN,
-5,909,1,14:47,,10,2,9,TEN 34,0,TEN,
-5,1055,4,11:36,,22,2,0,TEN 34,0,TEN,PUNT
-5,1004,2,12:40,,13,2,11,TEN 43,0,TEN,
-5,930,2,14:12,,1,2,12,TEN 43,0,TEN,
-13,2367,1,04:02,,10,3,8,TEN 18,0,TEN,
-13,2391,2,03:48,,2,3,8,TEN 26,0,TEN,
-13,2435,4,03:38,,2,3,8,TEN 26,0,TEN,PUNT
-13,2413,3,03:43,,2,3,8,TEN 26,0,TEN,
-21,3598,1,06:09,,10,4,5,TEN 42,0,TEN,
-21,3801,4,03:37,,9,4,47,SF 32,0,TEN,PENALTY
-21,3733,1,04:25,,10,4,25,SF 33,0,TEN,
-21,3622,2,05:42,,5,4,13,TEN 47,0,TEN,
-21,3888,0,03:17,,0,4,58,SF 2,1,TEN,XP
-21,3576,0,06:16,,0,4,0,SF 35,0,SF,KICKOFF
-21,3779,3,03:45,,9,4,26,SF 32,0,TEN,
-21,3834,1,03:31,,10,4,32,SF 11,0,TEN,PENALTY
-21,3646,1,05:17,,10,4,13,SF 45,0,TEN,
-21,3698,3,04:41,,8,4,25,SF 43,0,TEN,PENALTY
-21,3867,2,03:24,,25,4,58,SF 26,1,TEN,TD
-21,3755,2,04:18,,10,4,26,SF 33,0,TEN,
-21,3673,2,05:12,,10,4,15,SF 45,0,TEN,
-11,2253,4,05:52,,1,3,9,TEN 29,0,TEN,PUNT
-11,2174,2,06:47,,3,3,7,TEN 27,0,TEN,
-11,2196,3,06:43,,3,3,9,TEN 27,0,TEN,
-11,2134,0,07:20,,0,3,0,SF 35,0,SF,KICKOFF
-11,2153,1,07:20,,10,3,7,TEN 20,0,TEN,
-14,2472,1,03:26,,10,3,29,SF 8,0,SF,
-14,2522,2,02:46,,10,3,31,SF 37,0,SF,
-14,2496,1,02:52,,10,3,29,SF 37,0,SF,
-14,2566,3,01:46,,13,3,34,SF 34,0,SF,
-14,2587,4,01:16,,5,3,34,SF 42,0,SF,PUNT
-14,2543,3,02:10,,8,3,26,SF 39,0,SF,PENALTY
-8,1531,2,02:46,,5,2,44,TEN 21,0,SF,TIMEOUT
-8,1510,1,03:24,,10,2,24,TEN 26,0,SF,
-8,1571,1,02:11,,1,2,45,TEN 1,1,SF,TD
-8,1589,0,02:07,,0,2,45,TEN 2,1,SF,XP
-8,1489,3,03:57,,11,2,19,TEN 46,0,SF,
-8,1449,1,05:09,,10,2,0,TEN 45,0,SF,
-8,1470,2,04:28,,10,2,-1,TEN 45,0,SF,
-19,3313,1,07:20,,10,4,86,TEN 34,1,TEN,TD
-19,3334,0,07:07,,0,4,86,SF 2,1,TEN,XP
-19,3286,1,07:42,,10,4,20,TEN 14,0,TEN,
-22,3904,0,03:17,,0,4,0,TEN 35,0,TEN,KICKOFF
-22,3941,1,03:14,,10,4,8,TEN 35,0,SF,
-22,4063,0,00:00,,0,4,12,,0,,
-22,4021,2,01:21,,10,4,13,TEN 21,0,SF,
-22,3983,0,02:00,,0,4,14,,0,,
-22,3962,2,02:29,,2,4,14,TEN 27,0,SF,
-22,4042,3,00:40,,11,4,12,TEN 22,0,SF,
-22,4000,1,02:00,,10,4,14,TEN 21,0,SF,
-12,2297,2,04:57,,8,3,9,SF 37,0,SF,
-12,2321,3,04:13,,1,3,9,SF 44,0,SF,
-12,2276,1,05:42,,10,3,2,SF 35,0,SF,
-12,2343,4,04:08,,1,3,9,SF 44,0,SF,PUNT
-16,2949,1,12:23,,10,4,21,SF 20,0,SF,PENALTY
-16,3000,2,11:12,,12,4,21,SF 39,0,SF,
-16,2930,0,12:23,,0,4,0,TEN 35,0,TEN,KICKOFF
-16,3021,3,10:28,,10,4,21,SF 41,0,SF,
-16,3043,4,10:24,,10,4,21,SF 41,0,SF,PUNT
-16,2981,1,11:52,,10,4,19,SF 41,0,SF,
-7,1346,0,06:42,,0,2,0,SF 35,0,SF,KICKOFF
-7,1392,1,06:04,,10,2,14,TEN 25,0,TEN,
-7,1413,2,05:26,,10,2,14,TEN 25,0,TEN,INT
-7,1368,1,06:37,,10,2,14,TEN 11,0,TEN,
-3,744,4,01:49,,19,1,17,TEN 38,0,TEN,PUNT
-3,495,1,05:12,,10,1,0,TEN 21,0,TEN,
-3,518,2,05:07,,10,1,5,TEN 21,0,TEN,
-3,563,1,03:39,,10,1,16,TEN 47,0,TEN,PENALTY
-3,664,3,02:39,,15,1,27,TEN 42,0,TEN,
-3,539,3,04:22,,5,1,26,TEN 26,0,TEN,
-3,595,1,03:30,,20,1,26,TEN 37,0,TEN,
-3,688,4,02:01,,9,1,17,TEN 48,0,TEN,PENALTY
-3,473,0,05:19,,0,1,0,SF 35,0,SF,KICKOFF
-3,619,2,02:47,,10,1,26,TEN 47,0,TEN,
-3,641,3,02:39,,10,1,21,TEN 47,0,TEN,PENALTY
-17,3066,1,10:16,,10,4,5,TEN 23,0,TEN,
-17,3131,4,09:30,,13,4,-3,TEN 20,0,TEN,PUNT
-17,3090,2,09:56,,5,4,-3,TEN 28,0,TEN,
-17,3109,3,09:35,,13,4,-3,TEN 20,0,TEN,
-4,884,4,15:00,,5,2,5,SF 9,0,SF,PUNT
-4,823,0,00:15,,0,1,-2,,0,,TIMEOUT
-4,840,3,00:15,,12,1,5,SF 2,0,SF,
-4,802,2,00:56,,13,1,-2,SF 1,0,SF,
-4,781,1,01:36,,10,1,-3,SF 4,0,SF,
-2,281,1,10:06,,10,1,41,SF 41,0,SF,
-2,389,1,06:39,,10,1,66,TEN 31,0,SF,
-2,215,1,11:53,,10,1,3,SF 9,0,SF,
-2,257,3,10:35,,2,1,32,SF 17,0,SF,
-2,236,2,11:10,,7,1,8,SF 12,0,SF,
-2,326,1,08:42,,10,1,48,TEN 45,0,SF,
-2,347,2,08:00,,8,1,50,TEN 43,0,SF,
-2,305,2,09:20,,1,1,46,50,0,SF,
-2,432,3,05:48,,4,1,65,TEN 25,0,SF,
-2,368,3,07:21,,6,1,60,TEN 41,0,SF,
-2,453,4,05:25,,5,1,65,TEN 26,1,SF,FG
-2,410,2,05:53,,4,1,66,TEN 25,0,SF,
-15,2726,1,00:02,,10,3,55,SF 25,0,TEN,
-15,2609,1,01:06,,10,3,7,TEN 20,0,TEN,
-15,2807,1,14:23,,5,4,70,SF 5,0,TEN,PENALTY
-15,2852,2,13:18,,10,4,76,SF 10,0,TEN,TIMEOUT
-15,2691,1,00:21,,10,3,55,TEN 33,0,TEN,
-15,2830,1,13:24,,10,4,70,SF 10,0,TEN,
-15,2633,2,00:41,,3,3,7,TEN 27,0,TEN,
-15,2655,3,00:36,,3,3,13,TEN 27,0,TEN,
-15,2911,4,12:27,,13,4,67,SF 13,1,TEN,FG
-15,2765,2,15:00,,10,4,59,SF 25,0,TEN,
-15,2786,3,14:23,,6,4,75,SF 21,0,TEN,
-15,2892,3,13:00,,4,4,67,SF 4,0,TEN,
+20,3386,0,06:59,Timeout #1 by TEN at 06:59.,0,4,7,,0,,TIMEOUT
+20,3463,2,06:40,(6:40) F.Gore right tackle to SF 34 for 4 yards (Z.Brown; A.Ayers).,10,4,14,SF 30,0,SF,
+20,3365,1,07:07,(7:07) F.Gore right end to SF 27 for 7 yards (C.McCarthy).,10,4,7,SF 20,0,SF,
+20,3441,1,06:50,(6:50) (Shotgun) C.Kaepernick pass incomplete deep left to K.Williams.,10,4,10,SF 30,0,SF,
+20,3484,0,06:34,Timeout #3 by TEN at 06:34.,0,4,13,,0,,TIMEOUT
+20,3424,0,06:50,Timeout #2 by TEN at 06:50.,0,4,10,,0,,TIMEOUT
+20,3403,2,06:59,(6:59) F.Gore up the middle to SF 30 for 3 yards (A.Johnson).,3,4,10,SF 27,0,SF,
+20,3350,0,07:07,"R.Bironas kicks 65 yards from TEN 35 to end zone, Touchback.",0,4,0,TEN 35,0,TEN,KICKOFF
+20,3501,3,06:34,(6:34) (Shotgun) C.Kaepernick pass incomplete short middle to A.Boldin (C.Sensabaugh).,6,4,14,SF 34,0,SF,
+20,3523,4,06:29,"(6:29) (Punt formation) A.Lee punts 55 yards to TEN 11, Center-K.McDermott. D.Reynaud MUFFS catch, touched at TEN 12, RECOVERED by SF-K.Osgood at TEN 0. TOUCHDOWN. Penalty on TEN-T.Campbell, Illegal Block Above the Waist, declined.",6,4,14,SF 34,1,SF,TD
+21,3698,3,04:41,"(4:41) (No Huddle, Shotgun) J.Locker pass short left to K.Wright to SF 10 for 33 yards (C.Spillman). PENALTY on TEN-C.Johnson, Illegal Block Above the Waist, 10 yards, enforced at SF 23.",8,4,25,SF 43,0,TEN,PENALTY
+21,3834,1,03:31,"(3:31) (Shotgun) J.Locker pass incomplete short middle to K.Britt. PENALTY on TEN-K.Britt, Unnecessary Roughness, 15 yards, enforced at SF 11.",10,4,32,SF 11,0,TEN,PENALTY
+21,3576,0,06:16,P.Dawson kicks 62 yards from SF 35 to TEN 3. D.Reynaud to TEN 42 for 39 yards (M.Wilhoite).,0,4,0,SF 35,0,SF,KICKOFF
+21,3801,4,03:37,"(3:37) J.Locker pass incomplete deep left to K.Britt. PENALTY on SF-T.Brown, Defensive Pass Interference, 21 yards, enforced at SF 32 - No Play.",9,4,47,SF 32,0,TEN,PENALTY
+21,3779,3,03:45,"(3:45) (No Huddle, Shotgun) J.Locker pass incomplete short middle to N.Washington.",9,4,26,SF 32,0,TEN,
+21,3598,1,06:09,(6:09) J.Locker pass short middle to C.Johnson to TEN 47 for 5 yards (E.Reid; C.Lemonier).,10,4,5,TEN 42,0,TEN,
+21,3755,2,04:18,(4:18) (Shotgun) J.Locker pass short left to K.Wright to SF 32 for 1 yard (P.Willis).,10,4,26,SF 33,0,TEN,
+21,3888,0,03:17,"R.Bironas extra point is GOOD, Center-B.Brinkley, Holder-B.Kern.",0,4,58,SF 2,1,TEN,XP
+21,3622,2,05:42,"(5:42) (No Huddle, Shotgun) J.Locker pass short left to K.Britt ran ob at SF 45 for 8 yards.",5,4,13,TEN 47,0,TEN,
+21,3673,2,05:12,(5:12) (Shotgun) J.Locker pass short left to K.Wright to SF 43 for 2 yards (E.Reid).,10,4,15,SF 45,0,TEN,
+21,3646,1,05:17,"(5:17) (No Huddle, Shotgun) J.Locker pass incomplete deep right to N.Washington.",10,4,13,SF 45,0,TEN,
+21,3867,2,03:24,"(3:24) (Shotgun) J.Locker pass deep middle to D.Walker for 26 yards, TOUCHDOWN.",25,4,58,SF 26,1,TEN,TD
+21,3733,1,04:25,(4:25) (Shotgun) J.Locker pass incomplete deep right to J.Hunter.,10,4,25,SF 33,0,TEN,
+22,3904,0,03:17,"R.Bironas kicks onside 5 yards from TEN 35 to TEN 40. B.Miller (didn't try to advance) to TEN 40 for no gain. PENALTY on TEN-D.Stafford, Offside on Free Kick, 5 yards, enforced at TEN 40.",0,4,0,TEN 35,0,TEN,KICKOFF
+22,4063,0,00:00,END GAME,0,4,12,,0,,
+22,4042,3,00:40,(:40) C.Kaepernick kneels to TEN 23 for -1 yards.,11,4,12,TEN 22,0,SF,
+22,4000,1,02:00,(2:00) C.Kaepernick kneels to TEN 21 for no gain.,10,4,14,TEN 21,0,SF,
+22,3941,1,03:14,(3:14) A.Dixon right end to TEN 27 for 8 yards (G.Wilson).,10,4,8,TEN 35,0,SF,
+22,3962,2,02:29,(2:29) C.Kaepernick left end to TEN 21 for 6 yards (G.Wilson).,2,4,14,TEN 27,0,SF,
+22,4021,2,01:21,(1:21) C.Kaepernick kneels to TEN 22 for -1 yards.,10,4,13,TEN 21,0,SF,
+22,3983,0,02:00,Two-Minute Warning,0,4,14,,0,,
+1,55,1,14:59,(14:59) J.Locker pass short middle to C.Johnson to TEN 24 for 4 yards (P.Willis).,10,1,4,TEN 20,0,TEN,
+1,191,4,12:01,"(12:01) (Punt formation) B.Kern punts 36 yards to SF 9, Center-B.Brinkley, fair catch by K.Williams.",4,1,35,SF 45,0,TEN,PUNT
+1,36,0,15:00,"P.Dawson kicks 65 yards from SF 35 to end zone, Touchback.",0,1,0,SF 35,0,SF,KICKOFF
+1,148,2,12:45,(12:45) (Shotgun) C.Johnson left guard to SF 45 for 1 yard (G.Dorsey).,5,1,35,SF 46,0,TEN,
+1,169,3,12:05,(12:05) (Shotgun) J.Locker pass incomplete short left to D.Reynaud.,4,1,35,SF 45,0,TEN,
+1,127,1,13:18,(13:18) C.Johnson left tackle to SF 46 for 5 yards (N.Bowman).,10,1,34,TEN 49,0,TEN,
+1,103,3,13:46,(13:46) (Shotgun) J.Locker pass short right to K.Wright pushed ob at TEN 49 for 21 yards (C.Rogers).,2,1,29,TEN 28,0,TEN,
+1,79,2,14:26,(14:26) (Shotgun) J.Locker pass short left to D.Reynaud to TEN 28 for 4 yards (N.Bowman).,6,1,8,TEN 24,0,TEN,
+3,619,2,02:47,(2:47) (Shotgun) J.Locker pass incomplete short middle to K.Wright.,10,1,26,TEN 47,0,TEN,
+3,595,1,03:30,(3:30) J.Locker pass short right to K.Wright to TEN 47 for 10 yards (C.Rogers).,20,1,26,TEN 37,0,TEN,
+3,518,2,05:07,(5:07) (Shotgun) C.Johnson right tackle to TEN 26 for 5 yards (D.Whitner).,10,1,5,TEN 21,0,TEN,
+3,744,4,01:49,"(1:49) (Punt formation) B.Kern punts 54 yards to SF 8, Center-B.Brinkley. K.Williams to SF 28 for 20 yards (G.Wilson). PENALTY on SF-C.Lemonier, Offensive Holding, 4 yards, enforced at SF 8.",19,1,17,TEN 38,0,TEN,PUNT
+3,563,1,03:39,"(3:39) C.Johnson right guard to TEN 48 for 1 yard (A.Brooks). PENALTY on TEN-D.Stewart, Offensive Holding, 10 yards, enforced at TEN 47 - No Play.",10,1,16,TEN 47,0,TEN,PENALTY
+3,641,3,02:39,"(2:39) (Shotgun) PENALTY on TEN-N.Washington, False Start, 5 yards, enforced at TEN 47 - No Play.",10,1,21,TEN 47,0,TEN,PENALTY
+3,473,0,05:19,P.Dawson kicks 65 yards from SF 35 to TEN 0. D.Reynaud to TEN 21 for 21 yards (D.Morris).,0,1,0,SF 35,0,SF,KICKOFF
+3,688,4,02:01,"(2:01) (Punt formation) B.Kern punts 49 yards to SF 3, Center-B.Brinkley, downed by TEN-B.Wreh-Wilson. PENALTY on TEN-G.Wilson, Offensive Holding, 10 yards, enforced at TEN 48 - No Play.",9,1,17,TEN 48,0,TEN,PENALTY
+3,664,3,02:39,(2:39) (Shotgun) J.Locker pass short right to J.Battle to TEN 48 for 6 yards (P.Cox).,15,1,27,TEN 42,0,TEN,
+3,495,1,05:12,(5:12) J.Locker pass incomplete short right to N.Washington (A.Brooks).,10,1,0,TEN 21,0,TEN,
+3,539,3,04:22,(4:22) (Shotgun) J.Locker pass deep left to D.Walker to TEN 47 for 21 yards (P.Willis).,5,1,26,TEN 26,0,TEN,
+2,410,2,05:53,(5:53) (Shotgun) C.Kaepernick pass incomplete deep right to V.Davis.,4,1,66,TEN 25,0,SF,
+2,215,1,11:53,(11:53) F.Gore right guard to SF 12 for 3 yards (Z.Brown).,10,1,3,SF 9,0,SF,
+2,453,4,05:25,"(5:25) (Field Goal formation) P.Dawson 44 yard field goal is GOOD, Center-K.McDermott, Holder-A.Lee.",5,1,65,TEN 26,1,SF,FG
+2,305,2,09:20,(9:20) F.Gore left tackle to TEN 45 for 5 yards (A.Ayers; R.Pitoitua).,1,1,46,50,0,SF,
+2,347,2,08:00,(8:00) F.Gore right tackle to TEN 41 for 2 yards (A.Johnson).,8,1,50,TEN 43,0,SF,
+2,326,1,08:42,(8:42) F.Gore up the middle to TEN 43 for 2 yards (A.Ayers).,10,1,48,TEN 45,0,SF,
+2,368,3,07:21,"(7:21) (No Huddle, Shotgun) C.Kaepernick left tackle to TEN 31 for 10 yards (M.Griffin).",6,1,60,TEN 41,0,SF,
+2,281,1,10:06,"(10:06) (No Huddle, Shotgun) C.Kaepernick pass short left to B.Miller to 50 for 9 yards (A.Verner).",10,1,41,SF 41,0,SF,
+2,389,1,06:39,(6:39) F.Gore right tackle to TEN 25 for 6 yards (C.McCarthy; Z.Brown).,10,1,66,TEN 31,0,SF,
+2,236,2,11:10,(11:10) F.Gore left end to SF 17 for 5 yards (A.Ayers; A.Verner).,7,1,8,SF 12,0,SF,
+2,432,3,05:48,"(5:48) (No Huddle, Shotgun) C.Kaepernick left end pushed ob at TEN 26 for -1 yards (M.Griffin).",4,1,65,TEN 25,0,SF,
+2,257,3,10:35,"(10:35) (No Huddle, Shotgun) C.Kaepernick pass deep left to V.Davis ran ob at SF 41 for 24 yards.",2,1,32,SF 17,0,SF,
+5,1025,3,12:02,"(12:02) (Shotgun) J.Locker sacked at TEN 34 for -11 yards (J.Smith). Penalty on TEN, Illegal Use of Hands, declined.",11,2,0,TEN 45,0,TEN,
+5,1004,2,12:40,(12:40) (Shotgun) S.Greene up the middle to TEN 45 for 2 yards (N.Bowman).,13,2,11,TEN 43,0,TEN,
+5,972,2,13:03,"(13:03) C.Johnson right tackle to SF 47 for no gain. PENALTY on TEN-D.Walker, Offensive Holding, 10 yards, enforced at SF 47 - No Play.",3,2,9,SF 47,0,TEN,PENALTY
+5,951,1,13:37,(13:37) C.Johnson up the middle to SF 47 for 7 yards (N.Bowman).,10,2,19,TEN 46,0,TEN,
+5,909,1,14:47,(14:47) C.Johnson right tackle to TEN 43 for 9 yards (P.Willis).,10,2,9,TEN 34,0,TEN,
+5,930,2,14:12,(14:12) C.Johnson left end to TEN 46 for 3 yards (P.Willis).,1,2,12,TEN 43,0,TEN,
+5,1055,4,11:36,"(11:36) (Punt formation) B.Kern punts 46 yards to SF 20, Center-B.Brinkley, fair catch by K.Williams.",22,2,0,TEN 34,0,TEN,PUNT
+4,802,2,00:56,(:56) B.Miller up the middle to SF 2 for 1 yard (A.Johnson; R.Pitoitua).,13,1,-2,SF 1,0,SF,
+4,884,4,15:00,"(15:00) (Punt formation) A.Lee punts 56 yards to TEN 35, Center-K.McDermott. D.Reynaud to TEN 34 for -1 yards (C.Spillman).",5,2,5,SF 9,0,SF,PUNT
+4,781,1,01:36,(1:36) F.Gore left tackle to SF 1 for -3 yards (C.McCarthy).,10,1,-3,SF 4,0,SF,
+4,823,0,00:15,Timeout #1 by SF at 00:15.,0,1,-2,,0,,TIMEOUT
+4,840,3,00:15,(:15) C.Kaepernick pass short right to A.Boldin pushed ob at SF 9 for 7 yards (J.McCourty).,12,1,5,SF 2,0,SF,
+7,1413,2,05:26,(5:26) J.Locker pass deep right intended for N.Washington INTERCEPTED by T.Brock at SF 45. T.Brock to TEN 45 for 10 yards (D.Walker).,10,2,14,TEN 25,0,TEN,INT
+7,1368,1,06:37,(6:37) J.Locker pass short middle to N.Washington to TEN 25 for 14 yards (D.Whitner).,10,2,14,TEN 11,0,TEN,
+7,1346,0,06:42,P.Dawson kicks 62 yards from SF 35 to TEN 3. D.Reynaud to TEN 11 for 8 yards (C.Spillman; R.Ventrone).,0,2,0,SF 35,0,SF,KICKOFF
+7,1392,1,06:04,(6:04) C.Johnson up the middle to TEN 25 for no gain (J.Smith).,10,2,14,TEN 25,0,TEN,
+6,1313,3,06:50,"(6:50) (Shotgun) C.Kaepernick left end for 20 yards, TOUCHDOWN.",7,2,80,TEN 20,1,SF,TD
+6,1172,1,09:31,(9:31) (Shotgun) C.Kaepernick pass short left to A.Boldin ran ob at TEN 44 for 11 yards.,15,2,36,SF 45,0,SF,
+6,1079,1,11:28,(11:28) (Shotgun) C.Kaepernick pass incomplete deep right to V.Davis (J.McCourty).,10,2,0,SF 20,0,SF,
+6,1149,1,09:57,"(9:57) PENALTY on SF-B.Miller, False Start, 5 yards, enforced at 50 - No Play.",10,2,25,50,0,SF,PENALTY
+6,1125,3,10:39,(10:39) (Shotgun) C.Kaepernick pass deep right to A.Boldin to 50 for 25 yards (A.Verner).,5,2,30,SF 25,0,SF,
+6,1196,2,09:09,(9:09) F.Gore left guard to TEN 38 for 6 yards (C.McCarthy).,4,2,42,TEN 44,0,SF,
+6,1330,0,06:42,"P.Dawson extra point is GOOD, Center-K.McDermott, Holder-A.Lee.",0,2,80,TEN 2,1,SF,XP
+6,1254,1,08:22,(8:22) F.Gore right end to TEN 21 for 2 yards (K.Wimbley).,10,2,59,TEN 23,0,SF,
+6,1101,2,11:21,(11:21) (Shotgun) C.Kaepernick pass short left to F.Gore to SF 25 for 5 yards (Z.Brown).,10,2,5,SF 20,0,SF,
+6,1275,2,07:35,(7:35) (Shotgun) C.Kaepernick right end to TEN 20 for 1 yard (J.McCourty).,8,2,60,TEN 21,0,SF,
+6,1296,0,06:50,Timeout #2 by SF at 06:50.,0,2,60,,0,,TIMEOUT
+6,1217,1,08:29,"(8:29) C.Kaepernick pass deep left INTERCEPTED by B.Pollard [A.Ayers] at TEN 13. B.Pollard ran ob at TEN 13 for no gain. PENALTY on TEN-A.Ayers, Unnecessary Roughness, 15 yards, enforced at TEN 38 - No Play.",10,2,57,TEN 38,0,SF,PENALTY
+9,1776,3,00:32,(:32) (Shotgun) J.Locker scrambles up the middle to TEN 42 for 9 yards (N.Bowman).,14,2,33,TEN 33,0,TEN,
+9,1627,1,02:03,(2:03) (Shotgun) J.Locker pass short left to D.Williams ran ob at TEN 20 for 11 yards.,10,2,11,TEN 9,0,TEN,
+9,1706,2,01:37,"(1:37) (No Huddle, Shotgun) J.Locker pass short left to K.Wright to TEN 37 for 8 yards (T.Brown).",1,2,28,TEN 29,0,TEN,
+9,1730,1,01:18,"(1:18) (No Huddle, Shotgun) J.Locker pass incomplete short left to N.Washington [R.McDonald].",10,2,28,TEN 37,0,TEN,
+9,1605,0,02:07,P.Dawson kicks 61 yards from SF 35 to TEN 4. D.Reynaud to TEN 9 for 5 yards (D.Morris).,0,2,0,SF 35,0,SF,KICKOFF
+9,1682,1,01:58,(1:58) (Shotgun) J.Locker pass short middle to K.Wright to TEN 29 for 9 yards (C.Rogers).,10,2,20,TEN 20,0,TEN,
+9,1752,2,01:13,(1:13) (Shotgun) J.Locker pass short left to C.Johnson to TEN 33 for -4 yards (P.Willis).,10,2,24,TEN 37,0,TEN,
+8,1589,0,02:07,"P.Dawson extra point is GOOD, Center-K.McDermott, Holder-A.Lee.",0,2,45,TEN 2,1,SF,XP
+8,1510,1,03:24,(3:24) (Shotgun) K.Hunter up the middle to TEN 21 for 5 yards (K.Wimbley; C.McCarthy).,10,2,24,TEN 26,0,SF,
+8,1470,2,04:28,(4:28) (Shotgun) C.Kaepernick sacked at TEN 46 for -1 yards (A.Johnson).,10,2,-1,TEN 45,0,SF,
+8,1531,2,02:46,"(2:46) C.Kaepernick pass deep right to V.McDonald to TEN 1 for 20 yards (C.McCarthy). Tennessee challenged the pass completion ruling, and the play was Upheld. (Timeout #1.)",5,2,44,TEN 21,0,SF,TIMEOUT
+8,1571,1,02:11,"(2:11) F.Gore up the middle for 1 yard, TOUCHDOWN.",1,2,45,TEN 1,1,SF,TD
+8,1489,3,03:57,(3:57) (Shotgun) C.Kaepernick scrambles up the middle pushed ob at TEN 26 for 20 yards (C.Sensabaugh).,11,2,19,TEN 46,0,SF,
+8,1449,1,05:09,(5:09) K.Hunter left end to TEN 45 for no gain (Z.Brown).,10,2,0,TEN 45,0,SF,
+11,2134,0,07:20,"P.Dawson kicks 65 yards from SF 35 to end zone, Touchback.",0,3,0,SF 35,0,SF,KICKOFF
+11,2253,4,05:52,"(5:52) (Punt formation) B.Kern punts 36 yards to SF 35, Center-B.Brinkley, out of bounds.",1,3,9,TEN 29,0,TEN,PUNT
+11,2196,3,06:43,"(6:43) (Shotgun) C.Johnson left end to TEN 30 for 3 yards (N.Bowman; P.Willis). San Francisco challenged the first down ruling, and the play was REVERSED. (Shotgun) C.Johnson left end to TEN 29 for 2 yards (N.Bowman; P.Willis).",3,3,9,TEN 27,0,TEN,
+11,2174,2,06:47,(6:47) J.Locker pass incomplete short right to N.Washington.,3,3,7,TEN 27,0,TEN,
+11,2153,1,07:20,(7:20) C.Johnson left guard to TEN 27 for 7 yards (R.McDonald).,10,3,7,TEN 20,0,TEN,
+10,1992,1,10:44,(10:44) (Shotgun) K.Hunter right tackle to TEN 22 for 1 yard (Mi.Martin).,10,3,57,TEN 23,0,SF,
+10,1968,2,11:26,(11:26) C.Kaepernick pass short middle to A.Boldin to TEN 23 for 15 yards (B.Pollard).,10,3,56,TEN 38,0,SF,
+10,1835,1,14:54,(14:54) F.Gore left end to SF 23 for 2 yards (A.Ayers).,10,3,2,SF 21,0,SF,
+10,2058,1,08:45,(8:45) F.Gore up the middle to TEN 2 for 2 yards (R.Pitoitua).,4,3,77,TEN 4,0,SF,
+10,1813,0,15:00,R.Bironas kicks 65 yards from TEN 35 to SF 0. K.Williams to SF 21 for 21 yards (D.Reynaud).,0,3,0,TEN 35,0,TEN,KICKOFF
+10,1947,1,12:04,(12:04) F.Gore right tackle to TEN 38 for no gain (A.Ayers).,10,3,41,TEN 38,0,SF,
+10,1856,2,14:14,(14:14) F.Gore right tackle to SF 27 for 4 yards (J.McCourty).,8,3,6,SF 23,0,SF,
+10,2118,0,07:20,"P.Dawson extra point is GOOD, Center-K.McDermott, Holder-A.Lee.",0,3,79,TEN 2,1,SF,XP
+10,1877,3,13:31,(13:31) (Shotgun) C.Kaepernick pass short middle to V.Davis to SF 46 for 19 yards (M.Griffin).,4,3,25,SF 27,0,SF,
+10,2079,2,08:06,(8:06) F.Gore left guard to TEN 1 for 1 yard (M.Griffin).,2,3,78,TEN 2,0,SF,
+10,2034,3,09:22,(9:22) C.Kaepernick pass short right to V.Davis pushed ob at TEN 4 for 12 yards (Z.Brown; B.Pollard).,3,3,75,TEN 16,0,SF,
+10,2013,2,10:05,(10:05) (Shotgun) C.Kaepernick left end to TEN 16 for 6 yards (A.Ayers).,9,3,63,TEN 22,0,SF,
+10,2100,3,07:25,"(7:25) F.Gore left tackle for 1 yard, TOUCHDOWN.",1,3,79,TEN 1,1,SF,TD
+10,1918,1,12:45,(12:45) C.Kaepernick pass short right to A.Boldin to TEN 38 for 16 yards (J.McCourty).,10,3,41,SF 46,0,SF,
+10,1901,0,12:45,Timeout #1 by SF at 12:45.,0,3,25,,0,,TIMEOUT
+13,2367,1,04:02,(4:02) (Shotgun) J.Locker pass short left to D.Williams ran ob at TEN 26 for 8 yards.,10,3,8,TEN 18,0,TEN,
+13,2413,3,03:43,(3:43) (Shotgun) J.Locker pass incomplete deep left to K.Wright.,2,3,8,TEN 26,0,TEN,
+13,2435,4,03:38,"(3:38) (Punt formation) B.Kern punts 55 yards to SF 19, Center-B.Brinkley. K.Williams to SF 33 for 14 yards (T.Thompson). PENALTY on SF-D.Morris, Illegal Block Above the Waist, 7 yards, enforced at SF 15.",2,3,8,TEN 26,0,TEN,PUNT
+13,2391,2,03:48,"(3:48) (No Huddle, Shotgun) J.Locker pass incomplete short middle to D.Walker (N.Bowman).",2,3,8,TEN 26,0,TEN,
+12,2321,3,04:13,(4:13) (Shotgun) C.Kaepernick pass incomplete short right to V.Davis.,1,3,9,SF 44,0,SF,
+12,2276,1,05:42,(5:42) F.Gore right end to SF 37 for 2 yards (C.McCarthy).,10,3,2,SF 35,0,SF,
+12,2297,2,04:57,(4:57) (Shotgun) C.Kaepernick pass short left to V.Davis to SF 44 for 7 yards (A.Ayers).,8,3,9,SF 37,0,SF,
+12,2343,4,04:08,"(4:08) (Punt formation) A.Lee punts 38 yards to TEN 18, Center-K.McDermott, fair catch by D.Reynaud.",1,3,9,SF 44,0,SF,PUNT
+15,2726,1,00:02,(:02) J.Locker pass incomplete deep right to J.Hunter (T.Brock).,10,3,55,SF 25,0,TEN,
+15,2786,3,14:23,(14:23) (Shotgun) J.Locker scrambles left tackle pushed ob at SF 5 for 16 yards (E.Reid).,6,4,75,SF 21,0,TEN,
+15,2911,4,12:27,"(12:27) (Field Goal formation) R.Bironas 31 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",13,4,67,SF 13,1,TEN,FG
+15,2852,2,13:18,"(13:18) (Shotgun) J.Locker pass short right to N.Washington to SF 4 for 6 yards (C.Spillman). San Francisco challenged the pass completion ruling, and the play was Upheld. (Timeout #2.)",10,4,76,SF 10,0,TEN,TIMEOUT
+15,2609,1,01:06,(1:06) (Shotgun) J.Locker pass short middle to K.Wright to TEN 27 for 7 yards (C.Lemonier).,10,3,7,TEN 20,0,TEN,
+15,2765,2,15:00,(15:00) (Shotgun) J.Locker scrambles up the middle to SF 21 for 4 yards (P.Willis).,10,4,59,SF 25,0,TEN,
+15,2892,3,13:00,(13:00) (Shotgun) J.Locker sacked at SF 13 for -9 yards (A.Brooks).,4,4,67,SF 4,0,TEN,
+15,2655,3,00:36,"(:36) (Shotgun) J.Locker pass short middle to D.Williams to TEN 33 for 6 yards (D.Whitner). Penalty on SF-C.Lemonier, Defensive Offside, declined.",3,3,13,TEN 27,0,TEN,
+15,2633,2,00:41,"(:41) (No Huddle, Shotgun) J.Locker pass incomplete short left to N.Washington.",3,3,7,TEN 27,0,TEN,
+15,2807,1,14:23,"(14:23) (Shotgun) PENALTY on TEN-J.Locker, Delay of Game, 5 yards, enforced at SF 5 - No Play.",5,4,70,SF 5,0,TEN,PENALTY
+15,2691,1,00:21,"(:21) (Shotgun) J.Locker pass deep right to N.Washington to SF 25 for 42 yards (C.Spillman). Penalty on SF-D.Dobbs, Encroachment, declined.",10,3,55,TEN 33,0,TEN,
+15,2830,1,13:24,(13:24) (Shotgun) J.Locker pass incomplete short left to D.Walker.,10,4,70,SF 10,0,TEN,
+14,2543,3,02:10,"(2:10) (Shotgun) PENALTY on SF-M.Iupati, False Start, 5 yards, enforced at SF 39 - No Play.",8,3,26,SF 39,0,SF,PENALTY
+14,2587,4,01:16,"(1:16) (Punt formation) A.Lee punts 58 yards to end zone, Center-K.McDermott, Touchback.",5,3,34,SF 42,0,SF,PUNT
+14,2472,1,03:26,(3:26) C.Kaepernick pass short right to F.Gore to SF 37 for 29 yards (M.Griffin). TEN-M.Griffin was injured during the play. His return is Questionable.,10,3,29,SF 8,0,SF,
+14,2522,2,02:46,(2:46) F.Gore right guard to SF 39 for 2 yards (R.Pitoitua).,10,3,31,SF 37,0,SF,
+14,2566,3,01:46,(1:46) (Shotgun) C.Kaepernick scrambles left end pushed ob at SF 42 for 8 yards (B.Pollard).,13,3,34,SF 34,0,SF,
+14,2496,1,02:52,(2:52) C.Kaepernick pass incomplete deep middle to V.McDonald.,10,3,29,SF 37,0,SF,
+17,3090,2,09:56,"(9:56) (No Huddle, Shotgun) J.Locker sacked at TEN 20 for -8 yards (J.Smith).",5,4,-3,TEN 28,0,TEN,
+17,3131,4,09:30,"(9:30) (Punt formation) B.Kern punts 36 yards to SF 44, Center-B.Brinkley, fair catch by K.Williams.",13,4,-3,TEN 20,0,TEN,PUNT
+17,3066,1,10:16,(10:16) (Shotgun) J.Locker pass short middle to D.Walker to TEN 28 for 5 yards (P.Willis).,10,4,5,TEN 23,0,TEN,
+17,3109,3,09:35,(9:35) J.Locker pass incomplete deep right to K.Wright [N.Bowman].,13,4,-3,TEN 20,0,TEN,
+16,2981,1,11:52,(11:52) C.Kaepernick sacked at SF 39 for -2 yards (J.Casey).,10,4,19,SF 41,0,SF,
+16,3021,3,10:28,(10:28) (Shotgun) C.Kaepernick pass incomplete short middle to V.Davis.,10,4,21,SF 41,0,SF,
+16,2930,0,12:23,"R.Bironas kicks 65 yards from TEN 35 to end zone, Touchback.",0,4,0,TEN 35,0,TEN,KICKOFF
+16,2949,1,12:23,"(12:23) F.Gore left tackle to SF 26 for 6 yards (J.Casey). PENALTY on TEN, Face Mask (15 Yards), 15 yards, enforced at SF 26.",10,4,21,SF 20,0,SF,PENALTY
+16,3043,4,10:24,"(10:24) (Punt formation) A.Lee punts 36 yards to TEN 23, Center-K.McDermott, out of bounds.",10,4,21,SF 41,0,SF,PUNT
+16,3000,2,11:12,(11:12) F.Gore right tackle to SF 41 for 2 yards (A.Ayers).,12,4,21,SF 39,0,SF,
+19,3286,1,07:42,(7:42) (Shotgun) J.Locker pass short left to K.Wright to TEN 34 for 20 yards (E.Reid; C.Spillman). SF-E.Reid was injured during the play. His return is Questionable.,10,4,20,TEN 14,0,TEN,
+19,3313,1,07:20,"(7:20) (Shotgun) J.Locker pass short left to C.Johnson for 66 yards, TOUCHDOWN.",10,4,86,TEN 34,1,TEN,TD
+19,3334,0,07:07,"R.Bironas extra point is GOOD, Center-B.Brinkley, Holder-B.Kern.",0,4,86,SF 2,1,TEN,XP
+18,3197,3,07:53,"(7:53) C.Kaepernick pass short right to F.Gore ran ob at TEN 41 for 10 yards. Tennessee challenged the pass completion ruling, and the play was REVERSED. C.Kaepernick pass incomplete short right to F.Gore.",5,4,5,SF 49,0,SF,
+18,3263,4,07:49,"(7:49) (Punt formation) A.Lee punts 37 yards to TEN 14, Center-K.McDermott, fair catch by D.Reynaud.",5,4,5,SF 49,0,SF,PUNT
+18,3155,1,09:22,(9:22) F.Gore right guard to SF 49 for 5 yards (A.Ayers).,10,4,5,SF 44,0,SF,
+18,3176,2,08:37,(8:37) K.Hunter left guard to SF 49 for no gain (C.McCarthy).,5,4,5,SF 49,0,SF,

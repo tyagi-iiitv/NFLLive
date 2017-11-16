@@ -1,21 +1,21 @@
 drive,fds,result,penyds,ydsgained,numplays,postime
-9,0,End of Half,0,0,2,0:04
-18,1,Field Goal,-5,52,7,2:16
-6,4,Field Goal,15,45,10,4:34
-14,1,Fumble,-10,13,4,1:35
-7,1,Missed FG,0,59,6,1:41
-8,2,Field Goal,-15,64,13,4:24
-10,1,Punt,0,3,8,3:09
-19,1,Punt,-5,12,12,1:35
-12,3,Field Goal,5,53,9,4:06
-16,5,Field Goal,-5,76,19,5:43
 11,3,Touchdown,-15,92,10,3:08
-3,4,Touchdown,0,80,9,3:42
-17,3,Touchdown,0,60,11,4:38
-4,2,Field Goal,5,53,11,3:09
-2,4,Field Goal,0,78,14,6:58
-1,4,Touchdown,0,80,10,3:27
-5,0,Punt,-14,21,6,2:01
+10,1,Punt,0,3,8,3:09
 13,1,Punt,-15,36,10,2:39
+12,3,Field Goal,5,53,9,4:06
 15,1,Touchdown,0,5,4,0:12
+14,1,Fumble,-10,13,4,1:35
+17,3,Touchdown,0,60,11,4:38
+16,5,Field Goal,-5,76,19,5:43
+19,1,Punt,-5,12,12,1:35
+18,1,Field Goal,-5,52,7,2:16
 20,1,End of Game,0,24,5,0:59
+1,4,Touchdown,0,80,10,3:27
+3,4,Touchdown,0,80,9,3:42
+2,4,Field Goal,0,78,14,6:58
+5,0,Punt,-14,21,6,2:01
+4,2,Field Goal,5,53,11,3:09
+7,1,Missed FG,0,59,6,1:41
+6,4,Field Goal,15,45,10,4:34
+9,0,End of Half,0,0,2,0:04
+8,2,Field Goal,-15,64,13,4:24

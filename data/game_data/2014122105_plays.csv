@@ -1,167 +1,167 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1199,1,09:25,,10,2,37,NYJ 44,0,NYJ,
-9,1318,3,07:17,,1,2,65,NE 27,0,NYJ,
-9,1339,1,06:40,,10,2,67,NE 22,0,NYJ,
-9,1130,3,11:20,,4,2,13,NYJ 19,0,NYJ,
-9,1360,2,06:03,,8,2,87,NE 20,1,NYJ,TD
-9,1154,1,10:37,,10,2,13,NYJ 26,0,NYJ,
-9,1246,1,08:54,,10,2,49,NE 36,0,NYJ,
-9,1065,0,12:10,,0,2,0,NE 35,0,NE,KICKOFF
-9,1087,1,12:04,,10,2,0,NYJ 13,0,NYJ,
-9,1109,2,11:59,,10,2,6,NYJ 13,0,NYJ,
-9,1223,2,08:54,,4,2,51,50,0,NYJ,
-9,1381,0,05:59,,0,2,87,NE 2,1,NYJ,XP
-9,1175,2,10:04,,10,2,31,NYJ 26,0,NYJ,
-9,1294,2,07:54,,12,2,60,NE 38,0,NYJ,
-10,1477,3,05:08,,2,2,8,NE 16,0,NE,
-10,1499,4,05:04,,2,2,8,NE 16,0,NE,PUNT
-10,1431,1,05:50,,10,2,0,NE 8,0,NE,
-10,1453,2,05:46,,10,2,8,NE 8,0,NE,
-10,1397,0,05:59,,0,2,0,NYJ 35,0,NYJ,KICKOFF
-20,3420,3,06:08,,4,4,-4,NE 24,0,NYJ,
-20,3377,1,07:18,,10,4,-4,NE 30,0,NYJ,
-20,3462,4,05:21,,14,4,-4,NE 34,0,NYJ,FGM
-20,3398,2,06:46,,6,4,-4,NE 26,0,NYJ,
-20,3439,0,05:21,,0,4,-4,,0,,TIMEOUT
-6,719,3,02:28,,14,1,24,NE 40,0,NE,
-6,581,2,06:14,,10,1,9,NE 8,0,NE,
-6,675,1,03:49,,10,1,28,NE 44,0,NE,
-6,694,2,03:04,,18,1,32,NE 36,0,NE,
-6,559,1,06:18,,10,1,0,NE 8,0,NE,
-6,605,3,05:30,,1,1,12,NE 17,0,NE,
-6,650,1,04:13,,10,1,36,NE 33,0,NE,
-6,739,4,01:52,,22,1,24,NE 32,0,NE,PUNT
-6,626,1,04:49,,10,1,25,NE 20,0,NE,
-18,3228,3,08:02,,17,4,59,NE 19,0,NYJ,
-18,3163,3,10:11,,8,4,66,NE 25,0,NYJ,
-18,3209,2,08:48,,8,4,59,NE 10,0,NYJ,
-18,3047,3,13:01,,8,4,10,NYJ 24,0,NYJ,
-18,3096,1,11:37,,10,4,51,NE 42,0,NYJ,
-18,3141,2,10:17,,8,4,53,NE 25,0,NYJ,
-18,3071,1,12:19,,10,4,36,NYJ 32,0,NYJ,
-18,3188,1,09:30,,10,4,68,NE 12,0,NYJ,
-18,3250,4,07:57,,17,4,59,NE 19,1,NYJ,FG
-18,3025,2,13:39,,10,4,2,NYJ 22,0,NYJ,
-18,3003,1,13:44,,10,4,0,NYJ 22,0,NYJ,
-18,3120,1,10:53,,10,4,53,NE 27,0,NYJ,
-18,2981,0,13:51,,0,4,0,NE 35,0,NE,KICKOFF
-1,100,3,13:49,,8,1,2,NYJ 18,0,NYJ,
-1,122,4,13:43,,8,1,2,NYJ 18,0,NYJ,PUNT
-1,58,1,14:55,,10,1,1,NYJ 16,0,NYJ,
-1,79,2,14:26,,9,1,2,NYJ 17,0,NYJ,
-1,36,0,15:00,,0,1,0,NE 35,0,NE,KICKOFF
-5,476,1,08:11,,10,1,2,NYJ 45,0,NYJ,
-5,518,3,07:08,,8,1,8,NYJ 47,0,NYJ,
-5,539,4,06:29,,2,1,8,NE 47,0,NYJ,PUNT
-5,497,2,07:41,,8,1,2,NYJ 47,0,NYJ,
-13,2002,2,13:11,,11,3,9,NE 30,0,NE,
-13,2057,4,13:00,,11,3,9,NE 30,0,NE,PUNT
-13,1981,1,13:49,,10,3,9,NE 31,0,NE,
-13,1931,1,14:54,,10,3,3,NE 21,0,NE,
-13,1955,2,14:30,,7,3,9,NE 24,0,NE,
-13,2024,3,13:07,,11,3,9,NE 30,0,NE,
-13,1909,0,15:00,,0,3,0,NYJ 35,0,NYJ,KICKOFF
-21,3806,3,00:39,,11,4,46,NYJ 11,0,NE,
-21,3740,3,01:55,,1,4,50,NYJ 25,0,NE,
-21,3510,2,04:42,,7,4,3,NE 45,0,NE,
-21,3484,1,05:16,,10,4,3,NE 42,0,NE,
-21,3700,0,01:55,,0,4,33,,0,,TIMEOUT
-21,3677,2,02:00,,4,4,33,NYJ 28,0,NE,
-21,3556,1,04:03,,10,4,5,NYJ 48,0,NE,PENALTY
-21,3785,2,01:08,,10,4,47,NYJ 10,0,NE,
-21,3632,2,03:25,,8,4,24,NYJ 46,0,NE,
-21,3532,3,04:38,,7,4,30,NE 45,0,NE,TIMEOUT
-21,3728,0,02:00,,0,4,33,,0,,
-21,3764,1,01:41,,8,4,48,NYJ 8,0,NE,
-21,3717,0,01:55,,0,4,33,,0,,TIMEOUT
-21,3608,1,04:03,,15,4,12,NE 47,0,NE,
-21,3827,0,,,0,4,46,,0,,
-21,3656,1,02:41,,10,4,30,NYJ 34,0,NE,
-11,1762,3,01:00,,8,2,54,NE 13,0,NYJ,
-11,1783,0,00:55,,0,2,54,,0,,TIMEOUT
-11,1529,1,04:53,,10,2,54,NYJ 38,0,NYJ,
-11,1677,0,02:00,,0,2,22,,0,,
-11,1597,2,02:57,,12,2,15,NYJ 48,0,NYJ,
-11,1621,3,02:17,,7,2,20,NE 47,0,NYJ,PENALTY
-11,1718,1,01:16,,10,2,47,NE 15,0,NYJ,
-11,1552,2,04:19,,9,2,12,NYJ 39,0,NYJ,
-11,1654,1,02:09,,10,2,47,NE 42,0,NYJ,
-11,1794,0,01:10,,0,2,54,,0,,TIMEOUT
-11,1694,2,02:00,,8,2,47,NE 40,0,NYJ,
-11,1576,1,03:38,,10,2,10,50,0,NYJ,
-11,1741,2,01:10,,10,2,49,NE 15,0,NYJ,
-11,1807,4,00:52,,3,2,54,NE 8,1,NYJ,FG
-14,2163,1,11:28,,20,3,31,NYJ 44,0,NYJ,
-14,2088,1,12:53,,10,3,9,NYJ 29,0,NYJ,
-14,2226,1,09:36,,10,3,35,NE 36,0,NYJ,
-14,2247,2,08:54,,10,3,60,NE 36,0,NYJ,
-14,2131,1,11:49,,10,3,15,NE 46,0,NYJ,PENALTY
-14,2184,2,10:47,,4,3,33,NE 40,0,NYJ,
-14,2276,1,08:10,,10,3,60,NE 11,0,NYJ,
-14,2205,3,10:11,,2,3,35,NE 38,0,NYJ,
-14,2298,2,08:05,,10,3,60,NE 11,0,NYJ,
-14,2110,2,12:19,,1,3,25,NYJ 38,0,NYJ,
-14,2344,4,06:43,,4,3,66,NE 5,1,NYJ,FG
-14,2319,3,07:26,,10,3,66,NE 11,0,NYJ,
-8,895,2,14:11,,5,2,7,NYJ 31,0,NE,
-8,918,0,13:38,,0,2,7,,0,,TIMEOUT
-8,983,1,12:42,,10,2,33,NYJ 10,0,NE,PENALTY
-8,871,1,14:45,,10,2,5,NYJ 36,0,NE,
-8,1049,0,12:10,,0,2,36,NYJ 2,1,NE,XP
-8,1017,1,12:14,,3,2,36,NYJ 3,1,NE,TD
-8,935,3,13:38,,3,2,14,NYJ 29,0,NE,
-8,959,1,13:05,,10,2,26,NYJ 22,0,NE,
-19,3327,1,07:30,,15,4,-5,NE 19,0,NE,
-19,3270,0,07:53,,0,4,0,NYJ 35,0,NYJ,KICKOFF
-19,3350,2,07:26,,15,4,-5,NE 19,0,NE,INT
-19,3292,1,07:48,,10,4,-5,NE 24,0,NE,PENALTY
-12,1851,1,00:48,,10,2,-8,NE 17,0,NE,
-12,1828,0,00:52,,0,2,0,NYJ 35,0,NYJ,KICKOFF
-12,1891,0,,,0,2,-8,,0,,
-12,1870,2,00:04,,17,2,-8,NE 10,0,NE,
-16,2695,1,01:55,,10,3,0,NYJ 20,0,NYJ,
-16,2680,0,01:55,,0,3,0,NE 35,0,NE,KICKOFF
-16,2716,2,01:19,,10,3,0,NYJ 20,0,NYJ,INT
-7,829,0,,,0,1,8,,0,,
-7,805,3,00:19,,5,1,8,NYJ 15,0,NYJ,
-7,845,4,15:00,,2,2,8,NYJ 18,0,NYJ,PUNT
-7,760,1,01:38,,10,1,2,NYJ 10,0,NYJ,
-7,781,2,01:02,,8,1,5,NYJ 12,0,NYJ,
-3,241,1,11:39,,10,1,8,NYJ 24,0,NYJ,
-3,265,2,11:10,,2,1,21,NYJ 32,0,NYJ,
-3,338,3,10:02,,9,1,22,NYJ 46,0,NYJ,
-3,313,2,10:37,,10,1,22,NYJ 45,0,NYJ,
-3,291,1,10:43,,10,1,21,NYJ 45,0,NYJ,
-3,360,4,09:57,,9,1,22,NYJ 46,0,NYJ,PUNT
-17,2862,0,,,0,3,38,,0,,
-17,2837,3,00:10,,10,3,25,NYJ 23,0,NE,
-17,2878,1,15:00,,10,4,36,NYJ 13,0,NE,
-17,2899,1,14:24,,2,4,37,NYJ 2,0,NE,
-17,2815,2,00:15,,10,3,15,NYJ 23,0,NE,
-17,2938,0,13:51,,0,4,38,NYJ 2,1,NE,XP
-17,2748,1,01:08,,10,3,15,NYJ 38,0,NE,
-17,2793,1,00:19,,10,3,15,NYJ 23,0,NE,
-17,2920,2,13:56,,1,4,38,NYJ 1,1,NE,TD
-17,2769,2,00:36,,9,3,15,NYJ 37,0,NE,
-4,428,3,08:25,,8,1,2,NE 23,0,NE,
-4,386,1,09:44,,10,1,4,NE 21,0,NE,
-4,450,4,08:20,,8,1,2,NE 23,0,NE,PUNT
-4,407,2,09:05,,6,1,2,NE 25,0,NE,
-2,172,2,13:02,,4,1,7,NYJ 48,0,NE,
-2,148,1,13:33,,10,1,6,NE 46,0,NE,
-2,215,4,11:50,,16,1,-6,NE 40,0,NE,PUNT
-2,196,3,12:21,,3,1,-6,NYJ 47,0,NE,
-15,2660,4,01:58,,2,3,81,NYJ 6,1,NE,FG
-15,2364,0,06:39,,0,3,0,NYJ 35,0,NYJ,KICKOFF
-15,2593,1,03:11,,10,3,76,NYJ 14,0,NE,
-15,2522,2,04:13,,4,3,58,NYJ 44,0,NE,
-15,2548,1,03:58,,10,3,62,NYJ 29,0,NE,
-15,2617,2,02:47,,7,3,81,NYJ 11,0,NE,
-15,2569,2,03:34,,6,3,73,NYJ 25,0,NE,
-15,2477,3,05:10,,3,3,37,NE 38,0,NE,
-15,2638,3,02:05,,2,3,81,NYJ 6,0,NE,
-15,2456,2,05:28,,3,3,25,NE 38,0,NE,
-15,2386,1,06:33,,10,3,8,NE 13,0,NE,
-15,2432,1,05:41,,10,3,25,NE 31,0,NE,
-15,2407,2,06:04,,2,3,18,NE 21,0,NE,
-15,2501,1,04:46,,10,3,43,50,0,NE,
+20,3377,1,07:18,"(7:18) C.Johnson right tackle to NE 26 for 4 yards (S.Siliga, V.Wilfork).",10,4,-4,NE 30,0,NYJ,
+20,3398,2,06:46,"(6:46) (Shotgun) J.Conner right guard to NE 24 for 2 yards (V.Wilfork, S.Siliga).",6,4,-4,NE 26,0,NYJ,
+20,3420,3,06:08,(6:08) G.Smith sacked at NE 34 for -10 yards (D.Hightower).,4,4,-4,NE 24,0,NYJ,
+20,3462,4,05:21,"(5:21) N.Folk 52 yard field goal is No Good, Short, Center-T.Purdum, Holder-R.Quigley. Ball tipped by NE 75 -- Wilfork.",14,4,-4,NE 34,0,NYJ,FGM
+20,3439,0,05:21,Timeout #1 by NYJ at 05:21.,0,4,-4,,0,,TIMEOUT
+21,3700,0,01:55,Timeout #3 by NYJ at 01:55.,0,4,33,,0,,TIMEOUT
+21,3556,1,04:03,"(4:03) PENALTY on NE-M.Cannon, False Start, 5 yards, enforced at NYJ 48 - No Play.",10,4,5,NYJ 48,0,NE,PENALTY
+21,3717,0,01:55,Timeout #1 by NE at 01:55.,0,4,33,,0,,TIMEOUT
+21,3510,2,04:42,(4:42) (Shotgun) T.Brady pass incomplete short right to D.Amendola.,7,4,3,NE 45,0,NE,
+21,3764,1,01:41,(1:41) T.Brady kneels to NYJ 10 for -2 yards.,8,4,48,NYJ 8,0,NE,
+21,3785,2,01:08,(1:08) T.Brady kneels to NYJ 11 for -1 yards.,10,4,47,NYJ 10,0,NE,
+21,3827,0,,END GAME,0,4,46,,0,,
+21,3608,1,04:03,(4:03) (Shotgun) T.Brady pass short middle to D.Amendola to NYJ 46 for 7 yards (D.Davis).,15,4,12,NE 47,0,NE,
+21,3632,2,03:25,"(3:25) (Shotgun) T.Brady pass short left to D.Amendola to NYJ 34 for 12 yards (A.Allen, C.Pryor).",8,4,24,NYJ 46,0,NE,
+21,3484,1,05:16,"(5:16) B.Bolden up the middle to NE 45 for 3 yards (S.Richardson, C.Pryor).",10,4,3,NE 42,0,NE,
+21,3740,3,01:55,(1:55) C.Fleming reported in as eligible.  B.Bolden right end pushed ob at NYJ 8 for 17 yards (C.Pryor; D.Landry).,1,4,50,NYJ 25,0,NE,
+21,3532,3,04:38,"(4:38) (Shotgun) T.Brady pass short left to D.Amendola to NYJ 48 for 7 yards (D.Landry). New York Jets challenged the first down ruling, and the play was Upheld. The ruling on the field stands. (Timeout #2.)",7,4,30,NE 45,0,NE,TIMEOUT
+21,3728,0,02:00,Two-Minute Warning,0,4,33,,0,,
+21,3806,3,00:39,(:39) T.Brady kneels to NYJ 12 for -1 yards.,11,4,46,NYJ 11,0,NE,
+21,3656,1,02:41,"(2:41) B.Bolden left end to NYJ 28 for 6 yards (D.Davis, C.Pryor).",10,4,30,NYJ 34,0,NE,
+21,3677,2,02:00,(2:00) B.Bolden right tackle to NYJ 25 for 3 yards (D.Harrison).,4,4,33,NYJ 28,0,NE,
+1,100,3,13:49,(13:49) (Shotgun) G.Smith pass incomplete short right to J.Kerley.,8,1,2,NYJ 18,0,NYJ,
+1,122,4,13:43,"(13:43) R.Quigley punts 49 yards to NE 33, Center-T.Purdum. D.Amendola pushed ob at NE 46 for 13 yards (T.Reilly).",8,1,2,NYJ 18,0,NYJ,PUNT
+1,36,0,15:00,S.Gostkowski kicks 68 yards from NE 35 to NYJ -3. P.Harvin to NYJ 16 for 19 yards (A.Ayers).,0,1,0,NE 35,0,NE,KICKOFF
+1,79,2,14:26,(14:26) (Shotgun) G.Smith right tackle to NYJ 18 for 1 yard (V.Wilfork).,9,1,2,NYJ 17,0,NYJ,
+1,58,1,14:55,(14:55) C.Johnson right guard to NYJ 17 for 1 yard (A.Branch).,10,1,1,NYJ 16,0,NYJ,
+3,338,3,10:02,(10:02) (Shotgun) G.Smith pass incomplete short middle to E.Decker [Cha.Jones].,9,1,22,NYJ 46,0,NYJ,
+3,313,2,10:37,(10:37) Direct snap to P.Harvin.  P.Harvin left end to NYJ 46 for 1 yard (V.Wilfork; D.Hightower).,10,1,22,NYJ 45,0,NYJ,
+3,241,1,11:39,(11:39) G.Smith pass short right to E.Decker to NYJ 32 for 8 yards (B.Browner).,10,1,8,NYJ 24,0,NYJ,
+3,265,2,11:10,(11:10) C.Ivory right end pushed ob at NYJ 45 for 13 yards (D.McCourty).,2,1,21,NYJ 32,0,NYJ,
+3,360,4,09:57,"(9:57) R.Quigley punts 44 yards to NE 10, Center-T.Purdum. D.Amendola to NE 21 for 11 yards (C.Pryor).",9,1,22,NYJ 46,0,NYJ,PUNT
+3,291,1,10:43,(10:43) (Shotgun) G.Smith pass incomplete short left to P.Harvin.,10,1,21,NYJ 45,0,NYJ,
+2,215,4,11:50,"(11:50) R.Allen punts 50 yards to NYJ 10, Center-D.Aiken. J.Kerley to NYJ 24 for 14 yards (L.Ryan).",16,1,-6,NE 40,0,NE,PUNT
+2,196,3,12:21,(12:21) (Shotgun) T.Brady sacked at NE 40 for -13 yards (sack split by C.Pace and D.Harris).,3,1,-6,NYJ 47,0,NE,
+2,172,2,13:02,(13:02) T.Brady pass short right to R.Gronkowski to NYJ 47 for 1 yard (D.Walls).,4,1,7,NYJ 48,0,NE,
+2,148,1,13:33,(13:33) T.Brady pass short right to R.Gronkowski to NYJ 48 for 6 yards (D.Harris).,10,1,6,NE 46,0,NE,
+5,518,3,07:08,(7:08) (Shotgun) G.Smith scrambles up the middle to NE 47 for 6 yards (T.Wilson).,8,1,8,NYJ 47,0,NYJ,
+5,497,2,07:41,"(7:41) P.Harvin left end to NYJ 47 for no gain (Cha.Jones, J.Collins).",8,1,2,NYJ 47,0,NYJ,
+5,476,1,08:11,"(8:11) C.Ivory up the middle to NYJ 47 for 2 yards (S.Siliga, Cha.Jones).",10,1,2,NYJ 45,0,NYJ,
+5,539,4,06:29,"(6:29) R.Quigley punts 39 yards to NE 8, Center-T.Purdum, downed by NYJ-S.Hakim.",2,1,8,NE 47,0,NYJ,PUNT
+4,407,2,09:05,(9:05) J.Gray up the middle to NE 23 for -2 yards (C.Pace).,6,1,2,NE 25,0,NE,
+4,428,3,08:25,(8:25) (Shotgun) T.Brady pass incomplete short left to R.Gronkowski (M.Williams).,8,1,2,NE 23,0,NE,
+4,450,4,08:20,"(8:20) R.Allen punts 44 yards to NYJ 33, Center-D.Aiken. J.Kerley to NYJ 45 for 12 yards (M.Slater).",8,1,2,NE 23,0,NE,PUNT
+4,386,1,09:44,"(9:44) J.Gray left tackle to NE 25 for 4 yards (D.Harrison, M.Wilkerson).",10,1,4,NE 21,0,NE,
+7,845,4,15:00,"(15:00) R.Quigley punts 57 yards to NE 25, Center-T.Purdum. D.Amendola to NYJ 36 for 39 yards (Z.Sudfeld).",2,2,8,NYJ 18,0,NYJ,PUNT
+7,760,1,01:38,(1:38) C.Johnson up the middle to NYJ 12 for 2 yards (P.Chung).,10,1,2,NYJ 10,0,NYJ,
+7,829,0,,END QUARTER 1,0,1,8,,0,,
+7,781,2,01:02,(1:02) G.Smith pass short right to C.Johnson to NYJ 15 for 3 yards (D.Revis).,8,1,5,NYJ 12,0,NYJ,
+7,805,3,00:19,(:19) (Shotgun) G.Smith pass short right to P.Harvin to NYJ 18 for 3 yards (D.Revis).,5,1,8,NYJ 15,0,NYJ,
+6,605,3,05:30,(5:30) T.Brady up the middle to NE 20 for 3 yards (S.Richardson).,1,1,12,NE 17,0,NE,
+6,559,1,06:18,(6:18) T.Brady pass incomplete short left to B.LaFell (M.Williams).,10,1,0,NE 8,0,NE,
+6,626,1,04:49,(4:49) T.Brady pass short right to B.LaFell pushed ob at NE 33 for 13 yards (D.Davis).,10,1,25,NE 20,0,NE,
+6,694,2,03:04,(3:04) (Shotgun) T.Brady pass short right to B.LaFell to NE 40 for 4 yards (D.Harris).,18,1,32,NE 36,0,NE,
+6,581,2,06:14,(6:14) (Shotgun) T.Brady pass short middle to D.Amendola to NE 17 for 9 yards (D.Harris).,10,1,9,NE 8,0,NE,
+6,675,1,03:49,(3:49) T.Brady sacked at NE 36 for -8 yards (sack split by M.Wilkerson and Q.Coples).,10,1,28,NE 44,0,NE,
+6,650,1,04:13,(4:13) T.Brady pass short right to D.Amendola ran ob at NE 44 for 11 yards.,10,1,36,NE 33,0,NE,
+6,739,4,01:52,"(1:52) R.Allen punts 58 yards to NYJ 10, Center-D.Aiken, downed by NE-M.Butler.",22,1,24,NE 32,0,NE,PUNT
+6,719,3,02:28,(2:28) (Shotgun) T.Brady sacked at NE 32 for -8 yards (sack split by A.Allen and D.Davis).,14,1,24,NE 40,0,NE,
+9,1087,1,12:04,(12:04) (Shotgun) G.Smith pass incomplete short right to J.Amaro.,10,2,0,NYJ 13,0,NYJ,
+9,1199,1,09:25,(9:25) (Shotgun) G.Smith pass short right to Z.Sudfeld to 50 for 6 yards (D.McCourty).,10,2,37,NYJ 44,0,NYJ,
+9,1175,2,10:04,(10:04) (Shotgun) G.Smith pass short left to J.Kerley to NYJ 44 for 18 yards (B.Browner; L.Ryan).,10,2,31,NYJ 26,0,NYJ,
+9,1223,2,08:54,(8:54) (Shotgun) Direct snap to B.Powell.  B.Powell right tackle to NE 36 for 14 yards (R.Ninkovich; J.Collins). NYJ-N.Mangold was injured during the play.,4,2,51,50,0,NYJ,
+9,1154,1,10:37,(10:37) B.Powell right tackle to NYJ 26 for no gain (J.Collins; V.Wilfork).,10,2,13,NYJ 26,0,NYJ,
+9,1130,3,11:20,"(11:20) (Shotgun) G.Smith pass short right to B.Powell to NYJ 26 for 7 yards (Chr.Jones, D.Hightower).",4,2,13,NYJ 19,0,NYJ,
+9,1065,0,12:10,S.Gostkowski kicks 60 yards from NE 35 to NYJ 5. T.Graham to NYJ 13 for 8 yards (J.Casillas; N.Ebner).,0,2,0,NE 35,0,NE,KICKOFF
+9,1318,3,07:17,"(7:17) (Shotgun) C.Ivory right tackle to NE 22 for 5 yards (J.Collins, D.McCourty).",1,2,65,NE 27,0,NYJ,
+9,1360,2,06:03,"(6:03) G.Smith pass deep right to J.Cumberland for 20 yards, TOUCHDOWN.",8,2,87,NE 20,1,NYJ,TD
+9,1246,1,08:54,(8:54) C.Ivory right guard to NE 38 for -2 yards (J.Collins).,10,2,49,NE 36,0,NYJ,
+9,1339,1,06:40,"(6:40) (Shotgun) C.Ivory up the middle to NE 20 for 2 yards (R.Ninkovich, Cha.Jones).",10,2,67,NE 22,0,NYJ,
+9,1381,0,05:59,"N.Folk extra point is GOOD, Center-T.Purdum, Holder-R.Quigley.",0,2,87,NE 2,1,NYJ,XP
+9,1294,2,07:54,(7:54) (Shotgun) G.Smith pass short left to J.Kerley to NE 27 for 11 yards (L.Ryan).,12,2,60,NE 38,0,NYJ,
+9,1109,2,11:59,"(11:59) C.Ivory right end to NYJ 19 for 6 yards (D.McCourty, J.Collins).",10,2,6,NYJ 13,0,NYJ,
+8,959,1,13:05,(13:05) (Shotgun) T.Brady pass short left to S.Vereen to NYJ 10 for 12 yards (Q.Coples).,10,2,26,NYJ 22,0,NE,
+8,895,2,14:11,"(14:11) N.Solder reported in as eligible.  J.Gray right tackle to NYJ 29 for 2 yards (Q.Coples, K.Ellis).",5,2,7,NYJ 31,0,NE,
+8,983,1,12:42,"(12:42) N.Solder reported in as eligible.  B.Bolden left tackle to NYJ 7 for 3 yards (D.Davis). PENALTY on NYJ-K.Ellis, Illegal Use of Hands, 4 yards, enforced at NYJ 7.",10,2,33,NYJ 10,0,NE,PENALTY
+8,1049,0,12:10,"S.Gostkowski extra point is GOOD, Center-D.Aiken, Holder-R.Allen.",0,2,36,NYJ 2,1,NE,XP
+8,871,1,14:45,"(14:45) (Shotgun) T.Brady pass short left to B.LaFell to NYJ 31 for 5 yards (Q.Coples, D.Davis).",10,2,5,NYJ 36,0,NE,
+8,918,0,13:38,Timeout #1 by NYJ at 13:38.,0,2,7,,0,,TIMEOUT
+8,1017,1,12:14,"(12:14) (Shotgun) T.Brady pass short left to R.Gronkowski for 3 yards, TOUCHDOWN.",3,2,36,NYJ 3,1,NE,TD
+8,935,3,13:38,(13:38) (Shotgun) T.Brady pass short left to D.Amendola to NYJ 22 for 7 yards (D.Landry).,3,2,14,NYJ 29,0,NE,
+11,1783,0,00:55,Timeout #2 by NE at 00:55.,0,2,54,,0,,TIMEOUT
+11,1807,4,00:52,"(:52) N.Folk 26 yard field goal is GOOD, Center-T.Purdum, Holder-R.Quigley.",3,2,54,NE 8,1,NYJ,FG
+11,1621,3,02:17,"(2:17) (Shotgun) G.Smith pass incomplete deep right to P.Harvin. PENALTY on NE-L.Ryan, Illegal Contact, 5 yards, enforced at NE 47 - No Play.",7,2,20,NE 47,0,NYJ,PENALTY
+11,1552,2,04:19,(4:19) (Shotgun) G.Smith pass short right to P.Harvin to 50 for 11 yards (B.Browner).,9,2,12,NYJ 39,0,NYJ,
+11,1741,2,01:10,(1:10) C.Ivory right end to NE 13 for 2 yards (Cha.Jones; D.Hightower).,10,2,49,NE 15,0,NYJ,
+11,1794,0,01:10,Timeout #1 by NE at 01:10.,0,2,54,,0,,TIMEOUT
+11,1718,1,01:16,(1:16) (Shotgun) G.Smith pass incomplete short right to J.Kerley.,10,2,47,NE 15,0,NYJ,
+11,1694,2,02:00,(2:00) G.Smith pass deep middle to P.Harvin to NE 15 for 25 yards (D.Revis) [S.Siliga].,8,2,47,NE 40,0,NYJ,
+11,1576,1,03:38,(3:38) (Shotgun) C.Ivory left tackle to NYJ 48 for -2 yards (R.Ninkovich; L.Ryan).,10,2,10,50,0,NYJ,
+11,1597,2,02:57,(2:57) (Shotgun) G.Smith pass short middle to P.Harvin to NE 47 for 5 yards (R.Ninkovich).,12,2,15,NYJ 48,0,NYJ,
+11,1762,3,01:00,(1:00) (Shotgun) B.Powell up the middle to NE 8 for 5 yards (D.Hightower; R.Ninkovich).,8,2,54,NE 13,0,NYJ,
+11,1677,0,02:00,Two-Minute Warning,0,2,22,,0,,
+11,1529,1,04:53,"(4:53) Direct snap to C.Johnson.  C.Johnson up the middle to NYJ 39 for 1 yard (B.Browner, V.Wilfork).",10,2,54,NYJ 38,0,NYJ,
+11,1654,1,02:09,"(2:09) Direct snap to B.Powell.  B.Powell right tackle to NE 40 for 2 yards (A.Branch, S.Siliga).",10,2,47,NE 42,0,NYJ,
+10,1397,0,05:59,"N.Folk kicks 66 yards from NYJ 35 to NE -1. D.Amendola to NE 46 for 47 yards (D.Landry). PENALTY on NE-B.Bolden, Offensive Holding, 8 yards, enforced at NE 16.",0,2,0,NYJ 35,0,NYJ,KICKOFF
+10,1499,4,05:04,"(5:04) R.Allen punts 55 yards to NYJ 29, Center-D.Aiken. J.Kerley to NYJ 38 for 9 yards (M.Slater; N.Ebner).",2,2,8,NE 16,0,NE,PUNT
+10,1453,2,05:46,(5:46) (Shotgun) T.Brady pass short left to R.Gronkowski to NE 16 for 8 yards (M.Williams; D.Harris).,10,2,8,NE 8,0,NE,
+10,1477,3,05:08,(5:08) (Shotgun) T.Brady pass incomplete short left to B.LaFell.,2,2,8,NE 16,0,NE,
+10,1431,1,05:50,(5:50) T.Brady pass incomplete short left to J.Gray.,10,2,0,NE 8,0,NE,
+13,2002,2,13:11,"(13:11) T.Brady pass incomplete short left to R.Gronkowski (D.Davis, M.Wilkerson) [M.Wilkerson].",11,3,9,NE 30,0,NE,
+13,2057,4,13:00,"(13:00) R.Allen punts 56 yards to NYJ 14, Center-D.Aiken, fair catch by J.Kerley. PENALTY on NE, Personal Foul, 15 yards, enforced at NYJ 14.",11,3,9,NE 30,0,NE,PUNT
+13,1981,1,13:49,(13:49) J.Gray left tackle to NE 30 for -1 yards (D.Harris).,10,3,9,NE 31,0,NE,
+13,1955,2,14:30,(14:30) N.Solder reported in as eligible.  T.Brady pass short left to D.Amendola to NE 31 for 7 yards (M.Williams) [M.Wilkerson].,7,3,9,NE 24,0,NE,
+13,1931,1,14:54,(14:54) (Shotgun) T.Brady pass short right to D.Amendola to NE 24 for 3 yards (C.Pryor).,10,3,3,NE 21,0,NE,
+13,1909,0,15:00,"N.Folk kicks 67 yards from NYJ 35 to NE -2. D.Amendola to NE 21 for 23 yards (N.Bellore, T.Graham).",0,3,0,NYJ 35,0,NYJ,KICKOFF
+13,2024,3,13:07,"(13:07) (Shotgun) T.Brady pass incomplete short middle to R.Gronkowski. Penalty on NE-R.Gronkowski, Offensive Pass Interference, declined.",11,3,9,NE 30,0,NE,
+12,1851,1,00:48,(:48) (Shotgun) T.Brady sacked at NE 10 for -7 yards (sack split by S.Richardson and C.Pace).,10,2,-8,NE 17,0,NE,
+12,1828,0,00:52,N.Folk kicks 67 yards from NYJ 35 to NE -2. D.Amendola to NE 17 for 19 yards (N.Bellore).,0,2,0,NYJ 35,0,NYJ,KICKOFF
+12,1870,2,00:04,(:04) T.Brady kneels to NE 9 for -1 yards.,17,2,-8,NE 10,0,NE,
+12,1891,0,,END QUARTER 2,0,2,-8,,0,,
+15,2477,3,05:10,"(5:10) (Shotgun) T.Brady pass short left to T.Wright to 50 for 12 yards (M.Williams, D.Davis).",3,3,37,NE 38,0,NE,
+15,2569,2,03:34,(3:34) (Shotgun) T.Brady pass short left to B.LaFell to NYJ 14 for 11 yards (D.Landry; M.Williams).,6,3,73,NYJ 25,0,NE,
+15,2548,1,03:58,"(3:58) S.Vereen up the middle to NYJ 25 for 4 yards (Q.Coples, J.Babin).",10,3,62,NYJ 29,0,NE,
+15,2638,3,02:05,(2:05) (Shotgun) T.Brady pass incomplete short left to S.Vereen.,2,3,81,NYJ 6,0,NE,
+15,2522,2,04:13,(4:13) (Shotgun) S.Vereen right end pushed ob at NYJ 29 for 15 yards (D.Walls).,4,3,58,NYJ 44,0,NE,
+15,2432,1,05:41,(5:41) T.Brady pass short left to B.LaFell pushed ob at NE 38 for 7 yards (M.Williams).,10,3,25,NE 31,0,NE,
+15,2456,2,05:28,(5:28) S.Vereen left tackle to NE 38 for no gain (J.Babin).,3,3,25,NE 38,0,NE,
+15,2617,2,02:47,"(2:47) S.Vereen left guard to NYJ 6 for 5 yards (D.Harris, C.Pryor).",7,3,81,NYJ 11,0,NE,
+15,2593,1,03:11,(3:11) (Shotgun) T.Brady pass short right to R.Gronkowski to NYJ 11 for 3 yards (D.Landry; D.Harris).,10,3,76,NYJ 14,0,NE,
+15,2407,2,06:04,"(6:04) (Shotgun) T.Brady pass short left to R.Gronkowski to NE 31 for 10 yards (M.Williams, D.Davis).",2,3,18,NE 21,0,NE,
+15,2660,4,01:58,"(1:58) S.Gostkowski 24 yard field goal is GOOD, Center-D.Aiken, Holder-R.Allen.",2,3,81,NYJ 6,1,NE,FG
+15,2386,1,06:33,(6:33) S.Vereen left tackle to NE 21 for 8 yards (D.Harris; C.Pryor).,10,3,8,NE 13,0,NE,
+15,2364,0,06:39,"N.Folk kicks 65 yards from NYJ 35 to NE 0. D.Amendola to NE 13 for 13 yards (T.Graham, I.Enemkpali).",0,3,0,NYJ 35,0,NYJ,KICKOFF
+15,2501,1,04:46,"(4:46) S.Vereen right tackle to NYJ 44 for 6 yards (C.Pryor, D.Landry).",10,3,43,50,0,NE,
+14,2344,4,06:43,"(6:43) N.Folk 23 yard field goal is GOOD, Center-T.Purdum, Holder-R.Quigley.",4,3,66,NE 5,1,NYJ,FG
+14,2088,1,12:53,"(12:53) C.Ivory up the middle to NYJ 38 for 9 yards (D.Hightower, D.McCourty).",10,3,9,NYJ 29,0,NYJ,
+14,2276,1,08:10,(8:10) G.Smith pass incomplete short right to J.Kerley.,10,3,60,NE 11,0,NYJ,
+14,2205,3,10:11,"(10:11) (Shotgun) C.Johnson left guard to NE 36 for 2 yards (V.Wilfork, S.Siliga).",2,3,35,NE 38,0,NYJ,
+14,2131,1,11:49,"(11:49) (Shotgun) C.Johnson up the middle to NE 41 for 5 yards (D.Hightower; S.Siliga). PENALTY on NYJ-D.Freeman, Offensive Holding, 10 yards, enforced at NE 46 - No Play.",10,3,15,NE 46,0,NYJ,PENALTY
+14,2226,1,09:36,"(9:36) (Shotgun) C.Johnson left guard to NE 36 for no gain (S.Siliga, P.Chung).",10,3,35,NE 36,0,NYJ,
+14,2319,3,07:26,(7:26) (Shotgun) G.Smith pass short right to B.Powell pushed ob at NE 5 for 6 yards (J.Collins).,10,3,66,NE 11,0,NYJ,
+14,2298,2,08:05,"(8:05) B.Powell left tackle to NE 11 for no gain (P.Chung, D.Hightower).",10,3,60,NE 11,0,NYJ,
+14,2184,2,10:47,(10:47) (Shotgun) C.Johnson left guard to NE 38 for 2 yards (J.Collins).,4,3,33,NE 40,0,NYJ,
+14,2110,2,12:19,(12:19) (Shotgun) C.Ivory left end to NE 46 for 16 yards (J.Collins).,1,3,25,NYJ 38,0,NYJ,
+14,2247,2,08:54,"(8:54) G.Smith pass deep left to J.Kerley to NE 11 for 25 yards (J.Collins, P.Chung).",10,3,60,NE 36,0,NYJ,
+14,2163,1,11:28,"(11:28) C.Johnson up the middle to NE 40 for 16 yards (D.Harmon, D.Revis).",20,3,31,NYJ 44,0,NYJ,
+17,2815,2,00:15,(:15) (Shotgun) T.Brady pass incomplete short middle to R.Gronkowski.,10,3,15,NYJ 23,0,NE,
+17,2769,2,00:36,"(:36) T.Brady pass short right to B.LaFell pushed ob at NYJ 23 for 14 yards (D.Harris, D.Landry).",9,3,15,NYJ 37,0,NE,
+17,2899,1,14:24,"(14:24) J.Gray right tackle to NYJ 1 for 1 yard (D.Landry, D.Harrison).",2,4,37,NYJ 2,0,NE,
+17,2938,0,13:51,"S.Gostkowski extra point is GOOD, Center-D.Aiken, Holder-R.Allen.",0,4,38,NYJ 2,1,NE,XP
+17,2920,2,13:56,"(13:56) J.Gray right tackle for 1 yard, TOUCHDOWN. The Replay Official challenged the runner broke the plane ruling, and the play was Upheld. The ruling on the field stands.",1,4,38,NYJ 1,1,NE,TD
+17,2878,1,15:00,(15:00) (Shotgun) T.Brady scrambles right tackle to NYJ 2 for 11 yards (D.Davis).,10,4,36,NYJ 13,0,NE,
+17,2862,0,,END QUARTER 3,0,3,38,,0,,
+17,2793,1,00:19,(:19) (Shotgun) T.Brady pass incomplete short right to D.Amendola.,10,3,15,NYJ 23,0,NE,
+17,2837,3,00:10,(:10) (Shotgun) T.Brady pass short left to B.LaFell to NYJ 13 for 10 yards (M.Williams).,10,3,25,NYJ 23,0,NE,
+17,2748,1,01:08,(1:08) (Shotgun) T.Brady scrambles up the middle to NYJ 37 for 1 yard (Q.Coples).,10,3,15,NYJ 38,0,NE,
+16,2716,2,01:19,(1:19) G.Smith pass deep left intended for J.Amaro INTERCEPTED by J.Collins [Cha.Jones] at NYJ 40. J.Collins to NYJ 40 for no gain. Lateral to B.Browner to NYJ 38 for 2 yards (J.Kerley).,10,3,0,NYJ 20,0,NYJ,INT
+16,2695,1,01:55,"(1:55) C.Johnson left tackle to NYJ 20 for no gain (P.Chung, J.Collins).",10,3,0,NYJ 20,0,NYJ,
+16,2680,0,01:55,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",0,3,0,NE 35,0,NE,KICKOFF
+19,3350,2,07:26,(7:26) (Shotgun) T.Brady pass short left intended for B.LaFell INTERCEPTED by M.Williams [J.Babin] at NE 31. M.Williams to NE 30 for 1 yard (B.LaFell).,15,4,-5,NE 19,0,NE,INT
+19,3292,1,07:48,"(7:48) (Shotgun) T.Brady pass short left to S.Vereen pushed ob at NE 30 for 6 yards (D.Davis). PENALTY on NE, Illegal Formation, 5 yards, enforced at NE 24 - No Play.",10,4,-5,NE 24,0,NE,PENALTY
+19,3270,0,07:53,N.Folk kicks 60 yards from NYJ 35 to NE 5. D.Amendola pushed ob at NE 24 for 19 yards (Z.Sudfeld).,0,4,0,NYJ 35,0,NYJ,KICKOFF
+19,3327,1,07:30,(7:30) T.Brady pass incomplete short right to D.Amendola.,15,4,-5,NE 19,0,NE,
+18,3228,3,08:02,(8:02) (Shotgun) G.Smith pass incomplete short middle to J.Cumberland.,17,4,59,NE 19,0,NYJ,
+18,3141,2,10:17,(10:17) (Shotgun) G.Smith pass incomplete deep left to E.Decker (B.Browner).,8,4,53,NE 25,0,NYJ,
+18,3250,4,07:57,"(7:57) N.Folk 37 yard field goal is GOOD, Center-T.Purdum, Holder-R.Quigley.",17,4,59,NE 19,1,NYJ,FG
+18,2981,0,13:51,"S.Gostkowski kicks 61 yards from NE 35 to NYJ 4. T.Graham to NYJ 22 for 18 yards (A.Ayers, P.Chung).",0,4,0,NE 35,0,NE,KICKOFF
+18,3209,2,08:48,(8:48) (Shotgun) G.Smith sacked at NE 19 for -9 yards (S.Siliga).,8,4,59,NE 10,0,NYJ,
+18,3163,3,10:11,(10:11) (Shotgun) G.Smith pass short left to E.Decker to NE 12 for 13 yards (T.Wilson).,8,4,66,NE 25,0,NYJ,
+18,3071,1,12:19,(12:19) G.Smith pass short right to J.Conner to NE 42 for 26 yards (D.McCourty).,10,4,36,NYJ 32,0,NYJ,
+18,3120,1,10:53,"(10:53) (Shotgun) C.Johnson right tackle to NE 25 for 2 yards (L.Ryan, V.Wilfork).",10,4,53,NE 27,0,NYJ,
+18,3096,1,11:37,"(11:37) (Shotgun) G.Smith pass short middle to J.Cumberland to NE 27 for 15 yards (D.Hightower, D.McCourty).",10,4,51,NE 42,0,NYJ,
+18,3003,1,13:44,(13:44) (Shotgun) G.Smith pass incomplete short middle to J.Cumberland.,10,4,0,NYJ 22,0,NYJ,
+18,3188,1,09:30,"(9:30) (Shotgun) G.Smith scrambles up the middle to NE 10 for 2 yards (Cha.Jones, D.Hightower).",10,4,68,NE 12,0,NYJ,
+18,3025,2,13:39,"(13:39) (Shotgun) C.Ivory left tackle to NYJ 24 for 2 yards (V.Wilfork, S.Siliga).",10,4,2,NYJ 22,0,NYJ,
+18,3047,3,13:01,(13:01) (Shotgun) G.Smith pass short left to J.Cumberland to NYJ 32 for 8 yards (D.McCourty).,8,4,10,NYJ 24,0,NYJ,

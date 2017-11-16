@@ -1,214 +1,214 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1402,2,10:25,,13,2,21,DEN 17,0,DEN,
-9,1426,1,09:53,,10,2,21,DEN 41,0,DEN,
-9,1544,4,08:33,,20,2,11,DEN 31,1,DEN,TD
-9,1377,1,11:11,,15,2,-3,DEN 15,0,DEN,
-9,1316,0,11:41,,0,2,0,NE 35,0,NE,KICKOFF
-9,1343,1,11:37,,10,2,-5,DEN 20,0,DEN,PENALTY
-9,1447,2,09:12,,10,2,11,DEN 41,0,DEN,PENALTY
-9,1505,0,08:38,,0,2,11,,0,,TIMEOUT
-9,1522,3,08:38,,20,2,11,DEN 31,0,DEN,
-9,1482,2,08:42,,20,2,11,DEN 31,0,DEN,
-24,4449,4,08:52,,5,4,33,DEN 48,0,DEN,
-24,4380,1,09:44,,10,4,24,DEN 43,0,DEN,
-24,4402,2,09:35,,10,4,29,DEN 43,0,DEN,
-24,4350,1,10:23,,10,4,24,DEN 19,0,DEN,
-24,4427,3,08:57,,5,4,29,DEN 48,0,DEN,
-10,1603,0,08:11,,0,2,0,NE 35,0,NE,KICKOFF
-10,1762,2,06:32,,8,2,52,NE 48,0,DEN,
-10,1825,2,05:39,,10,2,52,NE 23,0,DEN,
-10,1716,2,07:19,,6,2,25,DEN 40,0,DEN,
-10,1786,1,05:44,,10,2,52,NE 23,0,DEN,
-10,1808,0,05:39,,0,2,52,,0,,TIMEOUT
-10,1695,1,07:45,,10,2,15,DEN 36,0,DEN,
-10,1869,4,05:30,,10,2,52,NE 23,0,DEN,FGM
-10,1741,1,06:56,,10,2,27,50,0,DEN,
-10,1671,1,08:08,,10,2,11,DEN 25,0,DEN,
-10,1847,3,05:34,,10,2,52,NE 23,0,DEN,
-20,3387,1,06:40,,10,3,38,DEN 41,0,DEN,
-20,3523,2,05:56,,10,3,72,NE 15,1,DEN,TD
-20,3362,1,07:15,,10,3,13,DEN 28,0,DEN,
-20,3445,1,06:05,,10,3,52,NE 25,0,DEN,PENALTY
-20,3302,0,07:27,,0,3,0,NE 35,0,NE,PENALTY
-20,3501,1,06:00,,10,3,57,NE 15,0,DEN,
-20,3468,1,06:05,,5,3,57,NE 20,0,DEN,PENALTY
-20,3339,0,07:21,,0,3,0,NE 30,0,NE,KICKOFF
-20,3412,1,06:10,,10,3,47,NE 34,0,DEN,PENALTY
-20,3553,0,05:50,,0,3,72,NE 2,1,DEN,XP
-6,969,3,01:15,,10,1,61,DEN 28,0,NE,
-6,830,1,03:23,,10,1,24,NE 42,0,NE,
-6,947,2,01:19,,10,1,50,DEN 28,0,NE,
-6,806,1,03:49,,10,1,20,NE 22,0,NE,
-6,1082,4,14:23,,4,2,67,DEN 11,1,NE,FG
-6,1035,2,15:00,,11,2,67,DEN 18,0,NE,
-6,784,0,03:54,,0,1,0,DEN 35,0,DEN,KICKOFF
-6,998,1,00:35,,10,1,60,DEN 17,0,NE,
-6,926,1,01:42,,10,1,50,DEN 28,0,NE,
-6,905,2,02:09,,3,1,50,DEN 34,0,NE,
-6,855,2,02:56,,6,1,37,NE 46,0,NE,
-6,1060,3,14:28,,4,2,67,DEN 11,0,NE,
-6,880,1,02:34,,10,1,44,DEN 41,0,NE,
-27,4887,1,03:04,,10,4,13,NE 26,0,NE,
-27,5074,0,01:54,,0,4,28,,0,,TIMEOUT
-27,4930,0,02:15,,0,4,15,,0,,TIMEOUT
-27,5053,3,02:00,,5,4,28,DEN 45,0,NE,
-27,4993,0,02:06,,0,4,23,,0,,TIMEOUT
-27,5010,2,02:06,,11,4,29,NE 49,0,NE,
-27,4947,2,02:15,,8,4,23,NE 41,0,NE,
-27,5036,0,02:00,,0,4,29,,0,,
-27,4909,1,02:20,,10,4,15,NE 39,0,NE,
-27,4972,1,02:10,,10,4,23,50,0,NE,
-27,5091,4,01:54,,6,4,28,DEN 46,0,NE,PUNT
-18,3235,1,07:46,,10,3,0,DEN 20,0,DEN,INT
-18,3220,0,07:46,,0,3,0,NE 35,0,NE,KICKOFF
-28,5152,1,00:28,,10,4,18,DEN 30,0,DEN,
-28,5173,0,,,0,4,18,,0,,
-28,5130,2,01:07,,7,4,10,DEN 23,0,DEN,
-28,5108,1,01:42,,10,4,3,DEN 20,0,DEN,
-26,4798,2,04:33,,15,4,49,NE 40,0,DEN,
-26,4775,2,04:33,,10,4,45,NE 35,0,DEN,PENALTY
-26,4659,2,05:24,,4,4,35,DEN 41,0,DEN,
-26,4848,0,03:10,,0,4,59,,0,,TIMEOUT
-26,4706,2,04:50,,10,4,35,50,0,DEN,
-26,4728,3,04:44,,10,4,50,50,0,DEN,
-26,4753,1,04:38,,10,4,50,NE 35,0,DEN,
-26,4684,1,04:54,,10,4,35,50,0,DEN,
-26,4823,3,03:51,,11,4,59,NE 36,0,DEN,
-26,4598,1,06:13,,10,4,20,DEN 15,0,DEN,PENALTY
-26,4634,1,05:53,,10,4,26,DEN 35,0,DEN,
-26,4865,4,03:09,,1,4,59,NE 26,0,DEN,
-25,4499,2,08:01,,1,4,9,DEN 43,0,NE,
-25,4578,4,06:22,,5,4,5,DEN 47,0,NE,PUNT
-25,4541,4,06:32,,1,4,5,DEN 43,0,NE,PENALTY
-25,4473,1,08:43,,10,4,9,NE 48,0,NE,
-25,4520,3,07:21,,1,4,9,DEN 43,0,NE,
-1,71,2,14:11,,10,1,3,DEN 20,0,DEN,
-1,115,3,13:05,,12,1,3,DEN 18,0,DEN,
-1,92,3,13:24,,7,1,-2,DEN 23,0,DEN,PENALTY
-1,50,1,15:00,,10,1,0,DEN 20,0,DEN,
-1,35,0,15:00,,0,1,0,NE 35,0,NE,KICKOFF
-1,140,4,12:23,,7,1,3,DEN 23,0,DEN,PUNT
-5,522,1,07:09,,10,1,7,DEN 20,0,DEN,
-5,768,0,03:54,,0,1,80,NE 2,1,DEN,XP
-5,644,2,04:38,,10,1,67,NE 31,0,DEN,
-5,713,3,04:03,,10,1,79,NE 13,0,DEN,PENALTY
-5,597,2,05:43,,6,1,49,DEN 48,0,DEN,
-5,691,2,04:08,,10,1,67,NE 13,0,DEN,
-5,547,2,06:38,,3,1,24,DEN 27,0,DEN,
-5,507,0,07:09,,0,1,0,NE 35,0,NE,KICKOFF
-5,572,1,06:17,,10,1,28,DEN 44,0,DEN,
-5,622,1,05:09,,10,1,49,NE 31,0,DEN,
-5,669,1,04:12,,10,1,67,NE 13,0,DEN,
-5,746,1,03:58,,1,1,80,NE 1,1,DEN,TD
-13,2533,0,00:08,,0,2,57,DEN 2,1,NE,XP
-13,2267,1,01:55,,10,2,10,NE 49,0,NE,
-13,2489,2,00:33,,5,2,57,DEN 5,0,NE,
-13,2234,2,01:58,,9,2,6,NE 44,0,NE,PENALTY
-13,2375,1,00:44,,10,2,52,DEN 23,0,NE,
-13,2217,0,01:58,,0,2,1,,0,,TIMEOUT
-13,2179,1,02:05,,10,2,1,NE 43,0,NE,
-13,2513,3,00:11,,5,2,57,DEN 5,1,NE,TD
-13,2417,1,00:38,,5,2,52,DEN 5,0,NE,
-13,2400,0,00:38,,0,2,52,,0,,TIMEOUT
-13,2312,1,01:14,,10,2,8,DEN 38,0,NE,PENALTY
-13,2345,2,01:11,,21,2,34,DEN 49,0,NE,
-13,2288,2,01:36,,6,2,19,DEN 47,0,NE,
-21,3884,1,00:32,,10,3,55,DEN 32,0,NE,
-21,3585,1,05:50,,10,3,6,NE 20,0,NE,
-21,3569,0,05:50,,0,3,0,DEN 35,0,DEN,KICKOFF
-21,3628,3,05:15,,4,3,10,NE 26,0,NE,PENALTY
-21,3993,1,14:00,,1,4,80,DEN 1,1,NE,TD
-21,3837,2,01:44,,8,3,34,DEN 43,0,NE,
-21,3723,1,03:36,,10,3,55,NE 41,0,NE,
-21,3859,3,01:15,,11,3,48,DEN 46,0,NE,
-21,4013,0,13:57,,0,4,80,DEN 2,0,NE,2PPF
-21,3812,1,02:09,,10,3,37,DEN 45,0,NE,
-21,3782,2,02:45,,9,3,35,NE 42,0,NE,
-21,3652,1,05:15,,10,3,10,NE 30,0,NE,
-21,3698,3,04:09,,7,3,21,NE 33,0,NE,
-21,3905,0,,,0,3,55,,0,,
-21,3747,2,03:09,,4,3,22,NE 47,0,NE,PENALTY
-21,3606,2,05:19,,4,3,6,NE 26,0,NE,
-21,3947,1,14:38,,10,4,80,DEN 21,0,NE,TIMEOUT
-21,3926,2,15:00,,3,4,59,DEN 25,0,NE,
-21,3673,2,04:46,,10,3,13,NE 30,0,NE,
-23,4313,4,10:34,,6,4,4,NE 13,0,NE,PUNT
-23,4266,2,11:16,,10,4,0,NE 9,0,NE,
-23,4288,3,11:12,,10,4,4,NE 9,0,NE,
-23,4221,1,11:20,,10,4,0,NE 9,0,NE,
-11,1936,3,05:00,,1,2,9,NE 40,0,NE,
-11,1889,1,05:25,,10,2,0,NE 31,0,NE,
-11,1911,2,05:21,,10,2,9,NE 31,0,NE,
-11,1962,4,04:54,,1,2,9,NE 40,0,NE,PUNT
-14,2573,1,00:02,,10,2,-1,DEN 21,0,DEN,
-14,2550,0,00:08,,0,2,0,NE 35,0,NE,KICKOFF
-8,1280,1,11:45,,5,2,34,DEN 5,1,NE,TD
-8,1246,1,11:50,,10,2,34,DEN 10,0,NE,PENALTY
-8,1222,1,12:37,,10,2,24,DEN 23,0,NE,
-8,1198,2,13:09,,10,2,11,DEN 34,0,NE,
-8,1177,1,13:34,,10,2,0,DEN 34,0,NE,
-8,1300,0,11:41,,0,2,34,DEN 2,1,NE,XP
-19,3264,1,07:31,,10,3,10,DEN 10,1,NE,TD
-19,3286,0,07:27,,0,3,10,DEN 2,1,NE,XP
-22,4199,4,11:25,,8,4,72,NE 8,0,DEN,
-22,4103,2,12:40,,8,4,71,NE 37,0,DEN,
-22,4177,3,11:28,,8,4,72,NE 8,0,DEN,
-22,4133,1,12:12,,9,4,72,NE 9,0,DEN,
-22,4058,1,13:51,,10,4,72,DEN 20,0,DEN,
-22,4155,2,11:33,,8,4,72,NE 8,0,DEN,
-22,4082,1,13:19,,10,4,43,NE 39,0,DEN,
-22,4036,0,13:57,,0,4,0,NE 35,0,NE,KICKOFF
-12,2052,2,03:37,,4,2,29,NE 47,0,DEN,
-12,2099,2,02:59,,10,2,33,NE 38,0,DEN,
-12,2006,2,04:23,,4,2,14,DEN 39,0,DEN,
-12,2143,0,02:09,,0,2,33,,0,,TIMEOUT
-12,1981,1,04:46,,10,2,6,DEN 33,0,DEN,
-12,2030,1,03:58,,10,2,20,DEN 47,0,DEN,
-12,2121,3,02:14,,6,2,33,NE 34,0,DEN,
-12,2077,1,03:07,,10,2,29,NE 38,0,DEN,
-12,2160,4,02:09,,6,2,24,NE 34,0,DEN,
-16,2913,0,11:06,,0,3,57,NE 2,1,DEN,XP
-16,2847,1,12:10,,10,3,38,NE 26,0,DEN,
-16,2798,2,13:24,,10,3,4,DEN 43,0,DEN,
-16,2776,1,13:30,,10,3,0,DEN 43,0,DEN,
-16,2822,3,12:52,,6,3,31,DEN 47,0,DEN,
-16,2872,2,11:44,,3,3,39,NE 19,0,DEN,
-16,2893,3,11:11,,2,3,57,NE 18,1,DEN,TD
-7,1101,0,14:19,,0,2,0,NE 35,0,NE,KICKOFF
-7,1148,1,13:42,,10,2,14,DEN 35,0,DEN,INT
-7,1123,1,14:14,,10,2,14,DEN 21,0,DEN,
-3,318,1,10:19,,10,1,2,DEN 20,0,DEN,
-3,363,3,09:12,,11,1,-1,DEN 19,0,DEN,
-3,339,2,09:55,,8,1,-1,DEN 22,0,DEN,
-3,385,4,09:07,,11,1,-1,DEN 19,0,DEN,PUNT
-17,2977,1,10:32,,10,3,15,NE 35,0,NE,
-17,3201,4,07:51,,11,3,53,DEN 27,1,NE,FG
-17,3179,3,07:56,,11,3,53,DEN 27,0,NE,
-17,3110,4,08:53,,5,3,54,DEN 37,0,NE,
-17,2953,1,11:06,,10,3,15,NE 20,0,NE,
-17,3020,3,09:52,,8,3,38,NE 37,0,NE,
-17,3045,1,09:28,,10,3,43,DEN 42,0,NE,
-17,3135,1,08:53,,10,3,53,DEN 26,0,NE,
-17,2999,2,10:29,,10,3,17,NE 35,0,NE,
-17,3066,2,09:02,,5,3,43,DEN 37,0,NE,
-17,2929,0,11:06,,0,3,0,DEN 35,0,DEN,KICKOFF
-17,3088,3,08:58,,5,3,43,DEN 37,0,NE,
-17,3157,2,08:00,,11,3,53,DEN 27,0,NE,
-4,443,2,08:27,,7,1,4,DEN 36,0,NE,
-4,421,1,08:59,,10,1,3,DEN 39,0,NE,
-4,464,3,07:55,,6,1,8,DEN 35,0,NE,
-4,488,4,07:15,,2,1,8,DEN 31,1,NE,FG
-2,274,3,10:34,,10,1,19,NE 49,0,NE,
-2,230,1,10:43,,10,1,19,NE 49,0,NE,
-2,205,3,11:12,,1,1,19,NE 39,0,NE,
-2,252,2,10:39,,10,1,19,NE 49,0,NE,
-2,159,1,12:16,,10,1,19,NE 30,0,NE,
-2,183,2,11:46,,4,1,9,NE 36,0,NE,
-2,301,4,10:29,,10,1,19,NE 49,0,NE,PUNT
-15,2627,1,15:00,,10,3,18,NE 20,0,NE,
-15,2727,2,13:40,,10,3,26,NE 46,0,NE,
-15,2651,1,14:27,,10,3,18,NE 38,0,NE,
-15,2610,0,15:00,,0,3,0,DEN 35,0,DEN,KICKOFF
-15,2705,1,13:47,,10,3,26,NE 46,0,NE,
-15,2672,2,13:51,,10,3,26,NE 38,0,NE,PENALTY
-15,2749,3,13:35,,10,3,26,NE 46,0,NE,INT
+24,4449,4,08:52,(8:52) (Shotgun) P.Manning pass short right to E.Sanders to NE 48 for 4 yards (M.Butler).,5,4,33,DEN 48,0,DEN,
+24,4380,1,09:44,(9:44) (Shotgun) P.Manning pass incomplete short right to E.Sanders (M.Butler).,10,4,24,DEN 43,0,DEN,
+24,4350,1,10:23,(10:23) (Shotgun) P.Manning pass short left to C.Anderson to DEN 43 for 24 yards (D.McCourty).,10,4,24,DEN 19,0,DEN,
+24,4427,3,08:57,(8:57) (Shotgun) P.Manning pass incomplete deep right to E.Sanders.,5,4,29,DEN 48,0,DEN,
+24,4402,2,09:35,(9:35) (Shotgun) P.Manning pass short right to E.Sanders to DEN 48 for 5 yards (J.Collins).,10,4,29,DEN 43,0,DEN,
+25,4541,4,06:32,"(6:32) started in punt formation (Punt formation)  PENALTY on NE-S.Vollmer, False Start, 4 yards, enforced at DEN 43 - No Play.",1,4,5,DEN 43,0,NE,PENALTY
+25,4578,4,06:22,"(6:22) R.Allen punts 32 yards to DEN 15, Center-D.Aiken, fair catch by I.Burse.",5,4,5,DEN 47,0,NE,PUNT
+25,4473,1,08:43,(8:43) (Shotgun) S.Vereen up the middle to DEN 43 for 9 yards (R.Moore). DEN-N.Irving was injured during the play.,10,4,9,NE 48,0,NE,
+25,4499,2,08:01,(8:01) S.Vereen left guard to DEN 43 for no gain (C.Nelson).,1,4,9,DEN 43,0,NE,
+25,4520,3,07:21,(7:21) T.Brady up the middle to DEN 43 for no gain (T.Knighton).,1,4,9,DEN 43,0,NE,
+26,4706,2,04:50,(4:50) (Shotgun) P.Manning pass incomplete deep left to J.Tamme (D.Revis).,10,4,35,50,0,DEN,
+26,4684,1,04:54,(4:54) (Shotgun) P.Manning pass incomplete short left to C.Anderson.,10,4,35,50,0,DEN,
+26,4728,3,04:44,(4:44) (Shotgun) P.Manning pass short right to J.Thomas ran ob at NE 35 for 15 yards.,10,4,50,50,0,DEN,
+26,4753,1,04:38,(4:38) (Shotgun) P.Manning pass incomplete deep left to J.Tamme (P.Chung).,10,4,50,NE 35,0,DEN,
+26,4823,3,03:51,(3:51) (Shotgun) P.Manning pass short left to J.Tamme to NE 26 for 10 yards (M.Butler).,11,4,59,NE 36,0,DEN,
+26,4775,2,04:33,"(4:33) (Shotgun) PENALTY on DEN-E.Sanders, False Start, 5 yards, enforced at NE 35 - No Play.",10,4,45,NE 35,0,DEN,PENALTY
+26,4798,2,04:33,(4:33) (Shotgun) P.Manning pass short right to C.Anderson to NE 36 for 4 yards (R.Ninkovich).,15,4,49,NE 40,0,DEN,
+26,4634,1,05:53,(5:53) (Shotgun) P.Manning pass short left to D.Thomas to DEN 41 for 6 yards (D.Revis).,10,4,26,DEN 35,0,DEN,
+26,4848,0,03:10,Timeout #2 by NE at 03:10.,0,4,59,,0,,TIMEOUT
+26,4598,1,06:13,"(6:13) (Shotgun) P.Manning pass short right to C.Anderson to DEN 20 for 5 yards (P.Chung). PENALTY on NE-P.Chung, Face Mask (15 Yards), 15 yards, enforced at DEN 20.",10,4,20,DEN 15,0,DEN,PENALTY
+26,4659,2,05:24,(5:24) (Shotgun) P.Manning pass short left to D.Thomas to 50 for 9 yards (D.Revis).,4,4,35,DEN 41,0,DEN,
+26,4865,4,03:09,(3:09) (Shotgun) P.Manning pass incomplete deep right to E.Sanders.,1,4,59,NE 26,0,DEN,
+27,4909,1,02:20,(2:20) J.Gray right guard to NE 41 for 2 yards (M.Austin).,10,4,15,NE 39,0,NE,
+27,4930,0,02:15,Timeout #1 by DEN at 02:15.,0,4,15,,0,,TIMEOUT
+27,4947,2,02:15,"(2:15) T.Brady pass short left to R.Gronkowski pushed ob at 50 for 9 yards (C.Nelson). NE 87-Gronkowski 15th career 100-yard game, extends his Patriots record for a TE.",8,4,23,NE 41,0,NE,
+27,5074,0,01:54,Timeout #3 by DEN at 01:54.,0,4,28,,0,,TIMEOUT
+27,5036,0,02:00,Two-Minute Warning,0,4,29,,0,,
+27,5091,4,01:54,"(1:54) R.Allen punts 46 yards to end zone, Center-D.Aiken, Touchback.",6,4,28,DEN 46,0,NE,PUNT
+27,4887,1,03:04,(3:04) J.Gray up the middle to NE 39 for 13 yards (R.Moore).,10,4,13,NE 26,0,NE,
+27,4993,0,02:06,Timeout #2 by DEN at 02:06.,0,4,23,,0,,TIMEOUT
+27,5010,2,02:06,(2:06) J.Gray left end to DEN 45 for 6 yards (R.Moore).,11,4,29,NE 49,0,NE,
+27,4972,1,02:10,(2:10) J.Gray right tackle to NE 49 for -1 yards (M.Jackson; C.Nelson).,10,4,23,50,0,NE,
+27,5053,3,02:00,(2:00) J.Gray left end to DEN 46 for -1 yards (M.Jackson).,5,4,28,DEN 45,0,NE,
+20,3387,1,06:40,(6:40) (Shotgun) P.Manning pass short left to E.Sanders pushed ob at NE 34 for 25 yards (D.McCourty).,10,3,38,DEN 41,0,DEN,
+20,3553,0,05:50,"B.McManus extra point is GOOD, Center-A.Brewer, Holder-B.Colquitt.",0,3,72,NE 2,1,DEN,XP
+20,3445,1,06:05,"(6:05) (Shotgun) PENALTY on NE-B.Browner, Encroachment, 5 yards, enforced at NE 25 - No Play.",10,3,52,NE 25,0,DEN,PENALTY
+20,3501,1,06:00,"(6:00) (No Huddle, Shotgun) P.Manning pass incomplete short left to R.Hillman.",10,3,57,NE 15,0,DEN,
+20,3362,1,07:15,(7:15) (Shotgun) P.Manning pass short middle to R.Hillman to DEN 41 for 13 yards (D.Hightower).,10,3,13,DEN 28,0,DEN,
+20,3468,1,06:05,"(6:05) (Shotgun) P.Manning pass incomplete short left to J.Tamme (P.Chung). PENALTY on NE-B.Browner, Defensive Holding, 5 yards, enforced at NE 20 - No Play.",5,3,57,NE 20,0,DEN,PENALTY
+20,3412,1,06:10,"(6:10) (Shotgun) P.Manning pass incomplete short left to R.Hillman. PENALTY on NE-J.Collins, Defensive Pass Interference, 9 yards, enforced at NE 34 - No Play.",10,3,47,NE 34,0,DEN,PENALTY
+20,3523,2,05:56,"(5:56) (No Huddle, Shotgun) P.Manning pass short left to R.Hillman for 15 yards, TOUCHDOWN.",10,3,72,NE 15,1,DEN,TD
+20,3339,0,07:21,S.Gostkowski kicks 55 yards from NE 30 to DEN 15. E.Sanders to DEN 28 for 13 yards (L.Ryan).,0,3,0,NE 30,0,NE,KICKOFF
+20,3302,0,07:27,"S.Gostkowski kicks 65 yards from NE 35 to DEN 0. A.Caldwell MUFFS catch, and recovers at DEN 0. A.Caldwell to DEN 21 for 21 yards (C.White). PENALTY on NE-L.Ryan, Offside on Free Kick, 5 yards, enforced at NE 35 - No Play.",0,3,0,NE 35,0,NE,PENALTY
+21,3698,3,04:09,(4:09) (Shotgun) T.Brady pass short right to B.LaFell to NE 41 for 8 yards (A.Talib).,7,3,21,NE 33,0,NE,
+21,3628,3,05:15,"(5:15) (Shotgun) PENALTY on DEN-V.Miller, Defensive Offside, 4 yards, enforced at NE 26 - No Play.",4,3,10,NE 26,0,NE,PENALTY
+21,3837,2,01:44,(1:44) (Shotgun) S.Vereen up the middle to DEN 46 for -3 yards (B.Marshall).,8,3,34,DEN 43,0,NE,
+21,3926,2,15:00,(15:00) T.Brady up the middle to DEN 21 for 4 yards (D.Wolfe).,3,4,59,DEN 25,0,NE,
+21,3585,1,05:50,(5:50) S.Vereen right guard to NE 26 for 6 yards (B.Marshall; N.Irving).,10,3,6,NE 20,0,NE,
+21,3884,1,00:32,(:32) J.Gray right guard to DEN 25 for 7 yards (B.Marshall).,10,3,55,DEN 32,0,NE,
+21,3905,0,,END QUARTER 3,0,3,55,,0,,
+21,3747,2,03:09,"(3:09) T.Brady pass short left to M.Hoomanawanui to DEN 37 for 16 yards (R.Moore). PENALTY on NE-B.LaFell, Illegal Shift, 5 yards, enforced at NE 47 - No Play.",4,3,22,NE 47,0,NE,PENALTY
+21,3569,0,05:50,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback.",0,3,0,DEN 35,0,DEN,KICKOFF
+21,3947,1,14:38,"(14:38) (No Huddle) T.Brady pass deep middle to R.Gronkowski to DEN 1 for 20 yards (T.Ward). NE 12-Brady 62nd career 300-yard game, tying Brett Favre for 4th most all-time. New England challenged the runner was down by contact ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",10,4,80,DEN 21,0,NE,TIMEOUT
+21,4013,0,13:57,shotgun TWO-POINT CONVERSION ATTEMPT. T.Brady pass to J.Edelman is complete. ATTEMPT FAILS.,0,4,80,DEN 2,0,NE,2PPF
+21,3782,2,02:45,(2:45) (Shotgun) T.Brady pass short right to J.Edelman to DEN 45 for 13 yards (K.Webster).,9,3,35,NE 42,0,NE,
+21,3993,1,14:00,"(14:00) T.Brady pass short left to R.Gronkowski for 1 yard, TOUCHDOWN. NE 12-Brady 22nd career game with 4+ TD passes, passing Dan Marino for 4th most all-time. NE 87-Gronkowski 51st career TD, 2nd in franchise history (Morgan 68). NE 87-Gronkowski 50th career receiving TD, ties franchise record for TE (Ben Coates). NE 87-Groonkowski ties Moss for 2nd fastest to 50 TD receptions (59 games).",1,4,80,DEN 1,1,NE,TD
+21,3673,2,04:46,(4:46) T.Brady pass short left to J.Develin to NE 33 for 3 yards (B.Roby).,10,3,13,NE 30,0,NE,
+21,3859,3,01:15,(1:15) (Shotgun) T.Brady pass short middle to D.Amendola to DEN 32 for 14 yards (C.Harris).,11,3,48,DEN 46,0,NE,
+21,3723,1,03:36,"(3:36) T.Brady pass short left to J.Edelman pushed ob at NE 47 for 6 yards (R.Moore). NE 12-Brady 51,478 career pass yards, passing John Elway for 5th in NFL history.",10,3,55,NE 41,0,NE,
+21,3812,1,02:09,(2:09) (Shotgun) T.Brady pass short left to B.LaFell to DEN 43 for 2 yards (C.Harris).,10,3,37,DEN 45,0,NE,
+21,3652,1,05:15,(5:15) J.Gray right tackle to NE 30 for no gain (D.Ware).,10,3,10,NE 30,0,NE,
+21,3606,2,05:19,(5:19) (Shotgun) T.Brady pass incomplete short left to S.Vereen [V.Miller].,4,3,6,NE 26,0,NE,
+22,4082,1,13:19,"(13:19) (No Huddle, Shotgun) R.Hillman left end to NE 37 for 2 yards (D.Revis).",10,4,43,NE 39,0,DEN,
+22,4177,3,11:28,(11:28) (Shotgun) P.Manning pass incomplete short right to E.Sanders.,8,4,72,NE 8,0,DEN,
+22,4155,2,11:33,"(11:33) (No Huddle, Shotgun) P.Manning pass incomplete short middle to J.Tamme (P.Chung).",8,4,72,NE 8,0,DEN,
+22,4133,1,12:12,(12:12) (Shotgun) R.Hillman right end to NE 8 for 1 yard (R.Ninkovich; D.Jones).,9,4,72,NE 9,0,DEN,
+22,4058,1,13:51,"(13:51) (Shotgun) P.Manning pass deep middle to D.Thomas to NE 39 for 41 yards (B.Browner). DEN 88-D. Thomas 5th consecutive 100-yard game, extending his franchise record.",10,4,72,DEN 20,0,DEN,
+22,4103,2,12:40,"(12:40) (No Huddle, Shotgun) P.Manning pass deep right to E.Sanders ran ob at NE 9 for 28 yards.",8,4,71,NE 37,0,DEN,
+22,4036,0,13:57,S.Gostkowski kicks 53 yards from NE 35 to DEN 12. C.Latimer to DEN 20 for 8 yards (C.White).,0,4,0,NE 35,0,NE,KICKOFF
+22,4199,4,11:25,(11:25) (Shotgun) P.Manning pass incomplete short left to J.Tamme.,8,4,72,NE 8,0,DEN,
+23,4288,3,11:12,(11:12) (Shotgun) T.Brady pass short right to J.Edelman to NE 13 for 4 yards (B.Marshall).,10,4,4,NE 9,0,NE,
+23,4313,4,10:34,"(10:34) R.Allen punts 67 yards to DEN 20, Center-D.Aiken. I.Burse to DEN 39 for 19 yards (A.Ayers). PENALTY on DEN-R.Moore, Illegal Block Above the Waist, 10 yards, enforced at DEN 29.",6,4,4,NE 13,0,NE,PUNT
+23,4221,1,11:20,(11:20) ball spotted at NE 9 on change of possession T.Brady pass incomplete short right to S.Vereen.,10,4,0,NE 9,0,NE,
+23,4266,2,11:16,(11:16) T.Brady pass incomplete short left to B.LaFell (Q.Smith).,10,4,0,NE 9,0,NE,
+28,5173,0,,END GAME,0,4,18,,0,,
+28,5108,1,01:42,(1:42) (Shotgun) C.Anderson up the middle to DEN 23 for 3 yards (D.Easley).,10,4,3,DEN 20,0,DEN,
+28,5152,1,00:28,(:28) (Shotgun) C.Anderson right guard to DEN 38 for 8 yards (J.Collins).,10,4,18,DEN 30,0,DEN,
+28,5130,2,01:07,(1:07) (Shotgun) C.Anderson left guard to DEN 30 for 7 yards (J.Collins).,7,4,10,DEN 23,0,DEN,
+1,140,4,12:23,"(12:23) B.Colquitt punts 47 yards to NE 30, Center-A.Brewer, fair catch by D.Amendola.",7,1,3,DEN 23,0,DEN,PUNT
+1,50,1,15:00,(15:00) (Shotgun) R.Hillman left end to DEN 20 for no gain (K.Arrington; P.Chung).,10,1,0,DEN 20,0,DEN,
+1,35,0,15:00,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",0,1,0,NE 35,0,NE,KICKOFF
+1,115,3,13:05,(13:05) (Shotgun) P.Manning pass short right to E.Sanders to DEN 23 for 5 yards (J.Collins).,12,1,3,DEN 18,0,DEN,
+1,71,2,14:11,"(14:11) (No Huddle, Shotgun) R.Hillman right tackle to DEN 23 for 3 yards (P.Chung).",10,1,3,DEN 20,0,DEN,
+1,92,3,13:24,"(13:24) (Shotgun) PENALTY on DEN-P.Manning, Delay of Game, 5 yards, enforced at DEN 23 - No Play.",7,1,-2,DEN 23,0,DEN,PENALTY
+3,318,1,10:19,(10:19) (Shotgun) R.Hillman left tackle to DEN 22 for 2 yards (D.Hightower).,10,1,2,DEN 20,0,DEN,
+3,339,2,09:55,"(9:55) (No Huddle, Shotgun) P.Manning pass short left to R.Hillman to DEN 19 for -3 yards (J.Collins).",8,1,-1,DEN 22,0,DEN,
+3,363,3,09:12,(9:12) (Shotgun) P.Manning pass incomplete deep left to D.Thomas.,11,1,-1,DEN 19,0,DEN,
+3,385,4,09:07,"(9:07) B.Colquitt punts 35 yards to NE 46, Center-A.Brewer, fair catch by D.Amendola. PENALTY on DEN-K.Webster, Interference with Opportunity to Catch, 15 yards, enforced at NE 46.",11,1,-1,DEN 19,0,DEN,PUNT
+2,205,3,11:12,(11:12) T.Brady pass short left to J.Develin to NE 49 for 10 yards (T.Ward).,1,1,19,NE 39,0,NE,
+2,159,1,12:16,"(12:16) T.Brady pass short left to B.LaFell to NE 36 for 6 yards (V.Miller). NE 12-Brady 200th career NFL start, 8th player to reach that milestone.",10,1,19,NE 30,0,NE,
+2,301,4,10:29,"(10:29) R.Allen punts 51 yards to end zone, Center-D.Aiken, Touchback.",10,1,19,NE 49,0,NE,PUNT
+2,183,2,11:46,(11:46) (No Huddle) J.Gray right guard to NE 39 for 3 yards (N.Irving).,4,1,9,NE 36,0,NE,
+2,274,3,10:34,(10:34) (Shotgun) T.Brady pass incomplete deep middle to B.LaFell.,10,1,19,NE 49,0,NE,
+2,252,2,10:39,(10:39) (Shotgun) T.Brady pass incomplete short right to B.LaFell.,10,1,19,NE 49,0,NE,
+2,230,1,10:43,(10:43) T.Brady pass incomplete short middle to J.Gray.,10,1,19,NE 49,0,NE,
+5,622,1,05:09,"(5:09) (No Huddle, Shotgun) J.Thompson left tackle to NE 31 for no gain (V.Wilfork; J.Collins).",10,1,49,NE 31,0,DEN,
+5,768,0,03:54,"B.McManus extra point is GOOD, Center-A.Brewer, Holder-B.Colquitt.",0,1,80,NE 2,1,DEN,XP
+5,691,2,04:08,(4:08) (Shotgun) P.Manning pass incomplete short left to R.Hillman.,10,1,67,NE 13,0,DEN,
+5,669,1,04:12,(4:12) (Shotgun) P.Manning pass incomplete short right to W.Welker (P.Chung).,10,1,67,NE 13,0,DEN,
+5,597,2,05:43,(5:43) (Shotgun) P.Manning pass deep left to E.Sanders to NE 31 for 21 yards (D.Revis).,6,1,49,DEN 48,0,DEN,
+5,572,1,06:17,(6:17) (Shotgun) P.Manning pass short middle to R.Hillman to DEN 48 for 4 yards (P.Chung).,10,1,28,DEN 44,0,DEN,
+5,746,1,03:58,"(3:58) W.Montgomery and C.Clark reported in as eligible.  R.Hillman left end for 1 yard, TOUCHDOWN.",1,1,80,NE 1,1,DEN,TD
+5,713,3,04:03,"(4:03) (Shotgun) P.Manning pass incomplete short middle to D.Thomas (B.Browner). PENALTY on NE-B.Browner, Defensive Pass Interference, 12 yards, enforced at NE 13 - No Play.",10,1,79,NE 13,0,DEN,PENALTY
+5,547,2,06:38,(6:38) (Shotgun) P.Manning pass short left to E.Sanders pushed ob at DEN 44 for 17 yards (D.Hightower).,3,1,24,DEN 27,0,DEN,
+5,522,1,07:09,(7:09) (Shotgun) P.Manning pass short right to R.Hillman to DEN 27 for 7 yards (K.Arrington).,10,1,7,DEN 20,0,DEN,
+5,507,0,07:09,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",0,1,0,NE 35,0,NE,KICKOFF
+5,644,2,04:38,(4:38) (Shotgun) P.Manning pass deep right to D.Thomas pushed ob at NE 13 for 18 yards (D.Revis).,10,1,67,NE 31,0,DEN,
+4,421,1,08:59,(8:59) J.Gray right tackle to DEN 36 for 3 yards (A.Talib).,10,1,3,DEN 39,0,NE,
+4,443,2,08:27,(8:27) J.Gray up the middle to DEN 35 for 1 yard (D.Ware).,7,1,4,DEN 36,0,NE,
+4,488,4,07:15,"(7:15) S.Gostkowski 49 yard field goal is GOOD, Center-D.Aiken, Holder-R.Allen.",2,1,8,DEN 31,1,NE,FG
+4,464,3,07:55,(7:55) (Shotgun) T.Brady pass short left to J.Edelman to DEN 31 for 4 yards (C.Harris).,6,1,8,DEN 35,0,NE,
+7,1148,1,13:42,(13:42) (Shotgun) P.Manning pass short middle intended for D.Thomas INTERCEPTED by R.Ninkovich at DEN 45. R.Ninkovich to DEN 34 for 11 yards (E.Sanders). DEN-E.Sanders was injured during the play.,10,2,14,DEN 35,0,DEN,INT
+7,1123,1,14:14,(14:14) (Shotgun) P.Manning pass short right to W.Welker to DEN 35 for 14 yards (P.Chung).,10,2,14,DEN 21,0,DEN,
+7,1101,0,14:19,S.Gostkowski kicks 58 yards from NE 35 to DEN 7. A.Caldwell to DEN 21 for 14 yards (J.Casillas).,0,2,0,NE 35,0,NE,KICKOFF
+6,784,0,03:54,B.McManus kicks 65 yards from DEN 35 to NE 0. D.Amendola to NE 22 for 22 yards (O.Bolden).,0,1,0,DEN 35,0,DEN,KICKOFF
+6,855,2,02:56,"(2:56) (No Huddle, Shotgun) T.Brady pass short middle to J.Edelman to DEN 41 for 13 yards (T.Ward).",6,1,37,NE 46,0,NE,
+6,830,1,03:23,"(3:23) (No Huddle, Shotgun) T.Brady pass short left to S.Vereen to NE 46 for 4 yards (R.Moore).",10,1,24,NE 42,0,NE,
+6,880,1,02:34,(2:34) (No Huddle) T.Brady pass short middle to R.Gronkowski to DEN 34 for 7 yards (T.Ward).,10,1,44,DEN 41,0,NE,
+6,1082,4,14:23,"(14:23) S.Gostkowski 29 yard field goal is GOOD, Center-D.Aiken, Holder-R.Allen.",4,2,67,DEN 11,1,NE,FG
+6,905,2,02:09,(2:09) (No Huddle) S.Vereen up the middle to DEN 28 for 6 yards (N.Irving; D.Wolfe).,3,1,50,DEN 34,0,NE,
+6,947,2,01:19,"(1:19) (No Huddle, Shotgun) T.Brady pass incomplete short left.",10,1,50,DEN 28,0,NE,
+6,969,3,01:15,(1:15) (Shotgun) T.Brady pass short right to R.Gronkowski to DEN 17 for 11 yards (K.Webster) [V.Miller].,10,1,61,DEN 28,0,NE,
+6,998,1,00:35,(:35) (Shotgun) T.Brady sacked at DEN 18 for -1 yards (D.Ware).,10,1,60,DEN 17,0,NE,
+6,1060,3,14:28,(14:28) (Shotgun) T.Brady pass incomplete short middle to B.LaFell.,4,2,67,DEN 11,0,NE,
+6,806,1,03:49,(3:49) T.Brady pass short middle to R.Gronkowski to NE 42 for 20 yards (T.Ward).,10,1,20,NE 22,0,NE,
+6,926,1,01:42,(1:42) (No Huddle) S.Vereen up the middle to DEN 28 for no gain (D.Wolfe).,10,1,50,DEN 28,0,NE,
+6,1035,2,15:00,(15:00) (Shotgun) T.Brady pass short middle to J.Edelman to DEN 11 for 7 yards (T.Ward).,11,2,67,DEN 18,0,NE,
+9,1316,0,11:41,S.Gostkowski kicks 64 yards from NE 35 to DEN 1. A.Caldwell pushed ob at DEN 20 for 19 yards (J.Casillas).,0,2,0,NE 35,0,NE,KICKOFF
+9,1544,4,08:33,"(8:33) (Punt formation) B.Colquitt FUMBLES (Aborted) at DEN 19, and recovers at DEN 19. B.Colquitt punts 53 yards to NE 16. J.Edelman for 84 yards, TOUCHDOWN. Penalty on DEN, Ineligible Downfield Kick, declined. NE 11-Edelman 4th career punt return TD, new franchise record.",20,2,11,DEN 31,1,DEN,TD
+9,1522,3,08:38,(8:38) (Shotgun) P.Manning pass incomplete deep right to E.Sanders.,20,2,11,DEN 31,0,DEN,
+9,1426,1,09:53,"(9:53) (No Huddle, Shotgun) R.Hillman left guard to DEN 41 for no gain (D.Hightower).",10,2,21,DEN 41,0,DEN,
+9,1343,1,11:37,"(11:37) C.Clark reported in as eligible.  R.Hillman left guard to DEN 21 for 1 yard (J.Collins). PENALTY on DEN-A.Caldwell, Illegal Formation, 5 yards, enforced at DEN 20 - No Play.",10,2,-5,DEN 20,0,DEN,PENALTY
+9,1447,2,09:12,"(9:12) (Shotgun) P.Manning pass short right to W.Welker to DEN 48 for 7 yards (P.Chung). PENALTY on DEN-P.Cornick, Offensive Holding, 10 yards, enforced at DEN 41 - No Play.",10,2,11,DEN 41,0,DEN,PENALTY
+9,1482,2,08:42,(8:42) (Shotgun) P.Manning pass incomplete deep left to D.Thomas.,20,2,11,DEN 31,0,DEN,
+9,1377,1,11:11,(11:11) (Shotgun) P.Manning pass short left to D.Thomas to DEN 17 for 2 yards (J.Collins).,15,2,-3,DEN 15,0,DEN,
+9,1505,0,08:38,Timeout #1 by NE at 08:38.,0,2,11,,0,,TIMEOUT
+9,1402,2,10:25,(10:25) (Shotgun) P.Manning pass short left to D.Thomas to DEN 41 for 24 yards (P.Chung).,13,2,21,DEN 17,0,DEN,
+8,1177,1,13:34,(13:34) J.Gray left guard to DEN 34 for no gain (D.Wolfe).,10,2,0,DEN 34,0,NE,
+8,1198,2,13:09,(13:09) T.Brady pass short right to J.Edelman to DEN 23 for 11 yards (A.Talib).,10,2,11,DEN 34,0,NE,
+8,1300,0,11:41,"S.Gostkowski extra point is GOOD, Center-D.Aiken, Holder-R.Allen.",0,2,34,DEN 2,1,NE,XP
+8,1280,1,11:45,"(11:45) (Shotgun) T.Brady pass short middle to J.Edelman for 5 yards, TOUCHDOWN.",5,2,34,DEN 5,1,NE,TD
+8,1246,1,11:50,"(11:50) (Shotgun) T.Brady pass incomplete short middle to S.Vereen. PENALTY on DEN-N.Irving, Defensive Holding, 5 yards, enforced at DEN 10 - No Play.",10,2,34,DEN 10,0,NE,PENALTY
+8,1222,1,12:37,(12:37) T.Brady pass short left to R.Gronkowski to DEN 10 for 13 yards (R.Moore) [D.Ware].,10,2,24,DEN 23,0,NE,
+11,1911,2,05:21,(5:21) (Shotgun) T.Brady pass short middle to R.Gronkowski to NE 40 for 9 yards (R.Moore).,10,2,9,NE 31,0,NE,
+11,1936,3,05:00,(5:00) (No Huddle) T.Brady pass incomplete short right. thrown away from outside the pocket,1,2,9,NE 40,0,NE,
+11,1889,1,05:25,(5:25) T.Brady pass incomplete deep left to R.Gronkowski [S.Williams].,10,2,0,NE 31,0,NE,
+11,1962,4,04:54,"(4:54) R.Allen punts 27 yards to DEN 33, Center-D.Aiken, downed by NE-J.Casillas.",1,2,9,NE 40,0,NE,PUNT
+10,1716,2,07:19,(7:19) P.Manning pass short right to E.Sanders pushed ob at 50 for 10 yards (M.Butler).,6,2,25,DEN 40,0,DEN,
+10,1825,2,05:39,(5:39) (Shotgun) P.Manning pass incomplete short left to W.Welker (K.Arrington).,10,2,52,NE 23,0,DEN,
+10,1603,0,08:11,S.Gostkowski kicks 55 yards from NE 35 to DEN 10. A.Caldwell to DEN 25 for 15 yards (J.Casillas).,0,2,0,NE 35,0,NE,KICKOFF
+10,1847,3,05:34,(5:34) (Shotgun) P.Manning pass incomplete short left to W.Welker.,10,2,52,NE 23,0,DEN,
+10,1786,1,05:44,(5:44) (Shotgun) P.Manning pass incomplete short right to R.Hillman.,10,2,52,NE 23,0,DEN,
+10,1671,1,08:08,(8:08) (Shotgun) P.Manning pass short right to E.Sanders to DEN 36 for 11 yards (J.Collins).,10,2,11,DEN 25,0,DEN,
+10,1869,4,05:30,"(5:30) B.McManus 41 yard field goal is No Good, Hit Right Upright, Center-A.Brewer, Holder-B.Colquitt.",10,2,52,NE 23,0,DEN,FGM
+10,1695,1,07:45,(7:45) (No Huddle) R.Hillman left guard to DEN 40 for 4 yards (J.Collins).,10,2,15,DEN 36,0,DEN,
+10,1762,2,06:32,"(6:32) (No Huddle, Shotgun) P.Manning pass deep right to E.Sanders to NE 23 for 25 yards (M.Butler).",8,2,52,NE 48,0,DEN,
+10,1808,0,05:39,Timeout #1 by DEN at 05:39.,0,2,52,,0,,TIMEOUT
+10,1741,1,06:56,(6:56) (No Huddle) R.Hillman right guard to NE 48 for 2 yards (A.Ayers).,10,2,27,50,0,DEN,
+13,2288,2,01:36,"(1:36) (No Huddle, Shotgun) T.Brady pass short left to B.LaFell to DEN 38 for 9 yards (B.Roby).",6,2,19,DEN 47,0,NE,
+13,2345,2,01:11,(1:11) T.Brady pass deep right to J.Edelman to DEN 23 for 26 yards (A.Talib).,21,2,34,DEN 49,0,NE,
+13,2217,0,01:58,Timeout #3 by NE at 01:58.,0,2,1,,0,,TIMEOUT
+13,2417,1,00:38,"(:38) (Shotgun) T.Brady pass short right to J.Edelman for 5 yards, TOUCHDOWN. The Replay Official challenged the pass completion ruling, and the play was REVERSED. (Shotgun) T.Brady pass incomplete short right to J.Edelman.",5,2,52,DEN 5,0,NE,
+13,2489,2,00:33,(:33) (Shotgun) T.Brady pass short right to S.Vereen to DEN 5 for no gain (T.Ward).,5,2,57,DEN 5,0,NE,
+13,2312,1,01:14,"(1:14) (No Huddle, Shotgun) T.Brady pass incomplete short middle [V.Miller]. PENALTY on NE-T.Brady, Intentional Grounding, 11 yards, enforced at DEN 38.",10,2,8,DEN 38,0,NE,PENALTY
+13,2234,2,01:58,"(1:58) (Shotgun) T.Brady pass incomplete short right to R.Gronkowski. PENALTY on DEN-A.Talib, Defensive Holding, 5 yards, enforced at NE 44 - No Play.",9,2,6,NE 44,0,NE,PENALTY
+13,2400,0,00:38,Timeout #2 by DEN at 00:38.,0,2,52,,0,,TIMEOUT
+13,2533,0,00:08,"S.Gostkowski extra point is GOOD, Center-D.Aiken, Holder-R.Allen.",0,2,57,DEN 2,1,NE,XP
+13,2375,1,00:44,"(:44) (No Huddle, Shotgun) T.Brady pass short right to S.Vereen pushed ob at DEN 5 for 18 yards (A.Talib).",10,2,52,DEN 23,0,NE,
+13,2179,1,02:05,(2:05) S.Vereen right guard to NE 44 for 1 yard (A.Talib).,10,2,1,NE 43,0,NE,
+13,2267,1,01:55,(1:55) S.Vereen up the middle to DEN 47 for 4 yards (T.Ward).,10,2,10,NE 49,0,NE,
+13,2513,3,00:11,"(:11) (No Huddle, Shotgun) T.Brady pass short middle to S.Vereen for 5 yards, TOUCHDOWN.",5,2,57,DEN 5,1,NE,TD
+12,2121,3,02:14,(2:14) (Shotgun) P.Manning pass incomplete deep right to W.Welker.,6,2,33,NE 34,0,DEN,
+12,2052,2,03:37,"(3:37) (No Huddle, Shotgun) P.Manning pass short middle to W.Welker to NE 38 for 9 yards (J.Collins).",4,2,29,NE 47,0,DEN,
+12,1981,1,04:46,(4:46) (Shotgun) P.Manning pass short left to J.Thompson to DEN 39 for 6 yards (A.Ayers).,10,2,6,DEN 33,0,DEN,
+12,2099,2,02:59,(2:59) (Shotgun) P.Manning scrambles left guard to NE 34 for 4 yards (V.Wilfork).,10,2,33,NE 38,0,DEN,
+12,2006,2,04:23,"(4:23) (No Huddle, Shotgun) P.Manning pass short left to W.Welker to DEN 47 for 8 yards (P.Chung).",4,2,14,DEN 39,0,DEN,
+12,2030,1,03:58,(3:58) (No Huddle) J.Thompson left guard to NE 47 for 6 yards (D.Hightower).,10,2,20,DEN 47,0,DEN,
+12,2143,0,02:09,Timeout #2 by NE at 02:09.,0,2,33,,0,,TIMEOUT
+12,2077,1,03:07,"(3:07) (No Huddle, Shotgun) P.Manning pass incomplete deep right to E.Sanders.",10,2,29,NE 38,0,DEN,
+12,2160,4,02:09,(2:09) (Shotgun) P.Manning sacked at NE 43 for -9 yards (A.Ayers).,6,2,24,NE 34,0,DEN,
+15,2727,2,13:40,(13:40) (Shotgun) T.Brady pass incomplete deep left to S.Vereen (B.Roby).,10,3,26,NE 46,0,NE,
+15,2627,1,15:00,(15:00) T.Brady pass deep middle to B.LaFell to NE 38 for 18 yards (C.Harris).,10,3,18,NE 20,0,NE,
+15,2610,0,15:00,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback.",0,3,0,DEN 35,0,DEN,KICKOFF
+15,2705,1,13:47,(13:47) T.Brady pass incomplete deep middle to B.LaFell.,10,3,26,NE 46,0,NE,
+15,2651,1,14:27,(14:27) J.Gray right guard to NE 38 for no gain (D.Ware).,10,3,18,NE 38,0,NE,
+15,2672,2,13:51,"(13:51) (Shotgun) T.Brady pass incomplete short left to B.LaFell. PENALTY on DEN-B.Roby, Defensive Pass Interference, 8 yards, enforced at NE 38 - No Play.",10,3,26,NE 38,0,NE,PENALTY
+15,2749,3,13:35,(13:35) (Shotgun) T.Brady pass short left intended for D.Amendola INTERCEPTED by B.Roby [M.Jackson] at DEN 43. B.Roby to DEN 43 for no gain (J.Edelman).,10,3,26,NE 46,0,NE,INT
+14,2550,0,00:08,S.Gostkowski kicks 56 yards from NE 35 to DEN 9. O.Bolden to DEN 21 for 12 yards (B.Bolden).,0,2,0,NE 35,0,NE,KICKOFF
+14,2573,1,00:02,(:02) P.Manning kneels to DEN 20 for -1 yards.,10,2,-1,DEN 21,0,DEN,
+17,2929,0,11:06,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback.",0,3,0,DEN 35,0,DEN,KICKOFF
+17,2999,2,10:29,(10:29) (Shotgun) S.Vereen left guard to NE 37 for 2 yards (D.Wolfe).,10,3,17,NE 35,0,NE,
+17,3201,4,07:51,"(7:51) S.Gostkowski 45 yard field goal is GOOD, Center-D.Aiken, Holder-R.Allen.",11,3,53,DEN 27,1,NE,FG
+17,3088,3,08:58,(8:58) (Shotgun) T.Brady pass incomplete short right [C.Nelson].,5,3,43,DEN 37,0,NE,
+17,3020,3,09:52,(9:52) (Shotgun) T.Brady pass deep right to D.Amendola to DEN 42 for 21 yards (A.Talib).,8,3,38,NE 37,0,NE,
+17,3135,1,08:53,(8:53) (No Huddle) S.Vereen left tackle to DEN 27 for -1 yards (Q.Smith).,10,3,53,DEN 26,0,NE,
+17,3179,3,07:56,(7:56) T.Brady pass incomplete deep left to B.LaFell.,11,3,53,DEN 27,0,NE,
+17,3157,2,08:00,(8:00) (Shotgun) T.Brady pass incomplete short right to B.LaFell.,11,3,53,DEN 27,0,NE,
+17,3066,2,09:02,(9:02) (Shotgun) T.Brady pass incomplete short right to S.Vereen.,5,3,43,DEN 37,0,NE,
+17,3110,4,08:53,(8:53) (Shotgun) T.Brady pass short right to S.Vereen to DEN 26 for 11 yards (R.Moore).,5,3,54,DEN 37,0,NE,
+17,3045,1,09:28,(9:28) (No Huddle) S.Vereen right tackle to DEN 37 for 5 yards (B.Marshall).,10,3,43,DEN 42,0,NE,
+17,2977,1,10:32,(10:32) (Shotgun) T.Brady pass incomplete short right to S.Vereen.,10,3,15,NE 35,0,NE,
+17,2953,1,11:06,(11:06) (Shotgun) T.Brady pass short left to R.Gronkowski to NE 35 for 15 yards (N.Irving).,10,3,15,NE 20,0,NE,
+16,2872,2,11:44,(11:44) (Shotgun) R.Hillman up the middle to NE 18 for 1 yard (P.Chung; R.Ninkovich).,3,3,39,NE 19,0,DEN,
+16,2913,0,11:06,"B.McManus extra point is GOOD, Center-A.Brewer, Holder-B.Colquitt.",0,3,57,NE 2,1,DEN,XP
+16,2847,1,12:10,(12:10) (Shotgun) P.Manning pass short left to R.Hillman pushed ob at NE 19 for 7 yards (D.Hightower).,10,3,38,NE 26,0,DEN,
+16,2893,3,11:11,"(11:11) (Shotgun) P.Manning pass deep right to J.Thomas for 18 yards, TOUCHDOWN. DEN 18-Manning 47th straight game with a TD pass, tying Johnny Unitas for 3rd-longest streak all-time (Brees 54). DEN 80-J. Thomas 10th TD of season, 1st Broncos TE with back-to-back 10+ TD seasons.",2,3,57,NE 18,1,DEN,TD
+16,2798,2,13:24,"(13:24) (No Huddle, Shotgun) P.Manning pass short right to R.Hillman to DEN 47 for 4 yards (J.Collins).",10,3,4,DEN 43,0,DEN,
+16,2776,1,13:30,(13:30) (Shotgun) P.Manning pass incomplete short middle to D.Thomas.,10,3,0,DEN 43,0,DEN,
+16,2822,3,12:52,"(12:52) (No Huddle, Shotgun) P.Manning pass deep left to D.Thomas to NE 26 for 27 yards (D.McCourty; B.Browner).",6,3,31,DEN 47,0,DEN,
+19,3286,0,07:27,"S.Gostkowski extra point is GOOD, Center-D.Aiken, Holder-R.Allen.",0,3,10,DEN 2,1,NE,XP
+19,3264,1,07:31,"(7:31) (Shotgun) T.Brady pass short middle to B.LaFell for 10 yards, TOUCHDOWN.",10,3,10,DEN 10,1,NE,TD
+18,3220,0,07:46,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",0,3,0,NE 35,0,NE,KICKOFF
+18,3235,1,07:46,(7:46) (Shotgun) P.Manning pass deep right intended for W.Welker INTERCEPTED by B.Browner at DEN 40. B.Browner to DEN 10 for 30 yards (J.Thomas). DEN-W.Welker was injured during the play.,10,3,0,DEN 20,0,DEN,INT

@@ -1,191 +1,191 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,2031,0,,,0,2,-1,,0,,
-9,2010,1,00:05,,10,2,-1,SF 20,0,SF,
-18,4002,2,01:06,,10,4,38,NYG 40,0,NYG,
-18,4043,1,00:50,,10,4,38,SF 44,0,NYG,
-18,3939,1,01:19,,10,4,22,NYG 29,0,NYG,
-18,4172,1,00:30,,10,4,70,SF 20,0,NYG,PENALTY
-18,4131,3,00:40,,10,4,62,SF 44,0,NYG,
-18,4225,0,00:21,,0,4,82,SF 15,1,NYG,XP
-18,4109,2,00:45,,10,4,38,SF 44,0,NYG,
-18,3963,0,01:11,,0,4,22,,0,,TIMEOUT
-18,4026,0,00:50,,0,4,38,,0,,TIMEOUT
-18,4205,1,00:26,,10,4,82,SF 12,1,NYG,TD
-18,3980,1,01:11,,10,4,22,NYG 40,0,NYG,
-18,4155,0,00:30,,0,4,62,,0,,TIMEOUT
-18,3896,0,01:45,,0,4,0,SF 35,0,SF,KICKOFF
-18,3918,1,01:41,,10,4,11,NYG 18,0,NYG,
-6,1370,3,04:10,,4,2,43,SF 23,0,NYG,
-6,1346,2,04:44,,10,2,43,SF 29,0,NYG,
-6,1324,1,04:50,,10,2,37,SF 29,0,NYG,
-6,1233,2,06:54,,6,2,26,SF 46,0,NYG,
-6,1185,1,08:02,,10,2,16,NYG 34,0,NYG,
-6,1399,4,04:02,,4,2,43,SF 23,1,NYG,FG
-6,1209,1,07:29,,10,2,20,50,0,NYG,
-6,1300,3,05:24,,3,2,37,SF 33,0,NYG,
-6,1254,1,06:13,,10,2,26,SF 40,0,NYG,
-6,1276,2,06:07,,10,2,33,SF 40,0,NYG,
-14,2868,2,02:42,,6,3,35,SF 30,0,NYG,
-14,2916,1,01:27,,10,3,61,SF 17,1,NYG,TD
-14,2799,2,04:03,,5,3,12,NYG 44,0,NYG,
-14,2767,1,04:30,,10,3,5,NYG 39,0,NYG,
-14,2820,1,03:36,,10,3,27,SF 49,0,NYG,
-14,2936,0,01:14,,0,3,61,SF 15,1,NYG,XP
-14,2844,1,03:10,,10,3,31,SF 34,0,NYG,
-14,2892,3,02:01,,2,3,44,SF 26,0,NYG,
-7,1514,1,02:52,,10,2,29,SF 49,0,SF,
-7,1661,1,01:22,,10,2,67,NYG 13,0,SF,
-7,1729,4,01:05,,1,2,76,NYG 4,1,SF,FG
-7,1683,2,01:16,,10,2,76,NYG 13,0,SF,
-7,1433,1,03:57,,10,2,5,SF 20,0,SF,
-7,1707,3,01:11,,1,2,76,NYG 4,0,SF,
-7,1560,1,02:13,,10,2,52,NYG 34,0,SF,
-7,1623,3,01:56,,4,2,76,NYG 28,0,SF,FUMBLE
-7,1536,2,02:43,,10,2,46,SF 49,0,SF,
-7,1584,0,02:00,,0,2,52,,0,,
-7,1481,1,02:59,,10,2,29,SF 44,0,SF,PENALTY
-7,1601,2,02:00,,4,2,52,NYG 28,0,SF,
-7,1457,2,03:25,,5,2,24,SF 25,0,SF,
-7,1418,0,03:57,,0,2,0,NYG 35,0,NYG,KICKOFF
-8,1925,1,00:18,,10,2,66,SF 32,0,NYG,
-8,1908,0,00:18,,0,2,48,,0,,TIMEOUT
-8,1966,0,00:11,,0,2,66,,0,,TIMEOUT
-8,1949,0,00:11,,0,2,66,,0,,TIMEOUT
-8,1748,0,01:01,,0,2,0,SF 35,0,SF,KICKOFF
-8,1883,1,00:24,,10,2,48,50,0,NYG,
-8,1837,2,00:31,,10,2,30,NYG 36,0,NYG,
-8,1767,1,01:01,,10,2,30,NYG 20,0,NYG,
-8,1815,1,00:33,,10,2,16,NYG 36,0,NYG,
-8,1861,0,00:24,,0,2,26,,0,,TIMEOUT
-8,1983,1,00:11,,10,2,66,SF 14,0,NYG,INT
-8,1791,2,00:43,,6,2,16,NYG 24,0,NYG,
-10,2150,3,13:11,,8,3,33,NYG 48,0,NYG,PENALTY
-10,2128,2,13:15,,8,3,28,NYG 48,0,NYG,
-10,2214,4,13:03,,3,3,33,SF 47,0,NYG,PUNT
-10,2083,2,14:30,,8,3,26,NYG 22,0,NYG,
-10,2047,0,15:00,,0,3,0,SF 35,0,SF,KICKOFF
-10,2062,1,15:00,,10,3,2,NYG 20,0,NYG,
-10,2192,3,13:08,,3,3,33,SF 47,0,NYG,
-10,2107,1,13:47,,10,3,28,NYG 46,0,NYG,
-19,4289,2,00:11,,10,4,9,SF 22,0,SF,FUMBLE
-19,4311,3,00:04,,13,4,9,SF 19,0,SF,
-19,4335,0,,,0,4,9,,0,,
-19,4263,1,00:17,,10,4,0,SF 22,0,SF,
-19,4241,0,00:21,,0,4,0,NYG 35,0,NYG,KICKOFF
-12,2529,1,07:45,,17,3,-4,NYG 13,0,NYG,
-12,2606,4,06:04,,3,3,7,NYG 27,0,NYG,PUNT
-12,2482,0,08:00,,0,3,0,SF 35,0,SF,KICKOFF
-12,2554,2,07:19,,14,3,1,NYG 16,0,NYG,
-12,2582,3,06:43,,9,3,7,NYG 21,0,NYG,
-12,2497,1,08:00,,10,3,7,NYG 20,0,NYG,PENALTY
-16,3357,3,10:42,,1,4,25,NYG 30,0,NYG,
-16,3290,0,11:49,,0,4,0,SF 35,0,SF,KICKOFF
-16,3578,1,06:00,,10,4,65,SF 14,0,NYG,
-16,3312,1,11:44,,10,4,5,NYG 21,0,NYG,
-16,3495,2,07:32,,3,4,45,SF 24,0,NYG,PENALTY
-16,3336,2,11:16,,5,4,9,NYG 26,0,NYG,
-16,3530,2,07:16,,13,4,56,SF 34,0,NYG,
-16,3405,2,09:44,,2,4,37,SF 46,0,NYG,
-16,3600,2,05:54,,10,4,68,SF 14,0,NYG,
-16,3381,1,10:12,,10,4,33,NYG 46,0,NYG,
-16,3554,3,06:38,,2,4,65,SF 23,0,NYG,
-16,3426,1,09:11,,10,4,42,SF 42,0,NYG,
-16,3642,4,04:37,,1,4,74,SF 5,1,NYG,FG
-16,3621,3,05:14,,7,4,74,SF 11,0,NYG,
-16,3471,1,07:58,,10,4,55,SF 31,0,NYG,
-16,3447,2,08:40,,5,4,48,SF 37,0,NYG,
-11,2466,0,08:00,,0,3,88,NYG 15,1,SF,XP
-11,2383,2,09:52,,1,3,76,NYG 12,0,SF,
-11,2295,3,11:52,,2,3,45,SF 20,0,SF,
-11,2404,3,09:16,,1,3,84,NYG 12,0,SF,
-11,2425,1,08:44,,4,3,85,NYG 4,0,SF,
-11,2446,2,08:06,,3,3,88,NYG 3,1,SF,TD
-11,2362,1,10:27,,10,3,76,NYG 21,0,SF,
-11,2247,1,12:56,,10,3,4,SF 12,0,SF,
-11,2271,2,12:30,,6,3,8,SF 16,0,SF,
-11,2341,2,11:01,,10,3,67,NYG 43,0,SF,
-11,2319,1,11:10,,10,3,45,NYG 43,0,SF,
-3,556,2,04:27,,10,1,14,SF 31,0,SF,
-3,489,2,05:40,,11,1,3,SF 18,0,SF,
-3,596,4,03:16,,11,1,11,SF 30,0,SF,PUNT
-3,513,3,05:07,,7,1,12,SF 22,0,SF,
-3,577,3,03:44,,8,1,11,SF 33,0,SF,
-3,446,0,06:22,,0,1,0,NYG 35,0,NYG,KICKOFF
-3,534,1,04:38,,10,1,12,SF 31,0,SF,
-3,468,1,06:18,,10,1,-1,SF 19,0,SF,
-17,3728,1,03:14,,10,4,59,NYG 29,0,SF,
-17,3841,1,01:54,,2,4,78,NYG 2,0,SF,
-17,3680,1,04:29,,10,4,25,SF 20,0,SF,
-17,3704,1,03:50,,10,4,51,SF 45,0,SF,
-17,3749,2,03:05,,2,4,78,NYG 21,0,SF,
-17,3808,2,02:00,,4,4,78,NYG 4,0,SF,PENALTY
-17,3661,0,04:29,,0,4,0,NYG 35,0,NYG,KICKOFF
-17,3791,0,02:00,,0,4,76,,0,,
-17,3863,2,01:49,,2,4,80,NYG 2,1,SF,TD
-17,3770,1,02:28,,2,4,76,NYG 2,0,SF,
-17,3880,0,01:45,,0,4,80,NYG 15,1,SF,XP
-4,677,3,02:02,,4,1,11,NYG 25,0,NYG,
-4,831,3,15:00,,7,2,59,NYG 47,0,NYG,
-4,945,2,12:29,,2,2,79,SF 2,0,NYG,
-4,924,1,13:01,,1,2,79,SF 1,0,NYG,
-4,815,0,,,0,1,28,,0,,
-4,987,0,12:15,,0,2,81,SF 15,1,NYG,XP
-4,792,3,00:05,,12,1,28,NYG 42,0,NYG,PENALTY
-4,722,2,00:58,,8,1,25,NYG 32,0,NYG,
-4,656,2,02:35,,6,1,6,NYG 23,0,NYG,
-4,855,1,14:26,,10,2,69,SF 22,0,NYG,
-4,632,1,03:02,,10,1,4,NYG 19,0,NYG,
-4,701,1,01:31,,10,1,13,NYG 30,0,NYG,
-4,768,2,00:19,,10,1,23,NYG 44,0,NYG,
-4,900,2,13:29,,9,2,80,SF 11,0,NYG,
-4,876,1,13:53,,10,2,70,SF 12,0,NYG,
-4,746,1,00:25,,10,1,25,NYG 44,0,NYG,
-4,967,3,12:20,,2,2,81,SF 2,1,NYG,TD
-2,271,2,10:45,,7,1,9,NYG 23,0,NYG,
-2,406,3,07:08,,1,1,76,SF 3,0,NYG,
-2,295,3,09:57,,1,1,12,NYG 29,0,NYG,
-2,385,2,07:47,,4,1,77,SF 6,0,NYG,
-2,250,1,11:19,,10,1,3,NYG 20,0,NYG,
-2,427,4,06:29,,2,1,76,SF 4,1,NYG,FG
-2,235,0,11:19,,0,1,0,SF 35,0,SF,KICKOFF
-2,361,1,08:18,,10,1,74,SF 12,0,NYG,
-2,316,1,09:27,,10,1,19,NYG 32,0,NYG,
-2,337,2,08:58,,3,1,68,NYG 39,0,NYG,
-1,100,1,13:50,,10,1,44,NYG 45,0,SF,
-1,76,2,14:27,,5,1,35,SF 25,0,SF,
-1,145,1,13:04,,10,1,56,NYG 31,0,SF,
-1,55,1,15:00,,10,1,55,SF 20,0,SF,
-1,216,4,11:25,,4,1,55,NYG 25,1,SF,FG
-1,195,3,12:07,,3,1,55,NYG 24,0,SF,
-1,174,2,12:47,,3,1,56,NYG 24,0,SF,
-1,36,0,15:00,,0,1,0,NYG 35,0,NYG,KICKOFF
-1,124,2,13:29,,1,1,49,NYG 36,0,SF,
-5,1091,1,10:14,,10,2,13,SF 31,0,SF,
-5,1136,3,08:50,,14,2,13,SF 27,0,SF,
-5,1160,4,08:17,,8,2,13,SF 33,0,SF,PUNT
-5,1046,2,11:41,,2,2,9,SF 28,0,SF,
-5,1067,3,10:52,,1,2,11,SF 29,0,SF,
-5,1112,2,09:33,,17,2,7,SF 24,0,SF,
-5,1022,1,12:15,,10,2,8,SF 20,0,SF,
-5,1003,0,12:15,,0,2,0,NYG 35,0,NYG,KICKOFF
-13,2631,1,05:51,,10,3,0,SF 34,0,SF,
-13,2738,4,04:42,,16,3,-6,SF 28,0,SF,PUNT
-13,2682,3,05:40,,10,3,-10,SF 34,0,SF,PENALTY
-13,2653,2,05:46,,10,3,0,SF 34,0,SF,
-13,2717,3,05:13,,20,3,-6,SF 24,0,SF,
-15,2988,2,00:47,,10,3,6,SF 20,0,SF,
-15,3190,1,13:11,,10,4,78,NYG 15,0,SF,
-15,3232,2,12:00,,5,4,75,NYG 5,0,SF,
-15,3274,0,11:49,,0,4,80,NYG 15,1,SF,XP
-15,3053,0,,,0,3,13,,0,,
-15,3112,3,14:26,,6,4,32,SF 37,0,SF,
-15,3136,1,13:55,,10,4,37,NYG 48,0,SF,
-15,2952,0,01:14,,0,3,0,NYG 35,0,NYG,KICKOFF
-15,3254,3,11:53,,5,4,80,NYG 5,1,SF,TD
-15,3029,3,00:02,,4,3,13,SF 26,0,SF,
-15,3012,0,00:02,,0,3,6,,0,,TIMEOUT
-15,3069,1,15:00,,10,4,17,SF 33,0,SF,
-15,3090,2,14:37,,6,4,17,SF 37,0,SF,
-15,2967,1,01:14,,10,3,0,SF 20,0,SF,
-15,3157,2,13:19,,5,4,65,NYG 43,0,SF,PENALTY
-15,3211,1,12:47,,2,4,75,NYG 2,0,SF,
+11,2466,0,08:00,"P.Dawson extra point is GOOD, Center-K.Nelson, Holder-B.Pinion.",0,3,88,NYG 15,1,SF,XP
+11,2341,2,11:01,(11:01) C.Hyde left end to NYG 21 for 22 yards (P.Amukamara).,10,3,67,NYG 43,0,SF,
+11,2319,1,11:10,(11:10) C.Kaepernick pass incomplete deep left to V.McDonald.,10,3,45,NYG 43,0,SF,
+11,2446,2,08:06,"(8:06) C.Kaepernick pass short right to A.Boldin for 3 yards, TOUCHDOWN.",3,3,88,NYG 3,1,SF,TD
+11,2404,3,09:16,"(9:16) J.Hayne right tackle to NYG 4 for 8 yards (B.Meriweather, D.Rodgers-Cromartie).",1,3,84,NYG 12,0,SF,
+11,2295,3,11:52,(11:52) (Shotgun) C.Kaepernick pass deep right to A.Boldin to NYG 43 for 37 yards (C.Dahl).,2,3,45,SF 20,0,SF,
+11,2425,1,08:44,"(8:44) J.Hayne right tackle to NYG 3 for 1 yard (J.Brinkley, K.Wynn).",4,3,85,NYG 4,0,SF,
+11,2383,2,09:52,(9:52) C.Hyde right end pushed ob at NYG 12 for no gain (M.Herzlich).,1,3,76,NYG 12,0,SF,
+11,2271,2,12:30,(12:30) C.Kaepernick pass short left to B.Miller to SF 20 for 4 yards (P.Amukamara).,6,3,8,SF 16,0,SF,
+11,2247,1,12:56,"(12:56) C.Hyde right guard to SF 16 for 4 yards (L.Collins, P.Amukamara). NYG-B.Meriweather was injured during the play.",10,3,4,SF 12,0,SF,
+11,2362,1,10:27,(10:27) C.Hyde left tackle to NYG 12 for 9 yards (P.Amukamara).,10,3,76,NYG 21,0,SF,
+10,2047,0,15:00,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback.",0,3,0,SF 35,0,SF,KICKOFF
+10,2214,4,13:03,"(13:03) B.Wing punts 35 yards to SF 12, Center-Z.DeOssie, fair catch by J.Hayne.",3,3,33,SF 47,0,NYG,PUNT
+10,2128,2,13:15,"(13:15) (No Huddle, Shotgun) E.Manning pass incomplete short left to M.White (A.Bethea).",8,3,28,NYG 48,0,NYG,
+10,2192,3,13:08,(13:08) (Shotgun) E.Manning pass incomplete short right to O.Beckham Jr..,3,3,33,SF 47,0,NYG,
+10,2150,3,13:11,"(13:11) (Shotgun) E.Manning FUMBLES (Aborted) at NYG 40, and recovers at NYG 40. E.Manning pass incomplete short left. PENALTY on SF-J.Tartt, Defensive Offside, 5 yards, enforced at NYG 48 - No Play.",8,3,33,NYG 48,0,NYG,PENALTY
+10,2083,2,14:30,"(14:30) (No Huddle) E.Manning pass deep middle to D.Harris to NYG 46 for 24 yards (E.Reid, A.Bethea).",8,3,26,NYG 22,0,NYG,
+10,2062,1,15:00,"(15:00) (Shotgun) R.Jennings right guard to NYG 22 for 2 yards (I.Williams, Q.Dial).",10,3,2,NYG 20,0,NYG,
+10,2107,1,13:47,"(13:47) (No Huddle, Shotgun) R.Jennings right guard to NYG 48 for 2 yards (Q.Dial, I.Williams).",10,3,28,NYG 46,0,NYG,
+13,2653,2,05:46,(5:46) C.Kaepernick pass incomplete short left to C.Hyde.,10,3,0,SF 34,0,SF,
+13,2738,4,04:42,"(4:42) B.Pinion punts 47 yards to NYG 25, Center-K.Nelson. D.Harris to NYG 39 for 14 yards (D.Johnson).",16,3,-6,SF 28,0,SF,PUNT
+13,2631,1,05:51,(5:51) C.Kaepernick pass incomplete short middle to C.Hyde.,10,3,0,SF 34,0,SF,
+13,2717,3,05:13,(5:13) (Shotgun) C.Kaepernick pass short middle to Q.Patton to SF 28 for 4 yards (T.Wade). QB flips ball forwards to crossing #11.,20,3,-6,SF 24,0,SF,
+13,2682,3,05:40,"(5:40) (Shotgun) C.Kaepernick pass short right to T.Smith pushed ob at SF 42 for 8 yards (U.Unga, T.Wade). PENALTY on SF-A.Boone, Offensive Holding, 10 yards, enforced at SF 34 - No Play.",10,3,-10,SF 34,0,SF,PENALTY
+12,2606,4,06:04,"(6:04) B.Wing punts 55 yards to SF 18, Center-Z.DeOssie. J.Hayne to SF 34 for 16 yards (J.Brinkley, M.Herzlich).",3,3,7,NYG 27,0,NYG,PUNT
+12,2554,2,07:19,"(7:19) (No Huddle, Shotgun) E.Manning pass short right to L.Donnell to NYG 21 for 5 yards (M.Wilhoite, A.Bethea).",14,3,1,NYG 16,0,NYG,
+12,2582,3,06:43,"(6:43) (No Huddle, Shotgun) E.Manning pass short left to S.Vereen to NYG 27 for 6 yards (J.Tartt).",9,3,7,NYG 21,0,NYG,
+12,2482,0,08:00,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback.",0,3,0,SF 35,0,SF,KICKOFF
+12,2529,1,07:45,(7:45) S.Vereen up the middle to NYG 16 for 3 yards (G.Dorsey).,17,3,-4,NYG 13,0,NYG,
+12,2497,1,08:00,"(8:00) O.Beckham Jr. right end to NYG 28 for 8 yards (M.Wilhoite). PENALTY on NYG-M.Newhouse, Offensive Holding, 10 yards, enforced at NYG 23. End around. Officially, a rush for 3 yards.",10,3,7,NYG 20,0,NYG,PENALTY
+15,3232,2,12:00,(12:00) C.Kaepernick pass incomplete short right to A.Boldin.,5,4,75,NYG 5,0,SF,
+15,2967,1,01:14,(1:14) C.Hyde right guard to SF 20 for no gain (O.Odighizuwa).,10,3,0,SF 20,0,SF,
+15,2988,2,00:47,(:47) C.Kaepernick pass short right to B.Bell to SF 26 for 6 yards (M.Herzlich).,10,3,6,SF 20,0,SF,
+15,3211,1,12:47,"(12:47) C.Hyde right end to NYG 5 for -3 yards (K.Wynn, B.Meriweather).",2,4,75,NYG 2,0,SF,
+15,3029,3,00:02,(:02) (Shotgun) C.Kaepernick pass short middle to A.Boldin to SF 33 for 7 yards (C.Dahl).,4,3,13,SF 26,0,SF,
+15,3012,0,00:02,Timeout #1 by SF at 00:02.,0,3,6,,0,,TIMEOUT
+15,3274,0,11:49,"P.Dawson extra point is GOOD, Center-K.Nelson, Holder-B.Pinion.",0,4,80,NYG 15,1,SF,XP
+15,3254,3,11:53,"(11:53) C.Kaepernick pass short middle to G.Celek for 5 yards, TOUCHDOWN.",5,4,80,NYG 5,1,SF,TD
+15,3112,3,14:26,(14:26) (Shotgun) C.Kaepernick pass short middle to G.Celek to NYG 48 for 15 yards (C.Jenkins).,6,4,32,SF 37,0,SF,
+15,3090,2,14:37,"(14:37) (No Huddle, Shotgun) C.Kaepernick pass incomplete short right to C.Hyde.",6,4,17,SF 37,0,SF,
+15,3136,1,13:55,(13:55) C.Hyde left guard to NYG 43 for 5 yards (M.Herzlich).,10,4,37,NYG 48,0,SF,
+15,3157,2,13:19,"(13:19) C.Kaepernick pass incomplete deep middle to T.Smith (L.Collins). PENALTY on NYG-L.Collins, Defensive Pass Interference, 28 yards, enforced at NYG 43 - No Play.",5,4,65,NYG 43,0,SF,PENALTY
+15,3190,1,13:11,(13:11) C.Hyde left end pushed ob at NYG 2 for 13 yards (P.Amukamara).,10,4,78,NYG 15,0,SF,
+15,3069,1,15:00,"(15:00) C.Hyde right guard to SF 37 for 4 yards (U.Unga, K.Wynn).",10,4,17,SF 33,0,SF,
+15,3053,0,,END QUARTER 3,0,3,13,,0,,
+15,2952,0,01:14,"J.Brown kicks 65 yards from NYG 35 to end zone, Touchback.",0,3,0,NYG 35,0,NYG,KICKOFF
+14,2916,1,01:27,"(1:27) (No Huddle, Shotgun) E.Manning pass short left to O.Beckham Jr. for 17 yards, TOUCHDOWN [A.Lynch].",10,3,61,SF 17,1,NYG,TD
+14,2868,2,02:42,"(2:42) (No Huddle, Shotgun) E.Manning pass short middle to W.Tye to SF 26 for 4 yards (N.Bowman, J.Ward).",6,3,35,SF 30,0,NYG,
+14,2844,1,03:10,"(3:10) (No Huddle, Shotgun) E.Manning pass short middle to R.Jennings to SF 30 for 4 yards (N.Bowman).",10,3,31,SF 34,0,NYG,
+14,2767,1,04:30,"(4:30) (Shotgun) E.Manning pass short left to R.Jennings to NYG 44 for 5 yards (N.Bowman, Q.Dial).",10,3,5,NYG 39,0,NYG,
+14,2892,3,02:01,"(2:01) (No Huddle, Shotgun) E.Manning pass short left to D.Harris to SF 17 for 9 yards (J.Ward) [A.Lynch].",2,3,44,SF 26,0,NYG,
+14,2936,0,01:14,"J.Brown extra point is GOOD, Center-Z.DeOssie, Holder-B.Wing.",0,3,61,SF 15,1,NYG,XP
+14,2799,2,04:03,"(4:03) (No Huddle, Shotgun) R.Jennings left tackle to SF 49 for 7 yards (M.Wilhoite).",5,3,12,NYG 44,0,NYG,
+14,2820,1,03:36,(3:36) E.Manning pass short right to O.Beckham Jr. to SF 34 for 15 yards (M.Wilhoite).,10,3,27,SF 49,0,NYG,
+17,3770,1,02:28,"(2:28) C.Hyde left end to NYG 4 for -2 yards (J.Hankins, J.Bromley).",2,4,76,NYG 2,0,SF,
+17,3661,0,04:29,"J.Brown kicks 65 yards from NYG 35 to end zone, Touchback.",0,4,0,NYG 35,0,NYG,KICKOFF
+17,3808,2,02:00,"(2:00) C.Kaepernick pass incomplete short right to T.Smith. PENALTY on NYG-D.Rodgers-Cromartie, Defensive Holding, 2 yards, enforced at NYG 4 - No Play.",4,4,78,NYG 4,0,SF,PENALTY
+17,3749,2,03:05,"(3:05) (Shotgun) C.Hyde left guard to NYG 2 for 19 yards (L.Collins, B.Meriweather).",2,4,78,NYG 21,0,SF,
+17,3863,2,01:49,"(1:49) C.Hyde left guard for 2 yards, TOUCHDOWN.",2,4,80,NYG 2,1,SF,TD
+17,3680,1,04:29,"(4:29) (Shotgun) C.Kaepernick pass short left to T.Smith to SF 45 for 25 yards (L.Collins, T.Wade).",10,4,25,SF 20,0,SF,
+17,3791,0,02:00,Two-Minute Warning,0,4,76,,0,,
+17,3841,1,01:54,(1:54) C.Kaepernick pass incomplete short right to G.Celek (L.Collins).,2,4,78,NYG 2,0,SF,
+17,3728,1,03:14,(3:14) (Shotgun) C.Hyde left end pushed ob at NYG 21 for 8 yards (B.Meriweather).,10,4,59,NYG 29,0,SF,
+17,3704,1,03:50,(3:50) (Shotgun) C.Kaepernick pass deep right to A.Boldin to NYG 29 for 26 yards (T.Wade).,10,4,51,SF 45,0,SF,
+17,3880,0,01:45,"P.Dawson extra point is GOOD, Center-K.Nelson, Holder-B.Pinion.",0,4,80,NYG 15,1,SF,XP
+16,3554,3,06:38,(6:38) (Shotgun) E.Manning pass short middle to D.Harris to SF 14 for 9 yards (J.Ward).,2,4,65,SF 23,0,NYG,
+16,3471,1,07:58,"(7:58) (No Huddle, Shotgun) E.Manning pass short left to R.Randle to SF 24 for 7 yards (A.Bethea, E.Reid).",10,4,55,SF 31,0,NYG,
+16,3381,1,10:12,"(10:12) (No Huddle, Shotgun) E.Manning pass short left to R.Randle to SF 46 for 8 yards (M.Wilhoite).",10,4,33,NYG 46,0,NYG,
+16,3621,3,05:14,"(5:14) (No Huddle, Shotgun) S.Vereen left guard to SF 5 for 6 yards (J.Ward).",7,4,74,SF 11,0,NYG,
+16,3447,2,08:40,(8:40) (No Huddle) E.Manning pass short middle to R.Jennings to SF 31 for 6 yards (M.Wilhoite).,5,4,48,SF 37,0,NYG,
+16,3495,2,07:32,"(7:32) E.Manning pass short middle to R.Jennings to SF 4 for 20 yards (J.Ward, T.Brock). PENALTY on NYG-M.Newhouse, Offensive Holding, 10 yards, enforced at SF 24 - No Play.",3,4,45,SF 24,0,NYG,PENALTY
+16,3426,1,09:11,"(9:11) (No Huddle, Shotgun) R.Jennings up the middle to SF 37 for 5 yards (N.Bowman).",10,4,42,SF 42,0,NYG,
+16,3530,2,07:16,(7:16) (No Huddle) E.Manning pass short middle to S.Vereen to SF 23 for 11 yards (M.Wilhoite).,13,4,56,SF 34,0,NYG,
+16,3357,3,10:42,"(10:42) (No Huddle, Shotgun) E.Manning pass short right to G.Davis to NYG 46 for 16 yards (A.Bethea, M.Wilhoite).",1,4,25,NYG 30,0,NYG,
+16,3600,2,05:54,"(5:54) (No Huddle, Shotgun) S.Vereen up the middle to SF 11 for 3 yards (N.Bowman, T.Brock).",10,4,68,SF 14,0,NYG,
+16,3405,2,09:44,"(9:44) (No Huddle) R.Jennings right tackle to SF 42 for 4 yards (G.Dorsey, M.Wilhoite).",2,4,37,SF 46,0,NYG,
+16,3336,2,11:16,"(11:16) (No Huddle) R.Jennings left guard to NYG 30 for 4 yards (G.Dorsey, C.Carradine).",5,4,9,NYG 26,0,NYG,
+16,3312,1,11:44,(11:44) (Shotgun) E.Manning pass short middle to L.Donnell to NYG 26 for 5 yards (N.Bowman).,10,4,5,NYG 21,0,NYG,
+16,3290,0,11:49,B.Pinion kicks 64 yards from SF 35 to NYG 1. S.Vereen to NYG 21 for 20 yards (L.McCray).,0,4,0,SF 35,0,SF,KICKOFF
+16,3642,4,04:37,"(4:37) J.Brown 24 yard field goal is GOOD, Center-Z.DeOssie, Holder-B.Wing.",1,4,74,SF 5,1,NYG,FG
+16,3578,1,06:00,(6:00) (No Huddle) E.Manning pass incomplete short middle to M.White (K.Acker).,10,4,65,SF 14,0,NYG,
+19,4311,3,00:04,(:04) (Shotgun) C.Kaepernick pass short middle to A.Boldin to SF 31 for 12 yards (D.Rodgers-Cromartie).,13,4,9,SF 19,0,SF,
+19,4335,0,,END GAME,0,4,9,,0,,
+19,4263,1,00:17,(:17) (Shotgun) C.Kaepernick pass incomplete short right to A.Boldin (T.Wade).,10,4,0,SF 22,0,SF,
+19,4289,2,00:11,"(:11) (Shotgun) C.Kaepernick sacked at SF 19 for -3 yards (D.Moore). FUMBLES (D.Moore), ball out of bounds at SF 19.",10,4,9,SF 22,0,SF,FUMBLE
+19,4241,0,00:21,J.Brown kicks 46 yards from NYG 35 to SF 19. B.Miller to SF 22 for 3 yards. Runner takes knee at the SF 22.,0,4,0,NYG 35,0,NYG,KICKOFF
+18,3939,1,01:19,"(1:19) (No Huddle, Shotgun) E.Manning pass short left to S.Vereen to NYG 40 for 11 yards (J.Tartt).",10,4,22,NYG 29,0,NYG,
+18,4172,1,00:30,"(:30) (Shotgun) E.Manning pass incomplete short left to O.Beckham Jr. [A.Armstead]. PENALTY on SF-K.Acker, Defensive Pass Interference, 8 yards, enforced at SF 20 - No Play.",10,4,70,SF 20,0,NYG,PENALTY
+18,4043,1,00:50,"(:50) (Shotgun) E.Manning pass deep middle intended for M.White INTERCEPTED by T.Brock [T.Jerod-Eddie] at SF 12. T.Brock to SF 13 for 1 yard (M.White). The Replay Official reviewed the incomplete pass ruling, and the play was REVERSED. (Shotgun) E.Manning pass incomplete deep middle to M.White [T.Jerod-Eddie].",10,4,38,SF 44,0,NYG,
+18,3896,0,01:45,B.Pinion kicks 71 yards from SF 35 to NYG -6. S.Vereen to NYG 18 for 24 yards (B.Miller).,0,4,0,SF 35,0,SF,KICKOFF
+18,4002,2,01:06,"(1:06) (No Huddle, Shotgun) E.Manning pass short middle to S.Vereen to SF 44 for 16 yards (J.Tartt) [A.Lynch].",10,4,38,NYG 40,0,NYG,
+18,4155,0,00:30,Timeout #3 by NYG at 00:30.,0,4,62,,0,,TIMEOUT
+18,3918,1,01:41,(1:41) (Shotgun) E.Manning scrambles right tackle to NYG 29 for 11 yards (T.Brock).,10,4,11,NYG 18,0,NYG,
+18,4026,0,00:50,Timeout #2 by NYG at 00:50.,0,4,38,,0,,TIMEOUT
+18,3963,0,01:11,Timeout #1 by NYG at 01:11.,0,4,22,,0,,TIMEOUT
+18,4131,3,00:40,"(:40) (No Huddle, Shotgun) E.Manning pass short middle to S.Vereen to SF 20 for 24 yards (A.Bethea, T.Brock).",10,4,62,SF 44,0,NYG,
+18,4109,2,00:45,(:45) (Shotgun) E.Manning pass incomplete short right [A.Lynch].,10,4,38,SF 44,0,NYG,
+18,4225,0,00:21,"J.Brown extra point is GOOD, Center-Z.DeOssie, Holder-B.Wing.",0,4,82,SF 15,1,NYG,XP
+18,3980,1,01:11,(1:11) (Shotgun) E.Manning pass incomplete deep right to M.White.,10,4,22,NYG 40,0,NYG,
+18,4205,1,00:26,"(:26) (Shotgun) E.Manning pass short middle to L.Donnell for 12 yards, TOUCHDOWN.",10,4,82,SF 12,1,NYG,TD
+1,216,4,11:25,"(11:25) P.Dawson 43 yard field goal is GOOD, Center-K.Nelson, Holder-B.Pinion.",4,1,55,NYG 25,1,SF,FG
+1,145,1,13:04,(13:04) C.Hyde left end pushed ob at NYG 24 for 7 yards (J.Thomas). NYG-J.Beason was injured during the play.,10,1,56,NYG 31,0,SF,
+1,195,3,12:07,"(12:07) R.Bush right tackle to NYG 25 for -1 yards (U.Unga, J.Bromley).",3,1,55,NYG 24,0,SF,
+1,55,1,15:00,"(15:00) C.Hyde right guard to SF 25 for 5 yards (L.Collins, J.Hankins).",10,1,55,SF 20,0,SF,
+1,36,0,15:00,"J.Brown kicks 65 yards from NYG 35 to end zone, Touchback.",0,1,0,NYG 35,0,NYG,KICKOFF
+1,76,2,14:27,(14:27) (Shotgun) C.Kaepernick pass short left to B.Ellington to NYG 45 for 30 yards (D.Rodgers-Cromartie).,5,1,35,SF 25,0,SF,
+1,124,2,13:29,(13:29) C.Hyde left end pushed ob at NYG 31 for 5 yards (B.Meriweather).,1,1,49,NYG 36,0,SF,
+1,100,1,13:50,"(13:50) (Shotgun) C.Kaepernick pass short right to B.Ellington pushed ob at NYG 36 for 9 yards (B.Meriweather, D.Rodgers-Cromartie).",10,1,44,NYG 45,0,SF,
+1,174,2,12:47,"(12:47) C.Hyde up the middle to NYG 24 for no gain (J.Hankins, M.Herzlich).",3,1,56,NYG 24,0,SF,
+3,468,1,06:18,"(6:18) C.Hyde left guard to SF 18 for -1 yards (U.Unga, C.Jenkins).",10,1,-1,SF 19,0,SF,
+3,596,4,03:16,"(3:16) B.Pinion punts 50 yards to NYG 20, Center-K.Nelson. D.Harris to NYG 29 for 9 yards (V.McDonald, N.Bellore). PENALTY on NYG-G.Davis, Illegal Block Above the Waist, 10 yards, enforced at NYG 29.",11,1,11,SF 30,0,SF,PUNT
+3,556,2,04:27,"(4:27) C.Hyde left guard to SF 33 for 2 yards (J.Bromley, M.Kuhn).",10,1,14,SF 31,0,SF,
+3,577,3,03:44,(3:44) (Shotgun) C.Kaepernick sacked at SF 30 for -3 yards (D.Moore).,8,1,11,SF 33,0,SF,
+3,446,0,06:22,"J.Brown kicks 68 yards from NYG 35 to SF -3. B.Ellington to SF 19 for 22 yards (D.Moore, G.Davis).",0,1,0,NYG 35,0,NYG,KICKOFF
+3,534,1,04:38,(4:38) C.Kaepernick pass incomplete short left to G.Celek [K.Wynn].,10,1,12,SF 31,0,SF,
+3,489,2,05:40,(5:40) C.Kaepernick pass short left to C.Hyde pushed ob at SF 22 for 4 yards (J.Thomas).,11,1,3,SF 18,0,SF,
+3,513,3,05:07,(5:07) (Shotgun) C.Kaepernick scrambles left end ran ob at SF 31 for 9 yards (T.McBride).,7,1,12,SF 22,0,SF,
+2,406,3,07:08,"(7:08) A.Williams right guard to SF 4 for -1 yards (M.Wilhoite, I.Williams).",1,1,76,SF 3,0,NYG,
+2,337,2,08:58,(8:58) (No Huddle) E.Manning pass deep right to O.Beckham Jr. to SF 12 for 49 yards (K.Acker).,3,1,68,NYG 39,0,NYG,
+2,316,1,09:27,"(9:27) (No Huddle, Shotgun) R.Jennings up the middle to NYG 39 for 7 yards (T.Brock, N.Bowman).",10,1,19,NYG 32,0,NYG,
+2,271,2,10:45,"(10:45) (No Huddle, Shotgun) E.Manning pass short middle to R.Jennings to NYG 29 for 6 yards (M.Wilhoite, Q.Dial).",7,1,9,NYG 23,0,NYG,
+2,385,2,07:47,"(7:47) (No Huddle) R.Jennings right guard to SF 3 for 3 yards (N.Bowman, A.Bethea).",4,1,77,SF 6,0,NYG,
+2,235,0,11:19,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback.",0,1,0,SF 35,0,SF,KICKOFF
+2,250,1,11:19,(11:19) R.Jennings left guard to NYG 23 for 3 yards (N.Bowman).,10,1,3,NYG 20,0,NYG,
+2,295,3,09:57,"(9:57) (No Huddle, Shotgun) R.Jennings left tackle to NYG 32 for 3 yards (M.Wilhoite, Q.Dial).",1,1,12,NYG 29,0,NYG,
+2,427,4,06:29,"(6:29) J.Brown 22 yard field goal is GOOD, Center-Z.DeOssie, Holder-B.Wing.",2,1,76,SF 4,1,NYG,FG
+2,361,1,08:18,(8:18) (No Huddle) E.Manning pass short left to D.Harris to SF 6 for 6 yards (J.Ward).,10,1,74,SF 12,0,NYG,
+5,1160,4,08:17,"(8:17) B.Pinion punts 41 yards to NYG 26, Center-K.Nelson. D.Harris to NYG 34 for 8 yards (S.Skov, N.Bellore).",8,2,13,SF 33,0,SF,PUNT
+5,1091,1,10:14,"(10:14) C.Hyde right end to SF 24 for -7 yards (M.Herzlich, K.Wynn).",10,2,13,SF 31,0,SF,
+5,1022,1,12:15,(12:15) (Shotgun) C.Kaepernick pass short middle to A.Boldin to SF 28 for 8 yards (U.Unga).,10,2,8,SF 20,0,SF,
+5,1136,3,08:50,(8:50) (Shotgun) C.Kaepernick pass short left to G.Celek to SF 33 for 6 yards (U.Unga).,14,2,13,SF 27,0,SF,
+5,1067,3,10:52,(10:52) (Shotgun) C.Kaepernick pass short left to Q.Patton to SF 31 for 2 yards (U.Unga).,1,2,11,SF 29,0,SF,
+5,1112,2,09:33,(9:33) (Shotgun) C.Kaepernick pass short right to V.McDonald to SF 27 for 3 yards (L.Collins).,17,2,7,SF 24,0,SF,
+5,1003,0,12:15,"J.Brown kicks 65 yards from NYG 35 to end zone, Touchback.",0,2,0,NYG 35,0,NYG,KICKOFF
+5,1046,2,11:41,(11:41) C.Hyde right tackle to SF 29 for 1 yard (M.Kuhn).,2,2,9,SF 28,0,SF,
+4,855,1,14:26,"(14:26) (No Huddle, Shotgun) S.Vereen right tackle to SF 12 for 10 yards (T.Brock).",10,2,69,SF 22,0,NYG,
+4,632,1,03:02,(3:02) E.Manning pass short right to L.Donnell to NYG 23 for 4 yards (N.Bowman).,10,1,4,NYG 19,0,NYG,
+4,831,3,15:00,(15:00) (Shotgun) E.Manning pass short middle to O.Beckham Jr. to SF 22 for 31 yards (N.Bowman).,7,2,59,NYG 47,0,NYG,
+4,792,3,00:05,"(:05) (No Huddle) PENALTY on SF, Defensive 12 On-field, 5 yards, enforced at NYG 42 - No Play.",12,1,28,NYG 42,0,NYG,PENALTY
+4,746,1,00:25,"(:25) (No Huddle, Shotgun) E.Manning pass incomplete short left to D.Harris.",10,1,25,NYG 44,0,NYG,
+4,876,1,13:53,(13:53) (Shotgun) E.Manning pass short left to O.Beckham Jr. pushed ob at SF 11 for 1 yard (J.Ward).,10,2,70,SF 12,0,NYG,
+4,900,2,13:29,"(13:29) (No Huddle, Shotgun) E.Manning pass short right to O.Beckham Jr. to SF 1 for 10 yards (T.Brock).",9,2,80,SF 11,0,NYG,
+4,677,3,02:02,"(2:02) (No Huddle, Shotgun) E.Manning pass short middle to L.Donnell to NYG 30 for 5 yards (N.Bowman, K.Acker).",4,1,11,NYG 25,0,NYG,
+4,701,1,01:31,"(1:31) (No Huddle) S.Vereen left tackle to NYG 32 for 2 yards (G.Dorsey, Q.Dial).",10,1,13,NYG 30,0,NYG,
+4,987,0,12:15,"J.Brown extra point is GOOD, Center-Z.DeOssie, Holder-B.Wing.",0,2,81,SF 15,1,NYG,XP
+4,656,2,02:35,"(2:35) (No Huddle, Shotgun) A.Williams up the middle to NYG 25 for 2 yards (I.Williams, N.Bowman).",6,1,6,NYG 23,0,NYG,
+4,768,2,00:19,"(:19) (No Huddle, Shotgun) E.Manning pass short right to O.Beckham Jr. pushed ob at NYG 42 for -2 yards (A.Lynch).",10,1,23,NYG 44,0,NYG,
+4,967,3,12:20,"(12:20) (No Huddle, Shotgun) E.Manning pass short right to S.Vereen for 2 yards, TOUCHDOWN.",2,2,81,SF 2,1,NYG,TD
+4,722,2,00:58,"(:58) (No Huddle, Shotgun) E.Manning pass short middle to W.Tye to NYG 44 for 12 yards (T.Brock, M.Wilhoite) [G.Dorsey].",8,1,25,NYG 32,0,NYG,
+4,924,1,13:01,"(13:01) (No Huddle) A.Williams right tackle to SF 2 for -1 yards (A.Bethea, N.Bowman).",1,2,79,SF 1,0,NYG,
+4,815,0,,END QUARTER 1,0,1,28,,0,,
+4,945,2,12:29,"(12:29) (No Huddle, Shotgun) E.Manning pass incomplete short right to L.Donnell.",2,2,79,SF 2,0,NYG,
+7,1623,3,01:56,"(1:56) (Shotgun) C.Kaepernick scrambles up the middle to NYG 20 for 8 yards (D.Rodgers-Cromartie). FUMBLES (D.Rodgers-Cromartie), and recovers at NYG 13. C.Kaepernick to NYG 13 for no gain (D.Moore). Officially, C.Kaepernick, a rush for 15 yards.",4,2,76,NYG 28,0,SF,FUMBLE
+7,1433,1,03:57,(3:57) C.Kaepernick pass short right to A.Boldin to SF 25 for 5 yards (D.Rodgers-Cromartie).,10,2,5,SF 20,0,SF,
+7,1707,3,01:11,(1:11) C.Kaepernick pass incomplete short right to A.Boldin (P.Amukamara).,1,2,76,NYG 4,0,SF,
+7,1601,2,02:00,(2:00) (Shotgun) C.Kaepernick pass incomplete short right to Q.Patton (D.Rodgers-Cromartie).,4,2,52,NYG 28,0,SF,
+7,1729,4,01:05,"(1:05) P.Dawson 22 yard field goal is GOOD, Center-K.Nelson, Holder-B.Pinion.",1,2,76,NYG 4,1,SF,FG
+7,1683,2,01:16,(1:16) C.Kaepernick pass short right to A.Boldin ran ob at NYG 4 for 9 yards (P.Amukamara).,10,2,76,NYG 13,0,SF,
+7,1584,0,02:00,Two-Minute Warning,0,2,52,,0,,
+7,1418,0,03:57,"J.Brown kicks 65 yards from NYG 35 to end zone, Touchback.",0,2,0,NYG 35,0,NYG,KICKOFF
+7,1536,2,02:43,(2:43) (Shotgun) C.Kaepernick pass short right to T.Smith to NYG 34 for 17 yards (L.Collins).,10,2,46,SF 49,0,SF,
+7,1481,1,02:59,"(2:59) (Shotgun) C.Kaepernick pass incomplete deep left to T.Smith. PENALTY on NYG-P.Amukamara, Defensive Holding, 5 yards, enforced at SF 44 - No Play.",10,2,29,SF 44,0,SF,PENALTY
+7,1457,2,03:25,(3:25) C.Kaepernick pass short right to B.Miller pushed ob at SF 44 for 19 yards (U.Unga).,5,2,24,SF 25,0,SF,
+7,1560,1,02:13,(2:13) (Shotgun) C.Kaepernick pass short left to V.McDonald to NYG 28 for 6 yards (T.McBride).,10,2,52,NYG 34,0,SF,
+7,1514,1,02:52,(2:52) C.Kaepernick pass incomplete short right to C.Hyde.,10,2,29,SF 49,0,SF,
+7,1661,1,01:22,(1:22) C.Kaepernick pass incomplete short right to A.Boldin.,10,2,67,NYG 13,0,SF,
+6,1300,3,05:24,"(5:24) (No Huddle, Shotgun) E.Manning pass short left to R.Randle to SF 29 for 4 yards (K.Acker).",3,2,37,SF 33,0,NYG,
+6,1324,1,04:50,"(4:50) (No Huddle, Shotgun) E.Manning pass incomplete short left to R.Randle.",10,2,37,SF 29,0,NYG,
+6,1233,2,06:54,"(6:54) (No Huddle) R.Jennings right tackle to SF 40 for 6 yards (N.Bowman, M.Wilhoite).",6,2,26,SF 46,0,NYG,
+6,1185,1,08:02,(8:02) (Shotgun) E.Manning pass short middle to R.Randle to 50 for 16 yards (E.Reid).,10,2,16,NYG 34,0,NYG,
+6,1276,2,06:07,"(6:07) (No Huddle, Shotgun) E.Manning pass short left to R.Randle to SF 33 for 7 yards (K.Acker, M.Wilhoite).",10,2,33,SF 40,0,NYG,
+6,1370,3,04:10,"(4:10) (No Huddle, Shotgun) E.Manning pass incomplete short middle to D.Harris [A.Lynch].",4,2,43,SF 23,0,NYG,
+6,1254,1,06:13,"(6:13) (No Huddle, Shotgun) E.Manning pass incomplete short right to O.Beckham Jr..",10,2,26,SF 40,0,NYG,
+6,1346,2,04:44,"(4:44) (No Huddle, Shotgun) E.Manning pass short right to D.Harris to SF 23 for 6 yards (J.Ward).",10,2,43,SF 29,0,NYG,
+6,1399,4,04:02,"(4:02) J.Brown 41 yard field goal is GOOD, Center-Z.DeOssie, Holder-B.Wing.",4,2,43,SF 23,1,NYG,FG
+6,1209,1,07:29,"(7:29) (No Huddle, Shotgun) E.Manning pass short right to L.Donnell to SF 46 for 4 yards (M.Wilhoite, A.Bethea).",10,2,20,50,0,NYG,
+9,2010,1,00:05,(:05) C.Kaepernick kneels to SF 19 for -1 yards.,10,2,-1,SF 20,0,SF,
+9,2031,0,,END QUARTER 2,0,2,-1,,0,,
+8,1815,1,00:33,"(:33) (No Huddle, Shotgun) E.Manning pass incomplete short left to O.Beckham Jr..",10,2,16,NYG 36,0,NYG,
+8,1949,0,00:11,Timeout #3 by NYG at 00:11.,0,2,66,,0,,TIMEOUT
+8,1837,2,00:31,"(:31) (No Huddle, Shotgun) E.Manning pass short right to W.Tye to 50 for 14 yards (T.Brock, J.Tartt).",10,2,30,NYG 36,0,NYG,
+8,1791,2,00:43,"(:43) (No Huddle, Shotgun) E.Manning pass short middle to S.Vereen to NYG 36 for 12 yards (A.Bethea).",6,2,16,NYG 24,0,NYG,
+8,1966,0,00:11,Timeout #1 by SF at 00:11.,0,2,66,,0,,TIMEOUT
+8,1861,0,00:24,Timeout #1 by NYG at 00:24.,0,2,26,,0,,TIMEOUT
+8,1748,0,01:01,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback.",0,2,0,SF 35,0,SF,KICKOFF
+8,1925,1,00:18,(:18) (Shotgun) E.Manning pass short left to D.Harris to SF 14 for 18 yards (N.Bowman).,10,2,66,SF 32,0,NYG,
+8,1908,0,00:18,Timeout #2 by NYG at 00:18.,0,2,48,,0,,TIMEOUT
+8,1883,1,00:24,(:24) (Shotgun) E.Manning pass short middle to W.Tye to SF 32 for 18 yards (A.Bethea).,10,2,48,50,0,NYG,
+8,1767,1,01:01,(1:01) (Shotgun) E.Manning pass short right to S.Vereen pushed ob at NYG 24 for 4 yards (J.Ward).,10,2,30,NYG 20,0,NYG,
+8,1983,1,00:11,(:11) (Shotgun) E.Manning pass deep right intended for O.Beckham Jr. INTERCEPTED by T.Brock at SF -6. Touchback.,10,2,66,SF 14,0,NYG,INT

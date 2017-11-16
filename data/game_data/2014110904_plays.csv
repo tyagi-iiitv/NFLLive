@@ -1,203 +1,203 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1572,1,04:41,,10,2,6,NO 13,0,NO,
-9,1596,2,04:08,,4,2,6,NO 19,0,NO,
-9,1625,3,03:25,,4,2,6,NO 19,0,NO,
-9,1647,4,03:19,,4,2,6,NO 19,0,NO,PUNT
-9,1549,0,04:45,,0,2,0,SF 35,0,SF,KICKOFF
-24,4053,2,00:28,,5,4,20,NO 25,0,NO,
-24,4123,1,00:05,,10,4,33,SF 47,0,NO,
-24,4014,0,00:44,,0,4,23,SF 35,0,SF,KICKOFF
-24,4099,1,00:20,,10,4,23,NO 40,0,NO,
-24,4032,1,00:44,,10,4,23,NO 20,0,NO,
-24,4077,0,00:20,,0,4,20,,0,,TIMEOUT
-24,4180,0,,,0,4,23,,0,,
-24,4145,2,00:04,,10,4,23,SF 47,0,NO,PENALTY
-10,1745,2,02:32,,10,2,26,NO 46,0,SF,
-10,1787,3,02:00,,9,2,26,NO 45,0,SF,
-10,1719,1,02:39,,10,2,25,NO 46,0,SF,
-10,1691,1,03:08,,10,2,25,SF 29,0,SF,
-10,1809,4,01:57,,9,2,26,NO 45,0,SF,PUNT
-10,1770,0,02:00,,0,2,26,,0,,
-20,3130,4,12:27,,2,4,19,NO 43,0,NO,PUNT
-20,3085,2,14:12,,10,4,11,NO 35,0,NO,
-20,3005,3,00:11,,1,3,9,NO 33,0,NO,
-20,2956,1,01:09,,10,3,3,NO 24,0,NO,
-20,3026,0,,,0,3,9,,0,,
-20,2980,2,00:36,,7,3,9,NO 27,0,NO,
-20,3063,1,14:18,,10,4,11,NO 35,0,NO,
-20,3106,3,13:31,,10,4,19,NO 35,0,NO,
-20,3042,4,15:00,,1,4,11,NO 33,0,NO,
-6,995,0,,,0,1,0,,0,,
-6,1053,1,13:44,,10,2,2,SF 28,0,SF,PENALTY
-6,1011,1,15:00,,10,2,9,SF 16,0,SF,
-6,1152,4,11:57,,16,2,6,SF 22,0,SF,PUNT
-6,1109,2,12:38,,17,2,5,SF 21,0,SF,
-6,1131,3,12:29,,17,2,6,SF 21,0,SF,
-6,1032,2,14:19,,1,2,12,SF 25,0,SF,
-6,973,0,00:03,,0,1,0,NO 35,0,NO,KICKOFF
-6,1088,1,13:22,,20,2,5,SF 18,0,SF,
-27,4608,1,07:43,,10,5,4,NO 9,0,NO,
-27,4651,3,06:55,,6,5,11,NO 13,0,NO,
-27,4629,2,07:02,,6,5,4,NO 13,0,NO,
-27,4675,1,06:16,,10,5,6,NO 20,0,NO,
-27,4698,2,05:28,,15,5,6,NO 15,0,NO,FUMBLE
-18,2620,3,05:37,,1,3,22,NO 45,0,NO,
-18,2795,3,02:55,,6,3,64,SF 11,1,NO,TD
-18,2710,3,04:43,,3,3,38,SF 35,0,NO,
-18,2659,1,05:18,,10,3,22,SF 42,0,NO,
-18,2681,2,05:18,,10,3,29,SF 42,0,NO,
-18,2752,1,03:42,,10,3,49,SF 15,0,NO,
-18,2731,1,04:10,,10,3,49,SF 26,0,NO,
-18,2575,1,06:44,,10,3,4,NO 36,0,NO,
-18,2820,0,02:49,,0,3,64,SF 2,1,NO,XP
-18,2774,2,03:37,,10,3,53,SF 15,0,NO,
-18,2596,2,06:13,,6,3,9,NO 40,0,NO,
-28,4728,1,05:18,,10,5,0,NO 17,1,SF,FG
-26,4589,4,07:50,,17,5,20,SF 40,0,SF,PUNT
-26,4527,1,09:11,,10,5,27,SF 47,0,SF,
-26,4548,2,08:31,,10,5,27,SF 47,0,SF,
-26,4570,3,08:26,,10,5,20,SF 47,0,SF,
-26,4463,1,11:19,,10,5,15,SF 20,0,SF,
-26,4506,2,09:52,,1,5,27,SF 44,0,SF,
-26,4485,1,10:36,,10,5,24,SF 35,0,SF,
-25,4250,1,14:24,,10,5,18,NO 36,0,NO,
-25,4326,1,12:39,,10,5,33,NO 48,0,NO,
-25,4397,0,11:30,,0,5,37,,0,,TIMEOUT
-25,4275,2,13:45,,8,5,23,NO 38,0,NO,
-25,4299,3,13:01,,3,5,28,NO 43,0,NO,PENALTY
-25,4414,4,11:30,,1,5,31,SF 43,0,NO,PENALTY
-25,4441,4,11:30,,7,5,31,SF 49,0,NO,PUNT
-25,4375,3,11:34,,1,5,37,SF 43,0,NO,
-25,4223,1,15:00,,10,5,16,NO 20,0,NO,
-25,4204,0,15:00,,0,5,0,SF 35,0,SF,KICKOFF
-25,4350,2,12:11,,5,5,37,SF 47,0,NO,
-1,130,3,14:16,,8,1,2,NO 25,0,NO,INT
-1,58,1,14:55,,10,1,2,NO 23,0,NO,
-1,80,2,14:51,,10,1,2,NO 23,0,NO,
-1,36,0,15:00,,0,1,0,SF 35,0,SF,KICKOFF
-1,109,0,14:16,,0,1,2,,0,,TIMEOUT
-5,829,2,02:39,,10,1,41,SF 38,0,NO,
-5,854,3,02:03,,7,1,53,SF 35,0,NO,
-5,779,3,03:32,,12,1,38,NO 22,0,NO,
-5,734,2,03:37,,7,1,3,NO 27,0,NO,
-5,713,1,04:13,,10,1,3,NO 24,0,NO,
-5,756,3,03:32,,7,1,-2,NO 27,0,NO,PENALTY
-5,803,1,02:43,,10,1,38,SF 38,0,NO,
-5,904,2,01:29,,10,1,55,SF 23,0,NO,
-5,925,3,00:50,,8,1,54,SF 21,0,NO,
-5,949,4,00:08,,9,1,54,SF 22,1,NO,FG
-5,878,1,01:36,,10,1,53,SF 23,0,NO,
-5,691,0,04:17,,0,1,0,SF 35,0,SF,KICKOFF
-13,1985,2,00:44,,4,2,20,SF 36,0,NO,FUMBLE
-13,1961,1,01:06,,10,2,20,SF 42,0,NO,
-13,2014,0,00:37,,0,2,12,,0,,TIMEOUT
-13,2031,1,00:36,,10,2,20,SF 30,0,NO,
-13,2059,2,00:17,,2,2,20,SF 22,0,NO,INT
-21,3230,1,10:48,,10,4,21,SF 32,0,SF,
-21,3337,4,07:23,,10,4,26,SF 43,0,SF,PUNT
-21,3156,1,12:18,,10,4,0,SF 17,0,SF,
-21,3178,2,12:12,,10,4,6,SF 17,0,SF,
-21,3276,1,09:31,,10,4,30,SF 43,0,SF,
-21,3297,2,08:48,,6,4,32,SF 47,0,SF,
-21,3255,2,10:06,,4,4,26,SF 38,0,SF,
-21,3202,3,11:29,,4,4,15,SF 23,0,SF,
-21,3318,3,08:04,,4,4,26,SF 49,0,SF,
-23,3705,0,01:52,,0,4,0,NO 35,0,NO,KICKOFF
-23,3891,0,01:05,,0,4,51,,0,,TIMEOUT
-23,3956,0,00:54,,0,4,51,,0,,TIMEOUT
-23,3867,4,01:34,,10,4,51,SF 22,0,SF,
-23,3995,4,00:49,,10,4,51,NO 27,1,SF,FG
-23,3753,2,01:43,,10,4,0,SF 22,0,SF,
-23,3973,3,00:54,,10,4,51,NO 27,0,SF,
-23,3934,2,01:00,,10,4,51,NO 27,0,SF,
-23,3798,3,01:39,,10,4,0,SF 22,0,SF,
-23,3912,1,01:05,,10,4,51,NO 27,0,SF,
-23,3731,1,01:46,,10,4,0,SF 22,0,SF,
-11,1853,2,01:28,,6,2,4,NO 7,0,NO,
-11,1901,4,01:21,,6,2,4,NO 7,0,NO,PUNT
-11,1829,1,01:48,,10,2,4,NO 3,0,NO,
-11,1879,3,01:24,,6,2,4,NO 7,0,NO,
-14,2111,0,,,0,2,-1,,0,,
-14,2090,1,00:04,,10,2,-1,SF 29,0,SF,
-8,1341,1,08:28,,10,2,20,SF 40,0,SF,
-8,1367,2,08:24,,10,2,24,SF 40,0,SF,
-8,1529,0,04:45,,0,2,80,NO 2,1,SF,XP
-8,1412,1,07:00,,10,2,32,NO 46,0,SF,
-8,1503,1,04:51,,10,2,80,NO 15,1,SF,TD
-8,1437,0,06:12,,0,2,32,,0,,TIMEOUT
-8,1478,1,05:35,,10,2,65,NO 25,0,SF,
-8,1302,0,09:13,,0,2,0,NO 35,0,NO,KICKOFF
-8,1317,1,09:13,,10,2,20,SF 20,0,SF,
-8,1454,2,06:12,,12,2,55,NO 48,0,SF,
-8,1388,3,07:39,,6,2,34,SF 44,0,SF,
-19,2879,2,02:09,,7,3,5,SF 26,0,SF,
-19,2858,1,02:45,,10,3,3,SF 23,0,SF,
-19,2836,0,02:49,,0,3,5,NO 35,0,NO,KICKOFF
-19,2903,3,01:24,,5,3,5,SF 28,0,SF,
-19,2930,4,01:20,,5,3,5,SF 28,0,SF,PUNT
-22,3525,3,03:15,,3,4,46,SF 34,0,NO,
-22,3668,3,01:55,,2,4,80,SF 2,1,NO,TD
-22,3448,3,05:14,,9,4,46,NO 46,0,NO,
-22,3472,1,04:34,,10,4,47,SF 41,0,NO,
-22,3630,2,02:00,,4,4,78,SF 4,0,NO,
-22,3651,0,01:55,,0,4,78,,0,,TIMEOUT
-22,3588,1,02:28,,10,4,76,SF 10,0,NO,
-22,3355,1,07:15,,10,4,11,NO 20,0,NO,
-22,3689,0,01:52,,0,4,80,SF 2,1,NO,XP
-22,3376,1,06:39,,10,4,25,NO 31,0,NO,
-22,3426,2,05:18,,9,4,26,NO 46,0,NO,
-22,3613,0,02:00,,0,4,76,,0,,
-22,3564,4,03:10,,3,4,70,SF 34,0,NO,
-22,3547,0,03:10,,0,4,46,,0,,TIMEOUT
-22,3400,1,06:02,,10,4,26,NO 45,0,NO,
-22,3500,2,03:58,,2,4,46,SF 33,0,NO,
-12,1931,1,01:13,,10,2,-2,SF 44,0,SF,FUMBLE
-16,2363,1,10:47,,10,3,23,NO 28,0,NO,
-16,2342,2,11:23,,6,3,12,NO 20,0,NO,
-16,2384,1,10:05,,10,3,23,NO 39,0,NO,
-16,2406,2,09:58,,10,3,24,NO 39,0,NO,
-16,2451,4,08:38,,2,3,31,NO 47,0,NO,PUNT
-16,2321,1,12:02,,10,3,4,NO 16,0,NO,
-16,2427,3,09:22,,9,3,31,NO 40,0,NO,
-7,1191,2,11:17,,5,2,14,NO 45,0,NO,
-7,1240,2,09:59,,1,2,29,SF 37,0,NO,
-7,1285,0,09:13,,0,2,60,SF 2,1,NO,XP
-7,1261,1,09:19,,10,2,60,SF 31,1,NO,TD
-7,1215,1,10:39,,10,2,23,SF 46,0,NO,
-7,1170,1,11:51,,10,2,5,NO 40,0,NO,
-3,329,4,11:43,,3,1,7,NO 30,0,NO,PUNT
-3,286,2,12:28,,7,1,7,NO 26,0,NO,
-3,307,3,11:46,,3,1,7,NO 30,0,NO,
-3,243,0,13:01,,0,1,0,SF 35,0,SF,KICKOFF
-3,265,1,12:56,,10,1,7,NO 23,0,NO,
-17,2495,2,07:44,,19,3,-5,SF 11,0,SF,
-17,2472,1,08:30,,10,3,-9,SF 20,0,SF,
-17,2519,3,06:59,,15,3,-5,SF 15,0,SF,
-17,2545,4,06:52,,15,3,-5,SF 15,0,SF,PUNT
-4,515,1,07:56,,10,1,46,NO 31,0,SF,
-4,427,3,10:05,,10,1,24,SF 32,0,SF,
-4,398,2,10:09,,10,1,11,SF 32,0,SF,
-4,613,2,05:12,,8,1,66,NO 18,0,SF,PENALTY
-4,588,1,05:50,,10,1,61,NO 20,0,SF,
-4,675,0,04:17,,0,1,79,NO 2,1,SF,XP
-4,472,2,08:44,,5,1,48,50,0,SF,
-4,560,3,06:30,,4,1,59,NO 25,0,SF,
-4,536,2,07:15,,12,1,54,NO 33,0,SF,
-4,657,1,04:24,,9,1,79,NO 9,1,SF,TD
-4,451,1,09:24,,10,1,29,SF 45,0,SF,
-4,355,1,11:32,,10,1,11,SF 21,0,SF,
-4,377,1,10:50,,10,1,11,SF 32,0,SF,
-4,636,2,05:01,,3,1,70,NO 13,0,SF,
-4,494,3,08:39,,5,1,54,50,0,SF,
-2,189,1,13:44,,7,1,15,NO 7,0,SF,
-2,157,1,14:06,,10,1,19,NO 19,0,SF,PENALTY
-2,210,2,13:05,,4,1,19,NO 4,1,SF,TD
-2,227,0,13:01,,0,1,19,NO 2,1,SF,XP
-15,2230,1,13:32,,10,3,28,SF 43,0,SF,
-15,2184,2,14:17,,8,3,2,SF 24,0,SF,
-15,2206,3,14:12,,8,3,21,SF 24,0,SF,
-15,2137,0,15:00,,0,3,28,NO 35,0,NO,KICKOFF
-15,2302,4,12:09,,3,3,28,50,0,SF,PUNT
-15,2255,2,12:52,,9,3,28,SF 44,0,SF,
-15,2159,1,14:55,,10,3,2,SF 22,0,SF,
-15,2280,3,12:13,,3,3,28,50,0,SF,
+24,4053,2,00:28,"(:28) (No Huddle, Shotgun) D.Brees pass short middle to J.Graham to NO 40 for 15 yards (A.Bethea). Pass 12, YAC 3",5,4,20,NO 25,0,NO,
+24,4123,1,00:05,"(:05) (No Huddle, Shotgun) D.Brees spiked the ball to stop the clock.",10,4,33,SF 47,0,NO,
+24,4180,0,,END QUARTER 4,0,4,23,,0,,
+24,4077,0,00:20,Timeout #3 by NO at 00:20.,0,4,20,,0,,TIMEOUT
+24,4014,0,00:44,"P.Dawson kicks 65 yards from SF 35 to end zone, Touchback.",0,4,23,SF 35,0,SF,KICKOFF
+24,4145,2,00:04,"(:04) (Shotgun) D.Brees pass deep right to J.Graham for 47 yards, TOUCHDOWN NULLIFIED by Penalty. SF-P.Cox was injured during the play. His return is Probable.  PENALTY on NO-J.Graham, Offensive Pass Interference, 10 yards, enforced at SF 47 - No Play.",10,4,23,SF 47,0,NO,PENALTY
+24,4032,1,00:44,"(:44) (No Huddle, Shotgun) D.Brees scrambles up the middle to NO 25 for 5 yards (P.Cox).",10,4,23,NO 20,0,NO,
+24,4099,1,00:20,"(:20) (Shotgun) D.Brees pass short right to T.Cadet to SF 47 for 13 yards (M.Wilhoite). Pass 0, YAC 13",10,4,23,NO 40,0,NO,
+25,4299,3,13:01,"(13:01) (Shotgun) PENALTY on SF-A.Lynch, Neutral Zone Infraction, 5 yards, enforced at NO 43 - No Play.",3,5,28,NO 43,0,NO,PENALTY
+25,4275,2,13:45,"(13:45) (Shotgun) D.Brees pass short right to K.Stills to NO 43 for 5 yards (P.Cox). Pass 5, YAC 0",8,5,23,NO 38,0,NO,
+25,4397,0,11:30,Timeout #1 by NO at 11:30.,0,5,37,,0,,TIMEOUT
+25,4250,1,14:24,(14:24) M.Ingram left end to NO 38 for 2 yards (J.Smith; A.Brooks).,10,5,18,NO 36,0,NO,
+25,4414,4,11:30,"(11:30) (Punt formation) PENALTY on NO, Delay of Game, 6 yards, enforced at SF 43 - No Play. Officials marked off the penalty as 6 yards.",1,5,31,SF 43,0,NO,PENALTY
+25,4326,1,12:39,"(12:39) (Shotgun) D.Brees pass short right to K.Stills ran ob at SF 47 for 5 yards (P.Cox). Pass 4, YAC 1",10,5,33,NO 48,0,NO,
+25,4441,4,11:30,"(11:30) T.Morstead punts 49 yards to end zone, Center-J.Drescher, Touchback.",7,5,31,SF 49,0,NO,PUNT
+25,4375,3,11:34,(11:34) D.Brees pass incomplete short left to K.Stills (E.Reid).,1,5,37,SF 43,0,NO,
+25,4350,2,12:11,(12:11) M.Ingram right tackle to SF 43 for 4 yards (C.Borland; M.Wilhoite).,5,5,37,SF 47,0,NO,
+25,4204,0,15:00,"P.Dawson kicks 65 yards from SF 35 to end zone, Touchback.",0,5,0,SF 35,0,SF,KICKOFF
+25,4223,1,15:00,"(15:00) D.Brees pass short right to K.Stills to NO 36 for 16 yards (P.Cox). Pass 15, YAC 1",10,5,16,NO 20,0,NO,
+26,4548,2,08:31,(8:31) C.Kaepernick pass incomplete deep left to M.Crabtree.,10,5,27,SF 47,0,SF,
+26,4527,1,09:11,(9:11) F.Gore left guard to SF 47 for no gain (B.Bunkley).,10,5,27,SF 47,0,SF,
+26,4570,3,08:26,(8:26) (Shotgun) C.Kaepernick sacked at SF 40 for -7 yards (R.Humber).,10,5,20,SF 47,0,SF,
+26,4485,1,10:36,(10:36) C.Hyde left tackle to SF 44 for 9 yards (R.Humber; P.Robinson).,10,5,24,SF 35,0,SF,
+26,4506,2,09:52,(9:52) C.Hyde right guard to SF 47 for 3 yards (C.Jordan).,1,5,27,SF 44,0,SF,
+26,4589,4,07:50,"(7:50) A.Lee punts 51 yards to NO 9, Center-K.Nelson, fair catch by B.Cooks.",17,5,20,SF 40,0,SF,PUNT
+26,4463,1,11:19,(11:19) C.Hyde left tackle to SF 35 for 15 yards (R.Bush).,10,5,15,SF 20,0,SF,
+27,4629,2,07:02,(7:02) (Shotgun) D.Brees pass incomplete short right to B.Cooks.,6,5,4,NO 13,0,NO,
+27,4675,1,06:16,(6:16) D.Brees sacked at NO 15 for -5 yards (Q.Dial).,10,5,6,NO 20,0,NO,
+27,4651,3,06:55,"(6:55) (Shotgun) D.Brees pass short middle to J.Graham to NO 20 for 7 yards (E.Reid). Pass 4, YAC 3",6,5,11,NO 13,0,NO,
+27,4608,1,07:43,(7:43) M.Ingram left guard to NO 13 for 4 yards (M.Wilhoite).,10,5,4,NO 9,0,NO,
+27,4698,2,05:28,"(5:28) (Shotgun) D.Brees sacked at NO 10 for -5 yards (A.Brooks). FUMBLES (A.Brooks), RECOVERED by SF-C.Borland at NO 17. C.Borland to NO 17 for no gain (T.Cadet). The Replay Official challenged the fumble ruling, and the play was Upheld. The ruling on the field stands.",15,5,6,NO 15,0,NO,FUMBLE
+20,3063,1,14:18,(14:18) D.Brees pass incomplete deep right to K.Stills.,10,4,11,NO 35,0,NO,
+20,3026,0,,END QUARTER 3,0,3,9,,0,,
+20,3106,3,13:31,(13:31) (Shotgun) D.Brees pass short middle to M.Ingram to NO 43 for 8 yards (E.Reid).,10,4,19,NO 35,0,NO,
+20,2980,2,00:36,(:36) M.Ingram right tackle to NO 33 for 6 yards (C.Borland).,7,3,9,NO 27,0,NO,
+20,3005,3,00:11,(:11) M.Ingram left guard to NO 33 for no gain (C.Borland; Q.Dial).,1,3,9,NO 33,0,NO,
+20,3130,4,12:27,"(12:27) T.Morstead punts 47 yards to SF 10, Center-J.Drescher. P.Cox ran ob at SF 17 for 7 yards (R.Humber).",2,4,19,NO 43,0,NO,PUNT
+20,3085,2,14:12,(14:12) M.Ingram right tackle to NO 35 for no gain (A.Lynch; C.Borland).,10,4,11,NO 35,0,NO,
+20,2956,1,01:09,"(1:09) D.Brees pass short middle to M.Ingram to NO 27 for 3 yards (C.Borland) [M.Wilhoite]. Pass 1, YAC 2",10,3,3,NO 24,0,NO,
+20,3042,4,15:00,(15:00) D.Brees right guard to NO 35 for 2 yards (A.Lynch).,1,4,11,NO 33,0,NO,
+21,3230,1,10:48,(10:48) F.Gore right guard to SF 38 for 6 yards (C.Lofton; K.Vaccaro).,10,4,21,SF 32,0,SF,
+21,3202,3,11:29,"(11:29) (Shotgun) C.Kaepernick pass short right to A.Boldin to SF 32 for 9 yards (P.Robinson). Pass 4, YAC 5",4,4,15,SF 23,0,SF,
+21,3318,3,08:04,(8:04) (Shotgun) C.Kaepernick sacked at SF 43 for -6 yards (P.Haralson).,4,4,26,SF 49,0,SF,
+21,3255,2,10:06,(10:06) C.Kaepernick right end pushed ob at SF 43 for 5 yards (K.Vaccaro).,4,4,26,SF 38,0,SF,
+21,3276,1,09:31,(9:31) F.Gore left tackle to SF 47 for 4 yards (C.Lofton).,10,4,30,SF 43,0,SF,
+21,3178,2,12:12,"(12:12) C.Kaepernick pass short left to M.Crabtree to SF 23 for 6 yards (R.Humber). Pass 4, YAC 2",10,4,6,SF 17,0,SF,
+21,3337,4,07:23,"(7:23) A.Lee punts 57 yards to end zone, Center-K.Nelson, Touchback.",10,4,26,SF 43,0,SF,PUNT
+21,3156,1,12:18,(12:18) C.Kaepernick pass incomplete deep right to M.Crabtree (P.Robinson).,10,4,0,SF 17,0,SF,
+21,3297,2,08:48,(8:48) F.Gore right guard to SF 49 for 2 yards (J.Jenkins).,6,4,32,SF 47,0,SF,
+22,3689,0,01:52,"S.Graham extra point is GOOD, Center-J.Drescher, Holder-L.McCown.",0,4,80,SF 2,1,NO,XP
+22,3547,0,03:10,Timeout #1 by NO at 03:10.,0,4,46,,0,,TIMEOUT
+22,3448,3,05:14,"(5:14) (Shotgun) D.Brees pass short middle to J.Graham to SF 41 for 13 yards (J.Ward). Pass 10, YAC 3",9,4,46,NO 46,0,NO,
+22,3472,1,04:34,"(4:34) D.Brees pass short middle to M.Ingram to SF 33 for 8 yards (C.Borland). Pass 3, YAC 5",10,4,47,SF 41,0,NO,
+22,3500,2,03:58,(3:58) M.Ingram right tackle to SF 34 for -1 yards (C.Borland).,2,4,46,SF 33,0,NO,
+22,3376,1,06:39,"(6:39) D.Brees pass short middle to E.Lorig to NO 45 for 14 yards (A.Lynch; M.Wilhoite). Pass 4, YAC 10",10,4,25,NO 31,0,NO,
+22,3426,2,05:18,(5:18) (Shotgun) D.Brees pass incomplete short right to M.Ingram [E.Reid].,9,4,26,NO 46,0,NO,
+22,3630,2,02:00,(2:00) (Shotgun) M.Ingram right guard to SF 2 for 2 yards (A.Lynch).,4,4,78,SF 4,0,NO,
+22,3668,3,01:55,"(1:55) (Shotgun) D.Brees pass short right to J.Graham for 2 yards, TOUCHDOWN. Pass 2, YAC 0",2,4,80,SF 2,1,NO,TD
+22,3355,1,07:15,(7:15) M.Ingram right guard to NO 31 for 11 yards (E.Reid; A.Bethea).,10,4,11,NO 20,0,NO,
+22,3400,1,06:02,(6:02) T.Cadet right tackle to NO 46 for 1 yard (R.McDonald).,10,4,26,NO 45,0,NO,
+22,3525,3,03:15,(3:15) (Shotgun) D.Brees pass incomplete short middle to B.Cooks (M.Wilhoite) [J.Smith].,3,4,46,SF 34,0,NO,
+22,3564,4,03:10,"(3:10) (Shotgun) D.Brees pass short left to M.Colston to SF 10 for 24 yards (C.Culliver). Pass 5, YAC 19",3,4,70,SF 34,0,NO,
+22,3588,1,02:28,(2:28) M.Ingram right guard to SF 4 for 6 yards (E.Reid).,10,4,76,SF 10,0,NO,
+22,3651,0,01:55,Timeout #1 by SF at 01:55.,0,4,78,,0,,TIMEOUT
+22,3613,0,02:00,Two-Minute Warning,0,4,76,,0,,
+23,3798,3,01:39,(1:39) (Shotgun) C.Kaepernick pass incomplete short right to M.Crabtree.,10,4,0,SF 22,0,SF,
+23,3934,2,01:00,(1:00) (Shotgun) C.Kaepernick pass incomplete short left to A.Boldin.,10,4,51,NO 27,0,SF,
+23,3753,2,01:43,"(1:43) (Shotgun) C.Kaepernick pass short left to A.Boldin to SF 28 for 6 yards (C.Lofton). Pass 5, YAC 1 The Replay Official challenged the pass completion ruling, and the play was REVERSED. (Shotgun) C.Kaepernick pass incomplete short left to A.Boldin (C.Lofton). The Saints called timeout, and the officals chose to REVIEW the play, with the result that the previous play was REVERSED.  After the reversal, the Saints were given their timeout back.",10,4,0,SF 22,0,SF,
+23,3867,4,01:34,"(1:34) (Shotgun) C.Kaepernick pass deep middle to M.Crabtree to NO 27 for 51 yards (C.White). Pass 48, YAC 3",10,4,51,SF 22,0,SF,
+23,3956,0,00:54,Timeout #2 by SF at 00:54.,0,4,51,,0,,TIMEOUT
+23,3973,3,00:54,(:54) (Shotgun) C.Kaepernick pass incomplete deep right to A.Boldin.,10,4,51,NO 27,0,SF,
+23,3912,1,01:05,(1:05) (Shotgun) C.Kaepernick pass incomplete deep right to M.Crabtree.,10,4,51,NO 27,0,SF,
+23,3995,4,00:49,"(:49) P.Dawson 45 yard field goal is GOOD, Center-K.Nelson, Holder-A.Lee.",10,4,51,NO 27,1,SF,FG
+23,3891,0,01:05,Timeout #2 by NO at 01:05.,0,4,51,,0,,TIMEOUT
+23,3731,1,01:46,(1:46) (Shotgun) C.Kaepernick pass incomplete short middle to A.Boldin.,10,4,0,SF 22,0,SF,
+23,3705,0,01:52,T.Morstead kicks 66 yards from NO 35 to SF -1. C.Hyde to SF 22 for 23 yards (R.Powell).,0,4,0,NO 35,0,NO,KICKOFF
+28,4728,1,05:18,"(5:18) P.Dawson 35 yard field goal is GOOD, Center-K.Nelson, Holder-A.Lee.",10,5,0,NO 17,1,SF,FG
+1,130,3,14:16,(14:16) (Shotgun) D.Brees pass deep right intended for M.Colston INTERCEPTED by A.Bethea at NO 41. A.Bethea to NO 19 for 22 yards (B.Cooks).,8,1,2,NO 25,0,NO,INT
+1,80,2,14:51,"(14:51) (Shotgun) D.Brees pass short left to J.Graham to NO 25 for 2 yards (C.Culliver). Pass 2, YAC 0",10,1,2,NO 23,0,NO,
+1,109,0,14:16,Timeout #1 by SF at 14:16.,0,1,2,,0,,TIMEOUT
+1,36,0,15:00,P.Dawson kicks 70 yards from SF 35 to NO -5. T.Cadet to NO 23 for 28 yards (D.Johnson).,0,1,0,SF 35,0,SF,KICKOFF
+1,58,1,14:55,(14:55) (Shotgun) D.Brees pass incomplete short right to K.Stills.,10,1,2,NO 23,0,NO,
+3,329,4,11:43,"(11:43) T.Morstead punts 47 yards to SF 23, Center-J.Drescher. B.Ellington to SF 21 for -2 yards (V.Sunseri).",3,1,7,NO 30,0,NO,PUNT
+3,307,3,11:46,(11:46) (Shotgun) D.Brees pass incomplete short right to B.Cooks.,3,1,7,NO 30,0,NO,
+3,265,1,12:56,(12:56) M.Ingram left guard to NO 26 for 3 yards (C.Borland).,10,1,7,NO 23,0,NO,
+3,243,0,13:01,P.Dawson kicks 69 yards from SF 35 to NO -4. T.Cadet to NO 23 for 27 yards (C.Lemonier).,0,1,0,SF 35,0,SF,KICKOFF
+3,286,2,12:28,(12:28) M.Ingram left guard to NO 30 for 4 yards (J.Smith).,7,1,7,NO 26,0,NO,
+2,227,0,13:01,"P.Dawson extra point is GOOD, Center-K.Nelson, Holder-A.Lee.",0,1,19,NO 2,1,SF,XP
+2,189,1,13:44,(13:44) (Shotgun) F.Gore left tackle to NO 4 for 3 yards (B.Bunkley).,7,1,15,NO 7,0,SF,
+2,210,2,13:05,"(13:05) (Shotgun) F.Gore left end for 4 yards, TOUCHDOWN.",4,1,19,NO 4,1,SF,TD
+2,157,1,14:06,"(14:06) F.Gore left tackle to NO 14 for 5 yards (C.Lofton). PENALTY on NO-K.Vaccaro, Face Mask (15 Yards), 7 yards, enforced at NO 14.",10,1,19,NO 19,0,SF,PENALTY
+5,854,3,02:03,"(2:03) (Shotgun) D.Brees pass short left to M.Colston pushed ob at SF 23 for 12 yards (C.Culliver). Pass 4, YAC 8",7,1,53,SF 35,0,NO,
+5,904,2,01:29,(1:29) (Shotgun) M.Ingram left tackle to SF 21 for 2 yards (C.Borland).,10,1,55,SF 23,0,NO,
+5,691,0,04:17,P.Dawson kicks 70 yards from SF 35 to NO -5. T.Cadet to NO 24 for 29 yards (C.Thomas).,0,1,0,SF 35,0,SF,KICKOFF
+5,756,3,03:32,"(3:32) (Shotgun) PENALTY on NO-J.Goodwin, False Start, 5 yards, enforced at NO 27 - No Play.",7,1,-2,NO 27,0,NO,PENALTY
+5,878,1,01:36,(1:36) D.Brees pass incomplete short left to J.Graham.,10,1,53,SF 23,0,NO,
+5,949,4,00:08,"(:08) S.Graham 40 yard field goal is GOOD, Center-J.Drescher, Holder-L.McCown.",9,1,54,SF 22,1,NO,FG
+5,713,1,04:13,(4:13) M.Ingram right end to NO 27 for 3 yards (A.Lynch; C.Borland).,10,1,3,NO 24,0,NO,
+5,779,3,03:32,"(3:32) (Shotgun) D.Brees pass deep right to B.Cooks to SF 38 for 40 yards (T.Brock) [J.Smith]. Pass 38, YAC 2",12,1,38,NO 22,0,NO,
+5,829,2,02:39,(2:39) M.Ingram left tackle to SF 35 for 3 yards (M.Wilhoite; T.Jerod-Eddie).,10,1,41,SF 38,0,NO,
+5,734,2,03:37,(3:37) (Shotgun) D.Brees pass incomplete short middle to T.Cadet.,7,1,3,NO 27,0,NO,
+5,803,1,02:43,(2:43) (Shotgun) D.Brees pass incomplete short right. No flag for grounding - Brees was out of the pocket and the pass beyond the line of scrimmage.,10,1,38,SF 38,0,NO,
+5,925,3,00:50,"(:50) (Shotgun) D.Brees pass short right to T.Cadet to SF 22 for -1 yards (C.Borland). Pass -1,YAC 0",8,1,54,SF 21,0,NO,
+4,636,2,05:01,(5:01) F.Gore right guard to NO 9 for 4 yards (R.Bush).,3,1,70,NO 13,0,SF,
+4,657,1,04:24,"(4:24) C.Hyde left end for 9 yards, TOUCHDOWN.",9,1,79,NO 9,1,SF,TD
+4,560,3,06:30,"(6:30) (Shotgun) C.Kaepernick pass short middle to M.Crabtree to NO 20 for 5 yards (C.Lofton). Pass 4, YAC 1",4,1,59,NO 25,0,SF,
+4,451,1,09:24,(9:24) F.Gore left guard to 50 for 5 yards (R.Humber; K.Vaccaro).,10,1,29,SF 45,0,SF,
+4,675,0,04:17,"P.Dawson extra point is GOOD, Center-K.Nelson, Holder-A.Lee.",0,1,79,NO 2,1,SF,XP
+4,588,1,05:50,(5:50) F.Gore left guard to NO 18 for 2 yards (R.Humber; C.Lofton).,10,1,61,NO 20,0,SF,
+4,472,2,08:44,(8:44) C.Kaepernick pass incomplete deep right to V.Davis.,5,1,48,50,0,SF,
+4,536,2,07:15,"(7:15) C.Kaepernick pass short middle to V.Davis to NO 25 for 8 yards (R.Bush). Pass 5, YAC 3",12,1,54,NO 33,0,SF,
+4,355,1,11:32,(11:32) F.Gore left guard to SF 32 for 11 yards (R.Bush; R.Humber).,10,1,11,SF 21,0,SF,
+4,377,1,10:50,(10:50) F.Gore right guard to SF 32 for no gain (R.Humber).,10,1,11,SF 32,0,SF,
+4,613,2,05:12,"(5:12) (Shotgun) PENALTY on NO-J.Jenkins, Encroachment, 5 yards, enforced at NO 18 - No Play.",8,1,66,NO 18,0,SF,PENALTY
+4,494,3,08:39,(8:39) (Shotgun) C.Kaepernick scrambles left end to NO 31 for 19 yards (C.Lofton).,5,1,54,50,0,SF,
+4,398,2,10:09,(10:09) C.Kaepernick pass incomplete deep left to A.Boldin (C.White).,10,1,11,SF 32,0,SF,
+4,515,1,07:56,(7:56) (Shotgun) F.Gore left guard to NO 33 for -2 yards (R.Humber).,10,1,46,NO 31,0,SF,
+4,427,3,10:05,(10:05) (Shotgun) C.Kaepernick pass short right to A.Boldin to SF 45 for 13 yards (C.Lofton).,10,1,24,SF 32,0,SF,
+7,1285,0,09:13,"S.Graham extra point is GOOD, Center-J.Drescher, Holder-L.McCown.",0,2,60,SF 2,1,NO,XP
+7,1215,1,10:39,(10:39) M.Ingram left tackle to SF 37 for 9 yards (A.Bethea; C.Culliver).,10,2,23,SF 46,0,NO,
+7,1191,2,11:17,"(11:17) (Shotgun) D.Brees pass short left to J.Graham to SF 46 for 9 yards (A.Bethea). Pass 7, YAC 2",5,2,14,NO 45,0,NO,
+7,1261,1,09:19,"(9:19) (Shotgun) D.Brees pass deep right to B.Cooks for 31 yards, TOUCHDOWN. Pass 31, YAC 0",10,2,60,SF 31,1,NO,TD
+7,1170,1,11:51,(11:51) M.Ingram left guard to NO 45 for 5 yards (C.Borland).,10,2,5,NO 40,0,NO,
+7,1240,2,09:59,(9:59) M.Ingram left guard to SF 31 for 6 yards (T.Jerod-Eddie; R.McDonald).,1,2,29,SF 37,0,NO,
+6,995,0,,END QUARTER 1,0,1,0,,0,,
+6,1053,1,13:44,"(13:44) C.Kaepernick pass deep left to A.Boldin pushed ob at NO 42 for 30 yards (C.White). PENALTY on SF-A.Boldin, Offensive Pass Interference, 10 yards, enforced at SF 28 - No Play.",10,2,2,SF 28,0,SF,PENALTY
+6,973,0,00:03,T.Morstead kicks 68 yards from NO 35 to SF -3. B.Ellington to SF 16 for 19 yards (J.Hill).,0,1,0,NO 35,0,NO,KICKOFF
+6,1131,3,12:29,(12:29) (Shotgun) C.Kaepernick left end to SF 22 for 1 yard (P.Robinson).,17,2,6,SF 21,0,SF,
+6,1088,1,13:22,(13:22) (Shotgun) F.Gore left guard to SF 21 for 3 yards (R.Bush).,20,2,5,SF 18,0,SF,
+6,1032,2,14:19,(14:19) B.Miller right guard to SF 28 for 3 yards (B.Deaderick).,1,2,12,SF 25,0,SF,
+6,1152,4,11:57,"(11:57) A.Lee punts 38 yards to NO 40, Center-K.Nelson, out of bounds.",16,2,6,SF 22,0,SF,PUNT
+6,1011,1,15:00,(15:00) F.Gore left guard to SF 25 for 9 yards (K.Vaccaro).,10,2,9,SF 16,0,SF,
+6,1109,2,12:38,(12:38) (Shotgun) C.Kaepernick pass incomplete deep right to A.Boldin (K.Lewis).,17,2,5,SF 21,0,SF,
+9,1572,1,04:41,"(4:41) D.Brees pass short right to B.Cooks to NO 19 for 6 yards (P.Cox). SF-I.Williams was injured during the play. His return is Probable.  Pass 5, YAC 1",10,2,6,NO 13,0,NO,
+9,1647,4,03:19,"(3:19) T.Morstead punts 54 yards to SF 27, Center-J.Drescher. B.Ellington to SF 29 for 2 yards (V.Sunseri). NO-E.Baker was injured during the play. His return is Questionable. SF-B.Ellington was injured during the play. His return is Probable.  A flag was thrown for an illegal block in the back, but after the officials huddled, it was picked up.",4,2,6,NO 19,0,NO,PUNT
+9,1596,2,04:08,(4:08) M.Ingram right guard to NO 19 for no gain (C.Culliver).,4,2,6,NO 19,0,NO,
+9,1625,3,03:25,(3:25) (Shotgun) D.Brees pass incomplete deep right to M.Colston.,4,2,6,NO 19,0,NO,
+9,1549,0,04:45,P.Dawson kicks 64 yards from SF 35 to NO 1. T.Cadet to NO 13 for 12 yards (B.Miller).,0,2,0,SF 35,0,SF,KICKOFF
+8,1317,1,09:13,"(9:13) C.Kaepernick pass deep left to S.Johnson to SF 40 for 20 yards (R.Bush). Pass 20, YAC 0",10,2,20,SF 20,0,SF,
+8,1437,0,06:12,Timeout #2 by SF at 06:12.,0,2,32,,0,,TIMEOUT
+8,1302,0,09:13,"T.Morstead kicks 65 yards from NO 35 to end zone, Touchback.",0,2,0,NO 35,0,NO,KICKOFF
+8,1503,1,04:51,"(4:51) C.Kaepernick pass short right to A.Boldin for 15 yards, TOUCHDOWN. Pass 15, YAC 0 The Replay Official challenged the pass completion ruling, and the play was Upheld. The ruling on the field was confirmed.",10,2,80,NO 15,1,SF,TD
+8,1341,1,08:28,(8:28) C.Kaepernick pass incomplete short right to V.Davis.,10,2,20,SF 40,0,SF,
+8,1529,0,04:45,"P.Dawson extra point is GOOD, Center-K.Nelson, Holder-A.Lee.",0,2,80,NO 2,1,SF,XP
+8,1454,2,06:12,"(6:12) (Shotgun) C.Kaepernick pass deep middle to A.Boldin to NO 25 for 23 yards (R.Bush). Pass 18, YAC 5",12,2,55,NO 48,0,SF,
+8,1367,2,08:24,(8:24) F.Gore right guard to SF 44 for 4 yards (P.Haralson).,10,2,24,SF 40,0,SF,
+8,1388,3,07:39,"(7:39) (Shotgun) C.Kaepernick pass short left to A.Boldin to NO 46 for 10 yards (C.White). Pass 8, YAC 2",6,2,34,SF 44,0,SF,
+8,1412,1,07:00,(7:00) F.Gore left end to NO 48 for -2 yards (C.Jordan; C.Lofton).,10,2,32,NO 46,0,SF,
+8,1478,1,05:35,(5:35) F.Gore left tackle to NO 15 for 10 yards (P.Haralson).,10,2,65,NO 25,0,SF,
+11,1901,4,01:21,"(1:21) T.Morstead punts 49 yards to SF 44, Center-J.Drescher. P.Cox ran ob at SF 44 for no gain.",6,2,4,NO 7,0,NO,PUNT
+11,1853,2,01:28,(1:28) (Shotgun) D.Brees pass incomplete short middle to J.Graham (Q.Dial).,6,2,4,NO 7,0,NO,
+11,1829,1,01:48,"(1:48) (Shotgun) D.Brees pass short left to J.Graham to NO 7 for 4 yards (C.Borland). Pass 4, YAC 0",10,2,4,NO 3,0,NO,
+11,1879,3,01:24,"(1:24) (Shotgun) D.Brees pass incomplete short left to T.Cadet. INJURY UPDATES: NO#27 E.Baker, concussion, OUT. SF#93 I.Williams, leg, QUESTIONABLE. SF#10, B.Ellington, ankle, QUESTIONABLE.",6,2,4,NO 7,0,NO,
+10,1770,0,02:00,Two-Minute Warning,0,2,26,,0,,
+10,1719,1,02:39,(2:39) C.Kaepernick pass incomplete deep right to V.Davis. NO-K.Lewis was injured during the play. His return is Questionable.,10,2,25,NO 46,0,SF,
+10,1809,4,01:57,"(1:57) A.Lee punts 42 yards to NO 3, Center-K.Nelson, downed by SF-K.Osgood.",9,2,26,NO 45,0,SF,PUNT
+10,1787,3,02:00,(2:00) (Shotgun) C.Kaepernick pass incomplete short left to M.Crabtree [J.Galette].,9,2,26,NO 45,0,SF,
+10,1691,1,03:08,"(3:08) C.Kaepernick pass deep right to A.Boldin pushed ob at NO 46 for 25 yards (C.White). Pass 22, YAC 3",10,2,25,SF 29,0,SF,
+10,1745,2,02:32,(2:32) (Shotgun) F.Gore left guard to NO 45 for 1 yard (R.Humber).,10,2,26,NO 46,0,SF,
+13,2059,2,00:17,"(:17) (No Huddle, Shotgun) D.Brees pass deep left intended for J.Graham INTERCEPTED by C.Culliver at SF 0. C.Culliver to SF 29 for 29 yards (B.Cooks).",2,2,20,SF 22,0,NO,INT
+13,2014,0,00:37,Timeout #1 by NO at 00:37.,0,2,12,,0,,TIMEOUT
+13,1985,2,00:44,"(:44) (No Huddle, Shotgun) D.Brees Aborted. J.Goodwin FUMBLES at SF 40, recovered by NO-D.Brees at SF 44. D.Brees pass short left to J.Graham to SF 30 for 6 yards (M.Wilhoite). Pass 3, YAC 3",4,2,20,SF 36,0,NO,FUMBLE
+13,1961,1,01:06,"(1:06) (Shotgun) D.Brees pass short left to T.Cadet to SF 36 for 6 yards (C.Borland). Pass 4, YAC 2",10,2,20,SF 42,0,NO,
+13,2031,1,00:36,"(:36) (Shotgun) D.Brees pass short middle to B.Cooks to SF 22 for 8 yards (E.Reid; C.Borland). Pass 8, YAC 0",10,2,20,SF 30,0,NO,
+12,1931,1,01:13,"(1:13) (Shotgun) C.Kaepernick sacked at SF 40 for -4 yards (T.Walker). FUMBLES (T.Walker), RECOVERED by NO-C.Jordan at SF 42. C.Jordan to SF 42 for no gain (M.Iupati).",10,2,-2,SF 44,0,SF,FUMBLE
+15,2137,0,15:00,"T.Morstead kicks 73 yards from NO 35 to SF -8. C.Hyde to SF 22 for 30 yards (J.Hill). INJURY UPDATE: NO#28 K.Lewis, quad, QUESTIONABLE.",0,3,28,NO 35,0,NO,KICKOFF
+15,2206,3,14:12,"(14:12) (Shotgun) C.Kaepernick pass short left to S.Johnson pushed ob at SF 43 for 19 yards (C.White). Pass 14, YAC 5",8,3,21,SF 24,0,SF,
+15,2280,3,12:13,(12:13) (Shotgun) C.Kaepernick pass incomplete short right to A.Boldin.,3,3,28,50,0,SF,
+15,2230,1,13:32,"(13:32) F.Gore left tackle to SF 44 for 1 yard (J.Galette). INJURY UPDATE: SF#10 B.Ellington, ankle, OUT; SF#93, I.Williams, leg, OUT.",10,3,28,SF 43,0,SF,
+15,2302,4,12:09,"(12:09) A.Lee punts 34 yards to NO 16, Center-K.Nelson, fair catch by B.Cooks.",3,3,28,50,0,SF,PUNT
+15,2184,2,14:17,(14:17) C.Kaepernick pass incomplete short right to B.Miller.,8,3,2,SF 24,0,SF,
+15,2255,2,12:52,(12:52) F.Gore left tackle to 50 for 6 yards (P.Haralson).,9,3,28,SF 44,0,SF,
+15,2159,1,14:55,(14:55) F.Gore left tackle to SF 24 for 2 yards (C.Lofton).,10,3,2,SF 22,0,SF,
+14,2111,0,,END QUARTER 2,0,2,-1,,0,,
+14,2090,1,00:04,(:04) C.Kaepernick kneels to SF 28 for -1 yards.,10,2,-1,SF 29,0,SF,
+17,2495,2,07:44,"(7:44) (Shotgun) C.Kaepernick pass short left to S.Johnson to SF 15 for 4 yards (R.Humber; C.White). Pass -1, YAC 5",19,3,-5,SF 11,0,SF,
+17,2472,1,08:30,(8:30) C.Kaepernick sacked at SF 11 for -9 yards (C.Jordan).,10,3,-9,SF 20,0,SF,
+17,2545,4,06:52,"(6:52) A.Lee punts 39 yards to NO 46, Center-K.Nelson, out of bounds. PENALTY on NO-T.Davis, Offensive Holding, 10 yards, enforced at NO 46.",15,3,-5,SF 15,0,SF,PUNT
+17,2519,3,06:59,(6:59) (Shotgun) C.Kaepernick pass incomplete deep middle to A.Boldin.,15,3,-5,SF 15,0,SF,
+16,2321,1,12:02,(12:02) M.Ingram right end to NO 20 for 4 yards (C.Borland).,10,3,4,NO 16,0,NO,
+16,2342,2,11:23,(11:23) (Shotgun) T.Cadet left guard to NO 28 for 8 yards (R.McDonald).,6,3,12,NO 20,0,NO,
+16,2451,4,08:38,"(8:38) T.Morstead punts 53 yards to end zone, Center-J.Drescher, Touchback. INJURY UPDATE: NO#43 V.Sunseri, arm, OUT.",2,3,31,NO 47,0,NO,PUNT
+16,2427,3,09:22,"(9:22) (Shotgun) D.Brees pass short right to J.Graham to NO 47 for 7 yards (P.Cox) [J.Smith]. Pass 5, YAC 2",9,3,31,NO 40,0,NO,
+16,2406,2,09:58,(9:58) M.Ingram right tackle to NO 40 for 1 yard (A.Bethea).,10,3,24,NO 39,0,NO,
+16,2384,1,10:05,(10:05) (Shotgun) D.Brees pass incomplete short right to B.Watson (A.Lynch).,10,3,23,NO 39,0,NO,
+16,2363,1,10:47,(10:47) M.Ingram right guard to NO 39 for 11 yards (A.Brooks).,10,3,23,NO 28,0,NO,
+19,2903,3,01:24,(1:24) (Shotgun) C.Kaepernick pass incomplete short right to A.Boldin (K.Lewis).,5,3,5,SF 28,0,SF,
+19,2836,0,02:49,T.Morstead kicks 71 yards from NO 35 to SF -6. C.Hyde to SF 23 for 29 yards (T.Davis).,0,3,5,NO 35,0,NO,KICKOFF
+19,2879,2,02:09,"(2:09) C.Kaepernick pass short right to F.Gore to SF 28 for 2 yards (R.Humber). Pass -4, YAC 6",7,3,5,SF 26,0,SF,
+19,2930,4,01:20,"(1:20) A.Lee punts 52 yards to NO 20, Center-K.Nelson. B.Cooks to NO 24 for 4 yards (K.Nelson).",5,3,5,SF 28,0,SF,PUNT
+19,2858,1,02:45,(2:45) F.Gore right guard to SF 26 for 3 yards (C.Lofton; A.Hicks).,10,3,3,SF 23,0,SF,
+18,2659,1,05:18,(5:18) D.Brees pass incomplete short left to M.Ingram. SF-E.Reid was injured during the play. His return is Probable.,10,3,22,SF 42,0,NO,
+18,2731,1,04:10,(4:10) M.Ingram left tackle pushed ob at SF 15 for 11 yards (A.Bethea).,10,3,49,SF 26,0,NO,
+18,2820,0,02:49,"S.Graham extra point is GOOD, Center-J.Drescher, Holder-L.McCown.",0,3,64,SF 2,1,NO,XP
+18,2575,1,06:44,(6:44) M.Ingram right tackle to NO 40 for 4 yards (A.Lynch; J.Smith).,10,3,4,NO 36,0,NO,
+18,2774,2,03:37,(3:37) M.Ingram left guard to SF 11 for 4 yards (C.Carradine).,10,3,53,SF 15,0,NO,
+18,2596,2,06:13,"(6:13) (Shotgun) D.Brees pass short left to B.Cooks to NO 45 for 5 yards (C.Culliver). Pass -2, YAC 7",6,3,9,NO 40,0,NO,
+18,2710,3,04:43,(4:43) (Shotgun) M.Ingram right guard to SF 26 for 9 yards (E.Reid; A.Bethea).,3,3,38,SF 35,0,NO,
+18,2752,1,03:42,(3:42) D.Brees pass incomplete short middle to B.Watson (C.Culliver).,10,3,49,SF 15,0,NO,
+18,2620,3,05:37,"(5:37) (Shotgun) D.Brees pass short right to B.Watson to SF 42 for 13 yards (A.Bethea; C.Borland). Penalty on SF-J.Ward, Illegal Block Above the Waist, declined. Pass 13, YAC 0",1,3,22,NO 45,0,NO,
+18,2681,2,05:18,(5:18) M.Ingram right tackle to SF 35 for 7 yards (J.Ward).,10,3,29,SF 42,0,NO,
+18,2795,3,02:55,"(2:55) (Shotgun) D.Brees pass short middle to J.Graham for 11 yards, TOUCHDOWN. Pass 11, YAC 0",6,3,64,SF 11,1,NO,TD

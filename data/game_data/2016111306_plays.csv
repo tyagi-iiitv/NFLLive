@@ -1,179 +1,179 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1226,1,09:48,,20,2,37,TB 41,0,TB,
-9,1371,3,07:21,,20,2,39,CHI 40,0,TB,
-9,1125,3,12:13,,7,2,13,TB 17,0,TB,
-9,1102,3,12:28,,2,2,3,TB 22,0,TB,PENALTY
-9,1194,1,10:12,,10,2,27,CHI 49,0,TB,PENALTY
-9,1060,1,13:42,,10,2,8,TB 14,0,TB,
-9,1349,2,07:25,,20,2,46,CHI 40,0,TB,
-9,1271,3,08:20,,5,2,56,CHI 44,0,TB,
-9,1149,1,11:32,,10,2,15,TB 27,0,TB,
-9,1295,1,07:45,,10,2,46,CHI 30,0,TB,PENALTY
-9,1081,2,13:08,,2,2,8,TB 22,0,TB,
-9,1247,2,09:02,,10,2,39,CHI 49,0,TB,
-9,1170,2,10:55,,8,2,37,TB 29,0,TB,
-9,1390,4,06:40,,27,2,39,CHI 47,0,TB,PUNT
-9,1327,1,07:31,,20,2,46,CHI 40,0,TB,
-24,4002,3,00:35,,5,4,39,CHI 46,0,CHI,
-24,4043,1,00:27,,10,4,29,TB 43,0,CHI,PENALTY
-24,4090,1,00:14,,20,4,32,CHI 47,0,CHI,
-24,3836,2,02:06,,11,4,11,CHI 17,0,CHI,PENALTY
-24,3888,1,01:59,,10,4,39,CHI 14,0,CHI,
-24,3968,2,00:40,,5,4,28,CHI 46,0,CHI,
-24,4111,0,00:06,,0,4,32,,0,,TIMEOUT
-24,3812,1,02:36,,10,4,-1,CHI 18,0,CHI,
-24,4152,0,00:00,,0,4,56,,0,,
-24,3871,0,01:59,,0,4,11,,0,,
-24,4128,2,00:05,,17,4,56,50,0,CHI,
-24,3909,2,01:26,,3,4,23,CHI 21,0,CHI,PENALTY
-24,3944,1,01:16,,10,4,28,CHI 41,0,CHI,
-24,4026,0,00:27,,0,4,39,,0,,TIMEOUT
-10,1409,1,06:27,,10,2,15,CHI 5,0,CHI,
-10,1430,1,05:53,,10,2,15,CHI 20,0,CHI,
-10,1452,2,05:48,,10,2,25,CHI 20,0,CHI,FUMBLE
-20,3003,3,00:58,,9,3,-2,CHI 3,1,CHI,SAF
-20,2981,2,01:06,,9,3,1,CHI 3,0,CHI,
-20,2960,1,01:46,,10,3,1,CHI 2,0,CHI,
-6,556,0,05:34,,0,1,28,TB 20,0,TB,KICKOFF
-6,696,4,02:47,,8,1,28,TB 36,1,CHI,FG
-6,653,2,03:34,,10,1,28,TB 38,0,CHI,
-6,611,1,04:52,,10,1,26,CHI 49,0,CHI,
-6,632,1,04:10,,10,1,26,TB 38,0,CHI,
-6,674,3,02:51,,8,1,28,TB 36,0,CHI,
-6,590,1,05:27,,10,1,13,CHI 36,0,CHI,
-18,2775,2,04:53,,20,3,-10,CHI 15,0,CHI,
-18,2828,4,04:04,,18,3,-8,CHI 17,0,CHI,PUNT
-18,2804,3,04:48,,20,3,-8,CHI 15,0,CHI,
-18,2740,2,05:14,,10,3,-8,CHI 25,0,CHI,PENALTY
-18,2711,1,05:19,,10,3,0,CHI 25,0,CHI,
-18,2696,0,05:19,,0,3,0,TB 35,0,TB,KICKOFF
-1,101,1,13:47,,10,1,23,CHI 45,0,CHI,
-1,146,1,12:25,,10,1,37,TB 41,0,CHI,
-1,189,3,11:38,,7,1,37,TB 38,0,CHI,
-1,211,4,11:32,,7,1,37,TB 38,0,CHI,PUNT
-1,37,0,15:00,,0,1,0,TB 35,0,TB,KICKOFF
-1,167,2,11:42,,7,1,37,TB 38,0,CHI,
-1,77,2,14:27,,6,1,20,CHI 29,0,CHI,
-1,122,2,13:07,,7,1,34,CHI 48,0,CHI,
-1,56,1,15:00,,10,1,4,CHI 25,0,CHI,
-5,518,1,05:42,,10,1,0,CHI 21,1,CHI,TD
-13,1912,4,00:35,,5,2,41,CHI 12,1,TB,FG
-13,1828,1,00:55,,10,2,35,CHI 17,0,TB,
-13,1866,2,00:48,,11,2,41,CHI 18,0,TB,
-13,1849,0,00:48,,0,2,35,,0,,TIMEOUT
-13,1734,1,01:45,,10,2,41,TB 47,0,TB,
-13,1890,3,00:41,,5,2,41,CHI 12,0,TB,
-13,1756,2,01:39,,10,2,10,TB 47,0,TB,
-13,1780,1,01:18,,10,2,20,CHI 43,0,TB,
-13,1804,1,01:01,,10,2,36,CHI 33,0,TB,
-21,3078,0,,,0,3,3,,0,,
-21,3094,2,15:00,,7,4,11,TB 41,0,TB,
-21,3365,2,09:38,,3,4,42,CHI 20,0,TB,
-21,3325,1,10:18,,10,4,42,CHI 27,0,TB,
-21,3555,3,06:00,,1,4,62,CHI 1,1,TB,TD
-21,3304,2,10:59,,4,4,35,CHI 31,0,TB,
-21,3141,2,13:42,,10,4,11,TB 49,0,TB,
-21,3283,1,11:40,,10,4,31,CHI 37,0,TB,
-21,3348,0,09:38,,0,4,42,,0,,TIMEOUT
-21,3433,2,07:36,,5,4,57,CHI 5,0,TB,
-21,3229,0,11:49,,0,4,20,,0,,TIMEOUT
-21,3118,1,14:23,,10,4,11,TB 49,0,TB,
-21,3576,0,05:55,,0,4,62,CHI 15,1,TB,XP
-21,3187,1,13:09,,10,4,24,CHI 41,0,TB,
-21,3163,3,13:37,,10,4,21,TB 49,0,TB,
-21,3472,3,07:30,,5,4,61,CHI 5,0,TB,PENALTY
-21,3505,1,07:26,,1,4,58,CHI 1,0,TB,
-21,3210,2,12:33,,7,4,62,CHI 38,0,TB,
-21,3455,0,07:30,,0,4,62,,0,,TIMEOUT
-21,3246,3,11:49,,11,4,25,CHI 42,0,TB,PENALTY
-21,3530,2,06:42,,4,4,61,CHI 4,0,TB,
-21,3035,0,00:51,,0,3,0,CHI 20,0,CHI,KICKOFF
-21,3057,1,00:46,,10,3,20,TB 38,0,TB,
-21,3388,3,08:58,,3,4,54,CHI 20,0,TB,
-21,3412,1,08:14,,8,4,57,CHI 8,0,TB,
-23,3694,1,04:31,,10,4,3,TB 15,0,TB,
-23,3759,0,02:46,,0,4,8,,0,,TIMEOUT
-23,3715,2,03:39,,7,4,1,TB 18,0,TB,
-23,3738,3,02:54,,9,4,8,TB 16,0,TB,
-23,3776,4,02:46,,2,4,8,TB 23,0,TB,PUNT
-11,1570,0,03:33,,0,2,29,CHI 15,1,TB,XP
-11,1484,1,05:37,,10,2,0,CHI 29,0,TB,
-11,1529,1,04:18,,10,2,19,CHI 13,0,TB,
-11,1505,2,04:58,,10,2,16,CHI 29,0,TB,
-11,1550,2,03:38,,7,2,29,CHI 10,1,TB,TD
-14,1974,0,00:19,,0,2,13,,0,,TIMEOUT
-14,2073,1,00:05,,10,2,83,50,1,CHI,TD
-14,2093,0,00:00,,0,2,83,TB 15,1,CHI,XP
-14,2056,0,00:05,,0,2,33,,0,,TIMEOUT
-14,2032,2,00:12,,6,2,33,CHI 34,0,CHI,
-14,1931,0,00:31,,0,2,0,TB 35,0,TB,KICKOFF
-14,2015,0,00:12,,0,2,17,,0,,TIMEOUT
-14,1991,1,00:18,,10,2,17,CHI 30,0,CHI,
-14,1953,1,00:26,,10,2,13,CHI 17,0,CHI,
-8,1007,2,14:25,,7,2,20,TB 7,0,CHI,
-8,948,0,,,0,1,8,,0,,
-8,1031,3,13:53,,4,2,14,TB 4,0,CHI,FUMBLE
-8,924,2,00:45,,9,1,8,TB 23,0,CHI,
-8,903,1,01:28,,10,1,1,TB 24,0,CHI,
-8,964,3,15:00,,2,2,17,TB 16,0,CHI,
-8,985,1,14:32,,7,2,17,TB 7,0,CHI,
-19,2874,1,03:56,,15,3,-1,TB 35,0,TB,
-19,2935,4,01:59,,9,3,1,TB 41,0,TB,PUNT
-19,2895,2,03:21,,11,3,-7,TB 39,0,TB,
-19,2914,3,02:39,,17,3,1,TB 33,0,TB,
-19,2851,1,03:56,,10,3,-5,TB 40,0,TB,PENALTY
-22,3611,1,05:55,,10,4,9,CHI 25,0,CHI,
-22,3632,2,05:22,,1,4,7,CHI 34,0,CHI,
-22,3592,0,05:55,,0,4,0,TB 35,0,TB,KICKOFF
-22,3653,3,04:44,,3,4,7,CHI 32,0,CHI,
-22,3675,4,04:39,,3,4,7,CHI 32,0,CHI,PUNT
-12,1653,0,02:00,,0,2,5,,0,,
-12,1586,0,03:33,,0,2,0,TB 35,0,TB,KICKOFF
-12,1670,3,02:00,,5,2,0,CHI 15,0,CHI,PENALTY
-12,1693,3,02:00,,10,2,0,CHI 10,0,CHI,
-12,1715,4,01:54,,10,2,0,CHI 10,0,CHI,PUNT
-12,1632,2,02:43,,6,2,5,CHI 14,0,CHI,
-12,1608,1,03:28,,10,2,4,CHI 10,0,CHI,
-16,2381,4,11:28,,20,3,-10,CHI 15,0,CHI,PUNT
-16,2277,0,13:05,,0,3,0,TB 35,0,TB,KICKOFF
-16,2335,3,12:28,,8,3,-5,CHI 27,0,CHI,
-16,2313,2,12:32,,8,3,-5,CHI 27,0,CHI,
-16,2292,1,13:05,,10,3,2,CHI 25,0,CHI,
-16,2354,4,11:43,,15,3,-10,CHI 20,0,CHI,PENALTY
-7,790,2,01:58,,16,1,-16,TB 19,0,TB,PENALTY
-7,715,0,02:42,,0,1,0,CHI 35,0,CHI,KICKOFF
-7,769,1,02:36,,20,1,-6,TB 15,0,TB,
-7,825,2,01:33,,26,1,-16,TB 9,0,TB,INT
-7,734,1,02:42,,10,1,-10,TB 25,0,TB,PENALTY
-3,317,1,09:17,,10,1,15,CHI 40,0,CHI,
-3,357,2,08:01,,15,1,23,50,0,CHI,
-3,381,3,07:18,,2,1,23,TB 37,0,CHI,INT
-3,338,1,08:42,,10,1,10,TB 45,0,CHI,
-17,2475,3,09:23,,3,3,32,CHI 43,0,TB,
-17,2677,4,05:23,,9,3,52,CHI 9,1,TB,FG
-17,2613,1,07:27,,6,3,40,CHI 6,0,TB,
-17,2451,2,09:56,,10,3,18,50,0,TB,
-17,2430,1,10:37,,10,3,11,50,0,TB,
-17,2580,1,07:32,,10,3,55,CHI 11,0,TB,PENALTY
-17,2534,2,08:23,,6,3,36,CHI 25,0,TB,
-17,2556,3,08:13,,6,3,50,CHI 25,0,TB,
-17,2510,1,09:02,,10,3,36,CHI 29,0,TB,
-17,2406,1,11:17,,10,3,11,TB 39,0,TB,
-17,2632,2,06:49,,21,3,39,CHI 21,0,TB,
-17,2653,3,06:09,,22,3,52,CHI 22,0,TB,
-4,495,4,05:48,,5,1,17,TB 46,0,TB,PUNT
-4,452,2,06:19,,5,1,17,TB 46,0,TB,
-4,431,1,06:45,,10,1,17,TB 41,0,TB,
-4,407,1,07:06,,10,1,17,TB 29,0,TB,
-4,473,3,05:53,,5,1,17,TB 46,0,TB,
-2,277,3,10:01,,2,1,9,TB 18,0,TB,
-2,230,1,11:21,,10,1,2,TB 10,0,TB,
-2,298,4,09:26,,1,1,9,TB 19,0,TB,PUNT
-2,253,2,10:47,,8,1,8,TB 12,0,TB,
-15,2190,3,14:14,,10,3,39,TB 23,0,TB,
-15,2123,0,15:00,,0,3,0,CHI 35,0,CHI,KICKOFF
-15,2145,1,14:54,,10,3,0,TB 23,0,TB,
-15,2214,1,14:14,,10,3,34,CHI 38,0,TB,PENALTY
-15,2237,1,13:15,,15,3,77,CHI 43,1,TB,TD
-15,2168,2,14:22,,10,3,0,TB 23,0,TB,
-15,2261,0,13:05,,0,3,77,CHI 15,1,TB,XP
+24,3812,1,02:36,(2:36) (Shotgun) J.Cutler pass short right to J.Langford to CHI 17 for -1 yards (L.David).,10,4,-1,CHI 18,0,CHI,
+24,4152,0,00:00,END GAME,0,4,56,,0,,
+24,3836,2,02:06,"(2:06) (Shotgun) J.Cutler pass short middle to Z.Miller to CHI 29 for 12 yards (K.Alexander). PENALTY on CHI-T.Larsen, Unnecessary Roughness, 15 yards, enforced between downs.",11,4,11,CHI 17,0,CHI,PENALTY
+24,4090,1,00:14,(:14) (Shotgun) J.Langford right guard to 50 for 3 yards (J.Hughes).,20,4,32,CHI 47,0,CHI,
+24,4043,1,00:27,"(:27) (Shotgun) J.Cutler pass deep middle to A.Jeffery to TB 20 for 23 yards (C.Conte). PENALTY on CHI-J.Sitton, Offensive Holding, 10 yards, enforced at TB 43 - No Play.",10,4,29,TB 43,0,CHI,PENALTY
+24,3871,0,01:59,Two-Minute Warning,0,4,11,,0,,
+24,4002,3,00:35,(:35) (Shotgun) J.Cutler pass short middle to Z.Miller to TB 43 for 11 yards (A.Glanton).,5,4,39,CHI 46,0,CHI,
+24,3944,1,01:16,(1:16) (Shotgun) J.Cutler pass short right to J.Langford to CHI 46 for 5 yards (A.Verner).,10,4,28,CHI 41,0,CHI,
+24,3888,1,01:59,(1:59) (Shotgun) J.Cutler scrambles up the middle to CHI 21 for 7 yards (A.Glanton).,10,4,39,CHI 14,0,CHI,
+24,3909,2,01:26,"(1:26) (Shotgun) J.Cutler pass short middle to Z.Miller to CHI 26 for 5 yards (C.Lynch; A.Glanton). PENALTY on TB-D.Lambert, Unnecessary Roughness, 15 yards, enforced at CHI 26.",3,4,23,CHI 21,0,CHI,PENALTY
+24,4026,0,00:27,Timeout #2 by CHI at 00:27.,0,4,39,,0,,TIMEOUT
+24,4128,2,00:05,(:05) (Shotgun) J.Cutler pass short right to E.Royal ran ob at TB 26 for 24 yards.,17,4,56,50,0,CHI,
+24,4111,0,00:06,Timeout #3 by CHI at 00:06.,0,4,32,,0,,TIMEOUT
+24,3968,2,00:40,(:40) (Shotgun) J.Cutler pass incomplete short middle to Z.Miller.,5,4,28,CHI 46,0,CHI,
+20,2981,2,01:06,(1:06) (Shotgun) J.Cutler pass incomplete deep left to A.Jeffery [C.McDonald].,9,3,1,CHI 3,0,CHI,
+20,2960,1,01:46,(1:46) K.Carey left guard to CHI 3 for 1 yard (W.Gholston).,10,3,1,CHI 2,0,CHI,
+20,3003,3,00:58,"(:58) (Shotgun) J.Cutler sacked at CHI 0 for -3 yards (R.Ayers). FUMBLES (R.Ayers) [R.Ayers], ball out of bounds in End Zone, SAFETY.",9,3,-2,CHI 3,1,CHI,SAF
+21,3576,0,05:55,"R.Aguayo extra point is GOOD, Center-A.DePaola, Holder-B.Anger.",0,4,62,CHI 15,1,TB,XP
+21,3246,3,11:49,"(11:49) (Shotgun) J.Winston pass short middle intended for C.Brate INTERCEPTED by A.Amos at CHI 30. A.Amos to CHI 30 for no gain. PENALTY on CHI-J.Freeman, Illegal Contact, 5 yards, enforced at CHI 42 - No Play.",11,4,25,CHI 42,0,TB,PENALTY
+21,3141,2,13:42,(13:42) (Shotgun) J.Winston pass incomplete short right to M.Evans (D.Trevathan).,10,4,11,TB 49,0,TB,
+21,3412,1,08:14,(8:14) P.Barber left guard to CHI 5 for 3 yards (J.Freeman).,8,4,57,CHI 8,0,TB,
+21,3325,1,10:18,(10:18) G.Cherilus reported in as eligible.  P.Barber left guard to CHI 20 for 7 yards (C.LeBlanc).,10,4,42,CHI 27,0,TB,
+21,3304,2,10:59,"(10:59) P.Barber right guard to CHI 27 for 4 yards (E.Goldman, D.Trevathan).",4,4,35,CHI 31,0,TB,
+21,3163,3,13:37,(13:37) (Shotgun) J.Winston pass short left to A.Humphries to CHI 41 for 10 yards (D.Trevathan).,10,4,21,TB 49,0,TB,
+21,3348,0,09:38,Timeout #2 by TB at 09:38.,0,4,42,,0,,TIMEOUT
+21,3210,2,12:33,(12:33) J.Winston sacked at CHI 42 for -4 yards (sack split by W.Young and L.Floyd).,7,4,62,CHI 38,0,TB,
+21,3472,3,07:30,"(7:30) (Shotgun) J.Winston pass incomplete short middle to C.Brate. PENALTY on CHI-H.Jones-Quartey, Defensive Pass Interference, 4 yards, enforced at CHI 5 - No Play.",5,4,61,CHI 5,0,TB,PENALTY
+21,3455,0,07:30,Timeout #3 by TB at 07:30.,0,4,62,,0,,TIMEOUT
+21,3365,2,09:38,(9:38) G.Cherilus reported in as eligible.  P.Barber left guard to CHI 20 for no gain (J.Freeman).,3,4,42,CHI 20,0,TB,
+21,3433,2,07:36,(7:36) J.Winston pass incomplete short middle to C.Shorts.,5,4,57,CHI 5,0,TB,
+21,3388,3,08:58,(8:58) J.Winston pass short middle to M.Evans to CHI 8 for 12 yards (A.Amos).,3,4,54,CHI 20,0,TB,
+21,3530,2,06:42,(6:42) G.Cherilus and G.McCoy reported in as eligible.  D.Martin up the middle to CHI 1 for 3 yards (C.Prosinski).,4,4,61,CHI 4,0,TB,
+21,3187,1,13:09,"(13:09) G.Cherilus reported in as eligible.  P.Barber up the middle to CHI 38 for 3 yards (D.Trevathan, A.Hicks).",10,4,24,CHI 41,0,TB,
+21,3555,3,06:00,"(6:00) G.Cherilus and G.McCoy reported in as eligible.  D.Martin left guard for 1 yard, TOUCHDOWN.",1,4,62,CHI 1,1,TB,TD
+21,3078,0,,END QUARTER 3,0,3,3,,0,,
+21,3057,1,00:46,(:46) P.Barber left tackle to TB 41 for 3 yards (D.Trevathan).,10,3,20,TB 38,0,TB,
+21,3283,1,11:40,"(11:40) P.Barber left guard to CHI 31 for 6 yards (C.Washington, W.Young).",10,4,31,CHI 37,0,TB,
+21,3229,0,11:49,Timeout #1 by TB at 11:49.,0,4,20,,0,,TIMEOUT
+21,3118,1,14:23,(14:23) G.Cherilus reported in as eligible.  P.Barber right tackle to TB 49 for no gain (E.Goldman).,10,4,11,TB 49,0,TB,
+21,3035,0,00:51,P.O'Donnell kicks 51 yards from CHI 20 to TB 29. A.Humphries to TB 38 for 9 yards (C.Jones).,0,3,0,CHI 20,0,CHI,KICKOFF
+21,3505,1,07:26,(7:26) G.McCoy and G.Cherilus reported in as eligible.  D.Martin up the middle to CHI 4 for -3 yards (J.Freeman).,1,4,58,CHI 1,0,TB,
+21,3094,2,15:00,(15:00) (Shotgun) J.Winston pass short left to M.Evans to TB 49 for 8 yards (T.Porter).,7,4,11,TB 41,0,TB,
+22,3592,0,05:55,"R.Aguayo kicks 65 yards from TB 35 to end zone, Touchback.",0,4,0,TB 35,0,TB,KICKOFF
+22,3653,3,04:44,(4:44) (Shotgun) J.Cutler pass incomplete short right to Z.Miller.,3,4,7,CHI 32,0,CHI,
+22,3632,2,05:22,(5:22) (Shotgun) K.Carey left end to CHI 32 for -2 yards (R.Ayers).,1,4,7,CHI 34,0,CHI,
+22,3675,4,04:39,"(4:39) (Punt formation) P.O'Donnell punts 53 yards to TB 15, Center-P.Scales, fair catch by A.Humphries.",3,4,7,CHI 32,0,CHI,PUNT
+22,3611,1,05:55,(5:55) (Shotgun) J.Howard right guard to CHI 34 for 9 yards (B.McDougald).,10,4,9,CHI 25,0,CHI,
+23,3715,2,03:39,"(3:39) G.Cherilus reported in as eligible.  P.Barber up the middle to TB 16 for -2 yards (C.Prosinski, C.Washington).",7,4,1,TB 18,0,TB,
+23,3759,0,02:46,Timeout #1 by CHI at 02:46.,0,4,8,,0,,TIMEOUT
+23,3694,1,04:31,(4:31) P.Barber up the middle to TB 18 for 3 yards (J.Bullard).,10,4,3,TB 15,0,TB,
+23,3776,4,02:46,"(2:46) (Punt formation) B.Anger punts 44 yards to CHI 33, Center-A.DePaola. E.Royal to CHI 32 for -1 yards (N.Spence). PENALTY on CHI-P.Scales, Offensive Holding, 15 yards, enforced at CHI 33.",2,4,8,TB 23,0,TB,PUNT
+23,3738,3,02:54,(2:54) P.Barber right tackle to TB 23 for 7 yards (J.Freeman).,9,4,8,TB 16,0,TB,
+1,146,1,12:25,"(12:25) J.Howard left tackle to TB 38 for 3 yards (K.Alexander, L.David).",10,1,37,TB 41,0,CHI,
+1,167,2,11:42,(11:42) (Shotgun) J.Cutler pass incomplete short left to J.Bellamy.,7,1,37,TB 38,0,CHI,
+1,211,4,11:32,"(11:32) (Punt formation) P.O'Donnell punts 28 yards to TB 10, Center-P.Scales, downed by CHI-J.Bellamy.",7,1,37,TB 38,0,CHI,PUNT
+1,189,3,11:38,(11:38) (Shotgun) J.Cutler pass incomplete short left to Z.Miller.,7,1,37,TB 38,0,CHI,
+1,56,1,15:00,"(15:00) J.Howard right guard to CHI 29 for 4 yards (R.Ayers, C.Conte).",10,1,4,CHI 25,0,CHI,
+1,37,0,15:00,"R.Aguayo kicks 65 yards from TB 35 to end zone, Touchback.",0,1,0,TB 35,0,TB,KICKOFF
+1,77,2,14:27,(14:27) J.Cutler pass deep middle to A.Jeffery to CHI 45 for 16 yards (C.Conte).,6,1,20,CHI 29,0,CHI,
+1,122,2,13:07,(13:07) J.Cutler pass short middle to A.Jeffery to TB 41 for 11 yards (C.Conte).,7,1,34,CHI 48,0,CHI,
+1,101,1,13:47,"(13:47) J.Howard right tackle to CHI 48 for 3 yards (R.Ayers, K.Alexander).",10,1,23,CHI 45,0,CHI,
+3,357,2,08:01,(8:01) (Shotgun) J.Cutler pass short left to A.Jeffery to TB 37 for 13 yards (V.Hargreaves).,15,1,23,50,0,CHI,
+3,381,3,07:18,(7:18) (Shotgun) J.Cutler pass short right intended for A.Jeffery INTERCEPTED by B.Grimes at TB 28. B.Grimes to TB 29 for 1 yard (C.Meredith).,2,1,23,TB 37,0,CHI,INT
+3,317,1,09:17,(9:17) (Shotgun) J.Howard right guard to TB 45 for 15 yards (B.McDougald).,10,1,15,CHI 40,0,CHI,
+3,338,1,08:42,(8:42) (Shotgun) J.Cutler sacked at 50 for -5 yards (C.McDonald).,10,1,10,TB 45,0,CHI,
+2,253,2,10:47,"(10:47) J.Winston pass short right to B.Myers to TB 18 for 6 yards (L.Floyd, W.Sutton).",8,1,8,TB 12,0,TB,
+2,230,1,11:21,"(11:21) G.Cherilus reported in as eligible.  D.Martin left guard to TB 12 for 2 yards (W.Sutton, L.Floyd).",10,1,2,TB 10,0,TB,
+2,298,4,09:26,"(9:26) (Punt formation) B.Anger punts 41 yards to CHI 40, Center-A.DePaola, fair catch by E.Royal.",1,1,9,TB 19,0,TB,PUNT
+2,277,3,10:01,"(10:01) (Shotgun) D.Martin right end to TB 19 for 1 yard (J.Freeman, W.Sutton).",2,1,9,TB 18,0,TB,
+5,518,1,05:42,"(5:42) J.Cutler pass short left intended for L.Paulsen INTERCEPTED by C.Conte at CHI 20. C.Conte for 20 yards, TOUCHDOWN. PENALTY on TB, Unsportsmanlike Conduct, 15 yards, enforced between downs.",10,1,0,CHI 21,1,CHI,TD
+4,407,1,07:06,(7:06) (Shotgun) J.Winston pass short right to A.Humphries pushed ob at TB 41 for 12 yards (T.Porter).,10,1,17,TB 29,0,TB,
+4,473,3,05:53,(5:53) (Shotgun) J.Winston pass incomplete short middle (L.Floyd).,5,1,17,TB 46,0,TB,
+4,452,2,06:19,"(6:19) (No Huddle) D.Martin left guard to TB 46 for no gain (D.Trevathan, W.Young).",5,1,17,TB 46,0,TB,
+4,495,4,05:48,"(5:48) (Punt formation) B.Anger punts 33 yards to CHI 21, Center-A.DePaola, fair catch by E.Royal.",5,1,17,TB 46,0,TB,PUNT
+4,431,1,06:45,(6:45) (No Huddle) D.Martin right guard to TB 46 for 5 yards (W.Young).,10,1,17,TB 41,0,TB,
+7,825,2,01:33,"(1:33) (Shotgun) J.Winston pass short middle intended for C.Shorts INTERCEPTED by H.Jones-Quartey at TB 24. H.Jones-Quartey to TB 13 for 11 yards (J.Winston). FUMBLES (J.Winston), ball out of bounds at TB 13. The Replay Official reviewed the runner was not down by contact ruling, and the play was REVERSED. (Shotgun) J.Winston pass short middle intended for C.Shorts INTERCEPTED by H.Jones-Quartey at TB 24. H.Jones-Quartey to TB 24 for no gain (C.Shorts).",26,1,-16,TB 9,0,TB,INT
+7,715,0,02:42,"C.Barth kicks 65 yards from CHI 35 to end zone, Touchback.",0,1,0,CHI 35,0,CHI,KICKOFF
+7,769,1,02:36,"(2:36) (Shotgun) P.Barber up the middle to TB 19 for 4 yards (J.Freeman, D.Trevathan).",20,1,-6,TB 15,0,TB,
+7,734,1,02:42,"(2:42) G.Cherilus reported in as eligible.  J.Winston pass incomplete short right to P.Barber [L.Floyd]. PENALTY on TB-D.Smith, Illegal Use of Hands, 10 yards, enforced at TB 25 - No Play.",10,1,-10,TB 25,0,TB,PENALTY
+7,790,2,01:58,"(1:58) (Shotgun) J.Winston pass short left to M.Evans to TB 29 for 10 yards (A.Amos). PENALTY on TB-D.Dotson, Offensive Holding, 10 yards, enforced at TB 19 - No Play.",16,1,-16,TB 19,0,TB,PENALTY
+6,590,1,05:27,(5:27) (Shotgun) J.Howard left guard to CHI 49 for 13 yards (N.Spence).,10,1,13,CHI 36,0,CHI,
+6,632,1,04:10,(4:10) (Shotgun) J.Howard right guard to TB 38 for no gain (G.McCoy).,10,1,26,TB 38,0,CHI,
+6,611,1,04:52,(4:52) J.Howard up the middle to TB 38 for 13 yards (C.Conte).,10,1,26,CHI 49,0,CHI,
+6,696,4,02:47,"(2:47) (Field Goal formation) C.Barth 54 yard field goal is GOOD, Center-P.Scales, Holder-P.O'Donnell.",8,1,28,TB 36,1,CHI,FG
+6,674,3,02:51,(2:51) (Shotgun) J.Cutler pass incomplete short left to E.Royal.,8,1,28,TB 36,0,CHI,
+6,556,0,05:34,R.Aguayo kicks 65 yards from TB 20 to CHI 15. D.Thompson to CHI 36 for 21 yards (A.Cross).,0,1,28,TB 20,0,TB,KICKOFF
+6,653,2,03:34,(3:34) J.Howard up the middle to TB 36 for 2 yards (W.Gholston).,10,1,28,TB 38,0,CHI,
+9,1226,1,09:48,"(9:48) (Shotgun) D.Martin up the middle to CHI 49 for 10 yards (H.Jones-Quartey, D.Trevathan).",20,2,37,TB 41,0,TB,
+9,1327,1,07:31,(7:31) J.Winston pass incomplete short left to D.Martin.,20,2,46,CHI 40,0,TB,
+9,1081,2,13:08,"(13:08) D.Martin right tackle to TB 22 for no gain (W.Young, H.Jones-Quartey).",2,2,8,TB 22,0,TB,
+9,1170,2,10:55,(10:55) (Shotgun) J.Winston pass deep middle to C.Shorts to CHI 49 for 22 yards (H.Jones-Quartey).,8,2,37,TB 29,0,TB,
+9,1060,1,13:42,(13:42) D.Martin left guard to TB 22 for 8 yards (A.Amos).,10,2,8,TB 14,0,TB,
+9,1149,1,11:32,"(11:32) A.Humphries left end to TB 29 for 2 yards (D.Trevathan, S.Acho).",10,2,15,TB 27,0,TB,
+9,1125,3,12:13,(12:13) (Shotgun) J.Winston pass short middle to C.Brate to TB 27 for 10 yards (D.Hurst).,7,2,13,TB 17,0,TB,
+9,1194,1,10:12,"(10:12) J.Winston scrambles right end to CHI 32 for 17 yards (A.Amos). PENALTY on TB-D.Dotson, Offensive Holding, 10 yards, enforced at CHI 49 - No Play.",10,2,27,CHI 49,0,TB,PENALTY
+9,1371,3,07:21,(7:21) (Shotgun) J.Winston sacked at CHI 47 for -7 yards (L.Floyd).,20,2,39,CHI 40,0,TB,
+9,1102,3,12:28,"(12:28) (Shotgun) PENALTY on TB-D.Dotson, False Start, 5 yards, enforced at TB 22 - No Play.",2,2,3,TB 22,0,TB,PENALTY
+9,1247,2,09:02,(9:02) (Shotgun) J.Winston pass short left to M.James to CHI 44 for 5 yards (S.Acho).,10,2,39,CHI 49,0,TB,
+9,1271,3,08:20,(8:20) (Shotgun) J.Winston pass short middle to C.Brate to CHI 30 for 14 yards (D.Bush).,5,2,56,CHI 44,0,TB,
+9,1390,4,06:40,"(6:40) (Punt formation) B.Anger punts 42 yards to CHI 5, Center-A.DePaola, downed by TB-C.Lynch.",27,2,39,CHI 47,0,TB,PUNT
+9,1349,2,07:25,(7:25) (Shotgun) J.Winston pass incomplete short left to A.Humphries.,20,2,46,CHI 40,0,TB,
+9,1295,1,07:45,"(7:45) (No Huddle) D.Martin right tackle to CHI 26 for 4 yards (C.LeBlanc). PENALTY on TB-L.Stocker, Offensive Holding, 10 yards, enforced at CHI 30 - No Play.",10,2,46,CHI 30,0,TB,PENALTY
+8,964,3,15:00,(15:00) (Shotgun) J.Howard left end to TB 7 for 9 yards (C.Conte).,2,2,17,TB 16,0,CHI,
+8,903,1,01:28,(1:28) J.Howard left tackle to TB 23 for 1 yard (G.McCoy).,10,1,1,TB 24,0,CHI,
+8,948,0,,END QUARTER 1,0,1,8,,0,,
+8,985,1,14:32,(14:32) J.Cutler pass incomplete short left to A.Jeffery (K.Tandy).,7,2,17,TB 7,0,CHI,
+8,1007,2,14:25,(14:25) (Shotgun) J.Cutler pass short middle to P.Lasike to TB 4 for 3 yards (R.Ayers).,7,2,20,TB 7,0,CHI,
+8,1031,3,13:53,"(13:53) (Shotgun) J.Cutler sacked at TB 10 for -6 yards (N.Spence). FUMBLES (N.Spence) [N.Spence], RECOVERED by TB-K.Alexander at TB 10. K.Alexander to TB 14 for 4 yards (J.Langford).",4,2,14,TB 4,0,CHI,FUMBLE
+8,924,2,00:45,(:45) (Shotgun) J.Cutler pass short right to A.Jeffery to TB 16 for 7 yards (B.Grimes).,9,1,8,TB 23,0,CHI,
+11,1550,2,03:38,"(3:38) (Shotgun) J.Winston pass short middle to C.Brate for 10 yards, TOUCHDOWN.",7,2,29,CHI 10,1,TB,TD
+11,1505,2,04:58,(4:58) J.Winston pass deep middle to C.Brate to CHI 13 for 16 yards (H.Jones-Quartey).,10,2,16,CHI 29,0,TB,
+11,1570,0,03:33,"R.Aguayo extra point is GOOD, Center-A.DePaola, Holder-B.Anger.",0,2,29,CHI 15,1,TB,XP
+11,1529,1,04:18,(4:18) D.Martin left guard to CHI 10 for 3 yards (A.Amos).,10,2,19,CHI 13,0,TB,
+11,1484,1,05:37,"(5:37) D.Martin right tackle to CHI 29 for no gain (P.McPhee, D.Trevathan).",10,2,0,CHI 29,0,TB,
+10,1409,1,06:27,(6:27) (Shotgun) J.Howard up the middle to CHI 20 for 15 yards (K.Alexander).,10,2,15,CHI 5,0,CHI,
+10,1452,2,05:48,"(5:48) (Shotgun) J.Howard right guard to CHI 30 for 10 yards (W.Gholston, C.Conte). FUMBLES (W.Gholston), RECOVERED by TB-B.McDougald at CHI 35. B.McDougald ran ob at CHI 29 for 6 yards.",10,2,25,CHI 20,0,CHI,FUMBLE
+10,1430,1,05:53,(5:53) (Shotgun) J.Cutler pass incomplete short left to A.Jeffery.,10,2,15,CHI 20,0,CHI,
+13,1849,0,00:48,Timeout #1 by TB at 00:48.,0,2,35,,0,,TIMEOUT
+13,1804,1,01:01,"(1:01) (No Huddle, Shotgun) J.Winston pass deep right to C.Shorts ran ob at CHI 17 for 16 yards.",10,2,36,CHI 33,0,TB,
+13,1828,1,00:55,"(:55) (Shotgun) M.James right guard to CHI 18 for -1 yards (J.Freeman, A.Hicks).",10,2,35,CHI 17,0,TB,
+13,1780,1,01:18,"(1:18) (No Huddle, Shotgun) J.Winston pass short right to C.Brate to CHI 33 for 10 yards (A.Amos).",10,2,20,CHI 43,0,TB,
+13,1734,1,01:45,(1:45) (Shotgun) J.Winston pass incomplete short left to A.Humphries.,10,2,41,TB 47,0,TB,
+13,1866,2,00:48,(:48) (Shotgun) J.Winston pass short left to A.Humphries pushed ob at CHI 12 for 6 yards (L.Floyd).,11,2,41,CHI 18,0,TB,
+13,1756,2,01:39,(1:39) (Shotgun) J.Winston pass short left to C.Brate to CHI 43 for 10 yards (D.Trevathan).,10,2,10,TB 47,0,TB,
+13,1912,4,00:35,"(:35) (Field Goal formation) R.Aguayo 30 yard field goal is GOOD, Center-A.DePaola, Holder-B.Anger.",5,2,41,CHI 12,1,TB,FG
+13,1890,3,00:41,(:41) (Shotgun) J.Winston pass incomplete short middle to A.Humphries.,5,2,41,CHI 12,0,TB,
+12,1608,1,03:28,(3:28) J.Cutler pass short right to Z.Miller to CHI 14 for 4 yards (W.Gholston).,10,2,4,CHI 10,0,CHI,
+12,1632,2,02:43,(2:43) (Shotgun) J.Howard up the middle to CHI 15 for 1 yard (A.Spence).,6,2,5,CHI 14,0,CHI,
+12,1715,4,01:54,"(1:54) (Punt formation) P.O'Donnell punts 43 yards to TB 47, Center-P.Scales, fair catch by A.Humphries.",10,2,0,CHI 10,0,CHI,PUNT
+12,1586,0,03:33,R.Aguayo kicks 69 yards from TB 35 to CHI -4. D.Thompson to CHI 10 for 14 yards (J.Robinson).,0,2,0,TB 35,0,TB,KICKOFF
+12,1693,3,02:00,(2:00) (Shotgun) J.Cutler pass incomplete deep left to A.Jeffery [R.Ayers].,10,2,0,CHI 10,0,CHI,
+12,1653,0,02:00,Two-Minute Warning,0,2,5,,0,,
+12,1670,3,02:00,"(2:00) (Shotgun) PENALTY on CHI-A.Jeffery, False Start, 5 yards, enforced at CHI 15 - No Play.",5,2,0,CHI 15,0,CHI,PENALTY
+15,2123,0,15:00,C.Barth kicks 64 yards from CHI 35 to TB 1. R.Smith to TB 23 for 22 yards (H.Jones-Quartey).,0,3,0,CHI 35,0,CHI,KICKOFF
+15,2214,1,14:14,"(14:14) PENALTY on TB-J.Winston, Delay of Game, 5 yards, enforced at CHI 38 - No Play.",10,3,34,CHI 38,0,TB,PENALTY
+15,2237,1,13:15,"(13:15) J.Winston pass deep right to F.Martino for 43 yards, TOUCHDOWN.",15,3,77,CHI 43,1,TB,TD
+15,2190,3,14:14,(14:14) (Shotgun) J.Winston pass deep middle to M.Evans to CHI 38 for 39 yards (T.Porter).,10,3,39,TB 23,0,TB,
+15,2145,1,14:54,(14:54) G.Cherilus reported in as eligible.  D.Martin up the middle to TB 23 for no gain (W.Sutton).,10,3,0,TB 23,0,TB,
+15,2168,2,14:22,(14:22) (Shotgun) J.Winston pass incomplete short left to C.Shorts.,10,3,0,TB 23,0,TB,
+15,2261,0,13:05,"R.Aguayo extra point is GOOD, Center-A.DePaola, Holder-B.Anger.",0,3,77,CHI 15,1,TB,XP
+14,1991,1,00:18,(:18) (Shotgun) J.Cutler pass short left to J.Langford to CHI 34 for 4 yards (K.Alexander).,10,2,17,CHI 30,0,CHI,
+14,2093,0,00:00,"C.Barth extra point is GOOD, Center-P.Scales, Holder-P.O'Donnell.",0,2,83,TB 15,1,CHI,XP
+14,2056,0,00:05,Timeout #2 by TB at 00:05.,0,2,33,,0,,TIMEOUT
+14,1974,0,00:19,Timeout #1 by CHI at 00:19.,0,2,13,,0,,TIMEOUT
+14,2073,1,00:05,"(:05) (Shotgun) J.Cutler pass deep left to C.Meredith for 50 yards, TOUCHDOWN.",10,2,83,50,1,CHI,TD
+14,1931,0,00:31,R.Aguayo kicks 67 yards from TB 35 to CHI -2. D.Thompson to CHI 17 for 19 yards (K.Tandy).,0,2,0,TB 35,0,TB,KICKOFF
+14,2032,2,00:12,(:12) (Shotgun) J.Cutler pass short right to K.Carey pushed ob at 50 for 16 yards (J.Adjei-Barimah).,6,2,33,CHI 34,0,CHI,
+14,1953,1,00:26,(:26) (Shotgun) J.Langford right tackle to CHI 30 for 13 yards (C.Conte).,10,2,13,CHI 17,0,CHI,
+14,2015,0,00:12,Timeout #2 by CHI at 00:12.,0,2,17,,0,,TIMEOUT
+17,2475,3,09:23,"(9:23) (Shotgun) J.Winston pass short right to C.Brate to CHI 29 for 14 yards (H.Jones-Quartey). Penalty on CHI-H.Jones-Quartey, Defensive Holding, declined.",3,3,32,CHI 43,0,TB,
+17,2613,1,07:27,(7:27) J.Winston sacked at CHI 21 for -15 yards (P.McPhee).,6,3,40,CHI 6,0,TB,
+17,2556,3,08:13,(8:13) (Shotgun) J.Winston pass short middle to A.Humphries to CHI 11 for 14 yards (D.Hurst).,6,3,50,CHI 25,0,TB,
+17,2580,1,07:32,"(7:32) J.Winston pass incomplete short middle to M.James. PENALTY on CHI-P.McPhee, Roughing the Passer, 5 yards, enforced at CHI 11 - No Play.",10,3,55,CHI 11,0,TB,PENALTY
+17,2653,3,06:09,"(6:09) (Shotgun) J.Winston pass short middle to D.Martin to CHI 9 for 13 yards (D.Trevathan, C.Prosinski).",22,3,52,CHI 22,0,TB,
+17,2430,1,10:37,"(10:37) D.Martin right end to 50 for no gain (D.Trevathan, E.Goldman).",10,3,11,50,0,TB,
+17,2451,2,09:56,(9:56) (Shotgun) J.Winston pass short right to M.Evans pushed ob at CHI 43 for 7 yards (T.Porter).,10,3,18,50,0,TB,
+17,2632,2,06:49,"(6:49) D.Martin left tackle to CHI 22 for -1 yards (A.Hicks, C.LeBlanc).",21,3,39,CHI 21,0,TB,
+17,2406,1,11:17,(11:17) J.Winston pass short left to L.Stocker to 50 for 11 yards (J.Freeman).,10,3,11,TB 39,0,TB,
+17,2677,4,05:23,"(5:23) (Field Goal formation) R.Aguayo 27 yard field goal is GOOD, Center-A.DePaola, Holder-B.Anger.",9,3,52,CHI 9,1,TB,FG
+17,2510,1,09:02,(9:02) J.Winston pass short left to A.Humphries to CHI 25 for 4 yards (C.LeBlanc).,10,3,36,CHI 29,0,TB,
+17,2534,2,08:23,(8:23) J.Winston pass incomplete short left to L.Stocker.,6,3,36,CHI 25,0,TB,
+16,2277,0,13:05,"R.Aguayo kicks 65 yards from TB 35 to end zone, Touchback.",0,3,0,TB 35,0,TB,KICKOFF
+16,2335,3,12:28,(12:28) (Shotgun) J.Cutler sacked at CHI 20 for -7 yards (sack split by R.Ayers and G.McCoy).,8,3,-5,CHI 27,0,CHI,
+16,2292,1,13:05,(13:05) J.Howard left tackle to CHI 27 for 2 yards (B.McDougald).,10,3,2,CHI 25,0,CHI,
+16,2313,2,12:32,(12:32) (Shotgun) J.Cutler pass incomplete short left.,8,3,-5,CHI 27,0,CHI,
+16,2381,4,11:28,"(11:28) (Punt formation) P.O'Donnell punts 51 yards to TB 34, Center-P.Scales. A.Humphries to TB 39 for 5 yards (C.Prosinski).",20,3,-10,CHI 15,0,CHI,PUNT
+16,2354,4,11:43,"(11:43) (Punt formation) PENALTY on CHI-B.Braunecker, False Start, 5 yards, enforced at CHI 20 - No Play.",15,3,-10,CHI 20,0,CHI,PENALTY
+19,2851,1,03:56,"(3:56) PENALTY on TB, False Start, 5 yards, enforced at TB 40 - No Play.",10,3,-5,TB 40,0,TB,PENALTY
+19,2895,2,03:21,(3:21) (Shotgun) J.Winston sacked at TB 33 for -6 yards (E.Goldman).,11,3,-7,TB 39,0,TB,
+19,2935,4,01:59,"(1:59) (Punt formation) B.Anger punts 54 yards to CHI 5, Center-A.DePaola. E.Royal to CHI 2 for -3 yards (J.Robinson).",9,3,1,TB 41,0,TB,PUNT
+19,2914,3,02:39,(2:39) (Shotgun) M.James up the middle to TB 41 for 8 yards (D.Trevathan).,17,3,1,TB 33,0,TB,
+19,2874,1,03:56,(3:56) D.Martin left guard to TB 39 for 4 yards (J.Freeman).,15,3,-1,TB 35,0,TB,
+18,2711,1,05:19,(5:19) (Shotgun) J.Cutler pass incomplete short right to C.Meredith (B.Grimes).,10,3,0,CHI 25,0,CHI,
+18,2775,2,04:53,(4:53) (Shotgun) J.Cutler pass incomplete short left to J.Langford.,20,3,-10,CHI 15,0,CHI,
+18,2740,2,05:14,"(5:14) (Shotgun) J.Cutler pass short middle to E.Royal pushed ob at CHI 45 for 20 yards (C.Conte). PENALTY on CHI-A.Jeffery, Offensive Holding, 10 yards, enforced at CHI 25 - No Play.",10,3,-8,CHI 25,0,CHI,PENALTY
+18,2828,4,04:04,"(4:04) (Punt formation) P.O'Donnell punts 43 yards to TB 40, Center-P.Scales, fair catch by A.Humphries.",18,3,-8,CHI 17,0,CHI,PUNT
+18,2696,0,05:19,"R.Aguayo kicks 65 yards from TB 35 to end zone, Touchback.",0,3,0,TB 35,0,TB,KICKOFF
+18,2804,3,04:48,(4:48) (Shotgun) J.Cutler pass short right to J.Langford to CHI 17 for 2 yards (B.Grimes).,20,3,-8,CHI 15,0,CHI,

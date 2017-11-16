@@ -1,163 +1,163 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1873,1,00:03,,10,2,-1,DAL 13,0,DAL,
-9,1894,0,,,0,2,-1,,0,,
-6,1460,3,02:51,,15,2,9,CIN 20,0,CIN,
-6,1420,1,04:09,,10,2,1,CIN 25,0,CIN,
-6,1405,0,04:09,,0,2,0,DAL 35,0,DAL,KICKOFF
-6,1488,4,02:09,,1,2,9,CIN 34,0,CIN,FUMBLE
-6,1441,2,03:34,,9,2,-5,CIN 26,0,CIN,
-14,3107,1,10:14,,7,4,59,DAL 7,1,CIN,TD
-14,3079,1,10:47,,10,4,52,DAL 21,0,CIN,
-14,2938,3,14:30,,1,4,10,DAL 50,0,CIN,
-14,3055,3,11:25,,5,4,38,DAL 34,0,CIN,
-14,2877,1,00:23,,10,3,3,CIN 41,0,CIN,
-14,3027,2,12:07,,13,4,25,DAL 42,0,CIN,
-14,2898,0,,,0,3,3,,0,,
-14,2959,1,13:56,,10,4,14,DAL 49,0,CIN,
-14,3008,1,12:44,,10,4,17,DAL 39,0,CIN,
-14,2980,2,13:21,,6,4,20,DAL 45,0,CIN,
-14,2914,2,15:00,,7,4,9,CIN 44,0,CIN,
-14,3128,0,10:10,,0,4,59,DAL 15,1,CIN,XP
-7,1639,3,01:37,,5,2,27,DAL 49,0,DAL,
-7,1615,2,01:43,,10,2,27,DAL 44,0,DAL,
-7,1665,4,01:32,,5,2,27,DAL 49,0,DAL,PUNT
-7,1589,1,01:50,,10,2,22,DAL 44,0,DAL,
-7,1556,2,01:56,,6,2,22,DAL 26,0,DAL,
-7,1539,0,01:56,,0,2,4,,0,,
-7,1518,1,02:01,,10,2,4,DAL 22,0,DAL,
-8,1853,4,00:11,,10,2,34,CIN 49,0,CIN,PUNT
-8,1827,3,00:25,,10,2,34,CIN 49,0,CIN,
-8,1801,2,00:32,,10,2,34,CIN 49,0,CIN,
-8,1775,1,00:38,,10,2,34,CIN 49,0,CIN,
-8,1685,1,01:24,,10,2,20,CIN 15,0,CIN,
-8,1733,2,00:44,,3,2,34,CIN 42,0,CIN,
-8,1709,1,01:02,,10,2,27,CIN 35,0,CIN,
-8,1757,0,00:38,,0,2,34,,0,,TIMEOUT
-10,2130,1,12:44,,10,3,43,DAL 33,0,CIN,
-10,2067,2,12:57,,10,3,43,DAL 46,0,CIN,
-10,2203,4,11:52,,9,3,43,DAL 32,0,CIN,FGM
-10,1925,1,15:00,,10,3,12,CIN 25,0,CIN,
-10,2151,2,12:05,,9,3,43,DAL 32,0,CIN,
-10,2177,3,12:00,,9,3,43,DAL 32,0,CIN,
-10,1978,1,14:06,,20,3,7,CIN 27,0,CIN,PENALTY
-10,2093,3,12:51,,10,3,42,DAL 46,0,CIN,PENALTY
-10,2013,1,13:39,,10,3,29,CIN 32,0,CIN,
-10,1946,1,14:27,,10,3,2,CIN 37,0,CIN,PENALTY
-10,1910,0,15:00,,0,3,0,DAL 35,0,DAL,KICKOFF
-10,2041,1,13:03,,10,3,43,DAL 46,0,CIN,
-12,2334,1,10:50,,10,3,18,CIN 31,0,CIN,PENALTY
-12,2306,2,11:26,,10,3,11,CIN 20,0,CIN,
-12,2393,2,10:37,,10,3,17,CIN 38,0,CIN,
-12,2514,4,08:20,,14,3,26,CIN 46,0,CIN,PUNT
-12,2490,3,08:59,,27,3,26,CIN 33,0,CIN,
-12,2284,1,11:32,,10,3,0,CIN 20,0,CIN,
-12,2367,1,10:46,,10,3,18,CIN 38,0,CIN,
-12,2438,1,09:41,,10,3,23,DAL 50,0,CIN,
-12,2258,0,11:38,,0,3,0,DAL 35,0,DAL,KICKOFF
-12,2457,2,09:04,,17,3,13,CIN 43,0,CIN,PENALTY
-12,2417,3,10:20,,11,3,30,CIN 37,0,CIN,
-16,3294,1,07:17,,10,4,16,CIN 34,0,CIN,PENALTY
-16,3324,1,06:58,,10,4,21,CIN 39,0,CIN,
-16,3481,1,03:54,,10,4,56,DAL 34,0,CIN,
-16,3385,3,05:49,,9,4,23,CIN 40,0,CIN,
-16,3505,1,03:47,,10,4,56,DAL 21,0,CIN,
-16,3409,4,05:20,,3,4,28,CIN 46,0,CIN,
-16,3555,3,03:15,,1,4,72,DAL 12,0,CIN,
-16,3367,0,05:49,,0,4,17,,0,,TIMEOUT
-16,3531,2,03:41,,10,4,65,DAL 21,0,CIN,
-16,3457,2,04:21,,3,4,43,DAL 42,0,CIN,
-16,3348,2,06:28,,5,4,17,CIN 44,0,CIN,
-16,3579,1,02:44,,5,4,77,DAL 5,1,CIN,TD
-16,3433,1,04:46,,10,4,35,DAL 49,0,CIN,
-16,3270,1,07:42,,10,4,11,CIN 23,0,CIN,
-16,3600,0,02:39,,0,4,77,DAL 15,1,CIN,XP
-11,2242,0,11:38,,0,3,60,CIN 15,1,DAL,XP
-11,2224,1,11:47,,10,3,60,DAL 40,1,DAL,TD
-3,702,1,00:38,,4,1,80,CIN 4,0,DAL,PENALTY
-3,506,1,05:56,,15,1,5,DAL 6,0,DAL,
-3,555,3,04:40,,4,1,23,DAL 17,0,DAL,
-3,761,0,,,0,1,79,,0,,
-3,809,3,14:49,,10,2,84,CIN 10,0,DAL,PENALTY
-3,473,1,06:16,,10,1,-5,DAL 11,0,DAL,PENALTY
-3,583,1,03:57,,10,1,30,DAL 34,0,DAL,
-3,777,2,15:00,,10,2,89,CIN 10,0,DAL,
-3,604,2,03:17,,3,1,43,DAL 41,0,DAL,
-3,842,1,14:47,,5,2,89,CIN 5,1,DAL,TD
-3,653,1,02:06,,10,1,64,CIN 31,0,DAL,
-3,632,1,02:43,,10,1,58,CIN 46,0,DAL,
-3,733,1,00:32,,9,1,79,CIN 9,0,DAL,FUMBLE
-3,674,2,01:24,,4,1,85,CIN 25,0,DAL,
-3,860,0,14:43,,0,2,89,CIN 15,1,DAL,XP
-3,534,2,05:24,,5,1,6,DAL 16,0,DAL,
-17,3659,0,02:33,,0,4,1,,0,,TIMEOUT
-17,3698,0,02:25,,0,4,3,,0,,TIMEOUT
-17,3758,1,02:00,,10,4,12,CIN 32,0,DAL,
-17,3716,3,02:25,,7,4,14,CIN 43,0,DAL,
-17,3616,0,02:39,,0,4,0,CIN 35,0,CIN,KICKOFF
-17,3677,2,02:33,,9,4,3,CIN 45,0,DAL,
-17,3740,0,02:00,,0,4,14,,0,,
-17,3638,1,02:39,,10,4,1,CIN 46,0,DAL,
-17,3821,0,00:00,,0,4,10,,0,,
-17,3779,2,01:17,,12,4,11,CIN 34,0,DAL,
-17,3800,3,00:33,,13,4,10,CIN 35,0,DAL,
-4,1138,2,09:14,,16,2,38,CIN 49,0,CIN,
-4,1114,1,09:56,,25,2,32,CIN 40,0,CIN,
-4,902,1,14:36,,10,2,3,CIN 17,0,CIN,
-4,1166,3,08:31,,10,2,42,DAL 45,0,CIN,
-4,923,2,14:01,,7,2,8,CIN 20,0,CIN,
-4,1056,1,10:37,,10,2,33,DAL 45,0,CIN,PENALTY
-4,1035,2,11:10,,2,2,38,DAL 49,0,CIN,
-4,1079,1,10:16,,15,2,23,DAL 50,0,CIN,PENALTY
-4,1014,1,11:36,,10,2,38,CIN 43,0,CIN,
-4,986,2,12:06,,9,2,26,CIN 29,0,CIN,
-4,965,1,12:41,,10,2,12,CIN 28,0,CIN,
-4,876,0,14:43,,0,2,0,DAL 35,0,DAL,KICKOFF
-4,1187,4,07:56,,6,2,42,DAL 41,0,CIN,PUNT
-4,944,3,13:20,,2,2,11,CIN 25,0,CIN,
-2,382,1,07:46,,10,1,42,DAL 45,0,CIN,
-2,333,2,09:14,,2,1,34,CIN 39,0,CIN,
-2,230,0,11:09,,0,1,7,DAL 35,0,DAL,KICKOFF
-2,354,1,08:29,,10,1,42,CIN 44,0,CIN,
-2,453,4,06:27,,5,1,50,DAL 40,0,CIN,PUNT
-2,406,2,07:08,,13,1,42,DAL 48,0,CIN,
-2,284,2,10:30,,3,1,21,CIN 17,0,CIN,
-2,305,1,09:48,,10,1,29,CIN 31,0,CIN,
-2,263,1,11:09,,10,1,45,CIN 10,0,CIN,
-2,432,3,07:04,,13,1,50,DAL 48,0,CIN,
-1,105,1,13:40,,10,1,14,DAL 48,0,DAL,
-1,84,2,14:20,,7,1,12,DAL 39,0,DAL,
-1,196,2,11:15,,1,1,64,CIN 13,1,DAL,TD
-1,154,1,12:29,,10,1,42,CIN 39,0,DAL,
-1,63,1,14:52,,10,1,3,DAL 36,0,DAL,
-1,37,0,15:00,,0,1,0,CIN 35,0,CIN,KICKOFF
-1,214,0,11:09,,0,1,64,CIN 15,1,DAL,XP
-1,175,1,11:49,,10,1,51,CIN 22,0,DAL,
-1,126,2,13:08,,8,1,25,CIN 50,0,DAL,
-5,1389,0,04:09,,0,2,80,CIN 15,1,DAL,XP
-5,1316,2,05:36,,10,2,35,DAL 48,0,DAL,
-5,1205,1,07:47,,10,2,0,DAL 20,0,DAL,
-5,1227,2,07:41,,10,2,17,DAL 20,0,DAL,
-5,1368,1,04:17,,10,2,80,CIN 14,1,DAL,TD
-5,1269,2,06:21,,2,2,28,DAL 45,0,DAL,
-5,1340,3,05:04,,3,2,66,CIN 45,0,DAL,
-5,1248,1,06:58,,10,2,25,DAL 37,0,DAL,
-5,1290,1,05:42,,10,2,28,DAL 48,0,DAL,
-13,2540,1,08:08,,10,3,4,DAL 20,0,DAL,
-13,2751,1,02:51,,15,3,38,CIN 47,0,DAL,
-13,2821,2,00:45,,8,3,62,CIN 18,0,DAL,
-13,2659,0,04:28,,0,3,20,,0,,TIMEOUT
-13,2589,1,06:40,,10,3,16,DAL 34,0,DAL,
-13,2700,3,03:52,,9,3,38,DAL 47,0,DAL,
-13,2638,1,05:18,,10,3,20,DAL 46,0,DAL,
-13,2800,1,01:21,,10,3,62,CIN 20,0,DAL,
-13,2610,2,05:58,,8,3,26,DAL 36,0,DAL,
-13,2676,2,04:28,,16,3,27,DAL 40,0,DAL,
-13,2772,2,02:08,,10,3,60,CIN 42,0,DAL,
-13,2728,1,03:52,,10,3,33,CIN 42,0,DAL,PENALTY
-13,2847,3,00:39,,8,3,57,CIN 18,0,DAL,FUMBLE
-13,2561,2,07:26,,6,3,14,DAL 24,0,DAL,
-15,3216,3,08:39,,8,4,6,DAL 22,0,DAL,
-15,3171,1,10:05,,10,4,-3,DAL 20,0,DAL,
-15,3144,0,10:10,,0,4,0,CIN 35,0,CIN,KICKOFF
-15,3244,4,07:51,,4,4,6,DAL 26,0,DAL,PUNT
-15,3192,2,09:29,,13,4,2,DAL 17,0,DAL,
+11,2224,1,11:47,"(11:47) E.Elliott right guard for 60 yards, TOUCHDOWN.",10,3,60,DAL 40,1,DAL,TD
+11,2242,0,11:38,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,3,60,CIN 15,1,DAL,XP
+10,2203,4,11:52,"(11:52) (Field Goal formation) M.Nugent 50 yard field goal is No Good, Wide Left, Center-C.Harris, Holder-K.Huber.",9,3,43,DAL 32,0,CIN,FGM
+10,2130,1,12:44,(12:44) (Shotgun) A.Dalton scrambles up the middle to DAL 32 for 1 yard (T.McClain).,10,3,43,DAL 33,0,CIN,
+10,2041,1,13:03,(13:03) (Shotgun) A.Dalton pass incomplete short left to A.Green. Pass incomplete sideline at the Dallas 35; Carr closest.,10,3,43,DAL 46,0,CIN,
+10,1978,1,14:06,"(14:06) (Shotgun) A.Dalton pass short left to G.Bernard to CIN 27 for no gain (A.Hitchens). PENALTY on DAL-M.Claiborne, Defensive Holding, 5 yards, enforced at CIN 27 - No Play.",20,3,7,CIN 27,0,CIN,PENALTY
+10,1946,1,14:27,"(14:27) G.Bernard right guard to CIN 40 for 3 yards (T.Crawford). PENALTY on CIN-A.Whitworth, Offensive Holding, 10 yards, enforced at CIN 37 - No Play.",10,3,2,CIN 37,0,CIN,PENALTY
+10,2151,2,12:05,(12:05) (Shotgun) A.Dalton pass incomplete short left to T.Boyd. Pass incomplete on a slant pattern.,9,3,43,DAL 32,0,CIN,
+10,2177,3,12:00,(12:00) (Shotgun) A.Dalton pass incomplete deep right to A.Green (M.Claiborne). Pass incomplete on a go pattern in the end zone.,9,3,43,DAL 32,0,CIN,
+10,1925,1,15:00,(15:00) G.Bernard right tackle to CIN 37 for 12 yards (B.Jones).,10,3,12,CIN 25,0,CIN,
+10,2093,3,12:51,"(12:51) (Shotgun) A.Dalton pass incomplete short right to A.Green. Pass incomplete on an up and out route. PENALTY on DAL-M.Claiborne, Defensive Pass Interference, 13 yards, enforced at DAL 46 - No Play.",10,3,42,DAL 46,0,CIN,PENALTY
+10,1910,0,15:00,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback.",0,3,0,DAL 35,0,DAL,KICKOFF
+10,2013,1,13:39,(13:39) A.Dalton pass deep middle to A.Green to DAL 46 for 22 yards (A.Hitchens). Pass complete on a post pattern.,10,3,29,CIN 32,0,CIN,
+10,2067,2,12:57,(12:57) (Shotgun) A.Dalton pass incomplete short left to A.Green (B.Carr). Pass incomplete on a sideline curl route; Carr closest.,10,3,43,DAL 46,0,CIN,
+13,2659,0,04:28,Timeout #1 by DAL at 04:28.,0,3,20,,0,,TIMEOUT
+13,2540,1,08:08,"(8:08) E.Elliott left tackle to DAL 24 for 4 yards (P.Sims, V.Burfict).",10,3,4,DAL 20,0,DAL,
+13,2638,1,05:18,(5:18) E.Elliott right end to DAL 40 for -6 yards (P.Sims).,10,3,20,DAL 46,0,DAL,
+13,2610,2,05:58,(5:58) (Shotgun) D.Prescott pass short left to T.Williams ran ob at DAL 46 for 10 yards (V.Burfict). Pass complete on a crossing pattern.,8,3,26,DAL 36,0,DAL,
+13,2561,2,07:26,(7:26) (Shotgun) D.Prescott pass short middle to C.Beasley to DAL 34 for 10 yards (S.Williams). Pass complete on a skinny post.,6,3,14,DAL 24,0,DAL,
+13,2847,3,00:39,"(:39) (Shotgun) D.Prescott sacked at CIN 26 for -8 yards (C.Dunlap). FUMBLES (C.Dunlap) [C.Dunlap], touched at CIN 23, RECOVERED by CIN-V.Rey at CIN 31. V.Rey to CIN 41 for 10 yards (T.Frederick).",8,3,57,CIN 18,0,DAL,FUMBLE
+13,2772,2,02:08,(2:08) D.Prescott pass short right to E.Elliott pushed ob at CIN 20 for 22 yards (C.Dunlap). Pass complete off play action; complete on hitch right flat.,10,3,60,CIN 42,0,DAL,
+13,2751,1,02:51,(2:51) E.Elliott left end pushed ob at CIN 42 for 5 yards (M.Johnson).,15,3,38,CIN 47,0,DAL,
+13,2700,3,03:52,(3:52) (Shotgun) D.Prescott pass short right to C.Beasley pushed ob at CIN 42 for 11 yards (M.Johnson).,9,3,38,DAL 47,0,DAL,
+13,2589,1,06:40,(6:40) E.Elliott right tackle to DAL 36 for 2 yards (M.Johnson).,10,3,16,DAL 34,0,DAL,
+13,2728,1,03:52,"(3:52) PENALTY on DAL-R.Leary, False Start, 5 yards, enforced at CIN 42 - No Play.",10,3,33,CIN 42,0,DAL,PENALTY
+13,2676,2,04:28,(4:28) (Shotgun) D.Prescott pass short middle to J.Witten to DAL 47 for 7 yards (V.Rey). Pass complete on a button hook.,16,3,27,DAL 40,0,DAL,
+13,2800,1,01:21,(1:21) A.Morris right guard to CIN 18 for 2 yards (V.Burfict).,10,3,62,CIN 20,0,DAL,
+13,2821,2,00:45,(:45) (Shotgun) D.Prescott pass incomplete deep middle to J.Witten (D.Kirkpatrick). Pass incomplete on a post pattern at the goal line.,8,3,62,CIN 18,0,DAL,
+12,2438,1,09:41,(9:41) (Shotgun) A.Dalton sacked at CIN 43 for -7 yards (T.McClain).,10,3,23,DAL 50,0,CIN,
+12,2334,1,10:50,"(10:50) A.Dalton pass incomplete short left to A.Green. PENALTY on DAL-B.Carr, Defensive Pass Interference, 7 yards, enforced at CIN 31 - No Play.",10,3,18,CIN 31,0,CIN,PENALTY
+12,2490,3,08:59,(8:59) (Shotgun) A.Dalton pass short left to T.Kroft to CIN 46 for 13 yards (J.Durant; S.Lee).,27,3,26,CIN 33,0,CIN,
+12,2457,2,09:04,"(9:04) (Shotgun) A.Dalton pass incomplete short left. PENALTY on CIN-A.Dalton, Intentional Grounding, 10 yards, enforced at CIN 43.",17,3,13,CIN 43,0,CIN,PENALTY
+12,2284,1,11:32,(11:32) A.Dalton pass incomplete short left [B.Mayowa].,10,3,0,CIN 20,0,CIN,
+12,2306,2,11:26,(11:26) (Shotgun) A.Dalton pass short left to B.LaFell to CIN 31 for 11 yards (B.Church). Pass complete on a quick hitch route.,10,3,11,CIN 20,0,CIN,
+12,2514,4,08:20,"(8:20) (Punt formation) K.Huber punts 44 yards to DAL 10, Center-C.Harris. L.Whitehead to DAL 20 for 10 yards (M.Flowers).",14,3,26,CIN 46,0,CIN,PUNT
+12,2393,2,10:37,(10:37) J.Hill left end to CIN 37 for -1 yards (R.Davis). CIN-J.Hill was injured during the play. His return is Questionable.,10,3,17,CIN 38,0,CIN,
+12,2417,3,10:20,(10:20) (Shotgun) A.Dalton scrambles left tackle to DAL 50 for 13 yards (J.Durant).,11,3,30,CIN 37,0,CIN,
+12,2258,0,11:38,D.Bailey kicks 69 yards from DAL 35 to CIN -4. A.Erickson to CIN 20 for 24 yards (A.Brown). Return left side of the field outside the yardline numbers.,0,3,0,DAL 35,0,DAL,KICKOFF
+12,2367,1,10:46,(10:46) A.Dalton pass incomplete deep left to A.Green (B.Jones). Pass incomplete on a deep fly pattern at the Dallas 15.,10,3,18,CIN 38,0,CIN,
+15,3171,1,10:05,(10:05) A.Morris left tackle to DAL 17 for -3 yards (C.Dunlap; P.Sims).,10,4,-3,DAL 20,0,DAL,
+15,3216,3,08:39,"(8:39) (Shotgun) D.Prescott pass short right to R.Smith to DAL 26 for 4 yards (K.Dansby, V.Rey).",8,4,6,DAL 22,0,DAL,
+15,3144,0,10:10,M.Nugent kicks 60 yards from CIN 35 to DAL 5. L.Whitehead pushed ob at DAL 20 for 15 yards (G.Iloka).,0,4,0,CIN 35,0,CIN,KICKOFF
+15,3192,2,09:29,(9:29) (Shotgun) D.Prescott pass short right to J.Witten to DAL 22 for 5 yards (R.Maualuga). Pass complete on a curl route.,13,4,2,DAL 17,0,DAL,
+15,3244,4,07:51,"(7:51) (Punt formation) C.Jones punts 51 yards to CIN 23, Center-L.Ladouceur. A.Jones pushed ob at CIN 23 for no gain (J.Wilcox).",4,4,6,DAL 26,0,DAL,PUNT
+14,3128,0,10:10,"M.Nugent extra point is GOOD, Center-C.Harris, Holder-K.Huber.",0,4,59,DAL 15,1,CIN,XP
+14,3107,1,10:14,"(10:14) (No Huddle, Shotgun) A.Dalton pass short middle to B.LaFell for 7 yards, TOUCHDOWN.",7,4,59,DAL 7,1,CIN,TD
+14,2914,2,15:00,(15:00) (Shotgun) A.Dalton pass short middle to T.Boyd to DAL 50 for 6 yards (A.Brown; B.Mayowa).,7,4,9,CIN 44,0,CIN,
+14,2898,0,,END QUARTER 3,0,3,3,,0,,
+14,2938,3,14:30,"(14:30) (No Huddle, Shotgun) G.Bernard left tackle to DAL 49 for 1 yard (B.Mayowa; A.Hitchens).",1,4,10,DAL 50,0,CIN,
+14,3027,2,12:07,"(12:07) (No Huddle, Shotgun) A.Dalton pass short right to B.LaFell to DAL 34 for 8 yards (M.Claiborne). Pass complete on a sideline curl.",13,4,25,DAL 42,0,CIN,
+14,2980,2,13:21,(13:21) (Shotgun) A.Dalton pass short right to C.Uzomah to DAL 39 for 6 yards (A.Brown). Pass complete on a curl.,6,4,20,DAL 45,0,CIN,
+14,2959,1,13:56,"(13:56) (Shotgun) G.Bernard left tackle to DAL 45 for 4 yards (A.Brown, A.Hitchens).",10,4,14,DAL 49,0,CIN,
+14,3079,1,10:47,"(10:47) (No Huddle, Shotgun) A.Dalton pass short middle to A.Green to DAL 7 for 14 yards (J.Wilcox). Pass complete on skinny post.",10,4,52,DAL 21,0,CIN,
+14,2877,1,00:23,(:23) G.Bernard up the middle to CIN 44 for 3 yards (B.Jones).,10,3,3,CIN 41,0,CIN,
+14,3055,3,11:25,(11:25) (Shotgun) A.Dalton pass short middle to B.LaFell to DAL 21 for 13 yards (B.Church).,5,4,38,DAL 34,0,CIN,
+14,3008,1,12:44,(12:44) (Shotgun) A.Dalton sacked at DAL 42 for -3 yards (sack split by T.McClain and J.Crawford).,10,4,17,DAL 39,0,CIN,
+17,3698,0,02:25,Timeout #3 by CIN at 02:25.,0,4,3,,0,,TIMEOUT
+17,3758,1,02:00,(2:00) D.Prescott kneels to CIN 34 for -2 yards.,10,4,12,CIN 32,0,DAL,
+17,3716,3,02:25,(2:25) (Shotgun) D.Prescott pass short left to T.Williams to CIN 32 for 11 yards (S.Williams).,7,4,14,CIN 43,0,DAL,
+17,3616,0,02:39,M.Nugent kicks onside 11 yards from CIN 35 to CIN 46. E.Elliott (didn't try to advance) to CIN 46 for no gain (M.Flowers).,0,4,0,CIN 35,0,CIN,KICKOFF
+17,3638,1,02:39,(2:39) E.Elliott left tackle to CIN 45 for 1 yard (S.Williams; K.Dansby).,10,4,1,CIN 46,0,DAL,
+17,3779,2,01:17,(1:17) D.Prescott kneels to CIN 35 for -1 yards.,12,4,11,CIN 34,0,DAL,
+17,3800,3,00:33,(:33) D.Prescott kneels to CIN 36 for -1 yards.,13,4,10,CIN 35,0,DAL,
+17,3740,0,02:00,Two-Minute Warning,0,4,14,,0,,
+17,3659,0,02:33,Timeout #2 by CIN at 02:33.,0,4,1,,0,,TIMEOUT
+17,3677,2,02:33,(2:33) D.Prescott scrambles right end to CIN 43 for 2 yards (V.Burfict).,9,4,3,CIN 45,0,DAL,
+17,3821,0,00:00,END GAME,0,4,10,,0,,
+16,3348,2,06:28,"(6:28) (No Huddle, Shotgun) A.Dalton sacked at CIN 40 for -4 yards (B.Mayowa).",5,4,17,CIN 44,0,CIN,
+16,3385,3,05:49,(5:49) (Shotgun) A.Dalton pass short right to G.Bernard to CIN 46 for 6 yards (J.Wilcox).,9,4,23,CIN 40,0,CIN,
+16,3579,1,02:44,"(2:44) (No Huddle, Shotgun) A.Dalton pass short left to B.LaFell for 5 yards, TOUCHDOWN.",5,4,77,DAL 5,1,CIN,TD
+16,3457,2,04:21,"(4:21) (No Huddle, Shotgun) A.Dalton pass short middle to C.Uzomah to DAL 34 for 8 yards (S.Lee; A.Hitchens).",3,4,43,DAL 42,0,CIN,
+16,3481,1,03:54,"(3:54) (No Huddle, Shotgun) A.Dalton pass short right to B.LaFell pushed ob at DAL 21 for 13 yards (M.Claiborne).",10,4,56,DAL 34,0,CIN,
+16,3367,0,05:49,Timeout #1 by CIN at 05:49.,0,4,17,,0,,TIMEOUT
+16,3505,1,03:47,"(3:47) (No Huddle, Shotgun) A.Dalton pass incomplete deep right to B.LaFell (M.Claiborne). Pass batted away right corner 3 yards deep in the end zone.",10,4,56,DAL 21,0,CIN,
+16,3555,3,03:15,"(3:15) (No Huddle, Shotgun) A.Dalton pass short right to T.Kroft to DAL 5 for 7 yards (B.Church).",1,4,72,DAL 12,0,CIN,
+16,3531,2,03:41,(3:41) (Shotgun) A.Dalton pass short right to T.Kroft to DAL 12 for 9 yards (S.Lee).,10,4,65,DAL 21,0,CIN,
+16,3409,4,05:20,"(5:20) (Shotgun) A.Dalton pass short right to A.Green to DAL 49 for 5 yards (M.Claiborne, B.Church).",3,4,28,CIN 46,0,CIN,
+16,3600,0,02:39,"M.Nugent extra point is GOOD, Center-C.Harris, Holder-K.Huber.",0,4,77,DAL 15,1,CIN,XP
+16,3324,1,06:58,(6:58) (Shotgun) A.Dalton pass short right to G.Bernard to CIN 44 for 5 yards (B.Church).,10,4,21,CIN 39,0,CIN,
+16,3270,1,07:42,(7:42) (Shotgun) A.Dalton pass short middle to G.Bernard to CIN 34 for 11 yards (J.Durant).,10,4,11,CIN 23,0,CIN,
+16,3294,1,07:17,"(7:17) (No Huddle, Shotgun) A.Dalton sacked at CIN 25 for -9 yards (R.Davis). PENALTY on DAL-J.Durant, Defensive Holding, 5 yards, enforced at CIN 34 - No Play.",10,4,16,CIN 34,0,CIN,PENALTY
+16,3433,1,04:46,"(4:46) (No Huddle, Shotgun) A.Dalton pass short right to G.Bernard to DAL 42 for 7 yards (S.Lee).",10,4,35,DAL 49,0,CIN,
+1,214,0,11:09,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,1,64,CIN 15,1,DAL,XP
+1,154,1,12:29,(12:29) E.Elliott left end to CIN 22 for 17 yards (G.Iloka; A.Jones).,10,1,42,CIN 39,0,DAL,
+1,196,2,11:15,"(11:15) (Shotgun) E.Elliott up the middle for 13 yards, TOUCHDOWN.",1,1,64,CIN 13,1,DAL,TD
+1,37,0,15:00,M.Nugent kicks 59 yards from CIN 35 to DAL 6. L.Whitehead to DAL 36 for 30 yards (C.Core; D.Dennard). Return right side of the field.,0,1,0,CIN 35,0,CIN,KICKOFF
+1,63,1,14:52,(14:52) E.Elliott left guard to DAL 39 for 3 yards (V.Burfict).,10,1,3,DAL 36,0,DAL,
+1,126,2,13:08,(13:08) (Shotgun) D.Prescott pass short left to T.Williams to CIN 39 for 11 yards (V.Burfict). Pass complete on a curl route.,8,1,25,CIN 50,0,DAL,
+1,175,1,11:49,(11:49) E.Elliott left tackle to CIN 13 for 9 yards (V.Burfict).,10,1,51,CIN 22,0,DAL,
+1,84,2,14:20,(14:20) L.Whitehead left end to DAL 48 for 9 yards (A.Jones).,7,1,12,DAL 39,0,DAL,
+1,105,1,13:40,(13:40) D.Prescott scrambles right end ran ob at CIN 50 for 2 yards (C.Dunlap).,10,1,14,DAL 48,0,DAL,
+3,604,2,03:17,(3:17) D.Prescott pass short right to B.Butler to CIN 46 for 13 yards (V.Burfict). CIN-V.Burfict was injured during the play. His return is Questionable.,3,1,43,DAL 41,0,DAL,
+3,632,1,02:43,(2:43) (Shotgun) E.Elliott left end ran ob at CIN 31 for 15 yards.,10,1,58,CIN 46,0,DAL,
+3,583,1,03:57,(3:57) (Shotgun) E.Elliott right guard to DAL 41 for 7 yards (V.Burfict).,10,1,30,DAL 34,0,DAL,
+3,674,2,01:24,(1:24) (Shotgun) D.Prescott pass deep middle to T.Williams to CIN 4 for 21 yards (D.Kirkpatrick). Pass complete on a seam route.,4,1,85,CIN 25,0,DAL,
+3,809,3,14:49,"(14:49) (Shotgun) D.Prescott pass incomplete short middle to J.Witten. PENALTY on CIN-V.Rey, Illegal Contact, 5 yards, enforced at CIN 10 - No Play.",10,2,84,CIN 10,0,DAL,PENALTY
+3,555,3,04:40,(4:40) (Shotgun) D.Prescott pass deep right to T.Williams to DAL 34 for 17 yards (J.Shaw). Pass complete on a crossing pattern.,4,1,23,DAL 17,0,DAL,
+3,860,0,14:43,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,2,89,CIN 15,1,DAL,XP
+3,761,0,,END QUARTER 1,0,1,79,,0,,
+3,777,2,15:00,(15:00) (Shotgun) D.Prescott pass incomplete short left to B.Butler (A.Jones) [C.Dunlap]. Pass knocked away 2 yards deep end zone.,10,2,89,CIN 10,0,DAL,
+3,702,1,00:38,"(:38) D.Prescott pass short middle to B.Butler for 4 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on DAL-J.Witten, Illegal Shift, 5 yards, enforced at CIN 4 - No Play.",4,1,80,CIN 4,0,DAL,PENALTY
+3,473,1,06:16,"(6:16) E.Elliott left tackle to DAL 13 for 2 yards (P.Sims). PENALTY on DAL-T.Smith, Offensive Holding, 5 yards, enforced at DAL 11 - No Play.",10,1,-5,DAL 11,0,DAL,PENALTY
+3,733,1,00:32,"(:32) D.Prescott to CIN 11 for -2 yards. FUMBLES, and recovers at CIN 11. D.Prescott to CIN 10 for 1 yard. Handoff to E.Elliott to CIN 10 for no gain (M.Johnson).",9,1,79,CIN 9,0,DAL,FUMBLE
+3,534,2,05:24,(5:24) E.Elliott left guard to DAL 17 for 1 yard (P.Sims; D.Peko).,5,1,6,DAL 16,0,DAL,
+3,653,1,02:06,(2:06) A.Morris right tackle to CIN 25 for 6 yards (D.Kirkpatrick).,10,1,64,CIN 31,0,DAL,
+3,506,1,05:56,(5:56) (Shotgun) D.Prescott pass short left to E.Elliott to DAL 16 for 10 yards (A.Jones). Pass complete on a wheel route.,15,1,5,DAL 6,0,DAL,
+3,842,1,14:47,"(14:47) (Shotgun) D.Prescott right tackle for 5 yards, TOUCHDOWN.",5,2,89,CIN 5,1,DAL,TD
+2,432,3,07:04,(7:04) (Shotgun) A.Dalton scrambles up the middle to DAL 40 for 8 yards (J.Wilcox).,13,1,50,DAL 48,0,CIN,
+2,453,4,06:27,"(6:27) (Punt formation) K.Huber punts 29 yards to DAL 11, Center-C.Harris, downed by CIN-C.Harris.",5,1,50,DAL 40,0,CIN,PUNT
+2,305,1,09:48,(9:48) (Shotgun) A.Dalton pass short left to C.Uzomah to CIN 39 for 8 yards (B.Carr). Pass complete on a corner drag route.,10,1,29,CIN 31,0,CIN,
+2,333,2,09:14,(9:14) (Shotgun) A.Dalton left end to CIN 44 for 5 yards (J.Crawford).,2,1,34,CIN 39,0,CIN,
+2,263,1,11:09,(11:09) G.Bernard to CIN 17 for 7 yards (T.McClain).,10,1,45,CIN 10,0,CIN,
+2,406,2,07:08,(7:08) (Shotgun) A.Dalton pass incomplete short left to J.Hill. Pass incomplete sideline: Church closest at the Dallas 47.,13,1,42,DAL 48,0,CIN,
+2,382,1,07:46,(7:46) (Shotgun) A.Dalton pass short left to B.LaFell to DAL 48 for -3 yards (A.Brown).,10,1,42,DAL 45,0,CIN,
+2,354,1,08:29,(8:29) A.Dalton pass short right to G.Bernard to DAL 45 for 11 yards (S.Lee) [A.Hitchens]. Pass complete on a wheel route.,10,1,42,CIN 44,0,CIN,
+2,230,0,11:09,"D.Bailey kicks 69 yards from DAL 35 to CIN -4. R.Burkhead to CIN 19 for 23 yards (J.Wilcox). PENALTY on CIN-D.Smith, Offensive Holding, 9 yards, enforced at CIN 19.",0,1,7,DAL 35,0,DAL,KICKOFF
+2,284,2,10:30,(10:30) (Shotgun) G.Bernard left end to CIN 31 for 14 yards (B.Jones).,3,1,21,CIN 17,0,CIN,
+5,1227,2,07:41,(7:41) A.Morris right tackle to DAL 37 for 17 yards (M.Johnson; J.Shaw).,10,2,17,DAL 20,0,DAL,
+5,1316,2,05:36,(5:36) (Shotgun) D.Prescott pass short left to B.Butler ran ob at CIN 45 for 7 yards.,10,2,35,DAL 48,0,DAL,
+5,1269,2,06:21,(6:21) A.Morris left tackle to DAL 48 for 3 yards (M.Johnson).,2,2,28,DAL 45,0,DAL,
+5,1205,1,07:47,(7:47) D.Prescott pass incomplete short right to G.Swaim [C.Dunlap].,10,2,0,DAL 20,0,DAL,
+5,1340,3,05:04,(5:04) (Shotgun) D.Prescott pass deep middle to J.Witten to CIN 14 for 31 yards (A.Jones). Pass complete on a crossing pattern.,3,2,66,CIN 45,0,DAL,
+5,1389,0,04:09,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,2,80,CIN 15,1,DAL,XP
+5,1248,1,06:58,(6:58) A.Morris left tackle to DAL 45 for 8 yards (V.Burfict).,10,2,25,DAL 37,0,DAL,
+5,1290,1,05:42,(5:42) D.Prescott pass incomplete short right to A.Morris. Pass incomplete in the flat; Burfict closest defender.,10,2,28,DAL 48,0,DAL,
+5,1368,1,04:17,"(4:17) (Shotgun) D.Prescott pass short right to C.Beasley for 14 yards, TOUCHDOWN.",10,2,80,CIN 14,1,DAL,TD
+4,902,1,14:36,(14:36) G.Bernard up the middle to CIN 20 for 3 yards (A.Gachkar; T.Crawford).,10,2,3,CIN 17,0,CIN,
+4,965,1,12:41,(12:41) G.Bernard left guard to CIN 29 for 1 yard (S.Lee; T.Crawford).,10,2,12,CIN 28,0,CIN,
+4,1166,3,08:31,(8:31) (Shotgun) A.Dalton scrambles up the middle to DAL 41 for 4 yards (S.Lee).,10,2,42,DAL 45,0,CIN,
+4,1138,2,09:14,(9:14) (Shotgun) A.Dalton pass short right to G.Bernard to DAL 45 for 6 yards (J.Durant; A.Brown). Pass complete on a wheel route.,16,2,38,CIN 49,0,CIN,
+4,1056,1,10:37,"(10:37) PENALTY on CIN-K.Zeitler, False Start, 5 yards, enforced at DAL 45 - No Play.",10,2,33,DAL 45,0,CIN,PENALTY
+4,1079,1,10:16,"(10:16) (Shotgun) A.Dalton pass short right to J.Hill to DAL 46 for 4 yards (J.Durant; S.Lee). PENALTY on CIN-K.Zeitler, Offensive Holding, 10 yards, enforced at DAL 50 - No Play.",15,2,23,DAL 50,0,CIN,PENALTY
+4,876,0,14:43,D.Bailey kicks 70 yards from DAL 35 to CIN -5. A.Erickson to CIN 17 for 22 yards (J.Wilcox). Return right side of the field outside the yardline numbers.,0,2,0,DAL 35,0,DAL,KICKOFF
+4,1187,4,07:56,"(7:56) (Punt formation) K.Huber punts 41 yards to end zone, Center-C.Harris, Touchback.",6,2,42,DAL 41,0,CIN,PUNT
+4,944,3,13:20,(13:20) (Shotgun) A.Dalton scrambles right end to CIN 28 for 3 yards (T.McClain).,2,2,11,CIN 25,0,CIN,
+4,986,2,12:06,(12:06) (Shotgun) A.Dalton pass short left to B.LaFell to CIN 43 for 14 yards (B.Jones). Pass complete on a bubble screen.,9,2,26,CIN 29,0,CIN,
+4,1114,1,09:56,(9:56) (Shotgun) A.Dalton pass short middle to A.Green to CIN 49 for 9 yards (B.Carr).,25,2,32,CIN 40,0,CIN,
+4,1014,1,11:36,(11:36) (No Huddle) J.Hill left guard to DAL 49 for 8 yards (J.Durant).,10,2,38,CIN 43,0,CIN,
+4,923,2,14:01,(14:01) G.Bernard right tackle to CIN 25 for 5 yards (B.Church).,7,2,8,CIN 20,0,CIN,
+4,1035,2,11:10,(11:10) J.Hill up the middle to DAL 45 for 4 yards (S.Lee; J.Durant).,2,2,38,DAL 49,0,CIN,
+7,1589,1,01:50,(1:50) (Shotgun) D.Prescott pass incomplete short left to E.Elliott. Pass incomplete in the flat; Jones closest defender.,10,2,22,DAL 44,0,DAL,
+7,1556,2,01:56,(1:56) (Shotgun) D.Prescott pass short right to C.Beasley pushed ob at DAL 44 for 18 yards (D.Dennard). Pass complete on an up and out route.,6,2,22,DAL 26,0,DAL,
+7,1639,3,01:37,(1:37) (Shotgun) D.Prescott pass incomplete short right to J.Witten. Pass incomplete at the Cincinnatti 46; Dunlap closest.,5,2,27,DAL 49,0,DAL,
+7,1615,2,01:43,(1:43) (Shotgun) D.Prescott pass short right to E.Elliott pushed ob at DAL 49 for 5 yards (K.Dansby).,10,2,27,DAL 44,0,DAL,
+7,1518,1,02:01,(2:01) (Shotgun) E.Elliott left tackle to DAL 26 for 4 yards (A.Jones).,10,2,4,DAL 22,0,DAL,
+7,1665,4,01:32,"(1:32) (Punt formation) C.Jones punts 36 yards to CIN 15, Center-L.Ladouceur, fair catch by A.Erickson.",5,2,27,DAL 49,0,DAL,PUNT
+7,1539,0,01:56,Two-Minute Warning,0,2,4,,0,,
+6,1420,1,04:09,(4:09) (Shotgun) J.Hill right tackle to CIN 26 for 1 yard (C.Thornton; M.Collins).,10,2,1,CIN 25,0,CIN,
+6,1488,4,02:09,"(2:09) (Punt formation) K.Huber punts 43 yards to DAL 23, Center-C.Harris. L.Whitehead MUFFS catch, and recovers at DAL 22. L.Whitehead to DAL 22 for no gain (D.Dennard).",1,2,9,CIN 34,0,CIN,FUMBLE
+6,1441,2,03:34,(3:34) (Shotgun) A.Dalton sacked at CIN 20 for -6 yards (C.Thornton).,9,2,-5,CIN 26,0,CIN,
+6,1405,0,04:09,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback.",0,2,0,DAL 35,0,DAL,KICKOFF
+6,1460,3,02:51,(2:51) (Shotgun) A.Dalton pass short middle to C.Uzomah to CIN 34 for 14 yards (B.Church) [M.Collins]. Pass complete on a curl route.,15,2,9,CIN 20,0,CIN,
+9,1894,0,,END QUARTER 2,0,2,-1,,0,,
+9,1873,1,00:03,(:03) D.Prescott kneels to DAL 12 for -1 yards.,10,2,-1,DAL 13,0,DAL,
+8,1775,1,00:38,(:38) (Shotgun) A.Dalton pass incomplete deep left to T.Boyd [T.McClain]. Pass incomplete on a flag pattern; Brown closest defender.,10,2,34,CIN 49,0,CIN,
+8,1801,2,00:32,(:32) (Shotgun) A.Dalton pass incomplete short right to B.LaFell. Pass incomplete sideline at the Dallas 37; Claiborne closest defender.,10,2,34,CIN 49,0,CIN,
+8,1709,1,01:02,"(1:02) (No Huddle, Shotgun) A.Dalton pass short middle to C.Uzomah to CIN 42 for 7 yards (B.Church).",10,2,27,CIN 35,0,CIN,
+8,1733,2,00:44,"(:44) (No Huddle, Shotgun) A.Dalton pass short left to T.Boyd to CIN 49 for 7 yards (S.Lee; A.Brown).",3,2,34,CIN 42,0,CIN,
+8,1853,4,00:11,"(:11) (Punt formation) K.Huber punts 38 yards to DAL 13, Center-C.Harris, downed by CIN-N.Vigil.",10,2,34,CIN 49,0,CIN,PUNT
+8,1685,1,01:24,(1:24) (Shotgun) A.Dalton pass deep middle to T.Boyd to CIN 35 for 20 yards (S.Lee).,10,2,20,CIN 15,0,CIN,
+8,1757,0,00:38,Timeout #1 by CIN at 00:38.,0,2,34,,0,,TIMEOUT
+8,1827,3,00:25,(:25) (Shotgun) A.Dalton pass incomplete short left to B.LaFell. Pass incomplete off scramble at the Dallas 40; Carr closest defender.,10,2,34,CIN 49,0,CIN,

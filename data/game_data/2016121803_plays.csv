@@ -1,182 +1,182 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,2042,0,00:23,,0,2,39,,0,,TIMEOUT
-9,2060,2,00:23,,16,2,39,TB 36,0,DAL,
-9,2086,3,00:17,,16,2,41,TB 36,0,DAL,
-9,1852,2,01:31,,5,2,19,DAL 30,0,DAL,
-9,2019,1,00:28,,10,2,39,TB 30,0,DAL,
-9,1808,0,01:52,,0,2,0,TB 35,0,TB,KICKOFF
-9,1828,1,01:52,,10,2,5,DAL 25,0,DAL,
-9,1924,0,00:41,,0,2,32,,0,,TIMEOUT
-9,2001,0,00:28,,0,2,45,,0,,TIMEOUT
-9,1876,1,01:09,,10,2,24,DAL 44,0,DAL,
-9,1900,2,00:47,,5,2,32,DAL 49,0,DAL,
-9,2110,4,00:13,,14,2,41,TB 34,0,DAL,FGM
-9,1942,1,00:41,,10,2,45,TB 43,0,DAL,PENALTY
-9,1977,1,00:34,,20,2,45,DAL 47,0,DAL,
-24,4249,1,00:24,,10,4,-2,DAL 48,0,DAL,
-24,4270,0,00:00,,0,4,-2,,0,,
-10,2131,1,00:08,,10,2,13,TB 43,0,TB,
-10,2173,1,00:03,,10,2,13,DAL 44,0,TB,INT
-10,2155,0,00:03,,0,2,13,,0,,TIMEOUT
-20,3705,1,05:49,,10,4,62,DAL 24,0,DAL,
-20,3726,1,05:13,,10,4,72,TB 34,0,DAL,
-20,3768,2,03:45,,10,4,81,TB 24,0,DAL,
-20,3677,2,06:30,,9,4,20,DAL 5,0,DAL,
-20,3747,1,04:26,,10,4,81,TB 24,0,DAL,
-20,3653,1,06:55,,10,4,1,DAL 4,0,DAL,
-20,3821,4,03:03,,1,4,81,TB 15,1,DAL,FG
-20,3800,3,03:41,,2,4,81,TB 16,0,DAL,
-6,1157,2,12:01,,6,2,4,TB 26,0,TB,
-6,1136,1,12:27,,10,2,4,TB 22,0,TB,
-6,1183,3,11:55,,6,2,4,TB 26,0,TB,
-6,1114,0,12:34,,0,2,0,DAL 20,0,DAL,KICKOFF
-6,1209,4,11:45,,6,2,4,TB 26,0,TB,PUNT
-18,3530,1,08:45,,10,4,3,DAL 41,0,DAL,FUMBLE
-1,241,2,11:05,,11,1,38,TB 38,0,DAL,
-1,111,1,13:48,,10,1,18,DAL 35,0,DAL,
-1,260,3,10:25,,17,1,38,TB 44,0,DAL,
-1,83,2,14:21,,5,1,11,DAL 29,0,DAL,
-1,132,2,13:13,,3,1,26,DAL 42,0,DAL,
-1,62,1,14:54,,10,1,5,DAL 24,0,DAL,
-1,181,1,12:03,,10,1,47,TB 37,0,DAL,
-1,160,1,12:42,,10,1,39,TB 50,0,DAL,
-1,308,4,09:51,,11,1,38,TB 38,0,DAL,FGM
-1,284,0,09:51,,0,1,38,,0,,TIMEOUT
-1,209,2,11:26,,2,1,32,TB 29,0,DAL,PENALTY
-1,36,0,15:00,,0,1,0,TB 35,0,TB,KICKOFF
-5,1068,2,12:38,,2,2,14,TB 2,1,DAL,TD
-5,1024,0,12:43,,0,2,12,,0,,TIMEOUT
-5,1042,1,12:43,,2,2,12,TB 2,0,DAL,
-5,982,2,14:45,,3,2,14,TB 7,0,DAL,
-5,1097,0,12:34,,0,2,14,TB 15,1,DAL,XP
-5,961,1,14:45,,10,2,7,TB 14,0,DAL,
-5,1003,3,13:26,,1,2,12,TB 5,0,DAL,
-13,2693,1,07:06,,10,3,81,TB 47,0,TB,
-13,2764,1,06:13,,10,3,81,DAL 23,0,TB,
-13,2740,3,06:43,,2,3,81,DAL 45,0,TB,
-13,2809,1,04:57,,10,3,71,DAL 10,0,TB,
-13,2588,1,09:01,,10,3,2,TB 19,0,TB,
-13,2785,2,05:30,,14,3,71,DAL 27,0,TB,
-13,2645,2,08:00,,18,3,71,TB 11,0,TB,
-13,2830,2,04:18,,10,3,81,DAL 10,1,TB,TD
-13,2669,1,07:34,,10,3,81,TB 30,0,TB,
-13,2719,2,07:01,,10,3,36,TB 47,0,TB,
-13,2610,2,08:30,,8,3,20,TB 21,0,TB,PENALTY
-13,2851,0,04:12,,0,3,81,DAL 15,1,TB,XP
-21,3841,0,02:58,,0,4,0,DAL 35,0,DAL,KICKOFF
-21,3875,2,02:29,,18,4,-8,TB 17,0,TB,
-21,3897,3,02:24,,18,4,-8,TB 17,0,TB,
-21,3856,1,02:58,,10,4,-8,TB 25,0,TB,
-21,3923,4,02:16,,18,4,-8,TB 17,0,TB,PUNT
-23,4222,4,00:35,,12,4,9,TB 20,0,TB,INT
-23,4117,1,01:36,,10,4,11,TB 11,0,TB,
-23,4200,3,00:39,,12,4,9,TB 20,0,TB,
-23,4167,2,01:14,,10,4,9,TB 22,0,TB,FUMBLE
-23,4141,1,01:19,,10,4,11,TB 22,0,TB,
-11,2325,3,13:36,,10,3,24,TB 36,0,TB,
-11,2277,1,13:48,,10,3,11,TB 36,0,TB,
-11,2402,3,11:52,,1,3,75,DAL 42,1,TB,TD
-11,2353,1,13:03,,10,3,26,TB 49,0,TB,
-11,2374,2,12:31,,8,3,33,DAL 49,0,TB,
-11,2231,1,15:00,,10,3,5,TB 25,0,TB,
-11,2252,2,14:25,,5,3,26,TB 30,0,TB,
-11,2216,0,15:00,,0,3,0,DAL 35,0,DAL,KICKOFF
-11,2427,0,11:44,,0,3,75,DAL 15,1,TB,XP
-11,2299,2,13:42,,10,3,11,TB 36,0,TB,
-14,2940,1,02:56,,10,3,35,DAL 46,0,DAL,
-14,3110,3,14:18,,12,4,58,TB 23,0,DAL,
-14,2867,0,04:12,,0,3,0,TB 35,0,TB,KICKOFF
-14,2992,1,01:44,,10,3,42,TB 42,0,DAL,
-14,3042,1,00:32,,10,3,52,TB 21,0,DAL,
-14,2919,2,03:28,,4,3,26,DAL 26,0,DAL,
-14,2898,1,04:08,,10,3,6,DAL 20,0,DAL,
-14,3134,4,13:37,,11,4,58,TB 22,1,DAL,FG
-14,2964,2,02:21,,1,3,38,TB 45,0,DAL,
-14,3013,2,01:07,,6,3,59,TB 38,0,DAL,
-14,3063,0,,,0,3,52,,0,,
-14,3084,2,15:00,,17,4,57,TB 28,0,DAL,
-8,1762,3,02:00,,16,2,59,DAL 16,0,TB,
-8,1525,2,05:52,,11,2,17,TB 24,0,TB,
-8,1615,2,04:05,,4,2,52,DAL 39,0,TB,
-8,1665,1,03:02,,8,2,59,DAL 8,0,TB,PENALTY
-8,1594,1,04:27,,10,2,36,DAL 45,0,TB,
-8,1489,0,06:24,,0,2,0,DAL 35,0,DAL,KICKOFF
-8,1720,2,02:23,,23,2,59,DAL 23,0,TB,
-8,1549,1,05:31,,10,2,37,TB 42,0,TB,
-8,1697,2,02:31,,28,2,59,DAL 28,0,TB,PENALTY
-8,1570,2,04:53,,8,2,30,TB 44,0,TB,
-8,1636,1,03:40,,10,2,67,DAL 33,0,TB,
-8,1744,0,02:00,,0,2,59,,0,,
-8,1788,4,01:55,,16,2,59,DAL 16,1,TB,FG
-8,1504,1,06:24,,10,2,-1,TB 25,0,TB,
-19,3611,3,07:11,,5,4,5,DAL 40,0,TB,
-19,3633,4,07:05,,5,4,5,DAL 40,0,TB,PUNT
-19,3587,2,07:54,,11,4,5,DAL 46,0,TB,
-19,3566,1,08:32,,10,4,-1,DAL 45,0,TB,
-22,3964,0,02:00,,0,4,15,,0,,
-22,4003,0,01:56,,0,4,19,,0,,TIMEOUT
-22,4097,4,01:43,,6,4,19,DAL 49,0,DAL,PUNT
-22,4060,3,01:50,,3,4,19,TB 48,0,DAL,
-22,4021,2,01:56,,6,4,22,DAL 49,0,DAL,
-22,4079,0,01:43,,0,4,19,,0,,TIMEOUT
-22,4042,0,01:50,,0,4,22,,0,,TIMEOUT
-22,3982,1,02:00,,10,4,19,DAL 45,0,DAL,
-22,3943,1,02:08,,10,4,15,DAL 30,0,DAL,
-12,2443,0,11:44,,0,3,0,TB 35,0,TB,KICKOFF
-12,2482,1,11:09,,10,3,16,DAL 38,0,DAL,
-12,2503,2,10:31,,7,3,21,DAL 41,0,DAL,
-12,2527,3,09:49,,2,3,14,DAL 46,0,DAL,FUMBLE
-12,2563,4,09:49,,9,3,14,DAL 39,0,DAL,PUNT
-12,2458,1,11:44,,10,3,13,DAL 25,0,DAL,
-16,3302,2,11:01,,18,4,-4,TB 30,0,DAL,
-16,3271,2,11:08,,8,4,-8,TB 20,0,DAL,PENALTY
-16,3350,4,09:40,,8,4,2,TB 20,1,DAL,FG
-16,3326,3,10:21,,14,4,2,TB 26,0,DAL,
-16,3250,1,11:49,,10,4,2,TB 22,0,DAL,
-7,1229,1,11:37,,10,2,3,DAL 36,0,DAL,
-7,1344,1,08:23,,10,2,29,TB 35,0,DAL,
-7,1472,0,06:24,,0,2,64,TB 15,1,DAL,XP
-7,1299,2,09:44,,12,2,14,DAL 44,0,DAL,
-7,1271,1,10:25,,10,2,8,DAL 46,0,DAL,
-7,1370,2,08:15,,10,2,34,TB 35,0,DAL,
-7,1426,1,06:56,,10,2,62,TB 23,0,DAL,
-7,1250,2,11:07,,7,2,10,DAL 39,0,DAL,
-7,1323,3,09:03,,6,2,29,TB 50,0,DAL,
-7,1454,1,06:27,,2,2,64,TB 2,1,DAL,TD
-7,1398,3,07:38,,5,2,41,TB 30,0,DAL,
-3,589,1,05:48,,10,1,8,DAL 26,0,DAL,
-3,666,1,03:54,,10,1,39,TB 46,0,DAL,
-3,832,2,01:09,,25,1,65,TB 31,0,DAL,
-3,767,1,01:27,,10,1,58,TB 16,0,DAL,
-3,739,3,01:55,,6,1,58,TB 31,0,DAL,
-3,617,2,05:12,,2,1,6,DAL 34,0,DAL,
-3,638,3,04:36,,4,1,28,DAL 32,0,DAL,
-3,715,2,02:29,,7,1,43,TB 32,0,DAL,
-3,563,0,05:54,,0,1,65,TB 35,0,TB,KICKOFF
-3,694,1,03:11,,10,1,42,TB 35,0,DAL,
-3,855,3,00:25,,15,1,65,TB 21,0,DAL,
-3,793,2,01:19,,10,1,65,TB 16,0,DAL,PENALTY
-3,896,4,15:00,,3,2,65,TB 9,1,DAL,FG
-3,880,0,,,0,1,65,,0,,
-17,3428,1,09:26,,5,4,8,TB 20,0,TB,
-17,3493,4,08:54,,2,4,8,TB 23,0,TB,PUNT
-17,3370,0,09:35,,0,4,0,DAL 35,0,DAL,KICKOFF
-17,3449,2,09:00,,2,4,8,TB 23,0,TB,
-17,3392,1,09:35,,10,4,8,TB 15,0,TB,PENALTY
-17,3471,3,08:57,,2,4,8,TB 23,0,TB,
-4,916,0,14:56,,0,2,0,DAL 35,0,DAL,KICKOFF
-4,931,1,14:56,,10,2,-7,TB 25,0,TB,FUMBLE
-2,447,3,07:54,,1,1,40,DAL 16,0,TB,
-2,405,1,09:00,,10,1,32,DAL 25,0,TB,
-2,489,2,06:45,,10,1,47,DAL 14,0,TB,
-2,351,2,09:40,,10,1,8,TB 46,0,TB,
-2,329,1,09:46,,10,1,0,TB 46,0,TB,
-2,517,3,06:06,,3,1,47,DAL 7,0,TB,
-2,543,4,05:58,,3,1,47,DAL 7,1,TB,FG
-2,372,3,09:06,,2,1,29,DAL 46,0,TB,PENALTY
-2,468,1,07:23,,10,1,40,DAL 14,0,TB,
-2,426,2,08:26,,7,1,38,DAL 22,0,TB,
-15,3223,3,11:59,,14,4,-4,TB 21,0,TB,INT
-15,3176,1,13:26,,10,4,-6,TB 25,0,TB,
-15,3195,2,12:42,,16,4,-4,TB 19,0,TB,
-15,3154,0,13:31,,0,4,0,DAL 35,0,DAL,KICKOFF
+24,4270,0,00:00,END GAME,0,4,-2,,0,,
+24,4249,1,00:24,(:24) D.Prescott kneels to DAL 46 for -2 yards.,10,4,-2,DAL 48,0,DAL,
+20,3821,4,03:03,"(3:03) (Field Goal formation) D.Bailey 33 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",1,4,81,TB 15,1,DAL,FG
+20,3768,2,03:45,(3:45) (Shotgun) D.Prescott pass short right to C.Beasley pushed ob at TB 16 for 8 yards (K.Tandy). Pass complete on an up and out route.,10,4,81,TB 24,0,DAL,
+20,3747,1,04:26,(4:26) D.McFadden left guard to TB 24 for no gain (K.Tandy). Injury updates: William Gholston and Justin Durant both have elbow injuries. Their return is questionable.,10,4,81,TB 24,0,DAL,
+20,3800,3,03:41,(3:41) E.Elliott right end to TB 15 for 1 yard (K.Alexander; B.Grimes).,2,4,81,TB 16,0,DAL,
+20,3726,1,05:13,(5:13) E.Elliott left tackle to TB 24 for 10 yards (K.Tandy; J.Elliott).,10,4,72,TB 34,0,DAL,
+20,3653,1,06:55,(6:55) E.Elliott up the middle to DAL 5 for 1 yard (K.Alexander; L.David). TB-W.Gholston was injured during the play. His return is Questionable.,10,4,1,DAL 4,0,DAL,
+20,3677,2,06:30,(6:30) (Shotgun) D.Prescott pass short middle to D.Bryant to DAL 24 for 19 yards (B.McDougald). Pass complete on a slant pattern.,9,4,20,DAL 5,0,DAL,
+20,3705,1,05:49,(5:49) E.Elliott right tackle pushed ob at TB 34 for 42 yards (K.Tandy).,10,4,62,DAL 24,0,DAL,
+21,3841,0,02:58,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback.",0,4,0,DAL 35,0,DAL,KICKOFF
+21,3856,1,02:58,(2:58) (Shotgun) J.Winston sacked at TB 17 for -8 yards (D.Irving).,10,4,-8,TB 25,0,TB,
+21,3923,4,02:16,"(2:16) (Punt formation) B.Anger punts 53 yards to DAL 30, Center-A.DePaola, fair catch by L.Whitehead.",18,4,-8,TB 17,0,TB,PUNT
+21,3875,2,02:29,"(2:29) (No Huddle, Shotgun) J.Winston pass incomplete short right to C.Brate.",18,4,-8,TB 17,0,TB,
+21,3897,3,02:24,(2:24) (Shotgun) J.Winston pass incomplete deep left to M.Evans. Pass incomplete on a deep out pattern.,18,4,-8,TB 17,0,TB,
+22,4060,3,01:50,(1:50) (Shotgun) D.Prescott sacked at DAL 49 for -3 yards (S.Siliga).,3,4,19,TB 48,0,DAL,
+22,4003,0,01:56,Timeout #1 by TB at 01:56.,0,4,19,,0,,TIMEOUT
+22,4079,0,01:43,Timeout #3 by TB at 01:43.,0,4,19,,0,,TIMEOUT
+22,4042,0,01:50,Timeout #2 by TB at 01:50.,0,4,22,,0,,TIMEOUT
+22,3943,1,02:08,(2:08) E.Elliott left guard to DAL 45 for 15 yards (B.McDougald).,10,4,15,DAL 30,0,DAL,
+22,3964,0,02:00,Two-Minute Warning,0,4,15,,0,,
+22,4021,2,01:56,(1:56) E.Elliott left guard to TB 48 for 3 yards (K.Tandy; R.Ayers).,6,4,22,DAL 49,0,DAL,
+22,4097,4,01:43,"(1:43) (Punt formation) C.Jones punts 40 yards to TB 11, Center-L.Ladouceur, fair catch by A.Humphries.",6,4,19,DAL 49,0,DAL,PUNT
+22,3982,1,02:00,(2:00) E.Elliott right guard to DAL 49 for 4 yards (L.David).,10,4,19,DAL 45,0,DAL,
+23,4167,2,01:14,"(1:14) (Shotgun) J.Winston sacked at TB 20 for -2 yards (M.Collins). FUMBLES (M.Collins) [M.Collins], recovered by TB-L.Wester at TB 20. L.Wester to TB 20 for no gain (B.Jones).",10,4,9,TB 22,0,TB,FUMBLE
+23,4117,1,01:36,(1:36) (Shotgun) J.Winston pass short middle to C.Brate to TB 22 for 11 yards (S.Lee).,10,4,11,TB 11,0,TB,
+23,4200,3,00:39,"(:39) (No Huddle, Shotgun) J.Winston pass incomplete short middle to M.Evans [D.Irving].",12,4,9,TB 20,0,TB,
+23,4141,1,01:19,"(1:19) (No Huddle, Shotgun) J.Winston pass incomplete deep middle to C.Brate. Pass thrown on slant incomplete at the Tampa 40; Jones closest defender.",10,4,11,TB 22,0,TB,
+23,4222,4,00:35,(:35) (Shotgun) J.Winston pass deep right intended for R.Shepard INTERCEPTED by O.Scandrick at DAL 48. O.Scandrick to DAL 48 for no gain (C.Sims).,12,4,9,TB 20,0,TB,INT
+1,308,4,09:51,"(9:51) (Field Goal formation) D.Bailey 56 yard field goal is No Good, Short, Center-L.Ladouceur, Holder-C.Jones.",11,1,38,TB 38,0,DAL,FGM
+1,209,2,11:26,"(11:26) (Shotgun) E.Elliott right end pushed ob at TB 28 for 1 yard (K.Alexander). PENALTY on DAL-V.Mayle, Offensive Holding, 10 yards, enforced at TB 28.",2,1,32,TB 29,0,DAL,PENALTY
+1,260,3,10:25,(10:25) (Shotgun) D.Prescott pass short middle to J.Witten to TB 38 for 6 yards (L.David; K.Alexander).,17,1,38,TB 44,0,DAL,
+1,36,0,15:00,R.Aguayo kicks 64 yards from TB 35 to DAL 1. L.Whitehead to DAL 24 for 23 yards (C.Conte). Return inside the yard line numbers.,0,1,0,TB 35,0,TB,KICKOFF
+1,132,2,13:13,(13:13) D.Prescott pass short right to T.Williams pushed ob at TB 50 for 8 yards (B.Grimes). Pass comjplete on an up and out route.,3,1,26,DAL 42,0,DAL,
+1,62,1,14:54,(14:54) E.Elliott up the middle to DAL 29 for 5 yards (L.David).,10,1,5,DAL 24,0,DAL,
+1,181,1,12:03,(12:03) (Shotgun) D.Prescott pass short right to D.Bryant to TB 29 for 8 yards (B.Grimes). Pass complete on a slant route.,10,1,47,TB 37,0,DAL,
+1,111,1,13:48,(13:48) E.Elliott right tackle to DAL 42 for 7 yards (B.McDougald).,10,1,18,DAL 35,0,DAL,
+1,241,2,11:05,(11:05) (Shotgun) D.Prescott sacked at TB 44 for -6 yards (W.Gholston).,11,1,38,TB 38,0,DAL,
+1,83,2,14:21,(14:21) (Shotgun) D.Prescott pass short middle to D.Bryant to DAL 35 for 6 yards (K.Alexander). Pass complete on a curl  route.,5,1,11,DAL 29,0,DAL,
+1,160,1,12:42,(12:42) (Shotgun) E.Elliott up the middle to TB 37 for 13 yards (K.Tandy).,10,1,39,TB 50,0,DAL,
+1,284,0,09:51,Timeout #1 by TB at 09:51.,0,1,38,,0,,TIMEOUT
+3,832,2,01:09,(1:09) (Shotgun) E.Elliott up the middle to TB 21 for 10 yards (B.McDougald).,25,1,65,TB 31,0,DAL,
+3,855,3,00:25,(:25) D.Prescott pass short middle to E.Elliott to TB 9 for 12 yards (L.David; J.Elliott).,15,1,65,TB 21,0,DAL,
+3,880,0,,END QUARTER 1,0,1,65,,0,,
+3,793,2,01:19,"(1:19) D.Prescott pass short right to D.Bryant to TB 11 for 5 yards (B.Grimes; L.David). PENALTY on DAL-D.Free, Face Mask (15 Yards), 15 yards, enforced at TB 16 - No Play.",10,1,65,TB 16,0,DAL,PENALTY
+3,896,4,15:00,"(15:00) (Field Goal formation) D.Bailey 27 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",3,2,65,TB 9,1,DAL,FG
+3,694,1,03:11,(3:11) E.Elliott left tackle to TB 32 for 3 yards (K.Alexander; W.Gholston).,10,1,42,TB 35,0,DAL,
+3,638,3,04:36,(4:36) (Shotgun) D.Prescott pass short left to C.Beasley to TB 46 for 22 yards (V.Hargreaves). Pass  complete on a skinny post.,4,1,28,DAL 32,0,DAL,
+3,666,1,03:54,(3:54) (Shotgun) D.Prescott pass short right to E.Elliott to TB 35 for 11 yards (K.Tandy). screen pass,10,1,39,TB 46,0,DAL,
+3,715,2,02:29,(2:29) (Shotgun) D.Prescott pass short right to C.Beasley pushed ob at TB 31 for 1 yard (J.Elliott).,7,1,43,TB 32,0,DAL,
+3,563,0,05:54,R.Aguayo kicks 63 yards from TB 35 to DAL 2. L.Whitehead to DAL 26 for 24 yards (A.Glanton; P.Barber). Return inside the yardline markers.,0,1,65,TB 35,0,TB,KICKOFF
+3,617,2,05:12,(5:12) E.Elliott left guard to DAL 32 for -2 yards (J.Elliott).,2,1,6,DAL 34,0,DAL,
+3,589,1,05:48,(5:48) D.Prescott pass short right to J.Witten to DAL 34 for 8 yards (B.McDougald; K.Alexander). Pass complete on a drag route.,10,1,8,DAL 26,0,DAL,
+3,739,3,01:55,(1:55) (Shotgun) D.Prescott pass short right to L.Dunbar pushed ob at TB 16 for 15 yards (L.David). Pass complete on an up and out route.,6,1,58,TB 31,0,DAL,
+3,767,1,01:27,(1:27) (Shotgun) D.Prescott pass incomplete short left to C.Beasley. Pass incomplete after roll left.,10,1,58,TB 16,0,DAL,
+2,329,1,09:46,(9:46) J.Winston pass incomplete short right to L.Stocker.,10,1,0,TB 46,0,TB,
+2,468,1,07:23,(7:23) D.Martin left tackle to DAL 14 for no gain (B.Mayowa).,10,1,40,DAL 14,0,TB,
+2,447,3,07:54,(7:54) D.Martin up the middle to DAL 14 for 2 yards (S.Lee).,1,1,40,DAL 16,0,TB,
+2,543,4,05:58,"(5:58) (Field Goal formation) R.Aguayo 25 yard field goal is GOOD, Center-A.DePaola, Holder-B.Anger.",3,1,47,DAL 7,1,TB,FG
+2,405,1,09:00,(9:00) D.Martin left tackle to DAL 22 for 3 yards (B.Church; S.Lee).,10,1,32,DAL 25,0,TB,
+2,351,2,09:40,(9:40) D.Martin right tackle to DAL 46 for 8 yards (B.Church).,10,1,8,TB 46,0,TB,
+2,489,2,06:45,(6:45) (Shotgun) J.Winston pass short middle to A.Humphries to DAL 7 for 7 yards (B.Jones). Pass complete on a drag route.,10,1,47,DAL 14,0,TB,
+2,372,3,09:06,"(9:06) (Shotgun) J.Winston pass incomplete deep right to M.Evans. PENALTY on DAL-B.Carr, Defensive Pass Interference, 21 yards, enforced at DAL 46 - No Play.",2,1,29,DAL 46,0,TB,PENALTY
+2,517,3,06:06,(6:06) (Shotgun) J.Winston pass incomplete short middle to C.Brate (B.Jones). Pass incomplete on a crossing pattern.,3,1,47,DAL 7,0,TB,
+2,426,2,08:26,(8:26) D.Martin left end pushed ob at DAL 16 for 6 yards (B.Church).,7,1,38,DAL 22,0,TB,
+5,1024,0,12:43,Timeout #2 by TB at 12:43.,0,2,12,,0,,TIMEOUT
+5,1042,1,12:43,(12:43) D.Prescott pass incomplete short right to D.Bryant (B.Grimes). Pass incomplete on a curl route 5 yards deep end zone.,2,2,12,TB 2,0,DAL,
+5,961,1,14:45,(14:45) E.Elliott left tackle to TB 7 for 7 yards (B.McDougald).,10,2,7,TB 14,0,DAL,
+5,1068,2,12:38,"(12:38) E.Elliott left tackle for 2 yards, TOUCHDOWN. PENALTY on DAL-E.Elliott, Unsportsmanlike Conduct, 15 yards, enforced between downs.",2,2,14,TB 2,1,DAL,TD
+5,982,2,14:45,(14:45) (Shotgun) E.Elliott up the middle to TB 5 for 2 yards (S.Siliga).,3,2,14,TB 7,0,DAL,
+5,1097,0,12:34,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,2,14,TB 15,1,DAL,XP
+5,1003,3,13:26,(13:26) D.McFadden right guard to TB 2 for 3 yards (K.Alexander).,1,2,12,TB 5,0,DAL,
+4,931,1,14:56,"(14:56) J.Winston sacked at TB 18 for -7 yards (T.McClain). FUMBLES (T.McClain) [T.McClain], touched at TB 18, RECOVERED by DAL-M.Collins at TB 14. M.Collins to TB 14 for no gain (L.Stocker).",10,2,-7,TB 25,0,TB,FUMBLE
+4,916,0,14:56,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback.",0,2,0,DAL 35,0,DAL,KICKOFF
+7,1323,3,09:03,(9:03) (Shotgun) D.Prescott scrambles left end ran ob at TB 35 for 15 yards.,6,2,29,TB 50,0,DAL,
+7,1426,1,06:56,(6:56) D.Prescott pass deep right to B.Butler pushed ob at TB 2 for 21 yards (B.Grimes). Pass complete off play action roll right; ball caught sideline.,10,2,62,TB 23,0,DAL,
+7,1271,1,10:25,(10:25) D.Prescott pass short right to D.McFadden to DAL 44 for -2 yards (K.Alexander). Screen pass.,10,2,8,DAL 46,0,DAL,
+7,1344,1,08:23,(8:23) D.Prescott pass incomplete short left to T.Williams (B.Grimes). Pass incomplete on a sideline curl.,10,2,29,TB 35,0,DAL,
+7,1229,1,11:37,(11:37) L.Whitehead right end ran ob at DAL 39 for 3 yards (K.Tandy).,10,2,3,DAL 36,0,DAL,
+7,1454,1,06:27,"(6:27) (Shotgun) D.Prescott up the middle for 2 yards, TOUCHDOWN.",2,2,64,TB 2,1,DAL,TD
+7,1370,2,08:15,(8:15) (Shotgun) D.Prescott pass short middle to J.Witten to TB 30 for 5 yards (K.Tandy). Pass complete on a button hook.,10,2,34,TB 35,0,DAL,
+7,1299,2,09:44,(9:44) (Shotgun) D.Prescott pass short right to J.Witten to TB 50 for 6 yards (K.Tandy; W.Gholston).,12,2,14,DAL 44,0,DAL,
+7,1472,0,06:24,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,2,64,TB 15,1,DAL,XP
+7,1250,2,11:07,(11:07) D.McFadden left tackle to DAL 46 for 7 yards (K.Tandy; K.Alexander).,7,2,10,DAL 39,0,DAL,
+7,1398,3,07:38,(7:38) (Shotgun) D.Prescott pass short right to J.Witten to TB 23 for 7 yards (L.David). Pass complete on a curl route.,5,2,41,TB 30,0,DAL,
+6,1157,2,12:01,(12:01) J.Winston pass incomplete short middle to M.Evans. Pass incomplete on a skinny post.,6,2,4,TB 26,0,TB,
+6,1183,3,11:55,(11:55) (Shotgun) J.Winston pass incomplete deep left to C.Sims [S.Lee]. Pass incomplete on roll right in the flat. Heavy pressure by Lee.,6,2,4,TB 26,0,TB,
+6,1209,4,11:45,"(11:45) (Punt formation) B.Anger punts 38 yards to DAL 36, Center-A.DePaola, fair catch by L.Whitehead.",6,2,4,TB 26,0,TB,PUNT
+6,1114,0,12:34,D.Bailey kicks 70 yards from DAL 20 to TB 10. J.Huff to TB 22 for 12 yards (K.Frazier).,0,2,0,DAL 20,0,DAL,KICKOFF
+6,1136,1,12:27,(12:27) D.Martin right tackle to TB 26 for 4 yards (B.Mayowa; S.Lee).,10,2,4,TB 22,0,TB,
+9,2042,0,00:23,Timeout #3 by DAL at 00:23.,0,2,39,,0,,TIMEOUT
+9,1828,1,01:52,(1:52) (Shotgun) D.Prescott pass short left to D.Bryant to DAL 30 for 5 yards (V.Hargreaves).,10,2,5,DAL 25,0,DAL,
+9,2110,4,00:13,"(:13) (Field Goal formation) D.Bailey 52 yard field goal is No Good, Wide Left, Center-L.Ladouceur, Holder-C.Jones.",14,2,41,TB 34,0,DAL,FGM
+9,1942,1,00:41,"(:41) (Shotgun) D.Prescott pass short left to D.Bryant to TB 33 for 10 yards (V.Hargreaves). PENALTY on DAL-R.Leary, Offensive Holding, 10 yards, enforced at TB 43 - No Play.",10,2,45,TB 43,0,DAL,PENALTY
+9,1852,2,01:31,"(1:31) (No Huddle, Shotgun) D.Prescott pass short middle to D.Bryant to DAL 44 for 14 yards (V.Hargreaves).",5,2,19,DAL 30,0,DAL,
+9,2086,3,00:17,(:17) (Shotgun) D.Prescott pass short left to J.Witten ran ob at TB 34 for 2 yards.,16,2,41,TB 36,0,DAL,
+9,1808,0,01:52,"R.Aguayo kicks 65 yards from TB 35 to end zone, Touchback. Ball kicked out of the back of the end zone.",0,2,0,TB 35,0,TB,KICKOFF
+9,1876,1,01:09,"(1:09) (No Huddle, Shotgun) D.Prescott pass short middle to J.Witten to DAL 49 for 5 yards (K.Alexander).",10,2,24,DAL 44,0,DAL,
+9,1977,1,00:34,(:34) (Shotgun) D.Prescott pass deep middle to D.Bryant to TB 30 for 23 yards (K.Alexander). Pass complete on a post pattern.,20,2,45,DAL 47,0,DAL,
+9,2001,0,00:28,Timeout #2 by DAL at 00:28.,0,2,45,,0,,TIMEOUT
+9,1924,0,00:41,Timeout #1 by DAL at 00:41.,0,2,32,,0,,TIMEOUT
+9,2060,2,00:23,(:23) (Shotgun) D.Prescott pass incomplete deep right to D.Bryant. Pass thrown on a flag pattern at the Tampa 15; Grimes closest defender.,16,2,39,TB 36,0,DAL,
+9,2019,1,00:28,(:28) (Shotgun) D.Prescott sacked at TB 36 for -6 yards (L.David).,10,2,39,TB 30,0,DAL,
+9,1900,2,00:47,"(:47) (No Huddle, Shotgun) D.Prescott pass short right to J.Witten to TB 43 for 8 yards (B.McDougald; K.Alexander).",5,2,32,DAL 49,0,DAL,
+8,1788,4,01:55,"(1:55) (Field Goal formation) R.Aguayo 34 yard field goal is GOOD, Center-A.DePaola, Holder-B.Anger.",16,2,59,DAL 16,1,TB,FG
+8,1636,1,03:40,(3:40) (Shotgun) J.Winston pass deep right to F.Martino ran ob at DAL 8 for 25 yards.,10,2,67,DAL 33,0,TB,
+8,1594,1,04:27,"(4:27) (No Huddle, Shotgun) D.Martin up the middle to DAL 39 for 6 yards (A.Hitchens; R.Davis).",10,2,36,DAL 45,0,TB,
+8,1697,2,02:31,"(2:31) (Shotgun) PENALTY on DAL-B.Mayowa, Neutral Zone Infraction, 5 yards, enforced at DAL 28 - No Play.",28,2,59,DAL 28,0,TB,PENALTY
+8,1615,2,04:05,(4:05) (No Huddle) J.Winston scrambles right end ran ob at DAL 33 for 6 yards (B.Church).,4,2,52,DAL 39,0,TB,
+8,1720,2,02:23,(2:23) (Shotgun) J.Winston pass short left to C.Sims to DAL 16 for 7 yards (J.Durant).,23,2,59,DAL 23,0,TB,
+8,1549,1,05:31,(5:31) D.Martin right end to TB 44 for 2 yards (S.Lee).,10,2,37,TB 42,0,TB,
+8,1525,2,05:52,(5:52) (Shotgun) J.Winston pass deep middle to M.Evans to TB 42 for 18 yards (O.Scandrick).,11,2,17,TB 24,0,TB,
+8,1762,3,02:00,(2:00) (Shotgun) J.Winston pass incomplete deep middle to A.Humphries (O.Scandrick). Pass complete on a post pattern in the end zone; Jones closest defender.,16,2,59,DAL 16,0,TB,
+8,1504,1,06:24,(6:24) D.Martin left end to TB 24 for -1 yards (S.Lee).,10,2,-1,TB 25,0,TB,
+8,1744,0,02:00,Two-Minute Warning,0,2,59,,0,,
+8,1489,0,06:24,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback.",0,2,0,DAL 35,0,DAL,KICKOFF
+8,1570,2,04:53,"(4:53) (No Huddle, Shotgun) J.Winston pass short middle to M.Evans to DAL 45 for 11 yards (B.Church).",8,2,30,TB 44,0,TB,
+8,1665,1,03:02,"(3:02) (No Huddle) D.Martin up the middle to DAL 13 for -5 yards (B.Mayowa; J.Durant). PENALTY on TB-J.Winston, Unnecessary Roughness, 15 yards, enforced at DAL 13.",8,2,59,DAL 8,0,TB,PENALTY
+11,2299,2,13:42,(13:42) J.Winston pass incomplete short right [M.Collins]. Pass thrown out of bounds at the 50.,10,3,11,TB 36,0,TB,
+11,2216,0,15:00,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback.",0,3,0,DAL 35,0,DAL,KICKOFF
+11,2325,3,13:36,(13:36) (Shotgun) J.Winston pass short right to M.Evans to TB 49 for 13 yards (B.Carr). Pass complete sliding catch sideline.,10,3,24,TB 36,0,TB,
+11,2231,1,15:00,"(15:00) D.Martin left tackle to TB 30 for 5 yards (D.Wilson, A.Brown).",10,3,5,TB 25,0,TB,
+11,2277,1,13:48,(13:48) J.Winston pass incomplete deep middle to J.Huff.,10,3,11,TB 36,0,TB,
+11,2427,0,11:44,"R.Aguayo extra point is GOOD, Center-A.DePaola, Holder-B.Anger.",0,3,75,DAL 15,1,TB,XP
+11,2402,3,11:52,"(11:52) J.Winston pass deep middle to A.Humphries for 42 yards, TOUCHDOWN. Pass complete after roll left; ball was tipped by Carr near the goalline before Humprhies made the catch in the endzone.",1,3,75,DAL 42,1,TB,TD
+11,2374,2,12:31,(12:31) J.Winston pass short right to A.Cross to DAL 42 for 7 yards (A.Brown). Pass complete off play action roll right; pass complete in the flat.,8,3,33,DAL 49,0,TB,
+11,2353,1,13:03,(13:03) D.Martin left guard to DAL 49 for 2 yards (B.Church).,10,3,26,TB 49,0,TB,
+11,2252,2,14:25,(14:25) D.Martin right tackle to TB 36 for 6 yards (T.Crawford; B.Jones).,5,3,26,TB 30,0,TB,
+10,2173,1,00:03,(:03) (Shotgun) J.Winston pass deep left intended for M.Evans INTERCEPTED by B.Jones at DAL -1. B.Jones ran ob at DAL 6 for 7 yards.,10,2,13,DAL 44,0,TB,INT
+10,2155,0,00:03,Timeout #3 by TB at 00:03.,0,2,13,,0,,TIMEOUT
+10,2131,1,00:08,(:08) (Shotgun) J.Winston pass short middle to C.Brate to DAL 44 for 13 yards (S.Lee).,10,2,13,TB 43,0,TB,
+13,2785,2,05:30,(5:30) (Shotgun) J.Winston pass short left to M.Evans to DAL 10 for 17 yards (J.Heath).,14,3,71,DAL 27,0,TB,
+13,2610,2,08:30,"(8:30) (Shotgun) J.Winston pass deep middle to R.Shepard to TB 42 for 21 yards (B.Jones). PENALTY on TB-A.Marpet, Offensive Holding, 10 yards, enforced at TB 21 - No Play.",8,3,20,TB 21,0,TB,PENALTY
+13,2851,0,04:12,"R.Aguayo extra point is GOOD, Center-A.DePaola, Holder-B.Anger.",0,3,81,DAL 15,1,TB,XP
+13,2719,2,07:01,"(7:01) (No Huddle, Shotgun) C.Sims up the middle to DAL 45 for 8 yards (B.Jones; T.McClain).",10,3,36,TB 47,0,TB,
+13,2645,2,08:00,(8:00) (Shotgun) J.Winston pass deep left to R.Shepard to TB 30 for 19 yards (B.Jones; A.Hitchens).,18,3,71,TB 11,0,TB,
+13,2588,1,09:01,(9:01) D.Martin right tackle to TB 21 for 2 yards (S.Lee; A.Hitchens).,10,3,2,TB 19,0,TB,
+13,2740,3,06:43,(6:43) (No Huddle) J.Winston pass short right to C.Brate to DAL 23 for 22 yards (B.Jones).,2,3,81,DAL 45,0,TB,
+13,2809,1,04:57,(4:57) C.Sims right tackle to DAL 10 for no gain (A.Brown; T.Crawford).,10,3,71,DAL 10,0,TB,
+13,2764,1,06:13,(6:13) (No Huddle) C.Sims left tackle to DAL 27 for -4 yards (B.Mayowa).,10,3,81,DAL 23,0,TB,
+13,2693,1,07:06,(7:06) (Shotgun) J.Winston pass incomplete short left to A.Humphries (O.Scandrick). Pass incomplete sideline.,10,3,81,TB 47,0,TB,
+13,2830,2,04:18,"(4:18) (Shotgun) J.Winston pass short middle to C.Brate for 10 yards, TOUCHDOWN.",10,3,81,DAL 10,1,TB,TD
+13,2669,1,07:34,(7:34) (Shotgun) J.Winston pass short middle to C.Brate to TB 47 for 17 yards (S.Lee).,10,3,81,TB 30,0,TB,
+12,2443,0,11:44,"R.Aguayo kicks 65 yards from TB 35 to end zone, Touchback.",0,3,0,TB 35,0,TB,KICKOFF
+12,2527,3,09:49,"(9:49) E.Elliott FUMBLES (Aborted) at DAL 39, recovered by DAL-R.Leary at DAL 39. R.Leary to DAL 39 for no gain (K.Alexander).",2,3,14,DAL 46,0,DAL,FUMBLE
+12,2458,1,11:44,(11:44) D.Prescott pass short right to T.Williams to DAL 38 for 13 yards (K.Alexander).,10,3,13,DAL 25,0,DAL,
+12,2563,4,09:49,"(9:49) C.Jones punts 42 yards to TB 19, Center-L.Ladouceur, fair catch by A.Humphries.",9,3,14,DAL 39,0,DAL,PUNT
+12,2482,1,11:09,(11:09) E.Elliott left guard to DAL 41 for 3 yards (K.Alexander; B.McDougald).,10,3,16,DAL 38,0,DAL,
+12,2503,2,10:31,(10:31) (Shotgun) D.Prescott pass short right to L.Dunbar to DAL 46 for 5 yards (Da.Smith).,7,3,21,DAL 41,0,DAL,
+15,3195,2,12:42,(12:42) (Shotgun) J.Winston pass short right to C.Sims to TB 21 for 2 yards (J.Durant). Screen pass,16,4,-4,TB 19,0,TB,
+15,3176,1,13:26,(13:26) (Shotgun) J.Winston sacked at TB 19 for -6 yards (D.Irving).,10,4,-6,TB 25,0,TB,
+15,3223,3,11:59,(11:59) (Shotgun) J.Winston pass deep left intended for A.Humphries INTERCEPTED by J.Heath [D.Irving] at TB 41. J.Heath to TB 22 for 19 yards (K.Pamphile).,14,4,-4,TB 21,0,TB,INT
+15,3154,0,13:31,D.Bailey kicks 66 yards from DAL 35 to TB -1. J.Huff to TB 25 for 26 yards (L.Dunbar; A.Brown).,0,4,0,DAL 35,0,DAL,KICKOFF
+14,2964,2,02:21,(2:21) D.Prescott pass short left to D.Bryant to TB 42 for 3 yards (B.Grimes). Pass complete on a bubble screen.,1,3,38,TB 45,0,DAL,
+14,2898,1,04:08,(4:08) E.Elliott left guard to DAL 26 for 6 yards (K.Alexander).,10,3,6,DAL 20,0,DAL,
+14,2867,0,04:12,R.Aguayo kicks 70 yards from TB 35 to DAL -5. L.Whitehead to DAL 20 for 25 yards (C.Conte).,0,3,0,TB 35,0,TB,KICKOFF
+14,2919,2,03:28,(3:28) E.Elliott left end pushed ob at DAL 46 for 20 yards (K.Tandy).,4,3,26,DAL 26,0,DAL,
+14,2992,1,01:44,(1:44) E.Elliott up the middle to TB 38 for 4 yards (K.Tandy).,10,3,42,TB 42,0,DAL,
+14,3110,3,14:18,(14:18) (Shotgun) D.Prescott pass short left to J.Witten to TB 22 for 1 yard (K.Alexander).,12,4,58,TB 23,0,DAL,
+14,3063,0,,END QUARTER 3,0,3,52,,0,,
+14,3134,4,13:37,"(13:37) (Field Goal formation) D.Bailey 40 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",11,4,58,TB 22,1,DAL,FG
+14,3013,2,01:07,(1:07) (Shotgun) D.Prescott pass short left to C.Beasley ran ob at TB 21 for 17 yards.,6,3,59,TB 38,0,DAL,
+14,3084,2,15:00,(15:00) (Shotgun) D.Prescott scrambles right end ran ob at TB 23 for 5 yards (R.Ayers).,17,4,57,TB 28,0,DAL,
+14,3042,1,00:32,(:32) L.Whitehead left end to TB 28 for -7 yards (R.Ayers).,10,3,52,TB 21,0,DAL,
+14,2940,1,02:56,(2:56) D.Prescott pass short right to T.Williams to TB 45 for 9 yards (B.Grimes).,10,3,35,DAL 46,0,DAL,
+17,3428,1,09:26,(9:26) D.Martin up the middle to TB 23 for 3 yards (S.Lee).,5,4,8,TB 20,0,TB,
+17,3449,2,09:00,(9:00) J.Winston pass incomplete short middle (D.Irving) [D.Irving].,2,4,8,TB 23,0,TB,
+17,3471,3,08:57,(8:57) (Shotgun) J.Winston pass incomplete short right to C.Sims (J.Durant).,2,4,8,TB 23,0,TB,
+17,3493,4,08:54,"(8:54) (Punt formation) B.Anger punts 44 yards to DAL 33, Center-A.DePaola. L.Whitehead to DAL 31 for -2 yards (J.Robinson). PENALTY on TB-P.Barber, Offensive Holding, 10 yards, enforced at DAL 31.",2,4,8,TB 23,0,TB,PUNT
+17,3370,0,09:35,D.Bailey kicks 67 yards from DAL 35 to TB -2. J.Huff to TB 15 for 17 yards (L.McFadden).,0,4,0,DAL 35,0,DAL,KICKOFF
+17,3392,1,09:35,"(9:35) PENALTY on DAL, Defensive 12 On-field, 5 yards, enforced at TB 15 - No Play.",10,4,8,TB 15,0,TB,PENALTY
+16,3250,1,11:49,(11:49) E.Elliott right tackle to TB 20 for 2 yards (W.Gholston).,10,4,2,TB 22,0,DAL,
+16,3302,2,11:01,(11:01) (Shotgun) D.Prescott pass short middle to D.Bryant to TB 26 for 4 yards (K.Alexander; K.Tandy).,18,4,-4,TB 30,0,DAL,
+16,3350,4,09:40,"(9:40) (Field Goal formation) D.Bailey 38 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",8,4,2,TB 20,1,DAL,FG
+16,3326,3,10:21,(10:21) (Shotgun) D.Prescott pass short middle to E.Elliott to TB 20 for 6 yards (L.David; K.Alexander) [R.Russell].,14,4,2,TB 26,0,DAL,
+16,3271,2,11:08,"(11:08) (Shotgun) D.Prescott pass short middle to L.Dunbar for 20 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on DAL-T.Smith, Offensive Holding, 10 yards, enforced at TB 20 - No Play.",8,4,-8,TB 20,0,DAL,PENALTY
+19,3611,3,07:11,(7:11) (Shotgun) J.Winston pass incomplete deep right to R.Shepard.,5,4,5,DAL 40,0,TB,
+19,3566,1,08:32,(8:32) D.Martin right guard to DAL 46 for -1 yards (B.Mayowa).,10,4,-1,DAL 45,0,TB,
+19,3633,4,07:05,"(7:05) (Punt formation) B.Anger punts 36 yards to DAL 4, Center-A.DePaola, downed by TB-R.Smith.",5,4,5,DAL 40,0,TB,PUNT
+19,3587,2,07:54,(7:54) (Shotgun) J.Winston pass short right to C.Sims to DAL 40 for 6 yards (B.Jones).,11,4,5,DAL 46,0,TB,
+18,3530,1,08:45,"(8:45) D.Prescott pass short middle to J.Witten to DAL 44 for 3 yards (K.Alexander). FUMBLES (K.Alexander), RECOVERED by TB-L.David at DAL 45. L.David to DAL 45 for no gain (J.Witten).",10,4,3,DAL 41,0,DAL,FUMBLE

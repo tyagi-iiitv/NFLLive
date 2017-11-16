@@ -1,156 +1,156 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1490,2,04:49,,10,2,56,DET 43,0,MIN,
-9,1468,1,04:52,,10,2,52,DET 43,0,MIN,
-9,1446,1,05:30,,10,2,52,MIN 46,0,MIN,
-9,1373,3,07:16,,1,2,15,MIN 25,0,MIN,PENALTY
-9,1534,4,04:08,,6,2,56,DET 39,0,MIN,PUNT
-9,1350,3,07:35,,6,2,20,MIN 20,0,MIN,PENALTY
-9,1512,3,04:13,,6,2,56,DET 39,0,MIN,
-9,1271,1,09:27,,10,2,11,MIN 5,0,MIN,
-9,1293,1,08:45,,10,2,19,MIN 16,0,MIN,
-9,1330,2,08:10,,2,2,15,MIN 24,0,MIN,
-9,1396,3,06:53,,6,2,29,MIN 20,0,MIN,
-9,1421,1,06:13,,10,2,41,MIN 34,0,MIN,
-10,1743,4,01:32,,3,2,31,DET 38,0,DET,PUNT
-10,1674,1,02:00,,10,2,31,DET 31,0,DET,
-10,1610,1,02:52,,10,2,20,DET 19,0,DET,
-10,1554,1,04:01,,10,2,6,DET 7,0,DET,
-10,1699,2,01:40,,3,2,31,DET 38,0,DET,
-10,1578,2,03:33,,4,2,24,DET 13,0,DET,FUMBLE
-10,1635,2,02:14,,2,2,24,DET 27,0,DET,
-10,1721,3,01:36,,3,2,31,DET 38,0,DET,
-20,3276,2,09:22,,8,4,8,DET 8,1,MIN,TD
-20,3254,1,09:27,,8,4,0,DET 8,0,MIN,
-20,3297,0,09:19,,0,4,8,DET 2,1,MIN,XP
-6,751,0,02:41,,0,1,0,MIN 35,0,MIN,KICKOFF
-6,786,2,02:01,,16,1,-4,DET 14,0,DET,
-6,808,3,01:16,,14,1,3,DET 16,0,DET,
-6,833,4,00:44,,7,1,3,DET 23,0,DET,PUNT
-6,766,1,02:41,,10,1,-6,DET 20,0,DET,
-18,3124,4,11:48,,17,4,-7,MIN 9,0,MIN,PUNT
-18,3078,2,12:33,,10,4,-7,MIN 16,0,MIN,
-18,2992,0,12:43,,0,4,0,DET 35,0,DET,KICKOFF
-18,3016,1,12:38,,10,4,-7,MIN 16,0,MIN,
-18,3102,3,11:55,,17,4,-7,MIN 9,0,MIN,
-1,45,0,15:00,,0,1,0,DET 35,0,DET,KICKOFF
-1,179,4,13:11,,4,1,20,MIN 40,0,MIN,PUNT
-1,63,1,15:00,,10,1,5,MIN 20,0,MIN,PENALTY
-1,132,2,13:56,,6,1,18,MIN 38,0,MIN,
-1,154,3,13:51,,6,1,20,MIN 38,0,MIN,
-1,86,1,15:00,,5,1,14,MIN 25,0,MIN,
-1,110,1,14:28,,10,1,18,MIN 34,0,MIN,
-5,735,0,02:41,,0,1,69,DET 2,1,MIN,XP
-5,701,1,02:56,,10,1,69,DET 50,1,MIN,TD
-5,676,1,03:33,,10,1,19,MIN 31,0,MIN,
-13,2088,1,13:10,,10,3,36,DET 45,0,DET,
-13,2064,1,13:50,,10,3,30,DET 25,0,DET,
-13,2014,1,14:54,,10,3,2,DET 15,0,DET,
-13,2131,3,12:25,,4,3,60,MIN 49,0,DET,
-13,2109,2,12:30,,4,3,36,MIN 49,0,DET,
-13,1981,0,15:00,,0,3,0,MIN 35,0,MIN,KICKOFF
-13,2187,2,11:14,,9,3,66,MIN 24,0,DET,
-13,2253,0,10:27,,0,3,85,MIN 2,1,DET,XP
-13,2166,1,11:54,,10,3,61,MIN 25,0,DET,
-13,2211,3,10:36,,4,3,85,MIN 19,1,DET,TD
-13,2043,2,14:30,,8,3,10,DET 17,0,DET,
-13,2232,0,10:27,,0,3,0,,0,,TIMEOUT
-21,3486,2,06:39,,5,4,41,MIN 47,0,DET,
-21,3532,2,05:09,,12,4,39,MIN 41,0,DET,
-21,3464,1,07:19,,10,4,33,DET 48,0,DET,
-21,3372,1,09:19,,10,4,15,DET 20,0,DET,
-21,3396,1,08:41,,10,4,28,DET 35,0,DET,
-21,3511,1,05:56,,10,4,39,MIN 39,0,DET,
-21,3554,3,05:05,,12,4,39,MIN 41,0,DET,
-21,3439,3,07:57,,3,4,28,DET 42,0,DET,
-21,3314,0,09:19,,0,4,0,MIN 35,0,MIN,KICKOFF
-21,3576,4,05:01,,12,4,39,MIN 41,0,DET,PUNT
-21,3417,2,08:02,,3,4,39,DET 42,0,DET,
-11,1857,3,01:07,,7,2,9,MIN 23,0,MIN,
-11,1903,4,00:51,,1,2,9,MIN 29,0,MIN,PUNT
-11,1840,0,01:07,,0,2,3,,0,,TIMEOUT
-11,1797,1,01:21,,10,2,3,MIN 20,0,MIN,
-11,1821,2,01:16,,3,2,9,MIN 27,0,MIN,
-11,1886,0,00:51,,0,2,9,,0,,TIMEOUT
-14,2323,1,09:52,,20,3,-2,MIN 26,0,MIN,
-14,2368,1,08:35,,10,3,2,MIN 48,0,MIN,
-14,2344,2,09:18,,12,3,12,MIN 34,0,MIN,
-14,2409,3,07:51,,20,3,9,MIN 38,0,MIN,
-14,2430,4,07:09,,13,3,9,MIN 45,0,MIN,PUNT
-14,2291,1,10:18,,10,3,-10,MIN 36,0,MIN,PENALTY
-14,2269,0,10:27,,0,3,0,DET 35,0,DET,KICKOFF
-14,2387,2,07:55,,20,3,2,MIN 38,0,MIN,
-8,1207,2,10:28,,7,2,6,DET 39,0,DET,
-8,1251,4,09:38,,4,2,6,DET 42,0,DET,PUNT
-8,1186,1,11:04,,10,2,3,DET 36,0,DET,
-8,1229,3,09:44,,4,2,6,DET 42,0,DET,
-19,3183,2,10:56,,13,4,-16,DET 20,0,DET,
-19,3161,1,11:32,,10,4,-3,DET 23,0,DET,
-19,3228,4,09:42,,22,4,-12,DET 11,0,DET,PUNT
-19,3203,3,10:16,,26,4,-12,DET 7,0,DET,
-22,3726,0,02:00,,0,4,73,,0,,
-22,3618,2,04:11,,4,4,10,MIN 19,0,MIN,
-22,3704,1,02:34,,10,4,73,MIN 47,0,MIN,
-22,3640,1,03:27,,10,4,11,MIN 23,0,MIN,
-22,3764,2,01:20,,11,4,72,DET 15,0,MIN,
-22,3596,1,04:53,,10,4,6,MIN 13,0,MIN,
-22,3662,2,02:44,,9,4,34,MIN 24,0,MIN,
-22,3743,1,02:00,,10,4,72,DET 14,0,MIN,
-22,3807,0,00:00,,0,4,71,,0,,
-22,3786,3,00:40,,11,4,71,DET 15,0,MIN,
-22,3687,0,02:34,,0,4,34,,0,,TIMEOUT
-12,1924,1,00:43,,10,2,-8,DET 29,0,DET,
-12,1944,2,00:03,,18,2,-7,DET 21,0,DET,
-16,2832,1,14:20,,10,4,9,MIN 11,0,MIN,
-16,2809,0,14:25,,0,4,0,DET 35,0,DET,KICKOFF
-16,2858,2,13:44,,1,4,13,MIN 20,0,MIN,FUMBLE
-7,919,2,15:00,,7,2,15,MIN 32,0,MIN,
-7,944,1,14:28,,10,2,38,MIN 44,0,MIN,PENALTY
-7,1021,1,13:10,,10,2,48,DET 31,0,MIN,
-7,1090,1,11:52,,10,2,69,DET 15,0,MIN,
-7,977,1,14:23,,10,2,38,DET 41,0,MIN,
-7,1159,3,11:16,,2,2,69,DET 2,0,MIN,INT
-7,881,1,00:31,,10,1,3,MIN 29,0,MIN,
-7,1065,3,12:29,,2,2,56,DET 23,0,MIN,
-7,1043,2,12:34,,2,2,48,DET 23,0,MIN,
-7,999,2,13:46,,2,2,40,DET 33,0,MIN,
-7,1115,1,11:25,,2,2,69,DET 2,0,MIN,
-7,1137,2,11:20,,2,2,69,DET 2,0,MIN,
-3,510,3,06:04,,5,1,38,DET 38,0,MIN,
-3,393,1,08:43,,10,1,13,MIN 36,0,MIN,
-3,464,1,06:46,,10,1,38,DET 43,0,MIN,
-3,439,3,07:22,,3,1,33,MIN 43,0,MIN,
-3,368,1,09:21,,10,1,12,MIN 24,0,MIN,
-3,560,4,05:57,,10,1,33,DET 43,0,MIN,PUNT
-3,418,2,08:02,,9,1,19,MIN 37,0,MIN,
-3,532,4,05:57,,5,1,33,DET 38,0,MIN,PENALTY
-3,488,2,06:08,,5,1,38,DET 38,0,MIN,
-17,2891,1,13:34,,10,4,-6,MIN 29,0,DET,PENALTY
-17,2972,4,12:48,,16,4,-6,MIN 35,1,DET,FG
-17,2947,3,13:25,,22,4,-6,MIN 41,0,DET,
-17,2925,2,13:25,,22,4,-12,MIN 41,0,DET,
-4,602,2,05:08,,12,1,-1,DET 5,0,DET,
-4,627,3,04:25,,11,1,5,DET 6,0,DET,
-4,580,1,05:49,,10,1,-2,DET 7,0,DET,
-4,652,4,03:48,,5,1,5,DET 12,0,DET,PUNT
-2,342,4,09:35,,4,1,18,DET 43,0,DET,PUNT
-2,295,2,10:28,,8,1,18,DET 39,0,DET,
-2,320,3,09:41,,4,1,18,DET 43,0,DET,
-2,205,1,13:01,,10,1,2,DET 25,0,DET,
-2,248,3,11:44,,2,1,12,DET 33,0,DET,
-2,273,1,11:05,,10,1,18,DET 37,0,DET,
-2,226,2,12:26,,8,1,8,DET 27,0,DET,
-15,2516,1,05:07,,10,3,42,MIN 40,0,DET,
-15,2654,3,02:00,,8,3,75,MIN 27,0,DET,
-15,2678,1,01:12,,8,3,78,MIN 8,0,DET,
-15,2756,3,15:00,,3,4,76,MIN 3,0,DET,
-15,2632,2,02:08,,8,3,56,MIN 27,0,DET,
-15,2776,4,14:28,,7,4,76,MIN 7,1,DET,FG
-15,2450,1,07:01,,10,3,9,DET 17,0,DET,
-15,2580,4,02:57,,4,3,54,MIN 34,0,DET,PENALTY
-15,2611,1,02:52,,10,3,56,MIN 29,0,DET,
-15,2537,2,04:23,,11,3,38,MIN 41,0,DET,
-15,2556,3,03:40,,15,3,49,MIN 45,0,DET,
-15,2719,2,00:29,,5,3,80,MIN 5,0,DET,
-15,2702,0,00:29,,0,3,78,,0,,TIMEOUT
-15,2492,1,05:52,,10,3,43,DET 28,0,DET,
-15,2471,2,06:31,,1,3,11,DET 26,0,DET,
+20,3276,2,09:22,"(9:22) (Shotgun) M.Cassel pass short left to C.Patterson for 8 yards, TOUCHDOWN.",8,4,8,DET 8,1,MIN,TD
+20,3297,0,09:19,"B.Walsh extra point is GOOD, Center-C.Loeffler, Holder-J.Locke.",0,4,8,DET 2,1,MIN,XP
+20,3254,1,09:27,(9:27) (Shotgun) M.Cassel pass incomplete short right to J.Wright.,8,4,0,DET 8,0,MIN,
+21,3439,3,07:57,(7:57) (Shotgun) M.Stafford pass short right to K.Ogletree to DET 48 for 6 yards (R.Blanton).,3,4,28,DET 42,0,DET,
+21,3464,1,07:19,(7:19) R.Bush up the middle to MIN 47 for 5 yards (H.Smith).,10,4,33,DET 48,0,DET,
+21,3554,3,05:05,(5:05) (Shotgun) M.Stafford pass incomplete short right to N.Burleson.,12,4,39,MIN 41,0,DET,
+21,3396,1,08:41,(8:41) R.Bush left tackle to DET 42 for 7 yards (H.Smith).,10,4,28,DET 35,0,DET,
+21,3511,1,05:56,(5:56) (Shotgun) R.Bush up the middle to MIN 41 for -2 yards (J.Allen; C.Greenway).,10,4,39,MIN 39,0,DET,
+21,3576,4,05:01,"(5:01) S.Martin punts 28 yards to MIN 13, Center-D.Muhlbach, fair catch by M.Sherels.",12,4,39,MIN 41,0,DET,PUNT
+21,3372,1,09:19,(9:19) M.Stafford pass short middle to K.Ogletree to DET 35 for 15 yards (S.Prater).,10,4,15,DET 20,0,DET,
+21,3486,2,06:39,(6:39) (Shotgun) M.Stafford pass short left to N.Burleson to MIN 39 for 8 yards (R.Blanton; J.Sanford).,5,4,41,MIN 47,0,DET,
+21,3417,2,08:02,(8:02) M.Stafford pass incomplete deep left to K.Ogletree.,3,4,39,DET 42,0,DET,
+21,3532,2,05:09,(5:09) (Shotgun) M.Stafford pass incomplete short right to K.Ogletree.,12,4,39,MIN 41,0,DET,
+21,3314,0,09:19,"B.Walsh kicks 74 yards from MIN 35 to DET -9. J.Ross, Touchback.",0,4,0,MIN 35,0,MIN,KICKOFF
+22,3764,2,01:20,(1:20) M.Cassel kneels to DET 15 for no gain.,11,4,72,DET 15,0,MIN,
+22,3596,1,04:53,(4:53) (Shotgun) M.Asiata right tackle to MIN 19 for 6 yards (S.Tulloch).,10,4,6,MIN 13,0,MIN,
+22,3662,2,02:44,(2:44) (Shotgun) M.Cassel pass deep left to C.Patterson to MIN 47 for 23 yards (C.Greenwood).,9,4,34,MIN 24,0,MIN,
+22,3618,2,04:11,(4:11) C.Patterson right end to MIN 23 for 4 yards (E.Ansah; N.Fairley).,4,4,10,MIN 19,0,MIN,
+22,3807,0,00:00,END GAME,0,4,71,,0,,
+22,3687,0,02:34,Timeout #3 by DET at 02:34.,0,4,34,,0,,TIMEOUT
+22,3743,1,02:00,(2:00) M.Cassel kneels to DET 15 for -1 yards.,10,4,72,DET 14,0,MIN,
+22,3786,3,00:40,(:40) M.Cassel kneels to DET 16 for -1 yards.,11,4,71,DET 15,0,MIN,
+22,3726,0,02:00,Two-Minute Warning,0,4,73,,0,,
+22,3704,1,02:34,(2:34) M.Asiata right end to DET 14 for 39 yards (N.Suh; N.Fairley).,10,4,73,MIN 47,0,MIN,
+22,3640,1,03:27,(3:27) M.Asiata up the middle to MIN 24 for 1 yard (N.Suh).,10,4,11,MIN 23,0,MIN,
+1,154,3,13:51,(13:51) (Shotgun) M.Cassel pass short middle to C.Ford to MIN 40 for 2 yards (R.Mathis).,6,1,20,MIN 38,0,MIN,
+1,45,0,15:00,"D.Akers kicks 70 yards from DET 35 to MIN -5. C.Ford, Touchback.",0,1,0,DET 35,0,DET,KICKOFF
+1,132,2,13:56,(13:56) M.Cassel pass incomplete deep left to C.Ford (D.Levy).,6,1,18,MIN 38,0,MIN,
+1,63,1,15:00,"(15:00) (Shotgun) PENALTY on DET-E.Ansah, Neutral Zone Infraction, 5 yards, enforced at MIN 20 - No Play.",10,1,5,MIN 20,0,MIN,PENALTY
+1,110,1,14:28,(14:28) M.Asiata right tackle to MIN 38 for 4 yards (R.McIntosh; D.Levy).,10,1,18,MIN 34,0,MIN,
+1,179,4,13:11,"(13:11) J.Locke punts 43 yards to DET 17, Center-C.Loeffler. J.Ross to DET 25 for 8 yards (L.Dean).",4,1,20,MIN 40,0,MIN,PUNT
+1,86,1,15:00,(15:00) M.Cassel pass short middle to C.Ford to MIN 34 for 9 yards (D.Levy).,5,1,14,MIN 25,0,MIN,
+3,560,4,05:57,"(5:57) J.Locke punts 36 yards to DET 7, Center-C.Loeffler, fair catch by J.Ross.",10,1,33,DET 43,0,MIN,PUNT
+3,464,1,06:46,(6:46) M.Cassel pass short middle to M.Asiata to DET 38 for 5 yards (S.Tulloch).,10,1,38,DET 43,0,MIN,
+3,439,3,07:22,(7:22) (Shotgun) M.Cassel pass short middle to J.Simpson to DET 43 for 14 yards (D.Slay).,3,1,33,MIN 43,0,MIN,
+3,393,1,08:43,(8:43) (Shotgun) M.Cassel pass short left to G.Jennings to MIN 37 for 1 yard (S.Tulloch).,10,1,13,MIN 36,0,MIN,
+3,532,4,05:57,"(5:57) (Punt formation) PENALTY on MIN-J.Locke, Delay of Game, 5 yards, enforced at DET 38 - No Play.",5,1,33,DET 38,0,MIN,PENALTY
+3,368,1,09:21,(9:21) M.Cassel pass short right to C.Ford to MIN 36 for 12 yards (L.Delmas).,10,1,12,MIN 24,0,MIN,
+3,488,2,06:08,(6:08) (Shotgun) M.Cassel pass incomplete deep right to J.Simpson.,5,1,38,DET 38,0,MIN,
+3,510,3,06:04,(6:04) (Shotgun) M.Cassel pass incomplete short left to M.Asiata (A.Palmer).,5,1,38,DET 38,0,MIN,
+3,418,2,08:02,(8:02) M.Asiata right guard to MIN 43 for 6 yards (D.Levy).,9,1,19,MIN 37,0,MIN,
+2,205,1,13:01,(13:01) R.Bush up the middle to DET 27 for 2 yards (C.Greenway).,10,1,2,DET 25,0,DET,
+2,320,3,09:41,(9:41) (Shotgun) M.Stafford pass incomplete short right to K.Ogletree.,4,1,18,DET 43,0,DET,
+2,273,1,11:05,(11:05) (Shotgun) J.Bell up the middle to DET 39 for 2 yards (H.Smith).,10,1,18,DET 37,0,DET,
+2,342,4,09:35,"(9:35) S.Martin punts 45 yards to MIN 12, Center-D.Muhlbach. M.Sherels to MIN 24 for 12 yards (D.Carey; D.Gomes).",4,1,18,DET 43,0,DET,PUNT
+2,226,2,12:26,(12:26) R.Bush right tackle to DET 33 for 6 yards (R.Blanton).,8,1,8,DET 27,0,DET,
+2,295,2,10:28,(10:28) (Shotgun) M.Stafford pass short right to J.Bell to DET 43 for 4 yards (M.Mauti).,8,1,18,DET 39,0,DET,
+2,248,3,11:44,(11:44) (Shotgun) M.Stafford pass short left to N.Burleson to DET 37 for 4 yards (R.Blanton).,2,1,12,DET 33,0,DET,
+5,676,1,03:33,(3:33) (Shotgun) M.Cassel pass short right to J.Wright to DET 50 for 19 yards (G.Quin; D.Levy).,10,1,19,MIN 31,0,MIN,
+5,735,0,02:41,"B.Walsh extra point is GOOD, Center-C.Loeffler, Holder-J.Locke.",0,1,69,DET 2,1,MIN,XP
+5,701,1,02:56,"(2:56) C.Patterson right end for 50 yards, TOUCHDOWN. Penalty on DET-D.Carey, Defensive Holding, declined.",10,1,69,DET 50,1,MIN,TD
+4,652,4,03:48,"(3:48) S.Martin punts 57 yards to MIN 31, Center-D.Muhlbach, downed by DET-J.Ross.",5,1,5,DET 12,0,DET,PUNT
+4,627,3,04:25,(4:25) (Shotgun) M.Stafford pass short right to R.Bush to DET 12 for 6 yards (S.Prater; R.Blanton).,11,1,5,DET 6,0,DET,
+4,580,1,05:49,(5:49) R.Bush up the middle to DET 5 for -2 yards (E.Henderson; R.Blanton).,10,1,-2,DET 7,0,DET,
+4,602,2,05:08,(5:08) (Shotgun) M.Stafford pass short right to R.Bush to DET 6 for 1 yard (C.Cook).,12,1,-1,DET 5,0,DET,
+7,977,1,14:23,(14:23) M.Asiata left tackle to DET 33 for 8 yards (S.Tulloch).,10,2,38,DET 41,0,MIN,
+7,1043,2,12:34,(12:34) M.Cassel pass incomplete short right to C.Ford (N.Suh).,2,2,48,DET 23,0,MIN,
+7,881,1,00:31,(:31) M.Asiata left tackle to MIN 32 for 3 yards (S.Tulloch).,10,1,3,MIN 29,0,MIN,
+7,1021,1,13:10,(13:10) M.Asiata right end to DET 23 for 8 yards (S.Tulloch; D.Taylor).,10,2,48,DET 31,0,MIN,
+7,1065,3,12:29,(12:29) (Shotgun) M.Cassel pass short middle to G.Jennings to DET 15 for 8 yards (R.Mathis).,2,2,56,DET 23,0,MIN,
+7,944,1,14:28,"(14:28) M.Cassel pass incomplete deep middle to J.Simpson. PENALTY on DET-L.Delmas, Unnecessary Roughness, 15 yards, enforced at MIN 44 - No Play.",10,2,38,MIN 44,0,MIN,PENALTY
+7,999,2,13:46,(13:46) M.Asiata right tackle to DET 31 for 2 yards (D.Levy).,2,2,40,DET 33,0,MIN,
+7,1159,3,11:16,(11:16) (Shotgun) M.Cassel pass short left intended for J.Simpson INTERCEPTED by L.Delmas at DET -6. L.Delmas to DET 36 for 42 yards (M.Asiata).,2,2,69,DET 2,0,MIN,INT
+7,919,2,15:00,(15:00) M.Cassel pass short right to G.Jennings to MIN 44 for 12 yards (D.Slay).,7,2,15,MIN 32,0,MIN,
+7,1137,2,11:20,(11:20) (Shotgun) M.Cassel pass incomplete short right to C.Patterson.,2,2,69,DET 2,0,MIN,
+7,1090,1,11:52,(11:52) M.Cassel pass short right to R.Ellison to DET 2 for 13 yards (S.Tulloch).,10,2,69,DET 15,0,MIN,
+7,1115,1,11:25,(11:25) M.Cassel pass incomplete short middle to J.Allen.,2,2,69,DET 2,0,MIN,
+6,833,4,00:44,"(:44) S.Martin punts 63 yards to MIN 14, Center-D.Muhlbach. M.Sherels to MIN 29 for 15 yards (T.Riddick).",7,1,3,DET 23,0,DET,PUNT
+6,751,0,02:41,"B.Walsh kicks 65 yards from MIN 35 to end zone, Touchback.",0,1,0,MIN 35,0,MIN,KICKOFF
+6,808,3,01:16,(1:16) (Shotgun) M.Stafford pass short right to J.Fauria to DET 23 for 7 yards (E.Henderson; R.Blanton).,14,1,3,DET 16,0,DET,
+6,766,1,02:41,(2:41) (Shotgun) M.Stafford sacked at DET 14 for -6 yards (J.Allen).,10,1,-6,DET 20,0,DET,
+6,786,2,02:01,(2:01) (Shotgun) R.Bush up the middle to DET 16 for 2 yards (R.Blanton).,16,1,-4,DET 14,0,DET,
+9,1421,1,06:13,(6:13) (Shotgun) M.Cassel pass short right to J.Wright to MIN 46 for 12 yards (S.Tulloch; G.Quin).,10,2,41,MIN 34,0,MIN,
+9,1271,1,09:27,(9:27) M.Asiata right guard to MIN 16 for 11 yards (N.Suh).,10,2,11,MIN 5,0,MIN,
+9,1350,3,07:35,"(7:35) (Shotgun) PENALTY on DET-N.Suh, Encroachment, 5 yards, enforced at MIN 20 - No Play.",6,2,20,MIN 20,0,MIN,PENALTY
+9,1330,2,08:10,(8:10) M.Cassel sacked at MIN 20 for -4 yards (sack split by S.Tulloch and N.Fairley).,2,2,15,MIN 24,0,MIN,
+9,1490,2,04:49,(4:49) M.Asiata up the middle to DET 39 for 4 yards (R.Mathis).,10,2,56,DET 43,0,MIN,
+9,1446,1,05:30,(5:30) M.Asiata up the middle to DET 43 for 11 yards (S.Tulloch; G.Quin).,10,2,52,MIN 46,0,MIN,
+9,1373,3,07:16,"(7:16) (Shotgun) PENALTY on MIN-C.Johnson, False Start, 5 yards, enforced at MIN 25 - No Play.",1,2,15,MIN 25,0,MIN,PENALTY
+9,1534,4,04:08,"(4:08) J.Locke punts 32 yards to DET 7, Center-C.Loeffler, fair catch by J.Ross.",6,2,56,DET 39,0,MIN,PUNT
+9,1468,1,04:52,(4:52) M.Cassel pass incomplete short left to C.Patterson.,10,2,52,DET 43,0,MIN,
+9,1293,1,08:45,(8:45) M.Cassel pass short right to J.Simpson to MIN 24 for 8 yards (D.Slay).,10,2,19,MIN 16,0,MIN,
+9,1396,3,06:53,(6:53) (Shotgun) M.Cassel pass short middle to C.Ford to MIN 34 for 14 yards (D.Levy).,6,2,29,MIN 20,0,MIN,
+9,1512,3,04:13,(4:13) (Shotgun) M.Cassel pass incomplete short right to C.Patterson (N.Suh).,6,2,56,DET 39,0,MIN,
+8,1186,1,11:04,(11:04) J.Bell right tackle to DET 39 for 3 yards (A.Sendejo; M.Mitchell).,10,2,3,DET 36,0,DET,
+8,1207,2,10:28,(10:28) R.Bush up the middle to DET 42 for 3 yards (R.Blanton).,7,2,6,DET 39,0,DET,
+8,1229,3,09:44,(9:44) (Shotgun) M.Stafford pass incomplete deep left to K.Ogletree.,4,2,6,DET 42,0,DET,
+8,1251,4,09:38,"(9:38) S.Martin punts 53 yards to MIN 5, Center-D.Muhlbach, downed by DET-M.Spurlock.",4,2,6,DET 42,0,DET,PUNT
+11,1797,1,01:21,(1:21) M.Cassel pass short left to J.Simpson to MIN 27 for 7 yards (C.Greenwood).,10,2,3,MIN 20,0,MIN,
+11,1840,0,01:07,Timeout #1 by DET at 01:07.,0,2,3,,0,,TIMEOUT
+11,1821,2,01:16,(1:16) M.Cassel sacked at MIN 23 for -4 yards (N.Fairley).,3,2,9,MIN 27,0,MIN,
+11,1857,3,01:07,(1:07) (Shotgun) M.Cassel pass short middle to C.Ford to MIN 29 for 6 yards (S.Tulloch).,7,2,9,MIN 23,0,MIN,
+11,1886,0,00:51,Timeout #2 by DET at 00:51.,0,2,9,,0,,TIMEOUT
+11,1903,4,00:51,"(:51) J.Locke punts 42 yards to DET 29, Center-C.Loeffler, fair catch by J.Ross.",1,2,9,MIN 29,0,MIN,PUNT
+10,1554,1,04:01,(4:01) (Shotgun) M.Stafford pass short left to J.Bell to DET 13 for 6 yards (S.Prater).,10,2,6,DET 7,0,DET,
+10,1610,1,02:52,(2:52) (Shotgun) M.Stafford pass short right to N.Burleson to DET 27 for 8 yards (C.Greenway).,10,2,20,DET 19,0,DET,
+10,1721,3,01:36,(1:36) (Shotgun) M.Stafford pass incomplete short right to N.Burleson.,3,2,31,DET 38,0,DET,
+10,1578,2,03:33,"(3:33) J.Bell right tackle to DET 19 for 6 yards (J.Sanford). FUMBLES (J.Sanford), and recovers at DET 19. J.Bell to DET 19 for no gain (J.Sanford; C.Greenway).",4,2,24,DET 13,0,DET,FUMBLE
+10,1635,2,02:14,(2:14) (Shotgun) R.Bush left tackle to DET 31 for 4 yards (E.Henderson).,2,2,24,DET 27,0,DET,
+10,1674,1,02:00,(2:00) (Shotgun) M.Stafford pass short middle to J.Fauria to DET 38 for 7 yards (J.Sanford).,10,2,31,DET 31,0,DET,
+10,1743,4,01:32,"(1:32) S.Martin punts 62 yards to end zone, Center-D.Muhlbach, Touchback. PENALTY on DET-M.Spurlock, Illegal Touch Kick, 0 yards, enforced at MIN 20.",3,2,31,DET 38,0,DET,PUNT
+10,1699,2,01:40,(1:40) (Shotgun) M.Stafford pass incomplete short left to R.Bush (J.Allen).,3,2,31,DET 38,0,DET,
+13,2088,1,13:10,(13:10) J.Bell up the middle to MIN 49 for 6 yards (H.Smith).,10,3,36,DET 45,0,DET,
+13,2232,0,10:27,Timeout #1 by DET at 10:27.,0,3,0,,0,,TIMEOUT
+13,2043,2,14:30,(14:30) (Shotgun) R.Bush left tackle to DET 25 for 8 yards (J.Sanford).,8,3,10,DET 17,0,DET,
+13,1981,0,15:00,B.Walsh kicks 70 yards from MIN 35 to DET -5. J.Ross to DET 15 for 20 yards (R.Blanton).,0,3,0,MIN 35,0,MIN,KICKOFF
+13,2253,0,10:27,"D.Akers extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin.",0,3,85,MIN 2,1,DET,XP
+13,2131,3,12:25,"(12:25) (Shotgun) M.Stafford pass short middle to N.Burleson to MIN 25 for 24 yards (E.Henderson; J.Sanford). Penalty on MIN-K.Williams, Defensive Offside, declined.",4,3,60,MIN 49,0,DET,
+13,2211,3,10:36,"(10:36) (Shotgun) M.Stafford pass short right to R.Bush for 19 yards, TOUCHDOWN.",4,3,85,MIN 19,1,DET,TD
+13,2109,2,12:30,(12:30) (Shotgun) M.Stafford pass incomplete deep left to K.Ogletree.,4,3,36,MIN 49,0,DET,
+13,2187,2,11:14,(11:14) (Shotgun) M.Stafford pass short right to R.Bush to MIN 19 for 5 yards (C.Cook).,9,3,66,MIN 24,0,DET,
+13,2014,1,14:54,(14:54) M.Stafford pass short right to R.Bush pushed ob at DET 17 for 2 yards (R.Blanton).,10,3,2,DET 15,0,DET,
+13,2166,1,11:54,(11:54) R.Bush right guard to MIN 24 for 1 yard (K.Williams).,10,3,61,MIN 25,0,DET,
+13,2064,1,13:50,(13:50) M.Stafford pass deep left to N.Burleson to DET 45 for 20 yards (H.Smith).,10,3,30,DET 25,0,DET,
+12,1924,1,00:43,(:43) (Shotgun) M.Stafford sacked at DET 21 for -8 yards (E.Henderson).,10,2,-8,DET 29,0,DET,
+12,1944,2,00:03,(:03) (Shotgun) J.Bell up the middle to DET 22 for 1 yard (J.Allen).,18,2,-7,DET 21,0,DET,
+15,2611,1,02:52,(2:52) (Shotgun) R.Bush left end to MIN 27 for 2 yards (C.Greenway; A.Sendejo).,10,3,56,MIN 29,0,DET,
+15,2719,2,00:29,(:29) J.Bell right tackle to MIN 3 for 2 yards (E.Henderson; H.Smith).,5,3,80,MIN 5,0,DET,
+15,2471,2,06:31,(6:31) (Shotgun) J.Bell right tackle to DET 28 for 2 yards (E.Henderson; S.Floyd).,1,3,11,DET 26,0,DET,
+15,2556,3,03:40,(3:40) (Shotgun) M.Stafford pass short right to J.Bell to MIN 34 for 11 yards (R.Blanton).,15,3,49,MIN 45,0,DET,
+15,2580,4,02:57,"(2:57) D.Akers 52 yard field goal is No Good, Wide Left, Center-D.Muhlbach, Holder-S.Martin. PENALTY on MIN-S.Prater, Defensive Offside, 5 yards, enforced at MIN 34 - No Play.",4,3,54,MIN 34,0,DET,PENALTY
+15,2702,0,00:29,Timeout #2 by DET at 00:29.,0,3,78,,0,,TIMEOUT
+15,2492,1,05:52,(5:52) (Shotgun) M.Stafford pass deep middle to K.Ogletree to MIN 40 for 32 yards (A.Sendejo).,10,3,43,DET 28,0,DET,
+15,2450,1,07:01,(7:01) (Shotgun) J.Bell left tackle pushed ob at DET 26 for 9 yards (H.Smith).,10,3,9,DET 17,0,DET,
+15,2776,4,14:28,"(14:28) D.Akers 25 yard field goal is GOOD, Center-D.Muhlbach, Holder-S.Martin.",7,4,76,MIN 7,1,DET,FG
+15,2632,2,02:08,(2:08) (Shotgun) M.Stafford pass incomplete short right to K.Durham.,8,3,56,MIN 27,0,DET,
+15,2756,3,15:00,(15:00) (Shotgun) M.Stafford sacked at MIN 7 for -4 yards (K.Williams).,3,4,76,MIN 3,0,DET,
+15,2678,1,01:12,(1:12) (Shotgun) M.Stafford pass short right to K.Ogletree to MIN 5 for 3 yards (A.Sendejo).,8,3,78,MIN 8,0,DET,
+15,2516,1,05:07,(5:07) R.Bush up the middle to MIN 41 for -1 yards (H.Smith).,10,3,42,MIN 40,0,DET,
+15,2654,3,02:00,(2:00) (Shotgun) M.Stafford pass short right to K.Ogletree to MIN 8 for 19 yards (H.Smith).,8,3,75,MIN 27,0,DET,
+15,2537,2,04:23,(4:23) (Shotgun) M.Stafford sacked at MIN 45 for -4 yards (J.Allen).,11,3,38,MIN 41,0,DET,
+14,2323,1,09:52,(9:52) (Shotgun) M.Asiata right tackle to MIN 34 for 8 yards (G.Quin).,20,3,-2,MIN 26,0,MIN,
+14,2344,2,09:18,(9:18) (Shotgun) M.Cassel pass short middle to G.Jennings to MIN 48 for 14 yards (L.Delmas).,12,3,12,MIN 34,0,MIN,
+14,2291,1,10:18,"(10:18) (Shotgun) M.Asiata right tackle to MIN 34 for -2 yards (D.Slay). PENALTY on MIN-Jo.Webb, Offensive Holding, 10 yards, enforced at MIN 36 - No Play.",10,3,-10,MIN 36,0,MIN,PENALTY
+14,2430,4,07:09,"(7:09) J.Locke punts 38 yards to DET 17, Center-C.Loeffler, fair catch by J.Ross.",13,3,9,MIN 45,0,MIN,PUNT
+14,2269,0,10:27,D.Akers kicks 49 yards from DET 35 to MIN 16. C.Patterson to MIN 36 for 20 yards (J.Stanford; A.Palmer).,0,3,0,DET 35,0,DET,KICKOFF
+14,2387,2,07:55,(7:55) (Shotgun) M.Cassel pass incomplete short right to J.Simpson (W.Young).,20,3,2,MIN 38,0,MIN,
+14,2368,1,08:35,(8:35) M.Cassel sacked at MIN 38 for -10 yards (L.Delmas).,10,3,2,MIN 48,0,MIN,
+14,2409,3,07:51,(7:51) (Shotgun) M.Cassel scrambles right end to MIN 45 for 7 yards (D.Levy).,20,3,9,MIN 38,0,MIN,
+17,2947,3,13:25,(13:25) (Shotgun) M.Stafford pass short middle to J.Fauria to MIN 35 for 6 yards (R.Blanton).,22,4,-6,MIN 41,0,DET,
+17,2925,2,13:25,(13:25) (Shotgun) M.Stafford pass incomplete short middle to K.Durham [E.Henderson].,22,4,-12,MIN 41,0,DET,
+17,2972,4,12:48,"(12:48) D.Akers 53 yard field goal is GOOD, Center-D.Muhlbach, Holder-S.Martin.",16,4,-6,MIN 35,1,DET,FG
+17,2891,1,13:34,"(13:34) (Shotgun) M.Stafford pass incomplete short right to N.Burleson. PENALTY on DET-M.Stafford, Intentional Grounding, 12 yards, enforced at MIN 29.",10,4,-6,MIN 29,0,DET,PENALTY
+16,2858,2,13:44,"(13:44) M.Asiata up the middle to MIN 24 for 4 yards (N.Fairley). FUMBLES (N.Fairley), RECOVERED by DET-A.Palmer at MIN 29. A.Palmer to MIN 29 for no gain (C.Johnson).",1,4,13,MIN 20,0,MIN,FUMBLE
+16,2809,0,14:25,D.Akers kicks 62 yards from DET 35 to MIN 3. C.Patterson to MIN 11 for 8 yards (J.Wendling).,0,4,0,DET 35,0,DET,KICKOFF
+16,2832,1,14:20,(14:20) M.Cassel pass short right to G.Jennings to MIN 20 for 9 yards (D.Slay).,10,4,9,MIN 11,0,MIN,
+19,3183,2,10:56,(10:56) M.Stafford sacked at DET 7 for -13 yards (E.Griffen).,13,4,-16,DET 20,0,DET,
+19,3203,3,10:16,(10:16) (Shotgun) M.Stafford pass short left to J.Bell to DET 11 for 4 yards (S.Prater).,26,4,-12,DET 7,0,DET,
+19,3228,4,09:42,"(9:42) S.Martin punts 47 yards to MIN 42, Center-D.Muhlbach. M.Sherels pushed ob at DET 8 for 50 yards (J.Wendling).",22,4,-12,DET 11,0,DET,PUNT
+19,3161,1,11:32,(11:32) R.Bush up the middle to DET 20 for -3 yards (S.Floyd).,10,4,-3,DET 23,0,DET,
+18,3078,2,12:33,(12:33) (Shotgun) M.Cassel pass short right to M.Asiata to MIN 9 for -7 yards (S.Tulloch; W.Young).,10,4,-7,MIN 16,0,MIN,
+18,2992,0,12:43,D.Akers kicks 72 yards from DET 35 to MIN -7. C.Patterson to MIN 16 for 23 yards (T.Whitehead).,0,4,0,DET 35,0,DET,KICKOFF
+18,3016,1,12:38,"(12:38) M.Cassel pass deep middle to J.Simpson to MIN 34 for 18 yards (D.Slay). Detroit challenged the pass completion ruling, and the play was REVERSED. M.Cassel pass incomplete deep middle to J.Simpson (D.Slay).",10,4,-7,MIN 16,0,MIN,
+18,3124,4,11:48,"(11:48) J.Locke punts 53 yards to DET 38, Center-C.Loeffler. J.Ross to DET 38 for no gain (J.Trattou). PENALTY on DET-T.Riddick, Clipping, 15 yards, enforced at DET 38.",17,4,-7,MIN 9,0,MIN,PUNT
+18,3102,3,11:55,(11:55) (Shotgun) M.Cassel pass incomplete deep left to G.Jennings.,17,4,-7,MIN 9,0,MIN,

@@ -1,193 +1,193 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1763,0,02:44,,0,2,75,CLE 2,1,TEN,XP
-9,1742,1,02:55,,10,2,75,TEN 25,1,TEN,TD
-10,1908,1,01:56,,10,2,65,CLE 44,0,CLE,
-10,1891,0,01:56,,0,2,34,,0,,
-10,1846,1,02:26,,10,2,22,CLE 31,0,CLE,
-10,2027,0,00:16,,0,2,89,,0,,TIMEOUT
-10,1867,2,02:03,,9,2,34,CLE 32,0,CLE,
-10,1817,1,02:38,,10,2,21,CLE 10,0,CLE,
-10,1779,0,02:44,,0,2,0,TEN 35,0,TEN,KICKOFF
-10,2044,2,00:16,,1,2,90,TEN 1,1,CLE,TD
-10,2006,1,00:23,,1,2,89,TEN 1,0,CLE,
-10,2069,0,00:12,,0,2,90,TEN 2,1,CLE,XP
-10,1964,2,01:25,,4,2,76,TEN 19,0,CLE,
-10,1985,1,01:01,,10,2,89,TEN 14,0,CLE,
-10,1943,1,01:48,,10,2,71,TEN 25,0,CLE,
-20,3823,2,05:10,,10,4,0,CLE 33,0,CLE,
-20,3801,1,05:14,,10,4,0,CLE 33,0,CLE,
-20,3845,3,05:05,,10,4,0,CLE 33,0,CLE,INT
-6,1191,3,10:49,,4,2,66,TEN 21,0,CLE,
-6,1152,2,10:54,,4,2,65,TEN 21,0,CLE,
-6,1021,2,12:55,,1,2,32,CLE 40,0,CLE,
-6,1042,1,12:32,,10,2,35,CLE 46,0,CLE,
-6,1064,2,12:11,,7,2,35,CLE 49,0,CLE,
-6,1174,0,10:49,,0,2,65,,0,,TIMEOUT
-6,922,0,14:41,,0,2,0,TEN 20,0,TEN,KICKOFF
-6,1086,3,12:04,,7,2,46,CLE 49,0,CLE,
-6,976,2,13:50,,12,2,17,CLE 12,0,CLE,
-6,1215,4,10:10,,3,2,66,TEN 20,1,CLE,FG
-6,1131,1,11:14,,10,2,65,TEN 27,0,CLE,
-6,955,1,14:32,,10,2,-2,CLE 14,0,CLE,
-6,1110,1,11:36,,10,2,59,TEN 40,0,CLE,
-6,1000,1,13:16,,10,2,26,CLE 31,0,CLE,
-18,3432,2,09:57,,9,4,67,50,0,CLE,
-18,3331,1,10:56,,10,4,-5,CLE 33,0,CLE,PENALTY
-18,3354,1,10:56,,15,4,16,CLE 28,0,CLE,
-18,3656,0,06:49,,0,4,67,TEN 2,1,CLE,XP
-18,3469,2,09:40,,9,4,67,50,0,CLE,
-18,3568,3,07:58,,1,4,38,TEN 31,0,CLE,
-18,3309,0,11:02,,0,4,0,TEN 20,0,TEN,KICKOFF
-18,3635,1,06:57,,10,4,67,TEN 17,1,CLE,TD
-18,3611,2,07:07,,8,4,50,TEN 27,0,CLE,
-18,3399,2,10:03,,9,4,17,50,0,CLE,
-18,3522,1,08:39,,10,4,67,TEN 40,0,CLE,
-18,3589,1,07:29,,10,4,40,TEN 29,0,CLE,
-18,3544,2,07:58,,8,4,67,TEN 38,0,CLE,
-18,3501,3,09:04,,1,4,27,TEN 42,0,CLE,
-18,3378,1,10:30,,10,4,17,CLE 49,0,CLE,
-1,102,2,13:51,,9,1,14,TEN 36,0,TEN,PENALTY
-1,134,2,13:31,,17,1,14,TEN 28,0,TEN,
-1,155,3,12:54,,17,1,9,TEN 28,0,TEN,PENALTY
-1,57,1,14:55,,10,1,21,TEN 14,0,TEN,
-1,81,1,14:28,,10,1,22,TEN 35,0,TEN,
-1,202,4,12:02,,5,1,26,TEN 40,0,TEN,PUNT
-1,35,0,15:00,,0,1,0,CLE 35,0,CLE,KICKOFF
-1,178,3,12:40,,22,1,26,TEN 23,0,TEN,
-5,773,1,00:25,,10,1,64,CLE 19,0,TEN,
-5,794,0,,,0,1,64,,0,,
-5,710,1,02:19,,10,1,46,CLE 42,0,TEN,
-5,865,3,14:49,,2,2,80,CLE 11,1,TEN,TD
-5,832,3,14:54,,7,2,69,CLE 16,0,TEN,PENALTY
-5,752,1,01:04,,10,1,61,CLE 30,0,TEN,
-5,810,2,15:00,,7,2,64,CLE 16,0,TEN,
-5,731,2,01:39,,2,1,50,CLE 34,0,TEN,
-5,895,0,14:41,,0,2,80,CLE 2,1,TEN,XP
-5,689,1,03:00,,10,1,38,TEN 20,0,TEN,
-13,2403,1,10:35,,10,3,21,TEN 45,0,TEN,PENALTY
-13,2435,2,09:54,,23,3,30,TEN 32,0,TEN,
-13,2361,1,11:32,,10,3,31,TEN 33,0,TEN,
-13,2459,3,09:12,,14,3,39,TEN 41,0,TEN,
-13,2483,4,08:32,,5,3,39,50,0,TEN,PUNT
-13,2335,3,11:56,,8,3,22,TEN 13,0,TEN,
-13,2382,2,11:07,,1,3,34,TEN 42,0,TEN,
-13,2292,1,12:51,,10,3,0,TEN 11,0,TEN,
-13,2268,0,12:55,,0,3,0,CLE 35,0,CLE,KICKOFF
-13,2314,2,12:43,,10,3,2,TEN 11,0,TEN,
-21,3940,1,04:02,,10,4,10,TEN 33,0,TEN,
-21,3916,3,04:43,,10,4,11,TEN 22,0,TEN,
-21,3999,3,03:12,,6,4,20,TEN 37,0,TEN,
-21,3982,0,03:12,,0,4,15,,0,,TIMEOUT
-21,3961,2,03:18,,11,4,15,TEN 32,0,TEN,
-21,4074,4,03:09,,1,4,20,TEN 42,0,TEN,TIMEOUT
-21,3872,1,04:55,,10,4,0,TEN 22,0,TEN,
-21,3894,2,04:50,,10,4,0,TEN 22,0,TEN,
-23,4394,1,00:24,,10,4,17,TEN 43,0,TEN,
-23,4340,3,00:53,,10,4,13,TEN 20,0,TEN,
-23,4477,0,00:00,,0,4,33,,0,,
-23,4413,0,00:19,,0,4,17,,0,,TIMEOUT
-23,4453,3,00:10,,16,4,33,TEN 37,0,TEN,
-23,4364,1,00:30,,10,4,23,TEN 33,0,TEN,
-23,4296,1,01:09,,10,4,0,TEN 20,0,TEN,
-23,4281,0,01:09,,0,4,0,CLE 35,0,CLE,KICKOFF
-23,4430,2,00:19,,16,4,17,TEN 37,0,TEN,
-23,4318,2,00:57,,10,4,0,TEN 20,0,TEN,
-11,2125,0,,,0,2,-1,,0,,
-11,2085,0,00:12,,0,2,0,CLE 35,0,CLE,KICKOFF
-11,2104,1,00:12,,10,2,-1,TEN 20,0,TEN,
-14,2553,2,08:14,,10,3,0,CLE 20,0,CLE,
-14,2620,2,07:01,,4,3,36,CLE 45,0,CLE,
-14,2751,4,04:14,,3,3,58,TEN 22,0,CLE,
-14,2599,1,07:35,,10,3,25,CLE 39,0,CLE,
-14,2519,1,08:21,,10,3,0,CLE 20,0,CLE,
-14,2729,3,04:18,,3,3,58,TEN 22,0,CLE,
-14,2662,2,05:55,,9,3,51,TEN 43,0,CLE,
-14,2686,1,05:21,,10,3,56,TEN 29,0,CLE,
-14,2641,1,06:31,,10,3,37,TEN 44,0,CLE,
-14,2707,2,04:57,,5,3,58,TEN 24,0,CLE,
-14,2575,3,08:08,,10,3,19,CLE 20,0,CLE,
-8,1672,2,03:17,,5,2,5,CLE 25,0,CLE,
-8,1716,4,03:06,,5,2,5,CLE 25,0,CLE,PUNT
-8,1632,0,03:43,,0,2,0,TEN 35,0,TEN,KICKOFF
-8,1694,3,03:11,,5,2,5,CLE 25,0,CLE,
-8,1651,1,03:43,,10,2,5,CLE 20,0,CLE,
-19,3751,3,06:00,,15,4,2,TEN 15,0,TEN,
-19,3693,1,06:49,,10,4,0,TEN 20,0,TEN,
-19,3674,0,06:49,,0,4,0,CLE 35,0,CLE,KICKOFF
-19,3715,0,06:43,,0,4,0,,0,,TIMEOUT
-19,3732,2,06:43,,10,4,-5,TEN 20,0,TEN,
-19,3775,4,05:25,,8,4,2,TEN 22,0,TEN,PUNT
-22,4113,1,03:03,,10,4,2,TEN 42,0,CLE,
-22,4265,0,01:09,,0,4,42,TEN 2,1,CLE,XP
-22,4208,1,01:55,,10,4,36,TEN 12,0,CLE,
-22,4134,2,02:24,,8,4,25,TEN 40,0,CLE,
-22,4232,2,01:15,,4,4,42,TEN 6,1,CLE,TD
-22,4175,1,02:00,,10,4,30,TEN 17,0,CLE,PENALTY
-22,4158,0,02:00,,0,4,25,,0,,
-12,2160,1,15:00,,10,3,49,CLE 20,0,CLE,
-12,2184,1,14:22,,10,3,58,TEN 31,0,CLE,
-12,2141,0,15:00,,0,3,0,TEN 35,0,TEN,KICKOFF
-12,2248,4,13:00,,3,3,56,TEN 24,1,CLE,FG
-12,2205,2,13:52,,1,3,56,TEN 22,0,CLE,
-12,2226,3,13:05,,3,3,56,TEN 24,0,CLE,
-16,3199,4,12:54,,3,4,55,TEN 4,0,CLE,
-16,2960,2,00:57,,9,3,10,CLE 42,0,CLE,
-16,3026,0,,,0,3,24,,0,,
-16,3092,2,13:57,,2,4,48,TEN 14,0,CLE,
-16,3042,2,15:00,,7,4,37,TEN 35,0,CLE,
-16,3182,0,12:54,,0,4,55,,0,,TIMEOUT
-16,3005,1,00:10,,10,3,24,TEN 38,0,CLE,
-16,2934,1,01:25,,10,3,1,CLE 41,0,CLE,
-16,3071,1,14:29,,10,4,45,TEN 22,0,CLE,
-16,3113,1,13:31,,10,4,55,TEN 11,0,CLE,
-16,3160,3,13:02,,3,4,55,TEN 4,0,CLE,
-16,2984,1,00:33,,10,3,21,TEN 49,0,CLE,
-16,3134,2,13:06,,3,4,55,TEN 4,0,CLE,
-7,1254,1,10:05,,10,2,12,TEN 20,0,TEN,
-7,1477,1,05:25,,10,2,57,CLE 24,0,TEN,
-7,1498,2,04:47,,9,2,59,CLE 23,0,TEN,
-7,1453,3,06:11,,10,2,56,CLE 36,0,TEN,
-7,1569,1,03:59,,10,2,69,CLE 11,0,TEN,
-7,1409,1,06:24,,10,2,44,CLE 36,0,TEN,
-7,1431,2,06:17,,10,2,44,CLE 36,0,TEN,
-7,1329,2,08:28,,11,2,27,TEN 40,0,TEN,
-7,1595,2,03:49,,10,2,80,CLE 11,1,TEN,TD
-7,1350,3,07:45,,4,2,34,TEN 47,0,TEN,
-7,1235,0,10:05,,0,2,0,CLE 35,0,CLE,KICKOFF
-7,1388,1,07:03,,10,2,44,CLE 46,0,TEN,
-7,1552,0,03:59,,0,2,69,,0,,TIMEOUT
-7,1371,0,07:03,,0,2,34,,0,,TIMEOUT
-7,1310,1,09:11,,10,2,20,TEN 41,0,TEN,
-7,1616,0,03:43,,0,2,80,CLE 2,1,TEN,XP
-7,1278,1,09:35,,10,2,34,TEN 32,0,TEN,PENALTY
-7,1519,3,04:04,,7,2,69,CLE 21,0,TEN,PENALTY
-3,536,3,04:52,,3,1,58,CLE 11,1,TEN,TD
-3,413,1,07:34,,10,1,11,CLE 48,0,TEN,
-3,389,2,07:58,,12,1,10,TEN 40,0,TEN,
-3,458,3,06:13,,9,1,40,CLE 47,0,TEN,PENALTY
-3,557,0,04:46,,0,1,58,CLE 2,1,TEN,XP
-3,437,2,06:56,,9,1,11,CLE 47,0,TEN,
-3,365,1,08:37,,10,1,-2,TEN 42,0,TEN,
-3,515,2,05:29,,3,1,47,CLE 11,0,TEN,
-3,491,1,06:04,,10,1,47,CLE 18,0,TEN,
-17,3243,2,12:07,,10,4,1,TEN 4,0,TEN,
-17,3222,1,12:48,,10,4,0,TEN 4,0,TEN,
-17,3264,3,11:27,,9,4,8,TEN 5,0,TEN,
-17,3288,4,11:08,,2,4,8,TEN 12,1,TEN,SAF
-4,616,2,04:05,,5,1,5,CLE 34,0,CLE,
-4,573,0,04:46,,0,1,0,TEN 35,0,TEN,KICKOFF
-4,638,3,03:57,,5,1,9,CLE 34,0,CLE,
-4,663,4,03:12,,1,1,9,CLE 38,0,CLE,PUNT
-4,595,1,04:38,,10,1,5,CLE 29,0,CLE,
-2,320,3,09:27,,4,1,12,CLE 26,0,CLE,
-2,339,4,08:49,,11,1,12,CLE 19,0,CLE,PUNT
-2,299,2,10:09,,4,1,19,CLE 26,0,CLE,
-2,252,2,11:17,,12,1,13,CLE 5,0,CLE,
-2,228,1,11:53,,10,1,-2,CLE 7,0,CLE,
-2,278,1,10:44,,10,1,19,CLE 20,0,CLE,
-15,2908,4,01:36,,19,3,-9,TEN 13,0,TEN,PUNT
-15,2774,1,04:10,,10,3,8,TEN 22,0,TEN,
-15,2839,3,02:27,,7,3,4,TEN 25,0,TEN,
-15,2816,3,02:47,,2,3,3,TEN 30,0,TEN,PENALTY
-15,2863,4,01:48,,6,3,-9,TEN 26,0,TEN,PENALTY
-15,2795,2,03:31,,2,3,8,TEN 30,0,TEN,
+20,3823,2,05:10,(5:10) (Shotgun) B.Hoyer pass incomplete short right to B.Tate.,10,4,0,CLE 33,0,CLE,
+20,3845,3,05:05,(5:05) (Shotgun) B.Hoyer pass deep right intended for A.Hawkins INTERCEPTED by M.Griffin [J.Casey] at TEN 22. M.Griffin to TEN 22 for no gain (A.Hawkins).,10,4,0,CLE 33,0,CLE,INT
+20,3801,1,05:14,(5:14) B.Hoyer pass incomplete short right to A.Hawkins (S.Hill).,10,4,0,CLE 33,0,CLE,
+21,3916,3,04:43,(4:43) (Shotgun) C.Whitehurst pass short right to D.Walker to TEN 33 for 11 yards (B.Skrine; C.Kirksey).,10,4,11,TEN 22,0,TEN,
+21,3940,1,04:02,(4:02) B.Sankey left tackle to TEN 32 for -1 yards (K.Dansby).,10,4,10,TEN 33,0,TEN,
+21,4074,4,03:09,"(3:09) C.Whitehurst up the middle to TEN 42 for no gain (D.Whitner; J.Sheard). Tennessee challenged the first down ruling, and the play was Upheld. The ruling on the field stands. (Timeout #2 at 03:03.)",1,4,20,TEN 42,0,TEN,TIMEOUT
+21,3872,1,04:55,(4:55) (Shotgun) C.Whitehurst pass incomplete short left to B.Sankey.,10,4,0,TEN 22,0,TEN,
+21,3894,2,04:50,(4:50) (Shotgun) C.Whitehurst pass incomplete short right to N.Washington (K.Williams).,10,4,0,TEN 22,0,TEN,
+21,3999,3,03:12,"(3:12) (Shotgun) C.Whitehurst pass short right to D.Walker pushed ob at TEN 43 for 6 yards (K.Williams). Cleveland challenged the first down ruling, and the play was REVERSED. (Shotgun) C.Whitehurst pass short right to D.Walker pushed ob at TEN 42 for 5 yards (K.Williams).",6,4,20,TEN 37,0,TEN,
+21,3961,2,03:18,(3:18) K.Wright left end to TEN 37 for 5 yards (C.Kirksey).,11,4,15,TEN 32,0,TEN,
+21,3982,0,03:12,Timeout #2 by CLE at 03:12.,0,4,15,,0,,TIMEOUT
+22,4175,1,02:00,"(2:00) (Shotgun) B.Hoyer pass incomplete deep middle to T.Gabriel. PENALTY on TEN-A.Williamson, Illegal Contact, 5 yards, enforced at TEN 17 - No Play.",10,4,30,TEN 17,0,CLE,PENALTY
+22,4265,0,01:09,"B.Cundiff extra point is GOOD, Center-C.Yount, Holder-S.Lanning.",0,4,42,TEN 2,1,CLE,XP
+22,4158,0,02:00,Two-Minute Warning,0,4,25,,0,,
+22,4134,2,02:24,(2:24) (Shotgun) B.Hoyer pass short middle to M.Austin to TEN 17 for 23 yards (M.Griffin).,8,4,25,TEN 40,0,CLE,
+22,4208,1,01:55,(1:55) (Shotgun) B.Hoyer pass short right to T.Gabriel to TEN 6 for 6 yards (J.McCourty).,10,4,36,TEN 12,0,CLE,
+22,4113,1,03:03,(3:03) B.Tate up the middle to TEN 40 for 2 yards (A.Williamson).,10,4,2,TEN 42,0,CLE,
+22,4232,2,01:15,"(1:15) (Shotgun) B.Hoyer pass short left to T.Benjamin for 6 yards, TOUCHDOWN. Penalty on TEN-S.Phillips, Defensive Holding, declined.",4,4,42,TEN 6,1,CLE,TD
+23,4364,1,00:30,"(:30) (No Huddle, Shotgun) C.Whitehurst pass short right to D.Walker pushed ob at TEN 43 for 10 yards (J.Haden; C.Kirksey).",10,4,23,TEN 33,0,TEN,
+23,4281,0,01:09,"B.Cundiff kicks 65 yards from CLE 35 to end zone, Touchback.",0,4,0,CLE 35,0,CLE,KICKOFF
+23,4318,2,00:57,(:57) C.Whitehurst pass incomplete short right to J.Hunter (D.Bryant).,10,4,0,TEN 20,0,TEN,
+23,4413,0,00:19,Timeout #3 by TEN at 00:19.,0,4,17,,0,,TIMEOUT
+23,4296,1,01:09,(1:09) (Shotgun) C.Whitehurst pass incomplete deep right to N.Washington [P.Kruger].,10,4,0,TEN 20,0,TEN,
+23,4394,1,00:24,"(:24) (No Huddle, Shotgun) C.Whitehurst sacked at TEN 37 for -6 yards (K.Williams).",10,4,17,TEN 43,0,TEN,
+23,4453,3,00:10,(:10) (Shotgun) C.Whitehurst pass deep right to K.Wright to CLE 47 for 16 yards (K.Williams).,16,4,33,TEN 37,0,TEN,
+23,4430,2,00:19,(:19) C.Whitehurst pass incomplete deep middle to K.Wright (T.Gipson).,16,4,17,TEN 37,0,TEN,
+23,4477,0,00:00,END GAME,0,4,33,,0,,
+23,4340,3,00:53,(:53) (Shotgun) C.Whitehurst pass short right to N.Washington to TEN 33 for 13 yards (J.Haden).,10,4,13,TEN 20,0,TEN,
+1,202,4,12:02,"(12:02) (Punt formation) B.Kern punts 54 yards to CLE 6, Center-B.Brinkley. J.Poyer ran ob at CLE 7 for 1 yard.",5,1,26,TEN 40,0,TEN,PUNT
+1,155,3,12:54,"(12:54) (Shotgun) PENALTY on TEN-C.Warmack, False Start, 5 yards, enforced at TEN 28 - No Play.",17,1,9,TEN 28,0,TEN,PENALTY
+1,57,1,14:55,(14:55) J.Locker pass short right to D.Walker to TEN 35 for 21 yards (T.Gipson; D.Whitner).,10,1,21,TEN 14,0,TEN,
+1,178,3,12:40,(12:40) (Shotgun) J.Locker pass deep right to N.Washington to TEN 40 for 17 yards (B.Skrine).,22,1,26,TEN 23,0,TEN,
+1,35,0,15:00,B.Cundiff kicks 71 yards from CLE 35 to TEN -6. L.Washington to TEN 14 for 20 yards (C.Kirksey).,0,1,0,CLE 35,0,CLE,KICKOFF
+1,134,2,13:31,(13:31) (Shotgun) B.Sankey left tackle to TEN 28 for no gain (P.Kruger).,17,1,14,TEN 28,0,TEN,
+1,102,2,13:51,"(13:51) S.Greene right tackle to TEN 39 for 3 yards (D.Whitner). PENALTY on TEN-D.Walker, Offensive Holding, 10 yards, enforced at TEN 38.",9,1,14,TEN 36,0,TEN,PENALTY
+1,81,1,14:28,(14:28) (Shotgun) B.Sankey up the middle to TEN 36 for 1 yard (K.Williams).,10,1,22,TEN 35,0,TEN,
+3,458,3,06:13,"(6:13) (Shotgun) J.Locker pass incomplete deep right to J.Hunter. PENALTY on CLE-J.Haden, Defensive Pass Interference, 29 yards, enforced at CLE 47 - No Play.",9,1,40,CLE 47,0,TEN,PENALTY
+3,557,0,04:46,"R.Succop extra point is GOOD, Center-B.Brinkley, Holder-B.Kern.",0,1,58,CLE 2,1,TEN,XP
+3,413,1,07:34,(7:34) (Shotgun) J.Locker pass short left to K.Wright to CLE 47 for 1 yard (A.Bryant).,10,1,11,CLE 48,0,TEN,
+3,536,3,04:52,"(4:52) (Shotgun) J.Locker pass short right to K.Wright for 11 yards, TOUCHDOWN.",3,1,58,CLE 11,1,TEN,TD
+3,437,2,06:56,(6:56) S.Greene right guard to CLE 47 for no gain (B.Winn).,9,1,11,CLE 47,0,TEN,
+3,389,2,07:58,(7:58) J.Locker scrambles right tackle to CLE 48 for 12 yards (B.Winn). TEN-T.Lewan was injured during the play. His return is Questionable.,12,1,10,TEN 40,0,TEN,
+3,365,1,08:37,(8:37) (Shotgun) J.Locker pass short right to D.McCluster to TEN 40 for -2 yards (P.Taylor).,10,1,-2,TEN 42,0,TEN,
+3,515,2,05:29,(5:29) S.Greene left end to CLE 11 for no gain (J.Haden).,3,1,47,CLE 11,0,TEN,
+3,491,1,06:04,(6:04) (Shotgun) J.Locker pass short left to N.Washington pushed ob at CLE 11 for 7 yards (B.Skrine).,10,1,47,CLE 18,0,TEN,
+2,339,4,08:49,"(8:49) (Punt formation) S.Lanning punts 44 yards to TEN 37, Center-C.Yount. D.McCluster to TEN 42 for 5 yards (J.Poyer).",11,1,12,CLE 19,0,CLE,PUNT
+2,228,1,11:53,(11:53) (Shotgun) B.Hoyer pass short left to B.Tate to CLE 5 for -2 yards (K.Wimbley).,10,1,-2,CLE 7,0,CLE,
+2,278,1,10:44,(10:44) B.Tate left guard to CLE 26 for 6 yards (D.Morgan).,10,1,19,CLE 20,0,CLE,
+2,320,3,09:27,(9:27) (Shotgun) B.Hoyer sacked at CLE 19 for -7 yards (M.Griffin).,4,1,12,CLE 26,0,CLE,
+2,299,2,10:09,(10:09) I.Crowell right tackle to CLE 26 for no gain (R.Pitoitua).,4,1,19,CLE 26,0,CLE,
+2,252,2,11:17,(11:17) B.Tate left guard pushed ob at CLE 20 for 15 yards (B.Pollard).,12,1,13,CLE 5,0,CLE,
+5,832,3,14:54,"(14:54) (Shotgun) J.Locker pass incomplete short right to D.Walker (K.Dansby). PENALTY on CLE-P.Kruger, Defensive Offside, 5 yards, enforced at CLE 16 - No Play.",7,2,69,CLE 16,0,TEN,PENALTY
+5,752,1,01:04,(1:04) (Shotgun) B.Sankey left tackle to CLE 19 for 11 yards (T.Gipson).,10,1,61,CLE 30,0,TEN,
+5,794,0,,END QUARTER 1,0,1,64,,0,,
+5,895,0,14:41,"R.Succop extra point is GOOD, Center-B.Brinkley, Holder-B.Kern. PENALTY on TEN-T.Lewan, Unnecessary Roughness, 15 yards, enforced between downs.",0,2,80,CLE 2,1,TEN,XP
+5,773,1,00:25,(:25) S.Greene up the middle to CLE 16 for 3 yards (B.Winn; K.Dansby).,10,1,64,CLE 19,0,TEN,
+5,865,3,14:49,"(14:49) (Shotgun) J.Locker scrambles left guard for 11 yards, TOUCHDOWN. Penalty on CLE-C.Kirksey, Personal Foul, offsetting. Penalty on TEN-M.Oher, Unnecessary Roughness, offsetting.",2,2,80,CLE 11,1,TEN,TD
+5,710,1,02:19,(2:19) D.McCluster right guard to CLE 34 for 8 yards (B.Mingo).,10,1,46,CLE 42,0,TEN,
+5,731,2,01:39,(1:39) S.Greene left guard to CLE 30 for 4 yards (B.Winn).,2,1,50,CLE 34,0,TEN,
+5,689,1,03:00,(3:00) K.Wright left end to CLE 42 for 38 yards (K.Dansby).,10,1,38,TEN 20,0,TEN,
+5,810,2,15:00,(15:00) (Shotgun) J.Locker pass incomplete deep right to D.McCluster.,7,2,64,CLE 16,0,TEN,
+4,573,0,04:46,R.Succop kicks 63 yards from TEN 35 to CLE 2. M.Moore to CLE 29 for 27 yards (A.Williamson).,0,1,0,TEN 35,0,TEN,KICKOFF
+4,616,2,04:05,(4:05) B.Hoyer pass incomplete deep middle to T.Gabriel (J.McCourty) [J.Casey].,5,1,5,CLE 34,0,CLE,
+4,663,4,03:12,"(3:12) (Punt formation) S.Lanning punts 48 yards to TEN 14, Center-C.Yount. D.McCluster to TEN 20 for 6 yards (C.Yount).",1,1,9,CLE 38,0,CLE,PUNT
+4,595,1,04:38,(4:38) B.Tate left guard to CLE 34 for 5 yards (D.Morgan).,10,1,5,CLE 29,0,CLE,
+4,638,3,03:57,(3:57) (Shotgun) B.Hoyer pass short middle to T.Benjamin to CLE 38 for 4 yards (C.Sensabaugh).,5,1,9,CLE 34,0,CLE,
+7,1278,1,09:35,"(9:35) J.Locker scrambles left tackle to TEN 36 for 4 yards (A.Rubin). PENALTY on CLE-B.Skrine, Defensive Holding, 5 yards, enforced at TEN 36.",10,2,34,TEN 32,0,TEN,PENALTY
+7,1235,0,10:05,"B.Cundiff kicks 65 yards from CLE 35 to end zone, Touchback.",0,2,0,CLE 35,0,CLE,KICKOFF
+7,1350,3,07:45,(7:45) (Shotgun) J.Locker scrambles up the middle to CLE 46 for 7 yards (D.Whitner).,4,2,34,TEN 47,0,TEN,
+7,1595,2,03:49,"(3:49) (Shotgun) C.Whitehurst pass short right to K.Wright for 11 yards, TOUCHDOWN.",10,2,80,CLE 11,1,TEN,TD
+7,1310,1,09:11,(9:11) J.Locker sacked at TEN 40 for -1 yards (J.Sheard).,10,2,20,TEN 41,0,TEN,
+7,1616,0,03:43,"R.Succop extra point is GOOD, Center-B.Brinkley, Holder-B.Kern.",0,2,80,CLE 2,1,TEN,XP
+7,1329,2,08:28,(8:28) S.Greene right tackle to TEN 47 for 7 yards (A.Rubin; K.Dansby).,11,2,27,TEN 40,0,TEN,
+7,1409,1,06:24,(6:24) J.Locker pass incomplete short left to S.Greene (J.Sheard).,10,2,44,CLE 36,0,TEN,
+7,1431,2,06:17,(6:17) (Shotgun) J.Locker pass incomplete short right to J.Hunter.,10,2,44,CLE 36,0,TEN,
+7,1371,0,07:03,Timeout #1 by TEN at 07:03.,0,2,34,,0,,TIMEOUT
+7,1569,1,03:59,(3:59) C.Whitehurst pass incomplete short right to S.Greene.,10,2,69,CLE 11,0,TEN,
+7,1254,1,10:05,(10:05) (Shotgun) J.Locker pass short left to J.Hunter pushed ob at TEN 32 for 12 yards (B.Skrine).,10,2,12,TEN 20,0,TEN,
+7,1552,0,03:59,Timeout #2 by TEN at 03:59.,0,2,69,,0,,TIMEOUT
+7,1388,1,07:03,(7:03) S.Greene up the middle to CLE 36 for 10 yards (K.Dansby; B.Mingo).,10,2,44,CLE 46,0,TEN,
+7,1477,1,05:25,(5:25) S.Greene right guard to CLE 23 for 1 yard (J.Sheard).,10,2,57,CLE 24,0,TEN,
+7,1453,3,06:11,(6:11) (Shotgun) J.Locker pass short left to J.Hunter to CLE 24 for 12 yards (A.Bryant; C.Kirksey).,10,2,56,CLE 36,0,TEN,
+7,1498,2,04:47,(4:47) (Shotgun) D.McCluster right end to CLE 21 for 2 yards (K.Dansby).,9,2,59,CLE 23,0,TEN,
+7,1519,3,04:04,"(4:04) (Shotgun) J.Locker pass incomplete short left to D.Walker. TEN-J.Locker was injured during the play. His return is Questionable.  PENALTY on CLE-B.Skrine, Roughing the Passer, 10 yards, enforced at CLE 21 - No Play. Penalty on CLE-J.Haden, Defensive Holding, declined.",7,2,69,CLE 21,0,TEN,PENALTY
+6,976,2,13:50,(13:50) (Shotgun) B.Hoyer pass deep middle to J.Cameron to CLE 31 for 19 yards (M.Griffin).,12,2,17,CLE 12,0,CLE,
+6,1174,0,10:49,Timeout #1 by CLE at 10:49.,0,2,65,,0,,TIMEOUT
+6,1021,2,12:55,(12:55) (No Huddle) T.West up the middle to CLE 46 for 6 yards (K.Klug).,1,2,32,CLE 40,0,CLE,
+6,1042,1,12:32,(12:32) (No Huddle) B.Tate left tackle to CLE 49 for 3 yards (M.Griffin; D.Morgan).,10,2,35,CLE 46,0,CLE,
+6,1086,3,12:04,(12:04) (Shotgun) B.Hoyer pass short right to A.Hawkins ran ob at TEN 40 for 11 yards.,7,2,46,CLE 49,0,CLE,
+6,1131,1,11:14,(11:14) (No Huddle) B.Tate up the middle to TEN 21 for 6 yards (S.Phillips).,10,2,65,TEN 27,0,CLE,
+6,1215,4,10:10,"(10:10) (Field Goal formation) B.Cundiff 38 yard field goal is GOOD, Center-C.Yount, Holder-S.Lanning.",3,2,66,TEN 20,1,CLE,FG
+6,955,1,14:32,(14:32) T.West right guard to CLE 12 for -2 yards (A.Woods).,10,2,-2,CLE 14,0,CLE,
+6,1064,2,12:11,(12:11) (No Huddle) B.Hoyer pass incomplete short middle to J.Dray (D.Morgan).,7,2,35,CLE 49,0,CLE,
+6,1152,2,10:54,(10:54) (No Huddle) B.Hoyer pass incomplete short right to R.Agnew (S.Phillips).,4,2,65,TEN 21,0,CLE,
+6,1110,1,11:36,(11:36) B.Tate up the middle to TEN 27 for 13 yards (J.McCourty).,10,2,59,TEN 40,0,CLE,
+6,1191,3,10:49,(10:49) (Shotgun) B.Hoyer pass short left to J.Cameron to TEN 20 for 1 yard (G.Wilson).,4,2,66,TEN 21,0,CLE,
+6,922,0,14:41,"R.Succop kicks 74 yards from TEN 20 to CLE 6. M.Moore to CLE 31 for 25 yards (C.Sensabaugh; A.Ayers). PENALTY on CLE-J.Bademosi, Offensive Holding, 10 yards, enforced at CLE 24.",0,2,0,TEN 20,0,TEN,KICKOFF
+6,1000,1,13:16,(13:16) T.West left tackle to CLE 40 for 9 yards (C.Sensabaugh; B.Pollard).,10,2,26,CLE 31,0,CLE,
+9,1763,0,02:44,"R.Succop extra point is GOOD, Center-B.Brinkley, Holder-B.Kern.",0,2,75,CLE 2,1,TEN,XP
+9,1742,1,02:55,"(2:55) C.Whitehurst pass deep right to J.Hunter for 75 yards, TOUCHDOWN.",10,2,75,TEN 25,1,TEN,TD
+8,1632,0,03:43,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback.",0,2,0,TEN 35,0,TEN,KICKOFF
+8,1651,1,03:43,(3:43) B.Tate right end pushed ob at CLE 25 for 5 yards (J.McCourty).,10,2,5,CLE 20,0,CLE,
+8,1694,3,03:11,(3:11) (Shotgun) B.Hoyer pass incomplete short left to J.Cameron (A.Williamson).,5,2,5,CLE 25,0,CLE,
+8,1672,2,03:17,(3:17) B.Hoyer pass incomplete deep left to A.Hawkins.,5,2,5,CLE 25,0,CLE,
+8,1716,4,03:06,"(3:06) (Punt formation) S.Lanning punts 55 yards to TEN 20, Center-C.Yount. D.McCluster to TEN 25 for 5 yards (J.Bademosi).",5,2,5,CLE 25,0,CLE,PUNT
+11,2104,1,00:12,(:12) C.Whitehurst kneels to TEN 19 for -1 yards.,10,2,-1,TEN 20,0,TEN,
+11,2125,0,,END QUARTER 2,0,2,-1,,0,,
+11,2085,0,00:12,"B.Cundiff kicks 65 yards from CLE 35 to end zone, Touchback.",0,2,0,CLE 35,0,CLE,KICKOFF
+10,2044,2,00:16,"(:16) B.Hoyer pass short left to J.Dray for 1 yard, TOUCHDOWN.",1,2,90,TEN 1,1,CLE,TD
+10,1817,1,02:38,(2:38) B.Hoyer pass deep right to T.Benjamin ran ob at CLE 31 for 21 yards [K.Wimbley].,10,2,21,CLE 10,0,CLE,
+10,1867,2,02:03,(2:03) (No Huddle) B.Hoyer pass short left to R.Agnew pushed ob at CLE 44 for 12 yards (M.Griffin).,9,2,34,CLE 32,0,CLE,
+10,1964,2,01:25,"(1:25) (No Huddle, Shotgun) B.Tate up the middle to TEN 14 for 5 yards (S.Hill).",4,2,76,TEN 19,0,CLE,
+10,1943,1,01:48,(1:48) B.Tate left tackle to TEN 19 for 6 yards (C.Sensabaugh).,10,2,71,TEN 25,0,CLE,
+10,1779,0,02:44,"R.Succop kicks 65 yards from TEN 35 to CLE 0. T.Benjamin pushed ob at CLE 24 for 24 yards (A.Ayers). PENALTY on CLE-J.Bademosi, Offensive Holding, 10 yards, enforced at CLE 20.",0,2,0,TEN 35,0,TEN,KICKOFF
+10,1846,1,02:26,(2:26) (No Huddle) I.Crowell right end to CLE 32 for 1 yard (D.Morgan).,10,2,22,CLE 31,0,CLE,
+10,2069,0,00:12,"B.Cundiff extra point is GOOD, Center-C.Yount, Holder-S.Lanning.",0,2,90,TEN 2,1,CLE,XP
+10,1985,1,01:01,"(1:01) (No Huddle, Shotgun) B.Tate up the middle to TEN 1 for 13 yards (A.Williamson).",10,2,89,TEN 14,0,CLE,
+10,2006,1,00:23,(:23) B.Tate left tackle to TEN 1 for no gain (M.Griffin; R.Pitoitua).,1,2,89,TEN 1,0,CLE,
+10,1908,1,01:56,"(1:56) (Shotgun) B.Hoyer pass deep left to M.Austin to TEN 25 for 31 yards (B.Harris; B.Pollard). Penalty on TEN-B.Harris, Defensive Pass Interference, declined.",10,2,65,CLE 44,0,CLE,
+10,2027,0,00:16,Timeout #2 by CLE at 00:16.,0,2,89,,0,,TIMEOUT
+10,1891,0,01:56,Two-Minute Warning,0,2,34,,0,,
+13,2459,3,09:12,(9:12) (Shotgun) C.Whitehurst pass short right to C.Coffman to 50 for 9 yards (K.Williams).,14,3,39,TEN 41,0,TEN,
+13,2335,3,11:56,(11:56) (Shotgun) C.Whitehurst pass short left to N.Washington pushed ob at TEN 33 for 20 yards (T.Gipson).,8,3,22,TEN 13,0,TEN,
+13,2292,1,12:51,(12:51) (Shotgun) C.Whitehurst pass incomplete deep left to N.Washington.,10,3,0,TEN 11,0,TEN,
+13,2314,2,12:43,(12:43) (Shotgun) B.Sankey right end to TEN 13 for 2 yards (J.Haden; A.Bryant).,10,3,2,TEN 11,0,TEN,
+13,2483,4,08:32,"(8:32) (Punt formation) B.Kern punts 37 yards to CLE 13, Center-B.Brinkley. J.Poyer pushed ob at CLE 21 for 8 yards (Q.Groves). Penalty on CLE-C.Robertson, Personal Foul, offsetting, enforced at CLE 20. Penalty on TEN-B.Brinkley, Personal Foul, offsetting.",5,3,39,50,0,TEN,PUNT
+13,2435,2,09:54,(9:54) C.Whitehurst pass short middle to C.Coffman to TEN 41 for 9 yards (K.Dansby; C.Robertson).,23,3,30,TEN 32,0,TEN,
+13,2268,0,12:55,B.Cundiff kicks 65 yards from CLE 35 to TEN 0. L.Washington to TEN 11 for 11 yards (T.Carder).,0,3,0,CLE 35,0,CLE,KICKOFF
+13,2382,2,11:07,"(11:07) (No Huddle, Shotgun) B.Sankey left tackle to TEN 45 for 3 yards (C.Kirksey).",1,3,34,TEN 42,0,TEN,
+13,2403,1,10:35,"(10:35) (No Huddle, Shotgun) B.Sankey up the middle to TEN 47 for 2 yards (A.Rubin). PENALTY on TEN-A.Levitre, Unnecessary Roughness, 15 yards, enforced at TEN 47.",10,3,21,TEN 45,0,TEN,PENALTY
+13,2361,1,11:32,"(11:32) (No Huddle, Shotgun) B.Sankey right guard to TEN 42 for 9 yards (T.Gipson).",10,3,31,TEN 33,0,TEN,
+12,2205,2,13:52,(13:52) T.West right tackle to TEN 24 for -2 yards (R.Pitoitua).,1,3,56,TEN 22,0,CLE,
+12,2226,3,13:05,(13:05) (Shotgun) B.Hoyer pass incomplete short left to A.Hawkins.,3,3,56,TEN 24,0,CLE,
+12,2248,4,13:00,"(13:00) (Field Goal formation) B.Cundiff 42 yard field goal is GOOD, Center-C.Yount, Holder-S.Lanning.",3,3,56,TEN 24,1,CLE,FG
+12,2141,0,15:00,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback.",0,3,0,TEN 35,0,TEN,KICKOFF
+12,2184,1,14:22,(14:22) T.West left end to TEN 22 for 9 yards (M.Griffin).,10,3,58,TEN 31,0,CLE,
+12,2160,1,15:00,(15:00) B.Hoyer pass deep right to T.Gabriel to TEN 31 for 49 yards (J.McCourty).,10,3,49,CLE 20,0,CLE,
+15,2816,3,02:47,"(2:47) PENALTY on TEN-A.Levitre, False Start, 5 yards, enforced at TEN 30 - No Play.",2,3,3,TEN 30,0,TEN,PENALTY
+15,2908,4,01:36,"(1:36) (Punt formation) B.Kern punts 46 yards to CLE 41, Center-B.Brinkley. J.Poyer to CLE 41 for no gain (M.Huff; A.Ayers).",19,3,-9,TEN 13,0,TEN,PUNT
+15,2774,1,04:10,(4:10) S.Greene left tackle to TEN 30 for 8 yards (C.Robertson; B.Mingo).,10,3,8,TEN 22,0,TEN,
+15,2863,4,01:48,"(1:48) (Punt formation) B.Kern punts 39 yards to CLE 35, Center-B.Brinkley. T.Benjamin MUFFS catch, RECOVERED by TEN-M.Huff at CLE 36. M.Huff to CLE 35 for 1 yard (T.Benjamin). PENALTY on TEN-M.Huff, Unsportsmanlike Conduct, 13 yards, enforced at TEN 26 - No Play.",6,3,-9,TEN 26,0,TEN,PENALTY
+15,2839,3,02:27,(2:27) (Shotgun) C.Whitehurst pass short left to K.Wright to TEN 26 for 1 yard (A.Bryant).,7,3,4,TEN 25,0,TEN,
+15,2795,2,03:31,(3:31) D.McCluster right end to TEN 30 for no gain (A.Bryant; D.Bryant).,2,3,8,TEN 30,0,TEN,
+14,2620,2,07:01,(7:01) I.Crowell left guard to TEN 44 for 11 yards (J.McCourty; W.Woodyard).,4,3,36,CLE 45,0,CLE,
+14,2553,2,08:14,(8:14) B.Hoyer pass incomplete deep middle to J.Cameron (B.Pollard).,10,3,0,CLE 20,0,CLE,
+14,2641,1,06:31,(6:31) I.Crowell right guard to TEN 43 for 1 yard (A.Williamson; S.Phillips).,10,3,37,TEN 44,0,CLE,
+14,2707,2,04:57,(4:57) (No Huddle) B.Tate left guard to TEN 22 for 2 yards (M.Griffin).,5,3,58,TEN 24,0,CLE,
+14,2575,3,08:08,(8:08) (Shotgun) B.Hoyer pass deep middle to T.Gabriel to CLE 39 for 19 yards (B.Harris).,10,3,19,CLE 20,0,CLE,
+14,2599,1,07:35,(7:35) (No Huddle) B.Tate left tackle to CLE 45 for 6 yards (M.Griffin).,10,3,25,CLE 39,0,CLE,
+14,2729,3,04:18,(4:18) (Shotgun) B.Hoyer pass incomplete short middle to J.Cameron (A.Williamson).,3,3,58,TEN 22,0,CLE,
+14,2662,2,05:55,(5:55) B.Hoyer pass short middle to J.Dray to TEN 29 for 14 yards (A.Williamson).,9,3,51,TEN 43,0,CLE,
+14,2519,1,08:21,(8:21) B.Hoyer pass incomplete deep right to M.Austin.,10,3,0,CLE 20,0,CLE,
+14,2751,4,04:14,(4:14) (Shotgun) B.Hoyer pass incomplete short right to A.Hawkins (C.Sensabaugh).,3,3,58,TEN 22,0,CLE,
+14,2686,1,05:21,(5:21) I.Crowell left tackle to TEN 24 for 5 yards (M.Griffin).,10,3,56,TEN 29,0,CLE,
+17,3243,2,12:07,(12:07) S.Greene right guard to TEN 5 for 1 yard (P.Kruger).,10,4,1,TEN 4,0,TEN,
+17,3288,4,11:08,"(11:08) (Punt formation) B.Kern punt is BLOCKED by T.Carder, Center-B.Brinkley, ball out of bounds in End Zone, SAFETY.",2,4,8,TEN 12,1,TEN,SAF
+17,3264,3,11:27,(11:27) (Shotgun) C.Whitehurst pass short left to K.Wright pushed ob at TEN 12 for 7 yards (K.Williams).,9,4,8,TEN 5,0,TEN,
+17,3222,1,12:48,(12:48) S.Greene left guard to TEN 4 for no gain (K.Dansby).,10,4,0,TEN 4,0,TEN,
+16,3092,2,13:57,(13:57) T.West left tackle to TEN 11 for 3 yards (W.Woodyard).,2,4,48,TEN 14,0,CLE,
+16,2960,2,00:57,(:57) B.Hoyer pass short left to A.Hawkins to TEN 49 for 9 yards (C.Sensabaugh).,9,3,10,CLE 42,0,CLE,
+16,3134,2,13:06,(13:06) B.Hoyer pass incomplete short right to A.Hawkins.,3,4,55,TEN 4,0,CLE,
+16,3026,0,,END QUARTER 3,0,3,24,,0,,
+16,2934,1,01:25,(1:25) B.Tate right end pushed ob at CLE 42 for 1 yard (Z.Gooden).,10,3,1,CLE 41,0,CLE,
+16,3113,1,13:31,(13:31) (No Huddle) B.Tate left tackle to TEN 4 for 7 yards (A.Woods). TEN-C.Sensabaugh was injured during the play.,10,4,55,TEN 11,0,CLE,
+16,2984,1,00:33,(:33) B.Tate left tackle to TEN 38 for 11 yards (C.Sensabaugh).,10,3,21,TEN 49,0,CLE,
+16,3005,1,00:10,(:10) (No Huddle) B.Tate right end to TEN 35 for 3 yards (M.Griffin).,10,3,24,TEN 38,0,CLE,
+16,3071,1,14:29,(14:29) T.West right tackle to TEN 14 for 8 yards (Z.Gooden).,10,4,45,TEN 22,0,CLE,
+16,3199,4,12:54,(12:54) (Shotgun) B.Hoyer pass incomplete short middle to J.Cameron (S.Hill).,3,4,55,TEN 4,0,CLE,
+16,3182,0,12:54,Timeout #1 by CLE at 12:54.,0,4,55,,0,,TIMEOUT
+16,3042,2,15:00,(15:00) (Shotgun) B.Hoyer pass short right to J.Cameron pushed ob at TEN 22 for 13 yards (J.McCourty).,7,4,37,TEN 35,0,CLE,
+16,3160,3,13:02,(13:02) (Shotgun) B.Hoyer pass incomplete short right to T.Gabriel.,3,4,55,TEN 4,0,CLE,
+19,3715,0,06:43,Timeout #1 by TEN at 06:43.,0,4,0,,0,,TIMEOUT
+19,3775,4,05:25,"(5:25) (Punt formation) B.Kern punts 51 yards to CLE 27, Center-B.Brinkley. J.Poyer to CLE 33 for 6 yards (Q.Groves).",8,4,2,TEN 22,0,TEN,PUNT
+19,3751,3,06:00,(6:00) (Shotgun) C.Whitehurst pass short left to L.Washington to TEN 22 for 7 yards (C.Kirksey).,15,4,2,TEN 15,0,TEN,
+19,3693,1,06:49,(6:49) (Shotgun) C.Whitehurst pass incomplete short right to K.Wright.,10,4,0,TEN 20,0,TEN,
+19,3732,2,06:43,(6:43) (Shotgun) C.Whitehurst sacked at TEN 15 for -5 yards (A.Bryant).,10,4,-5,TEN 20,0,TEN,
+19,3674,0,06:49,"B.Cundiff kicks 65 yards from CLE 35 to end zone, Touchback.",0,4,0,CLE 35,0,CLE,KICKOFF
+18,3544,2,07:58,(7:58) (No Huddle) B.Hoyer pass short right to A.Hawkins to TEN 31 for 7 yards (B.Harris).,8,4,67,TEN 38,0,CLE,
+18,3611,2,07:07,(7:07) (No Huddle) B.Hoyer pass short left to J.Dray pushed ob at TEN 17 for 10 yards (M.Griffin).,8,4,50,TEN 27,0,CLE,
+18,3378,1,10:30,(10:30) I.Crowell right end to 50 for 1 yard (R.Pitoitua; M.Griffin).,10,4,17,CLE 49,0,CLE,
+18,3399,2,10:03,"(10:03) B.Hoyer pass incomplete short left to A.Hawkins (B.Harris). Penalty on TEN-B.Harris, Defensive Pass Interference, offsetting, enforced at 50 - No Play. Penalty on CLE-J.Cameron, Offensive Holding, offsetting.",9,4,17,50,0,CLE,
+18,3501,3,09:04,(9:04) B.Hoyer up the middle to TEN 40 for 2 yards (A.Woods).,1,4,27,TEN 42,0,CLE,
+18,3432,2,09:57,"(9:57) (Shotgun) B.Hoyer pass short left intended for M.Austin INTERCEPTED by J.McCourty at TEN 40. J.McCourty to CLE 1 for 59 yards (I.Crowell). Penalty on TEN-B.Harris, Illegal Contact, offsetting, enforced at 50 - No Play. Penalty on CLE-J.Thomas, Unnecessary Roughness, offsetting. Penalty on TEN-D.Morgan, Disqualification, offsetting.",9,4,67,50,0,CLE,
+18,3635,1,06:57,"(6:57) (No Huddle) B.Hoyer pass deep middle to T.Benjamin for 17 yards, TOUCHDOWN.",10,4,67,TEN 17,1,CLE,TD
+18,3469,2,09:40,(9:40) (No Huddle) B.Tate right end to TEN 42 for 8 yards (J.McCourty).,9,4,67,50,0,CLE,
+18,3354,1,10:56,(10:56) (Shotgun) B.Hoyer pass deep left to T.Gabriel pushed ob at CLE 49 for 21 yards (B.Pollard).,15,4,16,CLE 28,0,CLE,
+18,3331,1,10:56,"(10:56) (Shotgun) PENALTY on CLE-J.Bitonio, False Start, 5 yards, enforced at CLE 33 - No Play.",10,4,-5,CLE 33,0,CLE,PENALTY
+18,3522,1,08:39,(8:39) (No Huddle) B.Tate left guard to TEN 38 for 2 yards (M.Griffin; S.Phillips).,10,4,67,TEN 40,0,CLE,
+18,3309,0,11:02,B.Kern kicks 61 yards from TEN 20 to CLE 19. J.Poyer to CLE 33 for 14 yards (A.Williamson).,0,4,0,TEN 20,0,TEN,KICKOFF
+18,3589,1,07:29,(7:29) (No Huddle) B.Tate right tackle to TEN 27 for 2 yards (A.Woods).,10,4,40,TEN 29,0,CLE,
+18,3656,0,06:49,"B.Cundiff extra point is GOOD, Center-C.Yount, Holder-S.Lanning.",0,4,67,TEN 2,1,CLE,XP
+18,3568,3,07:58,(7:58) (No Huddle) B.Tate up the middle to TEN 29 for 2 yards (A.Williamson).,1,4,38,TEN 31,0,CLE,

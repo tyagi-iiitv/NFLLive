@@ -1,156 +1,156 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1621,2,01:23,,4,2,46,PIT 8,0,TEN,
-9,1475,3,04:56,,1,2,23,PIT 26,0,TEN,
-9,1600,1,02:00,,10,2,41,PIT 14,0,TEN,
-9,1659,0,00:44,,0,2,49,PIT 2,1,TEN,XP
-9,1517,1,03:40,,10,2,24,PIT 25,0,TEN,
-9,1538,2,03:02,,10,2,32,PIT 25,0,TEN,
-9,1433,1,06:15,,10,2,19,PIT 35,0,TEN,
-9,1454,2,05:36,,5,2,23,PIT 30,0,TEN,
-9,1380,2,07:03,,6,2,9,PIT 45,0,TEN,PENALTY
-9,1319,1,07:32,,10,2,4,PIT 49,0,TEN,
-9,1496,4,04:15,,1,2,24,PIT 26,0,TEN,
-9,1412,2,06:47,,1,2,14,PIT 40,0,TEN,
-9,1642,1,00:48,,3,2,49,PIT 3,1,TEN,TD
-9,1583,0,02:00,,0,2,35,,0,,
-9,1562,3,02:21,,2,2,35,PIT 17,0,TEN,
-10,1675,0,00:44,,0,2,0,TEN 35,0,TEN,KICKOFF
-10,1718,0,,,0,2,-5,,0,,
-10,1694,1,00:44,,10,2,-5,PIT 20,0,PIT,
-20,3294,2,04:47,,8,4,3,PIT 15,0,TEN,
-20,3353,4,03:57,,2,4,8,PIT 9,1,TEN,FG
-20,3277,0,04:47,,0,4,2,,0,,TIMEOUT
-20,3332,3,04:41,,7,4,8,PIT 14,0,TEN,
-20,3256,1,04:53,,10,4,2,PIT 17,0,TEN,
-20,3315,0,04:41,,0,4,3,,0,,TIMEOUT
-6,1083,2,10:39,,16,2,35,PIT 36,0,PIT,
-6,1128,4,09:26,,13,2,35,PIT 39,0,PIT,PUNT
-6,1051,1,11:20,,10,2,35,PIT 42,0,PIT,FUMBLE
-6,1104,3,10:01,,11,2,35,PIT 41,0,PIT,
-6,981,2,12:47,,8,2,15,PIT 19,0,PIT,
-6,936,1,14:11,,10,2,13,PIT 4,0,PIT,
-6,1027,1,12:03,,10,2,38,PIT 31,0,PIT,
-6,960,1,13:31,,10,2,15,PIT 17,0,PIT,
-6,1003,3,12:44,,8,2,27,PIT 19,0,PIT,
-18,2966,1,09:18,,10,4,38,TEN 47,0,TEN,
-18,2889,3,11:04,,1,4,11,TEN 21,0,TEN,
-18,3044,1,08:01,,10,4,53,PIT 18,0,TEN,PENALTY
-18,2840,1,12:20,,10,4,-1,TEN 12,0,TEN,
-18,2990,2,08:48,,7,4,46,TEN 50,0,TEN,
-18,3097,3,06:59,,25,4,62,PIT 33,0,TEN,
-18,2945,1,09:57,,10,4,35,TEN 36,0,TEN,
-18,2861,2,11:42,,11,4,9,TEN 11,0,TEN,
-18,3076,2,07:38,,27,4,55,PIT 35,0,TEN,
-18,3121,4,06:06,,18,4,62,PIT 26,1,TEN,FG
-18,3011,1,08:08,,10,4,70,PIT 42,0,TEN,PENALTY
-18,2914,1,10:26,,10,4,24,TEN 23,0,TEN,
-1,36,0,15:00,,0,1,0,PIT 35,1,PIT,SAF
-5,896,3,15:00,,18,2,-5,TEN 38,0,TEN,
-5,861,2,00:09,,10,1,-8,TEN 46,0,TEN,
-5,835,1,00:13,,10,1,0,TEN 46,0,TEN,
-5,917,4,14:21,,15,2,-5,TEN 41,0,TEN,PUNT
-5,880,0,,,0,1,-8,,0,,
-13,1979,1,12:24,,10,3,4,PIT 9,0,PIT,
-13,2040,4,10:33,,11,3,-1,PIT 8,0,PIT,PUNT
-13,2000,2,11:46,,6,3,7,PIT 13,0,PIT,
-13,2021,3,11:02,,3,3,-1,PIT 16,0,PIT,
-21,3453,1,03:04,,10,4,71,TEN 27,0,PIT,
-21,3372,0,03:53,,0,4,0,TEN 35,0,TEN,KICKOFF
-21,3603,3,01:55,,4,4,71,TEN 4,0,PIT,
-21,3581,2,01:59,,4,4,71,TEN 4,0,PIT,
-21,3525,0,02:02,,0,4,71,,0,,TIMEOUT
-21,3477,1,02:34,,10,4,64,TEN 17,0,PIT,
-21,3429,1,03:37,,10,4,71,TEN 38,0,PIT,
-21,3542,1,02:02,,4,4,71,TEN 4,0,PIT,
-21,3564,0,01:59,,0,4,71,,0,,
-21,3394,1,03:48,,10,4,37,PIT 25,0,PIT,PENALTY
-21,3627,4,01:26,,4,4,75,TEN 4,1,PIT,TD
-21,3501,2,02:09,,4,4,71,TEN 11,0,PIT,
-21,3647,0,01:23,,0,4,75,TEN 2,1,PIT,XP
-11,1808,2,14:36,,6,3,8,PIT 24,0,PIT,
-11,1784,1,15:00,,10,3,4,PIT 20,0,PIT,
-11,1769,0,15:00,,0,3,0,TEN 35,0,TEN,KICKOFF
-11,1829,3,13:56,,2,3,8,PIT 28,0,PIT,
-11,1851,4,13:52,,2,3,8,PIT 28,0,PIT,PUNT
-14,2291,3,05:15,,8,3,37,PIT 12,0,TEN,
-14,2144,3,09:07,,15,3,20,TEN 50,0,TEN,FUMBLE
-14,2091,2,10:14,,10,3,37,PIT 45,0,TEN,PENALTY
-14,2123,2,09:52,,19,3,37,TEN 46,0,TEN,
-14,2315,4,04:33,,4,3,37,PIT 8,1,TEN,FG
-14,2245,1,06:38,,10,3,32,PIT 14,0,TEN,
-14,2200,2,07:59,,13,3,17,PIT 28,0,TEN,
-14,2221,3,07:17,,13,3,31,PIT 28,0,TEN,
-14,2065,1,10:21,,10,3,0,PIT 45,0,TEN,
-14,2179,1,08:12,,10,3,37,PIT 25,0,TEN,
-14,2266,2,06:00,,9,3,33,PIT 13,0,TEN,
-8,1293,1,07:39,,10,2,0,PIT 31,0,PIT,INT
-19,3186,2,05:41,,4,4,6,PIT 13,0,PIT,
-19,3140,0,06:01,,0,4,0,TEN 35,0,TEN,KICKOFF
-19,3162,1,05:57,,10,4,6,PIT 7,0,PIT,
-19,3231,4,05:07,,12,4,-2,PIT 5,0,PIT,PUNT
-19,3212,3,05:35,,4,4,-2,PIT 13,0,PIT,
-22,3727,0,,,0,4,-4,,0,,
-22,3706,2,00:40,,11,4,-4,PIT 46,0,TEN,
-22,3685,1,01:22,,10,4,-1,PIT 45,0,TEN,
-22,3663,0,01:23,,0,4,0,PIT 35,0,PIT,KICKOFF
-12,1916,3,12:36,,6,3,4,TEN 35,0,TEN,
-12,1949,4,12:31,,6,3,4,TEN 35,0,TEN,PUNT
-12,1874,1,13:45,,10,3,4,TEN 31,0,TEN,
-12,1895,2,13:14,,6,3,4,TEN 35,0,TEN,
-16,2461,1,03:23,,10,3,14,TEN 28,0,TEN,
-16,2585,1,15:00,,10,4,27,PIT 45,0,TEN,
-16,2482,2,02:38,,10,3,5,TEN 28,0,TEN,
-16,2569,0,,,0,3,27,,0,,
-16,2686,4,14:43,,15,4,22,50,0,TEN,PUNT
-16,2503,3,01:51,,5,3,14,TEN 33,0,TEN,
-16,2548,2,00:34,,5,3,27,TEN 47,0,TEN,
-16,2660,3,14:47,,15,4,22,50,0,TEN,
-16,2634,2,14:52,,15,4,22,50,0,TEN,
-16,2527,1,01:10,,10,3,19,TEN 42,0,TEN,
-16,2611,2,14:53,,10,4,22,PIT 45,0,TEN,PENALTY
-7,1235,3,07:56,,10,2,0,TEN 20,0,TEN,
-7,1257,4,07:49,,10,2,0,TEN 20,0,TEN,PUNT
-7,1179,2,08:45,,3,2,5,TEN 27,0,TEN,
-7,1200,3,08:12,,5,2,0,TEN 25,0,TEN,PENALTY
-7,1153,1,09:16,,10,2,7,TEN 20,0,TEN,
-3,510,1,06:32,,10,1,31,TEN 47,0,TEN,
-3,489,2,07:10,,3,1,27,TEN 42,0,TEN,
-3,684,4,03:35,,14,1,40,PIT 40,0,TEN,PUNT
-3,465,1,07:43,,10,1,22,TEN 35,0,TEN,
-3,555,3,05:48,,6,1,44,PIT 49,0,TEN,
-3,579,1,05:07,,10,1,49,PIT 36,0,TEN,
-3,621,3,03:43,,4,1,40,PIT 30,0,TEN,PENALTY
-3,600,2,04:28,,5,1,50,PIT 31,0,TEN,
-3,433,1,08:16,,10,1,15,TEN 20,0,TEN,
-3,531,2,05:50,,6,1,31,PIT 49,0,TEN,
-3,658,3,03:39,,14,1,40,PIT 40,0,TEN,
-17,2726,2,14:02,,2,4,28,PIT 24,0,PIT,
-17,2793,3,12:35,,5,4,33,PIT 49,0,PIT,
-17,2705,1,14:35,,10,4,8,PIT 16,0,PIT,
-17,2815,4,12:30,,5,4,33,PIT 49,0,PIT,PUNT
-17,2772,2,13:15,,10,4,33,PIT 44,0,PIT,
-17,2750,1,13:20,,10,4,28,PIT 44,0,PIT,
-4,810,4,00:24,,16,1,6,PIT 15,0,PIT,PUNT
-4,791,3,00:50,,15,1,6,PIT 16,0,PIT,
-4,751,1,02:06,,10,1,6,PIT 21,0,PIT,
-4,770,2,01:31,,16,1,7,PIT 15,0,PIT,
-4,703,1,03:28,,10,1,8,PIT 9,0,PIT,
-4,727,2,02:49,,2,1,12,PIT 17,0,PIT,
-2,172,3,14:01,,8,1,13,PIT 43,0,PIT,
-2,355,1,09:52,,10,1,44,TEN 15,0,PIT,
-2,151,2,14:46,,10,1,2,PIT 41,0,PIT,
-2,196,1,13:18,,10,1,14,TEN 46,0,PIT,
-2,331,3,10:36,,8,1,44,TEN 23,0,PIT,
-2,221,2,12:37,,9,1,14,TEN 45,0,PIT,
-2,121,1,14:51,,10,1,14,PIT 41,0,PIT,
-2,400,3,08:22,,1,1,54,TEN 6,0,PIT,FUMBLE
-2,303,2,11:14,,6,1,36,TEN 21,0,PIT,
-2,258,3,12:32,,9,1,34,TEN 45,0,PIT,
-2,376,2,09:09,,10,1,53,TEN 15,0,PIT,
-2,51,0,14:57,,0,1,0,TEN 20,0,TEN,KICKOFF
-2,282,1,11:47,,10,1,38,TEN 25,0,PIT,
-15,2443,4,03:31,,3,3,7,PIT 30,0,PIT,PUNT
-15,2334,0,04:29,,0,3,0,TEN 35,0,TEN,KICKOFF
-15,2380,2,03:41,,3,3,7,PIT 30,0,PIT,
-15,2417,3,03:35,,3,3,7,PIT 30,0,PIT,
-15,2356,1,04:23,,10,3,7,PIT 23,0,PIT,
+20,3332,3,04:41,(4:41) (Shotgun) C.Johnson up the middle to PIT 9 for 5 yards (B.Keisel).,7,4,8,PIT 14,0,TEN,
+20,3256,1,04:53,(4:53) C.Johnson right tackle to PIT 15 for 2 yards (K.Wilson).,10,4,2,PIT 17,0,TEN,
+20,3277,0,04:47,Timeout #1 by PIT at 04:47.,0,4,2,,0,,TIMEOUT
+20,3353,4,03:57,"(3:57) (Field Goal formation) R.Bironas 27 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",2,4,8,PIT 9,1,TEN,FG
+20,3294,2,04:47,(4:47) C.Johnson right tackle to PIT 14 for 1 yard (R.Clark; S.McLendon).,8,4,3,PIT 15,0,TEN,
+20,3315,0,04:41,Timeout #2 by PIT at 04:41.,0,4,3,,0,,TIMEOUT
+21,3603,3,01:55,(1:55) (Shotgun) B.Roethlisberger pass short left to I.Redman to TEN 4 for no gain (Z.Brown).,4,4,71,TEN 4,0,PIT,
+21,3453,1,03:04,"(3:04) (No Huddle, Shotgun) B.Roethlisberger pass short middle to E.Sanders to TEN 17 for 10 yards (J.McCourty).",10,4,71,TEN 27,0,PIT,
+21,3429,1,03:37,"(3:37) (No Huddle, Shotgun) B.Roethlisberger pass short right to J.Cotchery to TEN 27 for 11 yards (C.Sensabaugh).",10,4,71,TEN 38,0,PIT,
+21,3477,1,02:34,"(2:34) (No Huddle, Shotgun) B.Roethlisberger pass short right to E.Sanders to TEN 11 for 6 yards (Z.Brown).",10,4,64,TEN 17,0,PIT,
+21,3394,1,03:48,"(3:48) (Shotgun) B.Roethlisberger pass deep middle to A.Brown to PIT 47 for 22 yards (M.Griffin). PENALTY on TEN-A.Ayers, Face Mask (15 Yards), 15 yards, enforced at PIT 47.",10,4,37,PIT 25,0,PIT,PENALTY
+21,3542,1,02:02,(2:02) (Shotgun) B.Roethlisberger pass incomplete short left to J.Cotchery (A.Verner).,4,4,71,TEN 4,0,PIT,
+21,3581,2,01:59,(1:59) (Shotgun) B.Roethlisberger pass incomplete short middle to I.Redman (Z.Brown).,4,4,71,TEN 4,0,PIT,
+21,3501,2,02:09,"(2:09) (No Huddle, Shotgun) B.Roethlisberger pass short right to I.Redman to TEN 4 for 7 yards (B.Pollard).",4,4,71,TEN 11,0,PIT,
+21,3372,0,03:53,R.Bironas kicks 65 yards from TEN 35 to PIT 0. M.Wheaton to PIT 25 for 25 yards (G.Wilson; T.Thompson).,0,4,0,TEN 35,0,TEN,KICKOFF
+21,3627,4,01:26,"(1:26) (Shotgun) B.Roethlisberger pass short middle to J.Cotchery for 4 yards, TOUCHDOWN.",4,4,75,TEN 4,1,PIT,TD
+21,3564,0,01:59,Two-Minute Warning,0,4,71,,0,,
+21,3525,0,02:02,Timeout #3 by PIT at 02:02.,0,4,71,,0,,TIMEOUT
+21,3647,0,01:23,"S.Suisham extra point is GOOD, Center-G.Warren, Holder-Z.Mesko.",0,4,75,TEN 2,1,PIT,XP
+22,3727,0,,END GAME,0,4,-4,,0,,
+22,3706,2,00:40,(:40) J.Locker kneels to PIT 49 for -3 yards.,11,4,-4,PIT 46,0,TEN,
+22,3685,1,01:22,(1:22) J.Locker kneels to PIT 46 for -1 yards.,10,4,-1,PIT 45,0,TEN,
+22,3663,0,01:23,S.Suisham kicks onside 10 yards from PIT 35 to PIT 45. G.Wilson (didn't try to advance) to PIT 45 for no gain (J.Jones).,0,4,0,PIT 35,0,PIT,KICKOFF
+1,36,0,15:00,"S.Suisham kicks 64 yards from PIT 35 to TEN 1. D.Reynaud tackled in End Zone for -1 yards, SAFETY. The Replay Assistant challenged the runner broke the plane ruling, and the play was Upheld.",0,1,0,PIT 35,1,PIT,SAF
+3,579,1,05:07,(5:07) C.Johnson right tackle to PIT 31 for 5 yards (R.Clark).,10,1,49,PIT 36,0,TEN,
+3,489,2,07:10,(7:10) J.Locker right end to TEN 47 for 5 yards.,3,1,27,TEN 42,0,TEN,
+3,465,1,07:43,"(7:43) (Shotgun) J.Locker pass short middle to D.Walker to TEN 42 for 7 yards (L.Timmons, L.Foote).",10,1,22,TEN 35,0,TEN,
+3,621,3,03:43,"(3:43) (Shotgun) J.Locker pass incomplete short right to D.Walker. Pressure by #56 Woodley.  PENALTY on TEN-D.Walker, Offensive Pass Interference, 10 yards, enforced at PIT 30 - No Play.",4,1,40,PIT 30,0,TEN,PENALTY
+3,555,3,05:48,(5:48) (Shotgun) J.Locker pass short left to D.Williams to PIT 36 for 13 yards (W.Gay).,6,1,44,PIT 49,0,TEN,
+3,531,2,05:50,(5:50) J.Locker pass incomplete deep left to K.Britt [B.Keisel].,6,1,31,PIT 49,0,TEN,
+3,684,4,03:35,"(3:35) (Punt formation) B.Kern punts 31 yards to PIT 9, Center-B.Brinkley, fair catch by A.Brown.",14,1,40,PIT 40,0,TEN,PUNT
+3,510,1,06:32,(6:32) S.Greene right tackle to PIT 49 for 4 yards (S.McLendon; B.Keisel).,10,1,31,TEN 47,0,TEN,
+3,433,1,08:16,(8:16) J.Locker pass short right to K.Britt to TEN 35 for 15 yards (T.Polamalu).,10,1,15,TEN 20,0,TEN,
+3,658,3,03:39,(3:39) (Shotgun) J.Locker pass incomplete short middle to K.Wright. Coverage by #22 Gay.,14,1,40,PIT 40,0,TEN,
+3,600,2,04:28,(4:28) C.Johnson left tackle to PIT 30 for 1 yard (E.Hood).,5,1,50,PIT 31,0,TEN,
+2,151,2,14:46,"(14:46) L.Stephens-Howling right tackle to PIT 43 for 2 yards (M.Fokou, M.Griffin).",10,1,2,PIT 41,0,PIT,
+2,303,2,11:14,"(11:14) #68 Beachum reports as a eligible receiver.  I.Redman left tackle to TEN 23 for -2 yards (Mi.Martin, B.Pollard). PIT-M.Pouncey was injured during the play.",6,1,36,TEN 21,0,PIT,
+2,331,3,10:36,(10:36) (Shotgun) B.Roethlisberger pass short right to J.Cotchery to TEN 15 for 8 yards (C.Sensabaugh) [D.Morgan].,8,1,44,TEN 23,0,PIT,
+2,196,1,13:18,(13:18) #68 Beachum reports as a eligible receiver.  I.Redman up the middle to TEN 45 for 1 yard (R.Pitoitua).,10,1,14,TEN 46,0,PIT,
+2,51,0,14:57,B.Kern kicks 55 yards from TEN 20 to PIT 25. A.Brown to PIT 41 for 16 yards (C.Sensabaugh).,0,1,0,TEN 20,0,TEN,KICKOFF
+2,355,1,09:52,"(9:52) I.Redman left tackle to TEN 15 for no gain (M.Fokou, R.Pitoitua).",10,1,44,TEN 15,0,PIT,
+2,121,1,14:51,(14:51) #68 Beachum reports as eligible receiver. B.Roethlisberger pass incomplete deep right to E.Sanders. Coverage by #30 Mcourty.,10,1,14,PIT 41,0,PIT,
+2,258,3,12:32,(12:32) (Shotgun) B.Roethlisberger pass deep right to A.Brown to TEN 25 for 20 yards (C.Sensabaugh).,9,1,34,TEN 45,0,PIT,
+2,400,3,08:22,"(8:22) I.Redman left guard to TEN 5 for 1 yard. FUMBLES, RECOVERED by TEN-M.Fokou at TEN -5. Touchback.",1,1,54,TEN 6,0,PIT,FUMBLE
+2,282,1,11:47,(11:47) A.Brown left end pushed ob at TEN 21 for 4 yards (B.Pollard).,10,1,38,TEN 25,0,PIT,
+2,172,3,14:01,(14:01) (Shotgun) B.Roethlisberger pass short left to J.Cotchery to TEN 46 for 11 yards (M.Fokou).,8,1,13,PIT 43,0,PIT,
+2,221,2,12:37,(12:37) (Shotgun) B.Roethlisberger pass incomplete short left to E.Sanders. Coverage by #20 Verner.,9,1,14,TEN 45,0,PIT,
+2,376,2,09:09,(9:09) (Shotgun) B.Roethlisberger pass short left to E.Sanders to TEN 6 for 9 yards (Z.Brown).,10,1,53,TEN 15,0,PIT,
+5,861,2,00:09,(:09) (Shotgun) J.Locker sacked at TEN 38 for -8 yards (L.Woodley).,10,1,-8,TEN 46,0,TEN,
+5,917,4,14:21,"(14:21) (Punt formation) B.Kern punts 55 yards to PIT 4, Center-B.Brinkley, downed by TEN-B.Wreh-Wilson.",15,2,-5,TEN 41,0,TEN,PUNT
+5,880,0,,END QUARTER 1,0,1,-8,,0,,
+5,896,3,15:00,"(15:00) (Shotgun) C.Johnson right tackle to TEN 41 for 3 yards (L.Timmons, L.Woodley).",18,2,-5,TEN 38,0,TEN,
+5,835,1,00:13,(:13) J.Locker pass incomplete short right to N.Washington. Pressure by #99 Keisel.,10,1,0,TEN 46,0,TEN,
+4,751,1,02:06,(2:06) B.Roethlisberger sacked at PIT 15 for -6 yards (J.Casey).,10,1,6,PIT 21,0,PIT,
+4,770,2,01:31,(1:31) L.Stephens-Howling right guard to PIT 16 for 1 yard (Z.Brown).,16,1,7,PIT 15,0,PIT,
+4,791,3,00:50,(:50) (Shotgun) B.Roethlisberger sacked at PIT 15 for -1 yards (Z.Brown).,15,1,6,PIT 16,0,PIT,
+4,703,1,03:28,(3:28) B.Roethlisberger pass short right to E.Sanders to PIT 17 for 8 yards (J.McCourty).,10,1,8,PIT 9,0,PIT,
+4,727,2,02:49,(2:49) B.Roethlisberger pass short right to A.Brown to PIT 21 for 4 yards (R.Pitoitua).,2,1,12,PIT 17,0,PIT,
+4,810,4,00:24,"(:24) (Punt formation) Z.Mesko punts 51 yards to TEN 34, Center-G.Warren. D.Reynaud to TEN 46 for 12 yards (S.Thomas).",16,1,6,PIT 15,0,PIT,PUNT
+7,1235,3,07:56,(7:56) (Shotgun) J.Locker pass incomplete short right to K.Wright (W.Gay).,10,2,0,TEN 20,0,TEN,
+7,1257,4,07:49,"(7:49) (Punt formation) B.Kern punts 40 yards to PIT 40, Center-B.Brinkley. A.Brown to PIT 47 for 7 yards (P.Bailey). PENALTY on PIT-J.Worilds, Illegal Block Above the Waist, 10 yards, enforced at PIT 41.",10,2,0,TEN 20,0,TEN,PUNT
+7,1179,2,08:45,(8:45) C.Johnson up the middle to TEN 25 for -2 yards (J.Jones).,3,2,5,TEN 27,0,TEN,
+7,1153,1,09:16,(9:16) C.Johnson right tackle pushed ob at TEN 27 for 7 yards (R.Clark).,10,2,7,TEN 20,0,TEN,
+7,1200,3,08:12,"(8:12) (Shotgun) J.Locker pass short right to N.Washington to TEN 36 for 11 yards (R.Clark). PENALTY on TEN-D.Reynaud, Illegal Shift, 5 yards, enforced at TEN 25 - No Play.",5,2,0,TEN 25,0,TEN,PENALTY
+6,1128,4,09:26,"(9:26) (Punt formation) Z.Mesko punts 46 yards to TEN 15, Center-G.Warren. D.Reynaud to TEN 20 for 5 yards (C.Brown).",13,2,35,PIT 39,0,PIT,PUNT
+6,1051,1,11:20,"(11:20) I.Redman up the middle to PIT 37 for -5 yards. FUMBLES, and recovers at PIT 36. I.Redman to PIT 36 for no gain (M.Fokou).",10,2,35,PIT 42,0,PIT,FUMBLE
+6,1027,1,12:03,(12:03) B.Roethlisberger pass short left to D.Johnson to PIT 42 for 11 yards (B.Pollard).,10,2,38,PIT 31,0,PIT,
+6,960,1,13:31,(13:31) I.Redman right guard to PIT 19 for 2 yards (R.Pitoitua).,10,2,15,PIT 17,0,PIT,
+6,981,2,12:47,(12:47) B.Roethlisberger pass incomplete short middle to A.Brown (D.Morgan).,8,2,15,PIT 19,0,PIT,
+6,1104,3,10:01,(10:01) (Shotgun) B.Roethlisberger pass short right to E.Sanders to PIT 39 for -2 yards (J.McCourty).,11,2,35,PIT 41,0,PIT,
+6,1083,2,10:39,(10:39) L.Stephens-Howling left guard to PIT 41 for 5 yards (A.Verner).,16,2,35,PIT 36,0,PIT,
+6,1003,3,12:44,(12:44) (Shotgun) B.Roethlisberger pass short right to A.Brown to PIT 31 for 12 yards (J.McCourty).,8,2,27,PIT 19,0,PIT,
+6,936,1,14:11,(14:11) B.Roethlisberger pass short left to A.Brown to PIT 17 for 13 yards (A.Verner).,10,2,13,PIT 4,0,PIT,
+9,1621,2,01:23,"(1:23) C.Johnson left guard to PIT 3 for 5 yards (T.Polamalu, S.McLendon).",4,2,46,PIT 8,0,TEN,
+9,1600,1,02:00,"(2:00) C.Johnson right tackle to PIT 8 for 6 yards (R.Clark, C.Allen).",10,2,41,PIT 14,0,TEN,
+9,1433,1,06:15,(6:15) S.Greene right tackle to PIT 30 for 5 yards (B.Keisel).,10,2,19,PIT 35,0,TEN,
+9,1642,1,00:48,"(:48) J.Battle up the middle for 3 yards, TOUCHDOWN.",3,2,49,PIT 3,1,TEN,TD
+9,1583,0,02:00,Two-Minute Warning,0,2,35,,0,,
+9,1319,1,07:32,"(7:32) C.Johnson left tackle to PIT 45 for 4 yards (E.Hood, R.Clark).",10,2,4,PIT 49,0,TEN,
+9,1562,3,02:21,"(2:21) C.Johnson up the middle to PIT 14 for 3 yards (L.Foote, R.Clark).",2,2,35,PIT 17,0,TEN,
+9,1454,2,05:36,"(5:36) S.Greene right guard to PIT 26 for 4 yards (L.Foote, A.Woods).",5,2,23,PIT 30,0,TEN,
+9,1659,0,00:44,"R.Bironas extra point is GOOD, Center-B.Brinkley, Holder-B.Kern.",0,2,49,PIT 2,1,TEN,XP
+9,1496,4,04:15,(4:15) J.Battle up the middle to PIT 25 for 1 yard (B.Keisel).,1,2,24,PIT 26,0,TEN,
+9,1475,3,04:56,(4:56) J.Battle right guard to PIT 26 for no gain (L.Timmons).,1,2,23,PIT 26,0,TEN,
+9,1412,2,06:47,"(6:47) S.Greene right tackle to PIT 35 for 5 yards (C.Allen, L.Foote).",1,2,14,PIT 40,0,TEN,
+9,1380,2,07:03,"(7:03) C.Johnson right tackle to PIT 46 for -1 yards (L.Woodley). PENALTY on PIT-T.Polamalu, Defensive Offside, 5 yards, enforced at PIT 45 - No Play.",6,2,9,PIT 45,0,TEN,PENALTY
+9,1517,1,03:40,"(3:40) C.Johnson right tackle to PIT 25 for no gain (S.McLendon, J.Worilds).",10,2,24,PIT 25,0,TEN,
+9,1538,2,03:02,(3:02) (Shotgun) J.Locker pass short left to D.Walker to PIT 17 for 8 yards (R.Clark).,10,2,32,PIT 25,0,TEN,
+8,1293,1,07:39,"(7:39) B.Roethlisberger pass deep left intended for E.Sanders INTERCEPTED by A.Verner at PIT 49. A.Verner to PIT 49 for no gain (E.Sanders). The Replay Assistant challenged the pass completion ruling, and the play was Upheld.",10,2,0,PIT 31,0,PIT,INT
+11,1829,3,13:56,(13:56) (Shotgun) B.Roethlisberger pass incomplete short left to L.Stephens-Howling. Coverage by #53 Fokou.,2,3,8,PIT 28,0,PIT,
+11,1851,4,13:52,"(13:52) (Punt formation) Z.Mesko punts 41 yards to TEN 31, Center-G.Warren, fair catch by D.Reynaud.",2,3,8,PIT 28,0,PIT,PUNT
+11,1769,0,15:00,"R.Bironas kicks 65 yards from TEN 35 to end zone, Touchback.",0,3,0,TEN 35,0,TEN,KICKOFF
+11,1784,1,15:00,(15:00) (Shotgun) B.Roethlisberger pass short left to L.Stephens-Howling to PIT 24 for 4 yards (B.Pollard).,10,3,4,PIT 20,0,PIT,
+11,1808,2,14:36,(14:36) (Shotgun) L.Stephens-Howling left guard to PIT 28 for 4 yards (D.Morgan).,6,3,8,PIT 24,0,PIT,
+10,1675,0,00:44,"R.Bironas kicks 65 yards from TEN 35 to end zone, Touchback.",0,2,0,TEN 35,0,TEN,KICKOFF
+10,1694,1,00:44,"(:44) (Shotgun) B.Roethlisberger pass short left to L.Stephens-Howling to PIT 25 for 5 yards (M.Griffin, A.Ayers). The Replay Assistant challenged the pass completion ruling, and the play was REVERSED. (Shotgun) B.Roethlisberger sacked at PIT 15 for -5 yards (D.Morgan).",10,2,-5,PIT 20,0,PIT,
+10,1718,0,,END QUARTER 2,0,2,-5,,0,,
+13,2040,4,10:33,"(10:33) (Punt formation) Z.Mesko punts 47 yards to TEN 45, Center-G.Warren. D.Reynaud to PIT 45 for 10 yards (R.Golden, G.Warren).",11,3,-1,PIT 8,0,PIT,PUNT
+13,2000,2,11:46,(11:46) L.Stephens-Howling up the middle to PIT 16 for 3 yards (B.Pollard).,6,3,7,PIT 13,0,PIT,
+13,2021,3,11:02,(11:02) (Shotgun) B.Roethlisberger sacked at PIT 8 for -8 yards (Z.Brown).,3,3,-1,PIT 16,0,PIT,
+13,1979,1,12:24,"(12:24) L.Stephens-Howling right guard to PIT 13 for 4 yards (J.Casey, S.Hill).",10,3,4,PIT 9,0,PIT,
+12,1895,2,13:14,(13:14) C.Johnson right guard to TEN 35 for no gain (L.Woodley).,6,3,4,TEN 35,0,TEN,
+12,1874,1,13:45,"(13:45) C.Johnson left tackle to TEN 35 for 4 yards (I.Taylor, L.Timmons).",10,3,4,TEN 31,0,TEN,
+12,1949,4,12:31,"(12:31) (Punt formation) B.Kern punts 48 yards to PIT 17, Center-B.Brinkley, fair catch by A.Brown. PENALTY on PIT-S.Thomas, Offensive Holding, 8 yards, enforced at PIT 17.",6,3,4,TEN 35,0,TEN,PUNT
+12,1916,3,12:36,"(12:36) (Shotgun) J.Locker pass incomplete short right to N.Washington (W.Gay). Penalty on TEN-C.Johnson, Chop Block, declined.",6,3,4,TEN 35,0,TEN,
+15,2356,1,04:23,(4:23) (Shotgun) B.Roethlisberger pass short right to L.Stephens-Howling to PIT 30 for 7 yards (Z.Brown). PIT-L.Stephens-Howling was injured during the play.,10,3,7,PIT 23,0,PIT,
+15,2443,4,03:31,"(3:31) (Punt formation) Z.Mesko punts 42 yards to TEN 28, Center-G.Warren, out of bounds.",3,3,7,PIT 30,0,PIT,PUNT
+15,2334,0,04:29,R.Bironas kicks 67 yards from TEN 35 to PIT -2. L.Stephens-Howling to PIT 23 for 25 yards (P.Bailey).,0,3,0,TEN 35,0,TEN,KICKOFF
+15,2417,3,03:35,(3:35) (Shotgun) B.Roethlisberger pass incomplete short middle to J.Cotchery. Coverage by #24 Sensabaugh.,3,3,7,PIT 30,0,PIT,
+15,2380,2,03:41,(3:41) (Shotgun) B.Roethlisberger pass incomplete short left to E.Sanders. Coverage by #20 Verner.,3,3,7,PIT 30,0,PIT,
+14,2200,2,07:59,(7:59) C.Johnson right tackle to PIT 28 for no gain (S.McLendon).,13,3,17,PIT 28,0,TEN,
+14,2123,2,09:52,(9:52) C.Johnson up the middle to TEN 50 for 4 yards (J.Worilds; B.Keisel).,19,3,37,TEN 46,0,TEN,
+14,2291,3,05:15,(5:15) (Shotgun) J.Locker pass short right to K.Wright to PIT 8 for 4 yards (S.Thomas).,8,3,37,PIT 12,0,TEN,
+14,2315,4,04:33,"(4:33) (Field Goal formation) R.Bironas 26 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",4,3,37,PIT 8,1,TEN,FG
+14,2221,3,07:17,(7:17) (Shotgun) J.Locker pass short left to N.Washington to PIT 14 for 14 yards (I.Taylor).,13,3,31,PIT 28,0,TEN,
+14,2144,3,09:07,"(9:07) (Shotgun) J.Locker pass deep middle to D.Walker to PIT 25 for 25 yards. FUMBLES, and recovers at PIT 25. D.Walker to PIT 25 for no gain (T.Polamalu).",15,3,20,TEN 50,0,TEN,FUMBLE
+14,2091,2,10:14,"(10:14) C.Johnson left guard to PIT 44 for 1 yard (L.Foote, R.Clark). PENALTY on TEN-K.Britt, Offensive Holding, 10 yards, enforced at PIT 44.",10,3,37,PIT 45,0,TEN,PENALTY
+14,2245,1,06:38,(6:38) C.Johnson left guard to PIT 13 for 1 yard (J.Worilds; R.Clark). PIT-R.Clark was injured during the play.,10,3,32,PIT 14,0,TEN,
+14,2179,1,08:12,(8:12) (No Huddle) J.Locker up the middle to PIT 28 for -3 yards (T.Polamalu).,10,3,37,PIT 25,0,TEN,
+14,2266,2,06:00,(6:00) C.Johnson left guard to PIT 12 for 1 yard (E.Hood; L.Foote).,9,3,33,PIT 13,0,TEN,
+14,2065,1,10:21,(10:21) J.Locker pass incomplete deep right to D.Walker. Coverage by #25 Clark.,10,3,0,PIT 45,0,TEN,
+17,2815,4,12:30,"(12:30) (Punt formation) Z.Mesko punts 43 yards to TEN 8, Center-G.Warren. D.Reynaud to TEN 12 for 4 yards (R.Golden).",5,4,33,PIT 49,0,PIT,PUNT
+17,2726,2,14:02,"(14:02) (No Huddle, Shotgun) B.Roethlisberger pass short left to E.Sanders to PIT 44 for 20 yards (C.Sensabaugh, M.Griffin).",2,4,28,PIT 24,0,PIT,
+17,2705,1,14:35,"(14:35) (Shotgun) I.Redman up the middle to PIT 24 for 8 yards (Z.Brown, M.Fokou).",10,4,8,PIT 16,0,PIT,
+17,2772,2,13:15,"(13:15) (No Huddle) I.Redman up the middle to PIT 49 for 5 yards (D.Morgan, M.Fokou).",10,4,33,PIT 44,0,PIT,
+17,2750,1,13:20,"(13:20) (No Huddle, Shotgun) B.Roethlisberger pass incomplete deep right to J.Cotchery (C.Sensabaugh).",10,4,28,PIT 44,0,PIT,
+17,2793,3,12:35,"(12:35) (No Huddle, Shotgun) B.Roethlisberger pass incomplete deep right to A.Brown (J.McCourty).",5,4,33,PIT 49,0,PIT,
+16,2569,0,,END QUARTER 3,0,3,27,,0,,
+16,2527,1,01:10,"(1:10) J.Battle right guard to TEN 47 for 5 yards (C.Heyward, A.Woods).",10,3,19,TEN 42,0,TEN,
+16,2461,1,03:23,(3:23) J.Battle up the middle to TEN 28 for no gain (E.Hood).,10,3,14,TEN 28,0,TEN,
+16,2611,2,14:53,"(14:53) PENALTY on TEN-J.Battle, False Start, 5 yards, enforced at PIT 45 - No Play.",10,4,22,PIT 45,0,TEN,PENALTY
+16,2634,2,14:52,(14:52) (Shotgun) J.Locker pass incomplete short right to C.Stevens. Coverage by #56 Woodley.,15,4,22,50,0,TEN,
+16,2548,2,00:34,(:34) J.Battle right guard to PIT 45 for 8 yards (W.Gay).,5,3,27,TEN 47,0,TEN,
+16,2482,2,02:38,(2:38) J.Locker scrambles left end to TEN 33 for 5 yards.,10,3,5,TEN 28,0,TEN,
+16,2585,1,15:00,"(15:00) (Shotgun) J.Locker pass incomplete deep right to N.Washington. Coverage by Gay #22, Pressure by #90 McLendon.",10,4,27,PIT 45,0,TEN,
+16,2660,3,14:47,"(14:47) (Shotgun) J.Locker pass incomplete deep right to D.Williams. Coverage by #22 Gay, Pressure by #56 Woodley.",15,4,22,50,0,TEN,
+16,2686,4,14:43,"(14:43) (Punt formation) B.Kern punts 34 yards to PIT 16, Center-B.Brinkley, fair catch by A.Brown.",15,4,22,50,0,TEN,PUNT
+16,2503,3,01:51,(1:51) (Shotgun) J.Locker pass short middle to N.Washington to TEN 42 for 9 yards (I.Taylor).,5,3,14,TEN 33,0,TEN,
+19,3140,0,06:01,R.Bironas kicks 70 yards from TEN 35 to PIT -5. M.Wheaton to PIT 7 for 12 yards (G.Wilson).,0,4,0,TEN 35,0,TEN,KICKOFF
+19,3186,2,05:41,(5:41) (Shotgun) B.Roethlisberger pass incomplete deep right to E.Sanders. Coverage by #30 McCourty.,4,4,6,PIT 13,0,PIT,
+19,3231,4,05:07,"(5:07) (Punt formation) Z.Mesko punts 39 yards to PIT 44, Center-G.Warren. D.Reynaud to PIT 17 for 27 yards (C.Carter).",12,4,-2,PIT 5,0,PIT,PUNT
+19,3162,1,05:57,(5:57) (Shotgun) B.Roethlisberger pass short left to E.Sanders pushed ob at PIT 13 for 6 yards (A.Verner).,10,4,6,PIT 7,0,PIT,
+19,3212,3,05:35,(5:35) (Shotgun) B.Roethlisberger sacked at PIT 5 for -8 yards (J.Casey).,4,4,-2,PIT 13,0,PIT,
+18,2861,2,11:42,(11:42) (Shotgun) J.Locker pass short right to N.Washington to TEN 21 for 10 yards (W.Gay). Official measurement.,11,4,9,TEN 11,0,TEN,
+18,2966,1,09:18,"(9:18) C.Johnson right tackle to TEN 50 for 3 yards (B.Keisel, R.Clark). PIT-R.Clark was injured during the play.",10,4,38,TEN 47,0,TEN,
+18,2914,1,10:26,(10:26) (Shotgun) J.Locker pass short left to N.Washington to TEN 36 for 13 yards (R.Clark) [L.Timmons]. TEN-N.Washington was injured during the play.,10,4,24,TEN 23,0,TEN,
+18,3011,1,08:08,"(8:08) J.Locker pass incomplete deep left to D.Walker. PENALTY on PIT-R.Clark, Defensive Pass Interference, 24 yards, enforced at PIT 42 - No Play.",10,4,70,PIT 42,0,TEN,PENALTY
+18,2990,2,08:48,(8:48) C.Johnson up the middle to PIT 42 for 8 yards (T.Polamalu).,7,4,46,TEN 50,0,TEN,
+18,2889,3,11:04,"(11:04) J.Battle up the middle to TEN 23 for 2 yards (L.Timmons, S.McLendon).",1,4,11,TEN 21,0,TEN,
+18,2840,1,12:20,"(12:20) C.Johnson right guard to TEN 11 for -1 yards (J.Jones, L.Foote).",10,4,-1,TEN 12,0,TEN,
+18,3121,4,06:06,"(6:06) (Field Goal formation) R.Bironas 44 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",18,4,62,PIT 26,1,TEN,FG
+18,3097,3,06:59,(6:59) (Shotgun) J.Locker pass short left to K.Wright to PIT 26 for 7 yards (K.Wilson).,25,4,62,PIT 33,0,TEN,
+18,3076,2,07:38,(7:38) (Shotgun) J.Battle right guard to PIT 33 for 2 yards (R.Clark).,27,4,55,PIT 35,0,TEN,
+18,2945,1,09:57,"(9:57) C.Johnson right end to TEN 47 for 11 yards (R.Clark, L.Foote).",10,4,35,TEN 36,0,TEN,
+18,3044,1,08:01,"(8:01) C.Johnson right guard to PIT 20 for -2 yards (L.Woodley; T.Polamalu). PENALTY on TEN-D.Stewart, Unnecessary Roughness, 15 yards, enforced at PIT 20.",10,4,53,PIT 18,0,TEN,PENALTY

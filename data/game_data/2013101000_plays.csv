@@ -1,161 +1,161 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1703,1,02:55,,10,2,13,CHI 33,0,CHI,
-9,1725,2,02:52,,10,2,28,CHI 33,0,CHI,
-9,1908,2,00:11,,4,2,58,NYG 22,0,CHI,
-9,1891,0,00:11,,0,2,58,,0,,TIMEOUT
-9,1843,1,00:39,,10,2,52,NYG 41,0,CHI,
-9,1867,1,00:16,,10,2,58,NYG 28,0,CHI,
-9,1673,1,03:34,,10,2,13,CHI 20,0,CHI,
-9,1818,3,01:11,,1,2,39,NYG 43,0,CHI,
-9,1749,1,02:06,,10,2,37,CHI 48,0,CHI,
-9,1931,3,00:06,,4,2,58,NYG 22,1,CHI,FG
-9,1793,2,01:59,,1,2,37,NYG 43,0,CHI,
-9,1775,0,01:59,,0,2,37,,0,,
-18,3597,1,04:38,,10,4,14,NYG 25,0,NYG,
-18,3619,2,04:35,,10,4,17,NYG 25,0,NYG,
-18,3774,2,02:02,,9,4,54,CHI 35,0,NYG,INT
-18,3640,3,03:54,,7,4,28,NYG 28,0,NYG,
-18,3712,2,02:57,,10,4,53,CHI 49,0,NYG,
-18,3736,0,02:43,,0,4,53,,0,,Timeout
-18,3753,1,02:37,,10,4,54,CHI 36,0,NYG,
-18,3575,1,05:21,,10,4,14,NYG 11,0,NYG,
-18,3664,1,03:08,,10,4,40,NYG 39,0,NYG,
-18,3690,1,03:02,,10,4,40,CHI 49,0,NYG,
-6,1007,3,13:01,,5,2,19,NYG 25,0,NYG,
-6,1076,2,11:09,,10,2,43,50,0,NYG,
-6,1132,0,10:31,,0,2,0,,0,,Timeout
-6,1031,1,12:21,,10,2,30,NYG 39,0,NYG,
-6,986,2,13:44,,6,2,5,NYG 24,0,NYG,
-6,965,1,14:18,,10,2,4,NYG 20,0,NYG,
-6,950,0,14:18,,0,2,0,CHI 35,0,CHI,KICKOFF
-6,1153,0,10:31,,0,2,80,CHI 2,1,NYG,XP
-6,1055,1,11:49,,10,2,30,50,0,NYG,
-6,1111,1,10:41,,10,2,80,CHI 37,1,NYG,TD
-14,2779,1,02:32,,10,3,56,CHI 35,0,NYG,
-14,2680,1,05:21,,10,3,23,NYG 9,0,NYG,
-14,2822,3,01:40,,7,3,77,CHI 32,0,NYG,
-14,2873,2,00:15,,12,3,90,CHI 16,0,NYG,PENALTY
-14,2933,0,00:06,,0,3,91,CHI 2,1,NYG,XP
-14,2906,1,00:10,,1,3,91,CHI 1,1,NYG,TD
-14,2746,3,03:10,,8,3,56,NYG 34,0,NYG,
-14,2846,1,00:53,,10,3,75,CHI 14,0,NYG,
-14,2801,2,02:26,,10,3,59,CHI 35,0,NYG,
-14,2704,1,04:46,,10,3,26,NYG 32,0,NYG,
-14,2725,2,04:00,,7,3,91,NYG 35,0,NYG,
-7,1229,0,10:31,,0,2,0,NYG 40,0,NYG,KICKOFF
-7,1377,2,07:51,,10,2,59,NYG 26,0,CHI,PENALTY
-7,1325,1,08:39,,10,2,54,NYG 40,0,CHI,
-7,1265,2,09:55,,3,2,13,CHI 27,0,CHI,
-7,1409,2,07:28,,5,2,66,NYG 21,0,CHI,
-7,1433,1,06:51,,10,2,75,NYG 14,0,CHI,
-7,1290,1,09:25,,10,2,54,CHI 33,0,CHI,
-7,1354,1,07:57,,10,2,54,NYG 26,0,CHI,
-7,1244,1,10:31,,10,2,7,CHI 20,0,CHI,
-7,1479,1,05:24,,3,2,80,NYG 3,1,CHI,TD
-7,1458,2,06:06,,1,2,77,NYG 5,0,CHI,
-7,1500,0,05:20,,0,2,80,NYG 2,1,CHI,XP
-8,1532,0,05:20,,0,2,0,CHI 35,0,CHI,KICKOFF
-8,1616,3,03:47,,3,2,7,CHI 47,0,NYG,
-8,1554,0,05:12,,0,2,0,,0,,Timeout
-8,1592,2,04:33,,11,2,7,NYG 45,0,NYG,
-8,1638,4,03:43,,3,2,7,CHI 47,0,NYG,PUNT
-8,1571,1,05:12,,10,2,-1,NYG 46,0,NYG,
-10,1951,0,00:02,,0,2,0,CHI 35,0,CHI,KICKOFF
-10,1973,0,,,0,2,0,,0,,
-19,3996,3,00:43,,6,4,14,CHI 40,0,CHI,
-19,3937,1,01:35,,10,4,13,CHI 36,0,CHI,
-19,3898,3,01:42,,7,4,10,CHI 29,0,CHI,
-19,3856,2,01:48,,9,4,3,CHI 27,0,CHI,
-19,4017,0,,,0,4,14,,0,,
-19,3881,0,01:42,,0,4,3,,0,,TIMEOUT
-19,3975,2,01:30,,7,4,14,CHI 39,0,CHI,
-19,3839,0,01:48,,0,4,1,,0,,TIMEOUT
-19,3958,0,01:30,,0,4,13,,0,,TIMEOUT
-19,3818,1,01:54,,10,4,1,CHI 26,0,CHI,
-12,2305,2,11:02,,10,3,-5,NYG 21,0,NYG,PENALTY
-12,2367,3,10:16,,11,3,-8,NYG 20,0,NYG,
-12,2259,0,11:23,,0,3,0,CHI 35,0,CHI,KICKOFF
-12,2386,4,09:45,,18,3,-8,NYG 13,0,NYG,FUMBLE
-12,2281,1,11:18,,10,3,0,NYG 21,0,NYG,
-12,2343,2,11:02,,15,3,-1,NYG 16,0,NYG,
-16,3311,1,08:50,,10,4,15,NYG 23,0,NYG,
-16,3290,1,09:33,,10,4,15,NYG 8,0,NYG,
-16,3388,4,07:56,,9,4,16,NYG 24,0,NYG,PUNT
-16,3354,3,08:04,,9,4,16,NYG 24,0,NYG,
-16,3333,2,08:43,,10,4,16,NYG 23,0,NYG,
-11,2200,3,12:07,,20,3,40,NYG 38,0,CHI,
-11,2086,3,12:54,,3,3,46,CHI 48,0,CHI,PENALTY
-11,2140,2,12:31,,10,3,36,NYG 28,0,CHI,PENALTY
-11,2013,1,14:54,,10,3,15,CHI 26,0,CHI,
-11,2118,1,12:35,,10,3,46,NYG 28,0,CHI,
-11,2178,2,12:13,,20,3,36,NYG 38,0,CHI,
-11,2041,1,14:11,,10,3,16,CHI 41,0,CHI,
-11,2062,2,13:36,,9,3,22,CHI 42,0,CHI,
-11,2224,4,11:29,,16,3,40,NYG 34,1,CHI,FG
-11,1990,0,15:00,,0,3,0,NYG 35,0,NYG,KICKOFF
-3,303,3,10:38,,5,1,41,NYG 25,0,NYG,
-3,331,1,10:01,,10,1,41,NYG 45,1,NYG,TD
-3,282,2,11:21,,10,1,21,NYG 20,0,NYG,
-3,253,1,11:26,,10,1,16,NYG 20,0,NYG,
-3,232,1,12:03,,10,1,16,NYG 4,0,NYG,
-17,3473,1,06:21,,10,4,11,CHI 46,0,CHI,
-17,3445,2,07:05,,7,4,11,CHI 38,0,CHI,
-17,3538,4,05:29,,4,4,17,NYG 48,0,CHI,PUNT
-17,3495,2,06:14,,10,4,17,CHI 46,0,CHI,
-17,3516,3,05:35,,4,4,17,NYG 48,0,CHI,
-17,3424,1,07:48,,10,4,3,CHI 35,0,CHI,
-4,490,1,07:15,,10,1,38,CHI 44,0,NYG,
-4,651,0,03:48,,0,1,80,CHI 2,1,NYG,XP
-4,421,2,09:18,,10,1,4,NYG 20,0,NYG,
-4,554,0,05:17,,0,1,58,,0,,TIMEOUT
-4,607,1,04:36,,5,1,76,CHI 5,0,NYG,
-4,512,2,06:35,,8,1,45,CHI 42,0,NYG,
-4,466,1,07:46,,10,1,36,NYG 40,0,NYG,
-4,583,1,05:17,,10,1,75,CHI 22,0,NYG,
-4,628,2,03:55,,4,1,80,CHI 4,1,NYG,TD
-4,385,0,09:50,,0,1,0,CHI 35,0,CHI,KICKOFF
-4,400,1,09:50,,10,1,0,NYG 20,0,NYG,
-4,442,3,08:32,,6,1,20,NYG 24,0,NYG,
-4,533,3,05:53,,1,1,58,CHI 35,0,NYG,
-2,150,2,13:26,,8,1,7,NYG 10,0,CHI,
-2,125,1,14:07,,10,1,2,NYG 12,0,CHI,
-2,192,4,12:08,,2,1,8,NYG 4,0,CHI,
-2,171,3,12:43,,3,1,8,NYG 5,0,CHI,
-1,98,3,14:15,,6,1,4,NYG 24,0,NYG,INT
-1,77,2,14:55,,10,1,4,NYG 20,0,NYG,
-1,55,1,15:00,,10,1,0,NYG 20,0,NYG,
-1,36,0,15:00,,0,1,0,CHI 35,0,CHI,KICKOFF
-5,733,1,03:02,,10,1,33,CHI 34,0,CHI,
-5,780,2,02:18,,10,1,45,CHI 47,0,CHI,
-5,705,1,03:43,,10,1,20,CHI 14,0,CHI,
-5,912,3,14:23,,9,2,86,NYG 10,1,CHI,TD
-5,850,1,00:48,,10,1,74,NYG 11,0,CHI,
-5,871,0,,,0,1,74,,0,,
-5,808,1,01:40,,10,1,75,NYG 41,0,CHI,
-5,758,1,02:22,,10,1,33,CHI 47,0,CHI,
-5,887,2,15:00,,11,2,76,NYG 12,0,CHI,
-5,833,0,00:48,,0,1,75,,0,,TIMEOUT
-5,683,0,03:48,,0,1,0,NYG 35,0,NYG,KICKOFF
-5,933,0,14:18,,0,2,86,NYG 2,1,CHI,XP
-13,2529,1,07:35,,10,3,25,CHI 44,0,CHI,
-13,2456,1,09:28,,10,3,15,CHI 19,0,CHI,
-13,2600,2,06:09,,10,3,37,NYG 44,0,CHI,
-13,2574,1,06:16,,10,3,37,NYG 44,0,CHI,
-13,2483,1,08:44,,10,3,22,CHI 34,0,CHI,
-13,2643,4,05:29,,10,3,37,NYG 44,0,CHI,PUNT
-13,2621,3,05:33,,10,3,37,NYG 44,0,CHI,
-13,2508,2,08:16,,3,3,25,CHI 41,0,CHI,
-13,2550,2,06:55,,10,3,37,CHI 44,0,CHI,
-15,3172,1,11:07,,10,4,49,NYG 39,0,CHI,
-15,2965,0,00:06,,0,3,0,NYG 35,0,NYG,KICKOFF
-15,3127,1,12:31,,10,4,27,CHI 44,0,CHI,
-15,2987,0,,,0,3,0,,0,,
-15,3024,2,14:12,,1,4,15,CHI 27,0,CHI,PENALTY
-15,3148,2,11:49,,9,4,43,CHI 45,0,CHI,
-15,3061,1,14:06,,10,4,20,CHI 33,0,CHI,
-15,3196,2,10:26,,4,4,48,NYG 33,0,CHI,
-15,3220,3,09:43,,5,4,37,NYG 34,0,CHI,PENALTY
-15,3103,3,12:46,,2,4,26,CHI 41,0,CHI,
-15,3253,4,09:40,,16,4,37,NYG 45,0,CHI,PUNT
-15,3082,2,13:25,,5,4,23,CHI 38,0,CHI,
-15,3003,1,15:00,,10,4,9,CHI 18,0,CHI,
+11,2200,3,12:07,(12:07) (Shotgun) J.Cutler pass short right to M.Bennett to NYG 34 for 4 yards (A.Rolle).,20,3,40,NYG 38,0,CHI,
+11,1990,0,15:00,J.Brown kicks 67 yards from NYG 35 to CHI -2. D.Hester to CHI 26 for 28 yards (T.McBride).,0,3,0,NYG 35,0,NYG,KICKOFF
+11,2041,1,14:11,(14:11) M.Forte right guard to CHI 42 for 1 yard (J.Beason).,10,3,16,CHI 41,0,CHI,
+11,2224,4,11:29,"(11:29) (Field Goal formation) R.Gould 52 yard field goal is GOOD, Center-P.Mannelly, Holder-A.Podlesh.",16,3,40,NYG 34,1,CHI,FG
+11,2086,3,12:54,"(12:54) (Shotgun) J.Cutler scrambles right guard to NYG 43 for 9 yards (W.Hill). PENALTY on NYG-W.Hill, Unnecessary Roughness, 15 yards, enforced at NYG 43.",3,3,46,CHI 48,0,CHI,PENALTY
+11,2118,1,12:35,(12:35) J.Cutler pass incomplete short right to M.Bennett.,10,3,46,NYG 28,0,CHI,
+11,2140,2,12:31,"(12:31) (Shotgun) M.Forte right end pushed ob at NYG 9 for 19 yards (T.Thomas). PENALTY on CHI-R.Garza, Offensive Holding, 10 yards, enforced at NYG 28 - No Play.",10,3,36,NYG 28,0,CHI,PENALTY
+11,2062,2,13:36,(13:36) J.Cutler pass short left to M.Forte to CHI 48 for 6 yards (W.Hill).,9,3,22,CHI 42,0,CHI,
+11,2178,2,12:13,(12:13) J.Cutler pass incomplete deep right to A.Jeffery.,20,3,36,NYG 38,0,CHI,
+11,2013,1,14:54,(14:54) #62 E. Britton reports eligible. J.Cutler pass short right to B.Marshall to CHI 41 for 15 yards (T.Thomas).,10,3,15,CHI 26,0,CHI,
+10,1973,0,,END QUARTER 2,0,2,0,,0,,
+10,1951,0,00:02,R.Gould kicks 40 yards from CHI 35 to NYG 25. B.Mosley (didn't try to advance) to NYG 25 for no gain (C.Wilson).,0,2,0,CHI 35,0,CHI,KICKOFF
+13,2550,2,06:55,(6:55) (Shotgun) J.Cutler pass short left to M.Bennett to NYG 44 for 12 yards (J.Beason).,10,3,37,CHI 44,0,CHI,
+13,2621,3,05:33,(5:33) (Shotgun) J.Cutler pass incomplete short right to M.Bush.,10,3,37,NYG 44,0,CHI,
+13,2600,2,06:09,(6:09) (Shotgun) M.Bush left guard to NYG 44 for no gain (J.Beason).,10,3,37,NYG 44,0,CHI,
+13,2574,1,06:16,(6:16) #62 E. Britton reports eligible. J.Cutler pass incomplete deep left to A.Jeffery.,10,3,37,NYG 44,0,CHI,
+13,2456,1,09:28,(9:28) (Shotgun) A.Jeffery left end pushed ob at CHI 34 for 15 yards (W.Hill).,10,3,15,CHI 19,0,CHI,
+13,2529,1,07:35,(7:35) M.Forte left guard to CHI 44 for no gain (J.Beason).,10,3,25,CHI 44,0,CHI,
+13,2483,1,08:44,(8:44) (Shotgun) J.Cutler pass short left to M.Forte pushed ob at CHI 41 for 7 yards (P.Amukamara).,10,3,22,CHI 34,0,CHI,
+13,2643,4,05:29,"(5:29) (Punt formation) A.Podlesh punts 35 yards to NYG 9, Center-P.Mannelly, fair catch by R.Randle.",10,3,37,NYG 44,0,CHI,PUNT
+13,2508,2,08:16,(8:16) (Shotgun) M.Forte right end to CHI 44 for 3 yards (W.Hill).,3,3,25,CHI 41,0,CHI,
+12,2343,2,11:02,(11:02) (Shotgun) E.Manning pass short middle to D.Scott to NYG 20 for 4 yards (L.Briggs).,15,3,-1,NYG 16,0,NYG,
+12,2281,1,11:18,(11:18) E.Manning pass incomplete short middle to B.Pascoe.,10,3,0,NYG 21,0,NYG,
+12,2305,2,11:02,"(11:02) PENALTY on NYG-L.Donnell, False Start, 5 yards, enforced at NYG 21 - No Play.",10,3,-5,NYG 21,0,NYG,PENALTY
+12,2259,0,11:23,R.Gould kicks 70 yards from CHI 35 to NYG -5. J.Jernigan to NYG 21 for 26 yards (C.Steltz).,0,3,0,CHI 35,0,CHI,KICKOFF
+12,2386,4,09:45,"(9:45) (Punt formation) S.Weatherford punts 51 yards to CHI 36, Center-Z.DeOssie. D.Hester to CHI 36 for no gain (T.McBride). FUMBLES (T.McBride), recovered by CHI-E.Weems at CHI 29. E.Weems to CHI 29 for no gain (Team). PENALTY on CHI-C.Wilson, Illegal Block Above the Waist, 10 yards, enforced at CHI 29.",18,3,-8,NYG 13,0,NYG,FUMBLE
+12,2367,3,10:16,(10:16) (Shotgun) E.Manning sacked at NYG 13 for -7 yards (L.Briggs).,11,3,-8,NYG 20,0,NYG,
+15,2965,0,00:06,J.Brown kicks 69 yards from NYG 35 to CHI -4. D.Hester to CHI 18 for 22 yards (J.Williams).,0,3,0,NYG 35,0,NYG,KICKOFF
+15,3220,3,09:43,"(9:43) (Shotgun) J.Cutler pass incomplete. PENALTY on CHI-J.Cutler, Intentional Grounding, 11 yards, enforced at NYG 34.",5,4,37,NYG 34,0,CHI,PENALTY
+15,3253,4,09:40,"(9:40) (Punt formation) A.Podlesh punts 37 yards to NYG 8, Center-P.Mannelly, fair catch by R.Randle.",16,4,37,NYG 45,0,CHI,PUNT
+15,3024,2,14:12,"(14:12) #62 E. Britton reports eligible. J.Cutler pass incomplete deep left to A.Jeffery. PENALTY on NYG-P.Amukamara, Defensive Holding, 6 yards, enforced at CHI 27 - No Play.",1,4,15,CHI 27,0,CHI,PENALTY
+15,2987,0,,END QUARTER 3,0,3,0,,0,,
+15,3127,1,12:31,(12:31) M.Forte left end to CHI 45 for 1 yard (P.Amukamara).,10,4,27,CHI 44,0,CHI,
+15,3103,3,12:46,(12:46) (Shotgun) J.Cutler pass short right to M.Forte pushed ob at CHI 44 for 3 yards (J.Beason) [M.Kiwanuka].,2,4,26,CHI 41,0,CHI,
+15,3196,2,10:26,(10:26) (Shotgun) J.Cutler pass short left to B.Marshall to NYG 34 for -1 yards (P.Amukamara).,4,4,48,NYG 33,0,CHI,
+15,3061,1,14:06,(14:06) M.Forte left guard to CHI 38 for 5 yards (M.Patterson).,10,4,20,CHI 33,0,CHI,
+15,3003,1,15:00,(15:00) (Shotgun) M.Forte left guard to CHI 27 for 9 yards (A.Rolle; R.Mundy).,10,4,9,CHI 18,0,CHI,
+15,3148,2,11:49,(11:49) (Shotgun) J.Cutler pass short right to M.Bennett to NYG 39 for 16 yards (T.Thomas; J.Beason).,9,4,43,CHI 45,0,CHI,
+15,3172,1,11:07,(11:07) (Shotgun) J.Cutler pass short right to M.Bush to NYG 33 for 6 yards (T.Thomas).,10,4,49,NYG 39,0,CHI,
+15,3082,2,13:25,(13:25) (Shotgun) M.Forte right tackle to CHI 41 for 3 yards (T.Thomas).,5,4,23,CHI 38,0,CHI,
+14,2873,2,00:15,"(:15) (Shotgun) E.Manning pass incomplete deep left to V.Cruz. PENALTY on CHI-T.Jennings, Defensive Pass Interference, 15 yards, enforced at CHI 16 - No Play.",12,3,90,CHI 16,0,NYG,PENALTY
+14,2779,1,02:32,(2:32) (Shotgun) E.Manning pass incomplete short left to H.Nicks.,10,3,56,CHI 35,0,NYG,
+14,2725,2,04:00,(4:00) B.Jacobs left end to NYG 34 for -1 yards (S.McClellin). CHI-D.Williams was injured during the play. He is Out.,7,3,91,NYG 35,0,NYG,
+14,2906,1,00:10,"(:10) #73 J. Brewer reports eligible. B.Jacobs left guard for 1 yard, TOUCHDOWN.",1,3,91,CHI 1,1,NYG,TD
+14,2846,1,00:53,(:53) B.Jacobs right tackle to CHI 16 for -2 yards (C.Wootton).,10,3,75,CHI 14,0,NYG,
+14,2704,1,04:46,(4:46) B.Jacobs left guard to NYG 35 for 3 yards (L.Briggs).,10,3,26,NYG 32,0,NYG,
+14,2933,0,00:06,"J.Brown extra point is GOOD, Center-Z.DeOssie, Holder-S.Weatherford.",0,3,91,CHI 2,1,NYG,XP
+14,2746,3,03:10,(3:10) (Shotgun) E.Manning pass short left to H.Nicks pushed ob at CHI 35 for 31 yards (M.Wright).,8,3,56,NYG 34,0,NYG,
+14,2801,2,02:26,(2:26) B.Jacobs left guard to CHI 32 for 3 yards (M.Wright).,10,3,59,CHI 35,0,NYG,
+14,2680,1,05:21,(5:21) E.Manning pass deep right to V.Cruz pushed ob at NYG 32 for 23 yards (M.Wright).,10,3,23,NYG 9,0,NYG,
+14,2822,3,01:40,(1:40) (Shotgun) E.Manning pass deep left to R.Randle to CHI 14 for 18 yards (Ja.Anderson).,7,3,77,CHI 32,0,NYG,
+17,3473,1,06:21,(6:21) J.Cutler pass incomplete deep right to A.Jeffery.,10,4,11,CHI 46,0,CHI,
+17,3445,2,07:05,(7:05) (Shotgun) J.Cutler pass short left to B.Marshall to CHI 46 for 8 yards (P.Amukamara).,7,4,11,CHI 38,0,CHI,
+17,3495,2,06:14,(6:14) M.Forte left tackle to NYG 48 for 6 yards (J.Beason).,10,4,17,CHI 46,0,CHI,
+17,3516,3,05:35,(5:35) (Shotgun) J.Cutler pass incomplete deep left to E.Bennett.,4,4,17,NYG 48,0,CHI,
+17,3424,1,07:48,(7:48) #62 E. Britton reports eligible. M.Forte left end to CHI 38 for 3 yards (J.Beason).,10,4,3,CHI 35,0,CHI,
+17,3538,4,05:29,"(5:29) (Punt formation) A.Podlesh punts 38 yards to NYG 10, Center-P.Mannelly, fair catch by R.Randle.",4,4,17,NYG 48,0,CHI,PUNT
+16,3311,1,08:50,(8:50) (Shotgun) E.Manning pass incomplete short left to D.Scott.,10,4,15,NYG 23,0,NYG,
+16,3333,2,08:43,(8:43) (Shotgun) D.Scott right end to NYG 24 for 1 yard (I.Frey; J.Bostic).,10,4,16,NYG 23,0,NYG,
+16,3290,1,09:33,(9:33) B.Jacobs left guard to NYG 23 for 15 yards (C.Conte).,10,4,15,NYG 8,0,NYG,
+16,3388,4,07:56,"(7:56) (Punt formation) S.Weatherford punts 41 yards to CHI 35, Center-Z.DeOssie, out of bounds.",9,4,16,NYG 24,0,NYG,PUNT
+16,3354,3,08:04,(8:04) (Shotgun) E.Manning pass incomplete deep right to H.Nicks.,9,4,16,NYG 24,0,NYG,
+19,3958,0,01:30,Timeout #3 by NYG at 01:30.,0,4,13,,0,,TIMEOUT
+19,3881,0,01:42,Timeout #2 by NYG at 01:42.,0,4,3,,0,,TIMEOUT
+19,3937,1,01:35,(1:35) M.Bush left end to CHI 39 for 3 yards (S.Paysinger).,10,4,13,CHI 36,0,CHI,
+19,4017,0,,END GAME,0,4,14,,0,,
+19,3839,0,01:48,Timeout #1 by NYG at 01:48.,0,4,1,,0,,TIMEOUT
+19,3856,2,01:48,(1:48) #62 E. Britton reports eligible. M.Bush right guard to CHI 29 for 2 yards (S.Paysinger).,9,4,3,CHI 27,0,CHI,
+19,3898,3,01:42,"(1:42) #62 E. Britton reports eligible. J.Cutler pass short middle to M.Bennett to CHI 36 for 7 yards (A.Rolle) [M.Kiwanuka]. Penalty on NYG-A.Rolle, Defensive Holding, declined.",7,4,10,CHI 29,0,CHI,
+19,3975,2,01:30,(1:30) M.Bush left end to CHI 40 for 1 yard (J.Beason).,7,4,14,CHI 39,0,CHI,
+19,3996,3,00:43,(:43) M.Bush left guard to CHI 40 for no gain (C.Jenkins).,6,4,14,CHI 40,0,CHI,
+19,3818,1,01:54,(1:54) M.Forte left end to CHI 27 for 1 yard (J.Pierre-Paul; L.Joseph).,10,4,1,CHI 26,0,CHI,
+18,3664,1,03:08,(3:08) B.Jacobs right end pushed ob at CHI 49 for 12 yards (M.Wright).,10,4,40,NYG 39,0,NYG,
+18,3597,1,04:38,(4:38) E.Manning pass incomplete short left to H.Nicks.,10,4,14,NYG 25,0,NYG,
+18,3712,2,02:57,(2:57) (Shotgun) D.Scott right guard to CHI 36 for 13 yards (C.Conte). NYG-D.Scott was injured during the play. His return is Questionable.,10,4,53,CHI 49,0,NYG,
+18,3575,1,05:21,(5:21) B.Jacobs left end to NYG 25 for 14 yards (M.Wright).,10,4,14,NYG 11,0,NYG,
+18,3619,2,04:35,(4:35) B.Jacobs left guard to NYG 28 for 3 yards (I.Frey).,10,4,17,NYG 25,0,NYG,
+18,3753,1,02:37,(2:37) (Shotgun) B.Jacobs right tackle to CHI 35 for 1 yard (L.Cohen).,10,4,54,CHI 36,0,NYG,
+18,3774,2,02:02,(2:02) (Shotgun) E.Manning pass deep right intended for B.Myers INTERCEPTED by T.Jennings at CHI 10. T.Jennings to CHI 26 for 16 yards (V.Cruz).,9,4,54,CHI 35,0,NYG,INT
+18,3690,1,03:02,(3:02) (Shotgun) E.Manning pass incomplete deep right to L.Donnell (T.Jennings).,10,4,40,CHI 49,0,NYG,
+18,3736,0,02:43,Timeout at 02:43.,0,4,53,,0,,Timeout
+18,3640,3,03:54,(3:54) (Shotgun) E.Manning pass short left to H.Nicks to NYG 39 for 11 yards (Z.Bowman).,7,4,28,NYG 28,0,NYG,
+1,55,1,15:00,(15:00) E.Manning pass incomplete short right to V.Cruz (T.Jennings).,10,1,0,NYG 20,0,NYG,
+1,77,2,14:55,(14:55) B.Jacobs left tackle to NYG 24 for 4 yards (M.Wright).,10,1,4,NYG 20,0,NYG,
+1,36,0,15:00,"R.Gould kicks 65 yards from CHI 35 to end zone, Touchback.",0,1,0,CHI 35,0,CHI,KICKOFF
+1,98,3,14:15,(14:15) (Shotgun) E.Manning pass short left intended for R.Randle INTERCEPTED by Z.Bowman at NYG 36. Z.Bowman to NYG 12 for 24 yards (W.Beatty).,6,1,4,NYG 24,0,NYG,INT
+3,253,1,11:26,(11:26) E.Manning pass incomplete short middle to B.Jacobs (L.Briggs).,10,1,16,NYG 20,0,NYG,
+3,282,2,11:21,(11:21) B.Jacobs right tackle to NYG 25 for 5 yards (D.Williams).,10,1,21,NYG 20,0,NYG,
+3,303,3,10:38,(10:38) (Shotgun) E.Manning pass short left to R.Randle pushed ob at NYG 45 for 20 yards (M.Wright).,5,1,41,NYG 25,0,NYG,
+3,331,1,10:01,"(10:01) (Shotgun) E.Manning pass short right intended for R.Randle INTERCEPTED by T.Jennings at NYG 48. T.Jennings for 48 yards, TOUCHDOWN.",10,1,41,NYG 45,1,NYG,TD
+3,232,1,12:03,(12:03) B.Jacobs right guard to NYG 20 for 16 yards (C.Conte).,10,1,16,NYG 4,0,NYG,
+2,150,2,13:26,(13:26) M.Forte left guard to NYG 5 for 5 yards (A.Rolle).,8,1,7,NYG 10,0,CHI,
+2,125,1,14:07,(14:07) #62 E. Britton reports eligible. J.Cutler scrambles left end to NYG 10 for 2 yards (A.Rolle).,10,1,2,NYG 12,0,CHI,
+2,171,3,12:43,(12:43) M.Forte right guard to NYG 4 for 1 yard (J.Beason).,3,1,8,NYG 5,0,CHI,
+2,192,4,12:08,(12:08) (Shotgun) J.Cutler pass incomplete short left to B.Marshall.,2,1,8,NYG 4,0,CHI,
+5,833,0,00:48,Timeout #2 by CHI at 00:48.,0,1,75,,0,,TIMEOUT
+5,780,2,02:18,(2:18) J.Cutler pass short left to B.Marshall to NYG 41 for 12 yards (P.Amukamara).,10,1,45,CHI 47,0,CHI,
+5,705,1,03:43,(3:43) J.Cutler pass deep left to B.Marshall to CHI 34 for 20 yards (A.Rolle).,10,1,20,CHI 14,0,CHI,
+5,758,1,02:22,(2:22) J.Cutler pass incomplete short right to B.Marshall.,10,1,33,CHI 47,0,CHI,
+5,871,0,,END QUARTER 1,0,1,74,,0,,
+5,733,1,03:02,(3:02) (Shotgun) J.Cutler pass short left to M.Forte to CHI 47 for 13 yards (P.Amukamara).,10,1,33,CHI 34,0,CHI,
+5,808,1,01:40,(1:40) J.Cutler pass short middle to T.Fiammetta to NYG 11 for 30 yards (T.Thomas).,10,1,75,NYG 41,0,CHI,
+5,933,0,14:18,"R.Gould extra point is GOOD, Center-P.Mannelly, Holder-A.Podlesh.",0,2,86,NYG 2,1,CHI,XP
+5,850,1,00:48,(:48) (Shotgun) M.Forte right guard to NYG 12 for -1 yards (J.Pierre-Paul).,10,1,74,NYG 11,0,CHI,
+5,887,2,15:00,(15:00) #62 E. Britton reports eligible. M.Forte right guard to NYG 10 for 2 yards (R.Mundy).,11,2,76,NYG 12,0,CHI,
+5,683,0,03:48,J.Brown kicks 74 yards from NYG 35 to CHI -9. D.Hester to CHI 14 for 23 yards (C.James).,0,1,0,NYG 35,0,NYG,KICKOFF
+5,912,3,14:23,"(14:23) (Shotgun) J.Cutler pass short middle to B.Marshall for 10 yards, TOUCHDOWN.",9,2,86,NYG 10,1,CHI,TD
+4,554,0,05:17,Timeout #1 by CHI at 05:17.,0,1,58,,0,,TIMEOUT
+4,607,1,04:36,(4:36) (Shotgun) D.Scott left guard to CHI 4 for 1 yard (I.Frey).,5,1,76,CHI 5,0,NYG,
+4,628,2,03:55,"(3:55) B.Jacobs right guard for 4 yards, TOUCHDOWN.",4,1,80,CHI 4,1,NYG,TD
+4,583,1,05:17,(5:17) (Shotgun) E.Manning pass short left to H.Nicks to CHI 5 for 17 yards (C.Conte).,10,1,75,CHI 22,0,NYG,
+4,442,3,08:32,(8:32) (Shotgun) E.Manning pass short right to V.Cruz to NYG 40 for 16 yards (Ja.Anderson).,6,1,20,NYG 24,0,NYG,
+4,466,1,07:46,(7:46) E.Manning pass short left to V.Cruz pushed ob at CHI 44 for 16 yards (Z.Bowman).,10,1,36,NYG 40,0,NYG,
+4,651,0,03:48,"J.Brown extra point is GOOD, Center-Z.DeOssie, Holder-S.Weatherford.",0,1,80,CHI 2,1,NYG,XP
+4,533,3,05:53,(5:53) B.Jacobs right guard to CHI 22 for 13 yards (C.Conte).,1,1,58,CHI 35,0,NYG,
+4,385,0,09:50,"R.Gould kicks 65 yards from CHI 35 to end zone, Touchback.",0,1,0,CHI 35,0,CHI,KICKOFF
+4,400,1,09:50,(9:50) B.Jacobs left guard to NYG 20 for no gain (L.Briggs).,10,1,0,NYG 20,0,NYG,
+4,421,2,09:18,(9:18) B.Jacobs left end to NYG 24 for 4 yards (D.Williams).,10,1,4,NYG 20,0,NYG,
+4,512,2,06:35,(6:35) B.Jacobs right end to CHI 35 for 7 yards (T.Jennings).,8,1,45,CHI 42,0,NYG,
+4,490,1,07:15,(7:15) (Shotgun) D.Scott left end to CHI 42 for 2 yards (M.Wright).,10,1,38,CHI 44,0,NYG,
+7,1229,0,10:31,"J.Brown kicks 60 yards from NYG 40 to end zone, Touchback.",0,2,0,NYG 40,0,NYG,KICKOFF
+7,1433,1,06:51,(6:51) (Shotgun) J.Cutler pass short right to M.Forte to NYG 5 for 9 yards (K.Rivers).,10,2,75,NYG 14,0,CHI,
+7,1325,1,08:39,(8:39) J.Cutler pass short left to M.Bennett pushed ob at NYG 26 for 14 yards (P.Amukamara).,10,2,54,NYG 40,0,CHI,
+7,1500,0,05:20,"R.Gould extra point is GOOD, Center-P.Mannelly, Holder-A.Podlesh.",0,2,80,NYG 2,1,CHI,XP
+7,1265,2,09:55,(9:55) #62 E. Britton reports eligible. M.Forte right end to CHI 33 for 6 yards (J.Beason).,3,2,13,CHI 27,0,CHI,
+7,1354,1,07:57,(7:57) J.Cutler pass incomplete deep left to Jo.Anderson (M.Kiwanuka).,10,2,54,NYG 26,0,CHI,
+7,1409,2,07:28,(7:28) J.Cutler pass short left to B.Marshall to NYG 14 for 7 yards (P.Amukamara).,5,2,66,NYG 21,0,CHI,
+7,1244,1,10:31,(10:31) M.Forte right guard to CHI 27 for 7 yards (J.Beason).,10,2,7,CHI 20,0,CHI,
+7,1377,2,07:51,"(7:51) J.Cutler scrambles right end to NYG 24 for 2 yards (J.Pierre-Paul). PENALTY on NYG-S.Rogers, Defensive Offside, 5 yards, enforced at NYG 26 - No Play.",10,2,59,NYG 26,0,CHI,PENALTY
+7,1290,1,09:25,(9:25) J.Cutler pass deep right to A.Jeffery to NYG 40 for 27 yards (T.Thomas).,10,2,54,CHI 33,0,CHI,
+7,1479,1,05:24,"(5:24) (Shotgun) J.Cutler pass short right to B.Marshall for 3 yards, TOUCHDOWN.",3,2,80,NYG 3,1,CHI,TD
+7,1458,2,06:06,(6:06) M.Forte right guard to NYG 3 for 2 yards (L.Joseph).,1,2,77,NYG 5,0,CHI,
+6,965,1,14:18,(14:18) B.Jacobs right guard to NYG 24 for 4 yards (M.Wright).,10,2,4,NYG 20,0,NYG,
+6,1055,1,11:49,(11:49) B.Jacobs left guard to 50 for no gain (D.Bass).,10,2,30,50,0,NYG,
+6,1076,2,11:09,"(11:09) E.Manning pass short left to V.Cruz to CHI 37 for 13 yards (Z.Bowman). Penalty on CHI-Z.Minter, Illegal Use of Hands, declined.",10,2,43,50,0,NYG,
+6,950,0,14:18,"R.Gould kicks 65 yards from CHI 35 to end zone, Touchback.",0,2,0,CHI 35,0,CHI,KICKOFF
+6,986,2,13:44,(13:44) B.Jacobs right guard to NYG 25 for 1 yard (D.Bass).,6,2,5,NYG 24,0,NYG,
+6,1153,0,10:31,"J.Brown extra point is GOOD, Center-Z.DeOssie, Holder-S.Weatherford. PENALTY on CHI-D.Hester, Defensive Offside, 5 yards, enforced between downs.",0,2,80,CHI 2,1,NYG,XP
+6,1111,1,10:41,"(10:41) (Shotgun) E.Manning pass deep right to R.Randle for 37 yards, TOUCHDOWN. The Replay Assistant challenged the runner was in bounds ruling, and the play was Upheld.",10,2,80,CHI 37,1,NYG,TD
+6,1132,0,10:31,Timeout at 10:31.,0,2,0,,0,,Timeout
+6,1007,3,13:01,(13:01) (Shotgun) E.Manning pass short right to B.Pascoe pushed ob at NYG 39 for 14 yards (M.Wright).,5,2,19,NYG 25,0,NYG,
+6,1031,1,12:21,(12:21) E.Manning pass short right to H.Nicks pushed ob at 50 for 11 yards (C.Conte).,10,2,30,NYG 39,0,NYG,
+9,1775,0,01:59,Two-Minute Warning,0,2,37,,0,,
+9,1703,1,02:55,(2:55) J.Cutler pass incomplete short right to A.Jeffery (J.Tuck).,10,2,13,CHI 33,0,CHI,
+9,1908,2,00:11,(:11) (Shotgun) J.Cutler pass incomplete deep left to E.Bennett.,4,2,58,NYG 22,0,CHI,
+9,1793,2,01:59,(1:59) #62 E. Britton reports eligible. M.Forte left guard to NYG 43 for no gain (J.Tuck).,1,2,37,NYG 43,0,CHI,
+9,1725,2,02:52,(2:52) (Shotgun) J.Cutler pass short right to M.Bennett to CHI 48 for 15 yards (W.Hill).,10,2,28,CHI 33,0,CHI,
+9,1818,3,01:11,(1:11) #62 E. Britton reports eligible. M.Bush right guard to NYG 41 for 2 yards.,1,2,39,NYG 43,0,CHI,
+9,1843,1,00:39,"(:39) (No Huddle, Shotgun) J.Cutler pass short left to B.Marshall to NYG 28 for 13 yards (P.Amukamara).",10,2,52,NYG 41,0,CHI,
+9,1931,3,00:06,"(:06) (Field Goal formation) R.Gould 40 yard field goal is GOOD, Center-P.Mannelly, Holder-A.Podlesh.",4,2,58,NYG 22,1,CHI,FG
+9,1749,1,02:06,(2:06) #62 E. Britton reports eligible. J.Cutler scrambles right tackle to NYG 43 for 9 yards (J.Tuck).,10,2,37,CHI 48,0,CHI,
+9,1867,1,00:16,"(:16) (No Huddle, Shotgun) J.Cutler pass to M.Forte to NYG 22 for 6 yards (A.Rolle).",10,2,58,NYG 28,0,CHI,
+9,1891,0,00:11,Timeout #3 by CHI at 00:11.,0,2,58,,0,,TIMEOUT
+9,1673,1,03:34,(3:34) #62 E. Britton reports eligible. M.Forte left end pushed ob at CHI 33 for 13 yards (A.Rolle).,10,2,13,CHI 20,0,CHI,
+8,1554,0,05:12,Timeout at 05:12.,0,2,0,,0,,Timeout
+8,1616,3,03:47,(3:47) (Shotgun) E.Manning pass incomplete short right to H.Nicks.,3,2,7,CHI 47,0,NYG,
+8,1638,4,03:43,"(3:43) (Punt formation) S.Weatherford punts 47 yards to end zone, Center-Z.DeOssie, Touchback.",3,2,7,CHI 47,0,NYG,PUNT
+8,1532,0,05:20,R.Gould kicks 65 yards from CHI 35 to NYG 0. J.Jernigan pushed ob at NYG 46 for 46 yards (M.Wright).,0,2,0,CHI 35,0,CHI,KICKOFF
+8,1592,2,04:33,(4:33) E.Manning pass short middle to B.Jacobs to CHI 47 for 8 yards (S.McClellin).,11,2,7,NYG 45,0,NYG,
+8,1571,1,05:12,(5:12) B.Jacobs right end to NYG 45 for -1 yards (L.Briggs).,10,2,-1,NYG 46,0,NYG,

@@ -1,172 +1,172 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1451,2,04:15,,8,2,9,CLE 7,0,CLE,
-9,1475,3,03:30,,1,2,12,CLE 14,0,CLE,
-9,1561,2,02:00,,4,2,25,CLE 40,0,CLE,
-9,1430,1,04:49,,10,2,25,CLE 5,0,CLE,
-9,1496,1,02:51,,10,2,29,CLE 17,0,CLE,
-9,1583,3,01:56,,4,2,35,CLE 40,0,CLE,
-9,1605,4,01:51,,4,2,25,CLE 40,0,CLE,PENALTY
-9,1642,4,01:36,,14,2,25,CLE 30,0,CLE,PUNT
-9,1520,1,02:09,,10,2,35,CLE 34,0,CLE,
-10,1682,1,01:21,,10,2,53,CHI 46,0,CHI,
-10,1723,1,01:07,,10,2,61,CLE 13,0,CHI,
-10,1661,1,01:29,,10,2,12,CHI 34,0,CHI,
-10,1771,0,00:24,,0,2,66,CLE 2,1,CHI,XP
-10,1751,2,00:29,,2,2,66,CLE 5,1,CHI,TD
-20,3611,0,05:41,,0,4,0,CHI 35,0,CHI,KICKOFF
-20,3740,4,04:23,,10,4,12,CLE 32,0,CLE,PUNT
-20,3696,2,04:33,,10,4,12,CLE 32,0,CLE,
-20,3674,1,04:38,,10,4,12,CLE 32,0,CLE,
-20,3626,1,05:41,,10,4,2,CLE 20,0,CLE,
-20,3718,3,04:29,,10,4,12,CLE 32,0,CLE,
-20,3650,2,05:07,,8,4,12,CLE 22,0,CLE,
-6,1087,3,09:13,,1,2,9,CLE 31,0,CLE,
-6,1028,1,10:28,,10,2,5,CLE 22,0,CLE,
-6,1057,2,09:55,,5,2,9,CLE 27,0,CLE,
-6,1109,4,09:07,,1,2,9,CLE 31,0,CLE,PUNT
-18,3346,1,10:52,,15,4,-8,CLE 9,0,CLE,
-18,3391,3,09:35,,14,4,-4,CLE 10,0,CLE,
-18,3425,4,09:23,,14,4,-4,CLE 10,0,CLE,PUNT
-18,3301,0,10:59,,0,4,0,50,0,CHI,KICKOFF
-18,3323,1,10:56,,10,4,-8,CLE 14,0,CLE,PENALTY
-18,3367,2,10:14,,18,4,-4,CLE 6,0,CLE,
-1,146,3,12:22,,7,1,38,CHI 47,0,CHI,
-1,170,1,11:38,,10,1,54,CLE 30,0,CHI,
-1,99,2,13:34,,6,1,15,CHI 48,0,CHI,
-1,57,1,14:55,,10,1,12,CHI 32,0,CHI,
-1,194,1,10:51,,10,1,54,CLE 14,0,CHI,INT
-1,35,0,15:00,,0,1,0,CLE 35,0,CLE,KICKOFF
-1,78,1,14:17,,10,1,16,CHI 44,0,CHI,
-1,123,3,12:44,,2,1,15,CLE 48,0,CHI,PENALTY
-5,912,1,10:50,,10,2,-5,CHI 40,0,CHI,
-5,983,3,10:39,,15,2,-5,CHI 35,0,CHI,
-5,1009,4,10:34,,15,2,-5,CHI 35,0,CHI,PUNT
-5,938,2,10:50,,10,2,-5,CHI 40,0,CHI,PENALTY
-5,961,2,10:45,,15,2,-5,CHI 35,0,CHI,
-13,2078,0,13:48,,0,3,0,CHI 35,0,CHI,KICKOFF
-13,2230,2,10:18,,7,3,53,CHI 46,0,CLE,
-13,2145,1,12:25,,10,3,19,CLE 32,0,CLE,
-13,2323,0,08:20,,0,3,85,CHI 2,1,CLE,XP
-13,2100,1,13:42,,10,3,2,CLE 15,0,CLE,
-13,2279,1,09:02,,10,3,83,CHI 14,0,CLE,
-13,2209,1,10:59,,10,3,39,CHI 49,0,CLE,
-13,2300,1,08:24,,2,3,85,CHI 2,1,CLE,TD
-13,2254,1,09:42,,10,3,85,CHI 32,0,CLE,
-13,2121,2,13:05,,8,3,17,CLE 17,0,CLE,
-13,2166,2,11:45,,8,3,19,CLE 34,0,CLE,
-13,2188,3,11:40,,8,3,36,CLE 34,0,CLE,
-21,3801,0,03:19,,0,4,10,,0,,TIMEOUT
-21,3759,1,04:12,,10,4,13,CHI 22,0,CHI,
-21,3818,2,03:19,,13,4,14,CHI 32,0,CHI,
-21,3867,3,03:13,,9,4,38,CHI 36,0,CHI,
-21,3909,0,02:17,,0,4,78,CLE 2,1,CHI,XP
-21,3892,1,03:13,,10,4,78,CLE 40,1,CHI,TD
-21,3850,0,03:13,,0,4,14,,0,,TIMEOUT
-21,3780,1,03:24,,10,4,10,CHI 35,0,CHI,
-23,4148,2,00:59,,10,4,-1,CHI 35,0,CHI,
-23,4089,0,00:59,,0,4,1,CLE 35,0,CLE,KICKOFF
-23,4127,1,00:59,,10,4,31,CHI 35,0,CHI,
-23,4169,0,00:00,,0,4,-1,,0,,
-11,1787,0,00:24,,0,2,0,CHI 35,0,CHI,KICKOFF
-11,1830,0,00:10,,0,2,15,,0,,TIMEOUT
-11,1899,0,00:03,,0,2,31,,0,,TIMEOUT
-11,1927,0,00:10,,0,2,31,,0,,TIMEOUT
-11,1916,1,00:03,,10,2,31,CHI 47,0,CLE,
-11,1809,1,00:19,,10,2,15,CLE 22,0,CLE,
-11,1875,1,00:10,,10,2,31,CLE 37,0,CLE,
-14,2475,1,05:07,,10,3,27,CHI 44,0,CHI,
-14,2553,3,03:54,,8,3,31,CHI 46,1,CHI,TD
-14,2362,1,08:20,,10,3,5,CHI 20,0,CHI,
-14,2496,2,04:22,,3,3,31,CLE 49,0,CHI,PENALTY
-14,2454,2,05:45,,6,3,24,CHI 37,0,CHI,
-14,2409,3,07:03,,5,3,13,CHI 25,0,CHI,
-14,2385,2,07:46,,11,3,5,CHI 19,0,CHI,
-14,2347,0,08:20,,0,3,0,CLE 35,0,CLE,KICKOFF
-14,2531,2,03:59,,8,3,26,CHI 46,0,CHI,
-14,2433,1,06:27,,10,3,17,CHI 33,0,CHI,
-8,1311,2,05:50,,8,2,20,CLE 31,0,CHI,
-8,1333,3,05:45,,8,2,27,CLE 31,0,CHI,
-8,1357,4,05:45,,1,2,12,CLE 24,0,CHI,PENALTY
-8,1411,4,04:57,,16,2,12,CLE 39,0,CHI,PUNT
-8,1198,0,08:01,,0,2,0,CLE 40,0,CLE,KICKOFF
-8,1380,4,05:02,,6,2,12,CLE 29,0,CHI,PENALTY
-8,1265,2,07:11,,7,2,18,CLE 48,0,CHI,
-8,1241,1,07:51,,10,2,3,CHI 49,0,CHI,
-8,1290,1,06:32,,10,2,20,CLE 33,0,CHI,
-19,3595,0,05:41,,0,4,36,CLE 2,1,CHI,XP
-19,3575,3,05:45,,4,4,36,CLE 4,1,CHI,TD
-19,3554,2,06:29,,2,4,32,CLE 2,0,CHI,
-19,3476,2,08:26,,9,4,11,CLE 35,0,CHI,
-19,3455,1,09:09,,10,4,1,CLE 36,0,CHI,
-19,3529,1,07:08,,6,4,34,CLE 6,0,CHI,
-19,3504,1,07:47,,10,4,30,CLE 25,0,CHI,
-22,3940,1,02:17,,10,4,9,CLE 20,0,CLE,
-22,4005,1,01:42,,10,4,27,CLE 40,0,CLE,
-22,4073,0,00:59,,0,4,80,CHI 2,1,CLE,XP
-22,4053,1,01:02,,10,4,80,CHI 43,1,CLE,TD
-22,4029,2,01:25,,3,4,37,CLE 47,0,CLE,
-22,3925,0,02:17,,0,4,0,CHI 35,0,CHI,KICKOFF
-22,3981,2,02:00,,1,4,20,CLE 29,0,CLE,
-12,2012,1,14:20,,10,3,8,CLE 35,0,CLE,PENALTY
-12,2035,1,13:58,,15,3,8,CLE 30,1,CLE,TD
-12,1965,0,15:00,,0,3,0,CHI 35,0,CHI,KICKOFF
-12,1988,1,14:56,,10,3,13,CLE 22,0,CLE,
-16,2912,1,15:00,,10,4,31,CHI 33,0,CLE,
-16,2818,1,00:37,,10,3,14,CHI 48,0,CLE,
-16,2839,2,00:16,,6,3,14,CHI 44,0,CLE,
-16,2794,2,01:15,,16,3,10,CLE 36,0,CLE,
-16,3012,4,13:42,,14,4,21,CHI 37,0,CLE,PUNT
-16,2968,2,13:50,,14,4,21,CHI 37,0,CLE,
-16,2747,1,01:55,,10,3,-5,CLE 42,0,CLE,PENALTY
-16,2936,2,14:19,,4,4,21,CHI 27,0,CLE,PENALTY
-16,2872,3,00:10,,6,3,25,CHI 44,0,CLE,
-16,2770,1,01:55,,15,3,-6,CLE 37,0,CLE,
-16,2990,3,13:47,,14,4,21,CHI 37,0,CLE,
-7,1149,2,08:14,,12,2,-2,CHI 17,1,CHI,TD
-7,1128,1,08:56,,10,2,-2,CHI 19,0,CHI,
-3,510,3,03:56,,4,1,35,CHI 47,0,CHI,
-3,370,0,07:26,,0,1,0,CLE 35,0,CLE,KICKOFF
-3,555,2,02:42,,6,1,37,CLE 41,0,CHI,
-3,437,3,06:02,,11,1,21,CHI 19,0,CHI,
-3,482,2,04:35,,13,1,27,CHI 38,0,CHI,
-3,732,4,12:58,,4,2,75,CLE 5,1,CHI,FG
-3,708,3,13:38,,8,2,75,CLE 9,0,CHI,
-3,662,1,15:00,,10,2,71,CLE 11,0,CHI,
-3,683,2,14:25,,8,2,71,CLE 9,0,CHI,
-3,391,1,07:26,,10,1,0,CHI 20,0,CHI,
-3,604,1,01:17,,10,1,63,CLE 25,0,CHI,
-3,625,2,00:39,,2,1,69,CLE 17,0,CHI,
-3,416,2,06:41,,10,1,-1,CHI 20,0,CHI,
-3,461,1,05:16,,10,1,18,CHI 41,0,CHI,
-3,534,1,03:18,,10,1,39,CLE 45,0,CHI,
-3,576,3,01:59,,8,1,55,CLE 43,0,CHI,
-17,3040,1,13:32,,10,4,30,CHI 5,0,CHI,PENALTY
-17,3285,0,10:59,,0,4,95,CLE 2,1,CHI,XP
-17,3228,2,11:49,,10,4,50,CLE 44,0,CHI,
-17,3181,3,12:32,,2,4,51,CHI 48,0,CHI,
-17,3110,1,13:20,,10,4,35,CHI 40,0,CHI,
-17,3077,1,13:27,,10,4,35,CHI 35,0,CHI,PENALTY
-17,3160,0,12:32,,0,4,43,,0,,TIMEOUT
-17,3136,2,13:16,,10,4,43,CHI 40,0,CHI,
-17,3202,1,11:56,,10,4,51,CLE 44,0,CHI,
-17,3249,3,11:08,,11,4,95,CLE 45,1,CHI,TD
-4,811,3,11:35,,7,2,8,CLE 23,0,CLE,PENALTY
-4,766,1,12:55,,10,2,4,CLE 20,0,CLE,
-4,751,0,12:55,,0,2,0,CHI 35,0,CHI,KICKOFF
-4,790,2,12:16,,6,2,3,CLE 24,0,CLE,
-4,855,1,11:31,,10,2,13,CLE 28,0,CLE,
-4,876,2,10:58,,5,2,13,CLE 33,0,CLE,INT
-2,242,2,10:33,,10,1,10,CLE 27,0,CLE,
-2,287,1,09:00,,10,1,55,CHI 19,0,CLE,
-2,351,4,07:26,,8,1,56,CHI 17,1,CLE,FG
-2,220,1,10:37,,10,1,10,CLE 27,0,CLE,
-2,329,3,07:34,,8,1,56,CHI 17,0,CLE,
-2,263,1,09:47,,10,1,55,CLE 37,0,CLE,
-2,308,2,08:19,,9,1,56,CHI 18,0,CLE,
-15,2724,4,02:00,,4,3,6,CHI 25,0,CHI,PUNT
-15,2600,0,03:40,,0,3,0,CLE 35,0,CLE,KICKOFF
-15,2683,3,02:19,,11,3,6,CHI 18,0,CHI,
-15,2622,1,03:34,,10,3,2,CHI 19,0,CHI,
-15,2666,0,02:19,,0,3,-1,,0,,TIMEOUT
-15,2707,0,02:02,,0,3,6,,0,,TIMEOUT
-15,2647,2,02:51,,8,3,-1,CHI 21,0,CHI,
+20,3611,0,05:41,"R.Gould kicks 65 yards from CHI 35 to end zone, Touchback.",0,4,0,CHI 35,0,CHI,KICKOFF
+20,3718,3,04:29,(4:29) (Shotgun) J.Campbell pass incomplete short left to J.Gordon (T.Jennings).,10,4,12,CLE 32,0,CLE,
+20,3696,2,04:33,(4:33) (Shotgun) J.Campbell pass incomplete short right to D.Bess.,10,4,12,CLE 32,0,CLE,
+20,3626,1,05:41,(5:41) (Shotgun) J.Campbell pass short right to C.Ogbonnaya to CLE 22 for 2 yards (Ja.Anderson).,10,4,2,CLE 20,0,CLE,
+20,3740,4,04:23,"(4:23) (Punt formation) S.Lanning punts 46 yards to CHI 22, Center-C.Yount, downed by CLE-B.Mingo.",10,4,12,CLE 32,0,CLE,PUNT
+20,3650,2,05:07,(5:07) J.Campbell pass short left to C.Ogbonnaya to CLE 32 for 10 yards (J.Bostic).,8,4,12,CLE 22,0,CLE,
+20,3674,1,04:38,(4:38) (Shotgun) J.Campbell pass incomplete deep left to J.Gordon (C.Conte).,10,4,12,CLE 32,0,CLE,
+21,3759,1,04:12,(4:12) M.Forte right guard to CHI 35 for 13 yards (B.Mingo).,10,4,13,CHI 22,0,CHI,
+21,3780,1,03:24,(3:24) M.Forte right guard to CHI 32 for -3 yards (T.Gipson).,10,4,10,CHI 35,0,CHI,
+21,3801,0,03:19,Timeout #2 by CLE at 03:19.,0,4,10,,0,,TIMEOUT
+21,3818,2,03:19,(3:19) (Shotgun) J.Cutler pass short left to E.Bennett to CHI 36 for 4 yards (T.Ward). 62 (Britton) reports as eligile,13,4,14,CHI 32,0,CHI,
+21,3867,3,03:13,(3:13) M.Forte left tackle to CLE 40 for 24 yards (J.Poyer). Pitch-out,9,4,38,CHI 36,0,CHI,
+21,3909,0,02:17,"R.Gould extra point is GOOD, Center-P.Mannelly, Holder-A.Podlesh.",0,4,78,CLE 2,1,CHI,XP
+21,3850,0,03:13,Timeout #3 by CLE at 03:13.,0,4,14,,0,,TIMEOUT
+21,3892,1,03:13,"(3:13) M.Bush right guard for 40 yards, TOUCHDOWN.",10,4,78,CLE 40,1,CHI,TD
+22,4053,1,01:02,"(1:02) (No Huddle, Shotgun) J.Campbell pass deep left to J.Gordon for 43 yards, TOUCHDOWN.",10,4,80,CHI 43,1,CLE,TD
+22,3925,0,02:17,"R.Gould kicks 65 yards from CHI 35 to end zone, Touchback.",0,4,0,CHI 35,0,CHI,KICKOFF
+22,3940,1,02:17,(2:17) (Shotgun) J.Campbell pass short right to D.Bess to CLE 29 for 9 yards (Ja.Anderson).,10,4,9,CLE 20,0,CLE,
+22,4005,1,01:42,"(1:42) (No Huddle, Shotgun) J.Campbell pass short middle to J.Cameron to CLE 47 for 7 yards (J.Bostic).",10,4,27,CLE 40,0,CLE,
+22,4073,0,00:59,"B.Cundiff extra point is GOOD, Center-C.Yount, Holder-S.Lanning.",0,4,80,CHI 2,1,CLE,XP
+22,3981,2,02:00,(2:00) (Shotgun) J.Campbell pass short right to E.Baker to CLE 40 for 11 yards (Ja.Anderson).,1,4,20,CLE 29,0,CLE,
+22,4029,2,01:25,"(1:25) (No Huddle, Shotgun) J.Campbell pass short middle to J.Cameron to CHI 43 for 10 yards (J.Bostic).",3,4,37,CLE 47,0,CLE,
+23,4089,0,00:59,"S.Lanning kicks onside 27 yards from CLE 35 to CHI 38. B.Marshall to CHI 30 for -8 yards (B.Skrine). PENALTY on CLE, Illegal Formation, 5 yards, enforced at CHI 30.",0,4,1,CLE 35,0,CLE,KICKOFF
+23,4127,1,00:59,(:59) J.Cutler kneels to CHI 35 for no gain.,10,4,31,CHI 35,0,CHI,
+23,4148,2,00:59,(:59) J.Cutler kneels to CHI 34 for -1 yards.,10,4,-1,CHI 35,0,CHI,
+23,4169,0,00:00,END GAME,0,4,-1,,0,,
+1,146,3,12:22,(12:22) (Shotgun) J.Cutler pass short right to M.Bennett to CLE 30 for 23 yards (D.Jackson).,7,1,38,CHI 47,0,CHI,
+1,194,1,10:51,(10:51) (Shotgun) J.Cutler pass deep right intended for B.Marshall INTERCEPTED by T.Gipson (T.Ward) [J.Hughes] at CLE -8. T.Gipson to CLE 27 for 35 yards (M.Bennett).,10,1,54,CLE 14,0,CHI,INT
+1,57,1,14:55,(14:55) (Shotgun) M.Forte left tackle to CHI 44 for 12 yards (T.Gipson; J.Haden).,10,1,12,CHI 32,0,CHI,
+1,35,0,15:00,B.Cundiff kicks 72 yards from CLE 35 to CHI -7. D.Hester to CHI 32 for 39 yards (E.Martin).,0,1,0,CLE 35,0,CLE,KICKOFF
+1,99,2,13:34,(13:34) (Shotgun) J.Cutler pass short right to M.Forte to CLE 48 for 4 yards (D.Jackson; T.Ward).,6,1,15,CHI 48,0,CHI,
+1,123,3,12:44,"(12:44) (Shotgun) PENALTY on CHI-J.Cutler, Delay of Game, 5 yards, enforced at CLE 48 - No Play.",2,1,15,CLE 48,0,CHI,PENALTY
+1,170,1,11:38,(11:38) (Shotgun) J.Cutler pass short middle to B.Marshall to CLE 14 for 16 yards (C.Robertson).,10,1,54,CLE 30,0,CHI,
+1,78,1,14:17,(14:17) (Shotgun) M.Forte left guard to CHI 48 for 4 yards (J.Hughes).,10,1,16,CHI 44,0,CHI,
+3,604,1,01:17,(1:17) (Shotgun) M.Forte left guard to CLE 17 for 8 yards (B.Mingo).,10,1,63,CLE 25,0,CHI,
+3,708,3,13:38,(13:38) (Shotgun) J.Cutler pass short right to A.Jeffery to CLE 5 for 4 yards (T.Ward).,8,2,75,CLE 9,0,CHI,
+3,625,2,00:39,(:39) M.Bush right guard to CLE 11 for 6 yards (T.Ward; D.Jackson).,2,1,69,CLE 17,0,CHI,
+3,555,2,02:42,(2:42) (Shotgun) M.Bush right tackle to CLE 43 for -2 yards (B.Winn).,6,1,37,CLE 41,0,CHI,
+3,732,4,12:58,"(12:58) (Field Goal formation) R.Gould 23 yard field goal is GOOD, Center-P.Mannelly, Holder-A.Podlesh.",4,2,75,CLE 5,1,CHI,FG
+3,662,1,15:00,(15:00) (Shotgun) M.Forte right guard to CLE 9 for 2 yards (J.Sheard; I.Kitchen).,10,2,71,CLE 11,0,CHI,
+3,510,3,03:56,(3:56) (Shotgun) J.Cutler pass short right to A.Jeffery to CLE 45 for 8 yards (J.Haden).,4,1,35,CHI 47,0,CHI,
+3,461,1,05:16,(5:16) A.Jeffery left end to CHI 38 for -3 yards (C.Robertson). End around,10,1,18,CHI 41,0,CHI,
+3,416,2,06:41,(6:41) M.Forte left guard to CHI 19 for -1 yards (T.Gipson).,10,1,-1,CHI 20,0,CHI,
+3,576,3,01:59,(1:59) (Shotgun) J.Cutler pass deep middle to B.Marshall to CLE 25 for 18 yards (T.Gipson; A.Bryant).,8,1,55,CLE 43,0,CHI,
+3,391,1,07:26,(7:26) M.Forte right guard to CHI 20 for no gain (D.Jackson). 62 (Britton) reports as eligible,10,1,0,CHI 20,0,CHI,
+3,534,1,03:18,(3:18) (Shotgun) M.Forte left guard to CLE 41 for 4 yards (D.Jackson).,10,1,39,CLE 45,0,CHI,
+3,437,3,06:02,(6:02) (Shotgun) J.Cutler pass deep middle to M.Bennett to CHI 41 for 22 yards (J.Poyer) [D.Jackson].,11,1,21,CHI 19,0,CHI,
+3,370,0,07:26,"B.Cundiff kicks 65 yards from CLE 35 to end zone, Touchback. 29 (McFadden) held the ball",0,1,0,CLE 35,0,CLE,KICKOFF
+3,482,2,04:35,(4:35) (Shotgun) J.Cutler pass short left to B.Marshall to CHI 47 for 9 yards (J.Haden).,13,1,27,CHI 38,0,CHI,
+3,683,2,14:25,(14:25) M.Forte left tackle to CLE 9 for no gain (C.Robertson). 62 (Britton) reports as eligible,8,2,71,CLE 9,0,CHI,
+2,308,2,08:19,(8:19) F.Whittaker right guard to CHI 17 for 1 yard (C.Wootton).,9,1,56,CHI 18,0,CLE,
+2,263,1,09:47,(9:47) (Shotgun) J.Campbell pass short left to G.Little to CHI 19 for 44 yards (M.Wright) [J.Ratliff].,10,1,55,CLE 37,0,CLE,
+2,351,4,07:26,"(7:26) (Field Goal formation) B.Cundiff 35 yard field goal is GOOD, Center-C.Yount, Holder-S.Lanning.",8,1,56,CHI 17,1,CLE,FG
+2,242,2,10:33,(10:33) E.Baker right tackle to CLE 37 for 10 yards (M.Wright).,10,1,10,CLE 27,0,CLE,
+2,329,3,07:34,(7:34) (Shotgun) J.Campbell pass incomplete short right to D.Bess.,8,1,56,CHI 17,0,CLE,
+2,287,1,09:00,(9:00) E.Baker right guard to CHI 18 for 1 yard (J.Peppers; M.Wright).,10,1,55,CHI 19,0,CLE,
+2,220,1,10:37,(10:37) J.Campbell pass incomplete short left to G.Little [J.Ratliff].,10,1,10,CLE 27,0,CLE,
+5,983,3,10:39,(10:39) (Shotgun) J.Cutler pass incomplete short left to M.Forte (P.Kruger). 62 (Britton) reports as eligible,15,2,-5,CHI 35,0,CHI,
+5,938,2,10:50,"(10:50) PENALTY on CHI-M.Bennett, False Start, 5 yards, enforced at CHI 40 - No Play.",10,2,-5,CHI 40,0,CHI,PENALTY
+5,961,2,10:45,(10:45) (Shotgun) J.Cutler pass incomplete deep left to B.Marshall.,15,2,-5,CHI 35,0,CHI,
+5,1009,4,10:34,"(10:34) (Punt formation) A.Podlesh punts 43 yards to CLE 22, Center-P.Mannelly, fair catch by J.Poyer.",15,2,-5,CHI 35,0,CHI,PUNT
+5,912,1,10:50,(10:50) J.Cutler pass incomplete short left to B.Marshall [P.Taylor]. 62 (Britton) reports as eligible,10,2,-5,CHI 40,0,CHI,
+4,855,1,11:31,(11:31) (Shotgun) C.Ogbonnaya right guard to CLE 33 for 5 yards (C.Conte; D.Bass).,10,2,13,CLE 28,0,CLE,
+4,751,0,12:55,"R.Gould kicks 65 yards from CHI 35 to end zone, Touchback.",0,2,0,CHI 35,0,CHI,KICKOFF
+4,790,2,12:16,(12:16) (Shotgun) C.Ogbonnaya left guard to CLE 23 for -1 yards (J.Bostic).,6,2,3,CLE 24,0,CLE,
+4,876,2,10:58,(10:58) (Shotgun) J.Campbell pass deep left intended for J.Cameron INTERCEPTED by Z.Bowman at CHI 40. Z.Bowman to CHI 40 for no gain (J.Cameron).,5,2,13,CLE 33,0,CLE,INT
+4,766,1,12:55,(12:55) (Shotgun) J.Campbell pass short right to C.Ogbonnaya to CLE 24 for 4 yards (J.Bostic).,10,2,4,CLE 20,0,CLE,
+4,811,3,11:35,"(11:35) (Shotgun) J.Campbell pass incomplete short right to J.Cameron. PENALTY on CHI-I.Frey, Defensive Holding, 5 yards, enforced at CLE 23 - No Play.",7,2,8,CLE 23,0,CLE,PENALTY
+7,1128,1,08:56,(8:56) (Shotgun) M.Forte right tackle to CHI 17 for -2 yards (B.Mingo).,10,2,-2,CHI 19,0,CHI,
+7,1149,2,08:14,"(8:14) (Shotgun) J.Cutler pass deep left intended for B.Marshall INTERCEPTED by T.Gipson at CHI 44. T.Gipson for 44 yards, TOUCHDOWN.",12,2,-2,CHI 17,1,CHI,TD
+6,1087,3,09:13,(9:13) (Shotgun) J.Campbell pass incomplete short left.,1,2,9,CLE 31,0,CLE,
+6,1109,4,09:07,"(9:07) (Punt formation) S.Lanning punts 50 yards to CHI 19, Center-C.Yount, downed by CLE-J.Bademosi.",1,2,9,CLE 31,0,CLE,PUNT
+6,1028,1,10:28,(10:28) J.Campbell pass short left to F.Whittaker pushed ob at CLE 27 for 5 yards (T.Jennings).,10,2,5,CLE 22,0,CLE,
+6,1057,2,09:55,(9:55) J.Campbell pass short left to E.Baker to CLE 31 for 4 yards (Ja.Anderson).,5,2,9,CLE 27,0,CLE,
+9,1430,1,04:49,(4:49) E.Baker right guard to CLE 7 for 2 yards (L.Cohen).,10,2,25,CLE 5,0,CLE,
+9,1642,4,01:36,"(1:36) (Punt formation) S.Lanning punts 36 yards to CHI 34, Center-C.Yount, downed by CLE-C.Yount.",14,2,25,CLE 30,0,CLE,PUNT
+9,1583,3,01:56,(1:56) (Shotgun) J.Campbell pass incomplete deep middle to J.Gordon.,4,2,35,CLE 40,0,CLE,
+9,1605,4,01:51,"(1:51) (Punt formation) S.Lanning punts 35 yards to CHI 25, Center-C.Yount, downed by CLE-J.Bademosi. PENALTY on CLE-T.Carder, Offensive Holding, 10 yards, enforced at CLE 40 - No Play.",4,2,25,CLE 40,0,CLE,PENALTY
+9,1520,1,02:09,(2:09) J.Campbell pass short left to G.Little to CLE 40 for 6 yards (M.Wright) [Ja.Anderson].,10,2,35,CLE 34,0,CLE,
+9,1451,2,04:15,(4:15) J.Campbell pass short right to C.Ogbonnaya to CLE 14 for 7 yards (Ja.Anderson).,8,2,9,CLE 7,0,CLE,
+9,1496,1,02:51,(2:51) (Shotgun) J.Campbell pass short right to G.Barnidge to CLE 34 for 17 yards (T.Jennings).,10,2,29,CLE 17,0,CLE,
+9,1475,3,03:30,(3:30) C.Ogbonnaya right guard to CLE 17 for 3 yards (Ja.Anderson).,1,2,12,CLE 14,0,CLE,
+9,1561,2,02:00,(2:00) (Shotgun) J.Campbell pass incomplete short right to J.Cameron (Ja.Anderson) [J.Ratliff].,4,2,25,CLE 40,0,CLE,
+8,1198,0,08:01,B.Cundiff kicks 51 yards from CLE 40 to CHI 9. D.Hester to CHI 49 for 40 yards (B.Cundiff).,0,2,0,CLE 40,0,CLE,KICKOFF
+8,1311,2,05:50,(5:50) (Shotgun) J.Cutler pass incomplete short left to B.Marshall (J.Haden).,8,2,20,CLE 31,0,CHI,
+8,1357,4,05:45,"(5:45) (Run formation) PENALTY on CHI-A.Jeffery, False Start, 5 yards, enforced at CLE 24 - No Play.",1,2,12,CLE 24,0,CHI,PENALTY
+8,1265,2,07:11,(7:11) M.Forte left end to CLE 33 for 15 yards (T.Gipson). Pitch-out,7,2,18,CLE 48,0,CHI,
+8,1241,1,07:51,(7:51) J.Cutler pass short right to M.Bennett to CLE 48 for 3 yards (T.Ward).,10,2,3,CHI 49,0,CHI,
+8,1333,3,05:45,(5:45) (Shotgun) J.Cutler pass short left to A.Jeffery to CLE 24 for 7 yards (J.Poyer).,8,2,27,CLE 31,0,CHI,
+8,1411,4,04:57,"(4:57) (Punt formation) A.Podlesh punts 34 yards to CLE 5, Center-P.Mannelly, downed by CHI-S.McManis.",16,2,12,CLE 39,0,CHI,PUNT
+8,1290,1,06:32,(6:32) M.Forte left guard to CLE 31 for 2 yards (J.Hughes).,10,2,20,CLE 33,0,CHI,
+8,1380,4,05:02,"(5:02) (Field Goal formation) R.Gould 46 yard field goal is GOOD, NULLIFIED by Penalty, Center-P.Mannelly, Holder-A.Podlesh. PENALTY on CHI-C.Wootton, Offensive Holding, 10 yards, enforced at CLE 29 - No Play.",6,2,12,CLE 29,0,CHI,PENALTY
+11,1830,0,00:10,Timeout #1 by CLE at 00:10.,0,2,15,,0,,TIMEOUT
+11,1809,1,00:19,(:19) E.Baker left tackle to CLE 37 for 15 yards (Ja.Anderson).,10,2,15,CLE 22,0,CLE,
+11,1787,0,00:24,R.Gould kicks 66 yards from CHI 35 to CLE -1. F.Whittaker to CLE 22 for 23 yards (B.Costanzo).,0,2,0,CHI 35,0,CHI,KICKOFF
+11,1875,1,00:10,(:10) (Shotgun) J.Campbell pass left to C.Ogbonnaya to CHI 47 for 16 yards (Ja.Anderson).,10,2,31,CLE 37,0,CLE,
+11,1899,0,00:03,Timeout #2 by CLE at 00:03.,0,2,31,,0,,TIMEOUT
+11,1927,0,00:10,Timeout #1 by CHI at 00:10.,0,2,31,,0,,TIMEOUT
+11,1916,1,00:03,(:03) (Shotgun) J.Campbell pass incomplete deep left to J.Cameron.,10,2,31,CHI 47,0,CLE,
+10,1682,1,01:21,"(1:21) (Shotgun) J.Cutler pass deep right to B.Marshall to CLE 13 for 41 yards (J.Haden). Penalty on CLE-J.Haden, Defensive Holding, declined.",10,2,53,CHI 46,0,CHI,
+10,1771,0,00:24,"R.Gould extra point is GOOD, Center-P.Mannelly, Holder-A.Podlesh.",0,2,66,CLE 2,1,CHI,XP
+10,1723,1,01:07,(1:07) (No Huddle) J.Cutler pass short middle to E.Bennett to CLE 5 for 8 yards (B.Skrine).,10,2,61,CLE 13,0,CHI,
+10,1661,1,01:29,(1:29) (Shotgun) J.Cutler scrambles right end ran ob at CHI 46 for 12 yards (T.Ward).,10,2,12,CHI 34,0,CHI,
+10,1751,2,00:29,"(:29) (Shotgun) J.Cutler pass short right to B.Marshall for 5 yards, TOUCHDOWN.",2,2,66,CLE 5,1,CHI,TD
+13,2121,2,13:05,(13:05) J.Campbell pass short left to E.Baker to CLE 32 for 15 yards (K.Greene).,8,3,17,CLE 17,0,CLE,
+13,2323,0,08:20,"B.Cundiff extra point is GOOD, Center-C.Yount, Holder-S.Lanning.",0,3,85,CHI 2,1,CLE,XP
+13,2100,1,13:42,(13:42) E.Baker right guard to CLE 17 for 2 yards (J.Ratliff).,10,3,2,CLE 15,0,CLE,
+13,2209,1,10:59,(10:59) C.Ogbonnaya right guard to CHI 46 for 3 yards (K.Greene).,10,3,39,CHI 49,0,CLE,
+13,2230,2,10:18,(10:18) (Shotgun) J.Campbell pass short left to G.Little to CHI 32 for 14 yards (Ja.Anderson).,7,3,53,CHI 46,0,CLE,
+13,2279,1,09:02,(9:02) (Shotgun) Direct snap to M.Gray.  M.Gray left tackle to CHI 2 for 12 yards (C.Conte).,10,3,83,CHI 14,0,CLE,
+13,2300,1,08:24,"(8:24) E.Baker left guard for 2 yards, TOUCHDOWN. CLE-S.Lauvao was injured during the play. His return is Probable.",2,3,85,CHI 2,1,CLE,TD
+13,2145,1,12:25,(12:25) E.Baker left guard to CLE 34 for 2 yards (C.Conte; K.Greene).,10,3,19,CLE 32,0,CLE,
+13,2078,0,13:48,R.Gould kicks 58 yards from CHI 35 to CLE 7. F.Whittaker to CLE 15 for 8 yards (E.Weems).,0,3,0,CHI 35,0,CHI,KICKOFF
+13,2166,2,11:45,(11:45) J.Campbell pass incomplete deep middle to J.Gordon.,8,3,19,CLE 34,0,CLE,
+13,2188,3,11:40,(11:40) (Shotgun) J.Campbell scrambles left end ran ob at CHI 49 for 17 yards (C.Conte).,8,3,36,CLE 34,0,CLE,
+13,2254,1,09:42,(9:42) (Shotgun) Direct snap to M.Gray.  M.Gray right guard to CHI 14 for 18 yards (M.Wright).,10,3,85,CHI 32,0,CLE,
+12,1965,0,15:00,"R.Gould kicks 48 yards from CHI 35 to CLE 17. F.Whittaker MUFFS catch, ball out of bounds at CLE 22.",0,3,0,CHI 35,0,CHI,KICKOFF
+12,2035,1,13:58,"(13:58) (Shotgun) J.Campbell pass short right intended for G.Little INTERCEPTED by Z.Bowman at CLE 43. Z.Bowman for 43 yards, TOUCHDOWN.",15,3,8,CLE 30,1,CLE,TD
+12,1988,1,14:56,(14:56) J.Campbell pass short left to J.Gordon to CLE 35 for 13 yards (T.Jennings).,10,3,13,CLE 22,0,CLE,
+12,2012,1,14:20,"(14:20) PENALTY on CLE-J.Gordon, False Start, 5 yards, enforced at CLE 35 - No Play.",10,3,8,CLE 35,0,CLE,PENALTY
+15,2622,1,03:34,(3:34) M.Forte right guard to CHI 21 for 2 yards (T.Ward; J.Sheard). 62 (Britton) reports as eligible,10,3,2,CHI 19,0,CHI,
+15,2724,4,02:00,"(2:00) (Punt formation) A.Podlesh punts 33 yards to CLE 42, Center-P.Mannelly, fair catch by J.Poyer.",4,3,6,CHI 25,0,CHI,PUNT
+15,2600,0,03:40,B.Cundiff kicks 72 yards from CLE 35 to CHI -7. D.Hester to CHI 19 for 26 yards (P.Hazel).,0,3,0,CLE 35,0,CLE,KICKOFF
+15,2707,0,02:02,Timeout #1 by CLE at 02:02.,0,3,6,,0,,TIMEOUT
+15,2647,2,02:51,(2:51) (Shotgun) J.Cutler sacked at CHI 18 for -3 yards (sack split by J.Posey and L.McFadden).,8,3,-1,CHI 21,0,CHI,
+15,2666,0,02:19,Timeout #1 by CHI at 02:19.,0,3,-1,,0,,TIMEOUT
+15,2683,3,02:19,(2:19) (Shotgun) J.Cutler pass short middle to E.Bennett to CHI 25 for 7 yards (D.Jackson) [A.Bryant].,11,3,6,CHI 18,0,CHI,
+14,2347,0,08:20,"B.Cundiff kicks 65 yards from CLE 35 to end zone, Touchback.",0,3,0,CLE 35,0,CLE,KICKOFF
+14,2553,3,03:54,"(3:54) (Shotgun) J.Cutler pass short right to M.Bennett to CLE 48 for 6 yards (B.Winn). FUMBLES (B.Winn), RECOVERED by CLE-T.Ward at CLE 49. T.Ward for 51 yards, TOUCHDOWN.",8,3,31,CHI 46,1,CHI,TD
+14,2433,1,06:27,(6:27) M.Forte left guard to CHI 37 for 4 yards (J.Sheard).,10,3,17,CHI 33,0,CHI,
+14,2454,2,05:45,(5:45) M.Forte right guard to CHI 44 for 7 yards (D.Jackson).,6,3,24,CHI 37,0,CHI,
+14,2475,1,05:07,(5:07) M.Forte left guard to CLE 49 for 7 yards (A.Rubin; B.Skrine).,10,3,27,CHI 44,0,CHI,
+14,2496,2,04:22,"(4:22) M.Bush left end to CLE 34 for 15 yards (J.Poyer). CLE-J.Haden was injured during the play. He is Out.  PENALTY on CHI-A.Jeffery, Illegal Shift, 5 yards, enforced at CLE 49 - No Play.",3,3,31,CLE 49,0,CHI,PENALTY
+14,2385,2,07:46,(7:46) (Shotgun) J.Cutler pass short left to B.Marshall to CHI 25 for 6 yards (J.Haden).,11,3,5,CHI 19,0,CHI,
+14,2531,2,03:59,(3:59) (Shotgun) J.Cutler pass incomplete short middle to B.Marshall [P.Kruger].,8,3,26,CHI 46,0,CHI,
+14,2362,1,08:20,(8:20) (Shotgun) J.Cutler sacked at CHI 19 for -1 yards (J.Sheard).,10,3,5,CHI 20,0,CHI,
+14,2409,3,07:03,(7:03) (Shotgun) J.Cutler pass short right to A.Jeffery to CHI 33 for 8 yards (L.McFadden).,5,3,13,CHI 25,0,CHI,
+17,3249,3,11:08,"(11:08) J.Cutler pass deep right to A.Jeffery for 45 yards, TOUCHDOWN. PENALTY on CLE-J.Sheard, Roughing the Passer, 15 yards, enforced between downs.",11,4,95,CLE 45,1,CHI,TD
+17,3202,1,11:56,(11:56) J.Cutler pass incomplete deep middle to B.Marshall (B.Skrine). 62 (Britton) reports as eligible,10,4,51,CLE 44,0,CHI,
+17,3110,1,13:20,(13:20) (Shotgun) J.Cutler pass incomplete short left to M.Forte.,10,4,35,CHI 40,0,CHI,
+17,3136,2,13:16,(13:16) (Shotgun) J.Cutler pass short middle to M.Bennett to CHI 48 for 8 yards (D.Jackson).,10,4,43,CHI 40,0,CHI,
+17,3181,3,12:32,(12:32) M.Forte right guard to CLE 44 for 8 yards (T.Gipson; J.Posey).,2,4,51,CHI 48,0,CHI,
+17,3077,1,13:27,"(13:27) J.Cutler pass incomplete deep left to B.Marshall (B.Skrine). PENALTY on CLE-B.Skrine, Illegal Contact, 5 yards, enforced at CHI 35 - No Play.",10,4,35,CHI 35,0,CHI,PENALTY
+17,3040,1,13:32,"(13:32) (Shotgun) J.Cutler pass incomplete deep right to A.Jeffery [J.Sheard]. PENALTY on CLE-L.McFadden, Defensive Pass Interference, 30 yards, enforced at CHI 5 - No Play. 62 Britton eligble",10,4,30,CHI 5,0,CHI,PENALTY
+17,3285,0,10:59,"R.Gould extra point is GOOD, Center-P.Mannelly, Holder-A.Podlesh.",0,4,95,CLE 2,1,CHI,XP
+17,3160,0,12:32,Timeout #2 by CHI at 12:32.,0,4,43,,0,,TIMEOUT
+17,3228,2,11:49,(11:49) (Shotgun) M.Forte left guard to CLE 45 for -1 yards (P.Taylor).,10,4,50,CLE 44,0,CHI,
+16,2872,3,00:10,(:10) (Shotgun) J.Campbell pass short left to J.Gordon to CHI 33 for 11 yards (T.Jennings).,6,3,25,CHI 44,0,CLE,
+16,2912,1,15:00,(15:00) J.Campbell pass short right to J.Cameron to CHI 27 for 6 yards (Z.Bowman).,10,4,31,CHI 33,0,CLE,
+16,2747,1,01:55,"(1:55) PENALTY on CLE-J.Thomas, False Start, 5 yards, enforced at CLE 42 - No Play.",10,3,-5,CLE 42,0,CLE,PENALTY
+16,2770,1,01:55,(1:55) J.Campbell pass short left to F.Whittaker to CLE 36 for -1 yards (S.Paea; K.Greene).,15,3,-6,CLE 37,0,CLE,
+16,2990,3,13:47,(13:47) (Shotgun) J.Campbell pass incomplete short left to G.Little.,14,4,21,CHI 37,0,CLE,
+16,2818,1,00:37,(:37) E.Baker left tackle to CHI 44 for 4 yards (Ja.Anderson).,10,3,14,CHI 48,0,CLE,
+16,2968,2,13:50,(13:50) J.Campbell pass incomplete short right to J.Gordon.,14,4,21,CHI 37,0,CLE,
+16,2936,2,14:19,"(14:19) C.Ogbonnaya right tackle to CHI 19 for 8 yards (Ja.Anderson). PENALTY on CLE-S.Lauvao, Offensive Holding, 10 yards, enforced at CHI 27 - No Play.",4,4,21,CHI 27,0,CLE,PENALTY
+16,3012,4,13:42,"(13:42) (Punt formation) S.Lanning punts 32 yards to CHI 5, Center-C.Yount, downed by CLE-J.Posey.",14,4,21,CHI 37,0,CLE,PUNT
+16,2839,2,00:16,"(:16) (No Huddle, Shotgun) J.Campbell pass incomplete deep left to J.Gordon.",6,3,14,CHI 44,0,CLE,
+16,2794,2,01:15,(1:15) (Shotgun) J.Campbell pass short right to E.Baker to CHI 48 for 16 yards (Ja.Anderson).,16,3,10,CLE 36,0,CLE,
+19,3476,2,08:26,(8:26) J.Cutler pass short left to M.Bennett to CLE 25 for 10 yards (T.Gipson). 62 (Britton) reports as eligible,9,4,11,CLE 35,0,CHI,
+19,3554,2,06:29,(6:29) M.Forte right guard to CLE 4 for -2 yards (T.Ward).,2,4,32,CLE 2,0,CHI,
+19,3595,0,05:41,"R.Gould extra point is GOOD, Center-P.Mannelly, Holder-A.Podlesh.",0,4,36,CLE 2,1,CHI,XP
+19,3455,1,09:09,(9:09) M.Forte right guard to CLE 35 for 1 yard (C.Robertson).,10,4,1,CLE 36,0,CHI,
+19,3575,3,05:45,"(5:45) (Shotgun) J.Cutler pass short left to E.Bennett for 4 yards, TOUCHDOWN.",4,4,36,CLE 4,1,CHI,TD
+19,3504,1,07:47,(7:47) M.Forte left end to CLE 6 for 19 yards (T.Gipson). CLE-T.Gipson was injured during the play. His return is Probable.  Pitch-out,10,4,30,CLE 25,0,CHI,
+19,3529,1,07:08,(7:08) M.Forte right guard to CLE 2 for 4 yards (T.Ward; D.Jackson).,6,4,34,CLE 6,0,CHI,
+18,3391,3,09:35,(9:35) (Shotgun) J.Campbell pass incomplete short right to J.Gordon.,14,4,-4,CLE 10,0,CLE,
+18,3367,2,10:14,(10:14) (Shotgun) J.Campbell pass short right to G.Little pushed ob at CLE 10 for 4 yards (T.Jennings).,18,4,-4,CLE 6,0,CLE,
+18,3346,1,10:52,(10:52) C.Ogbonnaya right guard to CLE 6 for -3 yards (J.Ratliff).,15,4,-8,CLE 9,0,CLE,
+18,3425,4,09:23,"(9:23) (Punt formation) S.Lanning punts 47 yards to CHI 43, Center-C.Yount. D.Hester ran ob at CLE 36 for 21 yards (S.Lanning).",14,4,-4,CLE 10,0,CLE,PUNT
+18,3323,1,10:56,"(10:56) (Shotgun) PENALTY on CLE-J.Campbell, Delay of Game, 5 yards, enforced at CLE 14 - No Play.",10,4,-8,CLE 14,0,CLE,PENALTY
+18,3301,0,10:59,R.Gould kicks 49 yards from 50 to CLE 1. F.Whittaker to CLE 14 for 13 yards (C.Steltz).,0,4,0,50,0,CHI,KICKOFF

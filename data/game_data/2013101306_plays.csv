@@ -1,171 +1,171 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1517,1,02:00,,10,2,26,50,0,PIT,
-9,1432,0,02:42,,0,2,5,,0,,TIMEOUT
-9,1387,1,04:03,,10,2,2,PIT 35,0,PIT,
-9,1638,3,00:53,,12,2,35,NYJ 41,0,PIT,
-9,1541,1,01:25,,10,2,33,NYJ 39,0,PIT,
-9,1684,4,00:49,,1,2,35,NYJ 30,1,PIT,FG
-9,1667,0,00:49,,0,2,35,,0,,TIMEOUT
-9,1449,3,02:42,,5,2,0,PIT 40,0,PIT,PENALTY
-9,1576,2,00:57,,3,2,29,NYJ 32,0,PIT,
-9,1472,3,02:42,,10,2,15,PIT 35,0,PIT,
-9,1408,2,03:23,,8,2,5,PIT 37,0,PIT,
-9,1608,3,00:57,,7,2,24,NYJ 36,0,PIT,PENALTY
-24,3987,0,,,0,4,9,,0,,
-24,3963,1,00:18,,10,4,9,NYJ 27,0,NYJ,
-10,1726,1,00:40,,10,2,6,NYJ 28,0,NYJ,
-10,1856,2,00:15,,2,2,31,PIT 48,0,NYJ,
-10,1924,1,00:05,,10,2,51,PIT 21,1,NYJ,FG
-10,1764,2,00:31,,4,2,6,NYJ 34,0,NYJ,
-10,1704,0,00:45,,0,2,0,PIT 35,0,PIT,KICKOFF
-10,1747,0,00:31,,0,2,6,,0,,TIMEOUT
-10,1810,0,00:19,,0,2,16,,0,,TIMEOUT
-10,1827,1,00:19,,10,2,24,NYJ 44,0,NYJ,
-10,1897,1,00:11,,10,2,51,PIT 41,0,NYJ,
-10,1880,0,00:11,,0,2,31,,0,,TIMEOUT
-10,1786,3,00:26,,4,2,16,NYJ 34,0,NYJ,
-20,3384,1,07:27,,10,4,12,NYJ 42,0,NYJ,
-20,3360,1,07:52,,10,4,12,NYJ 30,0,NYJ,
-20,3483,4,07:10,,20,4,2,NYJ 32,0,NYJ,PUNT
-20,3461,3,07:15,,20,4,2,NYJ 32,0,NYJ,
-20,3439,2,07:18,,20,4,2,NYJ 32,0,NYJ,
-20,3406,2,07:23,,10,4,2,NYJ 42,0,NYJ,PENALTY
-6,1037,4,10:14,,18,2,5,NYJ 45,0,NYJ,PUNT
-6,930,0,12:07,,0,2,0,PIT 35,0,PIT,KICKOFF
-6,969,1,11:27,,10,2,13,PIT 47,0,NYJ,
-6,997,2,11:20,,10,2,15,PIT 47,0,NYJ,
-6,945,1,12:07,,10,2,13,NYJ 40,0,NYJ,
-6,1018,3,10:41,,8,2,5,PIT 45,0,NYJ,
-18,3097,1,11:37,,10,4,16,NYJ 33,0,NYJ,
-18,3165,2,10:38,,10,4,27,NYJ 47,0,NYJ,
-18,3191,3,10:33,,10,4,27,NYJ 47,0,NYJ,
-18,3213,4,10:29,,10,4,27,NYJ 47,0,NYJ,PUNT
-18,3058,0,12:09,,0,4,0,PIT 35,0,PIT,KICKOFF
-18,3143,1,10:41,,10,4,27,NYJ 47,0,NYJ,
-18,3119,2,11:07,,7,4,27,NYJ 36,0,NYJ,
-18,3073,1,12:09,,10,4,13,NYJ 20,0,NYJ,
-1,103,3,13:36,,4,1,6,PIT 25,0,PIT,
-1,125,4,13:30,,4,1,6,PIT 25,0,PIT,PUNT
-1,58,1,14:55,,10,1,3,PIT 19,0,PIT,
-1,82,2,14:16,,7,1,6,PIT 22,0,PIT,
-1,36,0,15:00,,0,1,0,NYJ 35,0,NYJ,KICKOFF
-5,846,1,14:14,,10,2,46,NYJ 34,0,PIT,
-5,742,2,01:49,,19,1,7,PIT 23,0,PIT,
-5,822,2,15:00,,18,2,46,PIT 35,0,PIT,
-5,665,1,03:25,,10,1,12,PIT 20,0,PIT,
-5,787,1,00:22,,10,1,15,PIT 43,0,PIT,
-5,689,1,02:55,,10,1,13,PIT 32,0,PIT,
-5,886,3,12:53,,13,2,52,NYJ 37,0,PIT,
-5,867,2,13:31,,10,2,43,NYJ 34,0,PIT,
-5,710,2,02:16,,9,1,3,PIT 33,0,PIT,PENALTY
-5,650,0,03:25,,0,1,0,NYJ 35,0,NYJ,KICKOFF
-5,763,3,01:07,,15,1,23,PIT 27,0,PIT,
-5,910,4,12:12,,4,2,52,NYJ 28,1,PIT,FG
-13,2152,1,14:01,,10,3,7,PIT 36,0,PIT,
-13,2173,2,13:21,,3,3,9,PIT 43,0,PIT,
-13,2194,3,12:39,,1,3,64,PIT 45,1,PIT,TD
-13,2214,0,12:30,,0,3,64,NYJ 2,1,PIT,XP
-21,3527,2,06:21,,5,4,7,PIT 35,0,PIT,
-21,3567,4,04:49,,9,4,1,PIT 31,0,PIT,PUNT
-21,3548,3,05:37,,3,4,1,PIT 37,0,PIT,
-21,3506,1,07:02,,10,4,5,PIT 30,0,PIT,
-23,3943,4,00:30,,9,4,15,PIT 41,0,PIT,PUNT
-23,3780,2,02:53,,8,4,8,PIT 28,0,PIT,
-23,3899,3,01:16,,6,4,20,PIT 44,0,PIT,
-23,3878,2,02:00,,8,4,18,PIT 42,0,PIT,
-23,3742,1,02:59,,10,4,2,PIT 26,0,PIT,
-23,3861,0,02:00,,0,4,16,,0,,
-23,3802,0,02:48,,0,4,8,,0,,TIMEOUT
-23,3840,1,02:06,,10,4,16,PIT 40,0,PIT,
-23,3920,4,01:16,,4,4,15,PIT 46,0,PIT,PENALTY
-23,3819,3,02:48,,2,4,14,PIT 34,0,PIT,
-23,3763,0,02:53,,0,4,2,,0,,TIMEOUT
-11,1974,0,00:02,,0,2,0,NYJ 35,0,NYJ,KICKOFF
-14,2230,0,12:30,,0,3,0,PIT 35,0,PIT,KICKOFF
-14,2395,3,08:41,,3,3,53,PIT 27,0,NYJ,
-14,2284,2,11:46,,9,3,30,NYJ 25,0,NYJ,
-14,2308,1,11:04,,10,3,36,PIT 46,0,NYJ,
-14,2374,2,09:21,,5,3,49,PIT 29,0,NYJ,
-14,2353,1,09:58,,10,3,47,PIT 34,0,NYJ,
-14,2329,2,10:30,,4,3,42,PIT 40,0,NYJ,
-14,2416,1,08:01,,10,3,53,PIT 23,0,NYJ,INT
-14,2252,1,12:24,,10,3,1,NYJ 24,0,NYJ,FUMBLE
-8,1348,3,04:40,,7,2,-2,NYJ 23,0,NYJ,
-8,1367,4,04:10,,12,2,-2,NYJ 18,0,NYJ,PUNT
-8,1305,1,05:25,,10,2,3,NYJ 20,0,NYJ,
-8,1326,2,04:48,,7,2,3,NYJ 23,0,NYJ,
-8,1290,0,05:25,,0,2,0,PIT 35,0,PIT,KICKOFF
-19,3310,3,08:48,,7,4,9,PIT 23,0,PIT,
-19,3271,2,09:35,,8,4,3,PIT 22,0,PIT,
-19,3231,1,10:21,,10,4,3,PIT 20,0,PIT,FUMBLE
-19,3334,4,08:04,,1,4,9,PIT 29,0,PIT,PUNT
-19,3292,0,08:49,,0,4,3,,0,,TIMEOUT
-22,3683,1,03:14,,10,4,54,PIT 23,0,NYJ,
-22,3712,1,03:08,,10,4,54,PIT 12,0,NYJ,INT
-22,3637,1,03:54,,10,4,25,NYJ 45,0,NYJ,
-22,3613,2,04:21,,12,4,11,NYJ 32,0,NYJ,
-22,3662,1,03:43,,10,4,43,PIT 41,0,NYJ,
-22,3594,1,04:49,,10,4,-2,NYJ 34,0,NYJ,
-12,2057,2,14:52,,10,3,4,NYJ 26,0,NYJ,
-12,2126,4,14:12,,11,3,-1,NYJ 25,0,NYJ,PUNT
-12,2103,4,14:15,,6,3,-1,NYJ 30,0,NYJ,PENALTY
-12,2081,3,14:15,,6,3,4,NYJ 30,0,NYJ,
-12,2035,1,14:55,,10,3,0,NYJ 26,0,NYJ,
-12,2012,0,15:00,,0,3,0,PIT 35,0,PIT,KICKOFF
-16,2593,2,05:01,,12,3,-4,NYJ 23,0,NYJ,
-16,2636,4,04:22,,14,3,-4,NYJ 21,0,NYJ,PUNT
-16,2569,1,05:36,,10,3,-2,NYJ 25,0,NYJ,
-16,2614,3,04:28,,14,3,-4,NYJ 21,0,NYJ,
-7,1085,1,09:25,,10,2,19,PIT 34,0,PIT,
-7,1270,4,05:28,,7,2,67,NYJ 15,1,PIT,FG
-7,1241,3,05:28,,7,2,67,NYJ 15,0,PIT,
-7,1057,1,10:08,,10,2,16,PIT 18,0,PIT,
-7,1215,2,06:19,,7,2,67,NYJ 15,0,PIT,
-7,1106,2,08:40,,7,2,32,PIT 37,0,PIT,
-7,1170,1,07:32,,10,2,67,NYJ 33,0,PIT,
-7,1194,1,06:59,,10,2,67,NYJ 18,0,PIT,
-7,1130,1,07:58,,10,2,49,50,0,PIT,PENALTY
-3,313,1,10:05,,14,1,-4,PIT 5,0,PIT,
-3,357,3,09:54,,14,1,2,PIT 5,0,PIT,
-3,381,4,09:15,,8,1,2,PIT 11,0,PIT,PUNT
-3,278,1,10:41,,10,1,-4,PIT 9,0,PIT,PENALTY
-3,335,2,09:57,,14,1,-4,PIT 5,0,PIT,
-17,2673,1,04:11,,10,3,3,PIT 21,0,PIT,
-17,2741,1,02:44,,10,3,42,PIT 38,0,PIT,PENALTY
-17,2717,3,03:27,,7,3,17,PIT 24,0,PIT,
-17,3019,3,12:54,,7,4,65,NYJ 7,0,PIT,
-17,2886,3,15:00,,10,4,77,NYJ 12,0,PIT,
-17,2822,1,01:10,,10,3,67,NYJ 12,0,PIT,
-17,2945,2,13:38,,4,4,65,NYJ 4,0,PIT,PENALTY
-17,3038,4,12:12,,14,4,65,NYJ 14,1,PIT,FG
-17,2695,2,03:34,,7,3,3,PIT 24,0,PIT,
-17,2924,1,14:24,,2,4,75,NYJ 2,0,PIT,
-17,2978,2,13:38,,14,4,72,NYJ 14,0,PIT,
-17,2846,2,00:30,,10,3,67,NYJ 12,0,PIT,
-17,2774,1,02:38,,10,3,45,NYJ 37,0,PIT,
-17,2907,0,14:24,,0,4,77,,0,,TIMEOUT
-17,3002,0,12:54,,0,4,72,,0,,TIMEOUT
-17,2798,2,01:55,,7,3,67,NYJ 34,0,PIT,
-4,428,0,08:20,,0,1,10,,0,,TIMEOUT
-4,445,1,08:20,,10,1,20,PIT 35,0,NYJ,
-4,490,2,07:03,,7,1,25,PIT 22,0,NYJ,
-4,630,4,03:29,,6,1,38,PIT 7,1,NYJ,FG
-4,407,1,09:04,,10,1,10,PIT 45,0,NYJ,
-4,535,1,05:45,,10,1,38,PIT 11,0,NYJ,
-4,601,4,04:25,,1,1,38,PIT 2,0,NYJ,PENALTY
-4,469,1,07:43,,10,1,23,PIT 25,0,NYJ,
-4,559,2,05:05,,6,1,43,PIT 7,0,NYJ,
-4,580,3,04:25,,1,1,43,PIT 2,0,NYJ,
-4,511,3,06:29,,5,1,34,PIT 20,0,NYJ,
-2,172,2,12:46,,1,1,12,NYJ 46,0,NYJ,
-2,151,1,13:21,,10,1,9,NYJ 37,0,NYJ,
-2,193,1,12:14,,10,1,13,NYJ 49,0,NYJ,
-2,259,4,10:49,,7,1,15,PIT 48,0,NYJ,PUNT
-2,216,2,11:39,,9,1,15,50,0,NYJ,
-2,237,3,10:57,,7,1,15,PIT 48,0,NYJ,
-15,2443,1,07:52,,10,3,-1,PIT 14,0,PIT,
-15,2528,3,05:51,,7,3,13,PIT 27,0,PIT,
-15,2506,2,05:56,,7,3,13,PIT 27,0,PIT,
-15,2485,1,06:40,,10,3,13,PIT 24,0,PIT,
-15,2464,2,07:09,,11,3,10,PIT 13,0,PIT,
-15,2550,4,05:46,,7,3,13,PIT 27,0,PIT,PUNT
+24,3987,0,,END GAME,0,4,9,,0,,
+24,3963,1,00:18,(:18) (Shotgun) G.Smith pass short middle to J.Kerley to NYJ 36 for 9 yards (L.Timmons).,10,4,9,NYJ 27,0,NYJ,
+20,3439,2,07:18,(7:18) (Shotgun) G.Smith pass incomplete short middle to J.Kerley.,20,4,2,NYJ 32,0,NYJ,
+20,3384,1,07:27,"(7:27) (No Huddle, Shotgun) G.Smith pass incomplete short right to S.Hill.",10,4,12,NYJ 42,0,NYJ,
+20,3461,3,07:15,(7:15) (Shotgun) G.Smith pass incomplete deep middle to J.Kerley (R.Clark) [C.Heyward].,20,4,2,NYJ 32,0,NYJ,
+20,3483,4,07:10,"(7:10) R.Quigley punts 38 yards to PIT 30, Center-T.Purdum, out of bounds.",20,4,2,NYJ 32,0,NYJ,PUNT
+20,3360,1,07:52,(7:52) (Shotgun) G.Smith pass short right to J.Cumberland pushed ob at NYJ 42 for 12 yards (S.Thomas).,10,4,12,NYJ 30,0,NYJ,
+20,3406,2,07:23,"(7:23) (Shotgun) G.Smith pass incomplete short left to T.Bohanon. PENALTY on NYJ-W.Colon, Offensive Holding, 10 yards, enforced at NYJ 42 - No Play.",10,4,2,NYJ 42,0,NYJ,PENALTY
+21,3527,2,06:21,(6:21) L.Bell right tackle to PIT 37 for 2 yards (D.Walls).,5,4,7,PIT 35,0,PIT,
+21,3548,3,05:37,(5:37) B.Roethlisberger sacked at PIT 31 for -6 yards (M.Wilkerson).,3,4,1,PIT 37,0,PIT,
+21,3567,4,04:49,"(4:49) Z.Mesko punts 46 yards to NYJ 23, Center-G.Warren. J.Kerley to NYJ 34 for 11 yards (W.Johnson).",9,4,1,PIT 31,0,PIT,PUNT
+21,3506,1,07:02,(7:02) L.Bell right end to PIT 35 for 5 yards (D.Harris).,10,4,5,PIT 30,0,PIT,
+22,3613,2,04:21,"(4:21) (No Huddle, Shotgun) G.Smith pass short right to S.Hill to NYJ 45 for 13 yards (I.Taylor).",12,4,11,NYJ 32,0,NYJ,
+22,3712,1,03:08,(3:08) (Shotgun) G.Smith pass short left intended for S.Hill INTERCEPTED by L.Timmons [J.Jones] at PIT 3. L.Timmons to PIT 26 for 23 yards (M.Goodson). NYJ-M.Goodson was injured during the play.,10,4,54,PIT 12,0,NYJ,INT
+22,3683,1,03:14,"(3:14) (No Huddle, Shotgun) G.Smith pass short left to D.Nelson pushed ob at PIT 12 for 11 yards (W.Gay) [L.Woodley].",10,4,54,PIT 23,0,NYJ,
+22,3637,1,03:54,"(3:54) (No Huddle, Shotgun) G.Smith pass short left to J.Cumberland pushed ob at PIT 41 for 14 yards (R.Clark).",10,4,25,NYJ 45,0,NYJ,
+22,3662,1,03:43,(3:43) (Shotgun) M.Goodson left end to PIT 23 for 18 yards (R.Clark; S.Thomas).,10,4,43,PIT 41,0,NYJ,
+22,3594,1,04:49,(4:49) (Shotgun) G.Smith sacked at NYJ 32 for -2 yards (E.Hood).,10,4,-2,NYJ 34,0,NYJ,
+23,3878,2,02:00,(2:00) J.Dwyer right guard to PIT 44 for 2 yards (D.Davis; D.Harris).,8,4,18,PIT 42,0,PIT,
+23,3780,2,02:53,(2:53) L.Bell right guard to PIT 34 for 6 yards (D.Davis).,8,4,8,PIT 28,0,PIT,
+23,3763,0,02:53,Timeout #2 by NYJ at 02:53.,0,4,2,,0,,TIMEOUT
+23,3861,0,02:00,Two-Minute Warning,0,4,16,,0,,
+23,3819,3,02:48,(2:48) J.Dwyer up the middle to PIT 40 for 6 yards (S.Richardson; D.Harris).,2,4,14,PIT 34,0,PIT,
+23,3742,1,02:59,(2:59) L.Bell right tackle to PIT 28 for 2 yards (D.Harrison).,10,4,2,PIT 26,0,PIT,
+23,3920,4,01:16,"(1:16) (Punt formation) PENALTY on PIT-Z.Mesko, Delay of Game, 5 yards, enforced at PIT 46 - No Play.",4,4,15,PIT 46,0,PIT,PENALTY
+23,3802,0,02:48,Timeout #3 by NYJ at 02:48.,0,4,8,,0,,TIMEOUT
+23,3840,1,02:06,(2:06) F.Jones up the middle to PIT 42 for 2 yards (K.Ellis).,10,4,16,PIT 40,0,PIT,
+23,3899,3,01:16,(1:16) J.Dwyer right guard to PIT 46 for 2 yards (C.Pace; K.Ellis).,6,4,20,PIT 44,0,PIT,
+23,3943,4,00:30,"(:30) Z.Mesko punts 32 yards to NYJ 27, Center-G.Warren, downed by PIT-A.Blake.",9,4,15,PIT 41,0,PIT,PUNT
+1,82,2,14:16,(14:16) L.Bell left guard to PIT 25 for 3 yards (D.Harrison).,7,1,6,PIT 22,0,PIT,
+1,103,3,13:36,(13:36) (Shotgun) B.Roethlisberger pass incomplete short right to A.Brown.,4,1,6,PIT 25,0,PIT,
+1,36,0,15:00,N.Folk kicks 69 yards from NYJ 35 to PIT -4. F.Jones to PIT 19 for 23 yards (I.Trufant; N.Bellore).,0,1,0,NYJ 35,0,NYJ,KICKOFF
+1,125,4,13:30,"(13:30) Z.Mesko punts 47 yards to NYJ 28, Center-G.Warren. J.Kerley to NYJ 37 for 9 yards (T.Garvin).",4,1,6,PIT 25,0,PIT,PUNT
+1,58,1,14:55,(14:55) B.Roethlisberger pass short right to A.Brown to PIT 22 for 3 yards (A.Cromartie).,10,1,3,PIT 19,0,PIT,
+3,278,1,10:41,"(10:41) B.Roethlisberger pass short right to L.Bell to PIT 13 for 4 yards (D.Harrison; D.Davis). PENALTY on PIT-M.Gilbert, Offensive Holding, 4 yards, enforced at PIT 9 - No Play.",10,1,-4,PIT 9,0,PIT,PENALTY
+3,313,1,10:05,(10:05) B.Roethlisberger pass incomplete deep left to E.Sanders [S.Richardson].,14,1,-4,PIT 5,0,PIT,
+3,357,3,09:54,(9:54) (Shotgun) B.Roethlisberger pass short left to H.Miller to PIT 11 for 6 yards (S.Richardson).,14,1,2,PIT 5,0,PIT,
+3,335,2,09:57,(9:57) B.Roethlisberger pass incomplete short right to E.Sanders.,14,1,-4,PIT 5,0,PIT,
+3,381,4,09:15,"(9:15) Z.Mesko punts 47 yards to NYJ 42, Center-G.Warren. J.Kerley pushed ob at PIT 45 for 13 yards (J.Worilds).",8,1,2,PIT 11,0,PIT,PUNT
+2,151,1,13:21,(13:21) (Shotgun) G.Smith left end to NYJ 46 for 9 yards (T.Polamalu).,10,1,9,NYJ 37,0,NYJ,
+2,216,2,11:39,(11:39) B.Powell right tackle to PIT 48 for 2 yards (B.Keisel).,9,1,15,50,0,NYJ,
+2,193,1,12:14,"(12:14) Direct snap to B.Powell.  B.Powell left tackle to 50 for 1 yard (R.Clark, L.Timmons).",10,1,13,NYJ 49,0,NYJ,
+2,259,4,10:49,"(10:49) R.Quigley punts 39 yards to PIT 9, Center-T.Purdum, out of bounds.",7,1,15,PIT 48,0,NYJ,PUNT
+2,237,3,10:57,(10:57) (Shotgun) G.Smith pass incomplete deep right to J.Kerley.,7,1,15,PIT 48,0,NYJ,
+2,172,2,12:46,(12:46) (Shotgun) B.Powell left tackle to NYJ 49 for 3 yards (B.Keisel).,1,1,12,NYJ 46,0,NYJ,
+5,846,1,14:14,(14:14) L.Bell left tackle to NYJ 34 for no gain (D.Harris).,10,2,46,NYJ 34,0,PIT,
+5,742,2,01:49,(1:49) (Shotgun) L.Bell right end to PIT 27 for 4 yards (D.Davis).,19,1,7,PIT 23,0,PIT,
+5,787,1,00:22,(:22) B.Roethlisberger sacked at PIT 35 for -8 yards (G.McIntyre).,10,1,15,PIT 43,0,PIT,
+5,886,3,12:53,(12:53) (Shotgun) B.Roethlisberger pass short left to A.Brown to NYJ 28 for 9 yards (D.Walls).,13,2,52,NYJ 37,0,PIT,
+5,763,3,01:07,(1:07) (Shotgun) B.Roethlisberger pass short left to A.Brown to PIT 43 for 16 yards (D.Landry; A.Allen).,15,1,23,PIT 27,0,PIT,
+5,665,1,03:25,(3:25) B.Roethlisberger pass short right to L.Bell pushed ob at PIT 32 for 12 yards (D.Landry).,10,1,12,PIT 20,0,PIT,
+5,867,2,13:31,(13:31) (Shotgun) B.Roethlisberger sacked at NYJ 37 for -3 yards (sack split by L.Douzable and C.Pace).,10,2,43,NYJ 34,0,PIT,
+5,710,2,02:16,"(2:16) L.Bell left tackle to PIT 37 for 4 yards. PENALTY on PIT-K.Beachum, Offensive Holding, 10 yards, enforced at PIT 33 - No Play.",9,1,3,PIT 33,0,PIT,PENALTY
+5,689,1,02:55,(2:55) L.Bell right end to PIT 33 for 1 yard (A.Allen; D.Harrison).,10,1,13,PIT 32,0,PIT,
+5,650,0,03:25,"N.Folk kicks 65 yards from NYJ 35 to end zone, Touchback.",0,1,0,NYJ 35,0,NYJ,KICKOFF
+5,910,4,12:12,"(12:12) S.Suisham 46 yard field goal is GOOD, Center-G.Warren, Holder-Z.Mesko.",4,2,52,NYJ 28,1,PIT,FG
+5,822,2,15:00,(15:00) B.Roethlisberger pass deep right to H.Miller to NYJ 34 for 31 yards (D.Walls).,18,2,46,PIT 35,0,PIT,
+4,630,4,03:29,"(3:29) N.Folk 25 yard field goal is GOOD, Center-T.Purdum, Holder-R.Quigley.",6,1,38,PIT 7,1,NYJ,FG
+4,469,1,07:43,(7:43) C.Ivory up the middle to PIT 22 for 3 yards (V.Williams).,10,1,23,PIT 25,0,NYJ,
+4,580,3,04:25,(4:25) B.Powell up the middle to PIT 2 for no gain (C.Heyward; B.Keisel).,1,1,43,PIT 2,0,NYJ,
+4,445,1,08:20,(8:20) (Shotgun) G.Smith pass short right to M.Goodson pushed ob at PIT 25 for 10 yards (R.Clark).,10,1,20,PIT 35,0,NYJ,
+4,407,1,09:04,(9:04) B.Powell left tackle to PIT 35 for 10 yards (V.Williams).,10,1,10,PIT 45,0,NYJ,
+4,428,0,08:20,Timeout #1 by NYJ at 08:20.,0,1,10,,0,,TIMEOUT
+4,535,1,05:45,(5:45) G.Smith pass short right to J.Cumberland to PIT 7 for 4 yards (W.Gay; L.Woodley).,10,1,38,PIT 11,0,NYJ,
+4,511,3,06:29,(6:29) (Shotgun) G.Smith pass short left to B.Powell to PIT 11 for 9 yards (R.Clark; I.Taylor).,5,1,34,PIT 20,0,NYJ,
+4,559,2,05:05,(5:05) (Shotgun) B.Powell up the middle to PIT 2 for 5 yards (R.Clark; T.Polamalu).,6,1,43,PIT 7,0,NYJ,
+4,601,4,04:25,"(4:25) (Field Goal formation) PENALTY on NYJ-R.Quigley, Delay of Game, 5 yards, enforced at PIT 2 - No Play.",1,1,38,PIT 2,0,NYJ,PENALTY
+4,490,2,07:03,(7:03) B.Powell right guard to PIT 20 for 2 yards (J.Jones).,7,1,25,PIT 22,0,NYJ,
+7,1241,3,05:28,(5:28) (Shotgun) B.Roethlisberger pass incomplete short right to A.Brown [Q.Coples].,7,2,67,NYJ 15,0,PIT,
+7,1085,1,09:25,(9:25) F.Jones left tackle to PIT 37 for 3 yards (G.McIntyre; D.Landry).,10,2,19,PIT 34,0,PIT,
+7,1057,1,10:08,(10:08) B.Roethlisberger pass short right to H.Miller to PIT 34 for 16 yards (G.McIntyre).,10,2,16,PIT 18,0,PIT,
+7,1215,2,06:19,(6:19) L.Bell right end to NYJ 15 for no gain (K.Wilson).,7,2,67,NYJ 15,0,PIT,
+7,1170,1,07:32,(7:32) A.Brown pass short left to F.Jones pushed ob at NYJ 18 for 15 yards (D.Landry).,10,2,67,NYJ 33,0,PIT,
+7,1270,4,05:28,"(5:28) S.Suisham 33 yard field goal is GOOD, Center-G.Warren, Holder-Z.Mesko.",7,2,67,NYJ 15,1,PIT,FG
+7,1130,1,07:58,"(7:58) B.Roethlisberger pass short right to W.Johnson pushed ob at NYJ 48 for 2 yards (C.Pace). PENALTY on NYJ, Horse Collar Tackle, 15 yards, enforced at NYJ 48.",10,2,49,50,0,PIT,PENALTY
+7,1194,1,06:59,(6:59) (Shotgun) L.Bell left tackle to NYJ 15 for 3 yards (G.McIntyre; D.Landry).,10,2,67,NYJ 18,0,PIT,
+7,1106,2,08:40,(8:40) B.Roethlisberger pass short right to E.Sanders to 50 for 13 yards (A.Allen; D.Harris).,7,2,32,PIT 37,0,PIT,
+6,997,2,11:20,(11:20) M.Goodson left end to PIT 45 for 2 yards (V.Williams; L.Timmons).,10,2,15,PIT 47,0,NYJ,
+6,945,1,12:07,(12:07) G.Smith pass short left to B.Powell pushed ob at PIT 47 for 13 yards (V.Williams).,10,2,13,NYJ 40,0,NYJ,
+6,969,1,11:27,(11:27) (Shotgun) G.Smith pass incomplete deep right to J.Cumberland.,10,2,13,PIT 47,0,NYJ,
+6,1018,3,10:41,(10:41) G.Smith sacked at NYJ 45 for -10 yards (J.Worilds).,8,2,5,PIT 45,0,NYJ,
+6,930,0,12:07,"S.Suisham kicks 25 yards from PIT 35 to NYJ 40, out of bounds.",0,2,0,PIT 35,0,PIT,KICKOFF
+6,1037,4,10:14,"(10:14) R.Quigley punts 37 yards to PIT 18, Center-T.Purdum, fair catch by A.Brown.",18,2,5,NYJ 45,0,NYJ,PUNT
+9,1608,3,00:57,"(:57) (Shotgun) PENALTY on PIT-K.Beachum, False Start, 5 yards, enforced at NYJ 36 - No Play.",7,2,24,NYJ 36,0,PIT,PENALTY
+9,1432,0,02:42,Timeout #1 by PIT at 02:42.,0,2,5,,0,,TIMEOUT
+9,1541,1,01:25,(1:25) B.Roethlisberger pass short left to A.Brown to NYJ 32 for 7 yards (D.Harris).,10,2,33,NYJ 39,0,PIT,
+9,1638,3,00:53,(:53) (Shotgun) B.Roethlisberger pass short right to A.Brown pushed ob at NYJ 30 for 11 yards (I.Trufant).,12,2,35,NYJ 41,0,PIT,
+9,1472,3,02:42,(2:42) (Shotgun) B.Roethlisberger pass short right to A.Brown to 50 for 15 yards (A.Cromartie) [M.Wilkerson].,10,2,15,PIT 35,0,PIT,
+9,1408,2,03:23,(3:23) B.Roethlisberger pass short right to H.Miller to PIT 40 for 3 yards (I.Trufant).,8,2,5,PIT 37,0,PIT,
+9,1684,4,00:49,"(:49) S.Suisham 48 yard field goal is GOOD, Center-G.Warren, Holder-Z.Mesko.",1,2,35,NYJ 30,1,PIT,FG
+9,1667,0,00:49,Timeout #2 by PIT at 00:49.,0,2,35,,0,,TIMEOUT
+9,1517,1,02:00,(2:00) (Shotgun) B.Roethlisberger pass short middle to A.Brown to NYJ 39 for 11 yards (I.Trufant).,10,2,26,50,0,PIT,
+9,1387,1,04:03,(4:03) L.Bell right end to PIT 37 for 2 yards (D.Harris).,10,2,2,PIT 35,0,PIT,
+9,1576,2,00:57,"(:57) (Shotgun) L.Bell up the middle to NYJ 36 for -4 yards (S.Richardson). Penalty on PIT, Illegal Formation, declined.",3,2,29,NYJ 32,0,PIT,
+9,1449,3,02:42,"(2:42) (Shotgun) PENALTY on PIT-M.Gilbert, False Start, 5 yards, enforced at PIT 40 - No Play.",5,2,0,PIT 40,0,PIT,PENALTY
+8,1348,3,04:40,(4:40) (Shotgun) G.Smith sacked at NYJ 18 for -5 yards (L.Woodley).,7,2,-2,NYJ 23,0,NYJ,
+8,1305,1,05:25,(5:25) (Shotgun) B.Powell right tackle to NYJ 23 for 3 yards (L.Woodley; L.Timmons).,10,2,3,NYJ 20,0,NYJ,
+8,1290,0,05:25,"S.Suisham kicks 65 yards from PIT 35 to end zone, Touchback.",0,2,0,PIT 35,0,PIT,KICKOFF
+8,1326,2,04:48,(4:48) (Shotgun) G.Smith pass incomplete deep middle to S.Hill.,7,2,3,NYJ 23,0,NYJ,
+8,1367,4,04:10,"(4:10) R.Quigley punts 47 yards to PIT 35, Center-T.Purdum, fair catch by A.Brown.",12,2,-2,NYJ 18,0,NYJ,PUNT
+11,1974,0,00:02,N.Folk kicks 35 yards from NYJ 35 to PIT 30. M.Palmer to PIT 35 for 5 yards (R.Sapp).,0,2,0,NYJ 35,0,NYJ,KICKOFF
+10,1897,1,00:11,"(:11) (Shotgun) G.Smith pass deep right to S.Hill pushed ob at PIT 21 for 20 yards (T.Polamalu). NYJ-S.Hill was injured during the play.  The Replay Assistant challenged the pass completion ruling, and the play was Upheld.",10,2,51,PIT 41,0,NYJ,
+10,1810,0,00:19,Timeout #3 by NYJ at 00:19.,0,2,16,,0,,TIMEOUT
+10,1726,1,00:40,(:40) (Shotgun) M.Goodson left guard to NYJ 34 for 6 yards (C.Heyward).,10,2,6,NYJ 28,0,NYJ,
+10,1827,1,00:19,(:19) (Shotgun) G.Smith pass short left to E.Gates pushed ob at PIT 48 for 8 yards (W.Gay).,10,2,24,NYJ 44,0,NYJ,
+10,1786,3,00:26,(:26) (Shotgun) G.Smith pass short middle to J.Kerley to NYJ 44 for 10 yards (T.Polamalu).,4,2,16,NYJ 34,0,NYJ,
+10,1924,1,00:05,"(:05) N.Folk 39 yard field goal is GOOD, Center-T.Purdum, Holder-R.Quigley.",10,2,51,PIT 21,1,NYJ,FG
+10,1856,2,00:15,(:15) (Shotgun) G.Smith pass short right to E.Gates ran ob at PIT 41 for 7 yards.,2,2,31,PIT 48,0,NYJ,
+10,1704,0,00:45,S.Suisham kicks 52 yards from PIT 35 to NYJ 13. T.Bohanon to NYJ 28 for 15 yards (R.Golden; S.Sylvester).,0,2,0,PIT 35,0,PIT,KICKOFF
+10,1747,0,00:31,Timeout #2 by NYJ at 00:31.,0,2,6,,0,,TIMEOUT
+10,1764,2,00:31,(:31) (Shotgun) G.Smith pass incomplete deep left to E.Gates.,4,2,6,NYJ 34,0,NYJ,
+10,1880,0,00:11,Timeout #3 by PIT at 00:11.,0,2,31,,0,,TIMEOUT
+13,2173,2,13:21,(13:21) L.Bell left tackle to PIT 45 for 2 yards (M.Wilkerson).,3,3,9,PIT 43,0,PIT,
+13,2194,3,12:39,"(12:39) B.Roethlisberger pass deep right to E.Sanders for 55 yards, TOUCHDOWN.",1,3,64,PIT 45,1,PIT,TD
+13,2152,1,14:01,(14:01) L.Bell right guard to PIT 43 for 7 yards (S.Richardson).,10,3,7,PIT 36,0,PIT,
+13,2214,0,12:30,"S.Suisham extra point is GOOD, Center-G.Warren, Holder-Z.Mesko.",0,3,64,NYJ 2,1,PIT,XP
+12,2057,2,14:52,(14:52) (Shotgun) G.Smith pass short left to E.Gates to NYJ 30 for 4 yards (S.Thomas; L.Timmons).,10,3,4,NYJ 26,0,NYJ,
+12,2126,4,14:12,"(14:12) R.Quigley punts 50 yards to PIT 25, Center-T.Purdum. A.Brown to PIT 36 for 11 yards (N.Bellore).",11,3,-1,NYJ 25,0,NYJ,PUNT
+12,2081,3,14:15,(14:15) (Shotgun) G.Smith pass incomplete short left to S.Hill.,6,3,4,NYJ 30,0,NYJ,
+12,2035,1,14:55,(14:55) G.Smith pass incomplete short left to J.Kerley.,10,3,0,NYJ 26,0,NYJ,
+12,2103,4,14:15,"(14:15) (Punt formation) PENALTY on NYJ-K.Reuland, False Start, 5 yards, enforced at NYJ 30 - No Play.",6,3,-1,NYJ 30,0,NYJ,PENALTY
+12,2012,0,15:00,S.Suisham kicks 72 yards from PIT 35 to NYJ -7. E.Gates to NYJ 26 for 33 yards (S.Suisham).,0,3,0,PIT 35,0,PIT,KICKOFF
+15,2464,2,07:09,(7:09) F.Jones left end pushed ob at PIT 24 for 11 yards (D.Landry).,11,3,10,PIT 13,0,PIT,
+15,2443,1,07:52,(7:52) F.Jones up the middle to PIT 13 for -1 yards (D.Landry).,10,3,-1,PIT 14,0,PIT,
+15,2485,1,06:40,(6:40) F.Jones right tackle to PIT 27 for 3 yards (D.Harrison).,10,3,13,PIT 24,0,PIT,
+15,2528,3,05:51,(5:51) (Shotgun) B.Roethlisberger pass incomplete deep right to E.Sanders.,7,3,13,PIT 27,0,PIT,
+15,2506,2,05:56,(5:56) B.Roethlisberger pass incomplete short right to H.Miller (C.Pace).,7,3,13,PIT 27,0,PIT,
+15,2550,4,05:46,"(5:46) Z.Mesko punts 48 yards to NYJ 25, Center-G.Warren, out of bounds.",7,3,13,PIT 27,0,PIT,PUNT
+14,2308,1,11:04,(11:04) C.Ivory right tackle to PIT 40 for 6 yards (T.Polamalu).,10,3,36,PIT 46,0,NYJ,
+14,2230,0,12:30,S.Suisham kicks 64 yards from PIT 35 to NYJ 1. E.Gates to NYJ 24 for 23 yards (S.Sylvester; R.Golden).,0,3,0,PIT 35,0,PIT,KICKOFF
+14,2329,2,10:30,(10:30) G.Smith pass short left to E.Gates pushed ob at PIT 34 for 6 yards (C.Allen).,4,3,42,PIT 40,0,NYJ,
+14,2284,2,11:46,(11:46) G.Smith pass deep right to J.Cumberland to PIT 46 for 29 yards (R.Clark).,9,3,30,NYJ 25,0,NYJ,
+14,2395,3,08:41,(8:41) (Shotgun) B.Powell right tackle to PIT 23 for 4 yards (J.Worilds).,3,3,53,PIT 27,0,NYJ,
+14,2416,1,08:01,(8:01) G.Smith pass deep right intended for K.Reuland INTERCEPTED by R.Clark at PIT 1. R.Clark to PIT 14 for 13 yards (K.Reuland).,10,3,53,PIT 23,0,NYJ,INT
+14,2374,2,09:21,(9:21) C.Ivory right tackle to PIT 27 for 2 yards (J.Worilds; L.Timmons).,5,3,49,PIT 29,0,NYJ,
+14,2353,1,09:58,(9:58) C.Ivory right tackle to PIT 29 for 5 yards (R.Clark).,10,3,47,PIT 34,0,NYJ,
+14,2252,1,12:24,"(12:24) (Shotgun) G.Smith left tackle to NYJ 25 for 1 yard (J.Worilds). FUMBLES (J.Worilds), and recovers at NYJ 25. G.Smith to NYJ 25 for no gain (J.Worilds).",10,3,1,NYJ 24,0,NYJ,FUMBLE
+17,2978,2,13:38,(13:38) (Shotgun) B.Roethlisberger pass short left to L.Bell to NYJ 7 for 7 yards (D.Davis).,14,4,72,NYJ 14,0,PIT,
+17,3019,3,12:54,(12:54) A.Brown sacked at NYJ 14 for -7 yards (D.Harris).,7,4,65,NYJ 7,0,PIT,
+17,2886,3,15:00,(15:00) (Shotgun) B.Roethlisberger scrambles left tackle to NYJ 2 for 10 yards (I.Trufant; D.Harris).,10,4,77,NYJ 12,0,PIT,
+17,2717,3,03:27,(3:27) (Shotgun) B.Roethlisberger pass short middle to A.Brown to PIT 38 for 14 yards (I.Trufant).,7,3,17,PIT 24,0,PIT,
+17,2846,2,00:30,(:30) B.Roethlisberger pass short right to W.Johnson to NYJ 12 for no gain (D.Davis).,10,3,67,NYJ 12,0,PIT,
+17,2774,1,02:38,(2:38) (Shotgun) B.Roethlisberger pass short right to L.Bell to NYJ 34 for 3 yards (G.McIntyre).,10,3,45,NYJ 37,0,PIT,
+17,2673,1,04:11,(4:11) L.Bell up the middle to PIT 24 for 3 yards (D.Davis).,10,3,3,PIT 21,0,PIT,
+17,2924,1,14:24,(14:24) L.Bell left tackle to NYJ 4 for -2 yards (D.Harrison).,2,4,75,NYJ 2,0,PIT,
+17,2741,1,02:44,"(2:44) B.Roethlisberger pass incomplete deep right to A.Brown. PENALTY on NYJ-A.Cromartie, Defensive Pass Interference, 25 yards, enforced at PIT 38 - No Play.",10,3,42,PIT 38,0,PIT,PENALTY
+17,3038,4,12:12,"(12:12) S.Suisham 32 yard field goal is GOOD, Center-G.Warren, Holder-Z.Mesko.",14,4,65,NYJ 14,1,PIT,FG
+17,2798,2,01:55,(1:55) B.Roethlisberger pass short middle to H.Miller to NYJ 12 for 22 yards (D.Landry).,7,3,67,NYJ 34,0,PIT,
+17,3002,0,12:54,Timeout #1 by PIT at 12:54.,0,4,72,,0,,TIMEOUT
+17,2907,0,14:24,Timeout #1 by NYJ at 14:24.,0,4,77,,0,,TIMEOUT
+17,2695,2,03:34,(3:34) B.Roethlisberger pass incomplete deep right to W.Johnson.,7,3,3,PIT 24,0,PIT,
+17,2945,2,13:38,"(13:38) B.Roethlisberger pass incomplete short right to H.Miller. PENALTY on PIT-K.Beachum, Offensive Holding, 10 yards, enforced at NYJ 4 - No Play.",4,4,65,NYJ 4,0,PIT,PENALTY
+17,2822,1,01:10,(1:10) B.Roethlisberger pass short right to A.Brown to NYJ 12 for no gain (A.Allen).,10,3,67,NYJ 12,0,PIT,
+16,2569,1,05:36,(5:36) G.Smith pass short right to B.Powell to NYJ 23 for -2 yards (V.Williams).,10,3,-2,NYJ 25,0,NYJ,
+16,2614,3,04:28,(4:28) (Shotgun) G.Smith pass incomplete short right to S.Hill.,14,3,-4,NYJ 21,0,NYJ,
+16,2636,4,04:22,"(4:22) R.Quigley punts 48 yards to PIT 31, Center-T.Purdum. A.Brown to PIT 37 for 6 yards (J.Jarrett). PENALTY on PIT, Illegal Block Above the Waist, 10 yards, enforced at PIT 31.",14,3,-4,NYJ 21,0,NYJ,PUNT
+16,2593,2,05:01,(5:01) (Shotgun) G.Smith right tackle to NYJ 21 for -2 yards (C.Allen).,12,3,-4,NYJ 23,0,NYJ,
+19,3310,3,08:48,(8:48) (Shotgun) B.Roethlisberger pass short right to H.Miller to PIT 29 for 6 yards (D.Harris).,7,4,9,PIT 23,0,PIT,
+19,3334,4,08:04,"(8:04) Z.Mesko punts 53 yards to NYJ 18, Center-G.Warren. J.Kerley to NYJ 30 for 12 yards (M.Palmer).",1,4,9,PIT 29,0,PIT,PUNT
+19,3231,1,10:21,"(10:21) B.Roethlisberger pass short right to E.Sanders to PIT 22 for 2 yards (S.Richardson). FUMBLES (S.Richardson), and recovers at PIT 22. E.Sanders to PIT 22 for no gain (S.Richardson).",10,4,3,PIT 20,0,PIT,FUMBLE
+19,3292,0,08:49,Timeout #2 by PIT at 08:49.,0,4,3,,0,,TIMEOUT
+19,3271,2,09:35,(9:35) B.Roethlisberger scrambles left end to PIT 23 for 1 yard.,8,4,3,PIT 22,0,PIT,
+18,3143,1,10:41,"(10:41) (No Huddle, Shotgun) G.Smith pass incomplete short left to E.Gates. NYJ-E.Gates was injured during the play.",10,4,27,NYJ 47,0,NYJ,
+18,3191,3,10:33,(10:33) (Shotgun) G.Smith pass incomplete deep middle to K.Reuland.,10,4,27,NYJ 47,0,NYJ,
+18,3119,2,11:07,(11:07) (Shotgun) G.Smith pass short left to E.Gates ran ob at NYJ 47 for 11 yards.,7,4,27,NYJ 36,0,NYJ,
+18,3213,4,10:29,"(10:29) R.Quigley punts 53 yards to end zone, Center-T.Purdum, Touchback.",10,4,27,NYJ 47,0,NYJ,PUNT
+18,3073,1,12:09,(12:09) (Shotgun) G.Smith pass short middle to S.Hill to NYJ 33 for 13 yards (J.Jones).,10,4,13,NYJ 20,0,NYJ,
+18,3097,1,11:37,"(11:37) (No Huddle, Shotgun) M.Goodson up the middle to NYJ 36 for 3 yards (L.Woodley).",10,4,16,NYJ 33,0,NYJ,
+18,3058,0,12:09,"S.Suisham kicks 65 yards from PIT 35 to end zone, Touchback.",0,4,0,PIT 35,0,PIT,KICKOFF
+18,3165,2,10:38,(10:38) (Shotgun) G.Smith pass incomplete deep right to J.Kerley.,10,4,27,NYJ 47,0,NYJ,

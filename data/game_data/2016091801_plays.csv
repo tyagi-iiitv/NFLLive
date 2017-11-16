@@ -1,181 +1,181 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1511,1,07:14,,10,2,4,CLE 10,0,CLE,
-9,1532,2,06:33,,6,2,8,CLE 14,0,CLE,
-9,1584,1,05:18,,10,2,17,CLE 22,0,CLE,
-9,1645,4,03:22,,4,2,18,CLE 28,0,CLE,PUNT
-9,1624,3,04:01,,12,2,18,CLE 20,0,CLE,
-9,1605,2,04:49,,5,2,10,CLE 27,0,CLE,
-9,1560,3,05:50,,2,2,12,CLE 18,0,CLE,
-10,1664,1,03:14,,10,2,5,BAL 25,0,BAL,
-10,1707,3,02:44,,5,2,66,BAL 30,0,BAL,
-10,1811,0,01:15,,0,2,75,CLE 15,1,BAL,XP
-10,1685,2,02:51,,5,2,5,BAL 30,0,BAL,
-10,1826,0,02:00,,0,2,75,,0,,
-10,1731,1,02:05,,10,2,66,CLE 40,0,BAL,PENALTY
-10,1766,1,02:00,,9,2,68,CLE 9,0,BAL,
-10,1791,2,01:19,,7,2,75,CLE 7,1,BAL,TD
-20,3463,1,11:19,,10,4,19,CLE 25,0,CLE,
-20,3532,2,09:33,,13,4,10,CLE 41,0,CLE,
-20,3608,4,08:11,,24,4,5,CLE 30,0,CLE,PUNT
-20,3511,1,10:09,,10,4,16,CLE 44,0,CLE,
-20,3487,2,10:42,,6,4,19,CLE 29,0,CLE,
-20,3586,3,08:15,,24,4,5,CLE 30,0,CLE,
-20,3445,0,11:19,,0,4,0,BAL 35,0,BAL,KICKOFF
-20,3551,3,08:50,,19,4,5,CLE 35,0,CLE,PENALTY
-6,824,2,03:01,,10,1,16,BAL 39,0,BAL,
-6,979,0,,,0,1,47,,0,,
-6,995,4,15:00,,2,2,48,CLE 28,0,BAL,
-6,912,1,01:01,,10,1,39,CLE 36,0,BAL,
-6,774,3,03:49,,5,1,14,BAL 30,0,BAL,
-6,869,1,01:37,,10,1,28,CLE 47,0,BAL,
-6,845,3,02:12,,8,1,28,BAL 41,0,BAL,
-6,958,3,00:20,,2,1,47,CLE 28,0,BAL,
-6,934,2,00:56,,10,1,47,CLE 36,0,BAL,
-6,716,0,04:34,,0,1,0,CLE 35,0,CLE,KICKOFF
-6,798,1,03:12,,10,1,14,BAL 39,0,BAL,
-6,753,2,04:31,,10,1,5,BAL 25,0,BAL,
-6,891,2,01:33,,10,1,39,CLE 47,0,BAL,
-6,731,1,04:33,,10,1,0,BAL 25,0,BAL,
-18,3225,2,14:32,,15,4,34,BAL 21,0,CLE,PENALTY
-18,3161,3,00:10,,5,3,52,CLE 37,0,CLE,
-18,3279,4,13:58,,28,4,34,BAL 34,0,CLE,FGM
-18,3201,1,15:00,,10,4,34,BAL 16,0,CLE,
-18,3257,3,14:04,,28,4,34,BAL 34,0,CLE,
-18,3185,0,,,0,3,52,,0,,
-18,3140,2,00:52,,7,3,5,CLE 35,0,CLE,
-18,3119,1,01:32,,10,3,3,CLE 32,0,CLE,
-1,97,3,13:42,,7,1,75,CLE 28,0,CLE,
-1,76,2,14:24,,11,1,3,CLE 24,0,CLE,
-1,51,1,15:00,,10,1,44,CLE 25,0,CLE,
-1,244,2,10:36,,18,1,44,BAL 39,0,CLE,
-1,121,1,13:11,,10,1,16,CLE 36,0,CLE,
-1,36,0,15:00,,0,1,0,BAL 35,0,BAL,KICKOFF
-1,265,3,09:51,,10,1,75,BAL 31,1,CLE,TD
-1,142,2,12:30,,5,1,16,CLE 41,0,CLE,
-1,164,3,12:25,,5,1,44,CLE 41,0,CLE,
-1,285,0,09:45,,0,1,75,BAL 15,1,CLE,XP
-1,188,1,11:42,,10,1,75,BAL 31,0,CLE,PENALTY
-1,223,1,11:20,,20,1,36,BAL 41,0,CLE,
-5,630,2,05:52,,10,1,2,BAL 27,0,CLE,
-5,695,0,04:34,,0,1,27,BAL 15,1,CLE,XPB
-5,651,3,05:11,,8,1,27,BAL 25,0,CLE,
-5,608,1,05:59,,10,1,27,BAL 27,0,CLE,
-5,675,1,04:40,,10,1,27,BAL 11,1,CLE,TD
-13,2150,1,14:56,,10,3,5,BAL 25,0,BAL,
-13,2171,2,14:18,,5,3,5,BAL 30,0,BAL,
-13,2193,3,14:14,,5,3,24,BAL 30,0,BAL,
-13,2241,1,13:00,,10,3,58,CLE 20,0,BAL,
-13,2282,0,12:17,,0,3,75,CLE 15,1,BAL,XP
-13,2217,1,13:36,,10,3,55,BAL 49,0,BAL,
-13,2262,2,12:22,,7,3,75,CLE 17,1,BAL,TD
-13,2128,0,15:00,,0,3,0,CLE 35,0,CLE,KICKOFF
-21,3828,2,03:06,,11,4,41,CLE 27,0,BAL,
-21,3892,4,02:57,,7,4,41,CLE 23,1,BAL,FG
-21,3724,0,05:41,,0,4,22,,0,,TIMEOUT
-21,3682,1,06:59,,10,4,21,CLE 49,0,BAL,
-21,3633,1,08:01,,10,4,0,BAL 36,0,BAL,
-21,3853,0,03:00,,0,4,41,,0,,TIMEOUT
-21,3658,2,07:28,,10,4,15,BAL 36,0,BAL,
-21,3765,1,05:01,,10,4,29,CLE 38,0,BAL,
-21,3870,3,03:00,,7,4,41,CLE 23,0,BAL,
-21,3703,2,06:22,,4,4,22,CLE 43,0,BAL,
-21,3807,1,03:48,,10,4,37,CLE 26,0,BAL,
-21,3786,2,04:27,,7,4,38,CLE 35,0,BAL,
-21,3741,3,05:41,,3,4,26,CLE 42,0,BAL,
-23,4213,0,00:00,,0,4,1,,0,,
-23,4192,1,00:13,,10,4,1,BAL 1,0,BAL,
-11,1880,1,00:49,,10,2,10,CLE 30,0,CLE,INT
-11,1834,0,01:15,,0,2,0,BAL 35,0,BAL,KICKOFF
-11,1856,1,01:10,,10,2,10,CLE 20,0,CLE,
-14,2364,2,12:04,,10,3,-1,CLE 11,0,CLE,
-14,2342,1,12:10,,10,3,0,CLE 11,0,CLE,
-14,2452,3,09:59,,9,3,7,CLE 23,0,CLE,
-14,2409,1,10:50,,10,3,11,CLE 22,0,CLE,
-14,2385,3,11:23,,11,3,11,CLE 10,0,CLE,
-14,2298,0,12:17,,0,3,7,BAL 35,0,BAL,FUMBLE
-14,2471,4,09:20,,14,3,7,CLE 18,0,CLE,PUNT
-14,2431,2,10:44,,10,3,12,CLE 22,0,CLE,
-8,1319,2,09:58,,4,2,33,BAL 9,0,BAL,
-8,1291,1,10:31,,10,2,6,BAL 3,0,BAL,
-8,1389,2,08:42,,6,2,30,BAL 26,0,BAL,
-8,1341,3,09:54,,4,2,19,BAL 9,0,BAL,
-8,1460,3,07:28,,7,2,33,BAL 36,0,BAL,
-8,1436,2,08:02,,10,2,33,BAL 33,0,BAL,
-8,1482,4,07:23,,7,2,33,BAL 36,0,BAL,FUMBLE
-8,1414,1,08:06,,10,2,30,BAL 33,0,BAL,
-8,1365,1,09:20,,10,2,23,BAL 22,0,BAL,
-19,3369,3,11:56,,6,4,27,CLE 26,0,BAL,PENALTY
-19,3299,1,13:54,,10,4,28,BAL 42,0,BAL,
-19,3404,3,11:28,,11,4,27,CLE 31,0,BAL,
-19,3426,4,11:23,,11,4,27,CLE 31,1,BAL,FG
-19,3323,1,13:19,,10,4,30,CLE 30,0,BAL,
-19,3344,2,12:39,,8,4,32,CLE 28,0,BAL,
-22,4015,1,01:31,,10,4,28,BAL 48,0,CLE,
-22,4166,1,00:20,,10,4,45,BAL 30,0,CLE,INT
-22,4107,4,00:34,,3,4,45,BAL 41,0,CLE,
-22,4131,1,00:27,,10,4,45,BAL 30,0,CLE,
-22,3974,0,02:00,,0,4,11,,0,,
-22,4039,2,01:04,,9,4,27,BAL 47,0,CLE,
-22,4066,0,00:55,,0,4,27,,0,,TIMEOUT
-22,3911,0,02:53,,0,4,0,BAL 35,0,BAL,KICKOFF
-22,4083,3,00:55,,10,4,34,BAL 48,0,CLE,
-22,3991,1,02:00,,10,4,27,CLE 36,0,CLE,
-22,3950,2,02:27,,5,4,11,CLE 30,0,CLE,
-22,3926,1,02:53,,10,4,5,CLE 25,0,CLE,
-12,1969,3,00:29,,5,2,13,BAL 44,0,BAL,
-12,2032,2,00:16,,10,2,27,CLE 48,0,BAL,
-12,1906,1,00:42,,10,2,13,BAL 39,0,BAL,
-12,2073,1,00:10,,10,2,27,CLE 34,0,BAL,
-12,2056,0,00:10,,0,2,27,,0,,TIMEOUT
-12,2095,2,00:05,,10,2,27,CLE 34,1,BAL,FG
-12,1928,2,00:37,,10,2,5,BAL 39,0,BAL,
-12,2010,1,00:23,,10,2,13,CLE 48,0,BAL,
-12,1952,0,00:29,,0,2,5,,0,,TIMEOUT
-12,1993,0,00:23,,0,2,13,,0,,TIMEOUT
-16,2762,2,06:18,,10,3,15,CLE 35,0,CLE,
-16,2846,4,06:07,,10,3,15,CLE 35,0,CLE,PUNT
-16,2824,3,06:12,,10,3,15,CLE 35,0,CLE,
-16,2674,1,07:35,,10,3,0,CLE 20,0,CLE,
-16,2721,0,06:50,,0,3,15,,0,,TIMEOUT
-16,2738,1,06:50,,10,3,15,CLE 35,0,CLE,PENALTY
-16,2696,2,07:29,,10,3,15,CLE 20,0,CLE,
-7,1272,4,10:40,,7,2,32,BAL 41,0,CLE,PUNT
-7,1166,2,11:18,,7,2,32,BAL 41,0,CLE,
-7,1020,1,14:50,,10,2,32,CLE 27,0,CLE,FUMBLE
-7,1188,3,11:18,,7,2,37,BAL 41,0,CLE,PENALTY
-7,1048,0,14:07,,0,2,-4,,0,,TIMEOUT
-7,1211,3,11:14,,2,2,37,BAL 36,0,CLE,
-7,1140,1,12:01,,10,2,32,BAL 44,0,CLE,
-7,1232,0,10:40,,0,2,37,,0,,TIMEOUT
-7,1065,2,14:07,,14,2,-2,CLE 23,0,CLE,
-7,1092,3,13:24,,12,2,14,CLE 25,0,CLE,
-7,1116,1,12:41,,10,2,29,CLE 41,0,CLE,
-7,1249,4,10:40,,2,2,32,BAL 36,0,CLE,PENALTY
-3,526,0,06:47,,0,1,85,BAL 15,1,CLE,XP
-3,504,1,06:58,,10,1,85,CLE 15,1,CLE,TD
-17,2932,1,04:05,,10,3,11,BAL 33,0,BAL,PENALTY
-17,2908,3,04:35,,3,3,16,BAL 24,0,BAL,
-17,2866,1,06:00,,10,3,4,BAL 17,0,BAL,
-17,2887,2,05:20,,6,3,7,BAL 21,0,BAL,
-17,3061,3,01:48,,22,3,4,BAL 21,0,BAL,
-17,2964,1,03:43,,15,3,-3,BAL 28,0,BAL,PENALTY
-17,2999,1,03:18,,29,3,4,BAL 14,0,BAL,
-17,3083,4,01:42,,22,3,4,BAL 21,0,BAL,PUNT
-17,3037,2,02:31,,34,3,4,BAL 9,0,BAL,
-4,582,2,06:10,,6,1,4,BAL 29,0,BAL,INT
-4,542,0,06:47,,0,1,0,CLE 35,0,CLE,KICKOFF
-4,561,1,06:46,,10,1,4,BAL 25,0,BAL,
-2,393,3,08:30,,3,1,12,CLE 46,0,BAL,
-2,417,1,07:54,,10,1,12,CLE 41,0,BAL,
-2,439,2,07:50,,10,1,11,CLE 41,0,BAL,
-2,348,1,09:37,,10,1,1,BAL 47,0,BAL,
-2,326,0,09:45,,0,1,11,CLE 35,0,CLE,KICKOFF
-2,369,2,09:04,,9,1,11,BAL 48,0,BAL,
-2,486,4,06:58,,11,1,11,CLE 42,0,BAL,PUNT
-2,464,3,07:08,,11,1,11,CLE 42,0,BAL,
-15,2585,1,07:47,,10,3,26,CLE 34,0,BAL,PENALTY
-15,2522,2,08:28,,9,3,1,BAL 46,0,BAL,
-15,2501,1,09:10,,10,3,1,BAL 45,0,BAL,
-15,2647,1,07:42,,10,3,26,CLE 29,0,BAL,INT
-15,2544,0,08:22,,0,3,1,,0,,TIMEOUT
-15,2561,3,08:22,,9,3,26,BAL 46,0,BAL,TIMEOUT
+20,3463,1,11:19,(11:19) I.Crowell left tackle to CLE 29 for 4 yards (E.Weddle).,10,4,19,CLE 25,0,CLE,
+20,3586,3,08:15,(8:15) (Shotgun) J.McCown pass incomplete short right to D.Johnson.,24,4,5,CLE 30,0,CLE,
+20,3551,3,08:50,"(8:50) (Shotgun) J.McCown pass deep right to R.Higgins to BAL 40 for 25 yards (L.Webb). PENALTY on CLE-C.Erving, Ineligible Downfield Pass, 5 yards, enforced at CLE 35 - No Play. Ball deflected off of CLE #11 and received by CLE #81.",19,4,5,CLE 35,0,CLE,PENALTY
+20,3445,0,11:19,"J.Tucker kicks 65 yards from BAL 35 to end zone, Touchback.",0,4,0,BAL 35,0,BAL,KICKOFF
+20,3511,1,10:09,(10:09) I.Crowell right guard to CLE 41 for -3 yards (T.Suggs; L.Guy).,10,4,16,CLE 44,0,CLE,
+20,3608,4,08:11,"(8:11) (Punt formation) B.Colquitt punts 41 yards to BAL 29, Center-C.Hughlett. D.Hester to BAL 36 for 7 yards (J.Poyer).",24,4,5,CLE 30,0,CLE,PUNT
+20,3487,2,10:42,(10:42) (Shotgun) J.McCown pass short middle to T.Pryor to CLE 44 for 15 yards (L.Webb).,6,4,19,CLE 29,0,CLE,
+20,3532,2,09:33,(9:33) (Shotgun) J.McCown sacked at CLE 35 for -6 yards (M.Pierce).,13,4,10,CLE 41,0,CLE,
+21,3786,2,04:27,(4:27) T.West left tackle to CLE 26 for 9 yards (S.Paea).,7,4,38,CLE 35,0,BAL,
+21,3765,1,05:01,(5:01) T.West right tackle to CLE 35 for 3 yards (D.Shelton; J.Poyer).,10,4,29,CLE 38,0,BAL,
+21,3870,3,03:00,(3:00) J.Flacco pass incomplete short right to J.Forsett.,7,4,41,CLE 23,0,BAL,
+21,3682,1,06:59,(6:59) T.West right tackle to CLE 43 for 6 yards (J.Haden).,10,4,21,CLE 49,0,BAL,
+21,3807,1,03:48,(3:48) J.Forsett right tackle to CLE 27 for -1 yards (N.Orchard; D.Davis).,10,4,37,CLE 26,0,BAL,
+21,3633,1,08:01,(8:01) T.West right tackle to BAL 36 for no gain (C.Kirksey; D.Shelton).,10,4,0,BAL 36,0,BAL,
+21,3741,3,05:41,(5:41) (Shotgun) J.Flacco pass short right to D.Pitta to CLE 38 for 4 yards (D.Kindred).,3,4,26,CLE 42,0,BAL,
+21,3892,4,02:57,"(2:57) (Field Goal formation) J.Tucker 41 yard field goal is GOOD, Center-M.Cox, Holder-S.Koch.",7,4,41,CLE 23,1,BAL,FG
+21,3658,2,07:28,(7:28) J.Flacco pass short left to T.West to CLE 49 for 15 yards (J.Poyer).,10,4,15,BAL 36,0,BAL,
+21,3853,0,03:00,Timeout #3 by BAL at 03:00.,0,4,41,,0,,TIMEOUT
+21,3724,0,05:41,Timeout #2 by BAL at 05:41.,0,4,22,,0,,TIMEOUT
+21,3703,2,06:22,(6:22) J.Forsett left tackle to CLE 42 for 1 yard (N.Orchard).,4,4,22,CLE 43,0,BAL,
+21,3828,2,03:06,(3:06) J.Forsett left end to CLE 23 for 4 yards (C.Kirksey). Pitch-out,11,4,41,CLE 27,0,BAL,
+22,4166,1,00:20,(:20) (Shotgun) J.McCown pass deep middle intended for T.Pryor INTERCEPTED by C.Mosley at BAL 1. C.Mosley to BAL 1 for no gain (T.Pryor).,10,4,45,BAL 30,0,CLE,INT
+22,4083,3,00:55,(:55) (Shotgun) J.McCown pass short left to G.Barnidge to BAL 41 for 7 yards (T.Young).,10,4,34,BAL 48,0,CLE,
+22,3926,1,02:53,(2:53) (Shotgun) J.McCown pass short right to D.Johnson to CLE 30 for 5 yards (L.Webb).,10,4,5,CLE 25,0,CLE,
+22,3911,0,02:53,"J.Tucker kicks 65 yards from BAL 35 to end zone, Touchback.",0,4,0,BAL 35,0,BAL,KICKOFF
+22,4131,1,00:27,"(:27) (Shotgun) J.McCown pass deep right to T.Pryor to BAL 10 for 20 yards (L.Webb). Penalty on BAL-L.Webb, Defensive Holding, offsetting, enforced at BAL 30 - No Play. Penalty on CLE-T.Pryor, Taunting, offsetting.",10,4,45,BAL 30,0,CLE,
+22,3950,2,02:27,"(2:27) (No Huddle, Shotgun) J.McCown pass short middle to G.Barnidge to CLE 36 for 6 yards (Z.Orr).",5,4,11,CLE 30,0,CLE,
+22,4015,1,01:31,"(1:31) (No Huddle, Shotgun) J.McCown pass short right to T.Pryor to BAL 47 for 1 yard (T.Young).",10,4,28,BAL 48,0,CLE,
+22,3974,0,02:00,Two-Minute Warning,0,4,11,,0,,
+22,4107,4,00:34,"(:34) (No Huddle, Shotgun) J.McCown pass short right to C.Coleman to BAL 30 for 11 yards (L.Webb).",3,4,45,BAL 41,0,CLE,
+22,4039,2,01:04,"(1:04) (No Huddle, Shotgun) J.McCown pass short right to D.Johnson to BAL 48 for -1 yards (T.Jernigan). CLE-C.Erving was injured during the play. His return is Probable.",9,4,27,BAL 47,0,CLE,
+22,4066,0,00:55,Timeout #3 by CLE at 00:55.,0,4,27,,0,,TIMEOUT
+22,3991,1,02:00,(2:00) (Shotgun) J.McCown pass short left to A.Hawkins to BAL 48 for 16 yards (E.Weddle).,10,4,27,CLE 36,0,CLE,
+23,4192,1,00:13,(:13) J.Flacco right guard to BAL 2 for 1 yard (J.Meder).,10,4,1,BAL 1,0,BAL,
+23,4213,0,00:00,END GAME,0,4,1,,0,,
+1,142,2,12:30,(12:30) J.McCown pass incomplete deep left to C.Coleman [M.Pierce].,5,1,16,CLE 41,0,CLE,
+1,121,1,13:11,(13:11) I.Crowell right guard to CLE 41 for 5 yards (T.Suggs).,10,1,16,CLE 36,0,CLE,
+1,285,0,09:45,"P.Murray extra point is GOOD, Center-C.Hughlett, Holder-B.Colquitt.",0,1,75,BAL 15,1,CLE,XP
+1,51,1,15:00,(15:00) I.Crowell right guard to CLE 24 for -1 yards (C.Mosley). #66 Drango Eligible Receiver,10,1,44,CLE 25,0,CLE,
+1,36,0,15:00,"J.Tucker kicks 65 yards from BAL 35 to end zone, Touchback.",0,1,0,BAL 35,0,BAL,KICKOFF
+1,76,2,14:24,(14:24) I.Crowell right tackle to CLE 28 for 4 yards (T.Suggs; C.Mosley).,11,1,3,CLE 24,0,CLE,
+1,244,2,10:36,(10:36) (Shotgun) I.Crowell left tackle to BAL 31 for 8 yards (C.Mosley).,18,1,44,BAL 39,0,CLE,
+1,265,3,09:51,"(9:51) (Shotgun) J.McCown pass deep left to C.Coleman for 31 yards, TOUCHDOWN [T.Jernigan]. The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands.",10,1,75,BAL 31,1,CLE,TD
+1,164,3,12:25,(12:25) (Shotgun) J.McCown pass short right to D.Johnson to BAL 31 for 28 yards (C.Mosley).,5,1,44,CLE 41,0,CLE,
+1,188,1,11:42,"(11:42) J.McCown pass short left to I.Crowell to BAL 23 for 8 yards (A.McClellan). PENALTY on CLE-T.Pryor, Offensive Pass Interference, 10 yards, enforced at BAL 31 - No Play.",10,1,75,BAL 31,0,CLE,PENALTY
+1,223,1,11:20,(11:20) D.Johnson left guard to BAL 39 for 2 yards (E.Weddle).,20,1,36,BAL 41,0,CLE,
+1,97,3,13:42,(13:42) (Shotgun) J.McCown pass short right to A.Hawkins to CLE 36 for 8 yards (Z.Orr).,7,1,75,CLE 28,0,CLE,
+3,504,1,06:58,"(6:58) I.Crowell left guard for 85 yards, TOUCHDOWN.",10,1,85,CLE 15,1,CLE,TD
+3,526,0,06:47,"P.Murray extra point is GOOD, Center-C.Hughlett, Holder-B.Colquitt.",0,1,85,BAL 15,1,CLE,XP
+2,464,3,07:08,"(7:08) (No Huddle, Shotgun) J.Flacco pass incomplete short right to K.Juszczyk.",11,1,11,CLE 42,0,BAL,
+2,369,2,09:04,(9:04) (Shotgun) J.Flacco pass short left to D.Pitta to CLE 46 for 6 yards (J.Taylor).,9,1,11,BAL 48,0,BAL,
+2,393,3,08:30,(8:30) (Shotgun) J.Flacco pass short right to M.Wallace to CLE 41 for 5 yards (J.Haden).,3,1,12,CLE 46,0,BAL,
+2,417,1,07:54,"(7:54) (No Huddle, Shotgun) J.Flacco pass incomplete short middle to C.Gillmore.",10,1,12,CLE 41,0,BAL,
+2,326,0,09:45,P.Murray kicks 66 yards from CLE 35 to BAL -1. D.Hester to BAL 47 for 48 yards (P.Murray).,0,1,11,CLE 35,0,CLE,KICKOFF
+2,439,2,07:50,(7:50) (Shotgun) J.Forsett right tackle to CLE 42 for -1 yards (C.Kirksey). Pitch-out,10,1,11,CLE 41,0,BAL,
+2,486,4,06:58,"(6:58) (Punt formation) S.Koch punts 27 yards to CLE 15, Center-M.Cox, out of bounds.",11,1,11,CLE 42,0,BAL,PUNT
+2,348,1,09:37,(9:37) J.Forsett right guard to BAL 48 for 1 yard (D.Shelton; J.Meder).,10,1,1,BAL 47,0,BAL,
+5,630,2,05:52,(5:52) I.Crowell left guard to BAL 25 for 2 yards (T.Jernigan; E.Weddle).,10,1,2,BAL 27,0,CLE,
+5,675,1,04:40,"(4:40) (No Huddle) J.McCown pass short left to C.Coleman for 11 yards, TOUCHDOWN. CLE-J.McCown was injured during the play. His return is Questionable.",10,1,27,BAL 11,1,CLE,TD
+5,695,0,04:34,"P.Murray extra point is Blocked (L.Guy), Center-C.Hughlett, Holder-B.Colquitt. DEFENSIVE TWO-POINT ATTEMPT. T.Young recovered the blocked kick. ATTEMPT SUCCEEDS.",0,1,27,BAL 15,1,CLE,XPB
+5,608,1,05:59,(5:59) (Shotgun) J.McCown pass incomplete deep right to T.Pryor.,10,1,27,BAL 27,0,CLE,
+5,651,3,05:11,(5:11) (Shotgun) J.McCown pass short middle to G.Barnidge to BAL 11 for 14 yards (Z.Orr) [T.Jernigan].,8,1,27,BAL 25,0,CLE,
+4,542,0,06:47,"P.Murray kicks 65 yards from CLE 35 to end zone, Touchback.",0,1,0,CLE 35,0,CLE,KICKOFF
+4,561,1,06:46,(6:46) T.West right tackle to BAL 29 for 4 yards (D.Shelton; J.Meder).,10,1,4,BAL 25,0,BAL,
+4,582,2,06:10,(6:10) (Shotgun) J.Flacco pass short right intended for S.Smith INTERCEPTED by J.Haden at BAL 36. J.Haden to BAL 27 for 9 yards (A.Lewis).,6,1,4,BAL 29,0,BAL,INT
+7,1232,0,10:40,Timeout #2 by CLE at 10:40.,0,2,37,,0,,TIMEOUT
+7,1140,1,12:01,(12:01) (Shotgun) I.Crowell right tackle ran ob at BAL 41 for 3 yards.,10,2,32,BAL 44,0,CLE,
+7,1211,3,11:14,(11:14) J.McCown right tackle to BAL 36 for no gain (C.Mosley; Z.Orr).,2,2,37,BAL 36,0,CLE,
+7,1020,1,14:50,"(14:50) J.McCown FUMBLES (Aborted) at CLE 25, and recovers at CLE 23. J.McCown to CLE 23 for no gain (Z.Smith).",10,2,32,CLE 27,0,CLE,FUMBLE
+7,1092,3,13:24,(13:24) (Shotgun) J.McCown pass short right to T.Pryor to CLE 41 for 16 yards (J.Smith).,12,2,14,CLE 25,0,CLE,
+7,1272,4,10:40,"(10:40) (Punt formation) B.Colquitt punts 38 yards to BAL 3, Center-C.Hughlett, downed by CLE-D.Jones.",7,2,32,BAL 41,0,CLE,PUNT
+7,1048,0,14:07,Timeout #1 by CLE at 14:07.,0,2,-4,,0,,TIMEOUT
+7,1065,2,14:07,(14:07) (Shotgun) D.Johnson right guard to CLE 25 for 2 yards (B.Williams; Z.Orr).,14,2,-2,CLE 23,0,CLE,
+7,1166,2,11:18,(11:18) J.McCown pass incomplete short right to C.Coleman.,7,2,32,BAL 41,0,CLE,
+7,1188,3,11:18,"(11:18) (Shotgun) PENALTY on BAL-C.Mosley, Neutral Zone Infraction, 5 yards, enforced at BAL 41 - No Play.",7,2,37,BAL 41,0,CLE,PENALTY
+7,1116,1,12:41,(12:41) (Shotgun) J.McCown pass short right to I.Crowell to BAL 44 for 15 yards (L.Webb).,10,2,29,CLE 41,0,CLE,
+7,1249,4,10:40,"(10:40) (Run formation) PENALTY on CLE-C.Erving, False Start, 5 yards, enforced at BAL 36 - No Play.",2,2,32,BAL 36,0,CLE,PENALTY
+6,753,2,04:31,(4:31) T.West right tackle to BAL 30 for 5 yards (D.Davis).,10,1,5,BAL 25,0,BAL,
+6,774,3,03:49,"(3:49) (No Huddle, Shotgun) J.Flacco pass short middle to C.Moore to BAL 39 for 9 yards (T.Williams).",5,1,14,BAL 30,0,BAL,
+6,845,3,02:12,(2:12) (Shotgun) J.Flacco pass short middle to M.Wallace to CLE 47 for 12 yards (T.Williams) [C.Kirksey].,8,1,28,BAL 41,0,BAL,
+6,891,2,01:33,(1:33) (Shotgun) J.Forsett left tackle to CLE 36 for 11 yards (I.Campbell).,10,1,39,CLE 47,0,BAL,
+6,995,4,15:00,(15:00) (Shotgun) J.Forsett left end to CLE 27 for 1 yard (D.Davis; T.Williams). Pitch-out,2,2,48,CLE 28,0,BAL,
+6,716,0,04:34,"P.Murray kicks 65 yards from CLE 35 to end zone, Touchback.",0,1,0,CLE 35,0,CLE,KICKOFF
+6,958,3,00:20,"(:20) (No Huddle, Shotgun) T.West left guard to CLE 28 for no gain (C.Kirksey).",2,1,47,CLE 28,0,BAL,
+6,979,0,,END QUARTER 1,0,1,47,,0,,
+6,798,1,03:12,(3:12) (No Huddle) J.Flacco pass incomplete deep left to K.Aiken [X.Cooper].,10,1,14,BAL 39,0,BAL,
+6,731,1,04:33,(4:33) (Shotgun) J.Flacco pass incomplete short left to T.West.,10,1,0,BAL 25,0,BAL,
+6,824,2,03:01,(3:01) (Shotgun) J.Forsett right guard to BAL 41 for 2 yards (T.Williams).,10,1,16,BAL 39,0,BAL,
+6,869,1,01:37,(1:37) (Shotgun) J.Flacco pass incomplete short middle to T.West.,10,1,28,CLE 47,0,BAL,
+6,934,2,00:56,"(:56) (No Huddle, Shotgun) J.Flacco pass short left to J.Forsett to CLE 28 for 8 yards (C.Kirksey).",10,1,47,CLE 36,0,BAL,
+6,912,1,01:01,(1:01) J.Flacco pass incomplete deep left to C.Moore.,10,1,39,CLE 36,0,BAL,
+9,1645,4,03:22,"(3:22) (Punt formation) B.Colquitt punts 47 yards to BAL 25, Center-C.Hughlett, fair catch by D.Hester.",4,2,18,CLE 28,0,CLE,PUNT
+9,1624,3,04:01,(4:01) (Shotgun) D.Johnson left guard to CLE 28 for 8 yards (E.Weddle).,12,2,18,CLE 20,0,CLE,
+9,1605,2,04:49,(4:49) (Shotgun) J.McCown sacked at CLE 20 for -7 yards (B.Urban).,5,2,10,CLE 27,0,CLE,
+9,1584,1,05:18,(5:18) I.Crowell left tackle to CLE 27 for 5 yards (M.Judon).,10,2,17,CLE 22,0,CLE,
+9,1532,2,06:33,(6:33) (Shotgun) J.McCown pass short left to C.Coleman to CLE 18 for 4 yards (Z.Smith). #66 Drango Eligible Receiver,6,2,8,CLE 14,0,CLE,
+9,1560,3,05:50,(5:50) (Shotgun) J.McCown pass short right to A.Hawkins to CLE 22 for 4 yards (J.Smith).,2,2,12,CLE 18,0,CLE,
+9,1511,1,07:14,(7:14) I.Crowell right guard to CLE 14 for 4 yards (Z.Orr).,10,2,4,CLE 10,0,CLE,
+8,1436,2,08:02,"(8:02) (No Huddle, Shotgun) J.Flacco pass short left to D.Pitta to BAL 36 for 3 yards (T.Williams).",10,2,33,BAL 33,0,BAL,
+8,1341,3,09:54,(9:54) (Shotgun) J.Flacco pass short middle to D.Pitta to BAL 22 for 13 yards (D.Kindred).,4,2,19,BAL 9,0,BAL,
+8,1319,2,09:58,(9:58) (Shotgun) J.Flacco pass incomplete deep right to M.Wallace.,4,2,33,BAL 9,0,BAL,
+8,1482,4,07:23,"(7:23) (Punt formation) S.Koch punts 52 yards to CLE 12, Center-M.Cox. T.Williams MUFFS catch, and recovers at CLE 10. T.Williams to CLE 10 for no gain (M.Canady).",7,2,33,BAL 36,0,BAL,FUMBLE
+8,1365,1,09:20,(9:20) (No Huddle) J.Flacco pass short left to D.Pitta to BAL 26 for 4 yards (C.Lemonier).,10,2,23,BAL 22,0,BAL,
+8,1389,2,08:42,"(8:42) (No Huddle, Shotgun) J.Forsett right tackle to BAL 33 for 7 yards (D.Kindred). Pitch-out",6,2,30,BAL 26,0,BAL,
+8,1291,1,10:31,(10:31) J.Flacco pass short right to J.Forsett to BAL 9 for 6 yards (C.Kirksey).,10,2,6,BAL 3,0,BAL,
+8,1414,1,08:06,(8:06) (No Huddle) J.Flacco pass incomplete short left to D.Pitta.,10,2,30,BAL 33,0,BAL,
+8,1460,3,07:28,"(7:28) (No Huddle, Shotgun) J.Flacco pass incomplete short middle to D.Pitta (D.Kindred).",7,2,33,BAL 36,0,BAL,
+11,1856,1,01:10,(1:10) (Shotgun) J.McCown pass short right to G.Barnidge to CLE 30 for 10 yards (Z.Orr).,10,2,10,CLE 20,0,CLE,
+11,1834,0,01:15,J.Tucker kicks 64 yards from BAL 35 to CLE 1. D.Johnson to CLE 20 for 19 yards (K.Lewis).,0,2,0,BAL 35,0,BAL,KICKOFF
+11,1880,1,00:49,"(:49) (No Huddle, Shotgun) J.McCown pass deep left intended for R.Higgins INTERCEPTED by E.Weddle at BAL 39. E.Weddle ran ob at BAL 39 for no gain.",10,2,10,CLE 30,0,CLE,INT
+10,1811,0,01:15,"J.Tucker extra point is GOOD, Center-M.Cox, Holder-S.Koch.",0,2,75,CLE 15,1,BAL,XP
+10,1707,3,02:44,"(2:44) (No Huddle, Shotgun) J.Flacco pass short left to D.Pitta to CLE 40 for 30 yards (D.Kindred).",5,2,66,BAL 30,0,BAL,
+10,1731,1,02:05,"(2:05) (No Huddle, Shotgun) J.Flacco pass short middle to C.Gillmore to CLE 18 for 22 yards (J.Poyer). PENALTY on CLE-S.Paea, Roughing the Passer, 9 yards, enforced at CLE 18.",10,2,66,CLE 40,0,BAL,PENALTY
+10,1791,2,01:19,"(1:19) (Shotgun) J.Flacco pass short right to M.Wallace for 7 yards, TOUCHDOWN.",7,2,75,CLE 7,1,BAL,TD
+10,1826,0,02:00,Two-Minute Warning,0,2,75,,0,,
+10,1685,2,02:51,"(2:51) (No Huddle, Shotgun) J.Flacco pass incomplete deep right to B.Perriman (J.Haden).",5,2,5,BAL 30,0,BAL,
+10,1664,1,03:14,(3:14) J.Forsett right guard to BAL 30 for 5 yards (J.Taylor).,10,2,5,BAL 25,0,BAL,
+10,1766,1,02:00,(2:00) J.Forsett left tackle to CLE 7 for 2 yards (J.Schobert).,9,2,68,CLE 9,0,BAL,
+13,2217,1,13:36,(13:36) (Shotgun) J.Flacco pass deep right to S.Smith to CLE 20 for 31 yards (J.Haden).,10,3,55,BAL 49,0,BAL,
+13,2128,0,15:00,P.Murray kicks 72 yards from CLE 35 to BAL -7. D.Hester to BAL 25 for 32 yards (T.Holmes).,0,3,0,CLE 35,0,CLE,KICKOFF
+13,2282,0,12:17,"J.Tucker extra point is GOOD, Center-M.Cox, Holder-S.Koch.",0,3,75,CLE 15,1,BAL,XP
+13,2193,3,14:14,(14:14) (Shotgun) J.Flacco pass deep right to S.Smith to BAL 49 for 19 yards (T.Williams).,5,3,24,BAL 30,0,BAL,
+13,2150,1,14:56,(14:56) T.West left tackle to BAL 30 for 5 yards (D.Davis).,10,3,5,BAL 25,0,BAL,
+13,2171,2,14:18,"(14:18) (No Huddle, Shotgun) J.Flacco pass incomplete short right to D.Pitta.",5,3,5,BAL 30,0,BAL,
+13,2262,2,12:22,"(12:22) (No Huddle, Shotgun) J.Flacco pass deep left to M.Wallace for 17 yards, TOUCHDOWN.",7,3,75,CLE 17,1,BAL,TD
+13,2241,1,13:00,(13:00) T.West right tackle to CLE 17 for 3 yards (D.Shelton; D.Davis).,10,3,58,CLE 20,0,BAL,
+12,1993,0,00:23,Timeout #2 by BAL at 00:23.,0,2,13,,0,,TIMEOUT
+12,1969,3,00:29,(:29) (Shotgun) J.Flacco pass short right to K.Juszczyk to CLE 48 for 8 yards (D.Davis).,5,2,13,BAL 44,0,BAL,
+12,2056,0,00:10,Timeout #3 by BAL at 00:10.,0,2,27,,0,,TIMEOUT
+12,2073,1,00:10,(:10) J.Flacco pass incomplete short right to S.Smith.,10,2,27,CLE 34,0,BAL,
+12,2095,2,00:05,"(:05) (Field Goal formation) J.Tucker 52 yard field goal is GOOD, Center-M.Cox, Holder-S.Koch.",10,2,27,CLE 34,1,BAL,FG
+12,1928,2,00:37,(:37) (Shotgun) J.Flacco pass short left to D.Pitta to BAL 44 for 5 yards (T.Williams; D.Davis).,10,2,5,BAL 39,0,BAL,
+12,2032,2,00:16,(:16) (Shotgun) J.Flacco pass short right to S.Smith to CLE 34 for 14 yards (J.Haden; J.Poyer).,10,2,27,CLE 48,0,BAL,
+12,1952,0,00:29,Timeout #1 by BAL at 00:29.,0,2,5,,0,,TIMEOUT
+12,1906,1,00:42,(:42) (Shotgun) J.Flacco pass incomplete short right to S.Smith (J.Haden).,10,2,13,BAL 39,0,BAL,
+12,2010,1,00:23,(:23) (Shotgun) J.Flacco pass incomplete deep left to M.Wallace.,10,2,13,CLE 48,0,BAL,
+15,2585,1,07:47,"(7:47) (Shotgun) J.Flacco pass incomplete short right to S.Smith. PENALTY on CLE-J.Haden, Illegal Contact, 5 yards, enforced at CLE 34 - No Play.",10,3,26,CLE 34,0,BAL,PENALTY
+15,2544,0,08:22,Timeout #1 by BAL at 08:22.,0,3,1,,0,,TIMEOUT
+15,2561,3,08:22,"(8:22) (Shotgun) J.Flacco pass deep middle to B.Perriman to CLE 34 for 20 yards (D.Kindred) [D.Davis]. Cleveland challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",9,3,26,BAL 46,0,BAL,TIMEOUT
+15,2522,2,08:28,(8:28) (Shotgun) J.Flacco pass incomplete short middle to J.Forsett [E.Ogbah].,9,3,1,BAL 46,0,BAL,
+15,2647,1,07:42,(7:42) (Shotgun) J.Flacco pass deep right intended for B.Perriman INTERCEPTED by J.Haden at CLE -2. Touchback.,10,3,26,CLE 29,0,BAL,INT
+15,2501,1,09:10,(9:10) J.Forsett left guard to BAL 46 for 1 yard (D.Shelton; E.Ogbah).,10,3,1,BAL 45,0,BAL,
+14,2298,0,12:17,"J.Tucker kicks 60 yards from BAL 35 to CLE 5. G.Atkinson to CLE 18 for 13 yards (K.Lewis). FUMBLES (K.Lewis), recovered by CLE-R.Louis at CLE 20. R.Louis to CLE 23 for 3 yards (A.Levine). PENALTY on CLE-D.Jones, Offensive Holding, 10 yards, enforced at CLE 21.",0,3,7,BAL 35,0,BAL,FUMBLE
+14,2471,4,09:20,"(9:20) (Punt formation) B.Colquitt punts 52 yards to BAL 30, Center-C.Hughlett. D.Hester ran ob at BAL 45 for 15 yards.",14,3,7,CLE 18,0,CLE,PUNT
+14,2342,1,12:10,(12:10) J.McCown pass incomplete deep right to T.Pryor.,10,3,0,CLE 11,0,CLE,
+14,2431,2,10:44,(10:44) (Shotgun) I.Crowell left guard to CLE 23 for 1 yard (T.Jernigan; Z.Orr).,10,3,12,CLE 22,0,CLE,
+14,2452,3,09:59,(9:59) (Shotgun) J.McCown sacked at CLE 18 for -5 yards (T.Jernigan).,9,3,7,CLE 23,0,CLE,
+14,2385,3,11:23,(11:23) (Shotgun) J.McCown pass short right to D.Johnson to CLE 22 for 12 yards (T.Jernigan).,11,3,11,CLE 10,0,CLE,
+14,2364,2,12:04,(12:04) (Shotgun) I.Crowell right end to CLE 10 for -1 yards (C.Mosley).,10,3,-1,CLE 11,0,CLE,
+14,2409,1,10:50,(10:50) (Shotgun) J.McCown pass incomplete deep right to T.Pryor.,10,3,11,CLE 22,0,CLE,
+17,2964,1,03:43,"(3:43) (Shotgun) J.Flacco pass short right to M.Wallace to BAL 32 for 4 yards (T.Carder). PENALTY on BAL-R.Wagner, Chop Block, 14 yards, enforced at BAL 28 - No Play. BAL #73 also charged with chop blocking.",15,3,-3,BAL 28,0,BAL,PENALTY
+17,3037,2,02:31,(2:31) (Shotgun) J.Flacco pass short left to B.Perriman to BAL 21 for 12 yards (J.Taylor).,34,3,4,BAL 9,0,BAL,
+17,2887,2,05:20,"(5:20) (No Huddle, Shotgun) T.West right tackle to BAL 24 for 3 yards (D.Shelton).",6,3,7,BAL 21,0,BAL,
+17,2866,1,06:00,(6:00) (Shotgun) T.West left guard to BAL 21 for 4 yards (D.Shelton).,10,3,4,BAL 17,0,BAL,
+17,2999,1,03:18,(3:18) (Shotgun) J.Flacco pass short left to J.Forsett to BAL 9 for -5 yards (D.Davis).,29,3,4,BAL 14,0,BAL,
+17,2908,3,04:35,(4:35) (Shotgun) J.Flacco pass short left to D.Pitta to BAL 33 for 9 yards (T.Carder).,3,3,16,BAL 24,0,BAL,
+17,2932,1,04:05,"(4:05) T.West left guard to BAL 35 for 2 yards (N.Orchard). PENALTY on BAL, Illegal Shift, 5 yards, enforced at BAL 33 - No Play.",10,3,11,BAL 33,0,BAL,PENALTY
+17,3061,3,01:48,(1:48) (Shotgun) J.Flacco pass incomplete short left to B.Perriman (J.Poyer) [N.Orchard].,22,3,4,BAL 21,0,BAL,
+17,3083,4,01:42,"(1:42) (Punt formation) S.Koch punts 60 yards to CLE 19, Center-M.Cox. J.Haden to CLE 32 for 13 yards (Z.Orr).",22,3,4,BAL 21,0,BAL,PUNT
+16,2721,0,06:50,Timeout #2 by CLE at 06:50.,0,3,15,,0,,TIMEOUT
+16,2846,4,06:07,"(6:07) (Punt formation) B.Colquitt punts 48 yards to BAL 17, Center-C.Hughlett, fair catch by D.Hester.",10,3,15,CLE 35,0,CLE,PUNT
+16,2762,2,06:18,(6:18) (Shotgun) J.McCown pass incomplete deep left to G.Barnidge [Z.Smith].,10,3,15,CLE 35,0,CLE,
+16,2738,1,06:50,"(6:50) (Shotgun) J.McCown pass deep right to C.Coleman to BAL 48 for 17 yards (S.Wright). Baltimore challenged the runner was in bounds ruling, and the play was REVERSED. (Shotgun) J.McCown pass incomplete deep right to C.Coleman. PENALTY on CLE-C.Coleman, Illegal Touch Pass, 0 yards, enforced at CLE 35.",10,3,15,CLE 35,0,CLE,PENALTY
+16,2674,1,07:35,(7:35) J.McCown pass incomplete short right to T.Pryor.,10,3,0,CLE 20,0,CLE,
+16,2824,3,06:12,(6:12) (Shotgun) J.McCown pass incomplete deep left to T.Pryor [C.Mosley].,10,3,15,CLE 35,0,CLE,
+16,2696,2,07:29,(7:29) I.Crowell left end to CLE 35 for 15 yards (L.Webb). Pitch-out,10,3,15,CLE 20,0,CLE,
+19,3369,3,11:56,"(11:56) (No Huddle, Shotgun) J.Flacco pass deep left to C.Moore to CLE 1 for 25 yards (T.Williams). PENALTY on BAL-D.Pitta, Illegal Shift, 5 yards, enforced at CLE 26 - No Play.",6,4,27,CLE 26,0,BAL,PENALTY
+19,3426,4,11:23,"(11:23) (Field Goal formation) J.Tucker 49 yard field goal is GOOD, Center-M.Cox, Holder-S.Koch.",11,4,27,CLE 31,1,BAL,FG
+19,3344,2,12:39,(12:39) (Shotgun) J.Forsett right tackle to CLE 26 for 2 yards (D.Davis; N.Orchard). Pitch-out,8,4,32,CLE 28,0,BAL,
+19,3323,1,13:19,(13:19) (Shotgun) J.Forsett right guard to CLE 28 for 2 yards (E.Ogbah).,10,4,30,CLE 30,0,BAL,
+19,3404,3,11:28,(11:28) (Shotgun) J.Flacco pass incomplete short middle to C.Gillmore (D.Kindred).,11,4,27,CLE 31,0,BAL,
+19,3299,1,13:54,(13:54) J.Flacco pass short middle to D.Pitta to CLE 30 for 28 yards (J.Poyer; C.Kirksey).,10,4,28,BAL 42,0,BAL,
+18,3119,1,01:32,(1:32) I.Crowell right guard to CLE 35 for 3 yards (Z.Orr).,10,3,3,CLE 32,0,CLE,
+18,3201,1,15:00,(15:00) I.Crowell right guard to BAL 21 for -5 yards (L.Guy). CLE-R.Telfer was injured during the play. His return is Questionable.,10,4,34,BAL 16,0,CLE,
+18,3225,2,14:32,"(14:32) (Shotgun) I.Crowell right tackle to BAL 19 for 2 yards (T.Jernigan). PENALTY on CLE-C.Coleman, Unsportsmanlike Conduct, 15 yards, enforced at BAL 19.",15,4,34,BAL 21,0,CLE,PENALTY
+18,3257,3,14:04,(14:04) (Shotgun) J.McCown pass incomplete deep right to T.Pryor.,28,4,34,BAL 34,0,CLE,
+18,3140,2,00:52,(:52) (Shotgun) I.Crowell right guard to CLE 37 for 2 yards (E.Weddle).,7,3,5,CLE 35,0,CLE,
+18,3185,0,,END QUARTER 3,0,3,52,,0,,
+18,3279,4,13:58,"(13:58) (Field Goal formation) P.Murray 52 yard field goal is No Good, Wide Right, Center-C.Hughlett, Holder-B.Colquitt.",28,4,34,BAL 34,0,CLE,FGM
+18,3161,3,00:10,(:10) (Shotgun) J.McCown pass deep middle to C.Coleman to BAL 16 for 47 yards (S.Wright).,5,3,52,CLE 37,0,CLE,

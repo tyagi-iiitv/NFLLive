@@ -1,198 +1,198 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1341,2,07:33,,11,2,22,HOU 33,0,KC,
-9,1320,1,08:13,,10,2,19,HOU 32,0,KC,
-9,1412,4,06:25,,8,2,22,HOU 30,1,KC,FG
-9,1371,3,07:03,,20,2,22,HOU 42,0,KC,
-9,1292,1,08:52,,10,2,19,KC 48,0,KC,
-9,1395,0,06:25,,0,2,22,,0,,TIMEOUT
-24,3595,2,09:35,,1,4,2,HOU 16,0,HOU,
-24,3559,4,08:30,,21,4,2,HOU 9,0,HOU,PUNT
-24,3462,1,09:52,,10,4,2,HOU 7,0,HOU,
-24,3483,1,09:16,,10,4,2,HOU 20,0,HOU,PENALTY
-24,4472,2,09:07,,22,4,2,HOU 8,0,HOU,
-24,3516,3,08:57,,22,4,2,HOU 8,0,HOU,
-10,1446,1,06:20,,10,2,-8,HOU 20,0,HOU,
-10,1489,3,05:09,,14,2,-13,HOU 16,0,HOU,FUMBLE
-10,1431,0,06:20,,0,2,0,KC 35,0,KC,KICKOFF
-10,1465,2,05:44,,18,2,-4,HOU 12,0,HOU,
-20,2762,1,06:59,,10,3,64,KC 20,0,HOU,
-20,2783,2,06:28,,6,3,69,KC 16,0,HOU,
-20,2717,1,07:46,,10,3,28,HOU 35,0,HOU,
-20,2854,4,06:09,,1,3,69,KC 11,0,HOU,
-20,2693,1,08:14,,10,3,15,HOU 20,0,HOU,
-20,2738,1,07:34,,10,3,60,HOU 48,0,HOU,
-20,2805,3,06:12,,1,3,69,KC 11,0,HOU,
-6,795,1,03:01,,10,1,44,HOU 43,0,HOU,
-6,816,1,02:29,,10,1,63,KC 36,0,HOU,
-6,885,2,00:51,,4,1,80,KC 4,1,HOU,TD
-6,840,1,01:55,,10,1,78,KC 17,0,HOU,
-6,771,3,03:28,,2,1,23,HOU 28,0,HOU,
-6,726,1,04:28,,10,1,6,HOU 20,0,HOU,
-6,711,0,04:28,,0,1,0,KC 35,0,KC,KICKOFF
-6,905,0,00:46,,0,1,80,KC 15,0,HOU,XPM
-6,864,1,01:33,,2,1,76,KC 2,0,HOU,
-6,750,2,04:02,,4,1,8,HOU 26,0,HOU,
-27,4016,0,03:12,,0,4,14,,0,,TIMEOUT
-27,3898,0,04:07,,0,4,0,HOU 35,0,HOU,KICKOFF
-27,4071,3,03:06,,9,4,24,KC 36,0,KC,
-27,3995,1,03:15,,10,4,14,KC 35,0,KC,
-27,4033,2,03:12,,11,4,16,KC 34,0,KC,
-27,4092,0,02:56,,0,4,24,,0,,TIMEOUT
-27,3917,1,04:07,,10,4,4,KC 20,0,KC,
-27,3966,3,03:21,,6,4,15,KC 24,0,KC,
-27,4054,0,03:06,,0,4,16,,0,,TIMEOUT
-27,4109,4,02:55,,1,4,24,KC 44,0,KC,PUNT
-27,3943,2,03:26,,6,4,4,KC 24,0,KC,
-18,2416,3,11:07,,8,3,2,HOU 20,0,HOU,
-18,2438,4,11:01,,8,3,2,HOU 20,0,HOU,PUNT
-18,2394,2,11:12,,8,3,2,HOU 20,0,HOU,
-18,2369,1,11:46,,10,3,2,HOU 18,0,HOU,
-28,4361,1,01:42,,10,4,48,KC 29,0,HOU,
-28,4422,3,01:33,,10,4,48,KC 29,0,HOU,
-28,4244,0,02:00,,0,4,11,,0,,
-28,4141,1,02:47,,10,4,-5,HOU 23,0,HOU,PENALTY
-28,4198,2,02:17,,22,4,5,HOU 11,0,HOU,
-28,4383,2,01:38,,10,4,48,KC 29,0,HOU,
-28,4261,1,02:00,,10,4,11,HOU 34,0,HOU,
-28,4405,0,01:33,,0,4,48,,0,,TIMEOUT
-28,4307,2,01:54,,10,4,31,HOU 34,0,HOU,
-28,4164,1,02:47,,15,4,-12,HOU 18,0,HOU,
-28,4223,3,02:10,,5,4,48,HOU 28,0,HOU,TIMEOUT
-28,4444,4,01:28,,10,4,48,KC 29,1,HOU,FG
-28,4337,1,01:47,,10,4,48,KC 46,0,HOU,
-26,3705,1,06:10,,10,4,59,HOU 41,0,HOU,
-26,3864,2,04:16,,8,4,59,KC 8,1,HOU,TD
-26,3803,2,05:29,,10,4,59,KC 37,0,HOU,
-26,3884,0,04:07,,0,4,59,KC 15,1,HOU,2PS
-26,3736,2,05:51,,2,4,59,HOU 49,0,HOU,
-26,3827,1,04:58,,10,4,59,KC 25,0,HOU,PENALTY
-26,3770,1,05:34,,10,4,59,KC 37,0,HOU,
-26,4272,1,04:54,,10,4,59,KC 10,0,HOU,
-25,3620,2,07:42,,7,4,9,HOU 38,0,KC,
-25,3584,1,08:13,,10,4,9,HOU 41,0,KC,
-25,3674,4,06:16,,1,4,9,HOU 32,0,KC,FGM
-25,3650,3,07:01,,1,4,9,HOU 32,0,KC,
-1,128,1,13:18,,10,1,31,KC 42,0,KC,
-1,194,2,11:32,,8,1,37,HOU 43,0,KC,
-1,238,4,11:23,,8,1,37,HOU 43,0,KC,PUNT
-1,36,0,15:00,,0,1,0,HOU 35,0,HOU,KICKOFF
-1,216,3,11:28,,8,1,37,HOU 43,0,KC,
-1,104,2,13:55,,1,1,22,KC 29,0,KC,
-1,173,1,12:15,,10,1,37,HOU 45,0,KC,
-1,152,2,12:50,,1,1,35,HOU 49,0,KC,
-1,51,1,15:00,,10,1,22,KC 20,0,KC,PENALTY
-1,83,1,14:35,,5,1,9,KC 25,0,KC,
-5,654,2,05:21,,2,1,41,HOU 46,0,KC,
-5,518,1,08:40,,10,1,-3,KC 17,0,KC,
-5,675,1,04:39,,10,1,83,HOU 42,1,KC,TD
-5,539,2,08:08,,13,1,-3,KC 14,0,KC,
-5,630,1,06:02,,10,1,37,KC 46,0,KC,
-5,585,1,07:23,,10,1,19,KC 31,0,KC,
-5,695,0,04:28,,0,1,83,HOU 15,1,KC,XP
-5,561,3,08:04,,13,1,41,KC 14,0,KC,
-5,606,2,06:41,,5,1,29,KC 36,0,KC,
-13,1727,4,02:38,,11,2,-1,HOU 48,0,KC,PUNT
-13,1684,2,03:21,,8,2,-1,HOU 45,0,KC,
-13,1705,3,02:44,,11,2,-1,HOU 48,0,KC,
-13,1659,1,03:58,,10,2,2,HOU 47,0,KC,
-29,4463,0,01:23,,0,4,0,HOU 35,0,HOU,KICKOFF
-29,4535,2,00:40,,11,4,-2,KC 49,0,KC,
-29,4514,1,01:22,,10,4,-1,50,0,KC,
-29,4556,0,,,0,4,-2,,0,,
-21,3005,4,03:21,,9,3,25,KC 36,0,KC,PUNT
-21,2896,1,05:26,,10,3,24,KC 24,0,KC,
-21,2934,1,04:49,,10,3,24,KC 35,0,KC,
-21,2962,2,04:42,,10,3,26,KC 35,0,KC,
-21,2986,3,03:56,,8,3,25,KC 37,0,KC,
-21,2875,1,06:03,,10,3,13,KC 11,0,KC,
-23,3310,1,12:14,,10,4,28,HOU 44,0,KC,
-23,3353,0,11:25,,0,4,28,,0,,TIMEOUT
-23,3281,2,12:49,,11,4,27,KC 40,0,KC,
-23,3331,2,11:31,,9,4,28,HOU 43,0,KC,
-23,3370,3,11:25,,9,4,18,HOU 43,0,KC,PENALTY
-23,3426,4,10:04,,13,4,24,HOU 47,0,KC,PUNT
-23,3218,1,14:45,,10,4,1,KC 29,0,KC,
-23,3239,2,14:09,,9,4,12,KC 30,0,KC,
-23,3260,1,13:29,,10,4,11,KC 41,0,KC,
-23,3402,3,10:43,,19,4,24,KC 47,0,KC,
-11,1538,0,04:55,,0,2,7,HOU 15,1,KC,XP
-11,1518,1,05:01,,7,2,7,HOU 7,1,KC,TD
-14,2015,0,00:20,,0,2,64,,0,,TIMEOUT
-14,2054,4,00:13,,9,2,64,KC 16,1,HOU,FG
-14,1893,1,01:03,,10,2,67,KC 48,0,HOU,
-14,1998,0,00:20,,0,2,64,,0,,TIMEOUT
-14,1826,1,02:00,,10,2,11,HOU 31,0,HOU,
-14,2032,3,00:20,,9,2,64,KC 16,0,HOU,
-14,1747,1,02:26,,10,2,7,HOU 20,0,HOU,
-14,1917,1,00:55,,10,2,64,KC 35,0,HOU,
-14,1979,2,00:24,,6,2,64,KC 13,0,HOU,
-14,1958,1,00:47,,10,2,67,KC 17,0,HOU,
-14,1869,3,01:24,,7,2,32,HOU 34,0,HOU,
-14,1788,2,02:17,,3,2,11,HOU 27,0,HOU,
-14,1771,0,02:17,,0,2,11,,0,,TIMEOUT
-14,1941,0,00:47,,0,2,63,,0,,TIMEOUT
-14,1848,2,01:57,,10,2,14,HOU 31,0,HOU,
-14,1809,0,02:00,,0,2,11,,0,,
-8,1203,1,10:26,,10,2,2,HOU 20,0,HOU,
-8,1267,4,09:07,,7,2,3,HOU 23,0,HOU,PUNT
-8,1224,2,09:50,,8,2,3,HOU 22,0,HOU,
-8,1245,3,09:13,,7,2,3,HOU 23,0,HOU,
-8,1188,0,10:26,,0,2,0,KC 35,0,KC,KICKOFF
-19,2633,2,08:55,,10,3,12,HOU 40,0,KC,
-19,2655,3,08:50,,10,3,15,HOU 40,0,KC,
-19,2463,1,10:47,,10,3,15,KC 48,0,KC,
-19,2590,3,09:28,,1,3,12,HOU 43,0,KC,
-19,2554,3,09:51,,6,3,12,HOU 48,0,KC,PENALTY
-19,2676,4,08:25,,7,3,15,HOU 37,0,KC,PUNT
-19,2487,2,10:35,,10,3,15,KC 48,0,KC,
-19,2611,1,09:02,,10,3,12,HOU 40,0,KC,
-22,3030,1,03:05,,10,3,7,HOU 11,0,HOU,
-22,3150,3,00:29,,4,3,18,HOU 38,0,HOU,
-22,3189,4,15:00,,13,4,18,HOU 29,0,HOU,FUMBLE
-22,3126,2,01:14,,13,3,27,HOU 29,0,HOU,
-22,3169,0,,,0,3,18,,0,,
-22,3058,2,02:34,,3,3,21,HOU 18,0,HOU,
-22,3082,1,02:07,,10,3,23,HOU 32,0,HOU,
-22,3103,2,02:07,,8,3,18,HOU 34,0,HOU,PENALTY
-12,1590,2,04:20,,9,2,1,HOU 21,0,HOU,
-12,1569,1,04:55,,10,2,1,HOU 20,0,HOU,
-12,1612,3,04:16,,9,2,1,HOU 21,0,HOU,
-12,1634,4,04:10,,9,2,1,HOU 21,0,HOU,PUNT
-12,1554,0,04:55,,0,2,0,KC 35,0,KC,KICKOFF
-16,2246,4,13:46,,3,3,23,HOU 43,0,HOU,PUNT
-16,2140,1,15:00,,10,3,23,HOU 20,0,HOU,
-16,2164,1,14:39,,10,3,23,HOU 36,0,HOU,
-16,2125,0,15:00,,0,3,0,KC 35,0,KC,KICKOFF
-16,2203,2,14:27,,10,3,7,HOU 36,0,HOU,
-16,2224,3,13:53,,3,3,7,HOU 43,0,HOU,
-7,1004,2,14:19,,1,2,38,KC 45,0,KC,
-7,1123,2,11:17,,8,2,66,HOU 10,0,KC,
-7,1147,3,10:33,,7,2,66,HOU 9,0,KC,
-7,1169,4,10:29,,7,2,66,HOU 9,1,KC,FG
-7,983,1,15:00,,10,2,38,KC 36,0,KC,
-7,1054,2,13:21,,8,2,65,HOU 35,0,KC,
-7,1099,1,11:58,,10,2,65,HOU 12,0,KC,
-7,943,1,00:39,,10,1,11,KC 25,0,KC,
-7,967,0,,,0,1,11,,0,,
-7,1078,1,12:44,,10,2,63,HOU 22,0,KC,
-7,921,0,00:46,,0,1,0,HOU 35,0,HOU,KICKOFF
-7,1028,1,13:55,,10,2,40,HOU 37,0,KC,
-3,283,1,11:04,,10,1,3,HOU 13,0,KC,
-3,304,2,10:27,,7,1,13,HOU 10,1,KC,TD
-3,324,0,10:22,,0,1,13,HOU 15,1,KC,XP
-17,2264,1,13:36,,10,3,0,KC 20,0,KC,
-17,2313,3,12:23,,1,3,9,KC 29,0,KC,
-17,2289,2,13:03,,10,3,9,KC 20,0,KC,
-17,2334,4,11:56,,1,3,9,KC 29,0,KC,FUMBLE
-4,405,1,09:34,,10,1,33,HOU 42,0,HOU,
-4,355,1,10:22,,10,1,3,HOU 20,0,HOU,
-4,340,0,10:22,,0,1,0,KC 35,0,KC,KICKOFF
-4,477,3,08:59,,10,1,33,KC 47,0,HOU,
-4,499,4,08:50,,10,1,33,KC 47,0,HOU,PUNT
-4,376,2,09:45,,7,1,22,HOU 23,0,HOU,
-4,448,2,09:04,,10,1,33,KC 47,0,HOU,
-4,426,1,09:11,,10,1,33,KC 47,0,HOU,
-2,257,1,11:14,,10,1,0,HOU 7,0,HOU,INT
-15,2088,1,00:09,,10,2,-1,KC 20,0,KC,
-15,2109,0,,,0,2,-1,,0,,
-15,2073,0,00:09,,0,2,0,HOU 35,0,HOU,KICKOFF
+24,3462,1,09:52,"(9:52) A.Blue up the middle to HOU 16 for 9 yards (H.Abdullah, D.Johnson).",10,4,2,HOU 7,0,HOU,
+24,3595,2,09:35,(9:35) A.Blue up the middle to HOU 20 for 4 yards (T.Hali).,1,4,2,HOU 16,0,HOU,
+24,3483,1,09:16,"(9:16) (Shotgun) B.Hoyer pass incomplete short left. PENALTY on HOU-B.Hoyer, Intentional Grounding, 12 yards, enforced at HOU 20.",10,4,2,HOU 20,0,HOU,PENALTY
+24,3516,3,08:57,"(8:57) (Shotgun) J.Grimes up the middle to HOU 9 for 1 yard (H.Abdullah, D.Johnson).",22,4,2,HOU 8,0,HOU,
+24,3559,4,08:30,"(8:30) S.Lechler punts 49 yards to KC 42, Center-J.Weeks. D.Thomas to HOU 41 for 17 yards (A.Dent).",21,4,2,HOU 9,0,HOU,PUNT
+24,4472,2,09:07,(9:07) B.Hoyer pass incomplete deep right to D.Hopkins.,22,4,2,HOU 8,0,HOU,
+25,3620,2,07:42,"(7:42) A.Smith pass short right to A.Wilson to HOU 32 for 6 yards (K.Jackson, J.Simon).",7,4,9,HOU 38,0,KC,
+25,3584,1,08:13,"(8:13) (Shotgun) J.Charles right guard to HOU 38 for 3 yards (J.Clowney, B.Cushing).",10,4,9,HOU 41,0,KC,
+25,3674,4,06:16,"(6:16) C.Santos 51 yard field goal is No Good, Wide Left, Center-J.Winchester, Holder-D.Colquitt.",1,4,9,HOU 32,0,KC,FGM
+25,3650,3,07:01,(7:01) A.Smith pass short right to A.Sherman to HOU 32 for no gain (B.Cushing).,1,4,9,HOU 32,0,KC,
+26,3827,1,04:58,"(4:58) (No Huddle, Shotgun) R.Mallett pass incomplete short left to D.Hopkins. PENALTY on KC-J.Fleming, Defensive Pass Interference, 15 yards, enforced at KC 25 - No Play.",10,4,59,KC 25,0,HOU,PENALTY
+26,4272,1,04:54,(4:54) (Shotgun) R.Mallett pass short left to J.Grimes to KC 8 for 2 yards (H.Abdullah).,10,4,59,KC 10,0,HOU,
+26,3770,1,05:34,"(5:34) (No Huddle, Shotgun) R.Mallett pass incomplete short left to R.Griffin (E.Berry).",10,4,59,KC 37,0,HOU,
+26,3884,0,04:07,TWO-POINT CONVERSION ATTEMPT. R.Mallett pass to D.Hopkins is complete. ATTEMPT SUCCEEDS.,0,4,59,KC 15,1,HOU,2PS
+26,3803,2,05:29,"(5:29) (Shotgun) R.Mallett pass short left to D.Hopkins to KC 25 for 12 yards (J.Fleming, T.Branch).",10,4,59,KC 37,0,HOU,
+26,3864,2,04:16,"(4:16) (Shotgun) R.Mallett pass short right to D.Hopkins for 8 yards, TOUCHDOWN.",8,4,59,KC 8,1,HOU,TD
+26,3736,2,05:51,"(5:51) (No Huddle, Shotgun) R.Mallett pass short left to D.Hopkins pushed ob at KC 37 for 14 yards (J.Fleming).",2,4,59,HOU 49,0,HOU,
+26,3705,1,06:10,(6:10) (Shotgun) R.Mallett pass short left to D.Hopkins to HOU 49 for 8 yards (J.Fleming).,10,4,59,HOU 41,0,HOU,
+27,3917,1,04:07,"(4:07) K.Davis left guard to KC 24 for 4 yards (A.Dent, B.Cushing).",10,4,4,KC 20,0,KC,
+27,4092,0,02:56,Timeout #3 by HOU at 02:56.,0,4,24,,0,,TIMEOUT
+27,4054,0,03:06,Timeout #2 by HOU at 03:06.,0,4,16,,0,,TIMEOUT
+27,3943,2,03:26,(3:26) A.Smith pass incomplete short right [J.Watt].,6,4,4,KC 24,0,KC,
+27,4071,3,03:06,(3:06) J.Charles right end to KC 44 for 8 yards (J.Crick).,9,4,24,KC 36,0,KC,
+27,4016,0,03:12,Timeout #1 by HOU at 03:12.,0,4,14,,0,,TIMEOUT
+27,3966,3,03:21,(3:21) (Shotgun) A.Smith pass short left to T.Kelce pushed ob at KC 35 for 11 yards (J.Joseph).,6,4,15,KC 24,0,KC,
+27,3898,0,04:07,"R.Bullock kicks 65 yards from HOU 35 to end zone, Touchback.",0,4,0,HOU 35,0,HOU,KICKOFF
+27,4033,2,03:12,(3:12) (Shotgun) A.Smith left end to KC 36 for 2 yards (A.Dent).,11,4,16,KC 34,0,KC,
+27,4109,4,02:55,"(2:55) D.Colquitt punts 41 yards to HOU 15, Center-J.Winchester. K.Mumphery pushed ob at HOU 23 for 8 yards (D.Alexander).",1,4,24,KC 44,0,KC,PUNT
+27,3995,1,03:15,(3:15) J.Charles right tackle to KC 34 for -1 yards (J.Clowney).,10,4,14,KC 35,0,KC,
+20,2717,1,07:46,(7:46) C.Polk right end to HOU 48 for 13 yards (D.Poe).,10,3,28,HOU 35,0,HOU,
+20,2783,2,06:28,"(6:28) (Shotgun) B.Hoyer pass incomplete short left to D.Hopkins. Houston challenged the incomplete pass ruling, and the play was REVERSED. (Shotgun) B.Hoyer pass short left to D.Hopkins ran ob at KC 11 for 5 yards.",6,3,69,KC 16,0,HOU,
+20,2762,1,06:59,"(6:59) C.Polk left tackle to KC 16 for 4 yards (J.Howard, A.Bailey).",10,3,64,KC 20,0,HOU,
+20,2738,1,07:34,(7:34) B.Hoyer pass deep middle to N.Washington to KC 20 for 32 yards (M.Peters).,10,3,60,HOU 48,0,HOU,
+20,2854,4,06:09,(6:09) A.Blue right tackle to KC 11 for no gain (H.Abdullah; J.Howard).,1,3,69,KC 11,0,HOU,
+20,2693,1,08:14,(8:14) B.Hoyer pass short left to C.Fiedorowicz pushed ob at HOU 35 for 15 yards (H.Abdullah).,10,3,15,HOU 20,0,HOU,
+20,2805,3,06:12,(6:12) (Shotgun) B.Hoyer pass incomplete short right to D.Hopkins.,1,3,69,KC 11,0,HOU,
+21,2875,1,06:03,(6:03) J.Charles up the middle to KC 24 for 13 yards (J.Joseph).,10,3,13,KC 11,0,KC,
+21,2962,2,04:42,"(4:42) (Shotgun) A.Smith pass short right to D.Thomas to KC 37 for 2 yards (K.Jackson, Q.Demps).",10,3,26,KC 35,0,KC,
+21,2934,1,04:49,(4:49) A.Smith pass incomplete short right.,10,3,24,KC 35,0,KC,
+21,2896,1,05:26,(5:26) J.Charles left end pushed ob at KC 35 for 11 yards (B.Cushing).,10,3,24,KC 24,0,KC,
+21,2986,3,03:56,(3:56) (Shotgun) A.Smith sacked at KC 36 for -1 yards (J.Watt).,8,3,25,KC 37,0,KC,
+21,3005,4,03:21,"(3:21) D.Colquitt punts 56 yards to HOU 8, Center-J.Winchester. K.Mumphery to HOU 11 for 3 yards (C.West). (The Punt Hang Time was 4.40 secs.)",9,3,25,KC 36,0,KC,PUNT
+22,3030,1,03:05,(3:05) B.Hoyer pass short left to C.Shorts to HOU 18 for 7 yards (D.Ford).,10,3,7,HOU 11,0,HOU,
+22,3126,2,01:14,(1:14) (Shotgun) B.Hoyer pass short left to C.Polk to HOU 38 for 9 yards (J.Mauga).,13,3,27,HOU 29,0,HOU,
+22,3103,2,02:07,"(2:07) (Shotgun) PENALTY on HOU-B.Jones, False Start, 5 yards, enforced at HOU 34 - No Play.",8,3,18,HOU 34,0,HOU,PENALTY
+22,3150,3,00:29,(:29) (Shotgun) B.Hoyer sacked at HOU 29 for -9 yards (D.Johnson).,4,3,18,HOU 38,0,HOU,
+22,3058,2,02:34,(2:34) B.Hoyer pass short left to D.Hopkins to HOU 32 for 14 yards (J.Fleming).,3,3,21,HOU 18,0,HOU,
+22,3169,0,,END QUARTER 3,0,3,18,,0,,
+22,3189,4,15:00,"(15:00) S.Lechler punts 57 yards to KC 14, Center-J.Weeks. D.Thomas MUFFS catch, and recovers at KC 14. D.Thomas to KC 29 for 15 yards (D.Morris).",13,4,18,HOU 29,0,HOU,FUMBLE
+22,3082,1,02:07,"(2:07) C.Polk up the middle to HOU 34 for 2 yards (A.Bailey, J.Mauga).",10,3,23,HOU 32,0,HOU,
+23,3239,2,14:09,(14:09) (Shotgun) J.Charles right guard to KC 41 for 11 yards (Q.Demps).,9,4,12,KC 30,0,KC,
+23,3218,1,14:45,(14:45) J.Charles left guard to KC 30 for 1 yard (B.Cushing).,10,4,1,KC 29,0,KC,
+23,3426,4,10:04,"(10:04) D.Colquitt punts 36 yards to HOU 11, Center-J.Winchester. K.Mumphery to HOU 14 for 3 yards (D.Alexander). PENALTY on HOU-E.Pleasant, Offensive Holding, 7 yards, enforced at HOU 14.",13,4,24,HOU 47,0,KC,PUNT
+23,3370,3,11:25,"(11:25) (Shotgun) A.Smith scrambles right end to HOU 38 for 5 yards (K.Jackson). PENALTY on KC-J.Reid, Offensive Holding, 10 yards, enforced at HOU 43 - No Play.",9,4,18,HOU 43,0,KC,PENALTY
+23,3260,1,13:29,(13:29) K.Davis left end to KC 40 for -1 yards (J.Watt).,10,4,11,KC 41,0,KC,
+23,3331,2,11:31,(11:31) A.Smith pass incomplete deep right to J.Maclin.,9,4,28,HOU 43,0,KC,
+23,3402,3,10:43,(10:43) (Shotgun) A.Smith pass short middle to A.Wilson to HOU 47 for 6 yards (J.Watt).,19,4,24,KC 47,0,KC,
+23,3353,0,11:25,Timeout #1 by KC at 11:25.,0,4,28,,0,,TIMEOUT
+23,3310,1,12:14,(12:14) A.Smith left guard to HOU 43 for 1 yard (W.Mercilus).,10,4,28,HOU 44,0,KC,
+23,3281,2,12:49,(12:49) A.Smith pass short right to T.Kelce ran ob at HOU 44 for 16 yards.,11,4,27,KC 40,0,KC,
+28,4261,1,02:00,(2:00) (Shotgun) R.Mallett pass incomplete deep middle to K.Mumphery (M.Peters).,10,4,11,HOU 34,0,HOU,
+28,4164,1,02:47,(2:47) (Shotgun) R.Mallett sacked at HOU 11 for -7 yards (A.Bailey).,15,4,-12,HOU 18,0,HOU,
+28,4307,2,01:54,(1:54) (Shotgun) R.Mallett pass short right to C.Shorts pushed ob at KC 46 for 20 yards (M.Peters).,10,4,31,HOU 34,0,HOU,
+28,4198,2,02:17,(2:17) (Shotgun) R.Mallett pass short right to K.Mumphery pushed ob at HOU 28 for 17 yards (M.Peters).,22,4,5,HOU 11,0,HOU,
+28,4383,2,01:38,(1:38) (Shotgun) R.Mallett pass incomplete short right to J.Grimes.,10,4,48,KC 29,0,HOU,
+28,4337,1,01:47,(1:47) (Shotgun) R.Mallett pass short right to D.Hopkins pushed ob at KC 29 for 17 yards (E.Berry).,10,4,48,KC 46,0,HOU,
+28,4244,0,02:00,Two-Minute Warning,0,4,11,,0,,
+28,4141,1,02:47,"(2:47) (Shotgun) PENALTY on HOU-D.Brown, False Start, 5 yards, enforced at HOU 23 - No Play.",10,4,-5,HOU 23,0,HOU,PENALTY
+28,4422,3,01:33,(1:33) (Shotgun) R.Mallett pass incomplete deep right to G.Graham.,10,4,48,KC 29,0,HOU,
+28,4444,4,01:28,"(1:28) R.Bullock 47 yard field goal is GOOD, Center-J.Weeks, Holder-S.Lechler.",10,4,48,KC 29,1,HOU,FG
+28,4405,0,01:33,Timeout #3 by KC at 01:33.,0,4,48,,0,,TIMEOUT
+28,4361,1,01:42,(1:42) (Shotgun) R.Mallett pass incomplete short right to N.Washington.,10,4,48,KC 29,0,HOU,
+28,4223,3,02:10,"(2:10) (Shotgun) R.Mallett scrambles right end to HOU 34 for 6 yards (D.Johnson). Kansas City challenged the first down ruling, and the play was Upheld. The ruling on the field stands. (Timeout #2.)",5,4,48,HOU 28,0,HOU,TIMEOUT
+29,4556,0,,END GAME,0,4,-2,,0,,
+29,4535,2,00:40,(:40) A.Smith kneels to KC 48 for -1 yards.,11,4,-2,KC 49,0,KC,
+29,4463,0,01:23,R.Bullock kicks onside 15 yards from HOU 35 to 50. J.Maclin (didn't try to advance) to 50 for no gain.,0,4,0,HOU 35,0,HOU,KICKOFF
+29,4514,1,01:22,(1:22) A.Smith kneels to KC 49 for -1 yards.,10,4,-1,50,0,KC,
+1,216,3,11:28,(11:28) (Shotgun) A.Smith pass incomplete short left to J.Charles (W.Mercilus).,8,1,37,HOU 43,0,KC,
+1,152,2,12:50,(12:50) A.Smith scrambles right end pushed ob at HOU 45 for 4 yards (J.Simon).,1,1,35,HOU 49,0,KC,
+1,194,2,11:32,(11:32) (Shotgun) A.Smith pass incomplete short right to J.Maclin (J.Crick).,8,1,37,HOU 43,0,KC,
+1,51,1,15:00,"(15:00) J.Charles left end to KC 23 for 3 yards (V.Wilfork). PENALTY on HOU-V.Wilfork, Defensive Offside, 5 yards, enforced at KC 20 - No Play.",10,1,22,KC 20,0,KC,PENALTY
+1,36,0,15:00,"R.Bullock kicks 65 yards from HOU 35 to end zone, Touchback.",0,1,0,HOU 35,0,HOU,KICKOFF
+1,238,4,11:23,"(11:23) D.Colquitt punts 36 yards to HOU 7, Center-J.Winchester, downed by KC-J.Fleming.",8,1,37,HOU 43,0,KC,PUNT
+1,128,1,13:18,(13:18) (Shotgun) A.Smith pass short left to J.Maclin pushed ob at HOU 49 for 9 yards (J.Joseph).,10,1,31,KC 42,0,KC,
+1,83,1,14:35,(14:35) (Shotgun) J.Charles left guard to KC 29 for 4 yards (J.Watt).,5,1,9,KC 25,0,KC,
+1,173,1,12:15,(12:15) J.Charles up the middle to HOU 43 for 2 yards (J.Crick).,10,1,37,HOU 45,0,KC,
+1,104,2,13:55,(13:55) (Shotgun) A.Smith pass short right to A.Wilson pushed ob at KC 42 for 13 yards (K.Jackson).,1,1,22,KC 29,0,KC,
+3,283,1,11:04,(11:04) J.Charles right guard to HOU 10 for 3 yards (B.Cushing).,10,1,3,HOU 13,0,KC,
+3,304,2,10:27,"(10:27) A.Smith pass short middle to T.Kelce for 10 yards, TOUCHDOWN.",7,1,13,HOU 10,1,KC,TD
+3,324,0,10:22,"C.Santos extra point is GOOD, Center-J.Winchester, Holder-D.Colquitt.",0,1,13,HOU 15,1,KC,XP
+2,257,1,11:14,(11:14) B.Hoyer pass short right intended for D.Hopkins INTERCEPTED by M.Peters at HOU 13. M.Peters to HOU 13 for no gain (D.Hopkins).,10,1,0,HOU 7,0,HOU,INT
+5,630,1,06:02,"(6:02) A.Smith pass short right to J.Maclin to HOU 46 for 8 yards (K.Jackson, J.Simon).",10,1,37,KC 46,0,KC,
+5,585,1,07:23,(7:23) (Shotgun) A.Smith left end to KC 36 for 5 yards (B.Cushing).,10,1,19,KC 31,0,KC,
+5,695,0,04:28,"C.Santos extra point is GOOD, Center-J.Winchester, Holder-D.Colquitt.",0,1,83,HOU 15,1,KC,XP
+5,561,3,08:04,(8:04) (Shotgun) A.Smith pass short right to J.Charles to KC 31 for 17 yards (E.Pleasant).,13,1,41,KC 14,0,KC,
+5,518,1,08:40,(8:40) J.Charles left guard to KC 14 for -3 yards (J.Watt).,10,1,-3,KC 17,0,KC,
+5,654,2,05:21,(5:21) (Shotgun) K.Davis right tackle to HOU 42 for 4 yards (J.Crick).,2,1,41,HOU 46,0,KC,
+5,606,2,06:41,"(6:41) (Shotgun) A.Smith pass short left to J.Charles to KC 46 for 10 yards (A.Dent, R.Moore).",5,1,29,KC 36,0,KC,
+5,675,1,04:39,"(4:39) A.Smith pass short left to T.Kelce for 42 yards, TOUCHDOWN.",10,1,83,HOU 42,1,KC,TD
+5,539,2,08:08,(8:08) (Shotgun) A.Smith pass incomplete short right to J.Charles.,13,1,-3,KC 14,0,KC,
+4,448,2,09:04,(9:04) (Shotgun) B.Hoyer pass incomplete short left to C.Shorts.,10,1,33,KC 47,0,HOU,
+4,499,4,08:50,"(8:50) S.Lechler punts 30 yards to KC 17, Center-J.Weeks, downed by HOU-J.Weeks.",10,1,33,KC 47,0,HOU,PUNT
+4,405,1,09:34,(9:34) A.Blue right guard to KC 47 for 11 yards (H.Abdullah).,10,1,33,HOU 42,0,HOU,
+4,355,1,10:22,(10:22) A.Blue left guard to HOU 23 for 3 yards (H.Abdullah).,10,1,3,HOU 20,0,HOU,
+4,340,0,10:22,"C.Santos kicks 65 yards from KC 35 to end zone, Touchback.",0,1,0,KC 35,0,KC,KICKOFF
+4,477,3,08:59,(8:59) (Shotgun) B.Hoyer pass incomplete deep middle to C.Shorts.,10,1,33,KC 47,0,HOU,
+4,376,2,09:45,(9:45) (Shotgun) B.Hoyer pass deep left to N.Washington pushed ob at HOU 42 for 19 yards (T.Hali).,7,1,22,HOU 23,0,HOU,
+4,426,1,09:11,(9:11) B.Hoyer pass incomplete short left to R.Griffin.,10,1,33,KC 47,0,HOU,
+7,967,0,,END QUARTER 1,0,1,11,,0,,
+7,1054,2,13:21,(13:21) (Shotgun) A.Smith pass short middle to J.Maclin to HOU 22 for 13 yards (K.Jackson).,8,2,65,HOU 35,0,KC,
+7,1147,3,10:33,(10:33) (Shotgun) A.Smith pass incomplete short middle to J.Maclin (J.Joseph).,7,2,66,HOU 9,0,KC,
+7,1078,1,12:44,(12:44) (Shotgun) K.Davis up the middle to HOU 12 for 10 yards (R.Moore).,10,2,63,HOU 22,0,KC,
+7,1169,4,10:29,"(10:29) C.Santos 27 yard field goal is GOOD, Center-J.Winchester, Holder-D.Colquitt.",7,2,66,HOU 9,1,KC,FG
+7,983,1,15:00,(15:00) D.Thomas right end to KC 45 for 9 yards (Q.Demps).,10,2,38,KC 36,0,KC,
+7,1123,2,11:17,(11:17) (Shotgun) A.Smith pass short right to J.Charles to HOU 9 for 1 yard (B.Cushing; J.Clowney).,8,2,66,HOU 10,0,KC,
+7,1028,1,13:55,(13:55) (Shotgun) J.Charles left end pushed ob at HOU 35 for 2 yards (A.Bouye).,10,2,40,HOU 37,0,KC,
+7,943,1,00:39,(:39) A.Smith pass short left to J.Charles pushed ob at KC 36 for 11 yards (B.Cushing).,10,1,11,KC 25,0,KC,
+7,921,0,00:46,R.Bullock kicks 70 yards from HOU 35 to KC -5. K.Davis to KC 25 for 30 yards (K.Johnson).,0,1,0,HOU 35,0,HOU,KICKOFF
+7,1004,2,14:19,(14:19) (Shotgun) A.Smith pass short left to T.Kelce to HOU 37 for 18 yards (Q.Demps).,1,2,38,KC 45,0,KC,
+7,1099,1,11:58,(11:58) (Shotgun) A.Smith pass short right to J.Maclin to HOU 10 for 2 yards (J.Joseph).,10,2,65,HOU 12,0,KC,
+6,795,1,03:01,(3:01) J.Grimes right tackle pushed ob at KC 36 for 21 yards (R.Parker).,10,1,44,HOU 43,0,HOU,
+6,750,2,04:02,(4:02) A.Blue up the middle to HOU 28 for 2 yards (D.Johnson).,4,1,8,HOU 26,0,HOU,
+6,771,3,03:28,(3:28) (Shotgun) B.Hoyer pass short middle to C.Shorts to HOU 43 for 15 yards (J.Fleming).,2,1,23,HOU 28,0,HOU,
+6,885,2,00:51,"(:51) (Shotgun) B.Hoyer pass short right to D.Hopkins for 4 yards, TOUCHDOWN.",4,1,80,KC 4,1,HOU,TD
+6,840,1,01:55,(1:55) B.Hoyer pass short middle to C.Shorts to KC 2 for 15 yards (M.Peters; R.Parker).,10,1,78,KC 17,0,HOU,
+6,905,0,00:46,"R.Bullock extra point is No Good, Wide Right, Center-J.Weeks, Holder-S.Lechler.",0,1,80,KC 15,0,HOU,XPM
+6,864,1,01:33,"(1:33) J.Grimes right tackle to KC 4 for -2 yards (D.Johnson, J.Mauga).",2,1,76,KC 2,0,HOU,
+6,711,0,04:28,"C.Santos kicks 65 yards from KC 35 to end zone, Touchback.",0,1,0,KC 35,0,KC,KICKOFF
+6,726,1,04:28,(4:28) B.Hoyer pass short right to K.Mumphery to HOU 26 for 6 yards (M.Peters).,10,1,6,HOU 20,0,HOU,
+6,816,1,02:29,(2:29) (Shotgun) B.Hoyer pass short middle to N.Washington to KC 17 for 19 yards (M.Peters).,10,1,63,KC 36,0,HOU,
+9,1320,1,08:13,(8:13) (Shotgun) J.Charles up the middle to HOU 33 for -1 yards (J.Watt).,10,2,19,HOU 32,0,KC,
+9,1341,2,07:33,"(7:33) (Shotgun) A.Smith sacked at HOU 42 for -9 yards (J.Watt). Penalty on KC-J.Reid, Illegal Use of Hands, declined.",11,2,22,HOU 33,0,KC,
+9,1371,3,07:03,(7:03) (Shotgun) A.Smith pass short left to K.Davis to HOU 30 for 12 yards (K.Johnson).,20,2,22,HOU 42,0,KC,
+9,1292,1,08:52,(8:52) A.Smith pass deep right to J.Maclin to HOU 32 for 20 yards (A.Hal).,10,2,19,KC 48,0,KC,
+9,1412,4,06:25,"(6:25) C.Santos 48 yard field goal is GOOD, Center-J.Winchester, Holder-D.Colquitt.",8,2,22,HOU 30,1,KC,FG
+9,1395,0,06:25,Timeout #1 by HOU at 06:25.,0,2,22,,0,,TIMEOUT
+8,1267,4,09:07,"(9:07) S.Lechler punts 48 yards to KC 29, Center-J.Weeks. D.Thomas to KC 48 for 19 yards (K.Mumphery). (The Punt Hang Time was 4.60 secs.)",7,2,3,HOU 23,0,HOU,PUNT
+8,1224,2,09:50,(9:50) C.Polk right tackle to HOU 23 for 1 yard (D.Johnson).,8,2,3,HOU 22,0,HOU,
+8,1245,3,09:13,(9:13) (Shotgun) B.Hoyer pass incomplete short middle to C.Shorts.,7,2,3,HOU 23,0,HOU,
+8,1203,1,10:26,"(10:26) C.Polk up the middle to HOU 22 for 2 yards (D.Ford, J.Howard).",10,2,2,HOU 20,0,HOU,
+8,1188,0,10:26,"C.Santos kicks 65 yards from KC 35 to end zone, Touchback.",0,2,0,KC 35,0,KC,KICKOFF
+11,1518,1,05:01,"(5:01) (Shotgun) A.Smith pass short left to J.Charles for 7 yards, TOUCHDOWN.",7,2,7,HOU 7,1,KC,TD
+11,1538,0,04:55,"C.Santos extra point is GOOD, Center-J.Winchester, Holder-D.Colquitt.",0,2,7,HOU 15,1,KC,XP
+10,1465,2,05:44,(5:44) B.Hoyer pass short left to N.Washington to HOU 16 for 4 yards (J.Fleming).,18,2,-4,HOU 12,0,HOU,
+10,1446,1,06:20,(6:20) B.Hoyer sacked at HOU 12 for -8 yards (J.Howard).,10,2,-8,HOU 20,0,HOU,
+10,1489,3,05:09,"(5:09) (Shotgun) B.Hoyer sacked at HOU 7 for -9 yards (J.Houston). FUMBLES (J.Houston), RECOVERED by KC-A.Bailey at HOU 7. A.Bailey to HOU 7 for no gain (D.Newton).",14,2,-13,HOU 16,0,HOU,FUMBLE
+10,1431,0,06:20,"C.Santos kicks 65 yards from KC 35 to end zone, Touchback.",0,2,0,KC 35,0,KC,KICKOFF
+13,1727,4,02:38,"(2:38) D.Colquitt punts 48 yards to end zone, Center-J.Winchester, Touchback.",11,2,-1,HOU 48,0,KC,PUNT
+13,1659,1,03:58,(3:58) K.Davis left end to HOU 45 for 2 yards (R.Moore; W.Mercilus).,10,2,2,HOU 47,0,KC,
+13,1684,2,03:21,(3:21) (Shotgun) K.Davis up the middle to HOU 48 for -3 yards (J.Watt).,8,2,-1,HOU 45,0,KC,
+13,1705,3,02:44,(2:44) (Shotgun) A.Smith pass incomplete short right to D.Thomas.,11,2,-1,HOU 48,0,KC,
+12,1569,1,04:55,(4:55) J.Grimes up the middle to HOU 21 for 1 yard (J.Houston).,10,2,1,HOU 20,0,HOU,
+12,1634,4,04:10,"(4:10) S.Lechler punts 42 yards to KC 37, Center-J.Weeks. D.Thomas ran ob at HOU 47 for 16 yards. (The Punt Hang Time was 3.25 secs.)",9,2,1,HOU 21,0,HOU,PUNT
+12,1612,3,04:16,(4:16) (Shotgun) B.Hoyer pass incomplete short right to N.Washington (M.Peters).,9,2,1,HOU 21,0,HOU,
+12,1554,0,04:55,"C.Santos kicks 65 yards from KC 35 to end zone, Touchback.",0,2,0,KC 35,0,KC,KICKOFF
+12,1590,2,04:20,(4:20) (Shotgun) B.Hoyer pass incomplete short left to R.Griffin.,9,2,1,HOU 21,0,HOU,
+15,2073,0,00:09,"R.Bullock kicks 65 yards from HOU 35 to end zone, Touchback.",0,2,0,HOU 35,0,HOU,KICKOFF
+15,2088,1,00:09,(:09) A.Smith kneels to KC 19 for -1 yards.,10,2,-1,KC 20,0,KC,
+15,2109,0,,END QUARTER 2,0,2,-1,,0,,
+14,1788,2,02:17,(2:17) A.Blue up the middle to HOU 31 for 4 yards (D.Poe; J.Howard).,3,2,11,HOU 27,0,HOU,
+14,1848,2,01:57,(1:57) (Shotgun) J.Grimes right guard to HOU 34 for 3 yards (J.Houston).,10,2,14,HOU 31,0,HOU,
+14,1771,0,02:17,Timeout #1 by KC at 02:17.,0,2,11,,0,,TIMEOUT
+14,2054,4,00:13,"(:13) R.Bullock 34 yard field goal is GOOD, Center-J.Weeks, Holder-S.Lechler.",9,2,64,KC 16,1,HOU,FG
+14,1979,2,00:24,"(:24) (No Huddle, Shotgun) B.Hoyer sacked at KC 16 for -3 yards (A.Bailey).",6,2,64,KC 13,0,HOU,
+14,2015,0,00:20,Timeout #2 by KC at 00:20.,0,2,64,,0,,TIMEOUT
+14,1998,0,00:20,Timeout #3 by HOU at 00:20.,0,2,64,,0,,TIMEOUT
+14,1826,1,02:00,(2:00) (Shotgun) B.Hoyer pass incomplete short right to D.Hopkins.,10,2,11,HOU 31,0,HOU,
+14,1809,0,02:00,Two-Minute Warning,0,2,11,,0,,
+14,1941,0,00:47,Timeout #2 by HOU at 00:47.,0,2,63,,0,,TIMEOUT
+14,2032,3,00:20,(:20) (Shotgun) B.Hoyer pass incomplete deep left to N.Washington (J.Fleming).,9,2,64,KC 16,0,HOU,
+14,1869,3,01:24,(1:24) (Shotgun) B.Hoyer pass short left to N.Washington to KC 48 for 18 yards (E.Berry).,7,2,32,HOU 34,0,HOU,
+14,1747,1,02:26,(2:26) (Shotgun) B.Hoyer pass short left to A.Blue to HOU 27 for 7 yards (J.Mauga; T.Hali).,10,2,7,HOU 20,0,HOU,
+14,1958,1,00:47,(:47) (Shotgun) J.Grimes right guard to KC 13 for 4 yards (D.Johnson).,10,2,67,KC 17,0,HOU,
+14,1917,1,00:55,"(:55) (No Huddle, Shotgun) B.Hoyer pass short middle to R.Griffin to KC 17 for 18 yards (R.Parker).",10,2,64,KC 35,0,HOU,
+14,1893,1,01:03,"(1:03) (No Huddle, Shotgun) B.Hoyer pass short left to N.Washington pushed ob at KC 35 for 13 yards (J.Fleming).",10,2,67,KC 48,0,HOU,
+17,2289,2,13:03,(13:03) A.Smith pass short middle to T.Kelce to KC 29 for 9 yards (Q.Demps).,10,3,9,KC 20,0,KC,
+17,2334,4,11:56,"(11:56) D.Colquitt punts 53 yards to HOU 18, Center-J.Winchester. K.Mumphery MUFFS catch, and recovers at HOU 18. K.Mumphery ran ob at HOU 18 for no gain. (The Punt Hang Time was 4.75 secs.)",1,3,9,KC 29,0,KC,FUMBLE
+17,2313,3,12:23,(12:23) J.Charles left end pushed ob at KC 29 for no gain (J.Clowney).,1,3,9,KC 29,0,KC,
+17,2264,1,13:36,(13:36) (Shotgun) J.Charles up the middle to KC 20 for no gain (J.Watt).,10,3,0,KC 20,0,KC,
+16,2203,2,14:27,(14:27) A.Blue up the middle to HOU 43 for 7 yards (M.Peters; R.Parker).,10,3,7,HOU 36,0,HOU,
+16,2125,0,15:00,"C.Santos kicks 65 yards from KC 35 to end zone, Touchback.",0,3,0,KC 35,0,KC,KICKOFF
+16,2224,3,13:53,(13:53) (Shotgun) B.Hoyer pass incomplete short middle to N.Washington.,3,3,7,HOU 43,0,HOU,
+16,2140,1,15:00,(15:00) B.Hoyer pass short right to D.Hopkins ran ob at HOU 36 for 16 yards.,10,3,23,HOU 20,0,HOU,
+16,2164,1,14:39,(14:39) B.Hoyer pass incomplete short middle to A.Blue (D.Johnson).,10,3,23,HOU 36,0,HOU,
+16,2246,4,13:46,"(13:46) S.Lechler punts 57 yards to end zone, Center-J.Weeks, Touchback. (The Punt Hang Time was 5.07 secs.)",3,3,23,HOU 43,0,HOU,PUNT
+19,2554,3,09:51,"(9:51) (Shotgun) A.Smith pass short left to J.Charles to HOU 48 for no gain (J.Simon). PENALTY on HOU-K.Jackson, Defensive Offside, 5 yards, enforced at HOU 48 - No Play.",6,3,12,HOU 48,0,KC,PENALTY
+19,2611,1,09:02,(9:02) (Shotgun) A.Smith pass incomplete short right to J.Charles.,10,3,12,HOU 40,0,KC,
+19,2463,1,10:47,"(10:47) A.Smith pass deep left to J.Maclin pushed ob at HOU 13 for 39 yards (J.Joseph). KC-J.Maclin was injured during the play. His return is Probable.  Houston challenged the pass completion ruling, and the play was REVERSED. A.Smith pass incomplete deep left to J.Maclin. KC-J.Maclin was injured during the play. His return is Probable.",10,3,15,KC 48,0,KC,
+19,2487,2,10:35,(10:35) J.Charles up the middle to HOU 48 for 4 yards (A.Dent; B.Cushing).,10,3,15,KC 48,0,KC,
+19,2633,2,08:55,(8:55) (Shotgun) A.Smith pass incomplete deep right to J.O'Shaughnessy.,10,3,12,HOU 40,0,KC,
+19,2655,3,08:50,(8:50) (Shotgun) A.Smith scrambles right end to HOU 37 for 3 yards (J.Simon).,10,3,15,HOU 40,0,KC,
+19,2676,4,08:25,"(8:25) D.Colquitt punts 37 yards to end zone, Center-J.Winchester, Touchback.",7,3,15,HOU 37,0,KC,PUNT
+19,2590,3,09:28,(9:28) A.Smith right end to HOU 40 for 3 yards (K.Jackson).,1,3,12,HOU 43,0,KC,
+18,2394,2,11:12,(11:12) B.Hoyer pass incomplete short middle to N.Washington.,8,3,2,HOU 20,0,HOU,
+18,2438,4,11:01,"(11:01) S.Lechler punts 46 yards to KC 34, Center-J.Weeks. D.Thomas to KC 48 for 14 yards (B.McKinney).",8,3,2,HOU 20,0,HOU,PUNT
+18,2369,1,11:46,(11:46) (Shotgun) A.Blue right guard to HOU 20 for 2 yards (J.Mauga).,10,3,2,HOU 18,0,HOU,
+18,2416,3,11:07,(11:07) (Shotgun) B.Hoyer pass incomplete deep middle to C.Shorts (R.Parker).,8,3,2,HOU 20,0,HOU,

@@ -1,169 +1,169 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1906,0,,,0,2,9,,0,,
-9,1885,1,00:27,,10,2,9,WAS 25,0,WAS,
-9,1866,0,00:27,,0,2,0,PIT 35,0,PIT,KICKOFF
-18,3739,2,02:00,,5,4,45,WAS 6,1,PIT,TD
-18,3660,0,03:19,,0,4,18,,0,,TIMEOUT
-18,3601,1,03:32,,10,4,14,WAS 32,0,PIT,
-18,3622,0,03:25,,0,4,14,,0,,TIMEOUT
-18,3677,3,03:19,,5,4,34,WAS 27,0,PIT,
-18,3701,1,02:34,,10,4,39,WAS 11,0,PIT,
-18,3580,1,04:17,,10,4,13,WAS 45,0,PIT,
-18,3756,0,01:54,,0,4,45,WAS 15,1,PIT,XP
-18,3639,2,03:25,,9,4,18,WAS 31,0,PIT,
-18,3722,0,02:00,,0,4,39,,0,,
-6,1085,2,11:01,,8,2,75,WAS 36,0,PIT,TIMEOUT
-6,1191,3,10:56,,8,2,46,WAS 36,0,PIT,
-6,913,2,00:31,,22,1,2,PIT 13,0,PIT,
-6,1226,4,10:18,,1,2,75,WAS 29,1,PIT,TD
-6,1064,1,11:39,,10,2,39,WAS 38,0,PIT,
-6,1019,1,13:01,,10,2,39,WAS 49,0,PIT,
-6,1251,0,10:10,,0,2,75,WAS 15,1,PIT,XP
-6,953,3,15:00,,8,2,15,PIT 27,0,PIT,
-6,884,1,01:08,,10,1,75,PIT 25,0,PIT,FUMBLE
-6,998,2,13:40,,2,2,26,PIT 48,0,PIT,
-6,937,0,,,0,1,2,,0,,
-6,1040,2,12:20,,7,2,37,WAS 46,0,PIT,
-6,977,1,14:18,,10,2,23,PIT 40,0,PIT,
-6,865,0,01:08,,0,1,0,WAS 35,0,WAS,KICKOFF
-14,2757,1,02:01,,10,3,4,PIT 25,0,PIT,
-14,2778,2,01:21,,6,3,8,PIT 29,0,PIT,
-14,2738,0,02:01,,0,3,0,WAS 35,0,WAS,KICKOFF
-14,2799,3,00:36,,2,3,8,PIT 33,0,PIT,
-14,2821,4,00:31,,2,3,8,PIT 33,0,PIT,PUNT
-7,1462,4,06:27,,6,2,42,PIT 38,0,WAS,
-7,1438,3,07:16,,10,2,37,PIT 42,0,WAS,
-7,1286,1,10:10,,10,2,33,WAS 25,0,WAS,
-7,1338,1,09:17,,10,2,23,PIT 42,0,WAS,PENALTY
-7,1393,1,08:32,,25,2,27,WAS 43,0,WAS,
-7,1370,1,08:53,,20,2,18,WAS 48,0,WAS,PENALTY
-7,1267,0,10:10,,0,2,0,PIT 35,0,PIT,KICKOFF
-7,1310,0,09:17,,0,2,33,,0,,TIMEOUT
-7,1417,2,07:54,,16,2,33,PIT 48,0,WAS,
-8,1726,0,01:11,,0,2,52,,0,,TIMEOUT
-8,1767,2,00:42,,4,2,58,WAS 9,0,PIT,
-8,1639,0,02:00,,0,2,29,,0,,
-8,1615,1,02:30,,10,2,29,WAS 43,0,PIT,
-8,1594,3,03:09,,1,2,24,WAS 46,0,PIT,
-8,1678,3,01:55,,5,2,33,WAS 38,0,PIT,
-8,1702,4,01:24,,1,2,52,WAS 34,0,PIT,
-8,1813,0,00:31,,0,2,64,,0,,TIMEOUT
-8,1507,2,05:49,,5,2,9,PIT 38,0,PIT,
-8,1573,2,03:56,,1,2,21,WAS 46,0,PIT,
-8,1531,3,05:08,,1,2,12,PIT 42,0,PIT,
-8,1552,1,04:31,,10,2,21,PIT 45,0,PIT,
-8,1743,1,01:11,,10,2,58,WAS 15,0,PIT,
-8,1830,1,00:31,,3,2,67,WAS 3,1,PIT,TD
-8,1850,0,00:27,,0,2,67,WAS 15,1,PIT,XP
-8,1789,3,00:37,,4,2,64,WAS 9,0,PIT,
-8,1656,2,02:00,,5,2,29,WAS 38,0,PIT,
-8,1486,1,06:19,,10,2,5,PIT 33,0,PIT,
-10,2008,1,13:40,,10,3,40,PIT 48,0,PIT,
-10,1922,0,15:00,,0,3,0,WAS 35,0,WAS,KICKOFF
-10,2029,1,13:01,,10,3,40,WAS 35,0,PIT,
-10,1962,2,14:22,,3,3,7,PIT 32,0,PIT,
-10,1941,1,15:00,,10,3,7,PIT 25,0,PIT,
-10,2050,2,12:17,,10,3,47,WAS 35,0,PIT,
-10,2071,3,11:29,,3,3,47,WAS 28,0,PIT,
-10,1984,3,14:15,,3,3,23,PIT 32,0,PIT,
-10,2093,4,11:23,,3,3,47,WAS 28,1,PIT,FG
-19,3844,1,01:26,,10,4,20,WAS 36,0,WAS,
-19,3772,0,01:54,,0,4,0,PIT 35,0,PIT,KICKOFF
-19,3947,3,00:23,,3,4,72,PIT 3,0,WAS,INT
-19,3868,2,00:59,,1,4,66,WAS 45,0,WAS,PENALTY
-19,3820,2,01:49,,10,4,11,WAS 25,0,WAS,
-19,3925,2,00:26,,3,4,72,PIT 3,0,WAS,
-19,3791,1,01:54,,10,4,72,WAS 25,0,WAS,
-19,3901,1,00:50,,9,4,72,PIT 9,0,WAS,
-12,2325,1,07:52,,10,3,49,WAS 33,0,PIT,
-12,2277,1,09:05,,10,3,0,PIT 25,0,PIT,
-12,2407,0,07:01,,0,3,75,WAS 15,1,PIT,XP
-12,2301,2,08:26,,10,3,75,PIT 25,0,PIT,FUMBLE
-12,2375,3,07:08,,3,3,75,WAS 26,1,PIT,TD
-12,2349,2,07:14,,3,3,49,WAS 26,0,PIT,
-16,3397,0,05:48,,0,4,73,WAS 15,1,PIT,XP
-16,3096,1,12:53,,10,4,5,PIT 27,0,PIT,
-16,3167,2,10:57,,6,4,24,PIT 45,0,PIT,
-16,3191,1,10:21,,10,4,32,WAS 49,0,PIT,
-16,3212,2,09:46,,2,4,36,WAS 41,0,PIT,
-16,3233,1,09:09,,10,4,32,WAS 38,0,PIT,
-16,3146,1,11:33,,10,4,18,PIT 41,0,PIT,
-16,3380,1,05:55,,10,4,73,WAS 15,1,PIT,TD
-16,3074,0,13:01,,0,4,0,WAS 35,0,WAS,KICKOFF
-16,3332,1,07:24,,15,4,73,WAS 32,0,PIT,
-16,3276,3,08:28,,13,4,46,WAS 41,0,PIT,
-16,3254,2,08:33,,13,4,32,WAS 41,0,PIT,
-16,3300,1,07:53,,10,4,73,WAS 27,0,PIT,PENALTY
-16,3120,2,12:08,,5,4,14,PIT 32,0,PIT,
-16,3356,2,06:39,,19,4,58,WAS 36,0,PIT,
-11,2131,1,11:18,,10,3,-5,WAS 25,0,WAS,PENALTY
-11,2154,1,11:18,,15,3,-6,WAS 20,0,WAS,
-11,2234,1,09:22,,10,3,19,WAS 44,0,WAS,INT
-11,2175,2,10:40,,16,3,3,WAS 19,0,WAS,
-11,2112,0,11:18,,0,3,0,PIT 35,0,PIT,KICKOFF
-11,2199,3,10:07,,7,3,19,WAS 28,0,WAS,FUMBLE
-3,425,1,08:18,,10,1,44,PIT 31,0,WAS,
-3,474,3,07:33,,2,1,50,PIT 23,0,WAS,
-3,519,2,06:11,,6,1,54,PIT 13,0,WAS,
-3,401,2,08:53,,5,1,36,WAS 38,0,WAS,
-3,563,4,06:01,,6,1,54,PIT 13,1,WAS,FG
-3,452,2,07:36,,2,1,44,PIT 23,0,WAS,
-3,541,3,06:05,,6,1,54,PIT 13,0,WAS,
-3,498,1,06:52,,10,1,54,PIT 17,0,WAS,
-3,380,1,09:20,,10,1,5,WAS 33,0,WAS,
-17,3490,2,05:32,,10,4,7,WAS 37,0,WAS,PENALTY
-17,3413,0,05:48,,0,4,0,PIT 40,0,PIT,KICKOFF
-17,3535,3,05:15,,15,4,12,WAS 32,0,WAS,
-17,3559,4,04:26,,10,4,20,WAS 37,0,WAS,
-17,3444,1,05:48,,10,4,12,WAS 25,0,WAS,
-17,3468,1,05:32,,10,4,12,WAS 37,0,WAS,
-17,3513,2,05:20,,15,4,7,WAS 32,0,WAS,
-4,582,0,05:56,,0,1,0,WAS 35,0,WAS,KICKOFF
-4,670,1,04:00,,10,1,29,WAS 46,0,PIT,
-4,601,1,05:56,,10,1,5,PIT 25,0,PIT,
-4,625,2,05:22,,5,1,29,PIT 30,0,PIT,
-4,646,3,04:43,,1,1,29,PIT 34,0,PIT,
-4,692,2,03:56,,10,1,29,WAS 46,0,PIT,INT
-2,309,2,10:44,,10,1,6,PIT 13,0,PIT,
-2,333,3,10:09,,4,1,8,PIT 19,0,PIT,
-2,288,1,11:16,,10,1,0,PIT 13,0,PIT,
-2,357,4,09:30,,2,1,8,PIT 21,0,PIT,PUNT
-1,100,1,15:00,,10,1,12,WAS 25,0,WAS,
-1,198,1,12:54,,10,1,26,PIT 49,0,WAS,
-1,145,2,13:47,,10,1,12,WAS 37,0,WAS,
-1,241,3,12:05,,14,1,35,WAS 47,0,WAS,
-1,124,1,14:28,,10,1,12,WAS 37,0,WAS,
-1,265,4,11:25,,1,1,35,PIT 40,0,WAS,PUNT
-1,220,2,12:46,,10,1,22,PIT 49,0,WAS,
-1,81,0,15:00,,0,1,0,PIT 35,0,PIT,KICKOFF
-1,174,3,13:40,,10,1,26,WAS 37,0,WAS,
-5,718,1,03:46,,10,1,11,PIT 37,0,WAS,
-5,811,3,02:01,,9,1,14,PIT 25,0,WAS,
-5,742,1,03:08,,10,1,14,PIT 26,0,WAS,
-5,835,4,01:13,,7,1,14,PIT 23,1,WAS,FG
-5,766,2,02:29,,4,1,12,PIT 20,0,WAS,PENALTY
-5,789,2,02:06,,9,1,12,PIT 25,0,WAS,
-13,2592,2,04:18,,4,3,48,PIT 30,0,WAS,
-13,2672,2,02:53,,14,3,52,PIT 24,0,WAS,
-13,2564,1,04:56,,15,3,52,PIT 41,0,WAS,
-13,2648,1,03:30,,20,3,44,PIT 30,0,WAS,
-13,2534,1,05:13,,10,3,27,PIT 36,0,WAS,PENALTY
-13,2443,0,07:01,,0,3,0,PIT 35,0,PIT,KICKOFF
-13,2486,1,06:11,,10,3,21,WAS 44,0,WAS,
-13,2719,4,02:04,,6,3,52,PIT 16,1,WAS,FG
-13,2616,1,03:49,,10,3,52,PIT 20,0,WAS,PENALTY
-13,2697,3,02:12,,6,3,52,PIT 16,0,WAS,
-13,2465,1,06:53,,10,3,12,WAS 32,0,WAS,
-13,2510,2,05:39,,1,3,32,PIT 47,0,WAS,
-15,2870,0,,,0,3,9,,0,,
-15,2912,1,14:41,,10,4,21,WAS 39,0,WAS,
-15,3031,0,13:01,,0,4,77,PIT 15,0,WAS,PENALTY
-15,2846,1,00:19,,10,3,77,WAS 23,0,WAS,
-15,2960,1,14:03,,10,4,56,PIT 37,0,WAS,
-15,3058,0,13:01,,0,4,77,PIT 20,1,WAS,XP
-15,2886,2,15:00,,1,4,16,WAS 32,0,WAS,
-15,2936,2,14:20,,5,4,40,WAS 44,0,WAS,
-15,3014,1,13:05,,1,4,77,PIT 1,1,WAS,TD
-15,2990,1,13:36,,10,4,76,PIT 21,0,WAS,
-20,3979,1,00:18,,10,4,-2,PIT 20,0,PIT,
-20,4000,0,00:00,,0,4,-2,,0,,
+11,2131,1,11:18,"(11:18) PENALTY on WAS-M.Jones, False Start, 5 yards, enforced at WAS 25 - No Play.",10,3,-5,WAS 25,0,WAS,PENALTY
+11,2234,1,09:22,"(9:22) (Shotgun) K.Cousins pass deep left intended for J.Reed INTERCEPTED by R.Shazier at PIT 39. R.Shazier to WAS 10 for 51 yards (K.Lichtensteiger). PENALTY on PIT-M.Mitchell, Illegal Block Above the Waist, 10 yards, enforced at PIT 35.",10,3,19,WAS 44,0,WAS,INT
+11,2154,1,11:18,"(11:18) (Shotgun) M.Jones left end to WAS 19 for -1 yards (J.Harrison, W.Gay).",15,3,-6,WAS 20,0,WAS,
+11,2175,2,10:40,(10:40) (Shotgun) K.Cousins pass short middle to J.Crowder to WAS 28 for 9 yards (J.Harrison; L.Timmons).,16,3,3,WAS 19,0,WAS,
+11,2199,3,10:07,"(10:07) (Shotgun) K.Cousins pass short right to J.Crowder to WAS 35 for 7 yards (R.Shazier). FUMBLES (R.Shazier), recovered by WAS-P.Garcon at WAS 37. P.Garcon to WAS 44 for 7 yards (J.Harrison).",7,3,19,WAS 28,0,WAS,FUMBLE
+11,2112,0,11:18,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback.",0,3,0,PIT 35,0,PIT,KICKOFF
+10,2050,2,12:17,(12:17) F.Toussaint right guard to WAS 28 for 7 yards (W.Compton).,10,3,47,WAS 35,0,PIT,
+10,1984,3,14:15,(14:15) (Shotgun) B.Roethlisberger pass deep left to A.Brown pushed ob at PIT 48 for 16 yards (B.Breeland).,3,3,23,PIT 32,0,PIT,
+10,2071,3,11:29,(11:29) B.Roethlisberger pass incomplete deep left to J.James.,3,3,47,WAS 28,0,PIT,
+10,1941,1,15:00,(15:00) D.Williams left end to PIT 32 for 7 yards (B.Breeland; W.Compton).,10,3,7,PIT 25,0,PIT,
+10,1962,2,14:22,(14:22) (No Huddle) B.Roethlisberger pass incomplete short middle to D.Williams [K.Golston].,3,3,7,PIT 32,0,PIT,
+10,1922,0,15:00,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback.",0,3,0,WAS 35,0,WAS,KICKOFF
+10,2093,4,11:23,"(11:23) C.Boswell 46 yard field goal is GOOD, Center-G.Warren, Holder-J.Berry.",3,3,47,WAS 28,1,PIT,FG
+10,2008,1,13:40,(13:40) (No Huddle) D.Williams left end to WAS 35 for 17 yards (W.Compton).,10,3,40,PIT 48,0,PIT,
+10,2029,1,13:01,"(13:01) (No Huddle, Shotgun) D.Williams right end to WAS 35 for no gain (D.Bruton).",10,3,40,WAS 35,0,PIT,
+13,2648,1,03:30,(3:30) (Shotgun) K.Cousins pass short right to P.Garcon to PIT 24 for 6 yards (S.Davis).,20,3,44,PIT 30,0,WAS,
+13,2443,0,07:01,"C.Boswell kicks 62 yards from PIT 35 to WAS 3. W.Blackmon to WAS 32 for 29 yards (S.Thomas, A.Chickillo).",0,3,0,PIT 35,0,PIT,KICKOFF
+13,2592,2,04:18,(4:18) (Shotgun) K.Cousins pass short right to P.Garcon pushed ob at PIT 20 for 10 yards (R.Cockrell).,4,3,48,PIT 30,0,WAS,
+13,2465,1,06:53,(6:53) M.Jones left tackle to WAS 44 for 12 yards (R.Golden; L.Timmons).,10,3,12,WAS 32,0,WAS,
+13,2486,1,06:11,(6:11) (Shotgun) K.Cousins pass short left to D.Jackson pushed ob at PIT 47 for 9 yards (J.Jones).,10,3,21,WAS 44,0,WAS,
+13,2719,4,02:04,"(2:04) D.Hopkins 34 yard field goal is GOOD, Center-N.Sundberg, Holder-T.Way.",6,3,52,PIT 16,1,WAS,FG
+13,2616,1,03:49,"(3:49) M.Jones up the middle to PIT 20 for no gain (R.Mathews, D.McCullers). PENALTY on WAS-T.Williams, Offensive Holding, 10 yards, enforced at PIT 20 - No Play.",10,3,52,PIT 20,0,WAS,PENALTY
+13,2564,1,04:56,(4:56) (Shotgun) K.Cousins pass short middle to C.Thompson to PIT 30 for 11 yards (R.Shazier).,15,3,52,PIT 41,0,WAS,
+13,2672,2,02:53,"(2:53) (Shotgun) K.Cousins pass short left to P.Garcon to PIT 16 for 8 yards (S.Davis, W.Gay).",14,3,52,PIT 24,0,WAS,
+13,2697,3,02:12,(2:12) (Shotgun) K.Cousins pass incomplete deep right to J.Crowder.,6,3,52,PIT 16,0,WAS,
+13,2510,2,05:39,(5:39) (Shotgun) K.Cousins pass short left to D.Jackson pushed ob at PIT 36 for 11 yards (W.Gay).,1,3,32,PIT 47,0,WAS,
+13,2534,1,05:13,"(5:13) (Shotgun) PENALTY on WAS-K.Lichtensteiger, False Start, 5 yards, enforced at PIT 36 - No Play.",10,3,27,PIT 36,0,WAS,PENALTY
+12,2277,1,09:05,(9:05) (Shotgun) B.Roethlisberger pass short left to A.Brown to PIT 25 for no gain (B.Breeland).,10,3,0,PIT 25,0,PIT,
+12,2325,1,07:52,"(7:52) (No Huddle, Shotgun) B.Roethlisberger pass short left to D.Williams pushed ob at WAS 26 for 7 yards (M.Foster).",10,3,49,WAS 33,0,PIT,
+12,2301,2,08:26,"(8:26) (No Huddle, Shotgun) B.Roethlisberger to PIT 19 for -6 yards. FUMBLES, and recovers at PIT 19. B.Roethlisberger pass deep left to S.Coates pushed ob at WAS 33 for 42 yards (D.Hall).",10,3,75,PIT 25,0,PIT,FUMBLE
+12,2349,2,07:14,"(7:14) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short middle to D.Williams. Shovel pass",3,3,49,WAS 26,0,PIT,
+12,2407,0,07:01,"C.Boswell extra point is GOOD, Center-G.Warren, Holder-J.Berry.",0,3,75,WAS 15,1,PIT,XP
+12,2375,3,07:08,"(7:08) (Shotgun) B.Roethlisberger pass deep left to A.Brown for 26 yards, TOUCHDOWN. PENALTY on PIT-A.Brown, Unsportsmanlike Conduct, 15 yards, enforced between downs.",3,3,75,WAS 26,1,PIT,TD
+15,2912,1,14:41,(14:41) K.Cousins pass short middle to J.Reed to WAS 44 for 5 yards (R.Shazier; L.Timmons).,10,4,21,WAS 39,0,WAS,
+15,2870,0,,END QUARTER 3,0,3,9,,0,,
+15,2886,2,15:00,(15:00) (Shotgun) C.Thompson left end pushed ob at WAS 39 for 7 yards (M.Mitchell).,1,4,16,WAS 32,0,WAS,
+15,2960,1,14:03,"(14:03) (No Huddle, Shotgun) K.Cousins pass deep middle to J.Crowder to PIT 21 for 16 yards (M.Mitchell) [S.Tuitt].",10,4,56,PIT 37,0,WAS,
+15,2846,1,00:19,(:19) (Shotgun) K.Cousins pass short middle to M.Jones to WAS 32 for 9 yards (R.Shazier).,10,3,77,WAS 23,0,WAS,
+15,2990,1,13:36,"(13:36) (No Huddle, Shotgun) K.Cousins pass short middle to V.Davis to PIT 1 for 20 yards (L.Fort).",10,4,76,PIT 21,0,WAS,
+15,3031,0,13:01,"(Kick formation) PENALTY on WAS-D.Hopkins, Delay of Game, 5 yards, enforced at PIT 15 - No Play.",0,4,77,PIT 15,0,WAS,PENALTY
+15,3014,1,13:05,"(13:05) (No Huddle) C.Thompson right end for 1 yard, TOUCHDOWN.",1,4,77,PIT 1,1,WAS,TD
+15,2936,2,14:20,"(14:20) (No Huddle, Shotgun) K.Cousins pass deep right to P.Garcon ran ob at PIT 37 for 19 yards.",5,4,40,WAS 44,0,WAS,
+15,3058,0,13:01,"D.Hopkins extra point is GOOD, Center-N.Sundberg, Holder-T.Way.",0,4,77,PIT 20,1,WAS,XP
+14,2778,2,01:21,(1:21) D.Williams up the middle to PIT 33 for 4 yards (K.Reyes).,6,3,8,PIT 29,0,PIT,
+14,2757,1,02:01,"(2:01) D.Williams left tackle to PIT 29 for 4 yards (D.Bruton, K.Reyes).",10,3,4,PIT 25,0,PIT,
+14,2799,3,00:36,(:36) B.Roethlisberger pass incomplete short right to A.Brown.,2,3,8,PIT 33,0,PIT,
+14,2738,0,02:01,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback.",0,3,0,WAS 35,0,WAS,KICKOFF
+14,2821,4,00:31,"(:31) J.Berry punts 61 yards to WAS 6, Center-G.Warren. J.Crowder to WAS 23 for 17 yards (V.Williams; J.Dangerfield).",2,3,8,PIT 33,0,PIT,PUNT
+17,3513,2,05:20,(5:20) (Shotgun) K.Cousins pass incomplete short right to J.Crowder (M.Mitchell).,15,4,7,WAS 32,0,WAS,
+17,3444,1,05:48,(5:48) (Shotgun) K.Cousins pass short right to D.Jackson ran ob at WAS 37 for 12 yards.,10,4,12,WAS 25,0,WAS,
+17,3559,4,04:26,(4:26) (Shotgun) K.Cousins scrambles right end pushed ob at WAS 45 for 8 yards (A.Moats).,10,4,20,WAS 37,0,WAS,
+17,3490,2,05:32,"(5:32) (Shotgun) PENALTY on WAS-S.Lauvao, False Start, 5 yards, enforced at WAS 37 - No Play.",10,4,7,WAS 37,0,WAS,PENALTY
+17,3468,1,05:32,"(5:32) (No Huddle, Shotgun) K.Cousins pass incomplete short right to J.Reed [L.Fort].",10,4,12,WAS 37,0,WAS,
+17,3535,3,05:15,(5:15) (Shotgun) K.Cousins pass short left to J.Reed to WAS 37 for 5 yards (J.Jones; W.Gay).,15,4,12,WAS 32,0,WAS,
+17,3413,0,05:48,"C.Boswell kicks 60 yards from PIT 40 to end zone, Touchback.",0,4,0,PIT 40,0,PIT,KICKOFF
+16,3233,1,09:09,"(9:09) (No Huddle, Shotgun) F.Toussaint right end to WAS 41 for -3 yards (M.Foster).",10,4,32,WAS 38,0,PIT,
+16,3397,0,05:48,"C.Boswell extra point is GOOD, Center-G.Warren, Holder-J.Berry. PENALTY on WAS-J.Norman, Defensive Offside, 5 yards, enforced between downs.",0,4,73,WAS 15,1,PIT,XP
+16,3146,1,11:33,"(11:33) (No Huddle, Shotgun) D.Williams up the middle to PIT 45 for 4 yards (M.Foster; P.Smith).",10,4,18,PIT 41,0,PIT,
+16,3212,2,09:46,"(9:46) (No Huddle, Shotgun) D.Williams up the middle to WAS 38 for 3 yards (M.Foster, E.Hood).",2,4,36,WAS 41,0,PIT,
+16,3120,2,12:08,"(12:08) (No Huddle, Shotgun) D.Williams right end pushed ob at PIT 41 for 9 yards (M.Foster).",5,4,14,PIT 32,0,PIT,
+16,3254,2,08:33,"(8:33) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short right to A.Brown (J.Norman).",13,4,32,WAS 41,0,PIT,
+16,3276,3,08:28,"(8:28) (Shotgun) B.Roethlisberger pass short right to S.Coates to WAS 27 for 14 yards (S.Cravens, J.Norman).",13,4,46,WAS 41,0,PIT,
+16,3332,1,07:24,(7:24) B.Roethlisberger pass short left to D.Williams to WAS 36 for -4 yards (M.Foster).,15,4,73,WAS 32,0,PIT,
+16,3356,2,06:39,(6:39) (Shotgun) B.Roethlisberger pass deep left to A.Brown to WAS 15 for 21 yards (B.Breeland).,19,4,58,WAS 36,0,PIT,
+16,3096,1,12:53,(12:53) (Shotgun) B.Roethlisberger pass short middle to D.Williams to PIT 32 for 5 yards (W.Compton; D.Bruton).,10,4,5,PIT 27,0,PIT,
+16,3191,1,10:21,"(10:21) (No Huddle, Shotgun) D.Williams right guard to WAS 41 for 8 yards (D.Bruton).",10,4,32,WAS 49,0,PIT,
+16,3167,2,10:57,"(10:57) (No Huddle, Shotgun) B.Roethlisberger pass short middle to J.James to WAS 49 for 6 yards (D.Phillips; M.Foster).",6,4,24,PIT 45,0,PIT,
+16,3074,0,13:01,D.Hopkins kicks 56 yards from WAS 35 to PIT 9. F.Toussaint to PIT 27 for 18 yards (T.Garvin; H.Bates).,0,4,0,WAS 35,0,WAS,KICKOFF
+16,3300,1,07:53,"(7:53) (No Huddle, Shotgun) D.Williams right end to WAS 22 for 5 yards (D.Hall; P.Smith). PENALTY on PIT-J.James, Offensive Holding, 10 yards, enforced at WAS 22.",10,4,73,WAS 27,0,PIT,PENALTY
+16,3380,1,05:55,"(5:55) (Shotgun) D.Williams left end for 15 yards, TOUCHDOWN.",10,4,73,WAS 15,1,PIT,TD
+19,3772,0,01:54,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback.",0,4,0,PIT 35,0,PIT,KICKOFF
+19,3868,2,00:59,"(:59) (No Huddle, Shotgun) K.Cousins pass incomplete deep right to D.Jackson (R.Cockrell). PENALTY on PIT-R.Cockrell, Defensive Pass Interference, 46 yards, enforced at WAS 45 - No Play.",1,4,66,WAS 45,0,WAS,PENALTY
+19,3901,1,00:50,(:50) (Shotgun) K.Cousins pass short left to J.Crowder to PIT 3 for 6 yards (R.Golden; W.Gay).,9,4,72,PIT 9,0,WAS,
+19,3820,2,01:49,(1:49) (Shotgun) K.Cousins pass short middle to J.Reed to WAS 36 for 11 yards (L.Timmons).,10,4,11,WAS 25,0,WAS,
+19,3925,2,00:26,"(:26) (No Huddle, Shotgun) K.Cousins pass incomplete short left to D.Jackson.",3,4,72,PIT 3,0,WAS,
+19,3791,1,01:54,(1:54) (Shotgun) K.Cousins pass incomplete short right to D.Jackson (D.McCullers).,10,4,72,WAS 25,0,WAS,
+19,3947,3,00:23,(:23) (Shotgun) K.Cousins pass short middle intended for J.Crowder INTERCEPTED by J.Harrison at PIT -3. Touchback.,3,4,72,PIT 3,0,WAS,INT
+19,3844,1,01:26,"(1:26) (No Huddle, Shotgun) K.Cousins pass short left to J.Doctson to WAS 45 for 9 yards (W.Gay).",10,4,20,WAS 36,0,WAS,
+18,3580,1,04:17,(4:17) D.Williams left end to WAS 32 for 13 yards (B.Breeland).,10,4,13,WAS 45,0,PIT,
+18,3601,1,03:32,"(3:32) D.Williams left tackle to WAS 31 for 1 yard (K.Golston, W.Compton).",10,4,14,WAS 32,0,PIT,
+18,3660,0,03:19,Timeout #2 by WAS at 03:19.,0,4,18,,0,,TIMEOUT
+18,3639,2,03:25,(3:25) D.Williams left guard to WAS 27 for 4 yards (M.Foster).,9,4,18,WAS 31,0,PIT,
+18,3622,0,03:25,Timeout #1 by WAS at 03:25.,0,4,14,,0,,TIMEOUT
+18,3756,0,01:54,"C.Boswell extra point is GOOD, Center-G.Warren, Holder-J.Berry.",0,4,45,WAS 15,1,PIT,XP
+18,3739,2,02:00,"(2:00) D.Williams left end for 6 yards, TOUCHDOWN.",5,4,45,WAS 6,1,PIT,TD
+18,3701,1,02:34,(2:34) D.Williams up the middle to WAS 6 for 5 yards (D.Hall).,10,4,39,WAS 11,0,PIT,
+18,3677,3,03:19,(3:19) (Shotgun) B.Roethlisberger pass deep left to A.Brown to WAS 11 for 16 yards (B.Breeland).,5,4,34,WAS 27,0,PIT,
+18,3722,0,02:00,Two-Minute Warning,0,4,39,,0,,
+20,3979,1,00:18,(:18) B.Roethlisberger kneels to PIT 18 for -2 yards.,10,4,-2,PIT 20,0,PIT,
+20,4000,0,00:00,END GAME,0,4,-2,,0,,
+1,81,0,15:00,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback.",0,1,0,PIT 35,0,PIT,KICKOFF
+1,198,1,12:54,(12:54) K.Cousins pass incomplete short right to R.Grant.,10,1,26,PIT 49,0,WAS,
+1,145,2,13:47,(13:47) (Shotgun) K.Cousins pass incomplete short middle to J.Reed (L.Timmons).,10,1,12,WAS 37,0,WAS,
+1,124,1,14:28,"(14:28) M.Jones up the middle to WAS 37 for no gain (R.Shazier, J.Jones).",10,1,12,WAS 37,0,WAS,
+1,265,4,11:25,"(11:25) T.Way punts 27 yards to PIT 13, Center-N.Sundberg, fair catch by E.Rogers.",1,1,35,PIT 40,0,WAS,PUNT
+1,241,3,12:05,(12:05) (Shotgun) K.Cousins pass short middle to J.Reed to PIT 40 for 13 yards (C.Heyward).,14,1,35,WAS 47,0,WAS,
+1,100,1,15:00,"(15:00) (Shotgun) K.Cousins pass short right to J.Reed to WAS 37 for 12 yards (L.Timmons, R.Cockrell).",10,1,12,WAS 25,0,WAS,
+1,174,3,13:40,"(13:40) (Shotgun) K.Cousins pass short right to J.Reed to PIT 49 for 14 yards (S.Davis, M.Mitchell).",10,1,26,WAS 37,0,WAS,
+1,220,2,12:46,(12:46) (Shotgun) M.Jones left end to WAS 47 for -4 yards (S.Tuitt; C.Heyward).,10,1,22,PIT 49,0,WAS,
+3,519,2,06:11,(6:11) (Shotgun) K.Cousins pass incomplete short middle to J.Reed (R.Shazier).,6,1,54,PIT 13,0,WAS,
+3,401,2,08:53,"(8:53) (No Huddle, Shotgun) K.Cousins pass short left to D.Jackson pushed ob at PIT 31 for 31 yards (M.Mitchell).",5,1,36,WAS 38,0,WAS,
+3,452,2,07:36,(7:36) K.Cousins pass incomplete short right to D.Jackson (A.Moats).,2,1,44,PIT 23,0,WAS,
+3,563,4,06:01,"(6:01) D.Hopkins 31 yard field goal is GOOD, Center-N.Sundberg, Holder-T.Way.",6,1,54,PIT 13,1,WAS,FG
+3,380,1,09:20,(9:20) M.Jones right end to WAS 38 for 5 yards (J.Jones).,10,1,5,WAS 33,0,WAS,
+3,541,3,06:05,(6:05) (Shotgun) K.Cousins pass incomplete short right to J.Crowder.,6,1,54,PIT 13,0,WAS,
+3,498,1,06:52,(6:52) M.Jones left guard to PIT 13 for 4 yards (L.Timmons).,10,1,54,PIT 17,0,WAS,
+3,474,3,07:33,(7:33) (Shotgun) K.Cousins pass short right to D.Jackson to PIT 17 for 6 yards (R.Cockrell).,2,1,50,PIT 23,0,WAS,
+3,425,1,08:18,(8:18) (Shotgun) M.Jones right tackle to PIT 23 for 8 yards (J.Jones; S.Davis).,10,1,44,PIT 31,0,WAS,
+2,357,4,09:30,"(9:30) J.Berry punts 46 yards to WAS 33, Center-G.Warren, fair catch by J.Crowder.",2,1,8,PIT 21,0,PIT,PUNT
+2,288,1,11:16,(11:16) (Shotgun) D.Williams left end to PIT 13 for no gain (M.Foster).,10,1,0,PIT 13,0,PIT,
+2,333,3,10:09,"(10:09) (No Huddle, Shotgun) B.Roethlisberger pass short right to D.Williams to PIT 21 for 2 yards (S.Cravens; W.Compton).",4,1,8,PIT 19,0,PIT,
+2,309,2,10:44,"(10:44) (No Huddle, Shotgun) B.Roethlisberger pass short right to E.Rogers to PIT 19 for 6 yards (J.Norman; W.Compton).",10,1,6,PIT 13,0,PIT,
+5,742,1,03:08,(3:08) (Shotgun) K.Cousins pass short right to P.Garcon to PIT 20 for 6 yards (R.Golden; R.Cockrell).,10,1,14,PIT 26,0,WAS,
+5,835,4,01:13,"(1:13) D.Hopkins 40 yard field goal is GOOD, Center-N.Sundberg, Holder-T.Way. Penalty on PIT-A.Burns, Defensive Offside, declined.",7,1,14,PIT 23,1,WAS,FG
+5,718,1,03:46,(3:46) (Shotgun) K.Cousins pass short middle to J.Crowder to PIT 26 for 11 yards (A.Chickillo).,10,1,11,PIT 37,0,WAS,
+5,766,2,02:29,"(2:29) (Shotgun) PENALTY on WAS-K.Lichtensteiger, False Start, 5 yards, enforced at PIT 20 - No Play.",4,1,12,PIT 20,0,WAS,PENALTY
+5,789,2,02:06,(2:06) (Shotgun) K.Cousins pass incomplete short right to D.Jackson.,9,1,12,PIT 25,0,WAS,
+5,811,3,02:01,(2:01) (Shotgun) K.Cousins pass short middle to P.Garcon to PIT 23 for 2 yards (R.Golden).,9,1,14,PIT 25,0,WAS,
+4,692,2,03:56,"(3:56) (No Huddle, Shotgun) B.Roethlisberger pass short left intended for E.Rogers INTERCEPTED by B.Breeland at WAS 37. B.Breeland pushed ob at PIT 37 for 26 yards (D.Williams).",10,1,29,WAS 46,0,PIT,INT
+4,601,1,05:56,(5:56) (Shotgun) B.Roethlisberger pass short left to A.Brown to PIT 30 for 5 yards (M.Foster).,10,1,5,PIT 25,0,PIT,
+4,625,2,05:22,"(5:22) (No Huddle, Shotgun) D.Williams up the middle to PIT 34 for 4 yards (C.Baker, D.Bruton).",5,1,29,PIT 30,0,PIT,
+4,670,1,04:00,"(4:00) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short right to S.Coates.",10,1,29,WAS 46,0,PIT,
+4,646,3,04:43,(4:43) B.Roethlisberger pass short middle to E.Rogers to WAS 46 for 20 yards (J.Norman).,1,1,29,PIT 34,0,PIT,
+4,582,0,05:56,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback.",0,1,0,WAS 35,0,WAS,KICKOFF
+7,1286,1,10:10,(10:10) K.Cousins pass deep right to D.Jackson to PIT 42 for 33 yards (M.Mitchell).,10,2,33,WAS 25,0,WAS,
+7,1338,1,09:17,"(9:17) M.Jones up the middle to PIT 32 for 10 yards (R.Cockrell, M.Mitchell). PENALTY on WAS-V.Davis, Offensive Holding, 10 yards, enforced at PIT 42 - No Play.",10,2,23,PIT 42,0,WAS,PENALTY
+7,1310,0,09:17,Timeout #2 by WAS at 09:17.,0,2,33,,0,,TIMEOUT
+7,1267,0,10:10,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback.",0,2,0,PIT 35,0,PIT,KICKOFF
+7,1438,3,07:16,(7:16) (Shotgun) K.Cousins pass short left to J.Reed to PIT 38 for 4 yards (L.Timmons).,10,2,37,PIT 42,0,WAS,
+7,1370,1,08:53,"(8:53) (Shotgun) PENALTY on WAS-T.Williams, False Start, 5 yards, enforced at WAS 48 - No Play.",20,2,18,WAS 48,0,WAS,PENALTY
+7,1462,4,06:27,(6:27) (Shotgun) K.Cousins pass short middle to C.Thompson to PIT 33 for 5 yards (R.Golden).,6,2,42,PIT 38,0,WAS,
+7,1393,1,08:32,(8:32) (Shotgun) K.Cousins pass short middle to J.Crowder to PIT 48 for 9 yards (L.Timmons; J.Jones).,25,2,27,WAS 43,0,WAS,
+7,1417,2,07:54,(7:54) (Shotgun) C.Thompson right guard to PIT 42 for 6 yards (R.Shazier).,16,2,33,PIT 48,0,WAS,
+6,977,1,14:18,"(14:18) D.Williams left guard to PIT 48 for 8 yards (J.Norman, M.Foster).",10,2,23,PIT 40,0,PIT,
+6,1226,4,10:18,"(10:18) B.Roethlisberger pass deep left to A.Brown for 29 yards, TOUCHDOWN.",1,2,75,WAS 29,1,PIT,TD
+6,1085,2,11:01,"(11:01) B.Roethlisberger pass incomplete short right to A.Brown (J.Norman). Washington challenged the incomplete pass ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",8,2,75,WAS 36,0,PIT,TIMEOUT
+6,1040,2,12:20,"(12:20) B.Roethlisberger pass short middle to J.James to WAS 38 for 8 yards (J.Norman, B.Breeland).",7,2,37,WAS 46,0,PIT,
+6,884,1,01:08,"(1:08) B.Roethlisberger sacked at PIT 13 for -12 yards (R.Kerrigan). FUMBLES (R.Kerrigan) [E.Hood], and recovers at PIT 15. B.Roethlisberger to PIT 13 for -2 yards (R.Kerrigan).",10,1,75,PIT 25,0,PIT,FUMBLE
+6,1191,3,10:56,(10:56) (Shotgun) B.Roethlisberger pass short middle to J.James to WAS 29 for 7 yards (D.Bruton; W.Compton).,8,2,46,WAS 36,0,PIT,
+6,953,3,15:00,(15:00) (Shotgun) B.Roethlisberger pass short right to A.Brown to PIT 40 for 13 yards (D.Phillips) [P.Smith].,8,2,15,PIT 27,0,PIT,
+6,865,0,01:08,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback.",0,1,0,WAS 35,0,WAS,KICKOFF
+6,998,2,13:40,"(13:40) D.Williams right end to WAS 49 for 3 yards (K.Golston, C.Baker).",2,2,26,PIT 48,0,PIT,
+6,1064,1,11:39,(11:39) F.Toussaint right tackle to WAS 36 for 2 yards (W.Compton; D.Bruton).,10,2,39,WAS 38,0,PIT,
+6,1019,1,13:01,(13:01) D.Williams left tackle to WAS 46 for 3 yards (W.Compton; C.Baker).,10,2,39,WAS 49,0,PIT,
+6,1251,0,10:10,"C.Boswell extra point is GOOD, Center-G.Warren, Holder-J.Berry.",0,2,75,WAS 15,1,PIT,XP
+6,937,0,,END QUARTER 1,0,1,2,,0,,
+6,913,2,00:31,(:31) (Shotgun) B.Roethlisberger pass short left to D.Williams to PIT 27 for 14 yards (W.Compton).,22,1,2,PIT 13,0,PIT,
+9,1906,0,,END QUARTER 2,0,2,9,,0,,
+9,1885,1,00:27,(:27) (Shotgun) C.Thompson right tackle to WAS 34 for 9 yards (R.Golden; M.Mitchell).,10,2,9,WAS 25,0,WAS,
+9,1866,0,00:27,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback.",0,2,0,PIT 35,0,PIT,KICKOFF
+8,1789,3,00:37,"(:37) (Shotgun) B.Roethlisberger pass short middle to J.James to WAS 3 for 6 yards (W.Compton, D.Hall).",4,2,64,WAS 9,0,PIT,
+8,1702,4,01:24,(1:24) (No Huddle) B.Roethlisberger pass short middle to E.Rogers to WAS 15 for 19 yards (B.Breeland).,1,2,52,WAS 34,0,PIT,
+8,1552,1,04:31,"(4:31) (No Huddle, Shotgun) D.Williams left end to WAS 46 for 9 yards (E.Hood, B.Breeland).",10,2,21,PIT 45,0,PIT,
+8,1850,0,00:27,"C.Boswell extra point is GOOD, Center-G.Warren, Holder-J.Berry.",0,2,67,WAS 15,1,PIT,XP
+8,1813,0,00:31,Timeout #2 by PIT at 00:31.,0,2,64,,0,,TIMEOUT
+8,1726,0,01:11,Timeout #1 by PIT at 01:11.,0,2,52,,0,,TIMEOUT
+8,1639,0,02:00,Two-Minute Warning,0,2,29,,0,,
+8,1615,1,02:30,"(2:30) (No Huddle, Shotgun) B.Roethlisberger pass short middle to E.Rogers to WAS 38 for 5 yards (W.Compton).",10,2,29,WAS 43,0,PIT,
+8,1830,1,00:31,"(:31) (Shotgun) B.Roethlisberger pass short left to E.Rogers for 3 yards, TOUCHDOWN.",3,2,67,WAS 3,1,PIT,TD
+8,1594,3,03:09,(3:09) D.Williams right guard to WAS 43 for 3 yards (D.Bruton).,1,2,24,WAS 46,0,PIT,
+8,1678,3,01:55,"(1:55) (Shotgun) B.Roethlisberger pass short right to D.Williams to WAS 34 for 4 yards (S.Cravens, J.Norman).",5,2,33,WAS 38,0,PIT,
+8,1486,1,06:19,(6:19) (Shotgun) D.Williams left guard to PIT 38 for 5 yards (M.Foster).,10,2,5,PIT 33,0,PIT,
+8,1531,3,05:08,(5:08) (Shotgun) D.Williams up the middle to PIT 45 for 3 yards (D.Hall; M.Foster).,1,2,12,PIT 42,0,PIT,
+8,1573,2,03:56,"(3:56) (No Huddle, Shotgun) D.Williams right end to WAS 46 for no gain (P.Smith; M.Foster).",1,2,21,WAS 46,0,PIT,
+8,1743,1,01:11,(1:11) (Shotgun) B.Roethlisberger pass short left to E.Rogers to WAS 9 for 6 yards (S.Cravens).,10,2,58,WAS 15,0,PIT,
+8,1656,2,02:00,(2:00) (Shotgun) B.Roethlisberger pass incomplete short right to D.Williams [C.Baker].,5,2,29,WAS 38,0,PIT,
+8,1767,2,00:42,"(:42) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short middle to J.James (D.Bruton).",4,2,58,WAS 9,0,PIT,
+8,1507,2,05:49,"(5:49) (No Huddle, Shotgun) B.Roethlisberger pass short middle to J.James to PIT 42 for 4 yards (D.Hall).",5,2,9,PIT 38,0,PIT,

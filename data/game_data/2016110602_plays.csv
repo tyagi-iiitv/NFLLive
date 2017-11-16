@@ -1,158 +1,158 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1768,2,00:53,,3,2,34,CLE 45,0,CLE,
-9,1888,2,00:30,,10,2,80,DAL 12,1,CLE,TD
-9,1830,1,00:44,,10,2,68,DAL 34,0,CLE,PENALTY
-9,1698,0,01:50,,0,2,0,DAL 35,0,DAL,KICKOFF
-9,1854,1,00:35,,10,2,68,DAL 12,0,CLE,
-9,1806,1,00:50,,10,2,46,DAL 46,0,CLE,
-9,1789,0,00:50,,0,2,34,,0,,TIMEOUT
-9,1720,1,01:43,,10,2,18,CLE 20,0,CLE,
-9,1744,1,01:18,,10,2,25,CLE 38,0,CLE,
-9,1931,0,00:23,,0,2,80,DAL 15,1,CLE,XP
-6,1139,1,11:32,,10,2,45,CLE 24,0,DAL,
-6,1073,2,13:29,,5,2,33,CLE 49,0,DAL,
-6,1161,2,11:27,,10,2,40,CLE 24,0,DAL,PENALTY
-6,1208,3,10:47,,6,2,59,CLE 20,0,DAL,
-6,1184,2,11:27,,15,2,49,CLE 29,0,DAL,
-6,1115,2,12:11,,8,2,45,CLE 34,0,DAL,
-6,1052,1,14:11,,10,2,20,DAL 46,0,DAL,
-6,1028,1,14:50,,10,2,15,DAL 31,0,DAL,
-6,1254,0,10:02,,0,2,69,CLE 15,1,DAL,XP
-6,1094,1,12:46,,10,2,35,CLE 36,0,DAL,
-6,1232,1,10:09,,10,2,69,CLE 10,1,DAL,TD
-14,2719,0,01:41,,0,3,0,DAL 35,0,DAL,KICKOFF
-14,2757,1,01:41,,5,3,-3,CLE 30,0,CLE,
-14,2798,3,01:02,,13,3,5,CLE 22,0,CLE,
-14,2776,2,01:08,,13,3,-3,CLE 22,0,CLE,
-14,2734,1,01:41,,10,3,5,CLE 25,0,CLE,PENALTY
-14,2824,4,00:25,,5,3,5,CLE 30,0,CLE,PUNT
-7,1270,0,10:02,,0,2,0,DAL 35,0,DAL,KICKOFF
-7,1345,1,08:34,,10,2,19,CLE 21,0,CLE,
-7,1324,2,09:13,,8,2,11,CLE 12,0,CLE,
-7,1369,2,07:59,,6,2,14,CLE 25,0,CLE,
-7,1414,4,06:38,,2,2,19,CLE 29,0,CLE,PUNT
-7,1303,1,09:54,,10,2,2,CLE 10,0,CLE,
-7,1390,3,07:16,,7,2,19,CLE 24,0,CLE,
-8,1531,3,03:38,,1,2,42,CLE 31,0,DAL,
-8,1510,2,04:21,,13,2,67,CLE 43,0,DAL,
-8,1566,1,03:05,,10,2,57,CLE 25,0,DAL,
-8,1654,3,01:54,,6,2,67,CLE 6,1,DAL,TD
-8,1615,0,02:00,,0,2,61,,0,,
-8,1681,0,01:50,,0,2,67,CLE 15,1,DAL,XP
-8,1465,1,05:49,,10,2,27,DAL 45,0,DAL,
-8,1489,1,05:03,,10,2,24,CLE 40,0,DAL,
-8,1439,1,06:29,,10,2,12,DAL 33,0,DAL,
-8,1587,1,02:25,,10,2,61,CLE 10,0,DAL,
-8,1632,2,02:00,,6,2,67,CLE 6,0,DAL,
-10,1962,1,00:23,,10,2,-1,DAL 25,0,DAL,
-10,1947,0,00:23,,0,2,0,CLE 35,0,CLE,KICKOFF
-10,1983,0,,,0,2,-1,,0,,
-12,2324,1,10:32,,10,3,3,CLE 19,0,CLE,
-12,2227,0,11:30,,0,3,0,DAL 35,0,DAL,KICKOFF
-12,2453,4,07:19,,10,3,22,CLE 30,0,CLE,PUNT
-12,2367,3,09:10,,5,3,22,CLE 24,0,CLE,
-12,2343,2,09:47,,18,3,16,CLE 11,0,CLE,
-12,2275,1,11:24,,10,3,2,CLE 8,0,CLE,
-12,2412,2,08:01,,8,3,22,CLE 32,0,CLE,
-12,2434,3,07:57,,8,3,22,CLE 32,0,CLE,
-12,2391,1,08:31,,10,3,24,CLE 30,0,CLE,
-12,2296,2,11:00,,8,3,11,CLE 10,0,CLE,
-16,3167,2,09:08,,6,4,2,CLE 16,0,CLE,
-16,3139,1,09:41,,10,4,4,CLE 12,0,CLE,
-16,3188,3,08:33,,8,4,6,CLE 14,0,CLE,
-16,3212,4,07:59,,4,4,6,CLE 18,0,CLE,PUNT
-11,2059,2,13:36,,9,3,55,CLE 39,0,DAL,
-11,2038,1,14:18,,10,3,75,CLE 40,0,DAL,FUMBLE
-11,2126,3,12:07,,9,3,61,CLE 19,0,DAL,PENALTY
-11,2105,2,12:47,,10,3,56,CLE 20,0,DAL,
-11,1999,0,15:00,,0,3,0,CLE 35,0,CLE,KICKOFF
-11,2194,1,11:36,,8,3,75,CLE 8,1,DAL,TD
-11,2083,1,12:52,,10,3,55,CLE 20,0,DAL,
-11,2014,1,15:00,,10,3,35,DAL 25,0,DAL,
-11,2159,3,12:03,,4,3,67,CLE 14,0,DAL,
-11,2211,0,11:30,,0,3,75,CLE 15,1,DAL,XP
-3,664,4,04:44,,6,1,15,CLE 40,0,CLE,PUNT
-3,555,2,06:13,,8,1,15,CLE 27,0,CLE,
-3,579,1,05:45,,10,1,6,CLE 36,0,CLE,
-3,512,0,06:47,,0,1,0,DAL 35,0,DAL,KICKOFF
-3,527,1,06:47,,10,1,2,CLE 25,0,CLE,
-3,640,3,05:22,,15,1,15,CLE 31,0,CLE,
-3,618,2,05:27,,15,1,6,CLE 31,0,CLE,
-17,3384,4,03:53,,1,4,22,CLE 34,0,DAL,TIMEOUT
-17,3622,0,00:00,,0,4,37,,0,,
-17,3279,3,06:26,,1,4,12,CLE 46,0,DAL,
-17,3258,2,07:08,,5,4,9,50,0,DAL,
-17,3498,3,02:00,,4,4,31,CLE 27,0,DAL,
-17,3580,1,00:55,,10,4,38,CLE 16,0,DAL,
-17,3409,1,03:14,,10,4,24,CLE 33,0,DAL,
-17,3460,2,02:29,,8,4,28,CLE 31,0,DAL,
-17,3363,3,04:34,,3,4,21,CLE 36,0,DAL,
-17,3536,4,01:13,,1,4,39,CLE 24,0,DAL,
-17,3304,1,05:46,,10,4,14,CLE 43,0,DAL,
-17,3481,0,02:00,,0,4,28,,0,,
-17,3601,2,00:18,,11,4,37,CLE 17,0,DAL,
-17,3519,0,01:13,,0,4,31,,0,,TIMEOUT
-17,3237,1,07:48,,10,4,5,DAL 45,0,DAL,
-17,3563,0,00:55,,0,4,39,,0,,TIMEOUT
-17,3325,0,05:17,,0,4,14,,0,,TIMEOUT
-17,3342,2,05:17,,8,4,19,CLE 41,0,DAL,
-4,714,2,03:58,,5,1,5,DAL 6,0,DAL,
-4,762,4,03:11,,5,1,5,DAL 6,0,DAL,PUNT
-4,740,3,03:16,,5,1,5,DAL 6,0,DAL,
-4,687,1,04:33,,10,1,5,DAL 1,0,DAL,
-2,221,1,12:40,,10,1,8,DAL 25,0,DAL,
-2,698,0,08:14,,0,1,75,,0,,TIMEOUT
-2,356,2,09:46,,14,1,25,DAL 45,0,DAL,
-2,262,2,12:16,,2,1,12,DAL 33,0,DAL,
-2,206,0,12:40,,0,1,0,CLE 35,0,CLE,KICKOFF
-2,331,1,10:27,,10,1,20,DAL 49,0,DAL,
-2,307,2,11:05,,7,1,24,DAL 40,0,DAL,
-2,496,0,06:47,,0,1,75,CLE 15,1,DAL,XP
-2,476,2,06:53,,8,1,75,CLE 26,1,DAL,TD
-2,599,0,08:53,,0,1,75,,0,,TIMEOUT
-2,283,1,11:42,,10,1,15,DAL 37,0,DAL,
-2,429,1,08:14,,10,1,47,CLE 38,0,DAL,
-2,245,0,12:28,,0,1,8,,0,,Timeout
-2,403,3,08:53,,4,1,37,CLE 45,0,DAL,
-2,451,1,07:39,,10,1,49,CLE 28,0,DAL,
-2,380,3,09:46,,9,1,37,50,0,DAL,PENALTY
-1,128,2,13:00,,8,1,62,DAL 13,0,CLE,
-1,55,1,15:00,,10,1,16,CLE 25,0,CLE,
-1,79,1,14:27,,10,1,60,CLE 41,0,CLE,
-1,150,3,12:55,,8,1,62,DAL 13,0,CLE,
-1,103,1,13:41,,10,1,62,DAL 15,0,CLE,
-1,187,4,12:44,,8,1,62,DAL 13,1,CLE,FG
-1,36,0,15:00,,0,1,62,DAL 35,0,DAL,KICKOFF
-5,937,2,00:13,,10,1,31,DAL 31,0,CLE,
-5,859,4,01:17,,1,1,12,DAL 45,0,CLE,
-5,1008,4,14:54,,2,2,31,DAL 23,0,CLE,FGM
-5,831,3,01:50,,10,1,9,CLE 46,0,CLE,
-5,986,3,15:00,,2,2,31,DAL 23,0,CLE,
-5,791,1,03:01,,10,1,-8,CLE 46,0,CLE,
-5,891,1,00:47,,10,1,23,DAL 42,0,CLE,
-5,810,2,02:23,,18,1,0,CLE 38,0,CLE,
-5,970,0,,,0,1,31,,0,,
-5,915,1,00:18,,10,1,23,DAL 31,0,CLE,
-13,2591,2,04:04,,11,3,50,CLE 41,0,DAL,
-13,2538,2,05:05,,5,3,24,CLE 45,0,DAL,PENALTY
-13,2472,1,07:11,,10,3,1,DAL 36,0,DAL,
-13,2570,1,04:45,,10,3,23,CLE 40,0,DAL,
-13,2683,2,01:46,,2,3,64,CLE 2,1,DAL,TD
-13,2615,1,03:20,,10,3,50,CLE 14,0,DAL,
-13,2493,2,06:32,,9,3,14,DAL 37,0,DAL,
-13,2637,2,03:16,,10,3,60,CLE 14,0,DAL,
-13,2658,1,02:27,,4,3,62,CLE 4,0,DAL,
-13,2703,0,01:41,,0,3,64,CLE 15,1,DAL,XP
-13,2514,1,05:52,,10,3,19,50,0,DAL,
-15,2921,3,14:18,,6,4,22,DAL 40,0,DAL,
-15,2896,2,15:00,,7,4,4,DAL 39,0,DAL,
-15,2966,2,12:59,,5,4,29,CLE 37,0,DAL,
-15,3092,3,09:55,,18,4,27,CLE 37,0,DAL,
-15,3068,2,10:35,,23,4,27,CLE 42,0,DAL,
-15,2879,0,,,0,3,3,,0,,
-15,3114,4,09:50,,18,4,27,CLE 37,0,DAL,PUNT
-15,2945,1,13:38,,10,4,27,CLE 42,0,DAL,
-15,2854,1,00:17,,10,3,3,DAL 36,0,DAL,
-15,2987,3,12:20,,3,4,35,CLE 35,0,DAL,
-15,3036,2,10:59,,8,4,27,CLE 27,0,DAL,PENALTY
-15,3011,1,11:44,,10,4,37,CLE 29,0,DAL,
+11,2211,0,11:30,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,3,75,CLE 15,1,DAL,XP
+11,2126,3,12:07,"(12:07) (Shotgun) D.Prescott pass incomplete short left to C.Beasley. PENALTY on CLE-T.Holmes, Defensive Offside, 5 yards, enforced at CLE 19 - No Play.",9,3,61,CLE 19,0,DAL,PENALTY
+11,1999,0,15:00,"C.Parkey kicks 65 yards from CLE 35 to end zone, Touchback.",0,3,0,CLE 35,0,CLE,KICKOFF
+11,2083,1,12:52,(12:52) (Shotgun) D.Prescott pass incomplete deep right to T.Williams.,10,3,55,CLE 20,0,DAL,
+11,2059,2,13:36,(13:36) (Shotgun) D.Prescott pass deep left to D.Bryant to CLE 20 for 19 yards (J.Haden).,9,3,55,CLE 39,0,DAL,
+11,2194,1,11:36,"(11:36) E.Elliott left tackle for 8 yards, TOUCHDOWN.",8,3,75,CLE 8,1,DAL,TD
+11,2014,1,15:00,(15:00) D.Prescott pass short right to J.Witten to CLE 40 for 35 yards (D.Kindred).,10,3,35,DAL 25,0,DAL,
+11,2159,3,12:03,"(12:03) (Shotgun) D.Prescott pass short right to J.Witten to CLE 8 for 6 yards (C.Kirksey). Penalty on CLE-X.Cooper, Defensive Offside, declined.",4,3,67,CLE 14,0,DAL,
+11,2105,2,12:47,(12:47) (Shotgun) D.Prescott right end to CLE 19 for 1 yard (D.Davis).,10,3,56,CLE 20,0,DAL,
+11,2038,1,14:18,"(14:18) E.Elliott left guard to CLE 39 for 1 yard (D.Davis). FUMBLES (D.Davis), and recovers at CLE 39. E.Elliott to CLE 39 for no gain (E.Ogbah; D.Davis).",10,3,75,CLE 40,0,DAL,FUMBLE
+10,1947,0,00:23,"C.Parkey kicks 65 yards from CLE 35 to end zone, Touchback.",0,2,0,CLE 35,0,CLE,KICKOFF
+10,1962,1,00:23,(:23) D.Prescott kneels to DAL 24 for -1 yards.,10,2,-1,DAL 25,0,DAL,
+10,1983,0,,END QUARTER 2,0,2,-1,,0,,
+13,2615,1,03:20,(3:20) (Shotgun) D.Prescott pass incomplete short middle to D.Bryant.,10,3,50,CLE 14,0,DAL,
+13,2658,1,02:27,(2:27) E.Elliott right guard to CLE 2 for 2 yards (D.Kindred; C.Kirksey). DAL #73 Looney reports as an eligible receiver.,4,3,62,CLE 4,0,DAL,
+13,2472,1,07:11,(7:11) E.Elliott right tackle to DAL 37 for 1 yard (D.Kindred).,10,3,1,DAL 36,0,DAL,
+13,2493,2,06:32,(6:32) (Shotgun) D.Prescott scrambles left guard to 50 for 13 yards (B.Boddy-Calhoun).,9,3,14,DAL 37,0,DAL,
+13,2570,1,04:45,(4:45) A.Morris right tackle to CLE 41 for -1 yards (D.Davis).,10,3,23,CLE 40,0,DAL,
+13,2538,2,05:05,"(5:05) E.Elliott right tackle to CLE 41 for 4 yards (J.Collins). PENALTY on CLE-X.Cooper, Defensive Offside, 5 yards, enforced at CLE 45 - No Play.",5,3,24,CLE 45,0,DAL,PENALTY
+13,2703,0,01:41,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,3,64,CLE 15,1,DAL,XP
+13,2514,1,05:52,(5:52) (Shotgun) D.Prescott pass short right to E.Elliott to CLE 45 for 5 yards (C.Kirksey).,10,3,19,50,0,DAL,
+13,2683,2,01:46,"(1:46) D.Prescott pass short left to G.Escobar for 2 yards, TOUCHDOWN.",2,3,64,CLE 2,1,DAL,TD
+13,2637,2,03:16,(3:16) (Shotgun) E.Elliott left end to CLE 4 for 10 yards (J.Meder).,10,3,60,CLE 14,0,DAL,
+13,2591,2,04:04,(4:04) (Shotgun) D.Prescott pass short left to J.Witten to CLE 14 for 27 yards (T.Williams Sr.).,11,3,50,CLE 41,0,DAL,
+12,2275,1,11:24,(11:24) (Shotgun) I.Crowell right guard to CLE 10 for 2 yards (A.Hitchens; T.McClain).,10,3,2,CLE 8,0,CLE,
+12,2343,2,09:47,"(9:47) (No Huddle, Shotgun) C.Kessler pass short right to I.Crowell to CLE 24 for 13 yards (T.McClain).",18,3,16,CLE 11,0,CLE,
+12,2324,1,10:32,"(10:32) (No Huddle, Shotgun) C.Kessler sacked at CLE 11 for -8 yards (M.Collins).",10,3,3,CLE 19,0,CLE,
+12,2227,0,11:30,"D.Bailey kicks 65 yards from DAL 35 to CLE 0. R.Louis to CLE 16 for 16 yards (L.McFadden). CLE-T.Carder was injured during the play. His return is Questionable.  PENALTY on CLE-C.Johnson, Offensive Holding, 8 yards, enforced at CLE 16.",0,3,0,DAL 35,0,DAL,KICKOFF
+12,2296,2,11:00,"(11:00) (No Huddle, Shotgun) C.Kessler pass short right to G.Barnidge to CLE 19 for 9 yards (S.Lee).",8,3,11,CLE 10,0,CLE,
+12,2453,4,07:19,"(7:19) (Punt formation) B.Colquitt punts 34 yards to DAL 36, Center-C.Hughlett, fair catch by L.Whitehead.",10,3,22,CLE 30,0,CLE,PUNT
+12,2434,3,07:57,"(7:57) (No Huddle, Shotgun) C.Kessler sacked at CLE 30 for -2 yards (J.Durant).",8,3,22,CLE 32,0,CLE,
+12,2412,2,08:01,"(8:01) (No Huddle, Shotgun) C.Kessler pass incomplete short left to T.Pryor Sr..",8,3,22,CLE 32,0,CLE,
+12,2391,1,08:31,"(8:31) (No Huddle, Shotgun) D.Johnson Jr. right guard to CLE 32 for 2 yards (T.Crawford).",10,3,24,CLE 30,0,CLE,
+12,2367,3,09:10,"(9:10) (No Huddle, Shotgun) C.Kessler pass short right to T.Pryor Sr. to CLE 30 for 6 yards (A.Brown).",5,3,22,CLE 24,0,CLE,
+15,2966,2,12:59,(12:59) A.Morris left end to CLE 35 for 2 yards (C.Kirksey; X.Cooper).,5,4,29,CLE 37,0,DAL,
+15,3011,1,11:44,(11:44) A.Morris right guard to CLE 27 for 2 yards (D.Shelton; I.Campbell). DAL #73 Looney reports as an eligible receiver.,10,4,37,CLE 29,0,DAL,
+15,2921,3,14:18,(14:18) (Shotgun) D.Prescott pass short right to C.Beasley to CLE 42 for 18 yards (E.Reynolds) [J.Collins].,6,4,22,DAL 40,0,DAL,
+15,2879,0,,END QUARTER 3,0,3,3,,0,,
+15,2896,2,15:00,(15:00) (Shotgun) A.Morris right end to DAL 40 for 1 yard (C.Kirksey; E.Ogbah). Pitch-out,7,4,4,DAL 39,0,DAL,
+15,2987,3,12:20,(12:20) (Shotgun) D.Prescott pass short right to C.Beasley to CLE 29 for 6 yards (B.Boddy-Calhoun).,3,4,35,CLE 35,0,DAL,
+15,2854,1,00:17,(:17) A.Morris left tackle to DAL 39 for 3 yards (C.Johnson). DAL #73 Looney reports as an eligible receiver.,10,3,3,DAL 36,0,DAL,
+15,3092,3,09:55,(9:55) (Shotgun) D.Prescott pass incomplete deep left to J.Witten.,18,4,27,CLE 37,0,DAL,
+15,2945,1,13:38,(13:38) E.Elliott left tackle to CLE 37 for 5 yards (J.Collins).,10,4,27,CLE 42,0,DAL,
+15,3068,2,10:35,(10:35) (Shotgun) D.Prescott pass short left to C.Beasley to CLE 37 for 5 yards (I.Campbell).,23,4,27,CLE 42,0,DAL,
+15,3036,2,10:59,"(10:59) (Shotgun) A.Morris right end to CLE 13 for 14 yards (I.Campbell). PENALTY on DAL-T.Frederick, Face Mask (15 Yards), 15 yards, enforced at CLE 27 - No Play.",8,4,27,CLE 27,0,DAL,PENALTY
+15,3114,4,09:50,"(9:50) (Punt formation) C.Jones punts 25 yards to CLE 12, Center-L.Ladouceur, fair catch by T.Williams Sr..",18,4,27,CLE 37,0,DAL,PUNT
+14,2734,1,01:41,"(1:41) (Shotgun) PENALTY on DAL-B.Mayowa, Neutral Zone Infraction, 5 yards, enforced at CLE 25 - No Play.",10,3,5,CLE 25,0,CLE,PENALTY
+14,2719,0,01:41,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback.",0,3,0,DAL 35,0,DAL,KICKOFF
+14,2776,2,01:08,"(1:08) (No Huddle, Shotgun) C.Kessler pass incomplete short left to C.Coleman.",13,3,-3,CLE 22,0,CLE,
+14,2757,1,01:41,(1:41) (Shotgun) C.Kessler sacked at CLE 22 for -8 yards (M.Collins).,5,3,-3,CLE 30,0,CLE,
+14,2798,3,01:02,"(1:02) (No Huddle, Shotgun) C.Kessler scrambles right end ran ob at CLE 30 for 8 yards.",13,3,5,CLE 22,0,CLE,
+14,2824,4,00:25,"(:25) (Punt formation) B.Colquitt punts 37 yards to DAL 33, Center-C.Hughlett. L.Whitehead ran ob at DAL 36 for 3 yards.",5,3,5,CLE 30,0,CLE,PUNT
+17,3258,2,07:08,(7:08) A.Morris left tackle to CLE 46 for 4 yards (D.Davis).,5,4,9,50,0,DAL,
+17,3563,0,00:55,Timeout #2 by CLE at 00:55.,0,4,39,,0,,TIMEOUT
+17,3384,4,03:53,"(3:53) A.Morris right guard to CLE 33 for 1 yard (D.Davis). DAL #63 Cleary reports as an eligible receiver. Cleveland challenged the first down ruling, and the play was Upheld. The ruling on the field was confirmed. (Timeout #1.)",1,4,22,CLE 34,0,DAL,TIMEOUT
+17,3237,1,07:48,(7:48) A.Morris right tackle to 50 for 5 yards (C.Johnson).,10,4,5,DAL 45,0,DAL,
+17,3498,3,02:00,(2:00) A.Morris right tackle to CLE 24 for 3 yards (D.Shelton; J.Meder).,4,4,31,CLE 27,0,DAL,
+17,3460,2,02:29,(2:29) A.Morris right tackle to CLE 27 for 4 yards (C.Johnson).,8,4,28,CLE 31,0,DAL,
+17,3342,2,05:17,(5:17) A.Morris left tackle to CLE 36 for 5 yards (E.Reynolds; J.Meder).,8,4,19,CLE 41,0,DAL,
+17,3622,0,00:00,END GAME,0,4,37,,0,,
+17,3580,1,00:55,(:55) M.Sanchez kneels to CLE 17 for -1 yards.,10,4,38,CLE 16,0,DAL,
+17,3519,0,01:13,Timeout #2 by DAL at 01:13.,0,4,31,,0,,TIMEOUT
+17,3363,3,04:34,(4:34) L.Whitehead left end to CLE 34 for 2 yards (B.Boddy-Calhoun).,3,4,21,CLE 36,0,DAL,
+17,3481,0,02:00,Two-Minute Warning,0,4,28,,0,,
+17,3325,0,05:17,Timeout #1 by DAL at 05:17.,0,4,14,,0,,TIMEOUT
+17,3536,4,01:13,(1:13) M.Sanchez pass short right to G.Swaim to CLE 16 for 8 yards (I.Campbell; E.Reynolds). CLE-E.Reynolds was injured during the play. His return is Probable.,1,4,39,CLE 24,0,DAL,
+17,3409,1,03:14,(3:14) A.Morris right tackle to CLE 31 for 2 yards (J.Collins; C.Johnson).,10,4,24,CLE 33,0,DAL,
+17,3304,1,05:46,(5:46) A.Morris right tackle to CLE 41 for 2 yards (D.Shelton).,10,4,14,CLE 43,0,DAL,
+17,3601,2,00:18,(:18) M.Sanchez kneels to CLE 18 for -1 yards.,11,4,37,CLE 17,0,DAL,
+17,3279,3,06:26,(6:26) A.Morris left guard to CLE 43 for 3 yards (J.Collins). DAL #63 Cleary reports as an eligible receiver.,1,4,12,CLE 46,0,DAL,
+16,3167,2,09:08,"(9:08) (No Huddle, Shotgun) I.Crowell left tackle to CLE 14 for -2 yards (D.Lawrence).",6,4,2,CLE 16,0,CLE,
+16,3188,3,08:33,"(8:33) (No Huddle, Shotgun) C.Kessler pass short right to A.Hawkins to CLE 18 for 4 yards (O.Scandrick).",8,4,6,CLE 14,0,CLE,
+16,3139,1,09:41,(9:41) (Shotgun) C.Kessler pass short left to I.Crowell to CLE 16 for 4 yards (D.Lawrence).,10,4,4,CLE 12,0,CLE,
+16,3212,4,07:59,"(7:59) (Punt formation) B.Colquitt punts 52 yards to DAL 30, Center-C.Hughlett. L.Whitehead to DAL 45 for 15 yards (C.Hughlett).",4,4,6,CLE 18,0,CLE,PUNT
+1,150,3,12:55,"(12:55) (No Huddle, Shotgun) C.Kessler pass incomplete short left to A.Hawkins. Penalty on DAL-D.Irving, Disqualification, offsetting. Penalty on CLE-C.Erving, Disqualification, offsetting. Both Dal #95 Irving and CLE #74 Erving  are ejected",8,1,62,DAL 13,0,CLE,
+1,55,1,15:00,(15:00) C.Kessler pass short right to T.Pryor Sr. to CLE 41 for 16 yards (O.Scandrick).,10,1,16,CLE 25,0,CLE,
+1,36,0,15:00,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback.",0,1,62,DAL 35,0,DAL,KICKOFF
+1,187,4,12:44,"(12:44) (Field Goal formation) C.Parkey 31 yard field goal is GOOD, Center-C.Hughlett, Holder-B.Colquitt.",8,1,62,DAL 13,1,CLE,FG
+1,128,2,13:00,(13:00) (Shotgun) C.Kessler pass incomplete short left to A.Hawkins.,8,1,62,DAL 13,0,CLE,
+1,103,1,13:41,(13:41) (No Huddle) I.Crowell right tackle to DAL 13 for 2 yards (A.Hitchens; S.Lee).,10,1,62,DAL 15,0,CLE,
+1,79,1,14:27,"(14:27) (No Huddle, Shotgun) C.Kessler pass deep middle to I.Crowell to DAL 15 for 44 yards (A.Hitchens). unbalanced line",10,1,60,CLE 41,0,CLE,
+3,618,2,05:27,(5:27) C.Kessler pass incomplete deep left to C.Coleman.,15,1,6,CLE 31,0,CLE,
+3,555,2,06:13,"(6:13) (No Huddle, Shotgun) C.Kessler pass short left to A.Hawkins to CLE 36 for 9 yards (B.Carr).",8,1,15,CLE 27,0,CLE,
+3,664,4,04:44,"(4:44) (Punt formation) B.Colquitt punts 59 yards to DAL 1, Center-C.Hughlett, downed by CLE-E.Reynolds. #80 Louis Tapped ball to the 1 yard line",6,1,15,CLE 40,0,CLE,PUNT
+3,579,1,05:45,"(5:45) (No Huddle) I.Crowell left end to CLE 31 for -5 yards (S.Lee). Penalty on CLE-J.Greco, Offensive Holding, declined.",10,1,6,CLE 36,0,CLE,
+3,640,3,05:22,"(5:22) (No Huddle, Shotgun) C.Kessler pass short left to D.Johnson Jr. to CLE 40 for 9 yards (J.Durant) [T.McClain].",15,1,15,CLE 31,0,CLE,
+3,527,1,06:47,(6:47) (Shotgun) C.Kessler pass short right to I.Crowell to CLE 27 for 2 yards (J.Wilcox; S.Lee). #72 Coleman Eligible,10,1,2,CLE 25,0,CLE,
+3,512,0,06:47,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback.",0,1,0,DAL 35,0,DAL,KICKOFF
+2,380,3,09:46,"(9:46) PENALTY on CLE-E.Ogbah, Defensive Offside, 5 yards, enforced at 50 - No Play.",9,1,37,50,0,DAL,PENALTY
+2,206,0,12:40,"C.Parkey kicks 65 yards from CLE 35 to end zone, Touchback.",0,1,0,CLE 35,0,CLE,KICKOFF
+2,599,0,08:53,Timeout #1 by DAL at 08:53.,0,1,75,,0,,TIMEOUT
+2,451,1,07:39,(7:39) E.Elliott right end to CLE 26 for 2 yards (D.Kindred; D.Davis). Dal #73 Looney reports as an eligible receiver.,10,1,49,CLE 28,0,DAL,
+2,698,0,08:14,Timeout #1 by DAL at 08:14.,0,1,75,,0,,TIMEOUT
+2,331,1,10:27,(10:27) E.Elliott right guard to DAL 45 for -4 yards (C.Kirksey). Dal #73 Looney reports as an eligible receiver.,10,1,20,DAL 49,0,DAL,
+2,307,2,11:05,(11:05) (Shotgun) D.Prescott pass short middle to C.Beasley to DAL 49 for 9 yards (J.Taylor).,7,1,24,DAL 40,0,DAL,
+2,245,0,12:28,Timeout at 12:28.,0,1,8,,0,,Timeout
+2,262,2,12:16,(12:16) E.Elliott right guard to DAL 37 for 4 yards (D.Davis).,2,1,12,DAL 33,0,DAL,
+2,356,2,09:46,(9:46) (Shotgun) D.Prescott pass short middle to J.Witten to 50 for 5 yards (J.Collins; C.Kirksey).,14,1,25,DAL 45,0,DAL,
+2,403,3,08:53,(8:53) (Shotgun) D.Prescott scrambles left end ran ob at CLE 38 for 7 yards (J.Collins).,4,1,37,CLE 45,0,DAL,
+2,476,2,06:53,"(6:53) (Shotgun) D.Prescott pass deep right to J.Witten for 26 yards, TOUCHDOWN.",8,1,75,CLE 26,1,DAL,TD
+2,283,1,11:42,(11:42) D.Prescott pass short right to G.Swaim to DAL 40 for 3 yards (T.Howard).,10,1,15,DAL 37,0,DAL,
+2,429,1,08:14,(8:14) E.Elliott right tackle to CLE 28 for 10 yards (D.Davis).,10,1,47,CLE 38,0,DAL,
+2,496,0,06:47,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,1,75,CLE 15,1,DAL,XP
+2,221,1,12:40,(12:40) E.Elliott left guard to DAL 33 for 8 yards (C.Kirksey; E.Ogbah). CLE-D.Shelton was injured during the play. His return is Probable.,10,1,8,DAL 25,0,DAL,
+5,891,1,00:47,(:47) (No Huddle) C.Kessler pass short right to C.Coleman to DAL 31 for 11 yards (O.Scandrick).,10,1,23,DAL 42,0,CLE,
+5,831,3,01:50,"(1:50) (No Huddle, Shotgun) C.Kessler pass short right to G.Barnidge to DAL 45 for 9 yards (S.Lee). Official Measurement",10,1,9,CLE 46,0,CLE,
+5,791,1,03:01,(3:01) C.Kessler sacked at CLE 38 for -8 yards (sack split by A.Hitchens and D.Wilson).,10,1,-8,CLE 46,0,CLE,
+5,970,0,,END QUARTER 1,0,1,31,,0,,
+5,986,3,15:00,(15:00) (Shotgun) C.Kessler pass incomplete deep left to T.Pryor Sr..,2,2,31,DAL 23,0,CLE,
+5,859,4,01:17,(1:17) C.Kessler up the middle to DAL 42 for 3 yards (B.Mayowa).,1,1,12,DAL 45,0,CLE,
+5,915,1,00:18,(:18) (No Huddle) C.Kessler pass incomplete deep right to C.Coleman.,10,1,23,DAL 31,0,CLE,
+5,1008,4,14:54,"(14:54) (Field Goal formation) C.Parkey 41 yard field goal is No Good, Hit Left Upright, Center-C.Hughlett, Holder-B.Colquitt.",2,2,31,DAL 23,0,CLE,FGM
+5,810,2,02:23,(2:23) (Shotgun) I.Crowell left guard to CLE 46 for 8 yards (A.Hitchens).,18,1,0,CLE 38,0,CLE,
+5,937,2,00:13,(:13) D.Johnson Jr. left tackle to DAL 23 for 8 yards (S.Lee).,10,1,31,DAL 31,0,CLE,
+4,740,3,03:16,(3:16) (Shotgun) D.Prescott pass incomplete short right to D.Bryant (T.Williams Sr.).,5,1,5,DAL 6,0,DAL,
+4,762,4,03:11,"(3:11) (Punt formation) C.Jones punts 50 yards to CLE 44, Center-L.Ladouceur. D.Johnson Jr. to CLE 46 for 2 yards (D.Wilson). CLE-D.Johnson Jr. was injured during the play. His return is Probable.",5,1,5,DAL 6,0,DAL,PUNT
+4,687,1,04:33,(4:33) E.Elliott right tackle to DAL 6 for 5 yards (D.Kindred). Dal #73 Looney reports as an eligible receiver.,10,1,5,DAL 1,0,DAL,
+4,714,2,03:58,(3:58) E.Elliott left guard to DAL 6 for no gain (C.Johnson).,5,1,5,DAL 6,0,DAL,
+7,1324,2,09:13,(9:13) (No Huddle) D.Johnson Jr. right tackle to CLE 21 for 9 yards (B.Jones; J.Wilcox).,8,2,11,CLE 12,0,CLE,
+7,1303,1,09:54,(9:54) D.Johnson Jr. right tackle to CLE 12 for 2 yards (O.Scandrick).,10,2,2,CLE 10,0,CLE,
+7,1270,0,10:02,"D.Bailey kicks 63 yards from DAL 35 to CLE 2. R.Louis to CLE 20 for 18 yards (J.Wilcox). PENALTY on CLE-I.Campbell, Offensive Holding, 10 yards, enforced at CLE 20.",0,2,0,DAL 35,0,DAL,KICKOFF
+7,1345,1,08:34,"(8:34) (No Huddle, Shotgun) C.Kessler pass short right to T.Pryor Sr. to CLE 25 for 4 yards (S.Lee).",10,2,19,CLE 21,0,CLE,
+7,1390,3,07:16,"(7:16) (No Huddle, Shotgun) C.Kessler pass short left to G.Barnidge to CLE 29 for 5 yards (J.Heath).",7,2,19,CLE 24,0,CLE,
+7,1414,4,06:38,"(6:38) (Punt formation) B.Colquitt punts 38 yards to DAL 33, Center-C.Hughlett. L.Whitehead to DAL 33 for no gain (J.Schobert).",2,2,19,CLE 29,0,CLE,PUNT
+7,1369,2,07:59,(7:59) I.Crowell right guard to CLE 24 for -1 yards (C.Thornton).,6,2,14,CLE 25,0,CLE,
+6,1094,1,12:46,(12:46) A.Morris left tackle to CLE 34 for 2 yards (E.Ogbah; J.Collins).,10,2,35,CLE 36,0,DAL,
+6,1052,1,14:11,(14:11) A.Morris right guard to CLE 49 for 5 yards (J.Collins).,10,2,20,DAL 46,0,DAL,
+6,1161,2,11:27,"(11:27) PENALTY on DAL-D.Free, False Start, 5 yards, enforced at CLE 24 - No Play.",10,2,40,CLE 24,0,DAL,PENALTY
+6,1232,1,10:09,"(10:09) E.Elliott right tackle for 10 yards, TOUCHDOWN.",10,2,69,CLE 10,1,DAL,TD
+6,1184,2,11:27,(11:27) (Shotgun) D.Prescott pass short left to B.Butler to CLE 20 for 9 yards (J.Taylor).,15,2,49,CLE 29,0,DAL,
+6,1139,1,11:32,(11:32) (Shotgun) D.Prescott pass incomplete deep right to D.Bryant.,10,2,45,CLE 24,0,DAL,
+6,1028,1,14:50,(14:50) D.Prescott pass short right to T.Williams to DAL 46 for 15 yards (I.Campbell).,10,2,15,DAL 31,0,DAL,
+6,1254,0,10:02,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,2,69,CLE 15,1,DAL,XP
+6,1115,2,12:11,(12:11) (Shotgun) D.Prescott pass short middle to J.Witten to CLE 24 for 10 yards (C.Kirksey).,8,2,45,CLE 34,0,DAL,
+6,1073,2,13:29,(13:29) A.Morris right tackle to CLE 36 for 13 yards (I.Campbell; D.Davis).,5,2,33,CLE 49,0,DAL,
+6,1208,3,10:47,(10:47) (Shotgun) D.Prescott pass short middle to J.Witten to CLE 10 for 10 yards (I.Campbell).,6,2,59,CLE 20,0,DAL,
+9,1789,0,00:50,Timeout #1 by CLE at 00:50.,0,2,34,,0,,TIMEOUT
+9,1830,1,00:44,"(:44) (Shotgun) C.Kessler pass short left to T.Pryor Sr. to DAL 25 for 9 yards (B.Carr) [D.Lawrence]. PENALTY on DAL-D.Lawrence, Roughing the Passer, 13 yards, enforced at DAL 25.",10,2,68,DAL 34,0,CLE,PENALTY
+9,1806,1,00:50,(:50) (Shotgun) C.Kessler pass short right to C.Coleman ran ob at DAL 34 for 12 yards.,10,2,46,DAL 46,0,CLE,
+9,1854,1,00:35,(:35) (Shotgun) C.Kessler pass incomplete short left to C.Coleman (B.Carr).,10,2,68,DAL 12,0,CLE,
+9,1931,0,00:23,"C.Parkey extra point is GOOD, Center-C.Hughlett, Holder-B.Colquitt.",0,2,80,DAL 15,1,CLE,XP
+9,1720,1,01:43,(1:43) (Shotgun) C.Kessler pass deep right to C.Coleman to CLE 38 for 18 yards (A.Hitchens).,10,2,18,CLE 20,0,CLE,
+9,1768,2,00:53,"(:53) (No Huddle, Shotgun) D.Johnson Jr. right guard to DAL 46 for 9 yards (M.Collins).",3,2,34,CLE 45,0,CLE,
+9,1888,2,00:30,"(:30) (Shotgun) C.Kessler pass short right to T.Pryor Sr. for 12 yards, TOUCHDOWN. Penalty on DAL-D.Lawrence, Defensive Offside, declined.",10,2,80,DAL 12,1,CLE,TD
+9,1744,1,01:18,"(1:18) (No Huddle, Shotgun) C.Kessler pass short middle to D.Johnson Jr. to CLE 45 for 7 yards (S.Lee; O.Scandrick).",10,2,25,CLE 38,0,CLE,
+9,1698,0,01:50,D.Bailey kicks 64 yards from DAL 35 to CLE 1. G.Atkinson III to CLE 20 for 19 yards (K.Wilber).,0,2,0,DAL 35,0,DAL,KICKOFF
+8,1632,2,02:00,(2:00) D.Prescott pass incomplete short right to J.Witten.,6,2,67,CLE 6,0,DAL,
+8,1615,0,02:00,Two-Minute Warning,0,2,61,,0,,
+8,1587,1,02:25,(2:25) D.Prescott pass short right to T.Williams to CLE 6 for 4 yards (E.Reynolds).,10,2,61,CLE 10,0,DAL,
+8,1439,1,06:29,(6:29) E.Elliott left tackle ran ob at DAL 45 for 12 yards.,10,2,12,DAL 33,0,DAL,
+8,1681,0,01:50,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,2,67,CLE 15,1,DAL,XP
+8,1654,3,01:54,"(1:54) (Shotgun) D.Prescott pass short left to C.Beasley for 6 yards, TOUCHDOWN.",6,2,67,CLE 6,1,DAL,TD
+8,1531,3,03:38,(3:38) E.Elliott left end ran ob at CLE 25 for 6 yards. Pitch-out Dal #73 Looney reports as an eligibible receiver.,1,2,42,CLE 31,0,DAL,
+8,1465,1,05:49,(5:49) D.Prescott pass short right to J.Witten to CLE 40 for 15 yards (D.Kindred).,10,2,27,DAL 45,0,DAL,
+8,1489,1,05:03,(5:03) E.Elliott left tackle to CLE 43 for -3 yards (J.Collins).,10,2,24,CLE 40,0,DAL,
+8,1510,2,04:21,(4:21) (Shotgun) D.Prescott pass short right to C.Beasley to CLE 31 for 12 yards (J.Haden).,13,2,67,CLE 43,0,DAL,
+8,1566,1,03:05,(3:05) E.Elliott left end to CLE 10 for 15 yards (E.Reynolds).,10,2,57,CLE 25,0,DAL,

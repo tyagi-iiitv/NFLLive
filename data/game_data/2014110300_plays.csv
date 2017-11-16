@@ -1,209 +1,209 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1348,4,11:54,,9,2,43,IND 37,0,NYG,PUNT
-9,1176,0,13:38,,0,2,0,IND 35,0,IND,KICKOFF
-9,1250,1,13:05,,10,2,42,NYG 46,0,NYG,
-9,1304,2,12:07,,9,2,43,IND 37,0,NYG,
-9,1195,1,13:38,,10,2,0,NYG 20,0,NYG,
-9,1280,1,12:44,,10,2,43,IND 38,0,NYG,
-9,1217,2,13:33,,10,2,26,NYG 20,0,NYG,
-9,1326,3,11:59,,9,2,43,IND 37,0,NYG,
-24,3721,2,12:32,,10,4,34,NYG 40,0,NYG,
-24,3766,2,11:27,,14,4,28,50,0,NYG,FUMBLE
-24,3745,1,12:01,,10,4,30,IND 46,0,NYG,
-24,3823,4,10:04,,5,4,57,IND 41,0,NYG,
-24,3627,0,13:23,,0,4,0,IND 35,0,IND,KICKOFF
-24,3699,1,12:39,,10,4,20,NYG 40,0,NYG,
-24,3844,1,09:35,,10,4,75,IND 23,0,NYG,
-24,3890,2,09:01,,5,4,80,IND 5,1,NYG,TD
-24,3646,1,13:23,,10,4,8,NYG 20,0,NYG,
-24,3795,3,10:41,,16,4,39,NYG 48,0,NYG,
-24,3670,2,13:07,,2,4,20,NYG 28,0,NYG,
-24,3868,1,09:05,,5,4,75,IND 5,0,NYG,
-24,3910,0,08:55,,0,4,80,IND 2,1,NYG,XP
-10,1445,4,10:56,,7,2,3,IND 10,0,IND,PUNT
-10,1423,3,11:04,,7,2,3,IND 10,0,IND,
-10,1367,1,11:46,,10,2,0,IND 7,0,IND,
-10,1396,2,11:38,,10,2,3,IND 7,0,IND,
-20,3210,2,05:33,,4,3,6,NYG 26,0,NYG,
-20,3182,1,06:09,,10,3,6,NYG 20,0,NYG,
-20,3149,0,06:09,,0,3,0,IND 35,0,IND,KICKOFF
-20,3232,3,05:31,,4,3,6,NYG 26,0,NYG,FUMBLE
-30,4757,1,00:07,,10,4,17,NYG 20,0,NYG,
-30,4786,0,,,0,4,17,,0,,
-6,923,3,01:09,,6,1,4,NYG 43,0,IND,
-6,902,2,01:49,,10,1,4,NYG 47,0,IND,
-6,945,4,01:03,,6,1,4,NYG 43,0,IND,PUNT
-6,880,1,01:56,,10,1,4,NYG 47,0,IND,
-27,4446,0,03:00,,0,4,9,,0,,TIMEOUT
-27,4324,0,03:19,,0,4,0,NYG 35,0,NYG,KICKOFF
-27,4405,0,03:07,,0,4,5,,0,,TIMEOUT
-27,4463,4,03:00,,1,4,9,IND 34,0,IND,PUNT
-27,4422,3,03:07,,5,4,9,IND 30,0,IND,
-27,4384,2,03:13,,7,4,5,IND 28,0,IND,
-27,4346,1,03:19,,10,4,3,IND 25,0,IND,
-27,4367,0,03:13,,0,4,3,,0,,TIMEOUT
-18,2839,3,10:23,,10,3,83,IND 25,0,NYG,
-18,2817,2,10:33,,10,3,59,IND 25,0,NYG,
-18,2880,0,09:48,,0,3,84,IND 2,1,NYG,XP
-18,2747,0,11:50,,0,3,0,IND 35,0,IND,KICKOFF
-18,2793,1,11:03,,10,3,59,IND 25,0,NYG,
-18,2863,1,09:53,,1,3,84,IND 1,1,NYG,TD
-18,2769,1,11:44,,10,3,59,NYG 16,0,NYG,
-28,4525,3,02:40,,10,4,0,NYG 30,0,NYG,
-28,4547,4,02:35,,10,4,9,NYG 30,0,NYG,
-28,4481,1,02:52,,10,4,0,NYG 30,0,NYG,
-28,4503,2,02:46,,10,4,0,NYG 30,0,NYG,
-26,4288,2,04:18,,1,4,90,IND 1,1,NYG,TD
-26,4171,1,05:06,,10,4,43,NYG 44,0,NYG,
-26,4243,1,04:18,,10,4,88,IND 15,0,NYG,
-26,4308,0,03:19,,0,4,90,IND 2,1,NYG,XP
-26,4147,3,05:19,,10,4,34,NYG 30,0,NYG,
-26,4125,2,05:29,,10,4,20,NYG 30,0,NYG,
-26,4219,1,04:27,,10,4,75,IND 29,0,NYG,
-26,4267,1,04:18,,2,4,89,IND 2,0,NYG,
-26,4103,1,05:37,,10,4,20,NYG 30,0,NYG,
-26,4057,1,06:11,,10,4,0,NYG 10,0,NYG,
-26,4195,2,04:54,,1,4,61,IND 47,0,NYG,
-26,4079,2,06:07,,10,4,20,NYG 10,0,NYG,
-25,3948,1,08:53,,10,4,1,NYG 47,0,IND,
-25,3990,3,07:25,,4,4,7,NYG 41,0,IND,
-25,4011,4,06:40,,3,4,7,NYG 40,0,IND,
-25,4038,4,06:24,,3,4,7,NYG 40,0,IND,PUNT
-25,3969,2,08:13,,9,4,6,NYG 46,0,IND,
-25,3926,0,08:55,,0,4,0,NYG 35,0,NYG,KICKOFF
-1,146,3,12:56,,9,1,14,NYG 47,0,NYG,
-1,58,1,14:51,,10,1,-1,NYG 33,0,NYG,
-1,124,2,13:04,,9,1,14,NYG 47,0,NYG,
-1,79,2,14:17,,11,1,13,NYG 32,0,NYG,
-1,168,4,12:49,,9,1,14,NYG 47,0,NYG,PUNT
-1,103,1,13:49,,10,1,14,NYG 46,0,NYG,
-1,36,0,15:00,,0,1,0,IND 35,0,IND,KICKOFF
-5,786,1,03:35,,10,1,4,NYG 14,0,NYG,
-5,861,4,02:06,,12,1,-2,NYG 12,0,NYG,PUNT
-5,839,3,02:13,,12,1,-2,NYG 12,0,NYG,
-5,807,2,03:04,,6,1,-2,NYG 18,0,NYG,FUMBLE
-13,1963,1,03:26,,10,2,-5,NYG 19,0,NYG,PENALTY
-13,2086,4,02:12,,9,2,1,NYG 20,0,NYG,PUNT
-13,2019,1,03:22,,15,2,-1,NYG 14,0,NYG,
-13,1941,0,03:32,,0,2,0,IND 35,0,IND,KICKOFF
-13,2064,3,02:18,,9,2,1,NYG 20,0,NYG,
-13,1986,1,03:26,,15,2,-5,NYG 14,0,NYG,
-13,2043,2,02:55,,11,2,1,NYG 18,0,NYG,
-29,4632,0,02:00,,0,4,0,,0,,
-29,4611,1,02:29,,10,4,0,NYG 39,0,IND,
-29,4681,2,01:47,,20,4,-9,NYG 49,0,IND,
-29,4649,2,02:00,,10,4,-10,NYG 39,0,IND,PENALTY
-29,4723,0,00:16,,0,4,-12,,0,,TIMEOUT
-29,4702,3,01:06,,19,4,-12,NYG 48,0,IND,
-29,4740,4,00:16,,22,4,-12,IND 49,0,IND,PUNT
-21,3311,0,04:31,,0,3,4,NYG 2,1,IND,XP
-21,3286,2,04:39,,2,3,4,NYG 2,1,IND,TD
-21,3265,1,05:20,,4,3,2,NYG 4,0,IND,
-23,3486,1,01:33,,10,3,31,NYG 43,0,IND,
-23,3444,1,02:57,,10,3,10,IND 30,0,IND,
-23,3565,2,14:22,,7,4,45,NYG 30,0,IND,
-23,3528,0,,,0,3,37,,0,,
-23,3507,2,00:45,,6,3,37,NYG 39,0,IND,
-23,3608,4,13:28,,2,4,45,NYG 25,1,IND,FG
-23,3586,3,13:35,,2,4,45,NYG 25,0,IND,
-23,3544,1,15:00,,10,4,40,NYG 33,0,IND,
-23,3465,1,02:17,,10,3,27,IND 40,0,IND,
-11,1607,3,08:28,,1,2,42,IND 25,0,NYG,
-11,1649,2,07:24,,7,2,45,IND 20,0,NYG,
-11,1494,1,10:13,,10,2,12,NYG 47,0,NYG,
-11,1671,3,07:17,,7,2,45,IND 20,0,NYG,
-11,1540,3,09:33,,10,2,31,NYG 47,0,NYG,
-11,1693,4,07:12,,7,2,45,IND 20,1,NYG,FG
-11,1518,2,09:40,,10,2,12,NYG 47,0,NYG,
-11,1628,1,07:55,,10,2,45,IND 23,0,NYG,
-11,1585,2,08:33,,1,2,40,IND 25,0,NYG,
-11,1564,1,09:05,,10,2,40,IND 34,0,NYG,
-11,1470,1,10:45,,10,2,45,NYG 35,0,NYG,
-14,2154,2,01:39,,2,2,23,IND 48,0,IND,
-14,2227,3,01:21,,10,2,30,NYG 37,0,IND,
-14,2268,4,01:12,,3,2,30,NYG 30,1,IND,FG
-14,2133,1,02:00,,10,2,8,IND 40,0,IND,
-14,2205,2,01:26,,10,2,23,NYG 37,0,IND,
-14,2183,1,01:32,,10,2,23,NYG 37,0,IND,
-14,2251,0,01:12,,0,2,30,,0,,TIMEOUT
-8,1084,1,14:42,,10,2,68,IND 32,0,IND,PENALTY
-8,1140,1,13:50,,10,2,68,NYG 32,1,IND,TD
-8,1116,1,14:14,,10,2,36,IND 47,0,IND,
-8,1160,0,13:38,,0,2,68,NYG 2,1,IND,XP
-19,3070,1,07:13,,10,3,35,NYG 45,0,IND,
-19,2937,2,09:44,,10,3,22,IND 20,0,IND,
-19,2896,0,09:48,,0,3,0,NYG 35,0,NYG,KICKOFF
-19,2965,1,09:01,,10,3,17,IND 42,0,IND,PENALTY
-19,3000,1,08:29,,15,3,24,IND 37,0,IND,
-19,3113,3,06:22,,5,3,80,NYG 40,1,IND,TD
-19,2915,1,09:48,,10,3,0,IND 20,0,IND,
-19,3133,0,06:09,,0,3,80,NYG 2,1,IND,XP
-19,3092,2,07:00,,10,3,40,NYG 45,0,IND,
-19,3024,2,07:59,,8,3,24,IND 44,0,IND,
-19,3046,3,07:54,,8,3,35,IND 44,0,IND,
-22,3327,0,04:31,,0,3,2,IND 35,0,IND,KICKOFF
-22,3366,2,04:05,,8,3,2,NYG 22,0,NYG,
-22,3345,1,04:31,,10,3,2,NYG 20,0,NYG,
-22,3419,4,03:14,,1,3,9,NYG 29,0,NYG,PUNT
-22,3391,3,03:50,,8,3,9,NYG 22,0,NYG,
-12,1712,0,07:07,,0,2,0,NYG 35,0,NYG,KICKOFF
-12,1780,2,06:10,,10,2,39,IND 38,0,IND,
-12,1922,4,03:37,,8,2,61,NYG 13,1,IND,FG
-12,1734,1,07:00,,10,2,12,IND 26,0,IND,
-12,1900,3,03:41,,8,2,61,NYG 13,0,IND,
-12,1878,2,03:53,,8,2,61,NYG 13,0,IND,
-12,1809,1,05:33,,10,2,46,NYG 35,0,IND,
-12,1857,1,04:28,,10,2,61,NYG 15,0,IND,
-12,1758,1,06:20,,10,2,12,IND 38,0,IND,
-12,1833,2,04:56,,3,2,59,NYG 28,0,IND,
-16,2478,0,,,0,2,-9,,0,,
-16,2449,1,00:32,,10,2,-9,IND 39,0,IND,FUMBLE
-7,1006,0,,,0,1,2,,0,,
-7,1048,4,14:55,,8,2,2,NYG 10,0,NYG,FUMBLE
-7,1026,3,15:00,,8,2,2,NYG 10,0,NYG,
-7,964,1,00:56,,10,1,1,NYG 8,0,NYG,
-7,985,2,00:27,,9,1,2,NYG 9,0,NYG,
-3,506,1,07:07,,10,1,15,NYG 20,0,NYG,
-3,556,1,06:13,,15,1,10,NYG 30,0,NYG,
-3,621,4,05:27,,8,1,17,NYG 37,0,NYG,PUNT
-3,578,2,06:04,,15,1,10,NYG 30,0,NYG,
-3,600,3,05:58,,15,1,17,NYG 30,0,NYG,
-3,533,1,06:36,,10,1,10,NYG 35,0,NYG,PENALTY
-3,488,0,07:07,,0,1,0,IND 35,0,IND,KICKOFF
-17,2516,1,14:55,,10,3,0,IND 16,0,IND,
-17,2731,0,11:50,,0,3,84,NYG 2,1,IND,XP
-17,2538,2,14:50,,10,3,2,IND 16,0,IND,
-17,2684,2,11:58,,10,3,53,NYG 26,0,IND,PENALTY
-17,2559,3,14:14,,8,3,37,IND 18,0,IND,
-17,2662,1,12:13,,10,3,58,NYG 26,0,IND,
-17,2583,1,13:30,,10,3,37,NYG 47,0,IND,
-17,2711,2,11:58,,15,3,84,NYG 31,1,IND,TD
-17,2605,2,13:22,,10,3,46,NYG 47,0,IND,
-17,2494,0,15:00,,0,3,0,NYG 35,0,NYG,KICKOFF
-17,2626,3,12:38,,1,3,84,NYG 38,0,IND,FUMBLE
-4,721,2,04:23,,10,1,11,IND 48,0,IND,
-4,675,2,05:08,,10,1,11,IND 37,0,IND,
-4,743,3,04:19,,10,1,13,IND 48,0,IND,
-4,767,4,03:47,,8,1,13,50,0,IND,PUNT
-4,646,1,05:13,,10,1,0,IND 37,0,IND,
-4,699,1,04:31,,10,1,11,IND 48,0,IND,
-2,395,1,08:36,,20,1,58,NYG 43,0,IND,
-2,334,1,09:34,,10,1,55,IND 45,0,IND,
-2,211,2,12:08,,8,1,11,IND 14,0,IND,
-2,313,3,10:10,,4,1,33,IND 40,0,IND,
-2,443,3,07:16,,7,1,58,NYG 30,0,IND,
-2,419,2,08:01,,7,1,58,NYG 30,0,IND,
-2,363,1,09:03,,10,1,45,NYG 33,0,IND,PENALTY
-2,235,1,11:27,,10,1,22,IND 23,0,IND,PENALTY
-2,465,4,07:12,,7,1,58,NYG 30,1,IND,FG
-2,291,2,10:18,,4,1,28,IND 40,0,IND,
-2,187,1,12:42,,10,1,2,IND 12,0,IND,
-2,267,1,10:54,,10,1,28,IND 34,0,IND,
-15,2287,0,01:07,,0,2,0,IND 35,0,IND,KICKOFF
-15,2350,2,00:55,,4,2,-2,NYG 15,0,NYG,
-15,2333,0,00:55,,0,2,6,,0,,TIMEOUT
-15,2386,3,00:48,,12,2,8,NYG 7,0,NYG,
-15,2424,4,00:42,,2,2,8,NYG 17,0,NYG,PUNT
-15,2407,0,00:42,,0,2,8,,0,,TIMEOUT
-15,2309,1,01:02,,10,2,6,NYG 9,0,NYG,
-15,2369,0,00:48,,0,2,-2,,0,,TIMEOUT
+24,3699,1,12:39,"(12:39) (No Huddle, Shotgun) E.Manning pass incomplete short right.",10,4,20,NYG 40,0,NYG,
+24,3868,1,09:05,(9:05) (No Huddle) E.Manning pass incomplete short left to R.Randle (V.Davis).,5,4,75,IND 5,0,NYG,
+24,3823,4,10:04,"(10:04) (No Huddle, Shotgun) E.Manning scrambles up the middle ran ob at IND 23 for 18 yards (M.Adams).",5,4,57,IND 41,0,NYG,
+24,3766,2,11:27,"(11:27) (No Huddle, Shotgun) E.Manning sacked at NYG 45 for -5 yards (Z.Kerr). FUMBLES (Z.Kerr), recovered by NYG-J.Walton at NYG 48. J.Walton to NYG 48 for no gain (B.Werner). Officially, a sack for -2 yards.",14,4,28,50,0,NYG,FUMBLE
+24,3910,0,08:55,"J.Brown extra point is GOOD, Center-Z.DeOssie, Holder-S.Weatherford.",0,4,80,IND 2,1,NYG,XP
+24,3795,3,10:41,(10:41) (No Huddle) E.Manning pass short right to O.Beckham to IND 41 for 11 yards (G.Toler).,16,4,39,NYG 48,0,NYG,
+24,3745,1,12:01,(12:01) (No Huddle) P.Hillis right tackle to 50 for -4 yards (J.Newsome).,10,4,30,IND 46,0,NYG,
+24,3627,0,13:23,"P.McAfee kicks 65 yards from IND 35 to end zone, Touchback.",0,4,0,IND 35,0,IND,KICKOFF
+24,3844,1,09:35,(9:35) (No Huddle) E.Manning pass deep middle to R.Randle to IND 5 for 18 yards (M.Adams).,10,4,75,IND 23,0,NYG,
+24,3646,1,13:23,(13:23) (Shotgun) E.Manning pass short right to P.Hillis pushed ob at NYG 28 for 8 yards (G.Toler).,10,4,8,NYG 20,0,NYG,
+24,3670,2,13:07,"(13:07) (No Huddle, Shotgun) E.Manning pass short left to O.Beckham ran ob at NYG 40 for 12 yards (A.Studebaker).",2,4,20,NYG 28,0,NYG,
+24,3890,2,09:01,"(9:01) (No Huddle, Shotgun) E.Manning pass short left to L.Donnell for 5 yards, TOUCHDOWN.",5,4,80,IND 5,1,NYG,TD
+24,3721,2,12:32,"(12:32) (No Huddle, Shotgun) E.Manning pass short middle to O.Beckham to IND 46 for 14 yards (G.Toler).",10,4,34,NYG 40,0,NYG,
+25,3948,1,08:53,(8:53) D.Herron left tackle to NYG 46 for 1 yard (R.Ayers).,10,4,1,NYG 47,0,IND,
+25,3926,0,08:55,"J.Brown kicks onside 12 yards from NYG 35 to NYG 47. D.Herron (didn't try to advance) to NYG 47 for no gain (N.Berhe, A.Robinson).",0,4,0,NYG 35,0,NYG,KICKOFF
+25,4011,4,06:40,"(6:40) (Punt formation) Penalty on IND-P.McAfee, Delay of Game, declined.",3,4,7,NYG 40,0,IND,
+25,4038,4,06:24,"(6:24) P.McAfee punts 30 yards to NYG 10, Center-M.Overton, fair catch by R.Randle.",3,4,7,NYG 40,0,IND,PUNT
+25,3969,2,08:13,"(8:13) D.Herron right guard to NYG 41 for 5 yards (D.Kennard, M.Kiwanuka).",9,4,6,NYG 46,0,IND,
+25,3990,3,07:25,(7:25) (Shotgun) D.Herron left end to NYG 40 for 1 yard (J.McClain).,4,4,7,NYG 41,0,IND,
+26,4057,1,06:11,(6:11) (Shotgun) E.Manning pass incomplete short right to P.Hillis.,10,4,0,NYG 10,0,NYG,
+26,4308,0,03:19,"J.Brown extra point is GOOD, Center-Z.DeOssie, Holder-S.Weatherford.",0,4,90,IND 2,1,NYG,XP
+26,4079,2,06:07,"(6:07) (Shotgun) E.Manning pass deep left to C.Washington to NYG 30 for 20 yards (J.Gordy, D.Jackson).",10,4,20,NYG 10,0,NYG,
+26,4171,1,05:06,"(5:06) (No Huddle, Shotgun) E.Manning pass short middle to P.Hillis pushed ob at IND 47 for 9 yards (M.Adams).",10,4,43,NYG 44,0,NYG,
+26,4267,1,04:18,(4:18) (No Huddle) P.Hillis right guard to IND 1 for 1 yard (J.Newsome).,2,4,89,IND 2,0,NYG,
+26,4147,3,05:19,"(5:19) (No Huddle, Shotgun) E.Manning pass short right to O.Beckham ran ob at NYG 44 for 14 yards (D.Butler).",10,4,34,NYG 30,0,NYG,
+26,4195,2,04:54,"(4:54) (No Huddle, Shotgun) E.Manning pass deep left to O.Beckham to IND 29 for 18 yards (D.Butler).",1,4,61,IND 47,0,NYG,
+26,4219,1,04:27,"(4:27) (No Huddle, Shotgun) E.Manning pass short left to C.Washington to IND 15 for 14 yards (J.Gordy, M.Adams).",10,4,75,IND 29,0,NYG,
+26,4243,1,04:18,"(4:18) (No Huddle, Shotgun) E.Manning pass short left to C.Washington to IND 2 for 13 yards (J.Gordy, C.Redding).",10,4,88,IND 15,0,NYG,
+26,4125,2,05:29,"(5:29) (No Huddle, Shotgun) E.Manning pass incomplete short left to C.Washington (R.Jean Francois).",10,4,20,NYG 30,0,NYG,
+26,4103,1,05:37,"(5:37) (No Huddle, Shotgun) E.Manning pass incomplete deep left to C.Washington.",10,4,20,NYG 30,0,NYG,
+26,4288,2,04:18,"(4:18) (No Huddle) E.Manning pass short left to C.Washington for 1 yard, TOUCHDOWN.",1,4,90,IND 1,1,NYG,TD
+27,4367,0,03:13,Timeout #1 by NYG at 03:13.,0,4,3,,0,,TIMEOUT
+27,4422,3,03:07,"(3:07) (Shotgun) A.Luck pass short right to D.Herron to IND 34 for 4 yards (J.Williams, D.Moore).",5,4,9,IND 30,0,IND,
+27,4405,0,03:07,Timeout #2 by NYG at 03:07.,0,4,5,,0,,TIMEOUT
+27,4324,0,03:19,J.Brown kicks 40 yards from NYG 35 to IND 25. T.Hilton to IND 25 for no gain (K.Ogletree).,0,4,0,NYG 35,0,NYG,KICKOFF
+27,4384,2,03:13,(3:13) D.Herron left guard to IND 30 for 2 yards (R.Ayers).,7,4,5,IND 28,0,IND,
+27,4446,0,03:00,Timeout #3 by NYG at 03:00.,0,4,9,,0,,TIMEOUT
+27,4346,1,03:19,"(3:19) D.Herron up the middle to IND 28 for 3 yards (J.Williams, J.Bromley).",10,4,3,IND 25,0,IND,
+27,4463,4,03:00,"(3:00) P.McAfee punts 36 yards to NYG 30, Center-M.Overton, out of bounds.",1,4,9,IND 34,0,IND,PUNT
+20,3232,3,05:31,"(5:31) (No Huddle, Shotgun) E.Manning sacked at NYG 19 for -7 yards (J.Newsome). FUMBLES (J.Newsome), RECOVERED by IND-S.Brown at NYG 30. S.Brown pushed ob at NYG 4 for 26 yards (A.Williams). Officially, a sack for 0 yards.",4,3,6,NYG 26,0,NYG,FUMBLE
+20,3149,0,06:09,"P.McAfee kicks 65 yards from IND 35 to end zone, Touchback.",0,3,0,IND 35,0,IND,KICKOFF
+20,3210,2,05:33,"(5:33) (No Huddle, Shotgun) E.Manning pass incomplete short left to L.Donnell.",4,3,6,NYG 26,0,NYG,
+20,3182,1,06:09,"(6:09) (Shotgun) E.Manning pass short left to L.Donnell to NYG 26 for 6 yards (D.Butler, J.Freeman).",10,3,6,NYG 20,0,NYG,
+21,3311,0,04:31,"A.Vinatieri extra point is GOOD, Center-M.Overton, Holder-P.McAfee.",0,3,4,NYG 2,1,IND,XP
+21,3286,2,04:39,"(4:39) A.Luck pass short left to D.Allen for 2 yards, TOUCHDOWN.",2,3,4,NYG 2,1,IND,TD
+21,3265,1,05:20,"(5:20) T.Richardson left end to NYG 2 for 2 yards (J.McClain, M.Patterson).",4,3,2,NYG 4,0,IND,
+22,3391,3,03:50,(3:50) (Shotgun) E.Manning pass short middle to P.Parker to NYG 29 for 7 yards (B.Werner).,8,3,9,NYG 22,0,NYG,
+22,3366,2,04:05,"(4:05) (No Huddle, Shotgun) E.Manning pass incomplete deep left to P.Parker. NYG-W.Richburg was injured during the play.",8,3,2,NYG 22,0,NYG,
+22,3345,1,04:31,"(4:31) A.Williams right end to NYG 22 for 2 yards (J.Chapman, J.Freeman).",10,3,2,NYG 20,0,NYG,
+22,3419,4,03:14,"(3:14) S.Weatherford punts 51 yards to IND 20, Center-Z.DeOssie. G.Whalen pushed ob at IND 30 for 10 yards (J.Williams).",1,3,9,NYG 29,0,NYG,PUNT
+22,3327,0,04:31,"P.McAfee kicks 65 yards from IND 35 to end zone, Touchback.",0,3,2,IND 35,0,IND,KICKOFF
+23,3544,1,15:00,(15:00) A.Bradshaw up the middle to NYG 30 for 3 yards (J.McClain).,10,4,40,NYG 33,0,IND,
+23,3465,1,02:17,"(2:17) A.Bradshaw right tackle to NYG 43 for 17 yards (S.Brown, M.Kiwanuka).",10,3,27,IND 40,0,IND,
+23,3586,3,13:35,(13:35) A.Luck pass incomplete short left to A.Bradshaw.,2,4,45,NYG 25,0,IND,
+23,3565,2,14:22,"(14:22) A.Bradshaw right tackle to NYG 25 for 5 yards (Z.Bowman, J.McClain).",7,4,45,NYG 30,0,IND,
+23,3444,1,02:57,"(2:57) A.Bradshaw up the middle to IND 40 for 10 yards (J.Williams, J.McClain).",10,3,10,IND 30,0,IND,
+23,3608,4,13:28,"(13:28) A.Vinatieri 43 yard field goal is GOOD, Center-M.Overton, Holder-P.McAfee.",2,4,45,NYG 25,1,IND,FG
+23,3507,2,00:45,"(:45) T.Richardson left tackle to NYG 33 for 6 yards (J.Pierre-Paul, Q.Demps).",6,3,37,NYG 39,0,IND,
+23,3486,1,01:33,"(1:33) T.Richardson up the middle to NYG 39 for 4 yards (S.Brown, M.Kiwanuka).",10,3,31,NYG 43,0,IND,
+23,3528,0,,END QUARTER 3,0,3,37,,0,,
+28,4547,4,02:35,"(2:35) (No Huddle, Shotgun) E.Manning pass short left to O.Beckham pushed ob at NYG 40 for 10 yards (V.Davis, J.Newsome). Indianapolis challenged the first down ruling, and the play was REVERSED. (No Huddle, Shotgun) E.Manning pass short left to O.Beckham pushed ob at NYG 39 for 9 yards (V.Davis, J.Newsome).",10,4,9,NYG 30,0,NYG,
+28,4525,3,02:40,"(2:40) (No Huddle, Shotgun) E.Manning pass incomplete short right to L.Donnell (S.Brown).",10,4,0,NYG 30,0,NYG,
+28,4481,1,02:52,(2:52) (Shotgun) E.Manning pass incomplete deep right to K.Ogletree (S.Brown).,10,4,0,NYG 30,0,NYG,
+28,4503,2,02:46,"(2:46) (No Huddle, Shotgun) E.Manning pass incomplete deep left to R.Randle.",10,4,0,NYG 30,0,NYG,
+29,4649,2,02:00,"(2:00) D.Herron left end to NYG 20 for 19 yards (A.Rolle). PENALTY on IND-J.Harrison, Offensive Holding, 10 yards, enforced at NYG 39 - No Play.",10,4,-10,NYG 39,0,IND,PENALTY
+29,4702,3,01:06,(1:06) D.Herron right end to IND 49 for -3 yards (D.Kennard).,19,4,-12,NYG 48,0,IND,
+29,4681,2,01:47,"(1:47) D.Herron left guard to NYG 48 for 1 yard (J.Williams, D.Kennard).",20,4,-9,NYG 49,0,IND,
+29,4740,4,00:16,"(:16) P.McAfee punts 51 yards to end zone, Center-M.Overton, Touchback.",22,4,-12,IND 49,0,IND,PUNT
+29,4723,0,00:16,Timeout #1 by IND at 00:16.,0,4,-12,,0,,TIMEOUT
+29,4632,0,02:00,Two-Minute Warning,0,4,0,,0,,
+29,4611,1,02:29,"(2:29) D.Herron up the middle to NYG 39 for no gain (D.Moore, J.Williams).",10,4,0,NYG 39,0,IND,
+1,146,3,12:56,"(12:56) (No Huddle, Shotgun) E.Manning pass incomplete deep middle to R.Randle.",9,1,14,NYG 47,0,NYG,
+1,58,1,14:51,(14:51) A.Williams right guard to NYG 32 for -1 yards (B.Werner).,10,1,-1,NYG 33,0,NYG,
+1,168,4,12:49,"(12:49) S.Weatherford punts 41 yards to IND 12, Center-Z.DeOssie, fair catch by G.Whalen.",9,1,14,NYG 47,0,NYG,PUNT
+1,36,0,15:00,"P.McAfee kicks 65 yards from IND 35 to NYG 0. M.Cox to NYG 33 for 33 yards (H.Muamba, V.Butler).",0,1,0,IND 35,0,IND,KICKOFF
+1,124,2,13:04,"(13:04) (No Huddle, Shotgun) E.Manning pass incomplete deep right to O.Beckham (G.Toler).",9,1,14,NYG 47,0,NYG,
+1,103,1,13:49,(13:49) (No Huddle) A.Williams right tackle to NYG 47 for 1 yard (D.Jackson).,10,1,14,NYG 46,0,NYG,
+1,79,2,14:17,"(14:17) (No Huddle, Shotgun) E.Manning pass short middle to L.Donnell to NYG 46 for 14 yards (M.Adams).",11,1,13,NYG 32,0,NYG,
+3,621,4,05:27,"(5:27) S.Weatherford punts 41 yards to IND 22, Center-Z.DeOssie. G.Whalen to IND 37 for 15 yards (S.Weatherford, D.Fells).",8,1,17,NYG 37,0,NYG,PUNT
+3,578,2,06:04,(6:04) E.Manning pass incomplete short left to R.Randle [A.Studebaker].,15,1,10,NYG 30,0,NYG,
+3,600,3,05:58,"(5:58) (No Huddle, Shotgun) P.Hillis left guard to NYG 37 for 7 yards (J.Freeman, G.Toler).",15,1,17,NYG 30,0,NYG,
+3,556,1,06:13,(6:13) E.Manning pass incomplete deep left to L.Donnell.,15,1,10,NYG 30,0,NYG,
+3,533,1,06:36,"(6:36) (No Huddle) PENALTY on NYG-J.Pugh, False Start, 5 yards, enforced at NYG 35 - No Play.",10,1,10,NYG 35,0,NYG,PENALTY
+3,488,0,07:07,"P.McAfee kicks 65 yards from IND 35 to end zone, Touchback.",0,1,0,IND 35,0,IND,KICKOFF
+3,506,1,07:07,(7:07) E.Manning pass short middle to R.Randle to NYG 35 for 15 yards (V.Davis).,10,1,15,NYG 20,0,NYG,
+2,465,4,07:12,"(7:12) A.Vinatieri 48 yard field goal is GOOD, Center-M.Overton, Holder-P.McAfee. IND-A.Studebaker was injured during the play.",7,1,58,NYG 30,1,IND,FG
+2,211,2,12:08,"(12:08) (No Huddle, Shotgun) A.Luck pass short right to D.Allen to IND 23 for 9 yards (Q.Demps) [R.Ayers].",8,1,11,IND 14,0,IND,
+2,313,3,10:10,(10:10) (Shotgun) A.Luck scrambles up the middle to IND 45 for 5 yards (J.Williams).,4,1,33,IND 40,0,IND,
+2,334,1,09:34,(9:34) (Shotgun) A.Luck pass deep middle to H.Nicks pushed ob at NYG 33 for 22 yards (P.Amukamara).,10,1,55,IND 45,0,IND,
+2,419,2,08:01,"(8:01) (No Huddle, Shotgun) A.Luck pass short left to A.Bradshaw to NYG 30 for no gain (J.Williams, D.Moore).",7,1,58,NYG 30,0,IND,
+2,443,3,07:16,(7:16) (Shotgun) A.Luck pass incomplete short left to H.Nicks.,7,1,58,NYG 30,0,IND,
+2,267,1,10:54,"(10:54) A.Luck pass short left to T.Richardson to IND 40 for 6 yards (M.Kiwanuka, J.Williams).",10,1,28,IND 34,0,IND,
+2,187,1,12:42,(12:42) (Shotgun) A.Luck pass short right to D.Allen to IND 14 for 2 yards (J.Williams).,10,1,2,IND 12,0,IND,
+2,395,1,08:36,(8:36) (Shotgun) A.Luck pass short middle to T.Hilton to NYG 30 for 13 yards (A.Rolle) [R.Ayers].,20,1,58,NYG 43,0,IND,
+2,235,1,11:27,"(11:27) (No Huddle, Shotgun) T.Richardson right end to IND 29 for 6 yards (J.Williams, A.Rolle). PENALTY on NYG-M.Kiwanuka, Illegal Use of Hands, 5 yards, enforced at IND 29.",10,1,22,IND 23,0,IND,PENALTY
+2,363,1,09:03,"(9:03) (No Huddle, Shotgun) T.Richardson right guard to NYG 30 for 3 yards (J.Hankins, M.Kuhn). PENALTY on IND-C.Fleener, Offensive Holding, 10 yards, enforced at NYG 33 - No Play.",10,1,45,NYG 33,0,IND,PENALTY
+2,291,2,10:18,(10:18) (Shotgun) A.Luck pass incomplete short left to T.Hilton.,4,1,28,IND 40,0,IND,
+5,861,4,02:06,"(2:06) S.Weatherford punts 35 yards to NYG 47, Center-Z.DeOssie, downed by NYG-C.Fenner.",12,1,-2,NYG 12,0,NYG,PUNT
+5,786,1,03:35,(3:35) A.Williams right guard to NYG 18 for 4 yards (Z.Kerr).,10,1,4,NYG 14,0,NYG,
+5,839,3,02:13,(2:13) (Shotgun) E.Manning pass incomplete deep right.,12,1,-2,NYG 12,0,NYG,
+5,807,2,03:04,"(3:04) A.Williams left guard to NYG 18 for no gain (J.Chapman). FUMBLES (J.Chapman), touched at NYG 17, recovered by NYG-J.Pugh at NYG 14. J.Pugh to NYG 12 for -2 yards (J.Freeman). Officially, a rush for -1 yards.",6,1,-2,NYG 18,0,NYG,FUMBLE
+4,743,3,04:19,(4:19) (Shotgun) A.Luck pass short right to D.Moncrief to 50 for 2 yards (P.Amukamara) [D.Moore].,10,1,13,IND 48,0,IND,
+4,675,2,05:08,(5:08) (Shotgun) A.Luck pass short middle to R.Wayne to IND 48 for 11 yards (J.Hosley).,10,1,11,IND 37,0,IND,
+4,699,1,04:31,"(4:31) (No Huddle, Shotgun) A.Luck pass incomplete short left to T.Hilton (J.Pierre-Paul).",10,1,11,IND 48,0,IND,
+4,767,4,03:47,"(3:47) P.McAfee punts 36 yards to NYG 14, Center-M.Overton, fair catch by R.Randle.",8,1,13,50,0,IND,PUNT
+4,721,2,04:23,(4:23) A.Luck pass incomplete short right to R.Wayne [R.Ayers].,10,1,11,IND 48,0,IND,
+4,646,1,05:13,(5:13) A.Luck pass incomplete short right to A.Bradshaw.,10,1,0,IND 37,0,IND,
+7,964,1,00:56,"(:56) A.Williams up the middle to NYG 9 for 1 yard (A.Studebaker, Z.Kerr).",10,1,1,NYG 8,0,NYG,
+7,1006,0,,END QUARTER 1,0,1,2,,0,,
+7,1026,3,15:00,(15:00) (Shotgun) E.Manning pass incomplete short left to O.Beckham.,8,2,2,NYG 10,0,NYG,
+7,1048,4,14:55,"(14:55) S.Weatherford punts 58 yards to IND 32, Center-Z.DeOssie. G.Whalen to IND 34 for 2 yards. FUMBLES, and recovers at IND 32. G.Whalen to IND 32 for no gain (N.Berhe).",8,2,2,NYG 10,0,NYG,FUMBLE
+7,985,2,00:27,(:27) A.Williams left tackle to NYG 10 for 1 yard (M.Hughes).,9,1,2,NYG 9,0,NYG,
+6,902,2,01:49,(1:49) (Shotgun) T.Richardson left end to NYG 43 for 4 yards (P.Amukamara).,10,1,4,NYG 47,0,IND,
+6,880,1,01:56,(1:56) A.Luck pass incomplete deep right to C.Fleener.,10,1,4,NYG 47,0,IND,
+6,923,3,01:09,(1:09) (Shotgun) A.Luck pass incomplete short left to R.Wayne.,6,1,4,NYG 43,0,IND,
+6,945,4,01:03,"(1:03) P.McAfee punts 35 yards to NYG 8, Center-M.Overton, fair catch by R.Randle.",6,1,4,NYG 43,0,IND,PUNT
+9,1304,2,12:07,(12:07) (No Huddle) E.Manning pass incomplete deep left to R.Randle (V.Davis).,9,2,43,IND 37,0,NYG,
+9,1176,0,13:38,"P.McAfee kicks 65 yards from IND 35 to end zone, Touchback.",0,2,0,IND 35,0,IND,KICKOFF
+9,1326,3,11:59,(11:59) (Shotgun) E.Manning pass incomplete short left to L.Donnell.,9,2,43,IND 37,0,NYG,
+9,1217,2,13:33,(13:33) E.Manning pass short right to P.Hillis pushed ob at NYG 46 for 26 yards (M.Adams).,10,2,26,NYG 20,0,NYG,
+9,1195,1,13:38,(13:38) (Shotgun) E.Manning pass incomplete short middle to P.Parker.,10,2,0,NYG 20,0,NYG,
+9,1250,1,13:05,(13:05) (No Huddle) P.Hillis left guard pushed ob at IND 38 for 16 yards (M.Adams).,10,2,42,NYG 46,0,NYG,
+9,1348,4,11:54,"(11:54) S.Weatherford punts 30 yards to IND 7, Center-Z.DeOssie, fair catch by G.Whalen.",9,2,43,IND 37,0,NYG,PUNT
+9,1280,1,12:44,"(12:44) (No Huddle, Shotgun) E.Manning pass short right to P.Hillis to IND 37 for 1 yard (D.Jackson).",10,2,43,IND 38,0,NYG,
+8,1140,1,13:50,"(13:50) A.Luck pass short right to C.Fleener for 32 yards, TOUCHDOWN. Challenge flag thrown by NYG too late.",10,2,68,NYG 32,1,IND,TD
+8,1084,1,14:42,"(14:42) A.Bradshaw left guard to IND 30 for -2 yards (D.Kennard, M.Kiwanuka). PENALTY on NYG-D.Kennard, Face Mask (15 Yards), 15 yards, enforced at IND 32 - No Play.",10,2,68,IND 32,0,IND,PENALTY
+8,1160,0,13:38,"A.Vinatieri extra point is GOOD, Center-M.Overton, Holder-P.McAfee.",0,2,68,NYG 2,1,IND,XP
+8,1116,1,14:14,(14:14) A.Luck pass deep left to C.Fleener to NYG 32 for 21 yards (J.Williams).,10,2,36,IND 47,0,IND,
+11,1540,3,09:33,"(9:33) (No Huddle, Shotgun) E.Manning pass deep middle to O.Beckham to IND 34 for 19 yards (G.Toler).",10,2,31,NYG 47,0,NYG,
+11,1628,1,07:55,"(7:55) (No Huddle) A.Williams up the middle to IND 20 for 3 yards (M.Adams, A.Studebaker).",10,2,45,IND 23,0,NYG,
+11,1649,2,07:24,"(7:24) (No Huddle, Shotgun) E.Manning pass incomplete short middle to P.Parker.",7,2,45,IND 20,0,NYG,
+11,1607,3,08:28,"(8:28) H.Hynoski up the middle to IND 23 for 2 yards (D.Jackson, J.Newsome).",1,2,42,IND 25,0,NYG,
+11,1585,2,08:33,"(8:33) (No Huddle, Shotgun) E.Manning pass incomplete short left to P.Parker.",1,2,40,IND 25,0,NYG,
+11,1470,1,10:45,(10:45) (Shotgun) E.Manning pass short left to R.Randle to NYG 47 for 12 yards (V.Davis).,10,2,45,NYG 35,0,NYG,
+11,1494,1,10:13,"(10:13) (No Huddle, Shotgun) E.Manning pass short right to L.Donnell to NYG 47 for no gain (B.Werner).",10,2,12,NYG 47,0,NYG,
+11,1518,2,09:40,"(9:40) (No Huddle, Shotgun) E.Manning pass incomplete short middle to P.Parker (D.Butler).",10,2,12,NYG 47,0,NYG,
+11,1564,1,09:05,(9:05) (No Huddle) A.Williams right end to IND 25 for 9 yards (G.Toler).,10,2,40,IND 34,0,NYG,
+11,1671,3,07:17,"(7:17) (No Huddle, Shotgun) E.Manning pass incomplete short left to R.Randle.",7,2,45,IND 20,0,NYG,
+11,1693,4,07:12,"(7:12) J.Brown 38 yard field goal is GOOD, Center-Z.DeOssie, Holder-S.Weatherford.",7,2,45,IND 20,1,NYG,FG
+10,1367,1,11:46,(11:46) A.Luck pass incomplete deep right to C.Fleener (A.Rolle) [M.Kiwanuka].,10,2,0,IND 7,0,IND,
+10,1423,3,11:04,(11:04) (Shotgun) A.Luck pass incomplete short left to C.Fleener (J.Williams).,7,2,3,IND 10,0,IND,
+10,1445,4,10:56,"(10:56) P.McAfee punts 52 yards to NYG 38, Center-M.Overton. O.Beckham to NYG 35 for -3 yards (D.McDonald).",7,2,3,IND 10,0,IND,PUNT
+10,1396,2,11:38,"(11:38) (Shotgun) A.Luck pass short middle to T.Richardson to IND 10 for 3 yards (J.Williams, J.Pierre-Paul). NYG-J.Pierre-Paul was injured during the play.",10,2,3,IND 7,0,IND,
+13,1986,1,03:26,"(3:26) (Shotgun) E.Manning pass incomplete short left to O.Beckham. Penalty on IND-C.Redding, Illegal Use of Hands, offsetting, enforced at NYG 14 - No Play. Penalty on NYG-J.Pugh, Illegal Use of Hands, offsetting.",15,2,-5,NYG 14,0,NYG,
+13,2043,2,02:55,"(2:55) (No Huddle, Shotgun) A.Williams up the middle to NYG 20 for 2 yards (J.Newsome, R.Jean Francois).",11,2,1,NYG 18,0,NYG,
+13,1941,0,03:32,P.McAfee kicks 71 yards from IND 35 to NYG -6. M.Cox to NYG 19 for 25 yards (V.Butler).,0,2,0,IND 35,0,IND,KICKOFF
+13,2086,4,02:12,"(2:12) S.Weatherford punts 48 yards to IND 32, Center-Z.DeOssie. G.Whalen pushed ob at IND 40 for 8 yards (D.Moore).",9,2,1,NYG 20,0,NYG,PUNT
+13,1963,1,03:26,"(3:26) (Shotgun) PENALTY on NYG-E.Manning, Delay of Game, 5 yards, enforced at NYG 19 - No Play.",10,2,-5,NYG 19,0,NYG,PENALTY
+13,2019,1,03:22,(3:22) (Shotgun) E.Manning pass short left to R.Randle to NYG 18 for 4 yards (V.Davis).,15,2,-1,NYG 14,0,NYG,
+13,2064,3,02:18,"(2:18) (No Huddle, Shotgun) E.Manning pass incomplete deep left to R.Randle.",9,2,1,NYG 20,0,NYG,
+12,1712,0,07:07,J.Brown kicks 69 yards from NYG 35 to IND -4. G.Whalen to IND 26 for 30 yards (J.Brown).,0,2,0,NYG 35,0,NYG,KICKOFF
+12,1833,2,04:56,(4:56) (Shotgun) A.Luck pass short middle to C.Fleener to NYG 15 for 13 yards (J.Williams).,3,2,59,NYG 28,0,IND,
+12,1780,2,06:10,(6:10) (Shotgun) A.Luck pass short middle to T.Hilton pushed ob at NYG 35 for 27 yards (J.Hosley).,10,2,39,IND 38,0,IND,
+12,1734,1,07:00,(7:00) (Shotgun) A.Luck pass short middle to R.Wayne to IND 38 for 12 yards (J.Hosley).,10,2,12,IND 26,0,IND,
+12,1809,1,05:33,(5:33) A.Luck pass short middle to A.Bradshaw to NYG 28 for 7 yards (D.Kennard).,10,2,46,NYG 35,0,IND,
+12,1857,1,04:28,"(4:28) (No Huddle, Shotgun) A.Bradshaw up the middle to NYG 13 for 2 yards (J.Hankins, J.Williams).",10,2,61,NYG 15,0,IND,
+12,1922,4,03:37,"(3:37) A.Vinatieri 31 yard field goal is GOOD, Center-M.Overton, Holder-P.McAfee.",8,2,61,NYG 13,1,IND,FG
+12,1900,3,03:41,(3:41) (Shotgun) A.Luck pass incomplete short left to R.Wayne [J.Pierre-Paul].,8,2,61,NYG 13,0,IND,
+12,1758,1,06:20,(6:20) A.Luck pass incomplete deep right to C.Fleener [R.Ayers].,10,2,12,IND 38,0,IND,
+12,1878,2,03:53,(3:53) A.Luck pass incomplete short right to C.Fleener (Q.Demps).,8,2,61,NYG 13,0,IND,
+15,2309,1,01:02,(1:02) (Shotgun) E.Manning pass short middle to P.Hillis to NYG 15 for 6 yards (J.Freeman).,10,2,6,NYG 9,0,NYG,
+15,2333,0,00:55,Timeout #2 by NYG at 00:55.,0,2,6,,0,,TIMEOUT
+15,2424,4,00:42,"(:42) S.Weatherford punts 49 yards to IND 34, Center-Z.DeOssie. G.Whalen to IND 39 for 5 yards (D.Moore, Z.DeOssie).",2,2,8,NYG 17,0,NYG,PUNT
+15,2287,0,01:07,"P.McAfee kicks 68 yards from IND 35 to NYG -3. M.Cox to NYG 9 for 12 yards (L.Purifoy, D.Herron).",0,2,0,IND 35,0,IND,KICKOFF
+15,2407,0,00:42,Timeout #2 by IND at 00:42.,0,2,8,,0,,TIMEOUT
+15,2369,0,00:48,Timeout #1 by IND at 00:48.,0,2,-2,,0,,TIMEOUT
+15,2386,3,00:48,"(:48) (Shotgun) M.Cox left guard to NYG 17 for 10 yards (D.Jackson, J.Freeman).",12,2,8,NYG 7,0,NYG,
+15,2350,2,00:55,(:55) (Shotgun) E.Manning sacked at NYG 7 for -8 yards (J.Newsome).,4,2,-2,NYG 15,0,NYG,
+14,2183,1,01:32,(1:32) (Shotgun) A.Luck pass incomplete deep middle to R.Wayne.,10,2,23,NYG 37,0,IND,
+14,2133,1,02:00,(2:00) (Shotgun) A.Bradshaw up the middle to IND 48 for 8 yards (A.Rolle).,10,2,8,IND 40,0,IND,
+14,2227,3,01:21,(1:21) (Shotgun) A.Luck pass short middle to H.Nicks to NYG 30 for 7 yards (D.Rodgers-Cromartie).,10,2,30,NYG 37,0,IND,
+14,2154,2,01:39,"(1:39) (No Huddle, Shotgun) A.Luck pass short middle to H.Nicks ran ob at NYG 37 for 15 yards (J.McClain).",2,2,23,IND 48,0,IND,
+14,2268,4,01:12,"(1:12) A.Vinatieri 48 yard field goal is GOOD, Center-M.Overton, Holder-P.McAfee.",3,2,30,NYG 30,1,IND,FG
+14,2251,0,01:12,Timeout #1 by NYG at 01:12.,0,2,30,,0,,TIMEOUT
+14,2205,2,01:26,(1:26) (Shotgun) A.Luck pass incomplete short right to C.Fleener (J.Hosley).,10,2,23,NYG 37,0,IND,
+17,2605,2,13:22,(13:22) (Shotgun) T.Richardson right guard to NYG 38 for 9 yards (D.Moore).,10,3,46,NYG 47,0,IND,
+17,2711,2,11:58,"(11:58) (Shotgun) A.Luck pass deep right to T.Hilton for 31 yards, TOUCHDOWN.",15,3,84,NYG 31,1,IND,TD
+17,2583,1,13:30,(13:30) A.Luck pass incomplete short left to R.Wayne (J.Hankins).,10,3,37,NYG 47,0,IND,
+17,2731,0,11:50,"A.Vinatieri extra point is GOOD, Center-M.Overton, Holder-P.McAfee.",0,3,84,NYG 2,1,IND,XP
+17,2559,3,14:14,"(14:14) (No Huddle, Shotgun) A.Luck pass deep right to D.Allen to NYG 47 for 35 yards (Q.Demps, J.Williams) [M.Kiwanuka].",8,3,37,IND 18,0,IND,
+17,2494,0,15:00,J.Brown kicks 55 yards from NYG 35 to IND 10. G.Whalen to IND 16 for 6 yards (M.Herzlich).,0,3,0,NYG 35,0,NYG,KICKOFF
+17,2538,2,14:50,"(14:50) T.Richardson right end to IND 18 for 2 yards (A.Rolle, J.McClain).",10,3,2,IND 16,0,IND,
+17,2662,1,12:13,(12:13) A.Luck pass incomplete short left to C.Fleener.,10,3,58,NYG 26,0,IND,
+17,2684,2,11:58,"(11:58) (Shotgun) PENALTY on IND-A.Castonzo, False Start, 5 yards, enforced at NYG 26 - No Play.",10,3,53,NYG 26,0,IND,PENALTY
+17,2626,3,12:38,"(12:38) A.Luck FUMBLES (Aborted) at NYG 38, recovered by IND-A.Bradshaw at NYG 39. A.Bradshaw pushed ob at NYG 26 for 13 yards (A.Rolle).",1,3,84,NYG 38,0,IND,FUMBLE
+17,2516,1,14:55,(14:55) A.Luck pass incomplete short left to R.Wayne.,10,3,0,IND 16,0,IND,
+16,2449,1,00:32,"(:32) (Shotgun) A.Luck sacked at IND 30 for -9 yards (R.Ayers). FUMBLES (R.Ayers), and recovers at IND 30. A.Luck to IND 30 for no gain (D.Moore).",10,2,-9,IND 39,0,IND,FUMBLE
+16,2478,0,,END QUARTER 2,0,2,-9,,0,,
+19,2965,1,09:01,"(9:01) (Shotgun) A.Luck pass short right to D.Allen to NYG 43 for 15 yards (J.McClain). PENALTY on IND-J.Mewhort, Ineligible Downfield Pass, 5 yards, enforced at IND 42 - No Play.",10,3,17,IND 42,0,IND,PENALTY
+19,3092,2,07:00,(7:00) (Shotgun) A.Bradshaw right tackle to NYG 40 for 5 yards (A.Rolle).,10,3,40,NYG 45,0,IND,
+19,3024,2,07:59,(7:59) A.Luck pass incomplete short left to T.Hilton [R.Ayers].,8,3,24,IND 44,0,IND,
+19,2915,1,09:48,(9:48) A.Luck pass incomplete short right to D.Allen [R.Ayers]. NYG-R.Ayers was injured during the play.,10,3,0,IND 20,0,IND,
+19,2937,2,09:44,(9:44) (Shotgun) A.Luck pass short left to A.Bradshaw to IND 42 for 22 yards (J.Williams).,10,3,22,IND 20,0,IND,
+19,2896,0,09:48,"J.Brown kicks 65 yards from NYG 35 to end zone, Touchback.",0,3,0,NYG 35,0,NYG,KICKOFF
+19,3113,3,06:22,"(6:22) (No Huddle, Shotgun) A.Luck pass short left to R.Wayne for 40 yards, TOUCHDOWN [R.Ayers].",5,3,80,NYG 40,1,IND,TD
+19,3070,1,07:13,(7:13) A.Luck pass incomplete short middle.,10,3,35,NYG 45,0,IND,
+19,3000,1,08:29,(8:29) (Shotgun) A.Luck pass short middle to R.Wayne to IND 44 for 7 yards (A.Rolle).,15,3,24,IND 37,0,IND,
+19,3133,0,06:09,"A.Vinatieri extra point is GOOD, Center-M.Overton, Holder-P.McAfee.",0,3,80,NYG 2,1,IND,XP
+19,3046,3,07:54,(7:54) (Shotgun) A.Luck pass short right to C.Fleener to NYG 45 for 11 yards (J.Williams).,8,3,35,IND 44,0,IND,
+18,2769,1,11:44,(11:44) E.Manning pass deep right to O.Beckham to IND 25 for 59 yards (M.Adams).,10,3,59,NYG 16,0,NYG,
+18,2863,1,09:53,"(9:53) A.Williams up the middle for 1 yard, TOUCHDOWN.",1,3,84,IND 1,1,NYG,TD
+18,2747,0,11:50,"P.McAfee kicks 67 yards from IND 35 to NYG -2. M.Cox to NYG 16 for 18 yards (A.Jackson, C.Anderson).",0,3,0,IND 35,0,IND,KICKOFF
+18,2817,2,10:33,(10:33) (Shotgun) E.Manning pass incomplete deep left to O.Beckham.,10,3,59,IND 25,0,NYG,
+18,2839,3,10:23,"(10:23) (No Huddle, Shotgun) E.Manning pass short right to A.Williams to IND 1 for 24 yards (S.Brown).",10,3,83,IND 25,0,NYG,
+18,2793,1,11:03,"(11:03) (No Huddle) A.Williams right end to IND 25 for no gain (J.Chapman, J.Freeman). IND-D.Jackson was injured during the play.",10,3,59,IND 25,0,NYG,
+18,2880,0,09:48,"J.Brown extra point is GOOD, Center-Z.DeOssie, Holder-S.Weatherford.",0,3,84,IND 2,1,NYG,XP
+30,4786,0,,END GAME,0,4,17,,0,,
+30,4757,1,00:07,(:07) #9 Nassib at QB. M.Cox up the middle to NYG 37 for 17 yards (J.Gordy).,10,4,17,NYG 20,0,NYG,

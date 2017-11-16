@@ -1,216 +1,216 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1464,0,09:24,,0,2,80,,0,,TIMEOUT
-9,1274,0,11:04,,0,2,0,,0,,TIMEOUT
-9,1511,1,09:02,,10,2,31,JAC 49,0,IND,
-9,1250,1,11:31,,10,2,0,IND 20,0,IND,
-9,1698,2,06:10,,2,2,80,JAC 2,1,IND,TD
-9,1313,3,11:00,,10,2,11,IND 20,0,IND,
-9,1568,1,08:15,,10,2,80,JAC 17,0,IND,
-9,1228,0,11:37,,0,2,0,JAC 35,0,JAC,KICKOFF
-9,1648,1,06:58,,4,2,78,JAC 4,0,IND,PENALTY
-9,1591,2,07:37,,10,2,70,JAC 17,0,IND,
-9,1380,3,09:40,,9,2,16,IND 32,0,IND,PENALTY
-9,1291,2,11:04,,10,2,0,IND 20,0,IND,
-9,1420,1,09:36,,10,2,16,IND 36,0,IND,
-9,1358,2,09:46,,9,2,12,IND 32,0,IND,
-9,1337,1,10:25,,10,2,12,IND 31,0,IND,
-9,1481,3,09:24,,10,2,31,IND 36,0,IND,PENALTY
-9,1533,2,08:29,,10,2,63,JAC 49,0,IND,PENALTY
-9,1615,3,06:58,,3,2,76,JAC 10,0,IND,PENALTY
-9,1673,1,06:54,,2,2,78,JAC 2,0,IND,
-9,1442,2,09:30,,10,2,16,IND 36,0,IND,
-9,1720,0,06:04,,0,2,80,JAC 15,1,IND,XP
-24,4487,0,15:00,,0,5,0,IND 35,0,IND,KICKOFF
-24,4528,2,14:56,,10,5,36,JAC 20,0,JAC,
-24,4570,2,13:46,,12,5,34,IND 46,0,JAC,
-24,4506,1,15:00,,10,5,36,JAC 20,0,JAC,
-24,4549,1,14:29,,10,5,34,IND 44,0,JAC,
-24,4592,3,13:42,,12,5,34,IND 46,0,JAC,
-24,4614,4,13:36,,12,5,34,IND 46,0,JAC,PUNT
-10,1800,3,04:54,,4,2,12,JAC 26,0,JAC,
-10,1845,2,03:43,,8,2,17,JAC 34,0,JAC,
-10,1866,3,03:00,,5,2,25,JAC 37,0,JAC,FUMBLE
-10,1989,2,01:28,,4,2,65,IND 35,0,JAC,
-10,1755,1,06:04,,10,2,6,JAC 20,0,JAC,
-10,2089,4,00:09,,9,2,65,IND 15,1,JAC,FG
-10,1923,2,02:01,,5,2,65,50,0,JAC,
-10,1824,1,04:24,,10,2,14,JAC 32,0,JAC,
-10,2046,2,00:55,,10,2,65,IND 16,0,JAC,
-10,1779,2,05:32,,4,2,6,JAC 26,0,JAC,
-10,2067,3,00:18,,9,2,65,IND 15,0,JAC,
-10,2013,1,01:00,,10,2,64,IND 16,0,JAC,
-10,1899,1,02:38,,10,2,30,JAC 45,0,JAC,
-10,1964,1,01:55,,10,2,45,IND 41,0,JAC,
-10,1947,0,01:55,,0,2,39,,0,,
-10,1736,0,06:04,,0,2,0,IND 35,0,IND,KICKOFF
-20,4017,2,02:20,,25,4,23,JAC 45,0,JAC,
-20,3991,1,03:03,,10,4,23,IND 40,0,JAC,FUMBLE
-20,3915,1,03:55,,10,4,-1,JAC 31,0,JAC,
-20,4058,3,02:00,,16,4,23,IND 46,0,JAC,
-20,3936,2,03:16,,11,4,-1,JAC 30,0,JAC,
-20,4080,4,01:56,,16,4,23,IND 46,0,JAC,PUNT
-20,3958,3,03:11,,11,4,29,JAC 30,0,JAC,PENALTY
-20,4041,0,02:00,,0,4,23,,0,,
-6,972,0,,,0,1,4,,0,,
-6,1011,2,15:00,,11,2,5,JAC 15,0,JAC,
-6,988,2,15:00,,6,2,-1,JAC 20,0,JAC,PENALTY
-6,1040,3,14:30,,5,2,-4,JAC 21,0,JAC,
-6,951,1,00:14,,10,1,4,JAC 16,0,JAC,
-6,1059,4,13:55,,14,2,-4,JAC 12,0,JAC,PUNT
-27,5060,2,04:41,,9,5,53,JAC 9,1,IND,FG
-27,4952,1,07:24,,10,5,32,JAC 34,0,IND,
-27,4994,3,06:06,,5,5,55,JAC 29,0,IND,
-27,4973,2,06:48,,6,5,33,JAC 30,0,IND,
-27,5039,1,05:23,,7,5,53,JAC 7,0,IND,
-27,5022,0,05:23,,0,5,55,,0,,TIMEOUT
-27,4928,1,08:13,,10,5,28,IND 38,0,IND,
-18,3646,2,07:03,,5,4,18,JAC 38,0,JAC,
-18,3601,2,08:12,,10,4,13,JAC 20,0,JAC,
-18,3692,1,06:19,,10,4,30,50,0,JAC,
-18,3714,2,06:12,,10,4,37,50,0,JAC,
-18,3625,1,07:45,,10,4,18,JAC 33,0,JAC,
-18,3579,1,08:19,,10,4,0,JAC 20,0,JAC,
-18,3760,4,05:24,,3,4,32,IND 43,0,JAC,PENALTY
-18,3791,4,05:24,,8,4,32,IND 48,0,JAC,PUNT
-18,3668,3,06:58,,5,4,30,JAC 38,0,JAC,
-18,3738,3,05:28,,3,4,37,IND 43,0,JAC,
-26,4907,4,08:18,,8,5,31,IND 30,0,JAC,FGM
-26,4734,1,12:11,,10,5,2,JAC 39,0,JAC,
-26,4822,2,10:15,,5,5,29,IND 40,0,JAC,
-26,4777,3,11:29,,8,5,16,JAC 41,0,JAC,
-26,4843,1,09:47,,10,5,28,IND 32,0,JAC,
-26,4886,3,09:01,,11,5,31,IND 33,0,JAC,
-26,4801,1,10:53,,10,5,21,IND 45,0,JAC,
-26,4755,2,11:35,,8,5,2,JAC 41,0,JAC,
-26,4864,2,09:04,,11,5,28,IND 33,0,JAC,
-25,4708,4,12:25,,3,5,7,IND 23,0,IND,PUNT
-25,4686,3,12:30,,3,5,7,IND 23,0,IND,
-25,4638,1,13:29,,10,5,7,IND 16,0,IND,
-25,4662,2,13:07,,3,5,7,IND 23,0,IND,
-1,101,3,14:28,,5,1,5,IND 29,0,IND,
-1,58,1,14:55,,10,1,0,IND 24,0,IND,
-1,80,2,14:51,,10,1,5,IND 24,0,IND,
-1,36,0,15:00,,0,1,0,JAC 35,0,JAC,KICKOFF
-1,123,4,14:23,,5,1,5,IND 29,0,IND,FUMBLE
-5,840,2,02:22,,9,1,13,IND 21,0,IND,
-5,885,2,01:15,,7,1,19,IND 36,0,IND,
-5,906,3,00:29,,4,1,19,IND 39,0,IND,
-5,819,1,02:49,,10,1,1,IND 20,0,IND,
-5,800,0,02:49,,0,1,0,JAC 35,0,JAC,KICKOFF
-5,864,1,01:54,,10,1,16,IND 33,0,IND,
-5,928,4,00:23,,4,1,19,IND 39,0,IND,PUNT
-13,2700,2,05:30,,5,3,52,JAC 29,0,IND,PENALTY
-13,2511,3,09:11,,10,3,21,IND 14,0,IND,
-13,2546,1,08:43,,10,3,27,IND 35,0,IND,
-13,2588,1,07:48,,10,3,46,IND 45,0,IND,
-13,2723,2,05:30,,10,3,56,JAC 34,0,IND,
-13,2460,1,09:20,,10,3,0,IND 14,0,IND,
-13,2631,3,06:10,,3,3,52,JAC 48,0,IND,
-13,2655,1,05:36,,10,3,52,JAC 34,0,IND,
-13,2782,4,04:09,,16,3,46,JAC 40,0,IND,PUNT
-13,2482,2,09:17,,10,3,0,IND 14,0,IND,
-13,2612,2,06:57,,1,3,38,JAC 46,0,IND,
-13,2747,3,04:56,,6,3,46,JAC 30,0,IND,FUMBLE
-13,2567,2,08:19,,4,3,31,IND 41,0,IND,
-13,2677,2,05:30,,10,3,57,JAC 34,0,IND,PENALTY
-21,4104,1,01:48,,10,4,-4,IND 15,0,IND,
-21,4186,4,00:56,,9,4,1,IND 16,0,IND,PUNT
-21,4147,0,01:01,,0,4,1,,0,,TIMEOUT
-21,4123,2,01:09,,14,4,1,IND 11,0,IND,
-21,4164,3,01:01,,9,4,1,IND 16,0,IND,
-23,4471,0,,,0,4,-1,,0,,
-23,4448,1,00:01,,10,4,-1,IND 43,0,IND,
-11,2108,0,00:04,,0,2,0,JAC 35,0,JAC,KICKOFF
-11,2130,0,,,0,2,0,,0,,
-14,2881,2,02:45,,10,3,16,JAC 13,0,JAC,
-14,2924,4,01:58,,6,3,11,JAC 17,0,JAC,PENALTY
-14,2859,1,02:49,,10,3,12,JAC 13,0,JAC,
-14,2838,2,03:26,,1,3,12,JAC 10,0,JAC,
-14,2814,1,03:56,,10,3,9,JAC 1,0,JAC,
-14,2960,4,01:45,,11,3,11,JAC 12,0,JAC,PUNT
-14,2902,3,02:04,,6,3,11,JAC 17,0,JAC,
-8,1147,1,12:58,,10,2,31,IND 34,0,JAC,
-8,1192,2,11:46,,5,2,44,IND 8,1,JAC,TD
-8,1171,1,12:24,,10,2,36,IND 13,0,JAC,
-8,1126,1,13:37,,10,2,10,IND 44,0,JAC,
-8,1212,0,11:37,,0,2,44,IND 15,1,JAC,XP
-19,3865,3,04:43,,2,4,9,IND 18,0,IND,
-19,3819,1,05:16,,10,4,8,IND 10,0,IND,
-19,3889,4,04:06,,1,4,9,IND 19,0,IND,PUNT
-19,3843,2,04:48,,2,4,8,IND 18,0,IND,
-22,4428,2,00:06,,5,4,38,IND 35,0,JAC,FGM
-22,4318,2,00:17,,10,4,33,JAC 48,0,JAC,
-22,4275,3,00:34,,3,4,21,JAC 34,0,JAC,
-22,4405,0,00:06,,0,4,38,,0,,TIMEOUT
-22,4212,1,00:45,,10,4,38,JAC 27,0,JAC,
-22,4253,2,00:38,,3,4,7,JAC 34,0,JAC,
-22,4342,0,00:10,,0,4,33,,0,,TIMEOUT
-22,4296,1,00:17,,10,4,21,JAC 48,0,JAC,
-22,4376,1,00:10,,10,4,38,IND 40,0,JAC,
-22,4359,0,00:10,,0,4,33,,0,,TIMEOUT
-22,4236,0,00:38,,0,4,7,,0,,TIMEOUT
-12,2165,1,15:00,,10,3,20,JAC 20,0,JAC,
-12,2218,1,13:38,,10,3,17,JAC 42,0,JAC,PENALTY
-12,2270,2,12:44,,12,3,19,JAC 40,0,JAC,
-12,2412,3,09:36,,9,3,34,IND 46,0,JAC,
-12,2335,1,11:20,,10,3,42,IND 47,0,JAC,
-12,2356,2,10:42,,1,3,32,IND 38,0,JAC,PENALTY
-12,2434,4,09:30,,9,3,34,IND 46,0,JAC,PUNT
-12,2241,1,13:15,,15,3,20,JAC 37,0,JAC,
-12,2188,2,14:15,,1,3,22,JAC 29,0,JAC,
-12,2388,2,10:18,,11,3,34,IND 48,0,JAC,
-12,2146,0,15:00,,0,3,0,IND 35,0,IND,KICKOFF
-12,2294,0,12:07,,0,3,19,,0,,TIMEOUT
-12,2311,3,12:07,,13,3,33,JAC 39,0,JAC,
-16,3333,4,11:16,,7,4,3,JAC 23,0,JAC,PUNT
-16,3311,3,11:21,,7,4,3,JAC 23,0,JAC,
-16,3276,3,11:45,,2,4,3,JAC 28,0,JAC,PENALTY
-16,3254,2,11:51,,2,4,8,JAC 28,0,JAC,
-16,3214,0,12:27,,0,4,3,IND 35,0,IND,KICKOFF
-16,3233,1,12:27,,10,4,8,JAC 20,0,JAC,
-7,1083,1,13:45,,10,2,-4,IND 48,0,IND,FUMBLE
-3,428,3,08:49,,10,1,31,IND 24,0,IND,
-3,406,2,08:54,,10,1,15,IND 24,0,IND,
-3,473,2,07:45,,11,1,36,IND 39,0,IND,
-3,604,3,05:09,,6,1,55,JAC 36,0,IND,
-3,359,2,10:01,,10,1,15,IND 9,0,IND,
-3,327,1,10:25,,10,1,0,IND 9,0,IND,
-3,580,2,05:50,,12,1,55,JAC 42,0,IND,
-3,383,1,09:27,,10,1,15,IND 24,0,IND,
-3,497,3,07:09,,5,1,51,IND 45,0,IND,
-3,556,1,06:17,,15,1,49,JAC 45,0,IND,
-3,452,1,08:22,,10,1,30,IND 40,0,IND,
-3,521,1,06:42,,10,1,46,JAC 40,0,IND,PENALTY
-3,626,4,05:04,,6,1,55,JAC 36,1,IND,FG
-17,3402,1,10:05,,10,4,19,JAC 48,0,IND,
-17,3357,1,11:09,,10,4,8,IND 33,0,IND,
-17,3535,2,08:27,,5,4,63,JAC 5,0,IND,FUMBLE
-17,3448,1,09:34,,10,4,43,JAC 32,0,IND,
-17,3472,2,09:19,,2,4,57,JAC 24,0,IND,PENALTY
-17,3509,1,08:56,,10,4,62,JAC 10,0,IND,
-17,3378,2,10:36,,2,4,19,IND 41,0,IND,
-17,3424,2,09:59,,10,4,35,JAC 48,0,IND,
-4,738,2,03:39,,6,1,78,IND 6,0,JAC,
-4,716,1,03:45,,6,1,74,IND 6,0,JAC,
-4,664,1,04:59,,10,1,78,JAC 20,0,JAC,
-4,645,0,04:59,,0,1,0,IND 35,0,IND,KICKOFF
-4,688,1,04:33,,10,1,74,JAC 46,0,JAC,
-4,759,3,02:58,,2,1,78,IND 2,0,JAC,
-4,781,4,02:54,,2,1,78,IND 2,1,JAC,FG
-2,209,3,12:52,,7,1,22,JAC 33,0,JAC,
-2,279,3,11:14,,7,1,22,JAC 49,0,JAC,
-2,303,4,10:34,,4,1,22,IND 48,0,JAC,PUNT
-2,258,2,11:52,,11,1,22,JAC 45,0,JAC,
-2,164,1,14:12,,10,1,2,JAC 30,0,JAC,
-2,185,2,13:34,,8,1,3,JAC 32,0,JAC,
-2,233,1,12:22,,10,1,15,JAC 46,0,JAC,
-15,3117,2,13:39,,8,4,33,JAC 16,0,IND,
-15,3056,0,,,0,3,14,,0,,
-15,3096,1,14:18,,10,4,33,JAC 18,0,IND,
-15,3139,3,13:33,,8,4,35,JAC 16,0,IND,
-15,3166,4,13:33,,1,4,35,JAC 9,0,IND,PENALTY
-15,3072,3,15:00,,8,4,31,JAC 35,0,IND,
-15,3195,4,12:32,,6,4,35,JAC 14,1,IND,FG
-15,2986,1,01:33,,10,3,12,JAC 49,0,IND,
-15,3011,1,01:10,,10,3,15,JAC 37,0,IND,
-15,3032,2,00:36,,7,3,14,JAC 34,0,IND,
+24,4570,2,13:46,(13:46) (Shotgun) B.Bortles pass incomplete short right to A.Robinson (K.Langford).,12,5,34,IND 46,0,JAC,
+24,4592,3,13:42,(13:42) (Shotgun) B.Bortles pass incomplete short middle to A.Robinson (M.Adams).,12,5,34,IND 46,0,JAC,
+24,4528,2,14:56,(14:56) (Run formation) T.Yeldon right tackle pushed ob at IND 44 for 36 yards (M.Adams).,10,5,36,JAC 20,0,JAC,
+24,4506,1,15:00,(15:00) (Run formation) B.Bortles pass incomplete short middle to C.Harbor (H.Anderson).,10,5,36,JAC 20,0,JAC,
+24,4549,1,14:29,(14:29) T.Gerhart up the middle to IND 46 for -2 yards (D.Jackson; E.Walden).,10,5,34,IND 44,0,JAC,
+24,4487,0,15:00,"P.McAfee kicks 65 yards from IND 35 to end zone, Touchback.",0,5,0,IND 35,0,IND,KICKOFF
+24,4614,4,13:36,"(13:36) B.Anger punts 30 yards to IND 16, Center-C.Tinker, fair catch by G.Whalen.",12,5,34,IND 46,0,JAC,PUNT
+25,4686,3,12:30,"(12:30) (No Huddle, Shotgun) M.Hasselbeck pass incomplete deep right to C.Fleener.",3,5,7,IND 23,0,IND,
+25,4638,1,13:29,(13:29) (Shotgun) M.Hasselbeck pass short left to C.Fleener pushed ob at IND 23 for 7 yards (D.Gratz).,10,5,7,IND 16,0,IND,
+25,4662,2,13:07,(13:07) (Shotgun) M.Hasselbeck pass short right to C.Fleener to IND 23 for no gain (J.Cyprien).,3,5,7,IND 23,0,IND,
+25,4708,4,12:25,"(12:25) P.McAfee punts 52 yards to JAC 25, Center-M.Overton. B.Walters to JAC 39 for 14 yards (C.Geathers).",3,5,7,IND 23,0,IND,PUNT
+26,4801,1,10:53,(10:53) (Run formation) T.Yeldon left end to IND 40 for 5 yards (J.McNary; H.Anderson).,10,5,21,IND 45,0,JAC,
+26,4734,1,12:11,(12:11) (Run formation) T.Yeldon up the middle to JAC 41 for 2 yards (D.Jackson).,10,5,2,JAC 39,0,JAC,
+26,4822,2,10:15,(10:15) (Shotgun) B.Bortles left end pushed ob at IND 32 for 8 yards (J.McNary).,5,5,29,IND 40,0,JAC,
+26,4755,2,11:35,(11:35) (Shotgun) B.Bortles pass incomplete deep right to A.Robinson.,8,5,2,JAC 41,0,JAC,
+26,4886,3,09:01,(9:01) (Run formation) T.Yeldon up the middle to IND 30 for 3 yards (D.Jackson).,11,5,31,IND 33,0,JAC,
+26,4777,3,11:29,(11:29) (Shotgun) B.Bortles pass short right to A.Robinson to IND 45 for 14 yards (D.Lowery).,8,5,16,JAC 41,0,JAC,
+26,4907,4,08:18,"(8:18) J.Myers 48 yard field goal is No Good, Wide Left, Center-C.Tinker, Holder-B.Anger.",8,5,31,IND 30,0,JAC,FGM
+26,4864,2,09:04,(9:04) B.Bortles pass incomplete short left to A.Hurns.,11,5,28,IND 33,0,JAC,
+26,4843,1,09:47,(9:47) (Run formation) T.Yeldon up the middle to IND 33 for -1 yards (D.Jackson).,10,5,28,IND 32,0,JAC,
+27,5022,0,05:23,Timeout #1 by IND at 05:23.,0,5,55,,0,,TIMEOUT
+27,5060,2,04:41,"(4:41) A.Vinatieri 27 yard field goal is GOOD, Center-M.Overton, Holder-P.McAfee.",9,5,53,JAC 9,1,IND,FG
+27,5039,1,05:23,(5:23) (Run formation) M.Hasselbeck kneels to JAC 9 for -2 yards.,7,5,53,JAC 7,0,IND,
+27,4928,1,08:13,(8:13) (Run formation) M.Hasselbeck pass deep right to C.Fleener to JAC 34 for 28 yards (T.Smith).,10,5,28,IND 38,0,IND,
+27,4994,3,06:06,(6:06) (Run formation) J.Harrison reported in as eligible.  F.Gore left end pushed ob at JAC 7 for 22 yards (J.Cyprien).,5,5,55,JAC 29,0,IND,
+27,4952,1,07:24,(7:24) (Run formation) M.Hasselbeck right end to JAC 30 for 4 yards (D.Skuta).,10,5,32,JAC 34,0,IND,
+27,4973,2,06:48,(6:48) (Run formation) F.Gore up the middle to JAC 29 for 1 yard (R.Miller; T.Armbrister).,6,5,33,JAC 30,0,IND,
+20,4080,4,01:56,"(1:56) B.Anger punts 31 yards to IND 15, Center-C.Tinker, fair catch by G.Whalen.",16,4,23,IND 46,0,JAC,PUNT
+20,3915,1,03:55,(3:55) (Run formation) T.Yeldon left tackle to JAC 30 for -1 yards (T.Cole; H.Anderson).,10,4,-1,JAC 31,0,JAC,
+20,3958,3,03:11,"(3:11) (Shotgun) B.Bortles pass incomplete deep left to A.Robinson. PENALTY on IND-V.Davis, Defensive Pass Interference, 30 yards, enforced at JAC 30 - No Play.",11,4,29,JAC 30,0,JAC,PENALTY
+20,4041,0,02:00,Two-Minute Warning,0,4,23,,0,,
+20,3936,2,03:16,(3:16) (Shotgun) B.Bortles pass incomplete short right to B.Walters [E.Walden].,11,4,-1,JAC 30,0,JAC,
+20,4017,2,02:20,(2:20) (Shotgun) B.Bortles pass short right to A.Hurns to IND 46 for 9 yards (D.Butler).,25,4,23,JAC 45,0,JAC,
+20,4058,3,02:00,(2:00) (Shotgun) B.Bortles pass incomplete deep left to A.Robinson.,16,4,23,IND 46,0,JAC,
+20,3991,1,03:03,"(3:03) (Shotgun) B.Bortles FUMBLES (Aborted) at IND 45, and recovers at JAC 49. B.Bortles to JAC 45 for -4 yards (B.Werner).",10,4,23,IND 40,0,JAC,FUMBLE
+21,4123,2,01:09,(1:09) (Shotgun) M.Hasselbeck pass short left to C.Fleener to IND 16 for 5 yards (J.Cyprien).,14,4,1,IND 11,0,IND,
+21,4147,0,01:01,Timeout #1 by JAC at 01:01.,0,4,1,,0,,TIMEOUT
+21,4164,3,01:01,(1:01) (Shotgun) M.Hasselbeck pass incomplete deep left to D.Moncrief.,9,4,1,IND 16,0,IND,
+21,4104,1,01:48,(1:48) (Shotgun) M.Hasselbeck sacked at IND 11 for -4 yards (sack split by R.Davis and T.Smith).,10,4,-4,IND 15,0,IND,
+21,4186,4,00:56,"(:56) P.McAfee punts 57 yards to JAC 27, Center-M.Overton. B.Walters to JAC 27 for no gain (W.Guy).",9,4,1,IND 16,0,IND,PUNT
+22,4428,2,00:06,"(:06) J.Myers 53 yard field goal is No Good, Wide Right, Center-C.Tinker, Holder-B.Anger.",5,4,38,IND 35,0,JAC,FGM
+22,4275,3,00:34,(:34) (Shotgun) B.Bortles scrambles up the middle to JAC 48 for 14 yards (K.Langford).,3,4,21,JAC 34,0,JAC,
+22,4212,1,00:45,(:45) (Shotgun) B.Bortles pass short middle to M.Lewis to JAC 34 for 7 yards (D.Jackson).,10,4,38,JAC 27,0,JAC,
+22,4318,2,00:17,(:17) (Shotgun) B.Bortles pass short right to M.Lewis to IND 40 for 12 yards (D.Jackson).,10,4,33,JAC 48,0,JAC,
+22,4405,0,00:06,Timeout #3 by IND at 00:06.,0,4,38,,0,,TIMEOUT
+22,4253,2,00:38,(:38) (Shotgun) B.Bortles pass incomplete deep left to A.Robinson.,3,4,7,JAC 34,0,JAC,
+22,4296,1,00:17,(:17) (No Huddle) B.Bortles spiked the ball to stop the clock.,10,4,21,JAC 48,0,JAC,
+22,4359,0,00:10,Timeout #2 by IND at 00:10.,0,4,33,,0,,TIMEOUT
+22,4236,0,00:38,Timeout #2 by JAC at 00:38.,0,4,7,,0,,TIMEOUT
+22,4376,1,00:10,(:10) (Shotgun) B.Bortles pass short right to T.Yeldon pushed ob at IND 35 for 5 yards (D.Jackson; M.Adams).,10,4,38,IND 40,0,JAC,
+22,4342,0,00:10,Timeout #3 by JAC at 00:10.,0,4,33,,0,,TIMEOUT
+23,4448,1,00:01,(:01) J.Harrison reported in as eligible.  M.Hasselbeck kneels to IND 42 for -1 yards.,10,4,-1,IND 43,0,IND,
+23,4471,0,,END QUARTER 4,0,4,-1,,0,,
+1,123,4,14:23,"(14:23) P.McAfee punts 40 yards to JAC 31, Center-M.Overton. N.Marshall MUFFS catch, recovered by JAC-D.McCray at JAC 30. D.McCray to JAC 30 for no gain (J.McNary; B.Werner).",5,1,5,IND 29,0,IND,FUMBLE
+1,80,2,14:51,(14:51) (No Huddle) F.Gore right tackle to IND 29 for 5 yards (D.House).,10,1,5,IND 24,0,IND,
+1,101,3,14:28,"(14:28) (No Huddle, Shotgun) M.Hasselbeck pass incomplete short right to C.Fleener.",5,1,5,IND 29,0,IND,
+1,36,0,15:00,J.Myers kicks 73 yards from JAC 35 to IND -8. G.Whalen to IND 24 for 32 yards (N.Jacobs; J.Sample).,0,1,0,JAC 35,0,JAC,KICKOFF
+1,58,1,14:55,(14:55) M.Hasselbeck pass incomplete short right to F.Gore.,10,1,0,IND 24,0,IND,
+3,604,3,05:09,(5:09) (Shotgun) M.Hasselbeck pass incomplete short middle to T.Hilton [C.Clemons].,6,1,55,JAC 36,0,IND,
+3,473,2,07:45,(7:45) (Shotgun) M.Hasselbeck pass short left to P.Dorsett to IND 45 for 6 yards (P.Posluszny).,11,1,36,IND 39,0,IND,
+3,626,4,05:04,"(5:04) A.Vinatieri 54 yard field goal is GOOD, Center-M.Overton, Holder-P.McAfee.",6,1,55,JAC 36,1,IND,FG
+3,580,2,05:50,(5:50) (Shotgun) M.Hasselbeck pass short right to F.Gore to JAC 36 for 6 yards (T.Smith; J.Cyprien).,12,1,55,JAC 42,0,IND,
+3,428,3,08:49,(8:49) (Shotgun) M.Hasselbeck pass deep left to D.Moncrief to IND 40 for 16 yards (D.McCray).,10,1,31,IND 24,0,IND,
+3,452,1,08:22,(8:22) (Run formation) F.Gore left end to IND 39 for -1 yards (P.Posluszny).,10,1,30,IND 40,0,IND,
+3,556,1,06:17,(6:17) (Shotgun) M.Hasselbeck pass short right to T.Hilton pushed ob at JAC 42 for 3 yards (J.Cyprien).,15,1,49,JAC 45,0,IND,
+3,406,2,08:54,(8:54) (Shotgun) M.Hasselbeck pass incomplete short right to F.Gore.,10,1,15,IND 24,0,IND,
+3,383,1,09:27,(9:27) (Run formation) J.Harrison reported in as eligible.  F.Gore left end to IND 24 for no gain (P.Posluszny).,10,1,15,IND 24,0,IND,
+3,327,1,10:25,"(10:25) (Run formation) F.Gore right guard to IND 9 for no gain (D.Skuta). Penalty on IND, Illegal Formation, declined.",10,1,0,IND 9,0,IND,
+3,497,3,07:09,"(7:09) (No Huddle, Shotgun) M.Hasselbeck pass short middle to D.Moncrief to JAC 40 for 15 yards (J.Sample).",5,1,51,IND 45,0,IND,
+3,359,2,10:01,(10:01) (Shotgun) M.Hasselbeck pass short middle to C.Fleener to IND 24 for 15 yards (P.Posluszny).,10,1,15,IND 9,0,IND,
+3,521,1,06:42,"(6:42) (No Huddle) M.Hasselbeck pass short left to J.Doyle to JAC 32 for 8 yards (T.Alualu). PENALTY on IND-J.Reitz, Ineligible Downfield Pass, 5 yards, enforced at JAC 40 - No Play. Penalty on IND-J.Harrison, Illegal Formation, declined.",10,1,46,JAC 40,0,IND,PENALTY
+2,209,3,12:52,(12:52) (Shotgun) B.Bortles pass short right to B.Walters ran ob at JAC 46 for 13 yards. IND-J.Freeman was injured during the play. His return is Questionable.,7,1,22,JAC 33,0,JAC,
+2,303,4,10:34,"(10:34) B.Anger punts 39 yards to IND 9, Center-C.Tinker, fair catch by G.Whalen.",4,1,22,IND 48,0,JAC,PUNT
+2,258,2,11:52,(11:52) (Run formation) T.Yeldon right tackle to JAC 49 for 4 yards (H.Anderson).,11,1,22,JAC 45,0,JAC,
+2,185,2,13:34,(13:34) B.Bortles pass short left to M.Lewis to JAC 33 for 1 yard (V.Davis).,8,1,3,JAC 32,0,JAC,
+2,164,1,14:12,(14:12) (Run formation) T.Yeldon right tackle to JAC 32 for 2 yards (J.Freeman).,10,1,2,JAC 30,0,JAC,
+2,279,3,11:14,(11:14) (Shotgun) B.Bortles pass short middle to A.Hurns to IND 48 for 3 yards (C.Geathers) [E.Walden].,7,1,22,JAC 49,0,JAC,
+2,233,1,12:22,(12:22) T.Yeldon right tackle to JAC 45 for -1 yards (T.Cole).,10,1,15,JAC 46,0,JAC,
+5,906,3,00:29,(:29) (Shotgun) M.Hasselbeck pass incomplete deep right to T.Hilton.,4,1,19,IND 39,0,IND,
+5,885,2,01:15,(1:15) J.Robinson left tackle to IND 39 for 3 yards (J.Cyprien).,7,1,19,IND 36,0,IND,
+5,840,2,02:22,"(2:22) (No Huddle, Shotgun) M.Hasselbeck pass short middle to D.Moncrief to IND 33 for 12 yards (D.Gratz; J.Sample).",9,1,13,IND 21,0,IND,
+5,864,1,01:54,(1:54) J.Robinson up the middle to IND 36 for 3 yards (A.Colvin).,10,1,16,IND 33,0,IND,
+5,928,4,00:23,"(:23) P.McAfee punts 45 yards to JAC 16, Center-M.Overton, fair catch by N.Marshall.",4,1,19,IND 39,0,IND,PUNT
+5,819,1,02:49,(2:49) (Shotgun) F.Gore left tackle to IND 21 for 1 yard (T.Alualu).,10,1,1,IND 20,0,IND,
+5,800,0,02:49,"J.Myers kicks 65 yards from JAC 35 to end zone, Touchback.",0,1,0,JAC 35,0,JAC,KICKOFF
+4,781,4,02:54,"(2:54) J.Myers 20 yard field goal is GOOD, Center-C.Tinker, Holder-B.Anger.",2,1,78,IND 2,1,JAC,FG
+4,716,1,03:45,(3:45) (Run formation) B.Bortles pass incomplete short right to A.Robinson.,6,1,74,IND 6,0,JAC,
+4,759,3,02:58,(2:58) (Shotgun) B.Bortles pass incomplete short left to A.Hurns.,2,1,78,IND 2,0,JAC,
+4,664,1,04:59,(4:59) (Run formation) B.Bortles pass deep right to A.Hurns ran ob at JAC 46 for 26 yards. IND-J.Brown was injured during the play. His return is Doubtful.,10,1,78,JAC 20,0,JAC,
+4,645,0,04:59,"P.McAfee kicks 65 yards from IND 35 to end zone, Touchback.",0,1,0,IND 35,0,IND,KICKOFF
+4,688,1,04:33,(4:33) (Run formation) B.Bortles pass deep right to A.Robinson to IND 6 for 48 yards (D.Butler) [K.Langford].,10,1,74,JAC 46,0,JAC,
+4,738,2,03:39,(3:39) (Run formation) T.Yeldon up the middle to IND 2 for 4 yards (J.Newsome; M.Adams).,6,1,78,IND 6,0,JAC,
+7,1083,1,13:45,"(13:45) (Run formation) J.Robinson left end to IND 44 for -4 yards (D.Skuta). FUMBLES (D.Skuta), RECOVERED by JAC-J.Cyprien at IND 44. J.Cyprien to IND 44 for no gain (A.Castonzo). Penalty on IND-J.Mewhort, Offensive Holding, declined.",10,2,-4,IND 48,0,IND,FUMBLE
+6,988,2,15:00,"(15:00) (Shotgun) PENALTY on JAC-L.Joeckel, False Start, 5 yards, enforced at JAC 20 - No Play.",6,2,-1,JAC 20,0,JAC,PENALTY
+6,1040,3,14:30,(14:30) (Shotgun) B.Bortles sacked at JAC 12 for -9 yards (K.Langford).,5,2,-4,JAC 21,0,JAC,
+6,972,0,,END QUARTER 1,0,1,4,,0,,
+6,951,1,00:14,(:14) T.Yeldon left tackle to JAC 20 for 4 yards (Z.Kerr).,10,1,4,JAC 16,0,JAC,
+6,1059,4,13:55,"(13:55) B.Anger punts 40 yards to IND 48, Center-C.Tinker, fair catch by G.Whalen.",14,2,-4,JAC 12,0,JAC,PUNT
+6,1011,2,15:00,(15:00) (Shotgun) B.Bortles pass short right to A.Hurns pushed ob at JAC 21 for 6 yards (D.Butler).,11,2,5,JAC 15,0,JAC,
+9,1420,1,09:36,(9:36) (Run formation) M.Hasselbeck pass incomplete deep right to T.Hilton.,10,2,16,IND 36,0,IND,
+9,1358,2,09:46,"(9:46) (No Huddle, Shotgun) M.Hasselbeck pass incomplete short left to D.Moncrief.",9,2,12,IND 32,0,IND,
+9,1313,3,11:00,(11:00) (Shotgun) M.Hasselbeck pass short middle to C.Fleener to IND 31 for 11 yards (T.Smith).,10,2,11,IND 20,0,IND,
+9,1511,1,09:02,(9:02) F.Gore up the middle to JAC 49 for no gain (R.Miller).,10,2,31,JAC 49,0,IND,
+9,1337,1,10:25,(10:25) (Run formation) F.Gore right tackle to IND 32 for 1 yard (T.Smith).,10,2,12,IND 31,0,IND,
+9,1615,3,06:58,"(6:58) (Run formation) M.Hasselbeck pass incomplete short right to T.Hilton (D.House). PENALTY on JAC-D.House, Defensive Pass Interference, 6 yards, enforced at JAC 10 - No Play.",3,2,76,JAC 10,0,IND,PENALTY
+9,1274,0,11:04,Timeout #1 by JAC at 11:04.,0,2,0,,0,,TIMEOUT
+9,1648,1,06:58,"(6:58) J.Harrison reported in as eligible.  PENALTY on JAC-J.Sample, Defensive 12 On-field, 2 yards, enforced at JAC 4 - No Play.",4,2,78,JAC 4,0,IND,PENALTY
+9,1720,0,06:04,"A.Vinatieri extra point is GOOD, Center-M.Overton, Holder-P.McAfee.",0,2,80,JAC 15,1,IND,XP
+9,1228,0,11:37,J.Myers kicks 73 yards from JAC 35 to IND -8. G.Whalen to IND 20 for 28 yards (J.Sample; B.Pierce).,0,2,0,JAC 35,0,JAC,KICKOFF
+9,1568,1,08:15,(8:15) J.Harrison reported in as eligible.  F.Gore left tackle to JAC 17 for no gain (P.Posluszny; A.Colvin).,10,2,80,JAC 17,0,IND,
+9,1481,3,09:24,"(9:24) (Shotgun) M.Hasselbeck sacked at IND 26 for -10 yards (C.Clemons). PENALTY on JAC-C.Clemons, Roughing the Passer, 15 yards, enforced at IND 36 - No Play.",10,2,31,IND 36,0,IND,PENALTY
+9,1533,2,08:29,"(8:29) (Shotgun) M.Hasselbeck pass short right to T.Hilton to JAC 32 for 17 yards (A.Colvin). PENALTY on JAC-A.Colvin, Face Mask (15 Yards), 15 yards, enforced at JAC 32.",10,2,63,JAC 49,0,IND,PENALTY
+9,1442,2,09:30,(9:30) (Shotgun) M.Hasselbeck pass incomplete deep right to A.Johnson (D.House).,10,2,16,IND 36,0,IND,
+9,1250,1,11:31,(11:31) (Run formation) M.Hasselbeck pass short right to F.Gore pushed ob at IND 20 for no gain (J.Cyprien).,10,2,0,IND 20,0,IND,
+9,1591,2,07:37,(7:37) (Shotgun) M.Hasselbeck pass short right to C.Fleener to JAC 10 for 7 yards (J.Cyprien).,10,2,70,JAC 17,0,IND,
+9,1464,0,09:24,Timeout #1 by IND at 09:24.,0,2,80,,0,,TIMEOUT
+9,1291,2,11:04,(11:04) (Shotgun) M.Hasselbeck pass incomplete deep right to P.Dorsett.,10,2,0,IND 20,0,IND,
+9,1380,3,09:40,"(9:40) (Shotgun) M.Hasselbeck pass incomplete short right to P.Dorsett. PENALTY on JAC-J.Sample, Defensive Pass Interference, 4 yards, enforced at IND 32 - No Play.",9,2,16,IND 32,0,IND,PENALTY
+9,1698,2,06:10,"(6:10) (Run formation) J.Harrison reported in as eligible.  M.Hasselbeck pass short middle to C.Fleener for 2 yards, TOUCHDOWN [P.Posluszny].",2,2,80,JAC 2,1,IND,TD
+9,1673,1,06:54,(6:54) (Run formation) J.Harrison and D.Parry reported in as eligible.  F.Gore right tackle to JAC 2 for no gain (D.Skuta; J.Evans).,2,2,78,JAC 2,0,IND,
+8,1171,1,12:24,(12:24) (Run formation) T.Yeldon up the middle to IND 8 for 5 yards (J.McNary; D.Jackson).,10,2,36,IND 13,0,JAC,
+8,1212,0,11:37,"J.Myers extra point is GOOD, Center-C.Tinker, Holder-B.Anger.",0,2,44,IND 15,1,JAC,XP
+8,1192,2,11:46,"(11:46) (Run formation) B.Bortles pass short right to A.Hurns for 8 yards, TOUCHDOWN.",5,2,44,IND 8,1,JAC,TD
+8,1147,1,12:58,(12:58) (Shotgun) B.Bortles pass short left to C.Harbor pushed ob at IND 13 for 21 yards (D.Lowery).,10,2,31,IND 34,0,JAC,
+8,1126,1,13:37,(13:37) (Run formation) T.Yeldon up the middle to IND 34 for 10 yards (M.Adams).,10,2,10,IND 44,0,JAC,
+11,2108,0,00:04,J.Myers kicks 65 yards from JAC 35 to IND 0. P.Dorsett to IND 12 for 12 yards.,0,2,0,JAC 35,0,JAC,KICKOFF
+11,2130,0,,END QUARTER 2,0,2,0,,0,,
+10,2046,2,00:55,(:55) T.Yeldon up the middle to IND 15 for 1 yard (J.McNary).,10,2,65,IND 16,0,JAC,
+10,2089,4,00:09,"(:09) J.Myers 32 yard field goal is GOOD, Center-C.Tinker, Holder-B.Anger.",9,2,65,IND 15,1,JAC,FG
+10,1800,3,04:54,(4:54) (Shotgun) B.Bortles pass short left to A.Hurns pushed ob at JAC 32 for 6 yards (V.Davis; D.Butler).,4,2,12,JAC 26,0,JAC,
+10,1964,1,01:55,(1:55) (Run formation) T.Yeldon right tackle to IND 35 for 6 yards (D.Butler).,10,2,45,IND 41,0,JAC,
+10,1824,1,04:24,(4:24) (Run formation) T.Yeldon up the middle to JAC 34 for 2 yards (D.Jackson; M.Adams).,10,2,14,JAC 32,0,JAC,
+10,1779,2,05:32,(5:32) (Run formation) T.Yeldon up the middle to JAC 26 for no gain (H.Anderson).,4,2,6,JAC 26,0,JAC,
+10,1947,0,01:55,Two-Minute Warning,0,2,39,,0,,
+10,1845,2,03:43,(3:43) (Shotgun) T.Yeldon up the middle to JAC 37 for 3 yards (H.Anderson; D.Jackson).,8,2,17,JAC 34,0,JAC,
+10,1736,0,06:04,"P.McAfee kicks 65 yards from IND 35 to end zone, Touchback.",0,2,0,IND 35,0,IND,KICKOFF
+10,1923,2,02:01,(2:01) (Run formation) B.Bortles pass short left to A.Robinson to IND 41 for 9 yards (V.Davis). Pass tipped by Kerr (94).,5,2,65,50,0,JAC,
+10,1899,1,02:38,(2:38) B.Bortles pass short left to C.Harbor to 50 for 5 yards (D.Jackson).,10,2,30,JAC 45,0,JAC,
+10,1866,3,03:00,"(3:00) (Shotgun) B.Bortles pass short right to A.Hurns to JAC 45 for 8 yards (D.Butler). FUMBLES (D.Butler), ball out of bounds at JAC 45.",5,2,25,JAC 37,0,JAC,FUMBLE
+10,1755,1,06:04,(6:04) (Run formation) B.Bortles pass short right to A.Hurns to JAC 26 for 6 yards (D.Jackson).,10,2,6,JAC 20,0,JAC,
+10,1989,2,01:28,"(1:28) (No Huddle, Shotgun) B.Bortles pass short middle to A.Hurns to IND 16 for 19 yards (D.Butler; M.Adams).",4,2,65,IND 35,0,JAC,
+10,2013,1,01:00,"(1:00) (No Huddle, Shotgun) B.Bortles pass incomplete short left to C.Harbor.",10,2,64,IND 16,0,JAC,
+10,2067,3,00:18,(:18) (Shotgun) B.Bortles pass incomplete short right [T.Cole].,9,2,65,IND 15,0,JAC,
+13,2460,1,09:20,(9:20) (Run formation) M.Hasselbeck pass incomplete short left to A.Johnson.,10,3,0,IND 14,0,IND,
+13,2546,1,08:43,(8:43) (Shotgun) F.Gore up the middle to IND 41 for 6 yards (J.Cyprien; J.Sample).,10,3,27,IND 35,0,IND,
+13,2747,3,04:56,"(4:56) (No Huddle, Shotgun) M.Hasselbeck sacked at JAC 38 for -8 yards (R.Davis). FUMBLES (R.Davis) [R.Davis], recovered by IND-H.Thornton at JAC 40. H.Thornton to JAC 40 for no gain (T.Smith).",6,3,46,JAC 30,0,IND,FUMBLE
+13,2631,3,06:10,(6:10) (Shotgun) M.Hasselbeck pass short left to F.Gore pushed ob at JAC 34 for 14 yards (J.Cyprien).,3,3,52,JAC 48,0,IND,
+13,2782,4,04:09,"(4:09) P.McAfee punts 39 yards to JAC 1, Center-M.Overton, downed by IND-W.Guy.",16,3,46,JAC 40,0,IND,PUNT
+13,2482,2,09:17,(9:17) (Shotgun) M.Hasselbeck pass incomplete short right to T.Hilton (D.House).,10,3,0,IND 14,0,IND,
+13,2700,2,05:30,"(5:30) (Run formation) PENALTY on IND-M.Hasselbeck, Delay of Game, 5 yards, enforced at JAC 29 - No Play.",5,3,52,JAC 29,0,IND,PENALTY
+13,2567,2,08:19,(8:19) (No Huddle) F.Gore left tackle to IND 45 for 4 yards (D.McCray; T.Alualu).,4,3,31,IND 41,0,IND,
+13,2588,1,07:48,(7:48) (No Huddle) M.Hasselbeck pass short middle to F.Gore to JAC 46 for 9 yards (A.Colvin) [A.Jones].,10,3,46,IND 45,0,IND,
+13,2655,1,05:36,(5:36) (Shotgun) M.Hasselbeck pass incomplete deep right to T.Hilton.,10,3,52,JAC 34,0,IND,
+13,2677,2,05:30,"(5:30) (Shotgun) PENALTY on JAC-A.Branch, Neutral Zone Infraction, 5 yards, enforced at JAC 34 - No Play.",10,3,57,JAC 34,0,IND,PENALTY
+13,2723,2,05:30,(5:30) (Shotgun) M.Hasselbeck pass short left to D.Moncrief pushed ob at JAC 30 for 4 yards (D.McCray).,10,3,56,JAC 34,0,IND,
+13,2511,3,09:11,"(9:11) (Shotgun) M.Hasselbeck pass deep middle to D.Moncrief to IND 35 for 21 yards (D.McCray). Penalty on JAC-D.House, Defensive Holding, declined.",10,3,21,IND 14,0,IND,
+13,2612,2,06:57,(6:57) (Shotgun) M.Hasselbeck sacked at JAC 48 for -2 yards (A.Colvin).,1,3,38,JAC 46,0,IND,
+12,2434,4,09:30,"(9:30) B.Anger punts 38 yards to IND 8, Center-C.Tinker. G.Whalen to IND 14 for 6 yards (C.Tinker).",9,3,34,IND 46,0,JAC,PUNT
+12,2270,2,12:44,(12:44) (Shotgun) B.Bortles pass short right to T.Yeldon to JAC 39 for -1 yards (J.McNary).,12,3,19,JAC 40,0,JAC,
+12,2311,3,12:07,(12:07) (Shotgun) B.Bortles pass short right to B.Walters to IND 47 for 14 yards (D.Lowery).,13,3,33,JAC 39,0,JAC,
+12,2218,1,13:38,"(13:38) PENALTY on JAC-J.Parnell, False Start, 5 yards, enforced at JAC 42 - No Play.",10,3,17,JAC 42,0,JAC,PENALTY
+12,2294,0,12:07,Timeout #1 by IND at 12:07.,0,3,19,,0,,TIMEOUT
+12,2146,0,15:00,"P.McAfee kicks 65 yards from IND 35 to end zone, Touchback.",0,3,0,IND 35,0,IND,KICKOFF
+12,2412,3,09:36,(9:36) (Shotgun) B.Bortles pass incomplete short right to M.Lewis [C.Geathers].,9,3,34,IND 46,0,JAC,
+12,2165,1,15:00,(15:00) (Run formation) B.Bortles scrambles left end to JAC 29 for 9 yards (D.Jackson).,10,3,20,JAC 20,0,JAC,
+12,2388,2,10:18,(10:18) (Shotgun) B.Bortles pass short right to C.Harbor to IND 46 for 2 yards (D.Lowery).,11,3,34,IND 48,0,JAC,
+12,2188,2,14:15,(14:15) (Shotgun) B.Bortles pass short left to M.Lewis to JAC 42 for 13 yards (J.McNary).,1,3,22,JAC 29,0,JAC,
+12,2356,2,10:42,"(10:42) (Run formation) T.Yeldon right tackle to IND 23 for 15 yards (D.Lowery). PENALTY on JAC-J.Parnell, Offensive Holding, 10 yards, enforced at IND 38 - No Play.",1,3,32,IND 38,0,JAC,PENALTY
+12,2241,1,13:15,(13:15) (Shotgun) B.Bortles pass short right to C.Harbor pushed ob at JAC 40 for 3 yards (D.Lowery).,15,3,20,JAC 37,0,JAC,
+12,2335,1,11:20,(11:20) (Run formation) T.Yeldon left end to IND 38 for 9 yards (J.Newsome; M.Adams).,10,3,42,IND 47,0,JAC,
+15,3195,4,12:32,"(12:32) A.Vinatieri 32 yard field goal is GOOD, Center-M.Overton, Holder-P.McAfee.",6,4,35,JAC 14,1,IND,FG
+15,3117,2,13:39,(13:39) (Shotgun) M.Hasselbeck pass incomplete deep left to T.Hilton.,8,4,33,JAC 16,0,IND,
+15,3011,1,01:10,(1:10) (Shotgun) F.Gore right tackle to JAC 34 for 3 yards (J.Odrick; J.Sample).,10,3,15,JAC 37,0,IND,
+15,2986,1,01:33,(1:33) (Shotgun) M.Hasselbeck pass short right to T.Hilton ran ob at JAC 37 for 12 yards.,10,3,12,JAC 49,0,IND,
+15,3032,2,00:36,(:36) (Shotgun) M.Hasselbeck pass short left to T.Hilton to JAC 35 for -1 yards (A.Colvin).,7,3,14,JAC 34,0,IND,
+15,3166,4,13:33,"(13:33) (Field Goal formation) PENALTY on IND-P.McAfee, Delay of Game, 5 yards, enforced at JAC 9 - No Play.",1,4,35,JAC 9,0,IND,PENALTY
+15,3072,3,15:00,(15:00) (Shotgun) M.Hasselbeck pass short middle to T.Hilton to JAC 18 for 17 yards (J.Cyprien).,8,4,31,JAC 35,0,IND,
+15,3096,1,14:18,"(14:18) (No Huddle, Shotgun) F.Gore right end to JAC 16 for 2 yards (J.Cyprien).",10,4,33,JAC 18,0,IND,
+15,3056,0,,END QUARTER 3,0,3,14,,0,,
+15,3139,3,13:33,(13:33) (Shotgun) M.Hasselbeck pass short middle to D.Moncrief to JAC 9 for 7 yards (T.Armbrister; C.Clemons). JAC-A.Colvin was injured during the play. His return is Questionable.,8,4,35,JAC 16,0,IND,
+14,2859,1,02:49,(2:49) (Run formation) B.Bortles pass incomplete short right to A.Robinson.,10,3,12,JAC 13,0,JAC,
+14,2814,1,03:56,(3:56) (Run formation) B.Bortles pass short right to A.Robinson to JAC 10 for 9 yards (D.Butler).,10,3,9,JAC 1,0,JAC,
+14,2881,2,02:45,(2:45) (Run formation) T.Yeldon up the middle to JAC 17 for 4 yards (D.Jackson; D.Parry).,10,3,16,JAC 13,0,JAC,
+14,2960,4,01:45,"(1:45) B.Anger punts 47 yards to IND 41, Center-C.Tinker. G.Whalen to JAC 49 for 10 yards (N.Marshall).",11,3,11,JAC 12,0,JAC,PUNT
+14,2902,3,02:04,(2:04) (Shotgun) B.Bortles pass incomplete short left to M.Lewis (T.Cole).,6,3,11,JAC 17,0,JAC,
+14,2924,4,01:58,"(1:58) B.Anger punts 52 yards to IND 31, Center-C.Tinker. G.Whalen to IND 32 for 1 yard (C.Grant). PENALTY on JAC-N.Marshall, Player Out of Bounds on Punt, 5 yards, enforced at JAC 17 - No Play.",6,3,11,JAC 17,0,JAC,PENALTY
+14,2838,2,03:26,(3:26) (Run formation) T.Yeldon up the middle to JAC 13 for 3 yards (Z.Kerr; D.Parry).,1,3,12,JAC 10,0,JAC,
+17,3509,1,08:56,(8:56) (Run formation) J.Harrison reported in as eligible.  M.Hasselbeck pass short right to F.Gore to JAC 5 for 5 yards (T.Smith; J.Cyprien).,10,4,62,JAC 10,0,IND,
+17,3448,1,09:34,(9:34) (No Huddle) M.Hasselbeck pass short right to C.Fleener pushed ob at JAC 24 for 8 yards (D.House).,10,4,43,JAC 32,0,IND,
+17,3472,2,09:19,"(9:19) P.Dorsett right end pushed ob at JAC 20 for 4 yards (J.Cyprien). PENALTY on JAC-T.Smith, Unnecessary Roughness, 10 yards, enforced at JAC 20.",2,4,57,JAC 24,0,IND,PENALTY
+17,3378,2,10:36,"(10:36) (No Huddle, Shotgun) M.Hasselbeck pass short right to T.Hilton pushed ob at JAC 48 for 11 yards (D.House).",2,4,19,IND 41,0,IND,
+17,3424,2,09:59,(9:59) (Shotgun) M.Hasselbeck pass short middle to G.Whalen to JAC 32 for 16 yards (J.Evans).,10,4,35,JAC 48,0,IND,
+17,3357,1,11:09,(11:09) F.Gore left tackle to IND 41 for 8 yards (J.Evans; P.Thompson).,10,4,8,IND 33,0,IND,
+17,3402,1,10:05,(10:05) (Shotgun) M.Hasselbeck pass incomplete short right to D.Moncrief (T.Armbrister).,10,4,19,JAC 48,0,IND,
+17,3535,2,08:27,"(8:27) (No Huddle) F.Gore right guard to JAC 4 for 1 yard (J.Evans). FUMBLES (J.Evans), RECOVERED by JAC-A.Jones at JAC -2. Touchback (J.Doyle). Penalty on IND-J.Reitz, Illegal Formation, declined.",5,4,63,JAC 5,0,IND,FUMBLE
+16,3214,0,12:27,"P.McAfee kicks 65 yards from IND 35 to end zone, Touchback.",0,4,3,IND 35,0,IND,KICKOFF
+16,3233,1,12:27,(12:27) (Run formation) T.Washington right end to JAC 28 for 8 yards (D.Jackson).,10,4,8,JAC 20,0,JAC,
+16,3333,4,11:16,"(11:16) B.Anger punts 44 yards to IND 33, Center-C.Tinker, fair catch by G.Whalen.",7,4,3,JAC 23,0,JAC,PUNT
+16,3254,2,11:51,(11:51) (Run formation) B.Bortles pass incomplete short middle to T.Yeldon.,2,4,8,JAC 28,0,JAC,
+16,3276,3,11:45,"(11:45) (Shotgun) B.Bortles pass short right to B.Walters to JAC 31 for 3 yards (C.Geathers). PENALTY on JAC, Illegal Formation, 5 yards, enforced at JAC 28 - No Play.",2,4,3,JAC 28,0,JAC,PENALTY
+16,3311,3,11:21,(11:21) (Shotgun) B.Bortles pass incomplete short left to A.Hurns (V.Davis).,7,4,3,JAC 23,0,JAC,
+19,3843,2,04:48,(4:48) (Shotgun) M.Hasselbeck pass incomplete short right to C.Fleener.,2,4,8,IND 18,0,IND,
+19,3819,1,05:16,(5:16) (Shotgun) M.Hasselbeck pass short left to T.Hilton pushed ob at IND 18 for 8 yards (T.Smith).,10,4,8,IND 10,0,IND,
+19,3889,4,04:06,"(4:06) P.McAfee punts 53 yards to JAC 28, Center-M.Overton. B.Walters to JAC 31 for 3 yards (C.Anderson).",1,4,9,IND 19,0,IND,PUNT
+19,3865,3,04:43,(4:43) (Shotgun) M.Hasselbeck pass short left to P.Dorsett to IND 19 for 1 yard (J.Evans; T.Smith).,2,4,9,IND 18,0,IND,
+18,3760,4,05:24,"(5:24) (Punt formation) PENALTY on JAC-B.Anger, Delay of Game, 5 yards, enforced at IND 43 - No Play.",3,4,32,IND 43,0,JAC,PENALTY
+18,3714,2,06:12,(6:12) (Shotgun) B.Bortles pass short left to M.Lewis to IND 43 for 7 yards (B.Werner; D.Butler).,10,4,37,50,0,JAC,
+18,3601,2,08:12,(8:12) (Shotgun) B.Bortles pass short right to A.Hurns pushed ob at JAC 33 for 13 yards (M.Adams).,10,4,13,JAC 20,0,JAC,
+18,3579,1,08:19,(8:19) (Run formation) B.Bortles pass incomplete deep middle to A.Robinson.,10,4,0,JAC 20,0,JAC,
+18,3791,4,05:24,"(5:24) B.Anger punts 38 yards to IND 10, Center-C.Tinker, fair catch by G.Whalen.",8,4,32,IND 48,0,JAC,PUNT
+18,3692,1,06:19,(6:19) (Run formation) B.Bortles pass incomplete short right.,10,4,30,50,0,JAC,
+18,3625,1,07:45,(7:45) (Run formation) T.Yeldon up the middle to JAC 38 for 5 yards (H.Anderson; D.Jackson).,10,4,18,JAC 33,0,JAC,
+18,3668,3,06:58,(6:58) (Shotgun) B.Bortles pass short right to A.Hurns to 50 for 12 yards (D.Jackson).,5,4,30,JAC 38,0,JAC,
+18,3738,3,05:28,(5:28) (Shotgun) B.Bortles pass incomplete short right to A.Hurns [R.Mathis].,3,4,37,IND 43,0,JAC,
+18,3646,2,07:03,(7:03) (Shotgun) B.Bortles pass incomplete short middle to M.Lewis.,5,4,18,JAC 38,0,JAC,

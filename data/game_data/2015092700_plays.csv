@@ -1,170 +1,170 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1475,1,06:03,,10,2,0,DAL 19,0,DAL,INT
-10,1669,3,02:23,,2,2,23,DAL 2,1,ATL,TD
-10,1589,2,03:09,,6,2,20,DAL 6,0,ATL,PENALTY
-10,1547,3,04:22,,1,2,16,DAL 14,0,ATL,
-10,1687,0,02:18,,0,2,23,DAL 15,1,ATL,XP
-10,1622,1,03:04,,3,2,23,DAL 3,0,ATL,
-10,1568,1,03:44,,7,2,17,DAL 7,0,ATL,
-10,1523,2,05:04,,5,2,9,DAL 18,0,ATL,
-10,1502,1,05:50,,10,2,5,DAL 23,0,ATL,
-10,1643,2,02:28,,2,2,21,DAL 2,0,ATL,
-20,3729,2,02:39,,1,4,15,DAL 29,0,DAL,
-20,3705,1,02:59,,10,4,9,DAL 20,0,DAL,
-20,3856,4,01:34,,4,4,21,DAL 41,0,DAL,
-20,3795,2,02:00,,7,4,24,DAL 38,0,DAL,
-20,3753,1,02:17,,10,4,18,DAL 35,0,DAL,
-20,3679,0,03:04,,0,4,0,ATL 35,0,ATL,KICKOFF
-20,3819,3,01:41,,1,4,21,DAL 44,0,DAL,
-20,3838,0,01:34,,0,4,21,,0,,TIMEOUT
-20,3777,0,02:00,,0,4,18,,0,,
-6,999,2,14:08,,3,2,2,ATL 20,0,ATL,PENALTY
-6,1034,2,13:31,,8,2,8,ATL 15,0,ATL,
-6,1062,3,12:49,,2,2,8,ATL 21,0,ATL,
-6,1088,4,12:44,,2,2,8,ATL 21,0,ATL,PUNT
-6,978,1,14:51,,10,2,7,ATL 13,0,ATL,
-18,3314,1,11:25,,10,4,1,DAL 20,0,DAL,
-18,3383,4,09:26,,12,4,-2,DAL 18,0,DAL,PUNT
-18,3364,3,10:04,,3,4,-2,DAL 27,0,DAL,
-18,3296,0,11:25,,0,4,0,ATL 35,0,ATL,KICKOFF
-18,3335,2,10:42,,9,4,7,DAL 21,0,DAL,
-1,112,1,14:03,,10,1,80,ATL 37,1,DAL,TD
-1,130,0,13:52,,0,1,80,ATL 15,1,DAL,XP
-1,58,1,15:00,,10,1,28,DAL 20,0,DAL,
-1,79,1,14:12,,10,1,43,DAL 48,0,DAL,PENALTY
-1,36,0,15:00,,0,1,80,ATL 35,0,ATL,KICKOFF
-5,942,0,,,0,1,22,,0,,
-5,872,1,01:45,,10,1,14,DAL 33,0,DAL,
-5,851,2,02:24,,1,1,13,DAL 29,0,DAL,
-5,958,4,15:00,,1,2,22,DAL 42,0,DAL,PUNT
-5,823,1,03:00,,10,1,9,DAL 20,0,DAL,
-5,921,3,00:20,,1,1,22,DAL 42,0,DAL,
-5,893,2,01:02,,9,1,22,DAL 34,0,DAL,
-5,805,0,03:00,,0,1,0,ATL 35,0,ATL,KICKOFF
-13,2403,4,12:46,,25,3,6,ATL 16,0,ATL,PUNT
-13,2377,3,12:50,,25,3,6,ATL 16,0,ATL,
-13,2184,0,15:00,,0,3,0,DAL 35,0,DAL,KICKOFF
-13,2295,1,14:07,,10,3,16,ATL 31,0,ATL,
-13,2351,2,12:55,,25,3,6,ATL 16,0,ATL,
-13,2267,3,14:25,,3,3,21,ATL 17,0,ATL,
-13,2217,1,14:52,,10,3,7,ATL 10,0,ATL,
-13,2316,2,13:27,,15,3,6,ATL 26,0,ATL,PENALTY
-13,2243,2,14:48,,10,3,7,ATL 10,0,ATL,
-21,3904,0,01:24,,0,4,0,,0,,TIMEOUT
-21,3883,1,01:29,,10,4,0,DAL 41,0,ATL,
-21,3922,2,01:24,,10,4,6,DAL 41,0,ATL,
-21,3964,0,00:00,,0,4,5,,0,,
-21,3943,3,00:34,,4,4,5,DAL 35,0,ATL,
-11,1703,0,02:18,,0,2,0,ATL 35,0,ATL,KICKOFF
-11,1818,1,01:08,,10,2,57,ATL 38,0,DAL,
-11,1773,1,02:00,,10,2,35,50,0,DAL,
-11,1794,2,01:37,,5,2,42,ATL 45,0,DAL,
-11,1859,1,00:58,,10,2,79,ATL 23,0,DAL,
-11,1887,0,00:46,,0,2,79,,0,,TIMEOUT
-11,1904,1,00:46,,1,2,80,ATL 1,1,DAL,TD
-11,1756,0,02:00,,0,2,30,,0,,
-11,1842,0,00:58,,0,2,57,,0,,TIMEOUT
-11,1922,0,00:40,,0,2,80,ATL 15,1,DAL,XP
-11,1721,1,02:18,,10,2,57,DAL 20,0,DAL,PENALTY
-14,2558,4,10:28,,6,3,4,ATL 43,0,DAL,PUNT
-14,2473,2,11:55,,16,3,4,DAL 47,0,DAL,PENALTY
-14,2452,1,12:35,,15,3,-6,DAL 48,0,DAL,
-14,2429,1,12:35,,10,3,-5,ATL 47,0,DAL,PENALTY
-14,2534,3,11:06,,23,3,4,DAL 40,0,DAL,
-14,2510,2,11:45,,26,3,-13,DAL 37,0,DAL,
-8,1395,2,06:54,,12,2,6,ATL 18,0,ATL,
-8,1423,3,06:20,,4,2,6,ATL 26,0,ATL,
-8,1374,1,07:25,,10,2,-2,ATL 20,0,ATL,
-8,1449,4,06:15,,4,2,6,ATL 26,0,ATL,PUNT
-8,1352,0,07:25,,0,2,0,DAL 35,0,DAL,KICKOFF
-19,3617,2,03:52,,5,4,60,DAL 5,0,ATL,
-19,3638,3,03:09,,2,4,62,DAL 2,1,ATL,TD
-19,3506,3,07:20,,1,4,35,DAL 32,0,ATL,
-19,3478,2,08:02,,10,4,30,DAL 41,0,ATL,
-19,3431,2,08:51,,6,4,21,ATL 42,0,ATL,
-19,3596,1,04:39,,10,4,57,DAL 10,0,ATL,
-19,3452,1,08:07,,10,4,21,DAL 41,0,ATL,
-19,3527,1,06:43,,10,4,36,DAL 27,0,ATL,
-19,3548,2,06:01,,9,4,42,DAL 26,0,ATL,
-19,3572,3,05:20,,3,4,52,DAL 20,0,ATL,
-19,3407,1,09:18,,10,4,4,ATL 38,0,ATL,
-19,3663,0,03:04,,0,4,62,DAL 15,1,ATL,XP
-12,2032,0,00:28,,0,2,22,,0,,TIMEOUT
-12,2150,3,00:05,,1,2,66,DAL 14,1,ATL,FG
-12,2050,1,00:28,,10,2,57,ATL 42,0,ATL,
-12,2124,2,00:11,,1,2,66,DAL 14,0,ATL,
-12,1962,1,00:40,,10,2,7,ATL 20,0,ATL,
-12,2100,1,00:17,,10,2,66,DAL 23,0,ATL,
-12,1944,0,00:40,,0,2,0,DAL 35,0,DAL,KICKOFF
-12,1986,0,00:34,,0,2,7,,0,,TIMEOUT
-12,2004,2,00:34,,3,2,22,ATL 27,0,ATL,
-12,2082,0,00:17,,0,2,57,,0,,TIMEOUT
-16,2762,1,07:05,,10,3,-4,DAL 20,0,DAL,
-16,2783,2,06:22,,14,3,-4,DAL 16,0,DAL,
-16,2865,2,05:11,,8,3,25,DAL 33,0,DAL,
-16,2968,4,03:10,,6,3,29,DAL 49,0,DAL,PUNT
-16,2743,0,07:05,,0,3,0,ATL 35,0,ATL,KICKOFF
-16,2809,3,06:14,,14,3,29,DAL 16,0,DAL,PENALTY
-16,2940,3,03:46,,12,3,29,DAL 43,0,DAL,
-16,2844,1,05:54,,10,3,13,DAL 31,0,DAL,
-16,2914,2,03:51,,12,3,23,DAL 43,0,DAL,
-16,2893,1,04:39,,10,3,23,DAL 45,0,DAL,
-7,1336,0,07:25,,0,2,56,ATL 15,1,DAL,XP
-7,1297,2,08:15,,3,2,56,ATL 12,0,DAL,
-7,1199,2,10:49,,13,2,21,ATL 49,0,DAL,
-7,1114,1,12:34,,10,2,10,DAL 44,0,DAL,
-7,1318,1,07:31,,2,2,56,ATL 2,1,DAL,TD
-7,1139,1,11:57,,10,2,0,ATL 46,0,DAL,PENALTY
-7,1276,1,08:54,,10,2,44,ATL 19,0,DAL,
-7,1227,1,10:17,,10,2,26,ATL 35,0,DAL,
-7,1175,1,11:32,,20,2,7,DAL 44,0,DAL,
-7,1248,2,09:36,,5,2,37,ATL 30,0,DAL,
-3,302,1,10:36,,10,1,40,ATL 38,0,DAL,
-3,323,2,09:59,,9,1,49,ATL 37,0,DAL,
-3,281,1,11:09,,10,1,39,DAL 42,0,DAL,
-3,347,1,09:21,,10,1,48,ATL 28,0,DAL,
-3,368,2,08:38,,11,1,56,ATL 29,0,DAL,
-3,424,1,07:12,,1,1,77,ATL 1,1,DAL,TD
-3,396,3,07:57,,3,1,76,ATL 21,0,DAL,
-3,253,1,11:44,,10,1,19,DAL 23,0,DAL,
-3,442,0,07:07,,0,1,77,ATL 15,1,DAL,XP
-17,3263,1,11:30,,7,4,89,DAL 7,1,ATL,TD
-17,3100,0,,,0,3,53,,0,,
-17,3079,3,00:26,,6,3,53,ATL 46,0,ATL,
-17,3189,2,12:55,,10,4,76,DAL 19,0,ATL,
-17,2988,1,03:09,,10,3,16,ATL 11,0,ATL,
-17,3235,3,12:10,,4,4,82,DAL 13,0,ATL,
-17,3037,1,01:47,,10,3,34,ATL 42,0,ATL,
-17,3116,1,15:00,,10,4,56,DAL 36,0,ATL,
-17,3137,2,14:17,,7,4,70,DAL 33,0,ATL,
-17,3280,0,11:25,,0,4,89,DAL 15,1,ATL,XP
-17,3009,1,02:26,,10,3,31,ATL 27,0,ATL,
-17,3165,1,13:38,,10,4,70,DAL 19,0,ATL,
-17,3058,2,01:05,,7,3,35,ATL 45,0,ATL,
-17,3213,0,12:10,,0,4,76,,0,,TIMEOUT
-4,680,2,03:59,,10,1,74,DAL 16,0,ATL,
-4,654,1,04:04,,10,1,64,DAL 16,0,ATL,
-4,789,0,03:00,,0,1,80,DAL 15,1,ATL,XP
-4,605,2,05:04,,10,1,54,DAL 38,0,ATL,
-4,734,2,03:10,,6,1,77,DAL 6,0,ATL,PENALTY
-4,708,1,03:16,,6,1,74,DAL 6,0,ATL,
-4,532,1,05:49,,10,1,26,ATL 46,0,ATL,
-4,504,2,06:28,,5,1,26,ATL 25,0,ATL,
-4,476,1,07:07,,10,1,5,ATL 20,0,ATL,
-4,633,1,04:41,,10,1,64,DAL 26,0,ATL,
-4,458,0,07:07,,0,1,80,DAL 35,0,DAL,KICKOFF
-4,579,1,05:11,,10,1,42,DAL 38,0,ATL,
-4,558,2,05:42,,10,1,42,ATL 46,0,ATL,
-4,771,1,03:05,,3,1,80,DAL 3,1,ATL,TD
-2,172,1,13:52,,10,1,1,ATL 20,0,ATL,
-2,146,0,13:52,,0,1,-3,DAL 35,0,DAL,KICKOFF
-2,214,3,12:39,,8,1,-3,ATL 22,0,ATL,
-2,193,2,13:17,,9,1,2,ATL 21,0,ATL,
-2,233,4,11:55,,13,1,-3,ATL 17,0,ATL,PUNT
-15,2627,1,09:07,,10,3,35,ATL 26,0,ATL,
-15,2655,1,08:29,,10,3,42,ATL 48,0,ATL,
-15,2578,1,10:20,,10,3,9,ATL 13,0,ATL,
-15,2676,2,08:01,,3,3,42,DAL 45,0,ATL,
-15,2722,0,07:05,,0,3,87,DAL 2,1,ATL,2PS
-15,2697,3,07:16,,3,3,87,DAL 45,1,ATL,TD
-15,2603,2,09:44,,1,3,13,ATL 22,0,ATL,
+20,3777,0,02:00,Two-Minute Warning,0,4,18,,0,,
+20,3795,2,02:00,(2:00) (Shotgun) B.Weeden pass short middle to L.Dunbar to DAL 44 for 6 yards (P.Worrilow).,7,4,24,DAL 38,0,DAL,
+20,3753,1,02:17,"(2:17) (No Huddle, Shotgun) B.Weeden pass short left to L.Dunbar to DAL 38 for 3 yards (J.Durant).",10,4,18,DAL 35,0,DAL,
+20,3819,3,01:41,"(1:41) (No Huddle, Shotgun) B.Weeden sacked at DAL 41 for -3 yards (A.Clayborn).",1,4,21,DAL 44,0,DAL,
+20,3838,0,01:34,Timeout #2 by DAL at 01:34.,0,4,21,,0,,TIMEOUT
+20,3856,4,01:34,(1:34) (Shotgun) B.Weeden pass incomplete short middle to T.Williams. Pass incomplete on a slant pattern.,4,4,21,DAL 41,0,DAL,
+20,3679,0,03:04,M.Bosher kicks 73 yards from ATL 35 to DAL -8. L.Dunbar ran ob at DAL 20 for 28 yards (R.Alford). Return left sid of the field outside the yard line numbers.,0,4,0,ATL 35,0,ATL,KICKOFF
+20,3729,2,02:39,"(2:39) (No Huddle, Shotgun) B.Weeden pass short left to L.Dunbar to DAL 35 for 6 yards (J.Durant).",1,4,15,DAL 29,0,DAL,
+20,3705,1,02:59,(2:59) (Shotgun) B.Weeden pass short middle to J.Witten to DAL 29 for 9 yards (J.Durant).,10,4,9,DAL 20,0,DAL,
+21,3904,0,01:24,Timeout #3 by DAL at 01:24.,0,4,0,,0,,TIMEOUT
+21,3922,2,01:24,(1:24) D.Freeman left end to DAL 35 for 6 yards (K.Wilber).,10,4,6,DAL 41,0,ATL,
+21,3964,0,00:00,END GAME,0,4,5,,0,,
+21,3943,3,00:34,(:34) M.Ryan kneels to DAL 36 for -1 yards.,4,4,5,DAL 35,0,ATL,
+21,3883,1,01:29,(1:29) D.Freeman left end to DAL 41 for no gain (M.Claiborne).,10,4,0,DAL 41,0,ATL,
+1,130,0,13:52,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,1,80,ATL 15,1,DAL,XP
+1,112,1,14:03,"(14:03) J.Randle right end for 37 yards, TOUCHDOWN. Randle orginally ran off tackle before changing course and running around the end.",10,1,80,ATL 37,1,DAL,TD
+1,36,0,15:00,"M.Bosher kicks 74 yards from ATL 35 to DAL -9. L.Dunbar, Touchback. Ball was downed in the end zone.",0,1,80,ATL 35,0,ATL,KICKOFF
+1,79,1,14:12,"(14:12) B.Weeden pass incomplete deep left to T.Williams. PENALTY on ATL-R.Alford, Face Mask (15 Yards), 15 yards, enforced at DAL 48 - No Play.",10,1,43,DAL 48,0,DAL,PENALTY
+1,58,1,15:00,(15:00) J.Randle left tackle to DAL 48 for 28 yards (R.Alford).,10,1,28,DAL 20,0,DAL,
+3,442,0,07:07,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,1,77,ATL 15,1,DAL,XP
+3,302,1,10:36,(10:36) J.Randle left tackle to ATL 37 for 1 yard (J.Durant).,10,1,40,ATL 38,0,DAL,
+3,323,2,09:59,(9:59) (Shotgun) B.Weeden pass short middle to J.Randle to ATL 28 for 9 yards (P.Worrilow).,9,1,49,ATL 37,0,DAL,
+3,347,1,09:21,(9:21) J.Randle left guard to ATL 29 for -1 yards (J.Babineaux; O.Schofield).,10,1,48,ATL 28,0,DAL,
+3,396,3,07:57,(7:57) (Shotgun) B.Weeden pass short middle to C.Beasley to ATL 1 for 20 yards (D.Trufant). Pass complete on a crossing pattern.,3,1,76,ATL 21,0,DAL,
+3,368,2,08:38,(8:38) (Shotgun) B.Weeden pass short middle to C.Beasley to ATL 21 for 8 yards (A.Clayborn). Pass complete on a drag route,11,1,56,ATL 29,0,DAL,
+3,281,1,11:09,(11:09) J.Randle right end to ATL 38 for 20 yards (R.Allen).,10,1,39,DAL 42,0,DAL,
+3,253,1,11:44,(11:44) B.Weeden pass short right to J.Witten to DAL 42 for 19 yards (R.Allen). Pass complete off play action on a crossing pattern.,10,1,19,DAL 23,0,DAL,
+3,424,1,07:12,"(7:12) J.Randle up the middle for 1 yard, TOUCHDOWN.",1,1,77,ATL 1,1,DAL,TD
+2,146,0,13:52,"D.Bailey kicks 74 yards from DAL 35 to ATL -9. E.Weems, Touchback. Ball was caught on the end line.",0,1,-3,DAL 35,0,DAL,KICKOFF
+2,214,3,12:39,(12:39) (Shotgun) M.Ryan sacked at ATL 17 for -5 yards (S.Lee).,8,1,-3,ATL 22,0,ATL,
+2,172,1,13:52,(13:52) D.Freeman right end to ATL 21 for 1 yard (K.Wilber).,10,1,1,ATL 20,0,ATL,
+2,193,2,13:17,(13:17) D.Freeman up the middle to ATL 22 for 1 yard (N.Hayden).,9,1,2,ATL 21,0,ATL,
+2,233,4,11:55,"(11:55) (Punt formation) M.Bosher punts 60 yards to DAL 23, Center-J.Harris, fair catch by C.Beasley.",13,1,-3,ATL 17,0,ATL,PUNT
+5,958,4,15:00,"(15:00) (Punt formation) C.Jones punts 45 yards to ATL 13, Center-L.Ladouceur, fair catch by E.Weems.",1,2,22,DAL 42,0,DAL,PUNT
+5,893,2,01:02,(1:02) (Shotgun) B.Weeden pass short middle to L.Dunbar to DAL 42 for 8 yards (R.Allen). Pass complete on a slant pattern.,9,1,22,DAL 34,0,DAL,
+5,851,2,02:24,(2:24) J.Randle up the middle to DAL 33 for 4 yards (W.Moore).,1,1,13,DAL 29,0,DAL,
+5,942,0,,END QUARTER 1,0,1,22,,0,,
+5,872,1,01:45,(1:45) J.Randle left guard to DAL 34 for 1 yard (T.Jackson).,10,1,14,DAL 33,0,DAL,
+5,805,0,03:00,"M.Bosher kicks 73 yards from ATL 35 to DAL -8. L.Dunbar, Touchback.",0,1,0,ATL 35,0,ATL,KICKOFF
+5,921,3,00:20,(:20) J.Randle right guard to DAL 42 for no gain (J.Durant).,1,1,22,DAL 42,0,DAL,
+5,823,1,03:00,(3:00) B.Weeden pass short left to J.Randle to DAL 29 for 9 yards (P.Worrilow). Pass complete with Randle coming out of the backfield.,10,1,9,DAL 20,0,DAL,
+4,458,0,07:07,"D.Bailey kicks 74 yards from DAL 35 to ATL -9. E.Weems, Touchback.",0,1,80,DAL 35,0,DAL,KICKOFF
+4,605,2,05:04,(5:04) (Shotgun) M.Ryan pass short left to J.Jones pushed ob at DAL 26 for 12 yards (M.Claiborne). Pass complete on an up and out pattern.,10,1,54,DAL 38,0,ATL,
+4,579,1,05:11,(5:11) M.Ryan pass incomplete short left to J.Jones. Pass incomplete on a comeback pattern; Claiborne closest.,10,1,42,DAL 38,0,ATL,
+4,633,1,04:41,(4:41) D.Freeman up the middle to DAL 16 for 10 yards (A.Hitchens).,10,1,64,DAL 26,0,ATL,
+4,708,1,03:16,(3:16) (Shotgun) M.Ryan pass incomplete short left to J.Jones (M.Claiborne). Pass incomplete on a quick slant pattern.,6,1,74,DAL 6,0,ATL,
+4,558,2,05:42,(5:42) D.Freeman right end pushed ob at DAL 38 for 16 yards (N.Hayden).,10,1,42,ATL 46,0,ATL,
+4,789,0,03:00,"M.Bryant extra point is GOOD, Center-J.Harris, Holder-M.Bosher.",0,1,80,DAL 15,1,ATL,XP
+4,654,1,04:04,(4:04) M.Ryan pass incomplete short middle to L.Hankerson. Pass incomplete on a slant pattern.,10,1,64,DAL 16,0,ATL,
+4,476,1,07:07,(7:07) M.Ryan pass short left to J.Jones to ATL 25 for 5 yards (M.Claiborne). Pass complete on a hitch route.,10,1,5,ATL 20,0,ATL,
+4,532,1,05:49,(5:49) M.Ryan pass incomplete deep middle to J.Jones. Pass incomplete on a slant pattern; Carr closest defender.,10,1,26,ATL 46,0,ATL,
+4,771,1,03:05,"(3:05) D.Freeman left end for 3 yards, TOUCHDOWN.",3,1,80,DAL 3,1,ATL,TD
+4,504,2,06:28,(6:28) M.Ryan pass deep middle to L.Hankerson to ATL 46 for 21 yards (J.Wilcox). Pass complete on a post pattern.,5,1,26,ATL 25,0,ATL,
+4,680,2,03:59,(3:59) M.Ryan pass short right to J.Jones to DAL 6 for 10 yards (B.Carr; B.Jones). Pass complete on a button hook.,10,1,74,DAL 16,0,ATL,
+4,734,2,03:10,"(3:10) M.Ryan pass incomplete short right to R.White (B.Carr). Pass incomplete on a right corner pattern. PENALTY on DAL-M.Claiborne, Defensive Holding, 3 yards, enforced at DAL 6 - No Play.",6,1,77,DAL 6,0,ATL,PENALTY
+7,1199,2,10:49,(10:49) (Shotgun) B.Weeden pass short middle to L.Dunbar pushed ob at ATL 35 for 14 yards (R.Therezie). Pass complete on a delayed pattern out of the backfield.,13,2,21,ATL 49,0,DAL,
+7,1227,1,10:17,(10:17) D.McFadden left guard to ATL 30 for 5 yards (D.Trufant; J.Durant).,10,2,26,ATL 35,0,DAL,
+7,1175,1,11:32,(11:32) (Shotgun) B.Weeden pass short middle to J.Witten to ATL 49 for 7 yards (P.Worrilow).,20,2,7,DAL 44,0,DAL,
+7,1336,0,07:25,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,2,56,ATL 15,1,DAL,XP
+7,1139,1,11:57,"(11:57) D.McFadden left end to ATL 49 for -3 yards (R.Hageman). PENALTY on DAL-T.Smith, Offensive Holding, 10 yards, enforced at ATL 46 - No Play.",10,2,0,ATL 46,0,DAL,PENALTY
+7,1276,1,08:54,(8:54) D.McFadden right guard to ATL 12 for 7 yards (V.Beasley).,10,2,44,ATL 19,0,DAL,
+7,1318,1,07:31,"(7:31) D.McFadden left end for 2 yards, TOUCHDOWN.",2,2,56,ATL 2,1,DAL,TD
+7,1114,1,12:34,(12:34) D.McFadden left tackle to ATL 46 for 10 yards (R.Allen). ATL-R.Allen was injured during the play. His return is Questionable.,10,2,10,DAL 44,0,DAL,
+7,1248,2,09:36,(9:36) (Shotgun) B.Weeden pass short right to J.Witten to ATL 19 for 11 yards (P.Adams). Pass complete on a curl route.,5,2,37,ATL 30,0,DAL,
+7,1297,2,08:15,(8:15) (Shotgun) D.McFadden up the middle to ATL 2 for 10 yards (R.Therezie). Injury update: Atlanta's Ricardo Allen has a knee injury; return questionable.,3,2,56,ATL 12,0,DAL,
+6,1088,4,12:44,"(12:44) (Punt formation) M.Bosher punts 43 yards to DAL 36, Center-J.Harris. C.Beasley to DAL 44 for 8 yards (E.Weems). Return inside the yardline numbers.",2,2,8,ATL 21,0,ATL,PUNT
+6,1062,3,12:49,(12:49) (Shotgun) M.Ryan pass incomplete short right to J.Jones. Pass incomplete on a comeback curl route; Claiborne closest defender.,2,2,8,ATL 21,0,ATL,
+6,999,2,14:08,"(14:08) M.Ryan pass short right to R.White to ATL 37 for 17 yards (K.Wilber; B.Church). PENALTY on ATL-R.Schraeder, Ineligible Downfield Pass, 5 yards, enforced at ATL 20 - No Play.",3,2,2,ATL 20,0,ATL,PENALTY
+6,1034,2,13:31,(13:31) (Shotgun) M.Ryan pass short middle to D.Freeman to ATL 21 for 6 yards (S.Lee). Pass complete on a crossing pattern.,8,2,8,ATL 15,0,ATL,
+6,978,1,14:51,(14:51) D.Freeman right tackle to ATL 20 for 7 yards (B.Church).,10,2,7,ATL 13,0,ATL,
+9,1475,1,06:03,(6:03) B.Weeden pass short left intended for J.Witten INTERCEPTED by W.Moore [N.Stupar] at DAL 34. W.Moore to DAL 23 for 11 yards (Z.Martin; C.White).,10,2,0,DAL 19,0,DAL,INT
+8,1352,0,07:25,"D.Bailey kicks 74 yards from DAL 35 to ATL -9. E.Weems, Touchback.",0,2,0,DAL 35,0,DAL,KICKOFF
+8,1395,2,06:54,(6:54) (Shotgun) M.Ryan pass short middle to J.Tamme to ATL 26 for 8 yards (A.Hitchens). Pass complete on a drag route.,12,2,6,ATL 18,0,ATL,
+8,1423,3,06:20,(6:20) (Shotgun) M.Ryan pass incomplete short middle to L.Hankerson (T.Patmon). Pass incomplete on a slant pattern; Patmon closest.,4,2,6,ATL 26,0,ATL,
+8,1374,1,07:25,(7:25) D.Freeman up the middle to ATL 18 for -2 yards (N.Hayden).,10,2,-2,ATL 20,0,ATL,
+8,1449,4,06:15,"(6:15) (Punt formation) M.Bosher punts 59 yards to DAL 15, Center-J.Harris. L.Dunbar to DAL 19 for 4 yards (J.Collins).",4,2,6,ATL 26,0,ATL,PUNT
+11,1859,1,00:58,"(:58) (Shotgun) B.Weeden pass short middle to L.Dunbar to ATL 1 for 22 yards (R.Allen, P.Adams).",10,2,79,ATL 23,0,DAL,
+11,1703,0,02:18,"M.Bosher kicks 74 yards from ATL 35 to DAL -9. L.Dunbar, Touchback.",0,2,0,ATL 35,0,ATL,KICKOFF
+11,1773,1,02:00,(2:00) L.Dunbar up the middle to ATL 45 for 5 yards (W.Moore).,10,2,35,50,0,DAL,
+11,1842,0,00:58,Timeout #1 by DAL at 00:58.,0,2,57,,0,,TIMEOUT
+11,1818,1,01:08,"(1:08) (No Huddle, Shotgun) B.Weeden pass short middle to L.Dunbar to ATL 23 for 15 yards (P.Worrilow).",10,2,57,ATL 38,0,DAL,
+11,1794,2,01:37,"(1:37) (No Huddle, Shotgun) B.Weeden pass short middle to J.Witten to ATL 38 for 7 yards (J.Durant).",5,2,42,ATL 45,0,DAL,
+11,1922,0,00:40,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,2,80,ATL 15,1,DAL,XP
+11,1887,0,00:46,Timeout #2 by DAL at 00:46.,0,2,79,,0,,TIMEOUT
+11,1756,0,02:00,Two-Minute Warning,0,2,30,,0,,
+11,1904,1,00:46,"(:46) J.Randle up the middle for 1 yard, TOUCHDOWN. The Replay Official reviewed the runner broke the plane ruling, and the play was Upheld. The ruling on the field stands.",1,2,80,ATL 1,1,DAL,TD
+11,1721,1,02:18,"(2:18) (Shotgun) B.Weeden pass short left to C.Beasley pushed ob at DAL 35 for 15 yards (R.Allen). PENALTY on ATL-R.Allen, Unnecessary Roughness, 15 yards, enforced at DAL 35. Ball complete on a bubble screen.",10,2,57,DAL 20,0,DAL,PENALTY
+10,1547,3,04:22,(4:22) D.Freeman up the middle to DAL 7 for 7 yards (S.Lee).,1,2,16,DAL 14,0,ATL,
+10,1568,1,03:44,(3:44) (Shotgun) D.Freeman right tackle to DAL 6 for 1 yard (B.Church).,7,2,17,DAL 7,0,ATL,
+10,1687,0,02:18,"M.Bryant extra point is GOOD, Center-J.Harris, Holder-M.Bosher.",0,2,23,DAL 15,1,ATL,XP
+10,1643,2,02:28,(2:28) (Shotgun) M.Ryan pass incomplete short middle to J.Jones (J.Wilcox). Pass incomplete on a slant pattern 5 yards deep in the end zone.,2,2,21,DAL 2,0,ATL,
+10,1622,1,03:04,(3:04) D.Freeman left tackle to DAL 2 for 1 yard (N.Hayden).,3,2,23,DAL 3,0,ATL,
+10,1502,1,05:50,(5:50) D.Freeman left end to DAL 18 for 5 yards (S.Lee; B.Church).,10,2,5,DAL 23,0,ATL,
+10,1589,2,03:09,"(3:09) (Shotgun) M.Ryan pass incomplete short middle to L.Toilolo. PENALTY on DAL-B.Church, Defensive Holding, 3 yards, enforced at DAL 6 - No Play.",6,2,20,DAL 6,0,ATL,PENALTY
+10,1669,3,02:23,"(2:23) (Shotgun) D.Freeman up the middle for 2 yards, TOUCHDOWN.",2,2,23,DAL 2,1,ATL,TD
+10,1523,2,05:04,(5:04) (Shotgun) M.Ryan pass short left to D.Freeman to DAL 14 for 4 yards (B.Church).,5,2,9,DAL 18,0,ATL,
+13,2377,3,12:50,(12:50) (Shotgun) M.Ryan pass incomplete short middle to J.Jones (N.Hayden). Pass was knocked down at the line of scrimmage.,25,3,6,ATL 16,0,ATL,
+13,2217,1,14:52,(14:52) M.Ryan pass incomplete short middle to J.Jones [S.Lee]. Pass incomplete on a slant pattern; Claiborne closest defender. Injury update: Jacob Tamme of the Falcons has a head injury and will not return to the game.,10,3,7,ATL 10,0,ATL,
+13,2316,2,13:27,"(13:27) (Shotgun) M.Ryan pass short right to D.Freeman to ATL 43 for 17 yards. PENALTY on ATL-J.Matthews, Offensive Holding, 10 yards, enforced at ATL 26 - No Play.",15,3,6,ATL 26,0,ATL,PENALTY
+13,2295,1,14:07,(14:07) D.Freeman right end to ATL 26 for -5 yards (B.Carr).,10,3,16,ATL 31,0,ATL,
+13,2403,4,12:46,"(12:46) (Punt formation) M.Bosher punts 43 yards to DAL 41, Center-J.Harris. C.Beasley to ATL 47 for 12 yards (P.DiMarco; K.Ishmael).",25,3,6,ATL 16,0,ATL,PUNT
+13,2184,0,15:00,"D.Bailey kicks 68 yards from DAL 35 to ATL -3. E.Weems to ATL 20 for 23 yards (K.Wilber). PENALTY on ATL-J.Stone, Offensive Holding, 10 yards, enforced at ATL 20.",0,3,0,DAL 35,0,DAL,KICKOFF
+13,2351,2,12:55,(12:55) (Shotgun) M.Ryan pass incomplete short middle to J.Jones (N.Hayden). Pass incomplete on a crossing pattern.,25,3,6,ATL 16,0,ATL,
+13,2267,3,14:25,(14:25) (Shotgun) M.Ryan pass short left to J.Jones ran ob at ATL 31 for 14 yards.,3,3,21,ATL 17,0,ATL,
+13,2243,2,14:48,(14:48) D.Freeman right end to ATL 17 for 7 yards (S.Lee; K.Wilber). DAL-S.Lee was injured during the play. His return is Questionable.,10,3,7,ATL 10,0,ATL,
+12,1986,0,00:34,Timeout #1 by ATL at 00:34.,0,2,7,,0,,TIMEOUT
+12,2050,1,00:28,(:28) (Shotgun) M.Ryan pass short middle to D.Freeman to DAL 23 for 35 yards (B.Carr). Pass complete on runner sneaking out of the backfield.,10,2,57,ATL 42,0,ATL,
+12,2124,2,00:11,(:11) (Shotgun) M.Ryan pass incomplete short right. Ball was thrown out of the back of the end zone.,1,2,66,DAL 14,0,ATL,
+12,2082,0,00:17,Timeout #3 by ATL at 00:17.,0,2,57,,0,,TIMEOUT
+12,1962,1,00:40,(:40) (Shotgun) M.Ryan pass short middle to D.Freeman to ATL 27 for 7 yards (B.Jones). Pass complete with running sneaking out of the backfield.,10,2,7,ATL 20,0,ATL,
+12,2150,3,00:05,"(:05) (Field Goal formation) M.Bryant 32 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher.",1,2,66,DAL 14,1,ATL,FG
+12,1944,0,00:40,"D.Bailey kicks 74 yards from DAL 35 to ATL -9. E.Weems, Touchback.",0,2,0,DAL 35,0,DAL,KICKOFF
+12,2004,2,00:34,(:34) (Shotgun) M.Ryan pass short middle to L.Hankerson to ATL 42 for 15 yards (B.Jones). Pass complete on a curl route.,3,2,22,ATL 27,0,ATL,
+12,2100,1,00:17,(:17) (Shotgun) M.Ryan pass short right to L.Hankerson ran ob at DAL 14 for 9 yards.,10,2,66,DAL 23,0,ATL,
+12,2032,0,00:28,Timeout #2 by ATL at 00:28.,0,2,22,,0,,TIMEOUT
+15,2627,1,09:07,(9:07) M.Ryan pass deep left to J.Jones to ATL 48 for 22 yards (B.Carr) [A.Hitchens]. Pass complete after heavy pressure.,10,3,35,ATL 26,0,ATL,
+15,2578,1,10:20,(10:20) D.Freeman right end to ATL 22 for 9 yards (B.Carr). Quick pitch,10,3,9,ATL 13,0,ATL,
+15,2603,2,09:44,"(9:44) M.Ryan pass short right to P.DiMarco to ATL 26 for 4 yards (B.Church, B.Carr).",1,3,13,ATL 22,0,ATL,
+15,2655,1,08:29,(8:29) D.Freeman left tackle to DAL 45 for 7 yards (B.Church; A.Gachkar).,10,3,42,ATL 48,0,ATL,
+15,2676,2,08:01,(8:01) D.Freeman right end to DAL 45 for no gain (A.Hitchens).,3,3,42,DAL 45,0,ATL,
+15,2697,3,07:16,"(7:16) (Shotgun) M.Ryan pass deep right to J.Jones for 45 yards, TOUCHDOWN. Pass complete on a post pattern.",3,3,87,DAL 45,1,ATL,TD
+15,2722,0,07:05,TWO-POINT CONVERSION ATTEMPT. M.Ryan pass to L.Toilolo is complete. ATTEMPT SUCCEEDS.,0,3,87,DAL 2,1,ATL,2PS
+14,2429,1,12:35,"(12:35) PENALTY on DAL-J.Witten, False Start, 5 yards, enforced at ATL 47 - No Play.",10,3,-5,ATL 47,0,DAL,PENALTY
+14,2473,2,11:55,"(11:55) (Shotgun) B.Weeden pass incomplete short right. PENALTY on DAL-D.Free, Offensive Holding, 10 yards, enforced at DAL 47 - No Play.",16,3,4,DAL 47,0,DAL,PENALTY
+14,2558,4,10:28,"(10:28) (Punt formation) C.Jones punts 30 yards to ATL 13, Center-L.Ladouceur, fair catch by E.Weems.",6,3,4,ATL 43,0,DAL,PUNT
+14,2452,1,12:35,(12:35) J.Randle right end to DAL 47 for -1 yards (O.Schofield).,15,3,-6,DAL 48,0,DAL,
+14,2510,2,11:45,(11:45) (Shotgun) B.Weeden pass short middle to L.Dunbar to DAL 40 for 3 yards (J.Durant).,26,3,-13,DAL 37,0,DAL,
+14,2534,3,11:06,(11:06) (Shotgun) B.Weeden pass short right to L.Dunbar to ATL 43 for 17 yards (D.Trufant).,23,3,4,DAL 40,0,DAL,
+17,2988,1,03:09,(3:09) D.Freeman right guard to ATL 27 for 16 yards (J.Wilcox).,10,3,16,ATL 11,0,ATL,
+17,3213,0,12:10,Timeout #1 by DAL at 12:10.,0,4,76,,0,,TIMEOUT
+17,3116,1,15:00,(15:00) D.Freeman left tackle to DAL 33 for 3 yards (S.Lee).,10,4,56,DAL 36,0,ATL,
+17,3037,1,01:47,(1:47) D.Freeman left tackle to ATL 45 for 3 yards (D.Lawrence; K.Wilber).,10,3,34,ATL 42,0,ATL,
+17,3100,0,,END QUARTER 3,0,3,53,,0,,
+17,3263,1,11:30,"(11:30) D.Freeman up the middle for 7 yards, TOUCHDOWN.",7,4,89,DAL 7,1,ATL,TD
+17,3137,2,14:17,(14:17) M.Ryan pass short middle to J.Jones to DAL 19 for 14 yards (B.Carr). Pass complete on a skinny post.,7,4,70,DAL 33,0,ATL,
+17,3235,3,12:10,(12:10) (Shotgun) M.Ryan pass short right to N.Williams to DAL 7 for 6 yards (B.Jones). Pass complete on a hitch route.,4,4,82,DAL 13,0,ATL,
+17,3058,2,01:05,(1:05) D.Freeman left tackle to ATL 46 for 1 yard (D.Lawrence).,7,3,35,ATL 45,0,ATL,
+17,3079,3,00:26,(:26) (Shotgun) M.Ryan scrambles up the middle to DAL 36 for 18 yards (S.Lee).,6,3,53,ATL 46,0,ATL,
+17,3165,1,13:38,(13:38) M.Ryan pass short right to D.Freeman to DAL 19 for no gain (T.Patmon).,10,4,70,DAL 19,0,ATL,
+17,3009,1,02:26,(2:26) M.Ryan pass short left to J.Jones to ATL 42 for 15 yards (M.Claiborne). Pass complete off play action roll left on a drag route.,10,3,31,ATL 27,0,ATL,
+17,3189,2,12:55,(12:55) M.Ryan pass short right to J.Jones to DAL 13 for 6 yards (B.Carr). Pass complete on a hitch pattern.,10,4,76,DAL 19,0,ATL,
+17,3280,0,11:25,"M.Bryant extra point is GOOD, Center-J.Harris, Holder-M.Bosher.",0,4,89,DAL 15,1,ATL,XP
+16,2914,2,03:51,(3:51) (Shotgun) B.Weeden pass incomplete deep right to J.Witten. Pass incomplete off play action on a seam route.,12,3,23,DAL 43,0,DAL,
+16,2865,2,05:11,(5:11) (Shotgun) B.Weeden pass short left to J.Witten pushed ob at DAL 45 for 12 yards (W.Moore). Pass complete on a crossing pattern.,8,3,25,DAL 33,0,DAL,
+16,2783,2,06:22,(6:22) (Shotgun) B.Weeden pass incomplete short middle to T.Williams. Pass incomplete on a skinny post.,14,3,-4,DAL 16,0,DAL,
+16,2762,1,07:05,(7:05) J.Randle right tackle to DAL 16 for -4 yards (P.Soliai).,10,3,-4,DAL 20,0,DAL,
+16,2844,1,05:54,(5:54) J.Randle up the middle to DAL 33 for 2 yards (W.Moore).,10,3,13,DAL 31,0,DAL,
+16,2968,4,03:10,"(3:10) (Punt formation) C.Jones punts 40 yards to ATL 11, Center-L.Ladouceur, fair catch by E.Weems.",6,3,29,DAL 49,0,DAL,PUNT
+16,2893,1,04:39,(4:39) J.Randle right end to DAL 43 for -2 yards (N.Stupar).,10,3,23,DAL 45,0,DAL,
+16,2743,0,07:05,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback. Ball was kicked out of the end zone.",0,3,0,ATL 35,0,ATL,KICKOFF
+16,2809,3,06:14,"(6:14) (Shotgun) B.Weeden pass short middle to L.Dunbar to DAL 21 for 5 yards (J.Durant) [A.Clayborn]. PENALTY on ATL-A.Clayborn, Roughing the Passer, 15 yards, enforced at DAL 16 - No Play. Penalty on DAL-L.Collins, Illegal Formation, superseded.",14,3,29,DAL 16,0,DAL,PENALTY
+16,2940,3,03:46,(3:46) (Shotgun) B.Weeden pass short middle to L.Dunbar to DAL 49 for 6 yards (R.Allen). Pass complete on a wheel route.,12,3,29,DAL 43,0,DAL,
+19,3452,1,08:07,(8:07) (Shotgun) M.Ryan pass incomplete short middle to L.Hankerson. Pass incomplete off play action on a quick slant pattern; Wilcox closest.,10,4,21,DAL 41,0,ATL,
+19,3596,1,04:39,(4:39) D.Freeman left end to DAL 5 for 5 yards (N.Hayden).,10,4,57,DAL 10,0,ATL,
+19,3638,3,03:09,"(3:09) (Shotgun) M.Ryan pass short right to J.Jones for 2 yards, TOUCHDOWN. Pass complete near right corner of the end zone off fake handoff to the left and roll right.",2,4,62,DAL 2,1,ATL,TD
+19,3617,2,03:52,(3:52) (Shotgun) D.Freeman up the middle to DAL 2 for 3 yards (S.Lee; A.Hitchens).,5,4,60,DAL 5,0,ATL,
+19,3431,2,08:51,(8:51) D.Freeman right end to DAL 41 for 17 yards (S.Lee).,6,4,21,ATL 42,0,ATL,
+19,3478,2,08:02,(8:02) M.Ryan pass short middle to J.Jones to DAL 32 for 9 yards (J.Wilcox). Pass complete on a quick slant pattern.,10,4,30,DAL 41,0,ATL,
+19,3506,3,07:20,(7:20) D.Freeman up the middle to DAL 27 for 5 yards (S.Lee).,1,4,35,DAL 32,0,ATL,
+19,3572,3,05:20,(5:20) (Shotgun) M.Ryan pass short left to J.Jones to DAL 10 for 10 yards (M.Claiborne).,3,4,52,DAL 20,0,ATL,
+19,3663,0,03:04,"M.Bryant extra point is GOOD, Center-J.Harris, Holder-M.Bosher.",0,4,62,DAL 15,1,ATL,XP
+19,3527,1,06:43,(6:43) D.Freeman left end to DAL 26 for 1 yard (J.Crawford; A.Hitchens).,10,4,36,DAL 27,0,ATL,
+19,3407,1,09:18,(9:18) D.Freeman left end to ATL 42 for 4 yards (A.Hitchens). DAL-N.Hayden was injured during the play. His return is Questionable.,10,4,4,ATL 38,0,ATL,
+19,3548,2,06:01,(6:01) (Shotgun) M.Ryan pass short right to L.Toilolo to DAL 20 for 6 yards (A.Hitchens).,9,4,42,DAL 26,0,ATL,
+18,3364,3,10:04,(10:04) (Shotgun) B.Weeden sacked at DAL 18 for -9 yards (V.Beasley).,3,4,-2,DAL 27,0,DAL,
+18,3296,0,11:25,"M.Bosher kicks 74 yards from ATL 35 to DAL -9. L.Dunbar, Touchback.",0,4,0,ATL 35,0,ATL,KICKOFF
+18,3314,1,11:25,(11:25) (Shotgun) D.McFadden left guard to DAL 21 for 1 yard (J.Durant).,10,4,1,DAL 20,0,DAL,
+18,3335,2,10:42,(10:42) (Shotgun) B.Weeden pass short right to C.Beasley ran ob at DAL 27 for 6 yards (P.Adams).,9,4,7,DAL 21,0,DAL,
+18,3383,4,09:26,"(9:26) (Punt formation) C.Jones punts 44 yards to ATL 38, Center-L.Ladouceur, fair catch by E.Weems.",12,4,-2,DAL 18,0,DAL,PUNT

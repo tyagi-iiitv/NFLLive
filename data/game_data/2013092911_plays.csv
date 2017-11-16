@@ -1,173 +1,173 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1222,2,08:32,,10,2,4,SD 42,0,DAL,
-9,1268,4,07:43,,6,2,4,SD 38,0,DAL,FGM
-9,1190,1,09:02,,10,2,0,SD 42,0,DAL,
-9,1246,3,07:48,,6,2,4,SD 38,0,DAL,
-10,1402,4,05:16,,3,2,36,DAL 18,1,SD,FG
-10,1336,1,06:59,,10,2,34,DAL 25,0,SD,
-10,1357,2,06:33,,5,2,35,DAL 20,0,SD,
-10,1312,1,07:26,,10,2,29,DAL 40,0,SD,
-10,1378,3,05:51,,4,2,36,DAL 19,0,SD,
-10,1288,1,07:38,,10,2,14,SD 46,0,SD,
-20,3712,0,02:32,,0,4,8,,0,,TIMEOUT
-20,3782,0,02:25,,0,4,13,,0,,TIMEOUT
-20,3799,2,02:25,,10,4,15,SD 33,0,SD,
-20,3837,3,02:00,,8,4,21,SD 35,0,SD,
-20,3653,1,02:42,,10,4,5,SD 20,0,SD,
-20,3729,3,02:32,,2,4,13,SD 28,0,SD,PENALTY
-20,3761,1,02:30,,10,4,13,SD 33,0,SD,
-20,3674,0,02:37,,0,4,5,,0,,TIMEOUT
-20,3879,4,01:11,,2,4,21,SD 41,0,SD,PUNT
-20,3820,0,02:00,,0,4,15,,0,,
-20,3858,0,01:13,,0,4,21,,0,,TIMEOUT
-20,3691,2,02:37,,5,4,8,SD 25,0,SD,
-6,611,2,05:05,,8,1,9,SD 37,0,SD,
-6,698,3,02:21,,9,1,16,DAL 49,0,SD,
-6,653,1,03:44,,10,1,16,50,0,SD,
-6,632,3,04:22,,1,1,16,SD 44,0,SD,
-6,674,2,03:03,,9,1,16,DAL 49,0,SD,
-6,590,1,05:45,,10,1,16,SD 35,0,SD,
-6,720,4,02:14,,9,1,16,DAL 49,0,SD,PUNT
-18,3200,2,08:30,,6,4,22,SD 37,0,SD,
-18,3266,0,06:54,,0,4,80,DAL 2,1,SD,XP
-18,3134,1,10:02,,10,4,9,SD 20,0,SD,
-18,3158,2,09:37,,1,4,13,SD 29,0,SD,
-18,3245,1,07:02,,10,4,80,SD 44,1,SD,TD
-18,3179,1,09:02,,10,4,17,SD 33,0,SD,
-18,3221,3,07:44,,1,4,24,SD 42,0,SD,
-1,54,1,15:00,,10,1,10,DAL 20,0,DAL,
-1,94,2,13:45,,14,1,6,DAL 26,0,DAL,
-1,138,4,13:30,,14,1,6,DAL 26,0,DAL,PUNT
-1,75,1,14:26,,10,1,6,DAL 30,0,DAL,
-1,116,3,13:39,,14,1,6,DAL 26,0,DAL,
-1,36,0,15:00,,0,1,0,SD 35,0,SD,KICKOFF
-5,571,4,05:53,,11,1,-1,DAL 19,0,DAL,PUNT
-5,506,1,07:05,,10,1,0,DAL 20,0,DAL,
-5,552,3,06:19,,3,1,-1,DAL 27,0,DAL,
-5,528,2,07:00,,10,1,7,DAL 20,0,DAL,
-5,488,0,07:05,,0,1,0,SD 35,0,SD,KICKOFF
-13,1945,2,00:32,,10,2,59,DAL 31,0,SD,
-13,2008,4,00:02,,3,2,66,DAL 24,1,SD,FG
-13,1772,0,01:19,,0,2,0,DAL 35,0,DAL,KICKOFF
-13,1853,0,00:49,,0,2,17,,0,,TIMEOUT
-13,1899,1,00:41,,10,2,59,DAL 45,0,SD,
-13,1870,1,00:49,,10,2,45,SD 27,0,SD,
-13,1923,1,00:35,,10,2,59,DAL 31,0,SD,
-13,1829,2,00:54,,1,2,17,SD 19,0,SD,
-13,1991,0,00:02,,0,2,66,,0,,TIMEOUT
-13,1805,1,01:13,,10,2,9,SD 10,0,SD,
-13,1967,3,00:26,,10,2,66,DAL 31,0,SD,
-21,3927,2,00:56,,3,4,21,DAL 15,0,DAL,
-21,3898,1,01:02,,10,4,7,DAL 8,0,DAL,
-21,4015,0,00:00,,0,4,32,,0,,
-21,3951,1,00:34,,10,4,33,DAL 29,0,DAL,
-21,3975,1,00:09,,10,4,32,DAL 41,0,DAL,FUMBLE
-11,1475,1,04:31,,10,2,17,DAL 42,0,DAL,
-11,1496,2,03:52,,7,2,31,DAL 45,0,DAL,
-11,1447,1,05:05,,10,2,14,DAL 28,0,DAL,
-11,1531,1,03:25,,10,2,38,SD 41,0,DAL,
-11,1552,2,02:44,,3,2,72,SD 34,1,DAL,TD
-11,1425,0,05:11,,0,2,0,SD 35,0,SD,KICKOFF
-11,1573,0,02:36,,0,2,72,SD 2,1,DAL,XP
-14,2042,0,15:00,,0,3,0,DAL 35,0,DAL,KICKOFF
-14,2236,1,10:43,,10,3,64,DAL 25,0,SD,
-14,2212,1,11:22,,10,3,55,SD 49,0,SD,
-14,2278,1,09:39,,10,3,80,DAL 13,1,SD,TD
-14,2164,2,12:37,,8,3,24,SD 37,0,SD,
-14,2257,2,10:19,,1,3,67,DAL 16,0,SD,
-14,2140,1,13:14,,10,3,17,SD 35,0,SD,
-14,2060,1,15:00,,10,3,1,SD 20,0,SD,
-14,2081,2,14:30,,9,3,3,SD 21,0,SD,
-14,2105,3,13:47,,7,3,15,SD 23,0,SD,
-14,2188,3,11:54,,1,3,29,SD 44,0,SD,
-14,2299,0,09:32,,0,3,80,DAL 2,1,SD,XP
-8,1119,2,10:23,,19,2,11,SD 33,0,SD,
-8,1164,4,09:18,,14,2,18,SD 38,0,SD,PUNT
-8,1096,2,10:45,,14,2,13,SD 38,0,SD,PENALTY
-8,1075,1,11:26,,10,2,18,SD 42,0,SD,
-8,988,0,13:10,,0,2,0,DAL 35,0,DAL,KICKOFF
-8,1143,3,09:45,,21,2,18,SD 31,0,SD,
-8,1054,2,12:06,,5,2,22,SD 36,0,SD,
-8,1027,1,12:34,,10,2,16,SD 31,0,SD,
-8,1003,1,13:10,,10,2,11,SD 20,0,SD,
-19,3578,1,02:57,,7,4,72,SD 7,0,DAL,
-19,3387,1,05:40,,20,4,19,DAL 29,0,DAL,
-19,3617,2,02:50,,7,4,78,SD 7,0,DAL,FUMBLE
-19,3535,2,03:25,,8,4,57,SD 22,0,DAL,
-19,3411,2,05:14,,9,4,44,DAL 40,0,DAL,PENALTY
-19,3463,2,04:40,,17,4,45,SD 42,0,DAL,
-19,3487,3,04:14,,9,4,55,SD 34,0,DAL,
-19,3352,1,05:59,,10,4,8,DAL 39,0,DAL,PENALTY
-19,3304,1,06:49,,10,4,9,DAL 21,0,DAL,
-19,3444,1,05:09,,10,4,37,SD 35,0,DAL,
-19,3600,0,02:50,,0,4,72,,0,,TIMEOUT
-19,3328,2,06:18,,1,4,18,DAL 30,0,DAL,
-19,3511,1,03:49,,10,4,57,SD 24,0,DAL,
-19,3557,3,03:20,,8,4,72,SD 22,0,DAL,
-19,3282,0,06:54,,0,4,0,SD 35,0,SD,KICKOFF
-12,1607,1,02:36,,10,2,10,SD 20,0,SD,
-12,1667,2,02:00,,17,2,22,SD 23,0,SD,
-12,1589,0,02:36,,0,2,0,DAL 35,0,DAL,KICKOFF
-12,1715,2,01:32,,3,2,29,SD 49,1,SD,TD
-12,1631,1,02:19,,10,2,3,SD 30,0,SD,
-12,1691,1,01:54,,10,2,29,SD 42,0,SD,
-16,2856,3,14:54,,5,4,84,DAL 5,0,SD,
-16,2629,1,04:32,,10,3,38,SD 44,0,SD,
-16,2818,0,,,0,3,84,,0,,
-16,2764,2,00:31,,9,3,82,DAL 10,0,SD,PENALTY
-16,2740,1,01:13,,10,3,79,DAL 11,0,SD,
-16,2719,1,01:51,,10,3,78,DAL 25,0,SD,
-16,2797,1,00:26,,7,3,84,DAL 7,0,SD,
-16,2878,4,14:50,,5,4,84,DAL 5,1,SD,FG
-16,2650,2,03:48,,5,3,48,SD 49,0,SD,
-16,2584,1,05:41,,10,3,26,SD 30,0,SD,
-16,2605,2,05:06,,3,3,33,SD 37,0,SD,
-16,2674,1,03:13,,10,3,52,DAL 41,0,SD,
-16,2695,2,02:32,,6,3,64,DAL 37,0,SD,
-16,2560,1,06:09,,10,3,19,SD 11,0,SD,
-16,2834,2,15:00,,5,4,84,DAL 5,0,SD,
-7,972,0,13:10,,0,2,85,SD 2,1,DAL,XP
-7,811,1,00:16,,10,1,31,DAL 36,0,DAL,
-7,787,1,00:57,,10,1,21,DAL 26,0,DAL,
-7,739,1,02:08,,10,1,6,DAL 15,0,DAL,
-7,907,1,14:05,,10,2,74,SD 24,0,DAL,
-7,952,2,13:15,,4,2,85,SD 5,1,DAL,TD
-7,875,1,14:33,,10,2,61,SD 41,0,DAL,PENALTY
-7,931,1,13:58,,10,2,80,SD 11,0,DAL,
-7,763,2,01:31,,4,1,11,DAL 21,0,DAL,
-7,851,1,15:00,,10,2,44,DAL 46,0,DAL,
-3,312,4,10:19,,2,1,8,DAL 26,0,DAL,PUNT
-3,290,3,10:24,,2,1,8,DAL 26,0,DAL,
-3,248,1,11:45,,10,1,5,DAL 18,0,DAL,
-3,269,2,11:11,,5,1,8,DAL 23,0,DAL,
-17,3117,4,10:10,,8,4,33,SD 44,0,DAL,PUNT
-17,2943,2,14:03,,1,4,15,DAL 32,0,DAL,
-17,3036,2,11:30,,4,4,27,SD 40,0,DAL,PENALTY
-17,3071,2,10:58,,14,4,33,50,0,DAL,
-17,3012,1,12:11,,10,4,37,SD 46,0,DAL,
-17,2900,0,14:46,,0,4,0,SD 35,0,SD,KICKOFF
-17,2922,1,14:41,,10,4,9,DAL 23,0,DAL,
-17,2967,1,13:25,,10,4,21,DAL 38,0,DAL,
-17,2988,2,12:44,,4,4,31,DAL 44,0,DAL,
-17,3095,3,10:18,,8,4,33,SD 44,0,DAL,
-4,427,1,07:53,,10,1,39,DAL 32,0,SD,
-4,451,2,07:12,,4,1,65,DAL 26,1,SD,TD
-4,359,2,09:27,,8,1,7,SD 37,0,SD,
-4,338,1,10:06,,10,1,2,SD 35,0,SD,
-4,403,3,08:23,,8,1,33,SD 37,0,SD,
-4,472,0,07:05,,0,1,65,DAL 2,1,SD,XP
-4,380,3,08:46,,3,1,2,SD 42,0,SD,PENALTY
-2,180,2,13:12,,10,1,5,SD 41,0,SD,
-2,158,1,13:20,,10,1,0,SD 41,0,SD,
-2,204,3,12:29,,5,1,9,SD 46,0,SD,
-2,228,4,11:57,,1,1,9,50,0,SD,PUNT
-15,2486,2,06:28,,11,3,30,50,0,DAL,
-15,2398,3,08:00,,3,3,12,DAL 27,0,DAL,
-15,2315,0,09:32,,0,3,0,SD 35,0,SD,KICKOFF
-15,2351,2,08:50,,7,3,-2,DAL 23,0,DAL,PENALTY
-15,2374,2,08:24,,12,3,7,DAL 18,0,DAL,
-15,2465,1,07:13,,10,3,30,SD 49,0,DAL,
-15,2530,4,06:18,,11,3,30,50,0,DAL,PUNT
-15,2508,3,06:24,,11,3,30,50,0,DAL,
-15,2330,1,09:32,,10,3,3,DAL 20,0,DAL,
-15,2433,1,07:38,,10,3,31,DAL 32,0,DAL,PENALTY
+20,3782,0,02:25,Timeout #3 by DAL at 02:25.,0,4,13,,0,,TIMEOUT
+20,3761,1,02:30,(2:30) (Shotgun) R.Mathews right end to SD 33 for no gain (S.Lee).,10,4,13,SD 33,0,SD,
+20,3837,3,02:00,(2:00) (Shotgun) R.Mathews right end to SD 41 for 6 yards (J.Wilcox).,8,4,21,SD 35,0,SD,
+20,3799,2,02:25,(2:25) (Shotgun) R.Mathews up the middle to SD 35 for 2 yards (B.Church).,10,4,15,SD 33,0,SD,
+20,3879,4,01:11,"(1:11) M.Scifres punts 51 yards to DAL 8, Center-M.Windt, downed by SD-S.Ajirotutu.",2,4,21,SD 41,0,SD,PUNT
+20,3712,0,02:32,Timeout #2 by DAL at 02:32.,0,4,8,,0,,TIMEOUT
+20,3691,2,02:37,"(2:37) (Shotgun) R.Mathews up the middle to SD 28 for 3 yards (E.Sims, B.Church).",5,4,8,SD 25,0,SD,
+20,3820,0,02:00,Two-Minute Warning,0,4,15,,0,,
+20,3858,0,01:13,Timeout #2 by SD at 01:13.,0,4,21,,0,,TIMEOUT
+20,3729,3,02:32,"(2:32) (Shotgun) R.Mathews up the middle to SD 28 for no gain (E.Sims). PENALTY on DAL-D.Ware, Defensive Offside, 5 yards, enforced at SD 28 - No Play.",2,4,13,SD 28,0,SD,PENALTY
+20,3674,0,02:37,Timeout #1 by DAL at 02:37.,0,4,5,,0,,TIMEOUT
+20,3653,1,02:42,"(2:42) (Shotgun) R.Mathews up the middle to SD 25 for 5 yards (S.Lee, B.Carter).",10,4,5,SD 20,0,SD,
+21,3951,1,00:34,(:34) (Shotgun) T.Romo pass short middle to D.Bryant to DAL 41 for 12 yards (R.Marshall).,10,4,33,DAL 29,0,DAL,
+21,3898,1,01:02,(1:02) (Shotgun) T.Romo pass short left to J.Witten pushed ob at DAL 15 for 7 yards (R.Marshall).,10,4,7,DAL 8,0,DAL,
+21,3975,1,00:09,"(:09) (Shotgun) T.Romo pass short middle to D.Murray to DAL 46 for 5 yards (J.Wynn). FUMBLES (J.Wynn), recovered by DAL-T.Romo at DAL 40. T.Romo to DAL 40 for no gain (R.Marshall).",10,4,32,DAL 41,0,DAL,FUMBLE
+21,3927,2,00:56,(:56) (Shotgun) T.Romo pass short left to T.Williams to DAL 29 for 14 yards (R.Walker).,3,4,21,DAL 15,0,DAL,
+21,4015,0,00:00,END GAME,0,4,32,,0,,
+1,54,1,15:00,(15:00) D.Murray left end to DAL 30 for 10 yards (M.Te'o).,10,1,10,DAL 20,0,DAL,
+1,36,0,15:00,"N.Novak kicks 74 yards from SD 35 to DAL -9. D.Harris, Touchback.",0,1,0,SD 35,0,SD,KICKOFF
+1,75,1,14:26,(14:26) T.Romo sacked at DAL 26 for -4 yards (K.Reyes).,10,1,6,DAL 30,0,DAL,
+1,116,3,13:39,(13:39) (Shotgun) T.Romo pass incomplete short left to D.Harris.,14,1,6,DAL 26,0,DAL,
+1,138,4,13:30,"(13:30) C.Jones punts 33 yards to SD 41, Center-L.Ladouceur, downed by DAL-B.Webb.",14,1,6,DAL 26,0,DAL,PUNT
+1,94,2,13:45,(13:45) T.Romo pass incomplete deep right to D.Bryant.,14,1,6,DAL 26,0,DAL,
+3,312,4,10:19,"(10:19) C.Jones punts 51 yards to SD 23, Center-L.Ladouceur. E.Royal to SD 35 for 12 yards (E.Jones).",2,1,8,DAL 26,0,DAL,PUNT
+3,269,2,11:11,(11:11) D.Murray left end to DAL 26 for 3 yards (C.Liuget).,5,1,8,DAL 23,0,DAL,
+3,248,1,11:45,"(11:45) D.Murray left tackle to DAL 23 for 5 yards (D.Butler, J.Johnson).",10,1,5,DAL 18,0,DAL,
+3,290,3,10:24,(10:24) (Shotgun) T.Romo pass incomplete short left to D.Bryant (D.Cox).,2,1,8,DAL 26,0,DAL,
+2,158,1,13:20,(13:20) P.Rivers pass incomplete deep right to V.Brown (B.Carr).,10,1,0,SD 41,0,SD,
+2,180,2,13:12,(13:12) (Shotgun) P.Rivers pass short left to K.Allen to SD 46 for 5 yards (B.Church).,10,1,5,SD 41,0,SD,
+2,204,3,12:29,(12:29) (Shotgun) P.Rivers pass short middle to V.Brown to 50 for 4 yards (O.Scandrick).,5,1,9,SD 46,0,SD,
+2,228,4,11:57,"(11:57) M.Scifres punts 32 yards to DAL 18, Center-M.Windt, downed by SD-L.English.",1,1,9,50,0,SD,PUNT
+5,506,1,07:05,(7:05) T.Romo pass incomplete short left to T.Williams.,10,1,0,DAL 20,0,DAL,
+5,571,4,05:53,"(5:53) C.Jones punts 46 yards to SD 35, Center-L.Ladouceur, fair catch by E.Royal.",11,1,-1,DAL 19,0,DAL,PUNT
+5,552,3,06:19,(6:19) (Shotgun) T.Romo sacked at DAL 19 for -8 yards (C.Liuget).,3,1,-1,DAL 27,0,DAL,
+5,528,2,07:00,(7:00) (Shotgun) T.Romo pass short middle to J.Witten to DAL 27 for 7 yards (E.Weddle).,10,1,7,DAL 20,0,DAL,
+5,488,0,07:05,"N.Novak kicks 74 yards from SD 35 to DAL -9. D.Harris, Touchback.",0,1,0,SD 35,0,SD,KICKOFF
+4,472,0,07:05,"N.Novak extra point is GOOD, Center-M.Windt, Holder-M.Scifres.",0,1,65,DAL 2,1,SD,XP
+4,338,1,10:06,(10:06) R.Mathews left end to SD 37 for 2 yards (S.Lee).,10,1,2,SD 35,0,SD,
+4,451,2,07:12,"(7:12) (Shotgun) P.Rivers pass deep right to D.Woodhead for 26 yards, TOUCHDOWN.",4,1,65,DAL 26,1,SD,TD
+4,380,3,08:46,"(8:46) (Shotgun) PENALTY on SD-J.Troutman, False Start, 5 yards, enforced at SD 42 - No Play.",3,1,2,SD 42,0,SD,PENALTY
+4,403,3,08:23,(8:23) (Shotgun) P.Rivers pass deep left to K.Allen to DAL 32 for 31 yards (S.Lee).,8,1,33,SD 37,0,SD,
+4,427,1,07:53,(7:53) (Shotgun) P.Rivers pass short middle to A.Gates to DAL 26 for 6 yards (S.Lee).,10,1,39,DAL 32,0,SD,
+4,359,2,09:27,"(9:27) (Shotgun) L.McClain up the middle to SD 42 for 5 yards (N.Hayden, J.Durant).",8,1,7,SD 37,0,SD,
+7,787,1,00:57,"(:57) T.Romo pass short left to T.Williams to DAL 36 for 10 yards (D.Cox, M.Gilchrist).",10,1,21,DAL 26,0,DAL,
+7,851,1,15:00,(15:00) (Shotgun) T.Romo pass short right to D.Harris to SD 41 for 13 yards (R.Marshall).,10,2,44,DAL 46,0,DAL,
+7,763,2,01:31,(1:31) (Shotgun) T.Romo pass short middle to C.Beasley to DAL 26 for 5 yards (M.Te'o).,4,1,11,DAL 21,0,DAL,
+7,875,1,14:33,"(14:33) (Shotgun) D.Murray right tackle to SD 39 for 2 yards (S.Lissemore). PENALTY on SD-D.Butler, Face Mask (15 Yards), 15 yards, enforced at SD 39.",10,2,61,SD 41,0,DAL,PENALTY
+7,952,2,13:15,"(13:15) T.Romo pass short right to D.Bryant for 5 yards, TOUCHDOWN.",4,2,85,SD 5,1,DAL,TD
+7,972,0,13:10,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,2,85,SD 2,1,DAL,XP
+7,739,1,02:08,(2:08) D.Murray left tackle to DAL 21 for 6 yards (J.Patrick). SD-J.Patrick was injured during the play.,10,1,6,DAL 15,0,DAL,
+7,811,1,00:16,(:16) (Shotgun) T.Romo pass short right to T.Williams to DAL 46 for 10 yards (R.Marshall).,10,1,31,DAL 36,0,DAL,
+7,931,1,13:58,"(13:58) D.Murray left tackle to SD 5 for 6 yards (D.Butler, M.Gilchrist).",10,2,80,SD 11,0,DAL,
+7,907,1,14:05,(14:05) (Shotgun) T.Romo pass short left to T.Williams ran ob at SD 11 for 13 yards.,10,2,74,SD 24,0,DAL,
+6,590,1,05:45,(5:45) R.Mathews right tackle to SD 37 for 2 yards (N.Hayden).,10,1,16,SD 35,0,SD,
+6,632,3,04:22,"(4:22) L.McClain up the middle to 50 for 6 yards (N.Hayden, S.Lee).",1,1,16,SD 44,0,SD,
+6,674,2,03:03,(3:03) (Shotgun) P.Rivers pass short left to A.Gates to DAL 49 for no gain (B.Church).,9,1,16,DAL 49,0,SD,
+6,698,3,02:21,(2:21) (Shotgun) P.Rivers pass incomplete (J.Hatcher).,9,1,16,DAL 49,0,SD,
+6,611,2,05:05,(5:05) (Shotgun) R.Mathews left end to SD 44 for 7 yards (B.Carter).,8,1,9,SD 37,0,SD,
+6,653,1,03:44,"(3:44) R.Mathews up the middle to DAL 49 for 1 yard (S.Lee, B.Carter).",10,1,16,50,0,SD,
+6,720,4,02:14,"(2:14) M.Scifres punts 34 yards to DAL 15, Center-M.Windt, fair catch by D.Harris.",9,1,16,DAL 49,0,SD,PUNT
+9,1190,1,09:02,"(9:02) D.Murray left end to SD 42 for no gain (M.Gilchrist). Penalty on DAL-D.Free, Illegal Shift, declined.",10,2,0,SD 42,0,DAL,
+9,1268,4,07:43,"(7:43) D.Bailey 56 yard field goal is No Good, Wide Left, Center-L.Ladouceur, Holder-C.Jones.",6,2,4,SD 38,0,DAL,FGM
+9,1222,2,08:32,(8:32) (Shotgun) T.Romo pass short left to D.Murray to SD 38 for 4 yards (D.Cox).,10,2,4,SD 42,0,DAL,
+9,1246,3,07:48,(7:48) (Shotgun) T.Romo pass incomplete short left to J.Witten (E.Weddle).,6,2,4,SD 38,0,DAL,
+8,1164,4,09:18,"(9:18) M.Scifres punts 42 yards to DAL 20, Center-M.Windt. D.Harris pushed ob at SD 42 for 38 yards (M.Scifres).",14,2,18,SD 38,0,SD,PUNT
+8,1143,3,09:45,"(9:45) (Shotgun) R.Brown up the middle to SD 38 for 7 yards (G.Selvie, S.Lee).",21,2,18,SD 31,0,SD,
+8,988,0,13:10,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback.",0,2,0,DAL 35,0,DAL,KICKOFF
+8,1054,2,12:06,(12:06) R.Mathews up the middle to SD 42 for 6 yards (B.Carter).,5,2,22,SD 36,0,SD,
+8,1075,1,11:26,"(11:26) R.Mathews right end to SD 38 for -4 yards (J.Hatcher, W.Allen).",10,2,18,SD 42,0,SD,
+8,1027,1,12:34,(12:34) (Shotgun) P.Rivers pass to A.Gates to SD 36 for 5 yards (O.Scandrick). DAL-O.Scandrick was injured during the play.,10,2,16,SD 31,0,SD,
+8,1096,2,10:45,"(10:45) (Shotgun) PENALTY on SD-M.Harris, False Start, 5 yards, enforced at SD 38 - No Play.",14,2,13,SD 38,0,SD,PENALTY
+8,1119,2,10:23,(10:23) (Shotgun) P.Rivers pass short right to D.Woodhead to SD 31 for -2 yards (S.Lee).,19,2,11,SD 33,0,SD,
+8,1003,1,13:10,"(13:10) P.Rivers pass short left to R.Mathews pushed ob at SD 31 for 11 yards (S.Lee, O.Scandrick).",10,2,11,SD 20,0,SD,
+11,1552,2,02:44,"(2:44) T.Romo pass short middle to D.Bryant for 34 yards, TOUCHDOWN.",3,2,72,SD 34,1,DAL,TD
+11,1425,0,05:11,"N.Novak kicks 70 yards from SD 35 to DAL -5. D.Harris to DAL 28 for 33 yards (E.Weddle, B.Bird).",0,2,0,SD 35,0,SD,KICKOFF
+11,1496,2,03:52,(3:52) D.Murray up the middle to SD 41 for 14 yards (J.Patrick). SD-D.Freeney was injured during the play.,7,2,31,DAL 45,0,DAL,
+11,1447,1,05:05,(5:05) T.Romo pass short right to D.Bryant to DAL 42 for 14 yards (M.Te'o).,10,2,14,DAL 28,0,DAL,
+11,1531,1,03:25,(3:25) (Shotgun) L.Dunbar right end to SD 34 for 7 yards (D.Butler).,10,2,38,SD 41,0,DAL,
+11,1475,1,04:31,"(4:31) D.Murray right end to DAL 45 for 3 yards (C.Thomas, R.Marshall).",10,2,17,DAL 42,0,DAL,
+11,1573,0,02:36,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,2,72,SD 2,1,DAL,XP
+10,1312,1,07:26,(7:26) (Shotgun) P.Rivers pass short left to K.Allen to DAL 25 for 15 yards (M.Claiborne).,10,2,29,DAL 40,0,SD,
+10,1336,1,06:59,(6:59) (Shotgun) R.Mathews left end to DAL 20 for 5 yards (B.Carter).,10,2,34,DAL 25,0,SD,
+10,1357,2,06:33,(6:33) (Shotgun) R.Mathews left end to DAL 19 for 1 yard (B.Carter).,5,2,35,DAL 20,0,SD,
+10,1288,1,07:38,(7:38) (Shotgun) P.Rivers pass short left to R.Mathews pushed ob at DAL 40 for 14 yards (M.Claiborne).,10,2,14,SD 46,0,SD,
+10,1402,4,05:16,"(5:16) N.Novak 36 yard field goal is GOOD, Center-M.Windt, Holder-M.Scifres.",3,2,36,DAL 18,1,SD,FG
+10,1378,3,05:51,(5:51) (Shotgun) P.Rivers pass short middle to V.Brown to DAL 18 for 1 yard (E.Sims).,4,2,36,DAL 19,0,SD,
+13,1991,0,00:02,Timeout #2 by SD at 00:02.,0,2,66,,0,,TIMEOUT
+13,1805,1,01:13,(1:13) (Shotgun) P.Rivers pass short middle to A.Gates to SD 19 for 9 yards (S.Lee).,10,2,9,SD 10,0,SD,
+13,1967,3,00:26,"(:26) (Shotgun) P.Rivers pass short middle to J.Phillips to DAL 24 for 7 yards (B.Carr, B.Carter).",10,2,66,DAL 31,0,SD,
+13,1829,2,00:54,(:54) (Shotgun) P.Rivers pass to A.Gates to SD 27 for 8 yards (S.Lee).,1,2,17,SD 19,0,SD,
+13,1772,0,01:19,"D.Bailey kicks 63 yards from DAL 35 to SD 2. D.Woodhead to SD 20 for 18 yards (J.Randle). PENALTY on SD-R.Walker, Offensive Holding, 10 yards, enforced at SD 20.",0,2,0,DAL 35,0,DAL,KICKOFF
+13,1853,0,00:49,Timeout #1 by SD at 00:49.,0,2,17,,0,,TIMEOUT
+13,1945,2,00:32,(:32) (Shotgun) P.Rivers pass incomplete deep left to V.Brown.,10,2,59,DAL 31,0,SD,
+13,1923,1,00:35,(:35) (Shotgun) P.Rivers pass incomplete short left to D.Woodhead.,10,2,59,DAL 31,0,SD,
+13,1899,1,00:41,(:41) (Shotgun) P.Rivers pass short left to A.Gates pushed ob at DAL 31 for 14 yards (M.Claiborne).,10,2,59,DAL 45,0,SD,
+13,1870,1,00:49,(:49) (Shotgun) P.Rivers pass deep left to E.Royal pushed ob at DAL 45 for 28 yards (M.Claiborne).,10,2,45,SD 27,0,SD,
+13,2008,4,00:02,"(:02) N.Novak 42 yard field goal is GOOD, Center-M.Windt, Holder-M.Scifres.",3,2,66,DAL 24,1,SD,FG
+12,1631,1,02:19,(2:19) (Shotgun) P.Rivers sacked at SD 23 for -7 yards (G.Selvie).,10,2,3,SD 30,0,SD,
+12,1589,0,02:36,"D.Bailey kicks 73 yards from DAL 35 to SD -8. D.Woodhead, Touchback.",0,2,0,DAL 35,0,DAL,KICKOFF
+12,1715,2,01:32,"(1:32) (Shotgun) P.Rivers pass short middle INTERCEPTED by S.Lee (J.Hatcher) at DAL 48. S.Lee for 52 yards, TOUCHDOWN. SD-D.Fluker was injured during the play.",3,2,29,SD 49,1,SD,TD
+12,1607,1,02:36,(2:36) (Shotgun) P.Rivers pass short right to D.Woodhead to SD 30 for 10 yards (B.Church).,10,2,10,SD 20,0,SD,
+12,1691,1,01:54,(1:54) (Shotgun) P.Rivers pass short middle to D.Woodhead to SD 49 for 7 yards (B.Church).,10,2,29,SD 42,0,SD,
+12,1667,2,02:00,(2:00) (Shotgun) P.Rivers pass short right to V.Brown pushed ob at SD 42 for 19 yards (B.Carr).,17,2,22,SD 23,0,SD,
+15,2330,1,09:32,"(9:32) (Shotgun) D.Murray right tackle to DAL 23 for 3 yards (K.Reyes, E.Weddle).",10,3,3,DAL 20,0,DAL,
+15,2465,1,07:13,"(7:13) D.Murray left end to 50 for -1 yards (C.Liuget, J.Johnson).",10,3,30,SD 49,0,DAL,
+15,2433,1,07:38,"(7:38) D.Murray up the middle to DAL 36 for 4 yards (M.Gilchrist, C.Liuget). PENALTY on SD-D.Butler, Unnecessary Roughness, 15 yards, enforced at DAL 36.",10,3,31,DAL 32,0,DAL,PENALTY
+15,2315,0,09:32,"N.Novak kicks 65 yards from SD 35 to end zone, Touchback.",0,3,0,SD 35,0,SD,KICKOFF
+15,2486,2,06:28,(6:28) (Shotgun) T.Romo pass incomplete short right to J.Witten (K.Reyes).,11,3,30,50,0,DAL,
+15,2508,3,06:24,(6:24) (Shotgun) T.Romo pass incomplete short left to D.Bryant.,11,3,30,50,0,DAL,
+15,2374,2,08:24,"(8:24) (Shotgun) T.Romo pass short right to D.Murray to DAL 27 for 9 yards (D.Butler, C.Liuget).",12,3,7,DAL 18,0,DAL,
+15,2530,4,06:18,"(6:18) C.Jones punts 29 yards to SD 21, Center-L.Ladouceur, fair catch by E.Royal. PENALTY on SD-J.Johnson, Offensive Holding, 10 yards, enforced at SD 21.",11,3,30,50,0,DAL,PUNT
+15,2351,2,08:50,"(8:50) (Shotgun) PENALTY on DAL-C.Beasley, False Start, 5 yards, enforced at DAL 23 - No Play.",7,3,-2,DAL 23,0,DAL,PENALTY
+15,2398,3,08:00,"(8:00) T.Romo pass short middle to C.Beasley to DAL 32 for 5 yards (R.Walker). Penalty on SD, Defensive 12 On-field, declined.",3,3,12,DAL 27,0,DAL,
+14,2212,1,11:22,(11:22) (Shotgun) P.Rivers pass deep left to A.Gates to DAL 25 for 26 yards (M.Claiborne).,10,3,55,SD 49,0,SD,
+14,2299,0,09:32,"N.Novak extra point is GOOD, Center-M.Windt, Holder-M.Scifres.",0,3,80,DAL 2,1,SD,XP
+14,2042,0,15:00,"D.Bailey kicks 70 yards from DAL 35 to SD -5. D.Woodhead, Touchback.",0,3,0,DAL 35,0,DAL,KICKOFF
+14,2081,2,14:30,(14:30) (Shotgun) P.Rivers pass short right to V.Brown to SD 23 for 2 yards (S.Lee).,9,3,3,SD 21,0,SD,
+14,2278,1,09:39,"(9:39) (Shotgun) P.Rivers pass short left to D.Woodhead for 13 yards, TOUCHDOWN.",10,3,80,DAL 13,1,SD,TD
+14,2236,1,10:43,(10:43) (Shotgun) D.Woodhead up the middle to DAL 16 for 9 yards (B.Church).,10,3,64,DAL 25,0,SD,
+14,2257,2,10:19,"(10:19) (Shotgun) D.Woodhead up the middle to DAL 13 for 3 yards (S.Lee, J.Hatcher).",1,3,67,DAL 16,0,SD,
+14,2140,1,13:14,"(13:14) (Shotgun) P.Rivers pass short left to E.Royal to SD 37 for 2 yards (G.Selvie, N.Hayden).",10,3,17,SD 35,0,SD,
+14,2060,1,15:00,(15:00) (Shotgun) R.Mathews up the middle to SD 21 for 1 yard (D.Ware).,10,3,1,SD 20,0,SD,
+14,2164,2,12:37,(12:37) (Shotgun) P.Rivers pass short middle to A.Gates to SD 44 for 7 yards (B.Carter).,8,3,24,SD 37,0,SD,
+14,2188,3,11:54,(11:54) (Shotgun) P.Rivers pass short left to A.Gates to SD 49 for 5 yards (B.Church).,1,3,29,SD 44,0,SD,
+14,2105,3,13:47,"(13:47) (Shotgun) P.Rivers pass short left to V.Brown to SD 35 for 12 yards (O.Scandrick, M.Claiborne). Penalty on DAL-N.Hayden, Defensive Offside, declined.",7,3,15,SD 23,0,SD,
+17,2967,1,13:25,"(13:25) D.Murray left guard to DAL 44 for 6 yards (D.Butler, R.Walker).",10,4,21,DAL 38,0,DAL,
+17,2900,0,14:46,"N.Novak kicks 70 yards from SD 35 to DAL -5. D.Harris to DAL 23 for 28 yards (S.Ajirotutu, D.Stuckey).",0,4,0,SD 35,0,SD,KICKOFF
+17,3117,4,10:10,"(10:10) C.Jones punts 44 yards to end zone, Center-L.Ladouceur, Touchback.",8,4,33,SD 44,0,DAL,PUNT
+17,3012,1,12:11,(12:11) T.Romo pass short right to D.Bryant to SD 40 for 6 yards (J.Patrick).,10,4,37,SD 46,0,DAL,
+17,3036,2,11:30,"(11:30) (Shotgun) T.Romo pass short middle to C.Beasley to SD 34 for 6 yards (M.Gilchrist). PENALTY on DAL-R.Leary, Offensive Holding, 10 yards, enforced at SD 40 - No Play.",4,4,27,SD 40,0,DAL,PENALTY
+17,2922,1,14:41,"(14:41) D.Murray up the middle to DAL 32 for 9 yards (R.Walker, J.Johnson).",10,4,9,DAL 23,0,DAL,
+17,3071,2,10:58,(10:58) (Shotgun) T.Romo pass short left to C.Beasley to SD 44 for 6 yards (R.Marshall).,14,4,33,50,0,DAL,
+17,2988,2,12:44,(12:44) T.Romo pass short right to D.Bryant to SD 46 for 10 yards (J.Patrick).,4,4,31,DAL 44,0,DAL,
+17,3095,3,10:18,(10:18) (Shotgun) T.Romo pass incomplete deep middle to J.Witten (E.Weddle).,8,4,33,SD 44,0,DAL,
+17,2943,2,14:03,(14:03) T.Romo pass short right to D.Murray to DAL 38 for 6 yards (E.Weddle).,1,4,15,DAL 32,0,DAL,
+16,2719,1,01:51,(1:51) (Shotgun) D.Woodhead up the middle to DAL 11 for 14 yards (S.Lee).,10,3,78,DAL 25,0,SD,
+16,2605,2,05:06,"(5:06) (Shotgun) P.Rivers pass short left to R.Mathews to SD 44 for 7 yards (O.Scandrick, S.Lee).",3,3,33,SD 37,0,SD,
+16,2629,1,04:32,"(4:32) (Shotgun) R.Mathews left guard to SD 49 for 5 yards (D.Nevis, K.Wilber).",10,3,38,SD 44,0,SD,
+16,2560,1,06:09,(6:09) (Shotgun) P.Rivers pass deep left to K.Allen ran ob at SD 30 for 19 yards.,10,3,19,SD 11,0,SD,
+16,2856,3,14:54,(14:54) (Shotgun) P.Rivers pass incomplete short right to D.Woodhead (G.Selvie).,5,4,84,DAL 5,0,SD,
+16,2650,2,03:48,(3:48) (Shotgun) P.Rivers pass short left to K.Allen to DAL 41 for 10 yards (M.Claiborne).,5,3,48,SD 49,0,SD,
+16,2818,0,,END QUARTER 3,0,3,84,,0,,
+16,2878,4,14:50,"(14:50) N.Novak 23 yard field goal is GOOD, Center-M.Windt, Holder-M.Scifres.",5,4,84,DAL 5,1,SD,FG
+16,2764,2,00:31,"(:31) (Shotgun) P.Rivers pass incomplete short middle to V.Brown (O.Scandrick). PENALTY on DAL-O.Scandrick, Defensive Pass Interference, 3 yards, enforced at DAL 10 - No Play.",9,3,82,DAL 10,0,SD,PENALTY
+16,2740,1,01:13,(1:13) (Shotgun) P.Rivers pass short right to V.Brown to DAL 10 for 1 yard (G.Selvie).,10,3,79,DAL 11,0,SD,
+16,2584,1,05:41,(5:41) (Shotgun) R.Mathews left end to SD 37 for 7 yards (E.Sims).,10,3,26,SD 30,0,SD,
+16,2674,1,03:13,"(3:13) (Shotgun) D.Woodhead up the middle to DAL 37 for 4 yards (J.Hatcher, J.Wilcox).",10,3,52,DAL 41,0,SD,
+16,2695,2,02:32,"(2:32) (Shotgun) P.Rivers pass short left to E.Royal to DAL 25 for 12 yards (E.Sims, N.Hayden).",6,3,64,DAL 37,0,SD,
+16,2834,2,15:00,(15:00) (Shotgun) P.Rivers pass incomplete short right to K.Allen.,5,4,84,DAL 5,0,SD,
+16,2797,1,00:26,(:26) (Shotgun) D.Woodhead right guard to DAL 5 for 2 yards (S.Lee).,7,3,84,DAL 7,0,SD,
+19,3557,3,03:20,(3:20) (Shotgun) T.Romo scrambles up the middle to SD 7 for 15 yards (E.Weddle).,8,4,72,SD 22,0,DAL,
+19,3387,1,05:40,(5:40) (Shotgun) T.Romo pass short middle to J.Witten to DAL 40 for 11 yards (D.Butler).,20,4,19,DAL 29,0,DAL,
+19,3600,0,02:50,Timeout #1 by SD at 02:50.,0,4,72,,0,,TIMEOUT
+19,3463,2,04:40,(4:40) (Shotgun) T.Romo pass short middle to J.Witten to SD 34 for 8 yards (E.Weddle).,17,4,45,SD 42,0,DAL,
+19,3578,1,02:57,(2:57) T.Romo pass incomplete short right to J.Witten (M.Gilchrist).,7,4,72,SD 7,0,DAL,
+19,3617,2,02:50,"(2:50) (Shotgun) T.Romo pass short middle to T.Williams to SD 1 for 6 yards (C.Butler; E.Weddle). FUMBLES (C.Butler), RECOVERED by SD-R.Marshall at SD 0. Touchback. The Replay Assistant challenged the fumble ruling, and the play was Upheld.",7,4,78,SD 7,0,DAL,FUMBLE
+19,3444,1,05:09,(5:09) (Shotgun) T.Romo sacked at SD 42 for -7 yards (J.Johnson).,10,4,37,SD 35,0,DAL,
+19,3511,1,03:49,(3:49) (Shotgun) T.Romo pass short middle to D.Murray to SD 22 for 2 yards (D.Butler).,10,4,57,SD 24,0,DAL,
+19,3352,1,05:59,"(5:59) (Shotgun) T.Romo pass short middle to D.Murray to DAL 40 for 1 yard (D.Butler, M.Gilchrist). PENALTY on DAL-J.Parnell, Offensive Holding, 10 yards, enforced at DAL 39 - No Play.",10,4,8,DAL 39,0,DAL,PENALTY
+19,3487,3,04:14,(4:14) (Shotgun) T.Romo pass short middle to J.Witten to SD 24 for 10 yards (D.Butler).,9,4,55,SD 34,0,DAL,
+19,3535,2,03:25,(3:25) (Shotgun) T.Romo pass incomplete deep middle to J.Witten.,8,4,57,SD 22,0,DAL,
+19,3411,2,05:14,"(5:14) (Shotgun) T.Romo pass incomplete deep middle to J.Witten. PENALTY on SD-D.Butler, Defensive Pass Interference, 25 yards, enforced at DAL 40 - No Play.",9,4,44,DAL 40,0,DAL,PENALTY
+19,3328,2,06:18,(6:18) (Shotgun) T.Romo pass short right to T.Williams to DAL 39 for 9 yards (J.Patrick).,1,4,18,DAL 30,0,DAL,
+19,3304,1,06:49,(6:49) (Shotgun) T.Romo pass short left to T.Williams to DAL 30 for 9 yards (R.Marshall).,10,4,9,DAL 21,0,DAL,
+19,3282,0,06:54,N.Novak kicks 68 yards from SD 35 to DAL -3. D.Harris to DAL 21 for 24 yards (L.Green).,0,4,0,SD 35,0,SD,KICKOFF
+18,3200,2,08:30,(8:30) (Shotgun) R.Mathews right tackle to SD 42 for 5 yards (S.Lee).,6,4,22,SD 37,0,SD,
+18,3221,3,07:44,(7:44) (Shotgun) P.Rivers pass short right to V.Brown to SD 44 for 2 yards (E.Sims).,1,4,24,SD 42,0,SD,
+18,3245,1,07:02,"(7:02) (Shotgun) P.Rivers pass deep middle to A.Gates for 56 yards, TOUCHDOWN.",10,4,80,SD 44,1,SD,TD
+18,3179,1,09:02,(9:02) (Shotgun) R.Mathews left guard to SD 37 for 4 yards (J.Hatcher).,10,4,17,SD 33,0,SD,
+18,3134,1,10:02,"(10:02) (Shotgun) P.Rivers pass short left to R.Mathews to SD 29 for 9 yards (E.Sims, D.Ware).",10,4,9,SD 20,0,SD,
+18,3266,0,06:54,"N.Novak extra point is GOOD, Center-M.Windt, Holder-M.Scifres.",0,4,80,DAL 2,1,SD,XP
+18,3158,2,09:37,(9:37) (Shotgun) R.Mathews up the middle to SD 33 for 4 yards (B.Church).,1,4,13,SD 29,0,SD,

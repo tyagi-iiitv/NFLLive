@@ -1,169 +1,169 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1781,1,00:24,,10,2,77,NO 23,1,DAL,TD
-9,1634,3,01:22,,1,2,33,NO 46,0,DAL,
-9,1740,0,00:30,,0,2,43,,0,,TIMEOUT
-9,1566,0,02:00,,0,2,22,,0,,
-9,1802,0,00:19,,0,2,77,NO 2,1,DAL,XP
-9,1608,2,01:27,,1,2,31,NO 46,0,DAL,
-9,1716,2,00:36,,10,2,43,NO 44,0,DAL,
-9,1584,1,02:00,,10,2,31,DAL 45,0,DAL,
-9,1545,1,02:34,,10,2,22,DAL 23,0,DAL,
-9,1757,1,00:30,,10,2,54,NO 34,0,DAL,
-9,1681,2,00:45,,10,2,33,NO 44,0,DAL,PENALTY
-9,1655,1,00:49,,10,2,43,NO 44,0,DAL,
-10,1818,0,00:19,,0,2,8,DAL 35,0,DAL,KICKOFF
-10,1837,1,00:19,,10,2,8,NO 20,0,NO,
-10,1858,0,,,0,2,8,,0,,
-20,3595,1,04:35,,10,4,16,NO 22,0,DAL,
-20,3655,3,03:41,,1,4,21,NO 13,0,DAL,PENALTY
-20,3567,3,05:24,,9,4,17,NO 38,0,DAL,
-20,3634,2,04:31,,11,4,26,NO 23,0,DAL,
-20,3616,0,04:31,,0,4,16,,0,,TIMEOUT
-20,3678,3,03:40,,6,4,39,NO 18,1,DAL,TD
-20,3524,0,06:07,,0,4,3,,0,,TIMEOUT
-20,3546,2,06:07,,7,4,1,NO 36,0,DAL,
-20,3503,1,06:47,,10,4,3,NO 39,0,DAL,
-20,3699,0,03:34,,0,4,39,NO 2,1,DAL,XP
-6,1297,0,05:38,,0,2,0,DAL 35,0,DAL,KICKOFF
-6,1320,1,05:38,,10,2,8,NO 20,0,NO,
-6,1344,2,05:04,,2,2,8,NO 28,0,NO,INT
-18,3267,1,09:49,,10,4,5,DAL 20,0,DAL,
-18,3327,3,08:56,,6,4,-3,DAL 24,0,DAL,
-18,3346,4,08:14,,13,4,-3,DAL 17,0,DAL,PUNT
-18,3248,0,09:49,,0,4,0,NO 35,0,NO,KICKOFF
-18,3288,2,09:03,,5,4,4,DAL 25,0,DAL,
-18,3309,0,08:56,,0,4,4,,0,,TIMEOUT
-1,100,1,13:55,,10,1,17,DAL 36,0,DAL,
-1,76,2,14:27,,9,1,16,DAL 21,0,DAL,
-1,306,1,08:36,,5,1,74,NO 5,0,DAL,
-1,55,1,15:00,,10,1,1,DAL 20,0,DAL,
-1,257,1,10:05,,10,1,64,NO 24,0,DAL,
-1,121,2,13:15,,9,1,23,DAL 37,0,DAL,
-1,352,0,07:50,,0,1,80,NO 2,1,DAL,XP
-1,208,2,11:36,,4,1,47,NO 35,0,DAL,
-1,145,3,12:34,,3,1,39,DAL 43,0,DAL,
-1,229,3,10:50,,2,1,56,NO 33,0,DAL,
-1,180,1,12:05,,10,1,45,NO 41,0,DAL,
-1,327,2,07:57,,6,1,80,NO 6,1,DAL,TD
-1,285,2,09:22,,2,1,75,NO 16,0,DAL,
-1,36,0,15:00,,0,1,75,NO 35,0,NO,KICKOFF
-5,1251,3,05:50,,5,2,36,NO 33,0,DAL,
-5,1181,2,07:54,,8,2,31,DAL 45,0,DAL,
-5,1160,1,08:32,,10,2,14,DAL 43,0,DAL,
-5,1277,4,05:43,,5,2,36,NO 33,1,DAL,FG
-5,1209,1,07:17,,10,2,32,NO 38,0,DAL,
-5,1230,2,06:32,,9,2,36,NO 37,0,DAL,
-5,1132,1,09:07,,10,2,12,DAL 31,0,DAL,
-13,2470,1,05:39,,10,3,19,NO 39,0,NO,
-13,2418,1,06:42,,10,3,9,NO 20,0,NO,
-13,2496,2,05:32,,10,3,27,NO 39,0,NO,
-13,2446,2,06:11,,1,3,19,NO 29,0,NO,
-13,2527,3,05:04,,2,3,27,NO 47,0,NO,
-13,2655,1,03:14,,10,3,53,DAL 29,0,NO,
-13,2400,0,06:42,,0,3,19,DAL 35,0,DAL,KICKOFF
-13,2679,2,02:45,,8,3,69,DAL 27,0,NO,FUMBLE
-13,2610,2,04:15,,10,3,40,DAL 49,0,NO,
-13,2584,1,04:21,,10,3,31,DAL 49,0,NO,
-13,2560,4,04:58,,2,3,31,NO 47,0,NO,
-13,2634,3,03:36,,1,3,51,DAL 40,0,NO,
-21,3759,2,03:15,,5,4,9,NO 25,0,NO,
-21,3733,1,03:33,,10,4,15,NO 20,0,NO,
-21,3855,1,02:27,,10,4,28,DAL 48,0,NO,
-21,3892,2,02:00,,14,4,35,NO 48,0,NO,FUMBLE
-21,3783,1,02:56,,10,4,9,NO 34,0,NO,PENALTY
-21,3874,0,02:00,,0,4,28,,0,,
-21,3715,0,03:34,,0,4,14,DAL 35,0,DAL,KICKOFF
-21,3831,2,02:27,,9,4,28,NO 35,0,NO,
-21,3807,1,02:54,,15,4,15,NO 29,0,NO,
-11,1893,1,15:00,,10,3,10,NO 20,0,NO,
-11,2154,4,11:14,,10,3,68,DAL 12,1,NO,FG
-11,2089,1,11:54,,10,3,68,DAL 12,0,NO,
-11,1968,2,13:41,,10,3,0,NO 30,0,NO,PENALTY
-11,1874,0,15:00,,0,3,0,DAL 35,0,DAL,KICKOFF
-11,1914,2,14:26,,9,3,10,NO 21,0,NO,
-11,2111,2,11:49,,10,3,68,DAL 12,0,NO,
-11,2004,2,13:24,,20,3,6,NO 20,0,NO,
-11,2061,1,12:12,,10,3,68,NO 42,0,NO,
-11,2028,3,12:43,,14,3,22,NO 26,0,NO,
-11,1942,1,13:46,,10,3,10,NO 30,0,NO,
-11,2132,3,11:20,,10,3,68,DAL 12,0,NO,
-14,2871,3,14:52,,17,4,20,DAL 34,0,DAL,
-14,2775,1,00:57,,10,3,21,DAL 41,0,DAL,
-14,2828,0,,,0,3,11,,0,,
-14,2845,2,15:00,,17,4,11,DAL 34,0,DAL,
-14,2796,2,00:12,,7,3,11,DAL 44,0,DAL,PENALTY
-14,2732,1,02:30,,10,3,4,DAL 23,0,DAL,
-14,2895,4,14:16,,8,4,20,DAL 43,0,DAL,PUNT
-14,2754,2,01:45,,6,3,18,DAL 27,0,DAL,
-8,1525,4,02:43,,2,2,8,NO 28,0,NO,PUNT
-8,1455,1,04:03,,10,2,0,NO 20,0,NO,
-8,1433,0,04:03,,0,2,0,DAL 35,0,DAL,KICKOFF
-8,1479,2,03:26,,10,2,0,NO 20,0,NO,
-8,1501,3,03:21,,10,2,8,NO 20,0,NO,
-19,3397,2,08:03,,10,4,-5,NO 40,0,NO,PENALTY
-19,3420,2,07:56,,15,4,-5,NO 35,0,NO,
-19,3470,4,07:45,,9,4,-1,NO 41,0,NO,
-19,3446,3,07:45,,15,4,1,NO 35,0,NO,
-19,3371,1,08:03,,10,4,0,NO 40,0,NO,
-22,4024,0,00:00,,0,4,-3,,0,,
-22,3916,1,01:53,,10,4,-3,DAL 45,0,DAL,
-22,3982,2,01:53,,11,4,-3,DAL 44,0,DAL,
-22,4003,3,01:53,,12,4,-3,DAL 43,0,DAL,
-12,2174,0,11:10,,0,3,0,NO 35,0,NO,KICKOFF
-12,2272,1,09:42,,10,3,22,DAL 35,0,DAL,
-12,2384,0,06:42,,0,3,76,NO 2,1,DAL,XP
-12,2225,2,10:24,,2,3,76,DAL 32,0,DAL,
-12,2366,1,06:53,,10,3,76,NO 28,1,DAL,TD
-12,2345,3,07:42,,5,3,48,NO 49,0,DAL,
-12,2251,3,10:19,,2,3,11,DAL 32,0,DAL,
-12,2321,2,08:29,,11,3,27,DAL 45,0,DAL,
-12,2204,1,11:04,,10,3,8,DAL 24,0,DAL,
-12,2300,1,08:57,,10,3,21,DAL 46,0,DAL,
-16,3089,4,11:35,,4,4,6,DAL 26,0,DAL,PUNT
-16,3021,1,13:35,,10,4,9,DAL 20,0,DAL,
-16,2994,0,13:35,,0,4,0,NO 35,0,NO,KICKOFF
-16,3068,3,12:08,,6,4,6,DAL 24,0,DAL,
-16,3042,2,12:48,,1,4,4,DAL 29,0,DAL,FUMBLE
-7,1399,1,04:09,,10,2,39,NO 15,1,DAL,TD
-7,1371,1,04:57,,10,2,24,NO 39,0,DAL,
-7,1417,0,04:03,,0,2,39,NO 2,1,DAL,XP
-3,718,1,01:42,,10,1,47,DAL 25,0,DAL,
-3,788,0,,,0,1,48,,0,,
-3,835,3,14:56,,9,2,48,NO 41,0,DAL,
-3,652,1,03:43,,10,1,5,DAL 11,0,DAL,
-3,767,1,00:19,,10,1,48,NO 42,0,DAL,
-3,697,3,02:15,,1,1,14,DAL 20,0,DAL,
-3,865,4,14:50,,9,2,48,NO 41,0,DAL,PUNT
-3,673,2,03:01,,5,1,9,DAL 16,0,DAL,
-3,746,1,01:04,,10,1,48,DAL 41,0,DAL,
-3,805,2,15:00,,9,2,48,NO 41,0,DAL,
-17,3187,2,10:18,,1,4,46,DAL 19,0,NO,
-17,3109,1,11:27,,10,4,0,NO 41,0,NO,
-17,3163,1,10:45,,10,4,40,DAL 28,0,NO,
-17,3232,0,09:49,,0,4,59,DAL 2,1,NO,XP
-17,3135,2,11:20,,10,4,31,NO 41,0,NO,
-17,3211,1,09:56,,10,4,59,DAL 13,1,NO,TD
-4,956,1,12:42,,10,2,35,NO 23,0,NO,
-4,1008,1,11:27,,10,2,57,NO 47,0,NO,
-4,1057,2,10:05,,9,2,58,DAL 30,0,NO,
-4,911,2,14:02,,7,2,9,NO 15,0,NO,
-4,1036,1,10:46,,10,2,58,DAL 31,0,NO,
-4,1111,4,09:13,,2,2,65,DAL 23,0,NO,FGM
-4,890,1,14:44,,10,2,3,NO 12,0,NO,
-4,980,1,12:00,,10,2,35,NO 35,0,NO,
-4,935,3,13:26,,1,2,11,NO 21,0,NO,
-4,1083,3,09:59,,9,2,65,DAL 30,0,NO,
-2,611,3,04:35,,3,1,35,DAL 46,0,NO,
-2,508,2,06:41,,3,1,21,NO 41,0,NO,
-2,536,3,06:04,,3,1,27,NO 41,0,NO,
-2,587,2,05:06,,5,1,34,DAL 48,0,NO,
-2,557,1,05:41,,10,1,32,NO 47,0,NO,
-2,632,4,03:54,,2,1,35,DAL 45,0,NO,PUNT
-2,368,0,07:50,,0,1,0,DAL 35,0,DAL,KICKOFF
-2,480,1,07:08,,10,1,21,NO 34,0,NO,
-2,443,1,07:14,,10,1,14,NO 29,0,NO,PENALTY
-2,386,1,07:50,,10,1,4,NO 20,0,NO,
-2,410,2,07:18,,6,1,21,NO 24,0,NO,PENALTY
-15,2932,1,14:00,,10,4,62,NO 26,0,NO,
-15,2957,1,13:43,,10,4,74,DAL 12,1,NO,TD
-15,2978,0,13:35,,0,4,74,DAL 2,1,NO,XP
+20,3699,0,03:34,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,4,39,NO 2,1,DAL,XP
+20,3546,2,06:07,(6:07) D.Murray left tackle to NO 38 for -2 yards (P.Haralson).,7,4,1,NO 36,0,DAL,
+20,3595,1,04:35,(4:35) D.Murray right guard to NO 23 for -1 yards (A.Hicks).,10,4,16,NO 22,0,DAL,
+20,3616,0,04:31,Timeout #2 by NO at 04:31.,0,4,16,,0,,TIMEOUT
+20,3634,2,04:31,(4:31) D.Murray left end to NO 13 for 10 yards (J.Byrd).,11,4,26,NO 23,0,DAL,
+20,3503,1,06:47,(6:47) D.Murray right end to NO 36 for 3 yards (J.Galette).,10,4,3,NO 39,0,DAL,
+20,3678,3,03:40,"(3:40) (Shotgun) T.Romo pass short left to D.Bryant for 18 yards, TOUCHDOWN.",6,4,39,NO 18,1,DAL,TD
+20,3524,0,06:07,Timeout #1 by DAL at 06:07.,0,4,3,,0,,TIMEOUT
+20,3655,3,03:41,"(3:41) PENALTY on DAL-T.Romo, Delay of Game, 5 yards, enforced at NO 13 - No Play.",1,4,21,NO 13,0,DAL,PENALTY
+20,3567,3,05:24,(5:24) (Shotgun) T.Romo pass short middle to J.Witten to NO 22 for 16 yards (R.Bush). Pass complete on a crossing pattern.,9,4,17,NO 38,0,DAL,
+21,3715,0,03:34,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback.",0,4,14,DAL 35,0,DAL,KICKOFF
+21,3759,2,03:15,"(3:15) (No Huddle, Shotgun) D.Brees pass short right to J.Graham to NO 34 for 9 yards (O.Scandrick).",5,4,9,NO 25,0,NO,
+21,3831,2,02:27,"(2:27) (No Huddle, Shotgun) D.Brees pass short middle to J.Graham to DAL 48 for 17 yards (J.Wilcox).",9,4,28,NO 35,0,NO,
+21,3783,1,02:56,"(2:56) (No Huddle, Shotgun) PENALTY on NO-B.Harris, False Start, 5 yards, enforced at NO 34 - No Play.",10,4,9,NO 34,0,NO,PENALTY
+21,3807,1,02:54,(2:54) (Shotgun) D.Brees pass short right to T.Cadet to NO 35 for 6 yards (J.Durant).,15,4,15,NO 29,0,NO,
+21,3874,0,02:00,Two-Minute Warning,0,4,28,,0,,
+21,3855,1,02:27,"(2:27) (No Huddle, Shotgun) D.Brees sacked at NO 48 for -4 yards (H.Melton).",10,4,28,DAL 48,0,NO,
+21,3892,2,02:00,"(2:00) (Shotgun) D.Brees pass short left to T.Cadet to DAL 44 for 8 yards (J.Durant; J.Crawford). The Replay Official challenged the fumble ruling, and the play was REVERSED. (Shotgun) D.Brees pass short left to T.Cadet to DAL 44 for 8 yards (J.Durant; J.Crawford). FUMBLES (J.Durant), RECOVERED by DAL-S.Moore at DAL 45.",14,4,35,NO 48,0,NO,FUMBLE
+21,3733,1,03:33,(3:33) (Shotgun) D.Brees pass short middle to J.Graham to NO 25 for 5 yards (O.Scandrick).,10,4,15,NO 20,0,NO,
+22,3916,1,01:53,(1:53) T.Romo kneels to DAL 44 for -1 yards.,10,4,-3,DAL 45,0,DAL,
+22,4024,0,00:00,END GAME,0,4,-3,,0,,
+22,4003,3,01:53,(1:53) T.Romo kneels to DAL 42 for -1 yards.,12,4,-3,DAL 43,0,DAL,
+22,3982,2,01:53,(1:53) T.Romo kneels to DAL 43 for -1 yards.,11,4,-3,DAL 44,0,DAL,
+1,145,3,12:34,"(12:34) (Shotgun) T.Romo pass deep middle to J.Witten to NO 41 for 16 yards (K.Vaccaro). Penalty on NO-J.Byrd, Illegal Contact, declined.",3,1,39,DAL 43,0,DAL,
+1,121,2,13:15,(13:15) (Shotgun) T.Romo pass short middle to G.Escobar to DAL 43 for 6 yards (C.Lofton).,9,1,23,DAL 37,0,DAL,
+1,55,1,15:00,(15:00) (Shotgun) D.Murray up the middle to DAL 21 for 1 yard (B.Bunkley).,10,1,1,DAL 20,0,DAL,
+1,208,2,11:36,(11:36) D.Murray left end to NO 33 for 2 yards (C.Lofton).,4,1,47,NO 35,0,DAL,
+1,36,0,15:00,"T.Morstead kicks 65 yards from NO 35 to end zone, Touchback. Ball was kicked out of the end zone.",0,1,75,NO 35,0,NO,KICKOFF
+1,306,1,08:36,(8:36) D.Murray left tackle to NO 6 for -1 yards (A.Hicks).,5,1,74,NO 5,0,DAL,
+1,76,2,14:27,(14:27) T.Romo pass short middle to T.Williams to DAL 36 for 15 yards (C.White).,9,1,16,DAL 21,0,DAL,
+1,180,1,12:05,(12:05) T.Romo pass short right to D.Murray to NO 35 for 6 yards (K.Vaccaro). Pass complete in the flat.,10,1,45,NO 41,0,DAL,
+1,327,2,07:57,"(7:57) T.Romo pass short left to T.Williams for 6 yards, TOUCHDOWN. Pass caught back of end zone in heavy traffic.",6,1,80,NO 6,1,DAL,TD
+1,229,3,10:50,(10:50) (Shotgun) T.Romo pass short left to J.Witten to NO 24 for 9 yards (K.Vaccaro). Pass complete on a 'crossing pattern.,2,1,56,NO 33,0,DAL,
+1,100,1,13:55,(13:55) D.Murray left end to DAL 37 for 1 yard (R.Humber).,10,1,17,DAL 36,0,DAL,
+1,285,2,09:22,(9:22) D.Murray right tackle to NO 5 for 11 yards (R.Humber).,2,1,75,NO 16,0,DAL,
+1,257,1,10:05,(10:05) (Shotgun) T.Romo pass short right to D.Harris to NO 16 for 8 yards (C.White). Pass complete on a curl pattern.,10,1,64,NO 24,0,DAL,
+1,352,0,07:50,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,1,80,NO 2,1,DAL,XP
+3,697,3,02:15,(2:15) D.Murray left end to DAL 25 for 5 yards (P.Haralson; J.Byrd).,1,1,14,DAL 20,0,DAL,
+3,746,1,01:04,(1:04) (Shotgun) D.Murray right guard to NO 42 for 17 yards (R.Bush). Injury update: NO's Armstead is being evaluated for a concussion.,10,1,48,DAL 41,0,DAL,
+3,718,1,01:42,"(1:42) T.Romo pass short right to T.Williams to DAL 41 for 16 yards (K.Vaccaro). Pass complete on a corner curl route. Injury update: Dallas'  Claiborne has a knee injury, return questionable.",10,1,47,DAL 25,0,DAL,
+3,865,4,14:50,"(14:50) (Punt formation) C.Jones punts 29 yards to NO 12, Center-L.Ladouceur, fair catch by J.Byrd.",9,2,48,NO 41,0,DAL,PUNT
+3,835,3,14:56,(14:56) (Shotgun) T.Romo pass incomplete short left to D.Street (J.Byrd). Pass lofted on quick count left sideline.,9,2,48,NO 41,0,DAL,
+3,788,0,,END QUARTER 1,0,1,48,,0,,
+3,767,1,00:19,"(:19) J.Randle left tackle to NO 41 for 1 yard (K.Vaccaro, P.Haralson).",10,1,48,NO 42,0,DAL,
+3,673,2,03:01,(3:01) (Shotgun) T.Romo pass short middle to C.Beasley to DAL 20 for 4 yards (C.Lofton).,5,1,9,DAL 16,0,DAL,
+3,652,1,03:43,(3:43) D.Murray left tackle to DAL 16 for 5 yards (C.Lofton).,10,1,5,DAL 11,0,DAL,
+3,805,2,15:00,(15:00) (Shotgun) T.Romo pass incomplete short left to L.Dunbar. Pass incomplete sideline; Humber closest defender.,9,2,48,NO 41,0,DAL,
+2,587,2,05:06,(5:06) (Shotgun) D.Brees pass short middle to T.Cadet to DAL 46 for 2 yards (J.Mincey).,5,1,34,DAL 48,0,NO,
+2,632,4,03:54,"(3:54) (Punt formation) T.Morstead punts 34 yards to DAL 11, Center-J.Drescher, downed by NO-K.Edebali.",2,1,35,DAL 45,0,NO,PUNT
+2,386,1,07:50,(7:50) K.Robinson left tackle to NO 24 for 4 yards (J.Mincey; T.Crawford).,10,1,4,NO 20,0,NO,
+2,443,1,07:14,"(7:14) (Shotgun) D.Brees pass incomplete short middle to M.Colston. PENALTY on DAL-J.Durant, Illegal Contact, 5 yards, enforced at NO 29 - No Play. Pass incomplete on a crossing pattern.",10,1,14,NO 29,0,NO,PENALTY
+2,557,1,05:41,(5:41) K.Robinson left guard to DAL 48 for 5 yards (J.Durant; B.Carr).,10,1,32,NO 47,0,NO,
+2,611,3,04:35,(4:35) T.Cadet left end to DAL 45 for 1 yard (O.Scandrick).,3,1,35,DAL 46,0,NO,
+2,536,3,06:04,(6:04) (Shotgun) D.Brees scrambles up the middle to NO 47 for 6 yards (J.Wilcox). DAL-M.Claiborne was injured during the play.,3,1,27,NO 41,0,NO,
+2,410,2,07:18,"(7:18) D.Brees pass incomplete deep left to J.Graham. PENALTY on DAL-O.Scandrick, Defensive Holding, 5 yards, enforced at NO 24 - No Play.",6,1,21,NO 24,0,NO,PENALTY
+2,508,2,06:41,(6:41) (Shotgun) D.Brees pass short right to B.Cooks to NO 41 for no gain (B.Carter). Pass complete on a quick out.,3,1,21,NO 41,0,NO,
+2,480,1,07:08,(7:08) (Shotgun) D.Brees pass short left to T.Cadet pushed ob at NO 41 for 7 yards (B.Church). Pass complete on a wheel route.,10,1,21,NO 34,0,NO,
+2,368,0,07:50,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback.",0,1,0,DAL 35,0,DAL,KICKOFF
+5,1209,1,07:17,(7:17) D.Murray left tackle to NO 37 for 1 yard (R.Humber; B.Bunkley).,10,2,32,NO 38,0,DAL,
+5,1132,1,09:07,(9:07) (Shotgun) T.Romo pass short middle to L.Dunbar to DAL 43 for 12 yards (J.Byrd). Pass complete on a slant pattern.,10,2,12,DAL 31,0,DAL,
+5,1181,2,07:54,(7:54) (Shotgun) T.Romo pass deep left to D.Bryant to NO 38 for 17 yards (J.Byrd). Pass complete on a corner route.,8,2,31,DAL 45,0,DAL,
+5,1251,3,05:50,(5:50) (Shotgun) T.Romo pass incomplete deep middle to T.Williams. Pass incomplete on a post pattern.,5,2,36,NO 33,0,DAL,
+5,1230,2,06:32,"(6:32) D.Murray up the middle to NO 33 for 4 yards (C.Jordan, R.Bush).",9,2,36,NO 37,0,DAL,
+5,1160,1,08:32,"(8:32) D.Murray up the middle to DAL 45 for 2 yards (B.Bunkley, C.Lofton).",10,2,14,DAL 43,0,DAL,
+5,1277,4,05:43,"(5:43) (Field Goal formation) D.Bailey 51 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones. 29 field goals in a row by Bailey, a Cowboys' record.",5,2,36,NO 33,1,DAL,FG
+4,890,1,14:44,(14:44) K.Robinson right tackle to NO 15 for 3 yards (R.McClain).,10,2,3,NO 12,0,NO,
+4,1083,3,09:59,(9:59) (Shotgun) D.Brees pass short left to B.Watson to DAL 23 for 7 yards (B.Church). Pass complete on a drag route.,9,2,65,DAL 30,0,NO,
+4,1057,2,10:05,(10:05) D.Brees pass incomplete short right to K.Robinson. Pass thrown in the flat: Carter closest defender.,9,2,58,DAL 30,0,NO,
+4,1036,1,10:46,(10:46) K.Robinson left end to DAL 30 for 1 yard (A.Spencer).,10,2,58,DAL 31,0,NO,
+4,980,1,12:00,(12:00) D.Brees pass short middle to B.Cooks to NO 47 for 12 yards (B.Carr). Pass complete on a skinny post.,10,2,35,NO 35,0,NO,
+4,956,1,12:42,(12:42) D.Brees pass short left to K.Robinson to NO 35 for 12 yards (B.Carter; S.Moore) [T.Crawford].,10,2,35,NO 23,0,NO,
+4,1111,4,09:13,"(9:13) (Field Goal formation) S.Graham 41 yard field goal is No Good, Wide Right, Center-J.Drescher, Holder-L.McCown.",2,2,65,DAL 23,0,NO,FGM
+4,1008,1,11:27,(11:27) (Shotgun) D.Brees pass deep middle to M.Colston to DAL 31 for 22 yards (J.Wilcox). Pass complete on a seam route.,10,2,57,NO 47,0,NO,
+4,911,2,14:02,(14:02) (Shotgun) D.Brees pass short middle to M.Colston to NO 21 for 6 yards (B.Church; O.Scandrick).,7,2,9,NO 15,0,NO,
+4,935,3,13:26,(13:26) A.Johnson up the middle to NO 23 for 2 yards (J.Mincey; N.Hayden).,1,2,11,NO 21,0,NO,
+7,1371,1,04:57,(4:57) T.Romo pass short right to L.Dunbar to NO 15 for 24 yards (R.Humber). Screen pass.,10,2,24,NO 39,0,DAL,
+7,1399,1,04:09,"(4:09) (Shotgun) D.Murray right end for 15 yards, TOUCHDOWN.",10,2,39,NO 15,1,DAL,TD
+7,1417,0,04:03,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,2,39,NO 2,1,DAL,XP
+6,1320,1,05:38,(5:38) (Shotgun) D.Brees pass short left to J.Graham to NO 28 for 8 yards (S.Moore).,10,2,8,NO 20,0,NO,
+6,1344,2,05:04,(5:04) (Shotgun) D.Brees pass short right intended for R.Meachem INTERCEPTED by J.Durant (B.Carter) at NO 40. J.Durant to NO 39 for 1 yard (R.Meachem). Interception after ball was tipped by Carter.,2,2,8,NO 28,0,NO,INT
+6,1297,0,05:38,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback. Ball was kicked out of the end zone.",0,2,0,DAL 35,0,DAL,KICKOFF
+9,1608,2,01:27,(1:27) (Shotgun) T.Romo pass incomplete deep right to D.Bryant (K.Lewis). Pass knocked away at the New Orleans 29.,1,2,31,NO 46,0,DAL,
+9,1545,1,02:34,(2:34) D.Murray up the middle to DAL 45 for 22 yards (C.White).,10,2,22,DAL 23,0,DAL,
+9,1634,3,01:22,(1:22) D.Murray right guard to NO 44 for 2 yards (C.Lofton).,1,2,33,NO 46,0,DAL,
+9,1716,2,00:36,(:36) T.Romo pass short middle to C.Beasley to NO 34 for 10 yards (C.Lofton).,10,2,43,NO 44,0,DAL,
+9,1781,1,00:24,"(:24) (Shotgun) T.Romo pass deep left to T.Williams for 23 yards, TOUCHDOWN.",10,2,77,NO 23,1,DAL,TD
+9,1584,1,02:00,(2:00) (Shotgun) T.Romo pass short right to D.Bryant to NO 46 for 9 yards (C.Lofton).,10,2,31,DAL 45,0,DAL,
+9,1681,2,00:45,"(:45) (Shotgun) T.Romo pass short right to D.Harris to NO 34 for 10 yards (K.Vaccaro). PENALTY on DAL-D.Free, Offensive Holding, 10 yards, enforced at NO 34.",10,2,33,NO 44,0,DAL,PENALTY
+9,1757,1,00:30,(:30) (Shotgun) T.Romo pass short left to J.Witten pushed ob at NO 23 for 11 yards (C.Lofton).,10,2,54,NO 34,0,DAL,
+9,1802,0,00:19,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,2,77,NO 2,1,DAL,XP
+9,1740,0,00:30,Timeout #1 by DAL at 00:30.,0,2,43,,0,,TIMEOUT
+9,1566,0,02:00,Two-Minute Warning,0,2,22,,0,,
+9,1655,1,00:49,"(:49) (No Huddle, Shotgun) T.Romo pass incomplete deep right to D.Bryant [J.Galette]. Pass incomplete on a go route; Lewis closest defender.",10,2,43,NO 44,0,DAL,
+8,1455,1,04:03,(4:03) K.Robinson left end to NO 20 for no gain (G.Selvie).,10,2,0,NO 20,0,NO,
+8,1479,2,03:26,(3:26) (Shotgun) D.Brees pass incomplete short left to M.Colston (O.Scandrick).,10,2,0,NO 20,0,NO,
+8,1501,3,03:21,(3:21) (Shotgun) D.Brees pass short left to B.Cooks to NO 28 for 8 yards (B.Carter).,10,2,8,NO 20,0,NO,
+8,1433,0,04:03,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback.",0,2,0,DAL 35,0,DAL,KICKOFF
+8,1525,4,02:43,"(2:43) (Punt formation) T.Morstead punts 49 yards to DAL 23, Center-J.Drescher, fair catch by D.Harris.",2,2,8,NO 28,0,NO,PUNT
+11,2089,1,11:54,(11:54) (Shotgun) D.Brees pass incomplete short right to M.Colston (O.Scandrick).,10,3,68,DAL 12,0,NO,
+11,1968,2,13:41,"(13:41) (Shotgun) K.Robinson right tackle to NO 35 for 5 yards (R.McClain; J.Mincey). PENALTY on NO-B.Harris, Offensive Holding, 10 yards, enforced at NO 30 - No Play.",10,3,0,NO 30,0,NO,PENALTY
+11,1942,1,13:46,(13:46) (Shotgun) D.Brees pass incomplete short right to J.Graham (T.Crawford). Pass knocked down at the line of scrimmage.,10,3,10,NO 30,0,NO,
+11,2154,4,11:14,"(11:14) (Field Goal formation) S.Graham 30 yard field goal is GOOD, Center-J.Drescher, Holder-L.McCown.",10,3,68,DAL 12,1,NO,FG
+11,1874,0,15:00,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback. Ball was kicked out of the end zone.",0,3,0,DAL 35,0,DAL,KICKOFF
+11,2004,2,13:24,(13:24) D.Brees pass short left to K.Robinson to NO 26 for 6 yards (B.Church).,20,3,6,NO 20,0,NO,
+11,2111,2,11:49,(11:49) P.Thomas left end pushed ob at DAL 12 for no gain (B.Carter; J.Crawford).,10,3,68,DAL 12,0,NO,
+11,2061,1,12:12,(12:12) D.Brees pass deep right to K.Stills to DAL 12 for 46 yards (B.Church). Pass complete on a fly pattern.,10,3,68,NO 42,0,NO,
+11,2132,3,11:20,(11:20) (Shotgun) D.Brees pass incomplete short middle to B.Cooks [N.Hayden]. Heavy pressure by Nick Hayden.,10,3,68,DAL 12,0,NO,
+11,2028,3,12:43,(12:43) (Shotgun) D.Brees pass deep right to K.Stills ran ob at NO 42 for 16 yards. Pass complete on an up and out route.,14,3,22,NO 26,0,NO,
+11,1914,2,14:26,(14:26) (Shotgun) D.Brees pass short right to M.Colston to NO 30 for 9 yards (O.Scandrick). Pass complete on a corner route.,9,3,10,NO 21,0,NO,
+11,1893,1,15:00,(15:00) K.Robinson right end to NO 21 for 1 yard (J.Wilcox). Armstead of New Orleans has been ruled out with a concussion,10,3,10,NO 20,0,NO,
+10,1858,0,,END QUARTER 2,0,2,8,,0,,
+10,1818,0,00:19,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback. Ball was kicked out of the end zone.",0,2,8,DAL 35,0,DAL,KICKOFF
+10,1837,1,00:19,(:19) (Shotgun) P.Thomas right tackle to NO 28 for 8 yards (N.Hayden).,10,2,8,NO 20,0,NO,
+13,2527,3,05:04,(5:04) (Shotgun) D.Brees pass incomplete short middle to M.Colston (B.Carter). Pass incomplete on a quick slant.,2,3,27,NO 47,0,NO,
+13,2584,1,04:21,"(4:21) (No Huddle, Shotgun) D.Brees pass incomplete deep middle to M.Colston. Pass incomplete on a post pattern; Durant closest defender on the play",10,3,31,DAL 49,0,NO,
+13,2446,2,06:11,(6:11) (Shotgun) D.Brees pass short left to J.Graham to NO 39 for 10 yards (B.Carter; S.Moore).,1,3,19,NO 29,0,NO,
+13,2470,1,05:39,(5:39) (Shotgun) D.Brees pass incomplete deep right to J.Graham (S.Moore). Pass incomplete on a post pattern at the Dallas 35.,10,3,19,NO 39,0,NO,
+13,2560,4,04:58,(4:58) (Shotgun) D.Brees pass short middle to M.Colston to DAL 49 for 4 yards (B.Carter).,2,3,31,NO 47,0,NO,
+13,2610,2,04:15,(4:15) (Shotgun) D.Brees pass short right to M.Colston to DAL 40 for 9 yards (J.Durant; B.Carr).,10,3,40,DAL 49,0,NO,
+13,2655,1,03:14,(3:14) D.Brees pass short left to B.Cooks to DAL 27 for 2 yards (O.Scandrick).,10,3,53,DAL 29,0,NO,
+13,2496,2,05:32,(5:32) (Shotgun) D.Brees pass short middle to J.Graham to NO 47 for 8 yards (J.Durant). Shovel pass.,10,3,27,NO 39,0,NO,
+13,2400,0,06:42,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback.",0,3,19,DAL 35,0,DAL,KICKOFF
+13,2634,3,03:36,(3:36) K.Robinson left end to DAL 29 for 11 yards (A.Spencer; J.Wilcox).,1,3,51,DAL 40,0,NO,
+13,2679,2,02:45,"(2:45) (Shotgun) D.Brees pass short middle to J.Graham to DAL 11 for 16 yards (R.McClain). FUMBLES (R.McClain), RECOVERED by DAL-J.Wilcox at DAL 10. J.Wilcox to DAL 21 for 11 yards (J.Graham). FUMBLES (J.Graham), recovered by DAL-B.Carr at DAL 23.",8,3,69,DAL 27,0,NO,FUMBLE
+13,2418,1,06:42,(6:42) (Shotgun) D.Brees pass short left to P.Thomas to NO 29 for 9 yards (J.Durant; A.Spencer). Screen pass.,10,3,9,NO 20,0,NO,
+12,2345,3,07:42,(7:42) (Shotgun) T.Romo scrambles up the middle to NO 28 for 21 yards (R.Bush).,5,3,48,NO 49,0,DAL,
+12,2321,2,08:29,(8:29) (Shotgun) T.Romo pass short right to T.Williams to NO 49 for 6 yards (B.Dixon).,11,3,27,DAL 45,0,DAL,
+12,2204,1,11:04,(11:04) D.Murray left tackle to DAL 32 for 8 yards (C.Jordan; C.Lofton).,10,3,8,DAL 24,0,DAL,
+12,2272,1,09:42,(9:42) T.Romo pass short left to T.Williams to DAL 46 for 11 yards (J.Byrd). Pass complete on a drag route.,10,3,22,DAL 35,0,DAL,
+12,2300,1,08:57,(8:57) D.Harris left end pushed ob at DAL 45 for -1 yards (J.Byrd).,10,3,21,DAL 46,0,DAL,
+12,2225,2,10:24,(10:24) T.Romo pass incomplete short right to J.Hanna [P.Haralson]. Pass incomplete off play action; Haralson with heavy pressure,2,3,76,DAL 32,0,DAL,
+12,2384,0,06:42,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,3,76,NO 2,1,DAL,XP
+12,2174,0,11:10,T.Morstead kicks onside 71 yards from NO 35 to DAL -6. D.Harris to DAL 24 for 30 yards (K.Edebali). Return left side of the field outside the yardline numbers.,0,3,0,NO 35,0,NO,KICKOFF
+12,2366,1,06:53,"(6:53) D.Murray left tackle for 28 yards, TOUCHDOWN.",10,3,76,NO 28,1,DAL,TD
+12,2251,3,10:19,(10:19) D.Murray right tackle to DAL 35 for 3 yards (C.Lofton).,2,3,11,DAL 32,0,DAL,
+15,2978,0,13:35,"S.Graham extra point is GOOD, Center-J.Drescher, Holder-L.McCown. Bruce Carter of Dallas has quad injury and will not return.",0,4,74,DAL 2,1,NO,XP
+15,2957,1,13:43,"(13:43) D.Brees pass short right to J.Hill for 12 yards, TOUCHDOWN. Pass complete off play action and roll right.",10,4,74,DAL 12,1,NO,TD
+15,2932,1,14:00,(14:00) (Shotgun) K.Robinson right end to DAL 12 for 62 yards (B.Carr). DAL-B.Carter was injured during the play. His return is Questionable.,10,4,62,NO 26,0,NO,
+14,2871,3,14:52,(14:52) (Shotgun) T.Romo pass short right to J.Witten to DAL 43 for 9 yards (C.White).,17,4,20,DAL 34,0,DAL,
+14,2732,1,02:30,(2:30) J.Randle right tackle to DAL 27 for 4 yards (G.Foster).,10,3,4,DAL 23,0,DAL,
+14,2895,4,14:16,"(14:16) (Punt formation) C.Jones punts 51 yards to NO 6, Center-L.Ladouceur. B.Cooks pushed ob at NO 11 for 5 yards (D.Harris). PENALTY on DAL-D.Harris, Unnecessary Roughness, 15 yards, enforced at NO 11.",8,4,20,DAL 43,0,DAL,PUNT
+14,2845,2,15:00,(15:00) T.Romo pass incomplete deep left to D.Bryant. Pass incomplete on a fly pattern.,17,4,11,DAL 34,0,DAL,
+14,2775,1,00:57,(:57) J.Randle left tackle to DAL 44 for 3 yards (R.Humber).,10,3,21,DAL 41,0,DAL,
+14,2754,2,01:45,(1:45) J.Randle right tackle to DAL 41 for 14 yards (K.Lewis; B.Bunkley).,6,3,18,DAL 27,0,DAL,
+14,2828,0,,END QUARTER 3,0,3,11,,0,,
+14,2796,2,00:12,"(:12) J.Randle right end to NO 38 for 18 yards (K.Vaccaro). PENALTY on DAL-R.Leary, Offensive Holding, 10 yards, enforced at DAL 44 - No Play.",7,3,11,DAL 44,0,DAL,PENALTY
+17,3232,0,09:49,"S.Graham extra point is GOOD, Center-J.Drescher, Holder-L.McCown.",0,4,59,DAL 2,1,NO,XP
+17,3211,1,09:56,"(9:56) (No Huddle, Shotgun) D.Brees pass short middle to J.Graham for 13 yards, TOUCHDOWN.",10,4,59,DAL 13,1,NO,TD
+17,3135,2,11:20,(11:20) (Shotgun) D.Brees pass deep left to T.Cadet to DAL 28 for 31 yards (B.Church). Pass complete on a wheel route.,10,4,31,NO 41,0,NO,
+17,3187,2,10:18,"(10:18) (No Huddle, Shotgun) D.Brees pass short left to T.Cadet to DAL 13 for 6 yards (J.Durant).",1,4,46,DAL 19,0,NO,
+17,3163,1,10:45,(10:45) (Shotgun) D.Brees pass short right to B.Cooks to DAL 19 for 9 yards (O.Scandrick).,10,4,40,DAL 28,0,NO,
+17,3109,1,11:27,(11:27) (Shotgun) D.Brees pass incomplete deep left to M.Colston (J.Durant) [A.Spencer]. Pass incomplete at the Dallas 30 on a seam route.,10,4,0,NO 41,0,NO,
+16,3068,3,12:08,(12:08) (Shotgun) T.Romo scrambles up the middle to DAL 26 for 2 yards (T.Walker).,6,4,6,DAL 24,0,DAL,
+16,3042,2,12:48,"(12:48) T.Romo FUMBLES (Aborted) at DAL 24, and recovers at DAL 24. T.Romo to DAL 24 for no gain (K.Edebali).",1,4,4,DAL 29,0,DAL,FUMBLE
+16,2994,0,13:35,"T.Morstead kicks 65 yards from NO 35 to end zone, Touchback. Ball bounced into and out of the end zone.",0,4,0,NO 35,0,NO,KICKOFF
+16,3021,1,13:35,(13:35) D.Murray left tackle to DAL 29 for 9 yards (R.Humber).,10,4,9,DAL 20,0,DAL,
+16,3089,4,11:35,"(11:35) (Punt formation) C.Jones punts 33 yards to NO 41, Center-L.Ladouceur, fair catch by B.Cooks.",4,4,6,DAL 26,0,DAL,PUNT
+19,3470,4,07:45,(7:45) (Punt formation) T.Morstead sacked at NO 39 for -2 yards (J.Crawford). Morstead lined up to punt; it was a fake; tackled for a 2 yard loss.,9,4,-1,NO 41,0,NO,
+19,3420,2,07:56,(7:56) (Shotgun) D.Brees pass incomplete deep left to J.Graham (S.Moore). Pass incomplete on go route at the Dallas 30.,15,4,-5,NO 35,0,NO,
+19,3446,3,07:45,(7:45) (Shotgun) D.Brees pass short left to P.Thomas to NO 41 for 6 yards (J.Durant; T.Crawford).,15,4,1,NO 35,0,NO,
+19,3397,2,08:03,"(8:03) PENALTY on NO, Illegal Substitution, 5 yards, enforced at NO 40 - No Play.",10,4,-5,NO 40,0,NO,PENALTY
+19,3371,1,08:03,(8:03) D.Brees pass incomplete short right to K.Stills.,10,4,0,NO 40,0,NO,
+18,3248,0,09:49,"T.Morstead kicks 65 yards from NO 35 to end zone, Touchback. Ball rolls into and out of the end zone.",0,4,0,NO 35,0,NO,KICKOFF
+18,3309,0,08:56,Timeout #1 by NO at 08:56.,0,4,4,,0,,TIMEOUT
+18,3346,4,08:14,"(8:14) (Punt formation) C.Jones punts 53 yards to NO 30, Center-L.Ladouceur. B.Cooks to NO 40 for 10 yards (J.Heath).",13,4,-3,DAL 17,0,DAL,PUNT
+18,3288,2,09:03,(9:03) D.Murray up the middle to DAL 24 for -1 yards (R.Bush).,5,4,4,DAL 25,0,DAL,
+18,3267,1,09:49,(9:49) D.Murray left end to DAL 25 for 5 yards (J.Byrd).,10,4,5,DAL 20,0,DAL,
+18,3327,3,08:56,(8:56) (Shotgun) T.Romo sacked at DAL 17 for -7 yards (K.Vaccaro).,6,4,-3,DAL 24,0,DAL,

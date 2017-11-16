@@ -1,166 +1,166 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,2644,1,03:46,,10,3,0,SD 16,0,SD,
-9,2818,1,15:00,,10,4,52,JAC 39,0,SD,
-9,2965,0,14:08,,0,4,84,JAC 2,1,SD,XP
-9,2756,1,00:56,,10,3,33,SD 42,0,SD,
-9,2780,2,00:16,,3,3,45,SD 49,0,SD,
-9,2690,1,03:06,,10,3,16,SD 31,0,SD,
-9,2735,3,01:41,,3,3,26,SD 38,0,SD,
-9,2943,1,14:13,,3,4,84,JAC 3,1,SD,TD
-9,2926,0,14:13,,0,4,84,,0,,TIMEOUT
-9,2839,2,14:31,,3,4,84,JAC 32,0,SD,
-9,2711,2,02:22,,9,3,22,SD 32,0,SD,
-9,2666,2,03:41,,10,3,15,SD 16,0,SD,
-9,2622,0,03:54,,0,3,0,JAC 35,0,JAC,KICKOFF
-6,2057,4,13:19,,3,3,7,JAC 27,0,JAC,PUNT
-6,1980,2,14:32,,2,3,7,JAC 28,0,JAC,PENALTY
-6,1944,0,15:00,,0,3,0,SD 35,0,SD,KICKOFF
-6,2036,3,13:52,,2,3,7,JAC 28,0,JAC,
-6,2012,2,14:13,,14,3,7,JAC 16,0,JAC,
-6,1959,1,15:00,,10,3,8,JAC 20,0,JAC,
-14,3510,1,06:24,,10,4,12,SD 45,0,JAC,INT
-14,3460,1,06:47,,10,4,0,JAC 43,0,JAC,
-14,3482,2,06:43,,10,4,12,JAC 43,0,JAC,
-7,2076,1,13:09,,10,3,27,SD 19,0,SD,
-7,2163,2,10:41,,5,3,40,JAC 36,0,SD,PENALTY
-7,2142,1,11:23,,10,3,45,JAC 41,0,SD,
-7,2100,1,12:32,,10,3,36,SD 46,0,SD,
-7,2243,1,09:32,,10,3,70,JAC 25,0,SD,
-7,2306,3,07:31,,4,3,79,JAC 5,0,SD,TIMEOUT
-7,2389,4,06:52,,1,3,79,JAC 2,1,SD,FG
-7,2219,2,10:19,,20,3,56,SD 49,0,SD,
-7,2264,1,09:02,,10,3,72,JAC 11,0,SD,
-7,2285,2,08:17,,8,3,76,JAC 9,0,SD,
-7,2121,2,11:57,,1,3,40,JAC 45,0,SD,
-7,2186,2,10:24,,10,3,30,JAC 41,0,SD,PENALTY
-8,2424,1,06:48,,10,3,12,JAC 20,0,JAC,
-8,2472,1,05:52,,10,3,60,SD 25,0,JAC,
-8,2496,2,05:28,,5,3,72,SD 20,0,JAC,
-8,2585,0,03:57,,0,3,75,,0,,TIMEOUT
-8,2409,0,06:48,,0,3,0,SD 35,0,SD,KICKOFF
-8,2520,1,04:52,,8,3,75,SD 8,0,JAC,
-8,2541,2,04:10,,5,3,75,SD 5,0,JAC,
-8,2448,1,06:14,,10,3,55,JAC 32,0,JAC,
-8,2563,3,04:04,,5,3,75,SD 5,0,JAC,
-8,2602,4,03:57,,5,3,75,SD 5,1,JAC,FG
-10,3072,4,12:59,,7,4,3,JAC 34,0,JAC,PUNT
-10,3003,1,14:00,,10,4,-7,JAC 31,0,JAC,
-10,3043,3,12:59,,16,4,3,JAC 25,0,JAC,
-10,3022,2,13:33,,17,4,-6,JAC 24,0,JAC,
-10,2981,0,14:08,,0,4,0,SD 35,0,SD,KICKOFF
-12,3186,1,10:38,,10,4,32,JAC 23,0,JAC,
-12,3234,1,09:48,,10,4,45,SD 31,0,JAC,
-12,3210,1,10:15,,10,4,46,SD 45,0,JAC,
-12,3262,2,09:23,,11,4,45,SD 32,0,JAC,
-12,3284,3,09:19,,11,4,55,SD 32,0,JAC,
-12,3313,4,09:01,,1,4,55,SD 22,0,JAC,
-16,3637,1,03:53,,10,4,9,JAC 3,0,JAC,
-16,3881,1,01:57,,7,4,90,SD 7,0,JAC,
-16,3903,2,01:52,,7,4,90,SD 7,0,JAC,
-16,3754,1,02:42,,10,4,43,SD 44,0,JAC,PENALTY
-16,3925,3,01:45,,7,4,90,SD 7,0,JAC,
-16,3864,0,01:57,,0,4,90,,0,,
-16,3816,2,02:07,,9,4,71,SD 43,0,JAC,
-16,3701,1,02:55,,10,4,41,JAC 22,0,JAC,
-16,3680,3,03:23,,1,4,19,JAC 12,0,JAC,
-16,3658,2,03:26,,1,4,9,JAC 12,0,JAC,
-16,3725,1,02:50,,10,4,53,JAC 44,0,JAC,
-16,3792,1,02:38,,20,4,54,JAC 46,0,JAC,
-16,3840,1,02:03,,10,4,90,SD 26,0,JAC,
-16,3947,4,01:40,,7,4,81,SD 7,0,JAC,
-11,3162,4,10:45,,4,4,6,SD 30,0,SD,PUNT
-11,3140,3,10:50,,4,4,6,SD 30,0,SD,
-11,3098,1,12:21,,10,4,3,SD 24,0,SD,
-11,3119,2,11:36,,7,4,6,SD 27,0,SD,
-3,702,1,02:09,,25,1,2,SD 31,0,SD,
-3,757,1,01:09,,10,1,22,SD 38,0,SD,
-3,906,1,12:44,,10,2,80,JAC 27,1,SD,TD
-3,778,2,00:30,,6,1,27,SD 42,0,SD,
-3,882,2,13:18,,6,2,53,JAC 34,0,SD,
-3,979,0,12:36,,0,2,80,JAC 2,0,SD,PENALTY
-3,815,3,15:00,,1,2,28,SD 47,0,SD,
-3,679,1,02:31,,20,1,11,SD 36,0,SD,PENALTY
-3,721,2,01:36,,34,1,18,SD 22,0,SD,PENALTY
-3,836,1,14:29,,10,2,42,SD 48,0,SD,
-3,1018,0,12:36,,0,2,80,JAC 7,1,SD,XP
-3,623,1,03:44,,10,1,26,SD 20,0,SD,
-3,861,1,13:55,,10,2,46,JAC 38,0,SD,
-3,647,1,03:01,,10,1,16,SD 46,0,SD,PENALTY
-17,3967,1,01:35,,10,4,-1,SD 16,0,SD,
-17,3988,2,00:53,,11,4,-2,SD 15,0,SD,
-17,4009,3,00:53,,12,4,-3,SD 14,0,SD,
-17,4030,0,00:00,,0,4,-3,,0,,
-4,1336,2,07:06,,17,2,54,SD 35,0,JAC,
-4,1317,1,07:39,,10,2,45,SD 28,0,JAC,
-4,1206,2,09:28,,5,2,35,JAC 49,0,JAC,
-4,1034,0,12:36,,0,2,0,SD 35,0,SD,KICKOFF
-4,1161,3,10:24,,1,2,24,JAC 40,0,JAC,
-4,1254,2,09:03,,3,2,43,SD 38,0,JAC,
-4,1118,1,11:05,,10,2,20,JAC 31,0,JAC,
-4,1275,3,08:35,,2,2,44,SD 37,0,JAC,
-4,1139,2,10:28,,1,2,20,JAC 40,0,JAC,
-4,1097,3,11:46,,1,2,11,JAC 29,0,JAC,
-4,1076,2,12:10,,2,2,9,JAC 28,0,JAC,
-4,1296,4,08:15,,1,2,52,SD 36,0,JAC,
-4,1437,2,05:41,,8,2,68,SD 17,0,JAC,
-4,1461,3,04:59,,3,2,68,SD 12,0,JAC,
-4,1393,1,06:24,,10,2,56,SD 19,0,JAC,PENALTY
-4,1360,3,06:26,,8,2,61,SD 26,0,JAC,PENALTY
-4,1230,1,09:24,,10,2,42,SD 45,0,JAC,
-4,1416,1,06:24,,15,2,63,SD 24,0,JAC,
-4,1483,4,04:54,,3,2,68,SD 12,1,JAC,FG
-4,1052,1,12:36,,10,2,8,JAC 20,0,JAC,
-4,1182,1,09:56,,10,2,29,JAC 44,0,JAC,
-2,582,3,04:22,,14,1,29,SD 33,0,JAC,
-2,510,2,06:08,,9,1,43,JAC 40,0,JAC,
-2,489,1,06:46,,10,1,12,JAC 39,0,JAC,
-2,434,1,07:18,,10,1,0,JAC 28,0,JAC,
-2,563,2,04:57,,5,1,39,SD 24,0,JAC,
-2,601,4,04:22,,24,1,29,SD 43,0,JAC,PUNT
-2,412,0,07:23,,0,1,0,SD 35,0,SD,KICKOFF
-2,468,2,07:11,,10,1,11,JAC 28,0,JAC,
-2,534,1,05:30,,10,1,48,SD 29,0,JAC,
-1,272,0,09:23,,0,1,60,,0,,TIMEOUT
-1,178,2,11:50,,8,1,43,JAC 42,0,SD,
-1,40,0,15:00,,0,1,0,JAC 35,0,JAC,KICKOFF
-1,230,1,10:29,,10,1,58,JAC 24,0,SD,
-1,108,1,13:45,,10,1,25,SD 39,0,SD,
-1,313,1,08:40,,10,1,71,JAC 13,0,SD,
-1,202,3,11:06,,3,1,56,JAC 37,0,SD,
-1,341,2,08:04,,6,1,78,JAC 9,0,SD,
-1,396,0,07:23,,0,1,80,JAC 2,1,SD,XP
-1,289,3,09:23,,6,1,67,JAC 20,0,SD,
-1,63,1,15:00,,10,1,7,SD 20,0,SD,
-1,157,1,12:30,,10,1,38,JAC 44,0,SD,
-1,87,2,14:26,,3,1,19,SD 27,0,SD,
-1,362,1,07:30,,2,1,80,JAC 2,1,SD,TD
-1,251,2,09:56,,8,1,60,JAC 22,0,SD,
-1,129,2,13:04,,4,1,36,SD 45,0,SD,
-5,1781,1,00:26,,5,2,79,JAC 5,0,SD,
-5,1735,2,00:57,,6,2,39,JAC 41,0,SD,
-5,1670,1,01:36,,10,2,35,SD 45,0,SD,
-5,1852,1,00:16,,1,2,79,JAC 1,0,SD,
-5,1874,2,00:11,,1,2,79,JAC 1,0,SD,PENALTY
-5,1819,2,00:19,,1,2,79,JAC 1,0,SD,PENALTY
-5,1646,3,02:00,,3,2,25,SD 40,0,SD,
-5,1907,1,00:07,,1,2,79,JAC 1,0,SD,
-5,1757,3,00:53,,6,2,75,JAC 41,0,SD,
-5,1802,0,00:19,,0,2,79,,0,,TIMEOUT
-5,1518,1,04:50,,10,2,3,SD 20,0,SD,
-5,1718,0,00:57,,0,2,39,,0,,TIMEOUT
-5,1584,1,03:02,,10,2,14,SD 33,0,SD,
-5,1694,1,01:09,,10,2,39,JAC 45,0,SD,
-5,1539,2,04:25,,7,2,9,SD 23,0,SD,
-5,1605,2,02:24,,9,2,20,SD 34,0,SD,
-5,1560,3,03:43,,1,2,13,SD 29,0,SD,
-5,1503,0,04:50,,0,2,0,JAC 35,0,JAC,KICKOFF
-13,3402,3,07:13,,9,4,-9,SD 24,0,SD,PENALTY
-13,3357,2,08:11,,2,4,6,SD 31,0,SD,
-13,3434,4,06:58,,19,4,-9,SD 14,0,SD,PUNT
-13,3336,1,08:55,,10,4,8,SD 23,0,SD,
-13,3378,3,07:26,,4,4,1,SD 29,0,SD,PENALTY
-15,3537,1,06:15,,10,4,1,SD 49,0,SD,
-15,3579,0,04:42,,0,4,4,,0,,TIMEOUT
-15,3617,4,04:01,,6,4,4,JAC 47,0,SD,PUNT
-15,3558,2,05:30,,9,4,4,50,0,SD,
-15,3596,3,04:42,,6,4,4,JAC 47,0,SD,
+11,3140,3,10:50,(10:50) (Shotgun) P.Rivers pass incomplete short middle to L.Green (S.Marks).,4,4,6,SD 30,0,SD,
+11,3098,1,12:21,(12:21) (Shotgun) R.Mathews up the middle to SD 27 for 3 yards (D.Gratz).,10,4,3,SD 24,0,SD,
+11,3162,4,10:45,"(10:45) (Punt formation) M.Scifres punts 47 yards to JAC 23, Center-M.Windt, fair catch by W.Blackmon.",4,4,6,SD 30,0,SD,PUNT
+11,3119,2,11:36,(11:36) (Shotgun) R.Mathews up the middle to SD 30 for 3 yards (P.Posluszny).,7,4,6,SD 27,0,SD,
+10,3043,3,12:59,(12:59) (Shotgun) C.Henne pass short left to M.Brown pushed ob at JAC 34 for 9 yards (J.Patrick).,16,4,3,JAC 25,0,JAC,
+10,2981,0,14:08,N.Novak kicks 67 yards from SD 35 to JAC -2. J.Todman to JAC 31 for 33 yards (N.Novak).,0,4,0,SD 35,0,SD,KICKOFF
+10,3072,4,12:59,"(12:59) B.Anger punts 53 yards to SD 13, Center-C.Tinker. K.Allen to SD 24 for 11 yards (W.Ta'ufo'ou).",7,4,3,JAC 34,0,JAC,PUNT
+10,3022,2,13:33,(13:33) (Shotgun) C.Henne scrambles up the middle to JAC 25 for 1 yard (L.English).,17,4,-6,JAC 24,0,JAC,
+10,3003,1,14:00,(14:00) (Shotgun) C.Henne sacked at JAC 24 for -7 yards (T.Keiser).,10,4,-7,JAC 31,0,JAC,
+13,3357,2,08:11,(8:11) R.Mathews right end to SD 29 for -2 yards (W.Blackmon).,2,4,6,SD 31,0,SD,
+13,3402,3,07:13,"(7:13) (Shotgun) D.Woodhead up the middle to SD 28 for 4 yards (P.Posluszny). PENALTY on SD-R.Ohrnberger, Unnecessary Roughness, 14 yards, enforced at SD 28.",9,4,-9,SD 24,0,SD,PENALTY
+13,3434,4,06:58,"(6:58) M.Scifres punts 43 yards to JAC 43, Center-M.Windt. W.Blackmon to JAC 43 for no gain (S.Ajirotutu).",19,4,-9,SD 14,0,SD,PUNT
+13,3336,1,08:55,(8:55) R.Mathews up the middle to SD 31 for 8 yards (T.Alualu).,10,4,8,SD 23,0,SD,
+13,3378,3,07:26,"(7:26) (Shotgun) PENALTY on SD-J.Troutman, False Start, 5 yards, enforced at SD 29 - No Play.",4,4,1,SD 29,0,SD,PENALTY
+12,3210,1,10:15,"(10:15) (No Huddle, Shotgun) C.Henne pass short right to C.Shorts ran ob at SD 31 for 14 yards.",10,4,46,SD 45,0,JAC,
+12,3234,1,09:48,"(9:48) (No Huddle, Shotgun) C.Henne sacked at SD 32 for -1 yards (L.English).",10,4,45,SD 31,0,JAC,
+12,3186,1,10:38,(10:38) (Shotgun) C.Henne pass short left to M.Brown pushed ob at SD 45 for 32 yards (J.Patrick).,10,4,32,JAC 23,0,JAC,
+12,3262,2,09:23,"(9:23) (No Huddle, Shotgun) C.Henne pass incomplete short left to M.Brown.",11,4,45,SD 32,0,JAC,
+12,3313,4,09:01,"(9:01) (No Huddle, Shotgun) C.Henne pass incomplete short left to C.Shorts (T.Keiser).",1,4,55,SD 22,0,JAC,
+12,3284,3,09:19,(9:19) (Shotgun) C.Henne pass short right to J.Forsett pushed ob at SD 22 for 10 yards (R.Walker).,11,4,55,SD 32,0,JAC,
+15,3617,4,04:01,"(4:01) M.Scifres punts 44 yards to JAC 3, Center-M.Windt, downed by SD-D.Stuckey.",6,4,4,JAC 47,0,SD,PUNT
+15,3579,0,04:42,Timeout #2 by SD at 04:42.,0,4,4,,0,,TIMEOUT
+15,3596,3,04:42,(4:42) R.Mathews left end to JAC 47 for no gain (P.Posluszny).,6,4,4,JAC 47,0,SD,
+15,3537,1,06:15,(6:15) R.Mathews up the middle to 50 for 1 yard (A.Jones).,10,4,1,SD 49,0,SD,
+15,3558,2,05:30,(5:30) L.McClain up the middle to JAC 47 for 3 yards (P.Posluszny).,9,4,4,50,0,SD,
+14,3510,1,06:24,"(6:24) (No Huddle, Shotgun) C.Henne pass deep middle intended for J.Blackmon INTERCEPTED by M.Gilchrist at SD 23. M.Gilchrist pushed ob at SD 49 for 26 yards.",10,4,12,SD 45,0,JAC,INT
+14,3482,2,06:43,(6:43) (Shotgun) C.Henne pass short left to J.Blackmon to SD 45 for 12 yards (J.Addae).,10,4,12,JAC 43,0,JAC,
+14,3460,1,06:47,(6:47) (Shotgun) C.Henne pass incomplete short left to J.Blackmon (L.Guy).,10,4,0,JAC 43,0,JAC,
+17,3967,1,01:35,(1:35) C.Whitehurst kneels to SD 15 for -1 yards.,10,4,-1,SD 16,0,SD,
+17,3988,2,00:53,(:53) C.Whitehurst kneels to SD 14 for -1 yards.,11,4,-2,SD 15,0,SD,
+17,4030,0,00:00,END GAME,0,4,-3,,0,,
+17,4009,3,00:53,(:53) C.Whitehurst kneels to SD 13 for -1 yards.,12,4,-3,SD 14,0,SD,
+16,3864,0,01:57,Two-Minute Warning,0,4,90,,0,,
+16,3816,2,02:07,"(2:07) (No Huddle, Shotgun) C.Henne pass short right to M.Brown to SD 26 for 17 yards (J.Patrick).",9,4,71,SD 43,0,JAC,
+16,3903,2,01:52,(1:52) (Shotgun) C.Henne pass incomplete short right to M.Brown.,7,4,90,SD 7,0,JAC,
+16,3637,1,03:53,(3:53) (Shotgun) J.Forsett up the middle to JAC 12 for 9 yards (J.Addae).,10,4,9,JAC 3,0,JAC,
+16,3680,3,03:23,(3:23) (No Huddle) J.Forsett up the middle to JAC 22 for 10 yards (T.Williams).,1,4,19,JAC 12,0,JAC,
+16,3947,4,01:40,(1:40) (Shotgun) C.Henne sacked at SD 16 for -9 yards (R.Walker).,7,4,81,SD 7,0,JAC,
+16,3754,1,02:42,"(2:42) (No Huddle, Shotgun) C.Henne pass incomplete short middle to C.Shorts. PENALTY on JAC-U.Nwaneri, Offensive Holding, 10 yards, enforced at SD 44 - No Play.",10,4,43,SD 44,0,JAC,PENALTY
+16,3792,1,02:38,"(2:38) (No Huddle, Shotgun) C.Henne pass short middle to J.Blackmon to SD 43 for 11 yards (E.Weddle).",20,4,54,JAC 46,0,JAC,
+16,3840,1,02:03,(2:03) (Shotgun) C.Henne pass short left to M.Brown pushed ob at SD 7 for 19 yards (J.Addae).,10,4,90,SD 26,0,JAC,
+16,3658,2,03:26,"(3:26) (No Huddle, Shotgun) C.Henne pass incomplete short middle to M.Brown.",1,4,9,JAC 12,0,JAC,
+16,3925,3,01:45,(1:45) (Shotgun) C.Henne pass incomplete short right to C.Shorts.,7,4,90,SD 7,0,JAC,
+16,3725,1,02:50,"(2:50) (No Huddle, Shotgun) C.Henne pass short right to J.Blackmon pushed ob at SD 44 for 12 yards (M.Gilchrist).",10,4,53,JAC 44,0,JAC,
+16,3701,1,02:55,"(2:55) (No Huddle, Shotgun) C.Henne pass deep left to C.Shorts pushed ob at JAC 44 for 22 yards (S.Wright).",10,4,41,JAC 22,0,JAC,
+16,3881,1,01:57,(1:57) (Shotgun) C.Henne pass incomplete short left to M.Lewis (D.Cox).,7,4,90,SD 7,0,JAC,
+1,202,3,11:06,"(11:06) (No Huddle, Shotgun) P.Rivers pass short middle to L.Green to JAC 24 for 13 yards (P.Posluszny).",3,1,56,JAC 37,0,SD,
+1,157,1,12:30,(12:30) (No Huddle) R.Mathews up the middle to JAC 42 for 2 yards (T.Alualu).,10,1,38,JAC 44,0,SD,
+1,313,1,08:40,"(8:40) (No Huddle, Shotgun) P.Rivers pass short middle to A.Gates to JAC 9 for 4 yards (P.Posluszny).",10,1,71,JAC 13,0,SD,
+1,362,1,07:30,"(7:30) (No Huddle, Shotgun) D.Woodhead up the middle for 2 yards, TOUCHDOWN. Penalty on JAC-J.Babin, Defensive Offside, declined.",2,1,80,JAC 2,1,SD,TD
+1,272,0,09:23,Timeout #1 by SD at 09:23.,0,1,60,,0,,TIMEOUT
+1,40,0,15:00,"J.Scobee kicks 65 yards from JAC 35 to end zone, Touchback.",0,1,0,JAC 35,0,JAC,KICKOFF
+1,289,3,09:23,(9:23) (Shotgun) P.Rivers pass short middle to A.Gates to JAC 13 for 7 yards (J.Evans) [J.Babin].,6,1,67,JAC 20,0,SD,
+1,108,1,13:45,(13:45) (No Huddle) R.Mathews left end to SD 45 for 6 yards (J.Cyprien).,10,1,25,SD 39,0,SD,
+1,63,1,15:00,(15:00) (Shotgun) P.Rivers pass short middle to A.Gates to SD 27 for 7 yards (J.Cyprien).,10,1,7,SD 20,0,SD,
+1,341,2,08:04,(8:04) (No Huddle) D.Woodhead up the middle to JAC 2 for 7 yards (J.Cyprien; G.Hayes).,6,1,78,JAC 9,0,SD,
+1,178,2,11:50,(11:50) (No Huddle) P.Rivers pass short middle to J.Phillips to JAC 37 for 5 yards (P.Posluszny).,8,1,43,JAC 42,0,SD,
+1,129,2,13:04,"(13:04) (No Huddle, Shotgun) P.Rivers pass short right to V.Brown ran ob at JAC 44 for 11 yards.",4,1,36,SD 45,0,SD,
+1,251,2,09:56,"(9:56) (No Huddle, Shotgun) D.Woodhead left end to JAC 20 for 2 yards (T.Alualu).",8,1,60,JAC 22,0,SD,
+1,230,1,10:29,(10:29) (No Huddle) R.Mathews up the middle to JAC 22 for 2 yards (G.Hayes).,10,1,58,JAC 24,0,SD,
+1,87,2,14:26,(14:26) R.Mathews left end to SD 39 for 12 yards (P.Posluszny).,3,1,19,SD 27,0,SD,
+1,396,0,07:23,"N.Novak extra point is GOOD, Center-M.Windt, Holder-M.Scifres.",0,1,80,JAC 2,1,SD,XP
+3,623,1,03:44,(3:44) P.Rivers pass deep middle to K.Allen to SD 46 for 26 yards (R.Allen).,10,1,26,SD 20,0,SD,
+3,882,2,13:18,"(13:18) (No Huddle, Shotgun) P.Rivers pass short right to E.Royal to JAC 27 for 7 yards (W.Blackmon; P.Posluszny).",6,2,53,JAC 34,0,SD,
+3,757,1,01:09,(1:09) D.Woodhead up the middle to SD 42 for 4 yards (R.Allen).,10,1,22,SD 38,0,SD,
+3,679,1,02:31,"(2:31) (Shotgun) PENALTY on SD-K.Allen, False Start, 5 yards, enforced at SD 36 - No Play.",20,1,11,SD 36,0,SD,PENALTY
+3,861,1,13:55,(13:55) (No Huddle) R.Mathews left end to JAC 34 for 4 yards (P.Posluszny).,10,2,46,JAC 38,0,SD,
+3,906,1,12:44,"(12:44) (No Huddle, Shotgun) P.Rivers pass deep left to E.Royal for 27 yards, TOUCHDOWN. The Replay Assistant challenged the runner broke the plane ruling, and the play was Upheld.",10,2,80,JAC 27,1,SD,TD
+3,778,2,00:30,"(:30) (No Huddle, Shotgun) R.Mathews up the middle to SD 47 for 5 yards (T.Alualu).",6,1,27,SD 42,0,SD,
+3,702,1,02:09,(2:09) (Shotgun) P.Rivers sacked at SD 22 for -9 yards (S.Marks). SD-K.Dunlap was injured during the play.,25,1,2,SD 31,0,SD,
+3,1018,0,12:36,"N.Novak extra point is GOOD, Center-M.Windt, Holder-M.Scifres.",0,2,80,JAC 7,1,SD,XP
+3,979,0,12:36,"(Kick formation) PENALTY on SD-N.Hardwick, False Start, 5 yards, enforced at JAC 2 - No Play.",0,2,80,JAC 2,0,SD,PENALTY
+3,647,1,03:01,"(3:01) R.Mathews right end to SD 47 for 1 yard (T.Alualu). PENALTY on SD-J.Clary, Offensive Holding, 10 yards, enforced at SD 46 - No Play.",10,1,16,SD 46,0,SD,PENALTY
+3,721,2,01:36,"(1:36) (Shotgun) R.Brown up the middle to SD 23 for 1 yard (A.Branch). PENALTY on JAC-S.Marks, Unsportsmanlike Conduct, 15 yards, enforced at SD 23.",34,1,18,SD 22,0,SD,PENALTY
+3,836,1,14:29,(14:29) (Shotgun) R.Mathews up the middle to JAC 38 for 14 yards (J.Evans).,10,2,42,SD 48,0,SD,
+3,815,3,15:00,(15:00) (Shotgun) L.McClain up the middle to SD 48 for 1 yard (J.Cyprien). SD-M.Remmers was injured during the play.,1,2,28,SD 47,0,SD,
+2,582,3,04:22,(4:22) (Shotgun) C.Henne sacked at SD 43 for -10 yards (J.Addae).,14,1,29,SD 33,0,JAC,
+2,468,2,07:11,(7:11) (No Huddle) M.Jones-Drew up the middle to JAC 39 for 11 yards (A.Gachkar).,10,1,11,JAC 28,0,JAC,
+2,563,2,04:57,(4:57) (No Huddle) C.Henne sacked at SD 33 for -9 yards (C.Liuget).,5,1,39,SD 24,0,JAC,
+2,601,4,04:22,"(4:22) B.Anger punts 43 yards to end zone, Center-C.Tinker, Touchback.",24,1,29,SD 43,0,JAC,PUNT
+2,534,1,05:30,"(5:30) (No Huddle, Shotgun) C.Henne pass short left to C.Shorts pushed ob at SD 24 for 5 yards (D.Cox).",10,1,48,SD 29,0,JAC,
+2,489,1,06:46,"(6:46) (No Huddle, Shotgun) M.Jones-Drew up the middle to JAC 40 for 1 yard (L.English).",10,1,12,JAC 39,0,JAC,
+2,510,2,06:08,(6:08) (Shotgun) C.Henne pass short middle to M.Lewis to SD 29 for 31 yards (M.Gilchrist).,9,1,43,JAC 40,0,JAC,
+2,434,1,07:18,(7:18) C.Henne pass incomplete deep middle to C.Shorts [K.Reyes].,10,1,0,JAC 28,0,JAC,
+2,412,0,07:23,N.Novak kicks 66 yards from SD 35 to JAC -1. J.Todman to JAC 28 for 29 yards (J.Addae).,0,1,0,SD 35,0,SD,KICKOFF
+5,1757,3,00:53,(:53) (Shotgun) P.Rivers pass short middle to K.Allen to JAC 5 for 36 yards (G.Hayes).,6,2,75,JAC 41,0,SD,
+5,1646,3,02:00,(2:00) (Shotgun) P.Rivers pass short left to K.Allen to SD 45 for 5 yards (A.Ball).,3,2,25,SD 40,0,SD,
+5,1802,0,00:19,Timeout #3 by SD at 00:19.,0,2,79,,0,,TIMEOUT
+5,1735,2,00:57,(:57) (Shotgun) P.Rivers pass incomplete short left to K.Allen [A.Branch].,6,2,39,JAC 41,0,SD,
+5,1852,1,00:16,(:16) (Shotgun) P.Rivers pass incomplete short right to K.Allen.,1,2,79,JAC 1,0,SD,
+5,1718,0,00:57,Timeout #2 by SD at 00:57.,0,2,39,,0,,TIMEOUT
+5,1605,2,02:24,"(2:24) (No Huddle, Shotgun) P.Rivers pass short middle to A.Gates to SD 40 for 6 yards (R.Allen).",9,2,20,SD 34,0,SD,
+5,1819,2,00:19,"(:19) (Shotgun) P.Rivers pass incomplete short left to K.Allen. PENALTY on JAC-A.Ball, Defensive Pass Interference, 0 yards, enforced at JAC 1 - No Play.",1,2,79,JAC 1,0,SD,PENALTY
+5,1584,1,03:02,"(3:02) (No Huddle, Shotgun) D.Woodhead up the middle to SD 34 for 1 yard (R.Allen).",10,2,14,SD 33,0,SD,
+5,1503,0,04:50,"J.Scobee kicks 65 yards from JAC 35 to end zone, Touchback.",0,2,0,JAC 35,0,JAC,KICKOFF
+5,1694,1,01:09,"(1:09) (No Huddle, Shotgun) P.Rivers pass short left to A.Gates to JAC 41 for 4 yards (P.Posluszny).",10,2,39,JAC 45,0,SD,
+5,1518,1,04:50,(4:50) (Shotgun) R.Mathews left end to SD 23 for 3 yards (J.Evans).,10,2,3,SD 20,0,SD,
+5,1781,1,00:26,"(:26) (No Huddle, Shotgun) D.Woodhead up the middle to JAC 1 for 4 yards (J.Evans).",5,2,79,JAC 5,0,SD,
+5,1560,3,03:43,(3:43) (Shotgun) P.Rivers pass short middle to D.Woodhead to SD 33 for 4 yards (G.Hayes).,1,2,13,SD 29,0,SD,
+5,1907,1,00:07,(:07) (Shotgun) P.Rivers scrambles up the middle to JAC 1 for no gain (S.Marks).,1,2,79,JAC 1,0,SD,
+5,1874,2,00:11,"(:11) (Shotgun) P.Rivers pass incomplete short left to K.Allen. PENALTY on JAC-J.Evans, Unnecessary Roughness, 0 yards, enforced at JAC 1 - No Play.",1,2,79,JAC 1,0,SD,PENALTY
+5,1670,1,01:36,"(1:36) (No Huddle, Shotgun) P.Rivers pass short left to D.Woodhead to JAC 45 for 10 yards (T.Alualu).",10,2,35,SD 45,0,SD,
+5,1539,2,04:25,(4:25) (No Huddle) R.Mathews left end to SD 29 for 6 yards (J.Evans).,7,2,9,SD 23,0,SD,
+4,1317,1,07:39,"(7:39) (No Huddle, Shotgun) C.Henne sacked at SD 35 for -7 yards (T.Keiser).",10,2,45,SD 28,0,JAC,
+4,1437,2,05:41,(5:41) (Shotgun) C.Henne pass short left to J.Blackmon to SD 12 for 5 yards (D.Cox).,8,2,68,SD 17,0,JAC,
+4,1052,1,12:36,(12:36) (Shotgun) C.Henne pass short left to C.Shorts pushed ob at JAC 28 for 8 yards (J.Patrick).,10,2,8,JAC 20,0,JAC,
+4,1097,3,11:46,(11:46) M.Jones-Drew up the middle to JAC 31 for 2 yards (M.Te'o; L.English).,1,2,11,JAC 29,0,JAC,
+4,1230,1,09:24,"(9:24) (No Huddle, Shotgun) C.Henne pass short left to M.Jones-Drew pushed ob at SD 38 for 7 yards (D.Cox).",10,2,42,SD 45,0,JAC,
+4,1161,3,10:24,(10:24) (Shotgun) C.Henne left guard to JAC 44 for 4 yards.,1,2,24,JAC 40,0,JAC,
+4,1076,2,12:10,(12:10) (Shotgun) M.Jones-Drew up the middle to JAC 29 for 1 yard (L.English).,2,2,9,JAC 28,0,JAC,
+4,1393,1,06:24,"(6:24) (Shotgun) PENALTY on JAC-C.Bradfield, False Start, 5 yards, enforced at SD 19 - No Play.",10,2,56,SD 19,0,JAC,PENALTY
+4,1206,2,09:28,"(9:28) (No Huddle, Shotgun) C.Henne pass short left to J.Blackmon pushed ob at SD 45 for 6 yards (E.Weddle).",5,2,35,JAC 49,0,JAC,
+4,1182,1,09:56,(9:56) (Shotgun) C.Henne pass short right to C.Shorts pushed ob at JAC 49 for 5 yards (A.Gachkar).,10,2,29,JAC 44,0,JAC,
+4,1139,2,10:28,(10:28) (No Huddle) C.Henne pass incomplete short left to C.Shorts.,1,2,20,JAC 40,0,JAC,
+4,1275,3,08:35,(8:35) (No Huddle) C.Henne up the middle to SD 36 for 1 yard (M.Te'o).,2,2,44,SD 37,0,JAC,
+4,1483,4,04:54,"(4:54) J.Scobee 30 yard field goal is GOOD, Center-C.Tinker, Holder-B.Anger.",3,2,68,SD 12,1,JAC,FG
+4,1461,3,04:59,(4:59) (Shotgun) C.Henne pass incomplete short right to C.Shorts.,3,2,68,SD 12,0,JAC,
+4,1254,2,09:03,"(9:03) (No Huddle, Shotgun) M.Jones-Drew left end to SD 37 for 1 yard (T.Williams).",3,2,43,SD 38,0,JAC,
+4,1416,1,06:24,(6:24) (Shotgun) M.Jones-Drew left guard to SD 17 for 7 yards (E.Weddle).,15,2,63,SD 24,0,JAC,
+4,1336,2,07:06,(7:06) (Shotgun) C.Henne pass short right to C.Shorts to SD 26 for 9 yards (A.Gachkar).,17,2,54,SD 35,0,JAC,
+4,1118,1,11:05,(11:05) D.Robinson left end to JAC 40 for 9 yards (E.Weddle).,10,2,20,JAC 31,0,JAC,
+4,1360,3,06:26,"(6:26) (Shotgun) C.Henne pass incomplete short right to J.Blackmon. PENALTY on SD-S.Wright, Defensive Pass Interference, 7 yards, enforced at SD 26 - No Play.",8,2,61,SD 26,0,JAC,PENALTY
+4,1296,4,08:15,(8:15) J.Todman up the middle to SD 28 for 8 yards (M.Gilchrist).,1,2,52,SD 36,0,JAC,
+4,1034,0,12:36,"N.Novak kicks 74 yards from SD 35 to JAC -9. J.Todman, Touchback.",0,2,0,SD 35,0,SD,KICKOFF
+7,2121,2,11:57,"(11:57) (No Huddle, Shotgun) R.Brown up the middle to JAC 41 for 4 yards (G.Hayes).",1,3,40,JAC 45,0,SD,
+7,2243,1,09:32,"(9:32) (No Huddle, Shotgun) R.Mathews left end pushed ob at JAC 11 for 14 yards (J.Evans).",10,3,70,JAC 25,0,SD,
+7,2219,2,10:19,(10:19) (Shotgun) P.Rivers pass short left to D.Woodhead to JAC 25 for 26 yards (W.Blackmon).,20,3,56,SD 49,0,SD,
+7,2285,2,08:17,(8:17) (Shotgun) P.Rivers scrambles up the middle to JAC 5 for 4 yards (P.Posluszny).,8,3,76,JAC 9,0,SD,
+7,2264,1,09:02,"(9:02) (No Huddle, Shotgun) R.Mathews up the middle to JAC 9 for 2 yards (A.Branch).",10,3,72,JAC 11,0,SD,
+7,2306,3,07:31,(7:31) (Shotgun) P.Rivers pass short middle to A.Gates to JAC 2 for 3 yards (J.Evans). Play Challenged by JAC and Upheld. (Timeout #1.),4,3,79,JAC 5,0,SD,TIMEOUT
+7,2186,2,10:24,"(10:24) P.Rivers pass incomplete short left to K.Allen. PENALTY on SD-R.Ohrnberger, Offensive Holding, 10 yards, enforced at JAC 41 - No Play.",10,3,30,JAC 41,0,SD,PENALTY
+7,2389,4,06:52,"(6:52) N.Novak 20 yard field goal is GOOD, Center-M.Windt, Holder-M.Scifres.",1,3,79,JAC 2,1,SD,FG
+7,2100,1,12:32,"(12:32) (No Huddle, Shotgun) R.Brown up the middle to JAC 45 for 9 yards (W.Blackmon).",10,3,36,SD 46,0,SD,
+7,2076,1,13:09,(13:09) (Shotgun) P.Rivers pass short right to L.Green to SD 46 for 27 yards (J.Cyprien).,10,3,27,SD 19,0,SD,
+7,2163,2,10:41,"(10:41) (No Huddle, Shotgun) PENALTY on SD-J.Clary, False Start, 5 yards, enforced at JAC 36 - No Play.",5,3,40,JAC 36,0,SD,PENALTY
+7,2142,1,11:23,(11:23) R.Mathews left end to JAC 36 for 5 yards (S.Marks).,10,3,45,JAC 41,0,SD,
+6,1980,2,14:32,"(14:32) (Shotgun) M.Jones-Drew up the middle to JAC 31 for 3 yards (K.Reyes). PENALTY on JAC-W.Rackley, Personal Foul, 15 yards, enforced at JAC 31.",2,3,7,JAC 28,0,JAC,PENALTY
+6,2057,4,13:19,"(13:19) (Punt formation) B.Anger punts 54 yards to SD 19, Center-C.Tinker, out of bounds.",3,3,7,JAC 27,0,JAC,PUNT
+6,1944,0,15:00,"N.Novak kicks 65 yards from SD 35 to end zone, Touchback.",0,3,0,SD 35,0,SD,KICKOFF
+6,2036,3,13:52,"(13:52) (No Huddle, Shotgun) C.Henne left end to JAC 27 for -1 yards (M.Te'o).",2,3,7,JAC 28,0,JAC,
+6,1959,1,15:00,(15:00) (Shotgun) M.Jones-Drew up the middle to JAC 28 for 8 yards (A.Gachkar).,10,3,8,JAC 20,0,JAC,
+6,2012,2,14:13,(14:13) C.Henne pass short left to J.Blackmon to JAC 28 for 12 yards (T.Keiser).,14,3,7,JAC 16,0,JAC,
+9,2622,0,03:54,J.Scobee kicks 67 yards from JAC 35 to SD -2. L.Hawkins to SD 16 for 18 yards (L.Reynolds).,0,3,0,JAC 35,0,JAC,KICKOFF
+9,2735,3,01:41,"(1:41) (No Huddle, Shotgun) D.Woodhead up the middle to SD 42 for 4 yards (G.Hayes).",3,3,26,SD 38,0,SD,
+9,2711,2,02:22,(2:22) (Shotgun) P.Rivers pass short right to E.Royal to SD 38 for 6 yards (P.Posluszny).,9,3,22,SD 32,0,SD,
+9,2780,2,00:16,"(:16) (No Huddle, Shotgun) R.Mathews right end to JAC 39 for 12 yards (J.Evans).",3,3,45,SD 49,0,SD,
+9,2644,1,03:46,(3:46) (Shotgun) P.Rivers pass incomplete short right to K.Allen.,10,3,0,SD 16,0,SD,
+9,2818,1,15:00,(15:00) (Shotgun) R.Mathews up the middle to JAC 32 for 7 yards (M.Harris).,10,4,52,JAC 39,0,SD,
+9,2926,0,14:13,Timeout #1 by SD at 14:13.,0,4,84,,0,,TIMEOUT
+9,2666,2,03:41,(3:41) (Shotgun) P.Rivers pass short middle to V.Brown to SD 31 for 15 yards (A.Ball).,10,3,15,SD 16,0,SD,
+9,2839,2,14:31,"(14:31) (No Huddle, Shotgun) P.Rivers pass short left to E.Royal to JAC 3 for 29 yards (G.Hayes; J.Evans). FUMBLES (G.Hayes), RECOVERED by JAC-A.Branch at SD -3. Touchback. The Replay Assistant challenged the fumble ruling, and the play was REVERSED. (No Huddle, Shotgun) P.Rivers pass short left to E.Royal to JAC 3 for 29 yards (G.Hayes; J.Evans).",3,4,84,JAC 32,0,SD,
+9,2965,0,14:08,"N.Novak extra point is GOOD, Center-M.Windt, Holder-M.Scifres.",0,4,84,JAC 2,1,SD,XP
+9,2756,1,00:56,"(:56) (No Huddle, Shotgun) P.Rivers pass short middle to D.Woodhead to SD 49 for 7 yards (P.Posluszny).",10,3,33,SD 42,0,SD,
+9,2943,1,14:13,"(14:13) R.Mathews up the middle for 3 yards, TOUCHDOWN.",3,4,84,JAC 3,1,SD,TD
+9,2690,1,03:06,"(3:06) (No Huddle, Shotgun) D.Woodhead up the middle to SD 32 for 1 yard (T.Alualu).",10,3,16,SD 31,0,SD,
+8,2541,2,04:10,(4:10) (Shotgun) C.Henne pass incomplete short left to M.Lewis (M.Gilchrist).,5,3,75,SD 5,0,JAC,
+8,2472,1,05:52,"(5:52) (No Huddle, Shotgun) C.Henne pass short left to C.Shorts pushed ob at SD 20 for 5 yards (D.Cox).",10,3,60,SD 25,0,JAC,
+8,2602,4,03:57,"(3:57) (Field Goal formation) J.Scobee 23 yard field goal is GOOD, Center-C.Tinker, Holder-B.Anger.",5,3,75,SD 5,1,JAC,FG
+8,2448,1,06:14,(6:14) (Shotgun) C.Henne pass deep middle to M.Brown pushed ob at SD 25 for 43 yards (M.Gilchrist).,10,3,55,JAC 32,0,JAC,
+8,2424,1,06:48,(6:48) C.Henne pass short middle to M.Jones-Drew to JAC 32 for 12 yards (M.Te'o; A.Gachkar).,10,3,12,JAC 20,0,JAC,
+8,2585,0,03:57,Timeout #2 by JAC at 03:57.,0,3,75,,0,,TIMEOUT
+8,2496,2,05:28,(5:28) (Shotgun) C.Henne pass short right to C.Shorts to SD 8 for 12 yards (E.Weddle).,5,3,72,SD 20,0,JAC,
+8,2409,0,06:48,"N.Novak kicks 65 yards from SD 35 to end zone, Touchback.",0,3,0,SD 35,0,SD,KICKOFF
+8,2563,3,04:04,(4:04) (Shotgun) C.Henne pass incomplete short right to J.Blackmon.,5,3,75,SD 5,0,JAC,
+8,2520,1,04:52,(4:52) (Shotgun) M.Jones-Drew left guard to SD 5 for 3 yards (S.Lissemore).,8,3,75,SD 8,0,JAC,

@@ -1,188 +1,188 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1762,1,00:24,,10,2,37,CAR 35,0,ATL,
-9,1640,2,00:50,,1,2,26,CAR 49,0,ATL,
-9,1829,1,00:06,,10,2,48,CAR 24,1,ATL,FG
-9,1788,2,00:11,,10,2,48,CAR 35,0,ATL,
-9,1664,0,00:44,,0,2,26,,0,,TIMEOUT
-9,1587,2,01:15,,7,2,14,ATL 31,0,ATL,
-9,1563,1,01:35,,10,2,3,ATL 28,0,ATL,
-9,1616,1,01:09,,10,2,23,ATL 42,0,ATL,
-9,1716,2,00:28,,9,2,27,CAR 45,0,ATL,
-9,1812,0,00:06,,0,2,48,,0,,TIMEOUT
-9,1681,1,00:44,,10,2,37,CAR 46,0,ATL,
-9,1738,3,00:24,,9,2,37,CAR 45,0,ATL,
-24,3725,0,02:16,,0,4,54,,0,,TIMEOUT
-24,3742,3,02:15,,9,4,54,CAR 26,0,ATL,
-24,3704,2,02:22,,10,4,54,CAR 27,0,ATL,
-24,3483,0,06:20,,0,4,0,CAR 35,0,CAR,KICKOFF
-24,3498,1,06:20,,10,4,0,ATL 20,0,ATL,
-24,3568,2,05:21,,1,4,29,ATL 41,0,ATL,
-24,3520,2,06:15,,10,4,12,ATL 20,0,ATL,
-24,3544,1,05:45,,10,4,21,ATL 32,0,ATL,
-24,3634,2,03:58,,8,4,45,CAR 38,0,ATL,
-24,3768,4,02:12,,9,4,54,CAR 26,1,ATL,FG
-24,3658,3,03:14,,5,4,53,CAR 35,0,ATL,
-24,3613,1,04:31,,10,4,42,CAR 40,0,ATL,
-24,3589,1,04:53,,10,4,40,ATL 49,0,ATL,
-24,3682,1,02:28,,10,4,53,CAR 27,0,ATL,
-10,1870,0,,,0,2,0,,0,,
-10,1848,0,00:02,,0,2,0,ATL 35,0,ATL,KICKOFF
-20,3031,1,12:39,,10,4,-2,ATL 16,0,ATL,
-20,3098,4,11:14,,4,4,6,ATL 22,0,ATL,PUNT
-20,3076,3,11:21,,4,4,6,ATL 22,0,ATL,
-20,3052,2,12:04,,12,4,6,ATL 14,0,ATL,
-6,1254,4,06:36,,7,2,19,CAR 39,0,CAR,PUNT
-6,1098,0,09:26,,0,2,0,ATL 35,0,ATL,KICKOFF
-6,1228,3,06:40,,7,2,19,CAR 39,0,CAR,
-6,1161,3,08:01,,2,2,16,CAR 28,0,CAR,
-6,1113,1,09:26,,10,2,-3,CAR 20,0,CAR,
-6,1137,2,08:44,,13,2,8,CAR 17,0,CAR,
-6,1204,2,07:17,,10,2,19,CAR 36,0,CAR,
-6,1182,1,07:22,,10,2,16,CAR 36,0,CAR,
-27,4227,1,00:01,,10,4,39,ATL 45,0,CAR,FGB
-27,4139,1,00:22,,10,4,14,CAR 16,0,CAR,
-27,4192,2,00:08,,3,4,39,CAR 37,0,CAR,
-27,4168,1,00:15,,10,4,21,CAR 30,0,CAR,
-18,2864,3,14:23,,4,4,6,ATL 12,0,ATL,
-18,2824,0,,,0,3,2,,0,,
-18,2886,4,14:18,,4,4,6,ATL 12,0,ATL,PUNT
-18,2840,2,15:00,,8,4,6,ATL 8,0,ATL,
-18,2803,1,00:28,,10,3,2,ATL 6,0,ATL,
-26,4052,2,01:17,,8,4,4,ATL 38,0,ATL,
-26,4073,0,01:13,,0,4,4,,0,,TIMEOUT
-26,4090,3,01:13,,6,4,9,ATL 40,0,ATL,
-26,4014,1,01:22,,10,4,2,ATL 36,0,ATL,
-26,4035,0,01:17,,0,4,2,,0,,TIMEOUT
-26,4111,4,00:28,,1,4,9,ATL 45,0,ATL,PUNT
-25,3934,2,01:35,,9,4,37,ATL 31,0,CAR,
-25,3993,4,01:26,,6,4,36,ATL 28,0,CAR,FGM
-25,3896,1,01:42,,10,4,33,ATL 32,0,CAR,
-25,3809,1,02:01,,10,4,15,CAR 36,0,CAR,
-25,3972,3,01:31,,5,4,36,ATL 27,0,CAR,
-25,3787,0,02:08,,0,4,0,ATL 35,0,ATL,KICKOFF
-25,3917,0,01:35,,0,4,33,,0,,TIMEOUT
-25,3955,0,01:35,,0,4,37,,0,,TIMEOUT
-25,3872,2,01:49,,10,4,32,ATL 49,0,CAR,
-25,3833,0,01:54,,0,4,15,,0,,
-25,3850,1,01:54,,10,4,15,ATL 49,0,CAR,
-1,72,2,14:25,,6,1,6,ATL 24,0,ATL,
-1,121,4,13:02,,1,1,9,ATL 29,0,ATL,PUNT
-1,93,3,13:43,,4,1,9,ATL 26,0,ATL,
-1,51,1,15:00,,10,1,9,ATL 20,0,ATL,
-1,36,0,15:00,,0,1,0,CAR 35,0,CAR,KICKOFF
-5,829,2,14:26,,6,2,11,ATL 24,0,ATL,
-5,947,1,11:59,,10,2,44,CAR 39,0,ATL,
-5,878,2,13:26,,10,2,28,ATL 31,0,ATL,
-5,923,2,12:22,,7,2,41,CAR 49,0,ATL,
-5,971,2,11:20,,7,2,66,CAR 36,0,ATL,
-5,1017,1,10:49,,10,2,66,CAR 17,0,ATL,
-5,805,1,14:57,,10,2,4,ATL 20,0,ATL,
-5,1038,2,10:15,,7,2,66,CAR 14,0,ATL,
-5,1079,4,09:30,,9,2,64,CAR 16,1,ATL,FG
-5,902,1,12:50,,10,2,31,ATL 48,0,ATL,
-5,993,3,11:19,,7,2,63,CAR 36,0,ATL,
-5,1060,3,10:09,,7,2,64,CAR 14,0,ATL,
-5,786,0,14:57,,0,2,0,CAR 35,0,CAR,KICKOFF
-5,857,1,14:01,,10,2,11,ATL 31,0,ATL,
-13,2088,1,12:03,,10,3,-1,CAR 20,0,CAR,
-13,2111,2,11:21,,11,3,7,CAR 19,0,CAR,
-13,2132,3,10:37,,3,3,7,CAR 27,0,CAR,
-13,2066,0,12:07,,0,3,0,ATL 35,0,ATL,KICKOFF
-13,2154,4,10:33,,3,3,7,CAR 27,0,CAR,PUNT
-21,3243,1,09:18,,10,4,71,ATL 22,1,CAR,TD
-21,3222,2,09:47,,7,4,49,ATL 37,0,CAR,
-21,3201,1,10:19,,10,4,34,ATL 40,0,CAR,
-21,3263,0,09:12,,0,4,71,ATL 2,1,CAR,XP
-21,3144,2,10:45,,7,4,16,CAR 32,0,CAR,
-21,3123,1,11:02,,10,4,3,CAR 29,0,CAR,
-21,3168,1,10:23,,10,4,31,CAR 45,0,CAR,PENALTY
-23,3423,1,07:01,,10,4,22,CAR 31,0,CAR,
-23,3467,0,06:20,,0,4,69,ATL 2,1,CAR,XP
-23,3447,1,06:29,,10,4,69,ATL 47,1,CAR,TD
-11,1886,0,15:00,,0,3,0,ATL 35,0,ATL,KICKOFF
-11,1947,3,13:44,,2,3,8,CAR 28,0,CAR,INT
-11,1905,1,15:00,,10,3,4,CAR 20,0,CAR,
-11,1926,2,14:22,,6,3,8,CAR 24,0,CAR,
-14,2241,1,09:02,,10,3,16,CAR 42,0,ATL,
-14,2195,2,10:20,,10,3,9,ATL 45,0,ATL,
-14,2216,3,09:38,,1,3,13,CAR 46,0,ATL,
-14,2338,1,06:38,,2,3,55,CAR 2,1,ATL,TD
-14,2173,1,10:23,,10,3,0,ATL 45,0,ATL,
-14,2314,1,07:11,,10,3,53,CAR 22,0,ATL,
-14,2358,0,06:34,,0,3,55,CAR 2,1,ATL,XP
-14,2269,2,08:21,,7,3,15,CAR 39,0,ATL,
-14,2290,3,07:47,,8,3,33,CAR 40,0,ATL,
-8,1487,0,02:00,,0,2,18,,0,,
-8,1544,4,01:48,,10,2,12,CAR 34,0,CAR,PUNT
-8,1413,1,03:47,,10,2,12,CAR 22,0,CAR,
-8,1523,0,01:48,,0,2,12,,0,,TIMEOUT
-8,1442,1,03:11,,10,2,13,CAR 34,0,CAR,
-8,1463,2,02:30,,9,2,18,CAR 35,0,CAR,
-8,1504,3,02:00,,4,2,12,CAR 40,0,CAR,
-19,3012,4,12:46,,5,4,18,ATL 48,0,CAR,PUNT
-19,2911,1,14:03,,10,4,13,CAR 34,0,CAR,
-19,2990,3,12:52,,5,4,18,ATL 48,0,CAR,
-19,2939,1,13:33,,10,4,18,CAR 47,0,CAR,
-19,2968,2,12:58,,5,4,18,ATL 48,0,CAR,
-22,3357,2,08:01,,9,4,5,ATL 20,0,ATL,
-22,3279,0,09:12,,0,4,0,CAR 35,0,CAR,KICKOFF
-22,3376,3,07:19,,15,4,5,ATL 14,0,ATL,
-22,3312,1,09:05,,10,4,11,ATL 8,0,ATL,
-22,3336,1,08:43,,10,4,12,ATL 19,0,ATL,
-22,3398,4,07:13,,15,4,6,ATL 14,0,ATL,PUNT
-12,2025,3,12:13,,4,3,6,CAR 8,0,ATL,
-12,1983,1,13:35,,10,3,4,CAR 14,0,ATL,
-12,2004,2,12:56,,6,3,6,CAR 10,0,ATL,
-12,2047,4,12:09,,4,3,6,CAR 8,1,ATL,FG
-16,2660,2,02:08,,26,3,54,CAR 47,0,ATL,FUMBLE
-16,2482,1,05:02,,10,3,2,ATL 14,0,ATL,
-16,2569,2,03:09,,9,3,55,ATL 43,0,ATL,PENALTY
-16,2605,1,02:51,,10,3,44,CAR 31,0,ATL,PENALTY
-16,2503,2,04:34,,8,3,13,ATL 16,0,ATL,
-16,2548,1,03:38,,10,3,29,ATL 42,0,ATL,
-16,2527,1,04:04,,10,3,28,ATL 27,0,ATL,
-16,2637,2,02:29,,21,3,39,CAR 42,0,ATL,PENALTY
-7,1322,1,05:20,,10,2,12,ATL 37,0,ATL,
-7,1273,1,06:25,,10,2,16,ATL 25,0,ATL,
-7,1371,3,04:37,,7,2,16,ATL 40,0,ATL,
-7,1395,4,03:56,,6,2,16,ATL 41,0,ATL,PUNT
-7,1350,2,05:15,,10,2,15,ATL 37,0,ATL,
-7,1294,2,05:55,,8,2,10,ATL 27,0,ATL,
-3,313,1,10:19,,10,1,4,ATL 32,0,ATL,
-3,334,2,09:51,,6,1,8,ATL 36,0,ATL,
-3,355,3,09:17,,2,1,8,ATL 40,0,ATL,
-3,377,4,09:10,,2,1,8,ATL 40,0,ATL,PUNT
-17,2784,4,00:37,,5,3,22,ATL 48,0,CAR,PUNT
-17,2695,1,01:58,,10,3,17,CAR 30,0,CAR,
-17,2762,3,00:42,,5,3,22,ATL 48,0,CAR,
-17,2719,1,01:27,,10,3,17,CAR 47,0,CAR,
-17,2741,2,01:22,,10,3,22,CAR 47,0,CAR,
-4,686,1,00:51,,10,1,83,ATL 11,0,CAR,
-4,438,1,07:49,,10,1,24,CAR 23,0,CAR,
-4,615,1,02:45,,10,1,64,ATL 31,0,CAR,
-4,417,2,08:26,,2,1,11,CAR 20,0,CAR,
-4,483,2,06:32,,3,1,34,CAR 43,0,CAR,
-4,767,4,15:00,,4,2,83,ATL 5,1,CAR,FG
-4,549,1,04:31,,10,1,48,ATL 41,0,CAR,
-4,459,1,07:13,,10,1,31,CAR 36,0,CAR,
-4,504,1,05:49,,10,1,37,CAR 46,0,CAR,
-4,657,3,01:26,,3,1,77,ATL 24,0,CAR,
-4,591,3,03:13,,9,1,57,ATL 40,0,CAR,
-4,396,1,09:02,,10,1,8,CAR 12,0,CAR,
-4,707,2,00:07,,4,1,83,ATL 5,0,CAR,
-4,525,2,05:12,,7,1,47,CAR 49,0,CAR,
-4,729,3,00:05,,4,1,83,ATL 5,0,CAR,
-4,570,2,03:54,,9,1,48,ATL 40,0,CAR,
-4,636,2,02:09,,3,1,64,ATL 24,0,CAR,
-2,146,1,12:47,,10,1,15,CAR 25,0,CAR,PENALTY
-2,215,2,11:51,,10,1,27,CAR 40,0,CAR,
-2,177,0,12:28,,0,1,15,,0,,TIMEOUT
-2,261,2,11:04,,10,1,31,ATL 48,0,CAR,
-2,239,1,11:10,,10,1,27,ATL 48,0,CAR,
-2,194,1,12:28,,10,1,15,CAR 40,0,CAR,
-2,282,3,10:25,,6,1,31,ATL 44,0,CAR,INT
-15,2396,1,06:26,,10,3,3,CAR 42,0,CAR,
-15,2463,4,05:11,,4,3,6,CAR 48,0,CAR,PUNT
-15,2441,3,05:19,,4,3,6,CAR 48,0,CAR,
-15,2417,2,05:51,,7,3,6,CAR 45,0,CAR,
-15,2374,0,06:34,,0,3,0,ATL 35,0,ATL,KICKOFF
+24,3544,1,05:45,(5:45) M.Ryan pass short right to H.Douglas to ATL 41 for 9 yards (C.Jones).,10,4,21,ATL 32,0,ATL,
+24,3613,1,04:31,(4:31) (No Huddle) D.Freeman right tackle to CAR 38 for 2 yards (L.Kuechly; K.Ealy).,10,4,42,CAR 40,0,ATL,
+24,3498,1,06:20,(6:20) (Shotgun) M.Ryan pass incomplete short middle to L.Toilolo (L.Kuechly).,10,4,0,ATL 20,0,ATL,
+24,3768,4,02:12,"(2:12) M.Bryant 44 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher.",9,4,54,CAR 26,1,ATL,FG
+24,3589,1,04:53,(4:53) (No Huddle) M.Ryan pass short right to R.White to CAR 40 for 11 yards (A.Cason).,10,4,40,ATL 49,0,ATL,
+24,3483,0,06:20,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback.",0,4,0,CAR 35,0,CAR,KICKOFF
+24,3742,3,02:15,(2:15) M.Ryan pass incomplete short left to R.White (C.Jones).,9,4,54,CAR 26,0,ATL,
+24,3658,3,03:14,(3:14) (Shotgun) M.Ryan pass short right to H.Douglas to CAR 27 for 8 yards (A.Cason).,5,4,53,CAR 35,0,ATL,
+24,3704,2,02:22,(2:22) S.Jackson up the middle to CAR 26 for 1 yard (C.Johnson). Gabe Carimi reported as eligible.,10,4,54,CAR 27,0,ATL,
+24,3520,2,06:15,(6:15) (Shotgun) M.Ryan pass short left to H.Douglas to ATL 32 for 12 yards (J.Norman).,10,4,12,ATL 20,0,ATL,
+24,3682,1,02:28,(2:28) (No Huddle) M.Ryan pass incomplete short left to J.Jones.,10,4,53,CAR 27,0,ATL,
+24,3725,0,02:16,Timeout #1 by CAR at 02:16.,0,4,54,,0,,TIMEOUT
+24,3568,2,05:21,(5:21) (No Huddle) D.Freeman right guard to ATL 49 for 8 yards (T.Davis).,1,4,29,ATL 41,0,ATL,
+24,3634,2,03:58,"(3:58) (No Huddle, Shotgun) M.Ryan pass short right to L.Toilolo to CAR 35 for 3 yards (T.Davis).",8,4,45,CAR 38,0,ATL,
+25,3917,0,01:35,Timeout #1 by ATL at 01:35.,0,4,33,,0,,TIMEOUT
+25,3809,1,02:01,(2:01) (Shotgun) C.Newton pass short right to G.Olsen to ATL 49 for 15 yards (K.Ishmael).,10,4,15,CAR 36,0,CAR,
+25,3787,0,02:08,M.Bosher kicks 48 yards from ATL 35 to CAR 17. B.Williams to CAR 36 for 19 yards (E.Weems; D.Freeman).,0,4,0,ATL 35,0,ATL,KICKOFF
+25,3833,0,01:54,Two-Minute Warning,0,4,15,,0,,
+25,3934,2,01:35,(1:35) (Shotgun) C.Newton right guard to ATL 27 for 4 yards (K.Biermann).,9,4,37,ATL 31,0,CAR,
+25,3872,2,01:49,(1:49) (Shotgun) C.Newton pass short right to K.Benjamin to ATL 32 for 17 yards (D.Southward).,10,4,32,ATL 49,0,CAR,
+25,3955,0,01:35,Timeout #2 by ATL at 01:35.,0,4,37,,0,,TIMEOUT
+25,3993,4,01:26,"(1:26) G.Gano 46 yard field goal is No Good, Wide Left, Center-J.Jansen, Holder-B.Nortman.",6,4,36,ATL 28,0,CAR,FGM
+25,3972,3,01:31,(1:31) J.Stewart up the middle to ATL 28 for -1 yards (R.McClain).,5,4,36,ATL 27,0,CAR,
+25,3850,1,01:54,(1:54) (Shotgun) C.Newton pass incomplete short right to G.Olsen.,10,4,15,ATL 49,0,CAR,
+25,3896,1,01:42,(1:42) D.Williams up the middle to ATL 31 for 1 yard (K.Biermann; P.Soliai).,10,4,33,ATL 32,0,CAR,
+26,4090,3,01:13,(1:13) S.Jackson left guard to ATL 45 for 5 yards (L.Kuechly).,6,4,9,ATL 40,0,ATL,
+26,4052,2,01:17,(1:17) S.Jackson left guard to ATL 40 for 2 yards (D.Edwards; M.Addison).,8,4,4,ATL 38,0,ATL,
+26,4073,0,01:13,Timeout #3 by CAR at 01:13.,0,4,4,,0,,TIMEOUT
+26,4014,1,01:22,(1:22) S.Jackson up the middle to ATL 38 for 2 yards (D.Edwards).,10,4,2,ATL 36,0,ATL,
+26,4035,0,01:17,Timeout #2 by CAR at 01:17.,0,4,2,,0,,TIMEOUT
+26,4111,4,00:28,"(:28) M.Bosher punts 39 yards to CAR 16, Center-J.Harris, fair catch by B.Bersin.",1,4,9,ATL 45,0,ATL,PUNT
+27,4139,1,00:22,(:22) (Shotgun) C.Newton pass short left to K.Benjamin to CAR 21 for 5 yards. Lateral to J.Cotchery to CAR 30 for 9 yards (D.Lowery).,10,4,14,CAR 16,0,CAR,
+27,4227,1,00:01,"(:01) G.Gano 63 yard field goal is BLOCKED (R.Hageman), Center-J.Jansen, Holder-B.Nortman.",10,4,39,ATL 45,0,CAR,FGB
+27,4192,2,00:08,(:08) (Shotgun) C.Newton pass short left to K.Benjamin to ATL 44 for 19 yards. Lateral to G.Olsen ran ob at ATL 45 for -1 yards.,3,4,39,CAR 37,0,CAR,
+27,4168,1,00:15,(:15) (Shotgun) C.Newton pass short left to K.Benjamin to CAR 37 for 7 yards (D.Lowery).,10,4,21,CAR 30,0,CAR,
+20,3098,4,11:14,"(11:14) M.Bosher punts 48 yards to CAR 30, Center-J.Harris. C.Brown to CAR 29 for -1 yards (E.Weems).",4,4,6,ATL 22,0,ATL,PUNT
+20,3052,2,12:04,(12:04) M.Ryan pass short right to R.White to ATL 22 for 8 yards (A.Cason).,12,4,6,ATL 14,0,ATL,
+20,3031,1,12:39,(12:39) (Shotgun) S.Jackson up the middle to ATL 14 for -2 yards (K.Short; R.Harper).,10,4,-2,ATL 16,0,ATL,
+20,3076,3,11:21,(11:21) (Shotgun) M.Ryan pass incomplete deep left to R.White.,4,4,6,ATL 22,0,ATL,
+21,3201,1,10:19,(10:19) (Shotgun) F.Whittaker left tackle to ATL 37 for 3 yards (O.Umenyiora; P.Worrilow).,10,4,34,ATL 40,0,CAR,
+21,3243,1,09:18,"(9:18) (No Huddle, Shotgun) C.Newton pass deep left to K.Benjamin for 22 yards, TOUCHDOWN.",10,4,71,ATL 22,1,CAR,TD
+21,3123,1,11:02,(11:02) (Shotgun) F.Whittaker left end to CAR 32 for 3 yards (P.Shembo).,10,4,3,CAR 29,0,CAR,
+21,3222,2,09:47,"(9:47) (No Huddle, Shotgun) C.Newton right guard to ATL 22 for 15 yards (D.Lowery).",7,4,49,ATL 37,0,CAR,
+21,3263,0,09:12,"G.Gano extra point is GOOD, Center-J.Jansen, Holder-B.Nortman.",0,4,71,ATL 2,1,CAR,XP
+21,3144,2,10:45,"(10:45) (No Huddle, Shotgun) C.Newton pass short left to K.Benjamin to CAR 45 for 13 yards (P.Worrilow).",7,4,16,CAR 32,0,CAR,
+21,3168,1,10:23,"(10:23) (No Huddle, Shotgun) C.Newton pass incomplete short right to J.Avant. PENALTY on ATL-P.Soliai, Roughing the Passer, 15 yards, enforced at CAR 45 - No Play.",10,4,31,CAR 45,0,CAR,PENALTY
+22,3376,3,07:19,(7:19) (Shotgun) M.Ryan pass incomplete short left to J.Rodgers.,15,4,5,ATL 14,0,ATL,
+22,3357,2,08:01,(8:01) (Shotgun) M.Ryan sacked at ATL 14 for -6 yards (C.Johnson).,9,4,5,ATL 20,0,ATL,
+22,3336,1,08:43,(8:43) (No Huddle) J.Rodgers up the middle to ATL 20 for 1 yard (C.Johnson).,10,4,12,ATL 19,0,ATL,
+22,3398,4,07:13,"(7:13) M.Bosher punts 58 yards to CAR 28, Center-J.Harris. C.Brown to CAR 31 for 3 yards (E.Weems).",15,4,6,ATL 14,0,ATL,PUNT
+22,3312,1,09:05,(9:05) M.Ryan pass short left to R.White to ATL 19 for 11 yards (A.Cason; T.Davis).,10,4,11,ATL 8,0,ATL,
+22,3279,0,09:12,"G.Gano kicks 68 yards from CAR 35 to ATL -3. D.Hester to ATL 21 for 24 yards (B.Jacobs). PENALTY on ATL-J.Blalock, Offensive Holding, 8 yards, enforced at ATL 16.",0,4,0,CAR 35,0,CAR,KICKOFF
+23,3423,1,07:01,(7:01) C.Newton pass deep left to J.Cotchery to ATL 47 for 22 yards (D.Lowery).,10,4,22,CAR 31,0,CAR,
+23,3467,0,06:20,"G.Gano extra point is GOOD, Center-J.Jansen, Holder-B.Nortman.",0,4,69,ATL 2,1,CAR,XP
+23,3447,1,06:29,"(6:29) C.Newton pass deep right to C.Brown for 47 yards, TOUCHDOWN.",10,4,69,ATL 47,1,CAR,TD
+1,121,4,13:02,"(13:02) M.Bosher punts 54 yards to CAR 17, Center-J.Harris. C.Brown to CAR 25 for 8 yards (E.Weems; J.Harris).",1,1,9,ATL 29,0,ATL,PUNT
+1,93,3,13:43,(13:43) (Shotgun) M.Ryan pass short right to R.White to ATL 29 for 3 yards (T.Davis).,4,1,9,ATL 26,0,ATL,
+1,51,1,15:00,(15:00) M.Ryan scrambles left guard to ATL 24 for 4 yards (L.Kuechly).,10,1,9,ATL 20,0,ATL,
+1,36,0,15:00,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback.",0,1,0,CAR 35,0,CAR,KICKOFF
+1,72,2,14:25,(14:25) S.Jackson right guard to ATL 26 for 2 yards (R.Harper). Gabe Carimi reported as eligible.,6,1,6,ATL 24,0,ATL,
+3,313,1,10:19,(10:19) S.Jackson right end to ATL 36 for 4 yards (C.Johnson; R.Harper).,10,1,4,ATL 32,0,ATL,
+3,334,2,09:51,(9:51) (No Huddle) S.Jackson up the middle to ATL 40 for 4 yards (D.Edwards; T.Davis).,6,1,8,ATL 36,0,ATL,
+3,355,3,09:17,"(9:17) (No Huddle, Shotgun) M.Ryan pass incomplete short right to R.White.",2,1,8,ATL 40,0,ATL,
+3,377,4,09:10,"(9:10) M.Bosher punts 48 yards to CAR 12, Center-J.Harris, fair catch by C.Brown.",2,1,8,ATL 40,0,ATL,PUNT
+2,146,1,12:47,"(12:47) C.Newton sacked at CAR 16 for -9 yards (T.Jackson). PENALTY on ATL-T.Jackson, Roughing the Passer, 15 yards, enforced at CAR 25 - No Play.",10,1,15,CAR 25,0,CAR,PENALTY
+2,215,2,11:51,(11:51) (Shotgun) C.Newton pass short left to J.Cotchery to ATL 48 for 12 yards (J.Bartu).,10,1,27,CAR 40,0,CAR,
+2,194,1,12:28,(12:28) D.Williams right tackle to CAR 40 for no gain (J.Bartu; J.Babineaux).,10,1,15,CAR 40,0,CAR,
+2,261,2,11:04,(11:04) (Shotgun) J.Stewart up the middle to ATL 44 for 4 yards (M.Goodman; J.Bartu).,10,1,31,ATL 48,0,CAR,
+2,239,1,11:10,(11:10) C.Newton pass incomplete short left to K.Benjamin (D.Trufant).,10,1,27,ATL 48,0,CAR,
+2,177,0,12:28,Timeout #1 by CAR at 12:28.,0,1,15,,0,,TIMEOUT
+2,282,3,10:25,(10:25) (Shotgun) C.Newton pass short left intended for G.Olsen INTERCEPTED by K.Ishmael at ATL 32. K.Ishmael ran ob at ATL 32 for no gain.,6,1,31,ATL 44,0,CAR,INT
+5,902,1,12:50,(12:50) (No Huddle) J.Rodgers left guard to CAR 49 for 3 yards (L.Kuechly).,10,2,31,ATL 48,0,ATL,
+5,786,0,14:57,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback.",0,2,0,CAR 35,0,CAR,KICKOFF
+5,857,1,14:01,(14:01) (No Huddle) D.Freeman right tackle to ATL 31 for no gain (D.Edwards).,10,2,11,ATL 31,0,ATL,
+5,971,2,11:20,(11:20) (No Huddle) M.Ryan pass incomplete short left to J.Jones.,7,2,66,CAR 36,0,ATL,
+5,878,2,13:26,"(13:26) (No Huddle, Shotgun) M.Ryan pass short left to H.Douglas to ATL 48 for 17 yards (C.Jones) [D.Edwards].",10,2,28,ATL 31,0,ATL,
+5,1079,4,09:30,"(9:30) M.Bryant 34 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher.",9,2,64,CAR 16,1,ATL,FG
+5,947,1,11:59,"(11:59) (No Huddle, Shotgun) M.Ryan pass short right to A.Smith to CAR 36 for 3 yards (L.Kuechly).",10,2,44,CAR 39,0,ATL,
+5,1038,2,10:15,"(10:15) (No Huddle, Shotgun) M.Ryan pass incomplete short left to S.Jackson.",7,2,66,CAR 14,0,ATL,
+5,829,2,14:26,(14:26) (No Huddle) M.Ryan pass short left to J.Jones to ATL 31 for 7 yards (J.Norman; T.Davis).,6,2,11,ATL 24,0,ATL,
+5,1017,1,10:49,(10:49) (No Huddle) S.Jackson up the middle to CAR 14 for 3 yards (K.Short; R.Harper).,10,2,66,CAR 17,0,ATL,
+5,1060,3,10:09,(10:09) (Shotgun) M.Ryan sacked at CAR 16 for -2 yards (M.Addison).,7,2,64,CAR 14,0,ATL,
+5,923,2,12:22,(12:22) (No Huddle) M.Ryan pass short left to J.Jones pushed ob at CAR 39 for 10 yards (J.Norman).,7,2,41,CAR 49,0,ATL,
+5,993,3,11:19,(11:19) (Shotgun) M.Ryan pass short middle to R.White to CAR 17 for 19 yards (T.DeCoud).,7,2,63,CAR 36,0,ATL,
+5,805,1,14:57,(14:57) M.Ryan pass short left to J.Rodgers to ATL 24 for 4 yards (T.Davis). Gabe Carimi reported as eligible.,10,2,4,ATL 20,0,ATL,
+4,591,3,03:13,(3:13) (Shotgun) C.Newton pass short right to K.Benjamin ran ob at ATL 31 for 9 yards.,9,1,57,ATL 40,0,CAR,
+4,459,1,07:13,(7:13) (Shotgun) C.Newton pass short left to J.Stewart to CAR 43 for 7 yards (P.Shembo; R.Hageman).,10,1,31,CAR 36,0,CAR,
+4,686,1,00:51,(:51) (No Huddle) J.Stewart left tackle to ATL 5 for 6 yards (K.Ishmael).,10,1,83,ATL 11,0,CAR,
+4,707,2,00:07,(:07) (No Huddle) C.Newton pass incomplete short left to K.Benjamin.,4,1,83,ATL 5,0,CAR,
+4,636,2,02:09,"(2:09) (No Huddle, Shotgun) C.Newton left tackle to ATL 24 for no gain (K.Biermann).",3,1,64,ATL 24,0,CAR,
+4,657,3,01:26,(1:26) (Shotgun) C.Newton pass short right to G.Olsen pushed ob at ATL 11 for 13 yards (R.McClain).,3,1,77,ATL 24,0,CAR,
+4,570,2,03:54,"(3:54) (No Huddle, Shotgun) J.Stewart right guard to ATL 40 for no gain (P.Worrilow; K.Biermann).",9,1,48,ATL 40,0,CAR,
+4,767,4,15:00,"(15:00) G.Gano 23 yard field goal is GOOD, Center-J.Jansen, Holder-B.Nortman.",4,2,83,ATL 5,1,CAR,FG
+4,615,1,02:45,"(2:45) (No Huddle, Shotgun) D.Williams left tackle to ATL 24 for 7 yards (P.Worrilow).",10,1,64,ATL 31,0,CAR,
+4,525,2,05:12,(5:12) (Shotgun) C.Newton pass short left to G.Olsen to ATL 41 for 10 yards (K.Ishmael).,7,1,47,CAR 49,0,CAR,
+4,417,2,08:26,(8:26) D.Williams right tackle to CAR 23 for 3 yards (K.Biermann).,2,1,11,CAR 20,0,CAR,
+4,396,1,09:02,(9:02) (Shotgun) D.Williams left end to CAR 20 for 8 yards (P.Worrilow).,10,1,8,CAR 12,0,CAR,
+4,438,1,07:49,(7:49) J.Stewart left end to CAR 36 for 13 yards (R.Alford; K.Ishmael).,10,1,24,CAR 23,0,CAR,
+4,504,1,05:49,(5:49) (Shotgun) D.Williams right guard to CAR 49 for 3 yards (P.Soliai; P.Worrilow).,10,1,37,CAR 46,0,CAR,
+4,549,1,04:31,(4:31) (Shotgun) J.Stewart up the middle to ATL 40 for 1 yard (P.Soliai; T.Jackson).,10,1,48,ATL 41,0,CAR,
+4,483,2,06:32,(6:32) (Shotgun) C.Newton left tackle to CAR 46 for 3 yards (K.Ishmael).,3,1,34,CAR 43,0,CAR,
+4,729,3,00:05,(:05) (Shotgun) C.Newton pass incomplete short left to G.Olsen (K.Ishmael).,4,1,83,ATL 5,0,CAR,
+7,1322,1,05:20,"(5:20) (No Huddle, Shotgun) M.Ryan pass incomplete short left to J.Jones (J.Norman).",10,2,12,ATL 37,0,ATL,
+7,1273,1,06:25,(6:25) S.Jackson up the middle to ATL 27 for 2 yards (T.Davis; L.Kuechly). #68 Gabe Carimi reported as eligible.,10,2,16,ATL 25,0,ATL,
+7,1350,2,05:15,(5:15) (No Huddle) S.Jackson left guard to ATL 40 for 3 yards (K.Short; C.Jones).,10,2,15,ATL 37,0,ATL,
+7,1371,3,04:37,"(4:37) (No Huddle, Shotgun) M.Ryan pass short left to D.Hester to ATL 41 for 1 yard (J.Norman) [L.Kuechly].",7,2,16,ATL 40,0,ATL,
+7,1395,4,03:56,"(3:56) M.Bosher punts 37 yards to CAR 22, Center-J.Harris, out of bounds.",6,2,16,ATL 41,0,ATL,PUNT
+7,1294,2,05:55,"(5:55) (No Huddle, Shotgun) M.Ryan pass short left to P.DiMarco to ATL 37 for 10 yards (J.Norman).",8,2,10,ATL 27,0,ATL,
+6,1098,0,09:26,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback.",0,2,0,ATL 35,0,ATL,KICKOFF
+6,1161,3,08:01,(8:01) (Shotgun) C.Newton right guard to CAR 36 for 8 yards (K.Ishmael).,2,2,16,CAR 28,0,CAR,
+6,1204,2,07:17,(7:17) C.Newton pass short right to J.Stewart to CAR 39 for 3 yards (J.Bartu).,10,2,19,CAR 36,0,CAR,
+6,1137,2,08:44,(8:44) (Shotgun) C.Newton pass short right to G.Olsen to CAR 28 for 11 yards (R.McClain).,13,2,8,CAR 17,0,CAR,
+6,1254,4,06:36,"(6:36) B.Nortman punts 36 yards to ATL 25, Center-J.Jansen, downed by CAR-A.Klein.",7,2,19,CAR 39,0,CAR,PUNT
+6,1228,3,06:40,(6:40) (Shotgun) C.Newton pass incomplete short left to J.Cotchery.,7,2,19,CAR 39,0,CAR,
+6,1113,1,09:26,(9:26) C.Newton pass short left to D.Williams to CAR 17 for -3 yards (J.Babineaux).,10,2,-3,CAR 20,0,CAR,
+6,1182,1,07:22,(7:22) (Shotgun) C.Newton pass incomplete deep right to K.Benjamin.,10,2,16,CAR 36,0,CAR,
+9,1788,2,00:11,(:11) (Shotgun) M.Ryan pass short left to J.Jones to CAR 24 for 11 yards (J.Norman).,10,2,48,CAR 35,0,ATL,
+9,1738,3,00:24,(:24) (Shotgun) M.Ryan pass short left to R.White to CAR 35 for 10 yards (L.Kuechly).,9,2,37,CAR 45,0,ATL,
+9,1664,0,00:44,Timeout #2 by ATL at 00:44.,0,2,26,,0,,TIMEOUT
+9,1829,1,00:06,"(:06) M.Bryant 42 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher.",10,2,48,CAR 24,1,ATL,FG
+9,1640,2,00:50,"(:50) (No Huddle, Shotgun) M.Ryan pass short middle to J.Rodgers to CAR 46 for 3 yards (J.Dockery).",1,2,26,CAR 49,0,ATL,
+9,1812,0,00:06,Timeout #3 by ATL at 00:06.,0,2,48,,0,,TIMEOUT
+9,1616,1,01:09,(1:09) (Shotgun) M.Ryan pass short left to J.Jones to CAR 49 for 9 yards (T.DeCoud).,10,2,23,ATL 42,0,ATL,
+9,1587,2,01:15,"(1:15) (No Huddle, Shotgun) M.Ryan pass short left to J.Jones pushed ob at ATL 42 for 11 yards (R.Harper).",7,2,14,ATL 31,0,ATL,
+9,1681,1,00:44,(:44) (Shotgun) M.Ryan pass short middle to J.Rodgers to CAR 45 for 1 yard (L.Kuechly) [D.Edwards].,10,2,37,CAR 46,0,ATL,
+9,1762,1,00:24,(:24) (No Huddle) M.Ryan spiked the ball to stop the clock.,10,2,37,CAR 35,0,ATL,
+9,1563,1,01:35,(1:35) (Shotgun) M.Ryan pass short middle to S.Jackson to ATL 31 for 3 yards (L.Kuechly).,10,2,3,ATL 28,0,ATL,
+9,1716,2,00:28,(:28) (Shotgun) M.Ryan pass incomplete deep left to J.Jones.,9,2,27,CAR 45,0,ATL,
+8,1544,4,01:48,"(1:48) B.Nortman punts 38 yards to ATL 28, Center-J.Jansen, downed by CAR-J.Jansen.",10,2,12,CAR 34,0,CAR,PUNT
+8,1487,0,02:00,Two-Minute Warning,0,2,18,,0,,
+8,1442,1,03:11,(3:11) J.Stewart right end to CAR 35 for 1 yard (R.Hageman).,10,2,13,CAR 34,0,CAR,
+8,1504,3,02:00,(2:00) (Shotgun) C.Newton sacked at CAR 34 for -6 yards (D.Southward).,4,2,12,CAR 40,0,CAR,
+8,1523,0,01:48,Timeout #1 by ATL at 01:48.,0,2,12,,0,,TIMEOUT
+8,1413,1,03:47,(3:47) (Shotgun) C.Newton pass short left to K.Benjamin ran ob at CAR 34 for 12 yards.,10,2,12,CAR 22,0,CAR,
+8,1463,2,02:30,(2:30) C.Newton pass short middle to J.Stewart to CAR 40 for 5 yards (P.Shembo; K.Biermann).,9,2,18,CAR 35,0,CAR,
+11,1886,0,15:00,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback.",0,3,0,ATL 35,0,ATL,KICKOFF
+11,1905,1,15:00,(15:00) D.Williams up the middle to CAR 24 for 4 yards (P.Worrilow).,10,3,4,CAR 20,0,CAR,
+11,1947,3,13:44,(13:44) (Shotgun) C.Newton pass short left intended for K.Benjamin INTERCEPTED by D.Trufant at CAR 33. D.Trufant to CAR 14 for 19 yards (K.Benjamin).,2,3,8,CAR 28,0,CAR,INT
+11,1926,2,14:22,(14:22) D.Williams right tackle to CAR 28 for 4 yards (J.Babineaux).,6,3,8,CAR 24,0,CAR,
+10,1848,0,00:02,M.Bosher kicks 35 yards from ATL 35 to CAR 30. F.Whittaker to CAR 30 for no gain (E.Weems).,0,2,0,ATL 35,0,ATL,KICKOFF
+10,1870,0,,END QUARTER 2,0,2,0,,0,,
+13,2154,4,10:33,"(10:33) B.Nortman punts 28 yards to ATL 45, Center-J.Jansen, downed by CAR-J.Jansen.",3,3,7,CAR 27,0,CAR,PUNT
+13,2111,2,11:21,(11:21) (Shotgun) D.Williams right tackle to CAR 27 for 8 yards (P.Shembo).,11,3,7,CAR 19,0,CAR,
+13,2088,1,12:03,(12:03) (Shotgun) C.Newton sacked at CAR 19 for -1 yards (P.Worrilow).,10,3,-1,CAR 20,0,CAR,
+13,2132,3,10:37,(10:37) (Shotgun) C.Newton pass incomplete deep right to G.Olsen.,3,3,7,CAR 27,0,CAR,
+13,2066,0,12:07,M.Bosher kicks 53 yards from ATL 35 to CAR 12. B.Williams to CAR 20 for 8 yards (N.Stupar).,0,3,0,ATL 35,0,ATL,KICKOFF
+12,2025,3,12:13,(12:13) M.Ryan pass incomplete short left to J.Jones.,4,3,6,CAR 8,0,ATL,
+12,1983,1,13:35,(13:35) S.Jackson up the middle to CAR 10 for 4 yards (R.Harper).,10,3,4,CAR 14,0,ATL,
+12,2004,2,12:56,(12:56) S.Jackson up the middle to CAR 8 for 2 yards (K.Short; W.Horton).,6,3,6,CAR 10,0,ATL,
+12,2047,4,12:09,"(12:09) M.Bryant 26 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher.",4,3,6,CAR 8,1,ATL,FG
+15,2374,0,06:34,M.Bosher kicks 69 yards from ATL 35 to CAR -4. F.Whittaker to CAR 42 for 46 yards (R.McClain).,0,3,0,ATL 35,0,ATL,KICKOFF
+15,2396,1,06:26,(6:26) (Shotgun) D.Williams left end to CAR 45 for 3 yards (C.Peters).,10,3,3,CAR 42,0,CAR,
+15,2441,3,05:19,(5:19) (Shotgun) C.Newton pass incomplete short left to J.Cotchery.,4,3,6,CAR 48,0,CAR,
+15,2417,2,05:51,(5:51) (Shotgun) C.Newton pass short right to E.Dickson to CAR 48 for 3 yards (K.Biermann).,7,3,6,CAR 45,0,CAR,
+15,2463,4,05:11,"(5:11) B.Nortman punts 38 yards to ATL 14, Center-J.Jansen, fair catch by D.Hester.",4,3,6,CAR 48,0,CAR,PUNT
+14,2216,3,09:38,(9:38) S.Jackson left guard to CAR 42 for 4 yards (A.Klein). Gabe Carimi reported as eligible.,1,3,13,CAR 46,0,ATL,
+14,2338,1,06:38,"(6:38) M.Ryan pass short right to R.White for 2 yards, TOUCHDOWN.",2,3,55,CAR 2,1,ATL,TD
+14,2314,1,07:11,(7:11) M.Ryan pass deep right to L.Toilolo to CAR 2 for 20 yards (T.DeCoud).,10,3,53,CAR 22,0,ATL,
+14,2290,3,07:47,(7:47) (Shotgun) M.Ryan pass short left to D.Hester pushed ob at CAR 22 for 18 yards (J.Dockery).,8,3,33,CAR 40,0,ATL,
+14,2173,1,10:23,(10:23) (Shotgun) M.Ryan pass incomplete short middle to L.Toilolo (L.Kuechly).,10,3,0,ATL 45,0,ATL,
+14,2358,0,06:34,"M.Bryant extra point is GOOD, Center-J.Harris, Holder-M.Bosher.",0,3,55,CAR 2,1,ATL,XP
+14,2269,2,08:21,(8:21) S.Jackson right end to CAR 40 for -1 yards (T.Davis).,7,3,15,CAR 39,0,ATL,
+14,2195,2,10:20,(10:20) D.Hester left end to CAR 46 for 9 yards (T.Davis). Play was end around by Hester,10,3,9,ATL 45,0,ATL,
+14,2241,1,09:02,(9:02) M.Ryan pass short left to S.Jackson to CAR 39 for 3 yards (C.Johnson).,10,3,16,CAR 42,0,ATL,
+17,2741,2,01:22,(1:22) (Shotgun) F.Whittaker right end to ATL 48 for 5 yards (P.Worrilow).,10,3,22,CAR 47,0,CAR,
+17,2762,3,00:42,(:42) (Shotgun) C.Newton pass incomplete deep left to G.Olsen.,5,3,22,ATL 48,0,CAR,
+17,2695,1,01:58,(1:58) (Shotgun) C.Newton pass short middle to E.Dickson to CAR 47 for 17 yards (D.Lowery).,10,3,17,CAR 30,0,CAR,
+17,2719,1,01:27,"(1:27) (No Huddle, Shotgun) C.Newton pass incomplete short left to F.Whittaker.",10,3,17,CAR 47,0,CAR,
+17,2784,4,00:37,"(:37) B.Nortman punts 42 yards to ATL 6, Center-J.Jansen, downed by CAR-M.Addison.",5,3,22,ATL 48,0,CAR,PUNT
+16,2569,2,03:09,"(3:09) (No Huddle) M.Ryan pass short right to R.White to CAR 46 for 11 yards (R.Harper). PENALTY on CAR-R.Harper, Unnecessary Roughness, 15 yards, enforced at CAR 46.",9,3,55,ATL 43,0,ATL,PENALTY
+16,2605,1,02:51,"(2:51) S.Jackson right tackle to CAR 27 for 4 yards (T.DeCoud; T.Davis). PENALTY on ATL-D.Hester, Unnecessary Roughness, 15 yards, enforced at CAR 27.",10,3,44,CAR 31,0,ATL,PENALTY
+16,2527,1,04:04,(4:04) (No Huddle) D.Freeman left tackle to ATL 42 for 15 yards (L.Kuechly).,10,3,28,ATL 27,0,ATL,
+16,2637,2,02:29,"(2:29) (Shotgun) PENALTY on ATL-R.Schraeder, False Start, 5 yards, enforced at CAR 42 - No Play.",21,3,39,CAR 42,0,ATL,PENALTY
+16,2548,1,03:38,(3:38) (No Huddle) D.Freeman left guard to ATL 43 for 1 yard (D.Edwards; C.Johnson).,10,3,29,ATL 42,0,ATL,
+16,2482,1,05:02,(5:02) D.Freeman left guard to ATL 16 for 2 yards (L.Kuechly).,10,3,2,ATL 14,0,ATL,
+16,2660,2,02:08,"(2:08) (Shotgun) M.Ryan pass short left to D.Hester to CAR 32 for 15 yards (T.Davis). FUMBLES (T.Davis), RECOVERED by CAR-L.Kuechly at CAR 30. L.Kuechly to CAR 30 for no gain (J.Matthews).",26,3,54,CAR 47,0,ATL,FUMBLE
+16,2503,2,04:34,(4:34) (No Huddle) M.Ryan pass short right to J.Jones to ATL 27 for 11 yards (A.Cason; J.Norman).,8,3,13,ATL 16,0,ATL,
+19,2990,3,12:52,(12:52) (Shotgun) C.Newton pass incomplete deep left to G.Olsen.,5,4,18,ATL 48,0,CAR,
+19,2911,1,14:03,(14:03) (Shotgun) C.Newton pass short right to G.Olsen to CAR 47 for 13 yards (D.Lowery).,10,4,13,CAR 34,0,CAR,
+19,3012,4,12:46,"(12:46) B.Nortman punts 32 yards to ATL 16, Center-J.Jansen, fair catch by D.Hester.",5,4,18,ATL 48,0,CAR,PUNT
+19,2968,2,12:58,(12:58) (Shotgun) C.Newton pass incomplete short right to C.Brown.,5,4,18,ATL 48,0,CAR,
+19,2939,1,13:33,(13:33) C.Newton pass short left to K.Benjamin to ATL 48 for 5 yards (J.Massaquoi).,10,4,18,CAR 47,0,CAR,
+18,2824,0,,END QUARTER 3,0,3,2,,0,,
+18,2803,1,00:28,(:28) S.Jackson right tackle to ATL 8 for 2 yards (R.Harper).,10,3,2,ATL 6,0,ATL,
+18,2864,3,14:23,(14:23) (Shotgun) M.Ryan pass incomplete short left to R.White.,4,4,6,ATL 12,0,ATL,
+18,2840,2,15:00,(15:00) M.Ryan pass short right to P.DiMarco to ATL 12 for 4 yards (A.Klein).,8,4,6,ATL 8,0,ATL,
+18,2886,4,14:18,"(14:18) M.Bosher punts 60 yards to CAR 28, Center-J.Harris. C.Brown to CAR 34 for 6 yards (E.Weems). ATL-A.Smith was injured during the play. His return is Questionable.",4,4,6,ATL 12,0,ATL,PUNT

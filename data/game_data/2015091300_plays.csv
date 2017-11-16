@@ -1,183 +1,183 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,2458,2,11:59,,1,3,59,CHI 1,1,GB,TD
-9,2277,0,15:00,,0,3,0,CHI 35,0,CHI,KICKOFF
-9,2479,0,11:56,,0,3,59,CHI 15,1,GB,XP
-9,2366,1,13:07,,10,3,53,CHI 31,0,GB,TIMEOUT
-9,2345,2,13:48,,8,3,28,CHI 46,0,GB,
-9,2321,1,14:12,,10,3,13,CHI 48,0,GB,
-9,2434,1,12:44,,6,3,59,CHI 6,0,GB,
-9,2299,1,14:54,,10,3,11,GB 41,0,GB,
-6,1514,1,07:49,,10,2,7,GB 20,0,GB,
-6,1476,0,07:49,,0,2,0,CHI 35,0,CHI,KICKOFF
-6,1497,0,07:49,,0,2,0,,0,,Timeout
-6,1665,1,05:12,,10,2,72,CHI 11,0,GB,
-6,1797,3,03:17,,28,2,61,CHI 29,0,GB,
-6,1641,1,05:51,,10,2,69,CHI 32,0,GB,
-6,1557,3,07:07,,3,2,10,GB 27,0,GB,
-6,1581,1,06:49,,10,2,14,GB 30,0,GB,
-6,1743,0,03:54,,0,2,61,,0,,TIMEOUT
-6,1686,2,04:28,,7,2,62,CHI 8,0,GB,PENALTY
-6,1717,2,04:20,,17,2,61,CHI 18,0,GB,
-6,1821,4,02:36,,18,2,61,CHI 19,1,GB,FG
-6,1535,2,07:13,,3,2,7,GB 27,0,GB,
-6,1605,2,06:15,,6,2,48,GB 34,0,GB,
-6,1760,3,03:54,,18,2,51,CHI 19,0,GB,PENALTY
-14,3747,1,06:05,,10,4,8,GB 41,0,CHI,
-14,3768,2,05:31,,2,4,3,GB 33,0,CHI,PENALTY
-14,3791,2,05:08,,7,4,3,GB 38,0,CHI,
-14,3836,1,03:55,,10,4,12,GB 29,0,CHI,INT
-14,3812,3,04:30,,7,4,12,GB 38,0,CHI,
-7,2130,3,00:34,,4,2,47,GB 41,0,CHI,
-7,2000,1,01:29,,10,2,47,CHI 36,0,CHI,
-7,1933,2,02:00,,6,2,7,CHI 25,0,CHI,
-7,1895,1,02:25,,10,2,4,CHI 21,0,CHI,
-7,2154,1,00:18,,10,2,47,GB 32,0,CHI,
-7,1954,0,01:55,,0,2,6,,0,,TIMEOUT
-7,1878,0,02:25,,0,2,0,,0,,Timeout
-7,2176,2,00:18,,10,2,47,GB 32,0,CHI,
-7,2198,3,00:13,,10,2,47,GB 32,1,CHI,FG
-7,1856,0,02:32,,0,2,0,GB 35,0,GB,KICKOFF
-7,2109,2,01:04,,10,2,38,GB 47,0,CHI,
-7,2066,3,01:16,,5,2,32,CHI 41,0,CHI,
-7,2087,1,01:08,,10,2,32,GB 47,0,CHI,
-7,1971,3,01:55,,3,2,15,CHI 28,0,CHI,
-7,1916,0,02:00,,0,2,4,,0,,
-7,2024,2,01:24,,5,2,20,CHI 41,0,CHI,
-7,2049,0,01:16,,0,2,20,,0,,TIMEOUT
-8,2240,1,00:05,,10,2,-1,GB 21,0,GB,
-8,2218,0,00:08,,0,2,-1,CHI 35,0,CHI,KICKOFF
-8,2261,0,,,0,2,-1,,0,,
-10,2755,1,06:34,,20,3,51,GB 33,0,CHI,
-10,2722,1,06:41,,10,3,49,GB 23,0,CHI,PENALTY
-10,2819,4,05:02,,13,3,56,GB 26,1,CHI,FG
-10,2776,2,05:48,,18,3,51,GB 31,0,CHI,
-10,2566,1,11:35,,10,3,9,CHI 25,0,CHI,
-10,2589,2,10:57,,8,3,8,CHI 27,0,CHI,
-10,2655,1,08:49,,10,3,45,GB 42,0,CHI,
-10,2610,3,10:16,,9,3,20,CHI 26,0,CHI,
-10,2676,2,08:07,,5,3,47,GB 37,0,CHI,
-10,2698,3,07:28,,3,3,59,GB 35,0,CHI,
-10,2532,1,11:51,,10,3,7,CHI 18,0,CHI,PENALTY
-10,2798,3,05:42,,18,3,56,GB 31,0,CHI,
-10,2510,0,11:56,,0,3,0,GB 35,0,GB,KICKOFF
-10,2634,1,09:30,,10,3,40,CHI 38,0,CHI,
-12,3592,4,07:42,,2,4,78,GB 2,0,CHI,
-12,3454,2,09:04,,7,4,14,CHI 34,0,CHI,
-12,3548,2,07:51,,2,4,78,GB 2,0,CHI,
-12,3500,1,08:37,,10,4,74,GB 16,0,CHI,
-12,3396,0,10:26,,0,4,0,GB 35,0,GB,KICKOFF
-12,3476,3,09:00,,7,4,78,CHI 34,0,CHI,
-12,3433,1,09:45,,10,4,14,CHI 31,0,CHI,
-12,3524,1,08:14,,6,4,78,GB 6,0,CHI,
-12,3412,1,10:26,,10,4,11,CHI 20,0,CHI,
-12,3570,3,07:48,,2,4,78,GB 2,0,CHI,
-16,4089,0,01:55,,0,4,0,GB 35,0,GB,KICKOFF
-16,4238,4,00:42,,8,4,72,GB 24,1,CHI,TD
-16,4170,1,01:21,,10,4,46,GB 26,0,CHI,
-16,4259,0,00:34,,0,4,72,GB 15,1,CHI,XP
-16,4214,3,01:11,,10,4,48,GB 26,0,CHI,
-16,4135,1,01:31,,10,4,46,CHI 45,0,CHI,PENALTY
-16,4111,1,01:50,,10,4,17,CHI 28,0,CHI,
-16,4192,2,01:16,,10,4,46,GB 26,0,CHI,
-11,3365,0,10:26,,0,4,78,CHI 15,1,GB,XP
-11,3194,1,13:11,,10,4,57,CHI 22,0,GB,
-11,3047,3,01:01,,4,3,29,GB 39,0,GB,
-11,3068,1,00:25,,10,3,29,CHI 49,0,GB,
-11,3283,2,10:38,,9,4,73,CHI 10,0,GB,PENALTY
-11,2861,0,04:50,,0,3,0,,0,,Timeout
-11,2839,0,04:57,,0,3,78,CHI 35,0,CHI,KICKOFF
-11,3316,0,10:32,,0,4,73,,0,,TIMEOUT
-11,3152,4,14:31,,1,4,41,CHI 40,0,GB,
-11,3236,3,11:47,,4,4,67,CHI 16,0,GB,
-11,2900,2,04:21,,2,3,3,GB 30,0,GB,PENALTY
-11,3257,1,11:15,,10,4,68,CHI 11,0,GB,
-11,2932,2,03:50,,7,3,7,GB 25,0,GB,
-11,3333,2,10:32,,4,4,78,CHI 5,1,GB,TD
-11,2976,3,02:43,,8,3,11,GB 24,0,GB,
-11,2953,3,03:07,,3,3,2,GB 29,0,GB,PENALTY
-11,3000,1,02:21,,10,3,13,GB 33,0,GB,
-11,3021,2,01:36,,8,3,17,GB 35,0,GB,
-11,2878,1,04:50,,10,3,8,GB 22,0,GB,
-11,3215,2,12:30,,9,4,62,CHI 21,0,GB,
-11,3090,2,00:20,,10,3,28,CHI 49,0,GB,
-11,3173,1,13:49,,10,4,56,CHI 37,0,GB,
-11,3111,0,,,0,3,28,,0,,
-11,3128,3,15:00,,11,4,78,50,0,GB,
-3,591,0,05:49,,0,1,0,,0,,Timeout
-3,518,1,06:48,,10,1,11,CHI 30,0,CHI,
-3,494,2,07:12,,9,1,10,CHI 21,0,CHI,
-3,539,2,06:00,,9,1,11,CHI 31,0,CHI,
-3,473,1,07:55,,10,1,1,CHI 20,0,CHI,
-3,561,3,05:55,,9,1,1,CHI 31,0,CHI,
-3,608,4,05:32,,19,1,1,CHI 21,0,CHI,PUNT
-17,4276,0,00:34,,0,4,0,CHI 35,0,CHI,KICKOFF
-17,4318,1,00:33,,10,4,0,CHI 46,0,GB,
-17,4334,0,,,0,4,0,,0,,
-17,4301,0,00:33,,0,4,0,,0,,Timeout
-4,686,1,05:25,,10,1,20,GB 23,0,GB,
-4,733,2,04:19,,9,1,30,GB 44,0,GB,
-4,844,1,01:37,,10,1,57,CHI 20,0,GB,
-4,778,1,03:05,,10,1,50,CHI 31,0,GB,
-4,757,1,03:36,,10,1,46,CHI 47,0,GB,
-4,799,2,02:30,,6,1,55,CHI 27,0,GB,
-4,712,1,04:53,,10,1,21,GB 43,0,GB,
-4,823,3,02:06,,1,1,57,CHI 22,0,GB,
-4,866,2,01:30,,10,1,64,CHI 20,0,GB,
-4,890,3,00:50,,3,1,77,CHI 13,1,GB,TD
-4,911,0,00:43,,0,1,77,CHI 15,1,GB,XP
-2,395,2,08:49,,8,1,7,GB 41,0,GB,
-2,334,0,09:28,,0,1,0,CHI 35,0,CHI,KICKOFF
-2,356,0,09:21,,0,1,0,,0,,Timeout
-2,373,1,09:21,,10,1,2,GB 39,0,GB,
-2,438,4,08:04,,3,1,7,GB 46,0,GB,PUNT
-2,416,3,08:08,,3,1,7,GB 46,0,GB,
-1,97,1,14:01,,10,1,33,CHI 45,0,CHI,
-1,76,2,14:26,,7,1,25,CHI 23,0,CHI,
-1,55,1,14:59,,10,1,3,CHI 20,0,CHI,
-1,256,2,10:44,,11,1,72,GB 13,0,CHI,
-1,121,2,13:37,,2,1,37,GB 47,0,CHI,
-1,233,2,11:02,,6,1,67,GB 8,0,CHI,PENALTY
-1,280,3,10:16,,6,1,70,GB 8,0,CHI,
-1,166,2,12:17,,4,1,43,GB 37,0,CHI,
-1,212,1,11:33,,10,1,72,GB 12,0,CHI,
-1,142,1,12:59,,10,1,43,GB 43,0,CHI,
-1,188,3,12:11,,4,1,72,GB 37,0,CHI,
-1,36,0,15:00,,0,1,0,GB 35,0,GB,KICKOFF
-1,299,4,09:32,,8,1,70,GB 10,1,CHI,FG
-5,942,0,00:43,,0,1,0,GB 35,0,GB,KICKOFF
-5,1124,3,12:08,,2,2,38,GB 46,0,CHI,
-5,1445,0,07:49,,0,2,80,GB 15,1,CHI,XP
-5,1209,1,10:27,,10,2,66,GB 14,0,CHI,
-5,1148,1,11:34,,10,2,43,GB 42,0,CHI,PENALTY
-5,1305,4,09:29,,1,2,76,GB 5,0,CHI,
-5,1232,2,10:22,,10,2,71,GB 14,0,CHI,
-5,1253,3,09:39,,5,2,71,GB 9,0,CHI,
-5,1016,3,14:16,,3,2,15,CHI 27,0,CHI,
-5,1372,2,08:41,,4,2,76,GB 4,0,CHI,
-5,1037,1,13:44,,10,2,21,CHI 35,0,CHI,
-5,995,2,15:00,,8,2,7,CHI 22,0,CHI,
-5,1355,0,08:41,,0,2,76,,0,,TIMEOUT
-5,957,1,00:43,,10,1,2,CHI 20,0,CHI,
-5,1424,3,07:54,,1,2,80,GB 1,1,CHI,TD
-5,1102,2,12:12,,2,2,34,GB 46,0,CHI,
-5,1275,4,09:34,,5,2,76,GB 9,0,CHI,PENALTY
-5,1192,0,10:27,,0,2,66,,0,,TIMEOUT
-5,1171,1,11:14,,5,2,66,GB 37,0,CHI,
-5,1403,2,08:33,,4,2,79,GB 4,0,CHI,
-5,978,0,,,0,1,2,,0,,
-5,1058,2,13:44,,4,2,66,CHI 41,0,CHI,PENALTY
-5,1331,1,08:45,,4,2,76,GB 4,0,CHI,
-5,1081,1,12:58,,10,2,34,CHI 46,0,CHI,
-13,3632,1,07:38,,10,4,6,GB 2,0,GB,
-13,3656,2,07:02,,4,4,7,GB 8,0,GB,
-13,3704,4,06:15,,3,4,7,GB 9,0,GB,PUNT
-13,3682,3,06:23,,3,4,7,GB 9,0,GB,
-15,4024,0,01:59,,0,4,46,,0,,
-15,3928,2,02:56,,4,4,11,CHI 42,0,GB,
-15,3895,2,03:02,,9,4,6,CHI 47,0,GB,PENALTY
-15,3951,1,02:12,,10,4,12,CHI 37,0,GB,
-15,3972,0,02:07,,0,4,12,,0,,TIMEOUT
-15,4061,0,01:55,,0,4,48,CHI 15,1,GB,XP
-15,3874,1,03:41,,10,4,1,CHI 48,0,GB,
-15,3989,2,02:07,,9,4,46,CHI 36,0,GB,PENALTY
-15,4041,1,01:59,,2,4,48,CHI 2,1,GB,TD
+11,2861,0,04:50,Timeout at 04:50.,0,3,0,,0,,Timeout
+11,2900,2,04:21,"(4:21) (No Huddle, Shotgun) E.Lacy left guard to GB 32 for 2 yards (W.Sutton). PENALTY on GB-R.Cobb, Illegal Formation, 5 yards, enforced at GB 30 - No Play.",2,3,3,GB 30,0,GB,PENALTY
+11,3000,1,02:21,(2:21) (No Huddle) E.Lacy right tackle to GB 35 for 2 yards (A.Rolle).,10,3,13,GB 33,0,GB,
+11,3068,1,00:25,"(:25) (No Huddle, Shotgun) A.Rodgers pass incomplete short left to D.Adams.",10,3,29,CHI 49,0,GB,
+11,3047,3,01:01,(1:01) (Shotgun) A.Rodgers scrambles left end to CHI 49 for 12 yards.,4,3,29,GB 39,0,GB,
+11,3215,2,12:30,(12:30) (No Huddle) E.Lacy right tackle to CHI 16 for 5 yards (C.Jones; P.McPhee).,9,4,62,CHI 21,0,GB,
+11,3128,3,15:00,(15:00) (Shotgun) A.Rodgers pass short left to R.Cobb pushed ob at CHI 40 for 10 yards (A.Amos).,11,4,78,50,0,GB,
+11,3236,3,11:47,"(11:47) (No Huddle, Shotgun) E.Lacy right guard to CHI 11 for 5 yards (S.McClellin).",4,4,67,CHI 16,0,GB,
+11,2976,3,02:43,(2:43) (Shotgun) A.Rodgers pass short right to R.Cobb pushed ob at GB 33 for 9 yards (A.Amos).,8,3,11,GB 24,0,GB,
+11,3021,2,01:36,(1:36) (Shotgun) A.Rodgers scrambles right end pushed ob at GB 39 for 4 yards (S.McClellin).,8,3,17,GB 35,0,GB,
+11,3257,1,11:15,(11:15) A.Rodgers scrambles right end pushed ob at CHI 10 for 1 yard (P.McPhee).,10,4,68,CHI 11,0,GB,
+11,2953,3,03:07,"(3:07) (Shotgun) PENALTY on GB-D.Bakhtiari, False Start, 5 yards, enforced at GB 29 - No Play.",3,3,2,GB 29,0,GB,PENALTY
+11,2878,1,04:50,(4:50) (Shotgun) E.Lacy left tackle to GB 30 for 8 yards (W.Young; C.Jones).,10,3,8,GB 22,0,GB,
+11,2932,2,03:50,(3:50) (Shotgun) E.Lacy left guard to GB 29 for 4 yards (P.McPhee).,7,3,7,GB 25,0,GB,
+11,3333,2,10:32,"(10:32) (Shotgun) A.Rodgers pass short left to R.Cobb for 5 yards, TOUCHDOWN. Penalty on CHI-S.McManis, Defensive Pass Interference, declined.",4,4,78,CHI 5,1,GB,TD
+11,3152,4,14:31,(14:31) J.Starks left guard to CHI 37 for 3 yards (P.McPhee).,1,4,41,CHI 40,0,GB,
+11,2839,0,04:57,R.Gould kicks 62 yards from CHI 35 to GB 3. T.Montgomery to GB 22 for 19 yards (L.Barrow).,0,3,78,CHI 35,0,CHI,KICKOFF
+11,3173,1,13:49,(13:49) (Shotgun) A.Rodgers scrambles left end pushed ob at CHI 22 for 15 yards (A.Ball).,10,4,56,CHI 37,0,GB,
+11,3283,2,10:38,"(10:38) (Shotgun) A.Rodgers pass incomplete short left to J.Jones. PENALTY on CHI-J.Allen, Defensive Offside, 5 yards, enforced at CHI 10 - No Play.",9,4,73,CHI 10,0,GB,PENALTY
+11,3316,0,10:32,Timeout #1 by GB at 10:32.,0,4,73,,0,,TIMEOUT
+11,3111,0,,END QUARTER 3,0,3,28,,0,,
+11,3090,2,00:20,(:20) J.Starks right guard to 50 for -1 yards (E.Goldman).,10,3,28,CHI 49,0,GB,
+11,3194,1,13:11,(13:11) (Shotgun) E.Lacy right guard to CHI 21 for 1 yard (P.McPhee).,10,4,57,CHI 22,0,GB,
+11,3365,0,10:26,"M.Crosby extra point is GOOD, Center-B.Goode, Holder-T.Masthay.",0,4,78,CHI 15,1,GB,XP
+10,2722,1,06:41,"(6:41) (No Huddle, Shotgun) J.Cutler pass incomplete short right to M.Bennett (M.Hyde). PENALTY on CHI-M.Slauson, Offensive Holding, 10 yards, enforced at GB 23 - No Play.",10,3,49,GB 23,0,CHI,PENALTY
+10,2610,3,10:16,"(10:16) (No Huddle, Shotgun) J.Cutler pass short right to M.Bennett to CHI 38 for 12 yards (S.Richardson).",9,3,20,CHI 26,0,CHI,
+10,2634,1,09:30,(9:30) (No Huddle) M.Forte right tackle to GB 42 for 20 yards (M.Hyde).,10,3,40,CHI 38,0,CHI,
+10,2698,3,07:28,"(7:28) (No Huddle, Shotgun) J.Cutler pass short left to A.Jeffery to GB 23 for 12 yards (S.Shields).",3,3,59,GB 35,0,CHI,
+10,2819,4,05:02,"(5:02) (Field Goal formation) R.Gould 44 yard field goal is GOOD, Center-T.Gafford, Holder-P.O'Donnell.",13,3,56,GB 26,1,CHI,FG
+10,2589,2,10:57,(10:57) M.Forte right end to CHI 26 for -1 yards (M.Neal).,8,3,8,CHI 27,0,CHI,
+10,2566,1,11:35,(11:35) C.Leno Jr. reported in as eligible.  M.Forte right guard to CHI 27 for 2 yards (B.Raji).,10,3,9,CHI 25,0,CHI,
+10,2798,3,05:42,"(5:42) (No Huddle, Shotgun) J.Rodgers left guard to GB 26 for 5 yards (C.Matthews).",18,3,56,GB 31,0,CHI,
+10,2755,1,06:34,(6:34) (No Huddle) M.Forte right end to GB 31 for 2 yards (J.Peppers).,20,3,51,GB 33,0,CHI,
+10,2655,1,08:49,"(8:49) (No Huddle, Shotgun) J.Rodgers right tackle to GB 37 for 5 yards (H.Clinton-Dix).",10,3,45,GB 42,0,CHI,
+10,2676,2,08:07,(8:07) (No Huddle) J.Rodgers left tackle to GB 35 for 2 yards (N.Palmer).,5,3,47,GB 37,0,CHI,
+10,2532,1,11:51,"(11:51) C.Leno Jr. reported in as eligible.  M.Forte left end to CHI 20 for 2 yards (J.Peppers). PENALTY on GB-B.Raji, Defensive Holding, 5 yards, enforced at CHI 20.",10,3,7,CHI 18,0,CHI,PENALTY
+10,2510,0,11:56,M.Crosby kicks 72 yards from GB 35 to CHI -7. M.Mariani to CHI 18 for 25 yards (H.Clinton-Dix).,0,3,0,GB 35,0,GB,KICKOFF
+10,2776,2,05:48,(5:48) (Shotgun) J.Cutler pass incomplete deep right to M.Forte (D.Randall) [C.Matthews].,18,3,51,GB 31,0,CHI,
+13,3682,3,06:23,(6:23) (Shotgun) A.Rodgers pass incomplete short right to E.Lacy.,3,4,7,GB 9,0,GB,
+13,3656,2,07:02,"(7:02) (No Huddle, Shotgun) E.Lacy left end pushed ob at GB 9 for 1 yard (A.Ball).",4,4,7,GB 8,0,GB,
+13,3632,1,07:38,(7:38) (Shotgun) A.Rodgers pass short right to D.Adams to GB 8 for 6 yards (P.McPhee).,10,4,6,GB 2,0,GB,
+13,3704,4,06:15,"(6:15) (Punt formation) T.Masthay punts 43 yards to CHI 48, Center-B.Goode. M.Mariani to GB 41 for 11 yards (J.Elliott).",3,4,7,GB 9,0,GB,PUNT
+12,3592,4,07:42,"(7:42) (No Huddle, Shotgun) J.Cutler pass incomplete short right to E.Royal.",2,4,78,GB 2,0,CHI,
+12,3476,3,09:00,(9:00) (Shotgun) J.Cutler pass short left to M.Wilson to GB 16 for 50 yards (H.Clinton-Dix).,7,4,78,CHI 34,0,CHI,
+12,3454,2,09:04,(9:04) (Shotgun) J.Cutler pass incomplete short right to A.Jeffery.,7,4,14,CHI 34,0,CHI,
+12,3396,0,10:26,"M.Crosby kicks 65 yards from GB 35 to end zone, Touchback.",0,4,0,GB 35,0,GB,KICKOFF
+12,3500,1,08:37,"(8:37) (No Huddle, Shotgun) J.Cutler pass short left to A.Jeffery pushed ob at GB 6 for 10 yards (S.Shields).",10,4,74,GB 16,0,CHI,
+12,3433,1,09:45,(9:45) M.Forte right guard to CHI 34 for 3 yards (N.Palmer).,10,4,14,CHI 31,0,CHI,
+12,3548,2,07:51,(7:51) (Shotgun) J.Cutler pass incomplete short right to E.Royal.,2,4,78,GB 2,0,CHI,
+12,3570,3,07:48,(7:48) (Shotgun) J.Cutler pass incomplete short right to A.Jeffery.,2,4,78,GB 2,0,CHI,
+12,3524,1,08:14,"(8:14) (No Huddle, Shotgun) J.Cutler pass short left to M.Forte pushed ob at GB 2 for 4 yards (N.Palmer).",6,4,78,GB 6,0,CHI,
+12,3412,1,10:26,(10:26) J.Cutler scrambles left end to CHI 31 for 11 yards.,10,4,11,CHI 20,0,CHI,
+15,4061,0,01:55,"M.Crosby extra point is GOOD, Center-B.Goode, Holder-T.Masthay.",0,4,48,CHI 15,1,GB,XP
+15,4041,1,01:59,"(1:59) J.Tretter reported in as eligible.  E.Lacy left guard for 2 yards, TOUCHDOWN.",2,4,48,CHI 2,1,GB,TD
+15,3928,2,02:56,(2:56) J.Walker reported in as eligible.  E.Lacy left tackle to CHI 37 for 5 yards (S.McClellin).,4,4,11,CHI 42,0,GB,
+15,3874,1,03:41,(3:41) (Shotgun) E.Lacy right guard to CHI 47 for 1 yard (S.McClellin; A.Rolle).,10,4,1,CHI 48,0,GB,
+15,4024,0,01:59,Two-Minute Warning,0,4,46,,0,,
+15,3972,0,02:07,Timeout #2 by CHI at 02:07.,0,4,12,,0,,TIMEOUT
+15,3989,2,02:07,"(2:07) J.Walker reported in as eligible.  A.Rodgers pass incomplete deep right to J.Jones. PENALTY on CHI-K.Fuller, Defensive Pass Interference, 34 yards, enforced at CHI 36 - No Play.",9,4,46,CHI 36,0,GB,PENALTY
+15,3951,1,02:12,(2:12) E.Lacy left tackle to CHI 36 for 1 yard (J.Allen).,10,4,12,CHI 37,0,GB,
+15,3895,2,03:02,"(3:02) A.Rodgers pass incomplete deep right to R.Cobb. PENALTY on CHI-W.Young, Defensive Offside, 5 yards, enforced at CHI 47 - No Play.",9,4,6,CHI 47,0,GB,PENALTY
+14,3768,2,05:31,"(5:31) (No Huddle, Shotgun) PENALTY on CHI-V.Ducasse, False Start, 5 yards, enforced at GB 33 - No Play.",2,4,3,GB 33,0,CHI,PENALTY
+14,3747,1,06:05,(6:05) M.Forte left end to GB 33 for 8 yards (N.Palmer).,10,4,8,GB 41,0,CHI,
+14,3836,1,03:55,"(3:55) (No Huddle, Shotgun) J.Cutler pass short right intended for M.Bennett INTERCEPTED by C.Matthews at GB 20. C.Matthews to CHI 32 for 48 yards (J.Bushrod). PENALTY on GB-N.Perry, Illegal Block Above the Waist, 10 yards, enforced at CHI 38.",10,4,12,GB 29,0,CHI,INT
+14,3791,2,05:08,(5:08) (Shotgun) M.Forte left end to GB 38 for no gain (H.Clinton-Dix).,7,4,3,GB 38,0,CHI,
+14,3812,3,04:30,"(4:30) (No Huddle, Shotgun) J.Cutler pass short right to M.Bennett to GB 29 for 9 yards (S.Richardson).",7,4,12,GB 38,0,CHI,
+17,4318,1,00:33,(:33) A.Rodgers kneels to CHI 46 for no gain.,10,4,0,CHI 46,0,GB,
+17,4301,0,00:33,Timeout at 00:33.,0,4,0,,0,,Timeout
+17,4334,0,,END GAME,0,4,0,,0,,
+17,4276,0,00:34,R.Gould kicks onside 11 yards from CHI 35 to CHI 46. D.Adams (didn't try to advance) to CHI 46 for no gain (H.Jones-Quartey). CHI-S.McManis was injured during the play.,0,4,0,CHI 35,0,CHI,KICKOFF
+16,4259,0,00:34,"R.Gould extra point is GOOD, Center-T.Gafford, Holder-P.O'Donnell.",0,4,72,GB 15,1,CHI,XP
+16,4214,3,01:11,(1:11) (Shotgun) J.Cutler pass short left to M.Forte to GB 24 for 2 yards (S.Shields).,10,4,48,GB 26,0,CHI,
+16,4170,1,01:21,(1:21) (Shotgun) J.Cutler pass incomplete deep right to A.Jeffery.,10,4,46,GB 26,0,CHI,
+16,4089,0,01:55,M.Crosby kicks 52 yards from GB 35 to CHI 13. J.Rodgers to CHI 28 for 15 yards (J.Ryan).,0,4,0,GB 35,0,GB,KICKOFF
+16,4238,4,00:42,"(:42) (No Huddle, Shotgun) J.Cutler pass short right to M.Bennett for 24 yards, TOUCHDOWN.",8,4,72,GB 24,1,CHI,TD
+16,4192,2,01:16,(1:16) (Shotgun) J.Cutler pass incomplete short left to M.Bennett.,10,4,46,GB 26,0,CHI,
+16,4135,1,01:31,"(1:31) (No Huddle, Shotgun) J.Cutler pass short left to A.Jeffery to GB 41 for 14 yards (S.Richardson). PENALTY on GB-S.Richardson, Unnecessary Roughness, 15 yards, enforced at GB 41.",10,4,46,CHI 45,0,CHI,PENALTY
+16,4111,1,01:50,(1:50) (Shotgun) J.Cutler pass short middle to A.Jeffery to CHI 45 for 17 yards (M.Hyde).,10,4,17,CHI 28,0,CHI,
+1,142,1,12:59,(12:59) J.Cutler pass short left to M.Bennett to GB 37 for 6 yards (C.Matthews).,10,1,43,GB 43,0,CHI,
+1,121,2,13:37,(13:37) J.Rodgers left guard to GB 43 for 4 yards.,2,1,37,GB 47,0,CHI,
+1,55,1,14:59,(14:59) M.Forte right guard to CHI 23 for 3 yards (B.Raji).,10,1,3,CHI 20,0,CHI,
+1,299,4,09:32,"(9:32) (Field Goal formation) R.Gould 28 yard field goal is GOOD, Center-T.Gafford, Holder-P.O'Donnell.",8,1,70,GB 10,1,CHI,FG
+1,36,0,15:00,"M.Crosby kicks 65 yards from GB 35 to end zone, Touchback.",0,1,0,GB 35,0,GB,KICKOFF
+1,76,2,14:26,(14:26) M.Forte left guard pushed ob at CHI 45 for 22 yards (S.Shields; H.Clinton-Dix).,7,1,25,CHI 23,0,CHI,
+1,280,3,10:16,"(10:16) (No Huddle, Shotgun) J.Cutler sacked at GB 10 for -2 yards (sack split by B.Raji and J.Peppers).",6,1,70,GB 8,0,CHI,
+1,212,1,11:33,(11:33) (Shotgun) J.Cutler right end to GB 8 for 4 yards (S.Barrington).,10,1,72,GB 12,0,CHI,
+1,166,2,12:17,(12:17) J.Cutler pass incomplete short right to Z.Miller [J.Elliott].,4,1,43,GB 37,0,CHI,
+1,256,2,10:44,(10:44) (Shotgun) J.Cutler pass short right to M.Forte pushed ob at GB 8 for 5 yards (C.Matthews).,11,1,72,GB 13,0,CHI,
+1,188,3,12:11,(12:11) (Shotgun) J.Cutler pass short middle to A.Jeffery to GB 12 for 25 yards (C.Hayward).,4,1,72,GB 37,0,CHI,
+1,97,1,14:01,"(14:01) (No Huddle, Shotgun) J.Cutler pass short right to E.Royal pushed ob at GB 47 for 8 yards (S.Shields).",10,1,33,CHI 45,0,CHI,
+1,233,2,11:02,"(11:02) (No Huddle, Shotgun) PENALTY on CHI-V.Ducasse, False Start, 5 yards, enforced at GB 8 - No Play.",6,1,67,GB 8,0,CHI,PENALTY
+3,591,0,05:49,Timeout at 05:49.,0,1,0,,0,,Timeout
+3,518,1,06:48,(6:48) (Shotgun) M.Forte right guard to CHI 31 for 1 yard (J.Peppers).,10,1,11,CHI 30,0,CHI,
+3,561,3,05:55,"(5:55) (Shotgun) J.Cutler sacked at CHI 20 for -11 yards (J.Peppers). FUMBLES (J.Peppers), RECOVERED by GB-J.Peppers at CHI 20. J.Peppers to CHI 20 for no gain (K.Long). The Replay Official reviewed the fumble ruling, and the play was REVERSED. (Shotgun) J.Cutler sacked at CHI 21 for -10 yards (J.Peppers).",9,1,1,CHI 31,0,CHI,
+3,608,4,05:32,"(5:32) (Punt formation) P.O'Donnell punts 56 yards to GB 23, Center-T.Gafford, out of bounds.",19,1,1,CHI 21,0,CHI,PUNT
+3,473,1,07:55,(7:55) (Shotgun) J.Langford right tackle to CHI 21 for 1 yard (M.Neal; B.Raji).,10,1,1,CHI 20,0,CHI,
+3,494,2,07:12,"(7:12) (No Huddle, Shotgun) J.Cutler pass short right to M.Forte pushed ob at CHI 30 for 9 yards (C.Matthews).",9,1,10,CHI 21,0,CHI,
+3,539,2,06:00,(6:00) (Shotgun) J.Cutler pass incomplete short right to E.Royal.,9,1,11,CHI 31,0,CHI,
+2,395,2,08:49,(8:49) (No Huddle) E.Lacy left end to GB 46 for 5 yards (A.Amos).,8,1,7,GB 41,0,GB,
+2,334,0,09:28,R.Gould kicks 67 yards from CHI 35 to GB -2. T.Montgomery to GB 39 for 41 yards (D.Hurst).,0,1,0,CHI 35,0,CHI,KICKOFF
+2,356,0,09:21,Timeout at 09:21.,0,1,0,,0,,Timeout
+2,416,3,08:08,(8:08) (Shotgun) A.Rodgers pass incomplete short right to D.Adams.,3,1,7,GB 46,0,GB,
+2,438,4,08:04,"(8:04) (Punt formation) T.Masthay punts 54 yards to end zone, Center-B.Goode, Touchback.",3,1,7,GB 46,0,GB,PUNT
+2,373,1,09:21,(9:21) A.Rodgers scrambles left guard to GB 41 for 2 yards (J.Jenkins).,10,1,2,GB 39,0,GB,
+5,1305,4,09:29,(9:29) M.Forte right tackle to GB 4 for 1 yard (H.Clinton-Dix). Measurement.,1,2,76,GB 5,0,CHI,
+5,1209,1,10:27,"(10:27) (No Huddle, Shotgun) J.Cutler pass incomplete short left to A.Jeffery (S.Shields).",10,2,66,GB 14,0,CHI,
+5,1081,1,12:58,(12:58) (No Huddle) M.Forte left end to GB 46 for 8 yards (S.Shields).,10,2,34,CHI 46,0,CHI,
+5,1148,1,11:34,"(11:34) (No Huddle) PENALTY on GB-M.Daniels, Neutral Zone Infraction, 5 yards, enforced at GB 42 - No Play.",10,2,43,GB 42,0,CHI,PENALTY
+5,1124,3,12:08,"(12:08) (No Huddle, Shotgun) J.Cutler pass short left to M.Bennett to GB 42 for 4 yards (M.Hyde).",2,2,38,GB 46,0,CHI,
+5,1232,2,10:22,(10:22) (No Huddle) M.Forte left end to GB 9 for 5 yards (C.Matthews).,10,2,71,GB 14,0,CHI,
+5,1058,2,13:44,"(13:44) (No Huddle) PENALTY on GB-N.Perry, Neutral Zone Infraction, 5 yards, enforced at CHI 41 - No Play.",4,2,66,CHI 41,0,CHI,PENALTY
+5,1192,0,10:27,Timeout #1 by CHI at 10:27.,0,2,66,,0,,TIMEOUT
+5,957,1,00:43,(:43) M.Forte left end to CHI 22 for 2 yards (N.Palmer).,10,1,2,CHI 20,0,CHI,
+5,978,0,,END QUARTER 1,0,1,2,,0,,
+5,1445,0,07:49,"R.Gould extra point is GOOD, Center-T.Gafford, Holder-P.O'Donnell.",0,2,80,GB 15,1,CHI,XP
+5,1372,2,08:41,"(8:41) (Shotgun) J.Cutler pass short left to A.Jeffery for 4 yards, TOUCHDOWN NULLIFIED by Penalty. Penalty on CHI-J.Bushrod, Offensive Holding, offsetting, enforced at GB 4 - No Play. Penalty on GB-S.Shields, Defensive Holding, offsetting.",4,2,76,GB 4,0,CHI,
+5,1253,3,09:39,(9:39) (Shotgun) J.Cutler pass incomplete short left to M.Forte.,5,2,71,GB 9,0,CHI,
+5,1403,2,08:33,(8:33) M.Forte right tackle to GB 1 for 3 yards (J.Elliott).,4,2,79,GB 4,0,CHI,
+5,1016,3,14:16,"(14:16) (No Huddle, Shotgun) M.Forte right end to CHI 35 for 8 yards (D.Randall).",3,2,15,CHI 27,0,CHI,
+5,1037,1,13:44,"(13:44) (No Huddle, Shotgun) M.Forte left guard to CHI 41 for 6 yards (N.Palmer).",10,2,21,CHI 35,0,CHI,
+5,995,2,15:00,(15:00) M.Forte right guard to CHI 27 for 5 yards (J.Boyd).,8,2,7,CHI 22,0,CHI,
+5,1171,1,11:14,(11:14) (No Huddle) M.Forte left tackle to GB 14 for 23 yards (H.Clinton-Dix).,5,2,66,GB 37,0,CHI,
+5,1331,1,08:45,(8:45) (Shotgun) C.Leno Jr. reported in as eligible.  J.Cutler pass incomplete short left to M.Forte.,4,2,76,GB 4,0,CHI,
+5,1275,4,09:34,"(9:34) (Field Goal formation) R.Gould 27 yard field goal is GOOD, NULLIFIED by Penalty, Center-T.Gafford, Holder-P.O'Donnell. PENALTY on GB-S.Shields, Defensive Offside, 4 yards, enforced at GB 9 - No Play.",5,2,76,GB 9,0,CHI,PENALTY
+5,1355,0,08:41,Timeout #1 by GB at 08:41.,0,2,76,,0,,TIMEOUT
+5,1424,3,07:54,"(7:54) C.Leno Jr. reported in as eligible.  M.Forte left end for 1 yard, TOUCHDOWN.",1,2,80,GB 1,1,CHI,TD
+5,942,0,00:43,"M.Crosby kicks 65 yards from GB 35 to end zone, Touchback.",0,1,0,GB 35,0,GB,KICKOFF
+5,1102,2,12:12,"(12:12) (No Huddle, Shotgun) J.Cutler pass incomplete short left to J.Rodgers.",2,2,34,GB 46,0,CHI,
+4,890,3,00:50,"(:50) (Shotgun) A.Rodgers pass short left to J.Jones for 13 yards, TOUCHDOWN.",3,1,77,CHI 13,1,GB,TD
+4,844,1,01:37,(1:37) A.Rodgers pass incomplete deep right to D.Adams.,10,1,57,CHI 20,0,GB,
+4,757,1,03:36,(3:36) (No Huddle) E.Lacy left tackle to CHI 31 for 16 yards (C.Jones; S.McClellin).,10,1,46,CHI 47,0,GB,
+4,712,1,04:53,"(4:53) (No Huddle, Shotgun) E.Lacy left end to GB 44 for 1 yard (C.Jones).",10,1,21,GB 43,0,GB,
+4,799,2,02:30,(2:30) (Shotgun) A.Rodgers pass short left to R.Rodgers to CHI 22 for 5 yards (C.Jones).,6,1,55,CHI 27,0,GB,
+4,778,1,03:05,(3:05) (No Huddle) E.Lacy left tackle to CHI 27 for 4 yards (C.Jones).,10,1,50,CHI 31,0,GB,
+4,733,2,04:19,"(4:19) (No Huddle, Shotgun) A.Rodgers pass short left to E.Lacy to CHI 47 for 9 yards (J.Allen).",9,1,30,GB 44,0,GB,
+4,866,2,01:30,(1:30) (Shotgun) A.Rodgers pass short right to D.Adams to CHI 13 for 7 yards (A.Rolle).,10,1,64,CHI 20,0,GB,
+4,686,1,05:25,(5:25) (Shotgun) A.Rodgers pass short middle to R.Rodgers to GB 43 for 20 yards (S.McManis; S.McClellin).,10,1,20,GB 23,0,GB,
+4,911,0,00:43,"M.Crosby extra point is GOOD, Center-B.Goode, Holder-T.Masthay.",0,1,77,CHI 15,1,GB,XP
+4,823,3,02:06,(2:06) (No Huddle) A.Rodgers right guard to CHI 20 for 2 yards (J.Allen).,1,1,57,CHI 22,0,GB,
+7,2024,2,01:24,"(1:24) (No Huddle, Shotgun) J.Cutler pass incomplete short right to E.Royal (D.Randall, C.Hayward). CHI-E.Royal was injured during the play.",5,2,20,CHI 41,0,CHI,
+7,2130,3,00:34,"(:34) (No Huddle, Shotgun) J.Cutler pass short left to M.Wilson to GB 32 for 9 yards (S.Shields).",4,2,47,GB 41,0,CHI,
+7,2109,2,01:04,(1:04) M.Forte left tackle to GB 41 for 6 yards (J.Elliott).,10,2,38,GB 47,0,CHI,
+7,2066,3,01:16,(1:16) (Shotgun) J.Cutler scrambles right end pushed ob at GB 47 for 12 yards (M.Hyde).,5,2,32,CHI 41,0,CHI,
+7,1856,0,02:32,M.Crosby kicks 67 yards from GB 35 to CHI -2. M.Mariani to CHI 21 for 23 yards (Q.Rollins).,0,2,0,GB 35,0,GB,KICKOFF
+7,2049,0,01:16,Timeout #3 by CHI at 01:16.,0,2,20,,0,,TIMEOUT
+7,1933,2,02:00,(2:00) (Shotgun) M.Forte left end to CHI 28 for 3 yards (C.Hayward). GB-N.Palmer was injured during the play.,6,2,7,CHI 25,0,CHI,
+7,1954,0,01:55,Timeout #2 by GB at 01:55.,0,2,6,,0,,TIMEOUT
+7,2000,1,01:29,"(1:29) (No Huddle, Shotgun) J.Cutler pass short right to M.Forte pushed ob at CHI 41 for 5 yards (C.Hayward).",10,2,47,CHI 36,0,CHI,
+7,2176,2,00:18,(:18) (Shotgun) J.Cutler pass incomplete deep left to A.Jeffery.,10,2,47,GB 32,0,CHI,
+7,1971,3,01:55,(1:55) (Shotgun) M.Forte left end to CHI 36 for 8 yards (M.Daniels; N.Palmer).,3,2,15,CHI 28,0,CHI,
+7,2154,1,00:18,(:18) (No Huddle) J.Cutler spiked the ball to stop the clock.,10,2,47,GB 32,0,CHI,
+7,2198,3,00:13,"(:13) (Field Goal formation) R.Gould 50 yard field goal is GOOD, Center-T.Gafford, Holder-P.O'Donnell.",10,2,47,GB 32,1,CHI,FG
+7,1895,1,02:25,(2:25) (Shotgun) J.Cutler scrambles right end pushed ob at CHI 25 for 4 yards (C.Matthews).,10,2,4,CHI 21,0,CHI,
+7,2087,1,01:08,"(1:08) (No Huddle, Shotgun) J.Cutler pass incomplete deep right to A.Jeffery.",10,2,32,GB 47,0,CHI,
+7,1878,0,02:25,Timeout at 02:25.,0,2,0,,0,,Timeout
+7,1916,0,02:00,Two-Minute Warning,0,2,4,,0,,
+6,1641,1,05:51,(5:51) A.Rodgers pass short right to D.Adams to CHI 11 for 21 yards (A.Rolle; S.McClellin).,10,2,69,CHI 32,0,GB,
+6,1557,3,07:07,(7:07) (Shotgun) A.Rodgers pass short left to J.Jones ran ob at GB 30 for 3 yards.,3,2,10,GB 27,0,GB,
+6,1797,3,03:17,(3:17) (Shotgun) A.Rodgers pass short left to R.Cobb to CHI 19 for 10 yards (A.Amos).,28,2,61,CHI 29,0,GB,
+6,1581,1,06:49,(6:49) (No Huddle) A.Rodgers pass short right to R.Cobb to GB 34 for 4 yards (S.McManis; K.Fuller).,10,2,14,GB 30,0,GB,
+6,1605,2,06:15,"(6:15) (No Huddle) A.Rodgers pass deep left to J.Jones to CHI 32 for 34 yards (A.Ball). Penalty on CHI-W.Young, Defensive Offside, declined.",6,2,48,GB 34,0,GB,
+6,1821,4,02:36,"(2:36) (Field Goal formation) M.Crosby 37 yard field goal is GOOD, Center-B.Goode, Holder-T.Masthay.",18,2,61,CHI 19,1,GB,FG
+6,1535,2,07:13,(7:13) A.Rodgers pass incomplete to D.Adams (J.Jenkins).,3,2,7,GB 27,0,GB,
+6,1717,2,04:20,(4:20) (Shotgun) E.Lacy left guard to CHI 19 for -1 yards (A.Amos).,17,2,61,CHI 18,0,GB,
+6,1476,0,07:49,"R.Gould kicks 65 yards from CHI 35 to end zone, Touchback.",0,2,0,CHI 35,0,CHI,KICKOFF
+6,1497,0,07:49,Timeout at 07:49.,0,2,0,,0,,Timeout
+6,1686,2,04:28,"(4:28) (Shotgun) A.Rodgers pass short left to J.Jones for 8 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on GB-D.Bakhtiari, Offensive Holding, 10 yards, enforced at CHI 8 - No Play.",7,2,62,CHI 8,0,GB,PENALTY
+6,1514,1,07:49,(7:49) E.Lacy left guard to GB 27 for 7 yards (S.McClellin).,10,2,7,GB 20,0,GB,
+6,1665,1,05:12,"(5:12) (No Huddle, Shotgun) E.Lacy left guard to CHI 8 for 3 yards (E.Goldman).",10,2,72,CHI 11,0,GB,
+6,1760,3,03:54,"(3:54) (Shotgun) A.Rodgers scrambles right end pushed ob at CHI 2 for 17 yards (A.Rolle). PENALTY on GB-B.Bulaga, Offensive Holding, 10 yards, enforced at CHI 19 - No Play.",18,2,51,CHI 19,0,GB,PENALTY
+6,1743,0,03:54,Timeout #2 by CHI at 03:54.,0,2,61,,0,,TIMEOUT
+9,2345,2,13:48,"(13:48) (No Huddle, Shotgun) E.Lacy left tackle to CHI 31 for 15 yards (A.Rolle).",8,3,28,CHI 46,0,GB,
+9,2277,0,15:00,R.Gould kicks 70 yards from CHI 35 to GB -5. T.Montgomery pushed ob at GB 41 for 46 yards (R.Gould).,0,3,0,CHI 35,0,CHI,KICKOFF
+9,2458,2,11:59,"(11:59) (No Huddle, Shotgun) A.Rodgers pass short left to J.Jones for 1 yard, TOUCHDOWN.",1,3,59,CHI 1,1,GB,TD
+9,2299,1,14:54,(14:54) R.Rodgers right end to CHI 48 for 11 yards (K.Fuller).,10,3,11,GB 41,0,GB,
+9,2321,1,14:12,(14:12) (Shotgun) A.Rodgers pass short right to R.Rodgers pushed ob at CHI 46 for 2 yards (A.Rolle).,10,3,13,CHI 48,0,GB,
+9,2479,0,11:56,"M.Crosby extra point is GOOD, Center-B.Goode, Holder-T.Masthay.",0,3,59,CHI 15,1,GB,XP
+9,2434,1,12:44,(12:44) (Shotgun) A.Rodgers pass short middle to E.Lacy to CHI 1 for 5 yards (C.Jones).,6,3,59,CHI 6,0,GB,
+9,2366,1,13:07,"(13:07) A.Rodgers pass deep right to D.Adams ran ob at CHI 6 for 25 yards. Chicago challenged the pass completion ruling, and the play was Upheld. The ruling on the field was confirmed. (Timeout #1.)",10,3,53,CHI 31,0,GB,TIMEOUT
+8,2218,0,00:08,R.Gould kicks 44 yards from CHI 35 to GB 21. A.Ripkowski (didn't try to advance) to GB 21 for no gain (S.McManis).,0,2,-1,CHI 35,0,CHI,KICKOFF
+8,2240,1,00:05,(:05) A.Rodgers kneels to GB 20 for -1 yards.,10,2,-1,GB 21,0,GB,
+8,2261,0,,END QUARTER 2,0,2,-1,,0,,

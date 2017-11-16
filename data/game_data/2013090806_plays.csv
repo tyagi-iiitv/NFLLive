@@ -1,182 +1,182 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1080,4,00:52,,12,1,-2,JAC 18,0,JAC,PUNT
-9,969,0,01:35,,0,1,0,KC 35,0,KC,KICKOFF
-9,1053,4,00:52,,7,1,-2,JAC 23,0,JAC,PENALTY
-9,1031,3,00:57,,7,1,3,JAC 23,0,JAC,
-9,988,1,01:35,,10,1,3,JAC 20,0,JAC,
-9,1009,2,01:02,,7,1,3,JAC 23,0,JAC,
-24,3346,0,12:51,,0,4,0,KC 35,0,KC,KICKOFF
-24,3387,2,12:48,,10,4,9,JAC 20,0,JAC,
-24,3454,2,11:41,,10,4,12,JAC 31,0,JAC,
-24,3411,3,12:15,,1,4,11,JAC 29,0,JAC,
-24,3432,1,11:46,,10,4,11,JAC 31,0,JAC,
-24,3497,4,10:59,,9,4,12,JAC 32,0,JAC,PUNT
-24,3365,1,12:51,,10,4,0,JAC 20,0,JAC,
-24,3475,3,11:03,,9,4,12,JAC 32,0,JAC,
-10,1311,3,12:32,,14,2,10,KC 34,0,KC,
-10,1333,4,12:23,,14,2,10,KC 34,0,KC,PUNT
-10,1166,3,15:00,,1,2,14,KC 33,0,KC,
-10,1275,3,12:59,,9,2,3,KC 39,0,KC,PENALTY
-10,1128,2,00:04,,2,1,9,KC 32,0,KC,
-10,1209,2,14:02,,17,2,20,KC 31,0,KC,
-10,1104,1,00:41,,10,1,8,KC 24,0,KC,
-10,1239,3,13:27,,4,2,15,KC 44,0,KC,PENALTY
-10,1187,1,14:31,,10,2,10,KC 38,0,KC,FUMBLE
-20,2936,3,05:38,,10,3,6,JAC 46,0,KC,
-20,2914,2,05:43,,10,3,0,JAC 46,0,KC,
-20,2892,1,05:47,,10,3,0,JAC 46,0,KC,
-20,2960,4,04:53,,4,3,6,JAC 40,0,KC,PUNT
-6,722,3,04:52,,6,1,17,KC 49,0,KC,
-6,698,2,05:37,,10,1,17,KC 45,0,KC,
-6,675,1,05:42,,10,1,13,KC 45,0,KC,
-6,744,4,04:47,,6,1,17,KC 49,0,KC,PUNT
-6,609,1,07:38,,10,1,7,KC 32,0,KC,
-6,630,2,07:05,,3,1,7,KC 39,0,KC,
-6,651,3,06:22,,3,1,13,KC 39,0,KC,
-27,3855,2,04:34,,6,4,30,50,0,KC,
-27,3810,1,06:04,,10,4,26,KC 20,0,KC,
-27,3900,4,03:04,,3,4,33,JAC 47,0,KC,PUNT
-27,3834,1,05:15,,10,4,30,KC 46,0,KC,
-27,3879,3,03:52,,6,4,33,50,0,KC,
-18,2727,3,07:15,,6,3,22,JAC 46,0,KC,
-18,2684,1,08:05,,10,3,18,50,0,KC,
-18,2706,2,07:59,,10,3,22,50,0,KC,
-18,2636,1,09:27,,10,3,3,KC 32,0,KC,
-18,2660,2,08:50,,7,3,18,KC 35,0,KC,
-18,2749,4,07:10,,6,3,22,JAC 46,0,KC,PUNT
-28,4038,2,02:00,,12,4,36,JAC 49,0,JAC,
-28,4197,1,01:04,,8,4,72,KC 8,0,JAC,
-28,4291,4,00:46,,3,4,77,KC 3,0,JAC,
-28,4174,1,01:12,,3,4,72,KC 3,0,JAC,PENALTY
-28,4126,2,01:20,,6,4,72,KC 34,0,JAC,
-28,3968,1,02:20,,10,4,31,JAC 36,0,JAC,
-28,4224,2,00:59,,8,4,72,KC 8,0,JAC,
-28,4109,0,01:20,,0,4,46,,0,,TIMEOUT
-28,4059,3,01:36,,5,4,42,KC 44,0,JAC,
-28,4274,0,00:46,,0,4,77,,0,,TIMEOUT
-28,4246,3,00:55,,8,4,77,KC 8,0,JAC,
-28,3997,1,02:14,,10,4,29,KC 49,0,JAC,
-28,3922,1,02:56,,10,4,0,JAC 20,0,JAC,
-28,4021,0,02:00,,0,4,29,,0,,
-28,4150,1,01:12,,10,4,77,KC 27,0,JAC,
-28,3944,2,02:51,,10,4,16,JAC 20,0,JAC,
-28,4088,1,01:31,,10,4,46,KC 38,0,JAC,
-26,3745,2,07:09,,10,4,26,KC 49,0,JAC,
-26,3678,1,08:10,,10,4,24,JAC 39,0,JAC,
-26,3633,2,09:21,,3,4,8,JAC 31,0,JAC,
-26,3612,1,09:51,,10,4,7,JAC 24,0,JAC,
-26,3723,1,07:09,,10,4,27,KC 49,0,JAC,
-26,3654,3,08:45,,2,4,15,JAC 32,0,JAC,
-26,3702,2,07:47,,1,4,27,JAC 48,0,JAC,
-26,3788,4,06:13,,11,4,26,50,0,JAC,PUNT
-26,3766,3,06:18,,11,4,26,50,0,JAC,
-25,3542,2,10:10,,7,4,3,KC 18,0,KC,
-25,3564,3,10:05,,7,4,3,KC 18,0,KC,
-25,3521,1,10:51,,10,4,3,KC 15,0,KC,
-25,3586,4,09:59,,7,4,3,KC 18,0,KC,PUNT
-1,111,3,13:51,,5,1,7,JAC 25,0,JAC,
-1,40,0,15:00,,0,1,0,KC 35,0,KC,KICKOFF
-1,188,4,13:41,,3,1,7,JAC 27,0,JAC,PUNT
-1,59,1,15:00,,10,1,5,JAC 20,0,JAC,
-1,83,2,14:34,,5,1,5,JAC 25,0,JAC,
-5,522,1,09:04,,10,1,-4,JAC 20,0,JAC,
-5,589,4,07:50,,9,1,1,JAC 21,0,JAC,PUNT
-5,567,3,07:54,,9,1,1,JAC 21,0,JAC,
-5,546,2,08:29,,14,1,1,JAC 16,0,JAC,
-5,503,0,09:04,,0,1,0,KC 35,0,KC,KICKOFF
-13,1773,2,05:17,,7,2,3,JAC 33,0,JAC,
-13,1752,1,05:52,,10,2,14,JAC 30,0,JAC,
-13,1728,1,06:20,,10,2,11,JAC 19,0,JAC,
-13,1878,4,03:35,,5,2,16,JAC 35,0,JAC,PUNT
-13,1815,3,04:16,,23,2,16,JAC 17,0,JAC,
-13,1706,0,06:26,,0,2,0,KC 35,0,KC,KICKOFF
-13,1792,3,04:35,,18,2,-2,JAC 22,0,JAC,PENALTY
-29,4361,0,00:00,,0,4,-2,,0,,
-29,4340,2,00:17,,11,4,-2,KC 2,0,KC,
-29,4314,1,00:41,,10,4,-1,KC 3,0,KC,
-21,3042,4,03:04,,3,3,7,JAC 27,0,JAC,PUNT
-21,3018,3,03:39,,13,3,7,JAC 17,0,JAC,
-21,2978,1,04:45,,10,3,5,JAC 20,0,JAC,
-21,2999,2,04:12,,5,3,-3,JAC 25,0,JAC,
-23,3302,3,12:51,,10,4,0,JAC 12,1,JAC,TD
-23,3281,2,13:35,,10,4,0,JAC 12,0,JAC,
-23,3259,1,13:41,,10,4,0,JAC 12,0,JAC,
-11,1476,4,11:20,,9,2,1,JAC 20,0,JAC,PUNT
-11,1424,2,12:09,,10,2,1,JAC 19,0,JAC,
-11,1353,1,12:17,,10,2,0,JAC 19,0,JAC,TIMEOUT
-11,1447,3,11:27,,9,2,1,JAC 20,0,JAC,
-14,2096,4,01:44,,3,2,21,KC 38,0,KC,PUNT
-14,1974,1,02:23,,10,2,13,KC 31,0,KC,
-14,2038,0,01:54,,0,2,13,,0,,TIMEOUT
-14,1904,1,03:22,,10,2,0,KC 17,0,KC,
-14,2055,3,01:54,,11,2,21,KC 30,0,KC,
-14,2079,0,01:44,,0,2,21,,0,,TIMEOUT
-14,2016,2,02:00,,11,2,13,KC 30,0,KC,
-14,1950,3,02:52,,3,2,14,KC 24,0,KC,
-14,1926,2,03:18,,10,2,7,KC 17,0,KC,
-8,927,1,01:40,,3,1,21,JAC 3,1,KC,TD
-8,889,1,02:08,,10,1,18,JAC 21,0,KC,
-8,953,0,01:35,,0,1,21,JAC 2,1,KC,XP
-8,910,0,01:40,,0,1,18,,0,,TIMEOUT
-19,2866,4,05:58,,13,3,-3,JAC 6,0,JAC,PUNT
-19,2847,3,06:24,,8,3,-3,JAC 11,0,JAC,
-19,2826,2,07:01,,10,3,2,JAC 9,0,JAC,
-19,2769,1,07:02,,10,3,0,JAC 9,0,JAC,
-22,3161,1,00:16,,10,3,27,JAC 39,0,KC,
-22,3116,2,01:39,,5,3,22,JAC 44,0,KC,
-22,3220,3,14:16,,9,4,25,JAC 38,0,KC,
-22,3137,3,00:57,,4,3,26,JAC 43,0,KC,
-22,3199,2,15:00,,9,4,27,JAC 38,0,KC,
-22,3239,4,13:47,,11,4,25,JAC 40,0,KC,PUNT
-22,3092,1,02:15,,10,3,21,JAC 49,0,KC,
-22,3068,1,02:55,,10,3,16,KC 35,0,KC,
-12,1672,1,06:29,,2,2,57,JAC 2,1,KC,TD
-12,1564,1,09:52,,10,2,30,JAC 28,0,KC,
-12,1609,3,08:30,,5,2,43,JAC 23,0,KC,
-12,1690,0,06:26,,0,2,57,JAC 2,1,KC,XP
-12,1630,1,07:49,,10,2,52,JAC 14,0,KC,
-12,1523,0,10:26,,0,2,8,,0,,TIMEOUT
-12,1651,2,07:09,,1,2,55,JAC 5,0,KC,
-12,1585,2,09:13,,9,2,34,JAC 27,0,KC,
-12,1540,2,10:26,,2,2,29,JAC 49,0,KC,
-12,1502,1,11:08,,10,2,8,KC 43,0,KC,
-16,2453,4,11:59,,1,3,34,JAC 46,0,KC,PUNT
-16,2303,0,15:00,,0,3,0,JAC 35,0,JAC,KICKOFF
-16,2328,1,15:00,,10,3,15,KC 20,0,KC,
-16,2370,1,13:37,,10,3,31,KC 45,0,KC,
-16,2432,3,12:23,,1,3,34,JAC 46,0,KC,
-16,2349,1,14:20,,10,3,25,KC 35,0,KC,
-16,2394,2,12:52,,4,3,34,JAC 49,0,KC,
-16,2415,0,12:23,,0,3,34,,0,,TIMEOUT
-7,789,2,04:10,,9,1,3,JAC 21,0,JAC,
-7,810,3,03:34,,7,1,11,JAC 23,0,JAC,
-7,768,1,04:40,,10,1,1,JAC 20,0,JAC,
-7,862,2,02:22,,8,1,13,JAC 33,0,JAC,INT
-7,838,1,02:58,,10,1,13,JAC 31,0,JAC,
-3,348,2,11:48,,10,1,-13,JAC 26,0,JAC,
-3,391,4,10:35,,17,1,-7,JAC 19,0,JAC,PUNT
-3,327,1,12:19,,10,1,0,JAC 26,0,JAC,
-3,305,0,12:26,,0,1,0,KC 20,0,KC,KICKOFF
-3,367,3,11:15,,23,1,-7,JAC 13,0,JAC,
-17,2537,1,10:51,,20,3,0,JAC 14,0,JAC,
-17,2599,4,09:39,,25,3,-5,JAC 9,0,JAC,PUNT
-17,2481,1,11:51,,10,3,10,JAC 14,0,JAC,
-17,2502,1,11:15,,10,3,0,JAC 24,0,JAC,PENALTY
-17,2559,2,10:44,,20,3,1,JAC 14,0,JAC,
-17,2580,3,10:09,,19,3,-5,JAC 15,0,JAC,
-4,418,1,10:24,,10,1,4,JAC 24,0,KC,
-4,466,1,09:09,,5,1,24,JAC 5,1,KC,TD
-4,442,2,09:41,,6,1,19,JAC 20,0,KC,
-4,487,0,09:04,,0,1,24,JAC 2,1,KC,XP
-2,236,2,13:21,,10,1,3,KC 22,0,KC,
-2,280,4,12:32,,7,1,3,KC 25,1,KC,SAF
-2,214,1,13:29,,10,1,0,KC 22,0,KC,
-2,257,3,12:38,,7,1,3,KC 25,0,KC,
-15,2223,1,00:55,,15,2,12,JAC 31,0,JAC,
-15,2267,3,00:45,,15,2,5,JAC 31,0,JAC,
-15,2206,0,00:55,,0,2,12,,0,,TIMEOUT
-15,2137,2,01:25,,7,2,3,JAC 22,0,JAC,
-15,2183,1,00:58,,10,2,12,JAC 36,0,JAC,PENALTY
-15,2159,3,01:21,,7,2,17,JAC 22,0,JAC,
-15,2116,1,01:31,,10,2,3,JAC 19,0,JAC,
-15,2245,2,00:50,,15,2,12,JAC 31,0,JAC,
+24,3387,2,12:48,(12:48) (Shotgun) M.Jones-Drew up the middle to JAC 29 for 9 yards (D.Johnson).,10,4,9,JAC 20,0,JAC,
+24,3454,2,11:41,(11:41) M.Jones-Drew left end to JAC 32 for 1 yard (T.Jackson).,10,4,12,JAC 31,0,JAC,
+24,3475,3,11:03,"(11:03) (No Huddle, Shotgun) B.Gabbert pass incomplete short left to C.Shorts.",9,4,12,JAC 32,0,JAC,
+24,3365,1,12:51,(12:51) (Shotgun) B.Gabbert pass incomplete short left to C.Shorts.,10,4,0,JAC 20,0,JAC,
+24,3432,1,11:46,(11:46) (Shotgun) B.Gabbert pass incomplete short right to C.Shorts.,10,4,11,JAC 31,0,JAC,
+24,3346,0,12:51,"R.Succop kicks 65 yards from KC 35 to end zone, Touchback.",0,4,0,KC 35,0,KC,KICKOFF
+24,3497,4,10:59,"(10:59) (Punt formation) B.Anger punts 53 yards to KC 15, Center-C.Tinker, fair catch by D.McCluster.",9,4,12,JAC 32,0,JAC,PUNT
+24,3411,3,12:15,(12:15) M.Jones-Drew up the middle to JAC 31 for 2 yards (D.Johnson).,1,4,11,JAC 29,0,JAC,
+25,3586,4,09:59,"(9:59) (Punt formation) D.Colquitt punts 58 yards to JAC 24, Center-T.Gafford. W.Blackmon ran ob at JAC 24 for no gain.",7,4,3,KC 18,0,KC,PUNT
+25,3564,3,10:05,(10:05) (Shotgun) A.Smith pass incomplete short right to D.McCluster [S.Marks].,7,4,3,KC 18,0,KC,
+25,3542,2,10:10,(10:10) (Shotgun) A.Smith pass incomplete short left to D.Avery (A.Ball).,7,4,3,KC 18,0,KC,
+25,3521,1,10:51,(10:51) K.Davis left end to KC 18 for 3 yards (P.Posluszny).,10,4,3,KC 15,0,KC,
+26,3612,1,09:51,(9:51) (Shotgun) B.Gabbert scrambles right end to JAC 31 for 7 yards.,10,4,7,JAC 24,0,JAC,
+26,3766,3,06:18,(6:18) (Shotgun) B.Gabbert pass incomplete short right to C.Shorts.,11,4,26,50,0,JAC,
+26,3788,4,06:13,"(6:13) (Punt formation) B.Anger punts 50 yards to end zone, Center-C.Tinker, Touchback.",11,4,26,50,0,JAC,PUNT
+26,3745,2,07:09,(7:09) M.Jones-Drew up the middle to 50 for -1 yards (A.Jordan).,10,4,26,KC 49,0,JAC,
+26,3633,2,09:21,"(9:21) (No Huddle, Shotgun) M.Jones-Drew up the middle to JAC 32 for 1 yard (E.Berry).",3,4,8,JAC 31,0,JAC,
+26,3702,2,07:47,(7:47) (No Huddle) M.Jones-Drew up the middle to KC 49 for 3 yards (E.Berry).,1,4,27,JAC 48,0,JAC,
+26,3678,1,08:10,"(8:10) (No Huddle, Shotgun) B.Gabbert pass short left to C.Shorts to JAC 48 for 9 yards (B.Flowers).",10,4,24,JAC 39,0,JAC,
+26,3654,3,08:45,"(8:45) (No Huddle, Shotgun) B.Gabbert pass short left to C.Shorts to JAC 39 for 7 yards (B.Flowers).",2,4,15,JAC 32,0,JAC,
+26,3723,1,07:09,"(7:09) (No Huddle, Shotgun) B.Gabbert pass incomplete short middle to A.Reisner (Q.Demps).",10,4,27,KC 49,0,JAC,
+27,3834,1,05:15,(5:15) K.Davis right end to 50 for 4 yards (B.Deaderick).,10,4,30,KC 46,0,KC,
+27,3879,3,03:52,(3:52) (Shotgun) A.Smith scrambles left end to JAC 47 for 3 yards.,6,4,33,50,0,KC,
+27,3810,1,06:04,(6:04) A.Smith pass short left to A.Sherman to KC 46 for 26 yards (P.Posluszny).,10,4,26,KC 20,0,KC,
+27,3855,2,04:34,(4:34) A.Smith pass short left to D.Bowe to 50 for no gain (W.Blackmon).,6,4,30,50,0,KC,
+27,3900,4,03:04,"(3:04) (Punt formation) D.Colquitt punts 47 yards to end zone, Center-T.Gafford, Touchback.",3,4,33,JAC 47,0,KC,PUNT
+20,2936,3,05:38,(5:38) (Shotgun) A.Smith pass short right to C.Gray to JAC 40 for 6 yards (S.Marks).,10,3,6,JAC 46,0,KC,
+20,2914,2,05:43,(5:43) (No Huddle) A.Smith pass incomplete short right to D.Bowe (W.Blackmon).,10,3,0,JAC 46,0,KC,
+20,2960,4,04:53,"(4:53) (Punt formation) D.Colquitt punts 40 yards to end zone, Center-T.Gafford, Touchback.",4,3,6,JAC 40,0,KC,PUNT
+20,2892,1,05:47,(5:47) A.Smith pass incomplete short left to D.McCluster (M.Harris).,10,3,0,JAC 46,0,KC,
+21,2999,2,04:12,"(4:12) (No Huddle, Shotgun) B.Gabbert sacked at JAC 17 for -8 yards (J.Houston).",5,3,-3,JAC 25,0,JAC,
+21,2978,1,04:45,(4:45) M.Jones-Drew left end to JAC 25 for 5 yards (D.Poe).,10,3,5,JAC 20,0,JAC,
+21,3042,4,03:04,"(3:04) (Punt formation) B.Anger punts 47 yards to KC 26, Center-C.Tinker. D.McCluster pushed ob at KC 35 for 9 yards (W.Ta'ufo'ou).",3,3,7,JAC 27,0,JAC,PUNT
+21,3018,3,03:39,(3:39) (Shotgun) B.Gabbert pass short right to A.Reisner to JAC 27 for 10 yards (D.Johnson).,13,3,7,JAC 17,0,JAC,
+22,3116,2,01:39,(1:39) (No Huddle) K.Davis up the middle to JAC 43 for 1 yard (P.Posluszny).,5,3,22,JAC 44,0,KC,
+22,3239,4,13:47,"(13:47) (Punt formation) D.Colquitt punts 28 yards to JAC 12, Center-T.Gafford, fair catch by W.Blackmon.",11,4,25,JAC 40,0,KC,PUNT
+22,3220,3,14:16,(14:16) (Shotgun) A.Smith sacked at JAC 40 for -2 yards (J.Babin).,9,4,25,JAC 38,0,KC,
+22,3092,1,02:15,(2:15) A.Smith pass short middle to K.Davis to JAC 44 for 5 yards (P.Posluszny).,10,3,21,JAC 49,0,KC,
+22,3137,3,00:57,(:57) (No Huddle) A.Smith pass short right to A.Fasano to JAC 39 for 4 yards (G.Hayes).,4,3,26,JAC 43,0,KC,
+22,3068,1,02:55,(2:55) (Shotgun) A.Smith pass deep middle to D.McCluster to JAC 49 for 16 yards (D.Lowery).,10,3,16,KC 35,0,KC,
+22,3199,2,15:00,(15:00) (Shotgun) J.Charles up the middle to JAC 38 for no gain (S.Marks).,9,4,27,JAC 38,0,KC,
+22,3161,1,00:16,(:16) (No Huddle) J.Charles up the middle to JAC 38 for 1 yard (P.Posluszny).,10,3,27,JAC 39,0,KC,
+23,3259,1,13:41,(13:41) B.Gabbert pass incomplete short middle to M.Jones-Drew.,10,4,0,JAC 12,0,JAC,
+23,3302,3,12:51,"(12:51) (Shotgun) B.Gabbert pass short right intended for J.Forsett INTERCEPTED by T.Hali at JAC 10. T.Hali for 10 yards, TOUCHDOWN.",10,4,0,JAC 12,1,JAC,TD
+23,3281,2,13:35,(13:35) (Shotgun) D.Robinson up the middle to JAC 12 for no gain (A.Jordan).,10,4,0,JAC 12,0,JAC,
+28,3922,1,02:56,(2:56) (Shotgun) B.Gabbert pass incomplete deep left to C.Shorts.,10,4,0,JAC 20,0,JAC,
+28,4174,1,01:12,"(1:12) (Shotgun) PENALTY on JAC-C.Henne, Delay of Game, 5 yards, enforced at KC 3 - No Play.",3,4,72,KC 3,0,JAC,PENALTY
+28,4150,1,01:12,"(1:12) (No Huddle, Shotgun) C.Henne pass deep left to C.Shorts to KC 3 for 24 yards (K.Lewis).",10,4,77,KC 27,0,JAC,
+28,4291,4,00:46,(:46) (Shotgun) C.Henne pass incomplete short right to A.Sanders [M.Catapano].,3,4,77,KC 3,0,JAC,
+28,4224,2,00:59,"(:59) (No Huddle, Shotgun) C.Henne pass incomplete short left to J.Todman.",8,4,72,KC 8,0,JAC,
+28,4274,0,00:46,Timeout #2 by JAC at 00:46.,0,4,77,,0,,TIMEOUT
+28,4088,1,01:31,"(1:31) (No Huddle, Shotgun) B.Gabbert scrambles up the middle to KC 34 for 4 yards (A.Jordan).",10,4,46,KC 38,0,JAC,
+28,4197,1,01:04,"(1:04) (No Huddle, Shotgun) C.Henne pass incomplete short right to A.Sanders (H.Abdullah).",8,4,72,KC 8,0,JAC,
+28,3944,2,02:51,(2:51) (Shotgun) B.Gabbert pass short middle to A.Reisner to JAC 36 for 16 yards (Q.Demps).,10,4,16,JAC 20,0,JAC,
+28,4126,2,01:20,(1:20) (Shotgun) C.Henne pass short right to J.Todman ran ob at KC 27 for 7 yards. Chad Henne comes into the game for the first time.,6,4,72,KC 34,0,JAC,
+28,4059,3,01:36,"(1:36) (No Huddle, Shotgun) B.Gabbert pass short right to J.Forsett pushed ob at KC 38 for 6 yards (M.Cooper).",5,4,42,KC 44,0,JAC,
+28,4109,0,01:20,Timeout #1 by JAC at 01:20.,0,4,46,,0,,TIMEOUT
+28,4246,3,00:55,(:55) (Shotgun) C.Henne pass short left to A.Reisner to KC 3 for 5 yards (Q.Demps).,8,4,77,KC 8,0,JAC,
+28,4021,0,02:00,Two-Minute Warning,0,4,29,,0,,
+28,3997,1,02:14,"(2:14) (No Huddle, Shotgun) B.Gabbert pass short right to J.Todman to JAC 49 for -2 yards (E.Berry).",10,4,29,KC 49,0,JAC,
+28,4038,2,02:00,(2:00) (Shotgun) J.Forsett up the middle to KC 44 for 7 yards (F.Zombo).,12,4,36,JAC 49,0,JAC,
+28,3968,1,02:20,"(2:20) (No Huddle, Shotgun) B.Gabbert pass short left to J.Todman pushed ob at KC 49 for 15 yards (B.Flowers).",10,4,31,JAC 36,0,JAC,
+29,4361,0,00:00,END GAME,0,4,-2,,0,,
+29,4314,1,00:41,(:41) C.Daniel kneels to KC 2 for -1 yards. Chase Daniel comes into the game for the first time.,10,4,-1,KC 3,0,KC,
+29,4340,2,00:17,(:17) C.Daniel kneels to KC 1 for -1 yards.,11,4,-2,KC 2,0,KC,
+1,83,2,14:34,(14:34) (No Huddle) B.Gabbert pass short left to A.Sanders to JAC 25 for no gain (B.Flowers).,5,1,5,JAC 25,0,JAC,
+1,111,3,13:51,"(13:51) (Shotgun) B.Gabbert scrambles up the middle to JAC 27 for 2 yards (D.Poe). FUMBLES (D.Poe), RECOVERED by KC-J.Houston at JAC 27. J.Houston to JAC 27 for no gain (W.Ta'ufo'ou). The Replay Assistant challenged the fumble ruling, and the play was REVERSED. (Shotgun) B.Gabbert scrambles up the middle to JAC 27 for 2 yards (J.Houston).",5,1,7,JAC 25,0,JAC,
+1,59,1,15:00,(15:00) B.Gabbert pass short right to C.Harbor to JAC 25 for 5 yards (E.Berry).,10,1,5,JAC 20,0,JAC,
+1,188,4,13:41,"(13:41) B.Anger punts 54 yards to KC 19, Center-C.Tinker. D.McCluster to KC 22 for 3 yards (J.Evans).",3,1,7,JAC 27,0,JAC,PUNT
+1,40,0,15:00,"R.Succop kicks 65 yards from KC 35 to end zone, Touchback.",0,1,0,KC 35,0,KC,KICKOFF
+3,367,3,11:15,(11:15) (Shotgun) B.Gabbert pass short right to J.Forsett to JAC 19 for 6 yards (T.Hali) [T.Hali].,23,1,-7,JAC 13,0,JAC,
+3,391,4,10:35,"(10:35) B.Anger punts 41 yards to KC 40, Center-C.Tinker. D.McCluster to JAC 24 for 36 yards (J.Evans).",17,1,-7,JAC 19,0,JAC,PUNT
+3,348,2,11:48,(11:48) (Shotgun) B.Gabbert sacked at JAC 13 for -13 yards (J.Houston).,10,1,-13,JAC 26,0,JAC,
+3,305,0,12:26,D.Colquitt kicks 77 yards from KC 20 to JAC 3. A.Sanders to JAC 26 for 23 yards (R.Parker).,0,1,0,KC 20,0,KC,KICKOFF
+3,327,1,12:19,(12:19) M.Jones-Drew up the middle to JAC 26 for no gain (D.Poe).,10,1,0,JAC 26,0,JAC,
+2,280,4,12:32,"(12:32) D.Colquitt punt is BLOCKED by J.Thomas, Center-T.Gafford, ball out of bounds in End Zone, SAFETY.",7,1,3,KC 25,1,KC,SAF
+2,214,1,13:29,(13:29) A.Smith pass incomplete deep left to A.Fasano.,10,1,0,KC 22,0,KC,
+2,236,2,13:21,(13:21) (No Huddle) J.Charles up the middle to KC 25 for 3 yards (P.Posluszny).,10,1,3,KC 22,0,KC,
+2,257,3,12:38,(12:38) (Shotgun) A.Smith pass incomplete short right to J.Charles.,7,1,3,KC 25,0,KC,
+5,589,4,07:50,"(7:50) B.Anger punts 47 yards to KC 32, Center-C.Tinker, downed by JAC-C.Harbor.",9,1,1,JAC 21,0,JAC,PUNT
+5,546,2,08:29,"(8:29) (No Huddle, Shotgun) M.Jones-Drew up the middle to JAC 21 for 5 yards (E.Berry).",14,1,1,JAC 16,0,JAC,
+5,503,0,09:04,"R.Succop kicks 65 yards from KC 35 to end zone, Touchback.",0,1,0,KC 35,0,KC,KICKOFF
+5,522,1,09:04,(9:04) (Shotgun) B.Gabbert pass short left to A.Sanders to JAC 16 for -4 yards (K.Lewis).,10,1,-4,JAC 20,0,JAC,
+5,567,3,07:54,"(7:54) (No Huddle, Shotgun) B.Gabbert pass incomplete short left to M.Brown (D.Poe) [D.Johnson].",9,1,1,JAC 21,0,JAC,
+4,487,0,09:04,"R.Succop extra point is GOOD, Center-T.Gafford, Holder-D.Colquitt.",0,1,24,JAC 2,1,KC,XP
+4,442,2,09:41,(9:41) A.Smith pass short right to J.Charles to JAC 5 for 15 yards (G.Hayes).,6,1,19,JAC 20,0,KC,
+4,466,1,09:09,"(9:09) (Shotgun) A.Smith pass short left to D.Avery for 5 yards, TOUCHDOWN.",5,1,24,JAC 5,1,KC,TD
+4,418,1,10:24,(10:24) A.Smith pass short right to A.Fasano to JAC 20 for 4 yards (G.Hayes).,10,1,4,JAC 24,0,KC,
+7,810,3,03:34,(3:34) (Shotgun) B.Gabbert pass short left to J.Forsett to JAC 31 for 8 yards (T.Hali).,7,1,11,JAC 23,0,JAC,
+7,768,1,04:40,(4:40) M.Jones-Drew left end to JAC 21 for 1 yard (D.Poe).,10,1,1,JAC 20,0,JAC,
+7,862,2,02:22,(2:22) (No Huddle) B.Gabbert pass deep right intended for C.Shorts INTERCEPTED by B.Flowers at KC 47. B.Flowers to JAC 21 for 32 yards (E.Monroe).,8,1,13,JAC 33,0,JAC,INT
+7,789,2,04:10,(4:10) (No Huddle) M.Jones-Drew left end to JAC 23 for 2 yards (D.Poe).,9,1,3,JAC 21,0,JAC,
+7,838,1,02:58,"(2:58) (No Huddle, Shotgun) B.Gabbert pass short left to J.Forsett to JAC 33 for 2 yards (K.Lewis).",10,1,13,JAC 31,0,JAC,
+6,630,2,07:05,(7:05) (No Huddle) J.Charles right end to KC 39 for no gain (D.Gratz).,3,1,7,KC 39,0,KC,
+6,744,4,04:47,"(4:47) D.Colquitt punts 31 yards to JAC 20, Center-T.Gafford, fair catch by W.Blackmon.",6,1,17,KC 49,0,KC,PUNT
+6,675,1,05:42,(5:42) (Shotgun) A.Smith pass incomplete short left to J.Charles.,10,1,13,KC 45,0,KC,
+6,698,2,05:37,(5:37) (Shotgun) A.Smith pass short left to J.Charles to KC 49 for 4 yards (A.Ball).,10,1,17,KC 45,0,KC,
+6,609,1,07:38,(7:38) J.Charles up the middle to KC 39 for 7 yards (J.Cyprien).,10,1,7,KC 32,0,KC,
+6,722,3,04:52,"(4:52) (No Huddle, Shotgun) A.Smith pass incomplete short middle to D.Avery.",6,1,17,KC 49,0,KC,
+6,651,3,06:22,(6:22) (No Huddle) A.Smith pass short left to D.Avery to KC 45 for 6 yards (A.Ball).,3,1,13,KC 39,0,KC,
+9,988,1,01:35,(1:35) M.Jones-Drew right end to JAC 23 for 3 yards (D.Johnson).,10,1,3,JAC 20,0,JAC,
+9,1053,4,00:52,"(:52) (Punt formation) PENALTY on JAC-A.Branch, False Start, 5 yards, enforced at JAC 23 - No Play.",7,1,-2,JAC 23,0,JAC,PENALTY
+9,1080,4,00:52,"(:52) B.Anger punts 58 yards to KC 24, Center-C.Tinker, downed by JAC-K.Knox.",12,1,-2,JAC 18,0,JAC,PUNT
+9,969,0,01:35,"R.Succop kicks 65 yards from KC 35 to end zone, Touchback.",0,1,0,KC 35,0,KC,KICKOFF
+9,1009,2,01:02,(1:02) B.Gabbert pass incomplete short left to A.Reisner.,7,1,3,JAC 23,0,JAC,
+9,1031,3,00:57,(:57) (Shotgun) B.Gabbert pass incomplete deep right to A.Sanders.,7,1,3,JAC 23,0,JAC,
+8,953,0,01:35,"R.Succop extra point is GOOD, Center-T.Gafford, Holder-D.Colquitt.",0,1,21,JAC 2,1,KC,XP
+8,889,1,02:08,(2:08) J.Charles up the middle to JAC 3 for 18 yards (J.Cyprien).,10,1,18,JAC 21,0,KC,
+8,910,0,01:40,Timeout #1 by KC at 01:40.,0,1,18,,0,,TIMEOUT
+8,927,1,01:40,"(1:40) (Shotgun) A.Smith pass short middle to J.Hemingway for 3 yards, TOUCHDOWN [J.Babin].",3,1,21,JAC 3,1,KC,TD
+11,1353,1,12:17,"(12:17) (Shotgun) B.Gabbert pass incomplete deep right to C.Shorts (B.Flowers). Jacksonville challenged the pass completion ruling, and the play was Upheld. (Timeout #1.)",10,2,0,JAC 19,0,JAC,TIMEOUT
+11,1447,3,11:27,(11:27) (Shotgun) B.Gabbert pass incomplete short middle to M.Brown (Q.Demps).,9,2,1,JAC 20,0,JAC,
+11,1476,4,11:20,"(11:20) (Punt formation) B.Anger punts 52 yards to KC 28, Center-C.Tinker. D.McCluster to KC 43 for 15 yards (W.Ta'ufo'ou).",9,2,1,JAC 20,0,JAC,PUNT
+11,1424,2,12:09,(12:09) (Shotgun) Direct snap to D.Robinson.  D.Robinson up the middle to JAC 20 for 1 yard (J.Houston).,10,2,1,JAC 19,0,JAC,
+10,1128,2,00:04,"(:04) (No Huddle, Shotgun) J.Charles up the middle to KC 33 for 1 yard (R.Miller).",2,1,9,KC 32,0,KC,
+10,1166,3,15:00,(15:00) J.Charles left end ran ob at KC 38 for 5 yards.,1,2,14,KC 33,0,KC,
+10,1209,2,14:02,(14:02) A.Smith right end ran ob at KC 44 for 13 yards.,17,2,20,KC 31,0,KC,
+10,1311,3,12:32,(12:32) (Shotgun) A.Smith pass incomplete short right to D.Avery.,14,2,10,KC 34,0,KC,
+10,1187,1,14:31,"(14:31) (No Huddle, Shotgun) A.Smith FUMBLES (Aborted) at KC 38, recovered by KC at KC 31.",10,2,10,KC 38,0,KC,FUMBLE
+10,1239,3,13:27,"(13:27) (No Huddle, Shotgun) PENALTY on KC-G.Schwartz, False Start, 5 yards, enforced at KC 44 - No Play.",4,2,15,KC 44,0,KC,PENALTY
+10,1333,4,12:23,"(12:23) (Punt formation) D.Colquitt punts 47 yards to JAC 19, Center-T.Gafford, fair catch by W.Blackmon.",14,2,10,KC 34,0,KC,PUNT
+10,1275,3,12:59,"(12:59) PENALTY on KC-A.Smith, Delay of Game, 5 yards, enforced at KC 39 - No Play.",9,2,3,KC 39,0,KC,PENALTY
+10,1104,1,00:41,(:41) A.Smith pass short middle to A.Sherman to KC 32 for 8 yards (P.Posluszny).,10,1,8,KC 24,0,KC,
+13,1815,3,04:16,"(4:16) (Shotgun) B.Gabbert pass short right to A.Sanders to KC 26 for 57 yards (K.Lewis; E.Berry). Kansas City challenged the first down ruling, and the play was REVERSED. (Shotgun) B.Gabbert pass short right to A.Sanders to JAC 35 for 18 yards (D.Johnson).",23,2,16,JAC 17,0,JAC,
+13,1728,1,06:20,(6:20) B.Gabbert pass short left to W.Ta'ufo'ou to JAC 30 for 11 yards (D.Johnson).,10,2,11,JAC 19,0,JAC,
+13,1773,2,05:17,(5:17) (No Huddle) B.Gabbert sacked at JAC 22 for -11 yards (T.Jackson).,7,2,3,JAC 33,0,JAC,
+13,1792,3,04:35,"(4:35) (Shotgun) PENALTY on JAC-B.Gabbert, Delay of Game, 5 yards, enforced at JAC 22 - No Play.",18,2,-2,JAC 22,0,JAC,PENALTY
+13,1752,1,05:52,(5:52) (No Huddle) M.Jones-Drew up the middle to JAC 33 for 3 yards (M.Devito).,10,2,14,JAC 30,0,JAC,
+13,1706,0,06:26,R.Succop kicks 71 yards from KC 35 to JAC -6. S.Burton to JAC 19 for 25 yards (F.Zombo).,0,2,0,KC 35,0,KC,KICKOFF
+13,1878,4,03:35,"(3:35) (Punt formation) B.Anger punts 52 yards to KC 13, Center-C.Tinker. D.McCluster to KC 17 for 4 yards (C.Prosinski).",5,2,16,JAC 35,0,JAC,PUNT
+12,1609,3,08:30,"(8:30) (No Huddle, Shotgun) A.Smith scrambles left guard to JAC 14 for 9 yards.",5,2,43,JAC 23,0,KC,
+12,1630,1,07:49,"(7:49) (No Huddle, Shotgun) C.Gray up the middle to JAC 5 for 9 yards (J.Babin).",10,2,52,JAC 14,0,KC,
+12,1540,2,10:26,(10:26) A.Smith pass deep middle to D.McCluster to JAC 28 for 21 yards (D.Gratz).,2,2,29,JAC 49,0,KC,
+12,1585,2,09:13,(9:13) (No Huddle) A.Smith pass short right to J.Charles to JAC 23 for 4 yards (D.Gratz).,9,2,34,JAC 27,0,KC,
+12,1502,1,11:08,(11:08) J.Charles up the middle to JAC 49 for 8 yards (J.Cyprien).,10,2,8,KC 43,0,KC,
+12,1690,0,06:26,"(Kick formation) R.Succop extra point is GOOD, Center-T.Gafford, Holder-D.Colquitt.",0,2,57,JAC 2,1,KC,XP
+12,1523,0,10:26,Timeout #2 by KC at 10:26.,0,2,8,,0,,TIMEOUT
+12,1651,2,07:09,(7:09) J.Charles right end to JAC 2 for 3 yards (R.Miller).,1,2,55,JAC 5,0,KC,
+12,1564,1,09:52,(9:52) (No Huddle) J.Charles up the middle to JAC 27 for 1 yard (P.Posluszny).,10,2,30,JAC 28,0,KC,
+12,1672,1,06:29,"(6:29) J.Charles left end for 2 yards, TOUCHDOWN.",2,2,57,JAC 2,1,KC,TD
+15,2137,2,01:25,"(1:25) (No Huddle, Shotgun) B.Gabbert pass incomplete short right to A.Sanders.",7,2,3,JAC 22,0,JAC,
+15,2206,0,00:55,Timeout #3 by JAC at 00:55.,0,2,12,,0,,TIMEOUT
+15,2223,1,00:55,(:55) (Shotgun) B.Gabbert pass incomplete short right to A.Sanders.,15,2,12,JAC 31,0,JAC,
+15,2267,3,00:45,(:45) (Shotgun) B.Gabbert sacked at JAC 24 for -7 yards (D.Poe).,15,2,5,JAC 31,0,JAC,
+15,2183,1,00:58,"(:58) (No Huddle, Shotgun) PENALTY on JAC-E.Monroe, False Start, 5 yards, enforced at JAC 36 - No Play.",10,2,12,JAC 36,0,JAC,PENALTY
+15,2245,2,00:50,(:50) (Shotgun) B.Gabbert pass incomplete short right to M.Jones-Drew.,15,2,12,JAC 31,0,JAC,
+15,2159,3,01:21,(1:21) (Shotgun) B.Gabbert pass short middle to M.Brown to JAC 36 for 14 yards (D.Johnson).,7,2,17,JAC 22,0,JAC,
+15,2116,1,01:31,(1:31) (Shotgun) B.Gabbert scrambles right end ran ob at JAC 22 for 3 yards.,10,2,3,JAC 19,0,JAC,
+14,2055,3,01:54,(1:54) (Shotgun) A.Smith pass short middle to D.Bowe to KC 38 for 8 yards (A.Ball).,11,2,21,KC 30,0,KC,
+14,1974,1,02:23,(2:23) (No Huddle) C.Gray up the middle to KC 30 for -1 yards (J.Mincey).,10,2,13,KC 31,0,KC,
+14,2079,0,01:44,Timeout #2 by JAC at 01:44.,0,2,21,,0,,TIMEOUT
+14,2096,4,01:44,"(1:44) (Punt formation) D.Colquitt punts 43 yards to JAC 19, Center-T.Gafford, downed by KC-H.Abdullah.",3,2,21,KC 38,0,KC,PUNT
+14,1950,3,02:52,"(2:52) (No Huddle, Shotgun) A.Smith pass short right to D.Bowe ran ob at KC 31 for 7 yards.",3,2,14,KC 24,0,KC,
+14,1926,2,03:18,(3:18) (No Huddle) A.Smith pass short left to A.Sherman pushed ob at KC 24 for 7 yards (P.Posluszny).,10,2,7,KC 17,0,KC,
+14,1904,1,03:22,(3:22) (Shotgun) A.Smith pass incomplete short middle to J.Charles.,10,2,0,KC 17,0,KC,
+14,2016,2,02:00,(2:00) A.Smith pass incomplete short right to A.Fasano.,11,2,13,KC 30,0,KC,
+14,2038,0,01:54,Timeout #3 by KC at 01:54.,0,2,13,,0,,TIMEOUT
+17,2580,3,10:09,(10:09) (Shotgun) B.Gabbert sacked at JAC 9 for -6 yards (J.Houston).,19,3,-5,JAC 15,0,JAC,
+17,2559,2,10:44,(10:44) M.Jones-Drew up the middle to JAC 15 for 1 yard (A.Jordan).,20,3,1,JAC 14,0,JAC,
+17,2599,4,09:39,"(9:39) B.Anger punts 49 yards to KC 42, Center-C.Tinker. D.McCluster to KC 42 for no gain (J.Evans). PENALTY on KC-D.Moses, Offensive Holding, 10 yards, enforced at KC 42.",25,3,-5,JAC 9,0,JAC,PUNT
+17,2502,1,11:15,"(11:15) (No Huddle, Shotgun) B.Gabbert pass deep right to A.Sanders pushed ob at KC 43 for 33 yards (H.Abdullah). PENALTY on JAC-C.Shorts, Offensive Pass Interference, 10 yards, enforced at JAC 24 - No Play.",10,3,0,JAC 24,0,JAC,PENALTY
+17,2481,1,11:51,(11:51) (Shotgun) M.Jones-Drew up the middle to JAC 24 for 10 yards (S.Smith).,10,3,10,JAC 14,0,JAC,
+17,2537,1,10:51,(10:51) B.Gabbert pass incomplete deep middle to A.Sanders.,20,3,0,JAC 14,0,JAC,
+16,2432,3,12:23,(12:23) J.Charles left end to JAC 46 for no gain (G.Hayes). KC-J.Charles was injured during the play. His return is Questionable.,1,3,34,JAC 46,0,KC,
+16,2303,0,15:00,"J.Scobee kicks 74 yards from JAC 35 to KC -9. Q.Demps, Touchback.",0,3,0,JAC 35,0,JAC,KICKOFF
+16,2328,1,15:00,(15:00) (Shotgun) J.Charles up the middle to KC 35 for 15 yards (A.Ball).,10,3,15,KC 20,0,KC,
+16,2349,1,14:20,(14:20) (No Huddle) J.Charles up the middle to KC 45 for 10 yards (R.Allen).,10,3,25,KC 35,0,KC,
+16,2453,4,11:59,"(11:59) (Punt formation) D.Colquitt punts 32 yards to JAC 14, Center-T.Gafford, downed by KC-J.Johnson.",1,3,34,JAC 46,0,KC,PUNT
+16,2394,2,12:52,(12:52) (No Huddle) J.Charles up the middle to JAC 46 for 3 yards (J.Babin).,4,3,34,JAC 49,0,KC,
+16,2415,0,12:23,Timeout #1 by KC at 12:23.,0,3,34,,0,,TIMEOUT
+16,2370,1,13:37,"(13:37) (No Huddle, Shotgun) A.Smith pass short left to D.McCluster to JAC 49 for 6 yards (R.Allen).",10,3,31,KC 45,0,KC,
+19,2847,3,06:24,(6:24) (Shotgun) B.Gabbert sacked at JAC 6 for -5 yards (sack split by E.Berry and D.Poe).,8,3,-3,JAC 11,0,JAC,
+19,2769,1,07:02,"(7:02) (Shotgun) B.Gabbert pass short right intended for C.Shorts INTERCEPTED by B.Flowers at JAC 16. B.Flowers for 16 yards, TOUCHDOWN. The Replay Assistant challenged the incomplete pass ruling, and the play was REVERSED. (Shotgun) B.Gabbert pass incomplete short right to C.Shorts.",10,3,0,JAC 9,0,JAC,
+19,2826,2,07:01,(7:01) (Shotgun) J.Todman up the middle to JAC 11 for 2 yards (E.Berry).,10,3,2,JAC 9,0,JAC,
+19,2866,4,05:58,"(5:58) (Punt formation) B.Anger punts 53 yards to KC 41, Center-C.Tinker. D.McCluster to JAC 46 for 13 yards (M.Harris).",13,3,-3,JAC 6,0,JAC,PUNT
+18,2727,3,07:15,"(7:15) (No Huddle, Shotgun) A.Smith pass incomplete short right to A.Fasano [J.Cyprien].",6,3,22,JAC 46,0,KC,
+18,2636,1,09:27,(9:27) A.Smith pass short left to A.Sherman to KC 35 for 3 yards (M.Harris).,10,3,3,KC 32,0,KC,
+18,2706,2,07:59,(7:59) (No Huddle) K.Davis left guard to JAC 46 for 4 yards (S.Marks).,10,3,22,50,0,KC,
+18,2749,4,07:10,"(7:10) (Punt formation) D.Colquitt punts 37 yards to JAC 9, Center-T.Gafford, fair catch by W.Blackmon.",6,3,22,JAC 46,0,KC,PUNT
+18,2660,2,08:50,(8:50) (No Huddle) A.Smith pass short middle to D.Bowe to 50 for 15 yards (P.Posluszny).,7,3,18,KC 35,0,KC,
+18,2684,1,08:05,"(8:05) (No Huddle, Shotgun) A.Smith pass incomplete short left to D.Bowe.",10,3,18,50,0,KC,

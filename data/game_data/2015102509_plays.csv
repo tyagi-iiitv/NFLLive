@@ -1,208 +1,208 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1471,3,08:13,,3,2,7,SD 15,0,SD,
-9,1423,1,09:20,,10,2,7,SD 8,0,SD,
-9,1447,2,08:53,,5,2,7,SD 13,0,SD,
-9,1385,0,09:28,,0,2,7,OAK 35,0,OAK,KICKOFF
-9,1493,4,08:09,,3,2,7,SD 15,0,SD,PUNT
-24,4782,1,00:05,,10,4,-1,SD 46,0,OAK,
-24,4758,0,00:06,,0,4,0,SD 35,0,SD,KICKOFF
-24,4807,0,00:00,,0,4,-1,,0,,
-10,1703,4,04:43,,13,2,34,SD 13,1,OAK,FG
-10,1518,1,07:58,,10,2,-7,SD 47,0,OAK,
-10,1617,0,05:28,,0,2,31,,0,,TIMEOUT
-10,1634,2,05:28,,16,2,31,SD 16,0,OAK,
-10,1558,3,06:40,,14,2,40,OAK 49,0,OAK,
-10,1582,1,05:51,,7,2,31,SD 7,0,OAK,PENALTY
-10,1656,3,05:23,,16,2,26,SD 16,0,OAK,PENALTY
-10,1679,3,05:23,,21,2,34,SD 21,0,OAK,
-10,1537,2,07:18,,17,2,-4,OAK 46,0,OAK,
-20,3525,0,11:30,,0,4,6,,0,,TIMEOUT
-20,3461,1,12:57,,10,4,3,SD 47,0,OAK,
-20,3439,0,12:58,,0,4,0,SD 35,0,SD,KICKOFF
-20,3546,4,11:30,,4,4,6,SD 41,0,OAK,PUNT
-20,3482,2,12:16,,7,4,6,SD 44,0,OAK,
-20,3503,3,11:34,,4,4,6,SD 41,0,OAK,
-6,990,2,00:27,,8,1,19,OAK 25,0,OAK,
-6,969,1,01:12,,10,1,2,OAK 23,0,OAK,
-6,1096,2,13:11,,3,2,77,SD 23,1,OAK,TD
-6,1011,0,,,0,1,19,,0,,
-6,947,0,01:18,,0,1,0,SD 35,0,SD,KICKOFF
-6,1048,1,14:24,,10,2,47,SD 45,0,OAK,
-6,1027,1,15:00,,10,2,32,OAK 42,0,OAK,
-6,1072,1,13:49,,10,2,54,SD 30,0,OAK,
-6,1116,0,13:06,,0,2,77,SD 15,1,OAK,XP
-18,3027,2,04:32,,10,3,2,SD 49,0,OAK,
-18,3099,4,02:59,,8,3,2,SD 47,0,OAK,PUNT
-18,3072,4,03:14,,3,3,2,SD 42,0,OAK,PENALTY
-18,3051,3,04:00,,4,3,7,SD 43,0,OAK,
-18,2995,2,05:00,,4,3,7,SD 43,0,OAK,PENALTY
-18,2971,1,05:24,,10,3,6,SD 49,0,OAK,
-1,103,3,13:40,,2,1,8,SD 19,0,SD,INT
-1,58,1,14:56,,10,1,7,SD 11,0,SD,
-1,82,2,14:19,,3,1,8,SD 18,0,SD,
-1,36,0,15:00,,0,1,0,OAK 35,0,OAK,KICKOFF
-5,824,2,03:11,,6,1,53,OAK 28,0,SD,PENALTY
-5,650,0,05:21,,0,1,9,OAK 35,0,OAK,KICKOFF
-5,687,2,05:16,,10,1,9,SD 20,0,SD,
-5,911,0,01:21,,0,1,57,,0,,TIMEOUT
-5,768,1,04:00,,10,1,53,SD 44,0,SD,PENALTY
-5,803,1,03:48,,10,1,53,OAK 32,0,SD,
-5,859,2,02:45,,16,1,53,OAK 38,0,SD,
-5,887,3,02:03,,5,1,57,OAK 27,0,SD,
-5,711,3,04:38,,1,1,14,SD 29,0,SD,
-5,735,1,04:05,,10,1,57,SD 34,0,SD,PENALTY
-5,928,4,01:21,,1,1,57,OAK 23,1,SD,FG
-5,665,1,05:21,,10,1,14,SD 20,0,SD,
-13,2286,0,00:02,,0,2,54,,0,,TIMEOUT
-13,2159,2,00:34,,2,2,25,SD 40,0,SD,
-13,2181,3,00:28,,2,2,25,SD 40,0,SD,
-13,2303,3,00:02,,4,2,54,OAK 26,1,SD,FG
-13,2243,1,00:17,,10,2,48,OAK 32,0,SD,
-13,2111,2,00:43,,5,2,20,SD 25,0,SD,
-13,2068,0,01:01,,0,2,0,OAK 35,0,OAK,KICKOFF
-13,2202,0,00:24,,0,2,25,,0,,TIMEOUT
-13,2087,1,01:00,,10,2,12,SD 20,0,SD,
-13,2135,1,00:40,,10,2,20,SD 32,0,SD,
-13,2265,2,00:11,,10,2,54,OAK 32,0,SD,
-13,2219,1,00:24,,10,2,48,SD 45,0,SD,
-21,3584,2,10:57,,7,4,11,SD 23,0,SD,
-21,3854,4,07:06,,7,4,80,OAK 37,0,SD,PENALTY
-21,3704,1,08:35,,10,4,43,OAK 37,0,SD,
-21,3677,3,08:59,,9,4,43,SD 46,0,SD,
-21,3789,2,07:42,,6,4,72,OAK 36,0,SD,
-21,3653,2,09:33,,11,4,43,SD 44,0,SD,
-21,3632,1,10:08,,10,4,43,SD 45,0,SD,
-21,3726,2,08:30,,10,4,44,OAK 37,0,SD,PENALTY
-21,3939,1,06:14,,8,4,80,OAK 8,0,SD,
-21,3818,3,07:35,,6,4,80,OAK 36,0,SD,FUMBLE
-21,3961,2,06:09,,8,4,80,OAK 8,0,SD,
-21,3765,1,08:11,,10,4,43,OAK 40,0,SD,
-21,4003,0,06:00,,0,4,80,OAK 2,1,SD,2PS
-21,3608,1,10:25,,10,4,43,SD 31,0,SD,
-21,3563,1,11:21,,10,4,3,SD 20,0,SD,
-21,3918,2,06:40,,2,4,80,OAK 12,0,SD,
-21,3983,3,06:03,,8,4,80,OAK 8,1,SD,TD
-21,3894,1,06:59,,10,4,80,OAK 20,0,SD,
-23,4499,0,01:31,,0,4,47,,0,,TIMEOUT
-23,4343,3,02:47,,3,4,22,SD 27,0,SD,
-23,4625,1,00:37,,10,4,80,OAK 11,0,SD,PENALTY
-23,4391,2,02:19,,9,4,30,SD 43,0,SD,
-23,4601,2,00:56,,17,4,69,OAK 29,0,SD,
-23,4453,1,01:57,,10,4,47,OAK 44,0,SD,
-23,4321,2,02:50,,3,4,36,SD 27,0,SD,
-23,4415,3,02:02,,2,4,58,50,0,SD,
-23,4520,2,01:31,,10,4,58,OAK 33,0,SD,
-23,4436,0,01:57,,0,4,36,,0,,
-23,4477,1,01:37,,10,4,51,OAK 33,0,SD,
-23,4544,1,01:09,,10,4,74,OAK 22,0,SD,
-23,4297,1,03:13,,10,4,7,SD 20,0,SD,
-23,4568,2,01:05,,7,4,51,OAK 19,0,SD,PENALTY
-23,4713,2,00:10,,5,4,80,OAK 6,1,SD,TD
-23,4655,1,00:32,,20,4,70,OAK 21,0,SD,
-23,4733,0,00:06,,0,4,80,OAK 2,1,SD,2PS
-23,4367,1,02:25,,10,4,47,SD 42,0,SD,
-23,4690,2,00:10,,9,4,80,OAK 10,0,SD,PENALTY
-11,1906,0,01:53,,0,2,8,,0,,
-11,1779,3,03:46,,1,2,11,SD 29,0,SD,
-11,1800,1,03:08,,10,2,11,SD 31,0,SD,
-11,1923,4,01:53,,13,2,8,SD 28,0,SD,PUNT
-11,1822,2,03:03,,10,2,13,SD 31,0,SD,
-11,1722,0,04:41,,0,2,0,OAK 35,0,OAK,KICKOFF
-11,1737,1,04:41,,10,2,4,SD 20,0,SD,
-11,1878,3,02:01,,18,2,8,SD 23,0,SD,
-11,1843,3,02:22,,8,2,3,SD 33,0,SD,PENALTY
-11,1758,2,04:15,,6,2,9,SD 24,0,SD,
-14,2538,0,10:41,,0,3,80,SD 15,1,OAK,XP
-14,2372,2,14:24,,8,3,8,OAK 22,0,OAK,
-14,2473,2,12:17,,4,3,36,OAK 37,0,OAK,
-14,2518,1,10:49,,10,3,80,SD 25,1,OAK,TD
-14,2351,1,15:00,,10,3,2,OAK 20,0,OAK,
-14,2414,1,13:08,,10,3,36,OAK 31,0,OAK,PENALTY
-14,2336,0,15:00,,0,3,0,SD 35,0,SD,KICKOFF
-14,2393,3,13:47,,2,3,11,OAK 28,0,OAK,
-14,2494,1,11:30,,10,3,80,SD 44,0,OAK,
-14,2449,1,12:39,,20,3,17,OAK 21,0,OAK,
-8,1274,1,11:48,,10,2,12,SD 20,0,OAK,
-8,1250,2,12:22,,5,2,11,SD 26,0,OAK,
-8,1205,1,12:25,,10,2,0,SD 31,0,OAK,
-8,1366,4,09:31,,4,2,17,SD 14,1,OAK,FG
-8,1342,3,10:10,,5,2,17,SD 15,0,OAK,
-8,1295,2,11:16,,9,2,16,SD 19,0,OAK,PENALTY
-8,1318,2,10:53,,14,2,16,SD 24,0,OAK,
-8,1227,2,12:22,,10,2,5,SD 31,0,OAK,PENALTY
-19,3357,2,13:41,,19,4,52,SD 49,0,SD,
-19,3172,2,02:16,,2,3,16,SD 30,0,SD,
-19,3403,2,13:07,,10,4,83,OAK 31,1,SD,TD
-19,3118,1,02:50,,10,3,5,SD 17,0,SD,PENALTY
-19,3301,0,,,0,3,38,,0,,
-19,3210,1,01:39,,10,3,25,SD 33,0,SD,
-19,3317,2,15:00,,1,4,41,OAK 45,0,SD,
-19,3235,2,01:14,,1,3,25,SD 42,0,SD,
-19,3277,1,00:04,,10,3,38,SD 46,0,SD,
-19,3193,0,01:43,,0,3,16,,0,,Timeout
-19,3151,1,02:42,,10,3,13,SD 22,0,SD,
-19,3338,1,14:19,,10,4,32,OAK 42,0,SD,
-19,3256,3,00:33,,1,3,29,SD 42,0,SD,
-19,3423,0,12:58,,0,4,83,OAK 15,1,SD,XP
-19,3381,1,13:13,,10,4,52,OAK 31,0,SD,
-22,4106,3,05:50,,9,4,10,SD 47,0,OAK,
-22,4151,0,04:58,,0,4,13,,0,,TIMEOUT
-22,4221,0,04:10,,0,4,1,,0,,TIMEOUT
-22,4280,4,03:22,,16,4,4,SD 44,0,OAK,PUNT
-22,4238,3,04:10,,19,4,4,SD 47,0,OAK,
-22,4189,3,04:15,,4,4,4,SD 32,0,OAK,PENALTY
-22,4067,0,05:54,,0,4,1,,0,,TIMEOUT
-22,4130,1,05:04,,10,4,13,SD 38,0,OAK,
-22,4046,1,05:58,,10,4,1,SD 48,0,OAK,
-22,4024,0,06:00,,0,4,0,SD 35,0,SD,KICKOFF
-22,4084,2,05:54,,9,4,1,SD 47,0,OAK,
-22,4168,2,04:58,,7,4,16,SD 35,0,OAK,
-22,4259,0,03:22,,0,4,4,,0,,TIMEOUT
-12,2052,0,01:01,,0,2,63,SD 15,1,OAK,XP
-12,2032,1,01:12,,10,2,63,OAK 48,1,OAK,TD
-12,1994,3,01:19,,3,2,11,OAK 44,0,OAK,
-12,2015,0,01:12,,0,2,11,,0,,Timeout
-12,1948,1,01:42,,10,2,7,OAK 37,0,OAK,
-12,1972,2,01:23,,3,2,11,OAK 44,0,OAK,
-16,2841,4,07:01,,20,3,14,OAK 48,0,OAK,PUNT
-16,2796,2,08:30,,10,3,14,SD 42,0,OAK,
-16,2775,1,09:12,,10,3,24,SD 42,0,OAK,
-16,2749,1,09:42,,10,3,24,OAK 34,0,OAK,
-16,2817,3,07:49,,13,3,14,SD 45,0,OAK,
-7,1155,1,13:02,,10,2,6,SD 16,0,SD,
-7,1133,0,13:06,,0,2,0,OAK 35,0,OAK,KICKOFF
-7,1179,2,12:31,,4,2,6,SD 22,0,SD,INT
-3,199,1,12:46,,10,1,-1,SD 20,0,SD,
-3,269,4,11:25,,6,1,4,SD 24,0,SD,PUNT
-3,247,3,11:29,,6,1,4,SD 24,0,SD,
-3,223,2,12:08,,11,1,4,SD 19,0,SD,
-3,184,0,12:46,,0,1,4,OAK 35,0,OAK,KICKOFF
-17,2881,1,06:26,,10,3,11,SD 26,0,SD,
-17,2903,2,06:19,,10,3,11,SD 26,0,SD,
-17,2924,3,05:41,,10,3,11,SD 26,0,SD,
-17,2860,1,06:54,,10,3,11,SD 15,0,SD,
-17,2946,4,05:36,,10,3,11,SD 26,0,SD,PUNT
-4,564,1,06:47,,10,1,40,SD 17,0,OAK,
-4,294,1,11:11,,10,1,3,OAK 46,0,OAK,
-4,609,3,05:28,,3,1,44,SD 10,0,OAK,
-4,446,0,09:30,,0,1,30,,0,,Timeout
-4,352,2,10:03,,22,1,44,OAK 34,0,OAK,PENALTY
-4,532,2,07:27,,4,1,44,SD 24,0,OAK,
-4,508,1,08:03,,10,1,30,SD 30,0,OAK,
-4,463,3,09:25,,9,1,10,OAK 40,0,OAK,
-4,385,1,10:03,,10,1,44,OAK 39,0,OAK,
-4,407,2,09:56,,10,1,-6,OAK 39,0,OAK,
-4,585,2,06:10,,7,1,44,SD 14,0,OAK,
-4,631,4,05:23,,3,1,44,SD 10,1,OAK,FG
-4,318,2,10:39,,7,1,40,OAK 49,0,OAK,PENALTY
-4,487,1,08:48,,10,1,24,SD 44,0,OAK,
-2,130,1,13:27,,2,1,1,SD 2,0,OAK,
-2,168,0,12:46,,0,1,2,SD 15,1,OAK,XP
-2,151,2,12:51,,1,1,2,SD 1,1,OAK,TD
-15,2664,3,10:01,,5,3,7,SD 38,0,SD,PENALTY
-15,2554,0,10:41,,0,3,0,OAK 35,0,OAK,KICKOFF
-15,2619,2,10:06,,10,3,15,SD 33,0,SD,
-15,2576,1,10:37,,10,3,15,SD 18,0,SD,
-15,2597,1,10:14,,10,3,15,SD 33,0,SD,
-15,2713,4,09:53,,18,3,7,SD 25,0,SD,PUNT
-15,2641,3,10:01,,10,3,20,SD 33,0,SD,PENALTY
+24,4758,0,00:06,J.Lambo kicks onside 11 yards from SD 35 to SD 46. M.Rivera (didn't try to advance) to SD 46 for no gain (J.Phillips).,0,4,0,SD 35,0,SD,KICKOFF
+24,4782,1,00:05,(:05) D.Carr kneels to SD 47 for -1 yards.,10,4,-1,SD 46,0,OAK,
+24,4807,0,00:00,END GAME,0,4,-1,,0,,
+20,3439,0,12:58,J.Lambo kicks onside 12 yards from SD 35 to SD 47. L.Asante (didn't try to advance) to SD 47 for no gain (D.Stuckey).,0,4,0,SD 35,0,SD,KICKOFF
+20,3546,4,11:30,"(11:30) M.King punts 41 yards to end zone, Center-J.Condo, Touchback.",4,4,6,SD 41,0,OAK,PUNT
+20,3503,3,11:34,(11:34) (Shotgun) D.Carr pass incomplete short right to A.Holmes.,4,4,6,SD 41,0,OAK,
+20,3461,1,12:57,(12:57) R.Helu left end to SD 44 for 3 yards (K.Conner).,10,4,3,SD 47,0,OAK,
+20,3482,2,12:16,(12:16) (Shotgun) R.Helu up the middle to SD 41 for 3 yards (M.Ingram).,7,4,6,SD 44,0,OAK,
+20,3525,0,11:30,Timeout #1 by SD at 11:30.,0,4,6,,0,,TIMEOUT
+21,3563,1,11:21,(11:21) (Shotgun) B.Oliver right tackle to SD 23 for 3 yards (D.Williams).,10,4,3,SD 20,0,SD,
+21,3789,2,07:42,"(7:42) (No Huddle, Shotgun) P.Rivers pass incomplete short right to L.Green.",6,4,72,OAK 36,0,SD,
+21,3584,2,10:57,(10:57) (Shotgun) P.Rivers pass short middle to S.Johnson to SD 31 for 8 yards (M.Smith).,7,4,11,SD 23,0,SD,
+21,3765,1,08:11,"(8:11) (Shotgun) P.Rivers pass short right to B.Oliver to OAK 36 for 4 yards (R.Armstrong, B.Mayowa).",10,4,43,OAK 40,0,SD,
+21,3818,3,07:35,"(7:35) (Shotgun) P.Rivers pass short left to S.Johnson to OAK 36 for no gain (D.Hayden). FUMBLES (D.Hayden), and recovers at OAK 37. S.Johnson to OAK 37 for no gain (D.Hayden).",6,4,80,OAK 36,0,SD,FUMBLE
+21,3608,1,10:25,(10:25) (Shotgun) P.Rivers pass short right to B.Oliver pushed ob at SD 45 for 14 yards (D.Hayden).,10,4,43,SD 31,0,SD,
+21,3632,1,10:08,"(10:08) (No Huddle, Shotgun) B.Oliver right end to SD 44 for -1 yards (R.Armstrong).",10,4,43,SD 45,0,SD,
+21,4003,0,06:00,TWO-POINT CONVERSION ATTEMPT. P.Rivers pass to L.Green is complete. ATTEMPT SUCCEEDS.,0,4,80,OAK 2,1,SD,2PS
+21,3918,2,06:40,"(6:40) (No Huddle, Shotgun) B.Oliver right end to OAK 8 for 4 yards (M.Smith).",2,4,80,OAK 12,0,SD,
+21,3854,4,07:06,"(7:06) (Shotgun) P.Rivers pass incomplete deep middle to D.Inman (D.Amerson). PENALTY on OAK-D.Amerson, Defensive Pass Interference, 17 yards, enforced at OAK 37 - No Play. Penalty on OAK-C.Woodson, Defensive Holding, declined.",7,4,80,OAK 37,0,SD,PENALTY
+21,3894,1,06:59,"(6:59) (Shotgun) P.Rivers pass short middle to B.Oliver to OAK 12 for 8 yards (R.Armstrong, C.Woodson).",10,4,80,OAK 20,0,SD,
+21,3961,2,06:09,(6:09) (Shotgun) P.Rivers pass incomplete short right to D.Woodhead.,8,4,80,OAK 8,0,SD,
+21,3939,1,06:14,"(6:14) (No Huddle, Shotgun) P.Rivers pass incomplete short left.",8,4,80,OAK 8,0,SD,
+21,3726,2,08:30,"(8:30) (Shotgun) P.Rivers pass short right to B.Oliver to OAK 25 for 12 yards (D.Amerson, T.Carrie). PENALTY on SD-D.Fluker, Unnecessary Roughness, 15 yards, enforced between downs.",10,4,44,OAK 37,0,SD,PENALTY
+21,3983,3,06:03,"(6:03) (Shotgun) P.Rivers pass short right to D.Woodhead for 8 yards, TOUCHDOWN.",8,4,80,OAK 8,1,SD,TD
+21,3677,3,08:59,"(8:59) (No Huddle, Shotgun) P.Rivers pass short middle to D.Inman to OAK 37 for 17 yards (D.Amerson). SD-O.Franklin was injured during the play.",9,4,43,SD 46,0,SD,
+21,3704,1,08:35,(8:35) (Shotgun) P.Rivers pass incomplete short right to S.Johnson.,10,4,43,OAK 37,0,SD,
+21,3653,2,09:33,"(9:33) (No Huddle, Shotgun) P.Rivers pass short left to B.Oliver to SD 46 for 2 yards (B.Mayowa).",11,4,43,SD 44,0,SD,
+22,4189,3,04:15,"(4:15) L.Murray left guard to SD 32 for no gain (K.Conner, R.Carrethers). PENALTY on OAK-D.Penn, Unnecessary Roughness, 15 yards, enforced at SD 32 - No Play. Penalty on OAK-D.Penn, Offensive Holding, declined.",4,4,4,SD 32,0,OAK,PENALTY
+22,4259,0,03:22,Timeout #2 by OAK at 03:22.,0,4,4,,0,,TIMEOUT
+22,4046,1,05:58,(5:58) L.Murray left end to SD 47 for 1 yard (J.Addae).,10,4,1,SD 48,0,OAK,
+22,4151,0,04:58,Timeout #3 by SD at 04:58.,0,4,13,,0,,TIMEOUT
+22,4084,2,05:54,(5:54) (Shotgun) D.Carr pass incomplete short left to A.Cooper.,9,4,1,SD 47,0,OAK,
+22,4067,0,05:54,Timeout #2 by SD at 05:54.,0,4,1,,0,,TIMEOUT
+22,4130,1,05:04,(5:04) L.Murray up the middle to SD 35 for 3 yards (C.Liuget).,10,4,13,SD 38,0,OAK,
+22,4238,3,04:10,(4:10) L.Murray left tackle to SD 44 for 3 yards (J.Attaochu).,19,4,4,SD 47,0,OAK,
+22,4280,4,03:22,"(3:22) M.King punts 44 yards to end zone, Center-J.Condo, Touchback.",16,4,4,SD 44,0,OAK,PUNT
+22,4168,2,04:58,"(4:58) L.Murray left tackle to SD 32 for 3 yards (R.Carrethers, N.Dzubnar).",7,4,16,SD 35,0,OAK,
+22,4024,0,06:00,J.Lambo kicks onside 12 yards from SD 35 to SD 47. M.Rivera (didn't try to advance) ran ob at SD 48 for -1 yards.,0,4,0,SD 35,0,SD,KICKOFF
+22,4106,3,05:50,(5:50) (Shotgun) D.Carr pass short right to M.Crabtree to SD 38 for 9 yards (B.Flowers).,9,4,10,SD 47,0,OAK,
+22,4221,0,04:10,Timeout #1 by OAK at 04:10.,0,4,1,,0,,TIMEOUT
+23,4690,2,00:10,"(:10) (No Huddle) PENALTY on OAK, Defensive 12 On-field, 4 yards, enforced at OAK 10 - No Play.",9,4,80,OAK 10,0,SD,PENALTY
+23,4655,1,00:32,(:32) (Shotgun) P.Rivers pass short left to D.Woodhead to OAK 10 for 11 yards (T.Carrie).,20,4,70,OAK 21,0,SD,
+23,4367,1,02:25,"(2:25) (No Huddle, Shotgun) P.Rivers pass short right to D.Woodhead ran ob at SD 43 for 1 yard (D.Amerson).",10,4,47,SD 42,0,SD,
+23,4544,1,01:09,"(1:09) (No Huddle, Shotgun) P.Rivers pass short left to D.Woodhead pushed ob at OAK 19 for 3 yards (D.Hayden).",10,4,74,OAK 22,0,SD,
+23,4321,2,02:50,"(2:50) (No Huddle, Shotgun) P.Rivers pass incomplete short left to K.Allen.",3,4,36,SD 27,0,SD,
+23,4391,2,02:19,(2:19) (Shotgun) P.Rivers pass short left to K.Allen to 50 for 7 yards (M.Smith).,9,4,30,SD 43,0,SD,
+23,4297,1,03:13,"(3:13) (Shotgun) P.Rivers pass short right to D.Woodhead to SD 27 for 7 yards (M.Smith, A.Smith).",10,4,7,SD 20,0,SD,
+23,4713,2,00:10,"(:10) (Shotgun) P.Rivers pass short left to D.Woodhead for 6 yards, TOUCHDOWN.",5,4,80,OAK 6,1,SD,TD
+23,4520,2,01:31,(1:31) (Shotgun) P.Rivers pass short right to D.Woodhead to OAK 22 for 11 yards (C.Woodson).,10,4,58,OAK 33,0,SD,
+23,4453,1,01:57,(1:57) (Shotgun) P.Rivers pass short left to D.Woodhead to OAK 33 for 11 yards (S.Harris).,10,4,47,OAK 44,0,SD,
+23,4625,1,00:37,"(:37) (No Huddle, Shotgun) P.Rivers pass short left to K.Allen for 11 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on SD-K.Allen, Offensive Pass Interference, 10 yards, enforced at OAK 11 - No Play.",10,4,80,OAK 11,0,SD,PENALTY
+23,4436,0,01:57,Two-Minute Warning,0,4,36,,0,,
+23,4733,0,00:06,TWO-POINT CONVERSION ATTEMPT. P.Rivers pass to L.Green is complete. ATTEMPT SUCCEEDS.,0,4,80,OAK 2,1,SD,2PS
+23,4499,0,01:31,Timeout #4 by SD at 01:31.,0,4,47,,0,,TIMEOUT
+23,4568,2,01:05,"(1:05) (Shotgun) P.Rivers pass incomplete deep right. PENALTY on SD-T.Robinson, Offensive Holding, 10 yards, enforced at OAK 19 - No Play.",7,4,51,OAK 19,0,SD,PENALTY
+23,4343,3,02:47,(2:47) (Shotgun) P.Rivers pass short left to K.Allen to SD 42 for 15 yards (R.Armstrong).,3,4,22,SD 27,0,SD,
+23,4415,3,02:02,"(2:02) (No Huddle, Shotgun) D.Woodhead right guard to OAK 44 for 6 yards (R.Armstrong).",2,4,58,50,0,SD,
+23,4477,1,01:37,"(1:37) (No Huddle, Shotgun) P.Rivers pass incomplete short right to L.Green [A.Smith]. SD-J.Barksdale was injured during the play.",10,4,51,OAK 33,0,SD,
+23,4601,2,00:56,(:56) (Shotgun) P.Rivers pass deep middle to K.Allen to OAK 11 for 18 yards (C.Lofton).,17,4,69,OAK 29,0,SD,
+1,82,2,14:19,"(14:19) B.Oliver right tackle to SD 19 for 1 yard (K.Mack, S.McGee).",3,1,8,SD 18,0,SD,
+1,103,3,13:40,(13:40) (Shotgun) P.Rivers pass short middle intended for S.Johnson INTERCEPTED by M.Smith (T.Carrie) at SD 29. M.Smith to SD 2 for 27 yards (K.Dunlap).,2,1,8,SD 19,0,SD,INT
+1,36,0,15:00,S.Janikowski kicks 74 yards from OAK 35 to SD -9. J.Jones to SD 11 for 20 yards (J.Olawale).,0,1,0,OAK 35,0,OAK,KICKOFF
+1,58,1,14:56,(14:56) (Shotgun) P.Rivers pass short right to M.Floyd to SD 18 for 7 yards (D.Hayden).,10,1,7,SD 11,0,SD,
+3,223,2,12:08,(12:08) (Shotgun) P.Rivers pass short left to L.Green to SD 24 for 5 yards (M.Smith).,11,1,4,SD 19,0,SD,
+3,247,3,11:29,(11:29) (Shotgun) P.Rivers pass incomplete short left to S.Johnson.,6,1,4,SD 24,0,SD,
+3,199,1,12:46,(12:46) P.Rivers pass short left to B.Oliver to SD 19 for -1 yards (C.Lofton).,10,1,-1,SD 20,0,SD,
+3,269,4,11:25,"(11:25) M.Scifres punts 42 yards to OAK 34, Center-M.Windt. T.Carrie to OAK 46 for 12 yards (N.Dzubnar).",6,1,4,SD 24,0,SD,PUNT
+3,184,0,12:46,"S.Janikowski kicks 65 yards from OAK 35 to end zone, Touchback.",0,1,4,OAK 35,0,OAK,KICKOFF
+2,151,2,12:51,"(12:51) L.Murray left guard for 1 yard, TOUCHDOWN.",1,1,2,SD 1,1,OAK,TD
+2,130,1,13:27,(13:27) L.Murray left tackle to SD 1 for 1 yard (K.Conner).,2,1,1,SD 2,0,OAK,
+2,168,0,12:46,"S.Janikowski extra point is GOOD, Center-J.Condo, Holder-M.King.",0,1,2,SD 15,1,OAK,XP
+5,768,1,04:00,"(4:00) (Shotgun) P.Rivers pass short right to D.Inman to OAK 47 for 9 yards (D.Hayden) [M.Edwards]. PENALTY on OAK-M.Edwards, Unnecessary Roughness, 15 yards, enforced at OAK 47.",10,1,53,SD 44,0,SD,PENALTY
+5,887,3,02:03,"(2:03) (Shotgun) P.Rivers pass short left to D.Woodhead to OAK 23 for 4 yards (N.Thorpe, N.Ball).",5,1,57,OAK 27,0,SD,
+5,665,1,05:21,(5:21) (Shotgun) P.Rivers pass incomplete short left to B.Oliver [M.Smith].,10,1,14,SD 20,0,SD,
+5,859,2,02:45,(2:45) (Shotgun) P.Rivers pass short middle to K.Allen to OAK 27 for 11 yards (D.Hayden). SD-O.Franklin was injured during the play.,16,1,53,OAK 38,0,SD,
+5,711,3,04:38,(4:38) (Shotgun) P.Rivers pass short middle to J.Phillips to SD 34 for 5 yards (M.Smith).,1,1,14,SD 29,0,SD,
+5,928,4,01:21,"(1:21) J.Lambo 40 yard field goal is GOOD, Center-M.Windt, Holder-M.Scifres.",1,1,57,OAK 23,1,SD,FG
+5,735,1,04:05,"(4:05) (Shotgun) P.Rivers pass incomplete short right to S.Johnson [A.Smith]. PENALTY on OAK-A.Smith, Tripping, 10 yards, enforced at SD 34 - No Play.",10,1,57,SD 34,0,SD,PENALTY
+5,650,0,05:21,"S.Janikowski kicks 65 yards from OAK 35 to end zone, Touchback.",0,1,9,OAK 35,0,OAK,KICKOFF
+5,803,1,03:48,(3:48) (Shotgun) D.Woodhead right end to OAK 28 for 4 yards (M.Smith).,10,1,53,OAK 32,0,SD,
+5,824,2,03:11,"(3:11) (Shotgun) P.Rivers pass short right to K.Allen to OAK 20 for 8 yards (T.Carrie). PENALTY on SD-D.Fluker, Offensive Holding, 10 yards, enforced at OAK 28 - No Play.",6,1,53,OAK 28,0,SD,PENALTY
+5,687,2,05:16,"(5:16) (Shotgun) P.Rivers pass short left to K.Allen to SD 29 for 9 yards (M.Smith, T.Carrie).",10,1,9,SD 20,0,SD,
+5,911,0,01:21,Timeout #1 by SD at 01:21.,0,1,57,,0,,TIMEOUT
+4,631,4,05:23,"(5:23) S.Janikowski 29 yard field goal is GOOD, Center-J.Condo, Holder-M.King.",3,1,44,SD 10,1,OAK,FG
+4,318,2,10:39,"(10:39) L.Murray right end to OAK 49 for no gain (D.Butler). PENALTY on OAK-A.Howard, Face Mask (15 Yards), 15 yards, enforced at OAK 49 - No Play.",7,1,40,OAK 49,0,OAK,PENALTY
+4,609,3,05:28,(5:28) (Shotgun) D.Carr pass incomplete short right to M.Crabtree (B.Flowers).,3,1,44,SD 10,0,OAK,
+4,564,1,06:47,"(6:47) J.Olawale up the middle to SD 14 for 3 yards (R.Carrethers, J.Addae).",10,1,40,SD 17,0,OAK,
+4,446,0,09:30,Timeout at 09:30.,0,1,30,,0,,Timeout
+4,463,3,09:25,"(9:25) (Shotgun) D.Carr pass short left to T.Jones to SD 44 for 16 yards (D.Butler, A.Phillips).",9,1,10,OAK 40,0,OAK,
+4,532,2,07:27,(7:27) (Shotgun) D.Carr pass short right to M.Crabtree to SD 17 for 7 yards (D.Perryman).,4,1,44,SD 24,0,OAK,
+4,407,2,09:56,(9:56) (Shotgun) D.Carr pass short left to L.Murray pushed ob at OAK 40 for 1 yard (D.Butler).,10,1,-6,OAK 39,0,OAK,
+4,585,2,06:10,"(6:10) D.Carr pass short right to M.Rivera to SD 10 for 4 yards (J.Wilson, D.Butler).",7,1,44,SD 14,0,OAK,
+4,352,2,10:03,"(10:03) (Shotgun) D.Carr pass incomplete short left to A.Cooper (J.Verrett). PENALTY on SD-B.Flowers, Illegal Use of Hands, 5 yards, enforced at OAK 34 - No Play.",22,1,44,OAK 34,0,OAK,PENALTY
+4,508,1,08:03,(8:03) (Shotgun) D.Carr pass short left to M.Crabtree to SD 24 for 6 yards (B.Flowers).,10,1,30,SD 30,0,OAK,
+4,487,1,08:48,(8:48) L.Murray right end to SD 30 for 14 yards (D.Perryman).,10,1,24,SD 44,0,OAK,
+4,294,1,11:11,(11:11) (Shotgun) D.Carr pass short left to M.Reece to OAK 49 for 3 yards (D.Perryman).,10,1,3,OAK 46,0,OAK,
+4,385,1,10:03,(10:03) D.Carr pass incomplete deep right to M.Crabtree.,10,1,44,OAK 39,0,OAK,
+7,1133,0,13:06,S.Janikowski kicks 70 yards from OAK 35 to SD -5. J.Jones to SD 16 for 21 yards (L.Asante).,0,2,0,OAK 35,0,OAK,KICKOFF
+7,1155,1,13:02,(13:02) (Shotgun) P.Rivers pass short right to K.Allen to SD 22 for 6 yards (N.Ball).,10,2,6,SD 16,0,SD,
+7,1179,2,12:31,(12:31) (Shotgun) P.Rivers pass short right intended for K.Allen INTERCEPTED by D.Hayden at SD 32. D.Hayden to SD 31 for 1 yard (K.Allen).,4,2,6,SD 22,0,SD,INT
+6,1027,1,15:00,(15:00) (Shotgun) T.Jones right end to SD 45 for 13 yards (R.Mathews).,10,2,32,OAK 42,0,OAK,
+6,990,2,00:27,(:27) (Shotgun) L.Murray right end to OAK 42 for 17 yards (C.Liuget).,8,1,19,OAK 25,0,OAK,
+6,947,0,01:18,"J.Lambo kicks 74 yards from SD 35 to OAK -9. T.Jones to OAK 23 for 32 yards (C.Law, N.Dzubnar).",0,1,0,SD 35,0,SD,KICKOFF
+6,1048,1,14:24,(14:24) (Shotgun) D.Carr pass short middle to A.Cooper to SD 30 for 15 yards (D.Butler).,10,2,47,SD 45,0,OAK,
+6,1072,1,13:49,(13:49) (Shotgun) D.Carr pass short right to M.Crabtree to SD 23 for 7 yards (J.Wilson).,10,2,54,SD 30,0,OAK,
+6,969,1,01:12,(1:12) L.Murray right end to OAK 25 for 2 yards (C.Liuget).,10,1,2,OAK 23,0,OAK,
+6,1096,2,13:11,"(13:11) (Shotgun) D.Carr pass deep right to C.Walford for 23 yards, TOUCHDOWN.",3,2,77,SD 23,1,OAK,TD
+6,1116,0,13:06,"S.Janikowski extra point is GOOD, Center-J.Condo, Holder-M.King.",0,2,77,SD 15,1,OAK,XP
+6,1011,0,,END QUARTER 1,0,1,19,,0,,
+9,1447,2,08:53,(8:53) (Shotgun) P.Rivers pass short right to L.Green to SD 15 for 2 yards (M.Smith).,5,2,7,SD 13,0,SD,
+9,1385,0,09:28,"S.Janikowski kicks 70 yards from OAK 35 to SD -5. J.Jones ran ob at SD 47 for 52 yards (N.Thorpe). PENALTY on SD-N.Dzubnar, Offensive Holding, 8 yards, enforced at SD 16. Penalty on SD-L.Green, Offensive Holding, declined.",0,2,7,OAK 35,0,OAK,KICKOFF
+9,1423,1,09:20,(9:20) (Shotgun) P.Rivers pass short right to K.Allen to SD 13 for 5 yards (D.Hayden).,10,2,7,SD 8,0,SD,
+9,1471,3,08:13,(8:13) (Shotgun) P.Rivers pass incomplete short right to K.Allen.,3,2,7,SD 15,0,SD,
+9,1493,4,08:09,"(8:09) M.Scifres punts 43 yards to OAK 42, Center-M.Windt. T.Carrie to SD 47 for 11 yards (N.Dzubnar).",3,2,7,SD 15,0,SD,PUNT
+8,1227,2,12:22,"(12:22) PENALTY on SD-M.Ingram, Neutral Zone Infraction, 5 yards, enforced at SD 31 - No Play.",10,2,5,SD 31,0,OAK,PENALTY
+8,1205,1,12:25,(12:25) (Shotgun) D.Carr pass incomplete short left to T.Jones.,10,2,0,SD 31,0,OAK,
+8,1342,3,10:10,(10:10) (Shotgun) D.Carr pass short right to T.Jones to SD 14 for 1 yard (J.Addae).,5,2,17,SD 15,0,OAK,
+8,1274,1,11:48,"(11:48) L.Murray up the middle to SD 19 for 1 yard (J.Addae, K.Emanuel).",10,2,12,SD 20,0,OAK,
+8,1318,2,10:53,(10:53) (Shotgun) D.Carr pass short right to M.Crabtree to SD 15 for 9 yards (P.Robinson).,14,2,16,SD 24,0,OAK,
+8,1366,4,09:31,"(9:31) S.Janikowski 32 yard field goal is GOOD, Center-J.Condo, Holder-M.King.",4,2,17,SD 14,1,OAK,FG
+8,1250,2,12:22,(12:22) (Shotgun) D.Carr pass short right to A.Cooper pushed ob at SD 20 for 6 yards (D.Butler).,5,2,11,SD 26,0,OAK,
+8,1295,2,11:16,"(11:16) PENALTY on OAK, Offensive 12 On-field, 5 yards, enforced at SD 19 - No Play.",9,2,16,SD 19,0,OAK,PENALTY
+11,1800,1,03:08,(3:08) (Shotgun) P.Rivers pass incomplete short right to L.Green.,10,2,11,SD 31,0,SD,
+11,1843,3,02:22,"(2:22) (Shotgun) P.Rivers pass short left to L.Green to SD 43 for 10 yards (M.Smith). PENALTY on SD-O.Franklin, Offensive Holding, 10 yards, enforced at SD 33 - No Play.",8,2,3,SD 33,0,SD,PENALTY
+11,1722,0,04:41,"S.Janikowski kicks 65 yards from OAK 35 to end zone, Touchback.",0,2,0,OAK 35,0,OAK,KICKOFF
+11,1779,3,03:46,"(3:46) B.Oliver up the middle to SD 31 for 2 yards (S.McGee, A.Smith).",1,2,11,SD 29,0,SD,
+11,1737,1,04:41,(4:41) B.Oliver right end to SD 24 for 4 yards (S.McGee).,10,2,4,SD 20,0,SD,
+11,1822,2,03:03,(3:03) B.Oliver left end to SD 33 for 2 yards (S.McGee).,10,2,13,SD 31,0,SD,
+11,1923,4,01:53,"(1:53) M.Scifres punts 39 yards to OAK 33, Center-M.Windt. T.Carrie to OAK 37 for 4 yards (D.Stuckey, K.Emanuel).",13,2,8,SD 28,0,SD,PUNT
+11,1758,2,04:15,(4:15) B.Oliver left tackle to SD 29 for 5 yards (C.Wilson).,6,2,9,SD 24,0,SD,
+11,1906,0,01:53,Two-Minute Warning,0,2,8,,0,,
+11,1878,3,02:01,(2:01) (Shotgun) D.Woodhead left end to SD 28 for 5 yards (K.Mack).,18,2,8,SD 23,0,SD,
+10,1703,4,04:43,"(4:43) S.Janikowski 31 yard field goal is GOOD, Center-J.Condo, Holder-M.King.",13,2,34,SD 13,1,OAK,FG
+10,1634,2,05:28,(5:28) (Shotgun) D.Carr pass incomplete deep left to M.Rivera.,16,2,31,SD 16,0,OAK,
+10,1582,1,05:51,"(5:51) D.Carr pass short middle to M.Reece to SD 1 for 6 yards (C.Liuget, M.Ingram). PENALTY on OAK-D.Penn, Unnecessary Roughness, 15 yards, enforced at SD 1.",7,2,31,SD 7,0,OAK,PENALTY
+10,1558,3,06:40,(6:40) (Shotgun) D.Carr pass deep right to A.Cooper to SD 7 for 44 yards (J.Wilson).,14,2,40,OAK 49,0,OAK,
+10,1537,2,07:18,(7:18) L.Murray right tackle to OAK 49 for 3 yards (C.Liuget).,17,2,-4,OAK 46,0,OAK,
+10,1518,1,07:58,(7:58) D.Carr sacked at OAK 46 for -7 yards (B.Flowers).,10,2,-7,SD 47,0,OAK,
+10,1617,0,05:28,Timeout #1 by OAK at 05:28.,0,2,31,,0,,TIMEOUT
+10,1656,3,05:23,"(5:23) (Shotgun) PENALTY on OAK-A.Howard, False Start, 5 yards, enforced at SD 16 - No Play.",16,2,26,SD 16,0,OAK,PENALTY
+10,1679,3,05:23,(5:23) (Shotgun) D.Carr pass short left to L.Smith to SD 13 for 8 yards (M.Ingram).,21,2,34,SD 21,0,OAK,
+13,2202,0,00:24,Timeout #2 by SD at 00:24.,0,2,25,,0,,TIMEOUT
+13,2135,1,00:40,(:40) (Shotgun) P.Rivers pass short left to D.Woodhead to SD 40 for 8 yards (N.Thorpe).,10,2,20,SD 32,0,SD,
+13,2303,3,00:02,"(:02) J.Lambo 44 yard field goal is GOOD, Center-M.Windt, Holder-M.Scifres.",4,2,54,OAK 26,1,SD,FG
+13,2219,1,00:24,(:24) (Shotgun) P.Rivers pass deep left to S.Johnson pushed ob at OAK 32 for 23 yards (N.Thorpe).,10,2,48,SD 45,0,SD,
+13,2087,1,01:00,(1:00) (Shotgun) P.Rivers pass short left to D.Woodhead to SD 25 for 5 yards (R.Armstrong).,10,2,12,SD 20,0,SD,
+13,2286,0,00:02,Timeout #3 by SD at 00:02.,0,2,54,,0,,TIMEOUT
+13,2068,0,01:01,"S.Janikowski kicks 65 yards from OAK 35 to end zone, Touchback.",0,2,0,OAK 35,0,OAK,KICKOFF
+13,2181,3,00:28,(:28) (Shotgun) D.Woodhead right guard to SD 45 for 5 yards (A.Smith).,2,2,25,SD 40,0,SD,
+13,2111,2,00:43,"(:43) (No Huddle, Shotgun) P.Rivers pass short left to L.Green ran ob at SD 32 for 7 yards (C.Woodson).",5,2,20,SD 25,0,SD,
+13,2265,2,00:11,(:11) (Shotgun) D.Woodhead up the middle to OAK 26 for 6 yards (M.Smith).,10,2,54,OAK 32,0,SD,
+13,2159,2,00:34,(:34) (Shotgun) P.Rivers pass incomplete short right to K.Allen (D.Amerson).,2,2,25,SD 40,0,SD,
+13,2243,1,00:17,(:17) (Shotgun) P.Rivers pass incomplete deep left to M.Floyd.,10,2,48,OAK 32,0,SD,
+12,1948,1,01:42,(1:42) (Shotgun) D.Carr pass short right to M.Rivera to OAK 44 for 7 yards (J.Addae).,10,2,7,OAK 37,0,OAK,
+12,2052,0,01:01,"S.Janikowski extra point is GOOD, Center-J.Condo, Holder-M.King.",0,2,63,SD 15,1,OAK,XP
+12,1994,3,01:19,"(1:19) (Shotgun) D.Carr scrambles right end ran ob at OAK 48 for 4 yards (K.Conner, P.Robinson).",3,2,11,OAK 44,0,OAK,
+12,1972,2,01:23,"(1:23) (No Huddle, Shotgun) D.Carr pass incomplete short left to S.Roberts.",3,2,11,OAK 44,0,OAK,
+12,2032,1,01:12,"(1:12) (Shotgun) D.Carr pass short left to A.Cooper for 52 yards, TOUCHDOWN.",10,2,63,OAK 48,1,OAK,TD
+12,2015,0,01:12,Timeout at 01:12.,0,2,11,,0,,Timeout
+15,2713,4,09:53,"(9:53) M.Scifres punts 46 yards to OAK 29, Center-M.Windt. T.Carrie to OAK 34 for 5 yards (K.Conner).",18,3,7,SD 25,0,SD,PUNT
+15,2597,1,10:14,(10:14) P.Rivers pass incomplete.,10,3,15,SD 33,0,SD,
+15,2554,0,10:41,S.Janikowski kicks 69 yards from OAK 35 to SD -4. J.Jones to SD 18 for 22 yards (B.Heeney).,0,3,0,OAK 35,0,OAK,KICKOFF
+15,2576,1,10:37,(10:37) B.Oliver right end to SD 33 for 15 yards (D.Hayden).,10,3,15,SD 18,0,SD,
+15,2641,3,10:01,"(10:01) (Shotgun) PENALTY on OAK-A.Smith, Defensive Offside, 5 yards, enforced at SD 33 - No Play.",10,3,20,SD 33,0,SD,PENALTY
+15,2619,2,10:06,(10:06) (Shotgun) P.Rivers pass incomplete short left to L.Green (M.Edwards).,10,3,15,SD 33,0,SD,
+15,2664,3,10:01,"(10:01) (Shotgun) P.Rivers pass incomplete. PENALTY on SD-P.Rivers, Intentional Grounding, 13 yards, enforced at SD 38.",5,3,7,SD 38,0,SD,PENALTY
+14,2473,2,12:17,(12:17) T.Jones right end to SD 44 for 19 yards (R.Mathews).,4,3,36,OAK 37,0,OAK,
+14,2336,0,15:00,"J.Lambo kicks 65 yards from SD 35 to end zone, Touchback.",0,3,0,SD 35,0,SD,KICKOFF
+14,2449,1,12:39,(12:39) (Shotgun) D.Carr pass deep left to A.Cooper pushed ob at OAK 37 for 16 yards (J.Verrett).,20,3,17,OAK 21,0,OAK,
+14,2494,1,11:30,"(11:30) (Shotgun) D.Carr pass deep right to C.Walford to SD 25 for 19 yards (D.Butler, A.Phillips).",10,3,80,SD 44,0,OAK,
+14,2538,0,10:41,"S.Janikowski extra point is GOOD, Center-J.Condo, Holder-M.King.",0,3,80,SD 15,1,OAK,XP
+14,2518,1,10:49,"(10:49) (Shotgun) D.Carr pass short left to M.Crabtree for 25 yards, TOUCHDOWN.",10,3,80,SD 25,1,OAK,TD
+14,2414,1,13:08,"(13:08) (Shotgun) D.Carr pass short middle to S.Roberts to OAK 45 for 14 yards (A.Phillips, P.Robinson). PENALTY on OAK-S.Roberts, Offensive Pass Interference, 10 yards, enforced at OAK 31 - No Play.",10,3,36,OAK 31,0,OAK,PENALTY
+14,2351,1,15:00,(15:00) L.Murray up the middle to OAK 22 for 2 yards (R.Carrethers).,10,3,2,OAK 20,0,OAK,
+14,2372,2,14:24,(14:24) L.Murray right tackle to OAK 28 for 6 yards (J.Addae).,8,3,8,OAK 22,0,OAK,
+14,2393,3,13:47,(13:47) T.Jones left end to OAK 31 for 3 yards (M.Ingram).,2,3,11,OAK 28,0,OAK,
+17,2860,1,06:54,"(6:54) (Shotgun) M.Gordon left end to SD 26 for 11 yards (S.Harris, D.Amerson).",10,3,11,SD 15,0,SD,
+17,2903,2,06:19,(6:19) (Shotgun) M.Gordon left end to SD 26 for no gain (D.Williams).,10,3,11,SD 26,0,SD,
+17,2881,1,06:26,(6:26) (Shotgun) P.Rivers pass incomplete short middle to S.Johnson.,10,3,11,SD 26,0,SD,
+17,2924,3,05:41,(5:41) (Shotgun) P.Rivers pass incomplete short right to L.Green (M.Smith).,10,3,11,SD 26,0,SD,
+17,2946,4,05:36,"(5:36) M.Scifres punts 41 yards to OAK 33, Center-M.Windt. T.Carrie to SD 49 for 18 yards (K.Emanuel).",10,3,11,SD 26,0,SD,PUNT
+16,2749,1,09:42,(9:42) L.Murray left end pushed ob at SD 42 for 24 yards (A.Phillips).,10,3,24,OAK 34,0,OAK,
+16,2817,3,07:49,(7:49) (Shotgun) D.Carr pass short middle to L.Smith to OAK 48 for -7 yards (K.Reyes).,13,3,14,SD 45,0,OAK,
+16,2796,2,08:30,(8:30) R.Helu left tackle to SD 45 for -3 yards (K.Conner).,10,3,14,SD 42,0,OAK,
+16,2775,1,09:12,"(9:12) R.Helu right end to SD 42 for no gain (N.Dzubnar, C.Law).",10,3,24,SD 42,0,OAK,
+16,2841,4,07:01,"(7:01) M.King punts 37 yards to SD 15, Center-J.Condo, downed by OAK-T.Jones.",20,3,14,OAK 48,0,OAK,PUNT
+19,3338,1,14:19,(14:19) (Shotgun) P.Rivers sacked at SD 49 for -9 yards (M.Smith).,10,4,32,OAK 42,0,SD,
+19,3210,1,01:39,(1:39) P.Rivers pass short right to K.Allen to SD 42 for 9 yards (D.Hayden).,10,3,25,SD 33,0,SD,
+19,3235,2,01:14,(1:14) M.Gordon right end to SD 42 for no gain (M.Edwards).,1,3,25,SD 42,0,SD,
+19,3423,0,12:58,"J.Lambo extra point is GOOD, Center-M.Windt, Holder-M.Scifres.",0,4,83,OAK 15,1,SD,XP
+19,3118,1,02:50,"(2:50) P.Rivers pass incomplete deep middle to M.Floyd. PENALTY on OAK-D.Hayden, Illegal Contact, 5 yards, enforced at SD 17 - No Play.",10,3,5,SD 17,0,SD,PENALTY
+19,3403,2,13:07,"(13:07) (Shotgun) P.Rivers pass short right to L.Green for 31 yards, TOUCHDOWN.",10,4,83,OAK 31,1,SD,TD
+19,3357,2,13:41,(13:41) (Shotgun) P.Rivers pass deep left to S.Johnson to OAK 31 for 20 yards (D.Amerson).,19,4,52,SD 49,0,SD,
+19,3256,3,00:33,(:33) M.Gordon up the middle to SD 46 for 4 yards (D.Williams).,1,3,29,SD 42,0,SD,
+19,3277,1,00:04,(:04) (Shotgun) P.Rivers pass short left to K.Allen to OAK 45 for 9 yards (D.Amerson).,10,3,38,SD 46,0,SD,
+19,3151,1,02:42,(2:42) M.Gordon right end to SD 30 for 8 yards (M.Edwards).,10,3,13,SD 22,0,SD,
+19,3193,0,01:43,Timeout at 01:43.,0,3,16,,0,,Timeout
+19,3172,2,02:16,(2:16) M.Gordon up the middle to SD 33 for 3 yards (C.Lofton).,2,3,16,SD 30,0,SD,
+19,3381,1,13:13,(13:13) (Shotgun) P.Rivers pass incomplete deep right to M.Floyd (C.Woodson).,10,4,52,OAK 31,0,SD,
+19,3317,2,15:00,"(15:00) (Shotgun) M.Gordon right tackle to OAK 42 for 3 yards (D.Williams, S.Harris).",1,4,41,OAK 45,0,SD,
+19,3301,0,,END QUARTER 3,0,3,38,,0,,
+18,2971,1,05:24,(5:24) (Shotgun) D.Carr pass short right to M.Reece pushed ob at SD 43 for 6 yards (B.Flowers).,10,3,6,SD 49,0,OAK,
+18,3027,2,04:32,(4:32) (Shotgun) D.Carr pass short left to S.Roberts to SD 43 for 6 yards (P.Robinson).,10,3,2,SD 49,0,OAK,
+18,2995,2,05:00,"(5:00) (Shotgun) L.Murray right end to SD 33 for 10 yards (R.Mathews). PENALTY on OAK-S.Roberts, Offensive Holding, 10 yards, enforced at SD 39.",4,3,7,SD 43,0,OAK,PENALTY
+18,3072,4,03:14,"(3:14) (Punt formation) PENALTY on OAK-M.King, Delay of Game, 5 yards, enforced at SD 42 - No Play.",3,3,2,SD 42,0,OAK,PENALTY
+18,3099,4,02:59,"(2:59) M.King punts 30 yards to SD 17, Center-J.Condo, fair catch by J.Jones.",8,3,2,SD 47,0,OAK,PUNT
+18,3051,3,04:00,(4:00) J.Olawale up the middle to SD 42 for 1 yard (C.Liuget).,4,3,7,SD 43,0,OAK,

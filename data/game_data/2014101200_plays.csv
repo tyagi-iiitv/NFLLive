@@ -1,174 +1,174 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1860,0,00:14,,0,2,83,,0,,TIMEOUT
-9,1620,1,03:35,,10,2,32,CHI 33,0,CHI,
-9,1832,1,00:20,,10,2,83,ATL 18,0,CHI,
-9,1670,1,02:12,,10,2,43,CHI 46,0,CHI,
-9,1708,2,02:00,,6,2,42,50,0,CHI,
-9,1727,3,01:18,,7,2,57,CHI 49,0,CHI,
-9,1921,4,00:06,,2,2,83,ATL 10,1,CHI,FG
-9,1646,2,02:50,,4,2,39,CHI 39,0,CHI,
-9,1691,0,02:00,,0,2,43,,0,,
-9,1877,2,00:14,,2,2,83,ATL 10,0,CHI,
-9,1589,1,04:06,,10,2,26,CHI 7,0,CHI,
-9,1792,2,00:28,,1,2,75,ATL 27,0,CHI,
-9,1815,0,00:20,,0,2,75,,0,,TIMEOUT
-9,1899,3,00:10,,2,2,83,ATL 10,0,CHI,
-9,1775,0,00:28,,0,2,66,,0,,TIMEOUT
-9,1751,1,00:34,,10,2,66,ATL 36,0,CHI,
-10,1963,1,00:01,,10,2,-1,ATL 41,0,ATL,
-10,1940,0,00:02,,0,2,0,CHI 35,0,CHI,KICKOFF
-10,1984,0,,,0,2,-1,,0,,
-20,3784,4,02:44,,8,4,2,CHI 47,0,CHI,PUNT
-20,3725,2,02:53,,2,4,9,ATL 47,0,CHI,
-20,3746,0,02:49,,0,4,9,,0,,TIMEOUT
-20,3704,1,03:37,,10,4,8,CHI 45,0,CHI,
-20,3763,3,02:49,,1,4,2,ATL 46,0,CHI,
-6,1097,1,12:07,,10,2,44,CHI 39,0,ATL,
-6,1140,3,11:31,,7,2,36,CHI 36,0,ATL,
-6,1073,1,12:50,,10,2,41,ATL 38,0,ATL,
-6,1021,2,14:10,,5,2,8,ATL 25,0,ATL,
-6,1042,3,13:33,,2,2,18,ATL 28,0,ATL,
-6,982,0,14:47,,0,2,0,CHI 35,0,CHI,KICKOFF
-6,997,1,14:47,,10,2,5,ATL 20,0,ATL,
-6,1118,2,11:36,,7,2,44,CHI 36,0,ATL,
-6,1159,4,10:45,,15,2,36,CHI 44,0,ATL,PUNT
-18,3483,2,08:11,,5,4,20,CHI 40,0,CHI,
-18,3461,1,08:56,,10,4,5,CHI 35,0,CHI,
-18,3509,1,07:28,,10,4,21,ATL 45,0,CHI,
-18,3572,4,05:27,,5,4,25,ATL 40,0,CHI,PUNT
-18,3530,2,06:45,,9,4,20,ATL 44,0,CHI,
-18,3551,3,06:04,,10,4,25,ATL 45,0,CHI,
-1,102,1,14:10,,10,1,15,CHI 35,0,CHI,
-1,124,2,14:05,,10,1,17,CHI 35,0,CHI,
-1,172,4,13:16,,8,1,17,CHI 37,0,CHI,PUNT
-1,150,3,13:22,,8,1,17,CHI 37,0,CHI,
-1,78,1,15:00,,15,1,15,CHI 15,0,CHI,
-1,36,0,15:00,,0,1,0,ATL 35,0,ATL,KICKOFF
-1,55,1,15:00,,10,1,-5,CHI 20,0,CHI,PENALTY
-5,963,4,14:51,,3,2,54,ATL 7,1,CHI,FG
-5,919,2,15:00,,3,2,54,ATL 7,0,CHI,
-5,734,2,02:10,,11,1,15,CHI 38,0,CHI,
-5,903,0,,,0,1,54,,0,,
-5,808,2,00:12,,6,1,33,ATL 28,0,CHI,
-5,758,1,01:27,,10,1,29,ATL 46,0,CHI,
-5,787,1,00:52,,10,1,33,ATL 32,0,CHI,
-5,673,1,03:25,,10,1,4,CHI 39,0,CHI,
-5,832,3,00:05,,6,1,47,ATL 28,0,CHI,PENALTY
-5,941,3,14:55,,3,2,54,ATL 7,0,CHI,
-5,866,1,00:05,,10,1,54,ATL 14,0,CHI,
-5,699,2,02:40,,6,1,-1,CHI 43,0,CHI,PENALTY
-13,2516,2,08:20,,10,3,12,ATL 42,0,ATL,
-13,2537,3,07:45,,9,3,26,ATL 43,0,ATL,
-13,2594,2,07:11,,10,3,33,CHI 43,0,ATL,
-13,2473,3,09:01,,1,3,11,ATL 40,0,ATL,
-13,2617,3,06:30,,3,3,33,CHI 36,0,ATL,
-13,2427,1,09:32,,10,3,0,ATL 31,0,ATL,
-13,2572,1,07:15,,10,3,26,CHI 43,0,ATL,
-13,2494,1,08:24,,10,3,12,ATL 42,0,ATL,
-13,2449,2,09:27,,10,3,9,ATL 31,0,ATL,
-13,2639,4,06:24,,3,3,33,CHI 36,1,ATL,FG
-21,3884,3,01:55,,15,4,21,ATL 26,0,ATL,
-21,3826,1,02:12,,10,4,7,ATL 31,0,ATL,
-21,3802,1,02:36,,10,4,12,ATL 19,0,ATL,
-21,3862,2,01:58,,15,4,7,ATL 26,0,ATL,
-21,3845,0,02:00,,0,4,7,,0,,
-21,3908,4,01:30,,1,4,21,ATL 40,0,ATL,
-11,2130,1,14:04,,10,3,41,ATL 26,0,ATL,
-11,2000,0,15:00,,0,3,0,CHI 35,0,CHI,KICKOFF
-11,2067,2,14:51,,15,3,-5,ATL 9,0,ATL,
-11,2045,1,14:55,,15,3,-5,ATL 9,0,ATL,
-11,2277,3,11:28,,6,3,86,CHI 41,1,ATL,TD
-11,2102,2,14:30,,15,3,86,ATL 9,0,ATL,
-11,2196,1,12:58,,19,3,22,ATL 46,0,ATL,PENALTY
-11,2154,1,13:23,,10,3,32,CHI 45,0,ATL,PENALTY
-11,2297,0,11:19,,0,3,86,CHI 2,1,ATL,XP
-11,2229,1,12:53,,29,3,36,ATL 36,0,ATL,
-11,2022,1,14:55,,10,3,-5,ATL 14,0,ATL,PENALTY
-11,2253,2,12:08,,15,3,45,50,0,ATL,
-14,2719,1,05:11,,6,3,80,ATL 6,1,CHI,TD
-14,2695,2,06:14,,10,3,74,CHI 20,0,CHI,
-14,2658,0,06:19,,0,3,0,ATL 35,0,ATL,KICKOFF
-14,2673,1,06:19,,10,3,0,CHI 20,0,CHI,
-14,2736,0,05:06,,0,3,80,ATL 2,0,CHI,XPB
-8,1412,0,05:59,,0,2,0,CHI 35,0,CHI,KICKOFF
-8,1481,1,04:31,,10,2,19,ATL 37,0,ATL,
-8,1538,3,04:22,,10,2,19,ATL 37,0,ATL,
-8,1516,2,04:25,,10,2,19,ATL 37,0,ATL,
-8,1457,2,05:15,,6,2,19,ATL 22,0,ATL,
-8,1434,1,05:54,,10,2,4,ATL 18,0,ATL,
-8,1560,4,04:16,,10,2,19,ATL 37,0,ATL,PUNT
-19,3613,1,04:56,,10,4,28,ATL 43,0,ATL,
-19,3589,1,05:19,,10,4,23,ATL 20,0,ATL,
-19,3678,4,03:48,,14,4,19,ATL 39,0,ATL,INT
-19,3637,2,04:32,,5,4,28,ATL 48,0,ATL,
-19,3659,3,04:30,,5,4,19,ATL 48,0,ATL,
-22,3930,1,01:26,,10,4,-1,ATL 40,0,CHI,
-22,3985,3,00:32,,12,4,-3,ATL 42,0,CHI,
-22,3953,2,00:49,,11,4,-2,ATL 41,0,CHI,
-22,4008,0,00:00,,0,4,-3,,0,,
-12,2335,1,11:13,,10,3,1,CHI 14,0,CHI,
-12,2313,0,11:19,,0,3,0,ATL 35,0,ATL,KICKOFF
-12,2380,3,09:47,,3,3,7,CHI 21,0,CHI,
-12,2402,4,09:43,,3,3,7,CHI 21,0,CHI,PUNT
-12,2356,2,10:32,,9,3,7,CHI 15,0,CHI,
-16,3161,1,11:51,,10,4,79,ATL 10,0,CHI,
-16,2896,1,02:48,,10,3,12,CHI 26,0,CHI,
-16,3010,3,00:06,,11,3,48,CHI 36,0,CHI,
-16,3050,1,15:00,,10,4,52,ATL 39,0,CHI,
-16,2962,1,01:03,,10,3,24,CHI 37,0,CHI,
-16,3182,2,11:10,,8,4,74,ATL 8,0,CHI,PENALTY
-16,3034,0,,,0,3,48,,0,,
-16,2986,2,00:55,,10,3,23,CHI 37,0,CHI,
-16,3092,3,13:42,,4,4,64,ATL 33,0,CHI,
-16,2872,1,03:35,,10,3,13,CHI 13,0,CHI,
-16,2941,3,01:40,,1,3,24,CHI 35,0,CHI,
-16,3116,1,13:01,,10,4,70,ATL 23,0,CHI,
-16,3071,2,14:20,,6,4,54,ATL 35,0,CHI,
-16,3137,2,12:28,,4,4,77,ATL 17,0,CHI,
-16,2917,2,02:06,,11,3,22,CHI 25,0,CHI,
-16,3237,3,10:12,,9,4,87,ATL 9,1,CHI,TD
-16,3254,0,10:07,,0,4,87,ATL 2,1,CHI,2PS
-16,3213,2,11:01,,13,4,78,ATL 13,0,CHI,
-7,1376,2,06:05,,3,2,79,ATL 3,1,CHI,TD
-7,1354,1,06:09,,3,2,76,ATL 3,0,CHI,
-7,1259,1,08:55,,20,2,23,CHI 36,0,CHI,
-7,1396,0,05:59,,0,2,79,ATL 2,1,CHI,XP
-7,1330,3,07:04,,6,2,76,50,0,CHI,
-7,1307,3,07:30,,1,2,29,ATL 45,0,CHI,PENALTY
-7,1178,1,10:36,,10,2,13,CHI 21,0,CHI,
-7,1283,2,08:10,,12,2,34,CHI 44,0,CHI,
-7,1204,1,10:04,,10,2,25,CHI 34,0,CHI,
-7,1225,1,09:28,,10,2,15,CHI 46,0,CHI,PENALTY
-3,457,3,07:22,,15,1,26,CHI 24,0,CHI,
-3,396,1,09:35,,10,1,12,CHI 17,0,CHI,
-3,529,3,05:28,,5,1,31,CHI 48,0,CHI,
-3,417,1,08:47,,10,1,12,CHI 29,0,CHI,
-3,508,2,06:10,,9,1,31,CHI 44,0,CHI,
-3,438,2,08:08,,10,1,7,CHI 29,0,CHI,
-3,481,1,06:46,,10,1,27,CHI 43,0,CHI,
-3,551,4,05:23,,5,1,31,CHI 48,0,CHI,PUNT
-3,374,0,09:41,,0,1,0,ATL 35,0,ATL,KICKOFF
-17,3324,0,09:20,,0,4,-4,,0,,TIMEOUT
-17,3393,4,09:05,,22,4,0,ATL 8,0,ATL,PUNT
-17,3283,1,10:07,,10,4,0,ATL 20,0,ATL,
-17,3305,2,10:03,,10,4,-4,ATL 20,0,ATL,
-17,3341,3,09:20,,14,4,-4,ATL 16,0,ATL,
-17,3268,0,10:07,,0,4,0,CHI 35,0,CHI,KICKOFF
-17,3374,4,09:13,,14,4,-12,ATL 16,0,ATL,PENALTY
-4,591,2,04:33,,10,1,0,ATL 12,0,ATL,
-4,613,3,04:28,,10,1,7,ATL 12,0,ATL,FUMBLE
-4,648,4,03:37,,3,1,7,ATL 19,0,ATL,PUNT
-4,570,1,05:15,,10,1,0,ATL 12,0,ATL,
-2,333,3,09:50,,10,1,32,CHI 34,0,ATL,
-2,241,2,11:53,,7,1,32,CHI 49,0,ATL,
-2,197,1,13:02,,10,1,14,ATL 34,0,ATL,
-2,265,1,11:23,,10,1,35,CHI 34,0,ATL,
-2,220,1,12:28,,10,1,17,ATL 48,0,ATL,
-2,310,3,10:05,,5,1,32,CHI 29,0,ATL,PENALTY
-2,355,4,09:46,,10,1,32,CHI 34,1,ATL,FG
-2,286,2,10:44,,7,1,37,CHI 31,0,ATL,
-15,2752,0,05:06,,0,3,0,CHI 35,0,CHI,KICKOFF
-15,2767,1,05:06,,10,3,7,ATL 20,0,ATL,
-15,2814,3,03:54,,1,3,9,ATL 29,0,ATL,
-15,2836,4,03:49,,1,3,9,ATL 29,0,ATL,PUNT
-15,2791,2,04:26,,3,3,9,ATL 27,0,ATL,
+20,3746,0,02:49,Timeout #2 by ATL at 02:49.,0,4,9,,0,,TIMEOUT
+20,3725,2,02:53,(2:53) M.Forte left guard to ATL 46 for 1 yard (K.Biermann).,2,4,9,ATL 47,0,CHI,
+20,3763,3,02:49,(2:49) E.Britton reported in as eligible.  J.Cutler sacked at CHI 47 for -7 yards (sack split by P.Soliai and K.Biermann).,1,4,2,ATL 46,0,CHI,
+20,3784,4,02:44,"(2:44) P.O'Donnell punts 34 yards to ATL 19, Center-J.Cain, out of bounds.",8,4,2,CHI 47,0,CHI,PUNT
+20,3704,1,03:37,(3:37) M.Forte left guard to ATL 47 for 8 yards (P.Worrilow).,10,4,8,CHI 45,0,CHI,
+21,3826,1,02:12,"(2:12) (No Huddle, Shotgun) M.Ryan sacked at ATL 26 for -5 yards (W.Young).",10,4,7,ATL 31,0,ATL,
+21,3884,3,01:55,(1:55) (Shotgun) M.Ryan pass short right to D.Freeman to ATL 40 for 14 yards (D.Hurst).,15,4,21,ATL 26,0,ATL,
+21,3862,2,01:58,(1:58) (Shotgun) M.Ryan pass incomplete short right to L.Toilolo.,15,4,7,ATL 26,0,ATL,
+21,3908,4,01:30,"(1:30) (No Huddle, Shotgun) M.Ryan pass incomplete short middle to D.Freeman (W.Sutton).",1,4,21,ATL 40,0,ATL,
+21,3802,1,02:36,(2:36) (Shotgun) M.Ryan pass short middle to D.Freeman to ATL 31 for 12 yards (D.Sharpton).,10,4,12,ATL 19,0,ATL,
+21,3845,0,02:00,Two-Minute Warning,0,4,7,,0,,
+22,3953,2,00:49,(:49) E.Britton reported in as eligible.  J.Cutler kneels to ATL 42 for -1 yards.,11,4,-2,ATL 41,0,CHI,
+22,3985,3,00:32,(:32) E.Britton reported in as eligible.  J.Cutler kneels to ATL 43 for -1 yards.,12,4,-3,ATL 42,0,CHI,
+22,4008,0,00:00,END GAME,0,4,-3,,0,,
+22,3930,1,01:26,(1:26) E.Britton reported in as eligible.  J.Cutler kneels to ATL 41 for -1 yards.,10,4,-1,ATL 40,0,CHI,
+1,150,3,13:22,(13:22) (Shotgun) J.Cutler pass incomplete short right to M.Bennett (D.Trufant).,8,1,17,CHI 37,0,CHI,
+1,55,1,15:00,"(15:00) (Shotgun) PENALTY on CHI-J.Mills, False Start, 5 yards, enforced at CHI 20 - No Play.",10,1,-5,CHI 20,0,CHI,PENALTY
+1,36,0,15:00,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback.",0,1,0,ATL 35,0,ATL,KICKOFF
+1,124,2,14:05,(14:05) M.Forte right end pushed ob at CHI 37 for 2 yards (J.Bartu).,10,1,17,CHI 35,0,CHI,
+1,102,1,14:10,(14:10) (Shotgun) J.Cutler pass incomplete short left to B.Marshall.,10,1,15,CHI 35,0,CHI,
+1,172,4,13:16,"(13:16) P.O'Donnell punts 41 yards to ATL 22, Center-J.Cain. D.Hester to ATL 34 for 12 yards (S.Perry).",8,1,17,CHI 37,0,CHI,PUNT
+1,78,1,15:00,(15:00) J.Cutler pass short middle to B.Marshall to CHI 35 for 20 yards (D.Trufant).,15,1,15,CHI 15,0,CHI,
+3,508,2,06:10,(6:10) K.Carey left guard to CHI 48 for 4 yards (P.Worrilow).,9,1,31,CHI 44,0,CHI,
+3,551,4,05:23,"(5:23) P.O'Donnell punts 40 yards to ATL 12, Center-J.Cain, fair catch by D.Hester.",5,1,31,CHI 48,0,CHI,PUNT
+3,457,3,07:22,(7:22) (Shotgun) J.Cutler pass deep middle to A.Jeffery to CHI 43 for 19 yards (J.Wilson). CHI-T.Jennings was injured during the play.,15,1,26,CHI 24,0,CHI,
+3,529,3,05:28,(5:28) (Shotgun) J.Cutler pass incomplete short right to M.Bennett (D.Southward).,5,1,31,CHI 48,0,CHI,
+3,417,1,08:47,(8:47) M.Forte right guard to CHI 29 for no gain (J.Bartu; P.Worrilow).,10,1,12,CHI 29,0,CHI,
+3,396,1,09:35,(9:35) (Shotgun) M.Forte right end to CHI 29 for 12 yards (D.Trufant).,10,1,12,CHI 17,0,CHI,
+3,438,2,08:08,(8:08) (Shotgun) J.Cutler sacked at CHI 24 for -5 yards (J.Massaquoi).,10,1,7,CHI 29,0,CHI,
+3,374,0,09:41,M.Bosher kicks 65 yards from ATL 35 to CHI 0. C.Williams to CHI 17 for 17 yards (P.DiMarco).,0,1,0,ATL 35,0,ATL,KICKOFF
+3,481,1,06:46,(6:46) (Shotgun) A.Jeffery right end to CHI 44 for 1 yard (P.Worrilow).,10,1,27,CHI 43,0,CHI,
+2,197,1,13:02,(13:02) R.Schraeder reported in as eligible.  S.Jackson left tackle to ATL 48 for 14 yards (C.Conte).,10,1,14,ATL 34,0,ATL,
+2,310,3,10:05,"(10:05) (Shotgun) PENALTY on ATL-P.Konz, False Start, 5 yards, enforced at CHI 29 - No Play.",5,1,32,CHI 29,0,ATL,PENALTY
+2,333,3,09:50,(9:50) (Shotgun) M.Ryan pass incomplete deep middle to J.Jones [L.Houston].,10,1,32,CHI 34,0,ATL,
+2,355,4,09:46,"(9:46) M.Bryant 52 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher.",10,1,32,CHI 34,1,ATL,FG
+2,241,2,11:53,(11:53) (Shotgun) M.Ryan pass short middle to L.Toilolo to CHI 34 for 15 yards (C.Conte) [D.Sharpton].,7,1,32,CHI 49,0,ATL,
+2,265,1,11:23,(11:23) S.Jackson right guard to CHI 31 for 3 yards (S.Paea; C.Jones).,10,1,35,CHI 34,0,ATL,
+2,220,1,12:28,(12:28) S.Jackson left guard to CHI 49 for 3 yards (K.Greene).,10,1,17,ATL 48,0,ATL,
+2,286,2,10:44,(10:44) M.Ryan pass short middle to J.Rodgers to CHI 29 for 2 yards (C.Jones).,7,1,37,CHI 31,0,ATL,
+5,832,3,00:05,"(:05) (Shotgun) Penalty on CHI-S.Holmes, False Start, declined. PENALTY on ATL-P.Worrilow, Personal Foul, 14 yards, enforced at ATL 28 - No Play.",6,1,47,ATL 28,0,CHI,PENALTY
+5,903,0,,END QUARTER 1,0,1,54,,0,,
+5,699,2,02:40,"(2:40) J.Cutler pass short left to M.Forte to ATL 48 for 9 yards (J.Bartu). PENALTY on CHI-J.Mills, Illegal Formation, 5 yards, enforced at CHI 43 - No Play.",6,1,-1,CHI 43,0,CHI,PENALTY
+5,963,4,14:51,"(14:51) R.Gould 25 yard field goal is GOOD, Center-J.Cain, Holder-P.O'Donnell.",3,2,54,ATL 7,1,CHI,FG
+5,787,1,00:52,(:52) (Shotgun) M.Forte right end to ATL 28 for 4 yards (K.Biermann).,10,1,33,ATL 32,0,CHI,
+5,758,1,01:27,(1:27) J.Cutler pass short right to M.Bennett pushed ob at ATL 32 for 14 yards (K.Ishmael).,10,1,29,ATL 46,0,CHI,
+5,673,1,03:25,(3:25) E.Britton reported in as eligible.  J.Cutler pass short left to M.Forte to CHI 43 for 4 yards (J.Bartu).,10,1,4,CHI 39,0,CHI,
+5,808,2,00:12,(:12) E.Britton reported in as eligible.  J.Cutler pass incomplete deep left to A.Jeffery.,6,1,33,ATL 28,0,CHI,
+5,919,2,15:00,(15:00) (Shotgun) J.Cutler pass incomplete short left to B.Marshall (R.Alford).,3,2,54,ATL 7,0,CHI,
+5,734,2,02:10,(2:10) (Shotgun) J.Cutler pass short left to M.Forte to ATL 46 for 16 yards (J.Wilson).,11,1,15,CHI 38,0,CHI,
+5,941,3,14:55,(14:55) (Shotgun) J.Cutler pass incomplete short left to M.Forte.,3,2,54,ATL 7,0,CHI,
+5,866,1,00:05,(:05) (Shotgun) J.Cutler pass short left to B.Marshall to ATL 7 for 7 yards (P.Soliai).,10,1,54,ATL 14,0,CHI,
+4,591,2,04:33,(4:33) (Shotgun) M.Ryan pass incomplete short middle to S.Jackson (S.Paea).,10,1,0,ATL 12,0,ATL,
+4,613,3,04:28,"(4:28) (Shotgun) M.Ryan pass short left to J.Jones to ATL 16 for 4 yards (K.Fuller). FUMBLES (K.Fuller), and recovers at ATL 15. J.Jones to ATL 19 for 4 yards (K.Fuller).",10,1,7,ATL 12,0,ATL,FUMBLE
+4,570,1,05:15,(5:15) S.Jackson left guard to ATL 12 for no gain (J.Allen).,10,1,0,ATL 12,0,ATL,
+4,648,4,03:37,"(3:37) M.Bosher punts 42 yards to CHI 39, Center-J.Harris. S.Holmes to CHI 39 for no gain (N.Stupar).",3,1,7,ATL 19,0,ATL,PUNT
+7,1225,1,09:28,"(9:28) (Shotgun) E.Britton reported in as eligible.  K.Carey right end to ATL 48 for 6 yards (K.Ishmael). PENALTY on CHI-E.Britton, Offensive Holding, 10 yards, enforced at CHI 46 - No Play.",10,2,15,CHI 46,0,CHI,PENALTY
+7,1307,3,07:30,"(7:30) (Shotgun) PENALTY on CHI-J.Mills, False Start, 5 yards, enforced at ATL 45 - No Play.",1,2,29,ATL 45,0,CHI,PENALTY
+7,1283,2,08:10,(8:10) (Shotgun) J.Cutler pass short left to B.Marshall pushed ob at ATL 45 for 11 yards (K.Ishmael).,12,2,34,CHI 44,0,CHI,
+7,1204,1,10:04,(10:04) (Shotgun) M.Forte left tackle to CHI 46 for 12 yards (K.Ishmael).,10,2,25,CHI 34,0,CHI,
+7,1330,3,07:04,(7:04) (Shotgun) J.Cutler pass deep left to B.Marshall to ATL 3 for 47 yards (R.Alford).,6,2,76,50,0,CHI,
+7,1178,1,10:36,(10:36) E.Britton reported in as eligible.  J.Cutler pass short left to M.Forte to CHI 34 for 13 yards (J.Bartu).,10,2,13,CHI 21,0,CHI,
+7,1376,2,06:05,"(6:05) J.Cutler pass short right to J.Morgan for 3 yards, TOUCHDOWN.",3,2,79,ATL 3,1,CHI,TD
+7,1396,0,05:59,"R.Gould extra point is GOOD, Center-J.Cain, Holder-P.O'Donnell.",0,2,79,ATL 2,1,CHI,XP
+7,1354,1,06:09,(6:09) J.Cutler pass incomplete short right to M.Bennett.,3,2,76,ATL 3,0,CHI,
+7,1259,1,08:55,(8:55) (Shotgun) J.Cutler pass short middle to M.Forte to CHI 44 for 8 yards (P.Worrilow).,20,2,23,CHI 36,0,CHI,
+6,1042,3,13:33,(13:33) M.Ryan pass short right to R.White to ATL 38 for 10 yards (R.Mundy).,2,2,18,ATL 28,0,ATL,
+6,997,1,14:47,(14:47) (Shotgun) M.Ryan pass short left to A.Smith to ATL 25 for 5 yards (K.Fuller).,10,2,5,ATL 20,0,ATL,
+6,1097,1,12:07,(12:07) (Shotgun) D.Freeman left guard to CHI 36 for 3 yards (W.Young).,10,2,44,CHI 39,0,ATL,
+6,1021,2,14:10,(14:10) A.Smith left tackle to ATL 28 for 3 yards (L.Houston).,5,2,8,ATL 25,0,ATL,
+6,982,0,14:47,"R.Gould kicks 65 yards from CHI 35 to end zone, Touchback.",0,2,0,CHI 35,0,CHI,KICKOFF
+6,1073,1,12:50,(12:50) (Shotgun) M.Ryan pass deep middle to D.Hester to CHI 39 for 23 yards (C.Conte).,10,2,41,ATL 38,0,ATL,
+6,1159,4,10:45,"(10:45) M.Bosher punts 23 yards to CHI 21, Center-J.Harris, fair catch by S.Holmes.",15,2,36,CHI 44,0,ATL,PUNT
+6,1118,2,11:36,(11:36) M.Ryan pass incomplete short left to J.Jones.,7,2,44,CHI 36,0,ATL,
+6,1140,3,11:31,(11:31) (Shotgun) M.Ryan sacked at CHI 44 for -8 yards (S.Paea).,7,2,36,CHI 36,0,ATL,
+9,1775,0,00:28,Timeout #1 by CHI at 00:28.,0,2,66,,0,,TIMEOUT
+9,1815,0,00:20,Timeout #2 by CHI at 00:20.,0,2,75,,0,,TIMEOUT
+9,1620,1,03:35,(3:35) E.Britton reported in as eligible.  J.Cutler pass short left to M.Forte to CHI 39 for 6 yards (D.Lowery).,10,2,32,CHI 33,0,CHI,
+9,1921,4,00:06,"(:06) R.Gould 28 yard field goal is GOOD, Center-J.Cain, Holder-P.O'Donnell.",2,2,83,ATL 10,1,CHI,FG
+9,1646,2,02:50,(2:50) (Shotgun) J.Cutler pass short left to M.Forte to CHI 46 for 7 yards (P.Worrilow).,4,2,39,CHI 39,0,CHI,
+9,1708,2,02:00,(2:00) (Shotgun) J.Cutler sacked at CHI 49 for -1 yards (R.McClain).,6,2,42,50,0,CHI,
+9,1727,3,01:18,(1:18) (Shotgun) J.Cutler pass short left to B.Marshall to ATL 36 for 15 yards (R.McClain).,7,2,57,CHI 49,0,CHI,
+9,1832,1,00:20,(:20) (Shotgun) J.Cutler pass short left to M.Forte to ATL 10 for 8 yards (J.Bartu; J.Wilson).,10,2,83,ATL 18,0,CHI,
+9,1860,0,00:14,Timeout #3 by CHI at 00:14.,0,2,83,,0,,TIMEOUT
+9,1589,1,04:06,(4:06) E.Britton reported in as eligible.  J.Cutler pass deep right to A.Jeffery pushed ob at CHI 33 for 26 yards (D.Lowery).,10,2,26,CHI 7,0,CHI,
+9,1899,3,00:10,(:10) (Shotgun) J.Cutler pass incomplete short middle to M.Forte [J.Massaquoi].,2,2,83,ATL 10,0,CHI,
+9,1792,2,00:28,(:28) (Shotgun) E.Britton reported in as eligible.  J.Cutler scrambles right end to ATL 18 for 9 yards.,1,2,75,ATL 27,0,CHI,
+9,1691,0,02:00,Two-Minute Warning,0,2,43,,0,,
+9,1877,2,00:14,(:14) (Shotgun) J.Cutler pass incomplete short middle to M.Bennett.,2,2,83,ATL 10,0,CHI,
+9,1670,1,02:12,(2:12) (Shotgun) M.Forte right tackle to 50 for 4 yards (M.Goodman; J.Wilson).,10,2,43,CHI 46,0,CHI,
+9,1751,1,00:34,(:34) (Shotgun) J.Cutler pass short left to M.Bennett to ATL 27 for 9 yards (J.Babineaux).,10,2,66,ATL 36,0,CHI,
+8,1434,1,05:54,(5:54) R.Schraeder reported in as eligible.  S.Jackson left tackle to ATL 22 for 4 yards (C.Jones; K.Greene).,10,2,4,ATL 18,0,ATL,
+8,1481,1,04:31,(4:31) R.Schraeder reported in as eligible.  M.Ryan pass incomplete deep left to R.White.,10,2,19,ATL 37,0,ATL,
+8,1457,2,05:15,(5:15) (Shotgun) M.Ryan pass short right to J.Jones to ATL 37 for 15 yards (K.Greene).,6,2,19,ATL 22,0,ATL,
+8,1560,4,04:16,"(4:16) M.Bosher punts 49 yards to CHI 14, Center-J.Harris, out of bounds. PENALTY on CHI-T.Williams, Offensive Holding, 7 yards, enforced at CHI 14.",10,2,19,ATL 37,0,ATL,PUNT
+8,1412,0,05:59,R.Gould kicks 73 yards from CHI 35 to ATL -8. D.Hester to ATL 18 for 26 yards (B.Vereen).,0,2,0,CHI 35,0,CHI,KICKOFF
+8,1516,2,04:25,(4:25) (Shotgun) M.Ryan pass incomplete deep middle to J.Jones.,10,2,19,ATL 37,0,ATL,
+8,1538,3,04:22,(4:22) (Shotgun) M.Ryan pass incomplete short right to R.White (T.Jennings).,10,2,19,ATL 37,0,ATL,
+11,2277,3,11:28,"(11:28) (Shotgun) M.Ryan pass short right to A.Smith for 41 yards, TOUCHDOWN.",6,3,86,CHI 41,1,ATL,TD
+11,2045,1,14:55,(14:55) M.Ryan pass incomplete deep middle to J.Jones.,15,3,-5,ATL 9,0,ATL,
+11,2196,1,12:58,"(12:58) (Shotgun) M.Ryan pass incomplete short middle to S.Jackson. PENALTY on ATL-J.Matthews, Offensive Holding, 10 yards, enforced at ATL 46 - No Play.",19,3,22,ATL 46,0,ATL,PENALTY
+11,2130,1,14:04,(14:04) M.Ryan pass deep left to J.Jones to CHI 45 for 29 yards (B.Vereen).,10,3,41,ATL 26,0,ATL,
+11,2229,1,12:53,(12:53) (Shotgun) M.Ryan pass short middle to L.Toilolo to 50 for 14 yards (D.Hurst).,29,3,36,ATL 36,0,ATL,
+11,2297,0,11:19,"M.Bryant extra point is GOOD, Center-J.Harris, Holder-M.Bosher.",0,3,86,CHI 2,1,ATL,XP
+11,2154,1,13:23,"(13:23) J.Jones left end pushed ob at CHI 36 for 9 yards (D.Sharpton). PENALTY on ATL-R.White, Offensive Holding, 10 yards, enforced at CHI 44.",10,3,32,CHI 45,0,ATL,PENALTY
+11,2000,0,15:00,R.Gould kicks 69 yards from CHI 35 to ATL -4. D.Hester to ATL 14 for 18 yards (D.Lattimore).,0,3,0,CHI 35,0,CHI,KICKOFF
+11,2022,1,14:55,"(14:55) PENALTY on ATL-G.Carimi, False Start, 5 yards, enforced at ATL 14 - No Play.",10,3,-5,ATL 14,0,ATL,PENALTY
+11,2102,2,14:30,(14:30) (Shotgun) M.Ryan pass short left to J.Jones to ATL 26 for 17 yards (K.Fuller). CHI-C.Conte was injured during the play. He is Out.,15,3,86,ATL 9,0,ATL,
+11,2253,2,12:08,(12:08) (Shotgun) M.Ryan pass short right to A.Smith to CHI 41 for 9 yards (T.Jennings).,15,3,45,50,0,ATL,
+11,2067,2,14:51,"(14:51) (Shotgun) M.Ryan pass deep right to D.Hester to ATL 34 for 25 yards (C.Conte). Penalty on ATL-G.Carimi, Illegal Use of Hands, offsetting, enforced at ATL 9 - No Play. Penalty on CHI-J.Allen, Illegal Use of Hands, offsetting.",15,3,-5,ATL 9,0,ATL,
+10,1940,0,00:02,R.Gould kicks 24 yards from CHI 35 to ATL 41. L.Toilolo (didn't try to advance) to ATL 41 for no gain.,0,2,0,CHI 35,0,CHI,KICKOFF
+10,1984,0,,END QUARTER 2,0,2,-1,,0,,
+10,1963,1,00:01,(:01) M.Ryan kneels to ATL 40 for -1 yards.,10,2,-1,ATL 41,0,ATL,
+13,2594,2,07:11,(7:11) R.Schraeder reported in as eligible.  J.Rodgers right tackle to CHI 36 for 7 yards (D.Sharpton).,10,3,33,CHI 43,0,ATL,
+13,2617,3,06:30,(6:30) (Shotgun) M.Ryan pass incomplete short right to R.White (D.Sharpton).,3,3,33,CHI 36,0,ATL,
+13,2473,3,09:01,"(9:01) (No Huddle, Shotgun) A.Smith right guard to ATL 42 for 2 yards (K.Greene).",1,3,11,ATL 40,0,ATL,
+13,2449,2,09:27,(9:27) (Shotgun) M.Ryan pass short right to A.Smith to ATL 40 for 9 yards (K.Greene).,10,3,9,ATL 31,0,ATL,
+13,2572,1,07:15,(7:15) (Shotgun) M.Ryan pass incomplete short middle to L.Toilolo.,10,3,26,CHI 43,0,ATL,
+13,2494,1,08:24,(8:24) (Shotgun) M.Ryan pass incomplete middle [L.Houston].,10,3,12,ATL 42,0,ATL,
+13,2427,1,09:32,(9:32) M.Ryan pass incomplete short right to J.Jones (L.Houston).,10,3,0,ATL 31,0,ATL,
+13,2639,4,06:24,"(6:24) M.Bryant 54 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher.",3,3,33,CHI 36,1,ATL,FG
+13,2516,2,08:20,(8:20) S.Jackson left guard to ATL 43 for 1 yard (D.Sharpton).,10,3,12,ATL 42,0,ATL,
+13,2537,3,07:45,"(7:45) (Shotgun) M.Ryan pass short middle to E.Weems to CHI 43 for 14 yards (D.Hurst; K.Greene). Penalty on CHI-W.Young, Defensive Holding, declined.",9,3,26,ATL 43,0,ATL,
+12,2380,3,09:47,(9:47) (Shotgun) J.Cutler pass incomplete short middle to A.Jeffery [J.Babineaux].,3,3,7,CHI 21,0,CHI,
+12,2356,2,10:32,(10:32) (Shotgun) J.Cutler pass short right to M.Forte to CHI 21 for 6 yards (C.Peters).,9,3,7,CHI 15,0,CHI,
+12,2313,0,11:19,M.Bosher kicks 69 yards from ATL 35 to CHI -4. C.Williams to CHI 14 for 18 yards (A.Smith).,0,3,0,ATL 35,0,ATL,KICKOFF
+12,2402,4,09:43,"(9:43) P.O'Donnell punts 46 yards to ATL 33, Center-J.Cain. D.Hester to ATL 31 for -2 yards (T.Williams).",3,3,7,CHI 21,0,CHI,PUNT
+12,2335,1,11:13,(11:13) (Shotgun) M.Forte left guard to CHI 15 for 1 yard (P.Soliai).,10,3,1,CHI 14,0,CHI,
+15,2767,1,05:06,(5:06) M.Ryan pass short left to R.White to ATL 27 for 7 yards (K.Fuller).,10,3,7,ATL 20,0,ATL,
+15,2836,4,03:49,"(3:49) M.Bosher punts 47 yards to CHI 24, Center-J.Harris. S.Holmes to CHI 23 for -1 yards (J.Harris). PENALTY on CHI-S.Perry, Offensive Holding, 10 yards, enforced at CHI 23.",1,3,9,ATL 29,0,ATL,PUNT
+15,2791,2,04:26,(4:26) R.Schraeder reported in as eligible.  D.Freeman left end to ATL 29 for 2 yards (D.Sharpton; C.Jones).,3,3,9,ATL 27,0,ATL,
+15,2752,0,05:06,"R.Gould kicks 65 yards from CHI 35 to end zone, Touchback.",0,3,0,CHI 35,0,CHI,KICKOFF
+15,2814,3,03:54,(3:54) (Shotgun) M.Ryan pass incomplete short right to J.Jones (K.Fuller).,1,3,9,ATL 29,0,ATL,
+14,2719,1,05:11,"(5:11) (Shotgun) M.Forte right guard for 6 yards, TOUCHDOWN.",6,3,80,ATL 6,1,CHI,TD
+14,2673,1,06:19,(6:19) J.Cutler pass incomplete short left to M.Forte.,10,3,0,CHI 20,0,CHI,
+14,2658,0,06:19,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback.",0,3,0,ATL 35,0,ATL,KICKOFF
+14,2695,2,06:14,(6:14) J.Cutler pass deep right to A.Jeffery to ATL 6 for 74 yards (K.Ishmael).,10,3,74,CHI 20,0,CHI,
+14,2736,0,05:06,"R.Gould extra point is Blocked (R.Hageman), Center-J.Cain, Holder-P.O'Donnell.",0,3,80,ATL 2,0,CHI,XPB
+17,3393,4,09:05,"(9:05) M.Bosher punts 57 yards to CHI 35, Center-J.Harris, fair catch by S.Holmes.",22,4,0,ATL 8,0,ATL,PUNT
+17,3374,4,09:13,"(9:13) M.Bosher punts 56 yards to CHI 28, Center-J.Harris, fair catch by S.Holmes. PENALTY on ATL-J.Harris, Offensive Holding, 8 yards, enforced at ATL 16 - No Play.",14,4,-12,ATL 16,0,ATL,PENALTY
+17,3341,3,09:20,"(9:20) (Shotgun) M.Ryan pass incomplete deep left to J.Jones. Penalty on ATL-J.Matthews, Offensive Holding, declined.",14,4,-4,ATL 16,0,ATL,
+17,3324,0,09:20,Timeout #1 by ATL at 09:20.,0,4,-4,,0,,TIMEOUT
+17,3268,0,10:07,"R.Gould kicks 65 yards from CHI 35 to end zone, Touchback.",0,4,0,CHI 35,0,CHI,KICKOFF
+17,3305,2,10:03,(10:03) (Shotgun) M.Ryan sacked at ATL 16 for -4 yards (J.Allen).,10,4,-4,ATL 20,0,ATL,
+17,3283,1,10:07,(10:07) (Shotgun) M.Ryan pass incomplete short left to S.Jackson.,10,4,0,ATL 20,0,ATL,
+16,2872,1,03:35,(3:35) J.Cutler pass short middle to B.Marshall to CHI 26 for 13 yards (R.Alford).,10,3,13,CHI 13,0,CHI,
+16,3237,3,10:12,"(10:12) (Shotgun) M.Forte right guard for 9 yards, TOUCHDOWN.",9,4,87,ATL 9,1,CHI,TD
+16,2962,1,01:03,(1:03) E.Britton reported in as eligible.  J.Cutler pass incomplete deep left to B.Marshall.,10,3,24,CHI 37,0,CHI,
+16,3034,0,,END QUARTER 3,0,3,48,,0,,
+16,3116,1,13:01,(13:01) M.Forte right end to ATL 17 for 6 yards (T.Jackson).,10,4,70,ATL 23,0,CHI,
+16,3010,3,00:06,(:06) (Shotgun) J.Cutler pass deep left to M.Bennett to ATL 39 for 25 yards (J.Wilson).,11,3,48,CHI 36,0,CHI,
+16,2896,1,02:48,(2:48) (Shotgun) A.Jeffery right end to CHI 25 for -1 yards (J.Massaquoi).,10,3,12,CHI 26,0,CHI,
+16,3254,0,10:07,(Pass formation) TWO-POINT CONVERSION ATTEMPT. J.Cutler pass to M.Bennett is complete. ATTEMPT SUCCEEDS.,0,4,87,ATL 2,1,CHI,2PS
+16,2986,2,00:55,(:55) (Shotgun) J.Cutler pass short right to M.Forte to CHI 36 for -1 yards (T.Jackson).,10,3,23,CHI 37,0,CHI,
+16,3213,2,11:01,(11:01) (Shotgun) J.Cutler pass short middle to M.Bennett to ATL 9 for 4 yards (J.Massaquoi).,13,4,78,ATL 13,0,CHI,
+16,3092,3,13:42,(13:42) (Shotgun) J.Cutler pass short right to A.Jeffery to ATL 23 for 10 yards (J.Massaquoi).,4,4,64,ATL 33,0,CHI,
+16,3071,2,14:20,(14:20) (Shotgun) M.Forte right guard to ATL 33 for 2 yards (J.Wilson).,6,4,54,ATL 35,0,CHI,
+16,3137,2,12:28,(12:28) (Shotgun) J.Cutler pass short left to A.Jeffery pushed ob at ATL 10 for 7 yards (K.Ishmael).,4,4,77,ATL 17,0,CHI,
+16,3050,1,15:00,(15:00) M.Forte right guard to ATL 35 for 4 yards (T.Jackson).,10,4,52,ATL 39,0,CHI,
+16,3182,2,11:10,"(11:10) (Shotgun) J.Cutler pass short left to A.Jeffery for 8 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on CHI-A.Jeffery, Illegal Touch Pass, 5 yards, enforced at ATL 8 - No Play.",8,4,74,ATL 8,0,CHI,PENALTY
+16,2917,2,02:06,(2:06) (Shotgun) J.Cutler pass short middle to M.Forte to CHI 35 for 10 yards (K.Ishmael).,11,3,22,CHI 25,0,CHI,
+16,2941,3,01:40,(1:40) M.Forte right end to CHI 37 for 2 yards (D.Trufant).,1,3,24,CHI 35,0,CHI,
+16,3161,1,11:51,(11:51) (Shotgun) M.Forte right guard to ATL 8 for 2 yards (T.Jackson; J.Bartu).,10,4,79,ATL 10,0,CHI,
+19,3589,1,05:19,(5:19) (Shotgun) M.Ryan pass short right to R.White to ATL 43 for 23 yards (K.Greene).,10,4,23,ATL 20,0,ATL,
+19,3678,4,03:48,(3:48) (Shotgun) M.Ryan pass deep left intended for J.Jones INTERCEPTED by D.Hurst at CHI 45. D.Hurst to CHI 45 for no gain (J.Jones).,14,4,19,ATL 39,0,ATL,INT
+19,3613,1,04:56,"(4:56) (No Huddle, Shotgun) M.Ryan pass short right to L.Toilolo to ATL 48 for 5 yards (K.Greene).",10,4,28,ATL 43,0,ATL,
+19,3659,3,04:30,(4:30) (Shotgun) M.Ryan sacked at ATL 39 for -9 yards (W.Young).,5,4,19,ATL 48,0,ATL,
+19,3637,2,04:32,"(4:32) (No Huddle, Shotgun) M.Ryan pass incomplete deep right to L.Toilolo.",5,4,28,ATL 48,0,ATL,
+18,3509,1,07:28,(7:28) (Shotgun) K.Carey left end to ATL 44 for 1 yard (K.Biermann).,10,4,21,ATL 45,0,CHI,
+18,3461,1,08:56,(8:56) (Shotgun) M.Forte right end to CHI 40 for 5 yards (D.Trufant; M.Goodman).,10,4,5,CHI 35,0,CHI,
+18,3551,3,06:04,(6:04) (Shotgun) J.Cutler scrambles up the middle to ATL 40 for 5 yards (J.Babineaux).,10,4,25,ATL 45,0,CHI,
+18,3483,2,08:11,(8:11) (Shotgun) K.Carey right end pushed ob at ATL 45 for 15 yards (D.Lowery).,5,4,20,CHI 40,0,CHI,
+18,3572,4,05:27,"(5:27) P.O'Donnell punts 40 yards to end zone, Center-J.Cain, Touchback.",5,4,25,ATL 40,0,CHI,PUNT
+18,3530,2,06:45,(6:45) (Shotgun) K.Carey left end to ATL 45 for -1 yards (R.Alford).,9,4,20,ATL 44,0,CHI,

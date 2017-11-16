@@ -1,183 +1,183 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1319,4,07:14,,7,2,3,DAL 31,0,DAL,PUNT
-9,1295,3,07:51,,17,2,3,DAL 21,0,DAL,
-9,1217,1,09:10,,15,2,-2,DAL 23,0,DAL,
-9,1260,3,08:16,,12,2,-7,DAL 26,0,DAL,PENALTY
-9,1194,1,09:10,,10,2,-5,DAL 28,0,DAL,PENALTY
-9,1238,2,08:24,,12,2,-2,DAL 26,0,DAL,
-24,4431,2,00:39,,11,4,-2,PHI 45,0,DAL,
-24,4385,0,01:21,,0,4,-2,PHI 35,0,PHI,KICKOFF
-24,4410,1,01:00,,10,4,2,PHI 44,0,DAL,
-24,4452,0,00:00,,0,4,-2,,0,,
-10,1383,3,06:08,,11,2,-11,PHI 25,0,PHI,PENALTY
-10,1338,1,07:07,,10,2,2,PHI 26,0,PHI,
-10,1418,3,05:50,,21,2,-6,PHI 15,0,PHI,
-10,1442,4,05:38,,16,2,-6,PHI 20,0,PHI,PUNT
-10,1362,2,06:44,,8,2,-1,PHI 28,0,PHI,
-20,3665,1,06:51,,20,4,-9,DAL 22,0,DAL,
-20,3686,2,06:07,,19,4,-2,DAL 23,0,DAL,
-20,3633,1,07:15,,10,4,-10,DAL 32,0,DAL,PENALTY
-20,3710,3,05:23,,12,4,2,DAL 30,0,DAL,
-20,3745,4,05:05,,8,4,2,DAL 34,0,DAL,PUNT
-6,849,4,00:31,,10,1,0,PHI 20,0,PHI,PUNT
-6,770,0,01:39,,0,1,10,DAL 35,0,DAL,KICKOFF
-6,827,3,00:37,,10,1,0,PHI 20,0,PHI,
-6,785,1,01:39,,10,1,2,PHI 20,0,PHI,
-6,806,2,01:18,,8,1,0,PHI 22,0,PHI,
-18,3310,0,14:17,,0,4,0,PHI 35,0,PHI,KICKOFF
-18,3463,2,09:58,,6,4,34,PHI 45,0,DAL,
-18,3337,1,14:09,,10,4,4,DAL 27,0,DAL,
-18,3379,1,12:43,,10,4,15,DAL 40,0,DAL,
-18,3508,2,08:38,,1,4,33,PHI 30,0,DAL,PENALTY
-18,3442,1,10:39,,10,4,28,PHI 49,0,DAL,
-18,3487,1,09:23,,10,4,43,PHI 39,0,DAL,
-18,3540,2,08:12,,11,4,34,PHI 40,0,DAL,
-18,3561,3,07:31,,10,4,37,PHI 39,0,DAL,FUMBLE
-18,3421,3,11:21,,2,4,24,DAL 48,0,DAL,
-18,3358,2,13:23,,6,4,13,DAL 31,0,DAL,
-18,3400,2,12:02,,8,4,21,DAL 42,0,DAL,
-1,140,4,12:41,,14,1,-4,DAL 16,0,DAL,PUNT
-1,36,0,15:00,,0,1,0,PHI 35,0,PHI,KICKOFF
-1,72,2,14:24,,11,1,-6,DAL 19,0,DAL,PENALTY
-1,114,3,13:20,,22,1,-4,DAL 8,0,DAL,
-1,95,2,14:08,,16,1,-12,DAL 14,0,DAL,
-1,51,1,15:00,,10,1,-1,DAL 20,0,DAL,
-5,680,1,02:33,,1,1,79,PHI 1,0,DAL,
-5,707,2,01:50,,1,1,79,PHI 1,0,DAL,
-5,635,1,03:50,,10,1,66,PHI 17,0,DAL,
-5,569,1,05:54,,10,1,39,PHI 47,0,DAL,
-5,545,2,06:31,,6,1,33,DAL 39,0,DAL,
-5,729,3,01:47,,1,1,79,PHI 1,0,DAL,
-5,611,1,04:32,,10,1,63,PHI 36,0,DAL,
-5,524,1,07:05,,10,1,19,DAL 35,0,DAL,
-5,751,4,01:42,,1,1,79,PHI 1,1,DAL,FG
-5,500,1,07:43,,10,1,15,DAL 20,0,DAL,
-5,590,2,05:08,,4,1,44,PHI 41,0,DAL,
-5,656,2,03:07,,7,1,79,PHI 14,0,DAL,TIMEOUT
-13,2363,0,12:35,,0,3,0,DAL 35,0,DAL,KICKOFF
-13,2400,2,12:29,,10,3,0,PHI 20,0,PHI,
-13,2422,3,12:25,,10,3,0,PHI 20,0,PHI,
-13,2378,1,12:35,,10,3,0,PHI 20,0,PHI,
-13,2444,4,12:21,,10,3,0,PHI 20,0,PHI,PUNT
-21,3770,1,04:53,,10,4,11,PHI 23,0,PHI,
-21,3818,1,04:40,,10,4,24,PHI 47,0,PHI,INT
-21,3794,1,04:47,,10,4,24,PHI 34,0,PHI,
-23,4325,3,01:54,,16,4,74,DAL 16,0,PHI,
-23,4231,2,02:03,,1,4,79,DAL 1,0,PHI,
-23,4061,1,03:47,,10,4,21,PHI 30,0,PHI,
-23,4210,1,02:26,,3,4,79,DAL 3,0,PHI,
-23,4252,0,01:58,,0,4,79,,0,,
-23,3989,0,04:13,,0,4,0,DAL 35,0,DAL,KICKOFF
-23,4189,3,02:55,,1,4,77,DAL 12,0,PHI,
-23,4114,2,03:36,,4,4,59,PHI 47,0,PHI,
-23,4037,1,04:07,,10,4,21,PHI 20,0,PHI,
-23,4369,0,01:21,,0,4,80,DAL 15,1,PHI,XP
-23,4269,3,01:58,,1,4,69,DAL 1,0,PHI,PENALTY
-23,4004,1,04:13,,10,4,0,PHI 20,0,PHI,
-23,4349,4,01:26,,6,4,80,DAL 6,1,PHI,TD
-23,4302,3,01:54,,11,4,74,DAL 11,0,PHI,PENALTY
-23,4165,2,03:23,,10,4,68,DAL 21,0,PHI,
-23,4143,1,03:28,,10,4,59,DAL 21,0,PHI,
-23,4085,1,03:42,,10,4,27,PHI 41,0,PHI,
-11,1934,2,01:31,,10,2,45,PHI 39,0,DAL,PENALTY
-11,1478,1,05:24,,10,2,5,DAL 11,0,DAL,
-11,2039,2,00:37,,2,2,81,PHI 20,0,DAL,
-11,1958,2,01:31,,15,2,50,PHI 44,0,DAL,PENALTY
-11,1800,3,01:40,,10,2,50,PHI 44,0,DAL,PENALTY
-11,1778,2,01:46,,10,2,79,PHI 44,0,DAL,
-11,1721,1,02:00,,10,2,45,DAL 34,0,DAL,PENALTY
-11,1645,2,02:41,,15,2,23,DAL 18,0,DAL,
-11,2060,1,00:30,,8,2,79,PHI 8,0,DAL,
-11,2015,1,00:59,,10,2,69,PHI 28,0,DAL,
-11,2107,0,00:11,,0,2,74,,0,,TIMEOUT
-11,2179,2,00:02,,10,2,79,PHI 10,1,DAL,FG
-11,1514,2,04:49,,5,2,7,DAL 16,0,DAL,
-11,2124,2,00:11,,15,2,79,PHI 15,0,DAL,PENALTY
-11,1588,1,03:16,,10,2,18,DAL 23,0,DAL,PENALTY
-11,1669,0,02:00,,0,2,18,,0,,
-11,1991,1,01:27,,10,2,61,PHI 39,0,DAL,
-11,2084,2,00:11,,10,2,74,PHI 10,0,DAL,PENALTY
-11,1623,1,02:43,,15,2,23,DAL 18,0,DAL,
-11,1564,3,03:58,,3,2,12,DAL 18,0,DAL,
-11,1535,0,03:58,,0,2,7,,0,,TIMEOUT
-11,2157,1,00:07,,10,2,79,PHI 10,0,DAL,
-11,1756,1,01:51,,10,2,45,PHI 44,0,DAL,
-11,1687,3,02:00,,4,2,23,DAL 29,0,DAL,PENALTY
-11,1835,1,01:34,,10,2,45,PHI 39,0,DAL,
-14,2489,2,11:41,,6,3,35,DAL 36,0,DAL,PENALTY
-14,2463,1,12:13,,10,3,4,DAL 32,0,DAL,
-14,2522,2,11:11,,13,3,-3,DAL 29,0,DAL,
-14,2544,3,11:07,,13,3,36,DAL 29,0,DAL,
-14,2568,1,10:37,,10,3,35,PHI 32,0,DAL,
-14,2589,2,09:54,,11,3,29,PHI 33,0,DAL,FUMBLE
-8,1108,1,10:23,,10,2,2,PHI 15,0,PHI,
-8,1175,4,09:22,,8,2,2,PHI 17,0,PHI,PUNT
-8,1132,2,09:55,,8,2,2,PHI 17,0,PHI,
-8,1153,3,09:26,,8,2,2,PHI 17,0,PHI,
-19,3596,1,07:15,,10,4,-2,DAL 30,0,PHI,FUMBLE
-22,3948,3,04:20,,11,4,41,PHI 42,1,DAL,TD
-22,3872,1,04:29,,15,4,-3,PHI 46,0,DAL,
-22,3973,0,04:13,,0,4,41,PHI 15,1,DAL,XP
-22,3931,0,04:20,,0,4,-1,,0,,TIMEOUT
-22,3910,2,04:25,,13,4,-1,PHI 44,0,DAL,
-22,3893,0,04:25,,0,4,-3,,0,,TIMEOUT
-22,3849,1,04:29,,10,4,-5,PHI 41,0,DAL,PENALTY
-12,2324,4,12:44,,10,3,12,PHI 32,1,PHI,TD
-12,2279,2,13:55,,16,3,1,PHI 26,0,PHI,
-12,2212,0,15:00,,0,3,0,DAL 35,0,DAL,KICKOFF
-12,2258,1,14:26,,10,3,6,PHI 32,0,PHI,
-12,2234,1,14:53,,10,3,12,PHI 20,0,PHI,
-12,2300,3,13:16,,21,3,12,PHI 21,0,PHI,
-16,3041,2,03:04,,6,3,17,DAL 34,0,DAL,
-16,2973,2,04:42,,4,3,1,DAL 26,0,DAL,PENALTY
-16,2996,2,04:19,,9,3,10,DAL 21,0,DAL,
-16,3062,3,02:21,,3,3,19,DAL 37,0,DAL,
-16,3020,1,03:45,,10,3,14,DAL 30,0,DAL,
-16,2952,1,05:24,,10,3,6,DAL 20,0,DAL,
-16,3086,4,01:46,,1,3,19,DAL 39,0,DAL,PUNT
-7,991,1,12:49,,10,2,31,DAL 45,0,DAL,
-7,1019,2,12:04,,10,2,25,DAL 45,0,DAL,
-7,1089,4,10:30,,14,2,27,DAL 41,0,DAL,PUNT
-7,885,1,00:19,,10,1,-1,DAL 14,0,DAL,
-7,906,0,,,0,1,-1,,0,,
-7,1042,3,11:26,,16,2,27,DAL 39,0,DAL,PENALTY
-7,946,1,14:17,,10,2,17,DAL 31,0,DAL,
-7,922,2,15:00,,11,2,17,DAL 13,0,DAL,
-7,1065,3,11:00,,21,2,27,DAL 34,0,DAL,
-7,967,2,13:33,,10,2,31,DAL 31,0,DAL,
-3,318,3,10:18,,2,1,9,DAL 21,0,DAL,
-3,276,1,11:40,,10,1,5,DAL 13,0,DAL,
-3,342,4,09:38,,1,1,9,DAL 22,0,DAL,PUNT
-3,297,2,11:02,,5,1,8,DAL 18,0,DAL,
-17,3269,3,14:26,,7,4,52,DAL 28,0,PHI,
-17,3247,2,14:33,,7,4,52,DAL 28,0,PHI,
-17,3291,4,14:21,,7,4,52,DAL 28,1,PHI,FG
-17,3226,1,15:00,,10,4,52,DAL 31,0,PHI,
-17,3170,1,00:16,,10,3,49,PHI 32,0,PHI,PENALTY
-17,3210,0,,,0,3,49,,0,,
-17,3106,1,01:33,,10,3,9,PHI 20,0,PHI,
-17,3127,2,00:57,,1,3,9,PHI 29,0,PHI,
-17,3149,3,00:52,,1,3,12,PHI 29,0,PHI,
-4,459,3,07:56,,7,1,17,PHI 35,0,PHI,
-4,414,1,09:03,,10,1,10,PHI 32,0,PHI,
-4,360,1,09:28,,10,1,3,PHI 18,0,PHI,
-4,435,2,08:32,,14,1,17,PHI 28,0,PHI,
-4,481,4,07:51,,7,1,17,PHI 35,0,PHI,PUNT
-4,381,2,09:08,,7,1,17,PHI 21,0,PHI,PENALTY
-2,210,3,11:50,,1,1,9,PHI 49,0,PHI,
-2,232,0,11:47,,0,1,9,,0,,TIMEOUT
-2,186,2,12:09,,9,1,9,PHI 41,0,PHI,
-2,253,4,11:47,,1,1,9,PHI 49,0,PHI,PUNT
-2,165,1,12:30,,10,1,1,PHI 40,0,PHI,
-15,2836,2,07:12,,1,3,54,DAL 21,0,PHI,
-15,2779,2,07:51,,15,3,58,DAL 46,0,PHI,PENALTY
-15,2658,2,09:28,,15,3,13,PHI 34,0,PHI,
-15,2625,1,09:44,,10,3,15,PHI 39,0,PHI,
-15,2683,1,09:03,,10,3,15,DAL 48,0,PHI,
-15,2930,2,05:28,,3,3,58,DAL 3,0,PHI,INT
-15,2812,1,07:47,,10,3,40,DAL 30,0,PHI,
-15,2758,1,08:37,,10,3,58,DAL 41,0,PHI,
-15,2908,1,05:33,,3,3,58,DAL 3,0,PHI,
-15,2884,2,06:10,,1,3,58,DAL 7,0,PHI,
-15,2860,1,06:48,,10,3,54,DAL 16,0,PHI,
-15,2714,2,08:42,,8,3,15,DAL 46,0,PHI,PENALTY
+24,4452,0,00:00,END GAME,0,4,-2,,0,,
+24,4431,2,00:39,(:39) B.Weeden kneels to PHI 46 for -1 yards.,11,4,-2,PHI 45,0,DAL,
+24,4385,0,01:21,(Onside Kick formation) C.Parkey kicks onside 9 yards from PHI 35 to PHI 44. S.Lee (didn't try to advance) to PHI 44 for no gain.,0,4,-2,PHI 35,0,PHI,KICKOFF
+24,4410,1,01:00,(1:00) B.Weeden kneels to PHI 45 for -1 yards.,10,4,2,PHI 44,0,DAL,
+20,3665,1,06:51,(6:51) J.Randle up the middle to DAL 23 for 1 yard (B.Logan).,20,4,-9,DAL 22,0,DAL,
+20,3745,4,05:05,"(5:05) C.Jones punts 48 yards to PHI 18, Center-L.Ladouceur. D.Sproles to PHI 23 for 5 yards (B.Jones; K.Wilber).",8,4,2,DAL 34,0,DAL,PUNT
+20,3710,3,05:23,"(5:23) (Shotgun) B.Weeden pass short right to L.Dunbar to DAL 34 for 4 yards (J.Hicks). Penalty on DAL-Z.Martin, Offensive Holding, declined.",12,4,2,DAL 30,0,DAL,
+20,3633,1,07:15,"(7:15) J.Randle right end to DAL 33 for 1 yard (F.Cox). PENALTY on DAL-M.Bernadeau, Offensive Holding, 10 yards, enforced at DAL 32 - No Play.",10,4,-10,DAL 32,0,DAL,PENALTY
+20,3686,2,06:07,(6:07) (Shotgun) B.Weeden pass short right to J.Witten to DAL 30 for 7 yards (D.Ryans).,19,4,-2,DAL 23,0,DAL,
+21,3794,1,04:47,"(4:47) (No Huddle, Shotgun) S.Bradford pass short left to J.Matthews ran ob at PHI 47 for 13 yards.",10,4,24,PHI 34,0,PHI,
+21,3818,1,04:40,"(4:40) (No Huddle, Shotgun) S.Bradford pass deep middle intended for Z.Ertz INTERCEPTED by J.Wilcox (B.Jones) at DAL 35. J.Wilcox pushed ob at PHI 41 for 24 yards (D.Sproles).",10,4,24,PHI 47,0,PHI,INT
+21,3770,1,04:53,(4:53) (Shotgun) S.Bradford pass short right to J.Huff pushed ob at PHI 34 for 11 yards (B.Carr).,10,4,11,PHI 23,0,PHI,
+22,3948,3,04:20,"(4:20) (Shotgun) B.Weeden pass short right to T.Williams for 42 yards, TOUCHDOWN [B.Graham].",11,4,41,PHI 42,1,DAL,TD
+22,3910,2,04:25,(4:25) D.McFadden right end to PHI 42 for 2 yards (B.Logan).,13,4,-1,PHI 44,0,DAL,
+22,3872,1,04:29,(4:29) D.McFadden left end to PHI 44 for 2 yards (B.Logan).,15,4,-3,PHI 46,0,DAL,
+22,3931,0,04:20,Timeout #2 by PHI at 04:20.,0,4,-1,,0,,TIMEOUT
+22,3973,0,04:13,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,4,41,PHI 15,1,DAL,XP
+22,3849,1,04:29,"(4:29) PENALTY on DAL-D.Free, False Start, 5 yards, enforced at PHI 41 - No Play.",10,4,-5,PHI 41,0,DAL,PENALTY
+22,3893,0,04:25,Timeout #1 by PHI at 04:25.,0,4,-3,,0,,TIMEOUT
+23,4189,3,02:55,"(2:55) (No Huddle, Shotgun) D.Murray right tackle to DAL 3 for 9 yards (J.Wilcox).",1,4,77,DAL 12,0,PHI,
+23,4302,3,01:54,"(1:54) (Shotgun) PENALTY on PHI-S.Bradford, Delay of Game, 5 yards, enforced at DAL 11 - No Play.",11,4,74,DAL 11,0,PHI,PENALTY
+23,4165,2,03:23,"(3:23) (No Huddle, Shotgun) S.Bradford pass short middle to J.Matthews to DAL 12 for 9 yards (B.Church; S.Lee).",10,4,68,DAL 21,0,PHI,
+23,4061,1,03:47,"(3:47) (No Huddle, Shotgun) S.Bradford pass short left to N.Agholor ran ob at PHI 41 for 11 yards.",10,4,21,PHI 30,0,PHI,
+23,4085,1,03:42,"(3:42) (No Huddle, Shotgun) S.Bradford pass short right to Z.Ertz pushed ob at PHI 47 for 6 yards (B.Carr).",10,4,27,PHI 41,0,PHI,
+23,4269,3,01:58,"(1:58) (No Huddle, Shotgun) D.Murray left guard for 1 yard, TOUCHDOWN NULLIFIED by Penalty. PENALTY on PHI-A.Barbre, Offensive Holding, 10 yards, enforced at DAL 1 - No Play.",1,4,69,DAL 1,0,PHI,PENALTY
+23,4369,0,01:21,"C.Parkey extra point is GOOD, Center-J.Dorenbos, Holder-D.Jones.",0,4,80,DAL 15,1,PHI,XP
+23,4252,0,01:58,Two-Minute Warning,0,4,79,,0,,
+23,4004,1,04:13,"(4:13) (Shotgun) S.Bradford pass incomplete deep left to R.Cooper. Penalty on DAL-M.Claiborne, Illegal Use of Hands, offsetting, enforced at PHI 20 - No Play. Penalty on PHI-J.Peters, Illegal Use of Hands, offsetting.",10,4,0,PHI 20,0,PHI,
+23,4349,4,01:26,"(1:26) (No Huddle, Shotgun) S.Bradford pass short right to J.Matthews for 6 yards, TOUCHDOWN.",6,4,80,DAL 6,1,PHI,TD
+23,4143,1,03:28,"(3:28) (No Huddle, Shotgun) S.Bradford pass incomplete deep middle to J.Huff.",10,4,59,DAL 21,0,PHI,
+23,4114,2,03:36,"(3:36) (No Huddle, Shotgun) S.Bradford pass deep right to J.Matthews ran ob at DAL 21 for 32 yards.",4,4,59,PHI 47,0,PHI,
+23,3989,0,04:13,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback.",0,4,0,DAL 35,0,DAL,KICKOFF
+23,4037,1,04:07,(4:07) (Shotgun) S.Bradford pass short right to J.Matthews to PHI 30 for 10 yards (B.Jones).,10,4,21,PHI 20,0,PHI,
+23,4325,3,01:54,(1:54) (Shotgun) S.Bradford pass short middle to J.Matthews to DAL 6 for 10 yards (J.Heath; S.Lee).,16,4,74,DAL 16,0,PHI,
+23,4231,2,02:03,"(2:03) (No Huddle, Shotgun) D.Murray right end to DAL 1 for no gain (S.Lee).",1,4,79,DAL 1,0,PHI,
+23,4210,1,02:26,"(2:26) (No Huddle, Shotgun) D.Murray right tackle to DAL 1 for 2 yards (A.Hitchens).",3,4,79,DAL 3,0,PHI,
+1,140,4,12:41,"(12:41) C.Jones punts 59 yards to PHI 25, Center-L.Ladouceur. D.Sproles to PHI 40 for 15 yards (D.Wilson).",14,1,-4,DAL 16,0,DAL,PUNT
+1,51,1,15:00,(15:00) J.Randle right end to DAL 19 for -1 yards (M.Kendricks).,10,1,-1,DAL 20,0,DAL,
+1,36,0,15:00,"C.Parkey kicks 65 yards from PHI 35 to end zone, Touchback.",0,1,0,PHI 35,0,PHI,KICKOFF
+1,114,3,13:20,(13:20) (Shotgun) L.Dunbar left end to DAL 16 for 8 yards (M.Jenkins).,22,1,-4,DAL 8,0,DAL,
+1,72,2,14:24,"(14:24) (Shotgun) PENALTY on DAL-M.Bernadeau, False Start, 5 yards, enforced at DAL 19 - No Play.",11,1,-6,DAL 19,0,DAL,PENALTY
+1,95,2,14:08,(14:08) (Shotgun) T.Romo sacked at DAL 8 for -6 yards (C.Barwin).,16,1,-12,DAL 14,0,DAL,
+3,297,2,11:02,(11:02) J.Randle right tackle to DAL 21 for 3 yards (B.Logan).,5,1,8,DAL 18,0,DAL,
+3,318,3,10:18,(10:18) (Shotgun) T.Romo pass short right to C.Beasley to DAL 22 for 1 yard (B.Maxwell).,2,1,9,DAL 21,0,DAL,
+3,342,4,09:38,"(9:38) C.Jones punts 60 yards to PHI 18, Center-L.Ladouceur, out of bounds.",1,1,9,DAL 22,0,DAL,PUNT
+3,276,1,11:40,(11:40) J.Randle left end to DAL 18 for 5 yards (C.Thornton).,10,1,5,DAL 13,0,DAL,
+2,165,1,12:30,(12:30) (Shotgun) D.Murray right guard to PHI 41 for 1 yard (J.Mincey).,10,1,1,PHI 40,0,PHI,
+2,186,2,12:09,"(12:09) (No Huddle, Shotgun) S.Bradford pass short right to N.Agholor pushed ob at PHI 49 for 8 yards (S.Lee).",9,1,9,PHI 41,0,PHI,
+2,232,0,11:47,Timeout #1 by PHI at 11:47.,0,1,9,,0,,TIMEOUT
+2,210,3,11:50,"(11:50) (No Huddle, Shotgun) S.Bradford pass incomplete deep left to J.Matthews.",1,1,9,PHI 49,0,PHI,
+2,253,4,11:47,"(11:47) D.Jones punts 38 yards to DAL 13, Center-J.Dorenbos, fair catch by C.Beasley.",1,1,9,PHI 49,0,PHI,PUNT
+5,569,1,05:54,(5:54) J.Randle right end to PHI 41 for 6 yards (B.Graham).,10,1,39,PHI 47,0,DAL,
+5,751,4,01:42,"(1:42) D.Bailey 20 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",1,1,79,PHI 1,1,DAL,FG
+5,707,2,01:50,(1:50) T.Romo pass incomplete short left to G.Escobar.,1,1,79,PHI 1,0,DAL,
+5,635,1,03:50,(3:50) J.Randle right tackle to PHI 14 for 3 yards (B.Graham).,10,1,66,PHI 17,0,DAL,
+5,590,2,05:08,(5:08) J.Randle right end pushed ob at PHI 36 for 5 yards (M.Kendricks).,4,1,44,PHI 41,0,DAL,
+5,611,1,04:32,(4:32) (Shotgun) T.Romo pass deep right to T.Williams to PHI 17 for 19 yards (B.Maxwell).,10,1,63,PHI 36,0,DAL,
+5,524,1,07:05,(7:05) (Shotgun) J.Randle up the middle to DAL 39 for 4 yards (C.Thornton).,10,1,19,DAL 35,0,DAL,
+5,545,2,06:31,(6:31) T.Romo pass short right to J.Randle pushed ob at PHI 47 for 14 yards (M.Kendricks).,6,1,33,DAL 39,0,DAL,
+5,729,3,01:47,(1:47) T.Romo pass incomplete short right to J.Witten (D.Ryans).,1,1,79,PHI 1,0,DAL,
+5,680,1,02:33,(2:33) J.Randle left tackle to PHI 1 for no gain (D.Ryans; B.Allen).,1,1,79,PHI 1,0,DAL,
+5,500,1,07:43,(7:43) (Shotgun) T.Romo pass short middle to T.Williams to DAL 35 for 15 yards (M.Kendricks).,10,1,15,DAL 20,0,DAL,
+5,656,2,03:07,"(3:07) (Shotgun) T.Romo pass short left to G.Escobar to PHI 1 for 13 yards (D.Ryans). Dallas challenged the runner was down by contact ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",7,1,79,PHI 14,0,DAL,TIMEOUT
+4,459,3,07:56,"(7:56) (No Huddle, Shotgun) S.Bradford pass incomplete short right to J.Matthews.",7,1,17,PHI 35,0,PHI,
+4,414,1,09:03,(9:03) (Shotgun) D.Sproles left end to PHI 28 for -4 yards (S.Lee).,10,1,10,PHI 32,0,PHI,
+4,381,2,09:08,"(9:08) (No Huddle, Shotgun) S.Bradford pass incomplete short left to J.Huff. PENALTY on DAL-M.Claiborne, Defensive Pass Interference, 11 yards, enforced at PHI 21 - No Play.",7,1,17,PHI 21,0,PHI,PENALTY
+4,360,1,09:28,(9:28) D.Murray up the middle to PHI 21 for 3 yards (A.Hitchens; J.Mincey).,10,1,3,PHI 18,0,PHI,
+4,435,2,08:32,"(8:32) (No Huddle, Shotgun) S.Bradford pass short left to D.Murray to PHI 35 for 7 yards (S.Lee).",14,1,17,PHI 28,0,PHI,
+4,481,4,07:51,"(7:51) D.Jones punts 45 yards to DAL 20, Center-J.Dorenbos, fair catch by C.Beasley.",7,1,17,PHI 35,0,PHI,PUNT
+7,1042,3,11:26,"(11:26) (Shotgun) PENALTY on DAL-T.Frederick, Delay of Game, 5 yards, enforced at DAL 39 - No Play.",16,2,27,DAL 39,0,DAL,PENALTY
+7,967,2,13:33,(13:33) (Shotgun) T.Romo pass short middle to D.McFadden to DAL 45 for 14 yards (M.Kendricks).,10,2,31,DAL 31,0,DAL,
+7,991,1,12:49,(12:49) T.Romo pass short right to G.Swaim to DAL 45 for no gain (M.Jenkins).,10,2,31,DAL 45,0,DAL,
+7,885,1,00:19,(:19) D.McFadden right guard to DAL 13 for -1 yards (M.Jenkins).,10,1,-1,DAL 14,0,DAL,
+7,946,1,14:17,(14:17) D.McFadden up the middle to DAL 31 for no gain (F.Cox; T.Hart).,10,2,17,DAL 31,0,DAL,
+7,1065,3,11:00,(11:00) (Shotgun) T.Romo pass short right to D.McFadden to DAL 41 for 7 yards (M.Kendricks).,21,2,27,DAL 34,0,DAL,
+7,1089,4,10:30,"(10:30) C.Jones punts 44 yards to PHI 15, Center-L.Ladouceur, fair catch by D.Sproles.",14,2,27,DAL 41,0,DAL,PUNT
+7,1019,2,12:04,(12:04) (Shotgun) T.Romo sacked at DAL 39 for -6 yards (C.Thornton).,10,2,25,DAL 45,0,DAL,
+7,906,0,,END QUARTER 1,0,1,-1,,0,,
+7,922,2,15:00,(15:00) (Shotgun) T.Romo pass short left to D.Street to DAL 31 for 18 yards (N.Carroll).,11,2,17,DAL 13,0,DAL,
+6,785,1,01:39,(1:39) (Shotgun) D.Murray right guard to PHI 22 for 2 yards (S.Lee; A.Hitchens).,10,1,2,PHI 20,0,PHI,
+6,827,3,00:37,"(:37) (No Huddle, Shotgun) S.Bradford pass incomplete deep left to M.Austin (T.Patmon).",10,1,0,PHI 20,0,PHI,
+6,770,0,01:39,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback.",0,1,10,DAL 35,0,DAL,KICKOFF
+6,849,4,00:31,"(:31) D.Jones punts 57 yards to DAL 23, Center-J.Dorenbos. C.Beasley to DAL 24 for 1 yard (T.Burton). PHI-T.Burton was injured during the play. His return is Questionable.  PENALTY on DAL-B.Carr, Offensive Holding, 10 yards, enforced at DAL 24.",10,1,0,PHI 20,0,PHI,PUNT
+6,806,2,01:18,"(1:18) (No Huddle, Shotgun) D.Murray right tackle to PHI 20 for -2 yards (B.Church).",8,1,0,PHI 22,0,PHI,
+9,1217,1,09:10,(9:10) J.Randle left end to DAL 26 for 3 yards (W.Thurmond).,15,2,-2,DAL 23,0,DAL,
+9,1260,3,08:16,"(8:16) (Shotgun) T.Romo pass short left to T.Williams to DAL 40 for 14 yards (N.Carroll). PENALTY on DAL-T.Smith, Illegal Formation, 5 yards, enforced at DAL 26 - No Play.",12,2,-7,DAL 26,0,DAL,PENALTY
+9,1238,2,08:24,(8:24) (Shotgun) T.Romo pass incomplete deep right to T.Williams.,12,2,-2,DAL 26,0,DAL,
+9,1194,1,09:10,"(9:10) PENALTY on DAL-M.Bernadeau, False Start, 5 yards, enforced at DAL 28 - No Play.",10,2,-5,DAL 28,0,DAL,PENALTY
+9,1319,4,07:14,"(7:14) C.Jones punts 43 yards to PHI 26, Center-L.Ladouceur, fair catch by D.Sproles.",7,2,3,DAL 31,0,DAL,PUNT
+9,1295,3,07:51,(7:51) (Shotgun) T.Romo pass short right to J.Witten to DAL 31 for 10 yards (K.Alonso).,17,2,3,DAL 21,0,DAL,
+8,1132,2,09:55,(9:55) (No Huddle) R.Mathews up the middle to PHI 17 for no gain (B.Church).,8,2,2,PHI 17,0,PHI,
+8,1175,4,09:22,"(9:22) D.Jones punts 55 yards to DAL 28, Center-J.Dorenbos, downed by PHI-J.Hicks.",8,2,2,PHI 17,0,PHI,PUNT
+8,1153,3,09:26,"(9:26) (No Huddle, Shotgun) S.Bradford pass incomplete short right to Z.Ertz.",8,2,2,PHI 17,0,PHI,
+8,1108,1,10:23,(10:23) (Shotgun) S.Bradford pass short left to D.Sproles to PHI 17 for 2 yards (S.Lee; M.Claiborne).,10,2,2,PHI 15,0,PHI,
+11,1588,1,03:16,"(3:16) T.Romo pass short right to J.Randle to DAL 29 for 6 yards (T.Hart). PENALTY on DAL-Z.Martin, Ineligible Downfield Pass, 5 yards, enforced at DAL 23 - No Play.",10,2,18,DAL 23,0,DAL,PENALTY
+11,1835,1,01:34,"(1:34) (Shotgun) T.Romo sacked at PHI 42 for -3 yards (F.Cox). FUMBLES (F.Cox), RECOVERED by PHI-M.Jenkins at PHI 43. M.Jenkins to PHI 43 for no gain (L.Dunbar). The Replay Official reviewed the fumble ruling, and the play was REVERSED. (Shotgun) T.Romo pass incomplete short right to L.Dunbar.",10,2,45,PHI 39,0,DAL,
+11,1778,2,01:46,(1:46) (Shotgun) T.Romo pass incomplete deep left to L.Dunbar. PHI-M.Kendricks was injured during the play. He is Out.,10,2,79,PHI 44,0,DAL,
+11,2157,1,00:07,(:07) (Shotgun) T.Romo pass incomplete short middle to T.Williams.,10,2,79,PHI 10,0,DAL,
+11,2015,1,00:59,"(:59) (No Huddle, Shotgun) T.Romo pass short left to T.Williams to PHI 20 for 8 yards (N.Carroll).",10,2,69,PHI 28,0,DAL,
+11,1756,1,01:51,(1:51) (Shotgun) T.Romo pass incomplete short right to T.Williams (B.Maxwell).,10,2,45,PHI 44,0,DAL,
+11,2179,2,00:02,"(:02) D.Bailey 28 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",10,2,79,PHI 10,1,DAL,FG
+11,1564,3,03:58,(3:58) (Shotgun) T.Romo pass short left to J.Witten to DAL 23 for 5 yards (J.Hicks).,3,2,12,DAL 18,0,DAL,
+11,2039,2,00:37,"(:37) (No Huddle, Shotgun) T.Romo scrambles right end ran ob at PHI 8 for 12 yards.",2,2,81,PHI 20,0,DAL,
+11,1645,2,02:41,(2:41) (Shotgun) T.Romo pass short right to J.Witten to DAL 29 for 11 yards (J.Hicks).,15,2,23,DAL 18,0,DAL,
+11,1669,0,02:00,Two-Minute Warning,0,2,18,,0,,
+11,1991,1,01:27,(1:27) (Shotgun) T.Romo pass short right to J.Witten to PHI 28 for 11 yards (B.Maxwell; D.Ryans).,10,2,61,PHI 39,0,DAL,
+11,1934,2,01:31,"(1:31) (Shotgun) PENALTY on DAL-J.Witten, False Start, 5 yards, enforced at PHI 39 - No Play.",10,2,45,PHI 39,0,DAL,PENALTY
+11,1958,2,01:31,"(1:31) (Shotgun) T.Romo pass incomplete short left to J.Witten. PENALTY on PHI-D.Ryans, Illegal Use of Hands, 5 yards, enforced at PHI 44 - No Play.",15,2,50,PHI 44,0,DAL,PENALTY
+11,1623,1,02:43,(2:43) (Shotgun) T.Romo pass incomplete short right to C.Beasley.,15,2,23,DAL 18,0,DAL,
+11,2124,2,00:11,"(:11) (Shotgun) T.Romo pass incomplete short middle to B.Butler. PENALTY on PHI-B.Maxwell, Illegal Contact, 5 yards, enforced at PHI 15 - No Play.",15,2,79,PHI 15,0,DAL,PENALTY
+11,1800,3,01:40,"(1:40) (Shotgun) T.Romo pass short right to C.Beasley ran ob at PHI 35 for 9 yards. PENALTY on PHI-D.Ryans, Defensive Holding, 5 yards, enforced at PHI 44 - No Play.",10,2,50,PHI 44,0,DAL,PENALTY
+11,2084,2,00:11,"(:11) (No Huddle, Shotgun) PENALTY on DAL-D.Free, False Start, 5 yards, enforced at PHI 10 - No Play.",10,2,74,PHI 10,0,DAL,PENALTY
+11,1721,1,02:00,"(2:00) (Shotgun) T.Romo pass short left to J.Witten to DAL 41 for 7 yards (W.Thurmond). PENALTY on PHI-V.Curry, Unnecessary Roughness, 15 yards, enforced at DAL 41.",10,2,45,DAL 34,0,DAL,PENALTY
+11,1535,0,03:58,Timeout #2 by DAL at 03:58.,0,2,7,,0,,TIMEOUT
+11,1687,3,02:00,"(2:00) (Shotgun) PENALTY on PHI-V.Curry, Neutral Zone Infraction, 5 yards, enforced at DAL 29 - No Play.",4,2,23,DAL 29,0,DAL,PENALTY
+11,2060,1,00:30,(:30) (Shotgun) T.Romo pass short left to C.Beasley to PHI 10 for -2 yards (M.Jenkins).,8,2,79,PHI 8,0,DAL,
+11,1514,2,04:49,(4:49) J.Randle right end to DAL 18 for 2 yards (M.Kendricks).,5,2,7,DAL 16,0,DAL,
+11,1478,1,05:24,(5:24) T.Romo pass short right to J.Witten to DAL 16 for 5 yards (D.Ryans).,10,2,5,DAL 11,0,DAL,
+11,2107,0,00:11,Timeout #3 by DAL at 00:11.,0,2,74,,0,,TIMEOUT
+10,1418,3,05:50,(5:50) (Shotgun) S.Bradford pass short left to D.Sproles ran ob at PHI 20 for 5 yards.,21,2,-6,PHI 15,0,PHI,
+10,1442,4,05:38,"(5:38) D.Jones punts 59 yards to DAL 21, Center-J.Dorenbos. C.Beasley to DAL 28 for 7 yards (R.Cooper). Penalty on DAL-D.Wilson, Illegal Block Above the Waist, declined. PENALTY on DAL-J.Wilcox, Offensive Holding, 10 yards, enforced at DAL 21.",16,2,-6,PHI 20,0,PHI,PUNT
+10,1362,2,06:44,(6:44) (No Huddle) D.Murray left end to PHI 25 for -3 yards (S.Lee).,8,2,-1,PHI 28,0,PHI,
+10,1338,1,07:07,(7:07) (Shotgun) S.Bradford pass short left to Z.Ertz to PHI 28 for 2 yards (B.Church).,10,2,2,PHI 26,0,PHI,
+10,1383,3,06:08,"(6:08) (No Huddle, Shotgun) S.Bradford pass short right to D.Sproles to PHI 37 for 12 yards (B.Church). PENALTY on PHI-Z.Ertz, Offensive Pass Interference, 10 yards, enforced at PHI 25 - No Play.",11,2,-11,PHI 25,0,PHI,PENALTY
+13,2378,1,12:35,(12:35) (Shotgun) S.Bradford pass incomplete short middle to N.Agholor (T.Patmon).,10,3,0,PHI 20,0,PHI,
+13,2422,3,12:25,"(12:25) (No Huddle, Shotgun) S.Bradford pass incomplete deep left to R.Cooper.",10,3,0,PHI 20,0,PHI,
+13,2363,0,12:35,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback.",0,3,0,DAL 35,0,DAL,KICKOFF
+13,2444,4,12:21,"(12:21) D.Jones punts 48 yards to DAL 32, Center-J.Dorenbos, fair catch by C.Beasley.",10,3,0,PHI 20,0,PHI,PUNT
+13,2400,2,12:29,"(12:29) (No Huddle, Shotgun) S.Bradford pass incomplete short middle to Z.Ertz.",10,3,0,PHI 20,0,PHI,
+12,2212,0,15:00,D.Bailey kicks 66 yards from DAL 35 to PHI -1. J.Huff to PHI 20 for 21 yards (D.Wilson).,0,3,0,DAL 35,0,DAL,KICKOFF
+12,2324,4,12:44,"(12:44) D.Jones punt is BLOCKED by D.McCray, Center-J.Dorenbos, RECOVERED by DAL-K.Wilber at PHI 26. K.Wilber for 26 yards, TOUCHDOWN.",10,3,12,PHI 32,1,PHI,TD
+12,2300,3,13:16,"(13:16) (No Huddle, Shotgun) S.Bradford pass short left to D.Sproles to PHI 32 for 11 yards (N.Hayden).",21,3,12,PHI 21,0,PHI,
+12,2279,2,13:55,(13:55) (No Huddle) D.Murray left end to PHI 21 for -5 yards (J.Mincey).,16,3,1,PHI 26,0,PHI,
+12,2234,1,14:53,(14:53) (Shotgun) S.Bradford pass short right to N.Agholor to PHI 32 for 12 yards (S.Lee).,10,3,12,PHI 20,0,PHI,
+12,2258,1,14:26,"(14:26) (No Huddle, Shotgun) D.Murray right end to PHI 26 for -6 yards (D.Lawrence).",10,3,6,PHI 32,0,PHI,
+15,2860,1,06:48,"(6:48) (No Huddle, Shotgun) S.Bradford pass short left to J.Huff to DAL 7 for 9 yards (S.Lee).",10,3,54,DAL 16,0,PHI,
+15,2779,2,07:51,"(7:51) (No Huddle, Shotgun) S.Bradford pass incomplete deep left to J.Matthews. PENALTY on DAL-T.Patmon, Defensive Pass Interference, 16 yards, enforced at DAL 46 - No Play.",15,3,58,DAL 46,0,PHI,PENALTY
+15,2658,2,09:28,"(9:28) (No Huddle, Shotgun) S.Bradford pass short right to D.Murray to DAL 48 for 18 yards (B.Church; J.Crawford).",15,3,13,PHI 34,0,PHI,
+15,2908,1,05:33,"(5:33) (No Huddle, Shotgun) S.Bradford pass incomplete short middle to N.Agholor.",3,3,58,DAL 3,0,PHI,
+15,2884,2,06:10,"(6:10) (No Huddle, Shotgun) S.Bradford pass short right to D.Murray to DAL 3 for 4 yards (M.Claiborne).",1,3,58,DAL 7,0,PHI,
+15,2714,2,08:42,"(8:42) (No Huddle, Shotgun) S.Bradford pass incomplete short middle to Z.Ertz (D.Lawrence). PENALTY on DAL-D.Lawrence, Defensive Holding, 5 yards, enforced at DAL 46 - No Play.",8,3,15,DAL 46,0,PHI,PENALTY
+15,2625,1,09:44,(9:44) (Shotgun) S.Bradford sacked at PHI 34 for -5 yards (A.Hitchens).,10,3,15,PHI 39,0,PHI,
+15,2812,1,07:47,"(7:47) (No Huddle, Shotgun) S.Bradford pass short middle to Z.Ertz to DAL 21 for 9 yards (S.Lee; A.Hitchens).",10,3,40,DAL 30,0,PHI,
+15,2930,2,05:28,"(5:28) (No Huddle, Shotgun) S.Bradford pass short middle intended for Z.Ertz INTERCEPTED by S.Lee at DAL -7. Touchback.",3,3,58,DAL 3,0,PHI,INT
+15,2836,2,07:12,"(7:12) (No Huddle, Shotgun) S.Bradford pass short left to D.Sproles pushed ob at DAL 16 for 5 yards (M.Claiborne).",1,3,54,DAL 21,0,PHI,
+15,2758,1,08:37,"(8:37) (No Huddle, Shotgun) D.Murray left end pushed ob at DAL 46 for -5 yards (B.Church).",10,3,58,DAL 41,0,PHI,
+15,2683,1,09:03,"(9:03) (No Huddle, Shotgun) S.Bradford pass short right to D.Murray pushed ob at DAL 46 for 2 yards (S.Lee).",10,3,15,DAL 48,0,PHI,
+14,2568,1,10:37,(10:37) J.Randle right end to PHI 33 for -1 yards (F.Cox).,10,3,35,PHI 32,0,DAL,
+14,2522,2,11:11,(11:11) (Shotgun) T.Romo pass incomplete short left to D.Street.,13,3,-3,DAL 29,0,DAL,
+14,2489,2,11:41,"(11:41) J.Randle right end to DAL 39 for 3 yards (D.Ryans). PENALTY on DAL-Z.Martin, Offensive Holding, 10 yards, enforced at DAL 39.",6,3,35,DAL 36,0,DAL,PENALTY
+14,2589,2,09:54,"(9:54) (Shotgun) T.Romo sacked at PHI 41 for -8 yards (J.Hicks). FUMBLES (J.Hicks), RECOVERED by PHI-F.Cox at PHI 39. F.Cox to PHI 39 for no gain (M.Bernadeau). DAL-T.Romo was injured during the play. He is Out.",11,3,29,PHI 33,0,DAL,FUMBLE
+14,2463,1,12:13,(12:13) J.Randle right end pushed ob at DAL 36 for 4 yards (J.Hicks).,10,3,4,DAL 32,0,DAL,
+14,2544,3,11:07,(11:07) (Shotgun) T.Romo pass deep right to L.Dunbar ran ob at PHI 32 for 39 yards.,13,3,36,DAL 29,0,DAL,
+17,3210,0,,END QUARTER 3,0,3,49,,0,,
+17,3106,1,01:33,(1:33) (Shotgun) S.Bradford scrambles right end to PHI 29 for 9 yards (D.Lawrence).,10,3,9,PHI 20,0,PHI,
+17,3226,1,15:00,(15:00) (Shotgun) D.Murray left end to DAL 28 for 3 yards (D.Lawrence).,10,4,52,DAL 31,0,PHI,
+17,3247,2,14:33,(14:33) (No Huddle) S.Bradford pass incomplete short right to R.Cooper (S.Lee).,7,4,52,DAL 28,0,PHI,
+17,3127,2,00:57,"(:57) (No Huddle, Shotgun) S.Bradford pass incomplete deep right to J.Matthews.",1,3,9,PHI 29,0,PHI,
+17,3170,1,00:16,"(:16) (No Huddle, Shotgun) S.Bradford pass short right to D.Murray pushed ob at DAL 46 for 22 yards (S.Lee). PENALTY on DAL-D.Bailey, Unsportsmanlike Conduct, 15 yards, enforced at DAL 46.",10,3,49,PHI 32,0,PHI,PENALTY
+17,3269,3,14:26,"(14:26) (No Huddle, Shotgun) S.Bradford pass incomplete deep right to N.Agholor.",7,4,52,DAL 28,0,PHI,
+17,3149,3,00:52,"(:52) (No Huddle, Shotgun) D.Murray up the middle to PHI 32 for 3 yards (N.Hayden).",1,3,12,PHI 29,0,PHI,
+17,3291,4,14:21,"(14:21) C.Parkey 46 yard field goal is GOOD, Center-J.Dorenbos, Holder-D.Jones.",7,4,52,DAL 28,1,PHI,FG
+16,2996,2,04:19,(4:19) (Shotgun) B.Weeden pass short middle to C.Beasley to DAL 30 for 9 yards (M.Jenkins).,9,3,10,DAL 21,0,DAL,
+16,3020,1,03:45,(3:45) J.Randle right end to DAL 34 for 4 yards (M.Jenkins).,10,3,14,DAL 30,0,DAL,
+16,3062,3,02:21,(2:21) (Shotgun) B.Weeden pass short right to L.Dunbar to DAL 39 for 2 yards (N.Carroll).,3,3,19,DAL 37,0,DAL,
+16,3041,2,03:04,(3:04) J.Randle right end to DAL 37 for 3 yards (C.Barwin).,6,3,17,DAL 34,0,DAL,
+16,2973,2,04:42,"(4:42) PENALTY on DAL-T.Smith, False Start, 5 yards, enforced at DAL 26 - No Play.",4,3,1,DAL 26,0,DAL,PENALTY
+16,3086,4,01:46,"(1:46) C.Jones punts 61 yards to end zone, Center-L.Ladouceur, Touchback.",1,3,19,DAL 39,0,DAL,PUNT
+16,2952,1,05:24,(5:24) J.Randle left end to DAL 26 for 6 yards (W.Thurmond).,10,3,6,DAL 20,0,DAL,
+19,3596,1,07:15,"(7:15) S.Bradford FUMBLES (Aborted) at DAL 30, RECOVERED by DAL-N.Hayden at DAL 32. N.Hayden to DAL 32 for no gain (S.Bradford). Penalty on PHI, Illegal Motion, declined.",10,4,-2,DAL 30,0,PHI,FUMBLE
+18,3508,2,08:38,"(8:38) D.McFadden right end to PHI 27 for 3 yards (M.Jenkins; B.Maxwell). PENALTY on DAL-G.Swaim, Offensive Holding, 10 yards, enforced at PHI 30 - No Play.",1,4,33,PHI 30,0,DAL,PENALTY
+18,3561,3,07:31,"(7:31) (Shotgun) B.Weeden pass short left to G.Escobar to PHI 35 for 4 yards (B.Maxwell). FUMBLES (B.Maxwell), RECOVERED by PHI-M.Jenkins at PHI 36. M.Jenkins to DAL 30 for 34 yards (L.Collins).",10,4,37,PHI 39,0,DAL,FUMBLE
+18,3463,2,09:58,(9:58) (Shotgun) B.Weeden pass short right to C.Beasley pushed ob at PHI 39 for 6 yards (C.Barwin).,6,4,34,PHI 45,0,DAL,
+18,3379,1,12:43,(12:43) D.McFadden left end to DAL 42 for 2 yards (C.Barwin).,10,4,15,DAL 40,0,DAL,
+18,3421,3,11:21,(11:21) D.McFadden left tackle to PHI 49 for 3 yards (J.Hicks).,2,4,24,DAL 48,0,DAL,
+18,3540,2,08:12,(8:12) J.Randle right end to PHI 39 for 1 yard (W.Thurmond; B.Logan).,11,4,34,PHI 40,0,DAL,
+18,3487,1,09:23,(9:23) D.McFadden right guard to PHI 30 for 9 yards (M.Jenkins).,10,4,43,PHI 39,0,DAL,
+18,3442,1,10:39,(10:39) D.McFadden left end to PHI 45 for 4 yards (J.Hicks).,10,4,28,PHI 49,0,DAL,
+18,3400,2,12:02,(12:02) D.McFadden left end to DAL 48 for 6 yards (W.Thurmond).,8,4,21,DAL 42,0,DAL,
+18,3337,1,14:09,(14:09) D.McFadden up the middle to DAL 31 for 4 yards (C.Thornton).,10,4,4,DAL 27,0,DAL,
+18,3310,0,14:17,C.Parkey kicks 69 yards from PHI 35 to DAL -4. L.Dunbar ran ob at DAL 27 for 31 yards (M.Jenkins).,0,4,0,PHI 35,0,PHI,KICKOFF
+18,3358,2,13:23,(13:23) (Shotgun) B.Weeden scrambles left end to DAL 40 for 9 yards.,6,4,13,DAL 31,0,DAL,

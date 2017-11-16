@@ -1,166 +1,166 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1559,1,06:46,,10,2,27,PIT 30,0,PIT,
-9,1600,1,05:59,,10,2,39,JAC 43,0,PIT,
-9,1668,2,04:24,,6,2,47,JAC 27,0,PIT,
-9,1763,1,02:12,,7,2,63,JAC 7,0,PIT,
-9,1734,2,02:41,,8,2,63,JAC 16,0,PIT,
-9,1689,3,03:58,,2,2,52,JAC 23,0,PIT,
-9,1785,2,02:05,,7,2,69,JAC 7,0,PIT,
-9,1645,2,04:40,,1,2,43,JAC 22,0,PIT,PENALTY
-9,1624,1,05:18,,10,2,48,JAC 31,0,PIT,
-9,1583,0,05:59,,0,2,27,,0,,TIMEOUT
-9,1847,0,01:53,,0,2,70,JAC 2,1,PIT,XP
-9,1809,0,01:58,,0,2,69,,0,,
-9,1710,1,03:21,,10,2,54,JAC 18,0,PIT,
-9,1826,3,01:58,,1,2,70,JAC 1,1,PIT,TD
-18,3450,2,08:56,,10,4,1,PIT 18,0,PIT,
-18,3604,4,05:38,,1,4,22,PIT 40,0,PIT,FUMBLE
-18,3422,1,09:28,,10,4,0,PIT 18,0,PIT,
-18,3537,3,06:16,,1,4,22,PIT 40,0,PIT,TIMEOUT
-18,3495,1,07:32,,10,4,18,PIT 31,0,PIT,
-18,3471,3,08:11,,9,4,13,PIT 19,0,PIT,
-18,3516,2,06:59,,5,4,22,PIT 36,0,PIT,
-6,1146,0,12:24,,0,2,0,PIT 30,0,PIT,KICKOFF
-6,1167,1,12:24,,10,2,-10,JAC 27,0,JAC,PENALTY
-6,1284,2,10:43,,28,2,-18,JAC 9,0,JAC,INT
-6,1080,0,12:35,,0,2,0,PIT 35,0,PIT,PENALTY
-6,1210,1,11:54,,20,2,-18,JAC 17,0,JAC,PENALTY
-6,1113,0,12:31,,0,2,0,PIT 30,0,PIT,
-6,1260,1,11:25,,29,2,-18,JAC 8,0,JAC,
-14,2916,4,03:20,,3,3,68,PIT 18,1,JAC,FG
-14,2849,1,04:27,,10,3,66,PIT 25,0,JAC,
-14,2774,2,05:24,,4,3,46,JAC 40,0,JAC,
-14,2873,2,04:03,,5,3,68,PIT 20,0,JAC,
-14,2732,1,06:33,,10,3,20,JAC 14,0,JAC,
-14,2894,3,03:25,,3,3,68,PIT 18,0,JAC,
-14,2753,1,06:05,,10,3,26,JAC 34,0,JAC,
-14,2798,1,04:38,,10,3,61,PIT 40,0,JAC,
-7,1311,1,10:35,,10,2,1,PIT 45,0,PIT,
-7,1361,1,09:30,,10,2,8,JAC 41,0,PIT,
-7,1409,3,08:11,,15,2,9,JAC 46,0,PIT,
-7,1332,2,10:07,,9,2,14,PIT 46,0,PIT,
-7,1431,4,08:05,,15,2,9,JAC 46,0,PIT,PUNT
-7,1380,2,08:46,,16,2,9,JAC 47,0,PIT,
-8,1499,3,07:19,,7,2,9,JAC 23,0,JAC,
-8,1528,4,06:58,,1,2,9,JAC 29,0,JAC,PUNT
-8,1449,1,07:55,,10,2,3,JAC 20,0,JAC,
-8,1470,2,07:23,,7,2,3,JAC 23,0,JAC,
-10,2108,2,00:22,,5,2,63,PIT 12,0,JAC,
-10,2130,3,00:18,,5,2,58,PIT 12,0,JAC,PENALTY
-10,1885,1,01:47,,10,2,6,JAC 25,0,JAC,
-10,1933,1,00:59,,10,2,37,JAC 44,0,JAC,
-10,2025,3,00:43,,6,2,58,PIT 34,0,JAC,
-10,1909,2,01:22,,4,2,19,JAC 31,0,JAC,
-10,2153,3,00:18,,10,2,58,PIT 17,0,JAC,
-10,1974,1,00:52,,10,2,37,PIT 38,0,JAC,
-10,1863,0,01:53,,0,2,0,PIT 35,0,PIT,KICKOFF
-10,1996,2,00:47,,10,2,41,PIT 38,0,JAC,
-10,1957,0,00:52,,0,2,37,,0,,TIMEOUT
-10,2086,1,00:27,,5,2,63,PIT 12,0,JAC,
-10,2175,4,00:13,,10,2,58,PIT 17,1,JAC,FG
-10,2049,1,00:27,,10,2,63,PIT 17,0,JAC,PENALTY
-19,3716,4,04:13,,5,4,5,JAC 24,0,JAC,PUNT
-19,3694,3,04:18,,5,4,5,JAC 24,0,JAC,
-19,3673,2,04:56,,4,4,5,JAC 25,0,JAC,
-19,3643,1,05:28,,10,4,6,JAC 19,0,JAC,
-12,2361,3,12:41,,10,3,15,JAC 35,0,JAC,
-12,2335,2,13:18,,4,3,11,JAC 41,0,JAC,FUMBLE
-12,2385,4,12:10,,6,3,15,JAC 39,0,JAC,PUNT
-12,2314,1,13:43,,10,3,17,JAC 35,0,JAC,
-12,2247,0,15:00,,0,3,0,PIT 35,0,PIT,KICKOFF
-12,2269,1,14:56,,10,3,0,JAC 24,0,JAC,
-12,2290,2,14:16,,10,3,11,JAC 24,0,JAC,
-16,3240,2,11:40,,12,4,-2,JAC 15,1,JAC,TD
-16,3212,1,12:24,,10,4,-2,JAC 17,0,JAC,
-11,2231,0,,,0,2,3,,0,,
-11,2210,1,00:09,,10,2,3,PIT 20,0,PIT,
-11,2195,0,00:09,,0,2,0,JAC 35,0,JAC,KICKOFF
-3,639,1,03:57,,10,1,15,PIT 24,0,PIT,
-3,681,3,02:31,,4,1,17,PIT 30,0,PIT,
-3,590,1,05:10,,10,1,7,PIT 13,0,PIT,
-3,552,0,05:17,,0,1,0,JAC 35,0,JAC,KICKOFF
-3,660,2,03:14,,6,1,17,PIT 28,0,PIT,
-3,703,4,02:27,,4,1,17,PIT 30,0,PIT,PUNT
-3,618,2,04:31,,3,1,11,PIT 20,0,PIT,
-17,3346,2,10:18,,8,4,14,JAC 33,0,JAC,
-17,3279,0,11:32,,0,4,0,PIT 35,0,PIT,KICKOFF
-17,3396,4,09:39,,1,4,21,JAC 40,0,JAC,PUNT
-17,3301,1,11:27,,10,4,12,JAC 19,0,JAC,
-17,3325,1,10:54,,10,4,14,JAC 31,0,JAC,
-17,3372,3,10:14,,8,4,21,JAC 33,0,JAC,
-4,751,2,02:09,,10,1,9,JAC 21,0,JAC,
-4,779,0,01:28,,0,1,9,,0,,TIMEOUT
-4,818,4,01:23,,1,1,9,JAC 30,0,JAC,PUNT
-4,796,3,01:28,,1,1,9,JAC 30,0,JAC,
-4,729,1,02:14,,10,1,0,JAC 21,0,JAC,
-2,314,0,09:41,,0,1,32,,0,,TIMEOUT
-2,331,4,09:41,,1,1,34,PIT 36,0,JAC,
-2,198,3,12:50,,2,1,10,JAC 40,0,JAC,
-2,151,1,13:25,,10,1,0,JAC 32,0,JAC,
-2,407,3,08:15,,10,1,45,PIT 34,0,JAC,
-2,386,2,08:53,,10,1,34,PIT 34,0,JAC,
-2,352,1,08:59,,10,1,34,PIT 34,0,JAC,
-2,243,1,11:41,,10,1,25,PIT 45,0,JAC,
-2,532,4,05:22,,12,1,43,PIT 25,1,JAC,FG
-2,264,2,11:03,,8,1,31,PIT 43,0,JAC,
-2,508,3,06:04,,17,1,43,PIT 30,0,JAC,
-2,489,2,06:45,,13,1,38,PIT 26,0,JAC,
-2,288,3,10:23,,2,1,32,PIT 37,0,JAC,FUMBLE
-2,460,1,07:16,,20,1,42,PIT 33,0,JAC,
-2,428,1,07:45,,10,1,35,PIT 23,0,JAC,PENALTY
-2,174,2,13:19,,10,1,8,JAC 32,0,JAC,
-2,219,1,12:13,,10,1,23,JAC 42,0,JAC,
-1,125,4,13:37,,5,1,5,PIT 25,0,PIT,PUNT
-1,39,0,15:00,,0,1,0,JAC 35,0,JAC,KICKOFF
-1,103,3,13:42,,5,1,5,PIT 25,0,PIT,
-1,79,2,14:21,,5,1,5,PIT 25,0,PIT,
-1,58,1,15:00,,10,1,5,PIT 20,0,PIT,
-5,995,1,14:10,,4,2,67,JAC 4,0,PIT,
-5,1041,3,13:26,,4,2,65,JAC 4,0,PIT,
-5,843,1,01:10,,10,1,0,PIT 29,0,PIT,
-5,1060,4,12:39,,6,2,65,JAC 6,1,PIT,FG
-5,966,2,15:00,,10,2,67,JAC 27,0,PIT,
-5,950,0,,,0,1,44,,0,,
-5,1019,2,13:31,,4,2,67,JAC 4,0,PIT,
-5,900,1,00:33,,10,1,44,PIT 44,0,PIT,
-5,876,2,01:05,,10,1,15,PIT 29,0,PIT,
-5,921,1,00:00,,10,1,44,JAC 27,0,PIT,
-13,2511,1,10:35,,10,3,39,PIT 32,0,PIT,
-13,2421,1,11:58,,10,3,0,PIT 10,0,PIT,
-13,2464,3,11:09,,9,3,22,PIT 11,0,PIT,PENALTY
-13,2636,1,07:36,,20,3,45,50,0,PIT,
-13,2601,1,07:59,,10,3,40,JAC 40,0,PIT,PENALTY
-13,2701,4,06:40,,15,3,45,JAC 45,0,PIT,PUNT
-13,2535,1,09:56,,10,3,47,PIT 49,0,PIT,
-13,2443,2,11:52,,10,3,1,PIT 10,0,PIT,
-13,2556,2,09:21,,2,3,48,JAC 43,0,PIT,
-13,2679,3,06:47,,15,3,45,JAC 45,0,PIT,
-13,2657,2,06:52,,15,3,45,JAC 45,0,PIT,
-13,2577,3,08:37,,1,3,50,JAC 42,0,PIT,
-15,2958,1,03:10,,10,3,2,PIT 12,0,PIT,
-15,2936,0,03:16,,0,3,0,JAC 35,0,JAC,KICKOFF
-15,3158,2,13:11,,4,4,75,JAC 14,0,PIT,
-15,3072,0,,,0,3,54,,0,,
-15,3048,2,00:41,,5,3,54,JAC 45,0,PIT,
-15,2979,2,02:28,,8,3,8,PIT 14,0,PIT,
-15,3027,1,01:11,,10,3,43,50,0,PIT,
-15,3089,1,15:00,,10,4,63,JAC 34,0,PIT,
-15,3182,3,12:32,,3,4,71,JAC 13,0,PIT,FUMBLE
-15,3113,2,14:28,,1,4,68,JAC 25,0,PIT,
-15,3003,3,01:44,,2,3,38,PIT 20,0,PIT,
-15,3134,1,13:50,,10,4,74,JAC 20,0,PIT,
-20,3964,1,01:52,,10,4,47,JAC 17,0,PIT,
-20,3740,1,04:05,,10,4,-1,PIT 36,0,PIT,
-20,3840,1,03:08,,10,4,22,JAC 43,0,PIT,
-20,3923,0,02:00,,0,4,31,,0,,
-20,3799,3,03:14,,2,4,21,PIT 44,0,PIT,
-20,3823,0,03:08,,0,4,21,,0,,TIMEOUT
-20,3861,0,03:03,,0,4,22,,0,,TIMEOUT
-20,4007,3,00:38,,11,4,45,JAC 18,0,PIT,
-20,4028,0,00:00,,0,4,45,,0,,
-20,3782,0,03:14,,0,4,8,,0,,TIMEOUT
-20,3761,2,03:23,,11,4,8,PIT 35,0,PIT,
-20,3985,2,01:19,,10,4,46,JAC 17,0,PIT,
-20,3902,3,02:19,,1,4,31,JAC 34,0,PIT,
-20,3878,2,03:03,,9,4,30,JAC 42,0,PIT,
-20,3940,1,02:00,,10,4,47,JAC 33,0,PIT,
+11,2231,0,,END QUARTER 2,0,2,3,,0,,
+11,2210,1,00:09,(:09) L.Blount up the middle to PIT 23 for 3 yards (A.Jones).,10,2,3,PIT 20,0,PIT,
+11,2195,0,00:09,"J.Scobee kicks 65 yards from JAC 35 to end zone, Touchback.",0,2,0,JAC 35,0,JAC,KICKOFF
+10,2130,3,00:18,"(:18) (Shotgun) PENALTY on JAC-B.Bortles, Delay of Game, 5 yards, enforced at PIT 12 - No Play.",5,2,58,PIT 12,0,JAC,PENALTY
+10,1996,2,00:47,(:47) (Shotgun) B.Bortles pass short right to A.Hurns ran ob at PIT 34 for 4 yards [J.Worilds].,10,2,41,PIT 38,0,JAC,
+10,2153,3,00:18,(:18) (Shotgun) B.Bortles pass incomplete deep middle to A.Robinson.,10,2,58,PIT 17,0,JAC,
+10,1974,1,00:52,(:52) (Shotgun) B.Bortles pass incomplete short right to A.Robinson (C.Allen).,10,2,37,PIT 38,0,JAC,
+10,2086,1,00:27,(:27) (Shotgun) B.Bortles pass incomplete short left to A.Hurns.,5,2,63,PIT 12,0,JAC,
+10,1957,0,00:52,Timeout #3 by JAC at 00:52.,0,2,37,,0,,TIMEOUT
+10,2049,1,00:27,"(:27) B.Bortles spiked the ball to stop the clock. PENALTY on PIT-T.Polamalu, Defensive Offside, 5 yards, enforced at PIT 17 - No Play.",10,2,63,PIT 17,0,JAC,PENALTY
+10,1933,1,00:59,"(:59) (No Huddle, Shotgun) B.Bortles pass deep left to J.Todman to PIT 38 for 18 yards (M.Mitchell).",10,2,37,JAC 44,0,JAC,
+10,2025,3,00:43,(:43) (Shotgun) B.Bortles pass short right to A.Robinson to PIT 17 for 17 yards (C.Allen).,6,2,58,PIT 34,0,JAC,
+10,1863,0,01:53,S.Suisham kicks 67 yards from PIT 35 to JAC -2. J.Todman to JAC 25 for 27 yards (W.Allen).,0,2,0,PIT 35,0,PIT,KICKOFF
+10,2108,2,00:22,(:22) (Shotgun) B.Bortles pass incomplete short right to A.Hurns (C.Allen).,5,2,63,PIT 12,0,JAC,
+10,2175,4,00:13,"(:13) J.Scobee 35 yard field goal is GOOD, Center-C.Tinker, Holder-B.Anger.",10,2,58,PIT 17,1,JAC,FG
+10,1909,2,01:22,"(1:22) (No Huddle, Shotgun) B.Bortles pass short middle to A.Robinson to JAC 44 for 13 yards (M.Mitchell).",4,2,19,JAC 31,0,JAC,
+10,1885,1,01:47,(1:47) (Shotgun) B.Bortles pass short left to A.Robinson to JAC 31 for 6 yards (W.Gay).,10,2,6,JAC 25,0,JAC,
+13,2464,3,11:09,"(11:09) (Shotgun) B.Roethlisberger pass deep middle to L.Moore to PIT 37 for 26 yards (S.Martin). PENALTY on PIT-L.Moore, Delay of Game, 5 yards, enforced at PIT 37.",9,3,22,PIT 11,0,PIT,PENALTY
+13,2443,2,11:52,(11:52) L.Bell up the middle to PIT 11 for 1 yard (J.Cyprien).,10,3,1,PIT 10,0,PIT,
+13,2601,1,07:59,"(7:59) (No Huddle, Shotgun) B.Roethlisberger pass deep left to A.Brown to JAC 23 for 17 yards (A.Ball). PENALTY on PIT-K.Beachum, Illegal Use of Hands, 10 yards, enforced at JAC 40 - No Play.",10,3,40,JAC 40,0,PIT,PENALTY
+13,2556,2,09:21,(9:21) L.Bell up the middle to JAC 42 for 1 yard (C.Clemons).,2,3,48,JAC 43,0,PIT,
+13,2421,1,11:58,(11:58) (Shotgun) B.Roethlisberger pass incomplete short middle to L.Bell.,10,3,0,PIT 10,0,PIT,
+13,2636,1,07:36,(7:36) L.Bell right end to JAC 45 for 5 yards (P.Posluszny).,20,3,45,50,0,PIT,
+13,2657,2,06:52,(6:52) (Shotgun) B.Roethlisberger pass incomplete short middle to H.Miller.,15,3,45,JAC 45,0,PIT,
+13,2701,4,06:40,"(6:40) B.Wing punts 31 yards to JAC 14, Center-G.Warren, fair catch by A.Sanders.",15,3,45,JAC 45,0,PIT,PUNT
+13,2577,3,08:37,(8:37) B.Roethlisberger pass short right to L.Blount to JAC 40 for 2 yards (J.Cyprien).,1,3,50,JAC 42,0,PIT,
+13,2679,3,06:47,(6:47) (Shotgun) B.Roethlisberger pass incomplete deep left to A.Brown.,15,3,45,JAC 45,0,PIT,
+13,2511,1,10:35,(10:35) (Shotgun) B.Roethlisberger pass deep right to M.Wheaton to PIT 49 for 17 yards (D.McCray).,10,3,39,PIT 32,0,PIT,
+13,2535,1,09:56,(9:56) (No Huddle) L.Bell up the middle to JAC 43 for 8 yards (T.Smith; P.Posluszny).,10,3,47,PIT 49,0,PIT,
+12,2335,2,13:18,"(13:18) (No Huddle, Shotgun) B.Bortles FUMBLES (Aborted) at JAC 41, and recovers at JAC 35. B.Bortles to JAC 35 for no gain (L.Timmons).",4,3,11,JAC 41,0,JAC,FUMBLE
+12,2314,1,13:43,"(13:43) (No Huddle, Shotgun) D.Robinson left end to JAC 41 for 6 yards (C.Heyward; T.Polamalu).",10,3,17,JAC 35,0,JAC,
+12,2290,2,14:16,(14:16) (Shotgun) B.Bortles pass short right to M.Brown to JAC 35 for 11 yards (C.Allen).,10,3,11,JAC 24,0,JAC,
+12,2269,1,14:56,(14:56) (Shotgun) D.Robinson right end to JAC 24 for no gain (L.Timmons).,10,3,0,JAC 24,0,JAC,
+12,2385,4,12:10,"(12:10) B.Anger punts 46 yards to PIT 15, Center-C.Tinker. A.Brown to PIT 20 for 5 yards (J.Thomas). PENALTY on PIT-R.Golden, Illegal Block Above the Waist, 10 yards, enforced at PIT 20.",6,3,15,JAC 39,0,JAC,PUNT
+12,2247,0,15:00,S.Suisham kicks 69 yards from PIT 35 to JAC -4. J.Todman to JAC 24 for 28 yards (V.Williams).,0,3,0,PIT 35,0,PIT,KICKOFF
+12,2361,3,12:41,(12:41) (Shotgun) B.Bortles pass short right to C.Harbor to JAC 39 for 4 yards (M.Mitchell).,10,3,15,JAC 35,0,JAC,
+15,3182,3,12:32,"(12:32) (No Huddle, Shotgun) B.Roethlisberger sacked at JAC 19 for -6 yards (A.Jones). FUMBLES (A.Jones), RECOVERED by JAC-A.Branch at JAC 17. A.Branch to JAC 17 for no gain (M.Pouncey).",3,4,71,JAC 13,0,PIT,FUMBLE
+15,3048,2,00:41,(:41) B.Roethlisberger pass short left to J.Brown to JAC 34 for 11 yards (J.Evans).,5,3,54,JAC 45,0,PIT,
+15,2936,0,03:16,J.Scobee kicks 66 yards from JAC 35 to PIT -1. D.Archer to PIT 12 for 13 yards (C.Loston).,0,3,0,JAC 35,0,JAC,KICKOFF
+15,3113,2,14:28,(14:28) (No Huddle) L.Blount up the middle to JAC 20 for 5 yards (P.Posluszny).,1,4,68,JAC 25,0,PIT,
+15,3027,1,01:11,(1:11) L.Bell right end to JAC 45 for 5 yards (E.Hood).,10,3,43,50,0,PIT,
+15,3072,0,,END QUARTER 3,0,3,54,,0,,
+15,2979,2,02:28,(2:28) B.Roethlisberger pass short middle to L.Bell to PIT 20 for 6 yards (S.Marks).,8,3,8,PIT 14,0,PIT,
+15,2958,1,03:10,(3:10) (Shotgun) D.Archer right end to PIT 14 for 2 yards (R.Miller).,10,3,2,PIT 12,0,PIT,
+15,3003,3,01:44,(1:44) (Shotgun) B.Roethlisberger pass deep left to A.Brown to 50 for 30 yards (W.Blackmon).,2,3,38,PIT 20,0,PIT,
+15,3089,1,15:00,(15:00) (Shotgun) B.Roethlisberger pass short left to J.Brown to JAC 25 for 9 yards (P.Posluszny).,10,4,63,JAC 34,0,PIT,
+15,3158,2,13:11,"(13:11) (No Huddle, Shotgun) B.Roethlisberger pass short left to L.Bell to JAC 13 for 1 yard (P.Posluszny).",4,4,75,JAC 14,0,PIT,
+15,3134,1,13:50,(13:50) (Shotgun) B.Roethlisberger pass short middle to J.Brown to JAC 14 for 6 yards (P.Posluszny).,10,4,74,JAC 20,0,PIT,
+14,2873,2,04:03,(4:03) T.Gerhart up the middle to PIT 18 for 2 yards (A.Moats).,5,3,68,PIT 20,0,JAC,
+14,2916,4,03:20,"(3:20) J.Scobee 36 yard field goal is GOOD, Center-C.Tinker, Holder-B.Anger.",3,3,68,PIT 18,1,JAC,FG
+14,2732,1,06:33,(6:33) S.Johnson up the middle to JAC 34 for 20 yards (C.Allen).,10,3,20,JAC 14,0,JAC,
+14,2849,1,04:27,(4:27) B.Bortles pass short right to C.Harbor to PIT 20 for 5 yards (C.Allen).,10,3,66,PIT 25,0,JAC,
+14,2894,3,03:25,(3:25) (Shotgun) B.Bortles pass incomplete short right to A.Robinson.,3,3,68,PIT 18,0,JAC,
+14,2774,2,05:24,(5:24) B.Bortles pass short right to T.Gerhart to PIT 40 for 20 yards (A.Moats).,4,3,46,JAC 40,0,JAC,
+14,2798,1,04:38,"(4:38) (No Huddle, Shotgun) B.Bortles pass short right to M.Brown to PIT 25 for 15 yards (C.Allen). Penalty on PIT-C.Allen, Defensive Holding, declined.",10,3,61,PIT 40,0,JAC,
+14,2753,1,06:05,(6:05) (No Huddle) S.Johnson left end to JAC 40 for 6 yards (C.Thomas).,10,3,26,JAC 34,0,JAC,
+17,3396,4,09:39,"(9:39) B.Anger punts 47 yards to PIT 13, Center-C.Tinker. A.Brown to PIT 18 for 5 yards (W.Ta'ufo'ou).",1,4,21,JAC 40,0,JAC,PUNT
+17,3346,2,10:18,(10:18) (No Huddle) B.Bortles pass incomplete short left to A.Robinson (W.Gay).,8,4,14,JAC 33,0,JAC,
+17,3372,3,10:14,(10:14) B.Bortles pass short right to A.Hurns to JAC 40 for 7 yards (L.Timmons).,8,4,21,JAC 33,0,JAC,
+17,3325,1,10:54,(10:54) (No Huddle) S.Johnson left end to JAC 33 for 2 yards (T.Polamalu).,10,4,14,JAC 31,0,JAC,
+17,3279,0,11:32,S.Suisham kicks 57 yards from PIT 35 to JAC 8. M.Brown to JAC 19 for 11 yards (V.Williams; Wi.Johnson).,0,4,0,PIT 35,0,PIT,KICKOFF
+17,3301,1,11:27,(11:27) B.Bortles pass short right to W.Ta'ufo'ou to JAC 31 for 12 yards (L.Timmons).,10,4,12,JAC 19,0,JAC,
+16,3240,2,11:40,"(11:40) (Shotgun) B.Bortles pass intended for A.Hurns INTERCEPTED by B.McCain at JAC 22. B.McCain for 22 yards, TOUCHDOWN.",12,4,-2,JAC 15,1,JAC,TD
+16,3212,1,12:24,(12:24) (Shotgun) B.Bortles pass short left to D.Robinson to JAC 15 for -2 yards (J.Harrison).,10,4,-2,JAC 17,0,JAC,
+19,3673,2,04:56,(4:56) (No Huddle) S.Johnson left end to JAC 24 for -1 yards (T.Polamalu).,4,4,5,JAC 25,0,JAC,
+19,3716,4,04:13,"(4:13) (Punt formation) B.Anger punts 40 yards to PIT 36, Center-C.Tinker, fair catch by A.Brown.",5,4,5,JAC 24,0,JAC,PUNT
+19,3643,1,05:28,(5:28) (Shotgun) B.Bortles pass short right to A.Hurns pushed ob at JAC 25 for 6 yards (C.Allen).,10,4,6,JAC 19,0,JAC,
+19,3694,3,04:18,(4:18) (Shotgun) B.Bortles pass incomplete short left to A.Robinson (W.Gay) [B.Keisel].,5,4,5,JAC 24,0,JAC,
+18,3450,2,08:56,(8:56) L.Bell up the middle to PIT 19 for 1 yard (A.Branch).,10,4,1,PIT 18,0,PIT,
+18,3471,3,08:11,(8:11) (Shotgun) B.Roethlisberger pass short middle to L.Bell to PIT 31 for 12 yards (T.Smith).,9,4,13,PIT 19,0,PIT,
+18,3604,4,05:38,"(5:38) B.Wing punts 51 yards to JAC 9, Center-G.Warren. A.Sanders MUFFS catch, and recovers at JAC 12. A.Sanders pushed ob at JAC 19 for 7 yards (B.Webb).",1,4,22,PIT 40,0,PIT,FUMBLE
+18,3422,1,09:28,(9:28) (Shotgun) B.Roethlisberger sacked at PIT 18 for 0 yards (C.Clemons).,10,4,0,PIT 18,0,PIT,
+18,3495,1,07:32,(7:32) (No Huddle) L.Bell up the middle to PIT 36 for 5 yards (P.Posluszny).,10,4,18,PIT 31,0,PIT,
+18,3516,2,06:59,"(6:59) (No Huddle, Shotgun) L.Bell up the middle to PIT 40 for 4 yards (A.Jones).",5,4,22,PIT 36,0,PIT,
+18,3537,3,06:16,"(6:16) Wi.Johnson up the middle to PIT 40 for no gain (R.Bryant). Pittsburgh challenged the first down ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",1,4,22,PIT 40,0,PIT,TIMEOUT
+20,3782,0,03:14,Timeout #1 by JAC at 03:14.,0,4,8,,0,,TIMEOUT
+20,3761,2,03:23,(3:23) (Shotgun) L.Bell up the middle to PIT 44 for 9 yards (J.Cyprien).,11,4,8,PIT 35,0,PIT,
+20,3823,0,03:08,Timeout #2 by JAC at 03:08.,0,4,21,,0,,TIMEOUT
+20,3902,3,02:19,(2:19) L.Blount right end to JAC 33 for 1 yard (P.Posluszny; W.Blackmon).,1,4,31,JAC 34,0,PIT,
+20,3923,0,02:00,Two-Minute Warning,0,4,31,,0,,
+20,3940,1,02:00,(2:00) (Shotgun) B.Roethlisberger pass short left to A.Brown pushed ob at JAC 17 for 16 yards (J.Evans).,10,4,47,JAC 33,0,PIT,
+20,3861,0,03:03,Timeout #3 by JAC at 03:03.,0,4,22,,0,,TIMEOUT
+20,3878,2,03:03,(3:03) B.Roethlisberger pass short left to L.Bell to JAC 34 for 8 yards (J.Thomas).,9,4,30,JAC 42,0,PIT,
+20,3740,1,04:05,(4:05) L.Bell up the middle to PIT 35 for -1 yards (S.Marks).,10,4,-1,PIT 36,0,PIT,
+20,4007,3,00:38,(:38) B.Roethlisberger kneels to JAC 19 for -1 yards.,11,4,45,JAC 18,0,PIT,
+20,3840,1,03:08,(3:08) L.Blount up the middle to JAC 42 for 1 yard (W.Blackmon; T.Alualu).,10,4,22,JAC 43,0,PIT,
+20,3964,1,01:52,(1:52) B.Roethlisberger kneels to JAC 17 for no gain.,10,4,47,JAC 17,0,PIT,
+20,3985,2,01:19,(1:19) B.Roethlisberger kneels to JAC 18 for -1 yards.,10,4,46,JAC 17,0,PIT,
+20,3799,3,03:14,(3:14) (Shotgun) B.Roethlisberger pass short middle to H.Miller to JAC 43 for 13 yards (J.Cyprien).,2,4,21,PIT 44,0,PIT,
+20,4028,0,00:00,END GAME,0,4,45,,0,,
+1,103,3,13:42,(13:42) (Shotgun) B.Roethlisberger pass incomplete short right to M.Wheaton.,5,1,5,PIT 25,0,PIT,
+1,39,0,15:00,"J.Scobee kicks 65 yards from JAC 35 to end zone, Touchback.",0,1,0,JAC 35,0,JAC,KICKOFF
+1,58,1,15:00,(15:00) L.Bell up the middle to PIT 25 for 5 yards (T.Smith; P.Posluszny).,10,1,5,PIT 20,0,PIT,
+1,79,2,14:21,(14:21) (Shotgun) B.Roethlisberger pass short left to D.Heyward-Bey to PIT 25 for no gain (A.Ball).,5,1,5,PIT 25,0,PIT,
+1,125,4,13:37,"(13:37) B.Wing punts 46 yards to JAC 29, Center-G.Warren. A.Sanders to JAC 32 for 3 yards (W.Allen; V.Williams).",5,1,5,PIT 25,0,PIT,PUNT
+3,590,1,05:10,(5:10) (Shotgun) B.Roethlisberger pass short right to D.Archer to PIT 20 for 7 yards (A.Ball).,10,1,7,PIT 13,0,PIT,
+3,618,2,04:31,(4:31) (Shotgun) L.Bell up the middle to PIT 24 for 4 yards (C.Clemons).,3,1,11,PIT 20,0,PIT,
+3,703,4,02:27,"(2:27) B.Wing punts 53 yards to JAC 17, Center-G.Warren. A.Sanders to JAC 21 for 4 yards (T.Garvin).",4,1,17,PIT 30,0,PIT,PUNT
+3,639,1,03:57,(3:57) (Shotgun) L.Bell left end to PIT 28 for 4 yards (J.Cyprien; C.Clemons).,10,1,15,PIT 24,0,PIT,
+3,660,2,03:14,(3:14) L.Bell left end to PIT 30 for 2 yards (C.Clemons).,6,1,17,PIT 28,0,PIT,
+3,552,0,05:17,"J.Scobee kicks 65 yards from JAC 35 to PIT 0. D.Archer pushed ob at PIT 23 for 23 yards (J.Cyprien). PENALTY on PIT-R.Golden, Offensive Holding, 10 yards, enforced at PIT 23.",0,1,0,JAC 35,0,JAC,KICKOFF
+3,681,3,02:31,(2:31) B.Roethlisberger pass incomplete short left to A.Brown.,4,1,17,PIT 30,0,PIT,
+2,151,1,13:25,(13:25) (Shotgun) B.Bortles pass incomplete deep left to A.Hurns [A.Moats].,10,1,0,JAC 32,0,JAC,
+2,508,3,06:04,(6:04) (Shotgun) B.Bortles pass short right to J.Todman to PIT 25 for 5 yards (S.Spence).,17,1,43,PIT 30,0,JAC,
+2,198,3,12:50,(12:50) (Shotgun) T.Gerhart up the middle to JAC 42 for 2 yards (T.Polamalu).,2,1,10,JAC 40,0,JAC,
+2,428,1,07:45,"(7:45) (Shotgun) J.Todman left end to PIT 3 for 20 yards (M.Mitchell). PENALTY on JAC-L.Joeckel, Offensive Holding, 10 yards, enforced at PIT 23 - No Play.",10,1,35,PIT 23,0,JAC,PENALTY
+2,331,4,09:41,(9:41) B.Bortles up the middle to PIT 34 for 2 yards (J.Worilds).,1,1,34,PIT 36,0,JAC,
+2,314,0,09:41,Timeout #1 by JAC at 09:41.,0,1,32,,0,,TIMEOUT
+2,460,1,07:16,(7:16) (Shotgun) B.Bortles pass short left to A.Robinson pushed ob at PIT 26 for 7 yards (W.Gay).,20,1,42,PIT 33,0,JAC,
+2,219,1,12:13,(12:13) B.Bortles pass short left to C.Harbor to PIT 45 for 13 yards (T.Polamalu).,10,1,23,JAC 42,0,JAC,
+2,407,3,08:15,(8:15) (Shotgun) B.Bortles scrambles up the middle to PIT 23 for 11 yards.,10,1,45,PIT 34,0,JAC,
+2,288,3,10:23,"(10:23) B.Bortles FUMBLES (Aborted) at PIT 37, and recovers at PIT 37. B.Bortles to PIT 36 for 1 yard (T.Polamalu).",2,1,32,PIT 37,0,JAC,FUMBLE
+2,386,2,08:53,(8:53) (Shotgun) D.Robinson right end to PIT 34 for no gain (L.Timmons).,10,1,34,PIT 34,0,JAC,
+2,352,1,08:59,(8:59) B.Bortles pass incomplete short right to A.Hurns.,10,1,34,PIT 34,0,JAC,
+2,243,1,11:41,(11:41) T.Gerhart left end to PIT 43 for 2 yards (S.Spence).,10,1,25,PIT 45,0,JAC,
+2,264,2,11:03,(11:03) (Shotgun) B.Bortles pass short right to A.Sanders to PIT 37 for 6 yards (C.Allen).,8,1,31,PIT 43,0,JAC,
+2,489,2,06:45,(6:45) B.Bortles sacked at PIT 30 for -4 yards (J.Worilds).,13,1,38,PIT 26,0,JAC,
+2,174,2,13:19,(13:19) B.Bortles pass short left to A.Robinson ran ob at JAC 40 for 8 yards.,10,1,8,JAC 32,0,JAC,
+2,532,4,05:22,"(5:22) J.Scobee 43 yard field goal is GOOD, Center-C.Tinker, Holder-B.Anger.",12,1,43,PIT 25,1,JAC,FG
+5,995,1,14:10,(14:10) (Shotgun) B.Roethlisberger pass short right to A.Brown to JAC 4 for no gain (D.McCray).,4,2,67,JAC 4,0,PIT,
+5,1041,3,13:26,(13:26) (Shotgun) B.Roethlisberger sacked at JAC 6 for -2 yards (P.Posluszny).,4,2,65,JAC 4,0,PIT,
+5,900,1,00:33,"(:33) (No Huddle, Shotgun) L.Bell right end pushed ob at JAC 27 for 29 yards (W.Blackmon).",10,1,44,PIT 44,0,PIT,
+5,843,1,01:10,(1:10) (Shotgun) B.Roethlisberger pass incomplete short right to A.Brown.,10,1,0,PIT 29,0,PIT,
+5,876,2,01:05,(1:05) (Shotgun) B.Roethlisberger pass short right to A.Brown to PIT 44 for 15 yards (D.McCray).,10,1,15,PIT 29,0,PIT,
+5,950,0,,END QUARTER 1,0,1,44,,0,,
+5,966,2,15:00,(15:00) (Shotgun) B.Roethlisberger pass deep left to A.Brown pushed ob at JAC 4 for 23 yards (A.Ball).,10,2,67,JAC 27,0,PIT,
+5,1019,2,13:31,(13:31) B.Roethlisberger pass incomplete short right to A.Brown.,4,2,67,JAC 4,0,PIT,
+5,1060,4,12:39,"(12:39) S.Suisham 24 yard field goal is GOOD, Center-G.Warren, Holder-B.Wing.",6,2,65,JAC 6,1,PIT,FG
+5,921,1,00:00,"(:00) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short right to A.Brown.",10,1,44,JAC 27,0,PIT,
+4,818,4,01:23,"(1:23) (Punt formation) B.Anger punts 47 yards to PIT 23, Center-C.Tinker. A.Brown to PIT 29 for 6 yards (T.Smith).",1,1,9,JAC 30,0,JAC,PUNT
+4,796,3,01:28,(1:28) B.Bortles pass incomplete short middle to C.Harbor [J.Worilds].,1,1,9,JAC 30,0,JAC,
+4,751,2,02:09,(2:09) (Shotgun) B.Bortles pass short right to A.Hurns to JAC 30 for 9 yards (L.Timmons).,10,1,9,JAC 21,0,JAC,
+4,779,0,01:28,Timeout #2 by JAC at 01:28.,0,1,9,,0,,TIMEOUT
+4,729,1,02:14,(2:14) (Shotgun) B.Bortles pass incomplete short middle to A.Hurns.,10,1,0,JAC 21,0,JAC,
+7,1311,1,10:35,(10:35) (Shotgun) L.Blount up the middle to PIT 46 for 1 yard (T.Alualu; J.Cyprien).,10,2,1,PIT 45,0,PIT,
+7,1431,4,08:05,"(8:05) B.Wing punts 46 yards to end zone, Center-G.Warren, Touchback.",15,2,9,JAC 46,0,PIT,PUNT
+7,1332,2,10:07,"(10:07) (No Huddle, Shotgun) B.Roethlisberger pass short right to L.Blount pushed ob at JAC 41 for 13 yards (J.Cyprien).",9,2,14,PIT 46,0,PIT,
+7,1409,3,08:11,(8:11) (Shotgun) B.Roethlisberger pass incomplete deep left to A.Brown (P.Posluszny).,15,2,9,JAC 46,0,PIT,
+7,1361,1,09:30,(9:30) (Shotgun) B.Roethlisberger sacked at JAC 47 for -6 yards (A.Jones).,10,2,8,JAC 41,0,PIT,
+7,1380,2,08:46,(8:46) (Shotgun) B.Roethlisberger pass short right to D.Archer pushed ob at JAC 46 for 1 yard (P.Posluszny).,16,2,9,JAC 47,0,PIT,
+6,1284,2,10:43,(10:43) B.Bortles pass intended for A.Robinson INTERCEPTED by C.Allen at PIT 45. C.Allen to PIT 45 for no gain (A.Robinson).,28,2,-18,JAC 9,0,JAC,INT
+6,1210,1,11:54,"(11:54) (Shotgun) B.Bortles pass deep right to A.Hurns ran ob at JAC 37 for 20 yards. PENALTY on JAC-L.Bowanko, Offensive Holding, 9 yards, enforced at JAC 17 - No Play.",20,2,-18,JAC 17,0,JAC,PENALTY
+6,1167,1,12:24,"(12:24) S.Johnson up the middle to JAC 36 for 9 yards (C.Allen). Penalty on JAC-L.Bowanko, Offensive Holding, declined. PENALTY on JAC-A.Hurns, Offensive Holding, 10 yards, enforced at JAC 27 - No Play.",10,2,-10,JAC 27,0,JAC,PENALTY
+6,1146,0,12:24,"S.Suisham kicks 43 yards from PIT 30 to JAC 27, fair catch by R.Davis.",0,2,0,PIT 30,0,PIT,KICKOFF
+6,1080,0,12:35,"S.Suisham kicks 72 yards from PIT 35 to JAC -7. J.Todman to JAC 17 for 24 yards (D.Heyward-Bey). PENALTY on PIT-V.Williams, Offensive Offside, 5 yards, enforced at PIT 35 - No Play.",0,2,0,PIT 35,0,PIT,PENALTY
+6,1260,1,11:25,(11:25) (Shotgun) B.Bortles pass short left to D.Robinson to JAC 9 for 1 yard (S.Spence).,29,2,-18,JAC 8,0,JAC,
+6,1113,0,12:31,"S.Suisham kicks 68 yards from PIT 30 to JAC 2. J.Todman to JAC 23 for 21 yards (R.Golden). Penalty on PIT-A.Blake, Offensive Offside, offsetting, enforced at PIT 30 - No Play. Penalty on JAC-J.Thomas, Personal Foul, offsetting.",0,2,0,PIT 30,0,PIT,
+9,1645,2,04:40,"(4:40) PENALTY on PIT-R.Foster, False Start, 5 yards, enforced at JAC 22 - No Play.",1,2,43,JAC 22,0,PIT,PENALTY
+9,1600,1,05:59,(5:59) B.Roethlisberger pass short left to Wi.Johnson to JAC 31 for 12 yards (W.Blackmon).,10,2,39,JAC 43,0,PIT,
+9,1624,1,05:18,(5:18) (Shotgun) L.Blount left end to JAC 22 for 9 yards (T.Smith).,10,2,48,JAC 31,0,PIT,
+9,1559,1,06:46,(6:46) (Shotgun) B.Roethlisberger pass deep right to H.Miller to JAC 43 for 27 yards (D.McCray) [S.Marks].,10,2,27,PIT 30,0,PIT,
+9,1583,0,05:59,Timeout #1 by PIT at 05:59.,0,2,27,,0,,TIMEOUT
+9,1826,3,01:58,"(1:58) B.Roethlisberger pass short right to M.Palmer for 1 yard, TOUCHDOWN.",1,2,70,JAC 1,1,PIT,TD
+9,1847,0,01:53,"S.Suisham extra point is GOOD, Center-G.Warren, Holder-B.Wing.",0,2,70,JAC 2,1,PIT,XP
+9,1734,2,02:41,(2:41) (Shotgun) B.Roethlisberger pass short right to L.Bell pushed ob at JAC 7 for 9 yards (J.Cyprien).,8,2,63,JAC 16,0,PIT,
+9,1809,0,01:58,Two-Minute Warning,0,2,69,,0,,
+9,1785,2,02:05,(2:05) (Shotgun) B.Roethlisberger pass short middle to H.Miller to JAC 1 for 6 yards (J.Cyprien).,7,2,69,JAC 7,0,PIT,
+9,1710,1,03:21,(3:21) B.Roethlisberger pass short middle to L.Blount to JAC 16 for 2 yards (S.Marks).,10,2,54,JAC 18,0,PIT,
+9,1668,2,04:24,(4:24) L.Blount up the middle to JAC 23 for 4 yards (P.Posluszny).,6,2,47,JAC 27,0,PIT,
+9,1689,3,03:58,(3:58) (No Huddle) L.Blount up the middle to JAC 18 for 5 yards (J.Cyprien).,2,2,52,JAC 23,0,PIT,
+9,1763,1,02:12,(2:12) (Shotgun) B.Roethlisberger pass incomplete short right to A.Brown (D.McCray).,7,2,63,JAC 7,0,PIT,
+8,1499,3,07:19,(7:19) (Shotgun) B.Bortles pass short right to A.Sanders ran ob at JAC 29 for 6 yards.,7,2,9,JAC 23,0,JAC,
+8,1470,2,07:23,(7:23) (Shotgun) B.Bortles pass incomplete short left to A.Hurns.,7,2,3,JAC 23,0,JAC,
+8,1528,4,06:58,"(6:58) B.Anger punts 45 yards to PIT 26, Center-C.Tinker. A.Brown pushed ob at PIT 30 for 4 yards (J.Todman).",1,2,9,JAC 29,0,JAC,PUNT
+8,1449,1,07:55,(7:55) T.Gerhart up the middle to JAC 23 for 3 yards (L.Timmons).,10,2,3,JAC 20,0,JAC,

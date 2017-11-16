@@ -1,176 +1,176 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1860,1,01:40,,10,2,5,MIA 6,0,MIA,
-9,2072,1,00:46,,10,2,50,MIA 44,0,MIA,
-9,1898,2,01:35,,5,2,9,MIA 11,0,MIA,
-9,1920,0,01:29,,0,2,9,,0,,TIMEOUT
-9,1958,1,01:04,,10,2,17,MIA 18,0,MIA,
-9,1982,2,01:00,,5,2,25,MIA 23,0,MIA,
-9,2155,1,00:23,,10,2,62,TEN 32,0,MIA,INT
-9,1881,0,01:35,,0,2,5,,0,,TIMEOUT
-9,2096,2,00:43,,9,2,50,MIA 45,0,MIA,
-9,1937,3,01:29,,1,2,12,MIA 15,0,MIA,
-9,2006,0,00:55,,0,2,25,,0,,TIMEOUT
-9,2120,1,00:38,,10,2,62,TEN 44,0,MIA,PENALTY
-9,2055,0,00:46,,0,2,37,,0,,TIMEOUT
-9,2027,1,00:55,,10,2,38,MIA 31,0,MIA,
-10,2210,2,00:09,,10,2,-7,TEN 42,0,TEN,
-10,2181,1,00:14,,10,2,0,TEN 42,0,TEN,
-10,2229,0,,,0,2,-7,,0,,
-20,3561,1,07:33,,10,4,13,TEN 26,0,TEN,
-20,3533,0,07:38,,0,4,0,MIA 35,0,MIA,KICKOFF
-20,3609,2,06:48,,6,4,7,TEN 43,0,TEN,PENALTY
-20,3642,2,06:41,,16,4,21,TEN 33,0,TEN,
-20,3666,3,06:09,,2,4,21,TEN 47,0,TEN,
-20,3585,1,07:10,,10,4,17,TEN 39,0,TEN,
-20,3688,4,06:05,,2,4,21,TEN 47,0,TEN,
-6,1282,1,09:38,,20,2,-10,MIA 41,0,TEN,
-6,1346,3,09:01,,3,2,-4,MIA 24,0,TEN,FUMBLE
-6,1304,2,09:31,,20,2,7,MIA 41,0,TEN,
-6,1249,1,10:03,,10,2,-10,MIA 31,0,TEN,PENALTY
-6,1328,0,09:01,,0,2,7,,0,,TIMEOUT
-18,3227,1,13:15,,10,4,0,MIA 27,0,TEN,INT
-1,201,1,11:14,,10,1,58,TEN 27,0,MIA,PENALTY
-1,132,2,12:57,,6,1,25,MIA 42,0,MIA,
-1,108,1,13:39,,10,1,80,MIA 38,0,MIA,
-1,177,1,11:55,,10,1,80,TEN 49,0,MIA,
-1,66,1,14:53,,10,1,4,MIA 20,0,MIA,
-1,87,2,14:16,,6,1,18,MIA 24,0,MIA,
-1,153,3,12:35,,3,1,80,MIA 45,0,MIA,
-1,251,0,10:39,,0,1,80,TEN 15,1,MIA,XP
-1,36,0,15:00,,0,1,0,TEN 35,0,TEN,KICKOFF
-1,233,1,10:48,,5,1,80,TEN 22,1,MIA,TD
-5,1222,2,10:14,,8,2,22,MIA 49,0,MIA,INT
-5,1198,1,10:50,,10,2,22,MIA 47,0,MIA,
-5,1076,1,11:30,,10,2,22,MIA 27,0,MIA,
-13,2694,1,06:23,,10,3,14,TEN 26,0,TEN,
-13,2590,1,08:49,,10,3,6,TEN 13,0,TEN,
-13,2635,3,07:32,,3,3,-3,TEN 20,0,TEN,PENALTY
-13,2614,2,08:11,,4,3,7,TEN 19,0,TEN,
-13,2715,2,05:50,,9,3,14,TEN 27,1,TEN,TD
-13,2670,3,07:09,,13,3,13,TEN 10,0,TEN,
-21,3887,3,02:00,,8,4,47,TEN 12,1,MIA,TD
-21,3828,1,02:54,,10,4,34,TEN 14,0,MIA,
-21,3849,2,02:14,,9,4,35,TEN 13,0,MIA,
-21,3756,1,04:33,,10,4,21,TEN 30,0,MIA,
-21,3870,0,02:00,,0,4,35,,0,,
-21,3732,2,05:19,,9,4,35,TEN 46,0,MIA,
-21,3711,1,05:59,,10,4,1,TEN 47,0,MIA,
-21,3908,0,01:54,,0,4,47,TEN 15,1,MIA,XP
-21,3807,2,03:42,,1,4,34,TEN 21,0,MIA,
-21,3777,2,03:49,,6,4,26,TEN 26,0,MIA,PENALTY
-11,2288,2,14:12,,7,3,38,TEN 23,0,TEN,
-11,2267,1,14:53,,10,3,3,TEN 20,0,TEN,
-11,2411,4,11:44,,21,3,32,MIA 48,0,TEN,PUNT
-11,2245,0,15:00,,0,3,0,MIA 35,0,MIA,KICKOFF
-11,2366,2,13:06,,15,3,41,MIA 42,0,TEN,
-11,2345,1,13:45,,10,3,38,MIA 37,0,TEN,
-11,2310,3,14:07,,7,3,43,TEN 23,0,TEN,PENALTY
-11,2387,3,12:26,,12,3,32,MIA 39,0,TEN,
-14,2776,1,05:32,,10,3,0,TEN 33,0,TEN,
-14,2843,4,04:03,,12,3,-2,TEN 31,0,TEN,PUNT
-14,2798,2,05:28,,10,3,-4,TEN 33,0,TEN,
-14,2754,0,05:40,,0,3,0,MIA 35,0,MIA,KICKOFF
-14,2819,3,04:47,,14,3,-2,TEN 29,0,TEN,
-8,1800,0,01:56,,0,2,37,,0,,
-8,1840,4,01:51,,22,2,37,MIA 43,0,TEN,PUNT
-8,1781,2,02:01,,10,2,37,MIA 31,0,TEN,
-8,1641,2,04:32,,3,2,10,TEN 27,0,TEN,
-8,1617,1,05:07,,10,2,7,TEN 20,0,TEN,
-8,1759,1,02:06,,10,2,37,MIA 31,0,TEN,
-8,1817,3,01:56,,22,2,37,MIA 43,0,TEN,
-8,1686,1,03:26,,10,2,38,TEN 44,0,TEN,
-8,1593,0,05:07,,0,2,47,MIA 35,0,MIA,KICKOFF
-8,1662,1,03:53,,10,2,24,TEN 30,0,TEN,
-8,1710,1,02:50,,10,2,47,MIA 42,0,TEN,
-8,1738,2,02:26,,1,2,49,MIA 33,0,TEN,
-19,3517,0,07:38,,0,4,97,TEN 15,1,MIA,XP
-19,3344,1,11:09,,10,4,75,TEN 35,0,MIA,
-19,3428,2,09:34,,8,4,84,TEN 20,0,MIA,
-19,3491,2,07:43,,2,4,97,TEN 2,1,MIA,TD
-19,3449,3,08:56,,1,4,90,TEN 13,0,MIA,
-19,3368,1,10:32,,10,4,65,TEN 22,0,MIA,PENALTY
-19,3275,1,13:08,,10,4,38,MIA 3,0,MIA,
-19,3299,1,12:26,,10,4,38,MIA 41,0,MIA,
-19,3320,2,11:51,,10,4,62,MIA 41,0,MIA,
-19,3470,1,08:22,,7,4,95,TEN 7,0,MIA,
-19,3400,1,10:10,,20,4,77,TEN 32,0,MIA,
-22,3970,1,01:50,,10,4,12,TEN 32,0,TEN,
-22,4019,0,01:31,,0,4,19,,0,,TIMEOUT
-22,4058,4,01:26,,3,4,23,TEN 39,0,TEN,
-22,3943,1,01:54,,10,4,12,TEN 20,0,TEN,
-22,4036,3,01:31,,3,4,19,TEN 39,0,TEN,
-22,4175,0,00:04,,0,4,67,,0,,TIMEOUT
-22,4211,0,00:00,,0,4,58,,0,,
-22,3924,0,01:54,,0,4,0,MIA 35,0,MIA,KICKOFF
-22,4103,2,00:38,,3,4,67,50,0,TEN,
-22,3992,2,01:45,,10,4,19,TEN 32,0,TEN,
-22,4149,2,00:16,,10,4,58,MIA 27,0,TEN,
-22,4079,1,01:02,,10,4,30,TEN 43,0,TEN,
-22,4192,1,00:03,,10,4,58,MIA 13,0,TEN,
-22,4127,1,00:17,,10,4,67,MIA 27,0,TEN,
-12,2457,2,11:07,,8,3,7,MIA 23,0,MIA,PENALTY
-12,2480,2,10:53,,3,3,11,MIA 28,0,MIA,
-12,2523,2,09:42,,3,3,19,MIA 39,0,MIA,
-12,2544,3,09:03,,2,3,19,MIA 40,0,MIA,
-12,2566,4,08:58,,2,3,19,MIA 40,0,MIA,PUNT
-12,2501,1,10:18,,10,3,18,MIA 32,0,MIA,
-12,2431,1,11:37,,10,3,2,MIA 21,0,MIA,
-16,3075,0,00:00,,0,3,52,MIA 15,1,TEN,XP
-16,3031,1,00:09,,3,3,49,MIA 3,0,TEN,
-16,3007,2,00:46,,3,3,49,MIA 13,0,TEN,
-16,2962,1,02:15,,10,3,32,TEN 48,0,TEN,
-16,2986,1,01:31,,10,3,39,MIA 20,0,TEN,
-16,3054,2,00:05,,3,3,52,MIA 3,1,TEN,TD
-7,1529,1,05:54,,20,2,27,TEN 20,0,MIA,
-7,1497,1,06:15,,10,2,14,TEN 10,0,MIA,PENALTY
-7,1430,3,07:35,,10,2,13,TEN 34,0,MIA,
-7,1408,2,08:13,,8,2,0,TEN 32,0,MIA,
-7,1571,0,05:07,,0,2,34,TEN 15,1,MIA,XP
-7,1553,2,05:12,,7,2,34,TEN 7,1,MIA,TD
-7,1476,2,06:57,,10,2,24,TEN 21,0,MIA,
-7,1454,1,07:01,,10,2,13,TEN 21,0,MIA,
-7,1376,1,08:46,,10,2,2,TEN 34,0,MIA,
-3,683,1,01:54,,10,1,68,TEN 33,0,MIA,
-3,536,1,05:28,,10,1,6,MIA 20,0,MIA,
-3,620,1,03:53,,10,1,21,MIA 31,0,MIA,
-3,774,0,00:11,,0,1,73,,0,,TIMEOUT
-3,791,4,00:11,,3,1,68,TEN 7,0,MIA,PENALTY
-3,593,2,04:24,,14,1,11,MIA 16,0,MIA,
-3,750,3,00:26,,13,1,73,TEN 17,0,MIA,
-3,641,1,03:16,,10,1,25,MIA 41,0,MIA,
-3,662,2,02:40,,6,1,47,MIA 45,0,MIA,
-3,707,1,01:14,,10,1,63,TEN 14,0,MIA,
-3,728,2,00:29,,13,1,73,TEN 17,0,MIA,
-3,814,4,00:11,,8,1,68,TEN 12,1,MIA,FG
-3,517,0,05:28,,0,1,0,TEN 35,0,TEN,KICKOFF
-3,561,2,04:54,,4,1,-4,MIA 26,0,MIA,PENALTY
-17,3171,3,14:04,,10,4,-10,MIA 22,0,MIA,
-17,3150,2,14:47,,10,4,0,MIA 22,0,MIA,
-17,3106,0,15:00,,0,4,0,TEN 35,0,TEN,KICKOFF
-17,3190,4,13:26,,20,4,-10,MIA 12,0,MIA,PUNT
-17,3128,1,14:54,,10,4,0,MIA 22,0,MIA,
-4,849,1,00:06,,10,1,15,TEN 20,0,TEN,
-4,942,2,13:50,,5,2,32,MIA 41,0,TEN,
-4,889,1,15:00,,10,2,32,TEN 35,0,TEN,PENALTY
-4,1043,3,11:39,,5,2,52,MIA 28,0,TEN,FUMBLE
-4,998,1,13:01,,10,2,50,MIA 33,0,TEN,
-4,873,0,,,0,1,15,,0,,
-4,834,0,00:06,,0,1,0,MIA 35,0,MIA,KICKOFF
-4,1019,2,12:23,,7,2,52,MIA 30,0,TEN,
-4,921,1,14:27,,10,2,39,MIA 46,0,TEN,
-4,961,3,13:06,,12,2,52,MIA 48,0,TEN,PENALTY
-2,406,2,07:22,,6,1,54,MIA 39,0,TEN,
-2,333,1,09:21,,10,1,21,TEN 30,0,TEN,
-2,385,1,08:02,,10,1,41,MIA 43,0,TEN,
-2,430,1,07:00,,10,1,53,MIA 26,0,TEN,
-2,476,3,05:37,,3,1,61,MIA 19,0,TEN,
-2,285,1,10:39,,10,1,-3,TEN 20,0,TEN,
-2,455,2,06:19,,11,1,61,MIA 27,0,TEN,
-2,309,2,10:01,,13,1,10,TEN 17,0,TEN,
-2,364,1,08:44,,10,1,37,TEN 41,0,TEN,
-2,498,4,05:33,,3,1,61,MIA 19,1,TEN,FG
-2,267,0,10:39,,0,1,61,MIA 35,0,MIA,KICKOFF
-15,2879,1,03:45,,10,3,2,MIA 7,0,MIA,
-15,2942,4,02:23,,10,3,0,MIA 7,0,MIA,PUNT
-15,2923,3,03:02,,8,3,0,MIA 9,0,MIA,
-15,2901,2,03:07,,8,3,2,MIA 9,0,MIA,
+20,3561,1,07:33,(7:33) (Shotgun) M.Mariota pass short middle to D.Walker to TEN 39 for 13 yards (R.Jones).,10,4,13,TEN 26,0,TEN,
+20,3585,1,07:10,"(7:10) (No Huddle, Shotgun) M.Mariota pass short middle to D.Walker to TEN 43 for 4 yards (R.Jones).",10,4,17,TEN 39,0,TEN,
+20,3609,2,06:48,"(6:48) (No Huddle, Shotgun) M.Mariota pass incomplete short right. PENALTY on TEN-J.Meredith, Offensive Holding, 10 yards, enforced at TEN 43 - No Play.",6,4,7,TEN 43,0,TEN,PENALTY
+20,3688,4,06:05,(6:05) (Shotgun) M.Mariota pass incomplete short right to H.Douglas (B.Grimes).,2,4,21,TEN 47,0,TEN,
+20,3533,0,07:38,A.Franks kicks 62 yards from MIA 35 to TEN 3. B.Sankey pushed ob at TEN 26 for 23 yards (Z.Vigil).,0,4,0,MIA 35,0,MIA,KICKOFF
+20,3666,3,06:09,(6:09) (No Huddle) M.Mariota pass incomplete short right to D.Green-Beckham (N.Suh).,2,4,21,TEN 47,0,TEN,
+20,3642,2,06:41,(6:41) (Shotgun) M.Mariota pass short left to D.McCluster to TEN 47 for 14 yards (Bo.McCain).,16,4,21,TEN 33,0,TEN,
+21,3887,3,02:00,"(2:00) (Shotgun) R.Tannehill pass short right to J.Cameron for 12 yards, TOUCHDOWN.",8,4,47,TEN 12,1,MIA,TD
+21,3777,2,03:49,"(3:49) R.Tannehill sacked ob at TEN 26 for 0 yards (W.Woodyard). PENALTY on TEN-M.Griffin, Defensive Offside, 5 yards, enforced at TEN 26 - No Play.",6,4,26,TEN 26,0,MIA,PENALTY
+21,3870,0,02:00,Two-Minute Warning,0,4,35,,0,,
+21,3807,2,03:42,(3:42) J.Gray right end to TEN 14 for 7 yards (Z.Brown).,1,4,34,TEN 21,0,MIA,
+21,3908,0,01:54,"A.Franks extra point is GOOD, Center-J.Denney, Holder-M.Darr.",0,4,47,TEN 15,1,MIA,XP
+21,3828,1,02:54,(2:54) J.Gray up the middle to TEN 13 for 1 yard (W.Woodyard).,10,4,34,TEN 14,0,MIA,
+21,3849,2,02:14,(2:14) (Shotgun) J.Gray left guard to TEN 12 for 1 yard (D.Bass).,9,4,35,TEN 13,0,MIA,
+21,3711,1,05:59,(5:59) D.Williams left guard to TEN 46 for 1 yard (Z.Brown).,10,4,1,TEN 47,0,MIA,
+21,3756,1,04:33,(4:33) (Shotgun) D.Williams up the middle to TEN 26 for 4 yards (J.Casey).,10,4,21,TEN 30,0,MIA,
+21,3732,2,05:19,(5:19) R.Tannehill pass short right to D.Sims to TEN 30 for 16 yards (W.Woodyard).,9,4,35,TEN 46,0,MIA,
+22,4175,0,00:04,Timeout #3 by TEN at 00:04.,0,4,67,,0,,TIMEOUT
+22,4019,0,01:31,Timeout #2 by TEN at 01:31.,0,4,19,,0,,TIMEOUT
+22,4079,1,01:02,"(1:02) (No Huddle, Shotgun) Z.Mettenberger pass short middle to B.Sankey to 50 for 7 yards (Z.Vigil; N.Hewitt).",10,4,30,TEN 43,0,TEN,
+22,3924,0,01:54,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback.",0,4,0,MIA 35,0,MIA,KICKOFF
+22,4192,1,00:03,(:03) (Shotgun) Z.Mettenberger sacked at MIA 22 for -9 yards (J.Kovacs).,10,4,58,MIA 13,0,TEN,
+22,3943,1,01:54,(1:54) (Shotgun) Z.Mettenberger pass short left to D.Green-Beckham ran ob at TEN 32 for 12 yards.,10,4,12,TEN 20,0,TEN,
+22,4127,1,00:17,(:17) (No Huddle) Z.Mettenberger spiked the ball to stop the clock.,10,4,67,MIA 27,0,TEN,
+22,4058,4,01:26,(1:26) (Shotgun) Z.Mettenberger scrambles up the middle to TEN 43 for 4 yards (T.Fede).,3,4,23,TEN 39,0,TEN,
+22,3970,1,01:50,"(1:50) (No Huddle, Shotgun) Z.Mettenberger pass incomplete short middle to B.Sankey.",10,4,12,TEN 32,0,TEN,
+22,4103,2,00:38,"(:38) (No Huddle, Shotgun) Z.Mettenberger pass deep right to J.Hunter to MIA 27 for 23 yards (J.Kovacs).",3,4,67,50,0,TEN,
+22,4036,3,01:31,(1:31) (Shotgun) Z.Mettenberger pass incomplete short left to B.Sankey.,3,4,19,TEN 39,0,TEN,
+22,4149,2,00:16,(:16) (Shotgun) Z.Mettenberger pass short right to J.Hunter to MIA 13 for 14 yards (Bo.McCain) [C.Mosley].,10,4,58,MIA 27,0,TEN,
+22,4211,0,00:00,END GAME,0,4,58,,0,,
+22,3992,2,01:45,(1:45) (Shotgun) Z.Mettenberger pass short middle to D.Walker to TEN 39 for 7 yards (N.Hewitt). TEN-D.Walker was injured during the play. His return is Questionable.,10,4,19,TEN 32,0,TEN,
+1,201,1,11:14,"(11:14) (Shotgun) D.Williams left guard to TEN 27 for no gain (W.Woodyard). PENALTY on TEN-A.Blackson, Defensive Offside, 5 yards, enforced at TEN 27 - No Play.",10,1,58,TEN 27,0,MIA,PENALTY
+1,153,3,12:35,"(12:35) (No Huddle, Shotgun) R.Tannehill pass short right to R.Matthews to TEN 49 for 6 yards (J.McCourty; M.Griffin).",3,1,80,MIA 45,0,MIA,
+1,36,0,15:00,"R.Succop kicks 66 yards from TEN 35 to MIA -1. D.Williams MUFFS catch, and recovers at MIA 6. D.Williams to MIA 20 for 14 yards (C.Sensabaugh).",0,1,0,TEN 35,0,TEN,KICKOFF
+1,132,2,12:57,(12:57) (Shotgun) L.Miller left guard to MIA 45 for 3 yards (D.Jones).,6,1,25,MIA 42,0,MIA,
+1,108,1,13:39,(13:39) (Shotgun) R.Tannehill pass short right to L.Miller to MIA 42 for 4 yards (W.Woodyard; Z.Brown).,10,1,80,MIA 38,0,MIA,
+1,66,1,14:53,(14:53) (Shotgun) L.Miller left guard to MIA 24 for 4 yards (D.Morgan; Z.Brown).,10,1,4,MIA 20,0,MIA,
+1,177,1,11:55,(11:55) R.Tannehill pass short right to R.Matthews to TEN 27 for 22 yards (D.Searcy).,10,1,80,TEN 49,0,MIA,
+1,251,0,10:39,"A.Franks extra point is GOOD, Center-J.Denney, Holder-M.Darr.",0,1,80,TEN 15,1,MIA,XP
+1,87,2,14:16,(14:16) L.Miller right tackle to MIA 38 for 14 yards (D.Searcy).,6,1,18,MIA 24,0,MIA,
+1,233,1,10:48,"(10:48) (Shotgun) J.Landry right end for 22 yards, TOUCHDOWN.",5,1,80,TEN 22,1,MIA,TD
+3,774,0,00:11,Timeout #1 by MIA at 00:11.,0,1,73,,0,,TIMEOUT
+3,593,2,04:24,(4:24) (Shotgun) R.Tannehill pass short left to R.Matthews to MIA 31 for 15 yards (B.Wreh-Wilson). TEN-M.Griffin was injured during the play. His return is Questionable.,14,1,11,MIA 16,0,MIA,
+3,620,1,03:53,(3:53) R.Tannehill scrambles right end to MIA 41 for 10 yards (W.Woodyard).,10,1,21,MIA 31,0,MIA,
+3,728,2,00:29,(:29) R.Tannehill pass incomplete short right to J.Cameron (J.Casey).,13,1,73,TEN 17,0,MIA,
+3,791,4,00:11,"(:11) (Run formation) PENALTY on MIA-R.Tannehill, Delay of Game, 5 yards, enforced at TEN 7 - No Play.",3,1,68,TEN 7,0,MIA,PENALTY
+3,561,2,04:54,"(4:54) (Shotgun) R.Tannehill left end pushed ob at MIA 44 for 18 yards (D.Searcy). PENALTY on MIA-J.Cameron, Offensive Holding, 10 yards, enforced at MIA 26 - No Play.",4,1,-4,MIA 26,0,MIA,PENALTY
+3,707,1,01:14,(1:14) (Shotgun) J.Gray right end to TEN 17 for -3 yards (A.Woods).,10,1,63,TEN 14,0,MIA,
+3,662,2,02:40,(2:40) (Shotgun) L.Miller right end to TEN 33 for 22 yards (Z.Brown).,6,1,47,MIA 45,0,MIA,
+3,641,1,03:16,(3:16) L.Miller right guard to MIA 45 for 4 yards (Z.Brown).,10,1,25,MIA 41,0,MIA,
+3,536,1,05:28,(5:28) (Shotgun) L.Miller left guard to MIA 26 for 6 yards (D.Morgan).,10,1,6,MIA 20,0,MIA,
+3,750,3,00:26,(:26) (Shotgun) R.Tannehill pass short left to J.Landry to TEN 7 for 10 yards (W.Woodyard; Z.Brown).,13,1,73,TEN 17,0,MIA,
+3,683,1,01:54,(1:54) R.Tannehill pass short left to J.Landry to TEN 14 for 19 yards (D.Searcy).,10,1,68,TEN 33,0,MIA,
+3,814,4,00:11,"(:11) (Field Goal formation) A.Franks 30 yard field goal is GOOD, Center-J.Denney, Holder-M.Darr.",8,1,68,TEN 12,1,MIA,FG
+3,517,0,05:28,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback.",0,1,0,TEN 35,0,TEN,KICKOFF
+2,309,2,10:01,(10:01) (Shotgun) M.Mariota pass short middle to D.Walker to TEN 30 for 13 yards (M.Thomas; R.Jones).,13,1,10,TEN 17,0,TEN,
+2,498,4,05:33,"(5:33) (Field Goal formation) R.Succop 37 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",3,1,61,MIA 19,1,TEN,FG
+2,455,2,06:19,(6:19) (Shotgun) A.Andrews up the middle to MIA 19 for 8 yards (K.Misi).,11,1,61,MIA 27,0,TEN,
+2,333,1,09:21,(9:21) M.Mariota pass short right to H.Douglas pushed ob at TEN 41 for 11 yards (B.Grimes).,10,1,21,TEN 30,0,TEN,
+2,406,2,07:22,(7:22) (Shotgun) M.Mariota pass short right to D.Green-Beckham ran ob at MIA 26 for 13 yards. MIA-J.Phillips was injured during the play. His return is Questionable.,6,1,54,MIA 39,0,TEN,
+2,267,0,10:39,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback.",0,1,61,MIA 35,0,MIA,KICKOFF
+2,385,1,08:02,(8:02) D.McCluster right end pushed ob at MIA 39 for 4 yards (R.Jones).,10,1,41,MIA 43,0,TEN,
+2,476,3,05:37,(5:37) (Shotgun) M.Mariota pass incomplete short left to D.Green-Beckham.,3,1,61,MIA 19,0,TEN,
+2,364,1,08:44,(8:44) D.McCluster right end to MIA 43 for 16 yards (Br.McCain; K.Misi).,10,1,37,TEN 41,0,TEN,
+2,285,1,10:39,(10:39) M.Mariota pass short left to K.Wright to TEN 17 for -3 yards (O.Vernon; E.Mitchell).,10,1,-3,TEN 20,0,TEN,
+2,430,1,07:00,(7:00) D.McCluster right end to MIA 27 for -1 yards (K.Misi).,10,1,53,MIA 26,0,TEN,
+5,1076,1,11:30,(11:30) (Shotgun) L.Miller up the middle to MIA 47 for 20 yards (D.Searcy).,10,2,22,MIA 27,0,MIA,
+5,1198,1,10:50,(10:50) (Shotgun) R.Tannehill pass short left to D.Sims to MIA 49 for 2 yards (B.Orakpo).,10,2,22,MIA 47,0,MIA,
+5,1222,2,10:14,(10:14) (Shotgun) R.Tannehill pass short middle intended for J.Cameron INTERCEPTED by M.Griffin (D.Searcy) at TEN 40. M.Griffin to MIA 31 for 29 yards (B.Albert).,8,2,22,MIA 49,0,MIA,INT
+4,1043,3,11:39,"(11:39) (Shotgun) M.Mariota pass incomplete short right to J.Hunter (D.Shelby). Miami challenged the incomplete pass ruling, and the play was REVERSED. (Shotgun) M.Mariota sacked at MIA 35 for -7 yards (C.Wake). FUMBLES (C.Wake), RECOVERED by MIA-J.Jenkins at MIA 27. Penalty on TEN-C.Warmack, Offensive Holding, declined.",5,2,52,MIA 28,0,TEN,FUMBLE
+4,961,3,13:06,"(13:06) (Shotgun) M.Mariota pass incomplete short right to K.Wright. TEN-M.Mariota was injured during the play. His return is Probable.  PENALTY on MIA-O.Vernon, Roughing the Passer, 15 yards, enforced at MIA 48 - No Play.",12,2,52,MIA 48,0,TEN,PENALTY
+4,834,0,00:06,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback.",0,1,0,MIA 35,0,MIA,KICKOFF
+4,889,1,15:00,"(15:00) A.Andrews right guard to TEN 39 for 4 yards (K.Sheppard). PENALTY on MIA-Br.McCain, Unnecessary Roughness, 15 yards, enforced at TEN 39.",10,2,32,TEN 35,0,TEN,PENALTY
+4,942,2,13:50,(13:50) (Shotgun) M.Mariota sacked at MIA 48 for -7 yards (C.Wake).,5,2,32,MIA 41,0,TEN,
+4,873,0,,END QUARTER 1,0,1,15,,0,,
+4,849,1,00:06,(:06) M.Mariota pass short right to D.Walker to TEN 35 for 15 yards (M.Thomas).,10,1,15,TEN 20,0,TEN,
+4,998,1,13:01,(13:01) B.Sankey left tackle to MIA 30 for 3 yards (O.Vernon).,10,2,50,MIA 33,0,TEN,
+4,1019,2,12:23,(12:23) M.Mariota pass short left to A.Andrews to MIA 28 for 2 yards (R.Jones; N.Suh).,7,2,52,MIA 30,0,TEN,
+4,921,1,14:27,(14:27) A.Andrews left tackle to MIA 41 for 5 yards (M.Thomas).,10,2,39,MIA 46,0,TEN,
+7,1553,2,05:12,"(5:12) (Shotgun) L.Miller up the middle for 7 yards, TOUCHDOWN. The Replay Official reviewed the runner broke the plane ruling, and the play was Upheld. The ruling on the field stands.",7,2,34,TEN 7,1,MIA,TD
+7,1430,3,07:35,(7:35) (Shotgun) R.Tannehill pass short left to J.Cameron ran ob at TEN 21 for 13 yards (D.Searcy) [K.Klug].,10,2,13,TEN 34,0,MIA,
+7,1376,1,08:46,(8:46) (Shotgun) L.Miller right guard to TEN 32 for 2 yards (J.Casey).,10,2,2,TEN 34,0,MIA,
+7,1454,1,07:01,(7:01) (Shotgun) R.Tannehill pass incomplete short middle to L.Miller.,10,2,13,TEN 21,0,MIA,
+7,1408,2,08:13,(8:13) L.Miller up the middle to TEN 34 for -2 yards (W.Woodyard).,8,2,0,TEN 32,0,MIA,
+7,1476,2,06:57,(6:57) (Shotgun) L.Miller left end to TEN 10 for 11 yards (Z.Brown).,10,2,24,TEN 21,0,MIA,
+7,1497,1,06:15,"(6:15) D.Williams right guard to TEN 9 for 1 yard (W.Woodyard). PENALTY on MIA-J.James, Offensive Holding, 10 yards, enforced at TEN 10 - No Play.",10,2,14,TEN 10,0,MIA,PENALTY
+7,1571,0,05:07,"A.Franks extra point is GOOD, Center-J.Denney, Holder-M.Darr.",0,2,34,TEN 15,1,MIA,XP
+7,1529,1,05:54,(5:54) (Shotgun) R.Tannehill pass short left to D.Sims to TEN 7 for 13 yards (M.Griffin).,20,2,27,TEN 20,0,MIA,
+6,1249,1,10:03,"(10:03) A.Andrews left end pushed ob at MIA 33 for -2 yards (K.Misi). PENALTY on TEN-T.Lewan, Offensive Holding, 10 yards, enforced at MIA 31 - No Play.",10,2,-10,MIA 31,0,TEN,PENALTY
+6,1304,2,09:31,(9:31) (Shotgun) M.Mariota pass short left to J.Hunter to MIA 24 for 17 yards (K.Misi).,20,2,7,MIA 41,0,TEN,
+6,1328,0,09:01,Timeout #1 by TEN at 09:01.,0,2,7,,0,,TIMEOUT
+6,1346,3,09:01,"(9:01) (Shotgun) M.Mariota sacked at MIA 31 for -7 yards (C.Wake). FUMBLES (C.Wake) [C.Wake], RECOVERED by MIA-J.Taylor at MIA 35. J.Taylor to TEN 34 for 31 yards (D.Walker).",3,2,-4,MIA 24,0,TEN,FUMBLE
+6,1282,1,09:38,(9:38) M.Mariota pass incomplete deep right to H.Douglas (B.Grimes).,20,2,-10,MIA 41,0,TEN,
+9,2096,2,00:43,(:43) (Shotgun) R.Tannehill pass short right to R.Matthews ran ob at TEN 44 for 11 yards.,9,2,50,MIA 45,0,MIA,
+9,2120,1,00:38,"(:38) (Shotgun) R.Tannehill pass short right to R.Matthews to TEN 37 for 7 yards (B.Wreh-Wilson). PENALTY on TEN-B.Wreh-Wilson, Defensive Delay of Game, 5 yards, enforced at TEN 37.",10,2,62,TEN 44,0,MIA,PENALTY
+9,1982,2,01:00,(1:00) (Shotgun) R.Tannehill pass short left to K.Stills pushed ob at MIA 31 for 8 yards (B.Wreh-Wilson). MIA-K.Stills was injured during the play. His return is Questionable.,5,2,25,MIA 23,0,MIA,
+9,2006,0,00:55,Timeout #2 by MIA at 00:55. Timeout due to injury on the previous play.,0,2,25,,0,,TIMEOUT
+9,2072,1,00:46,(:46) (Shotgun) R.Tannehill pass short right to L.Miller pushed ob at MIA 45 for 1 yard (Z.Brown).,10,2,50,MIA 44,0,MIA,
+9,1920,0,01:29,Timeout #3 by TEN at 01:29.,0,2,9,,0,,TIMEOUT
+9,1860,1,01:40,(1:40) (Shotgun) L.Miller up the middle to MIA 11 for 5 yards (M.Griffin).,10,2,5,MIA 6,0,MIA,
+9,2027,1,00:55,(:55) (Shotgun) R.Tannehill pass short right to G.Jennings to MIA 44 for 13 yards (M.Griffin; J.McCourty).,10,2,38,MIA 31,0,MIA,
+9,1937,3,01:29,(1:29) (Shotgun) L.Miller right guard to MIA 18 for 3 yards (A.Woods).,1,2,12,MIA 15,0,MIA,
+9,2155,1,00:23,(:23) R.Tannehill pass short middle intended for J.Cameron INTERCEPTED by C.Sensabaugh at TEN 26. C.Sensabaugh pushed ob at TEN 42 for 16 yards (R.Tannehill).,10,2,62,TEN 32,0,MIA,INT
+9,2055,0,00:46,Timeout #3 by MIA at 00:46.,0,2,37,,0,,TIMEOUT
+9,1898,2,01:35,(1:35) (Shotgun) R.Tannehill left end to MIA 15 for 4 yards (B.Orakpo).,5,2,9,MIA 11,0,MIA,
+9,1958,1,01:04,(1:04) (Shotgun) R.Tannehill pass short left to J.Cameron pushed ob at MIA 23 for 5 yards (D.Searcy).,10,2,17,MIA 18,0,MIA,
+9,1881,0,01:35,Timeout #2 by TEN at 01:35.,0,2,5,,0,,TIMEOUT
+8,1738,2,02:26,(2:26) (Shotgun) A.Andrews left guard to MIA 31 for 2 yards (E.Mitchell; K.Misi).,1,2,49,MIA 33,0,TEN,
+8,1710,1,02:50,(2:50) (Shotgun) B.Sankey left guard to MIA 33 for 9 yards (J.Jenkins). TEN-B.Schwenke was injured during the play. He is Out.,10,2,47,MIA 42,0,TEN,
+8,1641,2,04:32,(4:32) (Shotgun) A.Andrews left end to TEN 30 for 3 yards (R.Jones).,3,2,10,TEN 27,0,TEN,
+8,1759,1,02:06,"(2:06) (No Huddle, Shotgun) M.Mariota pass incomplete short middle to D.Walker (N.Suh) [C.Wake].",10,2,37,MIA 31,0,TEN,
+8,1800,0,01:56,Two-Minute Warning,0,2,37,,0,,
+8,1617,1,05:07,(5:07) M.Mariota pass short left to K.Wright to TEN 27 for 7 yards (J.Taylor).,10,2,7,TEN 20,0,TEN,
+8,1840,4,01:51,"(1:51) (Punt formation) B.Kern punts 37 yards to MIA 6, Center-B.Brinkley, downed by TEN-P.Supernaw.",22,2,37,MIA 43,0,TEN,PUNT
+8,1781,2,02:01,(2:01) (Shotgun) M.Mariota sacked at MIA 43 for -12 yards (O.Vernon).,10,2,37,MIA 31,0,TEN,
+8,1817,3,01:56,(1:56) (Shotgun) M.Mariota pass incomplete deep left to D.Green-Beckham.,22,2,37,MIA 43,0,TEN,
+8,1593,0,05:07,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback.",0,2,47,MIA 35,0,MIA,KICKOFF
+8,1686,1,03:26,(3:26) (Shotgun) M.Mariota pass short middle to D.Walker to MIA 42 for 14 yards (R.Jones).,10,2,38,TEN 44,0,TEN,
+8,1662,1,03:53,(3:53) M.Mariota pass short right to K.Wright ran ob at TEN 44 for 14 yards.,10,2,24,TEN 30,0,TEN,
+11,2288,2,14:12,(14:12) (Shotgun) M.Mariota pass incomplete short right to H.Douglas (B.Grimes).,7,3,38,TEN 23,0,TEN,
+11,2345,1,13:45,(13:45) A.Andrews right tackle to MIA 42 for -5 yards (J.Jenkins).,10,3,38,MIA 37,0,TEN,
+11,2310,3,14:07,"(14:07) (Shotgun) M.Mariota pass deep right to D.Walker pushed ob at TEN 48 for 25 yards (Bo.McCain). PENALTY on MIA-O.Vernon, Roughing the Passer, 15 yards, enforced at TEN 48.",7,3,43,TEN 23,0,TEN,PENALTY
+11,2411,4,11:44,"(11:44) (Punt formation) B.Kern punts 27 yards to MIA 21, Center-B.Brinkley, fair catch by J.Landry.",21,3,32,MIA 48,0,TEN,PUNT
+11,2387,3,12:26,(12:26) (Shotgun) M.Mariota pass short right to A.Fasano to MIA 48 for -9 yards (K.Misi).,12,3,32,MIA 39,0,TEN,
+11,2366,2,13:06,(13:06) (Shotgun) D.McCluster up the middle to MIA 39 for 3 yards (J.Jenkins).,15,3,41,MIA 42,0,TEN,
+11,2245,0,15:00,A.Franks kicks 67 yards from MIA 35 to TEN -2. B.Sankey to TEN 20 for 22 yards (D.Williams; S.Paysinger).,0,3,0,MIA 35,0,MIA,KICKOFF
+11,2267,1,14:53,(14:53) A.Andrews up the middle to TEN 23 for 3 yards (J.Jenkins; E.Mitchell).,10,3,3,TEN 20,0,TEN,
+10,2181,1,00:14,(:14) (Shotgun) M.Mariota pass incomplete short right to D.McCluster.,10,2,0,TEN 42,0,TEN,
+10,2210,2,00:09,(:09) (Shotgun) M.Mariota sacked at TEN 35 for -7 yards (C.Wake).,10,2,-7,TEN 42,0,TEN,
+10,2229,0,,END QUARTER 2,0,2,-7,,0,,
+13,2614,2,08:11,(8:11) B.Sankey left tackle to TEN 20 for 1 yard (T.Fede).,4,3,7,TEN 19,0,TEN,
+13,2590,1,08:49,(8:49) (Shotgun) M.Mariota pass short middle to D.Walker to TEN 19 for 6 yards (J.Jenkins).,10,3,6,TEN 13,0,TEN,
+13,2715,2,05:50,"(5:50) (Shotgun) M.Mariota pass short right intended for D.Walker INTERCEPTED by R.Jones at TEN 30. R.Jones for 30 yards, TOUCHDOWN.",9,3,14,TEN 27,1,TEN,TD
+13,2635,3,07:32,"(7:32) (Shotgun) M.Mariota pass short middle to D.McCluster to TEN 25 for 5 yards (J.Jenkins; R.Jones). PENALTY on TEN-J.Meredith, Offensive Holding, 10 yards, enforced at TEN 20 - No Play.",3,3,-3,TEN 20,0,TEN,PENALTY
+13,2670,3,07:09,(7:09) (Shotgun) M.Mariota pass short left to K.Wright to TEN 26 for 16 yards (J.Jenkins; J.Taylor).,13,3,13,TEN 10,0,TEN,
+13,2694,1,06:23,(6:23) D.McCluster left end to TEN 27 for 1 yard (J.Taylor; J.Jenkins).,10,3,14,TEN 26,0,TEN,
+12,2523,2,09:42,(9:42) (Shotgun) L.Miller up the middle to MIA 40 for 1 yard (D.Jones; J.Casey).,3,3,19,MIA 39,0,MIA,
+12,2544,3,09:03,(9:03) (Shotgun) R.Tannehill pass incomplete deep right to J.Landry.,2,3,19,MIA 40,0,MIA,
+12,2431,1,11:37,(11:37) (Shotgun) J.Landry right end pushed ob at MIA 23 for 2 yards (D.Morgan).,10,3,2,MIA 21,0,MIA,
+12,2480,2,10:53,(10:53) (Shotgun) L.Miller right guard to MIA 32 for 4 yards (D.Morgan).,3,3,11,MIA 28,0,MIA,
+12,2566,4,08:58,"(8:58) (Punt formation) M.Darr punts 47 yards to TEN 13, Center-J.Denney, fair catch by D.McCluster.",2,3,19,MIA 40,0,MIA,PUNT
+12,2457,2,11:07,"(11:07) (Shotgun) PENALTY on TEN-D.Jones, Neutral Zone Infraction, 5 yards, enforced at MIA 23 - No Play.",8,3,7,MIA 23,0,MIA,PENALTY
+12,2501,1,10:18,(10:18) L.Miller up the middle to MIA 39 for 7 yards (J.Casey).,10,3,18,MIA 32,0,MIA,
+15,2923,3,03:02,(3:02) (Shotgun) R.Tannehill sacked at MIA 7 for -2 yards (B.Orakpo).,8,3,0,MIA 9,0,MIA,
+15,2879,1,03:45,(3:45) (Shotgun) L.Miller right tackle to MIA 9 for 2 yards (W.Woodyard).,10,3,2,MIA 7,0,MIA,
+15,2901,2,03:07,(3:07) (Shotgun) R.Tannehill pass incomplete short middle to J.Cameron (D.Searcy).,8,3,2,MIA 9,0,MIA,
+15,2942,4,02:23,"(2:23) (Punt formation) M.Darr punts 45 yards to TEN 48, Center-J.Denney, fair catch by D.McCluster.",10,3,0,MIA 7,0,MIA,PUNT
+14,2754,0,05:40,A.Franks kicks 66 yards from MIA 35 to TEN -1. B.Sankey to TEN 33 for 34 yards (D.Williams; Bo.McCain).,0,3,0,MIA 35,0,MIA,KICKOFF
+14,2819,3,04:47,(4:47) (Shotgun) M.Mariota pass short right to D.McCluster to TEN 31 for 2 yards (D.Shelby).,14,3,-2,TEN 29,0,TEN,
+14,2798,2,05:28,(5:28) A.Andrews left end to TEN 29 for -4 yards (O.Vernon).,10,3,-4,TEN 33,0,TEN,
+14,2776,1,05:32,(5:32) (Shotgun) M.Mariota pass incomplete deep right to J.Hunter.,10,3,0,TEN 33,0,TEN,
+14,2843,4,04:03,"(4:03) (Punt formation) B.Kern punts 61 yards to MIA 8, Center-B.Brinkley. J.Landry to TEN 41 for 51 yards (W.Woodyard). PENALTY on MIA-Z.Vigil, Illegal Block Above the Waist, 7 yards, enforced at MIA 14.",12,3,-2,TEN 31,0,TEN,PUNT
+17,3171,3,14:04,(14:04) (Shotgun) R.Tannehill sacked at MIA 12 for -10 yards (W.Woodyard).,10,4,-10,MIA 22,0,MIA,
+17,3106,0,15:00,R.Succop kicks 74 yards from TEN 35 to MIA -9. D.Williams to MIA 22 for 31 yards (P.Supernaw).,0,4,0,TEN 35,0,TEN,KICKOFF
+17,3150,2,14:47,(14:47) (Shotgun) L.Miller right guard to MIA 22 for no gain (A.Woods).,10,4,0,MIA 22,0,MIA,
+17,3128,1,14:54,(14:54) R.Tannehill pass incomplete deep right to J.Cameron (D.Searcy).,10,4,0,MIA 22,0,MIA,
+17,3190,4,13:26,"(13:26) (Punt formation) M.Darr punts 39 yards to TEN 49, Center-J.Denney. D.McCluster to MIA 37 for 14 yards (M.Thomas). PENALTY on MIA-S.Paysinger, Offensive Holding, 10 yards, enforced at MIA 37.",20,4,-10,MIA 12,0,MIA,PUNT
+16,2962,1,02:15,(2:15) M.Mariota pass deep middle to D.Green-Beckham to MIA 20 for 32 yards (K.Misi).,10,3,32,TEN 48,0,TEN,
+16,3031,1,00:09,(:09) (Shotgun) M.Mariota pass incomplete short left to K.Wright.,3,3,49,MIA 3,0,TEN,
+16,2986,1,01:31,(1:31) A.Andrews left tackle to MIA 13 for 7 yards (K.Misi).,10,3,39,MIA 20,0,TEN,
+16,3007,2,00:46,(:46) (Shotgun) M.Mariota pass short right to A.Fasano to MIA 3 for 10 yards (R.Jones; B.Grimes).,3,3,49,MIA 13,0,TEN,
+16,3075,0,00:00,"R.Succop extra point is GOOD, Center-B.Brinkley, Holder-B.Kern.",0,3,52,MIA 15,1,TEN,XP
+16,3054,2,00:05,"(:05) (Shotgun) M.Mariota pass short middle to D.McCluster for 3 yards, TOUCHDOWN.",3,3,52,MIA 3,1,TEN,TD
+19,3428,2,09:34,(9:34) (Shotgun) J.Gray up the middle to TEN 13 for 7 yards (B.Orakpo).,8,4,84,TEN 20,0,MIA,
+19,3368,1,10:32,"(10:32) L.Miller left tackle to TEN 22 for no gain (A.Woods; Z.Brown). TEN-A.Woods was injured during the play. His return is Questionable.  PENALTY on MIA-D.Thomas, Offensive Holding, 10 yards, enforced at TEN 22 - No Play.",10,4,65,TEN 22,0,MIA,PENALTY
+19,3517,0,07:38,"A.Franks extra point is GOOD, Center-J.Denney, Holder-M.Darr.",0,4,97,TEN 15,1,MIA,XP
+19,3344,1,11:09,(11:09) R.Tannehill pass short left to J.Landry to TEN 22 for 13 yards (C.Sensabaugh).,10,4,75,TEN 35,0,MIA,
+19,3491,2,07:43,"(7:43) R.Tannehill pass short right to D.Sims for 2 yards, TOUCHDOWN.",2,4,97,TEN 2,1,MIA,TD
+19,3320,2,11:51,(11:51) (Shotgun) R.Tannehill pass deep left to R.Matthews to TEN 35 for 24 yards (D.Searcy).,10,4,62,MIA 41,0,MIA,
+19,3400,1,10:10,(10:10) R.Tannehill pass short left to J.Gray to TEN 20 for 12 yards (Z.Brown; C.Sensabaugh).,20,4,77,TEN 32,0,MIA,
+19,3275,1,13:08,(13:08) (Shotgun) R.Tannehill pass deep left to K.Stills to MIA 41 for 38 yards (D.Searcy).,10,4,38,MIA 3,0,MIA,
+19,3299,1,12:26,(12:26) L.Miller right tackle to MIA 41 for no gain (Z.Brown).,10,4,38,MIA 41,0,MIA,
+19,3449,3,08:56,(8:56) J.Gray up the middle to TEN 7 for 6 yards (Z.Brown).,1,4,90,TEN 13,0,MIA,
+19,3470,1,08:22,(8:22) J.Gray left guard to TEN 2 for 5 yards (W.Woodyard).,7,4,95,TEN 7,0,MIA,
+18,3227,1,13:15,(13:15) M.Mariota pass deep right intended for A.Fasano INTERCEPTED by B.Grimes at MIA 3. B.Grimes to MIA 3 for no gain (A.Fasano).,10,4,0,MIA 27,0,TEN,INT

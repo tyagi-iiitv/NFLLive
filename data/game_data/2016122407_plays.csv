@@ -1,172 +1,172 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1745,1,02:00,,10,2,57,TB 46,0,NO,FUMBLE
-9,1657,2,03:06,,1,2,13,NO 36,0,NO,
-9,1636,1,03:38,,10,2,9,NO 27,0,NO,
-9,1728,0,02:00,,0,2,27,,0,,
-9,1678,1,02:29,,10,2,13,NO 40,0,NO,
-9,1771,1,01:44,,10,2,56,TB 32,0,NO,
-9,1874,3,00:27,,13,2,57,TB 20,0,NO,
-9,1800,1,01:10,,10,2,55,TB 17,0,NO,
-9,1700,2,02:24,,10,2,27,NO 40,0,NO,
-9,1899,0,00:03,,0,2,57,,0,,TIMEOUT
-9,1840,2,01:02,,11,2,57,TB 18,0,NO,
-9,1916,4,00:03,,9,2,57,TB 16,1,NO,FG
-9,1823,0,01:02,,0,2,55,,0,,TIMEOUT
-18,3940,1,02:17,,10,4,40,NO 17,0,TB,
-18,3916,3,02:46,,13,4,40,NO 39,0,TB,
-18,3797,2,04:04,,1,4,21,NO 48,0,TB,
-18,3847,1,03:32,,10,4,40,NO 36,0,TB,PENALTY
-18,3895,2,03:27,,21,4,18,NO 47,0,TB,
-18,4011,4,02:05,,10,4,40,NO 17,1,TB,FG
-18,3823,3,03:58,,1,4,21,NO 48,0,TB,
-18,3966,2,02:13,,10,4,40,NO 17,0,TB,
-18,3773,1,04:33,,10,4,9,TB 43,0,TB,
-18,3989,3,02:09,,10,4,40,NO 17,0,TB,
-6,1147,1,10:55,,10,2,39,NO 12,1,TB,TD
-6,1114,3,11:00,,14,2,39,NO 26,0,TB,PENALTY
-6,1093,2,11:40,,10,2,13,NO 22,0,TB,
-6,1067,1,11:43,,10,2,13,NO 22,0,TB,
-6,1174,0,10:50,,0,2,39,NO 15,1,TB,XP
-6,1043,1,12:03,,10,2,26,NO 39,0,TB,
-14,2591,1,06:20,,10,3,-10,TB 25,0,TB,PENALTY
-14,2654,2,05:19,,11,3,5,TB 24,0,TB,
-14,2733,1,04:10,,10,3,16,TB 37,0,TB,
-14,2780,3,03:31,,6,3,28,TB 41,0,TB,
-14,2630,1,06:03,,20,3,-1,TB 15,0,TB,
-14,2682,3,04:39,,5,3,0,TB 30,0,TB,PENALTY
-14,2758,2,03:36,,6,3,28,TB 41,0,TB,
-14,2575,0,06:20,,0,3,0,NO 35,0,NO,KICKOFF
-14,2709,3,04:33,,10,3,12,TB 25,0,TB,
-14,2876,0,01:52,,0,3,75,NO 15,1,TB,XP
-14,2804,1,02:46,,10,3,41,NO 47,0,TB,
-14,2832,1,01:59,,10,3,75,NO 34,1,TB,TD
-7,1446,4,06:50,,3,2,51,TB 24,1,NO,FG
-7,1331,3,07:51,,1,2,44,TB 44,0,NO,
-7,1403,2,07:28,,10,2,51,TB 31,0,NO,
-7,1424,3,06:54,,3,2,51,TB 24,0,NO,
-7,1307,2,08:31,,6,2,31,TB 49,0,NO,
-7,1282,1,09:05,,10,2,26,NO 47,0,NO,
-7,1209,1,10:50,,10,2,4,NO 25,0,NO,
-7,1230,2,10:19,,6,2,11,NO 29,0,NO,
-7,1190,0,10:50,,0,2,0,TB 35,0,TB,KICKOFF
-7,1254,1,09:42,,10,2,22,NO 36,0,NO,
-7,1372,1,07:34,,10,2,44,TB 31,0,NO,
-8,1505,2,06:01,,8,2,15,TB 27,0,TB,
-8,1481,1,06:45,,10,2,2,TB 25,0,TB,
-8,1556,2,04:35,,20,2,15,TB 28,0,TB,
-8,1466,0,06:45,,0,2,0,NO 35,0,NO,KICKOFF
-8,1533,1,05:21,,10,2,15,TB 38,0,TB,
-8,1602,4,03:46,,8,2,15,TB 40,0,TB,PUNT
-8,1580,3,03:52,,8,2,15,TB 40,0,TB,
-10,1954,0,15:00,,0,3,0,NO 35,0,NO,KICKOFF
-10,1989,1,14:57,,10,3,-1,TB 4,0,TB,
-10,2010,2,14:18,,11,3,-1,TB 3,0,TB,INT
-19,4090,0,01:55,,0,4,8,,0,,TIMEOUT
-19,4141,0,01:51,,0,4,9,,0,,TIMEOUT
-19,4265,0,00:00,,0,4,16,,0,,
-19,4202,1,01:44,,10,4,18,TB 26,0,NO,
-19,4107,2,01:55,,3,4,16,TB 38,0,NO,
-19,4068,1,01:59,,10,4,16,TB 45,0,NO,
-19,4185,0,01:44,,0,4,19,,0,,TIMEOUT
-19,4244,3,00:38,,12,4,16,TB 28,0,NO,
-19,4046,0,02:00,,0,4,0,TB 35,0,TB,KICKOFF
-19,4164,3,01:51,,1,4,16,TB 36,0,NO,
-19,4223,2,01:06,,11,4,17,TB 27,0,NO,
-19,4129,0,01:51,,0,4,16,,0,,TIMEOUT
-12,2246,2,10:47,,2,3,54,NO 32,0,TB,
-12,2218,1,11:24,,10,3,43,NO 40,0,TB,
-12,2359,2,08:43,,3,3,75,NO 3,1,TB,TD
-12,2071,0,14:01,,0,3,0,NO 35,0,NO,KICKOFF
-12,2273,1,10:09,,10,3,66,NO 21,0,TB,
-12,2334,1,09:16,,4,3,72,NO 4,0,TB,
-12,2168,2,12:37,,1,3,30,NO 45,0,TB,
-12,2189,3,11:54,,1,3,35,NO 45,0,TB,
-12,2147,1,13:07,,10,3,30,TB 46,0,TB,
-12,2377,0,08:38,,0,3,75,NO 15,1,TB,XP
-12,2087,1,14:01,,10,3,12,TB 25,0,TB,
-12,2115,1,13:27,,10,3,21,TB 37,0,TB,PENALTY
-12,2299,1,09:35,,9,3,75,NO 9,0,TB,PENALTY
-16,3432,2,11:17,,10,4,33,TB 49,0,TB,
-16,3556,3,08:13,,14,4,47,NO 28,0,TB,INT
-16,3535,2,08:58,,17,4,47,NO 31,0,TB,
-16,3456,3,10:42,,1,4,39,NO 42,0,TB,
-16,3484,1,10:15,,10,4,51,NO 36,0,TB,
-16,3382,1,11:55,,10,4,24,TB 25,0,TB,
-16,3406,1,11:22,,10,4,24,TB 49,0,TB,
-16,3367,0,11:55,,0,4,0,NO 35,0,NO,KICKOFF
-16,3512,1,09:51,,10,4,44,NO 24,0,TB,
-11,2037,1,14:06,,10,3,14,TB 14,1,NO,TD
-11,2055,0,14:01,,0,3,14,TB 15,1,NO,XP
-3,702,2,01:48,,10,1,85,TB 27,0,NO,
-3,429,2,06:59,,5,1,10,NO 14,0,NO,
-3,503,3,04:59,,1,1,22,NO 28,0,NO,
-3,681,1,02:10,,10,1,64,TB 27,0,NO,
-3,548,1,03:47,,10,1,91,TB 49,0,NO,PENALTY
-3,478,2,05:38,,5,1,19,NO 24,0,NO,
-3,629,1,02:31,,10,1,91,TB 39,0,NO,PENALTY
-3,405,1,07:29,,10,1,5,NO 9,0,NO,
-3,454,1,06:11,,10,1,15,NO 19,0,NO,
-3,524,1,04:27,,10,1,42,NO 31,0,NO,
-3,585,1,03:42,,5,1,49,TB 44,0,NO,
-3,726,1,01:01,,6,1,91,TB 6,1,NO,TD
-3,747,0,00:57,,0,1,91,TB 15,1,NO,XP
-3,606,2,03:10,,3,1,52,TB 42,0,NO,
-17,3617,2,07:22,,3,4,17,NO 25,0,NO,
-17,3725,3,04:50,,10,4,17,NO 35,0,NO,
-17,3645,1,06:46,,10,4,22,NO 35,0,NO,
-17,3677,2,06:03,,5,4,22,NO 40,0,NO,
-17,3593,1,08:05,,10,4,7,NO 18,0,NO,
-17,3702,3,05:15,,5,4,17,NO 40,0,NO,PENALTY
-17,3747,4,04:44,,10,4,17,NO 35,0,NO,PUNT
-4,810,2,00:18,,7,1,18,TB 17,0,TB,
-4,879,2,14:26,,2,2,27,TB 40,0,TB,
-4,921,4,13:03,,1,2,27,TB 41,0,TB,PUNT
-4,834,0,,,0,1,18,,0,,
-4,854,1,15:00,,10,2,26,TB 32,0,TB,
-4,900,3,13:43,,1,2,27,TB 41,0,TB,
-4,786,1,00:53,,10,1,18,TB 14,0,TB,
-4,763,0,00:57,,0,1,0,NO 35,0,NO,KICKOFF
-2,231,1,11:21,,10,1,13,TB 11,0,TB,
-2,339,2,09:06,,10,1,27,TB 35,0,TB,
-2,294,3,09:44,,1,1,24,TB 33,0,TB,
-2,252,1,10:53,,10,1,17,TB 24,0,TB,
-2,317,1,09:11,,10,1,30,TB 35,0,TB,
-2,273,2,10:21,,6,1,22,TB 28,0,TB,
-2,381,4,07:37,,4,1,30,TB 41,0,TB,PUNT
-2,360,3,08:23,,7,1,30,TB 38,0,TB,
-1,117,2,13:13,,5,1,24,NO 40,0,NO,
-1,145,1,12:41,,10,1,29,NO 49,0,NO,
-1,93,1,13:46,,10,1,15,NO 35,0,NO,
-1,36,0,15:00,,0,1,0,TB 35,0,TB,KICKOFF
-1,211,4,11:28,,9,1,25,50,0,NO,PUNT
-1,170,2,12:06,,5,1,25,TB 46,0,NO,
-1,72,2,14:30,,1,1,10,NO 34,0,NO,
-1,51,1,15:00,,10,1,9,NO 25,0,NO,
-1,192,3,12:02,,5,1,25,TB 46,0,NO,
-5,1006,4,12:11,,9,2,1,NO 5,0,NO,PUNT
-5,941,1,12:53,,10,2,0,NO 4,0,NO,
-5,963,2,12:48,,10,2,1,NO 4,0,NO,
-5,984,3,12:15,,9,2,1,NO 5,0,NO,
-13,2393,0,08:38,,0,3,0,TB 35,0,TB,KICKOFF
-13,2514,2,06:28,,4,3,64,TB 11,0,NO,
-13,2408,1,08:38,,10,3,9,NO 25,0,NO,
-13,2483,1,07:03,,10,3,64,TB 17,0,NO,
-13,2459,1,07:27,,10,3,58,NO 37,0,NO,
-13,2432,2,08:01,,1,3,12,NO 34,0,NO,
-13,2536,3,06:24,,4,3,75,TB 11,1,NO,TD
-13,2561,0,06:20,,0,3,75,TB 2,1,NO,2PR
-15,3162,1,15:00,,10,4,64,TB 18,0,NO,
-15,3279,1,12:38,,7,4,72,TB 7,0,NO,
-15,3010,2,01:37,,5,3,57,NO 30,0,NO,
-15,3348,4,11:58,,3,4,72,TB 3,1,NO,FG
-15,3326,3,12:00,,3,4,72,TB 3,0,NO,
-15,3145,0,,,0,3,57,,0,,
-15,3221,3,13:42,,1,4,68,TB 9,0,NO,PENALTY
-15,3304,2,12:04,,3,4,72,TB 3,0,NO,
-15,3081,2,00:41,,10,3,57,NO 40,0,NO,
-15,2943,2,01:45,,10,3,57,NO 25,0,NO,PENALTY
-15,3196,2,14:22,,3,4,66,TB 11,0,NO,
-15,3049,1,01:16,,10,3,10,NO 40,0,NO,
-15,2907,1,01:52,,10,3,57,NO 25,0,NO,
-15,3255,3,13:20,,16,4,68,TB 24,0,NO,
-15,2892,0,01:52,,0,3,0,TB 35,0,TB,KICKOFF
+11,2037,1,14:06,"(14:06) M.Ingram right guard for 14 yards, TOUCHDOWN.",10,3,14,TB 14,1,NO,TD
+11,2055,0,14:01,"W.Lutz extra point is GOOD, Center-J.Drescher, Holder-T.Morstead.",0,3,14,TB 15,1,NO,XP
+10,1954,0,15:00,"W.Lutz kicks 63 yards from NO 35 to TB 2. J.Huff MUFFS catch, touched at TB 4, and recovers at TB 4. J.Huff to TB 4 for no gain (D.Harris).",0,3,0,NO 35,0,NO,KICKOFF
+10,2010,2,14:18,(14:18) J.Winston pass deep left intended for M.Evans INTERCEPTED by J.Byrd at TB 38. J.Byrd to TB 14 for 24 yards (J.Rodgers).,11,3,-1,TB 3,0,TB,INT
+10,1989,1,14:57,(14:57) J.Rodgers left guard to TB 3 for -1 yards (P.Kruger).,10,3,-1,TB 4,0,TB,
+13,2459,1,07:27,"(7:27) D.Brees pass short left to M.Thomas to TB 17 for 46 yards (K.Alexander). TB-V.Hargreaves was injured during the play. His return is Probable.  Pass 3, YAC 43",10,3,58,NO 37,0,NO,
+13,2561,0,06:20,(Run formation) TWO-POINT CONVERSION ATTEMPT. M.Ingram rushes left guard. ATTEMPT SUCCEEDS.,0,3,75,TB 2,1,NO,2PR
+13,2432,2,08:01,(8:01) T.Lelito reported in as eligible.  M.Ingram right guard to NO 37 for 3 yards (C.McDonald; D.Lambert).,1,3,12,NO 34,0,NO,
+13,2483,1,07:03,(7:03) T.Lelito reported in as eligible.  M.Ingram right tackle to TB 11 for 6 yards (B.Grimes).,10,3,64,TB 17,0,NO,
+13,2393,0,08:38,"R.Aguayo kicks 65 yards from TB 35 to end zone, Touchback.",0,3,0,TB 35,0,TB,KICKOFF
+13,2514,2,06:28,(6:28) D.Brees pass incomplete short right to W.Snead (G.McCoy).,4,3,64,TB 11,0,NO,
+13,2536,3,06:24,"(6:24) (Shotgun) D.Brees pass short left to T.Cadet for 11 yards, TOUCHDOWN. Pass 4, YAC 7",4,3,75,TB 11,1,NO,TD
+13,2408,1,08:38,"(8:38) (Shotgun) D.Brees pass short right to B.Cooks to NO 34 for 9 yards (B.Grimes). Pass 9, YAC 0",10,3,9,NO 25,0,NO,
+12,2299,1,09:35,"(9:35) J.Winston pass short right to C.Sims to NO 9 for no gain (S.Moore) [C.Jordan]. PENALTY on NO-V.Bell, Illegal Use of Hands, 5 yards, enforced at NO 9 - No Play.",9,3,75,NO 9,0,TB,PENALTY
+12,2377,0,08:38,"R.Aguayo extra point is GOOD, Center-A.DePaola, Holder-B.Anger.",0,3,75,NO 15,1,TB,XP
+12,2334,1,09:16,(9:16) J.Rodgers left guard to NO 3 for 1 yard (S.Rankins).,4,3,72,NO 4,0,TB,
+12,2273,1,10:09,(10:09) C.Sims left tackle pushed ob at NO 9 for 12 yards (B.Webb).,10,3,66,NO 21,0,TB,
+12,2218,1,11:24,"(11:24) (Shotgun) J.Winston pass short right to M.Evans to NO 32 for 8 yards (S.Moore). Pass 9, YAC -1",10,3,43,NO 40,0,TB,
+12,2087,1,14:01,"(14:01) J.Winston pass short left to J.Rodgers to TB 37 for 12 yards (V.Bell). Pass 3, YAC 9",10,3,12,TB 25,0,TB,
+12,2115,1,13:27,"(13:27) J.Rodgers right tackle to TB 41 for 4 yards (V.Bell; D.Ellerbe). PENALTY on NO-T.Davison, Defensive Holding, 5 yards, enforced at TB 41.",10,3,21,TB 37,0,TB,PENALTY
+12,2147,1,13:07,(13:07) J.Rodgers right end to NO 45 for 9 yards (R.Harper).,10,3,30,TB 46,0,TB,
+12,2246,2,10:47,(10:47) L.Wester reported in as eligible.  J.Rodgers right guard to NO 21 for 11 yards (S.Moore; N.Stupar).,2,3,54,NO 32,0,TB,
+12,2168,2,12:37,(12:37) J.Rodgers left guard to NO 45 for no gain (N.Fairley; J.Byrd).,1,3,30,NO 45,0,TB,
+12,2071,0,14:01,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback.",0,3,0,NO 35,0,NO,KICKOFF
+12,2359,2,08:43,"(8:43) J.Rodgers right guard for 3 yards, TOUCHDOWN.",3,3,75,NO 3,1,TB,TD
+12,2189,3,11:54,"(11:54) J.Winston pass short right to A.Cross pushed ob at NO 40 for 5 yards (N.Stupar). Pass 5, YAC 0",1,3,35,NO 45,0,TB,
+15,3348,4,11:58,"(11:58) W.Lutz 21 yard field goal is GOOD, Center-J.Drescher, Holder-T.Morstead.",3,4,72,TB 3,1,NO,FG
+15,2907,1,01:52,"(1:52) (Shotgun) D.Brees pass short left to C.Fleener to NO 29 for 4 yards (K.Alexander). FUMBLES (K.Alexander), RECOVERED by TB-D.Lambert at NO 21. The Replay Official reviewed the pass completion ruling, and the play was REVERSED. (Shotgun) D.Brees pass incomplete short left to C.Fleener (K.Alexander).",10,3,57,NO 25,0,NO,
+15,3326,3,12:00,(12:00) D.Brees pass incomplete short left to M.Thomas (K.Tandy).,3,4,72,TB 3,0,NO,
+15,3081,2,00:41,"(:41) (Shotgun) D.Brees pass deep left to B.Cooks to TB 18 for 42 yards (V.Hargreaves). Pass 37, YAC 5",10,3,57,NO 40,0,NO,
+15,3010,2,01:37,"(1:37) D.Brees pass short right to J.Phillips to NO 40 for 10 yards (B.Grimes). Pass 10, YAC 0",5,3,57,NO 30,0,NO,
+15,3221,3,13:42,"(13:42) T.Lelito reported in as eligible.  M.Ingram right end pushed ob at TB 4 for 5 yards (K.Alexander). PENALTY on NO-M.Ingram, Face Mask (15 Yards), 15 yards, enforced at TB 9 - No Play.",1,4,68,TB 9,0,NO,PENALTY
+15,3255,3,13:20,"(13:20) (Shotgun) D.Brees pass deep left to M.Thomas to TB 7 for 17 yards (V.Hargreaves). Pass 16, YAC 1",16,4,68,TB 24,0,NO,
+15,2892,0,01:52,"R.Aguayo kicks 65 yards from TB 35 to end zone, Touchback.",0,3,0,TB 35,0,TB,KICKOFF
+15,3049,1,01:16,(1:16) M.Ingram right tackle to NO 40 for no gain (K.Alexander; K.Tandy).,10,3,10,NO 40,0,NO,
+15,3196,2,14:22,(14:22) M.Ingram left tackle to TB 9 for 2 yards (L.David).,3,4,66,TB 11,0,NO,
+15,3145,0,,END QUARTER 3,0,3,57,,0,,
+15,3162,1,15:00,"(15:00) D.Brees pass short left to J.Kuhn to TB 11 for 7 yards (Da.Smith). Pass 6, YAC 1",10,4,64,TB 18,0,NO,
+15,3304,2,12:04,(12:04) (Shotgun) D.Brees pass incomplete short left to M.Thomas (V.Hargreaves).,3,4,72,TB 3,0,NO,
+15,2943,2,01:45,"(1:45) (Shotgun) PENALTY on TB-D.Lambert, Neutral Zone Infraction, 5 yards, enforced at NO 25 - No Play.",10,3,57,NO 25,0,NO,PENALTY
+15,3279,1,12:38,(12:38) M.Ingram left tackle to TB 3 for 4 yards (K.Tandy).,7,4,72,TB 7,0,NO,
+14,2709,3,04:33,"(4:33) (Shotgun) J.Winston pass short right to B.Myers to TB 37 for 12 yards (C.Robertson). Pass 7, YAC 5",10,3,12,TB 25,0,TB,
+14,2591,1,06:20,"(6:20) J.Winston pass short right to C.Brate to TB 34 for 9 yards (B.Webb). TB-C.Brate was injured during the play. His return is Questionable.  PENALTY on TB-A.Marpet, Offensive Holding, 10 yards, enforced at TB 25 - No Play.",10,3,-10,TB 25,0,TB,PENALTY
+14,2733,1,04:10,(4:10) (No Huddle) C.Sims left end to TB 41 for 4 yards (J.Byrd; K.Edebali).,10,3,16,TB 37,0,TB,
+14,2575,0,06:20,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback.",0,3,0,NO 35,0,NO,KICKOFF
+14,2630,1,06:03,"(6:03) (Shotgun) J.Winston pass short middle to B.Myers to TB 24 for 9 yards (V.Bell). Pass 9, YAC 0",20,3,-1,TB 15,0,TB,
+14,2654,2,05:19,"(5:19) (Shotgun) J.Winston pass short left to C.Sims to TB 30 for 6 yards (D.Tapp). Pass -1, YAC 7",11,3,5,TB 24,0,TB,
+14,2804,1,02:46,"(2:46) (Shotgun) J.Winston pass short right to C.Sims to NO 34 for 13 yards (S.Moore; C.Robertson). TB-E.Smith was injured during the play. His return is Probable.  Pass 0, YAC 13",10,3,41,NO 47,0,TB,
+14,2758,2,03:36,(3:36) (Shotgun) J.Winston pass incomplete short right to B.Myers.,6,3,28,TB 41,0,TB,
+14,2876,0,01:52,"R.Aguayo extra point is GOOD, Center-A.DePaola, Holder-B.Anger.",0,3,75,NO 15,1,TB,XP
+14,2832,1,01:59,"(1:59) (Shotgun) J.Winston pass deep left to M.Evans for 34 yards, TOUCHDOWN [N.Fairley]. Penalty on NO-S.Moore, Defensive Pass Interference, declined. Pass 30, YAC 4",10,3,75,NO 34,1,TB,TD
+14,2682,3,04:39,"(4:39) (Shotgun) PENALTY on TB-A.Marpet, False Start, 5 yards, enforced at TB 30 - No Play.",5,3,0,TB 30,0,TB,PENALTY
+14,2780,3,03:31,"(3:31) (Shotgun) J.Winston pass short left to J.Huff to NO 47 for 12 yards (V.Bell). Pass 0, YAC 12",6,3,28,TB 41,0,TB,
+17,3593,1,08:05,(8:05) T.Lelito reported in as eligible.  T.Hightower right guard to NO 25 for 7 yards (K.Alexander; Da.Smith).,10,4,7,NO 18,0,NO,
+17,3617,2,07:22,"(7:22) D.Brees pass short left to M.Thomas to NO 35 for 10 yards (K.Tandy). Pass 4, YAC 6 INJURY UPDATE: Tampa Bay #84, C.Brate, DOUBTFUL to return.",3,4,17,NO 25,0,NO,
+17,3747,4,04:44,"(4:44) T.Morstead punts 40 yards to TB 25, Center-J.Drescher. A.Humphries to TB 43 for 18 yards (S.Keo).",10,4,17,NO 35,0,NO,PUNT
+17,3702,3,05:15,"(5:15) (Shotgun) PENALTY on NO-D.Brees, Delay of Game, 5 yards, enforced at NO 40 - No Play.",5,4,17,NO 40,0,NO,PENALTY
+17,3725,3,04:50,(4:50) (Shotgun) D.Brees pass incomplete deep left to B.Cooks (V.Hargreaves).,10,4,17,NO 35,0,NO,
+17,3645,1,06:46,"(6:46) D.Brees pass short right to M.Thomas to NO 40 for 5 yards (B.Grimes). Pass 4, YAC 1",10,4,22,NO 35,0,NO,
+17,3677,2,06:03,(6:03) T.Hightower right end to NO 40 for no gain (L.David).,5,4,22,NO 40,0,NO,
+16,3556,3,08:13,"(8:13) (Shotgun) J.Winston pass short left intended for R.Shepard INTERCEPTED by J.Byrd at NO 17. J.Byrd to NO 36 for 19 yards (C.Sims). PENALTY on NO-S.Moore, Illegal Block Above the Waist, 10 yards, enforced at NO 28.",14,4,47,NO 28,0,TB,INT
+16,3456,3,10:42,"(10:42) (Shotgun) J.Winston pass short right to M.Evans to NO 36 for 6 yards (S.Moore). Pass 6, YAC 0",1,4,39,NO 42,0,TB,
+16,3512,1,09:51,"(9:51) (No Huddle, Shotgun) J.Winston sacked at NO 31 for -7 yards (C.Jordan).",10,4,44,NO 24,0,TB,
+16,3432,2,11:17,"(11:17) (Shotgun) J.Winston pass short left to M.Evans to NO 42 for 9 yards (C.Robertson). Pass 0, YAC 9",10,4,33,TB 49,0,TB,
+16,3367,0,11:55,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback.",0,4,0,NO 35,0,NO,KICKOFF
+16,3484,1,10:15,"(10:15) (No Huddle, Shotgun) J.Winston pass short middle to A.Humphries to NO 24 for 12 yards (R.Harper). Pass 6, YAC 6",10,4,51,NO 36,0,TB,
+16,3535,2,08:58,(8:58) (Shotgun) J.Winston scrambles up the middle to NO 28 for 3 yards (S.Rankins).,17,4,47,NO 31,0,TB,
+16,3406,1,11:22,(11:22) (Shotgun) J.Winston pass incomplete short middle to B.Myers.,10,4,24,TB 49,0,TB,
+16,3382,1,11:55,"(11:55) J.Winston pass deep right to R.Shepard to TB 49 for 24 yards (D.Ellerbe). Pass 17, YAC 7",10,4,24,TB 25,0,TB,
+19,4046,0,02:00,R.Aguayo kicks onside 10 yards from TB 35 to TB 45. B.Cooks (didn't try to advance) to TB 45 for no gain (A.Glanton).,0,4,0,TB 35,0,TB,KICKOFF
+19,4090,0,01:55,Timeout #1 by TB at 01:55.,0,4,8,,0,,TIMEOUT
+19,4265,0,00:00,END GAME,0,4,16,,0,,
+19,4185,0,01:44,Timeout #3 by TB at 01:44.,0,4,19,,0,,TIMEOUT
+19,4068,1,01:59,(1:59) M.Ingram right guard to TB 38 for 7 yards (B.McDougald).,10,4,16,TB 45,0,NO,
+19,4141,0,01:51,Timeout #1 by NO at 01:51.,0,4,9,,0,,TIMEOUT
+19,4129,0,01:51,Timeout #2 by TB at 01:51.,0,4,16,,0,,TIMEOUT
+19,4164,3,01:51,(1:51) M.Ingram right guard to TB 26 for 10 yards (B.Grimes).,1,4,16,TB 36,0,NO,
+19,4107,2,01:55,(1:55) M.Ingram left guard to TB 36 for 2 yards (G.McCoy).,3,4,16,TB 38,0,NO,
+19,4202,1,01:44,(1:44) D.Brees kneels to TB 27 for -1 yards.,10,4,18,TB 26,0,NO,
+19,4244,3,00:38,(:38) D.Brees kneels to TB 29 for -1 yards.,12,4,16,TB 28,0,NO,
+19,4223,2,01:06,(1:06) D.Brees kneels to TB 28 for -1 yards.,11,4,17,TB 27,0,NO,
+18,3773,1,04:33,"(4:33) J.Winston pass short middle to C.Sims to NO 48 for 9 yards (S.Rankins). Pass 4, YAC 5",10,4,9,TB 43,0,TB,
+18,3916,3,02:46,"(2:46) (Shotgun) J.Winston pass deep right to R.Shepard to NO 17 for 22 yards (K.Crawley; J.Byrd). Pass 19, YAC 3",13,4,40,NO 39,0,TB,
+18,3823,3,03:58,"(3:58) (Shotgun) J.Winston pass short left to M.Evans to NO 36 for 12 yards (K.Crawley). Pass 11, YAC 1",1,4,21,NO 48,0,TB,
+18,3940,1,02:17,"(2:17) (No Huddle, Shotgun) J.Winston pass incomplete deep right to B.Myers.",10,4,40,NO 17,0,TB,
+18,3797,2,04:04,"(4:04) (No Huddle, Shotgun) J.Winston pass incomplete short left to R.Shepard (B.Webb).",1,4,21,NO 48,0,TB,
+18,3966,2,02:13,(2:13) (Shotgun) J.Winston pass incomplete deep middle to B.Myers.,10,4,40,NO 17,0,TB,
+18,3989,3,02:09,(2:09) (Shotgun) J.Winston pass incomplete short left to A.Humphries.,10,4,40,NO 17,0,TB,
+18,3847,1,03:32,"(3:32) (No Huddle, Shotgun) J.Winston pass incomplete short left [N.Fairley]. Penalty on TB-A.Marpet, Offensive Holding, declined. PENALTY on TB-J.Winston, Intentional Grounding, 11 yards, enforced at NO 36.",10,4,40,NO 36,0,TB,PENALTY
+18,4011,4,02:05,"(2:05) R.Aguayo 35 yard field goal is GOOD, Center-A.DePaola, Holder-B.Anger.",10,4,40,NO 17,1,TB,FG
+18,3895,2,03:27,(3:27) (Shotgun) J.Winston scrambles left end to NO 39 for 8 yards (D.Onyemata; B.Webb).,21,4,18,NO 47,0,TB,
+1,145,1,12:41,(12:41) M.Ingram right tackle to TB 46 for 5 yards (Da.Smith; K.Alexander).,10,1,29,NO 49,0,NO,
+1,211,4,11:28,"(11:28) T.Morstead punts 39 yards to TB 11, Center-J.Drescher, fair catch by A.Humphries.",9,1,25,50,0,NO,PUNT
+1,51,1,15:00,(15:00) M.Ingram right tackle to NO 34 for 9 yards (B.Grimes).,10,1,9,NO 25,0,NO,
+1,36,0,15:00,"R.Aguayo kicks 65 yards from TB 35 to end zone, Touchback.",0,1,0,TB 35,0,TB,KICKOFF
+1,192,3,12:02,(12:02) (Shotgun) D.Brees sacked at 50 for -4 yards (L.David).,5,1,25,TB 46,0,NO,
+1,117,2,13:13,"(13:13) (Shotgun) D.Brees pass short right to C.Fleener to NO 49 for 9 yards (B.Grimes). Pass 8, YAC 1",5,1,24,NO 40,0,NO,
+1,72,2,14:30,(14:30) M.Ingram right tackle to NO 35 for 1 yard (K.Alexander; L.David).,1,1,10,NO 34,0,NO,
+1,93,1,13:46,"(13:46) (Shotgun) D.Brees pass short right to M.Ingram pushed ob at NO 40 for 5 yards (K.Alexander). Pass 0, YAC 5",10,1,15,NO 35,0,NO,
+1,170,2,12:06,(12:06) D.Brees pass incomplete short left to W.Snead (K.Alexander).,5,1,25,TB 46,0,NO,
+3,524,1,04:27,"(4:27) D.Brees pass short left to B.Cooks to TB 49 for 20 yards (Da.Smith). Pass 15, YAC 5",10,1,42,NO 31,0,NO,
+3,585,1,03:42,(3:42) T.Hightower right tackle to TB 42 for 2 yards (G.McCoy).,5,1,49,TB 44,0,NO,
+3,747,0,00:57,"W.Lutz extra point is GOOD, Center-J.Drescher, Holder-T.Morstead.",0,1,91,TB 15,1,NO,XP
+3,681,1,02:10,(2:10) M.Ingram left tackle to TB 27 for no gain (R.Ayers).,10,1,64,TB 27,0,NO,
+3,629,1,02:31,"(2:31) D.Brees FUMBLES (Aborted) at TB 39, and recovers at TB 40. D.Brees pass incomplete short right to C.Fleener. PENALTY on TB-C.Conte, Defensive Pass Interference, 12 yards, enforced at TB 39 - No Play.",10,1,91,TB 39,0,NO,PENALTY
+3,454,1,06:11,"(6:11) D.Brees pass short left to T.Cadet pushed ob at NO 24 for 5 yards (L.David). Pass 5, YAC 0",10,1,15,NO 19,0,NO,
+3,702,2,01:48,"(1:48) D.Brees pass deep middle to C.Fleener to TB 6 for 21 yards (B.McDougald; K.Tandy). Pass 19, YAC 2",10,1,85,TB 27,0,NO,
+3,429,2,06:59,(6:59) T.Hightower right guard to NO 19 for 5 yards (K.Alexander; C.McDonald).,5,1,10,NO 14,0,NO,
+3,405,1,07:29,"(7:29) D.Brees pass short left to J.Phillips to NO 14 for 5 yards (L.David). Pass 5, YAC 0",10,1,5,NO 9,0,NO,
+3,548,1,03:47,"(3:47) (Shotgun) D.Brees pass incomplete deep left to C.Fleener. PENALTY on TB-N.Spence, Defensive Offside, 5 yards, enforced at TB 49 - No Play.",10,1,91,TB 49,0,NO,PENALTY
+3,726,1,01:01,"(1:01) M.Ingram left guard for 6 yards, TOUCHDOWN.",6,1,91,TB 6,1,NO,TD
+3,478,2,05:38,(5:38) T.Hightower right tackle to NO 28 for 4 yards (N.Spence).,5,1,19,NO 24,0,NO,
+3,606,2,03:10,(3:10) L.Turner reported in as eligible.  T.Hightower left tackle to TB 39 for 3 yards (L.David).,3,1,52,TB 42,0,NO,
+3,503,3,04:59,(4:59) J.Kuhn left guard to NO 31 for 3 yards (K.Alexander).,1,1,22,NO 28,0,NO,
+2,339,2,09:06,(9:06) (Shotgun) J.Rodgers left end to TB 38 for 3 yards (D.Ellerbe).,10,1,27,TB 35,0,TB,
+2,317,1,09:11,(9:11) J.Winston pass incomplete short left to L.Stocker (C.Jordan).,10,1,30,TB 35,0,TB,
+2,381,4,07:37,"(7:37) B.Anger punts 50 yards to NO 9, Center-A.DePaola, fair catch by T.Lewis.",4,1,30,TB 41,0,TB,PUNT
+2,273,2,10:21,(10:21) J.Rodgers left guard to TB 33 for 5 yards (D.Ellerbe).,6,1,22,TB 28,0,TB,
+2,252,1,10:53,(10:53) J.Rodgers right end to TB 28 for 4 yards (N.Fairley).,10,1,17,TB 24,0,TB,
+2,294,3,09:44,(9:44) L.Wester reported in as eligible.  J.Rodgers left end to TB 35 for 2 yards (C.Jordan).,1,1,24,TB 33,0,TB,
+2,231,1,11:21,(11:21) J.Rodgers left tackle to TB 24 for 13 yards (R.Harper).,10,1,13,TB 11,0,TB,
+2,360,3,08:23,(8:23) (Shotgun) J.Winston scrambles left end to TB 41 for 3 yards (D.Ellerbe).,7,1,30,TB 38,0,TB,
+5,1006,4,12:11,"(12:11) T.Morstead punts 45 yards to 50, Center-J.Drescher. A.Humphries pushed ob at NO 44 for 6 yards (B.Coleman). PENALTY on NO-N.Stupar, Ineligible Downfield Kick, 5 yards, enforced at NO 44.",9,2,1,NO 5,0,NO,PUNT
+5,963,2,12:48,(12:48) M.Ingram right tackle to NO 5 for 1 yard (N.Spence; C.McDonald).,10,2,1,NO 4,0,NO,
+5,984,3,12:15,(12:15) (Shotgun) D.Brees pass incomplete short right to B.Cooks (B.Grimes).,9,2,1,NO 5,0,NO,
+5,941,1,12:53,(12:53) D.Brees pass incomplete short left to W.Snead [G.McCoy].,10,2,0,NO 4,0,NO,
+4,854,1,15:00,(15:00) (Shotgun) J.Rodgers right guard to TB 40 for 8 yards (R.Harper; S.Moore).,10,2,26,TB 32,0,TB,
+4,786,1,00:53,"(:53) J.Winston pass short middle to J.Rodgers to TB 17 for 3 yards (P.Kruger). Pass 3, YAC 0",10,1,18,TB 14,0,TB,
+4,834,0,,END QUARTER 1,0,1,18,,0,,
+4,879,2,14:26,(14:26) J.Rodgers left end to TB 41 for 1 yard (D.Ellerbe).,2,2,27,TB 40,0,TB,
+4,763,0,00:57,W.Lutz kicks 68 yards from NO 35 to TB -3. J.Huff to TB 14 for 17 yards (K.Edebali).,0,1,0,NO 35,0,NO,KICKOFF
+4,900,3,13:43,(13:43) J.Rodgers right guard to TB 41 for no gain (C.Robertson).,1,2,27,TB 41,0,TB,
+4,810,2,00:18,"(:18) (Shotgun) J.Winston pass short right to R.Shepard to TB 32 for 15 yards (S.Moore). Pass 10, YAC 5",7,1,18,TB 17,0,TB,
+4,921,4,13:03,"(13:03) B.Anger punts 55 yards to NO 4, Center-A.DePaola, downed by TB-J.Robinson.",1,2,27,TB 41,0,TB,PUNT
+7,1307,2,08:31,"(8:31) (Shotgun) D.Brees pass short left to M.Thomas to TB 44 for 5 yards (V.Hargreaves). Pass 5, YAC 0",6,2,31,TB 49,0,NO,
+7,1209,1,10:50,(10:50) T.Hightower right tackle to NO 29 for 4 yards (K.Alexander).,10,2,4,NO 25,0,NO,
+7,1424,3,06:54,(6:54) (Shotgun) D.Brees pass incomplete short left to B.Cooks.,3,2,51,TB 24,0,NO,
+7,1282,1,09:05,(9:05) T.Hightower left tackle to TB 49 for 4 yards (V.Hargreaves).,10,2,26,NO 47,0,NO,
+7,1190,0,10:50,"R.Aguayo kicks 65 yards from TB 35 to end zone, Touchback.",0,2,0,TB 35,0,TB,KICKOFF
+7,1331,3,07:51,"(7:51) L.Turner reported in as eligible.  D.Brees pass short left to B.Cooks to TB 31 for 13 yards (V.Hargreaves). TB-J.Robinson was injured during the play. His return is Questionable.  Penalty on TB-G.McCoy, Defensive Offside, declined. Pass 13, YAC 0",1,2,44,TB 44,0,NO,
+7,1446,4,06:50,"(6:50) W.Lutz 42 yard field goal is GOOD, Center-J.Drescher, Holder-T.Morstead.",3,2,51,TB 24,1,NO,FG
+7,1254,1,09:42,"(9:42) D.Brees pass short left to T.Hightower to NO 47 for 11 yards (B.McDougald). Pass -5, YAC 16",10,2,22,NO 36,0,NO,
+7,1372,1,07:34,(7:34) (Shotgun) D.Brees pass incomplete short left to M.Ingram.,10,2,44,TB 31,0,NO,
+7,1403,2,07:28,(7:28) M.Ingram left tackle to TB 24 for 7 yards (A.Verner).,10,2,51,TB 31,0,NO,
+7,1230,2,10:19,"(10:19) (Shotgun) D.Brees pass short middle to W.Snead to NO 36 for 7 yards (J.Elliott). Pass 6, YAC 1",6,2,11,NO 29,0,NO,
+6,1043,1,12:03,"(12:03) (Shotgun) J.Winston pass deep middle to M.Evans to NO 22 for 17 yards (J.Byrd). Pass 16, YAC 1",10,2,26,NO 39,0,TB,
+6,1174,0,10:50,"R.Aguayo extra point is GOOD, Center-A.DePaola, Holder-B.Anger.",0,2,39,NO 15,1,TB,XP
+6,1147,1,10:55,"(10:55) (Shotgun) J.Winston pass short left to C.Brate for 12 yards, TOUCHDOWN. Pass 7, YAC 5",10,2,39,NO 12,1,TB,TD
+6,1093,2,11:40,(11:40) C.Sims left end to NO 26 for -4 yards (J.Byrd).,10,2,13,NO 22,0,TB,
+6,1067,1,11:43,"(11:43) (No Huddle, Shotgun) J.Winston pass incomplete deep middle to C.Brate.",10,2,13,NO 22,0,TB,
+6,1114,3,11:00,"(11:00) (Shotgun) J.Winston pass incomplete short middle to A.Humphries [N.Fairley]. PENALTY on NO-V.Bell, Defensive Pass Interference, 14 yards, enforced at NO 26 - No Play. New Orleans challenged the pass was not tipped ruling, and the play was Upheld. The ruling on the field was confirmed. (Timeout #1.)",14,2,39,NO 26,0,TB,PENALTY
+9,1700,2,02:24,"(2:24) D.Brees pass short right to W.Snead pushed ob at TB 46 for 14 yards (B.Grimes). Flea-flicker: Brees handed off to Ingram, who lateralled back to Brees, who then passed to Snead.  Pass 14, YAC 0",10,2,27,NO 40,0,NO,
+9,1771,1,01:44,"(1:44) (Shotgun) D.Brees pass short middle to M.Thomas to TB 17 for 15 yards (B.Grimes). Pass 11, YAC 4",10,2,56,TB 32,0,NO,
+9,1636,1,03:38,(3:38) M.Ingram right tackle to NO 36 for 9 yards (B.McDougald).,10,2,9,NO 27,0,NO,
+9,1728,0,02:00,Two-Minute Warning,0,2,27,,0,,
+9,1800,1,01:10,(1:10) (Shotgun) D.Brees sacked at TB 18 for -1 yards (C.McDonald).,10,2,55,TB 17,0,NO,
+9,1840,2,01:02,"(1:02) (Shotgun) D.Brees pass short right to M.Ingram to TB 20 for -2 yards (C.Conte). Pass -6, YAC 4",11,2,57,TB 18,0,NO,
+9,1823,0,01:02,Timeout #2 by NO at 01:02.,0,2,55,,0,,TIMEOUT
+9,1874,3,00:27,(:27) (Shotgun) D.Brees scrambles up the middle to TB 16 for 4 yards (R.Russell).,13,2,57,TB 20,0,NO,
+9,1678,1,02:29,(2:29) D.Brees pass incomplete deep right to B.Cooks.,10,2,13,NO 40,0,NO,
+9,1899,0,00:03,Timeout #3 by NO at 00:03.,0,2,57,,0,,TIMEOUT
+9,1745,1,02:00,"(2:00) D.Brees pass short left to B.Cooks to TB 32 for 14 yards (V.Hargreaves). FUMBLES (V.Hargreaves), ball out of bounds at TB 32. Cooks fumbled out-of-bounds on the tackle.  Pass 14, YAC 0",10,2,57,TB 46,0,NO,FUMBLE
+9,1657,2,03:06,(3:06) M.Ingram right tackle to NO 40 for 4 yards (K.Alexander).,1,2,13,NO 36,0,NO,
+9,1916,4,00:03,"(:03) (Field Goal formation) W.Lutz 34 yard field goal is GOOD, Center-J.Drescher, Holder-T.Morstead.",9,2,57,TB 16,1,NO,FG
+8,1556,2,04:35,"(4:35) (Shotgun) J.Winston pass short right to J.Huff to TB 40 for 12 yards (V.Bell). Pass -1, YAC 13",20,2,15,TB 28,0,TB,
+8,1580,3,03:52,(3:52) (Shotgun) J.Winston pass incomplete deep left to J.Huff.,8,2,15,TB 40,0,TB,
+8,1602,4,03:46,"(3:46) B.Anger punts 48 yards to NO 12, Center-A.DePaola, fair catch by T.Lewis. PENALTY on TB-R.Smith, Unsportsmanlike Conduct, 15 yards, enforced at NO 12.",8,2,15,TB 40,0,TB,PUNT
+8,1481,1,06:45,"(6:45) (Shotgun) J.Winston pass short left to C.Sims to TB 27 for 2 yards (J.Byrd). Pass 1, YAC 1",10,2,2,TB 25,0,TB,
+8,1533,1,05:21,"(5:21) J.Winston sacked at TB 28 for -10 yards (S.Rankins, K.Edebali).",10,2,15,TB 38,0,TB,
+8,1505,2,06:01,"(6:01) (Shotgun) J.Winston pass short left to M.Evans to TB 38 for 11 yards (R.Harper). Pass 7, YAC 4",8,2,15,TB 27,0,TB,
+8,1466,0,06:45,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback.",0,2,0,NO 35,0,NO,KICKOFF

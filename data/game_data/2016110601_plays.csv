@@ -1,192 +1,192 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1222,4,11:14,,18,2,-8,PIT 33,0,PIT,PUNT
-9,1115,1,12:34,,10,2,-8,PIT 41,0,PIT,PENALTY
-9,1177,2,11:28,,18,2,-8,PIT 33,0,PIT,
-9,1148,1,12:12,,25,2,-8,PIT 26,0,PIT,
-9,1200,3,11:23,,18,2,-8,PIT 33,0,PIT,
-24,3672,3,09:27,,13,4,52,BAL 33,0,PIT,
-24,3617,1,10:11,,15,4,42,BAL 35,0,PIT,
-24,3535,2,11:29,,9,4,18,PIT 38,0,PIT,PENALTY
-24,3448,1,13:36,,10,4,5,PIT 25,0,PIT,
-24,3493,3,12:38,,1,4,12,PIT 34,0,PIT,
-24,3472,2,13:09,,5,4,75,PIT 30,0,PIT,FUMBLE
-24,3641,2,09:36,,13,4,75,BAL 33,0,PIT,FUMBLE
-24,3570,1,11:05,,10,4,45,PIT 43,0,PIT,
-24,3594,1,10:31,,10,4,40,BAL 30,0,PIT,PENALTY
-24,3716,0,08:38,,0,4,75,BAL 15,1,PIT,XP
-24,3696,4,08:47,,3,4,75,BAL 23,1,PIT,TD
-24,3514,1,12:04,,10,4,13,PIT 37,0,PIT,
-24,3433,0,13:36,,0,4,0,BAL 35,0,BAL,KICKOFF
-10,1367,1,09:53,,10,2,44,BAL 39,0,BAL,
-10,1416,2,09:47,,10,2,47,BAL 39,0,BAL,
-10,1636,3,06:41,,4,2,47,PIT 41,0,BAL,
-10,1304,1,10:50,,10,2,26,BAL 28,0,BAL,
-10,1614,2,07:10,,7,2,47,PIT 44,0,BAL,
-10,1459,3,09:10,,8,2,19,BAL 41,0,BAL,PENALTY
-10,1271,1,11:05,,10,2,21,BAL 12,0,BAL,PENALTY
-10,1495,3,08:42,,18,2,21,BAL 31,0,BAL,
-10,1550,4,07:52,,11,2,41,BAL 38,0,BAL,PENALTY
-10,1579,1,07:46,,10,2,44,PIT 47,0,BAL,
-10,1332,2,10:18,,6,2,44,BAL 32,0,BAL,PENALTY
-10,1523,4,08:06,,16,2,47,BAL 33,0,BAL,PENALTY
-10,1658,4,06:36,,4,2,47,PIT 41,0,BAL,PUNT
-20,2938,2,06:17,,10,3,1,PIT 32,0,BAL,
-20,2916,1,06:20,,10,3,0,PIT 32,0,BAL,
-20,2959,3,05:42,,9,3,8,PIT 31,0,BAL,
-20,2983,4,04:55,,2,3,8,PIT 24,1,BAL,FG
-6,787,1,01:50,,10,1,1,BAL 4,0,BAL,
-6,812,2,01:21,,9,1,96,BAL 5,1,BAL,TD
-6,832,0,01:07,,0,1,96,PIT 15,1,BAL,XP
-27,4319,3,02:18,,9,4,-5,BAL 26,0,BAL,
-27,4355,4,02:14,,15,4,-5,BAL 20,0,BAL,PUNT
-27,4255,1,03:04,,10,4,0,BAL 25,0,BAL,
-27,4281,2,02:24,,10,4,1,BAL 25,0,BAL,
-27,4338,0,02:14,,0,4,-5,,0,,TIMEOUT
-27,4302,0,02:18,,0,4,1,,0,,TIMEOUT
-18,2797,1,08:33,,10,3,8,BAL 24,0,BAL,
-18,2865,4,06:34,,15,3,-5,BAL 19,0,BAL,PUNT
-18,2821,2,07:55,,2,3,7,BAL 32,0,BAL,
-18,2846,3,07:14,,3,3,-5,BAL 31,0,BAL,
-28,4487,3,01:43,,3,4,49,BAL 29,0,PIT,
-28,4465,2,01:48,,3,4,36,BAL 29,0,PIT,
-28,4373,1,02:08,,10,4,0,PIT 35,0,PIT,
-28,4549,0,00:48,,0,4,65,BAL 15,1,PIT,XP
-28,4532,1,00:56,,4,4,65,BAL 4,1,PIT,TD
-28,4508,1,01:06,,10,4,61,BAL 16,0,PIT,
-28,4395,2,02:04,,10,4,29,PIT 35,0,PIT,
-28,4436,1,01:58,,10,4,36,BAL 36,0,PIT,
-28,4419,0,01:58,,0,4,29,,0,,
-26,4025,1,04:21,,10,4,41,BAL 49,0,PIT,
-26,4209,0,03:09,,0,4,65,,0,,TIMEOUT
-26,4144,1,03:30,,10,4,73,BAL 17,0,PIT,
-26,4001,2,04:54,,10,4,41,PIT 39,0,PIT,
-26,4226,4,03:09,,18,4,65,BAL 25,0,PIT,
-26,3908,1,06:16,,10,4,-1,PIT 20,0,PIT,
-26,4076,1,04:09,,10,4,63,BAL 27,0,PIT,
-26,3932,2,05:32,,21,4,-1,PIT 9,0,PIT,
-26,3979,1,05:00,,10,4,29,PIT 39,0,PIT,
-26,4098,2,04:04,,10,4,63,BAL 27,0,PIT,
-26,3955,3,05:30,,21,4,29,PIT 9,0,PIT,
-26,3875,1,06:50,,10,4,10,PIT 10,0,PIT,
-26,4166,2,03:26,,10,4,77,BAL 17,0,PIT,
-26,4120,3,03:59,,10,4,73,BAL 27,0,PIT,
-26,4047,2,04:16,,10,4,65,BAL 49,0,PIT,
-26,4190,3,03:20,,6,4,65,BAL 13,0,PIT,
-25,3845,4,07:00,,1,4,9,BAL 45,0,BAL,PUNT
-25,3732,0,08:38,,0,4,0,PIT 35,0,PIT,KICKOFF
-25,3799,2,07:49,,9,4,1,BAL 37,0,BAL,
-25,3821,3,07:43,,9,4,9,BAL 37,0,BAL,
-25,3778,1,08:32,,10,4,1,BAL 36,0,BAL,
-1,52,1,15:00,,10,1,0,PIT 25,0,PIT,
-1,95,3,14:05,,9,1,3,PIT 26,0,PIT,
-1,37,0,15:00,,0,1,0,BAL 35,0,BAL,KICKOFF
-1,74,2,14:52,,10,1,1,PIT 25,0,PIT,
-1,116,4,13:33,,7,1,3,PIT 28,0,PIT,PUNT
-5,629,2,05:38,,10,1,15,PIT 24,0,PIT,
-5,768,4,02:00,,4,1,21,PIT 45,0,PIT,PUNT
-5,723,2,03:16,,14,1,21,PIT 35,0,PIT,
-5,653,1,04:48,,10,1,10,PIT 39,0,PIT,PENALTY
-5,700,2,03:41,,9,1,11,PIT 40,0,PIT,PENALTY
-5,607,1,05:41,,10,1,0,PIT 24,0,PIT,
-5,747,3,02:32,,4,1,21,PIT 45,0,PIT,
-5,676,1,04:23,,15,1,16,PIT 34,0,PIT,
-13,1933,2,02:53,,5,2,8,PIT 22,0,PIT,
-13,1994,3,02:00,,7,2,3,PIT 20,0,PIT,
-13,1900,1,03:22,,10,2,5,PIT 17,0,PIT,
-13,2016,4,01:57,,7,2,3,PIT 20,0,PIT,PUNT
-13,1954,3,02:10,,2,2,3,PIT 25,0,PIT,PENALTY
-13,1977,0,02:00,,0,2,3,,0,,
-29,4650,2,00:25,,11,4,-2,PIT 37,0,BAL,
-29,4629,1,00:44,,10,4,-1,PIT 36,0,BAL,
-29,4671,0,00:00,,0,4,-2,,0,,
-29,4583,0,00:48,,0,4,-2,PIT 35,0,PIT,KICKOFF
-21,3002,0,04:50,,0,3,0,BAL 35,0,BAL,KICKOFF
-21,3017,1,04:50,,10,3,-4,PIT 25,0,PIT,
-21,3081,4,03:26,,12,3,-2,PIT 23,0,PIT,PUNT
-21,3059,3,03:32,,12,3,-2,PIT 23,0,PIT,
-21,3038,2,04:12,,14,3,-2,PIT 21,0,PIT,
-23,3346,2,14:27,,15,4,2,PIT 26,0,PIT,
-23,3280,1,15:00,,10,4,0,PIT 31,0,PIT,
-23,3392,4,13:44,,8,4,2,PIT 33,1,PIT,TD
-23,3370,3,13:49,,8,4,2,PIT 33,0,PIT,
-23,3306,2,14:56,,10,4,2,PIT 31,0,PIT,PENALTY
-11,1723,3,05:06,,8,2,8,PIT 10,0,PIT,
-11,1702,2,05:50,,9,2,2,PIT 9,0,PIT,
-11,1677,1,06:27,,10,2,1,PIT 8,0,PIT,
-11,1747,4,04:30,,2,2,8,PIT 16,0,PIT,PUNT
-14,2227,1,00:26,,10,2,48,PIT 26,0,BAL,
-14,2304,3,00:12,,20,2,38,PIT 36,0,BAL,
-14,2326,4,00:08,,20,2,43,PIT 36,0,BAL,PENALTY
-14,2203,1,00:34,,10,2,48,PIT 37,0,BAL,
-14,2271,3,00:17,,10,2,38,PIT 26,0,BAL,PENALTY
-14,2179,1,00:39,,10,2,43,BAL 47,0,BAL,
-14,2129,0,00:39,,0,2,12,,0,,TIMEOUT
-14,2080,0,00:50,,0,2,7,,0,,TIMEOUT
-14,2059,2,01:23,,1,2,7,BAL 35,0,BAL,
-14,2035,1,01:44,,10,2,9,BAL 26,0,BAL,
-14,2105,3,00:50,,3,2,43,BAL 33,0,BAL,
-14,2146,1,00:39,,10,2,43,BAL 38,0,BAL,PENALTY
-14,2249,2,00:22,,10,2,48,PIT 26,0,BAL,
-14,2355,4,00:08,,15,2,43,PIT 31,1,BAL,FG
-8,1040,2,14:02,,23,2,-4,BAL 3,0,BAL,
-8,1085,4,12:46,,8,2,2,BAL 18,0,BAL,PUNT
-8,1061,3,13:24,,14,2,2,BAL 12,0,BAL,
-8,1003,1,14:47,,10,2,-13,BAL 16,0,BAL,FUMBLE
-19,2890,1,06:27,,10,3,0,PIT 34,0,PIT,INT
-22,3217,3,00:41,,9,3,6,BAL 37,0,BAL,FUMBLE
-22,3100,1,03:18,,10,3,5,BAL 23,0,BAL,
-22,3191,2,00:46,,9,3,14,BAL 37,0,BAL,
-22,3121,2,02:42,,5,3,4,BAL 28,0,BAL,
-22,3170,1,01:19,,10,3,14,BAL 36,0,BAL,
-22,3246,4,00:02,,17,3,6,BAL 29,0,BAL,PUNT
-22,3146,3,02:02,,6,3,13,BAL 27,0,BAL,
-12,1865,0,03:30,,0,2,8,,0,,TIMEOUT
-12,1882,4,03:30,,2,2,8,BAL 37,0,BAL,PUNT
-12,1777,1,04:19,,10,2,2,BAL 29,0,BAL,
-12,1820,0,03:37,,0,2,2,,0,,TIMEOUT
-12,1798,2,03:43,,8,2,2,BAL 31,0,BAL,
-12,1837,3,03:37,,8,2,8,BAL 31,0,BAL,
-16,2630,3,11:18,,10,3,21,BAL 37,0,BAL,
-16,2441,0,15:00,,0,3,0,PIT 35,0,PIT,PENALTY
-16,2467,0,15:00,,0,3,0,PIT 30,0,PIT,KICKOFF
-16,2681,4,09:46,,6,3,16,BAL 41,0,BAL,PUNT
-16,2654,4,10:08,,1,3,16,BAL 46,0,BAL,PENALTY
-16,2539,2,13:57,,24,3,-2,BAL 11,0,BAL,
-16,2609,2,11:55,,5,3,12,BAL 42,0,BAL,
-16,2563,3,13:15,,12,3,21,BAL 23,0,BAL,
-16,2588,1,12:27,,10,3,17,BAL 37,0,BAL,
-16,2515,1,14:32,,20,3,-14,BAL 15,0,BAL,
-16,2482,1,15:00,,10,3,-10,BAL 25,0,BAL,PENALTY
-7,867,1,01:07,,10,1,11,PIT 25,0,PIT,PENALTY
-7,925,2,00:24,,9,1,16,PIT 37,0,PIT,
-7,984,4,14:56,,5,2,16,PIT 41,0,PIT,PUNT
-7,962,3,15:00,,5,2,16,PIT 41,0,PIT,
-7,852,0,01:07,,0,1,0,BAL 35,0,BAL,KICKOFF
-7,946,0,,,0,1,16,,0,,
-7,901,1,01:03,,10,1,12,PIT 36,0,PIT,
-3,364,3,09:22,,5,1,5,PIT 17,0,PIT,
-3,386,4,09:16,,5,1,5,PIT 17,0,PIT,PUNT
-3,343,2,10:04,,8,1,5,PIT 14,0,PIT,
-3,322,1,10:40,,10,1,2,PIT 12,0,PIT,
-17,2732,2,09:09,,9,3,5,PIT 30,0,PIT,
-17,2711,1,09:37,,10,3,5,PIT 29,0,PIT,
-17,2778,4,08:41,,5,3,5,PIT 34,0,PIT,PUNT
-17,2756,3,08:47,,5,3,5,PIT 34,0,PIT,
-4,411,1,09:04,,10,1,2,BAL 36,0,BAL,
-4,501,1,07:32,,10,1,48,PIT 22,0,BAL,
-4,525,2,06:53,,4,1,47,PIT 16,0,BAL,
-4,546,3,06:17,,5,1,42,PIT 17,0,BAL,PENALTY
-4,581,3,05:59,,10,1,42,PIT 22,0,BAL,INT
-4,473,1,08:09,,10,1,42,PIT 32,0,BAL,
-4,440,2,08:43,,8,1,32,BAL 38,0,BAL,
-2,134,1,13:26,,10,1,8,BAL 44,0,BAL,
-2,181,3,12:48,,2,1,13,PIT 48,0,BAL,
-2,155,2,12:54,,2,1,8,PIT 48,0,BAL,
-2,303,4,10:48,,12,1,11,PIT 45,0,BAL,PUNT
-2,248,3,10:58,,2,1,11,PIT 35,0,BAL,PENALTY
-2,202,1,12:12,,10,1,19,PIT 43,0,BAL,
-2,281,3,10:53,,12,1,11,PIT 45,0,BAL,
-2,223,2,11:37,,4,1,21,PIT 37,0,BAL,
-15,2385,0,00:03,,0,2,0,BAL 35,0,BAL,KICKOFF
-15,2404,1,00:03,,10,2,-1,PIT 25,0,PIT,
-15,2425,0,,,0,2,-1,,0,,
+24,3617,1,10:11,"(10:11) (No Huddle, Shotgun) B.Roethlisberger pass short right to L.Bell pushed ob at BAL 33 for 2 yards (Z.Orr).",15,4,42,BAL 35,0,PIT,
+24,3716,0,08:38,"C.Boswell extra point is GOOD, Center-G.Warren, Holder-J.Berry.",0,4,75,BAL 15,1,PIT,XP
+24,3448,1,13:36,(13:36) (Shotgun) B.Roethlisberger pass short right to E.Rogers to PIT 30 for 5 yards (C.Mosley).,10,4,5,PIT 25,0,PIT,
+24,3472,2,13:09,"(13:09) (No Huddle, Shotgun) B.Roethlisberger FUMBLES (Aborted) at PIT 29, recovered by PIT-L.Bell at PIT 29. L.Bell to PIT 34 for 5 yards (Z.Orr).",5,4,75,PIT 30,0,PIT,FUMBLE
+24,3594,1,10:31,"(10:31) (No Huddle, Shotgun) PENALTY on PIT-D.DeCastro, False Start, 5 yards, enforced at BAL 30 - No Play.",10,4,40,BAL 30,0,PIT,PENALTY
+24,3433,0,13:36,"J.Tucker kicks 65 yards from BAL 35 to end zone, Touchback.",0,4,0,BAL 35,0,BAL,KICKOFF
+24,3493,3,12:38,(12:38) L.Bell left guard to PIT 37 for 3 yards (Z.Orr).,1,4,12,PIT 34,0,PIT,
+24,3696,4,08:47,"(8:47) (No Huddle, Shotgun) B.Roethlisberger pass deep middle to A.Brown for 23 yards, TOUCHDOWN.",3,4,75,BAL 23,1,PIT,TD
+24,3514,1,12:04,"(12:04) (No Huddle, Shotgun) L.Bell right guard to PIT 38 for 1 yard (T.Jernigan; Z.Smith).",10,4,13,PIT 37,0,PIT,
+24,3570,1,11:05,"(11:05) (No Huddle, Shotgun) B.Roethlisberger pass deep middle to A.Brown to BAL 30 for 27 yards (E.Weddle).",10,4,45,PIT 43,0,PIT,
+24,3535,2,11:29,"(11:29) (No Huddle, Shotgun) B.Roethlisberger pass short left to A.Brown to PIT 45 for 7 yards (J.Powers). PENALTY on BAL-Z.Orr, Defensive Holding, 5 yards, enforced at PIT 38 - No Play.",9,4,18,PIT 38,0,PIT,PENALTY
+24,3672,3,09:27,"(9:27) (No Huddle, Shotgun) B.Roethlisberger pass short middle to E.Rogers to BAL 23 for 10 yards (J.Smith).",13,4,52,BAL 33,0,PIT,
+24,3641,2,09:36,"(9:36) (No Huddle, Shotgun) B.Roethlisberger to BAL 39 for -6 yards. FUMBLES, and recovers at BAL 42. B.Roethlisberger pass incomplete deep middle to A.Brown (L.Webb).",13,4,75,BAL 33,0,PIT,FUMBLE
+25,3845,4,07:00,"(7:00) (Punt formation) S.Koch punts 43 yards to PIT 12, Center-M.Cox. A.Brown pushed ob at PIT 10 for -2 yards (D.Waller).",1,4,9,BAL 45,0,BAL,PUNT
+25,3778,1,08:32,(8:32) K.Dixon right guard to BAL 37 for 1 yard (L.Timmons).,10,4,1,BAL 36,0,BAL,
+25,3799,2,07:49,(7:49) J.Flacco pass incomplete short middle to T.West (L.Timmons).,9,4,1,BAL 37,0,BAL,
+25,3732,0,08:38,C.Boswell kicks 57 yards from PIT 35 to BAL 8. D.Hester to BAL 36 for 28 yards (S.Thomas).,0,4,0,PIT 35,0,PIT,KICKOFF
+25,3821,3,07:43,(7:43) (Shotgun) J.Flacco pass short right to D.Waller to BAL 45 for 8 yards (A.Chickillo).,9,4,9,BAL 37,0,BAL,
+26,4166,2,03:26,"(3:26) (No Huddle, Shotgun) B.Roethlisberger pass short right to A.Brown pushed ob at BAL 13 for 4 yards (T.Young).",10,4,77,BAL 17,0,PIT,
+26,4098,2,04:04,"(4:04) (No Huddle, Shotgun) B.Roethlisberger pass incomplete deep middle to E.Rogers (E.Weddle).",10,4,63,BAL 27,0,PIT,
+26,4047,2,04:16,"(4:16) (No Huddle, Shotgun) B.Roethlisberger pass short right to E.Rogers ran ob at BAL 27 for 22 yards (L.Webb).",10,4,65,BAL 49,0,PIT,
+26,4001,2,04:54,"(4:54) (No Huddle, Shotgun) B.Roethlisberger pass short right to A.Brown to BAL 49 for 12 yards (L.Webb).",10,4,41,PIT 39,0,PIT,
+26,4076,1,04:09,"(4:09) (No Huddle, Shotgun) B.Roethlisberger pass incomplete deep middle to S.Coates.",10,4,63,BAL 27,0,PIT,
+26,3908,1,06:16,"(6:16) (No Huddle, Shotgun) B.Roethlisberger sacked at PIT 9 for -11 yards (J.Powers).",10,4,-1,PIT 20,0,PIT,
+26,3875,1,06:50,(6:50) (Shotgun) B.Roethlisberger pass short right to X.Grimble to PIT 20 for 10 yards (C.Mosley).,10,4,10,PIT 10,0,PIT,
+26,3955,3,05:30,"(5:30) (No Huddle, Shotgun) B.Roethlisberger pass deep middle to E.Rogers to PIT 39 for 30 yards (Z.Orr).",21,4,29,PIT 9,0,PIT,
+26,3932,2,05:32,(5:32) (Shotgun) B.Roethlisberger pass incomplete short middle to E.Rogers (J.Powers).,21,4,-1,PIT 9,0,PIT,
+26,4190,3,03:20,"(3:20) (No Huddle, Shotgun) B.Roethlisberger sacked at BAL 25 for -12 yards (M.Judon).",6,4,65,BAL 13,0,PIT,
+26,4025,1,04:21,"(4:21) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short right to E.Rogers.",10,4,41,BAL 49,0,PIT,
+26,4209,0,03:09,Timeout #1 by PIT at 03:09.,0,4,65,,0,,TIMEOUT
+26,4120,3,03:59,"(3:59) (No Huddle, Shotgun) B.Roethlisberger pass short middle to A.Brown to BAL 17 for 10 yards (C.Mosley).",10,4,73,BAL 27,0,PIT,
+26,4144,1,03:30,"(3:30) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short middle to L.Bell.",10,4,73,BAL 17,0,PIT,
+26,3979,1,05:00,"(5:00) (No Huddle, Shotgun) B.Roethlisberger pass incomplete deep left to S.Coates.",10,4,29,PIT 39,0,PIT,
+26,4226,4,03:09,(3:09) (Shotgun) B.Roethlisberger pass incomplete deep middle to S.Coates.,18,4,65,BAL 25,0,PIT,
+27,4302,0,02:18,Timeout #2 by PIT at 02:18.,0,4,1,,0,,TIMEOUT
+27,4281,2,02:24,(2:24) T.West left guard to BAL 26 for 1 yard (R.Golden).,10,4,1,BAL 25,0,BAL,
+27,4338,0,02:14,Timeout #3 by PIT at 02:14.,0,4,-5,,0,,TIMEOUT
+27,4319,3,02:18,(2:18) (Shotgun) J.Flacco sacked at BAL 20 for -6 yards (sack split by R.Shazier and A.Chickillo).,9,4,-5,BAL 26,0,BAL,
+27,4255,1,03:04,(3:04) No. 74 - Hurst reports as eligible. T.West right guard to BAL 25 for no gain (J.Harrison).,10,4,0,BAL 25,0,BAL,
+27,4355,4,02:14,"(2:14) (Punt formation) S.Koch punts 45 yards to PIT 35, Center-M.Cox, out of bounds.",15,4,-5,BAL 20,0,BAL,PUNT
+20,2983,4,04:55,"(4:55) (Field Goal formation) J.Tucker 42 yard field goal is GOOD, Center-M.Cox, Holder-S.Koch.",2,3,8,PIT 24,1,BAL,FG
+20,2938,2,06:17,(6:17) T.West left guard to PIT 31 for 1 yard (L.Timmons).,10,3,1,PIT 32,0,BAL,
+20,2916,1,06:20,(6:20) (Shotgun) J.Flacco pass incomplete short right to M.Wallace.,10,3,0,PIT 32,0,BAL,
+20,2959,3,05:42,(5:42) (Shotgun) J.Flacco pass short left to M.Wallace to PIT 24 for 7 yards (R.Cockrell; M.Mitchell).,9,3,8,PIT 31,0,BAL,
+21,3081,4,03:26,"(3:26) (Punt formation) J.Berry punts 54 yards to BAL 23, Center-G.Warren, fair catch by D.Hester.",12,3,-2,PIT 23,0,PIT,PUNT
+21,3059,3,03:32,"(3:32) (No Huddle, Shotgun) B.Roethlisberger pass incomplete deep right to A.Brown.",12,3,-2,PIT 23,0,PIT,
+21,3038,2,04:12,(4:12) L.Bell left guard to PIT 23 for 2 yards (Z.Orr).,14,3,-2,PIT 21,0,PIT,
+21,3017,1,04:50,(4:50) L.Bell right guard to PIT 21 for -4 yards (M.Pierce).,10,3,-4,PIT 25,0,PIT,
+21,3002,0,04:50,"J.Tucker kicks 65 yards from BAL 35 to end zone, Touchback.",0,3,0,BAL 35,0,BAL,KICKOFF
+22,3217,3,00:41,"(:41) (Shotgun) J.Flacco sacked at BAL 28 for -9 yards (J.Harrison). FUMBLES (J.Harrison), recovered by BAL-M.Yanda at BAL 29. M.Yanda to BAL 29 for no gain (R.Mathews).",9,3,6,BAL 37,0,BAL,FUMBLE
+22,3146,3,02:02,(2:02) (Shotgun) J.Flacco pass short middle to K.Aiken to BAL 36 for 9 yards (R.Shazier).,6,3,13,BAL 27,0,BAL,
+22,3121,2,02:42,(2:42) No. 74 - Hurst reports as eligible. T.West left tackle to BAL 27 for -1 yards (R.Cockrell).,5,3,4,BAL 28,0,BAL,
+22,3100,1,03:18,(3:18) T.West right guard to BAL 28 for 5 yards (L.Timmons).,10,3,5,BAL 23,0,BAL,
+22,3246,4,00:02,"(:02) (Punt formation) S.Koch punts 40 yards to PIT 31, Center-M.Cox, out of bounds.",17,3,6,BAL 29,0,BAL,PUNT
+22,3191,2,00:46,(:46) No. 74 - Hurst reports as eligible J.Flacco pass incomplete short right to S.Smith.,9,3,14,BAL 37,0,BAL,
+22,3170,1,01:19,(1:19) T.West left tackle to BAL 37 for 1 yard (L.Timmons).,10,3,14,BAL 36,0,BAL,
+23,3306,2,14:56,"(14:56) (No Huddle) B.Roethlisberger pass short right to J.James ran ob at PIT 31 for no gain [B.Williams]. PENALTY on PIT-A.Brown, Illegal Formation, 5 yards, enforced at PIT 31 - No Play.",10,4,2,PIT 31,0,PIT,PENALTY
+23,3392,4,13:44,"(13:44) (Punt formation) J.Berry punt is BLOCKED by J.Allen, Center-G.Warren, RECOVERED by BAL-C.Moore at PIT 14. C.Moore for 14 yards, TOUCHDOWN.",8,4,2,PIT 33,1,PIT,TD
+23,3370,3,13:49,(13:49) (Shotgun) B.Roethlisberger pass incomplete deep middle to A.Brown.,8,4,2,PIT 33,0,PIT,
+23,3346,2,14:27,(14:27) (Shotgun) B.Roethlisberger pass short right to E.Rogers to PIT 33 for 7 yards (L.Webb).,15,4,2,PIT 26,0,PIT,
+23,3280,1,15:00,(15:00) B.Roethlisberger pass incomplete short middle to L.Bell (T.Suggs).,10,4,0,PIT 31,0,PIT,
+28,4419,0,01:58,Two-Minute Warning,0,4,29,,0,,
+28,4395,2,02:04,"(2:04) (No Huddle, Shotgun) B.Roethlisberger pass deep middle to E.Rogers to BAL 36 for 29 yards (L.Webb).",10,4,29,PIT 35,0,PIT,
+28,4532,1,00:56,"(:56) (No Huddle, Shotgun) B.Roethlisberger scrambles up the middle for 4 yards, TOUCHDOWN.",4,4,65,BAL 4,1,PIT,TD
+28,4549,0,00:48,"C.Boswell extra point is GOOD, Center-G.Warren, Holder-J.Berry.",0,4,65,BAL 15,1,PIT,XP
+28,4487,3,01:43,"(1:43) (No Huddle, Shotgun) L.Bell right end to BAL 16 for 13 yards (Z.Orr).",3,4,49,BAL 29,0,PIT,
+28,4436,1,01:58,(1:58) (Shotgun) B.Roethlisberger pass short right to L.Bell ran ob at BAL 29 for 7 yards (M.Judon).,10,4,36,BAL 36,0,PIT,
+28,4373,1,02:08,(2:08) (Shotgun) B.Roethlisberger pass incomplete short middle to A.Brown.,10,4,0,PIT 35,0,PIT,
+28,4465,2,01:48,"(1:48) (No Huddle, Shotgun) B.Roethlisberger pass incomplete deep left to C.Hamilton.",3,4,36,BAL 29,0,PIT,
+28,4508,1,01:06,"(1:06) (No Huddle, Shotgun) B.Roethlisberger pass short middle to L.Bell to BAL 4 for 12 yards (E.Weddle).",10,4,61,BAL 16,0,PIT,
+29,4629,1,00:44,(:44) J.Flacco kneels to PIT 37 for -1 yards.,10,4,-1,PIT 36,0,BAL,
+29,4671,0,00:00,END GAME,0,4,-2,,0,,
+29,4650,2,00:25,(:25) J.Flacco kneels to PIT 38 for -1 yards.,11,4,-2,PIT 37,0,BAL,
+29,4583,0,00:48,"C.Boswell kicks onside 1 yard from PIT 35 to PIT 36, downed by PIT-C.Boswell. Penalty on PIT-C.Boswell, Illegally Kicking Ball, declined.",0,4,-2,PIT 35,0,PIT,KICKOFF
+1,116,4,13:33,"(13:33) (Punt formation) J.Berry punts 28 yards to BAL 44, Center-G.Warren, out of bounds.",7,1,3,PIT 28,0,PIT,PUNT
+1,95,3,14:05,(14:05) (Shotgun) L.Bell left tackle to PIT 28 for 2 yards (T.Jernigan; E.Weddle).,9,1,3,PIT 26,0,PIT,
+1,74,2,14:52,(14:52) (No Huddle) L.Bell right guard to PIT 26 for 1 yard (L.Guy).,10,1,1,PIT 25,0,PIT,
+1,37,0,15:00,"J.Tucker kicks 65 yards from BAL 35 to end zone, Touchback.",0,1,0,BAL 35,0,BAL,KICKOFF
+1,52,1,15:00,(15:00) (Shotgun) B.Roethlisberger pass incomplete deep right to D.Johnson.,10,1,0,PIT 25,0,PIT,
+3,322,1,10:40,(10:40) L.Bell right guard to PIT 14 for 2 yards (E.Weddle; B.Williams).,10,1,2,PIT 12,0,PIT,
+3,364,3,09:22,(9:22) (Shotgun) B.Roethlisberger pass incomplete deep right to D.Heyward-Bey (L.Webb) [T.Suggs].,5,1,5,PIT 17,0,PIT,
+3,386,4,09:16,"(9:16) (Punt formation) J.Berry punts 61 yards to BAL 22, Center-G.Warren. D.Hester to BAL 36 for 14 yards (V.Williams).",5,1,5,PIT 17,0,PIT,PUNT
+3,343,2,10:04,"(10:04) (No Huddle, Shotgun) L.Bell right guard to PIT 17 for 3 yards (Z.Orr; M.Pierce).",8,1,5,PIT 14,0,PIT,
+2,202,1,12:12,(12:12) K.Dixon left guard to PIT 37 for 6 yards (A.Chickillo).,10,1,19,PIT 43,0,BAL,
+2,155,2,12:54,(12:54) No. 74 - Hurst eligible. J.Flacco pass incomplete short right to S.Smith.,2,1,8,PIT 48,0,BAL,
+2,303,4,10:48,"(10:48) (Punt formation) S.Koch punts 33 yards to PIT 12, Center-M.Cox, fair catch by A.Brown.",12,1,11,PIT 45,0,BAL,PUNT
+2,181,3,12:48,(12:48) T.West right tackle to PIT 43 for 5 yards (L.Timmons; R.Shazier).,2,1,13,PIT 48,0,BAL,
+2,134,1,13:26,(13:26) T.West right guard to PIT 48 for 8 yards (J.Jones).,10,1,8,BAL 44,0,BAL,
+2,281,3,10:53,(10:53) (Shotgun) J.Flacco pass incomplete deep left to M.Wallace.,12,1,11,PIT 45,0,BAL,
+2,223,2,11:37,(11:37) No. 74 - Hurst eligible. K.Dixon right guard to PIT 35 for 2 yards (J.Jones).,4,1,21,PIT 37,0,BAL,
+2,248,3,10:58,"(10:58) (Shotgun) J.Flacco pass incomplete short middle to D.Pitta. PENALTY on BAL-R.Stanley, Illegal Use of Hands, 10 yards, enforced at PIT 35 - No Play.",2,1,11,PIT 35,0,BAL,PENALTY
+5,607,1,05:41,(5:41) (Shotgun) B.Roethlisberger pass incomplete short left to J.James.,10,1,0,PIT 24,0,PIT,
+5,747,3,02:32,"(2:32) (No Huddle, Shotgun) L.Bell left tackle to PIT 45 for no gain (Z.Orr).",4,1,21,PIT 45,0,PIT,
+5,676,1,04:23,"(4:23) (No Huddle, Shotgun) B.Roethlisberger pass short middle to J.James to PIT 40 for 6 yards (C.Mosley).",15,1,16,PIT 34,0,PIT,
+5,700,2,03:41,"(3:41) (No Huddle) PENALTY on PIT-M.Gilbert, False Start, 5 yards, enforced at PIT 40 - No Play.",9,1,11,PIT 40,0,PIT,PENALTY
+5,768,4,02:00,"(2:00) (Punt formation) J.Berry punts 51 yards to BAL 4, Center-G.Warren, downed by PIT-S.Thomas.",4,1,21,PIT 45,0,PIT,PUNT
+5,723,2,03:16,"(3:16) (No Huddle, Shotgun) B.Roethlisberger pass short left to L.Bell to PIT 45 for 10 yards (M.Judon).",14,1,21,PIT 35,0,PIT,
+5,629,2,05:38,(5:38) (No Huddle) B.Roethlisberger pass short right to D.Johnson to PIT 39 for 15 yards (T.Young).,10,1,15,PIT 24,0,PIT,
+5,653,1,04:48,"(4:48) (Shotgun) PENALTY on PIT-B.Roethlisberger, Delay of Game, 5 yards, enforced at PIT 39 - No Play.",10,1,10,PIT 39,0,PIT,PENALTY
+4,473,1,08:09,(8:09) No. 74 - Hurst eligible. J.Flacco pass short middle to M.Wallace to PIT 22 for 10 yards (A.Burns; R.Shazier).,10,1,42,PIT 32,0,BAL,
+4,440,2,08:43,(8:43) (Shotgun) J.Flacco pass short middle to S.Smith pushed ob at PIT 32 for 30 yards (S.Davis) [A.Chickillo].,8,1,32,BAL 38,0,BAL,
+4,581,3,05:59,(5:59) (Shotgun) J.Flacco pass short middle intended for D.Pitta INTERCEPTED by A.Burns [S.Tuitt] at PIT 15. A.Burns to PIT 24 for 9 yards (K.Juszczyk).,10,1,42,PIT 22,0,BAL,INT
+4,525,2,06:53,(6:53) (Shotgun) T.West left guard to PIT 17 for -1 yards (S.Tuitt).,4,1,47,PIT 16,0,BAL,
+4,546,3,06:17,"(6:17) (Shotgun) J.Flacco pass short left to K.Aiken to PIT 9 for 8 yards (W.Gay). PENALTY on BAL, Illegal Shift, 5 yards, enforced at PIT 17 - No Play.",5,1,42,PIT 17,0,BAL,PENALTY
+4,411,1,09:04,(9:04) No. 74 - Hurst reports as eligible. C.Moore left end to BAL 38 for 2 yards (J.Jones). End around sweep No. 95 - Jarvis Jones (PIT) injured on play.,10,1,2,BAL 36,0,BAL,
+4,501,1,07:32,(7:32) J.Flacco pass short middle to T.West to PIT 16 for 6 yards (R.Shazier).,10,1,48,PIT 22,0,BAL,
+7,901,1,01:03,"(1:03) (No Huddle, Shotgun) B.Roethlisberger pass short right to L.Bell to PIT 37 for 1 yard (T.Young).",10,1,12,PIT 36,0,PIT,
+7,852,0,01:07,"J.Tucker kicks 65 yards from BAL 35 to end zone, Touchback.",0,1,0,BAL 35,0,BAL,KICKOFF
+7,962,3,15:00,(15:00) (Shotgun) B.Roethlisberger pass incomplete short right to S.Coates.,5,2,16,PIT 41,0,PIT,
+7,946,0,,END QUARTER 1,0,1,16,,0,,
+7,867,1,01:07,"(1:07) B.Roethlisberger pass incomplete short right to A.Brown. PENALTY on BAL-Z.Orr, Defensive Pass Interference, 11 yards, enforced at PIT 25 - No Play.",10,1,11,PIT 25,0,PIT,PENALTY
+7,984,4,14:56,"(14:56) (Punt formation) J.Berry punts 43 yards to BAL 16, Center-G.Warren, downed by PIT-S.Johnson.",5,2,16,PIT 41,0,PIT,PUNT
+7,925,2,00:24,(:24) (No Huddle) L.Bell left guard to PIT 41 for 4 yards (Z.Orr).,9,1,16,PIT 37,0,PIT,
+6,832,0,01:07,"J.Tucker extra point is GOOD, Center-M.Cox, Holder-S.Koch.",0,1,96,PIT 15,1,BAL,XP
+6,812,2,01:21,"(1:21) (No Huddle, Shotgun) J.Flacco pass short middle to M.Wallace for 95 yards, TOUCHDOWN. Flacco's 95-yard TD pass to Wallace is the longest pass play in Ravens history.",9,1,96,BAL 5,1,BAL,TD
+6,787,1,01:50,(1:50) K.Dixon left guard to BAL 5 for 1 yard (J.Harrison).,10,1,1,BAL 4,0,BAL,
+9,1177,2,11:28,(11:28) (Shotgun) B.Roethlisberger pass incomplete deep middle to E.Rogers (C.Mosley).,18,2,-8,PIT 33,0,PIT,
+9,1148,1,12:12,(12:12) (Shotgun) B.Roethlisberger pass short middle to J.James to PIT 33 for 7 yards (A.McClellan).,25,2,-8,PIT 26,0,PIT,
+9,1115,1,12:34,"(12:34) L.Bell left guard to PIT 38 for -3 yards (A.McClellan). PENALTY on PIT-L.Bell, Face Mask (15 Yards), 15 yards, enforced at PIT 41 - No Play.",10,2,-8,PIT 41,0,PIT,PENALTY
+9,1200,3,11:23,(11:23) (Shotgun) B.Roethlisberger pass incomplete deep left to D.Heyward-Bey. PIT-D.Heyward-Bey was injured during the play.,18,2,-8,PIT 33,0,PIT,
+9,1222,4,11:14,"(11:14) (Punt formation) J.Berry punts 42 yards to BAL 25, Center-G.Warren. D.Hester to BAL 37 for 12 yards (S.Davis). PENALTY on BAL-M.Huff, Unsportsmanlike Conduct, 13 yards, enforced at BAL 25.",18,2,-8,PIT 33,0,PIT,PUNT
+8,1061,3,13:24,(13:24) (Shotgun) J.Flacco pass short middle to D.Pitta to BAL 18 for 6 yards (L.Timmons).,14,2,2,BAL 12,0,BAL,
+8,1085,4,12:46,"(12:46) (Punt formation) S.Koch punts 48 yards to PIT 34, Center-M.Cox. A.Brown pushed ob at PIT 41 for 7 yards (P.Onwuasor).",8,2,2,BAL 18,0,BAL,PUNT
+8,1040,2,14:02,(14:02) T.West right guard to BAL 12 for 9 yards (D.McCullers).,23,2,-4,BAL 3,0,BAL,
+8,1003,1,14:47,"(14:47) T.West to BAL 14 for -2 yards (R.Shazier). FUMBLES (R.Shazier), recovered by BAL-K.Aiken at BAL 5. K.Aiken to BAL 3 for -2 yards (A.Burns).",10,2,-13,BAL 16,0,BAL,FUMBLE
+11,1702,2,05:50,(5:50) (No Huddle) L.Bell right guard to PIT 10 for 1 yard (T.Suggs).,9,2,2,PIT 9,0,PIT,
+11,1677,1,06:27,(6:27) No. 74 - Hubbard eligible. L.Bell right guard to PIT 9 for 1 yard (B.Williams).,10,2,1,PIT 8,0,PIT,
+11,1723,3,05:06,(5:06) (Shotgun) B.Roethlisberger pass short right to L.Bell to PIT 16 for 6 yards (T.Young; Z.Orr).,8,2,8,PIT 10,0,PIT,
+11,1747,4,04:30,"(4:30) (Punt formation) J.Berry punts 56 yards to BAL 28, Center-G.Warren. D.Hester pushed ob at BAL 29 for 1 yard (C.Hamilton).",2,2,8,PIT 16,0,PIT,PUNT
+10,1304,1,10:50,(10:50) J.Flacco pass short right to K.Dixon to BAL 32 for 4 yards (A.Chickillo).,10,2,26,BAL 28,0,BAL,
+10,1550,4,07:52,"(7:52) (Punt formation) S.Koch punts 45 yards to PIT 17, Center-M.Cox, out of bounds. PENALTY on PIT-S.Thomas, Roughing the Kicker, 15 yards, enforced at BAL 38 - No Play.",11,2,41,BAL 38,0,BAL,PENALTY
+10,1636,3,06:41,(6:41) (Shotgun) J.Flacco pass incomplete deep right to B.Perriman.,4,2,47,PIT 41,0,BAL,
+10,1271,1,11:05,"(11:05) (Shotgun) K.Dixon right guard to BAL 13 for 1 yard (R.Shazier). PENALTY on PIT-A.Chickillo, Face Mask (15 Yards), 15 yards, enforced at BAL 13.",10,2,21,BAL 12,0,BAL,PENALTY
+10,1614,2,07:10,(7:10) K.Dixon left guard to PIT 41 for 3 yards (J.Jones; A.Moats).,7,2,47,PIT 44,0,BAL,
+10,1658,4,06:36,"(6:36) (Punt formation) S.Koch punts 33 yards to PIT 8, Center-M.Cox, downed by BAL-P.Onwuasor.",4,2,47,PIT 41,0,BAL,PUNT
+10,1332,2,10:18,"(10:18) K.Dixon right guard to BAL 34 for 2 yards (J.Jones). PENALTY on PIT-J.Hargrave, Illegal Use of Hands, 5 yards, enforced at BAL 34.",6,2,44,BAL 32,0,BAL,PENALTY
+10,1367,1,09:53,(9:53) (Shotgun) J.Flacco pass incomplete short left to T.West (A.Burns).,10,2,44,BAL 39,0,BAL,
+10,1579,1,07:46,(7:46) (Shotgun) J.Flacco pass short right to S.Smith to PIT 44 for 3 yards (R.Cockrell).,10,2,44,PIT 47,0,BAL,
+10,1495,3,08:42,(8:42) (Shotgun) K.Juszczyk left guard to BAL 33 for 2 yards (R.Shazier).,18,2,21,BAL 31,0,BAL,
+10,1523,4,08:06,"(8:06) (Punt formation) PENALTY on PIT-R.Shazier, Neutral Zone Infraction, 5 yards, enforced at BAL 33 - No Play.",16,2,47,BAL 33,0,BAL,PENALTY
+10,1459,3,09:10,"(9:10) (Shotgun) J.Flacco pass short right to S.Smith to PIT 48 for 11 yards (A.Burns). PENALTY on BAL-R.Stanley, Offensive Holding, 10 yards, enforced at BAL 41 - No Play.",8,2,19,BAL 41,0,BAL,PENALTY
+10,1416,2,09:47,(9:47) T.West left guard to BAL 41 for 2 yards (S.Tuitt; D.McCullers).,10,2,47,BAL 39,0,BAL,
+13,1994,3,02:00,(2:00) (Shotgun) B.Roethlisberger pass incomplete short left to L.Bell.,7,2,3,PIT 20,0,PIT,
+13,1977,0,02:00,Two-Minute Warning,0,2,3,,0,,
+13,1933,2,02:53,"(2:53) (No Huddle, Shotgun) L.Bell up the middle to PIT 25 for 3 yards (L.Webb).",5,2,8,PIT 22,0,PIT,
+13,1954,3,02:10,"(2:10) (No Huddle, Shotgun) PENALTY on PIT-D.Johnson, False Start, 5 yards, enforced at PIT 25 - No Play.",2,2,3,PIT 25,0,PIT,PENALTY
+13,2016,4,01:57,"(1:57) (Punt formation) J.Berry punts 54 yards to BAL 26, Center-G.Warren, downed by PIT-S.Johnson.",7,2,3,PIT 20,0,PIT,PUNT
+13,1900,1,03:22,(3:22) No. 74 - Hubbard reports as eligible. B.Roethlisberger pass short left to A.Brown ran ob at PIT 22 for 5 yards (J.Smith).,10,2,5,PIT 17,0,PIT,
+12,1777,1,04:19,(4:19) T.West left guard to BAL 31 for 2 yards (J.Hargrave; C.Heyward).,10,2,2,BAL 29,0,BAL,
+12,1798,2,03:43,(3:43) J.Flacco pass incomplete deep left to D.Waller.,8,2,2,BAL 31,0,BAL,
+12,1837,3,03:37,(3:37) (Shotgun) J.Flacco pass short middle to B.Perriman to BAL 37 for 6 yards (A.Moats; V.Williams).,8,2,8,BAL 31,0,BAL,
+12,1820,0,03:37,Timeout #1 by BAL at 03:37.,0,2,2,,0,,TIMEOUT
+12,1865,0,03:30,Timeout #1 by PIT at 03:30.,0,2,8,,0,,TIMEOUT
+12,1882,4,03:30,"(3:30) (Punt formation) S.Koch punts 46 yards to PIT 17, Center-M.Cox, out of bounds.",2,2,8,BAL 37,0,BAL,PUNT
+15,2404,1,00:03,(:03) B.Roethlisberger kneels to PIT 24 for -1 yards.,10,2,-1,PIT 25,0,PIT,
+15,2385,0,00:03,"J.Tucker kicks 65 yards from BAL 35 to end zone, Touchback.",0,2,0,BAL 35,0,BAL,KICKOFF
+15,2425,0,,END QUARTER 2,0,2,-1,,0,,
+14,2203,1,00:34,(:34) (Shotgun) J.Flacco pass short middle to B.Perriman to PIT 26 for 11 yards (A.Burns).,10,2,48,PIT 37,0,BAL,
+14,2271,3,00:17,"(:17) (Shotgun) J.Flacco pass incomplete short right to S.Smith. PENALTY on BAL-R.Stanley, Offensive Holding, 10 yards, enforced at PIT 26 - No Play.",10,2,38,PIT 26,0,BAL,PENALTY
+14,2326,4,00:08,"(:08) (Field Goal formation) PENALTY on PIT, Illegal Formation, 5 yards, enforced at PIT 36 - No Play.",20,2,43,PIT 36,0,BAL,PENALTY
+14,2146,1,00:39,"(:39) (Shotgun) J.Flacco pass incomplete short right to B.Perriman. PENALTY on PIT-A.Burns, Defensive Pass Interference, 9 yards, enforced at BAL 38 - No Play.",10,2,43,BAL 38,0,BAL,PENALTY
+14,2059,2,01:23,"(1:23) (No Huddle, Shotgun) K.Dixon left guard to BAL 33 for -2 yards (C.Heyward).",1,2,7,BAL 35,0,BAL,
+14,2227,1,00:26,(:26) J.Flacco spiked the ball to stop the clock.,10,2,48,PIT 26,0,BAL,
+14,2080,0,00:50,Timeout #2 by BAL at 00:50.,0,2,7,,0,,TIMEOUT
+14,2304,3,00:12,(:12) (Shotgun) J.Flacco pass incomplete short right to S.Smith.,20,2,38,PIT 36,0,BAL,
+14,2129,0,00:39,Timeout #3 by BAL at 00:39.,0,2,12,,0,,TIMEOUT
+14,2035,1,01:44,(1:44) (Shotgun) J.Flacco pass short middle to S.Smith to BAL 35 for 9 yards (L.Timmons).,10,2,9,BAL 26,0,BAL,
+14,2249,2,00:22,(:22) (Shotgun) J.Flacco pass incomplete deep middle to K.Aiken (L.Timmons).,10,2,48,PIT 26,0,BAL,
+14,2179,1,00:39,(:39) (Shotgun) J.Flacco pass short right to B.Perriman to PIT 37 for 16 yards (A.Burns) [C.Heyward].,10,2,43,BAL 47,0,BAL,
+14,2105,3,00:50,(:50) (Shotgun) J.Flacco pass short right to S.Smith to BAL 38 for 5 yards (R.Golden).,3,2,43,BAL 33,0,BAL,
+14,2355,4,00:08,"(:08) (Field Goal formation) J.Tucker 49 yard field goal is GOOD, Center-M.Cox, Holder-S.Koch. Penalty on PIT-S.Thomas, Defensive Offside, declined.",15,2,43,PIT 31,1,BAL,FG
+17,2756,3,08:47,"(8:47) (No Huddle, Shotgun) B.Roethlisberger pass incomplete deep left to S.Coates.",5,3,5,PIT 34,0,PIT,
+17,2778,4,08:41,"(8:41) (Punt formation) J.Berry punts 42 yards to BAL 24, Center-G.Warren, fair catch by D.Hester.",5,3,5,PIT 34,0,PIT,PUNT
+17,2711,1,09:37,(9:37) (Shotgun) D.Williams right tackle to PIT 30 for 1 yard (C.Mosley).,10,3,5,PIT 29,0,PIT,
+17,2732,2,09:09,"(9:09) (No Huddle, Shotgun) B.Roethlisberger pass short right to A.Brown to PIT 34 for 4 yards (T.Young).",9,3,5,PIT 30,0,PIT,
+16,2467,0,15:00,"C.Boswell kicks 70 yards from PIT 30 to end zone, Touchback.",0,3,0,PIT 30,0,PIT,KICKOFF
+16,2654,4,10:08,"(10:08) Flacco returns at QB. (Run formation)  PENALTY on BAL-J.Flacco, Delay of Game, 5 yards, enforced at BAL 46 - No Play.",1,3,16,BAL 46,0,BAL,PENALTY
+16,2563,3,13:15,(13:15) (Shotgun) J.Flacco scrambles right end to BAL 37 for 14 yards (A.Chickillo). Flacco leaves game with a broken brace.,12,3,21,BAL 23,0,BAL,
+16,2482,1,15:00,"(15:00) T.West right guard to BAL 33 for 8 yards (S.Davis). PENALTY on BAL-R.Stanley, Offensive Holding, 10 yards, enforced at BAL 25 - No Play.",10,3,-10,BAL 25,0,BAL,PENALTY
+16,2609,2,11:55,(11:55) (Shotgun) T.West left tackle to BAL 37 for -5 yards (J.Harrison).,5,3,12,BAL 42,0,BAL,
+16,2539,2,13:57,(13:57) (Shotgun) J.Flacco pass short middle to M.Wallace to BAL 23 for 12 yards (S.Davis).,24,3,-2,BAL 11,0,BAL,
+16,2441,0,15:00,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback. PENALTY on PIT-S.Coates, Offside on Free Kick, 5 yards, enforced at PIT 35 - No Play.",0,3,0,PIT 35,0,PIT,PENALTY
+16,2630,3,11:18,(11:18) (Shotgun) R.Mallett pass short middle to D.Waller to BAL 46 for 9 yards (L.Timmons; A.Chickillo).,10,3,21,BAL 37,0,BAL,
+16,2515,1,14:32,(14:32) (Shotgun) J.Flacco pass short left to K.Dixon to BAL 11 for -4 yards (R.Shazier).,20,3,-14,BAL 15,0,BAL,
+16,2588,1,12:27,(12:27) T.West right guard to BAL 42 for 5 yards (J.Harrison).,10,3,17,BAL 37,0,BAL,
+16,2681,4,09:46,"(9:46) (Punt formation) S.Koch punts 45 yards to PIT 14, Center-M.Cox, fair catch by A.Brown. PENALTY on BAL-D.Waller, Unnecessary Roughness, 15 yards, enforced at PIT 14.",6,3,16,BAL 41,0,BAL,PUNT
+19,2890,1,06:27,(6:27) (Shotgun) B.Roethlisberger pass intended for J.James INTERCEPTED by T.Jernigan (B.Williams) at PIT 32. T.Jernigan to PIT 32 for no gain (B.Finney).,10,3,0,PIT 34,0,PIT,INT
+18,2846,3,07:14,(7:14) (Shotgun) J.Flacco sacked at BAL 19 for -12 yards (J.Harrison).,3,3,-5,BAL 31,0,BAL,
+18,2865,4,06:34,"(6:34) (Punt formation) S.Koch punts 47 yards to PIT 34, Center-M.Cox. A.Brown ran ob at PIT 34 for no gain.",15,3,-5,BAL 19,0,BAL,PUNT
+18,2797,1,08:33,(8:33) (Shotgun) J.Flacco pass short middle to D.Pitta to BAL 32 for 8 yards (L.Timmons).,10,3,8,BAL 24,0,BAL,
+18,2821,2,07:55,(7:55) No. 74 - Hurst eligible. (Shotgun) K.Dixon left guard to BAL 31 for -1 yards (S.Tuitt).,2,3,7,BAL 32,0,BAL,

@@ -1,182 +1,182 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,2013,2,02:00,,2,2,42,SF 2,1,PIT,TD
-9,1906,1,04:03,,10,2,12,SF 31,0,PIT,
-9,1996,0,02:00,,0,2,40,,0,,
-9,1951,1,02:58,,10,2,37,SF 18,0,PIT,
-9,1927,2,03:29,,9,2,24,SF 30,0,PIT,
-9,1882,1,04:40,,10,2,11,SF 42,0,PIT,
-9,2030,0,01:58,,0,2,42,SF 15,1,PIT,XP
-9,1975,1,02:30,,5,2,40,SF 5,0,PIT,
-10,2191,3,00:30,,5,2,16,SF 36,0,SF,
-10,2169,2,00:35,,5,2,16,SF 36,0,SF,
-10,2086,2,01:29,,7,2,9,SF 23,0,SF,
-10,2120,3,01:07,,1,2,11,SF 29,0,SF,
-10,2148,1,01:06,,10,2,16,SF 31,0,SF,
-10,2061,1,01:58,,10,2,3,SF 20,0,SF,
-10,2213,4,00:25,,5,2,16,SF 36,0,SF,PUNT
-10,2046,0,01:58,,0,2,0,PIT 35,0,PIT,KICKOFF
-20,4101,1,04:43,,10,4,62,PIT 23,0,SF,
-20,4194,2,02:48,,3,4,77,PIT 3,0,SF,
-20,4220,3,02:44,,3,4,77,PIT 3,0,SF,
-20,4053,2,05:00,,4,4,43,PIT 47,0,SF,
-20,3971,1,06:25,,10,4,19,SF 35,0,SF,
-20,4077,1,04:53,,10,4,57,PIT 37,0,SF,
-20,4125,2,04:17,,5,4,65,PIT 18,0,SF,
-20,3887,0,07:43,,0,4,0,PIT 35,0,PIT,KICKOFF
-20,4173,1,03:16,,6,4,77,PIT 6,0,SF,
-20,4246,0,02:40,,0,4,79,,0,,TIMEOUT
-20,4263,4,02:40,,3,4,79,PIT 3,0,SF,
-20,4149,3,03:48,,2,4,74,PIT 15,0,SF,
-20,3995,2,05:55,,6,4,27,SF 39,0,SF,
-20,4024,1,05:27,,10,4,33,SF 47,0,SF,
-20,3902,1,07:43,,10,4,5,SF 20,0,SF,
-20,3947,3,06:47,,3,4,15,SF 27,0,SF,
-20,3926,2,07:12,,5,4,7,SF 25,0,SF,
-6,1723,4,06:05,,24,2,-14,SF 4,0,SF,PUNT
-6,1662,1,08:02,,10,2,4,SF 18,0,SF,
-6,1683,2,07:30,,6,2,3,SF 22,0,SF,
-6,1640,0,08:07,,0,2,0,PIT 35,0,PIT,KICKOFF
-6,1704,3,06:47,,7,2,-14,SF 21,0,SF,
-18,3713,0,09:43,,0,4,80,PIT 2,1,SF,2PS
-18,3672,1,10:25,,10,4,5,SF 20,0,SF,
-18,3657,0,10:25,,0,4,0,PIT 35,0,PIT,KICKOFF
-18,3693,2,09:55,,5,4,80,SF 25,1,SF,TD
-1,151,3,13:53,,5,1,0,PIT 25,0,PIT,PENALTY
-1,298,1,12:50,,10,1,48,SF 33,0,PIT,
-1,354,3,11:44,,26,1,31,SF 49,0,PIT,
-1,118,2,13:57,,5,1,28,PIT 25,0,PIT,
-1,83,2,14:24,,10,1,5,PIT 20,0,PIT,PENALTY
-1,62,1,15:00,,10,1,0,PIT 20,0,PIT,
-1,319,2,12:11,,9,1,31,SF 32,0,PIT,PENALTY
-1,248,1,13:28,,10,1,28,PIT 48,0,PIT,
-1,376,4,11:37,,26,1,31,SF 49,0,PIT,PUNT
-1,174,3,13:46,,10,1,28,PIT 20,0,PIT,TIMEOUT
-1,36,0,15:00,,0,1,0,SF 35,0,SF,KICKOFF
-1,270,2,13:21,,10,1,47,PIT 48,0,PIT,
-5,1529,2,08:58,,8,2,19,PIT 37,0,PIT,
-5,1437,1,10:27,,10,2,3,PIT 20,0,PIT,
-5,1599,0,08:07,,0,2,80,SF 2,0,PIT,PENALTY
-5,1458,2,09:57,,7,2,3,PIT 23,0,PIT,
-5,1484,3,09:54,,7,2,15,PIT 23,0,PIT,
-5,1553,3,08:31,,6,2,78,PIT 39,0,PIT,
-5,1582,1,08:11,,2,2,80,SF 2,1,PIT,TD
-5,1422,0,10:27,,0,2,0,SF 35,0,SF,KICKOFF
-5,1626,0,08:07,,0,2,80,SF 1,1,PIT,2PS
-5,1508,1,09:27,,10,2,17,PIT 35,0,PIT,
-13,2516,3,09:42,,10,3,1,PIT 43,0,PIT,
-13,2540,4,09:11,,9,3,1,PIT 44,0,PIT,PUNT
-13,2492,2,10:10,,11,3,0,PIT 42,0,PIT,
-13,2468,1,10:37,,10,3,-1,PIT 43,0,PIT,
-21,4306,1,02:35,,10,4,11,PIT 1,0,PIT,
-21,4327,0,02:00,,0,4,11,,0,,
-21,4407,0,,,0,4,8,,0,,
-21,4365,2,01:20,,11,4,9,PIT 11,0,PIT,
-21,4344,1,02:00,,10,4,10,PIT 12,0,PIT,
-21,4386,3,00:40,,12,4,8,PIT 10,0,PIT,
-11,2231,1,00:17,,10,2,-1,PIT 22,0,PIT,
-11,2252,0,,,0,2,-1,,0,,
-14,2710,1,07:06,,10,3,55,PIT 38,0,SF,
-14,2806,4,05:29,,1,3,71,PIT 19,0,SF,
-14,2625,1,08:00,,10,3,11,SF 28,0,SF,
-14,2960,1,03:10,,2,3,81,PIT 2,0,SF,
-14,3028,4,01:57,,1,3,82,PIT 1,0,SF,TIMEOUT
-14,2601,2,08:16,,4,3,11,SF 23,0,SF,
-14,2875,3,03:56,,1,3,80,PIT 3,0,SF,
-14,2830,1,05:07,,10,3,73,PIT 12,0,SF,
-14,2760,2,06:17,,10,3,55,PIT 28,0,SF,
-14,2782,3,06:12,,10,3,64,PIT 28,0,SF,
-14,2651,2,07:54,,10,3,82,SF 28,0,SF,PENALTY
-14,2731,1,06:25,,10,3,55,PIT 28,0,SF,
-14,2901,4,03:51,,1,3,82,PIT 3,0,SF,TIMEOUT
-14,2851,2,04:35,,8,3,80,PIT 10,0,SF,
-14,2686,1,07:33,,10,3,45,SF 49,0,SF,
-14,2565,1,09:01,,10,3,6,SF 17,0,SF,FUMBLE
-14,3007,3,02:37,,2,3,82,PIT 2,0,SF,
-14,2981,2,02:42,,2,3,81,PIT 2,0,SF,
-8,1787,0,05:45,,0,2,0,PIT 35,0,PIT,KICKOFF
-8,1850,1,04:47,,10,2,22,SF 45,0,SF,FUMBLE
-8,1802,1,05:45,,10,2,7,SF 20,0,SF,
-8,1826,2,05:16,,3,2,25,SF 27,0,SF,
-19,3727,0,09:43,,0,4,0,SF 35,0,SF,KICKOFF
-19,3784,3,08:48,,3,4,80,PIT 27,0,PIT,
-19,3851,1,07:49,,7,4,80,SF 7,1,PIT,TD
-19,3871,0,07:43,,0,4,80,SF 15,1,PIT,XP
-19,3742,1,09:43,,10,4,4,PIT 20,0,PIT,
-19,3830,1,08:22,,10,4,80,SF 17,0,PIT,
-19,3763,2,09:16,,6,4,80,PIT 24,0,PIT,
-12,2409,2,12:10,,18,3,-3,SF 21,0,SF,
-12,2449,4,10:44,,22,3,-1,SF 17,0,SF,PUNT
-12,2377,2,12:38,,3,3,-1,SF 36,0,SF,PENALTY
-12,2428,3,11:27,,24,3,-1,SF 15,0,SF,
-12,2335,3,13:49,,1,3,11,SF 27,0,SF,
-12,2356,1,13:13,,10,3,18,SF 29,0,SF,
-12,2268,0,15:00,,0,3,0,PIT 35,0,PIT,KICKOFF
-12,2311,2,14:30,,12,3,9,SF 16,0,SF,
-12,2290,1,14:56,,10,3,-2,SF 18,0,SF,
-16,3243,0,,,0,3,38,,0,,
-16,3338,2,14:13,,6,4,58,PIT 6,0,SF,
-16,3406,4,13:22,,14,4,64,PIT 14,1,SF,TD
-16,3196,1,00:07,,10,3,-5,SF 36,0,SF,PENALTY
-16,3321,0,14:13,,0,4,58,,0,,TIMEOUT
-16,3259,1,15:00,,10,4,58,PIT 26,0,SF,PENALTY
-16,3219,1,00:07,,15,3,38,SF 31,0,SF,
-16,3364,3,14:07,,6,4,53,PIT 6,0,SF,PENALTY
-16,3297,1,14:51,,7,4,64,PIT 7,0,SF,
-16,3387,3,14:07,,11,4,50,PIT 11,0,SF,
-16,3460,0,13:16,,0,4,64,PIT 15,1,SF,XP
-7,1771,0,05:45,,0,2,35,SF 15,0,PIT,XPM
-7,1751,1,05:52,,10,2,35,SF 35,1,PIT,TD
-3,813,2,05:05,,10,1,74,SF 14,0,PIT,PENALTY
-3,767,2,05:53,,4,1,69,SF 31,0,PIT,
-3,698,2,07:26,,8,1,46,PIT 19,0,PIT,
-3,867,2,04:20,,2,1,83,SF 2,1,PIT,TD
-3,791,1,05:10,,10,1,81,SF 14,0,PIT,
-3,722,3,06:58,,5,1,46,PIT 22,0,PIT,
-3,891,0,04:20,,0,1,83,SF 2,1,PIT,2PS
-3,660,1,07:39,,10,1,5,PIT 17,0,PIT,
-3,846,1,05:01,,9,1,81,SF 9,0,PIT,
-3,746,1,06:25,,10,1,52,SF 37,0,PIT,
-17,3641,0,10:25,,0,4,80,SF 15,1,PIT,XP
-17,3533,2,12:08,,7,4,24,PIT 39,0,PIT,
-17,3476,0,13:16,,0,4,0,SF 35,0,SF,KICKOFF
-17,3557,3,11:50,,2,4,72,PIT 44,0,PIT,
-17,3602,2,10:32,,1,4,80,SF 1,1,PIT,TD
-17,3491,1,13:16,,10,4,16,PIT 20,0,PIT,
-17,3512,1,12:47,,10,4,19,PIT 36,0,PIT,
-17,3581,1,11:03,,8,4,79,SF 8,0,PIT,
-4,969,3,03:06,,3,1,17,SF 20,0,SF,
-4,1011,1,02:06,,10,1,40,SF 44,0,SF,
-4,1208,2,13:45,,5,2,74,PIT 15,0,SF,
-4,1032,2,01:33,,1,1,41,PIT 47,0,SF,
-4,905,0,04:20,,0,1,0,PIT 35,0,PIT,KICKOFF
-4,1350,3,10:58,,27,2,65,PIT 27,0,SF,PENALTY
-4,1159,1,14:01,,10,2,72,PIT 20,0,SF,PENALTY
-4,990,1,02:26,,10,1,31,SF 30,0,SF,
-4,1333,0,10:58,,0,2,60,,0,,TIMEOUT
-4,1253,1,12:48,,10,2,67,PIT 10,0,SF,PENALTY
-4,1403,4,10:32,,29,2,58,PIT 29,1,SF,FG
-4,1135,2,14:39,,2,2,67,PIT 25,0,SF,
-4,1309,2,11:44,,23,2,60,PIT 23,0,SF,
-4,1229,3,13:08,,3,2,77,PIT 13,0,SF,
-4,1114,1,15:00,,10,2,62,PIT 33,0,SF,
-4,1098,0,,,0,1,54,,0,,
-4,1285,1,12:25,,20,2,64,PIT 20,0,SF,
-4,927,1,04:20,,10,1,4,SF 13,0,SF,
-4,1373,3,10:58,,22,2,58,PIT 22,0,SF,
-4,1053,1,00:51,,10,1,43,PIT 46,0,SF,
-4,948,2,03:47,,6,1,7,SF 17,0,SF,
-4,1074,2,00:15,,8,1,54,PIT 44,0,SF,
-4,1182,1,13:51,,5,2,72,PIT 15,0,SF,
-2,642,4,07:46,,7,1,26,SF 41,0,SF,PUNT
-2,395,1,11:30,,10,1,5,SF 15,0,SF,PENALTY
-2,448,1,10:49,,10,1,7,SF 25,0,SF,
-2,557,3,07:56,,7,1,26,SF 41,0,SF,TIMEOUT
-2,427,1,11:13,,5,1,10,SF 20,0,SF,
-2,469,2,10:18,,13,1,9,SF 22,0,SF,
-2,517,1,09:11,,10,1,30,SF 38,0,SF,
-2,538,2,08:37,,3,1,26,SF 45,0,SF,
-2,493,3,09:47,,11,1,23,SF 24,0,SF,
-15,3171,4,00:20,,6,3,4,PIT 6,0,PIT,PUNT
-15,3103,1,01:51,,10,3,4,PIT 2,0,PIT,
-15,3149,3,00:27,,6,3,4,PIT 6,0,PIT,
-15,3128,2,01:11,,6,3,4,PIT 6,0,PIT,
+20,4101,1,04:43,(4:43) (Shotgun) C.Kaepernick pass short middle to V.Davis to PIT 18 for 5 yards (W.Gay).,10,4,62,PIT 23,0,SF,
+20,3887,0,07:43,"J.Scobee kicks 65 yards from PIT 35 to end zone, Touchback.",0,4,0,PIT 35,0,PIT,KICKOFF
+20,4263,4,02:40,"(2:40) (Shotgun) C.Kaepernick scrambles right tackle for 3 yards, TOUCHDOWN. The Replay Official reviewed the runner broke the plane ruling, and the play was REVERSED. (Shotgun) C.Kaepernick scrambles right tackle to PIT 1 for 2 yards (B.Dupree).",3,4,79,PIT 3,0,SF,
+20,3926,2,07:12,(7:12) (Shotgun) M.Davis up the middle to SF 27 for 2 yards (L.Timmons).,5,4,7,SF 25,0,SF,
+20,3902,1,07:43,(7:43) (Shotgun) C.Kaepernick pass short left to T.Smith to SF 25 for 5 yards (A.Blake).,10,4,5,SF 20,0,SF,
+20,4173,1,03:16,"(3:16) (No Huddle, Shotgun) M.Davis right tackle to PIT 3 for 3 yards (L.Timmons, R.Cockrell).",6,4,77,PIT 6,0,SF,
+20,4246,0,02:40,Timeout #3 by SF at 02:40.,0,4,79,,0,,TIMEOUT
+20,4077,1,04:53,(4:53) (Shotgun) C.Kaepernick pass short right to A.Boldin to PIT 23 for 14 yards.,10,4,57,PIT 37,0,SF,
+20,4125,2,04:17,"(4:17) (No Huddle, Shotgun) C.Kaepernick pass short right to M.Davis to PIT 15 for 3 yards (R.Cockrell).",5,4,65,PIT 18,0,SF,
+20,3947,3,06:47,(6:47) (Shotgun) C.Kaepernick pass short middle to A.Boldin to SF 35 for 8 yards (W.Gay).,3,4,15,SF 27,0,SF,
+20,3971,1,06:25,"(6:25) (No Huddle, Shotgun) C.Kaepernick pass short middle to Q.Patton to SF 39 for 4 yards (R.Shazier) [J.Harrison].",10,4,19,SF 35,0,SF,
+20,4024,1,05:27,(5:27) (Shotgun) C.Kaepernick pass short right to Q.Patton pushed ob at PIT 47 for 6 yards (R.Cockrell).,10,4,33,SF 47,0,SF,
+20,4053,2,05:00,(5:00) (Shotgun) C.Kaepernick pass short left to D.White to PIT 37 for 10 yards (A.Blake).,4,4,43,PIT 47,0,SF,
+20,3995,2,05:55,"(5:55) (No Huddle, Shotgun) C.Kaepernick pass short right to D.White ran ob at SF 47 for 8 yards.",6,4,27,SF 39,0,SF,
+20,4220,3,02:44,(2:44) (Shotgun) C.Kaepernick pass incomplete short left to A.Boldin. Coverage by #22 Gay.,3,4,77,PIT 3,0,SF,
+20,4194,2,02:48,"(2:48) (No Huddle, Shotgun) C.Kaepernick pass incomplete short left to A.Boldin. Coverage by #41 Blake, Pressure by #97 Heyward.",3,4,77,PIT 3,0,SF,
+20,4149,3,03:48,"(3:48) (No Huddle, Shotgun) C.Kaepernick pass short left to Q.Patton to PIT 6 for 9 yards (A.Blake).",2,4,74,PIT 15,0,SF,
+21,4365,2,01:20,(1:20) M.Vick kneels to PIT 10 for -1 yards.,11,4,9,PIT 11,0,PIT,
+21,4306,1,02:35,(2:35) J.Todman left guard to PIT 12 for 11 yards (M.Wilhoite).,10,4,11,PIT 1,0,PIT,
+21,4407,0,,END GAME,0,4,8,,0,,
+21,4386,3,00:40,(:40) M.Vick kneels to PIT 9 for -1 yards.,12,4,8,PIT 10,0,PIT,
+21,4327,0,02:00,Two-Minute Warning,0,4,11,,0,,
+21,4344,1,02:00,(2:00) M.Vick kneels to PIT 11 for -1 yards.,10,4,10,PIT 12,0,PIT,
+1,151,3,13:53,"(13:53) (Shotgun) PENALTY on PIT-R.Foster, False Start, 5 yards, enforced at PIT 25 - No Play.",5,1,0,PIT 25,0,PIT,PENALTY
+1,319,2,12:11,"(12:11) B.Roethlisberger pass short right to D.Heyward-Bey to SF 34 for -2 yards (T.Brock). PENALTY on PIT-C.Wallace, Unnecessary Roughness, 15 yards, enforced at SF 34.",9,1,31,SF 32,0,PIT,PENALTY
+1,36,0,15:00,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback.",0,1,0,SF 35,0,SF,KICKOFF
+1,248,1,13:28,(13:28) (Shotgun) B.Roethlisberger pass incomplete short left to A.Brown. Coverage by #57 Wilhoite.,10,1,28,PIT 48,0,PIT,
+1,270,2,13:21,(13:21) B.Roethlisberger pass deep right to M.Wheaton to SF 33 for 19 yards (T.Brock).,10,1,47,PIT 48,0,PIT,
+1,62,1,15:00,(15:00) De.Williams left guard to PIT 20 for no gain (I.Williams).,10,1,0,PIT 20,0,PIT,
+1,354,3,11:44,(11:44) (Shotgun) B.Roethlisberger pass incomplete deep left to D.Heyward-Bey.,26,1,31,SF 49,0,PIT,
+1,298,1,12:50,(12:50) De.Williams up the middle to SF 32 for 1 yard (A.Brooks; N.Bowman).,10,1,48,SF 33,0,PIT,
+1,83,2,14:24,"(14:24) B.Roethlisberger pass short right to R.Nix to PIT 22 for 2 yards (A.Lynch). PENALTY on SF-Q.Dial, Defensive Offside, 5 yards, enforced at PIT 20 - No Play.",10,1,5,PIT 20,0,PIT,PENALTY
+1,174,3,13:46,"(13:46) (Shotgun) B.Roethlisberger pass deep left to A.Brown to PIT 48 for 28 yards (E.Reid). San Francisco challenged the pass completion ruling, and the play was Upheld. The ruling on the field was confirmed. (Timeout #1.)",10,1,28,PIT 20,0,PIT,TIMEOUT
+1,118,2,13:57,"(13:57) (Shotgun) B.Roethlisberger pass incomplete short left to M.Wheaton. Penalty on PIT-R.Foster, Ineligible Downfield Pass, declined.",5,1,28,PIT 25,0,PIT,
+1,376,4,11:37,"(11:37) (Punt formation) J.Berry punts 34 yards to SF 15, Center-G.Warren, fair catch by J.Hayne.",26,1,31,SF 49,0,PIT,PUNT
+3,846,1,05:01,(5:01) (Shotgun) De.Williams up the middle to SF 2 for 7 yards (M.Wilhoite).,9,1,81,SF 9,0,PIT,
+3,746,1,06:25,"(6:25) (No Huddle, Shotgun) De.Williams left tackle to SF 31 for 6 yards (K.Acker; N.Bowman).",10,1,52,SF 37,0,PIT,
+3,791,1,05:10,"(5:10) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short right to M.Wheaton. Coverage by #25 Ward.",10,1,81,SF 14,0,PIT,
+3,891,0,04:20,(Pass formation) TWO-POINT CONVERSION ATTEMPT. B.Roethlisberger pass to A.Brown is complete. ATTEMPT SUCCEEDS.,0,1,83,SF 2,1,PIT,2PS
+3,698,2,07:26,"(7:26) (No Huddle, Shotgun) B.Roethlisberger pass short right to D.Heyward-Bey to PIT 22 for 3 yards (A.Bethea).",8,1,46,PIT 19,0,PIT,
+3,767,2,05:53,"(5:53) (No Huddle, Shotgun) B.Roethlisberger pass short left to A.Brown to SF 14 for 17 yards (K.Acker).",4,1,69,SF 31,0,PIT,
+3,867,2,04:20,"(4:20) (No Huddle, Shotgun) B.Roethlisberger pass short left to H.Miller for 2 yards, TOUCHDOWN.",2,1,83,SF 2,1,PIT,TD
+3,660,1,07:39,(7:39) (Shotgun) De.Williams left guard pushed ob at PIT 19 for 2 yards (A.Bethea).,10,1,5,PIT 17,0,PIT,
+3,722,3,06:58,"(6:58) (No Huddle, Shotgun) B.Roethlisberger pass deep middle to D.Heyward-Bey to SF 37 for 41 yards (D.Johnson).",5,1,46,PIT 22,0,PIT,
+3,813,2,05:05,"(5:05) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short middle to H.Miller. PENALTY on SF-N.Bowman, Defensive Holding, 5 yards, enforced at SF 14 - No Play.",10,1,74,SF 14,0,PIT,PENALTY
+2,448,1,10:49,(10:49) (Shotgun) C.Hyde right guard to SF 22 for -3 yards (A.Blake).,10,1,7,SF 25,0,SF,
+2,469,2,10:18,(10:18) (Shotgun) C.Kaepernick pass short right to V.Davis ran ob at SF 24 for 2 yards.,13,1,9,SF 22,0,SF,
+2,557,3,07:56,"(7:56) (Shotgun) C.Kaepernick pass incomplete short middle to A.Boldin (W.Gay). Pittsburgh challenged the incomplete pass ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",7,1,26,SF 41,0,SF,TIMEOUT
+2,642,4,07:46,"(7:46) (Punt formation) B.Pinion punts 42 yards to PIT 17, Center-K.Nelson, out of bounds.",7,1,26,SF 41,0,SF,PUNT
+2,427,1,11:13,(11:13) (Shotgun) C.Hyde right guard to SF 25 for 5 yards (J.Jones).,5,1,10,SF 20,0,SF,
+2,395,1,11:30,"(11:30) (Shotgun) C.Hyde right guard to SF 17 for 2 yards (J.Jones). PENALTY on PIT-S.McLendon, Defensive Offside, 5 yards, enforced at SF 15 - No Play.",10,1,5,SF 15,0,SF,PENALTY
+2,538,2,08:37,(8:37) (Shotgun) C.Kaepernick sacked at SF 41 for -4 yards (S.Tuitt).,3,1,26,SF 45,0,SF,
+2,517,1,09:11,(9:11) (Shotgun) C.Hyde left guard to SF 45 for 7 yards (W.Allen).,10,1,30,SF 38,0,SF,
+2,493,3,09:47,(9:47) (Shotgun) C.Kaepernick pass short left to T.Smith to SF 38 for 14 yards (A.Blake).,11,1,23,SF 24,0,SF,
+5,1437,1,10:27,(10:27) (Shotgun) De.Williams up the middle to PIT 23 for 3 yards (I.Williams).,10,2,3,PIT 20,0,PIT,
+5,1553,3,08:31,"(8:31) (No Huddle, Shotgun) B.Roethlisberger pass deep left to A.Brown pushed ob at SF 2 for 59 yards (E.Reid).",6,2,78,PIT 39,0,PIT,
+5,1422,0,10:27,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback.",0,2,0,SF 35,0,SF,KICKOFF
+5,1626,0,08:07,(Pass formation) TWO-POINT CONVERSION ATTEMPT. B.Roethlisberger pass to H.Miller is complete. ATTEMPT SUCCEEDS.,0,2,80,SF 1,1,PIT,2PS
+5,1582,1,08:11,"(8:11) (No Huddle) De.Williams left guard for 2 yards, TOUCHDOWN.",2,2,80,SF 2,1,PIT,TD
+5,1599,0,08:07,"(Kick formation) PENALTY on SF-A.Brooks, Neutral Zone Infraction, 1 yard, enforced at SF 2 - No Play.",0,2,80,SF 2,0,PIT,PENALTY
+5,1484,3,09:54,"(9:54) (No Huddle, Shotgun) B.Roethlisberger pass short left to A.Brown to PIT 35 for 12 yards (K.Acker).",7,2,15,PIT 23,0,PIT,
+5,1508,1,09:27,(9:27) (No Huddle) De.Williams left guard to PIT 37 for 2 yards (K.Acker).,10,2,17,PIT 35,0,PIT,
+5,1458,2,09:57,"(9:57) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short left to De.Williams. Covergage by #35 Reid.",7,2,3,PIT 23,0,PIT,
+5,1529,2,08:58,"(8:58) (No Huddle, Shotgun) B.Roethlisberger pass short left to De.Williams to PIT 39 for 2 yards (E.Reid).",8,2,19,PIT 37,0,PIT,
+4,1208,2,13:45,(13:45) C.Hyde right end to PIT 13 for 2 yards (S.Tuitt).,5,2,74,PIT 15,0,SF,
+4,1309,2,11:44,(11:44) (Shotgun) C.Kaepernick pass short left to C.Hyde to PIT 27 for -4 yards (C.Heyward).,23,2,60,PIT 23,0,SF,
+4,1229,3,13:08,(13:08) (Shotgun) C.Kaepernick pass short right to G.Celek to PIT 10 for 3 yards (R.Shazier).,3,2,77,PIT 13,0,SF,
+4,1053,1,00:51,(:51) (Shotgun) J.Hayne left guard to PIT 44 for 2 yards (D.McCullers; L.Timmons).,10,1,43,PIT 46,0,SF,
+4,1074,2,00:15,"(:15) (Shotgun) C.Kaepernick pass short middle to C.Hyde to PIT 33 for 11 yards (L.Timmons, J.Jones).",8,1,54,PIT 44,0,SF,
+4,1373,3,10:58,(10:58) (Shotgun) C.Kaepernick sacked at PIT 29 for -7 yards (C.Heyward).,22,2,58,PIT 22,0,SF,
+4,1253,1,12:48,"(12:48) M.Davis right tackle to PIT 14 for -4 yards (W.Gay, J.Harrison). PENALTY on SF-E.Pears, Offensive Holding, 10 yards, enforced at PIT 10 - No Play.",10,2,67,PIT 10,0,SF,PENALTY
+4,1032,2,01:33,(1:33) (Shotgun) J.Hayne up the middle to PIT 46 for 1 yard (L.Timmons).,1,1,41,PIT 47,0,SF,
+4,1011,1,02:06,"(2:06) (Shotgun) C.Hyde left tackle to PIT 47 for 9 yards (A.Blake, M.Mitchell).",10,1,40,SF 44,0,SF,
+4,1114,1,15:00,(15:00) (Shotgun) C.Kaepernick up the middle to PIT 25 for 8 yards (C.Heyward).,10,2,62,PIT 33,0,SF,
+4,1159,1,14:01,"(14:01) (Shotgun) PENALTY on PIT-S.McLendon, Encroachment, 5 yards, enforced at PIT 20 - No Play.",10,2,72,PIT 20,0,SF,PENALTY
+4,990,1,02:26,(2:26) (Shotgun) C.Kaepernick left end pushed ob at SF 44 for 14 yards (M.Mitchell).,10,1,31,SF 30,0,SF,
+4,1350,3,10:58,"(10:58) (Shotgun) PENALTY on PIT-J.Harrison, Neutral Zone Infraction, 5 yards, enforced at PIT 27 - No Play.",27,2,65,PIT 27,0,SF,PENALTY
+4,1098,0,,END QUARTER 1,0,1,54,,0,,
+4,1135,2,14:39,"(14:39) (No Huddle, Shotgun) C.Kaepernick pass short right to A.Boldin to PIT 20 for 5 yards (R.Shazier).",2,2,67,PIT 25,0,SF,
+4,1403,4,10:32,"(10:32) (Field Goal formation) P.Dawson 47 yard field goal is GOOD, Center-K.Nelson, Holder-B.Pinion.",29,2,58,PIT 29,1,SF,FG
+4,1333,0,10:58,Timeout #2 by SF at 10:58.,0,2,60,,0,,TIMEOUT
+4,1285,1,12:25,(12:25) (Shotgun) C.Kaepernick pass short left to T.Smith to PIT 23 for -3 yards (W.Gay).,20,2,64,PIT 20,0,SF,
+4,948,2,03:47,(3:47) C.Hyde right guard to SF 20 for 3 yards (C.Heyward).,6,1,7,SF 17,0,SF,
+4,905,0,04:20,J.Scobee kicks 73 yards from PIT 35 to SF -8. D.White to SF 13 for 21 yards (A.Blake).,0,1,0,PIT 35,0,PIT,KICKOFF
+4,1182,1,13:51,"(13:51) (Shotgun) C.Kaepernick pass incomplete short left to V.McDonald. Coverage by #95 Jones, Pressure by #23 Mitchell.",5,2,72,PIT 15,0,SF,
+4,969,3,03:06,(3:06) (Shotgun) C.Hyde up the middle to SF 30 for 10 yards (C.Heyward; R.Shazier).,3,1,17,SF 20,0,SF,
+4,927,1,04:20,"(4:20) (Shotgun) C.Hyde up the middle to SF 17 for 4 yards (L.Timmons, R.Shazier).",10,1,4,SF 13,0,SF,
+7,1771,0,05:45,"J.Scobee extra point is No Good, Hit Left Upright, Center-G.Warren, Holder-J.Berry.",0,2,35,SF 15,0,PIT,XPM
+7,1751,1,05:52,"(5:52) B.Roethlisberger pass deep middle to D.Heyward-Bey for 35 yards, TOUCHDOWN.",10,2,35,SF 35,1,PIT,TD
+6,1683,2,07:30,"(7:30) (Shotgun) C.Hyde left tackle to SF 21 for -1 yards (R.Shazier, L.Timmons).",6,2,3,SF 22,0,SF,
+6,1723,4,06:05,"(6:05) (Punt formation) B.Pinion punts 47 yards to PIT 49, Center-K.Nelson. A.Brown to SF 35 for 16 yards (E.Reid). SF-V.McDonald was injured during the play.",24,2,-14,SF 4,0,SF,PUNT
+6,1704,3,06:47,(6:47) (Shotgun) C.Kaepernick sacked at SF 4 for -17 yards (R.Shazier).,7,2,-14,SF 21,0,SF,
+6,1640,0,08:07,"J.Scobee kicks 58 yards from PIT 35 to SF 7. T.Jerod-Eddie to SF 18 for 11 yards (R.Nix, J.Todman).",0,2,0,PIT 35,0,PIT,KICKOFF
+6,1662,1,08:02,"(8:02) (Shotgun) C.Hyde up the middle to SF 22 for 4 yards (A.Moats, J.Jones).",10,2,4,SF 18,0,SF,
+9,1996,0,02:00,Two-Minute Warning,0,2,40,,0,,
+9,1975,1,02:30,(2:30) (No Huddle) De.Williams up the middle to SF 2 for 3 yards (A.Bethea).,5,2,40,SF 5,0,PIT,
+9,2030,0,01:58,"J.Scobee extra point is GOOD, Center-G.Warren, Holder-J.Berry.",0,2,42,SF 15,1,PIT,XP
+9,1951,1,02:58,"(2:58) (No Huddle, Shotgun) B.Roethlisberger pass short middle to H.Miller to SF 5 for 13 yards (M.Wilhoite).",10,2,37,SF 18,0,PIT,
+9,1927,2,03:29,"(3:29) (No Huddle, Shotgun) B.Roethlisberger pass short middle to A.Brown to SF 18 for 12 yards (M.Wilhoite).",9,2,24,SF 30,0,PIT,
+9,1906,1,04:03,(4:03) (Shotgun) De.Williams right guard to SF 30 for 1 yard (A.Bethea).,10,2,12,SF 31,0,PIT,
+9,1882,1,04:40,"(4:40) (Shotgun) B.Roethlisberger pass short middle to De.Williams to SF 31 for 11 yards (T.Carradine, N.Bowman).",10,2,11,SF 42,0,PIT,
+9,2013,2,02:00,"(2:00) (Shotgun) De.Williams up the middle for 2 yards, TOUCHDOWN.",2,2,42,SF 2,1,PIT,TD
+8,1850,1,04:47,"(4:47) (Shotgun) C.Hyde FUMBLES (Aborted) at SF 42, RECOVERED by PIT-R.Shazier at SF 42. R.Shazier to SF 42 for no gain (V.McDonald).",10,2,22,SF 45,0,SF,FUMBLE
+8,1826,2,05:16,(5:16) (Shotgun) C.Kaepernick pass deep middle to T.Smith to SF 45 for 18 yards (B.Boykin).,3,2,25,SF 27,0,SF,
+8,1802,1,05:45,(5:45) (Shotgun) C.Kaepernick pass short right to G.Celek to SF 27 for 7 yards (B.Dupree).,10,2,7,SF 20,0,SF,
+8,1787,0,05:45,"J.Scobee kicks 65 yards from PIT 35 to end zone, Touchback.",0,2,0,PIT 35,0,PIT,KICKOFF
+11,2231,1,00:17,(:17) B.Roethlisberger kneels to PIT 21 for -1 yards.,10,2,-1,PIT 22,0,PIT,
+11,2252,0,,END QUARTER 2,0,2,-1,,0,,
+10,2046,0,01:58,"J.Scobee kicks 65 yards from PIT 35 to end zone, Touchback.",0,2,0,PIT 35,0,PIT,KICKOFF
+10,2120,3,01:07,"(1:07) (No Huddle, Shotgun) C.Kaepernick pass short right to C.Hyde to SF 31 for 2 yards (R.Shazier).",1,2,11,SF 29,0,SF,
+10,2086,2,01:29,"(1:29) (No Huddle, Shotgun) C.Kaepernick pass short right to Q.Patton to SF 29 for 6 yards (R.Cockrell).",7,2,9,SF 23,0,SF,
+10,2213,4,00:25,"(:25) (Punt formation) B.Pinion punts 42 yards to PIT 22, Center-K.Nelson, out of bounds.",5,2,16,SF 36,0,SF,PUNT
+10,2191,3,00:30,(:30) (Shotgun) C.Kaepernick pass incomplete short right to V.Davis (M.Mitchell).,5,2,16,SF 36,0,SF,
+10,2169,2,00:35,"(:35) (No Huddle, Shotgun) C.Kaepernick pass incomplete short right to M.Davis [J.Harrison].",5,2,16,SF 36,0,SF,
+10,2061,1,01:58,(1:58) (Shotgun) C.Hyde left guard to SF 23 for 3 yards (W.Allen).,10,2,3,SF 20,0,SF,
+10,2148,1,01:06,(1:06) (Shotgun) C.Kaepernick scrambles left end to SF 36 for 5 yards (A.Moats).,10,2,16,SF 31,0,SF,
+13,2516,3,09:42,"(9:42) (No Huddle, Shotgun) B.Roethlisberger pass short left to De.Williams to PIT 44 for 1 yard (A.Brooks).",10,3,1,PIT 43,0,PIT,
+13,2492,2,10:10,"(10:10) (No Huddle, Shotgun) B.Roethlisberger pass short left to De.Williams to PIT 43 for 1 yard (E.Reid).",11,3,0,PIT 42,0,PIT,
+13,2468,1,10:37,(10:37) (Shotgun) B.Roethlisberger pass short left to A.Brown to PIT 42 for -1 yards (K.Acker).,10,3,-1,PIT 43,0,PIT,
+13,2540,4,09:11,"(9:11) (Punt formation) J.Berry punts 46 yards to SF 10, Center-G.Warren. J.Hayne to SF 17 for 7 yards (V.Williams).",9,3,1,PIT 44,0,PIT,PUNT
+12,2428,3,11:27,(11:27) (Shotgun) C.Kaepernick scrambles up the middle to SF 17 for 2 yards (R.Shazier).,24,3,-1,SF 15,0,SF,
+12,2449,4,10:44,"(10:44) (Punt formation) B.Pinion punts 40 yards to PIT 43, Center-K.Nelson, fair catch by A.Brown.",22,3,-1,SF 17,0,SF,PUNT
+12,2335,3,13:49,"(13:49) (Shotgun) C.Hyde left guard to SF 29 for 2 yards (M.Mitchell, B.Dupree).",1,3,11,SF 27,0,SF,
+12,2290,1,14:56,(14:56) C.Hyde right end to SF 16 for -2 yards (R.Shazier).,10,3,-2,SF 18,0,SF,
+12,2311,2,14:30,"(14:30) (No Huddle, Shotgun) C.Kaepernick pass short left to T.Smith to SF 27 for 11 yards (A.Blake).",12,3,9,SF 16,0,SF,
+12,2268,0,15:00,J.Scobee kicks 73 yards from PIT 35 to SF -8. D.White to SF 18 for 26 yards (S.Spence).,0,3,0,PIT 35,0,PIT,KICKOFF
+12,2377,2,12:38,"(12:38) (Shotgun) C.Hyde left guard to SF 34 for -2 yards (R.Shazier). PENALTY on SF-E.Pears, Clipping, 15 yards, enforced at SF 36 - No Play.",3,3,-1,SF 36,0,SF,PENALTY
+12,2356,1,13:13,(13:13) (Shotgun) C.Kaepernick scrambles up the middle to SF 36 for 7 yards (R.Shazier).,10,3,18,SF 29,0,SF,
+12,2409,2,12:10,(12:10) (Shotgun) C.Kaepernick sacked at SF 15 for -6 yards (sack split by A.Moats and S.Tuitt).,18,3,-3,SF 21,0,SF,
+15,3171,4,00:20,"(:20) (Punt formation) J.Berry punts 62 yards to SF 32, Center-G.Warren. D.White to SF 36 for 4 yards (W.Allen).",6,3,4,PIT 6,0,PIT,PUNT
+15,3149,3,00:27,(:27) (Shotgun) B.Roethlisberger pass incomplete deep left to A.Brown (E.Reid).,6,3,4,PIT 6,0,PIT,
+15,3128,2,01:11,(1:11) De.Williams up the middle to PIT 6 for no gain (I.Williams; N.Bowman).,6,3,4,PIT 6,0,PIT,
+15,3103,1,01:51,(1:51) Ball spotted at the 2-yard line after the turnover on downs.  De.Williams left guard to PIT 6 for 4 yards (I.Williams).,10,3,4,PIT 2,0,PIT,
+14,2710,1,07:06,(7:06) (Shotgun) C.Kaepernick left end to PIT 28 for 10 yards (A.Blake).,10,3,55,PIT 38,0,SF,
+14,2601,2,08:16,(8:16) C.Kaepernick pass short left to V.Davis to SF 28 for 5 yards (A.Blake).,4,3,11,SF 23,0,SF,
+14,2875,3,03:56,"(3:56) C.Kaepernick pass incomplete short right to M.Davis. Coverage by #22 Gay, Pressure by #55 Moats.",1,3,80,PIT 3,0,SF,
+14,2625,1,08:00,(8:00) (Shotgun) C.Kaepernick pass incomplete deep middle to B.Bell. Coverage by #94 Timmons.,10,3,11,SF 28,0,SF,
+14,2851,2,04:35,(4:35) (Shotgun) C.Kaepernick pass short middle to B.Miller to PIT 3 for 7 yards (S.Spence; L.Timmons).,8,3,80,PIT 10,0,SF,
+14,2651,2,07:54,"(7:54) (Shotgun) C.Kaepernick pass short right to A.Boldin to SF 34 for 6 yards (R.Shazier). PENALTY on PIT-L.Timmons, Unnecessary Roughness, 15 yards, enforced at SF 34.",10,3,82,SF 28,0,SF,PENALTY
+14,2760,2,06:17,(6:17) (Shotgun) C.Kaepernick pass incomplete deep right to A.Boldin.,10,3,55,PIT 28,0,SF,
+14,2565,1,09:01,"(9:01) (Shotgun) C.Kaepernick left guard to SF 20 for 3 yards (R.Shazier). FUMBLES (R.Shazier), recovered by SF-G.Celek at SF 23. G.Celek to SF 23 for no gain (J.Jones).",10,3,6,SF 17,0,SF,FUMBLE
+14,2782,3,06:12,(6:12) (Shotgun) C.Kaepernick pass short left to C.Hyde to PIT 19 for 9 yards (L.Timmons).,10,3,64,PIT 28,0,SF,
+14,3007,3,02:37,(2:37) M.Davis up the middle to PIT 1 for 1 yard (S.McLendon).,2,3,82,PIT 2,0,SF,
+14,3028,4,01:57,"(1:57) C.Kaepernick pass incomplete short right to B.Miller (L.Timmons). San Francisco challenged the incomplete pass ruling, and the play was Upheld. The ruling on the field was confirmed. (Timeout #1 at 01:51.)",1,3,82,PIT 1,0,SF,TIMEOUT
+14,2901,4,03:51,"(3:51) (Shotgun) M.Davis up the middle to PIT 2 for 1 yard (R.Shazier; C.Thomas). Pittsburgh challenged the first down ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",1,3,82,PIT 3,0,SF,TIMEOUT
+14,2686,1,07:33,(7:33) (Shotgun) C.Kaepernick pass short right to A.Boldin to PIT 38 for 13 yards (M.Mitchell).,10,3,45,SF 49,0,SF,
+14,2830,1,05:07,(5:07) (Shotgun) M.Davis up the middle to PIT 10 for 2 yards (W.Allen; J.Harrison).,10,3,73,PIT 12,0,SF,
+14,2806,4,05:29,(5:29) (Shotgun) C.Kaepernick pass short left to V.Davis to PIT 12 for 7 yards (A.Blake).,1,3,71,PIT 19,0,SF,
+14,2981,2,02:42,(2:42) C.Kaepernick pass incomplete short right to B.Bell. Coverage by #20 Allen.,2,3,81,PIT 2,0,SF,
+14,2960,1,03:10,"(3:10) M.Davis up the middle to PIT 2 for no gain (J.Jones, S.Tuitt).",2,3,81,PIT 2,0,SF,
+14,2731,1,06:25,(6:25) C.Kaepernick pass incomplete short left to V.Davis (A.Blake).,10,3,55,PIT 28,0,SF,
+17,3557,3,11:50,(11:50) (No Huddle) B.Roethlisberger pass deep right to M.Wheaton to SF 8 for 48 yards (M.Wilhoite).,2,4,72,PIT 44,0,PIT,
+17,3581,1,11:03,(11:03) (No Huddle) De.Williams right tackle to SF 1 for 7 yards (E.Reid).,8,4,79,SF 8,0,PIT,
+17,3476,0,13:16,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback.",0,4,0,SF 35,0,SF,KICKOFF
+17,3602,2,10:32,"(10:32) De.Williams up the middle for 1 yard, TOUCHDOWN. The Replay Official reviewed the runner broke the plane ruling, and the play was Upheld. The ruling on the field stands.",1,4,80,SF 1,1,PIT,TD
+17,3512,1,12:47,"(12:47) (No Huddle, Shotgun) De.Williams left guard to PIT 39 for 3 yards (I.Williams; Q.Dial).",10,4,19,PIT 36,0,PIT,
+17,3491,1,13:16,(13:16) (Shotgun) De.Williams left tackle to PIT 36 for 16 yards (K.Acker).,10,4,16,PIT 20,0,PIT,
+17,3533,2,12:08,"(12:08) (No Huddle, Shotgun) B.Roethlisberger pass short left to A.Brown ran ob at PIT 44 for 5 yards (Q.Dial).",7,4,24,PIT 39,0,PIT,
+17,3641,0,10:25,"J.Scobee extra point is GOOD, Center-G.Warren, Holder-J.Berry.",0,4,80,SF 15,1,PIT,XP
+16,3259,1,15:00,"(15:00) (Shotgun) C.Kaepernick pass short middle to B.Bell to PIT 15 for 11 yards (W.Allen, R.Shazier). SF-B.Bell was injured during the play.  PENALTY on PIT-W.Allen, Unnecessary Roughness, 8 yards, enforced at PIT 15.",10,4,58,PIT 26,0,SF,PENALTY
+16,3338,2,14:13,"(14:13) (Shotgun) C.Kaepernick pass incomplete short middle to T.Smith (B.Boykin). Coverage by #23 Mitchell, Pressure by #94 Timmons.",6,4,58,PIT 6,0,SF,
+16,3321,0,14:13,Timeout #2 by SF at 14:13.,0,4,58,,0,,TIMEOUT
+16,3243,0,,END QUARTER 3,0,3,38,,0,,
+16,3387,3,14:07,(14:07) (Shotgun) C.Kaepernick sacked at PIT 14 for -3 yards (B.Dupree).,11,4,50,PIT 11,0,SF,
+16,3460,0,13:16,"P.Dawson extra point is GOOD, Center-K.Nelson, Holder-B.Pinion.",0,4,64,PIT 15,1,SF,XP
+16,3219,1,00:07,(:07) (Shotgun) C.Kaepernick pass deep right to V.Davis to PIT 26 for 43 yards (M.Mitchell).,15,3,38,SF 31,0,SF,
+16,3196,1,00:07,"(:07) (Shotgun) PENALTY on SF-E.Pears, False Start, 5 yards, enforced at SF 36 - No Play.",10,3,-5,SF 36,0,SF,PENALTY
+16,3406,4,13:22,"(13:22) (Shotgun) C.Kaepernick pass short left to A.Boldin for 14 yards, TOUCHDOWN. The Replay Official reviewed the runner was in bounds ruling, and the play was Upheld. The ruling on the field stands.",14,4,64,PIT 14,1,SF,TD
+16,3297,1,14:51,(14:51) (Shotgun) C.Kaepernick pass short left to M.Davis to PIT 6 for 1 yard (J.Harrison).,7,4,64,PIT 7,0,SF,
+16,3364,3,14:07,"(14:07) (Shotgun) PENALTY on SF-C.Kaepernick, Delay of Game, 5 yards, enforced at PIT 6 - No Play.",6,4,53,PIT 6,0,SF,PENALTY
+19,3763,2,09:16,(9:16) (No Huddle) De.Williams right tackle to PIT 27 for 3 yards (G.Dorsey).,6,4,80,PIT 24,0,PIT,
+19,3830,1,08:22,(8:22) (No Huddle) De.Williams left tackle to SF 7 for 10 yards (T.Carradine).,10,4,80,SF 17,0,PIT,
+19,3784,3,08:48,"(8:48) (No Huddle, Shotgun) B.Roethlisberger pass deep right to A.Brown to SF 17 for 56 yards (T.Brock). Penalty on SF-A.Brooks, Defensive Offside, declined.",3,4,80,PIT 27,0,PIT,
+19,3871,0,07:43,"J.Scobee extra point is GOOD, Center-G.Warren, Holder-J.Berry.",0,4,80,SF 15,1,PIT,XP
+19,3742,1,09:43,(9:43) (Shotgun) De.Williams right tackle to PIT 24 for 4 yards (G.Dorsey).,10,4,4,PIT 20,0,PIT,
+19,3851,1,07:49,"(7:49) (No Huddle, Shotgun) B.Roethlisberger pass short left to A.Brown for 7 yards, TOUCHDOWN.",7,4,80,SF 7,1,PIT,TD
+19,3727,0,09:43,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback.",0,4,0,SF 35,0,SF,KICKOFF
+18,3672,1,10:25,(10:25) (Shotgun) M.Davis up the middle to SF 25 for 5 yards (C.Heyward).,10,4,5,SF 20,0,SF,
+18,3693,2,09:55,"(9:55) (No Huddle, Shotgun) C.Kaepernick pass deep middle to T.Smith for 75 yards, TOUCHDOWN.",5,4,80,SF 25,1,SF,TD
+18,3657,0,10:25,"J.Scobee kicks 65 yards from PIT 35 to end zone, Touchback.",0,4,0,PIT 35,0,PIT,KICKOFF
+18,3713,0,09:43,(Pass formation) TWO-POINT CONVERSION ATTEMPT. C.Kaepernick pass to T.Smith is complete. ATTEMPT SUCCEEDS.,0,4,80,PIT 2,1,SF,2PS

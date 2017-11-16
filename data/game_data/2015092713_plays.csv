@@ -1,183 +1,183 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1620,1,03:54,,10,2,52,DEN 31,0,DET,
-9,1644,2,03:17,,7,2,52,DEN 28,0,DET,
-9,1779,2,01:11,,2,2,79,DEN 2,0,DET,PENALTY
-9,1695,1,02:45,,10,2,62,DEN 17,0,DET,
-9,1829,0,01:03,,0,2,80,DEN 15,0,DET,XPB
-9,1666,3,03:12,,7,2,63,DEN 28,0,DET,
-9,1812,1,01:07,,1,2,80,DEN 1,1,DET,TD
-9,1585,1,04:12,,10,2,52,DET 45,0,DET,PENALTY
-9,1561,1,04:54,,10,2,25,DET 20,0,DET,
-9,1542,0,04:54,,0,2,0,DEN 50,0,DEN,KICKOFF
-9,1716,0,02:00,,0,2,62,,0,,
-9,1733,2,02:00,,11,2,78,DEN 18,0,DET,
-9,1757,1,01:16,,2,2,78,DEN 2,0,DET,
-24,4464,1,00:30,,10,4,-1,DEN 15,0,DEN,
-24,4485,0,00:00,,0,4,-1,,0,,
-10,2042,0,00:13,,0,2,35,,0,,TIMEOUT
-10,1845,0,01:03,,0,2,0,DET 35,0,DET,KICKOFF
-10,1933,1,00:48,,10,2,26,DEN 31,0,DEN,
-10,1892,2,00:59,,10,2,11,DEN 20,0,DEN,
-10,1998,2,00:21,,1,2,35,DET 45,0,DEN,
-10,1981,0,00:21,,0,2,35,,0,,TIMEOUT
-10,2059,4,00:13,,1,2,80,DET 45,1,DEN,TD
-10,1870,1,01:03,,10,2,0,DEN 20,0,DEN,
-10,2094,0,00:05,,0,2,80,DET 15,1,DEN,XP
-10,1957,1,00:27,,10,2,35,DEN 46,0,DEN,
-10,1916,0,00:48,,0,2,11,,0,,TIMEOUT
-10,2020,3,00:18,,1,2,35,DET 45,0,DEN,
-20,3578,3,08:06,,9,4,14,DET 35,0,DEN,
-20,3600,4,08:00,,9,4,19,DET 35,0,DEN,PENALTY
-20,3631,4,07:55,,4,4,19,DET 30,1,DEN,FG
-20,3554,2,08:50,,8,4,14,DET 34,0,DEN,
-20,3509,1,10:12,,10,4,13,DET 49,0,DEN,
-20,3533,1,09:31,,10,4,15,DET 36,0,DEN,
-6,886,2,01:10,,1,1,23,DET 17,0,DEN,
-6,948,2,15:00,,10,2,23,DET 13,0,DEN,INT
-6,907,1,00:28,,10,1,23,DET 13,0,DEN,
-6,828,1,02:14,,10,1,19,DET 36,0,DEN,
-6,857,1,01:40,,10,1,19,DET 26,0,DEN,
-6,928,0,,,0,1,23,,0,,
-18,3383,3,12:16,,4,4,9,DEN 30,0,DEN,
-18,3366,0,12:17,,0,4,6,,0,,TIMEOUT
-18,3319,2,13:23,,5,4,0,DEN 29,0,DEN,PENALTY
-18,3298,1,13:55,,10,4,5,DEN 24,0,DEN,
-18,3342,2,13:03,,10,4,6,DEN 24,0,DEN,
-18,3407,4,11:47,,1,4,9,DEN 33,0,DEN,PUNT
-1,64,1,15:00,,10,1,-1,DET 20,0,DET,
-1,46,0,15:00,,0,1,0,DEN 35,0,DEN,KICKOFF
-1,154,4,12:54,,11,1,-1,DET 19,0,DET,PUNT
-1,130,3,13:28,,14,1,-1,DET 16,0,DET,
-1,111,2,14:06,,6,1,-1,DET 24,0,DET,
-1,88,2,14:28,,11,1,4,DET 19,0,DET,PENALTY
-5,698,2,04:20,,10,1,1,DET 11,0,DET,
-5,675,1,04:56,,10,1,0,DET 11,0,DET,
-5,719,3,03:39,,9,1,24,DET 12,0,DET,PENALTY
-5,752,1,03:33,,10,1,29,DET 35,0,DET,
-5,802,3,02:24,,5,1,29,DET 40,0,DET,INT
-5,781,2,03:03,,5,1,29,DET 40,0,DET,
-13,2403,1,12:48,,10,3,16,DEN 16,0,DET,
-13,2368,1,13:00,,10,3,16,DEN 29,0,DET,PENALTY
-13,2480,1,10:57,,16,3,29,DEN 16,1,DET,TD
-13,2424,2,12:05,,7,3,23,DEN 13,0,DET,
-13,2448,1,11:27,,6,3,13,DEN 6,0,DET,PENALTY
-13,2500,0,10:51,,0,3,29,DEN 2,0,DET,2PRF
-21,3694,2,07:18,,3,4,9,DET 27,0,DET,
-21,3828,2,04:25,,10,4,32,DEN 46,0,DET,
-21,3650,0,07:50,,0,4,0,DEN 35,0,DEN,KICKOFF
-21,3670,1,07:50,,10,4,7,DET 20,0,DET,
-21,3715,3,06:54,,1,4,10,DET 29,0,DET,
-21,3783,2,05:36,,15,4,34,DET 25,0,DET,
-21,3852,3,03:44,,12,4,32,DEN 48,0,DET,INT
-21,3761,1,05:40,,15,4,5,DET 25,0,DET,
-21,3738,1,06:02,,10,4,5,DET 30,0,DET,PENALTY
-21,3807,1,05:00,,10,4,34,DEN 46,0,DET,
-23,4205,1,01:19,,10,4,54,DEN 36,0,DET,
-23,4073,0,02:28,,0,4,0,DEN 35,0,DEN,KICKOFF
-23,4292,1,00:54,,10,4,60,DEN 25,0,DET,
-23,4369,1,00:45,,10,4,60,DEN 20,0,DET,
-23,4420,3,00:38,,5,4,65,DEN 15,0,DET,
-23,4092,1,02:28,,10,4,1,DET 20,0,DET,
-23,4442,4,00:34,,5,4,65,DEN 15,0,DET,
-23,4391,2,00:43,,10,4,65,DEN 20,0,DET,
-23,4316,2,00:50,,5,4,65,DEN 20,0,DET,PENALTY
-23,4116,2,02:10,,9,4,23,DET 21,0,DET,
-23,4227,2,01:15,,10,4,65,DEN 36,0,DET,
-23,4140,0,02:00,,0,4,23,,0,,
-23,4157,1,02:00,,10,4,54,DET 43,0,DET,
-23,4181,2,01:39,,1,4,54,DEN 48,0,DET,
-23,4251,3,01:00,,3,4,65,DEN 29,0,DET,
-23,4339,2,00:50,,10,4,65,DEN 25,0,DET,PENALTY
-11,2141,1,00:05,,10,2,-1,DET 20,0,DET,
-11,2122,0,00:05,,0,2,0,DEN 20,0,DEN,KICKOFF
-11,2162,0,,,0,2,-1,,0,,
-14,2652,1,09:11,,20,3,24,DEN 42,0,DEN,
-14,2719,4,07:48,,13,3,29,DEN 49,0,DEN,PUNT
-14,2538,1,10:51,,10,3,15,DEN 20,0,DEN,
-14,2584,2,10:08,,10,3,32,DEN 35,0,DEN,
-14,2673,2,08:35,,18,3,29,DEN 44,0,DEN,
-14,2562,1,10:12,,10,3,15,DEN 35,0,DEN,
-14,2614,1,09:32,,10,3,22,DET 48,0,DEN,PENALTY
-14,2697,3,07:53,,13,3,29,DEN 49,0,DEN,
-14,2519,0,10:51,,0,3,0,DET 35,0,DET,KICKOFF
-8,1497,2,04:58,,1,2,80,DET 1,1,DEN,TD
-8,1404,3,07:16,,4,2,80,DET 43,0,DEN,
-8,1428,1,06:37,,10,2,52,DET 30,0,DEN,
-8,1357,1,08:05,,10,2,31,DET 49,0,DEN,
-8,1285,3,09:58,,7,2,15,DEN 23,0,DEN,
-8,1261,2,10:39,,13,2,3,DEN 17,0,DEN,
-8,1383,2,08:00,,10,2,37,DET 49,0,DEN,
-8,1240,1,11:19,,10,2,-3,DEN 20,0,DEN,
-8,1449,2,06:02,,8,2,78,DET 28,0,DEN,
-8,1333,2,08:35,,7,2,80,DEN 38,0,DEN,
-8,1473,1,05:19,,2,2,80,DET 2,0,DEN,
-8,1526,0,04:54,,0,2,80,DET 15,1,DEN,XP
-8,1309,1,09:16,,10,2,18,DEN 35,0,DEN,
-19,3432,1,11:34,,10,4,6,DET 45,0,DET,
-19,3456,2,11:00,,4,4,11,DEN 49,0,DET,
-19,3480,1,10:21,,10,4,4,DEN 44,0,DET,FUMBLE
-22,3940,0,02:43,,0,4,36,,0,,TIMEOUT
-22,3916,2,03:31,,8,4,36,DET 49,0,DEN,
-22,4057,0,02:28,,0,4,51,DET 15,1,DEN,XP
-22,3995,2,02:37,,8,4,40,DET 13,0,DEN,
-22,4016,0,02:32,,0,4,51,,0,,TIMEOUT
-22,3899,0,03:31,,0,4,2,,0,,TIMEOUT
-22,4033,3,02:32,,6,4,51,DET 11,1,DEN,TD
-22,3878,1,03:37,,10,4,2,DEN 49,0,DEN,
-22,3957,1,02:43,,10,4,38,DET 15,0,DEN,
-22,3978,0,02:37,,0,4,38,,0,,TIMEOUT
-12,2275,2,13:48,,6,3,17,DEN 36,0,DEN,
-12,2221,2,14:33,,3,3,12,DEN 27,0,DEN,PENALTY
-12,2197,1,15:00,,10,3,7,DEN 20,0,DEN,
-12,2254,1,14:25,,10,3,16,DEN 32,0,DEN,
-12,2178,0,15:00,,0,3,0,DET 35,0,DET,KICKOFF
-12,2299,3,13:07,,5,3,9,DEN 37,0,DEN,FUMBLE
-16,2957,1,02:44,,10,3,3,DEN 22,0,DEN,
-16,3062,3,01:55,,21,3,20,DEN 11,0,DEN,
-16,2911,1,03:59,,10,3,20,DEN 8,0,DEN,
-16,2936,2,03:18,,1,3,14,DEN 17,0,DEN,
-16,2988,2,02:01,,21,3,3,DEN 11,0,DEN,
-16,3086,4,01:12,,4,3,20,DEN 28,0,DEN,PUNT
-7,1197,3,11:33,,9,2,24,DET 34,0,DET,
-7,1152,1,12:58,,10,2,21,DET 33,0,DET,
-7,1128,2,13:32,,4,2,23,DET 27,0,DET,
-7,974,1,14:55,,10,2,5,DET 10,0,DET,
-7,1036,2,14:17,,5,2,11,DET 15,0,DET,
-7,1219,4,11:29,,9,2,24,DET 34,0,DET,PUNT
-7,1173,2,12:17,,12,2,24,DET 31,0,DET,
-7,1060,1,13:50,,10,2,17,DET 21,0,DET,
-3,271,1,11:46,,10,1,11,DET 12,0,DET,
-3,295,2,11:15,,3,1,20,DET 19,0,DET,
-3,364,2,09:36,,18,1,3,DET 15,0,DET,
-3,318,1,10:33,,10,1,20,DET 23,0,DET,
-3,341,2,09:56,,13,1,3,DET 20,0,DET,PENALTY
-3,386,3,09:30,,18,1,20,DET 15,0,DET,
-3,410,4,08:48,,1,1,20,DET 32,0,DET,PUNT
-17,3207,1,14:21,,10,4,11,DET 33,0,DET,
-17,3183,3,15:00,,6,4,11,DET 26,0,DET,
-17,3109,1,01:00,,10,3,0,DET 22,0,DET,
-17,3167,0,,,0,3,4,,0,,
-17,3251,3,14:09,,10,4,11,DET 33,0,DET,
-17,3143,2,00:36,,10,3,4,DET 22,0,DET,
-17,3273,4,14:04,,10,4,11,DET 33,0,DET,PUNT
-17,3229,2,14:14,,10,4,11,DET 33,0,DET,
-4,506,1,06:50,,10,1,36,DEN 35,0,DEN,PENALTY
-4,554,1,06:29,,10,1,32,DET 48,0,DEN,
-4,652,4,05:05,,4,1,36,DET 42,0,DEN,PUNT
-4,621,0,05:06,,0,1,36,,0,,TIMEOUT
-4,482,3,07:25,,13,1,13,DEN 19,0,DEN,
-4,578,2,05:54,,8,1,36,DET 46,0,DEN,
-4,461,2,08:09,,14,1,-3,DEN 18,0,DEN,
-4,433,1,08:39,,10,1,-4,DEN 22,0,DEN,
-4,599,3,05:10,,4,1,36,DET 42,0,DEN,
-2,179,1,12:41,,10,1,9,DEN 34,0,DEN,
-2,249,4,11:55,,1,1,9,DEN 43,0,DEN,PUNT
-2,225,3,12:16,,6,1,9,DEN 38,0,DEN,
-2,203,2,12:19,,6,1,9,DEN 38,0,DEN,
-15,2763,2,07:01,,9,3,34,DET 15,0,DET,
-15,2829,3,05:12,,1,3,33,DEN 43,0,DET,PENALTY
-15,2742,1,07:40,,10,3,1,DET 14,0,DET,
-15,2787,1,06:26,,10,3,43,DET 48,0,DET,
-15,2888,4,04:08,,17,3,27,DET 41,0,DET,PUNT
-15,2864,3,04:47,,11,3,27,DET 47,0,DET,
-15,2808,2,05:53,,1,3,43,DEN 43,0,DET,
+24,4485,0,00:00,END GAME,0,4,-1,,0,,
+24,4464,1,00:30,(:30) P.Manning kneels to DEN 14 for -1 yards.,10,4,-1,DEN 15,0,DEN,
+20,3509,1,10:12,(10:12) (Shotgun) P.Manning pass short middle to B.Fowler to DET 36 for 13 yards (Q.Diggs; T.Whitehead) [D.Tapp].,10,4,13,DET 49,0,DEN,
+20,3600,4,08:00,"(8:00) B.McManus 53 yard field goal is No Good, Wide Right, Center-A.Brewer, Holder-B.Colquitt. PENALTY on DET-D.Slay, Illegal Formation, 5 yards, enforced at DET 35 - No Play.",9,4,19,DET 35,0,DEN,PENALTY
+20,3578,3,08:06,(8:06) (Shotgun) P.Manning pass incomplete short right to D.Thomas (J.Ihedigbo).,9,4,14,DET 35,0,DEN,
+20,3631,4,07:55,"(7:55) B.McManus 48 yard field goal is GOOD, Center-A.Brewer, Holder-B.Colquitt.",4,4,19,DET 30,1,DEN,FG
+20,3533,1,09:31,(9:31) (Shotgun) C.Anderson left tackle to DET 34 for 2 yards (J.Bynes).,10,4,15,DET 36,0,DEN,
+20,3554,2,08:50,(8:50) (Shotgun) P.Manning pass short left to D.Thomas to DET 35 for -1 yards (R.Mathis).,8,4,14,DET 34,0,DEN,
+21,3715,3,06:54,(6:54) C.Lucas reported in as eligible.  J.Bell left tackle to DET 30 for 1 yard (B.Marshall).,1,4,10,DET 29,0,DET,
+21,3761,1,05:40,(5:40) (Shotgun) M.Stafford pass incomplete short middle to A.Abdullah.,15,4,5,DET 25,0,DET,
+21,3783,2,05:36,(5:36) (Shotgun) M.Stafford pass deep middle to E.Ebron to DEN 46 for 29 yards (T.Ward; D.Stewart).,15,4,34,DET 25,0,DET,
+21,3807,1,05:00,(5:00) J.Bell right tackle to DEN 46 for no gain (L.McCray).,10,4,34,DEN 46,0,DET,
+21,3694,2,07:18,(7:18) A.Abdullah left tackle to DET 29 for 2 yards (D.Stewart).,3,4,9,DET 27,0,DET,
+21,3828,2,04:25,(4:25) M.Stafford pass short middle to J.Bell to DEN 48 for -2 yards (B.Marshall).,10,4,32,DEN 46,0,DET,
+21,3852,3,03:44,(3:44) (Shotgun) M.Stafford pass short left intended for C.Johnson INTERCEPTED by D.Bruton at DEN 37. D.Bruton to DEN 49 for 12 yards (A.Abdullah).,12,4,32,DEN 48,0,DET,INT
+21,3738,1,06:02,"(6:02) (Shotgun) PENALTY on DET-L.Waddle, False Start, 5 yards, enforced at DET 30 - No Play.",10,4,5,DET 30,0,DET,PENALTY
+21,3670,1,07:50,(7:50) (Shotgun) M.Stafford pass short left to T.Riddick to DET 27 for 7 yards (B.Marshall).,10,4,7,DET 20,0,DET,
+21,3650,0,07:50,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback.",0,4,0,DEN 35,0,DEN,KICKOFF
+22,3878,1,03:37,(3:37) (Shotgun) C.Anderson left end to DET 49 for 2 yards (R.Mathis).,10,4,2,DEN 49,0,DEN,
+22,3916,2,03:31,(3:31) (Shotgun) P.Manning pass deep right to E.Sanders to DET 15 for 34 yards (D.Slay) [H.Ngata].,8,4,36,DET 49,0,DEN,
+22,3940,0,02:43,Timeout #2 by DEN at 02:43.,0,4,36,,0,,TIMEOUT
+22,3957,1,02:43,(2:43) (Shotgun) C.Anderson left tackle to DET 13 for 2 yards (J.Ihedigbo).,10,4,38,DET 15,0,DEN,
+22,4016,0,02:32,Timeout #3 by DET at 02:32.,0,4,51,,0,,TIMEOUT
+22,4033,3,02:32,"(2:32) (Shotgun) P.Manning pass short right to O.Daniels for 11 yards, TOUCHDOWN.",6,4,51,DET 11,1,DEN,TD
+22,3899,0,03:31,Timeout #1 by DET at 03:31.,0,4,2,,0,,TIMEOUT
+22,4057,0,02:28,"B.McManus extra point is GOOD, Center-A.Brewer, Holder-B.Colquitt.",0,4,51,DET 15,1,DEN,XP
+22,3978,0,02:37,Timeout #2 by DET at 02:37.,0,4,38,,0,,TIMEOUT
+22,3995,2,02:37,(2:37) C.Anderson left end to DET 11 for 2 yards (J.Bynes; K.Van Noy).,8,4,40,DET 13,0,DEN,
+23,4092,1,02:28,(2:28) (Shotgun) M.Stafford pass short left to T.Riddick to DET 21 for 1 yard (B.Marshall).,10,4,1,DET 20,0,DET,
+23,4157,1,02:00,(2:00) (Shotgun) M.Stafford pass short left to T.Riddick to DEN 48 for 9 yards (D.Bruton; D.Ware) [A.Smith].,10,4,54,DET 43,0,DET,
+23,4316,2,00:50,"(:50) (Shotgun) PENALTY on DET-L.Waddle, False Start, 5 yards, enforced at DEN 20 - No Play.",5,4,65,DEN 20,0,DET,PENALTY
+23,4339,2,00:50,"(:50) (Shotgun) M.Stafford sacked at DEN 30 for -5 yards (V.Miller). PENALTY on DEN-D.Bruton, Illegal Contact, 5 yards, enforced at DEN 25 - No Play.",10,4,65,DEN 25,0,DET,PENALTY
+23,4181,2,01:39,(1:39) (Shotgun) M.Stafford pass short right to G.Tate to DEN 36 for 12 yards (D.Trevathan).,1,4,54,DEN 48,0,DET,
+23,4391,2,00:43,(:43) (Shotgun) M.Stafford pass short left to T.Riddick pushed ob at DEN 15 for 5 yards (B.Marshall).,10,4,65,DEN 20,0,DET,
+23,4420,3,00:38,(:38) (Shotgun) M.Stafford pass incomplete short left to T.Riddick (A.Smith).,5,4,65,DEN 15,0,DET,
+23,4369,1,00:45,(:45) (Shotgun) M.Stafford pass incomplete short left to C.Johnson.,10,4,60,DEN 20,0,DET,
+23,4140,0,02:00,Two-Minute Warning,0,4,23,,0,,
+23,4073,0,02:28,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback.",0,4,0,DEN 35,0,DEN,KICKOFF
+23,4292,1,00:54,(:54) (Shotgun) M.Stafford pass short right to L.Moore pushed ob at DEN 20 for 5 yards (B.Roby).,10,4,60,DEN 25,0,DET,
+23,4116,2,02:10,"(2:10) (No Huddle, Shotgun) M.Stafford pass short middle to E.Ebron to DET 43 for 22 yards (D.Bruton).",9,4,23,DET 21,0,DET,
+23,4251,3,01:00,"(1:00) (No Huddle, Shotgun) M.Stafford pass short left to T.Riddick ran ob at DEN 27 for 2 yards. The Replay Official reviewed the first down ruling, and the play was REVERSED. (No Huddle, Shotgun) M.Stafford pass short left to T.Riddick ran ob at DEN 25 for 4 yards.",3,4,65,DEN 29,0,DET,
+23,4442,4,00:34,(:34) (Shotgun) M.Stafford pass incomplete short right to G.Tate.,5,4,65,DEN 15,0,DET,
+23,4227,2,01:15,(1:15) M.Stafford pass short left to T.Riddick to DEN 29 for 7 yards (B.Marshall; T.Ward).,10,4,65,DEN 36,0,DET,
+23,4205,1,01:19,"(1:19) (No Huddle, Shotgun) M.Stafford pass incomplete short middle to T.Riddick.",10,4,54,DEN 36,0,DET,
+1,154,4,12:54,"(12:54) S.Martin punts 55 yards to DEN 26, Center-D.Muhlbach. E.Sanders to DEN 34 for 8 yards (T.Riddick).",11,1,-1,DET 19,0,DET,PUNT
+1,46,0,15:00,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback.",0,1,0,DEN 35,0,DEN,KICKOFF
+1,88,2,14:28,"(14:28) (Shotgun) PENALTY on DEN-V.Miller, Defensive Offside, 5 yards, enforced at DET 19 - No Play.",11,1,4,DET 19,0,DET,PENALTY
+1,130,3,13:28,(13:28) (Shotgun) M.Stafford pass short middle to G.Tate to DET 19 for 3 yards (M.Jackson; D.Trevathan).,14,1,-1,DET 16,0,DET,
+1,111,2,14:06,(14:06) (Shotgun) M.Stafford sacked at DET 16 for -8 yards (D.Ware).,6,1,-1,DET 24,0,DET,
+1,64,1,15:00,(15:00) J.Bell left tackle to DET 19 for -1 yards (T.Ward).,10,1,-1,DET 20,0,DET,
+3,318,1,10:33,(10:33) (Shotgun) M.Stafford sacked at DET 20 for -3 yards (sack split by D.Ware and M.Jackson).,10,1,20,DET 23,0,DET,
+3,271,1,11:46,(11:46) (Shotgun) M.Stafford pass short left to C.Johnson to DET 19 for 7 yards (D.Stewart).,10,1,11,DET 12,0,DET,
+3,410,4,08:48,"(8:48) S.Martin punts 46 yards to DEN 22, Center-D.Muhlbach, fair catch by E.Sanders.",1,1,20,DET 32,0,DET,PUNT
+3,341,2,09:56,"(9:56) (Shotgun) PENALTY on DET-C.Lucas, False Start, 5 yards, enforced at DET 20 - No Play.",13,1,3,DET 20,0,DET,PENALTY
+3,386,3,09:30,(9:30) (Shotgun) M.Stafford pass short left to T.Riddick to DET 32 for 17 yards (T.Ward).,18,1,20,DET 15,0,DET,
+3,364,2,09:36,(9:36) (Shotgun) M.Stafford pass incomplete short right to A.Abdullah [D.Ware].,18,1,3,DET 15,0,DET,
+3,295,2,11:15,(11:15) L.Tomlinson reported in as eligible.  A.Abdullah right tackle to DET 23 for 4 yards (B.Marshall).,3,1,20,DET 19,0,DET,
+2,203,2,12:19,"(12:19) (No Huddle, Shotgun) P.Manning pass incomplete short left to D.Thomas (R.Mathis).",6,1,9,DEN 38,0,DEN,
+2,249,4,11:55,"(11:55) B.Colquitt punts 45 yards to DET 12, Center-A.Brewer, out of bounds.",1,1,9,DEN 43,0,DEN,PUNT
+2,225,3,12:16,(12:16) (Shotgun) P.Manning pass short right to J.Norwood to DEN 43 for 5 yards (D.Taylor).,6,1,9,DEN 38,0,DEN,
+2,179,1,12:41,(12:41) (Shotgun) P.Manning pass short middle to D.Thomas to DEN 38 for 4 yards (S.Tulloch).,10,1,9,DEN 34,0,DEN,
+5,752,1,03:33,(3:33) (Shotgun) M.Stafford pass short right to L.Moore pushed ob at DET 40 for 5 yards (C.Harris).,10,1,29,DET 35,0,DET,
+5,781,2,03:03,(3:03) A.Abdullah left tackle to DET 40 for no gain (T.Ward; V.Walker).,5,1,29,DET 40,0,DET,
+5,719,3,03:39,"(3:39) (Shotgun) M.Stafford pass incomplete deep left to G.Tate. PENALTY on DEN-C.Harris, Defensive Pass Interference, 23 yards, enforced at DET 12 - No Play.",9,1,24,DET 12,0,DET,PENALTY
+5,675,1,04:56,(4:56) L.Tomlinson reported in as eligible.  J.Bell up the middle to DET 11 for no gain (M.Jackson).,10,1,0,DET 11,0,DET,
+5,698,2,04:20,(4:20) J.Bell right tackle to DET 12 for 1 yard (T.Ward).,10,1,1,DET 11,0,DET,
+5,802,3,02:24,(2:24) (Shotgun) M.Stafford pass short right intended for G.Tate INTERCEPTED by B.Roby at DEN 45. B.Roby to DET 36 for 19 yards (T.Swanson; E.Ebron).,5,1,29,DET 40,0,DET,INT
+4,621,0,05:06,Timeout #1 by DET at 05:06.,0,1,36,,0,,TIMEOUT
+4,578,2,05:54,(5:54) (Shotgun) J.Thompson right tackle to DET 42 for 4 yards (S.Tulloch).,8,1,36,DET 46,0,DEN,
+4,599,3,05:10,(5:10) (Shotgun) P.Manning pass incomplete short right to E.Sanders.,4,1,36,DET 42,0,DEN,
+4,554,1,06:29,(6:29) (Shotgun) P.Manning pass short left to A.Caldwell to DET 46 for 2 yards (R.Mathis; I.Abdul-Quddus).,10,1,32,DET 48,0,DEN,
+4,461,2,08:09,"(8:09) (No Huddle, Shotgun) C.Anderson up the middle to DEN 19 for 1 yard (J.Wilson).",14,1,-3,DEN 18,0,DEN,
+4,482,3,07:25,(7:25) (Shotgun) P.Manning pass deep middle to E.Sanders to DEN 35 for 16 yards (D.Slay) [D.Taylor].,13,1,13,DEN 19,0,DEN,
+4,652,4,05:05,"(5:05) B.Colquitt punts 31 yards to DET 11, Center-A.Brewer, downed by DEN-A.Brewer.",4,1,36,DET 42,0,DEN,PUNT
+4,506,1,06:50,"(6:50) (Shotgun) R.Hillman left end ran ob at DEN 37 for 2 yards. PENALTY on DET-J.Ihedigbo, Unnecessary Roughness, 15 yards, enforced at DEN 37.",10,1,36,DEN 35,0,DEN,PENALTY
+4,433,1,08:39,(8:39) (Shotgun) P.Manning pass short left to O.Daniels to DEN 18 for -4 yards (R.Mathis).,10,1,-4,DEN 22,0,DEN,
+7,1128,2,13:32,(13:32) M.Stafford pass short right to C.Johnson to DET 33 for 6 yards (A.Talib).,4,2,23,DET 27,0,DET,
+7,974,1,14:55,(14:55) A.Abdullah up the middle to DET 15 for 5 yards (L.McCray; T.Ward).,10,2,5,DET 10,0,DET,
+7,1173,2,12:17,(12:17) (Shotgun) M.Stafford pass short left to A.Abdullah to DET 34 for 3 yards (S.Ray).,12,2,24,DET 31,0,DET,
+7,1060,1,13:50,"(13:50) (Shotgun) A.Abdullah left tackle to DET 27 for 6 yards (D.Stewart). FUMBLES (D.Stewart), RECOVERED by DEN-D.Stewart at DET 26. The Replay Official reviewed the fumble ruling, and the play was REVERSED. (Shotgun) A.Abdullah left tackle to DET 27 for 6 yards (D.Stewart).",10,2,17,DET 21,0,DET,
+7,1219,4,11:29,"(11:29) S.Martin punts 66 yards to end zone, Center-D.Muhlbach, Touchback.",9,2,24,DET 34,0,DET,PUNT
+7,1197,3,11:33,(11:33) (Shotgun) M.Stafford pass incomplete short left to A.Abdullah.,9,2,24,DET 34,0,DET,
+7,1152,1,12:58,(12:58) A.Abdullah right end to DET 31 for -2 yards (B.Marshall; D.Trevathan).,10,2,21,DET 33,0,DET,
+7,1036,2,14:17,(14:17) (Shotgun) M.Stafford pass short right to E.Ebron pushed ob at DET 21 for 6 yards (D.Stewart).,5,2,11,DET 15,0,DET,
+6,857,1,01:40,(1:40) (Shotgun) P.Manning pass short right to C.Anderson pushed ob at DET 17 for 9 yards (J.Bynes).,10,1,19,DET 26,0,DEN,
+6,907,1,00:28,(:28) (Shotgun) C.Anderson up the middle to DET 13 for no gain (D.Tapp). DEN-C.Anderson was injured during the play. His return is Probable.,10,1,23,DET 13,0,DEN,
+6,948,2,15:00,"(15:00) (Shotgun) P.Manning pass short middle intended for O.Daniels INTERCEPTED by G.Quin (H.Ngata) at DET 9. G.Quin to DET 10 for 1 yard (R.Harris). The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field was confirmed.",10,2,23,DET 13,0,DEN,INT
+6,928,0,,END QUARTER 1,0,1,23,,0,,
+6,828,1,02:14,(2:14) (Shotgun) P.Manning pass short middle to E.Sanders pushed ob at DET 26 for 10 yards (D.Slay).,10,1,19,DET 36,0,DEN,
+6,886,2,01:10,(1:10) (Shotgun) C.Anderson up the middle to DET 13 for 4 yards (E.Ansah; J.Ihedigbo).,1,1,23,DET 17,0,DEN,
+9,1644,2,03:17,(3:17) M.Stafford pass incomplete short left to C.Johnson [S.Williams].,7,2,52,DEN 28,0,DET,
+9,1620,1,03:54,(3:54) M.Stafford pass short right to G.Tate to DEN 28 for 3 yards (C.Harris).,10,2,52,DEN 31,0,DET,
+9,1542,0,04:54,"B.McManus kicks 50 yards from DEN 50 to end zone, Touchback.",0,2,0,DEN 50,0,DEN,KICKOFF
+9,1716,0,02:00,Two-Minute Warning,0,2,62,,0,,
+9,1812,1,01:07,"(1:07) J.Bell right tackle for 1 yard, TOUCHDOWN.",1,2,80,DEN 1,1,DET,TD
+9,1733,2,02:00,(2:00) (Shotgun) M.Stafford pass short middle to T.Riddick to DEN 2 for 16 yards (B.Marshall).,11,2,78,DEN 18,0,DET,
+9,1779,2,01:11,"(1:11) (Shotgun) M.Stafford pass incomplete short right to C.Johnson (A.Talib). PENALTY on DEN-A.Talib, Defensive Pass Interference, 1 yard, enforced at DEN 2 - No Play.",2,2,79,DEN 2,0,DET,PENALTY
+9,1585,1,04:12,"(4:12) M.Stafford pass short right to C.Johnson to DEN 46 for 9 yards (A.Talib) [V.Miller]. PENALTY on DEN-V.Miller, Roughing the Passer, 15 yards, enforced at DEN 46.",10,2,52,DET 45,0,DET,PENALTY
+9,1695,1,02:45,(2:45) A.Abdullah left tackle to DEN 18 for -1 yards (S.Williams).,10,2,62,DEN 17,0,DET,
+9,1666,3,03:12,(3:12) (Shotgun) M.Stafford pass short right to C.Johnson ran ob at DEN 17 for 11 yards.,7,2,63,DEN 28,0,DET,
+9,1757,1,01:16,(1:16) M.Stafford pass incomplete short right to C.Johnson [B.Marshall].,2,2,78,DEN 2,0,DET,
+9,1561,1,04:54,(4:54) (Shotgun) M.Stafford pass deep left to C.Johnson to DET 45 for 25 yards (D.Stewart).,10,2,25,DET 20,0,DET,
+9,1829,0,01:03,"M.Prater extra point is Blocked (A.Talib), Center-D.Muhlbach, Holder-S.Martin. DEFENSIVE TWO-POINT ATTEMPT. C.Harris recovered the blocked kick. ATTEMPT FAILS.",0,2,80,DEN 15,0,DET,XPB
+8,1285,3,09:58,(9:58) (Shotgun) P.Manning pass short right to D.Thomas to DEN 35 for 12 yards (J.Wilson).,7,2,15,DEN 23,0,DEN,
+8,1473,1,05:19,(5:19) J.Thompson right tackle to DET 1 for 1 yard (T.Lewis). DEN-J.Thompson was injured during the play. He is Out.,2,2,80,DET 2,0,DEN,
+8,1428,1,06:37,(6:37) (Shotgun) R.Hillman up the middle to DET 28 for 2 yards (J.Ihedigbo).,10,2,52,DET 30,0,DEN,
+8,1261,2,10:39,(10:39) (Shotgun) P.Manning pass short middle to E.Sanders to DEN 23 for 6 yards (S.Tulloch).,13,2,3,DEN 17,0,DEN,
+8,1357,1,08:05,(8:05) (Shotgun) P.Manning pass incomplete short middle to O.Daniels.,10,2,31,DET 49,0,DEN,
+8,1309,1,09:16,(9:16) (Shotgun) P.Manning pass short right to O.Daniels to DEN 38 for 3 yards (S.Tulloch).,10,2,18,DEN 35,0,DEN,
+8,1333,2,08:35,(8:35) (Shotgun) P.Manning pass short left to B.Fowler to DET 49 for 13 yards (S.Tulloch). DET-J.Wilson was injured during the play. His return is Questionable.,7,2,80,DEN 38,0,DEN,
+8,1240,1,11:19,(11:19) (Shotgun) R.Hillman left end to DEN 17 for -3 yards (T.Walker).,10,2,-3,DEN 20,0,DEN,
+8,1526,0,04:54,"B.McManus extra point is GOOD, Center-A.Brewer, Holder-B.Colquitt.",0,2,80,DET 15,1,DEN,XP
+8,1497,2,04:58,"(4:58) R.Hillman right tackle for 1 yard, TOUCHDOWN. PENALTY on DET-E.Ansah, Unnecessary Roughness, 15 yards, enforced between downs.",1,2,80,DET 1,1,DEN,TD
+8,1404,3,07:16,(7:16) (Shotgun) P.Manning pass short middle to B.Fowler to DET 30 for 13 yards (D.Slay; I.Abdul-Quddus).,4,2,80,DET 43,0,DEN,
+8,1449,2,06:02,(6:02) (Shotgun) P.Manning pass short right to V.Green to DET 2 for 26 yards (S.Tulloch).,8,2,78,DET 28,0,DEN,
+8,1383,2,08:00,(8:00) (Shotgun) J.Thompson up the middle to DET 43 for 6 yards (S.Tulloch).,10,2,37,DET 49,0,DEN,
+11,2122,0,00:05,"B.McManus kicks 80 yards from DEN 20 to end zone, Touchback.",0,2,0,DEN 20,0,DEN,KICKOFF
+11,2141,1,00:05,(:05) M.Stafford kneels to DET 19 for -1 yards.,10,2,-1,DET 20,0,DET,
+11,2162,0,,END QUARTER 2,0,2,-1,,0,,
+10,2042,0,00:13,Timeout #2 by DET at 00:13.,0,2,35,,0,,TIMEOUT
+10,1981,0,00:21,Timeout #2 by DEN at 00:21.,0,2,35,,0,,TIMEOUT
+10,2059,4,00:13,"(:13) (Shotgun) P.Manning pass deep right to D.Thomas for 45 yards, TOUCHDOWN. PENALTY on DEN-D.Thomas, Unsportsmanlike Conduct, 15 yards, enforced between downs.",1,2,80,DET 45,1,DEN,TD
+10,1998,2,00:21,(:21) (Shotgun) P.Manning pass incomplete short right to O.Daniels.,1,2,35,DET 45,0,DEN,
+10,1845,0,01:03,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,2,0,DET 35,0,DET,KICKOFF
+10,1933,1,00:48,(:48) (Shotgun) P.Manning pass short middle to D.Thomas to DEN 46 for 15 yards (J.Wilson; G.Quin).,10,2,26,DEN 31,0,DEN,
+10,2094,0,00:05,"B.McManus extra point is GOOD, Center-A.Brewer, Holder-B.Colquitt.",0,2,80,DET 15,1,DEN,XP
+10,1957,1,00:27,"(:27) (No Huddle, Shotgun) P.Manning pass short left to O.Daniels to DET 45 for 9 yards (J.Ihedigbo) [E.Ansah].",10,2,35,DEN 46,0,DEN,
+10,2020,3,00:18,"(:18) (Shotgun) P.Manning pass incomplete short left to E.Sanders (I.Abdul-Quddus, R.Mathis). DET-R.Mathis was injured during the play. His return is Probable.",1,2,35,DET 45,0,DEN,
+10,1870,1,01:03,(1:03) (Shotgun) P.Manning pass incomplete short right to D.Thomas [E.Ansah].,10,2,0,DEN 20,0,DEN,
+10,1892,2,00:59,(:59) (Shotgun) P.Manning pass short left to B.Fowler to DEN 31 for 11 yards (J.Wilson).,10,2,11,DEN 20,0,DEN,
+10,1916,0,00:48,Timeout #1 by DEN at 00:48.,0,2,11,,0,,TIMEOUT
+13,2448,1,11:27,"(11:27) A.Abdullah right tackle to DEN 2 for 4 yards (T.Ward). PENALTY on DET-L.Tomlinson, Offensive Holding, 10 yards, enforced at DEN 6 - No Play.",6,3,13,DEN 6,0,DET,PENALTY
+13,2424,2,12:05,(12:05) (Shotgun) M.Stafford pass short left to C.Johnson to DEN 6 for 7 yards (A.Talib).,7,3,23,DEN 13,0,DET,
+13,2480,1,10:57,"(10:57) (Shotgun) M.Stafford pass short middle to A.Abdullah for 16 yards, TOUCHDOWN.",16,3,29,DEN 16,1,DET,TD
+13,2403,1,12:48,(12:48) J.Bell up the middle to DEN 13 for 3 yards (T.Ward; D.Trevathan).,10,3,16,DEN 16,0,DET,
+13,2368,1,13:00,"(13:00) M.Stafford sacked at DEN 31 for -2 yards (S.Williams). PENALTY on DEN-S.Williams, Unnecessary Roughness, 15 yards, enforced at DEN 31.",10,3,16,DEN 29,0,DET,PENALTY
+13,2500,0,10:51,(Pass formation) TWO-POINT CONVERSION ATTEMPT. J.Bell rushes up the middle. ATTEMPT FAILS.,0,3,29,DEN 2,0,DET,2PRF
+12,2275,2,13:48,(13:48) (Shotgun) P.Manning pass short left to D.Thomas to DEN 37 for 1 yard (E.Ansah).,6,3,17,DEN 36,0,DEN,
+12,2299,3,13:07,"(13:07) (Shotgun) P.Manning pass short middle to D.Thomas to DEN 41 for 4 yards (R.Mathis) [H.Ngata]. Detroit challenged the runner was down by contact ruling, and the play was REVERSED. (Shotgun) P.Manning pass short middle to D.Thomas to DEN 41 for 4 yards (R.Mathis) [H.Ngata]. FUMBLES (R.Mathis), RECOVERED by DET-Q.Diggs at DEN 29. Q.Diggs, dead ball declared at DEN 29 for no gain.",5,3,9,DEN 37,0,DEN,FUMBLE
+12,2221,2,14:33,"(14:33) (Shotgun) P.Manning pass incomplete short right to D.Thomas. PENALTY on DET-T.Lewis, Defensive Holding, 5 yards, enforced at DEN 27 - No Play.",3,3,12,DEN 27,0,DEN,PENALTY
+12,2197,1,15:00,(15:00) (Shotgun) P.Manning pass short left to D.Thomas to DEN 27 for 7 yards (J.Bynes; S.Tulloch).,10,3,7,DEN 20,0,DEN,
+12,2178,0,15:00,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,3,0,DET 35,0,DET,KICKOFF
+12,2254,1,14:25,(14:25) (Shotgun) R.Hillman right tackle to DEN 36 for 4 yards (J.Ihedigbo).,10,3,16,DEN 32,0,DEN,
+15,2787,1,06:26,(6:26) A.Abdullah right end pushed ob at DEN 43 for 9 yards (T.Ward).,10,3,43,DET 48,0,DET,
+15,2864,3,04:47,"(4:47) (Shotgun) M.Stafford pass short middle to M.Stafford to DET 41 for -6 yards (D.Ware). Ball batted at the line by Den #90-A. Smith, then caught by Stafford.",11,3,27,DET 47,0,DET,
+15,2763,2,07:01,(7:01) (Shotgun) M.Stafford pass short right to G.Tate pushed ob at DET 48 for 33 yards (D.Stewart).,9,3,34,DET 15,0,DET,
+15,2888,4,04:08,"(4:08) S.Martin punts 51 yards to DEN 8, Center-D.Muhlbach, downed by DET-N.Lawson.",17,3,27,DET 41,0,DET,PUNT
+15,2808,2,05:53,(5:53) J.Bell right tackle to DEN 43 for no gain (B.Marshall).,1,3,43,DEN 43,0,DET,
+15,2742,1,07:40,(7:40) J.Bell left tackle to DET 15 for 1 yard (B.Marshall).,10,3,1,DET 14,0,DET,
+15,2829,3,05:12,"(5:12) (Shotgun) M.Stafford pass short middle to G.Tate to DEN 34 for 9 yards (C.Harris). PENALTY on DET-E.Ebron, Offensive Pass Interference, 10 yards, enforced at DEN 43 - No Play.",1,3,33,DEN 43,0,DET,PENALTY
+14,2719,4,07:48,"(7:48) B.Colquitt punts 37 yards to DET 14, Center-A.Brewer, fair catch by T.Jones.",13,3,29,DEN 49,0,DEN,PUNT
+14,2584,2,10:08,(10:08) (Shotgun) P.Manning pass short left to D.Thomas to DET 48 for 17 yards (J.Ihedigbo; T.Whitehead).,10,3,32,DEN 35,0,DEN,
+14,2652,1,09:11,(9:11) (Shotgun) R.Hillman up the middle to DEN 44 for 2 yards (G.Wright; J.Bynes).,20,3,24,DEN 42,0,DEN,
+14,2562,1,10:12,(10:12) (Shotgun) P.Manning pass incomplete short middle to D.Thomas.,10,3,15,DEN 35,0,DEN,
+14,2673,2,08:35,"(8:35) (No Huddle, Shotgun) P.Manning pass short left to J.Norwood to DEN 49 for 5 yards (R.Mathis).",18,3,29,DEN 44,0,DEN,
+14,2538,1,10:51,(10:51) (Shotgun) P.Manning pass short left to E.Sanders to DEN 35 for 15 yards (D.Slay).,10,3,15,DEN 20,0,DEN,
+14,2614,1,09:32,"(9:32) (Shotgun) C.Anderson right tackle to DET 44 for 4 yards (D.Taylor). PENALTY on DEN-T.Sambrailo, Offensive Holding, 10 yards, enforced at DET 48 - No Play.",10,3,22,DET 48,0,DEN,PENALTY
+14,2519,0,10:51,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,3,0,DET 35,0,DET,KICKOFF
+14,2697,3,07:53,(7:53) (Shotgun) P.Manning pass incomplete short middle to O.Daniels (J.Bynes).,13,3,29,DEN 49,0,DEN,
+17,3207,1,14:21,(14:21) (Shotgun) M.Stafford pass incomplete deep right to E.Ebron (T.Ward).,10,4,11,DET 33,0,DET,
+17,3229,2,14:14,(14:14) (Shotgun) M.Stafford pass incomplete deep left to L.Moore.,10,4,11,DET 33,0,DET,
+17,3109,1,01:00,"(1:00) C.Lucas reported in as eligible.  J.Bell right end to DET 22 for no gain (B.Marshall). Penalty on DET-E.Ebron, Illegal Formation, declined.",10,3,0,DET 22,0,DET,
+17,3251,3,14:09,(14:09) (Shotgun) M.Stafford pass incomplete short left to C.Johnson (A.Talib).,10,4,11,DET 33,0,DET,
+17,3143,2,00:36,(:36) M.Stafford pass short middle to E.Ebron to DET 26 for 4 yards (B.Roby).,10,3,4,DET 22,0,DET,
+17,3273,4,14:04,"(14:04) S.Martin punts 48 yards to DEN 19, Center-D.Muhlbach. E.Sanders to DEN 24 for 5 yards (T.Lewis).",10,4,11,DET 33,0,DET,PUNT
+17,3183,3,15:00,(15:00) (Shotgun) M.Stafford pass short left to C.Johnson to DET 33 for 7 yards (A.Talib).,6,4,11,DET 26,0,DET,
+17,3167,0,,END QUARTER 3,0,3,4,,0,,
+16,2911,1,03:59,(3:59) (Shotgun) P.Manning pass short right to O.Daniels to DEN 17 for 9 yards (S.Tulloch; J.Ihedigbo).,10,3,20,DEN 8,0,DEN,
+16,3086,4,01:12,"(1:12) B.Colquitt punts 50 yards to DET 22, Center-A.Brewer, downed by DEN-T.Davis.",4,3,20,DEN 28,0,DEN,PUNT
+16,2936,2,03:18,(3:18) (Shotgun) C.Anderson up the middle to DEN 22 for 5 yards (S.Tulloch; C.Reid).,1,3,14,DEN 17,0,DEN,
+16,3062,3,01:55,(1:55) (Shotgun) P.Manning pass short left to J.Norwood to DEN 28 for 17 yards (E.Ansah) [J.Jones].,21,3,20,DEN 11,0,DEN,
+16,2988,2,02:01,"(2:01) (Shotgun) P.Manning pass deep right to E.Sanders ran ob at DEN 31 for 20 yards. Detroit challenged the pass completion ruling, and the play was REVERSED. (Shotgun) P.Manning pass incomplete deep right to E.Sanders.",21,3,3,DEN 11,0,DEN,
+16,2957,1,02:44,(2:44) (Shotgun) P.Manning sacked at DEN 11 for -11 yards (D.Taylor).,10,3,3,DEN 22,0,DEN,
+19,3480,1,10:21,"(10:21) (Shotgun) M.Stafford sacked at DET 49 for -7 yards (S.Barrett). FUMBLES (S.Barrett), RECOVERED by DEN-M.Jackson at DET 49. M.Jackson to DET 49 for no gain (R.Reiff).",10,4,4,DEN 44,0,DET,FUMBLE
+19,3432,1,11:34,(11:34) (Shotgun) M.Stafford pass short middle to G.Tate to DEN 49 for 6 yards (D.Stewart; S.Williams).,10,4,6,DET 45,0,DET,
+19,3456,2,11:00,(11:00) M.Stafford pass short left to C.Johnson to DEN 44 for 5 yards (A.Talib).,4,4,11,DEN 49,0,DET,
+18,3383,3,12:16,(12:16) (Shotgun) P.Manning pass short right to R.Hillman pushed ob at DEN 33 for 3 yards (J.Bynes).,4,4,9,DEN 30,0,DEN,
+18,3342,2,13:03,(13:03) (Shotgun) P.Manning pass short middle to E.Sanders to DEN 30 for 6 yards (S.Tulloch; J.Bynes).,10,4,6,DEN 24,0,DEN,
+18,3366,0,12:17,Timeout #1 by DEN at 12:17.,0,4,6,,0,,TIMEOUT
+18,3319,2,13:23,"(13:23) (Shotgun) PENALTY on DEN-M.Paradis, False Start, 5 yards, enforced at DEN 29 - No Play.",5,4,0,DEN 29,0,DEN,PENALTY
+18,3298,1,13:55,(13:55) (Shotgun) R.Hillman left end to DEN 29 for 5 yards (G.Quin).,10,4,5,DEN 24,0,DEN,
+18,3407,4,11:47,"(11:47) B.Colquitt punts 50 yards to DET 17, Center-A.Brewer. T.Jones to DET 45 for 28 yards (V.Green).",1,4,9,DEN 33,0,DEN,PUNT

@@ -1,209 +1,209 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1852,1,08:00,,10,2,18,HOU 38,0,HOU,
-9,1785,0,08:58,,0,2,0,CLE 35,0,CLE,KICKOFF
-9,1923,4,07:11,,21,2,1,HOU 27,0,HOU,PUNT
-9,1897,3,07:11,,1,2,1,HOU 47,0,HOU,FUMBLE
-9,1873,2,07:37,,4,2,21,HOU 44,0,HOU,
-9,1807,1,08:52,,10,2,4,HOU 26,0,HOU,
-9,1831,2,08:23,,6,2,12,HOU 30,0,HOU,
-24,4511,1,03:51,,10,4,39,CLE 36,0,HOU,
-24,4623,0,02:52,,0,4,40,,0,,TIMEOUT
-24,4553,0,03:06,,0,4,43,,0,,TIMEOUT
-24,4570,3,03:04,,3,4,40,CLE 29,0,HOU,PENALTY
-24,4532,2,03:12,,7,4,43,CLE 33,0,HOU,
-24,4640,4,02:52,,6,4,40,CLE 32,1,HOU,FG
-24,4479,1,04:01,,10,4,36,HOU 28,0,HOU,PENALTY
-24,4602,3,02:55,,8,4,40,CLE 34,0,HOU,
-10,2058,2,04:18,,3,2,52,HOU 23,0,CLE,
-10,2009,3,05:30,,11,2,43,HOU 44,0,CLE,
-10,2079,3,03:38,,1,2,54,HOU 21,0,CLE,
-10,1966,1,05:51,,10,2,29,HOU 43,0,CLE,
-10,1987,2,05:33,,11,2,29,HOU 44,0,CLE,
-10,1942,1,06:27,,10,2,30,CLE 27,0,CLE,
-10,2100,1,03:11,,10,2,51,HOU 19,0,CLE,FUMBLE
-10,2033,1,04:44,,10,2,50,HOU 30,0,CLE,
-20,3685,0,,,0,3,1,,0,,
-20,3804,3,13:19,,3,4,19,CLE 38,0,HOU,
-20,3936,1,11:31,,10,4,43,CLE 13,0,HOU,
-20,3826,0,13:14,,0,4,19,,0,,TIMEOUT
-20,3957,2,10:55,,11,4,34,CLE 14,0,HOU,
-20,3664,1,00:15,,10,3,1,HOU 43,0,HOU,
-20,3912,2,12:11,,12,4,44,CLE 30,0,HOU,
-20,3762,1,14:17,,10,4,18,CLE 45,0,HOU,
-20,3701,2,15:00,,9,4,9,HOU 44,0,HOU,
-20,4006,4,09:51,,16,4,38,CLE 19,1,HOU,FG
-20,3853,4,13:14,,3,4,29,CLE 38,0,HOU,
-20,3890,1,12:47,,10,4,27,CLE 28,0,HOU,
-20,3783,2,13:59,,4,4,19,CLE 39,0,HOU,
-20,3978,3,10:11,,20,4,38,CLE 23,0,HOU,
-20,3741,3,15:00,,1,4,12,CLE 48,0,HOU,
-6,1400,4,12:59,,15,2,43,HOU 37,0,CLE,PUNT
-6,1233,2,14:29,,8,2,33,HOU 47,0,CLE,
-6,1196,0,,,0,1,31,,0,,
-6,1277,4,14:18,,8,2,48,HOU 47,0,CLE,PENALTY
-6,1373,4,13:05,,15,2,43,HOU 37,0,CLE,
-6,1172,2,00:09,,2,1,31,CLE 28,0,CLE,
-6,1212,1,15:00,,10,2,33,HOU 49,0,CLE,
-6,1351,3,13:05,,15,2,43,HOU 37,0,CLE,
-6,1307,1,14:12,,10,2,50,HOU 32,0,CLE,
-6,1332,2,13:48,,8,2,43,HOU 30,0,CLE,
-6,1255,3,14:22,,8,2,33,HOU 47,0,CLE,
-6,1137,1,00:30,,10,1,8,CLE 20,0,CLE,
-18,3542,4,01:32,,8,3,2,HOU 28,0,HOU,PUNT
-18,3520,3,01:36,,8,3,2,HOU 28,0,HOU,
-18,3475,1,02:50,,10,3,6,HOU 26,0,HOU,
-18,3499,2,02:16,,4,3,2,HOU 32,0,HOU,
-26,4934,1,01:10,,10,4,-5,HOU 29,0,HOU,
-26,4955,2,00:33,,14,4,-5,HOU 25,0,HOU,
-26,4976,0,00:00,,0,4,-5,,0,,
-25,4770,1,01:56,,10,4,30,CLE 47,0,CLE,PENALTY
-25,4705,2,02:20,,3,4,14,CLE 29,0,CLE,
-25,4912,4,01:15,,10,4,49,HOU 29,0,CLE,
-25,4839,1,01:33,,10,4,49,HOU 29,0,CLE,
-25,4659,0,02:47,,0,4,0,HOU 35,0,HOU,KICKOFF
-25,4815,2,01:52,,5,4,49,HOU 48,0,CLE,
-25,4793,1,01:55,,5,4,30,HOU 48,0,CLE,
-25,4861,2,01:26,,10,4,49,HOU 29,0,CLE,
-25,4681,1,02:40,,10,4,7,CLE 22,0,CLE,
-25,4753,0,01:56,,0,4,25,,0,,
-25,4729,1,02:20,,10,4,25,CLE 36,0,CLE,
-25,4883,3,01:19,,10,4,49,HOU 29,0,CLE,
-1,64,1,15:00,,10,1,6,HOU 20,0,HOU,
-1,169,4,13:56,,1,1,9,HOU 29,0,HOU,PUNT
-1,109,3,14:27,,4,1,9,HOU 26,0,HOU,
-1,36,0,15:00,,0,1,0,CLE 35,0,CLE,KICKOFF
-1,85,2,14:32,,4,1,6,HOU 26,0,HOU,
-5,1041,2,01:58,,8,1,35,CLE 45,0,HOU,
-5,1020,1,02:24,,10,1,27,CLE 47,0,HOU,
-5,1087,2,00:54,,9,1,43,CLE 36,0,HOU,
-5,996,1,02:53,,10,1,25,HOU 41,0,HOU,
-5,949,2,03:35,,2,1,8,HOU 36,0,HOU,
-5,1066,1,01:29,,10,1,36,CLE 37,0,HOU,
-5,971,3,03:31,,2,1,13,HOU 36,0,HOU,
-5,1111,3,00:39,,2,1,43,CLE 29,0,HOU,INT
-5,910,1,03:46,,10,1,8,HOU 28,0,HOU,
-13,2629,4,13:57,,10,3,10,CLE 30,0,CLE,PUNT
-13,2538,2,14:36,,1,3,10,CLE 29,0,CLE,
-13,2502,0,15:00,,0,3,0,HOU 35,0,HOU,KICKOFF
-13,2559,1,14:13,,10,3,10,CLE 30,0,CLE,
-13,2517,1,15:00,,10,3,10,CLE 20,0,CLE,
-13,2581,2,14:10,,10,3,10,CLE 30,0,CLE,
-13,2603,3,14:03,,10,3,10,CLE 30,0,CLE,
-21,4025,0,09:47,,0,4,0,HOU 35,0,HOU,KICKOFF
-21,4153,1,07:51,,10,4,67,HOU 45,0,CLE,
-21,4080,2,09:00,,8,4,2,CLE 12,0,CLE,
-21,4177,1,07:29,,10,4,68,HOU 23,0,CLE,
-21,4242,4,06:54,,9,4,68,HOU 22,0,CLE,PENALTY
-21,4220,3,06:58,,9,4,68,HOU 22,0,CLE,
-21,4198,2,07:00,,9,4,68,HOU 22,0,CLE,
-21,4105,3,08:56,,8,4,10,CLE 12,0,CLE,
-21,4054,1,09:33,,10,4,2,CLE 10,0,CLE,
-21,4129,1,08:21,,10,4,45,CLE 20,0,CLE,
-23,4431,2,04:12,,10,4,36,HOU 38,0,CLE,
-23,4357,1,05:04,,10,4,24,CLE 26,0,CLE,
-23,4385,1,04:39,,10,4,36,50,0,CLE,
-23,4409,1,04:17,,10,4,36,HOU 38,0,CLE,
-23,4453,3,04:06,,10,4,36,HOU 38,0,CLE,INT
-11,2258,0,01:24,,0,2,25,,0,,TIMEOUT
-11,2275,2,01:24,,7,2,30,HOU 47,0,HOU,
-11,2132,1,03:06,,10,2,11,HOU 22,0,HOU,
-11,2216,1,02:00,,10,2,22,HOU 33,0,HOU,
-11,2178,3,02:07,,1,2,11,HOU 31,0,HOU,
-11,2296,0,01:06,,0,2,30,,0,,TIMEOUT
-11,2383,1,00:50,,10,2,58,CLE 34,0,HOU,
-11,2348,1,00:58,,10,2,78,CLE 39,0,HOU,PENALTY
-11,2427,0,00:23,,0,2,78,CLE 2,1,HOU,XP
-11,2407,1,00:28,,10,2,78,CLE 20,1,HOU,TD
-11,2237,1,01:31,,10,2,25,HOU 44,0,HOU,
-11,2313,3,01:06,,2,2,39,CLE 48,0,HOU,
-11,2157,2,02:42,,4,2,9,HOU 28,0,HOU,
-11,2199,0,02:00,,0,2,11,,0,,
-14,2822,2,10:34,,6,3,48,CLE 28,0,HOU,
-14,2727,2,12:07,,7,3,26,HOU 42,0,HOU,PENALTY
-14,2876,3,09:57,,12,3,38,CLE 34,0,HOU,
-14,2900,4,09:20,,12,3,38,CLE 34,0,HOU,FGM
-14,2658,1,13:42,,10,3,6,HOU 28,0,HOU,
-14,2759,1,11:43,,10,3,26,CLE 46,0,HOU,
-14,2801,1,11:01,,10,3,44,CLE 32,0,HOU,
-14,2843,3,09:59,,2,3,38,CLE 24,0,HOU,PENALTY
-14,2780,2,11:18,,10,3,40,CLE 46,0,HOU,
-14,2706,1,12:52,,10,3,14,HOU 39,0,HOU,
-14,2682,2,13:14,,4,3,11,HOU 34,0,HOU,
-8,1769,0,08:58,,0,2,62,HOU 2,1,CLE,XP
-8,1707,1,09:57,,10,2,27,HOU 42,0,CLE,
-8,1683,1,10:21,,10,2,20,CLE 35,0,CLE,
-8,1749,1,09:06,,10,2,62,HOU 32,1,CLE,TD
-8,1642,4,10:32,,28,2,-3,CLE 20,0,CLE,PENALTY
-8,1554,1,11:36,,20,2,-10,CLE 28,0,CLE,
-8,1576,2,11:11,,20,2,-15,CLE 28,0,CLE,PENALTY
-8,1599,2,11:11,,25,2,-15,CLE 23,0,CLE,
-8,1518,1,11:36,,10,2,-10,CLE 38,0,CLE,PENALTY
-8,1621,3,11:08,,25,2,-18,CLE 23,0,CLE,
-8,1728,2,09:36,,3,2,30,HOU 35,0,CLE,
-19,3591,2,00:42,,17,3,-7,CLE 35,0,CLE,
-19,3646,4,00:25,,17,3,-7,CLE 35,0,CLE,FUMBLE
-19,3624,3,00:36,,17,3,-7,CLE 35,0,CLE,
-19,3572,1,01:24,,10,3,-7,CLE 42,0,CLE,
-22,4296,2,06:15,,8,4,9,HOU 39,0,HOU,
-22,4275,1,06:49,,10,4,2,HOU 37,0,HOU,
-22,4317,3,05:54,,1,4,9,HOU 46,0,HOU,
-22,4338,4,05:10,,1,4,9,HOU 46,0,HOU,PUNT
-12,2443,0,00:23,,0,2,0,HOU 35,0,HOU,KICKOFF
-12,2465,1,00:07,,10,2,-1,CLE 27,0,CLE,
-12,2486,0,,,0,2,0,,0,,
-16,3243,4,05:21,,5,3,60,CLE 28,1,HOU,FG
-16,3077,2,07:20,,3,3,33,HOU 34,0,HOU,
-16,3056,1,07:42,,10,3,22,HOU 27,0,HOU,
-16,3191,2,05:32,,5,3,60,CLE 28,0,HOU,
-16,3217,3,05:26,,5,3,60,CLE 28,0,HOU,
-16,3170,1,05:54,,10,3,60,CLE 33,0,HOU,
-16,3143,1,06:17,,10,3,55,CLE 44,0,HOU,
-16,3098,1,06:58,,10,3,37,HOU 45,0,HOU,
-16,3119,2,06:27,,6,3,55,HOU 49,0,HOU,
-16,3032,1,07:56,,10,3,15,HOU 12,0,HOU,
-7,1474,3,12:17,,6,2,9,HOU 13,0,HOU,
-7,1431,1,12:52,,10,2,4,HOU 9,0,HOU,
-7,1495,4,11:47,,1,2,9,HOU 18,0,HOU,PUNT
-7,1452,2,12:22,,6,2,4,HOU 13,0,HOU,
-3,438,0,09:42,,0,1,54,,0,,TIMEOUT
-3,417,2,10:09,,8,1,49,CLE 45,0,HOU,
-3,658,0,07:09,,0,1,89,CLE 2,1,HOU,XP
-3,350,2,11:19,,9,1,44,HOU 12,0,HOU,
-3,372,3,11:16,,9,1,42,HOU 12,0,HOU,
-3,497,2,08:38,,8,1,54,CLE 35,0,HOU,
-3,476,1,09:02,,10,1,54,CLE 37,0,HOU,
-3,396,1,10:41,,10,1,44,CLE 47,0,HOU,
-3,596,1,07:13,,2,1,89,CLE 2,1,HOU,TD
-3,564,2,07:27,,9,1,87,CLE 18,0,HOU,PENALTY
-3,329,1,11:56,,10,1,1,HOU 11,0,HOU,
-3,455,3,09:41,,3,1,52,CLE 40,0,HOU,
-3,519,3,08:31,,8,1,89,CLE 35,0,HOU,
-3,543,1,07:54,,10,1,71,CLE 19,0,HOU,
-17,3450,4,03:00,,16,3,4,CLE 27,0,CLE,PUNT
-17,3357,2,04:37,,12,3,10,CLE 21,0,CLE,
-17,3262,0,05:16,,0,3,0,HOU 35,0,HOU,KICKOFF
-17,3428,3,03:05,,16,3,4,CLE 27,0,CLE,
-17,3381,1,03:52,,10,3,4,CLE 33,0,CLE,
-17,3332,1,05:12,,10,3,-2,CLE 23,0,CLE,
-17,3406,2,03:09,,16,3,4,CLE 27,0,CLE,
-4,829,2,05:05,,7,1,66,HOU 14,0,CLE,
-4,721,1,06:30,,10,1,47,HOU 45,0,CLE,
-4,853,3,04:29,,7,1,60,HOU 14,0,CLE,FUMBLE
-4,881,4,03:50,,13,1,60,HOU 20,0,CLE,FGM
-4,745,1,06:06,,10,1,47,HOU 33,0,CLE,
-4,767,0,06:03,,0,1,47,,0,,TIMEOUT
-4,674,0,07:09,,0,1,0,HOU 35,0,HOU,KICKOFF
-4,700,1,07:04,,10,1,35,CLE 20,0,CLE,
-4,808,1,05:40,,10,1,66,HOU 17,0,CLE,
-4,784,2,06:01,,10,1,63,HOU 33,0,CLE,
-2,241,1,12:47,,10,1,11,CLE 42,0,CLE,
-2,192,1,13:49,,10,1,0,CLE 30,0,CLE,
-2,288,3,12:08,,11,1,11,CLE 41,0,CLE,
-2,266,2,12:12,,11,1,11,CLE 41,0,CLE,
-2,310,4,12:03,,11,1,11,CLE 41,0,CLE,PUNT
-2,217,2,13:17,,10,1,12,CLE 30,0,CLE,
-15,3013,4,08:04,,12,3,9,HOU 49,0,CLE,PUNT
-15,2944,1,08:49,,10,3,9,HOU 47,0,CLE,
-15,2920,1,09:16,,10,3,9,CLE 42,0,CLE,
-15,2969,2,08:11,,12,3,9,HOU 49,0,CLE,
-15,2991,3,08:08,,12,3,9,HOU 49,0,CLE,
+24,4570,3,03:04,"(3:04) A.Blue right end to CLE 24 for 5 yards (J.Haden). PENALTY on HOU-D.Newton, Offensive Holding, 10 yards, enforced at CLE 24.",3,4,40,CLE 29,0,HOU,PENALTY
+24,4640,4,02:52,"(2:52) (Field Goal formation) R.Bullock 50 yard field goal is GOOD, Center-J.Weeks, Holder-S.Lechler.",6,4,40,CLE 32,1,HOU,FG
+24,4511,1,03:51,(3:51) J.Grimes right guard to CLE 33 for 3 yards (P.Kruger; D.Bryant).,10,4,39,CLE 36,0,HOU,
+24,4532,2,03:12,(3:12) J.Grimes right guard to CLE 29 for 4 yards (B.Winn).,7,4,43,CLE 33,0,HOU,
+24,4479,1,04:01,"(4:01) A.Blue left guard to HOU 49 for 21 yards (B.Mingo). PENALTY on CLE-D.Whitner, Unnecessary Roughness, 15 yards, enforced at HOU 49.",10,4,36,HOU 28,0,HOU,PENALTY
+24,4623,0,02:52,Timeout #2 by CLE at 02:52.,0,4,40,,0,,TIMEOUT
+24,4602,3,02:55,(2:55) J.Grimes left tackle to CLE 32 for 2 yards (I.Kitchen).,8,4,40,CLE 34,0,HOU,
+24,4553,0,03:06,Timeout #1 by CLE at 03:06.,0,4,43,,0,,TIMEOUT
+25,4839,1,01:33,"(1:33) (No Huddle, Shotgun) B.Hoyer pass incomplete deep right to A.Hawkins (J.Joseph).",10,4,49,HOU 29,0,CLE,
+25,4705,2,02:20,"(2:20) (No Huddle, Shotgun) B.Hoyer pass short left to A.Hawkins to CLE 36 for 7 yards (J.Rolle).",3,4,14,CLE 29,0,CLE,
+25,4883,3,01:19,(1:19) (Shotgun) B.Hoyer pass incomplete short right to T.Benjamin.,10,4,49,HOU 29,0,CLE,
+25,4729,1,02:20,(2:20) B.Hoyer pass short middle to G.Barnidge to CLE 47 for 11 yards (B.Cushing).,10,4,25,CLE 36,0,CLE,
+25,4815,2,01:52,(1:52) (Shotgun) B.Hoyer pass short left to I.Crowell to HOU 29 for 19 yards (A.Bouye; B.Cushing).,5,4,49,HOU 48,0,CLE,
+25,4681,1,02:40,(2:40) (Shotgun) B.Hoyer pass short right to M.Austin to CLE 29 for 7 yards (D.Manning).,10,4,7,CLE 22,0,CLE,
+25,4753,0,01:56,Two-Minute Warning,0,4,25,,0,,
+25,4912,4,01:15,(1:15) (Shotgun) B.Hoyer pass incomplete short left to G.Barnidge.,10,4,49,HOU 29,0,CLE,
+25,4770,1,01:56,"(1:56) (Shotgun) PENALTY on HOU-W.Mercilus, Neutral Zone Infraction, 5 yards, enforced at CLE 47 - No Play.",10,4,30,CLE 47,0,CLE,PENALTY
+25,4861,2,01:26,(1:26) (Shotgun) B.Hoyer pass incomplete short right to I.Crowell (B.Cushing).,10,4,49,HOU 29,0,CLE,
+25,4659,0,02:47,R.Bullock kicks 64 yards from HOU 35 to CLE 1. T.Gabriel to CLE 22 for 21 yards (J.Grimes).,0,4,0,HOU 35,0,HOU,KICKOFF
+25,4793,1,01:55,(1:55) (Shotgun) B.Hoyer pass incomplete short left to A.Hawkins.,5,4,30,HOU 48,0,CLE,
+26,4976,0,00:00,END GAME,0,4,-5,,0,,
+26,4934,1,01:10,(1:10) R.Mallett kneels to HOU 25 for -4 yards.,10,4,-5,HOU 29,0,HOU,
+26,4955,2,00:33,(:33) R.Mallett kneels to HOU 24 for -1 yards.,14,4,-5,HOU 25,0,HOU,
+20,3664,1,00:15,(:15) A.Blue left guard to HOU 44 for 1 yard (B.Mingo; C.Robertson).,10,3,1,HOU 43,0,HOU,
+20,3762,1,14:17,(14:17) A.Blue left guard to CLE 39 for 6 yards (C.Kirksey).,10,4,18,CLE 45,0,HOU,
+20,3912,2,12:11,(12:11) R.Mallett pass short left to D.Hopkins to CLE 13 for 17 yards (K.Williams).,12,4,44,CLE 30,0,HOU,
+20,3783,2,13:59,(13:59) (No Huddle) A.Blue right tackle to CLE 38 for 1 yard (D.Bryant).,4,4,19,CLE 39,0,HOU,
+20,3826,0,13:14,Timeout #1 by HOU at 13:14.,0,4,19,,0,,TIMEOUT
+20,3804,3,13:19,(13:19) (Shotgun) R.Mallett pass incomplete short left to D.Johnson.,3,4,19,CLE 38,0,HOU,
+20,4006,4,09:51,"(9:51) (Field Goal formation) R.Bullock 37 yard field goal is GOOD, Center-J.Weeks, Holder-S.Lechler.",16,4,38,CLE 19,1,HOU,FG
+20,3936,1,11:31,(11:31) A.Blue right tackle to CLE 14 for -1 yards (B.Mingo; J.Haden).,10,4,43,CLE 13,0,HOU,
+20,3957,2,10:55,(10:55) A.Blue left end to CLE 23 for -9 yards (B.Mingo). Pitch Out,11,4,34,CLE 14,0,HOU,
+20,3685,0,,END QUARTER 3,0,3,1,,0,,
+20,3741,3,15:00,(15:00) (No Huddle) A.Blue left tackle to CLE 45 for 3 yards (B.Mingo).,1,4,12,CLE 48,0,HOU,
+20,3853,4,13:14,(13:14) (Shotgun) R.Mallett pass short right to A.Johnson to CLE 28 for 10 yards (J.Haden).,3,4,29,CLE 38,0,HOU,
+20,3978,3,10:11,(10:11) (Shotgun) R.Mallett pass short right to D.Johnson to CLE 19 for 4 yards (J.Haden).,20,4,38,CLE 23,0,HOU,
+20,3890,1,12:47,(12:47) (No Huddle) A.Blue left guard to CLE 30 for -2 yards (T.Gipson; C.Kirksey).,10,4,27,CLE 28,0,HOU,
+20,3701,2,15:00,(15:00) R.Mallett pass short right to D.Johnson to CLE 48 for 8 yards (J.Haden; C.Robertson).,9,4,9,HOU 44,0,HOU,
+21,4080,2,09:00,(9:00) B.Hoyer pass incomplete deep right to G.Barnidge [B.Cushing].,8,4,2,CLE 12,0,CLE,
+21,4153,1,07:51,(7:51) B.Hoyer pass deep left to A.Hawkins to HOU 23 for 22 yards (A.Bouye).,10,4,67,HOU 45,0,CLE,
+21,4129,1,08:21,(8:21) B.Hoyer pass deep middle to T.Gabriel to HOU 45 for 35 yards (J.Rolle).,10,4,45,CLE 20,0,CLE,
+21,4054,1,09:33,(9:33) I.Crowell left guard to CLE 12 for 2 yards (J.Pagan). Pitch Out,10,4,2,CLE 10,0,CLE,
+21,4198,2,07:00,"(7:00) (No Huddle, Shotgun) B.Hoyer pass incomplete short right to R.Agnew.",9,4,68,HOU 22,0,CLE,
+21,4177,1,07:29,(7:29) (No Huddle) I.Crowell right tackle to HOU 22 for 1 yard (R.Pickett).,10,4,68,HOU 23,0,CLE,
+21,4242,4,06:54,"(6:54) (Shotgun) B.Hoyer pass incomplete short middle to M.Austin. PENALTY on CLE-J.Greco, Chop Block, 15 yards, enforced between downs.",9,4,68,HOU 22,0,CLE,PENALTY
+21,4025,0,09:47,"R.Bullock kicks 69 yards from HOU 35 to CLE -4. M.Moore for 104 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on CLE-R.Taylor, Offensive Holding, 10 yards, enforced at CLE 20.",0,4,0,HOU 35,0,HOU,KICKOFF
+21,4105,3,08:56,(8:56) (Shotgun) B.Hoyer pass short left to T.Gabriel to CLE 20 for 8 yards (A.Bouye).,8,4,10,CLE 12,0,CLE,
+21,4220,3,06:58,(6:58) (Shotgun) B.Hoyer pass incomplete short left to T.Gabriel.,9,4,68,HOU 22,0,CLE,
+22,4296,2,06:15,(6:15) A.Blue right tackle to HOU 46 for 7 yards (D.Bryant).,8,4,9,HOU 39,0,HOU,
+22,4338,4,05:10,"(5:10) (Punt formation) S.Lechler punts 29 yards to CLE 25, Center-J.Weeks, fair catch by J.Leonhard.",1,4,9,HOU 46,0,HOU,PUNT
+22,4275,1,06:49,(6:49) A.Blue left tackle to HOU 39 for 2 yards (A.Rubin; C.Robertson).,10,4,2,HOU 37,0,HOU,
+22,4317,3,05:54,(5:54) (No Huddle) A.Blue right guard to HOU 46 for no gain (D.Whitner; D.Bryant).,1,4,9,HOU 46,0,HOU,
+23,4453,3,04:06,(4:06) (Shotgun) B.Hoyer pass short left intended for M.Austin INTERCEPTED by M.Mohamed at HOU 28. M.Mohamed to HOU 28 for no gain (M.Austin).,10,4,36,HOU 38,0,CLE,INT
+23,4357,1,05:04,(5:04) B.Hoyer pass short middle to A.Hawkins to 50 for 24 yards (A.Bouye).,10,4,24,CLE 26,0,CLE,
+23,4431,2,04:12,(4:12) (Shotgun) B.Hoyer pass incomplete short right to B.Tate.,10,4,36,HOU 38,0,CLE,
+23,4409,1,04:17,"(4:17) (No Huddle, Shotgun) B.Hoyer pass incomplete short middle to T.Gabriel.",10,4,36,HOU 38,0,CLE,
+23,4385,1,04:39,"(4:39) (No Huddle, Shotgun) B.Hoyer pass short left to T.Gabriel to HOU 38 for 12 yards (A.Bouye).",10,4,36,50,0,CLE,
+1,109,3,14:27,(14:27) (Shotgun) J.Grimes left guard to HOU 29 for 3 yards (J.Sheard).,4,1,9,HOU 26,0,HOU,
+1,64,1,15:00,(15:00) A.Blue left guard to HOU 26 for 6 yards (D.Whitner).,10,1,6,HOU 20,0,HOU,
+1,36,0,15:00,"B.Cundiff kicks 65 yards from CLE 35 to end zone, Touchback. Houston calls tails on the coin toss",0,1,0,CLE 35,0,CLE,KICKOFF
+1,169,4,13:56,"(13:56) (Punt formation) S.Lechler punts 41 yards to CLE 30, Center-J.Weeks, fair catch by T.Benjamin.",1,1,9,HOU 29,0,HOU,PUNT
+1,85,2,14:32,"(14:32) R.Mallett pass deep left to A.Johnson to CLE 46 for 28 yards (J.Haden). Cleveland challenged the incomplete pass ruling, and the play was REVERSED. R.Mallett pass incomplete deep left.",4,1,6,HOU 26,0,HOU,
+3,497,2,08:38,(8:38) (No Huddle) R.Mallett pass incomplete deep left to D.Johnson (K.Williams).,8,1,54,CLE 35,0,HOU,
+3,329,1,11:56,(11:56) A.Blue right tackle to HOU 12 for 1 yard (J.Sheard; C.Robertson).,10,1,1,HOU 11,0,HOU,
+3,596,1,07:13,"(7:13) R.Mallett pass short left to J.Watt for 2 yards, TOUCHDOWN. J.J. Watt reports as an eligible receiver The Replay Official challenged the incomplete pass ruling, and the play was Upheld. The ruling on the field was confirmed.",2,1,89,CLE 2,1,HOU,TD
+3,564,2,07:27,"(7:27) A.Blue left tackle to CLE 4 for 14 yards (T.Gipson; K.Williams). PENALTY on CLE-T.Gipson, Face Mask (15 Yards), 2 yards, enforced at CLE 4.",9,1,87,CLE 18,0,HOU,PENALTY
+3,455,3,09:41,(9:41) (Shotgun) A.Blue left guard to CLE 37 for 3 yards (B.Winn; P.Kruger).,3,1,52,CLE 40,0,HOU,
+3,519,3,08:31,(8:31) (Shotgun) R.Mallett pass deep left to A.Johnson to CLE 19 for 16 yards (D.Whitner).,8,1,89,CLE 35,0,HOU,
+3,543,1,07:54,(7:54) A.Blue right tackle to CLE 18 for 1 yard (K.Dansby).,10,1,71,CLE 19,0,HOU,
+3,417,2,10:09,(10:09) A.Blue left guard to CLE 40 for 5 yards (K.Williams).,8,1,49,CLE 45,0,HOU,
+3,476,1,09:02,(9:02) A.Blue left tackle to CLE 35 for 2 yards (T.Gipson; K.Dansby).,10,1,54,CLE 37,0,HOU,
+3,396,1,10:41,(10:41) (No Huddle) A.Blue left guard to CLE 45 for 2 yards (T.Gipson; C.Kirksey).,10,1,44,CLE 47,0,HOU,
+3,438,0,09:42,Timeout #1 by CLE at 09:42.,0,1,54,,0,,TIMEOUT
+3,350,2,11:19,(11:19) (Shotgun) R.Mallett pass incomplete short right to D.Johnson (C.Kirksey).,9,1,44,HOU 12,0,HOU,
+3,372,3,11:16,(11:16) (Shotgun) R.Mallett pass deep right to D.Hopkins to CLE 47 for 41 yards (B.Skrine).,9,1,42,HOU 12,0,HOU,
+3,658,0,07:09,"R.Bullock extra point is GOOD, Center-J.Weeks, Holder-S.Lechler.",0,1,89,CLE 2,1,HOU,XP
+2,217,2,13:17,(13:17) (Shotgun) B.Hoyer pass short left to M.Austin to CLE 42 for 12 yards (A.Bouye).,10,1,12,CLE 30,0,CLE,
+2,310,4,12:03,"(12:03) (Punt formation) S.Lanning punts 49 yards to HOU 10, Center-C.Yount, fair catch by K.Martin.",11,1,11,CLE 41,0,CLE,PUNT
+2,192,1,13:49,(13:49) (Shotgun) I.Crowell right tackle to CLE 30 for no gain (R.Pickett). Pitch Out,10,1,0,CLE 30,0,CLE,
+2,288,3,12:08,(12:08) (Shotgun) B.Hoyer pass incomplete deep right to A.Hawkins.,11,1,11,CLE 41,0,CLE,
+2,241,1,12:47,(12:47) I.Crowell right tackle to CLE 41 for -1 yards (J.Watt). Pitch Out,10,1,11,CLE 42,0,CLE,
+2,266,2,12:12,(12:12) B.Hoyer pass incomplete short left to T.Gabriel.,11,1,11,CLE 41,0,CLE,
+5,1087,2,00:54,(:54) (Shotgun) R.Mallett pass short right to A.Johnson to CLE 29 for 7 yards (J.Haden).,9,1,43,CLE 36,0,HOU,
+5,1041,2,01:58,(1:58) (Shotgun) A.Blue left guard to CLE 37 for 8 yards (K.Dansby; D.Whitner). Official measure for the first down decision,8,1,35,CLE 45,0,HOU,
+5,996,1,02:53,(2:53) (Shotgun) R.Mallett pass short left to A.Johnson to CLE 47 for 12 yards (J.Haden).,10,1,25,HOU 41,0,HOU,
+5,1020,1,02:24,(2:24) (Shotgun) J.Grimes left guard to CLE 45 for 2 yards (K.Williams).,10,1,27,CLE 47,0,HOU,
+5,971,3,03:31,(3:31) A.Blue left end to HOU 41 for 5 yards (J.Haden). Pitch Out,2,1,13,HOU 36,0,HOU,
+5,949,2,03:35,(3:35) R.Mallett pass incomplete short right to A.Johnson.,2,1,8,HOU 36,0,HOU,
+5,1066,1,01:29,(1:29) (Shotgun) A.Blue right guard to CLE 36 for 1 yard (J.Haden).,10,1,36,CLE 37,0,HOU,
+5,1111,3,00:39,(:39) R.Mallett pass deep left intended for D.Hopkins INTERCEPTED by J.Haden at CLE -6. Touchback.,2,1,43,CLE 29,0,HOU,INT
+5,910,1,03:46,"(3:46) R.Mallett pass short right to A.Johnson to HOU 36 for 8 yards (J.Haden). Penalty on CLE-K.Williams, Illegal Use of Hands, declined.",10,1,8,HOU 28,0,HOU,
+4,784,2,06:01,(6:01) (Shotgun) B.Hoyer pass short middle to J.Dray to HOU 17 for 16 yards (K.Lewis).,10,1,63,HOU 33,0,CLE,
+4,881,4,03:50,"(3:50) B.Cundiff 38 yard field goal is No Good, Wide Right, Center-C.Yount, Holder-S.Lanning.",13,1,60,HOU 20,0,CLE,FGM
+4,745,1,06:06,(6:06) (No Huddle) B.Hoyer pass incomplete short left to A.Hawkins.,10,1,47,HOU 33,0,CLE,
+4,853,3,04:29,"(4:29) (Shotgun) B.Hoyer sacked at HOU 22 for -8 yards (J.Watt). FUMBLES (J.Watt), and recovers at HOU 20. B.Hoyer to HOU 20 for no gain (J.Watt).",7,1,60,HOU 14,0,CLE,FUMBLE
+4,674,0,07:09,R.Bullock kicks 60 yards from HOU 35 to CLE 5. M.Moore to CLE 20 for 15 yards (A.Hal).,0,1,0,HOU 35,0,HOU,KICKOFF
+4,700,1,07:04,(7:04) I.Crowell left guard to HOU 45 for 35 yards (D.Manning).,10,1,35,CLE 20,0,CLE,
+4,767,0,06:03,Timeout #2 by CLE at 06:03.,0,1,47,,0,,TIMEOUT
+4,808,1,05:40,(5:40) (No Huddle) T.West left tackle to HOU 14 for 3 yards (B.Cushing).,10,1,66,HOU 17,0,CLE,
+4,829,2,05:05,(5:05) (Shotgun) B.Hoyer pass short right to A.Hawkins to HOU 14 for no gain (J.Joseph).,7,1,66,HOU 14,0,CLE,
+4,721,1,06:30,(6:30) (No Huddle) B.Hoyer pass short middle to A.Hawkins to HOU 33 for 12 yards (W.Mercilus).,10,1,47,HOU 45,0,CLE,
+7,1495,4,11:47,"(11:47) (Punt formation) S.Lechler punts 44 yards to CLE 38, Center-J.Weeks, downed by HOU-A.Blue.",1,2,9,HOU 18,0,HOU,PUNT
+7,1474,3,12:17,(12:17) (Shotgun) J.Grimes left guard to HOU 18 for 5 yards (J.Leonhard).,6,2,9,HOU 13,0,HOU,
+7,1452,2,12:22,(12:22) (Shotgun) R.Mallett pass incomplete short left to D.Hopkins.,6,2,4,HOU 13,0,HOU,
+7,1431,1,12:52,(12:52) A.Blue right guard to HOU 13 for 4 yards (D.Whitner; K.Dansby).,10,2,4,HOU 9,0,HOU,
+6,1212,1,15:00,(15:00) T.West left guard to HOU 47 for 2 yards (A.Dent; J.Powe).,10,2,33,HOU 49,0,CLE,
+6,1307,1,14:12,(14:12) I.Crowell left guard to HOU 30 for 2 yards (J.Clowney). Pitch Out,10,2,50,HOU 32,0,CLE,
+6,1172,2,00:09,(:09) (No Huddle) B.Hoyer pass deep left to T.Benjamin to HOU 49 for 23 yards (A.Bouye).,2,1,31,CLE 28,0,CLE,
+6,1233,2,14:29,(14:29) B.Hoyer pass incomplete deep left to T.Gabriel.,8,2,33,HOU 47,0,CLE,
+6,1351,3,13:05,(13:05) (Shotgun) B.Hoyer pass incomplete deep right to M.Austin.,15,2,43,HOU 37,0,CLE,
+6,1137,1,00:30,(:30) I.Crowell right guard to CLE 28 for 8 yards (K.Lewis; D.Swearinger). Pitch Out,10,1,8,CLE 20,0,CLE,
+6,1332,2,13:48,(13:48) B.Hoyer sacked at HOU 37 for -7 yards (A.Dent).,8,2,43,HOU 30,0,CLE,
+6,1196,0,,END QUARTER 1,0,1,31,,0,,
+6,1373,4,13:05,"(13:05) (Punt formation) Penalty on CLE, Delay of Game, declined.",15,2,43,HOU 37,0,CLE,
+6,1255,3,14:22,(14:22) (Shotgun) B.Hoyer pass incomplete short right to A.Hawkins (M.Mohamed).,8,2,33,HOU 47,0,CLE,
+6,1400,4,12:59,"(12:59) (Punt formation) S.Lanning punts 29 yards to HOU 8, Center-C.Yount, fair catch by K.Martin.",15,2,43,HOU 37,0,CLE,PUNT
+6,1277,4,14:18,"(14:18) (Punt formation) S.Lanning punts 38 yards to HOU 9, Center-C.Yount, fair catch by K.Martin. PENALTY on HOU-J.Watt, Roughing the Kicker, 15 yards, enforced at HOU 47 - No Play.",8,2,48,HOU 47,0,CLE,PENALTY
+9,1807,1,08:52,(8:52) (Shotgun) R.Mallett pass short right to D.Johnson to HOU 30 for 4 yards (D.Whitner).,10,2,4,HOU 26,0,HOU,
+9,1831,2,08:23,(8:23) (Shotgun) A.Blue right guard to HOU 38 for 8 yards (B.Skrine).,6,2,12,HOU 30,0,HOU,
+9,1852,1,08:00,(8:00) (No Huddle) A.Blue left guard to HOU 44 for 6 yards (P.Kruger).,10,2,18,HOU 38,0,HOU,
+9,1785,0,08:58,B.Cundiff kicks 67 yards from CLE 35 to HOU -2. D.Manning to HOU 26 for 28 yards (E.Martin; K.Williams).,0,2,0,CLE 35,0,CLE,KICKOFF
+9,1923,4,07:11,"(7:11) S.Lechler punts 46 yards to CLE 27, Center-J.Weeks, downed by HOU-J.Rolle.",21,2,1,HOU 27,0,HOU,PUNT
+9,1873,2,07:37,(7:37) (No Huddle) J.Grimes left guard to HOU 47 for 3 yards (D.Whitner; P.Kruger). CLE-K.Dansby was injured during the play. His return is Questionable.,4,2,21,HOU 44,0,HOU,
+9,1897,3,07:11,"(7:11) (Shotgun) R.Mallett Aborted. C.Myers FUMBLES at HOU 47, recovered by HOU-A.Blue at HOU 27. A.Blue to HOU 27 for no gain (C.Robertson).",1,2,1,HOU 47,0,HOU,FUMBLE
+8,1621,3,11:08,(11:08) (Shotgun) B.Tate right guard to CLE 20 for -3 yards (M.Mohamed).,25,2,-18,CLE 23,0,CLE,
+8,1554,1,11:36,(11:36) (Shotgun) B.Hoyer pass incomplete short right to M.Austin (J.Joseph).,20,2,-10,CLE 28,0,CLE,
+8,1728,2,09:36,(9:36) (No Huddle) I.Crowell left tackle to HOU 32 for 3 yards (J.Crick).,3,2,30,HOU 35,0,CLE,
+8,1642,4,10:32,"(10:32) (Punt formation) S.Lanning punts 53 yards to HOU 27, Center-C.Yount. K.Martin ran ob at HOU 40 for 13 yards (T.Carder). PENALTY on HOU-J.Watt, Roughing the Kicker, 15 yards, enforced at CLE 20 - No Play.",28,2,-3,CLE 20,0,CLE,PENALTY
+8,1707,1,09:57,(9:57) (No Huddle) I.Crowell right tackle to HOU 35 for 7 yards (J.Joseph).,10,2,27,HOU 42,0,CLE,
+8,1683,1,10:21,(10:21) B.Hoyer pass deep left to T.Gabriel to HOU 42 for 23 yards (A.Bouye).,10,2,20,CLE 35,0,CLE,
+8,1769,0,08:58,"B.Cundiff extra point is GOOD, Center-C.Yount, Holder-S.Lanning.",0,2,62,HOU 2,1,CLE,XP
+8,1518,1,11:36,"(11:36) I.Crowell right guard to CLE 41 for 3 yards (B.Reed; B.Cushing). PENALTY on CLE-J.Greco, Offensive Holding, 10 yards, enforced at CLE 38 - No Play. Penalty on CLE-M.Schwartz, Offensive Holding, declined. pitchout",10,2,-10,CLE 38,0,CLE,PENALTY
+8,1599,2,11:11,(11:11) B.Hoyer pass incomplete short right to T.Gabriel.,25,2,-15,CLE 23,0,CLE,
+8,1576,2,11:11,"(11:11) (Shotgun) PENALTY on CLE-M.Schwartz, False Start, 5 yards, enforced at CLE 28 - No Play.",20,2,-15,CLE 28,0,CLE,PENALTY
+8,1749,1,09:06,"(9:06) (No Huddle) B.Hoyer pass short right to A.Hawkins for 32 yards, TOUCHDOWN.",10,2,62,HOU 32,1,CLE,TD
+11,2275,2,01:24,(1:24) (Shotgun) J.Grimes right guard to CLE 48 for 5 yards (D.Bryant; C.Robertson).,7,2,30,HOU 47,0,HOU,
+11,2132,1,03:06,(3:06) D.Johnson left end to HOU 28 for 6 yards (K.Williams). End Around,10,2,11,HOU 22,0,HOU,
+11,2216,1,02:00,(2:00) (Shotgun) A.Blue right guard to HOU 44 for 11 yards (T.Gipson).,10,2,22,HOU 33,0,HOU,
+11,2296,0,01:06,Timeout #2 by HOU at 01:06.,0,2,30,,0,,TIMEOUT
+11,2237,1,01:31,"(1:31) (No Huddle, Shotgun) J.Grimes right guard to HOU 47 for 3 yards (P.Kruger; D.Bryant).",10,2,25,HOU 44,0,HOU,
+11,2313,3,01:06,"(1:06) (Shotgun) R.Mallett pass short right to A.Johnson to CLE 39 for 9 yards (J.Haden) [C.Kirksey]. Penalty on CLE-D.Bryant, Defensive Holding, declined.",2,2,39,CLE 48,0,HOU,
+11,2407,1,00:28,"(:28) (No Huddle, Shotgun) R.Mallett pass short middle to G.Graham for 20 yards, TOUCHDOWN.",10,2,78,CLE 20,1,HOU,TD
+11,2383,1,00:50,(:50) (Shotgun) R.Mallett pass short middle to G.Graham to CLE 20 for 14 yards (C.Robertson).,10,2,58,CLE 34,0,HOU,
+11,2157,2,02:42,(2:42) A.Blue left end to HOU 31 for 3 yards (C.Kirksey).,4,2,9,HOU 28,0,HOU,
+11,2258,0,01:24,Timeout #1 by HOU at 01:24.,0,2,25,,0,,TIMEOUT
+11,2199,0,02:00,Two-Minute Warning,0,2,11,,0,,
+11,2178,3,02:07,(2:07) R.Mallett up the middle to HOU 33 for 2 yards (B.Winn; D.Bryant).,1,2,11,HOU 31,0,HOU,
+11,2427,0,00:23,"R.Bullock extra point is GOOD, Center-J.Weeks, Holder-S.Lechler.",0,2,78,CLE 2,1,HOU,XP
+11,2348,1,00:58,"(:58) (No Huddle, Shotgun) R.Mallett pass short left to G.Graham to CLE 35 for 4 yards (C.Robertson). PENALTY on CLE-C.Robertson, Illegal Contact, 5 yards, enforced at CLE 39 - No Play.",10,2,78,CLE 39,0,HOU,PENALTY
+10,1987,2,05:33,(5:33) (No Huddle) B.Hoyer pass incomplete short left to A.Hawkins.,11,2,29,HOU 44,0,CLE,
+10,2100,1,03:11,"(3:11) (No Huddle) I.Crowell left guard to HOU 20 for -1 yards (B.Cushing). FUMBLES (B.Cushing), RECOVERED by HOU-J.Watt at HOU 22. J.Watt to HOU 22 for no gain (B.Hoyer).",10,2,51,HOU 19,0,CLE,FUMBLE
+10,1942,1,06:27,(6:27) B.Hoyer pass short right to J.Dray to HOU 43 for 30 yards (A.Dent).,10,2,30,CLE 27,0,CLE,
+10,2058,2,04:18,(4:18) (No Huddle) T.West left guard to HOU 21 for 2 yards (D.Swearinger; W.Mercilus).,3,2,52,HOU 23,0,CLE,
+10,1966,1,05:51,(5:51) I.Crowell left guard to HOU 44 for -1 yards (J.Clowney).,10,2,29,HOU 43,0,CLE,
+10,2079,3,03:38,(3:38) B.Hoyer up the middle to HOU 19 for 2 yards (B.Cushing).,1,2,54,HOU 21,0,CLE,
+10,2033,1,04:44,(4:44) T.West left end to HOU 23 for 7 yards (D.Manning; B.Cushing). Pitch Out,10,2,50,HOU 30,0,CLE,
+10,2009,3,05:30,(5:30) (Shotgun) B.Hoyer pass short right to T.Gabriel to HOU 30 for 14 yards (J.Rolle).,11,2,43,HOU 44,0,CLE,
+13,2581,2,14:10,(14:10) (No Huddle) B.Hoyer pass incomplete deep left to T.Benjamin [B.Cushing]. Crowell pitched ball back to Hoyer,10,3,10,CLE 30,0,CLE,
+13,2603,3,14:03,(14:03) (Shotgun) B.Hoyer pass incomplete deep right to T.Gabriel.,10,3,10,CLE 30,0,CLE,
+13,2559,1,14:13,(14:13) (No Huddle) B.Hoyer pass incomplete short left to I.Crowell (J.Crick).,10,3,10,CLE 30,0,CLE,
+13,2629,4,13:57,"(13:57) S.Lanning punts 45 yards to HOU 25, Center-C.Yount. K.Martin to HOU 28 for 3 yards (J.Leonhard; G.Barnidge).",10,3,10,CLE 30,0,CLE,PUNT
+13,2538,2,14:36,(14:36) I.Crowell right guard to CLE 30 for 1 yard (D.Manning).,1,3,10,CLE 29,0,CLE,
+13,2517,1,15:00,(15:00) I.Crowell right guard to CLE 29 for 9 yards (B.Reed).,10,3,10,CLE 20,0,CLE,
+13,2502,0,15:00,"R.Bullock kicks 65 yards from HOU 35 to end zone, Touchback.",0,3,0,HOU 35,0,HOU,KICKOFF
+12,2486,0,,END QUARTER 2,0,2,0,,0,,
+12,2443,0,00:23,R.Bullock kicks 63 yards from HOU 35 to CLE 2. M.Moore to CLE 27 for 25 yards (A.Bouye).,0,2,0,HOU 35,0,HOU,KICKOFF
+12,2465,1,00:07,(:07) B.Hoyer kneels to CLE 26 for -1 yards.,10,2,-1,CLE 27,0,CLE,
+15,2920,1,09:16,(9:16) B.Hoyer pass short left to I.Crowell to HOU 47 for 11 yards (A.Dent).,10,3,9,CLE 42,0,CLE,
+15,3013,4,08:04,"(8:04) (Punt formation) S.Lanning punts 37 yards to HOU 12, Center-C.Yount, fair catch by K.Martin.",12,3,9,HOU 49,0,CLE,PUNT
+15,2944,1,08:49,(8:49) I.Crowell right guard to HOU 49 for -2 yards (A.Dent). pitchout,10,3,9,HOU 47,0,CLE,
+15,2969,2,08:11,(8:11) (Shotgun) B.Hoyer pass incomplete short middle to A.Hawkins.,12,3,9,HOU 49,0,CLE,
+15,2991,3,08:08,(8:08) (Shotgun) B.Hoyer pass incomplete short right to T.Gabriel [T.Jamison].,12,3,9,HOU 49,0,CLE,
+14,2727,2,12:07,"(12:07) (Shotgun) A.Blue left guard to HOU 49 for 7 yards (C.Kirksey; D.Whitner). PENALTY on CLE-J.Sheard, Illegal Use of Hands, 5 yards, enforced at HOU 49.",7,3,26,HOU 42,0,HOU,PENALTY
+14,2658,1,13:42,(13:42) (Shotgun) R.Mallett pass short left to K.Martin to HOU 34 for 6 yards (K.Williams; C.Robertson).,10,3,6,HOU 28,0,HOU,
+14,2780,2,11:18,(11:18) (Shotgun) A.Blue right tackle to CLE 32 for 14 yards (D.Whitner).,10,3,40,CLE 46,0,HOU,
+14,2706,1,12:52,"(12:52) (No Huddle, Shotgun) A.Blue left guard to HOU 42 for 3 yards (C.Robertson; C.Kirksey).",10,3,14,HOU 39,0,HOU,
+14,2843,3,09:59,"(9:59) R.Mallett pass incomplete short right to G.Graham. PENALTY on HOU-B.Brooks, Offensive Holding, 10 yards, enforced at CLE 24 - No Play.",2,3,38,CLE 24,0,HOU,PENALTY
+14,2900,4,09:20,"(9:20) (Field Goal formation) R.Bullock 52 yard field goal is No Good, Wide Right, Center-J.Weeks, Holder-S.Lechler.",12,3,38,CLE 34,0,HOU,FGM
+14,2822,2,10:34,"(10:34) (No Huddle, Shotgun) J.Grimes left guard to CLE 24 for 4 yards (T.Gipson).",6,3,48,CLE 28,0,HOU,
+14,2876,3,09:57,(9:57) (Shotgun) R.Mallett pass short left to D.Johnson to CLE 34 for no gain (K.Williams; J.Haden).,12,3,38,CLE 34,0,HOU,
+14,2801,1,11:01,"(11:01) (No Huddle, Shotgun) J.Grimes left tackle to CLE 28 for 4 yards (C.Kirksey; D.Bryant).",10,3,44,CLE 32,0,HOU,
+14,2682,2,13:14,"(13:14) (No Huddle, Shotgun) R.Mallett pass short right to D.Johnson to HOU 39 for 5 yards (D.Whitner).",4,3,11,HOU 34,0,HOU,
+14,2759,1,11:43,(11:43) A.Blue left guard to CLE 46 for no gain (C.Kirksey).,10,3,26,CLE 46,0,HOU,
+17,3450,4,03:00,"(3:00) (Punt formation) S.Lanning punts 49 yards to HOU 24, Center-C.Yount. K.Martin to HOU 26 for 2 yards (B.Mingo).",16,3,4,CLE 27,0,CLE,PUNT
+17,3428,3,03:05,(3:05) (Shotgun) B.Hoyer pass incomplete short middle to T.Gabriel.,16,3,4,CLE 27,0,CLE,
+17,3381,1,03:52,(3:52) B.Tate right end to CLE 27 for -6 yards (J.Watt). pitchout,10,3,4,CLE 33,0,CLE,
+17,3332,1,05:12,(5:12) T.West right tackle to CLE 21 for -2 yards (J.Watt; B.Reed). Pitch Out,10,3,-2,CLE 23,0,CLE,
+17,3357,2,04:37,(4:37) B.Hoyer pass short left to M.Austin to CLE 33 for 12 yards (A.Bouye).,12,3,10,CLE 21,0,CLE,
+17,3262,0,05:16,"R.Bullock kicks 67 yards from HOU 35 to CLE -2. M.Moore to CLE 23 for 25 yards (E.Pleasant). FUMBLES (E.Pleasant), RECOVERED by HOU-E.Pleasant at CLE 18. The Replay Official challenged the fumble ruling, and the play was REVERSED. R.Bullock kicks 67 yards from HOU 35 to CLE -2. M.Moore to CLE 23 for 25 yards (E.Pleasant).",0,3,0,HOU 35,0,HOU,KICKOFF
+17,3406,2,03:09,(3:09) (Shotgun) B.Hoyer pass incomplete deep middle to G.Barnidge (M.Mohamed).,16,3,4,CLE 27,0,CLE,
+16,3217,3,05:26,(5:26) (Shotgun) R.Mallett pass incomplete short left to A.Johnson (B.Skrine).,5,3,60,CLE 28,0,HOU,
+16,3119,2,06:27,(6:27) (No Huddle) R.Mallett pass short right to D.Hopkins ran ob at CLE 44 for 7 yards.,6,3,55,HOU 49,0,HOU,
+16,3243,4,05:21,"(5:21) (Field Goal formation) R.Bullock 46 yard field goal is GOOD, Center-J.Weeks, Holder-S.Lechler.",5,3,60,CLE 28,1,HOU,FG
+16,3032,1,07:56,(7:56) R.Mallett pass short right to D.Hopkins to HOU 27 for 15 yards (B.Skrine).,10,3,15,HOU 12,0,HOU,
+16,3143,1,06:17,(6:17) (No Huddle) J.Grimes right tackle to CLE 33 for 11 yards (C.Robertson).,10,3,55,CLE 44,0,HOU,
+16,3191,2,05:32,(5:32) R.Mallett pass incomplete deep right to D.Hopkins. CLE-J.Sheard was injured during the play. His return is Questionable.,5,3,60,CLE 28,0,HOU,
+16,3077,2,07:20,(7:20) (No Huddle) A.Blue right tackle to HOU 45 for 11 yards (C.Robertson).,3,3,33,HOU 34,0,HOU,
+16,3056,1,07:42,(7:42) (No Huddle) A.Blue right guard to HOU 34 for 7 yards (J.Sheard).,10,3,22,HOU 27,0,HOU,
+16,3170,1,05:54,(5:54) (No Huddle) J.Grimes right end to CLE 28 for 5 yards (B.Skrine). CLE-B.Winn was injured during the play. His return is Probable.,10,3,60,CLE 33,0,HOU,
+16,3098,1,06:58,(6:58) (No Huddle) A.Blue right tackle to HOU 49 for 4 yards (I.Kitchen; C.Kirksey).,10,3,37,HOU 45,0,HOU,
+19,3646,4,00:25,"(:25) (Punt formation) S.Lanning Aborted. C.Yount FUMBLES at HOU 43, recovered by CLE-S.Lanning at CLE 13. S.Lanning punts 22 yards to HOU 43, out of bounds.",17,3,-7,CLE 35,0,CLE,FUMBLE
+19,3591,2,00:42,"(:42) (Shotgun) B.Hoyer pass incomplete short right to M.Austin. Penalty on CLE-J.Greco, Ineligible Downfield Pass, declined.",17,3,-7,CLE 35,0,CLE,
+19,3624,3,00:36,(:36) (Shotgun) B.Hoyer pass incomplete deep left to G.Barnidge (A.Bouye).,17,3,-7,CLE 35,0,CLE,
+19,3572,1,01:24,(1:24) B.Hoyer right guard to CLE 35 for -7 yards (B.Reed).,10,3,-7,CLE 42,0,CLE,
+18,3475,1,02:50,(2:50) (Shotgun) R.Mallett pass short right to A.Johnson to HOU 32 for 6 yards (J.Haden).,10,3,6,HOU 26,0,HOU,
+18,3542,4,01:32,"(1:32) (Punt formation) S.Lechler punts 37 yards to CLE 35, Center-J.Weeks. T.Benjamin pushed ob at CLE 42 for 7 yards (J.Simon).",8,3,2,HOU 28,0,HOU,PUNT
+18,3520,3,01:36,(1:36) (Shotgun) R.Mallett pass incomplete short left to D.Hopkins (P.Kruger) [K.Williams].,8,3,2,HOU 28,0,HOU,
+18,3499,2,02:16,(2:16) A.Blue left tackle to HOU 28 for -4 yards (T.Gipson; B.Mingo).,4,3,2,HOU 32,0,HOU,

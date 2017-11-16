@@ -1,196 +1,196 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,994,4,02:17,,9,1,1,HOU 21,0,HOU,PUNT
-9,908,0,03:03,,0,1,0,MIA 35,0,MIA,KICKOFF
-9,928,1,03:03,,10,1,0,HOU 20,0,HOU,
-9,972,3,02:22,,9,1,1,HOU 21,0,HOU,
-9,951,2,02:59,,10,1,1,HOU 20,0,HOU,
-24,3402,0,01:45,,0,3,0,HOU 35,0,HOU,KICKOFF
-24,3510,0,,,0,3,-5,,0,,
-24,3550,4,14:16,,3,4,7,MIA 27,0,MIA,PUNT
-24,3421,1,01:45,,10,3,8,MIA 20,0,MIA,
-24,3526,3,15:00,,13,4,7,MIA 17,0,MIA,
-24,3447,2,01:04,,2,3,7,MIA 28,0,MIA,
-24,3474,3,00:35,,5,3,-3,MIA 25,0,MIA,PENALTY
-10,1124,1,15:00,,10,2,29,MIA 44,0,MIA,
-10,1107,0,,,0,1,27,,0,,
-10,1041,2,01:16,,2,1,14,MIA 25,0,MIA,
-10,1020,1,02:00,,10,1,8,MIA 17,0,MIA,
-10,1145,2,14:23,,8,2,83,MIA 46,1,MIA,TD
-10,1165,0,14:10,,0,2,83,HOU 15,1,MIA,XP
-10,1083,2,00:19,,7,1,27,MIA 34,0,MIA,
-10,1062,1,00:55,,10,1,17,MIA 31,0,MIA,
-20,2832,1,10:29,,10,3,-11,MIA 20,0,MIA,
-20,2852,2,09:53,,21,3,8,MIA 9,0,MIA,
-20,2873,3,09:27,,2,3,9,MIA 28,0,MIA,FUMBLE
-6,630,1,07:00,,10,1,50,HOU 50,1,MIA,TD
-6,673,0,06:45,,0,1,50,HOU 15,1,MIA,XP
-27,4090,1,07:41,,10,4,22,HOU 20,0,HOU,
-27,4272,1,05:37,,10,4,80,MIA 33,0,HOU,
-27,4198,3,06:35,,3,4,36,HOU 49,0,HOU,
-27,4180,0,06:35,,0,4,29,,0,,TIMEOUT
-27,4419,1,04:09,,5,4,80,MIA 5,0,HOU,
-27,4464,0,04:00,,0,4,80,MIA 2,0,HOU,2PPF
-27,4114,1,07:25,,10,4,27,HOU 42,0,HOU,PENALTY
-27,4159,2,07:08,,5,4,29,HOU 47,0,HOU,
-27,4137,1,07:25,,5,4,27,HOU 47,0,HOU,
-27,4369,2,04:54,,5,4,75,MIA 12,0,HOU,
-27,4348,1,05:28,,10,4,75,MIA 17,0,HOU,
-27,4075,0,07:41,,0,4,0,MIA 35,0,MIA,KICKOFF
-27,4395,3,04:48,,5,4,75,MIA 12,0,HOU,
-27,4444,2,04:04,,5,4,80,MIA 5,1,HOU,TD
-27,4251,2,06:02,,10,4,47,MIA 44,0,HOU,
-27,4222,1,06:08,,10,4,80,MIA 44,0,HOU,
-18,2631,4,13:07,,7,3,3,MIA 28,0,MIA,PUNT
-18,2610,3,13:47,,11,3,3,MIA 24,0,MIA,
-18,2568,1,14:54,,10,3,0,MIA 25,0,MIA,
-18,2589,2,14:22,,10,3,-1,MIA 25,0,MIA,
-18,2546,0,15:00,,0,3,0,HOU 35,0,HOU,KICKOFF
-28,4628,1,02:00,,10,4,33,HOU 11,0,MIA,
-28,4670,3,00:44,,11,4,32,HOU 12,0,MIA,
-28,4528,2,03:21,,2,4,24,HOU 37,0,MIA,
-28,4570,0,02:31,,0,4,20,,0,,TIMEOUT
-28,4611,0,02:00,,0,4,34,,0,,
-28,4587,2,02:31,,14,4,34,HOU 25,0,MIA,
-28,4691,0,00:00,,0,4,32,,0,,
-28,4549,1,02:40,,10,4,20,HOU 21,0,MIA,
-28,4649,2,01:39,,11,4,33,HOU 12,0,MIA,
-28,4478,0,04:00,,0,4,0,HOU 35,0,HOU,KICKOFF
-28,4503,1,03:58,,10,4,8,HOU 45,0,MIA,
-26,3851,1,11:27,,10,4,15,MIA 20,0,MIA,PENALTY
-26,3885,1,11:22,,10,4,17,MIA 35,0,MIA,
-26,4055,4,07:46,,6,4,45,HOU 35,1,MIA,FG
-26,3990,1,09:17,,10,4,42,HOU 39,0,MIA,
-26,3832,0,11:27,,0,4,0,HOU 35,0,HOU,KICKOFF
-26,4011,2,08:39,,9,4,45,HOU 38,0,MIA,
-26,4033,3,07:51,,6,4,45,HOU 35,0,MIA,
-26,3907,2,10:45,,8,4,45,MIA 37,0,MIA,PENALTY
-26,3942,2,10:21,,18,4,30,MIA 27,0,MIA,
-26,3966,1,09:54,,10,4,42,HOU 50,0,MIA,
-25,3578,1,14:04,,10,4,63,HOU 37,0,HOU,
-25,3795,1,11:36,,10,4,63,MIA 27,1,HOU,TD
-25,3749,2,12:12,,5,4,29,MIA 34,0,HOU,
-25,3632,1,13:31,,10,4,19,HOU 48,0,HOU,
-25,3677,1,12:33,,10,4,29,MIA 39,0,HOU,PENALTY
-25,3815,0,11:27,,0,4,63,MIA 15,1,HOU,XP
-25,3714,1,12:16,,5,4,63,MIA 34,0,HOU,
-25,3656,2,13:02,,2,4,63,MIA 44,0,HOU,
-25,3771,3,12:07,,5,4,36,MIA 34,0,HOU,
-25,3602,2,13:48,,5,4,63,HOU 42,0,HOU,
-1,128,4,14:04,,12,1,-2,HOU 40,0,HOU,PUNT
-1,106,3,14:09,,12,1,-2,HOU 40,0,HOU,
-1,63,1,14:54,,10,1,0,HOU 42,0,HOU,
-1,36,0,15:00,,0,1,0,MIA 35,0,MIA,KICKOFF
-1,85,2,14:49,,10,1,-2,HOU 42,0,HOU,
-5,588,3,07:15,,3,1,7,HOU 17,0,HOU,
-5,541,1,07:52,,10,1,0,HOU 10,0,HOU,
-5,563,2,07:49,,10,1,7,HOU 10,0,HOU,
-5,610,4,07:04,,3,1,7,HOU 17,0,HOU,PUNT
-13,1576,3,08:30,,13,2,33,HOU 47,0,MIA,
-13,1440,1,11:03,,10,2,20,MIA 39,0,MIA,
-13,1519,1,09:36,,10,2,35,HOU 44,0,MIA,
-13,1622,4,08:15,,7,2,33,HOU 41,0,MIA,PUNT
-13,1395,1,12:17,,10,2,1,MIA 26,0,MIA,
-13,1416,2,11:41,,9,2,13,MIA 27,0,MIA,
-13,1461,2,10:20,,3,2,25,MIA 46,0,MIA,
-13,1540,2,09:04,,5,2,27,HOU 39,0,MIA,
-13,1482,1,09:43,,10,2,30,HOU 49,0,MIA,PENALTY
-21,2906,1,09:12,,10,3,0,MIA 31,0,HOU,
-21,3003,0,08:13,,0,3,31,MIA 15,0,HOU,XPM
-21,2936,2,09:09,,10,3,21,MIA 31,0,HOU,
-21,2981,2,08:28,,7,3,31,MIA 7,1,HOU,TD
-21,2960,1,08:51,,10,3,24,MIA 10,0,HOU,
-23,3207,2,05:03,,1,3,82,MIA 50,0,HOU,
-23,3183,1,05:27,,10,3,32,HOU 41,0,HOU,
-23,3386,0,01:45,,0,3,82,MIA 15,1,HOU,XP
-23,3310,2,02:49,,7,3,82,MIA 7,0,HOU,
-23,3334,3,02:09,,4,3,82,MIA 4,0,HOU,PENALTY
-23,3288,1,03:14,,10,3,82,MIA 10,0,HOU,
-23,3357,3,01:51,,2,3,82,MIA 2,1,HOU,TD
-23,3231,1,04:34,,10,3,75,MIA 24,0,HOU,FUMBLE
-23,3266,2,03:56,,1,3,82,MIA 15,0,HOU,
-23,3154,1,05:41,,10,3,23,HOU 18,0,HOU,
-11,1181,0,14:10,,0,2,0,MIA 35,0,MIA,KICKOFF
-11,1200,1,14:10,,10,2,0,HOU 20,0,HOU,
-11,1227,2,14:03,,10,2,0,HOU 20,1,HOU,TD
-14,1912,1,04:23,,10,2,59,MIA 16,0,HOU,
-14,1845,1,05:39,,10,2,42,MIA 33,0,HOU,
-14,1934,2,04:17,,10,2,59,MIA 16,0,HOU,
-14,1823,2,06:02,,10,2,42,MIA 44,0,HOU,
-14,1722,2,07:10,,10,2,20,HOU 35,0,HOU,
-14,2024,0,03:33,,0,2,66,,0,,TIMEOUT
-14,1677,2,07:59,,10,2,66,HOU 25,0,HOU,
-14,1867,2,05:35,,10,2,44,MIA 33,0,HOU,
-14,1801,1,06:10,,10,2,31,MIA 44,0,HOU,
-14,1888,3,04:58,,8,2,59,MIA 31,0,HOU,
-14,1655,1,08:06,,10,2,0,HOU 25,0,HOU,
-14,1777,2,06:41,,7,2,66,HOU 48,0,HOU,
-14,1956,3,04:13,,10,2,64,MIA 16,0,HOU,PENALTY
-14,1756,1,07:10,,10,2,66,HOU 45,0,HOU,
-14,1986,3,03:56,,5,2,66,MIA 11,0,HOU,
-14,2041,4,03:33,,3,2,66,MIA 9,0,HOU,
-14,2007,0,03:33,,0,2,66,,0,,TIMEOUT
-14,1701,1,07:44,,10,2,10,HOU 35,0,HOU,
-8,807,1,05:10,,10,1,29,HOU 45,0,MIA,
-8,850,2,03:52,,7,1,35,HOU 13,0,MIA,
-8,892,0,03:03,,0,1,45,HOU 15,1,MIA,XP
-8,828,1,04:31,,10,1,32,HOU 16,0,MIA,
-8,871,3,03:11,,4,1,45,HOU 10,1,MIA,TD
-19,2744,2,10:48,,9,3,15,HOU 39,0,HOU,
-19,2657,1,12:56,,10,3,4,HOU 24,0,HOU,
-19,2678,2,12:31,,6,3,5,HOU 28,0,HOU,
-19,2723,1,11:28,,10,3,15,HOU 38,0,HOU,
-19,2805,4,10:38,,9,3,15,HOU 39,0,HOU,PUNT
-19,2766,0,10:42,,0,3,15,,0,,TIMEOUT
-19,2783,3,10:42,,9,3,15,HOU 39,0,HOU,
-19,2699,3,11:57,,5,3,14,HOU 29,0,HOU,
-22,3135,4,05:48,,15,3,10,MIA 35,0,MIA,PUNT
-22,3020,0,08:13,,0,3,0,HOU 35,0,HOU,KICKOFF
-22,3103,3,06:14,,19,3,10,MIA 31,0,MIA,
-22,3063,1,07:28,,10,3,15,MIA 40,0,MIA,
-22,3084,2,06:54,,10,3,6,MIA 40,0,MIA,
-22,3042,1,08:07,,10,3,10,MIA 25,0,MIA,
-12,1346,3,12:34,,7,2,3,HOU 26,0,HOU,
-12,1267,0,13:56,,0,2,0,MIA 35,0,MIA,KICKOFF
-12,1368,4,12:26,,7,2,3,HOU 26,0,HOU,PUNT
-12,1289,1,13:51,,10,2,4,HOU 23,0,HOU,
-12,1310,2,13:21,,6,2,3,HOU 27,0,HOU,FUMBLE
-16,2331,4,01:24,,31,2,-4,HOU 19,0,HOU,PENALTY
-16,2202,0,02:00,,0,2,22,,0,,
-16,2249,2,01:45,,17,2,7,HOU 33,0,HOU,
-16,2285,3,01:31,,25,2,-4,HOU 25,0,HOU,FUMBLE
-16,2381,4,01:16,,36,2,-4,HOU 14,0,HOU,PUNT
-16,2219,1,02:00,,10,2,15,HOU 40,0,HOU,
-16,2152,1,02:33,,10,2,22,HOU 18,0,HOU,
-16,2268,0,01:31,,0,2,7,,0,,TIMEOUT
-16,2173,1,02:14,,10,2,22,HOU 29,0,HOU,
-16,2314,0,01:24,,0,2,1,,0,,TIMEOUT
-16,2128,0,02:47,,0,2,0,MIA 35,0,MIA,KICKOFF
-7,748,3,05:27,,13,1,-3,HOU 17,0,HOU,
-7,781,4,05:20,,13,1,-3,HOU 17,0,HOU,PUNT
-7,727,2,06:09,,10,1,-3,HOU 20,0,HOU,
-7,705,1,06:45,,10,1,0,HOU 20,0,HOU,
-7,689,0,06:45,,0,1,0,MIA 35,0,MIA,KICKOFF
-3,326,0,10:57,,0,1,0,MIA 35,0,MIA,KICKOFF
-3,399,3,09:49,,13,1,-3,HOU 17,0,HOU,
-3,345,1,10:57,,10,1,2,HOU 20,0,HOU,
-3,421,4,09:38,,13,1,-3,HOU 17,0,HOU,PUNT
-3,367,2,10:20,,8,1,-3,HOU 22,0,HOU,
-17,2498,2,00:14,,23,2,-2,MIA 25,0,MIA,
-17,2418,1,01:03,,10,2,12,MIA 26,0,MIA,
-17,2519,0,,,0,2,-2,,0,,
-17,2479,1,00:50,,10,2,-2,MIA 38,0,MIA,
-17,2442,1,00:56,,10,2,-2,MIA 38,0,MIA,
-4,441,1,09:34,,10,1,9,MIA 28,0,MIA,
-4,463,2,08:57,,10,1,9,MIA 28,0,MIA,
-4,517,4,08:03,,1,1,9,MIA 37,0,MIA,PUNT
-4,491,3,08:31,,1,1,9,MIA 37,0,MIA,
-2,178,2,13:16,,9,1,10,MIA 13,0,MIA,
-2,310,0,10:57,,0,1,88,HOU 15,1,MIA,XP
-2,229,1,12:07,,10,1,28,MIA 35,0,MIA,
-2,154,1,13:51,,10,1,1,MIA 12,0,MIA,
-2,290,1,11:06,,10,1,88,MIA 47,1,MIA,TD
-2,207,1,12:44,,10,1,23,MIA 22,0,MIA,
-2,253,2,11:39,,5,1,88,MIA 40,0,MIA,
-15,2064,1,03:30,,10,2,6,MIA 9,0,MIA,
-15,2085,2,03:02,,4,2,91,MIA 15,1,MIA,TD
-15,2112,0,02:47,,0,2,91,HOU 15,0,MIA,XPM
+24,3474,3,00:35,"(:35) (Shotgun) R.Tannehill pass short right to D.Williams to MIA 27 for 2 yards (R.Moore). PENALTY on MIA-J.James, Offensive Holding, 10 yards, enforced at MIA 27.",5,3,-3,MIA 25,0,MIA,PENALTY
+24,3550,4,14:16,"(14:16) (Punt formation) M.Darr punts 50 yards to HOU 23, Center-J.Denney. K.Mumphery to HOU 37 for 14 yards (N.Hewitt; M.Thomas).",3,4,7,MIA 27,0,MIA,PUNT
+24,3421,1,01:45,(1:45) (Shotgun) R.Tannehill pass short middle to D.Williams to MIA 28 for 8 yards (J.Clowney) [J.Watt].,10,3,8,MIA 20,0,MIA,
+24,3510,0,,END QUARTER 3,0,3,-5,,0,,
+24,3526,3,15:00,(15:00) (Shotgun) R.Tannehill pass short right to J.Gray to MIA 27 for 10 yards (J.Simon; J.Rolle).,13,4,7,MIA 17,0,MIA,
+24,3402,0,01:45,"N.Novak kicks 65 yards from HOU 35 to end zone, Touchback.",0,3,0,HOU 35,0,HOU,KICKOFF
+24,3447,2,01:04,(1:04) (Shotgun) R.Tannehill pass short left to D.Sims to MIA 25 for -3 yards (M.Bullough). HOU-V.Wilfork was injured during the play. His return is Probable.,2,3,7,MIA 28,0,MIA,
+25,3602,2,13:48,"(13:48) (No Huddle, Shotgun) B.Hoyer pass short left to C.Polk to HOU 48 for 6 yards (Z.Vigil).",5,4,63,HOU 42,0,HOU,
+25,3771,3,12:07,(12:07) (Shotgun) B.Hoyer pass short left to N.Washington to MIA 27 for 7 yards (J.Taylor).,5,4,36,MIA 34,0,HOU,
+25,3578,1,14:04,(14:04) (Shotgun) B.Hoyer pass short right to A.Foster pushed ob at HOU 42 for 5 yards (Bo.McCain).,10,4,63,HOU 37,0,HOU,
+25,3714,1,12:16,(12:16) B.Hoyer pass incomplete short right to G.Graham.,5,4,63,MIA 34,0,HOU,
+25,3795,1,11:36,"(11:36) (No Huddle) B.Hoyer pass short left to N.Washington for 27 yards, TOUCHDOWN.",10,4,63,MIA 27,1,HOU,TD
+25,3749,2,12:12,"(12:12) (No Huddle, Shotgun) B.Hoyer pass incomplete short right to N.Washington.",5,4,29,MIA 34,0,HOU,
+25,3632,1,13:31,"(13:31) (No Huddle, Shotgun) B.Hoyer pass short middle to C.Polk to MIA 44 for 8 yards (M.Thomas).",10,4,19,HOU 48,0,HOU,
+25,3815,0,11:27,"N.Novak extra point is GOOD, Center-J.Weeks, Holder-S.Lechler.",0,4,63,MIA 15,1,HOU,XP
+25,3656,2,13:02,(13:02) (No Huddle) C.Polk up the middle to MIA 39 for 5 yards (J.Phillips).,2,4,63,MIA 44,0,HOU,
+25,3677,1,12:33,"(12:33) (No Huddle, Shotgun) B.Hoyer pass deep middle intended for D.Hopkins INTERCEPTED by M.Thomas at MIA 15. M.Thomas ran ob at HOU 49 for 36 yards. PENALTY on MIA-D.Shelby, Defensive Offside, 5 yards, enforced at MIA 39 - No Play.",10,4,29,MIA 39,0,HOU,PENALTY
+26,3885,1,11:22,(11:22) (Shotgun) J.Gray right end to MIA 37 for 2 yards (J.Rolle; M.Bullough).,10,4,17,MIA 35,0,MIA,
+26,4055,4,07:46,"(7:46) (Field Goal formation) A.Franks 53 yard field goal is GOOD, Center-J.Denney, Holder-M.Darr.",6,4,45,HOU 35,1,MIA,FG
+26,3907,2,10:45,"(10:45) R.Tannehill pass short left to G.Jennings to MIA 42 for 5 yards (E.Pleasant). PENALTY on MIA-D.Sims, Offensive Holding, 10 yards, enforced at MIA 37 - No Play.",8,4,45,MIA 37,0,MIA,PENALTY
+26,3832,0,11:27,"N.Novak kicks 65 yards from HOU 35 to end zone, Touchback.",0,4,0,HOU 35,0,HOU,KICKOFF
+26,3942,2,10:21,(10:21) (Shotgun) R.Tannehill pass short right to G.Jennings to HOU 50 for 23 yards (C.James).,18,4,30,MIA 27,0,MIA,
+26,3966,1,09:54,(9:54) (Shotgun) R.Tannehill pass short right to J.Cameron ran ob at HOU 39 for 11 yards [J.Watt].,10,4,42,HOU 50,0,MIA,
+26,4033,3,07:51,(7:51) (Shotgun) R.Tannehill pass incomplete short right to D.Sims.,6,4,45,HOU 35,0,MIA,
+26,3851,1,11:27,"(11:27) R.Tannehill pass incomplete deep left to J.Cameron (D.Morris). PENALTY on HOU-J.Clowney, Roughing the Passer, 15 yards, enforced at MIA 20 - No Play.",10,4,15,MIA 20,0,MIA,PENALTY
+26,4011,2,08:39,(8:39) (Shotgun) J.Gray left guard to HOU 35 for 3 yards (K.Johnson).,9,4,45,HOU 38,0,MIA,
+26,3990,1,09:17,(9:17) (Shotgun) J.Gray left guard to HOU 38 for 1 yard (J.Clowney).,10,4,42,HOU 39,0,MIA,
+27,4272,1,05:37,"(5:37) (No Huddle) B.Hoyer pass deep right to K.Mumphery to MIA 17 for 16 yards. Penalty on MIA-N.Suh, Defensive Offside, declined.",10,4,80,MIA 33,0,HOU,
+27,4090,1,07:41,(7:41) B.Hoyer pass deep left to N.Washington to HOU 42 for 22 yards (J.Taylor).,10,4,22,HOU 20,0,HOU,
+27,4419,1,04:09,(4:09) (Shotgun) B.Hoyer pass incomplete short right to N.Washington. HOU-A.Foster was injured during the play. He is Out.,5,4,80,MIA 5,0,HOU,
+27,4198,3,06:35,(6:35) (Shotgun) B.Hoyer pass short right to D.Hopkins to MIA 44 for 7 yards (B.Grimes).,3,4,36,HOU 49,0,HOU,
+27,4075,0,07:41,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback.",0,4,0,MIA 35,0,MIA,KICKOFF
+27,4180,0,06:35,Timeout #2 by HOU at 06:35.,0,4,29,,0,,TIMEOUT
+27,4159,2,07:08,"(7:08) (No Huddle, Shotgun) A.Blue right guard to HOU 49 for 2 yards (N.Suh).",5,4,29,HOU 47,0,HOU,
+27,4369,2,04:54,"(4:54) (No Huddle, Shotgun) B.Hoyer pass incomplete short middle to N.Washington.",5,4,75,MIA 12,0,HOU,
+27,4395,3,04:48,(4:48) (Shotgun) B.Hoyer pass short middle to D.Hopkins to MIA 5 for 7 yards (R.Jones).,5,4,75,MIA 12,0,HOU,
+27,4137,1,07:25,(7:25) B.Hoyer pass incomplete short right to N.Washington (N.Suh).,5,4,27,HOU 47,0,HOU,
+27,4251,2,06:02,(6:02) (Shotgun) A.Foster up the middle to MIA 33 for 11 yards (N.Hewitt).,10,4,47,MIA 44,0,HOU,
+27,4114,1,07:25,"(7:25) (No Huddle, Shotgun) PENALTY on MIA-N.Suh, Neutral Zone Infraction, 5 yards, enforced at HOU 42 - No Play.",10,4,27,HOU 42,0,HOU,PENALTY
+27,4444,2,04:04,"(4:04) (Shotgun) B.Hoyer pass short right to N.Washington for 5 yards, TOUCHDOWN.",5,4,80,MIA 5,1,HOU,TD
+27,4348,1,05:28,(5:28) A.Foster up the middle to MIA 12 for 5 yards (C.Mosley).,10,4,75,MIA 17,0,HOU,
+27,4464,0,04:00,TWO-POINT CONVERSION ATTEMPT. B.Hoyer pass to J.Grimes is incomplete. ATTEMPT FAILS.,0,4,80,MIA 2,0,HOU,2PPF
+27,4222,1,06:08,"(6:08) (No Huddle, Shotgun) B.Hoyer pass incomplete short right to A.Foster.",10,4,80,MIA 44,0,HOU,
+20,2873,3,09:27,"(9:27) (No Huddle, Shotgun) D.Williams right guard to MIA 29 for 1 yard (J.Crick). FUMBLES (J.Crick), RECOVERED by HOU-J.Joseph at MIA 31. J.Joseph to MIA 31 for no gain (D.Parker).",2,3,9,MIA 28,0,MIA,FUMBLE
+20,2852,2,09:53,(9:53) (Shotgun) D.Williams left end ran ob at MIA 28 for 19 yards (J.Joseph).,21,3,8,MIA 9,0,MIA,
+20,2832,1,10:29,(10:29) (Shotgun) R.Tannehill sacked at MIA 9 for -11 yards (J.Watt).,10,3,-11,MIA 20,0,MIA,
+21,2936,2,09:09,(9:09) (Shotgun) B.Hoyer pass deep left to A.Foster to MIA 10 for 21 yards (K.Sheppard).,10,3,21,MIA 31,0,HOU,
+21,2981,2,08:28,"(8:28) (Shotgun) B.Hoyer pass short left to A.Foster for 7 yards, TOUCHDOWN.",7,3,31,MIA 7,1,HOU,TD
+21,2906,1,09:12,(9:12) (Shotgun) B.Hoyer pass incomplete short right to N.Washington.,10,3,0,MIA 31,0,HOU,
+21,3003,0,08:13,"N.Novak extra point is No Good, Wide Right, Center-J.Weeks, Holder-S.Lechler.",0,3,31,MIA 15,0,HOU,XPM
+21,2960,1,08:51,(8:51) (No Huddle) A.Foster left guard to MIA 7 for 3 yards (D.Shelby).,10,3,24,MIA 10,0,HOU,
+22,3135,4,05:48,"(5:48) (Punt formation) M.Darr punts 47 yards to HOU 18, Center-J.Denney, out of bounds.",15,3,10,MIA 35,0,MIA,PUNT
+22,3020,0,08:13,N.Novak kicks 74 yards from HOU 35 to MIA -9. D.Williams to MIA 25 for 34 yards (E.Pleasant).,0,3,0,HOU 35,0,HOU,KICKOFF
+22,3103,3,06:14,"(6:14) (Shotgun) J.Gray up the middle to MIA 35 for 4 yards (J.Clowney). Penalty on MIA-M.Pouncey, Offensive Holding, declined.",19,3,10,MIA 31,0,MIA,
+22,3063,1,07:28,(7:28) J.Gray up the middle to MIA 40 for no gain (J.Watt).,10,3,15,MIA 40,0,MIA,
+22,3084,2,06:54,(6:54) R.Tannehill sacked at MIA 31 for -9 yards (J.Watt).,10,3,6,MIA 40,0,MIA,
+22,3042,1,08:07,(8:07) (Shotgun) J.Gray right end to MIA 40 for 15 yards (J.Tuggle).,10,3,10,MIA 25,0,MIA,
+23,3207,2,05:03,"(5:03) (No Huddle, Shotgun) B.Hoyer pass short middle to A.Foster to MIA 24 for 26 yards (B.Grimes; J.Taylor).",1,3,82,MIA 50,0,HOU,
+23,3386,0,01:45,"N.Novak extra point is GOOD, Center-J.Weeks, Holder-S.Lechler.",0,3,82,MIA 15,1,HOU,XP
+23,3231,1,04:34,"(4:34) (No Huddle, Shotgun) B.Hoyer pass short middle to D.Hopkins to MIA 17 for 7 yards (J.Jenkins). FUMBLES (J.Jenkins), recovered by HOU-G.Graham at MIA 15. G.Graham to MIA 15 for no gain (B.Grimes).",10,3,75,MIA 24,0,HOU,FUMBLE
+23,3183,1,05:27,"(5:27) (No Huddle, Shotgun) B.Hoyer pass short middle to N.Washington to MIA 50 for 9 yards (K.Sheppard).",10,3,32,HOU 41,0,HOU,
+23,3266,2,03:56,(3:56) (Shotgun) A.Foster left guard to MIA 10 for 5 yards (M.Thomas).,1,3,82,MIA 15,0,HOU,
+23,3357,3,01:51,"(1:51) (Shotgun) A.Foster up the middle for 2 yards, TOUCHDOWN. Penalty on MIA-O.Vernon, Defensive Offside, declined.",2,3,82,MIA 2,1,HOU,TD
+23,3154,1,05:41,(5:41) B.Hoyer pass deep left to N.Washington ran ob at HOU 41 for 23 yards (J.Taylor).,10,3,23,HOU 18,0,HOU,
+23,3288,1,03:14,(3:14) (No Huddle) A.Blue right guard to MIA 7 for 3 yards (M.Thomas).,10,3,82,MIA 10,0,HOU,
+23,3310,2,02:49,(2:49) (No Huddle) A.Blue right guard to MIA 4 for 3 yards (K.Misi).,7,3,82,MIA 7,0,HOU,
+23,3334,3,02:09,"(2:09) PENALTY on MIA-N.Suh, Neutral Zone Infraction, 2 yards, enforced at MIA 4 - No Play.",4,3,82,MIA 4,0,HOU,PENALTY
+28,4691,0,00:00,END GAME,0,4,32,,0,,
+28,4570,0,02:31,Timeout #3 by HOU at 02:31.,0,4,20,,0,,TIMEOUT
+28,4649,2,01:39,(1:39) M.Moore kneels to HOU 12 for no gain.,11,4,33,HOU 12,0,MIA,
+28,4528,2,03:21,(3:21) J.Gray left end to HOU 21 for 16 yards (J.Clowney).,2,4,24,HOU 37,0,MIA,
+28,4628,1,02:00,(2:00) M.Moore kneels to HOU 12 for -1 yards.,10,4,33,HOU 11,0,MIA,
+28,4670,3,00:44,(:44) M.Moore kneels to HOU 13 for -1 yards.,11,4,32,HOU 12,0,MIA,
+28,4549,1,02:40,(2:40) J.Gray up the middle to HOU 25 for -4 yards (J.Watt).,10,4,20,HOU 21,0,MIA,
+28,4478,0,04:00,(Onside Kick formation) N.Novak kicks onside 10 yards from HOU 35 to HOU 45. M.Thomas (didn't try to advance) to HOU 45 for no gain (N.Novak). MIA-D.Williams was injured during the play. His return is Probable.,0,4,0,HOU 35,0,HOU,KICKOFF
+28,4503,1,03:58,"(3:58) New QB #8 Moore, Nat. J.Gray left guard to HOU 37 for 8 yards (B.Cushing).",10,4,8,HOU 45,0,MIA,
+28,4611,0,02:00,Two-Minute Warning,0,4,34,,0,,
+28,4587,2,02:31,(2:31) M.Moore pass short left to G.Jennings to HOU 11 for 14 yards (W.Mercilus; D.Morris).,14,4,34,HOU 25,0,MIA,
+1,128,4,14:04,"(14:04) (Punt formation) S.Lechler punts 55 yards to MIA 5, Center-J.Weeks. J.Landry to MIA 12 for 7 yards (A.Dent).",12,1,-2,HOU 40,0,HOU,PUNT
+1,63,1,14:54,(14:54) B.Hoyer pass incomplete deep right to D.Hopkins.,10,1,0,HOU 42,0,HOU,
+1,106,3,14:09,(14:09) (Shotgun) B.Hoyer pass incomplete short right to N.Washington (C.Wake).,12,1,-2,HOU 40,0,HOU,
+1,36,0,15:00,A.Franks kicks 64 yards from MIA 35 to HOU 1. K.Mumphery ran ob at HOU 42 for 41 yards (Z.Vigil).,0,1,0,MIA 35,0,MIA,KICKOFF
+1,85,2,14:49,(14:49) A.Foster left tackle to HOU 40 for -2 yards (J.Jenkins).,10,1,-2,HOU 42,0,HOU,
+3,421,4,09:38,"(9:38) (Punt formation) S.Lechler punts 55 yards to MIA 28, Center-J.Weeks, fair catch by J.Landry.",13,1,-3,HOU 17,0,HOU,PUNT
+3,345,1,10:57,(10:57) A.Foster right end to HOU 22 for 2 yards (M.Thomas).,10,1,2,HOU 20,0,HOU,
+3,399,3,09:49,(9:49) (Shotgun) B.Hoyer pass incomplete short right to J.Strong (J.Taylor).,13,1,-3,HOU 17,0,HOU,
+3,326,0,10:57,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback.",0,1,0,MIA 35,0,MIA,KICKOFF
+3,367,2,10:20,(10:20) A.Foster right tackle pushed ob at HOU 17 for -5 yards (K.Misi).,8,1,-3,HOU 22,0,HOU,
+2,154,1,13:51,(13:51) (Shotgun) R.Tannehill pass short right to L.Miller to MIA 13 for 1 yard (B.Cushing).,10,1,1,MIA 12,0,MIA,
+2,207,1,12:44,(12:44) L.Miller up the middle to MIA 35 for 13 yards (J.Clowney; R.Moore).,10,1,23,MIA 22,0,MIA,
+2,310,0,10:57,"A.Franks extra point is GOOD, Center-J.Denney, Holder-M.Darr.",0,1,88,HOU 15,1,MIA,XP
+2,229,1,12:07,(12:07) (Shotgun) R.Tannehill pass short right to J.Landry to MIA 40 for 5 yards (A.Hal).,10,1,28,MIA 35,0,MIA,
+2,178,2,13:16,(13:16) (Shotgun) R.Tannehill pass short left to J.Landry ran ob at MIA 22 for 9 yards (A.Hal).,9,1,10,MIA 13,0,MIA,
+2,253,2,11:39,"(11:39) (Shotgun) L.Miller left tackle ran ob at MIA 47 for 7 yards (A.Bouye). Penalty on HOU-J.Clowney, Defensive Offside, declined.",5,1,88,MIA 40,0,MIA,
+2,290,1,11:06,"(11:06) (Shotgun) R.Tannehill pass short left to R.Matthews for 53 yards, TOUCHDOWN.",10,1,88,MIA 47,1,MIA,TD
+5,563,2,07:49,(7:49) (Shotgun) B.Hoyer pass short middle to A.Foster to HOU 17 for 7 yards (K.Misi).,10,1,7,HOU 10,0,HOU,
+5,541,1,07:52,(7:52) (Shotgun) B.Hoyer pass incomplete short left to D.Hopkins (B.Grimes).,10,1,0,HOU 10,0,HOU,
+5,610,4,07:04,"(7:04) (Punt formation) S.Lechler punts 33 yards to HOU 50, Center-J.Weeks, downed by HOU-J.Prosch.",3,1,7,HOU 17,0,HOU,PUNT
+5,588,3,07:15,(7:15) (Shotgun) B.Hoyer pass incomplete deep left to D.Hopkins.,3,1,7,HOU 17,0,HOU,
+4,517,4,08:03,"(8:03) (Punt formation) M.Darr punts 53 yards to HOU 10, Center-J.Denney, downed by MIA-Bo.McCain.",1,1,9,MIA 37,0,MIA,PUNT
+4,441,1,09:34,(9:34) (Shotgun) L.Miller right tackle to MIA 28 for no gain (J.Crick; J.Watt).,10,1,9,MIA 28,0,MIA,
+4,491,3,08:31,(8:31) (Shotgun) J.Gray right tackle to MIA 37 for no gain (B.Cushing).,1,1,9,MIA 37,0,MIA,
+4,463,2,08:57,(8:57) R.Tannehill pass short left to J.Landry pushed ob at MIA 37 for 9 yards (J.Tuggle).,10,1,9,MIA 28,0,MIA,
+7,748,3,05:27,"(5:27) (Shotgun) B.Hoyer pass incomplete short right to K.Mumphery. Penalty on HOU-C.Clark, Illegal Use of Hands, declined.",13,1,-3,HOU 17,0,HOU,
+7,705,1,06:45,(6:45) C.Polk right tackle to HOU 20 for no gain (T.Fede).,10,1,0,HOU 20,0,HOU,
+7,689,0,06:45,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback.",0,1,0,MIA 35,0,MIA,KICKOFF
+7,781,4,05:20,"(5:20) (Punt formation) S.Lechler punts 35 yards to MIA 48, Center-J.Weeks. J.Landry to HOU 45 for 7 yards (J.Weeks).",13,1,-3,HOU 17,0,HOU,PUNT
+7,727,2,06:09,(6:09) (Shotgun) C.Polk up the middle to HOU 17 for -3 yards (N.Suh).,10,1,-3,HOU 20,0,HOU,
+6,630,1,07:00,"(7:00) R.Tannehill pass short left to J.Landry for 50 yards, TOUCHDOWN. The Replay Official reviewed the runner was in bounds ruling, and the play was Upheld. The ruling on the field was confirmed.",10,1,50,HOU 50,1,MIA,TD
+6,673,0,06:45,"A.Franks extra point is GOOD, Center-J.Denney, Holder-M.Darr.",0,1,50,HOU 15,1,MIA,XP
+9,928,1,03:03,(3:03) (Shotgun) B.Hoyer pass incomplete short right to A.Foster.,10,1,0,HOU 20,0,HOU,
+9,951,2,02:59,(2:59) A.Foster right guard to HOU 21 for 1 yard (E.Mitchell).,10,1,1,HOU 20,0,HOU,
+9,908,0,03:03,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback.",0,1,0,MIA 35,0,MIA,KICKOFF
+9,972,3,02:22,(2:22) (Shotgun) B.Hoyer pass incomplete short middle to G.Graham.,9,1,1,HOU 21,0,HOU,
+9,994,4,02:17,"(2:17) (Punt formation) S.Lechler punts 54 yards to MIA 25, Center-J.Weeks. J.Landry to MIA 17 for -8 yards (B.Peters; C.James).",9,1,1,HOU 21,0,HOU,PUNT
+8,850,2,03:52,(3:52) (Shotgun) L.Miller left guard to HOU 10 for 3 yards (J.Tuggle).,7,1,35,HOU 13,0,MIA,
+8,892,0,03:03,"A.Franks extra point is GOOD, Center-J.Denney, Holder-M.Darr.",0,1,45,HOU 15,1,MIA,XP
+8,807,1,05:10,(5:10) L.Miller right guard to HOU 16 for 29 yards (J.Joseph).,10,1,29,HOU 45,0,MIA,
+8,828,1,04:31,(4:31) (Shotgun) L.Miller right guard to HOU 13 for 3 yards (J.Crick).,10,1,32,HOU 16,0,MIA,
+8,871,3,03:11,"(3:11) (Shotgun) R.Tannehill pass short right to J.Landry for 10 yards, TOUCHDOWN.",4,1,45,HOU 10,1,MIA,TD
+11,1227,2,14:03,"(14:03) (Shotgun) B.Hoyer pass short left intended for C.Fiedorowicz INTERCEPTED by R.Jones at HOU 23. R.Jones for 23 yards, TOUCHDOWN.",10,2,0,HOU 20,1,HOU,TD
+11,1200,1,14:10,(14:10) B.Hoyer pass incomplete short right to C.Fiedorowicz [D.Shelby].,10,2,0,HOU 20,0,HOU,
+11,1181,0,14:10,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback.",0,2,0,MIA 35,0,MIA,KICKOFF
+10,1165,0,14:10,"A.Franks extra point is GOOD, Center-J.Denney, Holder-M.Darr.",0,2,83,HOU 15,1,MIA,XP
+10,1041,2,01:16,(1:16) (Shotgun) L.Miller up the middle to MIA 31 for 6 yards (W.Mercilus).,2,1,14,MIA 25,0,MIA,
+10,1083,2,00:19,(:19) (Shotgun) R.Tannehill pass short right to R.Matthews to MIA 44 for 10 yards (J.Joseph).,7,1,27,MIA 34,0,MIA,
+10,1020,1,02:00,(2:00) (Shotgun) L.Miller left end to MIA 25 for 8 yards (K.Johnson).,10,1,8,MIA 17,0,MIA,
+10,1145,2,14:23,"(14:23) R.Tannehill pass short left to L.Miller for 54 yards, TOUCHDOWN.",8,2,83,MIA 46,1,MIA,TD
+10,1062,1,00:55,"(:55) (No Huddle, Shotgun) R.Tannehill scrambles up the middle to MIA 34 for 3 yards (B.Dunn).",10,1,17,MIA 31,0,MIA,
+10,1124,1,15:00,(15:00) L.Miller right guard to MIA 46 for 2 yards (J.Clowney).,10,2,29,MIA 44,0,MIA,
+10,1107,0,,END QUARTER 1,0,1,27,,0,,
+13,1622,4,08:15,"(8:15) (Punt formation) M.Darr punts 41 yards to end zone, Center-J.Denney, Touchback. PENALTY on MIA, Illegal Formation, 5 yards, enforced at HOU 20.",7,2,33,HOU 41,0,MIA,PUNT
+13,1540,2,09:04,"(9:04) R.Tannehill sacked at HOU 47 for -8 yards (J.Simon). Penalty on MIA, Illegal Shift, declined.",5,2,27,HOU 39,0,MIA,
+13,1482,1,09:43,"(9:43) R.Tannehill pass incomplete short left. PENALTY on HOU-A.Hal, Illegal Contact, 5 yards, enforced at HOU 49 - No Play.",10,2,30,HOU 49,0,MIA,PENALTY
+13,1519,1,09:36,(9:36) (Shotgun) L.Miller right end pushed ob at HOU 39 for 5 yards (A.Dent).,10,2,35,HOU 44,0,MIA,
+13,1440,1,11:03,(11:03) (Shotgun) L.Miller up the middle to MIA 46 for 7 yards (J.Simon).,10,2,20,MIA 39,0,MIA,
+13,1395,1,12:17,(12:17) (Shotgun) L.Miller right tackle to MIA 27 for 1 yard (J.Watt).,10,2,1,MIA 26,0,MIA,
+13,1461,2,10:20,(10:20) (Shotgun) J.Landry right end to HOU 49 for 5 yards (J.Simon).,3,2,25,MIA 46,0,MIA,
+13,1576,3,08:30,(8:30) (Shotgun) R.Tannehill pass short right to L.Miller to HOU 41 for 6 yards (J.Joseph).,13,2,33,HOU 47,0,MIA,
+13,1416,2,11:41,(11:41) (Shotgun) R.Tannehill pass short middle to R.Matthews to MIA 39 for 12 yards (J.Simon).,9,2,13,MIA 27,0,MIA,
+12,1289,1,13:51,(13:51) A.Foster right guard to HOU 27 for 4 yards (J.Taylor).,10,2,4,HOU 23,0,HOU,
+12,1267,0,13:56,A.Franks kicks 67 yards from MIA 35 to HOU -2. K.Mumphery to HOU 23 for 25 yards (Bo.McCain).,0,2,0,MIA 35,0,MIA,KICKOFF
+12,1368,4,12:26,"(12:26) (Punt formation) S.Lechler punts 52 yards to MIA 22, Center-J.Weeks. J.Landry to MIA 26 for 4 yards (C.James).",7,2,3,HOU 26,0,HOU,PUNT
+12,1346,3,12:34,(12:34) B.Hoyer pass incomplete short left to N.Washington.,7,2,3,HOU 26,0,HOU,
+12,1310,2,13:21,"(13:21) (Shotgun) B.Hoyer sacked at HOU 21 for -6 yards (C.Wake). FUMBLES (C.Wake), and recovers at HOU 26. B.Hoyer to HOU 26 for no gain (R.Jones).",6,2,3,HOU 27,0,HOU,FUMBLE
+15,2112,0,02:47,"A.Franks extra point is No Good, Wide Left, Center-J.Denney, Holder-M.Darr.",0,2,91,HOU 15,0,MIA,XPM
+15,2064,1,03:30,(3:30) (Shotgun) L.Miller up the middle to MIA 15 for 6 yards (J.Crick). HOU-J.Watt was injured during the play. His return is Probable.,10,2,6,MIA 9,0,MIA,
+15,2085,2,03:02,"(3:02) L.Miller right tackle for 85 yards, TOUCHDOWN.",4,2,91,MIA 15,1,MIA,TD
+14,1986,3,03:56,(3:56) (Shotgun) A.Foster left guard to MIA 9 for 2 yards (N.Suh; C.Mosley).,5,2,66,MIA 11,0,HOU,
+14,1701,1,07:44,(7:44) (No Huddle) A.Foster right guard to HOU 35 for no gain (N.Suh).,10,2,10,HOU 35,0,HOU,
+14,1777,2,06:41,"(6:41) (No Huddle, Shotgun) B.Hoyer pass short left to D.Hopkins to MIA 44 for 8 yards (R.Jones).",7,2,66,HOU 48,0,HOU,
+14,1912,1,04:23,(4:23) (No Huddle) B.Hoyer pass incomplete short middle to G.Graham (Bo.McCain).,10,2,59,MIA 16,0,HOU,
+14,1801,1,06:10,"(6:10) (No Huddle, Shotgun) B.Hoyer pass incomplete short left to C.Polk.",10,2,31,MIA 44,0,HOU,
+14,2041,4,03:33,(3:33) (Shotgun) B.Hoyer pass incomplete short left to J.Grimes (Bo.McCain).,3,2,66,MIA 9,0,HOU,
+14,1934,2,04:17,(4:17) (Shotgun) B.Hoyer pass incomplete short middle to G.Graham (R.Jones).,10,2,59,MIA 16,0,HOU,
+14,1722,2,07:10,(7:10) B.Hoyer pass short left to D.Hopkins ran ob at HOU 45 for 10 yards [O.Vernon].,10,2,20,HOU 35,0,HOU,
+14,1823,2,06:02,(6:02) (Shotgun) A.Foster left guard to MIA 33 for 11 yards (R.Jones).,10,2,42,MIA 44,0,HOU,
+14,2024,0,03:33,Timeout #1 by MIA at 03:33.,0,2,66,,0,,TIMEOUT
+14,1956,3,04:13,"(4:13) (Shotgun) B.Hoyer sacked at MIA 28 for -12 yards. PENALTY on MIA-O.Vernon, Defensive Offside, 5 yards, enforced at MIA 16 - No Play.",10,2,64,MIA 16,0,HOU,PENALTY
+14,1845,1,05:39,(5:39) (No Huddle) B.Hoyer pass incomplete short left to K.Mumphery.,10,2,42,MIA 33,0,HOU,
+14,1867,2,05:35,(5:35) C.Polk left tackle to MIA 31 for 2 yards (R.Jones).,10,2,44,MIA 33,0,HOU,
+14,1888,3,04:58,(4:58) (Shotgun) B.Hoyer pass short right to N.Washington to MIA 16 for 15 yards (R.Jones).,8,2,59,MIA 31,0,HOU,
+14,1756,1,07:10,(7:10) (No Huddle) A.Foster left end to HOU 48 for 3 yards (E.Mitchell).,10,2,66,HOU 45,0,HOU,
+14,1677,2,07:59,(7:59) B.Hoyer pass short right to N.Washington pushed ob at HOU 35 for 10 yards (J.Taylor).,10,2,66,HOU 25,0,HOU,
+14,2007,0,03:33,Timeout #1 by HOU at 03:33.,0,2,66,,0,,TIMEOUT
+14,1655,1,08:06,(8:06) (Shotgun) B.Hoyer pass incomplete short middle to D.Hopkins (N.Suh).,10,2,0,HOU 25,0,HOU,
+17,2442,1,00:56,"(:56) (Shotgun) R.Tannehill pass deep right to D.Parker ran ob at HOU 27 for 35 yards (A.Bouye). Penalty on MIA-J.Cameron, Illegal Formation, offsetting, enforced at MIA 38 - No Play. Penalty on HOU-A.Bouye, Defensive Pass Interference, offsetting.",10,2,-2,MIA 38,0,MIA,
+17,2418,1,01:03,(1:03) R.Tannehill pass short right to J.Cameron to MIA 38 for 12 yards (D.Morris).,10,2,12,MIA 26,0,MIA,
+17,2519,0,,END QUARTER 2,0,2,-2,,0,,
+17,2479,1,00:50,(:50) (Shotgun) R.Tannehill sacked at MIA 25 for -13 yards (J.Clowney).,10,2,-2,MIA 38,0,MIA,
+17,2498,2,00:14,(:14) J.Gray left guard to MIA 24 for -1 yards (J.Clowney).,23,2,-2,MIA 25,0,MIA,
+16,2331,4,01:24,"(1:24) (Punt formation) S.Lechler punts 47 yards to MIA 34, Center-J.Weeks. J.Landry to MIA 36 for 2 yards (C.James). PENALTY on HOU-C.James, Player Out of Bounds on Punt, 5 yards, enforced at HOU 19 - No Play.",31,2,-4,HOU 19,0,HOU,PENALTY
+16,2202,0,02:00,Two-Minute Warning,0,2,22,,0,,
+16,2128,0,02:47,A.Franks kicks 69 yards from MIA 35 to HOU -4. K.Mumphery to HOU 18 for 22 yards (Bo.McCain).,0,2,0,MIA 35,0,MIA,KICKOFF
+16,2219,1,02:00,(2:00) (Shotgun) B.Hoyer sacked at HOU 33 for -7 yards (N.Suh).,10,2,15,HOU 40,0,HOU,
+16,2285,3,01:31,"(1:31) (Shotgun) B.Hoyer sacked at HOU 20 for -5 yards (C.Wake). FUMBLES (C.Wake) [C.Wake], recovered by HOU-C.Clark at HOU 19. C.Clark to HOU 19 for no gain (N.Hewitt).",25,2,-4,HOU 25,0,HOU,FUMBLE
+16,2381,4,01:16,"(1:16) (Punt formation) S.Lechler punts 50 yards to MIA 36, Center-J.Weeks. J.Landry to HOU 48 for 16 yards (J.Prosch). PENALTY on MIA-Bo.McCain, Offensive Holding, 10 yards, enforced at MIA 36.",36,2,-4,HOU 14,0,HOU,PUNT
+16,2173,1,02:14,"(2:14) (No Huddle, Shotgun) B.Hoyer pass short left to D.Hopkins ran ob at HOU 40 for 11 yards (R.Jones).",10,2,22,HOU 29,0,HOU,
+16,2268,0,01:31,Timeout #2 by HOU at 01:31.,0,2,7,,0,,TIMEOUT
+16,2249,2,01:45,(1:45) (Shotgun) B.Hoyer sacked at HOU 25 for -8 yards (N.Suh).,17,2,7,HOU 33,0,HOU,
+16,2152,1,02:33,(2:33) (Shotgun) A.Foster up the middle to HOU 29 for 11 yards (T.Fede; E.Mitchell).,10,2,22,HOU 18,0,HOU,
+16,2314,0,01:24,Timeout #2 by MIA at 01:24.,0,2,1,,0,,TIMEOUT
+19,2723,1,11:28,(11:28) (No Huddle) A.Foster right tackle to HOU 39 for 1 yard (J.Jenkins).,10,3,15,HOU 38,0,HOU,
+19,2783,3,10:42,(10:42) (Shotgun) B.Hoyer pass incomplete short left to D.Hopkins [N.Suh].,9,3,15,HOU 39,0,HOU,
+19,2657,1,12:56,(12:56) (Shotgun) A.Foster left guard to HOU 28 for 4 yards (M.Thomas).,10,3,4,HOU 24,0,HOU,
+19,2766,0,10:42,Timeout #1 by HOU at 10:42.,0,3,15,,0,,TIMEOUT
+19,2744,2,10:48,(10:48) B.Hoyer pass incomplete short left to D.Hopkins (B.Grimes).,9,3,15,HOU 39,0,HOU,
+19,2699,3,11:57,(11:57) (Shotgun) B.Hoyer pass short left to N.Washington to HOU 38 for 9 yards (J.Taylor).,5,3,14,HOU 29,0,HOU,
+19,2678,2,12:31,(12:31) (Shotgun) A.Foster left guard to HOU 29 for 1 yard (R.Jones).,6,3,5,HOU 28,0,HOU,
+19,2805,4,10:38,"(10:38) (Punt formation) S.Lechler punts 50 yards to MIA 11, Center-J.Weeks. R.Matthews to MIA 20 for 9 yards (C.James).",9,3,15,HOU 39,0,HOU,PUNT
+18,2568,1,14:54,(14:54) D.Williams right guard to MIA 25 for no gain (J.Watt).,10,3,0,MIA 25,0,MIA,
+18,2631,4,13:07,"(13:07) (Punt formation) M.Darr punts 55 yards to HOU 17, Center-J.Denney. K.Mumphery to HOU 24 for 7 yards (Z.Bowman).",7,3,3,MIA 28,0,MIA,PUNT
+18,2546,0,15:00,N.Novak kicks 70 yards from HOU 35 to MIA -5. D.Williams to MIA 25 for 30 yards (A.Dent).,0,3,0,HOU 35,0,HOU,KICKOFF
+18,2589,2,14:22,(14:22) (Shotgun) D.Williams up the middle to MIA 24 for -1 yards (A.Dent).,10,3,-1,MIA 25,0,MIA,
+18,2610,3,13:47,(13:47) (Shotgun) J.Gray right guard to MIA 28 for 4 yards (J.Simon; E.Pleasant).,11,3,3,MIA 24,0,MIA,

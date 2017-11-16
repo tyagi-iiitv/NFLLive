@@ -1,167 +1,167 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1441,1,03:25,,10,2,36,DET 40,0,DET,
-9,1556,3,02:00,,33,2,21,DET 33,0,DET,
-9,1353,0,04:55,,0,2,0,STL 35,0,STL,KICKOFF
-9,1601,4,01:26,,25,2,21,DET 41,0,DET,PUNT
-9,1417,1,03:55,,10,2,20,DET 30,0,DET,
-9,1462,1,02:52,,10,2,21,STL 44,0,DET,PENALTY
-9,1498,1,02:25,,25,2,21,DET 41,0,DET,
-9,1520,2,02:19,,25,2,13,DET 41,0,DET,
-9,1539,0,02:00,,0,2,13,,0,,
-9,1396,2,04:28,,3,2,10,DET 27,0,DET,
-9,1372,1,04:55,,10,2,7,DET 20,0,DET,
-9,1580,0,01:26,,0,2,21,,0,,TIMEOUT
-10,1703,1,00:39,,10,2,13,STL 33,0,STL,
-10,1801,1,00:19,,10,2,32,DET 48,0,STL,INT
-10,1686,0,00:39,,0,2,13,,0,,TIMEOUT
-10,1749,0,00:24,,0,2,18,,0,,TIMEOUT
-10,1661,3,00:47,,8,2,13,STL 22,0,STL,
-10,1639,2,00:52,,8,2,2,STL 22,0,STL,
-10,1618,1,01:16,,10,2,2,STL 20,0,STL,
-10,1725,2,00:35,,10,2,18,STL 33,0,STL,
-10,1766,3,00:24,,5,2,32,STL 38,0,STL,
-20,3324,1,03:45,,10,4,41,STL 45,0,DET,
-20,3346,2,03:40,,10,4,52,STL 45,0,DET,
-20,3184,1,06:18,,10,4,6,DET 14,0,DET,
-20,3208,2,05:57,,4,4,12,DET 20,0,DET,
-20,3442,1,02:32,,10,4,86,STL 18,0,DET,
-20,3519,0,02:05,,0,4,86,STL 15,1,DET,XP
-20,3253,1,05:12,,10,4,30,DET 42,0,DET,
-20,3397,2,03:31,,10,4,61,STL 34,0,DET,
-20,3300,3,04:14,,13,4,41,DET 39,0,DET,
-20,3281,2,04:48,,8,4,25,DET 44,0,DET,
-20,3421,3,03:03,,1,4,68,STL 25,0,DET,
-20,3464,2,02:30,,10,4,84,STL 18,0,DET,
-20,3375,1,03:34,,10,4,52,STL 34,0,DET,
-20,3229,1,05:34,,10,4,28,DET 26,0,DET,
-20,3488,1,02:07,,2,4,86,STL 2,1,DET,TD
-6,1010,1,09:31,,10,2,38,DET 40,0,DET,
-6,877,1,13:03,,10,2,0,DET 2,0,DET,
-6,898,2,12:19,,10,2,0,DET 2,0,DET,
-6,1058,3,09:20,,10,2,47,DET 40,0,DET,
-6,965,1,10:51,,10,2,37,DET 30,0,DET,
-6,1032,2,09:24,,10,2,47,DET 40,0,DET,
-6,1087,4,08:46,,1,2,47,DET 49,0,DET,FUMBLE
-6,920,3,12:14,,10,2,15,DET 2,0,DET,
-6,989,2,10:14,,1,2,38,DET 39,0,DET,
-6,944,1,11:30,,10,2,28,DET 17,0,DET,
-18,2958,2,11:17,,1,4,23,DET 22,0,DET,
-18,2892,0,12:14,,0,4,0,STL 35,0,STL,KICKOFF
-18,3049,4,08:24,,11,4,22,DET 35,0,DET,PUNT
-18,3025,3,09:05,,20,4,22,DET 26,0,DET,
-18,2982,1,10:34,,10,4,16,DET 36,0,DET,
-18,3001,2,09:48,,17,4,13,DET 29,0,DET,
-18,2935,2,11:35,,6,4,9,DET 17,0,DET,PENALTY
-18,2914,1,12:10,,10,4,4,DET 13,0,DET,
-1,141,3,12:35,,3,1,19,STL 37,0,STL,
-1,36,0,15:00,,0,1,0,DET 35,0,DET,KICKOFF
-1,96,1,13:46,,10,1,13,STL 30,0,STL,
-1,170,4,12:19,,1,1,19,STL 39,0,STL,PUNT
-1,75,2,14:31,,3,1,10,STL 27,0,STL,
-1,120,2,13:20,,7,1,17,STL 33,0,STL,
-1,51,1,15:00,,10,1,7,STL 20,0,STL,
-5,698,1,00:59,,10,1,28,DET 42,0,STL,
-5,665,3,01:03,,4,1,31,DET 47,0,STL,PENALTY
-5,644,2,01:48,,4,1,26,DET 47,0,STL,
-5,598,1,03:03,,10,1,20,STL 27,0,STL,
-5,826,4,13:25,,15,2,36,DET 37,0,STL,
-5,853,4,13:13,,15,2,36,DET 37,0,STL,PUNT
-5,781,2,14:55,,10,2,36,DET 32,0,STL,
-5,623,1,02:25,,10,1,26,STL 47,0,STL,
-5,743,0,,,0,1,41,,0,,
-5,722,2,00:19,,13,1,41,DET 45,0,STL,
-5,807,3,14:07,,5,2,36,DET 27,0,STL,
-5,759,1,15:00,,10,2,41,DET 32,0,STL,
-13,2069,2,13:24,,24,3,-14,STL 15,0,STL,
-13,2116,4,12:08,,16,3,-6,STL 23,0,STL,PUNT
-13,2047,1,13:32,,24,3,-14,STL 15,0,STL,
-13,2090,3,12:44,,24,3,-6,STL 15,0,STL,
-13,2012,1,14:00,,10,3,-14,STL 29,0,STL,PENALTY
-21,3604,2,01:55,,10,4,7,DET 47,0,DET,
-21,3535,0,02:05,,0,4,0,DET 35,0,DET,FUMBLE
-21,3565,1,02:03,,10,4,0,DET 47,0,DET,
-21,3587,0,01:55,,0,4,0,,0,,
-21,3628,3,01:50,,3,4,7,STL 46,0,DET,
-21,3657,4,01:45,,3,4,7,STL 46,0,DET,FUMBLE
-11,1860,2,00:09,,20,2,-11,DET 28,0,DET,
-11,1882,0,,,0,2,-11,,0,,
-11,1827,1,00:13,,10,2,-11,DET 38,0,DET,PENALTY
-14,2304,0,07:35,,0,3,65,STL 15,1,DET,XP
-14,2284,2,07:39,,5,3,65,STL 9,1,DET,TD
-14,2141,1,11:56,,10,3,12,DET 35,0,DET,
-14,2255,1,08:17,,10,3,56,STL 14,0,DET,
-14,2234,2,09:03,,3,3,51,STL 29,0,DET,
-14,2166,1,11:13,,10,3,11,DET 47,0,DET,
-14,2209,1,09:43,,10,3,36,STL 36,0,DET,
-14,2188,2,10:29,,11,3,29,DET 46,0,DET,
-8,1270,1,06:24,,10,2,23,DET 31,0,DET,
-8,1315,1,05:07,,10,2,30,DET 45,1,DET,TD
-8,1246,1,07:07,,10,2,16,DET 15,0,DET,
-8,1294,2,05:55,,3,2,30,DET 38,0,DET,
-19,3165,4,06:28,,1,4,9,STL 38,0,STL,PUNT
-19,3088,2,07:40,,14,4,0,STL 25,0,STL,
-19,3123,3,07:16,,10,4,9,STL 29,0,STL,
-19,3144,0,06:28,,0,4,9,,0,,TIMEOUT
-19,3067,1,08:20,,10,4,-4,STL 29,0,STL,
-22,3705,0,01:36,,0,4,1,,0,,TIMEOUT
-22,3775,1,01:25,,10,4,26,DET 32,0,STL,
-22,3835,3,00:39,,5,4,26,DET 27,0,STL,
-22,3757,0,01:25,,0,4,22,,0,,TIMEOUT
-22,3796,0,01:20,,0,4,26,,0,,TIMEOUT
-22,3813,2,01:17,,6,4,27,DET 28,0,STL,
-22,3856,0,,,0,4,26,,0,,
-22,3679,1,01:40,,10,4,26,STL 46,0,STL,
-22,3722,2,01:36,,9,4,22,STL 47,0,STL,
-12,1935,2,14:21,,5,3,5,DET 25,0,DET,
-12,1899,0,15:00,,0,3,0,STL 35,0,STL,KICKOFF
-12,1979,4,14:10,,5,3,5,DET 25,0,DET,PUNT
-12,1914,1,15:00,,10,3,5,DET 20,0,DET,
-12,1957,3,14:14,,5,3,5,DET 25,0,DET,
-16,2638,3,01:11,,12,3,19,DET 39,0,DET,
-16,2592,1,02:28,,10,3,23,DET 41,0,DET,
-16,2614,2,01:54,,8,3,19,DET 43,0,DET,
-16,2525,1,03:57,,10,3,0,DET 20,0,DET,
-16,2660,4,01:04,,12,3,19,DET 39,0,DET,PUNT
-16,2568,3,03:04,,1,3,21,DET 29,0,DET,
-16,2547,2,03:53,,10,3,19,DET 20,0,DET,
-16,2510,0,03:57,,0,3,21,STL 35,0,STL,KICKOFF
-7,1184,3,07:46,,12,2,1,STL 15,0,STL,
-7,1129,1,08:36,,10,2,0,STL 17,0,STL,
-7,1163,2,08:29,,10,2,1,STL 17,0,STL,
-7,1205,4,07:19,,9,2,1,STL 18,0,STL,PUNT
-3,394,3,07:43,,3,1,20,STL 47,0,STL,
-3,280,1,10:15,,10,1,-1,STL 27,0,STL,
-3,373,2,08:24,,8,1,20,STL 42,0,STL,
-3,323,3,09:34,,11,1,13,STL 26,0,STL,
-3,416,4,07:33,,3,1,20,STL 47,0,STL,PUNT
-3,352,1,09:08,,10,1,15,STL 40,0,STL,
-3,301,2,09:37,,11,1,20,STL 26,0,STL,
-17,2838,1,12:52,,10,4,76,DET 24,0,STL,
-17,2876,0,12:14,,0,4,91,DET 15,1,STL,XP
-17,2731,1,00:19,,10,3,50,STL 34,0,STL,
-17,2859,2,12:25,,1,4,91,DET 15,1,STL,TD
-17,2752,0,,,0,3,50,,0,,
-17,2790,2,14:16,,14,4,57,DET 45,0,STL,
-17,2814,3,13:33,,3,4,67,DET 34,0,STL,
-17,2696,1,00:47,,10,3,50,STL 9,0,STL,
-17,2768,1,15:00,,10,4,46,DET 41,0,STL,
-4,459,2,06:44,,6,1,5,DET 8,0,DET,
-4,525,2,04:33,,8,1,13,DET 18,0,DET,
-4,573,4,03:15,,1,1,21,DET 25,0,DET,PUNT
-4,435,1,07:22,,10,1,4,DET 4,0,DET,
-4,480,3,05:59,,5,1,12,DET 9,0,DET,
-4,549,3,03:51,,9,1,21,DET 17,0,DET,
-4,504,1,05:20,,10,1,14,DET 16,0,DET,
-2,221,2,11:38,,6,1,4,DET 38,0,DET,
-2,242,3,10:53,,6,1,-1,DET 38,0,DET,
-2,261,4,10:23,,11,1,-1,DET 33,0,DET,PUNT
-2,200,1,12:12,,10,1,4,DET 34,0,DET,
-15,2424,1,05:08,,6,3,69,DET 6,0,STL,PENALTY
-15,2456,1,04:41,,11,3,75,DET 11,0,STL,
-15,2403,1,06:00,,5,3,74,STL 45,0,STL,
-15,2356,2,07:02,,3,3,20,STL 27,0,STL,
-15,2335,1,07:35,,10,3,7,STL 20,0,STL,
-15,2320,0,07:35,,0,3,0,DET 35,0,DET,KICKOFF
-15,2380,1,06:29,,10,3,25,STL 40,0,STL,PENALTY
-15,2494,0,03:57,,0,3,80,DET 15,1,STL,XP
-15,2477,2,04:02,,5,3,80,DET 5,1,STL,TD
+20,3488,1,02:07,"(2:07) (No Huddle, Shotgun) M.Stafford pass short right to G.Tate for 2 yards, TOUCHDOWN.",2,4,86,STL 2,1,DET,TD
+20,3519,0,02:05,"M.Prater extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin.",0,4,86,STL 15,1,DET,XP
+20,3464,2,02:30,(2:30) (Shotgun) M.Stafford pass short middle to C.Johnson to STL 2 for 16 yards (R.McLeod).,10,4,84,STL 18,0,DET,
+20,3229,1,05:34,"(5:34) (No Huddle, Shotgun) M.Stafford pass short left to T.Riddick to DET 42 for 16 yards (W.Hayes).",10,4,28,DET 26,0,DET,
+20,3397,2,03:31,(3:31) (Shotgun) M.Stafford pass short left to J.Bell to STL 25 for 9 yards (M.Barron).,10,4,61,STL 34,0,DET,
+20,3375,1,03:34,(3:34) (Shotgun) M.Stafford pass incomplete deep right to T.Jones [A.Donald].,10,4,52,STL 34,0,DET,
+20,3253,1,05:12,"(5:12) (No Huddle, Shotgun) M.Stafford pass short left to T.Riddick to DET 44 for 2 yards (T.Johnson).",10,4,30,DET 42,0,DET,
+20,3346,2,03:40,(3:40) (Shotgun) M.Stafford pass short left to E.Ebron pushed ob at STL 34 for 11 yards (T.Johnson).,10,4,52,STL 45,0,DET,
+20,3208,2,05:57,"(5:57) (No Huddle, Shotgun) M.Stafford scrambles up the middle to DET 26 for 6 yards (J.Laurinaitis).",4,4,12,DET 20,0,DET,
+20,3184,1,06:18,(6:18) (Shotgun) M.Stafford pass short middle to E.Ebron to DET 20 for 6 yards (M.Barron).,10,4,6,DET 14,0,DET,
+20,3324,1,03:45,"(3:45) (No Huddle, Shotgun) M.Stafford pass incomplete deep left to C.Johnson.",10,4,41,STL 45,0,DET,
+20,3281,2,04:48,"(4:48) (No Huddle, Shotgun) M.Stafford sacked at DET 39 for -5 yards (A.Donald).",8,4,25,DET 44,0,DET,
+20,3442,1,02:32,"(2:32) (No Huddle, Shotgun) M.Stafford pass incomplete deep right to G.Tate (M.Roberson).",10,4,86,STL 18,0,DET,
+20,3421,3,03:03,"(3:03) (No Huddle, Shotgun) J.Bell left guard to STL 18 for 7 yards (N.Fairley; M.Barron).",1,4,68,STL 25,0,DET,
+20,3300,3,04:14,"(4:14) (No Huddle, Shotgun) M.Stafford pass deep middle to G.Tate to STL 45 for 16 yards (M.Roberson).",13,4,41,DET 39,0,DET,
+21,3628,3,01:50,(1:50) (Shotgun) M.Stafford pass incomplete short right to T.Jones (M.Roberson).,3,4,7,STL 46,0,DET,
+21,3565,1,02:03,(2:03) (Shotgun) M.Stafford pass incomplete short middle to E.Ebron (T.Johnson).,10,4,0,DET 47,0,DET,
+21,3604,2,01:55,(1:55) (Shotgun) M.Stafford pass short left to T.Jones ran ob at STL 46 for 7 yards (M.Roberson).,10,4,7,DET 47,0,DET,
+21,3587,0,01:55,Two-Minute Warning,0,4,0,,0,,
+21,3535,0,02:05,"S.Martin kicks onside 11 yards from DET 35 to DET 46. B.Marquez MUFFS catch, RECOVERED by DET-M.Burton at DET 47.",0,4,0,DET 35,0,DET,FUMBLE
+21,3657,4,01:45,"(1:45) (Shotgun) M.Stafford FUMBLES (Aborted) at DET 49, and recovers at DET 40. M.Stafford pass incomplete short right to E.Ebron.",3,4,7,STL 46,0,DET,FUMBLE
+22,3813,2,01:17,(1:17) B.Cunningham up the middle to DET 27 for 1 yard (J.Bynes; E.Ansah).,6,4,27,DET 28,0,STL,
+22,3775,1,01:25,(1:25) B.Cunningham right tackle to DET 28 for 4 yards (J.Bynes).,10,4,26,DET 32,0,STL,
+22,3835,3,00:39,(:39) C.Keenum kneels to DET 28 for -1 yards.,5,4,26,DET 27,0,STL,
+22,3796,0,01:20,Timeout #3 by DET at 01:20.,0,4,26,,0,,TIMEOUT
+22,3757,0,01:25,Timeout #2 by DET at 01:25.,0,4,22,,0,,TIMEOUT
+22,3856,0,,END GAME,0,4,26,,0,,
+22,3679,1,01:40,(1:40) T.Gurley up the middle to STL 47 for 1 yard (H.Ngata).,10,4,26,STL 46,0,STL,
+22,3722,2,01:36,(1:36) T.Gurley left tackle to DET 32 for 21 yards (D.Slay).,9,4,22,STL 47,0,STL,
+22,3705,0,01:36,Timeout #1 by DET at 01:36.,0,4,1,,0,,TIMEOUT
+1,141,3,12:35,(12:35) (Shotgun) C.Keenum pass short left to T.Austin pushed ob at STL 39 for 2 yards (Q.Diggs).,3,1,19,STL 37,0,STL,
+1,51,1,15:00,(15:00) (Shotgun) C.Keenum pass short right to T.Gurley pushed ob at STL 27 for 7 yards (T.Whitehead).,10,1,7,STL 20,0,STL,
+1,36,0,15:00,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,1,0,DET 35,0,DET,KICKOFF
+1,120,2,13:20,(13:20) T.Gurley left guard to STL 37 for 4 yards (S.Tulloch).,7,1,17,STL 33,0,STL,
+1,75,2,14:31,(14:31) T.Gurley up the middle to STL 30 for 3 yards (J.Jones).,3,1,10,STL 27,0,STL,
+1,170,4,12:19,"(12:19) J.Hekker punts 42 yards to DET 19, Center-J.McQuaide, fair catch by G.Tate. PENALTY on STL-C.Bryant, Face Mask (15 Yards), 15 yards, enforced at DET 19.",1,1,19,STL 39,0,STL,PUNT
+1,96,1,13:46,(13:46) (Shotgun) C.Keenum pass short right to T.Austin pushed ob at STL 33 for 3 yards (N.Lawson).,10,1,13,STL 30,0,STL,
+3,301,2,09:37,(9:37) (Shotgun) C.Keenum pass incomplete short right to W.Welker.,11,1,20,STL 26,0,STL,
+3,323,3,09:34,(9:34) (Shotgun) C.Keenum pass short left to B.Marquez ran ob at STL 40 for 14 yards (G.Quin).,11,1,13,STL 26,0,STL,
+3,416,4,07:33,"(7:33) J.Hekker punts 49 yards to DET 4, Center-J.McQuaide, downed by STL-C.Bryant.",3,1,20,STL 47,0,STL,PUNT
+3,352,1,09:08,(9:08) T.Gurley up the middle to STL 42 for 2 yards (J.Bynes).,10,1,15,STL 40,0,STL,
+3,394,3,07:43,(7:43) C.Keenum pass incomplete short right to K.Britt (Q.Diggs).,3,1,20,STL 47,0,STL,
+3,280,1,10:15,(10:15) T.Gurley right tackle to STL 26 for -1 yards (J.Bynes).,10,1,-1,STL 27,0,STL,
+3,373,2,08:24,(8:24) T.Gurley left guard to STL 47 for 5 yards (J.Bynes).,8,1,20,STL 42,0,STL,
+2,200,1,12:12,(12:12) A.Abdullah right end to DET 38 for 4 yards (T.Johnson).,10,1,4,DET 34,0,DET,
+2,261,4,10:23,"(10:23) S.Martin punts 40 yards to STL 27, Center-D.Muhlbach, fair catch by T.Austin.",11,1,-1,DET 33,0,DET,PUNT
+2,221,2,11:38,(11:38) (Shotgun) A.Abdullah right guard to DET 38 for no gain (A.Donald).,6,1,4,DET 38,0,DET,
+2,242,3,10:53,(10:53) (Shotgun) M.Stafford sacked at DET 33 for -5 yards (A.Donald).,6,1,-1,DET 38,0,DET,
+5,623,1,02:25,(2:25) T.Mason left end pushed ob at DET 47 for 6 yards (J.Ihedigbo).,10,1,26,STL 47,0,STL,
+5,743,0,,END QUARTER 1,0,1,41,,0,,
+5,781,2,14:55,(14:55) T.Mason left end pushed ob at DET 27 for 5 yards (Q.Diggs).,10,2,36,DET 32,0,STL,
+5,853,4,13:13,"(13:13) J.Hekker punts 35 yards to DET 2, Center-J.McQuaide, downed by STL-C.Reynolds. Kick touched by #37 C. Bryant.",15,2,36,DET 37,0,STL,PUNT
+5,598,1,03:03,(3:03) T.Austin left end to STL 47 for 20 yards (G.Quin). Wildcat formation,10,1,20,STL 27,0,STL,
+5,665,3,01:03,"(1:03) (Shotgun) C.Keenum pass incomplete short left to T.Austin [H.Ngata]. PENALTY on DET-J.Jones, Defensive Holding, 5 yards, enforced at DET 47 - No Play.",4,1,31,DET 47,0,STL,PENALTY
+5,759,1,15:00,(15:00) C.Keenum pass incomplete deep left to T.Austin.,10,2,41,DET 32,0,STL,
+5,722,2,00:19,(:19) T.Austin left tackle to DET 32 for 13 yards (G.Quin).,13,1,41,DET 45,0,STL,
+5,644,2,01:48,(1:48) T.Mason up the middle to DET 47 for no gain (S.Tulloch).,4,1,26,DET 47,0,STL,
+5,826,4,13:25,"(13:25) (Punt formation) Penalty on STL, Delay of Game, declined.",15,2,36,DET 37,0,STL,
+5,807,3,14:07,(14:07) (Shotgun) C.Keenum sacked at DET 37 for -10 yards (E.Ansah).,5,2,36,DET 27,0,STL,
+5,698,1,00:59,(:59) (Shotgun) C.Keenum pass short right to T.Mason to DET 45 for -3 yards (Q.Diggs).,10,1,28,DET 42,0,STL,
+4,459,2,06:44,(6:44) A.Abdullah right guard to DET 9 for 1 yard (N.Fairley).,6,1,5,DET 8,0,DET,
+4,549,3,03:51,(3:51) (Shotgun) M.Stafford pass short right to G.Tate to DET 25 for 8 yards (A.Donald; A.Ayers).,9,1,21,DET 17,0,DET,
+4,573,4,03:15,"(3:15) S.Martin punts 58 yards to STL 17, Center-D.Muhlbach. T.Austin to STL 27 for 10 yards (C.Fuller).",1,1,21,DET 25,0,DET,PUNT
+4,525,2,04:33,(4:33) (Shotgun) M.Stafford pass short left to G.Tate to DET 17 for -1 yards (M.Roberson).,8,1,13,DET 18,0,DET,
+4,504,1,05:20,(5:20) A.Abdullah right end to DET 18 for 2 yards (E.Westbrooks).,10,1,14,DET 16,0,DET,
+4,435,1,07:22,(7:22) (Shotgun) M.Stafford pass short left to T.Jones to DET 8 for 4 yards (T.Johnson).,10,1,4,DET 4,0,DET,
+4,480,3,05:59,(5:59) (Shotgun) M.Stafford pass short middle to B.Pettigrew to DET 16 for 7 yards (M.Alexander).,5,1,12,DET 9,0,DET,
+7,1205,4,07:19,"(7:19) J.Hekker punts 61 yards to DET 21, Center-J.McQuaide. G.Tate ran ob at DET 43 for 22 yards (J.Hekker). PENALTY on DET-D.Carey, Illegal Block Above the Waist, 10 yards, enforced at DET 25.",9,2,1,STL 18,0,STL,PUNT
+7,1129,1,08:36,(8:36) C.Keenum pass incomplete deep right to K.Britt.,10,2,0,STL 17,0,STL,
+7,1184,3,07:46,(7:46) (Shotgun) C.Keenum scrambles right end ran ob at STL 18 for 3 yards (D.Taylor).,12,2,1,STL 15,0,STL,
+7,1163,2,08:29,(8:29) T.Gurley right end to STL 15 for -2 yards (K.Thornton).,10,2,1,STL 17,0,STL,
+6,1087,4,08:46,"(8:46) S.Martin punts 38 yards to STL 13, Center-D.Muhlbach. C.Davis MUFFS catch, and recovers at STL 13. C.Davis to STL 17 for 4 yards (T.Lewis). DET-T.Lewis was injured during the play.",1,2,47,DET 49,0,DET,FUMBLE
+6,965,1,10:51,(10:51) (Shotgun) M.Stafford pass short right to T.Riddick to DET 39 for 9 yards (C.Long).,10,2,37,DET 30,0,DET,
+6,989,2,10:14,(10:14) J.Bell right tackle to DET 40 for 1 yard (A.Ayers).,1,2,38,DET 39,0,DET,
+6,898,2,12:19,(12:19) (Shotgun) M.Stafford pass incomplete deep left to C.Johnson.,10,2,0,DET 2,0,DET,
+6,877,1,13:03,(13:03) J.Bell left guard to DET 2 for no gain (J.Laurinaitis).,10,2,0,DET 2,0,DET,
+6,944,1,11:30,(11:30) J.Bell left tackle to DET 30 for 13 yards (M.Alexander).,10,2,28,DET 17,0,DET,
+6,1032,2,09:24,(9:24) M.Stafford pass incomplete short middle to T.Jones (L.Joyner). DET-B.Pettigrew was injured during the play. He is Out.,10,2,47,DET 40,0,DET,
+6,1058,3,09:20,(9:20) (Shotgun) M.Stafford pass short right to G.Tate pushed ob at DET 49 for 9 yards (M.Roberson).,10,2,47,DET 40,0,DET,
+6,920,3,12:14,(12:14) (Shotgun) M.Stafford pass short right to T.Jones to DET 17 for 15 yards (M.Roberson).,10,2,15,DET 2,0,DET,
+6,1010,1,09:31,(9:31) (Shotgun) M.Stafford pass incomplete short right to T.Jones.,10,2,38,DET 40,0,DET,
+9,1556,3,02:00,(2:00) (Shotgun) M.Stafford pass short right to T.Riddick to DET 41 for 8 yards (L.Joyner; J.Laurinaitis).,33,2,21,DET 33,0,DET,
+9,1353,0,04:55,"G.Zuerlein kicks 65 yards from STL 35 to end zone, Touchback.",0,2,0,STL 35,0,STL,KICKOFF
+9,1580,0,01:26,Timeout #1 by STL at 01:26.,0,2,21,,0,,TIMEOUT
+9,1601,4,01:26,"(1:26) S.Martin punts 59 yards to end zone, Center-D.Muhlbach, Touchback.",25,2,21,DET 41,0,DET,PUNT
+9,1372,1,04:55,(4:55) (Shotgun) M.Stafford pass short right to T.Riddick to DET 27 for 7 yards (M.Roberson).,10,2,7,DET 20,0,DET,
+9,1520,2,02:19,(2:19) (Shotgun) M.Stafford sacked at DET 33 for -8 yards (M.Brockers).,25,2,13,DET 41,0,DET,
+9,1441,1,03:25,(3:25) (No Huddle) T.Riddick left end to STL 44 for 16 yards (M.Alexander).,10,2,36,DET 40,0,DET,
+9,1498,1,02:25,(2:25) (Shotgun) M.Stafford pass incomplete short left to T.Riddick.,25,2,21,DET 41,0,DET,
+9,1396,2,04:28,(4:28) (No Huddle) T.Riddick up the middle to DET 30 for 3 yards (E.Westbrooks).,3,2,10,DET 27,0,DET,
+9,1417,1,03:55,"(3:55) (No Huddle, Shotgun) M.Stafford pass short middle to E.Ebron to DET 40 for 10 yards (M.Barron; J.Laurinaitis).",10,2,20,DET 30,0,DET,
+9,1539,0,02:00,Two-Minute Warning,0,2,13,,0,,
+9,1462,1,02:52,"(2:52) (No Huddle, Shotgun) M.Stafford pass deep left to G.Tate to STL 8 for 36 yards (M.Alexander). PENALTY on DET-T.Riddick, Chop Block, 15 yards, enforced at STL 44 - No Play.",10,2,21,STL 44,0,DET,PENALTY
+8,1270,1,06:24,(6:24) (Shotgun) M.Stafford pass short left to A.Abdullah to DET 38 for 7 yards (M.Roberson).,10,2,23,DET 31,0,DET,
+8,1315,1,05:07,"(5:07) M.Stafford pass short right intended for C.Johnson INTERCEPTED by T.Johnson at STL 42. T.Johnson for 58 yards, TOUCHDOWN.",10,2,30,DET 45,1,DET,TD
+8,1294,2,05:55,(5:55) A.Abdullah right tackle to DET 45 for 7 yards (J.Laurinaitis).,3,2,30,DET 38,0,DET,
+8,1246,1,07:07,(7:07) M.Stafford pass short right to J.Bell to DET 31 for 16 yards (M.Alexander).,10,2,16,DET 15,0,DET,
+11,1860,2,00:09,(:09) M.Stafford kneels to DET 27 for -1 yards.,20,2,-11,DET 28,0,DET,
+11,1827,1,00:13,"(:13) (Shotgun) M.Stafford pass incomplete short left. PENALTY on DET-M.Stafford, Intentional Grounding, 10 yards, enforced at DET 38. Penalty on DET-T.Swanson, Offensive Holding, declined.",10,2,-11,DET 38,0,DET,PENALTY
+11,1882,0,,END QUARTER 2,0,2,-11,,0,,
+10,1703,1,00:39,(:39) (Shotgun) C.Keenum pass incomplete short middle to T.Austin [E.Ansah].,10,2,13,STL 33,0,STL,
+10,1801,1,00:19,"(:19) (No Huddle, Shotgun) C.Keenum pass short right intended for K.Britt INTERCEPTED by D.Slay [I.Abdul-Quddus] at DET 38. D.Slay ran ob at DET 38 for no gain.",10,2,32,DET 48,0,STL,INT
+10,1618,1,01:16,(1:16) T.Gurley up the middle to STL 22 for 2 yards (S.Tulloch).,10,2,2,STL 20,0,STL,
+10,1639,2,00:52,"(:52) (No Huddle, Shotgun) C.Keenum pass incomplete short middle to T.Gurley.",8,2,2,STL 22,0,STL,
+10,1725,2,00:35,(:35) (Shotgun) C.Keenum pass short left to B.Marquez to STL 38 for 5 yards (N.Lawson) [J.Jones].,10,2,18,STL 33,0,STL,
+10,1749,0,00:24,Timeout #3 by STL at 00:24.,0,2,18,,0,,TIMEOUT
+10,1686,0,00:39,Timeout #2 by STL at 00:39.,0,2,13,,0,,TIMEOUT
+10,1766,3,00:24,"(:24) (Shotgun) C.Keenum pass short left to T.Austin to DET 48 for 14 yards (N.Lawson). Penalty on DET-N.Lawson, Defensive Holding, declined.",5,2,32,STL 38,0,STL,
+10,1661,3,00:47,(:47) C.Keenum pass short right to J.Cook to STL 33 for 11 yards (N.Lawson).,8,2,13,STL 22,0,STL,
+13,2047,1,13:32,(13:32) (Shotgun) C.Keenum pass incomplete short middle to L.Kendricks.,24,3,-14,STL 15,0,STL,
+13,2069,2,13:24,(13:24) T.Austin left tackle to STL 15 for no gain (S.Tulloch).,24,3,-14,STL 15,0,STL,
+13,2090,3,12:44,(12:44) (Shotgun) C.Keenum pass short left to B.Cunningham to STL 23 for 8 yards (J.Bynes).,24,3,-6,STL 15,0,STL,
+13,2116,4,12:08,"(12:08) J.Hekker punts 49 yards to DET 28, Center-J.McQuaide. G.Tate to DET 35 for 7 yards (E.Patterson).",16,3,-6,STL 23,0,STL,PUNT
+13,2012,1,14:00,"(14:00) C.Keenum pass short left to J.Cook to 50 for 21 yards (N.Lawson). PENALTY on STL-G.Robinson, Chop Block, 14 yards, enforced at STL 29 - No Play.",10,3,-14,STL 29,0,STL,PENALTY
+12,1979,4,14:10,"(14:10) S.Martin punts 46 yards to STL 29, impetus ends at STL 28, Center-D.Muhlbach. T.Austin to STL 29 for no gain (C.Fuller).",5,3,5,DET 25,0,DET,PUNT
+12,1957,3,14:14,(14:14) (Shotgun) M.Stafford pass incomplete short middle to T.Riddick [A.Donald].,5,3,5,DET 25,0,DET,
+12,1899,0,15:00,"G.Zuerlein kicks 65 yards from STL 35 to end zone, Touchback.",0,3,0,STL 35,0,STL,KICKOFF
+12,1935,2,14:21,(14:21) (Shotgun) M.Stafford pass incomplete short middle to T.Riddick.,5,3,5,DET 25,0,DET,
+12,1914,1,15:00,(15:00) A.Abdullah right tackle to DET 25 for 5 yards (W.Hayes).,10,3,5,DET 20,0,DET,
+15,2477,2,04:02,"(4:02) T.Gurley left end for 5 yards, TOUCHDOWN.",5,3,80,DET 5,1,STL,TD
+15,2320,0,07:35,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,3,0,DET 35,0,DET,KICKOFF
+15,2335,1,07:35,(7:35) T.Austin right end pushed ob at STL 27 for 7 yards (S.Tulloch).,10,3,7,STL 20,0,STL,
+15,2456,1,04:41,(4:41) T.Gurley left tackle to DET 5 for 6 yards (H.Ngata).,11,3,75,DET 11,0,STL,
+15,2424,1,05:08,"(5:08) T.Austin left end to DET 7 for -1 yards (T.Whitehead). PENALTY on STL-T.Austin, Illegal Shift, 5 yards, enforced at DET 6 - No Play.",6,3,69,DET 6,0,STL,PENALTY
+15,2494,0,03:57,"G.Zuerlein extra point is GOOD, Center-J.McQuaide, Holder-J.Hekker.",0,3,80,DET 15,1,STL,XP
+15,2380,1,06:29,"(6:29) PENALTY on DET-E.Ansah, Neutral Zone Infraction, 5 yards, enforced at STL 40 - No Play.",10,3,25,STL 40,0,STL,PENALTY
+15,2403,1,06:00,(6:00) T.Gurley left end to DET 6 for 49 yards (J.Bynes).,5,3,74,STL 45,0,STL,
+15,2356,2,07:02,(7:02) C.Keenum pass short middle to B.Marquez to STL 40 for 13 yards (J.Ihedigbo).,3,3,20,STL 27,0,STL,
+14,2166,1,11:13,(11:13) T.Riddick right tackle to DET 46 for -1 yards (M.Barron).,10,3,11,DET 47,0,DET,
+14,2209,1,09:43,(9:43) (Shotgun) M.Stafford pass short middle to T.Jones to STL 29 for 7 yards (J.Laurinaitis).,10,3,36,STL 36,0,DET,
+14,2284,2,07:39,"(7:39) (Shotgun) M.Stafford pass short middle to G.Tate for 9 yards, TOUCHDOWN.",5,3,65,STL 9,1,DET,TD
+14,2234,2,09:03,(9:03) G.Tate left end to STL 14 for 15 yards (A.Ayers).,3,3,51,STL 29,0,DET,
+14,2304,0,07:35,"M.Prater extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin.",0,3,65,STL 15,1,DET,XP
+14,2141,1,11:56,(11:56) (Shotgun) M.Stafford pass short right to G.Tate to DET 47 for 12 yards (M.Alexander).,10,3,12,DET 35,0,DET,
+14,2255,1,08:17,(8:17) (Shotgun) M.Stafford pass short left to T.Riddick pushed ob at STL 9 for 5 yards (M.Barron).,10,3,56,STL 14,0,DET,
+14,2188,2,10:29,(10:29) (Shotgun) J.Bell right end to STL 36 for 18 yards (M.Barron).,11,3,29,DET 46,0,DET,
+17,2859,2,12:25,"(12:25) T.Gurley right tackle for 15 yards, TOUCHDOWN.",1,4,91,DET 15,1,STL,TD
+17,2814,3,13:33,(13:33) C.Keenum pass short left to K.Britt to DET 24 for 10 yards (D.Tapp).,3,4,67,DET 34,0,STL,
+17,2768,1,15:00,(15:00) T.Gurley left end to DET 45 for -4 yards (J.Ihedigbo).,10,4,46,DET 41,0,STL,
+17,2731,1,00:19,(:19) T.Gurley right tackle to DET 41 for 25 yards (G.Quin).,10,3,50,STL 34,0,STL,
+17,2752,0,,END QUARTER 3,0,3,50,,0,,
+17,2838,1,12:52,(12:52) T.Gurley right tackle to DET 15 for 9 yards (N.Lawson).,10,4,76,DET 24,0,STL,
+17,2696,1,00:47,"(:47) C.Keenum pass deep right to K.Britt to STL 34 for 25 yards (D.Slay). Penalty on DET-D.Slay, Defensive Pass Interference, declined.",10,3,50,STL 9,0,STL,
+17,2790,2,14:16,(14:16) (Shotgun) C.Keenum pass short middle to W.Welker to DET 34 for 11 yards (I.Abdul-Quddus).,14,4,57,DET 45,0,STL,
+17,2876,0,12:14,"G.Zuerlein extra point is GOOD, Center-J.McQuaide, Holder-J.Hekker.",0,4,91,DET 15,1,STL,XP
+16,2525,1,03:57,(3:57) (Shotgun) M.Stafford pass incomplete short left to C.Johnson.,10,3,0,DET 20,0,DET,
+16,2568,3,03:04,(3:04) M.Stafford pass short left to M.Burton pushed ob at DET 41 for 12 yards (M.Barron).,1,3,21,DET 29,0,DET,
+16,2614,2,01:54,(1:54) (Shotgun) M.Stafford pass short right to G.Tate to DET 39 for -4 yards (M.Roberson).,8,3,19,DET 43,0,DET,
+16,2547,2,03:53,(3:53) J.Bell up the middle to DET 29 for 9 yards (J.Laurinaitis).,10,3,19,DET 20,0,DET,
+16,2638,3,01:11,(1:11) (Shotgun) M.Stafford pass incomplete short right to T.Riddick [A.Donald].,12,3,19,DET 39,0,DET,
+16,2592,1,02:28,(2:28) J.Bell up the middle to DET 43 for 2 yards (N.Fairley).,10,3,23,DET 41,0,DET,
+16,2660,4,01:04,"(1:04) S.Martin punts 44 yards to STL 17, Center-D.Muhlbach. T.Austin for 83 yards, TOUCHDOWN NULLIFIED by Penalty. DET-D.Carey was injured during the play.  PENALTY on STL-C.Davis, Offensive Holding, 9 yards, enforced at STL 18.",12,3,19,DET 39,0,DET,PUNT
+16,2510,0,03:57,"G.Zuerlein kicks 65 yards from STL 35 to end zone, Touchback.",0,3,21,STL 35,0,STL,KICKOFF
+19,3123,3,07:16,(7:16) B.Cunningham up the middle to STL 38 for 9 yards (J.Bynes).,10,4,9,STL 29,0,STL,
+19,3144,0,06:28,Timeout #1 by STL at 06:28.,0,4,9,,0,,TIMEOUT
+19,3165,4,06:28,"(6:28) J.Hekker punts 48 yards to DET 14, Center-J.McQuaide, downed by STL-D.Bates.",1,4,9,STL 38,0,STL,PUNT
+19,3067,1,08:20,(8:20) T.Mason up the middle to STL 25 for -4 yards (S.Tulloch).,10,4,-4,STL 29,0,STL,
+19,3088,2,07:40,"(7:40) (Shotgun) C.Keenum pass short left to T.Mason to STL 29 for 4 yards (S.Tulloch). Penalty on STL-G.Robinson, Offensive Holding, declined.",14,4,0,STL 25,0,STL,
+18,2914,1,12:10,(12:10) A.Abdullah right guard to DET 17 for 4 yards (M.Barron).,10,4,4,DET 13,0,DET,
+18,2982,1,10:34,(10:34) M.Stafford sacked at DET 29 for -7 yards (A.Donald).,10,4,16,DET 36,0,DET,
+18,3025,3,09:05,(9:05) (Shotgun) M.Stafford pass short middle to G.Tate pushed ob at DET 35 for 9 yards (M.Barron; T.Johnson).,20,4,22,DET 26,0,DET,
+18,2935,2,11:35,"(11:35) (Shotgun) PENALTY on STL-E.Westbrooks, Neutral Zone Infraction, 5 yards, enforced at DET 17 - No Play.",6,4,9,DET 17,0,DET,PENALTY
+18,2892,0,12:14,G.Zuerlein kicks 73 yards from STL 35 to DET -8. A.Abdullah to DET 13 for 21 yards (C.Reynolds).,0,4,0,STL 35,0,STL,KICKOFF
+18,3049,4,08:24,"(8:24) S.Martin punts 36 yards to STL 29, Center-D.Muhlbach, out of bounds.",11,4,22,DET 35,0,DET,PUNT
+18,2958,2,11:17,(11:17) (Shotgun) M.Stafford pass short middle to A.Abdullah to DET 36 for 14 yards (L.Joyner; J.Laurinaitis).,1,4,23,DET 22,0,DET,
+18,3001,2,09:48,(9:48) (Shotgun) M.Stafford pass short left to T.Riddick to DET 26 for -3 yards (M.Barron).,17,4,13,DET 29,0,DET,

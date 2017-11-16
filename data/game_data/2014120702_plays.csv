@@ -1,176 +1,176 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1566,4,03:05,,6,2,4,TB 28,1,DET,FG
-9,1542,3,03:48,,3,2,4,TB 25,0,DET,
-9,1518,2,04:29,,8,2,7,TB 30,0,DET,
-9,1497,1,05:04,,10,2,2,TB 32,0,DET,
-24,3797,1,03:30,,10,4,0,TB 44,0,DET,
-24,3856,3,02:39,,10,4,5,TB 44,0,DET,
-24,3818,2,02:44,,10,4,0,TB 44,0,DET,
-24,3910,4,02:29,,5,4,4,TB 39,0,DET,
-24,3877,0,02:29,,0,4,5,,0,,TIMEOUT
-24,3839,0,02:39,,0,4,0,,0,,TIMEOUT
-10,1604,1,03:01,,10,2,3,TB 20,0,TB,
-10,1718,2,02:00,,13,2,72,TB 33,0,TB,PENALTY
-10,1753,0,01:49,,0,2,72,,0,,TIMEOUT
-10,1701,0,02:00,,0,2,13,,0,,
-10,1680,1,02:07,,10,2,13,TB 36,0,TB,
-10,1625,2,02:33,,7,2,3,TB 23,0,TB,
-10,1585,0,03:01,,0,2,0,DET 35,0,DET,KICKOFF
-10,1776,1,01:49,,8,2,72,DET 8,0,TB,INT
-10,1651,3,02:28,,7,2,16,TB 23,0,TB,
-20,3207,3,11:12,,7,4,-6,DET 45,0,DET,FUMBLE
-20,3165,1,12:43,,10,4,4,DET 42,0,DET,
-20,3143,0,12:52,,0,4,0,TB 35,0,TB,KICKOFF
-20,3236,4,10:51,,16,4,-6,DET 36,0,DET,PUNT
-20,3186,2,12:06,,6,4,3,DET 46,0,DET,
-6,1115,2,10:53,,7,2,0,TB 23,0,TB,
-6,1136,3,10:08,,10,2,0,TB 20,0,TB,INT
-6,1088,1,11:28,,10,2,3,TB 20,0,TB,
-18,2758,2,02:40,,10,3,68,TB 38,0,DET,
-18,2727,1,02:47,,10,3,88,TB 38,0,DET,FUMBLE
-18,2679,2,04:16,,8,3,39,DET 41,0,DET,
-18,2658,1,04:57,,10,3,29,DET 39,0,DET,
-18,2831,2,01:01,,2,3,78,TB 2,0,DET,
-18,2870,0,00:15,,0,3,88,TB 2,1,DET,XP
-18,2807,1,01:22,,8,3,88,TB 8,0,DET,
-18,2630,1,05:42,,10,3,27,DET 12,0,DET,
-18,2786,1,02:01,,10,3,80,TB 20,0,DET,
-18,2703,1,03:33,,10,3,50,TB 49,0,DET,
-18,2850,3,00:20,,10,3,88,TB 10,1,DET,TD
-26,4157,0,00:00,,0,4,-2,,0,,
-26,4136,3,00:33,,11,4,-2,DET 19,0,DET,
-26,4090,1,01:33,,10,4,-2,DET 20,0,DET,
-26,4115,2,00:54,,10,4,-1,DET 20,0,DET,
-25,4067,4,01:38,,10,4,40,DET 15,0,TB,
-25,3984,0,01:55,,0,4,45,,0,,
-25,4045,3,01:44,,10,4,45,DET 15,0,TB,
-25,3955,2,02:02,,1,4,45,TB 49,0,TB,
-25,3931,1,02:23,,10,4,9,TB 40,0,TB,
-25,4001,1,01:55,,10,4,45,DET 15,0,TB,
-25,4023,2,01:49,,10,4,45,DET 15,0,TB,
-1,102,3,13:47,,4,1,13,DET 26,0,DET,
-1,198,1,11:56,,10,1,48,DET 48,0,DET,
-1,55,1,15:00,,10,1,1,DET 20,0,DET,
-1,294,4,09:16,,1,1,56,TB 24,0,DET,
-1,243,2,10:28,,11,1,48,TB 34,0,DET,
-1,126,1,13:12,,10,1,19,DET 33,0,DET,
-1,150,2,12:51,,4,1,21,DET 39,0,DET,
-1,222,1,11:06,,10,1,46,TB 33,0,DET,
-1,171,3,12:13,,2,1,56,DET 41,0,DET,
-1,78,2,14:25,,9,1,6,DET 21,0,DET,
-1,36,0,15:00,,0,1,0,TB 35,0,TB,KICKOFF
-1,267,3,09:46,,9,1,56,TB 32,0,DET,
-5,1067,4,11:36,,1,2,9,DET 29,0,DET,PUNT
-5,999,1,13:32,,10,2,3,DET 20,0,DET,
-5,980,0,13:32,,0,2,0,TB 35,0,TB,KICKOFF
-5,1044,3,12:11,,1,2,9,DET 29,0,DET,
-5,1020,2,12:58,,7,2,9,DET 23,0,DET,
-13,2058,2,14:31,,8,3,-3,TB 22,0,TB,
-13,2001,0,15:00,,0,3,0,DET 35,0,DET,KICKOFF
-13,2037,1,15:00,,10,3,2,TB 20,0,TB,
-13,2134,4,13:06,,8,3,2,TB 22,0,TB,PUNT
-13,2077,3,13:49,,13,3,2,TB 17,0,TB,PENALTY
-13,2112,3,13:13,,8,3,2,TB 22,0,TB,
-13,2020,0,15:00,,0,3,0,,0,,TIMEOUT
-21,3319,1,10:25,,20,4,13,TB 23,0,TB,
-21,3340,2,09:39,,24,4,13,TB 19,0,TB,PENALTY
-21,3373,1,09:31,,10,4,34,DET 43,0,TB,
-21,3452,3,08:17,,18,4,13,TB 49,0,TB,
-21,3276,1,10:39,,10,4,13,TB 33,0,TB,PENALTY
-21,3487,4,08:05,,13,4,21,DET 46,0,TB,PUNT
-21,3395,2,09:24,,10,4,24,DET 43,0,TB,PENALTY
-21,3430,2,09:01,,20,4,26,TB 47,0,TB,
-23,3695,0,05:01,,0,4,0,DET 35,0,DET,KICKOFF
-23,3774,4,03:37,,25,4,-15,TB 5,0,TB,PUNT
-23,3733,2,04:29,,14,4,-4,TB 16,0,TB,
-23,3755,3,04:25,,14,4,-15,TB 16,0,TB,
-23,3714,1,05:01,,10,4,-4,TB 20,0,TB,
-11,1879,3,00:17,,14,2,10,DET 14,0,TB,PENALTY
-11,1916,1,00:09,,5,2,10,DET 5,1,TB,TD
-11,1947,0,00:05,,0,2,10,DET 2,1,TB,XP
-11,1819,1,01:35,,10,2,10,DET 10,0,TB,
-11,1843,2,00:52,,6,2,-4,DET 6,0,TB,
-11,1862,0,00:17,,0,2,-4,,0,,TIMEOUT
-14,2183,1,12:08,,8,3,56,TB 8,0,DET,
-14,2159,1,12:55,,10,3,53,DET 39,0,DET,
-14,2249,4,11:18,,5,3,56,TB 5,1,DET,FG
-14,2227,3,11:23,,5,3,56,TB 5,0,DET,
-14,2206,2,12:03,,8,3,56,TB 8,0,DET,
-8,1399,0,06:01,,0,2,0,DET 35,0,DET,KICKOFF
-8,1447,2,05:34,,4,2,12,TB 26,0,TB,
-8,1471,1,05:10,,10,2,12,TB 35,0,TB,FUMBLE
-8,1423,1,06:01,,10,2,6,TB 20,0,TB,
-19,3127,0,12:52,,0,4,81,DET 2,1,TB,XP
-19,2908,1,00:09,,10,3,6,TB 19,0,TB,
-19,2945,2,15:00,,4,4,6,TB 25,0,TB,
-19,2991,1,14:13,,10,4,42,TB 37,0,TB,PENALTY
-19,3072,2,13:00,,10,4,81,DET 26,1,TB,TD
-19,2929,0,,,0,3,6,,0,,
-19,2886,0,00:15,,0,3,0,DET 35,0,DET,KICKOFF
-19,3048,1,13:34,,10,4,55,DET 26,0,TB,
-19,2967,3,14:55,,4,4,18,TB 25,0,TB,
-19,3024,1,14:06,,10,4,55,DET 39,0,TB,
-22,3531,1,07:22,,10,4,57,TB 35,0,DET,
-22,3598,2,05:51,,8,4,87,TB 20,0,DET,
-22,3510,1,07:55,,10,4,57,DET 8,0,DET,
-22,3577,1,06:33,,10,4,72,TB 22,0,DET,
-22,3658,0,05:01,,0,4,92,TB 12,1,DET,XP
-22,3622,1,05:08,,5,4,92,TB 5,1,DET,TD
-22,3642,0,05:01,,0,4,92,TB 2,0,DET,PENALTY
-22,3553,2,07:15,,10,4,70,TB 35,0,DET,
-12,1985,0,,,0,2,0,,0,,
-12,1963,0,00:05,,0,2,0,TB 20,0,TB,KICKOFF
-16,2396,2,09:41,,7,3,7,DET 41,0,DET,
-16,2375,1,10:14,,10,3,3,DET 38,0,DET,
-16,2444,3,08:35,,8,3,2,DET 40,0,DET,
-16,2421,3,09:15,,3,3,2,DET 45,0,DET,PENALTY
-16,2465,4,07:55,,8,3,2,DET 40,0,DET,PUNT
-7,1207,1,08:43,,10,2,19,TB 17,0,DET,
-7,1273,3,07:55,,3,2,27,TB 10,0,DET,
-7,1250,3,07:55,,8,2,24,TB 15,0,DET,PENALTY
-7,1162,1,10:01,,10,2,0,TB 34,0,DET,
-7,1318,2,06:47,,2,2,33,TB 2,0,DET,
-7,1228,2,08:01,,8,2,19,TB 15,0,DET,
-7,1297,1,07:21,,7,2,32,TB 7,0,DET,
-7,1183,2,09:23,,10,2,17,TB 34,0,DET,
-7,1339,3,06:07,,1,2,34,TB 1,1,DET,TD
-7,1356,0,06:01,,0,2,34,TB 2,1,DET,XP
-3,495,2,05:54,,10,1,21,TB 49,0,DET,
-3,429,2,07:59,,10,1,0,DET 30,0,DET,
-3,566,2,04:27,,7,1,64,TB 34,0,DET,
-3,545,1,05:07,,10,1,36,TB 37,0,DET,
-3,614,1,03:07,,6,1,64,TB 6,0,DET,
-3,474,1,06:36,,10,1,21,TB 49,0,DET,
-3,407,1,08:08,,10,1,0,DET 30,0,DET,
-3,521,3,05:45,,10,1,33,TB 49,0,DET,
-3,450,3,07:19,,10,1,21,DET 30,0,DET,
-3,590,1,03:48,,10,1,64,TB 19,0,DET,
-3,656,0,02:57,,0,1,70,TB 2,1,DET,XP
-3,636,2,03:02,,6,1,70,TB 6,1,DET,TD
-17,2594,4,05:54,,1,3,9,TB 31,0,TB,PUNT
-17,2514,2,07:44,,10,3,9,TB 22,0,TB,PENALTY
-17,2570,3,06:35,,8,3,9,TB 24,0,TB,
-17,2546,2,07:19,,18,3,2,TB 14,0,TB,
-17,2492,1,07:49,,10,3,0,TB 22,0,TB,
-4,942,3,14:16,,10,2,44,DET 26,0,TB,
-4,788,3,00:59,,2,1,29,TB 45,0,TB,
-4,812,1,00:20,,10,1,29,TB 49,0,TB,
-4,898,1,14:25,,10,2,54,DET 26,0,TB,
-4,712,2,02:18,,1,1,17,TB 29,0,TB,
-4,874,3,15:00,,9,2,54,50,0,TB,
-4,961,4,13:37,,20,2,44,DET 36,1,TB,FG
-4,672,0,02:57,,0,1,0,DET 35,0,DET,KICKOFF
-4,736,1,01:43,,10,1,25,TB 37,0,TB,
-4,760,2,01:05,,2,1,25,TB 45,0,TB,
-4,834,2,00:15,,10,1,30,TB 49,0,TB,
-4,920,2,14:21,,10,2,44,DET 26,0,TB,
-4,691,1,02:57,,10,1,9,TB 20,0,TB,
-2,317,1,09:08,,10,1,0,TB 24,0,TB,
-2,362,3,08:22,,7,1,3,TB 27,0,TB,
-2,384,4,08:17,,7,1,3,TB 27,0,TB,PUNT
-2,339,2,09:05,,10,1,3,TB 24,0,TB,
-15,2287,1,11:14,,10,3,3,TB 20,0,TB,
-15,2334,3,10:27,,7,3,3,TB 23,0,TB,
-15,2268,0,11:14,,0,3,0,DET 35,0,DET,KICKOFF
-15,2308,2,10:36,,7,3,3,TB 23,0,TB,
-15,2356,4,10:21,,7,3,3,TB 23,0,TB,PUNT
+24,3910,4,02:29,(2:29) R.Bush left end to TB 40 for -1 yards (O.Lemon).,5,4,4,TB 39,0,DET,
+24,3797,1,03:30,(3:30) J.Bell left tackle to TB 44 for no gain (W.Gholston).,10,4,0,TB 44,0,DET,
+24,3839,0,02:39,Timeout #2 by TB at 02:39.,0,4,0,,0,,TIMEOUT
+24,3877,0,02:29,Timeout #3 by TB at 02:29.,0,4,5,,0,,TIMEOUT
+24,3856,3,02:39,(2:39) R.Bush right end to TB 39 for 5 yards (A.Spence).,10,4,5,TB 44,0,DET,
+24,3818,2,02:44,(2:44) J.Bell right tackle to TB 44 for no gain (W.Gholston; M.Wright).,10,4,0,TB 44,0,DET,
+25,4045,3,01:44,(1:44) (Shotgun) J.McCown pass incomplete short left to M.Evans [D.Taylor].,10,4,45,DET 15,0,TB,
+25,4067,4,01:38,(1:38) (Shotgun) J.McCown sacked at DET 20 for -5 yards (A.Fluellen).,10,4,40,DET 15,0,TB,
+25,4001,1,01:55,(1:55) (Shotgun) J.McCown pass incomplete short right to V.Jackson (D.Slay).,10,4,45,DET 15,0,TB,
+25,3931,1,02:23,(2:23) (Shotgun) J.McCown pass short left to L.Murphy to TB 49 for 9 yards (C.Vaughn).,10,4,9,TB 40,0,TB,
+25,3955,2,02:02,"(2:02) (No Huddle, Shotgun) J.McCown pass deep right to V.Jackson pushed ob at DET 15 for 36 yards (D.Slay) [C.Mosley].",1,4,45,TB 49,0,TB,
+25,4023,2,01:49,(1:49) (Shotgun) J.McCown pass incomplete short left to M.Evans.,10,4,45,DET 15,0,TB,
+25,3984,0,01:55,Two-Minute Warning,0,4,45,,0,,
+26,4090,1,01:33,(1:33) M.Stafford kneels to DET 20 for no gain.,10,4,-2,DET 20,0,DET,
+26,4136,3,00:33,(:33) M.Stafford kneels to DET 18 for -1 yards.,11,4,-2,DET 19,0,DET,
+26,4115,2,00:54,(:54) M.Stafford kneels to DET 19 for -1 yards.,10,4,-1,DET 20,0,DET,
+26,4157,0,00:00,END GAME,0,4,-2,,0,,
+20,3165,1,12:43,(12:43) R.Bush up the middle to DET 46 for 4 yards (B.McDougald).,10,4,4,DET 42,0,DET,
+20,3207,3,11:12,"(11:12) (Shotgun) M.Stafford sacked at DET 39 for -6 yards (L.English). FUMBLES (L.English), recovered by DET-T.Swanson at DET 36. T.Swanson to DET 36 for no gain (G.McCoy).",7,4,-6,DET 45,0,DET,FUMBLE
+20,3186,2,12:06,(12:06) (Shotgun) J.Bell left end to DET 45 for -1 yards (D.Lansanah).,6,4,3,DET 46,0,DET,
+20,3143,0,12:52,M.Koenen kicks 59 yards from TB 35 to DET 6. J.Ross to DET 42 for 36 yards (I.Frey).,0,4,0,TB 35,0,TB,KICKOFF
+20,3236,4,10:51,"(10:51) S.Martin punts 46 yards to TB 18, Center-D.Muhlbach, downed by DET. PENALTY on DET-I.Abdul-Quddus, Interference with Opportunity to Catch, 15 yards, enforced at TB 18.",16,4,-6,DET 36,0,DET,PUNT
+21,3452,3,08:17,"(8:17) J.McCown pass short left to L.Murphy to DET 46 for 5 yards (R.Mathis). Penalty on TB-L.Mankins, Offensive Holding, declined.",18,4,13,TB 49,0,TB,
+21,3319,1,10:25,(10:25) (Shotgun) C.Sims up the middle to TB 19 for -4 yards (N.Suh).,20,4,13,TB 23,0,TB,
+21,3395,2,09:24,"(9:24) J.McCown pass short right to L.Murphy to DET 43 for no gain (D.Slay). PENALTY on TB-V.Jackson, Offensive Pass Interference, 10 yards, enforced at DET 43 - No Play.",10,4,24,DET 43,0,TB,PENALTY
+21,3430,2,09:01,(9:01) (Shotgun) J.McCown scrambles left end to TB 49 for 2 yards (N.Suh).,20,4,26,TB 47,0,TB,
+21,3340,2,09:39,"(9:39) (Shotgun) J.McCown pass incomplete deep right to M.Evans. PENALTY on DET-D.Slay, Defensive Pass Interference, 38 yards, enforced at TB 19 - No Play.",24,4,13,TB 19,0,TB,PENALTY
+21,3373,1,09:31,(9:31) (Shotgun) J.McCown pass incomplete short left to M.Evans.,10,4,34,DET 43,0,TB,
+21,3487,4,08:05,"(8:05) M.Koenen punts 38 yards to DET 8, Center-A.DePaola, fair catch by J.Ross.",13,4,21,DET 46,0,TB,PUNT
+21,3276,1,10:39,"(10:39) J.McCown pass short left to M.James to TB 41 for 8 yards (J.Ihedigbo). FUMBLES (J.Ihedigbo), ball out of bounds at TB 36. PENALTY on TB-D.Dotson, Offensive Holding, 10 yards, enforced at TB 33 - No Play.",10,4,13,TB 33,0,TB,PENALTY
+22,3598,2,05:51,(5:51) (Shotgun) M.Stafford pass short left to C.Johnson to TB 5 for 15 yards (J.Banks) [M.Johnson].,8,4,87,TB 20,0,DET,
+22,3553,2,07:15,(7:15) M.Stafford pass short right to C.Johnson to TB 22 for 13 yards (J.Banks).,10,4,70,TB 35,0,DET,
+22,3577,1,06:33,(6:33) J.Bell right end to TB 20 for 2 yards (B.McDougald).,10,4,72,TB 22,0,DET,
+22,3510,1,07:55,"(7:55) J.Bell right tackle pushed ob at TB 35 for 57 yards (A.Verner, D.Fletcher).",10,4,57,DET 8,0,DET,
+22,3622,1,05:08,"(5:08) M.Stafford pass short middle to J.Bell for 5 yards, TOUCHDOWN.",5,4,92,TB 5,1,DET,TD
+22,3531,1,07:22,(7:22) M.Stafford pass incomplete short middle to G.Tate [M.Johnson].,10,4,57,TB 35,0,DET,
+22,3658,0,05:01,"M.Prater extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin.",0,4,92,TB 12,1,DET,XP
+22,3642,0,05:01,"M.Prater extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin. PENALTY on DET-D.Taylor, Offensive Holding, 10 yards, enforced at TB 2 - No Play.",0,4,92,TB 2,0,DET,PENALTY
+23,3714,1,05:01,(5:01) (Shotgun) J.McCown sacked at TB 16 for -4 yards (E.Ansah).,10,4,-4,TB 20,0,TB,
+23,3733,2,04:29,"(4:29) (No Huddle, Shotgun) J.McCown pass incomplete short middle to L.Murphy [E.Ansah].",14,4,-4,TB 16,0,TB,
+23,3695,0,05:01,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,4,0,DET 35,0,DET,KICKOFF
+23,3755,3,04:25,(4:25) (Shotgun) J.McCown sacked at TB 5 for -11 yards (N.Suh).,14,4,-15,TB 16,0,TB,
+23,3774,4,03:37,"(3:37) M.Koenen punts 39 yards to TB 44, Center-A.DePaola, fair catch by J.Ross.",25,4,-15,TB 5,0,TB,PUNT
+1,150,2,12:51,(12:51) (No Huddle) J.Bell left tackle to DET 41 for 2 yards (A.Spence).,4,1,21,DET 39,0,DET,
+1,198,1,11:56,(11:56) M.Stafford pass short right to G.Tate to TB 33 for 19 yards (D.Lansanah).,10,1,48,DET 48,0,DET,
+1,55,1,15:00,(15:00) T.Swanson reported in as eligible.  J.Bell up the middle to DET 21 for 1 yard (L.Johnson).,10,1,1,DET 20,0,DET,
+1,36,0,15:00,"M.Koenen kicks 65 yards from TB 35 to end zone, Touchback.",0,1,0,TB 35,0,TB,KICKOFF
+1,243,2,10:28,(10:28) (Shotgun) M.Stafford pass short right to R.Bush to TB 32 for 2 yards (L.David).,11,1,48,TB 34,0,DET,
+1,267,3,09:46,(9:46) (Shotgun) M.Stafford pass short left to G.Tate to TB 24 for 8 yards (J.Smith). TB-G.McCoy was injured during the play. His return is Questionable.,9,1,56,TB 32,0,DET,
+1,126,1,13:12,(13:12) M.Stafford pass short middle to J.Bell to DET 39 for 6 yards (L.David).,10,1,19,DET 33,0,DET,
+1,102,3,13:47,(13:47) (Shotgun) M.Stafford pass short middle to J.Bell to DET 33 for 7 yards (D.Lansanah).,4,1,13,DET 26,0,DET,
+1,294,4,09:16,(9:16) T.Swanson reported in as eligible.  J.Bell left tackle to TB 24 for no gain (A.Spence).,1,1,56,TB 24,0,DET,
+1,222,1,11:06,(11:06) R.Bush right tackle to TB 34 for -1 yards (T.Fatinikun).,10,1,46,TB 33,0,DET,
+1,171,3,12:13,"(12:13) (Shotgun) M.Stafford pass short left to J.Fauria to DET 48 for 7 yards (D.Goldson, A.Verner). DET-J.Fauria was injured during the play. His return is Questionable.",2,1,56,DET 41,0,DET,
+1,78,2,14:25,(14:25) (Shotgun) M.Stafford pass short middle to E.Ebron to DET 26 for 5 yards (L.David).,9,1,6,DET 21,0,DET,
+3,429,2,07:59,"(7:59) J.Bell left tackle to DET 30 for no gain (D.Bowers, A.Spence).",10,1,0,DET 30,0,DET,
+3,636,2,03:02,"(3:02) M.Stafford pass short right to C.Johnson for 6 yards, TOUCHDOWN.",6,1,70,TB 6,1,DET,TD
+3,590,1,03:48,(3:48) (Shotgun) M.Stafford pass short middle to G.Tate to TB 6 for 13 yards (M.Wright).,10,1,64,TB 19,0,DET,
+3,450,3,07:19,(7:19) (Shotgun) M.Stafford pass short right to C.Johnson to TB 49 for 21 yards (D.Lansanah).,10,1,21,DET 30,0,DET,
+3,566,2,04:27,(4:27) M.Stafford pass short right to C.Johnson to TB 19 for 15 yards (J.Banks).,7,1,64,TB 34,0,DET,
+3,407,1,08:08,(8:08) M.Stafford pass incomplete deep right to C.Johnson (B.McDougald) [J.Smith].,10,1,0,DET 30,0,DET,
+3,521,3,05:45,(5:45) (Shotgun) M.Stafford pass short middle to E.Ebron to TB 37 for 12 yards (D.Goldson).,10,1,33,TB 49,0,DET,
+3,474,1,06:36,(6:36) J.Bell right tackle to TB 49 for no gain (D.Bowers; O.Lemon).,10,1,21,TB 49,0,DET,
+3,545,1,05:07,"(5:07) (Shotgun) R.Bush right end to TB 34 for 3 yards (B.Dixon, T.Fatinikun).",10,1,36,TB 37,0,DET,
+3,614,1,03:07,(3:07) M.Stafford pass incomplete short right to E.Ebron.,6,1,64,TB 6,0,DET,
+3,495,2,05:54,(5:54) M.Stafford pass incomplete short right. Ball thrown away.,10,1,21,TB 49,0,DET,
+3,656,0,02:57,"M.Prater extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin.",0,1,70,TB 2,1,DET,XP
+2,339,2,09:05,(9:05) K.Pamphile reported in as eligible.  D.Martin up the middle to TB 27 for 3 yards (J.Ihedigbo).,10,1,3,TB 24,0,TB,
+2,362,3,08:22,(8:22) (Shotgun) J.McCown pass incomplete deep right to V.Jackson.,7,1,3,TB 27,0,TB,
+2,317,1,09:08,(9:08) (Shotgun) J.McCown pass incomplete short left to M.Evans.,10,1,0,TB 24,0,TB,
+2,384,4,08:17,"(8:17) M.Koenen punts 43 yards to DET 30, Center-A.DePaola, fair catch by J.Ross.",7,1,3,TB 27,0,TB,PUNT
+5,980,0,13:32,"M.Koenen kicks 65 yards from TB 35 to end zone, Touchback.",0,2,0,TB 35,0,TB,KICKOFF
+5,999,1,13:32,(13:32) J.Bell left tackle to DET 23 for 3 yards (G.McCoy).,10,2,3,DET 20,0,DET,
+5,1020,2,12:58,(12:58) (Shotgun) M.Stafford pass short right to R.Bush to DET 29 for 6 yards (J.Smith; A.Verner).,7,2,9,DET 23,0,DET,
+5,1067,4,11:36,"(11:36) S.Martin punts 71 yards to end zone, Center-D.Muhlbach, Touchback.",1,2,9,DET 29,0,DET,PUNT
+5,1044,3,12:11,(12:11) M.Stafford sacked at DET 29 for 0 yards (J.Smith).,1,2,9,DET 29,0,DET,
+4,691,1,02:57,(2:57) D.Martin right end to TB 29 for 9 yards (T.Whitehead).,10,1,9,TB 20,0,TB,
+4,961,4,13:37,"(13:37) P.Murray 54 yard field goal is GOOD, Center-A.DePaola, Holder-M.Koenen.",20,2,44,DET 36,1,TB,FG
+4,834,2,00:15,(:15) J.McCown pass short right to M.Evans to 50 for 1 yard (D.Levy).,10,1,30,TB 49,0,TB,
+4,898,1,14:25,(14:25) J.McCown pass incomplete short left to V.Jackson.,10,2,54,DET 26,0,TB,
+4,942,3,14:16,(14:16) (Shotgun) J.McCown sacked at DET 36 for -10 yards (G.Johnson).,10,2,44,DET 26,0,TB,
+4,760,2,01:05,(1:05) (Shotgun) K.Pamphile reported in as eligible.  J.McCown pass incomplete deep left to L.Stocker.,2,1,25,TB 45,0,TB,
+4,788,3,00:59,(:59) (Shotgun) J.McCown pass short left to L.Stocker to TB 49 for 4 yards (R.Mathis; D.Levy) [E.Ansah].,2,1,29,TB 45,0,TB,
+4,712,2,02:18,(2:18) J.McCown pass short left to V.Jackson to TB 37 for 8 yards (J.Ihedigbo).,1,1,17,TB 29,0,TB,
+4,672,0,02:57,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,1,0,DET 35,0,DET,KICKOFF
+4,736,1,01:43,(1:43) (Shotgun) J.McCown pass short middle to V.Jackson to TB 45 for 8 yards (R.Mathis; J.Ihedigbo).,10,1,25,TB 37,0,TB,
+4,920,2,14:21,(14:21) (Shotgun) J.McCown pass incomplete deep middle to M.Evans (G.Quin).,10,2,44,DET 26,0,TB,
+4,812,1,00:20,(:20) (Shotgun) J.McCown pass incomplete short left to M.Evans (R.Mathis).,10,1,29,TB 49,0,TB,
+4,874,3,15:00,(15:00) (Shotgun) J.McCown pass short right to C.Sims ran ob at DET 26 for 24 yards (G.Quin).,9,2,54,50,0,TB,
+7,1356,0,06:01,"M.Prater extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin.",0,2,34,TB 2,1,DET,XP
+7,1339,3,06:07,"(6:07) J.Bell right tackle for 1 yard, TOUCHDOWN. The Replay Official challenged the runner was down by contact ruling, and the play was Upheld. The ruling on the field stands.",1,2,34,TB 1,1,DET,TD
+7,1162,1,10:01,(10:01) J.Bell left end to TB 34 for no gain (O.Lemon).,10,2,0,TB 34,0,DET,
+7,1207,1,08:43,(8:43) G.Winn right tackle to TB 15 for 2 yards (O.Lemon).,10,2,19,TB 17,0,DET,
+7,1273,3,07:55,(7:55) (Shotgun) M.Stafford pass short right to R.Bush pushed ob at TB 7 for 3 yards (W.Gholston; B.McDougald).,3,2,27,TB 10,0,DET,
+7,1183,2,09:23,(9:23) M.Stafford pass deep middle to C.Johnson to TB 17 for 17 yards (D.Lansanah).,10,2,17,TB 34,0,DET,
+7,1228,2,08:01,(8:01) (Shotgun) M.Stafford pass incomplete short right to R.Bush (J.Banks).,8,2,19,TB 15,0,DET,
+7,1250,3,07:55,"(7:55) (Shotgun) PENALTY on TB-G.McCoy, Neutral Zone Infraction, 5 yards, enforced at TB 15 - No Play.",8,2,24,TB 15,0,DET,PENALTY
+7,1318,2,06:47,(6:47) J.Bell up the middle to TB 1 for 1 yard (W.Gholston).,2,2,33,TB 2,0,DET,
+7,1297,1,07:21,(7:21) J.Bell right tackle to TB 2 for 5 yards (L.David).,7,2,32,TB 7,0,DET,
+6,1115,2,10:53,(10:53) C.Sims right end to TB 20 for -3 yards (J.Bynes).,7,2,0,TB 23,0,TB,
+6,1136,3,10:08,(10:08) (Shotgun) J.McCown pass short left intended for M.Evans INTERCEPTED by G.Quin at TB 34. G.Quin to TB 34 for no gain (L.Stocker).,10,2,0,TB 20,0,TB,INT
+6,1088,1,11:28,(11:28) Sideline warning given to Tampa Bay. K.Pamphile reported in as eligible.  C.Sims left tackle to TB 23 for 3 yards (C.Mosley).,10,2,3,TB 20,0,TB,
+9,1542,3,03:48,(3:48) (Shotgun) M.Stafford pass short left to R.Bush to TB 28 for -3 yards (A.Verner).,3,2,4,TB 25,0,DET,
+9,1518,2,04:29,(4:29) (Shotgun) M.Stafford pass short left to J.Bell to TB 25 for 5 yards (I.Frey; J.Banks).,8,2,7,TB 30,0,DET,
+9,1566,4,03:05,"(3:05) M.Prater 46 yard field goal is GOOD, Center-D.Muhlbach, Holder-S.Martin.",6,2,4,TB 28,1,DET,FG
+9,1497,1,05:04,(5:04) R.Bush right tackle to TB 30 for 2 yards (L.David; M.Johnson).,10,2,2,TB 32,0,DET,
+8,1447,2,05:34,"(5:34) (No Huddle, Shotgun) J.McCown pass short left to V.Jackson pushed ob at TB 35 for 9 yards (R.Mathis).",4,2,12,TB 26,0,TB,
+8,1423,1,06:01,(6:01) (Shotgun) J.McCown pass short left to V.Jackson to TB 26 for 6 yards (R.Mathis).,10,2,6,TB 20,0,TB,
+8,1471,1,05:10,"(5:10) (No Huddle) J.McCown FUMBLES (Aborted) at TB 34, RECOVERED by DET-A.Fluellen at TB 32. A.Fluellen to TB 32 for no gain (J.McCown).",10,2,12,TB 35,0,TB,FUMBLE
+8,1399,0,06:01,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,2,0,DET 35,0,DET,KICKOFF
+11,1843,2,00:52,(:52) (Shotgun) J.McCown sacked at DET 14 for -8 yards (D.Levy).,6,2,-4,DET 6,0,TB,
+11,1947,0,00:05,"P.Murray extra point is GOOD, Center-A.DePaola, Holder-M.Koenen.",0,2,10,DET 2,1,TB,XP
+11,1819,1,01:35,"(1:35) (Shotgun) J.McCown pass short left to L.Murphy to DET 6 for 4 yards (T.Whitehead, C.Vaughn).",10,2,10,DET 10,0,TB,
+11,1862,0,00:17,Timeout #1 by TB at 00:17.,0,2,-4,,0,,TIMEOUT
+11,1879,3,00:17,"(:17) J.McCown scrambles left end pushed ob at DET 11 for 3 yards (R.Mathis). PENALTY on DET-J.Jones, Face Mask (15 Yards), 6 yards, enforced at DET 11.",14,2,10,DET 14,0,TB,PENALTY
+11,1916,1,00:09,"(:09) (Shotgun) J.McCown pass short left to M.Evans for 5 yards, TOUCHDOWN. PENALTY on TB-D.Dotson, Personal Foul, 15 yards, enforced between downs.",5,2,10,DET 5,1,TB,TD
+10,1701,0,02:00,Two-Minute Warning,0,2,13,,0,,
+10,1776,1,01:49,"(1:49) (Shotgun) J.McCown pass short middle intended for V.Jackson INTERCEPTED by J.Ihedigbo (G.Quin) at DET -7. J.Ihedigbo to DET 4 for 11 yards (L.Stocker). FUMBLES (L.Stocker), RECOVERED by TB-O.Cousins at DET 10. O.Cousins to DET 10 for no gain (D.Slay).",8,2,72,DET 8,0,TB,INT
+10,1625,2,02:33,"(2:33) (No Huddle, Shotgun) J.McCown pass incomplete short left to V.Jackson. Ball thrown away.",7,2,3,TB 23,0,TB,
+10,1718,2,02:00,"(2:00) J.McCown pass deep right to V.Jackson to DET 17 for 50 yards (J.Ihedigbo) [N.Suh]. PENALTY on DET-N.Suh, Roughing the Passer, 9 yards, enforced at DET 17.",13,2,72,TB 33,0,TB,PENALTY
+10,1604,1,03:01,(3:01) (Shotgun) J.McCown scrambles up the middle to TB 23 for 3 yards (D.Levy).,10,2,3,TB 20,0,TB,
+10,1585,0,03:01,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,2,0,DET 35,0,DET,KICKOFF
+10,1680,1,02:07,(2:07) C.Sims right tackle to TB 33 for -3 yards (N.Suh).,10,2,13,TB 36,0,TB,
+10,1651,3,02:28,(2:28) (Shotgun) J.McCown pass short right to M.Evans ran ob at TB 36 for 13 yards.,7,2,16,TB 23,0,TB,
+10,1753,0,01:49,Timeout #1 by DET at 01:49.,0,2,72,,0,,TIMEOUT
+13,2134,4,13:06,"(13:06) M.Koenen punts 50 yards to DET 28, Center-A.DePaola. J.Ross to DET 39 for 11 yards (L.Johnson).",8,3,2,TB 22,0,TB,PUNT
+13,2058,2,14:31,(14:31) (Shotgun) J.McCown sacked at TB 17 for -5 yards (D.Levy).,8,3,-3,TB 22,0,TB,
+13,2037,1,15:00,(15:00) D.Martin up the middle to TB 22 for 2 yards (N.Suh; C.Mosley).,10,3,2,TB 20,0,TB,
+13,2001,0,15:00,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,3,0,DET 35,0,DET,KICKOFF
+13,2020,0,15:00,Timeout #1 by TB at 15:00.,0,3,0,,0,,TIMEOUT
+13,2112,3,13:13,(13:13) (Shotgun) J.McCown pass incomplete short right to V.Jackson (C.Vaughn).,8,3,2,TB 22,0,TB,
+13,2077,3,13:49,"(13:49) (Shotgun) J.McCown pass short left to L.Murphy to TB 25 for 8 yards (E.Ansah). PENALTY on DET-E.Ansah, Defensive Offside, 5 yards, enforced at TB 17 - No Play.",13,3,2,TB 17,0,TB,PENALTY
+12,1985,0,,END QUARTER 2,0,2,0,,0,,
+12,1963,0,00:05,M.Koenen kicks 76 yards from TB 20 to DET 4. J.Ross pushed ob at DET 35 for 31 yards (I.Frey).,0,2,0,TB 20,0,TB,KICKOFF
+15,2308,2,10:36,(10:36) J.McCown pass incomplete short right [N.Suh]. Ball thrown away.,7,3,3,TB 23,0,TB,
+15,2268,0,11:14,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,3,0,DET 35,0,DET,KICKOFF
+15,2356,4,10:21,"(10:21) M.Koenen punts 39 yards to DET 38, Center-A.DePaola, fair catch by J.Ross.",7,3,3,TB 23,0,TB,PUNT
+15,2334,3,10:27,(10:27) (Shotgun) J.McCown pass incomplete short left to V.Jackson (R.Mathis) [T.Whitehead].,7,3,3,TB 23,0,TB,
+15,2287,1,11:14,(11:14) C.Sims right tackle to TB 23 for 3 yards (C.Vaughn).,10,3,3,TB 20,0,TB,
+14,2183,1,12:08,(12:08) M.Stafford pass incomplete short left to R.Bush.,8,3,56,TB 8,0,DET,
+14,2227,3,11:23,(11:23) (Shotgun) M.Stafford pass incomplete short right to J.Ross (L.David).,5,3,56,TB 5,0,DET,
+14,2159,1,12:55,(12:55) M.Stafford pass deep middle to C.Johnson to TB 8 for 53 yards (B.McDougald).,10,3,53,DET 39,0,DET,
+14,2206,2,12:03,(12:03) J.Bell up the middle to TB 5 for 3 yards (O.Lemon).,8,3,56,TB 8,0,DET,
+14,2249,4,11:18,"(11:18) M.Prater 23 yard field goal is GOOD, Center-D.Muhlbach, Holder-S.Martin.",5,3,56,TB 5,1,DET,FG
+17,2514,2,07:44,"(7:44) D.Martin up the middle to TB 33 for 11 yards (N.Suh). PENALTY on TB-E.Dietrich-Smith, Offensive Holding, 10 yards, enforced at TB 24.",10,3,9,TB 22,0,TB,PENALTY
+17,2594,4,05:54,"(5:54) M.Koenen punts 46 yards to DET 23, Center-A.DePaola. J.Ross to DET 23 for no gain (B.Magee). PENALTY on DET, Illegal Block Above the Waist, 10 yards, enforced at DET 22.",1,3,9,TB 31,0,TB,PUNT
+17,2492,1,07:49,(7:49) J.McCown pass incomplete short left to L.Stocker.,10,3,0,TB 22,0,TB,
+17,2546,2,07:19,(7:19) (Shotgun) J.McCown pass short right to V.Jackson to TB 24 for 10 yards (D.Slay) [E.Ansah].,18,3,2,TB 14,0,TB,
+17,2570,3,06:35,(6:35) (Shotgun) J.McCown pass short left to V.Jackson to TB 31 for 7 yards (T.Whitehead).,8,3,9,TB 24,0,TB,
+16,2396,2,09:41,(9:41) (Shotgun) J.Ross left end to DET 45 for 4 yards (D.Goldson). Play was a reverse.,7,3,7,DET 41,0,DET,
+16,2375,1,10:14,(10:14) J.Bell right tackle to DET 41 for 3 yards (D.Bowers).,10,3,3,DET 38,0,DET,
+16,2465,4,07:55,"(7:55) S.Martin punts 38 yards to TB 22, Center-D.Muhlbach, fair catch by S.Patton.",8,3,2,DET 40,0,DET,PUNT
+16,2444,3,08:35,(8:35) (Shotgun) M.Stafford sacked at DET 40 for 0 yards (J.Smith).,8,3,2,DET 40,0,DET,
+16,2421,3,09:15,"(9:15) (Shotgun) PENALTY on DET-G.Tate, False Start, 5 yards, enforced at DET 45 - No Play.",3,3,2,DET 45,0,DET,PENALTY
+19,2929,0,,END QUARTER 3,0,3,6,,0,,
+19,2967,3,14:55,(14:55) (Shotgun) J.McCown pass short right to V.Jackson pushed ob at TB 37 for 12 yards (D.Slay).,4,4,18,TB 25,0,TB,
+19,3024,1,14:06,(14:06) (Shotgun) J.McCown pass short middle to V.Jackson to DET 26 for 13 yards (J.Ihedigbo).,10,4,55,DET 39,0,TB,
+19,2886,0,00:15,S.Martin kicks 69 yards from DET 35 to TB -4. S.Patton to TB 19 for 23 yards (G.Winn).,0,3,0,DET 35,0,DET,KICKOFF
+19,2991,1,14:13,"(14:13) (Shotgun) J.McCown pass incomplete deep right to V.Jackson [D.Tapp]. PENALTY on DET-D.Slay, Defensive Pass Interference, 24 yards, enforced at TB 37 - No Play.",10,4,42,TB 37,0,TB,PENALTY
+19,2908,1,00:09,(:09) (Shotgun) D.Martin right tackle to TB 25 for 6 yards (G.Quin).,10,3,6,TB 19,0,TB,
+19,3127,0,12:52,"P.Murray extra point is GOOD, Center-A.DePaola, Holder-M.Koenen.",0,4,81,DET 2,1,TB,XP
+19,3048,1,13:34,(13:34) (Shotgun) J.McCown pass short right to D.Martin to DET 26 for no gain (C.Vaughn).,10,4,55,DET 26,0,TB,
+19,3072,2,13:00,"(13:00) (No Huddle, Shotgun) J.McCown pass deep left to M.Evans for 26 yards, TOUCHDOWN. The Replay Official challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands.",10,4,81,DET 26,1,TB,TD
+19,2945,2,15:00,(15:00) (Shotgun) J.McCown pass incomplete short right to C.Sims.,4,4,6,TB 25,0,TB,
+18,2727,1,02:47,"(2:47) (Shotgun) M.Stafford Aborted. D.Raiola FUMBLES at TB 38, recovered by DET-M.Stafford at TB 46. M.Stafford pass incomplete short right. Ball thrown away.",10,3,88,TB 38,0,DET,FUMBLE
+18,2658,1,04:57,(4:57) (Shotgun) R.Bush up the middle to DET 41 for 2 yards (T.Fatinikun).,10,3,29,DET 39,0,DET,
+18,2850,3,00:20,"(:20) (Shotgun) M.Stafford pass short middle to J.Fauria for 10 yards, TOUCHDOWN.",10,3,88,TB 10,1,DET,TD
+18,2630,1,05:42,(5:42) M.Stafford pass short left to J.Bell to DET 39 for 27 yards (M.Wright; J.Banks).,10,3,27,DET 12,0,DET,
+18,2703,1,03:33,(3:33) M.Stafford pass short right to E.Ebron to TB 38 for 11 yards (M.Wright; D.Lansanah).,10,3,50,TB 49,0,DET,
+18,2870,0,00:15,"M.Prater extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin.",0,3,88,TB 2,1,DET,XP
+18,2786,1,02:01,(2:01) (Shotgun) R.Bush up the middle to TB 8 for 12 yards (D.Lansanah).,10,3,80,TB 20,0,DET,
+18,2831,2,01:01,(1:01) M.Stafford sacked at TB 10 for -8 yards (W.Gholston).,2,3,78,TB 2,0,DET,
+18,2679,2,04:16,(4:16) (Shotgun) M.Stafford pass short right to G.Tate to TB 49 for 10 yards (D.Lansanah).,8,3,39,DET 41,0,DET,
+18,2807,1,01:22,(1:22) J.Bell right end pushed ob at TB 2 for 6 yards (D.Goldson). TB-L.David was injured during the play. He is Out.,8,3,88,TB 8,0,DET,
+18,2758,2,02:40,(2:40) (Shotgun) M.Stafford pass short right to C.Johnson to TB 20 for 18 yards (A.Verner).,10,3,68,TB 38,0,DET,

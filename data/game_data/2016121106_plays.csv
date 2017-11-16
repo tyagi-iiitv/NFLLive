@@ -1,180 +1,180 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,998,0,14:55,,0,2,2,,0,,TIMEOUT
-9,976,2,15:00,,8,2,2,ARI 3,0,ARI,
-9,1024,3,14:55,,8,2,2,ARI 3,0,ARI,
-9,1046,4,14:50,,8,2,2,ARI 3,0,ARI,PUNT
-9,939,1,00:22,,10,1,2,ARI 1,0,ARI,
-9,960,0,,,0,1,2,,0,,
-24,3432,2,08:07,,8,4,76,MIA 39,0,ARI,PENALTY
-24,3180,1,13:48,,10,4,45,ARI 1,0,ARI,
-24,3411,1,08:49,,10,4,60,MIA 41,0,ARI,
-24,3208,1,13:10,,10,4,21,ARI 16,0,ARI,
-24,3489,1,07:23,,9,4,90,MIA 9,0,ARI,
-24,3325,2,10:01,,5,4,48,ARI 46,0,ARI,
-24,3533,3,07:11,,9,4,99,MIA 9,1,ARI,TD
-24,3349,3,09:27,,2,4,53,ARI 49,0,ARI,PENALTY
-24,3298,1,10:42,,10,4,45,ARI 41,0,ARI,
-24,3277,2,11:11,,2,4,60,ARI 38,0,ARI,
-24,3381,1,09:03,,10,4,58,MIA 46,0,ARI,PENALTY
-24,3511,2,07:15,,9,4,90,MIA 9,0,ARI,
-24,3553,0,07:05,,0,4,99,MIA 15,1,ARI,XPB
-24,3253,1,11:47,,10,4,58,ARI 30,0,ARI,
-24,3229,2,12:26,,4,4,58,ARI 22,0,ARI,
-24,3465,1,08:00,,10,4,90,MIA 23,0,ARI,
-10,1224,0,11:41,,0,2,43,ARI 15,1,MIA,XP
-10,1133,1,13:39,,10,2,30,ARI 25,0,MIA,
-10,1162,1,13:06,,10,2,37,ARI 13,0,MIA,
-10,1082,1,14:36,,10,2,5,ARI 43,0,MIA,PENALTY
-10,1183,2,12:28,,3,2,36,ARI 6,0,MIA,
-10,1112,1,14:18,,10,2,18,ARI 38,0,MIA,
-10,1204,3,11:47,,4,2,43,ARI 7,1,MIA,TD
-20,2632,2,06:29,,8,3,23,MIA 35,0,MIA,
-20,2542,1,09:13,,10,3,25,MIA 16,0,MIA,FUMBLE
-20,2677,4,05:05,,2,3,25,MIA 41,0,MIA,PUNT
-20,2563,2,08:30,,10,3,25,MIA 16,0,MIA,
-20,2587,3,07:50,,7,3,17,MIA 19,0,MIA,
-20,2653,3,05:49,,4,3,25,MIA 39,0,MIA,
-20,2611,1,07:08,,10,3,19,MIA 33,0,MIA,
-6,624,1,06:15,,10,1,9,MIA 37,0,MIA,
-6,743,3,03:09,,9,1,17,ARI 46,0,MIA,
-6,710,2,03:55,,16,1,17,MIA 47,0,MIA,
-6,666,1,04:59,,10,1,11,ARI 47,0,MIA,PENALTY
-6,771,4,02:58,,9,1,17,ARI 46,0,MIA,PUNT
-6,645,2,05:37,,1,1,16,MIA 46,0,MIA,
-6,689,1,04:41,,15,1,10,MIA 48,0,MIA,
-27,3877,1,03:01,,10,4,0,MIA 25,0,MIA,
-27,3920,3,02:22,,9,4,7,MIA 26,0,MIA,
-27,3961,4,02:04,,3,4,7,MIA 32,0,MIA,PUNT
-27,3862,0,03:01,,0,4,0,ARI 35,0,ARI,KICKOFF
-27,3899,2,02:58,,10,4,1,MIA 25,0,MIA,
-27,3944,0,02:04,,0,4,6,,0,,TIMEOUT
-18,2215,1,14:51,,10,3,2,MIA 23,0,MIA,
-18,2236,2,14:20,,8,3,3,MIA 25,0,MIA,
-18,2289,1,12:40,,3,3,64,ARI 3,0,MIA,PENALTY
-18,2257,3,13:41,,7,3,74,MIA 26,0,MIA,
-18,2193,0,15:00,,0,3,0,ARI 35,0,ARI,KICKOFF
-18,2345,2,11:59,,10,3,74,ARI 10,0,MIA,
-18,2321,1,12:36,,13,3,67,ARI 13,0,MIA,
-18,2415,0,11:17,,0,3,77,ARI 15,1,MIA,XP
-18,2369,3,11:59,,3,3,77,ARI 3,1,MIA,TD
-28,4052,2,01:49,,16,4,-1,ARI 19,0,ARI,
-28,4076,3,01:43,,11,4,-1,ARI 24,0,ARI,
-28,4188,0,01:39,,0,4,-1,,0,,TIMEOUT
-28,4003,1,01:55,,10,4,-6,ARI 25,0,ARI,FUMBLE
-28,4098,4,01:39,,11,4,-1,ARI 24,0,ARI,PUNT
-28,4032,0,01:49,,0,4,-1,,0,,TIMEOUT
-26,3806,2,03:10,,4,4,42,MIA 8,0,ARI,
-26,3848,0,03:01,,0,4,50,MIA 2,1,ARI,2PS
-26,3759,1,03:49,,10,4,36,MIA 25,0,ARI,
-26,3828,3,03:05,,4,4,50,MIA 8,1,ARI,TD
-26,3735,1,04:25,,10,4,25,MIA 37,0,ARI,
-26,3711,2,04:34,,6,4,13,MIA 46,0,ARI,
-26,3785,1,03:17,,10,4,42,MIA 14,0,ARI,
-26,3690,1,05:14,,10,4,4,50,0,ARI,
-25,3607,1,06:57,,10,4,3,MIA 10,0,MIA,
-25,3628,2,06:16,,7,4,1,MIA 13,0,MIA,
-25,3671,4,05:24,,9,4,1,MIA 11,0,MIA,PUNT
-25,3649,3,05:32,,9,4,1,MIA 11,0,MIA,
-25,3574,0,07:05,,0,4,0,ARI 35,0,ARI,KICKOFF
-1,141,2,12:30,,7,1,24,ARI 48,0,ARI,
-1,36,0,15:00,,0,1,0,MIA 35,0,MIA,KICKOFF
-1,96,3,13:51,,2,1,23,ARI 33,0,ARI,
-1,72,2,14:27,,8,1,8,ARI 27,0,ARI,
-1,120,1,13:10,,10,1,23,ARI 45,0,ARI,
-1,51,1,15:00,,10,1,2,ARI 25,0,ARI,
-1,165,3,11:47,,6,1,24,ARI 49,0,ARI,INT
-5,592,1,06:21,,10,1,-2,MIA 33,0,ARI,FUMBLE
-13,1603,3,05:24,,1,2,57,MIA 41,0,ARI,
-13,1561,1,06:53,,10,2,39,50,0,ARI,
-13,1686,4,03:08,,11,2,57,MIA 23,0,ARI,FGM
-13,1667,3,03:52,,2,2,57,MIA 14,0,ARI,
-13,1624,1,04:41,,10,2,58,MIA 22,0,ARI,
-13,1493,1,08:58,,10,2,20,ARI 20,0,ARI,
-13,1516,1,08:26,,10,2,21,ARI 40,0,ARI,
-13,1582,2,06:16,,1,2,39,MIA 41,0,ARI,
-13,1646,2,04:34,,10,2,57,MIA 22,0,ARI,
-13,1537,2,07:42,,9,2,30,ARI 41,0,ARI,
-29,4319,0,00:01,,0,4,44,,0,,TIMEOUT
-29,4260,1,00:37,,1,4,44,ARI 1,0,MIA,
-29,4212,1,00:43,,10,4,44,ARI 30,0,MIA,
-29,4281,2,00:10,,3,4,44,ARI 3,0,MIA,
-29,4342,3,00:01,,3,4,44,ARI 3,1,MIA,FG
-29,4302,0,00:01,,0,4,44,,0,,TIMEOUT
-29,4165,2,00:52,,5,4,17,ARI 42,0,MIA,
-29,4195,0,00:43,,0,4,17,,0,,TIMEOUT
-29,4127,1,01:29,,10,4,44,ARI 47,0,MIA,
-21,2744,1,04:47,,10,3,-4,ARI 13,0,ARI,FUMBLE
-21,2818,3,03:55,,19,3,2,ARI 4,0,ARI,
-21,2839,4,03:42,,13,3,2,ARI 10,0,ARI,FUMBLE
-21,2796,2,03:59,,19,3,-4,ARI 4,0,ARI,
-21,2773,2,03:59,,15,3,-4,ARI 8,0,ARI,PENALTY
-21,2701,1,04:54,,10,3,5,ARI 8,0,ARI,PENALTY
-23,3138,4,14:34,,1,4,15,ARI 36,0,MIA,PENALTY
-23,3117,3,15:00,,4,4,20,ARI 39,0,MIA,
-23,3051,1,01:09,,10,3,16,ARI 45,0,MIA,
-23,3161,4,13:56,,6,4,15,ARI 41,0,MIA,PUNT
-23,3101,0,,,0,3,17,,0,,
-23,3080,2,00:32,,5,3,17,ARI 40,0,MIA,
-23,3024,1,01:46,,10,3,15,MIA 44,0,MIA,
-11,1240,0,11:41,,0,2,0,MIA 35,0,MIA,KICKOFF
-11,1361,1,10:03,,10,2,14,ARI 41,0,ARI,FUMBLE
-11,1307,2,10:51,,2,2,11,ARI 33,0,ARI,
-11,1284,2,11:16,,7,2,8,ARI 28,0,ARI,PENALTY
-11,1255,1,11:41,,10,2,3,ARI 25,0,ARI,
-11,1328,1,10:22,,10,2,16,ARI 36,0,ARI,PENALTY
-14,1773,3,02:00,,27,2,-24,MIA 14,0,MIA,PENALTY
-14,1826,0,01:49,,0,2,-24,,0,,TIMEOUT
-14,1727,2,02:36,,6,2,-24,MIA 35,0,MIA,FUMBLE
-14,1756,0,02:00,,0,2,-17,,0,,
-14,1706,1,03:02,,10,2,4,MIA 31,0,MIA,
-14,1843,4,01:49,,34,2,-24,MIA 7,0,MIA,PUNT
-14,1805,3,01:55,,34,2,-24,MIA 7,0,MIA,
-8,858,1,01:17,,10,1,8,ARI 10,0,MIA,
-8,879,2,00:43,,2,1,8,ARI 2,0,MIA,FUMBLE
-19,2474,2,10:33,,3,3,4,ARI 36,0,ARI,
-19,2523,4,09:22,,2,3,8,ARI 37,0,ARI,PUNT
-19,2453,1,11:11,,10,3,7,ARI 29,0,ARI,
-19,2495,3,09:54,,6,3,8,ARI 33,0,ARI,
-19,2431,0,11:17,,0,3,0,MIA 20,0,MIA,KICKOFF
-22,2967,3,02:00,,33,3,-23,ARI 30,0,ARI,
-22,2945,2,02:05,,33,3,-23,ARI 30,0,ARI,
-22,2910,2,02:34,,23,3,-23,ARI 40,0,ARI,PENALTY
-22,2878,1,03:04,,10,3,-13,MIA 47,0,ARI,PENALTY
-22,2989,4,01:55,,33,3,-23,ARI 30,0,ARI,PUNT
-12,1400,1,10:00,,10,2,-4,ARI 39,0,MIA,FUMBLE
-12,1432,2,09:20,,14,2,-4,ARI 43,0,MIA,
-12,1476,4,09:07,,14,2,-4,ARI 43,0,MIA,PUNT
-12,1454,3,09:11,,14,2,-4,ARI 43,0,MIA,
-16,2068,3,00:26,,4,2,4,MIA 31,0,MIA,
-16,2026,1,01:10,,15,2,-6,MIA 20,0,MIA,
-16,1994,1,01:18,,10,2,6,MIA 25,0,MIA,PENALTY
-16,1979,0,01:18,,0,2,0,ARI 35,0,ARI,KICKOFF
-16,2047,2,00:36,,16,2,6,MIA 19,0,MIA,
-16,2109,4,00:19,,6,2,4,MIA 29,0,MIA,PUNT
-16,2092,0,00:19,,0,2,4,,0,,TIMEOUT
-7,790,1,02:49,,10,1,6,ARI 10,0,ARI,
-7,832,3,01:27,,4,1,6,ARI 16,0,ARI,INT
-7,811,2,02:12,,4,1,6,ARI 16,0,ARI,
-3,392,1,08:12,,10,1,75,ARI 44,1,ARI,TD
-3,368,2,09:02,,5,1,19,ARI 30,0,ARI,
-3,328,0,09:27,,0,1,75,MIA 35,0,MIA,KICKOFF
-3,409,0,08:00,,0,1,75,MIA 15,0,ARI,XPM
-3,343,1,09:27,,10,1,5,ARI 25,0,ARI,
-17,2177,0,,,0,2,-1,,0,,
-17,2155,1,00:09,,10,2,-1,ARI 10,0,ARI,
-4,425,0,08:00,,0,1,0,ARI 35,0,ARI,KICKOFF
-4,440,1,08:00,,10,1,15,MIA 25,0,MIA,
-4,485,2,06:37,,13,1,12,MIA 37,0,MIA,
-4,464,1,07:22,,10,1,12,MIA 40,0,MIA,
-4,507,3,06:32,,13,1,12,MIA 37,0,MIA,INT
-2,248,1,10:46,,5,1,52,ARI 33,0,MIA,
-2,225,1,11:03,,10,1,19,ARI 38,0,MIA,PENALTY
-2,290,2,09:33,,11,1,52,ARI 28,1,MIA,TD
-2,312,0,09:27,,0,1,52,ARI 15,1,MIA,XP
-2,201,1,11:36,,10,1,14,MIA 48,0,MIA,
-2,269,1,10:16,,10,1,24,ARI 27,0,MIA,
-15,1917,3,01:28,,10,2,0,MIA 38,0,ARI,
-15,1960,4,01:23,,10,2,0,MIA 38,1,ARI,FG
-15,1939,0,01:23,,0,2,0,,0,,TIMEOUT
-15,1873,1,01:39,,10,2,0,MIA 38,0,ARI,
-15,1895,2,01:34,,10,2,0,MIA 38,0,ARI,
+24,3489,1,07:23,(7:23) (Shotgun) C.Palmer pass incomplete short right to D.Fells (J.Phillips).,9,4,90,MIA 9,0,ARI,
+24,3465,1,08:00,(8:00) C.Palmer pass short right to J.Gresham to MIA 9 for 14 yards (S.Paysinger).,10,4,90,MIA 23,0,ARI,
+24,3349,3,09:27,"(9:27) D.Johnson left end to MIA 47 for 4 yards (T.Lippett). PENALTY on MIA-A.Branch, Defensive Offside, 5 yards, enforced at ARI 49 - No Play.",2,4,53,ARI 49,0,ARI,PENALTY
+24,3229,2,12:26,(12:26) C.Palmer pass short left to L.Fitzgerald to ARI 30 for 8 yards (S.Paysinger).,4,4,58,ARI 22,0,ARI,
+24,3381,1,09:03,"(9:03) (Shotgun) C.Palmer sacked at ARI 47 for -7 yards (C.Wake). PENALTY on MIA-M.Hull, Illegal Contact, 5 yards, enforced at MIA 46 - No Play.",10,4,58,MIA 46,0,ARI,PENALTY
+24,3432,2,08:07,"(8:07) (Shotgun) C.Palmer pass incomplete deep right to L.Fitzgerald. PENALTY on MIA-B.Maxwell, Defensive Pass Interference, 16 yards, enforced at MIA 39 - No Play.",8,4,76,MIA 39,0,ARI,PENALTY
+24,3253,1,11:47,(11:47) C.Palmer pass short middle to J.Gresham to ARI 38 for 8 yards (M.Hull).,10,4,58,ARI 30,0,ARI,
+24,3208,1,13:10,(13:10) C.Palmer scrambles up the middle to ARI 22 for 6 yards (M.Hull).,10,4,21,ARI 16,0,ARI,
+24,3277,2,11:11,(11:11) K.Williams left end to ARI 41 for 3 yards (J.Jones).,2,4,60,ARI 38,0,ARI,
+24,3533,3,07:11,"(7:11) (Shotgun) C.Palmer pass short left to B.Golden for 9 yards, TOUCHDOWN [C.Wake].",9,4,99,MIA 9,1,ARI,TD
+24,3180,1,13:48,(13:48) (Pass formation) C.Palmer pass short right to M.Floyd to ARI 16 for 15 yards (B.Maxwell) [N.Suh].,10,4,45,ARI 1,0,ARI,
+24,3325,2,10:01,(10:01) (Shotgun) C.Palmer pass short left to L.Fitzgerald to ARI 49 for 3 yards (N.Hewitt).,5,4,48,ARI 46,0,ARI,
+24,3411,1,08:49,(8:49) D.Johnson left tackle to MIA 39 for 2 yards (A.Branch; M.Hull).,10,4,60,MIA 41,0,ARI,
+24,3298,1,10:42,"(10:42) (Shotgun) C.Palmer pass short right to J.Gresham to ARI 46 for 5 yards (B.Maxwell, T.Fede). MIA-B.McCain was injured during the play. His return is Questionable.",10,4,45,ARI 41,0,ARI,
+24,3511,2,07:15,(7:15) (Shotgun) C.Palmer pass incomplete short middle to D.Fells.,9,4,90,MIA 9,0,ARI,
+24,3553,0,07:05,"C.Catanzaro extra point is Blocked (J.Phillips), Center-A.Brewer, Holder-D.Butler. DEFENSIVE TWO-POINT ATTEMPT. W.Aikens recovered the blocked kick. ATTEMPT SUCCEEDS.",0,4,99,MIA 15,1,ARI,XPB
+25,3574,0,07:05,"C.Catanzaro kicks 67 yards from ARI 35 to MIA -2. K.Drake to MIA 20 for 22 yards (J.Bethel). PENALTY on MIA-M.Thomas, Offensive Holding, 10 yards, enforced at MIA 20.",0,4,0,ARI 35,0,ARI,KICKOFF
+25,3671,4,05:24,"(5:24) (Punt formation) M.Darr punts 39 yards to 50, Center-J.Denney, downed by MIA-W.Aikens.",9,4,1,MIA 11,0,MIA,PUNT
+25,3607,1,06:57,(6:57) J.Ajayi right end to MIA 13 for 3 yards (S.Moore).,10,4,3,MIA 10,0,MIA,
+25,3649,3,05:32,(5:32) (Shotgun) M.Moore pass incomplete deep right to D.Williams.,9,4,1,MIA 11,0,MIA,
+25,3628,2,06:16,(6:16) J.Ajayi left guard to MIA 11 for -2 yards (Ch.Jones).,7,4,1,MIA 13,0,MIA,
+26,3759,1,03:49,(3:49) Direct snap to K.Williams.  K.Williams left end to MIA 14 for 11 yards (B.Rambo). MIA-B.Rambo was injured during the play. His return is Questionable.,10,4,36,MIA 25,0,ARI,
+26,3711,2,04:34,(4:34) (Shotgun) C.Palmer pass short left to J.Gresham to MIA 37 for 9 yards (T.Lippett).,6,4,13,MIA 46,0,ARI,
+26,3785,1,03:17,(3:17) D.Johnson left end pushed ob at MIA 8 for 6 yards (T.Lippett).,10,4,42,MIA 14,0,ARI,
+26,3690,1,05:14,(5:14) D.Johnson right tackle to MIA 46 for 4 yards (A.Branch; N.Suh).,10,4,4,50,0,ARI,
+26,3806,2,03:10,(3:10) (Shotgun) C.Palmer pass incomplete short middle to L.Fitzgerald (B.Maxwell).,4,4,42,MIA 8,0,ARI,
+26,3828,3,03:05,"(3:05) (Shotgun) C.Palmer pass short middle to J.Nelson for 8 yards, TOUCHDOWN.",4,4,50,MIA 8,1,ARI,TD
+26,3848,0,03:01,(Pass formation) TWO-POINT CONVERSION ATTEMPT. C.Palmer pass to D.Johnson is complete. ATTEMPT SUCCEEDS.,0,4,50,MIA 2,1,ARI,2PS
+26,3735,1,04:25,(4:25) (Shotgun) C.Palmer pass short middle to D.Johnson to MIA 25 for 12 yards (T.Lippett; S.Paysinger).,10,4,25,MIA 37,0,ARI,
+27,3920,3,02:22,(2:22) (Shotgun) M.Moore pass short middle to J.Landry to MIA 32 for 6 yards (P.Peterson).,9,4,7,MIA 26,0,MIA,
+27,3862,0,03:01,"C.Catanzaro kicks 65 yards from ARI 35 to end zone, Touchback.",0,4,0,ARI 35,0,ARI,KICKOFF
+27,3944,0,02:04,Timeout #1 by ARI at 02:04.,0,4,6,,0,,TIMEOUT
+27,3877,1,03:01,(3:01) M.Moore pass incomplete short right to D.Parker (B.Williams).,10,4,0,MIA 25,0,MIA,
+27,3899,2,02:58,(2:58) J.Ajayi right guard to MIA 26 for 1 yard (S.Moore).,10,4,1,MIA 25,0,MIA,
+27,3961,4,02:04,"(2:04) (Punt formation) M.Darr punts 44 yards to ARI 24, Center-J.Denney. P.Peterson to ARI 25 for 1 yard (N.Hewitt).",3,4,7,MIA 32,0,MIA,PUNT
+20,2587,3,07:50,(7:50) (Shotgun) R.Tannehill pass short right to K.Stills to MIA 33 for 14 yards (T.Jefferson).,7,3,17,MIA 19,0,MIA,
+20,2542,1,09:13,"(9:13) (Shotgun) R.Tannehill FUMBLES (Aborted) at MIA 11, and recovers at MIA 11. R.Tannehill to MIA 16 for 5 yards (J.Bethel).",10,3,25,MIA 16,0,MIA,FUMBLE
+20,2611,1,07:08,(7:08) (Shotgun) J.Ajayi right end to MIA 35 for 2 yards (C.Campbell).,10,3,19,MIA 33,0,MIA,
+20,2653,3,05:49,(5:49) (Shotgun) R.Tannehill pass short left to D.Sims to MIA 41 for 2 yards (T.Jefferson).,4,3,25,MIA 39,0,MIA,
+20,2563,2,08:30,(8:30) R.Tannehill pass short left to D.Parker to MIA 19 for 3 yards (J.Bethel) [S.Moore].,10,3,25,MIA 16,0,MIA,
+20,2632,2,06:29,(6:29) (Shotgun) J.Ajayi right end to MIA 39 for 4 yards (S.Moore).,8,3,23,MIA 35,0,MIA,
+20,2677,4,05:05,"(5:05) (Punt formation) M.Darr punts 51 yards to ARI 8, Center-J.Denney, fair catch by P.Peterson.",2,3,25,MIA 41,0,MIA,PUNT
+21,2773,2,03:59,"(3:59) PENALTY on ARI-C.Palmer, Delay of Game, 4 yards, enforced at ARI 8 - No Play.",15,3,-4,ARI 8,0,ARI,PENALTY
+21,2701,1,04:54,"(4:54) C.Palmer pass incomplete short right to L.Fitzgerald. PENALTY on MIA-S.Paysinger, Defensive Holding, 5 yards, enforced at ARI 8 - No Play.",10,3,5,ARI 8,0,ARI,PENALTY
+21,2818,3,03:55,(3:55) (Shotgun) D.Johnson up the middle to ARI 10 for 6 yards (N.Suh).,19,3,2,ARI 4,0,ARI,
+21,2744,1,04:47,"(4:47) C.Palmer sacked at ARI 6 for -7 yards (A.Branch). FUMBLES (A.Branch), recovered by ARI-J.Wetzel at ARI 8. J.Wetzel to ARI 8 for no gain (T.Fede).",10,3,-4,ARI 13,0,ARI,FUMBLE
+21,2839,4,03:42,"(3:42) (Punt formation) D.Butler punts 53 yards to MIA 37, Center-A.Brewer. J.Landry to MIA 47 for 10 yards. FUMBLES, RECOVERED by ARI-A.Okafor at MIA 47. A.Okafor to MIA 47 for no gain (J.Landry). MIA-K.Drake was injured during the play. His return is Questionable.",13,3,2,ARI 10,0,ARI,FUMBLE
+21,2796,2,03:59,(3:59) C.Palmer pass incomplete short left to D.Johnson (A.Branch).,19,3,-4,ARI 4,0,ARI,
+22,2910,2,02:34,"(2:34) C.Palmer pass short middle to D.Johnson to ARI 47 for 7 yards (N.Hewitt). PENALTY on ARI-U.John, Offensive Holding, 10 yards, enforced at ARI 40 - No Play.",23,3,-23,ARI 40,0,ARI,PENALTY
+22,2945,2,02:05,(2:05) (Shotgun) C.Palmer pass incomplete short left to L.Fitzgerald.,33,3,-23,ARI 30,0,ARI,
+22,2878,1,03:04,"(3:04) D.Johnson right tackle to MIA 45 for 2 yards (T.Fede, M.Hull). PENALTY on ARI-J.Gresham, Taunting, 15 yards, enforced at MIA 45.",10,3,-13,MIA 47,0,ARI,PENALTY
+22,2967,3,02:00,(2:00) C.Palmer pass incomplete short right to J.Gresham.,33,3,-23,ARI 30,0,ARI,
+22,2989,4,01:55,"(1:55) (Punt formation) D.Butler punts 31 yards to MIA 39, Center-A.Brewer. J.Landry ran ob at MIA 44 for 5 yards (K.Martin).",33,3,-23,ARI 30,0,ARI,PUNT
+23,3117,3,15:00,(15:00) J.Ajayi up the middle to ARI 36 for 3 yards (T.Jefferson).,4,4,20,ARI 39,0,MIA,
+23,3024,1,01:46,(1:46) (Shotgun) R.Tannehill pass short right to D.Parker to ARI 45 for 11 yards (B.Williams) [C.Campbell]. MIA-R.Tannehill was injured during the play. He is Out.,10,3,15,MIA 44,0,MIA,
+23,3101,0,,END QUARTER 3,0,3,17,,0,,
+23,3138,4,14:34,"(14:34) (Run formation) PENALTY on MIA-A.Steen, False Start, 5 yards, enforced at ARI 36 - No Play.",1,4,15,ARI 36,0,MIA,PENALTY
+23,3161,4,13:56,"(13:56) (Punt formation) M.Darr punts 40 yards to ARI 1, Center-J.Denney, downed by MIA-W.Aikens.",6,4,15,ARI 41,0,MIA,PUNT
+23,3080,2,00:32,(:32) J.Ajayi up the middle to ARI 39 for 1 yard (X.Williams).,5,3,17,ARI 40,0,MIA,
+23,3051,1,01:09,(1:09) New MIA QB - #8 M.Moore J.Ajayi left tackle to ARI 40 for 5 yards (T.Jefferson; X.Williams). ARI-T.Jefferson was injured during the play. His return is Probable.,10,3,16,ARI 45,0,MIA,
+28,4188,0,01:39,Timeout #2 by ARI at 01:39.,0,4,-1,,0,,TIMEOUT
+28,4076,3,01:43,(1:43) (Shotgun) C.Palmer pass incomplete deep right to L.Fitzgerald. ARI-U.John was injured during the play. His return is Questionable.,11,4,-1,ARI 24,0,ARI,
+28,4052,2,01:49,(1:49) (Shotgun) C.Palmer pass short left to D.Johnson to ARI 24 for 5 yards (S.Paysinger) [J.Jones].,16,4,-1,ARI 19,0,ARI,
+28,4003,1,01:55,"(1:55) (Shotgun) C.Palmer sacked at ARI 19 for -6 yards. FUMBLES, and recovers at ARI 19. C.Palmer to ARI 19 for no gain (B.McCain).",10,4,-6,ARI 25,0,ARI,FUMBLE
+28,4098,4,01:39,"(1:39) (Punt formation) D.Butler punts 43 yards to MIA 33, Center-A.Brewer. J.Landry to ARI 47 for 20 yards (H.Valles).",11,4,-1,ARI 24,0,ARI,PUNT
+28,4032,0,01:49,Timeout #1 by MIA at 01:49.,0,4,-1,,0,,TIMEOUT
+29,4260,1,00:37,(:37) D.Williams left tackle to ARI 3 for -2 yards (Ch.Jones).,1,4,44,ARI 1,0,MIA,
+29,4302,0,00:01,Timeout #3 by MIA at 00:01.,0,4,44,,0,,TIMEOUT
+29,4165,2,00:52,(:52) (Shotgun) M.Moore pass short middle to K.Stills to ARI 30 for 12 yards (J.Bethel).,5,4,17,ARI 42,0,MIA,
+29,4281,2,00:10,(:10) D.Williams right end to ARI 3 for no gain (M.Golden).,3,4,44,ARI 3,0,MIA,
+29,4212,1,00:43,"(:43) (Shotgun) M.Moore pass deep left to K.Stills to ARI 1 for 29 yards (J.Bethel) [K.Minter]. Penalty on ARI-J.Bethel, Defensive Pass Interference, declined.",10,4,44,ARI 30,0,MIA,
+29,4319,0,00:01,Timeout #3 by ARI at 00:01.,0,4,44,,0,,TIMEOUT
+29,4195,0,00:43,Timeout #2 by MIA at 00:43.,0,4,17,,0,,TIMEOUT
+29,4127,1,01:29,"(1:29) (Shotgun) D.Williams right end to ARI 42 for 5 yards (D.Swearinger). The Replay Official reviewed the runner was down by contact ruling, and the play was Upheld. The ruling on the field was confirmed.",10,4,44,ARI 47,0,MIA,
+29,4342,3,00:01,"(:01) (Field Goal formation) A.Franks 21 yard field goal is GOOD, Center-J.Denney, Holder-M.Darr.",3,4,44,ARI 3,1,MIA,FG
+1,141,2,12:30,(12:30) C.Palmer pass short left to L.Fitzgerald to ARI 49 for 1 yard (S.Paysinger; J.Jones).,7,1,24,ARI 48,0,ARI,
+1,51,1,15:00,(15:00) D.Johnson left guard to ARI 27 for 2 yards (A.Branch).,10,1,2,ARI 25,0,ARI,
+1,36,0,15:00,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback.",0,1,0,MIA 35,0,MIA,KICKOFF
+1,120,1,13:10,(13:10) D.Johnson left guard to ARI 48 for 3 yards (M.Thomas; M.Hull).,10,1,23,ARI 45,0,ARI,
+1,72,2,14:27,(14:27) (Shotgun) C.Palmer pass short right to D.Johnson to ARI 33 for 6 yards (I.Abdul-Quddus).,8,1,8,ARI 27,0,ARI,
+1,165,3,11:47,(11:47) (Shotgun) C.Palmer pass short right intended for L.Fitzgerald INTERCEPTED by M.Hull (B.McCain) at MIA 40. M.Hull to MIA 48 for 8 yards (D.Johnson).,6,1,24,ARI 49,0,ARI,INT
+1,96,3,13:51,"(13:51) (Shotgun) C.Palmer pass short middle to D.Fells to ARI 45 for 12 yards (S.Paysinger, B.Rambo) [C.Wake].",2,1,23,ARI 33,0,ARI,
+3,392,1,08:12,"(8:12) J.Nelson right end for 56 yards, TOUCHDOWN.",10,1,75,ARI 44,1,ARI,TD
+3,328,0,09:27,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback.",0,1,75,MIA 35,0,MIA,KICKOFF
+3,409,0,08:00,"C.Catanzaro extra point is No Good, Wide Left, Center-A.Brewer, Holder-D.Butler.",0,1,75,MIA 15,0,ARI,XPM
+3,368,2,09:02,(9:02) C.Palmer pass short middle to D.Johnson to ARI 44 for 14 yards (B.Maxwell).,5,1,19,ARI 30,0,ARI,
+3,343,1,09:27,(9:27) D.Johnson right guard to ARI 30 for 5 yards (N.Hewitt; T.Fede).,10,1,5,ARI 25,0,ARI,
+2,201,1,11:36,(11:36) R.Tannehill pass short right to J.Landry to ARI 38 for 14 yards (T.Branch).,10,1,14,MIA 48,0,MIA,
+2,312,0,09:27,"A.Franks extra point is GOOD, Center-J.Denney, Holder-M.Darr.",0,1,52,ARI 15,1,MIA,XP
+2,248,1,10:46,(10:46) (Shotgun) J.Ajayi right end ran ob at ARI 27 for 6 yards (J.Mauro).,5,1,52,ARI 33,0,MIA,
+2,225,1,11:03,"(11:03) (No Huddle, Shotgun) PENALTY on ARI-C.Campbell, Encroachment, 5 yards, enforced at ARI 38 - No Play.",10,1,19,ARI 38,0,MIA,PENALTY
+2,269,1,10:16,(10:16) (Shotgun) J.Ajayi right tackle to ARI 28 for -1 yards (T.Jefferson).,10,1,24,ARI 27,0,MIA,
+2,290,2,09:33,"(9:33) S.Young reported in as eligible.  R.Tannehill pass deep middle to K.Stills for 28 yards, TOUCHDOWN.",11,1,52,ARI 28,1,MIA,TD
+5,592,1,06:21,"(6:21) D.Johnson right end to MIA 36 for -3 yards (C.Wake). FUMBLES (C.Wake), touched at MIA 35, RECOVERED by MIA-S.Paysinger at MIA 37. S.Paysinger to MIA 37 for no gain (J.Gresham).",10,1,-2,MIA 33,0,ARI,FUMBLE
+4,464,1,07:22,(7:22) J.Ajayi right end to MIA 37 for -3 yards (T.Jefferson).,10,1,12,MIA 40,0,MIA,
+4,485,2,06:37,(6:37) R.Tannehill pass incomplete short right to J.Landry (P.Peterson).,13,1,12,MIA 37,0,MIA,
+4,440,1,08:00,(8:00) R.Tannehill pass short middle to J.Ajayi to MIA 40 for 15 yards (D.Swearinger).,10,1,15,MIA 25,0,MIA,
+4,425,0,08:00,"C.Catanzaro kicks 65 yards from ARI 35 to end zone, Touchback.",0,1,0,ARI 35,0,ARI,KICKOFF
+4,507,3,06:32,"(6:32) (Shotgun) R.Tannehill pass short left intended for K.Stills INTERCEPTED by M.Cooper at MIA 48. M.Cooper to MIA 48 for no gain (K.Stills). PENALTY on MIA-K.Stills, Unnecessary Roughness, 15 yards, enforced at MIA 48. The Replay Official reviewed the pass interception ruling, and the play was Upheld. The ruling on the field stands.",13,1,12,MIA 37,0,MIA,INT
+7,832,3,01:27,(1:27) (Shotgun) C.Palmer pass short middle intended for L.Fitzgerald INTERCEPTED by B.Rambo [J.Jones] at ARI 27. B.Rambo to ARI 10 for 17 yards (Jo.Brown).,4,1,6,ARI 16,0,ARI,INT
+7,811,2,02:12,(2:12) D.Johnson left guard to ARI 16 for no gain (M.Thomas).,4,1,6,ARI 16,0,ARI,
+7,790,1,02:49,(2:49) D.Johnson left guard to ARI 16 for 6 yards (M.Hull; E.Mitchell).,10,1,6,ARI 10,0,ARI,
+6,743,3,03:09,(3:09) (Shotgun) R.Tannehill pass incomplete deep right to J.Ajayi.,9,1,17,ARI 46,0,MIA,
+6,771,4,02:58,"(2:58) (Punt formation) M.Darr punts 36 yards to ARI 10, Center-J.Denney, downed by MIA-M.Gray.",9,1,17,ARI 46,0,MIA,PUNT
+6,624,1,06:15,"(6:15) (Shotgun) J.Ajayi right guard to MIA 46 for 9 yards (M.Golden, T.Jefferson).",10,1,9,MIA 37,0,MIA,
+6,666,1,04:59,"(4:59) (No Huddle, Shotgun) PENALTY on MIA-D.Sims, False Start, 5 yards, enforced at ARI 47 - No Play.",10,1,11,ARI 47,0,MIA,PENALTY
+6,710,2,03:55,(3:55) (Shotgun) R.Tannehill pass short right to K.Stills to ARI 46 for 7 yards (T.Jefferson).,16,1,17,MIA 47,0,MIA,
+6,645,2,05:37,(5:37) (Shotgun) J.Ajayi up the middle to ARI 47 for 7 yards (J.Mauro).,1,1,16,MIA 46,0,MIA,
+6,689,1,04:41,(4:41) (Shotgun) J.Ajayi left end to MIA 47 for -1 yards (M.Golden).,15,1,10,MIA 48,0,MIA,
+9,976,2,15:00,(15:00) C.Palmer pass incomplete short middle to J.Gresham.,8,2,2,ARI 3,0,ARI,
+9,960,0,,END QUARTER 1,0,1,2,,0,,
+9,1046,4,14:50,"(14:50) (Punt formation) D.Butler punts 62 yards to MIA 35, Center-A.Brewer. J.Landry to ARI 48 for 17 yards (K.Williams). PENALTY on ARI-B.Golden, Illegal Motion, 5 yards, enforced at ARI 48.",8,2,2,ARI 3,0,ARI,PUNT
+9,1024,3,14:55,(14:55) C.Palmer pass incomplete short middle to D.Johnson (J.Jones).,8,2,2,ARI 3,0,ARI,
+9,998,0,14:55,Timeout #1 by ARI at 14:55.,0,2,2,,0,,TIMEOUT
+9,939,1,00:22,(:22) D.Johnson right guard to ARI 3 for 2 yards (A.Branch; N.Hewitt).,10,1,2,ARI 1,0,ARI,
+8,858,1,01:17,(1:17) (Shotgun) K.Drake right guard to ARI 2 for 8 yards (D.Bucannon; T.Jefferson).,10,1,8,ARI 10,0,MIA,
+8,879,2,00:43,"(:43) S.Young reported in as eligible.  R.Tannehill FUMBLES (Aborted) at ARI 2, RECOVERED by ARI-R.Gunter at ARI 1. R.Gunter to ARI 1 for no gain (J.Ajayi). The Replay Official reviewed the loose ball recovery ruling, and the play was Upheld. The ruling on the field stands.",2,1,8,ARI 2,0,MIA,FUMBLE
+11,1284,2,11:16,"(11:16) PENALTY on MIA-N.Suh, Neutral Zone Infraction, 5 yards, enforced at ARI 28 - No Play.",7,2,8,ARI 28,0,ARI,PENALTY
+11,1307,2,10:51,(10:51) D.Johnson right guard to ARI 36 for 3 yards (M.Hull; D.Butler).,2,2,11,ARI 33,0,ARI,
+11,1328,1,10:22,"(10:22) C.Palmer pass incomplete short right to L.Fitzgerald (B.Maxwell) [A.Branch]. PENALTY on MIA-T.Lippett, Illegal Contact, 5 yards, enforced at ARI 36 - No Play.",10,2,16,ARI 36,0,ARI,PENALTY
+11,1240,0,11:41,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback.",0,2,0,MIA 35,0,MIA,KICKOFF
+11,1255,1,11:41,(11:41) C.Palmer pass short left to M.Floyd ran ob at ARI 28 for 3 yards.,10,2,3,ARI 25,0,ARI,
+11,1361,1,10:03,"(10:03) C.Palmer FUMBLES (Aborted) at ARI 41, RECOVERED by MIA-T.Fede at ARI 39. T.Fede to ARI 39 for no gain (J.Gresham).",10,2,14,ARI 41,0,ARI,FUMBLE
+10,1224,0,11:41,"A.Franks extra point is GOOD, Center-J.Denney, Holder-M.Darr.",0,2,43,ARI 15,1,MIA,XP
+10,1082,1,14:36,"(14:36) (Shotgun) R.Tannehill sacked at MIA 48 for -9 yards (C.Peters). PENALTY on ARI-M.Cooper, Defensive Holding, 5 yards, enforced at ARI 43 - No Play.",10,2,5,ARI 43,0,MIA,PENALTY
+10,1162,1,13:06,(13:06) (Shotgun) R.Tannehill scrambles right end pushed ob at ARI 6 for 7 yards (M.Golden).,10,2,37,ARI 13,0,MIA,
+10,1133,1,13:39,(13:39) (Shotgun) R.Tannehill pass short left to J.Landry pushed ob at ARI 13 for 12 yards (D.Swearinger).,10,2,30,ARI 25,0,MIA,
+10,1204,3,11:47,"(11:47) (Shotgun) R.Tannehill pass short right to D.Sims for 7 yards, TOUCHDOWN.",4,2,43,ARI 7,1,MIA,TD
+10,1183,2,12:28,(12:28) (Shotgun) J.Ajayi left tackle to ARI 7 for -1 yards (J.Mauro).,3,2,36,ARI 6,0,MIA,
+10,1112,1,14:18,(14:18) (Shotgun) J.Ajayi left guard to ARI 25 for 13 yards (T.Jefferson).,10,2,18,ARI 38,0,MIA,
+13,1646,2,04:34,(4:34) D.Johnson left guard to MIA 14 for 8 yards (J.Jones; B.McCain).,10,2,57,MIA 22,0,ARI,
+13,1624,1,04:41,(4:41) C.Palmer pass incomplete deep middle to L.Fitzgerald.,10,2,58,MIA 22,0,ARI,
+13,1582,2,06:16,(6:16) D.Johnson up the middle to MIA 41 for no gain (N.Suh).,1,2,39,MIA 41,0,ARI,
+13,1603,3,05:24,(5:24) D.Johnson left end to MIA 22 for 19 yards (S.Paysinger).,1,2,57,MIA 41,0,ARI,
+13,1537,2,07:42,"(7:42) C.Palmer pass short right to J.Gresham to 50 for 9 yards (B.McCain, M.Hull).",9,2,30,ARI 41,0,ARI,
+13,1493,1,08:58,(8:58) Direct snap to K.Williams.  K.Williams left end pushed ob at ARI 40 for 20 yards (S.Paysinger).,10,2,20,ARI 20,0,ARI,
+13,1686,4,03:08,"(3:08) (Field Goal formation) C.Catanzaro 41 yard field goal is No Good, Hit Right Upright, Center-A.Brewer, Holder-D.Butler.",11,2,57,MIA 23,0,ARI,FGM
+13,1667,3,03:52,(3:52) (Shotgun) C.Palmer sacked at MIA 23 for -9 yards (C.Wake).,2,2,57,MIA 14,0,ARI,
+13,1561,1,06:53,(6:53) D.Johnson left guard to MIA 41 for 9 yards (B.Rambo).,10,2,39,50,0,ARI,
+13,1516,1,08:26,(8:26) D.Johnson up the middle to ARI 41 for 1 yard (E.Mitchell).,10,2,21,ARI 40,0,ARI,
+12,1454,3,09:11,(9:11) (Shotgun) R.Tannehill pass incomplete short middle to J.Landry (T.Branch).,14,2,-4,ARI 43,0,MIA,
+12,1476,4,09:07,"(9:07) (Punt formation) M.Darr punts 43 yards to end zone, Center-J.Denney, Touchback.",14,2,-4,ARI 43,0,MIA,PUNT
+12,1400,1,10:00,"(10:00) (Shotgun) J.Ajayi up the middle to ARI 42 for -3 yards (C.Campbell). FUMBLES (C.Campbell), and recovers at ARI 42. J.Ajayi to ARI 43 for -1 yards (Ch.Jones).",10,2,-4,ARI 39,0,MIA,FUMBLE
+12,1432,2,09:20,(9:20) (Shotgun) R.Tannehill pass incomplete short right to J.Ajayi.,14,2,-4,ARI 43,0,MIA,
+15,1895,2,01:34,(1:34) (Shotgun) C.Palmer pass incomplete deep right to M.Floyd.,10,2,0,MIA 38,0,ARI,
+15,1939,0,01:23,Timeout #1 by MIA at 01:23.,0,2,0,,0,,TIMEOUT
+15,1960,4,01:23,"(1:23) (Field Goal formation) C.Catanzaro 56 yard field goal is GOOD, Center-A.Brewer, Holder-D.Butler.",10,2,0,MIA 38,1,ARI,FG
+15,1873,1,01:39,(1:39) (Shotgun) C.Palmer pass incomplete deep left to J.Nelson [C.Wake].,10,2,0,MIA 38,0,ARI,
+15,1917,3,01:28,(1:28) (Shotgun) C.Palmer pass incomplete short left to D.Johnson.,10,2,0,MIA 38,0,ARI,
+14,1805,3,01:55,(1:55) (Shotgun) J.Ajayi right end to MIA 7 for no gain (C.Campbell).,34,2,-24,MIA 7,0,MIA,
+14,1706,1,03:02,(3:02) (Shotgun) J.Ajayi left guard to MIA 35 for 4 yards (D.Bucannon).,10,2,4,MIA 31,0,MIA,
+14,1773,3,02:00,"(2:00) (Shotgun) J.Ajayi right guard to MIA 21 for 7 yards (D.Bucannon; M.Golden). PENALTY on MIA-L.Tunsil, Offensive Holding, 7 yards, enforced at MIA 14 - No Play.",27,2,-24,MIA 14,0,MIA,PENALTY
+14,1843,4,01:49,"(1:49) (Punt formation) M.Darr punts 42 yards to MIA 49, Center-J.Denney. P.Peterson pushed ob at MIA 38 for 11 yards (M.Thomas).",34,2,-24,MIA 7,0,MIA,PUNT
+14,1727,2,02:36,"(2:36) (Shotgun) R.Tannehill sacked at MIA 29 for -6 yards. FUMBLES, touched at MIA 24, ball out of bounds at MIA 14.",6,2,-24,MIA 35,0,MIA,FUMBLE
+14,1826,0,01:49,Timeout #2 by ARI at 01:49.,0,2,-24,,0,,TIMEOUT
+14,1756,0,02:00,Two-Minute Warning,0,2,-17,,0,,
+17,2155,1,00:09,(:09) C.Palmer kneels to ARI 9 for -1 yards.,10,2,-1,ARI 10,0,ARI,
+17,2177,0,,END QUARTER 2,0,2,-1,,0,,
+16,2047,2,00:36,(:36) (Shotgun) R.Tannehill scrambles right end pushed ob at MIA 31 for 12 yards (D.Bucannon).,16,2,6,MIA 19,0,MIA,
+16,1994,1,01:18,"(1:18) (Shotgun) D.Williams left guard to MIA 44 for 19 yards (D.Swearinger). PENALTY on MIA-J.James, Offensive Holding, 10 yards, enforced at MIA 30. Penalty on MIA-J.Landry, Offensive Holding, declined.",10,2,6,MIA 25,0,MIA,PENALTY
+16,1979,0,01:18,"C.Catanzaro kicks 65 yards from ARI 35 to end zone, Touchback.",0,2,0,ARI 35,0,ARI,KICKOFF
+16,2109,4,00:19,"(:19) (Punt formation) M.Darr punts 51 yards to ARI 20, Center-J.Denney. P.Peterson ran ob at ARI 23 for 3 yards (W.Aikens). PENALTY on ARI-M.Cooper, Offensive Holding, 10 yards, enforced at ARI 20.",6,2,4,MIA 29,0,MIA,PUNT
+16,2068,3,00:26,(:26) (Shotgun) R.Tannehill pass short right to D.Williams to MIA 29 for -2 yards (D.Bucannon).,4,2,4,MIA 31,0,MIA,
+16,2026,1,01:10,(1:10) (Shotgun) D.Williams left end to MIA 19 for -1 yards (M.Golden).,15,2,-6,MIA 20,0,MIA,
+16,2092,0,00:19,Timeout #3 by ARI at 00:19.,0,2,4,,0,,TIMEOUT
+19,2431,0,11:17,A.Franks kicks 74 yards from MIA 20 to ARI 6. B.Golden to ARI 29 for 23 yards (K.Drake).,0,3,0,MIA 20,0,MIA,KICKOFF
+19,2474,2,10:33,(10:33) D.Johnson left guard to ARI 33 for -3 yards (N.Suh; B.McCain).,3,3,4,ARI 36,0,ARI,
+19,2495,3,09:54,(9:54) (Shotgun) C.Palmer pass short middle to D.Johnson to ARI 37 for 4 yards (J.Jones).,6,3,8,ARI 33,0,ARI,
+19,2523,4,09:22,"(9:22) (Punt formation) D.Butler punts 47 yards to MIA 16, Center-A.Brewer, fair catch by J.Landry.",2,3,8,ARI 37,0,ARI,PUNT
+19,2453,1,11:11,(11:11) D.Johnson left tackle to ARI 36 for 7 yards (A.Branch).,10,3,7,ARI 29,0,ARI,
+18,2345,2,11:59,(11:59) (Shotgun) R.Tannehill pass short left to K.Stills to ARI 3 for 7 yards (M.Cooper). ARI-M.Cooper was injured during the play. His return is Questionable.,10,3,74,ARI 10,0,MIA,
+18,2289,1,12:40,"(12:40) (No Huddle, Shotgun) J.Ajayi right end for 3 yards, TOUCHDOWN NULLIFIED by Penalty. ARI-D.Bucannon was injured during the play. His return is Questionable.  PENALTY on MIA-A.Steen, Offensive Holding, 10 yards, enforced at ARI 3 - No Play.",3,3,64,ARI 3,0,MIA,PENALTY
+18,2321,1,12:36,(12:36) (Shotgun) R.Tannehill pass short left to K.Drake to ARI 10 for 3 yards (J.Mauro).,13,3,67,ARI 13,0,MIA,
+18,2215,1,14:51,(14:51) (Shotgun) J.Ajayi up the middle to MIA 25 for 2 yards (D.Bucannon).,10,3,2,MIA 23,0,MIA,
+18,2236,2,14:20,(14:20) (Shotgun) R.Tannehill right end to MIA 26 for 1 yard (D.Swearinger).,8,3,3,MIA 25,0,MIA,
+18,2193,0,15:00,C.Catanzaro kicks 64 yards from ARI 35 to MIA 1. K.Drake to MIA 23 for 22 yards (B.Williams; K.Williams).,0,3,0,ARI 35,0,ARI,KICKOFF
+18,2415,0,11:17,"A.Franks extra point is GOOD, Center-J.Denney, Holder-M.Darr.",0,3,77,ARI 15,1,MIA,XP
+18,2369,3,11:59,"(11:59) R.Tannehill pass short right to D.Williams for 3 yards, TOUCHDOWN. PENALTY on MIA-J.Landry, Taunting, 15 yards, enforced between downs.",3,3,77,ARI 3,1,MIA,TD
+18,2257,3,13:41,(13:41) (Shotgun) R.Tannehill pass short right to J.Landry to ARI 3 for 71 yards (D.Swearinger).,7,3,74,MIA 26,0,MIA,

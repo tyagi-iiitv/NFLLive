@@ -1,200 +1,200 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,2074,0,00:15,,0,2,1,,0,,TIMEOUT
-9,2015,1,00:29,,10,2,2,CIN 1,0,CIN,
-9,2036,0,00:22,,0,2,2,,0,,TIMEOUT
-9,2053,2,00:22,,8,2,1,CIN 3,0,CIN,
-9,2091,3,00:15,,9,2,0,CIN 2,0,CIN,
-24,5013,1,10:17,,10,5,-3,BUF 7,0,BUF,PENALTY
-24,5078,3,09:09,,6,5,4,BUF 11,0,BUF,
-24,5036,1,10:16,,13,5,0,BUF 4,0,BUF,
-24,5104,4,09:05,,6,5,4,BUF 11,0,BUF,PUNT
-24,5057,2,09:44,,10,5,4,BUF 7,0,BUF,
-10,2246,2,13:53,,6,3,23,BUF 47,0,BUF,
-10,2144,0,15:00,,0,3,0,CIN 35,0,CIN,KICKOFF
-10,2283,3,13:49,,6,3,24,BUF 47,0,BUF,FUMBLE
-10,2225,1,14:31,,10,3,23,BUF 43,0,BUF,
-10,2173,1,14:53,,10,3,0,BUF 24,0,BUF,
-10,2199,2,14:51,,10,3,19,BUF 24,0,BUF,
-20,4311,3,02:00,,6,4,21,BUF 28,0,BUF,
-20,4275,2,02:09,,4,4,14,BUF 30,0,BUF,
-20,4356,1,01:46,,10,4,21,BUF 35,0,BUF,
-20,4244,1,02:14,,10,4,16,BUF 24,0,BUF,
-20,4416,1,01:14,,10,4,86,CIN 40,1,BUF,TD
-20,4440,0,01:08,,0,4,86,CIN 2,1,BUF,XP
-20,4388,2,01:41,,10,4,46,BUF 35,0,BUF,
-20,4223,1,02:40,,10,4,10,BUF 14,0,BUF,
-20,4339,0,01:46,,0,4,21,,0,,TIMEOUT
-6,1588,1,05:33,,10,2,40,CIN 40,0,BUF,
-6,1441,2,07:50,,2,2,9,BUF 30,0,BUF,
-6,1467,3,07:16,,1,2,12,BUF 31,0,BUF,
-6,1609,2,05:04,,8,2,45,CIN 38,0,BUF,
-6,1495,1,06:46,,10,2,16,BUF 34,0,BUF,
-6,1549,3,05:43,,3,2,38,BUF 41,0,BUF,PENALTY
-6,1395,0,08:34,,0,2,0,CIN 35,0,CIN,KICKOFF
-6,1516,2,06:12,,6,2,19,BUF 38,0,BUF,
-6,1656,4,04:19,,3,2,45,CIN 33,1,BUF,FG
-6,1417,1,08:27,,10,2,8,BUF 22,0,BUF,
-6,1630,3,04:22,,3,2,45,CIN 33,0,BUF,
-18,3993,2,07:08,,10,4,2,BUF 31,0,BUF,
-18,4021,3,06:35,,8,4,5,BUF 33,0,BUF,
-18,3967,1,07:13,,10,4,5,BUF 31,0,BUF,
-18,4042,4,06:12,,5,4,5,BUF 36,0,BUF,PUNT
-25,5159,2,08:15,,7,5,5,BUF 30,0,CIN,
-25,5180,3,07:34,,5,5,8,BUF 28,0,CIN,
-25,5201,4,06:49,,2,5,8,BUF 25,1,CIN,FG
-25,5138,1,08:48,,10,5,3,BUF 33,0,CIN,
-1,54,1,15:00,,10,1,8,CIN 20,0,CIN,
-1,128,1,12:59,,10,1,52,BUF 32,0,CIN,
-1,149,2,12:27,,6,1,52,BUF 28,0,CIN,
-1,201,4,12:19,,6,1,52,BUF 28,1,CIN,FG
-1,175,3,12:23,,6,1,52,BUF 28,0,CIN,
-1,103,1,13:47,,10,1,48,CIN 34,0,CIN,
-1,82,2,14:23,,2,1,14,CIN 28,0,CIN,
-1,36,0,15:00,,0,1,0,BUF 35,0,BUF,KICKOFF
-5,1199,3,12:24,,1,2,12,CIN 11,0,CIN,
-5,1296,2,09:49,,7,2,76,BUF 28,0,CIN,
-5,1350,1,08:42,,10,2,98,BUF 20,1,CIN,TD
-5,1220,1,11:39,,10,2,13,CIN 14,0,CIN,
-5,1157,1,13:41,,10,2,2,CIN 2,0,CIN,
-5,1329,3,09:20,,1,2,78,BUF 22,0,CIN,
-5,1178,2,12:59,,8,2,9,CIN 4,0,CIN,
-5,1241,2,11:00,,9,2,67,CIN 15,0,CIN,
-5,1275,1,10:26,,10,2,70,BUF 31,0,CIN,
-5,1379,0,08:34,,0,2,98,BUF 2,1,CIN,XP
-13,2864,2,06:04,,7,3,42,BUF 43,0,CIN,
-13,3083,1,03:03,,6,3,60,BUF 6,0,CIN,PENALTY
-13,3106,1,02:42,,11,3,62,BUF 11,0,CIN,
-13,3182,4,01:22,,6,3,55,BUF 6,0,CIN,PENALTY
-13,2740,2,09:02,,5,3,14,CIN 34,0,CIN,
-13,2986,4,04:46,,15,3,60,BUF 34,0,CIN,
-13,2843,1,06:39,,10,3,28,BUF 46,0,CIN,
-13,2822,3,07:15,,1,3,25,BUF 48,0,CIN,
-13,2773,1,08:26,,10,3,13,CIN 43,0,CIN,
-13,3042,2,03:21,,9,3,65,BUF 10,0,CIN,PENALTY
-13,3127,2,02:00,,9,3,65,BUF 9,0,CIN,
-13,2913,2,04:57,,5,3,37,BUF 24,0,CIN,
-13,2719,1,09:41,,10,3,5,CIN 29,0,CIN,
-13,3156,3,01:26,,6,3,65,BUF 6,0,CIN,
-13,3213,4,01:18,,16,3,55,BUF 16,0,CIN,FGM
-13,2939,3,04:51,,5,3,37,BUF 24,0,CIN,
-13,2794,2,07:43,,11,3,25,CIN 42,0,CIN,
-13,2958,0,04:46,,0,3,37,,0,,TIMEOUT
-13,3014,1,04:03,,10,3,61,BUF 11,0,CIN,
-13,2892,1,05:40,,10,3,47,BUF 29,0,CIN,
-21,4551,2,00:31,,15,4,14,CIN 42,0,CIN,
-21,4456,0,01:08,,0,4,0,BUF 35,0,BUF,KICKOFF
-21,4577,3,00:25,,15,4,14,CIN 42,0,CIN,
-21,4506,1,00:38,,10,4,14,CIN 47,0,CIN,
-21,4478,1,01:01,,10,4,19,CIN 28,0,CIN,
-21,4615,4,00:18,,15,4,14,CIN 42,0,CIN,PUNT
-21,4534,0,00:31,,0,4,14,,0,,TIMEOUT
-23,4884,1,13:18,,10,5,35,CIN 35,0,CIN,
-23,4989,4,10:25,,5,5,40,BUF 37,0,CIN,PUNT
-23,4760,0,15:00,,0,5,0,BUF 35,0,BUF,KICKOFF
-23,4783,1,14:54,,10,5,-10,CIN 23,0,CIN,PENALTY
-23,4856,2,13:54,,8,5,12,CIN 25,0,CIN,
-23,4953,3,11:07,,15,5,40,BUF 47,0,CIN,
-23,4934,2,11:45,,8,5,30,BUF 40,0,CIN,
-23,4913,1,12:25,,10,5,37,BUF 42,0,CIN,
-23,4828,1,14:32,,20,5,2,CIN 13,0,CIN,
-11,2537,3,10:56,,8,3,53,BUF 10,1,CIN,TD
-11,2348,2,13:36,,10,3,2,CIN 47,0,CIN,
-11,2452,1,11:43,,10,3,41,BUF 25,0,CIN,PENALTY
-11,2322,1,13:40,,10,3,0,CIN 47,0,CIN,
-11,2511,2,10:59,,8,3,43,BUF 10,0,CIN,
-11,2409,1,12:49,,10,3,21,BUF 39,0,CIN,
-11,2430,2,12:22,,3,3,28,BUF 32,0,CIN,
-11,2566,0,10:49,,0,3,53,BUF 2,1,CIN,XP
-11,2376,3,13:08,,8,3,21,CIN 49,0,CIN,
-11,2490,1,11:37,,10,3,43,BUF 12,0,CIN,
-14,3406,4,15:00,,5,4,19,BUF 44,0,BUF,PUNT
-14,3234,1,01:15,,10,3,0,BUF 25,0,BUF,
-14,3268,2,01:06,,10,3,15,BUF 25,0,BUF,
-14,3297,1,00:40,,10,3,15,BUF 39,0,BUF,
-14,3345,3,00:10,,9,3,19,BUF 40,0,BUF,
-14,3318,2,00:13,,9,3,15,BUF 40,0,BUF,
-8,1887,1,01:44,,10,2,-3,CIN 38,0,BUF,
-8,1915,2,01:18,,13,2,-10,CIN 41,0,BUF,
-8,1934,3,00:43,,20,2,-10,CIN 48,0,BUF,
-8,1967,4,00:39,,20,2,-10,CIN 48,0,BUF,PUNT
-19,4116,3,05:23,,1,4,11,CIN 35,0,CIN,
-19,4090,2,05:29,,1,4,9,CIN 35,0,CIN,
-19,4137,1,04:48,,10,4,17,CIN 37,0,CIN,
-19,4179,3,03:28,,1,4,20,CIN 46,0,CIN,
-19,4062,1,06:03,,10,4,9,CIN 26,0,CIN,
-19,4204,4,02:47,,1,4,20,CIN 46,0,CIN,PUNT
-19,4158,2,04:07,,4,4,20,CIN 43,0,CIN,
-22,4708,0,,,0,4,-1,,0,,
-22,4687,1,00:12,,10,4,-1,BUF 13,0,BUF,
-22,4724,0,,,0,4,-1,,0,,
-12,2671,4,09:52,,18,3,-8,BUF 9,0,BUF,PUNT
-12,2605,1,10:44,,10,3,-1,BUF 17,0,BUF,
-12,2582,0,10:49,,0,3,0,CIN 35,0,CIN,KICKOFF
-12,2652,3,10:09,,11,3,-8,BUF 16,0,BUF,
-12,2626,2,10:15,,11,3,-1,BUF 16,0,BUF,
-16,3728,4,10:17,,8,4,45,CIN 22,1,BUF,TD
-16,3752,0,10:13,,0,4,45,CIN 2,1,BUF,XP
-16,3533,1,12:46,,10,4,45,CIN 45,0,BUF,
-16,3643,1,11:23,,10,4,14,CIN 24,0,BUF,
-16,3609,1,11:41,,10,4,14,CIN 35,0,BUF,
-16,3662,2,11:06,,17,4,14,CIN 31,0,BUF,
-16,3588,3,12:11,,1,4,10,CIN 36,0,BUF,
-16,3562,2,12:12,,1,4,10,CIN 36,0,BUF,
-16,3700,3,11:02,,17,4,23,CIN 31,0,BUF,
-7,1718,2,03:28,,2,2,33,CIN 35,0,CIN,
-7,1739,1,02:51,,10,2,43,BUF 40,0,CIN,
-7,1854,3,01:54,,7,2,46,BUF 27,0,CIN,INT
-7,1810,2,02:00,,7,2,46,BUF 27,0,CIN,
-7,1771,1,02:08,,10,2,46,BUF 30,0,CIN,
-7,1675,0,04:14,,0,2,0,BUF 35,0,BUF,KICKOFF
-7,1837,0,01:54,,0,2,46,,0,,TIMEOUT
-7,1697,1,04:08,,10,2,8,CIN 27,0,CIN,
-3,627,2,06:18,,6,1,83,BUF 24,0,CIN,
-3,496,1,08:48,,10,1,13,CIN 35,0,CIN,PENALTY
-3,599,1,07:00,,10,1,83,BUF 28,0,CIN,
-3,442,1,09:57,,10,1,3,CIN 17,0,CIN,
-3,468,2,09:28,,7,1,18,CIN 20,0,CIN,
-3,536,1,08:18,,15,1,59,CIN 30,0,CIN,
-3,519,0,08:19,,0,1,13,,0,,TIMEOUT
-3,675,1,05:32,,10,1,83,BUF 18,1,CIN,TD
-3,653,3,06:14,,6,1,83,BUF 24,0,CIN,
-3,419,0,10:01,,0,1,0,BUF 35,0,BUF,KICKOFF
-3,561,2,07:40,,15,1,55,CIN 30,0,CIN,
-3,699,0,05:26,,0,1,83,BUF 2,1,CIN,XP
-17,3814,2,09:40,,5,4,3,CIN 25,0,CIN,
-17,3835,3,08:57,,7,4,8,CIN 23,0,CIN,PENALTY
-17,3873,1,08:52,,10,4,6,CIN 28,0,CIN,
-17,3768,0,10:13,,0,4,0,BUF 35,0,BUF,KICKOFF
-17,3941,4,07:23,,12,4,6,CIN 26,0,CIN,PUNT
-17,3915,3,07:27,,12,4,6,CIN 26,0,CIN,
-17,3894,2,08:08,,12,4,6,CIN 26,0,CIN,
-17,3788,1,10:13,,10,4,5,CIN 20,0,CIN,
-4,862,3,03:43,,1,1,31,BUF 43,0,BUF,
-4,883,1,03:17,,10,1,46,CIN 46,0,BUF,PENALTY
-4,1011,2,01:11,,6,1,75,CIN 15,0,BUF,
-4,947,2,02:39,,8,1,55,CIN 29,0,BUF,
-4,789,3,04:37,,1,1,11,BUF 32,0,BUF,
-4,1032,1,00:35,,2,1,76,CIN 2,0,BUF,
-4,1090,2,15:00,,1,2,76,CIN 1,0,BUF,
-4,810,1,04:09,,10,1,11,BUF 34,0,BUF,
-4,922,1,03:07,,10,1,55,CIN 31,0,BUF,
-4,836,2,04:04,,10,1,20,BUF 34,0,BUF,
-4,990,1,01:40,,10,1,62,CIN 19,0,BUF,
-4,968,3,02:07,,1,1,58,CIN 22,0,BUF,
-4,715,0,05:26,,0,1,0,CIN 35,0,CIN,KICKOFF
-4,1133,4,13:46,,1,2,75,CIN 1,0,BUF,
-4,737,1,05:21,,10,1,-1,BUF 23,0,BUF,
-4,768,2,05:01,,11,1,9,BUF 22,0,BUF,
-4,1112,3,14:26,,1,2,76,CIN 1,0,BUF,
-2,244,1,12:12,,10,1,8,BUF 27,0,BUF,
-2,221,0,12:14,,0,1,0,CIN 35,0,CIN,KICKOFF
-2,348,1,10:29,,8,1,70,CIN 8,0,BUF,
-2,287,3,11:13,,4,1,53,BUF 33,0,BUF,
-2,266,2,11:46,,2,1,73,BUF 35,0,BUF,
-2,403,0,10:01,,0,1,73,CIN 2,1,BUF,XP
-2,316,1,10:42,,10,1,65,CIN 20,0,BUF,PENALTY
-2,381,2,10:05,,3,1,73,CIN 3,1,BUF,TD
-15,3461,2,14:09,,12,4,-3,CIN 3,0,CIN,
-15,3432,1,14:48,,10,4,-2,CIN 5,0,CIN,
-15,3507,4,12:56,,8,4,2,CIN 7,0,CIN,PUNT
-15,3486,3,13:24,,13,4,2,CIN 2,0,CIN,
+24,5036,1,10:16,"(10:16) C.Spiller up the middle to BUF 7 for 3 yards (G.Atkins, M.Johnson).",13,5,0,BUF 4,0,BUF,
+24,5078,3,09:09,(9:09) (Shotgun) T.Lewis pass incomplete short middle to C.Hogan. Thrown wide of receiver at BUF 19,6,5,4,BUF 11,0,BUF,
+24,5013,1,10:17,"(10:17) PENALTY on BUF-C.Glenn, False Start, 3 yards, enforced at BUF 7 - No Play.",10,5,-3,BUF 7,0,BUF,PENALTY
+24,5057,2,09:44,"(9:44) (Shotgun) C.Spiller right guard to BUF 11 for 4 yards (C.Dunlap, G.Iloka).",10,5,4,BUF 7,0,BUF,
+24,5104,4,09:05,"(9:05) B.Moorman punts 51 yards to CIN 38, Center-G.Sanborn. B.Tate pushed ob at BUF 33 for 29 yards (G.Sanborn). BUF-J.Leonhard was injured during the play.",6,5,4,BUF 11,0,BUF,PUNT
+25,5159,2,08:15,"(8:15) B.Green-Ellis up the middle to BUF 28 for 2 yards (N.Bradham, A.Moats).",7,5,5,BUF 30,0,CIN,
+25,5201,4,06:49,"(6:49) M.Nugent 43 yard field goal is GOOD, Center-C.Harris, Holder-K.Huber.",2,5,8,BUF 25,1,CIN,FG
+25,5180,3,07:34,"(7:34) G.Bernard up the middle to BUF 25 for 3 yards (D.Searcy, J.Leonhard).",5,5,8,BUF 28,0,CIN,
+25,5138,1,08:48,(8:48) B.Green-Ellis up the middle to BUF 30 for 3 yards (K.Williams; K.Alonso).,10,5,3,BUF 33,0,CIN,
+20,4311,3,02:00,"(2:00) (Shotgun) T.Lewis pass short middle to F.Jackson to BUF 35 for 7 yards (V.Burfict, G.Iloka). CIN-V.Burfict was injured during the play.  Caught at BUF 30, crossing from left.",6,4,21,BUF 28,0,BUF,
+20,4388,2,01:41,(1:41) (Shotgun) T.Lewis pass short middle to S.Chandler to CIN 40 for 25 yards (R.Nelson). Caught at 50.,10,4,46,BUF 35,0,BUF,
+20,4275,2,02:09,"(2:09) (No Huddle, Shotgun) T.Lewis sacked at BUF 28 for -2 yards (C.Dunlap).",4,4,14,BUF 30,0,BUF,
+20,4339,0,01:46,Timeout #2 by CIN at 01:46.,0,4,21,,0,,TIMEOUT
+20,4416,1,01:14,"(1:14) (No Huddle, Shotgun) T.Lewis pass deep right to M.Goodwin for 40 yards, TOUCHDOWN. Caught 3 yds. into end zone.",10,4,86,CIN 40,1,BUF,TD
+20,4244,1,02:14,"(2:14) (No Huddle, Shotgun) T.Lewis pass short right to R.Woods to BUF 30 for 6 yards (T.Newman). Out pattern, caught at BUF 29.",10,4,16,BUF 24,0,BUF,
+20,4440,0,01:08,"D.Carpenter extra point is GOOD, Center-G.Sanborn, Holder-B.Moorman.",0,4,86,CIN 2,1,BUF,XP
+20,4356,1,01:46,"(1:46) (Shotgun) T.Lewis pass incomplete short left to S.Chandler (M.Johnson) [G.Atkins]. Pass tipped at line, receiver near sideline at BUF 36.",10,4,21,BUF 35,0,BUF,
+20,4223,1,02:40,"(2:40) F.Jackson right guard to BUF 24 for 10 yards (M.Johnson, T.Mays).",10,4,10,BUF 14,0,BUF,
+21,4534,0,00:31,Timeout #3 by CIN at 00:31.,0,4,14,,0,,TIMEOUT
+21,4478,1,01:01,(1:01) (Shotgun) A.Dalton pass deep middle to M.Jones to CIN 47 for 19 yards (D.Searcy). Caught at CIN 44.,10,4,19,CIN 28,0,CIN,
+21,4506,1,00:38,"(:38) (No Huddle, Shotgun) A.Dalton pass short left to G.Bernard to CIN 42 for -5 yards (N.Robey, K.Alonso). Screen pass, caught at CIN 43.",10,4,14,CIN 47,0,CIN,
+21,4456,0,01:08,"D.Carpenter kicks 64 yards from BUF 35 to CIN 1. B.Tate to CIN 28 for 27 yards (A.Moats, J.Hughes).",0,4,0,BUF 35,0,BUF,KICKOFF
+21,4577,3,00:25,"(:25) (Shotgun) A.Dalton pass incomplete deep right to A.Green. Caught out of bounds at BUF 42. Penalty on CIN-A.Whitworth, Offensive Holding, declined. The Replay Assistant challenged the incomplete pass ruling, and the play was Upheld.",15,4,14,CIN 42,0,CIN,
+21,4615,4,00:18,"(:18) K.Huber punts 45 yards to BUF 13, Center-C.Harris, out of bounds.",15,4,14,CIN 42,0,CIN,PUNT
+21,4551,2,00:31,"(:31) (Shotgun) A.Dalton pass incomplete short left to B.Green-Ellis [K.Williams]. Overthrown, receiver along sideline at CIN 45.",15,4,14,CIN 42,0,CIN,
+22,4687,1,00:12,(:12) T.Lewis kneels to BUF 12 for -1 yards.,10,4,-1,BUF 13,0,BUF,
+22,4724,0,,END QUARTER 4,0,4,-1,,0,,
+22,4708,0,,End of regulation - 4.04 pm,0,4,-1,,0,,
+23,4934,2,11:45,(11:45) (Shotgun) A.Dalton sacked at BUF 47 for -7 yards (M.Dareus).,8,5,30,BUF 40,0,CIN,
+23,4828,1,14:32,"(14:32) (Shotgun) A.Dalton pass short right to A.Green to CIN 25 for 12 yards (L.McKelvin). Caught in flat at CIN 17, slanting from middle.",20,5,2,CIN 13,0,CIN,
+23,4884,1,13:18,"(13:18) (Shotgun) A.Dalton pass short right to G.Bernard to BUF 42 for 23 yards (J.Byrd; J.Hughes). Swing pass, caught at CIN 30. Key block: J.Gresham.",10,5,35,CIN 35,0,CIN,
+23,4913,1,12:25,"(12:25) B.Green-Ellis up the middle to BUF 40 for 2 yards (M.Dareus, L.McKelvin).",10,5,37,BUF 42,0,CIN,
+23,4760,0,15:00,D.Carpenter kicks 69 yards from BUF 35 to CIN -4. B.Tate to CIN 23 for 27 yards (J.Westerman).,0,5,0,BUF 35,0,BUF,KICKOFF
+23,4953,3,11:07,"(11:07) (Shotgun) A.Dalton pass short right to G.Bernard to BUF 37 for 10 yards (N.Bradham, K.Alonso). Swing pass, caught at BUF 47.",15,5,40,BUF 47,0,CIN,
+23,4989,4,10:25,"(10:25) K.Huber punts 30 yards to BUF 7, Center-C.Harris, fair catch by L.McKelvin.",5,5,40,BUF 37,0,CIN,PUNT
+23,4856,2,13:54,(13:54) A.Dalton pass short left to M.Sanu to CIN 35 for 10 yards (A.Williams). Caught near sideline at CIN 35.,8,5,12,CIN 25,0,CIN,
+23,4783,1,14:54,"(14:54) A.Dalton pass short right to A.Green pushed ob at CIN 29 for 6 yards (L.McKelvin). Caught along sideline at CIN 29. PENALTY on CIN-A.Green, Offensive Pass Interference, 10 yards, enforced at CIN 23 - No Play.",10,5,-10,CIN 23,0,CIN,PENALTY
+1,201,4,12:19,"(12:19) M.Nugent 46 yard field goal is GOOD, Center-C.Harris, Holder-K.Huber.",6,1,52,BUF 28,1,CIN,FG
+1,54,1,15:00,"(15:00) A.Dalton pass short right to A.Green to CIN 28 for 8 yards (D.Searcy). Out pass, caught at CIN 26.",10,1,8,CIN 20,0,CIN,
+1,36,0,15:00,"D.Carpenter kicks 74 yards from BUF 35 to CIN -9. B.Tate, Touchback.",0,1,0,BUF 35,0,BUF,KICKOFF
+1,149,2,12:27,(12:27) (Shotgun) A.Dalton pass incomplete short left to M.Jones (A.Williams). Receiver and coverage along sideline at BUF 20.,6,1,52,BUF 28,0,CIN,
+1,128,1,12:59,(12:59) A.Dalton scrambles left end pushed ob at BUF 28 for 4 yards (M.Lawson).,10,1,52,BUF 32,0,CIN,
+1,82,2,14:23,"(14:23) B.Green-Ellis left tackle to CIN 34 for 6 yards (A.Branch, K.Alonso).",2,1,14,CIN 28,0,CIN,
+1,103,1,13:47,"(13:47) M.Jones left end to BUF 32 for 34 yards (J.Byrd, D.Searcy). Reverse, pitch from G.Bernard after inital handoff from A.Dalton.",10,1,48,CIN 34,0,CIN,
+1,175,3,12:23,"(12:23) (Shotgun) A.Dalton pass incomplete short right to M.Jones (L.McKelvin). Receiver and coverage at BUF 25, slanting to middle.",6,1,52,BUF 28,0,CIN,
+3,627,2,06:18,(6:18) (Shotgun) A.Dalton pass incomplete short middle to J.Gresham (J.Byrd). Receiver and coverage at BUF 15.,6,1,83,BUF 24,0,CIN,
+3,468,2,09:28,"(9:28) A.Dalton pass short right to G.Bernard to CIN 35 for 15 yards (L.McKelvin, K.Alonso). Screen pass, caught at CIN 15.",7,1,18,CIN 20,0,CIN,
+3,675,1,05:32,"(5:32) A.Dalton pass deep right to A.Green for 18 yards, TOUCHDOWN. Caught 3 yds. into end zone, near sideline.",10,1,83,BUF 18,1,CIN,TD
+3,599,1,07:00,"(7:00) (Shotgun) A.Dalton pass short left to J.Gresham to BUF 24 for 4 yards (D.Searcy). Out pass, caught at BUF 25.",10,1,83,BUF 28,0,CIN,
+3,442,1,09:57,(9:57) G.Bernard left tackle pushed ob at CIN 20 for 3 yards (S.Gilmore).,10,1,3,CIN 17,0,CIN,
+3,699,0,05:26,"M.Nugent extra point is GOOD, Center-C.Harris, Holder-K.Huber.",0,1,83,BUF 2,1,CIN,XP
+3,519,0,08:19,Timeout #1 by CIN at 08:19.,0,1,13,,0,,TIMEOUT
+3,536,1,08:18,"(8:18) M.Sanu at QB (A.Dalton at WR). (Shotgun) B.Green-Ellis up the middle to CIN 30 for no gain (J.Hughes, K.Williams).",15,1,59,CIN 30,0,CIN,
+3,653,3,06:14,"(6:14) (Shotgun) A.Dalton scrambles up the middle to BUF 18 for 6 yards (K.Alonso, J.Hughes).",6,1,83,BUF 24,0,CIN,
+3,561,2,07:40,"(7:40) (Shotgun) A.Dalton pass short left to M.Jones to BUF 28 for 42 yards (D.Searcy). Screen pass, caught at CIN 28.",15,1,55,CIN 30,0,CIN,
+3,496,1,08:48,"(8:48) PENALTY on CIN-J.Gresham, False Start, 5 yards, enforced at CIN 35 - No Play.",10,1,13,CIN 35,0,CIN,PENALTY
+3,419,0,10:01,D.Carpenter kicks 69 yards from BUF 35 to CIN -4. B.Tate to CIN 17 for 21 yards (M.Easley).,0,1,0,BUF 35,0,BUF,KICKOFF
+2,221,0,12:14,M.Nugent kicks 45 yards from CIN 35 to BUF 20. J.Ross to BUF 27 for 7 yards (D.Kirkpatrick).,0,1,0,CIN 35,0,CIN,KICKOFF
+2,381,2,10:05,"(10:05) (Shotgun) T.Lewis scrambles left guard for 3 yards, TOUCHDOWN.",3,1,73,CIN 3,1,BUF,TD
+2,316,1,10:42,"(10:42) (No Huddle, Shotgun) T.Lewis scrambles left tackle to CIN 16 for 4 yards (W.Gilberry). PENALTY on CIN-V.Burfict, Unnecessary Roughness, 8 yards, enforced at CIN 16.",10,1,65,CIN 20,0,BUF,PENALTY
+2,244,1,12:12,"(12:12) F.Jackson up the middle to BUF 35 for 8 yards (G.Iloka, D.Peko).",10,1,8,BUF 27,0,BUF,
+2,403,0,10:01,"D.Carpenter extra point is GOOD, Center-G.Sanborn, Holder-B.Moorman.",0,1,73,CIN 2,1,BUF,XP
+2,266,2,11:46,"(11:46) (No Huddle, Shotgun) F.Jackson right tackle to BUF 33 for -2 yards (C.Dunlap, G.Atkins).",2,1,73,BUF 35,0,BUF,
+2,348,1,10:29,"(10:29) (Shotgun) T.Lewis pass short left to T.Choice pushed ob at CIN 3 for 5 yards (A.Jones). Screen pass, caught at CIN 12.",8,1,70,CIN 8,0,BUF,
+2,287,3,11:13,"(11:13) (No Huddle, Shotgun) T.Lewis pass deep left to T.Graham to CIN 20 for 47 yards (A.Jones; G.Iloka). Caught near sideline at CIN 40.",4,1,53,BUF 33,0,BUF,
+5,1199,3,12:24,(12:24) B.Green-Ellis right guard to CIN 14 for 3 yards (K.Williams).,1,2,12,CIN 11,0,CIN,
+5,1350,1,08:42,"(8:42) A.Dalton pass short middle to G.Bernard for 20 yards, TOUCHDOWN. Shovel pass, caught at BUF 16.",10,2,98,BUF 20,1,CIN,TD
+5,1220,1,11:39,"(11:39) G.Bernard right guard to CIN 15 for 1 yard (K.Alonso, N.Bradham).",10,2,13,CIN 14,0,CIN,
+5,1157,1,13:41,"(13:41) B.Green-Ellis up the middle to CIN 4 for 2 yards (M.Dareus, N.Bradham).",10,2,2,CIN 2,0,CIN,
+5,1329,3,09:20,"(9:20) G.Bernard up the middle to BUF 20 for 2 yards (D.Searcy, M.Lawson).",1,2,78,BUF 22,0,CIN,
+5,1275,1,10:26,"(10:26) G.Bernard left tackle to BUF 28 for 3 yards (A.Branch, K.Alonso).",10,2,70,BUF 31,0,CIN,
+5,1178,2,12:59,(12:59) B.Green-Ellis left tackle to CIN 11 for 7 yards (K.Alonso).,8,2,9,CIN 4,0,CIN,
+5,1241,2,11:00,"(11:00) A.Dalton pass short left to A.Green pushed ob at BUF 31 for 54 yards (D.Searcy). Screen pass, caught at CIN 14. Key block: A.Whitworth.",9,2,67,CIN 15,0,CIN,
+5,1379,0,08:34,"M.Nugent extra point is GOOD, Center-C.Harris, Holder-K.Huber.",0,2,98,BUF 2,1,CIN,XP
+5,1296,2,09:49,(9:49) (Shotgun) A.Dalton pass short right to B.Tate pushed ob at BUF 22 for 6 yards (L.McKelvin). Caught near sideline at BUF 22.,7,2,76,BUF 28,0,CIN,
+4,883,1,03:17,"(3:17) (No Huddle, Shotgun) T.Lewis pass short middle to F.Jackson to CIN 46 for no gain (V.Burfict). Screen pass, caught at CIN 47, crossing to left. PENALTY on CIN-V.Burfict, Face Mask (15 Yards), 15 yards, enforced at CIN 46.",10,1,46,CIN 46,0,BUF,PENALTY
+4,768,2,05:01,(5:01) (Shotgun) C.Spiller left tackle pushed ob at BUF 32 for 10 yards (A.Jones).,11,1,9,BUF 22,0,BUF,
+4,836,2,04:04,(4:04) (Shotgun) C.Spiller left tackle pushed ob at BUF 43 for 9 yards (A.Jones).,10,1,20,BUF 34,0,BUF,
+4,990,1,01:40,"(1:40) T.Choice up the middle to CIN 15 for 4 yards (D.Still, M.Johnson).",10,1,62,CIN 19,0,BUF,
+4,1133,4,13:46,"(13:46) T.Lewis sacked at CIN 2 for -1 yards (J.Harrison, V.Rey).",1,2,75,CIN 1,0,BUF,
+4,947,2,02:39,(2:39) (No Huddle) C.Spiller left tackle pushed ob at CIN 22 for 7 yards (A.Jones).,8,1,55,CIN 29,0,BUF,
+4,715,0,05:26,"M.Nugent kicks 67 yards from CIN 35 to BUF -2. M.Goodwin to BUF 23 for 25 yards (R.Nelson, M.Boley).",0,1,0,CIN 35,0,CIN,KICKOFF
+4,862,3,03:43,(3:43) (Shotgun) F.Jackson up the middle to CIN 46 for 11 yards (R.Nelson).,1,1,31,BUF 43,0,BUF,
+4,968,3,02:07,"(2:07) (Shotgun) T.Choice up the middle to CIN 19 for 3 yards (W.Gilberry, D.Still).",1,1,58,CIN 22,0,BUF,
+4,789,3,04:37,(4:37) (Shotgun) T.Lewis up the middle to BUF 34 for 2 yards (V.Burfict).,1,1,11,BUF 32,0,BUF,
+4,1032,1,00:35,"(:35) F.Jackson right guard to CIN 1 for 1 yard (G.Atkins, V.Rey).",2,1,76,CIN 2,0,BUF,
+4,1112,3,14:26,"(14:26) F.Jackson right guard to CIN 1 for no gain (T.Mays, V.Rey).",1,2,76,CIN 1,0,BUF,
+4,737,1,05:21,"(5:21) M.Goodwin left tackle pushed ob at BUF 22 for -1 yards (J.Harrison). End-around, handoff from T.Lewis.",10,1,-1,BUF 23,0,BUF,
+4,810,1,04:09,(4:09) (Shotgun) T.Lewis pass incomplete short left to T.Graham (A.Jones). Receiver and coverage near sideline at BUF 44.,10,1,11,BUF 34,0,BUF,
+4,1090,2,15:00,"(15:00) F.Jackson right guard to CIN 1 for no gain (V.Burfict, J.Harrison).",1,2,76,CIN 1,0,BUF,
+4,922,1,03:07,"(3:07) Direct snap to C.Spiller. (Shotgun) C.Spiller up the middle to CIN 29 for 2 yards (W.Gilberry, B.Thompson).",10,1,55,CIN 31,0,BUF,
+4,1011,2,01:11,"(1:11) (Shotgun) T.Choice up the middle to CIN 2 for 13 yards (G.Iloka, T.Newman). Key block: F.Summers.",6,1,75,CIN 15,0,BUF,
+7,1739,1,02:51,"(2:51) (Shotgun) A.Dalton pass short left to M.Sanu to BUF 30 for 10 yards (J.Hughes, K.Alonso). Screen pass, caught at BUF 43.",10,2,43,BUF 40,0,CIN,
+7,1810,2,02:00,"(2:00) A.Dalton pass incomplete deep right to T.Eifert. Overthrown, receiver along sideline at BUF 7.",7,2,46,BUF 27,0,CIN,
+7,1771,1,02:08,"(2:08) (Shotgun) G.Bernard left guard to BUF 27 for 3 yards (N.Bradham, K.Alonso).",10,2,46,BUF 30,0,CIN,
+7,1837,0,01:54,Timeout #1 by BUF at 01:54.,0,2,46,,0,,TIMEOUT
+7,1718,2,03:28,"(3:28) B.Green-Ellis up the middle to BUF 40 for 25 yards (D.Searcy, A.Williams).",2,2,33,CIN 35,0,CIN,
+7,1854,3,01:54,(1:54) (Shotgun) A.Dalton pass short right intended for A.Green INTERCEPTED by J.Leonhard at BUF 21. J.Leonhard pushed ob at CIN 38 for 41 yards (B.Green-Ellis).,7,2,46,BUF 27,0,CIN,INT
+7,1697,1,04:08,"(4:08) B.Green-Ellis up the middle to CIN 35 for 8 yards (M.Lawson, J.Byrd).",10,2,8,CIN 27,0,CIN,
+7,1675,0,04:14,D.Carpenter kicks 66 yards from BUF 35 to CIN -1. B.Tate to CIN 27 for 28 yards (J.Westerman; J.Hughes).,0,2,0,BUF 35,0,BUF,KICKOFF
+6,1609,2,05:04,(5:04) (Shotgun) T.Lewis scrambles up the middle to CIN 33 for 5 yards (V.Burfict).,8,2,45,CIN 38,0,BUF,
+6,1630,3,04:22,"(4:22) T.Lewis pass incomplete short right to C.Hogan (T.Newman). Receiver and coverage at CIN 27, slanting to middle.",3,2,45,CIN 33,0,BUF,
+6,1588,1,05:33,"(5:33) (Shotgun) F.Jackson up the middle to CIN 38 for 2 yards (C.Dunlap, R.Maualuga).",10,2,40,CIN 40,0,BUF,
+6,1549,3,05:43,"(5:43) (Shotgun) T.Lewis pass short middle to T.Graham to BUF 45 for 4 yards (V.Burfict). Caught at BUF 45, slanting from right. PENALTY on CIN-V.Burfict, Unnecessary Roughness, 15 yards, enforced at BUF 45.",3,2,38,BUF 41,0,BUF,PENALTY
+6,1495,1,06:46,"(6:46) (Shotgun) T.Choice up the middle to BUF 38 for 4 yards (G.Iloka, V.Burfict).",10,2,16,BUF 34,0,BUF,
+6,1441,2,07:50,"(7:50) C.Spiller left tackle to BUF 31 for 1 yard (L.Hall, R.Maualuga).",2,2,9,BUF 30,0,BUF,
+6,1395,0,08:34,M.Nugent kicks 66 yards from CIN 35 to BUF -1. M.Goodwin to BUF 22 for 23 yards (C.Peerman; T.Mays).,0,2,0,CIN 35,0,CIN,KICKOFF
+6,1516,2,06:12,"(6:12) (Shotgun) T.Lewis pass short middle to C.Spiller pushed ob at BUF 41 for 3 yards (L.Hall). Caught at BUF 40, crossing to left.",6,2,19,BUF 38,0,BUF,
+6,1656,4,04:19,"(4:19) D.Carpenter 51 yard field goal is GOOD, Center-G.Sanborn, Holder-B.Moorman.",3,2,45,CIN 33,1,BUF,FG
+6,1467,3,07:16,"(7:16) (Shotgun) T.Lewis pass short right to R.Woods to BUF 34 for 3 yards (G.Iloka). Out pattern, caught at BUF 34.",1,2,12,BUF 31,0,BUF,
+6,1417,1,08:27,"(8:27) T.Lewis pass short right to C.Spiller to BUF 30 for 8 yards (T.Newman). Screen pass, caught at BUF 20.",10,2,8,BUF 22,0,BUF,
+9,2015,1,00:29,(:29) A.Dalton up the middle to CIN 3 for 2 yards (K.Williams).,10,2,2,CIN 1,0,CIN,
+9,2036,0,00:22,Timeout #2 by BUF at 00:22.,0,2,2,,0,,TIMEOUT
+9,2053,2,00:22,(:22) A.Dalton kneels to CIN 2 for -1 yards.,8,2,1,CIN 3,0,CIN,
+9,2091,3,00:15,(:15) A.Dalton kneels to CIN 1 for -1 yards.,9,2,0,CIN 2,0,CIN,
+9,2074,0,00:15,Timeout #3 by BUF at 00:15.,0,2,1,,0,,TIMEOUT
+8,1887,1,01:44,"(1:44) (Shotgun) T.Lewis pass short left to F.Jackson to CIN 41 for -3 yards (V.Burfict). Screen pass, caught at CIN 42.",10,2,-3,CIN 38,0,BUF,
+8,1967,4,00:39,"(:39) B.Moorman punts 48 yards to end zone, Center-G.Sanborn, Touchback. Kick into end zone. The Replay Assistant challenged the touchback ruling, and the play was REVERSED. B.Moorman punts 47 yards to CIN 1, Center-G.Sanborn, out of bounds. Kick went out of bounds at CIN 1.",20,2,-10,CIN 48,0,BUF,PUNT
+8,1915,2,01:18,"(1:18) (No Huddle, Shotgun) T.Lewis sacked at CIN 48 for -7 yards (D.Peko, G.Atkins).",13,2,-10,CIN 41,0,BUF,
+8,1934,3,00:43,(:43) T.Lewis pass incomplete short left to S.Chandler [G.Atkins]. Thrown behind receiver at CIN 40.,20,2,-10,CIN 48,0,BUF,
+11,2322,1,13:40,"(13:40) A.Dalton pass incomplete short right to A.Green. Dropped, receiver near sideline at BUF 47.",10,3,0,CIN 47,0,CIN,
+11,2490,1,11:37,(11:37) G.Bernard right guard to BUF 10 for 2 yards (A.Branch).,10,3,43,BUF 12,0,CIN,
+11,2430,2,12:22,"(12:22) B.Green-Ellis up the middle to BUF 25 for 7 yards (J.Leonhard, K.Alonso).",3,3,28,BUF 32,0,CIN,
+11,2348,2,13:36,"(13:36) (Shotgun) A.Dalton pass short right to A.Green pushed ob at CIN 49 for 2 yards (L.McKelvin). Screen pass, caught at CIN 45.",10,3,2,CIN 47,0,CIN,
+11,2452,1,11:43,"(11:43) A.Dalton pass incomplete short right to G.Bernard. Thrown wide of receiver at BUF 24. PENALTY on BUF-K.Williams, Taunting, 13 yards, enforced at BUF 25.",10,3,41,BUF 25,0,CIN,PENALTY
+11,2566,0,10:49,"M.Nugent extra point is GOOD, Center-C.Harris, Holder-K.Huber.",0,3,53,BUF 2,1,CIN,XP
+11,2376,3,13:08,"(13:08) (Shotgun) A.Dalton pass short left to M.Sanu pushed ob at BUF 39 for 12 yards (K.Alonso). Screen pass, caught at CIN 49.",8,3,21,CIN 49,0,CIN,
+11,2537,3,10:56,"(10:56) (Shotgun) A.Dalton pass short right to M.Jones for 10 yards, TOUCHDOWN. Caught in front corner of end zone.",8,3,53,BUF 10,1,CIN,TD
+11,2511,2,10:59,"(10:59) (Shotgun) A.Dalton pass incomplete short left to M.Sanu (J.Hughes). Pass tipped upon throw, receiver at BUF 14.",8,3,43,BUF 10,0,CIN,
+11,2409,1,12:49,"(12:49) (No Huddle) G.Bernard up the middle to BUF 32 for 7 yards (K.Alonso, J.Hughes).",10,3,21,BUF 39,0,CIN,
+10,2283,3,13:49,"(13:49) (Shotgun) T.Lewis scrambles left guard to BUF 48 for 1 yard (C.Dunlap). FUMBLES (C.Dunlap), RECOVERED by CIN-V.Burfict at CIN 47. V.Burfict to CIN 47 for no gain (S.Chandler).",6,3,24,BUF 47,0,BUF,FUMBLE
+10,2225,1,14:31,"(14:31) (Shotgun) F.Jackson right guard to BUF 47 for 4 yards (M.Johnson, D.Peko).",10,3,23,BUF 43,0,BUF,
+10,2173,1,14:53,"(14:53) (Shotgun) T.Lewis pass incomplete short left to R.Woods. Thrown wide of receiver, along sideline at BUF 33.",10,3,0,BUF 24,0,BUF,
+10,2144,0,15:00,"M.Nugent kicks 67 yards from CIN 35 to BUF -2. M.Goodwin pushed ob at BUF 24 for 26 yards (S.Williams, R.Nelson).",0,3,0,CIN 35,0,CIN,KICKOFF
+10,2199,2,14:51,(14:51) (Shotgun) C.Spiller left end ran ob at BUF 43 for 19 yards.,10,3,19,BUF 24,0,BUF,
+10,2246,2,13:53,"(13:53) (Shotgun) T.Lewis pass incomplete short right to R.Woods (T.Newman). Receiver and coverage at CIN 45, slanting to middle.",6,3,23,BUF 47,0,BUF,
+13,2986,4,04:46,(4:46) (Shotgun) A.Dalton pass deep middle to D.Sanzenbacher to BUF 11 for 23 yards (J.Leonhard). Caught in coverage at BUF 15.,15,3,60,BUF 34,0,CIN,
+13,2773,1,08:26,"(8:26) G.Bernard right end to CIN 42 for -1 yards (D.Searcy, K.Alonso).",10,3,13,CIN 43,0,CIN,
+13,2864,2,06:04,(6:04) A.Dalton pass short left to M.Sanu pushed ob at BUF 29 for 14 yards (S.Gilmore). Caught near sideline at BUF 37.,7,3,42,BUF 43,0,CIN,
+13,3213,4,01:18,"(1:18) M.Nugent 34 yard field goal is No Good, Wide Right, Center-C.Harris, Holder-K.Huber.",16,3,55,BUF 16,0,CIN,FGM
+13,2939,3,04:51,(4:51) (Shotgun) A.Dalton sacked at BUF 34 for -10 yards (D.Searcy).,5,3,37,BUF 24,0,CIN,
+13,3106,1,02:42,"(2:42) B.Green-Ellis up the middle to BUF 9 for 2 yards (A.Branch, A.Moats).",11,3,62,BUF 11,0,CIN,
+13,2719,1,09:41,"(9:41) B.Green-Ellis up the middle to CIN 34 for 5 yards (M.Dareus, D.Searcy).",10,3,5,CIN 29,0,CIN,
+13,3083,1,03:03,"(3:03) PENALTY on CIN-A.Whitworth, False Start, 5 yards, enforced at BUF 6 - No Play.",6,3,60,BUF 6,0,CIN,PENALTY
+13,2843,1,06:39,"(6:39) B.Green-Ellis up the middle to BUF 43 for 3 yards (J.Hughes, K.Alonso).",10,3,28,BUF 46,0,CIN,
+13,3014,1,04:03,"(4:03) (Shotgun) A.Dalton pass short middle to J.Gresham to BUF 10 for 1 yard (K.Alonso). Middle screen, caught at BUF 14.",10,3,61,BUF 11,0,CIN,
+13,2892,1,05:40,"(5:40) B.Green-Ellis left tackle to BUF 24 for 5 yards (A.Moats, J.Westerman).",10,3,47,BUF 29,0,CIN,
+13,2740,2,09:02,"(9:02) A.Dalton pass short right to G.Bernard pushed ob at CIN 43 for 9 yards (L.McKelvin). Swing pass, caught at CIN 30.",5,3,14,CIN 34,0,CIN,
+13,3156,3,01:26,"(1:26) A.Dalton pass incomplete short left to A.Green. Overthrown, receiver in back of end zone.",6,3,65,BUF 6,0,CIN,
+13,2913,2,04:57,"(4:57) A.Dalton pass incomplete deep right to A.Green. Overthrown, receiver 5 yds. into end zone, along sideline.",5,3,37,BUF 24,0,CIN,
+13,2958,0,04:46,Timeout #1 by CIN at 04:46.,0,3,37,,0,,TIMEOUT
+13,2794,2,07:43,"(7:43) (Shotgun) A.Dalton pass short right to T.Eifert to BUF 48 for 10 yards (J.Byrd). Caught at 50, slanting to middle.",11,3,25,CIN 42,0,CIN,
+13,3182,4,01:22,"(1:22) M.Nugent 24 yard field goal is GOOD, NULLIFIED by Penalty, Center-C.Harris, Holder-K.Huber. PENALTY on CIN-Al.Smith, Offensive Holding, 10 yards, enforced at BUF 6 - No Play.",6,3,55,BUF 6,0,CIN,PENALTY
+13,3042,2,03:21,"(3:21) (Shotgun) A.Dalton sacked at BUF 12 for -2 yards (sack split by M.Williams and K.Williams). PENALTY on BUF-K.Williams, Face Mask (15 Yards), 6 yards, enforced at BUF 12.",9,3,65,BUF 10,0,CIN,PENALTY
+13,2822,3,07:15,(7:15) (No Huddle) A.Dalton up the middle to BUF 46 for 2 yards (K.Alonso).,1,3,25,BUF 48,0,CIN,
+13,3127,2,02:00,"(2:00) (Shotgun) A.Dalton pass short left to T.Eifert to BUF 6 for 3 yards (J.Hughes, K.Alonso). Quick-in, caught at BUF 6.",9,3,65,BUF 9,0,CIN,
+12,2671,4,09:52,"(9:52) B.Moorman punts 57 yards to CIN 34, Center-G.Sanborn. A.Jones to CIN 44 for 10 yards (J.Westerman, N.Bradham). Return credited to CIN 39 (spot of foul). PENALTY on CIN-M.Jones, Illegal Block Above the Waist, 10 yards, enforced at CIN 39.",18,3,-8,BUF 9,0,BUF,PUNT
+12,2605,1,10:44,"(10:44) (Shotgun) C.Spiller left tackle to BUF 16 for -1 yards (M.Johnson, V.Burfict).",10,3,-1,BUF 17,0,BUF,
+12,2626,2,10:15,"(10:15) (Shotgun) T.Lewis pass incomplete deep left to M.Goodwin [B.Thompson]. Overthrown, receiver near sideline at CIN 43.",11,3,-1,BUF 16,0,BUF,
+12,2582,0,10:49,"M.Nugent kicks 68 yards from CIN 35 to BUF -3. M.Goodwin to BUF 17 for 20 yards (J.DiManche, S.Williams).",0,3,0,CIN 35,0,CIN,KICKOFF
+12,2652,3,10:09,(10:09) (Shotgun) T.Lewis sacked at BUF 9 for -7 yards (W.Gilberry).,11,3,-8,BUF 16,0,BUF,
+15,3432,1,14:48,"(14:48) A.Dalton pass short right to M.Sanu pushed ob at CIN 3 for -2 yards (D.Searcy). Dump pass, caught at CIN 3.",10,4,-2,CIN 5,0,CIN,
+15,3507,4,12:56,"(12:56) K.Huber punts 41 yards to CIN 48, Center-C.Harris. L.McKelvin to CIN 45 for 3 yards (C.Peerman, J.DiManche).",8,4,2,CIN 7,0,CIN,PUNT
+15,3461,2,14:09,"(14:09) B.Green-Ellis left tackle to CIN 2 for -1 yards (K.Alonso, D.Searcy).",12,4,-3,CIN 3,0,CIN,
+15,3486,3,13:24,"(13:24) B.Green-Ellis left tackle to CIN 7 for 5 yards (D.Searcy, S.Gilmore).",13,4,2,CIN 2,0,CIN,
+14,3234,1,01:15,"(1:15) One-yard difference on change of possession. T.Lewis pass incomplete short left to R.Woods. Thrown wide of receiver, near sideline at BUF 40.",10,3,0,BUF 25,0,BUF,
+14,3345,3,00:10,"(:10) (Shotgun) T.Lewis pass short middle to T.Choice to BUF 44 for 4 yards (L.Hall). Caught at BUF 42, crossing from right.",9,3,19,BUF 40,0,BUF,
+14,3318,2,00:13,"(:13) (Shotgun) T.Lewis pass incomplete short left to T.Choice. Off receiver's hands at BUF 40, slanting from middle.",9,3,15,BUF 40,0,BUF,
+14,3406,4,15:00,"(15:00) B.Moorman punts 51 yards to CIN 5, Center-G.Sanborn. A.Jones to CIN 5 for no gain (G.Sanborn, A.Moats).",5,4,19,BUF 44,0,BUF,PUNT
+14,3268,2,01:06,"(1:06) (Shotgun) T.Lewis pass short right to T.Graham to BUF 39 for 14 yards (T.Newman, G.Iloka). Slant pattern, caught at BUF 33.",10,3,15,BUF 25,0,BUF,
+14,3297,1,00:40,"(:40) (No Huddle, Shotgun) C.Spiller right guard to BUF 40 for 1 yard (W.Gilberry).",10,3,15,BUF 39,0,BUF,
+17,3835,3,08:57,"(8:57) (Shotgun) A.Dalton pass incomplete short right to A.Green. Thrown wide of receiver near sideline at CIN 37. PENALTY on BUF-N.Robey, Defensive Holding, 5 yards, enforced at CIN 23 - No Play.",7,4,8,CIN 23,0,CIN,PENALTY
+17,3915,3,07:27,"(7:27) (Shotgun) A.Dalton pass incomplete short left to J.Gresham. Dropped, receiver at CIN 35.",12,4,6,CIN 26,0,CIN,
+17,3814,2,09:40,(9:40) G.Bernard left guard to CIN 23 for -2 yards (C.Bryant).,5,4,3,CIN 25,0,CIN,
+17,3768,0,10:13,"D.Carpenter kicks 65 yards from BUF 35 to end zone, Touchback. Kick through end zone.",0,4,0,BUF 35,0,BUF,KICKOFF
+17,3941,4,07:23,"(7:23) K.Huber punts 50 yards to BUF 24, Center-C.Harris. L.McKelvin to BUF 31 for 7 yards (M.Jones, J.DiManche).",12,4,6,CIN 26,0,CIN,PUNT
+17,3788,1,10:13,(10:13) A.Dalton scrambles right end pushed ob at CIN 25 for 5 yards (J.Hughes).,10,4,5,CIN 20,0,CIN,
+17,3873,1,08:52,"(8:52) G.Bernard right tackle to CIN 26 for -2 yards (A.Branch, A.Moats).",10,4,6,CIN 28,0,CIN,
+17,3894,2,08:08,"(8:08) G.Bernard left guard to CIN 26 for no gain (A.Branch, J.Hughes).",12,4,6,CIN 26,0,CIN,
+16,3562,2,12:12,(12:12) (Shotgun) T.Lewis pass incomplete short right to R.Woods [W.Gilberry]. Pass batted at line. Receiver at CIN 31.,1,4,10,CIN 36,0,BUF,
+16,3662,2,11:06,"(11:06) (No Huddle, Shotgun) T.Lewis pass incomplete short right to F.Jackson (D.Kirkpatrick). CIN-D.Kirkpatrick was injured during the play.  Receiver and coverage along sideline at CIN 28.",17,4,14,CIN 31,0,BUF,
+16,3588,3,12:11,(12:11) (Shotgun) F.Jackson left guard to CIN 35 for 1 yard (R.Maualuga).,1,4,10,CIN 36,0,BUF,
+16,3609,1,11:41,"(11:41) (No Huddle, Shotgun) T.Lewis pass short left to M.Goodwin pushed ob at CIN 24 for 11 yards (R.Nelson). Caught near sideline at CIN 26.",10,4,14,CIN 35,0,BUF,
+16,3752,0,10:13,"D.Carpenter extra point is GOOD, Center-G.Sanborn, Holder-B.Moorman.",0,4,45,CIN 2,1,BUF,XP
+16,3533,1,12:46,"(12:46) (Shotgun) T.Lewis pass short left to T.Graham to CIN 36 for 9 yards (A.Jones, V.Burfict). Caught along sideline at CIN 39.",10,4,45,CIN 45,0,BUF,
+16,3728,4,10:17,"(10:17) (Shotgun) T.Lewis pass short middle to S.Chandler for 22 yards, TOUCHDOWN. Caught at CIN 11, shading from right.",8,4,45,CIN 22,1,BUF,TD
+16,3700,3,11:02,"(11:02) (Shotgun) T.Lewis pass short right to F.Jackson to CIN 22 for 9 yards (V.Burfict). Swing pass, caught at CIN 32.",17,4,23,CIN 31,0,BUF,
+16,3643,1,11:23,"(11:23) (No Huddle, Shotgun) T.Lewis sacked at CIN 31 for -7 yards (sack split by B.Thompson and G.Atkins).",10,4,14,CIN 24,0,BUF,
+19,4062,1,06:03,"(6:03) A.Dalton pass short right to A.Green to CIN 35 for 9 yards (L.McKelvin, K.Alonso). Caught at CIN 32, slanting to middle.",10,4,9,CIN 26,0,CIN,
+19,4090,2,05:29,(5:29) A.Dalton pass incomplete short right. Thrown away after pressure from M.Williams.,1,4,9,CIN 35,0,CIN,
+19,4158,2,04:07,"(4:07) G.Bernard up the middle to CIN 46 for 3 yards (K.Alonso, J.Leonhard).",4,4,20,CIN 43,0,CIN,
+19,4179,3,03:28,"(3:28) G.Bernard up the middle to CIN 46 for no gain (A.Moats, K.Williams). Measurement = fourth down.",1,4,20,CIN 46,0,CIN,
+19,4137,1,04:48,(4:48) G.Bernard up the middle to CIN 43 for 6 yards (L.McKelvin).,10,4,17,CIN 37,0,CIN,
+19,4116,3,05:23,"(5:23) B.Green-Ellis up the middle to CIN 37 for 2 yards (D.Searcy, N.Bradham).",1,4,11,CIN 35,0,CIN,
+19,4204,4,02:47,"(2:47) K.Huber punts 40 yards to BUF 14, Center-C.Harris, fair catch by L.McKelvin.",1,4,20,CIN 46,0,CIN,PUNT
+18,3967,1,07:13,"(7:13) (Shotgun) T.Lewis pass incomplete short right to T.Graham [C.Dunlap]. Overthrown, receiver along sideline at BUF 43.",10,4,5,BUF 31,0,BUF,
+18,3993,2,07:08,"(7:08) (Shotgun) T.Lewis pass short right to C.Hogan to BUF 33 for 2 yards (R.Maualuga). Caught at BUF 33, crossing from middle.",10,4,2,BUF 31,0,BUF,
+18,4042,4,06:12,"(6:12) B.Moorman punts 38 yards to CIN 26, Center-G.Sanborn, fair catch by B.Tate.",5,4,5,BUF 36,0,BUF,PUNT
+18,4021,3,06:35,"(6:35) (No Huddle, Shotgun) T.Lewis scrambles left end pushed ob at BUF 36 for 3 yards (G.Atkins).",8,4,5,BUF 33,0,BUF,

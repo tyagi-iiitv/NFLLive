@@ -1,161 +1,161 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1730,0,00:27,,0,2,0,PIT 35,0,PIT,KICKOFF
-9,1745,1,00:27,,10,2,9,ATL 20,0,ATL,
-9,1773,0,00:21,,0,2,9,,0,,TIMEOUT
-9,1814,0,00:11,,0,2,13,,0,,TIMEOUT
-9,1872,1,00:00,,10,2,28,ATL 45,0,ATL,
-9,1893,0,,,0,2,28,,0,,
-9,1790,2,00:21,,1,2,13,ATL 29,0,ATL,
-9,1855,0,00:01,,0,2,25,,0,,TIMEOUT
-9,1831,1,00:11,,10,2,25,ATL 33,0,ATL,
-6,1050,4,10:09,,2,2,3,ATL 48,0,PIT,PENALTY
-6,1004,2,10:46,,13,2,-3,PIT 41,0,PIT,
-6,983,1,11:29,,10,2,-3,PIT 44,0,PIT,
-6,1026,3,10:39,,13,2,8,PIT 41,0,PIT,
-6,1073,4,09:56,,7,2,3,PIT 47,0,PIT,PUNT
-14,2755,0,14:11,,0,4,0,PIT 35,0,PIT,KICKOFF
-14,2777,1,14:04,,10,4,0,ATL 16,0,ATL,
-14,2957,2,11:07,,10,4,80,PIT 11,0,ATL,
-14,2887,1,12:07,,10,4,32,ATL 48,0,ATL,
-14,2935,1,11:11,,10,4,73,PIT 11,0,ATL,
-14,2908,2,11:28,,10,4,84,ATL 48,0,ATL,
-14,2841,1,12:43,,10,4,19,ATL 35,0,ATL,
-14,2799,2,13:58,,10,4,7,ATL 16,0,ATL,
-14,3003,0,10:21,,0,4,84,PIT 2,1,ATL,XP
-14,2983,3,10:26,,3,4,84,PIT 4,1,ATL,TD
-14,2820,3,13:19,,3,4,19,ATL 23,0,ATL,
-14,2863,2,12:38,,10,4,32,ATL 35,0,ATL,
-7,1324,0,04:19,,0,2,85,PIT 2,1,ATL,XP
-7,1281,2,05:07,,3,2,68,PIT 14,0,ATL,
-7,1304,3,04:27,,6,2,85,PIT 17,1,ATL,TD
-7,1185,2,07:18,,9,2,48,PIT 47,0,ATL,
-7,1092,1,09:48,,10,2,2,ATL 15,0,ATL,
-7,1209,1,06:39,,10,2,50,PIT 37,0,ATL,
-7,1161,1,07:51,,10,2,38,PIT 48,0,ATL,
-7,1113,2,09:11,,8,2,13,ATL 17,0,ATL,
-7,1137,1,08:32,,10,2,37,ATL 28,0,ATL,
-7,1230,2,05:58,,8,2,71,PIT 35,0,ATL,PENALTY
-7,1260,1,05:47,,10,2,71,PIT 21,0,ATL,
-8,1400,2,02:41,,9,2,19,PIT 34,0,PIT,
-8,1441,3,02:00,,4,2,24,PIT 39,0,PIT,
-8,1636,2,00:37,,10,2,80,ATL 29,0,PIT,
-8,1549,0,01:14,,0,2,35,,0,,TIMEOUT
-8,1590,2,00:50,,3,2,51,ATL 38,0,PIT,
-8,1424,0,02:00,,0,2,19,,0,,
-8,1528,3,01:19,,1,2,35,ATL 47,0,PIT,
-8,1379,1,03:38,,10,2,14,PIT 33,0,PIT,
-8,1340,0,04:19,,0,2,0,ATL 35,0,ATL,KICKOFF
-8,1566,1,01:14,,10,2,42,ATL 45,0,PIT,
-8,1714,0,00:27,,0,2,80,ATL 2,1,PIT,XP
-8,1487,2,01:27,,10,2,33,PIT 44,0,PIT,
-8,1511,0,01:19,,0,2,33,,0,,TIMEOUT
-8,1465,1,01:32,,10,2,24,PIT 44,0,PIT,
-8,1614,1,00:38,,10,2,51,ATL 29,0,PIT,
-8,1355,1,04:19,,10,2,13,PIT 20,0,PIT,
-8,1658,1,00:31,,1,2,80,ATL 1,1,PIT,TD
-10,1924,1,15:00,,10,3,46,ATL 20,0,ATL,
-10,2006,1,13:02,,20,3,58,PIT 28,0,ATL,
-10,2065,3,11:35,,8,3,70,PIT 16,0,ATL,
-10,2030,2,12:29,,14,3,70,PIT 22,0,ATL,FUMBLE
-10,2089,4,11:04,,2,3,70,PIT 10,1,ATL,FG
-10,1948,1,14:05,,10,3,62,PIT 34,0,ATL,
-10,1909,0,15:00,,0,3,0,PIT 35,0,PIT,KICKOFF
-10,1972,1,13:23,,10,3,52,PIT 18,0,ATL,PENALTY
-12,2363,1,06:53,,10,3,40,PIT 45,0,ATL,
-12,2478,1,04:09,,10,3,77,PIT 11,0,ATL,
-12,2342,1,07:33,,10,3,34,ATL 43,0,ATL,
-12,2502,2,03:36,,1,3,75,PIT 2,0,ATL,
-12,2408,1,05:31,,10,3,60,PIT 27,0,ATL,
-12,2275,1,08:44,,10,3,3,ATL 21,0,ATL,
-12,2387,2,06:20,,4,3,52,PIT 39,0,ATL,
-12,2296,2,08:06,,7,3,3,ATL 24,0,ATL,
-12,2318,3,08:01,,7,3,22,ATL 24,0,ATL,
-12,2558,4,02:45,,3,3,75,PIT 4,1,ATL,FG
-12,2454,3,04:54,,2,3,68,PIT 19,0,ATL,
-12,2432,2,04:58,,2,3,75,PIT 19,0,ATL,
-12,2525,3,02:50,,3,3,75,PIT 4,0,ATL,
-16,3267,2,06:17,,10,4,4,ATL 17,0,ATL,
-16,3245,1,06:23,,10,4,0,ATL 17,0,ATL,
-16,3291,3,05:36,,6,4,8,ATL 21,0,ATL,
-16,3315,4,04:50,,2,4,8,ATL 25,0,ATL,PUNT
-11,2108,0,11:00,,0,3,0,ATL 35,0,ATL,KICKOFF
-11,2154,1,10:13,,10,3,12,PIT 37,0,PIT,
-11,2221,3,08:54,,16,3,5,PIT 31,0,PIT,
-11,2133,1,10:54,,10,3,11,PIT 26,0,PIT,
-11,2250,4,08:54,,16,3,5,PIT 31,0,PIT,PUNT
-11,2175,2,09:25,,9,3,5,PIT 38,0,PIT,PENALTY
-3,670,3,00:48,,17,1,72,ATL 30,0,PIT,
-3,629,1,01:42,,10,1,62,ATL 23,0,PIT,
-3,581,1,02:58,,10,1,62,ATL 40,0,PIT,
-3,525,2,04:10,,8,1,8,PIT 10,0,PIT,
-3,648,2,00:55,,17,1,62,ATL 30,0,PIT,
-3,546,3,03:34,,2,1,52,PIT 16,0,PIT,
-3,605,2,02:17,,2,1,69,ATL 32,0,PIT,
-3,694,4,00:07,,7,1,72,ATL 20,1,PIT,FG
-3,504,1,05:04,,10,1,2,PIT 8,0,PIT,
-17,3385,3,03:05,,4,4,11,PIT 36,0,PIT,PENALTY
-17,3559,0,02:00,,0,4,31,,0,,
-17,3535,2,02:42,,6,4,31,ATL 44,0,PIT,
-17,3340,1,04:34,,10,4,3,PIT 30,0,PIT,
-17,3480,0,02:49,,0,4,22,,0,,TIMEOUT
-17,3576,3,02:00,,1,4,56,ATL 39,0,PIT,
-17,3439,0,02:55,,0,4,13,,0,,TIMEOUT
-17,3600,1,01:15,,10,4,55,ATL 14,0,PIT,
-17,3418,1,03:02,,10,4,13,PIT 41,0,PIT,
-17,3361,2,03:54,,7,4,6,PIT 33,0,PIT,
-17,3497,1,02:49,,10,4,26,ATL 48,0,PIT,
-17,3456,2,02:55,,8,4,22,PIT 43,0,PIT,
-17,3642,0,00:00,,0,4,54,,0,,
-17,3621,2,00:38,,11,4,54,ATL 15,0,PIT,
-17,3518,0,02:42,,0,4,26,,0,,TIMEOUT
-4,751,1,15:00,,10,2,0,ATL 38,1,ATL,TD
-4,735,0,,,0,1,0,,0,,
-4,713,0,00:02,,0,1,0,PIT 35,0,PIT,KICKOFF
-2,441,2,05:24,,8,1,36,PIT 44,0,ATL,
-2,399,2,06:37,,1,1,34,ATL 42,0,ATL,
-2,485,4,05:11,,8,1,36,PIT 44,0,ATL,PUNT
-2,351,3,07:49,,2,1,13,ATL 28,0,ATL,
-2,375,1,07:11,,10,1,22,ATL 33,0,ATL,
-2,285,0,09:09,,0,1,0,PIT 35,0,PIT,KICKOFF
-2,328,2,08:28,,2,1,8,ATL 28,0,ATL,
-2,307,1,09:03,,10,1,36,ATL 20,0,ATL,
-2,463,3,05:20,,8,1,36,PIT 44,0,ATL,
-2,420,1,06:00,,10,1,36,PIT 46,0,ATL,
-1,100,1,13:45,,10,1,29,PIT 31,0,PIT,
-1,219,2,10:09,,5,1,60,ATL 20,0,PIT,
-1,198,1,10:53,,10,1,60,ATL 25,0,PIT,
-1,145,2,12:20,,9,1,44,50,0,PIT,
-1,55,1,15:00,,10,1,9,PIT 20,0,PIT,
-1,79,2,14:24,,1,1,11,PIT 29,0,PIT,
-1,240,3,09:21,,5,1,60,ATL 20,0,PIT,
-1,262,4,09:14,,5,1,60,ATL 20,1,PIT,FG
-1,174,1,11:37,,10,1,55,ATL 36,0,PIT,
-1,36,0,15:00,,0,1,0,ATL 35,0,ATL,KICKOFF
-1,124,1,13:05,,10,1,30,PIT 49,0,PIT,
-5,811,1,14:45,,10,2,2,ATL 21,0,ATL,
-5,856,1,13:27,,10,2,1,ATL 32,0,ATL,PENALTY
-5,832,2,14:05,,8,2,11,ATL 23,0,ATL,
-5,789,0,14:46,,0,2,0,PIT 35,0,PIT,KICKOFF
-5,891,1,13:08,,20,2,11,ATL 22,0,ATL,
-5,912,2,12:27,,10,2,15,ATL 32,0,ATL,
-5,936,3,11:47,,6,2,15,ATL 36,0,ATL,
-5,958,4,11:43,,6,2,15,ATL 36,0,ATL,PUNT
-13,2613,2,02:00,,16,3,9,PIT 14,0,PIT,
-13,2592,1,02:40,,10,3,-6,PIT 20,0,PIT,
-13,2658,1,00:45,,10,3,37,PIT 31,0,PIT,
-13,2722,1,14:19,,10,4,80,ATL 13,1,PIT,TD
-13,2698,1,15:00,,10,4,67,ATL 43,0,PIT,
-13,2577,0,02:40,,0,3,0,ATL 35,0,ATL,KICKOFF
-13,2682,0,,,0,3,37,,0,,
-13,2739,0,14:11,,0,4,80,ATL 2,1,PIT,XP
-13,2637,3,01:28,,1,3,11,PIT 29,0,PIT,
-15,3115,0,08:10,,0,4,15,,0,,TIMEOUT
-15,3070,1,09:39,,10,4,16,PIT 30,0,PIT,
-15,3161,1,07:28,,10,4,29,PIT 46,0,PIT,
-15,3182,2,06:43,,9,4,29,PIT 47,0,PIT,
-15,3094,2,09:02,,6,4,15,PIT 34,0,PIT,
-15,3041,1,10:16,,10,4,29,PIT 18,0,PIT,
-15,3019,0,10:21,,0,4,0,ATL 35,0,ATL,KICKOFF
-15,3132,3,08:10,,7,4,28,PIT 33,0,PIT,
-15,3204,3,06:37,,9,4,29,PIT 47,0,PIT,
-15,3226,4,06:31,,9,4,29,PIT 47,0,PIT,PUNT
+11,2133,1,10:54,(10:54) (Shotgun) L.Bell right tackle to PIT 37 for 11 yards (K.Ishmael).,10,3,11,PIT 26,0,PIT,
+11,2221,3,08:54,(8:54) B.Roethlisberger pass incomplete deep right to M.Bryant.,16,3,5,PIT 31,0,PIT,
+11,2154,1,10:13,(10:13) (Shotgun) L.Bell right guard to PIT 38 for 1 yard (M.Goodman; J.Bartu).,10,3,12,PIT 37,0,PIT,
+11,2108,0,11:00,M.Bosher kicks 71 yards from ATL 35 to PIT -6. M.Wheaton to PIT 26 for 32 yards (J.Arenas). ATL-J.Wilson was injured during the play. His return is Questionable.,0,3,0,ATL 35,0,ATL,KICKOFF
+11,2175,2,09:25,"(9:25) (Shotgun) B.Roethlisberger pass short left to A.Brown to PIT 46 for 8 yards (D.Trufant). Penalty on PIT-A.Brown, Face Mask (15 Yards), declined. PENALTY on PIT-A.Brown, Taunting, 15 yards, enforced between downs.",9,3,5,PIT 38,0,PIT,PENALTY
+11,2250,4,08:54,"(8:54) B.Wing punts 55 yards to ATL 14, Center-G.Warren. D.Hester ran ob at ATL 21 for 7 yards (T.Garvin).",16,3,5,PIT 31,0,PIT,PUNT
+10,1948,1,14:05,(14:05) M.Ryan pass deep left to H.Douglas to PIT 18 for 16 yards (W.Gay).,10,3,62,PIT 34,0,ATL,
+10,2089,4,11:04,"(11:04) M.Bryant 28 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher.",2,3,70,PIT 10,1,ATL,FG
+10,1909,0,15:00,"S.Suisham kicks 65 yards from PIT 35 to end zone, Touchback.",0,3,0,PIT 35,0,PIT,KICKOFF
+10,1972,1,13:23,"(13:23) G.Carimi reported in as eligible.  S.Jackson right end to PIT 20 for -2 yards (T.Polamalu). PENALTY on ATL-J.Blalock, Offensive Holding, 10 yards, enforced at PIT 18 - No Play.",10,3,52,PIT 18,0,ATL,PENALTY
+10,2006,1,13:02,(13:02) M.Ryan pass short left to R.White pushed ob at PIT 22 for 6 yards (W.Gay).,20,3,58,PIT 28,0,ATL,
+10,2030,2,12:29,"(12:29) M.Ryan pass short right to R.White to PIT 14 for 8 yards (W.Allen). FUMBLES (W.Allen), recovered by ATL-P.DiMarco at PIT 16. P.DiMarco to PIT 16 for no gain (S.Spence).",14,3,70,PIT 22,0,ATL,FUMBLE
+10,1924,1,15:00,(15:00) M.Ryan pass short left to D.Hester to PIT 34 for 46 yards (M.Mitchell).,10,3,46,ATL 20,0,ATL,
+10,2065,3,11:35,(11:35) (Shotgun) M.Ryan pass short left to H.Douglas to PIT 10 for 6 yards (L.Timmons).,8,3,70,PIT 16,0,ATL,
+13,2658,1,00:45,(:45) B.Roethlisberger pass deep left to H.Miller pushed ob at ATL 43 for 26 yards (D.Trufant).,10,3,37,PIT 31,0,PIT,
+13,2613,2,02:00,(2:00) B.Roethlisberger pass deep middle to A.Brown to PIT 29 for 15 yards (P.Worrilow).,16,3,9,PIT 14,0,PIT,
+13,2722,1,14:19,"(14:19) L.Bell left end for 13 yards, TOUCHDOWN.",10,4,80,ATL 13,1,PIT,TD
+13,2592,1,02:40,(2:40) L.Bell right tackle to PIT 14 for -6 yards (R.Hageman).,10,3,-6,PIT 20,0,PIT,
+13,2577,0,02:40,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback.",0,3,0,ATL 35,0,ATL,KICKOFF
+13,2637,3,01:28,(1:28) L.Bell right guard to PIT 31 for 2 yards (C.Matthews).,1,3,11,PIT 29,0,PIT,
+13,2739,0,14:11,"S.Suisham extra point is GOOD, Center-G.Warren, Holder-B.Wing.",0,4,80,ATL 2,1,PIT,XP
+13,2698,1,15:00,(15:00) (Shotgun) B.Roethlisberger pass deep left to M.Wheaton pushed ob at ATL 13 for 30 yards (K.Ishmael).,10,4,67,ATL 43,0,PIT,
+13,2682,0,,END QUARTER 3,0,3,37,,0,,
+12,2275,1,08:44,(8:44) S.Jackson right end to ATL 24 for 3 yards (S.Tuitt; J.Worilds).,10,3,3,ATL 21,0,ATL,
+12,2525,3,02:50,"(2:50) (Shotgun) M.Ryan pass incomplete short left to D.Hester. Penalty on ATL-H.Douglas, Offensive Pass Interference, declined.",3,3,75,PIT 4,0,ATL,
+12,2318,3,08:01,(8:01) (Shotgun) M.Ryan pass deep right to H.Douglas pushed ob at ATL 43 for 19 yards (A.Blake).,7,3,22,ATL 24,0,ATL,
+12,2342,1,07:33,(7:33) S.Jackson left end to PIT 45 for 12 yards (M.Mitchell).,10,3,34,ATL 43,0,ATL,
+12,2558,4,02:45,"(2:45) M.Bryant 22 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher.",3,3,75,PIT 4,1,ATL,FG
+12,2432,2,04:58,(4:58) (No Huddle) M.Ryan pass incomplete short right to L.Toilolo (C.Heyward).,2,3,75,PIT 19,0,ATL,
+12,2296,2,08:06,(8:06) (Shotgun) M.Ryan pass incomplete short left to J.Rodgers.,7,3,3,ATL 24,0,ATL,
+12,2478,1,04:09,"(4:09) (No Huddle, Shotgun) M.Ryan pass short right to D.Hester pushed ob at PIT 2 for 9 yards (A.Blake).",10,3,77,PIT 11,0,ATL,
+12,2387,2,06:20,"(6:20) (No Huddle, Shotgun) M.Ryan scrambles right end to PIT 27 for 12 yards (L.Timmons).",4,3,52,PIT 39,0,ATL,
+12,2454,3,04:54,(4:54) (Shotgun) M.Ryan pass short left to R.White to PIT 11 for 8 yards (A.Blake).,2,3,68,PIT 19,0,ATL,
+12,2363,1,06:53,(6:53) (No Huddle) M.Ryan pass short right to R.White pushed ob at PIT 39 for 6 yards (A.Blake).,10,3,40,PIT 45,0,ATL,
+12,2502,2,03:36,(3:36) G.Carimi reported in as eligible.  S.Jackson right end to PIT 4 for -2 yards (C.Heyward; W.Allen).,1,3,75,PIT 2,0,ATL,
+12,2408,1,05:31,(5:31) (Shotgun) M.Ryan pass short middle to D.Hester to PIT 19 for 8 yards (V.Williams).,10,3,60,PIT 27,0,ATL,
+15,3019,0,10:21,M.Bosher kicks 65 yards from ATL 35 to PIT 0. M.Wheaton to PIT 18 for 18 yards (E.Weems).,0,4,0,ATL 35,0,ATL,KICKOFF
+15,3182,2,06:43,(6:43) (Shotgun) B.Roethlisberger pass incomplete short right to L.Bell (P.Worrilow) [J.Babineaux].,9,4,29,PIT 47,0,PIT,
+15,3115,0,08:10,Timeout #1 by PIT at 08:10.,0,4,15,,0,,TIMEOUT
+15,3226,4,06:31,"(6:31) B.Wing punts 36 yards to ATL 17, Center-G.Warren, fair catch by D.Hester.",9,4,29,PIT 47,0,PIT,PUNT
+15,3070,1,09:39,(9:39) B.Roethlisberger pass short right to M.Bryant to PIT 34 for 4 yards (D.Trufant).,10,4,16,PIT 30,0,PIT,
+15,3204,3,06:37,(6:37) (Shotgun) B.Roethlisberger pass incomplete deep left to L.Moore [P.Worrilow].,9,4,29,PIT 47,0,PIT,
+15,3094,2,09:02,(9:02) L.Bell left tackle to PIT 33 for -1 yards (K.Biermann).,6,4,15,PIT 34,0,PIT,
+15,3132,3,08:10,(8:10) (Shotgun) B.Roethlisberger pass short middle to M.Wheaton pushed ob at PIT 46 for 13 yards (J.Arenas).,7,4,28,PIT 33,0,PIT,
+15,3041,1,10:16,(10:16) (Shotgun) B.Roethlisberger pass short left to A.Brown pushed ob at PIT 30 for 12 yards (J.Bartu).,10,4,29,PIT 18,0,PIT,
+15,3161,1,07:28,(7:28) L.Bell right end to PIT 47 for 1 yard (J.Bartu).,10,4,29,PIT 46,0,PIT,
+14,2777,1,14:04,(14:04) M.Ryan pass incomplete short middle to D.Freeman [C.Heyward].,10,4,0,ATL 16,0,ATL,
+14,3003,0,10:21,"M.Bryant extra point is GOOD, Center-J.Harris, Holder-M.Bosher.",0,4,84,PIT 2,1,ATL,XP
+14,2863,2,12:38,(12:38) (Shotgun) M.Ryan pass short middle to H.Douglas to ATL 48 for 13 yards (W.Gay).,10,4,32,ATL 35,0,ATL,
+14,2887,1,12:07,(12:07) S.Jackson right end to ATL 48 for no gain (V.Williams; L.Timmons).,10,4,32,ATL 48,0,ATL,
+14,2983,3,10:26,"(10:26) (Shotgun) M.Ryan pass short middle to R.White for 4 yards, TOUCHDOWN.",3,4,84,PIT 4,1,ATL,TD
+14,2957,2,11:07,(11:07) S.Jackson right end pushed ob at PIT 4 for 7 yards (A.Blake).,10,4,80,PIT 11,0,ATL,
+14,2908,2,11:28,(11:28) (Shotgun) M.Ryan pass short left to H.Douglas pushed ob at PIT 11 for 41 yards (M.Mitchell). PIT-M.Mitchell was injured during the play. His return is Questionable.,10,4,84,ATL 48,0,ATL,
+14,2841,1,12:43,(12:43) M.Ryan pass incomplete short left to H.Douglas.,10,4,19,ATL 35,0,ATL,
+14,2799,2,13:58,(13:58) D.Freeman left tackle to ATL 23 for 7 yards (S.Tuitt).,10,4,7,ATL 16,0,ATL,
+14,2935,1,11:11,(11:11) M.Ryan pass incomplete short left to R.White (W.Gay).,10,4,73,PIT 11,0,ATL,
+14,2755,0,14:11,S.Suisham kicks 71 yards from PIT 35 to ATL -6. D.Hester to ATL 16 for 22 yards (S.Thomas).,0,4,0,PIT 35,0,PIT,KICKOFF
+14,2820,3,13:19,(13:19) (Shotgun) M.Ryan scrambles up the middle to ATL 35 for 12 yards.,3,4,19,ATL 23,0,ATL,
+17,3439,0,02:55,Timeout #1 by ATL at 02:55.,0,4,13,,0,,TIMEOUT
+17,3385,3,03:05,"(3:05) (Shotgun) B.Roethlisberger pass incomplete short middle to L.Bell. PENALTY on ATL-D.Trufant, Illegal Contact, 5 yards, enforced at PIT 36 - No Play.",4,4,11,PIT 36,0,PIT,PENALTY
+17,3456,2,02:55,(2:55) (Shotgun) B.Roethlisberger pass short right to A.Brown to ATL 48 for 9 yards (D.Lowery).,8,4,22,PIT 43,0,PIT,
+17,3621,2,00:38,(:38) B.Roethlisberger kneels to ATL 16 for -1 yards.,11,4,54,ATL 15,0,PIT,
+17,3480,0,02:49,Timeout #2 by ATL at 02:49.,0,4,22,,0,,TIMEOUT
+17,3340,1,04:34,(4:34) (Shotgun) L.Bell left tackle to PIT 33 for 3 yards (K.Biermann; P.Worrilow).,10,4,3,PIT 30,0,PIT,
+17,3576,3,02:00,(2:00) B.Roethlisberger pass deep right to H.Miller to ATL 14 for 25 yards (D.Trufant).,1,4,56,ATL 39,0,PIT,
+17,3361,2,03:54,(3:54) B.Roethlisberger pass short right to A.Brown to PIT 36 for 3 yards (J.Arenas).,7,4,6,PIT 33,0,PIT,
+17,3559,0,02:00,Two-Minute Warning,0,4,31,,0,,
+17,3518,0,02:42,Timeout #3 by ATL at 02:42.,0,4,26,,0,,TIMEOUT
+17,3535,2,02:42,(2:42) (Shotgun) B.Roethlisberger pass short left to L.Bell to ATL 39 for 5 yards (K.Biermann; J.Bartu).,6,4,31,ATL 44,0,PIT,
+17,3497,1,02:49,(2:49) L.Bell left end to ATL 44 for 4 yards (J.Bartu).,10,4,26,ATL 48,0,PIT,
+17,3600,1,01:15,(1:15) B.Roethlisberger kneels to ATL 15 for -1 yards.,10,4,55,ATL 14,0,PIT,
+17,3642,0,00:00,END GAME,0,4,54,,0,,
+17,3418,1,03:02,(3:02) L.Bell right guard to PIT 43 for 2 yards (P.Worrilow).,10,4,13,PIT 41,0,PIT,
+16,3315,4,04:50,"(4:50) M.Bosher punts 57 yards to PIT 18, Center-J.Harris. A.Brown ran ob at PIT 30 for 12 yards (P.DiMarco).",2,4,8,ATL 25,0,ATL,PUNT
+16,3267,2,06:17,(6:17) (Shotgun) M.Ryan pass short left to H.Douglas to ATL 21 for 4 yards (W.Gay).,10,4,4,ATL 17,0,ATL,
+16,3245,1,06:23,(6:23) M.Ryan pass incomplete deep left to H.Douglas.,10,4,0,ATL 17,0,ATL,
+16,3291,3,05:36,(5:36) (Shotgun) M.Ryan pass short middle to H.Douglas to ATL 25 for 4 yards (V.Williams).,6,4,8,ATL 21,0,ATL,
+1,145,2,12:20,(12:20) (Shotgun) B.Roethlisberger pass short right to M.Bryant pushed ob at ATL 36 for 14 yards (D.Lowery).,9,1,44,50,0,PIT,
+1,198,1,10:53,(10:53) L.Bell right guard to ATL 20 for 5 yards (P.Worrilow; J.Bartu).,10,1,60,ATL 25,0,PIT,
+1,55,1,15:00,(15:00) B.Roethlisberger pass short right to A.Brown to PIT 29 for 9 yards (R.McClain).,10,1,9,PIT 20,0,PIT,
+1,36,0,15:00,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback.",0,1,0,ATL 35,0,ATL,KICKOFF
+1,219,2,10:09,(10:09) (Shotgun) L.Bell left end to ATL 20 for no gain (P.Worrilow; T.Jackson).,5,1,60,ATL 20,0,PIT,
+1,262,4,09:14,"(9:14) S.Suisham 38 yard field goal is GOOD, Center-G.Warren, Holder-B.Wing.",5,1,60,ATL 20,1,PIT,FG
+1,124,1,13:05,(13:05) L.Bell left guard to 50 for 1 yard (P.Worrilow).,10,1,30,PIT 49,0,PIT,
+1,240,3,09:21,(9:21) (Shotgun) B.Roethlisberger pass incomplete short middle to H.Miller [P.Worrilow].,5,1,60,ATL 20,0,PIT,
+1,100,1,13:45,(13:45) B.Roethlisberger pass deep middle to A.Brown to PIT 49 for 18 yards (D.Trufant).,10,1,29,PIT 31,0,PIT,
+1,174,1,11:37,(11:37) B.Roethlisberger pass short right to L.Bell to ATL 25 for 11 yards (P.Worrilow).,10,1,55,ATL 36,0,PIT,
+1,79,2,14:24,(14:24) L.Bell right tackle to PIT 31 for 2 yards (K.Biermann; R.McClain).,1,1,11,PIT 29,0,PIT,
+3,605,2,02:17,(2:17) B.Roethlisberger pass short right to M.Wheaton ran ob at ATL 23 for 9 yards.,2,1,69,ATL 32,0,PIT,
+3,694,4,00:07,"(:07) S.Suisham 38 yard field goal is GOOD, Center-G.Warren, Holder-B.Wing.",7,1,72,ATL 20,1,PIT,FG
+3,581,1,02:58,(2:58) (Shotgun) B.Roethlisberger pass short right to H.Miller to ATL 32 for 8 yards (K.Ishmael).,10,1,62,ATL 40,0,PIT,
+3,629,1,01:42,(1:42) (Shotgun) B.Roethlisberger sacked at ATL 30 for -7 yards (sack split by P.Soliai and P.Shembo).,10,1,62,ATL 23,0,PIT,
+3,670,3,00:48,(:48) (Shotgun) B.Roethlisberger pass short right to A.Brown to ATL 20 for 10 yards (K.Ishmael; P.Worrilow).,17,1,72,ATL 30,0,PIT,
+3,525,2,04:10,(4:10) L.Bell left guard to PIT 16 for 6 yards (P.Shembo; P.Soliai).,8,1,8,PIT 10,0,PIT,
+3,546,3,03:34,(3:34) (Shotgun) B.Roethlisberger pass short left to L.Bell to ATL 40 for 44 yards (D.Lowery).,2,1,52,PIT 16,0,PIT,
+3,648,2,00:55,(:55) B.Roethlisberger pass incomplete deep right to M.Bryant (R.McClain).,17,1,62,ATL 30,0,PIT,
+3,504,1,05:04,(5:04) (Shotgun) L.Bell left tackle to PIT 10 for 2 yards (C.Matthews).,10,1,2,PIT 8,0,PIT,
+2,285,0,09:09,S.Suisham kicks 61 yards from PIT 35 to ATL 4. D.Hester to ATL 20 for 16 yards (S.Thomas).,0,1,0,PIT 35,0,PIT,KICKOFF
+2,441,2,05:24,(5:24) (Shotgun) M.Ryan pass incomplete short right to H.Douglas.,8,1,36,PIT 44,0,ATL,
+2,463,3,05:20,(5:20) (Shotgun) M.Ryan pass incomplete deep middle to R.White.,8,1,36,PIT 44,0,ATL,
+2,307,1,09:03,(9:03) S.Jackson right end to ATL 28 for 8 yards (L.Timmons; B.McCain).,10,1,36,ATL 20,0,ATL,
+2,485,4,05:11,"(5:11) M.Bosher punts 36 yards to PIT 8, Center-J.Harris, fair catch by A.Brown.",8,1,36,PIT 44,0,ATL,PUNT
+2,351,3,07:49,(7:49) (Shotgun) M.Ryan pass short left to D.Hester pushed ob at ATL 33 for 5 yards (W.Gay).,2,1,13,ATL 28,0,ATL,
+2,420,1,06:00,(6:00) S.Jackson right guard to PIT 44 for 2 yards (S.Spence).,10,1,36,PIT 46,0,ATL,
+2,328,2,08:28,(8:28) G.Carimi reported in as eligible.  S.Jackson left end to ATL 28 for no gain (S.Tuitt).,2,1,8,ATL 28,0,ATL,
+2,375,1,07:11,(7:11) M.Ryan pass short middle to H.Douglas to ATL 42 for 9 yards (W.Gay) [J.Worilds].,10,1,22,ATL 33,0,ATL,
+2,399,2,06:37,(6:37) S.Jackson left tackle to PIT 46 for 12 yards (W.Gay).,1,1,34,ATL 42,0,ATL,
+5,832,2,14:05,(14:05) (Shotgun) M.Ryan pass short left to H.Douglas to ATL 32 for 9 yards (V.Williams).,8,2,11,ATL 23,0,ATL,
+5,891,1,13:08,(13:08) D.Freeman right end to ATL 32 for 10 yards (T.Polamalu).,20,2,11,ATL 22,0,ATL,
+5,856,1,13:27,"(13:27) (Shotgun) M.Ryan pass short left to J.Rodgers pushed ob at ATL 34 for 2 yards (W.Gay) [V.Williams]. PENALTY on ATL-H.Douglas, Offensive Pass Interference, 10 yards, enforced at ATL 32 - No Play.",10,2,1,ATL 32,0,ATL,PENALTY
+5,958,4,11:43,"(11:43) M.Bosher punts 51 yards to PIT 13, Center-J.Harris. A.Brown pushed ob at PIT 44 for 31 yards (M.Bosher).",6,2,15,ATL 36,0,ATL,PUNT
+5,789,0,14:46,S.Suisham kicks 46 yards from PIT 35 to ATL 19. C.Matthews (didn't try to advance) to ATL 21 for 2 yards (M.Mitchell).,0,2,0,PIT 35,0,PIT,KICKOFF
+5,811,1,14:45,(14:45) S.Jackson right guard to ATL 23 for 2 yards (A.Moats; L.Timmons).,10,2,2,ATL 21,0,ATL,
+5,936,3,11:47,(11:47) (Shotgun) M.Ryan pass incomplete short right to R.White.,6,2,15,ATL 36,0,ATL,
+5,912,2,12:27,(12:27) (Shotgun) M.Ryan pass short right to R.White to ATL 36 for 4 yards (A.Blake) [V.Williams].,10,2,15,ATL 32,0,ATL,
+4,735,0,,END QUARTER 1,0,1,0,,0,,
+4,751,1,15:00,"(15:00) M.Ryan pass short middle intended for H.Douglas INTERCEPTED by W.Gay at PIT 48. W.Gay for 52 yards, TOUCHDOWN.",10,2,0,ATL 38,1,ATL,TD
+4,713,0,00:02,S.Suisham kicks 70 yards from PIT 35 to ATL -5. D.Hester ran ob at ATL 38 for 43 yards (A.Blake).,0,1,0,PIT 35,0,PIT,KICKOFF
+7,1304,3,04:27,"(4:27) (Shotgun) M.Ryan pass deep right to D.Hester for 17 yards, TOUCHDOWN.",6,2,85,PIT 17,1,ATL,TD
+7,1260,1,05:47,(5:47) D.Freeman right end pushed ob at PIT 14 for 7 yards (A.Blake).,10,2,71,PIT 21,0,ATL,
+7,1209,1,06:39,(6:39) J.Rodgers left guard to PIT 35 for 2 yards (T.Polamalu).,10,2,50,PIT 37,0,ATL,
+7,1161,1,07:51,(7:51) J.Rodgers right tackle to PIT 47 for 1 yard (T.Polamalu). PIT-L.Timmons was injured during the play. His return is Probable.,10,2,38,PIT 48,0,ATL,
+7,1092,1,09:48,(9:48) S.Jackson right end pushed ob at ATL 17 for 2 yards (B.McCain).,10,2,2,ATL 15,0,ATL,
+7,1185,2,07:18,(7:18) M.Ryan pass short left to H.Douglas to PIT 37 for 10 yards (V.Williams).,9,2,48,PIT 47,0,ATL,
+7,1137,1,08:32,(8:32) M.Ryan pass deep middle to R.White to PIT 48 for 24 yards (W.Gay).,10,2,37,ATL 28,0,ATL,
+7,1281,2,05:07,(5:07) G.Carimi reported in as eligible.  D.Freeman left end to PIT 17 for -3 yards (S.Spence).,3,2,68,PIT 14,0,ATL,
+7,1324,0,04:19,"M.Bryant extra point is GOOD, Center-J.Harris, Holder-M.Bosher.",0,2,85,PIT 2,1,ATL,XP
+7,1113,2,09:11,(9:11) M.Ryan pass short left to S.Jackson to ATL 28 for 11 yards (V.Williams; B.McCain) [J.Jones].,8,2,13,ATL 17,0,ATL,
+7,1230,2,05:58,"(5:58) M.Ryan sacked at PIT 46 for -11 yards (J.Worilds). PENALTY on PIT-J.Worilds, Roughing the Passer, 14 yards, enforced at PIT 35 - No Play.",8,2,71,PIT 35,0,ATL,PENALTY
+6,1050,4,10:09,"(10:09) (No Huddle, Shotgun) PENALTY on PIT-B.Roethlisberger, Delay of Game, 5 yards, enforced at ATL 48 - No Play.",2,2,3,ATL 48,0,PIT,PENALTY
+6,983,1,11:29,"(11:29) L.Bell left end to PIT 41 for -3 yards (K.Ishmael, J.Bartu).",10,2,-3,PIT 44,0,PIT,
+6,1026,3,10:39,(10:39) (Shotgun) B.Roethlisberger pass short middle to A.Brown ran ob at ATL 48 for 11 yards (K.Ishmael).,13,2,8,PIT 41,0,PIT,
+6,1004,2,10:46,(10:46) B.Roethlisberger pass incomplete short right to L.Bell (T.Jackson).,13,2,-3,PIT 41,0,PIT,
+6,1073,4,09:56,"(9:56) B.Wing punts 38 yards to ATL 15, Center-G.Warren, fair catch by D.Hester.",7,2,3,PIT 47,0,PIT,PUNT
+9,1814,0,00:11,Timeout #2 by ATL at 00:11.,0,2,13,,0,,TIMEOUT
+9,1831,1,00:11,(:11) (Shotgun) M.Ryan pass short left to J.Rodgers to ATL 45 for 12 yards (C.Heyward).,10,2,25,ATL 33,0,ATL,
+9,1773,0,00:21,Timeout #1 by ATL at 00:21.,0,2,9,,0,,TIMEOUT
+9,1730,0,00:27,"S.Suisham kicks 65 yards from PIT 35 to end zone, Touchback.",0,2,0,PIT 35,0,PIT,KICKOFF
+9,1790,2,00:21,(:21) (Shotgun) M.Ryan pass short right to L.Toilolo to ATL 33 for 4 yards (R.Shazier).,1,2,13,ATL 29,0,ATL,
+9,1855,0,00:01,Timeout #3 by ATL at 00:01.,0,2,25,,0,,TIMEOUT
+9,1872,1,00:00,(:00) (Shotgun) M.Ryan scrambles left end to ATL 48 for 3 yards (R.Shazier).,10,2,28,ATL 45,0,ATL,
+9,1745,1,00:27,(:27) (Shotgun) M.Ryan pass short middle to D.Freeman to ATL 29 for 9 yards (V.Williams). PIT-V.Williams was injured during the play. His return is Probable.,10,2,9,ATL 20,0,ATL,
+9,1893,0,,END QUARTER 2,0,2,28,,0,,
+8,1424,0,02:00,Two-Minute Warning,0,2,19,,0,,
+8,1636,2,00:37,"(:37) (Shotgun) B.Roethlisberger pass incomplete deep left to A.Brown. The Replay Official challenged the incomplete pass ruling, and the play was REVERSED. (Shotgun) B.Roethlisberger pass deep left to A.Brown ran ob at ATL 1 for 28 yards.",10,2,80,ATL 29,0,PIT,
+8,1714,0,00:27,"S.Suisham extra point is GOOD, Center-G.Warren, Holder-B.Wing.",0,2,80,ATL 2,1,PIT,XP
+8,1340,0,04:19,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback.",0,2,0,ATL 35,0,ATL,KICKOFF
+8,1528,3,01:19,(1:19) L.Bell right tackle to ATL 45 for 2 yards (P.Worrilow; K.Ishmael).,1,2,35,ATL 47,0,PIT,
+8,1614,1,00:38,"(:38) (No Huddle, Shotgun) B.Roethlisberger spiked the ball to stop the clock.",10,2,51,ATL 29,0,PIT,
+8,1355,1,04:19,(4:19) (Shotgun) B.Roethlisberger pass short right to M.Bryant to PIT 33 for 13 yards (D.Trufant).,10,2,13,PIT 20,0,PIT,
+8,1549,0,01:14,Timeout #2 by PIT at 01:14.,0,2,35,,0,,TIMEOUT
+8,1465,1,01:32,"(1:32) (No Huddle, Shotgun) B.Roethlisberger pass incomplete deep right to L.Moore.",10,2,24,PIT 44,0,PIT,
+8,1658,1,00:31,"(:31) (Shotgun) L.Bell right guard for 1 yard, TOUCHDOWN.",1,2,80,ATL 1,1,PIT,TD
+8,1487,2,01:27,(1:27) (Shotgun) B.Roethlisberger pass short middle to M.Wheaton to ATL 47 for 9 yards (P.Worrilow).,10,2,33,PIT 44,0,PIT,
+8,1590,2,00:50,"(:50) (No Huddle, Shotgun) B.Roethlisberger pass short left to H.Miller to ATL 29 for 9 yards (J.Wilson).",3,2,51,ATL 38,0,PIT,
+8,1441,3,02:00,(2:00) (Shotgun) B.Roethlisberger pass short middle to L.Bell to PIT 44 for 5 yards (D.Lowery; K.Ishmael).,4,2,24,PIT 39,0,PIT,
+8,1379,1,03:38,(3:38) (Shotgun) L.Bell right tackle to PIT 34 for 1 yard (K.Biermann; C.Peters).,10,2,14,PIT 33,0,PIT,
+8,1400,2,02:41,(2:41) (Shotgun) B.Roethlisberger pass short left to M.Wheaton to PIT 39 for 5 yards (R.McClain).,9,2,19,PIT 34,0,PIT,
+8,1511,0,01:19,Timeout #1 by PIT at 01:19.,0,2,33,,0,,TIMEOUT
+8,1566,1,01:14,(1:14) (Shotgun) B.Roethlisberger pass short middle to L.Bell to ATL 38 for 7 yards (K.Ishmael; P.Worrilow).,10,2,42,ATL 45,0,PIT,

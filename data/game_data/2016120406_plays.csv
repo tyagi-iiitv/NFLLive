@@ -1,176 +1,176 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1387,4,06:28,,7,2,35,LA 43,0,NE,PUNT
-9,1296,3,07:45,,8,2,32,NE 40,0,NE,
-9,1365,3,06:39,,7,2,35,LA 43,0,NE,
-9,1343,2,07:14,,10,2,35,LA 46,0,NE,
-9,1198,3,10:25,,1,2,-1,NE 31,0,NE,PENALTY
-9,1174,2,10:25,,8,2,9,NE 24,0,NE,
-9,1321,1,07:21,,10,2,32,LA 46,0,NE,
-9,1254,1,09:02,,10,2,19,NE 38,0,NE,
-9,1230,3,09:34,,11,2,16,NE 21,0,NE,
-9,1275,2,09:02,,7,2,18,NE 41,0,NE,
-9,1150,1,10:58,,10,2,2,NE 22,0,NE,
-24,3774,1,04:31,,10,4,16,NE 22,0,NE,
-24,3880,4,03:43,,7,4,17,NE 25,0,NE,PUNT
-24,3829,3,03:43,,2,4,22,NE 30,0,NE,
-24,3853,4,03:43,,2,4,17,NE 30,0,NE,PENALTY
-24,3723,1,05:52,,10,4,8,NE 8,0,NE,
-24,3744,2,05:15,,2,4,16,NE 16,0,NE,
-24,3800,2,03:48,,8,4,22,NE 24,0,NE,
-10,1471,4,05:39,,5,2,5,LA 14,0,LA,PUNT
-10,1428,2,06:16,,10,2,5,LA 9,0,LA,
-10,1406,1,06:20,,10,2,0,LA 9,0,LA,
-10,1449,3,05:45,,5,2,5,LA 14,0,LA,
-20,3175,1,12:36,,10,4,58,LA 30,0,NE,
-20,3228,2,11:36,,16,4,58,LA 36,0,NE,
-20,3276,4,10:53,,6,4,58,LA 26,1,NE,FG
-20,3050,2,15:00,,3,4,16,NE 23,0,NE,
-20,3150,1,12:59,,10,4,54,50,0,NE,
-20,3074,1,14:27,,10,4,18,NE 32,0,NE,
-20,3006,1,00:14,,10,3,7,NE 16,0,NE,
-20,3034,0,,,0,3,7,,0,,
-20,3196,2,11:59,,6,4,58,LA 26,0,NE,PENALTY
-20,3254,3,10:57,,6,4,58,LA 26,0,NE,
-20,3095,2,13:49,,8,4,22,NE 34,0,NE,
-20,3119,3,13:26,,4,4,34,NE 38,0,NE,
-6,849,2,00:52,,10,1,14,LA 29,0,LA,
-6,912,3,00:09,,7,1,14,LA 32,0,LA,INT
-6,776,1,02:21,,10,1,9,LA 18,0,LA,
-6,802,2,01:40,,1,1,11,LA 27,0,LA,
-6,827,1,00:59,,10,1,11,LA 29,0,LA,
-18,2797,4,03:12,,8,3,13,LA 27,1,NE,FG
-18,2681,1,05:02,,10,3,0,LA 40,0,NE,
-18,2752,2,04:28,,10,3,10,LA 29,0,NE,
-18,2728,1,04:33,,10,3,11,LA 29,0,NE,
-18,2773,3,03:49,,11,3,13,LA 30,0,NE,
-18,2703,2,04:56,,10,3,10,LA 40,0,NE,
-26,4134,0,01:15,,0,4,0,LA 35,0,LA,KICKOFF
-26,4195,0,,,0,4,-2,,0,,
-26,4149,1,01:15,,10,4,-1,NE 25,0,NE,
-26,4172,2,00:39,,11,4,-2,NE 24,0,NE,
-25,4052,2,01:20,,2,4,65,NE 2,0,LA,PENALTY
-25,3948,3,02:40,,17,4,-1,LA 27,0,LA,
-25,4098,2,01:20,,1,4,66,NE 1,1,LA,TD
-25,3906,1,03:29,,10,4,-7,LA 34,0,LA,
-25,4118,0,01:15,,0,4,66,NE 15,1,LA,XP
-25,3972,0,02:00,,0,4,-1,,0,,
-25,4035,0,01:20,,0,4,64,,0,,TIMEOUT
-25,4075,2,01:20,,1,4,65,NE 1,0,LA,PENALTY
-25,3989,4,02:00,,11,4,65,LA 33,0,LA,
-25,3926,2,02:50,,17,4,-7,LA 27,0,LA,
-25,4014,1,01:29,,1,4,64,NE 1,0,LA,
-1,128,2,13:09,,1,1,28,NE 42,0,NE,
-1,106,1,13:46,,10,1,22,NE 33,0,NE,
-1,58,1,14:57,,10,1,22,NE 20,0,NE,
-1,84,2,14:20,,6,1,13,NE 24,0,NE,
-1,177,2,12:01,,7,1,28,LA 49,0,NE,
-1,251,0,10:38,,0,1,80,LA 15,1,NE,XP
-1,156,1,12:36,,10,1,31,NE 48,0,NE,
-1,35,0,15:00,,0,1,0,LA 35,0,LA,KICKOFF
-1,202,3,11:23,,10,1,37,NE 48,0,NE,
-1,227,4,10:46,,1,1,80,LA 43,1,NE,TD
-5,604,1,05:39,,10,1,4,NE 19,0,NE,
-5,741,4,02:33,,10,1,24,NE 43,0,NE,PUNT
-5,719,3,02:40,,10,1,24,NE 43,0,NE,
-5,625,2,05:05,,6,1,11,NE 23,0,NE,
-5,695,2,03:21,,12,1,24,NE 41,0,NE,
-5,647,1,04:22,,10,1,24,NE 30,0,NE,
-5,672,1,03:57,,10,1,22,NE 43,0,NE,
-13,2043,4,14:14,,4,3,6,LA 29,0,LA,PUNT
-13,1939,1,14:57,,10,3,-5,LA 23,0,LA,PENALTY
-13,2019,3,14:44,,15,3,6,LA 18,0,LA,
-13,1962,1,14:56,,15,3,-5,LA 18,0,LA,
-13,1916,0,15:00,,0,3,0,NE 35,0,NE,KICKOFF
-13,1984,2,14:48,,15,3,6,LA 18,0,LA,
-21,3369,3,10:01,,8,4,-7,LA 24,0,LA,
-21,3388,4,09:24,,17,4,-7,LA 15,0,LA,PUNT
-21,3297,0,10:48,,0,4,0,NE 35,0,NE,KICKOFF
-21,3319,1,10:41,,10,4,0,LA 22,0,LA,
-21,3341,2,10:38,,10,4,2,LA 22,0,LA,
-23,3680,0,06:01,,0,4,12,,0,,TIMEOUT
-23,3702,4,06:01,,10,4,12,LA 43,0,LA,PUNT
-23,3568,2,06:39,,1,4,12,LA 40,0,LA,
-23,3658,3,06:05,,10,4,12,LA 43,0,LA,
-23,3613,1,06:14,,10,4,12,LA 43,0,LA,
-23,3635,2,06:09,,10,4,12,LA 43,0,LA,
-23,3547,1,07:04,,10,4,9,LA 31,0,LA,
-23,3590,3,06:36,,1,4,12,LA 40,0,LA,
-11,1707,1,02:00,,5,2,39,LA 23,0,NE,
-11,1792,2,00:50,,13,2,48,LA 19,0,NE,
-11,1615,3,03:20,,1,2,24,LA 34,0,NE,
-11,1728,2,01:23,,1,2,42,LA 19,0,NE,
-11,1690,0,02:00,,0,2,35,,0,,
-11,1572,1,03:59,,10,2,15,LA 43,0,NE,
-11,1522,2,05:02,,12,2,7,NE 40,0,NE,
-11,1594,2,03:51,,10,2,24,LA 43,0,NE,
-11,1496,1,05:30,,10,2,-2,NE 42,0,NE,
-11,1547,3,04:29,,3,2,15,NE 49,0,NE,
-11,1749,0,01:21,,0,2,42,,0,,TIMEOUT
-11,1642,4,02:48,,1,2,30,LA 34,0,NE,
-11,1816,3,00:21,,4,2,48,LA 10,0,NE,
-11,1838,4,00:15,,4,2,48,LA 10,1,NE,FG
-11,1766,1,01:21,,10,2,39,LA 16,0,NE,
-11,1665,1,02:08,,10,2,35,LA 28,0,NE,PENALTY
-14,2069,1,14:03,,10,3,-5,NE 16,0,NE,PENALTY
-14,2150,3,13:00,,10,3,0,NE 16,0,NE,
-14,2128,2,13:03,,10,3,0,NE 16,0,NE,
-14,2172,4,12:56,,10,3,0,NE 16,0,NE,PUNT
-14,2104,1,13:40,,15,3,0,NE 11,0,NE,
-8,1125,4,11:10,,10,2,0,LA 25,0,LA,PUNT
-8,1100,3,11:45,,20,2,0,LA 15,0,LA,
-8,1059,1,13:04,,10,2,2,LA 25,0,LA,
-8,1044,0,13:04,,0,2,0,NE 35,0,NE,KICKOFF
-8,1081,2,12:25,,8,2,-10,LA 27,0,LA,
-19,2853,2,02:29,,10,3,10,LA 25,0,LA,
-19,2959,3,00:30,,13,3,7,LA 32,0,LA,
-19,2877,1,01:43,,10,3,10,LA 35,0,LA,
-19,2934,2,01:11,,20,3,7,LA 25,0,LA,
-19,2899,2,01:34,,10,3,0,LA 35,0,LA,PENALTY
-19,2832,1,03:06,,10,3,0,LA 25,0,LA,
-19,2816,0,03:06,,0,3,0,NE 35,0,NE,KICKOFF
-19,2981,4,00:23,,13,3,7,LA 32,0,LA,PUNT
-22,3498,3,07:23,,6,4,17,NE 22,0,NE,
-22,3454,1,08:44,,10,4,13,NE 18,0,NE,
-22,3520,4,07:17,,6,4,17,NE 22,0,NE,PUNT
-22,3477,2,08:01,,10,4,17,NE 18,0,NE,
-22,3424,1,09:10,,10,4,13,NE 5,0,NE,
-12,1900,0,,,0,2,-1,,0,,
-12,1879,1,00:06,,10,2,-1,LA 25,0,LA,
-12,1857,0,00:11,,0,2,0,NE 35,0,NE,KICKOFF
-16,2620,4,05:13,,8,3,49,LA 30,1,NE,FG
-16,2552,1,06:31,,10,3,48,LA 32,0,NE,
-16,2526,1,07:07,,10,3,47,LA 47,0,NE,
-16,2598,3,05:18,,8,3,49,LA 30,0,NE,
-16,2495,1,07:46,,10,3,32,NE 21,0,NE,
-16,2577,2,05:55,,9,3,49,LA 31,0,NE,
-16,2471,0,07:50,,0,3,0,LA 35,0,LA,KICKOFF
-7,982,1,13:50,,10,2,16,LA 20,0,NE,
-7,1003,2,13:13,,4,2,30,LA 14,1,NE,TD
-7,1028,0,13:04,,0,2,30,LA 15,1,NE,XP
-7,960,2,14:26,,5,2,10,LA 25,0,NE,
-7,896,1,15:00,,10,2,5,LA 30,0,NE,
-3,434,2,08:36,,18,1,-4,NE 27,0,NE,
-3,482,4,07:28,,12,1,-2,NE 33,0,NE,PUNT
-3,409,1,09:14,,20,1,-8,NE 25,0,NE,
-3,456,3,07:59,,14,1,-2,NE 31,0,NE,
-3,374,1,09:38,,10,1,-10,NE 35,0,NE,PENALTY
-17,2655,1,05:08,,10,3,0,LA 25,0,LA,INT
-17,2639,0,05:08,,0,3,0,NE 35,0,NE,KICKOFF
-4,574,4,05:50,,2,1,8,LA 36,0,LA,FUMBLE
-4,550,3,06:37,,8,1,8,LA 30,0,LA,
-4,529,2,07:15,,10,1,2,LA 28,0,LA,
-4,507,1,07:20,,10,1,0,LA 28,0,LA,
-2,290,1,10:33,,10,1,-1,LA 16,0,LA,
-2,356,4,09:46,,11,1,-1,LA 15,0,LA,PUNT
-2,312,2,09:58,,11,1,-1,LA 15,0,LA,
-2,334,3,09:53,,11,1,-1,LA 15,0,LA,
-2,267,0,10:38,,0,1,0,NE 35,0,NE,KICKOFF
-15,2208,1,12:45,,10,3,9,LA 45,0,LA,
-15,2452,4,07:56,,3,3,29,NE 26,1,LA,FG
-15,2403,2,09:19,,17,3,23,NE 40,0,LA,
-15,2270,2,10:49,,17,3,22,50,0,LA,
-15,2250,1,11:40,,10,3,5,NE 43,0,LA,
-15,2428,3,08:43,,9,3,29,NE 32,0,LA,
-15,2344,1,10:25,,10,3,25,NE 33,0,LA,
-15,2368,2,09:48,,7,3,15,NE 30,0,LA,PENALTY
-15,2229,2,12:11,,1,3,5,NE 46,0,LA,
+24,3880,4,03:43,"(3:43) R.Allen punts 40 yards to LA 35, Center-J.Cardona. P.Cooper to LA 34 for -1 yards (N.Ebner; J.Jones).",7,4,17,NE 25,0,NE,PUNT
+24,3774,1,04:31,(4:31) (Shotgun) T.Brady pass short right to C.Hogan pushed ob at NE 24 for 2 yards (L.Joyner).,10,4,16,NE 22,0,NE,
+24,3744,2,05:15,(5:15) T.Brady pass short left to J.Edelman to NE 22 for 6 yards (M.Jordan). NE-11 Edelman 8th career 100-yard game.,2,4,16,NE 16,0,NE,
+24,3800,2,03:48,(3:48) T.Brady pass short right to C.Hogan ran ob at NE 30 for 6 yards.,8,4,22,NE 24,0,NE,
+24,3829,3,03:43,(3:43) C.Fleming reported in as eligible.  T.Brady pass incomplete short right to J.Develin.,2,4,22,NE 30,0,NE,
+24,3853,4,03:43,"(3:43) (Punt formation) PENALTY on NE-J.Jones, False Start, 5 yards, enforced at NE 30 - No Play.",2,4,17,NE 30,0,NE,PENALTY
+24,3723,1,05:52,(5:52) (Shotgun) L.Blount up the middle to NE 16 for 8 yards (T.Johnson; M.Barron).,10,4,8,NE 8,0,NE,
+25,3948,3,02:40,(2:40) (Shotgun) J.Goff pass short right to T.Higbee to LA 33 for 6 yards (L.Ryan).,17,4,-1,LA 27,0,LA,
+25,3906,1,03:29,(3:29) (Shotgun) J.Goff sacked at LA 27 for -7 yards (S.McClellin).,10,4,-7,LA 34,0,LA,
+25,3926,2,02:50,(2:50) (Shotgun) J.Goff pass incomplete short right to P.Cooper (M.Butler).,17,4,-7,LA 27,0,LA,
+25,4052,2,01:20,"(1:20) (Shotgun) PENALTY on NE, Defensive 12 On-field, 1 yard, enforced at NE 2 - No Play.",2,4,65,NE 2,0,LA,PENALTY
+25,4075,2,01:20,"(1:20) PENALTY on NE-A.Branch, Encroachment, 0 yards, enforced at NE 1 - No Play.",1,4,65,NE 1,0,LA,PENALTY
+25,4098,2,01:20,"(1:20) J.Goff pass short right to K.Britt for 1 yard, TOUCHDOWN.",1,4,66,NE 1,1,LA,TD
+25,4014,1,01:29,(1:29) (No Huddle) B.Cunningham up the middle to NE 2 for -1 yards (T.Flowers; S.McClellin).,1,4,64,NE 1,0,LA,
+25,3972,0,02:00,Two-Minute Warning,0,4,-1,,0,,
+25,4035,0,01:20,Timeout #1 by LA at 01:20.,0,4,64,,0,,TIMEOUT
+25,3989,4,02:00,(2:00) (Shotgun) J.Goff pass deep right to K.Britt to NE 1 for 66 yards (D.Harmon).,11,4,65,LA 33,0,LA,
+25,4118,0,01:15,"G.Zuerlein extra point is GOOD, Center-J.McQuaide, Holder-J.Hekker.",0,4,66,NE 15,1,LA,XP
+26,4149,1,01:15,(1:15) C.Fleming reported in as eligible.  T.Brady kneels to NE 24 for -1 yards.,10,4,-1,NE 25,0,NE,
+26,4195,0,,END GAME,0,4,-2,,0,,
+26,4134,0,01:15,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback.",0,4,0,LA 35,0,LA,KICKOFF
+26,4172,2,00:39,"(:39) C.Fleming reported in as eligible.  T.Brady kneels to NE 23 for -1 yards. NE-12 Brady 201st win (regular season + playoffs), most all-time (P. Manning, 200).",11,4,-2,NE 24,0,NE,
+20,3228,2,11:36,(11:36) T.Brady pass short right to J.Edelman to LA 26 for 10 yards (T.McDonald).,16,4,58,LA 36,0,NE,
+20,3119,3,13:26,(13:26) (Shotgun) T.Brady pass short left to M.Mitchell ran ob at 50 for 12 yards [A.Donald].,4,4,34,NE 38,0,NE,
+20,3034,0,,END QUARTER 3,0,3,7,,0,,
+20,3254,3,10:57,(10:57) (Shotgun) T.Brady pass incomplete short left to J.Edelman.,6,4,58,LA 26,0,NE,
+20,3276,4,10:53,"(10:53) S.Gostkowski 45 yard field goal is GOOD, Center-J.Cardona, Holder-R.Allen.",6,4,58,LA 26,1,NE,FG
+20,3196,2,11:59,"(11:59) L.Blount right guard to LA 18 for 8 yards (C.Davis). PENALTY on NE-M.Bennett, Offensive Holding, 10 yards, enforced at LA 26 - No Play.",6,4,58,LA 26,0,NE,PENALTY
+20,3006,1,00:14,(:14) (Shotgun) T.Brady pass short left to D.Lewis to NE 23 for 7 yards (A.Ogletree).,10,3,7,NE 16,0,NE,
+20,3074,1,14:27,(14:27) L.Blount right guard to NE 34 for 2 yards (M.Barron; C.Thomas).,10,4,18,NE 32,0,NE,
+20,3150,1,12:59,(12:59) (Shotgun) T.Brady pass deep left to M.Mitchell ran ob at LA 30 for 20 yards.,10,4,54,50,0,NE,
+20,3095,2,13:49,(13:49) (Shotgun) T.Brady pass short middle to J.White to NE 38 for 4 yards (M.Alexander). LA-M.Alexander was injured during the play.,8,4,22,NE 34,0,NE,
+20,3175,1,12:36,(12:36) (Shotgun) L.Blount left guard to LA 26 for 4 yards (A.Donald).,10,4,58,LA 30,0,NE,
+20,3050,2,15:00,(15:00) T.Brady pass short left to J.Edelman to NE 32 for 9 yards (T.McDonald; A.Ogletree).,3,4,16,NE 23,0,NE,
+21,3319,1,10:41,(10:41) (Shotgun) J.Goff pass incomplete short right to L.Kendricks.,10,4,0,LA 22,0,LA,
+21,3297,0,10:48,S.Gostkowski kicks 67 yards from NE 35 to LA -2. B.Cunningham to LA 22 for 24 yards (B.King).,0,4,0,NE 35,0,NE,KICKOFF
+21,3341,2,10:38,(10:38) (Shotgun) J.Goff pass short right to L.Kendricks pushed ob at LA 24 for 2 yards (M.Butler).,10,4,2,LA 22,0,LA,
+21,3388,4,09:24,"(9:24) J.Hekker punts 76 yards to NE 9, Center-J.McQuaide. Cy.Jones to NE 20 for 11 yards (M.Thomas). PENALTY on NE-J.Jones, Offensive Holding, 5 yards, enforced at NE 10.",17,4,-7,LA 15,0,LA,PUNT
+21,3369,3,10:01,"(10:01) (No Huddle, Shotgun) J.Goff sacked at LA 15 for -9 yards (C.Long).",8,4,-7,LA 24,0,LA,
+22,3477,2,08:01,(8:01) L.Blount up the middle to NE 22 for 4 yards (M.Barron; A.Ogletree).,10,4,17,NE 18,0,NE,
+22,3520,4,07:17,"(7:17) R.Allen punts 46 yards to LA 32, Center-J.Cardona. P.Cooper to LA 31 for -1 yards (N.Ebner; B.King).",6,4,17,NE 22,0,NE,PUNT
+22,3498,3,07:23,(7:23) (Shotgun) T.Brady pass incomplete short left to M.Mitchell (M.Jordan).,6,4,17,NE 22,0,NE,
+22,3454,1,08:44,(8:44) C.Fleming reported in as eligible.  L.Blount left end to NE 18 for no gain (M.Jordan; A.Ogletree).,10,4,13,NE 18,0,NE,
+22,3424,1,09:10,(9:10) T.Brady pass short left to M.Mitchell ran ob at NE 18 for 13 yards.,10,4,13,NE 5,0,NE,
+23,3590,3,06:36,(6:36) T.Gurley right guard to LA 43 for 3 yards (M.Brown; D.Hightower).,1,4,12,LA 40,0,LA,
+23,3613,1,06:14,"(6:14) (No Huddle, Shotgun) J.Goff pass incomplete short right to T.Higbee (J.Sheard).",10,4,12,LA 43,0,LA,
+23,3568,2,06:39,"(6:39) (No Huddle, Shotgun) J.Goff pass incomplete short middle to B.Marquez.",1,4,12,LA 40,0,LA,
+23,3635,2,06:09,(6:09) (Shotgun) J.Goff pass incomplete short right to M.Thomas.,10,4,12,LA 43,0,LA,
+23,3547,1,07:04,(7:04) T.Gurley left guard to LA 40 for 9 yards (J.Sheard).,10,4,9,LA 31,0,LA,
+23,3658,3,06:05,(6:05) (Shotgun) J.Goff pass incomplete short middle to P.Cooper.,10,4,12,LA 43,0,LA,
+23,3702,4,06:01,"(6:01) J.Hekker punts 49 yards to NE 8, Center-J.McQuaide, downed by LA-B.Marquez.",10,4,12,LA 43,0,LA,PUNT
+23,3680,0,06:01,Timeout #1 by NE at 06:01.,0,4,12,,0,,TIMEOUT
+1,202,3,11:23,(11:23) (Shotgun) T.Brady pass short right to J.White to LA 43 for 9 yards (M.Brockers).,10,1,37,NE 48,0,NE,
+1,58,1,14:57,"(14:57) NE 12-Brady 231st career start, ties Elway for 5th most all-time. (Shotgun) D.Lewis left guard to NE 24 for 4 yards (M.Brockers; A.Donald).",10,1,22,NE 20,0,NE,
+1,156,1,12:36,(12:36) L.Blount left tackle to LA 49 for 3 yards (E.Gaines; A.Ogletree).,10,1,31,NE 48,0,NE,
+1,35,0,15:00,G.Zuerlein kicks 69 yards from LA 35 to NE -4. Cy.Jones to NE 20 for 24 yards (C.Littleton).,0,1,0,LA 35,0,LA,KICKOFF
+1,227,4,10:46,"(10:46) C.Fleming reported in as eligible.  L.Blount right end for 43 yards, TOUCHDOWN.",1,1,80,LA 43,1,NE,TD
+1,177,2,12:01,(12:01) (Shotgun) T.Brady pass short right to D.Lewis to NE 48 for -3 yards (T.Johnson).,7,1,28,LA 49,0,NE,
+1,128,2,13:09,(13:09) C.Fleming reported in as eligible.  T.Brady pass short left to M.Mitchell to NE 48 for 6 yards (T.McDonald; A.Ogletree).,1,1,28,NE 42,0,NE,
+1,251,0,10:38,"S.Gostkowski extra point is GOOD, Center-J.Cardona, Holder-R.Allen.",0,1,80,LA 15,1,NE,XP
+1,106,1,13:46,(13:46) (Shotgun) J.White left guard to NE 42 for 9 yards (M.Alexander).,10,1,22,NE 33,0,NE,
+1,84,2,14:20,(14:20) (Shotgun) L.Blount up the middle to NE 33 for 9 yards (E.Gaines; E.Sims).,6,1,13,NE 24,0,NE,
+3,456,3,07:59,(7:59) (Shotgun) T.Brady pass short right to D.Lewis to NE 33 for 2 yards (M.Alexander).,14,1,-2,NE 31,0,NE,
+3,434,2,08:36,(8:36) (Shotgun) J.White right tackle to NE 31 for 4 yards (E.Sims; L.Joyner).,18,1,-4,NE 27,0,NE,
+3,374,1,09:38,"(9:38) (Shotgun) T.Brady pass short middle to J.Edelman to NE 47 for 12 yards (M.Barron). PENALTY on NE-J.Thuney, Offensive Holding, 10 yards, enforced at NE 35 - No Play.",10,1,-10,NE 35,0,NE,PENALTY
+3,409,1,09:14,(9:14) (Shotgun) T.Brady pass short right to M.Bennett to NE 27 for 2 yards (T.Johnson).,20,1,-8,NE 25,0,NE,
+3,482,4,07:28,"(7:28) R.Allen punts 43 yards to LA 24, Center-J.Cardona. P.Cooper to LA 28 for 4 yards (B.Bolden).",12,1,-2,NE 33,0,NE,PUNT
+2,312,2,09:58,(9:58) J.Goff pass incomplete short middle to K.Britt.,11,1,-1,LA 15,0,LA,
+2,356,4,09:46,"(9:46) J.Hekker punts 50 yards to NE 35, Center-J.McQuaide, out of bounds.",11,1,-1,LA 15,0,LA,PUNT
+2,267,0,10:38,S.Gostkowski kicks 68 yards from NE 35 to LA -3. B.Cunningham to LA 16 for 19 yards (S.McClellin; E.Roberts).,0,1,0,NE 35,0,NE,KICKOFF
+2,290,1,10:33,(10:33) T.Gurley right guard to LA 15 for -1 yards (A.Branch).,10,1,-1,LA 16,0,LA,
+2,334,3,09:53,(9:53) (Shotgun) J.Goff pass incomplete short right to L.Kendricks.,11,1,-1,LA 15,0,LA,
+5,604,1,05:39,(5:39) L.Blount left guard to NE 23 for 4 yards (C.Littleton; M.Longacre).,10,1,4,NE 19,0,NE,
+5,625,2,05:05,(5:05) L.Blount right tackle to NE 30 for 7 yards (C.Littleton).,6,1,11,NE 23,0,NE,
+5,719,3,02:40,(2:40) (Shotgun) T.Brady pass incomplete deep left to C.Hogan [L.Joyner].,10,1,24,NE 43,0,NE,
+5,695,2,03:21,(3:21) (Shotgun) T.Brady pass short middle to J.White to NE 43 for 2 yards (M.Brockers). pass tipped by LA 90-Brockers,12,1,24,NE 41,0,NE,
+5,672,1,03:57,(3:57) C.Fleming reported in as eligible.  L.Blount right guard to NE 41 for -2 yards (E.Westbrooks).,10,1,22,NE 43,0,NE,
+5,741,4,02:33,"(2:33) R.Allen punts 39 yards to LA 18, Center-J.Cardona, downed by NE-B.King. Penalty on LA, Defensive Offside, declined.",10,1,24,NE 43,0,NE,PUNT
+5,647,1,04:22,(4:22) (Shotgun) T.Brady pass short right to J.Edelman ran ob at NE 43 for 13 yards.,10,1,24,NE 30,0,NE,
+4,507,1,07:20,(7:20) J.Goff pass incomplete deep right to K.Britt (M.Butler).,10,1,0,LA 28,0,LA,
+4,574,4,05:50,"(5:50) J.Hekker punts 44 yards to NE 20, Center-J.McQuaide. Cy.Jones MUFFS catch, recovered by NE-P.Chung at NE 19. P.Chung to NE 19 for no gain (C.Reynolds).",2,1,8,LA 36,0,LA,FUMBLE
+4,529,2,07:15,(7:15) T.Gurley left guard to LA 30 for 2 yards (P.Chung; S.McClellin).,10,1,2,LA 28,0,LA,
+4,550,3,06:37,(6:37) (Shotgun) J.Goff pass short middle to B.Quick to LA 36 for 6 yards (D.Harmon; P.Chung) [R.Ninkovich].,8,1,8,LA 30,0,LA,
+7,982,1,13:50,(13:50) (Shotgun) D.Lewis left end to LA 14 for 6 yards (L.Joyner).,10,2,16,LA 20,0,NE,
+7,1003,2,13:13,"(13:13) (Shotgun) T.Brady pass short left to C.Hogan for 14 yards, TOUCHDOWN.",4,2,30,LA 14,1,NE,TD
+7,960,2,14:26,(14:26) D.Lewis up the middle to LA 20 for 5 yards (A.Ogletree).,5,2,10,LA 25,0,NE,
+7,1028,0,13:04,"S.Gostkowski extra point is GOOD, Center-J.Cardona, Holder-R.Allen.",0,2,30,LA 15,1,NE,XP
+7,896,1,15:00,(15:00) (Shotgun) T.Brady pass short left to D.Lewis to LA 25 for 5 yards (C.Littleton; M.Barron).,10,2,5,LA 30,0,NE,
+6,802,2,01:40,(1:40) (Shotgun) J.Goff pass short left to T.Gurley to LA 29 for 2 yards (D.Hightower).,1,1,11,LA 27,0,LA,
+6,827,1,00:59,(:59) J.Goff pass incomplete deep left to B.Quick.,10,1,11,LA 29,0,LA,
+6,776,1,02:21,(2:21) J.Goff pass short right to B.Quick to LA 27 for 9 yards (L.Ryan).,10,1,9,LA 18,0,LA,
+6,849,2,00:52,(:52) T.Gurley left guard to LA 32 for 3 yards (T.Flowers; R.Ninkovich).,10,1,14,LA 29,0,LA,
+6,912,3,00:09,(:09) (Shotgun) J.Goff pass short middle intended for L.Kendricks INTERCEPTED by M.Butler at LA 37. M.Butler to LA 30 for 7 yards (P.Cooper).,7,1,14,LA 32,0,LA,INT
+9,1198,3,10:25,"(10:25) (No Huddle, Shotgun) D.Lewis left tackle to NE 37 for 6 yards. PENALTY on NE-M.Bennett, Offensive Holding, 10 yards, enforced at NE 31 - No Play.",1,2,-1,NE 31,0,NE,PENALTY
+9,1174,2,10:25,(10:25) T.Brady pass short right to J.Edelman to NE 31 for 7 yards (L.Joyner; M.Alexander).,8,2,9,NE 24,0,NE,
+9,1230,3,09:34,(9:34) (Shotgun) T.Brady pass short left to D.Amendola to NE 38 for 17 yards (M.Jordan; A.Ogletree).,11,2,16,NE 21,0,NE,
+9,1343,2,07:14,(7:14) (Shotgun) D.Lewis left end to LA 43 for 3 yards (M.Alexander).,10,2,35,LA 46,0,NE,
+9,1150,1,10:58,(10:58) (Shotgun) T.Brady pass short left to M.Bennett to NE 24 for 2 yards (C.Littleton; E.Gaines).,10,2,2,NE 22,0,NE,
+9,1275,2,09:02,(9:02) L.Blount left guard to NE 40 for -1 yards (C.Littleton; A.Ogletree).,7,2,18,NE 41,0,NE,
+9,1254,1,09:02,(9:02) L.Blount right guard to NE 41 for 3 yards (W.Hayes).,10,2,19,NE 38,0,NE,
+9,1321,1,07:21,(7:21) T.Brady pass incomplete short right to M.Bennett.,10,2,32,LA 46,0,NE,
+9,1387,4,06:28,"(6:28) R.Allen punts 34 yards to LA 9, Center-J.Cardona, fair catch by P.Cooper.",7,2,35,LA 43,0,NE,PUNT
+9,1296,3,07:45,(7:45) (Shotgun) T.Brady pass short left to M.Mitchell pushed ob at LA 46 for 14 yards (M.Jordan).,8,2,32,NE 40,0,NE,
+9,1365,3,06:39,(6:39) (Shotgun) T.Brady pass incomplete short middle to J.White [T.McDonald].,7,2,35,LA 43,0,NE,
+8,1125,4,11:10,"(11:10) J.Hekker punts 61 yards to NE 14, Center-J.McQuaide. D.Amendola to NE 22 for 8 yards (C.Littleton).",10,2,0,LA 25,0,LA,PUNT
+8,1059,1,13:04,(13:04) T.Gurley right guard to LA 27 for 2 yards (M.Brown).,10,2,2,LA 25,0,LA,
+8,1100,3,11:45,(11:45) (Shotgun) J.Goff pass short left to T.Higbee to LA 25 for 10 yards (L.Ryan).,20,2,0,LA 15,0,LA,
+8,1081,2,12:25,(12:25) (Shotgun) J.Goff sacked at LA 15 for -12 yards (L.Ryan).,8,2,-10,LA 27,0,LA,
+8,1044,0,13:04,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",0,2,0,NE 35,0,NE,KICKOFF
+11,1547,3,04:29,(4:29) (Shotgun) T.Brady pass short middle to D.Amendola to LA 43 for 8 yards (A.Ogletree; L.Joyner).,3,2,15,NE 49,0,NE,
+11,1816,3,00:21,(:21) (Shotgun) T.Brady pass incomplete short left to M.Bennett (T.McDonald).,4,2,48,LA 10,0,NE,
+11,1496,1,05:30,(5:30) L.Blount left end pushed ob at NE 40 for -2 yards (W.Hayes).,10,2,-2,NE 42,0,NE,
+11,1728,2,01:23,(1:23) T.Brady up the middle to LA 16 for 3 yards (A.Donald).,1,2,42,LA 19,0,NE,
+11,1642,4,02:48,(2:48) C.Fleming reported in as eligible.  L.Blount right end to LA 28 for 6 yards (T.Johnson).,1,2,30,LA 34,0,NE,
+11,1792,2,00:50,(:50) (Shotgun) T.Brady pass short middle to M.Mitchell to LA 10 for 9 yards (M.Jordan).,13,2,48,LA 19,0,NE,
+11,1838,4,00:15,"(:15) S.Gostkowski 28 yard field goal is GOOD, Center-J.Cardona, Holder-R.Allen.",4,2,48,LA 10,1,NE,FG
+11,1615,3,03:20,(3:20) C.Fleming reported in as eligible.  L.Blount right tackle to LA 34 for no gain (C.Littleton). measurement,1,2,24,LA 34,0,NE,
+11,1594,2,03:51,(3:51) (Shotgun) D.Lewis right guard to LA 34 for 9 yards (A.Ogletree; T.McDonald).,10,2,24,LA 43,0,NE,
+11,1749,0,01:21,Timeout #1 by NE at 01:21.,0,2,42,,0,,TIMEOUT
+11,1522,2,05:02,(5:02) (Shotgun) T.Brady pass short left to J.Edelman to NE 49 for 9 yards (M.Jordan).,12,2,7,NE 40,0,NE,
+11,1690,0,02:00,Two-Minute Warning,0,2,35,,0,,
+11,1572,1,03:59,(3:59) T.Brady pass incomplete deep right to J.Edelman.,10,2,15,LA 43,0,NE,
+11,1665,1,02:08,"(2:08) C.Fleming reported in as eligible.  PENALTY on LA-M.Brockers, Neutral Zone Infraction, 5 yards, enforced at LA 28 - No Play.",10,2,35,LA 28,0,NE,PENALTY
+11,1707,1,02:00,(2:00) (Shotgun) J.White right guard to LA 19 for 4 yards (L.Joyner).,5,2,39,LA 23,0,NE,
+11,1766,1,01:21,(1:21) (Shotgun) T.Brady pass short left to M.Mitchell to LA 19 for -3 yards (M.Jordan).,10,2,39,LA 16,0,NE,
+10,1428,2,06:16,(6:16) T.Gurley left end pushed ob at LA 14 for 5 yards (E.Rowe).,10,2,5,LA 9,0,LA,
+10,1471,4,05:39,"(5:39) J.Hekker punts 43 yards to NE 43, Center-J.McQuaide. D.Amendola to NE 42 for -1 yards (C.Reynolds).",5,2,5,LA 14,0,LA,PUNT
+10,1406,1,06:20,(6:20) J.Goff pass incomplete short left to T.Gurley [L.Ryan].,10,2,0,LA 9,0,LA,
+10,1449,3,05:45,(5:45) (Shotgun) J.Goff pass incomplete short left to K.Britt (D.McCourty).,5,2,5,LA 14,0,LA,
+13,1984,2,14:48,"(14:48) (Shotgun) J.Goff pass incomplete short middle to P.Cooper (J.Sheard). Penalty on LA-T.Gurley, Chop Block, declined.",15,3,6,LA 18,0,LA,
+13,2043,4,14:14,"(14:14) J.Hekker punts 55 yards to NE 16, Center-J.McQuaide. D.Amendola to NE 16 for no gain (M.Thomas).",4,3,6,LA 29,0,LA,PUNT
+13,1962,1,14:56,(14:56) (Shotgun) J.Goff pass incomplete short left to K.Britt (D.McCourty) [C.Long].,15,3,-5,LA 18,0,LA,
+13,2019,3,14:44,(14:44) (Shotgun) J.Goff pass short middle to L.Kendricks to LA 29 for 11 yards (K.Van Noy; S.McClellin).,15,3,6,LA 18,0,LA,
+13,1939,1,14:57,"(14:57) (Shotgun) PENALTY on LA-K.Britt, False Start, 5 yards, enforced at LA 23 - No Play.",10,3,-5,LA 23,0,LA,PENALTY
+13,1916,0,15:00,S.Gostkowski kicks 66 yards from NE 35 to LA -1. B.Cunningham to LA 23 for 24 yards (K.Van Noy).,0,3,0,NE 35,0,NE,KICKOFF
+12,1879,1,00:06,(:06) J.Goff kneels to LA 24 for -1 yards. NE 25 yards allowed in 1st half new franchise record for fewest yards allowed in a half.,10,2,-1,LA 25,0,LA,
+12,1900,0,,END QUARTER 2,0,2,-1,,0,,
+12,1857,0,00:11,S.Gostkowski kicks 65 yards from NE 35 to LA 0. B.Cunningham to LA 25 for 25 yards (N.Ebner).,0,2,0,NE 35,0,NE,KICKOFF
+15,2428,3,08:43,(8:43) (Shotgun) J.Goff pass short right to B.Quick to NE 26 for 6 yards (E.Rowe) [C.Long].,9,3,29,NE 32,0,LA,
+15,2344,1,10:25,(10:25) Direct snap to T.Gurley.  T.Gurley up the middle to NE 30 for 3 yards (K.Van Noy; P.Chung).,10,3,25,NE 33,0,LA,
+15,2270,2,10:49,"(10:49) (Shotgun) J.Goff pass incomplete deep right to B.Quick. Los Angeles challenged the incomplete pass ruling, and the play was REVERSED. (Shotgun) J.Goff pass deep right to B.Quick pushed ob at NE 33 for 17 yards (L.Ryan).",17,3,22,50,0,LA,
+15,2229,2,12:11,(12:11) T.Gurley left guard to NE 43 for 3 yards (M.Brown; S.McClellin).,1,3,5,NE 46,0,LA,
+15,2208,1,12:45,(12:45) T.Gurley left guard to NE 46 for 9 yards (P.Chung; S.McClellin).,10,3,9,LA 45,0,LA,
+15,2452,4,07:56,"(7:56) G.Zuerlein 44 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",3,3,29,NE 26,1,LA,FG
+15,2403,2,09:19,(9:19) (Shotgun) J.Goff pass short right to P.Cooper to NE 32 for 8 yards (J.Sheard).,17,3,23,NE 40,0,LA,
+15,2368,2,09:48,"(9:48) (Shotgun) J.Goff pass short left to B.Quick to NE 20 for 10 yards (L.Ryan). PENALTY on LA-G.Robinson, Offensive Holding, 10 yards, enforced at NE 30 - No Play.",7,3,15,NE 30,0,LA,PENALTY
+15,2250,1,11:40,(11:40) (Shotgun) J.Goff sacked at 50 for -7 yards (R.Ninkovich).,10,3,5,NE 43,0,LA,
+14,2172,4,12:56,"(12:56) R.Allen punts 45 yards to LA 39, Center-J.Cardona. P.Cooper to LA 45 for 6 yards (J.Cardona).",10,3,0,NE 16,0,NE,PUNT
+14,2069,1,14:03,"(14:03) (Shotgun) T.Brady pass short right to J.White pushed ob at NE 25 for 9 yards (L.Joyner). PENALTY on NE, Illegal Shift, 5 yards, enforced at NE 16 - No Play.",10,3,-5,NE 16,0,NE,PENALTY
+14,2128,2,13:03,(13:03) (Shotgun) T.Brady pass incomplete short left to D.Lewis.,10,3,0,NE 16,0,NE,
+14,2150,3,13:00,(13:00) (Shotgun) T.Brady pass incomplete short middle to J.Edelman.,10,3,0,NE 16,0,NE,
+14,2104,1,13:40,(13:40) (Shotgun) T.Brady pass short left to D.Amendola to NE 16 for 5 yards (T.McDonald).,15,3,0,NE 11,0,NE,
+17,2639,0,05:08,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",0,3,0,NE 35,0,NE,KICKOFF
+17,2655,1,05:08,(5:08) J.Goff pass short middle intended for T.Higbee INTERCEPTED by K.Van Noy (J.Sheard) [J.Sheard] at LA 40. K.Van Noy to LA 40 for no gain (T.Higbee).,10,3,0,LA 25,0,LA,INT
+16,2552,1,06:31,(6:31) (Shotgun) T.Brady pass short left to C.Hogan to LA 31 for 1 yard (L.Joyner).,10,3,48,LA 32,0,NE,
+16,2526,1,07:07,(7:07) (Shotgun) T.Brady pass short middle to J.Edelman to LA 32 for 15 yards (A.Ogletree).,10,3,47,LA 47,0,NE,
+16,2471,0,07:50,G.Zuerlein kicks 54 yards from LA 35 to NE 11. J.White to NE 21 for 10 yards (C.Reynolds).,0,3,0,LA 35,0,LA,KICKOFF
+16,2598,3,05:18,(5:18) (Shotgun) T.Brady pass incomplete short middle to D.Amendola.,8,3,49,LA 30,0,NE,
+16,2577,2,05:55,(5:55) L.Blount right end to LA 30 for 1 yard (M.Brockers).,9,3,49,LA 31,0,NE,
+16,2495,1,07:46,(7:46) (Shotgun) C.Fleming reported in as eligible.  T.Brady pass deep right to J.Edelman to LA 47 for 32 yards (M.Alexander) [E.Westbrooks].,10,3,32,NE 21,0,NE,
+16,2620,4,05:13,"(5:13) S.Gostkowski 48 yard field goal is GOOD, Center-J.Cardona, Holder-R.Allen.",8,3,49,LA 30,1,NE,FG
+19,2816,0,03:06,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",0,3,0,NE 35,0,NE,KICKOFF
+19,2899,2,01:34,"(1:34) (Shotgun) J.Goff pass short middle to B.Marquez to LA 39 for 4 yards (K.Van Noy). PENALTY on LA-J.Brown, Offensive Holding, 10 yards, enforced at LA 35 - No Play.",10,3,0,LA 35,0,LA,PENALTY
+19,2934,2,01:11,(1:11) (Shotgun) J.Goff pass short right to T.Gurley to LA 32 for 7 yards (K.Van Noy; J.Sheard).,20,3,7,LA 25,0,LA,
+19,2832,1,03:06,(3:06) T.Gurley right end to LA 25 for no gain (V.Valentine).,10,3,0,LA 25,0,LA,
+19,2959,3,00:30,(:30) (Shotgun) J.Goff pass incomplete short left to B.Quick.,13,3,7,LA 32,0,LA,
+19,2981,4,00:23,"(:23) J.Hekker punts 51 yards to NE 17, Center-J.McQuaide. D.Amendola to NE 16 for -1 yards (M.Thomas). NE-D.Amendola was injured during the play.",13,3,7,LA 32,0,LA,PUNT
+19,2877,1,01:43,(1:43) (Shotgun) J.Goff pass incomplete short left to B.Quick.,10,3,10,LA 35,0,LA,
+19,2853,2,02:29,(2:29) (Shotgun) J.Goff pass short right to B.Quick to LA 35 for 10 yards (K.Van Noy; J.Sheard).,10,3,10,LA 25,0,LA,
+18,2773,3,03:49,(3:49) (Shotgun) T.Brady pass short left to J.White to LA 27 for 3 yards (M.Barron).,11,3,13,LA 30,0,NE,
+18,2703,2,04:56,(4:56) (Shotgun) T.Brady pass short left to M.Mitchell pushed ob at LA 29 for 11 yards (A.Ogletree).,10,3,10,LA 40,0,NE,
+18,2681,1,05:02,(5:02) (Shotgun) T.Brady pass incomplete deep left to J.Edelman.,10,3,0,LA 40,0,NE,
+18,2752,2,04:28,(4:28) L.Blount left guard to LA 30 for -1 yards (M.Jordan; M.Longacre).,10,3,10,LA 29,0,NE,
+18,2728,1,04:33,(4:33) T.Brady pass incomplete short left to M.Mitchell.,10,3,11,LA 29,0,NE,
+18,2797,4,03:12,"(3:12) S.Gostkowski 45 yard field goal is GOOD, Center-J.Cardona, Holder-R.Allen.",8,3,13,LA 27,1,NE,FG

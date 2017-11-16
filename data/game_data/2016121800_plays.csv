@@ -1,188 +1,188 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1102,0,14:38,,0,2,8,BAL 2,1,PHI,2PR
-9,1081,1,14:44,,4,2,8,BAL 4,1,PHI,TD
-9,1058,1,14:44,,8,2,4,BAL 8,0,PHI,PENALTY
-24,4174,0,00:04,,0,4,-1,PHI 35,0,PHI,KICKOFF
-24,4217,0,00:00,,0,4,-1,,0,,
-24,4196,1,00:04,,10,4,-1,PHI 47,0,BAL,
-10,1294,2,10:14,,12,2,39,PHI 36,0,BAL,
-10,1207,1,12:37,,10,2,23,BAL 44,0,BAL,
-10,1273,1,10:48,,10,2,39,PHI 34,0,BAL,
-10,1138,1,14:32,,10,2,8,BAL 25,0,BAL,
-10,1316,3,10:09,,12,2,47,PHI 36,0,BAL,
-10,1228,2,12:07,,6,2,25,BAL 48,0,BAL,
-10,1183,3,13:13,,5,2,19,BAL 30,0,BAL,
-10,1340,4,09:27,,4,2,47,PHI 28,1,BAL,FG
-10,1116,0,14:38,,0,2,0,PHI 35,0,PHI,KICKOFF
-10,1249,3,11:25,,4,2,41,BAL 50,0,BAL,
-10,1159,2,13:55,,2,2,5,BAL 33,0,BAL,
-20,3437,1,06:21,,10,4,56,PHI 11,0,BAL,INT
-20,3353,1,07:43,,10,4,2,BAL 33,0,BAL,
-20,3374,2,07:02,,8,4,2,BAL 35,0,BAL,
-20,3396,3,06:59,,8,4,56,BAL 35,0,BAL,
-20,3420,0,06:21,,0,4,56,,0,,TIMEOUT
-6,749,1,02:45,,10,1,49,PHI 39,0,BAL,
-6,652,0,04:42,,0,1,0,PHI 35,0,PHI,KICKOFF
-6,719,1,03:17,,10,1,49,BAL 22,0,BAL,
-6,771,2,02:38,,10,1,53,PHI 39,0,BAL,
-6,814,4,02:00,,6,1,53,PHI 35,1,BAL,FG
-6,674,1,04:38,,10,1,4,BAL 12,0,BAL,
-6,695,2,04:01,,6,1,10,BAL 16,0,BAL,
-6,792,3,02:05,,6,1,53,PHI 35,0,BAL,
-18,3148,0,11:06,,0,4,69,PHI 15,1,BAL,XP
-18,3071,1,12:23,,10,4,33,PHI 47,0,BAL,
-18,2926,0,14:48,,0,4,0,PHI 35,0,PHI,KICKOFF
-18,3015,1,13:20,,10,4,12,BAL 41,0,BAL,PENALTY
-18,2991,3,13:57,,6,4,10,BAL 35,0,BAL,
-18,3099,1,11:40,,10,4,53,PHI 36,0,BAL,PENALTY
-18,2948,1,14:42,,10,4,0,BAL 31,0,BAL,
-18,2970,2,14:38,,10,4,4,BAL 31,0,BAL,
-18,3047,1,12:57,,8,4,69,BAL 43,0,BAL,
-18,3131,1,11:14,,10,4,69,PHI 16,1,BAL,TD
-1,97,3,13:38,,8,1,2,PHI 27,0,PHI,INT
-1,76,2,14:21,,10,1,2,PHI 25,0,PHI,
-1,55,1,15:00,,10,1,0,PHI 25,0,PHI,
-1,36,0,15:00,,0,1,0,BAL 35,0,BAL,KICKOFF
-5,611,3,04:52,,6,1,16,BAL 27,0,PHI,
-5,633,4,04:47,,6,1,16,BAL 27,1,PHI,FG
-5,524,1,07:29,,10,1,5,BAL 43,0,PHI,
-5,587,2,05:34,,10,1,16,BAL 31,0,PHI,
-5,566,1,06:14,,10,1,12,BAL 31,0,PHI,
-5,545,2,06:56,,5,1,12,BAL 38,0,PHI,
-13,2101,0,00:09,,0,2,0,BAL 35,0,BAL,KICKOFF
-13,2144,0,,,0,2,-1,,0,,
-13,2123,1,00:09,,10,2,-1,PHI 25,0,PHI,
-21,3463,1,06:12,,10,4,11,PHI 40,0,PHI,
-21,3577,1,03:52,,10,4,44,BAL 19,0,PHI,
-21,3644,2,03:00,,7,4,49,BAL 7,0,PHI,
-21,3484,1,05:46,,10,4,29,BAL 49,0,PHI,
-21,3598,2,03:30,,7,4,53,BAL 16,0,PHI,
-21,3505,1,05:08,,10,4,30,BAL 31,0,PHI,
-21,3622,1,03:04,,7,4,53,BAL 7,0,PHI,
-21,3665,3,02:30,,11,4,49,BAL 11,0,PHI,
-21,3529,2,04:47,,9,4,36,BAL 30,0,PHI,
-21,3553,3,04:21,,3,4,41,BAL 24,0,PHI,
-21,3687,4,02:26,,11,4,49,BAL 11,1,PHI,FG
-23,3953,2,00:42,,10,4,18,BAL 46,0,PHI,PENALTY
-23,3861,1,01:39,,10,4,8,PHI 41,0,PHI,
-23,4008,2,00:33,,10,4,42,BAL 41,0,PHI,
-23,3907,3,00:49,,2,4,59,PHI 49,0,PHI,
-23,4032,1,00:26,,10,4,42,BAL 17,0,PHI,
-23,4109,2,00:12,,4,4,59,BAL 4,1,PHI,TD
-23,4054,2,00:22,,10,4,55,BAL 17,0,PHI,PENALTY
-23,3885,2,01:15,,2,4,13,PHI 49,0,PHI,
-23,3986,1,00:33,,10,4,18,BAL 41,0,PHI,
-23,4145,0,00:04,,0,4,59,BAL 2,0,PHI,2PPF
-23,3931,1,00:43,,10,4,59,BAL 46,0,PHI,
-23,4131,0,00:04,,0,4,0,,0,,TIMEOUT
-23,4087,1,00:17,,4,4,55,BAL 4,0,PHI,
-11,1441,1,07:20,,10,2,22,PHI 45,0,PHI,
-11,1532,2,05:41,,6,2,41,BAL 39,0,PHI,
-11,1816,4,01:43,,15,2,59,BAL 16,1,PHI,FG
-11,1484,3,06:53,,8,2,32,PHI 47,0,PHI,
-11,1677,3,02:45,,4,2,64,BAL 17,0,PHI,
-11,1462,2,06:57,,8,2,22,PHI 47,0,PHI,
-11,1420,1,08:02,,10,2,20,PHI 35,0,PHI,
-11,1794,3,01:49,,15,2,59,BAL 16,0,PHI,
-11,1652,2,03:19,,17,2,58,BAL 30,0,PHI,FUMBLE
-11,1777,0,01:49,,0,2,59,,0,,TIMEOUT
-11,1715,1,02:03,,10,2,60,BAL 11,0,PHI,
-11,1620,2,03:45,,7,2,45,BAL 20,0,PHI,PENALTY
-11,1359,0,09:21,,0,2,0,BAL 35,0,BAL,KICKOFF
-11,1753,2,01:57,,14,2,59,BAL 15,0,PHI,
-11,1511,1,06:17,,10,2,36,BAL 43,0,PHI,
-11,1698,0,02:03,,0,2,64,,0,,TIMEOUT
-11,1399,2,08:42,,2,2,10,PHI 33,0,PHI,
-11,1378,1,09:21,,10,2,8,PHI 25,0,PHI,
-11,1553,3,04:58,,1,2,41,BAL 34,0,PHI,
-11,1599,1,04:20,,10,2,55,BAL 23,0,PHI,
-11,1575,4,04:54,,1,2,45,BAL 34,0,PHI,
-11,1736,0,01:57,,0,2,60,,0,,
-14,2160,0,15:00,,0,3,0,PHI 35,0,PHI,KICKOFF
-14,2196,1,14:20,,10,3,44,PHI 34,0,BAL,
-14,2257,4,12:32,,15,3,36,PHI 39,0,BAL,PUNT
-14,2175,1,15:00,,10,3,41,BAL 25,0,BAL,
-14,2238,3,13:05,,10,3,36,PHI 34,0,BAL,
-14,2217,2,13:44,,7,3,41,PHI 31,0,BAL,
-8,1007,2,15:00,,7,2,3,BAL 13,0,BAL,
-8,970,1,00:14,,10,1,3,BAL 10,0,BAL,
-8,1029,3,14:55,,7,2,-2,BAL 13,0,BAL,FUMBLE
-8,991,0,,,0,1,3,,0,,
-19,3200,2,10:27,,7,4,14,PHI 28,0,PHI,
-19,3164,0,11:06,,0,4,0,BAL 35,0,BAL,KICKOFF
-19,3269,2,08:32,,9,4,34,BAL 41,0,PHI,
-19,3245,1,09:12,,10,4,34,BAL 42,0,PHI,
-19,3179,1,11:06,,10,4,3,PHI 25,0,PHI,
-19,3291,3,08:27,,9,4,41,BAL 41,0,PHI,
-19,3325,4,07:49,,2,4,42,BAL 34,0,PHI,
-19,3224,1,09:54,,10,4,33,PHI 39,0,PHI,
-22,3728,1,02:18,,10,4,-2,BAL 12,0,BAL,
-22,3825,0,01:50,,0,4,0,,0,,TIMEOUT
-22,3766,2,02:00,,12,4,-1,BAL 10,0,BAL,
-22,3749,0,02:00,,0,4,-2,,0,,
-22,3804,3,01:54,,11,4,0,BAL 11,0,BAL,
-22,3842,4,01:50,,10,4,0,BAL 12,0,BAL,PUNT
-22,3706,0,02:22,,0,4,0,PHI 35,0,PHI,KICKOFF
-22,3787,0,01:54,,0,4,-1,,0,,TIMEOUT
-12,1969,2,00:55,,10,2,21,BAL 46,0,BAL,
-12,1997,1,00:36,,10,2,21,PHI 44,0,BAL,
-12,2065,2,00:16,,10,2,65,PHI 34,1,BAL,TD
-12,1868,1,01:27,,10,2,6,BAL 35,0,BAL,
-12,2085,0,00:09,,0,2,65,PHI 15,1,BAL,XP
-12,2019,2,00:31,,10,2,31,PHI 44,0,BAL,
-12,1890,2,01:23,,10,2,6,BAL 35,0,BAL,
-12,2110,0,00:55,,0,2,65,,0,,TIMEOUT
-12,1947,1,01:01,,10,2,11,BAL 46,0,BAL,
-12,1914,3,01:05,,4,2,11,BAL 41,0,BAL,PENALTY
-12,2043,1,00:18,,10,2,65,PHI 34,0,BAL,
-12,1835,0,01:39,,0,2,0,PHI 35,0,PHI,FUMBLE
-16,2534,2,07:42,,8,3,-2,BAL 41,0,BAL,
-16,2501,1,08:01,,10,3,2,BAL 39,0,BAL,
-16,2577,4,07:00,,12,3,-2,BAL 37,0,BAL,PUNT
-16,2555,3,07:06,,12,3,-2,BAL 37,0,BAL,
-7,837,0,01:55,,0,1,0,BAL 35,0,BAL,KICKOFF
-7,882,2,01:12,,12,1,-3,PHI 30,0,PHI,FUMBLE
-7,859,1,01:49,,10,1,-2,PHI 32,0,PHI,
-7,941,4,00:17,,13,1,-3,PHI 29,0,PHI,PUNT
-7,908,3,00:29,,13,1,-3,PHI 29,0,PHI,
-3,280,1,11:31,,10,1,1,PHI 37,0,PHI,
-3,396,3,09:31,,10,1,8,BAL 44,0,PHI,FUMBLE
-3,304,2,10:55,,9,1,4,PHI 38,0,PHI,
-3,258,0,11:38,,0,1,0,BAL 35,0,BAL,KICKOFF
-3,418,4,09:07,,21,1,8,PHI 45,0,PHI,PUNT
-3,328,3,10:13,,6,1,19,PHI 41,0,PHI,
-3,352,1,09:40,,10,1,19,BAL 44,0,PHI,
-3,374,2,09:35,,10,1,19,BAL 44,0,PHI,
-17,2617,2,06:04,,10,3,7,PHI 12,0,PHI,
-17,2683,1,03:58,,10,3,53,PHI 41,0,PHI,
-17,2852,1,00:40,,10,3,79,BAL 12,0,PHI,
-17,2749,3,01:54,,3,3,76,BAL 28,0,PHI,
-17,2707,1,03:17,,10,3,57,BAL 35,0,PHI,
-17,2885,3,14:56,,7,4,79,BAL 9,0,PHI,
-17,2596,1,06:47,,10,3,0,PHI 12,0,PHI,
-17,2774,1,01:14,,10,3,76,BAL 24,0,PHI,
-17,2907,4,14:51,,7,4,79,BAL 9,1,PHI,FG
-17,2662,1,04:41,,10,3,29,PHI 31,0,PHI,
-17,2728,2,02:38,,6,3,60,BAL 31,0,PHI,
-17,2816,2,15:00,,7,4,79,BAL 9,0,PHI,
-17,2641,3,05:20,,3,3,19,PHI 19,0,PHI,
-17,2795,0,,,0,3,79,,0,,
-4,499,4,07:42,,17,1,-7,BAL 5,0,BAL,PUNT
-4,477,3,07:47,,17,1,-7,BAL 5,0,BAL,
-4,456,2,08:22,,17,1,-7,BAL 5,0,BAL,
-4,437,1,09:03,,10,1,-7,BAL 12,0,BAL,
-2,134,1,13:32,,10,1,1,PHI 36,0,BAL,
-2,155,2,13:01,,9,1,18,PHI 35,0,BAL,
-2,222,1,11:41,,5,1,36,PHI 5,1,BAL,TD
-2,242,0,11:38,,0,1,36,PHI 15,1,BAL,XP
-2,179,1,12:20,,10,1,18,PHI 18,0,BAL,
-2,201,2,12:16,,10,1,31,PHI 18,0,BAL,
-15,2457,3,08:12,,3,3,41,BAL 39,0,PHI,
-15,2295,2,11:45,,6,3,9,PHI 24,0,PHI,
-15,2479,4,08:05,,3,3,41,BAL 39,0,PHI,
-15,2343,1,10:18,,10,3,41,PHI 34,0,PHI,PENALTY
-15,2411,1,10:00,,10,3,32,BAL 46,0,PHI,
-15,2375,1,10:08,,10,3,34,PHI 39,0,PHI,PENALTY
-15,2433,2,08:52,,12,3,41,BAL 48,0,PHI,
-15,2274,1,12:24,,10,3,4,PHI 20,0,PHI,
-15,2319,3,11:01,,1,3,14,PHI 29,0,PHI,
+24,4174,0,00:04,C.Sturgis kicks onside 12 yards from PHI 35 to PHI 47. A.Levine (didn't try to advance) to PHI 47 for no gain (B.Celek).,0,4,-1,PHI 35,0,PHI,KICKOFF
+24,4196,1,00:04,(:04) J.Flacco kneels to PHI 48 for -1 yards.,10,4,-1,PHI 47,0,BAL,
+24,4217,0,00:00,END GAME,0,4,-1,,0,,
+20,3420,0,06:21,Timeout #1 by BAL at 06:21.,0,4,56,,0,,TIMEOUT
+20,3374,2,07:02,(7:02) J.Flacco pass incomplete short right to S.Smith.,8,4,2,BAL 35,0,BAL,
+20,3437,1,06:21,(6:21) J.Flacco pass short left intended for D.Waller INTERCEPTED by J.Hicks at PHI 6. J.Hicks to PHI 40 for 34 yards (J.Flacco).,10,4,56,PHI 11,0,BAL,INT
+20,3353,1,07:43,(7:43) T.West right guard to BAL 35 for 2 yards (J.Mills).,10,4,2,BAL 33,0,BAL,
+20,3396,3,06:59,(6:59) (Shotgun) J.Flacco pass short middle to M.Wallace to PHI 11 for 54 yards (R.McLeod).,8,4,56,BAL 35,0,BAL,
+21,3665,3,02:30,"(2:30) (No Huddle, Shotgun) C.Wentz pass incomplete short right to D.Green-Beckham (T.Young).",11,4,49,BAL 11,0,PHI,
+21,3622,1,03:04,"(3:04) (No Huddle, Shotgun) C.Wentz pass incomplete short right to Z.Ertz.",7,4,53,BAL 7,0,PHI,
+21,3553,3,04:21,"(4:21) (No Huddle, Shotgun) C.Wentz pass short middle to Z.Ertz to BAL 19 for 5 yards (C.Mosley).",3,4,41,BAL 24,0,PHI,
+21,3577,1,03:52,"(3:52) (No Huddle, Shotgun) B.Marshall left tackle to BAL 16 for 3 yards (C.Mosley).",10,4,44,BAL 19,0,PHI,
+21,3598,2,03:30,"(3:30) (No Huddle, Shotgun) C.Wentz pass short middle to Z.Ertz to BAL 7 for 9 yards (C.Mosley; L.Webb).",7,4,53,BAL 16,0,PHI,
+21,3687,4,02:26,"(2:26) (Field Goal formation) C.Sturgis 29 yard field goal is GOOD, Center-R.Lovato, Holder-D.Jones.",11,4,49,BAL 11,1,PHI,FG
+21,3484,1,05:46,"(5:46) (No Huddle, Shotgun) R.Mathews left tackle to BAL 31 for 18 yards (E.Weddle; Z.Orr).",10,4,29,BAL 49,0,PHI,
+21,3505,1,05:08,"(5:08) (No Huddle, Shotgun) C.Wentz pass short right to J.Matthews to BAL 30 for 1 yard (J.Powers).",10,4,30,BAL 31,0,PHI,
+21,3463,1,06:12,(6:12) R.Mathews up the middle to BAL 49 for 11 yards (C.Mosley).,10,4,11,PHI 40,0,PHI,
+21,3644,2,03:00,(3:00) B.Marshall left guard to BAL 11 for -4 yards (T.Suggs).,7,4,49,BAL 7,0,PHI,
+21,3529,2,04:47,"(4:47) (No Huddle, Shotgun) C.Wentz pass short middle to J.Matthews to BAL 24 for 6 yards (C.Mosley).",9,4,36,BAL 30,0,PHI,
+22,3825,0,01:50,Timeout #2 by BAL at 01:50.,0,4,0,,0,,TIMEOUT
+22,3787,0,01:54,Timeout #1 by PHI at 01:54.,0,4,-1,,0,,TIMEOUT
+22,3766,2,02:00,(2:00) T.West right guard to BAL 11 for 1 yard (B.Logan; B.Graham).,12,4,-1,BAL 10,0,BAL,
+22,3749,0,02:00,Two-Minute Warning,0,4,-2,,0,,
+22,3804,3,01:54,(1:54) (Shotgun) K.Dixon up the middle to BAL 12 for 1 yard (F.Cox; B.Graham).,11,4,0,BAL 11,0,BAL,
+22,3842,4,01:50,"(1:50) (Punt formation) S.Koch punts 47 yards to PHI 41, Center-M.Cox, downed by BAL-D.Waller.",10,4,0,BAL 12,0,BAL,PUNT
+22,3728,1,02:18,(2:18) T.West right guard to BAL 10 for -2 yards (B.Logan).,10,4,-2,BAL 12,0,BAL,
+22,3706,0,02:22,C.Sturgis kicks 61 yards from PHI 35 to BAL 4. L.Webb to BAL 12 for 8 yards (K.Grugier-Hill).,0,4,0,PHI 35,0,PHI,KICKOFF
+23,3885,2,01:15,"(1:15) (No Huddle, Shotgun) C.Wentz pass incomplete short left to N.Agholor.",2,4,13,PHI 49,0,PHI,
+23,4008,2,00:33,(:33) (Shotgun) C.Wentz pass deep right to Z.Ertz ran ob at BAL 17 for 24 yards.,10,4,42,BAL 41,0,PHI,
+23,3907,3,00:49,(:49) (Shotgun) C.Wentz pass short middle to J.Matthews to BAL 46 for 5 yards (J.Powers).,2,4,59,PHI 49,0,PHI,
+23,4054,2,00:22,"(:22) (Shotgun) C.Wentz pass incomplete short right to N.Agholor. PENALTY on BAL-T.Young, Defensive Pass Interference, 13 yards, enforced at BAL 17 - No Play.",10,4,55,BAL 17,0,PHI,PENALTY
+23,3953,2,00:42,"(:42) (Shotgun) C.Wentz pass incomplete short right to D.Green-Beckham. PENALTY on BAL-C.Mosley, Illegal Contact, 5 yards, enforced at BAL 46 - No Play.",10,4,18,BAL 46,0,PHI,PENALTY
+23,4131,0,00:04,Timeout #2 by PHI at 00:04.,0,4,0,,0,,TIMEOUT
+23,3861,1,01:39,(1:39) (Shotgun) C.Wentz pass short middle to J.Matthews to PHI 49 for 8 yards (C.Mosley; E.Dumervil).,10,4,8,PHI 41,0,PHI,
+23,4087,1,00:17,(:17) (Shotgun) C.Wentz pass incomplete short left to J.Matthews.,4,4,55,BAL 4,0,PHI,
+23,3931,1,00:43,(:43) (Shotgun) C.Wentz pass incomplete short right to D.Green-Beckham.,10,4,59,BAL 46,0,PHI,
+23,4145,0,00:04,TWO-POINT CONVERSION ATTEMPT. C.Wentz pass to J.Matthews is incomplete. ATTEMPT FAILS.,0,4,59,BAL 2,0,PHI,2PPF
+23,4032,1,00:26,"(:26) (No Huddle, Shotgun) C.Wentz pass incomplete deep middle to Z.Ertz.",10,4,42,BAL 17,0,PHI,
+23,4109,2,00:12,"(:12) (Shotgun) C.Wentz scrambles left end for 4 yards, TOUCHDOWN.",4,4,59,BAL 4,1,PHI,TD
+23,3986,1,00:33,(:33) (Shotgun) C.Wentz pass incomplete short middle to N.Agholor (S.Wright).,10,4,18,BAL 41,0,PHI,
+1,55,1,15:00,(15:00) R.Mathews right guard to PHI 25 for no gain (L.Guy).,10,1,0,PHI 25,0,PHI,
+1,76,2,14:21,(14:21) (Shotgun) K.Barner right tackle to PHI 27 for 2 yards (E.Dumervil).,10,1,2,PHI 25,0,PHI,
+1,36,0,15:00,"J.Tucker kicks 65 yards from BAL 35 to end zone, Touchback.",0,1,0,BAL 35,0,BAL,KICKOFF
+1,97,3,13:38,"(13:38) (Shotgun) C.Wentz pass short middle intended for T.Burton INTERCEPTED by Z.Orr at PHI 37. Z.Orr to PHI 36 for 1 yard (T.Burton). Penalty on PHI-J.Peters, Offensive Holding, declined.",8,1,2,PHI 27,0,PHI,INT
+3,304,2,10:55,(10:55) (Shotgun) C.Wentz pass short right to J.Matthews to PHI 41 for 3 yards (L.Webb).,9,1,4,PHI 38,0,PHI,
+3,258,0,11:38,J.Tucker kicks 55 yards from BAL 35 to PHI 10. N.Agholor to PHI 37 for 27 yards (M.Elam).,0,1,0,BAL 35,0,BAL,KICKOFF
+3,352,1,09:40,(9:40) (Shotgun) C.Wentz pass incomplete short left to K.Barner.,10,1,19,BAL 44,0,PHI,
+3,280,1,11:31,(11:31) (Shotgun) C.Wentz pass short left to T.Burton to PHI 38 for 1 yard (S.Wright).,10,1,1,PHI 37,0,PHI,
+3,328,3,10:13,(10:13) (Shotgun) C.Wentz pass short left to K.Barner pushed ob at BAL 44 for 15 yards (J.Powers).,6,1,19,PHI 41,0,PHI,
+3,418,4,09:07,"(9:07) (Punt formation) D.Jones punts 43 yards to BAL 12, Center-R.Lovato, fair catch by M.Campanaro.",21,1,8,PHI 45,0,PHI,PUNT
+3,374,2,09:35,(9:35) (Shotgun) C.Wentz pass incomplete short left to J.Matthews.,10,1,19,BAL 44,0,PHI,
+3,396,3,09:31,"(9:31) (Shotgun) C.Wentz sacked at PHI 45 for -11 yards (E.Dumervil). FUMBLES (E.Dumervil) [E.Dumervil], ball out of bounds at PHI 45.",10,1,8,BAL 44,0,PHI,FUMBLE
+2,201,2,12:16,(12:16) (Shotgun) T.West right guard to PHI 5 for 13 yards (R.McLeod).,10,1,31,PHI 18,0,BAL,
+2,155,2,13:01,(13:01) J.Flacco pass short right to T.West to PHI 18 for 17 yards (J.Hicks).,9,1,18,PHI 35,0,BAL,
+2,134,1,13:32,(13:32) T.West up the middle to PHI 35 for 1 yard (B.Logan).,10,1,1,PHI 36,0,BAL,
+2,179,1,12:20,(12:20) (Shotgun) J.Flacco pass incomplete short right to S.Smith.,10,1,18,PHI 18,0,BAL,
+2,242,0,11:38,"J.Tucker extra point is GOOD, Center-M.Cox, Holder-S.Koch.",0,1,36,PHI 15,1,BAL,XP
+2,222,1,11:41,"(11:41) (Shotgun) J.Flacco pass short right to K.Aiken for 5 yards, TOUCHDOWN.",5,1,36,PHI 5,1,BAL,TD
+5,587,2,05:34,(5:34) (Shotgun) C.Wentz pass short left to J.Matthews pushed ob at BAL 27 for 4 yards (J.Powers; T.Suggs).,10,1,16,BAL 31,0,PHI,
+5,633,4,04:47,"(4:47) (Field Goal formation) C.Sturgis 45 yard field goal is GOOD, Center-R.Lovato, Holder-D.Jones.",6,1,16,BAL 27,1,PHI,FG
+5,611,3,04:52,(4:52) (Shotgun) C.Wentz pass incomplete short left to K.Barner [T.Suggs].,6,1,16,BAL 27,0,PHI,
+5,566,1,06:14,(6:14) R.Mathews right guard to BAL 31 for no gain (E.Weddle; M.Judon).,10,1,12,BAL 31,0,PHI,
+5,524,1,07:29,(7:29) (Shotgun) C.Wentz scrambles up the middle to BAL 38 for 5 yards (C.Mosley).,10,1,5,BAL 43,0,PHI,
+5,545,2,06:56,(6:56) R.Mathews right tackle to BAL 31 for 7 yards (C.Mosley; E.Weddle).,5,1,12,BAL 38,0,PHI,
+4,437,1,09:03,(9:03) J.Flacco sacked at BAL 5 for -7 yards (sack split by B.Graham and B.Allen).,10,1,-7,BAL 12,0,BAL,
+4,477,3,07:47,(7:47) (Shotgun) J.Flacco pass incomplete deep right to M.Wallace.,17,1,-7,BAL 5,0,BAL,
+4,456,2,08:22,(8:22) K.Dixon right tackle to BAL 5 for no gain (L.McKelvin).,17,1,-7,BAL 5,0,BAL,
+4,499,4,07:42,"(7:42) (Punt formation) S.Koch punts 60 yards to PHI 35, Center-M.Cox. K.Barner to BAL 43 for 22 yards (M.Elam).",17,1,-7,BAL 5,0,BAL,PUNT
+7,882,2,01:12,"(1:12) (Shotgun) C.Wentz FUMBLES (Aborted) at PHI 25, and recovers at PHI 29. C.Wentz to PHI 29 for no gain (L.Guy).",12,1,-3,PHI 30,0,PHI,FUMBLE
+7,908,3,00:29,"(:29) (Shotgun) C.Wentz pass incomplete short right to J.Matthews [M.Judon]. Penalty on PHI, Offensive Pass Interference, declined.",13,1,-3,PHI 29,0,PHI,
+7,941,4,00:17,"(:17) (Punt formation) D.Jones punts 51 yards to BAL 20, Center-R.Lovato, out of bounds. PENALTY on BAL-S.Wright, Offensive Holding, 10 yards, enforced at BAL 20.",13,1,-3,PHI 29,0,PHI,PUNT
+7,837,0,01:55,J.Tucker kicks 59 yards from BAL 35 to PHI 6. K.Barner to PHI 32 for 26 yards (M.Huff).,0,1,0,BAL 35,0,BAL,KICKOFF
+7,859,1,01:49,(1:49) J.Andrews reported in as eligible.  R.Mathews up the middle to PHI 30 for -2 yards (T.Suggs).,10,1,-2,PHI 32,0,PHI,
+6,771,2,02:38,(2:38) (Shotgun) T.West up the middle to PHI 35 for 4 yards (J.Hicks; N.Bradham).,10,1,53,PHI 39,0,BAL,
+6,792,3,02:05,(2:05) (Shotgun) J.Flacco pass incomplete short middle to S.Smith.,6,1,53,PHI 35,0,BAL,
+6,719,1,03:17,(3:17) M.Campanaro left end ran ob at PHI 39 for 39 yards (M.Jenkins). End around play.,10,1,49,BAL 22,0,BAL,
+6,695,2,04:01,(4:01) (Shotgun) J.Flacco pass short right to M.Wallace to BAL 22 for 6 yards (J.Mills).,6,1,10,BAL 16,0,BAL,
+6,674,1,04:38,(4:38) T.West left guard to BAL 16 for 4 yards (N.Bradham).,10,1,4,BAL 12,0,BAL,
+6,749,1,02:45,(2:45) (Shotgun) J.Flacco pass incomplete deep right to S.Smith.,10,1,49,PHI 39,0,BAL,
+6,652,0,04:42,C.Sturgis kicks 70 yards from PHI 35 to BAL -5. C.Moore to BAL 12 for 17 yards (C.Maragos).,0,1,0,PHI 35,0,PHI,KICKOFF
+6,814,4,02:00,"(2:00) (Field Goal formation) J.Tucker 53 yard field goal is GOOD, Center-M.Cox, Holder-S.Koch. Tucker's 10th 50-plus yard field ties NFL record set by Blair Walsh.",6,1,53,PHI 35,1,BAL,FG
+9,1058,1,14:44,"(14:44) PENALTY on BAL-T.Suggs, Neutral Zone Infraction, 4 yards, enforced at BAL 8 - No Play.",8,2,4,BAL 8,0,PHI,PENALTY
+9,1102,0,14:38,TWO-POINT CONVERSION ATTEMPT. R.Mathews rushes up the middle. ATTEMPT SUCCEEDS.,0,2,8,BAL 2,1,PHI,2PR
+9,1081,1,14:44,"(14:44) R.Mathews right guard for 4 yards, TOUCHDOWN. BAL-Z.Orr was injured during the play.",4,2,8,BAL 4,1,PHI,TD
+8,1007,2,15:00,(15:00) (Shotgun) J.Flacco pass incomplete short left to M.Wallace (J.Mills).,7,2,3,BAL 13,0,BAL,
+8,1029,3,14:55,"(14:55) (Shotgun) J.Flacco sacked at BAL 6 for -7 yards (N.Bradham). FUMBLES (N.Bradham) [N.Bradham], RECOVERED by PHI-F.Cox at BAL 8. F.Cox to BAL 8 for no gain (M.Yanda).",7,2,-2,BAL 13,0,BAL,FUMBLE
+8,991,0,,END QUARTER 1,0,1,3,,0,,
+8,970,1,00:14,(:14) K.Dixon left guard to BAL 13 for 3 yards (B.Graham).,10,1,3,BAL 10,0,BAL,
+11,1484,3,06:53,(6:53) (Shotgun) C.Wentz pass short left to K.Barner to BAL 43 for 10 yards (E.Weddle). PHI-K.Barner was injured during the play.,8,2,32,PHI 47,0,PHI,
+11,1420,1,08:02,(8:02) R.Mathews left tackle to PHI 45 for 10 yards (A.McClellan).,10,2,20,PHI 35,0,PHI,
+11,1816,4,01:43,"(1:43) (Field Goal formation) C.Sturgis 34 yard field goal is GOOD, Center-R.Lovato, Holder-D.Jones.",15,2,59,BAL 16,1,PHI,FG
+11,1715,1,02:03,(2:03) B.Marshall right guard to BAL 15 for -4 yards (A.McClellan).,10,2,60,BAL 11,0,PHI,
+11,1736,0,01:57,Two-Minute Warning,0,2,60,,0,,
+11,1399,2,08:42,(8:42) K.Barner right guard to PHI 35 for 2 yards (M.Judon).,2,2,10,PHI 33,0,PHI,
+11,1652,2,03:19,"(3:19) R.Mathews left guard to BAL 17 for 13 yards (C.Mosley). FUMBLES (C.Mosley), ball out of bounds at BAL 17.",17,2,58,BAL 30,0,PHI,FUMBLE
+11,1378,1,09:21,(9:21) R.Mathews right tackle to PHI 33 for 8 yards (B.Williams).,10,2,8,PHI 25,0,PHI,
+11,1677,3,02:45,(2:45) R.Mathews left guard to BAL 11 for 6 yards (L.Guy).,4,2,64,BAL 17,0,PHI,
+11,1753,2,01:57,(1:57) (Shotgun) C.Wentz pass short right to B.Marshall to BAL 16 for -1 yards (T.Suggs).,14,2,59,BAL 15,0,PHI,
+11,1698,0,02:03,Timeout #1 by BAL at 02:03.,0,2,64,,0,,TIMEOUT
+11,1462,2,06:57,"(6:57) (No Huddle, Shotgun) C.Wentz pass incomplete short left to K.Barner.",8,2,22,PHI 47,0,PHI,
+11,1359,0,09:21,"J.Tucker kicks 65 yards from BAL 35 to end zone, Touchback.",0,2,0,BAL 35,0,BAL,KICKOFF
+11,1441,1,07:20,(7:20) K.Barner left guard to PHI 47 for 2 yards (B.Williams).,10,2,22,PHI 45,0,PHI,
+11,1777,0,01:49,Timeout #2 by BAL at 01:49.,0,2,59,,0,,TIMEOUT
+11,1794,3,01:49,(1:49) (Shotgun) C.Wentz pass incomplete short middle to J.Matthews [L.Guy].,15,2,59,BAL 16,0,PHI,
+11,1599,1,04:20,(4:20) B.Marshall right guard to BAL 20 for 3 yards (L.Guy; C.Mosley).,10,2,55,BAL 23,0,PHI,
+11,1553,3,04:58,(4:58) (Shotgun) C.Wentz pass incomplete short right to N.Agholor.,1,2,41,BAL 34,0,PHI,
+11,1620,2,03:45,"(3:45) B.Marshall left tackle to BAL 23 for -3 yards (M.Pierce). PENALTY on PHI-J.Kelce, Offensive Holding, 10 yards, enforced at BAL 20 - No Play.",7,2,45,BAL 20,0,PHI,PENALTY
+11,1532,2,05:41,(5:41) R.Mathews left guard to BAL 34 for 5 yards (T.Suggs; C.Mosley).,6,2,41,BAL 39,0,PHI,
+11,1511,1,06:17,(6:17) (Shotgun) R.Mathews right guard to BAL 39 for 4 yards (E.Dumervil).,10,2,36,BAL 43,0,PHI,
+11,1575,4,04:54,(4:54) C.Wentz pass short right to Z.Ertz to BAL 23 for 11 yards (A.McClellan; L.Webb) [C.Mosley].,1,2,45,BAL 34,0,PHI,
+10,1316,3,10:09,(10:09) (Shotgun) J.Flacco pass short left to K.Juszczyk to PHI 28 for 8 yards (M.Jenkins; N.Carroll).,12,2,47,PHI 36,0,BAL,
+10,1138,1,14:32,(14:32) T.West right guard to BAL 33 for 8 yards (B.Allen).,10,2,8,BAL 25,0,BAL,
+10,1159,2,13:55,(13:55) J.Flacco pass short left to K.Juszczyk to BAL 30 for -3 yards (J.Hicks).,2,2,5,BAL 33,0,BAL,
+10,1340,4,09:27,"(9:27) (Field Goal formation) J.Tucker 47 yard field goal is GOOD, Center-M.Cox, Holder-S.Koch.",4,2,47,PHI 28,1,BAL,FG
+10,1207,1,12:37,(12:37) T.West left guard to BAL 48 for 4 yards (J.Hicks).,10,2,23,BAL 44,0,BAL,
+10,1273,1,10:48,(10:48) K.Dixon left guard to PHI 36 for -2 yards (N.Bradham).,10,2,39,PHI 34,0,BAL,
+10,1183,3,13:13,(13:13) (Shotgun) J.Flacco pass short middle to K.Aiken to BAL 44 for 14 yards (R.McLeod).,5,2,19,BAL 30,0,BAL,
+10,1228,2,12:07,(12:07) T.West right guard to BAL 50 for 2 yards (B.Graham).,6,2,25,BAL 48,0,BAL,
+10,1116,0,14:38,C.Sturgis kicks 58 yards from PHI 35 to BAL 7. C.Moore to BAL 25 for 18 yards (M.Kendricks).,0,2,0,PHI 35,0,PHI,KICKOFF
+10,1249,3,11:25,(11:25) (Shotgun) J.Flacco pass short right to T.West to PHI 34 for 16 yards (L.McKelvin; R.McLeod).,4,2,41,BAL 50,0,BAL,
+10,1294,2,10:14,(10:14) J.Flacco pass incomplete short middle to K.Dixon.,12,2,39,PHI 36,0,BAL,
+13,2101,0,00:09,"J.Tucker kicks 65 yards from BAL 35 to end zone, Touchback.",0,2,0,BAL 35,0,BAL,KICKOFF
+13,2144,0,,END QUARTER 2,0,2,-1,,0,,
+13,2123,1,00:09,(:09) C.Wentz kneels to PHI 24 for -1 yards.,10,2,-1,PHI 25,0,PHI,
+12,1969,2,00:55,(:55) (Shotgun) J.Flacco pass short middle to D.Pitta to PHI 44 for 10 yards (B.Allen).,10,2,21,BAL 46,0,BAL,
+12,1997,1,00:36,"(:36) (No Huddle, Shotgun) J.Flacco pass incomplete short right to M.Wallace.",10,2,21,PHI 44,0,BAL,
+12,1835,0,01:39,"C.Sturgis kicks 64 yards from PHI 35 to BAL 1. C.Moore to BAL 35 for 34 yards (T.Burton). FUMBLES (T.Burton), recovered by BAL-M.Huff at BAL 35. M.Huff to BAL 35 for no gain (M.Smith).",0,2,0,PHI 35,0,PHI,FUMBLE
+12,1947,1,01:01,(1:01) (Shotgun) J.Flacco pass incomplete deep middle to S.Smith. BAL-S.Smith was injured during the play. His return is Probable.,10,2,11,BAL 46,0,BAL,
+12,2065,2,00:16,"(:16) (No Huddle, Shotgun) J.Flacco pass deep right to S.Smith for 34 yards, TOUCHDOWN.",10,2,65,PHI 34,1,BAL,TD
+12,2019,2,00:31,(:31) (Shotgun) J.Flacco pass short left to K.Juszczyk to PHI 34 for 10 yards (N.Bradham).,10,2,31,PHI 44,0,BAL,
+12,2110,0,00:55,Timeout #3 by BAL at 00:55.,0,2,65,,0,,TIMEOUT
+12,1868,1,01:27,(1:27) (Shotgun) J.Flacco pass incomplete short middle to B.Perriman.,10,2,6,BAL 35,0,BAL,
+12,2085,0,00:09,"J.Tucker extra point is GOOD, Center-M.Cox, Holder-S.Koch.",0,2,65,PHI 15,1,BAL,XP
+12,1890,2,01:23,"(1:23) (No Huddle, Shotgun) J.Flacco pass short right to D.Pitta to BAL 41 for 6 yards (J.Watkins).",10,2,6,BAL 35,0,BAL,
+12,1914,3,01:05,"(1:05) (No Huddle, Shotgun) J.Flacco pass incomplete short right to B.Perriman (J.Mills). PENALTY on PHI-J.Mills, Defensive Pass Interference, 5 yards, enforced at BAL 41 - No Play.",4,2,11,BAL 41,0,BAL,PENALTY
+12,2043,1,00:18,(:18) J.Flacco spiked the ball to stop the clock.,10,2,65,PHI 34,0,BAL,
+15,2274,1,12:24,(12:24) (Shotgun) R.Mathews left guard to PHI 24 for 4 yards (B.Williams).,10,3,4,PHI 20,0,PHI,
+15,2343,1,10:18,"(10:18) C.Wentz pass deep left intended for J.Matthews INTERCEPTED by E.Weddle at BAL 16. E.Weddle to BAL 16 for no gain (J.Matthews). PENALTY on BAL-Z.Orr, Illegal Contact, 5 yards, enforced at PHI 34 - No Play.",10,3,41,PHI 34,0,PHI,PENALTY
+15,2319,3,11:01,(11:01) (Shotgun) C.Wentz pass short left to R.Mathews to PHI 34 for 5 yards (A.McClellan; E.Weddle).,1,3,14,PHI 29,0,PHI,
+15,2433,2,08:52,(8:52) C.Wentz pass short right to N.Agholor to BAL 39 for 9 yards (L.Webb).,12,3,41,BAL 48,0,PHI,
+15,2457,3,08:12,(8:12) (Shotgun) C.Wentz pass incomplete short right to J.Matthews.,3,3,41,BAL 39,0,PHI,
+15,2295,2,11:45,(11:45) C.Wentz pass short right to B.Celek to PHI 29 for 5 yards (L.Webb).,6,3,9,PHI 24,0,PHI,
+15,2411,1,10:00,(10:00) B.Marshall left end to BAL 48 for -2 yards (J.Powers).,10,3,32,BAL 46,0,PHI,
+15,2479,4,08:05,(8:05) (Shotgun) C.Wentz pass incomplete short left to T.Burton.,3,3,41,BAL 39,0,PHI,
+15,2375,1,10:08,"(10:08) B.Marshall right end pushed ob at PHI 39 for no gain (L.Webb). PENALTY on BAL-Z.Orr, Unnecessary Roughness, 15 yards, enforced at PHI 39.",10,3,34,PHI 39,0,PHI,PENALTY
+14,2238,3,13:05,(13:05) (Shotgun) J.Flacco sacked at PHI 39 for -5 yards (F.Cox).,10,3,36,PHI 34,0,BAL,
+14,2217,2,13:44,(13:44) K.Dixon left guard to PHI 34 for -3 yards (B.Logan).,7,3,41,PHI 31,0,BAL,
+14,2196,1,14:20,(14:20) T.West left guard to PHI 31 for 3 yards (B.Allen; M.Kendricks).,10,3,44,PHI 34,0,BAL,
+14,2175,1,15:00,(15:00) T.West right tackle to PHI 34 for 41 yards (R.McLeod).,10,3,41,BAL 25,0,BAL,
+14,2257,4,12:32,"(12:32) (Punt formation) S.Koch punts 39 yards to end zone, Center-M.Cox, Touchback.",15,3,36,PHI 39,0,BAL,PUNT
+14,2160,0,15:00,"C.Sturgis kicks 65 yards from PHI 35 to end zone, Touchback.",0,3,0,PHI 35,0,PHI,KICKOFF
+17,2617,2,06:04,(6:04) (Shotgun) C.Wentz pass short middle to Z.Ertz to PHI 19 for 7 yards (C.Mosley).,10,3,7,PHI 12,0,PHI,
+17,2596,1,06:47,(6:47) R.Mathews left end to PHI 12 for no gain (T.Suggs).,10,3,0,PHI 12,0,PHI,
+17,2816,2,15:00,(15:00) C.Wentz pass incomplete short middle to B.Marshall.,7,4,79,BAL 9,0,PHI,
+17,2907,4,14:51,"(14:51) (Field Goal formation) C.Sturgis 27 yard field goal is GOOD, Center-R.Lovato, Holder-D.Jones.",7,4,79,BAL 9,1,PHI,FG
+17,2885,3,14:56,(14:56) (Shotgun) C.Wentz pass incomplete short middle to T.Burton.,7,4,79,BAL 9,0,PHI,
+17,2641,3,05:20,(5:20) B.Marshall right guard to PHI 31 for 12 yards (E.Weddle).,3,3,19,PHI 19,0,PHI,
+17,2707,1,03:17,"(3:17) (No Huddle, Shotgun) B.Marshall right tackle to BAL 31 for 4 yards (B.Williams).",10,3,57,BAL 35,0,PHI,
+17,2852,1,00:40,(:40) R.Mathews left guard to BAL 9 for 3 yards (M.Pierce).,10,3,79,BAL 12,0,PHI,
+17,2774,1,01:14,(1:14) R.Mathews left guard to BAL 12 for 12 yards (C.Mosley).,10,3,76,BAL 24,0,PHI,
+17,2728,2,02:38,(2:38) R.Mathews up the middle to BAL 28 for 3 yards (M.Pierce).,6,3,60,BAL 31,0,PHI,
+17,2662,1,04:41,(4:41) (Shotgun) B.Marshall up the middle to PHI 41 for 10 yards (B.Williams).,10,3,29,PHI 31,0,PHI,
+17,2749,3,01:54,(1:54) B.Treggs left end to BAL 24 for 4 yards (E.Weddle; Z.Orr). End around play.,3,3,76,BAL 28,0,PHI,
+17,2795,0,,END QUARTER 3,0,3,79,,0,,
+17,2683,1,03:58,(3:58) C.Wentz pass deep left to Z.Ertz to BAL 35 for 24 yards (E.Weddle; S.Wright).,10,3,53,PHI 41,0,PHI,
+16,2577,4,07:00,"(7:00) (Punt formation) S.Koch punts 51 yards to PHI 12, Center-M.Cox, downed by BAL-D.Waller.",12,3,-2,BAL 37,0,BAL,PUNT
+16,2534,2,07:42,(7:42) T.West right guard to BAL 37 for -4 yards (V.Curry).,8,3,-2,BAL 41,0,BAL,
+16,2501,1,08:01,(8:01) J.Flacco pass short right to T.West to BAL 41 for 2 yards (N.Bradham; J.Hicks). BAL-J.Zuttah was injured during the play.,10,3,2,BAL 39,0,BAL,
+16,2555,3,07:06,(7:06) J.Flacco pass incomplete short right to K.Juszczyk.,12,3,-2,BAL 37,0,BAL,
+19,3200,2,10:27,(10:27) (Shotgun) C.Wentz pass short middle to D.Green-Beckham to PHI 39 for 11 yards (T.Young).,7,4,14,PHI 28,0,PHI,
+19,3224,1,09:54,(9:54) R.Mathews left guard to BAL 42 for 19 yards (A.McClellan).,10,4,33,PHI 39,0,PHI,
+19,3245,1,09:12,(9:12) C.Wentz pass short right to T.Burton to BAL 41 for 1 yard (T.Young).,10,4,34,BAL 42,0,PHI,
+19,3179,1,11:06,(11:06) R.Mathews right guard to PHI 28 for 3 yards (B.Williams).,10,4,3,PHI 25,0,PHI,
+19,3325,4,07:49,(7:49) D.Gordon reported in as eligible.  N.Agholor left end pushed ob at BAL 33 for 1 yard (E.Weddle).,2,4,42,BAL 34,0,PHI,
+19,3269,2,08:32,(8:32) (Shotgun) C.Wentz pass incomplete deep left to T.Burton.,9,4,34,BAL 41,0,PHI,
+19,3164,0,11:06,"J.Tucker kicks 65 yards from BAL 35 to end zone, Touchback.",0,4,0,BAL 35,0,BAL,KICKOFF
+19,3291,3,08:27,(8:27) (Shotgun) C.Wentz pass short right to B.Marshall pushed ob at BAL 34 for 7 yards (T.Young).,9,4,41,BAL 41,0,PHI,
+18,3099,1,11:40,"(11:40) K.Dixon right guard to PHI 31 for 5 yards (B.Graham). PENALTY on PHI-B.Logan, Face Mask (15 Yards), 15 yards, enforced at PHI 31.",10,4,53,PHI 36,0,BAL,PENALTY
+18,2991,3,13:57,(13:57) (Shotgun) J.Flacco pass short middle to S.Smith to BAL 41 for 6 yards (M.Jenkins).,6,4,10,BAL 35,0,BAL,
+18,3015,1,13:20,"(13:20) K.Dixon left guard to PHI 40 for 19 yards. PENALTY on BAL-V.Ducasse, Offensive Holding, 10 yards, enforced at PHI 47.",10,4,12,BAL 41,0,BAL,PENALTY
+18,3071,1,12:23,(12:23) (Shotgun) J.Flacco pass short middle to D.Waller to PHI 36 for 11 yards (C.Barwin).,10,4,33,PHI 47,0,BAL,
+18,3131,1,11:14,"(11:14) (Shotgun) K.Dixon left end for 16 yards, TOUCHDOWN.",10,4,69,PHI 16,1,BAL,TD
+18,2948,1,14:42,"(14:42) (No Huddle, Shotgun) J.Flacco pass incomplete short right to M.Campanaro.",10,4,0,BAL 31,0,BAL,
+18,3148,0,11:06,"J.Tucker extra point is GOOD, Center-M.Cox, Holder-S.Koch.",0,4,69,PHI 15,1,BAL,XP
+18,2970,2,14:38,(14:38) K.Dixon right guard to BAL 35 for 4 yards (V.Curry).,10,4,4,BAL 31,0,BAL,
+18,2926,0,14:48,C.Sturgis kicks 63 yards from PHI 35 to BAL 2. C.Moore to BAL 31 for 29 yards (N.Goode).,0,4,0,PHI 35,0,PHI,KICKOFF
+18,3047,1,12:57,(12:57) (Shotgun) J.Flacco pass short left to T.West to PHI 47 for 10 yards (J.Watkins). PHI-N.Carroll was injured during the play.,8,4,69,BAL 43,0,BAL,

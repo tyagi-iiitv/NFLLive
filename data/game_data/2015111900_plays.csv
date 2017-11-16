@@ -1,177 +1,177 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1561,2,02:00,,14,2,-4,TEN 2,0,TEN,
-9,1641,4,01:38,,9,2,1,TEN 7,0,TEN,PUNT
-9,1544,0,02:00,,0,2,-4,,0,,
-9,1583,3,01:55,,14,2,-4,TEN 2,0,TEN,
-9,1521,2,02:15,,13,2,-4,TEN 3,0,TEN,PENALTY
-9,1605,4,01:48,,14,2,1,TEN 2,0,TEN,PENALTY
-9,1500,1,03:01,,10,2,-3,TEN 6,0,TEN,
-10,1808,4,00:35,,12,2,36,TEN 14,1,JAC,FG
-10,1672,1,01:26,,10,2,36,50,0,JAC,
-10,1717,0,00:49,,0,2,45,,0,,TIMEOUT
-10,1772,3,00:43,,3,2,36,TEN 5,0,JAC,
-10,1755,0,00:43,,0,2,45,,0,,TIMEOUT
-10,1696,1,00:53,,10,2,43,TEN 12,0,JAC,
-10,1734,2,00:49,,5,2,45,TEN 7,0,JAC,
-10,1791,0,00:35,,0,2,36,,0,,TIMEOUT
-20,3490,0,03:30,,0,4,5,TEN 15,1,JAC,XP
-20,3469,1,03:34,,5,4,5,TEN 5,1,JAC,TD
-6,1107,2,09:12,,1,2,39,TEN 41,0,JAC,
-6,1128,3,08:33,,1,2,35,TEN 41,0,JAC,FUMBLE
-6,1030,1,10:58,,10,2,13,JAC 20,0,JAC,
-6,1051,1,10:13,,10,2,30,JAC 33,0,JAC,PENALTY
-6,1086,1,09:55,,10,2,39,50,0,JAC,
-6,1015,0,10:58,,0,2,0,TEN 35,0,TEN,KICKOFF
-18,3310,2,07:23,,10,4,1,JAC 39,0,JAC,
-18,3331,3,06:41,,9,4,-4,JAC 40,0,JAC,
-18,3288,1,07:28,,10,4,0,JAC 39,0,JAC,
-18,3350,4,06:04,,14,4,-4,JAC 35,0,JAC,PUNT
-1,100,1,13:28,,10,1,10,TEN 30,0,TEN,
-1,76,2,14:14,,7,1,10,TEN 23,0,TEN,
-1,167,1,11:53,,10,1,44,TEN 43,0,TEN,
-1,40,0,15:00,,0,1,0,JAC 35,0,JAC,KICKOFF
-1,212,2,10:34,,8,1,52,JAC 34,0,TEN,
-1,55,1,15:00,,10,1,3,TEN 20,0,TEN,
-1,143,3,12:38,,6,1,23,TEN 34,0,TEN,
-1,236,3,09:53,,2,1,51,JAC 28,0,TEN,
-1,122,2,13:23,,10,1,14,TEN 30,0,TEN,
-1,257,4,09:11,,3,1,51,JAC 29,1,TEN,FG
-1,191,1,11:12,,10,1,46,JAC 36,0,TEN,
-5,995,4,11:03,,9,2,48,JAC 32,1,TEN,FG
-5,952,2,11:52,,13,2,48,JAC 36,0,TEN,
-5,902,2,12:55,,9,2,47,JAC 43,0,TEN,
-5,848,3,13:41,,8,2,48,JAC 49,0,TEN,PENALTY
-5,826,2,13:44,,8,2,48,JAC 49,0,TEN,
-5,881,1,13:36,,10,2,37,JAC 44,0,TEN,
-5,973,3,11:08,,9,2,48,JAC 32,0,TEN,
-5,761,0,14:50,,0,2,0,JAC 35,0,JAC,KICKOFF
-5,776,1,14:50,,10,2,29,TEN 20,0,TEN,
-5,931,1,12:29,,10,2,44,JAC 33,0,TEN,
-5,805,1,14:23,,10,2,31,TEN 49,0,TEN,
-13,2538,1,05:46,,10,3,58,TEN 44,0,TEN,PENALTY
-13,2453,2,07:22,,17,3,58,TEN 12,0,TEN,
-13,2593,2,05:32,,10,3,81,JAC 23,1,TEN,TD
-13,2412,0,08:10,,0,3,0,JAC 35,0,JAC,KICKOFF
-13,2615,0,05:22,,0,3,81,JAC 15,1,TEN,XP
-13,2434,1,08:05,,10,3,-7,TEN 19,0,TEN,
-13,2505,1,05:51,,10,3,25,TEN 29,0,TEN,PENALTY
-13,2571,1,05:38,,10,3,58,JAC 23,0,TEN,
-13,2477,3,06:49,,8,3,10,TEN 21,0,TEN,
-21,3521,1,03:30,,10,4,8,TEN 20,0,TEN,FUMBLE
-21,3506,0,03:30,,0,4,0,JAC 35,0,JAC,KICKOFF
-23,3750,0,01:56,,0,4,8,,0,,
-23,3767,1,01:56,,15,4,16,TEN 28,0,TEN,
-23,3953,1,00:05,,10,4,57,JAC 23,0,TEN,
-23,3692,1,02:19,,10,4,13,TEN 20,0,TEN,
-23,3975,0,00:05,,0,4,57,,0,,TIMEOUT
-23,3861,3,00:41,,7,4,40,JAC 48,0,TEN,
-23,3677,0,02:19,,0,4,0,JAC 35,0,JAC,KICKOFF
-23,4011,0,00:00,,0,4,55,,0,,
-23,3791,2,01:35,,7,4,29,TEN 36,0,TEN,
-23,3907,2,00:28,,10,4,40,JAC 40,0,TEN,
-23,3716,1,02:01,,10,4,8,TEN 33,0,TEN,PENALTY
-23,3885,1,00:28,,10,4,40,JAC 40,0,TEN,
-23,3929,3,00:22,,10,4,57,JAC 40,0,TEN,
-23,3992,2,00:05,,10,4,55,JAC 23,0,TEN,
-23,3837,2,01:05,,10,4,32,TEN 49,0,TEN,
-23,3815,1,01:10,,10,4,29,TEN 49,0,TEN,
-11,1828,0,00:31,,0,2,0,JAC 35,0,JAC,KICKOFF
-11,2040,0,,,0,2,47,,0,,
-11,1872,2,00:26,,1,2,47,TEN 29,0,TEN,
-11,1999,2,00:06,,11,2,47,50,0,TEN,
-11,1965,0,00:06,,0,2,30,,0,,TIMEOUT
-11,1946,1,00:12,,10,2,30,JAC 49,0,TEN,
-11,1896,1,00:17,,10,2,31,TEN 46,0,TEN,PENALTY
-11,1982,0,00:06,,0,2,30,,0,,TIMEOUT
-11,1843,1,00:31,,10,2,9,TEN 20,0,TEN,
-11,2010,0,00:17,,0,2,30,,0,,TIMEOUT
-14,2631,0,05:22,,0,3,0,TEN 35,0,TEN,KICKOFF
-14,2694,1,04:11,,10,3,17,JAC 32,0,JAC,
-14,2771,4,03:23,,5,3,17,JAC 37,0,JAC,PUNT
-14,2715,2,03:31,,5,3,17,JAC 37,0,JAC,
-14,2737,3,03:27,,5,3,17,JAC 37,0,JAC,
-14,2670,2,04:46,,4,3,12,JAC 26,0,JAC,
-14,2646,1,05:22,,10,3,6,JAC 20,0,JAC,
-8,1480,4,03:08,,13,2,29,TEN 41,0,JAC,PUNT
-8,1262,1,07:32,,10,2,10,JAC 30,0,JAC,
-8,1334,2,06:18,,10,2,25,50,0,JAC,
-8,1456,3,03:50,,26,2,29,JAC 46,0,JAC,
-8,1437,2,04:30,,20,2,16,TEN 48,0,JAC,
-8,1312,1,06:23,,10,2,20,50,0,JAC,
-8,1355,3,05:40,,5,2,32,TEN 45,0,JAC,
-8,1405,2,04:58,,10,2,22,TEN 38,0,JAC,PENALTY
-8,1283,1,06:55,,10,2,20,JAC 40,0,JAC,
-8,1379,1,05:04,,10,2,32,TEN 38,0,JAC,
-19,3399,2,05:15,,6,4,3,TEN 19,0,TEN,
-19,3444,4,03:49,,1,4,9,TEN 24,0,TEN,PUNT
-19,3420,3,04:29,,7,4,9,TEN 18,0,TEN,
-19,3378,1,05:50,,10,4,4,TEN 15,0,TEN,
-22,3578,2,02:37,,7,4,9,TEN 25,0,JAC,
-22,3657,4,02:21,,1,4,9,TEN 19,1,JAC,FG
-22,3640,0,02:22,,0,4,9,,0,,TIMEOUT
-22,3619,3,02:28,,1,4,9,TEN 19,0,JAC,
-22,3557,1,03:19,,10,4,3,TEN 28,0,JAC,
-22,3602,0,02:28,,0,4,9,,0,,TIMEOUT
-12,2325,1,09:40,,7,3,78,TEN 7,0,JAC,
-12,2346,2,09:16,,2,3,78,TEN 2,0,JAC,
-12,2230,1,11:50,,10,3,49,TEN 40,0,JAC,
-12,2367,3,08:38,,2,3,78,TEN 2,0,JAC,
-12,2071,1,15:00,,10,3,3,JAC 20,0,JAC,
-12,2275,1,10:39,,10,3,56,TEN 24,0,JAC,
-12,2251,2,11:04,,1,3,56,TEN 31,0,JAC,
-12,2173,1,12:32,,10,3,20,50,0,JAC,PENALTY
-12,2296,2,10:04,,10,3,73,TEN 24,0,JAC,
-12,2095,2,14:30,,7,3,5,JAC 23,0,JAC,
-12,2140,1,13:09,,10,3,30,JAC 34,0,JAC,PENALTY
-12,2206,1,12:26,,20,3,40,JAC 40,0,JAC,
-12,2388,4,08:13,,2,3,78,TEN 2,1,JAC,FG
-12,2116,3,13:46,,5,3,14,JAC 25,0,JAC,
-12,2056,0,15:00,,0,3,0,TEN 35,0,TEN,KICKOFF
-16,3058,1,12:58,,10,4,10,JAC 43,0,JAC,
-16,3101,2,11:37,,14,4,34,JAC 49,0,JAC,
-16,3082,1,12:20,,10,4,6,TEN 47,0,JAC,
-16,3125,1,10:55,,10,4,34,TEN 23,0,JAC,INT
-7,1231,4,07:37,,9,2,1,TEN 46,0,TEN,PUNT
-7,1187,2,07:51,,9,2,1,TEN 46,0,TEN,
-7,1166,1,08:26,,10,2,1,TEN 45,0,TEN,
-7,1209,3,07:45,,9,2,1,TEN 46,0,TEN,
-3,390,1,07:59,,10,1,12,TEN 28,0,TEN,
-3,411,1,07:23,,10,1,14,TEN 40,0,TEN,
-3,477,4,05:28,,9,1,13,TEN 41,0,TEN,PUNT
-3,453,3,06:05,,12,1,13,TEN 38,0,TEN,
-3,432,2,06:44,,8,1,10,TEN 42,0,TEN,
-17,3205,1,09:46,,10,4,15,TEN 26,0,TEN,
-17,3152,1,10:49,,10,4,3,TEN 12,0,TEN,
-17,3247,3,08:16,,8,4,7,TEN 28,0,TEN,
-17,3266,4,07:36,,17,4,7,TEN 19,0,TEN,PUNT
-17,3173,2,10:12,,7,4,14,TEN 15,0,TEN,PENALTY
-17,3226,2,09:01,,9,4,16,TEN 27,0,TEN,
-4,677,2,00:45,,10,1,73,TEN 19,0,JAC,
-4,698,0,,,0,1,73,,0,,
-4,719,3,15:00,,4,2,73,TEN 13,0,JAC,
-4,607,2,02:10,,9,1,55,TEN 35,0,JAC,
-4,541,3,04:08,,6,1,35,JAC 18,0,JAC,
-4,496,1,05:20,,10,1,2,JAC 14,0,JAC,
-4,586,1,02:48,,10,1,51,TEN 36,0,JAC,
-4,565,1,03:31,,10,1,50,JAC 49,0,JAC,
-4,631,3,01:32,,5,1,67,TEN 31,0,JAC,
-4,741,4,14:53,,4,2,73,TEN 13,1,JAC,FG
-4,517,2,04:46,,8,1,4,JAC 16,0,JAC,
-4,655,1,00:50,,10,1,67,TEN 19,0,JAC,
-2,314,2,09:01,,10,1,6,JAC 20,0,JAC,
-2,277,0,09:06,,0,1,0,TEN 35,0,TEN,KICKOFF
-2,360,4,08:12,,4,1,6,JAC 26,0,JAC,PUNT
-2,292,1,09:06,,10,1,0,JAC 20,0,JAC,
-2,338,3,08:19,,4,1,6,JAC 26,0,JAC,
-15,2829,2,02:30,,4,3,6,TEN 14,0,TEN,
-15,2938,0,,,0,3,49,,0,,
-15,3020,0,13:02,,0,4,57,,0,,TIMEOUT
-15,2999,3,13:42,,4,4,57,JAC 37,0,TEN,
-15,2872,1,01:43,,10,3,15,TEN 20,0,TEN,
-15,2893,2,01:00,,7,3,23,TEN 23,0,TEN,
-15,3037,4,13:02,,2,4,57,JAC 35,0,TEN,FGM
-15,2954,1,15:00,,10,4,51,JAC 43,0,TEN,
-15,2978,2,14:23,,8,4,55,JAC 41,0,TEN,
-15,2851,3,02:25,,4,3,12,TEN 14,0,TEN,
-15,2808,1,03:13,,10,3,57,TEN 8,0,TEN,
-15,2917,1,00:23,,10,3,49,TEN 31,0,TEN,
+20,3490,0,03:30,"J.Myers extra point is GOOD, Center-C.Tinker, Holder-B.Anger.",0,4,5,TEN 15,1,JAC,XP
+20,3469,1,03:34,"(3:34) (Shotgun) B.Bortles pass short middle to J.Thomas for 5 yards, TOUCHDOWN.",5,4,5,TEN 5,1,JAC,TD
+21,3506,0,03:30,"J.Myers kicks 65 yards from JAC 35 to end zone, Touchback.",0,4,0,JAC 35,0,JAC,KICKOFF
+21,3521,1,03:30,"(3:30) (Shotgun) M.Mariota pass short right to P.Supernaw to TEN 28 for 8 yards (D.House). FUMBLES (D.House), RECOVERED by JAC-D.House at TEN 28. D.House to TEN 28 for no gain (P.Supernaw).",10,4,8,TEN 20,0,TEN,FUMBLE
+22,3557,1,03:19,(3:19) T.Yeldon up the middle to TEN 25 for 3 yards (S.Hill).,10,4,3,TEN 28,0,JAC,
+22,3602,0,02:28,Timeout #2 by TEN at 02:28.,0,4,9,,0,,TIMEOUT
+22,3578,2,02:37,(2:37) B.Bortles pass short right to A.Hurns to TEN 19 for 6 yards (W.Woodyard).,7,4,9,TEN 25,0,JAC,
+22,3619,3,02:28,(2:28) T.Yeldon up the middle to TEN 19 for no gain (A.Williamson).,1,4,9,TEN 19,0,JAC,
+22,3657,4,02:21,"(2:21) (Field Goal formation) J.Myers 36 yard field goal is GOOD, Center-C.Tinker, Holder-B.Anger.",1,4,9,TEN 19,1,JAC,FG
+22,3640,0,02:22,Timeout #3 by TEN at 02:22.,0,4,9,,0,,TIMEOUT
+23,3885,1,00:28,(:28) M.Mariota spiked the ball to stop the clock.,10,4,40,JAC 40,0,TEN,
+23,4011,0,00:00,END GAME,0,4,55,,0,,
+23,3716,1,02:01,"(2:01) M.Mariota pass incomplete short right to R.Richardson [A.Branch]. PENALTY on TEN-H.Douglas, Illegal Shift, 5 yards, enforced at TEN 33 - No Play.",10,4,8,TEN 33,0,TEN,PENALTY
+23,3767,1,01:56,(1:56) (Shotgun) M.Mariota pass short middle to D.Walker to TEN 36 for 8 yards (P.Posluszny).,15,4,16,TEN 28,0,TEN,
+23,3953,1,00:05,(:05) M.Mariota spiked the ball to stop the clock.,10,4,57,JAC 23,0,TEN,
+23,3750,0,01:56,Two-Minute Warning,0,4,8,,0,,
+23,3692,1,02:19,(2:19) (Shotgun) M.Mariota pass short middle to A.Andrews to TEN 33 for 13 yards (A.Colvin).,10,4,13,TEN 20,0,TEN,
+23,3815,1,01:10,(1:10) (Shotgun) M.Mariota pass incomplete deep right to R.Richardson.,10,4,29,TEN 49,0,TEN,
+23,3791,2,01:35,(1:35) (Shotgun) M.Mariota pass short left to D.Green-Beckham to TEN 49 for 13 yards (D.McCray).,7,4,29,TEN 36,0,TEN,
+23,3992,2,00:05,(:05) (Shotgun) M.Mariota sacked at JAC 25 for -2 yards (A.Branch).,10,4,55,JAC 23,0,TEN,
+23,3929,3,00:22,(:22) (Shotgun) M.Mariota pass deep middle to D.Green-Beckham to JAC 23 for 17 yards (D.McCray).,10,4,57,JAC 40,0,TEN,
+23,3837,2,01:05,(1:05) (Shotgun) M.Mariota pass short middle to A.Andrews to JAC 48 for 3 yards (T.Smith).,10,4,32,TEN 49,0,TEN,
+23,3975,0,00:05,Timeout #1 by JAC at 00:05.,0,4,57,,0,,TIMEOUT
+23,3907,2,00:28,(:28) (Shotgun) M.Mariota pass incomplete deep left to H.Douglas (A.Colvin).,10,4,40,JAC 40,0,TEN,
+23,3677,0,02:19,"J.Myers kicks 65 yards from JAC 35 to end zone, Touchback.",0,4,0,JAC 35,0,JAC,KICKOFF
+23,3861,3,00:41,"(:41) (No Huddle, Shotgun) M.Mariota pass short middle to D.Walker to JAC 40 for 8 yards (T.Smith).",7,4,40,JAC 48,0,TEN,
+1,212,2,10:34,(10:34) (Shotgun) M.Mariota pass short middle to A.Fasano to JAC 28 for 6 yards (P.Posluszny).,8,1,52,JAC 34,0,TEN,
+1,143,3,12:38,(12:38) (Shotgun) M.Mariota pass short right to D.McCluster to TEN 43 for 9 yards (D.House).,6,1,23,TEN 34,0,TEN,
+1,55,1,15:00,(15:00) A.Andrews up the middle to TEN 23 for 3 yards (T.Smith).,10,1,3,TEN 20,0,TEN,
+1,191,1,11:12,(11:12) A.Andrews up the middle to JAC 34 for 2 yards (J.Odrick).,10,1,46,JAC 36,0,TEN,
+1,40,0,15:00,"J.Myers kicks 65 yards from JAC 35 to end zone, Touchback.",0,1,0,JAC 35,0,JAC,KICKOFF
+1,257,4,09:11,"(9:11) (Field Goal formation) R.Succop 47 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",3,1,51,JAC 29,1,TEN,FG
+1,76,2,14:14,(14:14) (Shotgun) M.Mariota pass short right to H.Douglas to TEN 30 for 7 yards (A.Colvin).,7,1,10,TEN 23,0,TEN,
+1,122,2,13:23,(13:23) (Shotgun) A.Andrews up the middle to TEN 34 for 4 yards (T.Smith).,10,1,14,TEN 30,0,TEN,
+1,100,1,13:28,(13:28) M.Mariota pass incomplete short middle to C.Stevens.,10,1,10,TEN 30,0,TEN,
+1,167,1,11:53,(11:53) M.Mariota pass short middle to D.Walker to JAC 36 for 21 yards (P.Posluszny).,10,1,44,TEN 43,0,TEN,
+1,236,3,09:53,(9:53) (Shotgun) M.Mariota right end to JAC 29 for -1 yards (A.Branch; T.Smith).,2,1,51,JAC 28,0,TEN,
+3,453,3,06:05,(6:05) (Shotgun) M.Mariota pass short middle to D.Walker to TEN 41 for 3 yards (J.Cyprien).,12,1,13,TEN 38,0,TEN,
+3,390,1,07:59,(7:59) A.Andrews up the middle to TEN 40 for 12 yards (D.House).,10,1,12,TEN 28,0,TEN,
+3,432,2,06:44,(6:44) D.McCluster left end to TEN 38 for -4 yards (J.Odrick).,8,1,10,TEN 42,0,TEN,
+3,411,1,07:23,(7:23) (Shotgun) A.Andrews up the middle to TEN 42 for 2 yards (D.Skuta).,10,1,14,TEN 40,0,TEN,
+3,477,4,05:28,"(5:28) (Punt formation) B.Kern punts 45 yards to JAC 14, Center-B.Brinkley, out of bounds.",9,1,13,TEN 41,0,TEN,PUNT
+2,314,2,09:01,(9:01) (Shotgun) B.Bortles pass short right to J.Thomas pushed ob at JAC 26 for 6 yards (C.Sensabaugh).,10,1,6,JAC 20,0,JAC,
+2,292,1,09:06,(9:06) B.Bortles pass incomplete deep left to J.Thomas (B.Orakpo).,10,1,0,JAC 20,0,JAC,
+2,338,3,08:19,(8:19) (Shotgun) B.Bortles pass incomplete short right to M.Lewis [D.Morgan].,4,1,6,JAC 26,0,JAC,
+2,360,4,08:12,"(8:12) (Punt formation) B.Anger punts 52 yards to TEN 22, Center-C.Tinker. D.McCluster to TEN 28 for 6 yards (D.Robinson).",4,1,6,JAC 26,0,JAC,PUNT
+2,277,0,09:06,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback.",0,1,0,TEN 35,0,TEN,KICKOFF
+5,902,2,12:55,(12:55) (Shotgun) M.Mariota pass short left to D.Green-Beckham ran ob at JAC 33 for 10 yards.,9,2,47,JAC 43,0,TEN,
+5,995,4,11:03,"(11:03) R.Succop 49 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",9,2,48,JAC 32,1,TEN,FG
+5,881,1,13:36,(13:36) D.Cobb up the middle to JAC 43 for 1 yard (A.Jones).,10,2,37,JAC 44,0,TEN,
+5,776,1,14:50,(14:50) M.Mariota pass deep middle to D.Walker pushed ob at TEN 49 for 29 yards (J.Cyprien).,10,2,29,TEN 20,0,TEN,
+5,973,3,11:08,(11:08) (Shotgun) M.Mariota pass incomplete deep left to D.Green-Beckham.,9,2,48,JAC 32,0,TEN,
+5,761,0,14:50,"J.Myers kicks 65 yards from JAC 35 to end zone, Touchback.",0,2,0,JAC 35,0,JAC,KICKOFF
+5,952,2,11:52,(11:52) D.McCluster left end to JAC 32 for 4 yards (P.Posluszny).,13,2,48,JAC 36,0,TEN,
+5,848,3,13:41,"(13:41) (Shotgun) M.Mariota pass incomplete short right to D.Green-Beckham [T.Smith]. PENALTY on JAC-A.Colvin, Defensive Holding, 5 yards, enforced at JAC 49 - No Play.",8,2,48,JAC 49,0,TEN,PENALTY
+5,931,1,12:29,(12:29) D.Cobb left end to JAC 36 for -3 yards (R.Miller).,10,2,44,JAC 33,0,TEN,
+5,826,2,13:44,(13:44) (Shotgun) M.Mariota pass incomplete short left to D.Green-Beckham.,8,2,48,JAC 49,0,TEN,
+5,805,1,14:23,(14:23) D.Cobb left end to JAC 49 for 2 yards (R.Miller).,10,2,31,TEN 49,0,TEN,
+4,586,1,02:48,(2:48) T.Yeldon right end to TEN 35 for 1 yard (R.Pitoitua).,10,1,51,TEN 36,0,JAC,
+4,631,3,01:32,(1:32) (Shotgun) B.Bortles pass short right to J.Thomas to TEN 19 for 12 yards (Z.Brown).,5,1,67,TEN 31,0,JAC,
+4,607,2,02:10,(2:10) (Shotgun) B.Bortles pass short left to B.Walters to TEN 31 for 4 yards (C.Riggs).,9,1,55,TEN 35,0,JAC,
+4,719,3,15:00,(15:00) (Shotgun) B.Bortles pass incomplete short right to B.Walters.,4,2,73,TEN 13,0,JAC,
+4,741,4,14:53,"(14:53) J.Myers 31 yard field goal is GOOD, Center-C.Tinker, Holder-B.Anger.",4,2,73,TEN 13,1,JAC,FG
+4,698,0,,END QUARTER 1,0,1,73,,0,,
+4,677,2,00:45,(:45) T.Yeldon left end to TEN 13 for 6 yards (A.Blackson).,10,1,73,TEN 19,0,JAC,
+4,565,1,03:31,(3:31) T.Yeldon up the middle to TEN 36 for 15 yards (D.Searcy).,10,1,50,JAC 49,0,JAC,
+4,541,3,04:08,(4:08) (Shotgun) B.Bortles pass deep middle to B.Walters to JAC 49 for 31 yards (P.Cox).,6,1,35,JAC 18,0,JAC,
+4,655,1,00:50,(:50) B.Bortles pass incomplete deep right to M.Lewis.,10,1,67,TEN 19,0,JAC,
+4,496,1,05:20,(5:20) T.Yeldon up the middle to JAC 16 for 2 yards (B.Orakpo; W.Woodyard).,10,1,2,JAC 14,0,JAC,
+4,517,2,04:46,(4:46) B.Bortles pass short left to J.Thomas to JAC 18 for 2 yards (D.Searcy).,8,1,4,JAC 16,0,JAC,
+7,1187,2,07:51,(7:51) M.Mariota pass incomplete deep right to D.Green-Beckham (D.House).,9,2,1,TEN 46,0,TEN,
+7,1166,1,08:26,(8:26) A.Andrews up the middle to TEN 46 for 1 yard (J.Odrick).,10,2,1,TEN 45,0,TEN,
+7,1209,3,07:45,(7:45) (Shotgun) M.Mariota pass incomplete deep right to D.Walker.,9,2,1,TEN 46,0,TEN,
+7,1231,4,07:37,"(7:37) B.Kern punts 39 yards to JAC 15, Center-B.Brinkley, fair catch by B.Walters. PENALTY on TEN-C.Riggs, Fair Catch Interference, 15 yards, enforced at JAC 15.",9,2,1,TEN 46,0,TEN,PUNT
+6,1128,3,08:33,"(8:33) B.Bortles up the middle to TEN 41 for no gain (B.Orakpo). FUMBLES (B.Orakpo), RECOVERED by TEN-D.Bass at TEN 45. D.Bass to TEN 45 for no gain (T.Yeldon).",1,2,35,TEN 41,0,JAC,FUMBLE
+6,1086,1,09:55,(9:55) T.Yeldon left end to TEN 41 for 9 yards (A.Williamson).,10,2,39,50,0,JAC,
+6,1051,1,10:13,"(10:13) (Shotgun) B.Bortles pass short right to R.Greene to JAC 35 for 2 yards (C.Sensabaugh). PENALTY on TEN-C.Riggs, Face Mask (15 Yards), 15 yards, enforced at JAC 35.",10,2,30,JAC 33,0,JAC,PENALTY
+6,1107,2,09:12,(9:12) T.Yeldon right end to TEN 41 for no gain (Z.Brown).,1,2,39,TEN 41,0,JAC,
+6,1015,0,10:58,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback.",0,2,0,TEN 35,0,TEN,KICKOFF
+6,1030,1,10:58,(10:58) B.Bortles scrambles left end to JAC 33 for 13 yards.,10,2,13,JAC 20,0,JAC,
+9,1544,0,02:00,Two-Minute Warning,0,2,-4,,0,,
+9,1641,4,01:38,"(1:38) B.Kern punts 56 yards to JAC 37, Center-B.Brinkley. R.Greene ran ob at 50 for 13 yards.",9,2,1,TEN 7,0,TEN,PUNT
+9,1583,3,01:55,(1:55) (Shotgun) M.Mariota pass incomplete short middle to H.Douglas (A.Colvin).,14,2,-4,TEN 2,0,TEN,
+9,1605,4,01:48,"(1:48) B.Kern punts 53 yards to JAC 45, Center-B.Brinkley. R.Greene to JAC 33 for -12 yards (P.Supernaw). PENALTY on JAC-S.Brown, Running Into the Kicker, 5 yards, enforced at TEN 2 - No Play.",14,2,1,TEN 2,0,TEN,PENALTY
+9,1500,1,03:01,(3:01) D.Cobb up the middle to TEN 3 for -3 yards (T.Alualu).,10,2,-3,TEN 6,0,TEN,
+9,1521,2,02:15,"(2:15) PENALTY on TEN-M.Mariota, Delay of Game, 1 yard, enforced at TEN 3 - No Play.",13,2,-4,TEN 3,0,TEN,PENALTY
+9,1561,2,02:00,(2:00) (Shotgun) M.Mariota pass incomplete deep right to R.Richardson.,14,2,-4,TEN 2,0,TEN,
+8,1437,2,04:30,(4:30) (Shotgun) B.Bortles sacked at JAC 46 for -6 yards (W.Woodyard).,20,2,16,TEN 48,0,JAC,
+8,1312,1,06:23,(6:23) B.Bortles pass incomplete deep right to A.Robinson.,10,2,20,50,0,JAC,
+8,1283,1,06:55,(6:55) (Shotgun) B.Bortles pass short right to C.Harbor pushed ob at 50 for 10 yards (M.Griffin).,10,2,20,JAC 40,0,JAC,
+8,1262,1,07:32,(7:32) D.Robinson up the middle to JAC 40 for 10 yards (A.Williamson; M.Griffin).,10,2,10,JAC 30,0,JAC,
+8,1355,3,05:40,(5:40) (Shotgun) B.Bortles pass short right to A.Hurns to TEN 38 for 7 yards (C.Sensabaugh).,5,2,32,TEN 45,0,JAC,
+8,1456,3,03:50,(3:50) (Shotgun) B.Bortles pass short left to T.Yeldon to TEN 41 for 13 yards (C.Riggs).,26,2,29,JAC 46,0,JAC,
+8,1480,4,03:08,"(3:08) B.Anger punts 35 yards to TEN 6, Center-C.Tinker, fair catch by D.McCluster.",13,2,29,TEN 41,0,JAC,PUNT
+8,1334,2,06:18,(6:18) D.Robinson up the middle to TEN 45 for 5 yards (S.Hill).,10,2,25,50,0,JAC,
+8,1379,1,05:04,"(5:04) (No Huddle, Shotgun) B.Walters pass incomplete deep right to A.Robinson.",10,2,32,TEN 38,0,JAC,
+8,1405,2,04:58,"(4:58) T.Yeldon right end to TEN 34 for 4 yards (D.Bass). PENALTY on JAC-L.Joeckel, Offensive Holding, 10 yards, enforced at TEN 38 - No Play.",10,2,22,TEN 38,0,JAC,PENALTY
+11,1982,0,00:06,Timeout #3 by JAC at 00:06.,0,2,30,,0,,TIMEOUT
+11,1828,0,00:31,"J.Myers kicks 65 yards from JAC 35 to end zone, Touchback.",0,2,0,JAC 35,0,JAC,KICKOFF
+11,2040,0,,END QUARTER 2,0,2,47,,0,,
+11,1843,1,00:31,(:31) (Shotgun) M.Mariota pass short right to H.Douglas ran ob at TEN 29 for 9 yards.,10,2,9,TEN 20,0,TEN,
+11,1965,0,00:06,Timeout #3 by TEN at 00:06.,0,2,30,,0,,TIMEOUT
+11,1946,1,00:12,(:12) (Shotgun) M.Mariota sacked at 50 for -1 yards (R.Davis).,10,2,30,JAC 49,0,TEN,
+11,1999,2,00:06,(:06) (Shotgun) M.Mariota pass short middle to D.Walker to JAC 33 for 17 yards (T.Smith).,11,2,47,50,0,TEN,
+11,1872,2,00:26,"(:26) (No Huddle, Shotgun) M.Mariota pass deep middle to D.Walker to TEN 46 for 17 yards (J.Cyprien).",1,2,47,TEN 29,0,TEN,
+11,1896,1,00:17,"(:17) (Shotgun) M.Mariota pass incomplete short right to H.Douglas. PENALTY on JAC-D.Gratz, Defensive Holding, 5 yards, enforced at TEN 46 - No Play.",10,2,31,TEN 46,0,TEN,PENALTY
+11,2010,0,00:17,Timeout #2 by TEN at 00:17.,0,2,30,,0,,TIMEOUT
+10,1717,0,00:49,Timeout #1 by JAC at 00:49.,0,2,45,,0,,TIMEOUT
+10,1772,3,00:43,(:43) (Shotgun) B.Bortles sacked at TEN 14 for -9 yards (B.Orakpo).,3,2,36,TEN 5,0,JAC,
+10,1791,0,00:35,Timeout #1 by TEN at 00:35.,0,2,36,,0,,TIMEOUT
+10,1734,2,00:49,(:49) (Shotgun) D.Robinson up the middle to TEN 5 for 2 yards (D.Bass).,5,2,45,TEN 7,0,JAC,
+10,1808,4,00:35,"(:35) J.Myers 32 yard field goal is GOOD, Center-C.Tinker, Holder-B.Anger.",12,2,36,TEN 14,1,JAC,FG
+10,1696,1,00:53,(:53) (Shotgun) D.Robinson right end to TEN 7 for 5 yards (D.Stafford).,10,2,43,TEN 12,0,JAC,
+10,1755,0,00:43,Timeout #2 by JAC at 00:43.,0,2,45,,0,,TIMEOUT
+10,1672,1,01:26,(1:26) (Shotgun) B.Bortles pass deep right to A.Robinson to TEN 12 for 38 yards (C.Sensabaugh).,10,2,36,50,0,JAC,
+13,2477,3,06:49,(6:49) (Shotgun) M.Mariota pass short left to A.Fasano to TEN 29 for 8 yards (A.Colvin).,8,3,10,TEN 21,0,TEN,
+13,2615,0,05:22,"R.Succop extra point is GOOD, Center-B.Brinkley, Holder-B.Kern.",0,3,81,JAC 15,1,TEN,XP
+13,2593,2,05:32,"(5:32) (Shotgun) M.Mariota left end for 23 yards, TOUCHDOWN.",10,3,81,JAC 23,1,TEN,TD
+13,2453,2,07:22,(7:22) (Shotgun) M.Mariota pass short left to D.McCluster to TEN 21 for 9 yards (J.Cyprien). TEN-D.McCluster was injured during the play. His return is Questionable.,17,3,58,TEN 12,0,TEN,
+13,2434,1,08:05,(8:05) M.Mariota sacked at TEN 12 for -7 yards (A.Colvin).,10,3,-7,TEN 19,0,TEN,
+13,2538,1,05:46,"(5:46) M.Mariota pass incomplete deep left to H.Douglas. PENALTY on JAC-A.Colvin, Defensive Pass Interference, 33 yards, enforced at TEN 44 - No Play.",10,3,58,TEN 44,0,TEN,PENALTY
+13,2412,0,08:10,J.Myers kicks 68 yards from JAC 35 to TEN -3. D.McCluster to TEN 19 for 22 yards (P.Thompson).,0,3,0,JAC 35,0,JAC,KICKOFF
+13,2505,1,05:51,"(5:51) (Shotgun) M.Mariota pass incomplete deep right to H.Douglas. PENALTY on JAC-D.House, Defensive Pass Interference, 15 yards, enforced at TEN 29 - No Play.",10,3,25,TEN 29,0,TEN,PENALTY
+13,2571,1,05:38,(5:38) (Shotgun) M.Mariota pass incomplete deep left to D.Walker. TEN-D.Walker was injured during the play.,10,3,58,JAC 23,0,TEN,
+12,2275,1,10:39,(10:39) T.Yeldon right end to TEN 24 for no gain (S.Hill).,10,3,56,TEN 24,0,JAC,
+12,2346,2,09:16,(9:16) (No Huddle) D.Robinson up the middle to TEN 2 for no gain (A.Williamson; W.Woodyard).,2,3,78,TEN 2,0,JAC,
+12,2325,1,09:40,(9:40) (No Huddle) D.Robinson up the middle to TEN 2 for 5 yards (M.Griffin).,7,3,78,TEN 7,0,JAC,
+12,2206,1,12:26,(12:26) (Shotgun) B.Bortles pass deep middle to A.Robinson to TEN 40 for 20 yards (P.Cox).,20,3,40,JAC 40,0,JAC,
+12,2056,0,15:00,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback.",0,3,0,TEN 35,0,TEN,KICKOFF
+12,2230,1,11:50,(11:50) T.Yeldon up the middle to TEN 31 for 9 yards (C.Sensabaugh).,10,3,49,TEN 40,0,JAC,
+12,2296,2,10:04,(10:04) B.Bortles pass deep left to A.Robinson ran ob at TEN 7 for 17 yards.,10,3,73,TEN 24,0,JAC,
+12,2095,2,14:30,(14:30) T.Yeldon up the middle to JAC 25 for 2 yards (D.Jones).,7,3,5,JAC 23,0,JAC,
+12,2173,1,12:32,"(12:32) B.Bortles pass incomplete short left to A.Robinson. PENALTY on JAC-M.Lewis, Offensive Holding, 10 yards, enforced at 50 - No Play.",10,3,20,50,0,JAC,PENALTY
+12,2251,2,11:04,(11:04) (Shotgun) B.Bortles pass short left to C.Harbor ran ob at TEN 24 for 7 yards.,1,3,56,TEN 31,0,JAC,
+12,2140,1,13:09,"(13:09) T.Yeldon up the middle to JAC 35 for 1 yard (D.Searcy). PENALTY on TEN-J.Casey, Unsportsmanlike Conduct, 15 yards, enforced at JAC 35.",10,3,30,JAC 34,0,JAC,PENALTY
+12,2367,3,08:38,(8:38) D.Robinson right end to TEN 2 for no gain (W.Woodyard). TEN-B.Orakpo was injured during the play.,2,3,78,TEN 2,0,JAC,
+12,2388,4,08:13,"(8:13) J.Myers 20 yard field goal is GOOD, Center-C.Tinker, Holder-B.Anger.",2,3,78,TEN 2,1,JAC,FG
+12,2071,1,15:00,(15:00) B.Bortles pass short left to J.Thomas to JAC 23 for 3 yards (W.Woodyard).,10,3,3,JAC 20,0,JAC,
+12,2116,3,13:46,(13:46) (Shotgun) B.Bortles pass short right to T.Yeldon to JAC 34 for 9 yards (K.Klug).,5,3,14,JAC 25,0,JAC,
+15,2872,1,01:43,(1:43) A.Andrews up the middle to TEN 23 for 3 yards (A.Colvin).,10,3,15,TEN 20,0,TEN,
+15,2938,0,,END QUARTER 3,0,3,49,,0,,
+15,2917,1,00:23,(:23) A.Andrews up the middle to JAC 43 for 26 yards (A.Colvin).,10,3,49,TEN 31,0,TEN,
+15,2851,3,02:25,(2:25) (Shotgun) M.Mariota scrambles right end to TEN 20 for 6 yards.,4,3,12,TEN 14,0,TEN,
+15,3037,4,13:02,"(13:02) (Field Goal formation) R.Succop 53 yard field goal is No Good, Wide Left, Center-B.Brinkley, Holder-B.Kern.",2,4,57,JAC 35,0,TEN,FGM
+15,2978,2,14:23,(14:23) A.Andrews up the middle to JAC 37 for 4 yards (A.Colvin).,8,4,55,JAC 41,0,TEN,
+15,2893,2,01:00,(1:00) M.Mariota pass short middle to P.Supernaw to TEN 31 for 8 yards (P.Posluszny).,7,3,23,TEN 23,0,TEN,
+15,3020,0,13:02,Timeout #1 by TEN at 13:02.,0,4,57,,0,,TIMEOUT
+15,2808,1,03:13,(3:13) A.Andrews up the middle to TEN 14 for 6 yards (T.Armbrister).,10,3,57,TEN 8,0,TEN,
+15,2829,2,02:30,(2:30) (Shotgun) M.Mariota pass incomplete deep middle to H.Douglas.,4,3,6,TEN 14,0,TEN,
+15,2999,3,13:42,(13:42) (Shotgun) M.Mariota left end to JAC 35 for 2 yards (J.Cyprien).,4,4,57,JAC 37,0,TEN,
+15,2954,1,15:00,(15:00) M.Mariota pass short right to J.Fowler to JAC 41 for 2 yards (T.Armbrister).,10,4,51,JAC 43,0,TEN,
+14,2737,3,03:27,(3:27) (Shotgun) B.Bortles pass incomplete short right to A.Hurns (C.Sensabaugh).,5,3,17,JAC 37,0,JAC,
+14,2715,2,03:31,(3:31) (Shotgun) B.Bortles pass incomplete short middle to T.Yeldon.,5,3,17,JAC 37,0,JAC,
+14,2771,4,03:23,"(3:23) B.Anger punts 46 yards to TEN 17, Center-C.Tinker. H.Douglas to TEN 16 for -1 yards (H.Pullard). PENALTY on TEN-P.Supernaw, Offensive Holding, 8 yards, enforced at TEN 16.",5,3,17,JAC 37,0,JAC,PUNT
+14,2631,0,05:22,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback.",0,3,0,TEN 35,0,TEN,KICKOFF
+14,2646,1,05:22,(5:22) B.Bortles pass short right to A.Hurns to JAC 26 for 6 yards (C.Sensabaugh).,10,3,6,JAC 20,0,JAC,
+14,2670,2,04:46,(4:46) (Shotgun) B.Bortles pass short right to T.Yeldon to JAC 32 for 6 yards (D.Bass).,4,3,12,JAC 26,0,JAC,
+14,2694,1,04:11,(4:11) T.Yeldon right end to JAC 37 for 5 yards (D.Bass).,10,3,17,JAC 32,0,JAC,
+17,3205,1,09:46,(9:46) A.Andrews up the middle to TEN 27 for 1 yard (J.Cyprien).,10,4,15,TEN 26,0,TEN,
+17,3226,2,09:01,(9:01) (Shotgun) A.Andrews up the middle to TEN 28 for 1 yard (P.Posluszny).,9,4,16,TEN 27,0,TEN,
+17,3247,3,08:16,(8:16) (Shotgun) M.Mariota sacked at TEN 19 for -9 yards (J.Odrick).,8,4,7,TEN 28,0,TEN,
+17,3152,1,10:49,(10:49) A.Andrews up the middle to TEN 15 for 3 yards (T.Smith).,10,4,3,TEN 12,0,TEN,
+17,3266,4,07:36,"(7:36) (Punt formation) B.Kern punts 42 yards to JAC 39, Center-B.Brinkley, out of bounds.",17,4,7,TEN 19,0,TEN,PUNT
+17,3173,2,10:12,"(10:12) A.Andrews left end to TEN 21 for 6 yards (T.Smith). PENALTY on JAC-R.Miller, Defensive Holding, 5 yards, enforced at TEN 21.",7,4,14,TEN 15,0,TEN,PENALTY
+16,3125,1,10:55,(10:55) B.Bortles pass short right intended for J.Thomas INTERCEPTED by Z.Brown at TEN 12. Z.Brown ran ob at TEN 12 for no gain.,10,4,34,TEN 23,0,JAC,INT
+16,3101,2,11:37,(11:37) (Shotgun) B.Bortles pass deep left to A.Robinson to TEN 23 for 28 yards (M.Griffin).,14,4,34,JAC 49,0,JAC,
+16,3058,1,12:58,(12:58) B.Bortles pass short left to A.Robinson to TEN 47 for 10 yards (P.Cox).,10,4,10,JAC 43,0,JAC,
+16,3082,1,12:20,(12:20) (Shotgun) B.Bortles sacked at JAC 49 for -4 yards (J.Casey).,10,4,6,TEN 47,0,JAC,
+19,3399,2,05:15,(5:15) (Shotgun) M.Mariota left end to TEN 18 for -1 yards (T.Smith).,6,4,3,TEN 19,0,TEN,
+19,3444,4,03:49,"(3:49) (Punt formation) B.Kern punts 44 yards to JAC 32, Center-B.Brinkley. R.Greene to TEN 5 for 63 yards (D.Stafford).",1,4,9,TEN 24,0,TEN,PUNT
+19,3420,3,04:29,(4:29) (Shotgun) M.Mariota pass short left to D.Walker to TEN 24 for 6 yards (J.Cyprien).,7,4,9,TEN 18,0,TEN,
+19,3378,1,05:50,(5:50) A.Andrews up the middle to TEN 19 for 4 yards (P.Posluszny).,10,4,4,TEN 15,0,TEN,
+18,3310,2,07:23,(7:23) T.Yeldon up the middle to JAC 40 for 1 yard (M.Griffin; S.Hill).,10,4,1,JAC 39,0,JAC,
+18,3331,3,06:41,(6:41) (Shotgun) B.Bortles sacked at JAC 35 for -5 yards (A.Williamson).,9,4,-4,JAC 40,0,JAC,
+18,3350,4,06:04,"(6:04) (Punt formation) B.Anger punts 59 yards to TEN 6, Center-C.Tinker. H.Douglas to TEN 15 for 9 yards (H.Pullard).",14,4,-4,JAC 35,0,JAC,PUNT
+18,3288,1,07:28,(7:28) (Shotgun) B.Bortles pass incomplete short left to J.Thomas [D.Bass].,10,4,0,JAC 39,0,JAC,

@@ -1,167 +1,167 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1784,1,15:00,,10,3,1,WAS 25,0,WAS,
-9,1769,0,15:00,,0,3,0,PHI 35,0,PHI,KICKOFF
-9,1815,2,14:27,,9,3,4,WAS 26,0,WAS,
-9,1836,3,13:45,,6,3,-2,WAS 29,0,WAS,
-9,1855,4,13:10,,12,3,-2,WAS 23,0,WAS,PUNT
-18,3604,0,01:53,,0,4,77,PHI 2,0,WAS,2PPF
-18,3322,1,04:52,,10,4,0,WAS 23,0,WAS,
-18,3587,2,02:00,,6,4,77,PHI 25,1,WAS,TD
-18,3459,2,03:44,,4,4,42,PHI 38,0,WAS,
-18,3507,0,02:59,,0,4,42,,0,,TIMEOUT
-18,3476,3,03:02,,1,4,48,PHI 35,0,WAS,
-18,3344,2,04:49,,10,4,52,WAS 23,0,WAS,
-18,3525,4,02:59,,1,4,48,PHI 35,0,WAS,
-18,3570,0,02:00,,0,4,52,,0,,
-18,3549,1,02:16,,10,4,52,PHI 29,0,WAS,
-18,3300,0,04:59,,0,4,0,PHI 35,0,PHI,KICKOFF
-18,3373,1,04:23,,10,4,77,PHI 44,0,WAS,
-18,3433,0,03:02,,0,4,39,,0,,TIMEOUT
-6,1124,2,09:42,,11,2,9,WAS 30,0,WAS,
-6,1166,1,08:19,,10,2,22,WAS 42,0,WAS,
-6,1145,3,09:00,,1,2,11,WAS 40,0,WAS,
-6,1285,3,05:01,,1,2,47,PHI 27,0,WAS,
-6,1256,2,05:31,,8,2,42,PHI 34,0,WAS,
-6,1235,1,06:11,,10,2,35,PHI 36,0,WAS,
-6,1211,2,06:53,,9,2,33,PHI 46,0,WAS,
-6,1105,1,10:23,,10,2,-1,WAS 31,0,WAS,
-6,1328,0,04:11,,0,2,69,PHI 15,1,WAS,XP
-6,1082,0,10:29,,0,2,0,PHI 35,0,PHI,KICKOFF
-6,1190,1,07:36,,10,2,23,PHI 47,0,WAS,
-6,1306,1,04:19,,10,2,69,PHI 22,1,WAS,TD
-14,2655,2,15:00,,5,4,7,PHI 20,0,PHI,
-14,2618,1,00:01,,10,3,5,PHI 15,0,PHI,
-14,2596,0,00:07,,0,3,0,WAS 35,0,WAS,KICKOFF
-14,2697,4,13:45,,5,4,5,PHI 20,0,PHI,PUNT
-14,2639,0,,,0,3,5,,0,,
-14,2676,3,14:21,,3,4,5,PHI 22,0,PHI,
-7,1387,2,03:30,,7,2,17,PHI 26,0,PHI,
-7,1366,1,04:06,,10,2,3,PHI 23,0,PHI,
-7,1683,0,00:28,,0,2,77,WAS 15,1,PHI,XP
-7,1485,0,02:00,,0,2,34,,0,,
-7,1617,0,00:38,,0,2,66,,0,,TIMEOUT
-7,1663,1,00:32,,4,2,77,WAS 4,1,PHI,TD
-7,1461,3,02:14,,9,2,34,PHI 41,0,PHI,
-7,1502,1,02:00,,10,2,34,WAS 43,0,PHI,
-7,1572,1,01:07,,10,2,65,WAS 20,0,PHI,
-7,1344,0,04:11,,0,2,0,WAS 35,0,WAS,KICKOFF
-7,1524,2,01:51,,10,2,41,WAS 43,0,PHI,
-7,1634,3,00:38,,1,2,77,WAS 11,0,PHI,
-7,1593,2,00:43,,2,2,66,WAS 12,0,PHI,
-7,1418,1,03:02,,10,2,18,PHI 40,0,PHI,
-7,1439,2,02:22,,9,2,34,PHI 41,0,PHI,
-7,1548,3,01:30,,3,2,57,WAS 36,0,PHI,
-8,1732,1,00:22,,10,2,-1,WAS 7,0,WAS,
-8,1699,0,00:28,,0,2,-1,PHI 35,0,PHI,KICKOFF
-8,1753,0,,,0,2,-1,,0,,
-10,1936,2,11:28,,13,3,14,PHI 38,0,PHI,
-10,1915,1,12:09,,10,3,15,PHI 41,0,PHI,
-10,1960,3,10:49,,5,3,14,PHI 46,0,PHI,
-10,1983,4,10:06,,14,3,14,PHI 37,0,PHI,PUNT
-10,1894,1,12:50,,10,3,18,PHI 23,0,PHI,
-19,3681,1,01:13,,10,4,36,PHI 45,0,PHI,
-19,3705,1,00:53,,10,4,36,WAS 39,0,PHI,
-19,3751,1,00:42,,10,4,48,WAS 27,0,PHI,
-19,3618,0,01:53,,0,4,0,WAS 35,0,WAS,KICKOFF
-19,3836,0,00:26,,0,4,61,,0,,TIMEOUT
-19,3773,2,00:39,,10,4,48,WAS 27,0,PHI,
-19,3812,3,00:35,,10,4,61,WAS 27,0,PHI,
-19,3727,2,00:47,,10,4,48,WAS 39,0,PHI,
-19,3657,2,01:30,,6,4,36,PHI 29,0,PHI,
-19,3633,1,01:53,,10,4,4,PHI 25,0,PHI,
-19,3853,1,00:26,,10,4,61,WAS 14,0,PHI,
-19,3795,0,00:35,,0,4,48,,0,,TIMEOUT
-19,3875,2,00:21,,10,4,48,WAS 14,0,PHI,FUMBLE
-12,2236,3,05:09,,2,3,45,WAS 37,0,PHI,
-12,2212,2,05:55,,8,3,45,WAS 43,0,PHI,
-12,2156,1,07:14,,10,3,37,PHI 34,0,PHI,
-12,2258,4,05:04,,2,3,53,WAS 37,0,PHI,
-12,2359,3,04:09,,20,3,50,WAS 39,0,PHI,
-12,2132,3,07:54,,2,3,16,PHI 26,0,PHI,
-12,2065,0,09:14,,0,3,36,WAS 35,0,WAS,KICKOFF
-12,2111,2,08:30,,6,3,8,PHI 22,0,PHI,
-12,2087,1,09:08,,10,3,4,PHI 18,0,PHI,
-12,2282,1,04:23,,10,3,53,WAS 29,0,PHI,
-12,2304,2,04:18,,10,3,43,WAS 29,0,PHI,PENALTY
-12,2182,1,06:38,,10,3,39,WAS 45,0,PHI,
-12,2337,2,04:14,,20,3,43,WAS 39,0,PHI,
-12,2380,4,03:29,,13,3,36,WAS 32,0,PHI,FUMBLE
-16,2857,2,12:25,,5,4,4,WAS 31,0,WAS,
-16,2814,0,13:11,,0,4,0,PHI 35,0,PHI,KICKOFF
-16,2836,1,13:04,,10,4,5,WAS 26,0,WAS,
-16,2878,3,11:44,,6,4,4,WAS 30,0,WAS,
-16,2902,4,11:38,,6,4,4,WAS 30,0,WAS,PUNT
-11,2008,1,09:57,,10,3,81,WAS 19,0,WAS,
-11,2049,0,09:14,,0,3,81,PHI 15,1,WAS,XP
-11,2029,2,09:26,,9,3,81,WAS 20,1,WAS,TD
-3,538,2,05:15,,8,1,77,WAS 8,0,PHI,
-3,471,2,06:38,,7,1,62,WAS 20,0,PHI,
-3,559,3,04:33,,3,1,77,WAS 3,0,PHI,INT
-3,390,1,08:08,,10,1,77,PHI 20,0,PHI,PENALTY
-3,516,1,05:20,,8,1,77,WAS 8,0,PHI,
-3,447,1,07:21,,10,1,62,WAS 23,0,PHI,
-3,423,1,08:02,,10,1,57,WAS 36,0,PHI,
-3,492,3,05:58,,5,1,72,WAS 18,0,PHI,
-17,3243,3,05:50,,2,4,37,WAS 24,0,PHI,
-17,3040,3,10:14,,7,4,23,PHI 43,0,PHI,
-17,2984,1,11:27,,10,4,4,PHI 40,0,PHI,
-17,3264,0,05:03,,0,4,37,,0,,TIMEOUT
-17,3153,4,07:27,,1,4,37,WAS 34,0,PHI,
-17,3174,1,06:52,,10,4,23,WAS 32,0,PHI,PENALTY
-17,3067,1,09:33,,10,4,16,WAS 43,0,PHI,
-17,3012,2,10:43,,6,4,3,PHI 44,0,PHI,
-17,3281,4,05:03,,1,4,37,WAS 23,1,PHI,FG
-17,3219,2,06:27,,15,4,36,WAS 37,0,PHI,
-17,3088,2,08:55,,11,4,37,WAS 44,0,PHI,FUMBLE
-17,3129,3,08:06,,14,4,37,WAS 47,0,PHI,
-17,3197,1,06:30,,15,4,23,WAS 37,0,PHI,
-4,718,1,01:56,,10,1,60,PHI 22,0,WAS,
-4,611,1,03:49,,10,1,18,WAS 36,0,WAS,
-4,581,1,04:30,,10,1,16,WAS 20,0,WAS,
-4,783,4,01:09,,8,1,60,PHI 20,0,WAS,FGM
-4,761,3,01:12,,8,1,60,PHI 20,0,WAS,
-4,694,2,02:35,,9,1,58,PHI 37,0,WAS,
-4,632,2,03:09,,8,1,42,WAS 38,0,WAS,PENALTY
-4,665,1,03:05,,10,1,43,PHI 38,0,WAS,
-4,739,2,01:17,,8,1,60,PHI 20,0,WAS,
-2,329,2,09:08,,4,1,8,WAS 31,0,WAS,
-2,293,0,09:46,,0,1,0,PHI 35,0,PHI,KICKOFF
-2,350,3,08:24,,2,1,8,WAS 33,0,WAS,
-2,372,4,08:17,,2,1,8,WAS 33,0,WAS,PUNT
-2,308,1,09:46,,10,1,6,WAS 25,0,WAS,
-1,172,2,11:44,,1,1,46,WAS 37,0,PHI,
-1,274,4,09:49,,3,1,46,WAS 27,1,PHI,FG
-1,58,1,14:53,,10,1,13,PHI 27,0,PHI,
-1,103,2,13:44,,5,1,17,PHI 45,0,PHI,
-1,124,3,13:07,,6,1,27,PHI 44,0,PHI,
-1,257,0,09:49,,0,1,46,,0,,TIMEOUT
-1,82,1,14:17,,10,1,18,PHI 40,0,PHI,
-1,148,1,12:21,,10,1,36,WAS 46,0,PHI,
-1,214,2,10:32,,6,1,46,WAS 30,0,PHI,
-1,235,3,09:54,,3,1,46,WAS 27,0,PHI,
-1,36,0,15:00,,0,1,0,WAS 35,0,WAS,KICKOFF
-1,193,1,11:08,,10,1,43,WAS 34,0,PHI,
-5,1063,4,10:31,,8,2,53,WAS 18,1,PHI,FG
-5,827,2,00:31,,1,1,-1,PHI 38,0,PHI,
-5,870,3,15:00,,2,2,10,PHI 37,0,PHI,
-5,853,0,,,0,1,8,,0,,
-5,936,2,12:55,,7,2,51,WAS 29,0,PHI,
-5,803,1,01:05,,10,1,8,PHI 29,0,PHI,
-5,1006,3,11:30,,12,2,58,WAS 22,0,PHI,
-5,1030,4,10:47,,3,2,53,WAS 13,0,PHI,PENALTY
-5,891,1,14:19,,10,2,42,PHI 39,0,PHI,
-5,982,2,12:13,,10,2,49,WAS 20,0,PHI,
-5,915,1,13:33,,10,2,42,WAS 32,0,PHI,
-5,960,1,12:17,,10,2,51,WAS 20,0,PHI,
-13,2416,1,03:21,,10,3,0,WAS 46,0,WAS,
-13,2467,1,02:38,,10,3,35,PHI 33,0,WAS,
-13,2437,2,02:52,,10,3,21,WAS 46,0,WAS,TIMEOUT
-13,2560,2,00:12,,15,3,54,PHI 15,1,WAS,TD
-13,2580,0,00:07,,0,3,54,PHI 15,1,WAS,XP
-13,2515,1,01:10,,9,3,44,PHI 9,0,WAS,
-13,2494,1,01:50,,10,3,45,PHI 19,0,WAS,
-13,2536,2,00:31,,10,3,39,PHI 10,0,WAS,PENALTY
-15,2737,1,13:35,,10,4,4,WAS 16,0,WAS,
-15,2765,2,13:16,,6,4,4,WAS 20,1,WAS,TD
-20,3904,1,00:12,,10,4,-1,WAS 34,0,WAS,
-20,3925,0,00:00,,0,4,-1,,0,,
+11,2008,1,09:57,(9:57) R.Kelley left end to WAS 20 for 1 yard (B.Logan).,10,3,81,WAS 19,0,WAS,
+11,2029,2,09:26,"(9:26) (No Huddle, Shotgun) K.Cousins pass deep middle to D.Jackson for 80 yards, TOUCHDOWN.",9,3,81,WAS 20,1,WAS,TD
+11,2049,0,09:14,"D.Hopkins extra point is GOOD, Center-N.Sundberg, Holder-T.Way.",0,3,81,PHI 15,1,WAS,XP
+10,1894,1,12:50,(12:50) R.Mathews right end to PHI 41 for 18 yards (D.Ihenacho).,10,3,18,PHI 23,0,PHI,
+10,1960,3,10:49,(10:49) (Shotgun) C.Wentz sacked at PHI 37 for -9 yards (sack split by P.Smith and C.Baker).,5,3,14,PHI 46,0,PHI,
+10,1915,1,12:09,(12:09) R.Mathews left end to PHI 38 for -3 yards (E.Hood).,10,3,15,PHI 41,0,PHI,
+10,1936,2,11:28,(11:28) C.Wentz pass short right to Z.Ertz to PHI 46 for 8 yards (D.Whitner). WAS-W.Compton was injured during the play. He is Out.,13,3,14,PHI 38,0,PHI,
+10,1983,4,10:06,"(10:06) D.Jones punts 52 yards to WAS 11, Center-J.Dorenbos. J.Crowder pushed ob at WAS 19 for 8 yards (T.Burton).",14,3,14,PHI 37,0,PHI,PUNT
+13,2467,1,02:38,(2:38) K.Cousins pass short right to R.Kelley to PHI 19 for 14 yards (B.Logan).,10,3,35,PHI 33,0,WAS,
+13,2580,0,00:07,"D.Hopkins extra point is GOOD, Center-N.Sundberg, Holder-T.Way.",0,3,54,PHI 15,1,WAS,XP
+13,2560,2,00:12,"(:12) (Shotgun) K.Cousins pass short left to P.Garcon for 15 yards, TOUCHDOWN.",15,3,54,PHI 15,1,WAS,TD
+13,2437,2,02:52,"(2:52) (No Huddle, Shotgun) K.Cousins pass deep left to D.Jackson to PHI 33 for 21 yards. Philadelphia challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",10,3,21,WAS 46,0,WAS,TIMEOUT
+13,2494,1,01:50,(1:50) R.Kelley left end to PHI 9 for 10 yards (J.Hicks).,10,3,45,PHI 19,0,WAS,
+13,2416,1,03:21,(3:21) (Shotgun) R.Kelley up the middle to WAS 46 for no gain (J.Mills; C.Barwin).,10,3,0,WAS 46,0,WAS,
+13,2515,1,01:10,(1:10) (Shotgun) R.Kelley up the middle to PHI 10 for -1 yards (V.Curry; B.Allen).,9,3,44,PHI 9,0,WAS,
+13,2536,2,00:31,"(:31) (Shotgun) PENALTY on WAS-M.Moses, False Start, 5 yards, enforced at PHI 10 - No Play.",10,3,39,PHI 10,0,WAS,PENALTY
+12,2212,2,05:55,(5:55) C.Wentz pass short left to J.Matthews to WAS 37 for 6 yards (B.Breeland).,8,3,45,WAS 43,0,PHI,
+12,2132,3,07:54,(7:54) (Shotgun) C.Wentz pass short middle to T.Burton to PHI 34 for 8 yards (D.Whitner).,2,3,16,PHI 26,0,PHI,
+12,2304,2,04:18,"(4:18) (Shotgun) C.Wentz pass incomplete short left to J.Matthews. PENALTY on PHI-J.Matthews, Offensive Pass Interference, 10 yards, enforced at WAS 29 - No Play.",10,3,43,WAS 29,0,PHI,PENALTY
+12,2337,2,04:14,(4:14) (Shotgun) C.Wentz pass incomplete short middle to Z.Ertz.,20,3,43,WAS 39,0,PHI,
+12,2380,4,03:29,"(3:29) (Field Goal formation) D.Jones FUMBLES (Aborted) at WAS 40, and recovers at WAS 40. D.Jones to WAS 46 for -6 yards (J.Norman; E.Hood). 87 B. Celek in at Long Snapper.",13,3,36,WAS 32,0,PHI,FUMBLE
+12,2282,1,04:23,(4:23) C.Wentz pass incomplete short left to D.Sproles.,10,3,53,WAS 29,0,PHI,
+12,2087,1,09:08,(9:08) (Shotgun) C.Wentz pass short middle to Z.Ertz to PHI 22 for 4 yards (M.Foster).,10,3,4,PHI 18,0,PHI,
+12,2236,3,05:09,(5:09) C.Wentz pass incomplete short left to P.Turner [P.Smith].,2,3,45,WAS 37,0,PHI,
+12,2182,1,06:38,(6:38) C.Wentz pass short right to T.Burton to WAS 43 for 2 yards (B.Breeland).,10,3,39,WAS 45,0,PHI,
+12,2156,1,07:14,(7:14) R.Mathews left end pushed ob at WAS 45 for 21 yards (D.Whitner).,10,3,37,PHI 34,0,PHI,
+12,2359,3,04:09,(4:09) (Shotgun) D.Sproles left tackle to WAS 32 for 7 yards (D.Ihenacho).,20,3,50,WAS 39,0,PHI,
+12,2258,4,05:04,(5:04) (Shotgun) C.Wentz pass short middle to Z.Ertz to WAS 29 for 8 yards (M.Foster).,2,3,53,WAS 37,0,PHI,
+12,2111,2,08:30,"(8:30) (No Huddle, Shotgun) D.Sproles up the middle to PHI 26 for 4 yards (E.Hood).",6,3,8,PHI 22,0,PHI,
+12,2065,0,09:14,D.Hopkins kicks 58 yards from WAS 35 to PHI 7. P.Turner to PHI 18 for 11 yards (M.Spaight). WAS-M.Brown was injured during the play. He is Out.,0,3,36,WAS 35,0,WAS,KICKOFF
+15,2737,1,13:35,(13:35) K.Cousins pass short left to J.Crowder to WAS 20 for 4 yards (N.Carroll).,10,4,4,WAS 16,0,WAS,
+15,2765,2,13:16,"(13:16) (Shotgun) K.Cousins pass short right intended for D.Jackson INTERCEPTED by L.McKelvin at WAS 29. L.McKelvin for 29 yards, TOUCHDOWN.",6,4,4,WAS 20,1,WAS,TD
+14,2596,0,00:07,D.Hopkins kicks 66 yards from WAS 35 to PHI -1. N.Agholor to PHI 15 for 16 yards (H.Bates).,0,3,0,WAS 35,0,WAS,KICKOFF
+14,2639,0,,END QUARTER 3,0,3,5,,0,,
+14,2655,2,15:00,(15:00) (Shotgun) R.Mathews up the middle to PHI 22 for 2 yards (M.Ioannidis).,5,4,7,PHI 20,0,PHI,
+14,2618,1,00:01,(:01) D.Sproles left tackle to PHI 20 for 5 yards (M.Ioannidis).,10,3,5,PHI 15,0,PHI,
+14,2676,3,14:21,(14:21) (Shotgun) R.Mathews up the middle to PHI 20 for -2 yards (R.Jean Francois).,3,4,5,PHI 22,0,PHI,
+14,2697,4,13:45,"(13:45) D.Jones punts 54 yards to WAS 26, Center-B.Celek. J.Crowder to WAS 31 for 5 yards (C.Smith). PHI-B.Celek was injured during the play.  PENALTY on WAS-D.Everett, Illegal Blindside Block, 15 yards, enforced at WAS 31.",5,4,5,PHI 20,0,PHI,PUNT
+17,3197,1,06:30,(6:30) (Shotgun) C.Wentz pass incomplete short left to T.Burton.,15,4,23,WAS 37,0,PHI,
+17,3129,3,08:06,(8:06) (Shotgun) C.Wentz pass short middle to T.Burton to WAS 34 for 13 yards (M.Foster) [T.Murphy].,14,4,37,WAS 47,0,PHI,
+17,3012,2,10:43,(10:43) C.Wentz sacked at PHI 43 for -1 yards (M.Foster).,6,4,3,PHI 44,0,PHI,
+17,3219,2,06:27,(6:27) C.Wentz pass short left to N.Agholor to WAS 24 for 13 yards (M.Spaight).,15,4,36,WAS 37,0,PHI,
+17,2984,1,11:27,(11:27) R.Mathews right end to PHI 44 for 4 yards (J.Norman).,10,4,4,PHI 40,0,PHI,
+17,3153,4,07:27,(7:27) C.Wentz up the middle to WAS 32 for 2 yards (C.Baker).,1,4,37,WAS 34,0,PHI,
+17,3243,3,05:50,(5:50) (Shotgun) R.Mathews up the middle to WAS 23 for 1 yard (R.Kerrigan).,2,4,37,WAS 24,0,PHI,
+17,3067,1,09:33,(9:33) R.Mathews up the middle to WAS 44 for -1 yards (M.Foster).,10,4,16,WAS 43,0,PHI,
+17,3088,2,08:55,"(8:55) C.Wentz sacked at WAS 46 for -2 yards (B.Breeland). FUMBLES (B.Breeland) [B.Breeland], recovered by PHI-J.Kelce at WAS 47. J.Kelce to WAS 47 for no gain (M.Foster).",11,4,37,WAS 44,0,PHI,FUMBLE
+17,3040,3,10:14,(10:14) (Shotgun) C.Wentz pass short left to Z.Ertz to WAS 43 for 14 yards (M.Foster).,7,4,23,PHI 43,0,PHI,
+17,3174,1,06:52,"(6:52) (Shotgun) PENALTY on PHI-S.Wisniewski, False Start, 5 yards, enforced at WAS 32 - No Play.",10,4,23,WAS 32,0,PHI,PENALTY
+17,3281,4,05:03,"(5:03) C.Sturgis 41 yard field goal is GOOD, Center-T.Burton, Holder-D.Jones.",1,4,37,WAS 23,1,PHI,FG
+17,3264,0,05:03,Timeout #2 by PHI at 05:03.,0,4,37,,0,,TIMEOUT
+16,2902,4,11:38,"(11:38) T.Way punts 45 yards to PHI 25, Center-N.Sundberg, downed by WAS. PHI-D.Sproles was injured during the play.  PENALTY on WAS-D.Everett, Interference with Opportunity to Catch, 15 yards, enforced at PHI 25.",6,4,4,WAS 30,0,WAS,PUNT
+16,2814,0,13:11,C.Sturgis kicks 64 yards from PHI 35 to WAS 1. C.Thompson to WAS 26 for 25 yards (M.Jenkins).,0,4,0,PHI 35,0,PHI,KICKOFF
+16,2878,3,11:44,"(11:44) (Shotgun) K.Cousins pass deep right to J.Crowder to PHI 40 for 30 yards. Philadelphia challenged the pass completion ruling, and the play was REVERSED. (Shotgun) K.Cousins pass incomplete deep right to J.Crowder.",6,4,4,WAS 30,0,WAS,
+16,2857,2,12:25,(12:25) (Shotgun) R.Kelley left end to WAS 30 for -1 yards (B.Allen).,5,4,4,WAS 31,0,WAS,
+16,2836,1,13:04,(13:04) R.Kelley up the middle to WAS 31 for 5 yards (N.Bradham).,10,4,5,WAS 26,0,WAS,
+19,3773,2,00:39,(:39) (Shotgun) C.Wentz pass incomplete short left to R.Mathews.,10,4,48,WAS 27,0,PHI,
+19,3812,3,00:35,(:35) (Shotgun) C.Wentz pass short left to Z.Ertz to WAS 14 for 13 yards (D.Ihenacho).,10,4,61,WAS 27,0,PHI,
+19,3836,0,00:26,Timeout #3 by PHI at 00:26.,0,4,61,,0,,TIMEOUT
+19,3727,2,00:47,(:47) (Shotgun) C.Wentz pass short left to J.Matthews ran ob at WAS 27 for 12 yards (G.Toler).,10,4,48,WAS 39,0,PHI,
+19,3795,0,00:35,Timeout #3 by WAS at 00:35.,0,4,48,,0,,TIMEOUT
+19,3618,0,01:53,"D.Hopkins kicks 65 yards from WAS 35 to end zone, Touchback.",0,4,0,WAS 35,0,WAS,KICKOFF
+19,3681,1,01:13,"(1:13) (No Huddle, Shotgun) C.Wentz pass short right to T.Burton to WAS 39 for 16 yards (B.Breeland).",10,4,36,PHI 45,0,PHI,
+19,3633,1,01:53,(1:53) (Shotgun) C.Wentz pass short left to J.Matthews to PHI 29 for 4 yards (Q.Dunbar).,10,4,4,PHI 25,0,PHI,
+19,3875,2,00:21,"(:21) (Shotgun) C.Wentz sacked at WAS 22 for -8 yards (R.Kerrigan). FUMBLES (R.Kerrigan) [R.Kerrigan], RECOVERED by WAS-T.Murphy at WAS 27. T.Murphy to WAS 34 for 7 yards (R.Mathews).",10,4,48,WAS 14,0,PHI,FUMBLE
+19,3751,1,00:42,(:42) (Shotgun) C.Wentz pass incomplete short left to N.Agholor.,10,4,48,WAS 27,0,PHI,
+19,3853,1,00:26,(:26) (Shotgun) C.Wentz pass incomplete short right to N.Agholor.,10,4,61,WAS 14,0,PHI,
+19,3657,2,01:30,"(1:30) (No Huddle, Shotgun) C.Wentz pass short left to J.Matthews to PHI 45 for 16 yards (Q.Dunbar).",6,4,36,PHI 29,0,PHI,
+19,3705,1,00:53,"(:53) (No Huddle, Shotgun) C.Wentz pass incomplete short left to Z.Ertz.",10,4,36,WAS 39,0,PHI,
+18,3604,0,01:53,(Pass formation) TWO-POINT CONVERSION ATTEMPT. K.Cousins pass to J.Reed is incomplete. ATTEMPT FAILS.,0,4,77,PHI 2,0,WAS,2PPF
+18,3476,3,03:02,(3:02) (Shotgun) K.Cousins pass incomplete short right to C.Thompson [C.Barwin].,1,4,48,PHI 35,0,WAS,
+18,3433,0,03:02,Timeout #1 by WAS at 03:02.,0,4,39,,0,,TIMEOUT
+18,3587,2,02:00,"(2:00) C.Thompson left end for 25 yards, TOUCHDOWN.",6,4,77,PHI 25,1,WAS,TD
+18,3459,2,03:44,(3:44) R.Kelley up the middle to PHI 35 for 3 yards (B.Logan).,4,4,42,PHI 38,0,WAS,
+18,3373,1,04:23,(4:23) K.Cousins scrambles right end to PHI 38 for 6 yards (F.Cox).,10,4,77,PHI 44,0,WAS,
+18,3549,1,02:16,(2:16) R.Kelley up the middle to PHI 25 for 4 yards (R.McLeod; D.Vaeao).,10,4,52,PHI 29,0,WAS,
+18,3344,2,04:49,"(4:49) (Shotgun) K.Cousins pass incomplete deep left to J.Crowder (R.McLeod). Washington challenged the incomplete pass ruling, and the play was REVERSED. (Shotgun) K.Cousins pass deep left to J.Crowder to PHI 44 for 33 yards (J.Mills).",10,4,52,WAS 23,0,WAS,
+18,3507,0,02:59,Timeout #2 by WAS at 02:59.,0,4,42,,0,,TIMEOUT
+18,3570,0,02:00,Two-Minute Warning,0,4,52,,0,,
+18,3322,1,04:52,(4:52) K.Cousins pass incomplete short right to P.Garcon (L.McKelvin).,10,4,0,WAS 23,0,WAS,
+18,3525,4,02:59,(2:59) (Shotgun) K.Cousins pass short right to P.Garcon to PHI 29 for 6 yards (L.McKelvin).,1,4,48,PHI 35,0,WAS,
+18,3300,0,04:59,C.Sturgis kicks 64 yards from PHI 35 to WAS 1. C.Thompson to WAS 23 for 22 yards (N.Goode).,0,4,0,PHI 35,0,PHI,KICKOFF
+20,3904,1,00:12,(:12) K.Cousins kneels to WAS 33 for -1 yards.,10,4,-1,WAS 34,0,WAS,
+20,3925,0,00:00,END GAME,0,4,-1,,0,,
+1,214,2,10:32,(10:32) (Shotgun) R.Mathews left tackle to WAS 27 for 3 yards (S.Cravens).,6,1,46,WAS 30,0,PHI,
+1,58,1,14:53,(14:53) C.Wentz pass short left to Z.Ertz to PHI 40 for 13 yards (D.Ihenacho).,10,1,13,PHI 27,0,PHI,
+1,274,4,09:49,"(9:49) C.Sturgis 45 yard field goal is GOOD, Center-J.Dorenbos, Holder-D.Jones.",3,1,46,WAS 27,1,PHI,FG
+1,36,0,15:00,D.Hopkins kicks 65 yards from WAS 35 to PHI 0. W.Smallwood to PHI 27 for 27 yards (D.Ihenacho).,0,1,0,WAS 35,0,WAS,KICKOFF
+1,148,1,12:21,(12:21) (Shotgun) C.Wentz pass short left to Z.Ertz to WAS 37 for 9 yards (D.Ihenacho).,10,1,36,WAS 46,0,PHI,
+1,257,0,09:49,Timeout #1 by PHI at 09:49.,0,1,46,,0,,TIMEOUT
+1,124,3,13:07,(13:07) (Shotgun) C.Wentz pass short right to J.Matthews to WAS 46 for 10 yards (Q.Dunbar).,6,1,27,PHI 44,0,PHI,
+1,193,1,11:08,(11:08) R.Mathews left guard to WAS 30 for 4 yards (D.Whitner; E.Hood).,10,1,43,WAS 34,0,PHI,
+1,235,3,09:54,(9:54) C.Wentz pass incomplete short right to B.Celek [R.Kerrigan].,3,1,46,WAS 27,0,PHI,
+1,82,1,14:17,(14:17) (Shotgun) R.Mathews up the middle to PHI 45 for 5 yards (M.Foster).,10,1,18,PHI 40,0,PHI,
+1,103,2,13:44,(13:44) W.Smallwood left end to PHI 44 for -1 yards (W.Compton).,5,1,17,PHI 45,0,PHI,
+1,172,2,11:44,(11:44) C.Wentz scrambles right end ran ob at WAS 34 for 3 yards (D.Whitner).,1,1,46,WAS 37,0,PHI,
+3,471,2,06:38,(6:38) R.Mathews left end to WAS 18 for 2 yards (T.Murphy).,7,1,62,WAS 20,0,PHI,
+3,559,3,04:33,"(4:33) (Shotgun) C.Wentz pass short left intended for Z.Ertz INTERCEPTED by D.Everett at WAS -2. Touchback. The Replay Official reviewed the pass interception ruling, and the play was Upheld. The ruling on the field stands.",3,1,77,WAS 3,0,PHI,INT
+3,447,1,07:21,(7:21) C.Wentz pass short middle to T.Burton to WAS 20 for 3 yards (B.Breeland).,10,1,62,WAS 23,0,PHI,
+3,390,1,08:08,"(8:08) (Shotgun) C.Wentz pass incomplete deep left to N.Agholor. PENALTY on WAS-Q.Dunbar, Defensive Pass Interference, 44 yards, enforced at PHI 20 - No Play.",10,1,77,PHI 20,0,PHI,PENALTY
+3,423,1,08:02,(8:02) C.Wentz pass short right to Z.Ertz to WAS 23 for 13 yards (M.Foster).,10,1,57,WAS 36,0,PHI,
+3,538,2,05:15,(5:15) (Shotgun) W.Smallwood up the middle to WAS 3 for 5 yards (D.Ihenacho).,8,1,77,WAS 8,0,PHI,
+3,492,3,05:58,(5:58) (Shotgun) C.Wentz pass short right to J.Matthews to WAS 8 for 10 yards (W.Compton).,5,1,72,WAS 18,0,PHI,
+3,516,1,05:20,(5:20) (Shotgun) C.Wentz pass incomplete short left to J.Matthews.,8,1,77,WAS 8,0,PHI,
+2,308,1,09:46,(9:46) R.Kelley right end to WAS 31 for 6 yards (N.Bradham).,10,1,6,WAS 25,0,WAS,
+2,329,2,09:08,(9:08) (Shotgun) R.Kelley right end to WAS 33 for 2 yards (B.Graham).,4,1,8,WAS 31,0,WAS,
+2,372,4,08:17,"(8:17) T.Way punts 47 yards to PHI 20, Center-N.Sundberg, out of bounds.",2,1,8,WAS 33,0,WAS,PUNT
+2,293,0,09:46,"C.Sturgis kicks 65 yards from PHI 35 to end zone, Touchback.",0,1,0,PHI 35,0,PHI,KICKOFF
+2,350,3,08:24,(8:24) (Shotgun) K.Cousins pass incomplete short left to J.Crowder (L.McKelvin).,2,1,8,WAS 33,0,WAS,
+5,891,1,14:19,(14:19) C.Wentz pass deep left to Z.Ertz to WAS 32 for 29 yards (D.Ihenacho) [T.Murphy].,10,2,42,PHI 39,0,PHI,
+5,960,1,12:17,(12:17) (Shotgun) C.Wentz pass incomplete deep left to T.Burton.,10,2,51,WAS 20,0,PHI,
+5,853,0,,END QUARTER 1,0,1,8,,0,,
+5,982,2,12:13,(12:13) (Shotgun) C.Wentz pass short left to B.Celek to WAS 22 for -2 yards (W.Compton; P.Smith).,10,2,49,WAS 20,0,PHI,
+5,1063,4,10:31,"(10:31) C.Sturgis 36 yard field goal is GOOD, Center-J.Dorenbos, Holder-D.Jones.",8,2,53,WAS 18,1,PHI,FG
+5,870,3,15:00,(15:00) (Shotgun) R.Mathews up the middle to PHI 39 for 2 yards (C.Baker).,2,2,10,PHI 37,0,PHI,
+5,915,1,13:33,(13:33) D.Sproles left end to WAS 29 for 3 yards (R.Jean Francois).,10,2,42,WAS 32,0,PHI,
+5,803,1,01:05,(1:05) C.Wentz pass short left to N.Agholor pushed ob at PHI 38 for 9 yards (Q.Dunbar).,10,1,8,PHI 29,0,PHI,
+5,1006,3,11:30,(11:30) (Shotgun) C.Wentz pass short right to D.Sproles to WAS 13 for 9 yards (M.Foster).,12,2,58,WAS 22,0,PHI,
+5,827,2,00:31,(:31) W.Smallwood left end to PHI 37 for -1 yards (T.Murphy).,1,1,-1,PHI 38,0,PHI,
+5,1030,4,10:47,"(10:47) (Shotgun) PENALTY on PHI-J.Peters, False Start, 5 yards, enforced at WAS 13 - No Play.",3,2,53,WAS 13,0,PHI,PENALTY
+5,936,2,12:55,(12:55) (Shotgun) C.Wentz pass short left to B.Celek to WAS 20 for 9 yards (W.Compton).,7,2,51,WAS 29,0,PHI,
+4,632,2,03:09,"(3:09) (Shotgun) K.Cousins pass incomplete deep left to D.Jackson. PENALTY on PHI-M.Jenkins, Defensive Pass Interference, 24 yards, enforced at WAS 38 - No Play.",8,1,42,WAS 38,0,WAS,PENALTY
+4,761,3,01:12,(1:12) (Shotgun) K.Cousins pass incomplete short right to J.Crowder (L.McKelvin).,8,1,60,PHI 20,0,WAS,
+4,694,2,02:35,(2:35) (Shotgun) K.Cousins pass short left to P.Garcon to PHI 22 for 15 yards (R.McLeod).,9,1,58,PHI 37,0,WAS,
+4,718,1,01:56,(1:56) (Shotgun) R.Kelley up the middle to PHI 20 for 2 yards (J.Hicks).,10,1,60,PHI 22,0,WAS,
+4,665,1,03:05,(3:05) (Shotgun) K.Cousins pass short left to V.Davis pushed ob at PHI 37 for 1 yard (N.Carroll).,10,1,43,PHI 38,0,WAS,
+4,611,1,03:49,(3:49) R.Kelley left end to WAS 38 for 2 yards (F.Cox).,10,1,18,WAS 36,0,WAS,
+4,581,1,04:30,(4:30) K.Cousins pass short right to P.Garcon to WAS 36 for 16 yards (L.McKelvin).,10,1,16,WAS 20,0,WAS,
+4,739,2,01:17,(1:17) (Shotgun) K.Cousins pass incomplete deep left to V.Davis.,8,1,60,PHI 20,0,WAS,
+4,783,4,01:09,"(1:09) D.Hopkins 38 yard field goal is No Good, Hit Left Upright, Center-N.Sundberg, Holder-T.Way.",8,1,60,PHI 20,0,WAS,FGM
+7,1418,1,03:02,(3:02) (Shotgun) R.Mathews up the middle to PHI 41 for 1 yard (D.Everett).,10,2,18,PHI 40,0,PHI,
+7,1634,3,00:38,(:38) C.Wentz pass short right to T.Burton pushed ob at WAS 4 for 7 yards (D.Whitner) [W.Compton].,1,2,77,WAS 11,0,PHI,
+7,1524,2,01:51,(1:51) (Shotgun) C.Wentz pass short left to J.Matthews to WAS 36 for 7 yards (Q.Dunbar).,10,2,41,WAS 43,0,PHI,
+7,1617,0,00:38,Timeout #2 by PHI at 00:38.,0,2,66,,0,,TIMEOUT
+7,1344,0,04:11,D.Hopkins kicks 53 yards from WAS 35 to PHI 12. N.Agholor to PHI 23 for 11 yards (M.Spaight).,0,2,0,WAS 35,0,WAS,KICKOFF
+7,1548,3,01:30,"(1:30) (No Huddle, Shotgun) C.Wentz pass short middle to P.Turner to WAS 20 for 16 yards (B.Breeland).",3,2,57,WAS 36,0,PHI,
+7,1439,2,02:22,(2:22) C.Wentz pass incomplete short right to J.Matthews.,9,2,34,PHI 41,0,PHI,
+7,1366,1,04:06,(4:06) (Shotgun) R.Mathews up the middle to PHI 26 for 3 yards (M.Foster).,10,2,3,PHI 23,0,PHI,
+7,1663,1,00:32,"(:32) (Shotgun) C.Wentz pass short left to D.Sproles for 4 yards, TOUCHDOWN.",4,2,77,WAS 4,1,PHI,TD
+7,1683,0,00:28,"C.Sturgis extra point is GOOD, Center-J.Dorenbos, Holder-D.Jones.",0,2,77,WAS 15,1,PHI,XP
+7,1593,2,00:43,"(:43) (No Huddle, Shotgun) C.Wentz pass short right to Z.Ertz to WAS 11 for 1 yard (M.Foster).",2,2,66,WAS 12,0,PHI,
+7,1485,0,02:00,Two-Minute Warning,0,2,34,,0,,
+7,1572,1,01:07,"(1:07) (No Huddle, Shotgun) D.Sproles up the middle to WAS 12 for 8 yards (D.Whitner).",10,2,65,WAS 20,0,PHI,
+7,1387,2,03:30,(3:30) C.Wentz pass short right to J.Matthews pushed ob at PHI 40 for 14 yards (D.Whitner).,7,2,17,PHI 26,0,PHI,
+7,1461,3,02:14,(2:14) (Shotgun) C.Wentz pass short right to T.Burton to WAS 43 for 16 yards (B.Breeland).,9,2,34,PHI 41,0,PHI,
+7,1502,1,02:00,(2:00) C.Wentz pass incomplete deep right to T.Burton.,10,2,34,WAS 43,0,PHI,
+6,1285,3,05:01,(5:01) R.Kelley left end to PHI 22 for 5 yards (S.Tulloch).,1,2,47,PHI 27,0,WAS,
+6,1235,1,06:11,(6:11) R.Kelley left tackle to PHI 34 for 2 yards (S.Means; B.Logan).,10,2,35,PHI 36,0,WAS,
+6,1166,1,08:19,(8:19) K.Cousins pass short left to R.Kelley pushed ob at PHI 47 for 11 yards (N.Carroll).,10,2,22,WAS 42,0,WAS,
+6,1211,2,06:53,(6:53) (Shotgun) K.Cousins pass short right to J.Reed to PHI 36 for 10 yards (L.McKelvin).,9,2,33,PHI 46,0,WAS,
+6,1082,0,10:29,C.Sturgis kicks 59 yards from PHI 35 to WAS 6. C.Thompson to WAS 31 for 25 yards (C.Maragos).,0,2,0,PHI 35,0,PHI,KICKOFF
+6,1145,3,09:00,(9:00) (Shotgun) K.Cousins right end to WAS 42 for 2 yards (B.Graham).,1,2,11,WAS 40,0,WAS,
+6,1190,1,07:36,(7:36) R.Kelley up the middle to PHI 46 for 1 yard (N.Carroll; J.Hicks).,10,2,23,PHI 47,0,WAS,
+6,1328,0,04:11,"D.Hopkins extra point is GOOD, Center-N.Sundberg, Holder-T.Way.",0,2,69,PHI 15,1,WAS,XP
+6,1124,2,09:42,(9:42) (Shotgun) C.Thompson right end to WAS 40 for 10 yards (L.McKelvin).,11,2,9,WAS 30,0,WAS,
+6,1306,1,04:19,"(4:19) R.Kelley left tackle for 22 yards, TOUCHDOWN.",10,2,69,PHI 22,1,WAS,TD
+6,1256,2,05:31,(5:31) (Shotgun) K.Cousins pass short right to P.Garcon pushed ob at PHI 27 for 7 yards (L.McKelvin).,8,2,42,PHI 34,0,WAS,
+6,1105,1,10:23,(10:23) K.Cousins sacked at WAS 30 for -1 yards (F.Cox).,10,2,-1,WAS 31,0,WAS,
+9,1815,2,14:27,(14:27) C.Thompson left end to WAS 29 for 3 yards (B.Logan).,9,3,4,WAS 26,0,WAS,
+9,1769,0,15:00,"C.Sturgis kicks 65 yards from PHI 35 to end zone, Touchback.",0,3,0,PHI 35,0,PHI,KICKOFF
+9,1784,1,15:00,(15:00) K.Cousins pass short left to D.Jackson pushed ob at WAS 26 for 1 yard (R.McLeod).,10,3,1,WAS 25,0,WAS,
+9,1855,4,13:10,"(13:10) T.Way punts 49 yards to PHI 28, Center-N.Sundberg. D.Sproles for 72 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on PHI-Z.Ertz, Illegal Block Above the Waist, 10 yards, enforced at PHI 33.",12,3,-2,WAS 23,0,WAS,PUNT
+9,1836,3,13:45,(13:45) (Shotgun) K.Cousins sacked at WAS 23 for -6 yards (sack split by F.Cox and B.Logan).,6,3,-2,WAS 29,0,WAS,
+8,1732,1,00:22,(:22) K.Cousins kneels to WAS 6 for -1 yards.,10,2,-1,WAS 7,0,WAS,
+8,1753,0,,END QUARTER 2,0,2,-1,,0,,
+8,1699,0,00:28,"C.Sturgis kicks 64 yards from PHI 35 to WAS 1. C.Thompson to WAS 26 for 25 yards (C.Maragos). PENALTY on WAS-M.Ioannidis, Offensive Holding, 7 yards, enforced at WAS 14.",0,2,-1,PHI 35,0,PHI,KICKOFF

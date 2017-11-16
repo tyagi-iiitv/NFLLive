@@ -1,190 +1,190 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,2177,3,13:54,,16,3,-6,PHI 14,0,PHI,
-9,2116,0,15:00,,0,3,0,MIN 35,0,MIN,KICKOFF
-9,2134,1,14:57,,10,3,6,PHI 20,0,PHI,
-9,2199,4,13:48,,16,3,-6,PHI 14,0,PHI,PUNT
-9,2158,2,14:30,,4,3,-6,PHI 26,0,PHI,
-24,4205,3,03:01,,10,4,11,PHI 48,0,MIN,
-24,4424,0,01:09,,0,4,48,PHI 2,1,MIN,XP
-24,4161,1,04:25,,10,4,3,PHI 48,0,MIN,
-24,4257,2,02:12,,8,4,11,PHI 35,0,MIN,
-24,4183,2,03:43,,7,4,0,PHI 45,0,MIN,
-24,4138,0,04:26,,0,4,0,PHI 35,0,PHI,KICKOFF
-24,4346,1,02:02,,7,4,44,PHI 7,0,MIN,
-24,4406,3,01:13,,5,4,48,PHI 5,1,MIN,TD
-24,4235,1,02:56,,10,4,13,PHI 37,0,MIN,
-24,4385,2,01:57,,4,4,43,PHI 4,0,MIN,
-24,4313,3,02:08,,10,4,41,PHI 37,0,MIN,PENALTY
-24,4296,0,02:08,,0,4,11,,0,,TIMEOUT
-24,4279,0,02:08,,0,4,11,,0,,TIMEOUT
-10,2240,2,13:03,,8,3,44,50,0,MIN,
-10,2306,0,12:03,,0,3,52,PHI 2,1,MIN,XP
-10,2789,0,12:40,,0,3,52,,0,,TIMEOUT
-10,2264,1,12:40,,8,3,46,PHI 8,0,MIN,
-10,2219,1,13:41,,10,3,2,MIN 48,0,MIN,
-10,2288,2,12:07,,6,3,52,PHI 6,1,MIN,TD
-20,3659,4,09:01,,20,4,21,MIN 41,0,MIN,PUNT
-20,3538,1,11:38,,10,4,31,MIN 20,0,MIN,
-20,3608,2,10:14,,27,4,21,MIN 34,0,MIN,
-20,3637,3,09:40,,20,4,21,MIN 41,0,MIN,
-20,3563,1,10:56,,10,4,14,PHI 49,0,MIN,PENALTY
-6,1233,1,11:18,,10,2,57,MIN 27,0,PHI,
-6,1313,4,09:08,,1,2,47,MIN 18,0,PHI,PENALTY
-6,1208,2,11:52,,10,2,53,MIN 41,0,PHI,
-6,1258,2,10:40,,6,2,62,MIN 23,0,PHI,
-6,1161,1,12:15,,10,2,39,PHI 39,0,PHI,
-6,1280,3,09:54,,1,2,47,MIN 18,0,PHI,
-6,1136,3,12:50,,8,2,19,PHI 22,0,PHI,
-6,1186,1,11:59,,10,2,39,MIN 41,0,PHI,
-6,1074,0,13:19,,0,2,0,MIN 35,0,MIN,KICKOFF
-6,1092,1,13:19,,10,2,47,PHI 20,0,PHI,
-6,1114,2,12:55,,8,2,2,PHI 22,0,PHI,
-6,1352,4,08:55,,16,2,47,MIN 33,1,PHI,FG
-18,3386,2,13:04,,1,4,54,PHI 1,1,MIN,TD
-18,3317,2,14:30,,14,4,12,PHI 42,0,MIN,
-18,3364,1,13:42,,5,4,53,PHI 5,0,MIN,
-18,3234,0,00:15,,0,3,0,PHI 35,0,PHI,KICKOFF
-18,3409,0,13:01,,0,4,54,PHI 2,1,MIN,XP
-18,3297,1,15:00,,10,4,12,PHI 38,0,MIN,
-18,3339,3,14:26,,14,4,49,PHI 42,0,MIN,
-18,3256,1,00:12,,10,3,16,MIN 46,0,MIN,
-25,4528,1,00:16,,10,4,35,PHI 44,0,PHI,
-25,4456,1,01:09,,10,4,0,PHI 20,0,PHI,
-25,4441,0,01:09,,0,4,0,MIN 35,0,MIN,KICKOFF
-25,4478,2,01:04,,10,4,11,PHI 20,0,PHI,
-25,4552,0,00:00,,0,4,35,,0,,
-25,4503,1,00:40,,10,4,24,PHI 31,0,PHI,
-1,327,4,09:33,,14,1,38,PHI 37,0,MIN,FGM
-1,230,1,11:16,,10,1,37,PHI 33,0,MIN,PENALTY
-1,136,3,13:42,,1,1,12,MIN 34,0,MIN,
-1,66,0,15:00,,0,1,0,PHI 35,0,PHI,KICKOFF
-1,299,3,09:44,,13,1,38,PHI 36,0,MIN,
-1,183,2,12:35,,2,1,24,MIN 45,0,MIN,
-1,89,1,14:57,,10,1,9,MIN 25,0,MIN,
-1,205,1,11:55,,10,1,42,MIN 49,0,MIN,
-1,114,2,14:23,,1,1,9,MIN 34,0,MIN,
-1,158,1,13:07,,10,1,20,MIN 37,0,MIN,
-1,253,1,10:58,,15,1,40,PHI 38,0,MIN,
-1,278,2,10:23,,12,1,39,PHI 35,0,MIN,
-5,1010,2,14:05,,9,2,59,PHI 9,0,MIN,
-5,963,3,14:55,,7,2,53,PHI 17,0,MIN,
-5,826,1,02:31,,10,1,22,MIN 38,0,MIN,
-5,898,1,00:43,,10,1,45,PHI 20,0,MIN,
-5,988,1,14:11,,9,2,53,PHI 9,0,MIN,
-5,873,2,01:09,,9,1,42,PHI 39,0,MIN,
-5,941,2,15:00,,7,2,45,PHI 17,0,MIN,
-5,1032,3,13:26,,3,2,59,PHI 3,0,MIN,
-5,1054,4,13:22,,3,2,59,PHI 3,1,MIN,FG
-5,803,0,02:35,,0,1,0,PHI 35,0,PHI,KICKOFF
-5,851,1,01:50,,10,1,23,PHI 40,0,MIN,
-13,2631,1,07:40,,10,3,0,PHI 15,0,PHI,
-13,2698,4,06:26,,1,3,9,PHI 24,0,PHI,TIMEOUT
-13,2677,3,07:03,,1,3,9,PHI 24,0,PHI,
-13,2653,2,07:31,,10,3,9,PHI 15,0,PHI,
-21,3748,3,08:14,,8,4,2,PHI 6,0,PHI,
-21,3701,1,08:48,,10,4,2,PHI 4,0,PHI,
-21,3726,2,08:20,,8,4,2,PHI 6,0,PHI,
-21,3770,4,08:08,,8,4,2,PHI 6,0,PHI,PUNT
-23,3919,1,06:54,,10,4,14,PHI 20,0,PHI,
-23,4039,1,05:23,,4,4,71,MIN 4,0,PHI,PENALTY
-23,3903,0,06:54,,0,4,0,MIN 35,0,MIN,KICKOFF
-23,4103,0,04:26,,0,4,0,,0,,TIMEOUT
-23,3992,2,06:15,,10,4,25,PHI 45,0,PHI,
-23,4062,1,05:08,,9,4,64,MIN 9,0,PHI,
-23,4082,2,04:33,,16,4,80,MIN 16,1,PHI,TD
-23,4124,0,04:26,,0,4,80,MIN 2,1,PHI,2PS
-23,3944,1,06:32,,10,4,25,PHI 34,0,PHI,
-23,3969,1,06:20,,10,4,25,PHI 45,0,PHI,
-23,4014,3,06:10,,10,4,76,PHI 45,0,PHI,
-11,2383,2,11:24,,10,3,20,PHI 33,0,PHI,
-11,2361,1,11:29,,10,3,13,PHI 33,0,PHI,
-11,2322,0,12:03,,0,3,0,MIN 35,0,MIN,KICKOFF
-11,2433,1,10:26,,10,3,36,MIN 44,0,PHI,INT
-11,2337,1,12:03,,10,3,13,PHI 20,0,PHI,
-11,2404,3,10:48,,3,3,36,PHI 40,0,PHI,
-14,2829,4,04:45,,6,3,4,PHI 20,1,MIN,FG
-14,2778,2,05:59,,10,3,-7,PHI 24,0,MIN,
-14,2756,1,06:04,,10,3,0,PHI 24,0,MIN,
-14,2803,3,05:24,,17,3,4,PHI 31,0,MIN,
-8,2057,3,00:14,,4,2,66,MIN 36,0,PHI,
-8,1950,0,00:35,,0,2,17,,0,,TIMEOUT
-8,1992,0,00:28,,0,2,38,,0,,TIMEOUT
-8,2009,1,00:28,,10,2,44,MIN 42,0,PHI,
-8,2082,1,00:05,,10,2,66,MIN 14,1,PHI,FG
-8,1900,2,01:02,,10,2,7,PHI 20,0,PHI,
-8,1925,3,00:41,,3,2,17,PHI 27,0,PHI,
-8,1878,1,01:06,,10,2,0,PHI 20,0,PHI,
-8,2034,2,00:22,,4,2,44,MIN 36,0,PHI,
-8,1859,0,01:06,,0,2,0,MIN 35,0,MIN,KICKOFF
-8,1967,1,00:35,,10,2,38,PHI 37,0,PHI,
-19,3426,0,13:01,,0,4,0,MIN 35,0,MIN,KICKOFF
-19,3472,2,12:47,,10,4,8,PHI 44,0,PHI,
-19,3497,3,12:10,,2,4,-2,MIN 48,0,PHI,
-19,3518,4,11:44,,12,4,-2,PHI 42,0,PHI,PUNT
-19,3449,1,12:52,,10,4,0,PHI 44,0,PHI,
-22,3830,1,07:34,,10,4,31,PHI 13,0,MIN,PENALTY
-22,3887,0,06:54,,0,4,36,PHI 2,1,MIN,XP
-22,3796,1,07:55,,10,4,23,PHI 36,0,MIN,PENALTY
-22,3866,1,06:58,,5,4,36,PHI 5,1,MIN,TD
-12,2600,4,07:52,,6,3,4,MIN 39,0,MIN,PUNT
-12,2526,4,08:15,,1,3,4,MIN 44,0,MIN,PENALTY
-12,2481,2,09:30,,7,3,1,MIN 38,0,MIN,
-12,2502,3,08:51,,9,3,9,MIN 36,0,MIN,
-12,2460,1,10:10,,10,3,3,MIN 35,0,MIN,
-16,3064,2,02:32,,6,3,11,MIN 38,0,MIN,
-16,3088,1,02:04,,10,3,7,MIN 45,0,MIN,
-16,3021,0,03:14,,0,3,0,PHI 35,0,PHI,KICKOFF
-16,3043,1,03:09,,10,3,4,MIN 34,0,MIN,
-16,3109,2,01:30,,14,3,7,MIN 41,0,MIN,INT
-7,1443,1,07:40,,10,2,12,MIN 37,0,MIN,
-7,1769,2,01:18,,5,2,68,PHI 7,0,MIN,
-7,1696,2,02:38,,8,2,63,PHI 24,0,MIN,
-7,1465,2,07:05,,10,2,21,MIN 37,0,MIN,
-7,1517,1,05:54,,10,2,22,MIN 47,0,MIN,
-7,1791,3,01:14,,5,2,74,PHI 7,0,MIN,PENALTY
-7,1627,2,04:19,,9,2,46,PHI 35,0,MIN,
-7,1842,0,01:06,,0,2,75,PHI 2,1,MIN,XP
-7,1824,1,01:10,,1,2,75,PHI 1,1,MIN,TD
-7,1372,0,08:55,,0,2,0,PHI 35,0,PHI,KICKOFF
-7,1561,3,05:43,,10,2,27,MIN 47,0,MIN,PENALTY
-7,1674,1,03:14,,10,2,51,PHI 26,0,MIN,
-7,1584,3,05:43,,5,2,39,PHI 48,0,MIN,
-7,1495,3,06:35,,1,2,22,MIN 46,0,MIN,
-7,1539,2,05:49,,10,2,22,MIN 47,0,MIN,
-7,1605,1,05:01,,10,2,40,PHI 36,0,MIN,
-7,1736,1,02:00,,10,2,68,PHI 12,0,MIN,
-7,1418,2,08:21,,4,2,12,MIN 31,0,MIN,
-7,1397,1,08:52,,10,2,6,MIN 25,0,MIN,
-7,1652,3,03:35,,3,2,49,PHI 29,0,MIN,
-3,438,1,08:22,,10,1,2,MIN 9,0,MIN,
-3,485,1,06:59,,10,1,34,MIN 37,0,MIN,
-3,510,2,06:26,,4,1,91,MIN 43,1,MIN,TD
-3,531,0,06:18,,0,1,91,PHI 2,1,MIN,XP
-3,460,2,07:45,,8,1,28,MIN 11,0,MIN,
-17,3159,1,00:43,,10,3,42,MIN 28,0,PHI,
-17,3135,1,01:18,,10,3,17,MIN 45,0,PHI,
-17,3203,0,00:15,,0,3,45,MIN 2,0,PHI,2PPF
-17,3183,1,00:19,,3,3,45,MIN 3,1,PHI,TD
-4,763,3,03:02,,4,1,63,MIN 14,0,PHI,
-4,623,1,05:49,,20,1,63,PHI 26,0,PHI,
-4,589,1,05:56,,10,1,63,PHI 36,0,PHI,PENALTY
-4,783,4,02:39,,7,1,63,MIN 17,1,PHI,FG
-4,567,1,06:18,,10,1,63,PHI 20,0,PHI,
-4,645,2,05:16,,11,1,63,PHI 35,0,PHI,
-4,674,3,05:10,,11,1,63,PHI 35,0,PHI,
-4,548,0,06:18,,0,1,0,MIN 35,0,MIN,KICKOFF
-4,695,1,04:31,,10,1,63,MIN 44,0,PHI,
-4,720,1,04:05,,10,1,63,MIN 20,0,PHI,
-4,741,2,03:38,,4,1,63,MIN 14,0,PHI,
-2,348,1,09:30,,10,1,0,PHI 45,0,PHI,
-2,396,3,08:34,,10,1,0,PHI 45,0,PHI,
-2,418,4,08:29,,10,1,0,PHI 45,0,PHI,PUNT
-2,374,2,09:07,,11,1,0,PHI 44,0,PHI,
-15,3005,0,03:14,,0,3,70,MIN 2,1,PHI,XP
-15,2849,0,04:43,,0,3,0,MIN 35,0,MIN,KICKOFF
-15,2939,1,04:03,,10,3,28,PHI 43,0,PHI,
-15,2871,1,04:38,,10,3,0,PHI 30,0,PHI,
-15,2915,3,04:28,,10,3,13,PHI 30,0,PHI,
-15,2984,1,03:20,,10,3,70,MIN 30,1,PHI,TD
-15,2963,1,03:49,,10,3,40,MIN 42,0,PHI,
-15,2893,2,04:33,,10,3,0,PHI 30,0,PHI,
+24,4138,0,04:26,(Onside Kick formation) A.Henery kicks onside 13 yards from PHI 35 to PHI 48. J.Simpson (didn't try to advance) to PHI 48 for no gain (J.Casey).,0,4,0,PHI 35,0,PHI,KICKOFF
+24,4313,3,02:08,"(2:08) (Shotgun) M.Cassel pass incomplete deep right to C.Patterson. PENALTY on PHI-R.Carmichael, Defensive Pass Interference, 30 yards, enforced at PHI 37 - No Play.",10,4,41,PHI 37,0,MIN,PENALTY
+24,4161,1,04:25,(4:25) M.Asiata up the middle to PHI 45 for 3 yards (C.Barwin).,10,4,3,PHI 48,0,MIN,
+24,4406,3,01:13,"(1:13) M.Asiata left guard for 5 yards, TOUCHDOWN.",5,4,48,PHI 5,1,MIN,TD
+24,4183,2,03:43,(3:43) M.Asiata up the middle to PHI 48 for -3 yards (T.Cole).,7,4,0,PHI 45,0,MIN,
+24,4296,0,02:08,Timeout #2 by MIN at 02:08.,0,4,11,,0,,TIMEOUT
+24,4257,2,02:12,(2:12) M.Asiata up the middle to PHI 37 for -2 yards (M.Kendricks).,8,4,11,PHI 35,0,MIN,
+24,4424,0,01:09,"B.Walsh extra point is GOOD, Center-C.Loeffler, Holder-J.Locke.",0,4,48,PHI 2,1,MIN,XP
+24,4385,2,01:57,(1:57) M.Asiata right guard to PHI 5 for -1 yards (C.Thornton; M.Kendricks).,4,4,43,PHI 4,0,MIN,
+24,4346,1,02:02,(2:02) M.Asiata left tackle to PHI 4 for 3 yards (F.Cox).,7,4,44,PHI 7,0,MIN,
+24,4235,1,02:56,(2:56) M.Asiata right guard to PHI 35 for 2 yards (D.Ryans; B.Logan).,10,4,13,PHI 37,0,MIN,
+24,4279,0,02:08,Timeout #3 by PHI at 02:08.,0,4,11,,0,,TIMEOUT
+24,4205,3,03:01,(3:01) (Shotgun) M.Cassel pass short right to C.Patterson pushed ob at PHI 37 for 11 yards (B.Fletcher).,10,4,11,PHI 48,0,MIN,
+25,4478,2,01:04,"(1:04) (No Huddle, Shotgun) N.Foles pass short right to Z.Ertz to PHI 31 for 11 yards (R.Blanton).",10,4,11,PHI 20,0,PHI,
+25,4528,1,00:16,"(:16) (No Huddle, Shotgun) N.Foles pass short right to J.Avant to MIN 45 for 11 yards (R.Blanton).",10,4,35,PHI 44,0,PHI,
+25,4441,0,01:09,"B.Walsh kicks 65 yards from MIN 35 to end zone, Touchback.",0,4,0,MIN 35,0,MIN,KICKOFF
+25,4456,1,01:09,"(1:09) (No Huddle, Shotgun) N.Foles pass incomplete short middle to L.McCoy.",10,4,0,PHI 20,0,PHI,
+25,4503,1,00:40,"(:40) (No Huddle, Shotgun) N.Foles pass short middle to Z.Ertz to PHI 44 for 13 yards (R.Blanton).",10,4,24,PHI 31,0,PHI,
+25,4552,0,00:00,END GAME,0,4,35,,0,,
+20,3637,3,09:40,(9:40) M.Asiata left guard to MIN 41 for no gain (V.Curry; T.Cole).,20,4,21,MIN 41,0,MIN,
+20,3538,1,11:38,(11:38) (Shotgun) M.Cassel pass deep left to G.Jennings to PHI 49 for 31 yards (P.Chung).,10,4,31,MIN 20,0,MIN,
+20,3608,2,10:14,(10:14) (Shotgun) M.Cassel pass short left to C.Patterson to MIN 41 for 7 yards (T.Cole).,27,4,21,MIN 34,0,MIN,
+20,3659,4,09:01,"(9:01) J.Locke punts 50 yards to PHI 9, Center-J.Allen, out of bounds. PENALTY on PHI-R.Carmichael, Taunting, 5 yards, enforced at PHI 9.",20,4,21,MIN 41,0,MIN,PUNT
+20,3563,1,10:56,"(10:56) M.Asiata right end to MIN 49 for -2 yards (M.Kendricks). PENALTY on MIN-J.Simpson, Taunting, 15 yards, enforced at MIN 49.",10,4,14,PHI 49,0,MIN,PENALTY
+21,3726,2,08:20,"(8:20) (No Huddle, Shotgun) N.Foles pass incomplete deep right to Z.Ertz.",8,4,2,PHI 6,0,PHI,
+21,3701,1,08:48,(8:48) (Shotgun) N.Foles pass short left to L.McCoy to PHI 6 for 2 yards (J.Sanford) [K.Williams].,10,4,2,PHI 4,0,PHI,
+21,3770,4,08:08,"(8:08) D.Jones punts 43 yards to PHI 49, Center-J.Dorenbos. M.Sherels to PHI 36 for 13 yards (J.Casey).",8,4,2,PHI 6,0,PHI,PUNT
+21,3748,3,08:14,"(8:14) (No Huddle, Shotgun) N.Foles pass incomplete deep right to D.Jackson [S.Floyd].",8,4,2,PHI 6,0,PHI,
+22,3887,0,06:54,"B.Walsh extra point is GOOD, Center-C.Loeffler, Holder-J.Locke.",0,4,36,PHI 2,1,MIN,XP
+22,3796,1,07:55,"(7:55) (Shotgun) M.Asiata left end to PHI 26 for 10 yards (P.Chung). PENALTY on PHI-P.Chung, Unnecessary Roughness, 13 yards, enforced at PHI 26.",10,4,23,PHI 36,0,MIN,PENALTY
+22,3830,1,07:34,"(7:34) (Shotgun) M.Cassel pass short left to G.Jennings to PHI 10 for 3 yards (P.Chung). PENALTY on PHI-C.Williams, Unnecessary Roughness, 5 yards, enforced at PHI 10.",10,4,31,PHI 13,0,MIN,PENALTY
+22,3866,1,06:58,"(6:58) (Shotgun) M.Cassel pass short left to C.Patterson for 5 yards, TOUCHDOWN.",5,4,36,PHI 5,1,MIN,TD
+23,4062,1,05:08,"(5:08) (No Huddle, Shotgun) N.Foles sacked at MIN 16 for -7 yards (B.Robison).",9,4,64,MIN 9,0,PHI,
+23,4082,2,04:33,"(4:33) (No Huddle, Shotgun) N.Foles pass deep right to J.Avant for 16 yards, TOUCHDOWN.",16,4,80,MIN 16,1,PHI,TD
+23,3903,0,06:54,"B.Walsh kicks 65 yards from MIN 35 to end zone, Touchback.",0,4,0,MIN 35,0,MIN,KICKOFF
+23,3944,1,06:32,"(6:32) (No Huddle, Shotgun) N.Foles pass short left to D.Jackson pushed ob at PHI 45 for 11 yards (M.Sherels).",10,4,25,PHI 34,0,PHI,
+23,3919,1,06:54,"(6:54) (No Huddle, Shotgun) N.Foles pass short right to L.McCoy ran ob at PHI 34 for 14 yards.",10,4,14,PHI 20,0,PHI,
+23,4014,3,06:10,"(6:10) (No Huddle, Shotgun) N.Foles pass short left to D.Jackson pushed ob at MIN 4 for 51 yards (H.Smith) [J.Allen].",10,4,76,PHI 45,0,PHI,
+23,4103,0,04:26,Timeout #2 by PHI at 04:26.,0,4,0,,0,,TIMEOUT
+23,4039,1,05:23,"(5:23) (No Huddle, Shotgun) PENALTY on PHI-N.Foles, Delay of Game, 5 yards, enforced at MIN 4 - No Play.",4,4,71,MIN 4,0,PHI,PENALTY
+23,4124,0,04:26,(Pass formation) TWO-POINT CONVERSION ATTEMPT. N.Foles pass to R.Cooper is complete. ATTEMPT SUCCEEDS.,0,4,80,MIN 2,1,PHI,2PS
+23,3992,2,06:15,"(6:15) (No Huddle, Shotgun) N.Foles pass incomplete deep right to R.Cooper.",10,4,25,PHI 45,0,PHI,
+23,3969,1,06:20,"(6:20) (No Huddle, Shotgun) N.Foles pass incomplete short right to L.McCoy.",10,4,25,PHI 45,0,PHI,
+1,205,1,11:55,(11:55) M.Cassel pass short left to C.Ford to PHI 33 for 18 yards (P.Chung).,10,1,42,MIN 49,0,MIN,
+1,183,2,12:35,(12:35) M.Asiata left tackle to MIN 49 for 4 yards (F.Cox).,2,1,24,MIN 45,0,MIN,
+1,158,1,13:07,(13:07) M.Cassel pass short left to G.Jennings to MIN 45 for 8 yards (C.Williams).,10,1,20,MIN 37,0,MIN,
+1,114,2,14:23,(14:23) M.Asiata up the middle to MIN 34 for no gain (D.Ryans).,1,1,9,MIN 34,0,MIN,
+1,89,1,14:57,(14:57) M.Cassel pass short left to C.Patterson to MIN 34 for 9 yards (N.Allen).,10,1,9,MIN 25,0,MIN,
+1,136,3,13:42,(13:42) M.Asiata up the middle to MIN 37 for 3 yards (C.Barwin).,1,1,12,MIN 34,0,MIN,
+1,66,0,15:00,A.Henery kicks 46 yards from PHI 35 to MIN 19. J.Banyard to MIN 25 for 6 yards (B.Smith).,0,1,0,PHI 35,0,PHI,KICKOFF
+1,299,3,09:44,(9:44) (Shotgun) M.Cassel sacked at PHI 37 for -1 yards (C.Barwin).,13,1,38,PHI 36,0,MIN,
+1,278,2,10:23,(10:23) M.Asiata right tackle to PHI 36 for -1 yards (T.Cole).,12,1,39,PHI 35,0,MIN,
+1,253,1,10:58,(10:58) (Shotgun) M.Cassel pass short right to C.Patterson to PHI 35 for 3 yards (B.Boykin) [T.Cole].,15,1,40,PHI 38,0,MIN,
+1,230,1,11:16,"(11:16) (Shotgun) PENALTY on MIN-R.Ellison, False Start, 5 yards, enforced at PHI 33 - No Play.",10,1,37,PHI 33,0,MIN,PENALTY
+1,327,4,09:33,"(9:33) B.Walsh 55 yard field goal is No Good, Wide Left, Center-C.Loeffler, Holder-J.Locke.",14,1,38,PHI 37,0,MIN,FGM
+3,510,2,06:26,"(6:26) (Shotgun) M.Cassel pass deep right to G.Jennings for 57 yards, TOUCHDOWN.",4,1,91,MIN 43,1,MIN,TD
+3,485,1,06:59,(6:59) (Shotgun) M.Cassel pass short right to G.Jennings ran ob at MIN 43 for 6 yards.,10,1,34,MIN 37,0,MIN,
+3,531,0,06:18,"B.Walsh extra point is GOOD, Center-C.Loeffler, Holder-J.Locke.",0,1,91,PHI 2,1,MIN,XP
+3,460,2,07:45,(7:45) M.Cassel pass short left to J.Wright to MIN 37 for 26 yards (D.Ryans).,8,1,28,MIN 11,0,MIN,
+3,438,1,08:22,(8:22) M.Asiata up the middle to MIN 11 for 2 yards (M.Kendricks).,10,1,2,MIN 9,0,MIN,
+2,418,4,08:29,"(8:29) (Punt formation) D.Jones punts 46 yards to MIN 9, Center-J.Dorenbos, fair catch by M.Sherels.",10,1,0,PHI 45,0,PHI,PUNT
+2,348,1,09:30,"(9:30) (No Huddle, Shotgun) N.Foles pass short left to R.Cooper ran ob at PHI 44 for -1 yards (A.Sendejo).",10,1,0,PHI 45,0,PHI,
+2,374,2,09:07,"(9:07) (No Huddle, Shotgun) L.McCoy up the middle to PHI 45 for 1 yard (C.Greenway).",11,1,0,PHI 44,0,PHI,
+2,396,3,08:34,"(8:34) (No Huddle, Shotgun) N.Foles pass incomplete short left to Z.Ertz.",10,1,0,PHI 45,0,PHI,
+5,988,1,14:11,(14:11) (Shotgun) M.Cassel pass incomplete short middle to J.Simpson.,9,2,53,PHI 9,0,MIN,
+5,1054,4,13:22,"(13:22) B.Walsh 21 yard field goal is GOOD, Center-C.Loeffler, Holder-J.Locke.",3,2,59,PHI 3,1,MIN,FG
+5,851,1,01:50,(1:50) M.Asiata up the middle to PHI 39 for 1 yard (M.Kendricks).,10,1,23,PHI 40,0,MIN,
+5,963,3,14:55,(14:55) (Shotgun) M.Cassel pass short right to M.Asiata to PHI 9 for 8 yards (V.Curry).,7,2,53,PHI 17,0,MIN,
+5,898,1,00:43,(:43) M.Asiata up the middle to PHI 17 for 3 yards (K.Coleman).,10,1,45,PHI 20,0,MIN,
+5,873,2,01:09,(1:09) (Shotgun) M.Cassel pass deep right to J.Simpson to PHI 20 for 19 yards (R.Carmichael; D.Ryans).,9,1,42,PHI 39,0,MIN,
+5,941,2,15:00,(15:00) (Shotgun) M.Cassel pass incomplete deep middle to C.Patterson.,7,2,45,PHI 17,0,MIN,
+5,1032,3,13:26,(13:26) (Shotgun) M.Cassel pass incomplete short left to Jo.Webb.,3,2,59,PHI 3,0,MIN,
+5,803,0,02:35,A.Henery kicks 40 yards from PHI 35 to MIN 25. J.Felton to MIN 38 for 13 yards (B.Graham).,0,1,0,PHI 35,0,PHI,KICKOFF
+5,826,1,02:31,(2:31) M.Cassel pass deep middle to G.Jennings to PHI 40 for 22 yards (B.Fletcher).,10,1,22,MIN 38,0,MIN,
+5,1010,2,14:05,(14:05) (Shotgun) M.Asiata right guard to PHI 3 for 6 yards (N.Allen; M.Kendricks).,9,2,59,PHI 9,0,MIN,
+4,623,1,05:49,"(5:49) (No Huddle, Shotgun) N.Foles right end to PHI 35 for 9 yards (J.Sanford).",20,1,63,PHI 26,0,PHI,
+4,741,2,03:38,"(3:38) (No Huddle, Shotgun) L.McCoy right guard to MIN 14 for no gain (A.Cole; H.Smith).",4,1,63,MIN 14,0,PHI,
+4,695,1,04:31,"(4:31) (No Huddle, Shotgun) N.Foles pass short right to L.McCoy to MIN 20 for 24 yards (M.Sherels).",10,1,63,MIN 44,0,PHI,
+4,674,3,05:10,"(5:10) (No Huddle, Shotgun) N.Foles scrambles left tackle to MIN 44 for 21 yards (H.Smith).",11,1,63,PHI 35,0,PHI,
+4,763,3,03:02,"(3:02) (No Huddle, Shotgun) N.Foles sacked at MIN 17 for -3 yards (J.Allen).",4,1,63,MIN 14,0,PHI,
+4,783,4,02:39,"(2:39) A.Henery 35 yard field goal is GOOD, Center-J.Dorenbos, Holder-D.Jones.",7,1,63,MIN 17,1,PHI,FG
+4,589,1,05:56,"(5:56) (No Huddle, Shotgun) N.Foles pass incomplete deep left to J.Avant. PENALTY on PHI-J.Avant, Offensive Pass Interference, 10 yards, enforced at PHI 36 - No Play.",10,1,63,PHI 36,0,PHI,PENALTY
+4,645,2,05:16,"(5:16) (No Huddle, Shotgun) N.Foles pass incomplete short right to C.Polk.",11,1,63,PHI 35,0,PHI,
+4,720,1,04:05,"(4:05) (No Huddle, Shotgun) N.Foles scrambles left end to MIN 14 for 6 yards.",10,1,63,MIN 20,0,PHI,
+4,548,0,06:18,"B.Walsh kicks 74 yards from MIN 35 to PHI -9. B.Boykin, Touchback.",0,1,0,MIN 35,0,MIN,KICKOFF
+4,567,1,06:18,"(6:18) (No Huddle, Shotgun) L.McCoy left end to PHI 36 for 16 yards (H.Smith).",10,1,63,PHI 20,0,PHI,
+7,1696,2,02:38,(2:38) C.Patterson left end to PHI 12 for 12 yards (N.Allen).,8,2,63,PHI 24,0,MIN,
+7,1627,2,04:19,(4:19) M.Cassel pass short right to G.Jennings to PHI 29 for 6 yards (B.Fletcher).,9,2,46,PHI 35,0,MIN,
+7,1674,1,03:14,(3:14) M.Asiata right end to PHI 24 for 2 yards (C.Barwin).,10,2,51,PHI 26,0,MIN,
+7,1824,1,01:10,"(1:10) M.Asiata up the middle for 1 yard, TOUCHDOWN.",1,2,75,PHI 1,1,MIN,TD
+7,1791,3,01:14,"(1:14) (Shotgun) M.Cassel pass incomplete short right to J.Simpson. PENALTY on PHI-B.Fletcher, Defensive Pass Interference, 6 yards, enforced at PHI 7 - No Play.",5,2,74,PHI 7,0,MIN,PENALTY
+7,1652,3,03:35,(3:35) (Shotgun) C.Patterson right end to PHI 26 for 3 yards (B.Boykin).,3,2,49,PHI 29,0,MIN,
+7,1605,1,05:01,(5:01) M.Cassel scrambles up the middle to PHI 35 for 1 yard (C.Thornton; F.Cox).,10,2,40,PHI 36,0,MIN,
+7,1584,3,05:43,(5:43) (Shotgun) M.Cassel scrambles right end to PHI 36 for 12 yards (D.Ryans).,5,2,39,PHI 48,0,MIN,
+7,1736,1,02:00,(2:00) (Shotgun) M.Cassel pass short left to M.Asiata to PHI 7 for 5 yards (M.Kendricks; N.Allen).,10,2,68,PHI 12,0,MIN,
+7,1418,2,08:21,(8:21) (Shotgun) M.Cassel pass short left to G.Jennings to MIN 37 for 6 yards (K.Coleman).,4,2,12,MIN 31,0,MIN,
+7,1465,2,07:05,(7:05) (Shotgun) M.Cassel pass short left to G.Jennings ran ob at MIN 46 for 9 yards [B.Logan].,10,2,21,MIN 37,0,MIN,
+7,1372,0,08:55,A.Henery kicks 42 yards from PHI 35 to MIN 23. C.Ford to MIN 25 for 2 yards (C.Polk; B.Smith).,0,2,0,PHI 35,0,PHI,KICKOFF
+7,1443,1,07:40,(7:40) M.Asiata left tackle to MIN 37 for no gain (F.Cox).,10,2,12,MIN 37,0,MIN,
+7,1495,3,06:35,(6:35) M.Asiata left tackle to MIN 47 for 1 yard (F.Cox; B.Logan).,1,2,22,MIN 46,0,MIN,
+7,1842,0,01:06,"B.Walsh extra point is GOOD, Center-C.Loeffler, Holder-J.Locke.",0,2,75,PHI 2,1,MIN,XP
+7,1397,1,08:52,(8:52) M.Asiata left tackle to MIN 31 for 6 yards (T.Cole).,10,2,6,MIN 25,0,MIN,
+7,1561,3,05:43,"(5:43) (Shotgun) PENALTY on PHI-T.Cole, Neutral Zone Infraction, 5 yards, enforced at MIN 47 - No Play.",10,2,27,MIN 47,0,MIN,PENALTY
+7,1517,1,05:54,(5:54) (Shotgun) M.Cassel pass incomplete short right to M.Asiata.,10,2,22,MIN 47,0,MIN,
+7,1539,2,05:49,(5:49) M.Cassel pass incomplete deep right to G.Jennings.,10,2,22,MIN 47,0,MIN,
+7,1769,2,01:18,(1:18) (Shotgun) M.Cassel pass incomplete short left to M.Asiata.,5,2,68,PHI 7,0,MIN,
+6,1313,4,09:08,"(9:08) D.Jackson left end for 18 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on PHI-N.Foles, Low Block, 15 yards, enforced at MIN 18 - No Play.",1,2,47,MIN 18,0,PHI,PENALTY
+6,1161,1,12:15,"(12:15) (No Huddle, Shotgun) N.Foles pass deep right to D.Jackson to MIN 41 for 20 yards (M.Sherels).",10,2,39,PHI 39,0,PHI,
+6,1092,1,13:19,"(13:19) (No Huddle, Shotgun) L.McCoy right tackle to PHI 22 for 2 yards (J.Sanford; K.Williams).",10,2,47,PHI 20,0,PHI,
+6,1233,1,11:18,"(11:18) (No Huddle, Shotgun) N.Foles pass short right to Z.Ertz to MIN 23 for 4 yards (A.Cole) [K.Williams].",10,2,57,MIN 27,0,PHI,
+6,1186,1,11:59,"(11:59) (No Huddle, Shotgun) N.Foles pass incomplete deep left to R.Cooper.",10,2,39,MIN 41,0,PHI,
+6,1352,4,08:55,"(8:55) A.Henery 51 yard field goal is GOOD, Center-J.Dorenbos, Holder-D.Jones.",16,2,47,MIN 33,1,PHI,FG
+6,1074,0,13:19,"B.Walsh kicks 74 yards from MIN 35 to PHI -9. B.Boykin, Touchback.",0,2,0,MIN 35,0,MIN,KICKOFF
+6,1280,3,09:54,"(9:54) (No Huddle, Shotgun) N.Foles up the middle to MIN 18 for no gain (J.Allen).",1,2,47,MIN 18,0,PHI,
+6,1136,3,12:50,"(12:50) (No Huddle, Shotgun) N.Foles pass short right to D.Jackson to PHI 39 for 17 yards (M.Sherels) [A.Cole].",8,2,19,PHI 22,0,PHI,
+6,1114,2,12:55,"(12:55) (No Huddle, Shotgun) N.Foles pass incomplete short right to D.Jackson.",8,2,2,PHI 22,0,PHI,
+6,1258,2,10:40,"(10:40) (No Huddle, Shotgun) N.Foles scrambles up the middle to MIN 18 for 5 yards (B.Robison; A.Cole).",6,2,62,MIN 23,0,PHI,
+6,1208,2,11:52,"(11:52) (No Huddle, Shotgun) N.Foles pass short right to B.Smith to MIN 27 for 14 yards (H.Smith).",10,2,53,MIN 41,0,PHI,
+9,2199,4,13:48,"(13:48) D.Jones punts 38 yards to MIN 48, Center-J.Dorenbos, fair catch by C.Patterson.",16,3,-6,PHI 14,0,PHI,PUNT
+9,2134,1,14:57,"(14:57) (No Huddle, Shotgun) N.Foles pass short left to L.McCoy to PHI 26 for 6 yards (A.Sendejo).",10,3,6,PHI 20,0,PHI,
+9,2158,2,14:30,"(14:30) (No Huddle, Shotgun) N.Foles sacked at PHI 14 for -12 yards (B.Robison).",4,3,-6,PHI 26,0,PHI,
+9,2177,3,13:54,"(13:54) (No Huddle, Shotgun) N.Foles pass incomplete deep right to J.Avant.",16,3,-6,PHI 14,0,PHI,
+9,2116,0,15:00,"B.Walsh kicks 74 yards from MIN 35 to PHI -9. B.Boykin, Touchback.",0,3,0,MIN 35,0,MIN,KICKOFF
+8,1859,0,01:06,"B.Walsh kicks 74 yards from MIN 35 to PHI -9. B.Boykin, Touchback.",0,2,0,MIN 35,0,MIN,KICKOFF
+8,1878,1,01:06,"(1:06) (No Huddle, Shotgun) N.Foles pass incomplete short right to D.Jackson.",10,2,0,PHI 20,0,PHI,
+8,1992,0,00:28,Timeout #2 by PHI at 00:28.,0,2,38,,0,,TIMEOUT
+8,2057,3,00:14,"(:14) (No Huddle, Shotgun) N.Foles pass short right to L.McCoy to MIN 14 for 22 yards (C.Greenway).",4,2,66,MIN 36,0,PHI,
+8,2082,1,00:05,"(:05) A.Henery 33 yard field goal is GOOD, Center-J.Dorenbos, Holder-D.Jones.",10,2,66,MIN 14,1,PHI,FG
+8,1967,1,00:35,(:35) (Shotgun) N.Foles pass deep middle to D.Jackson to MIN 42 for 21 yards (A.Cole).,10,2,38,PHI 37,0,PHI,
+8,2034,2,00:22,"(:22) (No Huddle, Shotgun) N.Foles pass incomplete deep left to D.Jackson [J.Allen].",4,2,44,MIN 36,0,PHI,
+8,1950,0,00:35,Timeout #1 by PHI at 00:35.,0,2,17,,0,,TIMEOUT
+8,2009,1,00:28,(:28) (Shotgun) N.Foles pass short middle to D.Jackson pushed ob at MIN 36 for 6 yards (M.Sherels).,10,2,44,MIN 42,0,PHI,
+8,1900,2,01:02,"(1:02) (No Huddle, Shotgun) N.Foles pass short middle to R.Cooper to PHI 27 for 7 yards (A.Cole).",10,2,7,PHI 20,0,PHI,
+8,1925,3,00:41,"(:41) (No Huddle, Shotgun) N.Foles pass short left to R.Cooper to PHI 37 for 10 yards (R.Blanton).",3,2,17,PHI 27,0,PHI,
+11,2322,0,12:03,"B.Walsh kicks 65 yards from MIN 35 to end zone, Touchback.",0,3,0,MIN 35,0,MIN,KICKOFF
+11,2337,1,12:03,"(12:03) (No Huddle, Shotgun) N.Foles pass short middle to R.Cooper to PHI 33 for 13 yards (R.Blanton).",10,3,13,PHI 20,0,PHI,
+11,2433,1,10:26,(10:26) (No Huddle) N.Foles pass deep left intended for D.Jackson INTERCEPTED by S.Prater at MIN 5. S.Prater to MIN 35 for 30 yards (R.Cooper).,10,3,36,MIN 44,0,PHI,INT
+11,2404,3,10:48,"(10:48) (No Huddle, Shotgun) N.Foles pass short left to D.Jackson pushed ob at MIN 44 for 16 yards (R.Blanton).",3,3,36,PHI 40,0,PHI,
+11,2383,2,11:24,"(11:24) (No Huddle, Shotgun) L.McCoy right end to PHI 40 for 7 yards (A.Sendejo).",10,3,20,PHI 33,0,PHI,
+11,2361,1,11:29,"(11:29) (No Huddle, Shotgun) N.Foles pass incomplete short middle to D.Jackson.",10,3,13,PHI 33,0,PHI,
+10,2288,2,12:07,"(12:07) (Shotgun) M.Cassel up the middle for 6 yards, TOUCHDOWN.",6,3,52,PHI 6,1,MIN,TD
+10,2219,1,13:41,(13:41) M.Asiata left tackle to 50 for 2 yards (F.Cox; C.Williams).,10,3,2,MIN 48,0,MIN,
+10,2789,0,12:40,Timeout #1 by MIN at 12:40.,0,3,52,,0,,TIMEOUT
+10,2306,0,12:03,"B.Walsh extra point is GOOD, Center-C.Loeffler, Holder-J.Locke.",0,3,52,PHI 2,1,MIN,XP
+10,2240,2,13:03,(13:03) M.Cassel pass deep right to J.Wright to PHI 8 for 42 yards (B.Fletcher).,8,3,44,50,0,MIN,
+10,2264,1,12:40,(12:40) (Shotgun) M.Cassel pass short middle to M.Asiata to PHI 6 for 2 yards (B.Logan).,8,3,46,PHI 8,0,MIN,
+13,2653,2,07:31,"(7:31) (No Huddle, Shotgun) N.Foles pass short middle to Z.Ertz to PHI 24 for 9 yards (C.Greenway; A.Cole).",10,3,9,PHI 15,0,PHI,
+13,2631,1,07:40,(7:40) (Shotgun) N.Foles pass incomplete deep right to D.Johnson.,10,3,0,PHI 15,0,PHI,
+13,2677,3,07:03,"(7:03) (No Huddle, Shotgun) L.McCoy right end to PHI 24 for no gain (H.Smith; C.Greenway).",1,3,9,PHI 24,0,PHI,
+13,2698,4,06:26,"(6:26) (No Huddle, Shotgun) L.McCoy up the middle to PHI 24 for no gain (A.Cole; C.Greenway). Philadelphia challenged the first down ruling, and the play was Upheld. (Timeout #1 at 06:04.)",1,3,9,PHI 24,0,PHI,TIMEOUT
+12,2600,4,07:52,"(7:52) J.Locke punts 47 yards to PHI 14, Center-C.Loeffler. D.Jackson ran ob at PHI 15 for 1 yard.",6,3,4,MIN 39,0,MIN,PUNT
+12,2526,4,08:15,"(8:15) (Punt formation) PENALTY on MIN-R.Smith, False Start, 5 yards, enforced at MIN 44 - No Play.",1,3,4,MIN 44,0,MIN,PENALTY
+12,2460,1,10:10,(10:10) M.Asiata left guard to MIN 38 for 3 yards (F.Cox; T.Cole).,10,3,3,MIN 35,0,MIN,
+12,2502,3,08:51,(8:51) (Shotgun) M.Cassel pass short right to G.Jennings to MIN 44 for 8 yards (B.Boykin).,9,3,9,MIN 36,0,MIN,
+12,2481,2,09:30,(9:30) M.Asiata left tackle to MIN 36 for -2 yards (T.Cole).,7,3,1,MIN 38,0,MIN,
+15,2871,1,04:38,(4:38) (Shotgun) N.Foles pass incomplete deep left to J.Avant.,10,3,0,PHI 30,0,PHI,
+15,2915,3,04:28,"(4:28) (No Huddle, Shotgun) N.Foles pass short middle to J.Avant to PHI 43 for 13 yards (R.Blanton).",10,3,13,PHI 30,0,PHI,
+15,2963,1,03:49,(3:49) (No Huddle) L.McCoy up the middle to MIN 30 for 12 yards (H.Smith).,10,3,40,MIN 42,0,PHI,
+15,2939,1,04:03,"(4:03) (No Huddle, Shotgun) N.Foles pass short right to D.Jackson pushed ob at MIN 42 for 15 yards (M.Sherels).",10,3,28,PHI 43,0,PHI,
+15,2849,0,04:43,B.Walsh kicks 71 yards from MIN 35 to PHI -6. B.Boykin to PHI 30 for 36 yards (Jo.Webb).,0,3,0,MIN 35,0,MIN,KICKOFF
+15,2893,2,04:33,"(4:33) (No Huddle, Shotgun) N.Foles pass incomplete short left to R.Cooper.",10,3,0,PHI 30,0,PHI,
+15,2984,1,03:20,"(3:20) (No Huddle, Shotgun) N.Foles pass deep left to D.Jackson for 30 yards, TOUCHDOWN.",10,3,70,MIN 30,1,PHI,TD
+15,3005,0,03:14,"A.Henery extra point is GOOD, Center-J.Dorenbos, Holder-D.Jones.",0,3,70,MIN 2,1,PHI,XP
+14,2756,1,06:04,(6:04) (Shotgun) M.Cassel pass incomplete short right to J.Simpson.,10,3,0,PHI 24,0,MIN,
+14,2778,2,05:59,(5:59) M.Cassel sacked at PHI 31 for -7 yards (D.Ryans).,10,3,-7,PHI 24,0,MIN,
+14,2829,4,04:45,"(4:45) B.Walsh 38 yard field goal is GOOD, Center-C.Loeffler, Holder-J.Locke.",6,3,4,PHI 20,1,MIN,FG
+14,2803,3,05:24,(5:24) (Shotgun) M.Cassel pass short right to J.Wright to PHI 20 for 11 yards (R.Carmichael).,17,3,4,PHI 31,0,MIN,
+17,3135,1,01:18,(1:18) (Shotgun) N.Foles pass short middle to Z.Ertz to MIN 28 for 17 yards (A.Sendejo).,10,3,17,MIN 45,0,PHI,
+17,3159,1,00:43,"(:43) (No Huddle, Shotgun) N.Foles pass short left to B.Celek to MIN 3 for 25 yards (H.Smith).",10,3,42,MIN 28,0,PHI,
+17,3203,0,00:15,(Pass formation) TWO-POINT CONVERSION ATTEMPT. N.Foles pass to R.Cooper is incomplete. ATTEMPT FAILS.,0,3,45,MIN 2,0,PHI,2PPF
+17,3183,1,00:19,"(:19) (Shotgun) N.Foles pass short left to Z.Ertz for 3 yards, TOUCHDOWN.",3,3,45,MIN 3,1,PHI,TD
+16,3109,2,01:30,(1:30) M.Cassel pass short left intended for J.Wright INTERCEPTED by M.Kendricks at MIN 47. M.Kendricks to MIN 45 for 2 yards (C.Ford).,14,3,7,MIN 41,0,MIN,INT
+16,3043,1,03:09,(3:09) M.Asiata left tackle to MIN 38 for 4 yards (B.Graham; P.Chung).,10,3,4,MIN 34,0,MIN,
+16,3088,1,02:04,(2:04) M.Asiata up the middle to MIN 41 for -4 yards (C.Thornton).,10,3,7,MIN 45,0,MIN,
+16,3021,0,03:14,A.Henery kicks 40 yards from PHI 35 to MIN 25. J.Wright to MIN 34 for 9 yards (B.Smith).,0,3,0,PHI 35,0,PHI,KICKOFF
+16,3064,2,02:32,(2:32) M.Cassel pass short right to G.Jennings to MIN 45 for 7 yards (B.Fletcher).,6,3,11,MIN 38,0,MIN,
+19,3497,3,12:10,"(12:10) (No Huddle, Shotgun) N.Foles sacked at PHI 42 for -10 yards (J.Allen).",2,4,-2,MIN 48,0,PHI,
+19,3518,4,11:44,"(11:44) D.Jones punts 38 yards to MIN 20, Center-J.Dorenbos, fair catch by M.Sherels.",12,4,-2,PHI 42,0,PHI,PUNT
+19,3449,1,12:52,"(12:52) (No Huddle, Shotgun) N.Foles pass incomplete deep left to Z.Ertz.",10,4,0,PHI 44,0,PHI,
+19,3426,0,13:01,B.Walsh kicks 68 yards from MIN 35 to PHI -3. B.Smith to PHI 44 for 47 yards (B.Walsh; R.Smith).,0,4,0,MIN 35,0,MIN,KICKOFF
+19,3472,2,12:47,"(12:47) (No Huddle, Shotgun) N.Foles pass short middle to D.Jackson to MIN 48 for 8 yards (R.Blanton).",10,4,8,PHI 44,0,PHI,
+18,3386,2,13:04,"(13:04) M.Asiata left guard for 1 yard, TOUCHDOWN.",1,4,54,PHI 1,1,MIN,TD
+18,3234,0,00:15,A.Henery kicks 34 yards from PHI 35 to MIN 31. C.Ford to MIN 46 for 15 yards (B.Fletcher).,0,3,0,PHI 35,0,PHI,KICKOFF
+18,3364,1,13:42,(13:42) M.Asiata up the middle to PHI 1 for 4 yards (F.Cox).,5,4,53,PHI 5,0,MIN,
+18,3256,1,00:12,(:12) M.Cassel pass deep right to J.Wright pushed ob at PHI 38 for 16 yards (B.Fletcher).,10,3,16,MIN 46,0,MIN,
+18,3409,0,13:01,"B.Walsh extra point is GOOD, Center-C.Loeffler, Holder-J.Locke.",0,4,54,PHI 2,1,MIN,XP
+18,3339,3,14:26,(14:26) (Shotgun) M.Cassel pass short middle to C.Ford to PHI 5 for 37 yards (P.Chung).,14,4,49,PHI 42,0,MIN,
+18,3297,1,15:00,(15:00) M.Cassel sacked at PHI 42 for -4 yards (M.Kendricks).,10,4,12,PHI 38,0,MIN,
+18,3317,2,14:30,(14:30) (Shotgun) M.Cassel pass incomplete short left to G.Jennings.,14,4,12,PHI 42,0,MIN,

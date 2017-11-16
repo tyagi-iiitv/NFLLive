@@ -1,181 +1,181 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1221,2,11:44,,11,2,8,DET 19,0,DET,
-9,1267,4,10:51,,2,2,8,DET 28,0,DET,PUNT
-9,1176,0,12:17,,0,2,0,MIN 35,0,MIN,KICKOFF
-9,1245,3,10:58,,2,2,8,DET 28,0,DET,
-9,1195,1,12:17,,10,2,-1,DET 20,0,DET,FUMBLE
-24,3681,2,09:22,,15,4,12,MIN 37,0,DET,
-24,3862,0,06:47,,0,4,39,MIN 2,1,DET,XP
-24,3842,1,06:51,,1,4,39,MIN 1,1,DET,TD
-24,3629,3,10:04,,18,4,7,MIN 47,0,DET,PENALTY
-24,3739,1,08:33,,10,4,32,MIN 15,0,DET,
-24,3601,2,10:48,,20,4,-8,MIN 49,0,DET,
-24,3784,3,07:08,,2,4,38,MIN 7,0,DET,
-24,3579,1,10:53,,20,4,-10,MIN 49,0,DET,
-24,3662,1,09:58,,10,4,2,MIN 32,0,DET,
-24,3546,1,11:23,,10,4,-8,MIN 39,0,DET,PENALTY
-24,3706,3,08:38,,5,4,24,MIN 27,0,DET,PENALTY
-24,3763,2,07:49,,2,4,32,MIN 7,0,DET,
-10,1289,1,10:44,,10,2,-3,MIN 39,0,MIN,
-10,1334,3,09:26,,5,2,5,MIN 44,0,MIN,
-10,1356,4,09:21,,5,2,5,MIN 44,0,MIN,PUNT
-10,1310,2,10:06,,13,2,5,MIN 36,0,MIN,
-20,2853,1,06:42,,10,3,3,DET 20,0,DET,
-20,2916,0,05:45,,0,3,80,MIN 2,1,DET,XP
-20,2896,3,05:58,,7,3,80,DET 23,1,DET,TD
-20,2835,0,06:42,,0,3,0,MIN 35,0,MIN,KICKOFF
-20,2874,2,06:03,,7,3,3,DET 23,0,DET,
-6,995,2,14:09,,1,2,9,MIN 29,0,MIN,INT
-6,952,0,14:47,,0,2,0,DET 35,0,DET,KICKOFF
-6,971,1,14:45,,10,2,9,MIN 20,0,MIN,
-27,4240,4,03:19,,4,4,14,MIN 7,0,MIN,
-27,4392,0,01:56,,0,4,28,,0,,
-27,4409,3,01:56,,11,4,32,MIN 29,0,MIN,
-27,4286,2,02:53,,10,4,23,MIN 15,0,MIN,
-27,4433,4,01:30,,7,4,32,MIN 33,0,MIN,INT
-27,4368,2,02:02,,8,4,28,MIN 32,0,MIN,
-27,4154,1,04:17,,10,4,3,MIN 1,0,MIN,
-27,4175,2,03:58,,7,4,9,MIN 4,0,MIN,
-27,4310,3,02:27,,1,4,29,MIN 24,0,MIN,
-27,4347,1,02:24,,10,4,31,MIN 30,0,MIN,
-27,4223,0,03:19,,0,4,6,,0,,TIMEOUT
-27,4204,3,03:54,,1,4,6,MIN 10,0,MIN,
-27,4264,1,02:57,,10,4,14,MIN 15,0,MIN,
-18,2413,1,13:03,,10,3,21,50,0,DET,
-18,2542,1,10:44,,1,3,49,MIN 1,0,DET,
-18,2518,3,10:59,,7,3,49,MIN 16,0,DET,
-18,2617,0,10:19,,0,3,50,MIN 2,1,DET,XP
-18,2437,1,12:21,,10,3,31,MIN 29,0,DET,
-18,2479,2,11:05,,7,3,34,MIN 16,0,DET,
-18,2458,1,11:47,,10,3,34,MIN 19,0,DET,
-18,2501,0,10:59,,0,3,34,,0,,TIMEOUT
-18,2600,2,10:23,,1,3,50,MIN 1,1,DET,TD
-28,4501,0,00:00,,0,4,-4,,0,,
-28,4459,1,01:20,,10,4,-2,MIN 42,0,DET,
-28,4480,2,00:40,,12,4,-4,MIN 44,0,DET,
-26,3991,1,06:12,,10,4,6,DET 41,0,DET,
-26,4012,2,05:31,,4,4,17,DET 47,0,DET,
-26,4092,0,04:31,,0,4,23,,0,,TIMEOUT
-26,4109,3,04:31,,4,4,23,MIN 36,0,DET,
-26,4131,4,04:25,,4,4,23,MIN 36,0,DET,PUNT
-26,4033,1,04:45,,10,4,17,MIN 42,0,DET,
-26,4054,0,04:37,,0,4,17,,0,,TIMEOUT
-26,4071,2,04:37,,10,4,23,MIN 42,0,DET,
-25,3966,4,06:22,,10,4,0,MIN 16,0,MIN,PUNT
-25,3944,3,06:31,,10,4,0,MIN 16,0,MIN,
-25,3922,2,06:36,,10,4,0,MIN 16,0,MIN,
-25,3878,0,06:47,,0,4,0,DET 35,0,DET,KICKOFF
-25,3900,1,06:40,,10,4,0,MIN 16,0,MIN,
-1,244,3,11:02,,1,1,67,MIN 13,0,DET,
-1,105,1,14:15,,10,1,16,DET 32,0,DET,
-1,62,1,15:00,,10,1,0,DET 20,0,DET,
-1,84,2,14:56,,10,1,12,DET 20,0,DET,
-1,44,0,15:00,,0,1,0,MIN 35,0,MIN,KICKOFF
-1,266,4,10:57,,1,1,58,MIN 13,0,DET,FUMBLE
-1,151,3,13:33,,6,1,29,DET 36,0,DET,
-1,175,1,12:53,,10,1,58,DET 49,0,DET,
-1,129,2,13:37,,6,1,16,DET 36,0,DET,
-1,223,2,11:32,,1,1,67,MIN 13,0,DET,
-1,199,1,12:14,,10,1,67,MIN 22,0,DET,
-5,779,1,01:24,,10,1,26,MIN 33,0,DET,
-5,839,2,00:41,,10,1,26,MIN 23,0,DET,
-5,933,4,14:52,,11,2,25,MIN 24,1,DET,FG
-5,817,1,00:45,,10,1,26,MIN 23,0,DET,
-5,734,1,02:55,,10,1,3,MIN 49,0,DET,
-5,800,0,00:45,,0,1,26,,0,,TIMEOUT
-5,861,3,00:37,,10,1,35,MIN 23,0,DET,
-5,755,2,02:10,,7,1,16,MIN 46,0,DET,
-5,901,4,15:00,,1,2,25,MIN 14,0,DET,PENALTY
-13,1695,2,03:05,,9,2,1,MIN 44,0,DET,
-13,1672,2,03:25,,4,2,1,MIN 39,0,DET,PENALTY
-13,1717,3,02:59,,9,2,2,MIN 44,0,DET,FUMBLE
-13,1651,1,04:09,,10,2,6,MIN 45,0,DET,
-21,2932,0,05:45,,0,3,0,DET 35,0,DET,KICKOFF
-21,3166,1,03:00,,10,3,73,DET 15,0,MIN,
-21,2954,1,05:40,,10,3,-1,MIN 22,0,MIN,
-21,2996,3,04:20,,6,3,11,MIN 26,0,MIN,
-21,3190,1,02:21,,5,3,74,DET 5,0,MIN,
-21,3020,1,03:55,,10,3,11,MIN 33,0,MIN,
-21,3231,0,01:37,,0,3,78,DET 2,1,MIN,XP
-21,3211,2,01:44,,4,3,78,DET 4,1,MIN,TD
-21,3093,2,03:39,,5,3,63,MIN 38,0,MIN,TIMEOUT
-21,2975,2,05:07,,11,3,4,MIN 21,0,MIN,
-21,3042,2,03:50,,10,3,16,MIN 33,0,MIN,PENALTY
-23,3489,1,12:15,,10,4,16,MIN 37,0,MIN,
-23,3510,2,11:36,,9,4,16,MIN 38,0,MIN,FUMBLE
-23,3465,1,12:48,,10,4,15,MIN 22,0,MIN,
-11,1438,1,07:58,,10,2,14,DET 18,0,DET,
-11,1459,2,07:19,,7,2,16,DET 21,0,DET,
-11,1393,1,09:11,,10,2,5,DET 7,0,DET,
-11,1414,2,08:37,,5,2,11,DET 12,0,DET,
-11,1480,3,06:34,,5,2,16,DET 23,0,DET,
-11,1502,4,06:27,,5,2,16,DET 23,0,DET,PUNT
-14,1785,1,02:46,,10,2,32,MIN 35,0,MIN,PENALTY
-14,1752,1,02:50,,10,2,5,MIN 30,0,MIN,PENALTY
-14,1820,1,02:22,,10,2,32,DET 38,0,MIN,INT
-8,1087,1,13:24,,10,2,17,DET 44,0,MIN,
-8,1108,2,12:45,,14,2,61,DET 48,0,MIN,
-8,1160,0,12:17,,0,2,65,DET 2,1,MIN,XP
-8,1059,1,13:53,,10,2,65,MIN 35,0,MIN,
-8,1143,1,12:22,,4,2,65,DET 4,1,MIN,TD
-19,2633,0,10:19,,0,3,0,DET 35,0,DET,KICKOFF
-19,2652,1,10:19,,10,3,1,MIN 20,0,MIN,
-19,2731,1,08:46,,5,3,37,MIN 46,0,MIN,
-19,2673,2,09:41,,9,3,21,MIN 21,0,MIN,
-19,2697,1,09:04,,10,3,26,MIN 41,0,MIN,PENALTY
-19,2752,1,08:18,,10,3,44,DET 43,0,MIN,
-19,2794,3,06:52,,1,3,46,DET 34,0,MIN,
-19,2816,4,06:47,,1,3,46,DET 34,1,MIN,FG
-19,2773,2,07:40,,3,3,46,DET 36,0,MIN,
-22,3393,2,13:35,,8,4,23,DET 43,0,DET,
-22,3351,3,15:00,,1,4,21,DET 40,0,DET,
-22,3290,1,01:06,,10,3,15,DET 31,0,DET,
-22,3247,0,01:37,,0,3,0,MIN 35,0,MIN,KICKOFF
-22,3372,1,14:18,,10,4,23,DET 41,0,DET,
-22,3419,3,13:29,,8,4,29,DET 43,0,DET,
-22,3443,4,12:56,,2,4,29,DET 49,0,DET,PUNT
-22,3311,2,00:28,,6,3,20,DET 35,0,DET,
-22,3266,1,01:37,,10,3,15,DET 20,0,DET,
-12,1559,2,05:41,,14,2,-4,MIN 14,0,MIN,
-12,1538,1,06:17,,10,2,-4,MIN 18,0,MIN,
-12,1580,3,05:00,,14,2,5,MIN 14,0,MIN,
-12,1604,4,04:20,,5,2,5,MIN 23,0,MIN,PUNT
-16,2172,1,00:10,,10,2,-1,MIN 20,0,MIN,
-16,2153,0,00:10,,0,2,0,DET 35,0,DET,KICKOFF
-7,1033,1,14:01,,10,2,0,MIN 39,0,DET,INT
-3,464,1,07:49,,10,1,38,DET 47,0,DET,
-3,354,1,10:39,,10,1,7,DET 20,0,DET,
-3,443,2,08:26,,4,1,27,DET 42,0,DET,
-3,335,0,10:39,,0,1,0,MIN 35,0,MIN,KICKOFF
-3,509,1,06:20,,10,1,60,MIN 20,0,DET,
-3,399,1,09:25,,10,1,17,DET 36,0,DET,
-3,563,2,06:17,,10,1,65,MIN 20,0,DET,
-3,375,2,10:03,,3,1,16,DET 27,0,DET,
-3,485,1,07:05,,10,1,60,MIN 42,0,DET,
-3,608,4,05:00,,5,1,65,MIN 15,1,DET,FG
-3,420,2,08:48,,9,1,22,DET 37,0,DET,PENALTY
-3,584,3,05:40,,9,1,65,MIN 19,0,DET,
-17,2281,1,15:00,,10,3,0,MIN 20,0,MIN,
-17,2388,4,13:15,,11,3,-1,MIN 19,0,MIN,PUNT
-17,2335,3,13:57,,8,3,-6,MIN 22,0,MIN,
-17,2314,2,14:34,,10,3,2,MIN 20,0,MIN,
-17,2354,4,13:22,,16,3,-1,MIN 14,0,MIN,PENALTY
-17,2262,0,15:00,,0,3,0,DET 35,0,DET,KICKOFF
-4,688,3,03:41,,11,1,1,MIN 19,0,MIN,
-4,646,1,04:55,,10,1,2,MIN 20,0,MIN,
-4,627,0,04:55,,0,1,0,DET 35,0,DET,KICKOFF
-4,667,2,04:22,,8,1,-1,MIN 22,0,MIN,
-4,709,4,03:06,,9,1,1,MIN 21,0,MIN,PUNT
-2,302,1,10:52,,10,1,78,MIN 22,1,MIN,TD
-2,319,0,10:39,,0,1,78,DET 2,1,MIN,XP
-15,1851,1,02:14,,10,2,7,DET 30,0,DET,
-15,1937,2,01:14,,10,2,7,DET 42,0,DET,PENALTY
-15,2025,1,00:58,,10,2,57,MIN 25,0,DET,
-15,2001,1,01:06,,10,2,45,MIN 36,0,DET,
-15,2049,1,00:33,,10,2,68,MIN 13,0,DET,
-15,2137,0,00:10,,0,2,70,MIN 2,1,DET,XP
-15,1892,2,02:00,,3,2,12,DET 37,0,DET,
-15,2073,1,00:12,,2,2,70,MIN 2,1,DET,TD
-15,1916,1,01:40,,10,2,12,DET 42,0,DET,
-15,1960,2,01:12,,15,2,34,DET 37,0,DET,
-15,1984,0,01:06,,0,2,34,,0,,TIMEOUT
+24,3629,3,10:04,"(10:04) (Shotgun) M.Stafford pass incomplete short middle to J.Fauria. PENALTY on MIN-L.Guion, Roughing the Passer, 15 yards, enforced at MIN 47 - No Play.",18,4,7,MIN 47,0,DET,PENALTY
+24,3546,1,11:23,"(11:23) (Shotgun) R.Bush right end to MIN 34 for 5 yards (E.Griffen; L.Guion). PENALTY on DET-N.Burleson, Offensive Holding, 10 yards, enforced at MIN 39 - No Play.",10,4,-8,MIN 39,0,DET,PENALTY
+24,3763,2,07:49,(7:49) (Shotgun) R.Bush left tackle to MIN 7 for no gain (C.Greenway; E.Henderson).,2,4,32,MIN 7,0,DET,
+24,3579,1,10:53,(10:53) (Shotgun) M.Stafford pass incomplete short left to R.Bush (J.Allen).,20,4,-10,MIN 49,0,DET,
+24,3784,3,07:08,"(7:08) (Shotgun) R.Bush right tackle for 7 yards, TOUCHDOWN. The Replay Assistant challenged the runner broke the plane ruling, and the play was REVERSED. (Shotgun) R.Bush right tackle to MIN 1 for 6 yards (J.Sanford).",2,4,38,MIN 7,0,DET,
+24,3662,1,09:58,(9:58) (Shotgun) M.Stafford sacked at MIN 37 for -5 yards (J.Allen).,10,4,2,MIN 32,0,DET,
+24,3862,0,06:47,"D.Akers extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin.",0,4,39,MIN 2,1,DET,XP
+24,3681,2,09:22,(9:22) (Shotgun) M.Stafford pass short left to P.Edwards to MIN 27 for 10 yards (H.Smith).,15,4,12,MIN 37,0,DET,
+24,3601,2,10:48,(10:48) (Shotgun) M.Stafford pass short left to R.Bush to MIN 47 for 2 yards (H.Smith).,20,4,-8,MIN 49,0,DET,
+24,3842,1,06:51,"(6:51) M.Stafford pass short right to J.Fauria for 1 yard, TOUCHDOWN.",1,4,39,MIN 1,1,DET,TD
+24,3739,1,08:33,(8:33) (Shotgun) M.Stafford pass short right to C.Johnson to MIN 7 for 8 yards (X.Rhodes).,10,4,32,MIN 15,0,DET,
+24,3706,3,08:38,"(8:38) (Shotgun) M.Stafford pass incomplete short right to C.Johnson. PENALTY on MIN-X.Rhodes, Defensive Pass Interference, 12 yards, enforced at MIN 27 - No Play.",5,4,24,MIN 27,0,DET,PENALTY
+25,3878,0,06:47,S.Martin kicks 73 yards from DET 35 to MIN -8. C.Patterson to MIN 16 for 24 yards (K.Durham; T.Whitehead).,0,4,0,DET 35,0,DET,KICKOFF
+25,3922,2,06:36,(6:36) (Shotgun) C.Ponder pass incomplete deep right to K.Rudolph.,10,4,0,MIN 16,0,MIN,
+25,3944,3,06:31,(6:31) (Shotgun) C.Ponder pass incomplete deep left to G.Jennings [N.Suh].,10,4,0,MIN 16,0,MIN,
+25,3966,4,06:22,"(6:22) J.Locke punts 54 yards to DET 30, Center-C.Loeffler. M.Spurlock to DET 41 for 11 yards (A.Jefferson).",10,4,0,MIN 16,0,MIN,PUNT
+25,3900,1,06:40,(6:40) (Shotgun) C.Ponder pass incomplete short right to G.Jennings.,10,4,0,MIN 16,0,MIN,
+26,4092,0,04:31,Timeout #2 by MIN at 04:31.,0,4,23,,0,,TIMEOUT
+26,4054,0,04:37,Timeout #1 by MIN at 04:37.,0,4,17,,0,,TIMEOUT
+26,4012,2,05:31,(5:31) R.Bush up the middle to MIN 42 for 11 yards (J.Sanford).,4,4,17,DET 47,0,DET,
+26,4071,2,04:37,(4:37) J.Bell left tackle to MIN 36 for 6 yards (C.Greenway).,10,4,23,MIN 42,0,DET,
+26,4033,1,04:45,(4:45) R.Bush right tackle to MIN 42 for no gain (B.Robison).,10,4,17,MIN 42,0,DET,
+26,4131,4,04:25,"(4:25) S.Martin punts 35 yards to MIN 1, Center-D.Muhlbach, downed by DET-M.Spurlock.",4,4,23,MIN 36,0,DET,PUNT
+26,4109,3,04:31,(4:31) (Shotgun) M.Stafford pass incomplete deep right to R.Bush.,4,4,23,MIN 36,0,DET,
+26,3991,1,06:12,(6:12) R.Bush right tackle to DET 47 for 6 yards (E.Henderson).,10,4,6,DET 41,0,DET,
+27,4310,3,02:27,"(2:27) (No Huddle, Shotgun) C.Ponder pass short left to J.Simpson pushed ob at MIN 30 for 6 yards (D.Bentley; R.Mathis).",1,4,29,MIN 24,0,MIN,
+27,4175,2,03:58,"(3:58) (No Huddle, Shotgun) C.Ponder pass short right to K.Rudolph ran ob at MIN 10 for 6 yards (C.Houston).",7,4,9,MIN 4,0,MIN,
+27,4264,1,02:57,"(2:57) (No Huddle, Shotgun) C.Ponder pass incomplete deep right to J.Wright (C.Houston).",10,4,14,MIN 15,0,MIN,
+27,4409,3,01:56,"(1:56) (Shotgun) C.Ponder pass short left to G.Jennings to MIN 33 for 4 yards (D.Levy, E.Ansah).",11,4,32,MIN 29,0,MIN,
+27,4154,1,04:17,(4:17) (Shotgun) A.Peterson up the middle to MIN 4 for 3 yards (I.Idonije).,10,4,3,MIN 1,0,MIN,
+27,4392,0,01:56,Two-Minute Warning,0,4,28,,0,,
+27,4368,2,02:02,"(2:02) (No Huddle, Shotgun) C.Ponder pass short left to A.Peterson to MIN 29 for -3 yards (R.Mathis).",8,4,28,MIN 32,0,MIN,
+27,4240,4,03:19,"(3:19) (Shotgun) C.Ponder pass short right to A.Peterson to MIN 15 for 8 yards (D.Bentley, D.Levy).",4,4,14,MIN 7,0,MIN,
+27,4433,4,01:30,"(1:30) (No Huddle, Shotgun) C.Ponder pass deep right intended for K.Rudolph INTERCEPTED by G.Quin at DET 43. G.Quin to MIN 42 for 15 yards (J.Wright).",7,4,32,MIN 33,0,MIN,INT
+27,4347,1,02:24,(2:24) (Shotgun) A.Peterson up the middle to MIN 32 for 2 yards (D.Levy; N.Fairley).,10,4,31,MIN 30,0,MIN,
+27,4286,2,02:53,(2:53) (Shotgun) C.Ponder pass short right to A.Peterson to MIN 24 for 9 yards (R.Mathis).,10,4,23,MIN 15,0,MIN,
+27,4204,3,03:54,(3:54) (Shotgun) C.Ponder sacked at MIN 7 for -3 yards (sack split by E.Ansah and N.Fairley).,1,4,6,MIN 10,0,MIN,
+27,4223,0,03:19,Timeout #3 by DET at 03:19.,0,4,6,,0,,TIMEOUT
+20,2835,0,06:42,"B.Walsh kicks 73 yards from MIN 35 to DET -8. M.Spurlock, Touchback.",0,3,0,MIN 35,0,MIN,KICKOFF
+20,2896,3,05:58,"(5:58) (Shotgun) M.Stafford pass short middle to R.Bush for 77 yards, TOUCHDOWN.",7,3,80,DET 23,1,DET,TD
+20,2853,1,06:42,(6:42) R.Bush right tackle to DET 23 for 3 yards (F.Evans).,10,3,3,DET 20,0,DET,
+20,2916,0,05:45,"D.Akers extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin.",0,3,80,MIN 2,1,DET,XP
+20,2874,2,06:03,(6:03) (Shotgun) M.Stafford pass incomplete short middle to B.Pettigrew [B.Robison].,7,3,3,DET 23,0,DET,
+21,3231,0,01:37,"B.Walsh extra point is GOOD, Center-C.Loeffler, Holder-J.Locke.",0,3,78,DET 2,1,MIN,XP
+21,3211,2,01:44,"(1:44) C.Ponder pass short left to A.Peterson for 4 yards, TOUCHDOWN.",4,3,78,DET 4,1,MIN,TD
+21,2932,0,05:45,S.Martin kicks 73 yards from DET 35 to MIN -8. C.Patterson to MIN 22 for 30 yards (D.Carey).,0,3,0,DET 35,0,DET,KICKOFF
+21,2996,3,04:20,(4:20) (Shotgun) C.Ponder pass short left to J.Simpson pushed ob at MIN 33 for 7 yards (D.Slay).,6,3,11,MIN 26,0,MIN,
+21,3020,1,03:55,(3:55) (Shotgun) C.Ponder pass incomplete deep left to G.Jennings.,10,3,11,MIN 33,0,MIN,
+21,3093,2,03:39,"(3:39) C.Ponder pass deep middle to J.Simpson to DET 15 for 47 yards (L.Delmas). Detroit challenged the incomplete pass ruling, and the play was Upheld. (Timeout #2.)",5,3,63,MIN 38,0,MIN,TIMEOUT
+21,3190,1,02:21,(2:21) A.Peterson left end to DET 4 for 1 yard (R.Mathis; W.Young).,5,3,74,DET 5,0,MIN,
+21,2954,1,05:40,(5:40) A.Peterson up the middle to MIN 21 for -1 yards (W.Young).,10,3,-1,MIN 22,0,MIN,
+21,3042,2,03:50,"(3:50) (Shotgun) C.Ponder sacked at MIN 26 for -7 yards (E.Ansah). FUMBLES (E.Ansah), RECOVERED by DET-N.Suh at MIN 22. PENALTY on DET-E.Ansah, Defensive Offside, 5 yards, enforced at MIN 33 - No Play.",10,3,16,MIN 33,0,MIN,PENALTY
+21,3166,1,03:00,(3:00) C.Ponder pass short left to C.Patterson to DET 5 for 10 yards (D.Levy).,10,3,73,DET 15,0,MIN,
+21,2975,2,05:07,(5:07) A.Peterson left end to MIN 26 for 5 yards (D.Slay).,11,3,4,MIN 21,0,MIN,
+22,3393,2,13:35,(13:35) M.Stafford pass incomplete deep right. Ball thrown away.,8,4,23,DET 43,0,DET,
+22,3247,0,01:37,"B.Walsh kicks 65 yards from MIN 35 to end zone, Touchback.",0,3,0,MIN 35,0,MIN,KICKOFF
+22,3372,1,14:18,(14:18) J.Bell up the middle to DET 43 for 2 yards (H.Smith; L.Guion).,10,4,23,DET 41,0,DET,
+22,3443,4,12:56,"(12:56) S.Martin punts 29 yards to MIN 22, Center-D.Muhlbach, out of bounds.",2,4,29,DET 49,0,DET,PUNT
+22,3351,3,15:00,(15:00) M.Stafford up the middle to DET 41 for 1 yard (E.Henderson).,1,4,21,DET 40,0,DET,
+22,3266,1,01:37,(1:37) M.Stafford pass short left to P.Edwards to DET 31 for 11 yards (C.Cook).,10,3,15,DET 20,0,DET,
+22,3311,2,00:28,(:28) M.Stafford pass short right to B.Pettigrew to DET 40 for 5 yards (E.Henderson).,6,3,20,DET 35,0,DET,
+22,3290,1,01:06,(1:06) J.Bell left tackle to DET 35 for 4 yards (E.Henderson; J.Sanford).,10,3,15,DET 31,0,DET,
+22,3419,3,13:29,(13:29) (Shotgun) M.Stafford pass short left to J.Bell to DET 49 for 6 yards (H.Smith).,8,4,29,DET 43,0,DET,
+23,3489,1,12:15,(12:15) A.Peterson right tackle to MIN 38 for 1 yard (I.Idonije).,10,4,16,MIN 37,0,MIN,
+23,3465,1,12:48,(12:48) (Shotgun) C.Ponder pass short middle to J.Simpson to MIN 37 for 15 yards (R.Mathis).,10,4,15,MIN 22,0,MIN,
+23,3510,2,11:36,"(11:36) C.Ponder FUMBLES (Aborted) at MIN 36, RECOVERED by DET-N.Fairley at MIN 39. N.Fairley to MIN 39 for no gain (A.Peterson).",9,4,16,MIN 38,0,MIN,FUMBLE
+28,4501,0,00:00,END GAME,0,4,-4,,0,,
+28,4459,1,01:20,(1:20) M.Stafford kneels to MIN 44 for -2 yards.,10,4,-2,MIN 42,0,DET,
+28,4480,2,00:40,(:40) M.Stafford kneels to MIN 46 for -2 yards.,12,4,-4,MIN 44,0,DET,
+1,151,3,13:33,(13:33) (Shotgun) M.Stafford pass short middle to R.Bush to DET 49 for 13 yards (J.Sanford).,6,1,29,DET 36,0,DET,
+1,199,1,12:14,(12:14) (Shotgun) M.Stafford pass short right to C.Johnson to MIN 13 for 9 yards (E.Henderson; C.Greenway).,10,1,67,MIN 22,0,DET,
+1,44,0,15:00,"B.Walsh kicks 74 yards from MIN 35 to DET -9. M.Spurlock, Touchback.",0,1,0,MIN 35,0,MIN,KICKOFF
+1,244,3,11:02,(11:02) M.Stafford pass incomplete short right to R.Bush.,1,1,67,MIN 13,0,DET,
+1,62,1,15:00,(15:00) M.Stafford pass incomplete short right to C.Johnson.,10,1,0,DET 20,0,DET,
+1,266,4,10:57,"(10:57) (Field Goal formation) S.Martin FUMBLES (Aborted) at MIN 21, and recovers at MIN 22. S.Martin to MIN 22 for no gain (C.Cook).",1,1,58,MIN 13,0,DET,FUMBLE
+1,129,2,13:37,(13:37) (Shotgun) M.Stafford pass incomplete short left to R.Bush (J.Allen).,6,1,16,DET 36,0,DET,
+1,175,1,12:53,(12:53) M.Stafford pass short right to J.Bell to MIN 22 for 29 yards (H.Smith).,10,1,58,DET 49,0,DET,
+1,223,2,11:32,(11:32) (Shotgun) R.Bush up the middle to MIN 13 for no gain (F.Evans; B.Robison).,1,1,67,MIN 13,0,DET,
+1,84,2,14:56,(14:56) R.Bush left tackle to DET 32 for 12 yards (C.Greenway).,10,1,12,DET 20,0,DET,
+1,105,1,14:15,(14:15) M.Stafford pass short right to J.Fauria to DET 36 for 4 yards (J.Robinson).,10,1,16,DET 32,0,DET,
+3,584,3,05:40,(5:40) (Shotgun) M.Stafford pass short right to N.Burleson to MIN 15 for 4 yards (J.Robinson).,9,1,65,MIN 19,0,DET,
+3,335,0,10:39,"B.Walsh kicks 65 yards from MIN 35 to end zone, Touchback.",0,1,0,MIN 35,0,MIN,KICKOFF
+3,464,1,07:49,(7:49) R.Bush right tackle to MIN 42 for 11 yards (J.Allen; J.Sanford).,10,1,38,DET 47,0,DET,
+3,563,2,06:17,(6:17) (Shotgun) R.Bush up the middle to MIN 19 for 1 yard (F.Evans).,10,1,65,MIN 20,0,DET,
+3,608,4,05:00,"(5:00) D.Akers 33 yard field goal is GOOD, Center-D.Muhlbach, Holder-S.Martin.",5,1,65,MIN 15,1,DET,FG
+3,443,2,08:26,(8:26) (Shotgun) M.Stafford scrambles left tackle to DET 47 for 5 yards (J.Allen).,4,1,27,DET 42,0,DET,
+3,354,1,10:39,(10:39) R.Bush right end to DET 27 for 7 yards (E.Henderson).,10,1,7,DET 20,0,DET,
+3,509,1,06:20,"(6:20) (Shotgun) M.Stafford pass deep middle to C.Johnson for 20 yards, TOUCHDOWN. The Replay Assistant challenged the incomplete pass ruling, and the play was REVERSED. (Shotgun) M.Stafford pass incomplete deep middle to C.Johnson.",10,1,60,MIN 20,0,DET,
+3,420,2,08:48,"(8:48) (Shotgun) PENALTY on MIN-F.Evans, Encroachment, 5 yards, enforced at DET 37 - No Play.",9,1,22,DET 37,0,DET,PENALTY
+3,399,1,09:25,(9:25) R.Bush left tackle to DET 37 for 1 yard (F.Evans).,10,1,17,DET 36,0,DET,
+3,375,2,10:03,(10:03) M.Stafford pass short right to P.Edwards to DET 36 for 9 yards (J.Sanford).,3,1,16,DET 27,0,DET,
+3,485,1,07:05,(7:05) M.Stafford pass short right to J.Fauria to MIN 20 for 22 yards (C.Greenway).,10,1,60,MIN 42,0,DET,
+2,302,1,10:52,"(10:52) A.Peterson up the middle for 78 yards, TOUCHDOWN.",10,1,78,MIN 22,1,MIN,TD
+2,319,0,10:39,"B.Walsh extra point is GOOD, Center-C.Loeffler, Holder-J.Locke.",0,1,78,DET 2,1,MIN,XP
+5,901,4,15:00,"(15:00) J.Bell up the middle to MIN 12 for 2 yards (E.Henderson). PENALTY on DET-B.Pettigrew, Offensive Holding, 10 yards, enforced at MIN 14 - No Play.",1,2,25,MIN 14,0,DET,PENALTY
+5,755,2,02:10,(2:10) (Shotgun) M.Stafford pass short left to C.Johnson to MIN 33 for 13 yards (H.Smith).,7,1,16,MIN 46,0,DET,
+5,861,3,00:37,(:37) (Shotgun) M.Stafford pass short left to J.Bell to MIN 14 for 9 yards (C.Cook) [J.Allen].,10,1,35,MIN 23,0,DET,
+5,839,2,00:41,(:41) (Shotgun) M.Stafford pass incomplete deep right to C.Johnson.,10,1,26,MIN 23,0,DET,
+5,779,1,01:24,"(1:24) J.Bell right tackle to MIN 23 for 10 yards (J.Sanford, B.Robison).",10,1,26,MIN 33,0,DET,
+5,734,1,02:55,(2:55) R.Bush right tackle pushed ob at MIN 46 for 3 yards (J.Sanford).,10,1,3,MIN 49,0,DET,
+5,933,4,14:52,"(14:52) D.Akers 42 yard field goal is GOOD, Center-D.Muhlbach, Holder-S.Martin.",11,2,25,MIN 24,1,DET,FG
+5,800,0,00:45,Timeout #1 by DET at 00:45.,0,1,26,,0,,TIMEOUT
+5,817,1,00:45,(:45) (Shotgun) M.Stafford pass incomplete short left to T.Scheffler.,10,1,26,MIN 23,0,DET,
+4,667,2,04:22,(4:22) A.Peterson right end to MIN 19 for -3 yards (Tr.Lewis).,8,1,-1,MIN 22,0,MIN,
+4,709,4,03:06,"(3:06) J.Locke punts 36 yards to DET 43, Center-C.Loeffler. M.Spurlock to MIN 49 for 8 yards (R.Blanton).",9,1,1,MIN 21,0,MIN,PUNT
+4,627,0,04:55,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,1,0,DET 35,0,DET,KICKOFF
+4,688,3,03:41,(3:41) (Shotgun) C.Ponder scrambles up the middle to MIN 21 for 2 yards (N.Fairley).,11,1,1,MIN 19,0,MIN,
+4,646,1,04:55,(4:55) (Shotgun) A.Peterson right tackle to MIN 22 for 2 yards (N.Fairley; W.Young).,10,1,2,MIN 20,0,MIN,
+7,1033,1,14:01,(14:01) (Shotgun) M.Stafford pass short right intended for C.Johnson INTERCEPTED by E.Henderson (F.Evans) at MIN 25. E.Henderson to MIN 35 for 10 yards (B.Pettigrew).,10,2,0,MIN 39,0,DET,INT
+6,995,2,14:09,"(14:09) C.Ponder pass short left intended for J.Simpson INTERCEPTED by D.Levy (D.Slay) at MIN 33. D.Levy for 33 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on DET-N.Suh, Low Block, 15 yards, enforced at MIN 24.",1,2,9,MIN 29,0,MIN,INT
+6,952,0,14:47,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,2,0,DET 35,0,DET,KICKOFF
+6,971,1,14:45,(14:45) (Shotgun) C.Ponder pass short left to G.Jennings to MIN 29 for 9 yards (D.Slay).,10,2,9,MIN 20,0,MIN,
+9,1176,0,12:17,"B.Walsh kicks 65 yards from MIN 35 to end zone, Touchback.",0,2,0,MIN 35,0,MIN,KICKOFF
+9,1267,4,10:51,"(10:51) S.Martin punts 33 yards to MIN 39, Center-D.Muhlbach, out of bounds.",2,2,8,DET 28,0,DET,PUNT
+9,1195,1,12:17,"(12:17) M.Stafford FUMBLES (Aborted) at DET 19, and recovers at DET 19. M.Stafford to DET 19 for no gain (F.Evans).",10,2,-1,DET 20,0,DET,FUMBLE
+9,1245,3,10:58,(10:58) (Shotgun) M.Stafford pass incomplete short right to K.Durham (C.Cook).,2,2,8,DET 28,0,DET,
+9,1221,2,11:44,(11:44) (Shotgun) M.Stafford pass short left to R.Bush to DET 28 for 9 yards (F.Evans).,11,2,8,DET 19,0,DET,
+8,1087,1,13:24,(13:24) A.Peterson right tackle to DET 48 for -4 yards (G.Quin).,10,2,17,DET 44,0,MIN,
+8,1059,1,13:53,(13:53) C.Ponder pass short right to K.Rudolph pushed ob at DET 44 for 21 yards (Tr.Lewis).,10,2,65,MIN 35,0,MIN,
+8,1160,0,12:17,"B.Walsh extra point is GOOD, Center-C.Loeffler, Holder-J.Locke.",0,2,65,DET 2,1,MIN,XP
+8,1108,2,12:45,"(12:45) C.Ponder pass deep right to J.Simpson to DET 4 for 44 yards (C.Houston). Penalty on DET-C.Houston, Defensive Pass Interference, declined.",14,2,61,DET 48,0,MIN,
+8,1143,1,12:22,"(12:22) A.Peterson up the middle for 4 yards, TOUCHDOWN.",4,2,65,DET 4,1,MIN,TD
+11,1393,1,09:11,(9:11) R.Bush left end to DET 12 for 5 yards (C.Greenway).,10,2,5,DET 7,0,DET,
+11,1438,1,07:58,(7:58) R.Bush right tackle to DET 21 for 3 yards (H.Smith; L.Guion).,10,2,14,DET 18,0,DET,
+11,1502,4,06:27,"(6:27) S.Martin punts 55 yards to MIN 22, Center-D.Muhlbach. M.Sherels to MIN 33 for 11 yards (D.Bentley). PENALTY on MIN-X.Rhodes, Illegal Block Above the Waist, 10 yards, enforced at MIN 28.",5,2,16,DET 23,0,DET,PUNT
+11,1480,3,06:34,(6:34) (Shotgun) M.Stafford pass incomplete short middle to J.Bell (S.Floyd).,5,2,16,DET 23,0,DET,
+11,1414,2,08:37,(8:37) (Shotgun) M.Stafford pass short middle to N.Burleson to DET 18 for 6 yards (C.Greenway).,5,2,11,DET 12,0,DET,
+11,1459,2,07:19,(7:19) R.Bush up the middle to DET 23 for 2 yards (E.Henderson).,7,2,16,DET 21,0,DET,
+10,1334,3,09:26,(9:26) (Shotgun) C.Ponder pass incomplete short right to J.Wright (D.Bentley).,5,2,5,MIN 44,0,MIN,
+10,1289,1,10:44,(10:44) A.Peterson left end to MIN 36 for -3 yards (D.Levy).,10,2,-3,MIN 39,0,MIN,
+10,1356,4,09:21,"(9:21) J.Locke punts 40 yards to DET 16, Center-C.Loeffler. M.Spurlock to DET 15 for -1 yards (J.Robinson). PENALTY on DET-T.Whitehead, Offensive Holding, 8 yards, enforced at DET 15.",5,2,5,MIN 44,0,MIN,PUNT
+10,1310,2,10:06,(10:06) C.Ponder pass short middle to Z.Line to MIN 44 for 8 yards (D.Levy).,13,2,5,MIN 36,0,MIN,
+13,1651,1,04:09,(4:09) (Shotgun) R.Bush up the middle to MIN 39 for 6 yards (C.Greenway; J.Allen).,10,2,6,MIN 45,0,DET,
+13,1717,3,02:59,"(2:59) (Shotgun) M.Stafford pass short right to B.Pettigrew to MIN 43 for 1 yard (J.Robinson). FUMBLES (J.Robinson), RECOVERED by MIN-H.Smith at MIN 30. H.Smith to MIN 30 for no gain (N.Burleson).",9,2,2,MIN 44,0,DET,FUMBLE
+13,1695,2,03:05,(3:05) (Shotgun) M.Stafford pass incomplete short middle to B.Pettigrew (H.Smith).,9,2,1,MIN 44,0,DET,
+13,1672,2,03:25,"(3:25) PENALTY on DET-L.Warford, False Start, 5 yards, enforced at MIN 39 - No Play.",4,2,1,MIN 39,0,DET,PENALTY
+12,1559,2,05:41,(5:41) A.Peterson up the middle to MIN 14 for no gain (E.Ansah).,14,2,-4,MIN 14,0,MIN,
+12,1580,3,05:00,(5:00) (Shotgun) C.Ponder pass short left to J.Simpson to MIN 23 for 9 yards (L.Delmas; S.Tulloch).,14,2,5,MIN 14,0,MIN,
+12,1604,4,04:20,"(4:20) J.Locke punts 42 yards to DET 35, Center-C.Loeffler. M.Spurlock to DET 45 for 10 yards (C.Loeffler). PENALTY on MIN-C.Greenway, Illegal Block Above the Waist, 10 yards, enforced at DET 45.",5,2,5,MIN 23,0,MIN,PUNT
+12,1538,1,06:17,(6:17) A.Peterson left end pushed ob at MIN 14 for -4 yards (C.Houston).,10,2,-4,MIN 18,0,MIN,
+15,2137,0,00:10,"D.Akers extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin.",0,2,70,MIN 2,1,DET,XP
+15,1984,0,01:06,Timeout #2 by DET at 01:06.,0,2,34,,0,,TIMEOUT
+15,1851,1,02:14,(2:14) M.Stafford pass short right to C.Johnson to DET 37 for 7 yards (X.Rhodes).,10,2,7,DET 30,0,DET,
+15,1960,2,01:12,(1:12) (Shotgun) M.Stafford pass deep middle to N.Burleson to MIN 36 for 27 yards (E.Henderson) [J.Allen].,15,2,34,DET 37,0,DET,
+15,2049,1,00:33,"(:33) (No Huddle, Shotgun) M.Stafford pass short left to K.Durham to MIN 2 for 11 yards (C.Cook).",10,2,68,MIN 13,0,DET,
+15,2025,1,00:58,(:58) (Shotgun) M.Stafford pass short middle to J.Bell to MIN 13 for 12 yards (E.Henderson; H.Smith).,10,2,57,MIN 25,0,DET,
+15,2001,1,01:06,(1:06) (Shotgun) M.Stafford pass short right to J.Bell pushed ob at MIN 25 for 11 yards (X.Rhodes).,10,2,45,MIN 36,0,DET,
+15,1937,2,01:14,"(1:14) (No Huddle, Shotgun) PENALTY on DET-R.Reiff, False Start, 5 yards, enforced at DET 42 - No Play.",10,2,7,DET 42,0,DET,PENALTY
+15,2073,1,00:12,"(:12) (No Huddle) J.Bell left tackle to MIN 1 for 1 yard (J.Sanford). FUMBLES (J.Sanford), RECOVERED by MIN-J.Robinson at MIN 3. J.Robinson to MIN 5 for 2 yards (N.Burleson). The Replay Assistant challenged the fumble ruling, and the play was REVERSED. (No Huddle) J.Bell left tackle for 2 yards, TOUCHDOWN.",2,2,70,MIN 2,1,DET,TD
+15,1892,2,02:00,(2:00) (Shotgun) M.Stafford pass short left to N.Burleson to DET 42 for 5 yards (J.Robinson).,3,2,12,DET 37,0,DET,
+15,1916,1,01:40,"(1:40) (No Huddle, Shotgun) R.Bush right tackle to DET 42 for no gain (B.Robison).",10,2,12,DET 42,0,DET,
+14,1820,1,02:22,(2:22) C.Ponder pass short left intended for G.Jennings INTERCEPTED by S.Tulloch (N.Suh) at DET 30. S.Tulloch pushed ob at DET 30 for no gain (G.Jennings).,10,2,32,DET 38,0,MIN,INT
+14,1752,1,02:50,"(2:50) (Shotgun) C.Ponder pass incomplete short left to J.Simpson. PENALTY on DET-D.Slay, Defensive Holding, 5 yards, enforced at MIN 30 - No Play.",10,2,5,MIN 30,0,MIN,PENALTY
+14,1785,1,02:46,"(2:46) (Shotgun) C.Ponder pass short left to J.Simpson pushed ob at MIN 47 for 12 yards (D.Slay) [W.Young]. PENALTY on DET-L.Delmas, Taunting, 15 yards, enforced at MIN 47.",10,2,32,MIN 35,0,MIN,PENALTY
+17,2335,3,13:57,(13:57) (Shotgun) C.Ponder sacked at MIN 14 for -8 yards (N.Fairley).,8,3,-6,MIN 22,0,MIN,
+17,2281,1,15:00,(15:00) C.Ponder sacked ob at MIN 20 for 0 yards (S.Tulloch).,10,3,0,MIN 20,0,MIN,
+17,2314,2,14:34,(14:34) A.Peterson up the middle to MIN 22 for 2 yards (D.Levy; L.Delmas).,10,3,2,MIN 20,0,MIN,
+17,2262,0,15:00,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,3,0,DET 35,0,DET,KICKOFF
+17,2388,4,13:15,"(13:15) J.Locke punts 39 yards to DET 42, Center-C.Loeffler. M.Spurlock to 50 for 8 yards (A.Cole).",11,3,-1,MIN 19,0,MIN,PUNT
+17,2354,4,13:22,"(13:22) J.Locke punts 42 yards to DET 44, Center-C.Loeffler, fair catch by M.Spurlock. PENALTY on DET-R.McIntosh, Defensive Offside, 5 yards, enforced at MIN 14 - No Play.",16,3,-1,MIN 14,0,MIN,PENALTY
+16,2172,1,00:10,(:10) C.Ponder kneels to MIN 19 for -1 yards.,10,2,-1,MIN 20,0,MIN,
+16,2153,0,00:10,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,2,0,DET 35,0,DET,KICKOFF
+19,2816,4,06:47,"(6:47) B.Walsh 52 yard field goal is GOOD, Center-C.Loeffler, Holder-J.Locke.",1,3,46,DET 34,1,MIN,FG
+19,2731,1,08:46,(8:46) (Shotgun) C.Ponder scrambles left end pushed ob at DET 43 for 11 yards (S.Tulloch).,5,3,37,MIN 46,0,MIN,
+19,2652,1,10:19,(10:19) A.Peterson up the middle to MIN 21 for 1 yard (G.Quin).,10,3,1,MIN 20,0,MIN,
+19,2773,2,07:40,(7:40) A.Peterson left tackle to DET 34 for 2 yards (C.Mosley).,3,3,46,DET 36,0,MIN,
+19,2633,0,10:19,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,3,0,DET 35,0,DET,KICKOFF
+19,2673,2,09:41,(9:41) C.Ponder pass deep right to G.Jennings to MIN 41 for 20 yards (C.Houston).,9,3,21,MIN 21,0,MIN,
+19,2752,1,08:18,(8:18) A.Peterson left tackle to DET 36 for 7 yards (C.Mosley).,10,3,44,DET 43,0,MIN,
+19,2697,1,09:04,"(9:04) (Shotgun) PENALTY on DET-N.Fairley, Encroachment, 5 yards, enforced at MIN 41 - No Play.",10,3,26,MIN 41,0,MIN,PENALTY
+19,2794,3,06:52,(6:52) C.Ponder pass incomplete short left to J.Carlson (L.Delmas) [D.Levy].,1,3,46,DET 34,0,MIN,
+18,2617,0,10:19,"D.Akers extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin.",0,3,50,MIN 2,1,DET,XP
+18,2542,1,10:44,"(10:44) R.Bush left end for 1 yard, TOUCHDOWN. The Replay Assistant challenged the runner broke the plane ruling, and the play was REVERSED. R.Bush left end to MIN 1 for no gain (J.Sanford).",1,3,49,MIN 1,0,DET,
+18,2600,2,10:23,"(10:23) J.Bell left end for 1 yard, TOUCHDOWN.",1,3,50,MIN 1,1,DET,TD
+18,2458,1,11:47,(11:47) (Shotgun) R.Bush left end to MIN 16 for 3 yards (E.Henderson).,10,3,34,MIN 19,0,DET,
+18,2437,1,12:21,(12:21) R.Bush left tackle ran ob at MIN 19 for 10 yards (H.Smith).,10,3,31,MIN 29,0,DET,
+18,2479,2,11:05,(11:05) (Shotgun) M.Stafford pass incomplete deep left to C.Johnson.,7,3,34,MIN 16,0,DET,
+18,2413,1,13:03,(13:03) M.Stafford pass short right to N.Burleson to MIN 29 for 21 yards (H.Smith).,10,3,21,50,0,DET,
+18,2518,3,10:59,(10:59) (Shotgun) M.Stafford pass short left to N.Burleson pushed ob at MIN 1 for 15 yards (C.Cook).,7,3,49,MIN 16,0,DET,
+18,2501,0,10:59,Timeout #1 by DET at 10:59.,0,3,34,,0,,TIMEOUT

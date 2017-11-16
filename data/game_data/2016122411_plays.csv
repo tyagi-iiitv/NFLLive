@@ -1,168 +1,168 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1007,2,12:36,,10,2,9,CIN 28,0,CIN,
-9,1053,4,11:47,,1,2,9,CIN 37,0,CIN,PUNT
-9,1031,3,11:54,,1,2,9,CIN 37,0,CIN,
-9,985,1,12:40,,10,2,0,CIN 28,0,CIN,
-10,1078,1,11:39,,10,2,0,HOU 17,0,HOU,
-10,1099,2,11:03,,10,2,5,HOU 17,0,HOU,
-10,1142,4,10:17,,5,2,5,HOU 22,0,HOU,PUNT
-10,1120,3,10:21,,5,2,5,HOU 22,0,HOU,
-20,3196,0,08:41,,0,4,75,CIN 15,0,HOU,XPB
-20,3155,1,09:31,,10,4,51,CIN 45,0,HOU,
-20,3110,1,10:45,,10,4,19,HOU 25,0,HOU,
-20,3179,1,08:47,,10,4,75,CIN 24,1,HOU,TD
-20,3095,0,10:45,,0,4,0,CIN 35,0,CIN,KICKOFF
-20,3134,1,10:11,,10,4,30,HOU 44,0,HOU,
-6,715,2,02:01,,9,1,7,HOU 14,0,HOU,
-6,736,3,01:20,,3,1,7,HOU 20,0,HOU,
-6,694,1,02:33,,10,1,1,HOU 13,0,HOU,
-6,758,4,01:15,,3,1,7,HOU 20,0,HOU,FUMBLE
-18,2938,2,11:59,,10,4,0,CIN 40,0,HOU,
-18,2917,1,12:41,,10,4,0,CIN 40,0,HOU,
-18,2982,4,11:48,,10,4,0,CIN 40,0,HOU,PUNT
-18,2960,3,11:53,,10,4,0,CIN 40,0,HOU,
-1,100,3,13:29,,11,1,-1,CIN 40,0,CIN,
-1,122,4,13:23,,11,1,-1,CIN 40,0,CIN,PUNT
-1,58,1,14:53,,10,1,2,CIN 41,0,CIN,
-1,79,2,14:16,,8,1,-1,CIN 43,0,CIN,
-1,36,0,15:00,,0,1,0,HOU 35,0,HOU,KICKOFF
-5,629,2,03:16,,10,1,13,HOU 46,0,CIN,
-5,675,4,02:41,,8,1,13,HOU 44,0,CIN,PUNT
-5,653,3,02:47,,8,1,13,HOU 44,0,CIN,
-5,607,1,03:22,,10,1,11,HOU 46,0,CIN,
-5,562,2,04:45,,8,1,9,CIN 45,0,CIN,
-5,537,1,05:19,,10,1,2,CIN 43,0,CIN,
-5,586,3,04:01,,1,1,11,HOU 48,0,CIN,
-13,1426,1,04:58,,10,2,22,CIN 8,0,CIN,
-13,1447,2,04:15,,8,2,8,CIN 10,0,CIN,
-13,1629,2,01:10,,10,2,44,CIN 31,0,CIN,
-13,1607,1,01:14,,10,2,23,CIN 31,0,CIN,
-13,1557,3,02:00,,1,2,23,CIN 30,0,CIN,
-13,1578,0,01:14,,0,2,23,,0,,TIMEOUT
-13,1740,1,00:31,,10,2,67,HOU 36,0,CIN,
-13,1540,0,02:00,,0,2,22,,0,,
-13,1653,1,00:47,,10,2,44,HOU 48,0,CIN,
-13,1764,1,00:09,,10,2,67,HOU 25,0,CIN,
-13,1699,0,00:36,,0,2,50,,0,,TIMEOUT
-13,1786,2,00:05,,10,2,67,HOU 25,1,CIN,FG
-13,1495,1,03:15,,10,2,17,CIN 21,0,CIN,
-13,1516,2,02:35,,6,2,22,CIN 25,0,CIN,
-13,1471,3,03:48,,2,2,13,CIN 16,0,CIN,
-13,1716,3,00:36,,4,2,56,HOU 42,0,CIN,
-13,1675,2,00:41,,10,2,50,HOU 48,0,CIN,
-21,3301,4,07:08,,13,4,-3,CIN 26,0,CIN,PUNT
-21,3217,0,08:41,,0,4,0,HOU 35,0,HOU,KICKOFF
-21,3239,1,08:34,,10,4,3,CIN 29,0,CIN,
-21,3279,3,07:13,,13,4,-3,CIN 26,0,CIN,
-21,3260,2,07:56,,7,4,-3,CIN 32,0,CIN,
-23,3721,4,01:25,,3,4,41,CIN 48,0,CIN,
-23,3618,1,02:13,,10,4,20,CIN 41,0,CIN,
-23,3704,0,01:25,,0,4,33,,0,,TIMEOUT
-23,3745,1,01:02,,10,4,50,HOU 44,0,CIN,
-23,3497,1,03:46,,10,4,9,CIN 15,0,CIN,
-23,3810,1,00:22,,10,4,60,HOU 34,0,CIN,
-23,3854,2,00:05,,1,4,60,HOU 25,0,CIN,FGM
-23,3568,2,02:50,,10,4,18,CIN 28,0,CIN,
-23,3639,0,02:00,,0,4,20,,0,,
-23,3680,3,01:56,,11,4,33,CIN 40,0,CIN,
-23,3831,0,00:05,,0,4,60,,0,,TIMEOUT
-23,3522,2,03:24,,1,4,13,CIN 24,0,CIN,
-23,3589,3,02:19,,5,4,26,CIN 33,0,CIN,
-23,3769,0,00:47,,0,4,50,,0,,TIMEOUT
-23,3546,1,02:55,,10,4,13,CIN 28,0,CIN,
-23,3656,2,02:00,,16,4,25,CIN 35,0,CIN,
-23,3786,2,00:47,,1,4,51,HOU 35,0,CIN,
-11,1167,1,10:04,,10,2,11,CIN 23,0,CIN,
-11,1191,1,09:39,,10,2,19,CIN 34,0,CIN,
-11,1233,3,08:17,,3,2,8,CIN 41,0,CIN,
-11,1212,2,09:01,,2,2,18,CIN 42,0,CIN,
-11,1252,4,07:42,,13,2,8,CIN 31,0,CIN,PUNT
-14,1834,1,15:00,,10,3,14,HOU 25,0,HOU,
-14,1893,1,14:13,,10,3,33,CIN 47,0,HOU,
-14,2088,2,11:44,,3,3,67,CIN 12,0,HOU,
-14,1917,2,13:49,,5,3,34,CIN 42,0,HOU,
-14,1966,1,12:43,,10,3,36,CIN 29,0,HOU,PENALTY
-14,2159,3,10:11,,6,3,64,CIN 6,0,HOU,PENALTY
-14,1819,0,15:00,,0,3,0,CIN 35,0,CIN,KICKOFF
-14,2034,1,12:25,,10,3,56,CIN 34,0,HOU,PENALTY
-14,1869,1,14:41,,10,3,28,HOU 39,0,HOU,
-14,1938,3,13:05,,4,3,46,CIN 41,0,HOU,FUMBLE
-14,2067,1,12:18,,10,3,63,CIN 19,0,HOU,
-14,2206,4,09:09,,7,3,68,CIN 7,1,HOU,FG
-14,2138,2,10:55,,8,3,69,CIN 8,0,HOU,
-14,2182,3,09:51,,11,3,68,CIN 11,0,HOU,
-14,1999,1,12:39,,20,3,41,CIN 39,0,HOU,PENALTY
-14,2112,1,11:03,,8,3,67,CIN 8,0,HOU,
-8,917,2,13:40,,7,2,6,HOU 21,0,HOU,
-8,892,1,14:13,,10,2,3,HOU 18,0,HOU,
-8,938,3,12:58,,4,2,6,HOU 24,0,HOU,
-8,960,4,12:52,,4,2,6,HOU 24,0,HOU,PUNT
-19,3026,2,11:02,,5,4,5,CIN 14,0,CIN,
-19,3001,1,11:40,,10,4,5,CIN 9,0,CIN,
-19,3079,0,10:45,,0,4,91,HOU 15,1,CIN,XP
-19,3048,3,10:59,,5,4,91,CIN 14,1,CIN,TD
-22,3389,1,04:51,,10,4,23,HOU 43,0,HOU,
-22,3410,2,04:07,,9,4,24,HOU 44,0,HOU,
-22,3448,3,04:01,,8,4,29,HOU 45,0,HOU,
-22,3365,3,05:35,,4,4,22,HOU 27,0,HOU,
-22,3431,0,04:01,,0,4,24,,0,,TIMEOUT
-22,3341,2,06:20,,8,4,6,HOU 23,0,HOU,
-22,3320,1,07:00,,10,4,2,HOU 21,0,HOU,
-22,3472,4,03:56,,3,4,29,50,0,HOU,PUNT
-12,1347,2,05:57,,7,2,10,HOU 42,0,HOU,
-12,1277,1,07:29,,10,2,7,HOU 29,0,HOU,
-12,1368,3,05:16,,10,2,10,HOU 39,0,HOU,
-12,1326,1,06:29,,10,2,13,HOU 39,0,HOU,
-12,1390,4,05:11,,10,2,10,HOU 39,0,HOU,PUNT
-12,1305,2,07:09,,3,2,10,HOU 36,0,HOU,
-16,2721,0,,,0,3,46,,0,,
-16,2678,1,01:18,,10,3,37,CIN 36,0,HOU,
-16,2562,1,03:23,,10,3,21,CIN 45,0,HOU,PENALTY
-16,2451,2,05:00,,10,3,37,HOU 24,0,HOU,PENALTY
-16,2737,3,15:00,,4,4,70,CIN 30,0,HOU,
-16,2621,2,02:08,,14,3,31,CIN 49,0,HOU,
-16,2597,1,02:51,,20,3,27,HOU 45,0,HOU,
-16,2645,3,01:24,,10,3,40,CIN 45,0,HOU,PENALTY
-16,2505,2,04:12,,4,3,23,HOU 45,0,HOU,
-16,2529,3,03:27,,2,3,31,HOU 47,0,HOU,PENALTY
-16,2804,3,13:38,,5,4,71,CIN 5,0,HOU,
-16,2783,2,14:23,,6,4,71,CIN 6,0,HOU,
-16,2429,1,05:05,,10,3,0,HOU 24,0,HOU,
-16,2484,1,04:56,,10,3,21,HOU 39,0,HOU,
-16,2761,1,14:29,,6,4,70,CIN 6,0,HOU,
-16,2697,2,00:36,,13,3,46,CIN 39,0,HOU,
-16,2826,4,13:34,,5,4,71,CIN 5,1,HOU,FG
-7,849,3,15:00,,10,2,6,CIN 28,0,CIN,
-7,873,4,14:22,,4,2,6,CIN 34,0,CIN,PUNT
-7,777,1,01:05,,10,1,2,CIN 28,0,CIN,
-7,798,2,00:19,,8,1,0,CIN 30,0,CIN,
-7,827,0,,,0,1,0,,0,,
-3,391,3,07:29,,3,1,20,CIN 36,0,CIN,
-3,367,2,08:14,,11,1,20,CIN 28,0,CIN,
-3,322,2,09:24,,1,1,13,CIN 25,0,CIN,
-3,298,1,10:01,,10,1,9,CIN 16,0,CIN,
-3,343,1,08:47,,10,1,12,CIN 29,0,CIN,
-3,413,4,07:25,,3,1,20,CIN 36,0,CIN,PUNT
-17,2845,0,13:31,,0,4,0,HOU 35,0,HOU,KICKOFF
-17,2891,1,12:48,,10,4,15,CIN 35,0,CIN,INT
-17,2867,1,13:21,,10,4,15,CIN 20,0,CIN,
-4,438,1,07:16,,10,1,-7,HOU 22,0,HOU,
-4,512,4,05:31,,17,1,-7,HOU 15,0,HOU,PUNT
-4,461,2,06:32,,17,1,-13,HOU 15,0,HOU,
-4,491,3,06:02,,23,1,-7,HOU 9,0,HOU,
-2,190,3,12:19,,1,1,14,HOU 32,0,HOU,
-2,166,2,12:44,,7,1,9,HOU 26,0,HOU,
-2,211,1,11:39,,10,1,14,HOU 37,0,HOU,
-2,254,3,10:47,,6,1,13,HOU 41,0,HOU,
-2,145,1,13:15,,10,1,3,HOU 23,0,HOU,
-2,273,4,10:15,,11,1,13,HOU 36,0,HOU,PUNT
-2,233,2,11:30,,10,1,18,HOU 37,0,HOU,
-15,2363,0,05:47,,0,3,8,,0,,TIMEOUT
-15,2339,2,06:35,,18,3,8,CIN 34,0,CIN,
-15,2404,4,05:16,,13,3,9,CIN 39,0,CIN,PUNT
-15,2225,0,09:05,,0,3,0,HOU 35,0,HOU,KICKOFF
-15,2380,3,05:47,,14,3,9,CIN 38,0,CIN,
-15,2292,3,07:41,,2,3,12,CIN 38,0,CIN,
-15,2247,1,08:59,,10,3,4,CIN 30,0,CIN,
-15,2271,2,08:23,,6,3,8,CIN 34,0,CIN,
-15,2316,1,07:14,,10,3,4,CIN 42,0,CIN,
+20,3196,0,08:41,"N.Novak extra point is Blocked (M.Hunt), Center-J.Weeks, Holder-S.Lechler. DEFENSIVE TWO-POINT ATTEMPT. V.Rey recovered the blocked kick. ATTEMPT FAILS.",0,4,75,CIN 15,0,HOU,XPB
+20,3110,1,10:45,(10:45) (Shotgun) T.Savage pass short right to W.Fuller to HOU 44 for 19 yards (D.Dennard).,10,4,19,HOU 25,0,HOU,
+20,3179,1,08:47,"(8:47) (Shotgun) A.Blue left tackle for 24 yards, TOUCHDOWN.",10,4,75,CIN 24,1,HOU,TD
+20,3134,1,10:11,(10:11) (Shotgun) T.Savage scrambles up the middle to CIN 45 for 11 yards (V.Rey).,10,4,30,HOU 44,0,HOU,
+20,3155,1,09:31,(9:31) (Shotgun) T.Savage pass short left to D.Hopkins to CIN 24 for 21 yards (K.Dansby).,10,4,51,CIN 45,0,HOU,
+20,3095,0,10:45,"R.Bullock kicks 65 yards from CIN 35 to end zone, Touchback.",0,4,0,CIN 35,0,CIN,KICKOFF
+21,3260,2,07:56,(7:56) (Shotgun) A.Dalton sacked at CIN 26 for -6 yards (W.Mercilus).,7,4,-3,CIN 32,0,CIN,
+21,3217,0,08:41,N.Novak kicks 62 yards from HOU 35 to CIN 3. A.Erickson to CIN 29 for 26 yards (J.Grimes).,0,4,0,HOU 35,0,HOU,KICKOFF
+21,3301,4,07:08,"(7:08) K.Huber punts 53 yards to HOU 21, Center-C.Harris, fair catch by T.Ervin.",13,4,-3,CIN 26,0,CIN,PUNT
+21,3239,1,08:34,"(8:34) R.Burkhead left tackle to CIN 32 for 3 yards (W.Mercilus, B.McKinney).",10,4,3,CIN 29,0,CIN,
+21,3279,3,07:13,(7:13) (Shotgun) A.Dalton pass incomplete deep right to B.LaFell.,13,4,-3,CIN 26,0,CIN,
+22,3448,3,04:01,(4:01) (Shotgun) T.Savage pass short left to K.Mumphery pushed ob at 50 for 5 yards (A.Jones).,8,4,29,HOU 45,0,HOU,
+22,3472,4,03:56,"(3:56) S.Lechler punts 42 yards to CIN 8, Center-J.Weeks. A.Erickson to CIN 15 for 7 yards (D.Jones; A.Hunt). (The Punt Hang Time was 4.26 seconds.)",3,4,29,50,0,HOU,PUNT
+22,3365,3,05:35,(5:35) (Shotgun) T.Savage pass short middle to D.Hopkins to HOU 43 for 16 yards (A.Jones) [W.Gilberry].,4,4,22,HOU 27,0,HOU,
+22,3341,2,06:20,(6:20) T.Savage pass short middle to A.Blue to HOU 27 for 4 yards (K.Dansby).,8,4,6,HOU 23,0,HOU,
+22,3389,1,04:51,(4:51) A.Blue right tackle to HOU 44 for 1 yard (P.Sims).,10,4,23,HOU 43,0,HOU,
+22,3320,1,07:00,(7:00) A.Blue up the middle to HOU 23 for 2 yards (K.Dansby).,10,4,2,HOU 21,0,HOU,
+22,3410,2,04:07,(4:07) A.Blue right end to HOU 45 for 1 yard (G.Iloka).,9,4,24,HOU 44,0,HOU,
+22,3431,0,04:01,Timeout #2 by CIN at 04:01.,0,4,24,,0,,TIMEOUT
+23,3546,1,02:55,(2:55) (Shotgun) A.Dalton pass incomplete deep right to C.Core.,10,4,13,CIN 28,0,CIN,
+23,3745,1,01:02,(1:02) (Shotgun) A.Dalton pass short middle to R.Burkhead to HOU 35 for 9 yards (E.Pleasant).,10,4,50,HOU 44,0,CIN,
+23,3786,2,00:47,(:47) (Shotgun) A.Dalton pass short right to C.Uzomah to HOU 34 for 1 yard (A.Hal).,1,4,51,HOU 35,0,CIN,
+23,3831,0,00:05,Timeout #3 by HOU at 00:05.,0,4,60,,0,,TIMEOUT
+23,3769,0,00:47,Timeout #2 by HOU at 00:47.,0,4,50,,0,,TIMEOUT
+23,3639,0,02:00,Two-Minute Warning,0,4,20,,0,,
+23,3618,1,02:13,(2:13) (Shotgun) R.Burkhead left end to CIN 35 for -6 yards (B.Cushing).,10,4,20,CIN 41,0,CIN,
+23,3497,1,03:46,(3:46) (Shotgun) R.Burkhead right tackle to CIN 24 for 9 yards (A.Hal; B.Cushing).,10,4,9,CIN 15,0,CIN,
+23,3568,2,02:50,(2:50) (Shotgun) R.Burkhead up the middle to CIN 33 for 5 yards (A.Hal; B.McKinney).,10,4,18,CIN 28,0,CIN,
+23,3680,3,01:56,(1:56) (Shotgun) A.Dalton pass short middle to J.Wright to CIN 48 for 8 yards (A.Bouye).,11,4,33,CIN 40,0,CIN,
+23,3810,1,00:22,(:22) (Shotgun) R.Burkhead right tackle to HOU 25 for 9 yards (Q.Demps; E.Pleasant).,10,4,60,HOU 34,0,CIN,
+23,3854,2,00:05,"(:05) R.Bullock 43 yard field goal is No Good, Wide Right, Center-C.Harris, Holder-K.Huber.",1,4,60,HOU 25,0,CIN,FGM
+23,3522,2,03:24,(3:24) A.Dalton pass short left to C.Core to CIN 28 for 4 yards (A.Bouye).,1,4,13,CIN 24,0,CIN,
+23,3589,3,02:19,(2:19) (Shotgun) A.Dalton pass short right to C.Uzomah pushed ob at CIN 41 for 8 yards (A.Hal).,5,4,26,CIN 33,0,CIN,
+23,3656,2,02:00,(2:00) (Shotgun) A.Dalton pass short left to C.Uzomah pushed ob at CIN 40 for 5 yards (A.Bouye).,16,4,25,CIN 35,0,CIN,
+23,3721,4,01:25,(1:25) (Shotgun) A.Dalton pass short right to C.Uzomah to HOU 44 for 8 yards (A.Hal).,3,4,41,CIN 48,0,CIN,
+23,3704,0,01:25,Timeout #1 by HOU at 01:25.,0,4,33,,0,,TIMEOUT
+1,100,3,13:29,(13:29) (Shotgun) A.Dalton pass incomplete short right to C.Core.,11,1,-1,CIN 40,0,CIN,
+1,122,4,13:23,"(13:23) K.Huber punts 37 yards to HOU 23, Center-C.Harris, fair catch by T.Ervin.",11,1,-1,CIN 40,0,CIN,PUNT
+1,36,0,15:00,N.Novak kicks 59 yards from HOU 35 to CIN 6. A.Erickson to CIN 41 for 35 yards (R.Nelson).,0,1,0,HOU 35,0,HOU,KICKOFF
+1,79,2,14:16,(14:16) J.Hill right guard to CIN 40 for -3 yards (K.Jackson; B.Cushing).,8,1,-1,CIN 43,0,CIN,
+1,58,1,14:53,(14:53) J.Hill right end to CIN 43 for 2 yards (B.McKinney).,10,1,2,CIN 41,0,CIN,
+3,343,1,08:47,(8:47) (Shotgun) A.Dalton pass short right to C.Core pushed ob at CIN 28 for -1 yards (K.Jackson).,10,1,12,CIN 29,0,CIN,
+3,322,2,09:24,(9:24) J.Hill left guard to CIN 29 for 4 yards (J.Clowney; C.Covington).,1,1,13,CIN 25,0,CIN,
+3,391,3,07:29,(7:29) (Shotgun) A.Dalton pass incomplete short left to C.Core (A.Bouye).,3,1,20,CIN 36,0,CIN,
+3,298,1,10:01,(10:01) A.Dalton pass short right to B.LaFell ran ob at CIN 25 for 9 yards.,10,1,9,CIN 16,0,CIN,
+3,413,4,07:25,"(7:25) K.Huber punts 49 yards to HOU 15, Center-C.Harris. T.Ervin pushed ob at HOU 22 for 7 yards (J.Shaw). (The Punt Hang Time was 4.56 seconds.)",3,1,20,CIN 36,0,CIN,PUNT
+3,367,2,08:14,(8:14) A.Dalton pass short middle to R.Hewitt to CIN 36 for 8 yards (B.McKinney).,11,1,20,CIN 28,0,CIN,
+2,145,1,13:15,"(13:15) A.Blue up the middle to HOU 26 for 3 yards (G.Atkins, V.Rey).",10,1,3,HOU 23,0,HOU,
+2,211,1,11:39,(11:39) T.Savage pass incomplete short right to C.Fiedorowicz.,10,1,14,HOU 37,0,HOU,
+2,190,3,12:19,(12:19) J.Prosch up the middle to HOU 37 for 5 yards (N.Vigil).,1,1,14,HOU 32,0,HOU,
+2,273,4,10:15,"(10:15) S.Lechler punts 55 yards to CIN 9, Center-J.Weeks. A.Erickson to CIN 16 for 7 yards (J.Prosch; C.Moore).",11,1,13,HOU 36,0,HOU,PUNT
+2,166,2,12:44,(12:44) T.Savage pass short left to W.Fuller ran ob at HOU 32 for 6 yards.,7,1,9,HOU 26,0,HOU,
+2,254,3,10:47,(10:47) (Shotgun) T.Savage sacked at HOU 36 for -5 yards (sack split by W.Gilberry and M.Johnson).,6,1,13,HOU 41,0,HOU,
+2,233,2,11:30,"(11:30) (Shotgun) A.Blue up the middle to HOU 41 for 4 yards (W.Clarke, G.Iloka).",10,1,18,HOU 37,0,HOU,
+5,586,3,04:01,(4:01) R.Burkhead up the middle to HOU 46 for 2 yards (C.Moore).,1,1,11,HOU 48,0,CIN,
+5,607,1,03:22,(3:22) A.Dalton pass incomplete short middle to C.Core (A.Bouye).,10,1,11,HOU 46,0,CIN,
+5,675,4,02:41,"(2:41) K.Huber punts 31 yards to HOU 13, Center-C.Harris, fair catch by T.Ervin.",8,1,13,HOU 44,0,CIN,PUNT
+5,562,2,04:45,"(4:45) A.Dalton pass short right to C.Core to HOU 48 for 7 yards (C.Moore, Q.Demps).",8,1,9,CIN 45,0,CIN,
+5,537,1,05:19,(5:19) R.Burkhead left tackle to CIN 45 for 2 yards (B.McKinney).,10,1,2,CIN 43,0,CIN,
+5,653,3,02:47,(2:47) (Shotgun) A.Dalton pass incomplete deep left to T.Boyd.,8,1,13,HOU 44,0,CIN,
+5,629,2,03:16,(3:16) (Shotgun) A.Dalton pass short right to C.Core ran ob at HOU 44 for 2 yards.,10,1,13,HOU 46,0,CIN,
+4,512,4,05:31,"(5:31) S.Lechler punts 41 yards to CIN 44, Center-J.Weeks. A.Jones to CIN 43 for -1 yards (A.Dent). (The Punt Hang Time was 4.50 seconds.)",17,1,-7,HOU 15,0,HOU,PUNT
+4,461,2,06:32,"(6:32) (Shotgun) T.Savage sacked at HOU 9 for -6 yards (W.Gilberry). Penalty on HOU-C.Clark, Offensive Holding, declined.",17,1,-13,HOU 15,0,HOU,
+4,491,3,06:02,(6:02) (Shotgun) A.Hunt up the middle to HOU 15 for 6 yards (W.Gilberry).,23,1,-7,HOU 9,0,HOU,
+4,438,1,07:16,(7:16) (Shotgun) T.Savage sacked at HOU 15 for -7 yards (G.Atkins).,10,1,-7,HOU 22,0,HOU,
+7,873,4,14:22,"(14:22) K.Huber punts 48 yards to HOU 18, Center-C.Harris, fair catch by T.Ervin. (The Punt Hang Time was 4.59 seconds.)",4,2,6,CIN 34,0,CIN,PUNT
+7,777,1,01:05,"(1:05) J.Hill left tackle to CIN 30 for 2 yards (B.McKinney, C.Covington).",10,1,2,CIN 28,0,CIN,
+7,827,0,,END QUARTER 1,0,1,0,,0,,
+7,849,3,15:00,"(15:00) (Shotgun) A.Dalton pass short left to C.Core to CIN 34 for 6 yards (K.Jackson, Q.Demps).",10,2,6,CIN 28,0,CIN,
+7,798,2,00:19,(:19) J.Hill right tackle to CIN 28 for -2 yards (V.Wilfork).,8,1,0,CIN 30,0,CIN,
+6,715,2,02:01,(2:01) A.Blue left guard to HOU 20 for 6 yards (K.Dansby; P.Sims).,9,1,7,HOU 14,0,HOU,
+6,758,4,01:15,"(1:15) S.Lechler punts 52 yards to CIN 28, Center-J.Weeks. A.Erickson MUFFS catch, touched at CIN 28, and recovers at CIN 28. A.Erickson to CIN 28 for no gain (D.Jones).",3,1,7,HOU 20,0,HOU,FUMBLE
+6,694,1,02:33,"(2:33) A.Blue left tackle to HOU 14 for 1 yard (D.Peko, K.Dansby).",10,1,1,HOU 13,0,HOU,
+6,736,3,01:20,(1:20) (Shotgun) T.Savage pass incomplete short middle to W.Fuller (D.Kirkpatrick).,3,1,7,HOU 20,0,HOU,
+9,1007,2,12:36,(12:36) (Shotgun) A.Dalton pass short left to C.Core to CIN 37 for 9 yards (A.Bouye).,10,2,9,CIN 28,0,CIN,
+9,1031,3,11:54,(11:54) A.Dalton pass incomplete deep middle to C.Core (A.Bouye).,1,2,9,CIN 37,0,CIN,
+9,1053,4,11:47,"(11:47) K.Huber punts 47 yards to HOU 16, Center-C.Harris. T.Ervin pushed ob at HOU 17 for 1 yard (J.Shaw).",1,2,9,CIN 37,0,CIN,PUNT
+9,985,1,12:40,(12:40) A.Dalton pass incomplete short left to C.Core.,10,2,0,CIN 28,0,CIN,
+8,892,1,14:13,(14:13) A.Blue up the middle to HOU 21 for 3 yards (D.Peko; K.Dansby).,10,2,3,HOU 18,0,HOU,
+8,938,3,12:58,(12:58) (Shotgun) T.Savage pass incomplete short left to C.Fiedorowicz.,4,2,6,HOU 24,0,HOU,
+8,960,4,12:52,"(12:52) S.Lechler punts 44 yards to CIN 32, Center-J.Weeks. A.Erickson to CIN 28 for -4 yards (D.Jones, B.Peters).",4,2,6,HOU 24,0,HOU,PUNT
+8,917,2,13:40,(13:40) A.Blue right guard to HOU 24 for 3 yards (V.Rey).,7,2,6,HOU 21,0,HOU,
+11,1191,1,09:39,(9:39) R.Burkhead right tackle to CIN 42 for 8 yards (Q.Demps).,10,2,19,CIN 34,0,CIN,
+11,1212,2,09:01,(9:01) (Shotgun) R.Burkhead left guard to CIN 41 for -1 yards (D.Reader; J.Clowney).,2,2,18,CIN 42,0,CIN,
+11,1167,1,10:04,(10:04) A.Dalton pass short right to R.Burkhead pushed ob at CIN 34 for 11 yards (C.Moore).,10,2,11,CIN 23,0,CIN,
+11,1252,4,07:42,"(7:42) K.Huber punts 54 yards to HOU 15, Center-C.Harris. T.Ervin to HOU 29 for 14 yards (P.Dawson). (The Punt Hang Time was 4.33 seconds.)",13,2,8,CIN 31,0,CIN,PUNT
+11,1233,3,08:17,(8:17) (Shotgun) A.Dalton sacked at CIN 31 for -10 yards (J.Clowney).,3,2,8,CIN 41,0,CIN,
+10,1120,3,10:21,(10:21) (Shotgun) T.Savage pass incomplete short left to W.Fuller [S.Williams].,5,2,5,HOU 22,0,HOU,
+10,1142,4,10:17,"(10:17) S.Lechler punts 55 yards to CIN 23, Center-J.Weeks. A.Erickson to CIN 23 for no gain (A.Hunt).",5,2,5,HOU 22,0,HOU,PUNT
+10,1099,2,11:03,(11:03) (Shotgun) A.Blue up the middle to HOU 22 for 5 yards (G.Atkins).,10,2,5,HOU 17,0,HOU,
+10,1078,1,11:39,(11:39) A.Blue up the middle to HOU 17 for no gain (G.Iloka; V.Rey).,10,2,0,HOU 17,0,HOU,
+13,1557,3,02:00,(2:00) J.Hill left guard to CIN 31 for 1 yard (Q.Demps).,1,2,23,CIN 30,0,CIN,
+13,1540,0,02:00,Two-Minute Warning,0,2,22,,0,,
+13,1426,1,04:58,(4:58) R.Burkhead left guard to CIN 10 for 2 yards (Q.Demps; A.Hal).,10,2,22,CIN 8,0,CIN,
+13,1629,2,01:10,(1:10) (Shotgun) A.Dalton pass deep middle to T.Boyd to HOU 48 for 21 yards (B.Cushing).,10,2,44,CIN 31,0,CIN,
+13,1607,1,01:14,(1:14) (Shotgun) A.Dalton pass incomplete short right to C.Uzomah.,10,2,23,CIN 31,0,CIN,
+13,1578,0,01:14,Timeout #1 by CIN at 01:14.,0,2,23,,0,,TIMEOUT
+13,1447,2,04:15,(4:15) (Shotgun) A.Dalton pass short left to C.Core pushed ob at CIN 16 for 6 yards (A.Bouye).,8,2,8,CIN 10,0,CIN,
+13,1716,3,00:36,(:36) (Shotgun) A.Dalton pass short left to C.Uzomah pushed ob at HOU 36 for 6 yards (Q.Demps).,4,2,56,HOU 42,0,CIN,
+13,1471,3,03:48,(3:48) A.Dalton pass short right to B.LaFell to CIN 21 for 5 yards (B.Cushing).,2,2,13,CIN 16,0,CIN,
+13,1495,1,03:15,(3:15) R.Burkhead up the middle to CIN 25 for 4 yards (B.McKinney).,10,2,17,CIN 21,0,CIN,
+13,1675,2,00:41,(:41) (Shotgun) A.Dalton pass short left to C.Core to HOU 42 for 6 yards (A.Bouye).,10,2,50,HOU 48,0,CIN,
+13,1653,1,00:47,(:47) (Shotgun) A.Dalton pass incomplete short right to B.LaFell.,10,2,44,HOU 48,0,CIN,
+13,1786,2,00:05,"(:05) R.Bullock 43 yard field goal is GOOD, Center-C.Harris, Holder-K.Huber.",10,2,67,HOU 25,1,CIN,FG
+13,1516,2,02:35,(2:35) (Shotgun) A.Dalton pass short right to A.Erickson to CIN 30 for 5 yards (A.Hal).,6,2,22,CIN 25,0,CIN,
+13,1740,1,00:31,(:31) (Shotgun) A.Dalton pass short right to B.LaFell to HOU 25 for 11 yards (J.Joseph).,10,2,67,HOU 36,0,CIN,
+13,1764,1,00:09,(:09) (Shotgun) A.Dalton pass incomplete deep right to B.LaFell.,10,2,67,HOU 25,0,CIN,
+13,1699,0,00:36,Timeout #2 by CIN at 00:36.,0,2,50,,0,,TIMEOUT
+12,1305,2,07:09,(7:09) A.Blue left tackle to HOU 39 for 3 yards (M.Johnson).,3,2,10,HOU 36,0,HOU,
+12,1326,1,06:29,(6:29) A.Blue right guard to HOU 42 for 3 yards (K.Dansby; M.Hunt).,10,2,13,HOU 39,0,HOU,
+12,1347,2,05:57,"(5:57) A.Blue left guard to HOU 39 for -3 yards (P.Sims, M.Johnson).",7,2,10,HOU 42,0,HOU,
+12,1277,1,07:29,(7:29) T.Savage pass short left to C.Fiedorowicz to HOU 36 for 7 yards (R.Maualuga).,10,2,7,HOU 29,0,HOU,
+12,1368,3,05:16,(5:16) (Shotgun) T.Savage pass incomplete short left to D.Hopkins (V.Rey).,10,2,10,HOU 39,0,HOU,
+12,1390,4,05:11,"(5:11) S.Lechler punts 51 yards to CIN 10, Center-J.Weeks. A.Erickson to CIN 19 for 9 yards (C.Moore). PENALTY on CIN-C.Fejedelem, Illegal Block Above the Waist, 8 yards, enforced at CIN 16. Penalty on CIN-M.Flowers, Illegal Block Above the Waist, declined.",10,2,10,HOU 39,0,HOU,PUNT
+15,2271,2,08:23,(8:23) J.Hill right tackle to CIN 38 for 4 yards (A.Bouye).,6,3,8,CIN 34,0,CIN,
+15,2316,1,07:14,(7:14) (Shotgun) A.Dalton sacked at CIN 34 for -8 yards (W.Mercilus).,10,3,4,CIN 42,0,CIN,
+15,2339,2,06:35,(6:35) A.Dalton pass short right to R.Burkhead to CIN 38 for 4 yards (J.Simon; D.Reader).,18,3,8,CIN 34,0,CIN,
+15,2225,0,09:05,N.Novak kicks 62 yards from HOU 35 to CIN 3. A.Erickson pushed ob at CIN 30 for 27 yards (E.Pleasant).,0,3,0,HOU 35,0,HOU,KICKOFF
+15,2380,3,05:47,(5:47) (Shotgun) A.Dalton pass short right to R.Burkhead to CIN 39 for 1 yard (E.Pleasant).,14,3,9,CIN 38,0,CIN,
+15,2404,4,05:16,"(5:16) K.Huber punts 47 yards to HOU 14, Center-C.Harris. T.Ervin to HOU 24 for 10 yards (C.Peerman; D.Dennard).",13,3,9,CIN 39,0,CIN,PUNT
+15,2292,3,07:41,(7:41) (Shotgun) A.Dalton pass short left to T.Boyd to CIN 42 for 4 yards (A.Bouye). HOU-A.Bouye was injured during the play. His return is Probable.,2,3,12,CIN 38,0,CIN,
+15,2247,1,08:59,(8:59) A.Dalton pass short left to B.LaFell pushed ob at CIN 34 for 4 yards (A.Bouye).,10,3,4,CIN 30,0,CIN,
+15,2363,0,05:47,Timeout #1 by CIN at 05:47.,0,3,8,,0,,TIMEOUT
+14,2088,2,11:44,(11:44) T.Savage pass short right to A.Blue to CIN 8 for 4 yards (R.Maualuga).,3,3,67,CIN 12,0,HOU,
+14,2206,4,09:09,"(9:09) N.Novak 25 yard field goal is GOOD, Center-J.Weeks, Holder-S.Lechler.",7,3,68,CIN 7,1,HOU,FG
+14,1834,1,15:00,"(15:00) (Shotgun) T.Savage pass short right to C.Fiedorowicz to HOU 39 for 14 yards (S.Williams). Penalty on CIN-K.Dansby, Illegal Contact, declined.",10,3,14,HOU 25,0,HOU,
+14,1999,1,12:39,"(12:39) (Shotgun) T.Savage pass short right to J.Grimes pushed ob at CIN 31 for 8 yards (D.Kirkpatrick). PENALTY on CIN-A.Jones, Illegal Use of Hands, 5 yards, enforced at CIN 39 - No Play.",20,3,41,CIN 39,0,HOU,PENALTY
+14,1966,1,12:43,"(12:43) (Shotgun) T.Savage pass incomplete deep left to D.Hopkins. PENALTY on HOU-D.Hopkins, Offensive Pass Interference, 10 yards, enforced at CIN 29 - No Play.",10,3,36,CIN 29,0,HOU,PENALTY
+14,2067,1,12:18,(12:18) A.Blue up the middle to CIN 12 for 7 yards (K.Dansby).,10,3,63,CIN 19,0,HOU,
+14,1819,0,15:00,"R.Bullock kicks 65 yards from CIN 35 to end zone, Touchback.",0,3,0,CIN 35,0,CIN,KICKOFF
+14,2138,2,10:55,(10:55) (Shotgun) A.Blue right guard to CIN 6 for 2 yards (K.Dansby).,8,3,69,CIN 8,0,HOU,
+14,2182,3,09:51,(9:51) (Shotgun) T.Savage pass short left to A.Hunt to CIN 7 for 4 yards (M.Johnson).,11,3,68,CIN 11,0,HOU,
+14,2034,1,12:25,"(12:25) T.Savage pass incomplete short right [C.Dunlap]. PENALTY on CIN-C.Dunlap, Face Mask (15 Yards), 15 yards, enforced at CIN 34 - No Play.",10,3,56,CIN 34,0,HOU,PENALTY
+14,1869,1,14:41,(14:41) (Shotgun) T.Savage pass short middle to W.Fuller to CIN 47 for 14 yards (D.Kirkpatrick).,10,3,28,HOU 39,0,HOU,
+14,2112,1,11:03,(11:03) (Shotgun) T.Savage pass incomplete short left to R.Griffin.,8,3,67,CIN 8,0,HOU,
+14,1938,3,13:05,"(13:05) (Shotgun) T.Savage pass short right to C.Fiedorowicz to CIN 29 for 12 yards (C.Dunlap). FUMBLES (C.Dunlap), ball out of bounds at CIN 29.",4,3,46,CIN 41,0,HOU,FUMBLE
+14,2159,3,10:11,"(10:11) (Shotgun) PENALTY on HOU-A.Hunt, False Start, 5 yards, enforced at CIN 6 - No Play.",6,3,64,CIN 6,0,HOU,PENALTY
+14,1917,2,13:49,(13:49) (Shotgun) A.Blue right end to CIN 41 for 1 yard (J.Shaw).,5,3,34,CIN 42,0,HOU,
+14,1893,1,14:13,(14:13) (Shotgun) T.Savage pass short left to A.Blue to CIN 42 for 5 yards (K.Dansby; V.Rey).,10,3,33,CIN 47,0,HOU,
+17,2845,0,13:31,"N.Novak kicks 64 yards from HOU 35 to CIN 1. A.Erickson to CIN 20 for 19 yards (J.Grimes, A.Hunt).",0,4,0,HOU 35,0,HOU,KICKOFF
+17,2891,1,12:48,(12:48) (Shotgun) A.Dalton pass short middle intended for T.Boyd INTERCEPTED by Q.Demps at CIN 40. Q.Demps to CIN 40 for no gain (R.Burkhead).,10,4,15,CIN 35,0,CIN,INT
+17,2867,1,13:21,(13:21) (Shotgun) A.Dalton pass short right to B.LaFell to CIN 35 for 15 yards (J.Joseph).,10,4,15,CIN 20,0,CIN,
+16,2429,1,05:05,(5:05) (Shotgun) T.Savage pass incomplete short left to C.Fiedorowicz (K.Dansby).,10,3,0,HOU 24,0,HOU,
+16,2597,1,02:51,(2:51) (Shotgun) T.Savage pass short middle to D.Hopkins to CIN 49 for 6 yards (N.Vigil) [W.Gilberry].,20,3,27,HOU 45,0,HOU,
+16,2783,2,14:23,(14:23) (Shotgun) A.Blue up the middle to CIN 5 for 1 yard (V.Rey; D.Peko).,6,4,71,CIN 6,0,HOU,
+16,2721,0,,END QUARTER 3,0,3,46,,0,,
+16,2529,3,03:27,"(3:27) (Shotgun) T.Savage pass incomplete short left to W.Fuller. PENALTY on CIN-A.Jones, Defensive Pass Interference, 8 yards, enforced at HOU 47 - No Play.",2,3,31,HOU 47,0,HOU,PENALTY
+16,2484,1,04:56,(4:56) (Shotgun) A.Blue up the middle to HOU 45 for 6 yards (G.Iloka).,10,3,21,HOU 39,0,HOU,
+16,2562,1,03:23,"(3:23) (Shotgun) T.Savage pass short right to D.Hopkins pushed ob at CIN 30 for 15 yards (D.Dennard). PENALTY on HOU-D.Hopkins, Offensive Pass Interference, 10 yards, enforced at CIN 45 - No Play.",10,3,21,CIN 45,0,HOU,PENALTY
+16,2451,2,05:00,"(5:00) (Shotgun) T.Savage pass incomplete short right to A.Blue [M.Hunt]. PENALTY on CIN-M.Hunt, Roughing the Passer, 15 yards, enforced at HOU 24 - No Play.",10,3,37,HOU 24,0,HOU,PENALTY
+16,2645,3,01:24,"(1:24) (Shotgun) T.Savage pass incomplete short left to D.Hopkins. PENALTY on CIN-A.Jones, Defensive Pass Interference, 9 yards, enforced at CIN 45 - No Play.",10,3,40,CIN 45,0,HOU,PENALTY
+16,2737,3,15:00,(15:00) (Shotgun) T.Savage pass short left to A.Hunt pushed ob at CIN 6 for 24 yards (S.Williams).,4,4,70,CIN 30,0,HOU,
+16,2621,2,02:08,(2:08) (Shotgun) T.Savage pass short middle to A.Blue to CIN 45 for 4 yards (V.Rey).,14,3,31,CIN 49,0,HOU,
+16,2826,4,13:34,"(13:34) N.Novak 22 yard field goal is GOOD, Center-J.Weeks, Holder-S.Lechler.",5,4,71,CIN 5,1,HOU,FG
+16,2697,2,00:36,(:36) (Shotgun) T.Savage pass short left to C.Fiedorowicz to CIN 30 for 9 yards (S.Williams) [D.Williams].,13,3,46,CIN 39,0,HOU,
+16,2678,1,01:18,(1:18) (Shotgun) T.Savage sacked at CIN 39 for -3 yards (W.Clarke).,10,3,37,CIN 36,0,HOU,
+16,2505,2,04:12,(4:12) (Shotgun) T.Savage pass short left to K.Mumphery to HOU 47 for 2 yards (G.Iloka) [D.Dennard].,4,3,23,HOU 45,0,HOU,
+16,2761,1,14:29,(14:29) T.Savage pass incomplete short left to W.Fuller.,6,4,70,CIN 6,0,HOU,
+16,2804,3,13:38,(13:38) (Shotgun) T.Savage pass incomplete short right to D.Hopkins.,5,4,71,CIN 5,0,HOU,
+19,3026,2,11:02,(11:02) (Shotgun) A.Dalton pass incomplete short left to B.LaFell.,5,4,5,CIN 14,0,CIN,
+19,3001,1,11:40,(11:40) R.Burkhead right end to CIN 14 for 5 yards (A.Smith).,10,4,5,CIN 9,0,CIN,
+19,3079,0,10:45,"R.Bullock extra point is GOOD, Center-C.Harris, Holder-K.Huber.",0,4,91,HOU 15,1,CIN,XP
+19,3048,3,10:59,"(10:59) (Shotgun) A.Dalton pass short left to B.LaFell for 86 yards, TOUCHDOWN. Penalty on HOU-E.Pleasant, Defensive Offside, declined.",5,4,91,CIN 14,1,CIN,TD
+18,2982,4,11:48,"(11:48) S.Lechler punts 31 yards to CIN 9, Center-J.Weeks, fair catch by A.Erickson. (The Punt Hang Time was 4.26 seconds.)",10,4,0,CIN 40,0,HOU,PUNT
+18,2960,3,11:53,(11:53) (Shotgun) T.Savage pass incomplete short middle to R.Griffin (V.Rey).,10,4,0,CIN 40,0,HOU,
+18,2938,2,11:59,(11:59) (Shotgun) T.Savage pass incomplete short right to D.Hopkins.,10,4,0,CIN 40,0,HOU,
+18,2917,1,12:41,(12:41) A.Blue up the middle to CIN 40 for no gain (D.Peko; G.Iloka).,10,4,0,CIN 40,0,HOU,

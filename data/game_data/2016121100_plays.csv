@@ -1,175 +1,175 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1644,2,06:22,,4,2,13,PIT 31,0,PIT,
-9,1616,1,07:00,,10,2,6,PIT 25,0,PIT,
-9,1593,0,07:07,,0,2,0,BUF 35,0,BUF,KICKOFF
-9,1742,3,04:50,,10,2,19,PIT 49,0,PIT,PENALTY
-9,1715,2,04:55,,10,2,24,PIT 49,0,PIT,
-9,1688,1,05:03,,10,2,24,PIT 49,0,PIT,
-9,1793,4,04:42,,15,2,19,PIT 44,0,PIT,PUNT
-9,1666,1,05:43,,10,2,24,PIT 38,0,PIT,
-9,1766,3,04:50,,15,2,19,PIT 44,0,PIT,
-10,1861,1,03:47,,10,2,25,BUF 38,0,BUF,
-10,1811,1,04:36,,10,2,4,BUF 20,0,BUF,
-10,1934,4,02:33,,3,2,25,BUF 45,0,BUF,PUNT
-10,1911,3,02:38,,3,2,25,BUF 45,0,BUF,
-10,1885,2,03:21,,3,2,25,BUF 45,0,BUF,
-10,1833,2,04:12,,6,2,18,BUF 24,0,BUF,
-20,3720,2,05:23,,6,4,38,BUF 42,0,PIT,
-20,3673,2,06:49,,10,4,33,PIT 25,0,PIT,
-20,3651,1,07:27,,10,4,0,PIT 25,0,PIT,
-20,3879,0,03:43,,0,4,54,,0,,TIMEOUT
-20,3897,4,03:43,,8,4,54,BUF 21,1,PIT,FG
-20,3635,0,07:27,,0,4,0,BUF 35,0,BUF,KICKOFF
-20,3857,3,03:47,,8,4,54,BUF 21,0,PIT,
-20,3698,1,06:04,,10,4,33,BUF 46,0,PIT,
-20,3765,3,04:44,,1,4,52,BUF 37,0,PIT,
-20,3747,0,04:44,,0,4,38,,0,,TIMEOUT
-20,3790,1,04:34,,10,4,54,BUF 23,0,PIT,
-20,3817,2,03:53,,8,4,54,BUF 21,0,PIT,
-20,3839,0,03:47,,0,4,54,,0,,TIMEOUT
-6,1393,4,09:38,,3,2,18,BUF 43,0,BUF,PUNT
-6,1224,1,12:00,,10,2,9,BUF 25,0,BUF,
-6,1205,0,12:00,,0,2,0,PIT 35,0,PIT,KICKOFF
-6,1295,2,10:23,,1,2,18,BUF 45,0,BUF,
-6,1267,1,10:55,,10,2,20,BUF 36,0,BUF,
-6,1323,3,09:42,,3,2,18,BUF 43,0,BUF,
-6,1246,2,11:24,,1,2,11,BUF 34,0,BUF,
-18,3387,2,11:28,,5,4,29,BUF 23,0,PIT,
-18,3413,3,10:43,,2,4,29,BUF 20,0,PIT,
-18,3365,1,12:09,,10,4,25,BUF 28,0,PIT,
-18,3435,4,10:02,,1,4,29,BUF 19,1,PIT,FG
-18,3320,1,13:31,,10,4,29,BUF 48,0,PIT,
-18,3342,2,12:53,,4,4,20,BUF 42,0,PIT,
-1,302,2,10:44,,5,1,63,BUF 15,0,PIT,INT
-1,252,2,12:16,,12,1,58,BUF 36,0,PIT,
-1,274,1,11:30,,10,1,63,BUF 20,0,PIT,
-1,168,3,13:41,,10,1,44,PIT 34,0,PIT,
-1,36,0,15:00,,0,1,63,BUF 35,0,BUF,KICKOFF
-1,142,2,13:47,,10,1,12,PIT 34,0,PIT,
-1,201,1,12:59,,10,1,42,BUF 34,0,PIT,
-1,234,0,12:16,,0,1,42,,0,,TIMEOUT
-1,115,1,13:53,,10,1,12,PIT 34,0,PIT,
-1,59,1,14:53,,10,1,2,PIT 22,0,PIT,
-1,83,2,14:23,,8,1,12,PIT 24,0,PIT,
-5,972,2,00:28,,6,1,21,BUF 45,0,PIT,
-5,919,2,01:44,,3,1,5,PIT 46,0,PIT,
-5,894,1,02:14,,10,1,12,PIT 39,0,PIT,
-5,1188,0,12:00,,0,2,61,BUF 15,1,PIT,XP
-5,1033,3,15:00,,1,2,21,BUF 40,0,PIT,
-5,1170,1,12:05,,7,2,61,BUF 7,1,PIT,TD
-5,1000,0,,,0,1,21,,0,,
-5,1083,1,13:36,,10,2,36,BUF 25,0,PIT,
-5,949,1,01:07,,10,1,16,BUF 49,0,PIT,
-5,1109,2,13:32,,10,2,45,BUF 25,0,PIT,
-5,1055,4,14:19,,1,2,36,BUF 40,0,PIT,
-5,1016,0,,,0,1,21,,0,,
-5,1137,3,12:45,,1,2,54,BUF 16,0,PIT,
-13,2447,3,12:20,,10,3,14,BUF 30,0,BUF,
-13,2403,1,13:39,,10,3,13,BUF 30,0,BUF,
-13,2322,1,14:55,,10,3,0,BUF 16,0,BUF,
-13,2344,2,14:20,,10,3,0,BUF 16,0,BUF,
-13,2474,4,12:14,,10,3,14,BUF 30,0,BUF,PUNT
-13,2375,3,14:15,,10,3,14,BUF 16,0,BUF,
-13,2425,2,13:02,,11,3,14,BUF 29,0,BUF,
-13,2294,0,15:00,,0,3,0,PIT 35,0,PIT,KICKOFF
-21,4118,0,02:00,,0,4,60,,0,,
-21,3988,1,03:24,,10,4,47,BUF 43,0,BUF,
-21,4064,1,02:57,,10,4,48,PIT 28,0,BUF,
-21,4170,2,01:50,,11,4,72,PIT 16,0,BUF,
-21,4217,0,01:25,,0,4,75,PIT 15,1,BUF,XP
-21,4090,2,02:21,,9,4,60,PIT 27,0,BUF,
-21,4136,1,02:00,,10,4,59,PIT 15,0,BUF,
-21,4199,1,01:28,,3,4,75,PIT 3,1,BUF,TD
-21,3965,2,03:31,,10,4,18,BUF 25,0,BUF,
-21,3933,1,03:38,,10,4,0,BUF 25,0,BUF,
-21,3917,0,03:38,,0,4,0,PIT 35,0,PIT,KICKOFF
-11,1982,0,02:00,,0,2,12,,0,,
-11,2050,3,00:54,,2,2,20,PIT 40,0,PIT,
-11,2087,4,00:45,,2,2,20,PIT 40,0,PIT,PUNT
-11,2028,2,01:30,,4,2,20,PIT 38,0,PIT,
-11,1960,1,02:24,,10,2,12,PIT 20,0,PIT,
-11,2000,1,02:00,,10,2,18,PIT 32,0,PIT,
-14,2588,0,09:12,,0,3,28,,0,,TIMEOUT
-14,2606,2,09:12,,7,3,23,PIT 46,0,PIT,PENALTY
-14,2725,1,06:19,,10,3,77,BUF 13,0,PIT,
-14,2522,1,11:16,,10,3,18,PIT 31,0,PIT,
-14,2675,2,07:48,,5,3,54,BUF 30,0,PIT,
-14,2544,2,10:34,,5,3,25,PIT 36,0,PIT,
-14,2566,1,09:52,,10,3,23,PIT 43,0,PIT,
-14,2630,2,09:12,,12,3,47,PIT 41,0,PIT,
-14,2696,3,07:05,,3,3,69,BUF 28,0,PIT,
-14,2500,1,12:01,,10,3,13,PIT 18,0,PIT,
-14,2747,2,05:35,,2,3,82,BUF 5,1,PIT,TD
-14,2765,0,05:28,,0,3,82,BUF 15,1,PIT,XP
-14,2653,1,08:33,,10,3,52,BUF 35,0,PIT,
-8,1522,2,07:53,,16,2,-1,PIT 16,0,BUF,
-8,1484,2,08:00,,6,2,7,PIT 6,0,BUF,PENALTY
-8,1461,1,08:34,,7,2,1,PIT 7,0,BUF,
-8,1551,3,07:11,,8,2,7,PIT 8,1,BUF,TD
-8,1576,0,07:07,,0,2,7,PIT 15,1,BUF,XP
-19,3618,0,07:27,,0,4,82,PIT 15,0,BUF,XPM
-19,3521,3,08:29,,9,4,42,BUF 19,0,BUF,
-19,3454,0,09:57,,0,4,0,PIT 35,0,PIT,KICKOFF
-19,3580,2,07:39,,10,4,82,PIT 40,1,BUF,TD
-19,3476,1,09:51,,10,4,82,BUF 18,0,BUF,
-19,3553,1,07:47,,10,4,42,PIT 40,0,BUF,
-19,3501,2,09:16,,5,4,1,BUF 23,0,BUF,
-22,4250,1,01:25,,10,4,-1,BUF 39,0,PIT,
-22,4271,2,00:45,,11,4,-2,BUF 40,0,PIT,
-22,4312,3,00:44,,11,4,-2,BUF 40,0,PIT,
-22,4234,0,01:25,,0,4,0,BUF 35,0,BUF,KICKOFF
-22,4351,0,00:00,,0,4,-2,,0,,
-22,4294,0,00:44,,0,4,-1,,0,,TIMEOUT
-22,4334,0,,,0,4,-2,,0,,
-12,2177,0,00:11,,0,2,-7,,0,,TIMEOUT
-12,2154,1,00:23,,17,2,-7,BUF 8,0,BUF,
-12,2195,2,00:11,,17,2,-11,BUF 8,0,BUF,PENALTY
-12,2114,1,00:32,,10,2,-7,BUF 15,0,BUF,PENALTY
-12,2240,1,00:04,,10,2,23,BUF 26,0,BUF,
-12,2218,2,00:11,,21,2,23,BUF 4,0,BUF,
-12,2262,0,,,0,2,23,,0,,
-12,2278,0,,,0,2,23,,0,,
-16,3108,0,,,0,3,43,,0,,
-16,3041,1,02:10,,20,3,38,PIT 45,0,PIT,
-16,2955,1,03:58,,10,3,5,PIT 40,0,PIT,PENALTY
-16,3163,4,14:55,,5,4,53,BUF 17,0,PIT,PENALTY
-16,3124,0,,,0,3,43,,0,,
-16,3140,3,15:00,,5,4,51,BUF 17,0,PIT,
-16,3086,2,00:38,,4,3,43,BUF 16,0,PIT,
-16,2987,1,03:23,,5,3,15,PIT 45,0,PIT,
-16,3064,1,01:23,,10,3,44,BUF 22,0,PIT,
-16,3009,1,02:42,,10,3,5,BUF 45,0,PIT,PENALTY
-16,3255,3,13:48,,5,4,53,BUF 7,0,PIT,INT
-16,3200,1,14:55,,10,4,52,BUF 12,0,PIT,
-16,3222,2,14:09,,6,4,53,BUF 8,0,PIT,
-7,1435,2,08:45,,10,2,0,PIT 25,0,PIT,INT
-7,1413,1,09:30,,10,2,0,PIT 25,0,PIT,
-3,445,2,08:26,,8,1,42,PIT 31,0,PIT,
-3,505,2,07:46,,10,1,71,BUF 29,0,PIT,
-3,474,1,07:49,,10,1,71,BUF 29,0,PIT,
-3,631,0,06:00,,0,1,71,BUF 15,1,PIT,XP
-3,424,1,09:06,,10,1,2,PIT 29,0,PIT,
-3,609,3,06:05,,2,1,71,BUF 3,1,PIT,TD
-3,582,2,06:10,,2,1,68,BUF 3,0,PIT,
-3,528,3,07:39,,10,1,60,BUF 29,0,PIT,
-3,560,1,06:54,,10,1,68,BUF 11,0,PIT,
-17,3278,1,13:43,,10,4,0,BUF 20,0,BUF,INT
-4,811,2,03:43,,17,1,-11,BUF 9,0,BUF,
-4,785,1,04:17,,16,1,-5,BUF 10,0,BUF,
-4,648,0,06:00,,0,1,0,PIT 35,0,PIT,KICKOFF
-4,748,1,04:29,,10,1,-4,BUF 16,0,BUF,PENALTY
-4,853,4,02:25,,16,1,-4,BUF 10,0,BUF,PUNT
-4,671,1,05:54,,10,1,1,BUF 14,0,BUF,
-4,713,3,04:39,,13,1,-4,BUF 11,0,BUF,PENALTY
-4,693,2,05:22,,9,1,-3,BUF 15,0,BUF,
-4,831,3,03:00,,23,1,-4,BUF 3,0,BUF,
-2,371,3,09:23,,12,1,-2,BUF 38,0,BUF,
-2,328,1,10:34,,10,1,-4,BUF 40,0,BUF,
-2,398,4,09:17,,12,1,-2,BUF 38,0,BUF,PUNT
-2,349,2,09:58,,14,1,-2,BUF 36,0,BUF,
-15,2802,1,05:28,,10,3,-5,BUF 25,0,BUF,PENALTY
-15,2782,0,05:28,,0,3,0,PIT 35,0,PIT,KICKOFF
-15,2846,1,05:04,,15,3,-5,BUF 20,0,BUF,
-15,2873,2,05:00,,15,3,6,BUF 20,0,BUF,
-15,2929,4,04:11,,4,3,6,BUF 31,0,BUF,PUNT
-15,2902,3,04:17,,4,3,6,BUF 31,0,BUF,
+20,3698,1,06:04,(6:04) L.Bell left tackle to BUF 42 for 4 yards (Z.Brown).,10,4,33,BUF 46,0,PIT,
+20,3879,0,03:43,Timeout #2 by BUF at 03:43.,0,4,54,,0,,TIMEOUT
+20,3765,3,04:44,"(4:44) B.Roethlisberger pass short right to L.Bell to BUF 23 for 14 yards (J.Ihedigbo). Dump pass, caught at BUF 35.",1,4,52,BUF 37,0,PIT,
+20,3747,0,04:44,Timeout #2 by PIT at 04:44.,0,4,38,,0,,TIMEOUT
+20,3635,0,07:27,"D.Carpenter kicks 65 yards from BUF 35 to end zone, Touchback.",0,4,0,BUF 35,0,BUF,KICKOFF
+20,3790,1,04:34,"(4:34) L.Bell up the middle to BUF 21 for 2 yards (C.Graham, P.Brown).",10,4,54,BUF 23,0,PIT,
+20,3839,0,03:47,Timeout #1 by BUF at 03:47.,0,4,54,,0,,TIMEOUT
+20,3857,3,03:47,(3:47) L.Bell right guard to BUF 21 for no gain (M.Dareus).,8,4,54,BUF 21,0,PIT,
+20,3897,4,03:43,"(3:43) C.Boswell 39 yard field goal is GOOD, Center-G.Warren, Holder-J.Berry.",8,4,54,BUF 21,1,PIT,FG
+20,3673,2,06:49,"(6:49) B.Roethlisberger pass short right to A.Brown ran ob at BUF 46 for 29 yards. Flag route, caught along sideline at PIT 38.",10,4,33,PIT 25,0,PIT,
+20,3720,2,05:23,"(5:23) L.Bell up the middle to BUF 37 for 5 yards (L.Douzable, L.Alexander).",6,4,38,BUF 42,0,PIT,
+20,3651,1,07:27,(7:27) L.Bell left guard to PIT 25 for no gain (C.Graham).,10,4,0,PIT 25,0,PIT,
+20,3817,2,03:53,(3:53) L.Bell right tackle to BUF 21 for no gain (L.Alexander).,8,4,54,BUF 21,0,PIT,
+21,3917,0,03:38,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback. B.Tate kneels 4 yds. into end zone.",0,4,0,PIT 35,0,PIT,KICKOFF
+21,4217,0,01:25,"D.Carpenter extra point is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",0,4,75,PIT 15,1,BUF,XP
+21,4090,2,02:21,"(2:21) (Shotgun) T.Taylor pass short middle to N.O'Leary to PIT 15 for 12 yards (R.Golden). Caught at PIT 21, crossing from left.",9,4,60,PIT 27,0,BUF,
+21,4170,2,01:50,(1:50) (Shotgun) T.Taylor pass short middle to L.McCoy to PIT 3 for 13 yards (S.Davis). Caught at PIT 12.,11,4,72,PIT 16,0,BUF,
+21,4064,1,02:57,"(2:57) (No Huddle, Shotgun) T.Taylor scrambles left end to PIT 27 for 1 yard (R.Shazier).",10,4,48,PIT 28,0,BUF,
+21,4199,1,01:28,"(1:28) (No Huddle, Shotgun) L.McCoy up the middle for 3 yards, TOUCHDOWN.",3,4,75,PIT 3,1,BUF,TD
+21,3933,1,03:38,"(3:38) (Shotgun) T.Taylor pass incomplete deep right to S.Watkins. Overthrown, receiver along sideline at 50. QB pressure: B.Dupree.",10,4,0,BUF 25,0,BUF,
+21,3965,2,03:31,"(3:31) (Shotgun) T.Taylor pass incomplete deep right to S.Watkins [S.Davis]. Out-pattern, caught out of bounds at BUF 41. Buffalo challenged the incomplete pass ruling, and the play was REVERSED. (Shotgun) T.Taylor pass deep right to S.Watkins ran ob at BUF 43 for 18 yards [S.Davis]. Out-pattern, caught along sideline at BUF 41.",10,4,18,BUF 25,0,BUF,
+21,3988,1,03:24,(3:24) (Shotgun) T.Taylor pass deep middle to R.Woods to PIT 28 for 29 yards (R.Golden). Caught in flat at PIT 30.,10,4,47,BUF 43,0,BUF,
+21,4136,1,02:00,"(2:00) (Shotgun) T.Taylor pass short right to L.McCoy pushed ob at PIT 16 for -1 yards (B.Dupree). Swing pass, caught at PIT 20. QB pressure: W.Gay.",10,4,59,PIT 15,0,BUF,
+21,4118,0,02:00,Two-Minute Warning,0,4,60,,0,,
+22,4271,2,00:45,(:45) B.Roethlisberger kneels to BUF 40 for no gain.,11,4,-2,BUF 40,0,PIT,
+22,4250,1,01:25,(1:25) B.Roethlisberger kneels to BUF 40 for -1 yards.,10,4,-1,BUF 39,0,PIT,
+22,4334,0,,End of game - 4.13 pm,0,4,-2,,0,,
+22,4312,3,00:44,(:44) B.Roethlisberger kneels to BUF 41 for -1 yards.,11,4,-2,BUF 40,0,PIT,
+22,4294,0,00:44,Timeout #3 by BUF at 00:44.,0,4,-1,,0,,TIMEOUT
+22,4234,0,01:25,"D.Carpenter kicks onside 4 yards from BUF 35 to BUF 39, out of bounds.",0,4,0,BUF 35,0,BUF,KICKOFF
+22,4351,0,00:00,END GAME,0,4,-2,,0,,
+1,201,1,12:59,"(12:59) (No Huddle, Shotgun) B.Roethlisberger pass short left to A.Brown pushed ob at BUF 36 for -2 yards (N.Robey-Coleman). WR screen, caught at BUF 38.",10,1,42,BUF 34,0,PIT,
+1,274,1,11:30,"(11:30) (Shotgun) B.Roethlisberger pass short left to J.James to BUF 15 for 5 yards (L.Alexander; P.Brown). Out-pattern, caught at BUF 15.",10,1,63,BUF 20,0,PIT,
+1,59,1,14:53,"(14:53) (Shotgun) B.Roethlisberger pass short right to A.Brown to PIT 24 for 2 yards (R.Darby). Swing pass, caught at PIT 18.",10,1,2,PIT 22,0,PIT,
+1,302,2,10:44,(10:44) (Shotgun) B.Roethlisberger pass short middle intended for L.Green INTERCEPTED by L.Alexander at BUF 12. L.Alexander to BUF 40 for 28 yards (M.Pouncey).,5,1,63,BUF 15,0,PIT,INT
+1,142,2,13:47,"(13:47) (Shotgun) B.Roethlisberger pass incomplete short left to L.Green. Overthrown, receiver in flat at PIT 44, crossing from middle.",10,1,12,PIT 34,0,PIT,
+1,36,0,15:00,"D.Carpenter kicks 64 yards from BUF 35 to PIT 1. F.Toussaint to PIT 22 for 21 yards (K.Seymour, L.Alexander).",0,1,63,BUF 35,0,BUF,KICKOFF
+1,115,1,13:53,"(13:53) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short left to C.Hamilton. Overthrown, receiver near sideline at PIT 30. QB pressure: L.Alexander.",10,1,12,PIT 34,0,PIT,
+1,252,2,12:16,"(12:16) (Shotgun) L.Bell right tackle to BUF 20 for 16 yards (J.Hughes, P.Brown).",12,1,58,BUF 36,0,PIT,
+1,168,3,13:41,"(13:41) (No Huddle, Shotgun) B.Roethlisberger pass short right to L.Bell pushed ob at BUF 34 for 32 yards (Z.Brown). Dump pass, caught at PIT 32.",10,1,44,PIT 34,0,PIT,
+1,234,0,12:16,Timeout #1 by PIT at 12:16.,0,1,42,,0,,TIMEOUT
+1,83,2,14:23,"(14:23) (No Huddle, Shotgun) B.Roethlisberger pass short middle to L.Bell to PIT 34 for 10 yards (L.Douzable). Slant pattern, caught at PIT 27.",8,1,12,PIT 24,0,PIT,
+3,631,0,06:00,"C.Boswell extra point is GOOD, Center-G.Warren, Holder-J.Berry.",0,1,71,BUF 15,1,PIT,XP
+3,582,2,06:10,"(6:10) (Shotgun) B.Roethlisberger pass incomplete short left to A.Brown. Thrown wide of receiver, along sideline 3 yds. into end zone.",2,1,68,BUF 3,0,PIT,
+3,560,1,06:54,"(6:54) (Shotgun) L.Bell left tackle to BUF 3 for 8 yards (L.Alexander, C.Graham).",10,1,68,BUF 11,0,PIT,
+3,609,3,06:05,"(6:05) (Shotgun) L.Bell left guard for 3 yards, TOUCHDOWN.",2,1,71,BUF 3,1,PIT,TD
+3,445,2,08:26,(8:26) (Shotgun) B.Roethlisberger pass deep right to A.Brown pushed ob at BUF 29 for 40 yards (R.Darby). Caught along sideline at BUF 31.,8,1,42,PIT 31,0,PIT,
+3,474,1,07:49,"(7:49) (Shotgun) B.Roethlisberger pass incomplete short middle to A.Brown. Receiver and coverage at BUF 23, slanting from right.",10,1,71,BUF 29,0,PIT,
+3,505,2,07:46,(7:46) (Shotgun) B.Roethlisberger pass incomplete deep middle to A.Brown (R.Darby). Receiver and coverage in back of end zone.,10,1,71,BUF 29,0,PIT,
+3,528,3,07:39,"(7:39) (Shotgun) B.Roethlisberger pass short right to L.Green to BUF 11 for 18 yards (Z.Brown, C.White). Caught at BUF 24, crossing from middle.",10,1,60,BUF 29,0,PIT,
+3,424,1,09:06,"(9:06) L.Bell left guard to PIT 31 for 2 yards (Z.Brown, C.Graham).",10,1,2,PIT 29,0,PIT,
+2,371,3,09:23,"(9:23) (Shotgun) T.Taylor pass incomplete deep right to M.Goodwin. Thrown wide of receiver, near sideline at PIT 45.",12,1,-2,BUF 38,0,BUF,
+2,328,1,10:34,(10:34) T.Taylor sacked at BUF 36 for -4 yards (sack split by S.Tuitt and S.Davis).,10,1,-4,BUF 40,0,BUF,
+2,398,4,09:17,"(9:17) C.Schmidt punts 44 yards to PIT 18, Center-G.Sanborn. A.Brown ran ob at PIT 29 for 11 yards.",12,1,-2,BUF 38,0,BUF,PUNT
+2,349,2,09:58,(9:58) (Shotgun) L.McCoy left end pushed ob at BUF 38 for 2 yards (A.Burns).,14,1,-2,BUF 36,0,BUF,
+5,1083,1,13:36,"(13:36) (Shotgun) B.Roethlisberger pass incomplete deep middle to J.James. Dropped by receiver at BUF 8, slanting from right.",10,2,36,BUF 25,0,PIT,
+5,894,1,02:14,"(2:14) (Shotgun) B.Roethlisberger pass short left to L.Green to PIT 46 for 7 yards (Z.Brown). BUF-Z.Brown was injured during the play.  Caught at PIT 45, slanting from middle.",10,1,12,PIT 39,0,PIT,
+5,972,2,00:28,"(:28) (Shotgun) B.Roethlisberger pass short left to E.Rogers to BUF 40 for 5 yards (N.Robey-Coleman, C.Graham). Caught in flat at BUF 40.",6,1,21,BUF 45,0,PIT,
+5,1188,0,12:00,"C.Boswell extra point is GOOD, Center-G.Warren, Holder-J.Berry.",0,2,61,BUF 15,1,PIT,XP
+5,949,1,01:07,(1:07) (Shotgun) L.Bell right guard to BUF 45 for 4 yards (P.Brown; M.Dareus).,10,1,16,BUF 49,0,PIT,
+5,1055,4,14:19,"(14:19) (No Huddle) B.Roethlisberger pass short right to D.Johnson pushed ob at BUF 25 for 15 yards (P.Brown). Dump pass, caught at BUF 41.",1,2,36,BUF 40,0,PIT,
+5,1170,1,12:05,"(12:05) L.Bell left guard for 7 yards, TOUCHDOWN.",7,2,61,BUF 7,1,PIT,TD
+5,1137,3,12:45,"(12:45) B.Roethlisberger pass short right to A.Brown pushed ob at BUF 7 for 9 yards (C.Graham). Swing pass, caught at BUF 16, slanting to sideline.",1,2,54,BUF 16,0,PIT,
+5,919,2,01:44,(1:44) (Shotgun) L.Bell up the middle to BUF 49 for 5 yards (P.Brown).,3,1,5,PIT 46,0,PIT,
+5,1033,3,15:00,"(15:00) L.Bell up the middle to BUF 40 for no gain (M.Dareus, J.Ihedigbo).",1,2,21,BUF 40,0,PIT,
+5,1016,0,,END QUARTER 1,0,1,21,,0,,
+5,1109,2,13:32,"(13:32) (Shotgun) B.Roethlisberger pass short right to E.Rogers to BUF 16 for 9 yards (R.Darby). Crossing pattern, caught at BUF 25.",10,2,45,BUF 25,0,PIT,
+5,1000,0,,End of quarter - 1.41 pm,0,1,21,,0,,
+4,785,1,04:17,(4:17) (Shotgun) L.McCoy up the middle to BUF 9 for -1 yards (L.Walton).,16,1,-5,BUF 10,0,BUF,
+4,831,3,03:00,(3:00) (Shotgun) L.McCoy up the middle to BUF 10 for 7 yards (B.Dupree).,23,1,-4,BUF 3,0,BUF,
+4,693,2,05:22,(5:22) T.Taylor sacked at BUF 11 for -4 yards (B.Dupree).,9,1,-3,BUF 15,0,BUF,
+4,748,1,04:29,"(4:29) (Shotgun) R.Bush left end pushed ob at BUF 20 for 4 yards (M.Mitchell). Pitch-out at BUF 15. Rush credited to BUF 20 (spot of foul). PENALTY on BUF-M.Goodwin, Offensive Holding, 10 yards, enforced at BUF 20.",10,1,-4,BUF 16,0,BUF,PENALTY
+4,853,4,02:25,"(2:25) C.Schmidt punts 41 yards to PIT 49, Center-G.Sanborn. A.Brown to BUF 48 for 3 yards (J.Meeks). 0-yd. return credited (foul during kick). PENALTY on PIT-S.Coates, Offensive Holding, 10 yards, enforced at PIT 49.",16,1,-4,BUF 10,0,BUF,PUNT
+4,713,3,04:39,"(4:39) (Shotgun) T.Taylor pass short left intended for R.Woods INTERCEPTED by W.Gay at BUF 25. W.Gay for 25 yards, TOUCHDOWN NULLIFIED by Penalty. Pass deflected off R.Woods before INT. PENALTY on PIT-A.Burns, Defensive Holding, 5 yards, enforced at BUF 11 - No Play.",13,1,-4,BUF 11,0,BUF,PENALTY
+4,671,1,05:54,(5:54) (Shotgun) L.McCoy right guard to BUF 15 for 1 yard (W.Gay; R.Shazier).,10,1,1,BUF 14,0,BUF,
+4,811,2,03:43,(3:43) T.Taylor sacked at BUF 3 for -6 yards (S.Davis).,17,1,-11,BUF 9,0,BUF,
+4,648,0,06:00,C.Boswell kicks 64 yards from PIT 35 to BUF 1. B.Tate to BUF 14 for 13 yards (R.Nix).,0,1,0,PIT 35,0,PIT,KICKOFF
+7,1413,1,09:30,"(9:30) L.Bell up the middle to PIT 25 for no gain (A.Washington, M.Dareus).",10,2,0,PIT 25,0,PIT,
+7,1435,2,08:45,(8:45) (Shotgun) B.Roethlisberger pass short left intended for A.Brown INTERCEPTED by S.Gilmore at PIT 38. S.Gilmore to PIT 7 for 31 yards (A.Brown).,10,2,0,PIT 25,0,PIT,INT
+6,1323,3,09:42,"(9:42) (Shotgun) T.Taylor pass short left to S.Watkins to 50 for 7 yards (W.Gay). Caught in flat at 50, crossing from sideline. Pittsburgh challenged the pass completion ruling, and the play was REVERSED. (Shotgun) T.Taylor pass incomplete short left to S.Watkins. Dropped by receiver at 50, crossing from sideline.",3,2,18,BUF 43,0,BUF,
+6,1224,1,12:00,"(12:00) (Shotgun) L.McCoy right tackle to BUF 34 for 9 yards (W.Gay, R.Cockrell).",10,2,9,BUF 25,0,BUF,
+6,1205,0,12:00,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback. Kick through end zone.",0,2,0,PIT 35,0,PIT,KICKOFF
+6,1267,1,10:55,"(10:55) (No Huddle, Shotgun) T.Taylor pass short middle to L.McCoy to BUF 45 for 9 yards (S.Davis). Caught at BUF 40, crossing from right.",10,2,20,BUF 36,0,BUF,
+6,1246,2,11:24,(11:24) (Shotgun) L.McCoy right tackle to BUF 36 for 2 yards (R.Shazier; W.Gay).,1,2,11,BUF 34,0,BUF,
+6,1393,4,09:38,"(9:38) C.Schmidt punts 32 yards to PIT 25, Center-G.Sanborn, out of bounds.",3,2,18,BUF 43,0,BUF,PUNT
+6,1295,2,10:23,"(10:23) (No Huddle, Shotgun) T.Taylor sacked at BUF 43 for -2 yards (R.Shazier).",1,2,18,BUF 45,0,BUF,
+9,1644,2,06:22,(6:22) (Shotgun) L.Bell left tackle to PIT 38 for 7 yards (C.White).,4,2,13,PIT 31,0,PIT,
+9,1715,2,04:55,(4:55) (Shotgun) B.Roethlisberger pass incomplete short middle to L.Bell (L.Alexander). Pass batted at line on attempted middle screen.,10,2,24,PIT 49,0,PIT,
+9,1616,1,07:00,"(7:00) (Shotgun) B.Roethlisberger pass short left to L.Bell pushed ob at PIT 31 for 6 yards (S.Gilmore). Swing pass, caught at PIT 25.",10,2,6,PIT 25,0,PIT,
+9,1793,4,04:42,"(4:42) J.Berry punts 56 yards to end zone, Center-G.Warren, Touchback.",15,2,19,PIT 44,0,PIT,PUNT
+9,1593,0,07:07,"D.Carpenter kicks 66 yards from BUF 35 to PIT -1. F.Toussaint to PIT 25 for 26 yards (N.Robey-Coleman, L.Alexander).",0,2,0,BUF 35,0,BUF,KICKOFF
+9,1666,1,05:43,"(5:43) (Shotgun) L.Bell right tackle to PIT 49 for 11 yards (P.Brown, R.Darby).",10,2,24,PIT 38,0,PIT,
+9,1688,1,05:03,"(5:03) (Shotgun) B.Roethlisberger pass incomplete deep right to L.Green. Overthrown, receiver along sideline at BUF 31. Pressure on QB: M.Dareus.",10,2,24,PIT 49,0,PIT,
+9,1766,3,04:50,"(4:50) (Shotgun) B.Roethlisberger pass incomplete deep middle to A.Brown. Thrown wide of receiver at BUF 35, slanting from left.",15,2,19,PIT 44,0,PIT,
+9,1742,3,04:50,"(4:50) (Shotgun) PENALTY on PIT-M.Gilbert, False Start, 5 yards, enforced at PIT 49 - No Play.",10,2,19,PIT 49,0,PIT,PENALTY
+8,1551,3,07:11,"(7:11) (Shotgun) T.Taylor pass short middle to S.Watkins for 8 yards, TOUCHDOWN. Caught 5 yds. into end zone, slanting from left.",8,2,7,PIT 8,1,BUF,TD
+8,1461,1,08:34,(8:34) (Shotgun) L.McCoy right tackle to PIT 6 for 1 yard (R.Shazier).,7,2,1,PIT 7,0,BUF,
+8,1576,0,07:07,"D.Carpenter extra point is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",0,2,7,PIT 15,1,BUF,XP
+8,1522,2,07:53,"(7:53) (Shotgun) T.Taylor pass short left to L.McCoy to PIT 8 for 8 yards (R.Shazier, L.Walton). Caught at PIT 14, crossing to middle.",16,2,-1,PIT 16,0,BUF,
+8,1484,2,08:00,"(8:00) (Shotgun) T.Taylor pass incomplete short left to R.Woods [S.Tuitt]. Underthrown, receiver in front corner of end zone. PENALTY on BUF-J.Miller, Offensive Holding, 10 yards, enforced at PIT 6 - No Play.",6,2,7,PIT 6,0,BUF,PENALTY
+11,2050,3,00:54,"(:54) (Shotgun) B.Roethlisberger pass incomplete deep middle to A.Brown (C.Graham) [L.Alexander]. Receiver and coverage at BUF 20. Penalty on PIT-A.Brown, Offensive Pass Interference, declined.",2,2,20,PIT 40,0,PIT,
+11,1982,0,02:00,Two-Minute Warning,0,2,12,,0,,
+11,1960,1,02:24,(2:24) L.Bell left end to PIT 32 for 12 yards (M.Dareus).,10,2,12,PIT 20,0,PIT,
+11,2087,4,00:45,"(:45) J.Berry punts 45 yards to BUF 15, Center-G.Warren. B.Tate to BUF 15 for no gain (T.Matakevich, J.Dangerfield).",2,2,20,PIT 40,0,PIT,PUNT
+11,2000,1,02:00,"(2:00) (Shotgun) B.Roethlisberger pass short right to E.Rogers to PIT 38 for 6 yards (N.Robey-Coleman). Caught at PIT 34, crossing from middle.",10,2,18,PIT 32,0,PIT,
+11,2028,2,01:30,"(1:30) (No Huddle, Shotgun) L.Bell right tackle to PIT 40 for 2 yards (R.Darby, J.Hughes).",4,2,20,PIT 38,0,PIT,
+10,1833,2,04:12,"(4:12) (Shotgun) T.Taylor pass short right to S.Watkins to BUF 38 for 14 yards (R.Cockrell). Caught at BUF 31, slanting to middle.",6,2,18,BUF 24,0,BUF,
+10,1811,1,04:36,(4:36) (Shotgun) L.McCoy right guard to BUF 24 for 4 yards (S.Davis).,10,2,4,BUF 20,0,BUF,
+10,1861,1,03:47,"(3:47) (No Huddle, Shotgun) T.Taylor pass short middle to C.Clay to BUF 45 for 7 yards (R.Shazier, W.Gay). Caught at BUF 45.",10,2,25,BUF 38,0,BUF,
+10,1934,4,02:33,"(2:33) C.Schmidt punts 55 yards to end zone, Center-G.Sanborn, Touchback. Kick into end zone.",3,2,25,BUF 45,0,BUF,PUNT
+10,1911,3,02:38,"(2:38) T.Taylor pass incomplete short middle to R.Woods. Dropped, receiver at 50.",3,2,25,BUF 45,0,BUF,
+10,1885,2,03:21,"(3:21) (No Huddle, Shotgun) L.McCoy up the middle to BUF 45 for no gain (R.Shazier).",3,2,25,BUF 45,0,BUF,
+13,2322,1,14:55,(14:55) (Shotgun) T.Taylor right tackle to BUF 16 for no gain (B.Dupree). Designed rush.,10,3,0,BUF 16,0,BUF,
+13,2474,4,12:14,"(12:14) C.Schmidt punts 52 yards to PIT 18, Center-G.Sanborn. A.Brown ran ob at PIT 18 for no gain (J.Ihedigbo).",10,3,14,BUF 30,0,BUF,PUNT
+13,2447,3,12:20,"(12:20) (Shotgun) T.Taylor pass incomplete short left to C.Clay (S.Tuitt). Pass tipped at line, then batted down by BUF OL R.Groy. Receiver at BUF 40.",10,3,14,BUF 30,0,BUF,
+13,2344,2,14:20,"(14:20) (Shotgun) T.Taylor pass incomplete short right to C.Clay (R.Shazier). Pass tipped at line, dropped in flat at BUF 29.",10,3,0,BUF 16,0,BUF,
+13,2425,2,13:02,(13:02) (Shotgun) T.Taylor scrambles left end pushed ob at BUF 30 for 1 yard (A.Burns).,11,3,14,BUF 29,0,BUF,
+13,2294,0,15:00,Start of half delayed; field swept of excess rubber pellets remaining after initial snow sweep. C.Boswell kicks 65 yards from PIT 35 to BUF 0. B.Tate to BUF 16 for 16 yards (R.Nix).,0,3,0,PIT 35,0,PIT,KICKOFF
+13,2403,1,13:39,(13:39) L.McCoy up the middle to BUF 29 for -1 yards (S.Tuitt).,10,3,13,BUF 30,0,BUF,
+13,2375,3,14:15,"(14:15) (Shotgun) T.Taylor pass short right to S.Watkins to BUF 30 for 14 yards (S.Davis, R.Cockrell). Caught near sideline at BUF 27.",10,3,14,BUF 16,0,BUF,
+12,2114,1,00:32,"(:32) (No Huddle, Shotgun) T.Taylor pass short right to L.McCoy pushed ob at BUF 15 for no gain (R.Cockrell). Screen pass, caught at BUF 10. PENALTY on BUF-J.Miller, Offensive Holding, 7 yards, enforced at BUF 15 - No Play.",10,2,-7,BUF 15,0,BUF,PENALTY
+12,2218,2,00:11,(:11) M.Gillislee left guard pushed ob at BUF 26 for 22 yards (A.Burns).,21,2,23,BUF 4,0,BUF,
+12,2278,0,,END QUARTER 2,0,2,23,,0,,
+12,2154,1,00:23,"(:23) (Shotgun) L.McCoy right tackle to BUF 8 for no gain (R.Cockrell, R.Mathews).",17,2,-7,BUF 8,0,BUF,
+12,2177,0,00:11,Timeout #2 by PIT at 00:11.,0,2,-7,,0,,TIMEOUT
+12,2262,0,,End of half - 2.27 pm,0,2,23,,0,,
+12,2240,1,00:04,(:04) M.Gillislee right guard to BUF 38 for 12 yards (M.Mitchell).,10,2,23,BUF 26,0,BUF,
+12,2195,2,00:11,"(:11) PENALTY on BUF-C.Clay, False Start, 4 yards, enforced at BUF 8 - No Play.",17,2,-11,BUF 8,0,BUF,PENALTY
+15,2929,4,04:11,"(4:11) C.Schmidt punts 46 yards to PIT 23, Center-G.Sanborn. A.Brown pushed ob at PIT 40 for 17 yards (C.Schmidt).",4,3,6,BUF 31,0,BUF,PUNT
+15,2873,2,05:00,"(5:00) (Shotgun) T.Taylor pass short left to L.McCoy to BUF 31 for 11 yards (J.Harrison, L.Timmons). Dump pass, caught at BUF 16.",15,3,6,BUF 20,0,BUF,
+15,2902,3,04:17,(4:17) (Shotgun) T.Taylor pass incomplete short right to C.Clay (R.Cockrell). Receiver and coverage in flat at BUF 39.,4,3,6,BUF 31,0,BUF,
+15,2846,1,05:04,"(5:04) T.Taylor pass incomplete short middle to L.McCoy. Thrown away, attempted screen.",15,3,-5,BUF 20,0,BUF,
+15,2782,0,05:28,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback.",0,3,0,PIT 35,0,PIT,KICKOFF
+15,2802,1,05:28,"(5:28) T.Taylor pass deep left to C.Clay pushed ob at PIT 49 for 26 yards (B.Dupree). Caught in flat at BUF 42, slanting from middle. PENALTY on BUF-S.Watkins, Illegal Shift, 5 yards, enforced at BUF 25 - No Play.",10,3,-5,BUF 25,0,BUF,PENALTY
+14,2725,1,06:19,"(6:19) L.Bell up the middle to BUF 5 for 8 yards (C.Graham, R.Darby).",10,3,77,BUF 13,0,PIT,
+14,2606,2,09:12,"(9:12) PENALTY on PIT-B.Finney, False Start, 5 yards, enforced at PIT 46 - No Play.",7,3,23,PIT 46,0,PIT,PENALTY
+14,2522,1,11:16,"(11:16) L.Bell up the middle to PIT 36 for 5 yards (P.Brown, B.Spikes).",10,3,18,PIT 31,0,PIT,
+14,2653,1,08:33,"(8:33) L.Bell right end to BUF 30 for 5 yards (R.Darby, J.Ihedigbo).",10,3,52,BUF 35,0,PIT,
+14,2544,2,10:34,(10:34) L.Bell left end pushed ob at PIT 43 for 7 yards (P.Brown).,5,3,25,PIT 36,0,PIT,
+14,2630,2,09:12,(9:12) L.Bell left tackle pushed ob at BUF 35 for 24 yards (R.Darby).,12,3,47,PIT 41,0,PIT,
+14,2765,0,05:28,"C.Boswell extra point is GOOD, Center-G.Warren, Holder-J.Berry.",0,3,82,BUF 15,1,PIT,XP
+14,2566,1,09:52,"(9:52) L.Bell left tackle to PIT 46 for 3 yards (S.Lawson, D.Coleman).",10,3,23,PIT 43,0,PIT,
+14,2675,2,07:48,"(7:48) L.Bell right guard to BUF 28 for 2 yards (J.Hughes, D.Coleman).",5,3,54,BUF 30,0,PIT,
+14,2747,2,05:35,"(5:35) L.Bell left end for 5 yards, TOUCHDOWN. L.Bell ties PIT team record with 3 rushing TDs in game (last done 9/20/15 by DeAngelo Williams vs. S.F.)",2,3,82,BUF 5,1,PIT,TD
+14,2696,3,07:05,"(7:05) (Shotgun) B.Roethlisberger pass short middle to C.Hamilton to BUF 13 for 15 yards (C.White). Caught at BUF 14, crossing from left.",3,3,69,BUF 28,0,PIT,
+14,2588,0,09:12,Timeout #1 by PIT at 09:12.,0,3,28,,0,,TIMEOUT
+14,2500,1,12:01,(12:01) L.Bell left guard to PIT 31 for 13 yards (C.Graham; R.Darby).,10,3,13,PIT 18,0,PIT,
+17,3278,1,13:43,"(13:43) (Shotgun) T.Taylor pass deep left intended for M.Goodwin INTERCEPTED by A.Burns at BUF 42. A.Burns to BUF 33 for 9 yards (J.Hunter). Receiver underthrown, INT along sideline. Return credited to BUF 38 (spot of foul). PENALTY on PIT-S.Davis, Offensive Holding, 10 yards, enforced at BUF 38.",10,4,0,BUF 20,0,BUF,INT
+16,3108,0,,End of quarter - 3.21 pm,0,3,43,,0,,
+16,3200,1,14:55,(14:55) L.Bell right tackle to BUF 8 for 4 yards (L.Alexander).,10,4,52,BUF 12,0,PIT,
+16,2987,1,03:23,(3:23) L.Bell right end pushed ob at BUF 45 for 10 yards (Z.Brown).,5,3,15,PIT 45,0,PIT,
+16,3255,3,13:48,(13:48) B.Roethlisberger pass short right intended for J.James INTERCEPTED by Z.Brown at BUF -6. Touchback.,5,4,53,BUF 7,0,PIT,INT
+16,3124,0,,END QUARTER 3,0,3,43,,0,,
+16,3222,2,14:09,"(14:09) L.Bell up the middle to BUF 7 for 1 yard (S.Lawson; A.Washington). Penalty on PIT-D.Johnson, Illegal Shift, declined.",6,4,53,BUF 8,0,PIT,
+16,3140,3,15:00,(15:00) (Shotgun) B.Roethlisberger pass incomplete deep middle to L.Green (C.White). Receiver and coverage 2 yds. into end zone; post pattern.,5,4,51,BUF 17,0,PIT,
+16,3064,1,01:23,(1:23) F.Toussaint left guard to BUF 16 for 6 yards (P.Brown).,10,3,44,BUF 22,0,PIT,
+16,3041,1,02:10,(2:10) L.Bell up the middle to BUF 22 for 33 yards (J.Ihedigbo).,20,3,38,PIT 45,0,PIT,
+16,2955,1,03:58,"(3:58) L.Bell left end pushed ob at PIT 40 for no gain (P.Brown). PENALTY on BUF-J.Worthy, Defensive Offside, 5 yards, enforced at PIT 40 - No Play.",10,3,5,PIT 40,0,PIT,PENALTY
+16,3086,2,00:38,(:38) L.Bell left guard to BUF 17 for -1 yards (J.Ihedigbo).,4,3,43,BUF 16,0,PIT,
+16,3009,1,02:42,"(2:42) L.Bell left guard to BUF 42 for 3 yards (Z.Brown). PENALTY on PIT-B.Finney, Offensive Holding, 10 yards, enforced at BUF 45 - No Play.",10,3,5,BUF 45,0,PIT,PENALTY
+16,3163,4,14:55,"(14:55) (Field Goal formation) PENALTY on BUF-A.Washington, Neutral Zone Infraction, 5 yards, enforced at BUF 17 - No Play.",5,4,53,BUF 17,0,PIT,PENALTY
+19,3580,2,07:39,"(7:39) T.Taylor pass deep left to C.Clay for 40 yards, TOUCHDOWN [A.Chickillo]. Caught along sideline at PIT 22.",10,4,82,PIT 40,1,BUF,TD
+19,3476,1,09:51,"(9:51) (Shotgun) T.Taylor pass short right to C.Clay to BUF 23 for 5 yards (W.Gay). Curl pattern, caught at BUF 23.",10,4,82,BUF 18,0,BUF,
+19,3553,1,07:47,"(7:47) (Shotgun) T.Taylor pass incomplete deep right to R.Woods. Thrown away, receiver along sideline at PIT 18.",10,4,42,PIT 40,0,BUF,
+19,3454,0,09:57,"C.Boswell kicks 66 yards from PIT 35 to BUF -1. B.Tate to BUF 18 for 19 yards (A.Chickillo, J.Dangerfield).",0,4,0,PIT 35,0,PIT,KICKOFF
+19,3618,0,07:27,"D.Carpenter extra point is No Good, Hit Left Upright, Center-G.Sanborn, Holder-C.Schmidt.",0,4,82,PIT 15,0,BUF,XPM
+19,3501,2,09:16,(9:16) (Shotgun) T.Taylor sacked at BUF 19 for -4 yards (B.Dupree).,5,4,1,BUF 23,0,BUF,
+19,3521,3,08:29,"(8:29) (Shotgun) T.Taylor pass short right to L.McCoy to PIT 40 for 41 yards (S.Davis). Dump pass, caught at BUF 22.",9,4,42,BUF 19,0,BUF,
+18,3387,2,11:28,"(11:28) L.Bell up the middle to BUF 20 for 3 yards (M.Dareus, J.Hughes). L.Bell sets new PIT record with 224 rushing yds. (old record: 223, Willie Parker, 12/7/06 vs. Cle.)",5,4,29,BUF 23,0,PIT,
+18,3342,2,12:53,(12:53) L.Bell right end to BUF 28 for 14 yards (R.Darby).,4,4,20,BUF 42,0,PIT,
+18,3365,1,12:09,(12:09) L.Bell left tackle to BUF 23 for 5 yards (M.Dareus).,10,4,25,BUF 28,0,PIT,
+18,3435,4,10:02,"(10:02) C.Boswell 37 yard field goal is GOOD, Center-G.Warren, Holder-J.Berry.",1,4,29,BUF 19,1,PIT,FG
+18,3320,1,13:31,"(13:31) L.Bell left guard to BUF 42 for 6 yards (P.Brown, J.Hughes).",10,4,29,BUF 48,0,PIT,
+18,3413,3,10:43,(10:43) L.Bell right tackle to BUF 19 for 1 yard (J.Worthy).,2,4,29,BUF 20,0,PIT,

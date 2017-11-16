@@ -1,181 +1,181 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1477,1,07:12,,5,2,37,IND 38,0,IND,
-9,1547,2,05:49,,10,2,59,CIN 29,0,IND,
-9,1387,2,09:11,,2,2,10,IND 20,0,IND,
-9,1430,2,08:24,,10,2,21,IND 22,0,IND,
-9,1366,1,09:49,,10,2,8,IND 12,0,IND,
-9,1501,1,06:35,,10,2,59,IND 49,0,IND,
-9,1597,4,05:05,,7,2,62,CIN 26,0,IND,FGM
-9,1525,1,05:55,,10,2,59,CIN 29,0,IND,
-9,1454,1,07:31,,10,2,26,IND 33,0,IND,PENALTY
-9,1573,3,05:44,,10,2,62,CIN 29,0,IND,
-9,1408,1,08:30,,10,2,10,IND 22,0,IND,
-24,4052,2,03:32,,10,4,27,IND 41,0,IND,
-24,4274,0,01:20,,0,4,0,,0,,TIMEOUT
-24,3984,0,04:03,,0,4,0,CIN 35,0,CIN,KICKOFF
-24,4237,0,01:24,,0,4,70,,0,,TIMEOUT
-24,4303,0,01:20,,0,4,72,CIN 2,1,IND,XP
-24,4254,2,01:24,,2,4,72,CIN 2,1,IND,TD
-24,4189,2,01:52,,1,4,69,CIN 11,0,IND,
-24,4076,1,03:10,,10,4,39,CIN 45,0,IND,
-24,4006,1,03:58,,10,4,13,IND 28,0,IND,
-24,4124,2,02:12,,3,4,52,CIN 26,0,IND,
-24,4213,1,01:31,,3,4,70,CIN 3,0,IND,
-24,4030,1,03:36,,10,4,13,IND 41,0,IND,
-24,4165,1,02:00,,10,4,61,CIN 20,0,IND,
-24,4100,1,02:39,,10,4,46,CIN 33,0,IND,
-10,1762,2,02:16,,9,2,63,IND 9,0,CIN,
-10,1852,4,01:14,,1,2,66,IND 1,1,CIN,TD
-10,1719,1,02:59,,10,2,57,IND 23,0,CIN,
-10,1686,2,03:06,,5,2,43,IND 28,0,CIN,PENALTY
-10,1665,1,03:42,,10,2,38,IND 33,0,CIN,
-10,1641,1,04:20,,10,2,33,IND 44,0,CIN,
-10,1617,1,05:00,,10,2,22,CIN 34,0,CIN,
-10,1740,1,02:21,,9,2,57,IND 9,0,CIN,
-10,1800,3,02:00,,3,2,65,IND 3,0,CIN,
-10,1910,0,01:06,,0,2,66,IND 2,1,CIN,XP
-10,1824,0,01:14,,0,2,65,,0,,TIMEOUT
-20,3369,0,13:25,,0,4,0,CIN 35,0,CIN,KICKOFF
-20,3391,1,13:19,,10,4,7,IND 25,0,IND,
-20,3589,1,09:54,,10,4,75,CIN 29,1,IND,TD
-20,3565,2,10:27,,6,4,46,CIN 35,0,IND,
-20,3472,1,12:22,,10,4,20,IND 42,0,IND,
-20,3415,2,12:53,,3,4,12,IND 32,0,IND,
-20,3439,1,12:29,,10,4,17,IND 37,0,IND,PENALTY
-20,3496,2,11:55,,7,4,24,IND 45,0,IND,
-20,3609,0,09:48,,0,4,75,CIN 2,1,IND,XP
-20,3544,1,10:56,,10,4,40,CIN 39,0,IND,
-20,3520,3,11:17,,3,4,36,IND 49,0,IND,
-6,932,2,02:13,,20,1,1,CIN 30,0,CIN,
-6,831,1,03:46,,10,1,0,CIN 29,0,CIN,
-6,911,1,02:56,,20,1,1,CIN 30,0,CIN,
-6,978,4,01:31,,15,1,6,CIN 35,0,CIN,PUNT
-6,857,2,03:40,,10,1,11,CIN 29,0,CIN,
-6,878,1,03:02,,10,1,1,CIN 40,0,CIN,PENALTY
-6,954,3,02:08,,20,1,6,CIN 30,0,CIN,
-18,3064,1,02:59,,10,3,0,IND 19,0,IND,
-18,3031,0,03:05,,0,3,0,CIN 35,0,CIN,KICKOFF
-18,3140,4,02:01,,6,3,4,IND 23,0,IND,PUNT
-18,3118,3,02:06,,6,3,4,IND 23,0,IND,
-18,3086,2,02:49,,10,3,4,IND 19,0,IND,
-25,4384,2,00:39,,11,4,-2,CIN 47,0,CIN,
-25,4341,0,01:20,,0,4,0,IND 35,0,IND,KICKOFF
-25,4405,0,00:00,,0,4,-2,,0,,
-25,4363,1,01:19,,10,4,-1,CIN 48,0,CIN,
-1,99,0,13:44,,0,1,6,,0,,TIMEOUT
-1,57,1,14:55,,10,1,3,IND 28,0,IND,
-1,35,0,15:00,,0,1,0,CIN 35,0,CIN,KICKOFF
-1,138,4,13:37,,4,1,6,IND 34,0,IND,PUNT
-1,116,3,13:44,,4,1,6,IND 34,0,IND,
-1,78,2,14:20,,7,1,6,IND 31,0,IND,
-5,783,3,04:01,,8,1,2,IND 35,0,IND,
-5,741,1,05:22,,10,1,0,IND 33,0,IND,
-5,762,2,04:44,,10,1,2,IND 33,0,IND,
-5,805,4,03:56,,8,1,2,IND 35,0,IND,PUNT
-13,2410,1,10:45,,1,3,80,IND 1,1,CIN,TD
-13,2226,2,13:09,,12,3,41,CIN 45,0,CIN,
-13,2250,1,12:29,,10,3,56,IND 39,0,CIN,
-13,2340,1,10:55,,9,3,79,IND 9,0,CIN,PENALTY
-13,2159,2,14:25,,5,3,5,CIN 25,0,CIN,
-13,2432,0,10:41,,0,3,80,IND 2,1,CIN,XP
-13,2296,2,11:42,,10,3,76,IND 24,0,CIN,PENALTY
-13,2181,3,14:18,,5,3,27,CIN 25,0,CIN,
-13,2377,1,10:50,,4,3,79,IND 4,0,CIN,PENALTY
-13,2138,1,15:00,,10,3,5,CIN 20,0,CIN,
-13,2205,1,13:44,,10,3,25,CIN 47,0,CIN,
-13,2274,1,11:48,,10,3,56,IND 24,0,CIN,
-13,2119,0,15:00,,0,3,0,IND 35,0,IND,KICKOFF
-13,2319,2,11:42,,15,3,71,IND 29,0,CIN,
-21,3625,0,09:48,,0,4,0,IND 35,0,IND,KICKOFF
-21,3694,3,08:57,,8,4,3,CIN 29,0,CIN,
-21,3718,4,08:16,,7,4,3,CIN 30,0,CIN,PUNT
-21,3668,2,09:02,,8,4,2,CIN 29,0,CIN,
-21,3647,1,09:43,,10,4,2,CIN 27,0,CIN,
-23,3885,2,06:13,,8,4,16,IND 27,0,CIN,
-23,3853,2,06:36,,3,4,2,IND 22,0,CIN,PENALTY
-23,3832,1,07:18,,10,4,7,IND 29,0,CIN,
-23,3930,2,04:50,,7,4,21,IND 13,0,CIN,
-23,3909,1,05:32,,10,4,16,IND 16,0,CIN,
-23,3968,0,04:03,,0,4,29,IND 2,1,CIN,XP
-23,3951,3,04:10,,2,4,29,IND 8,1,CIN,TD
-11,2057,4,00:33,,5,2,19,IND 46,0,IND,PUNT
-11,1994,2,00:47,,10,2,19,IND 41,0,IND,
-11,2035,3,00:37,,5,2,19,IND 46,0,IND,
-11,2018,0,00:37,,0,2,19,,0,,TIMEOUT
-11,1948,1,00:59,,10,2,14,IND 27,0,IND,
-11,1972,1,00:53,,10,2,14,IND 41,0,IND,
-11,1926,0,01:06,,0,2,0,CIN 35,0,CIN,KICKOFF
-14,2553,0,09:57,,0,3,74,CIN 2,1,IND,XP
-14,2528,3,10:09,,5,3,74,IND 31,1,IND,TD
-14,2478,1,10:39,,10,3,0,IND 26,0,IND,
-14,2448,0,10:41,,0,3,0,CIN 35,0,CIN,KICKOFF
-14,2500,2,10:36,,10,3,5,IND 26,0,IND,
-8,1322,3,10:35,,10,2,55,IND 47,0,CIN,
-8,1229,1,12:06,,10,2,47,CIN 42,0,CIN,
-8,1163,1,14:07,,10,2,9,CIN 4,0,CIN,
-8,1296,2,10:37,,10,2,49,IND 47,0,CIN,
-8,1253,2,11:29,,1,2,49,IND 49,0,CIN,
-8,1343,4,09:57,,4,2,55,IND 41,0,CIN,PUNT
-8,1187,2,13:30,,1,2,28,CIN 13,0,CIN,
-8,1208,1,12:46,,10,2,38,CIN 32,0,CIN,
-8,1274,1,10:44,,10,2,49,IND 47,0,CIN,
-19,3186,2,01:13,,7,3,15,CIN 44,0,CIN,PENALTY
-19,3266,2,15:00,,6,4,19,IND 40,0,CIN,
-19,3288,3,14:52,,6,4,48,IND 40,0,CIN,
-19,3333,2,13:30,,8,4,59,IND 9,1,CIN,TD
-19,3312,1,14:07,,10,4,50,IND 11,0,CIN,
-19,3165,1,01:50,,10,3,3,CIN 41,0,CIN,
-19,3229,1,00:44,,10,3,19,IND 44,0,CIN,
-19,3353,0,13:25,,0,4,59,IND 2,1,CIN,XP
-22,3739,1,08:07,,10,4,0,IND 20,0,IND,
-22,3761,2,08:02,,10,4,4,IND 20,0,IND,
-22,3785,3,07:37,,6,4,4,IND 24,0,IND,
-22,3807,4,07:33,,6,4,4,IND 24,0,IND,PUNT
-12,2082,1,00:20,,10,2,-1,CIN 19,0,CIN,
-16,2715,1,07:22,,10,3,29,CIN 48,0,IND,
-16,2778,0,06:20,,0,3,48,CIN 2,1,IND,XP
-16,2758,2,06:30,,10,3,48,CIN 19,1,IND,TD
-16,2736,1,06:33,,10,3,29,CIN 19,0,IND,
-7,1136,4,14:20,,3,2,23,IND 43,0,IND,PUNT
-7,1114,3,14:27,,3,2,23,IND 43,0,IND,
-7,1020,2,00:39,,7,1,16,IND 23,0,IND,
-7,1049,1,00:07,,10,1,16,IND 36,0,IND,
-7,999,1,01:21,,10,1,3,IND 20,0,IND,
-7,1090,2,15:00,,10,2,23,IND 36,0,IND,
-3,582,3,07:14,,10,1,30,CIN 49,0,IND,
-3,522,1,07:27,,10,1,30,CIN 49,0,IND,
-3,610,4,07:08,,8,1,30,CIN 47,0,IND,PUNT
-3,466,2,07:35,,2,1,28,IND 31,0,IND,PENALTY
-3,442,1,07:59,,10,1,8,IND 23,0,IND,
-3,420,0,08:03,,0,1,0,CIN 35,0,CIN,KICKOFF
-3,560,2,07:21,,10,1,28,CIN 49,0,IND,
-17,2885,1,05:25,,10,3,22,IND 42,0,CIN,
-17,2798,0,06:20,,0,3,0,IND 35,0,IND,KICKOFF
-17,3015,0,03:05,,0,3,60,IND 2,1,CIN,XP
-17,2966,1,03:47,,6,3,59,IND 6,0,CIN,
-17,2906,2,04:49,,6,3,26,IND 38,0,CIN,
-17,2852,2,05:29,,4,3,18,CIN 46,0,CIN,PENALTY
-17,2820,1,06:13,,10,3,6,CIN 40,0,CIN,
-17,2990,2,03:12,,1,3,60,IND 1,1,CIN,TD
-17,2931,3,04:08,,2,3,54,IND 34,0,CIN,PENALTY
-4,654,2,06:25,,6,1,7,CIN 5,0,CIN,
-4,633,1,06:58,,10,1,4,CIN 1,0,CIN,
-4,675,3,05:45,,3,1,7,CIN 8,0,CIN,
-4,704,4,05:38,,3,1,7,CIN 8,0,CIN,FUMBLE
-2,334,3,08:58,,3,1,54,IND 39,0,CIN,
-2,194,2,12:50,,2,1,8,CIN 25,0,CIN,
-2,284,1,10:13,,10,1,37,IND 46,0,CIN,
-2,170,1,13:25,,10,1,8,CIN 17,0,CIN,
-2,215,3,12:07,,2,1,18,CIN 25,0,CIN,
-2,384,2,08:11,,10,1,83,IND 29,1,CIN,TD
-2,404,0,08:03,,0,1,83,IND 2,1,CIN,XP
-2,239,1,11:33,,10,1,20,CIN 35,0,CIN,
-2,305,2,09:36,,10,1,44,IND 46,0,CIN,
-2,260,2,10:49,,8,1,37,CIN 37,0,CIN,
-2,358,1,08:19,,10,1,83,IND 29,0,CIN,
-15,2591,1,09:52,,10,3,6,CIN 16,0,CIN,
-15,2615,2,09:07,,10,3,6,CIN 16,0,CIN,
-15,2671,3,08:10,,14,3,2,CIN 12,0,CIN,
-15,2692,4,07:33,,8,3,2,CIN 18,0,CIN,PUNT
-15,2569,0,09:57,,0,3,0,IND 35,0,IND,KICKOFF
-15,2639,3,08:34,,4,3,-4,CIN 22,0,CIN,PENALTY
+24,4189,2,01:52,(1:52) (Shotgun) A.Luck pass short middle to D.Rogers to CIN 3 for 8 yards (V.Burfict).,1,4,69,CIN 11,0,IND,
+24,4303,0,01:20,"A.Vinatieri extra point is GOOD, Center-M.Overton, Holder-P.McAfee.",0,4,72,CIN 2,1,IND,XP
+24,4165,1,02:00,(2:00) (Shotgun) A.Luck pass short right to D.Brown pushed ob at CIN 11 for 9 yards (V.Burfict).,10,4,61,CIN 20,0,IND,
+24,4052,2,03:32,(3:32) (Shotgun) A.Luck pass short middle to T.Richardson to CIN 45 for 14 yards (V.Rey).,10,4,27,IND 41,0,IND,
+24,4213,1,01:31,(1:31) A.Luck pass short middle to D.Brown to CIN 2 for 1 yard (V.Rey).,3,4,70,CIN 3,0,IND,
+24,4100,1,02:39,(2:39) (Shotgun) A.Luck pass short middle to T.Richardson to CIN 26 for 7 yards (A.Jones; V.Burfict).,10,4,46,CIN 33,0,IND,
+24,4076,1,03:10,(3:10) (Shotgun) A.Luck pass short middle to T.Richardson to CIN 33 for 12 yards (D.Kirkpatrick).,10,4,39,CIN 45,0,IND,
+24,4254,2,01:24,"(1:24) (Shotgun) A.Luck pass short left to D.Rogers for 2 yards, TOUCHDOWN. IND-D.Heyward-Bey was injured during the play.",2,4,72,CIN 2,1,IND,TD
+24,4006,1,03:58,(3:58) (Shotgun) A.Luck pass short middle to T.Richardson to IND 41 for 13 yards (V.Rey).,10,4,13,IND 28,0,IND,
+24,4124,2,02:12,(2:12) (Shotgun) A.Luck pass short right to D.Brown to CIN 20 for 6 yards (D.Kirkpatrick).,3,4,52,CIN 26,0,IND,
+24,4030,1,03:36,(3:36) (Shotgun) A.Luck pass incomplete short left to C.Fleener (V.Burfict).,10,4,13,IND 41,0,IND,
+24,4274,0,01:20,Timeout #2 by IND at 01:20. {Charged due to the injury inside 2:00},0,4,0,,0,,TIMEOUT
+24,3984,0,04:03,M.Nugent kicks 70 yards from CIN 35 to IND -5. C.Vaughn to IND 28 for 33 yards (J.Schaffer).,0,4,0,CIN 35,0,CIN,KICKOFF
+24,4237,0,01:24,Timeout #1 by IND at 01:24.,0,4,70,,0,,TIMEOUT
+25,4405,0,00:00,END GAME,0,4,-2,,0,,
+25,4363,1,01:19,(1:19) A.Dalton kneels to CIN 47 for -1 yards.,10,4,-1,CIN 48,0,CIN,
+25,4341,0,01:20,P.McAfee kicks onside 17 yards from IND 35 to CIN 48. M.Sanu (didn't try to advance) to CIN 48 for no gain (C.Lynch).,0,4,0,IND 35,0,IND,KICKOFF
+25,4384,2,00:39,(:39) A.Dalton kneels to CIN 46 for -1 yards.,11,4,-2,CIN 47,0,CIN,
+20,3391,1,13:19,(13:19) (Shotgun) A.Luck pass short right to D.Rogers to IND 32 for 7 yards (T.Newman).,10,4,7,IND 25,0,IND,
+20,3439,1,12:29,"(12:29) (Shotgun) A.Luck pass incomplete deep left to D.Rogers [W.Gilberry]. PENALTY on CIN-W.Gilberry, Illegal Use of Hands, 5 yards, enforced at IND 37 - No Play.",10,4,17,IND 37,0,IND,PENALTY
+20,3369,0,13:25,M.Nugent kicks 61 yards from CIN 35 to IND 4. C.Vaughn pushed ob at IND 25 for 21 yards (R.Nelson).,0,4,0,CIN 35,0,CIN,KICKOFF
+20,3472,1,12:22,(12:22) (Shotgun) A.Luck pass short right to T.Hilton pushed ob at IND 45 for 3 yards (D.Kirkpatrick).,10,4,20,IND 42,0,IND,
+20,3565,2,10:27,(10:27) (Shotgun) A.Luck pass short left to C.Fleener to CIN 29 for 6 yards (A.Jones).,6,4,46,CIN 35,0,IND,
+20,3496,2,11:55,(11:55) (Shotgun) A.Luck pass short middle to T.Hilton to IND 49 for 4 yards (V.Rey).,7,4,24,IND 45,0,IND,
+20,3589,1,09:54,"(9:54) (Shotgun) A.Luck pass deep right to L.Brazill for 29 yards, TOUCHDOWN.",10,4,75,CIN 29,1,IND,TD
+20,3609,0,09:48,"A.Vinatieri extra point is GOOD, Center-M.Overton, Holder-P.McAfee.",0,4,75,CIN 2,1,IND,XP
+20,3415,2,12:53,(12:53) (Shotgun) A.Luck pass short middle to C.Fleener to IND 37 for 5 yards (D.Kirkpatrick).,3,4,12,IND 32,0,IND,
+20,3544,1,10:56,(10:56) (Shotgun) T.Richardson right tackle to CIN 35 for 4 yards (T.Newman; M.Johnson).,10,4,40,CIN 39,0,IND,
+20,3520,3,11:17,(11:17) (Shotgun) A.Luck pass short middle to D.Heyward-Bey to CIN 39 for 12 yards (D.Kirkpatrick).,3,4,36,IND 49,0,IND,
+21,3647,1,09:43,(9:43) B.Green-Ellis left guard to CIN 29 for 2 yards (A.Franklin).,10,4,2,CIN 27,0,CIN,
+21,3694,3,08:57,(8:57) A.Dalton pass short middle to G.Bernard to CIN 30 for 1 yard (F.Moala; J.McNary).,8,4,3,CIN 29,0,CIN,
+21,3625,0,09:48,P.McAfee kicks 59 yards from IND 35 to CIN 6. B.Tate to CIN 27 for 21 yards (J.Doyle).,0,4,0,IND 35,0,IND,KICKOFF
+21,3668,2,09:02,(9:02) A.Dalton pass incomplete short right. {Thrown away},8,4,2,CIN 29,0,CIN,
+21,3718,4,08:16,"(8:16) K.Huber punts 70 yards to end zone, Center-C.Harris, Touchback.",7,4,3,CIN 30,0,CIN,PUNT
+22,3761,2,08:02,(8:02) (Shotgun) A.Luck pass short middle to C.Fleener to IND 24 for 4 yards (V.Rey).,10,4,4,IND 20,0,IND,
+22,3807,4,07:33,"(7:33) P.McAfee punts 48 yards to CIN 28, Center-M.Overton. B.Tate pushed ob at IND 29 for 43 yards (S.Havili).",6,4,4,IND 24,0,IND,PUNT
+22,3739,1,08:07,(8:07) (Shotgun) A.Luck pass incomplete short right to L.Brazill [M.Johnson].,10,4,0,IND 20,0,IND,
+22,3785,3,07:37,(7:37) A.Luck pass incomplete short left to D.Rogers.,6,4,4,IND 24,0,IND,
+23,3885,2,06:13,(6:13) A.Dalton pass short left to T.Eifert ran ob at IND 16 for 11 yards (D.Butler).,8,4,16,IND 27,0,CIN,
+23,3832,1,07:18,(7:18) G.Bernard right tackle to IND 22 for 7 yards (M.Hughes).,10,4,7,IND 29,0,CIN,
+23,3951,3,04:10,"(4:10) A.Dalton scrambles right end for 8 yards, TOUCHDOWN.",2,4,29,IND 8,1,CIN,TD
+23,3930,2,04:50,(4:50) B.Green-Ellis right guard to IND 8 for 5 yards (A.Bethea).,7,4,21,IND 13,0,CIN,
+23,3909,1,05:32,(5:32) B.Green-Ellis right tackle to IND 13 for 3 yards (J.Freeman).,10,4,16,IND 16,0,CIN,
+23,3853,2,06:36,"(6:36) G.Bernard right tackle to IND 20 for 2 yards (C.Redding; A.Bethea). PENALTY on CIN-A.Green, Offensive Offside, 5 yards, enforced at IND 22 - No Play.",3,4,2,IND 22,0,CIN,PENALTY
+23,3968,0,04:03,"M.Nugent extra point is GOOD, Center-C.Harris, Holder-K.Huber.",0,4,29,IND 2,1,CIN,XP
+1,57,1,14:55,(14:55) A.Luck scrambles up the middle to IND 31 for 3 yards (C.Dunlap).,10,1,3,IND 28,0,IND,
+1,35,0,15:00,M.Nugent kicks 64 yards from CIN 35 to IND 1. C.Rainey to IND 28 for 27 yards (J.DiManche).,0,1,0,CIN 35,0,CIN,KICKOFF
+1,99,0,13:44,Timeout #1 by IND at 13:44.,0,1,6,,0,,TIMEOUT
+1,116,3,13:44,(13:44) (Shotgun) A.Luck pass incomplete deep left to D.Rogers (A.Jones).,4,1,6,IND 34,0,IND,
+1,138,4,13:37,"(13:37) P.McAfee punts 54 yards to CIN 12, Center-M.Overton. B.Tate pushed ob at CIN 17 for 5 yards (K.Sheppard).",4,1,6,IND 34,0,IND,PUNT
+1,78,2,14:20,(14:20) D.Brown right guard to IND 34 for 3 yards (R.Maualuga).,7,1,6,IND 31,0,IND,
+3,582,3,07:14,(7:14) (Shotgun) A.Luck pass short left to D.Brown pushed ob at CIN 47 for 2 yards (V.Burfict).,10,1,30,CIN 49,0,IND,
+3,560,2,07:21,(7:21) (Shotgun) A.Luck pass incomplete short left to T.Hilton.,10,1,28,CIN 49,0,IND,
+3,442,1,07:59,(7:59) (Shotgun) A.Luck pass short right to J.Doyle to IND 31 for 8 yards (T.Newman).,10,1,8,IND 23,0,IND,
+3,610,4,07:08,"(7:08) P.McAfee punts 46 yards to CIN 1, Center-M.Overton, downed by IND-S.Brown.",8,1,30,CIN 47,0,IND,PUNT
+3,466,2,07:35,"(7:35) (Shotgun) A.Luck pass incomplete deep right to W.Saunders. PENALTY on CIN-V.Burfict, Defensive Pass Interference, 20 yards, enforced at IND 31 - No Play.",2,1,28,IND 31,0,IND,PENALTY
+3,522,1,07:27,(7:27) A.Luck pass incomplete short left to D.Brown (B.Thompson). {Tipped at the line of scrimmage},10,1,30,CIN 49,0,IND,
+3,420,0,08:03,M.Nugent kicks 69 yards from CIN 35 to IND -4. C.Rainey to IND 23 for 27 yards (J.DiManche).,0,1,0,CIN 35,0,CIN,KICKOFF
+2,215,3,12:07,(12:07) (Shotgun) A.Dalton pass short middle to A.Green to CIN 35 for 10 yards (D.Butler).,2,1,18,CIN 25,0,CIN,
+2,194,2,12:50,(12:50) B.Green-Ellis right tackle to CIN 25 for no gain (K.Sheppard; A.Franklin).,2,1,8,CIN 25,0,CIN,
+2,305,2,09:36,(9:36) (Shotgun) A.Dalton pass short right to A.Hawkins pushed ob at IND 39 for 7 yards (A.Bethea).,10,1,44,IND 46,0,CIN,
+2,404,0,08:03,"M.Nugent extra point is GOOD, Center-C.Harris, Holder-K.Huber.",0,1,83,IND 2,1,CIN,XP
+2,260,2,10:49,(10:49) A.Dalton pass short right to A.Green to IND 46 for 17 yards (A.Bethea).,8,1,37,CIN 37,0,CIN,
+2,384,2,08:11,"(8:11) (Shotgun) A.Dalton pass deep left to M.Jones for 29 yards, TOUCHDOWN.",10,1,83,IND 29,1,CIN,TD
+2,239,1,11:33,(11:33) B.Green-Ellis right guard to CIN 37 for 2 yards (A.Bethea).,10,1,20,CIN 35,0,CIN,
+2,334,3,08:58,(8:58) (Shotgun) A.Dalton pass short right to J.Gresham to IND 29 for 10 yards (A.Bethea).,3,1,54,IND 39,0,CIN,
+2,358,1,08:19,(8:19) A.Dalton pass incomplete short right to B.Green-Ellis.,10,1,83,IND 29,0,CIN,
+2,284,1,10:13,(10:13) B.Green-Ellis left guard to IND 46 for no gain (F.Moala; K.Sheppard).,10,1,37,IND 46,0,CIN,
+2,170,1,13:25,(13:25) A.Dalton pass short right to J.Gresham to CIN 25 for 8 yards (J.Freeman).,10,1,8,CIN 17,0,CIN,
+5,762,2,04:44,(4:44) (Shotgun) T.Richardson left guard to IND 35 for 2 yards (A.Jones; G.Iloka).,10,1,2,IND 33,0,IND,
+5,741,1,05:22,(5:22) T.Richardson right guard to IND 33 for no gain (D.Peko).,10,1,0,IND 33,0,IND,
+5,805,4,03:56,"(3:56) P.McAfee punts 36 yards to CIN 29, Center-M.Overton, out of bounds. {Punt caught by CIN B.Tate standing out of bounds}",8,1,2,IND 35,0,IND,PUNT
+5,783,3,04:01,(4:01) (Shotgun) A.Luck pass incomplete short left to D.Heyward-Bey (A.Jones).,8,1,2,IND 35,0,IND,
+4,704,4,05:38,"(5:38) K.Huber punts 54 yards to IND 38, Center-C.Harris. C.Rainey MUFFS catch, and recovers at IND 33. C.Rainey to IND 33 for no gain (D.Kirkpatrick). {Punt officially 59 yards due to the muff catch}",3,1,7,CIN 8,0,CIN,FUMBLE
+4,675,3,05:45,(5:45) (Shotgun) A.Dalton pass incomplete short left to A.Green (L.Landry).,3,1,7,CIN 8,0,CIN,
+4,654,2,06:25,(6:25) B.Green-Ellis right guard to CIN 8 for 3 yards (L.Landry; A.Bethea).,6,1,7,CIN 5,0,CIN,
+4,633,1,06:58,(6:58) B.Green-Ellis right guard to CIN 5 for 4 yards (A.Bethea).,10,1,4,CIN 1,0,CIN,
+7,1090,2,15:00,(15:00) (Shotgun) A.Luck pass short left to D.Rogers to IND 43 for 7 yards (V.Burfict).,10,2,23,IND 36,0,IND,
+7,1020,2,00:39,(:39) (Shotgun) A.Luck pass short left to C.Fleener pushed ob at IND 36 for 13 yards (G.Iloka).,7,1,16,IND 23,0,IND,
+7,1049,1,00:07,(:07) D.Brown right guard to IND 36 for no gain (C.Dunlap).,10,1,16,IND 36,0,IND,
+7,999,1,01:21,(1:21) D.Brown right tackle to IND 23 for 3 yards (B.Thompson).,10,1,3,IND 20,0,IND,
+7,1136,4,14:20,"(14:20) P.McAfee punts 53 yards to CIN 4, Center-M.Overton, downed by IND-J.Gordy. {Punt initially tipped at 1 back into play by S.Brown}",3,2,23,IND 43,0,IND,PUNT
+7,1114,3,14:27,(14:27) A.Luck pass incomplete short right to W.Saunders [W.Gilberry].,3,2,23,IND 43,0,IND,
+6,857,2,03:40,(3:40) G.Bernard left guard to CIN 40 for 11 yards (A.Bethea; E.Walden).,10,1,11,CIN 29,0,CIN,
+6,878,1,03:02,"(3:02) A.Dalton pass incomplete short right to G.Bernard. PENALTY on CIN-An.Smith, Offensive Holding, 10 yards, enforced at CIN 40 - No Play.",10,1,1,CIN 40,0,CIN,PENALTY
+6,954,3,02:08,(2:08) (Shotgun) A.Dalton pass short left to G.Bernard to CIN 35 for 5 yards (J.McNary).,20,1,6,CIN 30,0,CIN,
+6,978,4,01:31,"(1:31) K.Huber punts 65 yards to end zone, Center-C.Harris, Touchback.",15,1,6,CIN 35,0,CIN,PUNT
+6,831,1,03:46,(3:46) A.Dalton pass incomplete short right. {Thrown away},10,1,0,CIN 29,0,CIN,
+6,932,2,02:13,(2:13) (Shotgun) A.Dalton pass incomplete short right to M.Jones.,20,1,1,CIN 30,0,CIN,
+6,911,1,02:56,(2:56) G.Bernard left guard to CIN 30 for no gain (B.Werner).,20,1,1,CIN 30,0,CIN,
+9,1454,1,07:31,"(7:31) PENALTY on CIN-B.Thompson, Neutral Zone Infraction, 5 yards, enforced at IND 33 - No Play.",10,2,26,IND 33,0,IND,PENALTY
+9,1430,2,08:24,(8:24) (Shotgun) A.Luck pass short right to W.Saunders to IND 33 for 11 yards (V.Burfict).,10,2,21,IND 22,0,IND,
+9,1547,2,05:49,(5:49) A.Luck pass incomplete short left to C.Fleener (D.Still). {Tipped at the line of scrimmage},10,2,59,CIN 29,0,IND,
+9,1366,1,09:49,(9:49) T.Richardson left guard to IND 20 for 8 yards (G.Iloka).,10,2,8,IND 12,0,IND,
+9,1525,1,05:55,(5:55) A.Luck pass incomplete deep middle to T.Hilton (R.Nelson).,10,2,59,CIN 29,0,IND,
+9,1597,4,05:05,"(5:05) A.Vinatieri 44 yard field goal is No Good, Wide Right, Center-M.Overton, Holder-P.McAfee.",7,2,62,CIN 26,0,IND,FGM
+9,1408,1,08:30,(8:30) A.Luck pass incomplete short middle to T.Hilton [J.Harrison].,10,2,10,IND 22,0,IND,
+9,1477,1,07:12,(7:12) (Shotgun) A.Luck pass short right to D.Heyward-Bey pushed ob at IND 49 for 11 yards (V.Burfict).,5,2,37,IND 38,0,IND,
+9,1573,3,05:44,(5:44) (Shotgun) A.Luck pass short right to C.Fleener to CIN 26 for 3 yards (M.Johnson).,10,2,62,CIN 29,0,IND,
+9,1501,1,06:35,(6:35) A.Luck pass short middle to T.Richardson to CIN 29 for 22 yards (C.Dunlap).,10,2,59,IND 49,0,IND,
+9,1387,2,09:11,(9:11) T.Richardson right tackle to IND 22 for 2 yards (R.Maualuga).,2,2,10,IND 20,0,IND,
+8,1322,3,10:35,(10:35) (Shotgun) A.Dalton scrambles up the middle to IND 41 for 6 yards (R.Mathews).,10,2,55,IND 47,0,CIN,
+8,1208,1,12:46,(12:46) G.Bernard left end to CIN 42 for 10 yards (A.Bethea).,10,2,38,CIN 32,0,CIN,
+8,1163,1,14:07,(14:07) (Shotgun) A.Dalton pass short middle to T.Eifert to CIN 13 for 9 yards (J.Freeman).,10,2,9,CIN 4,0,CIN,
+8,1187,2,13:30,(13:30) G.Bernard left guard to CIN 32 for 19 yards (L.Landry).,1,2,28,CIN 13,0,CIN,
+8,1343,4,09:57,"(9:57) K.Huber punts 29 yards to IND 12, Center-C.Harris, fair catch by C.Rainey.",4,2,55,IND 41,0,CIN,PUNT
+8,1274,1,10:44,(10:44) A.Dalton pass incomplete deep right to T.Eifert.,10,2,49,IND 47,0,CIN,
+8,1229,1,12:06,(12:06) A.Dalton pass short right to A.Green to IND 49 for 9 yards (D.Butler; A.Bethea).,10,2,47,CIN 42,0,CIN,
+8,1253,2,11:29,(11:29) B.Green-Ellis right end to IND 47 for 2 yards (D.Butler).,1,2,49,IND 49,0,CIN,
+8,1296,2,10:37,(10:37) (Shotgun) A.Dalton pass incomplete short left to A.Hawkins (B.Werner). {Knocked down behind the line of scrimmage},10,2,49,IND 47,0,CIN,
+11,1948,1,00:59,(:59) (Shotgun) A.Luck pass short right to D.Rogers pushed ob at IND 41 for 14 yards (R.Nelson).,10,2,14,IND 27,0,IND,
+11,1994,2,00:47,(:47) (Shotgun) A.Luck pass short left to L.Brazill to IND 46 for 5 yards (M.Johnson).,10,2,19,IND 41,0,IND,
+11,2057,4,00:33,"(:33) P.McAfee punts 41 yards to CIN 13, Center-M.Overton. B.Tate pushed ob at CIN 19 for 6 yards (B.Werner).",5,2,19,IND 46,0,IND,PUNT
+11,1972,1,00:53,(:53) (Shotgun) A.Luck pass incomplete deep left to D.Rogers [M.Johnson].,10,2,14,IND 41,0,IND,
+11,2035,3,00:37,(:37) (Shotgun) A.Luck pass incomplete short middle to C.Fleener.,5,2,19,IND 46,0,IND,
+11,2018,0,00:37,Timeout #2 by IND at 00:37.,0,2,19,,0,,TIMEOUT
+11,1926,0,01:06,M.Nugent kicks 57 yards from CIN 35 to IND 8. C.Rainey to IND 27 for 19 yards (S.Williams).,0,2,0,CIN 35,0,CIN,KICKOFF
+10,1641,1,04:20,(4:20) A.Dalton pass short middle to M.Sanu to IND 33 for 11 yards (L.Landry).,10,2,33,IND 44,0,CIN,
+10,1800,3,02:00,(2:00) A.Dalton pass short left to M.Jones to IND 1 for 2 yards (V.Davis).,3,2,65,IND 3,0,CIN,
+10,1617,1,05:00,(5:00) (Shotgun) A.Dalton pass short middle to G.Bernard to IND 44 for 22 yards (L.Landry; J.Freeman).,10,2,22,CIN 34,0,CIN,
+10,1719,1,02:59,(2:59) G.Bernard right end pushed ob at IND 9 for 14 yards (A.Bethea).,10,2,57,IND 23,0,CIN,
+10,1824,0,01:14,Timeout #1 by CIN at 01:14.,0,2,65,,0,,TIMEOUT
+10,1686,2,03:06,"(3:06) (Shotgun) A.Dalton pass incomplete deep left to A.Green. PENALTY on IND-V.Davis, Defensive Holding, 5 yards, enforced at IND 28 - No Play.",5,2,43,IND 28,0,CIN,PENALTY
+10,1762,2,02:16,(2:16) (Shotgun) B.Green-Ellis right guard to IND 3 for 6 yards (A.Bethea).,9,2,63,IND 9,0,CIN,
+10,1910,0,01:06,"M.Nugent extra point is GOOD, Center-C.Harris, Holder-K.Huber.",0,2,66,IND 2,1,CIN,XP
+10,1665,1,03:42,(3:42) (Shotgun) B.Green-Ellis up the middle to IND 28 for 5 yards (L.Landry; J.Freeman).,10,2,38,IND 33,0,CIN,
+10,1740,1,02:21,(2:21) A.Dalton pass incomplete short left to M.Sanu.,9,2,57,IND 9,0,CIN,
+10,1852,4,01:14,"(1:14) B.Green-Ellis right tackle to IND 1 for no gain (J.Chapman). The Replay Assistant challenged the runner was down by contact ruling, and the play was REVERSED. B.Green-Ellis right tackle for 1 yard, TOUCHDOWN.",1,2,66,IND 1,1,CIN,TD
+13,2274,1,11:48,(11:48) (Shotgun) A.Dalton pass incomplete deep left to A.Green (V.Davis).,10,3,56,IND 24,0,CIN,
+13,2205,1,13:44,(13:44) G.Bernard left guard to CIN 45 for -2 yards (C.Redding).,10,3,25,CIN 47,0,CIN,
+13,2319,2,11:42,(11:42) G.Bernard left end to IND 9 for 20 yards (J.Freeman; A.Bethea).,15,3,71,IND 29,0,CIN,
+13,2226,2,13:09,(13:09) (Shotgun) A.Dalton pass short middle to J.Gresham to IND 39 for 16 yards (A.Bethea).,12,3,41,CIN 45,0,CIN,
+13,2340,1,10:55,"(10:55) A.Dalton pass incomplete short left to M.Sanu. PENALTY on IND-R.Mathis, Defensive Offside, 5 yards, enforced at IND 9 - No Play.",9,3,79,IND 9,0,CIN,PENALTY
+13,2296,2,11:42,"(11:42) PENALTY on CIN-An.Smith, False Start, 5 yards, enforced at IND 24 - No Play.",10,3,76,IND 24,0,CIN,PENALTY
+13,2138,1,15:00,(15:00) B.Green-Ellis right tackle to CIN 25 for 5 yards (L.Landry; J.Freeman).,10,3,5,CIN 20,0,CIN,
+13,2119,0,15:00,"P.McAfee kicks 65 yards from IND 35 to end zone, Touchback.",0,3,0,IND 35,0,IND,KICKOFF
+13,2181,3,14:18,(14:18) (Shotgun) A.Dalton pass short middle to A.Green pushed ob at CIN 47 for 22 yards (C.Vaughn).,5,3,27,CIN 25,0,CIN,
+13,2432,0,10:41,"M.Nugent extra point is GOOD, Center-C.Harris, Holder-K.Huber.",0,3,80,IND 2,1,CIN,XP
+13,2377,1,10:50,"(10:50) A.Dalton pass incomplete short middle to M.Sanu. PENALTY on IND-D.Butler, Defensive Pass Interference, 3 yards, enforced at IND 4 - No Play.",4,3,79,IND 4,0,CIN,PENALTY
+13,2410,1,10:45,"(10:45) B.Green-Ellis right guard for 1 yard, TOUCHDOWN.",1,3,80,IND 1,1,CIN,TD
+13,2159,2,14:25,(14:25) A.Dalton pass incomplete deep middle to M.Sanu.,5,3,5,CIN 25,0,CIN,
+13,2250,1,12:29,(12:29) A.Dalton pass short middle to M.Sanu to IND 24 for 15 yards (L.Landry).,10,3,56,IND 39,0,CIN,
+12,2082,1,00:20,(:20) A.Dalton kneels to CIN 18 for -1 yards.,10,2,-1,CIN 19,0,CIN,
+15,2569,0,09:57,P.McAfee kicks 70 yards from IND 35 to CIN -5. B.Tate to CIN 16 for 21 yards (A.Studebaker; S.Havili).,0,3,0,IND 35,0,IND,KICKOFF
+15,2615,2,09:07,(9:07) (Shotgun) A.Dalton pass short middle to J.Gresham pushed ob at CIN 22 for 6 yards (J.Freeman).,10,3,6,CIN 16,0,CIN,
+15,2639,3,08:34,"(8:34) (Shotgun) A.Dalton scrambles left end to CIN 30 for 8 yards. PENALTY on CIN-K.Cook, Illegal Use of Hands, 10 yards, enforced at CIN 22 - No Play.",4,3,-4,CIN 22,0,CIN,PENALTY
+15,2591,1,09:52,(9:52) A.Dalton pass short right to T.Eifert to CIN 16 for no gain (K.Sheppard).,10,3,6,CIN 16,0,CIN,
+15,2671,3,08:10,(8:10) (Shotgun) G.Bernard up the middle to CIN 18 for 6 yards (E.Walden; R.Mathis).,14,3,2,CIN 12,0,CIN,
+15,2692,4,07:33,"(7:33) K.Huber punts 30 yards to CIN 48, Center-C.Harris, downed by CIN-C.Harris.",8,3,2,CIN 18,0,CIN,PUNT
+14,2448,0,10:41,"M.Nugent kicks 38 yards from CIN 35 to IND 27. D.Adongo MUFFS catch, and recovers at IND 26. D.Adongo to IND 26 for no gain (C.Peerman).",0,3,0,CIN 35,0,CIN,KICKOFF
+14,2500,2,10:36,(10:36) (Shotgun) D.Brown left tackle to IND 31 for 5 yards (M.Johnson).,10,3,5,IND 26,0,IND,
+14,2553,0,09:57,"A.Vinatieri extra point is GOOD, Center-M.Overton, Holder-P.McAfee.",0,3,74,CIN 2,1,IND,XP
+14,2528,3,10:09,"(10:09) (Shotgun) A.Luck pass short middle to D.Rogers for 69 yards, TOUCHDOWN.",5,3,74,IND 31,1,IND,TD
+14,2478,1,10:39,(10:39) A.Luck pass incomplete short left to D.Brown.,10,3,0,IND 26,0,IND,
+17,2966,1,03:47,(3:47) A.Dalton pass short left to A.Green to IND 1 for 5 yards (V.Davis).,6,3,59,IND 6,0,CIN,
+17,2906,2,04:49,(4:49) G.Bernard right guard to IND 34 for 4 yards (A.Bethea; J.Freeman).,6,3,26,IND 38,0,CIN,
+17,2885,1,05:25,(5:25) G.Bernard right end to IND 38 for 4 yards (P.Angerer; D.Butler). IND-P.Angerer was injured during the play.,10,3,22,IND 42,0,CIN,
+17,2990,2,03:12,"(3:12) A.Dalton pass short left to J.Gresham for 1 yard, TOUCHDOWN.",1,3,60,IND 1,1,CIN,TD
+17,2852,2,05:29,"(5:29) A.Dalton pass incomplete short middle to A.Green. PENALTY on IND-V.Davis, Defensive Pass Interference, 12 yards, enforced at CIN 46 - No Play.",4,3,18,CIN 46,0,CIN,PENALTY
+17,2931,3,04:08,"(4:08) (Shotgun) A.Dalton pass short left to G.Bernard to IND 13 for 21 yards (L.Landry). PENALTY on IND-L.Landry, Unnecessary Roughness, 7 yards, enforced at IND 13.",2,3,54,IND 34,0,CIN,PENALTY
+17,2798,0,06:20,P.McAfee kicks 69 yards from IND 35 to CIN -4. B.Tate pushed ob at CIN 40 for 44 yards (P.McAfee).,0,3,0,IND 35,0,IND,KICKOFF
+17,3015,0,03:05,"M.Nugent extra point is GOOD, Center-C.Harris, Holder-K.Huber.",0,3,60,IND 2,1,CIN,XP
+17,2820,1,06:13,(6:13) G.Bernard left end to CIN 46 for 6 yards (K.Sheppard; L.Landry).,10,3,6,CIN 40,0,CIN,
+16,2778,0,06:20,"A.Vinatieri extra point is GOOD, Center-M.Overton, Holder-P.McAfee.",0,3,48,CIN 2,1,IND,XP
+16,2736,1,06:33,(6:33) (Shotgun) A.Luck pass incomplete short left to C.Rainey (M.Johnson).,10,3,29,CIN 19,0,IND,
+16,2758,2,06:30,"(6:30) (Shotgun) A.Luck pass short middle to L.Brazill for 19 yards, TOUCHDOWN. CIN-G.Iloka was injured during the play.",10,3,48,CIN 19,1,IND,TD
+16,2715,1,07:22,(7:22) A.Luck scrambles up the middle to CIN 19 for 29 yards (T.Newman).,10,3,29,CIN 48,0,IND,
+19,3312,1,14:07,(14:07) B.Green-Ellis right guard to IND 9 for 2 yards (E.Walden; A.Bethea).,10,4,50,IND 11,0,CIN,
+19,3229,1,00:44,(:44) B.Green-Ellis left guard to IND 40 for 4 yards (J.Chapman).,10,3,19,IND 44,0,CIN,
+19,3266,2,15:00,(15:00) A.Dalton pass incomplete short right to Al.Smith (A.Studebaker).,6,4,19,IND 40,0,CIN,
+19,3333,2,13:30,"(13:30) A.Dalton pass short right to A.Green for 9 yards, TOUCHDOWN.",8,4,59,IND 9,1,CIN,TD
+19,3186,2,01:13,"(1:13) M.Jones left end pushed ob at CIN 41 for -3 yards (A.Bethea; K.Sheppard). PENALTY on IND-K.Sheppard, Taunting, 15 yards, enforced at CIN 41. {End around}",7,3,15,CIN 44,0,CIN,PENALTY
+19,3353,0,13:25,"M.Nugent extra point is GOOD, Center-C.Harris, Holder-K.Huber.",0,4,59,IND 2,1,CIN,XP
+19,3288,3,14:52,(14:52) (Shotgun) A.Dalton pass deep left to M.Jones to IND 11 for 29 yards (D.Butler).,6,4,48,IND 40,0,CIN,
+19,3165,1,01:50,(1:50) B.Green-Ellis left guard to CIN 44 for 3 yards (E.Walden).,10,3,3,CIN 41,0,CIN,
+18,3118,3,02:06,(2:06) (Shotgun) A.Luck pass incomplete deep right to C.Fleener.,6,3,4,IND 23,0,IND,
+18,3140,4,02:01,"(2:01) P.McAfee punts 55 yards to CIN 22, Center-M.Overton. B.Tate pushed ob at CIN 41 for 19 yards (M.Overton).",6,3,4,IND 23,0,IND,PUNT
+18,3086,2,02:49,(2:49) (Shotgun) T.Richardson right tackle to IND 23 for 4 yards (C.Dunlap; V.Burfict).,10,3,4,IND 19,0,IND,
+18,3031,0,03:05,M.Nugent kicks 59 yards from CIN 35 to IND 6. C.Rainey to IND 19 for 13 yards (C.Peerman).,0,3,0,CIN 35,0,CIN,KICKOFF
+18,3064,1,02:59,(2:59) (Shotgun) A.Luck pass incomplete short right to T.Richardson (V.Burfict).,10,3,0,IND 19,0,IND,

@@ -1,161 +1,161 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1698,3,01:23,,10,2,93,MIA 31,1,DAL,TD
-9,1517,1,05:45,,10,2,46,DAL 36,0,DAL,
-9,1657,0,02:00,,0,2,45,,0,,
-9,1377,2,09:34,,10,2,2,DAL 7,0,DAL,
-9,1398,3,08:51,,8,2,7,DAL 9,0,DAL,PENALTY
-9,1493,1,06:27,,10,2,29,DAL 26,0,DAL,
-9,1538,1,05:02,,10,2,43,MIA 47,0,DAL,
-9,1602,2,03:16,,11,2,50,MIA 32,0,DAL,PENALTY
-9,1449,2,07:49,,3,2,16,DAL 21,0,DAL,
-9,1674,2,02:00,,27,2,62,MIA 48,0,DAL,
-9,1718,0,01:08,,0,2,93,MIA 15,1,DAL,XP
-9,1581,1,03:37,,10,2,61,MIA 31,0,DAL,
-9,1428,1,08:26,,10,2,14,DAL 14,0,DAL,
-9,1634,2,02:35,,22,2,45,MIA 43,0,DAL,PENALTY
-9,1557,2,04:15,,13,2,62,50,0,DAL,
-9,1355,1,09:38,,10,2,0,DAL 7,0,DAL,
-9,1470,3,07:02,,1,2,19,DAL 23,0,DAL,
-10,1803,1,00:55,,15,2,42,MIA 41,0,MIA,
-10,1768,1,01:02,,10,2,-5,MIA 46,0,MIA,PENALTY
-10,1849,2,00:23,,10,2,54,DAL 12,1,MIA,TD
-10,1870,0,00:16,,0,2,54,DAL 15,1,MIA,XP
-10,1746,0,01:08,,0,2,0,DAL 20,0,DAL,KICKOFF
-10,1827,1,00:28,,10,2,42,DAL 12,0,MIA,
-20,3346,3,05:16,,14,4,11,DAL 9,0,DAL,
-20,3585,0,01:54,,0,4,56,,0,,TIMEOUT
-20,3667,4,01:09,,11,4,49,MIA 36,0,DAL,
-20,3640,4,01:09,,6,4,49,MIA 31,0,DAL,PENALTY
-20,3443,3,04:19,,4,4,31,DAL 30,0,DAL,
-20,3314,2,05:47,,14,4,-4,DAL 9,0,DAL,
-20,3623,0,01:09,,0,4,56,,0,,TIMEOUT
-20,3405,2,04:23,,11,4,17,DAL 23,0,DAL,
-20,3367,1,04:30,,10,4,10,DAL 24,0,DAL,
-20,3547,0,01:58,,0,4,54,,0,,
-20,3293,1,06:29,,10,4,-4,DAL 13,0,DAL,
-20,3602,3,01:54,,6,4,56,MIA 31,0,DAL,
-20,3426,0,04:19,,0,4,17,,0,,TIMEOUT
-20,3526,1,02:04,,10,4,54,MIA 35,0,DAL,
-20,3509,0,02:04,,0,4,52,,0,,TIMEOUT
-20,3488,1,02:54,,10,4,52,MIA 45,0,DAL,
-20,3388,0,04:23,,0,4,10,,0,,TIMEOUT
-20,3564,2,01:58,,8,4,56,MIA 33,0,DAL,
-20,3467,1,03:40,,10,4,42,DAL 44,0,DAL,
-6,1121,3,13:05,,13,2,13,MIA 33,0,MIA,
-6,1099,2,13:12,,13,2,13,MIA 33,0,MIA,
-6,1020,1,14:55,,10,2,16,MIA 20,0,MIA,
-6,1043,1,14:20,,10,2,6,MIA 36,0,MIA,PENALTY
-6,1078,1,13:54,,20,2,13,MIA 26,0,MIA,
-6,1005,0,14:55,,0,2,0,DAL 35,0,DAL,KICKOFF
-6,1143,4,13:01,,13,2,13,MIA 33,0,MIA,PUNT
-18,3061,1,11:10,,9,4,14,MIA 9,0,DAL,
-18,3132,3,09:59,,7,4,10,MIA 7,0,DAL,
-18,3037,3,11:34,,10,4,12,MIA 21,0,DAL,
-18,3099,2,10:04,,7,4,14,MIA 7,0,DAL,
-18,3151,4,09:23,,11,4,10,MIA 11,1,DAL,FG
-18,3013,2,12:16,,13,4,0,MIA 24,0,DAL,
-18,2992,1,12:55,,10,4,-3,MIA 21,0,DAL,
-18,3082,0,10:04,,0,4,14,,0,,TIMEOUT
-1,100,2,13:41,,1,1,27,MIA 48,0,MIA,PENALTY
-1,132,1,13:18,,10,1,27,DAL 46,0,MIA,
-1,274,4,12:25,,8,1,29,DAL 44,0,MIA,PUNT
-1,58,1,14:53,,10,1,12,MIA 27,0,MIA,
-1,200,3,12:29,,8,1,29,DAL 44,0,MIA,
-1,161,2,13:10,,10,1,29,DAL 46,0,MIA,
-1,79,1,14:22,,10,1,21,MIA 39,0,MIA,
-1,183,0,12:29,,0,1,29,,0,,TIMEOUT
-1,36,0,15:00,,0,1,0,DAL 35,0,DAL,KICKOFF
-5,930,2,00:26,,14,1,-1,MIA 5,0,MIA,
-5,967,3,15:00,,11,2,-1,MIA 8,1,MIA,TD
-5,876,1,01:13,,10,1,1,MIA 9,0,MIA,
-5,898,2,00:39,,9,1,-4,MIA 10,0,MIA,PENALTY
-5,951,0,,,0,1,-1,,0,,
-13,2169,1,11:08,,30,3,-5,MIA 38,0,MIA,
-13,2193,2,10:35,,30,3,0,MIA 38,0,MIA,PENALTY
-13,2114,1,11:55,,10,3,0,DAL 42,0,MIA,PENALTY
-13,2276,4,08:46,,13,3,12,DAL 45,0,MIA,PUNT
-13,2228,2,10:05,,25,3,3,MIA 43,0,MIA,
-13,2146,1,11:35,,25,3,-5,MIA 43,0,MIA,PENALTY
-13,2090,1,12:15,,10,3,15,MIA 43,0,MIA,
-13,2252,3,09:26,,22,3,12,MIA 46,0,MIA,
-21,3712,2,00:36,,25,4,-15,MIA 23,0,MIA,
-21,3734,3,00:27,,25,4,-8,MIA 23,0,MIA,
-21,3689,1,01:04,,10,4,-15,MIA 38,0,MIA,
-21,3783,4,00:12,,18,4,-30,MIA 30,0,MIA,
-21,3758,0,00:12,,0,4,-8,,0,,TIMEOUT
-11,1886,0,00:16,,0,2,0,MIA 35,0,MIA,KICKOFF
-11,1925,0,,,0,2,-1,,0,,
-11,1904,1,00:13,,10,2,-1,DAL 20,0,DAL,
-14,2362,4,07:30,,2,3,8,DAL 18,0,DAL,PUNT
-14,2338,3,07:59,,10,3,8,DAL 10,0,DAL,
-14,2295,1,08:40,,10,3,0,DAL 10,0,DAL,
-14,2316,2,08:05,,10,3,0,DAL 10,0,DAL,
-8,1291,2,11:15,,10,2,-1,MIA 42,0,MIA,
-8,1268,1,11:18,,10,2,0,MIA 42,0,MIA,
-8,1312,3,10:34,,11,2,8,MIA 41,0,MIA,
-8,1336,4,09:53,,2,2,8,50,0,MIA,PUNT
-19,3230,2,07:56,,6,4,16,MIA 47,0,MIA,
-19,3185,1,09:09,,10,4,23,MIA 20,0,MIA,
-19,3170,0,09:09,,0,4,0,DAL 35,0,DAL,KICKOFF
-19,3209,1,08:35,,10,4,27,MIA 43,0,MIA,
-19,3273,4,06:37,,6,4,27,MIA 47,0,MIA,PUNT
-19,3249,3,07:15,,17,4,27,MIA 36,0,MIA,
-12,1998,1,13:44,,10,3,39,DAL 43,0,DAL,
-12,2043,2,12:22,,14,3,35,MIA 45,0,DAL,INT
-12,1956,1,15:00,,10,3,3,DAL 20,0,DAL,
-12,1941,0,15:00,,0,3,0,MIA 35,0,MIA,KICKOFF
-12,1977,2,14:22,,7,3,23,DAL 23,0,DAL,
-12,2022,1,13:08,,10,3,35,MIA 41,0,DAL,
-16,2797,2,15:00,,16,4,80,MIA 16,1,DAL,TD
-16,2679,1,02:49,,10,3,36,DAL 41,0,DAL,
-16,2658,2,03:15,,7,3,21,DAL 33,0,DAL,
-16,2817,0,14:55,,0,4,80,MIA 15,1,DAL,XP
-16,2572,0,05:20,,0,3,0,MIA 35,0,MIA,KICKOFF
-16,2707,1,01:44,,10,3,71,MIA 44,0,DAL,
-16,2760,1,00:41,,19,3,64,MIA 19,0,DAL,
-16,2613,2,04:45,,2,3,10,DAL 28,0,DAL,
-16,2589,1,05:20,,10,3,8,DAL 20,0,DAL,
-16,2781,0,,,0,3,64,,0,,
-16,2728,1,01:14,,9,3,61,MIA 9,0,DAL,PENALTY
-16,2634,1,03:59,,10,3,13,DAL 30,0,DAL,
-7,1221,3,11:36,,4,2,6,DAL 16,0,DAL,
-7,1243,4,11:30,,4,2,6,DAL 16,0,DAL,PUNT
-7,1200,2,12:28,,6,2,6,DAL 14,0,DAL,
-7,1179,1,12:53,,10,2,4,DAL 10,0,DAL,
-3,400,1,09:33,,10,1,3,MIA 45,0,MIA,
-3,446,3,08:25,,5,1,5,50,0,MIA,
-3,468,4,08:15,,5,1,5,50,0,MIA,PUNT
-3,424,2,09:07,,7,1,5,MIA 48,0,MIA,
-17,2955,4,13:08,,9,4,1,MIA 5,0,MIA,PUNT
-17,2933,3,13:15,,9,4,1,MIA 5,0,MIA,
-17,2901,3,13:34,,4,4,1,MIA 10,0,MIA,PENALTY
-17,2880,2,14:16,,6,4,6,MIA 8,0,MIA,
-17,2833,0,14:55,,0,4,0,DAL 35,0,DAL,KICKOFF
-17,2855,1,14:54,,10,4,4,MIA 4,0,MIA,
-4,738,2,02:59,,4,1,49,MIA 31,0,DAL,
-4,670,0,04:06,,0,1,32,,0,,TIMEOUT
-4,627,1,04:50,,10,1,32,DAL 49,0,DAL,
-4,598,4,05:37,,1,1,29,DAL 45,0,DAL,
-4,648,2,04:12,,7,1,32,MIA 48,0,DAL,
-4,806,2,02:05,,10,1,68,MIA 16,0,DAL,
-4,827,3,01:23,,6,1,68,MIA 12,0,DAL,INT
-4,717,1,03:39,,10,1,49,MIA 37,0,DAL,
-4,531,1,06:59,,10,1,20,DAL 36,0,DAL,
-4,574,3,06:08,,6,1,25,DAL 40,0,DAL,
-4,760,3,02:53,,4,1,64,MIA 31,0,DAL,
-4,507,2,07:34,,9,1,16,DAL 21,0,DAL,
-4,687,3,04:06,,7,1,49,MIA 48,0,DAL,
-4,784,1,02:10,,10,1,64,MIA 16,0,DAL,
-4,486,1,08:09,,10,1,1,DAL 20,0,DAL,
-4,552,2,06:14,,6,1,20,DAL 40,0,DAL,
-2,314,2,12:01,,9,1,3,DAL 5,0,DAL,
-2,382,4,09:40,,1,1,9,DAL 13,0,DAL,PUNT
-2,358,3,10:21,,10,1,9,DAL 4,0,DAL,
-2,293,1,12:18,,10,1,1,DAL 4,0,DAL,
-2,335,3,10:58,,7,1,0,DAL 7,0,DAL,PENALTY
-15,2556,0,05:20,,0,3,58,DAL 15,1,MIA,XP
-15,2473,1,06:10,,10,3,58,DAL 33,0,MIA,
-15,2428,1,07:13,,10,3,58,MIA 42,0,MIA,
-15,2494,2,05:35,,6,3,58,DAL 29,0,MIA,FUMBLE
-15,2449,2,06:32,,5,3,58,MIA 47,0,MIA,
-15,2535,3,05:26,,6,3,58,DAL 29,1,MIA,TD
+20,3467,1,03:40,(3:40) D.McFadden up the middle to MIA 45 for 11 yards (N.Hewitt).,10,4,42,DAL 44,0,DAL,
+20,3488,1,02:54,(2:54) D.McFadden up the middle to MIA 35 for 10 yards (K.Sheppard; B.Grimes).,10,4,52,MIA 45,0,DAL,
+20,3667,4,01:09,(1:09) D.McFadden right tackle to MIA 38 for -2 yards (N.Suh; D.Shelby).,11,4,49,MIA 36,0,DAL,
+20,3547,0,01:58,Two-Minute Warning,0,4,54,,0,,
+20,3585,0,01:54,Timeout #3 by MIA at 01:54.,0,4,56,,0,,TIMEOUT
+20,3564,2,01:58,(1:58) D.McFadden up the middle to MIA 31 for 2 yards (N.Suh).,8,4,56,MIA 33,0,DAL,
+20,3509,0,02:04,Timeout #2 by DAL at 02:04.,0,4,52,,0,,TIMEOUT
+20,3623,0,01:09,Timeout #3 by DAL at 01:09.,0,4,56,,0,,TIMEOUT
+20,3367,1,04:30,(4:30) D.McFadden left end to DAL 23 for -1 yards (R.Jones).,10,4,10,DAL 24,0,DAL,
+20,3346,3,05:16,(5:16) (Shotgun) D.McFadden left end to DAL 24 for 15 yards (M.Thomas).,14,4,11,DAL 9,0,DAL,
+20,3426,0,04:19,Timeout #2 by MIA at 04:19.,0,4,17,,0,,TIMEOUT
+20,3388,0,04:23,Timeout #1 by MIA at 04:23.,0,4,10,,0,,TIMEOUT
+20,3526,1,02:04,(2:04) D.McFadden up the middle to MIA 33 for 2 yards (J.Phillips).,10,4,54,MIA 35,0,DAL,
+20,3405,2,04:23,(4:23) D.McFadden right guard to DAL 30 for 7 yards (Z.Vigil).,11,4,17,DAL 23,0,DAL,
+20,3443,3,04:19,(4:19) (Shotgun) T.Romo pass short left to C.Beasley to DAL 44 for 14 yards (M.Thomas).,4,4,31,DAL 30,0,DAL,
+20,3640,4,01:09,"(1:09) (Punt formation) PENALTY on DAL-D.Free, False Start, 5 yards, enforced at MIA 31 - No Play.",6,4,49,MIA 31,0,DAL,PENALTY
+20,3314,2,05:47,"(5:47) D.McFadden left end to DAL 9 for no gain (O.Vernon). Penalty on DAL-Z.Martin, Offensive Holding, declined.",14,4,-4,DAL 9,0,DAL,
+20,3602,3,01:54,(1:54) D.McFadden left tackle to MIA 31 for no gain (O.Vernon; C.Mosley).,6,4,56,MIA 31,0,DAL,
+20,3293,1,06:29,(6:29) D.McFadden left end to DAL 9 for -4 yards (O.Vernon).,10,4,-4,DAL 13,0,DAL,
+21,3758,0,00:12,Timeout #4 by DAL at 00:12. DAL - Injury Required 4th Team Timeout,0,4,-8,,0,,TIMEOUT
+21,3689,1,01:04,(1:04) R.Tannehill sacked at MIA 23 for -15 yards (sack split by G.Hardy and D.Irving).,10,4,-15,MIA 38,0,MIA,
+21,3734,3,00:27,(:27) (Shotgun) R.Tannehill pass short right to J.Landry to MIA 30 for 7 yards (J.Crawford). DAL-B.Jones was injured during the play. His return is Questionable.,25,4,-8,MIA 23,0,MIA,
+21,3783,4,00:12,(:12) (Shotgun) R.Tannehill sacked at MIA 8 for -22 yards (D.Lawrence).,18,4,-30,MIA 30,0,MIA,
+21,3712,2,00:36,"(:36) (No Huddle, Shotgun) R.Tannehill pass incomplete short left to J.Cameron.",25,4,-15,MIA 23,0,MIA,
+1,200,3,12:29,"(12:29) (Shotgun) R.Tannehill pass deep middle to R.Matthews to DAL 25 for 19 yards (B.Jones). Dallas challenged the pass completion ruling, and the play was REVERSED. (Shotgun) R.Tannehill pass incomplete deep middle to R.Matthews.",8,1,29,DAL 44,0,MIA,
+1,58,1,14:53,(14:53) (Shotgun) L.Miller left guard to MIA 39 for 12 yards (J.Wilcox; B.Church).,10,1,12,MIA 27,0,MIA,
+1,183,0,12:29,Timeout #1 by DAL at 12:29.,0,1,29,,0,,TIMEOUT
+1,36,0,15:00,D.Bailey kicks 71 yards from DAL 35 to MIA -6. J.Landry to MIA 27 for 33 yards (J.Wilcox).,0,1,0,DAL 35,0,DAL,KICKOFF
+1,132,1,13:18,(13:18) (Shotgun) R.Tannehill pass incomplete short right to J.Cameron.,10,1,27,DAL 46,0,MIA,
+1,274,4,12:25,"(12:25) M.Darr punts 40 yards to DAL 4, Center-J.Denney, out of bounds.",8,1,29,DAL 44,0,MIA,PUNT
+1,100,2,13:41,"(13:41) (Shotgun) R.Tannehill left end to 50 for 2 yards (B.Church). PENALTY on DAL-D.Lawrence, Defensive Offside, 6 yards, enforced at MIA 48 - No Play.",1,1,27,MIA 48,0,MIA,PENALTY
+1,161,2,13:10,(13:10) (Shotgun) L.Miller left guard to DAL 44 for 2 yards (R.McClain).,10,1,29,DAL 46,0,MIA,
+1,79,1,14:22,(14:22) (Shotgun) L.Miller left end to MIA 48 for 9 yards (R.McClain).,10,1,21,MIA 39,0,MIA,
+3,446,3,08:25,(8:25) (Shotgun) R.Tannehill pass incomplete deep left to J.Landry (B.Carr).,5,1,5,50,0,MIA,
+3,424,2,09:07,(9:07) (Shotgun) R.Tannehill right end to 50 for 2 yards (B.Church).,7,1,5,MIA 48,0,MIA,
+3,468,4,08:15,"(8:15) M.Darr punts 50 yards to end zone, Center-J.Denney, Touchback.",5,1,5,50,0,MIA,PUNT
+3,400,1,09:33,(9:33) R.Tannehill pass short right to J.Landry to MIA 48 for 3 yards (S.Lee).,10,1,3,MIA 45,0,MIA,
+2,335,3,10:58,"(10:58) (Shotgun) PENALTY on DAL-L.Collins, False Start, 3 yards, enforced at DAL 7 - No Play.",7,1,0,DAL 7,0,DAL,PENALTY
+2,382,4,09:40,"(9:40) (Punt formation) C.Jones punts 42 yards to MIA 45, Center-L.Ladouceur, out of bounds.",1,1,9,DAL 13,0,DAL,PUNT
+2,358,3,10:21,(10:21) (Shotgun) T.Romo pass short left to D.McFadden to DAL 13 for 9 yards (R.Jones) [O.Vernon].,10,1,9,DAL 4,0,DAL,
+2,293,1,12:18,(12:18) D.McFadden up the middle to DAL 5 for 1 yard (Z.Vigil; K.Sheppard).,10,1,1,DAL 4,0,DAL,
+2,314,2,12:01,(12:01) D.McFadden right guard to DAL 7 for 2 yards (N.Suh).,9,1,3,DAL 5,0,DAL,
+5,876,1,01:13,(1:13) (Shotgun) J.Ajayi left guard to MIA 10 for 1 yard (G.Hardy).,10,1,1,MIA 9,0,MIA,
+5,898,2,00:39,"(:39) (Shotgun) J.Ajayi right end to MIA 28 for 18 yards (B.Jones). PENALTY on MIA-J.Fox, Offensive Holding, 5 yards, enforced at MIA 10 - No Play.",9,1,-4,MIA 10,0,MIA,PENALTY
+5,930,2,00:26,(:26) (Shotgun) J.Ajayi up the middle to MIA 8 for 3 yards (N.Hayden).,14,1,-1,MIA 5,0,MIA,
+5,951,0,,END QUARTER 1,0,1,-1,,0,,
+5,967,3,15:00,"(15:00) (Shotgun) R.Tannehill pass short middle intended for G.Jennings INTERCEPTED by R.McClain at MIA 12. R.McClain for 12 yards, TOUCHDOWN.",11,2,-1,MIA 8,1,MIA,TD
+4,784,1,02:10,(2:10) (Shotgun) T.Romo pass incomplete deep middle to G.Escobar [O.Vernon].,10,1,64,MIA 16,0,DAL,
+4,627,1,04:50,(4:50) D.McFadden left tackle to MIA 48 for 3 yards (E.Mitchell).,10,1,32,DAL 49,0,DAL,
+4,827,3,01:23,"(1:23) (Shotgun) T.Romo pass short left intended for D.Bryant INTERCEPTED by B.Grimes at MIA 1. B.Grimes to MIA 18 for 17 yards (D.McFadden). PENALTY on MIA-C.Mosley, Illegal Block Above the Waist, 9 yards, enforced at MIA 18.",6,1,68,MIA 12,0,DAL,INT
+4,717,1,03:39,(3:39) D.McFadden left end pushed ob at MIA 31 for 6 yards (J.Taylor).,10,1,49,MIA 37,0,DAL,
+4,598,4,05:37,(5:37) C.Brown reported in as eligible.  D.McFadden up the middle to DAL 49 for 4 yards (B.Grimes).,1,1,29,DAL 45,0,DAL,
+4,760,3,02:53,(2:53) (Shotgun) T.Romo pass short middle to G.Escobar to MIA 16 for 15 yards (K.Sheppard).,4,1,64,MIA 31,0,DAL,
+4,670,0,04:06,Timeout #1 by MIA at 04:06.,0,1,32,,0,,TIMEOUT
+4,574,3,06:08,(6:08) (Shotgun) T.Romo pass short right to G.Escobar to DAL 45 for 5 yards (K.Sheppard). Officials Timeout for Measurement.,6,1,25,DAL 40,0,DAL,
+4,648,2,04:12,(4:12) T.Romo pass incomplete deep left to D.Bryant.,7,1,32,MIA 48,0,DAL,
+4,531,1,06:59,(6:59) D.McFadden right guard to DAL 40 for 4 yards (N.Suh).,10,1,20,DAL 36,0,DAL,
+4,507,2,07:34,(7:34) T.Romo pass short right to J.Witten to DAL 36 for 15 yards (M.Thomas).,9,1,16,DAL 21,0,DAL,
+4,486,1,08:09,(8:09) D.McFadden left tackle to DAL 21 for 1 yard (J.Taylor; N.Suh).,10,1,1,DAL 20,0,DAL,
+4,687,3,04:06,(4:06) (Shotgun) T.Romo pass short left to D.Bryant pushed ob at MIA 37 for 11 yards (Z.Bowman).,7,1,49,MIA 48,0,DAL,
+4,552,2,06:14,(6:14) (Shotgun) T.Romo pass incomplete short right to C.Beasley.,6,1,20,DAL 40,0,DAL,
+4,806,2,02:05,(2:05) (Shotgun) D.McFadden left guard to MIA 12 for 4 yards (R.Jones).,10,1,68,MIA 16,0,DAL,
+4,738,2,02:59,(2:59) T.Romo pass incomplete short left to D.Bryant (J.Phillips).,4,1,49,MIA 31,0,DAL,
+7,1243,4,11:30,"(11:30) C.Jones punts 54 yards to MIA 30, Center-L.Ladouceur. J.Landry to MIA 42 for 12 yards (G.Escobar).",4,2,6,DAL 16,0,DAL,PUNT
+7,1221,3,11:36,(11:36) (Shotgun) T.Romo pass incomplete deep left to D.Bryant.,4,2,6,DAL 16,0,DAL,
+7,1200,2,12:28,(12:28) (Shotgun) D.McFadden left end to DAL 16 for 2 yards (K.Sheppard).,6,2,6,DAL 14,0,DAL,
+7,1179,1,12:53,(12:53) D.McFadden left guard to DAL 14 for 4 yards (K.Sheppard).,10,2,4,DAL 10,0,DAL,
+6,1043,1,14:20,"(14:20) R.Tannehill pass short right to Da.Williams pushed ob at MIA 35 for -1 yards (S.Lee) [R.Gregory]. PENALTY on MIA-D.Sims, Offensive Holding, 10 yards, enforced at MIA 36 - No Play.",10,2,6,MIA 36,0,MIA,PENALTY
+6,1143,4,13:01,"(13:01) M.Darr punts 48 yards to DAL 19, Center-J.Denney. L.Whitehead pushed ob at DAL 19 for no gain (K.Sheppard). PENALTY on DAL-D.Street, Offensive Holding, 9 yards, enforced at DAL 19.",13,2,13,MIA 33,0,MIA,PUNT
+6,1020,1,14:55,(14:55) E.Mitchell reported in as eligible.  L.Miller left end to MIA 36 for 16 yards (J.Heath).,10,2,16,MIA 20,0,MIA,
+6,1078,1,13:54,(13:54) (Shotgun) R.Tannehill left tackle to MIA 33 for 7 yards (J.Heath).,20,2,13,MIA 26,0,MIA,
+6,1121,3,13:05,(13:05) (Shotgun) R.Tannehill pass incomplete deep left to R.Matthews [T.Patmon].,13,2,13,MIA 33,0,MIA,
+6,1099,2,13:12,(13:12) (Shotgun) R.Tannehill pass incomplete short left to L.Miller.,13,2,13,MIA 33,0,MIA,
+6,1005,0,14:55,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback.",0,2,0,DAL 35,0,DAL,KICKOFF
+9,1602,2,03:16,"(3:16) D.McFadden left end to MIA 23 for 9 yards (M.Hull). PENALTY on DAL-T.Smith, Offensive Holding, 11 yards, enforced at MIA 32 - No Play.",11,2,50,MIA 32,0,DAL,PENALTY
+9,1634,2,02:35,"(2:35) (Shotgun) PENALTY on DAL-D.Free, False Start, 5 yards, enforced at MIA 43 - No Play.",22,2,45,MIA 43,0,DAL,PENALTY
+9,1718,0,01:08,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,2,93,MIA 15,1,DAL,XP
+9,1557,2,04:15,(4:15) (Shotgun) T.Romo pass deep left to D.Street to MIA 31 for 19 yards (J.Taylor).,13,2,62,50,0,DAL,
+9,1428,1,08:26,(8:26) R.Turbin left tackle to DAL 21 for 7 yards (K.Sheppard; R.Jones).,10,2,14,DAL 14,0,DAL,
+9,1581,1,03:37,(3:37) D.McFadden left end to MIA 32 for -1 yards (R.Jones).,10,2,61,MIA 31,0,DAL,
+9,1355,1,09:38,(9:38) (Shotgun) T.Romo pass incomplete short left to D.Bryant (J.Phillips).,10,2,0,DAL 7,0,DAL,
+9,1470,3,07:02,(7:02) C.Brown reported in as eligible.  D.McFadden left tackle to DAL 26 for 3 yards (J.Phillips).,1,2,19,DAL 23,0,DAL,
+9,1493,1,06:27,(6:27) (Shotgun) T.Romo pass short left to D.Bryant to DAL 36 for 10 yards (B.Grimes).,10,2,29,DAL 26,0,DAL,
+9,1698,3,01:23,"(1:23) (No Huddle, Shotgun) T.Romo pass deep right to T.Williams for 31 yards, TOUCHDOWN. PENALTY on DAL-D.Bryant, Unsportsmanlike Conduct, 15 yards, enforced between downs. Penalty on DAL-T.Williams, Unsportsmanlike Conduct, declined.",10,2,93,MIA 31,1,DAL,TD
+9,1377,2,09:34,(9:34) R.Turbin right guard to DAL 9 for 2 yards (D.Shelby).,10,2,2,DAL 7,0,DAL,
+9,1398,3,08:51,"(8:51) (Shotgun) T.Romo sacked at DAL 4 for -5 yards (O.Vernon). PENALTY on MIA-J.Taylor, Defensive Holding, 5 yards, enforced at DAL 9 - No Play.",8,2,7,DAL 9,0,DAL,PENALTY
+9,1674,2,02:00,(2:00) (Shotgun) T.Romo pass short middle to T.Williams to MIA 31 for 17 yards (J.Taylor).,27,2,62,MIA 48,0,DAL,
+9,1517,1,05:45,(5:45) R.Turbin left tackle to MIA 47 for 17 yards (B.Grimes).,10,2,46,DAL 36,0,DAL,
+9,1657,0,02:00,Two-Minute Warning,0,2,45,,0,,
+9,1449,2,07:49,(7:49) R.Turbin up the middle to DAL 23 for 2 yards (K.Sheppard; N.Hewitt).,3,2,16,DAL 21,0,DAL,
+9,1538,1,05:02,(5:02) T.Romo sacked at 50 for -3 yards (O.Vernon).,10,2,43,MIA 47,0,DAL,
+8,1268,1,11:18,(11:18) (Shotgun) R.Tannehill pass incomplete short right to J.Landry.,10,2,0,MIA 42,0,MIA,
+8,1291,2,11:15,(11:15) (Shotgun) L.Miller right end to MIA 41 for -1 yards (R.McClain).,10,2,-1,MIA 42,0,MIA,
+8,1336,4,09:53,"(9:53) M.Darr punts 43 yards to DAL 7, Center-J.Denney, downed by MIA-Bo.McCain.",2,2,8,50,0,MIA,PUNT
+8,1312,3,10:34,(10:34) (Shotgun) R.Tannehill pass short right to J.Cameron to 50 for 9 yards (B.Church).,11,2,8,MIA 41,0,MIA,
+11,1886,0,00:16,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback.",0,2,0,MIA 35,0,MIA,KICKOFF
+11,1904,1,00:13,(:13) T.Romo kneels to DAL 19 for -1 yards.,10,2,-1,DAL 20,0,DAL,
+11,1925,0,,END QUARTER 2,0,2,-1,,0,,
+10,1849,2,00:23,"(:23) (Shotgun) R.Tannehill pass short right to J.Cameron for 12 yards, TOUCHDOWN.",10,2,54,DAL 12,1,MIA,TD
+10,1803,1,00:55,(:55) (Shotgun) R.Tannehill pass deep right to J.Landry to DAL 12 for 47 yards (B.Jones).,15,2,42,MIA 41,0,MIA,
+10,1827,1,00:28,"(:28) (No Huddle, Shotgun) R.Tannehill pass incomplete short right to J.Cameron.",10,2,42,DAL 12,0,MIA,
+10,1768,1,01:02,"(1:02) (Shotgun) R.Tannehill pass short middle to J.Landry to MIA 48 for 2 yards (S.Lee; T.Patmon). PENALTY on MIA-J.Fox, Illegal Formation, 5 yards, enforced at MIA 46 - No Play.",10,2,-5,MIA 46,0,MIA,PENALTY
+10,1870,0,00:16,"A.Franks extra point is GOOD, Center-J.Denney, Holder-M.Darr.",0,2,54,DAL 15,1,MIA,XP
+10,1746,0,01:08,D.Bailey kicks 40 yards from DAL 20 to MIA 40. Z.Vigil to MIA 46 for 6 yards (R.Gregory).,0,2,0,DAL 20,0,DAL,KICKOFF
+13,2276,4,08:46,"(8:46) M.Darr punts 35 yards to DAL 10, Center-J.Denney, fair catch by C.Beasley.",13,3,12,DAL 45,0,MIA,PUNT
+13,2228,2,10:05,(10:05) (Shotgun) R.Tannehill pass short right to J.Ajayi pushed ob at MIA 46 for 3 yards (T.Patmon).,25,3,3,MIA 43,0,MIA,
+13,2146,1,11:35,"(11:35) (Shotgun) PENALTY on MIA-J.Cameron, False Start, 5 yards, enforced at MIA 43 - No Play.",25,3,-5,MIA 43,0,MIA,PENALTY
+13,2193,2,10:35,"(10:35) (Shotgun) R.Tannehill pass short middle to D.Sims to MIA 45 for 7 yards (R.McClain). PENALTY on DAL-G.Hardy, Defensive Offside, 5 yards, enforced at MIA 38 - No Play.",30,3,0,MIA 38,0,MIA,PENALTY
+13,2169,1,11:08,(11:08) (Shotgun) R.Tannehill pass short right to L.Miller to MIA 38 for no gain (B.Jones).,30,3,-5,MIA 38,0,MIA,
+13,2090,1,12:15,(12:15) (Shotgun) R.Tannehill pass short left to R.Matthews to DAL 42 for 15 yards (B.Church).,10,3,15,MIA 43,0,MIA,
+13,2114,1,11:55,"(11:55) (No Huddle, Shotgun) L.Miller left end to DAL 37 for 5 yards (J.Wilcox). PENALTY on MIA-M.Pouncey, Chop Block, 15 yards, enforced at DAL 42 - No Play.",10,3,0,DAL 42,0,MIA,PENALTY
+13,2252,3,09:26,(9:26) (Shotgun) R.Tannehill pass short middle to J.Landry to DAL 45 for 9 yards (S.Lee).,22,3,12,MIA 46,0,MIA,
+12,2043,2,12:22,"(12:22) (Shotgun) T.Romo pass short middle intended for R.Turbin INTERCEPTED by N.Hewitt at MIA 43. N.Hewitt to MIA 43 for no gain (R.Turbin). Penalty on DAL-T.Smith, Offensive Holding, declined.",14,3,35,MIA 45,0,DAL,INT
+12,1977,2,14:22,(14:22) D.McFadden right tackle to DAL 43 for 20 yards (K.Sheppard).,7,3,23,DAL 23,0,DAL,
+12,1998,1,13:44,(13:44) T.Romo pass short right to T.Williams to MIA 41 for 16 yards (R.Jones).,10,3,39,DAL 43,0,DAL,
+12,1941,0,15:00,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback.",0,3,0,MIA 35,0,MIA,KICKOFF
+12,1956,1,15:00,(15:00) D.McFadden left guard to DAL 23 for 3 yards (N.Hewitt).,10,3,3,DAL 20,0,DAL,
+12,2022,1,13:08,(13:08) D.McFadden left guard to MIA 45 for -4 yards (N.Suh).,10,3,35,MIA 41,0,DAL,
+15,2428,1,07:13,(7:13) (Shotgun) J.Ajayi right guard to MIA 47 for 5 yards (D.Irving).,10,3,58,MIA 42,0,MIA,
+15,2473,1,06:10,(6:10) (Shotgun) J.Ajayi right tackle to DAL 29 for 4 yards (B.Jones).,10,3,58,DAL 33,0,MIA,
+15,2556,0,05:20,"A.Franks extra point is GOOD, Center-J.Denney, Holder-M.Darr.",0,3,58,DAL 15,1,MIA,XP
+15,2449,2,06:32,"(6:32) (No Huddle, Shotgun) R.Tannehill pass deep right to J.Ajayi to DAL 33 for 20 yards (R.Gregory).",5,3,58,MIA 47,0,MIA,
+15,2494,2,05:35,"(5:35) (Shotgun) R.Tannehill Aborted. M.Pouncey FUMBLES at DAL 29, recovered by MIA-R.Tannehill at DAL 42. R.Tannehill pass incomplete short right.",6,3,58,DAL 29,0,MIA,FUMBLE
+15,2535,3,05:26,"(5:26) (Shotgun) R.Tannehill pass deep right to K.Stills for 29 yards, TOUCHDOWN.",6,3,58,DAL 29,1,MIA,TD
+14,2316,2,08:05,(8:05) (Shotgun) T.Romo pass incomplete short middle to J.Witten.,10,3,0,DAL 10,0,DAL,
+14,2338,3,07:59,(7:59) (Shotgun) T.Romo pass short middle to D.McFadden to DAL 18 for 8 yards (K.Sheppard) [C.Mosley].,10,3,8,DAL 10,0,DAL,
+14,2362,4,07:30,"(7:30) C.Jones punts 50 yards to MIA 32, Center-L.Ladouceur, downed by DAL-J.Wilcox. PENALTY on DAL-A.Hitchens, Offensive Holding, 10 yards, enforced at MIA 32.",2,3,8,DAL 18,0,DAL,PUNT
+14,2295,1,08:40,(8:40) D.McFadden right end to DAL 10 for no gain (Z.Vigil).,10,3,0,DAL 10,0,DAL,
+17,2880,2,14:16,(14:16) (Shotgun) L.Miller up the middle to MIA 10 for 2 yards (J.Crawford).,6,4,6,MIA 8,0,MIA,
+17,2855,1,14:54,(14:54) L.Miller right guard to MIA 8 for 4 yards (S.Lee). DAL - 2nd Sideline Warning,10,4,4,MIA 4,0,MIA,
+17,2901,3,13:34,"(13:34) (Shotgun) R.Tannehill right end to MIA 15 for 5 yards (B.Church). PENALTY on MIA-J.Fox, Offensive Holding, 5 yards, enforced at MIA 10 - No Play.",4,4,1,MIA 10,0,MIA,PENALTY
+17,2933,3,13:15,(13:15) (Shotgun) R.Tannehill pass incomplete short middle to J.Landry [G.Hardy].,9,4,1,MIA 5,0,MIA,
+17,2955,4,13:08,"(13:08) M.Darr punts 49 yards to DAL 46, Center-J.Denney. L.Whitehead to MIA 36 for 18 yards (M.Darr). PENALTY on MIA-M.Darr, Unnecessary Roughness, 15 yards, enforced at MIA 36.",9,4,1,MIA 5,0,MIA,PUNT
+17,2833,0,14:55,D.Bailey kicks 61 yards from DAL 35 to MIA 4. J.Landry (didn't try to advance) to MIA 4 for no gain (J.Hanna).,0,4,0,DAL 35,0,DAL,KICKOFF
+16,2817,0,14:55,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,4,80,MIA 15,1,DAL,XP
+16,2658,2,03:15,(3:15) (Shotgun) R.Turbin up the middle to DAL 41 for 8 yards (R.Jones).,7,3,21,DAL 33,0,DAL,
+16,2613,2,04:45,(4:45) D.McFadden left end to DAL 30 for 2 yards (K.Sheppard).,2,3,10,DAL 28,0,DAL,
+16,2634,1,03:59,(3:59) (Shotgun) T.Romo pass short left to D.McFadden to DAL 33 for 3 yards (J.Taylor; N.Hewitt).,10,3,13,DAL 30,0,DAL,
+16,2707,1,01:44,(1:44) D.McFadden right end to MIA 9 for 35 yards (R.Jones).,10,3,71,MIA 44,0,DAL,
+16,2760,1,00:41,(:41) (Shotgun) T.Romo scrambles up the middle to MIA 16 for 3 yards (O.Vernon; N.Suh).,19,3,64,MIA 19,0,DAL,
+16,2572,0,05:20,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback.",0,3,0,MIA 35,0,MIA,KICKOFF
+16,2589,1,05:20,(5:20) T.Romo pass short right to D.Bryant to DAL 28 for 8 yards (B.Grimes).,10,3,8,DAL 20,0,DAL,
+16,2728,1,01:14,"(1:14) (Shotgun) R.Turbin up the middle to MIA 2 for 7 yards (W.Aikens; N.Hewitt). PENALTY on DAL-Z.Martin, Offensive Holding, 10 yards, enforced at MIA 9 - No Play.",9,3,61,MIA 9,0,DAL,PENALTY
+16,2679,1,02:49,(2:49) T.Romo pass short right to T.Williams pushed ob at MIA 44 for 15 yards (J.Taylor) [O.Vernon]. DAL - Sideline Warning,10,3,36,DAL 41,0,DAL,
+16,2781,0,,END QUARTER 3,0,3,64,,0,,
+16,2797,2,15:00,"(15:00) (Shotgun) T.Romo pass deep middle to D.Bryant for 16 yards, TOUCHDOWN.",16,4,80,MIA 16,1,DAL,TD
+19,3230,2,07:56,(7:56) (Shotgun) R.Tannehill sacked at MIA 36 for -11 yards (J.Crawford).,6,4,16,MIA 47,0,MIA,
+19,3249,3,07:15,(7:15) (Shotgun) R.Tannehill pass short middle to L.Miller to MIA 47 for 11 yards (S.Lee).,17,4,27,MIA 36,0,MIA,
+19,3209,1,08:35,(8:35) (Shotgun) R.Tannehill up the middle to MIA 47 for 4 yards (J.Mincey).,10,4,27,MIA 43,0,MIA,
+19,3185,1,09:09,(9:09) R.Tannehill pass deep middle to K.Stills to MIA 43 for 23 yards (B.Carr; S.Lee).,10,4,23,MIA 20,0,MIA,
+19,3273,4,06:37,"(6:37) M.Darr punts 40 yards to DAL 13, Center-J.Denney, fair catch by C.Beasley.",6,4,27,MIA 47,0,MIA,PUNT
+19,3170,0,09:09,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback.",0,4,0,DAL 35,0,DAL,KICKOFF
+18,3013,2,12:16,(12:16) (Shotgun) T.Romo pass short middle to R.Turbin to MIA 21 for 3 yards (K.Sheppard).,13,4,0,MIA 24,0,DAL,
+18,2992,1,12:55,(12:55) R.Turbin left end pushed ob at MIA 24 for -3 yards (K.Sheppard).,10,4,-3,MIA 21,0,DAL,
+18,3037,3,11:34,(11:34) (Shotgun) T.Romo pass short right to J.Witten to MIA 9 for 12 yards (W.Aikens).,10,4,12,MIA 21,0,DAL,
+18,3151,4,09:23,"(9:23) (Field Goal formation) D.Bailey 30 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",11,4,10,MIA 11,1,DAL,FG
+18,3061,1,11:10,(11:10) R.Turbin right guard to MIA 7 for 2 yards (K.Sheppard).,9,4,14,MIA 9,0,DAL,
+18,3132,3,09:59,(9:59) (Shotgun) T.Romo sacked at MIA 11 for -4 yards (D.Shelby).,7,4,10,MIA 7,0,DAL,
+18,3099,2,10:04,(10:04) (Shotgun) T.Romo pass incomplete short left to C.Beasley.,7,4,14,MIA 7,0,DAL,
+18,3082,0,10:04,Timeout #1 by DAL at 10:04.,0,4,14,,0,,TIMEOUT

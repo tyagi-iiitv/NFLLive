@@ -1,174 +1,174 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,2130,2,00:14,,3,2,9,DET 27,0,DET,
-9,2109,1,00:41,,10,2,7,DET 20,0,DET,
-9,2090,0,00:41,,0,2,0,CIN 35,0,CIN,KICKOFF
-18,3844,1,04:21,,10,4,31,CIN 39,0,CIN,
-18,3797,1,05:23,,10,4,6,CIN 22,0,CIN,PENALTY
-18,3974,3,02:00,,6,4,38,DET 43,0,CIN,
-18,4010,4,01:52,,14,4,38,CIN 49,0,CIN,PUNT
-18,3776,1,06:04,,10,4,11,CIN 11,0,CIN,
-18,3889,1,03:10,,10,4,38,DET 47,0,CIN,
-18,3865,2,03:45,,7,4,42,CIN 42,0,CIN,
-18,3993,0,01:52,,0,4,38,,0,,TIMEOUT
-18,3820,1,04:58,,15,4,28,CIN 17,0,CIN,
-18,3910,2,02:33,,14,4,51,CIN 49,0,CIN,
-18,3951,3,02:00,,1,4,46,DET 38,0,CIN,PENALTY
-6,1464,1,08:28,,10,2,45,DET 27,0,CIN,PENALTY
-6,1374,1,11:01,,10,2,40,CIN 33,0,CIN,
-6,1440,3,09:03,,9,2,53,DET 39,0,CIN,
-6,1419,2,09:42,,11,2,41,DET 41,0,CIN,
-6,1398,1,10:20,,10,2,39,DET 40,0,CIN,
-6,1520,3,07:29,,12,2,51,DET 29,0,CIN,
-6,1496,2,07:55,,18,2,51,DET 35,0,CIN,
-6,1546,4,07:22,,12,2,51,DET 29,0,CIN,FGM
-6,1350,1,11:43,,10,2,51,CIN 20,0,CIN,
-6,1327,0,11:43,,0,2,0,DET 35,0,DET,KICKOFF
-14,3030,1,02:02,,10,3,1,CIN 19,0,CIN,
-14,3075,3,00:43,,7,3,9,CIN 22,0,CIN,
-14,3137,4,15:00,,1,4,9,CIN 28,0,CIN,PUNT
-14,3051,2,01:25,,9,3,3,CIN 20,0,CIN,
-7,1654,2,05:06,,7,2,17,CIN 46,0,DET,
-7,1703,1,04:29,,10,2,44,CIN 28,0,DET,
-7,1609,3,06:26,,3,2,14,DET 44,0,DET,
-7,1727,2,03:48,,1,2,45,CIN 19,0,DET,
-7,1748,1,03:07,,10,2,47,CIN 18,0,DET,
-7,1824,4,02:30,,8,2,47,CIN 16,0,DET,FGB
-7,1566,1,07:17,,10,2,0,DET 37,0,DET,
-7,1588,2,07:09,,10,2,7,DET 37,0,DET,
-7,1769,2,02:45,,8,2,47,CIN 16,0,DET,
-7,1676,3,04:59,,7,2,35,CIN 46,0,DET,
-7,1633,1,05:46,,10,2,17,CIN 49,0,DET,
-7,1791,3,02:36,,8,2,47,CIN 16,0,DET,
-8,1937,1,01:55,,10,2,21,DET 22,0,CIN,
-8,1980,3,01:21,,7,2,28,DET 19,0,CIN,
-8,1908,2,02:00,,5,2,18,DET 35,0,CIN,
-8,2074,0,00:41,,0,2,40,DET 2,1,CIN,XP
-8,1870,1,02:17,,10,2,5,DET 40,0,CIN,
-8,1958,2,01:25,,7,2,21,DET 19,0,CIN,
-8,2004,1,00:52,,10,2,28,DET 12,0,CIN,
-8,2054,2,00:46,,10,2,40,DET 12,1,CIN,TD
-10,2185,1,15:00,,10,3,0,CIN 20,0,CIN,
-10,2230,1,13:56,,10,3,9,CIN 31,0,CIN,
-10,2297,1,12:37,,10,3,26,CIN 47,0,CIN,
-10,2386,0,10:42,,0,3,80,DET 2,1,CIN,XP
-10,2206,2,14:22,,10,3,11,CIN 20,0,CIN,
-10,2273,3,13:15,,12,3,80,CIN 29,0,CIN,
-10,2366,2,10:49,,4,3,80,DET 32,1,CIN,TD
-10,2345,1,11:28,,10,3,48,DET 38,0,CIN,
-10,2251,2,13:21,,12,3,9,CIN 29,0,CIN,
-10,2321,2,11:51,,11,3,42,CIN 46,0,CIN,
-10,2167,0,15:00,,0,3,0,DET 35,0,DET,KICKOFF
-19,4095,1,01:12,,10,4,17,DET 17,0,DET,
-19,4171,4,00:34,,4,4,17,DET 23,0,DET,PUNT
-19,4119,2,00:47,,4,4,17,DET 23,0,DET,
-19,4033,1,01:43,,10,4,4,DET 6,0,DET,
-19,4054,0,01:34,,0,4,4,,0,,TIMEOUT
-19,4145,3,00:40,,4,4,17,DET 23,0,DET,
-19,4071,2,01:34,,6,4,11,DET 10,0,DET,
-12,2856,2,04:28,,10,3,45,DET 35,0,CIN,
-12,2906,4,03:42,,5,3,50,DET 30,1,CIN,FG
-12,2882,3,04:23,,10,3,50,DET 35,0,CIN,
-12,2789,1,05:56,,10,3,15,CIN 34,0,CIN,
-12,2685,1,08:17,,10,3,4,CIN 20,0,CIN,
-12,2741,2,07:20,,16,3,3,CIN 14,0,CIN,
-12,2662,0,08:17,,0,3,0,DET 35,0,DET,KICKOFF
-12,2834,1,04:33,,10,3,45,DET 35,0,CIN,
-12,2706,2,07:39,,6,3,-6,CIN 24,0,CIN,PENALTY
-12,2810,2,05:18,,9,3,45,CIN 35,0,CIN,
-12,2765,3,06:39,,7,3,14,CIN 23,0,CIN,
-16,3425,3,10:31,,7,4,3,CIN 28,0,CIN,
-16,3368,2,11:16,,3,4,-3,CIN 32,0,CIN,PENALTY
-16,3347,1,11:52,,10,4,7,CIN 25,0,CIN,
-16,3325,0,11:59,,0,4,0,DET 35,0,DET,KICKOFF
-16,3401,2,11:09,,13,4,3,CIN 22,0,CIN,
-16,3447,4,10:24,,7,4,3,CIN 28,0,CIN,PUNT
-11,2626,3,08:23,,10,3,80,CIN 27,1,DET,TD
-11,2499,3,10:07,,20,3,33,DET 10,0,DET,
-11,2402,0,10:42,,0,3,0,CIN 35,0,CIN,KICKOFF
-11,2646,0,08:17,,0,3,80,CIN 2,1,DET,XP
-11,2442,2,10:37,,10,3,-10,DET 20,0,DET,PENALTY
-11,2420,1,10:42,,10,3,0,DET 20,0,DET,
-11,2582,1,08:32,,10,3,53,CIN 27,0,DET,
-11,2523,1,09:37,,10,3,34,CIN 47,0,DET,
-11,2544,2,08:55,,9,3,53,CIN 46,0,DET,
-11,2604,2,08:28,,10,3,53,CIN 27,0,DET,
-11,2477,2,10:13,,20,3,-10,DET 10,0,DET,
-3,738,3,03:06,,3,1,80,CIN 3,1,DET,TD
-3,582,2,04:59,,8,1,65,CIN 30,0,DET,
-3,627,2,03:48,,6,1,69,CIN 11,0,DET,
-3,690,1,03:15,,3,1,80,CIN 3,0,DET,
-3,712,2,03:08,,3,1,77,CIN 3,0,DET,
-3,649,3,03:42,,6,1,77,CIN 11,0,DET,
-3,492,1,08:01,,10,1,31,DET 46,0,DET,
-3,561,1,05:43,,10,1,50,CIN 32,0,DET,
-3,425,1,09:38,,10,1,14,DET 34,0,DET,
-3,606,1,04:28,,10,1,69,CIN 15,0,DET,
-3,447,2,09:32,,10,1,15,DET 34,0,DET,
-3,673,0,03:15,,0,1,77,,0,,TIMEOUT
-3,764,0,03:02,,0,1,80,CIN 2,1,DET,XP
-3,401,2,10:21,,12,1,14,DET 18,0,DET,
-3,540,3,06:29,,1,1,48,CIN 45,0,DET,
-3,380,1,10:59,,10,1,-2,DET 20,0,DET,
-3,516,2,07:18,,5,1,35,CIN 49,0,DET,
-3,468,3,08:45,,9,1,26,DET 35,0,DET,
-3,361,0,10:59,,0,1,0,CIN 35,0,CIN,KICKOFF
-17,3669,3,06:19,,11,4,26,CIN 46,0,DET,
-17,3517,2,08:56,,8,4,26,DET 41,0,DET,
-17,3626,1,07:08,,10,4,26,CIN 45,0,DET,
-17,3545,0,08:15,,0,4,19,,0,,TIMEOUT
-17,3704,4,06:10,,11,4,26,CIN 46,0,DET,PUNT
-17,3472,1,10:14,,10,4,11,DET 28,0,DET,
-17,3496,1,09:38,,10,4,13,DET 39,0,DET,
-17,3647,2,06:25,,11,4,26,CIN 46,0,DET,
-17,3602,3,07:45,,2,4,27,DET 47,0,DET,
-4,780,0,03:02,,0,1,0,DET 35,0,DET,KICKOFF
-4,899,4,02:15,,5,1,5,CIN 25,0,CIN,PUNT
-4,798,1,03:02,,10,1,0,CIN 20,0,CIN,
-4,877,3,02:22,,5,1,5,CIN 25,0,CIN,
-4,841,3,02:28,,10,1,5,CIN 20,0,CIN,PENALTY
-4,819,2,02:33,,10,1,0,CIN 20,0,CIN,
-2,302,1,11:12,,10,1,8,CIN 23,0,CIN,PENALTY
-2,345,0,10:59,,0,1,90,DET 2,1,CIN,XP
-2,248,2,11:16,,2,1,8,CIN 18,0,CIN,
-2,270,3,11:12,,2,1,13,CIN 18,0,CIN,PENALTY
-2,325,1,11:12,,15,1,90,CIN 18,1,CIN,TD
-2,227,1,11:54,,10,1,8,CIN 10,0,CIN,
-1,54,1,15:00,,10,1,3,DET 20,0,DET,
-1,198,4,12:04,,8,1,13,DET 33,0,DET,PUNT
-1,141,2,12:21,,6,1,15,DET 35,0,DET,
-1,99,3,13:45,,1,1,11,DET 29,0,DET,
-1,75,2,14:27,,7,1,9,DET 23,0,DET,
-1,120,1,13:05,,10,1,15,DET 31,0,DET,
-1,163,3,12:17,,6,1,13,DET 35,0,DET,
-1,36,0,15:00,,0,1,0,CIN 35,0,CIN,KICKOFF
-5,1166,1,14:19,,10,2,42,CIN 32,0,DET,
-5,1286,3,11:53,,8,2,56,CIN 18,0,DET,
-5,1188,2,14:12,,10,2,48,CIN 32,0,DET,
-5,1209,3,13:29,,4,2,54,CIN 26,0,DET,
-5,1052,1,01:25,,10,1,54,DET 40,0,DET,
-5,1035,0,01:25,,0,1,14,,0,,TIMEOUT
-5,1265,2,12:38,,10,2,56,CIN 20,0,DET,
-5,931,1,02:10,,10,1,48,DET 26,0,DET,
-5,1105,1,00:06,,10,1,27,CIN 49,0,DET,
-5,1308,4,11:47,,8,2,56,CIN 18,1,DET,FG
-5,1142,2,15:00,,8,2,42,CIN 47,0,DET,
-5,1242,1,12:42,,10,2,56,CIN 20,0,DET,
-5,965,2,02:07,,10,1,14,DET 26,0,DET,
-5,1077,2,00:48,,8,1,25,DET 42,0,DET,
-13,2968,2,02:57,,3,3,8,DET 35,0,DET,
-13,3011,4,02:12,,2,3,8,DET 36,0,DET,PUNT
-13,2947,1,03:30,,10,3,7,DET 28,0,DET,
-13,2925,0,03:37,,0,3,0,CIN 35,0,CIN,KICKOFF
-13,2989,3,02:17,,2,3,8,DET 36,0,DET,
-15,3289,3,12:10,,18,4,78,50,1,DET,TD
-15,3184,2,14:17,,1,4,9,DET 31,0,DET,
-15,3232,1,12:53,,10,4,38,CIN 42,0,DET,
-15,3208,3,13:33,,1,4,36,DET 31,0,DET,
-15,3160,1,14:52,,10,4,9,DET 22,0,DET,
-15,3309,0,11:59,,0,4,78,CIN 2,1,DET,XP
-15,3253,2,12:14,,8,4,78,CIN 40,0,DET,PENALTY
-20,4245,0,00:04,,0,4,15,,0,,TIMEOUT
-20,4217,2,00:07,,3,4,15,DET 44,0,CIN,
-20,4268,1,00:04,,10,4,15,DET 36,1,CIN,FG
-20,4279,0,00:04,,0,4,15,,0,,TIMEOUT
-20,4193,1,00:26,,10,4,7,CIN 49,0,CIN,
+11,2442,2,10:37,"(10:37) (Shotgun) M.Stafford pass short right to K.Durham to DET 29 for 9 yards (G.Iloka). PENALTY on DET-R.Bush, Chop Block, 10 yards, enforced at DET 20 - No Play.",10,3,-10,DET 20,0,DET,PENALTY
+11,2477,2,10:13,(10:13) (Shotgun) M.Stafford pass incomplete short middle to B.Pettigrew (T.Mays).,20,3,-10,DET 10,0,DET,
+11,2626,3,08:23,"(8:23) (Shotgun) M.Stafford pass deep left to C.Johnson for 27 yards, TOUCHDOWN.",10,3,80,CIN 27,1,DET,TD
+11,2582,1,08:32,(8:32) (Shotgun) M.Stafford pass incomplete short middle to B.Pettigrew.,10,3,53,CIN 27,0,DET,
+11,2523,1,09:37,(9:37) (Shotgun) R.Bush right tackle to CIN 46 for 1 yard (V.Burfict; C.Dunlap).,10,3,34,CIN 47,0,DET,
+11,2544,2,08:55,"(8:55) (Shotgun) M.Stafford pass short middle to C.Johnson to CIN 27 for 19 yards (G.Iloka) [V.Burfict]. CIN-M.Johnson was injured during the play.  Penalty on CIN-R.Maualuga, Illegal Contact, declined.",9,3,53,CIN 46,0,DET,
+11,2420,1,10:42,(10:42) (Shotgun) M.Stafford pass incomplete short left to C.Johnson.,10,3,0,DET 20,0,DET,
+11,2646,0,08:17,"D.Akers extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin.",0,3,80,CIN 2,1,DET,XP
+11,2402,0,10:42,"M.Nugent kicks 74 yards from CIN 35 to DET -9. M.Spurlock, Touchback.",0,3,0,CIN 35,0,CIN,KICKOFF
+11,2499,3,10:07,(10:07) (Shotgun) M.Stafford pass deep right to K.Ogletree pushed ob at CIN 47 for 43 yards (R.Nelson).,20,3,33,DET 10,0,DET,
+11,2604,2,08:28,(8:28) (Shotgun) M.Stafford pass incomplete short middle to R.Bush (V.Burfict) [D.Peko].,10,3,53,CIN 27,0,DET,
+10,2345,1,11:28,(11:28) (No Huddle) B.Green-Ellis up the middle to DET 32 for 6 yards (G.Quin).,10,3,48,DET 38,0,CIN,
+10,2321,2,11:51,(11:51) (Shotgun) A.Dalton pass short left to M.Jones to DET 38 for 16 yards (D.Bentley; S.Tulloch).,11,3,42,CIN 46,0,CIN,
+10,2273,3,13:15,(13:15) (Shotgun) A.Dalton pass deep middle to M.Jones to CIN 47 for 18 yards (D.Levy).,12,3,80,CIN 29,0,CIN,
+10,2206,2,14:22,(14:22) (Shotgun) A.Dalton pass short right to A.Green pushed ob at CIN 31 for 11 yards (D.Slay).,10,3,11,CIN 20,0,CIN,
+10,2230,1,13:56,(13:56) B.Green-Ellis right end to CIN 29 for -2 yards (S.Tulloch).,10,3,9,CIN 31,0,CIN,
+10,2297,1,12:37,"(12:37) A.Dalton pass short right to J.Gresham to CIN 46 for -1 yards (A.Palmer, S.Tulloch).",10,3,26,CIN 47,0,CIN,
+10,2185,1,15:00,(15:00) B.Green-Ellis left tackle to CIN 20 for no gain (D.Levy).,10,3,0,CIN 20,0,CIN,
+10,2386,0,10:42,"M.Nugent extra point is GOOD, Center-C.Harris, Holder-K.Huber.",0,3,80,DET 2,1,CIN,XP
+10,2366,2,10:49,"(10:49) A.Dalton pass deep left to T.Eifert for 32 yards, TOUCHDOWN.",4,3,80,DET 32,1,CIN,TD
+10,2167,0,15:00,"S.Martin kicks 72 yards from DET 35 to CIN -7. B.Tate, Touchback.",0,3,0,DET 35,0,DET,KICKOFF
+10,2251,2,13:21,(13:21) A.Dalton pass incomplete short left to J.Gresham (N.Fairley).,12,3,9,CIN 29,0,CIN,
+13,2947,1,03:30,(3:30) R.Bush right tackle to DET 35 for 7 yards (R.Maualuga).,10,3,7,DET 28,0,DET,
+13,2989,3,02:17,(2:17) (Shotgun) M.Stafford pass incomplete short middle to R.Bush (V.Burfict).,2,3,8,DET 36,0,DET,
+13,3011,4,02:12,"(2:12) S.Martin punts 45 yards to CIN 19, Center-D.Muhlbach, downed by DET-M.Spurlock.",2,3,8,DET 36,0,DET,PUNT
+13,2925,0,03:37,M.Nugent kicks 72 yards from CIN 35 to DET -7. M.Spurlock ran ob at DET 28 for 35 yards (R.Nelson).,0,3,0,CIN 35,0,CIN,KICKOFF
+13,2968,2,02:57,(2:57) (Shotgun) R.Bush up the middle to DET 36 for 1 yard (B.Thompson).,3,3,8,DET 35,0,DET,
+12,2882,3,04:23,(4:23) (Shotgun) A.Dalton pass short left to G.Bernard to DET 30 for 5 yards (L.Delmas).,10,3,50,DET 35,0,CIN,
+12,2810,2,05:18,(5:18) (Shotgun) A.Dalton pass deep middle to J.Gresham to DET 35 for 30 yards (S.Tulloch).,9,3,45,CIN 35,0,CIN,
+12,2706,2,07:39,"(7:39) (Shotgun) A.Dalton pass short left to A.Green pushed ob at CIN 37 for 13 yards (S.Tulloch). PENALTY on CIN-A.Green, Offensive Pass Interference, 10 yards, enforced at CIN 24 - No Play.",6,3,-6,CIN 24,0,CIN,PENALTY
+12,2789,1,05:56,(5:56) G.Bernard right tackle to CIN 35 for 1 yard (N.Suh).,10,3,15,CIN 34,0,CIN,
+12,2765,3,06:39,(6:39) (Shotgun) A.Dalton pass short right to M.Jones pushed ob at CIN 34 for 11 yards (D.Slay).,7,3,14,CIN 23,0,CIN,
+12,2856,2,04:28,(4:28) (Shotgun) A.Dalton pass incomplete short right to A.Green.,10,3,45,DET 35,0,CIN,
+12,2741,2,07:20,(7:20) (Shotgun) A.Dalton pass short right to A.Green to CIN 23 for 9 yards (D.Slay).,16,3,3,CIN 14,0,CIN,
+12,2662,0,08:17,"S.Martin kicks 74 yards from DET 35 to CIN -9. B.Tate, Touchback.",0,3,0,DET 35,0,DET,KICKOFF
+12,2685,1,08:17,(8:17) G.Bernard left tackle to CIN 24 for 4 yards (S.Tulloch; W.Young).,10,3,4,CIN 20,0,CIN,
+12,2834,1,04:33,(4:33) A.Dalton pass incomplete short right. Ball thrown away.,10,3,45,DET 35,0,CIN,
+12,2906,4,03:42,"(3:42) M.Nugent 48 yard field goal is GOOD, Center-C.Harris, Holder-K.Huber.",5,3,50,DET 30,1,CIN,FG
+15,3232,1,12:53,(12:53) J.Bell right tackle to CIN 40 for 2 yards (C.Crocker).,10,4,38,CIN 42,0,DET,
+15,3253,2,12:14,"(12:14) (Shotgun) M.Stafford pass incomplete short right to C.Johnson. DET-C.Hilliard was injured during the play. His return is Questionable.  PENALTY on DET-M.Stafford, Intentional Grounding, 10 yards, enforced at CIN 40.",8,4,78,CIN 40,0,DET,PENALTY
+15,3208,3,13:33,(13:33) (Shotgun) M.Stafford pass deep right to R.Bush to CIN 42 for 27 yards (T.Newman).,1,4,36,DET 31,0,DET,
+15,3184,2,14:17,(14:17) M.Stafford pass short right to C.Johnson to DET 31 for no gain (T.Newman).,1,4,9,DET 31,0,DET,
+15,3289,3,12:10,"(12:10) (Shotgun) M.Stafford pass deep middle to C.Johnson for 50 yards, TOUCHDOWN [M.Johnson].",18,4,78,50,1,DET,TD
+15,3309,0,11:59,"D.Akers extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin.",0,4,78,CIN 2,1,DET,XP
+15,3160,1,14:52,(14:52) M.Stafford pass short middle to R.Broyles to DET 31 for 9 yards (R.Maualuga).,10,4,9,DET 22,0,DET,
+14,3137,4,15:00,"(15:00) K.Huber punts 50 yards to DET 22, Center-C.Harris, fair catch by M.Spurlock.",1,4,9,CIN 28,0,CIN,PUNT
+14,3030,1,02:02,(2:02) B.Green-Ellis left tackle to CIN 20 for 1 yard (S.Tulloch).,10,3,1,CIN 19,0,CIN,
+14,3075,3,00:43,"(:43) (Shotgun) A.Dalton scrambles to CIN 30 for 8 yards (L.Delmas). Detroit challenged the first down ruling, and the play was REVERSED. (Shotgun) A.Dalton scrambles to CIN 28 for 6 yards (L.Delmas).",7,3,9,CIN 22,0,CIN,
+14,3051,2,01:25,(1:25) (Shotgun) A.Dalton pass short left to T.Eifert to CIN 22 for 2 yards (D.Levy).,9,3,3,CIN 20,0,CIN,
+17,3545,0,08:15,Timeout #1 by CIN at 08:15.,0,4,19,,0,,TIMEOUT
+17,3472,1,10:14,(10:14) (Shotgun) M.Stafford pass short left to C.Johnson to DET 39 for 11 yards (G.Iloka) [M.Johnson].,10,4,11,DET 28,0,DET,
+17,3602,3,07:45,(7:45) (Shotgun) M.Stafford pass short right to C.Johnson to CIN 45 for 8 yards (T.Newman).,2,4,27,DET 47,0,DET,
+17,3496,1,09:38,(9:38) (Shotgun) R.Bush up the middle to DET 41 for 2 yards (M.Johnson; D.Peko).,10,4,13,DET 39,0,DET,
+17,3669,3,06:19,"(6:19) (Shotgun) M.Stafford pass deep left to J.Bell to CIN 27 for 19 yards (T.Mays). PENALTY on DET-B.Pettigrew, Offensive Pass Interference, 10 yards, enforced at CIN 46 - No Play. Cincinnati challenged the pass completion ruling, and the play was REVERSED. (Shotgun) M.Stafford pass incomplete deep left to J.Bell (T.Mays). Penalty on DET-B.Pettigrew, Offensive Pass Interference, declined.",11,4,26,CIN 46,0,DET,
+17,3517,2,08:56,(8:56) (Shotgun) M.Stafford pass short left to K.Durham to DET 47 for 6 yards (A.Jones). CIN-R.Maualuga was injured during the play. He is Out.,8,4,26,DET 41,0,DET,
+17,3626,1,07:08,(7:08) (Shotgun) R.Bush left end to CIN 46 for -1 yards (C.Crocker).,10,4,26,CIN 45,0,DET,
+17,3647,2,06:25,(6:25) (Shotgun) M.Stafford pass incomplete deep right to B.Pettigrew (T.Mays).,11,4,26,CIN 46,0,DET,
+17,3704,4,06:10,"(6:10) (Shotgun) S.Martin punts 35 yards to CIN 11, Center-D.Muhlbach, fair catch by B.Tate.",11,4,26,CIN 46,0,DET,PUNT
+16,3368,2,11:16,"(11:16) (Shotgun) A.Dalton pass incomplete deep right to A.Green (C.Houston). PENALTY on CIN-A.Green, Offensive Pass Interference, 10 yards, enforced at CIN 32 - No Play.",3,4,-3,CIN 32,0,CIN,PENALTY
+16,3447,4,10:24,"(10:24) K.Huber punts 45 yards to DET 27, Center-C.Harris. M.Spurlock to DET 28 for 1 yard (V.Rey).",7,4,3,CIN 28,0,CIN,PUNT
+16,3347,1,11:52,(11:52) G.Bernard left tackle to CIN 32 for 7 yards (D.Slay; A.Palmer).,10,4,7,CIN 25,0,CIN,
+16,3425,3,10:31,(10:31) (Shotgun) A.Dalton pass incomplete deep middle to A.Green (G.Quin).,7,4,3,CIN 28,0,CIN,
+16,3401,2,11:09,(11:09) (Shotgun) A.Dalton pass short middle to G.Bernard to CIN 28 for 6 yards (D.Levy).,13,4,3,CIN 22,0,CIN,
+16,3325,0,11:59,S.Martin kicks 61 yards from DET 35 to CIN 4. C.Peerman to CIN 25 for 21 yards (J.Wendling).,0,4,0,DET 35,0,DET,KICKOFF
+19,4054,0,01:34,Timeout #2 by CIN at 01:34.,0,4,4,,0,,TIMEOUT
+19,4171,4,00:34,"(:34) S.Martin punts 28 yards to CIN 49, Center-D.Muhlbach, out of bounds.",4,4,17,DET 23,0,DET,PUNT
+19,4095,1,01:12,"(1:12) (No Huddle, Shotgun) M.Stafford pass short left to J.Bell to DET 23 for 6 yards (T.Mays).",10,4,17,DET 17,0,DET,
+19,4145,3,00:40,(:40) (Shotgun) M.Stafford pass incomplete short right [R.Nelson]. Ball thrown away.,4,4,17,DET 23,0,DET,
+19,4071,2,01:34,(1:34) (Shotgun) M.Stafford pass short middle to R.Broyles to DET 17 for 7 yards (D.Kirkpatrick).,6,4,11,DET 10,0,DET,
+19,4033,1,01:43,(1:43) R.Bush right tackle to DET 10 for 4 yards (V.Burfict).,10,4,4,DET 6,0,DET,
+19,4119,2,00:47,"(:47) (No Huddle, Shotgun) M.Stafford pass incomplete short right. Ball thrown away.",4,4,17,DET 23,0,DET,
+18,4010,4,01:52,"(1:52) K.Huber punts 45 yards to DET 6, Center-C.Harris, downed by CIN-C.Harris.",14,4,38,CIN 49,0,CIN,PUNT
+18,3776,1,06:04,(6:04) B.Green-Ellis up the middle to CIN 22 for 11 yards (D.Slay).,10,4,11,CIN 11,0,CIN,
+18,3820,1,04:58,(4:58) (Shotgun) A.Dalton pass deep left to J.Gresham to CIN 39 for 22 yards (D.Levy).,15,4,28,CIN 17,0,CIN,
+18,3797,1,05:23,"(5:23) PENALTY on CIN-K.Zeitler, False Start, 5 yards, enforced at CIN 22 - No Play.",10,4,6,CIN 22,0,CIN,PENALTY
+18,3910,2,02:33,(2:33) (Shotgun) A.Dalton pass short right to J.Gresham to DET 38 for 13 yards (S.Tulloch).,14,4,51,CIN 49,0,CIN,
+18,3889,1,03:10,"(3:10) B.Green-Ellis up the middle to CIN 49 for -4 yards (A.Fluellen, D.Taylor).",10,4,38,DET 47,0,CIN,
+18,3865,2,03:45,(3:45) (Shotgun) A.Dalton pass short right to T.Eifert to DET 47 for 11 yards (A.Palmer).,7,4,42,CIN 42,0,CIN,
+18,3844,1,04:21,(4:21) B.Green-Ellis up the middle to CIN 42 for 3 yards (D.Levy; A.Palmer).,10,4,31,CIN 39,0,CIN,
+18,3993,0,01:52,Timeout #1 by DET at 01:52.,0,4,38,,0,,TIMEOUT
+18,3951,3,02:00,"(2:00) PENALTY on CIN-J.Gresham, False Start, 5 yards, enforced at DET 38 - No Play.",1,4,46,DET 38,0,CIN,PENALTY
+18,3974,3,02:00,(2:00) (Shotgun) A.Dalton sacked at CIN 49 for -8 yards (N.Suh).,6,4,38,DET 43,0,CIN,
+20,4268,1,00:04,"(:04) M.Nugent 54 yard field goal is GOOD, Center-C.Harris, Holder-K.Huber.",10,4,15,DET 36,1,CIN,FG
+20,4217,2,00:07,"(:07) (No Huddle, Shotgun) A.Dalton pass short middle to G.Bernard to DET 36 for 8 yards (S.Tulloch).",3,4,15,DET 44,0,CIN,
+20,4245,0,00:04,Timeout #2 by DET at 00:04.,0,4,15,,0,,TIMEOUT
+20,4279,0,00:04,Timeout #3 by CIN at 00:04.,0,4,15,,0,,TIMEOUT
+20,4193,1,00:26,(:26) (Shotgun) A.Dalton pass short middle to D.Sanzenbacher to DET 44 for 7 yards (S.Tulloch).,10,4,7,CIN 49,0,CIN,
+1,120,1,13:05,(13:05) R.Bush left end to DET 35 for 4 yards (D.Peko).,10,1,15,DET 31,0,DET,
+1,198,4,12:04,"(12:04) S.Martin punts 65 yards to CIN 2, Center-D.Muhlbach. A.Jones to CIN 10 for 8 yards (J.Wendling).",8,1,13,DET 33,0,DET,PUNT
+1,141,2,12:21,(12:21) (Shotgun) M.Stafford pass incomplete short left to R.Broyles.,6,1,15,DET 35,0,DET,
+1,54,1,15:00,(15:00) J.Bell right tackle to DET 23 for 3 yards (D.Peko).,10,1,3,DET 20,0,DET,
+1,36,0,15:00,"M.Nugent kicks 74 yards from CIN 35 to DET -9. M.Spurlock, Touchback.",0,1,0,CIN 35,0,CIN,KICKOFF
+1,99,3,13:45,(13:45) R.Bush left end to DET 31 for 2 yards (R.Nelson).,1,1,11,DET 29,0,DET,
+1,75,2,14:27,(14:27) (Shotgun) M.Stafford pass short left to B.Pettigrew to DET 29 for 6 yards (V.Burfict; L.Hall).,7,1,9,DET 23,0,DET,
+1,163,3,12:17,"(12:17) (Shotgun) M.Stafford pass short left to B.Pettigrew to DET 33 for -2 yards (V.Burfict). Penalty on DET-K.Durham, Offensive Pass Interference, declined.",6,1,13,DET 35,0,DET,
+3,690,1,03:15,(3:15) (Shotgun) M.Stafford pass incomplete short left to C.Johnson. CIN-L.Hall was injured during the play. He is Out.,3,1,80,CIN 3,0,DET,
+3,606,1,04:28,(4:28) (Shotgun) R.Bush up the middle to CIN 11 for 4 yards (V.Burfict).,10,1,69,CIN 15,0,DET,
+3,582,2,04:59,(4:59) (Shotgun) M.Stafford pass short middle to J.Fauria to CIN 15 for 15 yards (R.Nelson; G.Iloka).,8,1,65,CIN 30,0,DET,
+3,468,3,08:45,(8:45) (Shotgun) M.Stafford pass short left to R.Bush to DET 46 for 11 yards (G.Iloka) [C.Dunlap].,9,1,26,DET 35,0,DET,
+3,561,1,05:43,(5:43) R.Bush right tackle to CIN 30 for 2 yards (V.Burfict).,10,1,50,CIN 32,0,DET,
+3,447,2,09:32,(9:32) R.Bush right tackle to DET 35 for 1 yard (C.Dunlap).,10,1,15,DET 34,0,DET,
+3,712,2,03:08,(3:08) M.Stafford pass incomplete short right to J.Fauria.,3,1,77,CIN 3,0,DET,
+3,764,0,03:02,"D.Akers extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin.",0,1,80,CIN 2,1,DET,XP
+3,673,0,03:15,Timeout #1 by CIN at 03:15.,0,1,77,,0,,TIMEOUT
+3,380,1,10:59,"(10:59) R.Bush right end to DET 18 for -2 yards (V.Burfict, G.Atkins).",10,1,-2,DET 20,0,DET,
+3,540,3,06:29,(6:29) J.Bell up the middle to CIN 32 for 13 yards (G.Iloka).,1,1,48,CIN 45,0,DET,
+3,401,2,10:21,(10:21) (Shotgun) M.Stafford pass short left to C.Johnson to DET 34 for 16 yards (G.Iloka).,12,1,14,DET 18,0,DET,
+3,738,3,03:06,"(3:06) (Shotgun) M.Stafford pass short left to B.Pettigrew for 3 yards, TOUCHDOWN.",3,1,80,CIN 3,1,DET,TD
+3,649,3,03:42,(3:42) (Shotgun) M.Stafford pass short middle to K.Durham to CIN 3 for 8 yards (T.Mays; R.Maualuga).,6,1,77,CIN 11,0,DET,
+3,627,2,03:48,(3:48) (Shotgun) M.Stafford pass incomplete short left to B.Pettigrew (L.Hall).,6,1,69,CIN 11,0,DET,
+3,516,2,07:18,(7:18) (Shotgun) M.Stafford pass short right to K.Durham to CIN 45 for 4 yards (V.Burfict; D.Still).,5,1,35,CIN 49,0,DET,
+3,425,1,09:38,(9:38) (Shotgun) M.Stafford pass incomplete deep right to J.Fauria.,10,1,14,DET 34,0,DET,
+3,492,1,08:01,(8:01) (Shotgun) M.Stafford pass short middle to J.Bell to CIN 49 for 5 yards (R.Maualuga).,10,1,31,DET 46,0,DET,
+3,361,0,10:59,"M.Nugent kicks 65 yards from CIN 35 to end zone, Touchback.",0,1,0,CIN 35,0,CIN,KICKOFF
+2,302,1,11:12,"(11:12) PENALTY on CIN-C.Boling, False Start, 5 yards, enforced at CIN 23 - No Play.",10,1,8,CIN 23,0,CIN,PENALTY
+2,270,3,11:12,"(11:12) (Shotgun) B.Green-Ellis up the middle to CIN 16 for -2 yards (W.Young). PENALTY on DET-W.Young, Defensive Offside, 5 yards, enforced at CIN 18 - No Play.",2,1,13,CIN 18,0,CIN,PENALTY
+2,345,0,10:59,"M.Nugent extra point is GOOD, Center-C.Harris, Holder-K.Huber.",0,1,90,DET 2,1,CIN,XP
+2,325,1,11:12,"(11:12) A.Dalton pass deep right to A.Green for 82 yards, TOUCHDOWN.",15,1,90,CIN 18,1,CIN,TD
+2,227,1,11:54,(11:54) B.Green-Ellis left tackle to CIN 18 for 8 yards (L.Delmas).,10,1,8,CIN 10,0,CIN,
+2,248,2,11:16,(11:16) (Shotgun) A.Dalton pass incomplete short left to T.Eifert (L.Delmas).,2,1,8,CIN 18,0,CIN,
+5,1142,2,15:00,(15:00) (Shotgun) M.Stafford pass short right to C.Johnson to CIN 32 for 15 yards (V.Burfict; R.Maualuga).,8,2,42,CIN 47,0,DET,
+5,965,2,02:07,(2:07) (Shotgun) M.Stafford pass short right to K.Durham to DET 40 for 14 yards (T.Newman).,10,1,14,DET 26,0,DET,
+5,1052,1,01:25,(1:25) (Shotgun) R.Bush right tackle to DET 42 for 2 yards (R.Maualuga; D.Still). CIN-D.Still was injured during the play. He is Out.,10,1,54,DET 40,0,DET,
+5,1286,3,11:53,(11:53) (Shotgun) M.Stafford pass incomplete deep middle to J.Fauria (C.Crocker).,8,2,56,CIN 18,0,DET,
+5,1209,3,13:29,(13:29) (Shotgun) M.Stafford pass short right to R.Bush to CIN 20 for 6 yards (V.Burfict).,4,2,54,CIN 26,0,DET,
+5,1188,2,14:12,(14:12) (Shotgun) R.Bush up the middle to CIN 26 for 6 yards (B.Thompson).,10,2,48,CIN 32,0,DET,
+5,1242,1,12:42,(12:42) (Shotgun) M.Stafford pass incomplete deep right to K.Durham (T.Newman).,10,2,56,CIN 20,0,DET,
+5,1077,2,00:48,(:48) (Shotgun) M.Stafford pass short right to C.Johnson to CIN 49 for 9 yards (T.Newman).,8,1,25,DET 42,0,DET,
+5,1308,4,11:47,"(11:47) D.Akers 36 yard field goal is GOOD, Center-D.Muhlbach, Holder-S.Martin.",8,2,56,CIN 18,1,DET,FG
+5,1166,1,14:19,(14:19) (Shotgun) M.Stafford pass incomplete deep middle to C.Johnson (R.Nelson).,10,2,42,CIN 32,0,DET,
+5,1265,2,12:38,(12:38) R.Bush left tackle to CIN 18 for 2 yards (G.Iloka).,10,2,56,CIN 20,0,DET,
+5,1105,1,00:06,(:06) (Shotgun) R.Bush left tackle to CIN 47 for 2 yards (V.Burfict; C.Dunlap).,10,1,27,CIN 49,0,DET,
+5,931,1,02:10,"(2:10) M.Stafford pass deep right to C.Johnson pushed ob at DET 45 for 19 yards (T.Newman). Cincinnati challenged the pass completion ruling, and the play was REVERSED. M.Stafford pass incomplete deep right to C.Johnson (T.Newman).",10,1,48,DET 26,0,DET,
+5,1035,0,01:25,Timeout #1 by DET at 01:25.,0,1,14,,0,,TIMEOUT
+4,780,0,03:02,"S.Martin kicks 74 yards from DET 35 to CIN -9. B.Tate, Touchback.",0,1,0,DET 35,0,DET,KICKOFF
+4,841,3,02:28,"(2:28) (Shotgun) A.Dalton sacked at CIN 8 for -12 yards (E.Ansah). FUMBLES (E.Ansah), RECOVERED by DET-N.Suh at CIN 2. N.Suh for 2 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on DET-E.Ansah, Defensive Offside, 5 yards, enforced at CIN 20 - No Play.",10,1,5,CIN 20,0,CIN,PENALTY
+4,899,4,02:15,"(2:15) K.Huber punts 49 yards to DET 26, Center-C.Harris. M.Spurlock ran ob at DET 26 for no gain.",5,1,5,CIN 25,0,CIN,PUNT
+4,798,1,03:02,(3:02) G.Bernard left end pushed ob at CIN 20 for no gain (D.Levy).,10,1,0,CIN 20,0,CIN,
+4,819,2,02:33,(2:33) (Shotgun) A.Dalton pass incomplete short left to M.Jones (R.Mathis).,10,1,0,CIN 20,0,CIN,
+4,877,3,02:22,(2:22) A.Dalton pass incomplete short left to M.Jones (R.Mathis).,5,1,5,CIN 25,0,CIN,
+7,1609,3,06:26,(6:26) (Shotgun) M.Stafford pass short middle to K.Ogletree to CIN 49 for 7 yards (C.Dunlap).,3,2,14,DET 44,0,DET,
+7,1588,2,07:09,(7:09) (Shotgun) R.Bush right tackle to DET 44 for 7 yards (J.Harrison).,10,2,7,DET 37,0,DET,
+7,1633,1,05:46,(5:46) (Shotgun) R.Bush up the middle to CIN 46 for 3 yards (C.Dunlap).,10,2,17,CIN 49,0,DET,
+7,1727,2,03:48,(3:48) (Shotgun) R.Bush right tackle to CIN 18 for 1 yard (R.Maualuga).,1,2,45,CIN 19,0,DET,
+7,1791,3,02:36,"(2:36) (Shotgun) M.Stafford pass incomplete short right to K.Durham (T.Newman) [C.Dunlap]. Penalty on DET-K.Durham, Offensive Pass Interference, declined.",8,2,47,CIN 16,0,DET,
+7,1703,1,04:29,(4:29) (Shotgun) M.Stafford pass short left to K.Durham to CIN 19 for 9 yards (D.Kirkpatrick).,10,2,44,CIN 28,0,DET,
+7,1748,1,03:07,(3:07) R.Bush right tackle to CIN 16 for 2 yards (V.Burfict).,10,2,47,CIN 18,0,DET,
+7,1566,1,07:17,(7:17) M.Stafford pass incomplete deep middle to C.Johnson.,10,2,0,DET 37,0,DET,
+7,1824,4,02:30,"(2:30) D.Akers 34 yard field goal is BLOCKED (C.Dunlap), Center-D.Muhlbach, Holder-S.Martin, RECOVERED by CIN-R.Nelson at CIN 30. R.Nelson to CIN 46 for 16 yards (D.Gandy). FUMBLES (D.Gandy), recovered by CIN-D.Kirkpatrick at DET 49. D.Kirkpatrick to DET 40 for 9 yards (S.Martin).",8,2,47,CIN 16,0,DET,FGB
+7,1676,3,04:59,(4:59) (Shotgun) M.Stafford pass short middle to J.Bell to CIN 28 for 18 yards (R.Nelson). CIN-R.Nelson was injured during the play.,7,2,35,CIN 46,0,DET,
+7,1654,2,05:06,(5:06) (Shotgun) M.Stafford pass incomplete deep right to K.Durham.,7,2,17,CIN 46,0,DET,
+7,1769,2,02:45,"(2:45) (No Huddle, Shotgun) M.Stafford pass incomplete deep middle to R.Broyles.",8,2,47,CIN 16,0,DET,
+6,1546,4,07:22,"(7:22) M.Nugent 47 yard field goal is No Good, Wide Left, Center-C.Harris, Holder-K.Huber.",12,2,51,DET 29,0,CIN,FGM
+6,1327,0,11:43,"S.Martin kicks 74 yards from DET 35 to CIN -9. B.Tate, Touchback.",0,2,0,DET 35,0,DET,KICKOFF
+6,1350,1,11:43,(11:43) A.Dalton pass short left to A.Green to CIN 33 for 13 yards (R.Mathis) [C.Mosley].,10,2,51,CIN 20,0,CIN,
+6,1398,1,10:20,(10:20) B.Green-Ellis left end to DET 41 for -1 yards (D.Taylor).,10,2,39,DET 40,0,CIN,
+6,1419,2,09:42,(9:42) B.Green-Ellis right end to DET 39 for 2 yards (W.Young).,11,2,41,DET 41,0,CIN,
+6,1520,3,07:29,(7:29) (Shotgun) A.Dalton pass incomplete short right. Ball thrown away.,12,2,51,DET 29,0,CIN,
+6,1374,1,11:01,(11:01) (Shotgun) A.Dalton pass deep right to A.Green to DET 40 for 27 yards (A.Palmer) [D.Taylor].,10,2,40,CIN 33,0,CIN,
+6,1496,2,07:55,(7:55) (Shotgun) A.Dalton pass short left to G.Bernard to DET 29 for 6 yards (D.Levy).,18,2,51,DET 35,0,CIN,
+6,1440,3,09:03,"(9:03) (No Huddle, Shotgun) A.Dalton pass short left to M.Sanu to DET 27 for 12 yards (S.Tulloch).",9,2,53,DET 39,0,CIN,
+6,1464,1,08:28,"(8:28) (Shotgun) G.Bernard up the middle to DET 20 for 7 yards (S.Tulloch). PENALTY on CIN-J.Gresham, Unsportsmanlike Conduct, 15 yards, enforced at DET 20.",10,2,45,DET 27,0,CIN,PENALTY
+9,2109,1,00:41,(:41) (Shotgun) J.Bell up the middle to DET 27 for 7 yards (V.Burfict).,10,2,7,DET 20,0,DET,
+9,2090,0,00:41,"M.Nugent kicks 65 yards from CIN 35 to end zone, Touchback.",0,2,0,CIN 35,0,CIN,KICKOFF
+9,2130,2,00:14,"(:14) (No Huddle, Shotgun) J.Bell right tackle to DET 29 for 2 yards (G.Atkins; T.Mays).",3,2,9,DET 27,0,DET,
+8,1908,2,02:00,(2:00) (Shotgun) A.Dalton pass short right to A.Green pushed ob at DET 22 for 13 yards (C.Houston).,5,2,18,DET 35,0,CIN,
+8,1980,3,01:21,"(1:21) (Shotgun) A.Dalton pass short middle to G.Bernard to DET 12 for 7 yards (S.Tulloch). The Replay Assistant challenged the first down ruling, and the play was Upheld.",7,2,28,DET 19,0,CIN,
+8,1870,1,02:17,(2:17) G.Bernard left end to DET 35 for 5 yards (L.Delmas).,10,2,5,DET 40,0,CIN,
+8,1937,1,01:55,(1:55) (Shotgun) G.Bernard up the middle to DET 19 for 3 yards (N.Suh).,10,2,21,DET 22,0,CIN,
+8,2004,1,00:52,(:52) A.Dalton pass incomplete short left to M.Sanu (R.Mathis).,10,2,28,DET 12,0,CIN,
+8,2074,0,00:41,"M.Nugent extra point is GOOD, Center-C.Harris, Holder-K.Huber.",0,2,40,DET 2,1,CIN,XP
+8,1958,2,01:25,(1:25) (Shotgun) A.Dalton pass incomplete short right to G.Bernard (D.Levy).,7,2,21,DET 19,0,CIN,
+8,2054,2,00:46,"(:46) (Shotgun) A.Dalton pass short right to M.Jones for 12 yards, TOUCHDOWN.",10,2,40,DET 12,1,CIN,TD

@@ -1,202 +1,202 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1314,2,10:07,,5,2,67,GB 34,0,OAK,
-9,1360,2,09:34,,10,2,66,GB 11,0,OAK,
-9,1272,3,11:08,,3,2,39,OAK 39,0,OAK,
-9,1403,4,08:40,,11,2,66,GB 12,1,OAK,FG
-9,1205,1,12:33,,10,2,10,OAK 22,0,OAK,
-9,1338,1,09:39,,10,2,67,GB 11,0,OAK,
-9,1293,1,10:30,,10,2,44,GB 39,0,OAK,
-9,1381,3,08:49,,11,2,66,GB 12,0,OAK,
-9,1248,2,11:36,,8,2,17,OAK 34,0,OAK,
-9,1227,1,11:51,,10,2,12,OAK 32,0,OAK,
-24,4146,1,03:26,,10,4,1,OAK 16,0,GB,
-24,4167,2,02:44,,9,4,1,OAK 15,0,GB,INT
-10,1536,3,07:09,,8,2,22,GB 38,0,GB,
-10,1445,1,08:31,,10,2,6,GB 23,0,GB,
-10,1469,2,08:04,,4,2,13,GB 29,0,GB,
-10,1515,2,07:36,,10,2,15,GB 36,0,GB,
-10,1493,1,07:42,,10,2,13,GB 36,0,GB,
-10,1423,0,08:36,,0,2,0,OAK 35,0,OAK,KICKOFF
-10,1577,4,06:20,,1,2,22,GB 45,0,GB,PUNT
-10,1560,0,06:21,,0,2,22,,0,,TIMEOUT
-20,3346,2,14:34,,4,4,50,OAK 48,0,GB,
-20,3200,2,01:29,,7,3,30,GB 26,0,GB,
-20,3533,2,11:07,,6,4,84,OAK 11,0,GB,
-20,3631,3,10:08,,3,4,92,OAK 3,0,GB,
-20,3388,1,13:32,,10,4,68,OAK 41,0,GB,
-20,3179,1,02:02,,10,3,21,GB 23,0,GB,
-20,3145,3,02:25,,5,3,18,GB 10,0,GB,
-20,3309,0,,,0,3,41,,0,,
-20,3285,2,00:17,,13,3,41,GB 32,0,GB,
-20,3610,2,10:56,,1,4,92,OAK 1,0,GB,
-20,3512,1,11:41,,10,4,84,OAK 15,0,GB,
-20,3447,0,12:43,,0,4,58,,0,,TIMEOUT
-20,3488,2,12:14,,17,4,80,OAK 34,0,GB,
-20,3588,1,10:59,,1,4,94,OAK 1,0,GB,
-20,3653,4,10:04,,3,4,92,OAK 3,1,GB,FG
-20,3555,3,11:04,,6,4,94,OAK 11,0,GB,PENALTY
-20,3367,3,13:57,,1,4,54,OAK 45,0,GB,
-20,3222,1,00:54,,10,3,41,GB 35,0,GB,
-20,3464,1,12:43,,20,4,61,OAK 37,0,GB,
-20,3123,2,02:29,,5,3,5,GB 10,0,GB,
-20,3325,1,15:00,,10,4,47,GB 46,0,GB,
-20,3412,1,13:17,,10,4,58,OAK 27,0,GB,PENALTY
-20,3102,1,03:12,,10,3,5,GB 5,0,GB,
-6,661,0,05:08,,0,1,0,GB 35,0,GB,KICKOFF
-6,683,1,05:03,,10,1,0,OAK 34,1,OAK,TD
-27,4661,2,00:29,,14,4,-2,OAK 35,0,OAK,
-27,4682,3,00:23,,12,4,5,OAK 37,0,OAK,
-27,4614,1,01:02,,10,4,5,OAK 39,0,OAK,
-27,4638,2,00:44,,9,4,5,OAK 40,0,OAK,PENALTY
-27,4706,4,00:06,,5,4,5,OAK 44,0,OAK,
-18,2883,2,05:52,,2,3,53,OAK 30,1,GB,TD
-18,2903,0,05:46,,0,3,53,OAK 15,1,GB,XP
-18,2813,0,06:48,,0,3,0,OAK 35,0,OAK,KICKOFF
-18,2835,1,06:42,,10,3,15,GB 47,0,GB,
-18,2859,1,06:12,,10,3,23,OAK 38,0,GB,
-28,4761,0,00:00,,0,4,-1,,0,,
-28,4728,1,00:03,,10,4,-1,OAK 44,0,GB,
-26,4476,1,01:31,,10,4,4,OAK 35,0,GB,
-26,4536,0,01:19,,0,4,6,,0,,TIMEOUT
-26,4553,3,01:19,,4,4,4,OAK 29,0,GB,
-26,4498,0,01:25,,0,4,5,,0,,TIMEOUT
-26,4515,2,01:25,,6,4,6,OAK 31,0,GB,
-26,4585,4,01:12,,6,4,4,OAK 31,0,GB,FGB
-25,4426,4,01:39,,4,4,34,OAK 36,0,OAK,
-25,4194,1,02:36,,10,4,0,OAK 1,0,OAK,
-25,4248,2,02:31,,10,4,18,OAK 1,0,OAK,
-25,4272,1,02:25,,10,4,18,OAK 19,0,OAK,
-25,4316,3,02:10,,10,4,29,OAK 19,0,OAK,
-25,4357,1,02:00,,10,4,29,OAK 30,0,OAK,
-25,4379,2,01:52,,10,4,35,OAK 30,0,OAK,
-25,4294,2,02:19,,10,4,18,OAK 19,0,OAK,
-25,4340,0,02:00,,0,4,29,,0,,
-25,4403,3,01:49,,4,4,34,OAK 36,0,OAK,
-1,68,1,14:54,,10,1,3,GB 16,0,GB,
-1,134,4,12:59,,6,1,4,GB 20,0,GB,PUNT
-1,110,3,13:39,,5,1,4,GB 21,0,GB,
-1,89,2,14:19,,7,1,5,GB 19,0,GB,
-1,36,0,15:00,,0,1,0,OAK 35,0,OAK,KICKOFF
-5,535,1,06:20,,10,1,5,OAK 17,0,GB,
-5,623,2,05:12,,5,1,17,OAK 5,1,GB,TD
-5,645,0,05:08,,0,1,17,OAK 15,1,GB,XP
-5,576,2,05:59,,5,1,12,OAK 12,0,GB,
-5,601,1,05:18,,5,1,12,OAK 5,0,GB,
-5,559,0,05:59,,0,1,4,,0,,TIMEOUT
-13,2131,1,00:33,,10,2,60,GB 36,0,OAK,
-13,2177,0,00:20,,0,2,79,GB 15,1,OAK,XP
-13,2157,1,00:25,,10,2,79,GB 19,1,OAK,TD
-13,2083,1,01:22,,10,2,29,OAK 21,0,OAK,
-13,2107,1,00:55,,10,2,43,50,0,OAK,
-21,3739,1,08:33,,10,4,5,OAK 26,0,OAK,PENALTY
-21,3672,0,10:01,,0,4,0,GB 35,0,GB,KICKOFF
-21,3694,1,09:57,,10,4,4,OAK 16,0,OAK,
-21,3805,3,07:27,,8,4,-2,OAK 28,0,OAK,
-21,3715,2,09:15,,6,4,10,OAK 20,0,OAK,
-21,3762,1,08:11,,15,4,12,OAK 21,0,OAK,
-21,3783,2,07:31,,8,4,12,OAK 28,0,OAK,
-21,3835,4,07:02,,22,4,-2,OAK 14,0,OAK,PUNT
-23,4083,2,04:21,,8,4,2,OAK 22,0,OAK,
-23,4044,0,04:25,,0,4,0,GB 35,0,GB,KICKOFF
-23,4105,3,04:15,,8,4,-4,OAK 22,0,OAK,
-23,4124,4,03:33,,14,4,-4,OAK 16,0,OAK,
-23,4059,1,04:25,,10,4,2,OAK 20,0,OAK,
-11,1653,3,05:27,,7,2,8,OAK 33,0,OAK,
-11,1606,1,06:13,,10,2,0,OAK 30,0,OAK,
-11,1631,2,06:07,,10,2,3,OAK 30,0,OAK,
-11,1677,4,05:11,,2,2,8,OAK 38,0,OAK,PUNT
-14,2215,1,00:14,,10,2,0,GB 35,0,GB,
-14,2237,2,00:06,,10,2,8,GB 35,0,GB,
-14,2261,0,,,0,2,8,,0,,
-14,2193,0,00:20,,0,2,0,OAK 35,0,OAK,KICKOFF
-8,1124,1,14:08,,10,2,8,GB 26,0,GB,
-8,1068,1,14:48,,10,2,-1,GB 22,0,GB,
-8,1089,2,14:24,,11,2,-1,GB 21,0,GB,PENALTY
-8,1145,2,13:35,,6,2,-1,GB 30,0,GB,
-8,1046,0,14:53,,0,2,0,OAK 35,0,OAK,KICKOFF
-8,1186,4,12:46,,15,2,-1,GB 21,0,GB,PUNT
-8,1164,3,12:53,,15,2,-1,GB 21,0,GB,
-19,2919,0,05:46,,0,3,0,GB 35,0,GB,KICKOFF
-19,3039,2,03:36,,10,3,23,OAK 43,0,OAK,
-19,2958,2,05:11,,4,3,23,OAK 26,0,OAK,
-19,3061,3,03:30,,10,3,23,OAK 43,0,OAK,
-19,2934,1,05:46,,10,3,6,OAK 20,0,OAK,
-19,3083,4,03:25,,10,3,23,OAK 43,0,OAK,PUNT
-19,3000,1,03:40,,10,3,23,OAK 43,0,OAK,
-19,2979,3,04:31,,6,3,23,OAK 24,0,OAK,
-19,3022,0,03:36,,0,3,23,,0,,TIMEOUT
-22,4002,3,04:32,,15,4,21,OAK 15,0,GB,
-22,3960,3,04:35,,5,4,21,OAK 5,0,GB,PENALTY
-22,3913,1,05:22,,8,4,31,OAK 8,0,GB,
-22,3938,2,04:40,,5,4,31,OAK 5,0,GB,
-22,3871,1,06:54,,10,4,3,OAK 36,0,GB,
-22,3892,2,06:10,,7,4,28,OAK 33,0,GB,
-22,4024,4,04:29,,15,4,21,OAK 15,1,GB,FG
-12,2005,2,01:30,,2,2,77,OAK 32,0,GB,FUMBLE
-12,1940,3,02:22,,5,2,58,OAK 45,0,GB,
-12,1722,2,04:28,,10,2,0,GB 2,0,GB,
-12,1923,0,02:22,,0,2,53,,0,,TIMEOUT
-12,1981,1,02:00,,10,2,66,OAK 40,0,GB,
-12,1877,1,03:05,,10,2,53,50,0,GB,
-12,1901,2,02:26,,5,2,53,OAK 45,0,GB,
-12,1853,3,03:38,,7,2,48,GB 27,0,GB,
-12,1777,3,04:17,,5,2,22,GB 7,0,GB,PENALTY
-12,1810,1,04:12,,10,2,53,GB 24,0,GB,
-12,1699,1,04:58,,10,2,25,GB 2,0,GB,
-12,1744,3,04:17,,10,2,5,GB 2,0,GB,PENALTY
-12,1964,0,02:00,,0,2,58,,0,,
-12,1831,2,03:43,,7,2,25,GB 27,0,GB,
-16,2538,0,10:25,,0,3,44,,0,,TIMEOUT
-16,2441,3,12:02,,2,3,8,OAK 42,0,GB,
-16,2517,2,11:03,,10,3,44,OAK 14,0,GB,
-16,2399,1,13:15,,10,3,1,50,0,GB,
-16,2555,3,10:25,,2,3,44,OAK 6,0,GB,
-16,2420,2,12:38,,9,3,8,OAK 49,0,GB,
-16,2495,1,11:08,,10,3,36,OAK 14,0,GB,
-16,2462,4,11:17,,2,3,36,OAK 42,0,GB,PENALTY
-16,2577,4,10:21,,2,3,44,OAK 6,1,GB,FG
-7,846,1,03:24,,10,1,54,GB 23,0,OAK,
-7,798,1,04:42,,10,1,31,OAK 45,0,OAK,
-7,945,1,01:21,,6,1,74,GB 6,0,OAK,
-7,912,1,01:27,,10,1,74,GB 11,0,OAK,PENALTY
-7,966,2,00:34,,6,1,75,GB 6,0,OAK,
-7,1005,3,15:00,,5,2,75,GB 5,0,OAK,
-7,989,0,,,0,1,75,,0,,
-7,867,2,02:42,,13,1,65,GB 26,0,OAK,
-7,728,0,04:53,,0,1,0,GB 35,0,GB,KICKOFF
-7,743,1,04:53,,10,1,54,OAK 20,0,OAK,
-7,891,3,02:08,,2,1,69,GB 15,0,OAK,
-7,765,2,04:48,,10,1,25,OAK 20,0,OAK,PENALTY
-7,1027,4,14:56,,5,2,75,GB 5,1,OAK,FG
-7,822,2,04:12,,4,1,57,GB 49,0,OAK,
-3,420,4,08:09,,13,1,-3,GB 24,0,GB,PUNT
-3,355,1,09:24,,10,1,0,GB 27,0,GB,
-3,377,2,09:20,,10,1,2,GB 27,0,GB,
-3,401,3,08:45,,8,1,-3,GB 29,0,GB,
-17,2687,2,09:14,,10,3,41,GB 40,0,OAK,
-17,2709,3,09:06,,10,3,50,GB 40,0,OAK,
-17,2777,2,06:54,,8,3,81,GB 26,1,OAK,TD
-17,2756,1,07:39,,10,3,55,GB 28,0,OAK,
-17,2665,1,09:20,,10,3,41,GB 40,0,OAK,
-17,2619,1,10:12,,10,3,0,OAK 19,0,OAK,
-17,2733,4,08:20,,1,3,53,GB 31,0,OAK,
-17,2597,0,10:18,,0,3,0,GB 35,0,GB,KICKOFF
-17,2797,0,06:48,,0,3,81,GB 15,1,OAK,XP
-17,2641,2,10:08,,10,3,41,OAK 19,0,OAK,
-4,498,3,06:34,,9,1,1,OAK 17,0,OAK,INT
-4,456,1,07:58,,10,1,1,OAK 16,0,OAK,
-4,477,2,07:17,,9,1,1,OAK 17,0,OAK,
-2,181,2,12:12,,3,1,9,OAK 35,0,OAK,
-2,270,2,09:40,,8,1,26,GB 46,0,OAK,
-2,160,1,12:49,,10,1,7,OAK 28,0,OAK,
-2,205,3,11:42,,1,1,12,OAK 37,0,OAK,
-2,292,3,09:35,,8,1,21,GB 46,0,OAK,PENALTY
-2,249,1,10:19,,10,1,26,GB 48,0,OAK,
-2,337,4,09:31,,13,1,21,OAK 49,0,OAK,PUNT
-2,228,1,11:02,,10,1,24,OAK 40,0,OAK,
-2,315,3,09:35,,13,1,21,OAK 49,0,OAK,
-15,2277,0,15:00,,0,3,0,GB 35,0,GB,KICKOFF
-15,2374,4,13:23,,10,3,0,OAK 20,0,OAK,PUNT
-15,2320,2,14:19,,10,3,-4,OAK 20,0,OAK,
-15,2339,3,13:39,,14,3,0,OAK 16,0,OAK,
-15,2299,1,14:54,,10,3,0,OAK 20,0,OAK,
+24,4167,2,02:44,"(2:44) A.Rodgers pass short right intended for J.Janis INTERCEPTED by D.Amerson at OAK 0. D.Amerson ran ob at OAK 1 for 1 yard. The Replay Official reviewed the touchback ruling, and the play was Upheld. The ruling on the field stands.",9,4,1,OAK 15,0,GB,INT
+24,4146,1,03:26,(3:26) E.Lacy left tackle to OAK 15 for 1 yard (S.Harris).,10,4,1,OAK 16,0,GB,
+25,4272,1,02:25,(2:25) (Shotgun) D.Carr pass incomplete short left to A.Cooper.,10,4,18,OAK 19,0,OAK,
+25,4248,2,02:31,(2:31) (Shotgun) D.Carr pass deep right to M.Crabtree to OAK 19 for 18 yards (M.Burnett).,10,4,18,OAK 1,0,OAK,
+25,4316,3,02:10,(2:10) (Shotgun) D.Carr pass short left to M.Crabtree to OAK 30 for 11 yards (C.Hayward).,10,4,29,OAK 19,0,OAK,
+25,4294,2,02:19,(2:19) (Shotgun) D.Carr pass incomplete deep left to A.Holmes.,10,4,18,OAK 19,0,OAK,
+25,4194,1,02:36,(2:36) (Shotgun) D.Carr pass incomplete short right to M.Crabtree.,10,4,0,OAK 1,0,OAK,
+25,4426,4,01:39,(1:39) (Shotgun) D.Carr pass short left to M.Reece to OAK 35 for -1 yards (J.Thomas).,4,4,34,OAK 36,0,OAK,
+25,4403,3,01:49,(1:49) (Shotgun) D.Carr pass incomplete deep right to M.Crabtree.,4,4,34,OAK 36,0,OAK,
+25,4379,2,01:52,(1:52) (Shotgun) D.Carr pass short left to A.Holmes to OAK 36 for 6 yards (D.Randall).,10,4,35,OAK 30,0,OAK,
+25,4357,1,02:00,(2:00) (Shotgun) D.Carr pass incomplete deep middle to A.Cooper (M.Burnett).,10,4,29,OAK 30,0,OAK,
+25,4340,0,02:00,Two-Minute Warning,0,4,29,,0,,
+26,4536,0,01:19,Timeout #3 by OAK at 01:19.,0,4,6,,0,,TIMEOUT
+26,4515,2,01:25,(1:25) J.Starks right tackle to OAK 29 for 2 yards (S.Harris).,6,4,6,OAK 31,0,GB,
+26,4585,4,01:12,"(1:12) M.Crosby 49 yard field goal is BLOCKED (D.Autry), Center-B.Goode, Holder-T.Masthay, RECOVERED by OAK-C.Lofton at OAK 27. C.Lofton to OAK 39 for 12 yards (L.Guion).",6,4,4,OAK 31,0,GB,FGB
+26,4476,1,01:31,(1:31) J.Starks left tackle to OAK 31 for 4 yards (D.Williams).,10,4,4,OAK 35,0,GB,
+26,4553,3,01:19,"(1:19) J.Starks right end to OAK 31 for -2 yards (B.Mayowa). Penalty on GB-J.Janis, Offensive Holding, declined.",4,4,4,OAK 29,0,GB,
+26,4498,0,01:25,Timeout #2 by OAK at 01:25.,0,4,5,,0,,TIMEOUT
+27,4706,4,00:06,"(:06) (No Huddle, Shotgun) D.Carr pass incomplete short left to A.Holmes. Penalty on OAK-A.Cooper, Illegal Motion, declined.",5,4,5,OAK 44,0,OAK,
+27,4638,2,00:44,"(:44) (No Huddle, Shotgun) PENALTY on OAK-K.Barnes, False Start, 5 yards, enforced at OAK 40 - No Play.",9,4,5,OAK 40,0,OAK,PENALTY
+27,4682,3,00:23,(:23) (Shotgun) D.Carr pass short right to M.Crabtree to OAK 44 for 7 yards (Q.Rollins).,12,4,5,OAK 37,0,OAK,
+27,4614,1,01:02,(1:02) (Shotgun) D.Carr pass short right to M.Rivera to OAK 40 for 1 yard (M.Hyde).,10,4,5,OAK 39,0,OAK,
+27,4661,2,00:29,(:29) (Shotgun) D.Carr scrambles left end to OAK 37 for 2 yards (N.Palmer).,14,4,-2,OAK 35,0,OAK,
+20,3610,2,10:56,(10:56) E.Lacy left tackle to OAK 3 for -2 yards (M.Smith).,1,4,92,OAK 1,0,GB,
+20,3631,3,10:08,(10:08) (Shotgun) A.Rodgers pass incomplete short left to R.Cobb.,3,4,92,OAK 3,0,GB,
+20,3533,2,11:07,"(11:07) (No Huddle, Shotgun) A.Rodgers pass incomplete short right to D.Adams.",6,4,84,OAK 11,0,GB,
+20,3412,1,13:17,"(13:17) (No Huddle, Shotgun) A.Rodgers pass short left to J.Jones to OAK 20 for 7 yards (D.McDonald). PENALTY on GB-J.Jones, Offensive Pass Interference, 10 yards, enforced at OAK 27 - No Play.",10,4,58,OAK 27,0,GB,PENALTY
+20,3388,1,13:32,"(13:32) (No Huddle, Shotgun) A.Rodgers pass short left to J.Jones to OAK 27 for 14 yards (D.McDonald).",10,4,68,OAK 41,0,GB,
+20,3309,0,,END QUARTER 3,0,3,41,,0,,
+20,3653,4,10:04,"(10:04) M.Crosby 21 yard field goal is GOOD, Center-B.Goode, Holder-T.Masthay.",3,4,92,OAK 3,1,GB,FG
+20,3555,3,11:04,"(11:04) (Shotgun) A.Rodgers pass incomplete short right to R.Cobb. PENALTY on OAK-D.Hayden, Defensive Pass Interference, 10 yards, enforced at OAK 11 - No Play.",6,4,94,OAK 11,0,GB,PENALTY
+20,3325,1,15:00,(15:00) (Shotgun) R.Cobb left end to OAK 48 for 6 yards (S.Harris).,10,4,47,GB 46,0,GB,
+20,3123,2,02:29,(2:29) (Shotgun) A.Rodgers pass incomplete short middle to R.Cobb.,5,3,5,GB 10,0,GB,
+20,3367,3,13:57,"(13:57) (No Huddle, Shotgun) R.Cobb right end to OAK 41 for 4 yards (D.Amerson).",1,4,54,OAK 45,0,GB,
+20,3346,2,14:34,"(14:34) (No Huddle, Shotgun) J.Kuhn up the middle to OAK 45 for 3 yards (B.Mayowa).",4,4,50,OAK 48,0,GB,
+20,3102,1,03:12,(3:12) (Shotgun) R.Cobb left tackle to GB 10 for 5 yards (C.Woodson).,10,3,5,GB 5,0,GB,
+20,3488,2,12:14,"(12:14) (No Huddle, Shotgun) A.Rodgers pass short left to R.Cobb to OAK 15 for 19 yards (D.Amerson).",17,4,80,OAK 34,0,GB,
+20,3588,1,10:59,(10:59) A.Rodgers pass incomplete short middle to R.Rodgers.,1,4,94,OAK 1,0,GB,
+20,3179,1,02:02,"(2:02) (No Huddle, Shotgun) R.Cobb right end to GB 26 for 3 yards (D.Autry).",10,3,21,GB 23,0,GB,
+20,3285,2,00:17,"(:17) (No Huddle, Shotgun) A.Rodgers pass short left to J.Jones to GB 46 for 14 yards (D.McDonald).",13,3,41,GB 32,0,GB,
+20,3464,1,12:43,(12:43) (Shotgun) A.Rodgers pass short right to D.Adams to OAK 34 for 3 yards (D.McDonald).,20,4,61,OAK 37,0,GB,
+20,3200,2,01:29,"(1:29) (No Huddle, Shotgun) A.Rodgers pass incomplete short left to J.Jones. Green Bay challenged the pass completion ruling, and the play was REVERSED. (No Huddle, Shotgun) A.Rodgers pass short left to J.Jones ran ob at GB 35 for 9 yards.",7,3,30,GB 26,0,GB,
+20,3447,0,12:43,Timeout #2 by GB at 12:43.,0,4,58,,0,,TIMEOUT
+20,3222,1,00:54,(:54) (Shotgun) A.Rodgers pass short middle to R.Cobb to GB 32 for -3 yards (C.Woodson) [S.McGee].,10,3,41,GB 35,0,GB,
+20,3512,1,11:41,"(11:41) (No Huddle, Shotgun) J.Kuhn up the middle to OAK 11 for 4 yards (S.Harris).",10,4,84,OAK 15,0,GB,
+20,3145,3,02:25,(2:25) (Shotgun) A.Rodgers pass short right to J.Abbrederis to GB 23 for 13 yards (B.Heeney).,5,3,18,GB 10,0,GB,
+21,3715,2,09:15,(9:15) (Shotgun) D.Carr pass short middle to C.Walford to OAK 26 for 6 yards (J.Ryan).,6,4,10,OAK 20,0,OAK,
+21,3783,2,07:31,(7:31) (Shotgun) D.Carr pass incomplete short right to M.Crabtree.,8,4,12,OAK 28,0,OAK,
+21,3762,1,08:11,(8:11) (Shotgun) L.Murray right tackle to OAK 28 for 7 yards (D.Randall).,15,4,12,OAK 21,0,OAK,
+21,3835,4,07:02,"(7:02) M.King punts 37 yards to GB 49, Center-T.Gafford. M.Hyde to OAK 41 for 10 yards (D.McDonald). PENALTY on OAK-L.Alexander, Ineligible Downfield Kick, 5 yards, enforced at OAK 41.",22,4,-2,OAK 14,0,OAK,PUNT
+21,3805,3,07:27,"(7:27) (Shotgun) D.Carr sacked at OAK 14 for -14 yards (J.Peppers). Penalty on OAK-G.Jackson, Offensive Holding, declined.",8,4,-2,OAK 28,0,OAK,
+21,3694,1,09:57,(9:57) L.Murray up the middle to OAK 20 for 4 yards (J.Ryan).,10,4,4,OAK 16,0,OAK,
+21,3739,1,08:33,"(8:33) PENALTY on OAK-M.Crabtree, False Start, 5 yards, enforced at OAK 26 - No Play.",10,4,5,OAK 26,0,OAK,PENALTY
+21,3672,0,10:01,M.Crosby kicks 67 yards from GB 35 to OAK -2. T.Jones to OAK 16 for 18 yards (L.Gunter).,0,4,0,GB 35,0,GB,KICKOFF
+22,3913,1,05:22,(5:22) J.Starks left tackle to OAK 5 for 3 yards (S.McGee). GB-D.Bakhtiari was injured during the play. His return is Questionable.,8,4,31,OAK 8,0,GB,
+22,3938,2,04:40,(4:40) A.Rodgers pass incomplete short middle to J.Janis (D.Amerson).,5,4,31,OAK 5,0,GB,
+22,3871,1,06:54,(6:54) J.Starks left end to OAK 33 for 3 yards (L.Alexander).,10,4,3,OAK 36,0,GB,
+22,4002,3,04:32,(4:32) (Shotgun) A.Rodgers pass incomplete short middle to J.Kuhn.,15,4,21,OAK 15,0,GB,
+22,4024,4,04:29,"(4:29) M.Crosby 33 yard field goal is GOOD, Center-B.Goode, Holder-T.Masthay.",15,4,21,OAK 15,1,GB,FG
+22,3960,3,04:35,"(4:35) (Shotgun) A.Rodgers pass short left to J.Jones for 5 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on GB-J.Jones, Offensive Pass Interference, 10 yards, enforced at OAK 5 - No Play.",5,4,21,OAK 5,0,GB,PENALTY
+22,3892,2,06:10,(6:10) J.Starks up the middle to OAK 8 for 25 yards (D.Hayden).,7,4,28,OAK 33,0,GB,
+23,4044,0,04:25,"M.Crosby kicks 65 yards from GB 35 to end zone, Touchback.",0,4,0,GB 35,0,GB,KICKOFF
+23,4083,2,04:21,(4:21) (Shotgun) D.Carr pass incomplete short left to A.Holmes (C.Hayward).,8,4,2,OAK 22,0,OAK,
+23,4105,3,04:15,(4:15) (Shotgun) D.Carr sacked at OAK 16 for -6 yards (sack split by M.Neal and J.Peppers).,8,4,-4,OAK 22,0,OAK,
+23,4059,1,04:25,(4:25) (Shotgun) D.Carr pass short left to L.Murray to OAK 22 for 2 yards (H.Clinton-Dix).,10,4,2,OAK 20,0,OAK,
+23,4124,4,03:33,(3:33) (Shotgun) D.Carr pass incomplete deep right to M.Crabtree (Q.Rollins).,14,4,-4,OAK 16,0,OAK,
+28,4761,0,00:00,END GAME,0,4,-1,,0,,
+28,4728,1,00:03,(:03) A.Rodgers kneels to OAK 45 for -1 yards.,10,4,-1,OAK 44,0,GB,
+1,68,1,14:54,(14:54) E.Lacy left guard to GB 19 for 3 yards (M.Smith).,10,1,3,GB 16,0,GB,
+1,134,4,12:59,"(12:59) T.Masthay punts 50 yards to OAK 30, Center-B.Goode. J.Ross to OAK 28 for -2 yards (J.Janis).",6,1,4,GB 20,0,GB,PUNT
+1,89,2,14:19,"(14:19) (No Huddle, Shotgun) E.Lacy left tackle to GB 21 for 2 yards (M.Edwards; B.Heeney).",7,1,5,GB 19,0,GB,
+1,36,0,15:00,S.Janikowski kicks 71 yards from OAK 35 to GB -6. J.Janis to GB 16 for 22 yards (L.Alexander).,0,1,0,OAK 35,0,OAK,KICKOFF
+1,110,3,13:39,(13:39) (Shotgun) A.Rodgers pass short right to R.Cobb to GB 20 for -1 yards (M.Smith).,5,1,4,GB 21,0,GB,
+3,420,4,08:09,"(8:09) T.Masthay punts 49 yards to OAK 27, Center-B.Goode. J.Ross to OAK 26 for -1 yards (A.Ripkowski). PENALTY on OAK-S.Harris, Offensive Holding, 10 yards, enforced at OAK 26.",13,1,-3,GB 24,0,GB,PUNT
+3,355,1,09:24,(9:24) A.Rodgers pass incomplete deep right to J.Jones.,10,1,0,GB 27,0,GB,
+3,401,3,08:45,"(8:45) (No Huddle, Shotgun) A.Rodgers sacked at GB 24 for -5 yards (K.Mack).",8,1,-3,GB 29,0,GB,
+3,377,2,09:20,(9:20) (Shotgun) A.Rodgers pass short left to R.Cobb to GB 29 for 2 yards (B.Heeney).,10,1,2,GB 27,0,GB,
+2,205,3,11:42,(11:42) K.Barnes reported in as eligible.  L.Murray left tackle to OAK 40 for 3 yards (J.Ryan).,1,1,12,OAK 37,0,OAK,
+2,249,1,10:19,(10:19) L.Murray right guard to GB 46 for 2 yards (J.Ryan).,10,1,26,GB 48,0,OAK,
+2,337,4,09:31,"(9:31) M.King punts 24 yards to GB 27, Center-T.Gafford, out of bounds.",13,1,21,OAK 49,0,OAK,PUNT
+2,315,3,09:35,(9:35) (Shotgun) D.Carr pass incomplete short right to C.Walford.,13,1,21,OAK 49,0,OAK,
+2,270,2,09:40,(9:40) (Shotgun) D.Carr pass incomplete deep left to M.Rivera.,8,1,26,GB 46,0,OAK,
+2,292,3,09:35,"(9:35) (Shotgun) PENALTY on OAK-S.Roberts, False Start, 5 yards, enforced at GB 46 - No Play.",8,1,21,GB 46,0,OAK,PENALTY
+2,181,2,12:12,(12:12) (Shotgun) D.Carr pass short right to A.Cooper to OAK 37 for 2 yards (D.Randall).,3,1,9,OAK 35,0,OAK,
+2,228,1,11:02,(11:02) (Shotgun) L.Murray right tackle to GB 48 for 12 yards (M.Burnett).,10,1,24,OAK 40,0,OAK,
+2,160,1,12:49,(12:49) L.Murray right end to OAK 35 for 7 yards (M.Burnett).,10,1,7,OAK 28,0,OAK,
+5,623,2,05:12,"(5:12) J.Kuhn up the middle for 5 yards, TOUCHDOWN.",5,1,17,OAK 5,1,GB,TD
+5,601,1,05:18,"(5:18) (No Huddle, Shotgun) A.Rodgers pass incomplete short left to J.Janis.",5,1,12,OAK 5,0,GB,
+5,576,2,05:59,(5:59) A.Rodgers pass short right to D.Adams to OAK 5 for 7 yards (K.Mack; T.Carrie).,5,1,12,OAK 12,0,GB,
+5,535,1,06:20,(6:20) (Shotgun) A.Rodgers pass short right to J.Abbrederis to OAK 12 for 5 yards (T.Carrie).,10,1,5,OAK 17,0,GB,
+5,645,0,05:08,"M.Crosby extra point is GOOD, Center-B.Goode, Holder-T.Masthay.",0,1,17,OAK 15,1,GB,XP
+5,559,0,05:59,Timeout #1 by OAK at 05:59.,0,1,4,,0,,TIMEOUT
+4,498,3,06:34,"(6:34) (Shotgun) D.Carr pass deep middle intended for C.Walford INTERCEPTED by M.Hyde at OAK 36. M.Hyde to OAK 2 for 34 yards (C.Walford). PENALTY on GB, Unsportsmanlike Conduct, 15 yards, enforced at OAK 2.",9,1,1,OAK 17,0,OAK,INT
+4,477,2,07:17,(7:17) (Shotgun) L.Murray right tackle to OAK 17 for no gain (M.Pennel).,9,1,1,OAK 17,0,OAK,
+4,456,1,07:58,(7:58) L.Murray left tackle to OAK 17 for 1 yard (J.Elliott).,10,1,1,OAK 16,0,OAK,
+7,846,1,03:24,(3:24) L.Murray right end to GB 26 for -3 yards (M.Burnett).,10,1,54,GB 23,0,OAK,
+7,966,2,00:34,(:34) (Shotgun) K.Barnes reported in as eligible.  L.Murray left guard to GB 5 for 1 yard (L.Guion).,6,1,75,GB 6,0,OAK,
+7,743,1,04:53,(4:53) D.Carr pass incomplete short right to C.Walford (M.Hyde) [D.Jones].,10,1,54,OAK 20,0,OAK,
+7,891,3,02:08,(2:08) D.Carr up the middle to GB 11 for 4 yards (J.Peppers).,2,1,69,GB 15,0,OAK,
+7,945,1,01:21,(1:21) L.Murray left end to GB 6 for no gain (M.Neal).,6,1,74,GB 6,0,OAK,
+7,1027,4,14:56,"(14:56) S.Janikowski 23 yard field goal is GOOD, Center-T.Gafford, Holder-M.King.",5,2,75,GB 5,1,OAK,FG
+7,867,2,02:42,(2:42) (Shotgun) D.Carr pass short right to A.Holmes to GB 15 for 11 yards (C.Hayward).,13,1,65,GB 26,0,OAK,
+7,798,1,04:42,(4:42) (Shotgun) D.Carr pass short right to M.Crabtree to GB 49 for 6 yards (Q.Rollins).,10,1,31,OAK 45,0,OAK,
+7,989,0,,END QUARTER 1,0,1,75,,0,,
+7,1005,3,15:00,(15:00) (Shotgun) D.Carr pass incomplete short right to M.Crabtree (Q.Rollins).,5,2,75,GB 5,0,OAK,
+7,765,2,04:48,"(4:48) (Shotgun) D.Carr pass incomplete deep right to A.Cooper. PENALTY on GB-D.Randall, Defensive Pass Interference, 25 yards, enforced at OAK 20 - No Play.",10,1,25,OAK 20,0,OAK,PENALTY
+7,912,1,01:27,"(1:27) (Shotgun) D.Carr pass incomplete short right to S.Roberts. PENALTY on GB-M.Hyde, Defensive Holding, 5 yards, enforced at GB 11 - No Play.",10,1,74,GB 11,0,OAK,PENALTY
+7,728,0,04:53,"M.Crosby kicks 65 yards from GB 35 to end zone, Touchback.",0,1,0,GB 35,0,GB,KICKOFF
+7,822,2,04:12,(4:12) (Shotgun) D.Carr pass short middle to A.Cooper to GB 23 for 26 yards (D.Randall).,4,1,57,GB 49,0,OAK,
+6,683,1,05:03,"(5:03) (Shotgun) D.Carr pass short right intended for S.Roberts INTERCEPTED by D.Randall at OAK 43. D.Randall for 43 yards, TOUCHDOWN.",10,1,0,OAK 34,1,OAK,TD
+6,661,0,05:08,M.Crosby kicks 64 yards from GB 35 to OAK 1. T.Jones to OAK 34 for 33 yards (Q.Rollins).,0,1,0,GB 35,0,GB,KICKOFF
+9,1227,1,11:51,(11:51) (Shotgun) L.Murray left end to OAK 34 for 2 yards (J.Ryan).,10,2,12,OAK 32,0,OAK,
+9,1314,2,10:07,"(10:07) (No Huddle, Shotgun) D.Carr pass short right to M.Crabtree to GB 11 for 23 yards (H.Clinton-Dix).",5,2,67,GB 34,0,OAK,
+9,1338,1,09:39,"(9:39) (No Huddle, Shotgun) D.Carr pass incomplete short right to C.Walford.",10,2,67,GB 11,0,OAK,
+9,1205,1,12:33,(12:33) (Shotgun) L.Murray up the middle to OAK 32 for 10 yards (M.Burnett).,10,2,10,OAK 22,0,OAK,
+9,1272,3,11:08,(11:08) (Shotgun) L.Murray up the middle to GB 39 for 22 yards (M.Burnett).,3,2,39,OAK 39,0,OAK,
+9,1360,2,09:34,(9:34) (Shotgun) L.Murray left end to GB 12 for -1 yards (D.Jones; M.Daniels).,10,2,66,GB 11,0,OAK,
+9,1248,2,11:36,"(11:36) (No Huddle, Shotgun) D.Carr pass short left to M.Crabtree to OAK 39 for 5 yards (Q.Rollins).",8,2,17,OAK 34,0,OAK,
+9,1403,4,08:40,"(8:40) S.Janikowski 30 yard field goal is GOOD, Center-T.Gafford, Holder-M.King.",11,2,66,GB 12,1,OAK,FG
+9,1293,1,10:30,"(10:30) (No Huddle, Shotgun) L.Murray right guard to GB 34 for 5 yards (J.Ryan).",10,2,44,GB 39,0,OAK,
+9,1381,3,08:49,(8:49) (Shotgun) D.Carr pass incomplete short right to A.Holmes.,11,2,66,GB 12,0,OAK,
+8,1164,3,12:53,"(12:53) (No Huddle, Shotgun) A.Rodgers pass incomplete deep left to D.Adams.",15,2,-1,GB 21,0,GB,
+8,1068,1,14:48,(14:48) E.Lacy right tackle to GB 21 for -1 yards (D.Williams).,10,2,-1,GB 22,0,GB,
+8,1046,0,14:53,S.Janikowski kicks 60 yards from OAK 35 to GB 5. J.Janis to GB 22 for 17 yards (J.Olawale).,0,2,0,OAK 35,0,OAK,KICKOFF
+8,1145,2,13:35,"(13:35) (No Huddle, Shotgun) A.Rodgers sacked at GB 21 for -9 yards (B.Heeney).",6,2,-1,GB 30,0,GB,
+8,1186,4,12:46,"(12:46) T.Masthay punts 57 yards to OAK 22, Center-B.Goode, downed by GB-J.Janis.",15,2,-1,GB 21,0,GB,PUNT
+8,1124,1,14:08,(14:08) E.Lacy right tackle to GB 30 for 4 yards (S.McGee).,10,2,8,GB 26,0,GB,
+8,1089,2,14:24,"(14:24) (No Huddle, Shotgun) A.Rodgers pass short left to J.Jones to GB 24 for 3 yards (D.Hayden). PENALTY on OAK-D.Amerson, Illegal Use of Hands, 5 yards, enforced at GB 21 - No Play.",11,2,-1,GB 21,0,GB,PENALTY
+11,1631,2,06:07,(6:07) L.Murray up the middle to OAK 33 for 3 yards (B.Raji).,10,2,3,OAK 30,0,OAK,
+11,1677,4,05:11,"(5:11) M.King punts 60 yards to GB 2, Center-T.Gafford, downed by OAK-A.Holmes.",2,2,8,OAK 38,0,OAK,PUNT
+11,1653,3,05:27,(5:27) (Shotgun) D.Carr pass short left to M.Rivera to OAK 38 for 5 yards (D.Randall) [M.Neal].,7,2,8,OAK 33,0,OAK,
+11,1606,1,06:13,(6:13) (Shotgun) D.Carr pass incomplete deep right to M.Rivera.,10,2,0,OAK 30,0,OAK,
+10,1423,0,08:36,S.Janikowski kicks 64 yards from OAK 35 to GB 1. J.Janis to GB 23 for 22 yards (L.Alexander).,0,2,0,OAK 35,0,OAK,KICKOFF
+10,1536,3,07:09,"(7:09) (No Huddle, Shotgun) A.Rodgers pass short left to R.Rodgers to GB 45 for 7 yards (M.Smith).",8,2,22,GB 38,0,GB,
+10,1445,1,08:31,(8:31) A.Rodgers pass short middle to D.Adams to GB 29 for 6 yards (D.Amerson).,10,2,6,GB 23,0,GB,
+10,1493,1,07:42,(7:42) (No Huddle) A.Rodgers pass incomplete short left.,10,2,13,GB 36,0,GB,
+10,1469,2,08:04,(8:04) A.Rodgers pass short left to J.Jones to GB 36 for 7 yards (D.Hayden).,4,2,13,GB 29,0,GB,
+10,1515,2,07:36,(7:36) J.Starks left tackle to GB 38 for 2 yards (D.Autry).,10,2,15,GB 36,0,GB,
+10,1577,4,06:20,"(6:20) T.Masthay punts 55 yards to end zone, Center-B.Goode, Touchback. PENALTY on GB-J.Ryan, Offensive Holding, 10 yards, enforced at OAK 20.",1,2,22,GB 45,0,GB,PUNT
+10,1560,0,06:21,Timeout #1 by GB at 06:21.,0,2,22,,0,,TIMEOUT
+13,2083,1,01:22,(1:22) (Shotgun) D.Carr pass short middle to M.Reece to 50 for 29 yards (M.Hyde).,10,2,29,OAK 21,0,OAK,
+13,2157,1,00:25,"(:25) (Shotgun) D.Carr pass deep right to A.Cooper for 19 yards, TOUCHDOWN.",10,2,79,GB 19,1,OAK,TD
+13,2107,1,00:55,"(:55) (No Huddle, Shotgun) D.Carr pass short left to M.Rivera to GB 36 for 14 yards (H.Clinton-Dix).",10,2,43,50,0,OAK,
+13,2177,0,00:20,"S.Janikowski extra point is GOOD, Center-T.Gafford, Holder-M.King.",0,2,79,GB 15,1,OAK,XP
+13,2131,1,00:33,"(:33) (No Huddle, Shotgun) D.Carr scrambles left end ran ob at GB 19 for 17 yards (M.Neal).",10,2,60,GB 36,0,OAK,
+12,1777,3,04:17,"(4:17) (Shotgun) A.Rodgers pass incomplete deep right to R.Cobb. PENALTY on OAK-T.Carrie, Defensive Pass Interference, 17 yards, enforced at GB 7 - No Play.",5,2,22,GB 7,0,GB,PENALTY
+12,1831,2,03:43,(3:43) (Shotgun) A.Rodgers pass incomplete short middle to R.Rodgers.,7,2,25,GB 27,0,GB,
+12,1810,1,04:12,(4:12) J.Starks left tackle to GB 27 for 3 yards (D.Williams).,10,2,53,GB 24,0,GB,
+12,1981,1,02:00,(2:00) A.Rodgers pass short right to D.Adams to OAK 32 for 8 yards (D.Amerson).,10,2,66,OAK 40,0,GB,
+12,1964,0,02:00,Two-Minute Warning,0,2,58,,0,,
+12,1940,3,02:22,(2:22) (Shotgun) A.Rodgers pass short left to J.Perillo to OAK 40 for 5 yards (M.Smith).,5,2,58,OAK 45,0,GB,
+12,1853,3,03:38,(3:38) (Shotgun) A.Rodgers pass short middle to R.Cobb to 50 for 23 yards (D.Hayden).,7,2,48,GB 27,0,GB,
+12,1722,2,04:28,(4:28) (No Huddle) A.Rodgers pass incomplete deep right to J.Jones (D.Amerson).,10,2,0,GB 2,0,GB,
+12,1877,1,03:05,"(3:05) (No Huddle, Shotgun) A.Rodgers pass short left to J.Starks to OAK 45 for 5 yards (M.Smith).",10,2,53,50,0,GB,
+12,1923,0,02:22,Timeout #2 by OAK at 02:22.,0,2,53,,0,,TIMEOUT
+12,2005,2,01:30,"(1:30) (No Huddle) J.Starks left end to OAK 21 for 11 yards (B.Mayowa). FUMBLES (B.Mayowa), RECOVERED by OAK-B.Mayowa at OAK 21. B.Mayowa to OAK 21 for no gain (R.Rodgers). The Replay Official reviewed the fumble ruling, and the play was Upheld. The ruling on the field stands.",2,2,77,OAK 32,0,GB,FUMBLE
+12,1744,3,04:17,"(4:17) A.Rodgers pass incomplete deep right to J.Jones. PENALTY on OAK, Defensive 12 On-field, 5 yards, enforced at GB 2 - No Play.",10,2,5,GB 2,0,GB,PENALTY
+12,1901,2,02:26,"(2:26) (No Huddle, Shotgun) A.Rodgers pass incomplete short middle to R.Rodgers.",5,2,53,OAK 45,0,GB,
+12,1699,1,04:58,(4:58) E.Lacy left tackle to GB 2 for no gain (J.Ellis).,10,2,25,GB 2,0,GB,
+15,2374,4,13:23,"(13:23) M.King punts 44 yards to GB 36, Center-T.Gafford. M.Hyde to 50 for 14 yards (L.Asante).",10,3,0,OAK 20,0,OAK,PUNT
+15,2339,3,13:39,"(13:39) (Shotgun) D.Carr pass short right to C.Walford to OAK 20 for 4 yards (C.Hayward). Penalty on OAK-J.Feliciano, Offensive Holding, declined.",14,3,0,OAK 16,0,OAK,
+15,2277,0,15:00,M.Crosby kicks 64 yards from GB 35 to OAK 1. T.Jones to OAK 20 for 19 yards (A.Ripkowski).,0,3,0,GB 35,0,GB,KICKOFF
+15,2320,2,14:19,(14:19) (Shotgun) D.Carr sacked at OAK 16 for -4 yards (J.Peppers).,10,3,-4,OAK 20,0,OAK,
+15,2299,1,14:54,(14:54) (Shotgun) L.Murray right guard to OAK 20 for no gain (M.Daniels).,10,3,0,OAK 20,0,OAK,
+14,2261,0,,END QUARTER 2,0,2,8,,0,,
+14,2193,0,00:20,S.Janikowski kicks 39 yards from OAK 35 to GB 26. J.Kuhn to GB 35 for 9 yards (T.Jones).,0,2,0,OAK 35,0,OAK,KICKOFF
+14,2237,2,00:06,(:06) (Shotgun) A.Rodgers pass short right to D.Adams to GB 43 for 8 yards (D.Amerson).,10,2,8,GB 35,0,GB,
+14,2215,1,00:14,(:14) (Shotgun) A.Rodgers pass incomplete deep left to J.Jones.,10,2,0,GB 35,0,GB,
+17,2597,0,10:18,M.Crosby kicks 68 yards from GB 35 to OAK -3. T.Jones to OAK 19 for 22 yards (N.Palmer).,0,3,0,GB 35,0,GB,KICKOFF
+17,2709,3,09:06,(9:06) (Shotgun) D.Carr pass short left to M.Reece to GB 31 for 9 yards (D.Randall).,10,3,50,GB 40,0,OAK,
+17,2733,4,08:20,(8:20) K.Barnes reported in as eligible.  L.Murray up the middle to GB 28 for 3 yards (B.Raji).,1,3,53,GB 31,0,OAK,
+17,2641,2,10:08,(10:08) D.Carr pass deep right to A.Cooper to GB 40 for 41 yards (M.Burnett; D.Randall).,10,3,41,OAK 19,0,OAK,
+17,2619,1,10:12,(10:12) (Shotgun) D.Carr pass incomplete short right to L.Murray.,10,3,0,OAK 19,0,OAK,
+17,2777,2,06:54,"(6:54) D.Carr pass deep right to A.Cooper for 26 yards, TOUCHDOWN.",8,3,81,GB 26,1,OAK,TD
+17,2756,1,07:39,(7:39) L.Murray right tackle to GB 26 for 2 yards (J.Ryan).,10,3,55,GB 28,0,OAK,
+17,2665,1,09:20,(9:20) (Shotgun) D.Carr pass incomplete deep middle to A.Holmes (M.Burnett).,10,3,41,GB 40,0,OAK,
+17,2687,2,09:14,(9:14) (Shotgun) D.Carr pass incomplete deep left to A.Holmes.,10,3,41,GB 40,0,OAK,
+17,2797,0,06:48,"S.Janikowski extra point is GOOD, Center-T.Gafford, Holder-M.King.",0,3,81,GB 15,1,OAK,XP
+16,2441,3,12:02,(12:02) E.Lacy left tackle to OAK 42 for no gain (S.Harris).,2,3,8,OAK 42,0,GB,
+16,2555,3,10:25,(10:25) (Shotgun) A.Rodgers pass incomplete short right to J.Janis.,2,3,44,OAK 6,0,GB,
+16,2462,4,11:17,"(11:17) (Shotgun) A.Rodgers pass incomplete deep right to R.Cobb. PENALTY on OAK-T.Carrie, Defensive Pass Interference, 28 yards, enforced at OAK 42 - No Play.",2,3,36,OAK 42,0,GB,PENALTY
+16,2420,2,12:38,(12:38) E.Lacy left end to OAK 42 for 7 yards (B.Mayowa).,9,3,8,OAK 49,0,GB,
+16,2577,4,10:21,"(10:21) M.Crosby 24 yard field goal is GOOD, Center-B.Goode, Holder-T.Masthay.",2,3,44,OAK 6,1,GB,FG
+16,2495,1,11:08,(11:08) (Shotgun) A.Rodgers pass incomplete short left to D.Adams.,10,3,36,OAK 14,0,GB,
+16,2538,0,10:25,Timeout #1 by GB at 10:25.,0,3,44,,0,,TIMEOUT
+16,2517,2,11:03,(11:03) E.Lacy left end to OAK 6 for 8 yards (M.Smith).,10,3,44,OAK 14,0,GB,
+16,2399,1,13:15,(13:15) E.Lacy right tackle to OAK 49 for 1 yard (D.Autry).,10,3,1,50,0,GB,
+19,3039,2,03:36,(3:36) (Shotgun) D.Carr pass incomplete short right to M.Rivera.,10,3,23,OAK 43,0,OAK,
+19,2919,0,05:46,"M.Crosby kicks 65 yards from GB 35 to end zone, Touchback.",0,3,0,GB 35,0,GB,KICKOFF
+19,2934,1,05:46,(5:46) (Shotgun) D.Carr pass short right to A.Cooper to OAK 26 for 6 yards (M.Burnett).,10,3,6,OAK 20,0,OAK,
+19,3022,0,03:36,Timeout #1 by OAK at 03:36.,0,3,23,,0,,TIMEOUT
+19,3061,3,03:30,(3:30) (Shotgun) D.Carr pass incomplete deep middle to A.Cooper.,10,3,23,OAK 43,0,OAK,
+19,2979,3,04:31,(4:31) (Shotgun) D.Carr scrambles up the middle to OAK 43 for 19 yards (C.Hayward).,6,3,23,OAK 24,0,OAK,
+19,2958,2,05:11,(5:11) L.Murray up the middle to OAK 24 for -2 yards (M.Neal).,4,3,23,OAK 26,0,OAK,
+19,3000,1,03:40,(3:40) (Shotgun) D.Carr pass incomplete deep left to C.Walford.,10,3,23,OAK 43,0,OAK,
+19,3083,4,03:25,"(3:25) M.King punts 52 yards to GB 5, Center-T.Gafford, downed by OAK-D.McDonald.",10,3,23,OAK 43,0,OAK,PUNT
+18,2859,1,06:12,"(6:12) (No Huddle, Shotgun) A.Rodgers pass short right to J.Jones to OAK 30 for 8 yards (D.Amerson).",10,3,23,OAK 38,0,GB,
+18,2883,2,05:52,"(5:52) (No Huddle, Shotgun) A.Rodgers pass deep right to J.Jones for 30 yards, TOUCHDOWN.",2,3,53,OAK 30,1,GB,TD
+18,2835,1,06:42,(6:42) (Shotgun) A.Rodgers pass short middle to J.Abbrederis to OAK 38 for 15 yards (C.Woodson).,10,3,15,GB 47,0,GB,
+18,2903,0,05:46,"M.Crosby extra point is GOOD, Center-B.Goode, Holder-T.Masthay.",0,3,53,OAK 15,1,GB,XP
+18,2813,0,06:48,S.Janikowski kicks 65 yards from OAK 35 to GB 0. J.Janis to GB 47 for 47 yards (K.Toomer).,0,3,0,OAK 35,0,OAK,KICKOFF

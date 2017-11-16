@@ -1,165 +1,165 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1571,1,04:37,,15,2,15,PIT 32,0,PIT,
-9,1592,2,03:49,,7,2,21,PIT 40,0,PIT,
-9,1504,0,05:23,,0,2,0,MIA 35,0,MIA,KICKOFF
-9,1635,4,02:57,,1,2,21,PIT 46,0,PIT,PUNT
-9,1523,1,05:23,,10,2,12,PIT 25,0,PIT,
-9,1613,3,03:07,,1,2,21,PIT 46,0,PIT,
-9,1548,1,04:52,,10,2,7,PIT 37,0,PIT,PENALTY
-10,1713,2,02:00,,10,2,71,MIA 43,0,MIA,
-10,1696,0,02:00,,0,2,14,,0,,
-10,1856,0,00:25,,0,2,70,,0,,TIMEOUT
-10,1675,1,02:15,,10,2,14,MIA 43,0,MIA,
-10,1902,0,00:21,,0,2,71,PIT 15,1,MIA,XP
-10,1873,2,00:25,,1,2,71,PIT 1,1,MIA,TD
-10,1768,1,01:49,,10,2,27,PIT 44,0,MIA,
-10,1654,1,02:47,,10,2,14,MIA 29,0,MIA,
-10,1811,3,01:09,,7,2,69,PIT 41,0,MIA,
-10,1790,2,01:45,,10,2,30,PIT 44,0,MIA,
-10,1744,3,01:55,,4,2,27,MIA 49,0,MIA,
-10,1835,1,00:34,,2,2,70,PIT 2,0,MIA,
-20,3629,0,00:50,,0,4,62,PIT 15,1,MIA,XP
-20,3612,1,01:01,,10,4,62,MIA 38,1,MIA,TD
-20,3590,0,01:02,,0,4,62,50,0,PIT,KICKOFF
-6,1283,3,08:26,,4,2,85,PIT 4,0,MIA,
-6,972,1,00:26,,10,1,8,MIA 11,0,MIA,
-6,1114,1,12:33,,10,2,28,MIA 32,0,MIA,
-6,1206,1,09:55,,1,2,85,PIT 1,0,MIA,PENALTY
-6,996,0,,,0,1,8,,0,,
-6,1045,3,14:19,,1,2,11,MIA 20,0,MIA,
-6,1066,1,13:42,,10,2,18,MIA 22,0,MIA,
-6,1238,1,09:49,,6,2,78,PIT 6,0,MIA,
-6,1024,2,15:00,,2,2,9,MIA 19,0,MIA,
-6,1305,4,08:21,,4,2,85,PIT 4,1,MIA,FG
-6,1259,2,09:14,,11,2,85,PIT 11,0,MIA,
-6,1158,2,11:32,,8,2,35,MIA 34,0,MIA,
-6,1090,2,13:08,,3,2,21,MIA 29,0,MIA,
-6,1135,2,11:52,,3,2,23,MIA 39,0,MIA,PENALTY
-6,1182,1,10:45,,10,2,85,MIA 46,0,MIA,
-18,3083,1,09:27,,10,4,20,MIA 22,0,MIA,
-18,3191,0,05:56,,0,4,53,,0,,TIMEOUT
-18,3059,3,09:49,,2,4,13,MIA 17,0,MIA,
-18,3208,1,05:56,,10,4,53,PIT 38,0,MIA,
-18,3251,3,05:14,,10,4,55,PIT 38,0,MIA,
-18,3149,1,07:09,,10,4,53,50,0,MIA,
-18,3104,2,08:32,,3,4,22,MIA 29,0,MIA,
-18,3038,2,10:26,,8,4,8,MIA 11,0,MIA,
-18,3125,3,07:57,,1,4,41,MIA 31,0,MIA,
-18,3275,4,04:29,,8,4,55,PIT 36,0,MIA,PUNT
-18,3017,1,11:01,,10,4,2,MIA 9,0,MIA,
-18,3170,2,06:28,,11,4,53,MIA 49,0,MIA,
-18,3229,2,05:19,,10,4,53,PIT 38,0,MIA,
-1,178,4,12:22,,6,1,14,PIT 38,0,PIT,PUNT
-1,58,1,14:55,,10,1,4,PIT 24,0,PIT,
-1,124,2,13:09,,8,1,14,PIT 36,0,PIT,
-1,79,2,14:20,,6,1,14,PIT 28,0,PIT,
-1,145,3,12:27,,6,1,14,PIT 38,0,PIT,
-1,103,1,13:47,,10,1,12,PIT 34,0,PIT,
-1,36,0,15:00,,0,1,0,MIA 35,0,MIA,KICKOFF
-5,934,3,01:07,,10,1,31,MIA 29,0,PIT,
-5,824,3,03:20,,1,1,22,PIT 40,0,PIT,
-5,953,4,00:45,,19,1,31,MIA 38,0,PIT,PUNT
-5,762,1,04:48,,10,1,8,PIT 31,0,PIT,
-5,890,1,01:40,,10,1,40,MIA 29,0,PIT,
-5,912,2,01:11,,10,1,40,MIA 29,0,PIT,
-5,786,2,04:13,,2,1,9,PIT 39,0,PIT,
-5,807,0,03:20,,0,1,9,,0,,TIMEOUT
-5,845,1,02:37,,10,1,28,MIA 47,0,PIT,
-5,866,2,02:00,,4,1,40,MIA 41,0,PIT,
-13,2324,3,08:15,,9,3,12,PIT 20,0,PIT,
-13,2372,1,06:58,,10,3,29,PIT 47,0,PIT,
-13,2348,1,07:40,,10,3,28,PIT 31,0,PIT,
-13,2303,2,08:57,,10,3,1,PIT 19,0,PIT,
-13,2281,1,09:01,,10,3,0,PIT 19,0,PIT,
-13,2425,2,06:02,,19,3,26,PIT 38,0,PIT,
-13,2393,2,06:27,,9,3,19,PIT 48,0,PIT,PENALTY
-13,2446,3,05:20,,12,3,26,PIT 45,0,PIT,INT
-21,3717,3,00:16,,6,4,4,PIT 44,0,PIT,
-21,3695,2,00:21,,6,4,4,PIT 44,0,PIT,
-21,3739,4,00:11,,6,4,9,PIT 44,0,PIT,
-21,3671,1,00:50,,10,4,4,PIT 40,0,PIT,
-21,3645,0,00:50,,0,4,0,MIA 35,0,MIA,KICKOFF
-11,1951,1,00:15,,10,2,-1,PIT 12,0,PIT,
-11,1978,0,,,0,2,-1,,0,,
-11,1918,0,00:21,,0,2,-1,MIA 20,0,MIA,KICKOFF
-14,2627,0,01:39,,0,3,52,PIT 15,1,MIA,XP
-14,2482,1,05:10,,10,3,33,MIA 48,0,MIA,
-14,2610,2,01:45,,1,3,52,PIT 1,1,MIA,TD
-14,2503,1,04:26,,10,3,52,PIT 19,0,MIA,
-14,2548,3,02:56,,7,3,47,PIT 16,0,MIA,
-14,2572,0,02:14,,0,3,47,,0,,TIMEOUT
-14,2527,2,03:41,,7,3,36,PIT 16,0,MIA,
-14,2589,1,02:14,,5,3,51,PIT 5,0,MIA,
-8,1485,4,05:33,,9,2,1,PIT 12,1,MIA,FG
-8,1461,3,06:15,,14,2,1,PIT 17,0,MIA,
-8,1405,2,07:47,,4,2,-4,PIT 7,0,MIA,PENALTY
-8,1376,1,08:06,,10,2,6,PIT 13,0,MIA,
-8,1437,2,07:02,,14,2,1,PIT 17,0,MIA,
-19,3305,1,04:20,,10,4,13,PIT 3,0,PIT,
-19,3329,1,03:48,,10,4,16,PIT 16,0,PIT,
-19,3563,0,01:02,,0,4,97,MIA 15,1,PIT,XP
-19,3519,1,01:44,,10,4,74,MIA 29,0,PIT,
-19,3490,3,01:52,,10,4,68,MIA 47,0,PIT,
-19,3353,2,03:15,,7,4,29,PIT 19,0,PIT,
-19,3377,1,02:42,,10,4,35,PIT 32,0,PIT,
-19,3429,1,02:03,,10,4,50,MIA 47,0,PIT,
-19,3468,2,01:59,,10,4,50,MIA 47,0,PIT,
-19,3451,0,01:59,,0,4,50,,0,,
-19,3543,2,01:08,,4,4,97,MIA 23,1,PIT,TD
-19,3405,2,02:16,,4,4,50,PIT 38,0,PIT,
-22,3784,0,00:00,,0,4,-1,,0,,
-22,3763,1,00:04,,10,4,-1,PIT 48,0,MIA,
-12,2038,2,14:22,,10,3,8,MIA 25,0,MIA,
-12,2114,2,12:34,,7,3,70,MIA 41,0,MIA,PENALTY
-12,2234,3,09:49,,1,3,69,PIT 5,0,MIA,
-12,2168,2,12:03,,10,3,69,PIT 24,0,MIA,
-12,2017,1,15:00,,10,3,0,MIA 25,0,MIA,
-12,2090,1,13:16,,10,3,16,MIA 38,0,MIA,
-12,2062,3,13:39,,2,3,13,MIA 33,0,MIA,
-12,1994,0,15:00,,0,3,0,PIT 35,0,PIT,KICKOFF
-12,2255,4,09:26,,2,3,69,PIT 6,0,MIA,FGB
-12,2210,2,10:37,,11,3,70,PIT 15,0,MIA,
-12,2146,1,12:05,,10,3,69,PIT 24,0,MIA,
-12,2189,1,11:21,,10,3,60,PIT 14,0,MIA,
-16,2864,3,12:59,,6,4,21,PIT 36,0,MIA,
-16,2888,4,12:15,,1,4,21,PIT 31,0,MIA,FGM
-16,2801,2,15:00,,1,4,12,PIT 43,0,MIA,
-16,2843,2,13:41,,6,4,16,PIT 36,0,MIA,
-16,2822,1,14:26,,10,4,16,PIT 40,0,MIA,
-16,2785,0,,,0,3,9,,0,,
-16,2761,1,00:26,,10,3,9,MIA 48,0,MIA,
-7,1324,0,08:18,,0,2,0,MIA 35,0,MIA,KICKOFF
-7,1339,1,08:18,,10,2,0,PIT 25,0,PIT,INT
-3,571,3,06:15,,10,1,15,PIT 36,0,PIT,PENALTY
-3,515,2,07:19,,7,1,7,PIT 39,0,PIT,PENALTY
-3,494,1,08:01,,10,1,14,PIT 36,0,PIT,
-3,547,2,06:57,,14,1,11,PIT 32,0,PIT,
-3,602,1,05:52,,10,1,75,PIT 40,1,PIT,TD
-3,455,0,08:34,,0,1,75,MIA 35,0,MIA,KICKOFF
-3,470,1,08:34,,10,1,11,PIT 25,0,PIT,
-3,619,0,05:39,,0,1,75,MIA 2,1,PIT,2PS
-17,2932,1,11:24,,10,4,10,50,0,PIT,
-17,2908,1,12:10,,10,4,10,PIT 40,0,PIT,
-17,2954,2,11:19,,10,4,10,50,0,PIT,
-17,2976,3,11:13,,10,4,10,50,0,PIT,
-17,2998,4,11:09,,10,4,10,50,0,PIT,PUNT
-4,662,1,05:39,,10,1,1,MIA 25,0,MIA,
-4,644,0,05:39,,0,1,0,PIT 35,0,PIT,KICKOFF
-4,744,4,04:56,,9,1,1,MIA 26,0,MIA,PUNT
-4,705,0,05:01,,0,1,1,,0,,TIMEOUT
-4,722,3,05:01,,9,1,1,MIA 26,0,MIA,
-4,683,2,05:09,,9,1,1,MIA 26,0,MIA,
-2,408,4,08:38,,6,1,53,PIT 12,1,MIA,FG
-2,203,1,12:13,,10,1,-10,MIA 35,0,MIA,PENALTY
-2,386,3,08:42,,6,1,53,PIT 12,0,MIA,
-2,294,1,10:49,,10,1,39,PIT 26,0,MIA,
-2,362,2,09:29,,7,1,53,PIT 13,0,MIA,
-2,273,1,11:26,,10,1,39,PIT 38,0,MIA,
-2,341,1,10:08,,10,1,52,PIT 16,0,MIA,
-2,238,2,11:48,,20,1,27,MIA 25,0,MIA,PENALTY
-2,316,2,10:42,,10,1,49,PIT 26,0,MIA,
-15,2643,0,01:39,,0,3,0,MIA 35,0,MIA,KICKOFF
-15,2665,1,01:34,,10,3,0,PIT 13,0,PIT,
-15,2711,3,00:48,,5,3,5,PIT 18,0,PIT,
-15,2687,2,01:27,,10,3,5,PIT 13,0,PIT,
-15,2733,4,00:39,,5,3,5,PIT 18,0,PIT,PUNT
+20,3629,0,00:50,"A.Franks extra point is GOOD, Center-J.Denney, Holder-M.Darr.",0,4,62,PIT 15,1,MIA,XP
+20,3612,1,01:01,"(1:01) J.Ajayi right end for 62 yards, TOUCHDOWN.",10,4,62,MIA 38,1,MIA,TD
+20,3590,0,01:02,C.Boswell kicks onside 12 yards from 50 to MIA 38. J.Landry (didn't try to advance) to MIA 38 for no gain (R.Nix).,0,4,62,50,0,PIT,KICKOFF
+21,3645,0,00:50,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback. PENALTY on MIA-K.Drake, Unnecessary Roughness, 15 yards, enforced at PIT 25.",0,4,0,MIA 35,0,MIA,KICKOFF
+21,3671,1,00:50,(:50) (Shotgun) B.Roethlisberger pass short left to L.Bell to PIT 44 for 4 yards (S.Paysinger) [J.Jones].,10,4,4,PIT 40,0,PIT,
+21,3717,3,00:16,(:16) (Shotgun) B.Roethlisberger pass incomplete short right to J.James.,6,4,4,PIT 44,0,PIT,
+21,3695,2,00:21,"(:21) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short left to L.Bell [N.Suh].",6,4,4,PIT 44,0,PIT,
+21,3739,4,00:11,(:11) (Shotgun) B.Roethlisberger pass short right to A.Brown to PIT 49 for 5 yards (S.Paysinger).,6,4,9,PIT 44,0,PIT,
+22,3763,1,00:04,(:04) R.Tannehill kneels to PIT 49 for -1 yards.,10,4,-1,PIT 48,0,MIA,
+22,3784,0,00:00,END GAME,0,4,-1,,0,,
+1,145,3,12:27,"(12:27) (Shotgun) B.Roethlisberger pass incomplete short left to X.Grimble. Penalty on PIT-C.Hubbard, Offensive Holding, declined.",6,1,14,PIT 38,0,PIT,
+1,58,1,14:55,(14:55) (Shotgun) L.Bell left guard to PIT 28 for 4 yards (K.Alonso).,10,1,4,PIT 24,0,PIT,
+1,36,0,15:00,A.Franks kicks 61 yards from MIA 35 to PIT 4. F.Toussaint to PIT 24 for 20 yards (M.Hull).,0,1,0,MIA 35,0,MIA,KICKOFF
+1,124,2,13:09,(13:09) (Shotgun) D.Williams left tackle to PIT 38 for 2 yards (R.Jones).,8,1,14,PIT 36,0,PIT,
+1,178,4,12:22,"(12:22) (Punt formation) J.Berry punts 38 yards to MIA 24, Center-G.Warren. J.Landry pushed ob at MIA 35 for 11 yards (S.Johnson).",6,1,14,PIT 38,0,PIT,PUNT
+1,103,1,13:47,(13:47) L.Bell left guard to PIT 36 for 2 yards (N.Suh).,10,1,12,PIT 34,0,PIT,
+1,79,2,14:20,(14:20) (Shotgun) B.Roethlisberger pass short left to L.Bell to PIT 34 for 6 yards (B.McCain; T.Lippett).,6,1,14,PIT 28,0,PIT,
+3,619,0,05:39,(Pass formation) TWO-POINT CONVERSION ATTEMPT. B.Roethlisberger pass to L.Bell is complete. ATTEMPT SUCCEEDS.,0,1,75,MIA 2,1,PIT,2PS
+3,602,1,05:52,"(5:52) D.Heyward-Bey left end for 60 yards, TOUCHDOWN.",10,1,75,PIT 40,1,PIT,TD
+3,571,3,06:15,"(6:15) (Shotgun) B.Roethlisberger sacked at PIT 25 for -11 yards (A.Branch). PENALTY on MIA-J.Jones, Unnecessary Roughness, 15 yards, enforced at PIT 25. Penalty on MIA-B.Maxwell, Defensive Holding, declined.",10,1,15,PIT 36,0,PIT,PENALTY
+3,455,0,08:34,"MIA attempted an onside kick prior to the officials' whistle.  Re-kick. A.Franks kicks 65 yards from MIA 35 to end zone, Touchback.",0,1,75,MIA 35,0,MIA,KICKOFF
+3,470,1,08:34,(8:34) (Shotgun) B.Roethlisberger pass short left to X.Grimble to PIT 36 for 11 yards (T.Lippett).,10,1,11,PIT 25,0,PIT,
+3,547,2,06:57,(6:57) (Shotgun) B.Roethlisberger pass short left to L.Bell to PIT 36 for 4 yards (A.Branch).,14,1,11,PIT 32,0,PIT,
+3,494,1,08:01,(8:01) L.Bell right guard to PIT 39 for 3 yards (N.Hewitt; K.Alonso).,10,1,14,PIT 36,0,PIT,
+3,515,2,07:19,"(7:19) L.Bell right tackle to PIT 42 for 3 yards (K.Alonso). PENALTY on PIT-J.James, Offensive Holding, 10 yards, enforced at PIT 42.",7,1,7,PIT 39,0,PIT,PENALTY
+2,203,1,12:13,"(12:13) (Shotgun) R.Tannehill pass short right to K.Stills to MIA 40 for 5 yards (R.Cockrell). PENALTY on MIA-J.James, Unsportsmanlike Conduct, 15 yards, enforced at MIA 40.",10,1,-10,MIA 35,0,MIA,PENALTY
+2,316,2,10:42,(10:42) J.Ajayi left tackle pushed ob at PIT 16 for 10 yards (A.Burns).,10,1,49,PIT 26,0,MIA,
+2,273,1,11:26,(11:26) (Shotgun) J.Ajayi left end pushed ob at PIT 26 for 12 yards (A.Burns).,10,1,39,PIT 38,0,MIA,
+2,238,2,11:48,"(11:48) (Shotgun) R.Tannehill pass short left to J.Landry pushed ob at MIA 47 for 22 yards (M.Mitchell). PENALTY on PIT-M.Mitchell, Unnecessary Roughness, 15 yards, enforced at MIA 47.",20,1,27,MIA 25,0,MIA,PENALTY
+2,341,1,10:08,(10:08) J.Ajayi left guard to PIT 13 for 3 yards (S.Tuitt).,10,1,52,PIT 16,0,MIA,
+2,386,3,08:42,(8:42) (Shotgun) R.Tannehill pass incomplete short right to J.Ajayi.,6,1,53,PIT 12,0,MIA,
+2,294,1,10:49,(10:49) R.Tannehill pass incomplete deep middle to D.Parker. PIT-M.Mitchell was injured during the play. His return is Questionable.,10,1,39,PIT 26,0,MIA,
+2,362,2,09:29,(9:29) (Shotgun) R.Tannehill pass short right to D.Parker to PIT 12 for 1 yard (R.Cockrell).,7,1,53,PIT 13,0,MIA,
+2,408,4,08:38,"(8:38) (Field Goal formation) A.Franks 30 yard field goal is GOOD, Center-J.Denney, Holder-M.Darr.",6,1,53,PIT 12,1,MIA,FG
+5,890,1,01:40,(1:40) B.Roethlisberger pass incomplete deep left to X.Grimble.,10,1,40,MIA 29,0,PIT,
+5,786,2,04:13,(4:13) D.Williams up the middle to PIT 40 for 1 yard (M.Williams).,2,1,9,PIT 39,0,PIT,
+5,762,1,04:48,(4:48) B.Roethlisberger pass short left to J.James to PIT 39 for 8 yards (T.Lippett; N.Hewitt).,10,1,8,PIT 31,0,PIT,
+5,953,4,00:45,"(:45) (Punt formation) J.Berry punts 27 yards to MIA 11, Center-G.Warren, fair catch by J.Landry.",19,1,31,MIA 38,0,PIT,PUNT
+5,845,1,02:37,(2:37) A.Brown right end pushed ob at MIA 41 for 6 yards (C.Wake).,10,1,28,MIA 47,0,PIT,
+5,866,2,02:00,(2:00) B.Roethlisberger pass short right to A.Brown to MIA 29 for 12 yards (B.Maxwell).,4,1,40,MIA 41,0,PIT,
+5,824,3,03:20,(3:20) L.Bell up the middle to MIA 47 for 13 yards (I.Abdul-Quddus).,1,1,22,PIT 40,0,PIT,
+5,934,3,01:07,(1:07) (Shotgun) B.Roethlisberger sacked at MIA 38 for -9 yards (sack split by C.Wake and A.Branch).,10,1,31,MIA 29,0,PIT,
+5,807,0,03:20,Timeout #2 by PIT at 03:20.,0,1,9,,0,,TIMEOUT
+5,912,2,01:11,(1:11) (Shotgun) B.Roethlisberger pass incomplete short right to A.Brown.,10,1,40,MIA 29,0,PIT,
+4,744,4,04:56,"(4:56) (Punt formation) M.Darr punts 43 yards to PIT 31, Center-J.Denney, out of bounds.",9,1,1,MIA 26,0,MIA,PUNT
+4,705,0,05:01,Timeout #1 by PIT at 05:01.,0,1,1,,0,,TIMEOUT
+4,662,1,05:39,(5:39) J.Ajayi up the middle to MIA 26 for 1 yard (A.Chickillo).,10,1,1,MIA 25,0,MIA,
+4,722,3,05:01,(5:01) (Shotgun) R.Tannehill pass incomplete short right to J.Landry [A.Chickillo].,9,1,1,MIA 26,0,MIA,
+4,644,0,05:39,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback.",0,1,0,PIT 35,0,PIT,KICKOFF
+4,683,2,05:09,(5:09) R.Tannehill pass incomplete short right to K.Stills (W.Gay).,9,1,1,MIA 26,0,MIA,
+7,1339,1,08:18,"(8:18) B.Roethlisberger pass short right intended for S.Coates INTERCEPTED by R.Jones at PIT 30. R.Jones to PIT 13 for 17 yards (J.James). PIT-B.Roethlisberger was injured during the play. His return is Questionable.  Penalty on PIT-X.Grimble, Offensive Holding, declined. The Replay Official reviewed the pass interception ruling, and the play was Upheld. The ruling on the field stands.",10,2,0,PIT 25,0,PIT,INT
+7,1324,0,08:18,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback.",0,2,0,MIA 35,0,MIA,KICKOFF
+6,1024,2,15:00,(15:00) J.Ajayi right tackle to MIA 20 for 1 yard (J.Harrison; J.Hargrave).,2,2,9,MIA 19,0,MIA,
+6,996,0,,END QUARTER 1,0,1,8,,0,,
+6,1090,2,13:08,(13:08) (Shotgun) R.Tannehill pass short middle to D.Parker to MIA 32 for 3 yards (W.Gay).,3,2,21,MIA 29,0,MIA,
+6,972,1,00:26,(:26) (Shotgun) R.Tannehill pass short left to D.Jones pushed ob at MIA 19 for 8 yards (J.Harrison).,10,1,8,MIA 11,0,MIA,
+6,1045,3,14:19,(14:19) J.Ajayi left tackle to MIA 22 for 2 yards (V.Williams).,1,2,11,MIA 20,0,MIA,
+6,1305,4,08:21,"(8:21) (Field Goal formation) A.Franks 23 yard field goal is GOOD, Center-J.Denney, Holder-M.Darr.",4,2,85,PIT 4,1,MIA,FG
+6,1238,1,09:49,(9:49) J.Ajayi right end to PIT 11 for -5 yards (J.Harrison).,6,2,78,PIT 6,0,MIA,
+6,1206,1,09:55,"(9:55) (Shotgun) A.Steen reported in as eligible.  R.Tannehill pass short right to D.Jones for 1 yard, TOUCHDOWN NULLIFIED by Penalty. PENALTY on MIA-J.James, Illegal Formation, 5 yards, enforced at PIT 1 - No Play.",1,2,85,PIT 1,0,MIA,PENALTY
+6,1182,1,10:45,(10:45) (Shotgun) R.Tannehill pass deep left to M.Gray pushed ob at PIT 1 for 53 yards (W.Gay).,10,2,85,MIA 46,0,MIA,
+6,1135,2,11:52,"(11:52) PENALTY on MIA-J.Ajayi, False Start, 5 yards, enforced at MIA 39 - No Play.",3,2,23,MIA 39,0,MIA,PENALTY
+6,1066,1,13:42,(13:42) (Shotgun) R.Tannehill pass short left to D.Parker pushed ob at MIA 29 for 7 yards (A.Burns).,10,2,18,MIA 22,0,MIA,
+6,1114,1,12:33,(12:33) J.Ajayi right tackle to MIA 39 for 7 yards (A.Moats).,10,2,28,MIA 32,0,MIA,
+6,1259,2,09:14,(9:14) (Shotgun) R.Tannehill pass short right to K.Stills to PIT 4 for 7 yards (V.Williams).,11,2,85,PIT 11,0,MIA,
+6,1283,3,08:26,(8:26) (Shotgun) R.Tannehill pass incomplete short right to D.Sims (R.Cockrell).,4,2,85,PIT 4,0,MIA,
+6,1158,2,11:32,(11:32) R.Tannehill pass short right to D.Sims to MIA 46 for 12 yards (W.Gay).,8,2,35,MIA 34,0,MIA,
+9,1635,4,02:57,"(2:57) (Punt formation) J.Berry punts 25 yards to MIA 29, Center-G.Warren, downed by PIT-V.Williams.",1,2,21,PIT 46,0,PIT,PUNT
+9,1523,1,05:23,"(5:23) New QB - #3 - Jones, Landry. L.Bell right tackle to PIT 37 for 12 yards (K.Alonso; B.Maxwell).",10,2,12,PIT 25,0,PIT,
+9,1613,3,03:07,(3:07) L.Jones pass incomplete short right to D.Johnson.,1,2,21,PIT 46,0,PIT,
+9,1548,1,04:52,"(4:52) PENALTY on PIT-A.Villanueva, False Start, 5 yards, enforced at PIT 37 - No Play.",10,2,7,PIT 37,0,PIT,PENALTY
+9,1504,0,05:23,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback.",0,2,0,MIA 35,0,MIA,KICKOFF
+9,1592,2,03:49,(3:49) L.Bell right tackle to PIT 46 for 6 yards (N.Hewitt).,7,2,21,PIT 40,0,PIT,
+9,1571,1,04:37,(4:37) (Shotgun) L.Bell right tackle to PIT 40 for 8 yards (N.Suh; R.Jones).,15,2,15,PIT 32,0,PIT,
+8,1437,2,07:02,(7:02) (Shotgun) R.Tannehill pass short left to D.Williams to PIT 17 for no gain (V.Williams).,14,2,1,PIT 17,0,MIA,
+8,1461,3,06:15,(6:15) (Shotgun) R.Tannehill pass short middle to D.Williams to PIT 12 for 5 yards (R.Golden).,14,2,1,PIT 17,0,MIA,
+8,1485,4,05:33,"(5:33) (Field Goal formation) A.Franks 30 yard field goal is GOOD, Center-J.Denney, Holder-M.Darr.",9,2,1,PIT 12,1,MIA,FG
+8,1405,2,07:47,"(7:47) D.Williams right guard to PIT 5 for 2 yards (J.Hargrave). PENALTY on MIA-J.James, Offensive Holding, 10 yards, enforced at PIT 7 - No Play.",4,2,-4,PIT 7,0,MIA,PENALTY
+8,1376,1,08:06,(8:06) J.Ajayi left tackle to PIT 7 for 6 yards (L.Timmons).,10,2,6,PIT 13,0,MIA,
+11,1918,0,00:21,"A.Franks kicks 81 yards from MIA 20 to PIT -1. J.Gilbert to PIT 33 for 34 yards (M.Hull). PENALTY on PIT-S.Johnson, Illegal Block Above the Waist, 10 yards, enforced at PIT 22.",0,2,-1,MIA 20,0,MIA,KICKOFF
+11,1951,1,00:15,(:15) L.Jones kneels to PIT 11 for -1 yards.,10,2,-1,PIT 12,0,PIT,
+11,1978,0,,END QUARTER 2,0,2,-1,,0,,
+10,1713,2,02:00,(2:00) (Shotgun) R.Tannehill pass short left to D.Parker pushed ob at MIA 49 for 6 yards (A.Burns).,10,2,71,MIA 43,0,MIA,
+10,1811,3,01:09,(1:09) (Shotgun) R.Tannehill pass deep left to J.Landry to PIT 2 for 39 yards (A.Burns).,7,2,69,PIT 41,0,MIA,
+10,1835,1,00:34,(:34) (No Huddle) A.Foster left guard to PIT 1 for 1 yard (L.Timmons).,2,2,70,PIT 2,0,MIA,
+10,1790,2,01:45,(1:45) (Shotgun) A.Foster right tackle to PIT 41 for 3 yards (L.Timmons).,10,2,30,PIT 44,0,MIA,
+10,1856,0,00:25,Timeout #1 by MIA at 00:25.,0,2,70,,0,,TIMEOUT
+10,1696,0,02:00,Two-Minute Warning,0,2,14,,0,,
+10,1768,1,01:49,(1:49) (Shotgun) R.Tannehill pass incomplete short right to D.Parker (R.Cockrell).,10,2,27,PIT 44,0,MIA,
+10,1873,2,00:25,"(:25) D.Williams up the middle for 1 yard, TOUCHDOWN. PENALTY on MIA-J.Ajayi, Unsportsmanlike Conduct, 15 yards, enforced between downs. Penalty on MIA-D.Williams, Unsportsmanlike Conduct, declined.",1,2,71,PIT 1,1,MIA,TD
+10,1744,3,01:55,"(1:55) (No Huddle, Shotgun) R.Tannehill pass short right to A.Foster to PIT 44 for 7 yards (L.Timmons).",4,2,27,MIA 49,0,MIA,
+10,1675,1,02:15,(2:15) J.Ajayi left tackle to MIA 43 for no gain (J.Hargrave).,10,2,14,MIA 43,0,MIA,
+10,1902,0,00:21,"A.Franks extra point is GOOD, Center-J.Denney, Holder-M.Darr.",0,2,71,PIT 15,1,MIA,XP
+10,1654,1,02:47,(2:47) J.Ajayi left guard to MIA 43 for 14 yards (V.Williams; R.Golden).,10,2,14,MIA 29,0,MIA,
+13,2446,3,05:20,"(5:20) (No Huddle, Shotgun) B.Roethlisberger pass short left intended for S.Coates INTERCEPTED by I.Abdul-Quddus at MIA 41. I.Abdul-Quddus to MIA 48 for 7 yards (J.James).",12,3,26,PIT 45,0,PIT,INT
+13,2324,3,08:15,(8:15) (Shotgun) B.Roethlisberger pass short left to E.Rogers to PIT 31 for 11 yards (R.Jones).,9,3,12,PIT 20,0,PIT,
+13,2281,1,09:01,(9:01) (Shotgun) B.Roethlisberger pass incomplete deep left to A.Brown.,10,3,0,PIT 19,0,PIT,
+13,2303,2,08:57,(8:57) (Shotgun) L.Bell left guard to PIT 20 for 1 yard (A.Branch).,10,3,1,PIT 19,0,PIT,
+13,2348,1,07:40,"(7:40) (No Huddle, Shotgun) B.Roethlisberger pass deep left to A.Brown to PIT 47 for 16 yards (R.Jones).",10,3,28,PIT 31,0,PIT,
+13,2425,2,06:02,(6:02) (Shotgun) D.Williams up the middle to PIT 45 for 7 yards (J.Jones).,19,3,26,PIT 38,0,PIT,
+13,2393,2,06:27,"(6:27) (No Huddle, Shotgun) L.Bell up the middle to MIA 45 for 7 yards (M.Thomas). PENALTY on PIT-D.DeCastro, Offensive Holding, 10 yards, enforced at PIT 48 - No Play.",9,3,19,PIT 48,0,PIT,PENALTY
+13,2372,1,06:58,"(6:58) (No Huddle, Shotgun) L.Bell right end pushed ob at PIT 48 for 1 yard (I.Abdul-Quddus).",10,3,29,PIT 47,0,PIT,
+12,2255,4,09:26,"(9:26) (Field Goal formation) A.Franks 24 yard field goal is BLOCKED (D.McCullers), Center-J.Denney, Holder-M.Darr, ball out of bounds at PIT 19.",2,3,69,PIT 6,0,MIA,FGB
+12,2168,2,12:03,(12:03) D.Williams up the middle to PIT 14 for 10 yards (A.Chickillo).,10,3,69,PIT 24,0,MIA,
+12,1994,0,15:00,"C.Boswell kicks 65 yards from PIT 35 to end zone, Touchback.",0,3,0,PIT 35,0,PIT,KICKOFF
+12,2189,1,11:21,(11:21) D.Williams left tackle to PIT 15 for -1 yards (A.Chickillo).,10,3,60,PIT 14,0,MIA,
+12,2234,3,09:49,(9:49) A.Foster up the middle to PIT 6 for -1 yards (V.Williams).,1,3,69,PIT 5,0,MIA,
+12,2146,1,12:05,(12:05) R.Tannehill pass incomplete short right to D.Jones.,10,3,69,PIT 24,0,MIA,
+12,2210,2,10:37,(10:37) (Shotgun) R.Tannehill pass short middle to J.Landry to PIT 5 for 10 yards (R.Golden).,11,3,70,PIT 15,0,MIA,
+12,2090,1,13:16,(13:16) J.Ajayi up the middle to MIA 41 for 3 yards (J.Jones). PIT-S.Tuitt was injured during the play. His return is Questionable.,10,3,16,MIA 38,0,MIA,
+12,2062,3,13:39,(13:39) (Shotgun) R.Tannehill pass short middle to J.Landry to MIA 38 for 5 yards (W.Gay).,2,3,13,MIA 33,0,MIA,
+12,2114,2,12:34,"(12:34) (Shotgun) J.Ajayi left end pushed ob at PIT 39 for 20 yards (M.Mitchell). PENALTY on PIT-M.Mitchell, Unnecessary Roughness, 15 yards, enforced at PIT 39.",7,3,70,MIA 41,0,MIA,PENALTY
+12,2017,1,15:00,(15:00) J.Ajayi left guard to MIA 25 for no gain (J.Jones).,10,3,0,MIA 25,0,MIA,
+12,2038,2,14:22,(14:22) (Shotgun) R.Tannehill pass short right to J.Landry to MIA 33 for 8 yards (R.Cockrell). PIT-A.Chickillo was injured during the play. His return is Questionable.,10,3,8,MIA 25,0,MIA,
+15,2711,3,00:48,(:48) (Shotgun) B.Roethlisberger pass incomplete short middle to D.Heyward-Bey (B.Maxwell).,5,3,5,PIT 18,0,PIT,
+15,2687,2,01:27,"(1:27) (No Huddle, Shotgun) B.Roethlisberger pass short middle to J.James to PIT 18 for 5 yards (K.Alonso).",10,3,5,PIT 13,0,PIT,
+15,2643,0,01:39,A.Franks kicks 66 yards from MIA 35 to PIT -1. J.Gilbert to PIT 13 for 14 yards (M.Thomas).,0,3,0,MIA 35,0,MIA,KICKOFF
+15,2665,1,01:34,(1:34) (Shotgun) B.Roethlisberger pass incomplete deep left to S.Coates.,10,3,0,PIT 13,0,PIT,
+15,2733,4,00:39,"(:39) (Punt formation) J.Berry punts 49 yards to MIA 33, Center-G.Warren. J.Grant to MIA 48 for 15 yards (T.Matakevich). PIT-V.Williams was injured during the play. His return is Questionable.",5,3,5,PIT 18,0,PIT,PUNT
+14,2527,2,03:41,(3:41) J.Ajayi left tackle to PIT 16 for no gain (S.Tuitt).,7,3,36,PIT 16,0,MIA,
+14,2627,0,01:39,"A.Franks extra point is GOOD, Center-J.Denney, Holder-M.Darr.",0,3,52,PIT 15,1,MIA,XP
+14,2610,2,01:45,"(1:45) (No Huddle) J.Ajayi right tackle for 1 yard, TOUCHDOWN.",1,3,52,PIT 1,1,MIA,TD
+14,2572,0,02:14,Timeout #1 by MIA at 02:14.,0,3,47,,0,,TIMEOUT
+14,2548,3,02:56,(2:56) (Shotgun) R.Tannehill pass short right to D.Parker to PIT 5 for 11 yards (R.Cockrell).,7,3,47,PIT 16,0,MIA,
+14,2482,1,05:10,(5:10) J.Ajayi right end to PIT 19 for 33 yards (M.Mitchell).,10,3,33,MIA 48,0,MIA,
+14,2589,1,02:14,(2:14) J.Ajayi up the middle to PIT 1 for 4 yards (J.Harrison).,5,3,51,PIT 5,0,MIA,
+14,2503,1,04:26,(4:26) (Shotgun) R.Tannehill pass short right to J.Ajayi to PIT 16 for 3 yards (R.Golden; V.Williams) [S.Tuitt].,10,3,52,PIT 19,0,MIA,
+17,2954,2,11:19,"(11:19) (No Huddle, Shotgun) B.Roethlisberger pass incomplete deep right to A.Brown (B.Maxwell).",10,4,10,50,0,PIT,
+17,2976,3,11:13,(11:13) (Shotgun) B.Roethlisberger pass incomplete short right to A.Brown (B.Maxwell).,10,4,10,50,0,PIT,
+17,2908,1,12:10,(12:10) (Shotgun) B.Roethlisberger pass short right to L.Bell to 50 for 10 yards (B.Maxwell) [C.Wake].,10,4,10,PIT 40,0,PIT,
+17,2932,1,11:24,(11:24) (Shotgun) B.Roethlisberger pass incomplete short left to S.Coates.,10,4,10,50,0,PIT,
+17,2998,4,11:09,"(11:09) (Punt formation) J.Berry punts 41 yards to MIA 9, Center-G.Warren, downed by PIT-C.Hamilton.",10,4,10,50,0,PIT,PUNT
+16,2785,0,,END QUARTER 3,0,3,9,,0,,
+16,2864,3,12:59,(12:59) (Shotgun) R.Tannehill pass short middle to A.Foster to PIT 31 for 5 yards (T.Matakevich).,6,4,21,PIT 36,0,MIA,
+16,2761,1,00:26,(:26) R.Tannehill pass short right to M.Gray to PIT 43 for 9 yards (R.Golden; T.Matakevich).,10,3,9,MIA 48,0,MIA,
+16,2843,2,13:41,(13:41) (Shotgun) D.Williams right tackle to PIT 36 for no gain (R.Golden).,6,4,16,PIT 36,0,MIA,
+16,2801,2,15:00,(15:00) (Shotgun) J.Ajayi up the middle to PIT 40 for 3 yards (S.Tuitt).,1,4,12,PIT 43,0,MIA,
+16,2888,4,12:15,"(12:15) (Field Goal formation) A.Franks 50 yard field goal is No Good, Wide Left, Center-J.Denney, Holder-M.Darr.",1,4,21,PIT 31,0,MIA,FGM
+16,2822,1,14:26,(14:26) (Shotgun) R.Tannehill left end to PIT 36 for 4 yards (J.Jones).,10,4,16,PIT 40,0,MIA,
+19,3563,0,01:02,"(Kick formation) C.Boswell extra point is GOOD, Center-G.Warren, Holder-J.Berry. PENALTY on MIA-J.Phillips, Leverage, 15 yards, enforced between downs.",0,4,97,MIA 15,1,PIT,XP
+19,3429,1,02:03,"(2:03) (No Huddle, Shotgun) B.Roethlisberger pass incomplete short middle to E.Rogers.",10,4,50,MIA 47,0,PIT,
+19,3451,0,01:59,Two-Minute Warning,0,4,50,,0,,
+19,3543,2,01:08,"(1:08) (No Huddle, Shotgun) B.Roethlisberger pass deep left to C.Hamilton for 23 yards, TOUCHDOWN.",4,4,97,MIA 23,1,PIT,TD
+19,3377,1,02:42,"(2:42) (No Huddle, Shotgun) B.Roethlisberger pass short right to E.Rogers to PIT 38 for 6 yards (B.Maxwell).",10,4,35,PIT 32,0,PIT,
+19,3519,1,01:44,"(1:44) (No Huddle, Shotgun) B.Roethlisberger pass short right to A.Brown to MIA 23 for 6 yards (B.Maxwell).",10,4,74,MIA 29,0,PIT,
+19,3490,3,01:52,(1:52) (Shotgun) B.Roethlisberger pass short left to L.Bell pushed ob at MIA 29 for 18 yards (R.Jones).,10,4,68,MIA 47,0,PIT,
+19,3468,2,01:59,(1:59) (Shotgun) B.Roethlisberger pass incomplete deep middle to D.Heyward-Bey (B.Maxwell).,10,4,50,MIA 47,0,PIT,
+19,3405,2,02:16,"(2:16) (No Huddle, Shotgun) B.Roethlisberger pass short left to E.Rogers to MIA 47 for 15 yards (C.Chekwa).",4,4,50,PIT 38,0,PIT,
+19,3353,2,03:15,"(3:15) (No Huddle, Shotgun) B.Roethlisberger pass short middle to L.Bell to PIT 32 for 13 yards (M.Thomas).",7,4,29,PIT 19,0,PIT,
+19,3329,1,03:48,"(3:48) (No Huddle, Shotgun) B.Roethlisberger pass short middle to E.Rogers to PIT 19 for 3 yards (B.McCain).",10,4,16,PIT 16,0,PIT,
+19,3305,1,04:20,(4:20) (Shotgun) B.Roethlisberger pass short left to C.Hamilton to PIT 16 for 13 yards (C.Chekwa).,10,4,13,PIT 3,0,PIT,
+18,3038,2,10:26,(10:26) J.Ajayi left guard to MIA 17 for 6 yards (T.Matakevich).,8,4,8,MIA 11,0,MIA,
+18,3104,2,08:32,(8:32) D.Williams up the middle to MIA 31 for 2 yards (J.Hargrave; T.Matakevich).,3,4,22,MIA 29,0,MIA,
+18,3251,3,05:14,(5:14) (Shotgun) R.Tannehill pass short right to J.Landry to PIT 36 for 2 yards (L.Timmons).,10,4,55,PIT 38,0,MIA,
+18,3229,2,05:19,(5:19) R.Tannehill pass incomplete short right to J.Landry (A.Moats).,10,4,53,PIT 38,0,MIA,
+18,3017,1,11:01,(11:01) J.Ajayi left tackle to MIA 11 for 2 yards (T.Matakevich).,10,4,2,MIA 9,0,MIA,
+18,3170,2,06:28,(6:28) (Shotgun) J.Ajayi right guard to PIT 38 for 13 yards (R.Cockrell).,11,4,53,MIA 49,0,MIA,
+18,3125,3,07:57,(7:57) R.Tannehill pass short right to M.Gray to 50 for 19 yards (T.Matakevich).,1,4,41,MIA 31,0,MIA,
+18,3275,4,04:29,"(4:29) (Punt formation) M.Darr punts 34 yards to PIT 2, Center-J.Denney, downed by MIA-C.Chekwa.",8,4,55,PIT 36,0,MIA,PUNT
+18,3191,0,05:56,Timeout #1 by PIT at 05:56.,0,4,53,,0,,TIMEOUT
+18,3059,3,09:49,(9:49) (Shotgun) R.Tannehill pass short middle to J.Landry to MIA 22 for 5 yards (T.Matakevich).,2,4,13,MIA 17,0,MIA,
+18,3149,1,07:09,(7:09) J.Ajayi right guard to MIA 49 for -1 yards (D.McCullers; R.Golden).,10,4,53,50,0,MIA,
+18,3208,1,05:56,(5:56) D.Williams left tackle to PIT 38 for no gain (A.Moats).,10,4,53,PIT 38,0,MIA,
+18,3083,1,09:27,(9:27) J.Ajayi right tackle to MIA 29 for 7 yards (T.Matakevich).,10,4,20,MIA 22,0,MIA,

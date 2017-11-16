@@ -1,186 +1,186 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1623,2,04:34,,9,2,2,SEA 7,0,SEA,PENALTY
-9,1695,4,02:49,,8,2,2,SEA 8,0,SEA,PUNT
-9,1655,2,04:13,,10,2,8,SEA 6,0,SEA,
-9,1676,3,03:26,,2,2,2,SEA 14,0,SEA,
-9,1591,1,05:05,,10,2,1,SEA 6,0,SEA,PENALTY
-24,3604,1,03:55,,10,4,20,SEA 20,0,SEA,
-24,3585,0,03:55,,0,4,0,CAR 35,0,CAR,KICKOFF
-24,3660,1,02:52,,20,4,10,SEA 30,0,SEA,
-24,3759,4,02:29,,23,4,12,SEA 27,0,SEA,PENALTY
-24,3742,0,02:29,,0,4,7,,0,,TIMEOUT
-24,3628,1,03:05,,10,4,10,SEA 40,0,SEA,PENALTY
-24,3790,4,02:29,,18,4,12,SEA 32,0,SEA,PUNT
-24,3723,3,02:36,,20,4,7,SEA 30,0,SEA,
-24,3706,0,02:36,,0,4,10,,0,,TIMEOUT
-24,3682,2,02:45,,20,4,10,SEA 30,0,SEA,
-10,1762,2,02:06,,11,2,13,CAR 40,0,CAR,
-10,1803,1,02:00,,10,2,22,SEA 46,0,CAR,
-10,1718,1,02:42,,10,2,-5,CAR 41,0,CAR,PENALTY
-10,1786,0,02:00,,0,2,13,,0,,
-10,1846,3,01:19,,1,2,22,SEA 37,0,CAR,
-10,1741,1,02:42,,15,2,-1,CAR 36,0,CAR,
-10,1824,2,01:24,,1,2,22,SEA 37,0,CAR,
-10,1897,4,00:58,,1,2,22,SEA 37,0,CAR,
-10,1873,0,00:58,,0,2,22,,0,,TIMEOUT
-20,3039,1,14:26,,10,4,68,CAR 33,0,SEA,
-20,2957,1,00:57,,10,3,3,SEA 16,0,SEA,
-20,2978,2,00:15,,7,3,6,SEA 19,0,SEA,
-20,3102,3,12:28,,9,4,59,CAR 15,0,SEA,
-20,3015,3,15:00,,4,4,51,SEA 22,0,SEA,
-20,2999,0,,,0,3,6,,0,,
-20,3121,4,11:51,,19,4,59,CAR 25,1,SEA,FG
-20,3081,2,13:09,,8,4,69,CAR 14,0,SEA,
-20,3060,1,13:49,,10,4,70,CAR 16,0,SEA,
-6,702,1,03:59,,10,1,23,CAR 36,0,CAR,
-6,831,1,00:07,,10,1,51,SEA 29,0,CAR,
-6,723,2,03:34,,3,1,24,CAR 43,0,CAR,
-6,744,3,02:48,,2,1,27,CAR 44,0,CAR,
-6,853,2,00:02,,10,1,62,SEA 29,0,CAR,
-6,789,1,01:32,,10,1,47,SEA 41,0,CAR,
-6,585,1,05:37,,10,1,3,CAR 20,0,CAR,
-6,685,0,03:59,,0,1,16,,0,,TIMEOUT
-6,810,2,00:51,,2,1,51,SEA 33,0,CAR,
-6,911,2,14:19,,3,2,78,SEA 11,0,CAR,
-6,932,1,13:34,,2,2,80,SEA 2,1,CAR,TD
-6,654,2,04:20,,10,1,16,CAR 31,0,CAR,PENALTY
-6,874,0,,,0,1,62,,0,,
-6,890,1,15:00,,10,2,69,SEA 18,0,CAR,
-6,949,0,13:30,,0,2,80,SEA 15,1,CAR,XP
-6,632,1,04:24,,10,1,62,CAR 31,0,CAR,
-6,566,0,05:37,,0,1,0,SEA 35,0,SEA,KICKOFF
-6,765,1,02:11,,10,1,39,CAR 47,0,CAR,
-6,606,2,04:54,,7,1,11,CAR 23,0,CAR,
-18,2767,1,03:34,,10,3,0,SEA 20,0,SEA,
-18,2832,4,02:46,,8,3,2,SEA 22,0,SEA,PUNT
-18,2748,0,03:34,,0,3,0,CAR 35,0,CAR,KICKOFF
-18,2789,2,03:30,,10,3,2,SEA 20,0,SEA,
-18,2810,3,02:50,,8,3,2,SEA 22,0,SEA,
-26,4104,0,00:20,,0,4,7,,0,,TIMEOUT
-26,4162,1,00:15,,10,4,21,SEA 30,0,SEA,
-26,4121,2,00:20,,3,4,21,SEA 16,0,SEA,
-26,4057,0,00:32,,0,4,0,CAR 35,0,CAR,KICKOFF
-26,4184,2,00:07,,10,4,30,SEA 30,0,SEA,
-26,4246,0,00:00,,0,4,30,,0,,
-26,4145,0,00:15,,0,4,21,,0,,TIMEOUT
-26,4079,1,00:29,,10,4,7,SEA 9,0,SEA,
-25,3970,3,00:54,,3,4,54,SEA 33,0,CAR,
-25,3994,1,00:37,,10,4,54,SEA 26,0,CAR,
-25,3811,1,02:20,,10,4,8,CAR 20,0,CAR,
-25,3929,0,01:20,,0,4,31,,0,,TIMEOUT
-25,3869,0,02:00,,0,4,26,,0,,
-25,3946,2,01:20,,19,4,47,SEA 49,0,CAR,
-25,4041,0,00:32,,0,4,80,SEA 15,1,CAR,XP
-25,3910,1,01:29,,10,4,31,SEA 40,0,CAR,
-25,3845,2,02:13,,2,4,26,CAR 28,0,CAR,
-25,4016,2,00:36,,10,4,80,SEA 26,1,CAR,TD
-25,3886,1,02:00,,10,4,40,CAR 46,0,CAR,
-1,101,3,14:17,,5,1,5,SEA 25,0,SEA,
-1,77,2,14:54,,10,1,5,SEA 20,0,SEA,
-1,55,1,15:00,,10,1,0,SEA 20,0,SEA,
-1,36,0,15:00,,0,1,0,CAR 35,0,CAR,KICKOFF
-1,123,4,14:15,,5,1,5,SEA 25,0,SEA,PUNT
-5,505,2,07:07,,10,1,20,CAR 17,0,SEA,
-5,457,1,08:13,,10,1,16,CAR 33,0,SEA,
-5,481,1,07:36,,10,1,16,CAR 17,0,SEA,
-5,547,4,05:41,,5,1,21,CAR 12,1,SEA,FG
-5,526,3,06:22,,6,1,21,CAR 13,0,SEA,
-13,2074,0,15:00,,0,3,0,SEA 35,0,SEA,KICKOFF
-13,2160,4,13:35,,2,3,8,CAR 28,0,CAR,PUNT
-13,2138,3,13:39,,2,3,8,CAR 28,0,CAR,
-13,2093,1,15:00,,10,3,6,CAR 20,0,CAR,
-13,2117,2,14:21,,4,3,8,CAR 26,0,CAR,
-21,3225,3,10:50,,8,4,7,CAR 22,0,CAR,
-21,3159,1,11:46,,10,4,7,CAR 20,0,CAR,
-21,3140,0,11:46,,0,4,0,SEA 35,0,SEA,KICKOFF
-21,3180,2,11:07,,3,4,2,CAR 27,0,CAR,PENALTY
-21,3203,2,10:56,,8,4,2,CAR 22,0,CAR,
-21,3249,4,10:13,,3,4,7,CAR 27,0,CAR,PUNT
-23,3387,2,08:01,,10,4,12,CAR 20,0,CAR,
-23,3453,1,06:08,,10,4,34,CAR 43,0,CAR,
-23,3569,0,03:55,,0,4,80,SEA 15,0,CAR,XPM
-23,3549,1,03:58,,1,4,80,SEA 1,1,CAR,TD
-23,3411,1,07:30,,10,4,16,CAR 32,0,CAR,
-23,3432,2,06:45,,6,4,23,CAR 36,0,CAR,
-23,3365,1,08:08,,10,4,0,CAR 20,0,CAR,
-23,3525,1,04:39,,10,4,79,SEA 33,0,CAR,
-23,3501,2,04:44,,5,4,47,SEA 41,0,CAR,
-23,3477,1,05:28,,10,4,39,SEA 46,0,CAR,
-11,1982,3,00:41,,2,2,8,SEA 45,0,SEA,
-11,1944,2,00:49,,10,2,8,SEA 37,0,SEA,
-11,1965,0,00:41,,0,2,8,,0,,TIMEOUT
-11,1922,1,00:53,,10,2,0,SEA 37,0,SEA,
-11,2004,4,00:37,,2,2,8,SEA 45,0,SEA,PUNT
-14,2207,2,12:50,,12,3,-4,SEA 35,0,SEA,
-14,2242,3,12:21,,14,3,23,SEA 33,0,SEA,
-14,2291,0,11:27,,0,3,63,CAR 15,1,SEA,XP
-14,2186,1,13:25,,10,3,-2,SEA 37,0,SEA,
-14,2266,1,11:36,,10,3,63,CAR 40,1,SEA,TD
-8,1554,4,05:13,,2,2,20,CAR 40,0,CAR,PUNT
-8,1346,0,08:00,,0,2,0,SEA 35,0,SEA,KICKOFF
-8,1508,2,05:55,,7,2,15,CAR 35,0,CAR,
-8,1459,3,07:03,,13,2,12,CAR 17,0,CAR,
-8,1530,3,05:47,,7,2,20,CAR 35,0,CAR,
-8,1483,1,06:34,,10,2,15,CAR 32,0,CAR,
-8,1410,2,07:56,,15,2,2,CAR 15,0,CAR,
-8,1436,3,07:22,,8,2,-3,CAR 22,0,CAR,PENALTY
-8,1388,1,08:00,,15,2,20,CAR 15,0,CAR,
-8,1365,1,08:00,,10,2,-5,CAR 20,0,CAR,PENALTY
-19,2921,4,01:08,,16,3,-6,CAR 23,0,CAR,PUNT
-19,2902,3,01:45,,12,3,-6,CAR 27,0,CAR,
-19,2858,1,02:32,,10,3,0,CAR 29,0,CAR,
-19,2880,2,02:25,,10,3,-2,CAR 29,0,CAR,
-22,3294,2,09:33,,5,4,5,SEA 35,0,SEA,
-22,3273,1,10:06,,10,4,5,SEA 30,0,SEA,
-22,3339,4,08:21,,2,4,8,SEA 38,0,SEA,PUNT
-22,3315,3,08:53,,5,4,8,SEA 35,0,SEA,
-12,2027,1,00:30,,10,2,-1,CAR 15,0,CAR,
-12,2048,0,,,0,2,-1,,0,,
-16,2373,1,10:40,,10,3,4,CAR 33,0,SEA,
-16,2397,2,10:02,,6,3,-1,CAR 29,0,SEA,
-16,2449,4,08:54,,9,3,1,CAR 32,1,SEA,FG
-16,2425,3,09:24,,11,3,1,CAR 34,0,SEA,
-7,1180,1,09:25,,10,2,70,CAR 20,0,SEA,
-7,1090,2,11:52,,10,2,37,SEA 23,0,SEA,
-7,1267,1,08:33,,4,2,89,CAR 4,0,SEA,
-7,1137,1,10:48,,10,2,45,CAR 42,0,SEA,
-7,1068,1,11:59,,10,2,13,SEA 23,0,SEA,
-7,1023,2,12:57,,13,2,1,SEA 7,0,SEA,
-7,1044,3,12:28,,9,2,13,SEA 11,0,SEA,
-7,1330,0,08:00,,0,2,90,CAR 15,1,SEA,XP
-7,965,0,13:30,,0,2,90,CAR 35,0,CAR,KICKOFF
-7,1156,2,10:07,,13,2,70,CAR 45,0,SEA,
-7,987,1,13:27,,10,2,-3,SEA 10,0,SEA,PENALTY
-7,1305,2,08:02,,1,2,90,CAR 1,1,SEA,TD
-7,1243,2,09:19,,10,2,86,CAR 20,0,SEA,
-7,1111,1,11:23,,10,2,48,SEA 47,0,SEA,
-3,274,3,10:42,,5,1,10,SEA 36,0,SEA,
-3,320,2,09:56,,10,1,10,SEA 41,0,SEA,
-3,232,1,11:57,,10,1,1,SEA 31,0,SEA,
-3,341,3,09:13,,10,1,10,SEA 41,0,SEA,
-3,363,4,09:09,,10,1,10,SEA 41,0,SEA,PUNT
-3,253,2,11:21,,9,1,5,SEA 32,0,SEA,
-3,298,1,10:01,,10,1,10,SEA 41,0,SEA,
-17,2663,2,04:56,,10,3,78,SEA 24,0,CAR,
-17,2617,3,05:46,,3,3,56,SEA 46,0,CAR,
-17,2468,0,08:49,,0,3,0,SEA 35,0,SEA,KICKOFF
-17,2487,1,08:49,,10,3,-1,CAR 20,0,CAR,
-17,2732,0,03:34,,0,3,80,SEA 15,1,CAR,XP
-17,2508,2,08:13,,11,3,10,CAR 19,0,CAR,
-17,2687,1,04:21,,2,3,79,SEA 2,0,CAR,
-17,2574,1,06:27,,10,3,34,CAR 47,0,CAR,
-17,2595,2,05:50,,3,3,34,SEA 46,0,CAR,
-17,2553,2,06:59,,2,3,27,CAR 38,0,CAR,
-17,2532,1,07:38,,10,3,18,CAR 30,0,CAR,
-17,2641,1,05:03,,10,3,56,SEA 24,0,CAR,
-17,2708,2,03:39,,1,3,80,SEA 1,1,CAR,TD
-4,387,1,09:02,,10,1,-3,CAR 17,0,CAR,
-4,430,3,08:20,,13,1,-3,CAR 14,0,CAR,INT
-4,408,2,08:25,,13,1,-3,CAR 14,0,CAR,
-2,166,2,13:21,,8,1,6,CAR 36,0,CAR,
-2,145,1,14:06,,10,1,2,CAR 34,0,CAR,
-2,187,3,12:43,,4,1,-2,CAR 40,0,CAR,
-2,206,4,12:07,,12,1,-2,CAR 32,0,CAR,PUNT
-15,2347,2,10:51,,7,3,3,CAR 23,0,CAR,INT
-15,2326,1,11:27,,10,3,3,CAR 20,0,CAR,
-15,2307,0,11:27,,0,3,0,SEA 35,0,SEA,KICKOFF
+24,3759,4,02:29,"(2:29) (Punt formation) PENALTY on CAR-J.Norman, Defensive Delay of Game, 5 yards, enforced at SEA 27 - No Play.",23,4,12,SEA 27,0,SEA,PENALTY
+24,3628,1,03:05,"(3:05) R.Wilson scrambles left end to SEA 42 for 2 yards (L.Kuechly). PENALTY on SEA-M.Lynch, Offensive Holding, 10 yards, enforced at SEA 40 - No Play.",10,4,10,SEA 40,0,SEA,PENALTY
+24,3660,1,02:52,(2:52) (Shotgun) R.Wilson pass incomplete short left to M.Lynch [K.Ealy].,20,4,10,SEA 30,0,SEA,
+24,3604,1,03:55,(3:55) (Shotgun) R.Wilson pass short right to J.Graham to SEA 40 for 20 yards (R.Harper; K.Coleman).,10,4,20,SEA 20,0,SEA,
+24,3682,2,02:45,(2:45) (Shotgun) R.Wilson pass short right to M.Lynch to SEA 30 for no gain (T.Davis).,20,4,10,SEA 30,0,SEA,
+24,3742,0,02:29,Timeout #2 by CAR at 02:29.,0,4,7,,0,,TIMEOUT
+24,3790,4,02:29,"(2:29) J.Ryan punts 68 yards to end zone, Center-C.Gresham, Touchback.",18,4,12,SEA 32,0,SEA,PUNT
+24,3723,3,02:36,(2:36) (Shotgun) R.Wilson sacked at SEA 27 for -3 yards (K.Short).,20,4,7,SEA 30,0,SEA,
+24,3706,0,02:36,Timeout #1 by CAR at 02:36.,0,4,10,,0,,TIMEOUT
+24,3585,0,03:55,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback.",0,4,0,CAR 35,0,CAR,KICKOFF
+25,3869,0,02:00,Two-Minute Warning,0,4,26,,0,,
+25,3811,1,02:20,(2:20) (Shotgun) C.Newton pass short left to J.Stewart ran ob at CAR 28 for 8 yards (D.Shead).,10,4,8,CAR 20,0,CAR,
+25,4041,0,00:32,"G.Gano extra point is GOOD, Center-J.Jansen, Holder-B.Nortman.",0,4,80,SEA 15,1,CAR,XP
+25,3910,1,01:29,"(1:29) (No Huddle, Shotgun) C.Newton sacked at SEA 49 for -9 yards (B.Irvin).",10,4,31,SEA 40,0,CAR,
+25,3929,0,01:20,Timeout #3 by CAR at 01:20.,0,4,31,,0,,TIMEOUT
+25,4016,2,00:36,"(:36) (Shotgun) C.Newton pass deep right to G.Olsen for 26 yards, TOUCHDOWN.",10,4,80,SEA 26,1,CAR,TD
+25,3946,2,01:20,(1:20) (Shotgun) C.Newton pass short middle to D.Funchess to SEA 33 for 16 yards (K.Chancellor).,19,4,47,SEA 49,0,CAR,
+25,3970,3,00:54,"(:54) (No Huddle, Shotgun) C.Newton pass short right to J.Cotchery to SEA 26 for 7 yards (D.Shead).",3,4,54,SEA 33,0,CAR,
+25,3886,1,02:00,(2:00) (Shotgun) C.Newton pass short middle to E.Dickson to SEA 40 for 14 yards (D.Shead).,10,4,40,CAR 46,0,CAR,
+25,3845,2,02:13,(2:13) (Shotgun) C.Newton pass short middle to T.Ginn to CAR 46 for 18 yards (C.Williams).,2,4,26,CAR 28,0,CAR,
+25,3994,1,00:37,"(:37) (No Huddle, Shotgun) C.Newton spiked the ball to stop the clock.",10,4,54,SEA 26,0,CAR,
+26,4057,0,00:32,G.Gano kicks 69 yards from CAR 35 to SEA -4. T.Lockett to SEA 9 for 13 yards (S.Thompson). CAR-S.Thompson was injured during the play.,0,4,0,CAR 35,0,CAR,KICKOFF
+26,4079,1,00:29,(:29) (Shotgun) R.Wilson scrambles right tackle to SEA 16 for 7 yards (R.Delaire).,10,4,7,SEA 9,0,SEA,
+26,4162,1,00:15,(:15) (Shotgun) R.Wilson pass incomplete deep left to J.Kearse.,10,4,21,SEA 30,0,SEA,
+26,4145,0,00:15,Timeout #2 by SEA at 00:15.,0,4,21,,0,,TIMEOUT
+26,4121,2,00:20,(:20) (Shotgun) R.Wilson pass short left to D.Baldwin to SEA 30 for 14 yards (L.Kuechly) [K.Ealy].,3,4,21,SEA 16,0,SEA,
+26,4184,2,00:07,(:07) (Shotgun) R.Wilson pass short middle to D.Baldwin to SEA 41 for 11 yards. Lateral to R.Lockette to SEA 39 for -2 yards. Lateral to J.Britt to SEA 39 for no gain (C.Tillman).,10,4,30,SEA 30,0,SEA,
+26,4246,0,00:00,END GAME,0,4,30,,0,,
+26,4104,0,00:20,Timeout #1 by SEA at 00:20.,0,4,7,,0,,TIMEOUT
+20,2999,0,,END QUARTER 3,0,3,6,,0,,
+20,3039,1,14:26,(14:26) (Shotgun) M.Lynch up the middle to CAR 16 for 17 yards (C.Tillman; K.Coleman).,10,4,68,CAR 33,0,SEA,
+20,3121,4,11:51,"(11:51) S.Hauschka 43 yard field goal is GOOD, Center-C.Gresham, Holder-J.Ryan.",19,4,59,CAR 25,1,SEA,FG
+20,3102,3,12:28,(12:28) (Shotgun) R.Wilson sacked at CAR 25 for -10 yards (T.Davis).,9,4,59,CAR 15,0,SEA,
+20,3015,3,15:00,(15:00) (Shotgun) R.Wilson pass deep right to J.Graham pushed ob at CAR 33 for 45 yards (K.Coleman).,4,4,51,SEA 22,0,SEA,
+20,2978,2,00:15,(:15) M.Lynch right tackle to SEA 22 for 3 yards (S.Thompson; K.Short).,7,3,6,SEA 19,0,SEA,
+20,3060,1,13:49,(13:49) M.Lynch right tackle to CAR 14 for 2 yards (L.Kuechly; M.Addison).,10,4,70,CAR 16,0,SEA,
+20,2957,1,00:57,(:57) R.Wilson scrambles up the middle to SEA 19 for 3 yards (L.Kuechly).,10,3,3,SEA 16,0,SEA,
+20,3081,2,13:09,(13:09) M.Lynch left tackle to CAR 15 for -1 yards (K.Coleman; L.Kuechly).,8,4,69,CAR 14,0,SEA,
+21,3249,4,10:13,"(10:13) B.Nortman punts 43 yards to SEA 30, Center-J.Jansen, fair catch by T.Lockett.",3,4,7,CAR 27,0,CAR,PUNT
+21,3203,2,10:56,(10:56) C.Newton pass incomplete deep right to C.Brown.,8,4,2,CAR 22,0,CAR,
+21,3225,3,10:50,(10:50) (Shotgun) C.Newton pass short left to E.Dickson to CAR 27 for 5 yards (K.Wright).,8,4,7,CAR 22,0,CAR,
+21,3140,0,11:46,"S.Hauschka kicks 65 yards from SEA 35 to end zone, Touchback.",0,4,0,SEA 35,0,SEA,KICKOFF
+21,3180,2,11:07,"(11:07) (Shotgun) PENALTY on CAR, Illegal Substitution, 5 yards, enforced at CAR 27 - No Play.",3,4,2,CAR 27,0,CAR,PENALTY
+21,3159,1,11:46,(11:46) J.Stewart right end to CAR 27 for 7 yards (K.Chancellor; K.Wright).,10,4,7,CAR 20,0,CAR,
+22,3294,2,09:33,(9:33) M.Lynch up the middle to SEA 35 for no gain (S.Lotulelei).,5,4,5,SEA 35,0,SEA,
+22,3339,4,08:21,"(8:21) J.Ryan punts 49 yards to CAR 13, Center-C.Gresham. T.Ginn to CAR 20 for 7 yards (L.Willson).",2,4,8,SEA 38,0,SEA,PUNT
+22,3315,3,08:53,(8:53) (Shotgun) R.Wilson pass short left to J.Graham pushed ob at SEA 38 for 3 yards (T.Davis).,5,4,8,SEA 35,0,SEA,
+22,3273,1,10:06,(10:06) (Shotgun) M.Lynch up the middle to SEA 35 for 5 yards (L.Kuechly; W.Horton).,10,4,5,SEA 30,0,SEA,
+23,3453,1,06:08,(6:08) (Shotgun) C.Newton pass short left to C.Brown pushed ob at SEA 46 for 11 yards (C.Williams).,10,4,34,CAR 43,0,CAR,
+23,3477,1,05:28,(5:28) (Shotgun) C.Newton pass short right to E.Dickson to SEA 41 for 5 yards (K.Chancellor).,10,4,39,SEA 46,0,CAR,
+23,3387,2,08:01,(8:01) (Shotgun) C.Newton pass short middle to G.Olsen to CAR 32 for 12 yards (C.Williams).,10,4,12,CAR 20,0,CAR,
+23,3365,1,08:08,(8:08) C.Newton pass incomplete deep middle to D.Funchess [B.Mebane].,10,4,0,CAR 20,0,CAR,
+23,3432,2,06:45,(6:45) (Shotgun) J.Stewart left guard to CAR 43 for 7 yards (R.Sherman; K.Wright).,6,4,23,CAR 36,0,CAR,
+23,3501,2,04:44,"(4:44) (No Huddle, Shotgun) C.Newton pass short right to D.Funchess to SEA 33 for 8 yards (K.Pierre-Louis).",5,4,47,SEA 41,0,CAR,
+23,3549,1,03:58,"(3:58) C.Scott reported in as eligible.  J.Stewart up the middle for 1 yard, TOUCHDOWN.",1,4,80,SEA 1,1,CAR,TD
+23,3525,1,04:39,"(4:39) (No Huddle, Shotgun) C.Newton pass short middle to G.Olsen to SEA 1 for 32 yards (K.Wright).",10,4,79,SEA 33,0,CAR,
+23,3411,1,07:30,"(7:30) (No Huddle, Shotgun) C.Newton left guard to CAR 36 for 4 yards (D.Dobbs).",10,4,16,CAR 32,0,CAR,
+23,3569,0,03:55,"G.Gano extra point is No Good, Wide Left, Center-J.Jansen, Holder-B.Nortman.",0,4,80,SEA 15,0,CAR,XPM
+1,55,1,15:00,(15:00) R.Wilson pass incomplete deep left to J.Kearse.,10,1,0,SEA 20,0,SEA,
+1,77,2,14:54,(14:54) (Shotgun) R.Wilson pass short left to R.Lockette to SEA 25 for 5 yards (T.Davis; K.Coleman).,10,1,5,SEA 20,0,SEA,
+1,123,4,14:15,"(14:15) J.Ryan punts 41 yards to CAR 34, Center-C.Gresham, out of bounds.",5,1,5,SEA 25,0,SEA,PUNT
+1,101,3,14:17,(14:17) (Shotgun) R.Wilson pass incomplete short middle to D.Baldwin (B.Benwikere).,5,1,5,SEA 25,0,SEA,
+1,36,0,15:00,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback.",0,1,0,CAR 35,0,CAR,KICKOFF
+3,320,2,09:56,(9:56) M.Lynch left end to SEA 41 for no gain (L.Kuechly; T.Davis).,10,1,10,SEA 41,0,SEA,
+3,274,3,10:42,(10:42) (Shotgun) R.Wilson pass short left to F.Jackson to SEA 41 for 5 yards (C.Tillman; K.Coleman).,5,1,10,SEA 36,0,SEA,
+3,341,3,09:13,(9:13) (Shotgun) R.Wilson pass incomplete short left to J.Kearse.,10,1,10,SEA 41,0,SEA,
+3,298,1,10:01,(10:01) R.Wilson pass incomplete short right to J.Graham.,10,1,10,SEA 41,0,SEA,
+3,253,2,11:21,(11:21) (Shotgun) M.Lynch up the middle to SEA 36 for 4 yards (L.Kuechly; S.Lotulelei).,9,1,5,SEA 32,0,SEA,
+3,363,4,09:09,"(9:09) J.Ryan punts 42 yards to CAR 17, Center-C.Gresham, fair catch by T.Ginn.",10,1,10,SEA 41,0,SEA,PUNT
+3,232,1,11:57,(11:57) M.Lynch left tackle to SEA 32 for 1 yard (L.Kuechly; K.Coleman).,10,1,1,SEA 31,0,SEA,
+2,166,2,13:21,(13:21) (Shotgun) J.Stewart right tackle to CAR 40 for 4 yards (M.Bennett).,8,1,6,CAR 36,0,CAR,
+2,145,1,14:06,(14:06) J.Stewart right guard to CAR 36 for 2 yards (B.Mebane; A.Rubin).,10,1,2,CAR 34,0,CAR,
+2,187,3,12:43,(12:43) (Shotgun) C.Newton sacked at CAR 32 for -8 yards (B.Irvin).,4,1,-2,CAR 40,0,CAR,
+2,206,4,12:07,"(12:07) B.Nortman punts 47 yards to SEA 21, Center-J.Jansen. T.Lockett to SEA 31 for 10 yards (D.Mayo).",12,1,-2,CAR 32,0,CAR,PUNT
+5,526,3,06:22,(6:22) (Shotgun) R.Wilson scrambles left guard to CAR 12 for 1 yard (L.Kuechly).,6,1,21,CAR 13,0,SEA,
+5,505,2,07:07,(7:07) (Shotgun) M.Lynch left guard to CAR 13 for 4 yards (L.Kuechly; T.Davis).,10,1,20,CAR 17,0,SEA,
+5,547,4,05:41,"(5:41) S.Hauschka 30 yard field goal is GOOD, Center-C.Gresham, Holder-J.Ryan.",5,1,21,CAR 12,1,SEA,FG
+5,481,1,07:36,(7:36) (Shotgun) R.Wilson pass short right to J.Graham pushed ob at CAR 17 for no gain (J.Norman).,10,1,16,CAR 17,0,SEA,
+5,457,1,08:13,(8:13) (Shotgun) R.Wilson pass short middle to J.Graham to CAR 17 for 16 yards (R.Harper).,10,1,16,CAR 33,0,SEA,
+4,408,2,08:25,(8:25) (Shotgun) C.Newton pass incomplete deep left to G.Olsen.,13,1,-3,CAR 14,0,CAR,
+4,430,3,08:20,(8:20) (Shotgun) C.Newton pass deep middle intended for J.Cotchery INTERCEPTED by E.Thomas at CAR 33. E.Thomas to CAR 33 for no gain (J.Cotchery).,13,1,-3,CAR 14,0,CAR,INT
+4,387,1,09:02,(9:02) J.Stewart left guard to CAR 14 for -3 yards (B.Irvin).,10,1,-3,CAR 17,0,CAR,
+7,965,0,13:30,G.Gano kicks 69 yards from CAR 35 to SEA -4. T.Lockett to SEA 10 for 14 yards (T.Williams). CAR-T.Williams was injured during the play. He is Out.,0,2,90,CAR 35,0,CAR,KICKOFF
+7,1156,2,10:07,(10:07) (Shotgun) R.Wilson pass deep middle to J.Graham to CAR 20 for 25 yards (T.Boston).,13,2,70,CAR 45,0,SEA,
+7,1090,2,11:52,(11:52) (Shotgun) R.Wilson scrambles right end ran ob at SEA 47 for 24 yards (B.Benwikere).,10,2,37,SEA 23,0,SEA,
+7,1023,2,12:57,(12:57) R.Wilson scrambles right end pushed ob at SEA 11 for 4 yards (L.Kuechly).,13,2,1,SEA 7,0,SEA,
+7,1068,1,11:59,(11:59) R.Wilson pass incomplete deep middle to T.Lockett.,10,2,13,SEA 23,0,SEA,
+7,1267,1,08:33,(8:33) M.Lynch up the middle to CAR 1 for 3 yards (W.Horton).,4,2,89,CAR 4,0,SEA,
+7,1044,3,12:28,(12:28) (Shotgun) R.Wilson pass short right to C.Matthews pushed ob at SEA 23 for 12 yards (C.Tillman).,9,2,13,SEA 11,0,SEA,
+7,1137,1,10:48,(10:48) R.Wilson sacked at CAR 45 for -3 yards (W.Horton).,10,2,45,CAR 42,0,SEA,
+7,987,1,13:27,"(13:27) M.Lynch left guard to SEA 13 for 3 yards (K.Short). PENALTY on SEA-R.Lockette, Unnecessary Roughness, 6 yards, enforced at SEA 13.",10,2,-3,SEA 10,0,SEA,PENALTY
+7,1180,1,09:25,"(9:25) (Shotgun) R.Wilson sacked at CAR 27 for -7 yards (sack split by R.Delaire and M.Addison). Seattle challenged the runner was down by contact ruling, and the play was REVERSED. (Shotgun) R.Wilson pass incomplete short left to M.Lynch.",10,2,70,CAR 20,0,SEA,
+7,1330,0,08:00,"S.Hauschka extra point is GOOD, Center-C.Gresham, Holder-J.Ryan.",0,2,90,CAR 15,1,SEA,XP
+7,1111,1,11:23,(11:23) R.Wilson right end ran ob at CAR 42 for 11 yards (K.Ealy).,10,2,48,SEA 47,0,SEA,
+7,1243,2,09:19,(9:19) R.Wilson pass short right to L.Willson to CAR 4 for 16 yards (L.Kuechly).,10,2,86,CAR 20,0,SEA,
+7,1305,2,08:02,"(8:02) A.Bailey reported in as eligible.  M.Lynch left guard for 1 yard, TOUCHDOWN.",1,2,90,CAR 1,1,SEA,TD
+6,890,1,15:00,(15:00) (Shotgun) J.Stewart left tackle to SEA 11 for 7 yards (K.Pierre-Louis; K.Wright).,10,2,69,SEA 18,0,CAR,
+6,632,1,04:24,(4:24) (Shotgun) C.Newton pass incomplete short middle to D.Funchess (C.Williams).,10,1,62,CAR 31,0,CAR,
+6,585,1,05:37,(5:37) J.Stewart up the middle to CAR 23 for 3 yards (A.Rubin; C.Avril).,10,1,3,CAR 20,0,CAR,
+6,744,3,02:48,(2:48) (Shotgun) M.Tolbert up the middle to CAR 47 for 3 yards (K.Wright; K.Pierre-Louis).,2,1,27,CAR 44,0,CAR,
+6,831,1,00:07,(:07) (Shotgun) C.Newton pass incomplete deep middle to G.Olsen (K.Pierre-Louis).,10,1,51,SEA 29,0,CAR,
+6,853,2,00:02,(:02) (Shotgun) J.Stewart left tackle to SEA 18 for 11 yards (K.Chancellor; C.Williams).,10,1,62,SEA 29,0,CAR,
+6,874,0,,END QUARTER 1,0,1,62,,0,,
+6,949,0,13:30,"G.Gano extra point is GOOD, Center-J.Jansen, Holder-B.Nortman.",0,2,80,SEA 15,1,CAR,XP
+6,789,1,01:32,(1:32) (Shotgun) C.Newton right tackle to SEA 33 for 8 yards (E.Thomas).,10,1,47,SEA 41,0,CAR,
+6,566,0,05:37,"S.Hauschka kicks 65 yards from SEA 35 to end zone, Touchback.",0,1,0,SEA 35,0,SEA,KICKOFF
+6,765,1,02:11,(2:11) C.Newton pass short left to G.Olsen to SEA 41 for 12 yards (C.Williams).,10,1,39,CAR 47,0,CAR,
+6,810,2,00:51,(:51) (Shotgun) J.Stewart up the middle to SEA 29 for 4 yards (E.Thomas; K.Wright).,2,1,51,SEA 33,0,CAR,
+6,654,2,04:20,"(4:20) (Shotgun) C.Newton sacked at CAR 21 for -10 yards (A.Rubin). PENALTY on SEA-R.Sherman, Defensive Holding, 5 yards, enforced at CAR 31 - No Play.",10,1,16,CAR 31,0,CAR,PENALTY
+6,606,2,04:54,(4:54) C.Brown left end pushed ob at CAR 31 for 8 yards (E.Thomas).,7,1,11,CAR 23,0,CAR,
+6,702,1,03:59,(3:59) C.Brown right end ran ob at CAR 43 for 7 yards (K.Chancellor).,10,1,23,CAR 36,0,CAR,
+6,685,0,03:59,Timeout #1 by CAR at 03:59.,0,1,16,,0,,TIMEOUT
+6,932,1,13:34,"(13:34) (Shotgun) C.Newton right end for 2 yards, TOUCHDOWN.",2,2,80,SEA 2,1,CAR,TD
+6,911,2,14:19,(14:19) J.Stewart right end to SEA 2 for 9 yards (K.Chancellor).,3,2,78,SEA 11,0,CAR,
+6,723,2,03:34,(3:34) (Shotgun) C.Newton left tackle to CAR 44 for 1 yard (K.Wright; K.Pierre-Louis).,3,1,24,CAR 43,0,CAR,
+9,1623,2,04:34,"(4:34) (Shotgun) M.Lynch up the middle to SEA 22 for 15 yards (S.Thompson; R.Harper). PENALTY on SEA-R.Okung, Offensive Holding, 5 yards, enforced at SEA 11.",9,2,2,SEA 7,0,SEA,PENALTY
+9,1676,3,03:26,(3:26) R.Wilson sacked at SEA 8 for -6 yards (K.Short).,2,2,2,SEA 14,0,SEA,
+9,1695,4,02:49,"(2:49) J.Ryan punts 51 yards to CAR 41, Center-C.Gresham, fair catch by T.Ginn.",8,2,2,SEA 8,0,SEA,PUNT
+9,1591,1,05:05,"(5:05) M.Lynch up the middle to SEA 14 for 8 yards (K.Short; R.Harper). PENALTY on SEA-J.Graham, Unsportsmanlike Conduct, 7 yards, enforced at SEA 14.",10,2,1,SEA 6,0,SEA,PENALTY
+9,1655,2,04:13,(4:13) T.Rawls left end pushed ob at SEA 14 for 8 yards (T.Davis).,10,2,8,SEA 6,0,SEA,
+8,1436,3,07:22,"(7:22) (Shotgun) PENALTY on CAR-G.Olsen, False Start, 5 yards, enforced at CAR 22 - No Play.",8,2,-3,CAR 22,0,CAR,PENALTY
+8,1554,4,05:13,"(5:13) B.Nortman punts 49 yards to SEA 11, Center-J.Jansen. T.Lockett to SEA 11 for no gain (T.Boston). PENALTY on SEA-R.Lockette, Illegal Block Above the Waist, 5 yards, enforced at SEA 11.",2,2,20,CAR 40,0,CAR,PUNT
+8,1346,0,08:00,"S.Hauschka kicks 65 yards from SEA 35 to end zone, Touchback.",0,2,0,SEA 35,0,SEA,KICKOFF
+8,1483,1,06:34,(6:34) J.Stewart up the middle to CAR 35 for 3 yards (C.Marsh; K.Wright).,10,2,15,CAR 32,0,CAR,
+8,1365,1,08:00,"(8:00) PENALTY on CAR-G.Olsen, False Start, 5 yards, enforced at CAR 20 - No Play.",10,2,-5,CAR 20,0,CAR,PENALTY
+8,1388,1,08:00,(8:00) (Shotgun) C.Newton pass incomplete short left to T.Ginn (D.King).,15,2,20,CAR 15,0,CAR,
+8,1530,3,05:47,(5:47) (Shotgun) C.Newton pass short middle to G.Olsen to CAR 40 for 5 yards (K.Chancellor) [C.Avril].,7,2,20,CAR 35,0,CAR,
+8,1410,2,07:56,(7:56) (Shotgun) C.Newton right end ran ob at CAR 22 for 7 yards (K.Chancellor).,15,2,2,CAR 15,0,CAR,
+8,1508,2,05:55,(5:55) (Shotgun) C.Newton pass incomplete deep middle to D.Funchess (E.Thomas).,7,2,15,CAR 35,0,CAR,
+8,1459,3,07:03,(7:03) (Shotgun) C.Newton pass short left to F.Whittaker to CAR 32 for 15 yards (K.Chancellor; K.Wright). CAR-R.Kalil was injured during the play.,13,2,12,CAR 17,0,CAR,
+11,1965,0,00:41,Timeout #2 by SEA at 00:41.,0,2,8,,0,,TIMEOUT
+11,1922,1,00:53,(:53) (Shotgun) R.Wilson pass incomplete short middle to T.Lockett.,10,2,0,SEA 37,0,SEA,
+11,1982,3,00:41,(:41) (Shotgun) R.Wilson pass incomplete short right to J.Graham (R.Harper).,2,2,8,SEA 45,0,SEA,
+11,2004,4,00:37,"(:37) J.Ryan punts 40 yards to CAR 15, Center-C.Gresham, fair catch by T.Ginn.",2,2,8,SEA 45,0,SEA,PUNT
+11,1944,2,00:49,(:49) (Shotgun) R.Wilson scrambles up the middle to SEA 45 for 8 yards (B.Benwikere).,10,2,8,SEA 37,0,SEA,
+10,1803,1,02:00,(2:00) (Shotgun) C.Newton left guard to SEA 37 for 9 yards (K.Pierre-Louis).,10,2,22,SEA 46,0,CAR,
+10,1824,2,01:24,(1:24) (Shotgun) C.Newton pass incomplete short right to E.Dickson.,1,2,22,SEA 37,0,CAR,
+10,1718,1,02:42,"(2:42) PENALTY on CAR-J.Cotchery, False Start, 5 yards, enforced at CAR 41 - No Play.",10,2,-5,CAR 41,0,CAR,PENALTY
+10,1846,3,01:19,(1:19) (Shotgun) C.Scott reported in as eligible.  M.Tolbert up the middle to SEA 37 for no gain (K.Pierre-Louis; K.Chancellor). SEA-C.Avril was injured during the play.,1,2,22,SEA 37,0,CAR,
+10,1786,0,02:00,Two-Minute Warning,0,2,13,,0,,
+10,1873,0,00:58,Timeout #1 by SEA at 00:58. SEA charged with timeout due to injury under 2 minutes.,0,2,22,,0,,TIMEOUT
+10,1762,2,02:06,(2:06) (Shotgun) C.Newton pass short middle to J.Cotchery to SEA 46 for 14 yards (E.Thomas; C.Williams).,11,2,13,CAR 40,0,CAR,
+10,1897,4,00:58,(:58) C.Scott reported in as eligible.  C.Newton pass incomplete deep right to G.Olsen (E.Thomas).,1,2,22,SEA 37,0,CAR,
+10,1741,1,02:42,(2:42) (Shotgun) J.Stewart up the middle to CAR 40 for 4 yards (K.Pierre-Louis; K.Wright).,15,2,-1,CAR 36,0,CAR,
+13,2117,2,14:21,(14:21) F.Whittaker right tackle to CAR 28 for 2 yards (C.Avril).,4,3,8,CAR 26,0,CAR,
+13,2160,4,13:35,"(13:35) B.Nortman punts 45 yards to SEA 27, Center-J.Jansen. T.Lockett to SEA 37 for 10 yards (C.Jones; T.Boston).",2,3,8,CAR 28,0,CAR,PUNT
+13,2138,3,13:39,(13:39) (Shotgun) C.Newton pass incomplete short middle to G.Olsen.,2,3,8,CAR 28,0,CAR,
+13,2093,1,15:00,(15:00) (Shotgun) C.Newton pass short left to F.Whittaker to CAR 26 for 6 yards (B.Irvin).,10,3,6,CAR 20,0,CAR,
+13,2074,0,15:00,"S.Hauschka kicks 65 yards from SEA 35 to end zone, Touchback.",0,3,0,SEA 35,0,SEA,KICKOFF
+12,2027,1,00:30,(:30) C.Newton kneels to CAR 14 for -1 yards.,10,2,-1,CAR 15,0,CAR,
+12,2048,0,,END QUARTER 2,0,2,-1,,0,,
+15,2347,2,10:51,(10:51) (Shotgun) C.Newton pass deep middle intended for T.Ginn INTERCEPTED by K.Chancellor at CAR 39. K.Chancellor to CAR 33 for 6 yards (J.Stewart).,7,3,3,CAR 23,0,CAR,INT
+15,2326,1,11:27,(11:27) (Shotgun) J.Stewart up the middle to CAR 23 for 3 yards (M.Bennett; K.Pierre-Louis).,10,3,3,CAR 20,0,CAR,
+15,2307,0,11:27,"S.Hauschka kicks 65 yards from SEA 35 to end zone, Touchback.",0,3,0,SEA 35,0,SEA,KICKOFF
+14,2291,0,11:27,"S.Hauschka extra point is GOOD, Center-C.Gresham, Holder-J.Ryan.",0,3,63,CAR 15,1,SEA,XP
+14,2266,1,11:36,"(11:36) R.Wilson pass deep left to R.Lockette for 40 yards, TOUCHDOWN. Wilson took bacwards pass from Lynch before throwing TD.",10,3,63,CAR 40,1,SEA,TD
+14,2186,1,13:25,(13:25) M.Lynch left tackle to SEA 35 for -2 yards (L.Kuechly; S.Thompson).,10,3,-2,SEA 37,0,SEA,
+14,2242,3,12:21,(12:21) (Shotgun) R.Wilson pass deep middle to J.Graham to CAR 40 for 27 yards (K.Coleman; R.Harper).,14,3,23,SEA 33,0,SEA,
+14,2207,2,12:50,"(12:50) (Shotgun) R.Wilson pass short right to D.Baldwin to SEA 33 for -2 yards (J.Norman). Penalty on SEA-L.Willson, Offensive Pass Interference, declined.",12,3,-4,SEA 35,0,SEA,
+17,2617,3,05:46,(5:46) (Shotgun) C.Newton pass short right to G.Olsen to SEA 24 for 22 yards (R.Sherman).,3,3,56,SEA 46,0,CAR,
+17,2595,2,05:50,(5:50) (Shotgun) C.Newton pass incomplete short right to J.Cotchery.,3,3,34,SEA 46,0,CAR,
+17,2553,2,06:59,(6:59) (Shotgun) J.Stewart left tackle to CAR 47 for 9 yards (K.Wright).,2,3,27,CAR 38,0,CAR,
+17,2708,2,03:39,"(3:39) C.Scott reported in as eligible.  J.Stewart left tackle for 1 yard, TOUCHDOWN.",1,3,80,SEA 1,1,CAR,TD
+17,2732,0,03:34,"G.Gano extra point is GOOD, Center-J.Jansen, Holder-B.Nortman.",0,3,80,SEA 15,1,CAR,XP
+17,2487,1,08:49,(8:49) J.Stewart right end to CAR 19 for -1 yards (C.Avril).,10,3,-1,CAR 20,0,CAR,
+17,2574,1,06:27,(6:27) (Shotgun) M.Tolbert up the middle to SEA 46 for 7 yards (K.Pierre-Louis; C.Marsh).,10,3,34,CAR 47,0,CAR,
+17,2468,0,08:49,"S.Hauschka kicks 65 yards from SEA 35 to end zone, Touchback.",0,3,0,SEA 35,0,SEA,KICKOFF
+17,2641,1,05:03,(5:03) C.Newton pass incomplete short middle to D.Funchess (E.Thomas).,10,3,56,SEA 24,0,CAR,
+17,2663,2,04:56,(4:56) (Shotgun) C.Newton pass deep right to G.Olsen to SEA 2 for 22 yards (K.Pierre-Louis).,10,3,78,SEA 24,0,CAR,
+17,2508,2,08:13,(8:13) (Shotgun) C.Newton pass short right to C.Brown pushed ob at CAR 30 for 11 yards (R.Sherman).,11,3,10,CAR 19,0,CAR,
+17,2532,1,07:38,(7:38) (Shotgun) J.Stewart right end to CAR 38 for 8 yards (R.Sherman; K.Pierre-Louis).,10,3,18,CAR 30,0,CAR,
+17,2687,1,04:21,(4:21) J.Stewart up the middle to SEA 1 for 1 yard (C.Williams; B.Irvin).,2,3,79,SEA 2,0,CAR,
+16,2397,2,10:02,(10:02) R.Wilson right end to CAR 34 for -5 yards (K.Ealy).,6,3,-1,CAR 29,0,SEA,
+16,2449,4,08:54,"(8:54) S.Hauschka 50 yard field goal is GOOD, Center-C.Gresham, Holder-J.Ryan.",9,3,1,CAR 32,1,SEA,FG
+16,2425,3,09:24,(9:24) (Shotgun) R.Wilson pass short left to F.Jackson pushed ob at CAR 32 for 2 yards (B.Benwikere).,11,3,1,CAR 34,0,SEA,
+16,2373,1,10:40,(10:40) (Shotgun) R.Wilson pass short middle to J.Graham to CAR 29 for 4 yards (R.Harper; T.Davis).,10,3,4,CAR 33,0,SEA,
+19,2921,4,01:08,"(1:08) B.Nortman punts 59 yards to SEA 18, Center-J.Jansen. T.Lockett to SEA 31 for 13 yards (D.Mayo). PENALTY on SEA-C.Butler, Illegal Block Above the Waist, 10 yards, enforced at SEA 26.",16,3,-6,CAR 23,0,CAR,PUNT
+19,2858,1,02:32,(2:32) (Shotgun) C.Newton pass incomplete deep middle to T.Ginn [D.Dobbs].,10,3,0,CAR 29,0,CAR,
+19,2880,2,02:25,(2:25) (Shotgun) J.Stewart left tackle to CAR 27 for -2 yards (D.Dobbs).,10,3,-2,CAR 29,0,CAR,
+19,2902,3,01:45,(1:45) (Shotgun) C.Newton sacked at CAR 23 for -4 yards (M.Morgan).,12,3,-6,CAR 27,0,CAR,
+18,2748,0,03:34,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback.",0,3,0,CAR 35,0,CAR,KICKOFF
+18,2789,2,03:30,(3:30) (Shotgun) M.Lynch up the middle to SEA 22 for 2 yards (L.Kuechly; K.Ealy).,10,3,2,SEA 20,0,SEA,
+18,2767,1,03:34,(3:34) (Shotgun) R.Wilson pass incomplete short left to J.Graham (B.Benwikere).,10,3,0,SEA 20,0,SEA,
+18,2810,3,02:50,(2:50) (Shotgun) R.Wilson pass incomplete short left to J.Graham (K.Short).,8,3,2,SEA 22,0,SEA,
+18,2832,4,02:46,"(2:46) J.Ryan punts 60 yards to CAR 18, Center-C.Gresham. T.Ginn to CAR 29 for 11 yards (L.Willson).",8,3,2,SEA 22,0,SEA,PUNT

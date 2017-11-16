@@ -1,175 +1,175 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1382,4,03:56,,6,2,4,TB 17,0,TB,PUNT
-9,1284,1,05:20,,10,2,0,TB 13,0,TB,
-9,1351,4,04:10,,1,2,4,TB 22,0,TB,PENALTY
-9,1330,3,04:34,,6,2,9,TB 17,0,TB,
-9,1306,2,05:14,,10,2,4,TB 13,0,TB,
-24,4138,1,14:53,,10,5,10,TB 17,1,TB,TD
-24,4094,0,15:00,,0,5,0,MIN 35,0,MIN,KICKOFF
-10,1461,3,02:50,,9,2,6,MIN 36,0,MIN,PENALTY
-10,1494,1,02:43,,10,2,6,MIN 41,0,MIN,
-10,1533,2,02:33,,10,2,6,MIN 41,0,MIN,
-10,1579,0,02:00,,0,2,15,,0,,
-10,1516,0,02:33,,0,2,6,,0,,TIMEOUT
-10,1418,1,03:37,,10,2,1,MIN 35,0,MIN,
-10,1596,4,02:00,,1,2,15,50,0,MIN,FUMBLE
-10,1555,3,02:27,,10,2,15,MIN 41,0,MIN,
-10,1440,2,03:33,,10,2,1,MIN 35,0,MIN,
-20,3230,2,10:04,,10,4,51,MIN 40,0,TB,
-20,3294,3,08:09,,8,4,53,MIN 27,0,TB,
-20,3275,2,08:48,,6,4,53,MIN 25,0,TB,
-20,3209,1,10:40,,10,4,40,MIN 40,0,TB,
-20,3174,1,11:03,,10,4,40,TB 20,0,TB,
-20,3254,1,09:23,,10,4,55,MIN 29,0,TB,
-20,3318,4,07:25,,8,4,53,MIN 27,1,TB,FG
-6,1078,4,09:18,,10,2,11,50,0,MIN,PUNT
-6,1035,2,10:42,,14,2,17,MIN 46,0,MIN,
-6,987,1,11:48,,10,2,11,MIN 39,0,MIN,
-6,1011,1,11:21,,10,2,7,50,0,MIN,
-6,1059,3,09:56,,4,2,11,TB 44,0,MIN,
-18,2719,1,00:39,,10,3,11,TB 49,0,TB,
-18,2804,3,14:22,,6,4,15,MIN 36,0,TB,
-18,2743,1,00:12,,10,3,12,MIN 40,0,TB,
-18,2764,0,,,0,3,12,,0,,
-18,2780,2,15:00,,9,4,15,MIN 39,0,TB,
-18,2826,4,14:17,,6,4,15,MIN 36,1,TB,FG
-1,100,1,13:45,,10,1,21,TB 23,0,TB,
-1,166,3,11:52,,7,1,30,TB 37,0,TB,
-1,58,1,14:55,,10,1,7,TB 13,0,TB,
-1,124,1,13:08,,10,1,21,TB 34,0,TB,
-1,79,2,14:27,,3,1,10,TB 20,0,TB,
-1,236,2,10:02,,10,1,32,TB 45,0,TB,INT
-1,145,2,12:30,,10,1,24,TB 34,0,TB,
-1,194,4,11:23,,1,1,32,TB 43,0,TB,
-1,36,0,15:00,,0,1,0,MIN 35,0,MIN,KICKOFF
-1,215,1,10:39,,10,1,32,TB 45,0,TB,
-5,968,4,11:59,,4,2,6,TB 26,0,TB,PUNT
-5,858,1,13:32,,10,2,0,TB 20,0,TB,
-5,936,3,12:20,,17,2,6,TB 13,0,TB,
-5,901,3,12:49,,7,2,6,TB 23,0,TB,PENALTY
-5,880,2,13:27,,10,2,6,TB 20,0,TB,
-13,1945,2,14:26,,6,3,3,MIN 24,0,MIN,
-13,1924,1,15:00,,10,3,4,MIN 20,0,MIN,
-13,2077,3,12:11,,10,3,29,MIN 49,0,MIN,
-13,2055,2,12:16,,10,3,29,MIN 49,0,MIN,
-13,2099,4,12:05,,10,3,29,MIN 49,0,MIN,PUNT
-13,1966,3,13:41,,7,3,15,MIN 23,0,MIN,
-13,2033,1,12:21,,10,3,29,MIN 49,0,MIN,
-13,1905,0,15:00,,0,3,0,TB 35,0,TB,KICKOFF
-13,1990,1,13:02,,10,3,15,MIN 35,0,MIN,
-13,2012,2,12:56,,10,3,29,MIN 35,0,MIN,
-21,3426,4,05:55,,4,4,6,MIN 29,0,MIN,PUNT
-21,3337,0,07:19,,0,4,0,TB 35,0,TB,KICKOFF
-21,3359,1,07:13,,10,4,5,MIN 23,0,MIN,
-21,3383,2,06:37,,5,4,6,MIN 28,0,MIN,
-21,3404,3,05:59,,4,4,6,MIN 29,0,MIN,
-23,3934,1,00:34,,10,4,49,TB 34,0,MIN,
-23,3888,1,00:46,,10,4,29,MIN 49,0,MIN,
-23,3975,2,00:27,,7,4,49,TB 31,0,MIN,
-23,4038,0,00:04,,0,4,61,,0,,TIMEOUT
-23,3837,1,01:28,,10,4,19,MIN 39,0,MIN,
-23,3859,2,01:22,,10,4,29,MIN 39,0,MIN,
-23,3997,3,00:22,,7,4,61,TB 31,0,MIN,
-23,3763,0,01:57,,0,4,0,,0,,
-23,3813,1,01:53,,10,4,19,MIN 27,0,MIN,
-23,3958,0,00:27,,0,4,49,,0,,TIMEOUT
-23,4061,1,00:04,,10,4,61,TB 19,1,MIN,FG
-23,4021,0,00:04,,0,4,61,,0,,TIMEOUT
-23,3910,2,00:42,,10,4,46,MIN 49,0,MIN,
-23,3780,1,01:57,,10,4,7,MIN 20,0,MIN,PENALTY
-23,3741,0,02:02,,0,4,0,TB 35,0,TB,KICKOFF
-11,1715,4,01:08,,12,2,-2,TB 16,0,TB,PUNT
-11,1685,3,01:12,,7,2,-2,TB 21,0,TB,
-11,1649,2,01:22,,6,2,3,TB 22,0,TB,
-11,1625,1,01:50,,10,2,4,TB 18,0,TB,
-11,1668,0,01:12,,0,2,-2,,0,,TIMEOUT
-14,2167,3,10:36,,11,3,-1,TB 7,0,TB,
-14,2143,2,11:15,,8,3,-1,TB 10,0,TB,
-14,2122,1,11:54,,10,3,2,TB 8,0,TB,
-14,2189,4,10:30,,11,3,-1,TB 7,0,TB,PUNT
-8,1217,2,06:47,,13,2,5,MIN 37,0,MIN,
-8,1265,4,05:29,,3,2,7,MIN 47,0,MIN,PUNT
-8,1241,3,06:09,,5,2,7,MIN 45,0,MIN,
-8,1196,1,07:30,,10,2,-3,MIN 40,0,MIN,
-19,3153,4,11:11,,9,4,39,TB 41,0,MIN,PUNT
-19,3109,2,11:20,,9,4,39,TB 41,0,MIN,
-19,2889,2,14:00,,10,4,5,MIN 20,0,MIN,
-19,2867,1,14:07,,10,4,0,MIN 20,0,MIN,
-19,2969,1,12:34,,10,4,23,MIN 43,0,MIN,
-19,3042,2,12:27,,10,4,23,MIN 43,0,MIN,
-19,3064,3,12:22,,10,4,38,MIN 43,0,MIN,
-19,2945,3,12:48,,15,4,23,MIN 15,0,MIN,TIMEOUT
-19,2910,3,13:16,,5,4,-5,MIN 25,0,MIN,PENALTY
-19,2845,0,14:12,,0,4,0,TB 35,0,TB,KICKOFF
-19,3088,1,11:59,,10,4,39,TB 42,0,MIN,
-19,3131,3,11:12,,9,4,39,TB 41,0,MIN,
-22,3641,3,03:16,,3,4,63,MIN 10,0,TB,
-22,3473,2,05:34,,10,4,13,TB 29,0,TB,
-22,3700,1,02:11,,7,4,71,MIN 7,1,TB,TD
-22,3497,1,04:56,,10,4,22,TB 42,0,TB,
-22,3556,1,04:10,,10,4,54,MIN 26,0,TB,PENALTY
-22,3617,2,03:57,,10,4,61,MIN 17,0,TB,
-22,3521,2,04:16,,1,4,45,MIN 49,0,TB,
-22,3725,0,02:02,,0,4,71,MIN 2,1,TB,XP
-22,3589,1,04:05,,10,4,54,MIN 17,0,TB,
-22,3451,1,05:40,,10,4,0,TB 29,0,TB,
-22,3679,4,02:35,,1,4,64,MIN 8,0,TB,
-22,3662,0,02:35,,0,4,63,,0,,TIMEOUT
-12,1762,1,00:34,,10,2,30,TB 47,0,MIN,
-12,1803,1,00:26,,10,2,38,TB 36,0,MIN,
-12,1872,3,00:05,,2,2,38,TB 28,1,MIN,FG
-12,1786,0,00:26,,0,2,30,,0,,TIMEOUT
-12,1849,0,00:05,,0,2,38,,0,,TIMEOUT
-12,1738,1,00:59,,10,2,19,MIN 34,0,MIN,
-12,1827,2,00:05,,2,2,38,TB 28,0,MIN,
-16,2590,3,03:20,,13,3,24,TB 48,0,TB,
-16,2481,1,05:36,,10,3,32,TB 35,0,TB,PENALTY
-16,2384,0,07:09,,0,3,0,MIN 35,0,MIN,KICKOFF
-16,2609,4,02:43,,17,3,24,TB 44,0,TB,PUNT
-16,2424,2,06:29,,9,3,10,TB 21,0,TB,
-16,2534,2,04:33,,9,3,22,MIN 48,0,TB,PENALTY
-16,2448,1,05:43,,10,3,15,TB 30,0,TB,PENALTY
-16,2513,1,05:10,,10,3,32,MIN 49,0,TB,
-16,2569,2,04:08,,19,3,28,TB 42,0,TB,
-16,2403,1,07:09,,10,3,1,TB 20,0,TB,
-7,1095,1,09:09,,10,2,0,TB 20,0,TB,
-7,1166,4,07:42,,7,2,3,TB 23,0,TB,PUNT
-7,1116,2,08:25,,10,2,3,TB 20,0,TB,
-7,1137,3,07:50,,7,2,3,TB 23,0,TB,
-3,594,3,01:34,,12,1,9,MIN 45,0,TB,
-3,616,4,01:28,,12,1,9,MIN 45,0,TB,PUNT
-3,459,1,04:34,,10,1,2,TB 46,0,TB,
-3,483,2,04:01,,8,1,7,TB 48,0,TB,
-3,572,2,01:39,,12,1,9,MIN 45,0,TB,
-3,549,2,02:39,,7,1,9,MIN 40,0,TB,PENALTY
-3,528,1,02:39,,10,1,14,MIN 43,0,TB,
-3,504,3,03:18,,3,1,11,MIN 47,0,TB,
-17,2655,2,01:59,,10,3,-5,MIN 7,0,MIN,
-17,2697,4,00:51,,10,3,0,MIN 7,0,MIN,PUNT
-17,2676,3,01:25,,15,3,0,MIN 2,0,MIN,
-17,2634,1,02:29,,10,3,0,MIN 7,0,MIN,
-4,820,0,13:40,,0,2,28,,0,,TIMEOUT
-4,639,1,01:19,,10,1,5,MIN 23,0,MIN,PENALTY
-4,709,1,00:27,,10,1,20,MIN 33,0,MIN,
-4,791,3,13:45,,2,2,28,TB 49,0,MIN,
-4,767,2,14:22,,8,2,28,MIN 45,0,MIN,
-4,674,1,00:52,,10,1,10,MIN 28,0,MIN,PENALTY
-4,841,4,13:40,,2,2,28,TB 49,0,MIN,PUNT
-4,746,1,15:00,,10,2,22,MIN 43,0,MIN,
-4,730,0,,,0,1,20,,0,,
-2,394,2,06:13,,10,1,48,TB 45,0,MIN,
-2,283,1,09:16,,10,1,30,MIN 29,0,MIN,
-2,373,1,06:50,,10,1,40,TB 45,0,MIN,
-2,262,1,09:51,,10,1,14,MIN 15,0,MIN,
-2,439,4,04:42,,3,1,47,TB 38,0,MIN,FGM
-2,352,3,07:17,,2,1,40,TB 48,0,MIN,
-2,328,2,07:59,,9,1,47,MIN 45,0,MIN,
-2,307,1,08:42,,10,1,30,MIN 44,0,MIN,
-2,415,3,05:29,,2,1,47,TB 37,0,MIN,
-15,2246,2,09:50,,2,3,14,MIN 45,0,MIN,
-15,2368,0,07:09,,0,3,63,TB 2,1,MIN,XP
-15,2267,1,09:09,,10,3,42,TB 49,0,MIN,
-15,2225,1,10:18,,10,3,8,MIN 37,0,MIN,
-15,2343,3,07:17,,6,3,63,TB 17,1,MIN,TD
-15,2314,2,07:51,,15,3,46,TB 26,0,MIN,
-15,2293,1,08:32,,10,3,37,TB 21,0,MIN,
+24,4138,1,14:53,"(14:53) M.Glennon pass short right to A.Seferian-Jenkins to TB 27 for 10 yards (A.Barr). FUMBLES (A.Barr), RECOVERED by MIN-A.Barr at TB 27. A.Barr for 27 yards, TOUCHDOWN. The Replay Official challenged the fumble ruling, and the play was Upheld. The ruling on the field was confirmed.",10,5,10,TB 17,1,TB,TD
+24,4094,0,15:00,"B.Walsh kicks 73 yards from MIN 35 to TB -8. T.Holliday pushed ob at TB 17 for 25 yards (S.Prater). Penalty on TB-B.McDougald, Offensive Holding, offsetting, enforced at TB 17. Penalty on MIN, Horse Collar Tackle, offsetting.",0,5,0,MIN 35,0,MIN,KICKOFF
+20,3230,2,10:04,(10:04) M.Glennon pass short middle to B.Rainey to MIN 29 for 11 yards (A.Barr).,10,4,51,MIN 40,0,TB,
+20,3254,1,09:23,(9:23) B.Rainey left guard to MIN 25 for 4 yards (L.Joseph).,10,4,55,MIN 29,0,TB,
+20,3209,1,10:40,"(10:40) B.Rainey right guard to MIN 40 for no gain (C.Wootton, L.Joseph).",10,4,40,MIN 40,0,TB,
+20,3318,4,07:25,"(7:25) (Field Goal formation) P.Murray 45 yard field goal is GOOD, Center-A.DePaola, Holder-M.Koenen.",8,4,53,MIN 27,1,TB,FG
+20,3275,2,08:48,(8:48) M.Glennon sacked at MIN 27 for -2 yards (B.Robison).,6,4,53,MIN 25,0,TB,
+20,3294,3,08:09,(8:09) (Shotgun) M.Glennon pass short left to B.Rainey to MIN 27 for no gain (C.Greenway).,8,4,53,MIN 27,0,TB,
+20,3174,1,11:03,"(11:03) M.Glennon pass deep right to M.Evans pushed ob at MIN 40 for 40 yards (J.Robinson). Penalty on MIN-L.Joseph, Illegal Use of Hands, declined.",10,4,40,TB 20,0,TB,
+21,3359,1,07:13,(7:13) (Shotgun) T.Bridgewater pass short middle to M.Asiata to MIN 28 for 5 yards (L.David; D.Lansanah).,10,4,5,MIN 23,0,MIN,
+21,3426,4,05:55,"(5:55) (Punt formation) J.Locke punts 59 yards to TB 12, Center-C.Loeffler. T.Holliday to TB 29 for 17 yards (M.Mauti).",4,4,6,MIN 29,0,MIN,PUNT
+21,3337,0,07:19,M.Koenen kicks 73 yards from TB 35 to MIN -8. C.Patterson to MIN 23 for 31 yards (M.Barron).,0,4,0,TB 35,0,TB,KICKOFF
+21,3383,2,06:37,(6:37) (Shotgun) M.Asiata up the middle to MIN 29 for 1 yard (M.Johnson).,5,4,6,MIN 28,0,MIN,
+21,3404,3,05:59,(5:59) (Shotgun) T.Bridgewater pass incomplete short middle to G.Jennings (W.Gholston).,4,4,6,MIN 29,0,MIN,
+22,3556,1,04:10,"(4:10) M.Glennon pass incomplete short right to V.Jackson. PENALTY on MIN-J.Robinson, Defensive Pass Interference, 9 yards, enforced at MIN 26 - No Play.",10,4,54,MIN 26,0,TB,PENALTY
+22,3451,1,05:40,(5:40) (Shotgun) M.Glennon pass incomplete short middle to M.Evans.,10,4,0,TB 29,0,TB,
+22,3473,2,05:34,(5:34) (Shotgun) M.Glennon pass short left to V.Jackson to TB 42 for 13 yards (C.Munnerlyn).,10,4,13,TB 29,0,TB,
+22,3497,1,04:56,(4:56) M.Glennon pass short middle to B.Rainey to MIN 49 for 9 yards (E.Griffen).,10,4,22,TB 42,0,TB,
+22,3617,2,03:57,(3:57) (Shotgun) M.Glennon pass short left to L.Murphy to MIN 10 for 7 yards (C.Greenway).,10,4,61,MIN 17,0,TB,
+22,3662,0,02:35,Timeout #1 by MIN at 02:35.,0,4,63,,0,,TIMEOUT
+22,3679,4,02:35,"(2:35) M.James up the middle to MIN 7 for 1 yard (S.Floyd, J.Brinkley).",1,4,64,MIN 8,0,TB,
+22,3521,2,04:16,"(4:16) M.Glennon pass deep left to M.Evans pushed ob at MIN 26 for 23 yards (R.Blanton). Penalty on MIN-X.Rhodes, Defensive Holding, declined.",1,4,45,MIN 49,0,TB,
+22,3725,0,02:02,"P.Murray extra point is GOOD, Center-A.DePaola, Holder-M.Koenen.",0,4,71,MIN 2,1,TB,XP
+22,3589,1,04:05,(4:05) M.Glennon sacked ob at MIN 17 for 0 yards (A.Barr).,10,4,54,MIN 17,0,TB,
+22,3700,1,02:11,"(2:11) M.Glennon pass short left to A.Seferian-Jenkins for 7 yards, TOUCHDOWN.",7,4,71,MIN 7,1,TB,TD
+22,3641,3,03:16,(3:16) B.Rainey right guard to MIN 8 for 2 yards (S.Floyd).,3,4,63,MIN 10,0,TB,
+23,3813,1,01:53,(1:53) (Shotgun) T.Bridgewater pass short left to C.Patterson to MIN 39 for 12 yards (I.Frey).,10,4,19,MIN 27,0,MIN,
+23,3780,1,01:57,"(1:57) (Shotgun) T.Bridgewater pass incomplete short left to C.Patterson. PENALTY on TB-A.Verner, Defensive Pass Interference, 7 yards, enforced at MIN 20 - No Play.",10,4,7,MIN 20,0,MIN,PENALTY
+23,3763,0,01:57,Two-Minute Warning,0,4,0,,0,,
+23,3910,2,00:42,(:42) (Shotgun) T.Bridgewater pass deep right to J.Wright pushed ob at TB 34 for 17 yards (A.Verner).,10,4,46,MIN 49,0,MIN,
+23,3934,1,00:34,(:34) (Shotgun) T.Bridgewater pass short right to C.Ford to TB 31 for 3 yards (A.Verner).,10,4,49,TB 34,0,MIN,
+23,3888,1,00:46,"(:46) (No Huddle, Shotgun) T.Bridgewater pass incomplete short left to C.Patterson (J.Banks).",10,4,29,MIN 49,0,MIN,
+23,3741,0,02:02,M.Koenen kicks 68 yards from TB 35 to MIN -3. C.Patterson to MIN 20 for 23 yards (D.Goldson).,0,4,0,TB 35,0,TB,KICKOFF
+23,4061,1,00:04,"(:04) (Field Goal formation) B.Walsh 38 yard field goal is GOOD, Center-C.Loeffler, Holder-J.Locke.",10,4,61,TB 19,1,MIN,FG
+23,3837,1,01:28,"(1:28) (No Huddle, Shotgun) T.Bridgewater pass incomplete short left to C.Patterson.",10,4,19,MIN 39,0,MIN,
+23,3975,2,00:27,(:27) (Shotgun) T.Bridgewater pass incomplete short middle to M.Asiata [W.Gholston].,7,4,49,TB 31,0,MIN,
+23,3958,0,00:27,Timeout #2 by MIN at 00:27.,0,4,49,,0,,TIMEOUT
+23,4021,0,00:04,Timeout #3 by MIN at 00:04.,0,4,61,,0,,TIMEOUT
+23,3997,3,00:22,"(:22) (Shotgun) T.Bridgewater pass short middle to C.Ford to TB 19 for 12 yards (M.Foster, L.David).",7,4,61,TB 31,0,MIN,
+23,4038,0,00:04,Timeout #2 by TB at 00:04.,0,4,61,,0,,TIMEOUT
+23,3859,2,01:22,(1:22) (Shotgun) T.Bridgewater pass short left to G.Jennings to MIN 49 for 10 yards (J.Banks).,10,4,29,MIN 39,0,MIN,
+1,145,2,12:30,"(12:30) D.Martin right guard to TB 37 for 3 yards (A.Barr, C.Greenway).",10,1,24,TB 34,0,TB,
+1,58,1,14:55,(14:55) D.Martin right guard to TB 20 for 7 yards (S.Floyd).,10,1,7,TB 13,0,TB,
+1,194,4,11:23,(11:23) M.Glennon up the middle to TB 45 for 2 yards (A.Barr).,1,1,32,TB 43,0,TB,
+1,36,0,15:00,B.Walsh kicks 72 yards from MIN 35 to TB -7. T.Holliday to TB 13 for 20 yards (A.Sendejo).,0,1,0,MIN 35,0,MIN,KICKOFF
+1,215,1,10:39,"(10:39) D.Martin left guard to TB 45 for no gain (B.Robison, S.Floyd).",10,1,32,TB 45,0,TB,
+1,124,1,13:08,(13:08) D.Martin right end to TB 34 for no gain (A.Barr).,10,1,21,TB 34,0,TB,
+1,236,2,10:02,(10:02) M.Glennon pass deep right intended for M.Evans INTERCEPTED by C.Munnerlyn at MIN 15. C.Munnerlyn to MIN 15 for no gain (M.Evans).,10,1,32,TB 45,0,TB,INT
+1,100,1,13:45,"(13:45) M.Glennon pass short right to M.Evans to TB 34 for 11 yards (C.Munnerlyn, C.Greenway).",10,1,21,TB 23,0,TB,
+1,166,3,11:52,(11:52) (Shotgun) M.Glennon pass short left to B.Rainey to TB 43 for 6 yards (S.Floyd).,7,1,30,TB 37,0,TB,
+1,79,2,14:27,(14:27) D.Martin right guard to TB 23 for 3 yards (C.Greenway).,3,1,10,TB 20,0,TB,
+3,459,1,04:34,(4:34) (Shotgun) M.Glennon pass short right to D.Martin to TB 48 for 2 yards (C.Wootton).,10,1,2,TB 46,0,TB,
+3,594,3,01:34,(1:34) (Shotgun) M.Glennon pass incomplete short right to V.Jackson.,12,1,9,MIN 45,0,TB,
+3,483,2,04:01,"(4:01) D.Martin right guard to MIN 47 for 5 yards (C.Greenway, J.Brinkley).",8,1,7,TB 48,0,TB,
+3,616,4,01:28,"(1:28) (Punt formation) M.Koenen punts 22 yards to MIN 23, Center-A.DePaola, fair catch by M.Sherels.",12,1,9,MIN 45,0,TB,PUNT
+3,572,2,01:39,(1:39) (Shotgun) M.Glennon pass incomplete short left to V.Jackson [E.Griffen].,12,1,9,MIN 45,0,TB,
+3,504,3,03:18,(3:18) (Shotgun) M.Glennon pass short middle to M.Evans to MIN 43 for 4 yards (C.Munnerlyn).,3,1,11,MIN 47,0,TB,
+3,549,2,02:39,"(2:39) (Shotgun) PENALTY on TB-E.Dietrich-Smith, False Start, 5 yards, enforced at MIN 40 - No Play.",7,1,9,MIN 40,0,TB,PENALTY
+3,528,1,02:39,"(2:39) D.Martin right tackle to MIN 40 for 3 yards (C.Wootton, R.Blanton).",10,1,14,MIN 43,0,TB,
+2,373,1,06:50,(6:50) J.McKinnon left tackle to TB 45 for no gain (L.David).,10,1,40,TB 45,0,MIN,
+2,415,3,05:29,(5:29) (Shotgun) T.Bridgewater pass short right to J.McKinnon to TB 38 for -1 yards (L.David).,2,1,47,TB 37,0,MIN,
+2,439,4,04:42,"(4:42) (Field Goal formation) B.Walsh 56 yard field goal is No Good, Wide Left, Center-C.Loeffler, Holder-J.Locke.",3,1,47,TB 38,0,MIN,FGM
+2,307,1,08:42,(8:42) J.McKinnon right tackle to MIN 45 for 1 yard (C.McDonald).,10,1,30,MIN 44,0,MIN,
+2,262,1,09:51,(9:51) J.McKinnon right end to MIN 29 for 14 yards (D.Goldson).,10,1,14,MIN 15,0,MIN,
+2,352,3,07:17,(7:17) (Shotgun) T.Bridgewater scrambles left end pushed ob at TB 45 for 3 yards (L.David).,2,1,40,TB 48,0,MIN,
+2,394,2,06:13,"(6:13) J.McKinnon right tackle to TB 37 for 8 yards (D.Goldson, M.Foster).",10,1,48,TB 45,0,MIN,
+2,283,1,09:16,"(9:16) (Shotgun) T.Bridgewater pass short middle to C.Patterson to MIN 44 for 15 yards (M.Barron, A.Verner).",10,1,30,MIN 29,0,MIN,
+2,328,2,07:59,(7:59) (Shotgun) T.Bridgewater pass short left to C.Ford to TB 48 for 7 yards (D.Goldson).,9,1,47,MIN 45,0,MIN,
+5,968,4,11:59,"(11:59) (Punt formation) M.Koenen punts 35 yards to MIN 39, Center-A.DePaola, downed by TB-R.Shepard.",4,2,6,TB 26,0,TB,PUNT
+5,880,2,13:27,"(13:27) B.Rainey right guard to TB 23 for 3 yards (S.Floyd, C.Greenway).",10,2,6,TB 20,0,TB,
+5,858,1,13:32,(13:32) M.Glennon pass incomplete short right to M.Evans.,10,2,0,TB 20,0,TB,
+5,936,3,12:20,"(12:20) B.Rainey up the middle to TB 26 for 13 yards (H.Smith). Penalty on TB, Offensive Holding, declined.",17,2,6,TB 13,0,TB,
+5,901,3,12:49,"(12:49) M.Glennon pass short middle to B.Rainey to TB 39 for 16 yards (R.Blanton). PENALTY on TB-G.Gilkey, Offensive Holding, 10 yards, enforced at TB 23 - No Play.",7,2,6,TB 23,0,TB,PENALTY
+4,709,1,00:27,"(:27) C.Patterson right end to MIN 43 for 10 yards (M.Foster, L.David).",10,1,20,MIN 33,0,MIN,
+4,746,1,15:00,(15:00) J.McKinnon left guard to MIN 45 for 2 yards (A.Verner).,10,2,22,MIN 43,0,MIN,
+4,674,1,00:52,"(:52) T.Bridgewater pass short middle to J.McKinnon to MIN 37 for 9 yards (L.David). PENALTY on TB-W.Gholston, Illegal Use of Hands, 5 yards, enforced at MIN 28 - No Play.",10,1,10,MIN 28,0,MIN,PENALTY
+4,639,1,01:19,"(1:19) T.Bridgewater pass short middle to J.McKinnon to MIN 26 for 3 yards (L.David, W.Gholston). PENALTY on TB-D.Lansanah, Defensive Holding, 5 yards, enforced at MIN 23 - No Play.",10,1,5,MIN 23,0,MIN,PENALTY
+4,767,2,14:22,(14:22) T.Bridgewater pass short right to Charles.Johnson to TB 49 for 6 yards (A.Verner).,8,2,28,MIN 45,0,MIN,
+4,791,3,13:45,(13:45) (Shotgun) T.Bridgewater pass incomplete short right to G.Jennings.,2,2,28,TB 49,0,MIN,
+4,730,0,,END QUARTER 1,0,1,20,,0,,
+4,841,4,13:40,"(13:40) (Punt formation) J.Locke punts 49 yards to end zone, Center-C.Loeffler, Touchback.",2,2,28,TB 49,0,MIN,PUNT
+4,820,0,13:40,Timeout #1 by TB at 13:40.,0,2,28,,0,,TIMEOUT
+7,1095,1,09:09,(9:09) R.Herron left end to TB 20 for no gain (E.Griffen).,10,2,0,TB 20,0,TB,
+7,1166,4,07:42,"(7:42) (Punt formation) M.Koenen punts 42 yards to MIN 35, Center-A.DePaola. M.Sherels pushed ob at MIN 40 for 5 yards (D.Fletcher).",7,2,3,TB 23,0,TB,PUNT
+7,1137,3,07:50,(7:50) (Shotgun) M.Glennon pass incomplete short right to A.Seferian-Jenkins (A.Barr).,7,2,3,TB 23,0,TB,
+7,1116,2,08:25,(8:25) (Shotgun) D.Martin right guard to TB 23 for 3 yards (L.Joseph).,10,2,3,TB 20,0,TB,
+6,1059,3,09:56,(9:56) (Shotgun) T.Bridgewater sacked at 50 for -6 yards (sack split by G.McCoy and C.McDonald).,4,2,11,TB 44,0,MIN,
+6,1035,2,10:42,"(10:42) (Shotgun) T.Bridgewater pass short right to M.Asiata to TB 44 for 10 yards (L.David, G.McCoy).",14,2,17,MIN 46,0,MIN,
+6,987,1,11:48,(11:48) (Shotgun) T.Bridgewater pass short left to G.Jennings to 50 for 11 yards (M.Barron).,10,2,11,MIN 39,0,MIN,
+6,1078,4,09:18,"(9:18) (Punt formation) J.Locke punts 50 yards to end zone, Center-C.Loeffler, Touchback.",10,2,11,50,0,MIN,PUNT
+6,1011,1,11:21,(11:21) (Shotgun) T.Bridgewater pass short right to J.Wright to MIN 46 for -4 yards (A.Verner).,10,2,7,50,0,MIN,
+9,1284,1,05:20,(5:20) M.Glennon pass incomplete short left to B.Myers [A.Barr].,10,2,0,TB 13,0,TB,
+9,1306,2,05:14,"(5:14) (Shotgun) M.Glennon pass short right to L.Murphy to TB 17 for 4 yards (A.Barr, H.Smith).",10,2,4,TB 13,0,TB,
+9,1351,4,04:10,"(4:10) (Punt formation) PENALTY on TB, Delay of Game, 5 yards, enforced at TB 22 - No Play.",1,2,4,TB 22,0,TB,PENALTY
+9,1330,3,04:34,(4:34) (Shotgun) M.Glennon scrambles right end pushed ob at TB 22 for 5 yards (B.Robison).,6,2,9,TB 17,0,TB,
+9,1382,4,03:56,"(3:56) (Punt formation) M.Koenen punts 51 yards to MIN 32, Center-A.DePaola. M.Sherels to TB 26 for 42 yards (A.DePaola). PENALTY on MIN-J.Price, Offensive Holding, 10 yards, enforced at MIN 45.",6,2,4,TB 17,0,TB,PUNT
+8,1241,3,06:09,(6:09) (Shotgun) T.Bridgewater pass short middle to M.Asiata to MIN 47 for 2 yards (L.David).,5,2,7,MIN 45,0,MIN,
+8,1217,2,06:47,(6:47) (Shotgun) T.Bridgewater pass short right to C.Patterson to MIN 45 for 8 yards (C.Butler).,13,2,5,MIN 37,0,MIN,
+8,1265,4,05:29,"(5:29) (Punt formation) J.Locke punts 40 yards to TB 13, Center-C.Loeffler, fair catch by T.Holliday.",3,2,7,MIN 47,0,MIN,PUNT
+8,1196,1,07:30,(7:30) J.McKinnon right end to MIN 37 for -3 yards (D.Lansanah).,10,2,-3,MIN 40,0,MIN,
+11,1685,3,01:12,"(1:12) (Shotgun) M.Glennon sacked at TB 16 for -5 yards (E.Griffen). Penalty on TB-L.Mankins, Offensive Holding, declined.",7,2,-2,TB 21,0,TB,
+11,1649,2,01:22,(1:22) (Shotgun) M.Glennon sacked at TB 21 for -1 yards (S.Floyd).,6,2,3,TB 22,0,TB,
+11,1715,4,01:08,"(1:08) (Punt formation) M.Koenen punts 50 yards to MIN 34, Center-A.DePaola, fair catch by M.Sherels.",12,2,-2,TB 16,0,TB,PUNT
+11,1625,1,01:50,(1:50) (Shotgun) M.Glennon pass short right to B.Rainey to TB 22 for 4 yards (C.Greenway).,10,2,4,TB 18,0,TB,
+11,1668,0,01:12,Timeout #2 by MIN at 01:12.,0,2,-2,,0,,TIMEOUT
+10,1555,3,02:27,(2:27) (Shotgun) T.Bridgewater pass short left to M.Asiata to 50 for 9 yards (M.Foster).,10,2,15,MIN 41,0,MIN,
+10,1418,1,03:37,(3:37) T.Bridgewater pass incomplete short left to C.Patterson (T.Fatinikun).,10,2,1,MIN 35,0,MIN,
+10,1579,0,02:00,Two-Minute Warning,0,2,15,,0,,
+10,1596,4,02:00,"(2:00) (Punt formation) J.Locke punts 32 yards to TB 18, Center-C.Loeffler. T.Holliday MUFFS catch, and recovers at TB 18. T.Holliday to TB 18 for no gain (R.Ellison).",1,2,15,50,0,MIN,FUMBLE
+10,1494,1,02:43,(2:43) T.Bridgewater pass incomplete deep middle to Charles.Johnson (A.Verner).,10,2,6,MIN 41,0,MIN,
+10,1440,2,03:33,(3:33) (Shotgun) J.McKinnon left guard to MIN 36 for 1 yard (L.David).,10,2,1,MIN 35,0,MIN,
+10,1533,2,02:33,(2:33) (Shotgun) T.Bridgewater pass incomplete deep left to G.Jennings.,10,2,6,MIN 41,0,MIN,
+10,1516,0,02:33,Timeout #1 by MIN at 02:33.,0,2,6,,0,,TIMEOUT
+10,1461,3,02:50,"(2:50) (Shotgun) T.Bridgewater pass incomplete deep left to C.Patterson. PENALTY on TB-I.Frey, Defensive Holding, 5 yards, enforced at MIN 36 - No Play.",9,2,6,MIN 36,0,MIN,PENALTY
+13,1990,1,13:02,(13:02) (Shotgun) T.Bridgewater pass incomplete deep middle to Charles.Johnson.,10,3,15,MIN 35,0,MIN,
+13,2055,2,12:16,(12:16) (Shotgun) T.Bridgewater pass incomplete short middle to C.Patterson [J.Smith].,10,3,29,MIN 49,0,MIN,
+13,2099,4,12:05,"(12:05) (Punt formation) J.Locke punts 43 yards to TB 8, Center-C.Loeffler, downed by MIN-R.Ellison.",10,3,29,MIN 49,0,MIN,PUNT
+13,1966,3,13:41,"(13:41) (Shotgun) T.Bridgewater pass short left to Charles.Johnson to MIN 35 for 12 yards (J.Banks, M.Barron).",7,3,15,MIN 23,0,MIN,
+13,1945,2,14:26,(14:26) J.McKinnon right end to MIN 23 for -1 yards (L.David).,6,3,3,MIN 24,0,MIN,
+13,1924,1,15:00,"(15:00) J.McKinnon up the middle to MIN 24 for 4 yards (W.Gholston, D.Goldson).",10,3,4,MIN 20,0,MIN,
+13,2033,1,12:21,(12:21) (Shotgun) T.Bridgewater pass incomplete short left to J.Wright.,10,3,29,MIN 49,0,MIN,
+13,1905,0,15:00,"M.Koenen kicks 65 yards from TB 35 to end zone, Touchback.",0,3,0,TB 35,0,TB,KICKOFF
+13,2077,3,12:11,(12:11) (Shotgun) T.Bridgewater pass incomplete short right to A.Thielen (A.Verner).,10,3,29,MIN 49,0,MIN,
+13,2012,2,12:56,(12:56) (Shotgun) J.McKinnon left guard to MIN 49 for 14 yards (L.Johnson).,10,3,29,MIN 35,0,MIN,
+12,1738,1,00:59,(:59) (Shotgun) T.Bridgewater pass deep middle to C.Ford to TB 47 for 19 yards (D.Goldson).,10,2,19,MIN 34,0,MIN,
+12,1849,0,00:05,Timeout #2 by TB at 00:05.,0,2,38,,0,,TIMEOUT
+12,1803,1,00:26,"(:26) (Shotgun) T.Bridgewater pass short right to C.Patterson to TB 28 for 8 yards (A.Verner, L.David).",10,2,38,TB 36,0,MIN,
+12,1827,2,00:05,(:05) (No Huddle) T.Bridgewater spiked the ball to stop the clock.,2,2,38,TB 28,0,MIN,
+12,1786,0,00:26,Timeout #3 by MIN at 00:26.,0,2,30,,0,,TIMEOUT
+12,1872,3,00:05,"(:05) (Field Goal formation) B.Walsh 46 yard field goal is GOOD, Center-C.Loeffler, Holder-J.Locke.",2,2,38,TB 28,1,MIN,FG
+12,1762,1,00:34,"(:34) (Shotgun) T.Bridgewater pass short middle to C.Ford to TB 36 for 11 yards (M.Foster, L.David).",10,2,30,TB 47,0,MIN,
+15,2343,3,07:17,"(7:17) (Shotgun) T.Bridgewater pass deep right to G.Jennings for 17 yards, TOUCHDOWN.",6,3,63,TB 17,1,MIN,TD
+15,2293,1,08:32,(8:32) J.McKinnon left tackle to TB 26 for -5 yards (M.Johnson).,10,3,37,TB 21,0,MIN,
+15,2314,2,07:51,(7:51) (Shotgun) T.Bridgewater pass short right to C.Ford pushed ob at TB 17 for 9 yards (A.Verner).,15,3,46,TB 26,0,MIN,
+15,2225,1,10:18,(10:18) J.McKinnon left guard to MIN 45 for 8 yards (A.Spence).,10,3,8,MIN 37,0,MIN,
+15,2368,0,07:09,"B.Walsh extra point is GOOD, Center-C.Loeffler, Holder-J.Locke.",0,3,63,TB 2,1,MIN,XP
+15,2246,2,09:50,"(9:50) J.McKinnon right guard to TB 49 for 6 yards (D.Goldson, M.Foster).",2,3,14,MIN 45,0,MIN,
+15,2267,1,09:09,(9:09) J.McKinnon right tackle pushed ob at TB 21 for 28 yards (D.Goldson).,10,3,42,TB 49,0,MIN,
+14,2167,3,10:36,(10:36) (Shotgun) M.Glennon pass incomplete deep right to V.Jackson.,11,3,-1,TB 7,0,TB,
+14,2122,1,11:54,(11:54) D.Martin right end to TB 10 for 2 yards (J.Brinkley).,10,3,2,TB 8,0,TB,
+14,2143,2,11:15,(11:15) (Shotgun) M.Glennon pass short middle to D.Martin to TB 7 for -3 yards (E.Griffen).,8,3,-1,TB 10,0,TB,
+14,2189,4,10:30,"(10:30) (Punt formation) M.Koenen punts 51 yards to MIN 42, Center-A.DePaola. M.Sherels to MIN 47 for 5 yards (O.Lemon). PENALTY on MIN-A.Exum, Offensive Holding, 10 yards, enforced at MIN 47.",11,3,-1,TB 7,0,TB,PUNT
+17,2697,4,00:51,"(:51) (Punt formation) J.Locke punts 44 yards to TB 49, Center-C.Loeffler, out of bounds.",10,3,0,MIN 7,0,MIN,PUNT
+17,2634,1,02:29,(2:29) M.Asiata left guard to MIN 7 for no gain (A.Spence).,10,3,0,MIN 7,0,MIN,
+17,2655,2,01:59,(1:59) M.Asiata right end to MIN 2 for -5 yards (L.David).,10,3,-5,MIN 7,0,MIN,
+17,2676,3,01:25,(1:25) (Shotgun) M.Asiata up the middle to MIN 7 for 5 yards (L.David).,15,3,0,MIN 2,0,MIN,
+16,2569,2,04:08,(4:08) M.Glennon scrambles right end to TB 48 for 6 yards (C.Greenway).,19,3,28,TB 42,0,TB,
+16,2609,4,02:43,"(2:43) (Punt formation) M.Koenen punts 51 yards to MIN 5, Center-A.DePaola. M.Sherels to MIN 7 for 2 yards (B.Rainey).",17,3,24,TB 44,0,TB,PUNT
+16,2590,3,03:20,(3:20) (Shotgun) M.Glennon sacked at TB 44 for -4 yards (T.Johnson).,13,3,24,TB 48,0,TB,
+16,2448,1,05:43,"(5:43) M.Glennon pass incomplete deep left to M.Evans. PENALTY on MIN-X.Rhodes, Illegal Contact, 5 yards, enforced at TB 30 - No Play.",10,3,15,TB 30,0,TB,PENALTY
+16,2424,2,06:29,(6:29) (Shotgun) M.Glennon pass short right to A.Seferian-Jenkins to TB 30 for 9 yards (H.Smith).,9,3,10,TB 21,0,TB,
+16,2403,1,07:09,(7:09) D.Martin right guard to TB 21 for 1 yard (A.Barr).,10,3,1,TB 20,0,TB,
+16,2481,1,05:36,"(5:36) B.Rainey up the middle to TB 36 for 1 yard (S.Stephen). PENALTY on MIN, Face Mask (15 Yards), 15 yards, enforced at TB 36.",10,3,32,TB 35,0,TB,PENALTY
+16,2384,0,07:09,"B.Walsh kicks 65 yards from MIN 35 to end zone, Touchback.",0,3,0,MIN 35,0,MIN,KICKOFF
+16,2534,2,04:33,"(4:33) M.Glennon pass deep middle to M.Evans to MIN 22 for 26 yards (X.Rhodes). PENALTY on TB-A.Collins, Offensive Holding, 10 yards, enforced at MIN 48 - No Play.",9,3,22,MIN 48,0,TB,PENALTY
+16,2513,1,05:10,(5:10) B.Rainey left guard to MIN 48 for 1 yard (S.Floyd).,10,3,32,MIN 49,0,TB,
+19,2910,3,13:16,"(13:16) (Shotgun) T.Bridgewater pass short right to M.Asiata to MIN 46 for 21 yards (A.Verner, D.Goldson). PENALTY on MIN-C.Ford, Offensive Pass Interference, 10 yards, enforced at MIN 25 - No Play.",5,4,-5,MIN 25,0,MIN,PENALTY
+19,2845,0,14:12,M.Koenen kicks 70 yards from TB 35 to MIN -5. C.Patterson to MIN 20 for 25 yards (D.Fletcher).,0,4,0,TB 35,0,TB,KICKOFF
+19,3109,2,11:20,(11:20) T.Bridgewater pass incomplete deep left to Charles.Johnson.,9,4,39,TB 41,0,MIN,
+19,2867,1,14:07,(14:07) T.Bridgewater pass incomplete short left to R.Ellison.,10,4,0,MIN 20,0,MIN,
+19,2889,2,14:00,(14:00) (Shotgun) J.McKinnon left guard to MIN 25 for 5 yards (W.Gholston).,10,4,5,MIN 20,0,MIN,
+19,2969,1,12:34,(12:34) T.Bridgewater pass incomplete short right to J.Felton (D.Lansanah) [W.Gholston].,10,4,23,MIN 43,0,MIN,
+19,3153,4,11:11,"(11:11) (Punt formation) J.Locke punts 41 yards to end zone, Center-C.Loeffler, Touchback.",9,4,39,TB 41,0,MIN,PUNT
+19,3131,3,11:12,(11:12) (Shotgun) T.Bridgewater pass incomplete short middle to C.Patterson (J.Smith).,9,4,39,TB 41,0,MIN,
+19,3088,1,11:59,(11:59) J.McKinnon left tackle to TB 41 for 1 yard (W.Gholston).,10,4,39,TB 42,0,MIN,
+19,3064,3,12:22,(12:22) (Shotgun) T.Bridgewater pass short left to C.Patterson ran ob at TB 42 for 15 yards.,10,4,38,MIN 43,0,MIN,
+19,2945,3,12:48,"(12:48) (Shotgun) T.Bridgewater pass deep right to C.Patterson ran ob at MIN 43 for 28 yards. Tampa Bay challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",15,4,23,MIN 15,0,MIN,TIMEOUT
+19,3042,2,12:27,(12:27) (Shotgun) T.Bridgewater pass incomplete deep right to C.Patterson.,10,4,23,MIN 43,0,MIN,
+18,2780,2,15:00,(15:00) M.Glennon pass short left to B.Myers to MIN 36 for 3 yards (C.Munnerlyn).,9,4,15,MIN 39,0,TB,
+18,2719,1,00:39,(:39) M.Glennon pass short middle to B.Rainey pushed ob at MIN 40 for 11 yards (X.Rhodes).,10,3,11,TB 49,0,TB,
+18,2764,0,,END QUARTER 3,0,3,12,,0,,
+18,2743,1,00:12,(:12) B.Rainey right end to MIN 39 for 1 yard (S.Stephen).,10,3,12,MIN 40,0,TB,
+18,2826,4,14:17,"(14:17) (Field Goal formation) P.Murray 54 yard field goal is GOOD, Center-A.DePaola, Holder-M.Koenen.",6,4,15,MIN 36,1,TB,FG
+18,2804,3,14:22,(14:22) (Shotgun) M.Glennon pass incomplete short left to V.Jackson [H.Smith].,6,4,15,MIN 36,0,TB,

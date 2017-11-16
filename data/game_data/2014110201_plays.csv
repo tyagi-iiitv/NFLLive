@@ -1,175 +1,175 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1471,2,07:43,,15,2,-5,CLE 15,0,TB,INT
-9,1433,1,08:30,,10,2,-5,CLE 10,0,TB,
-9,1454,0,07:43,,0,2,-5,,0,,TIMEOUT
-24,4017,0,02:00,,0,4,40,,0,,
-24,4113,4,01:43,,11,4,30,CLE 47,0,TB,
-24,4034,2,02:00,,1,4,40,CLE 37,0,TB,
-24,3982,1,02:29,,10,4,40,CLE 46,0,TB,
-24,4056,3,01:55,,1,4,40,CLE 37,0,TB,
-24,3947,1,02:37,,10,4,31,TB 23,0,TB,
-24,4078,4,01:49,,1,4,30,CLE 37,0,TB,PENALTY
-10,1543,3,06:24,,8,2,2,CLE 10,0,CLE,
-10,1518,2,07:02,,4,2,2,CLE 14,0,CLE,
-10,1497,1,07:34,,10,2,6,CLE 8,0,CLE,
-10,1565,4,06:19,,8,2,2,CLE 10,0,CLE,PUNT
-20,3302,2,11:25,,10,4,4,TB 39,0,TB,
-20,3280,1,11:30,,10,4,0,TB 39,0,TB,
-20,3392,4,09:46,,15,4,-5,TB 34,0,TB,PUNT
-20,3360,3,10:48,,11,4,-5,TB 38,0,TB,
-20,3327,3,10:48,,6,4,-5,TB 43,0,TB,PENALTY
-6,1042,1,00:03,,5,1,20,TB 5,0,CLE,
-6,1104,3,14:20,,4,2,10,TB 4,0,CLE,
-6,1079,2,15:00,,1,2,17,TB 1,0,CLE,
-6,1123,4,13:38,,11,2,10,TB 11,1,CLE,FG
-6,997,1,00:21,,10,1,20,TB 21,0,CLE,
-18,3002,0,,,0,3,8,,0,,
-18,3051,4,14:57,,2,4,8,TB 48,0,TB,PUNT
-18,2957,1,01:02,,10,3,3,TB 40,0,TB,
-18,3018,3,15:00,,2,4,8,TB 48,0,TB,
-18,2978,2,00:19,,7,3,8,TB 43,0,TB,
-25,4173,2,01:32,,8,4,4,CLE 49,0,CLE,
-25,4194,3,00:49,,6,4,5,TB 49,0,CLE,
-25,4156,0,01:33,,0,4,2,,0,,TIMEOUT
-25,4215,0,00:04,,0,4,5,,0,,TIMEOUT
-25,4135,1,01:39,,10,4,2,CLE 47,0,CLE,
-25,4232,4,00:04,,5,4,5,TB 48,0,CLE,
-1,128,1,13:32,,10,1,24,TB 34,0,TB,
-1,284,3,09:58,,7,1,67,CLE 13,0,TB,
-1,241,1,10:45,,10,1,64,CLE 16,0,TB,
-1,196,2,11:56,,1,1,37,CLE 47,0,TB,
-1,107,3,14:15,,5,1,14,TB 25,0,TB,
-1,85,2,14:56,,10,1,5,TB 20,0,TB,
-1,263,2,10:39,,10,1,67,CLE 16,0,TB,
-1,149,1,12:52,,10,1,28,TB 44,0,TB,
-1,306,4,09:50,,7,1,67,CLE 13,0,TB,FGB
-1,51,1,15:00,,10,1,67,TB 20,0,TB,
-1,173,2,12:14,,6,1,33,TB 48,0,TB,PENALTY
-1,36,0,15:00,,0,1,0,CLE 35,0,CLE,KICKOFF
-1,217,1,11:20,,10,1,64,CLE 43,0,TB,
-5,889,2,01:56,,6,1,12,TB 12,0,TB,PENALTY
-5,943,1,01:17,,10,1,23,TB 20,0,TB,
-5,922,3,01:49,,1,1,12,TB 17,0,TB,
-5,967,1,00:38,,10,1,23,TB 31,0,TB,INT
-5,868,1,02:32,,10,1,4,TB 8,0,TB,
-13,2256,2,11:39,,9,3,71,TB 12,0,CLE,
-13,2120,1,14:39,,10,3,32,CLE 32,0,CLE,
-13,2228,1,12:15,,10,3,68,TB 13,0,CLE,
-13,2159,1,13:58,,10,3,35,TB 48,0,CLE,
-13,2372,2,09:14,,2,3,80,TB 2,1,CLE,TD
-13,2330,4,10:10,,1,3,80,TB 4,0,CLE,
-13,2277,3,10:59,,6,3,73,TB 9,0,CLE,
-13,2180,2,13:22,,7,3,41,TB 45,0,CLE,
-13,2351,1,09:49,,2,3,78,TB 2,0,CLE,
-13,2301,4,10:16,,4,3,78,TB 7,0,CLE,PENALTY
-13,2069,0,15:00,,0,3,35,TB 35,0,TB,KICKOFF
-13,2392,0,09:10,,0,3,80,TB 2,1,CLE,XP
-13,2204,3,12:50,,1,3,68,TB 39,0,CLE,
-13,2092,1,15:00,,10,3,12,CLE 20,0,CLE,
-21,3504,0,08:59,,0,4,35,TB 2,0,CLE,2PPF
-21,3469,2,09:35,,9,4,35,TB 34,1,CLE,TD
-21,3448,1,09:42,,10,4,35,TB 35,0,CLE,
-23,3739,2,06:17,,1,4,9,CLE 29,0,CLE,
-23,3928,4,02:44,,8,4,25,CLE 45,0,CLE,PUNT
-23,3864,2,02:55,,5,4,25,CLE 48,0,CLE,
-23,3906,3,02:47,,8,4,25,CLE 45,0,CLE,
-23,3889,0,02:47,,0,4,25,,0,,TIMEOUT
-23,3714,1,06:58,,10,4,9,CLE 20,0,CLE,
-23,3802,0,04:17,,0,4,10,,0,,TIMEOUT
-23,3760,3,05:40,,1,4,11,CLE 29,0,CLE,
-23,3843,1,03:38,,10,4,28,CLE 43,0,CLE,
-23,3781,1,05:02,,10,4,10,CLE 31,0,CLE,
-23,3819,2,04:17,,11,4,23,CLE 30,0,CLE,
-11,1723,3,03:05,,8,2,42,CLE 27,0,TB,
-11,1654,1,04:59,,10,2,35,TB 49,0,TB,
-11,1699,2,03:45,,11,2,37,CLE 30,0,TB,
-11,1678,1,04:26,,10,2,34,CLE 29,0,TB,
-11,1744,4,02:29,,3,2,42,CLE 22,1,TB,FG
-11,1633,2,05:37,,1,2,13,TB 45,0,TB,
-11,1608,1,06:13,,10,2,9,TB 36,0,TB,
-14,2602,4,04:59,,3,3,38,CLE 42,0,TB,PUNT
-14,2435,1,09:10,,10,3,17,TB 20,0,TB,
-14,2408,0,09:10,,0,3,0,CLE 35,0,CLE,KICKOFF
-14,2480,2,07:59,,11,3,21,TB 36,0,TB,PENALTY
-14,2512,2,07:35,,6,3,31,TB 41,0,TB,
-14,2459,1,08:35,,10,3,16,TB 37,0,TB,
-14,2557,2,06:21,,10,3,40,CLE 49,0,TB,
-14,2536,1,07:03,,10,3,31,CLE 49,0,TB,
-14,2581,3,05:38,,1,3,38,CLE 40,0,TB,
-8,1407,1,08:38,,10,2,0,CLE 18,0,CLE,INT
-8,1385,0,08:44,,0,2,0,TB 35,0,TB,KICKOFF
-19,3070,1,14:45,,10,4,22,CLE 9,0,CLE,PENALTY
-19,3251,1,11:37,,10,4,57,TB 34,0,CLE,INT
-19,3227,1,12:12,,10,4,57,TB 48,0,CLE,
-19,3178,1,13:27,,10,4,22,CLE 28,0,CLE,
-19,3203,2,12:52,,7,4,43,CLE 31,0,CLE,
-19,3103,1,14:37,,14,4,-4,CLE 5,0,CLE,
-19,3149,3,13:57,,16,4,19,CLE 3,0,CLE,
-19,3125,2,14:34,,14,4,-6,CLE 5,0,CLE,
-22,3527,0,08:59,,0,4,0,CLE 35,0,CLE,KICKOFF
-22,3695,4,07:05,,3,4,16,TB 36,0,TB,PUNT
-22,3646,0,07:30,,0,4,13,,0,,TIMEOUT
-22,3674,3,07:30,,6,4,16,TB 33,0,TB,
-22,3603,1,08:14,,10,4,13,TB 29,0,TB,
-22,3624,2,07:36,,6,4,13,TB 33,0,TB,
-22,3546,1,08:59,,10,4,4,TB 20,0,TB,
-22,3570,2,08:20,,6,4,13,TB 24,0,TB,PENALTY
-12,1826,1,02:00,,10,2,28,CLE 31,0,CLE,
-12,1763,0,02:25,,0,2,0,TB 35,0,TB,KICKOFF
-12,1895,1,00:59,,10,2,45,TB 37,0,CLE,
-12,2036,1,00:03,,10,2,54,TB 25,1,CLE,FG
-12,1972,3,00:15,,14,2,54,TB 41,0,CLE,
-12,1936,2,00:54,,7,2,38,TB 34,0,CLE,
-12,2013,0,00:03,,0,2,54,,0,,TIMEOUT
-12,1871,2,01:23,,9,2,42,50,0,CLE,
-12,1996,0,00:03,,0,2,54,,0,,TIMEOUT
-12,1785,1,02:20,,10,2,10,CLE 21,0,CLE,
-12,1919,0,00:54,,0,2,45,,0,,TIMEOUT
-12,1955,0,00:15,,0,2,38,,0,,TIMEOUT
-12,1850,1,01:41,,10,2,29,CLE 49,0,CLE,
-16,2732,1,03:29,,10,3,21,CLE 30,0,TB,
-16,2708,1,04:02,,10,3,15,CLE 45,0,TB,
-16,2773,0,02:49,,0,3,45,CLE 2,1,TB,XP
-16,2753,2,02:56,,4,3,45,CLE 24,1,TB,TD
-7,1349,3,08:49,,11,2,80,CLE 24,1,TB,TD
-7,1369,0,08:44,,0,2,80,CLE 2,1,TB,XP
-7,1181,1,12:59,,10,2,18,TB 31,0,TB,
-7,1142,0,13:34,,0,2,0,CLE 35,0,CLE,KICKOFF
-7,1309,1,10:17,,10,2,53,CLE 23,0,TB,
-7,1206,2,12:23,,3,2,27,TB 38,0,TB,
-7,1157,1,13:34,,10,2,11,TB 20,0,TB,
-7,1267,1,11:39,,10,2,36,CLE 48,0,TB,
-7,1328,2,09:34,,14,2,56,CLE 27,0,TB,
-7,1227,1,11:48,,10,2,80,TB 47,0,TB,PENALTY
-7,1288,2,11:00,,6,2,57,CLE 44,0,TB,
-3,647,3,04:16,,8,1,36,CLE 37,0,TB,
-3,536,1,05:53,,10,1,0,TB 27,0,TB,
-3,514,0,05:59,,0,1,0,CLE 35,0,CLE,KICKOFF
-3,604,1,05:01,,10,1,36,CLE 39,0,TB,
-3,625,2,04:22,,8,1,36,CLE 37,0,TB,
-3,558,2,05:49,,10,1,36,TB 27,0,TB,
-3,580,3,05:45,,10,1,34,TB 27,0,TB,
-3,669,4,04:11,,8,1,36,CLE 37,0,TB,FGM
-17,2927,4,01:17,,12,3,-2,CLE 28,0,CLE,PUNT
-17,2824,0,02:49,,0,3,-2,TB 35,0,TB,KICKOFF
-17,2905,3,01:22,,12,3,-2,CLE 28,0,CLE,
-17,2846,1,02:42,,10,3,4,CLE 30,0,CLE,
-17,2880,2,02:03,,6,3,-2,CLE 34,0,CLE,
-4,716,2,03:33,,6,1,14,CLE 49,0,CLE,
-4,816,3,02:42,,10,1,14,TB 41,0,CLE,
-4,741,1,02:48,,10,1,14,TB 41,0,CLE,
-4,695,1,04:06,,10,1,14,CLE 45,0,CLE,
-4,765,2,02:45,,10,1,14,TB 41,0,CLE,
-4,848,4,02:39,,10,1,14,TB 41,0,CLE,PUNT
-2,427,1,07:24,,10,1,41,TB 33,0,CLE,
-2,448,2,06:49,,13,1,41,TB 36,0,CLE,
-2,384,2,08:35,,11,1,13,CLE 42,0,CLE,
-2,495,4,06:03,,8,1,46,TB 31,1,CLE,FG
-2,359,1,09:12,,10,1,19,CLE 43,0,CLE,
-2,470,3,06:44,,13,1,46,TB 36,0,CLE,
-2,403,3,08:00,,17,1,44,CLE 36,0,CLE,
-2,335,1,09:43,,10,1,46,CLE 23,0,CLE,
-15,2690,4,04:10,,7,3,3,CLE 12,0,CLE,PUNT
-15,2669,3,04:41,,10,3,3,CLE 9,0,CLE,
-15,2625,1,04:50,,10,3,0,CLE 9,0,CLE,
-15,2647,2,04:44,,10,3,0,CLE 9,0,CLE,
+24,4056,3,01:55,(1:55) (Shotgun) M.Glennon pass incomplete deep left to L.Murphy.,1,4,40,CLE 37,0,TB,
+24,4078,4,01:49,"(1:49) (Shotgun) M.Glennon pass short left to M.Evans to CLE 28 for 9 yards (B.Skrine). PENALTY on TB-M.Evans, Offensive Pass Interference, 10 yards, enforced at CLE 37 - No Play.",1,4,30,CLE 37,0,TB,PENALTY
+24,4017,0,02:00,Two-Minute Warning,0,4,40,,0,,
+24,3947,1,02:37,"(2:37) (Shotgun) M.Glennon pass deep left to M.Evans to CLE 46 for 31 yards (D.Whitner). CLE-J.Gilbert was injured during the play. His return is Questionable.  Penalty on CLE-J.Gilbert, Defensive Holding, declined.",10,4,31,TB 23,0,TB,
+24,4034,2,02:00,(2:00) (Shotgun) M.Glennon pass incomplete short left to V.Jackson (J.Haden).,1,4,40,CLE 37,0,TB,
+24,3982,1,02:29,(2:29) (Shotgun) M.Glennon pass short right to M.Evans to CLE 37 for 9 yards (K.Dansby).,10,4,40,CLE 46,0,TB,
+24,4113,4,01:43,(1:43) (Shotgun) M.Glennon pass incomplete deep right to A.Seferian-Jenkins.,11,4,30,CLE 47,0,TB,
+25,4215,0,00:04,Timeout #2 by CLE at 00:04.,0,4,5,,0,,TIMEOUT
+25,4156,0,01:33,Timeout #3 by TB at 01:33.,0,4,2,,0,,TIMEOUT
+25,4173,2,01:32,(1:32) B.Tate left guard to TB 49 for 2 yards (M.Foster; L.English).,8,4,4,CLE 49,0,CLE,
+25,4194,3,00:49,(:49) B.Tate left guard to TB 48 for 1 yard (B.McDougald; L.English).,6,4,5,TB 49,0,CLE,
+25,4135,1,01:39,(1:39) B.Tate right guard to CLE 49 for 2 yards (M.Wright; W.Gholston).,10,4,2,CLE 47,0,CLE,
+25,4232,4,00:04,(:04) B.Hoyer pass incomplete deep right to T.Gabriel.,5,4,5,TB 48,0,CLE,
+20,3360,3,10:48,(10:48) M.Glennon sacked at TB 34 for -4 yards (P.Kruger).,11,4,-5,TB 38,0,TB,
+20,3392,4,09:46,"(9:46) M.Koenen punts 1 yard to TB 35, Center-A.DePaola. K.Williams to TB 35 for no gain (K.Tandy). Penalty on TB-M.James, Offensive Holding, declined. punt deflected by 53 C.Robertson",15,4,-5,TB 34,0,TB,PUNT
+20,3327,3,10:48,"(10:48) (Shotgun) M.Glennon pass incomplete short right to V.Jackson. PENALTY on TB-O.Cousins, False Start, 5 yards, enforced at TB 43 - No Play.",6,4,-5,TB 43,0,TB,PENALTY
+20,3302,2,11:25,(11:25) B.Rainey right end to TB 43 for 4 yards (C.Kirksey). Pitch Out,10,4,4,TB 39,0,TB,
+20,3280,1,11:30,(11:30) M.Glennon pass incomplete deep left to V.Jackson.,10,4,0,TB 39,0,TB,
+21,3504,0,08:59,(Pass formation) TWO-POINT CONVERSION ATTEMPT. B.Hoyer pass to K.Small is complete. ATTEMPT FAILS. 31 Wright made the tackle,0,4,35,TB 2,0,CLE,2PPF
+21,3448,1,09:42,(9:42) T.West right guard to TB 34 for 1 yard (W.Gholston).,10,4,35,TB 35,0,CLE,
+21,3469,2,09:35,"(9:35) B.Hoyer pass deep right to T.Gabriel for 34 yards, TOUCHDOWN. TB-L.David was injured during the play.  Penalty on TB-M.Wright, Illegal Contact, declined.",9,4,35,TB 34,1,CLE,TD
+22,3603,1,08:14,(8:14) B.Rainey right guard to TB 33 for 4 yards (I.Kitchen; B.Mingo).,10,4,13,TB 29,0,TB,
+22,3546,1,08:59,(8:59) M.Glennon pass short right to L.Murphy to TB 24 for 4 yards (J.Haden).,10,4,4,TB 20,0,TB,
+22,3695,4,07:05,"(7:05) (Punt formation) M.Koenen punts 44 yards to CLE 20, Center-A.DePaola, fair catch by J.Leonhard.",3,4,16,TB 36,0,TB,PUNT
+22,3570,2,08:20,"(8:20) (Shotgun) M.Glennon pass incomplete deep left to M.Evans. PENALTY on CLE-J.Gilbert, Illegal Contact, 5 yards, enforced at TB 24 - No Play.",6,4,13,TB 24,0,TB,PENALTY
+22,3624,2,07:36,(7:36) M.Glennon pass incomplete deep left to M.Evans.,6,4,13,TB 33,0,TB,
+22,3527,0,08:59,"B.Cundiff kicks 65 yards from CLE 35 to end zone, Touchback.",0,4,0,CLE 35,0,CLE,KICKOFF
+22,3646,0,07:30,Timeout #1 by TB at 07:30.,0,4,13,,0,,TIMEOUT
+22,3674,3,07:30,(7:30) (Shotgun) M.Glennon scrambles right end to TB 36 for 3 yards (B.Mingo; K.Dansby).,6,4,16,TB 33,0,TB,
+23,3760,3,05:40,(5:40) B.Hoyer up the middle to CLE 31 for 2 yards (L.David).,1,4,11,CLE 29,0,CLE,
+23,3714,1,06:58,(6:58) T.West left end to CLE 29 for 9 yards (B.McDougald). Pitch Out,10,4,9,CLE 20,0,CLE,
+23,3906,3,02:47,(2:47) (Shotgun) B.Hoyer pass incomplete short right to A.Hawkins.,8,4,25,CLE 45,0,CLE,
+23,3781,1,05:02,(5:02) T.West right tackle to CLE 30 for -1 yards (W.Gholston).,10,4,10,CLE 31,0,CLE,
+23,3928,4,02:44,"(2:44) (Punt formation) S.Lanning punts 32 yards to TB 23, Center-C.Yount, fair catch by M.Thigpen.",8,4,25,CLE 45,0,CLE,PUNT
+23,3819,2,04:17,(4:17) B.Hoyer pass short middle to M.Austin to CLE 43 for 13 yards (A.Verner).,11,4,23,CLE 30,0,CLE,
+23,3889,0,02:47,Timeout #2 by TB at 02:47.,0,4,25,,0,,TIMEOUT
+23,3802,0,04:17,Timeout #1 by CLE at 04:17.,0,4,10,,0,,TIMEOUT
+23,3843,1,03:38,(3:38) T.West right guard to CLE 48 for 5 yards (M.Wright; C.McDonald).,10,4,28,CLE 43,0,CLE,
+23,3739,2,06:17,(6:17) T.West right tackle to CLE 29 for no gain (W.Gholston; M.Wright).,1,4,9,CLE 29,0,CLE,
+23,3864,2,02:55,(2:55) B.Tate left end to CLE 45 for -3 yards (W.Gholston). Pitch Out,5,4,25,CLE 48,0,CLE,
+1,217,1,11:20,(11:20) M.Glennon pass deep left to M.Evans to CLE 16 for 27 yards (B.Skrine).,10,1,64,CLE 43,0,TB,
+1,284,3,09:58,(9:58) (Shotgun) M.Glennon pass incomplete short left to B.Rainey.,7,1,67,CLE 13,0,TB,
+1,196,2,11:56,(11:56) B.Rainey right guard to CLE 43 for 4 yards (J.Haden; D.Whitner).,1,1,37,CLE 47,0,TB,
+1,51,1,15:00,(15:00) M.Glennon pass incomplete short left to B.Rainey (B.Mingo).,10,1,67,TB 20,0,TB,
+1,36,0,15:00,"B.Cundiff kicks 65 yards from CLE 35 to end zone, Touchback. Tampa Bay calls heads",0,1,0,CLE 35,0,CLE,KICKOFF
+1,306,4,09:50,"(9:50) (Field Goal formation) P.Murray 31 yard field goal is BLOCKED (B.Winn), Center-A.DePaola, Holder-M.Koenen, RECOVERED by CLE-J.Haden at CLE 23. J.Haden to CLE 23 for no gain (L.Stocker).",7,1,67,CLE 13,0,TB,FGB
+1,149,1,12:52,(12:52) M.Glennon pass short right to M.Evans to TB 48 for 4 yards (J.Gilbert).,10,1,28,TB 44,0,TB,
+1,263,2,10:39,(10:39) B.Rainey left guard to CLE 13 for 3 yards (A.Rubin; C.Kirksey).,10,1,67,CLE 16,0,TB,
+1,241,1,10:45,(10:45) M.Glennon pass incomplete deep left to V.Jackson.,10,1,64,CLE 16,0,TB,
+1,128,1,13:32,(13:32) B.Rainey right guard to TB 44 for 10 yards (T.Gipson).,10,1,24,TB 34,0,TB,
+1,173,2,12:14,"(12:14) PENALTY on CLE-P.Kruger, Neutral Zone Infraction, 5 yards, enforced at TB 48 - No Play.",6,1,33,TB 48,0,TB,PENALTY
+1,107,3,14:15,(14:15) (Shotgun) M.Glennon scrambles left guard to TB 34 for 9 yards (D.Whitner).,5,1,14,TB 25,0,TB,
+1,85,2,14:56,(14:56) B.Rainey left guard to TB 25 for 5 yards (K.Dansby).,10,1,5,TB 20,0,TB,
+3,604,1,05:01,(5:01) M.James left tackle to CLE 37 for 2 yards (T.Gipson).,10,1,36,CLE 39,0,TB,
+3,580,3,05:45,(5:45) (Shotgun) M.Glennon pass short right to B.Rainey to CLE 39 for 34 yards (B.Skrine).,10,1,34,TB 27,0,TB,
+3,625,2,04:22,(4:22) (Shotgun) M.Glennon pass incomplete deep right to M.Evans.,8,1,36,CLE 37,0,TB,
+3,536,1,05:53,(5:53) M.Glennon pass incomplete short left to A.Seferian-Jenkins (J.Sheard).,10,1,0,TB 27,0,TB,
+3,647,3,04:16,(4:16) (Shotgun) M.Glennon pass incomplete short right to V.Jackson.,8,1,36,CLE 37,0,TB,
+3,669,4,04:11,"(4:11) (Field Goal formation) P.Murray 55 yard field goal is No Good, Short, Center-A.DePaola, Holder-M.Koenen.",8,1,36,CLE 37,0,TB,FGM
+3,514,0,05:59,B.Cundiff kicks 66 yards from CLE 35 to TB -1. M.Thigpen to TB 27 for 28 yards (J.Bademosi; J.Leonhard).,0,1,0,CLE 35,0,CLE,KICKOFF
+3,558,2,05:49,(5:49) M.Glennon pass incomplete deep right to V.Jackson.,10,1,36,TB 27,0,TB,
+2,448,2,06:49,(6:49) B.Hoyer pass incomplete deep right to M.Austin.,13,1,41,TB 36,0,CLE,
+2,335,1,09:43,(9:43) B.Hoyer pass deep right to A.Hawkins to CLE 43 for 20 yards (A.Verner).,10,1,46,CLE 23,0,CLE,
+2,470,3,06:44,(6:44) (Shotgun) B.Hoyer pass short left to B.Tate to TB 31 for 5 yards (L.David) [W.Gholston].,13,1,46,TB 36,0,CLE,
+2,403,3,08:00,(8:00) (Shotgun) B.Hoyer pass deep middle to T.Benjamin to TB 33 for 31 yards (M.Wright).,17,1,44,CLE 36,0,CLE,
+2,359,1,09:12,(9:12) B.Tate left tackle to CLE 42 for -1 yards (M.Foster). Pitch Out,10,1,19,CLE 43,0,CLE,
+2,495,4,06:03,"(6:03) (Field Goal formation) B.Cundiff 49 yard field goal is GOOD, Center-C.Yount, Holder-S.Lanning.",8,1,46,TB 31,1,CLE,FG
+2,384,2,08:35,(8:35) B.Hoyer sacked at CLE 36 for -6 yards (G.McCoy).,11,1,13,CLE 42,0,CLE,
+2,427,1,07:24,(7:24) B.Tate left guard to TB 36 for -3 yards (C.McDonald).,10,1,41,TB 33,0,CLE,
+5,868,1,02:32,(2:32) B.Rainey left guard to TB 12 for 4 yards (S.Fua; A.Rubin).,10,1,4,TB 8,0,TB,
+5,889,2,01:56,"(1:56) M.Glennon pass incomplete short left to V.Jackson (J.Haden). PENALTY on CLE-J.Haden, Defensive Delay of Game, 5 yards, enforced between downs.",6,1,12,TB 12,0,TB,PENALTY
+5,967,1,00:38,(:38) M.Glennon pass deep middle intended for M.Evans INTERCEPTED by D.Whitner (J.Haden) at CLE 25. D.Whitner to TB 21 for 54 yards (M.Glennon). #23 Joe Haden Tipped the ball,10,1,23,TB 31,0,TB,INT
+5,922,3,01:49,(1:49) B.Rainey left guard to TB 20 for 3 yards (C.Robertson; T.Gipson).,1,1,12,TB 17,0,TB,
+5,943,1,01:17,(1:17) M.Glennon pass short left to V.Jackson to TB 31 for 11 yards (B.Skrine).,10,1,23,TB 20,0,TB,
+4,741,1,02:48,"(2:48) B.Hoyer pass short right to J.Dray to TB 26 for 15 yards (M.Wright; A.Spence). Tampa Bay challenged the incomplete pass ruling, and the play was REVERSED. B.Hoyer pass incomplete short right.",10,1,14,TB 41,0,CLE,
+4,695,1,04:06,(4:06) T.West right guard to CLE 49 for 4 yards (L.David; L.English).  Pitch Out,10,1,14,CLE 45,0,CLE,
+4,716,2,03:33,(3:33) T.West right guard to TB 41 for 10 yards (D.Lansanah; L.English).,6,1,14,CLE 49,0,CLE,
+4,848,4,02:39,"(2:39) (Punt formation) S.Lanning punts 33 yards to TB 8, Center-C.Yount, fair catch by M.Thigpen.",10,1,14,TB 41,0,CLE,PUNT
+4,765,2,02:45,(2:45) B.Hoyer pass incomplete short right to T.Benjamin (A.Verner).,10,1,14,TB 41,0,CLE,
+4,816,3,02:42,(2:42) (Shotgun) B.Hoyer pass incomplete short middle to A.Hawkins.,10,1,14,TB 41,0,CLE,
+7,1142,0,13:34,"B.Cundiff kicks 65 yards from CLE 35 to end zone, Touchback.",0,2,0,CLE 35,0,CLE,KICKOFF
+7,1227,1,11:48,"(11:48) M.Glennon sacked at TB 38 for -9 yards. FUMBLES, RECOVERED by CLE-D.Whitner at TB 34. PENALTY on CLE-D.Bryant, Illegal Use of Hands, 5 yards, enforced at TB 47 - No Play.",10,2,80,TB 47,0,TB,PENALTY
+7,1349,3,08:49,"(8:49) (Shotgun) M.Glennon pass deep right to M.Evans for 24 yards, TOUCHDOWN.",11,2,80,CLE 24,1,TB,TD
+7,1157,1,13:34,(13:34) M.Glennon pass short left to V.Jackson to TB 31 for 11 yards (B.Skrine; T.Gipson).,10,2,11,TB 20,0,TB,
+7,1206,2,12:23,(12:23) B.Rainey left guard to TB 47 for 9 yards (T.Gipson).,3,2,27,TB 38,0,TB,
+7,1267,1,11:39,(11:39) B.Rainey left guard to CLE 44 for 4 yards (D.Bryant).,10,2,36,CLE 48,0,TB,
+7,1288,2,11:00,(11:00) B.Rainey left guard to CLE 23 for 21 yards (D.Whitner).,6,2,57,CLE 44,0,TB,
+7,1181,1,12:59,(12:59) B.Rainey right end to TB 38 for 7 yards (D.Whitner). Pitch Out,10,2,18,TB 31,0,TB,
+7,1309,1,10:17,(10:17) M.Glennon sacked at CLE 27 for -4 yards (B.Mingo).,10,2,53,CLE 23,0,TB,
+7,1328,2,09:34,(9:34) (Shotgun) B.Rainey left guard to CLE 24 for 3 yards (P.Kruger).,14,2,56,CLE 27,0,TB,
+7,1369,0,08:44,"(Kick formation) P.Murray extra point is GOOD, Center-A.DePaola, Holder-M.Koenen.",0,2,80,CLE 2,1,TB,XP
+6,1042,1,00:03,(:03) B.Tate right guard to TB 1 for 4 yards (M.Wright; L.David).,5,1,20,TB 5,0,CLE,
+6,997,1,00:21,(:21) B.Hoyer pass short right to B.Tate ran ob at TB 5 for 16 yards [M.Johnson].,10,1,20,TB 21,0,CLE,
+6,1123,4,13:38,"(13:38) (Field Goal formation) B.Cundiff 29 yard field goal is GOOD, Center-C.Yount, Holder-S.Lanning.",11,2,10,TB 11,1,CLE,FG
+6,1104,3,14:20,(14:20) (Shotgun) B.Hoyer sacked at TB 11 for -7 yards (J.Smith).,4,2,10,TB 4,0,CLE,
+6,1079,2,15:00,(15:00) B.Tate left guard to TB 4 for -3 yards (B.McDougald; A.Verner). # 74 McQuistan Eligible Receiver,1,2,17,TB 1,0,CLE,
+9,1454,0,07:43,Timeout #1 by TB at 07:43.,0,2,-5,,0,,TIMEOUT
+9,1471,2,07:43,(7:43) M.Glennon pass deep middle intended for M.Evans INTERCEPTED by T.Gipson at CLE -4. T.Gipson to CLE 8 for 12 yards (V.Jackson).,15,2,-5,CLE 15,0,TB,INT
+9,1433,1,08:30,(8:30) B.Rainey left guard to CLE 15 for -5 yards (D.Bryant; J.Sheard).,10,2,-5,CLE 10,0,TB,
+8,1385,0,08:44,M.Koenen kicks 69 yards from TB 35 to CLE -4. M.Moore to CLE 18 for 22 yards (I.Frey).,0,2,0,TB 35,0,TB,KICKOFF
+8,1407,1,08:38,(8:38) B.Hoyer pass short left intended for A.Hawkins INTERCEPTED by J.Banks at CLE 28. J.Banks to CLE 10 for 18 yards (T.West).,10,2,0,CLE 18,0,CLE,INT
+11,1608,1,06:13,(6:13) B.Rainey right tackle to TB 45 for 9 yards (D.Whitner). Pitch Out,10,2,9,TB 36,0,TB,
+11,1633,2,05:37,(5:37) B.Rainey right guard to TB 49 for 4 yards (K.Dansby).,1,2,13,TB 45,0,TB,
+11,1723,3,03:05,(3:05) (Shotgun) M.Glennon scrambles right end to CLE 22 for 5 yards (B.Mingo).,8,2,42,CLE 27,0,TB,
+11,1678,1,04:26,(4:26) B.Rainey left tackle to CLE 30 for -1 yards (D.Bryant; C.Robertson).,10,2,34,CLE 29,0,TB,
+11,1744,4,02:29,"(2:29) (Field Goal formation) P.Murray 40 yard field goal is GOOD, Center-A.DePaola, Holder-M.Koenen.",3,2,42,CLE 22,1,TB,FG
+11,1654,1,04:59,(4:59) M.Glennon pass deep left to V.Jackson to CLE 29 for 22 yards (B.Skrine).,10,2,35,TB 49,0,TB,
+11,1699,2,03:45,(3:45) (Shotgun) M.Glennon pass short middle to A.Seferian-Jenkins to CLE 27 for 3 yards (K.Dansby).,11,2,37,CLE 30,0,TB,
+10,1565,4,06:19,"(6:19) (Punt formation) S.Lanning punts 39 yards to CLE 49, Center-C.Yount, out of bounds. CLE-J.Bademosi was injured during the play. His return is Questionable.  PENALTY on TB-K.Tandy, Illegal Blindside Block, 15 yards, enforced at CLE 49.",8,2,2,CLE 10,0,CLE,PUNT
+10,1543,3,06:24,(6:24) (Shotgun) B.Hoyer pass incomplete short right to A.Hawkins (J.Banks) [M.Foster].,8,2,2,CLE 10,0,CLE,
+10,1518,2,07:02,(7:02) T.West left guard to CLE 10 for -4 yards (A.Spence). Pitch Out,4,2,2,CLE 14,0,CLE,
+10,1497,1,07:34,(7:34) T.West left guard to CLE 14 for 6 yards (M.Foster).,10,2,6,CLE 8,0,CLE,
+13,2330,4,10:10,(10:10) T.West right guard to TB 2 for 2 yards (W.Gholston; C.McDonald).,1,3,80,TB 4,0,CLE,
+13,2120,1,14:39,(14:39) B.Hoyer pass short middle to T.Gabriel to TB 48 for 20 yards (M.Wright).,10,3,32,CLE 32,0,CLE,
+13,2277,3,10:59,(10:59) (Shotgun) B.Hoyer pass short right to A.Hawkins to TB 7 for 2 yards (J.Banks; M.Foster).,6,3,73,TB 9,0,CLE,
+13,2204,3,12:50,(12:50) (No Huddle) B.Hoyer pass deep right to J.Dray to TB 13 for 26 yards (M.Wright). roll out left,1,3,68,TB 39,0,CLE,
+13,2228,1,12:15,(12:15) (No Huddle) B.Hoyer pass short left to T.Gabriel to TB 12 for 1 yard (D.Lansanah).,10,3,68,TB 13,0,CLE,
+13,2301,4,10:16,"(10:16) (Field Goal formation) PENALTY on TB-G.McCoy, Neutral Zone Infraction, 3 yards, enforced at TB 7 - No Play.",4,3,78,TB 7,0,CLE,PENALTY
+13,2069,0,15:00,"M.Koenen kicks 65 yards from TB 35 to end zone, Touchback.",0,3,35,TB 35,0,TB,KICKOFF
+13,2180,2,13:22,(13:22) T.West right guard to TB 39 for 6 yards (L.David; A.Spence).,7,3,41,TB 45,0,CLE,
+13,2392,0,09:10,"B.Cundiff extra point is GOOD, Center-C.Yount, Holder-S.Lanning.",0,3,80,TB 2,1,CLE,XP
+13,2092,1,15:00,(15:00) B.Hoyer pass short right to A.Hawkins to CLE 32 for 12 yards (A.Verner). CLE-A.Hawkins was injured during the play. His return is Questionable.,10,3,12,CLE 20,0,CLE,
+13,2256,2,11:39,(11:39) T.West left guard to TB 9 for 3 yards (D.Lansanah; L.David).,9,3,71,TB 12,0,CLE,
+13,2351,1,09:49,(9:49) (No Huddle) T.West left guard to TB 2 for no gain (L.David).,2,3,78,TB 2,0,CLE,
+13,2159,1,13:58,(13:58) (No Huddle) T.West left guard to TB 45 for 3 yards (L.David; M.Wright).,10,3,35,TB 48,0,CLE,
+13,2372,2,09:14,"(9:14) B.Hoyer pass short right to T.West for 2 yards, TOUCHDOWN.",2,3,80,TB 2,1,CLE,TD
+12,1919,0,00:54,Timeout #1 by CLE at 00:54.,0,2,45,,0,,TIMEOUT
+12,1996,0,00:03,Timeout #3 by CLE at 00:03.,0,2,54,,0,,TIMEOUT
+12,1850,1,01:41,"(1:41) (No Huddle, Shotgun) B.Tate right guard to 50 for 1 yard (C.McDonald).",10,2,29,CLE 49,0,CLE,
+12,1826,1,02:00,(2:00) (Shotgun) B.Hoyer pass short right to T.Gabriel to CLE 49 for 18 yards (M.Wright).,10,2,28,CLE 31,0,CLE,
+12,1785,1,02:20,(2:20) B.Hoyer pass short middle to B.Tate to CLE 31 for 10 yards (L.David; M.Foster).,10,2,10,CLE 21,0,CLE,
+12,1972,3,00:15,(:15) (Shotgun) B.Hoyer pass short right to M.Austin to TB 25 for 16 yards (A.Verner).,14,2,54,TB 41,0,CLE,
+12,1871,2,01:23,"(1:23) (No Huddle, Shotgun) B.Hoyer pass short middle to G.Barnidge to TB 37 for 13 yards (I.Frey).",9,2,42,50,0,CLE,
+12,2036,1,00:03,"(:03) (Field Goal formation) B.Cundiff 43 yard field goal is GOOD, Center-C.Yount, Holder-S.Lanning.",10,2,54,TB 25,1,CLE,FG
+12,1936,2,00:54,(:54) (Shotgun) B.Hoyer sacked at TB 41 for -7 yards (G.McCoy).,7,2,38,TB 34,0,CLE,
+12,1895,1,00:59,"(:59) (No Huddle, Shotgun) B.Hoyer pass short right to G.Barnidge to TB 34 for 3 yards (M.Wright; M.Foster).",10,2,45,TB 37,0,CLE,
+12,1955,0,00:15,Timeout #2 by CLE at 00:15.,0,2,38,,0,,TIMEOUT
+12,1763,0,02:25,M.Koenen kicks 68 yards from TB 35 to CLE -3. M.Moore to CLE 21 for 24 yards (I.Frey).,0,2,0,TB 35,0,TB,KICKOFF
+12,2013,0,00:03,Timeout #2 by TB at 00:03.,0,2,54,,0,,TIMEOUT
+15,2690,4,04:10,"(4:10) (Punt formation) S.Lanning punts 33 yards to CLE 45, Center-C.Yount, out of bounds.",7,3,3,CLE 12,0,CLE,PUNT
+15,2647,2,04:44,(4:44) B.Hoyer pass incomplete short left to M.Austin.,10,3,0,CLE 9,0,CLE,
+15,2669,3,04:41,(4:41) (Shotgun) B.Hoyer scrambles right end to CLE 12 for 3 yards (L.Johnson).,10,3,3,CLE 9,0,CLE,
+15,2625,1,04:50,(4:50) B.Hoyer pass incomplete deep middle to A.Hawkins.,10,3,0,CLE 9,0,CLE,
+14,2459,1,08:35,(8:35) B.Rainey right end to TB 36 for -1 yards (D.Whitner; C.Robertson).,10,3,16,TB 37,0,TB,
+14,2602,4,04:59,"(4:59) (Punt formation) M.Koenen punts 33 yards to CLE 9, Center-A.DePaola, downed by TB-D.Lansanah.",3,3,38,CLE 42,0,TB,PUNT
+14,2581,3,05:38,(5:38) M.James left guard to CLE 42 for -2 yards (D.Whitner; J.Sheard).,1,3,38,CLE 40,0,TB,
+14,2557,2,06:21,(6:21) M.Glennon pass short right to L.Murphy to CLE 40 for 9 yards (J.Haden).,10,3,40,CLE 49,0,TB,
+14,2480,2,07:59,"(7:59) B.Rainey right tackle to TB 42 for 6 yards (C.Kirksey). PENALTY on CLE-P.Kruger, Defensive Offside, 5 yards, enforced at TB 36 - No Play.",11,3,21,TB 36,0,TB,PENALTY
+14,2435,1,09:10,(9:10) M.Glennon pass short left to V.Jackson to TB 37 for 17 yards (B.Skrine).,10,3,17,TB 20,0,TB,
+14,2408,0,09:10,"B.Cundiff kicks 65 yards from CLE 35 to end zone, Touchback.",0,3,0,CLE 35,0,CLE,KICKOFF
+14,2536,1,07:03,(7:03) B.Rainey right guard to CLE 49 for no gain (S.Fua).,10,3,31,CLE 49,0,TB,
+14,2512,2,07:35,(7:35) M.Glennon pass short left to V.Jackson to CLE 49 for 10 yards (B.Skrine).,6,3,31,TB 41,0,TB,
+17,2824,0,02:49,M.Koenen kicks 65 yards from TB 35 to CLE 0. T.Gabriel to CLE 30 for 30 yards (L.Johnson).,0,3,-2,TB 35,0,TB,KICKOFF
+17,2846,1,02:42,(2:42) T.West left end to CLE 34 for 4 yards (A.Spence). Pitch Out,10,3,4,CLE 30,0,CLE,
+17,2880,2,02:03,(2:03) B.Hoyer to CLE 28 for -6 yards (T.Fatinikun).,6,3,-2,CLE 34,0,CLE,
+17,2927,4,01:17,"(1:17) (Punt formation) S.Lanning punts 63 yards to TB 9, Center-C.Yount, downed by CLE-C.Robertson. PENALTY on CLE-M.Moore, Interference with Opportunity to Catch, 15 yards, enforced at TB 25.",12,3,-2,CLE 28,0,CLE,PUNT
+17,2905,3,01:22,(1:22) (Shotgun) B.Hoyer pass incomplete short right to G.Barnidge.,12,3,-2,CLE 28,0,CLE,
+16,2773,0,02:49,"P.Murray extra point is GOOD, Center-A.DePaola, Holder-M.Koenen.",0,3,45,CLE 2,1,TB,XP
+16,2708,1,04:02,(4:02) M.Glennon pass short middle to V.Jackson to CLE 30 for 15 yards (C.Robertson).,10,3,15,CLE 45,0,TB,
+16,2732,1,03:29,(3:29) M.James left guard to CLE 24 for 6 yards (I.Kitchen; B.Skrine).,10,3,21,CLE 30,0,TB,
+16,2753,2,02:56,"(2:56) M.Glennon pass deep right to M.Evans for 24 yards, TOUCHDOWN. The Replay Official challenged the incomplete pass ruling, and the play was Upheld. The ruling on the field was confirmed.",4,3,45,CLE 24,1,TB,TD
+19,3203,2,12:52,(12:52) B.Hoyer pass short middle to T.Benjamin to TB 48 for 21 yards (I.Frey; D.Goldson).,7,4,43,CLE 31,0,CLE,
+19,3251,1,11:37,(11:37) B.Hoyer pass short right intended for G.Barnidge INTERCEPTED by C.McDonald (B.McDougald) at TB 36. C.McDonald to TB 39 for 3 yards (J.Greco). CLE-J.Greco was injured during the play. His return is Probable.,10,4,57,TB 34,0,CLE,INT
+19,3227,1,12:12,(12:12) B.Hoyer pass short right to T.Gabriel to TB 34 for 14 yards (M.Wright).,10,4,57,TB 48,0,CLE,
+19,3125,2,14:34,(14:34) (Shotgun) B.Hoyer pass short right to B.Tate to CLE 3 for -2 yards (M.Wright).,14,4,-6,CLE 5,0,CLE,
+19,3070,1,14:45,"(14:45) B.Hoyer pass incomplete short right to T.Gabriel. PENALTY on CLE-M.Schwartz, Offensive Holding, 4 yards, enforced at CLE 9 - No Play.",10,4,22,CLE 9,0,CLE,PENALTY
+19,3178,1,13:27,(13:27) B.Tate right end to CLE 31 for 3 yards (M.Foster). Pitch Out,10,4,22,CLE 28,0,CLE,
+19,3149,3,13:57,(13:57) (Shotgun) B.Hoyer pass short right to M.Austin to CLE 28 for 25 yards (M.Wright).,16,4,19,CLE 3,0,CLE,
+19,3103,1,14:37,(14:37) B.Hoyer pass incomplete short left to T.Benjamin [G.McCoy].,14,4,-4,CLE 5,0,CLE,
+18,2978,2,00:19,(:19) M.Glennon pass short left to M.Evans to TB 48 for 5 yards (B.Skrine).,7,3,8,TB 43,0,TB,
+18,2957,1,01:02,(1:02) M.James right guard to TB 43 for 3 yards (I.Kitchen; S.Fua).,10,3,3,TB 40,0,TB,
+18,3018,3,15:00,"(15:00) (Shotgun) M.Glennon pass incomplete short right to L.Murphy (J.Gilbert). Penalty on TB-P.Omameh, Offensive Holding, declined.",2,4,8,TB 48,0,TB,
+18,3051,4,14:57,"(14:57) (Punt formation) M.Koenen punts 43 yards to CLE 9, Center-A.DePaola, downed by TB-D.Fletcher.",2,4,8,TB 48,0,TB,PUNT
+18,3002,0,,END QUARTER 3,0,3,8,,0,,

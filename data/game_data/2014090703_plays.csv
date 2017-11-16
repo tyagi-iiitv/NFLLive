@@ -1,159 +1,159 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1203,3,08:31,,15,2,17,HOU 15,0,HOU,
-9,1136,2,10:02,,4,2,12,HOU 14,0,HOU,
-9,1224,4,07:57,,5,2,17,HOU 25,0,HOU,PUNT
-9,1157,1,09:19,,10,2,12,HOU 20,0,HOU,
-9,1115,1,10:31,,10,2,6,HOU 8,0,HOU,
-9,1179,2,09:14,,10,2,17,HOU 20,0,HOU,FUMBLE
-10,1270,1,07:07,,10,2,24,HOU 30,0,WAS,
-10,1295,2,06:41,,2,2,45,HOU 22,0,WAS,TIMEOUT
-10,1339,0,06:06,,0,2,46,HOU 2,0,WAS,XPB
-10,1322,1,06:11,,1,2,46,HOU 1,1,WAS,TD
-10,1249,1,07:43,,10,2,16,HOU 46,0,WAS,
-20,3615,0,01:55,,0,4,0,HOU 35,0,HOU,KICKOFF
-20,3678,1,01:40,,10,4,32,HOU 48,0,WAS,
-20,3700,2,01:35,,10,4,32,HOU 48,0,WAS,
-20,3630,1,01:55,,10,4,19,WAS 20,0,WAS,
-20,3654,1,01:48,,10,4,32,WAS 39,0,WAS,
-20,3744,4,01:23,,10,4,38,HOU 48,0,WAS,
-20,3722,3,01:28,,10,4,32,HOU 48,0,WAS,
-6,642,1,04:17,,10,1,6,WAS 24,0,WAS,
-6,715,4,03:11,,3,1,7,WAS 31,0,WAS,PUNT
-6,667,2,03:57,,4,1,7,WAS 30,0,WAS,FUMBLE
-6,693,3,03:21,,3,1,7,WAS 31,0,WAS,TIMEOUT
-18,3078,2,09:23,,14,4,31,WAS 42,0,WAS,
-18,3016,0,10:46,,0,4,22,,0,,TIMEOUT
-18,2946,2,12:36,,2,4,17,WAS 16,0,WAS,
-18,2991,1,11:34,,10,4,22,WAS 36,0,WAS,
-18,3057,1,10:09,,10,4,34,WAS 46,0,WAS,
-18,2922,1,13:10,,10,4,8,WAS 8,0,WAS,
-18,3033,2,10:46,,16,4,38,WAS 30,0,WAS,
-18,2967,1,12:06,,10,4,22,WAS 25,0,WAS,
-18,3112,3,09:23,,17,4,31,WAS 39,0,WAS,
-18,3134,4,08:35,,17,4,31,WAS 39,0,WAS,PUNT
-1,105,3,14:22,,3,1,28,HOU 27,0,HOU,
-1,151,2,13:43,,10,1,29,HOU 40,0,HOU,
-1,55,1,15:00,,10,1,7,HOU 20,0,HOU,
-1,172,3,13:04,,1,1,28,HOU 49,0,HOU,
-1,193,4,12:33,,2,1,28,HOU 48,0,HOU,PUNT
-1,129,1,13:48,,10,1,20,HOU 40,0,HOU,
-1,36,0,15:00,,0,1,0,WAS 35,0,WAS,KICKOFF
-1,83,2,14:27,,3,1,7,HOU 27,0,HOU,
-5,537,2,06:13,,10,1,-10,HOU 32,0,HOU,PENALTY
-5,515,1,06:18,,10,1,0,HOU 32,0,HOU,
-5,617,4,04:30,,8,1,2,HOU 34,0,HOU,PUNT
-5,593,3,05:05,,9,1,2,HOU 33,0,HOU,
-5,569,2,05:46,,20,1,1,HOU 22,0,HOU,
-13,1762,1,01:32,,10,2,21,WAS 36,0,WAS,PENALTY
-13,1893,3,00:04,,25,2,30,WAS 41,0,WAS,
-13,1792,1,01:24,,10,2,36,WAS 41,0,WAS,
-13,1849,2,00:55,,25,2,21,WAS 41,0,WAS,
-13,1816,1,01:01,,10,2,21,HOU 44,0,WAS,PENALTY
-13,1876,0,00:04,,0,2,21,,0,,TIMEOUT
-13,1709,2,02:00,,8,2,9,WAS 22,0,WAS,
-13,1656,0,02:09,,0,2,0,HOU 35,0,HOU,KICKOFF
-13,1671,1,02:09,,10,2,2,WAS 20,0,WAS,
-13,1733,3,01:37,,1,2,16,WAS 29,0,WAS,
-21,3789,2,00:37,,11,4,-2,HOU 41,0,HOU,
-21,3768,1,01:14,,10,4,-1,HOU 42,0,HOU,
-21,3810,0,,,0,4,-2,,0,,
-11,1506,0,04:15,,0,2,89,WAS 2,1,HOU,XP
-11,1360,0,06:06,,0,2,0,WAS 35,0,WAS,KICKOFF
-11,1473,2,04:28,,7,2,89,HOU 24,1,HOU,TD
-11,1410,1,06:00,,10,2,4,HOU 11,0,HOU,
-11,1431,2,05:32,,6,2,10,HOU 15,0,HOU,
-11,1452,1,05:01,,10,2,13,HOU 21,0,HOU,
-14,1964,1,14:52,,10,3,21,WAS 12,0,WAS,
-14,2114,2,11:20,,1,3,54,HOU 40,0,WAS,
-14,1988,1,14:16,,10,3,74,WAS 29,0,WAS,PENALTY
-14,2194,2,09:35,,6,3,74,HOU 14,0,WAS,
-14,2156,1,10:12,,10,3,74,HOU 18,0,WAS,
-14,2048,2,13:15,,6,3,22,WAS 33,0,WAS,
-14,1931,0,15:00,,0,3,78,HOU 35,0,HOU,KICKOFF
-14,2177,0,09:35,,0,3,74,,0,,TIMEOUT
-14,2093,1,11:52,,10,3,48,HOU 49,0,WAS,
-14,2069,3,12:31,,5,3,39,WAS 34,0,WAS,
-14,2135,1,10:44,,10,3,70,HOU 34,0,WAS,
-14,2220,3,09:27,,6,3,81,HOU 14,0,WAS,PENALTY
-14,2253,1,09:23,,7,3,78,HOU 7,0,WAS,FUMBLE
-14,2020,1,13:53,,16,3,22,WAS 23,0,WAS,
-8,940,1,14:22,,10,2,25,WAS 43,0,WAS,
-8,879,1,00:08,,10,1,14,WAS 33,0,WAS,
-8,827,1,01:26,,10,1,4,WAS 20,0,WAS,
-8,916,2,15:00,,9,2,23,WAS 34,0,WAS,
-8,1056,2,11:52,,14,2,46,HOU 40,0,WAS,
-8,1009,1,12:39,,10,2,45,HOU 36,0,WAS,
-8,964,2,13:45,,8,2,28,WAS 45,0,WAS,
-8,1096,4,10:40,,20,2,34,HOU 46,0,WAS,PUNT
-8,988,3,13:06,,5,2,44,WAS 48,0,WAS,
-8,855,2,00:43,,6,1,13,WAS 24,0,WAS,
-8,1077,3,11:15,,8,2,34,HOU 34,0,WAS,
-8,1033,2,12:39,,9,2,40,HOU 35,0,WAS,PENALTY
-19,3517,2,02:35,,18,4,67,WAS 25,0,HOU,
-19,3386,2,04:32,,6,4,46,WAS 46,0,HOU,
-19,3494,2,02:35,,13,4,67,WAS 20,0,HOU,PENALTY
-19,3191,2,07:48,,7,4,9,HOU 11,0,HOU,
-19,3365,1,05:11,,10,4,46,50,0,HOU,
-19,3252,1,07:07,,10,4,29,HOU 22,0,HOU,PENALTY
-19,3344,3,05:49,,1,4,42,HOU 46,0,HOU,
-19,3541,0,02:30,,0,4,67,,0,,TIMEOUT
-19,3215,3,07:26,,1,4,14,HOU 17,0,HOU,PENALTY
-19,3477,0,02:35,,0,4,72,,0,,TIMEOUT
-19,3327,0,05:49,,0,4,38,,0,,TIMEOUT
-19,3596,4,02:00,,17,4,68,WAS 24,1,HOU,FG
-19,3285,1,07:02,,10,4,38,HOU 37,0,HOU,
-19,3428,1,03:06,,10,4,75,WAS 37,0,HOU,
-19,3306,2,06:33,,1,4,38,HOU 46,0,HOU,
-19,3170,1,08:27,,10,4,3,HOU 8,0,HOU,
-19,3452,1,02:40,,10,4,72,WAS 17,0,HOU,
-19,3558,3,02:30,,18,4,68,WAS 25,0,HOU,
-19,3407,3,03:48,,6,4,55,WAS 46,0,HOU,
-19,3579,0,02:00,,0,4,68,,0,,
-12,1522,0,04:15,,0,2,0,HOU 35,0,HOU,KICKOFF
-12,1617,4,02:15,,7,2,3,WAS 24,1,WAS,TD
-12,1565,2,03:29,,19,2,-6,WAS 12,0,WAS,
-12,1544,1,04:09,,10,2,-9,WAS 21,0,WAS,
-12,1593,3,02:51,,16,2,3,WAS 15,0,WAS,
-16,2487,2,05:34,,4,3,28,WAS 18,0,WAS,
-16,2511,1,04:57,,10,3,31,WAS 40,0,WAS,
-16,2463,1,06:13,,10,3,6,WAS 12,0,WAS,
-16,2561,3,04:06,,7,3,79,WAS 43,0,WAS,FUMBLE
-16,2539,2,04:15,,7,3,31,WAS 43,0,WAS,
-7,767,2,02:24,,6,1,6,HOU 38,0,HOU,
-7,788,3,01:41,,4,1,6,HOU 40,0,HOU,
-7,810,4,01:36,,4,1,6,HOU 40,0,HOU,PUNT
-7,746,1,02:58,,10,1,4,HOU 34,0,HOU,
-3,400,4,08:35,,1,1,9,HOU 41,0,HOU,PUNT
-3,324,1,10:09,,10,1,3,HOU 32,0,HOU,
-3,373,3,08:42,,1,1,-1,HOU 41,0,HOU,
-3,349,2,09:24,,7,1,9,HOU 35,0,HOU,
-17,2751,2,00:51,,7,3,35,HOU 38,0,HOU,
-17,2617,2,03:14,,8,3,2,HOU 11,0,HOU,
-17,2890,1,13:19,,10,4,83,WAS 11,0,HOU,FUMBLE
-17,2809,1,15:00,,10,4,45,HOU 47,0,HOU,
-17,2730,1,01:23,,10,3,29,HOU 35,0,HOU,
-17,2639,3,03:08,,8,3,12,HOU 11,0,HOU,
-17,2793,0,,,0,3,38,,0,,
-17,2830,2,14:34,,3,4,47,WAS 46,0,HOU,
-17,2684,2,02:01,,2,3,20,HOU 29,0,HOU,
-17,2596,1,03:53,,10,3,2,HOU 9,0,HOU,
-17,2851,3,13:47,,1,4,80,WAS 44,0,HOU,PENALTY
-17,2772,3,00:19,,1,3,38,HOU 44,0,HOU,
-17,2663,1,02:35,,10,3,20,HOU 21,0,HOU,
-17,2706,3,01:54,,2,3,26,HOU 29,0,HOU,
-4,490,4,06:31,,13,1,-3,WAS 17,0,WAS,PUNT
-4,466,3,07:02,,13,1,-3,WAS 17,0,WAS,
-4,422,1,08:23,,10,1,5,WAS 20,0,WAS,
-4,447,2,07:45,,5,1,-3,WAS 25,0,WAS,
-2,261,0,10:57,,0,1,9,,0,,TIMEOUT
-2,299,4,10:24,,2,1,8,WAS 19,0,WAS,PUNT
-2,212,1,12:24,,10,1,9,WAS 11,0,WAS,
-2,278,3,10:57,,1,1,8,WAS 20,0,WAS,
-2,237,2,11:45,,1,1,8,WAS 20,0,WAS,
-15,2444,4,06:25,,6,3,31,HOU 41,0,HOU,PUNT
-15,2401,2,07:12,,8,3,31,HOU 39,0,HOU,
-15,2422,3,06:30,,6,3,31,HOU 41,0,HOU,
-15,2320,1,08:42,,10,3,27,HOU 23,0,HOU,
-15,2344,1,08:12,,10,3,29,HOU 37,0,HOU,
-15,2365,2,07:37,,8,3,31,HOU 39,0,HOU,
-15,2285,1,09:16,,10,3,13,HOU 10,0,HOU,
+20,3615,0,01:55,"R.Bullock kicks 65 yards from HOU 35 to end zone, Touchback.",0,4,0,HOU 35,0,HOU,KICKOFF
+20,3744,4,01:23,(1:23) (Shotgun) R.Griffin pass short right to R.Helu to HOU 42 for 6 yards (J.Joseph).,10,4,38,HOU 48,0,WAS,
+20,3630,1,01:55,(1:55) (Shotgun) R.Griffin pass short middle to N.Paul pushed ob at WAS 39 for 19 yards (A.J. Bouye).,10,4,19,WAS 20,0,WAS,
+20,3678,1,01:40,(1:40) (Shotgun) R.Griffin pass incomplete deep right to P.Garcon [W.Mercilus].,10,4,32,HOU 48,0,WAS,
+20,3654,1,01:48,(1:48) (Shotgun) R.Griffin pass short right to D.Jackson pushed ob at HOU 48 for 13 yards (J.Joseph).,10,4,32,WAS 39,0,WAS,
+20,3700,2,01:35,(1:35) (Shotgun) R.Griffin pass incomplete short left to A.Roberts [W.Mercilus].,10,4,32,HOU 48,0,WAS,
+20,3722,3,01:28,(1:28) (Shotgun) R.Griffin pass incomplete short right to R.Helu (J.Watt).,10,4,32,HOU 48,0,WAS,
+21,3768,1,01:14,(1:14) R.Fitzpatrick kneels to HOU 41 for -1 yards.,10,4,-1,HOU 42,0,HOU,
+21,3810,0,,END GAME,0,4,-2,,0,,
+21,3789,2,00:37,(:37) R.Fitzpatrick kneels to HOU 40 for -1 yards.,11,4,-2,HOU 41,0,HOU,
+1,151,2,13:43,"(13:43) A.Foster right guard to HOU 49 for 9 yards (B.Rambo, R.Clark).",10,1,29,HOU 40,0,HOU,
+1,55,1,15:00,(15:00) (Shotgun) R.Fitzpatrick pass short right to D.Hopkins pushed ob at HOU 27 for 7 yards (D.Hall).,10,1,7,HOU 20,0,HOU,
+1,36,0,15:00,"K.Forbath kicks 65 yards from WAS 35 to end zone, Touchback.",0,1,0,WAS 35,0,WAS,KICKOFF
+1,193,4,12:33,"(12:33) S.Lechler punts 41 yards to WAS 11, Center-J.Weeks, fair catch by A.Roberts.",2,1,28,HOU 48,0,HOU,PUNT
+1,129,1,13:48,(13:48) (Shotgun) R.Fitzpatrick pass incomplete deep right to A.Johnson.,10,1,20,HOU 40,0,HOU,
+1,83,2,14:27,(14:27) (Shotgun) R.Fitzpatrick pass incomplete short middle to D.Johnson [J.Hatcher].,3,1,7,HOU 27,0,HOU,
+1,172,3,13:04,"(13:04) A.Foster left guard to HOU 48 for -1 yards (B.Cofield, C.Baker).",1,1,28,HOU 49,0,HOU,
+1,105,3,14:22,(14:22) (Shotgun) R.Fitzpatrick pass short right to A.Johnson pushed ob at HOU 40 for 13 yards (D.Hall). (The Punt Hang Time Was 4.53 secs.),3,1,28,HOU 27,0,HOU,
+3,373,3,08:42,"(8:42) A.Foster right guard to HOU 41 for no gain (K.Robinson, B.Orakpo). Penalty on HOU-C.Myers, Offensive Holding, declined.",1,1,-1,HOU 41,0,HOU,
+3,349,2,09:24,(9:24) (Shotgun) R.Fitzpatrick pass short left to A.Foster to HOU 41 for 6 yards (K.Robinson).,7,1,9,HOU 35,0,HOU,
+3,324,1,10:09,(10:09) (Shotgun) A.Foster left guard to HOU 35 for 3 yards (J.Hatcher; R.Kerrigan).,10,1,3,HOU 32,0,HOU,
+3,400,4,08:35,"(8:35) S.Lechler punts 59 yards to end zone, Center-J.Weeks, Touchback.",1,1,9,HOU 41,0,HOU,PUNT
+2,278,3,10:57,(10:57) (Shotgun) A.Morris up the middle to WAS 19 for -1 yards (J.Watt; B.Reed).,1,1,8,WAS 20,0,WAS,
+2,261,0,10:57,Timeout #1 by WAS at 10:57.,0,1,9,,0,,TIMEOUT
+2,237,2,11:45,(11:45) (Shotgun) R.Griffin pass short right to D.Jackson to WAS 20 for no gain (J.Joseph) [J.Watt]. (The Punt Hang Time Was 4.62 secs.),1,1,8,WAS 20,0,WAS,
+2,212,1,12:24,(12:24) A.Morris left end to WAS 20 for 9 yards (B.Reed).,10,1,9,WAS 11,0,WAS,
+2,299,4,10:24,"(10:24) T.Way punts 61 yards to HOU 20, Center-N.Sundberg. D.Johnson to HOU 32 for 12 yards (E.Biggers).",2,1,8,WAS 19,0,WAS,PUNT
+5,537,2,06:13,"(6:13) A.Foster right end to HOU 41 for 9 yards (D.Hall). PENALTY on HOU-B.Brooks, Offensive Holding, 10 yards, enforced at HOU 32 - No Play.",10,1,-10,HOU 32,0,HOU,PENALTY
+5,569,2,05:46,(5:46) R.Fitzpatrick pass short left to A.Foster to HOU 33 for 11 yards (R.Clark).,20,1,1,HOU 22,0,HOU,
+5,593,3,05:05,(5:05) (Shotgun) R.Fitzpatrick pass short right to D.Johnson to HOU 34 for 1 yard (D.Hall).,9,1,2,HOU 33,0,HOU,
+5,515,1,06:18,(6:18) R.Fitzpatrick pass incomplete short left to R.Griffin.,10,1,0,HOU 32,0,HOU,
+5,617,4,04:30,"(4:30) S.Lechler punts 53 yards to WAS 13, Center-J.Weeks. A.Roberts ran ob at WAS 24 for 11 yards. (The Punt Hang Time Was 4.72 secs.)",8,1,2,HOU 34,0,HOU,PUNT
+4,490,4,06:31,"(6:31) T.Way punts 58 yards to HOU 25, Center-N.Sundberg. D.Johnson to HOU 32 for 7 yards (K.Robinson).",13,1,-3,WAS 17,0,WAS,PUNT
+4,466,3,07:02,(7:02) (Shotgun) R.Griffin pass short left to D.Jackson to WAS 17 for no gain (D.Swearinger).,13,1,-3,WAS 17,0,WAS,
+4,422,1,08:23,(8:23) (Shotgun) R.Griffin pass short right to P.Garcon to WAS 25 for 5 yards (J.Joseph) [J.Crick].,10,1,5,WAS 20,0,WAS,
+4,447,2,07:45,(7:45) (Shotgun) R.Griffin sacked at WAS 17 for -8 yards (D.Swearinger).,5,1,-3,WAS 25,0,WAS,
+7,810,4,01:36,"(1:36) S.Lechler punts 60 yards to end zone, Center-J.Weeks, Touchback. (The Punt Hang Time Was 4.85 secs.)",4,1,6,HOU 40,0,HOU,PUNT
+7,788,3,01:41,(1:41) (Shotgun) R.Fitzpatrick pass incomplete short left to A.Johnson (J.Hatcher) [K.Robinson].,4,1,6,HOU 40,0,HOU,
+7,767,2,02:24,(2:24) A.Foster right tackle to HOU 40 for 2 yards (J.Jenkins).,6,1,6,HOU 38,0,HOU,
+7,746,1,02:58,(2:58) A.Foster left guard to HOU 38 for 4 yards (P.Riley).,10,1,4,HOU 34,0,HOU,
+6,667,2,03:57,"(3:57) R.Griffin FUMBLES (Aborted) at WAS 30, and recovers at WAS 31. R.Griffin to WAS 31 for no gain (B.Reed).",4,1,7,WAS 30,0,WAS,FUMBLE
+6,693,3,03:21,"(3:21) (Shotgun) R.Griffin pass incomplete deep right to A.Roberts. Washington challenged the incomplete pass ruling, and the play was Upheld. (Timeout #2.)",3,1,7,WAS 31,0,WAS,TIMEOUT
+6,715,4,03:11,"(3:11) T.Way punts 44 yards to HOU 25, Center-N.Sundberg. D.Johnson to HOU 34 for 9 yards (T.Robinson).",3,1,7,WAS 31,0,WAS,PUNT
+6,642,1,04:17,(4:17) (Shotgun) A.Morris right tackle to WAS 30 for 6 yards (D.Swearinger).,10,1,6,WAS 24,0,WAS,
+9,1224,4,07:57,"(7:57) S.Lechler punts 46 yards to WAS 29, Center-J.Weeks. A.Roberts to HOU 46 for 25 yards (E.Mack). (The Punt Hang Time Was 3.91 secs.)",5,2,17,HOU 25,0,HOU,PUNT
+9,1157,1,09:19,(9:19) (Shotgun) R.Fitzpatrick pass incomplete short right to D.Johnson.,10,2,12,HOU 20,0,HOU,
+9,1136,2,10:02,(10:02) A.Foster left guard to HOU 20 for 6 yards (D.Amerson).,4,2,12,HOU 14,0,HOU,
+9,1179,2,09:14,"(9:14) (Shotgun) R.Fitzpatrick FUMBLES (Aborted) at HOU 15, and recovers at HOU 15. R.Fitzpatrick sacked at HOU 15 for -5 yards (J.Hatcher).",10,2,17,HOU 20,0,HOU,FUMBLE
+9,1115,1,10:31,(10:31) (Shotgun) A.Foster right guard to HOU 14 for 6 yards (J.Hatcher).,10,2,6,HOU 8,0,HOU,
+9,1203,3,08:31,(8:31) (Shotgun) A.Foster right end to HOU 25 for 10 yards (P.Riley).,15,2,17,HOU 15,0,HOU,
+8,964,2,13:45,(13:45) (Shotgun) R.Griffin pass short left to P.Garcon to WAS 48 for 3 yards (K.Lewis; K.Jackson).,8,2,28,WAS 45,0,WAS,
+8,855,2,00:43,(:43) (Shotgun) R.Griffin pass short right to P.Garcon pushed ob at WAS 33 for 9 yards (B.Reed).,6,1,13,WAS 24,0,WAS,
+8,988,3,13:06,(13:06) (Shotgun) R.Helu up the middle pushed ob at HOU 36 for 16 yards (K.Lewis).,5,2,44,WAS 48,0,WAS,
+8,1056,2,11:52,(11:52) (Shotgun) R.Helu up the middle to HOU 34 for 6 yards (T.Jamison).,14,2,46,HOU 40,0,WAS,
+8,879,1,00:08,(:08) A.Morris left tackle to WAS 34 for 1 yard (T.Jamison).,10,1,14,WAS 33,0,WAS,
+8,1077,3,11:15,(11:15) (Shotgun) R.Griffin sacked at HOU 46 for -12 yards (B.Reed).,8,2,34,HOU 34,0,WAS,
+8,1096,4,10:40,"(10:40) T.Way punts 38 yards to HOU 8, Center-N.Sundberg, fair catch by D.Johnson.",20,2,34,HOU 46,0,WAS,PUNT
+8,940,1,14:22,(14:22) (Shotgun) R.Griffin pass short middle to N.Paul to WAS 45 for 2 yards (J.Crick) [B.Reed].,10,2,25,WAS 43,0,WAS,
+8,1009,1,12:39,(12:39) R.Griffin pass short right to D.Young pushed ob at HOU 35 for 1 yard (B.Cushing).,10,2,45,HOU 36,0,WAS,
+8,1033,2,12:39,"(12:39) (Shotgun) PENALTY on WAS-C.Chester, False Start, 5 yards, enforced at HOU 35 - No Play.",9,2,40,HOU 35,0,WAS,PENALTY
+8,827,1,01:26,"(1:26) (Shotgun) R.Griffin pass short left to J.Reed to WAS 24 for 4 yards (K.Lewis, B.Cushing).",10,1,4,WAS 20,0,WAS,
+8,916,2,15:00,(15:00) (Shotgun) R.Griffin pass short right to D.Jackson to WAS 43 for 9 yards (J.Joseph).,9,2,23,WAS 34,0,WAS,
+11,1360,0,06:06,"K.Forbath kicks 72 yards from WAS 35 to HOU -7. D.Johnson pushed ob at HOU 21 for 28 yards (E.Biggers). PENALTY on HOU-J.Tuggle, Offensive Holding, 10 yards, enforced at HOU 21.",0,2,0,WAS 35,0,WAS,KICKOFF
+11,1431,2,05:32,(5:32) A.Foster right tackle to HOU 21 for 6 yards (K.Golston).,6,2,10,HOU 15,0,HOU,
+11,1473,2,04:28,"(4:28) R.Fitzpatrick pass deep right to D.Hopkins for 76 yards, TOUCHDOWN. Penalty on WAS-P.Riley, Defensive Holding, declined.",7,2,89,HOU 24,1,HOU,TD
+11,1506,0,04:15,"R.Bullock extra point is GOOD, Center-J.Weeks, Holder-S.Lechler.",0,2,89,WAS 2,1,HOU,XP
+11,1452,1,05:01,(5:01) A.Foster right tackle to HOU 24 for 3 yards (B.Orakpo).,10,2,13,HOU 21,0,HOU,
+11,1410,1,06:00,(6:00) A.Foster right tackle to HOU 15 for 4 yards (K.Robinson).,10,2,4,HOU 11,0,HOU,
+10,1249,1,07:43,(7:43) A.Morris right tackle to HOU 30 for 16 yards (K.Lewis).,10,2,16,HOU 46,0,WAS,
+10,1270,1,07:07,(7:07) R.Helu right end pushed ob at HOU 22 for 8 yards (J.Joseph).,10,2,24,HOU 30,0,WAS,
+10,1322,1,06:11,"(6:11) D.Young up the middle for 1 yard, TOUCHDOWN.",1,2,46,HOU 1,1,WAS,TD
+10,1339,0,06:06,"K.Forbath extra point is Blocked (J.Watt), Center-N.Sundberg, Holder-T.Way.",0,2,46,HOU 2,0,WAS,XPB
+10,1295,2,06:41,"(6:41) A.Morris right end to HOU 1 for 21 yards (J.Joseph). Houston challenged the fumble ruling, and the play was Upheld. The ruling on the field was confirmed. (Timeout #1.)",2,2,45,HOU 22,0,WAS,TIMEOUT
+13,1816,1,01:01,"(1:01) (Shotgun) R.Griffin pass incomplete short right [J.Watt]. PENALTY on WAS-R.Griffin, Intentional Grounding, 15 yards, enforced at HOU 44. Penalty on WAS-A.Roberts, Offensive Pass Interference, declined.",10,2,21,HOU 44,0,WAS,PENALTY
+13,1709,2,02:00,(2:00) (Shotgun) R.Griffin pass short right to P.Garcon to WAS 29 for 7 yards (J.Joseph).,8,2,9,WAS 22,0,WAS,
+13,1733,3,01:37,(1:37) (Shotgun) R.Griffin pass short left to D.Jackson pushed ob at WAS 36 for 7 yards (A.J. Bouye).,1,2,16,WAS 29,0,WAS,
+13,1849,2,00:55,(:55) (Shotgun) R.Griffin pass short left to D.Jackson to WAS 41 for no gain (D.Swearinger).,25,2,21,WAS 41,0,WAS,
+13,1876,0,00:04,Timeout #3 by WAS at 00:04.,0,2,21,,0,,TIMEOUT
+13,1792,1,01:24,(1:24) (Shotgun) R.Griffin pass short left to P.Garcon to HOU 44 for 15 yards (K.Jackson).,10,2,36,WAS 41,0,WAS,
+13,1762,1,01:32,"(1:32) (Shotgun) R.Griffin sacked at WAS 30 for -6 yards (W.Mercilus). PENALTY on HOU-K.Jackson, Illegal Contact, 5 yards, enforced at WAS 36 - No Play.",10,2,21,WAS 36,0,WAS,PENALTY
+13,1656,0,02:09,"R.Bullock kicks 65 yards from HOU 35 to end zone, Touchback.",0,2,0,HOU 35,0,HOU,KICKOFF
+13,1671,1,02:09,(2:09) (Shotgun) A.Morris left end pushed ob at WAS 22 for 2 yards (D.Swearinger).,10,2,2,WAS 20,0,WAS,
+13,1893,3,00:04,"(:04) A.Morris left end to 50 for 9 yards (K.Jackson, D.Swearinger).",25,2,30,WAS 41,0,WAS,
+12,1617,4,02:15,"(2:15) T.Way punt is BLOCKED by A.Blue, Center-N.Sundberg, RECOVERED by HOU-A.Blue at WAS 5. A.Blue for 5 yards, TOUCHDOWN.",7,2,3,WAS 24,1,WAS,TD
+12,1544,1,04:09,(4:09) D.Jackson right end to WAS 12 for -9 yards (J.Clowney). (Play was a reverse),10,2,-9,WAS 21,0,WAS,
+12,1593,3,02:51,(2:51) (Shotgun) R.Griffin pass short left to R.Helu to WAS 24 for 9 yards (K.Lewis) [J.Watt].,16,2,3,WAS 15,0,WAS,
+12,1565,2,03:29,(3:29) (Shotgun) R.Griffin pass short left to P.Garcon to WAS 15 for 3 yards (K.Jackson).,19,2,-6,WAS 12,0,WAS,
+12,1522,0,04:15,R.Bullock kicks 72 yards from HOU 35 to WAS -7. A.Roberts pushed ob at WAS 21 for 28 yards (A.Hal).,0,2,0,HOU 35,0,HOU,KICKOFF
+15,2344,1,08:12,(8:12) A.Foster right tackle to HOU 39 for 2 yards (P.Riley).,10,3,29,HOU 37,0,HOU,
+15,2320,1,08:42,(8:42) R.Fitzpatrick pass short right to A.Johnson pushed ob at HOU 37 for 14 yards (D.Hall).,10,3,27,HOU 23,0,HOU,
+15,2444,4,06:25,"(6:25) S.Lechler punts 47 yards to WAS 12, Center-J.Weeks, downed by HOU-J.Tarpinian. (The Punt Hang Time Was 4.91 secs.)",6,3,31,HOU 41,0,HOU,PUNT
+15,2422,3,06:30,(6:30) (Shotgun) R.Fitzpatrick pass incomplete short middle to C.Fiedorowicz [R.Kerrigan].,6,3,31,HOU 41,0,HOU,
+15,2285,1,09:16,(9:16) (Shotgun) R.Fitzpatrick pass short middle to A.Johnson to HOU 23 for 13 yards (R.Clark).,10,3,13,HOU 10,0,HOU,
+15,2401,2,07:12,(7:12) (Shotgun) A.Foster up the middle to HOU 41 for 2 yards (J.Jenkins).,8,3,31,HOU 39,0,HOU,
+15,2365,2,07:37,"(7:37) (Shotgun) R.Fitzpatrick pass short middle to D.Hopkins to HOU 44 for 5 yards (D.Hall). Penalty on HOU-K.Martin, Offensive Pass Interference, offsetting, enforced at HOU 39 - No Play. Penalty on WAS-R.Clark, Unnecessary Roughness, offsetting.",8,3,31,HOU 39,0,HOU,
+14,2135,1,10:44,(10:44) (Shotgun) R.Helu right end pushed ob at HOU 18 for 16 yards (D.Manning).,10,3,70,HOU 34,0,WAS,
+14,1964,1,14:52,(14:52) (Shotgun) R.Griffin pass short left to D.Jackson to WAS 29 for 17 yards.,10,3,21,WAS 12,0,WAS,
+14,2253,1,09:23,"(9:23) R.Griffin FUMBLES (Aborted) at HOU 11, RECOVERED by HOU-J.Watt at HOU 10. J.Watt to HOU 10 for no gain (L.Paulsen).",7,3,78,HOU 7,0,WAS,FUMBLE
+14,2156,1,10:12,(10:12) (Shotgun) A.Morris left guard to HOU 14 for 4 yards (K.Jackson; B.Cushing).,10,3,74,HOU 18,0,WAS,
+14,2048,2,13:15,(13:15) (Shotgun) R.Griffin scrambles right end to WAS 34 for 1 yard (K.Jackson).,6,3,22,WAS 33,0,WAS,
+14,2069,3,12:31,(12:31) (Shotgun) R.Griffin pass deep right to N.Paul ran ob at HOU 49 for 17 yards.,5,3,39,WAS 34,0,WAS,
+14,1931,0,15:00,"R.Bullock kicks 71 yards from HOU 35 to WAS -6. A.Roberts to WAS 22 for 28 yards (M.Mohamed). PENALTY on WAS-R.Grant, Offensive Holding, 10 yards, enforced at WAS 22.",0,3,78,HOU 35,0,HOU,KICKOFF
+14,2020,1,13:53,(13:53) (Shotgun) R.Griffin pass short left to P.Garcon to WAS 33 for 10 yards (B.Cushing).,16,3,22,WAS 23,0,WAS,
+14,1988,1,14:16,"(14:16) (Shotgun) A.Morris up the middle to WAS 33 for 4 yards (J.Crick). PENALTY on WAS-T.Williams, Offensive Holding, 10 yards, enforced at WAS 33.",10,3,74,WAS 29,0,WAS,PENALTY
+14,2093,1,11:52,(11:52) (Shotgun) A.Morris right tackle to HOU 40 for 9 yards (J.Joseph).,10,3,48,HOU 49,0,WAS,
+14,2220,3,09:27,"(9:27) (Shotgun) R.Griffin pass incomplete short left to D.Jackson. PENALTY on HOU-D.Swearinger, Roughing the Passer, 7 yards, enforced at HOU 14 - No Play.",6,3,81,HOU 14,0,WAS,PENALTY
+14,2194,2,09:35,(9:35) R.Griffin pass incomplete short right [B.Reed].,6,3,74,HOU 14,0,WAS,
+14,2114,2,11:20,(11:20) (Shotgun) A.Morris right tackle to HOU 34 for 6 yards (J.Crick).,1,3,54,HOU 40,0,WAS,
+14,2177,0,09:35,Timeout #1 by HOU at 09:35.,0,3,74,,0,,TIMEOUT
+17,2617,2,03:14,(3:14) (Shotgun) R.Fitzpatrick pass incomplete deep left to A.Johnson.,8,3,2,HOU 11,0,HOU,
+17,2596,1,03:53,(3:53) A.Foster left tackle to HOU 11 for 2 yards (C.Baker).,10,3,2,HOU 9,0,HOU,
+17,2793,0,,END QUARTER 3,0,3,38,,0,,
+17,2639,3,03:08,(3:08) (Shotgun) R.Fitzpatrick pass short left to A.Johnson to HOU 21 for 10 yards (D.Amerson).,8,3,12,HOU 11,0,HOU,
+17,2851,3,13:47,"(13:47) (Shotgun) R.Fitzpatrick pass short left to A.Johnson to WAS 21 for 23 yards (B.Breeland). PENALTY on WAS-B.Breeland, Horse Collar Tackle, 10 yards, enforced at WAS 21.",1,4,80,WAS 44,0,HOU,PENALTY
+17,2772,3,00:19,(:19) R.Fitzpatrick up the middle to HOU 47 for 3 yards (B.Orakpo).,1,3,38,HOU 44,0,HOU,
+17,2706,3,01:54,(1:54) (Shotgun) R.Fitzpatrick pass short left to D.Hopkins to HOU 35 for 6 yards (D.Amerson).,2,3,26,HOU 29,0,HOU,
+17,2890,1,13:19,"(13:19) A.Foster right tackle to WAS 8 for 3 yards (R.Kerrigan). FUMBLES (R.Kerrigan), RECOVERED by WAS-K.Robinson at WAS 8. K.Robinson to WAS 8 for no gain (C.Fiedorowicz).",10,4,83,WAS 11,0,HOU,FUMBLE
+17,2809,1,15:00,(15:00) A.Foster up the middle to WAS 46 for 7 yards (K.Robinson).,10,4,45,HOU 47,0,HOU,
+17,2663,1,02:35,(2:35) A.Foster left tackle pushed ob at HOU 29 for 8 yards (R.Clark).,10,3,20,HOU 21,0,HOU,
+17,2751,2,00:51,(:51) (Shotgun) A.Foster right guard to HOU 44 for 6 yards (B.Rambo; P.Riley).,7,3,35,HOU 38,0,HOU,
+17,2684,2,02:01,(2:01) R.Fitzpatrick pass incomplete short middle to D.Hopkins (R.Clark).,2,3,20,HOU 29,0,HOU,
+17,2730,1,01:23,(1:23) (Shotgun) A.Foster right guard to HOU 38 for 3 yards (J.Hatcher).,10,3,29,HOU 35,0,HOU,
+17,2830,2,14:34,"(14:34) (Shotgun) J.Grimes up the middle to WAS 44 for 2 yards (J.Hatcher, P.Riley). WAS-J.Hatcher was injured during the play. His return is Questionable.",3,4,47,WAS 46,0,HOU,
+16,2561,3,04:06,"(4:06) (Shotgun) R.Griffin pass deep middle to N.Paul to HOU 9 for 48 yards (D.Swearinger). FUMBLES (D.Swearinger), RECOVERED by HOU-K.Lewis at HOU 9. K.Lewis to HOU 9 for no gain (R.Grant).",7,3,79,WAS 43,0,WAS,FUMBLE
+16,2487,2,05:34,(5:34) (Shotgun) R.Griffin pass short middle to A.Roberts to WAS 40 for 22 yards (K.Jackson).,4,3,28,WAS 18,0,WAS,
+16,2539,2,04:15,(4:15) (Shotgun) R.Griffin pass incomplete short right to D.Jackson [D.Swearinger].,7,3,31,WAS 43,0,WAS,
+16,2511,1,04:57,(4:57) (Shotgun) R.Griffin pass short right to L.Paulsen to WAS 43 for 3 yards (D.Manning) [J.Watt].,10,3,31,WAS 40,0,WAS,
+16,2463,1,06:13,(6:13) (Shotgun) R.Griffin pass short right to P.Garcon to WAS 18 for 6 yards (J.Joseph).,10,3,6,WAS 12,0,WAS,
+19,3386,2,04:32,(4:32) A.Blue right guard to WAS 46 for no gain (C.Baker).,6,4,46,WAS 46,0,HOU,
+19,3215,3,07:26,"(7:26) A.Foster right guard to HOU 18 for 1 yard (K.Robinson). PENALTY on WAS-C.Baker, Neutral Zone Infraction, 5 yards, enforced at HOU 17 - No Play.",1,4,14,HOU 17,0,HOU,PENALTY
+19,3428,1,03:06,(3:06) R.Fitzpatrick pass deep middle to A.Johnson to WAS 17 for 20 yards (D.Amerson). WAS-C.Baker was injured during the play. His return is Probable.,10,4,75,WAS 37,0,HOU,
+19,3579,0,02:00,Two-Minute Warning,0,4,68,,0,,
+19,3407,3,03:48,(3:48) (Shotgun) R.Fitzpatrick scrambles up the middle to WAS 37 for 9 yards (D.Hall).,6,4,55,WAS 46,0,HOU,
+19,3365,1,05:11,(5:11) A.Foster left guard to WAS 46 for 4 yards (D.Hall).,10,4,46,50,0,HOU,
+19,3252,1,07:07,"(7:07) (Shotgun) R.Fitzpatrick pass incomplete short left to R.Griffin. PENALTY on WAS-J.Jenkins, Roughing the Passer, 15 yards, enforced at HOU 22 - No Play.",10,4,29,HOU 22,0,HOU,PENALTY
+19,3517,2,02:35,(2:35) (Shotgun) R.Fitzpatrick pass short left to D.Hopkins to WAS 25 for no gain (D.Amerson).,18,4,67,WAS 25,0,HOU,
+19,3344,3,05:49,(5:49) A.Foster left tackle to 50 for 4 yards (K.Robinson).,1,4,42,HOU 46,0,HOU,
+19,3452,1,02:40,(2:40) A.Foster left tackle to WAS 20 for -3 yards (J.Jenkins).,10,4,72,WAS 17,0,HOU,
+19,3477,0,02:35,Timeout #2 by WAS at 02:35.,0,4,72,,0,,TIMEOUT
+19,3596,4,02:00,"(2:00) R.Bullock 42 yard field goal is GOOD, Center-J.Weeks, Holder-S.Lechler.",17,4,68,WAS 24,1,HOU,FG
+19,3191,2,07:48,(7:48) (Shotgun) R.Fitzpatrick pass short right to R.Griffin to HOU 17 for 6 yards (D.Hall; B.Orakpo).,7,4,9,HOU 11,0,HOU,
+19,3327,0,05:49,Timeout #2 by HOU at 05:49.,0,4,38,,0,,TIMEOUT
+19,3306,2,06:33,(6:33) A.Foster right tackle to HOU 46 for no gain (P.Riley).,1,4,38,HOU 46,0,HOU,
+19,3170,1,08:27,(8:27) A.Foster left tackle to HOU 11 for 3 yards (R.Clark).,10,4,3,HOU 8,0,HOU,
+19,3285,1,07:02,(7:02) A.Foster right tackle pushed ob at HOU 46 for 9 yards (D.Hall).,10,4,38,HOU 37,0,HOU,
+19,3558,3,02:30,(2:30) (Shotgun) A.Foster up the middle to WAS 24 for 1 yard (R.Kerrigan).,18,4,68,WAS 25,0,HOU,
+19,3494,2,02:35,"(2:35) (Shotgun) PENALTY on HOU-D.Hopkins, False Start, 5 yards, enforced at WAS 20 - No Play.",13,4,67,WAS 20,0,HOU,PENALTY
+19,3541,0,02:30,Timeout #3 by WAS at 02:30.,0,4,67,,0,,TIMEOUT
+18,2967,1,12:06,(12:06) (Shotgun) R.Griffin pass short left to P.Garcon pushed ob at WAS 36 for 11 yards (A.J. Bouye) [B.Cushing].,10,4,22,WAS 25,0,WAS,
+18,2991,1,11:34,(11:34) (Shotgun) R.Griffin sacked at WAS 30 for -6 yards (J.Watt).,10,4,22,WAS 36,0,WAS,
+18,2922,1,13:10,"(13:10) (Shotgun) R.Griffin pass short left to P.Garcon to WAS 16 for 8 yards (K.Jackson, J.Tuggle).",10,4,8,WAS 8,0,WAS,
+18,3016,0,10:46,Timeout #1 by WAS at 10:46.,0,4,22,,0,,TIMEOUT
+18,3112,3,09:23,(9:23) (Shotgun) R.Griffin pass incomplete short middle to P.Garcon (A.J. Bouye).,17,4,31,WAS 39,0,WAS,
+18,3033,2,10:46,(10:46) (Shotgun) R.Griffin pass short middle to D.Jackson to WAS 46 for 16 yards (J.Joseph).,16,4,38,WAS 30,0,WAS,
+18,3134,4,08:35,"(8:35) T.Way punts 45 yards to HOU 16, Center-N.Sundberg. D.Johnson pushed ob at HOU 16 for no gain (R.Helu). PENALTY on HOU-A.Hal, Offensive Holding, 8 yards, enforced at HOU 16.",17,4,31,WAS 39,0,WAS,PUNT
+18,3057,1,10:09,"(10:09) (Shotgun) A.Morris right end to WAS 42 for -4 yards (J.Watt, D.Swearinger).",10,4,34,WAS 46,0,WAS,
+18,3078,2,09:23,(9:23) (Shotgun) R.Griffin pass short right to L.Paulsen to WAS 39 for -3 yards (B.Cushing; J.Crick).,14,4,31,WAS 42,0,WAS,
+18,2946,2,12:36,(12:36) (Shotgun) A.Morris up the middle to WAS 25 for 9 yards (D.Manning).,2,4,17,WAS 16,0,WAS,

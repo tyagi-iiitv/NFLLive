@@ -1,180 +1,180 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1918,0,,,0,2,-1,,0,,
-9,1878,0,00:12,,0,2,0,DEN 35,0,DEN,KICKOFF
-9,1897,1,00:12,,10,2,-1,MIA 20,0,MIA,
-18,3828,4,01:55,,2,4,63,DEN 43,0,MIA,PENALTY
-18,3918,0,01:37,,0,4,83,,0,,TIMEOUT
-18,3693,1,02:43,,10,4,29,MIA 37,0,MIA,
-18,3941,1,01:37,,1,4,84,DEN 1,1,MIA,TD
-18,3811,0,01:55,,0,4,41,,0,,
-18,3765,2,02:06,,7,4,36,DEN 48,0,MIA,
-18,3639,0,03:13,,0,4,0,DEN 35,0,DEN,KICKOFF
-18,3963,0,01:34,,0,4,84,DEN 2,0,MIA,PENALTY
-18,3988,0,01:34,,0,4,84,DEN 1,1,MIA,2PR
-18,3885,2,01:42,,10,4,83,DEN 21,0,MIA,PENALTY
-18,3863,1,01:47,,10,4,63,DEN 21,0,MIA,
-18,3717,2,02:19,,2,4,33,MIA 45,0,MIA,
-18,3669,1,03:08,,10,4,21,MIA 16,0,MIA,
-18,3787,3,02:01,,7,4,41,DEN 48,0,MIA,
-18,3741,1,02:14,,10,4,36,MIA 49,0,MIA,
-6,963,1,12:49,,10,2,6,DEN 23,0,DEN,
-6,1224,2,07:40,,15,2,72,MIA 15,0,DEN,
-6,1172,1,08:25,,7,2,72,MIA 7,0,DEN,
-6,1009,0,12:03,,0,2,6,,0,,TIMEOUT
-6,1248,3,07:13,,5,2,77,MIA 5,1,DEN,TD
-6,1116,2,09:36,,9,2,56,MIA 25,0,DEN,
-6,1193,2,07:45,,5,2,62,MIA 5,0,DEN,PENALTY
-6,1095,1,10:06,,10,2,52,MIA 26,0,DEN,
-6,1273,0,07:08,,0,2,77,MIA 2,1,DEN,XP
-6,941,0,12:53,,0,2,0,MIA 35,0,MIA,KICKOFF
-6,1050,1,11:27,,10,2,26,DEN 47,0,DEN,
-6,1074,2,10:47,,8,2,51,DEN 49,0,DEN,
-6,987,2,12:06,,4,2,6,DEN 29,0,DEN,
-6,1026,3,12:03,,4,2,24,DEN 29,0,DEN,
-6,1137,3,08:49,,5,2,70,MIA 21,0,DEN,PENALTY
-14,2916,0,14:09,,0,4,0,DEN 35,0,DEN,KICKOFF
-14,2976,1,12:57,,10,4,11,MIA 35,0,MIA,
-14,2997,2,12:11,,14,4,11,MIA 31,0,MIA,
-14,3019,3,12:07,,14,4,17,MIA 31,0,MIA,
-14,3044,4,11:30,,8,4,17,MIA 37,0,MIA,PUNT
-14,2952,2,13:34,,8,4,15,MIA 22,0,MIA,
-14,2931,1,14:09,,10,4,2,MIA 20,0,MIA,
-7,1311,1,07:02,,10,2,3,MIA 13,0,MIA,
-7,1543,0,02:00,,0,2,77,,0,,
-7,1441,3,04:33,,1,2,37,MIA 40,0,MIA,
-7,1289,0,07:08,,0,2,0,DEN 35,0,DEN,KICKOFF
-7,1507,2,02:36,,9,2,77,DEN 31,0,MIA,FUMBLE
-7,1388,1,05:26,,10,2,24,MIA 31,0,MIA,FUMBLE
-7,1462,1,03:53,,10,2,55,50,0,MIA,
-7,1332,2,06:28,,7,2,7,MIA 16,0,MIA,FUMBLE
-7,1364,3,06:03,,3,2,18,MIA 20,0,MIA,
-7,1416,2,05:08,,4,2,27,MIA 37,0,MIA,
-7,1560,1,02:00,,10,2,87,DEN 10,1,MIA,TD
-7,1582,0,01:54,,0,2,87,DEN 2,1,MIA,XP
-7,1486,1,03:20,,10,2,56,DEN 32,0,MIA,
-8,1719,2,00:56,,20,2,22,DEN 42,0,DEN,
-8,1665,1,01:07,,10,2,32,MIA 48,0,DEN,
-8,1641,1,01:30,,10,2,32,DEN 41,0,DEN,
-8,1598,0,01:54,,0,2,0,MIA 35,0,MIA,KICKOFF
-8,1617,1,01:54,,10,2,21,DEN 20,0,DEN,
-8,1800,2,00:22,,6,2,66,MIA 19,0,DEN,
-8,1776,1,00:43,,10,2,61,MIA 23,0,DEN,
-8,1824,0,00:16,,0,2,66,,0,,TIMEOUT
-8,1841,3,00:16,,1,2,80,MIA 14,1,DEN,TD
-8,1862,0,00:12,,0,2,80,MIA 2,1,DEN,XP
-8,1741,3,00:51,,20,2,57,DEN 42,0,DEN,
-8,1687,2,01:01,,10,2,22,MIA 48,0,DEN,PENALTY
-10,2169,1,09:56,,10,3,69,MIA 16,0,DEN,
-10,1934,0,15:00,,0,3,0,MIA 35,0,MIA,KICKOFF
-10,2214,3,08:48,,1,3,65,MIA 7,0,DEN,
-10,2020,1,13:42,,10,3,24,DEN 32,0,DEN,
-10,2193,2,09:28,,5,3,73,MIA 11,0,DEN,
-10,2148,2,10:31,,2,3,64,MIA 19,0,DEN,
-10,2083,3,12:02,,2,3,53,MIA 48,0,DEN,
-10,2233,4,08:11,,9,3,65,MIA 15,0,DEN,FGM
-10,2062,2,12:35,,5,3,32,DEN 49,0,DEN,
-10,1975,2,14:30,,6,3,7,DEN 24,0,DEN,
-10,1996,3,13:48,,3,3,12,DEN 27,0,DEN,
-10,2125,2,10:48,,7,3,61,MIA 24,0,DEN,PENALTY
-10,2104,1,11:25,,10,3,56,MIA 27,0,DEN,
-10,1954,1,14:59,,10,3,4,DEN 20,0,DEN,
-10,2041,1,13:04,,10,3,29,DEN 44,0,DEN,
-19,4002,0,01:34,,0,4,26,MIA 35,0,MIA,KICKOFF
-19,4083,1,00:44,,10,4,27,MIA 16,0,DEN,
-19,4045,0,01:30,,0,4,2,,0,,TIMEOUT
-19,4062,2,01:30,,8,4,28,MIA 42,0,DEN,
-19,4024,1,01:33,,10,4,2,MIA 44,0,DEN,
-19,4104,2,00:22,,11,4,26,MIA 17,0,DEN,
-19,4125,0,00:00,,0,4,26,,0,,
-12,2540,3,03:05,,10,3,12,DEN 12,0,MIA,PENALTY
-12,2630,0,02:11,,0,3,12,DEN 2,1,MIA,XP
-12,2479,1,03:20,,10,3,0,DEN 12,0,MIA,
-12,2523,0,03:05,,0,3,0,,0,,TIMEOUT
-12,2609,2,02:15,,5,3,12,DEN 5,1,MIA,TD
-12,2588,1,02:56,,7,3,7,DEN 7,0,MIA,
-12,2501,2,03:12,,10,3,0,DEN 12,0,MIA,
-16,3505,2,04:28,,4,4,15,MIA 26,0,MIA,
-16,3530,1,03:45,,10,4,15,MIA 35,0,MIA,INT
-16,3484,1,05:01,,10,4,6,MIA 20,0,MIA,
-16,3465,0,05:01,,0,4,0,DEN 35,0,DEN,KICKOFF
-11,2413,3,04:11,,22,3,13,MIA 33,0,MIA,
-11,2372,1,05:01,,10,3,10,MIA 45,0,MIA,
-11,2348,2,05:30,,12,3,22,MIA 32,0,MIA,
-11,2303,3,06:48,,8,3,11,MIA 25,0,MIA,
-11,2437,4,03:35,,19,3,13,MIA 36,0,MIA,FUMBLE
-11,2282,2,07:31,,11,3,2,MIA 22,0,MIA,
-11,2254,1,08:06,,10,3,-1,MIA 23,0,MIA,
-11,2327,1,06:10,,10,3,9,MIA 34,0,MIA,
-11,2391,2,04:17,,22,3,10,MIA 33,0,MIA,
-3,511,0,04:10,,0,1,0,DEN 35,0,DEN,KICKOFF
-3,591,4,03:27,,8,1,2,MIA 22,0,MIA,PUNT
-3,569,3,03:32,,8,1,2,MIA 22,0,MIA,
-3,547,2,03:36,,8,1,2,MIA 22,0,MIA,
-3,526,1,04:10,,10,1,2,MIA 20,0,MIA,
-17,3559,1,03:30,,8,4,6,MIA 8,0,DEN,
-17,3584,0,03:17,,0,4,6,,0,,TIMEOUT
-17,3623,0,03:13,,0,4,8,MIA 2,1,DEN,XP
-17,3602,2,03:17,,2,4,8,MIA 2,1,DEN,TD
-4,627,1,03:15,,10,1,1,DEN 13,0,DEN,
-4,669,3,01:57,,4,1,6,DEN 19,0,DEN,
-4,691,4,01:53,,4,1,6,DEN 19,0,DEN,PUNT
-4,648,2,02:39,,9,1,6,DEN 14,0,DEN,
-2,302,2,09:20,,10,1,15,DEN 38,0,DEN,
-2,281,1,10:05,,10,1,15,DEN 38,0,DEN,
-2,348,1,08:01,,10,1,28,DEN 48,0,DEN,
-2,369,2,07:26,,3,1,34,MIA 45,0,DEN,
-2,446,2,05:31,,7,1,54,MIA 21,0,DEN,
-2,491,4,04:14,,6,1,53,MIA 20,1,DEN,FG
-2,467,3,04:48,,5,1,53,MIA 19,0,DEN,
-2,425,1,06:10,,10,1,52,MIA 24,0,DEN,
-2,323,3,08:41,,6,1,21,DEN 42,0,DEN,
-2,260,2,10:42,,2,1,11,DEN 35,0,DEN,
-2,393,1,06:42,,10,1,49,MIA 39,0,DEN,PENALTY
-2,239,1,11:16,,10,1,8,DEN 27,0,DEN,
-2,217,0,11:22,,0,1,0,MIA 35,0,MIA,KICKOFF
-1,117,1,13:19,,10,1,51,DEN 37,0,MIA,
-1,162,1,12:06,,9,1,77,DEN 9,0,MIA,
-1,36,0,15:00,,0,1,0,DEN 35,0,DEN,KICKOFF
-1,183,2,11:26,,3,1,80,DEN 3,1,MIA,TD
-1,96,1,13:54,,10,1,43,MIA 41,0,MIA,
-1,201,0,11:22,,0,1,80,DEN 2,1,MIA,XP
-1,72,2,14:23,,5,1,21,MIA 25,0,MIA,
-1,138,2,12:41,,2,1,71,DEN 29,0,MIA,
-1,51,1,15:00,,10,1,5,MIA 20,0,MIA,
-5,883,1,13:43,,4,2,46,DEN 4,0,MIA,
-5,907,2,12:58,,1,2,47,DEN 1,1,MIA,TD
-5,859,1,14:27,,10,2,43,DEN 14,0,MIA,
-5,822,0,,,0,1,22,,0,,
-5,801,1,00:10,,10,1,22,DEN 34,0,MIA,
-5,925,0,12:53,,0,2,47,DEN 2,1,MIA,XP
-5,717,1,01:40,,10,1,0,DEN 47,0,MIA,TIMEOUT
-5,756,2,01:31,,10,1,7,DEN 47,0,MIA,
-5,838,2,15:00,,1,2,33,DEN 25,0,MIA,
-5,777,3,00:49,,3,1,13,DEN 40,0,MIA,
-13,2857,2,14:55,,10,4,55,MIA 21,0,DEN,
-13,2721,1,01:10,,10,3,11,MIA 49,0,DEN,
-13,2764,3,00:22,,2,3,19,MIA 41,0,DEN,
-13,2807,0,,,0,3,39,,0,,
-13,2824,1,15:00,,10,4,39,MIA 21,0,DEN,
-13,2902,0,14:09,,0,4,60,MIA 2,1,DEN,2PS
-13,2700,2,01:36,,8,3,11,DEN 42,0,DEN,
-13,2652,0,02:11,,0,3,0,MIA 35,0,MIA,KICKOFF
-13,2743,2,01:04,,10,3,19,MIA 49,0,DEN,
-13,2676,1,02:04,,10,3,2,DEN 40,0,DEN,
-13,2881,1,14:13,,5,4,60,MIA 5,1,DEN,TD
-13,2786,4,00:17,,2,3,39,MIA 41,0,DEN,
-15,3290,1,06:59,,10,4,63,MIA 16,0,DEN,
-15,3178,1,08:58,,10,4,70,MIA 36,0,DEN,
-15,3110,2,10:38,,2,4,9,DEN 38,0,DEN,
-15,3431,2,05:05,,6,4,70,MIA 10,1,DEN,TD
-15,3131,3,10:01,,1,4,15,DEN 39,0,DEN,PENALTY
-15,3449,0,05:01,,0,4,70,MIA 2,1,DEN,XP
-15,3086,1,11:17,,10,4,8,DEN 30,0,DEN,
-15,3154,1,09:42,,10,4,70,DEN 45,0,DEN,
-15,3407,1,05:43,,10,4,70,MIA 14,0,DEN,
-15,3374,1,06:03,,10,4,70,MIA 19,0,DEN,PENALTY
-15,3331,2,06:22,,1,4,60,MIA 7,0,DEN,PENALTY
-15,3199,2,08:26,,11,4,70,MIA 37,0,DEN,PENALTY
-15,3231,2,08:02,,19,4,42,MIA 45,0,DEN,
-15,3255,3,07:22,,2,4,54,MIA 28,0,DEN,
-15,3314,0,06:23,,0,4,63,,0,,TIMEOUT
+11,2327,1,06:10,(6:10) (Shotgun) L.Miller up the middle to MIA 32 for -2 yards (B.Marshall).,10,3,9,MIA 34,0,MIA,
+11,2282,2,07:31,(7:31) (Shotgun) L.Miller up the middle to MIA 25 for 3 yards (D.Ware).,11,3,2,MIA 22,0,MIA,
+11,2437,4,03:35,"(3:35) B.Fields punts 52 yards to DEN 12, Center-J.Denney. I.Burse to DEN 12 for no gain (D.Williams). FUMBLES (D.Williams), RECOVERED by MIA-J.Denney at DEN 12. J.Denney to DEN 12 for no gain (T.Davis).",19,3,13,MIA 36,0,MIA,FUMBLE
+11,2348,2,05:30,(5:30) (Shotgun) R.Tannehill pass short right to B.Gibson to MIA 45 for 13 yards (O.Bolden).,12,3,22,MIA 32,0,MIA,
+11,2413,3,04:11,(4:11) (Shotgun) R.Tannehill pass short right to J.Landry to MIA 36 for 3 yards (C.Harris).,22,3,13,MIA 33,0,MIA,
+11,2391,2,04:17,(4:17) (Shotgun) R.Tannehill pass incomplete short left to B.Gibson (B.Roby).,22,3,10,MIA 33,0,MIA,
+11,2254,1,08:06,(8:06) (Shotgun) R.Tannehill pass short left to D.Williams to MIA 22 for -1 yards (R.Moore; T.Ward).,10,3,-1,MIA 23,0,MIA,
+11,2303,3,06:48,(6:48) (Shotgun) R.Tannehill pass short middle to D.Sims to MIA 34 for 9 yards (T.Ward).,8,3,11,MIA 25,0,MIA,
+11,2372,1,05:01,(5:01) (Shotgun) R.Tannehill sacked at MIA 33 for -12 yards (T.Knighton).,10,3,10,MIA 45,0,MIA,
+10,2125,2,10:48,"(10:48) (No Huddle, Shotgun) PENALTY on MIA-E.Mitchell, Encroachment, 5 yards, enforced at MIA 24 - No Play.",7,3,61,MIA 24,0,DEN,PENALTY
+10,2214,3,08:48,(8:48) (Shotgun) P.Manning sacked at MIA 15 for -8 yards (J.Jenkins).,1,3,65,MIA 7,0,DEN,
+10,1996,3,13:48,"(13:48) (No Huddle, Shotgun) P.Manning pass short left to W.Welker pushed ob at DEN 32 for 5 yards (J.Taylor).",3,3,12,DEN 27,0,DEN,
+10,2083,3,12:02,"(12:02) (No Huddle, Shotgun) J.Thompson right tackle to MIA 27 for 21 yards (J.Jenkins).",2,3,53,MIA 48,0,DEN,
+10,1975,2,14:30,"(14:30) (No Huddle, Shotgun) C.Anderson up the middle to DEN 27 for 3 yards (J.Jenkins).",6,3,7,DEN 24,0,DEN,
+10,2041,1,13:04,(13:04) (No Huddle) C.Anderson up the middle to DEN 49 for 5 yards (L.Delmas).,10,3,29,DEN 44,0,DEN,
+10,1954,1,14:59,(14:59) (Shotgun) C.Anderson up the middle to DEN 24 for 4 yards (R.Jones).,10,3,4,DEN 20,0,DEN,
+10,2193,2,09:28,(9:28) (Shotgun) C.Anderson left guard to MIA 7 for 4 yards (C.Wake).,5,3,73,MIA 11,0,DEN,
+10,2020,1,13:42,(13:42) (No Huddle) C.Anderson up the middle to DEN 44 for 12 yards (R.Jones).,10,3,24,DEN 32,0,DEN,
+10,1934,0,15:00,"C.Sturgis kicks 65 yards from MIA 35 to end zone, Touchback.",0,3,0,MIA 35,0,MIA,KICKOFF
+10,2169,1,09:56,(9:56) (Shotgun) P.Manning pass short middle to C.Anderson to MIA 11 for 5 yards (K.Misi).,10,3,69,MIA 16,0,DEN,
+10,2062,2,12:35,"(12:35) (No Huddle, Shotgun) J.Thompson up the middle to MIA 48 for 3 yards (K.Misi).",5,3,32,DEN 49,0,DEN,
+10,2148,2,10:31,"(10:31) (No Huddle, Shotgun) C.Anderson up the middle to MIA 16 for 3 yards (L.Delmas; R.Starks).",2,3,64,MIA 19,0,DEN,
+10,2233,4,08:11,"(8:11) B.McManus 33 yard field goal is No Good, Hit Right Upright, Center-A.Brewer, Holder-B.Colquitt.",9,3,65,MIA 15,0,DEN,FGM
+10,2104,1,11:25,"(11:25) (No Huddle, Shotgun) C.Anderson up the middle to MIA 24 for 3 yards (C.Wake).",10,3,56,MIA 27,0,DEN,
+13,2902,0,14:09,(Pass formation) TWO-POINT CONVERSION ATTEMPT. P.Manning pass to E.Sanders is complete. ATTEMPT SUCCEEDS.,0,4,60,MIA 2,1,DEN,2PS
+13,2786,4,00:17,"(:17) (No Huddle, Shotgun) C.Anderson left guard to MIA 21 for 20 yards (L.Rose).",2,3,39,MIA 41,0,DEN,
+13,2721,1,01:10,(1:10) (Shotgun) P.Manning pass incomplete short right to E.Sanders (B.Grimes).,10,3,11,MIA 49,0,DEN,
+13,2652,0,02:11,C.Sturgis kicks 65 yards from MIA 35 to DEN 0. O.Bolden pushed ob at DEN 40 for 40 yards (J.Wilson).,0,3,0,MIA 35,0,MIA,KICKOFF
+13,2700,2,01:36,(1:36) (Shotgun) C.Anderson up the middle to MIA 49 for 9 yards (J.Jenkins).,8,3,11,DEN 42,0,DEN,
+13,2857,2,14:55,"(14:55) (No Huddle, Shotgun) P.Manning pass short right to D.Thomas to MIA 5 for 16 yards (J.Jenkins).",10,4,55,MIA 21,0,DEN,
+13,2764,3,00:22,"(:22) (No Huddle, Shotgun) P.Manning pass incomplete deep right to E.Sanders.",2,3,19,MIA 41,0,DEN,
+13,2743,2,01:04,"(1:04) (No Huddle, Shotgun) C.Anderson left end to MIA 41 for 8 yards (J.Jenkins).",10,3,19,MIA 49,0,DEN,
+13,2881,1,14:13,"(14:13) P.Manning pass short right to D.Thomas for 5 yards, TOUCHDOWN.",5,4,60,MIA 5,1,DEN,TD
+13,2676,1,02:04,(2:04) (Shotgun) P.Manning pass short left to D.Thomas to DEN 42 for 2 yards (J.Taylor).,10,3,2,DEN 40,0,DEN,
+13,2824,1,15:00,(15:00) (Shotgun) P.Manning pass incomplete deep right to E.Sanders.,10,4,39,MIA 21,0,DEN,
+13,2807,0,,END QUARTER 3,0,3,39,,0,,
+12,2540,3,03:05,"(3:05) (Shotgun) R.Tannehill pass short left INTERCEPTED by V.Miller (M.Jackson) at DEN 22. V.Miller to DEN 25 for 3 yards (D.Williams). FUMBLES (D.Williams), RECOVERED by MIA-M.Pouncey at DEN 25. M.Pouncey to DEN 25 for no gain (D.Wolfe). PENALTY on DEN-T.Ward, Defensive Holding, 5 yards, enforced at DEN 12 - No Play.",10,3,12,DEN 12,0,MIA,PENALTY
+12,2523,0,03:05,Timeout #1 by DEN at 03:05.,0,3,0,,0,,TIMEOUT
+12,2609,2,02:15,"(2:15) (Shotgun) R.Tannehill pass short left to J.Landry for 5 yards, TOUCHDOWN.",5,3,12,DEN 5,1,MIA,TD
+12,2479,1,03:20,(3:20) (Shotgun) R.Tannehill pass incomplete short right to J.Landry (C.Harris).,10,3,0,DEN 12,0,MIA,
+12,2588,1,02:56,(2:56) (Shotgun) L.Miller up the middle to DEN 5 for 2 yards (T.Knighton).,7,3,7,DEN 7,0,MIA,
+12,2630,0,02:11,"C.Sturgis extra point is GOOD, Center-J.Denney, Holder-B.Fields.",0,3,12,DEN 2,1,MIA,XP
+12,2501,2,03:12,(3:12) (Shotgun) R.Tannehill pass incomplete short left to D.Williams (T.Ward).,10,3,0,DEN 12,0,MIA,
+15,3231,2,08:02,"(8:02) (No Huddle, Shotgun) P.Manning pass short left to E.Sanders to MIA 28 for 17 yards (J.Jenkins).",19,4,42,MIA 45,0,DEN,
+15,3449,0,05:01,"B.McManus extra point is GOOD, Center-A.Brewer, Holder-B.Colquitt.",0,4,70,MIA 2,1,DEN,XP
+15,3431,2,05:05,"(5:05) (No Huddle, Shotgun) C.Anderson up the middle for 10 yards, TOUCHDOWN.",6,4,70,MIA 10,1,DEN,TD
+15,3374,1,06:03,"(6:03) (No Huddle, Shotgun) P.Manning pass incomplete deep left to E.Sanders. PENALTY on MIA-J.Wilson, Illegal Use of Hands, 5 yards, enforced at MIA 19 - No Play.",10,4,70,MIA 19,0,DEN,PENALTY
+15,3255,3,07:22,"(7:22) (No Huddle, Shotgun) P.Manning pass short left to E.Sanders to MIA 16 for 12 yards (W.Aikens). Penalty on MIA-W.Aikens, Defensive Pass Interference, declined.",2,4,54,MIA 28,0,DEN,
+15,3110,2,10:38,(10:38) C.Anderson up the middle to DEN 39 for 1 yard (P.Wheeler).,2,4,9,DEN 38,0,DEN,
+15,3178,1,08:58,"(8:58) (No Huddle, Shotgun) C.Anderson right tackle to MIA 37 for -1 yards (O.Vernon).",10,4,70,MIA 36,0,DEN,
+15,3331,2,06:22,"(6:22) (Shotgun) C.Anderson up the middle to MIA 4 for 3 yards (C.Wake). PENALTY on DEN-M.Ramirez, Personal Foul, 15 yards, enforced between downs.",1,4,60,MIA 7,0,DEN,PENALTY
+15,3131,3,10:01,"(10:01) (No Huddle) PENALTY on MIA-R.Starks, Neutral Zone Infraction, 6 yards, enforced at DEN 39 - No Play.",1,4,15,DEN 39,0,DEN,PENALTY
+15,3407,1,05:43,"(5:43) (No Huddle, Shotgun) P.Manning pass short right to D.Thomas to MIA 10 for 4 yards (J.Jenkins).",10,4,70,MIA 14,0,DEN,
+15,3154,1,09:42,(9:42) (No Huddle) P.Manning pass deep right to E.Sanders to MIA 36 for 19 yards (L.Delmas).,10,4,70,DEN 45,0,DEN,
+15,3086,1,11:17,(11:17) (Shotgun) P.Manning pass short right to C.Anderson to DEN 38 for 8 yards (K.Misi).,10,4,8,DEN 30,0,DEN,
+15,3290,1,06:59,"(6:59) (No Huddle, Shotgun) P.Manning pass short left to C.Anderson to MIA 7 for 9 yards (W.Aikens).",10,4,63,MIA 16,0,DEN,
+15,3314,0,06:23,Timeout #1 by MIA at 06:23.,0,4,63,,0,,TIMEOUT
+15,3199,2,08:26,"(8:26) (No Huddle, Shotgun) C.Anderson left tackle to MIA 35 for 2 yards (L.Delmas). PENALTY on DEN-O.Franklin, Offensive Holding, 10 yards, enforced at MIA 35.",11,4,70,MIA 37,0,DEN,PENALTY
+14,3019,3,12:07,(12:07) (Shotgun) R.Tannehill pass short right to R.Matthews to MIA 37 for 6 yards (K.Webster).,14,4,17,MIA 31,0,MIA,
+14,2916,0,14:09,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback.",0,4,0,DEN 35,0,DEN,KICKOFF
+14,2997,2,12:11,(12:11) (Shotgun) R.Tannehill pass incomplete short right to D.Sims.,14,4,11,MIA 31,0,MIA,
+14,2931,1,14:09,(14:09) (Shotgun) L.Miller up the middle to MIA 22 for 2 yards (Q.Smith).,10,4,2,MIA 20,0,MIA,
+14,2976,1,12:57,(12:57) (Shotgun) L.Miller left end to MIA 31 for -4 yards (B.Marshall).,10,4,11,MIA 35,0,MIA,
+14,3044,4,11:30,"(11:30) B.Fields punts 55 yards to DEN 8, Center-J.Denney. I.Burse pushed ob at DEN 20 for 12 yards (W.Aikens). PENALTY on MIA-D.Williams, Offensive Holding, 10 yards, enforced at DEN 20.",8,4,17,MIA 37,0,MIA,PUNT
+14,2952,2,13:34,(13:34) (Shotgun) R.Tannehill pass short right to B.Gibson to MIA 35 for 13 yards (R.Moore).,8,4,15,MIA 22,0,MIA,
+17,3602,2,03:17,"(3:17) (Shotgun) P.Manning pass short right to W.Welker for 2 yards, TOUCHDOWN.",2,4,8,MIA 2,1,DEN,TD
+17,3623,0,03:13,"B.McManus extra point is GOOD, Center-A.Brewer, Holder-B.Colquitt.",0,4,8,MIA 2,1,DEN,XP
+17,3584,0,03:17,Timeout #2 by MIA at 03:17.,0,4,6,,0,,TIMEOUT
+17,3559,1,03:30,(3:30) (Shotgun) P.Manning pass short left to W.Welker to MIA 2 for 6 yards (J.Wilson).,8,4,6,MIA 8,0,DEN,
+16,3530,1,03:45,(3:45) (Shotgun) R.Tannehill pass short right intended for J.Landry INTERCEPTED by T.Ward at MIA 45. T.Ward pushed ob at MIA 8 for 37 yards (R.Tannehill).,10,4,15,MIA 35,0,MIA,INT
+16,3465,0,05:01,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback.",0,4,0,DEN 35,0,DEN,KICKOFF
+16,3484,1,05:01,(5:01) (Shotgun) L.Miller up the middle to MIA 26 for 6 yards (M.Jackson).,10,4,6,MIA 20,0,MIA,
+16,3505,2,04:28,(4:28) (Shotgun) R.Tannehill pass short right to J.Landry to MIA 35 for 9 yards (O.Bolden).,4,4,15,MIA 26,0,MIA,
+19,4062,2,01:30,(1:30) C.Anderson right end to MIA 16 for 26 yards (L.Delmas).,8,4,28,MIA 42,0,DEN,
+19,4045,0,01:30,Timeout #3 by MIA at 01:30.,0,4,2,,0,,TIMEOUT
+19,4083,1,00:44,(:44) P.Manning kneels to MIA 17 for -1 yards.,10,4,27,MIA 16,0,DEN,
+19,4002,0,01:34,(Onside Kick formation) C.Sturgis kicks onside 9 yards from MIA 35 to MIA 44. C.Anderson (didn't try to advance) to MIA 44 for no gain (J.Trusnik).,0,4,26,MIA 35,0,MIA,KICKOFF
+19,4125,0,00:00,END GAME,0,4,26,,0,,
+19,4024,1,01:33,(1:33) C.Anderson up the middle to MIA 42 for 2 yards (D.Shelby).,10,4,2,MIA 44,0,DEN,
+19,4104,2,00:22,(:22) P.Manning kneels to MIA 18 for -1 yards.,11,4,26,MIA 17,0,DEN,
+18,3885,2,01:42,"(1:42) (Shotgun) R.Tannehill pass incomplete deep right to R.Matthews. PENALTY on DEN-O.Bolden, Defensive Pass Interference, 20 yards, enforced at DEN 21 - No Play. The Replay Official challenged the incomplete pass ruling, and the play was Upheld. The ruling on the field stands.",10,4,83,DEN 21,0,MIA,PENALTY
+18,3717,2,02:19,"(2:19) (No Huddle, Shotgun) R.Tannehill pass short left to M.Wallace pushed ob at MIA 49 for 4 yards (B.Roby).",2,4,33,MIA 45,0,MIA,
+18,3811,0,01:55,Two-Minute Warning,0,4,41,,0,,
+18,3765,2,02:06,(2:06) (Shotgun) R.Tannehill pass incomplete deep left to R.Matthews.,7,4,36,DEN 48,0,MIA,
+18,3639,0,03:13,B.McManus kicks 69 yards from DEN 35 to MIA -4. J.Landry to MIA 16 for 20 yards (O.Bolden).,0,4,0,DEN 35,0,DEN,KICKOFF
+18,3863,1,01:47,(1:47) (Shotgun) R.Tannehill pass incomplete deep left to M.Wallace.,10,4,63,DEN 21,0,MIA,
+18,3941,1,01:37,"(1:37) (Shotgun) R.Tannehill pass short left to J.Landry for 1 yard, TOUCHDOWN.",1,4,84,DEN 1,1,MIA,TD
+18,3693,1,02:43,"(2:43) (No Huddle, Shotgun) R.Tannehill pass short middle to L.Miller to MIA 45 for 8 yards (B.Roby).",10,4,29,MIA 37,0,MIA,
+18,3669,1,03:08,(3:08) (Shotgun) R.Tannehill pass short middle to B.Hartline to MIA 37 for 21 yards (R.Moore).,10,4,21,MIA 16,0,MIA,
+18,3741,1,02:14,(2:14) (Shotgun) R.Tannehill pass short right to D.Sims ran ob at DEN 48 for 3 yards.,10,4,36,MIA 49,0,MIA,
+18,3988,0,01:34,(Pass formation) TWO-POINT CONVERSION ATTEMPT. L.Miller rushes up the middle. ATTEMPT SUCCEEDS.,0,4,84,DEN 1,1,MIA,2PR
+18,3963,0,01:34,"(Pass formation) TWO-POINT CONVERSION ATTEMPT. R.Tannehill pass to B.Hartline is incomplete. ATTEMPT FAILS. PENALTY on DEN-T.Ward, Defensive Pass Interference, 1 yard, enforced at DEN 2 - No Play.",0,4,84,DEN 2,0,MIA,PENALTY
+18,3918,0,01:37,Timeout #2 by DEN at 01:37.,0,4,83,,0,,TIMEOUT
+18,3828,4,01:55,"(1:55) (Shotgun) R.Tannehill pass short middle to J.Landry to DEN 36 for 7 yards (C.Harris). PENALTY on DEN-M.Jackson, Unnecessary Roughness, 15 yards, enforced at DEN 36.",2,4,63,DEN 43,0,MIA,PENALTY
+18,3787,3,02:01,(2:01) (Shotgun) R.Tannehill pass short left to J.Landry to DEN 43 for 5 yards (C.Harris).,7,4,41,DEN 48,0,MIA,
+1,201,0,11:22,"C.Sturgis extra point is GOOD, Center-J.Denney, Holder-B.Fields.",0,1,80,DEN 2,1,MIA,XP
+1,51,1,15:00,(15:00) (Shotgun) L.Miller right tackle to MIA 25 for 5 yards (V.Miller).,10,1,5,MIA 20,0,MIA,
+1,36,0,15:00,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback.",0,1,0,DEN 35,0,DEN,KICKOFF
+1,183,2,11:26,"(11:26) (Shotgun) Da.Thomas up the middle for 3 yards, TOUCHDOWN.",3,1,80,DEN 3,1,MIA,TD
+1,117,1,13:19,(13:19) (Shotgun) R.Tannehill right end to DEN 29 for 8 yards (D.Ware).,10,1,51,DEN 37,0,MIA,
+1,72,2,14:23,(14:23) (Shotgun) R.Tannehill pass short right to D.Sims pushed ob at MIA 41 for 16 yards (T.Ward) [M.Jackson].,5,1,21,MIA 25,0,MIA,
+1,138,2,12:41,(12:41) (Shotgun) R.Tannehill pass short right to J.Landry pushed ob at DEN 9 for 20 yards (R.Moore).,2,1,71,DEN 29,0,MIA,
+1,162,1,12:06,(12:06) (Shotgun) Da.Thomas up the middle to DEN 3 for 6 yards (M.Jackson).,9,1,77,DEN 9,0,MIA,
+1,96,1,13:54,(13:54) L.Miller left end pushed ob at DEN 37 for 22 yards (R.Moore).,10,1,43,MIA 41,0,MIA,
+3,511,0,04:10,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback.",0,1,0,DEN 35,0,DEN,KICKOFF
+3,569,3,03:32,(3:32) (Shotgun) R.Tannehill pass incomplete deep right to J.Landry.,8,1,2,MIA 22,0,MIA,
+3,526,1,04:10,(4:10) (Shotgun) L.Miller left guard to MIA 22 for 2 yards (D.Wolfe).,10,1,2,MIA 20,0,MIA,
+3,547,2,03:36,(3:36) (Shotgun) R.Tannehill pass incomplete short left to J.Landry.,8,1,2,MIA 22,0,MIA,
+3,591,4,03:27,"(3:27) B.Fields punts 53 yards to DEN 25, Center-J.Denney. I.Burse to DEN 25 for no gain (J.Trusnik). PENALTY on DEN-O.Bolden, Unnecessary Roughness, 12 yards, enforced at DEN 25.",8,1,2,MIA 22,0,MIA,PUNT
+2,217,0,11:22,C.Sturgis kicks 69 yards from MIA 35 to DEN -4. O.Bolden to DEN 27 for 31 yards (W.Aikens).,0,1,0,MIA 35,0,MIA,KICKOFF
+2,425,1,06:10,(6:10) (Shotgun) E.Sanders left end to MIA 21 for 3 yards (J.Wilson).,10,1,52,MIA 24,0,DEN,
+2,302,2,09:20,(9:20) C.Anderson left guard to DEN 42 for 4 yards (O.Vernon).,10,1,15,DEN 38,0,DEN,
+2,446,2,05:31,"(5:31) (No Huddle, Shotgun) C.Anderson right tackle to MIA 19 for 2 yards (J.Jenkins).",7,1,54,MIA 21,0,DEN,
+2,491,4,04:14,"(4:14) B.McManus 38 yard field goal is GOOD, Center-A.Brewer, Holder-B.Colquitt.",6,1,53,MIA 20,1,DEN,FG
+2,393,1,06:42,"(6:42) (No Huddle) J.Thompson up the middle to MIA 39 for no gain (O.Vernon). PENALTY on MIA-J.Wilson, Unnecessary Roughness, 15 yards, enforced at MIA 39.",10,1,49,MIA 39,0,DEN,PENALTY
+2,323,3,08:41,(8:41) (Shotgun) P.Manning pass short right to C.Anderson to DEN 48 for 6 yards (K.Misi; R.Starks).,6,1,21,DEN 42,0,DEN,
+2,260,2,10:42,(10:42) C.Anderson up the middle to DEN 38 for 3 yards (O.Vernon).,2,1,11,DEN 35,0,DEN,
+2,239,1,11:16,(11:16) C.Anderson up the middle to DEN 35 for 8 yards (K.Misi).,10,1,8,DEN 27,0,DEN,
+2,369,2,07:26,(7:26) (Shotgun) P.Manning pass short left to D.Thomas to MIA 39 for 6 yards (J.Taylor).,3,1,34,MIA 45,0,DEN,
+2,281,1,10:05,(10:05) C.Anderson right guard to DEN 38 for no gain (J.Odrick).,10,1,15,DEN 38,0,DEN,
+2,348,1,08:01,(8:01) (Shotgun) J.Thompson left guard to MIA 45 for 7 yards (L.Delmas).,10,1,28,DEN 48,0,DEN,
+2,467,3,04:48,"(4:48) (No Huddle, Shotgun) P.Manning pass short left to J.Tamme to MIA 20 for -1 yards (J.Taylor).",5,1,53,MIA 19,0,DEN,
+5,883,1,13:43,(13:43) (Shotgun) R.Tannehill pass short right to D.Sims to DEN 1 for 3 yards (K.Webster).,4,2,46,DEN 4,0,MIA,
+5,777,3,00:49,(:49) (Shotgun) R.Tannehill pass short right to B.Gibson to DEN 34 for 6 yards (B.Roby) [V.Miller].,3,1,13,DEN 40,0,MIA,
+5,907,2,12:58,"(12:58) (Shotgun) R.Tannehill right end for 1 yard, TOUCHDOWN.",1,2,47,DEN 1,1,MIA,TD
+5,756,2,01:31,(1:31) (Shotgun) R.Tannehill right end to DEN 40 for 7 yards (K.Webster).,10,1,7,DEN 47,0,MIA,
+5,717,1,01:40,"(1:40) (Shotgun) R.Tannehill pass incomplete short left to L.James. Denver challenged the incomplete pass ruling, and the play was Upheld. The ruling on the field was confirmed. (Timeout #1.)",10,1,0,DEN 47,0,MIA,TIMEOUT
+5,838,2,15:00,(15:00) (Shotgun) L.Miller up the middle to DEN 14 for 11 yards (S.Williams).,1,2,33,DEN 25,0,MIA,
+5,859,1,14:27,(14:27) (Shotgun) R.Tannehill pass short right to M.Wallace to DEN 4 for 10 yards (K.Webster).,10,2,43,DEN 14,0,MIA,
+5,801,1,00:10,(:10) (Shotgun) L.Miller up the middle to DEN 25 for 9 yards (C.Harris).,10,1,22,DEN 34,0,MIA,
+5,925,0,12:53,"C.Sturgis extra point is GOOD, Center-J.Denney, Holder-B.Fields.",0,2,47,DEN 2,1,MIA,XP
+5,822,0,,END QUARTER 1,0,1,22,,0,,
+4,648,2,02:39,(2:39) (Shotgun) C.Anderson left guard to DEN 19 for 5 yards (D.Jordan).,9,1,6,DEN 14,0,DEN,
+4,691,4,01:53,"(1:53) B.Colquitt punts 45 yards to MIA 36, Center-A.Brewer. J.Landry pushed ob at DEN 47 for 17 yards (A.Brewer).",4,1,6,DEN 19,0,DEN,PUNT
+4,627,1,03:15,(3:15) C.Anderson up the middle to DEN 14 for 1 yard (D.Shelby).,10,1,1,DEN 13,0,DEN,
+4,669,3,01:57,"(1:57) (No Huddle, Shotgun) P.Manning pass incomplete deep left to D.Thomas.",4,1,6,DEN 19,0,DEN,
+7,1543,0,02:00,Two-Minute Warning,0,2,77,,0,,
+7,1311,1,07:02,(7:02) L.Miller up the middle to MIA 16 for 3 yards (T.Knighton).,10,2,3,MIA 13,0,MIA,
+7,1507,2,02:36,"(2:36) R.Tannehill pass short left to R.Matthews to DEN 13 for 18 yards (B.Marshall) [D.Ware]. FUMBLES (B.Marshall), recovered by MIA-L.Miller at DEN 10. L.Miller to DEN 10 for no gain (B.Roby).",9,2,77,DEN 31,0,MIA,FUMBLE
+7,1289,0,07:08,B.McManus kicks 72 yards from DEN 35 to MIA -7. D.Williams to MIA 13 for 20 yards (C.Nelson).,0,2,0,DEN 35,0,DEN,KICKOFF
+7,1332,2,06:28,"(6:28) (Shotgun) R.Tannehill pass short right to B.Gibson to MIA 20 for 4 yards (A.Talib). FUMBLES (A.Talib), ball out of bounds at MIA 20.",7,2,7,MIA 16,0,MIA,FUMBLE
+7,1582,0,01:54,"C.Sturgis extra point is GOOD, Center-J.Denney, Holder-B.Fields.",0,2,87,DEN 2,1,MIA,XP
+7,1364,3,06:03,(6:03) (Shotgun) R.Tannehill pass short left to M.Wallace pushed ob at MIA 31 for 11 yards (A.Talib).,3,2,18,MIA 20,0,MIA,
+7,1388,1,05:26,"(5:26) (Shotgun) R.Tannehill pass short left to B.Gibson to MIA 37 for 6 yards (C.Harris). FUMBLES (C.Harris), ball out of bounds at MIA 37. MIA-J.James was injured during the play.",10,2,24,MIA 31,0,MIA,FUMBLE
+7,1486,1,03:20,(3:20) (Shotgun) L.James left guard to DEN 31 for 1 yard (D.Wolfe; B.Marshall).,10,2,56,DEN 32,0,MIA,
+7,1441,3,04:33,(4:33) Da.Thomas up the middle to 50 for 10 yards (R.Moore).,1,2,37,MIA 40,0,MIA,
+7,1560,1,02:00,"(2:00) (Shotgun) R.Tannehill pass short right to M.Wallace for 10 yards, TOUCHDOWN.",10,2,87,DEN 10,1,MIA,TD
+7,1416,2,05:08,(5:08) (Shotgun) L.James right tackle to MIA 40 for 3 yards (M.Jackson).,4,2,27,MIA 37,0,MIA,
+7,1462,1,03:53,(3:53) R.Tannehill pass short right to B.Hartline ran ob at DEN 32 for 18 yards.,10,2,55,50,0,MIA,
+6,1050,1,11:27,"(11:27) (No Huddle, Shotgun) P.Manning pass short right to E.Sanders to DEN 49 for 2 yards (B.Grimes).",10,2,26,DEN 47,0,DEN,
+6,1095,1,10:06,"(10:06) (No Huddle, Shotgun) C.Anderson up the middle to MIA 25 for 1 yard (J.Wilson).",10,2,52,MIA 26,0,DEN,
+6,1026,3,12:03,(12:03) (Shotgun) P.Manning pass short right to E.Sanders pushed ob at DEN 47 for 18 yards (B.Grimes).,4,2,24,DEN 29,0,DEN,
+6,1172,1,08:25,(8:25) J.Thompson left guard to MIA 5 for 2 yards (L.Delmas).,7,2,72,MIA 7,0,DEN,
+6,963,1,12:49,(12:49) P.Manning pass short left to E.Sanders to DEN 29 for 6 yards (O.Vernon).,10,2,6,DEN 23,0,DEN,
+6,1074,2,10:47,"(10:47) (No Huddle, Shotgun) C.Anderson right end pushed ob at MIA 26 for 25 yards (L.Delmas).",8,2,51,DEN 49,0,DEN,
+6,1273,0,07:08,"B.McManus extra point is GOOD, Center-A.Brewer, Holder-B.Colquitt.",0,2,77,MIA 2,1,DEN,XP
+6,1137,3,08:49,"(8:49) (Shotgun) P.Manning pass short left to E.Sanders to MIA 16 for 5 yards (J.Wilson). PENALTY on MIA-J.Wilson, Horse Collar Tackle, 9 yards, enforced at MIA 16.",5,2,70,MIA 21,0,DEN,PENALTY
+6,987,2,12:06,(12:06) (Shotgun) P.Manning pass incomplete short left to D.Thomas.,4,2,6,DEN 29,0,DEN,
+6,941,0,12:53,C.Sturgis kicks 71 yards from MIA 35 to DEN -6. O.Bolden to DEN 23 for 29 yards (J.Trusnik).,0,2,0,MIA 35,0,MIA,KICKOFF
+6,1224,2,07:40,(7:40) P.Manning pass short left to D.Thomas to MIA 5 for 10 yards (R.Jones; J.Jenkins). MIA-J.Odrick was injured during the play.,15,2,72,MIA 15,0,DEN,
+6,1009,0,12:03,Timeout #2 by DEN at 12:03.,0,2,6,,0,,TIMEOUT
+6,1116,2,09:36,"(9:36) (No Huddle, Shotgun) C.Anderson right tackle to MIA 21 for 4 yards (R.Jones; J.Jenkins).",9,2,56,MIA 25,0,DEN,
+6,1248,3,07:13,"(7:13) (Shotgun) P.Manning pass short left to D.Thomas for 5 yards, TOUCHDOWN.",5,2,77,MIA 5,1,DEN,TD
+6,1193,2,07:45,"(7:45) (Shotgun) P.Manning pass short right to J.Tamme for 5 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on DEN-D.Thomas, Offensive Pass Interference, 10 yards, enforced at MIA 5 - No Play.",5,2,62,MIA 5,0,DEN,PENALTY
+9,1918,0,,END QUARTER 2,0,2,-1,,0,,
+9,1897,1,00:12,(:12) R.Tannehill kneels to MIA 19 for -1 yards.,10,2,-1,MIA 20,0,MIA,
+9,1878,0,00:12,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback.",0,2,0,DEN 35,0,DEN,KICKOFF
+8,1776,1,00:43,"(:43) (No Huddle, Shotgun) P.Manning pass short right to D.Thomas to MIA 19 for 4 yards (K.Misi).",10,2,61,MIA 23,0,DEN,
+8,1641,1,01:30,"(1:30) (No Huddle, Shotgun) P.Manning pass short left to E.Sanders to MIA 48 for 11 yards (J.Taylor).",10,2,32,DEN 41,0,DEN,
+8,1800,2,00:22,"(:22) (No Huddle, Shotgun) P.Manning pass short right to W.Welker to MIA 14 for 5 yards (K.Misi).",6,2,66,MIA 19,0,DEN,
+8,1617,1,01:54,(1:54) (Shotgun) P.Manning pass short right to D.Thomas to DEN 41 for 21 yards (L.Delmas).,10,2,21,DEN 20,0,DEN,
+8,1719,2,00:56,"(:56) (No Huddle, Shotgun) P.Manning pass incomplete short right to D.Thomas.",20,2,22,DEN 42,0,DEN,
+8,1741,3,00:51,"(:51) (No Huddle, Shotgun) P.Manning pass deep left to E.Sanders to MIA 23 for 35 yards (J.Taylor). Penalty on MIA-J.Taylor, Illegal Contact, declined.",20,2,57,DEN 42,0,DEN,
+8,1862,0,00:12,"B.McManus extra point is GOOD, Center-A.Brewer, Holder-B.Colquitt.",0,2,80,MIA 2,1,DEN,XP
+8,1687,2,01:01,"(1:01) (No Huddle, Shotgun) C.Anderson right guard to MIA 43 for 5 yards (J.Jenkins). PENALTY on DEN-W.Montgomery, Illegal Use of Hands, 10 yards, enforced at MIA 48 - No Play.",10,2,22,MIA 48,0,DEN,PENALTY
+8,1824,0,00:16,Timeout #3 by DEN at 00:16.,0,2,66,,0,,TIMEOUT
+8,1841,3,00:16,"(:16) (Shotgun) P.Manning pass short right to D.Thomas for 14 yards, TOUCHDOWN.",1,2,80,MIA 14,1,DEN,TD
+8,1665,1,01:07,"(1:07) (No Huddle, Shotgun) P.Manning pass incomplete deep left to E.Sanders.",10,2,32,MIA 48,0,DEN,
+8,1598,0,01:54,"C.Sturgis kicks 65 yards from MIA 35 to end zone, Touchback.",0,2,0,MIA 35,0,MIA,KICKOFF

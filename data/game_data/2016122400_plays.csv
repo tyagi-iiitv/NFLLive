@@ -1,223 +1,223 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1709,0,05:06,,0,2,79,MIA 15,1,BUF,XP
-9,1685,1,05:14,,10,2,79,MIA 38,1,BUF,TD
-9,1596,2,07:35,,20,2,-2,BUF 11,0,BUF,
-9,1641,1,06:24,,10,2,27,BUF 42,0,BUF,
-9,1526,1,07:51,,10,2,0,BUF 21,0,BUF,
-9,1663,2,05:53,,4,2,41,BUF 48,0,BUF,
-9,1619,3,06:58,,12,2,21,BUF 19,0,BUF,
-9,1548,2,07:48,,10,2,-10,BUF 21,0,BUF,PENALTY
-24,4612,0,15:00,,0,5,0,MIA 35,0,MIA,KICKOFF
-24,4633,1,15:00,,10,5,-2,BUF 25,0,BUF,
-24,4896,4,10:08,,20,5,48,MIA 27,0,BUF,FGM
-24,4820,1,11:31,,10,5,56,MIA 17,0,BUF,
-24,4706,1,13:16,,10,5,45,BUF 35,0,BUF,
-24,4728,1,12:40,,10,5,44,MIA 30,0,BUF,
-24,4843,2,10:55,,12,5,48,MIA 19,0,BUF,
-24,4684,3,13:49,,1,5,10,BUF 34,0,BUF,
-24,4655,2,14:27,,12,5,9,BUF 23,0,BUF,
-24,4869,3,10:14,,20,5,48,MIA 27,0,BUF,
-24,4750,2,12:05,,11,5,58,MIA 31,0,BUF,
-10,1951,4,01:56,,3,2,18,MIA 43,0,MIA,PUNT
-10,1846,2,03:08,,8,2,3,MIA 38,0,MIA,PENALTY
-10,1743,1,05:06,,10,2,0,MIA 25,0,MIA,
-10,1773,2,04:59,,10,2,4,MIA 25,0,MIA,
-10,1820,1,03:45,,10,2,13,MIA 36,0,MIA,
-10,1727,0,05:06,,0,2,0,BUF 35,0,BUF,KICKOFF
-10,1925,3,02:00,,3,2,18,MIA 43,0,MIA,
-10,1878,2,02:40,,18,2,18,MIA 28,0,MIA,
-10,1906,0,02:00,,0,2,18,,0,,
-10,1795,3,04:20,,6,2,11,MIA 29,0,MIA,
-20,3864,1,05:44,,10,4,0,MIA 46,0,MIA,
-20,3924,3,04:55,,10,4,3,MIA 46,0,MIA,
-20,3840,0,05:51,,0,4,0,BUF 35,0,BUF,KICKOFF
-20,3953,4,04:12,,7,4,3,MIA 49,0,MIA,PUNT
-20,3889,2,04:59,,10,4,0,MIA 46,0,MIA,
-6,1119,0,13:34,,0,2,64,BUF 15,1,MIA,XP
-6,1079,1,14:23,,10,2,19,MIA 48,0,MIA,
-6,1024,0,,,0,1,4,,0,,
-6,1040,0,,,0,1,4,,0,,
-6,1101,2,13:45,,3,2,64,BUF 45,1,MIA,TD
-6,1056,2,15:00,,5,2,64,MIA 41,0,MIA,
-6,1001,1,00:29,,10,1,64,MIA 36,0,MIA,
-27,5434,0,01:39,,0,5,78,,0,,TIMEOUT
-27,5389,1,02:00,,10,5,72,BUF 17,0,MIA,
-27,5327,1,03:12,,10,5,65,BUF 28,0,MIA,
-27,5523,2,00:51,,8,5,77,BUF 8,1,MIA,FG
-27,5489,0,00:51,,0,5,77,,0,,TIMEOUT
-27,5412,2,01:55,,6,5,78,BUF 13,0,MIA,
-27,5305,1,04:00,,10,5,57,MIA 15,0,MIA,
-27,5349,2,02:39,,2,5,68,BUF 20,0,MIA,
-27,5459,1,01:36,,7,5,77,BUF 7,0,MIA,
-27,5371,0,02:00,,0,5,68,,0,,
-18,3207,1,01:12,,10,3,5,MIA 25,0,MIA,
-18,3385,2,13:07,,5,4,42,BUF 44,0,MIA,
-18,3234,2,00:35,,5,3,6,MIA 30,0,MIA,
-18,3191,0,01:12,,0,3,0,BUF 35,0,BUF,KICKOFF
-18,3288,3,15:00,,4,4,16,MIA 31,0,MIA,
-18,3505,4,10:20,,5,4,47,BUF 28,0,MIA,FGM
-18,3313,1,14:24,,10,4,26,MIA 41,0,MIA,
-18,3339,1,14:00,,10,4,31,BUF 49,0,MIA,PENALTY
-18,3272,0,,,0,3,6,,0,,
-18,3436,0,11:41,,0,4,37,,0,,TIMEOUT
-18,3454,2,11:41,,15,4,40,BUF 38,0,MIA,
-18,3363,1,13:43,,5,4,31,BUF 44,0,MIA,
-18,3256,0,,,0,3,6,,0,,
-18,3414,1,12:24,,10,4,37,BUF 33,0,MIA,
-18,3479,3,10:58,,12,4,47,BUF 35,0,MIA,
-26,5258,3,04:13,,2,5,37,BUF 41,0,BUF,
-26,5126,1,06:42,,10,5,8,BUF 15,0,BUF,
-26,5170,3,05:21,,8,5,29,BUF 17,0,BUF,
-26,5148,2,06:07,,13,5,13,BUF 12,0,BUF,
-26,5285,4,04:09,,2,5,37,BUF 41,0,BUF,PUNT
-26,5104,2,07:14,,4,5,11,BUF 10,0,BUF,
-26,5082,1,07:44,,10,5,6,BUF 4,0,BUF,
-26,5199,1,04:46,,10,5,30,BUF 33,0,BUF,
-26,5225,2,04:20,,9,5,37,BUF 34,0,BUF,
-25,4969,1,09:06,,10,5,17,50,0,MIA,
-25,5013,0,08:03,,0,5,20,,0,,TIMEOUT
-25,4991,2,08:29,,8,5,20,BUF 48,0,MIA,
-25,4939,2,09:41,,1,5,15,MIA 44,0,MIA,
-25,5031,3,08:03,,5,5,20,BUF 45,0,MIA,
-25,5058,4,07:57,,5,5,20,BUF 45,0,MIA,PUNT
-25,4917,1,10:03,,10,5,20,MIA 35,0,MIA,
-1,126,4,13:53,,6,1,4,BUF 29,0,BUF,PUNT
-1,103,3,14:18,,12,1,4,BUF 23,0,BUF,
-1,82,2,14:54,,10,1,-2,BUF 25,0,BUF,
-1,36,0,15:00,,0,1,0,MIA 35,0,MIA,KICKOFF
-1,56,1,15:00,,10,1,4,BUF 25,0,BUF,
-5,757,1,05:00,,10,1,20,BUF 38,0,BUF,
-5,779,2,04:31,,3,1,24,BUF 45,0,BUF,
-5,644,0,06:24,,0,1,0,MIA 35,0,MIA,KICKOFF
-5,801,1,03:57,,10,1,29,BUF 49,0,BUF,
-5,852,3,02:37,,3,1,40,MIA 44,0,BUF,
-5,903,2,01:26,,5,1,40,MIA 30,0,BUF,
-5,823,2,03:21,,5,1,47,MIA 46,0,BUF,
-5,980,4,00:34,,3,1,47,MIA 28,0,BUF,FGM
-5,689,2,06:18,,10,1,8,BUF 25,0,BUF,
-5,952,3,01:19,,10,1,47,MIA 35,0,BUF,
-5,881,1,02:00,,10,1,45,MIA 35,0,BUF,
-5,711,0,05:39,,0,1,8,,0,,TIMEOUT
-5,729,3,05:39,,2,1,13,BUF 33,0,BUF,
-5,659,1,06:24,,10,1,0,BUF 25,0,BUF,
-5,929,3,01:19,,5,1,40,MIA 30,0,BUF,PENALTY
-13,2346,0,,,0,2,26,,0,,
-13,2278,0,00:05,,0,2,26,,0,,TIMEOUT
-13,2296,2,00:05,,1,2,26,BUF 42,0,BUF,
-13,2217,1,00:30,,10,2,13,BUF 20,0,BUF,
-13,2330,0,,,0,2,26,,0,,
-13,2244,1,00:09,,10,2,22,BUF 33,0,BUF,
-21,4083,0,02:00,,0,4,48,,0,,
-21,4170,2,01:40,,8,4,85,MIA 8,0,BUF,
-21,4152,0,01:40,,0,4,81,,0,,TIMEOUT
-21,4101,1,02:00,,10,4,82,MIA 41,0,BUF,
-21,4061,2,02:09,,7,4,48,BUF 48,0,BUF,
-21,4210,3,01:32,,4,4,89,MIA 4,0,BUF,
-21,4017,3,02:55,,1,4,34,BUF 20,0,BUF,
-21,4039,1,02:17,,10,4,37,BUF 45,0,BUF,
-21,4269,0,01:20,,0,4,89,MIA 15,1,BUF,XP
-21,4130,1,01:50,,7,4,81,MIA 7,0,BUF,
-21,3995,2,03:28,,3,4,9,BUF 18,0,BUF,
-21,3973,1,04:00,,10,4,7,BUF 11,0,BUF,
-21,4248,4,01:25,,7,4,89,MIA 7,1,BUF,TD
-21,4230,0,01:25,,0,4,89,,0,,TIMEOUT
-21,4192,0,01:32,,0,4,85,,0,,TIMEOUT
-23,4558,1,00:06,,10,4,-1,BUF 25,0,BUF,
-23,4536,0,00:06,,0,4,0,MIA 35,0,MIA,KICKOFF
-23,4580,0,,,0,4,-1,,0,,
-23,4596,0,,,0,4,-1,,0,,
-11,2043,0,01:24,,0,2,-12,,0,,TIMEOUT
-11,1971,1,01:44,,10,2,0,BUF 16,0,BUF,
-11,1993,2,01:38,,10,2,-12,BUF 16,0,BUF,
-11,2023,3,01:30,,10,2,-12,BUF 16,0,BUF,
-11,2061,4,01:24,,22,2,-12,BUF 4,0,BUF,PUNT
-14,2533,0,12:05,,0,3,70,BUF 15,1,MIA,XP
-14,2362,0,15:00,,0,3,0,BUF 35,0,BUF,KICKOFF
-14,2496,3,12:15,,6,3,70,MIA 44,1,MIA,TD
-14,2386,1,15:00,,10,3,1,MIA 30,0,MIA,
-14,2442,1,13:40,,10,3,10,MIA 40,0,MIA,
-14,2420,2,14:20,,9,3,10,MIA 31,0,MIA,
-14,2464,2,12:57,,10,3,14,MIA 40,0,MIA,
-8,1479,3,08:06,,8,2,2,MIA 41,0,MIA,
-8,1431,1,08:48,,10,2,2,MIA 39,0,MIA,
-8,1502,4,08:00,,8,2,2,MIA 41,0,MIA,PUNT
-8,1453,2,08:10,,8,2,2,MIA 41,0,MIA,
-19,3678,3,07:40,,10,4,48,MIA 25,0,BUF,
-19,3631,1,08:29,,10,4,39,MIA 25,0,BUF,
-19,3609,2,09:10,,10,4,39,MIA 35,0,BUF,
-19,3651,2,07:49,,10,4,39,MIA 25,0,BUF,
-19,3816,4,05:55,,9,4,54,MIA 10,1,BUF,FG
-19,3549,1,09:40,,10,4,29,BUF 49,0,BUF,
-19,3527,1,10:15,,10,4,13,BUF 36,0,BUF,
-19,3582,1,09:17,,10,4,29,MIA 35,0,BUF,
-19,3778,3,06:04,,9,4,54,MIA 10,0,BUF,
-19,3734,1,07:23,,10,4,60,MIA 11,0,BUF,
-19,3711,4,07:37,,1,4,54,MIA 16,0,BUF,PENALTY
-19,3755,2,06:44,,3,4,54,MIA 4,0,BUF,
-22,4352,1,01:11,,10,4,24,MIA 39,0,MIA,
-22,4330,0,01:20,,0,4,0,BUF 35,0,BUF,KICKOFF
-22,4454,2,00:51,,10,4,24,BUF 44,0,MIA,
-22,4481,3,00:46,,10,4,24,BUF 44,0,MIA,
-22,4517,4,00:10,,3,4,24,BUF 37,1,MIA,FG
-22,4415,1,00:51,,10,4,17,BUF 44,0,MIA,
-22,4376,2,01:07,,10,4,24,MIA 39,0,MIA,
-12,2135,1,00:46,,10,2,11,BUF 25,0,MIA,
-12,2162,2,00:42,,10,2,11,BUF 25,0,MIA,INT
-12,2087,1,01:11,,10,2,0,BUF 36,0,MIA,
-12,2113,2,01:06,,10,2,11,BUF 36,0,MIA,
-16,2919,3,05:23,,3,3,51,MIA 32,0,MIA,
-16,3027,0,03:14,,0,3,75,BUF 15,1,MIA,XP
-16,2854,0,06:46,,0,3,0,BUF 35,0,BUF,KICKOFF
-16,2875,1,06:46,,10,3,5,MIA 25,0,MIA,
-16,2951,1,04:36,,10,3,66,BUF 24,0,MIA,
-16,3002,2,03:18,,6,3,75,BUF 6,1,MIA,TD
-16,2980,1,04:00,,9,3,75,BUF 9,0,MIA,
-16,2897,2,06:06,,5,3,7,MIA 30,0,MIA,
-7,1198,2,12:56,,1,2,14,BUF 32,0,BUF,
-7,1136,0,13:34,,0,2,0,MIA 35,0,MIA,FUMBLE
-7,1384,3,09:51,,2,2,38,MIA 40,0,BUF,
-7,1242,2,12:15,,10,2,4,BUF 37,0,BUF,PENALTY
-7,1220,1,12:21,,10,2,14,BUF 37,0,BUF,
-7,1307,3,11:21,,15,2,29,BUF 32,0,BUF,
-7,1169,1,13:26,,10,2,9,BUF 23,0,BUF,
-7,1278,2,11:59,,20,2,9,BUF 27,0,BUF,
-7,1362,2,10:25,,4,2,37,MIA 42,0,BUF,
-7,1406,4,09:08,,1,2,38,MIA 39,0,BUF,
-7,1340,1,10:56,,10,2,35,MIA 48,0,BUF,
-3,274,2,11:32,,2,1,5,BUF 48,0,BUF,
-3,306,3,10:53,,5,1,5,BUF 45,0,BUF,
-3,248,1,12:10,,10,1,5,BUF 40,0,BUF,
-3,328,4,10:47,,5,1,5,BUF 45,0,BUF,PUNT
-17,3141,2,01:18,,4,3,78,MIA 18,1,BUF,TD
-17,3166,0,01:12,,0,3,78,MIA 15,1,BUF,XP
-17,3044,0,03:14,,0,3,0,MIA 35,0,MIA,KICKOFF
-17,3090,2,02:36,,9,3,54,BUF 23,0,BUF,
-17,3119,1,01:52,,10,3,60,MIA 24,0,BUF,
-17,3068,1,03:08,,10,3,78,BUF 22,0,BUF,
-4,627,0,06:24,,0,1,72,BUF 15,1,MIA,XP
-4,506,1,07:43,,10,1,62,BUF 15,0,MIA,
-4,452,2,08:07,,11,1,45,BUF 27,0,MIA,
-4,610,1,06:30,,2,1,72,BUF 2,1,MIA,TD
-4,592,0,06:30,,0,1,70,,0,,TIMEOUT
-4,430,1,08:47,,10,1,45,BUF 26,0,MIA,
-4,386,1,10:08,,10,1,27,MIA 48,0,MIA,
-4,358,1,10:37,,10,1,27,MIA 28,0,MIA,
-4,478,3,08:02,,11,1,72,BUF 27,0,MIA,TIMEOUT
-4,570,2,07:05,,5,1,70,BUF 10,0,MIA,
-4,408,2,09:34,,3,1,46,BUF 45,0,MIA,
-2,222,4,12:26,,4,1,6,MIA 36,0,MIA,PUNT
-2,146,1,13:41,,10,1,3,MIA 30,0,MIA,
-2,168,2,13:03,,7,1,6,MIA 33,0,MIA,
-2,196,3,12:31,,4,1,6,MIA 36,0,MIA,
-15,2727,2,08:33,,3,3,39,MIA 47,0,BUF,
-15,2837,0,06:46,,0,3,77,MIA 15,1,BUF,XP
-15,2815,2,06:53,,4,3,77,MIA 19,1,BUF,TD
-15,2760,1,07:56,,10,3,52,MIA 38,0,BUF,
-15,2652,1,10:21,,10,3,18,BUF 33,0,BUF,
-15,2595,2,11:27,,1,3,8,BUF 32,0,BUF,
-15,2680,2,09:41,,2,3,23,BUF 41,0,BUF,
-15,2702,1,09:09,,10,3,30,BUF 46,0,BUF,
-15,2793,1,07:29,,10,3,58,MIA 25,0,BUF,
-15,2624,3,10:52,,2,3,10,BUF 31,0,BUF,
-15,2573,1,11:58,,10,3,9,BUF 23,0,BUF,
-15,2550,0,12:05,,0,3,0,MIA 35,0,MIA,KICKOFF
+24,4655,2,14:27,(14:27) (Shotgun) T.Taylor pass short left to C.Clay to BUF 34 for 11 yards (K.Alonso) [E.Mitchell]. Caught in flat at BUF 28.,12,5,9,BUF 23,0,BUF,
+24,4684,3,13:49,(13:49) J.Felton up the middle to BUF 35 for 1 yard (D.Butler).,1,5,10,BUF 34,0,BUF,
+24,4728,1,12:40,(12:40) (Shotgun) T.Taylor left tackle to MIA 31 for -1 yards (A.Branch).,10,5,44,MIA 30,0,BUF,
+24,4706,1,13:16,(13:16) M.Gillislee right tackle pushed ob at MIA 30 for 35 yards (M.Thomas).,10,5,45,BUF 35,0,BUF,
+24,4750,2,12:05,"(12:05) (Shotgun) T.Taylor pass short right to S.Watkins to MIA 17 for 14 yards (X.Howard). Caught near sideline at MIA 17. The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field was confirmed.",11,5,58,MIA 31,0,BUF,
+24,4896,4,10:08,"(10:08) D.Carpenter 45 yard field goal is No Good, Wide Right, Center-G.Sanborn, Holder-C.Schmidt.",20,5,48,MIA 27,0,BUF,FGM
+24,4820,1,11:31,"(11:31) (Shotgun) L.McCoy up the middle to MIA 19 for -2 yards (D.Butler, E.Mitchell).",10,5,56,MIA 17,0,BUF,
+24,4633,1,15:00,(15:00) (Shotgun) L.McCoy left tackle to BUF 23 for -2 yards (A.Branch).,10,5,-2,BUF 25,0,BUF,
+24,4869,3,10:14,"(10:14) (Shotgun) T.Taylor pass incomplete deep right to M.Goodwin. Overthrown, receiver 3 yds. into end zone, along sideline.",20,5,48,MIA 27,0,BUF,
+24,4612,0,15:00,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback. Ball deflects off front pylon.",0,5,0,MIA 35,0,MIA,KICKOFF
+24,4843,2,10:55,"(10:55) R.Bush left guard to MIA 27 for -8 yards (N.Hewitt). End-around, pitch-back from T.Taylor.",12,5,48,MIA 19,0,BUF,
+25,5013,0,08:03,Timeout #1 by BUF at 08:03.,0,5,20,,0,,TIMEOUT
+25,4917,1,10:03,(10:03) J.Ajayi left guard to MIA 44 for 9 yards (S.Gilmore). BUF-S.Gilmore was injured during the play.  S.Gilmore assisted off.,10,5,20,MIA 35,0,MIA,
+25,5031,3,08:03,(8:03) (Shotgun) M.Moore pass incomplete deep middle to D.Sims [L.Alexander]. Thrown wide of receiver at BUF 14. QB's arm hit upon throw.,5,5,20,BUF 45,0,MIA,
+25,5058,4,07:57,"(7:57) M.Darr punts 41 yards to BUF 4, Center-J.Denney, downed by MIA-M.Gray. Ball saved by B.McCain at BUF 2 before being downed.",5,5,20,BUF 45,0,MIA,PUNT
+25,4969,1,09:06,"(9:06) K.Drake left guard to BUF 48 for 2 yards (P.Brown, M.Dareus).",10,5,17,50,0,MIA,
+25,4991,2,08:29,"(8:29) J.Ajayi up the middle to BUF 45 for 3 yards (L.Alexander, P.Brown).",8,5,20,BUF 48,0,MIA,
+25,4939,2,09:41,"(9:41) (Shotgun) K.Drake up the middle to 50 for 6 yards (P.Brown, M.Dareus).",1,5,15,MIA 44,0,MIA,
+26,5170,3,05:21,(5:21) (Shotgun) T.Taylor pass short left to C.Clay to BUF 33 for 16 yards (B.Rambo). Caught near sideline at BUF 25.,8,5,29,BUF 17,0,BUF,
+26,5199,1,04:46,(4:46) Direct snap to M.Gillislee (T.Taylor at WR). (Shotgun) M.Gillislee right tackle to BUF 34 for 1 yard (J.Phillips).,10,5,30,BUF 33,0,BUF,
+26,5148,2,06:07,(6:07) (Shotgun) T.Taylor scrambles left tackle to BUF 17 for 5 yards (C.Wake).,13,5,13,BUF 12,0,BUF,
+26,5082,1,07:44,(7:44) L.McCoy left guard to BUF 10 for 6 yards (N.Hewitt).,10,5,6,BUF 4,0,BUF,
+26,5258,3,04:13,(4:13) (Shotgun) T.Taylor pass incomplete short right to R.Woods (N.Suh). Pass tipped at line.,2,5,37,BUF 41,0,BUF,
+26,5285,4,04:09,"(4:09) C.Schmidt punts 44 yards to MIA 15, Center-G.Sanborn, fair catch by J.Landry.",2,5,37,BUF 41,0,BUF,PUNT
+26,5225,2,04:20,"(4:20) (Shotgun) T.Taylor pass short left to S.Watkins pushed ob at BUF 41 for 7 yards (T.Lippett). Swing pass, caught near sideline at BUF 36.",9,5,37,BUF 34,0,BUF,
+26,5126,1,06:42,(6:42) L.McCoy up the middle to BUF 12 for -3 yards (M.Thomas).,10,5,8,BUF 15,0,BUF,
+26,5104,2,07:14,(7:14) (Shotgun) L.McCoy up the middle to BUF 15 for 5 yards (K.Alonso).,4,5,11,BUF 10,0,BUF,
+27,5459,1,01:36,(1:36) M.Moore kneels to BUF 8 for -1 yards.,7,5,77,BUF 7,0,MIA,
+27,5434,0,01:39,"Timeout #1 by MIA at 01:39.  Timeout charged by rule, due to injury inside two-minute warning.",0,5,78,,0,,TIMEOUT
+27,5412,2,01:55,"(1:55) J.Ajayi up the middle to BUF 7 for 6 yards (L.Douzable, P.Brown). MIA-J.Ajayi was injured during the play.  J.Ajayi walks off.",6,5,78,BUF 13,0,MIA,
+27,5389,1,02:00,(2:00) J.Ajayi left end pushed ob at BUF 13 for 4 yards (P.Brown).,10,5,72,BUF 17,0,MIA,
+27,5371,0,02:00,Two-Minute Warning,0,5,68,,0,,
+27,5305,1,04:00,(4:00) (Shotgun) J.Ajayi left tackle to BUF 28 for 57 yards (N.Robey-Coleman).,10,5,57,MIA 15,0,MIA,
+27,5349,2,02:39,(2:39) K.Drake left guard to BUF 17 for 3 yards (M.Dareus).,2,5,68,BUF 20,0,MIA,
+27,5327,1,03:12,(3:12) (Shotgun) J.Ajayi up the middle to BUF 20 for 8 yards (C.Graham).,10,5,65,BUF 28,0,MIA,
+27,5523,2,00:51,"(:51) A.Franks 27 yard field goal is GOOD, Center-J.Denney, Holder-M.Darr.",8,5,77,BUF 8,1,MIA,FG
+27,5489,0,00:51,Timeout #2 by MIA at 00:51.,0,5,77,,0,,TIMEOUT
+20,3953,4,04:12,"(4:12) M.Darr punts 40 yards to BUF 11, Center-J.Denney, downed by MIA-T.Reilly.",7,4,3,MIA 49,0,MIA,PUNT
+20,3840,0,05:51,D.Carpenter kicks 60 yards from BUF 35 to MIA 5. J.Grant pushed ob at MIA 46 for 41 yards (D.Carpenter).,0,4,0,BUF 35,0,BUF,KICKOFF
+20,3889,2,04:59,"(4:59) (Shotgun) M.Moore pass incomplete short right to J.Landry. Dropped screen pass, receiver at MIA 44.",10,4,0,MIA 46,0,MIA,
+20,3924,3,04:55,(4:55) (Shotgun) M.Moore pass short right to J.Landry to MIA 49 for 3 yards (K.Seymour). Caught near sideline at MIA 49.,10,4,3,MIA 46,0,MIA,
+20,3864,1,05:44,"(5:44) J.Landry left end to MIA 46 for no gain (S.Gilmore). End-around, handoff from M.Moore.",10,4,0,MIA 46,0,MIA,
+21,4152,0,01:40,Timeout #2 by MIA at 01:40.,0,4,81,,0,,TIMEOUT
+21,4061,2,02:09,(2:09) (Shotgun) L.McCoy left tackle to MIA 41 for 11 yards (N.Hewitt).,7,4,48,BUF 48,0,BUF,
+21,4170,2,01:40,(1:40) (Shotgun) L.McCoy right guard to MIA 4 for 4 yards (B.Rambo).,8,4,85,MIA 8,0,BUF,
+21,4210,3,01:32,"(1:32) (Shotgun) T.Taylor left end to MIA 7 for -3 yards (B.Rambo; N.Hewitt). Designed rush, receivers in blocking mode.",4,4,89,MIA 4,0,BUF,
+21,4248,4,01:25,"(1:25) (Shotgun) T.Taylor pass short right to C.Clay for 7 yards, TOUCHDOWN. Caught 2 yds. into end zone. The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field was confirmed.",7,4,89,MIA 7,1,BUF,TD
+21,4130,1,01:50,(1:50) (Shotgun) L.McCoy left guard to MIA 8 for -1 yards (B.Rambo).,7,4,81,MIA 7,0,BUF,
+21,4192,0,01:32,Timeout #3 by MIA at 01:32.,0,4,85,,0,,TIMEOUT
+21,4017,3,02:55,(2:55) M.Gillislee left end to BUF 45 for 25 yards (M.Thomas).,1,4,34,BUF 20,0,BUF,
+21,4101,1,02:00,"(2:00) T.Taylor pass deep right to R.Woods pushed ob at MIA 7 for 34 yards (B.Rambo). Flea-flicker, pass after pitch-back from L.McCoy. Caught at MIA 17, near sideline after crossing from middle.",10,4,82,MIA 41,0,BUF,
+21,3973,1,04:00,"(4:00) (Shotgun) L.McCoy right end to BUF 18 for 7 yards (M.Thomas, S.Paysinger).",10,4,7,BUF 11,0,BUF,
+21,4083,0,02:00,Two-Minute Warning,0,4,48,,0,,
+21,4269,0,01:20,"D.Carpenter extra point is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",0,4,89,MIA 15,1,BUF,XP
+21,4039,1,02:17,(2:17) (Shotgun) T.Taylor scrambles right end pushed ob at BUF 48 for 3 yards (J.Phillips).,10,4,37,BUF 45,0,BUF,
+21,3995,2,03:28,"(3:28) (Shotgun) L.McCoy right guard to BUF 20 for 2 yards (B.Rambo, N.Suh).",3,4,9,BUF 18,0,BUF,
+21,4230,0,01:25,Timeout #1 by BUF at 01:25.,0,4,89,,0,,TIMEOUT
+22,4415,1,00:51,(:51) M.Moore spiked the ball to stop the clock.,10,4,17,BUF 44,0,MIA,
+22,4517,4,00:10,"(:10) A.Franks 55 yard field goal is GOOD, Center-J.Denney, Holder-M.Darr.",3,4,24,BUF 37,1,MIA,FG
+22,4330,0,01:20,D.Carpenter kicks 65 yards from BUF 35 to MIA 0. K.Drake to MIA 39 for 39 yards (N.Robey-Coleman).,0,4,0,BUF 35,0,BUF,KICKOFF
+22,4481,3,00:46,"(:46) (Shotgun) M.Moore pass short left to D.Williams to BUF 37 for 7 yards (P.Brown, J.Hughes). Caught along sideline at BUF 40.",10,4,24,BUF 44,0,MIA,
+22,4454,2,00:51,"(:51) (Shotgun) M.Moore pass incomplete short middle to D.Parker (L.Alexander). Pass tipped at line, receiver at BUF 31, crossing to middle.",10,4,24,BUF 44,0,MIA,
+22,4376,2,01:07,(1:07) (Shotgun) M.Moore pass deep middle to K.Stills to BUF 44 for 17 yards (P.Brown).,10,4,24,MIA 39,0,MIA,
+22,4352,1,01:11,"(1:11) (Shotgun) M.Moore pass incomplete short left to D.Parker. Underthrown, receiver at BUF 47, crossing to middle.",10,4,24,MIA 39,0,MIA,
+23,4536,0,00:06,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback. Kick through end zone.",0,4,0,MIA 35,0,MIA,KICKOFF
+23,4596,0,,END QUARTER 4,0,4,-1,,0,,
+23,4580,0,,End of regulation - 4.07 pm,0,4,-1,,0,,
+23,4558,1,00:06,(:06) T.Taylor kneels to BUF 24 for -1 yards.,10,4,-1,BUF 25,0,BUF,
+1,82,2,14:54,"(14:54) (Shotgun) L.McCoy right tackle to BUF 23 for -2 yards (N.Suh, K.Alonso).",10,1,-2,BUF 25,0,BUF,
+1,103,3,14:18,(14:18) (Shotgun) T.Taylor scrambles left tackle pushed ob at BUF 29 for 6 yards (S.Paysinger).,12,1,4,BUF 23,0,BUF,
+1,56,1,15:00,(15:00) (Shotgun) T.Taylor pass incomplete short left to R.Woods (T.Lippett). Receiver and coverage near sideline at BUF 30.,10,1,4,BUF 25,0,BUF,
+1,36,0,15:00,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback. Kick through end zone.",0,1,0,MIA 35,0,MIA,KICKOFF
+1,126,4,13:53,"(13:53) C.Schmidt punts 41 yards to MIA 30, Center-G.Sanborn, downed by BUF-K.Seymour.",6,1,4,BUF 29,0,BUF,PUNT
+3,328,4,10:47,"(10:47) C.Schmidt punts 36 yards to MIA 19, Center-G.Sanborn. J.Landry to MIA 28 for 9 yards (K.Seymour, N.O'Leary).",5,1,5,BUF 45,0,BUF,PUNT
+3,274,2,11:32,"(11:32) (Shotgun) T.Taylor pass short right to L.McCoy to BUF 45 for -3 yards (X.Howard). Dump pass, caught at BUF 45.",2,1,5,BUF 48,0,BUF,
+3,248,1,12:10,"(12:10) L.McCoy right tackle to BUF 48 for 8 yards (M.Thomas, K.Alonso).",10,1,5,BUF 40,0,BUF,
+3,306,3,10:53,"(10:53) (Shotgun) T.Taylor pass incomplete deep right to S.Watkins. Overthrown, receiver near sideline at MIA 26.",5,1,5,BUF 45,0,BUF,
+2,146,1,13:41,(13:41) J.Ajayi left tackle to MIA 33 for 3 yards (R.Humber).,10,1,3,MIA 30,0,MIA,
+2,196,3,12:31,(12:31) (Shotgun) M.Moore pass incomplete short right to K.Stills (R.Darby). Receiver and coverage near sideline at MIA 40.,4,1,6,MIA 36,0,MIA,
+2,168,2,13:03,"(13:03) M.Moore pass short left to D.Sims pushed ob at MIA 36 for 3 yards (C.White). Swing pass, caught near sideline at MIA 34.",7,1,6,MIA 33,0,MIA,
+2,222,4,12:26,"(12:26) M.Darr punts 47 yards to BUF 17, Center-J.Denney. B.Tate to BUF 40 for 23 yards (T.Reilly; M.Darr). Key block: J.Williams.",4,1,6,MIA 36,0,MIA,PUNT
+5,903,2,01:26,"(1:26) T.Taylor pass incomplete deep right to M.Goodwin [M.Thomas]. Thrown wide of receiver, 4 yds. into end zone, along sideline. Thrown under pressure.",5,1,40,MIA 30,0,BUF,
+5,881,1,02:00,(2:00) (Shotgun) M.Gillislee left guard to MIA 30 for 5 yards (I.Abdul-Quddus).,10,1,45,MIA 35,0,BUF,
+5,757,1,05:00,"(5:00) (Shotgun) M.Gillislee up the middle to BUF 45 for 7 yards (K.Alonso, N.Hewitt).",10,1,20,BUF 38,0,BUF,
+5,852,3,02:37,"(2:37) T.Taylor pass short right to J.Felton to MIA 35 for 9 yards (T.Lippett). Swing pass, caught at MIA 42.",3,1,40,MIA 44,0,BUF,
+5,980,4,00:34,"(:34) D.Carpenter 46 yard field goal is No Good, Wide Right, Center-G.Sanborn, Holder-C.Schmidt.",3,1,47,MIA 28,0,BUF,FGM
+5,952,3,01:19,(1:19) (Shotgun) T.Taylor pass short left to L.McCoy to MIA 28 for 7 yards (T.Lippett). Caught in flat at MIA 34.,10,1,47,MIA 35,0,BUF,
+5,779,2,04:31,(4:31) M.Gillislee left guard to BUF 49 for 4 yards (N.Suh).,3,1,24,BUF 45,0,BUF,
+5,711,0,05:39,Timeout #2 by BUF at 05:39.,0,1,8,,0,,TIMEOUT
+5,929,3,01:19,"(1:19) (Shotgun) PENALTY on BUF-T.Taylor, Delay of Game, 5 yards, enforced at MIA 30 - No Play.",5,1,40,MIA 30,0,BUF,PENALTY
+5,689,2,06:18,(6:18) (Shotgun) L.McCoy right guard to BUF 33 for 8 yards (N.Hewitt).,10,1,8,BUF 25,0,BUF,
+5,644,0,06:24,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback. Kick through end zone.",0,1,0,MIA 35,0,MIA,KICKOFF
+5,801,1,03:57,(3:57) (Shotgun) L.McCoy up the middle to MIA 46 for 5 yards (K.Alonso).,10,1,29,BUF 49,0,BUF,
+5,659,1,06:24,(6:24) (Shotgun) T.Taylor pass incomplete short left to M.Goodwin (T.Lippett). Receiver and coverage near sideline at BUF 33.,10,1,0,BUF 25,0,BUF,
+5,823,2,03:21,"(3:21) (Shotgun) T.Taylor pass short right to L.McCoy to MIA 44 for 2 yards (X.Howard; C.Wake). Screen pass, caught at MIA 45.",5,1,47,MIA 46,0,BUF,
+5,729,3,05:39,"(5:39) (Shotgun) T.Taylor pass short right to J.Felton to BUF 38 for 5 yards (D.Butler, X.Howard). Swing pass, caught at BUF 30.",2,1,13,BUF 33,0,BUF,
+4,592,0,06:30,Timeout #1 by MIA at 06:30.,0,1,70,,0,,TIMEOUT
+4,627,0,06:24,"A.Franks extra point is GOOD, Center-J.Denney, Holder-M.Darr.",0,1,72,BUF 15,1,MIA,XP
+4,452,2,08:07,"(8:07) M.Moore pass incomplete deep right to J.Landry. Overthrown, receiver at BUF 1, angling to front corner of end zone.",11,1,45,BUF 27,0,MIA,
+4,570,2,07:05,"(7:05) J.Ajayi left end to BUF 2 for 8 yards (L.Alexander, C.White).",5,1,70,BUF 10,0,MIA,
+4,386,1,10:08,(10:08) J.Ajayi right tackle pushed ob at BUF 45 for 7 yards (Z.Brown).,10,1,27,MIA 48,0,MIA,
+4,506,1,07:43,(7:43) J.Ajayi right end to BUF 10 for 5 yards (P.Brown).,10,1,62,BUF 15,0,MIA,
+4,478,3,08:02,"(8:02) (Shotgun) M.Moore pass short right to K.Stills pushed ob at BUF 15 for 12 yards (R.Darby). Caught along sideline at BUF 15. Buffalo challenged the pass completion ruling, and the play was Upheld. The ruling on the field was confirmed. (Timeout #1.)",11,1,72,BUF 27,0,MIA,TIMEOUT
+4,358,1,10:37,"(10:37) M.Moore pass short right to M.Gray to MIA 48 for 20 yards (C.Graham). Caught at MIA 36, crossing from middle.",10,1,27,MIA 28,0,MIA,
+4,610,1,06:30,"(6:30) J.Ajayi right end for 2 yards, TOUCHDOWN.",2,1,72,BUF 2,1,MIA,TD
+4,430,1,08:47,(8:47) J.Ajayi left tackle to BUF 27 for -1 yards (L.Douzable).,10,1,45,BUF 26,0,MIA,
+4,408,2,09:34,(9:34) (Shotgun) J.Ajayi right tackle to BUF 26 for 19 yards (C.Graham).,3,1,46,BUF 45,0,MIA,
+7,1278,2,11:59,"(11:59) (Shotgun) T.Taylor pass short left to L.McCoy to BUF 32 for 5 yards (S.Paysinger). Swing pass, caught at BUF 28.",20,2,9,BUF 27,0,BUF,
+7,1198,2,12:56,(12:56) (Shotgun) T.Taylor right end to BUF 37 for 5 yards (D.Butler).,1,2,14,BUF 32,0,BUF,
+7,1307,3,11:21,(11:21) (Shotgun) T.Taylor pass deep right to S.Watkins pushed ob at MIA 48 for 20 yards (X.Howard). Caught along sideline at MIA 48.,15,2,29,BUF 32,0,BUF,
+7,1220,1,12:21,"(12:21) (Shotgun) T.Taylor pass incomplete deep left to M.Goodwin [J.Phillips]. Overthrown, receiver along sideline at MIA 32.",10,2,14,BUF 37,0,BUF,
+7,1340,1,10:56,(10:56) (Shotgun) M.Gillislee up the middle to MIA 42 for 6 yards (N.Williams).,10,2,35,MIA 48,0,BUF,
+7,1136,0,13:34,"A.Franks kicks 61 yards from MIA 35 to BUF 4. M.Gillislee to BUF 23 for 19 yards (M.Thomas). FUMBLES (M.Thomas), and recovers at BUF 23. M.Gillislee to BUF 23 for no gain (M.Thomas).",0,2,0,MIA 35,0,MIA,FUMBLE
+7,1169,1,13:26,"(13:26) (Shotgun) T.Taylor pass short middle to C.Clay to BUF 32 for 9 yards (D.Butler). Curl pattern, caught at BUF 30.",10,2,9,BUF 23,0,BUF,
+7,1242,2,12:15,"(12:15) (Shotgun) L.McCoy right end pushed ob at BUF 43 for 6 yards (M.Thomas). PENALTY on BUF-J.Miller, Offensive Holding, 10 yards, enforced at BUF 37 - No Play.",10,2,4,BUF 37,0,BUF,PENALTY
+7,1362,2,10:25,(10:25) M.Gillislee left guard to MIA 40 for 2 yards (J.Jones).,4,2,37,MIA 42,0,BUF,
+7,1384,3,09:51,"(9:51) (Shotgun) M.Gillislee left guard to MIA 39 for 1 yard (E.Mitchell, N.Hewitt).",2,2,38,MIA 40,0,BUF,
+7,1406,4,09:08,"(9:08) M.Gillislee right guard to MIA 39 for no gain (K.Alonso, N.Suh). Measurement = short of line to gain; MIA ball.",1,2,38,MIA 39,0,BUF,
+6,1024,0,,End of quarter - 1.39 pm,0,1,4,,0,,
+6,1040,0,,END QUARTER 1,0,1,4,,0,,
+6,1056,2,15:00,(15:00) J.Ajayi right end pushed ob at MIA 48 for 7 yards (Z.Brown).,5,2,64,MIA 41,0,MIA,
+6,1079,1,14:23,(14:23) (Shotgun) J.Ajayi right tackle to BUF 45 for 7 yards (R.Darby).,10,2,19,MIA 48,0,MIA,
+6,1101,2,13:45,"(13:45) (Shotgun) K.Drake left guard for 45 yards, TOUCHDOWN.",3,2,64,BUF 45,1,MIA,TD
+6,1119,0,13:34,"A.Franks extra point is GOOD, Center-J.Denney, Holder-M.Darr.",0,2,64,BUF 15,1,MIA,XP
+6,1001,1,00:29,(:29) J.Ajayi left end to MIA 41 for 5 yards (P.Brown; Z.Brown).,10,1,64,MIA 36,0,MIA,
+9,1641,1,06:24,(6:24) (Shotgun) L.McCoy up the middle to BUF 48 for 6 yards (N.Williams).,10,2,27,BUF 42,0,BUF,
+9,1619,3,06:58,(6:58) (Shotgun) T.Taylor scrambles left end pushed ob at BUF 42 for 23 yards (T.Lippett).,12,2,21,BUF 19,0,BUF,
+9,1709,0,05:06,"D.Carpenter extra point is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",0,2,79,MIA 15,1,BUF,XP
+9,1548,2,07:48,"(7:48) (Shotgun) T.Taylor pass deep right to R.Woods pushed ob at BUF 41 for 20 yards (X.Howard). Caught along sideline at BUF 41. PENALTY on BUF-J.Mills, Offensive Holding, 10 yards, enforced at BUF 21 - No Play.",10,2,-10,BUF 21,0,BUF,PENALTY
+9,1526,1,07:51,"(7:51) T.Taylor pass incomplete short middle to L.McCoy. Dropped, thrown behind receiver at BUF 23, slanting from left..",10,2,0,BUF 21,0,BUF,
+9,1596,2,07:35,(7:35) (Shotgun) L.McCoy left guard to BUF 19 for 8 yards (S.Paysinger; N.Suh).,20,2,-2,BUF 11,0,BUF,
+9,1685,1,05:14,"(5:14) (Shotgun) T.Taylor pass deep right to S.Watkins for 38 yards, TOUCHDOWN. Caught 9 yds. into end zone.",10,2,79,MIA 38,1,BUF,TD
+9,1663,2,05:53,"(5:53) (Shotgun) L.McCoy left guard to MIA 38 for 14 yards (M.Thomas, S.Paysinger).",4,2,41,BUF 48,0,BUF,
+8,1479,3,08:06,"(8:06) (Shotgun) M.Moore pass incomplete short middle to D.Parker (S.Gilmore). Receiver and coverage at MIA 46, crossing from left.",8,2,2,MIA 41,0,MIA,
+8,1502,4,08:00,"(8:00) M.Darr punts 38 yards to BUF 21, Center-J.Denney, fair catch by B.Tate.",8,2,2,MIA 41,0,MIA,PUNT
+8,1453,2,08:10,"(8:10) (Shotgun) M.Moore pass incomplete short right to K.Stills (L.Douzable). Pass batted at line, swing pass, receiver at MIA 46.",8,2,2,MIA 41,0,MIA,
+8,1431,1,08:48,(8:48) J.Ajayi right end to MIA 41 for 2 yards (L.Alexander).,10,2,2,MIA 39,0,MIA,
+11,2061,4,01:24,"(1:24) C.Schmidt punts 48 yards to MIA 48, Center-G.Sanborn. J.Landry to BUF 36 for 16 yards (P.Brown, J.Meeks).",22,2,-12,BUF 4,0,BUF,PUNT
+11,1993,2,01:38,(1:38) (Shotgun) T.Taylor pass incomplete deep right to S.Watkins (X.Howard). Receiver and coverage near sideline at BUF 47; receiver slipped prior to coverage.,10,2,-12,BUF 16,0,BUF,
+11,2043,0,01:24,Timeout #2 by MIA at 01:24.,0,2,-12,,0,,TIMEOUT
+11,1971,1,01:44,"(1:44) (Shotgun) T.Taylor pass incomplete short left to R.Woods. Overthrown, receiver along sideline at BUF 22.",10,2,0,BUF 16,0,BUF,
+11,2023,3,01:30,(1:30) (Shotgun) T.Taylor sacked at BUF 4 for -12 yards (C.Wake).,10,2,-12,BUF 16,0,BUF,
+10,1773,2,04:59,(4:59) J.Ajayi left end pushed ob at MIA 29 for 4 yards (L.Alexander).,10,2,4,MIA 25,0,MIA,
+10,1727,0,05:06,"D.Carpenter kicks 65 yards from BUF 35 to end zone, Touchback. J.Grant kneels 9 yds. into end zone.",0,2,0,BUF 35,0,BUF,KICKOFF
+10,1820,1,03:45,(3:45) J.Ajayi left tackle to MIA 38 for 2 yards (P.Brown).,10,2,13,MIA 36,0,MIA,
+10,1795,3,04:20,"(4:20) (Shotgun) M.Moore pass short right to D.Sims to MIA 36 for 7 yards (K.Seymour) [P.Brown]. TE screen, caught at MIA 27.",6,2,11,MIA 29,0,MIA,
+10,1846,2,03:08,"(3:08) (Shotgun) J.Ajayi right guard to MIA 45 for 7 yards (C.White). PENALTY on MIA-J.James, Offensive Holding, 10 yards, enforced at MIA 38 - No Play.",8,2,3,MIA 38,0,MIA,PENALTY
+10,1951,4,01:56,"(1:56) M.Darr punts 41 yards to BUF 16, Center-J.Denney, downed by MIA-W.Aikens.",3,2,18,MIA 43,0,MIA,PUNT
+10,1925,3,02:00,"(2:00) (Shotgun) M.Moore pass incomplete short right to D.Williams. Overthrown, receiver near sideline at MIA 45.",3,2,18,MIA 43,0,MIA,
+10,1906,0,02:00,Two-Minute Warning,0,2,18,,0,,
+10,1878,2,02:40,"(2:40) (Shotgun) M.Moore pass short right to J.Landry to MIA 43 for 15 yards (Z.Brown, C.Graham). Screen pass, caught at MIA 25.",18,2,18,MIA 28,0,MIA,
+10,1743,1,05:06,(5:06) M.Moore pass incomplete short right to J.Landry. Caught out of bounds at MIA 36.,10,2,0,MIA 25,0,MIA,
+13,2330,0,,End of half - 2.28 pm,0,2,26,,0,,
+13,2346,0,,END QUARTER 2,0,2,26,,0,,
+13,2217,1,00:30,"(:30) L.McCoy up the middle to BUF 33 for 13 yards (I.Abdul-Quddus, T.Lippett).",10,2,13,BUF 20,0,BUF,
+13,2278,0,00:05,Timeout #3 by BUF at 00:05.,0,2,26,,0,,TIMEOUT
+13,2296,2,00:05,(:05) T.Taylor pass short left to R.Woods to BUF 38 for -4 yards. Lateral to L.McCoy pushed ob at BUF 46 for 8 yards (S.Paysinger).,1,2,26,BUF 42,0,BUF,
+13,2244,1,00:09,"(:09) (No Huddle, Shotgun) T.Taylor pass short right to R.Woods to BUF 42 for 9 yards (B.McCain). Caught at BUF 42, crossing from middle.",10,2,22,BUF 33,0,BUF,
+12,2162,2,00:42,(:42) M.Moore pass deep middle intended for K.Stills INTERCEPTED by C.White at BUF -4. Touchback.,10,2,11,BUF 25,0,MIA,INT
+12,2113,2,01:06,(1:06) (Shotgun) J.Ajayi right guard to BUF 25 for 11 yards (R.Darby).,10,2,11,BUF 36,0,MIA,
+12,2087,1,01:11,"(1:11) (Shotgun) M.Moore pass incomplete short middle to K.Stills (Z.Brown). Receiver and coverage at BUF 23, crossing from right.",10,2,0,BUF 36,0,MIA,
+12,2135,1,00:46,"(:46) (No Huddle, Shotgun) M.Moore pass incomplete short right to K.Stills. Underthrown, receiver along sideline at BUF 20.",10,2,11,BUF 25,0,MIA,
+15,2550,0,12:05,"A.Franks kicks 64 yards from MIA 35 to BUF 1. B.Tate to BUF 23 for 22 yards (M.Hull, B.Rambo).",0,3,0,MIA 35,0,MIA,KICKOFF
+15,2595,2,11:27,(11:27) L.McCoy up the middle to BUF 31 for -1 yards (A.Branch).,1,3,8,BUF 32,0,BUF,
+15,2727,2,08:33,"(8:33) (Shotgun) T.Taylor pass short right to C.Clay to MIA 38 for 9 yards (S.Paysinger). Flat pass, caught at MIA 39.",3,3,39,MIA 47,0,BUF,
+15,2624,3,10:52,"(10:52) (Shotgun) T.Taylor pass short left to L.McCoy pushed ob at BUF 33 for 2 yards (N.Hewitt). Swing pass, caught at BUF 30.",2,3,10,BUF 31,0,BUF,
+15,2652,1,10:21,(10:21) (Shotgun) T.Taylor pass short right to C.Clay to BUF 41 for 8 yards (S.Paysinger). Caught in flat at BUF 39.,10,3,18,BUF 33,0,BUF,
+15,2760,1,07:56,"(7:56) (Shotgun) T.Taylor pass short right to S.Watkins ran ob at MIA 25 for 13 yards. Caught near sideline at MIA 27, crossing from middle.",10,3,52,MIA 38,0,BUF,
+15,2573,1,11:58,(11:58) (Shotgun) L.McCoy right end to BUF 32 for 9 yards (A.Branch).,10,3,9,BUF 23,0,BUF,
+15,2702,1,09:09,"(9:09) (Shotgun) T.Taylor pass short left to C.Clay to MIA 47 for 7 yards (D.Butler). Flat pass, caught at 50.",10,3,30,BUF 46,0,BUF,
+15,2837,0,06:46,"D.Carpenter extra point is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",0,3,77,MIA 15,1,BUF,XP
+15,2815,2,06:53,"(6:53) (Shotgun) L.McCoy up the middle for 19 yards, TOUCHDOWN. Key block: R.Incognito.",4,3,77,MIA 19,1,BUF,TD
+15,2793,1,07:29,(7:29) (Shotgun) L.McCoy right guard to MIA 19 for 6 yards (N.Suh).,10,3,58,MIA 25,0,BUF,
+15,2680,2,09:41,(9:41) (Shotgun) M.Gillislee left end to BUF 46 for 5 yards (M.Thomas).,2,3,23,BUF 41,0,BUF,
+14,2442,1,13:40,"(13:40) J.Ajayi right tackle to MIA 40 for no gain (M.Dareus, K.Williams).",10,3,10,MIA 40,0,MIA,
+14,2464,2,12:57,"(12:57) M.Moore pass short right to D.Parker to MIA 44 for 4 yards (R.Darby). Flat pass, caught at MIA 43.",10,3,14,MIA 40,0,MIA,
+14,2420,2,14:20,"(14:20) (Shotgun) J.Ajayi up the middle to MIA 40 for 9 yards (L.Alexander, K.Williams).",9,3,10,MIA 31,0,MIA,
+14,2496,3,12:15,"(12:15) M.Moore pass short left to D.Parker for 56 yards, TOUCHDOWN. Caught at MIA 48, crossing from middle.",6,3,70,MIA 44,1,MIA,TD
+14,2386,1,15:00,"(15:00) J.Ajayi right guard to MIA 31 for 1 yard (Z.Brown, J.Hughes).",10,3,1,MIA 30,0,MIA,
+14,2533,0,12:05,"A.Franks extra point is GOOD, Center-J.Denney, Holder-M.Darr.",0,3,70,BUF 15,1,MIA,XP
+14,2362,0,15:00,"D.Carpenter kicks 65 yards from BUF 35 to end zone, Touchback. K.Drake kneels 5 yds. into end zone. PENALTY on BUF-M.Roberson, Offside on Free Kick, 5 yards, enforced at MIA 25.",0,3,0,BUF 35,0,BUF,KICKOFF
+17,3119,1,01:52,(1:52) (Shotgun) T.Taylor right end pushed ob at MIA 18 for 6 yards (S.Paysinger).,10,3,60,MIA 24,0,BUF,
+17,3141,2,01:18,"(1:18) (Shotgun) T.Taylor pass deep right to C.Clay for 18 yards, TOUCHDOWN. MIA-I.Abdul-Quddus was injured during the play. His return is Questionable.  Caught at MIA 2, slanting to middle. I.Abdul-Quddus assisted off.",4,3,78,MIA 18,1,BUF,TD
+17,3090,2,02:36,(2:36) (Shotgun) T.Taylor pass deep right to S.Watkins to MIA 24 for 53 yards (B.Rambo). Caught near sideline at MIA 28.,9,3,54,BUF 23,0,BUF,
+17,3166,0,01:12,"D.Carpenter extra point is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",0,3,78,MIA 15,1,BUF,XP
+17,3068,1,03:08,"(3:08) (Shotgun) L.McCoy up the middle to BUF 23 for 1 yard (A.Branch, I.Abdul-Quddus).",10,3,78,BUF 22,0,BUF,
+17,3044,0,03:14,"A.Franks kicks 56 yards from MIA 35 to BUF 9. B.Tate to BUF 22 for 13 yards (M.Thomas, B.Rambo).",0,3,0,MIA 35,0,MIA,KICKOFF
+16,2875,1,06:46,(6:46) J.Ajayi left tackle to MIA 30 for 5 yards (Z.Brown; J.Hughes).,10,3,5,MIA 25,0,MIA,
+16,3027,0,03:14,"A.Franks extra point is GOOD, Center-J.Denney, Holder-M.Darr.",0,3,75,BUF 15,1,MIA,XP
+16,2919,3,05:23,"(5:23) (Shotgun) M.Moore pass short left to D.Williams to BUF 24 for 44 yards (C.Graham). Swing pass, caught at MIA 33.",3,3,51,MIA 32,0,MIA,
+16,2897,2,06:06,(6:06) J.Ajayi left guard to MIA 32 for 2 yards (K.Williams; R.Darby).,5,3,7,MIA 30,0,MIA,
+16,2980,1,04:00,"(4:00) J.Ajayi right guard to BUF 6 for 3 yards (L.Douzable, P.Brown).",9,3,75,BUF 9,0,MIA,
+16,2854,0,06:46,"D.Carpenter kicks 65 yards from BUF 35 to end zone, Touchback. Kick through end zone.",0,3,0,BUF 35,0,BUF,KICKOFF
+16,3002,2,03:18,"(3:18) (Shotgun) M.Moore pass short right to K.Stills for 6 yards, TOUCHDOWN. Caught at goal line.",6,3,75,BUF 6,1,MIA,TD
+16,2951,1,04:36,"(4:36) (Shotgun) M.Moore pass short middle to D.Parker to BUF 9 for 15 yards (C.Graham, S.Gilmore). Caught at BUF 15, slanting from left.",10,3,66,BUF 24,0,MIA,
+19,3582,1,09:17,"(9:17) T.Taylor pass incomplete deep left to S.Watkins. Overthrown, receiver along sideline at MIA 12. Thrown under pressure on roll-out.",10,4,29,MIA 35,0,BUF,
+19,3711,4,07:37,"(7:37) (Run formation) PENALTY on MIA, Defensive 12 On-field, 5 yards, enforced at MIA 16 - No Play.",1,4,54,MIA 16,0,BUF,PENALTY
+19,3609,2,09:10,(9:10) (Shotgun) T.Taylor right guard to MIA 25 for 10 yards.,10,4,39,MIA 35,0,BUF,
+19,3778,3,06:04,"(6:04) (Shotgun) T.Taylor pass incomplete short left to C.Clay (S.Paysinger). MIA-S.Paysinger was injured during the play.  Receiver and coverage 7 yds. into end zone, along sideline.",9,4,54,MIA 10,0,BUF,
+19,3755,2,06:44,"(6:44) (Shotgun) T.Taylor left end to MIA 10 for -6 yards (N.Hewitt). Option play, designed rush.",3,4,54,MIA 4,0,BUF,
+19,3549,1,09:40,(9:40) (Shotgun) T.Taylor pass deep left to M.Goodwin ran ob at MIA 35 for 16 yards [A.Branch]. Caught along sideline at MIA 35.,10,4,29,BUF 49,0,BUF,
+19,3631,1,08:29,(8:29) (Shotgun) T.Taylor sacked at MIA 25 for 0 yards (J.Jones).,10,4,39,MIA 25,0,BUF,
+19,3527,1,10:15,(10:15) (Shotgun) T.Taylor left tackle pushed ob at BUF 49 for 13 yards (T.Lippett).,10,4,13,BUF 36,0,BUF,
+19,3678,3,07:40,(7:40) (Shotgun) T.Taylor pass short right to S.Watkins pushed ob at MIA 16 for 9 yards (X.Howard). Caught along sideline at MIA 16.,10,4,48,MIA 25,0,BUF,
+19,3816,4,05:55,"(5:55) D.Carpenter 28 yard field goal is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",9,4,54,MIA 10,1,BUF,FG
+19,3734,1,07:23,"(7:23) (Shotgun) L.McCoy left end to MIA 4 for 7 yards (B.Rambo, M.Thomas).",10,4,60,MIA 11,0,BUF,
+19,3651,2,07:49,(7:49) T.Taylor pass incomplete deep left to C.Clay. Caught out of bounds in back of end zone.,10,4,39,MIA 25,0,BUF,
+18,3207,1,01:12,"(1:12) (Shotgun) J.Ajayi up the middle to MIA 30 for 5 yards (K.Williams, M.Dareus).",10,3,5,MIA 25,0,MIA,
+18,3385,2,13:07,"(13:07) (Shotgun) M.Moore pass short right to J.Landry to BUF 33 for 11 yards (M.Dareus). Dump pass, caught at BUF 48.",5,4,42,BUF 44,0,MIA,
+18,3454,2,11:41,"(11:41) M.Moore pass short right to J.Ajayi to BUF 35 for 3 yards (R.Humber, Z.Brown). Dump pass, caught at BUF 38.",15,4,40,BUF 38,0,MIA,
+18,3234,2,00:35,(:35) (Shotgun) J.Ajayi right guard to MIA 31 for 1 yard (M.Dareus).,5,3,6,MIA 30,0,MIA,
+18,3479,3,10:58,(10:58) J.Ajayi left guard to BUF 28 for 7 yards (C.Graham; P.Brown).,12,4,47,BUF 35,0,MIA,
+18,3256,0,,End of quarter - 3.15 pm,0,3,6,,0,,
+18,3363,1,13:43,(13:43) J.Ajayi right tackle to BUF 44 for no gain (L.Douzable).,5,4,31,BUF 44,0,MIA,
+18,3414,1,12:24,(12:24) J.Ajayi right tackle to BUF 38 for -5 yards (L.Douzable).,10,4,37,BUF 33,0,MIA,
+18,3272,0,,END QUARTER 3,0,3,6,,0,,
+18,3436,0,11:41,Timeout #1 by MIA at 11:41.,0,4,37,,0,,TIMEOUT
+18,3191,0,01:12,"D.Carpenter kicks 65 yards from BUF 35 to end zone, Touchback. K.Drake kneels 9 yds. into end zone.",0,3,0,BUF 35,0,BUF,KICKOFF
+18,3288,3,15:00,"(15:00) (Shotgun) M.Moore pass short left to D.Parker to MIA 41 for 10 yards (S.Gilmore). Caught at MIA 41, slanting to middle.",4,4,16,MIA 31,0,MIA,
+18,3313,1,14:24,"(14:24) (Shotgun) J.Ajayi up the middle to BUF 49 for 10 yards (Z.Brown, P.Brown).",10,4,26,MIA 41,0,MIA,
+18,3339,1,14:00,"(14:00) PENALTY on BUF-L.Alexander, Neutral Zone Infraction, 5 yards, enforced at BUF 49 - No Play.",10,4,31,BUF 49,0,MIA,PENALTY
+18,3505,4,10:20,"(10:20) A.Franks 46 yard field goal is No Good, Hit Left Upright, Center-J.Denney, Holder-M.Darr.",5,4,47,BUF 28,0,MIA,FGM

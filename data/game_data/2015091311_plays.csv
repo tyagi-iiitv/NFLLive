@@ -1,172 +1,172 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1531,1,03:18,,10,2,26,TB 38,0,TB,
-9,1552,2,02:49,,2,2,26,TB 46,0,TB,
-9,1488,0,03:47,,0,2,0,TEN 35,0,TEN,KICKOFF
-9,1507,1,03:47,,10,2,18,TB 20,0,TB,
-9,1574,3,02:45,,2,2,26,TB 46,0,TB,INT
-10,1611,1,02:36,,10,2,9,TB 32,0,TEN,
-10,1637,2,02:05,,1,2,12,TB 23,0,TEN,
-10,1699,1,01:53,,2,2,31,TB 2,0,TEN,
-10,1810,3,00:52,,1,2,32,TB 1,1,TEN,TD
-10,1749,0,01:02,,0,2,31,,0,,TIMEOUT
-10,1675,1,02:00,,10,2,30,TB 20,0,TEN,
-10,1830,0,00:48,,0,2,32,TB 15,1,TEN,XP
-10,1658,0,02:00,,0,2,12,,0,,
-10,1766,2,01:02,,1,2,31,TB 1,0,TEN,
-10,1793,0,00:52,,0,2,31,,0,,TIMEOUT
-20,3390,1,06:15,,10,4,11,TB 48,0,TB,
-20,3830,4,02:18,,16,4,47,TEN 16,0,TB,
-20,3641,1,04:20,,10,4,58,TEN 12,0,TB,
-20,3366,2,06:39,,5,4,11,TB 42,0,TB,
-20,3480,3,05:12,,12,4,56,TEN 42,0,TB,
-20,3459,2,05:39,,10,4,21,TEN 40,0,TB,
-20,3690,1,03:17,,1,4,57,TEN 1,0,TB,PENALTY
-20,3504,1,04:48,,7,4,56,TEN 7,0,TB,
-20,3555,3,04:38,,7,4,56,TEN 7,0,TB,
-20,3722,1,03:12,,6,4,57,TEN 6,0,TB,
-20,3785,3,02:26,,11,4,52,TEN 11,0,TB,
-20,3437,1,05:41,,10,4,47,TEN 40,0,TB,
-20,3807,4,02:26,,11,4,47,TEN 11,0,TB,PENALTY
-20,3577,4,04:31,,7,4,46,TEN 7,0,TB,PENALTY
-20,3412,2,06:07,,10,4,23,TB 48,0,TB,
-20,3756,2,03:09,,6,4,52,TEN 6,0,TB,FUMBLE
-20,3526,2,04:46,,7,4,56,TEN 7,0,TB,
-20,3608,4,04:25,,17,4,51,TEN 17,0,TB,PENALTY
-20,3662,2,03:41,,3,4,62,TEN 5,0,TB,
-20,3342,1,07:03,,10,4,5,TB 37,0,TB,
-6,956,0,14:54,,0,2,0,TB 35,0,TB,KICKOFF
-6,1007,1,14:23,,20,2,-7,TEN 10,0,TEN,
-6,975,1,14:54,,10,2,-10,TEN 20,0,TEN,PENALTY
-6,1091,3,12:38,,28,2,-15,TEN 2,0,TEN,
-6,1072,2,13:37,,17,2,-18,TEN 13,0,TEN,
-6,1028,2,13:46,,17,2,-7,TEN 13,0,TEN,
-6,1112,4,11:56,,25,2,-15,TEN 5,0,TEN,PUNT
-18,2977,3,11:53,,1,4,10,TB 37,0,TB,
-18,3147,4,09:30,,1,4,72,TEN 41,1,TB,TD
-18,2956,2,12:14,,3,4,9,TB 35,0,TB,
-18,3066,2,10:28,,4,4,28,TEN 44,0,TB,
-18,3045,1,10:51,,5,4,28,TEN 45,0,TB,
-18,2998,1,11:21,,10,4,22,TB 38,0,TB,
-18,3123,3,09:55,,9,4,31,TEN 49,0,TB,
-18,3088,3,10:23,,4,4,23,TEN 44,0,TB,PENALTY
-18,2935,1,12:36,,10,4,7,TB 28,0,TB,
-18,3022,1,11:21,,10,4,27,50,0,TB,PENALTY
-18,3172,0,09:18,,0,4,72,TEN 15,1,TB,XP
-1,134,3,14:06,,10,1,37,TEN 26,0,TEN,
-1,91,1,14:50,,10,1,15,TEN 26,0,TEN,
-1,112,2,14:12,,10,1,15,TEN 26,0,TEN,
-1,158,1,13:22,,10,1,89,TEN 48,1,TEN,TD
-1,178,0,13:10,,0,1,89,TB 15,1,TEN,XP
-1,36,0,15:00,,0,1,0,TB 35,0,TB,KICKOFF
-1,58,1,14:56,,10,1,15,TEN 11,0,TEN,PENALTY
-5,940,0,14:54,,0,2,68,TEN 15,1,TB,XP
-5,818,2,01:53,,17,1,61,TEN 28,0,TB,
-5,788,1,02:38,,10,1,63,TEN 21,0,TB,FUMBLE
-5,880,2,00:41,,7,1,63,TEN 7,0,TB,
-5,598,0,06:49,,0,1,0,TEN 35,0,TEN,KICKOFF
-5,620,1,06:41,,10,1,5,TB 32,0,TB,
-5,767,4,03:17,,1,1,47,TEN 26,0,TB,
-5,750,0,03:17,,0,1,42,,0,,TIMEOUT
-5,641,2,06:02,,5,1,19,TB 37,0,TB,
-5,863,0,00:41,,0,1,61,,0,,TIMEOUT
-5,904,0,,,0,1,63,,0,,
-5,662,1,05:23,,10,1,33,TEN 49,0,TB,
-5,726,3,03:49,,7,1,42,TEN 32,0,TB,
-5,842,1,01:27,,7,1,61,TEN 7,0,TB,
-5,683,1,04:40,,10,1,36,TEN 35,0,TB,
-5,920,3,15:00,,5,2,68,TEN 5,1,TB,TD
-5,704,2,03:57,,7,1,36,TEN 32,0,TB,
-13,2363,1,08:06,,1,3,54,TB 1,1,TEN,TD
-13,2180,1,11:47,,10,3,21,TB 38,0,TEN,
-13,2265,1,09:44,,20,3,23,TB 31,0,TEN,
-13,2289,0,08:54,,0,3,23,,0,,TIMEOUT
-13,2380,0,08:02,,0,3,54,TB 15,1,TEN,XP
-13,2201,2,11:01,,5,3,33,TB 33,0,TEN,FUMBLE
-13,2159,1,12:23,,10,3,16,TEN 46,0,TEN,
-13,2233,1,10:11,,10,3,54,TB 21,0,TEN,PENALTY
-13,2306,2,08:54,,20,3,37,TB 31,0,TEN,
-13,2330,3,08:12,,6,3,53,TB 17,0,TEN,PENALTY
-21,3873,0,02:00,,0,4,-1,,0,,
-21,3949,4,00:37,,15,4,-5,TEN 11,0,TEN,PUNT
-21,3890,2,02:00,,11,4,-3,TEN 15,0,TEN,
-21,3852,1,02:12,,10,4,-1,TEN 16,0,TEN,
-21,3932,0,00:37,,0,4,-5,,0,,TIMEOUT
-21,3911,3,01:19,,13,4,-5,TEN 13,0,TEN,
-11,1912,1,00:13,,15,2,13,TB 33,0,TB,
-11,1846,0,00:48,,0,2,0,TEN 35,0,TEN,KICKOFF
-11,1980,0,,,0,2,13,,0,,
-11,1889,1,00:25,,10,2,13,TB 38,0,TB,PENALTY
-11,1958,1,00:06,,15,2,13,TB 33,0,TB,
-11,1865,1,00:48,,10,2,13,TB 20,0,TB,
-14,2447,1,07:34,,20,3,-12,TB 10,0,TB,
-14,2487,3,06:22,,18,3,-6,TB 12,0,TB,
-14,2511,4,05:43,,16,3,-6,TB 14,0,TB,PUNT
-14,2466,2,06:59,,22,3,-8,TB 8,0,TB,
-14,2396,0,08:02,,0,3,0,TEN 35,0,TEN,KICKOFF
-14,2415,1,08:02,,10,3,-10,TB 20,0,TB,PENALTY
-8,1344,1,07:21,,10,2,29,TB 28,0,TEN,
-8,1472,0,03:47,,0,2,56,TB 15,1,TEN,XP
-8,1386,3,05:56,,6,2,56,TB 24,0,TEN,
-8,1258,1,09:49,,10,2,5,TEN 44,0,TEN,
-8,1279,2,09:49,,5,2,0,TEN 49,0,TEN,PENALTY
-8,1302,2,08:48,,10,2,16,TEN 44,0,TEN,
-8,1410,1,05:11,,2,2,55,TB 2,0,TEN,
-8,1431,2,04:29,,1,2,56,TB 1,0,TEN,
-8,1323,1,08:00,,10,2,28,TB 40,0,TEN,
-8,1452,3,03:53,,4,2,56,TB 4,1,TEN,TD
-8,1365,2,06:39,,9,2,32,TB 27,0,TEN,
-19,3207,1,09:18,,10,4,0,TEN 20,0,TEN,
-19,3317,4,07:14,,14,4,-4,TEN 16,0,TEN,PUNT
-19,3228,2,08:39,,10,4,-10,TEN 20,0,TEN,PENALTY
-19,3279,3,07:20,,14,4,-4,TEN 16,0,TEN,
-19,3188,0,09:18,,0,4,0,TB 35,0,TB,KICKOFF
-19,3258,2,08:05,,20,4,-4,TEN 10,0,TEN,
-19,3300,0,07:14,,0,4,-4,,0,,TIMEOUT
-22,3971,1,00:29,,10,4,5,TB 40,0,TB,
-22,3992,0,00:00,,0,4,5,,0,,
-12,2042,1,14:28,,10,3,5,TB 43,0,TB,PENALTY
-12,2093,2,13:23,,28,3,-17,TB 25,0,TB,
-12,1996,0,15:00,,0,3,0,TEN 35,0,TEN,KICKOFF
-12,2074,1,13:59,,20,3,-3,TB 33,0,TB,
-12,2018,1,14:54,,10,3,15,TB 28,0,TB,
-12,2112,3,12:42,,42,3,-17,TB 11,0,TB,
-12,2134,4,12:35,,42,3,-17,TB 11,0,TB,PUNT
-16,2735,2,00:33,,11,3,-1,TB 1,0,TB,
-16,2757,3,00:28,,11,3,0,TB 1,0,TB,
-16,2794,4,15:00,,10,4,0,TB 2,0,TB,PUNT
-16,2680,1,00:50,,10,3,-1,TB 2,0,TB,PENALTY
-16,2778,0,,,0,3,0,,0,,
-16,2703,1,00:50,,11,3,-1,TB 1,0,TB,
-7,1169,2,11:05,,9,2,8,TB 48,0,TB,
-7,1148,1,11:43,,10,2,1,TB 47,0,TB,
-7,1211,4,10:05,,1,2,9,TEN 44,0,TB,
-7,1190,3,10:33,,2,2,9,TEN 45,0,TB,
-3,358,3,11:07,,12,1,1,TB 18,0,TB,
-3,379,4,10:23,,9,1,1,TB 21,0,TB,PUNT
-3,315,1,11:48,,10,1,0,TB 20,0,TB,
-3,337,2,11:43,,10,1,-2,TB 20,0,TB,
-3,296,0,11:48,,0,1,-2,TEN 35,0,TEN,KICKOFF
-17,2856,1,14:21,,15,4,0,TB 40,0,TEN,
-17,2898,3,12:57,,4,4,7,TB 29,0,TEN,FUMBLE
-17,2824,1,14:49,,10,4,-5,TB 35,0,TEN,PENALTY
-17,2877,2,13:41,,10,4,6,TB 35,0,TEN,
-4,445,2,09:08,,8,1,13,TEN 39,0,TEN,
-4,582,0,06:49,,0,1,63,TB 15,1,TEN,XP
-4,538,2,07:35,,5,1,51,TB 32,0,TEN,
-4,422,2,09:36,,3,1,2,TEN 44,0,TEN,PENALTY
-4,401,1,10:16,,10,1,7,TEN 37,0,TEN,
-4,562,1,06:56,,10,1,63,TB 12,1,TEN,TD
-4,469,1,08:50,,10,1,26,50,0,TEN,
-4,493,1,08:50,,10,1,31,TB 37,0,TEN,PENALTY
-4,516,1,07:39,,5,1,31,TB 32,0,TEN,
-2,216,1,13:04,,10,1,5,TB 20,0,TB,
-2,258,3,11:58,,3,1,7,TB 27,1,TB,TD
-2,194,0,13:10,,0,1,0,TEN 35,0,TEN,KICKOFF
-2,237,2,12:33,,5,1,7,TB 25,0,TB,
-15,2638,3,01:46,,4,3,30,TB 27,0,TEN,
-15,2617,2,02:30,,9,3,43,TB 32,0,TEN,
-15,2596,1,03:13,,10,3,38,TB 33,0,TEN,
-15,2657,4,01:02,,17,3,30,TB 40,0,TEN,PUNT
-15,2530,1,05:30,,10,3,3,TEN 30,0,TEN,
-15,2551,2,04:47,,7,3,30,TEN 33,0,TEN,
-15,2575,1,04:05,,10,3,37,TB 47,0,TEN,
+20,3390,1,06:15,(6:15) J.Winston pass incomplete short middle to L.Murphy.,10,4,11,TB 48,0,TB,
+20,3555,3,04:38,(4:38) (Shotgun) J.Winston pass incomplete short middle to L.Murphy.,7,4,56,TEN 7,0,TB,
+20,3608,4,04:25,"(4:25) (Shotgun) J.Winston pass incomplete short middle to A.Seferian-Jenkins. PENALTY on TEN-S.Johnson, Illegal Contact, 5 yards, enforced at TEN 17 - No Play.",17,4,51,TEN 17,0,TB,PENALTY
+20,3830,4,02:18,(2:18) (Shotgun) J.Winston pass incomplete deep middle to V.Jackson (D.Stafford).,16,4,47,TEN 16,0,TB,
+20,3662,2,03:41,(3:41) (Shotgun) J.Winston pass short middle to B.Rainey to TEN 1 for 4 yards (D.Jones).,3,4,62,TEN 5,0,TB,
+20,3342,1,07:03,(7:03) (Shotgun) J.Winston pass short left to C.Sims to TB 42 for 5 yards (D.Stafford).,10,4,5,TB 37,0,TB,
+20,3480,3,05:12,"(5:12) (No Huddle, Shotgun) J.Winston pass deep middle to A.Seferian-Jenkins ran ob at TEN 7 for 35 yards.",12,4,56,TEN 42,0,TB,
+20,3366,2,06:39,"(6:39) (No Huddle, Shotgun) J.Winston pass short right to R.Shepard ran ob at TB 48 for 6 yards.",5,4,11,TB 42,0,TB,
+20,3459,2,05:39,"(5:39) (Shotgun) B.Rainey up the middle to TEN 42 for -2 yards (D.Jones, W.Woodyard).",10,4,21,TEN 40,0,TB,
+20,3504,1,04:48,(4:48) (Shotgun) J.Winston pass incomplete short middle to V.Jackson.,7,4,56,TEN 7,0,TB,
+20,3437,1,05:41,"(5:41) (No Huddle, Shotgun) J.Winston pass incomplete short right to A.Seferian-Jenkins.",10,4,47,TEN 40,0,TB,
+20,3526,2,04:46,(4:46) (Shotgun) J.Winston pass incomplete short left to V.Jackson.,7,4,56,TEN 7,0,TB,
+20,3690,1,03:17,"(3:17) B.Rainey up the middle to TEN 1 for no gain (M.Huff, W.Woodyard). PENALTY on TB, Illegal Formation, 5 yards, enforced at TEN 1 - No Play.",1,4,57,TEN 1,0,TB,PENALTY
+20,3412,2,06:07,(6:07) (Shotgun) J.Winston pass short middle to V.Jackson to TEN 40 for 12 yards (D.Stafford).,10,4,23,TB 48,0,TB,
+20,3722,1,03:12,(3:12) J.Winston pass incomplete short right to V.Jackson.,6,4,57,TEN 6,0,TB,
+20,3785,3,02:26,"(2:26) (No Huddle, Shotgun) J.Winston pass incomplete short right to C.Sims.",11,4,52,TEN 11,0,TB,
+20,3807,4,02:26,"(2:26) (Shotgun) PENALTY on TB-G.Cherilus, False Start, 5 yards, enforced at TEN 11 - No Play.",11,4,47,TEN 11,0,TB,PENALTY
+20,3756,2,03:09,"(3:09) (Shotgun) J.Winston sacked at TEN 11 for -5 yards (A.Blackson). FUMBLES (A.Blackson), and recovers at TEN 11. J.Winston to TEN 11 for no gain (A.Blackson).",6,4,52,TEN 6,0,TB,FUMBLE
+20,3577,4,04:31,"(4:31) (Shotgun) J.Winston pass short right to V.Jackson for 7 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on TB-V.Jackson, Offensive Pass Interference, 10 yards, enforced at TEN 7 - No Play.",7,4,46,TEN 7,0,TB,PENALTY
+20,3641,1,04:20,(4:20) (Shotgun) B.Rainey up the middle to TEN 5 for 7 yards (C.Riggs).,10,4,58,TEN 12,0,TB,
+21,3949,4,00:37,"(:37) (Punt formation) B.Kern punts 49 yards to TB 40, Center-B.Brinkley, out of bounds.",15,4,-5,TEN 11,0,TEN,PUNT
+21,3911,3,01:19,(1:19) Z.Mettenberger kneels to TEN 11 for -2 yards.,13,4,-5,TEN 13,0,TEN,
+21,3873,0,02:00,Two-Minute Warning,0,4,-1,,0,,
+21,3932,0,00:37,Timeout #2 by TEN at 00:37.,0,4,-5,,0,,TIMEOUT
+21,3852,1,02:12,(2:12) Z.Mettenberger kneels to TEN 15 for -1 yards.,10,4,-1,TEN 16,0,TEN,
+21,3890,2,02:00,(2:00) Z.Mettenberger kneels to TEN 13 for -2 yards.,11,4,-3,TEN 15,0,TEN,
+22,3971,1,00:29,(:29) B.Rainey left tackle to TB 45 for 5 yards (M.Martin).,10,4,5,TB 40,0,TB,
+22,3992,0,00:00,END GAME,0,4,5,,0,,
+1,58,1,14:56,"(14:56) M.Mariota pass incomplete short right to B.Sankey (M.Wright). PENALTY on TB-M.Wright, Unnecessary Roughness, 15 yards, enforced at TEN 11.",10,1,15,TEN 11,0,TEN,PENALTY
+1,158,1,13:22,"(13:22) (Shotgun) M.Mariota pass short right to K.Wright for 52 yards, TOUCHDOWN.",10,1,89,TEN 48,1,TEN,TD
+1,112,2,14:12,(14:12) M.Mariota pass incomplete short left to B.Sankey.,10,1,15,TEN 26,0,TEN,
+1,36,0,15:00,K.Brindza kicks 71 yards from TB 35 to TEN -6. B.Sankey to TEN 11 for 17 yards (B.Carter).,0,1,0,TB 35,0,TB,KICKOFF
+1,178,0,13:10,"R.Succop extra point is GOOD, Center-B.Brinkley, Holder-B.Kern.",0,1,89,TB 15,1,TEN,XP
+1,134,3,14:06,(14:06) (Shotgun) M.Mariota pass short middle to D.Walker to TEN 48 for 22 yards (C.Conte).,10,1,37,TEN 26,0,TEN,
+1,91,1,14:50,(14:50) B.Sankey left tackle to TEN 26 for no gain (C.McDonald).,10,1,15,TEN 26,0,TEN,
+3,296,0,11:48,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback.",0,1,-2,TEN 35,0,TEN,KICKOFF
+3,379,4,10:23,"(10:23) (Punt formation) J.Schum punts 42 yards to TEN 37, Center-A.DePaola, out of bounds.",9,1,1,TB 21,0,TB,PUNT
+3,337,2,11:43,(11:43) D.Martin right guard to TB 18 for -2 yards (J.Casey).,10,1,-2,TB 20,0,TB,
+3,315,1,11:48,(11:48) J.Winston pass incomplete short right to V.Jackson.,10,1,0,TB 20,0,TB,
+3,358,3,11:07,(11:07) (Shotgun) J.Winston scrambles left end to TB 21 for 3 yards (D.Morgan).,12,1,1,TB 18,0,TB,
+2,216,1,13:04,(13:04) D.Martin right guard to TB 25 for 5 yards (D.Jones).,10,1,5,TB 20,0,TB,
+2,194,0,13:10,R.Succop kicks 68 yards from TEN 35 to TB -3. B.Rainey to TB 20 for 23 yards (P.Supernaw).,0,1,0,TEN 35,0,TEN,KICKOFF
+2,258,3,11:58,"(11:58) (Shotgun) J.Winston pass short left intended for A.Humphries INTERCEPTED by C.Sensabaugh at TB 26. C.Sensabaugh for 26 yards, TOUCHDOWN.",3,1,7,TB 27,1,TB,TD
+2,237,2,12:33,(12:33) D.Martin right guard to TB 27 for 2 yards (D.Morgan).,5,1,7,TB 25,0,TB,
+5,726,3,03:49,(3:49) (Shotgun) J.Winston pass short left to V.Jackson pushed ob at TEN 26 for 6 yards (P.Cox).,7,1,42,TEN 32,0,TB,
+5,620,1,06:41,(6:41) D.Martin left end to TB 37 for 5 yards (A.Williamson).,10,1,5,TB 32,0,TB,
+5,842,1,01:27,"(1:27) D.Martin right guard to TEN 7 for no gain (D.Jones, K.Klug).",7,1,61,TEN 7,0,TB,
+5,904,0,,END QUARTER 1,0,1,63,,0,,
+5,818,2,01:53,(1:53) J.Winston pass deep left to A.Seferian-Jenkins ran ob at TEN 7 for 21 yards.,17,1,61,TEN 28,0,TB,
+5,704,2,03:57,(3:57) J.Winston pass incomplete deep left to V.Jackson [K.Klug].,7,1,36,TEN 32,0,TB,
+5,598,0,06:49,R.Succop kicks 61 yards from TEN 35 to TB 4. B.Rainey to TB 32 for 28 yards (P.Supernaw; S.Johnson).,0,1,0,TEN 35,0,TEN,KICKOFF
+5,863,0,00:41,Timeout #2 by TB at 00:41.,0,1,61,,0,,TIMEOUT
+5,788,1,02:38,"(2:38) J.Winston FUMBLES (Aborted) at TEN 25, and recovers at TEN 28. J.Winston to TEN 28 for no gain (J.Casey).",10,1,63,TEN 21,0,TB,FUMBLE
+5,662,1,05:23,(5:23) D.Martin left end to TEN 35 for 14 yards (M.Griffin).,10,1,33,TEN 49,0,TB,
+5,940,0,14:54,"K.Brindza extra point is GOOD, Center-A.DePaola, Holder-J.Schum.",0,2,68,TEN 15,1,TB,XP
+5,767,4,03:17,(3:17) J.Winston scrambles right end to TEN 21 for 5 yards (Z.Brown).,1,1,47,TEN 26,0,TB,
+5,641,2,06:02,(6:02) D.Martin left guard to TEN 49 for 14 yards (P.Cox).,5,1,19,TB 37,0,TB,
+5,750,0,03:17,Timeout #1 by TB at 03:17.,0,1,42,,0,,TIMEOUT
+5,920,3,15:00,"(15:00) (Shotgun) J.Winston pass short left to A.Seferian-Jenkins for 5 yards, TOUCHDOWN.",5,2,68,TEN 5,1,TB,TD
+5,880,2,00:41,(:41) J.Winston pass short middle to D.Martin to TEN 5 for 2 yards (A.Blackson).,7,1,63,TEN 7,0,TB,
+5,683,1,04:40,(4:40) D.Martin left guard to TEN 32 for 3 yards (M.Griffin).,10,1,36,TEN 35,0,TB,
+4,469,1,08:50,"(8:50) (No Huddle, Shotgun) M.Mariota pass short middle to K.Wright to TB 37 for 13 yards (B.McDougald).",10,1,26,50,0,TEN,
+4,562,1,06:56,"(6:56) M.Mariota pass short right to B.Sankey for 12 yards, TOUCHDOWN.",10,1,63,TB 12,1,TEN,TD
+4,445,2,09:08,(9:08) (Shotgun) M.Mariota pass short middle to J.Hunter to 50 for 11 yards (A.Verner).,8,1,13,TEN 39,0,TEN,
+4,538,2,07:35,(7:35) (Shotgun) M.Mariota pass deep right to H.Douglas to TB 12 for 20 yards (J.Banks).,5,1,51,TB 32,0,TEN,
+4,401,1,10:16,"(10:16) B.Sankey left guard to TEN 44 for 7 yards (D.Swearinger, L.David).",10,1,7,TEN 37,0,TEN,
+4,493,1,08:50,"(8:50) PENALTY on TB-D.Lansanah, Neutral Zone Infraction, 5 yards, enforced at TB 37 - No Play.",10,1,31,TB 37,0,TEN,PENALTY
+4,582,0,06:49,"R.Succop extra point is GOOD, Center-B.Brinkley, Holder-B.Kern.",0,1,63,TB 15,1,TEN,XP
+4,422,2,09:36,"(9:36) PENALTY on TEN-J.Poutasi, False Start, 5 yards, enforced at TEN 44 - No Play.",3,1,2,TEN 44,0,TEN,PENALTY
+4,516,1,07:39,(7:39) M.Mariota pass incomplete short right to J.Hunter (K.Alexander).,5,1,31,TB 32,0,TEN,
+7,1190,3,10:33,"(10:33) J.Winston scrambles up the middle to TEN 44 for 1 yard (W.Woodyard, Z.Brown).",2,2,9,TEN 45,0,TB,
+7,1148,1,11:43,(11:43) J.Winston scrambles left end to TB 48 for 1 yard (Z.Brown).,10,2,1,TB 47,0,TB,
+7,1211,4,10:05,"(10:05) D.Martin left tackle to TEN 43 for 1 yard (Z.Brown, D.Searcy). Tennessee challenged the first down ruling, and the play was REVERSED. D.Martin left tackle to TEN 44 for no gain (Z.Brown, D.Searcy).",1,2,9,TEN 44,0,TB,
+7,1169,2,11:05,(11:05) D.Martin right guard to TEN 45 for 7 yards (B.Orakpo).,9,2,8,TB 48,0,TB,
+6,975,1,14:54,"(14:54) B.Sankey left end pushed ob at TEN 36 for 16 yards (B.McDougald). PENALTY on TEN-T.Lewan, Offensive Holding, 10 yards, enforced at TEN 20 - No Play.",10,2,-10,TEN 20,0,TEN,PENALTY
+6,1091,3,12:38,"(12:38) B.Sankey up the middle to TEN 5 for 3 yards (J.Smith, D.Lansanah).",28,2,-15,TEN 2,0,TEN,
+6,1072,2,13:37,(13:37) (Shotgun) M.Mariota sacked at TEN 2 for -11 yards (G.McCoy).,17,2,-18,TEN 13,0,TEN,
+6,1028,2,13:46,"(13:46) M.Mariota pass incomplete deep right to K.Wright (A.Verner). Penalty on TEN-C.Stevens, Offensive Holding, offsetting, enforced at TEN 13 - No Play. Penalty on TB-A.Verner, Defensive Pass Interference, offsetting.",17,2,-7,TEN 13,0,TEN,
+6,956,0,14:54,"K.Brindza kicks 65 yards from TB 35 to end zone, Touchback.",0,2,0,TB 35,0,TB,KICKOFF
+6,1112,4,11:56,"(11:56) (Punt formation) B.Kern punts 57 yards to TB 38, Center-B.Brinkley. B.Rainey pushed ob at TEN 38 for 24 yards (D.Stafford). PENALTY on TB-J.Banks, Illegal Block Above the Waist, 10 yards, enforced at TEN 43.",25,2,-15,TEN 5,0,TEN,PUNT
+6,1007,1,14:23,(14:23) (Shotgun) D.McCluster left tackle to TEN 13 for 3 yards (J.Banks).,20,2,-7,TEN 10,0,TEN,
+9,1552,2,02:49,(2:49) (No Huddle) J.Winston pass incomplete short right to L.Murphy.,2,2,26,TB 46,0,TB,
+9,1488,0,03:47,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback.",0,2,0,TEN 35,0,TEN,KICKOFF
+9,1507,1,03:47,(3:47) (Shotgun) J.Winston pass short middle to V.Jackson to TB 38 for 18 yards (D.Searcy).,10,2,18,TB 20,0,TB,
+9,1531,1,03:18,(3:18) (No Huddle) J.Winston scrambles right tackle to TB 46 for 8 yards (M.Griffin).,10,2,26,TB 38,0,TB,
+9,1574,3,02:45,(2:45) (Shotgun) J.Winston pass short right intended for C.Sims INTERCEPTED by D.Mount at TB 40. D.Mount to TB 32 for 8 yards (J.Winston).,2,2,26,TB 46,0,TB,INT
+8,1279,2,09:49,"(9:49) PENALTY on TEN-C.Warmack, False Start, 5 yards, enforced at TEN 49 - No Play.",5,2,0,TEN 49,0,TEN,PENALTY
+8,1302,2,08:48,(8:48) (Shotgun) B.Sankey left tackle to TB 40 for 16 yards (B.McDougald).,10,2,16,TEN 44,0,TEN,
+8,1323,1,08:00,"(8:00) T.West right guard to TB 28 for 12 yards (C.Conte, B.McDougald).",10,2,28,TB 40,0,TEN,
+8,1431,2,04:29,(4:29) M.Mariota right end pushed ob at TB 4 for -3 yards (K.Alexander).,1,2,56,TB 1,0,TEN,
+8,1344,1,07:21,"(7:21) T.West right guard to TB 27 for 1 yard (K.Alexander, D.Lansanah).",10,2,29,TB 28,0,TEN,
+8,1472,0,03:47,"R.Succop extra point is GOOD, Center-B.Brinkley, Holder-B.Kern.",0,2,56,TB 15,1,TEN,XP
+8,1365,2,06:39,(6:39) B.Sankey right guard to TB 24 for 3 yards (G.McCoy).,9,2,32,TB 27,0,TEN,
+8,1452,3,03:53,"(3:53) (Shotgun) M.Mariota pass short right to H.Douglas for 4 yards, TOUCHDOWN.",4,2,56,TB 4,1,TEN,TD
+8,1410,1,05:11,(5:11) T.West up the middle to TB 1 for 1 yard (G.Johnson).,2,2,55,TB 2,0,TEN,
+8,1386,3,05:56,(5:56) (Shotgun) M.Mariota pass short left to K.Wright to TB 2 for 22 yards (S.Moore).,6,2,56,TB 24,0,TEN,
+8,1258,1,09:49,"(9:49) T.West left tackle to TEN 49 for 5 yards (D.Lansanah, L.David).",10,2,5,TEN 44,0,TEN,
+11,1980,0,,END QUARTER 2,0,2,13,,0,,
+11,1846,0,00:48,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback.",0,2,0,TEN 35,0,TEN,KICKOFF
+11,1865,1,00:48,"(:48) (Shotgun) J.Winston pass short left to C.Sims to TB 38 for 18 yards (A.Williamson, M.Griffin).",10,2,13,TB 20,0,TB,
+11,1889,1,00:25,"(:25) (No Huddle, Shotgun) PENALTY on TB-G.Cherilus, False Start, 5 yards, enforced at TB 38 - No Play.",10,2,13,TB 38,0,TB,PENALTY
+11,1912,1,00:13,"(:13) (No Huddle, Shotgun) J.Winston pass short middle to C.Sims to TB 37 for 4 yards (Z.Brown). Penalty on TB-D.Smith, Offensive Holding, offsetting, enforced at TB 33 - No Play. Penalty on TEN-J.Casey, Personal Foul, offsetting.",15,2,13,TB 33,0,TB,
+11,1958,1,00:06,(:06) (Shotgun) J.Winston pass incomplete short right to C.Sims [B.Orakpo].,15,2,13,TB 33,0,TB,
+10,1830,0,00:48,"R.Succop extra point is GOOD, Center-B.Brinkley, Holder-B.Kern.",0,2,32,TB 15,1,TEN,XP
+10,1810,3,00:52,"(:52) M.Mariota pass short right to D.Walker for 1 yard, TOUCHDOWN.",1,2,32,TB 1,1,TEN,TD
+10,1637,2,02:05,(2:05) T.West left tackle to TB 20 for 3 yards (L.David).,1,2,12,TB 23,0,TEN,
+10,1793,0,00:52,Timeout #3 by TB at 00:52.,0,2,31,,0,,TIMEOUT
+10,1611,1,02:36,(2:36) M.Mariota left end pushed ob at TB 23 for 9 yards (K.Alexander).,10,2,9,TB 32,0,TEN,
+10,1658,0,02:00,Two-Minute Warning,0,2,12,,0,,
+10,1749,0,01:02,Timeout #1 by TEN at 01:02.,0,2,31,,0,,TIMEOUT
+10,1675,1,02:00,"(2:00) (Shotgun) M.Mariota pass short left to A.Fasano pushed ob at TB 2 for 18 yards (M.Wright). The Replay Official reviewed the runner broke the plane ruling, and the play was Upheld. The ruling on the field stands.",10,2,30,TB 20,0,TEN,
+10,1766,2,01:02,"(1:02) T.West up the middle to TB 1 for no gain (C.McDonald, M.Wright).",1,2,31,TB 1,0,TEN,
+10,1699,1,01:53,"(1:53) T.West up the middle to TB 1 for 1 yard (C.McDonald). The Replay Official reviewed the runner broke the plane ruling, and the play was Upheld. The ruling on the field stands.",2,2,31,TB 2,0,TEN,
+13,2330,3,08:12,"(8:12) (Shotgun) M.Mariota pass incomplete deep left to J.Hunter. PENALTY on TB-A.Verner, Defensive Pass Interference, 16 yards, enforced at TB 17 - No Play.",6,3,53,TB 17,0,TEN,PENALTY
+13,2201,2,11:01,"(11:01) B.Sankey left guard to TB 28 for 5 yards (H.Melton). FUMBLES (H.Melton), recovered by TEN-J.Fowler at TB 21. J.Fowler to TB 21 for no gain (W.Gholston).",5,3,33,TB 33,0,TEN,FUMBLE
+13,2289,0,08:54,Timeout #1 by TEN at 08:54.,0,3,23,,0,,TIMEOUT
+13,2233,1,10:11,"(10:11) T.West right tackle to TB 16 for 5 yards (T.Jennings, B.McDougald). PENALTY on TEN-A.Fasano, Offensive Holding, 10 yards, enforced at TB 21 - No Play.",10,3,54,TB 21,0,TEN,PENALTY
+13,2306,2,08:54,(8:54) (Shotgun) M.Mariota pass short left to K.Wright to TB 17 for 14 yards (C.Conte).,20,3,37,TB 31,0,TEN,
+13,2380,0,08:02,"R.Succop extra point is GOOD, Center-B.Brinkley, Holder-B.Kern.",0,3,54,TB 15,1,TEN,XP
+13,2180,1,11:47,(11:47) B.Sankey left tackle to TB 33 for 5 yards (L.David).,10,3,21,TB 38,0,TEN,
+13,2363,1,08:06,"(8:06) B.Sankey up the middle for 1 yard, TOUCHDOWN.",1,3,54,TB 1,1,TEN,TD
+13,2159,1,12:23,(12:23) B.Sankey left end pushed ob at TB 38 for 16 yards (C.Conte).,10,3,16,TEN 46,0,TEN,
+13,2265,1,09:44,(9:44) (Shotgun) M.Mariota pass short left to B.Sankey to TB 31 for no gain (C.Conte).,20,3,23,TB 31,0,TEN,
+12,2134,4,12:35,"(12:35) (Punt formation) J.Schum punts 44 yards to TEN 45, Center-A.DePaola. D.McCluster to TEN 46 for 1 yard (D.Swearinger).",42,3,-17,TB 11,0,TB,PUNT
+12,2042,1,14:28,"(14:28) (No Huddle) D.Martin left guard to TEN 49 for 8 yards (Z.Brown, M.Griffin). PENALTY on TB-G.Cherilus, Offensive Holding, 10 yards, enforced at TB 43 - No Play.",10,3,5,TB 43,0,TB,PENALTY
+12,1996,0,15:00,R.Succop kicks 69 yards from TEN 35 to TB -4. B.Rainey to TB 28 for 32 yards (M.Huff).,0,3,0,TEN 35,0,TEN,KICKOFF
+12,2018,1,14:54,(14:54) J.Winston pass short left to V.Jackson to TB 43 for 15 yards (D.Searcy).,10,3,15,TB 28,0,TB,
+12,2093,2,13:23,"(13:23) (No Huddle, Shotgun) J.Winston sacked at TB 11 for -14 yards (D.Morgan).",28,3,-17,TB 25,0,TB,
+12,2112,3,12:42,(12:42) (Shotgun) J.Winston pass incomplete short right to A.Seferian-Jenkins.,42,3,-17,TB 11,0,TB,
+12,2074,1,13:59,(13:59) J.Winston sacked at TB 25 for -8 yards (J.Casey).,20,3,-3,TB 33,0,TB,
+15,2617,2,02:30,"(2:30) T.West right guard to TB 27 for 5 yards (D.Lansanah, K.Alexander).",9,3,43,TB 32,0,TEN,
+15,2551,2,04:47,(4:47) M.Mariota pass deep right to D.Walker to TB 47 for 20 yards (A.Verner).,7,3,30,TEN 33,0,TEN,
+15,2596,1,03:13,"(3:13) B.Sankey left guard to TB 32 for 1 yard (C.McDonald, K.Alexander).",10,3,38,TB 33,0,TEN,
+15,2638,3,01:46,(1:46) (Shotgun) M.Mariota sacked at TB 40 for -13 yards (J.Smith).,4,3,30,TB 27,0,TEN,
+15,2575,1,04:05,(4:05) B.Sankey left tackle to TB 33 for 14 yards (A.Verner).,10,3,37,TB 47,0,TEN,
+15,2657,4,01:02,"(1:02) (Punt formation) B.Kern punts 38 yards to TB 2, Center-B.Brinkley, downed by TEN-A.Williamson.",17,3,30,TB 40,0,TEN,PUNT
+15,2530,1,05:30,"(5:30) B.Sankey left guard to TEN 33 for 3 yards (B.McDougald, H.Melton).",10,3,3,TEN 30,0,TEN,
+14,2466,2,06:59,(6:59) D.Martin right end to TB 12 for 4 yards (B.Wreh-Wilson).,22,3,-8,TB 8,0,TB,
+14,2447,1,07:34,(7:34) J.Winston sacked at TB 8 for -2 yards (D.Morgan).,20,3,-12,TB 10,0,TB,
+14,2487,3,06:22,(6:22) (Shotgun) J.Winston pass short right to A.Humphries to TB 14 for 2 yards (Z.Brown).,18,3,-6,TB 12,0,TB,
+14,2396,0,08:02,"R.Succop kicks 65 yards from TEN 35 to end zone, Touchback.",0,3,0,TEN 35,0,TEN,KICKOFF
+14,2415,1,08:02,"(8:02) D.Martin left guard to TB 31 for 11 yards (D.Searcy). PENALTY on TB-L.Mankins, Offensive Holding, 10 yards, enforced at TB 20 - No Play.",10,3,-10,TB 20,0,TB,PENALTY
+14,2511,4,05:43,"(5:43) (Punt formation) J.Schum punts 56 yards to TEN 30, Center-A.DePaola, downed by TB-B.Carter.",16,3,-6,TB 14,0,TB,PUNT
+17,2824,1,14:49,"(14:49) T.West right guard to TB 29 for 6 yards (W.Gholston). PENALTY on TEN, Illegal Formation, 5 yards, enforced at TB 35 - No Play.",10,4,-5,TB 35,0,TEN,PENALTY
+17,2877,2,13:41,"(13:41) T.West left guard to TB 29 for 6 yards (D.Swearinger, T.Jennings).",10,4,6,TB 35,0,TEN,
+17,2898,3,12:57,"(12:57) T.West left guard to TB 28 for 1 yard (L.David). FUMBLES (L.David), RECOVERED by TB-G.Johnson at TB 28. G.Johnson to TB 28 for no gain (T.West).",4,4,7,TB 29,0,TEN,FUMBLE
+17,2856,1,14:21,(14:21) D.McCluster left guard to TB 35 for 5 yards (D.Lansanah).,15,4,0,TB 40,0,TEN,
+16,2778,0,,END QUARTER 3,0,3,0,,0,,
+16,2735,2,00:33,(:33) J.Winston pass incomplete short right to V.Jackson (B.Wreh-Wilson).,11,3,-1,TB 1,0,TB,
+16,2703,1,00:50,"(:50) J.Lane right guard to TB 1 for no gain (D.Jones). Penalty on TB-G.Cherilus, Illegal Formation, declined.",11,3,-1,TB 1,0,TB,
+16,2757,3,00:28,"(:28) C.Sims right guard to TB 2 for 1 yard (K.Klug, D.Morgan).",11,3,0,TB 1,0,TB,
+16,2680,1,00:50,"(:50) PENALTY on TB-A.Seferian-Jenkins, False Start, 1 yard, enforced at TB 2 - No Play.",10,3,-1,TB 2,0,TB,PENALTY
+16,2794,4,15:00,"(15:00) (Punt formation) J.Schum punts 46 yards to TB 48, Center-A.DePaola. D.McCluster pushed ob at TB 35 for 13 yards (A.DePaola).",10,4,0,TB 2,0,TB,PUNT
+19,3207,1,09:18,(9:18) T.West up the middle to TEN 20 for no gain (A.Verner).,10,4,0,TEN 20,0,TEN,
+19,3258,2,08:05,(8:05) T.West right tackle to TEN 16 for 6 yards (D.Swearinger).,20,4,-4,TEN 10,0,TEN,
+19,3228,2,08:39,"(8:39) PENALTY on TEN-C.Warmack, Offensive Holding, 10 yards, enforced at TEN 20 - No Play.",10,4,-10,TEN 20,0,TEN,PENALTY
+19,3317,4,07:14,"(7:14) (Punt formation) B.Kern punts 45 yards to TB 39, Center-B.Brinkley. B.Rainey to TB 37 for -2 yards (M.Huff).",14,4,-4,TEN 16,0,TEN,PUNT
+19,3188,0,09:18,"K.Brindza kicks 65 yards from TB 35 to end zone, Touchback.",0,4,0,TB 35,0,TB,KICKOFF
+19,3300,0,07:14,Timeout #1 by TB at 07:14.,0,4,-4,,0,,TIMEOUT
+19,3279,3,07:20,"(7:20) T.West right tackle to TEN 16 for no gain (G.McCoy, D.Swearinger).",14,4,-4,TEN 16,0,TEN,
+18,2998,1,11:21,"(11:21) (No Huddle, Shotgun) J.Winston pass short right to A.Humphries to 50 for 12 yards (Z.Brown).",10,4,22,TB 38,0,TB,
+18,3123,3,09:55,(9:55) (Shotgun) J.Winston pass short right to A.Seferian-Jenkins pushed ob at TEN 41 for 8 yards (Z.Brown).,9,4,31,TEN 49,0,TB,
+18,2935,1,12:36,(12:36) C.Sims left tackle to TB 35 for 7 yards (D.Jones).,10,4,7,TB 28,0,TB,
+18,3022,1,11:21,"(11:21) (No Huddle, Shotgun) PENALTY on TEN-D.Morgan, Neutral Zone Infraction, 5 yards, enforced at 50 - No Play.",10,4,27,50,0,TB,PENALTY
+18,3066,2,10:28,(10:28) (No Huddle) J.Winston pass incomplete short left to A.Humphries.,4,4,28,TEN 44,0,TB,
+18,3147,4,09:30,"(9:30) (Shotgun) J.Winston pass short middle to A.Seferian-Jenkins for 41 yards, TOUCHDOWN.",1,4,72,TEN 41,1,TB,TD
+18,2956,2,12:14,(12:14) (No Huddle) C.Sims left tackle to TB 37 for 2 yards (D.Jones).,3,4,9,TB 35,0,TB,
+18,3172,0,09:18,"K.Brindza extra point is GOOD, Center-A.DePaola, Holder-J.Schum.",0,4,72,TEN 15,1,TB,XP
+18,3045,1,10:51,"(10:51) (No Huddle, Shotgun) C.Sims up the middle to TEN 44 for 1 yard (M.Griffin, M.Martin).",5,4,28,TEN 45,0,TB,
+18,2977,3,11:53,(11:53) (No Huddle) C.Sims right tackle to TB 38 for 1 yard (D.Searcy).,1,4,10,TB 37,0,TB,
+18,3088,3,10:23,"(10:23) (Shotgun) J.Winston pass short left to C.Sims to TEN 35 for 9 yards (M.Griffin). PENALTY on TB, Illegal Formation, 5 yards, enforced at TEN 44 - No Play.",4,4,23,TEN 44,0,TB,PENALTY

@@ -1,172 +1,172 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1542,0,03:58,,0,2,0,KC 35,0,KC,KICKOFF
-9,1596,1,03:22,,10,2,15,SD 33,0,SD,
-9,1575,1,03:50,,10,2,10,SD 23,0,SD,
-9,1617,2,02:57,,5,2,12,SD 38,0,SD,
-9,1638,3,02:11,,8,2,6,SD 35,0,SD,
-9,1674,4,02:00,,14,2,6,SD 29,0,SD,PUNT
-24,4135,1,00:04,,10,4,51,KC 10,0,SD,INT
-24,3923,2,01:55,,20,4,23,SD 46,0,SD,
-24,3906,0,01:55,,0,4,7,,0,,
-24,3993,2,01:10,,10,4,23,KC 29,0,SD,
-24,4112,1,00:14,,5,4,51,KC 5,0,SD,PENALTY
-24,4034,0,00:35,,0,4,23,,0,,TIMEOUT
-24,3849,1,02:23,,10,4,17,SD 39,0,SD,
-24,3971,1,01:16,,10,4,32,KC 29,0,SD,
-24,3873,1,01:59,,10,4,7,KC 44,0,SD,PENALTY
-24,4051,4,00:35,,19,4,51,KC 38,0,SD,
-24,4012,3,00:41,,19,4,23,KC 38,0,SD,
-24,3947,3,01:32,,4,4,32,KC 38,0,SD,
-24,4075,1,00:14,,10,4,56,KC 10,0,SD,PENALTY
-10,1699,1,01:45,,10,2,4,50,0,KC,
-10,1826,2,00:46,,7,2,41,SD 9,0,KC,
-10,1870,4,00:36,,7,2,41,SD 9,1,KC,FG
-10,1785,1,00:52,,10,2,41,SD 12,0,KC,
-10,1761,1,01:15,,10,2,38,SD 36,0,KC,
-10,1720,2,01:21,,6,2,14,SD 46,0,KC,
-10,1809,0,00:46,,0,2,41,,0,,TIMEOUT
-10,1744,0,01:15,,0,2,14,,0,,TIMEOUT
-10,1848,3,00:43,,7,2,41,SD 9,0,KC,
-20,3308,3,08:42,,3,4,57,KC 3,0,SD,
-20,3379,4,08:37,,3,4,57,KC 3,0,SD,
-20,3130,1,11:53,,10,4,34,KC 43,0,SD,
-20,3266,1,08:52,,3,4,57,KC 3,0,SD,
-20,3178,2,11:07,,1,4,47,KC 17,0,SD,
-20,3199,1,10:28,,10,4,47,KC 13,0,SD,
-20,3242,3,09:36,,4,4,57,KC 7,0,SD,
-20,3095,1,12:17,,10,4,17,SD 40,0,SD,
-20,3288,2,08:47,,3,4,57,KC 3,0,SD,
-20,3221,2,10:23,,10,4,53,KC 13,0,SD,
-20,3154,1,11:25,,10,4,43,KC 26,0,SD,
-6,1192,1,10:43,,10,2,0,KC 25,0,KC,
-6,1257,4,09:56,,12,2,-2,KC 23,0,KC,PUNT
-6,1170,0,10:50,,0,2,0,SD 35,0,SD,KICKOFF
-6,1214,2,10:38,,10,2,-2,KC 25,0,KC,
-6,1235,3,10:01,,12,2,-2,KC 23,0,KC,
-18,2726,2,02:47,,21,3,25,SD 43,0,SD,
-18,2831,3,00:36,,8,3,27,KC 34,0,SD,
-18,2656,1,04:36,,10,3,15,SD 39,0,SD,
-18,2680,1,03:59,,10,3,9,KC 46,0,SD,
-18,2774,2,01:27,,12,3,13,KC 38,0,SD,PENALTY
-18,2807,2,01:21,,22,3,27,KC 48,0,SD,
-18,2750,1,02:10,,10,3,23,KC 36,0,SD,
-18,2853,4,00:31,,8,3,27,KC 34,0,SD,FGM
-18,2699,2,03:10,,16,3,4,SD 48,0,SD,PENALTY
-1,97,2,14:01,,4,1,18,SD 37,0,SD,
-1,76,1,14:30,,10,1,17,SD 31,0,SD,
-1,140,4,13:11,,3,1,18,SD 38,0,SD,PUNT
-1,55,1,15:00,,10,1,11,SD 20,0,SD,
-1,118,3,13:15,,3,1,18,SD 38,0,SD,
-1,36,0,15:00,,0,1,0,KC 35,0,KC,KICKOFF
-5,1038,2,12:38,,10,2,13,SD 31,0,SD,
-5,1154,0,10:50,,0,2,69,KC 2,1,SD,XP
-5,1108,1,11:02,,10,2,68,KC 45,0,SD,
-5,1062,1,12:02,,10,2,22,SD 44,0,SD,
-5,1021,0,12:38,,0,2,0,,0,,TIMEOUT
-5,977,0,12:50,,0,2,0,KC 35,0,KC,KICKOFF
-5,1087,2,11:36,,1,2,24,KC 47,0,SD,
-5,999,1,12:43,,10,2,0,SD 31,0,SD,
-5,1132,1,10:53,,1,2,69,KC 1,1,SD,TD
-13,2109,3,13:07,,7,3,15,KC 40,0,KC,
-13,2044,1,14:55,,10,3,12,KC 25,0,KC,
-13,2086,2,13:46,,7,3,15,KC 40,0,KC,
-13,2138,4,13:01,,7,3,15,KC 40,0,KC,PUNT
-13,2065,1,14:18,,10,3,15,KC 37,0,KC,
-13,2022,0,15:00,,0,3,0,SD 35,0,SD,KICKOFF
-21,3426,2,07:56,,3,4,2,KC 10,0,KC,PENALTY
-21,3504,4,06:49,,3,4,7,KC 10,0,KC,PUNT
-21,3458,2,07:35,,8,4,7,KC 5,0,KC,
-21,3482,3,06:52,,3,4,7,KC 10,0,KC,
-21,3405,1,08:32,,10,4,7,KC 3,0,KC,
-23,3740,2,03:25,,13,4,1,KC 18,0,KC,
-23,3761,0,03:21,,0,4,1,,0,,TIMEOUT
-23,3702,1,03:33,,10,4,-3,KC 21,0,KC,
-23,3778,3,03:21,,9,4,-2,KC 22,0,KC,
-23,3799,0,02:35,,0,4,-2,,0,,TIMEOUT
-23,3723,0,03:28,,0,4,-3,,0,,TIMEOUT
-23,3824,4,02:33,,12,4,-2,KC 19,0,KC,PUNT
-11,1949,1,00:21,,10,2,18,SD 35,0,SD,INT
-11,1889,0,00:33,,0,2,0,KC 35,0,KC,KICKOFF
-11,1911,1,00:28,,10,2,18,SD 17,0,SD,
-11,1932,0,00:21,,0,2,18,,0,,TIMEOUT
-14,2192,2,12:16,,3,3,15,SD 9,0,SD,
-14,2171,1,12:50,,10,3,7,SD 2,0,SD,
-14,2216,1,11:35,,10,3,15,SD 17,0,SD,FUMBLE
-8,1459,1,06:07,,8,2,3,SD 8,0,KC,
-8,1523,4,04:01,,3,2,5,SD 3,1,KC,FG
-8,1480,2,05:26,,5,2,-3,SD 5,0,KC,
-8,1499,3,04:45,,11,2,5,SD 11,0,KC,
-19,2958,1,13:38,,10,4,36,SD 21,0,KC,
-19,3018,3,12:57,,11,4,26,SD 22,0,KC,PENALTY
-19,2910,2,15:00,,8,4,7,KC 44,0,KC,
-19,2934,3,14:18,,3,4,37,KC 49,0,KC,
-19,2873,1,00:26,,10,3,2,KC 42,0,KC,
-19,3053,3,12:28,,21,4,26,SD 32,0,KC,
-19,3001,0,12:57,,0,4,36,,0,,TIMEOUT
-19,3075,4,12:22,,21,4,26,SD 32,0,KC,FGM
-19,2979,2,13:02,,11,4,36,SD 22,0,KC,
-22,3527,1,06:42,,10,4,2,SD 48,0,SD,
-22,3681,4,03:37,,1,4,32,KC 20,0,SD,
-22,3617,1,04:40,,10,4,32,KC 29,0,SD,
-22,3660,3,04:02,,1,4,32,KC 20,0,SD,
-22,3548,2,06:04,,8,4,11,50,0,SD,
-22,3572,1,05:33,,10,4,19,KC 41,0,SD,
-22,3596,2,05:11,,2,4,23,KC 33,0,SD,
-22,3638,2,04:10,,1,4,32,KC 20,0,SD,
-12,1985,1,00:12,,10,2,0,KC 20,0,KC,
-16,2466,1,08:16,,10,3,-2,SD 29,0,SD,
-16,2487,2,07:37,,12,3,-10,SD 27,0,SD,
-16,2530,4,06:20,,12,3,-2,SD 27,0,SD,PUNT
-16,2444,0,08:24,,0,3,0,KC 35,0,KC,KICKOFF
-16,2506,3,06:56,,20,3,-2,SD 19,0,SD,
-7,1413,3,06:56,,26,2,0,SD 6,0,SD,
-7,1373,1,08:02,,20,2,0,SD 12,0,SD,
-7,1338,1,08:33,,10,2,0,SD 22,0,SD,PENALTY
-7,1293,1,09:44,,10,2,5,SD 12,0,SD,
-7,1317,2,09:17,,5,2,10,SD 17,0,SD,
-7,1434,4,06:23,,20,2,0,SD 12,0,SD,PUNT
-7,1394,2,07:23,,20,2,0,SD 12,0,SD,
-3,542,1,05:15,,10,1,34,KC 49,0,SD,
-3,518,2,05:15,,9,1,34,SD 21,0,SD,
-3,563,2,04:07,,7,1,37,KC 46,0,SD,
-3,462,1,06:33,,10,1,-5,SD 20,0,SD,PENALTY
-3,607,4,02:43,,11,1,30,50,0,SD,PUNT
-3,584,3,03:20,,4,1,30,KC 43,0,SD,
-3,443,0,06:33,,0,1,0,KC 35,0,KC,KICKOFF
-3,494,1,06:04,,15,1,1,SD 15,0,SD,
-17,2631,4,04:49,,15,3,-5,KC 13,0,KC,PUNT
-17,2569,1,06:11,,10,3,3,KC 18,0,KC,
-17,2590,2,05:38,,7,3,3,KC 21,0,KC,
-17,2612,3,05:34,,7,3,-5,KC 21,0,KC,
-4,733,2,00:13,,1,1,54,SD 42,0,KC,
-4,895,2,12:56,,7,2,94,SD 11,1,KC,TD
-4,664,2,01:57,,1,1,29,KC 15,0,KC,
-4,868,1,13:26,,10,2,83,SD 14,0,KC,
-4,712,1,00:52,,10,1,54,KC 49,0,KC,
-4,643,1,02:29,,10,1,9,KC 6,0,KC,
-4,791,1,14:28,,10,2,94,SD 29,0,KC,
-4,835,2,13:34,,1,2,94,SD 20,0,KC,PENALTY
-4,812,2,14:28,,5,2,94,SD 24,0,KC,PENALTY
-4,688,1,01:24,,10,1,43,KC 35,0,KC,
-4,770,1,15:00,,10,2,65,SD 40,0,KC,
-4,915,0,12:50,,0,2,94,SD 2,1,KC,XP
-2,302,1,09:22,,10,1,55,SD 36,0,KC,
-2,395,4,06:39,,6,1,54,SD 20,0,KC,PENALTY
-2,281,2,10:01,,5,1,43,KC 46,0,KC,
-2,347,2,08:05,,9,1,51,SD 23,0,KC,
-2,326,1,08:47,,10,1,56,SD 24,0,KC,
-2,371,3,07:28,,14,1,59,SD 28,0,KC,
-2,218,1,11:53,,10,1,13,KC 31,0,KC,
-2,260,1,10:44,,10,1,25,KC 41,0,KC,
-2,424,4,06:38,,11,1,54,SD 25,1,KC,FG
-2,239,2,11:21,,7,1,20,KC 34,0,KC,
-2,189,2,12:28,,7,1,10,KC 24,0,KC,
-2,165,1,12:59,,10,1,3,KC 21,0,KC,
-15,2350,2,09:13,,10,3,4,SD 10,0,KC,
-15,2333,2,09:29,,5,3,7,SD 5,0,KC,PENALTY
-15,2267,2,11:21,,10,3,7,SD 17,0,KC,
-15,2425,4,08:28,,13,3,4,SD 13,1,KC,FG
-15,2312,1,10:03,,5,3,12,SD 5,0,KC,
-15,2245,1,11:25,,10,3,0,SD 17,0,KC,
-15,2291,3,10:49,,3,3,12,SD 10,0,KC,
-15,2403,3,08:30,,13,3,4,SD 13,0,KC,
+24,3923,2,01:55,(1:55) (Shotgun) P.Rivers pass deep middle to D.Inman to KC 38 for 16 yards (S.Smith).,20,4,23,SD 46,0,SD,
+24,3906,0,01:55,Two-Minute Warning,0,4,7,,0,,
+24,4051,4,00:35,(:35) (Shotgun) P.Rivers pass deep left to D.Inman to KC 10 for 28 yards (H.Abdullah).,19,4,51,KC 38,0,SD,
+24,4075,1,00:14,"(:14) (No Huddle, Shotgun) P.Rivers pass deep left intended for D.Inman INTERCEPTED by S.Smith at KC -8. S.Smith pushed ob at KC 30 for 38 yards (T.Robinson). PENALTY on KC-A.Bailey, Defensive Offside, 5 yards, enforced at KC 10 - No Play.",10,4,56,KC 10,0,SD,PENALTY
+24,4012,3,00:41,"(:41) (No Huddle, Shotgun) P.Rivers pass incomplete deep right to M.Floyd.",19,4,23,KC 38,0,SD,
+24,3873,1,01:59,"(1:59) (No Huddle) P.Rivers pass incomplete short right to M.Floyd. PENALTY on SD-P.Rivers, Intentional Grounding, 10 yards, enforced at KC 44.",10,4,7,KC 44,0,SD,PENALTY
+24,4135,1,00:04,(:04) (Shotgun) P.Rivers pass deep middle intended for A.Gates INTERCEPTED by K.Coleman at KC -9. Touchback.,10,4,51,KC 10,0,SD,INT
+24,3947,3,01:32,"(1:32) (No Huddle, Shotgun) P.Rivers pass short left to D.Inman to KC 29 for 9 yards (S.Smith).",4,4,32,KC 38,0,SD,
+24,3971,1,01:16,"(1:16) (No Huddle, Shotgun) P.Rivers pass incomplete deep right to M.Floyd.",10,4,32,KC 29,0,SD,
+24,4112,1,00:14,"(:14) (Shotgun) PENALTY on SD-S.Ajirotutu, False Start, 5 yards, enforced at KC 5 - No Play.",5,4,51,KC 5,0,SD,PENALTY
+24,4034,0,00:35,Timeout #2 by KC at 00:35.,0,4,23,,0,,TIMEOUT
+24,3849,1,02:23,(2:23) (Shotgun) P.Rivers pass short right to M.Floyd to KC 44 for 17 yards (H.Abdullah).,10,4,17,SD 39,0,SD,
+24,3993,2,01:10,(1:10) (Shotgun) P.Rivers sacked at KC 38 for -9 yards (J.Houston).,10,4,23,KC 29,0,SD,
+20,3379,4,08:37,(8:37) (Shotgun) P.Rivers pass incomplete short right to A.Gates (H.Abdullah).,3,4,57,KC 3,0,SD,
+20,3242,3,09:36,"(9:36) (No Huddle, Shotgun) P.Rivers pass short middle to M.Floyd to KC 3 for 4 yards (J.Mauga).",4,4,57,KC 7,0,SD,
+20,3095,1,12:17,"(12:17) (Shotgun) P.Rivers pass short left to A.Gates to KC 43 for 17 yards (R.Parker). Penalty on KC-H.Abdullah, Illegal Contact, declined.",10,4,17,SD 40,0,SD,
+20,3221,2,10:23,"(10:23) (No Huddle, Shotgun) D.Brown up the middle to KC 7 for 6 yards (K.Coleman).",10,4,53,KC 13,0,SD,
+20,3266,1,08:52,"(8:52) (No Huddle, Shotgun) P.Rivers pass incomplete short left to E.Royal.",3,4,57,KC 3,0,SD,
+20,3178,2,11:07,"(11:07) (No Huddle, Shotgun) D.Brown up the middle to KC 13 for 4 yards (H.Abdullah).",1,4,47,KC 17,0,SD,
+20,3288,2,08:47,"(8:47) (No Huddle, Shotgun) P.Rivers pass short middle to E.Royal for 3 yards, TOUCHDOWN. The Replay Official challenged the pass completion ruling, and the play was REVERSED. (No Huddle, Shotgun) P.Rivers pass incomplete short middle to E.Royal.",3,4,57,KC 3,0,SD,
+20,3130,1,11:53,"(11:53) (No Huddle, Shotgun) P.Rivers pass deep right to D.Inman ran ob at KC 26 for 17 yards.",10,4,34,KC 43,0,SD,
+20,3308,3,08:42,(8:42) (Shotgun) P.Rivers pass incomplete short left to E.Royal (R.Parker). SD-E.Royal was injured during the play.,3,4,57,KC 3,0,SD,
+20,3154,1,11:25,"(11:25) (No Huddle, Shotgun) P.Rivers pass short right to D.Inman pushed ob at KC 17 for 9 yards (J.Fleming).",10,4,43,KC 26,0,SD,
+20,3199,1,10:28,"(10:28) (No Huddle, Shotgun) P.Rivers pass incomplete short middle to M.Floyd.",10,4,47,KC 13,0,SD,
+21,3504,4,06:49,"(6:49) D.Colquitt punts 42 yards to SD 48, Center-T.Gafford, fair catch by C.Davis.",3,4,7,KC 10,0,KC,PUNT
+21,3458,2,07:35,(7:35) C.Daniel pass short middle to T.Kelce to KC 10 for 5 yards (M.Te'o).,8,4,7,KC 5,0,KC,
+21,3482,3,06:52,(6:52) (Shotgun) C.Daniel pass incomplete short left to T.Kelce.,3,4,7,KC 10,0,KC,
+21,3405,1,08:32,(8:32) K.Davis up the middle to KC 10 for 7 yards (M.Te'o; J.Addae).,10,4,7,KC 3,0,KC,
+21,3426,2,07:56,"(7:56) K.Davis right end to KC 15 for 5 yards (K.Conner). PENALTY on KC-Z.Fulton, Offensive Holding, 5 yards, enforced at KC 10 - No Play.",3,4,2,KC 10,0,KC,PENALTY
+22,3596,2,05:11,"(5:11) (No Huddle, Shotgun) D.Brown up the middle to KC 29 for 4 yards (J.Houston).",2,4,23,KC 33,0,SD,
+22,3638,2,04:10,"(4:10) (No Huddle, Shotgun) P.Rivers pass incomplete deep left to M.Floyd.",1,4,32,KC 20,0,SD,
+22,3617,1,04:40,"(4:40) (No Huddle, Shotgun) D.Brown right guard to KC 20 for 9 yards (K.Coleman).",10,4,32,KC 29,0,SD,
+22,3681,4,03:37,"(3:37) (No Huddle, Shotgun) D.Brown up the middle to KC 20 for no gain (H.Abdullah).",1,4,32,KC 20,0,SD,
+22,3548,2,06:04,"(6:04) (No Huddle, Shotgun) P.Rivers pass short middle to S.Ajirotutu to KC 41 for 9 yards (C.Owens).",8,4,11,50,0,SD,
+22,3572,1,05:33,"(5:33) (No Huddle, Shotgun) P.Rivers pass short left to M.Floyd to KC 33 for 8 yards (S.Smith).",10,4,19,KC 41,0,SD,
+22,3527,1,06:42,(6:42) (Shotgun) P.Rivers scrambles right end to 50 for 2 yards (T.Hali).,10,4,2,SD 48,0,SD,
+22,3660,3,04:02,"(4:02) (No Huddle, Shotgun) D.Brown up the middle to KC 20 for no gain (H.Abdullah; J.Fleming).",1,4,32,KC 20,0,SD,
+23,3761,0,03:21,Timeout #3 by SD at 03:21.,0,4,1,,0,,TIMEOUT
+23,3824,4,02:33,"(2:33) D.Colquitt punts 46 yards to SD 35, Center-T.Gafford. C.Davis to SD 39 for 4 yards (J.Mays).",12,4,-2,KC 19,0,KC,PUNT
+23,3799,0,02:35,Timeout #1 by KC at 02:35.,0,4,-2,,0,,TIMEOUT
+23,3778,3,03:21,(3:21) K.Davis left tackle to KC 19 for -3 yards (E.Weddle).,9,4,-2,KC 22,0,KC,
+23,3740,2,03:25,(3:25) K.Davis up the middle to KC 22 for 4 yards (M.Te'o).,13,4,1,KC 18,0,KC,
+23,3702,1,03:33,(3:33) K.Davis up the middle to KC 18 for -3 yards (K.Conner).,10,4,-3,KC 21,0,KC,
+23,3723,0,03:28,Timeout #2 by SD at 03:28.,0,4,-3,,0,,TIMEOUT
+1,140,4,13:11,"(13:11) M.McBriar punts 43 yards to KC 19, Center-M.Windt. D.Thomas to KC 21 for 2 yards (D.Stuckey; D.Inman).",3,1,18,SD 38,0,SD,PUNT
+1,55,1,15:00,(15:00) B.Oliver right end to SD 31 for 11 yards (J.Mays).,10,1,11,SD 20,0,SD,
+1,36,0,15:00,"C.Santos kicks 65 yards from KC 35 to end zone, Touchback.",0,1,0,KC 35,0,KC,KICKOFF
+1,76,1,14:30,(14:30) (No Huddle) B.Oliver right tackle to SD 37 for 6 yards (J.Fleming; J.Mauga).,10,1,17,SD 31,0,SD,
+1,118,3,13:15,"(13:15) (No Huddle, Shotgun) P.Rivers pass incomplete short right to D.Inman (J.Houston).",3,1,18,SD 38,0,SD,
+1,97,2,14:01,(14:01) (Shotgun) B.Oliver left guard to SD 38 for 1 yard (A.Bailey).,4,1,18,SD 37,0,SD,
+3,584,3,03:20,"(3:20) (No Huddle, Shotgun) P.Rivers sacked at 50 for -7 yards (sack split by J.Mauga and D.Ford).",4,1,30,KC 43,0,SD,
+3,443,0,06:33,"C.Santos kicks 65 yards from KC 35 to end zone, Touchback.",0,1,0,KC 35,0,KC,KICKOFF
+3,563,2,04:07,(4:07) (No Huddle) B.Oliver up the middle to KC 43 for 3 yards (J.Mauga).,7,1,37,KC 46,0,SD,
+3,607,4,02:43,"(2:43) M.McBriar punts 42 yards to KC 8, Center-M.Windt. D.Thomas to KC 12 for 4 yards (D.Stuckey). PENALTY on KC-K.McCray, Illegal Block Above the Waist, 6 yards, enforced at KC 12.",11,1,30,50,0,SD,PUNT
+3,462,1,06:33,"(6:33) B.Oliver up the middle to SD 20 for no gain (T.Hali). PENALTY on SD-E.Royal, Illegal Shift, 5 yards, enforced at SD 20 - No Play.",10,1,-5,SD 20,0,SD,PENALTY
+3,542,1,05:15,"(5:15) (No Huddle, Shotgun) B.Oliver left end to KC 46 for 3 yards (T.Hali).",10,1,34,KC 49,0,SD,
+3,518,2,05:15,"(5:15) (No Huddle, Shotgun) P.Rivers pass deep left to E.Royal to KC 49 for 30 yards (C.Owens).",9,1,34,SD 21,0,SD,
+3,494,1,06:04,(6:04) (Shotgun) P.Rivers pass short right to B.Oliver to SD 21 for 6 yards (J.Mauga; R.Parker).,15,1,1,SD 15,0,SD,
+2,347,2,08:05,(8:05) (Shotgun) C.Daniel pass short left to D.Thomas to SD 28 for -5 yards (M.Gilchrist).,9,1,51,SD 23,0,KC,
+2,302,1,09:22,(9:22) (Shotgun) C.Daniel pass short left to D.Bowe to SD 24 for 12 yards (M.Te'o; B.Flowers).,10,1,55,SD 36,0,KC,
+2,218,1,11:53,(11:53) J.Charles right tackle to KC 34 for 3 yards (K.Conner).,10,1,13,KC 31,0,KC,
+2,371,3,07:28,(7:28) (Shotgun) C.Daniel pass short right to T.Kelce to SD 20 for 8 yards (J.Addae).,14,1,59,SD 28,0,KC,
+2,260,1,10:44,(10:44) (Shotgun) J.Charles left tackle to KC 46 for 5 yards (J.Addae).,10,1,25,KC 41,0,KC,
+2,326,1,08:47,(8:47) (Shotgun) J.Charles right tackle to SD 23 for 1 yard (C.Liuget).,10,1,56,SD 24,0,KC,
+2,239,2,11:21,(11:21) (Shotgun) C.Daniel left guard to KC 41 for 7 yards (E.Weddle).,7,1,20,KC 34,0,KC,
+2,395,4,06:39,"(6:39) (Field Goal formation) PENALTY on KC-R.Hudson, False Start, 5 yards, enforced at SD 20 - No Play.",6,1,54,SD 20,0,KC,PENALTY
+2,281,2,10:01,(10:01) D.Thomas right tackle to SD 36 for 18 yards (B.Flowers).,5,1,43,KC 46,0,KC,
+2,165,1,12:59,(12:59) (Shotgun) C.Daniel pass short middle to J.Charles to KC 24 for 3 yards (M.Te'o).,10,1,3,KC 21,0,KC,
+2,189,2,12:28,(12:28) C.Daniel pass short left to J.Avant ran ob at KC 31 for 7 yards.,7,1,10,KC 24,0,KC,
+2,424,4,06:38,"(6:38) C.Santos 43 yard field goal is GOOD, Center-T.Gafford, Holder-D.Colquitt.",11,1,54,SD 25,1,KC,FG
+5,977,0,12:50,C.Santos kicks 47 yards from KC 35 to SD 18. T.Williams to SD 31 for 13 yards (J.Johnson).,0,2,0,KC 35,0,KC,KICKOFF
+5,1087,2,11:36,"(11:36) (No Huddle, Shotgun) B.Oliver up the middle to KC 45 for 2 yards (J.Mauga; D.Poe).",1,2,24,KC 47,0,SD,
+5,1021,0,12:38,Timeout #1 by SD at 12:38.,0,2,0,,0,,TIMEOUT
+5,1132,1,10:53,"(10:53) B.Oliver right guard for 1 yard, TOUCHDOWN.",1,2,69,KC 1,1,SD,TD
+5,1062,1,12:02,(12:02) (No Huddle) B.Oliver up the middle to KC 47 for 9 yards (H.Abdullah; J.Mays).,10,2,22,SD 44,0,SD,
+5,999,1,12:43,(12:43) (Shotgun) P.Rivers pass incomplete short right to D.Inman.,10,2,0,SD 31,0,SD,
+5,1038,2,12:38,(12:38) (Shotgun) P.Rivers pass short right to E.Royal to SD 44 for 13 yards (C.Owens).,10,2,13,SD 31,0,SD,
+5,1154,0,10:50,"N.Novak extra point is GOOD, Center-M.Windt, Holder-M.McBriar.",0,2,69,KC 2,1,SD,XP
+5,1108,1,11:02,"(11:02) (No Huddle, Shotgun) P.Rivers pass deep right to E.Royal pushed ob at KC 1 for 44 yards (J.Fleming).",10,2,68,KC 45,0,SD,
+4,868,1,13:26,(13:26) C.Daniel pass short left to D.Thomas to SD 11 for 3 yards (S.Wright). SD-M.Gilchrist was injured during the play.,10,2,83,SD 14,0,KC,
+4,770,1,15:00,(15:00) K.Davis right end pushed ob at SD 29 for 11 yards (M.Te'o).,10,2,65,SD 40,0,KC,
+4,791,1,14:28,(14:28) K.Davis up the middle to SD 24 for 5 yards (M.Gilchrist).,10,2,94,SD 29,0,KC,
+4,835,2,13:34,"(13:34) (Shotgun) C.Daniel pass incomplete short right to A.Wilson. PENALTY on SD-S.Wright, Defensive Pass Interference, 6 yards, enforced at SD 20 - No Play.",1,2,94,SD 20,0,KC,PENALTY
+4,664,2,01:57,(1:57) (Shotgun) C.Daniel pass short right to T.Kelce pushed ob at KC 35 for 20 yards (M.Gilchrist).,1,1,29,KC 15,0,KC,
+4,643,1,02:29,(2:29) J.Charles up the middle to KC 15 for 9 yards (E.Weddle).,10,1,9,KC 6,0,KC,
+4,712,1,00:52,(:52) (Shotgun) C.Daniel scrambles up the middle to SD 42 for 9 yards (M.Te'o).,10,1,54,KC 49,0,KC,
+4,733,2,00:13,(:13) J.Charles right guard to SD 40 for 2 yards (M.Te'o; S.Lissemore).,1,1,54,SD 42,0,KC,
+4,688,1,01:24,(1:24) (Shotgun) C.Daniel pass short left to T.Kelce to KC 49 for 14 yards (J.Addae).,10,1,43,KC 35,0,KC,
+4,915,0,12:50,"C.Santos extra point is GOOD, Center-T.Gafford, Holder-D.Colquitt.",0,2,94,SD 2,1,KC,XP
+4,812,2,14:28,"(14:28) (Shotgun) PENALTY on SD-M.Ingram, Neutral Zone Infraction, 4 yards, enforced at SD 24 - No Play. Officials mismarked ball. Penalty was only 4 yards.",5,2,94,SD 24,0,KC,PENALTY
+4,895,2,12:56,"(12:56) (Shotgun) C.Daniel pass short left to D.Bowe for 11 yards, TOUCHDOWN. The Replay Official challenged the runner broke the plane ruling, and the play was REVERSED. (Shotgun) C.Daniel pass short left to D.Bowe to SD 1 for 10 yards (E.Weddle, J.Addae). FUMBLES (J.Addae), recovered by KC-T.Kelce at SD -8. TOUCHDOWN.",7,2,94,SD 11,1,KC,TD
+7,1317,2,09:17,(9:17) D.Brown up the middle to SD 22 for 5 yards (J.Mays).,5,2,10,SD 17,0,SD,
+7,1434,4,06:23,"(6:23) M.McBriar punts 37 yards to SD 49, Center-M.Windt. D.Thomas pushed ob at SD 8 for 41 yards (J.Phillips).",20,2,0,SD 12,0,SD,PUNT
+7,1413,3,06:56,"(6:56) (No Huddle, Shotgun) D.Brown up the middle to SD 12 for 6 yards (A.Bailey).",26,2,0,SD 6,0,SD,
+7,1338,1,08:33,"(8:33) P.Rivers pass short left to D.Johnson to SD 33 for 11 yards (D.Poe). PENALTY on SD-C.Rinehart, Offensive Holding, 10 yards, enforced at SD 22 - No Play.",10,2,0,SD 22,0,SD,PENALTY
+7,1373,1,08:02,(8:02) (Shotgun) D.Brown right end pushed ob at SD 12 for no gain (R.Parker).,20,2,0,SD 12,0,SD,
+7,1293,1,09:44,(9:44) D.Brown up the middle to SD 17 for 5 yards (D.Poe). SD-D.Fluker was injured during the play.,10,2,5,SD 12,0,SD,
+7,1394,2,07:23,"(7:23) (No Huddle, Shotgun) P.Rivers sacked at SD 6 for -6 yards (J.Houston).",20,2,0,SD 12,0,SD,
+6,1257,4,09:56,"(9:56) D.Colquitt punts 61 yards to SD 16, Center-T.Gafford. E.Royal to SD 29 for 13 yards (F.Zombo). PENALTY on SD-D.Stuckey, Illegal Block Above the Waist, 10 yards, enforced at SD 22.",12,2,-2,KC 23,0,KC,PUNT
+6,1235,3,10:01,(10:01) (Shotgun) C.Daniel pass incomplete deep middle to J.Avant [D.Freeney].,12,2,-2,KC 23,0,KC,
+6,1192,1,10:43,(10:43) C.Daniel pass incomplete deep right to D.Bowe.,10,2,0,KC 25,0,KC,
+6,1214,2,10:38,(10:38) (Shotgun) J.Charles up the middle to KC 23 for -2 yards (J.Johnson).,10,2,-2,KC 25,0,KC,
+6,1170,0,10:50,N.Novak kicks 68 yards from SD 35 to KC -3. K.Davis to KC 25 for 28 yards (T.Williams).,0,2,0,SD 35,0,SD,KICKOFF
+9,1542,0,03:58,C.Santos kicks 64 yards from KC 35 to SD 1. C.Davis to SD 23 for 22 yards (J.Johnson).,0,2,0,KC 35,0,KC,KICKOFF
+9,1638,3,02:11,"(2:11) (No Huddle, Shotgun) P.Rivers sacked at SD 29 for -6 yards (J.Houston).",8,2,6,SD 35,0,SD,
+9,1617,2,02:57,"(2:57) (No Huddle, Shotgun) B.Oliver left tackle to SD 35 for -3 yards (J.Mauga).",5,2,12,SD 38,0,SD,
+9,1596,1,03:22,"(3:22) (No Huddle, Shotgun) B.Oliver up the middle to SD 38 for 5 yards (J.Mays).",10,2,15,SD 33,0,SD,
+9,1674,4,02:00,"(2:00) M.McBriar punts 43 yards to KC 28, Center-M.Windt. D.Thomas to 50 for 22 yards (K.Conner; D.Stuckey).",14,2,6,SD 29,0,SD,PUNT
+9,1575,1,03:50,(3:50) B.Oliver left tackle to SD 33 for 10 yards (S.Smith).,10,2,10,SD 23,0,SD,
+8,1499,3,04:45,(4:45) (Shotgun) C.Daniel pass short left to D.Bowe to SD 3 for 8 yards (E.Weddle).,11,2,5,SD 11,0,KC,
+8,1480,2,05:26,(5:26) (Shotgun) C.Daniel sacked at SD 11 for -6 yards (D.Freeney).,5,2,-3,SD 5,0,KC,
+8,1459,1,06:07,(6:07) J.Charles up the middle to SD 5 for 3 yards (J.Addae).,8,2,3,SD 8,0,KC,
+8,1523,4,04:01,"(4:01) C.Santos 21 yard field goal is GOOD, Center-T.Gafford, Holder-D.Colquitt.",3,2,5,SD 3,1,KC,FG
+11,1911,1,00:28,(:28) (Shotgun) B.Oliver up the middle to SD 35 for 18 yards (C.Owens).,10,2,18,SD 17,0,SD,
+11,1932,0,00:21,Timeout #2 by SD at 00:21.,0,2,18,,0,,TIMEOUT
+11,1949,1,00:21,(:21) (Shotgun) P.Rivers pass deep right intended for E.Royal INTERCEPTED by K.Coleman at KC 20. K.Coleman to KC 20 for no gain (E.Royal).,10,2,18,SD 35,0,SD,INT
+11,1889,0,00:33,C.Santos kicks 63 yards from KC 35 to SD 2. C.Davis to SD 17 for 15 yards (D.Sorensen).,0,2,0,KC 35,0,KC,KICKOFF
+10,1848,3,00:43,(:43) (Shotgun) C.Daniel pass incomplete short right to A.Wilson [M.Ingram].,7,2,41,SD 9,0,KC,
+10,1826,2,00:46,(:46) (Shotgun) C.Daniel pass incomplete short right to A.Wilson.,7,2,41,SD 9,0,KC,
+10,1785,1,00:52,"(:52) (No Huddle, Shotgun) C.Daniel pass short middle to T.Kelce to SD 9 for 3 yards (M.Te'o).",10,2,41,SD 12,0,KC,
+10,1809,0,00:46,Timeout #2 by KC at 00:46.,0,2,41,,0,,TIMEOUT
+10,1720,2,01:21,"(1:21) (No Huddle, Shotgun) C.Daniel pass short middle to T.Kelce to SD 36 for 10 yards (S.Williams).",6,2,14,SD 46,0,KC,
+10,1870,4,00:36,"(:36) C.Santos 27 yard field goal is GOOD, Center-T.Gafford, Holder-D.Colquitt.",7,2,41,SD 9,1,KC,FG
+10,1744,0,01:15,Timeout #1 by KC at 01:15.,0,2,14,,0,,TIMEOUT
+10,1761,1,01:15,(1:15) (Shotgun) C.Daniel pass short left to T.Kelce to SD 12 for 24 yards (J.Addae).,10,2,38,SD 36,0,KC,
+10,1699,1,01:45,(1:45) (Shotgun) J.Charles left tackle to SD 46 for 4 yards (J.Attaochu; M.Te'o).,10,2,4,50,0,KC,
+13,2044,1,14:55,(14:55) J.Charles up the middle to KC 37 for 12 yards (J.Addae).,10,3,12,KC 25,0,KC,
+13,2086,2,13:46,(13:46) (Shotgun) C.Daniel sacked at KC 40 for 0 yards (A.Gachkar).,7,3,15,KC 40,0,KC,
+13,2138,4,13:01,"(13:01) D.Colquitt punts 56 yards to SD 4, Center-T.Gafford, out of bounds. PENALTY on SD-J.Addae, Offensive Holding, 2 yards, enforced at SD 4.",7,3,15,KC 40,0,KC,PUNT
+13,2109,3,13:07,(13:07) (Shotgun) C.Daniel pass incomplete short right to D.Bowe [M.Ingram].,7,3,15,KC 40,0,KC,
+13,2022,0,15:00,N.Novak kicks 67 yards from SD 35 to KC -2. K.Davis to KC 25 for 27 yards (C.Davis).,0,3,0,SD 35,0,SD,KICKOFF
+13,2065,1,14:18,(14:18) J.Charles up the middle to KC 40 for 3 yards (K.Reyes).,10,3,15,KC 37,0,KC,
+12,1985,1,00:12,(:12) C.Daniel kneels to KC 20 for no gain.,10,2,0,KC 20,0,KC,
+15,2333,2,09:29,"(9:29) (Shotgun) PENALTY on KC, Offensive 12 On-field, 5 yards, enforced at SD 5 - No Play.",5,3,7,SD 5,0,KC,PENALTY
+15,2291,3,10:49,(10:49) J.Charles up the middle to SD 5 for 5 yards (M.Te'o).,3,3,12,SD 10,0,KC,
+15,2312,1,10:03,(10:03) (Shotgun) K.Davis left end to SD 5 for no gain (A.Gachkar; Ric. Mathews).,5,3,12,SD 5,0,KC,
+15,2425,4,08:28,"(8:28) C.Santos 31 yard field goal is GOOD, Center-T.Gafford, Holder-D.Colquitt.",13,3,4,SD 13,1,KC,FG
+15,2403,3,08:30,(8:30) (Shotgun) C.Daniel pass incomplete short middle to J.Avant.,13,3,4,SD 13,0,KC,
+15,2245,1,11:25,(11:25) (Shotgun) C.Daniel pass incomplete short right to J.Charles.,10,3,0,SD 17,0,KC,
+15,2350,2,09:13,(9:13) (Shotgun) C.Daniel sacked at SD 13 for -3 yards (C.Liuget).,10,3,4,SD 10,0,KC,
+15,2267,2,11:21,(11:21) J.Charles left guard to SD 10 for 7 yards (K.Conner). SD-S.Wright was injured during the play.,10,3,7,SD 17,0,KC,
+14,2192,2,12:16,"(12:16) (No Huddle, Shotgun) P.Rivers pass short left to E.Royal to SD 17 for 8 yards (C.Owens).",3,3,15,SD 9,0,SD,
+14,2171,1,12:50,(12:50) B.Oliver right tackle to SD 9 for 7 yards (J.Mauga).,10,3,7,SD 2,0,SD,
+14,2216,1,11:35,"(11:35) (No Huddle, Shotgun) P.Rivers sacked at SD 14 for -3 yards (J.Houston). FUMBLES (J.Houston), RECOVERED by KC-J.Mays at SD 17.",10,3,15,SD 17,0,SD,FUMBLE
+17,2569,1,06:11,(6:11) K.Davis left guard to KC 21 for 3 yards (M.Te'o).,10,3,3,KC 18,0,KC,
+17,2631,4,04:49,"(4:49) D.Colquitt punts 51 yards to SD 36, Center-T.Gafford. E.Royal to SD 39 for 3 yards (D.Sorensen).",15,3,-5,KC 13,0,KC,PUNT
+17,2590,2,05:38,(5:38) C.Daniel pass incomplete short left to A.Wilson.,7,3,3,KC 21,0,KC,
+17,2612,3,05:34,(5:34) (Shotgun) C.Daniel sacked at KC 13 for -8 yards (M.Ingram).,7,3,-5,KC 21,0,KC,
+16,2487,2,07:37,"(7:37) (No Huddle, Shotgun) P.Rivers sacked at SD 19 for -8 yards (D.Poe).",12,3,-10,SD 27,0,SD,
+16,2466,1,08:16,(8:16) (Shotgun) B.Oliver left tackle to SD 27 for -2 yards (J.Howard).,10,3,-2,SD 29,0,SD,
+16,2530,4,06:20,"(6:20) M.McBriar punts 45 yards to KC 28, Center-M.Windt, out of bounds. PENALTY on KC-R.Gordon, Offensive Holding, 10 yards, enforced at KC 28.",12,3,-2,SD 27,0,SD,PUNT
+16,2444,0,08:24,C.Santos kicks 65 yards from KC 35 to SD 0. C.Davis to SD 29 for 29 yards (J.Johnson).,0,3,0,KC 35,0,KC,KICKOFF
+16,2506,3,06:56,(6:56) (Shotgun) P.Rivers pass short right to D.Brown to SD 27 for 8 yards (J.Fleming).,20,3,-2,SD 19,0,SD,
+19,2873,1,00:26,(:26) J.Charles up the middle to KC 44 for 2 yards (S.Lissemore).,10,3,2,KC 42,0,KC,
+19,2910,2,15:00,(15:00) C.Daniel pass short left to J.Charles to KC 49 for 5 yards (M.Te'o).,8,4,7,KC 44,0,KC,
+19,3018,3,12:57,"(12:57) (Shotgun) C.Daniel pass short middle to T.Kelce to SD 19 for 3 yards (E.Weddle). PENALTY on KC-E.Fisher, Illegal Use of Hands, 10 yards, enforced at SD 22 - No Play.",11,4,26,SD 22,0,KC,PENALTY
+19,2934,3,14:18,(14:18) (Shotgun) C.Daniel pass deep right to D.Thomas to SD 21 for 30 yards (C.Davis).,3,4,37,KC 49,0,KC,
+19,2979,2,13:02,(13:02) C.Daniel pass incomplete short right to R.Gordon.,11,4,36,SD 22,0,KC,
+19,2958,1,13:38,(13:38) K.Davis up the middle to SD 22 for -1 yards (K.Reyes; J.Johnson).,10,4,36,SD 21,0,KC,
+19,3075,4,12:22,"(12:22) C.Santos 50 yard field goal is No Good, Wide Left, Center-T.Gafford, Holder-D.Colquitt.",21,4,26,SD 32,0,KC,FGM
+19,3001,0,12:57,Timeout #1 by SD at 12:57.,0,4,36,,0,,TIMEOUT
+19,3053,3,12:28,(12:28) (Shotgun) C.Daniel pass incomplete deep left to A.Wilson.,21,4,26,SD 32,0,KC,
+18,2726,2,02:47,"(2:47) (No Huddle, Shotgun) P.Rivers pass deep middle to A.Gates to KC 36 for 21 yards (R.Parker).",21,3,25,SD 43,0,SD,
+18,2699,2,03:10,"(3:10) (No Huddle, Shotgun) PENALTY on SD-P.Rivers, Delay of Game, 5 yards, enforced at SD 48 - No Play.",16,3,4,SD 48,0,SD,PENALTY
+18,2853,4,00:31,"(:31) N.Novak 52 yard field goal is No Good, Wide Left, Center-M.Windt, Holder-M.McBriar.",8,3,27,KC 34,0,SD,FGM
+18,2774,2,01:27,"(1:27) (No Huddle, Shotgun) P.Rivers pass incomplete short left to D.Inman (S.Smith). PENALTY on SD-K.Dunlap, Offensive Holding, 10 yards, enforced at KC 38 - No Play.",12,3,13,KC 38,0,SD,PENALTY
+18,2656,1,04:36,(4:36) (Shotgun) P.Rivers pass short left to A.Gates to KC 46 for 15 yards (R.Parker).,10,3,15,SD 39,0,SD,
+18,2750,1,02:10,"(2:10) (No Huddle, Shotgun) P.Rivers pass short right to B.Oliver to KC 38 for -2 yards (J.Fleming).",10,3,23,KC 36,0,SD,
+18,2680,1,03:59,"(3:59) (No Huddle, Shotgun) P.Rivers sacked at SD 48 for -6 yards (A.Bailey).",10,3,9,KC 46,0,SD,
+18,2807,2,01:21,(1:21) (Shotgun) P.Rivers pass short left to A.Gates to KC 34 for 14 yards (C.Owens).,22,3,27,KC 48,0,SD,
+18,2831,3,00:36,"(:36) (No Huddle, Shotgun) P.Rivers pass incomplete deep middle to D.Inman (J.Fleming).",8,3,27,KC 34,0,SD,

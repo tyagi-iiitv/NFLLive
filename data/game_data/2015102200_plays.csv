@@ -1,158 +1,158 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1532,0,02:44,,0,2,0,SEA 35,0,SEA,KICKOFF
-9,1609,3,01:54,,18,2,-2,SF 13,0,SF,
-9,1554,1,02:36,,10,2,-4,SF 21,0,SF,
-9,1592,0,01:54,,0,2,-8,,0,,
-9,1644,4,01:49,,12,2,-2,SF 19,0,SF,PUNT
-9,1573,2,02:01,,14,2,-2,SF 17,0,SF,
-10,1730,0,01:10,,0,2,43,,0,,TIMEOUT
-10,1787,2,01:02,,12,2,53,SF 32,0,SEA,
-10,1811,1,00:57,,10,2,53,SF 20,0,SEA,
-10,1751,1,01:10,,10,2,41,SF 30,0,SEA,
-10,1678,1,01:41,,10,2,7,SEA 27,0,SEA,
-10,1702,2,01:19,,3,2,43,SEA 34,0,SEA,
-10,1837,2,00:52,,10,2,53,SF 20,0,SEA,INT
-10,1770,0,01:02,,0,2,41,,0,,TIMEOUT
-20,3360,4,03:53,,6,4,4,SEA 47,0,SEA,PUNT
-20,3259,1,04:08,,10,4,2,SEA 43,0,SEA,
-20,3280,0,04:00,,0,4,2,,0,,TIMEOUT
-20,3297,2,04:00,,8,4,4,SEA 45,0,SEA,
-20,3335,3,03:56,,6,4,4,SEA 47,0,SEA,
-20,3318,0,03:56,,0,4,4,,0,,TIMEOUT
-6,1076,4,09:43,,2,2,35,SF 31,1,SEA,FG
-6,1009,1,11:43,,10,2,29,SF 39,0,SEA,
-6,1055,3,10:24,,5,2,35,SF 34,0,SEA,
-6,1034,2,11:04,,8,2,32,SF 37,0,SEA,
-6,964,1,12:58,,10,2,4,SEA 34,0,SEA,
-6,985,2,12:21,,6,2,27,SEA 38,0,SEA,
-18,3081,2,06:24,,14,4,0,SEA 41,0,SEA,
-18,3102,3,05:44,,10,4,-9,SEA 45,0,SEA,
-18,3121,4,05:00,,19,4,-9,SEA 36,0,SEA,PUNT
-18,3060,1,07:06,,10,4,-4,SEA 45,0,SEA,
-1,75,2,14:32,,8,1,3,SF 22,0,SF,
-1,103,3,13:51,,7,1,3,SF 23,0,SF,
-1,51,1,15:00,,10,1,2,SF 20,0,SF,
-1,36,0,15:00,,0,1,0,SEA 35,0,SEA,KICKOFF
-1,129,4,13:47,,7,1,3,SF 23,0,SF,PUNT
-5,935,4,13:07,,14,2,23,SF 34,0,SF,PUNT
-5,780,1,00:59,,10,1,13,SF 11,0,SF,
-5,833,1,00:10,,5,1,27,SF 29,0,SF,
-5,870,1,15:00,,10,2,22,SF 38,0,SF,
-5,806,1,00:27,,10,1,27,SF 24,0,SF,PENALTY
-5,854,0,,,0,1,27,,0,,
-5,890,2,14:19,,15,2,19,SF 33,0,SF,
-5,911,3,13:42,,18,2,23,SF 30,0,SF,
-13,2118,1,11:00,,10,3,4,SF 26,0,SF,
-13,2168,3,09:50,,3,3,5,SF 33,0,SF,FUMBLE
-13,2201,4,09:09,,5,3,5,SF 31,0,SF,PUNT
-13,2143,2,10:30,,6,3,7,SF 30,0,SF,
-21,3377,1,03:42,,10,4,7,SF 20,0,SF,
-21,3449,4,03:13,,3,4,7,SF 27,0,SF,PUNT
-21,3401,2,03:19,,3,4,7,SF 27,0,SF,
-21,3427,3,03:16,,3,4,7,SF 27,0,SF,
-11,1917,0,,,0,2,-5,,0,,
-11,1863,1,00:43,,10,2,-5,SF 20,0,SF,
-11,1896,2,00:22,,24,2,-5,SF 6,0,SF,
-14,2248,2,08:28,,6,3,8,SEA 20,0,SEA,
-14,2273,3,07:49,,2,3,15,SEA 24,0,SEA,
-14,2297,1,07:11,,10,3,19,SEA 31,0,SEA,
-14,2219,1,09:02,,10,3,4,SEA 16,0,SEA,
-14,2322,2,06:34,,6,3,19,SEA 35,0,SEA,INT
-8,1402,1,04:26,,10,2,22,SEA 33,0,SEA,
-8,1357,1,05:41,,10,2,2,SEA 10,0,SEA,
-8,1492,1,02:53,,10,2,90,SF 43,1,SEA,TD
-8,1425,2,03:45,,11,2,17,SEA 32,0,SEA,PENALTY
-8,1516,0,02:44,,0,2,90,SF 15,1,SEA,XP
-8,1457,2,03:22,,16,2,47,SEA 27,0,SEA,PENALTY
-8,1378,2,05:03,,8,2,23,SEA 12,0,SEA,
-19,3175,2,04:26,,4,4,6,SF 16,0,SF,
-19,3201,3,04:22,,4,4,6,SF 16,0,SF,
-19,3234,4,04:16,,4,4,6,SF 16,0,SF,PUNT
-19,3151,1,04:52,,10,4,6,SF 10,0,SF,
-22,3615,2,01:19,,11,4,20,SEA 46,0,SEA,
-22,3657,0,00:00,,0,4,19,,0,,
-22,3577,0,02:00,,0,4,22,,0,,
-22,3467,1,03:05,,10,4,11,SEA 25,0,SEA,
-22,3526,2,02:12,,7,4,16,SEA 39,0,SEA,
-22,3509,0,02:12,,0,4,14,,0,,TIMEOUT
-22,3594,1,02:00,,10,4,21,SEA 47,0,SEA,
-22,3488,1,02:20,,10,4,14,SEA 36,0,SEA,
-22,3636,3,00:39,,12,4,19,SEA 45,0,SEA,
-22,3551,3,02:06,,5,4,22,SEA 41,0,SEA,
-12,2072,3,11:52,,26,3,12,SEA 30,0,SEA,
-12,1970,1,14:24,,10,3,26,SEA 34,0,SEA,
-12,1934,0,15:00,,0,3,0,SF 35,0,SF,KICKOFF
-12,2093,4,11:12,,24,3,12,SEA 32,0,SEA,PUNT
-12,1949,1,15:00,,10,3,14,SEA 20,0,SEA,
-12,2024,1,13:04,,25,3,12,SEA 31,0,SEA,
-12,1991,1,13:44,,10,3,12,SEA 46,0,SEA,PENALTY
-12,2053,2,12:37,,20,3,10,SEA 36,0,SEA,
-16,2644,1,01:15,,10,3,49,SEA 23,0,SEA,
-16,2937,4,09:29,,12,4,49,SF 28,1,SEA,FG
-16,2668,2,00:45,,5,3,14,SEA 28,0,SEA,
-16,2819,2,12:55,,7,4,43,SF 40,0,SEA,
-16,2894,2,10:52,,8,4,48,SF 24,0,SEA,
-16,2913,3,10:10,,13,4,49,SF 29,0,SEA,
-16,2721,0,,,0,3,8,,0,,
-16,2766,2,14:21,,8,4,34,SEA 39,0,SEA,
-16,2689,1,00:08,,10,3,8,SEA 37,0,SEA,PENALTY
-16,2615,0,01:21,,0,3,0,SF 35,0,SF,KICKOFF
-16,2873,1,11:36,,10,4,53,SF 26,0,SEA,
-16,2794,1,13:34,,10,4,37,SF 43,0,SEA,
-16,2848,3,12:16,,1,4,51,SF 34,0,SEA,
-16,2737,1,15:00,,16,4,34,SEA 31,0,SEA,
-7,1141,1,08:57,,10,2,17,SF 40,0,SF,
-7,1287,3,06:34,,10,2,33,SEA 36,0,SF,PENALTY
-7,1095,0,09:37,,0,2,0,SEA 35,0,SEA,KICKOFF
-7,1166,2,08:28,,7,2,25,SF 43,0,SF,
-7,1334,4,05:55,,14,2,34,SEA 40,0,SF,PUNT
-7,1218,2,07:26,,2,2,38,SEA 41,0,SF,
-7,1310,3,06:34,,15,2,34,SEA 41,0,SF,
-7,1117,1,09:31,,10,2,14,SF 26,0,SF,
-7,1190,1,07:58,,10,2,33,SEA 49,0,SF,
-7,1243,1,06:46,,10,2,38,SEA 36,0,SF,
-7,1265,2,06:43,,10,2,38,SEA 36,0,SF,
-3,526,4,06:01,,8,1,2,SF 34,0,SF,PUNT
-3,482,2,06:11,,8,1,2,SF 34,0,SF,
-3,504,3,06:06,,8,1,2,SF 34,0,SF,
-3,461,1,06:53,,10,1,2,SF 32,0,SF,
-3,439,0,07:01,,0,1,0,SEA 35,0,SEA,KICKOFF
-17,3020,3,07:52,,26,4,-10,SF 7,0,SF,
-17,2982,1,09:14,,10,4,-7,SF 23,0,SF,
-17,3001,2,08:32,,17,4,-16,SF 16,0,SF,
-17,3041,4,07:14,,20,4,-10,SF 13,0,SF,PUNT
-17,2960,0,09:23,,0,4,0,SEA 35,0,SEA,KICKOFF
-4,718,2,01:52,,12,1,35,SEA 47,0,SEA,
-4,604,3,04:31,,6,1,13,SEA 19,0,SEA,
-4,761,4,01:10,,9,1,35,50,0,SEA,PUNT
-4,695,2,02:16,,7,1,32,SF 48,0,SEA,PENALTY
-4,625,1,03:55,,10,1,17,SEA 28,0,SEA,
-4,562,1,05:51,,10,1,2,SEA 15,0,SEA,
-4,649,2,03:15,,6,1,34,SEA 32,0,SEA,
-4,583,2,05:15,,8,1,4,SEA 17,0,SEA,
-4,674,1,02:34,,10,1,37,SEA 49,0,SEA,
-4,739,3,01:14,,9,1,35,50,0,SEA,
-2,406,3,07:05,,1,1,61,SF 1,1,SEA,TD
-2,315,3,09:26,,1,1,58,SF 3,0,SEA,
-2,196,1,12:27,,10,1,38,SF 39,0,SEA,
-2,154,1,13:37,,10,1,5,SEA 39,0,SEA,
-2,220,1,11:57,,10,1,42,SF 23,0,SEA,
-2,294,2,10:01,,1,1,58,SF 3,0,SEA,
-2,423,0,07:01,,0,1,61,SF 15,1,SEA,XP
-2,269,1,10:37,,10,1,58,SF 12,0,SEA,
-2,384,2,07:11,,1,1,60,SF 1,0,SEA,
-2,340,4,08:49,,1,1,60,SF 3,0,SEA,
-2,175,2,13:04,,5,1,22,SEA 44,0,SEA,
-2,245,2,11:20,,6,1,49,SF 19,0,SEA,
-2,361,1,07:50,,1,1,60,SF 1,0,SEA,
-15,2553,2,02:04,,8,3,79,SEA 23,0,SF,
-15,2424,3,05:16,,10,3,13,SF 7,0,SF,
-15,2348,1,06:24,,10,3,76,SF 7,0,SF,PENALTY
-15,2402,2,05:20,,10,3,0,SF 7,0,SF,
-15,2574,3,01:31,,2,3,79,SEA 17,0,SF,
-15,2469,2,03:54,,9,3,41,SF 21,0,SF,
-15,2381,1,05:56,,13,3,76,SF 4,0,SF,
-15,2493,1,03:23,,10,3,71,SF 48,0,SF,
-15,2532,1,02:47,,10,3,73,SEA 25,0,SF,
-15,2448,1,04:39,,10,3,14,SF 20,0,SF,
-15,2596,4,01:26,,2,3,79,SEA 17,1,SF,FG
+20,3259,1,04:08,"(4:08) M.Lynch right guard to SEA 45 for 2 yards (I.Williams, G.Dorsey).",10,4,2,SEA 43,0,SEA,
+20,3360,4,03:53,"(3:53) J.Ryan punts 53 yards to end zone, Center-C.Gresham, Touchback.",6,4,4,SEA 47,0,SEA,PUNT
+20,3318,0,03:56,Timeout #2 by SF at 03:56.,0,4,4,,0,,TIMEOUT
+20,3335,3,03:56,(3:56) (Shotgun) R.Wilson pass incomplete short left to J.Graham. SF-J.Tartt was injured during the play. His return is Probable.,6,4,4,SEA 47,0,SEA,
+20,3297,2,04:00,(4:00) M.Lynch left guard to SEA 47 for 2 yards (M.Wilhoite).,8,4,4,SEA 45,0,SEA,
+20,3280,0,04:00,Timeout #1 by SF at 04:00.,0,4,2,,0,,TIMEOUT
+21,3377,1,03:42,(3:42) (Shotgun) C.Kaepernick pass short right to V.Davis to SF 27 for 7 yards (K.Chancellor). Caught at SF 26.  1-yd YAC,10,4,7,SF 20,0,SF,
+21,3401,2,03:19,"(3:19) (No Huddle, Shotgun) C.Kaepernick pass incomplete short right to Q.Patton.",3,4,7,SF 27,0,SF,
+21,3449,4,03:13,"(3:13) B.Pinion punts 48 yards to SEA 25, Center-K.Nelson, out of bounds.",3,4,7,SF 27,0,SF,PUNT
+21,3427,3,03:16,(3:16) (Shotgun) C.Kaepernick pass incomplete short left to A.Boldin (B.Wagner).,3,4,7,SF 27,0,SF,
+22,3467,1,03:05,(3:05) M.Lynch left tackle to SEA 36 for 11 yards (M.Wilhoite).,10,4,11,SEA 25,0,SEA,
+22,3488,1,02:20,(2:20) M.Lynch up the middle to SEA 39 for 3 yards (C.Carradine).,10,4,14,SEA 36,0,SEA,
+22,3615,2,01:19,(1:19) R.Wilson kneels to SEA 45 for -1 yards.,11,4,20,SEA 46,0,SEA,
+22,3551,3,02:06,(2:06) (Shotgun) M.Lynch left guard to SEA 47 for 6 yards (K.Reaser).,5,4,22,SEA 41,0,SEA,
+22,3509,0,02:12,Timeout #3 by SF at 02:12.,0,4,14,,0,,TIMEOUT
+22,3636,3,00:39,(:39) R.Wilson kneels to SEA 44 for -1 yards.,12,4,19,SEA 45,0,SEA,
+22,3577,0,02:00,Two-Minute Warning,0,4,22,,0,,
+22,3594,1,02:00,(2:00) R.Wilson kneels to SEA 46 for -1 yards.,10,4,21,SEA 47,0,SEA,
+22,3526,2,02:12,(2:12) (Shotgun) R.Wilson pass short left to T.Lockett to SEA 41 for 2 yards (G.Hodges). Caught at SEA 36.  5-yds YAC,7,4,16,SEA 39,0,SEA,
+22,3657,0,00:00,END GAME,0,4,19,,0,,
+1,103,3,13:51,(13:51) (Shotgun) C.Kaepernick pass incomplete short left to R.Bush [C.Avril].,7,1,3,SF 23,0,SF,
+1,75,2,14:32,(14:32) (Shotgun) C.Kaepernick pass short left to V.McDonald to SF 23 for 1 yard (B.Irvin). Caught at SF 18.  5-yds YAC,8,1,3,SF 22,0,SF,
+1,51,1,15:00,(15:00) (Shotgun) C.Kaepernick pass short middle to Q.Patton pushed ob at SF 22 for 2 yards (R.Sherman). Caught at SF 16.  6-yds YAC,10,1,2,SF 20,0,SF,
+1,36,0,15:00,"S.Hauschka kicks 65 yards from SEA 35 to end zone, Touchback.",0,1,0,SEA 35,0,SEA,KICKOFF
+1,129,4,13:47,"(13:47) B.Pinion punts 42 yards to SEA 35, Center-K.Nelson. T.Lockett to SEA 39 for 4 yards (J.Tartt).",7,1,3,SF 23,0,SF,PUNT
+3,504,3,06:06,(6:06) (Shotgun) C.Kaepernick pass incomplete short right to A.Boldin.,8,1,2,SF 34,0,SF,
+3,461,1,06:53,(6:53) C.Hyde right end to SF 34 for 2 yards (C.Avril).,10,1,2,SF 32,0,SF,
+3,482,2,06:11,(6:11) C.Kaepernick pass incomplete deep right to V.Davis.,8,1,2,SF 34,0,SF,
+3,526,4,06:01,"(6:01) B.Pinion punts 41 yards to SEA 25, Center-K.Nelson. T.Lockett to SEA 35 for 10 yards (E.Reid). PENALTY on SEA-C.Matthews, Offensive Holding, 10 yards, enforced at SEA 25. T.Lockett credited with return of 0 yds.",8,1,2,SF 34,0,SF,PUNT
+3,439,0,07:01,S.Hauschka kicks 64 yards from SEA 35 to SF 1. Q.Patton to SF 32 for 31 yards (E.Thomas).,0,1,0,SEA 35,0,SEA,KICKOFF
+2,154,1,13:37,(13:37) M.Lynch left tackle to SEA 44 for 5 yards (A.Lynch).,10,1,5,SEA 39,0,SEA,
+2,423,0,07:01,"S.Hauschka extra point is GOOD, Center-C.Gresham, Holder-J.Ryan.",0,1,61,SF 15,1,SEA,XP
+2,196,1,12:27,(12:27) (Shotgun) R.Wilson pass short right to T.Lockett to SF 23 for 16 yards (T.Brock). Caught at SF 33.  10-yds YAC,10,1,38,SF 39,0,SEA,
+2,315,3,09:26,"(9:26) M.Lynch right guard to SF 3 for no gain (A.Lynch, E.Harold). Measurement for 1st down, Unsuccessful.",1,1,58,SF 3,0,SEA,
+2,245,2,11:20,"(11:20) (Shotgun) R.Wilson pass short left to F.Jackson to SF 12 for 7 yards (J.Ward, N.Bowman). Caught at SF 24.  12-yds YAC",6,1,49,SF 19,0,SEA,
+2,406,3,07:05,"(7:05) M.Lynch up the middle for 1 yard, TOUCHDOWN.",1,1,61,SF 1,1,SEA,TD
+2,340,4,08:49,(8:49) M.Lynch up the middle to SF 1 for 2 yards (C.Carradine).,1,1,60,SF 3,0,SEA,
+2,294,2,10:01,"(10:01) M.Lynch up the middle to SF 3 for no gain (I.Williams, Q.Dial).",1,1,58,SF 3,0,SEA,
+2,384,2,07:11,(7:11) R.Wilson pass incomplete short right to R.Lockette.,1,1,60,SF 1,0,SEA,
+2,175,2,13:04,(13:04) M.Lynch up the middle to SF 39 for 17 yards (A.Bethea).,5,1,22,SEA 44,0,SEA,
+2,361,1,07:50,"(7:50) A.Bailey reported in as eligible.  M.Lynch left guard to SF 1 for no gain (I.Williams, N.Bowman).",1,1,60,SF 1,0,SEA,
+2,269,1,10:37,(10:37) (Shotgun) M.Lynch up the middle to SF 3 for 9 yards (A.Bethea; M.Wilhoite).,10,1,58,SF 12,0,SEA,
+2,220,1,11:57,(11:57) M.Lynch right guard to SF 19 for 4 yards (M.Wilhoite).,10,1,42,SF 23,0,SEA,
+5,854,0,,END QUARTER 1,0,1,27,,0,,
+5,833,1,00:10,"(:10) C.Hyde up the middle to SF 38 for 9 yards (F.Clark, E.Thomas).",5,1,27,SF 29,0,SF,
+5,780,1,00:59,(:59) C.Hyde left tackle to SF 24 for 13 yards (E.Thomas).,10,1,13,SF 11,0,SF,
+5,870,1,15:00,(15:00) C.Kaepernick sacked at SF 33 for -5 yards (M.Bennett).,10,2,22,SF 38,0,SF,
+5,890,2,14:19,(14:19) (Shotgun) C.Hyde up the middle to SF 30 for -3 yards (F.Clark).,15,2,19,SF 33,0,SF,
+5,911,3,13:42,(13:42) (Shotgun) C.Kaepernick pass short right to R.Bush to SF 34 for 4 yards (C.Williams). Caught at SF 24.  10-yds YAC,18,2,23,SF 30,0,SF,
+5,806,1,00:27,"(:27) PENALTY on SEA-B.Mebane, Neutral Zone Infraction, 5 yards, enforced at SF 24 - No Play.",10,1,27,SF 24,0,SF,PENALTY
+5,935,4,13:07,"(13:07) B.Pinion punts 37 yards to SEA 29, Center-K.Nelson. T.Lockett to SEA 34 for 5 yards (N.Bellore, E.Reid).",14,2,23,SF 34,0,SF,PUNT
+4,604,3,04:31,(4:31) (Shotgun) R.Wilson scrambles left tackle to SEA 28 for 9 yards (E.Reid).,6,1,13,SEA 19,0,SEA,
+4,761,4,01:10,"(1:10) J.Ryan punts 39 yards to SF 11, Center-C.Gresham, downed by SEA-R.Lockette.",9,1,35,50,0,SEA,PUNT
+4,583,2,05:15,(5:15) T.Rawls right guard to SEA 19 for 2 yards (I.Williams).,8,1,4,SEA 17,0,SEA,
+4,625,1,03:55,(3:55) R.Wilson pass short middle to T.Rawls to SEA 32 for 4 yards (N.Bowman) [C.Carradine]. Caught at SEA 31.  1-yd YAC,10,1,17,SEA 28,0,SEA,
+4,695,2,02:16,"(2:16) PENALTY on SEA, Offensive 12 On-field, 5 yards, enforced at SF 48 - No Play.",7,1,32,SF 48,0,SEA,PENALTY
+4,674,1,02:34,(2:34) R.Wilson scrambles right end pushed ob at SF 48 for 3 yards (A.Lynch).,10,1,37,SEA 49,0,SEA,
+4,562,1,05:51,(5:51) (Shotgun) T.Rawls up the middle to SEA 17 for 2 yards (Q.Dial).,10,1,2,SEA 15,0,SEA,
+4,718,2,01:52,(1:52) (Shotgun) T.Rawls right tackle to 50 for 3 yards (A.Bethea).,12,1,35,SEA 47,0,SEA,
+4,739,3,01:14,(1:14) (Shotgun) R.Wilson pass incomplete short left to J.Graham.,9,1,35,50,0,SEA,
+4,649,2,03:15,(3:15) T.Rawls left end to SEA 49 for 17 yards (A.Bethea).,6,1,34,SEA 32,0,SEA,
+7,1095,0,09:37,S.Hauschka kicks 63 yards from SEA 35 to SF 2. B.Ellington to SF 26 for 24 yards (K.McCray).,0,2,0,SEA 35,0,SEA,KICKOFF
+7,1166,2,08:28,(8:28) C.Kaepernick pass short left to R.Bush to SEA 49 for 8 yards (B.Wagner). Caught at SF 43.  8-yds YAC,7,2,25,SF 43,0,SF,
+7,1141,1,08:57,(8:57) R.Bush left end to SF 43 for 3 yards (C.Marsh).,10,2,17,SF 40,0,SF,
+7,1310,3,06:34,(6:34) (Shotgun) C.Kaepernick pass short middle to R.Bush to SEA 40 for 1 yard (C.Avril). Caught at SEA 43.  3-yds YAC,15,2,34,SEA 41,0,SF,
+7,1190,1,07:58,(7:58) (Shotgun) C.Kaepernick pass short right to G.Celek to SEA 41 for 8 yards (K.Wright; R.Sherman). Cautht at SEA 48.  7-yds YAC,10,2,33,SEA 49,0,SF,
+7,1218,2,07:26,"(7:26) C.Hyde left end to SEA 36 for 5 yards (K.Wright, K.Chancellor).",2,2,38,SEA 41,0,SF,
+7,1287,3,06:34,"(6:34) (Shotgun) PENALTY on SF-C.Kaepernick, Delay of Game, 5 yards, enforced at SEA 36 - No Play.",10,2,33,SEA 36,0,SF,PENALTY
+7,1265,2,06:43,(6:43) (Shotgun) C.Kaepernick pass incomplete deep right to V.Davis.,10,2,38,SEA 36,0,SF,
+7,1243,1,06:46,(6:46) (Shotgun) C.Kaepernick pass incomplete short right to A.Boldin.,10,2,38,SEA 36,0,SF,
+7,1117,1,09:31,(9:31) C.Kaepernick pass short right to V.Davis to SF 40 for 14 yards (B.Wagner). Caught at SF 38.  2-yds YAC,10,2,14,SF 26,0,SF,
+7,1334,4,05:55,"(5:55) B.Pinion punts 30 yards to SEA 10, Center-K.Nelson, downed by SF-E.Reid.",14,2,34,SEA 40,0,SF,PUNT
+6,964,1,12:58,(12:58) T.Rawls left guard to SEA 38 for 4 yards (N.Bowman).,10,2,4,SEA 34,0,SEA,
+6,1055,3,10:24,(10:24) (Shotgun) R.Wilson scrambles up the middle to SF 31 for 3 yards (C.Carradine).,5,2,35,SF 34,0,SEA,
+6,1076,4,09:43,"(9:43) S.Hauschka 49 yard field goal is GOOD, Center-C.Gresham, Holder-J.Ryan.",2,2,35,SF 31,1,SEA,FG
+6,985,2,12:21,(12:21) (Shotgun) R.Wilson pass deep middle to J.Graham to SF 39 for 23 yards (M.Wilhoite). Caught at SF 46.  7-yds YAC,6,2,27,SEA 38,0,SEA,
+6,1009,1,11:43,(11:43) M.Lynch left guard to SF 37 for 2 yards (I.Williams).,10,2,29,SF 39,0,SEA,
+6,1034,2,11:04,"(11:04) M.Lynch up the middle to SF 34 for 3 yards (G.Dorsey, N.Bowman).",8,2,32,SF 37,0,SEA,
+9,1609,3,01:54,"(1:54) (Shotgun) C.Kaepernick pass short left to A.Boldin to SF 19 for 6 yards (R.Sherman). Penalty on SF-T.Smith, Offensive Pass Interference, declined. Caught at SF 13.  6-yds YAC",18,2,-2,SF 13,0,SF,
+9,1644,4,01:49,"(1:49) B.Pinion punts 54 yards to SEA 27, Center-K.Nelson. T.Lockett ran ob at SEA 27 for no gain.",12,2,-2,SF 19,0,SF,PUNT
+9,1554,1,02:36,(2:36) (Shotgun) C.Kaepernick sacked at SF 17 for -4 yards (sack split by C.Avril and M.Bennett).,10,2,-4,SF 21,0,SF,
+9,1532,0,02:44,S.Hauschka kicks 68 yards from SEA 35 to SF -3. B.Ellington to SF 21 for 24 yards (E.Thomas).,0,2,0,SEA 35,0,SEA,KICKOFF
+9,1592,0,01:54,Two-Minute Warning,0,2,-8,,0,,
+9,1573,2,02:01,(2:01) (Shotgun) C.Kaepernick sacked at SF 13 for -4 yards (M.Bennett).,14,2,-2,SF 17,0,SF,
+8,1425,2,03:45,"(3:45) M.Lynch right guard to SEA 35 for 3 yards (I.Williams). PENALTY on SEA-C.Matthews, Illegal Shift, 5 yards, enforced at SEA 32 - No Play.",11,2,17,SEA 32,0,SEA,PENALTY
+8,1357,1,05:41,"(5:41) M.Lynch up the middle to SEA 12 for 2 yards (G.Dorsey, A.Brooks).",10,2,2,SEA 10,0,SEA,
+8,1492,1,02:53,"(2:53) R.Wilson pass deep left to T.Lockett for 43 yards, TOUCHDOWN.",10,2,90,SF 43,1,SEA,TD
+8,1457,2,03:22,"(3:22) (Shotgun) R.Wilson pass short right to D.Baldwin to SEA 42 for 15 yards (A.Bethea). PENALTY on SF-A.Bethea, Face Mask (15 Yards), 15 yards, enforced at SEA 42. Caught at SEA 42.  7-yds YAC",16,2,47,SEA 27,0,SEA,PENALTY
+8,1402,1,04:26,(4:26) (Shotgun) R.Wilson sacked at SEA 32 for -1 yards (A.Brooks).,10,2,22,SEA 33,0,SEA,
+8,1378,2,05:03,(5:03) (Shotgun) R.Wilson pass deep right to J.Kearse to SEA 33 for 21 yards (T.Brock). Caught at SEA 31.  2-yds YAC,8,2,23,SEA 12,0,SEA,
+8,1516,0,02:44,"S.Hauschka extra point is GOOD, Center-C.Gresham, Holder-J.Ryan.",0,2,90,SF 15,1,SEA,XP
+11,1863,1,00:43,(:43) C.Kaepernick sacked at SF 6 for -14 yards (C.Avril).,10,2,-5,SF 20,0,SF,
+11,1896,2,00:22,(:22) (Shotgun) R.Bush right guard to SF 15 for 9 yards (B.Wagner).,24,2,-5,SF 6,0,SF,
+11,1917,0,,END QUARTER 2,0,2,-5,,0,,
+10,1702,2,01:19,"(1:19) (No Huddle, Shotgun) R.Wilson pass deep right to J.Kearse to SF 30 for 36 yards (M.Wilhoite) [A.Brooks]. Caught at SF 44.  14-yds YAC",3,2,43,SEA 34,0,SEA,
+10,1770,0,01:02,Timeout #2 by SEA at 01:02.,0,2,41,,0,,TIMEOUT
+10,1730,0,01:10,Timeout #1 by SEA at 01:10.,0,2,43,,0,,TIMEOUT
+10,1837,2,00:52,(:52) (Shotgun) R.Wilson pass deep right intended for D.Baldwin INTERCEPTED by T.Brock at SF -5. Touchback (C.Matthews).,10,2,53,SF 20,0,SEA,INT
+10,1787,2,01:02,(1:02) (Shotgun) R.Wilson pass short left to T.Lockett pushed ob at SF 20 for 12 yards (J.Tartt). Caught at SF 23.  3-yds YAC,12,2,53,SF 32,0,SEA,
+10,1678,1,01:41,(1:41) (Shotgun) R.Wilson pass short right to F.Jackson to SEA 34 for 7 yards (M.Wilhoite). Caught at SEA 21. 13-yds YAC,10,2,7,SEA 27,0,SEA,
+10,1751,1,01:10,(1:10) (Shotgun) R.Wilson sacked at SF 32 for -2 yards (Q.Dial).,10,2,41,SF 30,0,SEA,
+10,1811,1,00:57,"(:57) (No Huddle, Shotgun) R.Wilson pass incomplete short middle to J.Graham (E.Reid).",10,2,53,SF 20,0,SEA,
+13,2118,1,11:00,"(11:00) C.Hyde right tackle to SF 30 for 4 yards (M.Bennett, C.Williams).",10,3,4,SF 26,0,SF,
+13,2201,4,09:09,"(9:09) B.Pinion punts 53 yards to SEA 16, Center-K.Nelson, out of bounds.",5,3,5,SF 31,0,SF,PUNT
+13,2143,2,10:30,(10:30) C.Hyde right tackle to SF 33 for 3 yards (B.Wagner).,6,3,7,SF 30,0,SF,
+13,2168,3,09:50,"(9:50) C.Hyde right tackle to SF 32 for -1 yards (C.Avril). FUMBLES (C.Avril), recovered by SF-E.Pears at SF 31. E.Pears to SF 31 for no gain (K.Wright). C.Hyde charged with loss of 2.",3,3,5,SF 33,0,SF,FUMBLE
+12,1991,1,13:44,"(13:44) T.Rawls left tackle to SEA 47 for 1 yard (Q.Dial). PENALTY on SEA-J.Sweezy, Unnecessary Roughness, 15 yards, enforced at SEA 46 - No Play. J.Sweezy penalized for leg whip.",10,3,12,SEA 46,0,SEA,PENALTY
+12,2053,2,12:37,(12:37) (Shotgun) R.Wilson sacked at SEA 30 for -6 yards (A.Lynch).,20,3,10,SEA 36,0,SEA,
+12,1949,1,15:00,"(15:00) M.Lynch right end to SEA 34 for 14 yards (J.Tartt, M.Wilhoite).",10,3,14,SEA 20,0,SEA,
+12,1970,1,14:24,"(14:24) M.Lynch right guard to SEA 46 for 12 yards (J.Tartt, A.Brooks).",10,3,26,SEA 34,0,SEA,
+12,2024,1,13:04,"(13:04) R.Wilson pass short right to T.Rawls to SEA 36 for 5 yards (E.Reid, N.Bowman). Caught at SEA 27.  9-yds YAC",25,3,12,SEA 31,0,SEA,
+12,2093,4,11:12,"(11:12) J.Ryan punts 51 yards to SF 17, Center-C.Gresham. R.Bush to SF 26 for 9 yards (K.McCray, J.Kearse).",24,3,12,SEA 32,0,SEA,PUNT
+12,1934,0,15:00,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback.",0,3,0,SF 35,0,SF,KICKOFF
+12,2072,3,11:52,"(11:52) (Shotgun) F.Jackson right tackle to SEA 32 for 2 yards (N.Bowman, C.Carradine).",26,3,12,SEA 30,0,SEA,
+15,2596,4,01:26,"(1:26) P.Dawson 35 yard field goal is GOOD, Center-K.Nelson, Holder-B.Pinion.",2,3,79,SEA 17,1,SF,FG
+15,2553,2,02:04,(2:04) C.Hyde left end to SEA 17 for 6 yards (E.Thomas).,8,3,79,SEA 23,0,SF,
+15,2574,3,01:31,(1:31) C.Kaepernick pass incomplete short right to A.Boldin.,2,3,79,SEA 17,0,SF,
+15,2448,1,04:39,(4:39) C.Hyde left guard to SF 21 for 1 yard (D.King).,10,3,14,SF 20,0,SF,
+15,2424,3,05:16,(5:16) C.Kaepernick pass short middle to V.Davis to SF 20 for 13 yards (B.Wagner).,10,3,13,SF 7,0,SF,
+15,2348,1,06:24,"(6:24) C.Hyde left tackle to SF 17 for 10 yards (B.Wagner). FUMBLES (B.Wagner), recovered by SF-J.Staley at SF 17. PENALTY on SF-A.Boone, Offensive Holding, 3 yards, enforced at SF 7 - No Play.",10,3,76,SF 7,0,SF,PENALTY
+15,2469,2,03:54,"(3:54) (Shotgun) C.Kaepernick pass deep left to V.Davis to SF 48 for 27 yards (C.Williams, E.Thomas). SEA-C.Williams was injured during the play. His return is Probable.  Caught at SF 37.  11-yds YAC",9,3,41,SF 21,0,SF,
+15,2381,1,05:56,(5:56) R.Bush up the middle to SF 7 for 3 yards (K.Wright).,13,3,76,SF 4,0,SF,
+15,2402,2,05:20,(5:20) C.Kaepernick pass incomplete short left to R.Bush.,10,3,0,SF 7,0,SF,
+15,2532,1,02:47,(2:47) C.Hyde left guard to SEA 23 for 2 yards (E.Thomas).,10,3,73,SEA 25,0,SF,
+15,2493,1,03:23,(3:23) C.Kaepernick pass deep left to A.Boldin to SEA 25 for 27 yards (D.Shead).,10,3,71,SF 48,0,SF,
+14,2297,1,07:11,(7:11) T.Rawls right guard to SEA 35 for 4 yards (N.Bowman).,10,3,19,SEA 31,0,SEA,
+14,2219,1,09:02,(9:02) R.Wilson pass short right to D.Baldwin to SEA 20 for 4 yards (J.Ward). Caught at SEA 17.  3-yds YAC,10,3,4,SEA 16,0,SEA,
+14,2248,2,08:28,(8:28) M.Lynch right tackle to SEA 24 for 4 yards (M.Wilhoite).,6,3,8,SEA 20,0,SEA,
+14,2273,3,07:49,(7:49) (Shotgun) R.Wilson pass short left to J.Kearse to SEA 31 for 7 yards (K.Acker). Caught at SEA 29.  2-yds YAC,2,3,15,SEA 24,0,SEA,
+14,2322,2,06:34,(6:34) R.Wilson pass deep middle intended for J.Kearse INTERCEPTED by K.Acker at SF 7. K.Acker to SF 7 for no gain (J.Kearse).,6,3,19,SEA 35,0,SEA,INT
+17,3041,4,07:14,"(7:14) B.Pinion punts 42 yards to SEA 45, Center-K.Nelson, fair catch by T.Lockett.",20,4,-10,SF 13,0,SF,PUNT
+17,2982,1,09:14,(9:14) C.Kaepernick sacked at SF 16 for -7 yards (M.Bennett).,10,4,-7,SF 23,0,SF,
+17,3001,2,08:32,(8:32) C.Kaepernick sacked at SF 7 for -9 yards (sack split by D.King and B.Mebane).,17,4,-16,SF 16,0,SF,
+17,2960,0,09:23,S.Hauschka kicks 67 yards from SEA 35 to SF -2. B.Ellington to SF 23 for 25 yards (B.Daniels).,0,4,0,SEA 35,0,SEA,KICKOFF
+17,3020,3,07:52,(7:52) (Shotgun) R.Bush up the middle to SF 13 for 6 yards (K.Chancellor).,26,4,-10,SF 7,0,SF,
+16,2873,1,11:36,"(11:36) (Shotgun) M.Lynch left guard to SF 24 for 2 yards (M.Wilhoite, A.Brooks).",10,4,53,SF 26,0,SEA,
+16,2615,0,01:21,B.Pinion kicks 62 yards from SF 35 to SEA 3. T.Lockett to SEA 23 for 20 yards (S.Skov).,0,3,0,SF 35,0,SF,KICKOFF
+16,2737,1,15:00,(15:00) (Shotgun) R.Wilson pass short right to J.Graham to SEA 39 for 8 yards (M.Wilhoite; J.Ward) [Q.Dial]. Caught at SEA 37.  2-yds YAC,16,4,34,SEA 31,0,SEA,
+16,2848,3,12:16,(12:16) (Shotgun) R.Wilson left end to SF 26 for 8 yards (J.Tartt).,1,4,51,SF 34,0,SEA,
+16,2721,0,,END QUARTER 3,0,3,8,,0,,
+16,2819,2,12:55,(12:55) (Shotgun) R.Wilson pass short right to T.Lockett pushed ob at SF 34 for 6 yards (J.Tartt). Caught at SF 34.  0-yds YAC,7,4,43,SF 40,0,SEA,
+16,2644,1,01:15,(1:15) M.Lynch up the middle to SEA 28 for 5 yards (E.Harold). SEA-R.Okung was injured during the play. His return is Probable.,10,3,49,SEA 23,0,SEA,
+16,2766,2,14:21,"(14:21) (Shotgun) R.Wilson pass short right to F.Jackson to SF 43 for 18 yards (T.Brock, J.Tartt). Caught at SEA 40.  17-yds YAC",8,4,34,SEA 39,0,SEA,
+16,2913,3,10:10,(10:10) (Shotgun) R.Wilson pass short left to F.Jackson to SF 28 for 1 yard (E.Reid). Caught at SF 31.  3-yds YAC,13,4,49,SF 29,0,SEA,
+16,2689,1,00:08,"(:08) M.Lynch left end to 50 for 13 yards (M.Wilhoite, J.Tartt). PENALTY on SEA-D.Nowak, Offensive Holding, 10 yards, enforced at SEA 41. M.Lynch credited with 4-yds on rush.",10,3,8,SEA 37,0,SEA,PENALTY
+16,2894,2,10:52,(10:52) (Shotgun) R.Wilson sacked at SF 29 for -5 yards (A.Lynch).,8,4,48,SF 24,0,SEA,
+16,2794,1,13:34,"(13:34) M.Lynch up the middle to SF 40 for 3 yards (N.Bowman, M.Wilhoite).",10,4,37,SF 43,0,SEA,
+16,2937,4,09:29,"(9:29) S.Hauschka 46 yard field goal is GOOD, Center-C.Gresham, Holder-J.Ryan.",12,4,49,SF 28,1,SEA,FG
+16,2668,2,00:45,(:45) M.Lynch left end pushed ob at SEA 37 for 9 yards (N.Bowman).,5,3,14,SEA 28,0,SEA,
+19,3151,1,04:52,(4:52) (Shotgun) C.Kaepernick pass short left to A.Boldin to SF 16 for 6 yards (D.Shead). Caught at SF 15.  1-yd YAC,10,4,6,SF 10,0,SF,
+19,3175,2,04:26,(4:26) (Shotgun) C.Kaepernick pass incomplete short middle to T.Smith.,4,4,6,SF 16,0,SF,
+19,3234,4,04:16,"(4:16) B.Pinion punts 43 yards to SEA 41, Center-K.Nelson. T.Lockett to SEA 43 for 2 yards (L.McCray).",4,4,6,SF 16,0,SF,PUNT
+19,3201,3,04:22,"(4:22) (Shotgun) C.Kaepernick pass incomplete deep left to Q.Patton. Penalty on SF-A.Boone, Offensive Holding, declined.",4,4,6,SF 16,0,SF,
+18,3121,4,05:00,"(5:00) J.Ryan punts 44 yards to SF 20, Center-C.Gresham, fair catch by R.Bush. PENALTY on SF-Q.Patton, Unsportsmanlike Conduct, 10 yards, enforced at SF 20.",19,4,-9,SEA 36,0,SEA,PUNT
+18,3060,1,07:06,(7:06) M.Lynch right tackle to SEA 41 for -4 yards (J.Tartt).,10,4,-4,SEA 45,0,SEA,
+18,3081,2,06:24,(6:24) M.Lynch up the middle to SEA 45 for 4 yards (T.Jerod-Eddie).,14,4,0,SEA 41,0,SEA,
+18,3102,3,05:44,(5:44) (Shotgun) R.Wilson sacked at SEA 36 for -9 yards (A.Brooks).,10,4,-9,SEA 45,0,SEA,

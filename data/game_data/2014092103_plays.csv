@@ -1,162 +1,162 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1173,1,13:26,,10,2,-1,GB 1,1,GB,SAF
-18,3595,0,02:55,,0,4,27,,0,,TIMEOUT
-18,3675,1,01:59,,10,4,31,GB 48,0,DET,
-18,3637,3,02:10,,4,4,32,DET 48,0,DET,
-18,3612,2,02:55,,5,4,28,DET 47,0,DET,
-18,3557,0,03:02,,0,4,22,,0,,TIMEOUT
-18,3470,3,05:24,,7,4,11,DET 23,0,DET,
-18,3738,0,00:00,,0,4,29,,0,,
-18,3536,3,03:08,,3,4,22,DET 38,0,DET,
-18,3428,1,06:54,,10,4,0,DET 20,0,DET,
-18,3696,2,01:18,,11,4,30,GB 49,0,DET,
-18,3658,0,02:00,,0,4,32,,0,,
-18,3449,2,06:11,,10,4,3,DET 20,0,DET,
-18,3717,3,00:39,,12,4,29,50,0,DET,
-18,3515,2,03:54,,5,4,18,DET 36,0,DET,
-18,3494,1,04:40,,10,4,16,DET 31,0,DET,
-18,3574,1,03:02,,10,4,27,DET 42,0,DET,
-6,749,3,03:55,,14,1,26,GB 42,0,DET,INT
-6,680,1,05:58,,10,1,30,DET 45,0,DET,
-6,728,2,04:37,,9,1,26,GB 37,0,DET,
-6,635,1,07:14,,10,1,8,DET 32,0,DET,
-6,659,2,06:36,,2,1,13,DET 40,0,DET,
-6,704,1,05:17,,10,1,31,GB 38,0,DET,
-14,2325,3,10:45,,4,3,37,DET 36,0,DET,PENALTY
-14,2504,3,06:30,,1,3,80,GB 9,0,DET,
-14,2279,1,11:22,,10,3,17,DET 30,0,DET,
-14,2483,2,07:09,,2,3,78,GB 10,0,DET,
-14,2234,1,12:40,,10,3,0,DET 13,0,DET,
-14,2357,1,10:11,,10,3,37,DET 44,0,DET,
-14,2378,2,09:30,,4,3,53,50,0,DET,
-14,2447,1,07:38,,10,3,77,GB 18,0,DET,
-14,2423,2,08:06,,9,3,69,GB 33,0,DET,
-14,2525,1,05:48,,7,3,80,GB 7,0,DET,
-14,2402,1,08:44,,10,3,54,GB 34,0,DET,
-14,2301,2,11:17,,10,3,23,DET 30,0,DET,
-14,2255,2,12:01,,10,3,17,DET 13,0,DET,
-14,2547,2,05:45,,7,3,74,GB 7,0,DET,FUMBLE
-7,990,3,00:43,,1,1,59,DET 10,1,GB,TD
-7,968,2,00:45,,1,1,49,DET 10,0,GB,
-7,902,2,02:23,,10,1,24,DET 35,0,GB,
-7,947,1,01:24,,10,1,49,DET 19,0,GB,
-7,1010,0,00:39,,0,1,59,DET 2,1,GB,XP
-7,873,1,02:29,,10,1,59,DET 35,0,GB,
-7,923,3,01:41,,10,1,59,DET 35,0,GB,
-7,786,1,03:46,,10,1,59,GB 41,0,GB,
-7,807,2,03:16,,8,1,59,GB 43,0,GB,PENALTY
-7,845,1,02:56,,10,1,59,DET 49,0,GB,
-8,1126,2,13:40,,10,2,31,GB 49,0,DET,
-8,1044,1,00:39,,10,1,5,DET 20,0,DET,
-8,1065,0,,,0,1,5,,0,,
-8,1151,3,13:36,,10,2,31,GB 49,0,DET,INT
-8,1026,0,00:39,,0,1,31,GB 35,0,GB,KICKOFF
-8,1081,2,15:00,,5,2,31,DET 25,0,DET,
-8,1105,1,14:19,,10,2,31,GB 49,0,DET,
-10,1314,1,11:02,,10,2,20,GB 38,0,DET,
-10,1226,0,13:21,,0,2,0,GB 20,0,GB,KICKOFF
-10,1447,1,07:44,,6,2,45,GB 6,0,DET,
-10,1468,2,07:24,,10,2,45,GB 10,0,DET,
-10,1269,2,12:32,,10,2,5,DET 45,0,DET,
-10,1423,3,08:14,,3,2,49,GB 11,0,DET,
-10,1248,1,13:13,,10,2,0,DET 45,0,DET,
-10,1356,3,09:42,,5,2,37,GB 33,0,DET,
-10,1380,1,09:00,,10,2,44,GB 18,0,DET,
-10,1490,3,07:02,,10,2,43,GB 10,0,DET,
-10,1401,2,08:19,,3,2,44,GB 11,0,DET,
-10,1335,2,10:25,,7,2,22,GB 35,0,DET,
-10,1290,3,11:46,,5,2,17,50,0,DET,
-10,1509,4,06:21,,12,2,43,GB 12,1,DET,FG
-12,1877,3,00:34,,2,2,12,DET 18,0,DET,
-12,1856,2,01:11,,10,2,8,DET 10,0,DET,
-12,1901,1,00:28,,10,2,12,DET 22,0,DET,
-12,2045,2,00:03,,10,2,67,GB 23,0,DET,FGM
-12,2002,0,00:08,,0,2,67,,0,,TIMEOUT
-12,1961,3,00:17,,7,2,67,DET 25,0,DET,
-12,1944,0,00:17,,0,2,15,,0,,TIMEOUT
-12,1832,1,01:53,,10,2,0,DET 10,0,DET,
-12,2019,1,00:08,,10,2,67,GB 23,0,DET,
-12,1985,0,00:08,,0,2,67,,0,,TIMEOUT
-12,1923,2,00:25,,10,2,15,DET 22,0,DET,
-16,2961,2,15:00,,3,4,23,DET 44,0,DET,
-16,2921,1,00:13,,10,3,19,DET 37,0,DET,
-16,3130,0,10:40,,0,4,75,GB 2,1,DET,XP
-16,2867,2,00:59,,2,3,7,DET 33,0,DET,
-16,2985,1,14:20,,10,4,27,DET 48,0,DET,
-16,3096,0,10:47,,0,4,49,,0,,TIMEOUT
-16,3030,3,12:51,,1,4,41,GB 43,0,DET,
-16,2945,0,,,0,3,19,,0,,
-16,3006,2,13:39,,6,4,32,GB 48,0,DET,
-16,3113,3,10:47,,2,4,75,GB 26,1,DET,TD
-16,2888,3,00:17,,3,3,12,DET 32,0,DET,PENALTY
-16,3075,2,11:26,,8,4,49,GB 32,0,DET,
-16,2843,1,01:33,,10,3,8,DET 25,0,DET,
-16,3054,1,12:05,,10,4,43,GB 34,0,DET,
-11,1683,3,03:50,,1,2,44,GB 48,0,GB,
-11,1600,3,05:30,,3,2,20,GB 26,0,GB,
-11,1809,4,01:59,,19,2,35,DET 46,0,GB,PUNT
-11,1666,0,03:50,,0,2,29,,0,,TIMEOUT
-11,1528,0,06:16,,0,2,0,DET 35,0,DET,KICKOFF
-11,1792,0,02:00,,0,2,35,,0,,
-11,1726,2,03:11,,10,2,39,DET 37,0,GB,PENALTY
-11,1773,3,02:28,,11,2,35,DET 38,0,GB,
-11,1749,2,03:11,,15,2,43,DET 42,0,GB,
-11,1704,1,03:18,,10,2,44,DET 37,0,GB,
-11,1645,2,04:31,,3,2,29,GB 46,0,GB,
-11,1624,1,05:00,,10,2,27,GB 39,0,GB,
-11,1579,2,06:03,,10,2,7,GB 19,0,GB,
-11,1550,1,06:10,,10,2,0,GB 19,0,GB,
-3,264,0,12:02,,0,1,7,DET 35,0,DET,KICKOFF
-3,283,1,12:02,,10,1,4,GB 20,0,GB,
-3,304,2,11:29,,6,1,7,GB 24,0,GB,
-3,347,4,10:53,,3,1,2,GB 27,0,GB,PENALTY
-3,378,4,10:53,,8,1,2,GB 22,0,GB,PUNT
-3,325,3,10:58,,3,1,7,GB 27,0,GB,
-17,3286,2,08:52,,7,4,70,GB 39,0,GB,
-17,3339,1,08:08,,10,4,74,DET 25,0,GB,
-17,3384,3,07:06,,5,4,70,DET 20,0,GB,
-17,3220,1,10:32,,10,4,9,GB 10,0,GB,
-17,3363,2,07:47,,1,4,70,DET 16,0,GB,
-17,3265,1,09:27,,10,4,29,GB 36,0,GB,
-17,3406,4,06:59,,5,4,70,DET 20,0,GB,
-17,3165,0,10:40,,0,4,0,DET 30,0,DET,KICKOFF
-17,3146,0,10:40,,0,4,0,DET 35,0,DET,PENALTY
-17,3244,2,09:55,,1,4,29,GB 19,0,GB,
-17,3315,1,08:32,,10,4,65,DET 43,0,GB,
-4,400,1,10:46,,10,1,3,DET 30,0,DET,
-4,445,3,09:33,,5,1,5,DET 35,0,DET,
-4,467,4,09:29,,5,1,5,DET 35,0,DET,PUNT
-4,424,2,10:16,,7,1,5,DET 33,0,DET,
-2,199,1,12:37,,10,1,3,GB 37,0,GB,
-2,220,2,12:13,,7,1,3,GB 40,1,GB,TD
-1,45,0,15:00,,0,1,0,GB 35,0,GB,KICKOFF
-1,109,1,13:41,,10,1,13,DET 28,0,DET,
-1,130,2,13:05,,8,1,13,DET 30,0,DET,
-1,67,1,14:55,,10,1,6,DET 17,0,DET,
-1,88,2,14:21,,4,1,11,DET 23,0,DET,
-1,152,3,13:02,,8,1,13,DET 30,0,DET,
-1,174,4,12:55,,8,1,13,DET 30,0,DET,PUNT
-5,591,3,07:59,,10,1,8,GB 37,0,GB,
-5,524,2,08:53,,4,1,15,GB 28,0,GB,
-5,569,2,08:03,,10,1,15,GB 37,0,GB,
-5,610,4,07:24,,17,1,8,GB 30,0,GB,PUNT
-5,548,1,08:38,,10,1,15,GB 37,0,GB,
-5,503,1,09:22,,10,1,6,GB 22,0,GB,
-13,2096,1,15:00,,10,3,7,GB 20,0,GB,
-13,2144,1,14:07,,10,3,22,GB 35,0,GB,
-13,2120,2,14:28,,3,3,15,GB 27,0,GB,
-13,2081,0,15:00,,0,3,0,DET 35,0,DET,KICKOFF
-13,2168,2,13:36,,3,3,20,GB 42,0,GB,
-13,2189,3,12:54,,5,3,20,GB 40,0,GB,
-13,2211,4,12:47,,5,3,20,GB 40,0,GB,PUNT
-15,2669,2,03:32,,8,3,25,GB 37,0,GB,
-15,2818,4,01:43,,13,3,32,GB 45,0,GB,PUNT
-15,2600,2,05:15,,3,3,11,GB 20,0,GB,
-15,2753,1,02:35,,10,3,32,GB 48,0,GB,
-15,2774,2,01:52,,13,3,32,GB 45,0,GB,
-15,2690,3,03:17,,7,3,30,GB 38,0,GB,PENALTY
-15,2723,3,03:09,,2,3,35,GB 43,0,GB,PENALTY
-15,2796,3,01:48,,13,3,32,GB 45,0,GB,
-15,2621,1,04:31,,10,3,22,GB 24,0,GB,
-15,2576,1,05:40,,10,3,7,GB 13,0,GB,
-15,2645,1,04:05,,10,3,24,GB 35,0,GB,
+11,1645,2,04:31,(4:31) (Shotgun) J.Starks right tackle to GB 48 for 2 yards (G.Johnson; I.Abdul-Quddus).,3,2,29,GB 46,0,GB,
+11,1550,1,06:10,(6:10) A.Rodgers pass incomplete short left to J.Boykin.,10,2,0,GB 19,0,GB,
+11,1704,1,03:18,(3:18) A.Rodgers pass incomplete deep right to J.Nelson (I.Abdul-Quddus).,10,2,44,DET 37,0,GB,
+11,1773,3,02:28,(2:28) (Shotgun) A.Rodgers sacked at DET 46 for -8 yards (N.Suh).,11,2,35,DET 38,0,GB,
+11,1624,1,05:00,(5:00) (Shotgun) E.Lacy left tackle to GB 46 for 7 yards (D.Slay).,10,2,27,GB 39,0,GB,
+11,1726,2,03:11,"(3:11) PENALTY on GB-J.Sitton, False Start, 5 yards, enforced at DET 37 - No Play.",10,2,39,DET 37,0,GB,PENALTY
+11,1600,3,05:30,(5:30) (Shotgun) A.Rodgers pass short right to R.Cobb to GB 39 for 13 yards (D.Gorrer).,3,2,20,GB 26,0,GB,
+11,1683,3,03:50,(3:50) J.Starks right tackle to DET 37 for 15 yards (D.Levy).,1,2,44,GB 48,0,GB,
+11,1809,4,01:59,"(1:59) T.Masthay punts 36 yards to DET 10, Center-B.Goode, fair catch by J.Ross.",19,2,35,DET 46,0,GB,PUNT
+11,1579,2,06:03,(6:03) (Shotgun) E.Lacy up the middle to GB 26 for 7 yards (E.Ansah).,10,2,7,GB 19,0,GB,
+11,1749,2,03:11,(3:11) (Shotgun) A.Rodgers pass short right to J.Nelson to DET 38 for 4 yards (D.Slay).,15,2,43,DET 42,0,GB,
+11,1792,0,02:00,Two-Minute Warning,0,2,35,,0,,
+11,1666,0,03:50,Timeout #1 by GB at 03:50.,0,2,29,,0,,TIMEOUT
+11,1528,0,06:16,S.Martin kicks 71 yards from DET 35 to GB -6. D.Harris to GB 19 for 25 yards (J.Collins).,0,2,0,DET 35,0,DET,KICKOFF
+10,1226,0,13:21,T.Masthay kicks 69 yards from GB 20 to DET 11. J.Ross to DET 45 for 34 yards (D.House).,0,2,0,GB 20,0,GB,KICKOFF
+10,1269,2,12:32,(12:32) (Shotgun) M.Stafford scrambles up the middle to 50 for 5 yards (J.Lattimore).,10,2,5,DET 45,0,DET,
+10,1314,1,11:02,(11:02) J.Bell left tackle to GB 35 for 3 yards (M.Hyde).,10,2,20,GB 38,0,DET,
+10,1490,3,07:02,(7:02) (Shotgun) M.Stafford sacked at GB 12 for -2 yards (M.Neal).,10,2,43,GB 10,0,DET,
+10,1335,2,10:25,(10:25) J.Bell up the middle to GB 33 for 2 yards (T.Williams).,7,2,22,GB 35,0,DET,
+10,1423,3,08:14,(8:14) (Shotgun) M.Stafford pass short right to R.Bush ran ob at GB 6 for 5 yards (D.House).,3,2,49,GB 11,0,DET,
+10,1356,3,09:42,(9:42) (Shotgun) M.Stafford pass short middle to R.Bush to GB 18 for 15 yards (M.Hyde) [C.Matthews].,5,2,37,GB 33,0,DET,
+10,1447,1,07:44,(7:44) (Shotgun) R.Bush left tackle to GB 10 for -4 yards (J.Peppers).,6,2,45,GB 6,0,DET,
+10,1468,2,07:24,(7:24) (Shotgun) M.Stafford pass incomplete short right to R.Bush (C.Matthews).,10,2,45,GB 10,0,DET,
+10,1248,1,13:13,"(13:13) R.Bush right tackle to DET 45 for no gain (A.Hawk, M.Burnett).",10,2,0,DET 45,0,DET,
+10,1290,3,11:46,(11:46) (Shotgun) M.Stafford pass short middle to C.Johnson to GB 38 for 12 yards (S.Shields) [D.Jones].,5,2,17,50,0,DET,
+10,1509,4,06:21,"(6:21) N.Freese 30 yard field goal is GOOD, Center-D.Muhlbach, Holder-S.Martin.",12,2,43,GB 12,1,DET,FG
+10,1380,1,09:00,(9:00) R.Bush right tackle to GB 11 for 7 yards (J.Lattimore).,10,2,44,GB 18,0,DET,
+10,1401,2,08:19,(8:19) (Shotgun) M.Stafford pass incomplete short right to C.Johnson [T.Williams].,3,2,44,GB 11,0,DET,
+13,2120,2,14:28,(14:28) (Shotgun) A.Rodgers pass short right to A.Quarless pushed ob at GB 35 for 8 yards (D.Levy).,3,3,15,GB 27,0,GB,
+13,2211,4,12:47,"(12:47) T.Masthay punts 47 yards to DET 13, Center-B.Goode, fair catch by J.Ross.",5,3,20,GB 40,0,GB,PUNT
+13,2144,1,14:07,(14:07) (Shotgun) A.Rodgers pass short right to J.Nelson to GB 42 for 7 yards (D.Slay; I.Abdul-Quddus).,10,3,22,GB 35,0,GB,
+13,2081,0,15:00,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,3,0,DET 35,0,DET,KICKOFF
+13,2096,1,15:00,(15:00) (Shotgun) A.Rodgers pass short right to A.Quarless to GB 27 for 7 yards (D.Levy).,10,3,7,GB 20,0,GB,
+13,2168,2,13:36,(13:36) (No Huddle) E.Lacy right end to GB 40 for -2 yards (J.Jones).,3,3,20,GB 42,0,GB,
+13,2189,3,12:54,(12:54) (Shotgun) A.Rodgers pass incomplete short right to R.Cobb [N.Fairley].,5,3,20,GB 40,0,GB,
+12,1832,1,01:53,(1:53) (Shotgun) M.Stafford pass short right to R.Bush to DET 10 for no gain (M.Hyde).,10,2,0,DET 10,0,DET,
+12,1985,0,00:08,Timeout #1 by DET at 00:08.,0,2,67,,0,,TIMEOUT
+12,2045,2,00:03,"(:03) N.Freese 41 yard field goal is No Good, Wide Left, Center-D.Muhlbach, Holder-S.Martin.",10,2,67,GB 23,0,DET,FGM
+12,1961,3,00:17,(:17) (Shotgun) M.Stafford pass deep left to C.Fuller to GB 23 for 52 yards (M.Burnett).,7,2,67,DET 25,0,DET,
+12,1944,0,00:17,Timeout #2 by GB at 00:17.,0,2,15,,0,,TIMEOUT
+12,2002,0,00:08,Timeout #3 by GB at 00:08.,0,2,67,,0,,TIMEOUT
+12,1877,3,00:34,(:34) (Shotgun) M.Stafford pass short right to R.Bush pushed ob at DET 22 for 4 yards (D.House).,2,2,12,DET 18,0,DET,
+12,1923,2,00:25,(:25) (Shotgun) M.Stafford scrambles up the middle to DET 25 for 3 yards (D.Jones).,10,2,15,DET 22,0,DET,
+12,2019,1,00:08,(:08) (Shotgun) M.Stafford pass incomplete deep middle to C.Johnson. Ball thown away.,10,2,67,GB 23,0,DET,
+12,1856,2,01:11,(1:11) (Shotgun) R.Bush right tackle to DET 18 for 8 yards (H.Clinton-Dix).,10,2,8,DET 10,0,DET,
+12,1901,1,00:28,(:28) (Shotgun) M.Stafford pass incomplete short middle to R.Bush [J.Peppers].,10,2,12,DET 22,0,DET,
+15,2621,1,04:31,"(4:31) (No Huddle, Shotgun) A.Rodgers pass short left to J.Boykin to GB 35 for 11 yards (I.Abdul-Quddus).",10,3,22,GB 24,0,GB,
+15,2600,2,05:15,(5:15) (Shotgun) D.Harris left tackle to GB 24 for 4 yards (D.Levy).,3,3,11,GB 20,0,GB,
+15,2576,1,05:40,(5:40) (Shotgun) A.Rodgers pass short left to R.Cobb to GB 20 for 7 yards (R.Mathis).,10,3,7,GB 13,0,GB,
+15,2774,2,01:52,(1:52) (Shotgun) A.Rodgers pass incomplete short middle to R.Cobb.,13,3,32,GB 45,0,GB,
+15,2645,1,04:05,"(4:05) (Shotgun) A.Rodgers pass short right to D.Adams to GB 37 for 2 yards (M.Seisay, T.Whitehead).",10,3,24,GB 35,0,GB,
+15,2818,4,01:43,"(1:43) T.Masthay punts 42 yards to DET 13, Center-B.Goode. J.Ross pushed ob at DET 25 for 12 yards (R.Taylor).",13,3,32,GB 45,0,GB,PUNT
+15,2753,1,02:35,(2:35) D.Harris right tackle to GB 45 for -3 yards (M.Seisay).,10,3,32,GB 48,0,GB,
+15,2723,3,03:09,"(3:09) (Shotgun) A.Rodgers sacked at GB 43 for 0 yards (N.Fairley, G.Johnson). PENALTY on DET-M.Seisay, Defensive Holding, 5 yards, enforced at GB 43 - No Play.",2,3,35,GB 43,0,GB,PENALTY
+15,2669,2,03:32,(3:32) (Shotgun) D.Harris up the middle to GB 38 for 1 yard (N.Fairley).,8,3,25,GB 37,0,GB,
+15,2796,3,01:48,(1:48) (Shotgun) A.Rodgers pass incomplete deep left to J.Boykin.,13,3,32,GB 45,0,GB,
+15,2690,3,03:17,"(3:17) (No Huddle) A.Rodgers pass incomplete deep middle to J.Nelson (G.Quin) [E.Ansah]. PENALTY on DET, Defensive 12 On-field, 5 yards, enforced at GB 38 - No Play.",7,3,30,GB 38,0,GB,PENALTY
+14,2525,1,05:48,(5:48) M.Stafford pass incomplete short right to B.Pettigrew [J.Peppers].,7,3,80,GB 7,0,DET,
+14,2547,2,05:45,"(5:45) (Shotgun) M.Stafford sacked at GB 13 for -6 yards (J.Peppers). FUMBLES (J.Peppers), RECOVERED by GB-J.Peppers at GB 13. J.Peppers to GB 13 for no gain (M.Stafford).",7,3,74,GB 7,0,DET,FUMBLE
+14,2447,1,07:38,(7:38) (Shotgun) M.Stafford pass short left to R.Bush ran ob at GB 10 for 8 yards (S.Barrington).,10,3,77,GB 18,0,DET,
+14,2325,3,10:45,"(10:45) (Shotgun) M.Stafford scrambles left end to DET 39 for 3 yards (M.Neal). PENALTY on GB-T.Williams, Defensive Holding, 5 yards, enforced at DET 39.",4,3,37,DET 36,0,DET,PENALTY
+14,2301,2,11:17,(11:17) (Shotgun) M.Stafford pass short right to R.Bush pushed ob at DET 36 for 6 yards (J.Lattimore).,10,3,23,DET 30,0,DET,
+14,2423,2,08:06,(8:06) M.Stafford pass short left to C.Johnson pushed ob at GB 18 for 15 yards (D.House).,9,3,69,GB 33,0,DET,
+14,2279,1,11:22,(11:22) M.Stafford pass incomplete short middle to C.Johnson.,10,3,17,DET 30,0,DET,
+14,2234,1,12:40,(12:40) J.Bell up the middle to DET 13 for no gain (M.Daniels; M.Neal).,10,3,0,DET 13,0,DET,
+14,2483,2,07:09,(7:09) J.Bell left tackle to GB 9 for 1 yard (S.Barrington).,2,3,78,GB 10,0,DET,
+14,2378,2,09:30,(9:30) M.Stafford pass deep left to G.Tate to GB 34 for 16 yards (M.Hyde) [J.Boyd].,4,3,53,50,0,DET,
+14,2402,1,08:44,"(8:44) J.Bell up the middle to GB 33 for 1 yard (N.Perry, M.Hyde).",10,3,54,GB 34,0,DET,
+14,2255,2,12:01,(12:01) M.Stafford pass short middle to C.Johnson to DET 30 for 17 yards (S.Shields).,10,3,17,DET 13,0,DET,
+14,2504,3,06:30,(6:30) J.Collins up the middle to GB 7 for 2 yards (J.Boyd).,1,3,80,GB 9,0,DET,
+14,2357,1,10:11,(10:11) (Shotgun) R.Bush up the middle to 50 for 6 yards (A.Hawk).,10,3,37,DET 44,0,DET,
+17,3384,3,07:06,(7:06) (Shotgun) A.Rodgers pass incomplete short left to A.Quarless (D.Levy).,5,4,70,DET 20,0,GB,
+17,3220,1,10:32,(10:32) (Shotgun) A.Rodgers pass short left to D.Adams to GB 19 for 9 yards (I.Abdul-Quddus).,10,4,9,GB 10,0,GB,
+17,3244,2,09:55,(9:55) (Shotgun) E.Lacy up the middle to GB 36 for 17 yards (I.Abdul-Quddus).,1,4,29,GB 19,0,GB,
+17,3363,2,07:47,"(7:47) (No Huddle, Shotgun) E.Lacy left tackle to DET 20 for -4 yards (G.Johnson).",1,4,70,DET 16,0,GB,
+17,3265,1,09:27,"(9:27) (No Huddle, Shotgun) E.Lacy left tackle to GB 39 for 3 yards (D.Levy).",10,4,29,GB 36,0,GB,
+17,3146,0,10:40,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback. PENALTY on DET-A.Palmer, Offside on Free Kick, 5 yards, enforced at DET 35 - No Play.",0,4,0,DET 35,0,DET,PENALTY
+17,3406,4,06:59,(6:59) (Shotgun) A.Rodgers pass incomplete deep right to J.Nelson (D.Levy).,5,4,70,DET 20,0,GB,
+17,3286,2,08:52,"(8:52) (No Huddle, Shotgun) A.Rodgers pass short right to J.Nelson ran ob at DET 43 for 18 yards (D.Slay).",7,4,70,GB 39,0,GB,
+17,3339,1,08:08,"(8:08) (No Huddle, Shotgun) A.Rodgers pass short middle to E.Lacy to DET 16 for 9 yards (T.Whitehead).",10,4,74,DET 25,0,GB,
+17,3165,0,10:40,"S.Martin kicks 76 yards from DET 30 to GB -6. D.Harris to GB 26 for 32 yards (T.Whitehead). PENALTY on GB-B.Bostick, Offensive Holding, 10 yards, enforced at GB 20.",0,4,0,DET 30,0,DET,KICKOFF
+17,3315,1,08:32,"(8:32) (No Huddle, Shotgun) A.Rodgers pass short middle to A.Quarless to DET 25 for 18 yards (D.Slay; D.Levy).",10,4,65,DET 43,0,GB,
+16,2961,2,15:00,(15:00) M.Stafford pass short right to C.Johnson to DET 48 for 4 yards (T.Williams).,3,4,23,DET 44,0,DET,
+16,2867,2,00:59,(:59) J.Bell right tackle to DET 32 for -1 yards (C.Hayward).,2,3,7,DET 33,0,DET,
+16,2921,1,00:13,(:13) M.Stafford pass short right to J.Ross pushed ob at DET 44 for 7 yards (S.Shields; C.Hayward).,10,3,19,DET 37,0,DET,
+16,3113,3,10:47,"(10:47) (Shotgun) R.Bush left end for 26 yards, TOUCHDOWN.",2,4,75,GB 26,1,DET,TD
+16,2888,3,00:17,"(:17) (Shotgun) M.Stafford pass incomplete short left to C.Johnson (T.Williams). PENALTY on GB-T.Williams, Defensive Pass Interference, 5 yards, enforced at DET 32 - No Play.",3,3,12,DET 32,0,DET,PENALTY
+16,3030,3,12:51,(12:51) M.Stafford pass short right to G.Tate to GB 34 for 9 yards (T.Williams).,1,4,41,GB 43,0,DET,
+16,2843,1,01:33,(1:33) M.Stafford pass short right to C.Johnson to DET 33 for 8 yards (S.Shields).,10,3,8,DET 25,0,DET,
+16,2985,1,14:20,(14:20) (Shotgun) R.Bush left tackle to GB 48 for 4 yards (A.Hawk; S.Barrington).,10,4,27,DET 48,0,DET,
+16,3006,2,13:39,(13:39) M.Stafford pass short right to J.Ross to GB 43 for 5 yards (T.Williams; J.Lattimore).,6,4,32,GB 48,0,DET,
+16,3096,0,10:47,Timeout #1 by GB at 10:47.,0,4,49,,0,,TIMEOUT
+16,3075,2,11:26,"(11:26) T.Riddick left end to GB 26 for 6 yards (J.Lattimore, N.Perry).",8,4,49,GB 32,0,DET,
+16,2945,0,,END QUARTER 3,0,3,19,,0,,
+16,3054,1,12:05,(12:05) J.Bell left tackle to GB 32 for 2 yards (N.Perry).,10,4,43,GB 34,0,DET,
+16,3130,0,10:40,"N.Freese extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin.",0,4,75,GB 2,1,DET,XP
+18,3557,0,03:02,Timeout #2 by GB at 03:02.,0,4,22,,0,,TIMEOUT
+18,3612,2,02:55,(2:55) J.Bell right end to DET 48 for 1 yard (T.Williams).,5,4,28,DET 47,0,DET,
+18,3428,1,06:54,(6:54) J.Bell right tackle to DET 20 for no gain (D.Jones).,10,4,0,DET 20,0,DET,
+18,3470,3,05:24,(5:24) (Shotgun) M.Stafford pass short right to G.Tate to DET 31 for 8 yards (T.Williams; D.Jones).,7,4,11,DET 23,0,DET,
+18,3637,3,02:10,(2:10) (Shotgun) J.Bell left tackle to GB 48 for 4 yards (S.Barrington).,4,4,32,DET 48,0,DET,
+18,3595,0,02:55,Timeout #3 by GB at 02:55.,0,4,27,,0,,TIMEOUT
+18,3574,1,03:02,(3:02) J.Bell right end to DET 47 for 5 yards (T.Williams; J.Boyd).,10,4,27,DET 42,0,DET,
+18,3494,1,04:40,(4:40) T.Riddick right end to DET 36 for 5 yards (M.Daniels).,10,4,16,DET 31,0,DET,
+18,3738,0,00:00,END GAME,0,4,29,,0,,
+18,3717,3,00:39,(:39) M.Stafford kneels to DET 49 for -1 yards.,12,4,29,50,0,DET,
+18,3515,2,03:54,(3:54) J.Bell right tackle to DET 38 for 2 yards (A.Hawk).,5,4,18,DET 36,0,DET,
+18,3658,0,02:00,Two-Minute Warning,0,4,32,,0,,
+18,3696,2,01:18,(1:18) M.Stafford kneels to 50 for -1 yards.,11,4,30,GB 49,0,DET,
+18,3536,3,03:08,(3:08) R.Bush right tackle to DET 42 for 4 yards (J.Lattimore).,3,4,22,DET 38,0,DET,
+18,3449,2,06:11,(6:11) J.Bell left tackle to DET 23 for 3 yards (M.Burnett).,10,4,3,DET 20,0,DET,
+18,3675,1,01:59,(1:59) M.Stafford kneels to GB 49 for -1 yards.,10,4,31,GB 48,0,DET,
+1,152,3,13:02,(13:02) (Shotgun) M.Stafford pass incomplete short left to G.Tate (T.Williams).,8,1,13,DET 30,0,DET,
+1,109,1,13:41,(13:41) (Shotgun) R.Bush up the middle to DET 30 for 2 yards (M.Daniels).,10,1,13,DET 28,0,DET,
+1,45,0,15:00,M.Crosby kicks 70 yards from GB 35 to DET -5. J.Ross to DET 17 for 22 yards (J.Bush).,0,1,0,GB 35,0,GB,KICKOFF
+1,88,2,14:21,(14:21) J.Bell left tackle to DET 28 for 5 yards (C.Matthews).,4,1,11,DET 23,0,DET,
+1,130,2,13:05,(13:05) M.Stafford pass incomplete short left to J.Fauria.,8,1,13,DET 30,0,DET,
+1,67,1,14:55,(14:55) R.Bush left tackle to DET 23 for 6 yards (A.Hawk).,10,1,6,DET 17,0,DET,
+1,174,4,12:55,"(12:55) S.Martin punts 55 yards to GB 15, Center-D.Muhlbach. R.Cobb to GB 37 for 22 yards (G.Johnson).",8,1,13,DET 30,0,DET,PUNT
+3,264,0,12:02,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,1,7,DET 35,0,DET,KICKOFF
+3,304,2,11:29,"(11:29) (No Huddle, Shotgun) J.Starks up the middle to GB 27 for 3 yards (D.Levy).",6,1,7,GB 24,0,GB,
+3,378,4,10:53,"(10:53) T.Masthay punts 48 yards to DET 30, Center-B.Goode, out of bounds.",8,1,2,GB 22,0,GB,PUNT
+3,347,4,10:53,"(10:53) (Punt formation) PENALTY on GB-B.Bostick, False Start, 5 yards, enforced at GB 27 - No Play.",3,1,2,GB 27,0,GB,PENALTY
+3,325,3,10:58,"(10:58) (No Huddle, Shotgun) A.Rodgers pass incomplete deep right to R.Cobb (D.Gorrer).",3,1,7,GB 27,0,GB,
+3,283,1,12:02,(12:02) (Shotgun) J.Starks left tackle to GB 24 for 4 yards (D.Levy).,10,1,4,GB 20,0,GB,
+2,199,1,12:37,(12:37) (Shotgun) E.Lacy left tackle to GB 40 for 3 yards (N.Suh; J.Jones).,10,1,3,GB 37,0,GB,
+2,220,2,12:13,"(12:13) (No Huddle, Shotgun) E.Lacy left tackle to GB 40 for no gain (N.Fairley). FUMBLES (N.Fairley), RECOVERED by DET-D.Carey at GB 40. D.Carey for 40 yards, TOUCHDOWN.",7,1,3,GB 40,1,GB,TD
+5,591,3,07:59,(7:59) (Shotgun) A.Rodgers sacked at GB 30 for -7 yards (S.Tulloch).,10,1,8,GB 37,0,GB,
+5,569,2,08:03,"(8:03) (No Huddle, Shotgun) A.Rodgers pass incomplete short right to J.Boykin (D.Slay).",10,1,15,GB 37,0,GB,
+5,610,4,07:24,"(7:24) T.Masthay punts 42 yards to DET 28, Center-B.Goode. J.Ross to DET 32 for 4 yards (D.House).",17,1,8,GB 30,0,GB,PUNT
+5,524,2,08:53,(8:53) (No Huddle) A.Rodgers pass short right to R.Cobb pushed ob at GB 37 for 9 yards (D.Slay).,4,1,15,GB 28,0,GB,
+5,548,1,08:38,(8:38) (No Huddle) E.Lacy left end to GB 37 for no gain (S.Tulloch).,10,1,15,GB 37,0,GB,
+5,503,1,09:22,(9:22) (Shotgun) E.Lacy up the middle to GB 28 for 6 yards (G.Johnson).,10,1,6,GB 22,0,GB,
+4,467,4,09:29,"(9:29) S.Martin punts 49 yards to GB 16, Center-D.Muhlbach. R.Cobb to GB 17 for 1 yard (J.Ross). PENALTY on DET, Illegal Shift, 5 yards, enforced at GB 17.",5,1,5,DET 35,0,DET,PUNT
+4,424,2,10:16,(10:16) R.Bush up the middle to DET 35 for 2 yards (M.Burnett).,7,1,5,DET 33,0,DET,
+4,445,3,09:33,(9:33) (Shotgun) M.Stafford pass incomplete short right to E.Ebron [J.Peppers].,5,1,5,DET 35,0,DET,
+4,400,1,10:46,(10:46) M.Stafford pass short right to J.Fauria pushed ob at DET 33 for 3 yards (J.Lattimore).,10,1,3,DET 30,0,DET,
+7,902,2,02:23,(2:23) J.Starks right tackle to DET 35 for no gain (D.Levy).,10,1,24,DET 35,0,GB,
+7,786,1,03:46,(3:46) (Shotgun) J.Starks right end to GB 43 for 2 yards (E.Ansah). DET-S.Tulloch was injured during the play. He is Out.,10,1,59,GB 41,0,GB,
+7,990,3,00:43,"(:43) (Shotgun) A.Rodgers pass short middle to A.Quarless for 10 yards, TOUCHDOWN.",1,1,59,DET 10,1,GB,TD
+7,947,1,01:24,(1:24) (No Huddle) J.Starks right end to DET 10 for 9 yards (G.Johnson).,10,1,49,DET 19,0,GB,
+7,968,2,00:45,(:45) A.Rodgers pass incomplete short right to D.Adams.,1,1,49,DET 10,0,GB,
+7,845,1,02:56,(2:56) (Shotgun) A.Rodgers pass short right to J.Nelson to DET 35 for 14 yards (T.Whitehead).,10,1,59,DET 49,0,GB,
+7,873,1,02:29,(2:29) (Shotgun) A.Rodgers pass incomplete short right to J.Starks.,10,1,59,DET 35,0,GB,
+7,1010,0,00:39,"M.Crosby extra point is GOOD, Center-B.Goode, Holder-T.Masthay.",0,1,59,DET 2,1,GB,XP
+7,923,3,01:41,(1:41) (Shotgun) A.Rodgers pass deep right to J.Nelson ran ob at DET 19 for 16 yards.,10,1,59,DET 35,0,GB,
+7,807,2,03:16,"(3:16) (Shotgun) J.Starks left tackle to GB 46 for 3 yards (C.Mosley). PENALTY on DET-D.Gorrer, Illegal Use of Hands, 5 yards, enforced at GB 46.",8,1,59,GB 43,0,GB,PENALTY
+6,635,1,07:14,(7:14) (Shotgun) M.Stafford pass short left to J.Ross pushed ob at DET 40 for 8 yards (C.Matthews).,10,1,8,DET 32,0,DET,
+6,704,1,05:17,(5:17) M.Stafford pass short right to G.Tate to GB 37 for 1 yard (S.Shields).,10,1,31,GB 38,0,DET,
+6,749,3,03:55,"(3:55) (Shotgun) M.Stafford pass deep left intended for C.Fuller INTERCEPTED by H.Clinton-Dix at GB 17. H.Clinton-Dix to GB 26 for 9 yards (J.Bell). PENALTY on DET-J.Bell, Low Block, 15 yards, enforced at GB 26.",14,1,26,GB 42,0,DET,INT
+6,680,1,05:58,(5:58) M.Stafford pass short middle to G.Tate to GB 38 for 17 yards (J.Lattimore).,10,1,30,DET 45,0,DET,
+6,728,2,04:37,(4:37) J.Ross right end to GB 42 for -5 yards (C.Matthews).,9,1,26,GB 37,0,DET,
+6,659,2,06:36,(6:36) T.Riddick left tackle to DET 45 for 5 yards (J.Boyd).,2,1,13,DET 40,0,DET,
+9,1173,1,13:26,"(13:26) E.Lacy right tackle tackled in End Zone for -1 yards, SAFETY (D.Levy).",10,2,-1,GB 1,1,GB,SAF
+8,1026,0,00:39,"M.Crosby kicks 65 yards from GB 35 to end zone, Touchback.",0,1,31,GB 35,0,GB,KICKOFF
+8,1081,2,15:00,(15:00) (Shotgun) M.Stafford pass deep left to C.Johnson to GB 49 for 26 yards (S.Shields) [C.Matthews].,5,2,31,DET 25,0,DET,
+8,1044,1,00:39,(:39) J.Bell up the middle to DET 25 for 5 yards (A.Hawk; J.Lattimore).,10,1,5,DET 20,0,DET,
+8,1151,3,13:36,"(13:36) (Shotgun) M.Stafford pass deep right intended for C.Johnson INTERCEPTED by D.House at GB 0. Touchback. The Replay Official challenged the touchback ruling, and the play was REVERSED. (Shotgun) M.Stafford pass deep right intended for C.Johnson INTERCEPTED by D.House at GB 1. D.House to GB 1 for no gain (C.Johnson).",10,2,31,GB 49,0,DET,INT
+8,1065,0,,END QUARTER 1,0,1,5,,0,,
+8,1126,2,13:40,(13:40) M.Stafford pass incomplete short left to G.Tate.,10,2,31,GB 49,0,DET,
+8,1105,1,14:19,(14:19) R.Bush right end to GB 49 for no gain (A.Hawk).,10,2,31,GB 49,0,DET,

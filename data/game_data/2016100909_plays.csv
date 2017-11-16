@@ -1,166 +1,166 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1714,0,02:00,,0,2,63,,0,,
-9,1622,2,04:04,,10,2,37,BUF 32,0,LA,
-9,1670,1,02:48,,10,2,54,BUF 15,0,LA,PENALTY
-9,1757,0,01:56,,0,2,64,BUF 15,1,LA,XP
-9,1693,1,02:37,,5,2,63,BUF 10,0,LA,
-9,1522,1,06:35,,10,2,12,LA 36,0,LA,
-9,1556,1,06:02,,10,2,14,LA 48,0,LA,
-9,1577,2,05:22,,8,2,32,50,0,LA,
-9,1737,1,02:00,,1,2,64,BUF 1,1,LA,TD
-9,1601,1,04:41,,10,2,32,BUF 32,0,LA,
-9,1646,3,03:27,,5,2,49,BUF 27,0,LA,
-10,2032,0,00:03,,0,2,56,,0,,TIMEOUT
-10,1773,0,01:56,,0,2,0,LA 35,0,LA,KICKOFF
-10,2066,1,00:03,,5,2,70,LA 5,1,BUF,FG
-10,1920,1,00:30,,10,2,35,LA 35,0,BUF,
-10,2014,2,00:09,,6,2,70,LA 19,0,BUF,
-10,1874,2,01:01,,1,2,23,BUF 48,0,BUF,
-10,1967,2,00:24,,15,2,52,LA 40,0,BUF,
-10,1938,0,00:24,,0,2,40,,0,,TIMEOUT
-10,1788,1,01:56,,10,2,40,BUF 25,0,BUF,
-10,1857,0,01:01,,0,2,23,,0,,TIMEOUT
-10,1836,1,01:09,,10,2,23,BUF 39,0,BUF,
-10,1896,3,00:57,,1,2,40,BUF 48,0,BUF,
-10,1993,1,00:16,,10,2,56,LA 23,0,BUF,
-10,1812,2,01:33,,5,2,14,BUF 30,0,BUF,
-20,3634,1,02:55,,1,4,24,LA 1,0,BUF,
-20,3727,0,02:37,,0,4,25,LA 15,1,BUF,XP
-20,3672,2,02:48,,1,4,25,LA 1,0,BUF,PENALTY
-20,3613,1,03:41,,10,4,24,LA 25,0,BUF,
-20,3654,0,02:48,,0,4,24,,0,,TIMEOUT
-20,3706,2,02:43,,6,4,25,LA 6,1,BUF,TD
-6,1169,3,11:12,,13,2,9,BUF 8,0,BUF,
-6,1129,1,12:15,,10,2,9,BUF 11,0,BUF,
-6,1148,2,11:39,,17,2,-3,BUF 4,0,BUF,
-6,1193,4,10:26,,1,2,9,BUF 20,0,BUF,PUNT
-18,3490,4,04:42,,3,4,7,BUF 32,0,BUF,PUNT
-18,3442,2,05:10,,6,4,7,BUF 29,0,BUF,
-18,3421,1,05:51,,10,4,4,BUF 25,0,BUF,
-18,3405,0,05:51,,0,4,0,LA 35,0,LA,KICKOFF
-18,3463,3,04:47,,3,4,7,BUF 32,0,BUF,
-1,180,2,12:05,,6,1,60,BUF 33,0,LA,
-1,314,3,09:43,,13,1,60,BUF 19,0,LA,
-1,58,1,14:55,,10,1,46,LA 21,0,LA,
-1,248,1,10:27,,10,1,65,BUF 16,0,LA,
-1,206,1,11:39,,10,1,60,BUF 27,0,LA,
-1,103,3,13:45,,2,1,52,LA 29,0,LA,
-1,82,2,14:20,,6,1,52,LA 25,0,LA,
-1,227,2,11:01,,2,1,63,BUF 19,0,LA,
-1,269,2,09:48,,8,1,65,BUF 14,0,LA,
-1,343,4,09:36,,13,1,60,BUF 19,1,LA,FG
-1,127,1,13:02,,10,1,41,BUF 47,0,LA,
-1,291,3,09:43,,8,1,60,BUF 14,0,LA,PENALTY
-1,156,1,12:32,,10,1,45,BUF 37,0,LA,
-1,36,0,15:00,,0,1,46,BUF 35,0,BUF,KICKOFF
-5,1103,4,12:25,,1,2,9,LA 30,0,LA,PUNT
-5,1060,2,13:15,,3,2,9,LA 28,0,LA,
-5,1017,0,13:59,,0,2,0,BUF 35,0,BUF,KICKOFF
-5,1081,3,12:33,,1,2,9,LA 30,0,LA,
-5,1039,1,13:52,,10,2,7,LA 21,0,LA,
-13,2589,3,05:38,,7,3,22,BUF 44,0,BUF,
-13,2529,1,06:22,,10,3,22,BUF 41,0,BUF,
-13,2572,0,05:38,,0,3,22,,0,,TIMEOUT
-13,2550,2,05:47,,7,3,22,BUF 44,0,BUF,
-13,2407,0,08:05,,0,3,0,LA 35,0,LA,KICKOFF
-13,2450,2,07:28,,9,3,4,BUF 23,0,BUF,
-13,2493,4,06:37,,6,3,22,BUF 26,0,BUF,PENALTY
-13,2429,1,07:58,,10,3,1,BUF 22,0,BUF,
-13,2471,3,06:42,,6,3,4,BUF 26,0,BUF,
-13,2611,4,05:32,,7,3,22,BUF 44,0,BUF,PUNT
-21,3835,0,02:00,,0,4,-9,,0,,
-21,3765,1,02:30,,10,4,-8,LA 24,0,LA,
-21,3743,0,02:37,,0,4,0,BUF 35,0,BUF,KICKOFF
-21,3852,4,02:00,,18,4,-8,LA 16,0,LA,INT
-21,3816,3,02:17,,10,4,-8,LA 24,0,LA,
-21,3787,2,02:24,,10,4,0,LA 24,0,LA,
-11,2099,0,15:00,,0,3,0,LA 35,0,LA,KICKOFF
-11,2142,2,14:17,,12,3,4,BUF 20,0,BUF,
-11,2121,1,14:53,,10,3,-2,BUF 22,0,BUF,
-11,2166,3,13:37,,6,3,4,BUF 26,0,BUF,
-11,2188,4,13:29,,6,3,4,BUF 26,0,BUF,PUNT
-14,2637,1,05:23,,10,3,21,LA 14,0,LA,
-14,2661,1,04:47,,10,3,17,LA 35,0,LA,
-14,2682,2,04:05,,14,3,17,LA 31,1,LA,TD
-8,1496,4,06:49,,3,2,2,BUF 17,0,BUF,PUNT
-8,1445,2,07:02,,3,2,7,BUF 17,0,BUF,
-8,1361,0,07:46,,0,2,7,LA 35,0,LA,KICKOFF
-8,1474,3,06:57,,3,2,2,BUF 17,0,BUF,
-8,1394,1,07:38,,10,2,7,BUF 10,0,BUF,PENALTY
-8,1416,1,07:38,,5,2,7,BUF 15,0,BUF,
-19,3509,1,04:35,,10,4,3,LA 18,0,LA,
-19,3559,3,03:54,,5,4,5,LA 23,0,LA,
-19,3588,4,03:47,,5,4,7,LA 23,0,LA,
-19,3538,2,04:30,,7,4,5,LA 21,0,LA,
-22,3946,0,00:00,,0,4,-5,,0,,
-22,3902,2,01:02,,11,4,-4,LA 15,0,BUF,
-22,3923,3,00:14,,14,4,-5,LA 18,0,BUF,
-22,3879,1,01:48,,10,4,-5,LA 14,0,BUF,
-12,2273,2,11:27,,6,3,37,50,0,LA,
-12,2207,1,13:18,,10,3,14,LA 16,0,LA,
-12,2297,3,10:48,,3,3,41,BUF 47,0,LA,
-12,2368,3,08:51,,3,3,48,BUF 36,0,LA,
-12,2323,1,10:15,,10,3,43,BUF 43,0,LA,
-12,2231,1,12:44,,10,3,30,LA 30,0,LA,
-12,2344,2,09:34,,8,3,48,BUF 41,0,LA,
-12,2387,4,08:11,,3,3,48,BUF 36,1,LA,FG
-12,2252,1,12:07,,10,3,34,LA 46,0,LA,
-16,2885,1,00:46,,10,3,23,LA 43,0,BUF,
-16,2921,0,,,0,3,23,,0,,
-16,2864,2,01:24,,3,3,20,BUF 44,0,BUF,
-16,2980,4,14:17,,6,4,24,LA 39,0,BUF,PUNT
-16,2839,1,01:48,,10,3,7,BUF 37,0,BUF,
-16,2958,3,14:27,,6,4,24,LA 39,0,BUF,
-16,2937,2,15:00,,7,4,24,LA 40,0,BUF,
-7,1268,1,09:26,,10,2,52,BUF 19,0,LA,
-7,1342,4,07:49,,4,2,52,BUF 13,1,LA,FG
-7,1318,3,08:34,,5,2,52,BUF 14,0,LA,
-7,1297,2,09:19,,10,2,51,BUF 19,0,LA,
-7,1212,1,10:19,,10,2,31,LA 35,0,LA,
-7,1236,1,09:53,,10,2,52,BUF 34,0,LA,PENALTY
-3,773,1,02:22,,10,1,38,LA 25,0,LA,PENALTY
-3,878,2,00:10,,19,1,37,BUF 39,0,LA,FUMBLE
-3,813,1,02:14,,10,1,17,LA 40,0,LA,
-3,834,2,01:38,,8,1,45,LA 42,0,LA,
-3,858,1,00:52,,10,1,36,BUF 30,0,LA,
-3,755,0,02:22,,0,1,36,BUF 35,0,BUF,KICKOFF
-17,3216,1,09:36,,10,4,80,BUF 30,0,LA,
-17,3133,1,10:46,,10,4,32,LA 44,0,LA,PENALTY
-17,3109,1,11:41,,15,4,37,LA 13,0,LA,
-17,3265,1,08:17,,10,4,83,BUF 19,0,LA,
-17,3286,2,07:50,,1,4,85,BUF 10,0,LA,
-17,3385,4,05:55,,4,4,89,BUF 4,1,LA,FG
-17,3339,2,06:41,,13,4,80,BUF 13,0,LA,
-17,3086,1,11:59,,10,4,6,LA 18,0,LA,PENALTY
-17,3009,1,14:07,,10,4,8,LA 7,0,LA,
-17,3307,1,07:06,,8,4,80,BUF 8,0,LA,
-17,3183,1,09:47,,10,4,85,BUF 35,0,LA,PENALTY
-17,3156,1,10:27,,15,4,58,LA 39,0,LA,
-17,3361,3,06:34,,13,4,89,BUF 13,0,LA,
-17,3237,2,08:58,,9,4,89,BUF 29,0,LA,
-17,3033,2,13:31,,2,4,9,LA 15,0,LA,
-17,3054,3,12:47,,1,4,89,LA 16,0,LA,FUMBLE
-4,962,1,14:52,,5,2,58,BUF 42,0,BUF,
-4,983,1,14:05,,5,2,63,LA 5,1,BUF,TD
-4,929,1,15:00,,10,2,5,BUF 37,0,BUF,PENALTY
-4,1001,0,13:59,,0,2,63,LA 15,0,BUF,XPB
-2,406,1,08:48,,10,1,76,BUF 39,0,BUF,FUMBLE
-2,553,3,04:49,,1,1,43,LA 39,0,BUF,
-2,422,2,08:02,,28,1,37,BUF 21,0,BUF,
-2,464,1,06:27,,10,1,72,LA 48,0,BUF,PENALTY
-2,643,2,03:09,,4,1,72,LA 4,0,BUF,
-2,620,1,03:21,,4,1,72,LA 4,0,BUF,
-2,443,3,07:16,,19,1,28,BUF 30,0,BUF,
-2,739,0,02:22,,0,1,76,LA 15,1,BUF,XP
-2,574,1,04:18,,10,1,72,LA 33,0,BUF,
-2,363,0,09:31,,0,1,0,LA 35,0,LA,KICKOFF
-2,596,2,04:11,,10,1,72,LA 33,0,BUF,
-2,385,1,09:24,,10,1,15,BUF 24,0,BUF,
-2,502,1,05:58,,15,1,25,BUF 47,0,BUF,
-2,523,2,05:25,,13,1,37,BUF 49,0,BUF,
-2,664,3,02:32,,4,1,76,LA 4,1,BUF,TD
-15,2813,4,01:58,,15,3,-5,LA 11,0,LA,PUNT
-15,2721,0,03:54,,0,3,0,BUF 35,0,BUF,KICKOFF
-15,2743,1,03:48,,10,3,-5,LA 16,0,LA,
-15,2764,2,03:10,,8,3,6,LA 18,0,LA,
-15,2788,3,02:36,,4,3,-5,LA 22,0,LA,
+20,3613,1,03:41,(3:41) L.McCoy left tackle to LA 1 for 24 yards (D.Easley).,10,4,24,LA 25,0,BUF,
+20,3634,1,02:55,(2:55) L.McCoy up the middle to LA 1 for no gain (D.Easley).,1,4,24,LA 1,0,BUF,
+20,3672,2,02:48,"(2:48) R.Groy reported in as eligible.  M.Gillislee up the middle to LA 3 for -2 yards (A.Donald). PENALTY on BUF-C.Glenn, Illegal Formation, 5 yards, enforced at LA 1 - No Play.",1,4,25,LA 1,0,BUF,PENALTY
+20,3654,0,02:48,Timeout #1 by LA at 02:48.,0,4,24,,0,,TIMEOUT
+20,3727,0,02:37,"D.Carpenter extra point is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",0,4,25,LA 15,1,BUF,XP
+20,3706,2,02:43,"(2:43) (Shotgun) T.Taylor pass short left to M.Goodwin for 6 yards, TOUCHDOWN [T.McDonald].",6,4,25,LA 6,1,BUF,TD
+21,3835,0,02:00,Two-Minute Warning,0,4,-9,,0,,
+21,3816,3,02:17,(2:17) (Shotgun) C.Keenum sacked at LA 16 for -8 yards (L.Alexander).,10,4,-8,LA 24,0,LA,
+21,3787,2,02:24,(2:24) (Shotgun) C.Keenum pass incomplete deep left to K.Britt.,10,4,0,LA 24,0,LA,
+21,3743,0,02:37,D.Carpenter kicks 62 yards from BUF 35 to LA 3. M.Thomas to LA 24 for 21 yards (R.Humber).,0,4,0,BUF 35,0,BUF,KICKOFF
+21,3852,4,02:00,(2:00) (Shotgun) C.Keenum pass short right intended for T.Austin INTERCEPTED by N.Robey-Coleman [L.Alexander] at LA 17. N.Robey-Coleman to LA 14 for 3 yards (T.Austin).,18,4,-8,LA 16,0,LA,INT
+21,3765,1,02:30,(2:30) (Shotgun) C.Keenum pass incomplete short right to T.Higbee.,10,4,-8,LA 24,0,LA,
+22,3879,1,01:48,(1:48) R.Groy reported in as eligible.  L.McCoy right guard to LA 15 for -1 yards (A.Donald).,10,4,-5,LA 14,0,BUF,
+22,3946,0,00:00,END GAME,0,4,-5,,0,,
+22,3902,2,01:02,(1:02) L.McCoy left tackle to LA 18 for -3 yards (M.Longacre).,11,4,-4,LA 15,0,BUF,
+22,3923,3,00:14,(:14) R.Groy reported in as eligible.  T.Taylor kneels to LA 19 for -1 yards.,14,4,-5,LA 18,0,BUF,
+1,58,1,14:55,(14:55) (Shotgun) C.Keenum pass short right to T.Austin to LA 25 for 4 yards (R.Darby).,10,1,46,LA 21,0,LA,
+1,156,1,12:32,(12:32) (Shotgun) C.Keenum pass short left to T.Austin to BUF 33 for 4 yards (J.Hughes).,10,1,45,BUF 37,0,LA,
+1,206,1,11:39,(11:39) T.Austin up the middle to BUF 19 for 8 yards (J.Hughes; R.Blanton).,10,1,60,BUF 27,0,LA,
+1,36,0,15:00,D.Carpenter kicks 66 yards from BUF 35 to LA -1. M.Thomas to LA 21 for 22 yards (R.Blanton).,0,1,46,BUF 35,0,BUF,KICKOFF
+1,314,3,09:43,(9:43) (Shotgun) C.Keenum pass incomplete short left to T.Austin.,13,1,60,BUF 19,0,LA,
+1,227,2,11:01,(11:01) T.Gurley up the middle to BUF 16 for 3 yards (K.Williams).,2,1,63,BUF 19,0,LA,
+1,180,2,12:05,(12:05) (Shotgun) T.Gurley up the middle to BUF 27 for 6 yards (R.Blanton). LA-C.Wichmann was injured during the play. His return is Questionable.,6,1,60,BUF 33,0,LA,
+1,343,4,09:36,"(9:36) G.Zuerlein 37 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",13,1,60,BUF 19,1,LA,FG
+1,127,1,13:02,(13:02) C.Keenum pass short right to T.Austin ran ob at BUF 37 for 10 yards.,10,1,41,BUF 47,0,LA,
+1,82,2,14:20,(14:20) (Shotgun) T.Gurley up the middle to LA 29 for 4 yards (Z.Brown).,6,1,52,LA 25,0,LA,
+1,103,3,13:45,(13:45) (Shotgun) C.Keenum pass short left to T.Gurley to BUF 47 for 24 yards (Z.Brown).,2,1,52,LA 29,0,LA,
+1,269,2,09:48,(9:48) (Shotgun) C.Keenum pass incomplete short middle to T.Gurley.,8,1,65,BUF 14,0,LA,
+1,248,1,10:27,(10:27) T.Gurley left end to BUF 14 for 2 yards (Z.Brown).,10,1,65,BUF 16,0,LA,
+1,291,3,09:43,"(9:43) (Shotgun) PENALTY on LA-R.Saffold, False Start, 5 yards, enforced at BUF 14 - No Play.",8,1,60,BUF 14,0,LA,PENALTY
+3,773,1,02:22,"(2:22) C.Keenum pass incomplete deep left to K.Britt (J.Hughes) [A.Washington]. PENALTY on BUF-A.Washington, Roughing the Passer, 15 yards, enforced at LA 25 - No Play.",10,1,38,LA 25,0,LA,PENALTY
+3,878,2,00:10,"(:10) (Shotgun) T.Gurley up the middle to BUF 38 for 1 yard (L.McCray). FUMBLES (L.McCray), RECOVERED by BUF-C.Graham at BUF 37. C.Graham to BUF 37 for no gain (L.Kendricks).",19,1,37,BUF 39,0,LA,FUMBLE
+3,858,1,00:52,(:52) (Shotgun) C.Keenum sacked at BUF 39 for -9 yards (A.Washington).,10,1,36,BUF 30,0,LA,
+3,755,0,02:22,"D.Carpenter kicks 65 yards from BUF 35 to end zone, Touchback.",0,1,36,BUF 35,0,BUF,KICKOFF
+3,813,1,02:14,(2:14) T.Gurley left tackle to LA 42 for 2 yards (P.Brown).,10,1,17,LA 40,0,LA,
+3,834,2,01:38,(1:38) C.Keenum pass short right to K.Britt to BUF 30 for 28 yards (C.Graham).,8,1,45,LA 42,0,LA,
+2,620,1,03:21,(3:21) (Shotgun) T.Taylor pass incomplete short middle to R.Woods.,4,1,72,LA 4,0,BUF,
+2,596,2,04:11,(4:11) T.Taylor pass deep middle to C.Clay to LA 4 for 29 yards (T.McDonald) [E.Westbrooks].,10,1,72,LA 33,0,BUF,
+2,443,3,07:16,(7:16) (Shotgun) T.Taylor scrambles up the middle to LA 48 for 22 yards (T.Johnson).,19,1,28,BUF 30,0,BUF,
+2,464,1,06:27,"(6:27) (Shotgun) T.Taylor pass short middle to C.Clay to LA 40 for 8 yards (M.Barron). PENALTY on BUF, Illegal Shift, 5 yards, enforced at LA 48 - No Play.",10,1,72,LA 48,0,BUF,PENALTY
+2,664,3,02:32,"(2:32) T.Taylor pass short left to J.Hunter for 4 yards, TOUCHDOWN. The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field was confirmed.",4,1,76,LA 4,1,BUF,TD
+2,553,3,04:49,(4:49) J.Felton right tackle to LA 33 for 6 yards (T.McDonald).,1,1,43,LA 39,0,BUF,
+2,574,1,04:18,(4:18) T.Taylor pass incomplete short right to R.Woods (E.Westbrooks).,10,1,72,LA 33,0,BUF,
+2,406,1,08:48,"(8:48) (Shotgun) T.Taylor Aborted. E.Wood FUMBLES at BUF 39, recovered by BUF-T.Taylor at BUF 24. T.Taylor to BUF 21 for -3 yards (A.Ogletree).",10,1,76,BUF 39,0,BUF,FUMBLE
+2,643,2,03:09,(3:09) (Shotgun) L.McCoy left tackle to LA 4 for no gain (A.Ogletree).,4,1,72,LA 4,0,BUF,
+2,385,1,09:24,(9:24) L.McCoy left guard to BUF 39 for 15 yards (T.McDonald).,10,1,15,BUF 24,0,BUF,
+2,523,2,05:25,(5:25) (Shotgun) T.Taylor pass short middle to C.Clay to LA 39 for 12 yards (M.Barron).,13,1,37,BUF 49,0,BUF,
+2,739,0,02:22,"D.Carpenter extra point is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",0,1,76,LA 15,1,BUF,XP
+2,422,2,08:02,(8:02) (Shotgun) L.McCoy left guard to BUF 30 for 9 yards (A.Ogletree).,28,1,37,BUF 21,0,BUF,
+2,502,1,05:58,(5:58) (Shotgun) L.McCoy left end to BUF 49 for 2 yards (M.Barron).,15,1,25,BUF 47,0,BUF,
+2,363,0,09:31,G.Zuerlein kicks 68 yards from LA 35 to BUF -3. B.Tate to BUF 24 for 27 yards (J.Forrest).,0,1,0,LA 35,0,LA,KICKOFF
+5,1039,1,13:52,(13:52) (Shotgun) T.Gurley up the middle to LA 28 for 7 yards (A.Washington).,10,2,7,LA 21,0,LA,
+5,1017,0,13:59,D.Carpenter kicks 67 yards from BUF 35 to LA -2. P.Cooper to LA 21 for 23 yards (R.Blanton).,0,2,0,BUF 35,0,BUF,KICKOFF
+5,1103,4,12:25,"(12:25) J.Hekker punts 57 yards to BUF 13, Center-J.McQuaide. B.Tate to BUF 11 for -2 yards (M.Thomas).",1,2,9,LA 30,0,LA,PUNT
+5,1081,3,12:33,(12:33) (Shotgun) C.Keenum pass incomplete deep right to B.Quick.,1,2,9,LA 30,0,LA,
+5,1060,2,13:15,(13:15) T.Gurley left end to LA 30 for 2 yards (Z.Brown).,3,2,9,LA 28,0,LA,
+4,929,1,15:00,"(15:00) T.Taylor pass incomplete short left to C.Clay. PENALTY on LA-M.Longacre, Defensive Offside, 5 yards, enforced at BUF 37 - No Play.",10,2,5,BUF 37,0,BUF,PENALTY
+4,1001,0,13:59,"D.Carpenter extra point is Blocked (C.Thomas), Center-G.Sanborn, Holder-C.Schmidt.",0,2,63,LA 15,0,BUF,XPB
+4,962,1,14:52,(14:52) (Shotgun) L.McCoy up the middle to LA 5 for 53 yards (E.Gaines).,5,2,58,BUF 42,0,BUF,
+4,983,1,14:05,"(14:05) (Shotgun) M.Gillislee right end for 5 yards, TOUCHDOWN.",5,2,63,LA 5,1,BUF,TD
+7,1212,1,10:19,(10:19) (Shotgun) C.Keenum pass deep left to T.Austin ran ob at BUF 34 for 31 yards.,10,2,31,LA 35,0,LA,
+7,1236,1,09:53,"(9:53) T.Gurley left end to BUF 36 for -2 yards (C.Bryant; Z.Brown). PENALTY on BUF-C.Bryant, Face Mask (15 Yards), 15 yards, enforced at BUF 34 - No Play.",10,2,52,BUF 34,0,LA,PENALTY
+7,1268,1,09:26,(9:26) (Shotgun) C.Keenum pass incomplete short right to T.Gurley.,10,2,52,BUF 19,0,LA,
+7,1342,4,07:49,"(7:49) G.Zuerlein 32 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",4,2,52,BUF 13,1,LA,FG
+7,1318,3,08:34,(8:34) (Shotgun) C.Keenum pass short right to T.Austin to BUF 13 for 1 yard (N.Robey-Coleman).,5,2,52,BUF 14,0,LA,
+7,1297,2,09:19,(9:19) T.Gurley left tackle to BUF 14 for 5 yards (P.Brown).,10,2,51,BUF 19,0,LA,
+6,1129,1,12:15,(12:15) T.Taylor sacked at BUF 4 for -7 yards (sack split by A.Donald and D.Easley).,10,2,9,BUF 11,0,BUF,
+6,1148,2,11:39,(11:39) L.McCoy left end to BUF 8 for 4 yards (M.Barron).,17,2,-3,BUF 4,0,BUF,
+6,1169,3,11:12,(11:12) (Shotgun) T.Taylor pass short middle to C.Clay to BUF 20 for 12 yards (L.Joyner).,13,2,9,BUF 8,0,BUF,
+6,1193,4,10:26,"(10:26) C.Schmidt punts 45 yards to LA 35, Center-G.Sanborn, out of bounds.",1,2,9,BUF 20,0,BUF,PUNT
+9,1622,2,04:04,(4:04) C.Keenum pass short right to T.Austin to BUF 27 for 5 yards (R.Darby).,10,2,37,BUF 32,0,LA,
+9,1646,3,03:27,(3:27) (Shotgun) C.Keenum pass short left to B.Quick to BUF 15 for 12 yards (S.Gilmore).,5,2,49,BUF 27,0,LA,
+9,1556,1,06:02,(6:02) T.Gurley right tackle to 50 for 2 yards (K.Williams).,10,2,14,LA 48,0,LA,
+9,1601,1,04:41,(4:41) M.Brown left tackle to BUF 32 for no gain (L.Douzable).,10,2,32,BUF 32,0,LA,
+9,1670,1,02:48,"(2:48) PENALTY on BUF, Defensive 12 On-field, 5 yards, enforced at BUF 15 - No Play.",10,2,54,BUF 15,0,LA,PENALTY
+9,1714,0,02:00,Two-Minute Warning,0,2,63,,0,,
+9,1737,1,02:00,"(2:00) A.Donnal reported in as eligible.  T.Gurley right guard for 1 yard, TOUCHDOWN.",1,2,64,BUF 1,1,LA,TD
+9,1693,1,02:37,(2:37) T.Austin right end to BUF 1 for 9 yards (R.Darby).,5,2,63,BUF 10,0,LA,
+9,1522,1,06:35,(6:35) T.Gurley left tackle to LA 48 for 12 yards (K.Williams).,10,2,12,LA 36,0,LA,
+9,1757,0,01:56,"G.Zuerlein extra point is GOOD, Center-J.McQuaide, Holder-J.Hekker.",0,2,64,BUF 15,1,LA,XP
+9,1577,2,05:22,(5:22) (Shotgun) C.Keenum pass short right to K.Britt to BUF 32 for 18 yards (R.Darby).,8,2,32,50,0,LA,
+8,1474,3,06:57,(6:57) (Shotgun) T.Taylor pass incomplete short middle to M.Goodwin (A.Ogletree).,3,2,2,BUF 17,0,BUF,
+8,1445,2,07:02,(7:02) (Shotgun) T.Taylor pass incomplete short right to M.Goodwin (T.Johnson).,3,2,7,BUF 17,0,BUF,
+8,1496,4,06:49,"(6:49) C.Schmidt punts 52 yards to LA 31, Center-G.Sanborn. T.Austin to LA 36 for 5 yards (C.Anderson).",3,2,2,BUF 17,0,BUF,PUNT
+8,1361,0,07:46,"G.Zuerlein kicks 67 yards from LA 35 to BUF -2. B.Tate to BUF 24 for 26 yards (B.Marquez). PENALTY on BUF-C.Bryant, Illegal Block Above the Waist, 10 yards, enforced at BUF 20.",0,2,7,LA 35,0,LA,KICKOFF
+8,1394,1,07:38,"(7:38) (Shotgun) PENALTY on LA-C.Thomas, Encroachment, 5 yards, enforced at BUF 10 - No Play.",10,2,7,BUF 10,0,BUF,PENALTY
+8,1416,1,07:38,"(7:38) (Shotgun) L.McCoy right end to BUF 17 for 2 yards (L.Joyner, D.Easley).",5,2,7,BUF 15,0,BUF,
+11,2121,1,14:53,(14:53) (Shotgun) L.McCoy left tackle to BUF 20 for -2 yards (E.Sims).,10,3,-2,BUF 22,0,BUF,
+11,2188,4,13:29,"(13:29) C.Schmidt punts 58 yards to LA 16, Center-G.Sanborn, out of bounds.",6,3,4,BUF 26,0,BUF,PUNT
+11,2166,3,13:37,(13:37) (Shotgun) T.Taylor pass incomplete short left to M.Goodwin.,6,3,4,BUF 26,0,BUF,
+11,2099,0,15:00,G.Zuerlein kicks 62 yards from LA 35 to BUF 3. B.Tate to BUF 22 for 19 yards (M.Christian).,0,3,0,LA 35,0,LA,KICKOFF
+11,2142,2,14:17,"(14:17) (Shotgun) T.Taylor pass short middle to C.Clay to BUF 26 for 6 yards (A.Ogletree, L.Joyner).",12,3,4,BUF 20,0,BUF,
+10,1788,1,01:56,(1:56) (Shotgun) T.Taylor pass short right to L.McCoy to BUF 30 for 5 yards (M.Barron).,10,2,40,BUF 25,0,BUF,
+10,1993,1,00:16,"(:16) (No Huddle, Shotgun) T.Taylor scrambles left end to LA 19 for 4 yards (A.Ogletree).",10,2,56,LA 23,0,BUF,
+10,1836,1,01:09,(1:09) (Shotgun) L.McCoy right tackle to BUF 48 for 9 yards (L.Joyner).,10,2,23,BUF 39,0,BUF,
+10,1773,0,01:56,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback.",0,2,0,LA 35,0,LA,KICKOFF
+10,1812,2,01:33,(1:33) (Shotgun) T.Taylor pass short right to R.Woods to BUF 39 for 9 yards (T.Johnson).,5,2,14,BUF 30,0,BUF,
+10,1967,2,00:24,"(:24) (No Huddle, Shotgun) L.McCoy up the middle ran ob at LA 23 for 17 yards (T.McDonald).",15,2,52,LA 40,0,BUF,
+10,1857,0,01:01,Timeout #1 by BUF at 01:01.,0,2,23,,0,,TIMEOUT
+10,1920,1,00:30,"(:30) (No Huddle, Shotgun) T.Taylor sacked at LA 40 for -5 yards (E.Westbrooks).",10,2,35,LA 35,0,BUF,
+10,1874,2,01:01,"(1:01) (No Huddle, Shotgun) T.Taylor pass incomplete short left to R.Woods.",1,2,23,BUF 48,0,BUF,
+10,2032,0,00:03,Timeout #3 by BUF at 00:03.,0,2,56,,0,,TIMEOUT
+10,2014,2,00:09,(:09) (Shotgun) T.Taylor pass short left to C.Clay to LA 5 for 14 yards (E.Gaines).,6,2,70,LA 19,0,BUF,
+10,1896,3,00:57,"(:57) (No Huddle, Shotgun) T.Taylor pass short left to R.Woods to LA 35 for 17 yards (M.Alexander).",1,2,40,BUF 48,0,BUF,
+10,1938,0,00:24,Timeout #2 by BUF at 00:24.,0,2,40,,0,,TIMEOUT
+10,2066,1,00:03,"(:03) D.Carpenter 23 yard field goal is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",5,2,70,LA 5,1,BUF,FG
+13,2550,2,05:47,(5:47) (Shotgun) T.Taylor pass incomplete short right.,7,3,22,BUF 44,0,BUF,
+13,2429,1,07:58,(7:58) (Shotgun) L.McCoy left tackle to BUF 23 for 1 yard (A.Ogletree; J.Forrest).,10,3,1,BUF 22,0,BUF,
+13,2611,4,05:32,"(5:32) C.Schmidt punts 39 yards to LA 17, Center-G.Sanborn. T.Austin to LA 14 for -3 yards (C.Anderson).",7,3,22,BUF 44,0,BUF,PUNT
+13,2471,3,06:42,(6:42) (Shotgun) T.Taylor pass incomplete short right to M.Goodwin [A.Ogletree].,6,3,4,BUF 26,0,BUF,
+13,2572,0,05:38,Timeout #1 by BUF at 05:38.,0,3,22,,0,,TIMEOUT
+13,2493,4,06:37,"(6:37) C.Schmidt punts 51 yards to LA 23, Center-G.Sanborn. T.Austin to LA 40 for 17 yards (J.Meeks). PENALTY on LA-J.Forrest, Roughing the Kicker, 15 yards, enforced at BUF 26 - No Play.",6,3,22,BUF 26,0,BUF,PENALTY
+13,2529,1,06:22,(6:22) (Shotgun) L.McCoy up the middle to BUF 44 for 3 yards (E.Gaines).,10,3,22,BUF 41,0,BUF,
+13,2450,2,07:28,(7:28) (Shotgun) R.Bush right end to BUF 26 for 3 yards (M.Barron).,9,3,4,BUF 23,0,BUF,
+13,2589,3,05:38,(5:38) (Shotgun) T.Taylor pass incomplete deep left to R.Woods.,7,3,22,BUF 44,0,BUF,
+13,2407,0,08:05,G.Zuerlein kicks 65 yards from LA 35 to BUF 0. B.Tate to BUF 22 for 22 yards (C.Littleton).,0,3,0,LA 35,0,LA,KICKOFF
+12,2323,1,10:15,(10:15) M.Brown right end to BUF 41 for 2 yards (A.Washington).,10,3,43,BUF 43,0,LA,
+12,2344,2,09:34,(9:34) C.Keenum pass short right to K.Britt to BUF 36 for 5 yards (R.Darby).,8,3,48,BUF 41,0,LA,
+12,2273,2,11:27,(11:27) (Shotgun) C.Keenum pass short left to L.Kendricks to BUF 47 for 3 yards (P.Brown).,6,3,37,50,0,LA,
+12,2207,1,13:18,(13:18) C.Keenum pass short right to K.Britt to LA 30 for 14 yards (A.Williams).,10,3,14,LA 16,0,LA,
+12,2231,1,12:44,(12:44) T.Gurley up the middle to LA 46 for 16 yards (L.Alexander).,10,3,30,LA 30,0,LA,
+12,2297,3,10:48,(10:48) (Shotgun) T.Gurley left end ran ob at BUF 43 for 4 yards (P.Brown).,3,3,41,BUF 47,0,LA,
+12,2387,4,08:11,"(8:11) G.Zuerlein 54 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",3,3,48,BUF 36,1,LA,FG
+12,2368,3,08:51,(8:51) (Shotgun) C.Keenum sacked at BUF 36 for 0 yards (L.Alexander).,3,3,48,BUF 36,0,LA,
+12,2252,1,12:07,(12:07) T.Gurley right guard to 50 for 4 yards (P.Brown).,10,3,34,LA 46,0,LA,
+15,2743,1,03:48,(3:48) T.Gurley left end to LA 18 for 2 yards (J.Worthy).,10,3,-5,LA 16,0,LA,
+15,2813,4,01:58,"(1:58) J.Hekker punts 52 yards to BUF 37, Center-J.McQuaide. B.Tate to BUF 37 for no gain (T.Hill).",15,3,-5,LA 11,0,LA,PUNT
+15,2788,3,02:36,(2:36) (Shotgun) C.Keenum sacked at LA 11 for -11 yards (L.Alexander).,4,3,-5,LA 22,0,LA,
+15,2721,0,03:54,D.Carpenter kicks 68 yards from BUF 35 to LA -3. M.Thomas to LA 16 for 19 yards (L.Alexander).,0,3,0,BUF 35,0,BUF,KICKOFF
+15,2764,2,03:10,(3:10) (Shotgun) C.Keenum pass short left to T.Austin to LA 22 for 4 yards (S.Gilmore).,8,3,6,LA 18,0,LA,
+14,2637,1,05:23,(5:23) (Shotgun) C.Keenum pass short left to L.Kendricks to LA 35 for 21 yards (J.Hughes; A.Williams).,10,3,21,LA 14,0,LA,
+14,2682,2,04:05,"(4:05) (Shotgun) C.Keenum pass short right intended for P.Cooper INTERCEPTED by N.Robey-Coleman at LA 41. N.Robey-Coleman for 41 yards, TOUCHDOWN.",14,3,17,LA 31,1,LA,TD
+14,2661,1,04:47,(4:47) (Shotgun) T.Gurley up the middle to LA 31 for -4 yards (J.Worthy).,10,3,17,LA 35,0,LA,
+17,3216,1,09:36,(9:36) T.Gurley right tackle to BUF 29 for 1 yard (Z.Brown; P.Brown).,10,4,80,BUF 30,0,LA,
+17,3385,4,05:55,"(5:55) G.Zuerlein 22 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",4,4,89,BUF 4,1,LA,FG
+17,3109,1,11:41,(11:41) C.Keenum pass deep middle to B.Quick to LA 44 for 31 yards (Z.Brown).,15,4,37,LA 13,0,LA,
+17,3307,1,07:06,"(7:06) T.Gurley left end pushed ob at BUF 13 for -5 yards (L.Alexander). Penalty on LA-R.Saffold, Offensive Holding, declined.",8,4,80,BUF 8,0,LA,
+17,3361,3,06:34,"(6:34) (Shotgun) C.Keenum pass short left to T.Gurley to BUF 4 for 9 yards (S.Gilmore, R.Blanton).",13,4,89,BUF 13,0,LA,
+17,3033,2,13:31,(13:31) T.Gurley left guard to LA 16 for 1 yard (C.Graham).,2,4,9,LA 15,0,LA,
+17,3265,1,08:17,(8:17) T.Austin left end to BUF 10 for 9 yards (C.Graham).,10,4,83,BUF 19,0,LA,
+17,3156,1,10:27,(10:27) C.Keenum pass short middle to M.Brown to BUF 35 for 26 yards (P.Brown). BUF-A.Williams was injured during the play. His return is Questionable.,15,4,58,LA 39,0,LA,
+17,3133,1,10:46,"(10:46) (Shotgun) PENALTY on LA-C.Keenum, Delay of Game, 5 yards, enforced at LA 44 - No Play.",10,4,32,LA 44,0,LA,PENALTY
+17,3183,1,09:47,"(9:47) (Shotgun) C.Keenum pass incomplete deep right to T.Austin. PENALTY on BUF-S.Gilmore, Defensive Holding, 5 yards, enforced at BUF 35 - No Play.",10,4,85,BUF 35,0,LA,PENALTY
+17,3286,2,07:50,(7:50) T.Gurley up the middle to BUF 8 for 2 yards (C.Bryant).,1,4,85,BUF 10,0,LA,
+17,3054,3,12:47,"(12:47) T.Gurley left tackle to LA 16 for no gain (J.Hughes). FUMBLES (J.Hughes), and recovers at LA 18. T.Gurley to LA 18 for no gain (C.Graham).",1,4,89,LA 16,0,LA,FUMBLE
+17,3086,1,11:59,"(11:59) PENALTY on LA-C.Keenum, Delay of Game, 5 yards, enforced at LA 18 - No Play.",10,4,6,LA 18,0,LA,PENALTY
+17,3009,1,14:07,(14:07) C.Keenum pass short left to B.Quick to LA 15 for 8 yards (S.Gilmore).,10,4,8,LA 7,0,LA,
+17,3339,2,06:41,(6:41) C.Keenum pass incomplete short right to T.Austin (A.Washington).,13,4,80,BUF 13,0,LA,
+17,3237,2,08:58,(8:58) (Shotgun) C.Keenum pass short right to K.Britt to BUF 19 for 10 yards (R.Blanton).,9,4,89,BUF 29,0,LA,
+16,2864,2,01:24,(1:24) (Shotgun) L.McCoy right end to LA 43 for 13 yards (M.Barron).,3,3,20,BUF 44,0,BUF,
+16,2885,1,00:46,(:46) (Shotgun) T.Taylor pass short left to L.McCoy to LA 40 for 3 yards (D.Easley; M.Barron).,10,3,23,LA 43,0,BUF,
+16,2921,0,,END QUARTER 3,0,3,23,,0,,
+16,2937,2,15:00,(15:00) M.Gillislee up the middle to LA 39 for 1 yard (M.Barron).,7,4,24,LA 40,0,BUF,
+16,2980,4,14:17,"(14:17) C.Schmidt punts 32 yards to LA 7, Center-G.Sanborn, downed by BUF-R.Blanton.",6,4,24,LA 39,0,BUF,PUNT
+16,2958,3,14:27,(14:27) (Shotgun) T.Taylor pass incomplete short right.,6,4,24,LA 39,0,BUF,
+16,2839,1,01:48,(1:48) (Shotgun) T.Taylor pass short right to M.Goodwin to BUF 44 for 7 yards (T.McDonald).,10,3,7,BUF 37,0,BUF,
+19,3588,4,03:47,(3:47) (Punt formation) B.Marquez right end to LA 25 for 2 yards (R.Darby).,5,4,7,LA 23,0,LA,
+19,3509,1,04:35,(4:35) (Shotgun) C.Keenum pass short left to T.Gurley to LA 21 for 3 yards (L.Alexander).,10,4,3,LA 18,0,LA,
+19,3559,3,03:54,(3:54) (Shotgun) C.Keenum pass incomplete short left to L.Kendricks (L.Alexander).,5,4,5,LA 23,0,LA,
+19,3538,2,04:30,(4:30) (Shotgun) T.Gurley up the middle to LA 23 for 2 yards (K.Williams).,7,4,5,LA 21,0,LA,
+18,3463,3,04:47,(4:47) (Shotgun) T.Taylor pass incomplete short right to W.Powell (E.Gaines).,3,4,7,BUF 32,0,BUF,
+18,3421,1,05:51,(5:51) (Shotgun) L.McCoy right end to BUF 29 for 4 yards (M.Barron).,10,4,4,BUF 25,0,BUF,
+18,3405,0,05:51,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback.",0,4,0,LA 35,0,LA,KICKOFF
+18,3490,4,04:42,"(4:42) C.Schmidt punts 50 yards to LA 18, Center-G.Sanborn, out of bounds.",3,4,7,BUF 32,0,BUF,PUNT
+18,3442,2,05:10,(5:10) (Shotgun) T.Taylor right end to BUF 32 for 3 yards (E.Westbrooks). LA-T.Johnson was injured during the play. His return is Doubtful.,6,4,7,BUF 29,0,BUF,

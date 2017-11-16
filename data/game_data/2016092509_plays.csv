@@ -1,205 +1,205 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1345,3,09:37,,1,2,13,LA 34,0,TB,
-9,1428,1,07:57,,10,2,24,LA 19,0,TB,
-9,1366,1,09:07,,10,2,21,LA 30,0,TB,
-9,1501,2,07:23,,20,2,40,LA 29,0,TB,
-9,1280,1,10:51,,10,2,24,LA 43,0,TB,
-9,1569,0,06:03,,0,2,43,LA 15,1,TB,XP
-9,1525,3,06:48,,14,2,40,LA 23,0,TB,
-9,1450,2,07:48,,10,2,14,LA 19,0,TB,PENALTY
-9,1301,2,10:33,,8,2,7,LA 41,0,TB,PENALTY
-9,1324,2,10:08,,3,2,9,LA 36,0,TB,
-9,1411,0,07:57,,0,2,24,,0,,TIMEOUT
-9,1549,1,06:10,,3,2,43,LA 3,1,TB,TD
-9,1390,2,08:37,,2,2,24,LA 22,0,TB,
-24,4307,4,01:52,,11,4,-1,LA 5,0,LA,PUNT
-24,4199,0,02:05,,0,4,3,,0,,TIMEOUT
-24,4285,3,02:00,,11,4,-1,LA 5,0,LA,
-24,4237,0,02:00,,0,4,-1,,0,,
-24,4270,0,,,0,4,-1,,0,,
-24,4178,1,02:10,,10,4,3,LA 6,0,LA,
-24,4254,0,,,0,4,-1,,0,,
-24,4145,0,02:15,,0,4,0,TB 35,0,TB,KICKOFF
-24,4216,2,02:05,,7,4,-1,LA 9,0,LA,
-10,1600,1,06:03,,10,2,4,LA 25,0,LA,
-10,1711,4,03:13,,1,2,20,LA 45,0,LA,PUNT
-10,1645,1,05:00,,10,2,11,LA 36,0,LA,
-10,1690,3,03:45,,1,2,20,LA 45,0,LA,
-10,1666,2,04:21,,10,2,20,LA 36,0,LA,
-10,1585,0,06:03,,0,2,0,TB 35,0,TB,KICKOFF
-10,1621,2,05:26,,6,2,11,LA 29,0,LA,
-20,3040,0,00:48,,0,3,47,LA 35,0,LA,KICKOFF
-20,3247,1,13:14,,10,4,53,LA 32,0,TB,
-20,3059,1,00:48,,10,3,14,TB 30,0,TB,
-20,3314,3,11:56,,6,4,47,LA 13,1,TB,TD
-20,3223,1,13:50,,10,4,38,LA 43,0,TB,
-20,3148,1,15:00,,20,4,4,TB 34,0,TB,
-20,3271,1,12:40,,10,4,57,LA 17,0,TB,
-20,3199,3,14:21,,14,4,27,TB 40,0,TB,
-20,3132,0,,,0,3,4,,0,,
-20,3170,2,14:56,,20,4,10,TB 34,0,TB,
-20,3095,1,00:09,,10,3,4,TB 44,0,TB,PENALTY
-20,3292,2,12:02,,6,4,57,LA 13,0,TB,
-6,789,1,03:51,,15,1,29,TB 45,0,LA,
-6,856,4,02:31,,5,1,33,TB 35,1,LA,FG
-6,710,3,05:15,,17,1,15,LA 25,0,LA,
-6,688,2,05:22,,17,1,-7,LA 25,0,LA,
-6,669,1,06:08,,10,1,-7,LA 32,0,LA,
-6,834,3,02:36,,5,1,33,TB 35,0,LA,
-6,810,2,03:14,,9,1,33,TB 39,0,LA,
-6,755,1,04:11,,10,1,23,TB 40,0,LA,PENALTY
-6,731,1,04:50,,10,1,28,LA 47,0,LA,
-18,2693,2,07:29,,10,3,7,TB 34,0,TB,
-18,2667,1,08:00,,10,3,0,TB 34,0,TB,FUMBLE
-18,2741,1,06:32,,10,3,36,LA 47,0,TB,
-18,2717,3,07:00,,3,3,19,TB 41,0,TB,
-18,2832,4,04:46,,3,3,43,LA 23,0,TB,FGM
-18,2786,2,05:31,,9,3,43,LA 29,0,TB,
-18,2810,3,04:51,,3,3,43,LA 23,0,TB,
-18,2765,1,06:01,,10,3,37,LA 30,0,TB,
-25,4426,2,00:49,,10,4,41,LA 27,0,TB,
-25,4380,2,01:16,,4,4,29,LA 34,0,TB,
-25,4494,3,00:21,,10,4,36,LA 15,0,TB,PENALTY
-25,4404,1,00:54,,10,4,29,LA 27,0,TB,
-25,4610,0,00:00,,0,4,51,,0,,
-25,4517,3,00:14,,15,4,41,LA 20,0,TB,PENALTY
-25,4356,1,01:36,,10,4,22,LA 40,0,TB,
-25,4550,1,00:09,,10,4,41,LA 15,0,TB,
-25,4589,2,00:04,,10,4,51,LA 15,0,TB,
-25,4332,1,01:42,,10,4,16,TB 44,0,TB,
-25,4472,2,00:21,,10,4,41,LA 15,0,TB,
-25,4572,0,00:04,,0,4,41,,0,,TIMEOUT
-25,4450,1,00:26,,10,4,41,LA 15,0,TB,
-1,222,3,12:05,,7,1,75,TB 44,1,LA,TD
-1,134,1,13:48,,10,1,14,LA 36,0,LA,
-1,93,0,14:21,,0,1,3,,0,,TIMEOUT
-1,201,2,12:39,,10,1,31,TB 47,0,LA,
-1,155,2,13:10,,7,1,28,LA 39,0,LA,
-1,50,1,15:00,,10,1,0,LA 25,0,LA,
-1,72,2,14:56,,10,1,3,LA 25,0,LA,
-1,242,0,11:58,,0,1,75,TB 15,1,LA,XP
-1,35,0,15:00,,0,1,0,TB 35,0,TB,KICKOFF
-1,179,1,12:43,,10,1,28,TB 47,0,LA,
-1,110,3,14:21,,7,1,11,LA 28,0,LA,
-5,650,4,06:17,,2,1,8,TB 16,0,TB,PUNT
-5,607,2,07:04,,6,1,8,TB 12,0,TB,
-5,628,3,06:23,,2,1,8,TB 16,0,TB,
-5,586,1,07:38,,10,1,4,TB 8,0,TB,
-13,2148,1,00:22,,10,2,-1,TB 25,0,TB,
-13,2133,0,00:22,,0,2,0,LA 35,0,LA,KICKOFF
-13,2169,0,,,0,2,-1,,0,,
-21,3554,3,09:00,,1,4,75,LA 1,1,TB,TD
-21,3374,1,11:39,,10,4,14,TB 25,0,TB,PENALTY
-21,3508,1,09:52,,7,4,68,LA 7,0,TB,
-21,3484,2,10:18,,4,4,68,LA 14,0,TB,
-21,3576,0,08:55,,0,4,75,LA 2,0,TB,2PPF
-21,3431,2,11:06,,2,4,55,TB 47,0,TB,
-21,3460,1,10:41,,10,4,61,LA 20,0,TB,
-21,3530,2,09:41,,7,4,74,LA 7,0,TB,
-21,3355,0,11:39,,0,4,0,LA 35,0,LA,KICKOFF
-21,3407,1,11:33,,10,4,22,TB 39,0,TB,
-23,3916,2,03:50,,10,4,17,TB 42,0,TB,
-23,3938,3,03:45,,10,4,75,TB 42,0,TB,PENALTY
-23,4088,1,02:28,,7,4,68,LA 7,0,TB,
-23,4060,4,02:37,,1,4,68,LA 30,0,TB,
-23,4111,2,02:24,,7,4,75,LA 7,1,TB,TD
-23,3968,3,03:37,,20,4,36,TB 32,0,TB,
-23,3846,1,04:38,,10,4,4,TB 25,0,TB,
-23,4036,3,02:58,,10,4,45,LA 39,0,TB,
-23,4014,2,03:04,,10,4,36,LA 39,0,TB,
-23,3870,2,04:15,,6,4,17,TB 29,0,TB,
-23,3894,1,03:55,,10,4,17,TB 42,0,TB,
-23,4131,0,02:15,,0,4,75,LA 2,0,TB,2PPF
-23,3831,0,04:38,,0,4,0,LA 35,0,LA,KICKOFF
-23,3992,1,03:07,,10,4,36,LA 39,0,TB,
-11,1729,1,03:04,,10,2,0,TB 18,0,TB,
-11,1758,2,03:00,,10,2,9,TB 18,0,TB,PENALTY
-11,1788,1,02:32,,10,2,9,TB 27,0,TB,INT
-14,2185,0,15:00,,0,3,0,LA 35,0,LA,KICKOFF
-14,2335,2,11:59,,6,3,30,LA 45,0,TB,
-14,2221,2,14:26,,4,3,12,TB 31,0,TB,
-14,2379,4,11:49,,6,3,30,LA 45,0,TB,PUNT
-14,2357,3,11:54,,6,3,30,LA 45,0,TB,
-14,2264,2,13:52,,10,3,20,TB 37,0,TB,
-14,2314,1,12:42,,10,3,30,LA 49,0,TB,
-14,2200,1,15:00,,10,3,6,TB 25,0,TB,
-14,2242,1,13:59,,10,3,12,TB 37,0,TB,
-14,2290,3,13:18,,2,3,26,TB 45,0,TB,
-8,1184,0,12:23,,0,2,0,50,0,TB,KICKOFF
-8,1199,1,12:23,,10,2,14,LA 25,0,LA,
-8,1224,1,11:46,,10,2,15,LA 39,0,LA,
-8,1245,2,11:05,,9,2,23,LA 40,0,LA,FUMBLE
-19,2984,1,01:34,,1,3,68,TB 1,0,LA,
-19,3005,2,00:53,,1,3,69,TB 1,1,LA,TD
-19,2873,2,04:19,,1,3,12,LA 40,0,LA,
-19,2939,2,02:35,,1,3,52,TB 29,0,LA,
-19,2963,1,01:59,,10,3,69,TB 17,0,LA,
-19,2852,1,04:40,,10,3,9,LA 31,0,LA,
-19,2894,1,03:44,,10,3,31,LA 43,0,LA,
-19,2918,1,03:13,,10,3,40,TB 38,0,LA,
-19,3024,0,00:48,,0,3,69,TB 15,1,LA,XP
-22,3605,1,08:55,,10,4,-2,LA 25,0,LA,
-22,3626,2,08:19,,12,4,-7,LA 23,0,LA,
-22,3778,3,04:49,,2,4,75,TB 43,1,LA,TD
-22,3736,1,06:09,,10,4,28,LA 49,0,LA,
-22,3757,2,05:32,,6,4,32,TB 47,0,LA,
-22,3715,2,06:46,,3,4,24,LA 45,0,LA,
-22,3812,0,04:38,,0,4,75,TB 2,0,LA,2PRF
-22,3798,0,04:38,,0,4,0,,0,,TIMEOUT
-22,3694,1,07:26,,10,4,20,LA 38,0,LA,
-22,3650,3,07:33,,17,4,13,LA 18,0,LA,PENALTY
-22,3590,0,08:55,,0,4,0,TB 35,0,TB,KICKOFF
-12,2078,2,00:33,,1,2,21,TB 1,0,LA,
-12,1932,2,00:49,,6,2,21,TB 6,0,LA,PENALTY
-12,1965,0,00:45,,0,2,21,,0,,TIMEOUT
-12,1852,2,02:00,,2,2,9,TB 14,0,LA,
-12,1915,0,00:49,,0,2,16,,0,,TIMEOUT
-12,2100,3,00:28,,1,2,22,TB 1,1,LA,TD
-12,1984,1,00:45,,1,2,16,TB 1,0,LA,PENALTY
-12,2117,0,00:22,,0,2,22,TB 15,1,LA,XP
-12,1814,1,02:23,,10,2,8,TB 22,0,LA,
-12,1894,1,00:53,,8,2,16,TB 8,0,LA,
-12,2061,0,00:33,,0,2,21,,0,,TIMEOUT
-12,2040,1,00:39,,3,2,21,TB 3,0,LA,
-12,1873,3,01:22,,1,2,14,TB 13,0,LA,
-12,2007,1,00:45,,6,2,19,TB 6,0,LA,PENALTY
-12,1835,0,02:00,,0,2,8,,0,,
-16,2489,1,09:59,,10,3,4,TB 29,0,TB,
-16,2512,2,09:16,,6,3,5,TB 33,0,TB,
-16,2557,4,08:37,,5,3,5,TB 34,0,TB,PUNT
-16,2535,3,08:43,,5,3,5,TB 34,0,TB,
-7,914,1,02:03,,10,1,50,TB 44,0,TB,
-7,1123,3,12:27,,1,2,75,LA 1,1,TB,TD
-7,1098,2,13:11,,1,2,74,LA 1,0,TB,
-7,1147,0,12:23,,0,2,75,LA 15,1,TB,XP
-7,962,2,01:29,,3,1,52,LA 18,0,TB,PENALTY
-7,890,1,02:26,,10,1,19,TB 25,0,TB,
-7,1009,0,,,0,1,54,,0,,
-7,1049,4,14:32,,1,2,73,LA 16,0,TB,
-7,938,1,01:29,,10,1,57,LA 25,0,TB,
-7,875,0,02:26,,0,1,0,LA 35,0,LA,KICKOFF
-7,1025,3,15:00,,6,2,59,LA 21,0,TB,
-7,985,2,00:38,,8,1,54,LA 23,0,TB,
-7,1073,1,13:53,,2,2,74,LA 2,0,TB,
-3,421,2,09:56,,6,1,6,LA 33,0,LA,
-3,442,3,08:54,,4,1,6,LA 35,1,LA,TD
-3,397,1,09:56,,10,1,4,LA 29,0,LA,
-17,2582,1,08:24,,10,3,0,LA 20,0,LA,
-17,2648,4,08:08,,10,3,0,LA 20,0,LA,PUNT
-17,2604,2,08:17,,10,3,0,LA 20,0,LA,
-17,2626,3,08:12,,10,3,0,LA 20,0,LA,
-4,545,3,07:53,,3,1,7,LA 47,0,LA,
-4,480,0,08:45,,0,1,0,TB 35,0,TB,KICKOFF
-4,502,1,08:37,,10,1,7,LA 40,0,LA,
-4,523,2,07:59,,3,1,7,LA 47,0,LA,
-4,567,4,07:50,,3,1,7,LA 47,0,LA,PUNT
-2,348,3,10:49,,26,1,-1,TB 9,0,TB,
-2,372,4,10:08,,11,1,-1,TB 24,0,TB,PUNT
-2,258,0,11:58,,0,1,0,LA 35,0,LA,KICKOFF
-2,326,2,10:55,,26,1,-16,TB 9,0,TB,
-2,273,1,11:58,,10,1,-12,TB 25,0,TB,PENALTY
-2,305,1,11:32,,22,1,-16,TB 13,0,TB,
-15,2419,2,11:07,,11,3,-1,LA 10,0,LA,
-15,2398,1,11:43,,10,3,-1,LA 11,0,LA,
-15,2440,3,10:28,,11,3,9,LA 10,0,LA,
-15,2464,4,10:10,,1,3,9,LA 20,0,LA,PUNT
+24,4216,2,02:05,(2:05) C.Keenum up the middle to LA 5 for -4 yards (C.McDonald).,7,4,-1,LA 9,0,LA,
+24,4307,4,01:52,"(1:52) (Punt formation) J.Hekker punts 64 yards to TB 31, Center-J.McQuaide. A.Humphries ran ob at TB 44 for 13 yards (B.Hager).",11,4,-1,LA 5,0,LA,PUNT
+24,4199,0,02:05,Timeout #1 by TB at 02:05.,0,4,3,,0,,TIMEOUT
+24,4145,0,02:15,R.Aguayo kicks 64 yards from TB 35 to LA 1. T.Austin to LA 6 for 5 yards (J.Keyes).,0,4,0,TB 35,0,TB,KICKOFF
+24,4285,3,02:00,(2:00) (Shotgun) C.Keenum pass incomplete short right to K.Britt.,11,4,-1,LA 5,0,LA,
+24,4178,1,02:10,"(2:10) T.Gurley right end to LA 9 for 3 yards (W.Gholston, C.McDonald).",10,4,3,LA 6,0,LA,
+24,4254,0,,The game has been suspended. Lightning,0,4,-1,,0,,
+24,4270,0,,The game has resumed.,0,4,-1,,0,,
+24,4237,0,02:00,Two-Minute Warning,0,4,-1,,0,,
+25,4494,3,00:21,"(:21) (Shotgun) PENALTY on TB-D.Smith, False Start, 5 yards, enforced at LA 15 - No Play.",10,4,36,LA 15,0,TB,PENALTY
+25,4404,1,00:54,"(:54) (No Huddle, Shotgun) J.Winston pass incomplete deep right to V.Jackson.",10,4,29,LA 27,0,TB,
+25,4332,1,01:42,(1:42) (Shotgun) J.Winston pass deep left to V.Jackson pushed ob at LA 40 for 16 yards (T.Hill).,10,4,16,TB 44,0,TB,
+25,4380,2,01:16,"(1:16) (No Huddle, Shotgun) J.Winston pass short middle to C.Sims to LA 27 for 7 yards (L.Joyner, M.Barron).",4,4,29,LA 34,0,TB,
+25,4426,2,00:49,(:49) (Shotgun) J.Winston pass short right to C.Sims to LA 15 for 12 yards (M.Barron).,10,4,41,LA 27,0,TB,
+25,4517,3,00:14,"(:14) (Shotgun) J.Winston pass incomplete short middle to C.Sims. PENALTY on LA-M.Barron, Illegal Contact, 5 yards, enforced at LA 20 - No Play.",15,4,41,LA 20,0,TB,PENALTY
+25,4572,0,00:04,Timeout #2 by TB at 00:04.,0,4,41,,0,,TIMEOUT
+25,4450,1,00:26,"(:26) (No Huddle, Shotgun) J.Winston pass incomplete short right to V.Jackson.",10,4,41,LA 15,0,TB,
+25,4589,2,00:04,(:04) (Shotgun) J.Winston up the middle to LA 5 for 10 yards (R.Quinn).,10,4,51,LA 15,0,TB,
+25,4610,0,00:00,END GAME,0,4,51,,0,,
+25,4356,1,01:36,(1:36) (Shotgun) J.Winston pass short right to A.Humphries to LA 34 for 6 yards (A.Ogletree).,10,4,22,LA 40,0,TB,
+25,4472,2,00:21,(:21) (Shotgun) J.Winston pass incomplete short left to V.Jackson.,10,4,41,LA 15,0,TB,
+25,4550,1,00:09,(:09) (Shotgun) J.Winston pass incomplete short middle to B.Myers.,10,4,41,LA 15,0,TB,
+20,3095,1,00:09,"(:09) G.Cherilus reported in as eligible.  J.Winston pass short middle to B.Myers to LA 44 for 12 yards (J.Forrest). PENALTY on TB-D.Dotson, Offensive Holding, 10 yards, enforced at TB 44 - No Play.",10,3,4,TB 44,0,TB,PENALTY
+20,3247,1,13:14,(13:14) J.Winston pass short middle to M.Evans to LA 17 for 15 yards (T.Johnson).,10,4,53,LA 32,0,TB,
+20,3170,2,14:56,(14:56) (Shotgun) J.Winston pass short right to A.Humphries pushed ob at TB 40 for 6 yards (L.Joyner) [A.Donald].,20,4,10,TB 34,0,TB,
+20,3292,2,12:02,(12:02) J.Winston pass incomplete short middle to C.Brate [M.Brockers].,6,4,57,LA 13,0,TB,
+20,3223,1,13:50,(13:50) J.Winston pass short right to M.Evans to LA 32 for 11 yards (T.Johnson).,10,4,38,LA 43,0,TB,
+20,3059,1,00:48,(:48) J.Winston pass short left to C.Brate to TB 44 for 14 yards (M.Alexander).,10,3,14,TB 30,0,TB,
+20,3132,0,,END QUARTER 3,0,3,4,,0,,
+20,3148,1,15:00,(15:00) (Shotgun) J.Winston pass incomplete short left to M.Evans.,20,4,4,TB 34,0,TB,
+20,3040,0,00:48,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback. PENALTY on LA-I.Johnson, Offside on Free Kick, 5 yards, enforced at TB 25.",0,3,47,LA 35,0,LA,KICKOFF
+20,3271,1,12:40,(12:40) J.Rodgers up the middle to LA 13 for 4 yards (A.Ogletree).,10,4,57,LA 17,0,TB,
+20,3314,3,11:56,"(11:56) (Shotgun) J.Winston sacked at LA 23 for -10 yards (R.Quinn). FUMBLES (R.Quinn), RECOVERED by LA-E.Westbrooks at LA 23. E.Westbrooks for 77 yards, TOUCHDOWN.",6,4,47,LA 13,1,TB,TD
+20,3199,3,14:21,(14:21) (Shotgun) J.Winston pass deep right to M.Evans to LA 43 for 17 yards (C.Davis).,14,4,27,TB 40,0,TB,
+21,3508,1,09:52,"(9:52) (No Huddle, Shotgun) J.Winston pass incomplete short right [M.Barron].",7,4,68,LA 7,0,TB,
+21,3554,3,09:00,"(9:00) G.Cherilus reported in as eligible.  J.Winston pass short right to C.Brate for 1 yard, TOUCHDOWN.",1,4,75,LA 1,1,TB,TD
+21,3460,1,10:41,"(10:41) (No Huddle, Shotgun) J.Winston pass short right to V.Jackson to LA 14 for 6 yards (T.Hill).",10,4,61,LA 20,0,TB,
+21,3431,2,11:06,(11:06) (Shotgun) J.Winston pass short right to C.Sims pushed ob at LA 20 for 33 yards (M.Alexander).,2,4,55,TB 47,0,TB,
+21,3374,1,11:39,"(11:39) (Shotgun) J.Winston pass incomplete short right to V.Jackson. PENALTY on LA-T.Hill, Defensive Pass Interference, 14 yards, enforced at TB 25 - No Play.",10,4,14,TB 25,0,TB,PENALTY
+21,3484,2,10:18,"(10:18) (No Huddle, Shotgun) J.Winston pass short right to B.Myers to LA 7 for 7 yards (M.Barron).",4,4,68,LA 14,0,TB,
+21,3355,0,11:39,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback.",0,4,0,LA 35,0,LA,KICKOFF
+21,3530,2,09:41,(9:41) (Shotgun) J.Winston pass short left to R.Shepard to LA 1 for 6 yards (T.Hill).,7,4,74,LA 7,0,TB,
+21,3576,0,08:55,(Pass formation) TWO-POINT CONVERSION ATTEMPT. J.Winston pass to V.Jackson is incomplete. ATTEMPT FAILS.,0,4,75,LA 2,0,TB,2PPF
+21,3407,1,11:33,(11:33) (Shotgun) J.Winston pass short right to C.Brate pushed ob at TB 47 for 8 yards (T.Hill).,10,4,22,TB 39,0,TB,
+22,3715,2,06:46,(6:46) T.Gurley up the middle to LA 49 for 4 yards (C.McDonald).,3,4,24,LA 45,0,LA,
+22,3812,0,04:38,(Run formation) TWO-POINT CONVERSION ATTEMPT. C.Keenum rushes up the middle. ATTEMPT FAILS.,0,4,75,TB 2,0,LA,2PRF
+22,3590,0,08:55,"R.Aguayo kicks 65 yards from TB 35 to end zone, Touchback.",0,4,0,TB 35,0,TB,KICKOFF
+22,3798,0,04:38,Timeout #1 by LA at 04:38.,0,4,0,,0,,TIMEOUT
+22,3605,1,08:55,"(8:55) T.Gurley up the middle to LA 23 for -2 yards (L.David, G.McCoy).",10,4,-2,LA 25,0,LA,
+22,3778,3,04:49,"(4:49) (Shotgun) C.Keenum pass deep left to T.Austin for 43 yards, TOUCHDOWN.",2,4,75,TB 43,1,LA,TD
+22,3694,1,07:26,(7:26) B.Cunningham up the middle to LA 45 for 7 yards (W.Gholston).,10,4,20,LA 38,0,LA,
+22,3757,2,05:32,"(5:32) (Shotgun) T.Gurley right guard to TB 43 for 4 yards (K.Alexander, C.McDonald).",6,4,32,TB 47,0,LA,
+22,3626,2,08:19,(8:19) (Shotgun) C.Keenum pass short left to T.Gurley to LA 18 for -5 yards (C.McDonald).,12,4,-7,LA 23,0,LA,
+22,3736,1,06:09,(6:09) T.Gurley up the middle to TB 47 for 4 yards (L.David).,10,4,28,LA 49,0,LA,
+22,3650,3,07:33,"(7:33) (Shotgun) C.Keenum pass incomplete deep left to K.Britt. Penalty on TB-V.Hargreaves, Defensive Holding, declined. PENALTY on TB-A.Verner, Defensive Pass Interference, 20 yards, enforced at LA 18 - No Play.",17,4,13,LA 18,0,LA,PENALTY
+23,3916,2,03:50,(3:50) (Shotgun) J.Winston pass incomplete short right to A.Humphries (A.Donald).,10,4,17,TB 42,0,TB,
+23,4060,4,02:37,(2:37) G.Cherilus reported in as eligible.  C.Sims up the middle pushed ob at LA 7 for 23 yards (T.Johnson).,1,4,68,LA 30,0,TB,
+23,3938,3,03:45,"(3:45) (Shotgun) J.Winston pass short middle to V.Jackson to LA 47 for 11 yards (T.Hill). PENALTY on TB-D.Smith, Offensive Holding, 10 yards, enforced at TB 42 - No Play.",10,4,75,TB 42,0,TB,PENALTY
+23,3870,2,04:15,"(4:15) (No Huddle, Shotgun) J.Winston pass short right to M.Evans to TB 42 for 13 yards (T.McDonald).",6,4,17,TB 29,0,TB,
+23,4131,0,02:15,(Pass formation) TWO-POINT CONVERSION ATTEMPT. J.Winston pass to V.Jackson is incomplete. ATTEMPT FAILS.,0,4,75,LA 2,0,TB,2PPF
+23,4036,3,02:58,(2:58) J.Winston pass short left to A.Humphries to LA 30 for 9 yards (L.Joyner).,10,4,45,LA 39,0,TB,
+23,4111,2,02:24,"(2:24) (Shotgun) J.Winston pass short middle to M.Evans for 7 yards, TOUCHDOWN.",7,4,75,LA 7,1,TB,TD
+23,4014,2,03:04,(3:04) (Shotgun) J.Winston pass incomplete short right to C.Sims.,10,4,36,LA 39,0,TB,
+23,4088,1,02:28,(2:28) J.Winston pass incomplete short right to C.Brate (A.Ogletree).,7,4,68,LA 7,0,TB,
+23,3968,3,03:37,(3:37) (Shotgun) J.Winston pass short left to A.Humphries to LA 39 for 29 yards (T.McDonald).,20,4,36,TB 32,0,TB,
+23,3846,1,04:38,"(4:38) (Shotgun) J.Winston pass short middle to C.Sims to TB 29 for 4 yards (L.Joyner, A.Ogletree).",10,4,4,TB 25,0,TB,
+23,3992,1,03:07,"(3:07) (No Huddle, Shotgun) J.Winston pass incomplete short right to R.Shepard.",10,4,36,LA 39,0,TB,
+23,3894,1,03:55,"(3:55) (No Huddle, Shotgun) J.Winston pass incomplete short left to A.Humphries.",10,4,17,TB 42,0,TB,
+23,3831,0,04:38,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback.",0,4,0,LA 35,0,LA,KICKOFF
+1,201,2,12:39,(12:39) T.Gurley left end pushed ob at TB 44 for 3 yards (C.Conte).,10,1,31,TB 47,0,LA,
+1,155,2,13:10,(13:10) C.Keenum pass short left to T.Austin ran ob at TB 47 for 14 yards.,7,1,28,LA 39,0,LA,
+1,242,0,11:58,"G.Zuerlein extra point is GOOD, Center-J.McQuaide, Holder-J.Hekker.",0,1,75,TB 15,1,LA,XP
+1,50,1,15:00,(15:00) (Shotgun) C.Keenum pass incomplete short left to L.Kendricks (V.Hargreaves).,10,1,0,LA 25,0,LA,
+1,35,0,15:00,"R.Aguayo kicks 65 yards from TB 35 to end zone, Touchback.",0,1,0,TB 35,0,TB,KICKOFF
+1,110,3,14:21,(14:21) (Shotgun) C.Keenum pass short left to T.Austin to LA 36 for 8 yards (C.Conte).,7,1,11,LA 28,0,LA,
+1,179,1,12:43,(12:43) C.Keenum pass incomplete short middle to T.Gurley.,10,1,28,TB 47,0,LA,
+1,134,1,13:48,(13:48) T.Gurley right guard to LA 39 for 3 yards (D.Lambert).,10,1,14,LA 36,0,LA,
+1,93,0,14:21,Timeout #1 by TB at 14:21.,0,1,3,,0,,TIMEOUT
+1,222,3,12:05,"(12:05) (Shotgun) C.Keenum pass deep middle to B.Quick for 44 yards, TOUCHDOWN.",7,1,75,TB 44,1,LA,TD
+1,72,2,14:56,(14:56) (Shotgun) T.Gurley left guard to LA 28 for 3 yards (W.Gholston).,10,1,3,LA 25,0,LA,
+3,421,2,09:56,(9:56) T.Gurley left tackle to LA 35 for 2 yards (W.Gholston).,6,1,6,LA 33,0,LA,
+3,442,3,08:54,"(8:54) (Shotgun) C.Keenum pass short right intended for T.Austin INTERCEPTED by K.Alexander at LA 38. K.Alexander for 38 yards, TOUCHDOWN.",4,1,6,LA 35,1,LA,TD
+3,397,1,09:56,(9:56) C.Keenum pass short right to T.Austin pushed ob at LA 33 for 4 yards (C.Conte).,10,1,4,LA 29,0,LA,
+2,305,1,11:32,(11:32) C.Sims right tackle to TB 9 for -4 yards (A.Donald).,22,1,-16,TB 13,0,TB,
+2,258,0,11:58,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback.",0,1,0,LA 35,0,LA,KICKOFF
+2,273,1,11:58,"(11:58) C.Sims left tackle to TB 29 for 4 yards (M.Barron, A.Ogletree). PENALTY on TB-B.Myers, Clipping, 12 yards, enforced at TB 25 - No Play.",10,1,-12,TB 25,0,TB,PENALTY
+2,326,2,10:55,(10:55) J.Winston pass incomplete short middle to C.Brate (A.Donald).,26,1,-16,TB 9,0,TB,
+2,372,4,10:08,"(10:08) (Punt formation) B.Anger punts 55 yards to LA 21, Center-A.DePaola. T.Austin ran ob at LA 29 for 8 yards (J.Keyes).",11,1,-1,TB 24,0,TB,PUNT
+2,348,3,10:49,(10:49) (Shotgun) J.Winston pass short right to V.Jackson to TB 24 for 15 yards (T.Hill).,26,1,-1,TB 9,0,TB,
+5,586,1,07:38,(7:38) C.Sims right guard to TB 12 for 4 yards (A.Ogletree).,10,1,4,TB 8,0,TB,
+5,607,2,07:04,"(7:04) C.Sims right guard to TB 16 for 4 yards (E.Sims, E.Westbrooks).",6,1,8,TB 12,0,TB,
+5,628,3,06:23,(6:23) (Shotgun) J.Winston pass incomplete short middle to M.Evans.,2,1,8,TB 16,0,TB,
+5,650,4,06:17,"(6:17) (Punt formation) B.Anger punts 52 yards to LA 32, Center-A.DePaola, fair catch by T.Austin.",2,1,8,TB 16,0,TB,PUNT
+4,545,3,07:53,(7:53) (Shotgun) C.Keenum pass incomplete short left to K.Britt.,3,1,7,LA 47,0,LA,
+4,567,4,07:50,"(7:50) (Punt formation) J.Hekker punts 45 yards to TB 8, Center-J.McQuaide, downed by LA-C.Littleton.",3,1,7,LA 47,0,LA,PUNT
+4,523,2,07:59,(7:59) (Shotgun) C.Keenum pass incomplete short middle to T.Austin.,3,1,7,LA 47,0,LA,
+4,502,1,08:37,(8:37) T.Gurley up the middle to LA 47 for 7 yards (K.Alexander).,10,1,7,LA 40,0,LA,
+4,480,0,08:45,R.Aguayo kicks 69 yards from TB 35 to LA -4. B.Cunningham to LA 40 for 44 yards (R.Aguayo).,0,1,0,TB 35,0,TB,KICKOFF
+7,890,1,02:26,(2:26) (Shotgun) J.Winston pass short middle to M.Evans to TB 44 for 19 yards (M.Alexander).,10,1,19,TB 25,0,TB,
+7,1025,3,15:00,(15:00) (Shotgun) J.Winston pass short middle to A.Humphries to LA 16 for 5 yards (L.Joyner).,6,2,59,LA 21,0,TB,
+7,1123,3,12:27,"(12:27) G.Cherilus reported in as eligible.  C.Sims up the middle for 1 yard, TOUCHDOWN.",1,2,75,LA 1,1,TB,TD
+7,1147,0,12:23,"R.Aguayo extra point is GOOD, Center-A.DePaola, Holder-B.Anger. PENALTY on LA-E.Sims, Disqualification, 15 yards, enforced between downs. 97 EJECTED",0,2,75,LA 15,1,TB,XP
+7,962,2,01:29,"(1:29) (No Huddle, Shotgun) PENALTY on TB-D.Dotson, False Start, 5 yards, enforced at LA 18 - No Play.",3,1,52,LA 18,0,TB,PENALTY
+7,1049,4,14:32,(14:32) (No Huddle) J.Winston pass short middle to M.Evans to LA 2 for 14 yards (T.Johnson).,1,2,73,LA 16,0,TB,
+7,875,0,02:26,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback.",0,1,0,LA 35,0,LA,KICKOFF
+7,1098,2,13:11,(13:11) G.Cherilus and E.Smith reported in as eligible.  C.Sims up the middle to LA 1 for no gain (A.Ogletree).,1,2,74,LA 1,0,TB,
+7,1073,1,13:53,(13:53) G.Cherilus and E.Smith reported in as eligible.  C.Sims up the middle to LA 1 for 1 yard (D.Easley).,2,2,74,LA 2,0,TB,
+7,985,2,00:38,"(:38) (Shotgun) J.Winston pass short left to A.Humphries to LA 21 for 2 yards (T.Hill, L.Joyner).",8,1,54,LA 23,0,TB,
+7,938,1,01:29,"(1:29) (No Huddle, Shotgun) J.Winston pass short right to M.Evans to LA 18 for 7 yards (M.Barron, T.Johnson).",10,1,57,LA 25,0,TB,
+7,1009,0,,END QUARTER 1,0,1,54,,0,,
+7,914,1,02:03,"(2:03) (No Huddle, Shotgun) J.Winston pass short left to A.Humphries to LA 25 for 31 yards (T.Hill).",10,1,50,TB 44,0,TB,
+6,856,4,02:31,"(2:31) (Field Goal formation) G.Zuerlein 53 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",5,1,33,TB 35,1,LA,FG
+6,669,1,06:08,(6:08) (Shotgun) C.Keenum sacked at LA 25 for -7 yards (L.David).,10,1,-7,LA 32,0,LA,
+6,755,1,04:11,"(4:11) A.Donnal reported in as eligible.  T.Gurley up the middle to TB 38 for 2 yards (W.Gholston). PENALTY on LA-B.Quick, Illegal Formation, 5 yards, enforced at TB 40 - No Play.",10,1,23,TB 40,0,LA,PENALTY
+6,789,1,03:51,"(3:51) (Shotgun) T.Gurley up the middle to TB 39 for 6 yards (K.Alexander, L.David).",15,1,29,TB 45,0,LA,
+6,710,3,05:15,(5:15) (Shotgun) B.Cunningham up the middle to LA 47 for 22 yards (C.Conte).,17,1,15,LA 25,0,LA,
+6,731,1,04:50,(4:50) (No Huddle) C.Keenum pass short left to T.Austin to TB 40 for 13 yards (C.Conte).,10,1,28,LA 47,0,LA,
+6,688,2,05:22,(5:22) (Shotgun) C.Keenum pass incomplete short left to L.Kendricks (A.Verner).,17,1,-7,LA 25,0,LA,
+6,810,2,03:14,(3:14) C.Keenum pass short left to K.Britt to TB 35 for 4 yards (V.Hargreaves).,9,1,33,TB 39,0,LA,
+6,834,3,02:36,(2:36) C.Keenum pass incomplete short middle to B.Marquez.,5,1,33,TB 35,0,LA,
+9,1280,1,10:51,(10:51) J.Rodgers up the middle to LA 41 for 2 yards (A.Ogletree).,10,2,24,LA 43,0,TB,
+9,1324,2,10:08,"(10:08) J.Rodgers up the middle to LA 34 for 2 yards (R.Quinn, A.Donald).",3,2,9,LA 36,0,TB,
+9,1569,0,06:03,"R.Aguayo extra point is GOOD, Center-A.DePaola, Holder-B.Anger.",0,2,43,LA 15,1,TB,XP
+9,1428,1,07:57,(7:57) (Shotgun) J.Winston pass incomplete short middle to C.Brate.,10,2,24,LA 19,0,TB,
+9,1301,2,10:33,"(10:33) PENALTY on LA-A.Donald, Defensive Offside, 5 yards, enforced at LA 41 - No Play.",8,2,7,LA 41,0,TB,PENALTY
+9,1345,3,09:37,(9:37) (Shotgun) J.Rodgers right end to LA 30 for 4 yards (T.Hill).,1,2,13,LA 34,0,TB,
+9,1549,1,06:10,"(6:10) J.Winston pass short right to C.Brate for 3 yards, TOUCHDOWN.",3,2,43,LA 3,1,TB,TD
+9,1366,1,09:07,(9:07) J.Winston pass short left to J.Rodgers to LA 22 for 8 yards (T.Johnson).,10,2,21,LA 30,0,TB,
+9,1525,3,06:48,"(6:48) (Shotgun) J.Winston pass short right to C.Brate to LA 3 for 20 yards (T.Hill, M.Barron).",14,2,40,LA 23,0,TB,
+9,1501,2,07:23,"(7:23) (Shotgun) J.Winston pass short right to C.Sims to LA 23 for 6 yards (T.Hill, M.Barron).",20,2,40,LA 29,0,TB,
+9,1450,2,07:48,"(7:48) (Shotgun) J.Winston pass short left to A.Humphries pushed ob at LA 15 for 4 yards (L.Joyner). PENALTY on TB-D.Smith, Illegal Use of Hands, 10 yards, enforced at LA 19 - No Play.",10,2,14,LA 19,0,TB,PENALTY
+9,1411,0,07:57,Timeout #2 by TB at 07:57.,0,2,24,,0,,TIMEOUT
+9,1390,2,08:37,(8:37) J.Rodgers up the middle to LA 19 for 3 yards (W.Hayes).,2,2,24,LA 22,0,TB,
+8,1199,1,12:23,(12:23) T.Austin right end to LA 39 for 14 yards (V.Hargreaves).,10,2,14,LA 25,0,LA,
+8,1184,0,12:23,"R.Aguayo kicks 50 yards from 50 to end zone, Touchback.",0,2,0,50,0,TB,KICKOFF
+8,1224,1,11:46,(11:46) T.Gurley right guard to LA 40 for 1 yard (C.Conte).,10,2,15,LA 39,0,LA,
+8,1245,2,11:05,"(11:05) (Shotgun) C.Keenum pass short right to K.Britt to LA 48 for 8 yards (L.David). FUMBLES (L.David), RECOVERED by TB-C.Conte at TB 47. C.Conte to LA 43 for 10 yards (R.Havenstein).",9,2,23,LA 40,0,LA,FUMBLE
+11,1788,1,02:32,(2:32) (Shotgun) J.Winston pass short left intended for C.Sims INTERCEPTED by M.Barron (T.Johnson) at TB 29. M.Barron to TB 22 for 7 yards (C.Sims).,10,2,9,TB 27,0,TB,INT
+11,1758,2,03:00,"(3:00) (Shotgun) J.Winston sacked at TB 12 for -6 yards (T.McDonald). PENALTY on LA-A.Ogletree, Unnecessary Roughness, 15 yards, enforced at TB 12.",10,2,9,TB 18,0,TB,PENALTY
+11,1729,1,03:04,(3:04) (Shotgun) J.Winston pass incomplete short middle to M.Evans (T.Johnson).,10,2,0,TB 18,0,TB,
+10,1645,1,05:00,(5:00) T.Gurley right guard to LA 36 for no gain (L.David).,10,2,11,LA 36,0,LA,
+10,1621,2,05:26,(5:26) (Shotgun) C.Keenum pass short right to K.Britt to LA 36 for 7 yards (L.David).,6,2,11,LA 29,0,LA,
+10,1600,1,06:03,(6:03) (Shotgun) T.Gurley right guard to LA 29 for 4 yards (W.Gholston).,10,2,4,LA 25,0,LA,
+10,1711,4,03:13,"(3:13) (Punt formation) J.Hekker punts 37 yards to TB 18, Center-J.McQuaide, out of bounds.",1,2,20,LA 45,0,LA,PUNT
+10,1585,0,06:03,"R.Aguayo kicks 65 yards from TB 35 to end zone, Touchback.",0,2,0,TB 35,0,TB,KICKOFF
+10,1690,3,03:45,"(3:45) T.Gurley right tackle to LA 45 for no gain (G.McCoy, C.Conte).",1,2,20,LA 45,0,LA,
+10,1666,2,04:21,(4:21) C.Keenum pass short left to B.Quick to LA 45 for 9 yards (V.Hargreaves).,10,2,20,LA 36,0,LA,
+13,2169,0,,END QUARTER 2,0,2,-1,,0,,
+13,2133,0,00:22,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback.",0,2,0,LA 35,0,LA,KICKOFF
+13,2148,1,00:22,(:22) J.Winston kneels to TB 24 for -1 yards.,10,2,-1,TB 25,0,TB,
+12,1814,1,02:23,(2:23) T.Austin left end to TB 14 for 8 yards (H.Jones).,10,2,8,TB 22,0,LA,
+12,2117,0,00:22,"G.Zuerlein extra point is GOOD, Center-J.McQuaide, Holder-J.Hekker.",0,2,22,TB 15,1,LA,XP
+12,1984,1,00:45,"(:45) PENALTY on LA-T.Higbee, False Start, 5 yards, enforced at TB 1 - No Play.",1,2,16,TB 1,0,LA,PENALTY
+12,2040,1,00:39,(:39) (Shotgun) T.Gurley up the middle to TB 1 for 2 yards (D.Lambert).,3,2,21,TB 3,0,LA,
+12,1835,0,02:00,Two-Minute Warning,0,2,8,,0,,
+12,1965,0,00:45,Timeout #3 by TB at 00:45.,0,2,21,,0,,TIMEOUT
+12,1852,2,02:00,"(2:00) (Shotgun) T.Gurley right guard to TB 13 for 1 yard (L.David, C.McDonald).",2,2,9,TB 14,0,LA,
+12,1932,2,00:49,"(:49) C.Keenum pass incomplete short middle to K.Britt. PENALTY on TB-B.Grimes, Defensive Pass Interference, 5 yards, enforced at TB 6 - No Play.",6,2,21,TB 6,0,LA,PENALTY
+12,2078,2,00:33,(:33) C.Keenum pass incomplete short right to L.Kendricks.,1,2,21,TB 1,0,LA,
+12,1873,3,01:22,(1:22) C.Keenum right end to TB 8 for 5 yards (K.Alexander).,1,2,14,TB 13,0,LA,
+12,1894,1,00:53,(:53) T.Gurley left guard to TB 6 for 2 yards (W.Gholston).,8,2,16,TB 8,0,LA,
+12,2061,0,00:33,Timeout #2 by LA at 00:33.,0,2,21,,0,,TIMEOUT
+12,2100,3,00:28,"(:28) (Shotgun) T.Gurley up the middle for 1 yard, TOUCHDOWN.",1,2,22,TB 1,1,LA,TD
+12,1915,0,00:49,Timeout #1 by LA at 00:49.,0,2,16,,0,,TIMEOUT
+12,2007,1,00:45,"(:45) (Shotgun) C.Keenum pass incomplete short left to L.Kendricks (B.McDougald). PENALTY on TB-C.McDonald, Defensive Offside, 3 yards, enforced at TB 6 - No Play.",6,2,19,TB 6,0,LA,PENALTY
+15,2419,2,11:07,(11:07) (Shotgun) T.Gurley left tackle to LA 10 for no gain (B.McDougald).,11,3,-1,LA 10,0,LA,
+15,2464,4,10:10,"(10:10) (Punt formation) J.Hekker punts 64 yards to TB 16, Center-J.McQuaide. A.Humphries ran ob at TB 29 for 13 yards (C.Littleton).",1,3,9,LA 20,0,LA,PUNT
+15,2440,3,10:28,(10:28) (Shotgun) C.Keenum pass short left to B.Cunningham to LA 20 for 10 yards (A.Verner).,11,3,9,LA 10,0,LA,
+15,2398,1,11:43,(11:43) T.Gurley left tackle to LA 10 for -1 yards (K.Alexander).,10,3,-1,LA 11,0,LA,
+14,2200,1,15:00,"(15:00) C.Sims left guard to TB 31 for 6 yards (E.Westbrooks, A.Ogletree).",10,3,6,TB 25,0,TB,
+14,2335,2,11:59,(11:59) J.Winston pass incomplete short left to A.Cross [A.Donald].,6,3,30,LA 45,0,TB,
+14,2314,1,12:42,(12:42) C.Sims left tackle to LA 45 for 4 yards (L.Joyner).,10,3,30,LA 49,0,TB,
+14,2290,3,13:18,(13:18) (Shotgun) J.Winston pass short middle to A.Humphries to LA 49 for 6 yards (L.Joyner).,2,3,26,TB 45,0,TB,
+14,2221,2,14:26,(14:26) C.Sims right guard to TB 37 for 6 yards (M.Barron).,4,3,12,TB 31,0,TB,
+14,2242,1,13:59,(13:59) J.Winston pass incomplete short right to B.Myers.,10,3,12,TB 37,0,TB,
+14,2185,0,15:00,"G.Zuerlein kicks 65 yards from LA 35 to end zone, Touchback.",0,3,0,LA 35,0,LA,KICKOFF
+14,2357,3,11:54,(11:54) (Shotgun) J.Winston pass incomplete short right to C.Brate (M.Alexander).,6,3,30,LA 45,0,TB,
+14,2264,2,13:52,(13:52) C.Sims left end pushed ob at TB 45 for 8 yards (T.Hill).,10,3,20,TB 37,0,TB,
+14,2379,4,11:49,"(11:49) (Punt formation) B.Anger punts 34 yards to LA 11, Center-A.DePaola, fair catch by T.Austin.",6,3,30,LA 45,0,TB,PUNT
+17,2604,2,08:17,(8:17) C.Keenum pass incomplete short left to M.Thomas.,10,3,0,LA 20,0,LA,
+17,2648,4,08:08,"(8:08) (Punt formation) J.Hekker punts 46 yards to TB 34, Center-J.McQuaide, fair catch by A.Humphries.",10,3,0,LA 20,0,LA,PUNT
+17,2626,3,08:12,(8:12) (Shotgun) C.Keenum pass incomplete short left to L.Kendricks [H.Jones].,10,3,0,LA 20,0,LA,
+17,2582,1,08:24,(8:24) C.Keenum pass incomplete short left to T.Austin.,10,3,0,LA 20,0,LA,
+16,2535,3,08:43,(8:43) (Shotgun) J.Winston pass incomplete short right to A.Humphries.,5,3,5,TB 34,0,TB,
+16,2557,4,08:37,"(8:37) (Punt formation) B.Anger punts 50 yards to LA 16, Center-A.DePaola. T.Austin to LA 20 for 4 yards (J.Rodgers).",5,3,5,TB 34,0,TB,PUNT
+16,2512,2,09:16,"(9:16) G.Cherilus reported in as eligible.  C.Sims right guard to TB 34 for 1 yard (M.Barron, A.Ogletree).",6,3,5,TB 33,0,TB,
+16,2489,1,09:59,(9:59) G.Cherilus reported in as eligible.  J.Winston right end to TB 33 for 4 yards (M.Barron).,10,3,4,TB 29,0,TB,
+19,2873,2,04:19,(4:19) (No Huddle) T.Gurley up the middle to LA 43 for 3 yards (K.Alexander).,1,3,12,LA 40,0,LA,
+19,3024,0,00:48,"G.Zuerlein extra point is GOOD, Center-J.McQuaide, Holder-J.Hekker.",0,3,69,TB 15,1,LA,XP
+19,2963,1,01:59,(1:59) T.Gurley up the middle to TB 1 for 16 yards (K.Tandy).,10,3,69,TB 17,0,LA,
+19,2939,2,02:35,(2:35) C.Keenum pass short left to B.Marquez to TB 17 for 12 yards (K.Alexander; C.Conte).,1,3,52,TB 29,0,LA,
+19,2918,1,03:13,(3:13) T.Gurley left tackle to TB 29 for 9 yards (V.Hargreaves).,10,3,40,TB 38,0,LA,
+19,2894,1,03:44,(3:44) C.Keenum pass deep left to K.Britt to TB 38 for 19 yards (V.Hargreaves).,10,3,31,LA 43,0,LA,
+19,2852,1,04:40,(4:40) T.Gurley up the middle to LA 40 for 9 yards (B.Grimes).,10,3,9,LA 31,0,LA,
+19,2984,1,01:34,"(1:34) (No Huddle) T.Gurley up the middle to TB 1 for no gain (C.McDonald, G.McCoy).",1,3,68,TB 1,0,LA,
+19,3005,2,00:53,"(:53) A.Donnal reported in as eligible.  T.Gurley left tackle for 1 yard, TOUCHDOWN.",1,3,69,TB 1,1,LA,TD
+18,2786,2,05:31,"(5:31) (No Huddle, Shotgun) J.Winston pass short left to A.Humphries to LA 23 for 6 yards (M.Brockers).",9,3,43,LA 29,0,TB,
+18,2717,3,07:00,(7:00) (Shotgun) J.Winston pass short left to M.Evans pushed ob at LA 47 for 12 yards (T.Johnson) [R.Quinn].,3,3,19,TB 41,0,TB,
+18,2765,1,06:01,"(6:01) C.Sims right tackle to LA 29 for 1 yard (C.Thomas, L.Joyner).",10,3,37,LA 30,0,TB,
+18,2741,1,06:32,(6:32) J.Winston pass short left to M.Evans to LA 30 for 17 yards (T.Johnson).,10,3,36,LA 47,0,TB,
+18,2667,1,08:00,"(8:00) J.Winston Aborted. J.Hawley FUMBLES at TB 34, recovered by TB-J.Winston at TB 34.",10,3,0,TB 34,0,TB,FUMBLE
+18,2693,2,07:29,(7:29) (Shotgun) J.Winston pass short left to C.Sims to TB 41 for 7 yards (T.Johnson).,10,3,7,TB 34,0,TB,
+18,2832,4,04:46,"(4:46) (Field Goal formation) R.Aguayo 41 yard field goal is No Good, Wide Left, Center-A.DePaola, Holder-B.Anger.",3,3,43,LA 23,0,TB,FGM
+18,2810,3,04:51,(4:51) (Shotgun) J.Winston pass incomplete short right (A.Ogletree).,3,3,43,LA 23,0,TB,

@@ -1,167 +1,167 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1477,1,04:15,,11,2,4,HOU 2,0,HOU,
-9,1561,4,02:58,,3,2,7,HOU 10,0,HOU,PUNT
-9,1501,2,03:44,,6,2,7,HOU 7,0,HOU,
-9,1522,0,03:02,,0,2,7,,0,,TIMEOUT
-9,1539,3,03:02,,3,2,7,HOU 10,0,HOU,
-9,1454,1,04:15,,10,2,-1,HOU 3,0,HOU,PENALTY
-24,3708,4,03:23,,9,4,1,HOU 11,0,HOU,PUNT
-24,3665,2,04:39,,10,4,-3,HOU 10,0,HOU,
-24,3684,3,04:00,,13,4,1,HOU 7,0,HOU,
-24,3643,1,04:45,,10,4,0,HOU 10,0,HOU,
-10,1780,0,00:19,,0,2,40,,0,,TIMEOUT
-10,1672,1,01:12,,10,2,29,HOU 22,0,NE,
-10,1696,1,00:36,,10,2,30,HOU 12,0,NE,
-10,1797,1,00:19,,1,2,41,HOU 1,1,NE,TD
-10,1821,0,00:14,,0,2,41,HOU 15,1,NE,XP
-10,1648,3,01:20,,4,2,19,HOU 35,0,NE,
-10,1734,2,00:28,,9,2,30,HOU 11,0,NE,
-10,1607,0,02:00,,0,2,1,,0,,
-10,1586,1,02:45,,10,2,1,HOU 41,0,NE,
-10,1717,0,00:28,,0,2,30,,0,,TIMEOUT
-10,1624,2,02:00,,9,2,6,HOU 40,0,NE,
-10,1756,3,00:24,,9,2,40,HOU 11,0,NE,
-20,3100,1,13:37,,10,4,-11,HOU 18,0,HOU,FUMBLE
-6,824,1,01:14,,10,1,30,NE 40,0,NE,
-6,801,2,02:00,,5,1,22,NE 23,0,NE,
-6,780,1,02:32,,10,1,5,NE 18,0,NE,
-6,995,3,12:58,,8,2,57,HOU 30,0,NE,
-6,869,0,,,0,1,35,,0,,
-6,845,2,00:33,,2,1,35,NE 48,0,NE,
-6,973,2,13:03,,8,2,52,HOU 30,0,NE,
-6,952,1,13:45,,10,2,52,HOU 32,0,NE,
-6,907,2,14:54,,10,2,42,HOU 47,0,NE,
-6,928,3,14:18,,3,2,50,HOU 40,0,NE,
-6,1016,4,12:18,,3,2,57,HOU 25,1,NE,FG
-6,754,0,02:38,,0,1,0,HOU 35,0,HOU,KICKOFF
-6,885,1,15:00,,10,2,35,HOU 47,0,NE,
-18,2912,2,02:05,,11,3,4,HOU 38,0,HOU,
-18,2891,1,02:37,,10,3,-1,HOU 39,0,HOU,
-18,2955,4,01:08,,14,3,-4,HOU 35,0,HOU,PUNT
-18,2936,3,01:28,,6,3,-4,HOU 43,0,HOU,
-25,3748,0,03:04,,0,4,1,,0,,TIMEOUT
-25,3727,1,03:16,,10,4,1,NE 31,0,NE,
-25,3866,3,00:39,,12,4,10,NE 42,0,NE,
-25,3765,2,03:04,,9,4,2,NE 32,0,NE,
-25,3845,2,01:18,,11,4,11,NE 43,0,NE,
-25,3824,1,02:00,,10,4,12,NE 44,0,NE,
-25,3807,0,02:00,,0,4,13,,0,,
-25,3786,3,02:19,,8,4,13,NE 33,0,NE,
-25,3887,0,,,0,4,10,,0,,
-1,117,4,13:16,,16,1,-6,HOU 14,0,HOU,PUNT
-1,37,0,15:00,,0,1,0,NE 35,0,NE,KICKOFF
-1,98,3,13:47,,8,1,-6,HOU 22,0,HOU,
-1,77,2,14:28,,6,1,2,HOU 24,0,HOU,
-1,56,1,15:00,,10,1,4,HOU 20,0,HOU,
-5,637,3,04:51,,18,1,60,HOU 26,0,HOU,
-5,515,1,07:22,,10,1,9,HOU 20,0,HOU,
-5,539,2,06:51,,1,1,14,HOU 29,0,HOU,
-5,735,4,02:42,,5,1,60,NE 20,1,HOU,FG
-5,602,3,05:13,,3,1,60,HOU 41,0,HOU,PENALTY
-5,689,2,03:31,,11,1,60,NE 26,0,HOU,
-5,661,1,04:13,,10,1,54,NE 25,0,HOU,
-5,500,0,07:22,,0,1,20,NE 35,0,NE,KICKOFF
-5,713,3,02:47,,5,1,60,NE 20,0,HOU,
-5,581,2,05:54,,4,1,21,HOU 40,0,HOU,
-5,560,1,06:15,,10,1,20,HOU 34,0,HOU,
-13,2246,1,11:48,,10,3,9,HOU 20,0,HOU,
-13,2227,0,11:48,,0,3,0,NE 35,0,NE,KICKOFF
-13,2267,2,11:16,,1,3,14,HOU 29,0,HOU,PENALTY
-13,2322,2,10:58,,10,3,14,HOU 34,0,HOU,
-13,2344,3,10:52,,10,3,14,HOU 34,0,HOU,
-13,2366,4,10:46,,10,3,14,HOU 34,0,HOU,FUMBLE
-13,2300,1,11:06,,10,3,14,HOU 34,0,HOU,
-21,3153,2,12:52,,3,4,5,HOU 3,0,NE,
-21,3174,3,12:08,,2,4,7,HOU 2,1,NE,TD
-21,3191,0,12:04,,0,4,7,HOU 15,1,NE,XP
-21,3129,1,13:25,,7,4,7,HOU 7,0,NE,
-23,3566,0,05:40,,0,4,22,,0,,TIMEOUT
-23,3607,0,04:53,,0,4,27,,0,,TIMEOUT
-23,3624,4,04:53,,16,4,27,HOU 35,0,NE,PUNT
-23,3406,2,08:36,,9,4,27,NE 39,0,NE,PENALTY
-23,3530,0,05:46,,0,4,32,,0,,TIMEOUT
-23,3441,2,08:36,,20,4,27,NE 28,0,NE,PENALTY
-23,3464,2,07:48,,25,4,27,NE 23,0,NE,
-23,3381,1,09:15,,10,4,32,NE 38,0,NE,
-23,3509,1,06:14,,10,4,32,HOU 29,0,NE,
-23,3547,2,05:46,,11,4,22,HOU 30,0,NE,
-23,3583,3,05:40,,21,4,27,HOU 40,0,NE,
-23,3488,1,06:59,,10,4,33,HOU 42,0,NE,
-11,1852,1,00:14,,10,2,-1,HOU 20,0,HOU,
-11,1873,0,,,0,2,-1,,0,,
-11,1837,0,00:14,,0,2,0,NE 35,0,NE,KICKOFF
-14,2446,3,09:09,,4,3,6,NE 15,0,HOU,
-14,2423,2,09:43,,3,3,6,NE 14,0,HOU,
-14,2395,1,10:32,,10,3,6,NE 21,0,HOU,
-14,2468,4,09:01,,4,3,6,NE 15,0,HOU,
-8,1270,1,08:14,,10,2,19,NE 32,0,NE,
-8,1203,0,09:26,,0,2,0,HOU 35,0,HOU,KICKOFF
-8,1334,1,06:49,,10,2,34,NE 49,0,NE,
-8,1387,2,05:40,,16,2,31,NE 43,0,NE,
-8,1313,3,07:32,,4,2,30,NE 38,0,NE,
-8,1291,2,07:37,,4,2,19,NE 38,0,NE,
-8,1411,3,04:58,,9,2,35,50,0,NE,
-8,1435,4,04:25,,5,2,35,HOU 46,0,NE,PUNT
-8,1355,2,06:05,,6,2,24,HOU 47,0,NE,PENALTY
-8,1249,2,08:47,,4,2,13,NE 25,0,NE,
-8,1225,1,09:20,,10,2,6,NE 19,0,NE,
-19,3056,3,14:24,,7,4,6,50,0,NE,
-19,3035,2,15:00,,7,4,15,50,0,NE,
-19,3019,0,,,0,3,15,,0,,
-19,3075,4,13:49,,16,4,6,NE 41,0,NE,PUNT
-19,2995,1,00:26,,10,3,15,NE 47,0,NE,
-19,2974,1,00:59,,10,3,12,NE 35,0,NE,
-22,3207,0,12:04,,0,4,0,NE 35,0,NE,KICKOFF
-22,3362,4,09:24,,3,4,46,NE 34,0,HOU,
-22,3296,1,10:47,,10,4,50,NE 41,0,HOU,
-22,3250,2,11:18,,7,4,3,HOU 19,0,HOU,
-22,3229,1,11:57,,10,4,3,HOU 16,0,HOU,
-22,3339,3,10:06,,3,4,50,NE 34,0,HOU,
-22,3272,3,11:11,,7,4,43,HOU 19,0,HOU,
-22,3318,2,10:40,,10,4,50,NE 41,0,HOU,
-12,1935,1,14:16,,10,3,32,NE 48,0,NE,
-12,1889,0,15:00,,0,3,0,HOU 35,0,HOU,KICKOFF
-12,1980,1,12:52,,10,3,68,HOU 38,0,NE,
-12,2066,3,12:48,,8,3,48,HOU 36,0,NE,PENALTY
-12,1956,2,13:27,,5,3,41,HOU 47,0,NE,
-12,2101,3,11:57,,3,3,48,HOU 31,0,NE,
-12,1911,1,14:54,,10,3,27,NE 21,0,NE,
-12,2004,2,12:48,,10,3,68,HOU 38,0,NE,
-12,2130,4,11:52,,3,3,48,HOU 31,1,NE,FG
-16,2618,3,06:21,,3,3,27,HOU 46,0,HOU,
-16,2775,4,04:55,,31,3,6,HOU 45,0,HOU,PUNT
-16,2667,2,05:13,,8,3,6,NE 32,0,HOU,
-16,2746,3,05:10,,8,3,6,NE 32,0,HOU,FUMBLE
-16,2576,1,07:25,,10,3,6,HOU 39,0,HOU,
-16,2597,2,06:57,,4,3,7,HOU 45,0,HOU,
-16,2642,1,05:46,,10,3,29,NE 34,0,HOU,
-7,1141,2,10:17,,9,2,53,NE 28,0,HOU,
-7,1118,1,10:49,,10,2,52,NE 29,0,HOU,
-7,1162,3,09:37,,8,2,53,NE 27,0,HOU,
-7,1071,1,11:49,,10,2,53,NE 43,0,HOU,
-7,1184,4,09:30,,8,2,53,NE 27,1,HOU,FG
-7,1050,1,12:13,,10,2,37,HOU 20,0,HOU,
-7,1035,0,12:13,,0,2,0,NE 35,0,NE,KICKOFF
-7,1094,2,11:15,,6,2,51,NE 39,0,HOU,
-3,274,2,10:49,,5,1,7,HOU 29,0,HOU,
-3,295,3,10:49,,3,1,7,HOU 31,0,HOU,
-3,318,4,09:43,,3,1,7,HOU 31,0,HOU,PUNT
-3,246,1,11:23,,10,1,7,HOU 24,0,HOU,
-17,2802,1,04:46,,10,3,-1,NE 11,0,NE,
-17,2866,4,02:47,,13,3,-3,NE 8,0,NE,PUNT
-17,2847,3,03:22,,3,3,-3,NE 18,0,NE,
-17,2823,2,04:05,,11,3,7,NE 10,0,NE,
-4,367,1,08:50,,7,1,46,HOU 7,0,NE,
-4,388,2,08:15,,6,1,52,HOU 6,0,NE,PENALTY
-4,484,0,07:22,,0,1,52,HOU 15,1,NE,XP
-4,418,2,08:10,,11,1,50,HOU 11,0,NE,
-4,343,1,09:30,,10,1,45,NE 48,0,NE,
-4,442,3,07:28,,2,1,52,HOU 2,1,NE,TD
-2,153,1,13:01,,10,1,2,NE 34,0,NE,
-2,174,2,12:25,,8,1,0,NE 36,0,NE,
-2,195,3,11:44,,10,1,0,NE 34,0,NE,
-2,217,4,11:35,,10,1,0,NE 34,0,NE,PUNT
-15,2557,4,07:34,,3,3,7,NE 23,0,NE,PUNT
-15,2511,2,08:17,,11,3,7,NE 15,0,NE,
-15,2490,1,08:56,,10,3,-1,NE 16,0,NE,
-15,2535,3,07:39,,3,3,7,NE 23,0,NE,
+24,3665,2,04:39,(4:39) (Shotgun) T.Yates sacked at HOU 7 for -3 yards (A.Hicks).,10,4,-3,HOU 10,0,HOU,
+24,3708,4,03:23,"(3:23) S.Lechler punts 58 yards to NE 31, Center-J.Weeks, fair catch by D.Amendola.",9,4,1,HOU 11,0,HOU,PUNT
+24,3643,1,04:45,(4:45) (Shotgun) T.Yates pass incomplete deep left to D.Hopkins (L.Ryan).,10,4,0,HOU 10,0,HOU,
+24,3684,3,04:00,(4:00) (Shotgun) T.Yates pass short left to J.Grimes to HOU 11 for 4 yards (J.Collins) [C.Jones].,13,4,1,HOU 7,0,HOU,
+25,3887,0,,END GAME,0,4,10,,0,,
+25,3824,1,02:00,(2:00) T.Brady kneels to NE 43 for -1 yards.,10,4,12,NE 44,0,NE,
+25,3786,3,02:19,(2:19) B.Bolden left end to NE 44 for 11 yards (B.McKinney).,8,4,13,NE 33,0,NE,
+25,3765,2,03:04,(3:04) B.Bolden left tackle to NE 33 for 1 yard (C.Covington; W.Mercilus).,9,4,2,NE 32,0,NE,
+25,3748,0,03:04,Timeout #3 by HOU at 03:04.,0,4,1,,0,,TIMEOUT
+25,3807,0,02:00,Two-Minute Warning,0,4,13,,0,,
+25,3866,3,00:39,(:39) T.Brady kneels to NE 41 for -1 yards.,12,4,10,NE 42,0,NE,
+25,3845,2,01:18,(1:18) T.Brady kneels to NE 42 for -1 yards.,11,4,11,NE 43,0,NE,
+25,3727,1,03:16,"(3:16) B.Bolden up the middle to NE 32 for 1 yard (M.Bullough, B.McKinney).",10,4,1,NE 31,0,NE,
+20,3100,1,13:37,"(13:37) (Shotgun) B.Hoyer sacked at HOU 11 for -7 yards (J.Sheard). FUMBLES (J.Sheard) [J.Sheard], RECOVERED by NE-M.Brown at HOU 7. M.Brown to HOU 7 for no gain (B.Brooks).",10,4,-11,HOU 18,0,HOU,FUMBLE
+21,3153,2,12:52,(12:52) B.Bolden up the middle to HOU 2 for 1 yard (B.Cushing).,3,4,5,HOU 3,0,NE,
+21,3129,1,13:25,(13:25) (Shotgun) T.Brady pass short right to D.Amendola to HOU 3 for 4 yards (B.McKinney).,7,4,7,HOU 7,0,NE,
+21,3174,3,12:08,"(12:08) (Shotgun) J.White up the middle for 2 yards, TOUCHDOWN.",2,4,7,HOU 2,1,NE,TD
+21,3191,0,12:04,"S.Gostkowski extra point is GOOD, Center-J.Cardona, Holder-R.Allen.",0,4,7,HOU 15,1,NE,XP
+22,3207,0,12:04,S.Gostkowski kicks 68 yards from NE 35 to HOU -3. A.Hunt to HOU 16 for 19 yards (J.Bostic).,0,4,0,NE 35,0,NE,KICKOFF
+22,3229,1,11:57,"(11:57) J.Grimes left end to HOU 19 for 3 yards (J.Mayo, J.Collins).",10,4,3,HOU 16,0,HOU,
+22,3250,2,11:18,(11:18) (Shotgun) B.Hoyer pass incomplete short right to D.Hopkins (L.Ryan).,7,4,3,HOU 19,0,HOU,
+22,3362,4,09:24,(9:24) (Shotgun) B.Hoyer sacked at NE 38 for -4 yards (A.Hicks). HOU-B.Hoyer was injured during the play. He is Out.,3,4,46,NE 34,0,HOU,
+22,3318,2,10:40,(10:40) (Shotgun) J.Grimes up the middle to NE 34 for 7 yards (J.Mayo).,10,4,50,NE 41,0,HOU,
+22,3272,3,11:11,(11:11) (Shotgun) B.Hoyer pass deep right to D.Hopkins ran ob at NE 41 for 40 yards.,7,4,43,HOU 19,0,HOU,
+22,3296,1,10:47,(10:47) (Shotgun) B.Hoyer pass incomplete deep middle to R.Griffin (P.Chung).,10,4,50,NE 41,0,HOU,
+22,3339,3,10:06,(10:06) (Shotgun) Direct snap to C.Shorts III.  C.Shorts III up the middle to NE 34 for no gain (P.Chung).,3,4,50,NE 34,0,HOU,
+23,3488,1,06:59,(6:59) T.Brady scrambles left end to HOU 29 for 13 yards (K.Jackson).,10,4,33,HOU 42,0,NE,
+23,3464,2,07:48,(7:48) (Shotgun) T.Brady pass deep middle to R.Gronkowski to HOU 42 for 35 yards (Q.Demps).,25,4,27,NE 23,0,NE,
+23,3566,0,05:40,Timeout #2 by HOU at 05:40.,0,4,22,,0,,TIMEOUT
+23,3583,3,05:40,(5:40) (Shotgun) T.Brady pass short left to J.White to HOU 35 for 5 yards (J.Joseph).,21,4,27,HOU 40,0,NE,
+23,3509,1,06:14,(6:14) B.Bolden left guard to HOU 30 for -1 yards (B.Cushing).,10,4,32,HOU 29,0,NE,
+23,3381,1,09:15,(9:15) B.Bolden up the middle to NE 39 for 1 yard (J.Crick).,10,4,32,NE 38,0,NE,
+23,3441,2,08:36,"(8:36) (Shotgun) PENALTY on NE-M.Cannon, False Start, 5 yards, enforced at NE 28 - No Play.",20,4,27,NE 28,0,NE,PENALTY
+23,3624,4,04:53,"(4:53) R.Allen punts 25 yards to HOU 10, Center-J.Cardona, fair catch by C.Shorts III.",16,4,27,HOU 35,0,NE,PUNT
+23,3530,0,05:46,Timeout #1 by HOU at 05:46.,0,4,32,,0,,TIMEOUT
+23,3547,2,05:46,(5:46) (Shotgun) T.Brady sacked at HOU 40 for -10 yards (J.Clowney).,11,4,22,HOU 30,0,NE,
+23,3406,2,08:36,"(8:36) (Shotgun) T.Brady pass deep left to D.Amendola to HOU 40 for 21 yards (Q.Demps). PENALTY on NE-T.Jackson, Offensive Holding, 11 yards, enforced at NE 39 - No Play.",9,4,27,NE 39,0,NE,PENALTY
+23,3607,0,04:53,Timeout #1 by NE at 04:53.,0,4,27,,0,,TIMEOUT
+1,77,2,14:28,(14:28) (Shotgun) C.Polk right tackle to HOU 22 for -2 yards (J.Mayo).,6,1,2,HOU 24,0,HOU,
+1,98,3,13:47,(13:47) (Shotgun) B.Hoyer sacked at HOU 14 for -8 yards (D.Easley).,8,1,-6,HOU 22,0,HOU,
+1,117,4,13:16,"(13:16) S.Lechler punts 55 yards to NE 31, Center-J.Weeks. K.Martin to NE 44 for 13 yards (B.Peters; M.Bullough). PENALTY on NE-E.Martin, Illegal Block Above the Waist, 10 yards, enforced at NE 44.",16,1,-6,HOU 14,0,HOU,PUNT
+1,56,1,15:00,(15:00) (Shotgun) C.Polk right tackle to HOU 24 for 4 yards (M.Brown).,10,1,4,HOU 20,0,HOU,
+1,37,0,15:00,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",0,1,0,NE 35,0,NE,KICKOFF
+3,295,3,10:49,(10:49) (Shotgun) Direct snap to C.Shorts III.  C.Shorts III up the middle to HOU 31 for no gain (R.Ninkovich).,3,1,7,HOU 31,0,HOU,
+3,318,4,09:43,"(9:43) S.Lechler punts 42 yards to NE 27, Center-J.Weeks. K.Martin to NE 48 for 21 yards (B.Peters; B.McKinney).",3,1,7,HOU 31,0,HOU,PUNT
+3,246,1,11:23,"(11:23) B.Hoyer pass short left to C.Polk to HOU 29 for 5 yards (J.Collins, L.Ryan).",10,1,7,HOU 24,0,HOU,
+3,274,2,10:49,(10:49) (Shotgun) C.Polk right guard to HOU 31 for 2 yards (J.Collins; J.Mayo).,5,1,7,HOU 29,0,HOU,
+2,195,3,11:44,(11:44) (Shotgun) T.Brady pass incomplete deep left to B.LaFell (J.Joseph).,10,1,0,NE 34,0,NE,
+2,217,4,11:35,"(11:35) R.Allen punts 53 yards to HOU 13, Center-J.Cardona. C.Shorts III to HOU 24 for 11 yards (M.Slater).",10,1,0,NE 34,0,NE,PUNT
+2,153,1,13:01,(13:01) L.Blount left guard to NE 36 for 2 yards (J.Clowney; B.Cushing).,10,1,2,NE 34,0,NE,
+2,174,2,12:25,(12:25) (Shotgun) L.Blount left tackle to NE 34 for -2 yards (J.Crick; V.Wilfork).,8,1,0,NE 36,0,NE,
+5,637,3,04:51,(4:51) (Shotgun) B.Hoyer pass deep right to N.Washington to NE 25 for 49 yards (M.Butler).,18,1,60,HOU 26,0,HOU,
+5,602,3,05:13,"(5:13) (Shotgun) B.Hoyer pass short right to A.Hunt to HOU 47 for 6 yards (L.Johnson). PENALTY on HOU-D.Brown, Unnecessary Roughness, 15 yards, enforced at HOU 41 - No Play.",3,1,60,HOU 41,0,HOU,PENALTY
+5,560,1,06:15,(6:15) (Shotgun) C.Polk right guard to HOU 40 for 6 yards (L.Ryan).,10,1,20,HOU 34,0,HOU,
+5,581,2,05:54,(5:54) (Shotgun) C.Polk up the middle to HOU 41 for 1 yard (A.Hicks).,4,1,21,HOU 40,0,HOU,
+5,713,3,02:47,(2:47) (Shotgun) B.Hoyer pass incomplete short left to C.Shorts III (L.Johnson).,5,1,60,NE 20,0,HOU,
+5,661,1,04:13,"(4:13) (Shotgun) B.Hoyer pass short left to C.Shorts III to NE 26 for -1 yards (P.Chung, J.Sheard).",10,1,54,NE 25,0,HOU,
+5,689,2,03:31,"(3:31) (Shotgun) B.Hoyer pass short middle to J.Strong to NE 20 for 6 yards (P.Chung, C.Jones).",11,1,60,NE 26,0,HOU,
+5,500,0,07:22,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",0,1,20,NE 35,0,NE,KICKOFF
+5,735,4,02:42,"(2:42) N.Novak 37 yard field goal is GOOD, Center-J.Weeks, Holder-S.Lechler.",5,1,60,NE 20,1,HOU,FG
+5,515,1,07:22,(7:22) B.Hoyer pass short left to C.Polk to HOU 29 for 9 yards (J.Collins) [J.Sheard].,10,1,9,HOU 20,0,HOU,
+5,539,2,06:51,(6:51) (Shotgun) C.Polk up the middle to HOU 34 for 5 yards (P.Chung; A.Branch).,1,1,14,HOU 29,0,HOU,
+4,442,3,07:28,"(7:28) (Shotgun) T.Brady pass short left to K.Martin for 2 yards, TOUCHDOWN. PENALTY on HOU-J.Watt, Roughing the Passer, 15 yards, enforced between downs. Penalty on HOU-E.Pleasant, Illegal Use of Hands, declined.",2,1,52,HOU 2,1,NE,TD
+4,343,1,09:30,(9:30) T.Brady pass deep left to R.Gronkowski to HOU 7 for 45 yards (W.Mercilus).,10,1,45,NE 48,0,NE,
+4,388,2,08:15,"(8:15) T.Brady pass short middle to B.LaFell for 6 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on NE, Illegal Formation, 5 yards, enforced at HOU 6 - No Play.",6,1,52,HOU 6,0,NE,PENALTY
+4,367,1,08:50,(8:50) L.Blount up the middle to HOU 6 for 1 yard (V.Wilfork; J.Clowney).,7,1,46,HOU 7,0,NE,
+4,484,0,07:22,"S.Gostkowski extra point is GOOD, Center-J.Cardona, Holder-R.Allen.",0,1,52,HOU 15,1,NE,XP
+4,418,2,08:10,"(8:10) (Shotgun) T.Brady pass short middle to D.Amendola to HOU 2 for 9 yards (Q.Demps, B.Cushing).",11,1,50,HOU 11,0,NE,
+7,1050,1,12:13,(12:13) J.Grimes right tackle pushed ob at NE 43 for 37 yards (D.McCourty).,10,2,37,HOU 20,0,HOU,
+7,1094,2,11:15,"(11:15) (Shotgun) B.Hoyer pass short middle to C.Shorts III to NE 29 for 10 yards (P.Chung, J.Collins).",6,2,51,NE 39,0,HOU,
+7,1141,2,10:17,(10:17) A.Hunt right tackle to NE 27 for 1 yard (J.Mayo).,9,2,53,NE 28,0,HOU,
+7,1162,3,09:37,(9:37) (Shotgun) B.Hoyer pass incomplete deep right to N.Washington.,8,2,53,NE 27,0,HOU,
+7,1184,4,09:30,"(9:30) N.Novak 45 yard field goal is GOOD, Center-J.Weeks, Holder-S.Lechler.",8,2,53,NE 27,1,HOU,FG
+7,1071,1,11:49,(11:49) (Shotgun) Direct snap to J.Grimes.  J.Grimes up the middle to NE 39 for 4 yards (A.Hicks).,10,2,53,NE 43,0,HOU,
+7,1118,1,10:49,(10:49) (Shotgun) Direct snap to J.Grimes.  J.Grimes right end to NE 28 for 1 yard (J.Collins; C.Jones).,10,2,52,NE 29,0,HOU,
+7,1035,0,12:13,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",0,2,0,NE 35,0,NE,KICKOFF
+6,869,0,,END QUARTER 1,0,1,35,,0,,
+6,995,3,12:58,"(12:58) (Shotgun) B.Bolden left end to HOU 25 for 5 yards (J.Clowney, J.Joseph).",8,2,57,HOU 30,0,NE,
+6,845,2,00:33,(:33) T.Brady pass short right to B.LaFell to HOU 47 for 5 yards (J.Joseph; A.Hal).,2,1,35,NE 48,0,NE,
+6,780,1,02:32,"(2:32) L.Blount up the middle to NE 23 for 5 yards (Q.Demps, J.Watt).",10,1,5,NE 18,0,NE,
+6,907,2,14:54,"(14:54) L.Blount up the middle to HOU 40 for 7 yards (B.McKinney, Q.Demps).",10,2,42,HOU 47,0,NE,
+6,885,1,15:00,(15:00) (Shotgun) T.Brady pass incomplete deep left to D.Amendola (K.Jackson).,10,2,35,HOU 47,0,NE,
+6,754,0,02:38,N.Novak kicks 68 yards from HOU 35 to NE -3. K.Martin to NE 18 for 21 yards (B.Peters).,0,1,0,HOU 35,0,HOU,KICKOFF
+6,952,1,13:45,"(13:45) (Shotgun) L.Blount left guard to HOU 30 for 2 yards (B.Cushing, B.McKinney).",10,2,52,HOU 32,0,NE,
+6,928,3,14:18,(14:18) T.Brady pass short left to K.Martin pushed ob at HOU 32 for 8 yards (K.Johnson).,3,2,50,HOU 40,0,NE,
+6,973,2,13:03,(13:03) (Shotgun) T.Brady pass incomplete short middle to B.LaFell.,8,2,52,HOU 30,0,NE,
+6,824,1,01:14,(1:14) L.Blount right guard to NE 48 for 8 yards (J.Joseph; Q.Demps).,10,1,30,NE 40,0,NE,
+6,801,2,02:00,"(2:00) L.Blount left guard to NE 40 for 17 yards (A.Hal, W.Mercilus).",5,1,22,NE 23,0,NE,
+6,1016,4,12:18,"(12:18) S.Gostkowski 43 yard field goal is GOOD, Center-J.Cardona, Holder-R.Allen.",3,2,57,HOU 25,1,NE,FG
+9,1454,1,04:15,"(4:15) (Shotgun) PENALTY on HOU-C.Fiedorowicz, False Start, 1 yard, enforced at HOU 3 - No Play.",10,2,-1,HOU 3,0,HOU,PENALTY
+9,1501,2,03:44,"(3:44) C.Polk right guard to HOU 10 for 3 yards (J.Mayo, P.Chung).",6,2,7,HOU 7,0,HOU,
+9,1477,1,04:15,(4:15) (Shotgun) B.Hoyer pass short left to D.Hopkins ran ob at HOU 7 for 5 yards.,11,2,4,HOU 2,0,HOU,
+9,1522,0,03:02,Timeout #1 by NE at 03:02.,0,2,7,,0,,TIMEOUT
+9,1561,4,02:58,"(2:58) S.Lechler punts 43 yards to NE 47, Center-J.Weeks. K.Martin to HOU 41 for 12 yards (J.Prosch; B.McKinney).",3,2,7,HOU 10,0,HOU,PUNT
+9,1539,3,03:02,(3:02) (Shotgun) B.Hoyer pass incomplete short right to R.Griffin.,3,2,7,HOU 10,0,HOU,
+8,1225,1,09:20,(9:20) T.Brady pass short left to R.Gronkowski pushed ob at NE 25 for 6 yards (W.Mercilus).,10,2,6,NE 19,0,NE,
+8,1387,2,05:40,(5:40) (Shotgun) T.Brady pass short right to D.Amendola to 50 for 7 yards (K.Jackson).,16,2,31,NE 43,0,NE,
+8,1313,3,07:32,(7:32) B.Bolden left end to NE 49 for 11 yards (J.Simon).,4,2,30,NE 38,0,NE,
+8,1270,1,08:14,"(8:14) L.Blount right tackle to NE 38 for 6 yards (B.Cushing, J.Crick).",10,2,19,NE 32,0,NE,
+8,1334,1,06:49,"(6:49) B.Bolden left tackle to HOU 47 for 4 yards (K.Jackson, J.Crick).",10,2,34,NE 49,0,NE,
+8,1203,0,09:26,N.Novak kicks 69 yards from HOU 35 to NE -4. K.Martin to NE 19 for 23 yards (B.Peters).,0,2,0,HOU 35,0,HOU,KICKOFF
+8,1435,4,04:25,"(4:25) R.Allen punts 43 yards to HOU 3, Center-J.Cardona, downed by NE-M.Slater.",5,2,35,HOU 46,0,NE,PUNT
+8,1355,2,06:05,"(6:05) B.Bolden up the middle to HOU 44 for 3 yards (B.Cushing; B.McKinney). PENALTY on NE-T.Jackson, Offensive Holding, 10 yards, enforced at HOU 47 - No Play.",6,2,24,HOU 47,0,NE,PENALTY
+8,1249,2,08:47,(8:47) (Shotgun) L.Blount up the middle to NE 32 for 7 yards (B.McKinney; B.Cushing).,4,2,13,NE 25,0,NE,
+8,1411,3,04:58,(4:58) (Shotgun) T.Brady pass short left to J.White to HOU 46 for 4 yards (K.Jackson).,9,2,35,50,0,NE,
+8,1291,2,07:37,(7:37) T.Brady pass incomplete short left to K.Martin.,4,2,19,NE 38,0,NE,
+11,1852,1,00:14,(:14) B.Hoyer kneels to HOU 19 for -1 yards.,10,2,-1,HOU 20,0,HOU,
+11,1837,0,00:14,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",0,2,0,NE 35,0,NE,KICKOFF
+11,1873,0,,END QUARTER 2,0,2,-1,,0,,
+10,1717,0,00:28,Timeout #2 by NE at 00:28.,0,2,30,,0,,TIMEOUT
+10,1624,2,02:00,(2:00) (Shotgun) T.Brady pass short right to B.LaFell to HOU 35 for 5 yards (K.Jackson).,9,2,6,HOU 40,0,NE,
+10,1780,0,00:19,Timeout #1 by HOU at 00:19.,0,2,40,,0,,TIMEOUT
+10,1797,1,00:19,"(:19) T.Brady pass short left to R.Gronkowski for 1 yard, TOUCHDOWN.",1,2,41,HOU 1,1,NE,TD
+10,1586,1,02:45,(2:45) B.Bolden up the middle to HOU 40 for 1 yard (J.Watt).,10,2,1,HOU 41,0,NE,
+10,1648,3,01:20,(1:20) (Shotgun) T.Brady pass short left to K.Martin pushed ob at HOU 22 for 13 yards (Q.Demps).,4,2,19,HOU 35,0,NE,
+10,1607,0,02:00,Two-Minute Warning,0,2,1,,0,,
+10,1734,2,00:28,(:28) (Shotgun) T.Brady pass incomplete short left to B.LaFell.,9,2,30,HOU 11,0,NE,
+10,1696,1,00:36,"(:36) B.Bolden left end to HOU 11 for 1 yard (K.Jackson, Q.Demps).",10,2,30,HOU 12,0,NE,
+10,1821,0,00:14,"S.Gostkowski extra point is GOOD, Center-J.Cardona, Holder-R.Allen.",0,2,41,HOU 15,1,NE,XP
+10,1756,3,00:24,(:24) (Shotgun) T.Brady pass short left to B.LaFell pushed ob at HOU 1 for 10 yards (J.Joseph).,9,2,40,HOU 11,0,NE,
+10,1672,1,01:12,"(1:12) (Shotgun) T.Brady pass short middle to D.Amendola to HOU 12 for 10 yards (A.Hal, Q.Demps).",10,2,29,HOU 22,0,NE,
+13,2322,2,10:58,(10:58) (Shotgun) B.Hoyer pass incomplete deep right to R.Griffin.,10,3,14,HOU 34,0,HOU,
+13,2344,3,10:52,(10:52) (Shotgun) B.Hoyer pass incomplete short middle to R.Griffin (J.Collins).,10,3,14,HOU 34,0,HOU,
+13,2227,0,11:48,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",0,3,0,NE 35,0,NE,KICKOFF
+13,2300,1,11:06,(11:06) B.Hoyer pass incomplete deep left to D.Hopkins.,10,3,14,HOU 34,0,HOU,
+13,2366,4,10:46,"(10:46) S.Lechler punts 44 yards to NE 22, Center-J.Weeks. K.Martin MUFFS catch, RECOVERED by HOU-J.Simon at NE 21. HOU-A.Bouye was injured during the play. His return is Probable.",10,3,14,HOU 34,0,HOU,FUMBLE
+13,2246,1,11:48,"(11:48) (Shotgun) C.Polk up the middle to HOU 29 for 9 yards (J.Mayo, L.Ryan).",10,3,9,HOU 20,0,HOU,
+13,2267,2,11:16,"(11:16) (Shotgun) B.Hoyer pass incomplete deep right to N.Washington (M.Butler). PENALTY on NE-L.Ryan, Defensive Holding, 5 yards, enforced at HOU 29 - No Play.",1,3,14,HOU 29,0,HOU,PENALTY
+12,1935,1,14:16,"(14:16) B.Bolden right tackle to HOU 47 for 5 yards (J.Crick, B.McKinney).",10,3,32,NE 48,0,NE,
+12,1980,1,12:52,"(12:52) T.Brady pass deep right to D.Amendola to HOU 22 for 16 yards (A.Hal). Houston challenged the pass completion ruling, and the play was REVERSED. T.Brady pass incomplete deep right to D.Amendola.",10,3,68,HOU 38,0,NE,
+12,1889,0,15:00,"N.Novak kicks 67 yards from HOU 35 to NE -2. K.Martin to NE 21 for 23 yards (A.Dent, A.Bouye).",0,3,0,HOU 35,0,HOU,KICKOFF
+12,1956,2,13:27,(13:27) (Shotgun) T.Brady pass short left to B.LaFell to HOU 38 for 9 yards (J.Joseph).,5,3,41,HOU 47,0,NE,
+12,2004,2,12:48,(12:48) (Shotgun) T.Brady pass short left to J.White to HOU 36 for 2 yards (B.McKinney).,10,3,68,HOU 38,0,NE,
+12,2130,4,11:52,"(11:52) S.Gostkowski 49 yard field goal is GOOD, Center-J.Cardona, Holder-R.Allen.",3,3,48,HOU 31,1,NE,FG
+12,1911,1,14:54,(14:54) (Shotgun) T.Brady pass short left to J.White to NE 48 for 27 yards (K.Jackson).,10,3,27,NE 21,0,NE,
+12,2101,3,11:57,"(11:57) (Shotgun) T.Brady pass short right to J.White pushed ob at HOU 11 for 20 yards (A.Hal). Houston challenged the pass completion ruling, and the play was REVERSED. (Shotgun) T.Brady pass incomplete short right to J.White.",3,3,48,HOU 31,0,NE,
+12,2066,3,12:48,"(12:48) (Shotgun) PENALTY on HOU-J.Watt, Neutral Zone Infraction, 5 yards, enforced at HOU 36 - No Play.",8,3,48,HOU 36,0,NE,PENALTY
+15,2490,1,08:56,"(8:56) B.Bolden right tackle to NE 15 for -1 yards (B.Cushing, J.Clowney).",10,3,-1,NE 16,0,NE,
+15,2557,4,07:34,"(7:34) R.Allen punts 38 yards to HOU 39, Center-J.Cardona, fair catch by C.Shorts III.",3,3,7,NE 23,0,NE,PUNT
+15,2511,2,08:17,(8:17) (Shotgun) T.Brady pass short middle to D.Amendola to NE 23 for 8 yards (B.Cushing).,11,3,7,NE 15,0,NE,
+15,2535,3,07:39,(7:39) (Shotgun) T.Brady pass incomplete short right to J.White.,3,3,7,NE 23,0,NE,
+14,2468,4,09:01,(9:01) (Shotgun) B.Hoyer pass incomplete short middle to R.Griffin (L.Johnson) [D.Easley].,4,3,6,NE 15,0,HOU,
+14,2423,2,09:43,(9:43) (Shotgun) Direct snap to J.Grimes.  J.Grimes right end to NE 15 for -1 yards (A.Branch; R.Ninkovich).,3,3,6,NE 14,0,HOU,
+14,2395,1,10:32,(10:32) B.Hoyer pass short middle to D.Hopkins to NE 14 for 7 yards (J.Collins).,10,3,6,NE 21,0,HOU,
+14,2446,3,09:09,(9:09) (Shotgun) B.Hoyer pass incomplete short left to N.Washington (M.Butler).,4,3,6,NE 15,0,HOU,
+17,2802,1,04:46,(4:46) (Shotgun) B.Bolden up the middle to NE 10 for -1 yards (J.Watt).,10,3,-1,NE 11,0,NE,
+17,2847,3,03:22,(3:22) (Shotgun) T.Brady sacked at NE 8 for -10 yards (J.Clowney).,3,3,-3,NE 18,0,NE,
+17,2866,4,02:47,"(2:47) R.Allen punts 51 yards to HOU 41, Center-J.Cardona. C.Shorts III ran ob at HOU 39 for -2 yards (B.King).",13,3,-3,NE 8,0,NE,PUNT
+17,2823,2,04:05,(4:05) (Shotgun) T.Brady pass short right to D.Amendola to NE 18 for 8 yards (K.Jackson).,11,3,7,NE 10,0,NE,
+16,2597,2,06:57,(6:57) (Shotgun) C.Polk up the middle to HOU 46 for 1 yard (J.Sheard).,4,3,7,HOU 45,0,HOU,
+16,2576,1,07:25,"(7:25) C.Polk left guard to HOU 45 for 6 yards (A.Hicks, P.Chung).",10,3,6,HOU 39,0,HOU,
+16,2642,1,05:46,"(5:46) J.Grimes up the middle to NE 32 for 2 yards (M.Brown, A.Hicks).",10,3,29,NE 34,0,HOU,
+16,2775,4,04:55,"(4:55) S.Lechler punts 44 yards to NE 11, Center-J.Weeks, fair catch by D.Amendola.",31,3,6,HOU 45,0,HOU,PUNT
+16,2618,3,06:21,(6:21) (Shotgun) B.Hoyer pass short middle to R.Griffin to NE 34 for 20 yards (P.Chung). NE-P.Chung was injured during the play. His return is Probable.,3,3,27,HOU 46,0,HOU,
+16,2667,2,05:13,"(5:13) B.Hoyer sacked at NE 42 for -10 yards. FUMBLES [A.Hicks], RECOVERED by NE-M.Brown at NE 37. M.Brown to NE 37 for no gain (J.Grimes). The Replay Official reviewed the fumble ruling, and the play was REVERSED. B.Hoyer pass incomplete short left to N.Washington [A.Hicks].",8,3,6,NE 32,0,HOU,
+16,2746,3,05:10,"(5:10) (Shotgun) B.Hoyer sacked at NE 42 for -10 yards (J.Sheard). FUMBLES (J.Sheard) [J.Sheard], recovered by HOU-D.Newton at HOU 45. D.Newton to HOU 45 for no gain (J.Collins). NE-D.Easley was injured during the play. His return is Questionable.",8,3,6,NE 32,0,HOU,FUMBLE
+19,3019,0,,END QUARTER 3,0,3,15,,0,,
+19,3035,2,15:00,(15:00) (Shotgun) B.Bolden left tackle to 50 for no gain (J.Clowney).,7,4,15,50,0,NE,
+19,2995,1,00:26,(:26) T.Brady pass short left to B.LaFell to 50 for 3 yards (K.Johnson).,10,3,15,NE 47,0,NE,
+19,3075,4,13:49,"(13:49) R.Allen punts 54 yards to HOU 5, Center-J.Cardona. C.Shorts III pushed ob at HOU 18 for 13 yards (N.Ebner).",16,4,6,NE 41,0,NE,PUNT
+19,3056,3,14:24,(14:24) (Shotgun) T.Brady sacked at NE 41 for -9 yards (W.Mercilus).,7,4,6,50,0,NE,
+19,2974,1,00:59,"(:59) B.Bolden left guard to NE 47 for 12 yards (K.Jackson, A.Hal).",10,3,12,NE 35,0,NE,
+18,2936,3,01:28,(1:28) (Shotgun) B.Hoyer sacked at HOU 35 for -8 yards (R.Ninkovich).,6,3,-4,HOU 43,0,HOU,
+18,2955,4,01:08,"(1:08) S.Lechler punts 30 yards to NE 35, Center-J.Weeks, fair catch by D.Amendola.",14,3,-4,HOU 35,0,HOU,PUNT
+18,2912,2,02:05,(2:05) (Shotgun) B.Hoyer pass short right to J.Grimes to HOU 43 for 5 yards (J.Mayo).,11,3,4,HOU 38,0,HOU,
+18,2891,1,02:37,(2:37) C.Polk right guard to HOU 38 for -1 yards (J.Sheard).,10,3,-1,HOU 39,0,HOU,

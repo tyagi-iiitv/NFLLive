@@ -1,166 +1,166 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,2106,1,00:09,,10,2,-1,DAL 27,0,DAL,
-9,2084,0,00:10,,0,2,0,CHI 35,0,CHI,KICKOFF
-18,4021,0,,,0,4,-1,,0,,
-18,3984,0,00:06,,0,4,0,DAL 35,0,DAL,KICKOFF
-18,4000,1,00:06,,10,4,-1,CHI 41,0,CHI,
-6,1654,2,01:50,,15,2,62,DAL 15,0,CHI,
-6,1443,1,05:15,,10,2,7,CHI 23,0,CHI,
-6,1421,0,05:22,,0,2,0,DAL 35,0,DAL,KICKOFF
-6,1467,2,04:34,,3,2,8,CHI 30,0,CHI,
-6,1676,3,01:45,,15,2,68,DAL 15,0,CHI,
-6,1593,1,02:00,,5,2,62,DAL 5,0,CHI,PENALTY
-6,1516,1,03:10,,10,2,59,CHI 41,0,CHI,PENALTY
-6,1700,4,01:38,,9,2,68,DAL 9,1,CHI,FG
-6,1488,3,03:53,,2,2,18,CHI 31,0,CHI,
-6,1632,1,01:50,,15,2,62,DAL 15,0,CHI,
-6,1551,1,02:40,,10,2,72,DAL 18,0,CHI,
-14,3105,1,14:31,,10,4,58,DAL 17,1,CHI,TD
-14,3069,2,15:00,,6,4,41,CHI 46,0,CHI,PENALTY
-14,3125,0,14:24,,0,4,58,DAL 2,1,CHI,XP
-14,3032,1,00:22,,10,3,4,CHI 42,0,CHI,
-7,1801,1,01:13,,10,2,10,DAL 39,0,DAL,
-7,1845,3,01:05,,10,2,10,DAL 39,0,DAL,
-7,1823,2,01:10,,10,2,10,DAL 39,0,DAL,
-7,1784,0,01:13,,0,2,10,,0,,TIMEOUT
-7,1735,0,01:33,,0,2,0,CHI 35,0,CHI,KICKOFF
-7,1867,4,00:59,,10,2,10,DAL 39,0,DAL,PUNT
-7,1757,1,01:27,,10,2,10,DAL 29,0,DAL,
-8,1997,1,00:25,,10,2,35,DAL 44,0,CHI,
-8,1893,1,00:47,,10,2,0,CHI 40,0,CHI,
-8,2021,0,00:17,,0,2,35,,0,,TIMEOUT
-8,1939,0,00:31,,0,2,9,,0,,TIMEOUT
-8,1980,0,00:25,,0,2,16,,0,,TIMEOUT
-8,2067,0,00:10,,0,2,60,DAL 2,1,CHI,XP
-8,1915,2,00:41,,10,2,9,CHI 40,0,CHI,
-8,2038,1,00:17,,10,2,60,DAL 25,1,CHI,TD
-8,1956,3,00:31,,1,2,16,CHI 49,0,CHI,
-10,2165,1,14:54,,10,3,18,CHI 26,0,CHI,PENALTY
-10,2317,3,12:12,,8,3,58,DAL 16,0,CHI,
-10,2143,0,15:00,,0,3,0,DAL 35,0,DAL,KICKOFF
-10,2275,2,12:48,,10,3,58,DAL 18,0,CHI,
-10,2228,2,13:47,,6,3,56,CHI 48,0,CHI,
-10,2200,1,14:33,,10,3,22,CHI 44,0,CHI,
-10,2340,4,12:07,,8,3,58,DAL 16,1,CHI,FG
-10,2253,1,12:54,,10,3,56,DAL 18,0,CHI,
-12,2629,2,08:45,,10,3,21,CHI 30,0,CHI,
-12,2842,0,02:20,,0,3,90,DAL 2,1,CHI,2PS
-12,2779,2,03:59,,5,3,83,DAL 19,0,CHI,
-12,2821,2,02:25,,4,3,90,DAL 4,1,CHI,TD
-12,2522,1,09:52,,10,3,15,CHI 25,0,CHI,
-12,2716,1,05:53,,10,3,61,DAL 38,0,CHI,
-12,2544,2,09:48,,10,3,15,CHI 25,0,CHI,
-12,2695,2,06:30,,3,3,52,DAL 48,0,CHI,
-12,2758,1,04:36,,10,3,71,DAL 24,0,CHI,
-12,2650,3,07:59,,9,3,35,CHI 31,0,CHI,
-12,2800,1,03:13,,7,3,86,DAL 7,0,CHI,
-12,2674,1,07:16,,10,3,42,CHI 45,0,CHI,
-12,2498,1,10:30,,10,3,15,CHI 10,0,CHI,
-12,2565,3,09:03,,10,3,20,CHI 25,0,CHI,PENALTY
-12,2737,2,05:16,,1,3,66,DAL 29,0,CHI,
-12,2607,1,08:52,,10,3,20,CHI 30,0,CHI,
-16,3463,2,08:37,,6,4,32,DAL 31,0,CHI,
-16,3569,2,04:46,,8,4,49,DAL 10,0,CHI,
-16,3484,1,07:49,,10,4,25,DAL 23,0,CHI,
-16,3628,4,03:51,,4,4,49,DAL 6,1,CHI,FG
-16,3442,1,09:23,,10,4,24,DAL 35,0,CHI,
-16,3503,2,07:10,,17,4,30,DAL 30,0,CHI,
-16,3611,0,03:51,,0,4,49,,0,,TIMEOUT
-16,3377,0,10:52,,0,4,0,DAL 35,0,DAL,KICKOFF
-16,3548,1,05:34,,10,4,45,DAL 12,0,CHI,
-16,3421,2,10:05,,8,4,20,CHI 47,0,CHI,
-16,3524,3,06:24,,12,4,43,DAL 25,0,CHI,
-16,3400,1,10:51,,10,4,2,CHI 45,0,CHI,
-16,3590,3,03:59,,4,4,49,DAL 6,0,CHI,
-11,2439,3,10:43,,4,3,6,CHI 41,0,DAL,
-11,2461,4,10:37,,4,3,6,CHI 41,0,DAL,PUNT
-11,2375,0,12:02,,0,3,0,CHI 35,0,CHI,KICKOFF
-11,2418,2,11:16,,5,3,6,CHI 42,0,DAL,
-11,2397,1,11:54,,10,3,5,CHI 47,0,DAL,
-3,818,2,00:06,,10,1,17,DAL 30,0,DAL,
-3,859,3,15:00,,7,2,8,DAL 33,0,DAL,
-3,797,1,00:49,,10,1,14,DAL 30,0,DAL,
-3,878,4,14:41,,16,2,8,DAL 24,0,DAL,PUNT
-3,737,0,01:35,,0,1,0,CHI 35,0,CHI,KICKOFF
-3,776,1,01:30,,10,1,14,DAL 16,0,DAL,
-17,3899,4,01:09,,1,4,56,CHI 22,0,DAL,
-17,3856,2,01:50,,10,4,53,CHI 31,0,DAL,
-17,3685,0,03:41,,0,4,0,,0,,Timeout
-17,3810,1,02:00,,10,4,44,CHI 46,0,DAL,
-17,3877,3,01:14,,1,4,53,CHI 22,0,DAL,
-17,3834,1,01:54,,10,4,44,CHI 31,0,DAL,
-17,3748,3,02:26,,7,4,10,DAL 28,0,DAL,
-17,3727,2,03:04,,7,4,3,DAL 28,0,DAL,
-17,3772,1,02:21,,10,4,29,DAL 35,0,DAL,
-17,3702,1,03:41,,10,4,3,DAL 25,0,DAL,
-17,3920,1,00:36,,10,4,74,CHI 19,0,DAL,
-17,3793,0,02:00,,0,4,29,,0,,
-17,3944,1,00:11,,1,4,75,CHI 1,1,DAL,TD
-17,3967,0,00:06,,0,4,75,CHI 2,1,DAL,XP
-17,3663,0,03:47,,0,4,29,CHI 35,0,CHI,KICKOFF
-4,990,3,11:44,,14,2,42,DAL 38,0,CHI,
-4,1047,2,10:37,,7,2,55,DAL 20,0,CHI,
-4,1025,1,11:20,,10,2,45,DAL 23,0,CHI,
-4,1073,1,09:55,,10,2,58,DAL 10,0,CHI,
-4,945,1,13:12,,10,2,24,DAL 34,0,CHI,
-4,1116,3,09:05,,7,2,65,DAL 7,1,CHI,TD
-4,897,1,14:32,,10,2,11,CHI 35,0,CHI,
-4,966,2,12:31,,17,2,27,DAL 41,0,CHI,
-4,921,1,13:48,,10,2,31,CHI 46,0,CHI,
-4,1134,0,08:58,,0,2,65,DAL 2,1,CHI,XP
-4,1094,2,09:10,,7,2,58,DAL 7,0,CHI,
-2,406,1,08:56,,10,1,11,CHI 22,0,CHI,
-2,663,2,02:22,,5,1,74,DAL 5,0,CHI,
-2,548,1,05:22,,10,1,52,DAL 38,0,CHI,
-2,705,0,01:35,,0,1,78,DAL 2,1,CHI,XP
-2,457,2,08:12,,10,1,11,CHI 33,0,CHI,
-2,620,2,03:46,,1,1,74,DAL 17,0,CHI,
-2,573,1,04:47,,10,1,47,DAL 26,0,CHI,PENALTY
-2,367,0,09:02,,0,1,0,DAL 35,0,DAL,KICKOFF
-2,503,1,06:48,,10,1,33,CHI 48,0,CHI,
-2,642,1,03:00,,4,1,73,DAL 4,0,CHI,
-2,596,1,04:27,,15,1,61,DAL 31,0,CHI,
-2,684,3,01:40,,4,1,78,DAL 4,1,CHI,TD
-2,527,2,06:05,,3,1,40,DAL 45,0,CHI,
-2,431,1,08:16,,10,1,11,CHI 33,0,CHI,
-2,479,3,07:30,,10,1,26,CHI 33,0,CHI,
-1,100,2,13:46,,5,1,31,DAL 49,0,DAL,
-1,58,1,14:55,,10,1,19,DAL 25,0,DAL,
-1,310,2,09:06,,2,1,75,CHI 2,1,DAL,TD
-1,257,1,09:45,,10,1,73,CHI 14,0,DAL,
-1,121,1,13:07,,10,1,37,CHI 44,0,DAL,
-1,233,3,10:22,,3,1,61,CHI 25,0,DAL,
-1,283,1,09:11,,2,1,73,CHI 2,0,DAL,
-1,212,2,11:07,,6,1,50,CHI 28,0,DAL,
-1,79,1,14:09,,10,1,24,DAL 44,0,DAL,
-1,142,2,12:28,,4,1,37,CHI 38,0,DAL,
-1,164,3,12:19,,4,1,43,CHI 38,0,DAL,
-1,188,1,12:19,,10,1,47,CHI 32,0,DAL,
-1,36,0,15:00,,0,1,0,CHI 35,0,CHI,KICKOFF
-1,335,0,09:02,,0,1,75,CHI 2,1,DAL,XP
-5,1229,1,08:18,,10,2,36,CHI 43,0,DAL,
-5,1344,0,05:30,,0,2,58,,0,,TIMEOUT
-5,1166,0,08:58,,0,2,0,CHI 35,0,CHI,KICKOFF
-5,1250,1,07:43,,10,2,42,CHI 32,0,DAL,
-5,1205,1,08:51,,10,2,25,DAL 32,0,DAL,
-5,1318,2,06:02,,8,2,58,CHI 16,0,DAL,
-5,1297,1,06:41,,10,2,52,CHI 18,0,DAL,
-5,1365,3,05:30,,2,2,68,CHI 10,1,DAL,TD
-5,1386,0,05:22,,0,2,68,CHI 2,1,DAL,XP
-5,1271,2,07:15,,4,2,50,CHI 26,0,DAL,
-13,2879,0,02:20,,0,3,0,CHI 35,0,CHI,KICKOFF
-13,2954,2,01:17,,15,3,19,CHI 47,0,DAL,
-13,2911,1,02:20,,10,3,18,DAL 40,0,DAL,
-13,2935,1,01:53,,10,3,13,CHI 42,0,DAL,
-13,2985,3,01:13,,15,3,19,CHI 47,0,DAL,
-13,3009,4,00:25,,9,3,19,CHI 41,0,DAL,
-15,3304,2,11:05,,8,4,59,CHI 9,0,DAL,
-15,3346,0,10:52,,0,4,68,CHI 2,1,DAL,XP
-15,3283,1,11:46,,10,4,59,CHI 11,0,DAL,
-15,3156,0,14:24,,0,4,0,CHI 35,0,CHI,KICKOFF
-15,3220,1,13:21,,10,4,44,CHI 36,0,DAL,
-15,3178,1,14:19,,10,4,11,DAL 32,0,DAL,
-15,3199,1,13:49,,10,4,68,DAL 43,0,DAL,
-15,3262,2,12:19,,5,4,57,CHI 19,0,DAL,
-15,3326,3,11:00,,8,4,68,CHI 9,1,DAL,TD
-15,3241,1,12:48,,10,4,49,CHI 24,0,DAL,
+11,2375,0,12:02,R.Gould kicks 55 yards from CHI 35 to DAL 10. D.Harris to CHI 47 for 43 yards (M.Ford).,0,3,0,CHI 35,0,CHI,KICKOFF
+11,2439,3,10:43,(10:43) (Shotgun) T.Romo pass incomplete deep left to D.Bryant.,4,3,6,CHI 41,0,DAL,
+11,2418,2,11:16,(11:16) D.Murray left end pushed ob at CHI 41 for 1 yard (J.Bostic).,5,3,6,CHI 42,0,DAL,
+11,2461,4,10:37,"(10:37) (Punt formation) C.Jones punts 31 yards to CHI 10, Center-L.Ladouceur, fair catch by D.Hester.",4,3,6,CHI 41,0,DAL,PUNT
+11,2397,1,11:54,(11:54) J.Randle left end to CHI 42 for 5 yards (C.Wootton).,10,3,5,CHI 47,0,DAL,
+10,2200,1,14:33,(14:33) #62 E. Britton reports eligible J.McCown pass short right to M.Forte to CHI 48 for 4 yards (B.Carter).,10,3,22,CHI 44,0,CHI,
+10,2275,2,12:48,(12:48) M.Bush left end to DAL 16 for 2 yards (B.Carr). DAL-S.Lee was injured during the play. His return is Questionable.,10,3,58,DAL 18,0,CHI,
+10,2340,4,12:07,"(12:07) (Field Goal formation) R.Gould 34 yard field goal is GOOD, Center-P.Mannelly, Holder-A.Podlesh.",8,3,58,DAL 16,1,CHI,FG
+10,2228,2,13:47,(13:47) J.McCown pass short right to M.Forte to DAL 18 for 34 yards (K.Wilber).,6,3,56,CHI 48,0,CHI,
+10,2317,3,12:12,(12:12) (Shotgun) J.McCown pass incomplete deep left to B.Marshall.,8,3,58,DAL 16,0,CHI,
+10,2143,0,15:00,D.Bailey kicks 49 yards from DAL 35 to CHI 16. M.Ford to CHI 26 for 10 yards (C.Lawrence).,0,3,0,DAL 35,0,DAL,KICKOFF
+10,2165,1,14:54,"(14:54) (Shotgun) J.McCown pass short right to M.Forte pushed ob at CHI 29 for 3 yards (J.Heath) [G.Selvie]. PENALTY on DAL-G.Selvie, Roughing the Passer, 15 yards, enforced at CHI 29.",10,3,18,CHI 26,0,CHI,PENALTY
+10,2253,1,12:54,(12:54) (Shotgun) J.McCown pass incomplete deep left to B.Marshall (O.Scandrick).,10,3,56,DAL 18,0,CHI,
+13,2911,1,02:20,(2:20) (Shotgun) T.Romo pass deep right to T.Williams ran ob at CHI 42 for 18 yards.,10,3,18,DAL 40,0,DAL,
+13,2879,0,02:20,"R.Gould kicks 42 yards from CHI 35 to DAL 23, out of bounds.",0,3,0,CHI 35,0,CHI,KICKOFF
+13,2935,1,01:53,(1:53) (Shotgun) T.Romo sacked at CHI 47 for -5 yards (J.Ratliff).,10,3,13,CHI 42,0,DAL,
+13,2985,3,01:13,(1:13) (Shotgun) T.Romo pass short right to J.Hanna to CHI 41 for 6 yards (M.Wright).,15,3,19,CHI 47,0,DAL,
+13,2954,2,01:17,(1:17) T.Romo pass incomplete to D.Murray.,15,3,19,CHI 47,0,DAL,
+13,3009,4,00:25,(:25) (Shotgun) T.Romo pass incomplete short right to D.Murray.,9,3,19,CHI 41,0,DAL,
+12,2650,3,07:59,(7:59) (Shotgun) J.McCown pass short middle to E.Bennett to CHI 45 for 14 yards (S.Moore).,9,3,35,CHI 31,0,CHI,
+12,2498,1,10:30,(10:30) J.McCown pass short right to M.Bennett to CHI 25 for 15 yards (K.Wilber).,10,3,15,CHI 10,0,CHI,
+12,2607,1,08:52,(8:52) (Shotgun) J.McCown pass incomplete deep left to A.Jeffery (B.Carr) [C.Irvin].,10,3,20,CHI 30,0,CHI,
+12,2716,1,05:53,(5:53) M.Bush left tackle to DAL 29 for 9 yards (E.Sims).,10,3,61,DAL 38,0,CHI,
+12,2544,2,09:48,(9:48) M.Forte right end to CHI 25 for no gain (K.Wilber).,10,3,15,CHI 25,0,CHI,
+12,2842,0,02:20,(Pass formation) TWO-POINT CONVERSION ATTEMPT. J.McCown pass to B.Marshall is complete. ATTEMPT SUCCEEDS.,0,3,90,DAL 2,1,CHI,2PS
+12,2629,2,08:45,(8:45) M.Forte right end to CHI 31 for 1 yard (G.Selvie).,10,3,21,CHI 30,0,CHI,
+12,2565,3,09:03,"(9:03) (Shotgun) J.McCown pass short left intended for B.Marshall INTERCEPTED by S.Moore at CHI 36. S.Moore pushed ob at CHI 18 for 18 yards (M.Slauson). PENALTY on DAL-B.Carr, Defensive Holding, 5 yards, enforced at CHI 25 - No Play.",10,3,20,CHI 25,0,CHI,PENALTY
+12,2821,2,02:25,"(2:25) (Shotgun) J.McCown pass short right to M.Forte for 4 yards, TOUCHDOWN.",4,3,90,DAL 4,1,CHI,TD
+12,2737,2,05:16,(5:16) M.Bush left guard to DAL 24 for 5 yards (G.Selvie).,1,3,66,DAL 29,0,CHI,
+12,2674,1,07:16,(7:16) M.Forte right end to DAL 48 for 7 yards (B.Carter).,10,3,42,CHI 45,0,CHI,
+12,2779,2,03:59,(3:59) M.Forte left guard to DAL 7 for 12 yards (J.Wilcox).,5,3,83,DAL 19,0,CHI,
+12,2522,1,09:52,(9:52) (Shotgun) J.McCown pass incomplete deep right to A.Jeffery (B.Carter).,10,3,15,CHI 25,0,CHI,
+12,2695,2,06:30,(6:30) M.Forte right tackle to DAL 38 for 10 yards (B.Church).,3,3,52,DAL 48,0,CHI,
+12,2800,1,03:13,(3:13) M.Forte left guard to DAL 4 for 3 yards (K.Wilber).,7,3,86,DAL 7,0,CHI,
+12,2758,1,04:36,(4:36) M.Forte right guard to DAL 19 for 5 yards (G.Selvie).,10,3,71,DAL 24,0,CHI,
+15,3241,1,12:48,(12:48) J.Randle right tackle to CHI 19 for 5 yards (C.Wootton).,10,4,49,CHI 24,0,DAL,
+15,3346,0,10:52,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,4,68,CHI 2,1,DAL,XP
+15,3220,1,13:21,(13:21) D.Murray right tackle to CHI 24 for 12 yards (C.Conte).,10,4,44,CHI 36,0,DAL,
+15,3178,1,14:19,(14:19) D.Murray right end to DAL 43 for 11 yards (Z.Bowman).,10,4,11,DAL 32,0,DAL,
+15,3262,2,12:19,(12:19) J.Randle left tackle to CHI 11 for 8 yards (C.Conte).,5,4,57,CHI 19,0,DAL,
+15,3156,0,14:24,R.Gould kicks 40 yards from CHI 35 to DAL 25. J.Randle to DAL 32 for 7 yards (B.Costanzo).,0,4,0,CHI 35,0,CHI,KICKOFF
+15,3326,3,11:00,"(11:00) (Shotgun) T.Romo pass to C.Beasley for 9 yards, TOUCHDOWN.",8,4,68,CHI 9,1,DAL,TD
+15,3304,2,11:05,(11:05) (Shotgun) T.Romo pass incomplete short left to D.Bryant.,8,4,59,CHI 9,0,DAL,
+15,3283,1,11:46,(11:46) D.Murray left guard to CHI 9 for 2 yards (C.Conte).,10,4,59,CHI 11,0,DAL,
+15,3199,1,13:49,(13:49) D.Murray right guard to CHI 36 for 21 yards (M.Wright).,10,4,68,DAL 43,0,DAL,
+14,3105,1,14:31,"(14:31) J.McCown pass short right to M.Bush for 17 yards, TOUCHDOWN.",10,4,58,DAL 17,1,CHI,TD
+14,3069,2,15:00,"(15:00) (Shotgun) J.McCown pass deep middle to B.Marshall to DAL 32 for 22 yards (O.Scandrick). PENALTY on DAL-O.Scandrick, Unnecessary Roughness, 15 yards, enforced at DAL 32.",6,4,41,CHI 46,0,CHI,PENALTY
+14,3032,1,00:22,(:22) M.Bush left guard to CHI 46 for 4 yards (G.Selvie).,10,3,4,CHI 42,0,CHI,
+14,3125,0,14:24,"R.Gould extra point is GOOD, Center-P.Mannelly, Holder-A.Podlesh.",0,4,58,DAL 2,1,CHI,XP
+17,3834,1,01:54,(1:54) (Shotgun) K.Orton pass incomplete short right to C.Beasley.,10,4,44,CHI 31,0,DAL,
+17,3772,1,02:21,(2:21) J.Randle left end to CHI 46 for 19 yards (C.Conte).,10,4,29,DAL 35,0,DAL,
+17,3810,1,02:00,(2:00) (Shotgun) K.Orton pass short left to M.Austin pushed ob at CHI 31 for 15 yards (Z.Bowman).,10,4,44,CHI 46,0,DAL,
+17,3663,0,03:47,R.Gould kicks 54 yards from CHI 35 to DAL 11. T.Williams to DAL 25 for 14 yards (A.Walters).,0,4,29,CHI 35,0,CHI,KICKOFF
+17,3748,3,02:26,(2:26) (Shotgun) K.Orton pass short left to G.Escobar pushed ob at DAL 35 for 7 yards (Ja.Anderson).,7,4,10,DAL 28,0,DAL,
+17,3944,1,00:11,"(:11) J.Randle left guard for 1 yard, TOUCHDOWN.",1,4,75,CHI 1,1,DAL,TD
+17,3920,1,00:36,(:36) K.Orton pass deep left to T.Williams to CHI 1 for 18 yards (Z.Bowman).,10,4,74,CHI 19,0,DAL,
+17,3685,0,03:41,Timeout at 03:41.,0,4,0,,0,,Timeout
+17,3877,3,01:14,(1:14) (Shotgun) K.Orton pass incomplete deep left to M.Austin.,1,4,53,CHI 22,0,DAL,
+17,3856,2,01:50,(1:50) (Shotgun) J.Randle left guard to CHI 22 for 9 yards (I.Frey).,10,4,53,CHI 31,0,DAL,
+17,3967,0,00:06,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,4,75,CHI 2,1,DAL,XP
+17,3899,4,01:09,(1:09) J.Randle left guard to CHI 19 for 3 yards (D.Bass).,1,4,56,CHI 22,0,DAL,
+17,3793,0,02:00,Two-Minute Warning,0,4,29,,0,,
+17,3702,1,03:41,(3:41) #18 K.Orton in at QB. J.Randle left end to DAL 28 for 3 yards (Ja.Anderson).,10,4,3,DAL 25,0,DAL,
+17,3727,2,03:04,(3:04) (Shotgun) J.Randle right guard to DAL 28 for no gain (J.Bostic).,7,4,3,DAL 28,0,DAL,
+16,3611,0,03:51,Timeout #1 by DAL at 03:51.,0,4,49,,0,,TIMEOUT
+16,3569,2,04:46,(4:46) M.Forte left guard to DAL 6 for 4 yards (D.Nevis).,8,4,49,DAL 10,0,CHI,
+16,3463,2,08:37,(8:37) M.Bush right guard to DAL 23 for 8 yards (K.Wilber).,6,4,32,DAL 31,0,CHI,
+16,3628,4,03:51,"(3:51) (Field Goal formation) R.Gould 23 yard field goal is GOOD, Center-P.Mannelly, Holder-A.Podlesh.",4,4,49,DAL 6,1,CHI,FG
+16,3377,0,10:52,D.Bailey kicks onside 20 yards from DAL 35 to CHI 45. B.Marshall (didn't try to advance) to CHI 45 for no gain.,0,4,0,DAL 35,0,DAL,KICKOFF
+16,3421,2,10:05,(10:05) M.Forte right end to DAL 35 for 18 yards (K.Wilber; J.Heath).,8,4,20,CHI 47,0,CHI,
+16,3503,2,07:10,(7:10) M.Bush right tackle to DAL 25 for 5 yards (K.Wilber).,17,4,30,DAL 30,0,CHI,
+16,3548,1,05:34,(5:34) M.Forte right tackle to DAL 10 for 2 yards (K.Wilber).,10,4,45,DAL 12,0,CHI,
+16,3484,1,07:49,(7:49) J.McCown sacked at DAL 30 for -7 yards (D.Ware).,10,4,25,DAL 23,0,CHI,
+16,3442,1,09:23,(9:23) M.Bush right end to DAL 31 for 4 yards (D.Nevis).,10,4,24,DAL 35,0,CHI,
+16,3400,1,10:51,(10:51) M.Forte left end to CHI 47 for 2 yards (K.Wilber).,10,4,2,CHI 45,0,CHI,
+16,3524,3,06:24,(6:24) (Shotgun) J.McCown pass short middle to M.Forte to DAL 12 for 13 yards (O.Scandrick).,12,4,43,DAL 25,0,CHI,
+16,3590,3,03:59,(3:59) M.Forte left guard to DAL 6 for no gain (D.Ware).,4,4,49,DAL 6,0,CHI,
+18,3984,0,00:06,"D.Bailey kicks onside 24 yards from DAL 35 to CHI 41, fair catch by B.Marshall.",0,4,0,DAL 35,0,DAL,KICKOFF
+18,4000,1,00:06,(:06) J.McCown kneels to CHI 40 for -1 yards.,10,4,-1,CHI 41,0,CHI,
+18,4021,0,,END GAME,0,4,-1,,0,,
+1,283,1,09:11,(9:11) #78 J. Parnell reports eligible T.Romo pass incomplete short middle to J.Witten.,2,1,73,CHI 2,0,DAL,
+1,142,2,12:28,(12:28) T.Romo pass incomplete short right to M.Austin.,4,1,37,CHI 38,0,DAL,
+1,58,1,14:55,(14:55) D.Murray right tackle to DAL 44 for 19 yards (Z.Bowman).,10,1,19,DAL 25,0,DAL,
+1,335,0,09:02,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,1,75,CHI 2,1,DAL,XP
+1,310,2,09:06,"(9:06) T.Romo pass short left to D.Bryant for 2 yards, TOUCHDOWN.",2,1,75,CHI 2,1,DAL,TD
+1,36,0,15:00,R.Gould kicks 62 yards from CHI 35 to DAL 3. D.Harris to DAL 25 for 22 yards (S.McManis).,0,1,0,CHI 35,0,CHI,KICKOFF
+1,257,1,09:45,(9:45) D.Murray left end pushed ob at CHI 2 for 12 yards (C.Conte).,10,1,73,CHI 14,0,DAL,
+1,121,1,13:07,(13:07) D.Murray right guard to CHI 38 for 6 yards (Ja.Anderson).,10,1,37,CHI 44,0,DAL,
+1,164,3,12:19,(12:19) (Shotgun) T.Romo pass short middle to D.Murray to CHI 32 for 6 yards (Ja.Anderson).,4,1,43,CHI 38,0,DAL,
+1,212,2,11:07,(11:07) D.Murray left end to CHI 25 for 3 yards (J.Bostic).,6,1,50,CHI 28,0,DAL,
+1,100,2,13:46,(13:46) D.Murray left end to CHI 44 for 7 yards (Z.Bowman; K.Greene).,5,1,31,DAL 49,0,DAL,
+1,188,1,12:19,(12:19) T.Romo pass short right to M.Austin to CHI 28 for 4 yards (Z.Bowman).,10,1,47,CHI 32,0,DAL,
+1,79,1,14:09,(14:09) D.Murray left tackle to DAL 49 for 5 yards (Z.Bowman).,10,1,24,DAL 44,0,DAL,
+1,233,3,10:22,(10:22) (Shotgun) T.Romo pass short middle to C.Beasley to CHI 14 for 11 yards (I.Frey).,3,1,61,CHI 25,0,DAL,
+3,797,1,00:49,(:49) D.Murray left end to DAL 30 for no gain (J.Ratliff).,10,1,14,DAL 30,0,DAL,
+3,776,1,01:30,(1:30) D.Murray right guard to DAL 30 for 14 yards (C.Conte; S.McClellin).,10,1,14,DAL 16,0,DAL,
+3,878,4,14:41,"(14:41) (Punt formation) C.Jones punts 41 yards to CHI 35, Center-L.Ladouceur, out of bounds.",16,2,8,DAL 24,0,DAL,PUNT
+3,859,3,15:00,(15:00) (Shotgun) T.Romo sacked at DAL 24 for -9 yards (Ja.Anderson).,7,2,8,DAL 33,0,DAL,
+3,818,2,00:06,(:06) (Shotgun) T.Romo pass short left to D.Murray pushed ob at DAL 33 for 3 yards (Z.Bowman).,10,1,17,DAL 30,0,DAL,
+3,737,0,01:35,R.Gould kicks 63 yards from CHI 35 to DAL 2. D.Harris to DAL 16 for 14 yards (S.McManis).,0,1,0,CHI 35,0,CHI,KICKOFF
+2,620,2,03:46,(3:46) M.Forte right end to DAL 4 for 13 yards (B.Church).,1,1,74,DAL 17,0,CHI,
+2,596,1,04:27,(4:27) (Shotgun) J.McCown pass short right to B.Marshall to DAL 17 for 14 yards (S.Lee).,15,1,61,DAL 31,0,CHI,
+2,573,1,04:47,"(4:47) PENALTY on CHI-R.Garza, False Start, 5 yards, enforced at DAL 26 - No Play.",10,1,47,DAL 26,0,CHI,PENALTY
+2,705,0,01:35,"R.Gould extra point is GOOD, Center-P.Mannelly, Holder-A.Podlesh.",0,1,78,DAL 2,1,CHI,XP
+2,663,2,02:22,(2:22) M.Bush right tackle to DAL 4 for 1 yard (N.Hayden).,5,1,74,DAL 5,0,CHI,
+2,457,2,08:12,(8:12) M.Forte left tackle to CHI 33 for no gain (D.Ware).,10,1,11,CHI 33,0,CHI,
+2,406,1,08:56,(8:56) (Shotgun) J.McCown pass short right to M.Bennett to CHI 33 for 11 yards (K.Wilber).,10,1,11,CHI 22,0,CHI,
+2,642,1,03:00,(3:00) (Shotgun) M.Forte left guard to DAL 5 for -1 yards (N.Hayden).,4,1,73,DAL 4,0,CHI,
+2,527,2,06:05,(6:05) M.Forte left tackle to DAL 38 for 7 yards (S.Lee).,3,1,40,DAL 45,0,CHI,
+2,684,3,01:40,"(1:40) J.McCown pass short left to E.Bennett for 4 yards, TOUCHDOWN.",4,1,78,DAL 4,1,CHI,TD
+2,367,0,09:02,D.Bailey kicks 68 yards from DAL 35 to CHI -3. D.Hester to CHI 22 for 25 yards (B.Church).,0,1,0,DAL 35,0,DAL,KICKOFF
+2,548,1,05:22,(5:22) #62 E. Britton reports eligible M.Forte right end pushed ob at DAL 26 for 12 yards (J.Heath).,10,1,52,DAL 38,0,CHI,
+2,479,3,07:30,(7:30) (Shotgun) J.McCown pass short left to A.Jeffery to CHI 48 for 15 yards (O.Scandrick).,10,1,26,CHI 33,0,CHI,
+2,503,1,06:48,(6:48) (Shotgun) J.McCown pass short right to M.Bennett to DAL 45 for 7 yards (S.Lee).,10,1,33,CHI 48,0,CHI,
+2,431,1,08:16,(8:16) #62 E. Britton reports eligible J.McCown pass incomplete short left to M.Forte.,10,1,11,CHI 33,0,CHI,
+5,1166,0,08:58,R.Gould kicks 45 yards from CHI 35 to DAL 20. T.Clutts to DAL 32 for 12 yards (C.Steltz).,0,2,0,CHI 35,0,CHI,KICKOFF
+5,1205,1,08:51,(8:51) (Shotgun) T.Romo pass deep middle to G.Escobar to CHI 43 for 25 yards (C.Conte; K.Greene).,10,2,25,DAL 32,0,DAL,
+5,1271,2,07:15,(7:15) D.Murray right guard pushed ob at CHI 18 for 8 yards (T.Jennings).,4,2,50,CHI 26,0,DAL,
+5,1344,0,05:30,Timeout #1 by DAL at 05:30.,0,2,58,,0,,TIMEOUT
+5,1229,1,08:18,(8:18) D.Murray left end pushed ob at CHI 32 for 11 yards (J.Ratliff).,10,2,36,CHI 43,0,DAL,
+5,1318,2,06:02,(6:02) D.Murray right end pushed ob at CHI 10 for 6 yards (M.Wright).,8,2,58,CHI 16,0,DAL,
+5,1365,3,05:30,"(5:30) T.Romo pass short right to J.Witten for 10 yards, TOUCHDOWN.",2,2,68,CHI 10,1,DAL,TD
+5,1250,1,07:43,(7:43) D.Murray right end pushed ob at CHI 26 for 6 yards (C.Conte).,10,2,42,CHI 32,0,DAL,
+5,1386,0,05:22,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,2,68,CHI 2,1,DAL,XP
+5,1297,1,06:41,(6:41) D.Murray right tackle to CHI 16 for 2 yards (K.Greene).,10,2,52,CHI 18,0,DAL,
+4,1025,1,11:20,(11:20) M.Forte right end to DAL 20 for 3 yards (S.Lee).,10,2,45,DAL 23,0,CHI,
+4,1094,2,09:10,(9:10) (Shotgun) J.McCown pass incomplete short middle to A.Jeffery.,7,2,58,DAL 7,0,CHI,
+4,966,2,12:31,(12:31) J.McCown pass short right to M.Bennett to DAL 38 for 3 yards (B.Church).,17,2,27,DAL 41,0,CHI,
+4,1047,2,10:37,(10:37) J.McCown scrambles left end pushed ob at DAL 10 for 10 yards (B.Carter).,7,2,55,DAL 20,0,CHI,
+4,990,3,11:44,"(11:44) J.McCown pass short right to B.Marshall ran ob at DAL 23 for 15 yards (B.Church). Penalty on DAL-B.Carr, Defensive Holding, declined.",14,2,42,DAL 38,0,CHI,
+4,897,1,14:32,(14:32) J.McCown pass short left to A.Jeffery to CHI 46 for 11 yards (B.Church).,10,2,11,CHI 35,0,CHI,
+4,945,1,13:12,(13:12) A.Jeffery right end to DAL 41 for -7 yards (B.Carter).,10,2,24,DAL 34,0,CHI,
+4,1073,1,09:55,(9:55) M.Forte left guard to DAL 7 for 3 yards (S.Lee; J.Wynn).,10,2,58,DAL 10,0,CHI,
+4,1134,0,08:58,"R.Gould extra point is GOOD, Center-P.Mannelly, Holder-A.Podlesh.",0,2,65,DAL 2,1,CHI,XP
+4,1116,3,09:05,"(9:05) (Shotgun) J.McCown scrambles right guard for 7 yards, TOUCHDOWN.",7,2,65,DAL 7,1,CHI,TD
+4,921,1,13:48,(13:48) (Shotgun) J.McCown pass deep middle to B.Marshall to DAL 34 for 20 yards (B.Carr).,10,2,31,CHI 46,0,CHI,
+7,1801,1,01:13,(1:13) (Shotgun) T.Romo pass incomplete short right to J.Witten.,10,2,10,DAL 39,0,DAL,
+7,1735,0,01:33,R.Gould kicks 60 yards from CHI 35 to DAL 5. D.Harris to DAL 29 for 24 yards (B.Costanzo).,0,2,0,CHI 35,0,CHI,KICKOFF
+7,1784,0,01:13,Timeout #2 by DAL at 01:13.,0,2,10,,0,,TIMEOUT
+7,1845,3,01:05,(1:05) (Shotgun) T.Romo pass incomplete short right to T.Williams (Z.Bowman).,10,2,10,DAL 39,0,DAL,
+7,1823,2,01:10,(1:10) (Shotgun) T.Romo pass incomplete short left to D.Murray.,10,2,10,DAL 39,0,DAL,
+7,1867,4,00:59,"(:59) (Punt formation) C.Jones punts 40 yards to CHI 21, Center-L.Ladouceur. D.Hester to CHI 40 for 19 yards (D.McCray).",10,2,10,DAL 39,0,DAL,PUNT
+7,1757,1,01:27,(1:27) (Shotgun) T.Romo pass short left to D.Bryant to DAL 39 for 10 yards (T.Jennings; M.Wright). DAL-D.Bryant was injured during the play. His return is Probable.,10,2,10,DAL 29,0,DAL,
+6,1421,0,05:22,D.Bailey kicks 69 yards from DAL 35 to CHI -4. D.Hester to CHI 23 for 27 yards (D.McCray).,0,2,0,DAL 35,0,DAL,KICKOFF
+6,1551,1,02:40,(2:40) J.McCown pass short left to D.Rosario to DAL 5 for 13 yards (B.Carter).,10,2,72,DAL 18,0,CHI,
+6,1632,1,01:50,(1:50) (Shotgun) J.McCown pass incomplete short left to M.Forte.,15,2,62,DAL 15,0,CHI,
+6,1516,1,03:10,"(3:10) J.McCown pass deep left to A.Jeffery pushed ob at DAL 33 for 26 yards (B.Church). PENALTY on DAL-G.Selvie, Roughing the Passer, 15 yards, enforced at DAL 33.",10,2,59,CHI 41,0,CHI,PENALTY
+6,1700,4,01:38,"(1:38) (Field Goal formation) R.Gould 27 yard field goal is GOOD, Center-P.Mannelly, Holder-A.Podlesh.",9,2,68,DAL 9,1,CHI,FG
+6,1443,1,05:15,(5:15) J.McCown pass short right to M.Bennett to CHI 30 for 7 yards (O.Scandrick).,10,2,7,CHI 23,0,CHI,
+6,1593,1,02:00,"(2:00) (Shotgun) M.Forte right guard to DAL 7 for -2 yards (B.Church). PENALTY on CHI-R.Garza, Offensive Holding, 10 yards, enforced at DAL 5 - No Play.",5,2,62,DAL 5,0,CHI,PENALTY
+6,1467,2,04:34,(4:34) M.Forte left tackle to CHI 31 for 1 yard (J.Hatcher).,3,2,8,CHI 30,0,CHI,
+6,1488,3,03:53,(3:53) #62 E. Britton reports eligible (Shotgun) J.McCown pass short right to B.Marshall to CHI 41 for 10 yards (O.Scandrick).,2,2,18,CHI 31,0,CHI,
+6,1676,3,01:45,(1:45) (Shotgun) J.McCown pass short right to M.Forte pushed ob at DAL 9 for 6 yards (B.Carr).,15,2,68,DAL 15,0,CHI,
+6,1654,2,01:50,(1:50) (Shotgun) J.McCown pass incomplete short middle to M.Bennett.,15,2,62,DAL 15,0,CHI,
+9,2106,1,00:09,(:09) T.Romo kneels to DAL 26 for -1 yards.,10,2,-1,DAL 27,0,DAL,
+9,2084,0,00:10,R.Gould kicks 38 yards from CHI 35 to DAL 27. G.Escobar (didn't try to advance) to DAL 27 for no gain (S.McManis).,0,2,0,CHI 35,0,CHI,KICKOFF
+8,1980,0,00:25,Timeout #2 by CHI at 00:25.,0,2,16,,0,,TIMEOUT
+8,1997,1,00:25,(:25) (Shotgun) J.McCown pass short middle to B.Marshall to DAL 25 for 19 yards (J.Heath).,10,2,35,DAL 44,0,CHI,
+8,2067,0,00:10,"R.Gould extra point is GOOD, Center-P.Mannelly, Holder-A.Podlesh.",0,2,60,DAL 2,1,CHI,XP
+8,1956,3,00:31,(:31) J.McCown pass short left to A.Jeffery to DAL 44 for 7 yards (B.Church; S.Lee).,1,2,16,CHI 49,0,CHI,
+8,2021,0,00:17,Timeout #3 by CHI at 00:17.,0,2,35,,0,,TIMEOUT
+8,1939,0,00:31,Timeout #1 by CHI at 00:31.,0,2,9,,0,,TIMEOUT
+8,2038,1,00:17,"(:17) #62 E. Britton reports eligible (Shotgun) J.McCown pass deep right to A.Jeffery for 25 yards, TOUCHDOWN.",10,2,60,DAL 25,1,CHI,TD
+8,1915,2,00:41,(:41) (Shotgun) J.McCown pass short middle to M.Forte to CHI 49 for 9 yards (B.Carter).,10,2,9,CHI 40,0,CHI,
+8,1893,1,00:47,(:47) (Shotgun) J.McCown pass incomplete deep right to A.Jeffery.,10,2,0,CHI 40,0,CHI,

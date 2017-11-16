@@ -1,192 +1,192 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1781,2,01:54,,10,2,64,DEN 32,0,WAS,
-9,1944,4,00:30,,5,2,88,DEN 12,0,WAS,PENALTY
-9,1634,3,04:49,,1,2,50,DEN 46,0,WAS,
-9,1610,2,05:28,,18,2,49,WAS 37,0,WAS,
-9,1742,1,02:00,,10,2,63,DEN 32,0,WAS,
-9,1973,1,00:25,,7,2,95,DEN 7,1,WAS,TD
-9,1567,2,06:30,,11,2,40,WAS 31,0,WAS,
-9,1806,3,01:46,,9,2,78,DEN 31,0,WAS,
-9,1546,1,07:00,,10,2,26,WAS 32,0,WAS,
-9,1525,1,07:22,,10,2,27,WAS 5,0,WAS,
-9,2005,0,00:19,,0,2,95,DEN 2,1,WAS,XP
-9,1864,0,01:01,,0,2,78,,0,,TIMEOUT
-9,1764,0,01:54,,0,2,63,,0,,TIMEOUT
-9,1704,3,02:39,,1,2,63,DEN 36,0,WAS,
-9,1655,1,04:11,,10,2,59,DEN 45,0,WAS,
-9,1591,1,06:03,,10,2,32,WAS 45,0,WAS,
-9,1830,1,01:08,,10,2,78,DEN 17,0,WAS,
-9,1898,2,01:01,,10,2,83,DEN 17,0,WAS,
-9,1922,3,00:30,,5,2,83,DEN 12,0,WAS,
-9,1683,2,03:23,,1,2,59,DEN 36,0,WAS,
-24,3880,1,06:47,,20,4,-10,WAS 35,0,DEN,
-24,3902,2,06:43,,20,4,25,WAS 35,1,DEN,TD
-24,3928,0,06:35,,0,4,25,WAS 2,1,DEN,XP
-24,3848,1,07:09,,10,4,-10,WAS 25,0,DEN,PENALTY
-10,2036,1,00:19,,10,2,-1,DEN 20,0,DEN,
-10,2021,0,00:19,,0,2,0,WAS 35,0,WAS,KICKOFF
-20,3525,2,12:00,,7,4,23,WAS 7,0,DEN,
-20,3546,3,11:22,,1,4,23,WAS 1,0,DEN,
-20,3568,4,11:18,,1,4,23,WAS 1,1,DEN,FG
-20,3501,1,12:35,,10,4,17,WAS 10,0,DEN,
-20,3477,1,13:15,,10,4,14,WAS 24,0,DEN,
-6,1006,1,01:10,,10,1,27,DEN 34,0,DEN,
-6,1086,4,15:00,,4,2,30,DEN 40,0,DEN,PUNT
-6,1046,3,00:15,,12,1,30,DEN 32,0,DEN,
-6,982,1,01:42,,10,1,24,DEN 20,0,DEN,
-6,1027,2,00:41,,7,1,22,DEN 37,0,DEN,
-6,931,1,02:31,,10,1,5,DEN 10,0,DEN,
-6,958,2,02:07,,5,1,10,DEN 15,0,DEN,
-27,4289,2,03:08,,6,4,38,DEN 31,0,WAS,
-27,4241,2,03:57,,10,4,29,DEN 47,0,WAS,
-27,4219,1,04:02,,10,4,17,DEN 47,0,WAS,
-27,4265,1,03:29,,10,4,33,DEN 35,0,WAS,
-27,4164,1,04:11,,10,4,39,WAS 36,0,WAS,
-27,4313,3,02:48,,1,4,39,DEN 26,0,WAS,
-27,4195,2,04:07,,10,4,17,WAS 36,0,WAS,
-27,4334,1,02:20,,10,4,39,DEN 25,1,WAS,TD
-18,3339,1,14:29,,10,4,35,WAS 35,1,DEN,TD
-18,3360,0,14:19,,0,4,35,WAS 2,1,DEN,XP
-28,4412,0,02:00,,0,4,10,,0,,
-28,4429,1,02:00,,10,4,10,WAS 30,0,WAS,INT
-28,4388,1,02:07,,10,4,10,WAS 20,0,WAS,
-28,4373,0,02:07,,0,4,0,DEN 35,0,DEN,KICKOFF
-26,4116,2,05:02,,9,4,0,DEN 40,0,DEN,
-26,4137,3,04:17,,10,4,0,DEN 39,0,DEN,INT
-26,4095,1,05:43,,10,4,0,DEN 39,0,DEN,
-25,4009,2,06:16,,10,4,24,WAS 30,0,WAS,
-25,3944,0,06:35,,0,4,0,DEN 35,0,DEN,KICKOFF
-25,3987,1,06:18,,10,4,10,WAS 30,0,WAS,
-25,3963,1,06:35,,10,4,10,WAS 20,0,WAS,
-25,4037,1,05:53,,10,4,24,WAS 44,0,WAS,INT
-1,101,0,14:13,,0,1,4,,0,,TIMEOUT
-1,36,0,15:00,,0,1,0,DEN 35,0,DEN,KICKOFF
-1,72,2,14:17,,6,1,4,WAS 24,0,WAS,
-1,139,4,13:50,,5,1,5,WAS 25,0,WAS,PUNT
-1,118,3,14:13,,6,1,5,WAS 24,0,WAS,
-1,51,1,15:00,,10,1,4,WAS 20,0,WAS,
-5,818,1,03:49,,10,1,24,WAS 47,0,WAS,
-5,839,2,03:22,,9,1,32,WAS 48,0,WAS,
-5,797,1,04:15,,10,1,23,WAS 35,0,WAS,
-5,710,2,05:39,,4,1,1,WAS 30,0,WAS,
-5,868,3,03:10,,1,1,28,DEN 44,0,WAS,FUMBLE
-5,734,3,04:55,,9,1,11,WAS 25,0,WAS,TIMEOUT
-5,903,4,02:34,,5,1,28,DEN 48,0,WAS,PUNT
-5,689,1,06:19,,10,1,6,WAS 24,0,WAS,
-13,2322,1,11:34,,10,3,0,DEN 20,1,DEN,TD
-13,2307,0,11:34,,0,3,0,WAS 35,0,WAS,KICKOFF
-29,4456,1,01:53,,10,4,-1,WAS 31,0,DEN,
-29,4498,3,00:39,,11,4,-2,WAS 32,0,DEN,
-29,4477,2,01:14,,11,4,-1,WAS 32,0,DEN,
-29,4519,0,00:00,,0,4,-2,,0,,
-21,3603,1,11:14,,10,4,0,WAS 20,0,WAS,
-21,3680,4,09:59,,10,4,0,WAS 20,0,WAS,PUNT
-21,3637,2,11:04,,10,4,-9,WAS 20,0,WAS,
-21,3656,3,10:29,,19,4,0,WAS 11,0,WAS,
-21,3588,0,11:14,,0,4,0,DEN 35,0,DEN,KICKOFF
-23,3821,2,07:17,,14,4,-4,WAS 18,0,WAS,INT
-23,3800,1,07:54,,10,4,-4,WAS 22,0,WAS,
-11,2137,3,13:52,,6,3,11,DEN 24,0,DEN,
-11,2074,0,15:00,,0,3,0,WAS 35,0,WAS,KICKOFF
-11,2089,1,15:00,,10,3,2,DEN 20,0,DEN,
-11,2113,2,14:37,,8,3,4,DEN 22,0,DEN,
-11,2182,2,13:06,,12,3,-1,DEN 29,0,DEN,FUMBLE
-11,2161,1,13:29,,10,3,9,DEN 31,0,DEN,
-14,2524,3,09:12,,7,3,55,WAS 25,0,DEN,PENALTY
-14,2654,0,07:48,,0,3,75,WAS 2,1,DEN,XP
-14,2502,2,09:16,,7,3,75,WAS 25,0,DEN,
-14,2412,2,10:53,,4,3,17,DEN 31,0,DEN,
-14,2436,1,10:25,,10,3,23,DEN 42,0,DEN,
-14,2636,2,07:57,,4,3,75,WAS 4,1,DEN,TD
-14,2569,4,09:07,,2,3,60,WAS 20,0,DEN,
-14,2457,2,10:07,,4,3,47,DEN 48,0,DEN,
-14,2481,1,09:47,,10,3,50,WAS 28,0,DEN,
-14,2614,1,08:02,,4,3,71,WAS 4,0,DEN,
-14,2391,1,11:19,,10,3,6,DEN 25,0,DEN,
-14,2366,0,11:25,,0,3,0,WAS 35,0,WAS,KICKOFF
-14,2547,3,09:12,,2,3,55,WAS 20,0,DEN,
-14,2590,1,08:39,,10,3,71,WAS 15,0,DEN,
-8,1462,2,08:14,,3,2,50,WAS 43,0,DEN,
-8,1351,3,10:45,,2,2,12,DEN 15,0,DEN,
-8,1441,1,08:41,,10,2,50,50,0,DEN,
-8,1505,4,07:33,,3,2,50,WAS 43,0,DEN,PUNT
-8,1330,2,11:17,,2,2,8,DEN 15,0,DEN,
-8,1483,3,07:38,,3,2,50,WAS 43,0,DEN,
-8,1396,1,09:47,,10,2,35,DEN 35,0,DEN,
-8,1372,1,10:16,,10,2,28,DEN 19,0,DEN,
-8,1417,2,09:08,,3,2,43,DEN 42,0,DEN,
-8,1306,1,11:52,,10,2,8,DEN 7,0,DEN,
-19,3391,1,14:18,,10,4,8,WAS 20,0,WAS,
-19,3415,2,13:49,,2,4,5,WAS 28,0,WAS,FUMBLE
-19,3447,1,13:17,,10,4,5,WAS 34,0,WAS,FUMBLE
-19,3376,0,14:19,,0,4,0,DEN 35,0,DEN,KICKOFF
-22,3752,1,08:45,,10,4,25,WAS 43,0,DEN,
-22,3728,2,09:22,,7,4,14,DEN 46,0,DEN,
-22,3706,1,09:48,,10,4,3,DEN 43,0,DEN,
-22,3773,1,08:06,,10,4,25,WAS 32,0,DEN,INT
-12,2231,1,12:56,,10,3,19,DEN 19,0,WAS,
-12,2273,1,11:37,,1,3,19,DEN 1,1,WAS,TD
-12,2291,0,11:34,,0,3,19,DEN 2,1,WAS,XP
-12,2252,2,12:20,,6,3,18,DEN 15,0,WAS,
-16,3223,0,14:56,,0,4,83,WAS 2,1,DEN,XP
-16,3036,2,02:11,,4,3,70,WAS 24,0,DEN,
-16,3015,1,02:27,,10,3,59,WAS 30,0,DEN,
-16,2946,1,03:32,,10,3,32,DEN 41,0,DEN,
-16,2991,1,02:45,,10,3,53,WAS 49,0,DEN,
-16,3185,0,15:00,,0,4,82,,0,,TIMEOUT
-16,3127,2,00:30,,2,3,82,WAS 2,0,DEN,
-16,3202,4,15:00,,1,4,83,WAS 1,1,DEN,TD
-16,3060,1,01:37,,10,3,78,WAS 13,0,DEN,
-16,3105,1,00:34,,2,3,81,WAS 2,0,DEN,
-16,2854,2,04:28,,7,3,11,DEN 20,0,DEN,
-16,2878,1,04:10,,10,3,11,DEN 28,0,DEN,
-16,2970,2,03:10,,2,3,34,DEN 49,0,DEN,
-16,2832,1,04:55,,10,3,11,DEN 17,0,DEN,
-16,2922,3,03:59,,10,3,24,DEN 28,0,DEN,
-16,3148,3,00:00,,1,3,82,WAS 1,0,DEN,
-16,2900,2,04:05,,10,3,11,DEN 28,0,DEN,
-16,3084,2,01:08,,2,3,81,WAS 5,0,DEN,
-7,1276,4,11:59,,2,2,15,DEN 45,0,WAS,PUNT
-7,1116,1,14:44,,10,2,2,WAS 40,0,WAS,
-7,1235,0,12:37,,0,2,12,,0,,TIMEOUT
-7,1137,2,14:07,,8,2,2,WAS 42,0,WAS,
-7,1252,3,12:37,,5,2,15,DEN 48,0,WAS,
-7,1159,3,13:57,,8,2,7,WAS 42,0,WAS,PENALTY
-7,1214,2,13:15,,6,2,12,DEN 49,0,WAS,
-7,1193,1,13:51,,10,2,11,WAS 47,0,WAS,
-3,394,1,10:02,,10,1,9,WAS 20,0,WAS,
-3,436,3,09:24,,1,1,16,WAS 29,0,WAS,
-3,482,2,08:59,,10,1,19,WAS 36,0,WAS,
-3,460,1,09:06,,10,1,16,WAS 36,0,WAS,
-3,379,0,10:02,,0,1,0,DEN 35,0,DEN,KICKOFF
-3,415,2,09:41,,5,1,9,WAS 25,0,WAS,
-3,533,4,08:22,,7,1,19,WAS 39,0,WAS,PUNT
-3,504,3,08:27,,7,1,19,WAS 39,0,WAS,
-17,3276,2,14:50,,10,4,0,WAS 20,0,WAS,
-17,3239,0,14:56,,0,4,0,DEN 35,0,DEN,KICKOFF
-17,3320,4,14:36,,10,4,0,WAS 20,0,WAS,PUNT
-17,3254,1,14:56,,10,4,0,WAS 20,0,WAS,
-17,3298,3,14:42,,10,4,0,WAS 20,0,WAS,
-4,663,4,06:30,,7,1,22,DEN 23,0,DEN,PUNT
-4,553,1,08:10,,10,1,22,DEN 1,0,DEN,
-4,598,1,07:06,,10,1,22,DEN 20,0,DEN,
-4,574,2,07:37,,6,1,19,DEN 5,0,DEN,
-4,619,2,06:42,,7,1,22,DEN 23,0,DEN,
-4,641,3,06:36,,7,1,22,DEN 23,0,DEN,
-2,231,1,12:50,,10,1,27,DEN 49,0,DEN,
-2,162,1,13:42,,10,1,13,DEN 23,0,DEN,
-2,342,1,10:07,,6,1,77,WAS 6,1,DEN,TD
-2,363,0,10:02,,0,1,77,WAS 2,1,DEN,XP
-2,252,2,12:05,,9,1,35,WAS 50,0,DEN,
-2,318,2,10:28,,7,1,71,WAS 20,0,DEN,
-2,273,3,11:27,,1,1,54,WAS 42,0,DEN,
-2,186,1,13:14,,10,1,21,DEN 36,0,DEN,
-2,297,1,10:58,,10,1,57,WAS 23,0,DEN,
-2,207,2,12:50,,2,1,26,DEN 44,0,DEN,
-15,2689,1,07:48,,10,3,3,WAS 20,0,WAS,
-15,2710,2,07:13,,7,3,29,WAS 23,0,WAS,PENALTY
-15,2791,3,05:14,,7,3,32,DEN 48,0,WAS,
-15,2745,1,06:26,,10,3,30,WAS 49,0,WAS,
-15,2813,4,05:03,,7,3,32,DEN 48,0,WAS,PUNT
-15,2766,2,05:47,,9,3,32,50,0,WAS,
-15,2670,0,07:48,,0,3,0,DEN 35,0,DEN,KICKOFF
+24,3848,1,07:09,"(7:09) (Shotgun) K.Moreno up the middle to WAS 16 for 9 yards (J.Pugh). PENALTY on DEN-M.Ramirez, Offensive Holding, 10 yards, enforced at WAS 25 - No Play.",10,4,-10,WAS 25,0,DEN,PENALTY
+24,3928,0,06:35,"M.Prater extra point is GOOD, Center-A.Brewer, Holder-B.Colquitt.",0,4,25,WAS 2,1,DEN,XP
+24,3880,1,06:47,"(6:47) (No Huddle, Shotgun) P.Manning pass incomplete short left to W.Welker.",20,4,-10,WAS 35,0,DEN,
+24,3902,2,06:43,"(6:43) (No Huddle, Shotgun) P.Manning pass short left to D.Thomas for 35 yards, TOUCHDOWN.",20,4,25,WAS 35,1,DEN,TD
+25,4009,2,06:16,(6:16) (Shotgun) R.Griffin pass short left to J.Reed to WAS 44 for 14 yards (Q.Jammer). DEN-C.Harris was injured during the play.,10,4,24,WAS 30,0,WAS,
+25,3987,1,06:18,(6:18) (Shotgun) R.Griffin pass incomplete short right to J.Reed.,10,4,10,WAS 30,0,WAS,
+25,3944,0,06:35,"M.Prater kicks 65 yards from DEN 35 to end zone, Touchback.",0,4,0,DEN 35,0,DEN,KICKOFF
+25,3963,1,06:35,(6:35) (Shotgun) R.Griffin pass short right to J.Reed pushed ob at WAS 30 for 10 yards (M.Adams).,10,4,10,WAS 20,0,WAS,
+25,4037,1,05:53,"(5:53) (Shotgun) R.Griffin pass deep middle intended for J.Reed INTERCEPTED by R.Moore [T.Knighton] at DEN 36. R.Moore to WAS 46 for 18 yards (P.Garcon). PENALTY on DEN-M.Jackson, Unnecessary Roughness, 15 yards, enforced at WAS 46.",10,4,24,WAS 44,0,WAS,INT
+26,4116,2,05:02,(5:02) (Shotgun) M.Ball right end to DEN 39 for -1 yards (B.Rambo).,9,4,0,DEN 40,0,DEN,
+26,4095,1,05:43,"(5:43) (No Huddle, Shotgun) M.Ball up the middle to DEN 40 for 1 yard (P.Riley).",10,4,0,DEN 39,0,DEN,
+26,4137,3,04:17,"(4:17) (No Huddle, Shotgun) P.Manning pass deep left intended for D.Thomas INTERCEPTED by D.Hall at WAS 36. D.Hall to WAS 36 for no gain (D.Thomas).",10,4,0,DEN 39,0,DEN,INT
+27,4164,1,04:11,(4:11) (Shotgun) K.Cousins pass incomplete short left to S.Moss [K.Vickerson].,10,4,39,WAS 36,0,WAS,
+27,4265,1,03:29,(3:29) (Shotgun) K.Cousins pass short left to P.Garcon to DEN 31 for 4 yards (R.Moore).,10,4,33,DEN 35,0,WAS,
+27,4334,1,02:20,"(2:20) (Shotgun) K.Cousins pass short right intended for P.Garcon INTERCEPTED by D.R-Cromartie at DEN 25. D.R-Cromartie for 75 yards, TOUCHDOWN.",10,4,39,DEN 25,1,WAS,TD
+27,4289,2,03:08,(3:08) (Shotgun) K.Cousins pass short left to P.Garcon to DEN 26 for 5 yards (D.R-Cromartie).,6,4,38,DEN 31,0,WAS,
+27,4219,1,04:02,(4:02) (Shotgun) K.Cousins pass incomplete short right to L.Hankerson.,10,4,17,DEN 47,0,WAS,
+27,4241,2,03:57,(3:57) (Shotgun) K.Cousins pass short middle to J.Reed to DEN 35 for 12 yards (D.Trevathan; M.Adams).,10,4,29,DEN 47,0,WAS,
+27,4313,3,02:48,(2:48) K.Cousins left guard to DEN 25 for 1 yard (R.Ayers).,1,4,39,DEN 26,0,WAS,
+27,4195,2,04:07,(4:07) (Shotgun) K.Cousins pass deep right to J.Reed ran ob at DEN 47 for 17 yards.,10,4,17,WAS 36,0,WAS,
+20,3568,4,11:18,"(11:18) M.Prater 19 yard field goal is GOOD, Center-A.Brewer, Holder-B.Colquitt.",1,4,23,WAS 1,1,DEN,FG
+20,3501,1,12:35,"(12:35) (No Huddle, Shotgun) P.Manning pass short right to D.Thomas to WAS 7 for 3 yards (E.Biggers).",10,4,17,WAS 10,0,DEN,
+20,3525,2,12:00,"(12:00) (No Huddle, Shotgun) M.Ball up the middle to WAS 1 for 6 yards (D.Hall).",7,4,23,WAS 7,0,DEN,
+20,3477,1,13:15,"(13:15) (No Huddle, Shotgun) P.Manning pass short left to K.Moreno to WAS 10 for 14 yards (L.Fletcher).",10,4,14,WAS 24,0,DEN,
+20,3546,3,11:22,(11:22) P.Manning pass incomplete short left to D.Thomas (B.Orakpo).,1,4,23,WAS 1,0,DEN,
+21,3588,0,11:14,"M.Prater kicks 65 yards from DEN 35 to end zone, Touchback.",0,4,0,DEN 35,0,DEN,KICKOFF
+21,3603,1,11:14,"(11:14) R.Griffin pass incomplete short right to L.Paulsen [D.Wolfe]. Penalty on WAS-K.Lichtensteiger, Offensive Holding, declined.",10,4,0,WAS 20,0,WAS,
+21,3656,3,10:29,(10:29) (Shotgun) R.Griffin pass short right to P.Garcon to WAS 20 for 9 yards (R.Ayers).,19,4,0,WAS 11,0,WAS,
+21,3680,4,09:59,"(9:59) S.Rocca punts 47 yards to DEN 33, Center-K.Nelson. T.Holliday pushed ob at DEN 43 for 10 yards (N.Barnett).",10,4,0,WAS 20,0,WAS,PUNT
+21,3637,2,11:04,(11:04) (Shotgun) R.Griffin sacked at WAS 11 for -9 yards (D.Wolfe).,10,4,-9,WAS 20,0,WAS,
+22,3773,1,08:06,(8:06) (Shotgun) P.Manning pass deep middle intended for W.Welker INTERCEPTED by J.Pugh at WAS 6. J.Pugh to WAS 22 for 16 yards (E.Decker).,10,4,25,WAS 32,0,DEN,INT
+22,3728,2,09:22,(9:22) P.Manning pass short left to W.Welker to WAS 43 for 11 yards (L.Fletcher).,7,4,14,DEN 46,0,DEN,
+22,3752,1,08:45,"(8:45) (No Huddle, Shotgun) C.Anderson up the middle to WAS 32 for 11 yards (J.Pugh).",10,4,25,WAS 43,0,DEN,
+22,3706,1,09:48,(9:48) (Shotgun) K.Moreno left end pushed ob at DEN 46 for 3 yards (B.Rambo).,10,4,3,DEN 43,0,DEN,
+23,3800,1,07:54,(7:54) A.Morris right end to WAS 18 for -4 yards (D.Trevathan).,10,4,-4,WAS 22,0,WAS,
+23,3821,2,07:17,(7:17) (Shotgun) R.Griffin pass short middle intended for P.Garcon INTERCEPTED by C.Harris at WAS 26. C.Harris to WAS 25 for 1 yard (P.Garcon).,14,4,-4,WAS 18,0,WAS,INT
+28,4373,0,02:07,"M.Prater kicks 65 yards from DEN 35 to end zone, Touchback.",0,4,0,DEN 35,0,DEN,KICKOFF
+28,4388,1,02:07,(2:07) (Shotgun) K.Cousins pass short left to S.Moss to WAS 30 for 10 yards (R.Moore).,10,4,10,WAS 20,0,WAS,
+28,4412,0,02:00,Two-Minute Warning,0,4,10,,0,,
+28,4429,1,02:00,(2:00) (Shotgun) K.Cousins pass short middle intended for J.Reed INTERCEPTED by S.Phillips (D.Trevathan) at WAS 34. S.Phillips to WAS 31 for 3 yards (T.Polumbus).,10,4,10,WAS 30,0,WAS,INT
+29,4519,0,00:00,END GAME,0,4,-2,,0,,
+29,4456,1,01:53,(1:53) P.Manning kneels to WAS 32 for -1 yards.,10,4,-1,WAS 31,0,DEN,
+29,4477,2,01:14,(1:14) P.Manning kneels to WAS 32 for no gain.,11,4,-1,WAS 32,0,DEN,
+29,4498,3,00:39,(:39) P.Manning kneels to WAS 33 for -1 yards.,11,4,-2,WAS 32,0,DEN,
+1,51,1,15:00,(15:00) R.Griffin scrambles up the middle to WAS 24 for 4 yards (D.Trevathan).,10,1,4,WAS 20,0,WAS,
+1,36,0,15:00,"M.Prater kicks 65 yards from DEN 35 to end zone, Touchback.",0,1,0,DEN 35,0,DEN,KICKOFF
+1,72,2,14:17,(14:17) (Shotgun) R.Griffin pass incomplete short left to J.Reed (D.R-Cromartie).,6,1,4,WAS 24,0,WAS,
+1,139,4,13:50,"(13:50) S.Rocca punts 52 yards to DEN 23, Center-K.Nelson, out of bounds.",5,1,5,WAS 25,0,WAS,PUNT
+1,101,0,14:13,Timeout #1 by WAS at 14:13.,0,1,4,,0,,TIMEOUT
+1,118,3,14:13,(14:13) (Shotgun) R.Griffin scrambles right end to WAS 25 for 1 yard (V.Miller).,6,1,5,WAS 24,0,WAS,
+3,460,1,09:06,"(9:06) (No Huddle, Shotgun) R.Griffin pass incomplete deep right to A.Robinson.",10,1,16,WAS 36,0,WAS,
+3,379,0,10:02,"M.Prater kicks 65 yards from DEN 35 to end zone, Touchback.",0,1,0,DEN 35,0,DEN,KICKOFF
+3,415,2,09:41,"(9:41) (No Huddle, Shotgun) A.Morris right tackle to WAS 29 for 4 yards (D.Ihenacho).",5,1,9,WAS 25,0,WAS,
+3,533,4,08:22,"(8:22) S.Rocca punts 60 yards to DEN 1, Center-K.Nelson, downed by WAS-J.Murphy.",7,1,19,WAS 39,0,WAS,PUNT
+3,394,1,10:02,(10:02) A.Morris right guard to WAS 25 for 5 yards (V.Miller; D.Trevathan).,10,1,9,WAS 20,0,WAS,
+3,436,3,09:24,"(9:24) (No Huddle, Shotgun) R.Griffin pass short right to J.Reed to WAS 36 for 7 yards (R.Moore).",1,1,16,WAS 29,0,WAS,
+3,504,3,08:27,(8:27) (Shotgun) R.Griffin pass incomplete deep right to J.Reed.,7,1,19,WAS 39,0,WAS,
+3,482,2,08:59,(8:59) (Shotgun) R.Helu left end to WAS 39 for 3 yards (W.Woodyard).,10,1,19,WAS 36,0,WAS,
+2,318,2,10:28,"(10:28) (No Huddle, Shotgun) P.Manning pass short left to K.Moreno pushed ob at WAS 6 for 14 yards (P.Riley).",7,1,71,WAS 20,0,DEN,
+2,207,2,12:50,"(12:50) (No Huddle, Shotgun) P.Manning pass short middle to D.Thomas to DEN 49 for 5 yards (L.Fletcher).",2,1,26,DEN 44,0,DEN,
+2,363,0,10:02,"M.Prater extra point is GOOD, Center-A.Brewer, Holder-B.Colquitt.",0,1,77,WAS 2,1,DEN,XP
+2,273,3,11:27,"(11:27) (No Huddle, Shotgun) P.Manning pass short right to J.Thomas to WAS 23 for 19 yards (J.Gumbs).",1,1,54,WAS 42,0,DEN,
+2,186,1,13:14,"(13:14) (No Huddle, Shotgun) K.Moreno right guard to DEN 44 for 8 yards (J.Wilson).",10,1,21,DEN 36,0,DEN,
+2,342,1,10:07,"(10:07) (No Huddle, Shotgun) P.Manning pass short left to W.Welker for 6 yards, TOUCHDOWN.",6,1,77,WAS 6,1,DEN,TD
+2,252,2,12:05,(12:05) (No Huddle) M.Ball left tackle to WAS 42 for 8 yards (P.Riley).,9,1,35,WAS 50,0,DEN,
+2,297,1,10:58,(10:58) (No Huddle) K.Moreno left end to WAS 20 for 3 yards (C.Baker).,10,1,57,WAS 23,0,DEN,
+2,231,1,12:50,(12:50) K.Moreno right tackle to WAS 50 for 1 yard (P.Riley).,10,1,27,DEN 49,0,DEN,
+2,162,1,13:42,(13:42) (Shotgun) P.Manning pass short left to K.Moreno to DEN 36 for 13 yards (D.Hall).,10,1,13,DEN 23,0,DEN,
+5,797,1,04:15,(4:15) (Shotgun) A.Morris left end to WAS 47 for 12 yards (K.Webster).,10,1,23,WAS 35,0,WAS,
+5,868,3,03:10,"(3:10) (No Huddle, Shotgun) R.Griffin FUMBLES (Aborted) at DEN 44, recovered by WAS-R.Helu at DEN 48. R.Helu to DEN 48 for no gain (R.Ayers).",1,1,28,DEN 44,0,WAS,FUMBLE
+5,903,4,02:34,"(2:34) S.Rocca punts 38 yards to DEN 10, Center-K.Nelson, fair catch by T.Holliday.",5,1,28,DEN 48,0,WAS,PUNT
+5,839,2,03:22,"(3:22) (No Huddle, Shotgun) R.Griffin pass short left to P.Garcon ran ob at DEN 44 for 8 yards.",9,1,32,WAS 48,0,WAS,
+5,710,2,05:39,(5:39) (Shotgun) R.Griffin pass short left to P.Garcon to WAS 25 for -5 yards (D.R-Cromartie).,4,1,1,WAS 30,0,WAS,
+5,818,1,03:49,"(3:49) (No Huddle, Shotgun) A.Morris right end to WAS 48 for 1 yard (R.Moore).",10,1,24,WAS 47,0,WAS,
+5,689,1,06:19,(6:19) A.Morris right end to WAS 30 for 6 yards (D.Trevathan).,10,1,6,WAS 24,0,WAS,
+5,734,3,04:55,"(4:55) (Shotgun) R.Griffin pass short right to S.Moss to WAS 35 for 10 yards (C.Harris) [R.Ayers]. Denver challenged the first down ruling, and the play was Upheld. (Timeout #1.)",9,1,11,WAS 25,0,WAS,TIMEOUT
+4,619,2,06:42,(6:42) (No Huddle) P.Manning pass incomplete deep left to D.Thomas (D.Hall).,7,1,22,DEN 23,0,DEN,
+4,598,1,07:06,"(7:06) (No Huddle, Shotgun) K.Moreno left guard to DEN 23 for 3 yards (P.Riley; R.Jackson).",10,1,22,DEN 20,0,DEN,
+4,663,4,06:30,"(6:30) B.Colquitt punts 55 yards to WAS 22, Center-A.Brewer. J.Morgan pushed ob at WAS 24 for 2 yards (J.Tamme).",7,1,22,DEN 23,0,DEN,PUNT
+4,553,1,08:10,(8:10) K.Moreno up the middle to DEN 5 for 4 yards (S.Bowen).,10,1,22,DEN 1,0,DEN,
+4,574,2,07:37,(7:37) P.Manning pass short right to J.Tamme to DEN 20 for 15 yards (J.Wilson).,6,1,19,DEN 5,0,DEN,
+4,641,3,06:36,"(6:36) (No Huddle, Shotgun) P.Manning pass incomplete deep left to A.Caldwell.",7,1,22,DEN 23,0,DEN,
+7,1235,0,12:37,Timeout #2 by WAS at 12:37.,0,2,12,,0,,TIMEOUT
+7,1159,3,13:57,"(13:57) (Shotgun) R.Griffin pass incomplete deep right to A.Robinson. PENALTY on DEN-K.Webster, Illegal Contact, 5 yards, enforced at WAS 42 - No Play.",8,2,7,WAS 42,0,WAS,PENALTY
+7,1214,2,13:15,(13:15) (Shotgun) R.Griffin left end to DEN 48 for 1 yard (D.Ihenacho).,6,2,12,DEN 49,0,WAS,
+7,1193,1,13:51,(13:51) R.Helu right tackle to DEN 49 for 4 yards (D.R-Cromartie).,10,2,11,WAS 47,0,WAS,
+7,1137,2,14:07,(14:07) (Shotgun) R.Griffin pass incomplete deep middle to L.Hankerson (D.Ihenacho) [D.Trevathan].,8,2,2,WAS 42,0,WAS,
+7,1276,4,11:59,"(11:59) S.Rocca punts 31 yards to DEN 14, Center-K.Nelson, out of bounds. PENALTY on DEN-D.Bruton, Offensive Holding, 7 yards, enforced at DEN 14.",2,2,15,DEN 45,0,WAS,PUNT
+7,1252,3,12:37,(12:37) (Shotgun) R.Griffin pass short left to J.Morgan to DEN 45 for 3 yards (W.Woodyard).,5,2,15,DEN 48,0,WAS,
+7,1116,1,14:44,(14:44) (Shotgun) A.Morris up the middle to WAS 42 for 2 yards (T.Knighton).,10,2,2,WAS 40,0,WAS,
+6,958,2,02:07,"(2:07) (No Huddle, Shotgun) P.Manning pass short middle to D.Thomas to DEN 20 for 5 yards (D.Hall).",5,1,10,DEN 15,0,DEN,
+6,1027,2,00:41,"(:41) (No Huddle, Shotgun) P.Manning sacked at DEN 32 for -5 yards (R.Jackson).",7,1,22,DEN 37,0,DEN,
+6,1046,3,00:15,"(:15) (No Huddle, Shotgun) P.Manning pass short left to J.Thomas to DEN 40 for 8 yards (R.Kerrigan). WAS-D.Hall was injured during the play.",12,1,30,DEN 32,0,DEN,
+6,1086,4,15:00,"(15:00) B.Colquitt punts 54 yards to WAS 6, Center-A.Brewer. J.Morgan to WAS 40 for 34 yards (N.Irving).",4,2,30,DEN 40,0,DEN,PUNT
+6,982,1,01:42,"(1:42) (No Huddle, Shotgun) P.Manning pass short right to A.Caldwell to DEN 34 for 14 yards (D.Amerson).",10,1,24,DEN 20,0,DEN,
+6,1006,1,01:10,(1:10) (No Huddle) C.Anderson right tackle to DEN 37 for 3 yards (B.Rambo).,10,1,27,DEN 34,0,DEN,
+6,931,1,02:31,(2:31) (Shotgun) M.Ball up the middle to DEN 15 for 5 yards (K.Golston; B.Rambo).,10,1,5,DEN 10,0,DEN,
+9,1546,1,07:00,"(7:00) (No Huddle, Shotgun) R.Helu right guard to WAS 31 for -1 yards (V.Miller).",10,2,26,WAS 32,0,WAS,
+9,1806,3,01:46,(1:46) (Shotgun) R.Griffin pass short middle to R.Helu to DEN 17 for 14 yards (D.Ihenacho) [V.Miller].,9,2,78,DEN 31,0,WAS,
+9,1830,1,01:08,(1:08) (Shotgun) R.Griffin pass incomplete short middle to P.Garcon (D.R-Cromartie). DEN-D.Ihenacho was injured during the play.,10,2,78,DEN 17,0,WAS,
+9,1634,3,04:49,(4:49) (Shotgun) R.Helu left guard to DEN 45 for 1 yard (S.Phillips; N.Irving).,1,2,50,DEN 46,0,WAS,
+9,1864,0,01:01,Timeout #2 by DEN at 01:01.,0,2,78,,0,,TIMEOUT
+9,1781,2,01:54,(1:54) (Shotgun) R.Griffin scrambles right end pushed ob at DEN 31 for 1 yard (C.Harris).,10,2,64,DEN 32,0,WAS,
+9,1944,4,00:30,"(:30) (Field Goal formation) PENALTY on DEN, Defensive 12 On-field, 5 yards, enforced at DEN 12 - No Play.",5,2,88,DEN 12,0,WAS,PENALTY
+9,1973,1,00:25,"(:25) (Shotgun) R.Griffin pass short right to L.Hankerson for 7 yards, TOUCHDOWN. Penalty on DEN-K.Vickerson, Defensive Holding, declined.",7,2,95,DEN 7,1,WAS,TD
+9,1922,3,00:30,(:30) (Shotgun) R.Griffin pass incomplete short middle to S.Moss (M.Adams).,5,2,83,DEN 12,0,WAS,
+9,1610,2,05:28,(5:28) (Shotgun) R.Griffin pass short middle to J.Reed to DEN 46 for 17 yards (C.Harris).,18,2,49,WAS 37,0,WAS,
+9,1525,1,07:22,(7:22) (Shotgun) A.Morris left tackle pushed ob at WAS 32 for 27 yards (D.Trevathan).,10,2,27,WAS 5,0,WAS,
+9,1683,2,03:23,(3:23) (Shotgun) A.Morris up the middle to DEN 36 for no gain (W.Woodyard).,1,2,59,DEN 36,0,WAS,
+9,1591,1,06:03,"(6:03) (No Huddle, Shotgun) R.Griffin sacked at WAS 37 for -8 yards (T.Knighton).",10,2,32,WAS 45,0,WAS,
+9,1764,0,01:54,Timeout #3 by WAS at 01:54.,0,2,63,,0,,TIMEOUT
+9,2005,0,00:19,"K.Forbath extra point is GOOD, Center-K.Nelson, Holder-S.Rocca.",0,2,95,DEN 2,1,WAS,XP
+9,1704,3,02:39,(2:39) (Shotgun) R.Helu right guard to DEN 32 for 4 yards (W.Woodyard).,1,2,63,DEN 36,0,WAS,
+9,1898,2,01:01,(1:01) (Shotgun) R.Griffin pass short left to J.Reed to DEN 12 for 5 yards (R.Moore) [N.Irving].,10,2,83,DEN 17,0,WAS,
+9,1655,1,04:11,(4:11) (Shotgun) A.Morris left end to DEN 36 for 9 yards (M.Jackson; W.Woodyard).,10,2,59,DEN 45,0,WAS,
+9,1742,1,02:00,(2:00) (Shotgun) R.Griffin pass incomplete short right to J.Reed (C.Harris) [T.Knighton]. WAS-J.Reed was injured during the play.,10,2,63,DEN 32,0,WAS,
+9,1567,2,06:30,"(6:30) (No Huddle, Shotgun) R.Griffin pass short left to P.Garcon to WAS 45 for 14 yards (K.Webster) [W.Woodyard].",11,2,40,WAS 31,0,WAS,
+8,1306,1,11:52,(11:52) (Shotgun) P.Manning pass short left to D.Thomas to DEN 15 for 8 yards (D.Hall).,10,2,8,DEN 7,0,DEN,
+8,1351,3,10:45,"(10:45) (No Huddle, Shotgun) K.Moreno up the middle to DEN 19 for 4 yards (P.Riley).",2,2,12,DEN 15,0,DEN,
+8,1330,2,11:17,"(11:17) (No Huddle, Shotgun) K.Moreno left tackle to DEN 15 for no gain (J.Jenkins).",2,2,8,DEN 15,0,DEN,
+8,1483,3,07:38,"(7:38) (No Huddle, Shotgun) P.Manning pass incomplete deep right to W.Welker.",3,2,50,WAS 43,0,DEN,
+8,1372,1,10:16,"(10:16) (No Huddle, Shotgun) P.Manning pass deep left to W.Welker to DEN 35 for 16 yards (E.Biggers).",10,2,28,DEN 19,0,DEN,
+8,1441,1,08:41,"(8:41) (No Huddle, Shotgun) M.Ball left tackle to WAS 43 for 7 yards (B.Rambo).",10,2,50,50,0,DEN,
+8,1505,4,07:33,"(7:33) B.Colquitt punts 38 yards to WAS 5, Center-A.Brewer, downed by DEN-J.Tamme.",3,2,50,WAS 43,0,DEN,PUNT
+8,1396,1,09:47,"(9:47) (No Huddle, Shotgun) T.Holliday left end to DEN 42 for 7 yards (B.Rambo).",10,2,35,DEN 35,0,DEN,
+8,1462,2,08:14,(8:14) (No Huddle) M.Ball left tackle to WAS 43 for no gain (L.Fletcher).,3,2,50,WAS 43,0,DEN,
+8,1417,2,09:08,"(9:08) (No Huddle, Shotgun) P.Manning pass short middle to E.Decker to 50 for 8 yards (J.Wilson).",3,2,43,DEN 42,0,DEN,
+11,2137,3,13:52,"(13:52) (No Huddle, Shotgun) P.Manning pass short left to E.Decker to DEN 31 for 7 yards (P.Riley).",6,3,11,DEN 24,0,DEN,
+11,2089,1,15:00,(15:00) (Shotgun) P.Manning pass short right to K.Moreno to DEN 22 for 2 yards (D.Amerson).,10,3,2,DEN 20,0,DEN,
+11,2182,2,13:06,"(13:06) (No Huddle, Shotgun) P.Manning sacked at DEN 19 for -10 yards (R.Kerrigan). FUMBLES (R.Kerrigan), RECOVERED by WAS-B.Orakpo at DEN 19. B.Orakpo to DEN 19 for no gain (P.Manning). Penalty on DEN-P.Manning, Offensive Holding, declined.",12,3,-1,DEN 29,0,DEN,FUMBLE
+11,2113,2,14:37,"(14:37) (No Huddle, Shotgun) P.Manning pass short left to J.Thomas to DEN 24 for 2 yards (J.Wilson).",8,3,4,DEN 22,0,DEN,
+11,2161,1,13:29,"(13:29) (No Huddle, Shotgun) K.Moreno left end to DEN 29 for -2 yards (S.Bowen).",10,3,9,DEN 31,0,DEN,
+11,2074,0,15:00,"K.Forbath kicks 65 yards from WAS 35 to end zone, Touchback.",0,3,0,WAS 35,0,WAS,KICKOFF
+10,2036,1,00:19,(:19) P.Manning kneels to DEN 19 for -1 yards.,10,2,-1,DEN 20,0,DEN,
+10,2021,0,00:19,"K.Forbath kicks 65 yards from WAS 35 to end zone, Touchback.",0,2,0,WAS 35,0,WAS,KICKOFF
+13,2322,1,11:34,"(11:34) (Shotgun) P.Manning pass short right intended for D.Thomas INTERCEPTED by D.Hall at DEN 26. D.Hall for 26 yards, TOUCHDOWN.",10,3,0,DEN 20,1,DEN,TD
+13,2307,0,11:34,"K.Forbath kicks 65 yards from WAS 35 to end zone, Touchback.",0,3,0,WAS 35,0,WAS,KICKOFF
+12,2231,1,12:56,"(12:56) A.Morris up the middle to DEN 15 for 4 yards (D.Trevathan, M.Adams).",10,3,19,DEN 19,0,WAS,
+12,2291,0,11:34,"K.Forbath extra point is GOOD, Center-K.Nelson, Holder-S.Rocca.",0,3,19,DEN 2,1,WAS,XP
+12,2252,2,12:20,(12:20) A.Morris left end to DEN 1 for 14 yards (R.Moore).,6,3,18,DEN 15,0,WAS,
+12,2273,1,11:37,"(11:37) A.Morris left guard for 1 yard, TOUCHDOWN.",1,3,19,DEN 1,1,WAS,TD
+15,2710,2,07:13,"(7:13) (Shotgun) R.Griffin pass short middle to P.Garcon to WAS 34 for 11 yards (D.R-Cromartie; D.Trevathan). PENALTY on DEN-K.Vickerson, Unnecessary Roughness, 15 yards, enforced at WAS 34.",7,3,29,WAS 23,0,WAS,PENALTY
+15,2813,4,05:03,"(5:03) S.Rocca punts 31 yards to DEN 17, Center-K.Nelson, out of bounds.",7,3,32,DEN 48,0,WAS,PUNT
+15,2766,2,05:47,(5:47) (Shotgun) A.Morris left end to DEN 48 for 2 yards (D.Wolfe; D.Trevathan). DEN-K.Webster was injured during the play.,9,3,32,50,0,WAS,
+15,2670,0,07:48,"M.Prater kicks 65 yards from DEN 35 to end zone, Touchback.",0,3,0,DEN 35,0,DEN,KICKOFF
+15,2745,1,06:26,(6:26) A.Morris right tackle to 50 for 1 yard (M.Unrein).,10,3,30,WAS 49,0,WAS,
+15,2689,1,07:48,(7:48) A.Morris up the middle to WAS 23 for 3 yards (V.Miller).,10,3,3,WAS 20,0,WAS,
+15,2791,3,05:14,(5:14) (Shotgun) R.Griffin pass incomplete short right to S.Moss [M.Jackson].,7,3,32,DEN 48,0,WAS,
+14,2569,4,09:07,"(9:07) (No Huddle, Shotgun) K.Moreno up the middle to WAS 15 for 5 yards (S.Bowen).",2,3,60,WAS 20,0,DEN,
+14,2524,3,09:12,"(9:12) (No Huddle, Shotgun) PENALTY on WAS-R.Kerrigan, Neutral Zone Infraction, 5 yards, enforced at WAS 25 - No Play.",7,3,55,WAS 25,0,DEN,PENALTY
+14,2614,1,08:02,"(8:02) (No Huddle, Shotgun) P.Manning pass incomplete short left to W.Welker (J.Wilson).",4,3,71,WAS 4,0,DEN,
+14,2547,3,09:12,(9:12) P.Manning pass incomplete short middle to V.Green.,2,3,55,WAS 20,0,DEN,
+14,2457,2,10:07,"(10:07) (No Huddle, Shotgun) P.Manning pass short middle to W.Welker pushed ob at WAS 28 for 24 yards (P.Riley).",4,3,47,DEN 48,0,DEN,
+14,2636,2,07:57,"(7:57) (No Huddle, Shotgun) M.Ball left guard for 4 yards, TOUCHDOWN.",4,3,75,WAS 4,1,DEN,TD
+14,2436,1,10:25,(10:25) (Shotgun) K.Moreno left end pushed ob at DEN 48 for 6 yards (R.Jackson).,10,3,23,DEN 42,0,DEN,
+14,2481,1,09:47,"(9:47) (No Huddle, Shotgun) M.Ball left guard to WAS 25 for 3 yards (L.Fletcher; E.Biggers).",10,3,50,WAS 28,0,DEN,
+14,2412,2,10:53,"(10:53) (No Huddle, Shotgun) P.Manning pass short right to W.Welker to DEN 42 for 11 yards (J.Wilson).",4,3,17,DEN 31,0,DEN,
+14,2590,1,08:39,"(8:39) (No Huddle, Shotgun) P.Manning pass short left to D.Thomas to WAS 4 for 11 yards (B.Rambo).",10,3,71,WAS 15,0,DEN,
+14,2391,1,11:19,(11:19) (Shotgun) K.Moreno right tackle to DEN 31 for 6 yards (B.Rambo).,10,3,6,DEN 25,0,DEN,
+14,2366,0,11:25,K.Forbath kicks 70 yards from WAS 35 to DEN -5. T.Holliday pushed ob at DEN 25 for 30 yards (D.Amerson). WAS-J.Pugh was injured during the play.,0,3,0,WAS 35,0,WAS,KICKOFF
+14,2654,0,07:48,"M.Prater extra point is GOOD, Center-A.Brewer, Holder-B.Colquitt.",0,3,75,WAS 2,1,DEN,XP
+14,2502,2,09:16,"(9:16) (No Huddle, Shotgun) P.Manning pass incomplete short right to M.Ball (D.Amerson).",7,3,75,WAS 25,0,DEN,
+17,3276,2,14:50,(14:50) (Shotgun) R.Griffin pass incomplete deep middle to P.Garcon.,10,4,0,WAS 20,0,WAS,
+17,3298,3,14:42,(14:42) (Shotgun) R.Griffin pass incomplete deep middle to A.Robinson [M.Jackson].,10,4,0,WAS 20,0,WAS,
+17,3239,0,14:56,"M.Prater kicks 65 yards from DEN 35 to end zone, Touchback.",0,4,0,DEN 35,0,DEN,KICKOFF
+17,3254,1,14:56,(14:56) R.Griffin pass incomplete deep middle to J.Morgan.,10,4,0,WAS 20,0,WAS,
+17,3320,4,14:36,"(14:36) S.Rocca punts 15 yards to WAS 35, Center-K.Nelson, out of bounds.",10,4,0,WAS 20,0,WAS,PUNT
+16,2878,1,04:10,"(4:10) (No Huddle, Shotgun) P.Manning pass incomplete deep left to E.Decker.",10,3,11,DEN 28,0,DEN,
+16,3202,4,15:00,"(15:00) P.Manning pass short right to J.Dreessen for 1 yard, TOUCHDOWN.",1,4,83,WAS 1,1,DEN,TD
+16,3185,0,15:00,Timeout #1 by WAS at 15:00.,0,4,82,,0,,TIMEOUT
+16,2991,1,02:45,"(2:45) (No Huddle, Shotgun) P.Manning pass short right to E.Decker to WAS 30 for 19 yards (E.Biggers).",10,3,53,WAS 49,0,DEN,
+16,3036,2,02:11,"(2:11) (No Huddle, Shotgun) P.Manning pass short middle to K.Moreno to WAS 13 for 11 yards (P.Riley).",4,3,70,WAS 24,0,DEN,
+16,2922,3,03:59,"(3:59) (No Huddle, Shotgun) P.Manning pass short right to W.Welker to DEN 41 for 13 yards (J.Wilson).",10,3,24,DEN 28,0,DEN,
+16,3060,1,01:37,"(1:37) (No Huddle, Shotgun) P.Manning pass short middle to D.Thomas to WAS 5 for 8 yards (P.Riley).",10,3,78,WAS 13,0,DEN,
+16,2854,2,04:28,"(4:28) (No Huddle, Shotgun) P.Manning pass short left to J.Dreessen pushed ob at DEN 28 for 8 yards (P.Riley).",7,3,11,DEN 20,0,DEN,
+16,3223,0,14:56,"M.Prater extra point is GOOD, Center-A.Brewer, Holder-B.Colquitt.",0,4,83,WAS 2,1,DEN,XP
+16,3015,1,02:27,(2:27) (No Huddle) C.Anderson up the middle to WAS 24 for 6 yards (D.Tapp).,10,3,59,WAS 30,0,DEN,
+16,3105,1,00:34,(:34) (No Huddle) P.Manning pass incomplete short right to E.Decker.,2,3,81,WAS 2,0,DEN,
+16,2900,2,04:05,(4:05) (Shotgun) P.Manning pass incomplete deep left to E.Decker.,10,3,11,DEN 28,0,DEN,
+16,3084,2,01:08,"(1:08) (No Huddle, Shotgun) M.Ball up the middle to WAS 2 for 3 yards (D.Tapp).",2,3,81,WAS 5,0,DEN,
+16,3148,3,00:00,"(:00) (No Huddle, Shotgun) K.Moreno up the middle to WAS 1 for no gain (B.Rambo).",1,3,82,WAS 1,0,DEN,
+16,2946,1,03:32,(3:32) P.Manning pass short left to E.Decker to DEN 49 for 8 yards (D.Amerson).,10,3,32,DEN 41,0,DEN,
+16,2970,2,03:10,(3:10) C.Anderson up the middle to WAS 49 for 2 yards (L.Fletcher).,2,3,34,DEN 49,0,DEN,
+16,2832,1,04:55,(4:55) (Shotgun) K.Moreno left end to DEN 20 for 3 yards (K.Golston).,10,3,11,DEN 17,0,DEN,
+16,3127,2,00:30,"(:30) (No Huddle, Shotgun) M.Ball up the middle to WAS 1 for 1 yard (N.Barnett).",2,3,82,WAS 2,0,DEN,
+19,3391,1,14:18,(14:18) (Shotgun) R.Griffin pass short left to J.Reed to WAS 28 for 8 yards (D.R-Cromartie).,10,4,8,WAS 20,0,WAS,
+19,3376,0,14:19,"M.Prater kicks 65 yards from DEN 35 to end zone, Touchback.",0,4,0,DEN 35,0,DEN,KICKOFF
+19,3447,1,13:17,"(13:17) R.Griffin sacked at WAS 24 for -10 yards (V.Miller). FUMBLES (V.Miller), RECOVERED by DEN-D.Wolfe at WAS 25. D.Wolfe to WAS 24 for 1 yard (T.Williams).",10,4,5,WAS 34,0,WAS,FUMBLE
+19,3415,2,13:49,"(13:49) (Shotgun) A.Morris up the middle to WAS 34 for 6 yards (D.Trevathan). FUMBLES (D.Trevathan), recovered by WAS-L.Paulsen at WAS 34. L.Paulsen to WAS 34 for no gain (K.Vickerson).",2,4,5,WAS 28,0,WAS,FUMBLE
+18,3339,1,14:29,"(14:29) (Shotgun) P.Manning pass short middle to K.Moreno for 35 yards, TOUCHDOWN.",10,4,35,WAS 35,1,DEN,TD
+18,3360,0,14:19,"M.Prater extra point is GOOD, Center-A.Brewer, Holder-B.Colquitt.",0,4,35,WAS 2,1,DEN,XP

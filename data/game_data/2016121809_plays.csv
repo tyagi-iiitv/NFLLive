@@ -1,167 +1,167 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1345,3,08:42,,6,2,36,SF 42,0,SF,
-9,1299,1,09:22,,10,2,36,SF 38,0,SF,
-9,1364,4,08:15,,11,2,36,SF 37,0,SF,PUNT
-9,1257,2,10:31,,2,2,25,SF 9,0,SF,
-9,1233,1,11:06,,10,2,8,SF 1,0,SF,
-9,1278,1,09:55,,10,2,37,SF 26,0,SF,
-9,1323,2,08:45,,6,2,41,SF 42,0,SF,
-10,1426,2,07:17,,9,2,6,ATL 7,0,ATL,PENALTY
-10,1497,1,05:53,,10,2,65,ATL 42,0,ATL,
-10,1556,0,04:28,,0,2,94,SF 15,1,ATL,XP
-10,1473,1,06:31,,10,2,36,ATL 22,0,ATL,
-10,1539,1,04:36,,9,2,94,SF 9,1,ATL,TD
-10,1518,1,05:17,,10,2,94,SF 29,0,ATL,
-10,1405,1,08:00,,10,2,1,ATL 6,0,ATL,
-10,1449,2,07:06,,4,2,16,ATL 12,0,ATL,
-20,3207,2,09:01,,11,4,17,SF 23,0,SF,
-20,3186,1,09:43,,10,4,10,SF 24,0,SF,
-20,3277,2,07:44,,10,4,38,SF 45,0,SF,
-20,3305,3,06:58,,10,4,38,SF 45,0,SF,
-20,3118,1,10:51,,10,4,4,SF 13,0,SF,
-20,3255,1,07:50,,10,4,32,SF 45,0,SF,
-20,3231,3,08:24,,4,4,32,SF 30,0,SF,
-20,3165,2,10:11,,11,4,11,SF 12,0,SF,
-20,3142,2,10:22,,6,4,-1,SF 17,0,SF,PENALTY
-20,3329,4,06:23,,4,4,38,ATL 49,0,SF,PUNT
-6,668,2,04:39,,12,1,28,SF 43,0,ATL,
-6,868,3,00:47,,9,1,55,SF 9,1,ATL,TD
-6,761,0,02:21,,0,1,46,,0,,TIMEOUT
-6,778,3,02:21,,3,1,54,SF 9,0,ATL,
-6,605,1,06:31,,10,1,5,ATL 45,0,ATL,
-6,846,2,00:54,,9,1,46,SF 9,0,ATL,
-6,802,1,01:50,,1,1,49,SF 1,0,ATL,PENALTY
-6,716,1,03:40,,10,1,42,SF 16,0,ATL,
-6,825,1,01:31,,6,1,46,SF 6,0,ATL,
-6,888,0,00:40,,0,1,55,SF 15,1,ATL,XP
-6,737,2,03:08,,7,1,46,SF 13,0,ATL,
-6,647,1,05:21,,10,1,12,SF 41,0,ATL,
-6,626,2,05:55,,5,1,14,50,0,ATL,
-6,692,1,04:09,,10,1,39,SF 27,0,ATL,
-18,2867,3,01:01,,2,3,8,SF 32,0,SF,
-18,2843,2,01:31,,10,3,8,SF 24,0,SF,
-18,2821,1,01:34,,10,3,0,SF 24,0,SF,
-18,2799,0,01:42,,0,3,0,ATL 35,0,ATL,KICKOFF
-18,2889,4,00:54,,2,3,8,SF 32,0,SF,PUNT
-1,103,3,13:51,,1,1,9,SF 32,0,SF,
-1,125,4,13:45,,1,1,9,SF 32,0,SF,PUNT
-1,58,1,14:52,,10,1,6,SF 23,0,SF,
-1,82,2,14:22,,4,1,9,SF 29,0,SF,
-1,36,0,15:00,,0,1,0,ATL 35,0,ATL,KICKOFF
-5,586,4,06:40,,11,1,-1,SF 12,0,SF,PUNT
-5,499,0,07:40,,0,1,0,ATL 35,0,ATL,KICKOFF
-5,564,3,06:44,,11,1,-1,SF 12,0,SF,
-5,543,2,07:30,,10,1,-1,SF 13,0,SF,
-5,521,1,07:34,,10,1,0,SF 13,0,SF,
-13,2045,2,14:21,,7,3,11,ATL 28,0,ATL,
-13,2009,0,15:00,,0,3,0,SF 35,0,SF,KICKOFF
-13,2154,3,12:05,,3,3,27,SF 42,0,ATL,PENALTY
-13,2231,3,11:09,,9,3,27,SF 36,0,ATL,FUMBLE
-13,2090,2,13:14,,1,3,26,ATL 45,0,ATL,
-13,2176,1,11:58,,10,3,38,SF 37,0,ATL,
-13,2111,1,12:46,,10,3,26,SF 49,0,ATL,
-13,2133,2,12:40,,10,3,33,SF 49,0,ATL,
-13,2263,4,10:22,,21,3,27,SF 48,0,ATL,PUNT
-13,2069,1,13:47,,10,3,20,ATL 36,0,ATL,
-13,2210,2,11:54,,10,3,39,SF 37,0,ATL,
-13,2024,1,15:00,,10,3,3,ATL 25,0,ATL,
-21,3369,1,05:32,,10,4,47,SF 46,0,ATL,
-21,3390,2,04:49,,8,4,66,SF 44,0,ATL,
-21,3348,1,06:15,,10,4,45,ATL 9,0,ATL,
-21,3480,0,02:00,,0,4,66,,0,,
-21,3459,2,02:38,,11,4,66,SF 28,0,ATL,
-21,3497,3,02:00,,8,4,68,SF 25,0,ATL,
-21,3438,1,03:22,,10,4,63,SF 27,0,ATL,
-21,3541,4,01:13,,6,4,68,SF 23,1,ATL,FG
-21,3414,3,04:08,,7,4,64,SF 43,0,ATL,
-21,3518,0,01:13,,0,4,68,,0,,TIMEOUT
-11,1713,3,02:00,,8,2,64,SF 40,0,SF,
-11,1696,0,02:00,,0,2,15,,0,,
-11,1823,2,00:36,,3,2,75,ATL 28,0,SF,PENALTY
-11,1609,2,04:24,,10,2,-1,SF 25,0,SF,
-11,1880,2,00:24,,10,2,70,ATL 11,0,SF,
-11,1941,0,00:13,,0,2,75,ATL 15,0,SF,XPM
-11,1675,2,02:33,,8,2,15,SF 40,0,SF,
-11,1921,3,00:17,,4,2,75,ATL 5,1,SF,TD
-11,1858,1,00:28,,10,2,75,ATL 11,0,SF,
-11,1904,0,00:17,,0,2,70,,0,,TIMEOUT
-11,1572,0,04:28,,0,2,0,ATL 35,0,ATL,KICKOFF
-11,1654,1,03:08,,10,2,15,SF 38,0,SF,
-11,1630,3,03:48,,11,2,13,SF 24,0,SF,
-11,1799,1,00:55,,10,2,47,ATL 35,0,SF,
-11,1761,2,01:06,,6,2,40,ATL 44,0,SF,
-11,1737,1,01:32,,10,2,31,ATL 48,0,SF,
-11,1782,0,00:55,,0,2,40,,0,,TIMEOUT
-11,1587,1,04:28,,10,2,0,SF 25,0,SF,
-14,2282,1,10:15,,10,3,0,SF 7,0,SF,
-14,2325,3,09:33,,7,3,3,SF 10,0,SF,
-14,2304,2,10:09,,10,3,3,SF 7,0,SF,
-14,2347,4,09:28,,7,3,3,SF 10,0,SF,PUNT
-8,1131,1,12:45,,10,2,74,ATL 25,0,ATL,
-8,1201,1,11:21,,1,2,74,SF 1,0,ATL,FUMBLE
-8,1155,1,12:15,,10,2,65,SF 16,0,ATL,
-8,1116,0,12:45,,0,2,0,SF 35,0,SF,KICKOFF
-8,1180,2,11:45,,4,2,74,SF 10,0,ATL,
-19,3056,2,11:48,,12,4,39,SF 39,0,ATL,
-19,2908,1,00:45,,10,3,6,ATL 22,0,ATL,
-19,2945,2,15:00,,4,4,7,ATL 28,0,ATL,
-19,3099,4,11:00,,12,4,39,SF 39,0,ATL,PUNT
-19,2966,3,14:35,,3,4,11,ATL 29,0,ATL,
-19,3077,3,11:06,,12,4,39,SF 39,0,ATL,
-19,2929,0,,,0,3,6,,0,,
-19,3035,1,12:26,,10,4,39,SF 37,0,ATL,
-19,3011,2,13:16,,10,4,41,ATL 33,0,ATL,
-19,2990,1,13:52,,10,4,11,ATL 33,0,ATL,
-22,3603,2,00:34,,6,4,13,SF 26,0,SF,
-22,3624,0,00:00,,0,4,13,,0,,
-22,3582,1,01:02,,10,4,4,SF 22,0,SF,
-22,3560,0,01:09,,0,4,0,ATL 35,0,ATL,KICKOFF
-12,1957,0,00:13,,0,2,0,SF 35,0,SF,KICKOFF
-12,1972,1,00:13,,10,2,-1,ATL 25,0,ATL,
-12,1993,0,,,0,2,-1,,0,,
-16,2596,2,04:34,,23,3,18,SF 26,0,SF,
-16,2556,3,05:53,,2,3,14,SF 33,0,SF,
-16,2617,3,04:09,,6,3,18,SF 43,0,SF,
-16,2513,1,06:29,,10,3,0,SF 25,0,SF,
-16,2577,1,05:14,,10,3,1,SF 39,0,SF,
-16,2494,0,06:29,,0,3,0,ATL 35,0,ATL,KICKOFF
-16,2639,4,04:06,,6,3,18,SF 43,0,SF,PUNT
-16,2535,2,06:25,,10,3,8,SF 25,0,SF,
-7,904,0,00:40,,0,1,0,ATL 35,0,ATL,KICKOFF
-7,943,0,,,0,1,12,,0,,
-7,919,1,00:40,,10,1,12,SF 25,0,SF,
-7,1024,3,13:45,,14,2,75,SF 33,0,SF,
-7,1051,1,13:19,,10,2,59,ATL 22,0,SF,
-7,983,0,14:22,,0,2,3,,0,,TIMEOUT
-7,1080,2,12:50,,4,2,75,ATL 16,1,SF,TD
-7,1000,2,14:22,,19,2,8,SF 28,0,SF,
-7,1100,0,12:45,,0,2,75,ATL 15,1,SF,XP
-7,959,1,15:00,,10,2,3,SF 37,0,SF,
-3,343,2,09:45,,6,1,4,SF 49,0,SF,FUMBLE
-3,322,1,10:22,,10,1,4,SF 45,0,SF,
-3,300,0,10:31,,0,1,0,ATL 35,0,ATL,KICKOFF
-17,2689,1,03:38,,15,3,1,ATL 18,0,ATL,
-17,2710,2,02:58,,9,3,32,ATL 24,0,ATL,
-17,2734,1,02:12,,10,3,43,SF 45,0,ATL,PENALTY
-17,2657,1,03:58,,10,3,77,ATL 23,0,ATL,PENALTY
-17,2766,1,01:49,,10,3,77,SF 34,1,ATL,TD
-17,2783,0,01:42,,0,3,77,SF 15,1,ATL,XP
-4,441,1,07:54,,9,1,50,SF 9,0,ATL,
-4,396,2,09:03,,10,1,20,50,0,ATL,
-4,483,0,07:40,,0,1,50,SF 15,1,ATL,XP
-4,375,1,09:38,,10,1,0,50,0,ATL,
-4,463,2,07:48,,9,1,50,SF 9,1,ATL,TD
-4,420,1,08:33,,10,1,41,SF 30,0,ATL,
-2,284,0,10:31,,0,1,47,SF 15,1,ATL,XP
-2,216,2,11:46,,2,1,34,SF 13,0,ATL,
-2,150,1,13:28,,10,1,8,SF 47,0,ATL,
-2,195,1,12:16,,10,1,47,SF 21,0,ATL,
-2,267,1,10:35,,5,1,47,SF 5,1,ATL,TD
-2,243,3,11:06,,2,1,42,SF 13,0,ATL,
-2,171,2,12:51,,2,1,26,SF 39,0,ATL,
-15,2475,4,06:34,,4,3,25,SF 32,1,ATL,FG
-15,2453,3,06:38,,4,3,25,SF 32,0,ATL,
-15,2432,2,07:20,,5,3,25,SF 33,0,ATL,
-15,2366,1,09:19,,10,3,-2,ATL 43,0,ATL,
-15,2411,1,07:57,,10,3,24,SF 38,0,ATL,
-15,2387,2,08:44,,12,3,19,ATL 41,0,ATL,
+20,3207,2,09:01,"(9:01) (No Huddle, Shotgun) C.Kaepernick pass short left to J.Kerley to SF 30 for 7 yards (D.Jones).",11,4,17,SF 23,0,SF,
+20,3231,3,08:24,"(8:24) (No Huddle, Shotgun) C.Kaepernick pass short middle to A.Burbridge to SF 45 for 15 yards (B.Poole).",4,4,32,SF 30,0,SF,
+20,3305,3,06:58,(6:58) (Shotgun) C.Kaepernick pass short right to R.Streater to ATL 49 for 6 yards (R.Alford).,10,4,38,SF 45,0,SF,
+20,3118,1,10:51,(10:51) (Shotgun) C.Kaepernick pass short left to J.Kerley to SF 17 for 4 yards (D.Jones).,10,4,4,SF 13,0,SF,
+20,3186,1,09:43,(9:43) (Shotgun) C.Hyde left end to SF 23 for -1 yards (D.Jones; B.Poole).,10,4,10,SF 24,0,SF,
+20,3255,1,07:50,(7:50) (Shotgun) C.Kaepernick pass incomplete short middle to J.Hamm.,10,4,32,SF 45,0,SF,
+20,3277,2,07:44,"(7:44) (No Huddle, Shotgun) C.Kaepernick right end to SF 45 for no gain (B.Poole).",10,4,38,SF 45,0,SF,
+20,3142,2,10:22,"(10:22) (Shotgun) PENALTY on SF-T.Brown, False Start, 5 yards, enforced at SF 17 - No Play.",6,4,-1,SF 17,0,SF,PENALTY
+20,3329,4,06:23,"(6:23) B.Pinion punts 40 yards to ATL 9, Center-K.Nelson, fair catch by E.Weems.",4,4,38,ATL 49,0,SF,PUNT
+20,3165,2,10:11,(10:11) (Shotgun) C.Hyde right guard to SF 24 for 12 yards (K.Neal; R.Allen).,11,4,11,SF 12,0,SF,
+21,3438,1,03:22,(3:22) T.Ward left tackle to SF 28 for -1 yards (C.Jones).,10,4,63,SF 27,0,ATL,
+21,3390,2,04:49,(4:49) T.Ward right end to SF 43 for 1 yard (A.Brooks). ATL-A.Hooper was injured during the play. He is Out.,8,4,66,SF 44,0,ATL,
+21,3348,1,06:15,(6:15) T.Ward left guard pushed ob at SF 46 for 45 yards (M.Cromartie).,10,4,45,ATL 9,0,ATL,
+21,3518,0,01:13,Timeout #1 by ATL at 01:13.,0,4,68,,0,,TIMEOUT
+21,3369,1,05:32,(5:32) T.Ward left guard to SF 44 for 2 yards (M.Wilhoite).,10,4,47,SF 46,0,ATL,
+21,3480,0,02:00,Two-Minute Warning,0,4,66,,0,,
+21,3459,2,02:38,(2:38) T.Ward left end to SF 25 for 3 yards (T.Carradine; C.Jones).,11,4,66,SF 28,0,ATL,
+21,3414,3,04:08,(4:08) (Shotgun) M.Schaub pass short middle to J.Hardy to SF 27 for 16 yards (M.Ball).,7,4,64,SF 43,0,ATL,
+21,3497,3,02:00,(2:00) T.Ward left tackle to SF 23 for 2 yards (A.Brooks).,8,4,68,SF 25,0,ATL,
+21,3541,4,01:13,"(1:13) M.Bryant 41 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher.",6,4,68,SF 23,1,ATL,FG
+22,3603,2,00:34,"(:34) (Shotgun) S.Draughn right tackle to SF 35 for 9 yards (S.Neasman, P.Worrilow).",6,4,13,SF 26,0,SF,
+22,3560,0,01:09,M.Bosher kicks 58 yards from ATL 35 to SF 7. J.Shepherd to SF 22 for 15 yards (B.Reed).,0,4,0,ATL 35,0,ATL,KICKOFF
+22,3582,1,01:02,(1:02) S.Draughn right guard to SF 26 for 4 yards (L.Reynolds).,10,4,4,SF 22,0,SF,
+22,3624,0,00:00,END GAME,0,4,13,,0,,
+1,82,2,14:22,(14:22) (Shotgun) C.Hyde left guard to SF 32 for 3 yards (D.Jones; B.Reed).,4,1,9,SF 29,0,SF,
+1,103,3,13:51,(13:51) (Shotgun) C.Kaepernick pass incomplete short left to J.Kerley.,1,1,9,SF 32,0,SF,
+1,36,0,15:00,M.Bosher kicks 59 yards from ATL 35 to SF 6. J.Shepherd to SF 23 for 17 yards (E.Weems).,0,1,0,ATL 35,0,ATL,KICKOFF
+1,125,4,13:45,"(13:45) B.Pinion punts 57 yards to ATL 11, Center-K.Nelson. E.Weems pushed ob at SF 47 for 42 yards (B.Pinion).",1,1,9,SF 32,0,SF,PUNT
+1,58,1,14:52,"(14:52) (Shotgun) C.Kaepernick pass short right to G.Celek to SF 29 for 6 yards (K.Neal, D.Campbell).",10,1,6,SF 23,0,SF,
+3,300,0,10:31,M.Bosher kicks 61 yards from ATL 35 to SF 4. J.Shepherd to SF 45 for 41 yards (R.Alford; K.Neal).,0,1,0,ATL 35,0,ATL,KICKOFF
+3,322,1,10:22,(10:22) (Shotgun) C.Kaepernick scrambles right end to SF 49 for 4 yards (B.Poole).,10,1,4,SF 45,0,SF,
+3,343,2,09:45,"(9:45) (Shotgun) C.Hyde left end to SF 49 for no gain (D.Jones). FUMBLES (D.Jones), RECOVERED by ATL-K.Neal at 50. K.Neal to 50 for no gain (Z.Beadles).",6,1,4,SF 49,0,SF,FUMBLE
+2,216,2,11:46,(11:46) M.Ryan sacked at SF 13 for 0 yards (E.Harold).,2,1,34,SF 13,0,ATL,
+2,150,1,13:28,(13:28) D.Freeman left tackle to SF 39 for 8 yards (D.Buckner).,10,1,8,SF 47,0,ATL,
+2,195,1,12:16,(12:16) D.Freeman left end to SF 13 for 8 yards (N.Bellore; A.Bethea). SF-N.Bellore was injured during the play. He is Out.,10,1,47,SF 21,0,ATL,
+2,267,1,10:35,"(10:35) D.Freeman right tackle for 5 yards, TOUCHDOWN.",5,1,47,SF 5,1,ATL,TD
+2,243,3,11:06,(11:06) M.Ryan pass short right to J.Perkins pushed ob at SF 5 for 8 yards (V.Sunseri).,2,1,42,SF 13,0,ATL,
+2,284,0,10:31,"M.Bryant extra point is GOOD, Center-J.Harris, Holder-M.Bosher.",0,1,47,SF 15,1,ATL,XP
+2,171,2,12:51,(12:51) (Shotgun) M.Ryan pass short right to M.Sanu pushed ob at SF 21 for 18 yards (J.Ward).,2,1,26,SF 39,0,ATL,
+5,586,4,06:40,"(6:40) B.Pinion punts 43 yards to ATL 45, Center-K.Nelson, fair catch by E.Weems.",11,1,-1,SF 12,0,SF,PUNT
+5,543,2,07:30,(7:30) (Shotgun) C.Hyde left guard to SF 12 for -1 yards (B.Reed).,10,1,-1,SF 13,0,SF,
+5,564,3,06:44,(6:44) (Shotgun) C.Kaepernick pass incomplete deep middle to A.Burbridge.,11,1,-1,SF 12,0,SF,
+5,499,0,07:40,M.Bosher kicks 68 yards from ATL 35 to SF -3. J.Shepherd to SF 13 for 16 yards (J.Perkins).,0,1,0,ATL 35,0,ATL,KICKOFF
+5,521,1,07:34,(7:34) (Shotgun) C.Kaepernick pass incomplete short right to G.Celek.,10,1,0,SF 13,0,SF,
+4,375,1,09:38,(9:38) T.Coleman left guard to 50 for no gain (G.Dorsey).,10,1,0,50,0,ATL,
+4,441,1,07:54,(7:54) M.Ryan pass incomplete short left to J.Hardy.,9,1,50,SF 9,0,ATL,
+4,463,2,07:48,"(7:48) M.Ryan pass short left to T.Gabriel for 9 yards, TOUCHDOWN.",9,1,50,SF 9,1,ATL,TD
+4,396,2,09:03,(9:03) M.Ryan pass short right to T.Gabriel to SF 30 for 20 yards (A.Bethea).,10,1,20,50,0,ATL,
+4,420,1,08:33,(8:33) T.Coleman right end to SF 9 for 21 yards (M.Purcell).,10,1,41,SF 30,0,ATL,
+4,483,0,07:40,"M.Bryant extra point is GOOD, Center-J.Harris, Holder-M.Bosher.",0,1,50,SF 15,1,ATL,XP
+7,959,1,15:00,(15:00) (Shotgun) C.Kaepernick pass short middle to Q.Patton to SF 28 for -9 yards (R.Alford).,10,2,3,SF 37,0,SF,
+7,1024,3,13:45,(13:45) (Shotgun) C.Kaepernick pass deep middle to B.Bell to ATL 22 for 45 yards (K.Neal; R.Allen). SF-B.Bell was injured during the play. He is Out.,14,2,75,SF 33,0,SF,
+7,904,0,00:40,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback.",0,1,0,ATL 35,0,ATL,KICKOFF
+7,1051,1,13:19,(13:19) (Shotgun) C.Kaepernick pass short left to C.Harper pushed ob at ATL 16 for 6 yards (D.Olatoye).,10,2,59,ATL 22,0,SF,
+7,983,0,14:22,Timeout #1 by SF at 14:22.,0,2,3,,0,,TIMEOUT
+7,1080,2,12:50,"(12:50) (Shotgun) C.Kaepernick pass short left to G.Celek for 16 yards, TOUCHDOWN.",4,2,75,ATL 16,1,SF,TD
+7,943,0,,END QUARTER 1,0,1,12,,0,,
+7,919,1,00:40,(:40) (Shotgun) C.Kaepernick pass short middle to Q.Patton to SF 37 for 12 yards (B.Poole).,10,1,12,SF 25,0,SF,
+7,1100,0,12:45,"P.Dawson extra point is GOOD, Center-K.Nelson, Holder-B.Pinion.",0,2,75,ATL 15,1,SF,XP
+7,1000,2,14:22,(14:22) (Shotgun) C.Kaepernick pass short left to J.Kerley to SF 33 for 5 yards (K.Neal).,19,2,8,SF 28,0,SF,
+6,605,1,06:31,(6:31) D.Freeman right end to 50 for 5 yards (A.Brooks).,10,1,5,ATL 45,0,ATL,
+6,692,1,04:09,(4:09) M.Ryan pass short right to A.Robinson to SF 16 for 11 yards (T.Brock).,10,1,39,SF 27,0,ATL,
+6,737,2,03:08,(3:08) M.Ryan pass short right to T.Coleman to SF 9 for 4 yards (A.Lynch).,7,1,46,SF 13,0,ATL,
+6,626,2,05:55,(5:55) D.Freeman right tackle to SF 41 for 9 yards (J.Tartt).,5,1,14,50,0,ATL,
+6,668,2,04:39,(4:39) (Shotgun) M.Ryan pass short middle to M.Sanu to SF 27 for 16 yards (J.Tartt).,12,1,28,SF 43,0,ATL,
+6,716,1,03:40,"(3:40) T.Coleman right end to SF 13 for 3 yards (A.Lynch, D.Buckner).",10,1,42,SF 16,0,ATL,
+6,761,0,02:21,Timeout #1 by ATL at 02:21.,0,1,46,,0,,TIMEOUT
+6,888,0,00:40,"M.Bryant extra point is GOOD, Center-J.Harris, Holder-M.Bosher.",0,1,55,SF 15,1,ATL,XP
+6,778,3,02:21,(2:21) (Shotgun) M.Ryan pass short right to D.Freeman pushed ob at SF 1 for 8 yards (V.Sunseri).,3,1,54,SF 9,0,ATL,
+6,647,1,05:21,(5:21) D.Freeman left end to SF 43 for -2 yards (T.Brock).,10,1,12,SF 41,0,ATL,
+6,825,1,01:31,(1:31) (Shotgun) T.Coleman left guard to SF 9 for -3 yards (D.Buckner).,6,1,46,SF 6,0,ATL,
+6,802,1,01:50,"(1:50) PENALTY on ATL-T.Compton, False Start, 5 yards, enforced at SF 1 - No Play.",1,1,49,SF 1,0,ATL,PENALTY
+6,846,2,00:54,(:54) (Shotgun) M.Ryan pass incomplete short right [G.Dorsey].,9,1,46,SF 9,0,ATL,
+6,868,3,00:47,"(:47) (Shotgun) M.Ryan pass short right to A.Hooper for 9 yards, TOUCHDOWN.",9,1,55,SF 9,1,ATL,TD
+9,1278,1,09:55,"(9:55) (No Huddle, Shotgun) C.Hyde right guard to SF 38 for 12 yards (R.Allen).",10,2,37,SF 26,0,SF,
+9,1323,2,08:45,(8:45) (Shotgun) C.Kaepernick pass incomplete short right to R.Streater.,6,2,41,SF 42,0,SF,
+9,1233,1,11:06,(11:06) (Shotgun) C.Kaepernick pass short left to C.Harper to SF 9 for 8 yards (K.Neal).,10,2,8,SF 1,0,SF,
+9,1345,3,08:42,(8:42) (Shotgun) C.Kaepernick sacked ob at SF 37 for -5 yards (V.Beasley).,6,2,36,SF 42,0,SF,
+9,1257,2,10:31,(10:31) (Shotgun) C.Hyde right tackle to SF 26 for 17 yards (B.Poole).,2,2,25,SF 9,0,SF,
+9,1364,4,08:15,"(8:15) B.Pinion punts 51 yards to ATL 12, Center-K.Nelson. E.Weems to SF 49 for 39 yards (J.Hamm; M.Ball). PENALTY on ATL-J.Hardy, Offensive Holding, 6 yards, enforced at ATL 12.",11,2,36,SF 37,0,SF,PUNT
+9,1299,1,09:22,"(9:22) (No Huddle, Shotgun) C.Hyde left guard to SF 42 for 4 yards (C.Upshaw). ATL-D.Campbell was injured during the play. He is Out.",10,2,36,SF 38,0,SF,
+8,1155,1,12:15,(12:15) D.Freeman right tackle to SF 10 for 6 yards (E.Harold).,10,2,65,SF 16,0,ATL,
+8,1131,1,12:45,(12:45) (Shotgun) M.Ryan pass short middle to A.Robinson pushed ob at SF 16 for 59 yards (J.Ward). SF-J.Ward was injured during the play. He is Out.,10,2,74,ATL 25,0,ATL,
+8,1201,1,11:21,"(11:21) (No Huddle) D.Freeman right guard to SF 1 for no gain (M.Wilhoite). FUMBLES (M.Wilhoite), RECOVERED by SF-M.Wilhoite at SF 1. The Replay Official reviewed the fumble ruling, and the play was Upheld. The ruling on the field stands.",1,2,74,SF 1,0,ATL,FUMBLE
+8,1180,2,11:45,(11:45) (No Huddle) D.Freeman right guard to SF 1 for 9 yards (D.Johnson).,4,2,74,SF 10,0,ATL,
+8,1116,0,12:45,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback.",0,2,0,SF 35,0,SF,KICKOFF
+11,1609,2,04:24,(4:24) (Shotgun) C.Hyde right guard to SF 24 for -1 yards (P.Worrilow; G.Jarrett).,10,2,-1,SF 25,0,SF,
+11,1630,3,03:48,(3:48) (Shotgun) C.Kaepernick pass short middle to A.Burbridge to SF 38 for 14 yards (K.Neal).,11,2,13,SF 24,0,SF,
+11,1799,1,00:55,(:55) (Shotgun) C.Kaepernick pass short left to J.Hamm to ATL 28 for 7 yards (K.Neal; R.Alford).,10,2,47,ATL 35,0,SF,
+11,1761,2,01:06,"(1:06) (No Huddle, Shotgun) C.Hyde right guard to ATL 35 for 9 yards (B.Poole; R.Alford).",6,2,40,ATL 44,0,SF,
+11,1782,0,00:55,Timeout #2 by SF at 00:55.,0,2,40,,0,,TIMEOUT
+11,1941,0,00:13,"P.Dawson extra point is No Good, Wide Left, Center-K.Nelson, Holder-B.Pinion.",0,2,75,ATL 15,0,SF,XPM
+11,1587,1,04:28,(4:28) (Shotgun) C.Kaepernick pass incomplete short middle to G.Celek.,10,2,0,SF 25,0,SF,
+11,1737,1,01:32,"(1:32) (No Huddle, Shotgun) C.Kaepernick pass short middle to J.Kerley to ATL 44 for 4 yards (K.Neal).",10,2,31,ATL 48,0,SF,
+11,1696,0,02:00,Two-Minute Warning,0,2,15,,0,,
+11,1921,3,00:17,"(:17) (Shotgun) C.Kaepernick pass short left to R.Streater for 5 yards, TOUCHDOWN.",4,2,75,ATL 5,1,SF,TD
+11,1858,1,00:28,(:28) (Shotgun) C.Kaepernick pass incomplete short left to J.Hamm.,10,2,75,ATL 11,0,SF,
+11,1823,2,00:36,"(:36) (No Huddle, Shotgun) C.Kaepernick pass short left to J.Hamm to ATL 22 for 6 yards (R.Alford). PENALTY on ATL-P.Worrilow, Unnecessary Roughness, 11 yards, enforced at ATL 22.",3,2,75,ATL 28,0,SF,PENALTY
+11,1675,2,02:33,"(2:33) (No Huddle, Shotgun) S.Draughn left guard to SF 40 for no gain (G.Jarrett; C.Upshaw).",8,2,15,SF 40,0,SF,
+11,1572,0,04:28,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback.",0,2,0,ATL 35,0,ATL,KICKOFF
+11,1904,0,00:17,Timeout #3 by SF at 00:17.,0,2,70,,0,,TIMEOUT
+11,1713,3,02:00,(2:00) (Shotgun) C.Kaepernick pass short right to C.Harper to ATL 48 for 12 yards (C.Goodwin; D.Jones).,8,2,64,SF 40,0,SF,
+11,1654,1,03:08,"(3:08) (No Huddle, Shotgun) S.Draughn left guard to SF 40 for 2 yards (P.Wheeler; C.Upshaw).",10,2,15,SF 38,0,SF,
+11,1880,2,00:24,(:24) (Shotgun) C.Kaepernick pass short left to C.Hyde to ATL 5 for 6 yards (K.Neal; D.Jones).,10,2,70,ATL 11,0,SF,
+10,1539,1,04:36,"(4:36) (No Huddle) D.Freeman right guard for 9 yards, TOUCHDOWN.",9,2,94,SF 9,1,ATL,TD
+10,1426,2,07:17,"(7:17) (Shotgun) PENALTY on SF-A.Brooks, Encroachment, 5 yards, enforced at ATL 7 - No Play.",9,2,6,ATL 7,0,ATL,PENALTY
+10,1556,0,04:28,"M.Bryant extra point is GOOD, Center-J.Harris, Holder-M.Bosher.",0,2,94,SF 15,1,ATL,XP
+10,1405,1,08:00,(8:00) T.Coleman right end to ATL 7 for 1 yard (T.Carradine).,10,2,1,ATL 6,0,ATL,
+10,1473,1,06:31,(6:31) (Shotgun) M.Ryan pass deep middle to A.Robinson to ATL 42 for 20 yards (J.Tartt).,10,2,36,ATL 22,0,ATL,
+10,1518,1,05:17,(5:17) (No Huddle) D.Freeman right end to SF 9 for 20 yards (J.Tartt).,10,2,94,SF 29,0,ATL,
+10,1497,1,05:53,(5:53) T.Coleman left guard to SF 29 for 29 yards (J.Tartt).,10,2,65,ATL 42,0,ATL,
+10,1449,2,07:06,(7:06) M.Ryan pass short left to M.Sanu to ATL 22 for 10 yards (M.Wilhoite; T.Brock).,4,2,16,ATL 12,0,ATL,
+13,2154,3,12:05,"(12:05) (Shotgun) M.Ryan pass incomplete deep right to T.Gabriel (T.Brock). PENALTY on SF-D.Buckner, Defensive Offside, 5 yards, enforced at SF 42 - No Play.",3,3,27,SF 42,0,ATL,PENALTY
+13,2045,2,14:21,(14:21) (Shotgun) M.Ryan pass short right to D.Freeman pushed ob at ATL 36 for 8 yards (A.Bethea).,7,3,11,ATL 28,0,ATL,
+13,2133,2,12:40,(12:40) T.Coleman left end to SF 42 for 7 yards (G.Dorsey).,10,3,33,SF 49,0,ATL,
+13,2231,3,11:09,"(11:09) (No Huddle, Shotgun) T.Coleman right end to SF 40 for -4 yards (A.Brooks). FUMBLES (A.Brooks), recovered by ATL-R.Schraeder at SF 48. R.Schraeder to SF 48 for no gain (A.Bethea).",9,3,27,SF 36,0,ATL,FUMBLE
+13,2024,1,15:00,(15:00) D.Freeman right guard to ATL 28 for 3 yards (A.Bethea).,10,3,3,ATL 25,0,ATL,
+13,2069,1,13:47,(13:47) D.Freeman right guard to ATL 45 for 9 yards (D.Buckner).,10,3,20,ATL 36,0,ATL,
+13,2210,2,11:54,(11:54) T.Coleman right end to SF 36 for 1 yard (Q.Dial; J.Tartt).,10,3,39,SF 37,0,ATL,
+13,2176,1,11:58,(11:58) (Shotgun) M.Ryan pass incomplete deep left to A.Robinson [K.Reaser].,10,3,38,SF 37,0,ATL,
+13,2090,2,13:14,(13:14) D.Freeman right tackle to SF 49 for 6 yards (A.Bethea).,1,3,26,ATL 45,0,ATL,
+13,2263,4,10:22,"(10:22) M.Bosher punts 41 yards to SF 7, Center-J.Harris, fair catch by J.Kerley.",21,3,27,SF 48,0,ATL,PUNT
+13,2111,1,12:46,(12:46) M.Ryan pass incomplete deep left to T.Gabriel.,10,3,26,SF 49,0,ATL,
+13,2009,0,15:00,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback.",0,3,0,SF 35,0,SF,KICKOFF
+12,1957,0,00:13,"B.Pinion kicks 65 yards from SF 35 to end zone, Touchback.",0,2,0,SF 35,0,SF,KICKOFF
+12,1993,0,,END QUARTER 2,0,2,-1,,0,,
+12,1972,1,00:13,(:13) M.Ryan kneels to ATL 24 for -1 yards.,10,2,-1,ATL 25,0,ATL,
+15,2475,4,06:34,"(6:34) M.Bryant 50 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher.",4,3,25,SF 32,1,ATL,FG
+15,2432,2,07:20,(7:20) (No Huddle) D.Freeman left tackle to SF 32 for 1 yard (A.Lynch).,5,3,25,SF 33,0,ATL,
+15,2453,3,06:38,(6:38) (Shotgun) M.Ryan pass incomplete short right to T.Gabriel (T.Brock).,4,3,25,SF 32,0,ATL,
+15,2411,1,07:57,(7:57) (No Huddle) D.Freeman right guard to SF 33 for 5 yards (A.Bethea).,10,3,24,SF 38,0,ATL,
+15,2387,2,08:44,(8:44) (Shotgun) M.Ryan pass short right to A.Robinson to SF 38 for 21 yards (M.Cromartie).,12,3,19,ATL 41,0,ATL,
+15,2366,1,09:19,(9:19) D.Freeman right guard to ATL 41 for -2 yards (A.Lynch).,10,3,-2,ATL 43,0,ATL,
+14,2282,1,10:15,(10:15) C.Kaepernick pass incomplete short right to G.Celek (R.Alford).,10,3,0,SF 7,0,SF,
+14,2304,2,10:09,"(10:09) (No Huddle, Shotgun) C.Hyde right guard to SF 10 for 3 yards (P.Worrilow, G.Jarrett).",10,3,3,SF 7,0,SF,
+14,2325,3,09:33,(9:33) (Shotgun) C.Kaepernick pass incomplete short right to C.Hyde (P.Worrilow).,7,3,3,SF 10,0,SF,
+14,2347,4,09:28,"(9:28) B.Pinion punts 47 yards to ATL 43, Center-K.Nelson, fair catch by E.Weems.",7,3,3,SF 10,0,SF,PUNT
+17,2734,1,02:12,"(2:12) (No Huddle) D.Freeman left end to SF 39 for 6 yards (A.Bethea). PENALTY on SF-R.Robinson, Illegal Use of Hands, 5 yards, enforced at SF 39.",10,3,43,SF 45,0,ATL,PENALTY
+17,2710,2,02:58,(2:58) M.Ryan pass short left to T.Gabriel to SF 45 for 31 yards (A.Bethea).,9,3,32,ATL 24,0,ATL,
+17,2783,0,01:42,"M.Bryant extra point is GOOD, Center-J.Harris, Holder-M.Bosher.",0,3,77,SF 15,1,ATL,XP
+17,2657,1,03:58,"(3:58) T.Coleman right guard to ATL 32 for 9 yards (C.Jones). PENALTY on ATL-T.Gabriel, Illegal Shift, 5 yards, enforced at ATL 23 - No Play.",10,3,77,ATL 23,0,ATL,PENALTY
+17,2766,1,01:49,"(1:49) D.Freeman left end for 34 yards, TOUCHDOWN.",10,3,77,SF 34,1,ATL,TD
+17,2689,1,03:38,(3:38) T.Coleman right end to ATL 24 for 6 yards (J.Tartt).,15,3,1,ATL 18,0,ATL,
+16,2617,3,04:09,(4:09) (Shotgun) C.Kaepernick pass incomplete short middle to J.Kerley (K.Neal).,6,3,18,SF 43,0,SF,
+16,2596,2,04:34,(4:34) (Shotgun) C.Kaepernick right end ran ob at SF 43 for 17 yards (R.Allen).,23,3,18,SF 26,0,SF,
+16,2639,4,04:06,"(4:06) B.Pinion punts 34 yards to ATL 23, Center-K.Nelson, out of bounds.",6,3,18,SF 43,0,SF,PUNT
+16,2556,3,05:53,(5:53) (Shotgun) C.Hyde left end to SF 39 for 6 yards (R.Alford).,2,3,14,SF 33,0,SF,
+16,2577,1,05:14,(5:14) (Shotgun) C.Kaepernick sacked at SF 26 for -13 yards (R.Hageman).,10,3,1,SF 39,0,SF,
+16,2494,0,06:29,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback.",0,3,0,ATL 35,0,ATL,KICKOFF
+16,2513,1,06:29,(6:29) (Shotgun) C.Kaepernick pass incomplete short left to J.Kerley (B.Reed).,10,3,0,SF 25,0,SF,
+16,2535,2,06:25,(6:25) (Shotgun) C.Hyde left tackle to SF 33 for 8 yards (D.Jones; K.Neal).,10,3,8,SF 25,0,SF,
+19,2929,0,,END QUARTER 3,0,3,6,,0,,
+19,2966,3,14:35,(14:35) (Shotgun) M.Ryan pass short right to T.Coleman to ATL 33 for 4 yards (M.Wilhoite).,3,4,11,ATL 29,0,ATL,
+19,3011,2,13:16,(13:16) M.Ryan pass deep left to L.Toilolo to SF 37 for 30 yards (A.Bethea).,10,4,41,ATL 33,0,ATL,
+19,2990,1,13:52,(13:52) D.Freeman left end to ATL 33 for no gain (Q.Dial; T.Carradine).,10,4,11,ATL 33,0,ATL,
+19,3035,1,12:26,(12:26) T.Coleman right guard to SF 39 for -2 yards (J.Tartt).,10,4,39,SF 37,0,ATL,
+19,2908,1,00:45,(:45) T.Coleman left guard to ATL 28 for 6 yards (M.Cromartie).,10,3,6,ATL 22,0,ATL,
+19,3077,3,11:06,(11:06) (Shotgun) M.Ryan pass incomplete deep left to T.Gabriel.,12,4,39,SF 39,0,ATL,
+19,3056,2,11:48,(11:48) (Shotgun) T.Coleman right end to SF 39 for no gain (M.Wilhoite).,12,4,39,SF 39,0,ATL,
+19,2945,2,15:00,(15:00) T.Coleman left guard to ATL 29 for 1 yard (M.Wilhoite).,4,4,7,ATL 28,0,ATL,
+19,3099,4,11:00,"(11:00) M.Bosher punts 26 yards to SF 13, Center-J.Harris, fair catch by J.Kerley.",12,4,39,SF 39,0,ATL,PUNT
+18,2889,4,00:54,"(:54) B.Pinion punts 46 yards to ATL 22, Center-K.Nelson, fair catch by E.Weems.",2,3,8,SF 32,0,SF,PUNT
+18,2799,0,01:42,M.Bosher kicks 64 yards from ATL 35 to SF 1. J.Shepherd to SF 24 for 23 yards (L.Reynolds).,0,3,0,ATL 35,0,ATL,KICKOFF
+18,2867,3,01:01,(1:01) (Shotgun) C.Kaepernick pass incomplete short right to C.Hyde (K.Neal).,2,3,8,SF 32,0,SF,
+18,2821,1,01:34,(1:34) (Shotgun) C.Kaepernick pass incomplete short left to G.Celek (P.Worrilow) [B.Reed].,10,3,0,SF 24,0,SF,
+18,2843,2,01:31,(1:31) (Shotgun) C.Kaepernick pass short right to J.Kerley to SF 32 for 8 yards (R.Allen).,10,3,8,SF 24,0,SF,

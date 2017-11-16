@@ -1,148 +1,148 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1270,1,09:18,,10,2,59,TB 22,0,CAR,
-9,1336,1,07:18,,9,2,76,TB 9,0,CAR,
-9,1133,2,11:46,,9,2,17,CAR 20,0,CAR,
-9,1312,3,08:03,,7,2,72,TB 19,0,CAR,
-9,1291,2,08:46,,10,2,62,TB 22,0,CAR,
-9,1157,1,11:14,,10,2,28,CAR 36,0,CAR,
-9,1227,1,09:58,,10,2,42,TB 39,0,CAR,
-9,1379,3,06:31,,5,2,76,TB 5,0,CAR,
-9,1203,2,10:34,,10,2,42,CAR 47,0,CAR,
-9,1181,1,10:40,,10,2,28,CAR 47,0,CAR,
-9,1100,1,12:28,,10,2,1,CAR 19,0,CAR,
-9,1401,4,06:26,,5,2,76,TB 5,1,CAR,FG
-9,1357,2,06:38,,5,2,76,TB 5,0,CAR,
-9,1249,2,09:52,,10,2,59,TB 39,0,CAR,
-10,1510,4,04:36,,19,2,-14,TB 11,0,TB,PENALTY
-10,1420,0,06:23,,0,2,0,CAR 35,0,CAR,KICKOFF
-10,1459,2,05:48,,11,2,0,TB 19,0,TB,
-10,1435,1,06:23,,10,2,-1,TB 20,0,TB,
-10,1480,3,05:07,,10,2,-9,TB 20,0,TB,
-10,1537,4,04:23,,24,2,-14,TB 6,0,TB,PUNT
-20,3064,2,04:51,,19,4,-10,CAR 36,0,CAR,
-20,2994,1,05:27,,10,4,-10,CAR 45,0,CAR,PENALTY
-20,3085,0,04:47,,0,4,-11,,0,,TIMEOUT
-20,3126,0,04:41,,0,4,-6,,0,,TIMEOUT
-20,3026,1,04:58,,20,4,-9,CAR 35,0,CAR,
-20,3143,4,04:41,,11,4,-1,CAR 44,0,CAR,PUNT
-20,3047,0,04:51,,0,4,-9,,0,,TIMEOUT
-20,3102,3,04:47,,20,4,-1,CAR 35,0,CAR,
-6,671,1,04:40,,10,1,-2,CAR 32,0,TB,
-6,769,4,02:19,,13,1,-3,CAR 35,1,TB,FG
-6,745,3,03:03,,20,1,-3,CAR 42,0,TB,
-6,724,2,03:45,,22,1,-10,CAR 44,0,TB,
-6,692,2,04:06,,12,1,-12,CAR 34,0,TB,PENALTY
-18,2739,3,09:57,,9,4,57,TB 32,0,CAR,
-18,2843,4,06:43,,1,4,66,TB 5,1,CAR,FG
-18,2697,1,11:24,,10,4,39,TB 33,0,CAR,
-18,2673,3,12:03,,1,4,39,TB 48,0,CAR,
-18,2628,1,13:39,,10,4,19,CAR 43,0,CAR,
-18,2649,2,12:49,,5,4,23,CAR 48,0,CAR,
-18,2763,1,09:06,,10,4,61,TB 14,0,CAR,
-18,2826,0,06:43,,0,4,66,,0,,TIMEOUT
-18,2784,2,08:19,,6,4,64,TB 10,0,CAR,
-18,2586,2,15:00,,4,4,9,CAR 35,0,CAR,
-18,2718,2,10:42,,9,4,39,TB 32,0,CAR,
-18,2805,3,07:27,,3,4,66,TB 7,0,CAR,
-18,2549,1,00:25,,10,3,6,CAR 29,0,CAR,
-18,2607,3,14:22,,1,4,14,CAR 38,0,CAR,
-1,103,3,13:51,,5,1,5,CAR 21,0,CAR,
-1,125,4,13:45,,5,1,5,CAR 21,0,CAR,PUNT
-1,58,1,14:56,,10,1,2,CAR 16,0,CAR,
-1,82,2,14:33,,8,1,5,CAR 18,0,CAR,
-1,36,0,15:00,,0,1,0,TB 35,0,TB,KICKOFF
-5,601,1,04:59,,10,1,0,CAR 28,0,CAR,
-5,623,2,04:53,,10,1,0,CAR 28,0,CAR,
-5,645,3,04:50,,10,1,0,CAR 28,0,CAR,INT
-13,1879,2,14:28,,9,3,26,TB 21,0,TB,
-13,1925,2,13:11,,1,3,26,TB 46,0,TB,INT
-13,1904,1,13:49,,10,3,26,TB 37,0,TB,
-13,1843,0,15:00,,0,3,0,CAR 35,0,CAR,KICKOFF
-13,1858,1,15:00,,10,3,1,TB 20,0,TB,
-21,3222,2,04:03,,13,4,-8,TB 17,0,TB,
-21,3189,2,04:12,,3,4,-3,TB 27,0,TB,PENALTY
-21,3165,1,04:34,,10,4,7,TB 20,0,TB,
-21,3241,3,03:38,,18,4,0,TB 12,0,TB,TIMEOUT
-21,3282,4,02:46,,10,4,0,TB 20,0,TB,
-11,1775,0,00:25,,0,2,49,TB 2,1,CAR,XP
-11,1716,0,00:30,,0,2,48,,0,,TIMEOUT
-11,1674,2,02:00,,3,2,46,TB 3,0,CAR,
-11,1636,1,02:26,,8,2,46,TB 8,0,CAR,
-11,1584,2,04:04,,10,2,11,TB 49,0,CAR,
-11,1754,4,00:30,,1,2,49,TB 1,1,CAR,TD
-11,1695,3,01:16,,3,2,48,TB 3,0,CAR,
-11,1612,1,03:17,,10,2,41,TB 38,0,CAR,
-11,1737,0,00:30,,0,2,48,,0,,TIMEOUT
-11,1562,1,04:10,,10,2,0,TB 49,0,CAR,
-14,1962,1,13:00,,10,3,2,CAR 22,0,CAR,
-14,1983,2,12:27,,8,3,78,CAR 24,0,CAR,
-14,2031,1,10:58,,10,3,78,TB 36,1,CAR,TD
-14,2007,1,11:35,,10,3,42,CAR 36,0,CAR,
-14,2051,0,10:50,,0,3,78,TB 2,1,CAR,XP
-8,1011,1,13:30,,4,2,80,CAR 4,0,TB,
-8,929,1,15:00,,10,2,15,TB 28,0,TB,
-8,885,1,00:05,,10,1,15,TB 16,0,TB,
-8,1058,3,12:38,,4,2,65,CAR 4,0,TB,FUMBLE
-8,1032,2,12:46,,4,2,80,CAR 4,0,TB,
-8,950,2,14:28,,7,2,20,TB 31,0,TB,PENALTY
-8,987,1,14:23,,10,2,80,TB 36,0,TB,
-19,2957,3,06:08,,7,4,-1,TB 23,0,TB,
-19,2976,4,05:35,,11,4,-1,TB 19,0,TB,PUNT
-19,2906,2,06:29,,10,4,-5,TB 20,0,TB,PENALTY
-19,2929,2,06:29,,15,4,-1,TB 15,0,TB,
-19,2884,1,06:34,,10,4,0,TB 20,0,TB,
-19,2862,0,06:40,,0,4,0,CAR 35,0,CAR,KICKOFF
-22,3397,4,00:30,,1,4,11,TB 11,0,CAR,
-22,3317,1,02:38,,10,4,6,TB 20,0,CAR,
-22,3418,0,00:00,,0,4,11,,0,,
-22,3376,3,01:17,,3,4,9,TB 13,0,CAR,
-22,3338,0,02:00,,0,4,6,,0,,
-22,3355,2,01:59,,4,4,7,TB 14,0,CAR,
-12,1806,1,00:25,,10,2,-1,TB 20,0,TB,
-12,1791,0,00:25,,0,2,0,CAR 35,0,CAR,KICKOFF
-16,2346,2,05:32,,10,3,6,CAR 38,0,CAR,
-16,2324,1,05:37,,10,3,40,CAR 38,0,CAR,
-16,2416,1,03:21,,10,3,40,TB 23,0,CAR,
-16,2395,1,04:01,,10,3,39,TB 39,0,CAR,
-16,2437,2,02:33,,9,3,40,TB 22,0,CAR,INT
-16,2371,3,04:53,,4,3,23,CAR 44,0,CAR,
-7,824,2,01:42,,7,1,5,CAR 23,0,CAR,
-7,788,0,02:14,,0,1,0,TB 35,0,TB,KICKOFF
-7,803,1,02:14,,10,1,3,CAR 20,0,CAR,
-7,845,3,00:56,,5,1,9,CAR 25,0,CAR,
-7,866,4,00:15,,1,1,9,CAR 29,0,CAR,PUNT
-3,444,2,06:15,,11,1,83,TB 16,1,CAR,TD
-3,469,0,06:08,,0,1,83,TB 2,1,CAR,XP
-3,402,2,07:54,,11,1,68,CAR 29,0,CAR,
-3,352,1,09:04,,10,1,13,CAR 17,0,CAR,
-3,381,1,08:35,,10,1,12,CAR 30,0,CAR,
-3,423,1,06:59,,10,1,67,TB 15,0,CAR,
-3,330,0,09:10,,0,1,0,TB 35,0,TB,KICKOFF
-17,2503,3,01:08,,14,3,0,TB 23,0,TB,
-17,2524,4,00:38,,10,3,0,TB 27,0,TB,PUNT
-17,2463,1,02:21,,10,3,-7,TB 27,0,TB,
-17,2482,2,01:52,,17,3,-4,TB 20,0,TB,
-4,522,2,05:59,,10,1,0,TB 20,0,TB,
-4,500,1,06:08,,10,1,0,TB 20,0,TB,
-4,485,0,06:08,,0,1,0,CAR 35,0,CAR,KICKOFF
-4,565,4,05:10,,10,1,0,TB 20,0,TB,PUNT
-4,543,3,05:20,,10,1,0,TB 20,0,TB,
-2,169,2,13:05,,9,1,17,TB 33,0,TB,
-2,242,1,11:19,,10,1,57,CAR 17,0,TB,
-2,287,3,09:57,,4,1,59,CAR 11,0,TB,
-2,193,1,12:38,,10,1,28,TB 49,0,TB,
-2,266,2,10:36,,5,1,57,CAR 12,0,TB,
-2,148,1,13:37,,10,1,1,TB 32,0,TB,
-2,214,1,12:02,,10,1,51,CAR 40,0,TB,
-2,311,4,09:14,,2,1,59,CAR 9,1,TB,FG
-15,2131,3,09:30,,4,3,26,TB 26,0,TB,
-15,2222,1,07:06,,10,3,50,CAR 33,0,TB,
-15,2180,1,08:19,,10,3,40,CAR 43,0,TB,
-15,2067,0,10:50,,0,3,0,CAR 35,0,CAR,KICKOFF
-15,2086,1,10:50,,10,3,-4,TB 20,0,TB,
-15,2250,2,06:26,,7,3,50,CAR 30,0,TB,
-15,2304,4,05:41,,7,3,50,CAR 30,0,TB,FGM
-15,2201,2,07:49,,7,3,47,CAR 40,0,TB,
-15,2278,3,05:45,,7,3,50,CAR 30,0,TB,
-15,2155,1,08:52,,10,3,37,TB 46,0,TB,
-15,2107,2,10:13,,14,3,6,TB 16,0,TB,
+20,3026,1,04:58,(4:58) J.Stewart left guard to CAR 36 for 1 yard (M.Barron; J.Casillas).,20,4,-9,CAR 35,0,CAR,
+20,2994,1,05:27,"(5:27) J.Stewart left tackle to CAR 45 for no gain (M.Foster). PENALTY on CAR-N.Chandler, Offensive Holding, 10 yards, enforced at CAR 45 - No Play.",10,4,-10,CAR 45,0,CAR,PENALTY
+20,3102,3,04:47,(4:47) (Shotgun) C.Newton pass short middle to B.LaFell to CAR 44 for 9 yards (D.Goldson; M.Barron).,20,4,-1,CAR 35,0,CAR,
+20,3126,0,04:41,Timeout #3 by TB at 04:41.,0,4,-6,,0,,TIMEOUT
+20,3143,4,04:41,"(4:41) B.Nortman punts 36 yards to TB 20, Center-J.Jansen, out of bounds.",11,4,-1,CAR 44,0,CAR,PUNT
+20,3064,2,04:51,(4:51) M.Tolbert right tackle to CAR 35 for -1 yards (L.David).,19,4,-10,CAR 36,0,CAR,
+20,3085,0,04:47,Timeout #2 by TB at 04:47.,0,4,-11,,0,,TIMEOUT
+20,3047,0,04:51,Timeout #1 by TB at 04:51.,0,4,-9,,0,,TIMEOUT
+21,3241,3,03:38,"(3:38) (No Huddle, Shotgun) M.Glennon pass short right to V.Jackson to TB 20 for 8 yards (C.Munnerlyn). Carolina challenged the fumble ruling, and the play was Upheld. (Timeout #2.)",18,4,0,TB 12,0,TB,TIMEOUT
+21,3165,1,04:34,(4:34) (Shotgun) M.Glennon pass short left to V.Jackson to TB 27 for 7 yards (L.Kuechly).,10,4,7,TB 20,0,TB,
+21,3189,2,04:12,"(4:12) (No Huddle, Shotgun) M.Glennon pass incomplete deep left to T.Wright. PENALTY on TB-D.Joseph, Offensive Holding, 10 yards, enforced at TB 27 - No Play.",3,4,-3,TB 27,0,TB,PENALTY
+21,3282,4,02:46,(2:46) (Shotgun) M.Glennon pass incomplete short right to B.Rainey.,10,4,0,TB 20,0,TB,
+21,3222,2,04:03,(4:03) (Shotgun) M.Glennon sacked at TB 12 for -5 yards (W.Horton).,13,4,-8,TB 17,0,TB,
+22,3397,4,00:30,(:30) D.Anderson up the middle to TB 9 for 2 yards (K.Glaud).,1,4,11,TB 11,0,CAR,
+22,3376,3,01:17,(1:17) K.Barner left tackle to TB 11 for 2 yards (L.Johnson; D.Te'o-Nesheim).,3,4,9,TB 13,0,CAR,
+22,3355,2,01:59,(1:59) K.Barner left guard to TB 13 for 1 yard (K.McCray; A.Hayward).,4,4,7,TB 14,0,CAR,
+22,3317,1,02:38,(2:38) J.Stewart left guard to TB 14 for 6 yards (M.Foster).,10,4,6,TB 20,0,CAR,
+22,3338,0,02:00,Two-Minute Warning,0,4,6,,0,,
+22,3418,0,00:00,END GAME,0,4,11,,0,,
+1,82,2,14:33,(14:33) (Shotgun) J.Stewart up the middle to CAR 21 for 3 yards (L.David; A.Clayborn).,8,1,5,CAR 18,0,CAR,
+1,103,3,13:51,(13:51) (Shotgun) C.Newton pass incomplete deep right to B.LaFell (L.Johnson).,5,1,5,CAR 21,0,CAR,
+1,36,0,15:00,M.Koenen kicks 65 yards from TB 35 to CAR 0. T.Ginn to CAR 16 for 16 yards (J.Casillas).,0,1,0,TB 35,0,TB,KICKOFF
+1,125,4,13:45,"(13:45) B.Nortman punts 47 yards to TB 32, Center-J.Jansen, fair catch by E.Page.",5,1,5,CAR 21,0,CAR,PUNT
+1,58,1,14:56,(14:56) (Shotgun) C.Newton pass short left to J.Stewart pushed ob at CAR 18 for 2 yards (D.Revis).,10,1,2,CAR 16,0,CAR,
+3,469,0,06:08,"G.Gano extra point is GOOD, Center-J.Jansen, Holder-B.Nortman.",0,1,83,TB 2,1,CAR,XP
+3,330,0,09:10,M.Koenen kicks 66 yards from TB 35 to CAR -1. T.Ginn to CAR 17 for 18 yards (K.Glaud).,0,1,0,TB 35,0,TB,KICKOFF
+3,444,2,06:15,"(6:15) (Shotgun) C.Newton pass deep left to B.LaFell for 16 yards, TOUCHDOWN.",11,1,83,TB 16,1,CAR,TD
+3,381,1,08:35,(8:35) (Shotgun) J.Stewart up the middle to CAR 29 for -1 yards (A.Clayborn; A.Spence).,10,1,12,CAR 30,0,CAR,
+3,402,2,07:54,(7:54) (Shotgun) C.Newton scrambles left tackle to TB 15 for 56 yards (D.Goldson).,11,1,68,CAR 29,0,CAR,
+3,423,1,06:59,(6:59) J.Stewart right end to TB 16 for -1 yards (M.Foster; L.David).,10,1,67,TB 15,0,CAR,
+3,352,1,09:04,(9:04) C.Newton pass short left to G.Olsen pushed ob at CAR 30 for 13 yards (M.Foster).,10,1,13,CAR 17,0,CAR,
+2,214,1,12:02,(12:02) M.Glennon pass deep left to T.Underwood to CAR 17 for 23 yards (M.Mitchell).,10,1,51,CAR 40,0,TB,
+2,311,4,09:14,"(9:14) R.Lindell 27 yard field goal is GOOD, Center-A.Economos, Holder-M.Koenen.",2,1,59,CAR 9,1,TB,FG
+2,193,1,12:38,(12:38) B.Rainey left guard to CAR 40 for 11 yards (L.Kuechly). #72 Gabe Carimi reports as eligible,10,1,28,TB 49,0,TB,
+2,266,2,10:36,(10:36) (Shotgun) B.Rainey left guard to CAR 11 for 1 yard (F.Alexander; K.Short).,5,1,57,CAR 12,0,TB,
+2,242,1,11:19,(11:19) (Shotgun) M.Glennon pass short left to B.Rainey to CAR 12 for 5 yards (R.Lester).,10,1,57,CAR 17,0,TB,
+2,148,1,13:37,(13:37) B.Rainey up the middle to TB 33 for 1 yard (S.Lotulelei).,10,1,1,TB 32,0,TB,
+2,287,3,09:57,(9:57) (Shotgun) M.Glennon pass short left to B.Leonard to CAR 9 for 2 yards (T.Davis).,4,1,59,CAR 11,0,TB,
+2,169,2,13:05,(13:05) M.Glennon pass short left to T.Underwood pushed ob at TB 49 for 16 yards (M.Mitchell).,9,1,17,TB 33,0,TB,
+5,623,2,04:53,(4:53) (Shotgun) C.Newton pass incomplete short left to G.Olsen.,10,1,0,CAR 28,0,CAR,
+5,645,3,04:50,(4:50) (Shotgun) C.Newton pass deep left intended for B.LaFell INTERCEPTED by K.Tandy at TB 48. K.Tandy to CAR 32 for 20 yards (M.Tolbert).,10,1,0,CAR 28,0,CAR,INT
+5,601,1,04:59,(4:59) (Shotgun) C.Newton pass incomplete short right to T.Ginn.,10,1,0,CAR 28,0,CAR,
+4,543,3,05:20,(5:20) (Shotgun) M.Glennon pass incomplete deep left to C.Owusu (D.Florence).,10,1,0,TB 20,0,TB,
+4,485,0,06:08,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback.",0,1,0,CAR 35,0,CAR,KICKOFF
+4,522,2,05:59,(5:59) B.Rainey right guard to TB 20 for no gain (D.Edwards).,10,1,0,TB 20,0,TB,
+4,500,1,06:08,(6:08) M.Glennon pass incomplete deep right to T.Wright (C.Munnerlyn) [G.Hardy].,10,1,0,TB 20,0,TB,
+4,565,4,05:10,"(5:10) M.Koenen punts 48 yards to CAR 32, Center-A.Economos. T.Ginn pushed ob at CAR 47 for 15 yards (A.Hayward). PENALTY on CAR-J.Norman, Offensive Holding, 10 yards, enforced at CAR 38.",10,1,0,TB 20,0,TB,PUNT
+7,803,1,02:14,(2:14) J.Stewart right end to CAR 23 for 3 yards (J.Banks; M.Barron).,10,1,3,CAR 20,0,CAR,
+7,824,2,01:42,(1:42) M.Tolbert up the middle to CAR 25 for 2 yards (L.David).,7,1,5,CAR 23,0,CAR,
+7,845,3,00:56,(:56) (Shotgun) C.Newton scrambles right end to CAR 29 for 4 yards (J.Casillas).,5,1,9,CAR 25,0,CAR,
+7,788,0,02:14,"M.Koenen kicks 65 yards from TB 35 to end zone, Touchback.",0,1,0,TB 35,0,TB,KICKOFF
+7,866,4,00:15,"(:15) B.Nortman punts 55 yards to TB 16, Center-J.Jansen, fair catch by E.Page.",1,1,9,CAR 29,0,CAR,PUNT
+6,692,2,04:06,"(4:06) B.Rainey left end to CAR 35 for -1 yards (G.Hardy; C.Munnerlyn). PENALTY on TB-V.Jackson, Offensive Holding, 10 yards, enforced at CAR 34 - No Play.",12,1,-12,CAR 34,0,TB,PENALTY
+6,724,2,03:45,(3:45) (Shotgun) B.Rainey up the middle to CAR 42 for 2 yards (S.Lotulelei).,22,1,-10,CAR 44,0,TB,
+6,769,4,02:19,"(2:19) R.Lindell 53 yard field goal is GOOD, Center-A.Economos, Holder-M.Koenen.",13,1,-3,CAR 35,1,TB,FG
+6,671,1,04:40,(4:40) B.Rainey up the middle to CAR 34 for -2 yards (W.Horton; C.Munnerlyn).,10,1,-2,CAR 32,0,TB,
+6,745,3,03:03,(3:03) (Shotgun) M.Glennon pass short middle to T.Wright to CAR 35 for 7 yards (L.Kuechly).,20,1,-3,CAR 42,0,TB,
+9,1227,1,09:58,"(9:58) (No Huddle, Shotgun) C.Newton pass incomplete short right to T.Ginn.",10,2,42,TB 39,0,CAR,
+9,1312,3,08:03,(8:03) (Shotgun) C.Newton pass short middle to G.Olsen to TB 9 for 10 yards (K.Tandy; D.Goldson).,7,2,72,TB 19,0,CAR,
+9,1379,3,06:31,(6:31) (Shotgun) C.Newton pass incomplete short middle to M.Tolbert.,5,2,76,TB 5,0,CAR,
+9,1133,2,11:46,(11:46) (Shotgun) C.Newton pass short right to S.Smith to CAR 36 for 16 yards (D.Revis; W.Gholston).,9,2,17,CAR 20,0,CAR,
+9,1157,1,11:14,(11:14) (No Huddle) C.Newton pass short right to B.LaFell to CAR 47 for 11 yards (J.Banks).,10,2,28,CAR 36,0,CAR,
+9,1336,1,07:18,(7:18) J.Stewart left guard to TB 5 for 4 yards (L.David; D.Te'o-Nesheim).,9,2,76,TB 9,0,CAR,
+9,1357,2,06:38,(6:38) (Shotgun) C.Newton pass incomplete short left to G.Olsen.,5,2,76,TB 5,0,CAR,
+9,1203,2,10:34,(10:34) (Shotgun) C.Newton pass short left to M.Tolbert to TB 39 for 14 yards (D.Revis).,10,2,42,CAR 47,0,CAR,
+9,1181,1,10:40,(10:40) (No Huddle) C.Newton pass incomplete short right.,10,2,28,CAR 47,0,CAR,
+9,1270,1,09:18,"(9:18) (No Huddle, Shotgun) J.Stewart right end to TB 22 for no gain (L.David; M.Barron).",10,2,59,TB 22,0,CAR,
+9,1100,1,12:28,(12:28) C.Newton pass short right to J.Stewart to CAR 20 for 1 yard (J.Casillas; A.Clayborn).,10,2,1,CAR 19,0,CAR,
+9,1249,2,09:52,(9:52) (Shotgun) M.Tolbert right end to TB 22 for 17 yards (M.Barron).,10,2,59,TB 39,0,CAR,
+9,1401,4,06:26,"(6:26) G.Gano 23 yard field goal is GOOD, Center-J.Jansen, Holder-B.Nortman.",5,2,76,TB 5,1,CAR,FG
+9,1291,2,08:46,(8:46) (No Huddle) J.Stewart up the middle to TB 19 for 3 yards (D.Te'o-Nesheim).,10,2,62,TB 22,0,CAR,
+8,885,1,00:05,(:05) M.Glennon pass short right to T.Underwood to TB 28 for 12 yards (C.Munnerlyn). #72 Gabe Carimi reports as eligible,10,1,15,TB 16,0,TB,
+8,1058,3,12:38,"(12:38) (Shotgun) M.Glennon sacked at CAR 17 for -13 yards (Team). FUMBLES (Team), RECOVERED by CAR-D.Edwards at CAR 19. D.Edwards to CAR 19 for no gain (J.Zuttah).",4,2,65,CAR 4,0,TB,FUMBLE
+8,950,2,14:28,"(14:28) M.Glennon pass incomplete deep right to T.Wright. PENALTY on CAR-L.Kuechly, Illegal Contact, 5 yards, enforced at TB 31 - No Play.",7,2,20,TB 31,0,TB,PENALTY
+8,987,1,14:23,(14:23) M.Glennon pass deep right to V.Jackson to CAR 4 for 60 yards (D.Florence).,10,2,80,TB 36,0,TB,
+8,929,1,15:00,(15:00) B.Rainey right guard to TB 31 for 3 yards (L.Kuechly; Q.Mikell). #72 Gabe Carimi reports as eligible,10,2,15,TB 28,0,TB,
+8,1032,2,12:46,(12:46) (Shotgun) M.Glennon pass incomplete short right to T.Underwood (Q.Mikell).,4,2,80,CAR 4,0,TB,
+8,1011,1,13:30,(13:30) B.Rainey up the middle to CAR 4 for no gain (T.Davis; C.Cole). #72 Gabe Carimi reports as eligible,4,2,80,CAR 4,0,TB,
+11,1775,0,00:25,"G.Gano extra point is GOOD, Center-J.Jansen, Holder-B.Nortman.",0,2,49,TB 2,1,CAR,XP
+11,1716,0,00:30,Timeout #1 by CAR at 00:30.,0,2,48,,0,,TIMEOUT
+11,1636,1,02:26,(2:26) J.Stewart left end to TB 3 for 5 yards (M.Foster).,8,2,46,TB 8,0,CAR,
+11,1612,1,03:17,(3:17) (Shotgun) C.Newton pass short left to G.Olsen to TB 8 for 30 yards (K.Glaud).,10,2,41,TB 38,0,CAR,
+11,1584,2,04:04,(4:04) (Shotgun) C.Newton pass short left to T.Ginn to TB 38 for 11 yards (M.Barron).,10,2,11,TB 49,0,CAR,
+11,1695,3,01:16,(1:16) (Shotgun) M.Tolbert left guard to TB 1 for 2 yards (L.David). #63 Geoff Hangartner reports as eligible,3,2,48,TB 3,0,CAR,
+11,1737,0,00:30,Timeout #1 by TB at 00:30.,0,2,48,,0,,TIMEOUT
+11,1674,2,02:00,(2:00) (Shotgun) M.Tolbert up the middle to TB 3 for no gain (W.Gholston; J.Casillas).,3,2,46,TB 3,0,CAR,
+11,1562,1,04:10,(4:10) C.Newton pass incomplete deep middle to B.LaFell.,10,2,0,TB 49,0,CAR,
+11,1754,4,00:30,"(:30) (Shotgun) C.Newton up the middle for 1 yard, TOUCHDOWN. #63 Geoff Hangartner and #78 Nate Chandler reports as eligible.",1,2,49,TB 1,1,CAR,TD
+10,1420,0,06:23,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback.",0,2,0,CAR 35,0,CAR,KICKOFF
+10,1435,1,06:23,(6:23) M.Glennon pass short right to E.Lorig to TB 19 for -1 yards (A.Klein).,10,2,-1,TB 20,0,TB,
+10,1510,4,04:36,"(4:36) (Punt formation) PENALTY on TB-M.Koenen, Delay of Game, 5 yards, enforced at TB 11 - No Play.",19,2,-14,TB 11,0,TB,PENALTY
+10,1537,4,04:23,"(4:23) M.Koenen punts 54 yards to CAR 40, Center-A.Economos. T.Ginn to TB 49 for 11 yards (D.Gorrer).",24,2,-14,TB 6,0,TB,PUNT
+10,1480,3,05:07,"(5:07) (Shotgun) M.Glennon sacked at TB 11 for -9 yards (G.Hardy). Penalty on TB, Illegal Shift, declined.",10,2,-9,TB 20,0,TB,
+10,1459,2,05:48,(5:48) B.Rainey right guard to TB 20 for 1 yard (K.Short).,11,2,0,TB 19,0,TB,
+13,1843,0,15:00,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback.",0,3,0,CAR 35,0,CAR,KICKOFF
+13,1858,1,15:00,(15:00) B.Rainey up the middle to TB 21 for 1 yard (L.Kuechly).,10,3,1,TB 20,0,TB,
+13,1904,1,13:49,(13:49) B.Rainey left tackle to TB 46 for 9 yards (L.Kuechly; Q.Mikell).,10,3,26,TB 37,0,TB,
+13,1925,2,13:11,(13:11) M.Glennon pass deep right intended for V.Jackson INTERCEPTED by M.Mitchell at CAR 21. M.Mitchell to CAR 22 for 1 yard (V.Jackson).,1,3,26,TB 46,0,TB,INT
+13,1879,2,14:28,(14:28) B.Rainey right guard to TB 37 for 16 yards (M.Mitchell). #72 Gabe Carimi reports as eligible,9,3,26,TB 21,0,TB,
+12,1806,1,00:25,(:25) M.Glennon kneels to TB 19 for -1 yards.,10,2,-1,TB 20,0,TB,
+12,1791,0,00:25,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback.",0,2,0,CAR 35,0,CAR,KICKOFF
+15,2201,2,07:49,(7:49) (No Huddle) B.Rainey up the middle to CAR 33 for 7 yards (L.Kuechly; Q.Mikell). #72 Gabe Carimi reports as eligible,7,3,47,CAR 40,0,TB,
+15,2131,3,09:30,(9:30) (Shotgun) M.Glennon pass deep left to C.Owusu to TB 46 for 20 yards (Q.Mikell). #72 Gabe Carimi reports as eligible,4,3,26,TB 26,0,TB,
+15,2222,1,07:06,(7:06) (Shotgun) M.Glennon pass short middle to B.Rainey to CAR 30 for 3 yards (T.Davis; L.Kuechly).,10,3,50,CAR 33,0,TB,
+15,2086,1,10:50,(10:50) B.Rainey left end to TB 16 for -4 yards (A.Klein).,10,3,-4,TB 20,0,TB,
+15,2278,3,05:45,"(5:45) (No Huddle, Shotgun) M.Glennon pass incomplete short left to V.Jackson.",7,3,50,CAR 30,0,TB,
+15,2304,4,05:41,"(5:41) R.Lindell 48 yard field goal is No Good, Wide Left, Center-A.Economos, Holder-M.Koenen.",7,3,50,CAR 30,0,TB,FGM
+15,2155,1,08:52,(8:52) B.Rainey up the middle to CAR 43 for 11 yards (M.Mitchell; C.Munnerlyn).,10,3,37,TB 46,0,TB,
+15,2180,1,08:19,(8:19) B.Rainey right guard to CAR 40 for 3 yards (S.Lotulelei).,10,3,40,CAR 43,0,TB,
+15,2250,2,06:26,(6:26) V.Jackson right end to CAR 30 for no gain (D.Florence). #72 Gabe Carimi reports as eligible,7,3,50,CAR 30,0,TB,
+15,2107,2,10:13,(10:13) M.Glennon pass short left to T.Wright to TB 26 for 10 yards (Q.Mikell).,14,3,6,TB 16,0,TB,
+15,2067,0,10:50,"G.Gano kicks 65 yards from CAR 35 to end zone, Touchback.",0,3,0,CAR 35,0,CAR,KICKOFF
+14,2051,0,10:50,"G.Gano extra point is GOOD, Center-J.Jansen, Holder-B.Nortman.",0,3,78,TB 2,1,CAR,XP
+14,2031,1,10:58,"(10:58) (Shotgun) C.Newton pass deep left to T.Ginn for 36 yards, TOUCHDOWN.",10,3,78,TB 36,1,CAR,TD
+14,1983,2,12:27,(12:27) C.Newton pass short middle to M.Tolbert to CAR 36 for 12 yards (D.Goldson; M.Foster). Pass was tipped by TB #93 Geald McCoy,8,3,78,CAR 24,0,CAR,
+14,1962,1,13:00,(13:00) (Shotgun) K.Barner right end to CAR 24 for 2 yards (D.Revis).,10,3,2,CAR 22,0,CAR,
+14,2007,1,11:35,(11:35) (Shotgun) C.Newton pass short right to G.Olsen to TB 36 for 28 yards (M.Barron).,10,3,42,CAR 36,0,CAR,
+17,2503,3,01:08,(1:08) (Shotgun) M.Glennon scrambles left end to TB 27 for 4 yards (T.Davis).,14,3,0,TB 23,0,TB,
+17,2482,2,01:52,(1:52) B.Rainey up the middle to TB 23 for 3 yards (C.Cole; L.Kuechly).,17,3,-4,TB 20,0,TB,
+17,2524,4,00:38,"(:38) M.Koenen punts 52 yards to CAR 21, Center-A.Economos. T.Ginn to CAR 29 for 8 yards (A.Economos).",10,3,0,TB 27,0,TB,PUNT
+17,2463,1,02:21,(2:21) M.Glennon sacked at TB 20 for -7 yards (A.Klein).,10,3,-7,TB 27,0,TB,
+16,2346,2,05:32,(5:32) (Shotgun) M.Tolbert right tackle to CAR 44 for 6 yards (L.Johnson).,10,3,6,CAR 38,0,CAR,
+16,2324,1,05:37,(5:37) C.Newton pass incomplete short right to S.Smith (D.Revis). TB-D.Revis was injured during the play. His return is Questionable.,10,3,40,CAR 38,0,CAR,
+16,2437,2,02:33,(2:33) C.Newton pass short middle intended for B.LaFell INTERCEPTED by L.David at TB 11. L.David to TB 27 for 16 yards (T.Wharton).,9,3,40,TB 22,0,CAR,INT
+16,2395,1,04:01,(4:01) (Shotgun) M.Tolbert up the middle to TB 23 for 16 yards (M.Foster).,10,3,39,TB 39,0,CAR,
+16,2416,1,03:21,(3:21) M.Tolbert left end to TB 22 for 1 yard (J.Casillas).,10,3,40,TB 23,0,CAR,
+16,2371,3,04:53,(4:53) (Shotgun) C.Newton pass short middle to S.Smith to TB 39 for 17 yards (M.Barron).,4,3,23,CAR 44,0,CAR,
+19,2929,2,06:29,"(6:29) (No Huddle, Shotgun) M.Glennon pass short middle to B.Leonard to TB 23 for 8 yards (T.Davis).",15,4,-1,TB 15,0,TB,
+19,2862,0,06:40,G.Gano kicks 71 yards from CAR 35 to TB -6. E.Page to TB 20 for 26 yards (R.Brockel).,0,4,0,CAR 35,0,CAR,KICKOFF
+19,2906,2,06:29,"(6:29) (No Huddle, Shotgun) PENALTY on TB-T.Underwood, False Start, 5 yards, enforced at TB 20 - No Play.",10,4,-5,TB 20,0,TB,PENALTY
+19,2884,1,06:34,(6:34) (Shotgun) M.Glennon pass incomplete short left to C.Owusu.,10,4,0,TB 20,0,TB,
+19,2957,3,06:08,"(6:08) (No Huddle, Shotgun) M.Glennon sacked at TB 19 for -4 yards (W.Horton).",7,4,-1,TB 23,0,TB,
+19,2976,4,05:35,"(5:35) M.Koenen punts 36 yards to CAR 45, Center-A.Economos, out of bounds.",11,4,-1,TB 19,0,TB,PUNT
+18,2586,2,15:00,(15:00) J.Stewart right guard to CAR 38 for 3 yards (L.David).,4,4,9,CAR 35,0,CAR,
+18,2718,2,10:42,(10:42) (Shotgun) K.Barner left end to TB 32 for no gain (D.Gorrer).,9,4,39,TB 32,0,CAR,
+18,2607,3,14:22,(14:22) C.Newton up the middle to CAR 43 for 5 yards (A.Clayborn).,1,4,14,CAR 38,0,CAR,
+18,2649,2,12:49,(12:49) (Shotgun) C.Newton pass short left to G.Olsen to TB 48 for 4 yards (D.Gorrer).,5,4,23,CAR 48,0,CAR,
+18,2763,1,09:06,(9:06) J.Stewart left tackle to TB 10 for 4 yards (J.Casillas; M.Foster).,10,4,61,TB 14,0,CAR,
+18,2549,1,00:25,(:25) J.Stewart up the middle to CAR 35 for 6 yards (D.Goldson; M.Foster).,10,3,6,CAR 29,0,CAR,
+18,2739,3,09:57,(9:57) (Shotgun) C.Newton pass short left to S.Smith to TB 14 for 18 yards (D.Gorrer).,9,4,57,TB 32,0,CAR,
+18,2843,4,06:43,"(6:43) G.Gano 22 yard field goal is GOOD, Center-J.Jansen, Holder-B.Nortman.",1,4,66,TB 5,1,CAR,FG
+18,2673,3,12:03,(12:03) C.Newton pass short right to M.Tolbert to TB 33 for 15 yards (M.Barron).,1,4,39,TB 48,0,CAR,
+18,2697,1,11:24,(11:24) (Shotgun) K.Barner up the middle to TB 32 for 1 yard (M.Foster; M.Barron).,10,4,39,TB 33,0,CAR,
+18,2784,2,08:19,(8:19) J.Stewart right tackle to TB 7 for 3 yards (G.Gibson; J.Banks).,6,4,64,TB 10,0,CAR,
+18,2826,0,06:43,Timeout #1 by CAR at 06:43.,0,4,66,,0,,TIMEOUT
+18,2628,1,13:39,(13:39) M.Tolbert left end to CAR 48 for 5 yards (L.David; K.Glaud).,10,4,19,CAR 43,0,CAR,
+18,2805,3,07:27,(7:27) (Shotgun) C.Newton right guard to TB 5 for 2 yards (W.Gholston).,3,4,66,TB 7,0,CAR,

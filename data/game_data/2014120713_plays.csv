@@ -1,177 +1,177 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,2057,1,00:21,,10,2,43,SD 18,0,NE,
-9,2079,2,00:18,,10,2,43,SD 18,0,NE,INT
-9,2000,1,00:50,,10,2,29,SD 49,0,NE,PENALTY
-9,1933,1,01:32,,10,2,1,NE 39,0,NE,
-9,1976,3,01:09,,9,2,12,NE 40,0,NE,
-9,1954,2,01:14,,9,2,1,NE 40,0,NE,
-9,2033,1,00:44,,10,2,43,SD 32,0,NE,
-24,3909,0,01:59,,0,4,0,,0,,
-24,3950,3,01:54,,2,4,5,SD 28,0,SD,
-24,3974,4,01:24,,5,4,9,SD 25,0,SD,
-24,3926,2,01:59,,10,4,8,SD 20,0,SD,
-24,3887,1,02:05,,10,4,0,SD 20,0,SD,
-10,2105,1,00:10,,10,2,-1,SD 4,0,SD,
-10,2125,0,,,0,2,-1,,0,,
-20,3369,2,09:54,,6,4,4,SD 17,0,SD,
-20,3393,3,09:12,,6,4,4,SD 17,0,SD,
-20,3323,0,10:34,,0,4,0,NE 35,0,NE,KICKOFF
-20,3345,1,10:29,,10,4,4,SD 13,0,SD,
-20,3415,4,09:05,,6,4,4,SD 17,0,SD,PUNT
-6,1451,0,07:38,,0,2,0,NE 35,0,NE,KICKOFF
-6,1532,4,05:36,,2,2,8,SD 28,0,SD,PUNTB
-6,1487,2,06:59,,8,2,8,SD 22,0,SD,FUMBLE
-6,1511,3,06:13,,4,2,8,SD 26,0,SD,
-6,1466,1,07:38,,10,2,2,SD 20,0,SD,
-18,2950,1,02:21,,10,3,31,SD 38,0,SD,
-18,2926,2,03:04,,10,3,28,SD 10,0,SD,
-18,3017,4,00:50,,8,3,30,SD 40,0,SD,PUNT
-18,2995,3,00:56,,8,3,30,SD 40,0,SD,
-18,2974,2,01:36,,7,3,30,SD 41,0,SD,
-18,2904,1,03:09,,10,3,0,SD 10,0,SD,
-25,4018,2,00:39,,11,4,-2,SD 30,0,NE,
-25,4038,0,00:00,,0,4,-2,,0,,
-25,3998,1,01:17,,10,4,-1,SD 29,0,NE,
-1,94,3,14:12,,5,1,20,SD 25,0,SD,
-1,36,0,15:00,,0,1,27,NE 35,0,NE,KICKOFF
-1,150,1,13:21,,10,1,32,50,0,SD,
-1,195,3,11:55,,4,1,27,NE 44,0,SD,
-1,171,2,12:41,,8,1,36,NE 48,0,SD,
-1,214,4,11:23,,13,1,27,SD 47,0,SD,PUNT
-1,129,1,13:49,,10,1,30,SD 40,0,SD,
-1,51,1,15:00,,10,1,0,SD 20,0,SD,
-1,73,2,14:55,,10,1,5,SD 20,0,SD,
-5,1287,2,09:14,,6,2,63,SD 11,0,NE,
-5,1432,4,07:41,,4,2,70,SD 4,1,NE,FG
-5,1138,2,10:33,,2,2,70,NE 34,0,NE,
-5,1114,1,11:00,,10,2,70,NE 26,0,NE,
-5,1162,1,10:00,,10,2,43,SD 31,0,NE,
-5,1239,2,09:45,,10,2,59,SD 26,0,NE,
-5,1184,2,09:55,,10,2,48,SD 31,0,NE,PENALTY
-5,1410,3,07:47,,4,2,70,SD 4,0,NE,
-5,1350,1,08:37,,4,2,70,SD 4,0,NE,
-5,1326,3,09:10,,6,2,70,SD 11,0,NE,
-5,1393,0,07:47,,0,2,70,,0,,TIMEOUT
-5,1371,2,07:53,,4,2,70,SD 4,0,NE,
-5,1092,0,11:06,,0,2,0,SD 35,0,SD,KICKOFF
-5,1217,1,09:49,,10,2,48,SD 26,0,NE,
-5,1263,1,09:30,,10,2,63,SD 15,0,NE,
-5,1309,0,09:10,,0,2,70,,0,,TIMEOUT
-13,2412,4,10:35,,6,3,4,SD 48,0,NE,PUNT
-13,2369,2,11:27,,10,3,4,NE 48,0,NE,
-13,2390,3,10:39,,6,3,4,SD 48,0,NE,
-13,2347,1,11:33,,10,3,0,NE 48,0,NE,
-21,3476,0,08:41,,0,4,69,SD 2,1,NE,XP
-21,3456,1,08:53,,10,4,69,NE 31,1,NE,TD
-23,3870,4,02:13,,5,4,44,SD 44,0,NE,PUNT
-23,3678,1,04:04,,10,4,11,NE 25,0,NE,
-23,3612,1,06:18,,10,4,1,NE 12,0,NE,
-23,3749,1,03:57,,10,4,39,NE 28,0,NE,
-23,3846,3,02:56,,10,4,44,SD 49,0,NE,
-23,3770,0,03:43,,0,4,39,,0,,TIMEOUT
-23,3699,0,04:02,,0,4,11,,0,,TIMEOUT
-23,3716,2,04:02,,12,4,16,NE 23,0,NE,PENALTY
-23,3657,3,04:53,,2,4,13,NE 20,0,NE,
-23,3633,2,05:36,,9,4,8,NE 13,0,NE,
-23,3808,0,03:38,,0,4,40,,0,,TIMEOUT
-23,3825,2,03:37,,9,4,39,SD 48,0,NE,
-23,3787,1,03:43,,10,4,40,SD 49,0,NE,
-11,2187,2,14:15,,10,3,9,NE 19,0,NE,
-11,2232,4,12:53,,2,3,8,NE 27,0,NE,PUNT
-11,2211,3,13:35,,1,3,8,NE 28,0,NE,
-11,2141,0,15:00,,0,3,0,SD 35,0,SD,KICKOFF
-11,2163,1,14:55,,10,3,0,NE 19,0,NE,
-14,2495,4,08:31,,9,3,1,SD 11,0,SD,PUNT
-14,2476,3,09:05,,2,3,1,SD 18,0,SD,
-14,2452,2,09:44,,12,3,8,SD 8,0,SD,
-14,2431,1,10:26,,10,3,-2,SD 10,0,SD,
-8,1768,0,02:23,,0,2,-8,,0,,TIMEOUT
-8,1828,0,02:00,,0,2,12,,0,,
-8,1654,0,03:28,,0,2,0,NE 35,0,NE,KICKOFF
-8,1749,1,02:28,,20,2,-8,SD 18,0,SD,
-8,1891,3,01:47,,5,2,17,SD 34,0,SD,
-8,1693,1,03:22,,10,2,11,SD 17,0,SD,
-8,1785,2,02:23,,29,2,12,SD 9,0,SD,PENALTY
-8,1717,1,02:56,,10,2,1,SD 28,0,SD,PENALTY
-8,1845,1,02:00,,10,2,12,SD 29,0,SD,
-8,1867,2,01:53,,10,2,17,SD 29,0,SD,
-8,1913,4,01:40,,5,2,17,SD 34,0,SD,PUNT
-19,3186,1,13:07,,10,4,34,SD 39,0,NE,
-19,3258,2,11:21,,13,4,55,SD 30,0,NE,
-19,3127,2,14:17,,6,4,31,NE 47,0,NE,
-19,3106,1,15:00,,10,4,22,NE 43,0,NE,
-19,3042,1,00:38,,10,3,9,NE 25,0,NE,
-19,3304,4,10:34,,3,4,55,SD 20,1,NE,FG
-19,3213,2,12:40,,12,4,48,SD 41,0,NE,
-19,3151,1,13:34,,10,4,36,SD 44,0,NE,PENALTY
-19,3066,2,00:09,,1,3,18,NE 34,0,NE,
-19,3237,1,12:05,,10,4,45,SD 27,0,NE,
-19,3090,0,,,0,3,18,,0,,
-19,3282,3,10:44,,3,4,55,SD 20,0,NE,
-22,3531,1,07:56,,10,4,24,SD 44,0,SD,
-22,3507,1,08:41,,10,4,24,SD 20,0,SD,
-22,3572,3,07:06,,11,4,30,SD 43,0,SD,
-22,3492,0,08:41,,0,4,0,NE 35,0,NE,KICKOFF
-22,3593,4,06:28,,4,4,30,50,0,SD,PUNT
-22,3553,2,07:49,,10,4,30,SD 44,0,SD,
-12,2255,1,12:43,,10,3,-2,SD 13,0,SD,
-12,2298,3,12:05,,12,3,6,SD 11,0,SD,
-12,2322,4,11:43,,4,3,6,SD 19,0,SD,PUNT
-12,2276,2,12:14,,12,3,-2,SD 11,0,SD,
-16,2649,1,06:44,,10,3,15,SD 33,0,SD,PENALTY
-16,2683,1,06:28,,10,3,25,SD 48,0,SD,
-16,2752,1,04:55,,10,3,25,NE 32,0,SD,PENALTY
-16,2728,3,05:18,,12,3,35,SD 46,0,SD,
-16,2785,1,04:49,,20,3,25,NE 42,0,SD,INT
-16,2707,2,06:01,,6,3,13,NE 48,0,SD,
-7,1576,2,05:01,,4,2,7,SD 19,0,NE,
-7,1618,1,03:33,,10,2,25,SD 14,1,NE,TD
-7,1555,1,05:31,,10,2,6,SD 25,0,NE,
-7,1638,0,03:28,,0,2,25,SD 2,1,NE,XP
-7,1597,3,04:18,,3,2,11,SD 18,0,NE,
-3,837,0,,,0,1,45,,0,,
-3,725,2,02:41,,10,1,29,SD 37,0,SD,
-3,816,1,00:36,,10,1,45,NE 39,0,SD,
-3,853,2,15:00,,6,2,62,NE 35,0,SD,
-3,874,1,14:25,,10,2,65,NE 18,0,SD,
-3,792,3,01:19,,9,1,41,50,0,SD,
-3,749,1,02:06,,10,1,30,SD 49,0,SD,
-3,937,0,13:29,,0,2,80,NE 2,1,SD,XP
-3,917,3,13:36,,7,2,80,NE 15,1,SD,TD
-3,895,2,13:40,,7,2,65,NE 15,0,SD,
-3,703,1,02:50,,10,1,17,SD 37,0,SD,
-3,671,1,03:15,,10,1,17,SD 20,0,SD,PENALTY
-3,770,2,01:25,,9,1,30,50,0,SD,
-3,656,0,03:15,,0,1,0,NE 35,0,NE,KICKOFF
-17,2833,2,04:02,,12,3,4,NE 28,0,NE,
-17,2857,3,03:24,,6,3,4,NE 34,0,NE,
-17,2812,1,04:43,,10,3,-2,NE 30,0,NE,
-17,2879,4,03:19,,6,3,4,NE 34,0,NE,PUNT
-4,999,1,12:46,,10,2,19,NE 44,0,NE,
-4,975,1,13:24,,10,2,19,NE 25,0,NE,
-4,1044,3,11:20,,3,2,28,SD 49,1,NE,TD
-4,1020,2,11:58,,10,2,26,NE 44,0,NE,
-4,953,0,13:29,,0,2,0,SD 35,0,SD,KICKOFF
-2,324,2,09:21,,7,1,31,NE 27,0,NE,
-2,538,1,04:48,,10,1,92,SD 10,0,NE,
-2,454,3,07:10,,1,1,71,SD 31,0,NE,
-2,517,3,05:28,,1,1,83,SD 13,0,NE,
-2,348,1,08:48,,10,1,42,NE 38,0,NE,
-2,496,2,06:02,,3,1,80,SD 15,0,NE,
-2,276,3,10:28,,12,1,17,NE 5,0,NE,
-2,475,1,06:34,,10,1,78,SD 22,0,NE,
-2,581,3,04:11,,1,1,85,SD 1,0,NE,
-2,233,1,11:11,,10,1,-2,NE 7,0,NE,
-2,425,2,07:15,,1,1,62,SD 31,0,NE,
-2,559,2,04:15,,1,1,92,SD 1,0,NE,
-2,254,2,10:32,,12,1,-2,NE 5,0,NE,
-2,631,4,03:18,,4,1,89,SD 4,1,NE,FG
-2,401,1,07:49,,10,1,62,SD 40,0,NE,
-2,303,1,10:00,,10,1,20,NE 24,0,NE,
-2,369,1,08:14,,10,1,53,NE 49,0,NE,PENALTY
-2,600,4,03:29,,8,1,89,SD 8,0,NE,PENALTY
-15,2567,2,07:40,,21,3,-4,NE 33,0,NE,
-15,2591,3,07:01,,14,3,-4,NE 40,0,NE,
-15,2520,1,08:21,,10,3,-5,NE 44,0,NE,PENALTY
-15,2543,1,08:21,,15,3,-11,NE 39,0,NE,
-15,2613,4,06:55,,14,3,-4,NE 40,0,NE,PUNT
+24,3887,1,02:05,(2:05) (Shotgun) P.Rivers pass incomplete deep right to M.Floyd [D.Easley].,10,4,0,SD 20,0,SD,
+24,3950,3,01:54,(1:54) (Shotgun) P.Rivers pass short right to D.Brown to SD 25 for -3 yards (T.Wilson).,2,4,5,SD 28,0,SD,
+24,3926,2,01:59,(1:59) (Shotgun) P.Rivers pass short right to E.Royal to SD 28 for 8 yards (K.Arrington).,10,4,8,SD 20,0,SD,
+24,3909,0,01:59,Two-Minute Warning,0,4,0,,0,,
+24,3974,4,01:24,(1:24) (Shotgun) P.Rivers pass short left to A.Gates to SD 29 for 4 yards (T.Wilson).,5,4,9,SD 25,0,SD,
+25,4038,0,00:00,END GAME,0,4,-2,,0,,
+25,4018,2,00:39,"(:39) T.Brady kneels, dead ball declared at SD 31 for -1 yards.",11,4,-2,SD 30,0,NE,
+25,3998,1,01:17,"(1:17) T.Brady kneels, dead ball declared at SD 30 for -1 yards.",10,4,-1,SD 29,0,NE,
+20,3415,4,09:05,"(9:05) N.Novak punts 46 yards to NE 37, Center-M.Windt. J.Edelman ran ob at NE 41 for 4 yards (D.Brown). PENALTY on NE-M.Butler, Offensive Holding, 10 yards, enforced at NE 41.",6,4,4,SD 17,0,SD,PUNT
+20,3393,3,09:12,(9:12) (Shotgun) P.Rivers pass incomplete deep left to E.Royal.,6,4,4,SD 17,0,SD,
+20,3323,0,10:34,S.Gostkowski kicks 60 yards from NE 35 to SD 5. D.Brown to SD 13 for 8 yards (M.Slater).,0,4,0,NE 35,0,NE,KICKOFF
+20,3369,2,09:54,(9:54) (Shotgun) P.Rivers pass short right to K.Allen to SD 17 for no gain (R.Ninkovich).,6,4,4,SD 17,0,SD,
+20,3345,1,10:29,"(10:29) (Shotgun) P.Rivers pass short left to A.Gates to SD 17 for 4 yards (K.Arrington, J.Collins).",10,4,4,SD 13,0,SD,
+21,3476,0,08:41,"S.Gostkowski extra point is GOOD, Center-D.Aiken, Holder-R.Allen.",0,4,69,SD 2,1,NE,XP
+21,3456,1,08:53,"(8:53) T.Brady pass short middle to J.Edelman for 69 yards, TOUCHDOWN.",10,4,69,NE 31,1,NE,TD
+22,3593,4,06:28,"(6:28) N.Novak punts 38 yards to NE 12, Center-M.Windt, fair catch by D.Amendola.",4,4,30,50,0,SD,PUNT
+22,3553,2,07:49,(7:49) (Shotgun) P.Rivers sacked at SD 43 for -1 yards (sack split by Chr.Jones and S.Siliga).,10,4,30,SD 44,0,SD,
+22,3492,0,08:41,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",0,4,0,NE 35,0,NE,KICKOFF
+22,3572,3,07:06,(7:06) (Shotgun) P.Rivers right end to 50 for 7 yards (D.McCourty).,11,4,30,SD 43,0,SD,
+22,3531,1,07:56,(7:56) (Shotgun) P.Rivers pass incomplete short left to M.Floyd [A.Ayers].,10,4,24,SD 44,0,SD,
+22,3507,1,08:41,"(8:41) (Shotgun) P.Rivers pass short middle to D.Brown to SD 44 for 24 yards (D.McCourty, B.Browner).",10,4,24,SD 20,0,SD,
+23,3699,0,04:02,Timeout #1 by SD at 04:02.,0,4,11,,0,,TIMEOUT
+23,3612,1,06:18,"(6:18) L.Blount up the middle to NE 13 for 1 yard (C.Liuget, K.Conner).",10,4,1,NE 12,0,NE,
+23,3716,2,04:02,"(4:02) (Shotgun) T.Brady pass incomplete deep left to S.Vereen. PENALTY on SD-A.Gachkar, Illegal Contact, 5 yards, enforced at NE 23 - No Play.",12,4,16,NE 23,0,NE,PENALTY
+23,3787,1,03:43,"(3:43) L.Blount right guard to SD 48 for 1 yard (K.Conner, D.Butler).",10,4,40,SD 49,0,NE,
+23,3825,2,03:37,(3:37) L.Blount right guard to SD 49 for -1 yards (C.Liuget).,9,4,39,SD 48,0,NE,
+23,3749,1,03:57,(3:57) L.Blount right tackle to SD 49 for 23 yards (M.Gilchrist).,10,4,39,NE 28,0,NE,
+23,3870,4,02:13,"(2:13) R.Allen punts 44 yards to end zone, Center-D.Aiken, Touchback.",5,4,44,SD 44,0,NE,PUNT
+23,3633,2,05:36,"(5:36) (Shotgun) T.Brady pass short middle to J.Edelman to NE 20 for 7 yards (K.Conner, M.Te'o).",9,4,8,NE 13,0,NE,
+23,3678,1,04:04,(4:04) L.Blount up the middle to NE 23 for -2 yards (M.Ingram).,10,4,11,NE 25,0,NE,
+23,3770,0,03:43,Timeout #2 by SD at 03:43.,0,4,39,,0,,TIMEOUT
+23,3846,3,02:56,(2:56) (Shotgun) T.Brady pass short left to D.Amendola to SD 44 for 5 yards (A.Gachkar).,10,4,44,SD 49,0,NE,
+23,3657,3,04:53,(4:53) (Shotgun) T.Brady scrambles up the middle to NE 25 for 5 yards (J.Addae).,2,4,13,NE 20,0,NE,
+23,3808,0,03:38,Timeout #3 by SD at 03:38.,0,4,40,,0,,TIMEOUT
+1,150,1,13:21,"(13:21) (Shotgun) Ry.Mathews up the middle to NE 48 for 2 yards (Chr.Jones, V.Wilfork).",10,1,32,50,0,SD,
+1,214,4,11:23,"(11:23) M.Scifres punts 46 yards to NE 7, Center-M.Windt, downed by SD-S.Ajirotutu.",13,1,27,SD 47,0,SD,PUNT
+1,195,3,11:55,(11:55) (Shotgun) P.Rivers sacked at SD 47 for -9 yards (J.Collins).,4,1,27,NE 44,0,SD,
+1,51,1,15:00,(15:00) (Shotgun) P.Rivers pass incomplete short left to E.Royal.,10,1,0,SD 20,0,SD,
+1,36,0,15:00,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",0,1,27,NE 35,0,NE,KICKOFF
+1,73,2,14:55,(14:55) Ry.Mathews left end to SD 25 for 5 yards (J.Collins).,10,1,5,SD 20,0,SD,
+1,129,1,13:49,"(13:49) (Shotgun) Ry.Mathews right guard to 50 for 10 yards (D.Revis, J.Casillas).",10,1,30,SD 40,0,SD,
+1,94,3,14:12,(14:12) (Shotgun) P.Rivers pass short right to D.Brown to SD 40 for 15 yards (J.Casillas).,5,1,20,SD 25,0,SD,
+1,171,2,12:41,(12:41) (Shotgun) P.Rivers pass short right to L.Green to NE 44 for 4 yards (N.Ebner).,8,1,36,NE 48,0,SD,
+3,837,0,,END QUARTER 1,0,1,45,,0,,
+3,770,2,01:25,(1:25) (Shotgun) P.Rivers pass incomplete short left to A.Gates.,9,1,30,50,0,SD,
+3,895,2,13:40,(13:40) (Shotgun) P.Rivers pass incomplete short left to M.Floyd.,7,2,65,NE 15,0,SD,
+3,853,2,15:00,(15:00) Ry.Mathews right tackle to NE 18 for 17 yards (D.McCourty).,6,2,62,NE 35,0,SD,
+3,749,1,02:06,"(2:06) Ry.Mathews up the middle to 50 for 1 yard (J.Collins, S.Siliga).",10,1,30,SD 49,0,SD,
+3,874,1,14:25,"(14:25) (Shotgun) Ry.Mathews left end to NE 15 for 3 yards (J.Collins, A.Ayers).",10,2,65,NE 18,0,SD,
+3,671,1,03:15,"(3:15) Ry.Mathews right end to SD 22 for 2 yards (B.Browner). PENALTY on NE-B.Browner, Face Mask (15 Yards), 15 yards, enforced at SD 22.",10,1,17,SD 20,0,SD,PENALTY
+3,703,1,02:50,(2:50) (Shotgun) P.Rivers pass incomplete deep left to A.Gates.,10,1,17,SD 37,0,SD,
+3,656,0,03:15,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",0,1,0,NE 35,0,NE,KICKOFF
+3,725,2,02:41,(2:41) (Shotgun) P.Rivers pass short right to A.Gates to SD 49 for 12 yards (J.Casillas).,10,1,29,SD 37,0,SD,
+3,917,3,13:36,"(13:36) (Shotgun) P.Rivers pass short right to M.Floyd for 15 yards, TOUCHDOWN.",7,2,80,NE 15,1,SD,TD
+3,937,0,13:29,"N.Novak extra point is GOOD, Center-M.Windt, Holder-M.Scifres.",0,2,80,NE 2,1,SD,XP
+3,816,1,00:36,(:36) (Shotgun) B.Oliver up the middle to NE 35 for 4 yards (Chr.Jones).,10,1,45,NE 39,0,SD,
+3,792,3,01:19,(1:19) (Shotgun) P.Rivers pass short middle to L.Green to NE 39 for 11 yards (D.Revis).,9,1,41,50,0,SD,
+2,631,4,03:18,"(3:18) S.Gostkowski 22 yard field goal is GOOD, Center-D.Aiken, Holder-R.Allen.",4,1,89,SD 4,1,NE,FG
+2,559,2,04:15,(4:15) T.Brady pass incomplete short right to J.Develin (T.Williams).,1,1,92,SD 1,0,NE,
+2,276,3,10:28,(10:28) (Shotgun) T.Brady pass deep right to J.Edelman to NE 24 for 19 yards (B.Flowers). SD-C.Liuget was injured during the play.,12,1,17,NE 5,0,NE,
+2,581,3,04:11,(4:11) (Shotgun) T.Brady sacked at SD 8 for -7 yards (M.Ingram).,1,1,85,SD 1,0,NE,
+2,425,2,07:15,(7:15) T.Brady pass incomplete deep middle to J.Edelman.,1,1,62,SD 31,0,NE,
+2,303,1,10:00,"(10:00) L.Blount up the middle to NE 27 for 3 yards (M.Gilchrist, J.Johnson).",10,1,20,NE 24,0,NE,
+2,454,3,07:10,"(7:10) L.Blount left end to SD 22 for 9 yards (M.Gilchrist, K.Reyes).",1,1,71,SD 31,0,NE,
+2,401,1,07:49,"(7:49) (Shotgun) T.Brady pass short left to S.Vereen to SD 31 for 9 yards (J.Addae, A.Gachkar).",10,1,62,SD 40,0,NE,
+2,538,1,04:48,"(4:48) L.Blount up the middle to SD 1 for 9 yards (B.Flowers, M.Gilchrist).",10,1,92,SD 10,0,NE,
+2,517,3,05:28,"(5:28) L.Blount up the middle to SD 10 for 3 yards (S.Lissemore, K.Conner).",1,1,83,SD 13,0,NE,
+2,324,2,09:21,(9:21) T.Brady pass short middle to L.Blount to NE 38 for 11 yards (J.Johnson) [K.Reyes].,7,1,31,NE 27,0,NE,
+2,369,1,08:14,"(8:14) L.Blount right end to SD 45 for 6 yards (T.Palepoi). PENALTY on SD-D.Butler, Illegal Use of Hands, 5 yards, enforced at SD 45.",10,1,53,NE 49,0,NE,PENALTY
+2,600,4,03:29,"(3:29) S.Gostkowski 26 yard field goal is BLOCKED (S.Wright), Center-D.Aiken, Holder-R.Allen, RECOVERED by SD-B.Flowers at SD 20. B.Flowers for 80 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on SD-S.Wright, Defensive Offside, 4 yards, enforced at SD 8 - No Play.",8,1,89,SD 8,0,NE,PENALTY
+2,496,2,06:02,(6:02) J.Gray left guard to SD 13 for 2 yards (J.Johnson).,3,1,80,SD 15,0,NE,
+2,475,1,06:34,"(6:34) J.Gray right tackle to SD 15 for 7 yards (K.Conner, J.Johnson).",10,1,78,SD 22,0,NE,
+2,348,1,08:48,"(8:48) L.Blount left end to NE 49 for 11 yards (M.Ingram, M.Gilchrist).",10,1,42,NE 38,0,NE,
+2,254,2,10:32,(10:32) (Shotgun) T.Brady pass incomplete short left to R.Gronkowski.,12,1,-2,NE 5,0,NE,
+2,233,1,11:11,"(11:11) L.Blount up the middle to NE 5 for -2 yards (C.Liuget, D.Butler).",10,1,-2,NE 7,0,NE,
+5,1287,2,09:14,(9:14) (Shotgun) T.Brady pass incomplete short left to B.LaFell (S.Wright).,6,2,63,SD 11,0,NE,
+5,1138,2,10:33,(10:33) (Shotgun) T.Brady pass short left to R.Gronkowski to SD 31 for 35 yards (J.Addae).,2,2,70,NE 34,0,NE,
+5,1326,3,09:10,(9:10) (Shotgun) T.Brady pass short left to J.Edelman to SD 4 for 7 yards (J.Addae).,6,2,70,SD 11,0,NE,
+5,1092,0,11:06,N.Novak kicks 57 yards from SD 35 to NE 8. M.Slater to NE 26 for 18 yards (D.Stuckey).,0,2,0,SD 35,0,SD,KICKOFF
+5,1162,1,10:00,(10:00) T.Brady pass incomplete deep right to T.Wright.,10,2,43,SD 31,0,NE,
+5,1263,1,09:30,(9:30) (Shotgun) T.Brady pass short left to D.Amendola to SD 11 for 4 yards (M.Gilchrist).,10,2,63,SD 15,0,NE,
+5,1184,2,09:55,"(9:55) (Shotgun) T.Brady pass incomplete short right to R.Gronkowski. PENALTY on SD-J.Addae, Defensive Holding, 5 yards, enforced at SD 31 - No Play.",10,2,48,SD 31,0,NE,PENALTY
+5,1350,1,08:37,(8:37) L.Blount up the middle to SD 4 for no gain (M.Ingram).,4,2,70,SD 4,0,NE,
+5,1239,2,09:45,(9:45) (Shotgun) T.Brady pass short left to B.LaFell ran ob at SD 15 for 11 yards.,10,2,59,SD 26,0,NE,
+5,1309,0,09:10,Timeout #1 by SD at 09:10.,0,2,70,,0,,TIMEOUT
+5,1371,2,07:53,(7:53) (Shotgun) T.Brady pass incomplete short middle to J.Edelman (A.Gachkar).,4,2,70,SD 4,0,NE,
+5,1114,1,11:00,(11:00) (Shotgun) T.Brady pass short middle to J.Edelman to NE 34 for 8 yards (A.Gachkar).,10,2,70,NE 26,0,NE,
+5,1410,3,07:47,(7:47) (Shotgun) T.Brady pass incomplete short left to S.Vereen (M.Te'o) [D.Freeney].,4,2,70,SD 4,0,NE,
+5,1432,4,07:41,"(7:41) S.Gostkowski 22 yard field goal is GOOD, Center-D.Aiken, Holder-R.Allen.",4,2,70,SD 4,1,NE,FG
+5,1393,0,07:47,Timeout #1 by NE at 07:47.,0,2,70,,0,,TIMEOUT
+5,1217,1,09:49,(9:49) (Shotgun) T.Brady pass incomplete deep left to B.LaFell.,10,2,48,SD 26,0,NE,
+4,953,0,13:29,"N.Novak kicks 62 yards from SD 35 to NE 3. D.Amendola to NE 25 for 22 yards (C.Davis, S.Ajirotutu).",0,2,0,SD 35,0,SD,KICKOFF
+4,1044,3,11:20,"(11:20) (Shotgun) T.Brady pass short right to B.LaFell to SD 47 for 2 yards (J.Addae). FUMBLES (J.Addae), RECOVERED by SD-D.Stuckey at SD 47. D.Stuckey for 53 yards, TOUCHDOWN.",3,2,28,SD 49,1,NE,TD
+4,999,1,12:46,"(12:46) L.Blount left guard to NE 44 for no gain (K.Conner, K.Reyes).",10,2,19,NE 44,0,NE,
+4,975,1,13:24,(13:24) (Shotgun) T.Brady pass short middle to B.LaFell to NE 44 for 19 yards (E.Weddle).,10,2,19,NE 25,0,NE,
+4,1020,2,11:58,(11:58) (Shotgun) T.Brady pass short left to J.Edelman to SD 49 for 7 yards (B.Flowers).,10,2,26,NE 44,0,NE,
+7,1638,0,03:28,"S.Gostkowski extra point is GOOD, Center-D.Aiken, Holder-R.Allen.",0,2,25,SD 2,1,NE,XP
+7,1597,3,04:18,"(4:18) (Shotgun) T.Brady scrambles left end to SD 14 for 4 yards (C.Liuget, M.Te'o).",3,2,11,SD 18,0,NE,
+7,1555,1,05:31,"(5:31) L.Blount left tackle to SD 19 for 6 yards (S.Lissemore, M.Ingram).",10,2,6,SD 25,0,NE,
+7,1576,2,05:01,"(5:01) L.Blount right tackle to SD 18 for 1 yard (K.Reyes, D.Butler).",4,2,7,SD 19,0,NE,
+7,1618,1,03:33,"(3:33) (Shotgun) T.Brady pass short left to R.Gronkowski for 14 yards, TOUCHDOWN.",10,2,25,SD 14,1,NE,TD
+6,1511,3,06:13,(6:13) (Shotgun) P.Rivers scrambles up the middle to SD 28 for 2 yards (R.Ninkovich).,4,2,8,SD 26,0,SD,
+6,1466,1,07:38,"(7:38) (Shotgun) Ry.Mathews up the middle to SD 22 for 2 yards (P.Chung, S.Siliga).",10,2,2,SD 20,0,SD,
+6,1487,2,06:59,"(6:59) (Shotgun) P.Rivers pass short middle to A.Gates to SD 26 for 4 yards (J.Casillas). FUMBLES (J.Casillas), and recovers at SD 26. A.Gates to SD 26 for no gain (J.Casillas).",8,2,8,SD 22,0,SD,FUMBLE
+6,1451,0,07:38,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",0,2,0,NE 35,0,NE,KICKOFF
+6,1532,4,05:36,"(5:36) M.Scifres punt is BLOCKED by B.Bolden, Center-M.Windt, ball out of bounds at SD 25. SD-M.Scifres was injured during the play.",2,2,8,SD 28,0,SD,PUNTB
+9,2057,1,00:21,(:21) (Shotgun) T.Brady pass incomplete short right to J.Edelman.,10,2,43,SD 18,0,NE,
+9,1976,3,01:09,(1:09) (Shotgun) T.Brady pass short middle to R.Gronkowski to SD 49 for 11 yards (E.Weddle).,9,2,12,NE 40,0,NE,
+9,2079,2,00:18,(:18) (Shotgun) T.Brady pass short left intended for R.Gronkowski INTERCEPTED by M.Te'o at SD 4. M.Te'o to SD 4 for no gain (S.Vereen).,10,2,43,SD 18,0,NE,INT
+9,1933,1,01:32,(1:32) (Shotgun) S.Vereen up the middle to NE 40 for 1 yard (E.Weddle).,10,2,1,NE 39,0,NE,
+9,1954,2,01:14,(1:14) (Shotgun) T.Brady pass incomplete short right to J.Edelman (M.Ingram).,9,2,1,NE 40,0,NE,
+9,2000,1,00:50,"(:50) (Shotgun) T.Brady pass incomplete deep left to B.LaFell [C.Liuget]. PENALTY on SD-S.Wright, Defensive Pass Interference, 17 yards, enforced at SD 49 - No Play.",10,2,29,SD 49,0,NE,PENALTY
+9,2033,1,00:44,(:44) (Shotgun) T.Brady pass short left to S.Vereen to SD 18 for 14 yards (J.Addae).,10,2,43,SD 32,0,NE,
+8,1717,1,02:56,"(2:56) (Shotgun) Ry.Mathews left tackle to SD 28 for no gain (J.Collins, A.Ayers). PENALTY on SD-C.Rinehart, Offensive Holding, 10 yards, enforced at SD 28 - No Play.",10,2,1,SD 28,0,SD,PENALTY
+8,1828,0,02:00,Two-Minute Warning,0,2,12,,0,,
+8,1785,2,02:23,"(2:23) (Shotgun) Ry.Mathews up the middle to SD 19 for 10 yards (J.Collins). PENALTY on NE-K.Arrington, Tripping, 10 yards, enforced at SD 19.",29,2,12,SD 9,0,SD,PENALTY
+8,1845,1,02:00,(2:00) (Shotgun) P.Rivers pass incomplete short left to D.Brown.,10,2,12,SD 29,0,SD,
+8,1768,0,02:23,Timeout #2 by NE at 02:23.,0,2,-8,,0,,TIMEOUT
+8,1693,1,03:22,(3:22) (Shotgun) P.Rivers pass short right to M.Floyd to SD 28 for 11 yards (B.Browner).,10,2,11,SD 17,0,SD,
+8,1867,2,01:53,(1:53) (Shotgun) P.Rivers pass short left to D.Brown ran ob at SD 34 for 5 yards (A.Ayers).,10,2,17,SD 29,0,SD,
+8,1913,4,01:40,"(1:40) N.Novak punts 27 yards to NE 39, Center-M.Windt, fair catch by D.Amendola.",5,2,17,SD 34,0,SD,PUNT
+8,1891,3,01:47,(1:47) (Shotgun) P.Rivers pass incomplete short right to E.Royal.,5,2,17,SD 34,0,SD,
+8,1654,0,03:28,S.Gostkowski kicks 73 yards from NE 35 to SD -8. C.Davis to SD 17 for 25 yards (L.Ryan).,0,2,0,NE 35,0,NE,KICKOFF
+8,1749,1,02:28,(2:28) (Shotgun) P.Rivers sacked at SD 9 for -9 yards (J.Collins).,20,2,-8,SD 18,0,SD,
+11,2211,3,13:35,"(13:35) L.Blount up the middle to NE 27 for -1 yards (J.Johnson, E.Weddle).",1,3,8,NE 28,0,NE,
+11,2232,4,12:53,"(12:53) R.Allen punts 60 yards to SD 13, Center-D.Aiken, downed by NE-B.Tyms.",2,3,8,NE 27,0,NE,PUNT
+11,2187,2,14:15,"(14:15) (Shotgun) T.Brady pass short left to R.Gronkowski to NE 28 for 9 yards (E.Weddle, J.Johnson).",10,3,9,NE 19,0,NE,
+11,2163,1,14:55,(14:55) T.Brady pass short middle to L.Blount to NE 19 for no gain (K.Conner) [S.Lissemore].,10,3,0,NE 19,0,NE,
+11,2141,0,15:00,N.Novak kicks 67 yards from SD 35 to NE -2. D.Amendola to NE 19 for 21 yards (D.Stuckey).,0,3,0,SD 35,0,SD,KICKOFF
+10,2125,0,,END QUARTER 2,0,2,-1,,0,,
+10,2105,1,00:10,"(:10) P.Rivers kneels, dead ball declared at SD 3 for -1 yards.",10,2,-1,SD 4,0,SD,
+13,2347,1,11:33,(11:33) T.Brady pass incomplete short left to B.LaFell [C.Liuget].,10,3,0,NE 48,0,NE,
+13,2412,4,10:35,"(10:35) R.Allen punts 38 yards to SD 10, Center-D.Aiken, fair catch by K.Allen.",6,3,4,SD 48,0,NE,PUNT
+13,2390,3,10:39,(10:39) (Shotgun) T.Brady pass incomplete short middle to T.Wright (J.Attaochu).,6,3,4,SD 48,0,NE,
+13,2369,2,11:27,"(11:27) L.Blount left tackle to SD 48 for 4 yards (Ric. Mathews, J.Addae).",10,3,4,NE 48,0,NE,
+12,2298,3,12:05,(12:05) (Shotgun) P.Rivers pass short middle to D.Brown pushed ob at SD 19 for 8 yards (J.Collins).,12,3,6,SD 11,0,SD,
+12,2322,4,11:43,"(11:43) N.Novak punts 33 yards to NE 48, Center-M.Windt. D.Amendola to NE 48 for no gain (E.Weddle).",4,3,6,SD 19,0,SD,PUNT
+12,2255,1,12:43,(12:43) B.Oliver up the middle to SD 11 for -2 yards (J.Collins).,10,3,-2,SD 13,0,SD,
+12,2276,2,12:14,(12:14) (Shotgun) P.Rivers pass incomplete short left to B.Oliver.,12,3,-2,SD 11,0,SD,
+15,2543,1,08:21,"(8:21) (Shotgun) T.Brady pass short right to R.Gronkowski to NE 33 for -6 yards (A.Gachkar, M.Gilchrist).",15,3,-11,NE 39,0,NE,
+15,2613,4,06:55,"(6:55) R.Allen punts 49 yards to SD 11, Center-D.Aiken. K.Allen to SD 18 for 7 yards (T.Wilson). PENALTY on NE-B.Tyms, Unsportsmanlike Conduct, 15 yards, enforced at SD 18.",14,3,-4,NE 40,0,NE,PUNT
+15,2520,1,08:21,"(8:21) PENALTY on NE-D.Connolly, False Start, 5 yards, enforced at NE 44 - No Play.",10,3,-5,NE 44,0,NE,PENALTY
+15,2567,2,07:40,(7:40) (Shotgun) T.Brady pass short right to S.Vereen to NE 40 for 7 yards (A.Gachkar).,21,3,-4,NE 33,0,NE,
+15,2591,3,07:01,(7:01) (Shotgun) T.Brady pass incomplete short left to B.LaFell (S.Wright).,14,3,-4,NE 40,0,NE,
+14,2476,3,09:05,(9:05) (Shotgun) P.Rivers sacked at SD 11 for -7 yards (R.Ninkovich).,2,3,1,SD 18,0,SD,
+14,2431,1,10:26,"(10:26) Ry.Mathews left end to SD 8 for -2 yards (R.Ninkovich, A.Branch).",10,3,-2,SD 10,0,SD,
+14,2495,4,08:31,"(8:31) N.Novak punts 45 yards to NE 44, Center-M.Windt. J.Edelman to NE 44 for no gain (D.Stuckey).",9,3,1,SD 11,0,SD,PUNT
+14,2452,2,09:44,(9:44) (Shotgun) P.Rivers pass short right to A.Gates to SD 18 for 10 yards (D.McCourty).,12,3,8,SD 8,0,SD,
+17,2879,4,03:19,"(3:19) R.Allen punts 56 yards to SD 10, Center-D.Aiken. K.Allen to SD 10 for no gain (B.Tyms).",6,3,4,NE 34,0,NE,PUNT
+17,2833,2,04:02,"(4:02) (Shotgun) T.Brady pass short left to R.Gronkowski to NE 34 for 6 yards (B.Flowers, J.Johnson).",12,3,4,NE 28,0,NE,
+17,2857,3,03:24,(3:24) (Shotgun) T.Brady pass incomplete short right to R.Gronkowski.,6,3,4,NE 34,0,NE,
+17,2812,1,04:43,"(4:43) L.Blount left end to NE 28 for -2 yards (M.Te'o, C.Liuget).",10,3,-2,NE 30,0,NE,
+16,2785,1,04:49,(4:49) (Shotgun) P.Rivers pass short middle intended for K.Allen INTERCEPTED by A.Ayers at NE 30. A.Ayers to NE 30 for no gain (K.Allen).,20,3,25,NE 42,0,SD,INT
+16,2649,1,06:44,"(6:44) P.Rivers pass deep left intended for L.Green INTERCEPTED by D.McCourty (B.Browner) at NE 44. D.McCourty for 56 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on NE-B.Browner, Unnecessary Roughness, 15 yards, enforced at SD 33 - No Play.",10,3,15,SD 33,0,SD,PENALTY
+16,2707,2,06:01,(6:01) Ry.Mathews left end to SD 46 for -6 yards (K.Arrington).,6,3,13,NE 48,0,SD,
+16,2728,3,05:18,(5:18) (Shotgun) P.Rivers pass short left to E.Royal pushed ob at NE 32 for 22 yards (D.Harmon).,12,3,35,SD 46,0,SD,
+16,2752,1,04:55,"(4:55) (Shotgun) P.Rivers pass incomplete deep left to M.Floyd. PENALTY on SD-M.Floyd, Offensive Pass Interference, 10 yards, enforced at NE 32 - No Play.",10,3,25,NE 32,0,SD,PENALTY
+16,2683,1,06:28,(6:28) (Shotgun) P.Rivers pass short right to Ry.Mathews to NE 48 for 4 yards (R.Ninkovich).,10,3,25,SD 48,0,SD,
+19,3258,2,11:21,(11:21) (Shotgun) T.Brady pass short middle to J.Edelman to SD 20 for 10 yards (D.Butler).,13,4,55,SD 30,0,NE,
+19,3237,1,12:05,"(12:05) L.Blount right tackle to SD 30 for -3 yards (M.Ingram, C.Liuget).",10,4,45,SD 27,0,NE,
+19,3213,2,12:40,"(12:40) (Shotgun) T.Brady pass short left to J.Edelman to SD 27 for 14 yards (B.Flowers, J.Addae).",12,4,48,SD 41,0,NE,
+19,3090,0,,END QUARTER 3,0,3,18,,0,,
+19,3106,1,15:00,"(15:00) J.Edelman left end to NE 47 for 4 yards (Ric. Mathews, C.Liuget).",10,4,22,NE 43,0,NE,
+19,3127,2,14:17,(14:17) (Shotgun) T.Brady pass short right to B.LaFell to SD 44 for 9 yards (S.Wright).,6,4,31,NE 47,0,NE,
+19,3186,1,13:07,(13:07) (Shotgun) T.Brady pass short left to D.Amendola to SD 41 for -2 yards (M.Gilchrist). SD-M.Gilchrist was injured during the play.,10,4,34,SD 39,0,NE,
+19,3151,1,13:34,"(13:34) T.Brady pass short right to R.Gronkowski to SD 44 for no gain (E.Weddle). PENALTY on SD-D.Butler, Defensive Holding, 5 yards, enforced at SD 44 - No Play.",10,4,36,SD 44,0,NE,PENALTY
+19,3066,2,00:09,"(:09) (Shotgun) T.Brady pass short left to R.Gronkowski to NE 43 for 9 yards (E.Weddle, J.Johnson).",1,3,18,NE 34,0,NE,
+19,3304,4,10:34,"(10:34) S.Gostkowski 38 yard field goal is GOOD, Center-D.Aiken, Holder-R.Allen.",3,4,55,SD 20,1,NE,FG
+19,3042,1,00:38,(:38) (Shotgun) T.Brady pass short right to R.Gronkowski to NE 34 for 9 yards (K.Conner).,10,3,9,NE 25,0,NE,
+19,3282,3,10:44,(10:44) (Shotgun) T.Brady pass incomplete short right to B.LaFell.,3,4,55,SD 20,0,NE,
+18,2904,1,03:09,(3:09) (Shotgun) P.Rivers pass incomplete short left to B.Oliver.,10,3,0,SD 10,0,SD,
+18,3017,4,00:50,"(:50) N.Novak punts 51 yards to NE 9, Center-M.Windt. J.Edelman to NE 25 for 16 yards (K.Conner).",8,3,30,SD 40,0,SD,PUNT
+18,2926,2,03:04,(3:04) (Shotgun) P.Rivers pass deep right to M.Floyd to SD 38 for 28 yards (B.Browner).,10,3,28,SD 10,0,SD,
+18,2950,1,02:21,(2:21) (Shotgun) P.Rivers pass short left to K.Allen to SD 41 for 3 yards (D.Revis).,10,3,31,SD 38,0,SD,
+18,2974,2,01:36,(1:36) (Shotgun) B.Oliver up the middle to SD 40 for -1 yards (A.Branch).,7,3,30,SD 41,0,SD,
+18,2995,3,00:56,(:56) (Shotgun) P.Rivers pass incomplete short right to A.Gates (D.McCourty).,8,3,30,SD 40,0,SD,

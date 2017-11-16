@@ -1,213 +1,213 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1203,4,14:19,,7,2,68,PHI 31,1,JAC,FG
-9,1118,1,15:00,,10,2,68,PHI 34,0,JAC,
-9,1181,3,14:23,,7,2,68,PHI 31,0,JAC,
-9,1142,2,14:27,,7,2,68,PHI 31,0,JAC,
-9,1046,1,01:07,,10,1,50,JAC 47,0,JAC,
-9,1164,0,14:23,,0,2,68,,0,,TIMEOUT
-9,1070,2,00:29,,6,1,68,PHI 49,0,JAC,PENALTY
-9,1022,1,01:27,,10,1,46,JAC 1,0,JAC,
-9,1102,0,,,0,1,65,,0,,
-24,3729,4,00:17,,10,3,25,JAC 40,0,JAC,PUNT
-24,3618,3,00:57,,9,3,25,JAC 27,0,JAC,
-24,3559,1,02:23,,10,3,8,JAC 26,0,JAC,
-24,3601,0,00:57,,0,3,12,,0,,TIMEOUT
-24,3685,2,00:24,,10,3,25,JAC 40,0,JAC,
-24,3528,2,02:54,,7,3,11,JAC 18,0,JAC,
-24,3507,1,03:18,,10,3,3,JAC 15,0,JAC,
-24,3580,2,01:44,,13,3,12,JAC 23,0,JAC,
-24,3707,3,00:19,,10,3,25,JAC 40,0,JAC,
-24,3663,1,00:29,,10,3,25,JAC 40,0,JAC,
-10,1222,0,14:14,,0,2,0,JAC 35,0,JAC,KICKOFF
-10,1284,3,13:38,,11,2,-8,PHI 19,0,PHI,
-10,1303,4,13:11,,18,2,-8,PHI 12,0,PHI,PUNT
-10,1241,1,14:14,,10,2,0,PHI 20,0,PHI,
-10,1263,2,14:08,,10,2,-1,PHI 20,0,PHI,
-20,3097,1,07:19,,10,3,0,JAC 20,0,JAC,
-20,3163,4,07:09,,10,3,0,JAC 20,0,JAC,PUNT
-20,3082,0,07:19,,0,3,0,PHI 35,0,PHI,KICKOFF
-20,3119,2,07:16,,10,3,0,JAC 20,0,JAC,
-20,3141,3,07:12,,10,3,0,JAC 20,0,JAC,
-30,4707,0,01:57,,0,4,0,PHI 35,0,PHI,KICKOFF
-30,4722,1,01:57,,10,4,11,JAC 20,0,JAC,
-30,4746,1,01:33,,10,4,-3,JAC 31,1,JAC,TD
-6,718,4,05:13,,7,1,17,PHI 37,0,PHI,PUNT
-6,629,2,06:25,,1,1,14,PHI 29,0,PHI,
-6,696,3,05:19,,7,1,17,PHI 37,0,PHI,
-6,674,2,05:24,,7,1,17,PHI 37,0,PHI,
-6,650,1,05:59,,10,1,17,PHI 34,0,PHI,
-6,593,0,06:50,,0,1,0,JAC 35,0,JAC,KICKOFF
-6,608,1,06:50,,10,1,9,PHI 20,0,PHI,
-27,4407,0,06:59,,0,4,68,JAC 2,1,PHI,XP
-27,4386,1,07:10,,10,4,68,PHI 32,1,PHI,TD
-18,2885,3,10:19,,8,3,7,JAC 16,0,JAC,
-18,2861,2,11:03,,8,3,2,JAC 16,0,JAC,
-18,2909,4,09:42,,3,3,7,JAC 21,0,JAC,PUNT
-18,2818,0,11:44,,0,3,0,PHI 35,0,PHI,KICKOFF
-18,2840,1,11:40,,10,3,2,JAC 14,0,JAC,
-28,4499,3,06:48,,10,4,9,JAC 20,0,JAC,
-28,4460,2,06:52,,10,4,0,JAC 20,0,JAC,
-28,4423,0,06:59,,0,4,0,PHI 35,0,PHI,KICKOFF
-28,4438,1,06:57,,10,4,0,JAC 20,0,JAC,
-28,4482,0,06:48,,0,4,0,,0,,TIMEOUT
-28,4523,4,06:01,,1,4,9,JAC 29,0,JAC,
-26,4211,2,08:45,,1,4,32,JAC 45,0,JAC,
-26,4091,1,10:55,,10,4,5,JAC 20,0,JAC,PENALTY
-26,4166,3,09:41,,1,4,16,JAC 34,0,JAC,
-26,4275,3,07:27,,8,4,34,PHI 46,0,JAC,TIMEOUT
-26,4297,4,07:22,,8,4,34,PHI 46,0,JAC,PUNT
-26,4253,2,07:32,,8,4,34,PHI 46,0,JAC,
-26,4124,1,10:49,,10,4,13,JAC 25,0,JAC,
-26,4190,1,09:11,,10,4,25,JAC 36,0,JAC,
-26,4074,0,10:55,,0,4,0,PHI 35,0,PHI,KICKOFF
-26,4232,1,08:09,,10,4,34,PHI 48,0,JAC,
-26,4145,2,10:21,,2,4,14,JAC 33,0,JAC,
-31,4914,2,00:40,,6,4,34,JAC 29,0,JAC,
-31,4938,1,00:17,,10,4,46,JAC 47,0,JAC,
-31,4866,2,00:58,,9,4,12,JAC 14,0,JAC,
-31,4809,1,01:19,,10,4,12,JAC 13,0,JAC,PENALTY
-31,4842,1,01:14,,15,4,1,JAC 8,0,JAC,
-31,4787,0,01:23,,0,4,0,PHI 35,0,PHI,KICKOFF
-31,4890,1,00:43,,10,4,16,JAC 25,0,JAC,
-31,4962,0,00:00,,0,4,46,,0,,
-25,4055,4,11:00,,13,4,55,JAC 33,1,PHI,FG
-25,3889,1,13:44,,10,4,26,PHI 33,0,PHI,
-25,3754,1,00:05,,10,3,4,PHI 12,0,PHI,
-25,3931,1,12:42,,10,4,58,PHI 44,0,PHI,
-25,3778,0,,,0,3,4,,0,,
-25,3846,1,14:12,,10,4,11,PHI 23,0,PHI,
-25,4034,3,11:38,,14,4,55,JAC 34,0,PHI,
-25,3794,2,15:00,,6,4,4,PHI 16,0,PHI,
-25,3991,1,12:21,,20,4,55,JAC 40,0,PHI,
-25,4012,2,11:38,,14,4,55,JAC 34,0,PHI,
-25,3955,1,12:21,,10,4,48,JAC 30,0,PHI,PENALTY
-25,3868,2,14:05,,10,4,21,PHI 23,0,PHI,
-25,3910,2,13:19,,5,4,32,PHI 38,0,PHI,
-25,3822,3,14:30,,6,4,11,PHI 16,0,PHI,
-1,117,4,13:08,,2,1,8,JAC 28,0,JAC,PUNT
-1,75,2,13:45,,3,1,9,JAC 27,0,JAC,
-1,51,1,14:59,,10,1,7,JAC 20,0,JAC,
-1,36,0,15:00,,0,1,0,PHI 35,0,PHI,KICKOFF
-1,96,3,13:36,,1,1,8,JAC 29,0,JAC,
-5,557,2,06:55,,10,1,21,PHI 21,1,JAC,TD
-5,535,1,07:00,,10,1,21,PHI 21,0,JAC,
-5,577,0,06:50,,0,1,21,PHI 2,1,JAC,XP
-13,1543,1,10:07,,10,2,0,JAC 20,0,JAC,
-13,1565,2,10:03,,10,2,10,JAC 20,0,JAC,
-13,1610,2,08:59,,9,2,22,JAC 31,0,JAC,
-13,1589,1,09:32,,10,2,11,JAC 30,0,JAC,
-13,1634,1,08:29,,10,2,25,JAC 42,0,JAC,
-13,1707,2,06:46,,5,2,56,PHI 41,0,JAC,
-13,1778,2,05:26,,5,2,62,PHI 19,0,JAC,
-13,1821,4,04:41,,4,2,62,PHI 18,0,JAC,FGB
-13,1655,2,07:59,,7,2,34,JAC 45,0,JAC,
-13,1754,1,06:03,,5,2,61,PHI 19,0,JAC,
-13,1799,3,04:44,,4,2,62,PHI 18,0,JAC,
-13,1731,1,06:20,,10,2,61,PHI 24,0,JAC,PENALTY
-13,1683,1,07:22,,10,2,39,PHI 46,0,JAC,
-29,4608,1,03:37,,10,4,17,JAC 13,0,PHI,
-29,4629,2,02:56,,9,4,21,JAC 12,0,PHI,
-29,4671,0,02:00,,0,4,20,,0,,
-29,4688,4,02:00,,6,4,20,JAC 9,1,PHI,FG
-29,4587,3,04:25,,13,4,16,JAC 32,0,PHI,
-29,4545,1,05:56,,10,4,0,JAC 29,0,PHI,
-29,4650,3,02:13,,5,4,20,JAC 8,0,PHI,
-29,4566,2,05:10,,10,4,-3,JAC 29,0,PHI,
-21,3255,4,05:45,,8,3,2,JAC 49,0,PHI,PUNT
-21,3212,2,06:18,,5,3,2,JAC 46,0,PHI,
-21,3188,1,06:57,,10,3,5,PHI 49,0,PHI,
-21,3233,3,05:51,,8,3,2,JAC 49,0,PHI,
-23,3443,2,04:27,,2,3,18,JAC 39,0,PHI,
-23,3387,1,05:09,,10,3,21,PHI 40,0,PHI,
-23,3464,3,03:59,,5,3,16,JAC 42,0,PHI,
-23,3422,1,04:51,,10,3,21,JAC 47,0,PHI,
-23,3488,4,03:25,,7,3,16,JAC 44,0,PHI,PUNT
-11,1370,3,12:00,,1,2,8,PHI 31,0,JAC,
-11,1391,0,11:09,,0,2,8,,0,,TIMEOUT
-11,1408,4,11:09,,2,2,8,PHI 32,0,JAC,FGM
-11,1349,2,12:34,,4,2,9,PHI 34,0,JAC,
-11,1328,1,13:01,,10,2,6,PHI 40,0,JAC,
-14,2226,3,01:07,,15,2,35,JAC 44,0,PHI,PENALTY
-14,1954,2,03:15,,5,2,23,PHI 39,0,PHI,
-14,2109,1,02:00,,10,2,35,PHI 49,0,PHI,
-14,2046,2,02:21,,10,2,12,PHI 38,0,PHI,
-14,2262,3,01:04,,10,2,35,JAC 39,0,PHI,
-14,1851,1,04:36,,10,2,-1,PHI 26,0,PHI,
-14,2068,3,02:16,,10,2,23,PHI 38,0,PHI,
-14,2149,1,01:38,,10,2,18,JAC 39,0,PHI,
-14,1929,1,03:39,,10,2,23,PHI 34,0,PHI,
-14,1872,2,04:12,,11,2,3,PHI 25,0,PHI,
-14,2284,4,00:57,,10,2,35,JAC 39,0,PHI,PUNT
-14,2202,2,01:29,,27,2,30,PHI 44,0,PHI,
-14,1896,3,03:43,,7,2,23,PHI 29,0,PHI,PENALTY
-14,2024,1,02:27,,10,2,23,PHI 38,0,PHI,
-14,1979,3,02:36,,11,2,23,PHI 33,0,PHI,PENALTY
-14,2092,0,02:00,,0,2,23,,0,,
-8,1003,4,01:28,,6,1,16,JAC 40,0,PHI,PUNT
-8,979,3,02:05,,11,1,16,JAC 45,0,PHI,
-8,958,2,02:41,,10,1,11,JAC 44,0,PHI,
-8,929,1,02:43,,10,1,12,JAC 44,0,PHI,
-8,905,1,03:04,,10,1,16,PHI 44,0,PHI,
-19,2977,3,09:01,,2,3,40,JAC 32,0,PHI,
-19,2934,1,09:29,,10,3,0,JAC 40,0,PHI,
-19,3066,0,07:19,,0,3,40,JAC 2,1,PHI,XP
-19,2998,1,08:31,,10,3,16,JAC 30,0,PHI,
-19,3046,3,07:27,,5,3,40,JAC 25,1,PHI,TD
-19,3022,2,07:57,,4,3,15,JAC 24,0,PHI,
-19,2956,2,09:26,,10,3,8,JAC 40,0,PHI,
-22,3307,2,05:30,,10,3,0,JAC 19,0,JAC,
-22,3346,3,05:25,,10,3,0,JAC 19,0,JAC,
-22,3285,1,05:37,,10,3,0,JAC 19,0,JAC,
-22,3368,4,05:17,,10,3,0,JAC 19,0,JAC,PUNT
-22,3329,0,05:25,,0,3,0,,0,,TIMEOUT
-12,1516,1,10:13,,5,2,55,JAC 5,0,PHI,INT
-12,1428,1,11:07,,10,2,55,PHI 40,0,PHI,PENALTY
-12,1492,2,10:43,,10,2,55,JAC 15,0,PHI,
-12,1463,1,10:44,,10,2,55,JAC 15,0,PHI,
-16,2521,3,00:04,,6,2,14,50,0,PHI,
-16,2497,2,00:07,,10,2,14,PHI 46,0,PHI,
-16,2436,1,00:28,,10,2,10,PHI 36,0,PHI,
-16,2543,0,,,0,2,14,,0,,
-16,2460,1,00:12,,10,2,10,PHI 46,0,PHI,
-7,787,2,04:32,,2,1,5,JAC 25,0,JAC,
-7,831,3,03:23,,10,1,-9,JAC 17,0,JAC,
-7,743,1,05:03,,10,1,5,JAC 17,0,JAC,PENALTY
-7,766,1,05:03,,5,1,8,JAC 22,0,JAC,
-7,808,3,03:50,,5,1,0,JAC 22,0,JAC,PENALTY
-7,881,4,03:04,,19,1,-9,JAC 8,0,JAC,PUNT
-3,324,1,09:44,,10,1,10,PHI 34,0,JAC,
-3,280,1,10:58,,10,1,-1,PHI 44,0,JAC,
-3,365,0,09:00,,0,1,44,PHI 2,1,JAC,XP
-3,345,2,09:06,,10,1,44,PHI 34,1,JAC,TD
-3,303,2,10:15,,11,1,10,PHI 45,0,JAC,
-17,2644,1,14:09,,10,3,9,PHI 31,0,PHI,
-17,2802,0,11:44,,0,3,80,JAC 2,1,PHI,XP
-17,2620,3,14:31,,7,3,11,PHI 23,0,PHI,
-17,2559,0,15:00,,0,3,0,JAC 35,0,JAC,KICKOFF
-17,2785,4,11:46,,1,3,80,JAC 49,1,PHI,TD
-17,2761,3,12:15,,9,3,31,PHI 43,0,PHI,
-17,2574,1,15:00,,10,3,0,PHI 20,0,PHI,
-17,2694,3,13:20,,3,3,22,PHI 38,0,PHI,
-17,2596,2,14:55,,10,3,3,PHI 20,0,PHI,
-17,2739,2,12:19,,9,3,23,PHI 43,0,PHI,
-17,2718,1,12:51,,10,3,23,PHI 42,0,PHI,
-17,2670,2,13:42,,12,3,18,PHI 29,0,PHI,
-4,506,2,07:09,,20,1,3,PHI 25,0,PHI,FUMBLE
-4,474,2,07:42,,10,1,3,PHI 35,0,PHI,PENALTY
-4,427,2,08:30,,6,1,17,PHI 22,0,PHI,
-4,403,1,08:54,,10,1,17,PHI 18,0,PHI,
-4,453,1,08:09,,10,1,17,PHI 35,0,PHI,
-4,381,0,09:00,,0,1,0,JAC 35,0,JAC,KICKOFF
-2,209,1,11:54,,10,1,29,JAC 48,0,PHI,
-2,230,2,11:34,,6,1,30,JAC 44,0,PHI,
-2,142,1,12:56,,10,1,0,PHI 27,0,PHI,
-2,164,2,12:53,,10,1,-1,PHI 27,0,PHI,
-2,251,3,11:06,,5,1,17,JAC 43,0,PHI,FUMBLE
-2,185,3,12:24,,11,1,25,PHI 26,0,PHI,
-15,2324,0,00:45,,0,2,0,,0,,TIMEOUT
-15,2400,0,00:36,,0,2,6,,0,,TIMEOUT
-15,2362,0,00:41,,0,2,1,,0,,TIMEOUT
-15,2417,4,00:36,,4,2,6,JAC 15,0,JAC,PUNT
-15,2303,1,00:50,,10,2,0,JAC 9,0,JAC,
-15,2379,3,00:41,,9,2,6,JAC 10,0,JAC,
-15,2341,2,00:45,,10,2,1,JAC 9,0,JAC,
+24,3580,2,01:44,"(1:44) (No Huddle, Shotgun) T.Gerhart left end to JAC 27 for 4 yards (F.Cox).",13,3,12,JAC 23,0,JAC,
+24,3601,0,00:57,Timeout #2 by JAC at 00:57.,0,3,12,,0,,TIMEOUT
+24,3663,1,00:29,(:29) C.Henne pass incomplete short left to M.Lewis.,10,3,25,JAC 40,0,JAC,
+24,3618,3,00:57,(:57) (Shotgun) C.Henne pass short right to M.Lee pushed ob at JAC 40 for 13 yards (B.Boykin).,9,3,25,JAC 27,0,JAC,
+24,3559,1,02:23,(2:23) (Shotgun) T.Gerhart left tackle to JAC 23 for -3 yards (B.Graham).,10,3,8,JAC 26,0,JAC,
+24,3507,1,03:18,(3:18) T.Gerhart right end to JAC 18 for 3 yards (B.Graham; D.Ryans).,10,3,3,JAC 15,0,JAC,
+24,3685,2,00:24,(:24) (Shotgun) C.Henne pass incomplete short left to M.Brown.,10,3,25,JAC 40,0,JAC,
+24,3707,3,00:19,(:19) (Shotgun) C.Henne pass incomplete short right.,10,3,25,JAC 40,0,JAC,
+24,3528,2,02:54,"(2:54) (No Huddle, Shotgun) C.Henne pass short left to M.Lee pushed ob at JAC 26 for 8 yards (M.Kendricks).",7,3,11,JAC 18,0,JAC,
+24,3729,4,00:17,"(:17) B.Anger punts 50 yards to PHI 10, Center-C.Tinker. D.Sproles to PHI 12 for 2 yards (J.Todman).",10,3,25,JAC 40,0,JAC,PUNT
+25,3931,1,12:42,"(12:42) (No Huddle, Shotgun) N.Foles pass deep right to Z.Ertz to JAC 30 for 26 yards (C.Prosinski).",10,4,58,PHI 44,0,PHI,
+25,4055,4,11:00,"(11:00) C.Parkey 51 yard field goal is GOOD, Center-J.Dorenbos, Holder-D.Jones.",13,4,55,JAC 33,1,PHI,FG
+25,3868,2,14:05,"(14:05) (No Huddle, Shotgun) D.Sproles up the middle to PHI 33 for 10 yards (G.Hayes).",10,4,21,PHI 23,0,PHI,
+25,3822,3,14:30,"(14:30) (No Huddle, Shotgun) N.Foles pass short right to J.Matthews to PHI 23 for 7 yards (W.Blackmon).",6,4,11,PHI 16,0,PHI,
+25,3910,2,13:19,"(13:19) (No Huddle, Shotgun) L.McCoy up the middle to PHI 44 for 6 yards (P.Posluszny).",5,4,32,PHI 38,0,PHI,
+25,3794,2,15:00,(15:00) (Shotgun) L.McCoy left end to PHI 16 for no gain (P.Posluszny).,6,4,4,PHI 16,0,PHI,
+25,3778,0,,END QUARTER 3,0,3,4,,0,,
+25,3889,1,13:44,"(13:44) (No Huddle, Shotgun) D.Sproles left end to PHI 38 for 5 yards (S.Marks).",10,4,26,PHI 33,0,PHI,
+25,3754,1,00:05,(:05) (Shotgun) N.Foles pass short right to L.McCoy to PHI 16 for 4 yards (P.Posluszny).,10,3,4,PHI 12,0,PHI,
+25,3955,1,12:21,"(12:21) (No Huddle, Shotgun) N.Foles pass incomplete short right to J.Maclin. PENALTY on PHI-A.Gardner, Offensive Holding, 10 yards, enforced at JAC 30 - No Play.",10,4,48,JAC 30,0,PHI,PENALTY
+25,4034,3,11:38,"(11:38) (No Huddle, Shotgun) D.Sproles up the middle to JAC 33 for 1 yard (P.Posluszny).",14,4,55,JAC 34,0,PHI,
+25,3846,1,14:12,"(14:12) (No Huddle, Shotgun) N.Foles pass incomplete short right to D.Sproles.",10,4,11,PHI 23,0,PHI,
+25,4012,2,11:38,"(11:38) (No Huddle, Shotgun) N.Foles pass incomplete short middle to D.Sproles.",14,4,55,JAC 34,0,PHI,
+25,3991,1,12:21,"(12:21) (No Huddle, Shotgun) D.Sproles right end to JAC 34 for 6 yards.",20,4,55,JAC 40,0,PHI,
+26,4166,3,09:41,(9:41) C.Henne pass short left to M.Lewis to JAC 36 for 2 yards (E.Wolff).,1,4,16,JAC 34,0,JAC,
+26,4091,1,10:55,"(10:55) (Shotgun) C.Henne pass incomplete deep middle to M.Lee. PENALTY on PHI-B.Fletcher, Defensive Holding, 5 yards, enforced at JAC 20 - No Play.",10,4,5,JAC 20,0,JAC,PENALTY
+26,4211,2,08:45,(8:45) (No Huddle) T.Gerhart up the middle to PHI 48 for 7 yards (B.Allen).,1,4,32,JAC 45,0,JAC,
+26,4275,3,07:27,"(7:27) (Shotgun) C.Henne pass incomplete short middle to A.Hurns. Philadelphia challenged the pass completion ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",8,4,34,PHI 46,0,JAC,TIMEOUT
+26,4145,2,10:21,"(10:21) (No Huddle, Shotgun) T.Gerhart right end to JAC 34 for 1 yard (T.Cole).",2,4,14,JAC 33,0,JAC,
+26,4074,0,10:55,"C.Parkey kicks 65 yards from PHI 35 to end zone, Touchback.",0,4,0,PHI 35,0,PHI,KICKOFF
+26,4253,2,07:32,(7:32) (Shotgun) C.Henne pass incomplete deep right to M.Lewis.,8,4,34,PHI 46,0,JAC,
+26,4190,1,09:11,(9:11) T.Gerhart up the middle to JAC 45 for 9 yards (V.Curry).,10,4,25,JAC 36,0,JAC,
+26,4124,1,10:49,(10:49) (Shotgun) C.Henne right end to JAC 33 for 8 yards (M.Kendricks).,10,4,13,JAC 25,0,JAC,
+26,4297,4,07:22,"(7:22) B.Anger punts 29 yards to PHI 17, Center-C.Tinker, downed by JAC-D.McCray. PENALTY on JAC, Chop Block, 15 yards, enforced at PHI 17.",8,4,34,PHI 46,0,JAC,PUNT
+26,4232,1,08:09,(8:09) (No Huddle) T.Gerhart right tackle to PHI 46 for 2 yards (V.Curry).,10,4,34,PHI 48,0,JAC,
+27,4407,0,06:59,"C.Parkey extra point is GOOD, Center-J.Dorenbos, Holder-D.Jones.",0,4,68,JAC 2,1,PHI,XP
+27,4386,1,07:10,"(7:10) N.Foles pass deep middle to J.Maclin for 68 yards, TOUCHDOWN.",10,4,68,PHI 32,1,PHI,TD
+20,3141,3,07:12,(7:12) (Shotgun) C.Henne pass incomplete short right to M.Brown [V.Curry].,10,3,0,JAC 20,0,JAC,
+20,3163,4,07:09,"(7:09) B.Anger punts 53 yards to PHI 27, Center-C.Tinker. D.Sproles to PHI 49 for 22 yards (W.Ta'ufo'ou; C.Tinker).",10,3,0,JAC 20,0,JAC,PUNT
+20,3097,1,07:19,(7:19) (Shotgun) C.Henne pass incomplete short left to M.Lee (M.Kendricks).,10,3,0,JAC 20,0,JAC,
+20,3119,2,07:16,(7:16) (Shotgun) C.Henne pass incomplete short left to J.Todman.,10,3,0,JAC 20,0,JAC,
+20,3082,0,07:19,"C.Parkey kicks 65 yards from PHI 35 to end zone, Touchback.",0,3,0,PHI 35,0,PHI,KICKOFF
+21,3233,3,05:51,"(5:51) (No Huddle, Shotgun) N.Foles pass incomplete deep left to R.Cooper.",8,3,2,JAC 49,0,PHI,
+21,3188,1,06:57,"(6:57) (No Huddle, Shotgun) N.Foles pass short left to L.McCoy to JAC 46 for 5 yards (G.Hayes).",10,3,5,PHI 49,0,PHI,
+21,3255,4,05:45,"(5:45) D.Jones punts 39 yards to JAC 10, Center-J.Dorenbos. M.Brown pushed ob at JAC 19 for 9 yards (N.Carroll).",8,3,2,JAC 49,0,PHI,PUNT
+21,3212,2,06:18,"(6:18) (No Huddle, Shotgun) L.McCoy up the middle to JAC 49 for -3 yards (A.Branch).",5,3,2,JAC 46,0,PHI,
+22,3307,2,05:30,(5:30) C.Henne pass incomplete deep right to A.Hurns.,10,3,0,JAC 19,0,JAC,
+22,3285,1,05:37,(5:37) C.Henne pass incomplete short right to M.Shuler [C.Barwin].,10,3,0,JAC 19,0,JAC,
+22,3368,4,05:17,"(5:17) B.Anger punts 41 yards to PHI 40, Center-C.Tinker, downed by JAC-D.Watson.",10,3,0,JAC 19,0,JAC,PUNT
+22,3346,3,05:25,(5:25) (Shotgun) C.Henne pass incomplete deep right to M.Lee (B.Fletcher).,10,3,0,JAC 19,0,JAC,
+22,3329,0,05:25,Timeout #1 by JAC at 05:25.,0,3,0,,0,,TIMEOUT
+23,3387,1,05:09,"(5:09) N.Foles pass short left to R.Cooper to JAC 47 for 13 yards (A.Ball). Penalty on JAC-A.Ball, Illegal Contact, declined. Penalty on JAC-C.Clemons, Defensive Holding, declined.",10,3,21,PHI 40,0,PHI,
+23,3488,4,03:25,"(3:25) D.Jones punts 29 yards to JAC 15, Center-J.Dorenbos, fair catch by M.Brown.",7,3,16,JAC 44,0,PHI,PUNT
+23,3464,3,03:59,"(3:59) (No Huddle, Shotgun) N.Foles pass short left to D.Sproles to JAC 44 for -2 yards (C.Clemons; S.Marks).",5,3,16,JAC 42,0,PHI,
+23,3443,2,04:27,(4:27) (Shotgun) D.Sproles left end to JAC 42 for -3 yards (C.Prosinski).,2,3,18,JAC 39,0,PHI,
+23,3422,1,04:51,(4:51) (Shotgun) L.McCoy left end to JAC 39 for 8 yards (J.Evans).,10,3,21,JAC 47,0,PHI,
+28,4423,0,06:59,"C.Parkey kicks 65 yards from PHI 35 to end zone, Touchback.",0,4,0,PHI 35,0,PHI,KICKOFF
+28,4523,4,06:01,(6:01) C.Henne pass incomplete short right to M.Lewis.,1,4,9,JAC 29,0,JAC,
+28,4499,3,06:48,(6:48) (Shotgun) C.Henne pass short left to M.Brown to JAC 29 for 9 yards (B.Boykin).,10,4,9,JAC 20,0,JAC,
+28,4482,0,06:48,Timeout #3 by JAC at 06:48.,0,4,0,,0,,TIMEOUT
+28,4438,1,06:57,(6:57) (Shotgun) C.Henne pass incomplete short right to M.Lee.,10,4,0,JAC 20,0,JAC,
+28,4460,2,06:52,(6:52) C.Henne pass incomplete short right to A.Hurns (D.Ryans).,10,4,0,JAC 20,0,JAC,
+29,4688,4,02:00,"(2:00) C.Parkey 28 yard field goal is GOOD, Center-J.Dorenbos, Holder-D.Jones.",6,4,20,JAC 9,1,PHI,FG
+29,4671,0,02:00,Two-Minute Warning,0,4,20,,0,,
+29,4566,2,05:10,(5:10) L.McCoy left tackle to JAC 32 for -3 yards (G.Hayes).,10,4,-3,JAC 29,0,PHI,
+29,4608,1,03:37,(3:37) (Shotgun) L.McCoy left tackle to JAC 12 for 1 yard (C.Clemons).,10,4,17,JAC 13,0,PHI,
+29,4629,2,02:56,(2:56) (Shotgun) D.Sproles up the middle to JAC 8 for 4 yards (L.Reynolds).,9,4,21,JAC 12,0,PHI,
+29,4587,3,04:25,(4:25) (Shotgun) L.McCoy right end to JAC 13 for 19 yards (W.Guy; J.Evans).,13,4,16,JAC 32,0,PHI,
+29,4545,1,05:56,(5:56) L.McCoy right tackle to JAC 29 for no gain (L.Reynolds).,10,4,0,JAC 29,0,PHI,
+29,4650,3,02:13,(2:13) (Shotgun) D.Sproles right guard to JAC 9 for -1 yards (L.Reynolds).,5,4,20,JAC 8,0,PHI,
+1,75,2,13:45,(13:45) T.Gerhart right guard to JAC 29 for 2 yards (F.Cox).,3,1,9,JAC 27,0,JAC,
+1,51,1,14:59,(14:59) C.Henne pass short right to M.Lewis to JAC 27 for 7 yards (B.Fletcher).,10,1,7,JAC 20,0,JAC,
+1,36,0,15:00,"C.Parkey kicks 65 yards from PHI 35 to end zone, Touchback.",0,1,0,PHI 35,0,PHI,KICKOFF
+1,117,4,13:08,"(13:08) B.Anger punts 61 yards to PHI 11, Center-C.Tinker. D.Sproles to PHI 27 for 16 yards (W.Ta'ufo'ou).",2,1,8,JAC 28,0,JAC,PUNT
+1,96,3,13:36,"(13:36) T.Gerhart right tackle to JAC 28 for -1 yards (D.Ryans, T.Cole).",1,1,8,JAC 29,0,JAC,
+3,280,1,10:58,(10:58) (Shotgun) C.Henne sacked at PHI 45 for -1 yards (M.Kendricks).,10,1,-1,PHI 44,0,JAC,
+3,303,2,10:15,(10:15) (Shotgun) T.Gerhart left end to PHI 34 for 11 yards (N.Allen).,11,1,10,PHI 45,0,JAC,
+3,365,0,09:00,"J.Scobee extra point is GOOD, Center-C.Tinker, Holder-B.Anger.",0,1,44,PHI 2,1,JAC,XP
+3,324,1,09:44,(9:44) (No Huddle) T.Gerhart right end to PHI 34 for no gain (M.Jenkins).,10,1,10,PHI 34,0,JAC,
+3,345,2,09:06,"(9:06) C.Henne pass deep left to A.Hurns for 34 yards, TOUCHDOWN.",10,1,44,PHI 34,1,JAC,TD
+2,142,1,12:56,"(12:56) (No Huddle, Shotgun) N.Foles pass incomplete short right to J.Maclin.",10,1,0,PHI 27,0,PHI,
+2,209,1,11:54,"(11:54) (No Huddle, Shotgun) L.McCoy up the middle to JAC 44 for 4 yards (D.Gratz).",10,1,29,JAC 48,0,PHI,
+2,185,3,12:24,"(12:24) (No Huddle, Shotgun) N.Foles pass deep right to Z.Ertz to JAC 48 for 26 yards (W.Guy).",11,1,25,PHI 26,0,PHI,
+2,164,2,12:53,"(12:53) (No Huddle, Shotgun) L.McCoy left guard to PHI 26 for -1 yards (S.Marks).",10,1,-1,PHI 27,0,PHI,
+2,251,3,11:06,"(11:06) (No Huddle, Shotgun) N.Foles sacked at JAC 49 for -6 yards (C.Clemons). FUMBLES (C.Clemons), RECOVERED by JAC-R.Davis at PHI 44. R.Davis to PHI 44 for no gain (A.Barbre).",5,1,17,JAC 43,0,PHI,FUMBLE
+2,230,2,11:34,"(11:34) (No Huddle, Shotgun) L.McCoy right end pushed ob at JAC 43 for 1 yard (W.Blackmon).",6,1,30,JAC 44,0,PHI,
+5,535,1,07:00,(7:00) C.Henne pass incomplete short right to A.Robinson.,10,1,21,PHI 21,0,JAC,
+5,577,0,06:50,"J.Scobee extra point is GOOD, Center-C.Tinker, Holder-B.Anger.",0,1,21,PHI 2,1,JAC,XP
+5,557,2,06:55,"(6:55) (Shotgun) C.Henne pass short right to A.Hurns for 21 yards, TOUCHDOWN.",10,1,21,PHI 21,1,JAC,TD
+4,453,1,08:09,(8:09) (Shotgun) D.Sproles right guard to PHI 35 for no gain (T.Alualu).,10,1,17,PHI 35,0,PHI,
+4,381,0,09:00,J.Scobee kicks 71 yards from JAC 35 to PHI -6. N.Carroll to PHI 18 for 24 yards (W.Blackmon).,0,1,0,JAC 35,0,JAC,KICKOFF
+4,403,1,08:54,"(8:54) (No Huddle, Shotgun) L.McCoy right end pushed ob at PHI 22 for 4 yards (P.Posluszny).",10,1,17,PHI 18,0,PHI,
+4,474,2,07:42,"(7:42) (No Huddle, Shotgun) N.Foles scrambles right end to PHI 37 for 2 yards (E.Hood). PENALTY on PHI-T.Herremans, Offensive Holding, 10 yards, enforced at PHI 35 - No Play.",10,1,3,PHI 35,0,PHI,PENALTY
+4,506,2,07:09,"(7:09) (Shotgun) N.Foles sacked at PHI 16 for -9 yards (A.Branch). FUMBLES (A.Branch), RECOVERED by JAC-E.Hood at PHI 21. E.Hood to PHI 21 for no gain (J.Kelce).",20,1,3,PHI 25,0,PHI,FUMBLE
+4,427,2,08:30,(8:30) L.McCoy right end to PHI 35 for 13 yards (W.Guy).,6,1,17,PHI 22,0,PHI,
+7,881,4,03:04,"(3:04) B.Anger punts 48 yards to PHI 44, Center-C.Tinker, fair catch by D.Sproles.",19,1,-9,JAC 8,0,JAC,PUNT
+7,831,3,03:23,(3:23) (Shotgun) C.Henne sacked at JAC 8 for -9 yards (N.Allen).,10,1,-9,JAC 17,0,JAC,
+7,787,2,04:32,(4:32) (No Huddle) T.Gerhart up the middle to JAC 22 for -3 yards (B.Graham).,2,1,5,JAC 25,0,JAC,
+7,766,1,05:03,(5:03) T.Gerhart left end to JAC 25 for 3 yards (B.Logan).,5,1,8,JAC 22,0,JAC,
+7,808,3,03:50,"(3:50) (Shotgun) PENALTY on JAC-J.McClendon, False Start, 5 yards, enforced at JAC 22 - No Play.",5,1,0,JAC 22,0,JAC,PENALTY
+7,743,1,05:03,"(5:03) PENALTY on PHI-C.Thornton, Defensive Offside, 5 yards, enforced at JAC 17 - No Play.",10,1,5,JAC 17,0,JAC,PENALTY
+6,593,0,06:50,"J.Scobee kicks 65 yards from JAC 35 to end zone, Touchback.",0,1,0,JAC 35,0,JAC,KICKOFF
+6,696,3,05:19,"(5:19) (No Huddle, Shotgun) N.Foles pass incomplete short right to Z.Ertz [C.Clemons].",7,1,17,PHI 37,0,PHI,
+6,718,4,05:13,"(5:13) D.Jones punts 52 yards to JAC 11, Center-J.Dorenbos. M.Brown to JAC 17 for 6 yards (C.Maragos).",7,1,17,PHI 37,0,PHI,PUNT
+6,674,2,05:24,"(5:24) (No Huddle, Shotgun) N.Foles pass incomplete deep right to J.Matthews.",7,1,17,PHI 37,0,PHI,
+6,629,2,06:25,"(6:25) (No Huddle, Shotgun) L.McCoy left end to PHI 34 for 5 yards (R.Bryant).",1,1,14,PHI 29,0,PHI,
+6,608,1,06:50,(6:50) (Shotgun) L.McCoy right end to PHI 29 for 9 yards (P.Posluszny).,10,1,9,PHI 20,0,PHI,
+6,650,1,05:59,"(5:59) (No Huddle, Shotgun) N.Foles pass short right to D.Sproles to PHI 37 for 3 yards (P.Posluszny).",10,1,17,PHI 34,0,PHI,
+9,1142,2,14:27,(14:27) (Shotgun) C.Henne pass incomplete short left to A.Robinson.,7,2,68,PHI 31,0,JAC,
+9,1164,0,14:23,Timeout #1 by JAC at 14:23.,0,2,68,,0,,TIMEOUT
+9,1046,1,01:07,"(1:07) (No Huddle, Shotgun) C.Henne pass short right to M.Lewis to PHI 49 for 4 yards (C.Thornton).",10,1,50,JAC 47,0,JAC,
+9,1022,1,01:27,(1:27) (Shotgun) C.Henne pass deep left to A.Hurns to JAC 47 for 46 yards (M.Jenkins).,10,1,46,JAC 1,0,JAC,
+9,1070,2,00:29,"(:29) T.Gerhart left end to PHI 49 for no gain (F.Cox). JAC-T.Gerhart was injured during the play. His return is Questionable.  PENALTY on PHI-F.Cox, Horse Collar Tackle, 15 yards, enforced at PHI 49.",6,1,68,PHI 49,0,JAC,PENALTY
+9,1181,3,14:23,(14:23) (Shotgun) C.Henne pass incomplete short right to A.Hurns (C.Barwin).,7,2,68,PHI 31,0,JAC,
+9,1102,0,,END QUARTER 1,0,1,65,,0,,
+9,1203,4,14:19,"(14:19) J.Scobee 49 yard field goal is GOOD, Center-C.Tinker, Holder-B.Anger.",7,2,68,PHI 31,1,JAC,FG
+9,1118,1,15:00,(15:00) (Shotgun) C.Henne pass short right to D.Robinson to PHI 31 for 3 yards (M.Kendricks).,10,2,68,PHI 34,0,JAC,
+8,929,1,02:43,"(2:43) (No Huddle, Shotgun) N.Foles pass incomplete short right to J.Maclin.",10,1,12,JAC 44,0,PHI,
+8,958,2,02:41,"(2:41) (No Huddle, Shotgun) D.Sproles left end to JAC 45 for -1 yards (W.Guy).",10,1,11,JAC 44,0,PHI,
+8,1003,4,01:28,"(1:28) D.Jones punts 39 yards to JAC 1, Center-J.Dorenbos, downed by PHI-B.Boykin.",6,1,16,JAC 40,0,PHI,PUNT
+8,979,3,02:05,"(2:05) (No Huddle, Shotgun) N.Foles pass short middle to D.Sproles to JAC 40 for 5 yards (W.Blackmon).",11,1,16,JAC 45,0,PHI,
+8,905,1,03:04,(3:04) (Shotgun) N.Foles pass short middle to B.Celek to JAC 44 for 12 yards (P.Posluszny).,10,1,16,PHI 44,0,PHI,
+11,1349,2,12:34,"(12:34) (No Huddle, Shotgun) D.Robinson left end to PHI 31 for 3 yards (V.Curry; T.Cole).",4,2,9,PHI 34,0,JAC,
+11,1328,1,13:01,(13:01) D.Robinson left end to PHI 34 for 6 yards (M.Jenkins).,10,2,6,PHI 40,0,JAC,
+11,1408,4,11:09,"(11:09) J.Scobee 50 yard field goal is No Good, Wide Left, Center-C.Tinker, Holder-B.Anger.",2,2,8,PHI 32,0,JAC,FGM
+11,1391,0,11:09,Timeout #2 by JAC at 11:09.,0,2,8,,0,,TIMEOUT
+11,1370,3,12:00,"(12:00) (No Huddle, Shotgun) D.Robinson left end to PHI 32 for -1 yards (B.Bair).",1,2,8,PHI 31,0,JAC,
+10,1241,1,14:14,(14:14) (Shotgun) N.Foles pass incomplete short right to J.Maclin.,10,2,0,PHI 20,0,PHI,
+10,1263,2,14:08,"(14:08) (No Huddle, Shotgun) L.McCoy left end ran ob at PHI 19 for -1 yards.",10,2,-1,PHI 20,0,PHI,
+10,1303,4,13:11,"(13:11) D.Jones punts 41 yards to JAC 47, Center-J.Dorenbos. M.Brown to PHI 40 for 13 yards (J.Dorenbos).",18,2,-8,PHI 12,0,PHI,PUNT
+10,1222,0,14:14,"J.Scobee kicks 65 yards from JAC 35 to end zone, Touchback.",0,2,0,JAC 35,0,JAC,KICKOFF
+10,1284,3,13:38,"(13:38) (No Huddle, Shotgun) N.Foles sacked at PHI 12 for -7 yards (R.Davis).",11,2,-8,PHI 19,0,PHI,
+13,1799,3,04:44,(4:44) (Shotgun) C.Henne pass incomplete short left to M.Lee.,4,2,62,PHI 18,0,JAC,
+13,1589,1,09:32,"(9:32) (No Huddle, Shotgun) T.Gerhart right end to JAC 31 for 1 yard (B.Graham).",10,2,11,JAC 30,0,JAC,
+13,1634,1,08:29,(8:29) (No Huddle) T.Gerhart up the middle to JAC 45 for 3 yards (F.Cox).,10,2,25,JAC 42,0,JAC,
+13,1543,1,10:07,(10:07) (Shotgun) C.Henne pass incomplete short left to A.Hurns.,10,2,0,JAC 20,0,JAC,
+13,1707,2,06:46,"(6:46) (No Huddle, Shotgun) C.Henne pass deep right to M.Brown pushed ob at PHI 24 for 17 yards (N.Carroll).",5,2,56,PHI 41,0,JAC,
+13,1731,1,06:20,"(6:20) (No Huddle) PENALTY on PHI-T.Cole, Neutral Zone Infraction, 5 yards, enforced at PHI 24 - No Play.",10,2,61,PHI 24,0,JAC,PENALTY
+13,1821,4,04:41,"(4:41) J.Scobee 36 yard field goal is BLOCKED (B.Bair), Center-C.Tinker, Holder-B.Anger, recovered by JAC-B.Linder at PHI 26.",4,2,62,PHI 18,0,JAC,FGB
+13,1778,2,05:26,(5:26) T.Gerhart right end to PHI 18 for 1 yard (F.Cox).,5,2,62,PHI 19,0,JAC,
+13,1610,2,08:59,(8:59) (No Huddle) C.Henne pass short right to M.Lewis to JAC 42 for 11 yards (N.Carroll).,9,2,22,JAC 31,0,JAC,
+13,1683,1,07:22,(7:22) (No Huddle) C.Henne pass short right to M.Lee to PHI 41 for 5 yards (B.Boykin).,10,2,39,PHI 46,0,JAC,
+13,1754,1,06:03,(6:03) (Shotgun) C.Henne pass short left to A.Robinson to PHI 19 for no gain (B.Boykin).,5,2,61,PHI 19,0,JAC,
+13,1565,2,10:03,"(10:03) (No Huddle, Shotgun) C.Henne pass short middle to M.Brown to JAC 30 for 10 yards (D.Ryans; N.Allen).",10,2,10,JAC 20,0,JAC,
+13,1655,2,07:59,(7:59) C.Henne pass short left to A.Hurns to PHI 46 for 9 yards (C.Williams).,7,2,34,JAC 45,0,JAC,
+12,1428,1,11:07,"(11:07) (Shotgun) N.Foles pass deep right to J.Matthews to JAC 30 for 30 yards (D.Gratz). PENALTY on JAC-W.Guy, Personal Foul, 15 yards, enforced at JAC 30.",10,2,55,PHI 40,0,PHI,PENALTY
+12,1492,2,10:43,"(10:43) (No Huddle, Shotgun) N.Foles pass short middle to J.Maclin to JAC 5 for 10 yards (T.Smith).",10,2,55,JAC 15,0,PHI,
+12,1516,1,10:13,"(10:13) (No Huddle, Shotgun) N.Foles pass short left intended for B.Celek INTERCEPTED by A.Ball at JAC -9. Touchback.",5,2,55,JAC 5,0,PHI,INT
+12,1463,1,10:44,(10:44) N.Foles pass incomplete short left.,10,2,55,JAC 15,0,PHI,
+15,2341,2,00:45,(:45) J.Todman right end to JAC 10 for 1 yard (C.Thornton).,10,2,1,JAC 9,0,JAC,
+15,2417,4,00:36,"(:36) B.Anger punts 49 yards to PHI 36, Center-C.Tinker, fair catch by D.Sproles.",4,2,6,JAC 15,0,JAC,PUNT
+15,2324,0,00:45,Timeout #1 by PHI at 00:45.,0,2,0,,0,,TIMEOUT
+15,2303,1,00:50,(:50) J.Todman left end to JAC 9 for no gain (B.Logan).,10,2,0,JAC 9,0,JAC,
+15,2379,3,00:41,(:41) J.Todman right tackle to JAC 15 for 5 yards (D.Ryans).,9,2,6,JAC 10,0,JAC,
+15,2400,0,00:36,Timeout #3 by PHI at 00:36.,0,2,6,,0,,TIMEOUT
+15,2362,0,00:41,Timeout #2 by PHI at 00:41.,0,2,1,,0,,TIMEOUT
+14,2046,2,02:21,(2:21) (Shotgun) N.Foles pass incomplete deep left to R.Cooper.,10,2,12,PHI 38,0,PHI,
+14,2068,3,02:16,"(2:16) (No Huddle, Shotgun) N.Foles pass short right to J.Maclin to PHI 49 for 11 yards (D.Gratz).",10,2,23,PHI 38,0,PHI,
+14,2202,2,01:29,(1:29) N.Foles pass short middle to J.Maehl to JAC 44 for 12 yards (A.Ball).,27,2,30,PHI 44,0,PHI,
+14,1979,3,02:36,"(2:36) (No Huddle, Shotgun) N.Foles pass short right to J.Maclin to PHI 40 for 7 yards (W.Blackmon). PENALTY on JAC-W.Blackmon, Illegal Contact, 5 yards, enforced at PHI 33 - No Play.",11,2,23,PHI 33,0,PHI,PENALTY
+14,2226,3,01:07,"(1:07) N.Foles pass short middle to D.Sproles to JAC 44 for no gain (G.Hayes). PENALTY on JAC-C.Clemons, Defensive Offside, 5 yards, enforced at JAC 44 - No Play.",15,2,35,JAC 44,0,PHI,PENALTY
+14,1851,1,04:36,(4:36) L.McCoy up the middle to PHI 25 for -1 yards (G.Hayes).,10,2,-1,PHI 26,0,PHI,
+14,2284,4,00:57,"(:57) D.Jones punts 30 yards to JAC 9, Center-J.Dorenbos, fair catch by M.Brown.",10,2,35,JAC 39,0,PHI,PUNT
+14,2024,1,02:27,(2:27) N.Foles pass incomplete deep left to J.Maclin.,10,2,23,PHI 38,0,PHI,
+14,1954,2,03:15,"(3:15) (No Huddle, Shotgun) N.Foles sacked at PHI 33 for -6 yards (S.Marks).",5,2,23,PHI 39,0,PHI,
+14,2109,1,02:00,"(2:00) (Shotgun) N.Foles pass short right to L.McCoy to JAC 39 for 12 yards (P.Posluszny). FUMBLES (P.Posluszny), RECOVERED by JAC-G.Hayes at JAC 39. G.Hayes to JAC 39 for no gain (R.Cooper). The Replay Official challenged the fumble ruling, and the play was REVERSED. (Shotgun) N.Foles pass short right to L.McCoy to JAC 39 for 12 yards (P.Posluszny).",10,2,35,PHI 49,0,PHI,
+14,1872,2,04:12,(4:12) (Shotgun) N.Foles pass short left to R.Cooper to PHI 29 for 4 yards (C.Clemons).,11,2,3,PHI 25,0,PHI,
+14,2092,0,02:00,Two-Minute Warning,0,2,23,,0,,
+14,2262,3,01:04,(1:04) N.Foles pass incomplete deep right to J.Maclin.,10,2,35,JAC 39,0,PHI,
+14,1929,1,03:39,(3:39) (Shotgun) L.McCoy left end to PHI 39 for 5 yards (P.Posluszny).,10,2,23,PHI 34,0,PHI,
+14,1896,3,03:43,"(3:43) (No Huddle, Shotgun) N.Foles pass incomplete short left to R.Cooper. PENALTY on JAC-A.Ball, Defensive Holding, 5 yards, enforced at PHI 29 - No Play.",7,2,23,PHI 29,0,PHI,PENALTY
+14,2149,1,01:38,(1:38) N.Foles sacked at PHI 44 for -17 yards (R.Davis).,10,2,18,JAC 39,0,PHI,
+17,2785,4,11:46,"(11:46) D.Sproles up the middle for 49 yards, TOUCHDOWN.",1,3,80,JAC 49,1,PHI,TD
+17,2620,3,14:31,"(14:31) (No Huddle, Shotgun) N.Foles pass short right to J.Maclin to PHI 31 for 8 yards (P.Posluszny).",7,3,11,PHI 23,0,PHI,
+17,2559,0,15:00,"J.Scobee kicks 65 yards from JAC 35 to end zone, Touchback.",0,3,0,JAC 35,0,JAC,KICKOFF
+17,2574,1,15:00,(15:00) N.Foles pass incomplete deep left to R.Cooper.,10,3,0,PHI 20,0,PHI,
+17,2644,1,14:09,"(14:09) (No Huddle, Shotgun) L.McCoy right end to PHI 29 for -2 yards (L.Reynolds; P.Posluszny).",10,3,9,PHI 31,0,PHI,
+17,2596,2,14:55,"(14:55) (No Huddle, Shotgun) N.Foles pass short left to R.Cooper to PHI 23 for 3 yards (S.Marks).",10,3,3,PHI 20,0,PHI,
+17,2739,2,12:19,"(12:19) (No Huddle, Shotgun) N.Foles pass incomplete short middle to J.Matthews.",9,3,23,PHI 43,0,PHI,
+17,2670,2,13:42,(13:42) (Shotgun) N.Foles pass short left to R.Cooper to PHI 38 for 9 yards (A.Ball).,12,3,18,PHI 29,0,PHI,
+17,2761,3,12:15,"(12:15) (No Huddle, Shotgun) N.Foles pass short right to D.Sproles to JAC 49 for 8 yards (J.Thomas).",9,3,31,PHI 43,0,PHI,
+17,2694,3,13:20,"(13:20) (No Huddle, Shotgun) N.Foles pass short right to B.Celek to PHI 42 for 4 yards (L.Reynolds; D.Gratz).",3,3,22,PHI 38,0,PHI,
+17,2718,1,12:51,"(12:51) (No Huddle, Shotgun) D.Sproles left guard to PHI 43 for 1 yard (L.Reynolds).",10,3,23,PHI 42,0,PHI,
+17,2802,0,11:44,"C.Parkey extra point is GOOD, Center-J.Dorenbos, Holder-D.Jones.",0,3,80,JAC 2,1,PHI,XP
+16,2543,0,,END QUARTER 2,0,2,14,,0,,
+16,2521,3,00:04,"(:04) (No Huddle, Shotgun) N.Foles pass incomplete deep middle to J.Maclin.",6,2,14,50,0,PHI,
+16,2460,1,00:12,"(:12) (No Huddle, Shotgun) N.Foles spiked the ball to stop the clock.",10,2,10,PHI 46,0,PHI,
+16,2436,1,00:28,(:28) (Shotgun) N.Foles pass short right to L.McCoy to PHI 46 for 10 yards (J.Evans).,10,2,10,PHI 36,0,PHI,
+16,2497,2,00:07,(:07) (Shotgun) N.Foles pass short middle to L.McCoy to 50 for 4 yards.,10,2,14,PHI 46,0,PHI,
+19,2998,1,08:31,"(8:31) (No Huddle, Shotgun) N.Foles pass short middle to L.McCoy to JAC 24 for 6 yards (T.Smith).",10,3,16,JAC 30,0,PHI,
+19,2934,1,09:29,(9:29) (Shotgun) N.Foles pass incomplete deep left to Z.Ertz.,10,3,0,JAC 40,0,PHI,
+19,3022,2,07:57,"(7:57) (No Huddle, Shotgun) N.Foles pass short right to B.Celek to JAC 25 for -1 yards (T.Smith).",4,3,15,JAC 24,0,PHI,
+19,3066,0,07:19,"C.Parkey extra point is GOOD, Center-J.Dorenbos, Holder-D.Jones.",0,3,40,JAC 2,1,PHI,XP
+19,2956,2,09:26,"(9:26) (No Huddle, Shotgun) L.McCoy up the middle to JAC 32 for 8 yards (R.Miller).",10,3,8,JAC 40,0,PHI,
+19,2977,3,09:01,"(9:01) (No Huddle, Shotgun) L.McCoy right end to JAC 30 for 2 yards (W.Blackmon).",2,3,40,JAC 32,0,PHI,
+19,3046,3,07:27,"(7:27) (No Huddle, Shotgun) N.Foles pass deep middle to Z.Ertz for 25 yards, TOUCHDOWN.",5,3,40,JAC 25,1,PHI,TD
+18,2861,2,11:03,(11:03) C.Henne pass short right to M.Lewis to JAC 16 for no gain (C.Barwin).,8,3,2,JAC 16,0,JAC,
+18,2909,4,09:42,"(9:42) B.Anger punts 41 yards to PHI 38, Center-C.Tinker. D.Sproles to JAC 40 for 22 yards (C.Tinker; C.Prosinski).",3,3,7,JAC 21,0,JAC,PUNT
+18,2818,0,11:44,C.Parkey kicks 69 yards from PHI 35 to JAC -4. J.Todman to JAC 14 for 18 yards (C.Maragos).,0,3,0,PHI 35,0,PHI,KICKOFF
+18,2840,1,11:40,(11:40) (Shotgun) T.Gerhart right end to JAC 16 for 2 yards (F.Cox).,10,3,2,JAC 14,0,JAC,
+18,2885,3,10:19,(10:19) (Shotgun) C.Henne pass short right to J.Todman to JAC 21 for 5 yards (M.Kendricks).,8,3,7,JAC 16,0,JAC,
+31,4938,1,00:17,"(:17) (No Huddle, Shotgun) C.Henne pass short middle to M.Lee to PHI 41 for 12 yards (M.Jenkins).",10,4,46,JAC 47,0,JAC,
+31,4809,1,01:19,"(1:19) (Shotgun) C.Henne pass incomplete short right to J.Todman. PENALTY on JAC, Ineligible Downfield Pass, 5 yards, enforced at JAC 13 - No Play.",10,4,12,JAC 13,0,JAC,PENALTY
+31,4914,2,00:40,(:40) (Shotgun) C.Henne pass short middle to M.Lee to JAC 47 for 18 yards (M.Kendricks).,6,4,34,JAC 29,0,JAC,
+31,4890,1,00:43,(:43) (Shotgun) C.Henne pass short left to T.Gerhart ran ob at JAC 29 for 4 yards.,10,4,16,JAC 25,0,JAC,
+31,4787,0,01:23,C.Parkey kicks 70 yards from PHI 35 to JAC -5. J.Todman to JAC 13 for 18 yards (E.Wolff).,0,4,0,PHI 35,0,PHI,KICKOFF
+31,4866,2,00:58,(:58) C.Henne pass short middle to T.Gerhart to JAC 25 for 11 yards (C.Barwin).,9,4,12,JAC 14,0,JAC,
+31,4962,0,00:00,END GAME,0,4,46,,0,,
+31,4842,1,01:14,(1:14) (Shotgun) C.Henne pass short left to M.Lee to JAC 14 for 6 yards (B.Boykin).,15,4,1,JAC 8,0,JAC,
+30,4707,0,01:57,"C.Parkey kicks 65 yards from PHI 35 to end zone, Touchback.",0,4,0,PHI 35,0,PHI,KICKOFF
+30,4746,1,01:33,"(1:33) (No Huddle, Shotgun) C.Henne sacked at JAC 23 for -8 yards (T.Cole). FUMBLES (T.Cole), RECOVERED by PHI-F.Cox at JAC 17. F.Cox for 17 yards, TOUCHDOWN.",10,4,-3,JAC 31,1,JAC,TD
+30,4722,1,01:57,(1:57) (Shotgun) C.Henne pass short left to M.Lewis to JAC 31 for 11 yards (D.Ryans).,10,4,11,JAC 20,0,JAC,

@@ -1,195 +1,195 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1780,1,02:56,,10,2,65,IND 19,0,KC,
-9,1620,1,05:59,,10,2,28,KC 46,0,KC,
-9,1696,1,04:12,,10,2,43,IND 43,0,KC,
-9,1739,0,03:29,,0,2,43,,0,,TIMEOUT
-9,1493,0,09:14,,0,2,0,IND 35,0,IND,KICKOFF
-9,1557,1,08:03,,10,2,14,KC 30,0,KC,
-9,1578,2,07:19,,7,2,20,KC 33,0,KC,
-9,1897,1,01:55,,4,2,81,IND 4,1,KC,TD
-9,1804,2,02:11,,7,2,65,IND 16,0,KC,
-9,1864,1,01:59,,8,2,77,IND 8,0,KC,PENALTY
-9,1536,2,08:42,,3,2,11,KC 26,0,KC,
-9,1717,2,03:34,,5,2,43,IND 38,0,KC,
-9,1515,1,09:09,,10,2,7,KC 19,0,KC,
-9,1914,0,01:51,,0,2,81,IND 2,1,KC,XP
-9,1756,3,03:29,,5,2,62,IND 38,0,KC,
-9,1672,3,04:53,,4,2,38,IND 48,0,KC,
-9,1648,2,05:23,,9,2,33,KC 47,0,KC,
-9,1599,3,06:37,,1,2,27,KC 39,0,KC,
-9,1826,3,02:06,,7,2,73,IND 16,0,KC,
-24,4113,1,05:36,,10,4,0,IND 20,0,IND,
-24,4206,0,04:21,,0,4,80,KC 2,1,IND,XP
-24,4159,3,04:58,,5,4,16,IND 25,0,IND,
-24,4186,1,04:29,,10,4,80,IND 36,1,IND,TD
-24,4095,0,05:36,,0,4,0,KC 35,0,KC,KICKOFF
-24,4138,2,05:32,,10,4,5,IND 20,0,IND,
-10,2058,1,01:02,,5,2,37,IND 35,0,IND,
-10,1973,2,01:45,,10,2,9,IND 20,0,IND,
-10,1994,3,01:14,,1,2,10,IND 29,0,IND,
-10,2101,2,00:33,,17,2,30,IND 50,0,IND,INT
-10,1930,0,01:51,,0,2,0,KC 35,0,KC,KICKOFF
-10,2035,1,01:02,,10,2,15,IND 30,0,IND,PENALTY
-10,2018,0,01:02,,0,2,10,,0,,TIMEOUT
-10,1948,1,01:51,,10,2,0,IND 20,0,IND,
-10,2082,1,00:56,,10,2,30,KC 43,0,IND,
-20,3248,0,02:31,,0,3,80,KC 2,1,IND,XP
-20,3159,1,03:05,,10,3,55,KC 25,0,IND,
-20,3089,0,04:12,,0,3,0,KC 35,0,KC,KICKOFF
-20,3135,1,03:35,,10,3,55,IND 45,0,IND,
-20,3228,2,02:34,,10,3,80,KC 12,1,IND,TD
-20,3181,2,03:00,,10,3,68,KC 25,0,IND,
-20,3111,1,04:08,,10,3,25,IND 20,0,IND,
-20,3202,1,02:39,,10,3,68,KC 12,0,IND,
-6,1045,0,14:39,,0,2,0,KC 35,0,KC,KICKOFF
-6,1063,1,14:39,,10,2,0,IND 20,0,IND,FUMBLE
-18,2953,1,05:50,,10,3,0,IND 28,0,IND,INT
-26,4423,1,01:55,,10,4,0,IND 43,0,IND,
-26,4486,0,,,0,4,-2,,0,,
-26,4465,3,00:39,,11,4,-2,IND 42,0,IND,
-26,4444,2,01:15,,10,4,-1,IND 43,0,IND,
-25,4240,1,04:21,,10,4,25,KC 20,0,KC,
-25,4383,0,02:00,,0,4,37,,0,,TIMEOUT
-25,4288,1,03:06,,10,4,41,IND 42,0,KC,
-25,4400,4,02:00,,11,4,37,IND 43,0,KC,
-25,4222,0,04:21,,0,4,0,IND 35,0,IND,KICKOFF
-25,4342,3,02:25,,17,4,37,IND 49,0,KC,
-25,4264,1,03:43,,10,4,38,KC 45,0,KC,
-25,4309,2,02:30,,7,4,31,IND 39,0,KC,PENALTY
-1,100,1,13:38,,10,1,23,KC 29,0,KC,
-1,169,1,11:40,,10,1,82,IND 39,0,KC,
-1,274,1,09:47,,10,1,73,IND 16,0,KC,
-1,58,1,14:55,,10,1,5,KC 18,0,KC,
-1,124,1,13:02,,10,1,27,KC 41,0,KC,
-1,148,2,12:21,,6,1,43,KC 45,0,KC,
-1,341,2,08:22,,6,1,76,IND 6,0,KC,
-1,298,2,09:10,,3,1,76,IND 9,0,KC,
-1,319,1,08:26,,6,1,76,IND 6,0,KC,
-1,363,3,08:15,,6,1,82,IND 6,1,KC,TD
-1,253,2,10:26,,5,1,66,IND 21,0,KC,
-1,79,2,14:19,,5,1,11,KC 23,0,KC,
-1,384,0,08:11,,0,1,82,IND 2,1,KC,XP
-1,36,0,15:00,,0,1,0,IND 35,0,IND,KICKOFF
-1,219,1,10:52,,10,1,61,IND 26,0,KC,
-1,193,2,11:20,,3,1,56,IND 32,0,KC,
-5,982,2,14:55,,10,2,0,KC 21,0,KC,
-5,1004,3,14:49,,10,2,79,KC 21,1,KC,TD
-5,1029,0,14:39,,0,2,79,IND 2,1,KC,XP
-5,960,1,15:00,,10,2,0,KC 21,0,KC,
-13,2306,2,14:24,,5,3,8,IND 13,0,KC,
-13,2327,3,13:44,,2,3,18,IND 10,1,KC,TD
-13,2276,1,14:54,,10,3,5,IND 18,0,KC,
-13,2347,0,13:39,,0,3,18,IND 2,1,KC,XP
-21,3310,1,01:44,,10,3,20,KC 40,0,KC,
-21,3264,0,02:31,,0,3,0,IND 35,0,IND,KICKOFF
-21,3334,2,01:04,,11,3,33,KC 39,0,KC,
-21,3286,1,02:25,,10,3,21,KC 19,0,KC,
-21,3425,2,15:00,,8,4,40,IND 41,0,KC,
-21,3388,1,00:17,,10,3,40,IND 43,0,KC,
-21,3469,4,14:47,,8,4,40,IND 41,0,KC,PUNT
-21,3355,1,00:22,,10,3,38,IND 48,0,KC,PENALTY
-21,3447,3,14:55,,8,4,40,IND 41,0,KC,
-23,4025,2,06:18,,7,4,58,IND 26,0,KC,
-23,4052,3,05:46,,11,4,58,IND 30,0,KC,
-23,3872,3,09:26,,5,4,24,KC 35,0,KC,
-23,3941,0,07:24,,0,4,27,,0,,TIMEOUT
-23,3987,0,06:49,,0,4,54,,0,,TIMEOUT
-23,3826,1,09:57,,10,4,58,KC 30,0,KC,
-23,3850,2,09:30,,5,4,18,KC 35,0,KC,
-23,3917,2,08:07,,8,4,27,KC 43,0,KC,
-23,4076,4,05:40,,6,4,58,IND 25,1,KC,FG
-23,3958,3,07:24,,7,4,54,KC 44,0,KC,
-23,3802,1,10:34,,10,4,13,KC 17,0,KC,
-23,4004,1,06:49,,10,4,57,IND 29,0,KC,
-23,3896,1,08:48,,10,4,26,KC 41,0,KC,
-23,3780,0,10:38,,0,4,0,IND 35,0,IND,KICKOFF
-11,2190,3,00:05,,6,2,4,IND 41,0,KC,
-11,2166,2,00:13,,9,2,4,IND 44,0,KC,
-11,2149,0,00:13,,0,2,1,,0,,TIMEOUT
-11,2128,1,00:21,,10,2,1,IND 45,0,KC,
-14,2363,0,13:39,,0,3,24,KC 35,0,KC,KICKOFF
-14,2402,2,13:20,,7,3,13,IND 23,0,IND,
-14,2381,1,13:39,,10,3,3,IND 20,0,IND,
-14,2450,1,12:29,,10,3,70,IND 44,0,IND,
-14,2494,0,11:47,,0,3,80,KC 2,1,IND,XP
-14,2426,1,12:57,,10,3,24,IND 33,0,IND,
-14,2477,1,11:52,,10,3,80,KC 10,1,IND,TD
-8,1427,2,09:26,,10,2,61,KC 19,0,IND,
-8,1198,0,13:05,,0,2,0,KC 35,0,KC,KICKOFF
-8,1216,1,13:05,,10,2,3,IND 20,0,IND,
-8,1405,1,09:30,,10,2,61,KC 19,0,IND,
-8,1356,4,10:48,,1,2,50,IND 49,0,IND,
-8,1262,3,12:33,,7,2,20,IND 23,0,IND,
-8,1240,2,12:40,,7,2,3,IND 23,0,IND,
-8,1449,3,09:21,,10,2,61,KC 19,0,IND,
-8,1310,2,11:29,,5,2,25,IND 45,0,IND,
-8,1471,4,09:18,,10,2,61,KC 19,1,IND,FG
-8,1332,3,11:24,,5,2,29,IND 45,0,IND,
-8,1381,1,10:02,,10,2,61,KC 30,0,IND,
-8,1289,1,12:03,,10,2,25,IND 40,0,IND,
-19,3004,2,05:06,,6,3,4,IND 24,0,KC,
-19,3070,4,04:17,,6,3,4,IND 24,1,KC,FG
-19,2980,1,05:44,,10,3,4,IND 28,0,KC,
-19,3047,0,04:17,,0,3,4,,0,,TIMEOUT
-19,3025,3,04:22,,6,3,4,IND 24,0,KC,
-22,3712,1,11:00,,10,4,88,KC 10,0,IND,
-22,3510,2,14:19,,10,4,0,IND 10,0,IND,
-22,3667,1,12:03,,10,4,71,KC 23,0,IND,
-22,3764,0,10:38,,0,4,90,KC 2,1,IND,XP
-22,3625,1,12:58,,10,4,55,KC 41,0,IND,
-22,3580,1,13:46,,10,4,37,IND 40,0,IND,
-22,3556,1,14:06,,10,4,30,IND 26,0,IND,
-22,3532,3,14:14,,10,4,16,IND 10,0,IND,
-22,3646,2,12:32,,4,4,67,KC 35,0,IND,
-22,3601,2,13:19,,3,4,49,IND 47,0,IND,
-22,3489,1,14:40,,10,4,0,IND 10,0,IND,
-22,3736,2,10:45,,2,4,90,KC 2,1,IND,TD
-22,3688,2,11:35,,6,4,80,KC 19,0,IND,
-12,2228,0,15:00,,0,3,0,KC 35,0,KC,KICKOFF
-12,2249,1,15:00,,10,3,0,IND 20,0,IND,INT
-16,2727,1,08:37,,10,3,19,KC 30,0,IND,
-16,2775,1,07:40,,3,3,38,KC 3,0,IND,
-16,2751,2,08:09,,2,3,38,KC 22,0,IND,
-16,2797,2,07:36,,3,3,41,KC 3,1,IND,TD
-16,2820,0,07:32,,0,3,41,KC 2,1,IND,XP
-16,2670,1,09:00,,10,3,-5,KC 41,0,IND,PENALTY
-16,2703,1,08:53,,15,3,11,KC 46,0,IND,
-7,1124,1,13:48,,4,2,12,IND 4,0,KC,
-7,1182,0,13:05,,0,2,17,IND 2,1,KC,XP
-7,1103,1,14:28,,10,2,13,IND 17,0,KC,
-7,1145,0,13:10,,0,2,12,,0,,TIMEOUT
-7,1162,2,13:10,,5,2,17,IND 5,1,KC,TD
-3,811,4,00:57,,1,1,73,IND 1,1,KC,FG
-3,786,3,01:54,,1,1,73,IND 1,0,KC,
-3,624,1,04:27,,10,1,0,KC 26,0,KC,
-3,761,2,02:30,,2,1,73,IND 2,0,KC,
-3,735,1,02:36,,2,1,72,IND 2,0,KC,
-3,602,0,04:34,,0,1,0,IND 35,0,IND,KICKOFF
-3,711,2,03:26,,6,1,72,KC 35,0,KC,
-3,646,2,04:24,,10,1,73,KC 26,0,KC,PENALTY
-3,685,1,04:02,,10,1,9,KC 31,0,KC,
-17,2858,1,07:26,,10,3,2,KC 20,0,KC,
-17,2883,2,06:48,,8,3,5,KC 22,0,KC,
-17,2836,0,07:32,,0,3,0,IND 35,0,IND,KICKOFF
-17,2926,4,05:58,,5,3,5,KC 25,0,KC,PUNT
-17,2904,3,06:04,,5,3,5,KC 25,0,KC,
-4,873,2,00:21,,6,1,4,IND 34,0,IND,
-4,852,1,00:47,,10,1,4,IND 30,0,IND,
-4,918,4,00:10,,6,1,4,IND 34,0,IND,PUNT
-4,830,0,00:53,,0,1,0,KC 35,0,KC,KICKOFF
-4,896,3,00:16,,6,1,4,IND 34,0,IND,
-2,566,2,04:38,,5,1,74,KC 10,1,IND,TD
-2,542,1,05:15,,10,1,64,KC 15,0,IND,
-2,518,2,05:55,,10,1,59,KC 33,0,IND,
-2,422,1,08:06,,10,1,12,IND 26,0,IND,
-2,494,1,06:36,,10,1,41,KC 33,0,IND,
-2,400,0,08:11,,0,1,0,KC 35,0,KC,KICKOFF
-2,470,2,07:01,,5,1,41,IND 43,0,IND,
-2,446,1,07:31,,10,1,17,IND 38,0,IND,
-2,586,0,04:34,,0,1,74,KC 2,1,IND,XP
-15,2620,2,09:11,,6,3,19,IND 46,0,KC,FUMBLE
-15,2599,1,09:54,,10,3,32,50,0,KC,
-15,2510,0,11:47,,0,3,0,IND 35,0,IND,KICKOFF
-15,2532,1,11:42,,10,3,-2,KC 22,0,KC,
-15,2551,2,11:09,,12,3,15,KC 20,0,KC,
-15,2575,1,10:31,,10,3,28,KC 37,0,KC,
+24,4138,2,05:32,(5:32) (Shotgun) A.Luck scrambles up the middle to IND 25 for 5 yards (E.Berry).,10,4,5,IND 20,0,IND,
+24,4095,0,05:36,"R.Succop kicks 65 yards from KC 35 to end zone, Touchback.",0,4,0,KC 35,0,KC,KICKOFF
+24,4159,3,04:58,"(4:58) (No Huddle, Shotgun) A.Luck pass short right to C.Fleener to IND 36 for 11 yards (E.Berry). KC-J.Houston was injured during the play.",5,4,16,IND 25,0,IND,
+24,4186,1,04:29,"(4:29) (Shotgun) A.Luck pass deep middle to T.Hilton for 64 yards, TOUCHDOWN.",10,4,80,IND 36,1,IND,TD
+24,4113,1,05:36,(5:36) (Shotgun) A.Luck pass incomplete short left to T.Hilton.,10,4,0,IND 20,0,IND,
+24,4206,0,04:21,"A.Vinatieri extra point is GOOD, Center-M.Overton, Holder-P.McAfee.",0,4,80,KC 2,1,IND,XP
+25,4264,1,03:43,(3:43) (Run formation) A.Smith pass short middle to D.Bowe to IND 42 for 13 yards (A.Bethea; D.Butler).,10,4,38,KC 45,0,KC,
+25,4383,0,02:00,Timeout #3 by KC at 02:00.,0,4,37,,0,,TIMEOUT
+25,4309,2,02:30,"(2:30) (Shotgun) A.Smith pass incomplete short right [C.Redding]. PENALTY on KC-A.Smith, Intentional Grounding, 10 yards, enforced at IND 39.",7,4,31,IND 39,0,KC,PENALTY
+25,4400,4,02:00,(2:00) (Shotgun) A.Smith pass incomplete deep right to D.Bowe.,11,4,37,IND 43,0,KC,
+25,4240,1,04:21,(4:21) (Run formation) A.Smith pass short right to D.Bowe to KC 45 for 25 yards (C.Lynch).,10,4,25,KC 20,0,KC,
+25,4342,3,02:25,(2:25) (Shotgun) A.Smith pass short middle to D.McCluster to IND 43 for 6 yards (V.Davis).,17,4,37,IND 49,0,KC,
+25,4288,1,03:06,(3:06) (Shotgun) C.Gray right tackle to IND 39 for 3 yards (R.Mathis; R.Jean Francois).,10,4,41,IND 42,0,KC,
+25,4222,0,04:21,"P.McAfee kicks 73 yards from IND 35 to KC -8. Q.Demps, Touchback.",0,4,0,IND 35,0,IND,KICKOFF
+26,4423,1,01:55,(1:55) A.Luck kneels to IND 43 for no gain.,10,4,0,IND 43,0,IND,
+26,4486,0,,END GAME,0,4,-2,,0,,
+26,4465,3,00:39,(:39) A.Luck kneels to IND 41 for -1 yards.,11,4,-2,IND 42,0,IND,
+26,4444,2,01:15,(1:15) A.Luck kneels to IND 42 for -1 yards.,10,4,-1,IND 43,0,IND,
+20,3248,0,02:31,"A.Vinatieri extra point is GOOD, Center-M.Overton, Holder-P.McAfee.",0,3,80,KC 2,1,IND,XP
+20,3202,1,02:39,"(2:39) (No Huddle, Shotgun) A.Luck pass incomplete short middle to D.Brown.",10,3,68,KC 12,0,IND,
+20,3111,1,04:08,(4:08) (Shotgun) A.Luck pass short middle to D.Brown to IND 45 for 25 yards (E.Berry).,10,3,25,IND 20,0,IND,
+20,3135,1,03:35,"(3:35) (No Huddle, Shotgun) A.Luck pass short right to L.Brazill to KC 25 for 30 yards (H.Abdullah).",10,3,55,IND 45,0,IND,
+20,3089,0,04:12,R.Succop kicks 70 yards from KC 35 to IND -5. L.Brazill to IND 20 for 25 yards (R.Parker).,0,3,0,KC 35,0,KC,KICKOFF
+20,3181,2,03:00,(3:00) (Shotgun) D.Brown up the middle to KC 12 for 13 yards (K.Lewis; E.Berry).,10,3,68,KC 25,0,IND,
+20,3159,1,03:05,"(3:05) (No Huddle, Shotgun) A.Luck pass incomplete deep left to D.Rogers (S.Smith).",10,3,55,KC 25,0,IND,
+20,3228,2,02:34,"(2:34) (Shotgun) A.Luck pass short middle to C.Fleener for 12 yards, TOUCHDOWN.",10,3,80,KC 12,1,IND,TD
+21,3469,4,14:47,"(14:47) D.Colquitt punts 31 yards to IND 10, Center-T.Gafford, fair catch by G.Whalen.",8,4,40,IND 41,0,KC,PUNT
+21,3425,2,15:00,(15:00) (Shotgun) A.Smith pass incomplete deep right to C.Gray.,8,4,40,IND 41,0,KC,
+21,3447,3,14:55,(14:55) (Shotgun) A.Smith pass incomplete short right.,8,4,40,IND 41,0,KC,
+21,3388,1,00:17,(:17) (Shotgun) K.Davis right tackle to IND 41 for 2 yards (J.McNary; E.Walden).,10,3,40,IND 43,0,KC,
+21,3355,1,00:22,"(:22) (Shotgun) A.Smith pass incomplete short right to A.Fasano. PENALTY on IND-J.Gordy, Defensive Holding, 5 yards, enforced at IND 48 - No Play.",10,3,38,IND 48,0,KC,PENALTY
+21,3264,0,02:31,P.McAfee kicks 71 yards from IND 35 to KC -6. Q.Demps to KC 19 for 25 yards (J.McNary).,0,3,0,IND 35,0,IND,KICKOFF
+21,3334,2,01:04,(1:04) (Shotgun) A.Smith left end to IND 48 for 13 yards (D.Butler).,11,3,33,KC 39,0,KC,
+21,3286,1,02:25,(2:25) (Run formation) A.Smith pass deep left to D.Bowe to KC 40 for 21 yards (D.Butler).,10,3,21,KC 19,0,KC,
+21,3310,1,01:44,(1:44) (Run formation) A.Smith pass short right to K.Davis to KC 39 for -1 yards (J.Freeman).,10,3,20,KC 40,0,KC,
+22,3489,1,14:40,(14:40) (Shotgun) D.Brown up the middle to IND 10 for no gain (H.Abdullah).,10,4,0,IND 10,0,IND,
+22,3556,1,14:06,"(14:06) (No Huddle, Shotgun) A.Luck pass short right to T.Hilton ran ob at IND 40 for 14 yards.",10,4,30,IND 26,0,IND,
+22,3601,2,13:19,"(13:19) (No Huddle, Shotgun) A.Luck pass short left to T.Hilton pushed ob at KC 41 for 12 yards (H.Abdullah).",3,4,49,IND 47,0,IND,
+22,3688,2,11:35,"(11:35) (No Huddle, Shotgun) A.Luck pass short right to G.Whalen to KC 10 for 9 yards (M.Cooper).",6,4,80,KC 19,0,IND,
+22,3764,0,10:38,"A.Vinatieri extra point is GOOD, Center-M.Overton, Holder-P.McAfee.",0,4,90,KC 2,1,IND,XP
+22,3712,1,11:00,"(11:00) (No Huddle, Shotgun) A.Luck pass short right to D.Brown pushed ob at KC 2 for 8 yards (J.Houston).",10,4,88,KC 10,0,IND,
+22,3625,1,12:58,"(12:58) (No Huddle, Shotgun) D.Brown left tackle to KC 35 for 6 yards (J.Howard).",10,4,55,KC 41,0,IND,
+22,3510,2,14:19,"(14:19) (No Huddle, Shotgun) A.Luck pass incomplete short right to L.Brazill.",10,4,0,IND 10,0,IND,
+22,3580,1,13:46,"(13:46) (No Huddle, Shotgun) D.Brown up the middle to IND 47 for 7 yards (J.Howard).",10,4,37,IND 40,0,IND,
+22,3667,1,12:03,"(12:03) (No Huddle, Shotgun) D.Brown left tackle to KC 19 for 4 yards (E.Berry).",10,4,71,KC 23,0,IND,
+22,3532,3,14:14,"(14:14) (No Huddle, Shotgun) A.Luck pass short left to T.Hilton ran ob at IND 26 for 16 yards (D.Robinson).",10,4,16,IND 10,0,IND,
+22,3736,2,10:45,"(10:45) (No Huddle, Shotgun) D.Brown to KC 2 for no gain (E.Berry). FUMBLES (E.Berry), recovered by IND-A.Luck at KC 5. A.Luck for 5 yards, TOUCHDOWN.",2,4,90,KC 2,1,IND,TD
+22,3646,2,12:32,"(12:32) (No Huddle, Shotgun) A.Luck scrambles left tackle to KC 23 for 12 yards (D.Johnson).",4,4,67,KC 35,0,IND,
+23,3917,2,08:07,(8:07) (Shotgun) A.Smith pass short right to A.Fasano to KC 44 for 1 yard (J.Gordy; J.Freeman).,8,4,27,KC 43,0,KC,
+23,3826,1,09:57,(9:57) (Run formation) K.Davis up the middle to KC 35 for 5 yards (R.Mathews; D.Butler). KC-K.Davis was injured during the play. He is Out.,10,4,58,KC 30,0,KC,
+23,3780,0,10:38,P.McAfee kicks 73 yards from IND 35 to KC -8. Q.Demps to KC 17 for 25 yards (T.Choice; J.McNary).,0,4,0,IND 35,0,IND,KICKOFF
+23,3958,3,07:24,(7:24) (Shotgun) A.Smith pass short middle to A.Jenkins pushed ob at IND 29 for 27 yards (K.Conner).,7,4,54,KC 44,0,KC,
+23,4052,3,05:46,(5:46) (Shotgun) A.Smith pass short left to D.McCluster ran ob at IND 25 for 5 yards.,11,4,58,IND 30,0,KC,
+23,3941,0,07:24,Timeout #1 by KC at 07:24.,0,4,27,,0,,TIMEOUT
+23,3872,3,09:26,(9:26) (Shotgun) A.Smith pass short right to D.Bowe to KC 41 for 6 yards (J.Gordy).,5,4,24,KC 35,0,KC,
+23,4076,4,05:40,"(5:40) R.Succop 43 yard field goal is GOOD, Center-T.Gafford, Holder-D.Colquitt.",6,4,58,IND 25,1,KC,FG
+23,4004,1,06:49,(6:49) D.McCluster right end pushed ob at IND 26 for 3 yards (A.Bethea).,10,4,57,IND 29,0,KC,
+23,3802,1,10:34,(10:34) (Run formation) A.Smith pass short middle to J.Hemingway to KC 30 for 13 yards (L.Landry).,10,4,13,KC 17,0,KC,
+23,4025,2,06:18,(6:18) (Shotgun) A.Smith pass short left to A.Sherman to IND 30 for -4 yards (L.Landry). IND-L.Landry was injured during the play. He is Out.,7,4,58,IND 26,0,KC,
+23,3850,2,09:30,(9:30) (Shotgun) A.Smith pass incomplete short right to A.Fasano (E.Walden).,5,4,18,KC 35,0,KC,
+23,3987,0,06:49,Timeout #2 by KC at 06:49.,0,4,54,,0,,TIMEOUT
+23,3896,1,08:48,(8:48) (Run formation) C.Gray right tackle to KC 43 for 2 yards (A.Bethea).,10,4,26,KC 41,0,KC,
+1,274,1,09:47,(9:47) (Shotgun) A.Smith pass short right to D.McCluster to IND 9 for 7 yards (J.Freeman).,10,1,73,IND 16,0,KC,
+1,384,0,08:11,"R.Succop extra point is GOOD, Center-T.Gafford, Holder-D.Colquitt.",0,1,82,IND 2,1,KC,XP
+1,58,1,14:55,(14:55) (Run formation) J.Charles right end to KC 23 for 5 yards (C.Redding).,10,1,5,KC 18,0,KC,
+1,319,1,08:26,(8:26) A.Smith pass incomplete short left to J.Hemingway.,6,1,76,IND 6,0,KC,
+1,193,2,11:20,(11:20) (Run formation) K.Davis right end pushed ob at IND 26 for 6 yards (A.Bethea).,3,1,56,IND 32,0,KC,
+1,36,0,15:00,P.McAfee kicks 70 yards from IND 35 to KC -5. Q.Demps to KC 18 for 23 yards (J.McNary; S.Havili).,0,1,0,IND 35,0,IND,KICKOFF
+1,148,2,12:21,(12:21) (Shotgun) A.Smith scrambles right end to IND 39 for 16 yards (J.Chapman).,6,1,43,KC 45,0,KC,
+1,219,1,10:52,(10:52) (Shotgun) A.Smith pass short left to D.McCluster ran ob at IND 21 for 5 yards (J.McNary).,10,1,61,IND 26,0,KC,
+1,124,1,13:02,(13:02) A.Smith pass short left to K.Davis to KC 45 for 4 yards (L.Landry).,10,1,27,KC 41,0,KC,
+1,169,1,11:40,(11:40) (Run formation) J.Charles right end to IND 32 for 7 yards (G.Toler). KC-J.Charles was injured during the play. His return is Questionable.,10,1,82,IND 39,0,KC,
+1,298,2,09:10,(9:10) (Shotgun) K.Davis up the middle to IND 6 for 3 yards (K.Conner; L.Landry).,3,1,76,IND 9,0,KC,
+1,253,2,10:26,(10:26) (Run formation) K.Davis up the middle to IND 16 for 5 yards (G.Toler).,5,1,66,IND 21,0,KC,
+1,100,1,13:38,(13:38) (Run formation) A.Smith pass short left to D.Bowe to KC 41 for 12 yards (V.Davis).,10,1,23,KC 29,0,KC,
+1,363,3,08:15,"(8:15) (Shotgun) A.Smith pass short middle to D.Bowe for 6 yards, TOUCHDOWN.",6,1,82,IND 6,1,KC,TD
+1,79,2,14:19,(14:19) (Run formation) J.Charles left end to KC 29 for 6 yards (K.Sheppard).,5,1,11,KC 23,0,KC,
+1,341,2,08:22,(8:22) (Run formation) A.Smith pass incomplete short left to D.Avery [E.Walden].,6,1,76,IND 6,0,KC,
+3,786,3,01:54,(1:54) (Run formation) K.Davis up the middle to IND 1 for no gain (K.Sheppard; C.Redding). KC - Stephenson (79) reports as eligble.,1,1,73,IND 1,0,KC,
+3,761,2,02:30,(2:30) (Run formation) K.Davis up the middle to IND 1 for 1 yard (K.Conner). KC - Stephenson (79) reports as eligible.,2,1,73,IND 2,0,KC,
+3,624,1,04:27,(4:27) (Run formation) A.Smith pass incomplete short right to D.Bowe.,10,1,0,KC 26,0,KC,
+3,602,0,04:34,P.McAfee kicks 73 yards from IND 35 to KC -8. Q.Demps to KC 26 for 34 yards (A.Studebaker; D.Heyward-Bey).,0,1,0,IND 35,0,IND,KICKOFF
+3,711,2,03:26,(3:26) (Run formation) A.Smith pass short middle to D.Bowe to IND 2 for 63 yards (A.Bethea).,6,1,72,KC 35,0,KC,
+3,735,1,02:36,(2:36) (Run formation) A.Smith pass incomplete short right. KC - Stephenson (79) reports as eligible.,2,1,72,IND 2,0,KC,
+3,646,2,04:24,"(4:24) (Run formation) A.Smith sacked at KC 26 for 0 yards (J.Pendleton). PENALTY on IND-C.Lynch, Illegal Contact, 5 yards, enforced at KC 26 - No Play.",10,1,73,KC 26,0,KC,PENALTY
+3,685,1,04:02,(4:02) (Run formation) K.Davis right end to KC 35 for 4 yards (J.Freeman; J.Chapman). KC - Stephenson (79) reports as eligible.,10,1,9,KC 31,0,KC,
+3,811,4,00:57,"(:57) R.Succop 19 yard field goal is GOOD, Center-T.Gafford, Holder-D.Colquitt.",1,1,73,IND 1,1,KC,FG
+2,586,0,04:34,"A.Vinatieri extra point is GOOD, Center-M.Overton, Holder-P.McAfee.",0,1,74,KC 2,1,IND,XP
+2,446,1,07:31,"(7:31) (No Huddle, Shotgun) A.Luck pass short right to T.Hilton ran ob at IND 43 for 5 yards.",10,1,17,IND 38,0,IND,
+2,566,2,04:38,"(4:38) (No Huddle, Shotgun) A.Luck pass short right to T.Hilton for 10 yards, TOUCHDOWN.",5,1,74,KC 10,1,IND,TD
+2,542,1,05:15,"(5:15) (No Huddle, Shotgun) A.Luck pass short left to L.Brazill to KC 10 for 5 yards (S.Smith; K.Lewis).",10,1,64,KC 15,0,IND,
+2,518,2,05:55,(5:55) (Shotgun) A.Luck pass short left to C.Fleener to KC 15 for 18 yards (E.Berry).,10,1,59,KC 33,0,IND,
+2,470,2,07:01,"(7:01) (No Huddle, Shotgun) A.Luck pass short right to T.Hilton pushed ob at KC 33 for 24 yards (K.Lewis).",5,1,41,IND 43,0,IND,
+2,400,0,08:11,R.Succop kicks 70 yards from KC 35 to IND -5. L.Brazill to IND 26 for 31 yards (Q.Demps).,0,1,0,KC 35,0,KC,KICKOFF
+2,494,1,06:36,"(6:36) (No Huddle, Shotgun) A.Luck pass short left to L.Brazill to KC 33 for no gain (H.Abdullah).",10,1,41,KC 33,0,IND,
+2,422,1,08:06,(8:06) (Shotgun) A.Luck pass short middle to T.Hilton to IND 38 for 12 yards (K.Lewis).,10,1,12,IND 26,0,IND,
+5,982,2,14:55,(14:55) (Shotgun) A.Smith pass incomplete short right.,10,2,0,KC 21,0,KC,
+5,1029,0,14:39,"R.Succop extra point is GOOD, Center-T.Gafford, Holder-D.Colquitt.",0,2,79,IND 2,1,KC,XP
+5,1004,3,14:49,"(14:49) (Shotgun) A.Smith pass deep right to D.Avery for 79 yards, TOUCHDOWN.",10,2,79,KC 21,1,KC,TD
+5,960,1,15:00,(15:00) (Shotgun) A.Smith pass incomplete short right to D.Bowe.,10,2,0,KC 21,0,KC,
+4,896,3,00:16,"(:16) (No Huddle, Shotgun) A.Luck pass incomplete short left to G.Whalen (A.Bailey).",6,1,4,IND 34,0,IND,
+4,830,0,00:53,R.Succop kicks 69 yards from KC 35 to IND -4. L.Brazill to IND 30 for 34 yards (J.Martin).,0,1,0,KC 35,0,KC,KICKOFF
+4,873,2,00:21,"(:21) (No Huddle, Shotgun) A.Luck pass incomplete short left to G.Whalen [J.Houston].",6,1,4,IND 34,0,IND,
+4,852,1,00:47,(:47) (Shotgun) D.Brown right end pushed ob at IND 34 for 4 yards (J.Houston).,10,1,4,IND 30,0,IND,
+4,918,4,00:10,"(:10) P.McAfee punts 51 yards to KC 15, Center-M.Overton. D.McCluster pushed ob at KC 21 for 6 yards (T.Choice; J.McNary).",6,1,4,IND 34,0,IND,PUNT
+7,1182,0,13:05,"R.Succop extra point is GOOD, Center-T.Gafford, Holder-D.Colquitt.",0,2,17,IND 2,1,KC,XP
+7,1124,1,13:48,(13:48) (Run formation) K.Davis left tackle to IND 5 for -1 yards (E.Walden).,4,2,12,IND 4,0,KC,
+7,1103,1,14:28,(14:28) (Run formation) K.Davis up the middle to IND 4 for 13 yards (A.Bethea).,10,2,13,IND 17,0,KC,
+7,1162,2,13:10,"(13:10) (Shotgun) A.Smith pass short middle to A.Sherman for 5 yards, TOUCHDOWN.",5,2,17,IND 5,1,KC,TD
+7,1145,0,13:10,Timeout #1 by IND at 13:10.,0,2,12,,0,,TIMEOUT
+6,1063,1,14:39,"(14:39) T.Richardson left end to IND 20 for no gain (T.Hali). FUMBLES (T.Hali), RECOVERED by KC-J.Houston at IND 24. J.Houston to IND 17 for 7 yards (A.Luck).",10,2,0,IND 20,0,IND,FUMBLE
+6,1045,0,14:39,"R.Succop kicks 65 yards from KC 35 to end zone, Touchback.",0,2,0,KC 35,0,KC,KICKOFF
+9,1739,0,03:29,Timeout #1 by KC at 03:29.,0,2,43,,0,,TIMEOUT
+9,1620,1,05:59,(5:59) (Run formation) A.Smith pass short left to K.Davis to KC 47 for 1 yard (J.Freeman). KC - Stephenson (79) reports as eligible.,10,2,28,KC 46,0,KC,
+9,1717,2,03:34,(3:34) (Shotgun) A.Smith pass incomplete short left to D.McCluster (D.Butler).,5,2,43,IND 38,0,KC,
+9,1557,1,08:03,(8:03) (Shotgun) A.Smith up the middle to KC 33 for 3 yards (C.Lynch; E.Walden).,10,2,14,KC 30,0,KC,
+9,1780,1,02:56,(2:56) (Shotgun) A.Smith pass short middle to K.Davis to IND 16 for 3 yards (J.Freeman).,10,2,65,IND 19,0,KC,
+9,1826,3,02:06,(2:06) (Shotgun) A.Smith scrambles up the middle to IND 8 for 8 yards (C.Redding).,7,2,73,IND 16,0,KC,
+9,1648,2,05:23,(5:23) (Shotgun) A.Smith pass short right to D.McCluster pushed ob at IND 48 for 5 yards (A.Bethea).,9,2,33,KC 47,0,KC,
+9,1578,2,07:19,(7:19) (Shotgun) A.Smith scrambles up the middle to KC 39 for 6 yards (D.Butler).,7,2,20,KC 33,0,KC,
+9,1696,1,04:12,(4:12) (Run formation) K.Davis right end to IND 38 for 5 yards (J.Freeman).,10,2,43,IND 43,0,KC,
+9,1536,2,08:42,(8:42) K.Davis left end to KC 30 for 4 yards (A.Bethea).,3,2,11,KC 26,0,KC,
+9,1493,0,09:14,P.McAfee kicks 74 yards from IND 35 to KC -9. Q.Demps to KC 19 for 28 yards (K.Conner).,0,2,0,IND 35,0,IND,KICKOFF
+9,1864,1,01:59,"(1:59) (Run formation) A.Smith pass incomplete short right to D.Bowe. PENALTY on IND-V.Davis, Face Mask (15 Yards), 4 yards, enforced at IND 8 - No Play.",8,2,77,IND 8,0,KC,PENALTY
+9,1515,1,09:09,(9:09) (Run formation) K.Davis left end pushed ob at KC 26 for 7 yards (L.Landry).,10,2,7,KC 19,0,KC,
+9,1756,3,03:29,(3:29) (Shotgun) A.Smith pass short left to D.McCluster ran ob at IND 19 for 19 yards.,5,2,62,IND 38,0,KC,
+9,1897,1,01:55,"(1:55) (Shotgun) K.Davis up the middle for 4 yards, TOUCHDOWN.",4,2,81,IND 4,1,KC,TD
+9,1599,3,06:37,(6:37) (Shotgun) A.Smith right end to KC 46 for 7 yards (J.Gordy).,1,2,27,KC 39,0,KC,
+9,1914,0,01:51,"R.Succop extra point is GOOD, Center-T.Gafford, Holder-D.Colquitt.",0,2,81,IND 2,1,KC,XP
+9,1672,3,04:53,(4:53) (Shotgun) A.Smith pass short middle to A.Fasano to IND 43 for 5 yards (L.Landry).,4,2,38,IND 48,0,KC,
+9,1804,2,02:11,(2:11) (Shotgun) A.Smith pass incomplete short middle to D.Avery (J.Freeman).,7,2,65,IND 16,0,KC,
+8,1198,0,13:05,"R.Succop kicks 65 yards from KC 35 to end zone, Touchback.",0,2,0,KC 35,0,KC,KICKOFF
+8,1216,1,13:05,(13:05) (Shotgun) D.Brown right guard to IND 23 for 3 yards (D.Poe; J.Houston).,10,2,3,IND 20,0,IND,
+8,1427,2,09:26,(9:26) (Shotgun) A.Luck pass incomplete short left to G.Whalen (B.Flowers).,10,2,61,KC 19,0,IND,
+8,1310,2,11:29,"(11:29) (No Huddle, Shotgun) A.Luck pass incomplete short middle to G.Whalen.",5,2,25,IND 45,0,IND,
+8,1262,3,12:33,(12:33) (Shotgun) A.Luck pass short middle to G.Whalen to IND 40 for 17 yards (D.Johnson; S.Smith) [T.Hali]. IND-T.Hilton was injured during the play.,7,2,20,IND 23,0,IND,
+8,1289,1,12:03,(12:03) (Shotgun) D.Brown left tackle to IND 45 for 5 yards (H.Abdullah).,10,2,25,IND 40,0,IND,
+8,1356,4,10:48,(10:48) (Shotgun) A.Luck left end to KC 30 for 21 yards (K.Lewis).,1,2,50,IND 49,0,IND,
+8,1332,3,11:24,(11:24) (Shotgun) A.Luck pass short left to C.Fleener to IND 49 for 4 yards (E.Berry).,5,2,29,IND 45,0,IND,
+8,1240,2,12:40,"(12:40) (No Huddle, Shotgun) A.Luck pass incomplete deep right to T.Hilton (M.Cooper).",7,2,3,IND 23,0,IND,
+8,1471,4,09:18,"(9:18) A.Vinatieri 37 yard field goal is GOOD, Center-M.Overton, Holder-P.McAfee.",10,2,61,KC 19,1,IND,FG
+8,1449,3,09:21,(9:21) (Shotgun) A.Luck pass incomplete short left to L.Brazill (J.Houston).,10,2,61,KC 19,0,IND,
+8,1381,1,10:02,(10:02) (Shotgun) A.Luck pass short right to T.Hilton ran ob at KC 19 for 11 yards.,10,2,61,KC 30,0,IND,
+8,1405,1,09:30,"(9:30) (No Huddle, Shotgun) A.Luck pass incomplete short right to T.Hilton.",10,2,61,KC 19,0,IND,
+11,2190,3,00:05,(:05) (Shotgun) A.Smith pass incomplete deep right to D.Bowe (A.Bethea).,6,2,4,IND 41,0,KC,
+11,2128,1,00:21,(:21) (Shotgun) A.Smith scrambles up the middle to IND 44 for 1 yard (C.Redding).,10,2,1,IND 45,0,KC,
+11,2166,2,00:13,(:13) (Shotgun) A.Smith pass short left to K.Davis pushed ob at IND 41 for 3 yards (J.McNary).,9,2,4,IND 44,0,KC,
+11,2149,0,00:13,Timeout #2 by KC at 00:13.,0,2,1,,0,,TIMEOUT
+10,1948,1,01:51,(1:51) (Shotgun) A.Luck pass incomplete short left to C.Fleener (K.Lewis).,10,2,0,IND 20,0,IND,
+10,1994,3,01:14,"(1:14) (No Huddle, Shotgun) A.Luck pass short right to C.Fleener to IND 30 for 1 yard (H.Abdullah).",1,2,10,IND 29,0,IND,
+10,2082,1,00:56,(:56) (Shotgun) A.Luck sacked at IND 50 for -7 yards (J.Houston).,10,2,30,KC 43,0,IND,
+10,2058,1,01:02,(1:02) (Shotgun) A.Luck pass deep left to T.Hilton ran ob at KC 43 for 22 yards.,5,2,37,IND 35,0,IND,
+10,1973,2,01:45,(1:45) (Shotgun) A.Luck scrambles up the middle to IND 29 for 9 yards (B.Flowers).,10,2,9,IND 20,0,IND,
+10,2035,1,01:02,"(1:02) (Shotgun) PENALTY on KC-M.Catapano, Neutral Zone Infraction, 5 yards, enforced at IND 30 - No Play.",10,2,15,IND 30,0,IND,PENALTY
+10,1930,0,01:51,"R.Succop kicks 65 yards from KC 35 to end zone, Touchback.",0,2,0,KC 35,0,KC,KICKOFF
+10,2018,0,01:02,Timeout #2 by IND at 01:02.,0,2,10,,0,,TIMEOUT
+10,2101,2,00:33,"(:33) (No Huddle, Shotgun) A.Luck pass short right intended for T.Hilton INTERCEPTED by B.Flowers at KC 38. B.Flowers to IND 45 for 17 yards (G.Whalen).",17,2,30,IND 50,0,IND,INT
+13,2347,0,13:39,"R.Succop extra point is GOOD, Center-T.Gafford, Holder-D.Colquitt.",0,3,18,IND 2,1,KC,XP
+13,2276,1,14:54,(14:54) (Shotgun) A.Smith pass short right to D.McCluster ran ob at IND 13 for 5 yards (J.Gordy).,10,3,5,IND 18,0,KC,
+13,2327,3,13:44,"(13:44) (Shotgun) A.Smith pass short right to K.Davis for 10 yards, TOUCHDOWN.",2,3,18,IND 10,1,KC,TD
+13,2306,2,14:24,(14:24) (Run formation) K.Davis up the middle to IND 10 for 3 yards (K.Sheppard).,5,3,8,IND 13,0,KC,
+12,2249,1,15:00,(15:00) (Shotgun) A.Luck pass short right intended for D.Brown INTERCEPTED by H.Abdullah at IND 22. H.Abdullah to IND 18 for 4 yards (D.Brown).,10,3,0,IND 20,0,IND,INT
+12,2228,0,15:00,"R.Succop kicks 74 yards from KC 35 to IND -9. L.Brazill, Touchback.",0,3,0,KC 35,0,KC,KICKOFF
+15,2551,2,11:09,(11:09) A.Smith pass short left to J.Hemingway to KC 37 for 17 yards (A.Bethea) [R.Mathis].,12,3,15,KC 20,0,KC,
+15,2620,2,09:11,"(9:11) (Run formation) A.Smith sacked at KC 46 for -8 yards (R.Mathis). FUMBLES (R.Mathis) [R.Mathis], RECOVERED by IND-K.Sheppard at KC 41. K.Sheppard ran ob at KC 41 for no gain. KC - Stephenson (79) reports as eligible. The Replay Assistant challenged the fumble ruling, and the play was Upheld.",6,3,19,IND 46,0,KC,FUMBLE
+15,2575,1,10:31,(10:31) A.Smith pass short right to K.Davis to 50 for 13 yards (J.Gordy).,10,3,28,KC 37,0,KC,
+15,2599,1,09:54,(9:54) K.Davis up the middle to IND 46 for 4 yards (R.Mathews).,10,3,32,50,0,KC,
+15,2532,1,11:42,(11:42) (Shotgun) A.Smith sacked at KC 20 for -2 yards (R.Jean Francois).,10,3,-2,KC 22,0,KC,
+15,2510,0,11:47,P.McAfee kicks 71 yards from IND 35 to KC -6. Q.Demps to KC 22 for 28 yards (A.Studebaker; K.Conner).,0,3,0,IND 35,0,IND,KICKOFF
+14,2477,1,11:52,"(11:52) (No Huddle, Shotgun) D.Brown up the middle for 10 yards, TOUCHDOWN.",10,3,80,KC 10,1,IND,TD
+14,2450,1,12:29,"(12:29) (No Huddle, Shotgun) A.Luck pass deep left to D.Rogers to KC 10 for 46 yards (S.Smith).",10,3,70,IND 44,0,IND,
+14,2426,1,12:57,"(12:57) (No Huddle, Shotgun) A.Luck pass short middle to D.Brown to IND 44 for 11 yards (B.Flowers; M.Cooper).",10,3,24,IND 33,0,IND,
+14,2494,0,11:47,"A.Vinatieri extra point is GOOD, Center-M.Overton, Holder-P.McAfee.",0,3,80,KC 2,1,IND,XP
+14,2381,1,13:39,(13:39) (Shotgun) D.Brown up the middle to IND 23 for 3 yards (F.Zombo).,10,3,3,IND 20,0,IND,
+14,2402,2,13:20,"(13:20) (No Huddle, Shotgun) A.Luck pass short left to T.Hilton to IND 33 for 10 yards (B.Flowers).",7,3,13,IND 23,0,IND,
+14,2363,0,13:39,"R.Succop kicks 65 yards from KC 35 to end zone, Touchback.",0,3,24,KC 35,0,KC,KICKOFF
+17,2926,4,05:58,"(5:58) D.Colquitt punts 47 yards to IND 28, Center-T.Gafford, fair catch by G.Whalen. IND-D.Heyward-Bey was injured during the play. His return is Doubtful.",5,3,5,KC 25,0,KC,PUNT
+17,2836,0,07:32,P.McAfee kicks 69 yards from IND 35 to KC -4. Q.Demps to KC 20 for 24 yards (S.Brown). KC-J.Hemingway was injured during the play.,0,3,0,IND 35,0,IND,KICKOFF
+17,2904,3,06:04,(6:04) (Run formation) A.Smith pass incomplete short right to D.Bowe (J.Gordy).,5,3,5,KC 25,0,KC,
+17,2883,2,06:48,(6:48) (Run formation) A.Smith right end to KC 25 for 3 yards (L.Landry; J.Chapman).,8,3,5,KC 22,0,KC,
+17,2858,1,07:26,(7:26) (Shotgun) K.Davis right end to KC 22 for 2 yards (J.Freeman; K.Conner).,10,3,2,KC 20,0,KC,
+16,2727,1,08:37,"(8:37) (No Huddle, Shotgun) A.Luck pass short middle to T.Hilton to KC 22 for 8 yards (D.Johnson).",10,3,19,KC 30,0,IND,
+16,2775,1,07:40,(7:40) (No Huddle) A.Luck pass incomplete short right to C.Fleener.,3,3,38,KC 3,0,IND,
+16,2703,1,08:53,(8:53) (Shotgun) A.Luck pass deep left to T.Hilton ran ob at KC 30 for 16 yards [J.Houston].,15,3,11,KC 46,0,IND,
+16,2670,1,09:00,"(9:00) (Shotgun) A.Luck pass incomplete deep left to T.Hilton. PENALTY on IND-A.Castonzo, Illegal Formation, 5 yards, enforced at KC 41 - No Play.",10,3,-5,KC 41,0,IND,PENALTY
+16,2751,2,08:09,"(8:09) (No Huddle, Shotgun) A.Luck pass deep left to L.Brazill to KC 3 for 19 yards (E.Berry; S.Smith).",2,3,38,KC 22,0,IND,
+16,2820,0,07:32,"A.Vinatieri extra point is GOOD, Center-M.Overton, Holder-P.McAfee.",0,3,41,KC 2,1,IND,XP
+16,2797,2,07:36,"(7:36) (Shotgun) A.Luck pass short right to D.Brown for 3 yards, TOUCHDOWN. KC-B.Flowers was injured during the play. His return is Questionable.",3,3,41,KC 3,1,IND,TD
+19,3070,4,04:17,"(4:17) R.Succop 42 yard field goal is GOOD, Center-T.Gafford, Holder-D.Colquitt.",6,3,4,IND 24,1,KC,FG
+19,3004,2,05:06,(5:06) (Run formation) K.Davis left tackle to IND 24 for no gain (L.Landry; K.Sheppard).,6,3,4,IND 24,0,KC,
+19,3025,3,04:22,(4:22) (Shotgun) A.Smith pass incomplete short left.,6,3,4,IND 24,0,KC,
+19,2980,1,05:44,(5:44) (Shotgun) A.Smith pass short right to D.Bowe to IND 24 for 4 yards (V.Davis).,10,3,4,IND 28,0,KC,
+19,3047,0,04:17,Timeout #1 by IND at 04:17.,0,3,4,,0,,TIMEOUT
+18,2953,1,05:50,(5:50) (Shotgun) A.Luck pass short left intended for T.Hilton INTERCEPTED by H.Abdullah at IND 29. H.Abdullah ran ob at IND 28 for 1 yard.,10,3,0,IND 28,0,IND,INT

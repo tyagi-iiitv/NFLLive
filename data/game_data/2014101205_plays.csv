@@ -1,181 +1,181 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1345,3,06:31,,18,2,9,DET 40,0,DET,
-9,1262,1,07:26,,10,2,19,DET 48,0,DET,
-9,1313,2,06:37,,18,2,9,DET 40,0,DET,
-9,1368,4,06:23,,18,2,9,DET 40,0,DET,PUNT
-9,1283,2,06:44,,8,2,9,50,0,DET,PENALTY
-9,1214,1,08:44,,10,2,6,DET 31,0,DET,
-9,1238,2,08:07,,4,2,17,DET 37,0,DET,
-24,3730,0,03:19,,0,4,1,,0,,TIMEOUT
-24,3685,2,04:07,,9,4,3,DET 21,0,DET,
-24,3747,4,03:19,,9,4,1,DET 21,0,DET,PUNT
-24,3706,3,03:23,,7,4,1,DET 23,0,DET,
-24,3664,1,04:53,,10,4,1,DET 20,0,DET,
-24,3649,0,04:53,,0,4,0,MIN 35,0,MIN,KICKOFF
-10,1496,4,04:27,,3,2,7,MIN 17,0,MIN,PUNT
-10,1474,3,04:31,,3,2,7,MIN 17,0,MIN,
-10,1429,1,05:53,,15,2,-8,MIN 5,0,MIN,
-10,2118,0,05:12,,0,2,7,,0,,TIMEOUT
-10,1450,2,05:12,,18,2,7,MIN 2,0,MIN,
-10,1397,1,06:14,,10,2,-5,MIN 10,0,MIN,PENALTY
-20,2912,3,00:42,,1,3,41,MIN 22,0,DET,
-20,2870,1,01:56,,10,3,33,MIN 31,0,DET,
-20,2949,1,15:00,,10,4,43,MIN 19,0,DET,
-20,2679,1,04:38,,10,3,4,DET 40,0,DET,
-20,2837,2,02:01,,5,3,29,MIN 36,0,DET,PENALTY
-20,2933,0,,,0,3,41,,0,,
-20,2891,2,01:19,,6,3,38,MIN 27,0,DET,
-20,3055,2,11:46,,1,4,60,MIN 1,1,DET,TD
-20,2812,1,02:42,,10,3,24,MIN 41,0,DET,
-20,3013,4,12:44,,1,4,54,MIN 10,0,DET,
-20,2970,2,14:19,,8,4,35,MIN 17,0,DET,
-20,2989,3,13:36,,16,4,50,MIN 25,0,DET,
-20,2700,2,03:58,,6,3,12,DET 44,0,DET,
-20,2751,2,03:25,,10,3,14,MIN 48,0,DET,
-20,3034,1,12:06,,6,4,59,MIN 6,0,DET,
-20,2729,1,03:28,,10,3,12,MIN 48,0,DET,
-20,2772,3,02:47,,8,3,19,MIN 46,0,DET,PENALTY
-20,3073,0,11:44,,0,4,60,MIN 2,1,DET,XP
-6,874,3,14:24,,8,2,-4,MIN 42,0,MIN,FUMBLE
-6,828,1,14:55,,10,2,2,MIN 40,0,MIN,
-6,903,4,13:40,,14,2,-4,MIN 36,0,MIN,PUNT
-6,852,2,14:28,,8,2,2,MIN 42,0,MIN,
-27,4019,1,01:12,,10,4,27,MIN 41,0,MIN,
-27,4043,0,00:52,,0,4,27,,0,,TIMEOUT
-27,4138,3,00:16,,11,4,32,DET 44,0,MIN,
-27,4114,2,00:42,,20,4,26,MIN 47,0,MIN,
-27,4162,0,,,0,4,32,,0,,
-27,3995,2,01:20,,12,4,11,MIN 28,0,MIN,
-27,4060,1,00:52,,10,4,27,DET 43,0,MIN,
-27,3976,1,01:52,,10,4,-2,MIN 30,0,MIN,
-27,4082,2,00:49,,10,4,17,DET 43,0,MIN,PENALTY
-18,2413,1,11:04,,10,3,18,MIN 41,0,DET,
-18,2543,4,06:54,,20,3,26,MIN 26,0,DET,FGM
-18,2479,1,08:59,,10,3,32,MIN 16,0,DET,
-18,2524,3,07:36,,12,3,26,MIN 18,0,DET,
-18,2434,2,10:19,,3,3,23,MIN 34,0,DET,
-18,2458,1,09:41,,10,3,36,MIN 29,0,DET,
-18,2387,1,11:35,,10,3,11,DET 48,0,DET,
-18,2500,2,08:19,,14,3,34,MIN 20,0,DET,
-26,3958,0,02:09,,0,4,5,,0,,TIMEOUT
-26,3849,1,02:14,,10,4,3,MIN 34,0,DET,
-26,3930,0,01:57,,0,4,5,,0,,
-26,3870,0,02:09,,0,4,3,,0,,TIMEOUT
-26,3908,3,02:02,,5,4,5,MIN 29,0,DET,
-26,3947,4,01:57,,5,4,4,MIN 29,0,DET,
-26,3887,2,02:09,,7,4,5,MIN 31,0,DET,
-25,3767,1,03:13,,10,4,8,MIN 40,0,MIN,
-25,3829,4,02:21,,9,4,-6,MIN 41,0,MIN,
-25,3807,3,02:28,,9,4,1,MIN 41,0,MIN,
-25,3788,2,03:05,,2,4,1,MIN 48,0,MIN,
-1,54,1,15:00,,10,1,12,DET 20,0,DET,
-1,102,2,14:00,,9,1,23,DET 33,0,DET,
-1,192,2,11:11,,9,1,80,MIN 9,1,DET,TD
-1,147,2,12:42,,3,1,71,50,0,DET,
-1,234,0,11:06,,0,1,80,MIN 2,1,DET,XP
-1,81,1,14:35,,10,1,13,DET 32,0,DET,
-1,171,1,11:53,,9,1,71,MIN 9,0,DET,
-1,36,0,15:00,,0,1,0,MIN 35,0,MIN,KICKOFF
-1,123,1,13:21,,10,1,30,DET 43,0,DET,
-5,725,1,02:00,,10,1,15,MIN 40,0,DET,
-5,791,0,,,0,1,23,,0,,
-5,770,3,00:37,,3,1,23,MIN 33,0,DET,
-5,701,1,02:35,,10,1,15,DET 45,0,DET,
-5,807,4,15:00,,2,2,23,MIN 32,0,DET,FGM
-5,746,2,01:19,,10,1,22,MIN 40,0,DET,
-13,1860,4,01:17,,10,2,0,DET 23,0,DET,
-13,1913,4,01:05,,10,2,0,DET 23,0,DET,PUNT
-13,1794,1,01:29,,10,2,0,DET 23,0,DET,
-13,1816,2,01:27,,10,2,0,DET 23,0,DET,
-13,1838,3,01:22,,10,2,0,DET 23,0,DET,
-21,3104,1,11:44,,10,4,0,MIN 20,0,MIN,
-21,3147,3,10:57,,12,4,9,MIN 18,0,MIN,
-21,3089,0,11:44,,0,4,0,DET 35,0,DET,KICKOFF
-21,3176,4,10:26,,1,4,9,MIN 29,0,MIN,PUNT
-21,3126,2,11:40,,10,4,-2,MIN 20,0,MIN,
-23,3407,2,08:05,,3,4,30,DET 42,0,MIN,
-23,3535,1,05:43,,10,4,44,DET 23,0,MIN,
-23,3428,1,07:36,,10,4,36,DET 37,0,MIN,
-23,3372,1,08:30,,10,4,25,DET 49,0,MIN,
-23,3452,2,07:11,,4,4,26,DET 31,0,MIN,PENALTY
-23,3557,2,05:36,,10,4,50,DET 23,0,MIN,
-23,3629,4,04:56,,9,4,45,DET 22,1,MIN,FG
-23,3315,2,09:10,,10,4,5,MIN 33,0,MIN,PENALTY
-23,3607,3,05:00,,9,4,45,DET 22,0,MIN,
-23,3348,1,09:05,,10,4,18,MIN 38,0,MIN,
-23,3584,3,05:36,,4,4,45,DET 17,0,MIN,PENALTY
-23,3293,1,09:14,,10,4,0,MIN 33,0,MIN,
-23,3511,3,06:11,,3,4,44,DET 30,0,MIN,
-23,3487,2,06:47,,14,4,37,DET 41,0,MIN,
-11,1522,1,04:16,,10,2,-10,DET 42,0,DET,
-11,1603,4,02:26,,9,2,1,DET 43,0,DET,PUNT
-11,1541,2,03:32,,20,2,-2,DET 32,0,DET,
-11,1565,3,02:48,,12,2,1,DET 40,0,DET,
-14,1932,1,00:58,,10,2,18,MIN 30,0,MIN,
-14,1956,1,00:49,,10,2,18,MIN 48,0,MIN,INT
-8,1127,1,10:51,,10,2,19,MIN 33,0,MIN,
-8,1194,4,08:51,,19,2,7,MIN 24,0,MIN,PUNT
-8,1082,1,12:09,,10,2,6,MIN 22,0,MIN,
-8,1151,2,10:11,,7,2,17,MIN 36,0,MIN,
-8,1103,2,11:33,,9,2,16,MIN 23,0,MIN,
-8,1175,3,09:28,,9,2,7,MIN 34,0,MIN,
-8,1049,1,12:14,,10,2,5,MIN 17,0,MIN,PENALTY
-19,2585,2,06:09,,17,3,-3,MIN 27,0,MIN,
-19,2606,3,05:36,,13,3,1,MIN 31,0,MIN,
-19,2630,4,05:01,,9,3,-4,MIN 35,0,MIN,PENALTY
-19,2653,4,04:48,,14,3,-4,MIN 30,0,MIN,PUNT
-19,2564,1,06:48,,10,3,-3,MIN 34,0,MIN,
-22,3267,4,09:24,,8,4,2,DET 37,0,DET,PUNT
-22,3245,3,09:29,,8,4,2,DET 37,0,DET,
-22,3223,2,09:34,,8,4,2,DET 37,0,DET,
-22,3202,1,10:14,,10,4,2,DET 35,0,DET,
-12,1763,4,01:36,,15,2,6,MIN 26,0,MIN,PUNT
-12,1705,2,01:47,,10,2,11,MIN 31,0,MIN,
-12,1659,2,02:00,,7,2,11,MIN 23,0,MIN,
-12,1727,3,01:42,,10,2,6,MIN 31,0,MIN,
-12,1683,1,01:52,,10,2,11,MIN 31,0,MIN,
-12,1746,0,01:36,,0,2,6,,0,,TIMEOUT
-12,1621,1,02:16,,10,2,3,MIN 20,0,MIN,
-12,1642,0,02:00,,0,2,3,,0,,
-16,2109,0,00:07,,0,2,0,DET 35,0,DET,KICKOFF
-16,2159,0,,,0,2,-1,,0,,
-16,2138,1,00:00,,10,2,-1,MIN 19,0,MIN,
-7,923,1,13:35,,10,2,-10,DET 27,0,DET,PENALTY
-7,999,3,13:07,,20,2,5,DET 17,0,DET,
-7,977,2,13:10,,20,2,-10,DET 17,0,DET,
-7,1023,4,12:27,,5,2,5,DET 32,0,DET,PUNT
-7,955,1,13:13,,20,2,-10,DET 17,0,DET,
-3,513,1,06:09,,10,1,18,DET 33,0,DET,
-3,555,3,04:47,,3,1,22,DET 40,0,DET,
-3,577,4,04:42,,3,1,22,DET 40,0,DET,PUNT
-3,435,1,07:34,,10,1,3,DET 18,0,DET,
-3,480,1,06:14,,10,1,15,DET 28,0,DET,PENALTY
-3,456,2,06:57,,7,1,10,DET 21,0,DET,
-3,534,2,05:30,,7,1,22,DET 36,0,DET,
-17,2190,1,15:00,,10,3,8,MIN 20,0,MIN,
-17,2235,1,13:54,,10,3,17,MIN 34,0,MIN,
-17,2256,2,13:34,,7,3,17,MIN 37,0,MIN,
-17,2350,3,11:39,,2,3,34,DET 46,0,MIN,INT
-17,2214,2,14:26,,2,3,14,MIN 28,0,MIN,
-17,2302,1,12:59,,10,3,30,MIN 46,0,MIN,
-17,2175,0,15:00,,0,3,0,DET 35,0,DET,KICKOFF
-17,2326,2,12:22,,6,3,34,50,0,MIN,
-17,2278,3,13:31,,7,3,26,MIN 37,0,MIN,
-4,614,1,04:30,,10,1,-1,MIN 20,0,MIN,
-4,635,2,03:55,,11,1,1,MIN 19,0,MIN,
-4,675,4,02:45,,10,1,0,MIN 20,0,MIN,PUNT
-4,656,3,03:22,,9,1,0,MIN 21,0,MIN,
-2,272,1,11:02,,10,1,44,MIN 41,0,MIN,
-2,314,3,09:57,,2,1,44,MIN 49,0,MIN,
-2,356,2,09:02,,1,1,23,DET 38,0,MIN,
-2,377,1,08:25,,10,1,44,DET 36,0,MIN,
-2,250,0,11:06,,0,1,0,DET 35,0,DET,KICKOFF
-2,293,2,10:31,,11,1,8,MIN 40,0,MIN,
-2,398,1,07:42,,10,1,44,DET 15,0,MIN,INT
-2,335,1,09:27,,10,1,21,DET 47,0,MIN,
-15,2067,3,00:16,,4,2,17,MIN 34,0,DET,
-15,2045,2,00:19,,4,2,17,MIN 34,0,DET,
-15,1983,1,00:45,,10,2,11,DET 49,0,DET,
-15,2089,4,00:12,,4,2,17,MIN 34,1,DET,FG
-15,2024,1,00:39,,10,2,17,MIN 40,0,DET,
-15,2007,0,00:39,,0,2,11,,0,,TIMEOUT
+24,3664,1,04:53,(4:53) J.Bell right end to DET 21 for 1 yard (G.Hodges).,10,4,1,DET 20,0,DET,
+24,3747,4,03:19,"(3:19) (Punt formation) S.Martin punts 39 yards to MIN 40, Center-D.Muhlbach, fair catch by M.Sherels.",9,4,1,DET 21,0,DET,PUNT
+24,3685,2,04:07,(4:07) G.Winn up the middle to DET 23 for 2 yards (S.Stephen).,9,4,3,DET 21,0,DET,
+24,3649,0,04:53,"B.Walsh kicks 65 yards from MIN 35 to end zone, Touchback.",0,4,0,MIN 35,0,MIN,KICKOFF
+24,3706,3,03:23,(3:23) (Shotgun) M.Stafford pass short right to G.Tate to DET 21 for -2 yards (H.Smith).,7,4,1,DET 23,0,DET,
+24,3730,0,03:19,Timeout #1 by MIN at 03:19.,0,4,1,,0,,TIMEOUT
+25,3788,2,03:05,(3:05) (Shotgun) T.Bridgewater sacked at MIN 41 for -7 yards (G.Johnson).,2,4,1,MIN 48,0,MIN,
+25,3807,3,02:28,"(2:28) (No Huddle, Shotgun) T.Bridgewater pass incomplete deep middle to C.Patterson.",9,4,1,MIN 41,0,MIN,
+25,3829,4,02:21,(2:21) (Shotgun) T.Bridgewater sacked at MIN 34 for -7 yards (E.Ansah).,9,4,-6,MIN 41,0,MIN,
+25,3767,1,03:13,(3:13) (Shotgun) T.Bridgewater scrambles left end ran ob at MIN 48 for 8 yards.,10,4,8,MIN 40,0,MIN,
+26,3887,2,02:09,(2:09) J.Bell up the middle to MIN 29 for 2 yards (B.Robison; J.Brinkley).,7,4,5,MIN 31,0,DET,
+26,3958,0,02:09,Timeout #3 by MIN at 02:09.,0,4,5,,0,,TIMEOUT
+26,3870,0,02:09,Timeout #2 by MIN at 02:09.,0,4,3,,0,,TIMEOUT
+26,3908,3,02:02,(2:02) (Shotgun) M.Stafford pass incomplete deep left to J.Ross.,5,4,5,MIN 29,0,DET,
+26,3930,0,01:57,Two-Minute Warning,0,4,5,,0,,
+26,3947,4,01:57,(1:57) J.Bell left end pushed ob at MIN 30 for -1 yards (J.Brinkley).,5,4,4,MIN 29,0,DET,
+26,3849,1,02:14,(2:14) (Run formation) G.Winn left end to MIN 31 for 3 yards (E.Griffen).,10,4,3,MIN 34,0,DET,
+27,4138,3,00:16,"(:16) (No Huddle, Shotgun) T.Bridgewater pass short right to G.Jennings to DET 38 for 6 yards (D.Levy).",11,4,32,DET 44,0,MIN,
+27,4082,2,00:49,"(:49) (Shotgun) T.Bridgewater scrambles up the middle to DET 38 for 5 yards. PENALTY on MIN-M.Kalil, Illegal Use of Hands, 10 yards, enforced at DET 43 - No Play.",10,4,17,DET 43,0,MIN,PENALTY
+27,4162,0,,END GAME,0,4,32,,0,,
+27,4043,0,00:52,Timeout #1 by DET at 00:52.,0,4,27,,0,,TIMEOUT
+27,4019,1,01:12,(1:12) (Shotgun) T.Bridgewater pass deep middle to G.Jennings to DET 43 for 16 yards (J.Bynes).,10,4,27,MIN 41,0,MIN,
+27,4114,2,00:42,(:42) (Shotgun) T.Bridgewater pass short left to C.Patterson to DET 44 for 9 yards (D.Gorrer).,20,4,26,MIN 47,0,MIN,
+27,3976,1,01:52,(1:52) (Shotgun) T.Bridgewater sacked at MIN 28 for -2 yards (N.Suh).,10,4,-2,MIN 30,0,MIN,
+27,3995,2,01:20,"(1:20) (No Huddle, Shotgun) T.Bridgewater pass short right to C.Ford to MIN 41 for 13 yards (J.Bynes).",12,4,11,MIN 28,0,MIN,
+27,4060,1,00:52,(:52) (Shotgun) T.Bridgewater pass incomplete short middle to G.Jennings.,10,4,27,DET 43,0,MIN,
+20,2912,3,00:42,(:42) J.Collins up the middle to MIN 19 for 3 yards (H.Smith).,1,3,41,MIN 22,0,DET,
+20,2870,1,01:56,(1:56) G.Winn up the middle to MIN 27 for 4 yards (R.Blanton).,10,3,33,MIN 31,0,DET,
+20,2812,1,02:42,(2:42) M.Stafford pass short left to G.Tate to MIN 36 for 5 yards (X.Rhodes).,10,3,24,MIN 41,0,DET,
+20,3034,1,12:06,(12:06) J.Bell right guard to MIN 1 for 5 yards (A.Barr).,6,4,59,MIN 6,0,DET,
+20,3013,4,12:44,(12:44) G.Winn up the middle to MIN 6 for 4 yards (R.Blanton).,1,4,54,MIN 10,0,DET,
+20,2772,3,02:47,"(2:47) (Shotgun) M.Stafford pass short right to G.Tate pushed ob at MIN 39 for 7 yards (R.Blanton). PENALTY on MIN-H.Smith, Defensive Holding, 5 yards, enforced at MIN 46 - No Play.",8,3,19,MIN 46,0,DET,PENALTY
+20,2891,2,01:19,(1:19) J.Bell up the middle to MIN 22 for 5 yards (G.Hodges).,6,3,38,MIN 27,0,DET,
+20,2700,2,03:58,(3:58) (Shotgun) M.Stafford pass short left to J.Bell pushed ob at MIN 48 for 8 yards (J.Brinkley).,6,3,12,DET 44,0,DET,
+20,2729,1,03:28,(3:28) (Shotgun) M.Stafford pass incomplete short right to G.Tate.,10,3,12,MIN 48,0,DET,
+20,2933,0,,END QUARTER 3,0,3,41,,0,,
+20,2837,2,02:01,"(2:01) M.Stafford pass incomplete deep left to G.Tate. PENALTY on MIN-X.Rhodes, Defensive Holding, 5 yards, enforced at MIN 36 - No Play.",5,3,29,MIN 36,0,DET,PENALTY
+20,3073,0,11:44,"M.Prater extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin.",0,4,60,MIN 2,1,DET,XP
+20,2949,1,15:00,(15:00) J.Bell up the middle to MIN 17 for 2 yards (L.Joseph).,10,4,43,MIN 19,0,DET,
+20,2751,2,03:25,(3:25) J.Bell left guard to MIN 46 for 2 yards (B.Robison).,10,3,14,MIN 48,0,DET,
+20,2679,1,04:38,(4:38) J.Bell right guard to DET 44 for 4 yards (E.Griffen).,10,3,4,DET 40,0,DET,
+20,2970,2,14:19,(14:19) (Shotgun) M.Stafford sacked at MIN 25 for -8 yards (sack split by B.Robison and L.Joseph).,8,4,35,MIN 17,0,DET,
+20,2989,3,13:36,(13:36) (Shotgun) M.Stafford pass short left to J.Bell to MIN 10 for 15 yards (E.Griffen; G.Hodges).,16,4,50,MIN 25,0,DET,
+20,3055,2,11:46,"(11:46) J.Bell up the middle for 1 yard, TOUCHDOWN.",1,4,60,MIN 1,1,DET,TD
+21,3104,1,11:44,(11:44) (Shotgun) T.Bridgewater pass incomplete short middle to C.Patterson (J.Bynes).,10,4,0,MIN 20,0,MIN,
+21,3126,2,11:40,"(11:40) (No Huddle, Shotgun) M.Asiata up the middle to MIN 18 for -2 yards (D.Levy).",10,4,-2,MIN 20,0,MIN,
+21,3176,4,10:26,"(10:26) (Punt formation) J.Locke punts 41 yards to DET 30, Center-C.Loeffler. J.Ross to DET 35 for 5 yards (M.Mauti).",1,4,9,MIN 29,0,MIN,PUNT
+21,3089,0,11:44,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,4,0,DET 35,0,DET,KICKOFF
+21,3147,3,10:57,(10:57) (Shotgun) T.Bridgewater pass short middle to G.Jennings pushed ob at MIN 29 for 11 yards (D.Raiola).,12,4,9,MIN 18,0,MIN,
+22,3267,4,09:24,"(9:24) (Punt formation) S.Martin punts 39 yards to MIN 24, Center-D.Muhlbach. M.Sherels to MIN 33 for 9 yards (T.Whitehead).",8,4,2,DET 37,0,DET,PUNT
+22,3245,3,09:29,(9:29) (Shotgun) M.Stafford pass incomplete short left to G.Tate (C.Munnerlyn).,8,4,2,DET 37,0,DET,
+22,3202,1,10:14,(10:14) J.Bell right tackle to DET 37 for 2 yards (S.Stephen).,10,4,2,DET 35,0,DET,
+22,3223,2,09:34,(9:34) M.Stafford pass incomplete deep right to E.Ebron.,8,4,2,DET 37,0,DET,
+23,3452,2,07:11,"(7:11) (No Huddle, Shotgun) T.Bridgewater pass short right to C.Patterson to DET 24 for 7 yards (D.Slay). PENALTY on MIN-J.Sullivan, Illegal Use of Hands, 10 yards, enforced at DET 31 - No Play.",4,4,26,DET 31,0,MIN,PENALTY
+23,3557,2,05:36,(5:36) (Shotgun) T.Bridgewater pass short left to C.Patterson to DET 17 for 6 yards (D.Levy). DET-J.Ihedigbo was injured during the play.,10,4,50,DET 23,0,MIN,
+23,3348,1,09:05,(9:05) (Shotgun) T.Bridgewater pass short middle to J.McKinnon to DET 49 for 13 yards (T.Whitehead) [J.Jones].,10,4,18,MIN 38,0,MIN,
+23,3428,1,07:36,"(7:36) (No Huddle, Shotgun) T.Bridgewater pass short left to J.Wright to DET 31 for 6 yards (R.Mathis).",10,4,36,DET 37,0,MIN,
+23,3584,3,05:36,"(5:36) (Shotgun) PENALTY on MIN-C.Patterson, False Start, 5 yards, enforced at DET 17 - No Play.",4,4,45,DET 17,0,MIN,PENALTY
+23,3511,3,06:11,"(6:11) (No Huddle, Shotgun) T.Bridgewater pass short middle to C.Ford to DET 23 for 7 yards (G.Quin).",3,4,44,DET 30,0,MIN,
+23,3372,1,08:30,(8:30) (Shotgun) T.Bridgewater pass short middle to Charles.Johnson to DET 42 for 7 yards (T.Whitehead).,10,4,25,DET 49,0,MIN,
+23,3487,2,06:47,(6:47) (Shotgun) T.Bridgewater pass short left to J.McKinnon to DET 30 for 11 yards (J.Jones).,14,4,37,DET 41,0,MIN,
+23,3535,1,05:43,(5:43) (Shotgun) T.Bridgewater pass incomplete short left to C.Patterson [E.Ansah].,10,4,44,DET 23,0,MIN,
+23,3407,2,08:05,"(8:05) (No Huddle, Shotgun) J.McKinnon up the middle to DET 37 for 5 yards (C.Vaughn).",3,4,30,DET 42,0,MIN,
+23,3607,3,05:00,(5:00) (Shotgun) T.Bridgewater pass incomplete short left to G.Jennings.,9,4,45,DET 22,0,MIN,
+23,3629,4,04:56,"(4:56) (Field Goal formation) B.Walsh 40 yard field goal is GOOD, Center-C.Loeffler, Holder-J.Locke.",9,4,45,DET 22,1,MIN,FG
+23,3315,2,09:10,"(9:10) (Shotgun) T.Bridgewater pass incomplete short right to J.McKinnon. PENALTY on DET-D.Slay, Defensive Holding, 5 yards, enforced at MIN 33 - No Play.",10,4,5,MIN 33,0,MIN,PENALTY
+23,3293,1,09:14,(9:14) (Shotgun) T.Bridgewater pass incomplete short left to C.Patterson.,10,4,0,MIN 33,0,MIN,
+1,147,2,12:42,(12:42) (Shotgun) M.Stafford pass short right to T.Riddick to MIN 9 for 41 yards (A.Barr).,3,1,71,50,0,DET,
+1,54,1,15:00,(15:00) M.Stafford pass short right to E.Ebron to DET 32 for 12 yards (G.Hodges).,10,1,12,DET 20,0,DET,
+1,36,0,15:00,"B.Walsh kicks 65 yards from MIN 35 to end zone, Touchback.",0,1,0,MIN 35,0,MIN,KICKOFF
+1,192,2,11:11,"(11:11) (Shotgun) M.Stafford pass short right to T.Riddick for 9 yards, TOUCHDOWN. The Replay Official challenged the runner broke the plane ruling, and the play was Upheld. The ruling on the field was confirmed.",9,1,80,MIN 9,1,DET,TD
+1,234,0,11:06,"(Kick formation) M.Prater extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin.",0,1,80,MIN 2,1,DET,XP
+1,123,1,13:21,(13:21) (Shotgun) M.Stafford pass short right to G.Tate to 50 for 7 yards (J.Robinson).,10,1,30,DET 43,0,DET,
+1,102,2,14:00,(14:00) J.Bell up the middle to DET 43 for 10 yards (R.Blanton; H.Smith).,9,1,23,DET 33,0,DET,
+1,81,1,14:35,(14:35) T.Riddick left end to DET 33 for 1 yard (L.Joseph).,10,1,13,DET 32,0,DET,
+1,171,1,11:53,(11:53) J.Bell right tackle to MIN 9 for no gain (G.Hodges).,9,1,71,MIN 9,0,DET,
+3,555,3,04:47,(4:47) (Shotgun) M.Stafford pass incomplete short left to E.Ebron.,3,1,22,DET 40,0,DET,
+3,577,4,04:42,"(4:42) (Punt formation) S.Martin punts 46 yards to MIN 14, Center-D.Muhlbach. M.Sherels to MIN 30 for 16 yards (J.Collins). PENALTY on MIN-A.Exum, Offensive Holding, 10 yards, enforced at MIN 30.",3,1,22,DET 40,0,DET,PUNT
+3,456,2,06:57,(6:57) M.Stafford pass short middle to C.Fuller to DET 28 for 7 yards (A.Barr).,7,1,10,DET 21,0,DET,
+3,534,2,05:30,(5:30) J.Bell left tackle to DET 40 for 4 yards (J.Brinkley).,7,1,22,DET 36,0,DET,
+3,513,1,06:09,(6:09) T.Riddick up the middle to DET 36 for 3 yards (A.Barr).,10,1,18,DET 33,0,DET,
+3,435,1,07:34,(7:34) G.Winn right guard to DET 21 for 3 yards (J.Brinkley).,10,1,3,DET 18,0,DET,
+3,480,1,06:14,"(6:14) M.Stafford pass incomplete short right to G.Tate. PENALTY on MIN-C.Munnerlyn, Illegal Use of Hands, 5 yards, enforced at DET 28 - No Play.",10,1,15,DET 28,0,DET,PENALTY
+2,335,1,09:27,"(9:27) (No Huddle, Shotgun) J.McKinnon up the middle to DET 38 for 9 yards (J.Ihedigbo).",10,1,21,DET 47,0,MIN,
+2,314,3,09:57,(9:57) (Shotgun) T.Bridgewater scrambles up the middle to DET 47 for 4 yards (Team).,2,1,44,MIN 49,0,MIN,
+2,356,2,09:02,"(9:02) (No Huddle, Shotgun) J.McKinnon up the middle to DET 36 for 2 yards (D.Tapp; D.Levy).",1,1,23,DET 38,0,MIN,
+2,272,1,11:02,(11:02) J.McKinnon right guard to MIN 40 for -1 yards (T.Whitehead).,10,1,44,MIN 41,0,MIN,
+2,250,0,11:06,S.Martin kicks 38 yards from DET 35 to MIN 27. J.Felton to MIN 41 for 14 yards (G.Winn).,0,1,0,DET 35,0,DET,KICKOFF
+2,398,1,07:42,(7:42) T.Bridgewater pass deep middle intended for C.Patterson INTERCEPTED by G.Quin at DET -2. G.Quin to DET 18 for 20 yards (J.McKinnon).,10,1,44,DET 15,0,MIN,INT
+2,293,2,10:31,(10:31) J.McKinnon right end pushed ob at MIN 49 for 9 yards (A.Palmer).,11,1,8,MIN 40,0,MIN,
+2,377,1,08:25,(8:25) (Shotgun) J.Wright left end to DET 15 for 21 yards (G.Quin).,10,1,44,DET 36,0,MIN,
+5,746,2,01:19,(1:19) (Shotgun) M.Stafford pass short left to T.Riddick to MIN 33 for 7 yards (R.Blanton; A.Barr).,10,1,22,MIN 40,0,DET,
+5,791,0,,END QUARTER 1,0,1,23,,0,,
+5,701,1,02:35,(2:35) M.Stafford pass short right to G.Tate to MIN 40 for 15 yards (C.Munnerlyn).,10,1,15,DET 45,0,DET,
+5,725,1,02:00,(2:00) J.Bell right end to MIN 40 for no gain (J.Brinkley).,10,1,15,MIN 40,0,DET,
+5,807,4,15:00,"(15:00) (Field Goal formation) M.Prater 50 yard field goal is No Good, Wide Left, Center-D.Muhlbach, Holder-S.Martin.",2,2,23,MIN 32,0,DET,FGM
+5,770,3,00:37,(:37) (Shotgun) M.Stafford scrambles right tackle to MIN 32 for 1 yard (T.Johnson; E.Griffen).,3,1,23,MIN 33,0,DET,
+4,656,3,03:22,(3:22) (Shotgun) T.Bridgewater sacked at MIN 20 for -1 yards (N.Suh).,9,1,0,MIN 21,0,MIN,
+4,675,4,02:45,"(2:45) (Punt formation) J.Locke punts 45 yards to DET 35, Center-C.Loeffler. J.Ross to DET 45 for 10 yards (A.Thielen).",10,1,0,MIN 20,0,MIN,PUNT
+4,635,2,03:55,(3:55) C.Patterson right end to MIN 21 for 2 yards (T.Whitehead).,11,1,1,MIN 19,0,MIN,
+4,614,1,04:30,(4:30) J.McKinnon left tackle to MIN 19 for -1 yards (E.Ansah).,10,1,-1,MIN 20,0,MIN,
+7,977,2,13:10,(13:10) (Shotgun) M.Stafford pass incomplete short middle to G.Tate (G.Hodges) [T.Johnson].,20,2,-10,DET 17,0,DET,
+7,999,3,13:07,(13:07) (Shotgun) M.Stafford pass short left to T.Riddick to DET 32 for 15 yards (B.Robison; S.Floyd).,20,2,5,DET 17,0,DET,
+7,923,1,13:35,"(13:35) J.Bell up the middle to DET 25 for -2 yards (G.Hodges). PENALTY on DET-R.Sims, Offensive Holding, 10 yards, enforced at DET 27 - No Play.",10,2,-10,DET 27,0,DET,PENALTY
+7,955,1,13:13,(13:13) M.Stafford pass incomplete short middle to C.Fuller (X.Rhodes).,20,2,-10,DET 17,0,DET,
+7,1023,4,12:27,"(12:27) (Punt formation) S.Martin punts 63 yards to MIN 5, Center-D.Muhlbach. M.Sherels to MIN 17 for 12 yards (G.Johnson; D.Carey).",5,2,5,DET 32,0,DET,PUNT
+6,903,4,13:40,"(13:40) (Punt formation) J.Locke punts 37 yards to DET 27, Center-C.Loeffler, fair catch by J.Ross.",14,2,-4,MIN 36,0,MIN,PUNT
+6,874,3,14:24,"(14:24) (Shotgun) T.Bridgewater sacked at MIN 36 for -6 yards (E.Ansah). FUMBLES (E.Ansah), recovered by MIN-P.Loadholt at MIN 36. P.Loadholt to MIN 36 for no gain (G.Johnson).",8,2,-4,MIN 42,0,MIN,FUMBLE
+6,828,1,14:55,(14:55) T.Bridgewater pass short right to J.McKinnon to MIN 42 for 2 yards (D.Levy).,10,2,2,MIN 40,0,MIN,
+6,852,2,14:28,"(14:28) (No Huddle, Shotgun) T.Bridgewater pass incomplete short right to J.Wright.",8,2,2,MIN 42,0,MIN,
+9,1313,2,06:37,(6:37) (Shotgun) M.Stafford pass incomplete deep right to G.Tate.,18,2,9,DET 40,0,DET,
+9,1214,1,08:44,(8:44) M.Stafford pass short right to G.Tate to DET 37 for 6 yards (C.Munnerlyn).,10,2,6,DET 31,0,DET,
+9,1283,2,06:44,"(6:44) M.Stafford pass incomplete short left. PENALTY on DET-J.Bell, Offensive Holding, 10 yards, enforced at 50 - No Play.",8,2,9,50,0,DET,PENALTY
+9,1262,1,07:26,(7:26) T.Riddick right end to 50 for 2 yards (E.Griffen).,10,2,19,DET 48,0,DET,
+9,1238,2,08:07,(8:07) M.Stafford pass short middle to G.Tate to DET 48 for 11 yards (R.Blanton).,4,2,17,DET 37,0,DET,
+9,1345,3,06:31,(6:31) (Shotgun) M.Stafford pass incomplete deep left to G.Tate [E.Griffen].,18,2,9,DET 40,0,DET,
+9,1368,4,06:23,"(6:23) (Punt formation) S.Martin punts 50 yards to MIN 10, Center-D.Muhlbach. M.Sherels to MIN 10 for no gain (Team).",18,2,9,DET 40,0,DET,PUNT
+8,1175,3,09:28,(9:28) (Shotgun) T.Bridgewater sacked at MIN 24 for -10 yards (sack split by D.Levy and E.Ansah).,9,2,7,MIN 34,0,MIN,
+8,1082,1,12:09,(12:09) (Shotgun) J.McKinnon left guard to MIN 23 for 1 yard (D.Tapp).,10,2,6,MIN 22,0,MIN,
+8,1049,1,12:14,"(12:14) (Shotgun) T.Bridgewater pass incomplete short right to J.Wright (D.Slay). PENALTY on DET-R.Mathis, Illegal Use of Hands, 5 yards, enforced at MIN 17 - No Play.",10,2,5,MIN 17,0,MIN,PENALTY
+8,1151,2,10:11,(10:11) T.Bridgewater pass short right to J.McKinnon to MIN 34 for -2 yards (E.Ansah).,7,2,17,MIN 36,0,MIN,
+8,1194,4,08:51,"(8:51) (Punt formation) J.Locke punts 45 yards to DET 31, Center-C.Loeffler, fair catch by J.Ross.",19,2,7,MIN 24,0,MIN,PUNT
+8,1127,1,10:51,(10:51) (Shotgun) T.Bridgewater pass short right to J.Wright to MIN 36 for 3 yards (D.Tapp).,10,2,19,MIN 33,0,MIN,
+8,1103,2,11:33,(11:33) T.Bridgewater pass short middle to J.McKinnon to MIN 33 for 10 yards (R.Mathis).,9,2,16,MIN 23,0,MIN,
+11,1603,4,02:26,"(2:26) (Punt formation) S.Martin punts 57 yards to end zone, Center-D.Muhlbach, Touchback.",9,2,1,DET 43,0,DET,PUNT
+11,1565,3,02:48,"(2:48) (Shotgun) M.Stafford pass short left to T.Riddick to DET 43 for 3 yards (A.Barr). MIN-S.Floyd was injured during the play.  Penalty on DET-E.Ebron, Offensive Pass Interference, declined.",12,2,1,DET 40,0,DET,
+11,1522,1,04:16,(4:16) M.Stafford sacked at DET 32 for -10 yards (J.Brinkley).,10,2,-10,DET 42,0,DET,
+11,1541,2,03:32,(3:32) (Shotgun) M.Stafford pass short left to J.Ross to DET 40 for 8 yards (A.Barr).,20,2,-2,DET 32,0,DET,
+10,1474,3,04:31,(4:31) (Shotgun) T.Bridgewater pass incomplete short right to G.Jennings (D.Gorrer).,3,2,7,MIN 17,0,MIN,
+10,1429,1,05:53,(5:53) M.Asiata up the middle to MIN 2 for -3 yards (N.Fairley).,15,2,-8,MIN 5,0,MIN,
+10,2118,0,05:12,Timeout #1 by MIN at 05:12.,0,2,7,,0,,TIMEOUT
+10,1450,2,05:12,(5:12) T.Bridgewater pass short left to Charles.Johnson to MIN 17 for 15 yards (R.Mathis).,18,2,7,MIN 2,0,MIN,
+10,1496,4,04:27,"(4:27) (Punt formation) J.Locke punts 48 yards to DET 35, Center-C.Loeffler. J.Ross to DET 42 for 7 yards (A.Sendejo).",3,2,7,MIN 17,0,MIN,PUNT
+10,1397,1,06:14,"(6:14) M.Asiata right guard to MIN 10 for no gain (D.Levy). PENALTY on MIN-V.Ducasse, Offensive Holding, 5 yards, enforced at MIN 10 - No Play.",10,2,-5,MIN 10,0,MIN,PENALTY
+13,1860,4,01:17,"(1:17) (Punt formation) S.Martin punts 59 yards to MIN 18, Center-D.Muhlbach. M.Sherels to MIN 32 for 14 yards (G.Johnson). FUMBLES (G.Johnson), RECOVERED by DET-T.Whitehead at MIN 32. Penalty on MIN-S.Prater, Offensive Holding, offsetting, enforced at DET 23 - No Play. Penalty on DET-J.Stanford, Illegal Use of Hands, offsetting.",10,2,0,DET 23,0,DET,
+13,1816,2,01:27,(1:27) (Shotgun) M.Stafford pass incomplete short middle to C.Fuller (G.Hodges).,10,2,0,DET 23,0,DET,
+13,1913,4,01:05,"(1:05) (Punt formation) S.Martin punts 47 yards to MIN 30, Center-D.Muhlbach, out of bounds.",10,2,0,DET 23,0,DET,PUNT
+13,1838,3,01:22,(1:22) (Shotgun) M.Stafford pass incomplete deep right to C.Fuller.,10,2,0,DET 23,0,DET,
+13,1794,1,01:29,(1:29) (Shotgun) M.Stafford pass incomplete short left to T.Riddick.,10,2,0,DET 23,0,DET,
+12,1621,1,02:16,(2:16) (Shotgun) J.McKinnon up the middle to MIN 23 for 3 yards (G.Johnson).,10,2,3,MIN 20,0,MIN,
+12,1705,2,01:47,(1:47) (Shotgun) T.Bridgewater pass incomplete short left to C.Ford.,10,2,11,MIN 31,0,MIN,
+12,1642,0,02:00,Two-Minute Warning,0,2,3,,0,,
+12,1727,3,01:42,(1:42) (Shotgun) T.Bridgewater sacked at MIN 26 for -5 yards (sack split by J.Jones and G.Johnson).,10,2,6,MIN 31,0,MIN,
+12,1683,1,01:52,(1:52) (Shotgun) T.Bridgewater pass incomplete deep right to Charles.Johnson.,10,2,11,MIN 31,0,MIN,
+12,1659,2,02:00,(2:00) (Shotgun) T.Bridgewater pass short left to J.McKinnon ran ob at MIN 31 for 8 yards.,7,2,11,MIN 23,0,MIN,
+12,1763,4,01:36,"(1:36) (Punt formation) J.Locke punts 41 yards to DET 33, Center-C.Loeffler, fair catch by J.Ross. PENALTY on DET-J.Bynes, Offensive Holding, 10 yards, enforced at DET 33.",15,2,6,MIN 26,0,MIN,PUNT
+12,1746,0,01:36,Timeout #1 by DET at 01:36.,0,2,6,,0,,TIMEOUT
+15,2045,2,00:19,(:19) (Shotgun) M.Stafford pass incomplete deep right to J.Ross.,4,2,17,MIN 34,0,DET,
+15,1983,1,00:45,(:45) (Shotgun) M.Stafford pass short right to E.Ebron to MIN 40 for 11 yards (R.Blanton; C.Munnerlyn).,10,2,11,DET 49,0,DET,
+15,2024,1,00:39,(:39) (Shotgun) J.Bell right guard to MIN 34 for 6 yards (H.Smith).,10,2,17,MIN 40,0,DET,
+15,2089,4,00:12,"(:12) (Field Goal formation) M.Prater 52 yard field goal is GOOD, Center-D.Muhlbach, Holder-S.Martin.",4,2,17,MIN 34,1,DET,FG
+15,2007,0,00:39,Timeout #2 by DET at 00:39.,0,2,11,,0,,TIMEOUT
+15,2067,3,00:16,(:16) (Shotgun) M.Stafford pass incomplete short middle to J.Bell.,4,2,17,MIN 34,0,DET,
+14,1932,1,00:58,(:58) (Shotgun) T.Bridgewater pass short right to M.Asiata pushed ob at MIN 48 for 18 yards (J.Ihedigbo).,10,2,18,MIN 30,0,MIN,
+14,1956,1,00:49,(:49) (Shotgun) T.Bridgewater pass short middle intended for M.Asiata INTERCEPTED by T.Whitehead at DET 47. T.Whitehead to DET 49 for 2 yards (M.Asiata).,10,2,18,MIN 48,0,MIN,INT
+17,2326,2,12:22,(12:22) (Shotgun) T.Bridgewater pass short left to R.Ellison to DET 46 for 4 yards (D.Levy).,6,3,34,50,0,MIN,
+17,2214,2,14:26,(14:26) J.McKinnon right end to MIN 34 for 6 yards (D.Slay).,2,3,14,MIN 28,0,MIN,
+17,2302,1,12:59,(12:59) (Shotgun) T.Bridgewater pass short right to J.Wright to 50 for 4 yards (T.Whitehead).,10,3,30,MIN 46,0,MIN,
+17,2235,1,13:54,"(13:54) (No Huddle, Shotgun) J.McKinnon up the middle to MIN 37 for 3 yards (J.Jones).",10,3,17,MIN 34,0,MIN,
+17,2278,3,13:31,(13:31) (Shotgun) T.Bridgewater pass short middle to C.Ford to MIN 46 for 9 yards (J.Ihedigbo).,7,3,26,MIN 37,0,MIN,
+17,2190,1,15:00,(15:00) (Shotgun) T.Bridgewater pass short right to C.Ford to MIN 28 for 8 yards (T.Whitehead; A.Palmer).,10,3,8,MIN 20,0,MIN,
+17,2175,0,15:00,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,3,0,DET 35,0,DET,KICKOFF
+17,2256,2,13:34,"(13:34) (No Huddle, Shotgun) T.Bridgewater pass incomplete short right to J.Wright.",7,3,17,MIN 37,0,MIN,
+17,2350,3,11:39,(11:39) T.Bridgewater pass short middle intended for C.Patterson INTERCEPTED by T.Whitehead (D.Taylor) at DET 48. T.Whitehead to DET 48 for no gain (Charlie.Johnson).,2,3,34,DET 46,0,MIN,INT
+16,2109,0,00:07,S.Martin kicks 61 yards from DET 35 to MIN 4. C.Patterson to MIN 19 for 15 yards (J.Bynes).,0,2,0,DET 35,0,DET,KICKOFF
+16,2159,0,,END QUARTER 2,0,2,-1,,0,,
+16,2138,1,00:00,(:00) (Run formation) T.Bridgewater kneels to MIN 18 for -1 yards (Team).,10,2,-1,MIN 19,0,MIN,
+19,2606,3,05:36,(5:36) (Shotgun) T.Bridgewater pass short right to J.Wright to MIN 35 for 4 yards (D.Slay).,13,3,1,MIN 31,0,MIN,
+19,2653,4,04:48,"(4:48) J.Locke punts 39 yards to DET 31, Center-C.Loeffler. J.Ross to DET 40 for 9 yards (A.Thielen; M.Sherels).",14,3,-4,MIN 30,0,MIN,PUNT
+19,2585,2,06:09,(6:09) (Shotgun) J.McKinnon left guard to MIN 31 for 4 yards (G.Johnson).,17,3,-3,MIN 27,0,MIN,
+19,2564,1,06:48,(6:48) T.Bridgewater sacked at MIN 27 for -7 yards (sack split by C.Reid and J.Ihedigbo).,10,3,-3,MIN 34,0,MIN,
+19,2630,4,05:01,"(5:01) (Punt formation) PENALTY on MIN-A.Cole, False Start, 5 yards, enforced at MIN 35 - No Play.",9,3,-4,MIN 35,0,MIN,PENALTY
+18,2543,4,06:54,"(6:54) M.Prater 44 yard field goal is No Good, Hit Left Upright, Center-D.Muhlbach, Holder-S.Martin.",20,3,26,MIN 26,0,DET,FGM
+18,2524,3,07:36,(7:36) (Shotgun) M.Stafford sacked at MIN 26 for -8 yards (T.Johnson).,12,3,26,MIN 18,0,DET,
+18,2458,1,09:41,(9:41) J.Bell right guard to MIN 16 for 13 yards (R.Blanton).,10,3,36,MIN 29,0,DET,
+18,2479,1,08:59,(8:59) (Shotgun) L.Warford reported in as eligible.  M.Stafford sacked at MIN 20 for -4 yards (E.Griffen).,10,3,32,MIN 16,0,DET,
+18,2434,2,10:19,(10:19) (Shotgun) M.Stafford pass short left to C.Fuller to MIN 29 for 5 yards (X.Rhodes).,3,3,23,MIN 34,0,DET,
+18,2413,1,11:04,(11:04) J.Bell right guard to MIN 34 for 7 yards (R.Blanton).,10,3,18,MIN 41,0,DET,
+18,2387,1,11:35,(11:35) J.Bell left end pushed ob at MIN 41 for 11 yards (C.Munnerlyn).,10,3,11,DET 48,0,DET,
+18,2500,2,08:19,(8:19) (Shotgun) M.Stafford pass short right to G.Tate to MIN 18 for 2 yards (G.Hodges).,14,3,34,MIN 20,0,DET,

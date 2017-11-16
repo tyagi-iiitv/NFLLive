@@ -1,191 +1,191 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1413,2,10:48,,12,2,5,BUF 25,0,BUF,
-9,1434,3,10:06,,17,2,5,BUF 20,0,BUF,INT
-9,1371,1,12:10,,10,2,12,BUF 15,0,BUF,
-9,1349,0,12:14,,0,2,0,JAC 35,0,JAC,KICKOFF
-9,1392,1,11:35,,10,2,10,BUF 27,0,BUF,
-24,4438,0,02:16,,0,4,84,BUF 15,1,JAC,XP
-24,4243,1,04:39,,10,4,18,JAC 36,0,JAC,
-24,4330,3,03:04,,10,4,31,BUF 48,0,JAC,PENALTY
-24,4190,0,05:21,,0,4,0,BUF 20,0,BUF,KICKOFF
-24,4410,2,02:25,,5,4,84,BUF 31,1,JAC,TD
-24,4262,2,03:55,,12,4,36,JAC 34,0,JAC,
-24,4219,1,05:19,,10,4,20,JAC 16,0,JAC,
-24,4286,1,03:13,,10,4,36,BUF 48,0,JAC,
-24,4353,3,03:04,,15,4,48,JAC 47,0,JAC,PENALTY
-24,4308,2,03:07,,10,4,36,BUF 48,0,JAC,
-24,4386,1,02:59,,10,4,84,BUF 36,0,JAC,
-10,1559,0,08:25,,0,2,36,BUF 15,0,JAC,XPM
-10,1479,1,09:55,,10,2,4,BUF 36,0,JAC,
-10,1528,3,08:34,,2,2,36,BUF 28,1,JAC,TD
-10,1504,2,09:17,,6,2,8,BUF 32,0,JAC,
-20,3712,2,09:50,,10,4,10,BUF 47,0,BUF,
-20,3645,2,10:54,,10,4,10,BUF 37,0,BUF,
-20,3734,3,09:44,,10,4,4,BUF 47,0,BUF,FUMBLE
-20,3669,3,10:32,,1,4,10,BUF 46,0,BUF,
-20,3623,1,10:59,,10,4,0,BUF 37,0,BUF,
-20,3763,4,09:06,,16,4,4,BUF 41,0,BUF,PUNT
-20,3690,1,09:53,,10,4,4,BUF 47,0,BUF,
-6,1010,1,01:00,,10,1,50,BUF 28,0,JAC,
-6,1068,1,15:00,,10,2,63,BUF 11,0,JAC,
-6,1089,2,14:17,,9,2,73,BUF 10,0,JAC,
-6,1031,2,00:22,,5,1,62,BUF 23,0,JAC,
-6,986,1,01:33,,10,1,45,JAC 49,0,JAC,
-6,962,1,02:13,,10,1,22,JAC 27,0,JAC,
-6,1115,3,14:09,,9,2,73,BUF 10,1,JAC,TD
-6,1135,0,14:05,,0,2,73,BUF 15,1,JAC,XP
-18,3333,1,14:18,,10,4,34,BUF 40,0,BUF,
-18,3444,3,12:09,,7,4,34,JAC 41,0,BUF,PENALTY
-18,3362,1,13:41,,10,4,34,JAC 44,0,BUF,
-18,3421,3,12:25,,2,4,34,JAC 36,0,BUF,PENALTY
-18,3394,2,13:06,,9,4,34,JAC 43,0,BUF,
-18,3477,1,12:04,,10,4,56,JAC 26,0,BUF,FUMBLE
-26,4737,3,00:27,,12,4,-3,BUF 42,0,JAC,
-26,4716,2,00:51,,11,4,-2,BUF 41,0,JAC,
-26,4699,0,00:51,,0,4,-1,,0,,TIMEOUT
-26,4678,1,00:53,,10,4,-1,BUF 40,0,JAC,
-26,4758,0,,,0,4,-3,,0,,
-25,4510,2,02:00,,4,4,12,BUF 26,0,BUF,
-25,4597,3,01:20,,1,4,20,BUF 41,0,BUF,
-25,4576,2,01:45,,1,4,21,BUF 41,0,BUF,
-25,4531,1,01:53,,10,4,21,BUF 32,0,BUF,
-25,4454,0,02:16,,0,4,0,JAC 35,0,JAC,KICKOFF
-25,4656,4,00:57,,2,4,20,BUF 40,0,BUF,
-25,4559,0,01:45,,0,4,21,,0,,TIMEOUT
-25,4469,1,02:16,,10,4,6,BUF 20,0,BUF,
-25,4639,0,00:57,,0,4,20,,0,,TIMEOUT
-1,105,1,13:47,,10,1,22,BUF 36,0,BUF,
-1,168,1,11:46,,10,1,22,BUF 46,0,BUF,
-1,126,2,13:07,,10,1,17,BUF 36,0,BUF,
-1,190,2,11:41,,10,1,22,BUF 46,0,BUF,
-1,212,3,11:36,,10,1,17,BUF 46,0,BUF,
-1,57,1,14:56,,10,1,-2,BUF 24,0,BUF,
-1,81,2,14:23,,12,1,12,BUF 22,0,BUF,
-1,234,4,11:32,,10,1,17,BUF 46,0,BUF,PENALTY
-1,35,0,15:00,,0,1,0,JAC 35,0,JAC,KICKOFF
-1,261,4,11:32,,15,1,17,BUF 41,0,BUF,PUNT
-1,147,3,12:22,,6,1,22,BUF 40,0,BUF,
-5,874,1,03:51,,10,1,5,BUF 20,0,BUF,
-5,940,4,02:21,,14,1,-4,BUF 16,0,BUF,PUNT
-5,918,3,02:25,,14,1,-4,BUF 16,0,BUF,
-5,899,2,03:11,,5,1,-4,BUF 25,0,BUF,
-13,2228,3,00:15,,4,2,30,JAC 20,0,BUF,
-13,2086,1,01:38,,10,2,0,50,0,BUF,
-13,2114,2,01:35,,10,2,14,50,0,BUF,
-13,2138,1,01:08,,10,2,19,JAC 36,0,BUF,
-13,2182,1,00:46,,10,2,24,JAC 26,0,BUF,
-13,2159,2,01:08,,5,2,30,JAC 31,0,BUF,PENALTY
-13,2204,2,00:41,,10,2,30,JAC 26,0,BUF,
-13,2250,4,00:12,,4,2,30,JAC 20,1,BUF,FG
-21,3782,1,08:56,,10,4,5,JAC 3,0,JAC,PENALTY
-21,3830,2,08:23,,1,4,9,JAC 12,0,JAC,
-21,3809,1,08:56,,5,4,9,JAC 8,0,JAC,
-21,3883,3,07:41,,1,4,9,JAC 12,0,JAC,
-21,3912,4,07:22,,1,4,9,JAC 12,0,JAC,PUNT
-21,3866,0,07:41,,0,4,9,,0,,TIMEOUT
-23,4043,1,06:33,,10,4,0,JAC 20,0,JAC,
-23,4028,0,06:33,,0,4,0,BUF 35,0,BUF,KICKOFF
-23,4109,3,05:34,,11,4,-1,JAC 19,1,JAC,TD
-23,4086,3,05:55,,6,4,-1,JAC 24,0,JAC,PENALTY
-23,4065,2,06:29,,10,4,4,JAC 20,0,JAC,
-11,1639,2,07:18,,7,2,23,BUF 30,0,BUF,
-11,1751,3,05:08,,7,2,46,JAC 47,0,BUF,
-11,1708,1,05:51,,10,2,35,50,0,BUF,
-11,1597,1,08:21,,10,2,12,BUF 15,0,BUF,
-11,1618,1,07:51,,10,2,15,BUF 27,0,BUF,
-11,1730,2,05:47,,10,2,38,50,0,BUF,
-11,1868,0,02:46,,0,2,85,JAC 15,1,BUF,XP
-11,1844,1,02:52,,10,2,85,JAC 16,1,BUF,TD
-11,1820,2,03:27,,8,2,69,JAC 25,0,BUF,
-11,1799,1,04:00,,10,2,60,JAC 27,0,BUF,
-11,1575,0,08:25,,0,2,0,JAC 35,0,JAC,KICKOFF
-11,1775,1,04:40,,10,2,58,JAC 39,0,BUF,
-11,1663,1,06:44,,10,2,35,BUF 38,0,BUF,
-11,1687,2,06:18,,3,2,35,BUF 45,0,BUF,
-14,2269,0,00:08,,0,2,0,BUF 35,0,BUF,KICKOFF
-14,2284,1,00:08,,10,2,-1,JAC 20,0,JAC,
-8,1286,0,12:21,,0,2,0,JAC 35,0,JAC,KICKOFF
-8,1301,1,12:21,,10,2,0,BUF 20,1,BUF,TD
-19,3524,1,11:53,,10,4,3,JAC 19,0,JAC,
-19,3571,3,11:11,,7,4,3,JAC 22,0,JAC,
-19,3545,2,11:15,,7,4,3,JAC 22,0,JAC,
-19,3593,4,11:07,,7,4,3,JAC 22,0,JAC,PUNT
-22,3970,0,06:33,,0,4,52,JAC 2,0,BUF,PENALTY
-22,3931,1,07:15,,10,4,-6,BUF 48,0,BUF,
-22,4013,0,06:33,,0,4,52,JAC 1,1,BUF,2PR
-22,3950,2,06:41,,16,4,52,BUF 42,1,BUF,TD
-12,2001,3,02:00,,7,2,-2,JAC 17,0,JAC,
-12,1919,0,02:46,,0,2,0,BUF 35,0,BUF,KICKOFF
-12,1941,1,02:43,,10,2,0,JAC 14,0,JAC,
-12,2041,4,01:52,,12,2,-2,JAC 12,0,JAC,PUNT
-12,1963,2,02:39,,10,2,-2,JAC 14,0,JAC,
-12,2020,0,01:52,,0,2,-2,,0,,TIMEOUT
-16,2829,1,04:18,,10,3,23,BUF 12,0,BUF,
-16,3138,2,15:00,,8,4,91,JAC 8,0,BUF,
-16,3050,1,00:10,,6,3,91,JAC 6,0,BUF,PENALTY
-16,2987,1,01:10,,10,3,71,JAC 33,0,BUF,
-16,2860,1,03:47,,10,3,33,BUF 24,0,BUF,
-16,2950,1,01:28,,10,3,71,JAC 40,0,BUF,PENALTY
-16,3182,4,14:52,,8,4,91,JAC 8,1,BUF,FG
-16,2905,1,02:36,,10,3,49,BUF 46,0,BUF,
-16,2926,2,02:05,,6,3,59,50,0,BUF,
-16,2784,1,05:30,,10,3,6,BUF 1,0,BUF,
-16,2881,1,03:13,,10,3,45,BUF 34,0,BUF,
-16,3160,3,14:57,,8,4,91,JAC 8,0,BUF,
-16,3098,1,00:07,,11,3,91,JAC 11,0,BUF,
-16,3011,2,00:33,,5,3,93,JAC 28,0,BUF,PENALTY
-16,2808,2,04:57,,4,3,11,BUF 7,0,BUF,
-7,1198,2,13:29,,13,2,-8,BUF 19,0,BUF,PENALTY
-7,1177,1,13:59,,10,2,-3,BUF 22,0,BUF,
-7,1151,0,14:05,,0,2,0,JAC 35,0,JAC,KICKOFF
-7,1245,3,12:30,,9,2,-16,BUF 23,1,BUF,TD
-7,1221,2,13:12,,18,2,1,BUF 14,0,BUF,
-3,441,2,09:32,,4,1,16,50,0,BUF,
-3,462,1,08:56,,10,1,45,JAC 40,0,BUF,
-3,486,1,08:19,,10,1,43,JAC 11,0,BUF,FUMBLE
-3,512,2,07:41,,12,1,43,JAC 13,0,BUF,
-3,424,0,09:32,,0,1,6,,0,,TIMEOUT
-3,403,1,10:04,,10,1,6,BUF 44,0,BUF,
-3,534,3,07:35,,12,1,43,JAC 13,0,BUF,
-3,560,4,07:28,,12,1,43,JAC 13,1,BUF,FG
-17,3264,3,14:42,,10,4,0,JAC 20,0,JAC,
-17,3297,4,14:35,,10,4,0,JAC 20,0,JAC,PUNT
-17,3205,0,14:50,,0,4,0,BUF 35,0,BUF,KICKOFF
-17,3220,1,14:50,,10,4,0,JAC 20,0,JAC,
-17,3242,2,14:45,,10,4,0,JAC 20,0,JAC,
-4,738,2,04:37,,11,1,32,BUF 48,0,JAC,
-4,682,1,05:31,,10,1,33,JAC 33,0,JAC,
-4,851,4,03:59,,21,1,22,JAC 42,0,JAC,PUNT
-4,598,1,07:26,,10,1,9,JAC 20,0,JAC,
-4,579,0,07:26,,0,1,0,BUF 35,0,BUF,KICKOFF
-4,760,3,04:31,,11,1,22,BUF 48,0,JAC,PENALTY
-4,661,3,06:08,,1,1,13,JAC 29,0,JAC,
-4,717,1,05:14,,10,1,32,BUF 47,0,JAC,
-4,619,2,06:54,,1,1,9,JAC 29,0,JAC,
-4,807,3,04:02,,21,1,22,JAC 42,0,JAC,
-4,640,0,06:08,,0,1,9,,0,,TIMEOUT
-2,280,1,11:26,,10,1,3,JAC 24,0,JAC,
-2,358,3,10:22,,17,1,-7,JAC 17,0,JAC,
-2,380,4,10:14,,17,1,-7,JAC 17,0,JAC,PUNT
-2,323,3,10:48,,7,1,-7,JAC 27,0,JAC,PENALTY
-2,301,2,10:51,,7,1,3,JAC 27,0,JAC,
-15,2663,2,07:33,,6,3,79,BUF 6,0,JAC,PENALTY
-15,2538,3,10:44,,4,3,60,BUF 27,0,JAC,
-15,2592,2,09:29,,7,3,64,BUF 17,0,JAC,
-15,2721,2,06:51,,1,3,79,BUF 1,0,JAC,
-15,2412,2,13:23,,6,3,34,JAC 45,0,JAC,
-15,2474,2,12:03,,1,3,47,BUF 37,0,JAC,
-15,2340,1,15:00,,10,3,53,JAC 20,0,JAC,
-15,2388,1,13:50,,10,3,25,JAC 41,0,JAC,
-15,2567,1,10:09,,10,3,63,BUF 20,0,JAC,
-15,2613,3,08:46,,6,3,79,BUF 16,0,JAC,
-15,2367,2,14:29,,5,3,60,JAC 25,0,JAC,
-15,2742,3,06:17,,1,3,79,BUF 1,0,JAC,
-15,2763,4,05:37,,1,3,79,BUF 1,0,JAC,
-15,2637,1,08:09,,7,3,79,BUF 7,0,JAC,
-15,2495,1,11:27,,10,3,47,BUF 33,0,JAC,
-15,2517,2,11:20,,10,3,53,BUF 33,0,JAC,
-15,2321,0,15:00,,0,3,0,BUF 35,0,BUF,KICKOFF
-15,2450,1,12:39,,10,3,43,BUF 46,0,JAC,
-15,2696,1,07:29,,1,3,79,BUF 1,0,JAC,
-15,2433,0,12:39,,0,3,34,,0,,TIMEOUT
+24,4262,2,03:55,(3:55) (Shotgun) B.Bortles pass deep right to A.Robinson to BUF 48 for 18 yards (R.Darby).,12,4,36,JAC 34,0,JAC,
+24,4286,1,03:13,(3:13) (Shotgun) B.Bortles pass incomplete deep right to J.Thomas.,10,4,36,BUF 48,0,JAC,
+24,4308,2,03:07,(3:07) (Shotgun) B.Bortles pass incomplete short right to T.Yeldon (N.Bradham).,10,4,36,BUF 48,0,JAC,
+24,4219,1,05:19,(5:19) B.Bortles pass deep middle to A.Robinson to JAC 36 for 20 yards (S.Gilmore).,10,4,20,JAC 16,0,JAC,
+24,4243,1,04:39,(4:39) B.Bortles sacked at JAC 34 for -2 yards (D.Williams).,10,4,18,JAC 36,0,JAC,
+24,4190,0,05:21,J.Gay kicks 65 yards from BUF 20 to JAC 15. B.Walters to JAC 16 for 1 yard (J.Meeks; B.Rambo). BUF-D.Herron was injured during the play.,0,4,0,BUF 20,0,BUF,KICKOFF
+24,4386,1,02:59,(2:59) (Shotgun) B.Bortles pass short middle to B.Walters to BUF 31 for 5 yards (P.Brown).,10,4,84,BUF 36,0,JAC,
+24,4330,3,03:04,"(3:04) (Shotgun) PENALTY on JAC-B.Bortles, Delay of Game, 5 yards, enforced at BUF 48 - No Play.",10,4,31,BUF 48,0,JAC,PENALTY
+24,4410,2,02:25,"(2:25) B.Bortles pass deep left to A.Hurns for 31 yards, TOUCHDOWN.",5,4,84,BUF 31,1,JAC,TD
+24,4438,0,02:16,"J.Myers extra point is GOOD, Center-C.Tinker, Holder-B.Anger.",0,4,84,BUF 15,1,JAC,XP
+24,4353,3,03:04,"(3:04) (Shotgun) B.Bortles pass incomplete deep left to B.Walters (N.Robey). PENALTY on BUF-N.Robey, Defensive Pass Interference, 17 yards, enforced at JAC 47 - No Play.",15,4,48,JAC 47,0,JAC,PENALTY
+25,4510,2,02:00,(2:00) (Shotgun) E.Manuel scrambles left end ran ob at BUF 32 for 6 yards (P.Posluszny).,4,4,12,BUF 26,0,BUF,
+25,4559,0,01:45,Timeout #1 by BUF at 01:45.,0,4,21,,0,,TIMEOUT
+25,4531,1,01:53,(1:53) (Shotgun) E.Manuel pass short right to R.Woods to BUF 41 for 9 yards (T.Smith).,10,4,21,BUF 32,0,BUF,
+25,4656,4,00:57,(:57) (Shotgun) E.Manuel pass incomplete short left to R.Woods (A.Colvin).,2,4,20,BUF 40,0,BUF,
+25,4454,0,02:16,"J.Myers kicks 65 yards from JAC 35 to end zone, Touchback.",0,4,0,JAC 35,0,JAC,KICKOFF
+25,4597,3,01:20,(1:20) E.Manuel up the middle to BUF 40 for -1 yards (S.Marks).,1,4,20,BUF 41,0,BUF,
+25,4576,2,01:45,(1:45) (Shotgun) L.McCoy right tackle to BUF 41 for no gain (T.Smith).,1,4,21,BUF 41,0,BUF,
+25,4469,1,02:16,(2:16) (Shotgun) E.Manuel pass short right to R.Woods to BUF 26 for 6 yards (D.Gratz).,10,4,6,BUF 20,0,BUF,
+25,4639,0,00:57,Timeout #2 by BUF at 00:57.,0,4,20,,0,,TIMEOUT
+26,4699,0,00:51,Timeout #3 by BUF at 00:51.,0,4,-1,,0,,TIMEOUT
+26,4758,0,,END GAME,0,4,-3,,0,,
+26,4716,2,00:51,(:51) B.Bortles kneels to BUF 42 for -1 yards.,11,4,-2,BUF 41,0,JAC,
+26,4737,3,00:27,(:27) B.Bortles kneels to BUF 43 for -1 yards.,12,4,-3,BUF 42,0,JAC,
+26,4678,1,00:53,(:53) B.Bortles kneels to BUF 41 for -1 yards.,10,4,-1,BUF 40,0,JAC,
+20,3763,4,09:06,"(9:06) (Punt formation) C.Schmidt punts 56 yards to JAC 3, Center-G.Sanborn, downed by BUF-M.Easley.",16,4,4,BUF 41,0,BUF,PUNT
+20,3712,2,09:50,(9:50) (Shotgun) E.Manuel pass incomplete short middle to C.Clay (J.Evans).,10,4,10,BUF 47,0,BUF,
+20,3690,1,09:53,(9:53) (Shotgun) E.Manuel pass incomplete short left to L.McCoy.,10,4,4,BUF 47,0,BUF,
+20,3623,1,10:59,(10:59) (Shotgun) E.Manuel pass incomplete deep middle to C.Gragg.,10,4,0,BUF 37,0,BUF,
+20,3669,3,10:32,(10:32) E.Manuel up the middle to BUF 47 for 1 yard (P.Posluszny).,1,4,10,BUF 46,0,BUF,
+20,3645,2,10:54,(10:54) (Shotgun) E.Manuel pass short left to C.Hogan ran ob at BUF 46 for 9 yards (D.Skuta).,10,4,10,BUF 37,0,BUF,
+20,3734,3,09:44,"(9:44) (Shotgun) E.Manuel sacked at BUF 39 for -8 yards (A.Branch). FUMBLES (A.Branch), recovered by BUF-E.Wood at BUF 39. E.Wood to BUF 41 for 2 yards (A.Branch).",10,4,4,BUF 47,0,BUF,FUMBLE
+21,3782,1,08:56,"(8:56) PENALTY on BUF-J.Hughes, Neutral Zone Infraction, 5 yards, enforced at JAC 3 - No Play.",10,4,5,JAC 3,0,JAC,PENALTY
+21,3830,2,08:23,(8:23) T.Yeldon up the middle to JAC 12 for no gain (C.Bryant; J.Hughes).,1,4,9,JAC 12,0,JAC,
+21,3912,4,07:22,"(7:22) (Punt formation) B.Anger punts 41 yards to BUF 47, Center-C.Tinker, fair catch by D.Moore.",1,4,9,JAC 12,0,JAC,PUNT
+21,3883,3,07:41,(7:41) JAC 93 reports eligible T.Alualu right guard to JAC 12 for no gain (J.Hughes; C.Bryant). Official measurement ruled short,1,4,9,JAC 12,0,JAC,
+21,3866,0,07:41,Timeout #2 by JAC at 07:41.,0,4,9,,0,,TIMEOUT
+21,3809,1,08:56,(8:56) T.Yeldon right guard to JAC 12 for 4 yards (C.Graham).,5,4,9,JAC 8,0,JAC,
+22,4013,0,06:33,(Pass formation) TWO-POINT CONVERSION ATTEMPT. L.McCoy rushes right guard. ATTEMPT SUCCEEDS.,0,4,52,JAC 1,1,BUF,2PR
+22,3970,0,06:33,"(Pass formation) TWO-POINT CONVERSION ATTEMPT. E.Manuel pass to C.Gragg is incomplete. ATTEMPT FAILS. PENALTY on JAC-D.Gratz, Defensive Pass Interference, 1 yard, enforced at JAC 2 - No Play.",0,4,52,JAC 2,0,BUF,PENALTY
+22,3950,2,06:41,"(6:41) (Shotgun) E.Manuel pass deep right to M.Easley for 58 yards, TOUCHDOWN.",16,4,52,BUF 42,1,BUF,TD
+22,3931,1,07:15,(7:15) (Shotgun) E.Manuel sacked at BUF 42 for -6 yards (A.Jones).,10,4,-6,BUF 48,0,BUF,
+23,4109,3,05:34,"(5:34) (Shotgun) B.Bortles pass deep left intended for A.Robinson INTERCEPTED by C.Graham at JAC 44. C.Graham for 44 yards, TOUCHDOWN. PENALTY on BUF-J.Hughes, Unsportsmanlike Conduct, 15 yards, enforced between downs.",11,4,-1,JAC 19,1,JAC,TD
+23,4065,2,06:29,(6:29) T.Yeldon left guard to JAC 24 for 4 yards (D.Williams).,10,4,4,JAC 20,0,JAC,
+23,4086,3,05:55,"(5:55) (No Huddle, Shotgun) PENALTY on JAC-L.Joeckel, False Start, 5 yards, enforced at JAC 24 - No Play.",6,4,-1,JAC 24,0,JAC,PENALTY
+23,4028,0,06:33,"J.Gay kicks 65 yards from BUF 35 to end zone, Touchback.",0,4,0,BUF 35,0,BUF,KICKOFF
+23,4043,1,06:33,(6:33) (Shotgun) B.Bortles pass incomplete short right to N.Jacobs.,10,4,0,JAC 20,0,JAC,
+1,147,3,12:22,(12:22) (Shotgun) L.McCoy right end to BUF 46 for 6 yards (P.Posluszny).,6,1,22,BUF 40,0,BUF,
+1,212,3,11:36,(11:36) (Shotgun) E.Manuel pass incomplete short right to C.Hogan (T.Smith) [C.Clemons].,10,1,17,BUF 46,0,BUF,
+1,57,1,14:56,(14:56) (Shotgun) E.Manuel pass short left to R.Woods to BUF 22 for -2 yards (P.Posluszny).,10,1,-2,BUF 24,0,BUF,
+1,190,2,11:41,(11:41) (Shotgun) E.Manuel pass incomplete deep left to C.Gragg.,10,1,22,BUF 46,0,BUF,
+1,35,0,15:00,J.Myers kicks 69 yards from JAC 35 to BUF -4. D.Herron to BUF 24 for 28 yards (D.McCray).,0,1,0,JAC 35,0,JAC,KICKOFF
+1,261,4,11:32,"(11:32) C.Schmidt punts 35 yards to JAC 24, Center-G.Sanborn, fair catch by B.Walters.",15,1,17,BUF 41,0,BUF,PUNT
+1,168,1,11:46,(11:46) E.Manuel pass incomplete short left to C.Hogan.,10,1,22,BUF 46,0,BUF,
+1,126,2,13:07,(13:07) L.McCoy left guard to BUF 40 for 4 yards (A.Colvin).,10,1,17,BUF 36,0,BUF,
+1,234,4,11:32,"(11:32) (Punt formation) PENALTY on BUF-A.Dixon, False Start, 5 yards, enforced at BUF 46 - No Play.",10,1,17,BUF 46,0,BUF,PENALTY
+1,81,2,14:23,(14:23) (Shotgun) E.Manuel pass short left to L.McCoy to BUF 36 for 14 yards (C.Clemons).,12,1,12,BUF 22,0,BUF,
+1,105,1,13:47,(13:47) L.McCoy right tackle to BUF 36 for no gain (D.Gratz).,10,1,22,BUF 36,0,BUF,
+3,560,4,07:28,"(7:28) D.Carpenter 31 yard field goal is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",12,1,43,JAC 13,1,BUF,FG
+3,441,2,09:32,(9:32) (Shotgun) E.Manuel left end to JAC 40 for 10 yards (J.Cyprien).,4,1,16,50,0,BUF,
+3,462,1,08:56,(8:56) E.Manuel pass deep right to C.Gragg to JAC 11 for 29 yards (D.Skuta).,10,1,45,JAC 40,0,BUF,
+3,534,3,07:35,(7:35) (Shotgun) E.Manuel pass incomplete short left to C.Gragg. Ball overthrown,12,1,43,JAC 13,0,BUF,
+3,403,1,10:04,(10:04) L.McCoy left guard to 50 for 6 yards (J.Evans).,10,1,6,BUF 44,0,BUF,
+3,486,1,08:19,"(8:19) (Shotgun) L.McCoy Aborted. E.Wood FUMBLES at JAC 8, touched at JAC 13, recovered by BUF-L.McCoy at JAC 13. L.McCoy to JAC 13 for no gain (R.Miller).",10,1,43,JAC 11,0,BUF,FUMBLE
+3,512,2,07:41,(7:41) (Shotgun) E.Manuel pass incomplete short right to C.Gragg.,12,1,43,JAC 13,0,BUF,
+3,424,0,09:32,Timeout #1 by BUF at 09:32.,0,1,6,,0,,TIMEOUT
+2,380,4,10:14,"(10:14) B.Anger punts 39 yards to BUF 44, Center-C.Tinker, downed by JAC-D.McCray.",17,1,-7,JAC 17,0,JAC,PUNT
+2,280,1,11:26,(11:26) (Shotgun) T.Yeldon left guard to JAC 27 for 3 yards (M.Dareus).,10,1,3,JAC 24,0,JAC,
+2,358,3,10:22,(10:22) (Shotgun) B.Bortles pass incomplete deep middle to A.Hurns.,17,1,-7,JAC 17,0,JAC,
+2,323,3,10:48,"(10:48) (Shotgun) B.Bortles pass short left to A.Hurns ran ob at JAC 35 for 8 yards (S.Gilmore). PENALTY on JAC-L.Joeckel, Offensive Holding, 10 yards, enforced at JAC 27 - No Play.",7,1,-7,JAC 27,0,JAC,PENALTY
+2,301,2,10:51,(10:51) (Shotgun) B.Bortles pass incomplete short right to J.Thomas (D.Williams).,7,1,3,JAC 27,0,JAC,
+5,899,2,03:11,(3:11) E.Manuel sacked at BUF 16 for -9 yards (T.Alualu).,5,1,-4,BUF 25,0,BUF,
+5,874,1,03:51,(3:51) (Shotgun) L.McCoy right guard to BUF 25 for 5 yards (D.Skuta).,10,1,5,BUF 20,0,BUF,
+5,918,3,02:25,(2:25) (Shotgun) E.Manuel pass incomplete short right to L.McCoy (S.Marks).,14,1,-4,BUF 16,0,BUF,
+5,940,4,02:21,"(2:21) C.Schmidt punts 57 yards to JAC 27, Center-G.Sanborn, out of bounds.",14,1,-4,BUF 16,0,BUF,PUNT
+4,579,0,07:26,"J.Gay kicks 65 yards from BUF 35 to end zone, Touchback.",0,1,0,BUF 35,0,BUF,KICKOFF
+4,619,2,06:54,(6:54) (Shotgun) T.Yeldon right guard to JAC 29 for no gain (C.Bryant).,1,1,9,JAC 29,0,JAC,
+4,851,4,03:59,"(3:59) B.Anger punts 38 yards to BUF 20, Center-C.Tinker, fair catch by D.Moore.",21,1,22,JAC 42,0,JAC,PUNT
+4,717,1,05:14,(5:14) T.Yeldon right guard to BUF 48 for -1 yards (M.Williams).,10,1,32,BUF 47,0,JAC,
+4,598,1,07:26,(7:26) T.Yeldon right guard to JAC 29 for 9 yards (D.Williams; R.Darby).,10,1,9,JAC 20,0,JAC,
+4,760,3,04:31,"(4:31) (Shotgun) B.Bortles pass deep middle to J.Thomas to BUF 21 for 27 yards (C.Graham). PENALTY on JAC-A.Cann, Offensive Holding, 10 yards, enforced at BUF 48 - No Play.",11,1,22,BUF 48,0,JAC,PENALTY
+4,661,3,06:08,(6:08) T.Gerhart right guard to JAC 33 for 4 yards (M.Lawson).,1,1,13,JAC 29,0,JAC,
+4,640,0,06:08,Timeout #1 by JAC at 06:08. JAC 93 Reports eligible,0,1,9,,0,,TIMEOUT
+4,738,2,04:37,(4:37) B.Bortles pass incomplete deep right to A.Robinson.,11,1,32,BUF 48,0,JAC,
+4,807,3,04:02,"(4:02) (Shotgun) B.Bortles pass incomplete short right to T.Yeldon. Penalty on JAC-M.Lewis, Offensive Pass Interference, declined. Penalty on JAC-A.Cann, Ineligible Downfield Pass, declined.",21,1,22,JAC 42,0,JAC,
+4,682,1,05:31,"(5:31) B.Bortles pass deep left to A.Robinson to BUF 47 for 20 yards (S.Gilmore). Penalty on BUF-S.Gilmore, Defensive Pass Interference, declined.",10,1,33,JAC 33,0,JAC,
+7,1177,1,13:59,(13:59) L.McCoy left guard to BUF 19 for -3 yards (R.Miller).,10,2,-3,BUF 22,0,BUF,
+7,1198,2,13:29,"(13:29) (Shotgun) PENALTY on BUF-C.Kouandjio, False Start, 5 yards, enforced at BUF 19 - No Play.",13,2,-8,BUF 19,0,BUF,PENALTY
+7,1151,0,14:05,J.Myers kicks 60 yards from JAC 35 to BUF 5. A.Dixon to BUF 22 for 17 yards (J.Cyprien).,0,2,0,JAC 35,0,JAC,KICKOFF
+7,1245,3,12:30,"(12:30) (Shotgun) E.Manuel sacked at BUF 16 for -7 yards (A.Colvin). FUMBLES (A.Colvin), RECOVERED by JAC-C.Clemons at BUF 6. C.Clemons for 6 yards, TOUCHDOWN.",9,2,-16,BUF 23,1,BUF,TD
+7,1221,2,13:12,(13:12) (Shotgun) E.Manuel pass short right to R.Woods to BUF 23 for 9 yards (J.Evans).,18,2,1,BUF 14,0,BUF,
+6,1068,1,15:00,(15:00) (Shotgun) B.Bortles left end to BUF 10 for 1 yard (D.Williams).,10,2,63,BUF 11,0,JAC,
+6,962,1,02:13,(2:13) B.Bortles pass short left to A.Hurns to JAC 49 for 22 yards (R.Darby).,10,1,22,JAC 27,0,JAC,
+6,986,1,01:33,(1:33) (Shotgun) B.Bortles pass deep left to A.Robinson pushed ob at BUF 28 for 23 yards (C.Graham).,10,1,45,JAC 49,0,JAC,
+6,1089,2,14:17,"(14:17) B.Bortles pass incomplete short left to A.Hurns. Bortles threw the ball away, out of the back of the endzone.",9,2,73,BUF 10,0,JAC,
+6,1115,3,14:09,"(14:09) (Shotgun) B.Bortles pass short middle to A.Robinson for 10 yards, TOUCHDOWN [C.Graham].",9,2,73,BUF 10,1,JAC,TD
+6,1135,0,14:05,"J.Myers extra point is GOOD, Center-C.Tinker, Holder-B.Anger.",0,2,73,BUF 15,1,JAC,XP
+6,1031,2,00:22,(:22) T.Yeldon left guard to BUF 11 for 12 yards (C.Graham; R.Darby).,5,1,62,BUF 23,0,JAC,
+6,1010,1,01:00,(1:00) (Shotgun) T.Yeldon left guard to BUF 23 for 5 yards (D.Williams).,10,1,50,BUF 28,0,JAC,
+9,1371,1,12:10,(12:10) (Shotgun) E.Manuel left end to BUF 27 for 12 yards (J.Cyprien).,10,2,12,BUF 15,0,BUF,
+9,1349,0,12:14,J.Myers kicks 71 yards from JAC 35 to BUF -6. D.Herron to BUF 15 for 21 yards (T.Armbrister).,0,2,0,JAC 35,0,JAC,KICKOFF
+9,1434,3,10:06,"(10:06) (Shotgun) E.Manuel pass deep left intended for C.Hogan INTERCEPTED by P.Posluszny at BUF 39. P.Posluszny to BUF 36 for 3 yards (C.Hogan). FUMBLES (C.Hogan), ball out of bounds at BUF 36.",17,2,5,BUF 20,0,BUF,INT
+9,1413,2,10:48,(10:48) L.McCoy left end to BUF 20 for -5 yards (T.Smith).,12,2,5,BUF 25,0,BUF,
+9,1392,1,11:35,(11:35) L.McCoy left end to BUF 25 for -2 yards (T.Smith).,10,2,10,BUF 27,0,BUF,
+8,1286,0,12:21,"J.Myers kicks 65 yards from JAC 35 to end zone, Touchback.",0,2,0,JAC 35,0,JAC,KICKOFF
+8,1301,1,12:21,"(12:21) (Shotgun) E.Manuel pass short right intended for R.Woods INTERCEPTED by T.Smith at BUF 26. T.Smith for 26 yards, TOUCHDOWN.",10,2,0,BUF 20,1,BUF,TD
+11,1775,1,04:40,(4:40) (Shotgun) E.Manuel pass short left to R.Woods pushed ob at JAC 27 for 12 yards (A.Colvin) [C.Clemons].,10,2,58,JAC 39,0,BUF,
+11,1799,1,04:00,(4:00) (Shotgun) L.McCoy left guard to JAC 25 for 2 yards (D.Skuta).,10,2,60,JAC 27,0,BUF,
+11,1618,1,07:51,(7:51) (Shotgun) E.Manuel left end to BUF 30 for 3 yards (C.Clemons).,10,2,15,BUF 27,0,BUF,
+11,1708,1,05:51,(5:51) (Shotgun) E.Manuel pass incomplete short left to R.Woods.,10,2,35,50,0,BUF,
+11,1639,2,07:18,(7:18) (Shotgun) E.Manuel pass short middle to C.Clay to BUF 38 for 8 yards (J.Cyprien).,7,2,23,BUF 30,0,BUF,
+11,1820,2,03:27,(3:27) (Shotgun) E.Manuel pass short right to C.Hogan to JAC 16 for 9 yards (J.Evans).,8,2,69,JAC 25,0,BUF,
+11,1844,1,02:52,"(2:52) (No Huddle, Shotgun) E.Manuel pass deep right to R.Woods for 16 yards, TOUCHDOWN. The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands.",10,2,85,JAC 16,1,BUF,TD
+11,1597,1,08:21,(8:21) (Shotgun) L.McCoy right guard to BUF 27 for 12 yards (J.Cyprien).,10,2,12,BUF 15,0,BUF,
+11,1751,3,05:08,(5:08) (Shotgun) E.Manuel pass short left to R.Woods to JAC 39 for 8 yards (D.House).,7,2,46,JAC 47,0,BUF,
+11,1687,2,06:18,(6:18) (Shotgun) D.Herron right tackle to 50 for 5 yards (T.Smith).,3,2,35,BUF 45,0,BUF,
+11,1730,2,05:47,(5:47) (Shotgun) L.McCoy right tackle to JAC 47 for 3 yards (J.Cyprien).,10,2,38,50,0,BUF,
+11,1868,0,02:46,"D.Carpenter extra point is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",0,2,85,JAC 15,1,BUF,XP
+11,1663,1,06:44,(6:44) (Shotgun) E.Manuel pass short right to C.Hogan pushed ob at BUF 45 for 7 yards (D.Gratz).,10,2,35,BUF 38,0,BUF,
+11,1575,0,08:25,J.Myers kicks 71 yards from JAC 35 to BUF -6. D.Herron to BUF 15 for 21 yards (N.Jacobs).,0,2,0,JAC 35,0,JAC,KICKOFF
+10,1559,0,08:25,"J.Myers extra point is No Good, Wide Right, Center-C.Tinker, Holder-B.Anger.",0,2,36,BUF 15,0,JAC,XPM
+10,1479,1,09:55,(9:55) T.Yeldon right guard to BUF 32 for 4 yards (C.Bryant).,10,2,4,BUF 36,0,JAC,
+10,1528,3,08:34,"(8:34) (Shotgun) T.Yeldon left guard for 28 yards, TOUCHDOWN. The Replay Official reviewed the runner broke the plane ruling, and the play was Upheld. The ruling on the field stands.",2,2,36,BUF 28,1,JAC,TD
+10,1504,2,09:17,(9:17) B.Bortles pass short left to M.Lewis to BUF 28 for 4 yards (J.Hughes).,6,2,8,BUF 32,0,JAC,
+13,2204,2,00:41,(:41) (Shotgun) E.Manuel pass short left to C.Clay to JAC 20 for 6 yards (J.Evans).,10,2,30,JAC 26,0,BUF,
+13,2228,3,00:15,"(:15) (No Huddle, Shotgun) E.Manuel pass incomplete short left to C.Hogan (D.House).",4,2,30,JAC 20,0,BUF,
+13,2086,1,01:38,(1:38) (Shotgun) E.Manuel pass incomplete short middle to C.Clay (S.Marks).,10,2,0,50,0,BUF,
+13,2138,1,01:08,"(1:08) (No Huddle, Shotgun) L.McCoy right guard to JAC 31 for 5 yards (P.Posluszny).",10,2,19,JAC 36,0,BUF,
+13,2182,1,00:46,"(:46) (No Huddle, Shotgun) E.Manuel pass incomplete deep right to C.Hogan [A.Branch].",10,2,24,JAC 26,0,BUF,
+13,2114,2,01:35,(1:35) (Shotgun) E.Manuel pass short right to C.Hogan to JAC 36 for 14 yards (D.Gratz).,10,2,14,50,0,BUF,
+13,2159,2,01:08,"(1:08) (No Huddle, Shotgun) PENALTY on JAC-R.Davis, Neutral Zone Infraction, 5 yards, enforced at JAC 31 - No Play.",5,2,30,JAC 31,0,BUF,PENALTY
+13,2250,4,00:12,"(:12) (Field Goal formation) D.Carpenter 38 yard field goal is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",4,2,30,JAC 20,1,BUF,FG
+12,2041,4,01:52,"(1:52) B.Anger punts 56 yards to BUF 32, Center-C.Tinker. D.Moore to 50 for 18 yards (T.Gerhart).",12,2,-2,JAC 12,0,JAC,PUNT
+12,1941,1,02:43,(2:43) (Shotgun) B.Bortles pass incomplete short left to J.Thomas.,10,2,0,JAC 14,0,JAC,
+12,1963,2,02:39,(2:39) (Shotgun) T.Yeldon right tackle to JAC 17 for 3 yards (M.Dareus; P.Brown).,10,2,-2,JAC 14,0,JAC,
+12,1919,0,02:46,J.Gay kicks 70 yards from BUF 35 to JAC -5. N.Marshall to JAC 14 for 19 yards (J.Meeks).,0,2,0,BUF 35,0,BUF,KICKOFF
+12,2001,3,02:00,(2:00) (Shotgun) B.Bortles sacked at JAC 12 for -5 yards (M.Williams).,7,2,-2,JAC 17,0,JAC,
+12,2020,0,01:52,Timeout #2 by BUF at 01:52.,0,2,-2,,0,,TIMEOUT
+15,2321,0,15:00,"J.Gay kicks 65 yards from BUF 35 to end zone, Touchback.",0,3,0,BUF 35,0,BUF,KICKOFF
+15,2474,2,12:03,(12:03) (Shotgun) T.Gerhart left guard to BUF 33 for 4 yards (C.Bryant).,1,3,47,BUF 37,0,JAC,
+15,2613,3,08:46,(8:46) (Shotgun) B.Bortles pass short right to T.Yeldon ran ob at BUF 7 for 9 yards.,6,3,79,BUF 16,0,JAC,
+15,2340,1,15:00,(15:00) T.Yeldon left guard to JAC 25 for 5 yards (M.Dareus).,10,3,53,JAC 20,0,JAC,
+15,2592,2,09:29,(9:29) T.Yeldon right guard to BUF 16 for 1 yard (C.Graham).,7,3,64,BUF 17,0,JAC,
+15,2742,3,06:17,(6:17) T.Gerhart left guard to BUF 1 for no gain (A.Carrington).,1,3,79,BUF 1,0,JAC,
+15,2433,0,12:39,Timeout #1 by JAC at 12:39.,0,3,34,,0,,TIMEOUT
+15,2637,1,08:09,(8:09) (Shotgun) T.Yeldon right guard pushed ob at BUF 6 for 1 yard (R.Darby).,7,3,79,BUF 7,0,JAC,
+15,2495,1,11:27,(11:27) B.Bortles pass incomplete deep right to A.Hurns (R.Darby).,10,3,47,BUF 33,0,JAC,
+15,2450,1,12:39,(12:39) B.Bortles pass short left to M.Lewis to BUF 37 for 9 yards (C.Graham).,10,3,43,BUF 46,0,JAC,
+15,2567,1,10:09,(10:09) (Shotgun) T.Yeldon left guard to BUF 17 for 3 yards (M.Dareus).,10,3,63,BUF 20,0,JAC,
+15,2763,4,05:37,(5:37) T.Gerhart right tackle to BUF 1 for no gain (B.Rambo).,1,3,79,BUF 1,0,JAC,
+15,2538,3,10:44,(10:44) (Shotgun) B.Bortles pass short left to A.Robinson pushed ob at BUF 20 for 7 yards (C.Graham).,4,3,60,BUF 27,0,JAC,
+15,2412,2,13:23,(13:23) (Shotgun) T.Yeldon left guard to BUF 46 for 9 yards (P.Brown).,6,3,34,JAC 45,0,JAC,
+15,2663,2,07:33,"(7:33) (Shotgun) B.Bortles pass incomplete short right to J.Thomas (C.Graham). PENALTY on BUF-C.Graham, Defensive Pass Interference, 5 yards, enforced at BUF 6 - No Play.",6,3,79,BUF 6,0,JAC,PENALTY
+15,2696,1,07:29,(7:29) JAC 93 reports eligible T.Gerhart right guard to BUF 1 for no gain (N.Bradham).,1,3,79,BUF 1,0,JAC,
+15,2367,2,14:29,(14:29) T.Yeldon right guard pushed ob at JAC 41 for 16 yards (C.Graham).,5,3,60,JAC 25,0,JAC,
+15,2388,1,13:50,(13:50) B.Bortles pass short right to J.Thomas ran ob at JAC 45 for 4 yards.,10,3,25,JAC 41,0,JAC,
+15,2721,2,06:51,(6:51) T.Gerhart right guard to BUF 1 for no gain (P.Brown).,1,3,79,BUF 1,0,JAC,
+15,2517,2,11:20,(11:20) (Shotgun) T.Yeldon left guard to BUF 27 for 6 yards (C.Graham).,10,3,53,BUF 33,0,JAC,
+14,2269,0,00:08,"J.Gay kicks 65 yards from BUF 35 to end zone, Touchback.",0,2,0,BUF 35,0,BUF,KICKOFF
+14,2284,1,00:08,(:08) B.Bortles kneels to JAC 19 for -1 yards.,10,2,-1,JAC 20,0,JAC,
+17,3242,2,14:45,(14:45) B.Bortles pass incomplete short right to J.Thomas.,10,4,0,JAC 20,0,JAC,
+17,3205,0,14:50,"J.Gay kicks 65 yards from BUF 35 to end zone, Touchback.",0,4,0,BUF 35,0,BUF,KICKOFF
+17,3297,4,14:35,"(14:35) B.Anger punts 49 yards to BUF 31, Center-C.Tinker. D.Moore to JAC 37 for 32 yards (B.Anger). PENALTY on BUF-R.Johnson, Illegal Block Above the Waist, 10 yards, enforced at 50.",10,4,0,JAC 20,0,JAC,PUNT
+17,3220,1,14:50,(14:50) B.Bortles pass incomplete deep middle to A.Hurns (R.Darby).,10,4,0,JAC 20,0,JAC,
+17,3264,3,14:42,(14:42) (Shotgun) B.Bortles pass incomplete deep left to A.Hurns.,10,4,0,JAC 20,0,JAC,
+16,2860,1,03:47,(3:47) (Shotgun) L.McCoy left end to BUF 34 for 10 yards (D.Skuta).,10,3,33,BUF 24,0,BUF,
+16,2784,1,05:30,(5:30) (Shotgun) E.Manuel pass short middle to C.Gragg to BUF 7 for 6 yards (A.Colvin).,10,3,6,BUF 1,0,BUF,
+16,2881,1,03:13,(3:13) (Shotgun) E.Manuel pass short right to C.Hogan to BUF 46 for 12 yards (D.Gratz; P.Posluszny).,10,3,45,BUF 34,0,BUF,
+16,3160,3,14:57,(14:57) (Shotgun) E.Manuel pass incomplete short right to C.Gragg.,8,4,91,JAC 8,0,BUF,
+16,2905,1,02:36,(2:36) (Shotgun) D.Herron right guard to 50 for 4 yards (J.Cyprien).,10,3,49,BUF 46,0,BUF,
+16,3011,2,00:33,"(:33) (Shotgun) L.McCoy right end pushed ob at JAC 10 for 18 yards (J.Evans). PENALTY on JAC-J.Evans, Tripping, 5 yards, enforced at JAC 11.",5,3,93,JAC 28,0,BUF,PENALTY
+16,2987,1,01:10,(1:10) (Shotgun) E.Manuel pass short left to C.Hogan to JAC 28 for 5 yards (A.Colvin).,10,3,71,JAC 33,0,BUF,
+16,2926,2,02:05,(2:05) (Shotgun) E.Manuel pass short right to R.Woods to JAC 40 for 10 yards (D.Gratz; T.Smith).,6,3,59,50,0,BUF,
+16,2808,2,04:57,(4:57) E.Manuel right end ran ob at BUF 12 for 5 yards (D.Skuta).,4,3,11,BUF 7,0,BUF,
+16,2829,1,04:18,(4:18) (Shotgun) E.Manuel pass short left to C.Clay pushed ob at BUF 24 for 12 yards (A.Colvin).,10,3,23,BUF 12,0,BUF,
+16,3182,4,14:52,"(14:52) (Field Goal formation) D.Carpenter 26 yard field goal is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",8,4,91,JAC 8,1,BUF,FG
+16,3098,1,00:07,(:07) (Shotgun) E.Manuel pass short middle to D.Herron to JAC 8 for 3 yards (T.Smith).,11,3,91,JAC 11,0,BUF,
+16,2950,1,01:28,"(1:28) (Shotgun) E.Manuel scrambles right end ran ob at JAC 38 for 2 yards (T.Smith). PENALTY on JAC-A.Branch, Illegal Use of Hands, 5 yards, enforced at JAC 38.",10,3,71,JAC 40,0,BUF,PENALTY
+16,3138,2,15:00,(15:00) (Shotgun) E.Manuel pass incomplete short middle to R.Woods (T.Smith).,8,4,91,JAC 8,0,BUF,
+16,3050,1,00:10,"(:10) L.McCoy left end pushed ob at JAC 1 for 5 yards (J.Cyprien). PENALTY on BUF, Illegal Shift, 5 yards, enforced at JAC 6 - No Play. Penalty on BUF-C.Clay, Illegal Formation, declined.",6,3,91,JAC 6,0,BUF,PENALTY
+19,3593,4,11:07,"(11:07) (Punt formation) B.Anger punts 46 yards to BUF 32, Center-C.Tinker, fair catch by D.Moore. PENALTY on JAC-N.Marshall, Player Out of Bounds on Punt, 5 yards, enforced at BUF 32.",7,4,3,JAC 22,0,JAC,PUNT
+19,3545,2,11:15,(11:15) (Shotgun) B.Bortles pass incomplete short right to A.Robinson (R.Darby).,7,4,3,JAC 22,0,JAC,
+19,3524,1,11:53,(11:53) T.Yeldon left guard to JAC 22 for 3 yards (C.Graham).,10,4,3,JAC 19,0,JAC,
+19,3571,3,11:11,(11:11) (Shotgun) B.Bortles pass incomplete short right to A.Hurns.,7,4,3,JAC 22,0,JAC,
+18,3477,1,12:04,"(12:04) (Shotgun) E.Manuel pass short middle to L.McCoy to JAC 1 for 25 yards (J.Cyprien). FUMBLES (J.Cyprien), RECOVERED by JAC-J.Evans at JAC 4. J.Evans to JAC 4 for no gain (C.Gragg). BUF-L.McCoy was injured during the play.  PENALTY on BUF-R.Woods, Illegal Peelback, 15 yards, enforced at JAC 4.",10,4,56,JAC 26,0,BUF,FUMBLE
+18,3394,2,13:06,(13:06) (Shotgun) L.McCoy left end to JAC 36 for 7 yards (T.Smith).,9,4,34,JAC 43,0,BUF,
+18,3444,3,12:09,"(12:09) (Shotgun) E.Manuel pass incomplete short left to C.Hogan [A.Branch]. PENALTY on JAC-A.Branch, Roughing the Passer, 15 yards, enforced at JAC 41 - No Play.",7,4,34,JAC 41,0,BUF,PENALTY
+18,3421,3,12:25,"(12:25) PENALTY on BUF-K.Urbik, False Start, 5 yards, enforced at JAC 36 - No Play.",2,4,34,JAC 36,0,BUF,PENALTY
+18,3362,1,13:41,(13:41) (Shotgun) L.McCoy right guard to JAC 43 for 1 yard (P.Posluszny).,10,4,34,JAC 44,0,BUF,
+18,3333,1,14:18,(14:18) (Shotgun) E.Manuel pass short right to R.Woods to JAC 44 for 16 yards (D.House).,10,4,34,BUF 40,0,BUF,

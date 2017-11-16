@@ -1,202 +1,202 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1787,2,00:15,,10,2,17,ARI 30,0,ARI,
-9,1765,1,00:20,,10,2,14,ARI 30,0,ARI,
-9,1744,1,00:27,,10,2,14,ARI 16,0,ARI,
-9,1814,3,00:08,,7,2,29,ARI 33,0,ARI,
-9,1838,1,00:02,,10,2,20,ARI 45,0,ARI,
-24,4682,0,10:23,,0,5,31,,0,,TIMEOUT
-24,4553,1,13:55,,10,5,5,ARI 46,0,ARI,
-24,4705,3,10:22,,12,5,31,TEN 23,1,ARI,FG
-24,4574,2,13:20,,5,5,14,TEN 49,0,ARI,
-24,4619,2,12:11,,6,5,33,TEN 36,0,ARI,
-24,4598,1,12:45,,10,5,18,TEN 40,0,ARI,
-24,4640,1,11:37,,10,5,31,TEN 21,0,ARI,
-24,4661,2,10:59,,12,5,31,TEN 23,0,ARI,
-10,1900,1,14:57,,10,3,1,TEN 23,0,ARI,
-10,1969,4,13:38,,16,3,-6,TEN 29,1,ARI,FG
-10,1921,2,14:15,,9,3,1,TEN 22,0,ARI,
-10,1874,0,15:00,,0,3,0,ARI 35,0,ARI,FUMBLE
-10,1943,3,14:10,,9,3,-6,TEN 22,0,ARI,FUMBLE
-20,4101,3,01:34,,10,4,79,ARI 31,0,TEN,
-20,4123,1,01:15,,10,4,79,ARI 14,0,TEN,
-20,4202,0,00:52,,0,4,87,,0,,TIMEOUT
-20,3968,1,02:38,,10,4,32,TEN 22,0,TEN,
-20,4225,4,00:52,,2,4,87,ARI 6,1,TEN,FG
-20,4169,3,00:57,,2,4,87,ARI 6,0,TEN,
-20,4016,0,02:00,,0,4,39,,0,,
-20,3992,1,02:16,,10,4,39,TEN 39,0,TEN,
-20,4057,1,01:40,,10,4,62,ARI 31,0,TEN,
-20,3935,1,02:42,,10,4,15,TEN 7,0,TEN,PENALTY
-20,4033,2,02:00,,3,4,62,TEN 46,0,TEN,
-20,4145,2,01:15,,10,4,87,ARI 14,0,TEN,
-20,4079,2,01:40,,10,4,62,ARI 31,0,TEN,
-6,1207,2,06:36,,8,2,10,TEN 19,0,TEN,
-6,1164,0,07:21,,0,2,0,ARI 35,0,ARI,KICKOFF
-6,1351,2,03:33,,14,2,25,TEN 37,0,TEN,
-6,1375,3,02:56,,9,2,29,TEN 42,0,TEN,
-6,1186,1,07:16,,10,2,2,TEN 17,0,TEN,
-6,1284,2,04:44,,9,2,11,TEN 28,0,TEN,
-6,1399,4,02:12,,5,2,29,TEN 46,0,TEN,PUNT
-6,1231,1,05:47,,10,2,16,TEN 27,0,TEN,
-6,1306,3,04:39,,9,2,24,TEN 28,0,TEN,
-6,1330,1,04:08,,10,2,20,TEN 41,0,TEN,
-6,1252,2,05:07,,4,2,11,TEN 33,0,TEN,PENALTY
-18,3629,1,03:56,,10,4,50,ARI 23,0,TEN,
-18,3605,2,04:20,,1,4,44,ARI 31,0,TEN,
-18,3533,1,05:38,,10,4,19,TEN 45,0,TEN,
-18,3679,3,03:23,,4,4,57,ARI 17,0,TEN,
-18,3703,1,03:17,,10,4,67,ARI 10,1,TEN,TD
-18,3509,1,06:05,,10,4,12,TEN 33,0,TEN,
-18,3487,0,06:13,,0,4,0,ARI 35,0,ARI,KICKOFF
-18,3653,2,03:29,,4,4,50,ARI 17,0,TEN,
-18,3557,2,05:13,,3,4,27,ARI 48,0,TEN,
-18,3724,0,03:12,,0,4,67,ARI 2,1,TEN,XP
-18,3581,1,04:47,,10,4,36,ARI 40,0,TEN,
-1,79,2,14:22,,10,1,0,ARI 20,0,ARI,
-1,123,4,14:11,,10,1,0,ARI 20,0,ARI,PUNT
-1,55,1,15:00,,10,1,0,ARI 20,0,ARI,
-1,36,0,15:00,,0,1,0,TEN 35,0,TEN,KICKOFF
-1,101,3,14:15,,10,1,0,ARI 20,0,ARI,
-5,846,0,15:00,,0,2,0,TEN 35,0,TEN,KICKOFF
-5,914,1,13:43,,10,2,14,ARI 37,0,ARI,
-5,1098,2,08:13,,11,2,58,TEN 16,0,ARI,
-5,1031,2,10:29,,6,2,56,TEN 21,0,ARI,
-5,1052,3,09:42,,3,2,59,TEN 18,0,ARI,
-5,983,2,11:45,,7,2,49,TEN 47,0,ARI,
-5,1009,1,11:08,,10,2,53,TEN 25,0,ARI,
-5,869,1,14:54,,10,2,7,ARI 26,0,ARI,
-5,935,2,12:59,,7,2,24,ARI 40,0,ARI,
-5,1076,1,08:59,,10,2,58,TEN 15,0,ARI,
-5,1144,4,07:25,,2,2,67,TEN 7,1,ARI,FG
-5,1120,3,08:07,,11,2,67,TEN 16,0,ARI,
-5,893,2,14:17,,3,2,11,ARI 33,0,ARI,
-5,959,1,12:22,,10,2,27,50,0,ARI,
-13,2687,0,02:14,,0,3,0,ARI 35,0,ARI,KICKOFF
-13,2760,2,01:38,,20,3,-10,TEN 10,0,TEN,
-13,2782,3,01:33,,20,3,-10,TEN 10,0,TEN,
-13,2804,4,01:28,,20,3,-10,TEN 10,0,TEN,PUNT
-13,2728,2,02:09,,10,3,-10,TEN 20,0,TEN,PENALTY
-13,2706,1,02:14,,10,3,0,TEN 20,0,TEN,
-21,4245,0,00:47,,0,4,0,TEN 35,0,TEN,KICKOFF
-21,4335,2,00:17,,8,4,46,ARI 8,0,TEN,
-21,4289,1,00:36,,10,4,46,ARI 28,0,TEN,
-21,4265,1,00:44,,10,4,26,TEN 46,0,TEN,
-21,4313,1,00:18,,8,4,46,ARI 8,0,TEN,
-21,4357,3,00:14,,8,4,54,ARI 8,1,TEN,TD
-21,4378,0,00:10,,0,4,54,ARI 2,1,TEN,XP
-23,4502,2,14:44,,10,5,33,TEN 24,0,TEN,
-23,4526,1,14:05,,10,5,33,ARI 43,0,TEN,INT
-23,4458,0,15:00,,0,5,0,ARI 35,0,ARI,KICKOFF
-23,4480,1,14:52,,10,5,0,TEN 24,0,TEN,
-11,2108,3,12:03,,10,3,13,TEN 31,0,TEN,PENALTY
-11,2218,2,10:09,,8,3,34,ARI 40,0,TEN,
-11,2086,2,12:09,,10,3,5,TEN 31,0,TEN,
-11,2384,3,06:29,,5,3,72,ARI 5,0,TEN,PENALTY
-11,2240,3,10:02,,8,3,54,ARI 40,0,TEN,
-11,1988,0,13:32,,0,3,0,ARI 35,0,ARI,KICKOFF
-11,2197,1,10:45,,10,3,34,ARI 42,0,TEN,
-11,2338,1,07:23,,9,3,69,ARI 9,0,TEN,
-11,2314,3,08:09,,13,3,65,ARI 23,0,TEN,
-11,2293,2,08:52,,15,3,51,ARI 25,0,TEN,
-11,2173,2,11:19,,10,3,32,TEN 39,0,TEN,
-11,2065,1,12:42,,10,3,5,TEN 31,0,TEN,
-11,2151,1,11:24,,10,3,13,TEN 39,0,TEN,
-11,2032,2,12:49,,10,3,5,TEN 26,0,TEN,PENALTY
-11,2362,2,06:32,,5,3,69,ARI 5,0,TEN,
-11,2417,1,06:24,,2,3,74,ARI 2,0,TEN,PENALTY
-11,2274,1,09:26,,10,3,49,ARI 20,0,TEN,
-11,2450,1,06:20,,1,3,74,ARI 1,1,TEN,TD
-11,2471,0,06:16,,0,3,74,ARI 2,1,TEN,XP
-11,2010,1,13:26,,10,3,0,TEN 26,0,TEN,
-14,2866,3,00:40,,8,3,2,ARI 42,0,ARI,
-14,2844,2,00:45,,8,3,2,ARI 42,0,ARI,
-14,2888,4,00:35,,8,3,2,ARI 42,0,ARI,PUNT
-14,2823,1,01:20,,10,3,2,ARI 40,0,ARI,
-8,1703,0,00:35,,0,2,7,,0,,TIMEOUT
-8,1635,1,00:56,,10,2,0,TEN 33,0,TEN,
-8,1720,4,00:35,,3,2,7,TEN 40,0,TEN,PUNT
-8,1657,2,00:49,,10,2,0,TEN 33,0,TEN,
-8,1679,3,00:44,,10,2,7,TEN 33,0,TEN,
-19,3740,0,03:12,,0,4,0,50,0,TEN,KICKOFF
-19,3774,1,03:09,,10,4,2,ARI 38,0,ARI,
-19,3873,3,02:59,,9,4,6,ARI 39,0,ARI,
-19,3795,0,03:05,,0,4,2,,0,,TIMEOUT
-19,3850,3,02:59,,4,4,1,ARI 44,0,ARI,PENALTY
-19,3911,4,02:54,,4,4,6,ARI 44,0,ARI,PUNT
-19,3894,0,02:54,,0,4,6,,0,,TIMEOUT
-19,3833,0,02:59,,0,4,6,,0,,TIMEOUT
-19,3812,2,03:05,,8,4,6,ARI 40,0,ARI,
-22,4442,0,,,0,4,-1,,0,,
-22,4406,0,00:10,,0,4,0,TEN 40,0,TEN,KICKOFF
-22,4421,1,00:10,,10,4,-1,ARI 20,0,ARI,
-12,2629,1,02:58,,7,3,66,TEN 7,0,ARI,
-12,2650,2,02:20,,6,3,72,TEN 6,1,ARI,TD
-12,2671,0,02:14,,0,3,72,TEN 2,1,ARI,XP
-12,2510,1,06:08,,10,3,11,ARI 28,0,ARI,
-12,2487,0,06:16,,0,3,0,TEN 35,0,TEN,KICKOFF
-12,2605,2,03:41,,10,3,65,TEN 45,0,ARI,
-12,2563,2,04:59,,3,3,27,ARI 46,0,ARI,
-12,2536,1,05:33,,10,3,18,ARI 39,0,ARI,
-12,2584,1,04:22,,10,3,27,TEN 45,0,ARI,
-16,3230,2,10:03,,7,4,22,TEN 38,0,ARI,
-16,3159,2,11:49,,10,4,3,ARI 40,0,ARI,
-16,3180,3,11:09,,7,4,19,ARI 43,0,ARI,
-16,3305,2,08:47,,1,4,52,TEN 11,0,ARI,
-16,3252,3,09:57,,7,4,40,TEN 38,0,ARI,
-16,3209,1,10:41,,10,4,22,TEN 41,0,ARI,
-16,3347,2,07:36,,6,4,59,TEN 6,0,ARI,
-16,3371,3,06:53,,1,4,60,TEN 1,1,ARI,TD
-16,3390,0,06:50,,0,4,60,TEN 2,1,ARI,XP
-16,3137,1,11:57,,10,4,0,ARI 40,0,ARI,
-16,3326,1,08:11,,8,4,54,TEN 8,0,ARI,
-16,3281,1,09:23,,10,4,49,TEN 20,0,ARI,
-7,1579,3,01:12,,11,2,21,ARI 24,0,ARI,
-7,1440,1,02:00,,10,2,2,ARI 3,0,ARI,
-7,1601,4,01:07,,11,2,21,ARI 24,0,ARI,FUMBLE
-7,1478,2,01:53,,8,2,22,ARI 5,0,ARI,
-7,1543,2,01:20,,4,2,21,ARI 31,0,ARI,
-7,1562,0,01:12,,0,2,21,,0,,TIMEOUT
-7,1461,0,01:53,,0,2,2,,0,,TIMEOUT
-7,1502,0,01:35,,0,2,22,,0,,TIMEOUT
-7,1519,1,01:35,,10,2,28,ARI 25,0,ARI,
-3,428,1,07:34,,10,1,52,TEN 25,0,ARI,
-3,336,0,09:34,,0,1,0,TEN 35,0,TEN,KICKOFF
-3,565,0,04:30,,0,1,77,TEN 2,1,ARI,XP
-3,547,1,04:34,,1,1,77,TEN 1,1,ARI,TD
-3,404,1,08:14,,10,1,52,ARI 49,0,ARI,
-3,449,2,06:59,,10,1,61,TEN 25,0,ARI,
-3,512,2,04:52,,11,1,76,TEN 16,0,ARI,PENALTY
-3,358,1,09:28,,10,1,13,ARI 23,0,ARI,
-3,470,3,06:15,,1,1,62,TEN 16,0,ARI,
-3,491,1,05:33,,10,1,61,TEN 15,0,ARI,
-3,380,1,08:46,,10,1,26,ARI 36,0,ARI,
-17,3429,1,06:45,,10,4,-3,TEN 17,0,TEN,
-17,3406,0,06:50,,0,4,0,ARI 35,0,ARI,KICKOFF
-17,3448,2,06:22,,13,4,-3,TEN 14,1,TEN,TD
-4,698,1,02:05,,10,1,68,ARI 33,0,TEN,
-4,581,0,04:30,,0,1,0,ARI 35,0,ARI,KICKOFF
-4,772,1,00:46,,10,1,43,ARI 22,0,TEN,
-4,648,1,03:14,,10,1,13,TEN 45,0,TEN,
-4,814,0,00:00,,0,1,68,ARI 2,1,TEN,XP
-4,793,2,00:09,,13,1,68,ARI 25,1,TEN,TD
-4,603,1,04:24,,10,1,-2,TEN 32,0,TEN,
-4,669,2,02:42,,10,1,35,TEN 45,0,TEN,
-4,740,2,01:26,,11,1,68,ARI 34,0,TEN,
-4,627,2,03:51,,12,1,13,TEN 30,0,TEN,
-2,149,1,14:02,,10,1,8,TEN 36,0,TEN,
-2,316,4,09:40,,1,1,37,ARI 27,1,TEN,FG
-2,218,2,12:24,,4,1,28,ARI 43,0,TEN,
-2,284,3,10:38,,3,1,37,ARI 29,0,TEN,FUMBLE
-2,197,1,12:58,,10,1,21,ARI 49,0,TEN,
-2,173,2,13:29,,2,1,15,TEN 44,0,TEN,
-2,242,1,11:51,,10,1,30,ARI 36,0,TEN,
-2,263,2,11:14,,8,1,35,ARI 34,0,TEN,
-15,2950,1,15:00,,10,4,26,TEN 33,0,TEN,PENALTY
-15,3070,2,12:50,,10,4,48,ARI 40,0,TEN,
-15,3116,4,12:02,,2,4,48,ARI 32,0,TEN,FGM
-15,2910,1,00:28,,10,3,13,TEN 20,0,TEN,
-15,3006,2,13:56,,7,4,35,TEN 49,0,TEN,
-15,3094,3,12:08,,2,4,48,ARI 32,0,TEN,
-15,3027,3,13:30,,1,4,40,ARI 45,0,TEN,
-15,3048,1,12:54,,10,4,40,ARI 40,0,TEN,
-15,2985,1,14:32,,10,4,29,TEN 46,0,TEN,
+24,4705,3,10:22,"(10:22) (Field Goal formation) J.Feely 41 yard field goal is GOOD, Center-M.Leach, Holder-D.Zastudil.",12,5,31,TEN 23,1,ARI,FG
+24,4682,0,10:23,Timeout #1 by TEN at 10:23.,0,5,31,,0,,TIMEOUT
+24,4640,1,11:37,(11:37) R.Mendenhall right guard to TEN 23 for -2 yards (J.Casey).,10,5,31,TEN 21,0,ARI,
+24,4661,2,10:59,(10:59) R.Mendenhall right guard to TEN 23 for no gain (D.Morgan).,12,5,31,TEN 23,0,ARI,
+24,4619,2,12:11,(12:11) R.Mendenhall left guard to TEN 21 for 15 yards (M.Griffin).,6,5,33,TEN 36,0,ARI,
+24,4574,2,13:20,(13:20) C.Palmer pass short middle to J.Dray to TEN 40 for 9 yards (Z.Gooden).,5,5,14,TEN 49,0,ARI,
+24,4598,1,12:45,(12:45) R.Mendenhall up the middle to TEN 36 for 4 yards (M.Griffin).,10,5,18,TEN 40,0,ARI,
+24,4553,1,13:55,(13:55) R.Mendenhall right tackle to TEN 49 for 5 yards (J.McCourty).,10,5,5,ARI 46,0,ARI,
+20,4057,1,01:40,(1:40) R.Fitzpatrick spiked the ball to stop the clock.,10,4,62,ARI 31,0,TEN,
+20,4079,2,01:40,(1:40) (Shotgun) R.Fitzpatrick pass incomplete short left to K.Wright (Y.Bell).,10,4,62,ARI 31,0,TEN,
+20,3935,1,02:42,"(2:42) (Shotgun) R.Fitzpatrick pass incomplete short right to N.Washington (J.Powers) [C.Campbell]. PENALTY on ARI-C.Campbell, Roughing the Passer, 15 yards, enforced at TEN 7 - No Play.",10,4,15,TEN 7,0,TEN,PENALTY
+20,4016,0,02:00,Two-Minute Warning,0,4,39,,0,,
+20,4169,3,00:57,"(:57) (No Huddle, Shotgun) R.Fitzpatrick pass incomplete short right to M.Preston.",2,4,87,ARI 6,0,TEN,
+20,4101,3,01:34,(1:34) (Shotgun) R.Fitzpatrick scrambles up the middle to ARI 14 for 17 yards (R.Johnson; J.Arenas).,10,4,79,ARI 31,0,TEN,
+20,4123,1,01:15,(1:15) (No Huddle) R.Fitzpatrick spiked the ball to stop the clock.,10,4,79,ARI 14,0,TEN,
+20,4033,2,02:00,(2:00) (Shotgun) R.Fitzpatrick pass deep right to K.Wright to ARI 31 for 23 yards (P.Peterson).,3,4,62,TEN 46,0,TEN,
+20,4145,2,01:15,(1:15) (Shotgun) R.Fitzpatrick pass short right to D.Walker to ARI 6 for 8 yards (A.Cason; Y.Bell) [C.Campbell].,10,4,87,ARI 14,0,TEN,
+20,4202,0,00:52,Timeout #1 by ARI at 00:52.,0,4,87,,0,,TIMEOUT
+20,4225,4,00:52,"(:52) (Field Goal formation) R.Bironas 24 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",2,4,87,ARI 6,1,TEN,FG
+20,3992,1,02:16,"(2:16) (No Huddle, Shotgun) R.Fitzpatrick pass short middle to C.Johnson to TEN 46 for 7 yards (D.Washington).",10,4,39,TEN 39,0,TEN,
+20,3968,1,02:38,(2:38) (Shotgun) R.Fitzpatrick pass short right to N.Washington to TEN 39 for 17 yards (A.Cason).,10,4,32,TEN 22,0,TEN,
+21,4335,2,00:17,(:17) (Shotgun) R.Fitzpatrick pass incomplete short right to K.Britt.,8,4,46,ARI 8,0,TEN,
+21,4265,1,00:44,(:44) (Shotgun) R.Fitzpatrick pass deep right to K.Wright pushed ob at ARI 28 for 26 yards (A.Cason).,10,4,26,TEN 46,0,TEN,
+21,4289,1,00:36,(:36) (Shotgun) R.Fitzpatrick pass deep middle to K.Wright to ARI 8 for 20 yards (P.Peterson).,10,4,46,ARI 28,0,TEN,
+21,4245,0,00:47,(Onside Kick formation) R.Bironas kicks onside 11 yards from TEN 35 to TEN 46. RECOVERED by TEN-D.Stafford.,0,4,0,TEN 35,0,TEN,KICKOFF
+21,4378,0,00:10,"R.Bironas extra point is GOOD, Center-B.Brinkley, Holder-B.Kern. PENALTY on ARI, Defensive Offside, 5 yards, enforced between downs.",0,4,54,ARI 2,1,TEN,XP
+21,4313,1,00:18,(:18) (No Huddle) R.Fitzpatrick spiked the ball to stop the clock.,8,4,46,ARI 8,0,TEN,
+21,4357,3,00:14,"(:14) (Shotgun) R.Fitzpatrick pass short left to M.Preston for 8 yards, TOUCHDOWN.",8,4,54,ARI 8,1,TEN,TD
+22,4406,0,00:10,"R.Bironas kicks 60 yards from TEN 40 to end zone, Touchback.",0,4,0,TEN 40,0,TEN,KICKOFF
+22,4421,1,00:10,(:10) C.Palmer kneels to ARI 19 for -1 yards.,10,4,-1,ARI 20,0,ARI,
+22,4442,0,,END QUARTER 4,0,4,-1,,0,,
+23,4526,1,14:05,(14:05) (Shotgun) R.Fitzpatrick pass short right intended for M.Preston INTERCEPTED by A.Cason [T.Jefferson] at ARI 30. A.Cason to ARI 46 for 16 yards (D.Walker).,10,5,33,ARI 43,0,TEN,INT
+23,4458,0,15:00,J.Feely kicks 65 yards from ARI 35 to TEN 0. L.Washington to TEN 24 for 24 yards (T.Jefferson; M.Benard).,0,5,0,ARI 35,0,ARI,KICKOFF
+23,4480,1,14:52,(14:52) (Shotgun) R.Fitzpatrick pass incomplete short left to K.Wright.,10,5,0,TEN 24,0,TEN,
+23,4502,2,14:44,(14:44) (Shotgun) R.Fitzpatrick pass deep middle to N.Washington to ARI 43 for 33 yards (P.Peterson).,10,5,33,TEN 24,0,TEN,
+1,55,1,15:00,(15:00) C.Palmer pass short left to J.Ballard to ARI 20 for no gain (S.Hill).,10,1,0,ARI 20,0,ARI,
+1,123,4,14:11,"(14:11) (Punt formation) D.Zastudil punts 53 yards to TEN 27, Center-M.Leach. L.Washington to TEN 36 for 9 yards (B.McCann).",10,1,0,ARI 20,0,ARI,PUNT
+1,101,3,14:15,(14:15) (Shotgun) C.Palmer pass incomplete short right to A.Ellington.,10,1,0,ARI 20,0,ARI,
+1,36,0,15:00,"R.Bironas kicks 65 yards from TEN 35 to end zone, Touchback.",0,1,0,TEN 35,0,TEN,KICKOFF
+1,79,2,14:22,(14:22) C.Palmer pass incomplete short right to L.Fitzgerald.,10,1,0,ARI 20,0,ARI,
+3,449,2,06:59,(6:59) R.Mendenhall up the middle to TEN 16 for 9 yards (M.Griffin; J.McCourty).,10,1,61,TEN 25,0,ARI,
+3,336,0,09:34,R.Bironas kicks 70 yards from TEN 35 to ARI -5. J.Arenas to ARI 23 for 28 yards (G.Wilson).,0,1,0,TEN 35,0,TEN,KICKOFF
+3,565,0,04:30,"J.Feely extra point is GOOD, Center-M.Leach, Holder-D.Zastudil.",0,1,77,TEN 2,1,ARI,XP
+3,380,1,08:46,(8:46) C.Palmer pass short left to M.Floyd pushed ob at ARI 49 for 13 yards (M.Fokou).,10,1,26,ARI 36,0,ARI,
+3,428,1,07:34,(7:34) A.Ellington right tackle to TEN 25 for no gain (S.Hill).,10,1,52,TEN 25,0,ARI,
+3,470,3,06:15,(6:15) S.Taylor up the middle to TEN 15 for 1 yard (Z.Gooden).,1,1,62,TEN 16,0,ARI,
+3,404,1,08:14,(8:14) (Shotgun) C.Palmer pass deep right to A.Ellington to TEN 25 for 26 yards (Z.Brown).,10,1,52,ARI 49,0,ARI,
+3,547,1,04:34,"(4:34) R.Mendenhall up the middle for 1 yard, TOUCHDOWN.",1,1,77,TEN 1,1,ARI,TD
+3,512,2,04:52,"(4:52) (Shotgun) C.Palmer pass short right to A.Ellington to TEN 2 for 14 yards (B.Wreh-Wilson; J.McCourty). PENALTY on TEN-K.Wimbley, Roughing the Passer, 1 yard, enforced at TEN 2.",11,1,76,TEN 16,0,ARI,PENALTY
+3,491,1,05:33,(5:33) R.Mendenhall right tackle to TEN 16 for -1 yards (B.Pollard).,10,1,61,TEN 15,0,ARI,
+3,358,1,09:28,(9:28) A.Ellington right end to ARI 36 for 13 yards (Z.Brown).,10,1,13,ARI 23,0,ARI,
+2,197,1,12:58,(12:58) C.Johnson left guard to ARI 43 for 6 yards (K.Dansby).,10,1,21,ARI 49,0,TEN,
+2,316,4,09:40,"(9:40) (Field Goal formation) R.Bironas 45 yard field goal is GOOD, Center-B.Brinkley, Holder-B.Kern.",1,1,37,ARI 27,1,TEN,FG
+2,218,2,12:24,(12:24) R.Fitzpatrick pass short left to K.Wright to ARI 36 for 7 yards (P.Peterson).,4,1,28,ARI 43,0,TEN,
+2,149,1,14:02,(14:02) R.Fitzpatrick pass short right to N.Washington to TEN 44 for 8 yards (J.Powers).,10,1,8,TEN 36,0,TEN,
+2,263,2,11:14,(11:14) C.Johnson left tackle to ARI 29 for 5 yards (D.Dockett).,8,1,35,ARI 34,0,TEN,
+2,242,1,11:51,(11:51) C.Johnson right tackle to ARI 34 for 2 yards (K.Dansby).,10,1,30,ARI 36,0,TEN,
+2,173,2,13:29,(13:29) (No Huddle) R.Fitzpatrick pass short right to D.Walker pushed ob at ARI 49 for 7 yards (Y.Bell).,2,1,15,TEN 44,0,TEN,
+2,284,3,10:38,"(10:38) (Shotgun) R.Fitzpatrick sacked at ARI 27 for 2 yards (M.Benard). FUMBLES (M.Benard), recovered by TEN-B.Schwenke at ARI 31. B.Schwenke to ARI 27 for 4 yards (D.Washington).",3,1,37,ARI 29,0,TEN,FUMBLE
+5,869,1,14:54,(14:54) C.Palmer pass short right to L.Fitzgerald to ARI 33 for 7 yards (M.Fokou).,10,2,7,ARI 26,0,ARI,
+5,846,0,15:00,R.Bironas kicks 56 yards from TEN 35 to ARI 9. J.Arenas to ARI 26 for 17 yards (J.Battle).,0,2,0,TEN 35,0,TEN,KICKOFF
+5,1052,3,09:42,(9:42) (Shotgun) C.Palmer pass short middle to L.Fitzgerald to TEN 15 for 3 yards (A.Verner; C.Sensabaugh) [D.Morgan].,3,2,59,TEN 18,0,ARI,
+5,893,2,14:17,(14:17) R.Mendenhall up the middle to ARI 37 for 4 yards (R.Pitoitua; Z.Gooden).,3,2,11,ARI 33,0,ARI,
+5,1144,4,07:25,"(7:25) (Field Goal formation) J.Feely 25 yard field goal is GOOD, Center-M.Leach, Holder-D.Zastudil.",2,2,67,TEN 7,1,ARI,FG
+5,1076,1,08:59,(8:59) A.Ellington right tackle to TEN 16 for -1 yards (B.Wreh-Wilson).,10,2,58,TEN 15,0,ARI,
+5,983,2,11:45,(11:45) A.Ellington right end pushed ob at TEN 25 for 22 yards (M.Griffin).,7,2,49,TEN 47,0,ARI,
+5,1098,2,08:13,"(8:13) (Shotgun) C.Palmer pass incomplete short right to L.Fitzgerald (J.McCourty, S.Hill).",11,2,58,TEN 16,0,ARI,
+5,1120,3,08:07,(8:07) (Shotgun) C.Palmer pass short middle to A.Ellington to TEN 7 for 9 yards (B.Pollard; C.Sensabaugh).,11,2,67,TEN 16,0,ARI,
+5,959,1,12:22,(12:22) C.Palmer pass short right to A.Roberts to TEN 47 for 3 yards (C.Sensabaugh).,10,2,27,50,0,ARI,
+5,1009,1,11:08,(11:08) R.Mendenhall up the middle to TEN 21 for 4 yards (M.Fokou).,10,2,53,TEN 25,0,ARI,
+5,914,1,13:43,(13:43) R.Mendenhall right tackle to ARI 40 for 3 yards (B.Pollard).,10,2,14,ARI 37,0,ARI,
+5,1031,2,10:29,(10:29) R.Mendenhall right tackle to TEN 18 for 3 yards (J.McCourty).,6,2,56,TEN 21,0,ARI,
+5,935,2,12:59,(12:59) (Shotgun) C.Palmer pass short left to L.Fitzgerald to 50 for 10 yards (A.Verner).,7,2,24,ARI 40,0,ARI,
+4,740,2,01:26,(1:26) R.Fitzpatrick pass short middle to K.Wright to ARI 22 for 12 yards (J.Powers).,11,1,68,ARI 34,0,TEN,
+4,627,2,03:51,(3:51) C.Johnson left tackle to TEN 45 for 15 yards (J.Powers).,12,1,13,TEN 30,0,TEN,
+4,603,1,04:24,(4:24) (Shotgun) R.Fitzpatrick pass short left to K.Wright to TEN 30 for -2 yards (Y.Bell).,10,1,-2,TEN 32,0,TEN,
+4,669,2,02:42,(2:42) R.Fitzpatrick pass short right to D.Walker ran ob at ARI 33 for 22 yards.,10,1,35,TEN 45,0,TEN,
+4,581,0,04:30,J.Feely kicks 66 yards from ARI 35 to TEN -1. L.Washington to TEN 32 for 33 yards (B.McCann).,0,1,0,ARI 35,0,ARI,KICKOFF
+4,698,1,02:05,(2:05) C.Johnson up the middle to ARI 34 for -1 yards (D.Dockett).,10,1,68,ARI 33,0,TEN,
+4,772,1,00:46,(:46) (Shotgun) C.Johnson left end to ARI 25 for -3 yards (D.Dockett).,10,1,43,ARI 22,0,TEN,
+4,793,2,00:09,"(:09) (Shotgun) R.Fitzpatrick pass short left to C.Johnson for 25 yards, TOUCHDOWN.",13,1,68,ARI 25,1,TEN,TD
+4,648,1,03:14,(3:14) C.Johnson up the middle to TEN 45 for no gain (J.Abraham; D.Dockett).,10,1,13,TEN 45,0,TEN,
+4,814,0,00:00,"R.Bironas extra point is GOOD, Center-B.Brinkley, Holder-B.Kern.",0,1,68,ARI 2,1,TEN,XP
+7,1543,2,01:20,"(1:20) (No Huddle, Shotgun) C.Palmer sacked at ARI 24 for -7 yards (J.Casey).",4,2,21,ARI 31,0,ARI,
+7,1601,4,01:07,"(1:07) (Punt formation) D.Zastudil punts 52 yards to TEN 24, Center-M.Leach. L.Washington MUFFS catch, and recovers at TEN 24. L.Washington to TEN 33 for 9 yards (R.Johnson).",11,2,21,ARI 24,0,ARI,FUMBLE
+7,1502,0,01:35,Timeout #1 by ARI at 01:35.,0,2,22,,0,,TIMEOUT
+7,1579,3,01:12,(1:12) (Shotgun) C.Palmer pass incomplete short right to L.Fitzgerald (C.Sensabaugh).,11,2,21,ARI 24,0,ARI,
+7,1519,1,01:35,(1:35) (Shotgun) C.Palmer pass short middle to L.Fitzgerald to ARI 31 for 6 yards (C.Sensabaugh).,10,2,28,ARI 25,0,ARI,
+7,1440,1,02:00,(2:00) S.Taylor left end to ARI 5 for 2 yards (M.Fokou).,10,2,2,ARI 3,0,ARI,
+7,1478,2,01:53,(1:53) (Shotgun) C.Palmer pass deep left to M.Floyd to ARI 25 for 20 yards (B.Pollard).,8,2,22,ARI 5,0,ARI,
+7,1461,0,01:53,Timeout #1 by TEN at 01:53.,0,2,2,,0,,TIMEOUT
+7,1562,0,01:12,Timeout #2 by TEN at 01:12.,0,2,21,,0,,TIMEOUT
+6,1164,0,07:21,J.Feely kicks 63 yards from ARI 35 to TEN 2. L.Washington to TEN 17 for 15 yards (J.Bethel).,0,2,0,ARI 35,0,ARI,KICKOFF
+6,1284,2,04:44,(4:44) (Shotgun) R.Fitzpatrick pass incomplete short right to K.Wright.,9,2,11,TEN 28,0,TEN,
+6,1306,3,04:39,(4:39) (Shotgun) R.Fitzpatrick pass short right to N.Washington ran ob at TEN 41 for 13 yards.,9,2,24,TEN 28,0,TEN,
+6,1231,1,05:47,(5:47) S.Greene left tackle to TEN 33 for 6 yards (D.Dockett).,10,2,16,TEN 27,0,TEN,
+6,1186,1,07:16,(7:16) S.Greene left end to TEN 19 for 2 yards (R.Johnson; Y.Bell).,10,2,2,TEN 17,0,TEN,
+6,1207,2,06:36,(6:36) (Shotgun) R.Fitzpatrick pass short left to K.Britt to TEN 27 for 8 yards (D.Dockett; A.Cason).,8,2,10,TEN 19,0,TEN,
+6,1330,1,04:08,(4:08) S.Greene left tackle to TEN 37 for -4 yards (C.Campbell).,10,2,20,TEN 41,0,TEN,
+6,1252,2,05:07,"(5:07) S.Greene up the middle to TEN 33 for no gain (C.Campbell). PENALTY on TEN, Illegal Shift, 5 yards, enforced at TEN 33 - No Play.",4,2,11,TEN 33,0,TEN,PENALTY
+6,1399,4,02:12,"(2:12) (Punt formation) B.Kern punts 51 yards to ARI 3, Center-B.Brinkley, downed by TEN-C.Sensabaugh.",5,2,29,TEN 46,0,TEN,PUNT
+6,1375,3,02:56,(2:56) (Shotgun) R.Fitzpatrick pass short right to D.Walker to TEN 46 for 4 yards (J.Abraham).,9,2,29,TEN 42,0,TEN,
+6,1351,2,03:33,(3:33) (Shotgun) R.Fitzpatrick pass short left to D.Walker to TEN 42 for 5 yards (D.Washington).,14,2,25,TEN 37,0,TEN,
+9,1744,1,00:27,(:27) (Shotgun) A.Ellington left end pushed ob at ARI 30 for 14 yards (M.Griffin).,10,2,14,ARI 16,0,ARI,
+9,1814,3,00:08,(:08) (Shotgun) C.Palmer pass short right to A.Roberts ran ob at ARI 45 for 12 yards.,7,2,29,ARI 33,0,ARI,
+9,1838,1,00:02,(:02) (Shotgun) C.Palmer sacked at ARI 36 for -9 yards (sack split by J.Casey and B.Pollard).,10,2,20,ARI 45,0,ARI,
+9,1787,2,00:15,(:15) S.Taylor up the middle pushed ob at ARI 33 for 3 yards (K.Wimbley).,10,2,17,ARI 30,0,ARI,
+9,1765,1,00:20,(:20) (Shotgun) C.Palmer pass incomplete deep left to M.Floyd (A.Verner).,10,2,14,ARI 30,0,ARI,
+8,1720,4,00:35,"(:35) (Punt formation) B.Kern punts 44 yards to ARI 16, Center-B.Brinkley, fair catch by P.Peterson.",3,2,7,TEN 40,0,TEN,PUNT
+8,1703,0,00:35,Timeout #2 by ARI at 00:35.,0,2,7,,0,,TIMEOUT
+8,1635,1,00:56,(:56) (Shotgun) R.Fitzpatrick pass incomplete deep right to K.Wright.,10,2,0,TEN 33,0,TEN,
+8,1679,3,00:44,(:44) (Shotgun) R.Fitzpatrick pass short left to K.Wright to TEN 40 for 7 yards (D.Washington).,10,2,7,TEN 33,0,TEN,
+8,1657,2,00:49,(:49) (Shotgun) R.Fitzpatrick pass incomplete deep right to N.Washington.,10,2,0,TEN 33,0,TEN,
+11,2274,1,09:26,(9:26) (Shotgun) R.Fitzpatrick sacked at ARI 25 for -5 yards (sack split by J.Abraham and K.Dansby).,10,3,49,ARI 20,0,TEN,
+11,2384,3,06:29,"(6:29) (Shotgun) R.Fitzpatrick pass incomplete short middle to D.Walker [M.Benard]. PENALTY on ARI-M.Benard, Roughing the Passer, 3 yards, enforced at ARI 5 - No Play.",5,3,72,ARI 5,0,TEN,PENALTY
+11,2471,0,06:16,"R.Bironas extra point is GOOD, Center-B.Brinkley, Holder-B.Kern.",0,3,74,ARI 2,1,TEN,XP
+11,2362,2,06:32,(6:32) (Shotgun) R.Fitzpatrick pass incomplete short left to D.Walker (Y.Bell).,5,3,69,ARI 5,0,TEN,
+11,2293,2,08:52,(8:52) R.Fitzpatrick scrambles up the middle to ARI 23 for 2 yards (F.Rucker).,15,3,51,ARI 25,0,TEN,
+11,2314,3,08:09,(8:09) (Shotgun) R.Fitzpatrick pass short middle to K.Wright to ARI 9 for 14 yards (R.Johnson).,13,3,65,ARI 23,0,TEN,
+11,2218,2,10:09,(10:09) R.Fitzpatrick pass incomplete short left to K.Wright [F.Rucker].,8,3,34,ARI 40,0,TEN,
+11,2086,2,12:09,(12:09) R.Fitzpatrick pass incomplete deep left to K.Britt.,10,3,5,TEN 31,0,TEN,
+11,2450,1,06:20,"(6:20) R.Fitzpatrick pass short middle to D.Walker for 1 yard, TOUCHDOWN.",1,3,74,ARI 1,1,TEN,TD
+11,1988,0,13:32,J.Feely kicks 62 yards from ARI 35 to TEN 3. L.Washington to TEN 26 for 23 yards (T.Jefferson).,0,3,0,ARI 35,0,ARI,KICKOFF
+11,2010,1,13:26,(13:26) C.Johnson right guard to TEN 26 for no gain (C.Campbell).,10,3,0,TEN 26,0,TEN,
+11,2173,2,11:19,(11:19) R.Fitzpatrick pass short right to C.Johnson pushed ob at ARI 42 for 19 yards (R.Johnson).,10,3,32,TEN 39,0,TEN,
+11,2108,3,12:03,"(12:03) (Shotgun) R.Fitzpatrick scrambles up the middle to TEN 34 for 3 yards (D.Washington). PENALTY on ARI-A.Cason, Illegal Use of Hands, 5 yards, enforced at TEN 34.",10,3,13,TEN 31,0,TEN,PENALTY
+11,2032,2,12:49,"(12:49) R.Fitzpatrick pass incomplete deep middle to K.Wright. PENALTY on ARI-B.McCann, Illegal Contact, 5 yards, enforced at TEN 26 - No Play.",10,3,5,TEN 26,0,TEN,PENALTY
+11,2417,1,06:24,"(6:24) (Shotgun) R.Fitzpatrick pass incomplete short left to K.Britt. PENALTY on ARI-R.Johnson, Unnecessary Roughness, 1 yard, enforced at ARI 2 - No Play.",2,3,74,ARI 2,0,TEN,PENALTY
+11,2197,1,10:45,(10:45) (Shotgun) C.Johnson right guard to ARI 40 for 2 yards (R.Johnson).,10,3,34,ARI 42,0,TEN,
+11,2338,1,07:23,(7:23) (Shotgun) R.Fitzpatrick pass short left to K.Wright to ARI 5 for 4 yards (D.Washington).,9,3,69,ARI 9,0,TEN,
+11,2240,3,10:02,(10:02) (Shotgun) R.Fitzpatrick pass deep left to K.Wright pushed ob at ARI 20 for 20 yards (P.Peterson).,8,3,54,ARI 40,0,TEN,
+11,2065,1,12:42,(12:42) (Shotgun) C.Johnson up the middle to TEN 31 for no gain (C.Campbell; M.Shaughnessy).,10,3,5,TEN 31,0,TEN,
+11,2151,1,11:24,(11:24) R.Fitzpatrick pass incomplete deep middle to K.Wright.,10,3,13,TEN 39,0,TEN,
+10,1921,2,14:15,(14:15) (Shotgun) C.Palmer pass incomplete short middle to B.Golden (A.Verner).,9,3,1,TEN 22,0,ARI,
+10,1874,0,15:00,"J.Feely kicks 40 yards from ARI 35 to TEN 25. P.Bailey MUFFS catch, RECOVERED by ARI-A.Cason at TEN 23. A.Cason to TEN 23 for no gain (P.Bailey).",0,3,0,ARI 35,0,ARI,FUMBLE
+10,1969,4,13:38,"(13:38) (Field Goal formation) J.Feely 47 yard field goal is GOOD, Center-M.Leach, Holder-D.Zastudil.",16,3,-6,TEN 29,1,ARI,FG
+10,1900,1,14:57,(14:57) A.Ellington left tackle to TEN 22 for 1 yard (J.Casey).,10,3,1,TEN 23,0,ARI,
+10,1943,3,14:10,"(14:10) (Shotgun) C.Palmer Aborted. L.Sendlein FUMBLES at TEN 28, recovered by ARI-C.Palmer at TEN 29. C.Palmer to TEN 29 for no gain (D.Morgan).",9,3,-6,TEN 22,0,ARI,FUMBLE
+13,2760,2,01:38,(1:38) (Shotgun) R.Fitzpatrick pass incomplete short middle to D.Walker [C.Campbell].,20,3,-10,TEN 10,0,TEN,
+13,2782,3,01:33,(1:33) (Shotgun) R.Fitzpatrick pass incomplete deep middle to D.Walker.,20,3,-10,TEN 10,0,TEN,
+13,2706,1,02:14,(2:14) R.Fitzpatrick pass incomplete short right to K.Wright (K.Dansby).,10,3,0,TEN 20,0,TEN,
+13,2728,2,02:09,"(2:09) S.Greene right guard to TEN 21 for 1 yard (D.Dockett). PENALTY on TEN-C.Warmack, Offensive Holding, 10 yards, enforced at TEN 20 - No Play.",10,3,-10,TEN 20,0,TEN,PENALTY
+13,2687,0,02:14,"J.Feely kicks 65 yards from ARI 35 to end zone, Touchback.",0,3,0,ARI 35,0,ARI,KICKOFF
+13,2804,4,01:28,"(1:28) (Punt formation) B.Kern punts 50 yards to ARI 40, Center-B.Brinkley, out of bounds.",20,3,-10,TEN 10,0,TEN,PUNT
+12,2650,2,02:20,"(2:20) C.Palmer pass short middle to J.Ballard for 6 yards, TOUCHDOWN.",6,3,72,TEN 6,1,ARI,TD
+12,2605,2,03:41,(3:41) (Shotgun) C.Palmer pass deep middle to A.Ellington to TEN 7 for 38 yards (C.Sensabaugh).,10,3,65,TEN 45,0,ARI,
+12,2584,1,04:22,(4:22) R.Mendenhall up the middle to TEN 45 for no gain (S.Hill; J.Casey).,10,3,27,TEN 45,0,ARI,
+12,2487,0,06:16,R.Bironas kicks 64 yards from TEN 35 to ARI 1. J.Arenas to ARI 28 for 27 yards (Z.Gooden).,0,3,0,TEN 35,0,TEN,KICKOFF
+12,2563,2,04:59,(4:59) R.Mendenhall right guard to TEN 45 for 9 yards (M.Fokou).,3,3,27,ARI 46,0,ARI,
+12,2629,1,02:58,(2:58) R.Mendenhall right guard to TEN 6 for 1 yard (A.Ayers; J.Casey).,7,3,66,TEN 7,0,ARI,
+12,2671,0,02:14,"J.Feely extra point is GOOD, Center-M.Leach, Holder-D.Zastudil.",0,3,72,TEN 2,1,ARI,XP
+12,2510,1,06:08,(6:08) A.Ellington right tackle pushed ob at ARI 39 for 11 yards (M.Griffin).,10,3,11,ARI 28,0,ARI,
+12,2536,1,05:33,(5:33) (Shotgun) C.Palmer pass short middle to J.Ballard to ARI 46 for 7 yards (A.Ayers).,10,3,18,ARI 39,0,ARI,
+15,2910,1,00:28,(:28) R.Fitzpatrick pass short right to K.Britt to TEN 33 for 13 yards (R.Johnson).,10,3,13,TEN 20,0,TEN,
+15,3027,3,13:30,(13:30) C.Johnson up the middle to ARI 40 for 5 yards (D.Washington; Y.Bell).,1,4,40,ARI 45,0,TEN,
+15,3116,4,12:02,"(12:02) (Field Goal formation) R.Bironas 50 yard field goal is No Good, Short, Center-B.Brinkley, Holder-B.Kern.",2,4,48,ARI 32,0,TEN,FGM
+15,2985,1,14:32,(14:32) C.Johnson up the middle to TEN 49 for 3 yards (K.Dansby).,10,4,29,TEN 46,0,TEN,
+15,3070,2,12:50,(12:50) (Shotgun) R.Fitzpatrick pass short left to K.Britt to ARI 32 for 8 yards (K.Dansby).,10,4,48,ARI 40,0,TEN,
+15,3048,1,12:54,(12:54) R.Fitzpatrick pass incomplete short right to Q.Johnson (D.Washington).,10,4,40,ARI 40,0,TEN,
+15,3006,2,13:56,(13:56) C.Johnson right guard to ARI 45 for 6 yards (M.Shaughnessy).,7,4,35,TEN 49,0,TEN,
+15,3094,3,12:08,(12:08) (Shotgun) R.Fitzpatrick pass incomplete short middle to K.Wright (D.Washington).,2,4,48,ARI 32,0,TEN,
+15,2950,1,15:00,"(15:00) R.Fitzpatrick pass short left to D.Walker to TEN 31 for -2 yards (D.Washington). PENALTY on ARI-D.Washington, Unsportsmanlike Conduct, 15 yards, enforced at TEN 31.",10,4,26,TEN 33,0,TEN,PENALTY
+14,2844,2,00:45,(:45) C.Palmer pass incomplete short left to R.Mendenhall (K.Klug).,8,3,2,ARI 42,0,ARI,
+14,2888,4,00:35,"(:35) (Punt formation) D.Zastudil punts 58 yards to end zone, Center-M.Leach, Touchback.",8,3,2,ARI 42,0,ARI,PUNT
+14,2866,3,00:40,(:40) (Shotgun) C.Palmer pass incomplete short middle to M.Floyd.,8,3,2,ARI 42,0,ARI,
+14,2823,1,01:20,(1:20) R.Mendenhall right guard to ARI 42 for 2 yards (J.Casey).,10,3,2,ARI 40,0,ARI,
+17,3429,1,06:45,(6:45) (Shotgun) R.Fitzpatrick sacked at TEN 14 for -3 yards (M.Shaughnessy).,10,4,-3,TEN 17,0,TEN,
+17,3448,2,06:22,"(6:22) (No Huddle, Shotgun) R.Fitzpatrick pass short right intended for N.Washington INTERCEPTED by A.Cason at TEN 20. A.Cason for 20 yards, TOUCHDOWN.",13,4,-3,TEN 14,1,TEN,TD
+17,3406,0,06:50,J.Feely kicks 62 yards from ARI 35 to TEN 3. L.Washington to TEN 17 for 14 yards (S.Taylor).,0,4,0,ARI 35,0,ARI,KICKOFF
+16,3390,0,06:50,"J.Feely extra point is GOOD, Center-M.Leach, Holder-D.Zastudil.",0,4,60,TEN 2,1,ARI,XP
+16,3230,2,10:03,(10:03) (Shotgun) C.Palmer pass incomplete deep left to A.Roberts.,7,4,22,TEN 38,0,ARI,
+16,3252,3,09:57,(9:57) (Shotgun) C.Palmer pass short right to L.Fitzgerald ran ob at TEN 20 for 18 yards.,7,4,40,TEN 38,0,ARI,
+16,3347,2,07:36,(7:36) C.Palmer pass short right to L.Fitzgerald to TEN 1 for 5 yards (J.McCourty; Z.Gooden).,6,4,59,TEN 6,0,ARI,
+16,3209,1,10:41,(10:41) A.Ellington up the middle to TEN 38 for 3 yards (M.Fokou).,10,4,22,TEN 41,0,ARI,
+16,3137,1,11:57,(11:57) C.Palmer pass incomplete short middle to M.Floyd [D.Morgan].,10,4,0,ARI 40,0,ARI,
+16,3180,3,11:09,(11:09) (Shotgun) C.Palmer pass short right to B.Golden pushed ob at TEN 41 for 16 yards (B.Wreh-Wilson).,7,4,19,ARI 43,0,ARI,
+16,3371,3,06:53,"(6:53) R.Mendenhall up the middle for 1 yard, TOUCHDOWN.",1,4,60,TEN 1,1,ARI,TD
+16,3326,1,08:11,(8:11) R.Mendenhall up the middle to TEN 6 for 2 yards (Z.Gooden).,8,4,54,TEN 8,0,ARI,
+16,3159,2,11:49,(11:49) A.Ellington right tackle to ARI 43 for 3 yards (B.Pollard).,10,4,3,ARI 40,0,ARI,
+16,3305,2,08:47,(8:47) R.Mendenhall up the middle to TEN 8 for 3 yards (J.Casey).,1,4,52,TEN 11,0,ARI,
+16,3281,1,09:23,(9:23) C.Palmer pass short middle to R.Mendenhall to TEN 11 for 9 yards (A.Ayers; Z.Gooden).,10,4,49,TEN 20,0,ARI,
+19,3812,2,03:05,(3:05) R.Mendenhall up the middle to ARI 44 for 4 yards (M.Fokou).,8,4,6,ARI 40,0,ARI,
+19,3873,3,02:59,(2:59) A.Ellington up the middle to ARI 44 for 5 yards (M.Griffin; J.Casey).,9,4,6,ARI 39,0,ARI,
+19,3911,4,02:54,"(2:54) (Punt formation) D.Zastudil punts 49 yards to TEN 7, Center-M.Leach, downed by ARI-B.McCann.",4,4,6,ARI 44,0,ARI,PUNT
+19,3833,0,02:59,Timeout #2 by TEN at 02:59.,0,4,6,,0,,TIMEOUT
+19,3795,0,03:05,Timeout #1 by TEN at 03:05.,0,4,2,,0,,TIMEOUT
+19,3774,1,03:09,(3:09) R.Mendenhall up the middle to ARI 40 for 2 yards (B.Pollard).,10,4,2,ARI 38,0,ARI,
+19,3740,0,03:12,(Onside Kick formation) R.Bironas kicks onside 12 yards from 50 to ARI 38. R.Johnson (didn't try to advance) to ARI 38 for no gain (R.Bironas).,0,4,0,50,0,TEN,KICKOFF
+19,3850,3,02:59,"(2:59) PENALTY on ARI-E.Winston, False Start, 5 yards, enforced at ARI 44 - No Play.",4,4,1,ARI 44,0,ARI,PENALTY
+19,3894,0,02:54,Timeout #3 by TEN at 02:54.,0,4,6,,0,,TIMEOUT
+18,3557,2,05:13,(5:13) (Shotgun) R.Fitzpatrick pass short right to D.Walker to ARI 40 for 8 yards (Y.Bell).,3,4,27,ARI 48,0,TEN,
+18,3509,1,06:05,(6:05) (Shotgun) R.Fitzpatrick pass short left to K.Wright pushed ob at TEN 45 for 12 yards (P.Peterson).,10,4,12,TEN 33,0,TEN,
+18,3629,1,03:56,"(3:56) (No Huddle, Shotgun) R.Fitzpatrick pass short right to N.Washington to ARI 17 for 6 yards (M.Benard). TEN-N.Washington was injured during the play. His return is Questionable.",10,4,50,ARI 23,0,TEN,
+18,3605,2,04:20,"(4:20) (No Huddle, Shotgun) R.Fitzpatrick pass short middle to N.Washington to ARI 23 for 8 yards (R.Johnson).",1,4,44,ARI 31,0,TEN,
+18,3581,1,04:47,"(4:47) (No Huddle, Shotgun) R.Fitzpatrick pass short right to M.Preston to ARI 31 for 9 yards (P.Peterson).",10,4,36,ARI 40,0,TEN,
+18,3487,0,06:13,J.Feely kicks 63 yards from ARI 35 to TEN 2. L.Washington to TEN 33 for 31 yards (T.Jefferson; J.Bethel).,0,4,0,ARI 35,0,ARI,KICKOFF
+18,3533,1,05:38,(5:38) (Shotgun) R.Fitzpatrick pass short right to K.Wright to ARI 48 for 7 yards (K.Dansby).,10,4,19,TEN 45,0,TEN,
+18,3679,3,03:23,(3:23) (Shotgun) R.Fitzpatrick pass short left to N.Washington pushed ob at ARI 10 for 7 yards (D.Washington).,4,4,57,ARI 17,0,TEN,
+18,3724,0,03:12,"R.Bironas extra point is GOOD, Center-B.Brinkley, Holder-B.Kern. PENALTY on ARI-D.Williams, Unnecessary Roughness, 15 yards, enforced between downs.",0,4,67,ARI 2,1,TEN,XP
+18,3703,1,03:17,"(3:17) (Shotgun) R.Fitzpatrick pass short left to M.Preston for 10 yards, TOUCHDOWN.",10,4,67,ARI 10,1,TEN,TD
+18,3653,2,03:29,(3:29) (Shotgun) R.Fitzpatrick pass incomplete deep left to K.Britt.,4,4,50,ARI 17,0,TEN,

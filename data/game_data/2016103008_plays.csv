@@ -1,190 +1,190 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1258,2,12:16,,14,2,-4,DEN 16,0,DEN,
-9,1226,2,12:44,,4,2,-4,DEN 26,0,DEN,PENALTY
-9,1302,4,12:05,,14,2,-4,DEN 16,0,DEN,PUNT
-9,1205,1,13:08,,10,2,6,DEN 20,0,DEN,
-9,1280,3,12:10,,14,2,-4,DEN 16,0,DEN,
-24,3870,3,05:27,,4,4,71,SD 4,0,DEN,
-24,3795,1,07:21,,10,4,71,SD 44,0,DEN,
-24,3756,0,08:02,,0,4,0,SD 35,0,SD,KICKOFF
-24,3771,1,08:02,,10,4,31,DEN 25,0,DEN,
-24,3892,4,05:24,,4,4,71,SD 4,1,DEN,FG
-24,3845,2,06:07,,2,4,71,SD 2,0,DEN,
-24,3824,1,06:52,,4,4,73,SD 4,0,DEN,
-10,1322,1,11:56,,10,2,-1,SD 39,0,SD,
-10,1341,2,11:12,,11,2,2,SD 38,0,SD,
-10,1494,1,10:11,,10,2,7,DEN 44,0,SD,PENALTY
-10,1529,1,09:40,,15,2,7,DEN 49,0,SD,PENALTY
-10,1552,1,09:22,,20,2,7,SD 46,1,SD,TD
-10,1452,4,10:21,,8,2,17,SD 41,0,SD,PENALTY
-10,1362,3,10:25,,8,2,7,SD 41,0,SD,
-20,2868,1,08:38,,10,3,98,SD 27,0,SD,
-20,2956,2,05:46,,8,3,76,DEN 22,0,SD,
-20,2801,1,10:44,,17,3,9,SD 7,0,SD,
-20,2843,3,09:18,,12,3,25,SD 12,0,SD,
-20,2935,1,06:29,,10,3,76,DEN 24,0,SD,
-20,2913,2,07:11,,5,3,74,DEN 31,0,SD,
-20,2978,3,05:43,,8,3,84,DEN 22,0,SD,
-20,2822,2,10:03,,13,3,10,SD 11,0,SD,
-20,3066,0,04:02,,0,3,98,DEN 15,0,SD,XPB
-20,3045,3,04:09,,10,3,98,DEN 14,1,SD,TD
-20,3002,1,04:57,,10,3,84,DEN 14,0,SD,
-20,2747,1,11:44,,10,3,12,SD 2,0,SD,
-20,3023,2,04:12,,10,3,84,DEN 14,0,SD,
-20,2892,1,07:53,,10,3,67,DEN 36,0,SD,
-20,2769,1,11:04,,10,3,5,SD 14,0,SD,PENALTY
-6,874,3,02:49,,15,1,-13,50,0,SD,
-6,829,1,02:59,,15,1,-5,50,0,SD,
-6,894,4,02:14,,23,1,-13,SD 42,0,SD,PUNT
-6,851,2,02:54,,15,1,-5,50,0,SD,
-6,806,1,02:59,,10,1,-5,DEN 45,0,SD,PENALTY
-27,4401,0,02:00,,0,4,3,,0,,
-27,4456,1,01:32,,10,4,12,SD 45,0,SD,
-27,4500,3,01:25,,10,4,13,SD 45,0,SD,
-27,4478,2,01:28,,10,4,12,SD 45,0,SD,
-27,4379,1,02:08,,10,4,13,SD 33,0,SD,
-27,4524,4,01:16,,9,4,13,SD 46,0,SD,
-27,4418,2,02:00,,7,4,12,SD 36,0,SD,
-18,2631,1,12:45,,10,3,0,SD 25,0,SD,
-18,2616,0,12:45,,0,3,0,DEN 35,0,DEN,KICKOFF
-18,2653,2,12:40,,10,3,0,SD 25,0,SD,INT
-28,4589,0,00:00,,0,4,-2,,0,,
-28,4547,1,01:12,,10,4,-1,SD 46,0,DEN,
-28,4568,2,00:36,,11,4,-2,SD 47,0,DEN,
-26,4274,2,02:31,,11,4,1,DEN 1,0,DEN,
-26,4352,4,02:19,,9,4,1,DEN 3,0,DEN,PUNT
-26,4324,3,02:26,,9,4,1,DEN 3,0,DEN,
-26,4306,0,02:26,,0,4,1,,0,,TIMEOUT
-26,4257,0,02:31,,0,4,-1,,0,,TIMEOUT
-26,4436,0,02:31,,0,4,1,,0,,TIMEOUT
-26,4236,1,02:36,,10,4,1,DEN 2,0,DEN,
-25,4025,1,04:40,,10,4,41,SD 36,0,SD,
-25,3916,0,05:19,,0,4,0,DEN 35,0,DEN,KICKOFF
-25,4147,1,02:54,,2,4,73,DEN 2,0,SD,
-25,4112,3,03:00,,2,4,73,DEN 9,0,SD,
-25,4001,2,05:14,,15,4,11,SD 20,0,SD,
-25,3957,2,05:14,,10,4,-5,SD 25,0,SD,PENALTY
-25,4169,2,02:51,,2,4,73,DEN 2,0,SD,
-25,4091,2,03:46,,5,4,66,DEN 12,0,SD,
-25,4213,4,02:40,,2,4,73,DEN 2,0,SD,
-25,4191,3,02:45,,2,4,73,DEN 2,0,SD,
-25,4049,1,04:31,,10,4,58,DEN 34,0,SD,
-25,4070,1,04:24,,10,4,63,DEN 17,0,SD,
-25,3935,1,05:19,,10,4,0,SD 25,0,SD,
-1,101,3,14:09,,7,1,38,DEN 28,0,DEN,
-1,248,4,11:07,,7,1,65,SD 10,1,DEN,FG
-1,126,1,13:34,,10,1,49,SD 37,0,DEN,
-1,55,1,15:00,,10,1,3,DEN 25,0,DEN,
-1,79,2,14:18,,7,1,3,DEN 28,0,DEN,
-1,150,1,12:58,,10,1,62,SD 26,0,DEN,
-1,195,2,11:54,,10,1,65,SD 13,0,DEN,
-1,219,3,11:54,,7,1,65,SD 10,0,DEN,
-1,174,1,12:32,,10,1,62,SD 13,0,DEN,
-1,36,0,15:00,,0,1,0,SD 35,0,SD,KICKOFF
-5,780,4,03:10,,8,1,2,DEN 7,0,DEN,PUNT
-5,697,1,04:16,,10,1,1,DEN 5,0,DEN,
-5,758,3,03:14,,8,1,2,DEN 7,0,DEN,
-5,719,2,03:40,,9,1,2,DEN 6,0,DEN,
-13,2210,3,01:04,,10,2,57,DEN 27,0,SD,
-13,1992,1,03:32,,10,2,27,SD 38,0,SD,PENALTY
-13,2059,3,02:22,,3,2,41,SD 45,0,SD,
-13,1928,1,04:37,,10,2,11,SD 16,0,SD,
-13,1949,1,04:01,,10,2,22,SD 27,0,SD,PENALTY
-13,2036,2,02:29,,3,2,29,SD 45,0,SD,
-13,2176,2,01:11,,10,2,57,DEN 27,0,SD,
-13,2084,0,02:00,,0,2,41,,0,,
-13,2243,4,00:59,,10,2,57,DEN 27,0,SD,FGM
-13,2154,1,01:17,,10,2,57,DEN 27,0,SD,
-13,2125,2,01:23,,6,2,57,DEN 39,0,SD,
-13,2101,1,02:00,,10,2,45,DEN 43,0,SD,
-13,2015,1,03:12,,5,2,29,SD 43,0,SD,
-21,3230,2,01:06,,10,3,40,SD 48,0,DEN,
-21,3187,2,01:47,,2,3,27,DEN 46,0,DEN,
-21,3420,0,12:32,,0,4,75,SD 15,1,DEN,XP
-21,3163,1,02:21,,10,3,21,DEN 38,0,DEN,
-21,3121,2,03:33,,1,3,9,DEN 34,0,DEN,
-21,3208,1,01:12,,10,3,27,SD 48,0,DEN,
-21,3312,3,14:24,,6,4,49,SD 31,0,DEN,PENALTY
-21,3275,0,,,0,3,45,,0,,
-21,3082,0,04:02,,0,3,0,SD 35,0,SD,KICKOFF
-21,3378,2,13:21,,8,4,74,SD 8,0,DEN,
-21,3335,3,14:02,,1,4,67,SD 26,0,DEN,
-21,3402,3,12:38,,1,4,75,SD 1,1,DEN,TD
-21,3097,1,04:01,,10,3,9,DEN 25,0,DEN,
-21,3254,1,00:28,,10,3,45,SD 35,0,DEN,
-21,3291,2,15:00,,5,4,44,SD 30,0,DEN,
-21,3142,3,02:52,,1,3,13,DEN 34,0,DEN,
-21,3356,1,13:27,,8,4,67,SD 8,0,DEN,
-23,3620,2,09:12,,11,4,13,DEN 1,0,DEN,
-23,3644,1,08:54,,10,4,14,DEN 15,0,DEN,
-23,3687,3,08:10,,9,4,14,DEN 16,1,DEN,TD
-23,3665,2,08:14,,9,4,14,DEN 16,0,DEN,
-23,3588,1,09:43,,10,4,-1,DEN 2,0,DEN,
-11,1689,4,08:11,,4,2,6,SD 24,0,SD,FUMBLE
-11,1617,1,09:06,,10,2,0,SD 18,0,SD,
-11,1667,3,08:17,,4,2,6,SD 24,0,SD,
-11,1643,2,09:01,,10,2,6,SD 18,0,SD,
-11,1591,0,09:10,,0,2,0,DEN 35,0,DEN,KICKOFF
-14,2334,3,00:23,,6,2,19,SD 46,0,DEN,
-14,2374,4,00:19,,6,2,19,SD 46,0,DEN,
-14,2264,1,00:54,,10,2,15,DEN 35,0,DEN,
-14,2312,2,00:27,,6,2,19,SD 46,0,DEN,
-14,2357,0,00:19,,0,2,19,,0,,TIMEOUT
-14,2288,1,00:48,,10,2,19,50,0,DEN,
-8,1096,1,15:00,,10,2,11,SD 42,0,SD,
-8,1023,1,01:10,,10,1,18,SD 31,0,SD,
-8,1117,2,14:18,,10,2,14,SD 42,0,SD,
-8,1045,2,00:27,,6,1,11,SD 35,0,SD,
-8,1080,0,,,0,1,11,,0,,
-8,1187,4,13:19,,3,2,18,SD 49,0,SD,PUNT
-8,1163,3,13:51,,7,2,18,SD 45,0,SD,
-19,2689,1,12:30,,7,3,-4,SD 7,0,DEN,
-19,2710,2,11:52,,11,3,5,SD 11,0,DEN,FUMBLE
-22,3527,2,10:31,,9,4,22,SD 47,0,SD,
-22,3464,1,12:32,,10,4,1,SD 25,0,SD,
-22,3506,1,11:16,,10,4,22,SD 46,0,SD,
-22,3485,2,11:53,,9,4,21,SD 26,0,SD,
-22,3549,3,10:28,,9,4,13,SD 47,0,SD,
-22,3445,0,12:32,,0,4,0,DEN 35,0,DEN,KICKOFF
-22,3568,4,09:51,,18,4,13,SD 38,0,SD,PUNT
-12,1808,1,06:05,,10,2,57,SD 48,0,DEN,
-12,1773,3,06:44,,2,2,52,DEN 40,0,DEN,
-12,1752,2,07:23,,5,2,8,DEN 37,0,DEN,
-12,1872,2,04:48,,6,2,61,SD 7,0,DEN,
-12,1851,1,05:23,,10,2,61,SD 11,0,DEN,
-12,1894,3,04:43,,6,2,52,SD 7,0,DEN,FUMBLE
-12,1731,1,07:57,,10,2,52,DEN 32,0,DEN,
-12,1833,0,05:23,,0,2,57,,0,,TIMEOUT
-16,2498,2,14:24,,5,3,7,SD 30,0,SD,
-16,2458,0,15:00,,0,3,0,DEN 35,0,DEN,KICKOFF
-16,2519,3,13:40,,3,3,7,SD 32,0,SD,INT
-16,2477,1,15:00,,10,3,5,SD 25,0,SD,
-7,912,1,02:04,,10,1,0,DEN 20,0,DEN,
-7,934,2,01:58,,10,1,0,DEN 20,0,DEN,
-7,1003,4,01:17,,13,1,-3,DEN 17,0,DEN,PUNT
-7,956,3,01:54,,10,1,-5,DEN 20,0,DEN,PENALTY
-7,979,3,01:54,,15,1,-3,DEN 15,0,DEN,
-3,567,4,06:06,,2,1,8,DEN 33,0,DEN,PUNT
-3,543,3,06:39,,11,1,8,DEN 24,0,DEN,
-3,492,1,07:24,,10,1,8,DEN 25,0,DEN,
-3,514,2,07:18,,10,1,8,DEN 25,0,DEN,FUMBLE
-3,477,0,07:24,,0,1,0,SD 35,0,SD,KICKOFF
-17,2556,1,13:30,,10,3,7,SD 10,0,DEN,
-17,2582,2,12:50,,3,3,10,SD 3,1,DEN,TD
-17,2600,0,12:45,,0,3,10,SD 15,1,DEN,XP
-4,638,3,04:34,,4,1,6,SD 33,0,SD,
-4,614,2,05:19,,8,1,6,SD 29,0,SD,
-4,660,4,04:28,,4,1,6,SD 33,0,SD,PUNT
-4,593,1,05:55,,10,1,6,SD 27,0,SD,
-2,302,1,10:56,,10,1,5,SD 15,0,SD,
-2,440,3,07:30,,7,1,85,DEN 7,1,SD,TD
-2,268,0,11:05,,0,1,0,DEN 35,0,DEN,KICKOFF
-2,461,0,07:24,,0,1,85,DEN 15,1,SD,XP
-2,350,3,10:21,,5,1,23,SD 20,0,SD,
-2,328,2,10:25,,5,1,5,SD 20,0,SD,
-2,419,2,08:14,,6,1,78,DEN 6,0,SD,
-2,398,1,08:53,,9,1,79,DEN 9,0,SD,
-2,374,1,09:46,,10,1,76,SD 38,0,SD,
-15,2423,2,00:09,,10,2,-3,SD 47,0,SD,
-15,2397,1,00:14,,10,2,-3,SD 47,0,SD,
-15,2442,0,,,0,2,-3,,0,,
+24,3771,1,08:02,(8:02) T.Siemian pass deep middle to V.Green to SD 44 for 31 yards (D.Lowery).,10,4,31,DEN 25,0,DEN,
+24,3824,1,06:52,(6:52) D.Booker left tackle to SD 2 for 2 yards (B.Mebane; K.Toomer).,4,4,73,SD 4,0,DEN,
+24,3795,1,07:21,(7:21) T.Siemian pass deep left to D.Thomas ran ob at SD 4 for 40 yards.,10,4,71,SD 44,0,DEN,
+24,3756,0,08:02,"J.Lambo kicks 65 yards from SD 35 to end zone, Touchback.",0,4,0,SD 35,0,SD,KICKOFF
+24,3870,3,05:27,(5:27) (Shotgun) T.Siemian pass incomplete short left to E.Sanders.,4,4,71,SD 4,0,DEN,
+24,3845,2,06:07,(6:07) 74 (Sambrailo) reported as eligible receiver D.Booker right tackle to SD 4 for -2 yards (J.Bosa).,2,4,71,SD 2,0,DEN,
+24,3892,4,05:24,"(5:24) B.McManus 22 yard field goal is GOOD, Center-C.Kreiter, Holder-R.Dixon.",4,4,71,SD 4,1,DEN,FG
+25,3916,0,05:19,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback.",0,4,0,DEN 35,0,DEN,KICKOFF
+25,4091,2,03:46,(3:46) M.Gordon up the middle to DEN 9 for 3 yards (B.Winn; T.Davis).,5,4,66,DEN 12,0,SD,
+25,4213,4,02:40,(2:40) (Shotgun) P.Rivers pass incomplete short left to H.Henry (L.Doss).,2,4,73,DEN 2,0,SD,
+25,3935,1,05:19,(5:19) P.Rivers pass incomplete short right to A.Gates [S.Ray].,10,4,0,SD 25,0,SD,
+25,4001,2,05:14,(5:14) (Shotgun) P.Rivers pass short right to D.Inman pushed ob at SD 36 for 16 yards (B.Roby).,15,4,11,SD 20,0,SD,
+25,4147,1,02:54,(2:54) (Shotgun) P.Rivers pass incomplete short middle.,2,4,73,DEN 2,0,SD,
+25,3957,2,05:14,"(5:14) (Shotgun) PENALTY on SD-J.Barksdale, False Start, 5 yards, enforced at SD 25 - No Play.",10,4,-5,SD 25,0,SD,PENALTY
+25,4049,1,04:31,(4:31) M.Gordon up the middle pushed ob at DEN 17 for 17 yards (C.Harris Jr.).,10,4,58,DEN 34,0,SD,
+25,4169,2,02:51,(2:51) (Shotgun) P.Rivers pass incomplete short right.,2,4,73,DEN 2,0,SD,
+25,4070,1,04:24,(4:24) K.Farrow up the middle to DEN 12 for 5 yards (T.Ward).,10,4,63,DEN 17,0,SD,
+25,4025,1,04:40,(4:40) P.Rivers pass short left to M.Gordon pushed ob at DEN 34 for 30 yards (T.Ward).,10,4,41,SD 36,0,SD,
+25,4112,3,03:00,"(3:00) (Shotgun) P.Rivers pass short middle to H.Henry to DEN 2 for 7 yards (W.Parks) [T.Ward]. Penalty on DEN-D.Ware, Defensive Offside, declined.",2,4,73,DEN 9,0,SD,
+25,4191,3,02:45,(2:45) (Shotgun) P.Rivers pass incomplete short right to A.Gates.,2,4,73,DEN 2,0,SD,
+26,4306,0,02:26,Timeout #1 by SD at 02:26.,0,4,1,,0,,TIMEOUT
+26,4274,2,02:31,"(2:31) D.Booker up the middle to DEN 3 for 2 yards (K.Emanuel). Penalty on DEN-R.Okung, Offensive Holding, declined.",11,4,1,DEN 1,0,DEN,
+26,4324,3,02:26,(2:26) (Shotgun) T.Siemian pass incomplete deep left to D.Thomas.,9,4,1,DEN 3,0,DEN,
+26,4257,0,02:31,Timeout #1 by DEN at 02:31.,0,4,-1,,0,,TIMEOUT
+26,4436,0,02:31,Timeout #1 by SD at 02:31.,0,4,1,,0,,TIMEOUT
+26,4236,1,02:36,(2:36) D.Booker up the middle to DEN 1 for -1 yards (K.Emanuel).,10,4,1,DEN 2,0,DEN,
+26,4352,4,02:19,"(2:19) R.Dixon punts 68 yards to SD 29, Center-C.Kreiter. D.McCluster to SD 33 for 4 yards (Z.Anderson, D.Watson).",9,4,1,DEN 3,0,DEN,PUNT
+27,4418,2,02:00,(2:00) (Shotgun) P.Rivers pass short right to M.Gordon to SD 45 for 9 yards (B.Roby).,7,4,12,SD 36,0,SD,
+27,4524,4,01:16,(1:16) (Shotgun) P.Rivers pass incomplete short right to M.Gordon [D.Wolfe].,9,4,13,SD 46,0,SD,
+27,4401,0,02:00,Two-Minute Warning,0,4,3,,0,,
+27,4478,2,01:28,(1:28) (Shotgun) P.Rivers pass incomplete short left to D.Inman (J.Crick).,10,4,12,SD 45,0,SD,
+27,4379,1,02:08,(2:08) (Shotgun) M.Gordon up the middle to SD 36 for 3 yards (T.Ward).,10,4,13,SD 33,0,SD,
+27,4456,1,01:32,(1:32) (Shotgun) P.Rivers pass incomplete short right to M.Gordon.,10,4,12,SD 45,0,SD,
+27,4500,3,01:25,(1:25) (Shotgun) P.Rivers pass short right to M.Gordon to SD 46 for 1 yard (V.Miller; C.Nelson) [D.Ware].,10,4,13,SD 45,0,SD,
+20,2769,1,11:04,"(11:04) M.Gordon right tackle to SD 13 for -1 yards (D.Wolfe). PENALTY on SD-H.Henry, Offensive Holding, 7 yards, enforced at SD 14 - No Play.",10,3,5,SD 14,0,SD,PENALTY
+20,2913,2,07:11,(7:11) M.Gordon up the middle to DEN 24 for 7 yards (A.Gotsis; T.Davis).,5,3,74,DEN 31,0,SD,
+20,2868,1,08:38,(8:38) P.Rivers pass deep right to D.Inman to DEN 36 for 37 yards (C.Harris Jr.; T.Ward) [A.Gotsis].,10,3,98,SD 27,0,SD,
+20,2935,1,06:29,(6:29) (Shotgun) M.Gordon up the middle to DEN 22 for 2 yards (B.Winn; S.Barrett).,10,3,76,DEN 24,0,SD,
+20,3023,2,04:12,(4:12) (Shotgun) P.Rivers pass incomplete short middle to A.Gates (T.Davis).,10,3,84,DEN 14,0,SD,
+20,2843,3,09:18,(9:18) (Shotgun) P.Rivers pass short left to D.Inman to SD 27 for 15 yards (L.Doss).,12,3,25,SD 12,0,SD,
+20,2892,1,07:53,(7:53) M.Gordon right tackle to DEN 31 for 5 yards (T.Ward; C.Nelson).,10,3,67,DEN 36,0,SD,
+20,2978,3,05:43,(5:43) (Shotgun) P.Rivers pass short middle to A.Gates to DEN 14 for 8 yards (T.Ward) [V.Miller].,8,3,84,DEN 22,0,SD,
+20,3066,0,04:02,"J.Lambo extra point is Blocked (S.Barrett), Center-M.Windt, Holder-K.Clemens.",0,3,98,DEN 15,0,SD,XPB
+20,2747,1,11:44,(11:44) M.Gordon right guard to SD 14 for 12 yards (T.Davis).,10,3,12,SD 2,0,SD,
+20,3002,1,04:57,(4:57) M.Gordon left tackle to DEN 14 for no gain (S.Ray; J.Crick).,10,3,84,DEN 14,0,SD,
+20,2956,2,05:46,(5:46) P.Rivers pass incomplete short right to D.Inman.,8,3,76,DEN 22,0,SD,
+20,2801,1,10:44,(10:44) M.Gordon left tackle to SD 11 for 4 yards (T.Davis; T.Ward).,17,3,9,SD 7,0,SD,
+20,3045,3,04:09,"(4:09) (Shotgun) P.Rivers pass short left to T.Benjamin for 14 yards, TOUCHDOWN [D.Wolfe].",10,3,98,DEN 14,1,SD,TD
+20,2822,2,10:03,(10:03) M.Gordon up the middle to SD 12 for 1 yard (T.Davis).,13,3,10,SD 11,0,SD,
+21,3230,2,01:06,(1:06) (Shotgun) T.Siemian pass short left to V.Green to SD 35 for 13 yards (J.Brown).,10,3,40,SD 48,0,DEN,
+21,3420,0,12:32,"B.McManus extra point is GOOD, Center-C.Kreiter, Holder-R.Dixon.",0,4,75,SD 15,1,DEN,XP
+21,3275,0,,END QUARTER 3,0,3,45,,0,,
+21,3378,2,13:21,(13:21) (Shotgun) T.Siemian pass short middle to E.Sanders to SD 1 for 7 yards (D.Lowery).,8,4,74,SD 8,0,DEN,
+21,3121,2,03:33,(3:33) D.Booker right tackle to DEN 34 for no gain (D.Philon).,1,3,9,DEN 34,0,DEN,
+21,3254,1,00:28,(:28) K.Bibbs left tackle to SD 30 for 5 yards (J.Bosa).,10,3,45,SD 35,0,DEN,
+21,3208,1,01:12,(1:12) T.Siemian pass incomplete short right to E.Sanders.,10,3,27,SD 48,0,DEN,
+21,3142,3,02:52,(2:52) D.Booker left end to DEN 38 for 4 yards (A.Phillips).,1,3,13,DEN 34,0,DEN,
+21,3187,2,01:47,(1:47) D.Booker up the middle to SD 48 for 6 yards (J.Brown).,2,3,27,DEN 46,0,DEN,
+21,3291,2,15:00,(15:00) K.Bibbs right tackle to SD 31 for -1 yards (B.Mebane).,5,4,44,SD 30,0,DEN,
+21,3097,1,04:01,(4:01) T.Siemian pass short right to E.Sanders to DEN 34 for 9 yards (B.Flowers).,10,3,9,DEN 25,0,DEN,
+21,3335,3,14:02,(14:02) D.Booker left tackle to SD 8 for 18 yards (D.Lowery).,1,4,67,SD 26,0,DEN,
+21,3402,3,12:38,"(12:38) 74 (Sambrailo) and 53 (Ferentz) are eligible receivers. J.Thompson up the middle for 1 yard, TOUCHDOWN.",1,4,75,SD 1,1,DEN,TD
+21,3312,3,14:24,"(14:24) (Shotgun) PENALTY on SD-J.Bosa, Neutral Zone Infraction, 5 yards, enforced at SD 31 - No Play.",6,4,49,SD 31,0,DEN,PENALTY
+21,3163,1,02:21,(2:21) T.Siemian pass short middle to V.Green to DEN 46 for 8 yards (J.Brown).,10,3,21,DEN 38,0,DEN,
+21,3356,1,13:27,(13:27) T.Siemian pass incomplete short right.,8,4,67,SD 8,0,DEN,
+21,3082,0,04:02,"J.Lambo kicks 65 yards from SD 35 to end zone, Touchback.",0,3,0,SD 35,0,SD,KICKOFF
+22,3464,1,12:32,(12:32) (Shotgun) M.Gordon up the middle to SD 26 for 1 yard (V.Miller).,10,4,1,SD 25,0,SD,
+22,3445,0,12:32,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback.",0,4,0,DEN 35,0,DEN,KICKOFF
+22,3568,4,09:51,"(9:51) D.Kaser punts 60 yards to DEN 2, Center-M.Windt, downed by SD-D.Stuckey.",18,4,13,SD 38,0,SD,PUNT
+22,3485,2,11:53,(11:53) M.Gordon right tackle to SD 46 for 20 yards (B.Roby).,9,4,21,SD 26,0,SD,
+22,3549,3,10:28,(10:28) (Shotgun) P.Rivers sacked at SD 38 for -9 yards (J.Simmons).,9,4,13,SD 47,0,SD,
+22,3506,1,11:16,(11:16) K.Farrow right tackle to SD 47 for 1 yard (B.Winn).,10,4,22,SD 46,0,SD,
+22,3527,2,10:31,(10:31) (Shotgun) P.Rivers pass incomplete short left to T.Benjamin.,9,4,22,SD 47,0,SD,
+23,3588,1,09:43,"(9:43) D.Booker right tackle to DEN 1 for -1 yards (B.Mebane). Penalty on DEN-M.Schofield, Offensive Holding, declined.",10,4,-1,DEN 2,0,DEN,
+23,3620,2,09:12,(9:12) T.Siemian pass short right to D.Thomas pushed ob at DEN 15 for 14 yards (C.Hayward).,11,4,13,DEN 1,0,DEN,
+23,3644,1,08:54,(8:54) D.Booker right tackle to DEN 16 for 1 yard (K.Toomer).,10,4,14,DEN 15,0,DEN,
+23,3665,2,08:14,(8:14) T.Siemian pass incomplete short left to E.Sanders.,9,4,14,DEN 16,0,DEN,
+23,3687,3,08:10,"(8:10) (Shotgun) T.Siemian pass short left intended for J.Norwood INTERCEPTED by C.Hayward at DEN 24. C.Hayward for 24 yards, TOUCHDOWN.",9,4,14,DEN 16,1,DEN,TD
+28,4568,2,00:36,(:36) T.Siemian kneels to SD 48 for -1 yards.,11,4,-2,SD 47,0,DEN,
+28,4589,0,00:00,END GAME,0,4,-2,,0,,
+28,4547,1,01:12,(1:12) T.Siemian kneels to SD 47 for -1 yards.,10,4,-1,SD 46,0,DEN,
+1,150,1,12:58,(12:58) T.Siemian pass short middle to D.Thomas to SD 13 for 13 yards (A.Phillips).,10,1,62,SD 26,0,DEN,
+1,174,1,12:32,(12:32) D.Booker left tackle to SD 13 for no gain (T.Palepoi; M.Ingram).,10,1,62,SD 13,0,DEN,
+1,55,1,15:00,(15:00) T.Siemian pass short left to V.Green to DEN 28 for 3 yards (A.Phillips).,10,1,3,DEN 25,0,DEN,
+1,36,0,15:00,"J.Lambo kicks 65 yards from SD 35 to end zone, Touchback.",0,1,0,SD 35,0,SD,KICKOFF
+1,219,3,11:54,(11:54) (Shotgun) T.Siemian pass incomplete short left to D.Booker (B.Flowers).,7,1,65,SD 10,0,DEN,
+1,195,2,11:54,(11:54) T.Siemian pass short right to D.Booker to SD 10 for 3 yards (J.Perry; J.Brown).,10,1,65,SD 13,0,DEN,
+1,126,1,13:34,(13:34) T.Siemian pass short right to D.Thomas to SD 26 for 11 yards (C.Hayward; J.Brown).,10,1,49,SD 37,0,DEN,
+1,101,3,14:09,(14:09) (Shotgun) T.Siemian pass short middle to J.Taylor to SD 37 for 35 yards (A.Phillips) [J.Bosa].,7,1,38,DEN 28,0,DEN,
+1,248,4,11:07,"(11:07) B.McManus 28 yard field goal is GOOD, Center-C.Kreiter, Holder-R.Dixon.",7,1,65,SD 10,1,DEN,FG
+1,79,2,14:18,(14:18) T.Siemian pass incomplete deep left to D.Thomas (A.Phillips).,7,1,3,DEN 28,0,DEN,
+3,543,3,06:39,(6:39) (Shotgun) T.Siemian pass short middle to J.Norwood to DEN 33 for 9 yards (D.Lowery).,11,1,8,DEN 24,0,DEN,
+3,567,4,06:06,"(6:06) R.Dixon punts 44 yards to SD 23, Center-C.Kreiter. D.McCluster to SD 27 for 4 yards (D.Watson).",2,1,8,DEN 33,0,DEN,PUNT
+3,477,0,07:24,"J.Lambo kicks 65 yards from SD 35 to end zone, Touchback.",0,1,0,SD 35,0,SD,KICKOFF
+3,492,1,07:24,(7:24) T.Siemian pass incomplete short right to D.Thomas (K.Emanuel).,10,1,8,DEN 25,0,DEN,
+3,514,2,07:18,"(7:18) T.Siemian FUMBLES (Aborted) at DEN 18, recovered by DEN-K.Bibbs at DEN 18. K.Bibbs to DEN 24 for 6 yards (J.Brown).",10,1,8,DEN 25,0,DEN,FUMBLE
+2,398,1,08:53,(8:53) M.Gordon up the middle to DEN 6 for 3 yards (B.Winn).,9,1,79,DEN 9,0,SD,
+2,302,1,10:56,(10:56) M.Gordon left tackle pushed ob at SD 20 for 5 yards (C.Harris Jr.).,10,1,5,SD 15,0,SD,
+2,440,3,07:30,"(7:30) (Shotgun) P.Rivers pass short middle to A.Gates for 7 yards, TOUCHDOWN.",7,1,85,DEN 7,1,SD,TD
+2,461,0,07:24,"J.Lambo extra point is GOOD, Center-M.Windt, Holder-K.Clemens.",0,1,85,DEN 15,1,SD,XP
+2,419,2,08:14,"(8:14) M.Gordon left end to DEN 7 for -1 yards (K.Webster, S.Ray).",6,1,78,DEN 6,0,SD,
+2,350,3,10:21,(10:21) (Shotgun) P.Rivers pass short left to T.Benjamin ran ob at SD 38 for 18 yards.,5,1,23,SD 20,0,SD,
+2,328,2,10:25,(10:25) (Shotgun) P.Rivers pass incomplete short left to Ty.Williams.,5,1,5,SD 20,0,SD,
+2,268,0,11:05,"B.McManus kicks 65 yards from DEN 35 to SD 0. G.Whalen to SD 25 for 25 yards (W.Parks). PENALTY on SD-C.Landrum, Offensive Holding, 10 yards, enforced at SD 25.",0,1,0,DEN 35,0,DEN,KICKOFF
+2,374,1,09:46,(9:46) P.Rivers pass short right to D.Watt pushed ob at DEN 9 for 53 yards (C.Harris Jr.).,10,1,76,SD 38,0,SD,
+5,758,3,03:14,(3:14) (Shotgun) T.Siemian pass incomplete short left to D.Thomas (C.Hayward) [J.Bosa].,8,1,2,DEN 7,0,DEN,
+5,780,4,03:10,"(3:10) R.Dixon punts 44 yards to SD 49, Center-C.Kreiter. D.McCluster to DEN 45 for 6 yards (Z.Anderson).",8,1,2,DEN 7,0,DEN,PUNT
+5,697,1,04:16,(4:16) D.Booker up the middle to DEN 6 for 1 yard (D.Perryman).,10,1,1,DEN 5,0,DEN,
+5,719,2,03:40,"(3:40) T.Siemian pass short left to D.Thomas to DEN 7 for 1 yard (C.Hayward). Penalty on DEN-E.Sanders, Offensive Pass Interference, declined.",9,1,2,DEN 6,0,DEN,
+4,638,3,04:34,(4:34) (Shotgun) P.Rivers pass incomplete short right to D.Inman (B.Roby).,4,1,6,SD 33,0,SD,
+4,593,1,05:55,(5:55) M.Gordon up the middle to SD 29 for 2 yards (T.Davis).,10,1,6,SD 27,0,SD,
+4,614,2,05:19,(5:19) P.Rivers pass short right to D.Inman to SD 33 for 4 yards (D.Stewart).,8,1,6,SD 29,0,SD,
+4,660,4,04:28,"(4:28) D.Kaser punts 62 yards to DEN 5, Center-M.Windt. J.Norwood to DEN 21 for 16 yards (J.Brown). PENALTY on DEN-L.Doss, Illegal Block Above the Waist, 5 yards, enforced at DEN 10.",4,1,6,SD 33,0,SD,PUNT
+7,934,2,01:58,(1:58) T.Siemian pass incomplete short right to B.Fowler.,10,1,0,DEN 20,0,DEN,
+7,1003,4,01:17,"(1:17) R.Dixon punts 52 yards to SD 31, Center-C.Kreiter, fair catch by D.McCluster.",13,1,-3,DEN 17,0,DEN,PUNT
+7,956,3,01:54,"(1:54) (Shotgun) PENALTY on DEN-V.Green, False Start, 5 yards, enforced at DEN 20 - No Play.",10,1,-5,DEN 20,0,DEN,PENALTY
+7,979,3,01:54,(1:54) (Shotgun) T.Siemian pass short left to D.Booker to DEN 17 for 2 yards (K.Toomer) [T.Palepoi].,15,1,-3,DEN 15,0,DEN,
+7,912,1,02:04,(2:04) T.Siemian pass incomplete deep right to E.Sanders [M.Ingram].,10,1,0,DEN 20,0,DEN,
+6,894,4,02:14,"(2:14) D.Kaser punts 58 yards to end zone, Center-M.Windt, Touchback.",23,1,-13,SD 42,0,SD,PUNT
+6,874,3,02:49,(2:49) (Shotgun) P.Rivers sacked at SD 42 for -8 yards (T.Ward).,15,1,-13,50,0,SD,
+6,829,1,02:59,(2:59) P.Rivers pass incomplete short left to H.Henry (J.Crick).,15,1,-5,50,0,SD,
+6,806,1,02:59,"(2:59) PENALTY on SD-S.McGrath, False Start, 5 yards, enforced at DEN 45 - No Play.",10,1,-5,DEN 45,0,SD,PENALTY
+6,851,2,02:54,(2:54) (Shotgun) P.Rivers pass incomplete deep left to T.Benjamin.,15,1,-5,50,0,SD,
+9,1205,1,13:08,(13:08) D.Booker right tackle to DEN 26 for 6 yards (M.Ingram).,10,2,6,DEN 20,0,DEN,
+9,1226,2,12:44,"(12:44) D.Booker up the middle to DEN 28 for 2 yards (J.Brown). PENALTY on DEN-J.Phillips, Offensive Holding, 10 yards, enforced at DEN 26 - No Play.",4,2,-4,DEN 26,0,DEN,PENALTY
+9,1302,4,12:05,"(12:05) R.Dixon punts 45 yards to SD 39, Center-C.Kreiter, fair catch by D.McCluster.",14,2,-4,DEN 16,0,DEN,PUNT
+9,1280,3,12:10,(12:10) (Shotgun) T.Siemian pass incomplete deep middle to E.Sanders (J.Brown).,14,2,-4,DEN 16,0,DEN,
+9,1258,2,12:16,(12:16) (Shotgun) T.Siemian pass incomplete short right to D.Thomas.,14,2,-4,DEN 16,0,DEN,
+8,1096,1,15:00,(15:00) M.Gordon right end pushed ob at SD 42 for no gain (C.Nelson; B.Roby).,10,2,11,SD 42,0,SD,
+8,1023,1,01:10,(1:10) M.Gordon up the middle to SD 35 for 4 yards (B.Roby; T.Davis).,10,1,18,SD 31,0,SD,
+8,1045,2,00:27,"(:27) (Shotgun) P.Rivers pass short right to H.Henry to SD 42 for 7 yards (B.Roby). Penalty on DEN-S.Barrett, Defensive Offside, declined.",6,1,11,SD 35,0,SD,
+8,1163,3,13:51,"(13:51) (Shotgun) P.Rivers pass short right to Ty.Williams to SD 49 for 4 yards (C.Harris Jr., B.Roby).",7,2,18,SD 45,0,SD,
+8,1187,4,13:19,"(13:19) D.Kaser punts 51 yards to end zone, Center-M.Windt, Touchback.",3,2,18,SD 49,0,SD,PUNT
+8,1080,0,,END QUARTER 1,0,1,11,,0,,
+8,1117,2,14:18,"(14:18) (Shotgun) P.Rivers pass short left to D.McCluster to SD 45 for 3 yards (T.Ward). Penalty on SD-J.Barksdale, Illegal Formation, declined.",10,2,14,SD 42,0,SD,
+11,1667,3,08:17,(8:17) (Shotgun) P.Rivers pass incomplete deep middle to T.Benjamin.,4,2,6,SD 24,0,SD,
+11,1617,1,09:06,(9:06) P.Rivers pass incomplete short left to Ty.Williams (C.Harris Jr.). SD-Ty.Williams was injured during the play. His return is Probable.,10,2,0,SD 18,0,SD,
+11,1591,0,09:10,B.McManus kicks 64 yards from DEN 35 to SD 1. D.McCluster to SD 18 for 17 yards (J.Taylor; D.Watson).,0,2,0,DEN 35,0,DEN,KICKOFF
+11,1689,4,08:11,"(8:11) D.Kaser punts 54 yards to DEN 22, Center-M.Windt. J.Norwood to DEN 32 for 10 yards (S.McGrath). FUMBLES (S.McGrath), recovered by DEN-J.Taylor at DEN 32. J.Taylor to DEN 32 for no gain (J.Perry).",4,2,6,SD 24,0,SD,FUMBLE
+11,1643,2,09:01,(9:01) (Shotgun) P.Rivers pass short left to A.Gates to SD 24 for 6 yards (D.Stewart).,10,2,6,SD 18,0,SD,
+10,1322,1,11:56,(11:56) P.Rivers sacked at SD 38 for -1 yards (V.Miller).,10,2,-1,SD 39,0,SD,
+10,1552,1,09:22,"(9:22) (Shotgun) P.Rivers pass short middle intended for Ty.Williams INTERCEPTED by B.Roby at SD 49. B.Roby for 49 yards, TOUCHDOWN. Coach Wade Phillips hurt on the play.  Game was delayed.",20,2,7,SD 46,1,SD,TD
+10,1341,2,11:12,(11:12) M.Gordon right guard to SD 41 for 3 yards (D.Wolfe).,11,2,2,SD 38,0,SD,
+10,1494,1,10:11,"(10:11) (Shotgun) P.Rivers pass short middle to Ty.Williams pushed ob at DEN 28 for 16 yards (L.Doss). PENALTY on SD-J.Barksdale, Illegal Formation, 5 yards, enforced at DEN 44 - No Play.",10,2,7,DEN 44,0,SD,PENALTY
+10,1452,4,10:21,"(10:21) D.Kaser punts 41 yards to DEN 18, Center-M.Windt. J.Norwood pushed ob at DEN 33 for 15 yards (J.Perry). PENALTY on DEN-J.Simmons, Roughing the Kicker, 15 yards, enforced at SD 41 - No Play.",8,2,17,SD 41,0,SD,PENALTY
+10,1362,3,10:25,"(10:25) (Shotgun) P.Rivers sacked at SD 33 for -8 yards (D.Ware). FUMBLES (D.Ware), RECOVERED by DEN-C.Nelson at SD 48. C.Nelson pushed ob at SD 22 for 26 yards (P.Rivers). The Replay Official reviewed the fumble ruling, and the play was REVERSED. (Shotgun) P.Rivers pass incomplete short left to Ty.Williams (D.Ware).",8,2,7,SD 41,0,SD,
+10,1529,1,09:40,"(9:40) (Shotgun) PENALTY on SD-J.Barksdale, False Start, 5 yards, enforced at DEN 49 - No Play.",15,2,7,DEN 49,0,SD,PENALTY
+13,1992,1,03:32,"(3:32) (Shotgun) PENALTY on DEN-V.Miller, Neutral Zone Infraction, 5 yards, enforced at SD 38 - No Play.",10,2,27,SD 38,0,SD,PENALTY
+13,2125,2,01:23,(1:23) (Shotgun) P.Rivers pass short right to A.Gates pushed ob at DEN 27 for 12 yards (T.Ward).,6,2,57,DEN 39,0,SD,
+13,2015,1,03:12,(3:12) M.Gordon left tackle to SD 45 for 2 yards (T.Davis; C.Nelson).,5,2,29,SD 43,0,SD,
+13,2059,3,02:22,(2:22) (Shotgun) P.Rivers pass short right to T.Benjamin to DEN 43 for 12 yards (C.Harris Jr.).,3,2,41,SD 45,0,SD,
+13,2084,0,02:00,Two-Minute Warning,0,2,41,,0,,
+13,2154,1,01:17,(1:17) (Shotgun) P.Rivers pass incomplete deep right to T.Benjamin.,10,2,57,DEN 27,0,SD,
+13,2036,2,02:29,(2:29) P.Rivers pass incomplete deep left to A.Gates.,3,2,29,SD 45,0,SD,
+13,1949,1,04:01,"(4:01) K.Farrow up the middle to SD 33 for 6 yards (S.Williams). PENALTY on DEN-S.Williams, Defensive Holding, 5 yards, enforced at SD 33.",10,2,22,SD 27,0,SD,PENALTY
+13,2176,2,01:11,(1:11) (Shotgun) P.Rivers pass incomplete short left to M.Gordon (C.Nelson).,10,2,57,DEN 27,0,SD,
+13,1928,1,04:37,(4:37) M.Gordon left guard to SD 27 for 11 yards (D.Stewart).,10,2,11,SD 16,0,SD,
+13,2101,1,02:00,(2:00) P.Rivers pass short right to M.Gordon to DEN 39 for 4 yards (C.Nelson).,10,2,45,DEN 43,0,SD,
+13,2210,3,01:04,(1:04) (Shotgun) P.Rivers pass incomplete deep left to T.Benjamin [V.Miller].,10,2,57,DEN 27,0,SD,
+13,2243,4,00:59,"(:59) J.Lambo 45 yard field goal is No Good, Wide Left, Center-M.Windt, Holder-K.Clemens.",10,2,57,DEN 27,0,SD,FGM
+12,1833,0,05:23,Timeout #1 by DEN at 05:23.,0,2,57,,0,,TIMEOUT
+12,1773,3,06:44,(6:44) (Shotgun) T.Siemian pass short middle to D.Booker to SD 48 for 12 yards (D.Lowery) [J.Bosa].,2,2,52,DEN 40,0,DEN,
+12,1731,1,07:57,(7:57) D.Booker up the middle to DEN 37 for 5 yards (B.Mebane).,10,2,52,DEN 32,0,DEN,
+12,1851,1,05:23,(5:23) D.Booker right guard to SD 7 for 4 yards (D.Lowery; T.Palepoi).,10,2,61,SD 11,0,DEN,
+12,1808,1,06:05,(6:05) T.Siemian pass deep right to E.Sanders to SD 11 for 37 yards (D.Lowery) [B.Mebane].,10,2,57,SD 48,0,DEN,
+12,1872,2,04:48,(4:48) T.Siemian pass incomplete short left to V.Green (C.Hayward).,6,2,61,SD 7,0,DEN,
+12,1894,3,04:43,"(4:43) (Shotgun) T.Siemian sacked at SD 16 for -9 yards (M.Ingram). FUMBLES (M.Ingram) [M.Ingram], RECOVERED by SD-T.Palepoi at SD 16. T.Palepoi to SD 16 for no gain (M.Schofield).",6,2,52,SD 7,0,DEN,FUMBLE
+12,1752,2,07:23,(7:23) D.Booker right guard to DEN 40 for 3 yards (B.Mebane).,5,2,8,DEN 37,0,DEN,
+15,2442,0,,END QUARTER 2,0,2,-3,,0,,
+15,2397,1,00:14,(:14) Change of direction. (Shotgun) P.Rivers pass incomplete short middle to Ty.Williams (D.Wolfe).,10,2,-3,SD 47,0,SD,
+15,2423,2,00:09,(:09) (Shotgun) P.Rivers sacked at SD 44 for -3 yards (J.Crick).,10,2,-3,SD 47,0,SD,
+14,2288,1,00:48,(:48) (Shotgun) T.Siemian pass short middle to D.Booker to SD 46 for 4 yards (J.Brown).,10,2,19,50,0,DEN,
+14,2334,3,00:23,(:23) (Shotgun) T.Siemian pass incomplete short middle to J.Norwood.,6,2,19,SD 46,0,DEN,
+14,2312,2,00:27,"(:27) (No Huddle, Shotgun) T.Siemian pass incomplete short middle to V.Green (K.Toomer).",6,2,19,SD 46,0,DEN,
+14,2374,4,00:19,(:19) (Shotgun) T.Siemian pass incomplete deep right to E.Sanders.,6,2,19,SD 46,0,DEN,
+14,2357,0,00:19,Timeout #2 by DEN at 00:19.,0,2,19,,0,,TIMEOUT
+14,2264,1,00:54,(:54) (Shotgun) T.Siemian pass short left to E.Sanders ran ob at 50 for 15 yards.,10,2,15,DEN 35,0,DEN,
+17,2600,0,12:45,"B.McManus extra point is GOOD, Center-C.Kreiter, Holder-R.Dixon.",0,3,10,SD 15,1,DEN,XP
+17,2582,2,12:50,"(12:50) D.Booker left tackle for 3 yards, TOUCHDOWN.",3,3,10,SD 3,1,DEN,TD
+17,2556,1,13:30,(13:30) D.Booker left tackle pushed ob at SD 3 for 7 yards (J.Brown).,10,3,7,SD 10,0,DEN,
+16,2477,1,15:00,(15:00) M.Gordon right end to SD 30 for 5 yards (S.Williams; D.Wolfe).,10,3,5,SD 25,0,SD,
+16,2498,2,14:24,(14:24) M.Gordon up the middle to SD 32 for 2 yards (V.Miller; D.Wolfe).,5,3,7,SD 30,0,SD,
+16,2458,0,15:00,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback.",0,3,0,DEN 35,0,DEN,KICKOFF
+16,2519,3,13:40,(13:40) (Shotgun) P.Rivers pass short right intended for T.Benjamin INTERCEPTED by D.Stewart (L.Doss) [D.Wolfe] at SD 35. D.Stewart to SD 10 for 25 yards (T.Benjamin).,3,3,7,SD 32,0,SD,INT
+19,2710,2,11:52,"(11:52) (Shotgun) T.Siemian pass short right to D.Booker to SD 2 for 9 yards (K.Toomer). FUMBLES (K.Toomer), RECOVERED by SD-J.Brown at SD 2. J.Brown to SD 2 for no gain (V.Green).",11,3,5,SD 11,0,DEN,FUMBLE
+19,2689,1,12:30,(12:30) D.Booker up the middle to SD 11 for -4 yards (J.Brown; D.Lowery).,7,3,-4,SD 7,0,DEN,
+18,2653,2,12:40,(12:40) (Shotgun) P.Rivers pass short middle intended for G.Whalen INTERCEPTED by T.Ward at SD 30. T.Ward pushed ob at SD 7 for 23 yards (Ty.Williams).,10,3,0,SD 25,0,SD,INT
+18,2616,0,12:45,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback.",0,3,0,DEN 35,0,DEN,KICKOFF
+18,2631,1,12:45,(12:45) P.Rivers pass incomplete deep right to A.Gates.,10,3,0,SD 25,0,SD,

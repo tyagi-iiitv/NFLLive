@@ -1,209 +1,209 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1314,1,10:43,,10,2,21,ARI 34,0,ARI,
-9,1622,3,03:54,,10,2,53,SEA 31,0,ARI,
-9,1335,2,10:04,,8,2,21,ARI 36,0,ARI,
-9,1425,1,08:22,,10,2,32,ARI 46,0,ARI,
-9,1446,2,07:41,,5,2,34,SEA 49,0,ARI,
-9,1484,3,06:53,,3,2,39,SEA 47,0,ARI,
-9,1578,1,04:06,,10,2,50,SEA 31,0,ARI,
-9,1646,4,03:16,,7,2,53,SEA 28,1,ARI,FG
-9,1356,3,09:23,,4,2,27,ARI 40,0,ARI,
-9,1290,2,11:27,,10,2,15,ARI 19,0,ARI,
-9,1600,2,03:59,,10,2,50,SEA 31,0,ARI,
-9,1383,1,08:43,,10,2,27,ARI 46,0,ARI,
-9,1268,1,11:35,,10,2,0,ARI 19,0,ARI,
-9,1467,0,06:53,,0,2,34,,0,,TIMEOUT
-9,1557,3,04:51,,2,2,50,SEA 34,0,ARI,
-9,1394,0,09:23,,0,2,27,,0,,Timeout
-9,1536,2,05:33,,4,2,47,SEA 36,0,ARI,
-9,1508,1,06:17,,10,2,45,SEA 42,0,ARI,
-24,4496,1,11:23,,10,5,10,SEA 25,0,SEA,
-24,4517,1,10:46,,10,5,23,SEA 35,0,SEA,
-24,4586,1,08:52,,10,5,51,ARI 38,0,SEA,
-24,4481,0,11:23,,0,5,0,ARI 35,0,ARI,KICKOFF
-24,4565,2,09:30,,2,5,37,ARI 44,0,SEA,
-24,4655,3,06:52,,4,5,57,ARI 18,0,SEA,
-24,4541,1,10:03,,10,5,31,SEA 48,0,SEA,
-24,4610,1,08:14,,10,5,52,ARI 24,0,SEA,
-24,4631,2,07:34,,9,5,57,ARI 23,0,SEA,
-24,4677,4,06:46,,4,5,57,ARI 18,1,SEA,FG
-10,1703,1,03:06,,10,2,12,SEA 17,0,SEA,
-10,1724,2,02:39,,4,2,12,SEA 23,0,SEA,
-10,1767,0,02:00,,0,2,12,,0,,
-10,1844,3,01:45,,15,2,7,SEA 24,0,SEA,
-10,1866,4,01:40,,15,2,7,SEA 24,0,SEA,PUNT
-10,1745,1,02:05,,10,2,12,SEA 29,0,SEA,
-10,1809,3,01:52,,5,2,7,SEA 34,0,SEA,PENALTY
-10,1784,2,02:00,,10,2,17,SEA 29,0,SEA,
-10,1681,0,03:11,,0,2,0,ARI 35,0,ARI,KICKOFF
-20,3810,3,04:10,,20,4,0,ARI 32,0,SEA,
-20,3834,4,04:05,,10,4,0,ARI 22,1,SEA,FG
-20,3731,1,04:33,,10,4,-10,ARI 22,0,SEA,PENALTY
-20,3788,2,04:16,,20,4,0,ARI 32,0,SEA,
-20,3766,1,04:22,,20,4,0,ARI 32,0,SEA,
-6,837,2,01:33,,10,1,4,SEA 1,0,SEA,
-6,883,4,00:40,,6,1,4,SEA 5,0,SEA,PUNT
-6,861,3,00:48,,6,1,4,SEA 5,0,SEA,
-6,816,1,02:14,,10,1,4,SEA 1,0,SEA,
-27,5177,1,00:02,,10,5,19,ARI 39,0,ARI,
-27,5199,0,00:00,,0,5,19,,0,,
-27,5148,1,00:07,,10,5,19,ARI 20,0,ARI,
-18,3498,2,08:40,,9,4,-6,SEA 21,0,SEA,FUMBLE
-18,3527,3,07:52,,29,4,-6,SEA 1,0,SEA,
-18,3554,4,07:23,,16,4,-6,SEA 14,0,SEA,PUNT
-18,3477,1,09:07,,10,4,1,SEA 20,0,SEA,
-26,5071,3,01:04,,3,5,71,ARI 36,0,SEA,
-26,4933,1,03:19,,10,5,6,SEA 20,0,SEA,
-26,5127,2,00:11,,10,5,70,ARI 10,0,SEA,FGM
-26,4978,0,02:00,,0,5,6,,0,,
-26,4995,3,02:00,,4,5,44,SEA 26,0,SEA,
-26,4954,2,02:42,,10,5,6,SEA 20,0,SEA,
-26,5106,1,00:54,,9,5,70,ARI 9,0,SEA,
-26,5024,1,01:53,,10,5,42,ARI 43,0,SEA,
-26,5050,2,01:47,,5,5,44,ARI 38,0,SEA,
-25,4751,1,06:02,,10,5,30,SEA 48,0,ARI,
-25,4772,2,05:21,,7,5,30,SEA 45,0,ARI,
-25,4818,0,04:22,,0,5,70,,0,,TIMEOUT
-25,4835,1,04:22,,5,5,69,SEA 5,0,ARI,
-25,4727,1,06:42,,10,5,27,ARI 25,0,ARI,
-25,4712,0,06:42,,0,5,0,SEA 35,0,SEA,KICKOFF
-25,4911,3,03:26,,6,5,69,SEA 6,0,ARI,FGM
-25,4882,3,03:26,,1,5,69,SEA 1,0,ARI,PENALTY
-25,4794,3,05:15,,7,5,70,SEA 45,0,ARI,
-25,4861,2,04:13,,1,5,74,SEA 1,0,ARI,
-1,52,1,15:00,,10,1,0,ARI 25,0,ARI,
-1,97,1,13:46,,10,1,17,ARI 42,0,ARI,
-1,167,2,12:46,,20,1,17,ARI 32,0,ARI,
-1,220,4,11:36,,2,1,25,50,0,ARI,PUNT
-1,191,3,12:11,,10,1,25,ARI 42,0,ARI,
-1,121,2,13:06,,10,1,7,ARI 42,0,ARI,PENALTY
-1,73,2,14:22,,10,1,17,ARI 25,0,ARI,
-1,36,0,15:00,,0,1,0,SEA 35,0,SEA,KICKOFF
-5,760,3,03:01,,7,1,33,SEA 47,0,ARI,
-5,779,4,02:28,,14,1,33,ARI 46,0,ARI,PUNT
-5,627,1,06:35,,10,1,14,ARI 27,0,ARI,
-5,739,2,03:44,,10,1,40,50,0,ARI,
-5,648,2,05:55,,10,1,20,ARI 27,0,ARI,
-5,585,1,07:59,,10,1,9,ARI 13,0,ARI,
-5,717,1,03:51,,10,1,37,50,0,ARI,
-5,669,3,05:15,,4,1,24,ARI 33,0,ARI,
-5,693,1,04:30,,10,1,37,ARI 37,0,ARI,
-5,606,2,07:14,,1,1,14,ARI 22,0,ARI,
-13,2742,0,04:34,,0,3,57,,0,,TIMEOUT
-13,2499,2,10:10,,10,3,7,ARI 24,0,ARI,
-13,2543,1,09:09,,10,3,20,ARI 36,0,ARI,
-13,2759,4,04:34,,1,3,57,SEA 19,0,ARI,
-13,2650,1,06:41,,10,3,43,SEA 28,0,ARI,PENALTY
-13,2594,1,07:50,,10,3,48,ARI 49,0,ARI,
-13,2477,1,10:14,,10,3,0,ARI 24,0,ARI,
-13,2618,2,07:08,,2,3,57,SEA 43,0,ARI,PENALTY
-13,2673,1,06:26,,15,3,49,SEA 33,0,ARI,
-13,2697,2,05:48,,9,3,51,SEA 27,0,ARI,
-13,2718,3,05:05,,7,3,57,SEA 25,0,ARI,
-13,2565,2,08:32,,2,3,25,ARI 44,0,ARI,
-13,2520,3,09:28,,3,3,12,ARI 31,0,ARI,PENALTY
-21,3937,0,02:00,,0,4,13,,0,,
-21,4039,0,01:16,,0,4,21,,0,,TIMEOUT
-21,3999,3,01:28,,2,4,21,ARI 46,0,ARI,
-21,3913,3,02:29,,13,4,13,ARI 22,0,ARI,
-21,3954,1,02:00,,10,4,11,ARI 38,0,ARI,
-21,3975,2,01:34,,12,4,21,ARI 36,0,ARI,
-21,3870,1,04:00,,10,4,5,ARI 25,0,ARI,
-21,3854,0,04:00,,0,4,0,SEA 35,0,SEA,KICKOFF
-21,3894,2,03:13,,5,4,-3,ARI 30,0,ARI,
-21,4056,4,01:16,,2,4,21,ARI 46,0,ARI,PUNT
-23,4379,1,12:21,,10,5,48,SEA 32,0,ARI,
-23,4400,0,11:39,,0,5,48,,0,,TIMEOUT
-23,4316,2,13:03,,10,5,25,50,0,ARI,
-23,4355,3,12:59,,10,5,43,50,0,ARI,
-23,4439,3,11:34,,5,5,48,SEA 27,0,ARI,
-23,4235,0,15:00,,0,5,0,SEA 35,0,SEA,KICKOFF
-23,4271,2,14:19,,5,5,25,ARI 30,0,ARI,
-23,4461,4,11:28,,5,5,48,SEA 27,1,ARI,FG
-23,4250,1,15:00,,10,5,5,ARI 25,0,ARI,
-23,4417,2,11:39,,5,5,48,SEA 27,0,ARI,
-23,4295,1,13:41,,10,5,25,50,0,ARI,
-23,4338,0,12:59,,0,5,25,,0,,TIMEOUT
-11,2165,2,00:17,,10,2,43,SEA 25,0,ARI,FUMBLE
-11,1913,1,01:29,,10,2,2,ARI 25,0,ARI,
-11,1942,2,01:25,,8,2,50,ARI 27,0,ARI,PENALTY
-11,1979,1,01:18,,10,2,7,ARI 32,0,ARI,
-11,2025,3,01:04,,1,2,18,ARI 41,0,ARI,
-11,2046,1,00:42,,10,2,27,ARI 43,0,ARI,
-11,2109,3,00:30,,1,2,50,SEA 48,0,ARI,
-11,2001,2,01:12,,10,2,16,ARI 32,0,ARI,
-11,2087,2,00:34,,1,2,27,SEA 48,0,ARI,
-11,2143,1,00:22,,10,2,50,SEA 25,0,ARI,
-11,2205,0,,,0,2,43,,0,,
-11,2070,0,00:34,,0,2,27,,0,,TIMEOUT
-14,2898,4,02:57,,4,3,6,SEA 25,0,SEA,PUNT
-14,2847,3,03:17,,3,3,6,SEA 26,0,SEA,FUMBLE
-14,2798,1,04:28,,10,3,3,SEA 19,0,SEA,
-14,2826,2,03:57,,7,3,7,SEA 22,0,SEA,
-8,1191,3,11:54,,10,2,13,SEA 44,0,SEA,
-8,1123,2,12:43,,7,2,13,SEA 34,0,SEA,
-8,1147,1,12:04,,10,2,13,SEA 44,0,SEA,
-8,1169,2,11:58,,10,2,13,SEA 44,0,SEA,
-8,1102,1,13:20,,10,2,3,SEA 31,0,SEA,
-8,1225,4,11:48,,10,2,13,SEA 44,0,SEA,PUNT
-19,3598,1,07:11,,10,4,4,ARI 39,0,ARI,
-19,3652,2,06:06,,16,4,-15,ARI 33,0,ARI,
-19,3671,3,05:21,,25,4,-1,ARI 24,0,ARI,
-19,3692,4,04:44,,11,4,-1,ARI 38,0,ARI,PUNTB
-19,3619,2,06:29,,6,4,-6,ARI 43,0,ARI,PENALTY
-22,4106,2,01:03,,2,4,25,SEA 31,0,SEA,
-22,4130,1,00:55,,10,4,5,SEA 48,0,SEA,PENALTY
-22,4082,1,01:09,,10,4,8,SEA 23,0,SEA,
-22,4219,0,,,0,4,5,,0,,
-22,4198,1,00:41,,30,4,5,SEA 28,0,SEA,
-22,4163,1,00:48,,20,4,5,SEA 38,0,SEA,PENALTY
-12,2417,3,10:56,,24,3,15,SEA 35,0,SEA,
-12,2221,0,15:00,,0,3,0,ARI 35,0,ARI,KICKOFF
-12,2441,4,10:21,,16,3,15,SEA 43,0,SEA,PUNT
-12,2370,2,12:40,,21,3,5,SEA 38,0,SEA,PENALTY
-12,2264,2,14:22,,6,3,7,SEA 32,0,SEA,
-12,2285,3,13:42,,3,3,21,SEA 35,0,SEA,
-12,2393,2,11:40,,26,3,7,SEA 33,0,SEA,
-12,2349,1,12:40,,20,3,10,SEA 39,0,SEA,
-12,2309,1,13:06,,10,3,11,SEA 49,0,SEA,PENALTY
-12,2243,1,14:54,,10,3,4,SEA 28,0,SEA,
-16,3243,1,11:43,,20,4,4,SEA 11,0,SEA,
-16,3289,2,11:35,,20,4,-1,SEA 11,0,SEA,
-16,3337,4,10:13,,16,4,8,SEA 15,0,SEA,PUNT
-16,3188,2,12:27,,1,4,14,SEA 16,0,SEA,
-16,3209,1,11:51,,10,4,4,SEA 21,0,SEA,PENALTY
-16,3313,3,10:52,,25,4,8,SEA 6,0,SEA,
-16,3164,1,13:02,,10,4,9,SEA 7,0,SEA,
-7,1007,2,13:37,,11,2,12,SEA 21,0,ARI,
-7,930,0,,,0,1,8,,0,,
-7,986,1,14:21,,10,2,12,SEA 20,0,ARI,
-7,909,1,00:29,,10,1,8,SEA 33,0,ARI,
-7,1051,4,13:25,,11,2,12,SEA 21,0,ARI,FGB
-7,946,2,15:00,,2,2,13,SEA 25,0,ARI,
-7,1029,3,13:31,,11,2,12,SEA 21,0,ARI,
-3,389,2,09:46,,10,1,3,ARI 21,0,ARI,
-3,367,1,09:53,,10,1,0,ARI 21,0,ARI,
-3,410,3,09:09,,7,1,3,ARI 24,0,ARI,
-3,432,4,09:04,,7,1,3,ARI 24,0,ARI,PUNT
-17,3420,3,09:19,,5,4,5,SEA 44,0,ARI,
-17,3374,1,10:02,,10,4,5,SEA 49,0,ARI,
-17,3398,2,09:25,,5,4,5,SEA 44,0,ARI,
-17,3442,4,09:14,,5,4,5,SEA 44,0,ARI,PUNT
-4,469,1,08:56,,10,1,0,SEA 40,0,SEA,
-4,542,4,08:07,,4,1,6,SEA 46,0,SEA,PUNT
-4,491,2,08:50,,10,1,6,SEA 40,0,SEA,
-4,520,3,08:10,,4,1,6,SEA 46,0,SEA,
-2,303,3,10:40,,1,1,7,SEA 26,0,SEA,
-2,324,4,10:05,,3,1,7,SEA 24,0,SEA,PUNT
-2,279,2,11:17,,10,1,9,SEA 17,0,SEA,
-2,257,1,11:24,,10,1,7,SEA 17,0,SEA,
-15,3105,3,13:14,,4,4,41,SEA 39,0,ARI,
-15,2949,2,02:08,,5,3,8,ARI 25,0,ARI,
-15,2928,1,02:46,,10,3,5,ARI 20,0,ARI,
-15,3015,0,,,0,3,35,,0,,
-15,2991,1,00:32,,10,3,35,ARI 31,0,ARI,
-15,3127,4,13:10,,4,4,41,SEA 39,0,ARI,PUNT
-15,2970,3,01:20,,2,3,11,ARI 28,0,ARI,
-15,3073,3,13:39,,2,4,41,SEA 37,0,ARI,PENALTY
-15,3031,1,15:00,,10,4,40,SEA 45,0,ARI,
-15,3052,2,14:22,,5,4,43,SEA 40,0,ARI,
+24,4677,4,06:46,"(6:46) S.Hauschka 36 yard field goal is GOOD, Center-N.Frese, Holder-J.Ryan.",4,5,57,ARI 18,1,SEA,FG
+24,4517,1,10:46,(10:46) (Shotgun) R.Wilson pass short right to J.Graham to SEA 48 for 13 yards (T.Jefferson).,10,5,23,SEA 35,0,SEA,
+24,4655,3,06:52,(6:52) (Shotgun) R.Wilson pass incomplete deep right to J.Graham.,4,5,57,ARI 18,0,SEA,
+24,4496,1,11:23,(11:23) C.Michael right tackle to SEA 35 for 10 yards (D.Bucannon).,10,5,10,SEA 25,0,SEA,
+24,4631,2,07:34,(7:34) (Shotgun) R.Wilson pass short right to T.Lockett to ARI 18 for 5 yards (D.Bucannon).,9,5,57,ARI 23,0,SEA,
+24,4481,0,11:23,"C.Catanzaro kicks 65 yards from ARI 35 to end zone, Touchback.",0,5,0,ARI 35,0,ARI,KICKOFF
+24,4565,2,09:30,(9:30) (Shotgun) C.Michael left end to ARI 38 for 6 yards (D.Bucannon).,2,5,37,ARI 44,0,SEA,
+24,4541,1,10:03,(10:03) (Shotgun) R.Wilson pass short middle to J.Graham to ARI 44 for 8 yards (K.Minter).,10,5,31,SEA 48,0,SEA,
+24,4610,1,08:14,(8:14) (Shotgun) C.Michael up the middle to ARI 23 for 1 yard (M.Golden).,10,5,52,ARI 24,0,SEA,
+24,4586,1,08:52,(8:52) (Shotgun) R.Wilson pass short middle to J.Graham to ARI 24 for 14 yards (D.Bucannon).,10,5,51,ARI 38,0,SEA,
+25,4712,0,06:42,"S.Hauschka kicks 65 yards from SEA 35 to end zone, Touchback.",0,5,0,SEA 35,0,SEA,KICKOFF
+25,4751,1,06:02,(6:02) D.Johnson up the middle to SEA 45 for 3 yards (A.Rubin).,10,5,30,SEA 48,0,ARI,
+25,4727,1,06:42,(6:42) C.Palmer pass deep right to I.Momah to SEA 48 for 27 yards (B.Wagner).,10,5,27,ARI 25,0,ARI,
+25,4818,0,04:22,Timeout #2 by ARI at 04:22.,0,5,70,,0,,TIMEOUT
+25,4835,1,04:22,(4:22) D.Johnson left end pushed ob at SEA 1 for 4 yards (E.Thomas).,5,5,69,SEA 5,0,ARI,
+25,4911,3,03:26,"(3:26) (Field Goal formation) C.Catanzaro 24 yard field goal is No Good, Hit Left Upright, Center-A.Brewer, Holder-R.Quigley.",6,5,69,SEA 6,0,ARI,FGM
+25,4772,2,05:21,(5:21) (Shotgun) C.Palmer pass incomplete short middle to L.Fitzgerald.,7,5,30,SEA 45,0,ARI,
+25,4794,3,05:15,(5:15) (Shotgun) C.Palmer pass short right to J.Nelson to SEA 5 for 40 yards (K.McCray).,7,5,70,SEA 45,0,ARI,
+25,4861,2,04:13,(4:13) D.Johnson up the middle to SEA 1 for no gain (B.Wagner).,1,5,74,SEA 1,0,ARI,
+25,4882,3,03:26,"(3:26) PENALTY on ARI-R.Quigley, Delay of Game, 5 yards, enforced at SEA 1 - No Play.",1,5,69,SEA 1,0,ARI,PENALTY
+26,4933,1,03:19,(3:19) (Shotgun) C.Michael up the middle to SEA 20 for no gain (J.Mauro).,10,5,6,SEA 20,0,SEA,
+26,5127,2,00:11,"(:11) (Field Goal formation) S.Hauschka 28 yard field goal is No Good, Wide Left, Center-N.Frese, Holder-J.Ryan.",10,5,70,ARI 10,0,SEA,FGM
+26,5106,1,00:54,(:54) (Shotgun) C.Michael up the middle to ARI 10 for -1 yards (K.Minter).,9,5,70,ARI 9,0,SEA,
+26,5024,1,01:53,(1:53) C.Michael left end pushed ob at ARI 38 for 5 yards (T.Mathieu).,10,5,42,ARI 43,0,SEA,
+26,4995,3,02:00,(2:00) (Shotgun) R.Wilson pass deep left to J.Kearse pushed ob at ARI 43 for 31 yards (M.Cooper).,4,5,44,SEA 26,0,SEA,
+26,4978,0,02:00,Two-Minute Warning,0,5,6,,0,,
+26,5071,3,01:04,(1:04) (Shotgun) R.Wilson pass short right to D.Baldwin ran ob at ARI 9 for 27 yards (T.Jefferson).,3,5,71,ARI 36,0,SEA,
+26,5050,2,01:47,(1:47) A.Collins up the middle to ARI 36 for 2 yards (K.Minter).,5,5,44,ARI 38,0,SEA,
+26,4954,2,02:42,(2:42) (Shotgun) R.Wilson pass short left to D.Baldwin to SEA 26 for 6 yards (D.Bucannon).,10,5,6,SEA 20,0,SEA,
+27,5199,0,00:00,END GAME,0,5,19,,0,,
+27,5177,1,00:02,(:02) (Shotgun) C.Palmer pass incomplete deep right to L.Fitzgerald (J.Lane).,10,5,19,ARI 39,0,ARI,
+27,5148,1,00:07,(:07) (Shotgun) C.Palmer pass short right to L.Fitzgerald pushed ob at ARI 39 for 19 yards (J.Lane).,10,5,19,ARI 20,0,ARI,
+20,3810,3,04:10,(4:10) (Shotgun) R.Wilson pass short left to T.McEvoy to ARI 22 for 10 yards (P.Peterson).,20,4,0,ARI 32,0,SEA,
+20,3834,4,04:05,"(4:05) S.Hauschka 40 yard field goal is GOOD, Center-N.Frese, Holder-J.Ryan.",10,4,0,ARI 22,1,SEA,FG
+20,3788,2,04:16,(4:16) (Shotgun) R.Wilson pass incomplete short middle to D.Baldwin (D.Swearinger) [Ch.Jones].,20,4,0,ARI 32,0,SEA,
+20,3766,1,04:22,(4:22) (Shotgun) R.Wilson pass incomplete deep right to J.Kearse.,20,4,0,ARI 32,0,SEA,
+20,3731,1,04:33,"(4:33) R.Wilson pass short right to D.Baldwin to ARI 12 for 10 yards (K.Minter). PENALTY on SEA-B.Williams, Offensive Holding, 10 yards, enforced at ARI 22 - No Play.",10,4,-10,ARI 22,0,SEA,PENALTY
+21,4056,4,01:16,"(1:16) R.Quigley punts 31 yards to SEA 23, Center-A.Brewer. T.Lockett to SEA 23 for no gain (J.Bethel).",2,4,21,ARI 46,0,ARI,PUNT
+21,3913,3,02:29,(2:29) (Shotgun) C.Palmer pass deep right to M.Floyd to ARI 38 for 16 yards (R.Sherman).,13,4,13,ARI 22,0,ARI,
+21,3870,1,04:00,(4:00) C.Palmer pass short right to L.Fitzgerald to ARI 30 for 5 yards (J.Lane).,10,4,5,ARI 25,0,ARI,
+21,3937,0,02:00,Two-Minute Warning,0,4,13,,0,,
+21,3954,1,02:00,(2:00) (Shotgun) D.Johnson up the middle to ARI 36 for -2 yards (F.Clark).,10,4,11,ARI 38,0,ARI,
+21,3854,0,04:00,"S.Hauschka kicks 65 yards from SEA 35 to end zone, Touchback.",0,4,0,SEA 35,0,SEA,KICKOFF
+21,3975,2,01:34,(1:34) (Shotgun) C.Palmer pass short left to M.Floyd ran ob at ARI 46 for 10 yards.,12,4,21,ARI 36,0,ARI,
+21,3999,3,01:28,(1:28) (Shotgun) D.Johnson up the middle to ARI 46 for no gain (B.Wagner).,2,4,21,ARI 46,0,ARI,
+21,4039,0,01:16,Timeout #2 by SEA at 01:16.,0,4,21,,0,,TIMEOUT
+21,3894,2,03:13,(3:13) (Shotgun) C.Palmer sacked at ARI 22 for -8 yards (C.Avril).,5,4,-3,ARI 30,0,ARI,
+22,4082,1,01:09,(1:09) (Shotgun) R.Wilson pass short right to T.Lockett pushed ob at SEA 31 for 8 yards (M.Cooper).,10,4,8,SEA 23,0,SEA,
+22,4163,1,00:48,"(:48) (Shotgun) R.Wilson pass short middle to C.Prosise to SEA 49 for 11 yards (T.Mathieu). PENALTY on SEA-G.Fant, Offensive Holding, 10 yards, enforced at SEA 38 - No Play.",20,4,5,SEA 38,0,SEA,PENALTY
+22,4198,1,00:41,(:41) (Shotgun) C.Prosise up the middle to SEA 28 for no gain (Ch.Jones).,30,4,5,SEA 28,0,SEA,
+22,4130,1,00:55,"(:55) (Shotgun) R.Wilson pass incomplete short right. PENALTY on SEA-G.Gilliam, Offensive Holding, 10 yards, enforced at SEA 48 - No Play.",10,4,5,SEA 48,0,SEA,PENALTY
+22,4219,0,,END QUARTER 4,0,4,5,,0,,
+22,4106,2,01:03,(1:03) (Shotgun) R.Wilson pass short left to J.Kearse ran ob at SEA 48 for 17 yards (M.Cooper).,2,4,25,SEA 31,0,SEA,
+23,4271,2,14:19,(14:19) C.Palmer pass short left to J.Nelson to 50 for 20 yards (D.Shead).,5,5,25,ARI 30,0,ARI,
+23,4316,2,13:03,(13:03) (Shotgun) C.Palmer pass incomplete short left to D.Johnson.,10,5,25,50,0,ARI,
+23,4338,0,12:59,Timeout #1 by SEA at 12:59.,0,5,25,,0,,TIMEOUT
+23,4295,1,13:41,(13:41) D.Johnson up the middle to 50 for no gain (T.McDaniel).,10,5,25,50,0,ARI,
+23,4250,1,15:00,(15:00) D.Johnson up the middle to ARI 30 for 5 yards (M.Bennett).,10,5,5,ARI 25,0,ARI,
+23,4400,0,11:39,Timeout #1 by ARI at 11:39.,0,5,48,,0,,TIMEOUT
+23,4417,2,11:39,(11:39) (Shotgun) C.Palmer pass incomplete deep left to J.Nelson (D.Shead).,5,5,48,SEA 27,0,ARI,
+23,4379,1,12:21,(12:21) D.Johnson left tackle to SEA 27 for 5 yards (J.Lane).,10,5,48,SEA 32,0,ARI,
+23,4355,3,12:59,(12:59) (Shotgun) C.Palmer pass deep right to M.Floyd to SEA 32 for 18 yards (J.Lane).,10,5,43,50,0,ARI,
+23,4235,0,15:00,"S.Hauschka kicks 65 yards from SEA 35 to end zone, Touchback.",0,5,0,SEA 35,0,SEA,KICKOFF
+23,4439,3,11:34,(11:34) (Shotgun) C.Palmer pass incomplete short left to M.Floyd.,5,5,48,SEA 27,0,ARI,
+23,4461,4,11:28,"(11:28) C.Catanzaro 45 yard field goal is GOOD, Center-A.Brewer, Holder-R.Quigley.",5,5,48,SEA 27,1,ARI,FG
+1,191,3,12:11,(12:11) (Shotgun) C.Palmer pass short left to M.Floyd ran ob at 50 for 8 yards (J.Lane) [C.Avril].,10,1,25,ARI 42,0,ARI,
+1,36,0,15:00,"S.Hauschka kicks 65 yards from SEA 35 to end zone, Touchback.",0,1,0,SEA 35,0,SEA,KICKOFF
+1,52,1,15:00,(15:00) D.Johnson right tackle to ARI 25 for no gain (D.Shead).,10,1,0,ARI 25,0,ARI,
+1,121,2,13:06,"(13:06) (Shotgun) C.Palmer pass short right to J.Nelson ran ob at SEA 47 for 11 yards (R.Sherman). PENALTY on ARI-M.Floyd, Offensive Pass Interference, 10 yards, enforced at ARI 42 - No Play. Penalty on ARI-M.Iupati, Ineligible Downfield Pass, declined.",10,1,7,ARI 42,0,ARI,PENALTY
+1,73,2,14:22,(14:22) (Shotgun) C.Palmer pass short middle to L.Fitzgerald to ARI 42 for 17 yards (E.Thomas; K.McCray).,10,1,17,ARI 25,0,ARI,
+1,167,2,12:46,(12:46) (Shotgun) C.Palmer pass short left to D.Johnson pushed ob at ARI 42 for 10 yards (K.Wright).,20,1,17,ARI 32,0,ARI,
+1,97,1,13:46,(13:46) C.Palmer pass short left to L.Fitzgerald to ARI 42 for no gain (K.Wright).,10,1,17,ARI 42,0,ARI,
+1,220,4,11:36,"(11:36) R.Quigley punts 33 yards to SEA 17, Center-A.Brewer, downed by ARI-J.Bethel.",2,1,25,50,0,ARI,PUNT
+3,367,1,09:53,(9:53) C.Palmer pass incomplete short left to J.Gresham.,10,1,0,ARI 21,0,ARI,
+3,410,3,09:09,(9:09) (Shotgun) C.Palmer pass incomplete short left to B.Golden.,7,1,3,ARI 24,0,ARI,
+3,432,4,09:04,"(9:04) R.Quigley punts 36 yards to SEA 40, Center-A.Brewer, fair catch by T.Lockett.",7,1,3,ARI 24,0,ARI,PUNT
+3,389,2,09:46,(9:46) D.Johnson up the middle to ARI 24 for 3 yards (J.Reed).,10,1,3,ARI 21,0,ARI,
+2,279,2,11:17,(11:17) (Shotgun) R.Wilson pass short left to D.Baldwin to SEA 26 for 9 yards (D.Bucannon; K.Minter).,10,1,9,SEA 17,0,SEA,
+2,303,3,10:40,(10:40) (Shotgun) R.Wilson left end to SEA 24 for -2 yards (T.Jefferson).,1,1,7,SEA 26,0,SEA,
+2,257,1,11:24,(11:24) (Shotgun) R.Wilson pass incomplete short right [C.Campbell].,10,1,7,SEA 17,0,SEA,
+2,324,4,10:05,"(10:05) J.Ryan punts 55 yards to ARI 21, Center-N.Frese. B.Golden to ARI 21 for no gain (N.Thorpe).",3,1,7,SEA 24,0,SEA,PUNT
+5,693,1,04:30,(4:30) C.Palmer pass short middle to M.Floyd to 50 for 13 yards (B.Wagner).,10,1,37,ARI 37,0,ARI,
+5,585,1,07:59,(7:59) D.Johnson up the middle to ARI 22 for 9 yards (K.McCray).,10,1,9,ARI 13,0,ARI,
+5,627,1,06:35,(6:35) D.Johnson right tackle to ARI 27 for no gain (C.Marsh).,10,1,14,ARI 27,0,ARI,
+5,669,3,05:15,(5:15) (Shotgun) C.Palmer pass short right to L.Fitzgerald to ARI 37 for 4 yards (B.Wagner).,4,1,24,ARI 33,0,ARI,
+5,717,1,03:51,(3:51) (Shotgun) C.Palmer pass incomplete short left to M.Floyd [F.Clark].,10,1,37,50,0,ARI,
+5,760,3,03:01,(3:01) (Shotgun) C.Palmer sacked at ARI 46 for -7 yards (sack split by F.Clark and C.Avril).,7,1,33,SEA 47,0,ARI,
+5,779,4,02:28,"(2:28) R.Quigley punts 53 yards to SEA 1, Center-A.Brewer, downed by ARI-B.Golden.",14,1,33,ARI 46,0,ARI,PUNT
+5,606,2,07:14,(7:14) D.Johnson up the middle to ARI 27 for 5 yards (K.McCray).,1,1,14,ARI 22,0,ARI,
+5,739,2,03:44,(3:44) D.Johnson up the middle to SEA 47 for 3 yards (D.Shead).,10,1,40,50,0,ARI,
+5,648,2,05:55,(5:55) (Shotgun) D.Johnson left tackle to ARI 33 for 6 yards (D.Shead; J.Lane).,10,1,20,ARI 27,0,ARI,
+4,542,4,08:07,"(8:07) J.Ryan punts 41 yards to ARI 13, Center-N.Frese, fair catch by P.Peterson.",4,1,6,SEA 46,0,SEA,PUNT
+4,520,3,08:10,(8:10) (Shotgun) R.Wilson pass incomplete short right to N.Vannett.,4,1,6,SEA 46,0,SEA,
+4,469,1,08:56,(8:56) (Shotgun) R.Wilson pass incomplete short left to D.Baldwin [M.Golden].,10,1,0,SEA 40,0,SEA,
+4,491,2,08:50,(8:50) (Shotgun) R.Wilson pass short right to C.Michael ran ob at SEA 46 for 6 yards (D.Bucannon).,10,1,6,SEA 40,0,SEA,
+7,1051,4,13:25,"(13:25) C.Catanzaro 39 yard field goal is BLOCKED (B.Wagner), Center-A.Brewer, Holder-R.Quigley, RECOVERED by SEA-B.Wagner at SEA 31. B.Wagner to SEA 31 for no gain (R.Quigley).",11,2,12,SEA 21,0,ARI,FGB
+7,946,2,15:00,(15:00) D.Johnson right tackle to SEA 20 for 5 yards (R.Sherman).,2,2,13,SEA 25,0,ARI,
+7,1029,3,13:31,(13:31) (Shotgun) C.Palmer pass incomplete short right to A.Ellington (C.Avril).,11,2,12,SEA 21,0,ARI,
+7,909,1,00:29,(:29) C.Palmer scrambles up the middle to SEA 25 for 8 yards (K.Wright).,10,1,8,SEA 33,0,ARI,
+7,986,1,14:21,(14:21) D.Johnson left end to SEA 21 for -1 yards (K.Wright).,10,2,12,SEA 20,0,ARI,
+7,1007,2,13:37,(13:37) (Shotgun) C.Palmer pass incomplete deep left to D.Johnson.,11,2,12,SEA 21,0,ARI,
+7,930,0,,END QUARTER 1,0,1,8,,0,,
+6,861,3,00:48,(:48) (Shotgun) R.Wilson pass incomplete short right to C.Prosise.,6,1,4,SEA 5,0,SEA,
+6,883,4,00:40,"(:40) J.Ryan punts 41 yards to SEA 46, Center-N.Frese. P.Peterson to SEA 33 for 13 yards (K.McCray).",6,1,4,SEA 5,0,SEA,PUNT
+6,837,2,01:33,(1:33) (Shotgun) R.Wilson pass short right to J.Graham to SEA 5 for 4 yards (D.Bucannon).,10,1,4,SEA 1,0,SEA,
+6,816,1,02:14,(2:14) C.Michael up the middle to SEA 1 for no gain (R.Gunter).,10,1,4,SEA 1,0,SEA,
+9,1622,3,03:54,(3:54) (Shotgun) C.Palmer pass short middle to L.Fitzgerald to SEA 28 for 3 yards (R.Sherman) [B.Wagner].,10,2,53,SEA 31,0,ARI,
+9,1314,1,10:43,"(10:43) D.Johnson right tackle to ARI 36 for 2 yards (T.McDaniel, B.Wagner).",10,2,21,ARI 34,0,ARI,
+9,1425,1,08:22,(8:22) A.Ellington up the middle to SEA 49 for 5 yards (S.Siliga).,10,2,32,ARI 46,0,ARI,
+9,1557,3,04:51,(4:51) (Shotgun) D.Johnson up the middle to SEA 31 for 3 yards (A.Rubin).,2,2,50,SEA 34,0,ARI,
+9,1536,2,05:33,(5:33) D.Johnson up the middle to SEA 34 for 2 yards (B.Wagner).,4,2,47,SEA 36,0,ARI,
+9,1335,2,10:04,(10:04) J.Nelson left end to ARI 40 for 4 yards (B.Wagner).,8,2,21,ARI 36,0,ARI,
+9,1600,2,03:59,(3:59) (Shotgun) C.Palmer pass incomplete short right to L.Fitzgerald (K.Wright).,10,2,50,SEA 31,0,ARI,
+9,1508,1,06:17,(6:17) (Shotgun) C.Palmer pass short left to D.Johnson to SEA 36 for 6 yards (K.Wright).,10,2,45,SEA 42,0,ARI,
+9,1356,3,09:23,(9:23) (Shotgun) C.Palmer pass short middle to D.Johnson to ARI 46 for 6 yards (F.Clark) [C.Avril]. SEA-K.Wright was injured during the play.,4,2,27,ARI 40,0,ARI,
+9,1646,4,03:16,"(3:16) C.Catanzaro 46 yard field goal is GOOD, Center-A.Brewer, Holder-R.Quigley.",7,2,53,SEA 28,1,ARI,FG
+9,1578,1,04:06,(4:06) C.Palmer pass incomplete deep left to D.Johnson (E.Thomas).,10,2,50,SEA 31,0,ARI,
+9,1446,2,07:41,(7:41) A.Ellington left tackle to SEA 47 for 2 yards (B.Wagner).,5,2,34,SEA 49,0,ARI,
+9,1268,1,11:35,(11:35) C.Palmer pass incomplete deep middle to J.Nelson.,10,2,0,ARI 19,0,ARI,
+9,1484,3,06:53,(6:53) (Shotgun) C.Palmer pass short middle to D.Johnson to SEA 42 for 5 yards (K.McCray).,3,2,39,SEA 47,0,ARI,
+9,1290,2,11:27,(11:27) (Shotgun) C.Palmer pass short right to D.Johnson to ARI 34 for 15 yards (K.Wright).,10,2,15,ARI 19,0,ARI,
+9,1394,0,09:23,Timeout at 09:23.,0,2,27,,0,,Timeout
+9,1467,0,06:53,Timeout #2 by ARI at 06:53.,0,2,34,,0,,TIMEOUT
+9,1383,1,08:43,"(8:43) C.Palmer pass short left to M.Floyd to SEA 42 for 12 yards (D.Shead). Penalty on SEA-M.Bennett, Defensive Offside, offsetting, enforced at ARI 46 - No Play. Penalty on ARI-M.Floyd, Offensive Pass Interference, offsetting.",10,2,27,ARI 46,0,ARI,
+8,1225,4,11:48,"(11:48) J.Ryan punts 45 yards to ARI 11, Center-N.Frese. B.Golden to ARI 19 for 8 yards (D.Elliott).",10,2,13,SEA 44,0,SEA,PUNT
+8,1147,1,12:04,(12:04) R.Wilson pass incomplete short right to J.Graham.,10,2,13,SEA 44,0,SEA,
+8,1191,3,11:54,"(11:54) (Shotgun) R.Wilson pass incomplete short right to P.Richardson. Penalty on SEA-M.Glowinski, Offensive Holding, declined.",10,2,13,SEA 44,0,SEA,
+8,1123,2,12:43,(12:43) R.Wilson pass short right to P.Richardson to SEA 44 for 10 yards (D.Bucannon).,7,2,13,SEA 34,0,SEA,
+8,1169,2,11:58,(11:58) (Shotgun) R.Wilson pass incomplete short right to J.Graham.,10,2,13,SEA 44,0,SEA,
+8,1102,1,13:20,"(13:20) (Shotgun) C.Michael up the middle to SEA 34 for 3 yards (K.Minter, D.Bucannon).",10,2,3,SEA 31,0,SEA,
+11,2046,1,00:42,"(:42) (No Huddle, Shotgun) C.Palmer pass short right to L.Fitzgerald to SEA 48 for 9 yards (J.Lane).",10,2,27,ARI 43,0,ARI,
+11,2205,0,,END QUARTER 2,0,2,43,,0,,
+11,1979,1,01:18,(1:18) (Shotgun) C.Palmer pass incomplete deep left to J.Nelson.,10,2,7,ARI 32,0,ARI,
+11,1942,2,01:25,"(1:25) (Shotgun) C.Palmer pass short middle intended for D.Johnson INTERCEPTED by E.Thomas at ARI 31. E.Thomas to ARI 31 for no gain (M.Iupati). PENALTY on SEA-R.Sherman, Defensive Holding, 5 yards, enforced at ARI 27 - No Play.",8,2,50,ARI 27,0,ARI,PENALTY
+11,2087,2,00:34,(:34) (Shotgun) C.Palmer pass incomplete short left to J.Gresham.,1,2,27,SEA 48,0,ARI,
+11,2025,3,01:04,(1:04) (Shotgun) D.Johnson up the middle to ARI 43 for 2 yards (K.Wright).,1,2,18,ARI 41,0,ARI,
+11,2109,3,00:30,(:30) C.Palmer pass short left to I.Momah ran ob at SEA 25 for 23 yards (D.Shead).,1,2,50,SEA 48,0,ARI,
+11,2001,2,01:12,(1:12) (Shotgun) C.Palmer pass short left to J.Gresham pushed ob at ARI 41 for 9 yards (B.Wagner).,10,2,16,ARI 32,0,ARI,
+11,2143,1,00:22,(:22) (Shotgun) C.Palmer pass incomplete deep right to J.Nelson.,10,2,50,SEA 25,0,ARI,
+11,2165,2,00:17,"(:17) (Shotgun) C.Palmer sacked at SEA 32 for -7 yards (F.Clark). FUMBLES (F.Clark) [F.Clark], recovered by ARI-E.Watford at SEA 32. E.Watford to SEA 32 for no gain (A.Rubin). Penalty on ARI-A.Shipley, Unsportsmanlike Conduct, offsetting. Penalty on SEA-J.Lane, Unnecessary Roughness, offsetting.",10,2,43,SEA 25,0,ARI,FUMBLE
+11,1913,1,01:29,(1:29) (Shotgun) C.Palmer pass short right to D.Johnson ran ob at ARI 27 for 2 yards (B.Wagner).,10,2,2,ARI 25,0,ARI,
+11,2070,0,00:34,Timeout #3 by ARI at 00:34.,0,2,27,,0,,TIMEOUT
+10,1703,1,03:06,(3:06) (Shotgun) C.Michael left tackle to SEA 23 for 6 yards (K.Minter).,10,2,12,SEA 17,0,SEA,
+10,1724,2,02:39,(2:39) (Shotgun) C.Michael up the middle to SEA 29 for 6 yards (D.Bucannon).,4,2,12,SEA 23,0,SEA,
+10,1784,2,02:00,"(2:00) (Shotgun) R.Wilson pass short right to D.Baldwin to SEA 34 for 5 yards (M.Cooper, T.Mathieu).",10,2,17,SEA 29,0,SEA,
+10,1809,3,01:52,"(1:52) (Shotgun) R.Wilson pass short middle to D.Baldwin ran ob at 50 for 16 yards (D.Swearinger). PENALTY on SEA-G.Gilliam, Offensive Holding, 10 yards, enforced at SEA 34 - No Play.",5,2,7,SEA 34,0,SEA,PENALTY
+10,1844,3,01:45,(1:45) (Shotgun) R.Wilson pass incomplete short left to J.Graham [Ch.Jones].,15,2,7,SEA 24,0,SEA,
+10,1681,0,03:11,C.Catanzaro kicks 63 yards from ARI 35 to SEA 2. T.Lockett to SEA 17 for 15 yards (J.Bethel).,0,2,0,ARI 35,0,ARI,KICKOFF
+10,1866,4,01:40,"(1:40) J.Ryan punts 58 yards to ARI 18, Center-N.Frese. B.Golden to ARI 25 for 7 yards (N.Thorpe).",15,2,7,SEA 24,0,SEA,PUNT
+10,1745,1,02:05,(2:05) (Shotgun) R.Wilson pass incomplete short left to J.Graham (T.Jefferson).,10,2,12,SEA 29,0,SEA,
+10,1767,0,02:00,Two-Minute Warning,0,2,12,,0,,
+13,2477,1,10:14,(10:14) (Shotgun) C.Palmer pass incomplete to D.Johnson [C.Avril].,10,3,0,ARI 24,0,ARI,
+13,2499,2,10:10,(10:10) D.Johnson up the middle to ARI 31 for 7 yards (M.Bennett).,10,3,7,ARI 24,0,ARI,
+13,2650,1,06:41,"(6:41) (Shotgun) PENALTY on ARI-J.Gresham, False Start, 5 yards, enforced at SEA 28 - No Play.",10,3,43,SEA 28,0,ARI,PENALTY
+13,2520,3,09:28,"(9:28) (Shotgun) PENALTY on SEA-F.Clark, Encroachment, 5 yards, enforced at ARI 31 - No Play.",3,3,12,ARI 31,0,ARI,PENALTY
+13,2718,3,05:05,(5:05) (Shotgun) C.Palmer pass short middle to D.Johnson to SEA 19 for 6 yards (K.Wright).,7,3,57,SEA 25,0,ARI,
+13,2543,1,09:09,(9:09) C.Palmer pass short left to L.Fitzgerald to ARI 44 for 8 yards (D.Shead).,10,3,20,ARI 36,0,ARI,
+13,2565,2,08:32,(8:32) D.Johnson up the middle to ARI 49 for 5 yards (D.Shead).,2,3,25,ARI 44,0,ARI,
+13,2618,2,07:08,"(7:08) D.Johnson left tackle to SEA 43 for no gain (D.Shead; B.Wagner). PENALTY on SEA-J.Lane, Unnecessary Roughness, 15 yards, enforced at SEA 43 - No Play.",2,3,57,SEA 43,0,ARI,PENALTY
+13,2673,1,06:26,(6:26) (Shotgun) C.Palmer pass short middle to J.Gresham to SEA 27 for 6 yards (A.Rubin).,15,3,49,SEA 33,0,ARI,
+13,2742,0,04:34,Timeout #1 by SEA at 04:34.,0,3,57,,0,,TIMEOUT
+13,2697,2,05:48,(5:48) (Shotgun) D.Johnson right end to SEA 25 for 2 yards (K.Wright).,9,3,51,SEA 27,0,ARI,
+13,2594,1,07:50,(7:50) C.Palmer pass short middle to D.Johnson to SEA 43 for 8 yards (T.McDaniel).,10,3,48,ARI 49,0,ARI,
+13,2759,4,04:34,"(4:34) D.Johnson up the middle to SEA 19 for no gain (K.Wright, M.Bennett). ARI-M.Iupati was injured during the play.",1,3,57,SEA 19,0,ARI,
+12,2309,1,13:06,"(13:06) (Shotgun) R.Wilson pass short left to J.Kearse pushed ob at ARI 37 for 14 yards (M.Cooper). PENALTY on SEA-J.Kearse, Offensive Pass Interference, 10 yards, enforced at SEA 49 - No Play.",10,3,11,SEA 49,0,SEA,PENALTY
+12,2441,4,10:21,"(10:21) J.Ryan punts 33 yards to ARI 24, Center-N.Frese, out of bounds.",16,3,15,SEA 43,0,SEA,PUNT
+12,2349,1,12:40,(12:40) (Shotgun) C.Michael right tackle to SEA 38 for -1 yards (C.Campbell).,20,3,10,SEA 39,0,SEA,
+12,2285,3,13:42,(13:42) (Shotgun) R.Wilson pass short middle to J.Graham to SEA 49 for 14 yards (D.Swearinger).,3,3,21,SEA 35,0,SEA,
+12,2221,0,15:00,C.Catanzaro kicks 73 yards from ARI 35 to SEA -8. T.Lockett pushed ob at SEA 28 for 36 yards (T.Jefferson).,0,3,0,ARI 35,0,ARI,KICKOFF
+12,2393,2,11:40,(11:40) (Shotgun) R.Wilson pass short left to C.Michael to SEA 35 for 2 yards (D.Bucannon).,26,3,7,SEA 33,0,SEA,
+12,2417,3,10:56,(10:56) (Shotgun) R.Wilson pass short middle to C.Prosise to SEA 43 for 8 yards (D.Swearinger).,24,3,15,SEA 35,0,SEA,
+12,2370,2,12:40,"(12:40) (Shotgun) PENALTY on SEA-B.Sowell, False Start, 5 yards, enforced at SEA 38 - No Play.",21,3,5,SEA 38,0,SEA,PENALTY
+12,2264,2,14:22,(14:22) C.Michael up the middle to SEA 35 for 3 yards (P.Peterson).,6,3,7,SEA 32,0,SEA,
+12,2243,1,14:54,(14:54) (Shotgun) C.Michael up the middle to SEA 32 for 4 yards (D.Bucannon).,10,3,4,SEA 28,0,SEA,
+15,2928,1,02:46,(2:46) (Shotgun) D.Johnson up the middle to ARI 25 for 5 yards (B.Wagner).,10,3,5,ARI 20,0,ARI,
+15,2991,1,00:32,(:32) C.Palmer pass deep left to J.Nelson to SEA 45 for 24 yards (D.Shead).,10,3,35,ARI 31,0,ARI,
+15,3031,1,15:00,(15:00) D.Johnson up the middle to SEA 40 for 5 yards (A.Rubin).,10,4,40,SEA 45,0,ARI,
+15,3015,0,,END QUARTER 3,0,3,35,,0,,
+15,3073,3,13:39,"(13:39) D.Johnson right end to SEA 14 for 23 yards (F.Clark). PENALTY on ARI-M.Floyd, Offensive Holding, 10 yards, enforced at SEA 29.",2,4,41,SEA 37,0,ARI,PENALTY
+15,2949,2,02:08,(2:08) D.Johnson right end to ARI 28 for 3 yards (C.Avril).,5,3,8,ARI 25,0,ARI,
+15,3105,3,13:14,(13:14) (Shotgun) C.Palmer pass incomplete short left to L.Fitzgerald (E.Thomas).,4,4,41,SEA 39,0,ARI,
+15,2970,3,01:20,(1:20) (Shotgun) D.Johnson left tackle to ARI 31 for 3 yards (B.Wagner).,2,3,11,ARI 28,0,ARI,
+15,3052,2,14:22,(14:22) D.Johnson up the middle to SEA 37 for 3 yards (A.Rubin).,5,4,43,SEA 40,0,ARI,
+15,3127,4,13:10,"(13:10) R.Quigley punts 32 yards to SEA 7, Center-A.Brewer, fair catch by T.Lockett.",4,4,41,SEA 39,0,ARI,PUNT
+14,2847,3,03:17,"(3:17) (Shotgun) R.Wilson pass short middle to R.Wilson to SEA 25 for -1 yards (M.Golden). FUMBLES (M.Golden), and recovers at SEA 25. R.Wilson to SEA 25 for no gain (J.Mauro). Penalty on SEA-G.Ifedi, Unsportsmanlike Conduct, offsetting. Penalty on ARI-F.Rucker, Unsportsmanlike Conduct, offsetting.",3,3,6,SEA 26,0,SEA,FUMBLE
+14,2798,1,04:28,(4:28) (Shotgun) R.Wilson pass short left to J.Kearse to SEA 22 for 3 yards (M.Cooper).,10,3,3,SEA 19,0,SEA,
+14,2826,2,03:57,(3:57) (Shotgun) C.Michael up the middle to SEA 26 for 4 yards (M.Cooper).,7,3,7,SEA 22,0,SEA,
+14,2898,4,02:57,"(2:57) J.Ryan punts 53 yards to ARI 22, Center-N.Frese. B.Golden to ARI 20 for -2 yards (D.Elliott).",4,3,6,SEA 25,0,SEA,PUNT
+17,3398,2,09:25,(9:25) (Shotgun) C.Palmer pass incomplete short right to D.Johnson (C.Avril).,5,4,5,SEA 44,0,ARI,
+17,3374,1,10:02,(10:02) (Shotgun) C.Palmer pass short left to L.Fitzgerald to SEA 44 for 5 yards (B.Coyle).,10,4,5,SEA 49,0,ARI,
+17,3442,4,09:14,"(9:14) R.Quigley punts 44 yards to end zone, Center-A.Brewer, Touchback.",5,4,5,SEA 44,0,ARI,PUNT
+17,3420,3,09:19,(9:19) (Shotgun) C.Palmer pass incomplete short right to L.Fitzgerald (R.Sherman).,5,4,5,SEA 44,0,ARI,
+16,3243,1,11:43,(11:43) (Shotgun) R.Wilson pass incomplete deep right to D.Baldwin.,20,4,4,SEA 11,0,SEA,
+16,3209,1,11:51,"(11:51) R.Wilson pass incomplete short left to C.Michael [C.Peters]. PENALTY on SEA-B.Sowell, Offensive Holding, 10 yards, enforced at SEA 21 - No Play.",10,4,4,SEA 21,0,SEA,PENALTY
+16,3337,4,10:13,"(10:13) (Punt formation) J.Ryan punts 34 yards to SEA 49, Center-N.Frese, downed by SEA-K.McCray.",16,4,8,SEA 15,0,SEA,PUNT
+16,3289,2,11:35,(11:35) (Shotgun) R.Wilson pass short right to C.Michael to SEA 6 for -5 yards (K.Minter).,20,4,-1,SEA 11,0,SEA,
+16,3313,3,10:52,(10:52) (Shotgun) R.Wilson pass short middle to C.Prosise to SEA 15 for 9 yards (D.Swearinger).,25,4,8,SEA 6,0,SEA,
+16,3188,2,12:27,(12:27) (Shotgun) C.Michael up the middle to SEA 21 for 5 yards (Ch.Jones).,1,4,14,SEA 16,0,SEA,
+16,3164,1,13:02,(13:02) R.Wilson pass short right to D.Baldwin pushed ob at SEA 16 for 9 yards (M.Cooper).,10,4,9,SEA 7,0,SEA,
+19,3619,2,06:29,"(6:29) D.Johnson left tackle to SEA 48 for 9 yards (B.Wagner; E.Thomas). PENALTY on ARI-J.Gresham, Offensive Holding, 10 yards, enforced at ARI 43 - No Play.",6,4,-6,ARI 43,0,ARI,PENALTY
+19,3692,4,04:44,"(4:44) R.Quigley punt is BLOCKED by T.McEvoy, Center-A.Brewer, RECOVERED by SEA-C.Marsh at ARI 31. C.Marsh to ARI 27 for 4 yards (I.Momah). PENALTY on ARI-J.Bethel, Illegal Motion, 5 yards, enforced at ARI 27.",11,4,-1,ARI 38,0,ARI,PUNTB
+19,3598,1,07:11,(7:11) D.Johnson up the middle to ARI 43 for 4 yards (D.Shead).,10,4,4,ARI 39,0,ARI,
+19,3671,3,05:21,(5:21) (Shotgun) D.Johnson up the middle to ARI 38 for 14 yards (K.McCray).,25,4,-1,ARI 24,0,ARI,
+19,3652,2,06:06,(6:06) (Shotgun) C.Palmer sacked at ARI 24 for -9 yards (C.Avril).,16,4,-15,ARI 33,0,ARI,
+18,3527,3,07:52,(7:52) (Shotgun) R.Wilson pass short middle to D.Baldwin to SEA 14 for 13 yards (M.Cooper). SEA-B.Sowell was injured during the play.,29,4,-6,SEA 1,0,SEA,
+18,3477,1,09:07,(9:07) (Shotgun) C.Michael up the middle to SEA 21 for 1 yard (C.Campbell).,10,4,1,SEA 20,0,SEA,
+18,3554,4,07:23,"(7:23) J.Ryan punts 54 yards to ARI 32, Center-N.Frese. B.Golden to ARI 39 for 7 yards (D.McDonald).",16,4,-6,SEA 14,0,SEA,PUNT
+18,3498,2,08:40,"(8:40) (Shotgun) R.Wilson sacked at SEA 14 for -7 yards (Ch.Jones). FUMBLES (Ch.Jones) [Ch.Jones], recovered by SEA-M.Glowinski at SEA 1. M.Glowinski to SEA 1 for no gain (A.Okafor).",9,4,-6,SEA 21,0,SEA,FUMBLE

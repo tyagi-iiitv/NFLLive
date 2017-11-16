@@ -1,173 +1,173 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1730,1,03:20,,10,2,2,STL 28,0,STL,
-9,1854,2,01:37,,3,2,32,STL 42,0,STL,
-9,1794,3,02:00,,8,2,7,STL 30,0,STL,PENALTY
-9,1754,2,02:42,,11,2,2,STL 27,0,STL,
-9,1777,0,02:00,,0,2,2,,0,,
-9,1929,3,01:05,,7,2,49,CIN 37,0,STL,
-9,1883,1,01:29,,10,2,49,CIN 40,0,STL,
-9,1953,1,00:44,,10,2,49,CIN 23,0,STL,INT
-9,1824,1,01:45,,10,2,14,STL 35,0,STL,
-9,1907,2,01:11,,7,2,35,CIN 37,0,STL,
-9,1708,0,03:27,,0,2,0,CIN 35,0,CIN,KICKOFF
-10,1979,1,00:31,,10,2,-1,CIN 15,0,CIN,
-10,2000,0,,,0,2,-1,,0,,
-20,3267,1,09:57,,10,4,8,CIN 26,0,CIN,
-20,3403,0,06:31,,0,4,38,,0,,TIMEOUT
-20,3360,2,07:21,,5,4,38,STL 38,0,CIN,
-20,3420,4,06:31,,3,4,39,STL 36,0,CIN,
-20,3312,1,08:46,,10,4,31,CIN 45,0,CIN,
-20,3291,2,09:28,,2,4,19,CIN 34,0,CIN,
-20,3336,1,08:04,,10,4,36,STL 43,0,CIN,
-20,3381,3,06:35,,3,4,38,STL 36,0,CIN,
-6,1155,2,12:25,,5,2,82,STL 38,0,CIN,
-6,879,1,01:59,,10,1,0,CIN 12,0,CIN,
-6,1089,2,14:24,,2,2,42,STL 45,0,CIN,
-6,1239,0,10:22,,0,2,85,,0,,TIMEOUT
-6,1256,3,10:22,,3,2,85,STL 3,0,CIN,
-6,1289,4,10:14,,3,2,85,STL 3,1,CIN,FG
-6,905,2,01:56,,10,1,0,CIN 12,0,CIN,
-6,1134,1,13:02,,10,2,50,STL 43,0,CIN,
-6,1049,0,,,0,1,35,,0,,
-6,1018,2,00:18,,7,1,35,CIN 26,0,CIN,
-6,926,3,01:22,,10,1,6,CIN 12,0,CIN,
-6,1180,1,11:39,,8,2,82,STL 8,0,CIN,
-6,1065,1,15:00,,10,2,43,CIN 47,0,CIN,
-6,997,1,00:48,,10,1,14,CIN 23,0,CIN,
-6,1222,0,10:22,,0,2,85,,0,,TIMEOUT
-6,1110,3,13:48,,3,2,45,STL 46,0,CIN,
-6,1201,2,11:00,,6,2,85,STL 6,0,CIN,
-6,961,4,01:03,,4,1,11,CIN 18,0,CIN,PENALTY
-18,2982,1,14:24,,10,4,1,CIN 18,0,CIN,
-18,3056,4,13:12,,5,4,5,CIN 23,0,CIN,PUNT
-18,3003,2,13:49,,9,4,1,CIN 19,0,CIN,
-18,3032,3,13:46,,9,4,5,CIN 19,0,CIN,
-1,54,1,15:00,,10,1,2,STL 20,0,STL,
-1,75,2,14:26,,8,1,9,STL 22,0,STL,
-1,120,4,13:19,,4,1,6,STL 26,0,STL,PUNT
-1,35,0,15:00,,0,1,0,CIN 35,0,CIN,KICKOFF
-1,99,3,13:49,,1,1,6,STL 29,0,STL,
-5,789,1,03:15,,10,1,-2,CIN 48,0,STL,
-5,834,3,02:13,,9,1,1,CIN 47,0,STL,
-5,810,2,02:37,,12,1,1,50,0,STL,
-5,856,4,02:08,,9,1,1,CIN 47,0,STL,PUNT
-13,2329,1,08:32,,10,3,72,CIN 28,0,CIN,FUMBLE
-13,2414,0,07:01,,0,3,72,STL 15,1,CIN,XP
-13,2394,2,07:07,,8,3,72,STL 18,1,CIN,TD
-13,2373,1,07:42,,10,3,54,STL 20,0,CIN,
-21,3517,2,05:16,,5,4,17,CIN 47,0,STL,
-21,3493,1,05:44,,10,4,17,STL 48,0,STL,
-21,3587,2,04:23,,9,4,34,CIN 40,0,STL,
-21,3469,2,06:06,,2,4,12,STL 44,0,STL,
-21,3724,4,03:10,,15,4,41,CIN 23,0,STL,
-21,3635,1,03:27,,10,4,46,CIN 18,0,STL,
-21,3611,1,03:50,,10,4,46,CIN 30,0,STL,
-21,3701,4,03:10,,10,4,41,CIN 18,0,STL,PENALTY
-21,3444,1,06:25,,10,4,12,STL 36,0,STL,
-21,3657,2,03:20,,10,4,46,CIN 18,0,STL,
-21,3539,3,05:14,,5,4,23,CIN 47,0,STL,
-21,3679,3,03:15,,10,4,46,CIN 18,0,STL,
-21,3563,1,04:48,,10,4,24,CIN 41,0,STL,
-23,4014,4,00:17,,5,4,28,CIN 45,0,STL,
-23,3927,1,00:54,,10,4,19,50,0,STL,
-23,3903,2,01:18,,4,4,17,STL 39,0,STL,
-23,3951,0,00:47,,0,4,19,,0,,TIMEOUT
-23,4043,0,00:08,,0,4,28,,0,,TIMEOUT
-23,3875,1,01:40,,10,4,19,STL 33,0,STL,
-23,4084,0,00:00,,0,4,31,,0,,
-23,3968,2,00:47,,8,4,19,CIN 48,0,STL,
-23,4060,1,00:08,,10,4,31,CIN 39,0,STL,
-23,3990,3,00:42,,8,4,22,CIN 48,0,STL,
-11,2016,0,15:00,,0,3,0,STL 35,0,STL,KICKOFF
-11,2140,1,12:25,,10,3,24,CIN 44,0,CIN,INT
-11,2035,1,15:00,,10,3,3,CIN 20,0,CIN,
-11,2119,2,12:56,,2,3,24,CIN 39,0,CIN,
-11,2077,3,13:56,,2,3,11,CIN 28,0,CIN,
-11,2056,2,14:29,,7,3,8,CIN 23,0,CIN,
-11,2098,1,13:27,,10,3,19,CIN 31,0,CIN,
-14,2516,3,05:29,,13,3,-3,STL 8,1,STL,TD
-14,2430,0,07:01,,0,3,-3,CIN 35,0,CIN,KICKOFF
-14,2467,1,06:52,,10,3,-4,STL 11,0,STL,
-14,2492,2,06:08,,14,3,-3,STL 7,0,STL,
-8,1672,2,03:34,,1,2,80,STL 22,1,CIN,TD
-8,1692,0,03:27,,0,2,80,STL 15,1,CIN,XP
-8,1430,0,08:29,,0,2,0,STL 35,0,STL,KICKOFF
-8,1492,2,08:23,,10,2,10,CIN 20,0,CIN,
-8,1516,1,07:54,,10,2,10,CIN 30,0,CIN,
-8,1648,1,04:17,,10,2,58,STL 31,0,CIN,
-8,1537,2,07:17,,10,2,24,CIN 30,0,CIN,
-8,1603,1,05:32,,10,2,42,STL 41,0,CIN,
-8,1561,1,06:40,,10,2,27,CIN 44,0,CIN,
-8,1624,2,04:52,,7,2,49,STL 38,0,CIN,
-8,1582,2,06:03,,7,2,39,CIN 47,0,CIN,
-8,1470,1,08:29,,10,2,0,CIN 20,0,CIN,
-19,3186,3,11:02,,8,4,28,CIN 28,0,STL,PENALTY
-19,3079,1,13:04,,10,4,40,STL 34,0,STL,
-19,3141,1,12:08,,10,4,39,CIN 30,0,STL,
-19,3162,2,11:38,,7,4,38,CIN 27,0,STL,
-19,3245,4,10:01,,6,4,40,CIN 26,0,STL,
-19,3106,1,12:34,,10,4,36,STL 45,0,STL,
-19,3221,3,10:33,,18,4,40,CIN 38,0,STL,
-22,3809,3,02:00,,6,4,7,CIN 27,0,CIN,
-22,3771,2,02:20,,8,4,4,CIN 25,0,CIN,
-22,3792,0,02:00,,0,4,4,,0,,
-22,3833,0,01:52,,0,4,7,,0,,TIMEOUT
-22,3746,1,03:02,,10,4,2,CIN 23,0,CIN,
-22,3850,4,01:52,,3,4,7,CIN 30,0,CIN,PUNT
-12,2304,4,08:44,,8,3,12,STL 35,0,STL,PUNT
-12,2239,1,10:14,,10,3,2,STL 33,0,STL,
-12,2258,2,09:30,,18,3,12,STL 25,0,STL,
-12,2282,3,08:50,,8,3,12,STL 35,0,STL,
-12,2187,2,11:41,,9,3,8,STL 24,0,STL,
-12,2166,1,12:16,,10,3,1,STL 23,0,STL,
-12,2211,3,10:59,,2,3,10,STL 31,0,STL,
-16,2723,3,03:01,,2,3,9,CIN 36,0,CIN,
-16,2744,4,02:18,,1,3,9,CIN 37,0,CIN,PUNT
-16,2691,2,03:33,,6,3,8,CIN 32,0,CIN,
-16,2670,1,04:07,,10,3,4,CIN 28,0,CIN,
-7,1351,2,09:44,,3,2,80,STL 27,0,STL,
-7,1327,1,10:10,,10,2,7,STL 20,0,STL,
-7,1308,0,10:10,,0,2,0,CIN 35,0,CIN,KICKOFF
-7,1414,0,08:29,,0,2,80,CIN 15,1,STL,XP
-7,1376,1,09:13,,10,2,75,CIN 13,0,STL,
-7,1397,2,08:34,,2,2,80,CIN 5,1,STL,TD
-3,394,3,09:09,,10,1,16,STL 20,0,STL,
-3,331,0,09:18,,0,1,0,CIN 35,0,CIN,KICKOFF
-3,644,4,04:51,,13,1,24,STL 44,0,STL,PUNT
-3,484,3,07:27,,1,1,27,STL 45,0,STL,
-3,350,1,09:18,,10,1,0,STL 20,0,STL,
-3,613,4,05:06,,8,1,24,STL 49,0,STL,PENALTY
-3,443,2,08:01,,8,1,25,STL 38,0,STL,
-3,505,1,06:47,,10,1,31,STL 47,0,STL,
-3,526,2,06:02,,6,1,29,CIN 49,0,STL,
-3,582,4,05:06,,3,1,24,CIN 46,0,STL,PENALTY
-3,372,2,09:13,,10,1,0,STL 20,0,STL,
-3,547,3,05:23,,8,1,34,STL 49,0,STL,
-3,418,1,08:34,,10,1,18,STL 36,0,STL,
-3,467,0,07:27,,0,1,25,,0,,TIMEOUT
-17,2919,0,,,0,3,47,,0,,
-17,2956,2,14:32,,6,4,51,CIN 44,0,STL,INT
-17,2806,2,02:00,,10,3,7,STL 5,0,STL,
-17,2780,1,02:05,,10,3,0,STL 5,0,STL,
-17,2884,1,00:22,,10,3,47,STL 38,0,STL,PENALTY
-17,2935,1,15:00,,10,4,51,CIN 48,0,STL,
-17,2860,1,00:56,,10,3,33,STL 27,0,STL,
-17,2830,3,01:19,,3,3,22,STL 12,0,STL,
-4,726,3,03:35,,5,1,5,CIN 25,0,CIN,
-4,665,1,04:41,,10,1,2,CIN 20,0,CIN,
-4,748,4,03:29,,5,1,5,CIN 25,0,CIN,PUNT
-4,705,2,04:18,,8,1,5,CIN 22,0,CIN,
-2,271,3,10:04,,3,1,53,STL 24,0,CIN,
-2,209,1,11:24,,10,1,35,STL 31,0,CIN,
-2,254,0,10:04,,0,1,39,,0,,TIMEOUT
-2,230,2,10:50,,7,1,39,STL 28,0,CIN,
-2,315,0,09:18,,0,1,63,STL 15,1,CIN,XP
-2,143,1,13:06,,10,1,15,CIN 37,0,CIN,
-2,295,1,09:23,,10,1,63,STL 10,1,CIN,TD
-2,164,1,12:25,,10,1,17,STL 48,0,CIN,
-2,185,2,11:55,,8,1,63,STL 46,0,CIN,
-15,2623,3,04:22,,2,3,8,STL 28,0,STL,
-15,2594,2,04:53,,7,3,8,STL 23,0,STL,
-15,2645,4,04:17,,2,3,8,STL 28,0,STL,PUNT
-15,2573,1,05:20,,10,3,3,STL 20,0,STL,
-15,2554,0,05:20,,0,3,8,CIN 35,0,CIN,KICKOFF
+20,3381,3,06:35,(6:35) (Shotgun) A.Dalton pass incomplete deep left to M.Jones.,3,4,38,STL 36,0,CIN,
+20,3420,4,06:31,(6:31) (Shotgun) A.Dalton pass short left to R.Burkhead to STL 35 for 1 yard (J.Laurinaitis).,3,4,39,STL 36,0,CIN,
+20,3360,2,07:21,(7:21) G.Bernard right tackle to STL 36 for 2 yards (M.Barron).,5,4,38,STL 38,0,CIN,
+20,3403,0,06:31,Timeout #1 by CIN at 06:31.,0,4,38,,0,,TIMEOUT
+20,3336,1,08:04,(8:04) J.Hill left end to STL 38 for 5 yards (A.Donald; J.Laurinaitis). CIN-J.Hill was injured during the play.,10,4,36,STL 43,0,CIN,
+20,3267,1,09:57,(9:57) (Shotgun) A.Dalton pass short right to R.Hewitt to CIN 34 for 8 yards (A.Ayers; T.McDonald).,10,4,8,CIN 26,0,CIN,
+20,3312,1,08:46,(8:46) A.Dalton pass short right to M.Jones to STL 43 for 12 yards (M.Roberson).,10,4,31,CIN 45,0,CIN,
+20,3291,2,09:28,(9:28) J.Hill left tackle to CIN 45 for 11 yards (M.Barron).,2,4,19,CIN 34,0,CIN,
+21,3563,1,04:48,(4:48) (Shotgun) N.Foles pass short left to T.Mason to CIN 40 for 1 yard (R.Maualuga).,10,4,24,CIN 41,0,STL,
+21,3701,4,03:10,"(3:10) (Shotgun) PENALTY on STL-N.Foles, Delay of Game, 5 yards, enforced at CIN 18 - No Play.",10,4,41,CIN 18,0,STL,PENALTY
+21,3587,2,04:23,(4:23) (Shotgun) N.Foles pass short middle to T.Mason to CIN 30 for 10 yards (V.Rey) [G.Atkins].,9,4,34,CIN 40,0,STL,
+21,3444,1,06:25,(6:25) {change of possesion changed the yard line} (Shotgun) B.Cunningham left guard pushed ob at STL 44 for 8 yards (D.Kirkpatrick).,10,4,12,STL 36,0,STL,
+21,3635,1,03:27,(3:27) (Shotgun) N.Foles pass incomplete deep left to K.Britt (J.Shaw).,10,4,46,CIN 18,0,STL,
+21,3517,2,05:16,(5:16) (Shotgun) N.Foles pass incomplete short middle to L.Kendricks.,5,4,17,CIN 47,0,STL,
+21,3493,1,05:44,(5:44) (Shotgun) N.Foles pass short right to B.Cunningham to CIN 47 for 5 yards (V.Rey; W.Gilberry).,10,4,17,STL 48,0,STL,
+21,3469,2,06:06,(6:06) (Shotgun) N.Foles pass short right to L.Kendricks to STL 48 for 4 yards (V.Rey).,2,4,12,STL 44,0,STL,
+21,3724,4,03:10,(3:10) (Shotgun) N.Foles pass incomplete deep middle to W.Welker (L.Hall) [C.Dunlap].,15,4,41,CIN 23,0,STL,
+21,3611,1,03:50,(3:50) (Shotgun) N.Foles pass short middle to K.Britt to CIN 18 for 12 yards (J.Shaw).,10,4,46,CIN 30,0,STL,
+21,3679,3,03:15,(3:15) (Shotgun) N.Foles pass incomplete short left to B.Cunningham [W.Gilberry].,10,4,46,CIN 18,0,STL,
+21,3539,3,05:14,(5:14) (Shotgun) N.Foles pass short middle to W.Welker to CIN 41 for 6 yards (L.Hall) [C.Dunlap].,5,4,23,CIN 47,0,STL,
+21,3657,2,03:20,(3:20) (Shotgun) N.Foles pass incomplete short middle to B.Cunningham [C.Dunlap].,10,4,46,CIN 18,0,STL,
+22,3771,2,02:20,(2:20) R.Burkhead right tackle to CIN 27 for 2 yards (J.Laurinaitis; A.Ayers).,8,4,4,CIN 25,0,CIN,
+22,3809,3,02:00,(2:00) A.McCarron pass short right to R.Burkhead to CIN 30 for 3 yards (J.Laurinaitis).,6,4,7,CIN 27,0,CIN,
+22,3833,0,01:52,Timeout #1 by STL at 01:52.,0,4,7,,0,,TIMEOUT
+22,3746,1,03:02,(3:02) {McCarron new CIN QB} R.Burkhead left guard to CIN 25 for 2 yards (N.Fairley).,10,4,2,CIN 23,0,CIN,
+22,3792,0,02:00,Two-Minute Warning,0,4,4,,0,,
+22,3850,4,01:52,"(1:52) K.Huber punts 50 yards to STL 20, Center-C.Harris. W.Welker to STL 33 for 13 yards (B.Tate; T.Kroft).",3,4,7,CIN 30,0,CIN,PUNT
+23,4060,1,00:08,(:08) (Shotgun) S.Mannion pass short right to B.Marquez to CIN 36 for 3 yards (D.Kirkpatrick).,10,4,31,CIN 39,0,STL,
+23,4084,0,00:00,END GAME,0,4,31,,0,,
+23,3927,1,00:54,(:54) (Shotgun) S.Mannion pass short left to L.Kendricks to CIN 48 for 2 yards (S.Williams).,10,4,19,50,0,STL,
+23,3903,2,01:18,(1:18) (Shotgun) S.Mannion pass short middle to L.Kendricks to 50 for 11 yards (L.Hall; V.Rey).,4,4,17,STL 39,0,STL,
+23,3951,0,00:47,Timeout #2 by STL at 00:47.,0,4,19,,0,,TIMEOUT
+23,4043,0,00:08,Timeout #3 by STL at 00:08.,0,4,28,,0,,TIMEOUT
+23,3875,1,01:40,(1:40) {Mannion new STL QB} (Shotgun) S.Mannion pass short middle to T.Mason to STL 39 for 6 yards (J.Shaw).,10,4,19,STL 33,0,STL,
+23,4014,4,00:17,(:17) (Shotgun) S.Mannion pass short left to W.Welker to CIN 39 for 6 yards (L.Hall).,5,4,28,CIN 45,0,STL,
+23,3968,2,00:47,(:47) (Shotgun) S.Mannion pass incomplete short right to B.Marquez.,8,4,19,CIN 48,0,STL,
+23,3990,3,00:42,(:42) (Shotgun) S.Mannion pass short right to B.Marquez to CIN 45 for 3 yards (D.Kirkpatrick).,8,4,22,CIN 48,0,STL,
+1,99,3,13:49,(13:49) T.Gurley right end to STL 26 for -3 yards (G.Iloka).,1,1,6,STL 29,0,STL,
+1,54,1,15:00,(15:00) T.Gurley left guard to STL 22 for 2 yards (C.Dunlap; R.Maualuga).,10,1,2,STL 20,0,STL,
+1,75,2,14:26,(14:26) (Shotgun) N.Foles pass short right to T.Austin pushed ob at STL 29 for 7 yards (D.Kirkpatrick).,8,1,9,STL 22,0,STL,
+1,120,4,13:19,"(13:19) J.Hekker punts 37 yards to CIN 37, Center-J.McQuaide, downed by STL-C.Harkey.",4,1,6,STL 26,0,STL,PUNT
+1,35,0,15:00,"M.Nugent kicks 65 yards from CIN 35 to end zone, Touchback.",0,1,0,CIN 35,0,CIN,KICKOFF
+3,484,3,07:27,(7:27) N.Foles right end to STL 47 for 2 yards (A.Hawk; V.Burfict).,1,1,27,STL 45,0,STL,
+3,582,4,05:06,"(5:06) (Punt formation) PENALTY on STL-M.Alexander, False Start, 5 yards, enforced at CIN 46 - No Play.",3,1,24,CIN 46,0,STL,PENALTY
+3,443,2,08:01,(8:01) (Shotgun) N.Foles pass short left to T.Austin to STL 45 for 7 yards (D.Peko).,8,1,25,STL 38,0,STL,
+3,613,4,05:06,"(5:06) (Punt formation) PENALTY on STL-C.Bryant, False Start, 5 yards, enforced at STL 49 - No Play.",8,1,24,STL 49,0,STL,PENALTY
+3,467,0,07:27,Timeout #2 by CIN at 07:27.,0,1,25,,0,,TIMEOUT
+3,350,1,09:18,(9:18) N.Foles pass incomplete short right to J.Cook.,10,1,0,STL 20,0,STL,
+3,331,0,09:18,"M.Nugent kicks 65 yards from CIN 35 to end zone, Touchback.",0,1,0,CIN 35,0,CIN,KICKOFF
+3,526,2,06:02,(6:02) T.Gurley up the middle to STL 49 for -2 yards (G.Atkins).,6,1,29,CIN 49,0,STL,
+3,547,3,05:23,"(5:23) (Shotgun) N.Foles pass short middle to B.Quick to CIN 46 for 5 yards (A.Jones). Penalty on STL-J.Cook, Illegal Motion, declined.",8,1,34,STL 49,0,STL,
+3,394,3,09:09,(9:09) (Shotgun) N.Foles pass short middle to J.Cook to STL 36 for 16 yards (V.Rey; G.Iloka).,10,1,16,STL 20,0,STL,
+3,505,1,06:47,(6:47) T.Gurley left end to CIN 49 for 4 yards (V.Burfict).,10,1,31,STL 47,0,STL,
+3,372,2,09:13,(9:13) N.Foles pass incomplete short left to K.Britt.,10,1,0,STL 20,0,STL,
+3,418,1,08:34,(8:34) T.Austin right end pushed ob at STL 38 for 2 yards (D.Kirkpatrick). {End around},10,1,18,STL 36,0,STL,
+3,644,4,04:51,"(4:51) J.Hekker punts 56 yards to end zone, Center-J.McQuaide, Touchback.",13,1,24,STL 44,0,STL,PUNT
+2,143,1,13:06,(13:06) J.Hill left guard to STL 48 for 15 yards (M.Roberson; R.McLeod).,10,1,15,CIN 37,0,CIN,
+2,209,1,11:24,(11:24) J.Hill right tackle to STL 28 for 3 yards (A.Ayers).,10,1,35,STL 31,0,CIN,
+2,315,0,09:18,"M.Nugent extra point is GOOD, Center-C.Harris, Holder-K.Huber.",0,1,63,STL 15,1,CIN,XP
+2,271,3,10:04,(10:04) (Shotgun) A.Dalton pass short middle to A.Green to STL 10 for 14 yards (M.Roberson; J.Laurinaitis).,3,1,53,STL 24,0,CIN,
+2,185,2,11:55,(11:55) A.Dalton pass short middle to T.Eifert pushed ob at STL 31 for 15 yards (T.McDonald).,8,1,63,STL 46,0,CIN,
+2,164,1,12:25,(12:25) G.Bernard right tackle to STL 46 for 2 yards (A.Ayers).,10,1,17,STL 48,0,CIN,
+2,295,1,09:23,"(9:23) (Shotgun) A.Dalton pass short left to A.Green for 10 yards, TOUCHDOWN.",10,1,63,STL 10,1,CIN,TD
+2,230,2,10:50,(10:50) (Shotgun) A.Dalton pass short right to M.Jones to STL 24 for 4 yards (M.Roberson).,7,1,39,STL 28,0,CIN,
+2,254,0,10:04,Timeout #1 by CIN at 10:04.,0,1,39,,0,,TIMEOUT
+5,810,2,02:37,(2:37) (Shotgun) N.Foles pass short right to T.Mason pushed ob at CIN 47 for 3 yards (D.Kirkpatrick).,12,1,1,50,0,STL,
+5,856,4,02:08,"(2:08) J.Hekker punts 35 yards to CIN 12, Center-J.McQuaide, fair catch by B.Tate.",9,1,1,CIN 47,0,STL,PUNT
+5,789,1,03:15,(3:15) T.Mason right tackle to 50 for -2 yards (G.Atkins).,10,1,-2,CIN 48,0,STL,
+5,834,3,02:13,(2:13) (Shotgun) N.Foles pass incomplete short middle to K.Britt (D.Kirkpatrick) [G.Atkins].,9,1,1,CIN 47,0,STL,
+4,726,3,03:35,(3:35) (Shotgun) A.Dalton pass incomplete short right to T.Eifert (R.McLeod).,5,1,5,CIN 25,0,CIN,
+4,705,2,04:18,(4:18) J.Hill right guard to CIN 25 for 3 yards (M.Barron).,8,1,5,CIN 22,0,CIN,
+4,665,1,04:41,(4:41) (Shotgun) A.Dalton pass short left to A.Green to CIN 22 for 2 yards (J.Jenkins).,10,1,2,CIN 20,0,CIN,
+4,748,4,03:29,"(3:29) K.Huber punts 47 yards to STL 28, Center-C.Harris. T.Austin pushed ob at STL 37 for 9 yards (S.Williams). PENALTY on CIN-S.Williams, Unnecessary Roughness, 15 yards, enforced at STL 37.",5,1,5,CIN 25,0,CIN,PUNT
+7,1327,1,10:10,(10:10) (Shotgun) N.Foles pass short right to J.Cook pushed ob at STL 27 for 7 yards (V.Burfict).,10,2,7,STL 20,0,STL,
+7,1351,2,09:44,(9:44) (Shotgun) Direct snap to T.Gurley.  T.Austin right end pushed ob at CIN 13 for 60 yards (D.Kirkpatrick).,3,2,80,STL 27,0,STL,
+7,1308,0,10:10,"M.Nugent kicks 65 yards from CIN 35 to end zone, Touchback.",0,2,0,CIN 35,0,CIN,KICKOFF
+7,1376,1,09:13,(9:13) T.Gurley right guard to CIN 5 for 8 yards (B.Thompson; D.Peko).,10,2,75,CIN 13,0,STL,
+7,1397,2,08:34,"(8:34) T.Austin right end for 5 yards, TOUCHDOWN. {End around}",2,2,80,CIN 5,1,STL,TD
+7,1414,0,08:29,"Z.Hocker extra point is GOOD, Center-J.McQuaide, Holder-J.Hekker.",0,2,80,CIN 15,1,STL,XP
+6,997,1,00:48,(:48) G.Bernard right guard to CIN 26 for 3 yards (J.Laurinaitis).,10,1,14,CIN 23,0,CIN,
+6,961,4,01:03,"(1:03) K.Huber punts 51 yards to STL 31, Center-C.Harris. T.Austin pushed ob at STL 30 for -1 yards (S.Williams). PENALTY on STL-C.Reynolds, Running Into the Kicker, 5 yards, enforced at CIN 18 - No Play.",4,1,11,CIN 18,0,CIN,PENALTY
+6,905,2,01:56,(1:56) G.Bernard right guard to CIN 12 for no gain (M.Brockers; T.McDonald).,10,1,0,CIN 12,0,CIN,
+6,1155,2,12:25,"(12:25) M.Jones left end to STL 8 for 30 yards (M.Barron; R.McLeod). {Dalton hands off to Benard, Benard flips to M. Jones}",5,2,82,STL 38,0,CIN,
+6,1201,2,11:00,(11:00) (Shotgun) G.Bernard right tackle to STL 3 for 3 yards (R.McLeod; A.Donald).,6,2,85,STL 6,0,CIN,
+6,1049,0,,END QUARTER 1,0,1,35,,0,,
+6,879,1,01:59,(1:59) (Shotgun) A.Dalton pass incomplete short middle to A.Green (E.Sims). {tipped at the line of scrimmage},10,1,0,CIN 12,0,CIN,
+6,1065,1,15:00,(15:00) (Shotgun) A.Dalton pass short right to M.Sanu to STL 45 for 8 yards (A.Ayers).,10,2,43,CIN 47,0,CIN,
+6,1239,0,10:22,Timeout #1 by STL at 10:22.,0,2,85,,0,,TIMEOUT
+6,1089,2,14:24,(14:24) G.Bernard left tackle to STL 46 for -1 yards (T.McDonald).,2,2,42,STL 45,0,CIN,
+6,1134,1,13:02,(13:02) A.Dalton scrambles left end to STL 38 for 5 yards (A.Ayers).,10,2,50,STL 43,0,CIN,
+6,1256,3,10:22,"(10:22) A.Dalton pass incomplete short right to J.Fisher (D.Bates). Penalty on CIN-C.Boling, Offensive Holding, declined.",3,2,85,STL 3,0,CIN,
+6,1110,3,13:48,(13:48) (Shotgun) A.Dalton pass short right to T.Eifert to STL 43 for 3 yards (T.McDonald).,3,2,45,STL 46,0,CIN,
+6,1018,2,00:18,(:18) (Shotgun) A.Dalton pass deep middle to R.Hewitt to CIN 47 for 21 yards (R.McLeod).,7,1,35,CIN 26,0,CIN,
+6,1180,1,11:39,(11:39) G.Bernard right guard to STL 6 for 2 yards (A.Ayers).,8,2,82,STL 8,0,CIN,
+6,1289,4,10:14,"(10:14) M.Nugent 21 yard field goal is GOOD, Center-C.Harris, Holder-K.Huber.",3,2,85,STL 3,1,CIN,FG
+6,926,3,01:22,"(1:22) (Shotgun) A.Dalton pass short middle to G.Bernard to CIN 18 for 6 yards (M.Barron). Penalty on CIN-K.Zeitler, Illegal Block Above the Waist, declined.",10,1,6,CIN 12,0,CIN,
+6,1222,0,10:22,Timeout #3 by CIN at 10:22.,0,2,85,,0,,TIMEOUT
+9,1777,0,02:00,Two-Minute Warning,0,2,2,,0,,
+9,1708,0,03:27,M.Nugent kicks 60 yards from CIN 35 to STL 5. B.Cunningham to STL 28 for 23 yards (C.Peerman).,0,2,0,CIN 35,0,CIN,KICKOFF
+9,1730,1,03:20,(3:20) (Shotgun) N.Foles pass short left to K.Britt to STL 27 for -1 yards (L.Hall; W.Gilberry).,10,2,2,STL 28,0,STL,
+9,1854,2,01:37,(1:37) (Shotgun) N.Foles pass short left to K.Britt pushed ob at CIN 40 for 18 yards (E.Lamur) [C.Dunlap].,3,2,32,STL 42,0,STL,
+9,1794,3,02:00,"(2:00) (Shotgun) N.Foles sacked at STL 19 for -11 yards (C.Dunlap). PENALTY on CIN-D.Kirkpatrick, Defensive Holding, 5 yards, enforced at STL 30 - No Play.",8,2,7,STL 30,0,STL,PENALTY
+9,1953,1,00:44,(:44) (Shotgun) N.Foles pass deep middle intended for J.Cook INTERCEPTED by R.Nelson (G.Iloka) at CIN 5. R.Nelson to CIN 15 for 10 yards (C.Wichmann).,10,2,49,CIN 23,0,STL,INT
+9,1824,1,01:45,(1:45) (Shotgun) N.Foles pass short left to B.Marquez ran ob at STL 42 for 7 yards [M.Johnson].,10,2,14,STL 35,0,STL,
+9,1929,3,01:05,(1:05) (Shotgun) N.Foles pass short middle to K.Britt to CIN 23 for 14 yards (A.Jones).,7,2,49,CIN 37,0,STL,
+9,1907,2,01:11,(1:11) (Shotgun) N.Foles pass incomplete deep left to B.Quick.,7,2,35,CIN 37,0,STL,
+9,1754,2,02:42,(2:42) (Shotgun) Direct snap to T.Gurley.  T.Gurley up the middle to STL 30 for 3 yards (W.Gilberry; C.Dunlap).,11,2,2,STL 27,0,STL,
+9,1883,1,01:29,(1:29) (Shotgun) N.Foles pass short middle to B.Quick to CIN 37 for 3 yards (V.Rey).,10,2,49,CIN 40,0,STL,
+8,1430,0,08:29,"Z.Hocker kicks 65 yards from STL 35 to end zone, Touchback.",0,2,0,STL 35,0,STL,KICKOFF
+8,1624,2,04:52,(4:52) A.Dalton pass short right to A.Green to STL 31 for 7 yards (J.Jenkins).,7,2,49,STL 38,0,CIN,
+8,1582,2,06:03,(6:03) J.Hill right tackle to STL 41 for 12 yards (R.McLeod).,7,2,39,CIN 47,0,CIN,
+8,1603,1,05:32,(5:32) J.Hill left guard to STL 38 for 3 yards (A.Ayers; M.Barron).,10,2,42,STL 41,0,CIN,
+8,1492,2,08:23,(8:23) A.Dalton pass short left to A.Green pushed ob at CIN 30 for 10 yards (J.Jenkins).,10,2,10,CIN 20,0,CIN,
+8,1648,1,04:17,(4:17) A.Dalton pass short left to M.Jones to STL 22 for 9 yards (M.Roberson).,10,2,58,STL 31,0,CIN,
+8,1537,2,07:17,(7:17) A.Dalton pass short middle to J.Hill to CIN 44 for 14 yards (J.Laurinaitis).,10,2,24,CIN 30,0,CIN,
+8,1470,1,08:29,(8:29) A.Dalton pass incomplete deep left to A.Green.,10,2,0,CIN 20,0,CIN,
+8,1692,0,03:27,"M.Nugent extra point is GOOD, Center-C.Harris, Holder-K.Huber.",0,2,80,STL 15,1,CIN,XP
+8,1561,1,06:40,(6:40) J.Hill right tackle to CIN 47 for 3 yards (C.Long; N.Fairley).,10,2,27,CIN 44,0,CIN,
+8,1516,1,07:54,(7:54) J.Hill right tackle to CIN 30 for no gain (W.Hayes; A.Donald).,10,2,10,CIN 30,0,CIN,
+8,1672,2,03:34,"(3:34) A.Dalton pass deep right to T.Eifert for 22 yards, TOUCHDOWN.",1,2,80,STL 22,1,CIN,TD
+11,2056,2,14:29,(14:29) J.Hill right tackle to CIN 28 for 5 yards (J.Laurinaitis).,7,3,8,CIN 23,0,CIN,
+11,2119,2,12:56,(12:56) (Shotgun) J.Hill right guard to CIN 44 for 5 yards (C.Long).,2,3,24,CIN 39,0,CIN,
+11,2035,1,15:00,(15:00) J.Hill left guard to CIN 23 for 3 yards (M.Brockers; C.Long).,10,3,3,CIN 20,0,CIN,
+11,2140,1,12:25,(12:25) (Shotgun) A.Dalton pass deep left intended for M.Jones INTERCEPTED by J.Jenkins at STL 23. J.Jenkins to STL 23 for no gain (M.Jones).,10,3,24,CIN 44,0,CIN,INT
+11,2016,0,15:00,"Z.Hocker kicks 65 yards from STL 35 to end zone, Touchback.",0,3,0,STL 35,0,STL,KICKOFF
+11,2077,3,13:56,(13:56) (Shotgun) G.Bernard right guard to CIN 31 for 3 yards (M.Barron).,2,3,11,CIN 28,0,CIN,
+11,2098,1,13:27,(13:27) (Shotgun) J.Hill up the middle to CIN 39 for 8 yards (J.Laurinaitis).,10,3,19,CIN 31,0,CIN,
+10,2000,0,,END QUARTER 2,0,2,-1,,0,,
+10,1979,1,00:31,(:31) A.Dalton kneels to CIN 14 for -1 yards.,10,2,-1,CIN 15,0,CIN,
+13,2414,0,07:01,"M.Nugent extra point is GOOD, Center-C.Harris, Holder-K.Huber.",0,3,72,STL 15,1,CIN,XP
+13,2329,1,08:32,"(8:32) A.Dalton pass short middle to G.Bernard to STL 27 for 45 yards (M.Roberson). FUMBLES (M.Roberson), recovered by CIN-T.Eifert at STL 20. T.Eifert to STL 20 for no gain (M.Barron).",10,3,72,CIN 28,0,CIN,FUMBLE
+13,2394,2,07:07,"(7:07) (Shotgun) A.Dalton pass deep middle to A.Green for 18 yards, TOUCHDOWN.",8,3,72,STL 18,1,CIN,TD
+13,2373,1,07:42,(7:42) J.Hill up the middle to STL 18 for 2 yards (W.Hayes).,10,3,54,STL 20,0,CIN,
+12,2239,1,10:14,(10:14) N.Foles sacked at STL 25 for -8 yards (G.Atkins).,10,3,2,STL 33,0,STL,
+12,2211,3,10:59,(10:59) N.Foles pass short right to C.Harkey to STL 33 for 2 yards (L.Hall).,2,3,10,STL 31,0,STL,
+12,2282,3,08:50,(8:50) (Shotgun) N.Foles pass incomplete short right to B.Quick (D.Kirkpatrick).,8,3,12,STL 35,0,STL,
+12,2304,4,08:44,"(8:44) J.Hekker punts 50 yards to CIN 15, Center-J.McQuaide. B.Tate to CIN 28 for 13 yards (J.McQuaide; D.Bates). CIN-E.Lamur was injured during the play.",8,3,12,STL 35,0,STL,PUNT
+12,2187,2,11:41,(11:41) (Shotgun) N.Foles pass short right to T.Austin to STL 31 for 7 yards (G.Iloka).,9,3,8,STL 24,0,STL,
+12,2258,2,09:30,(9:30) (Shotgun) N.Foles pass short middle to J.Cook to STL 35 for 10 yards (E.Lamur) [W.Gilberry].,18,3,12,STL 25,0,STL,
+12,2166,1,12:16,(12:16) T.Gurley left end to STL 24 for 1 yard (L.Hall).,10,3,1,STL 23,0,STL,
+15,2594,2,04:53,(4:53) (Shotgun) N.Foles pass short left to K.Britt to STL 28 for 5 yards (A.Jones).,7,3,8,STL 23,0,STL,
+15,2623,3,04:22,(4:22) N.Foles pass incomplete short right to T.Gurley [W.Gilberry].,2,3,8,STL 28,0,STL,
+15,2554,0,05:20,"M.Nugent kicks 65 yards from CIN 35 to end zone, Touchback.",0,3,8,CIN 35,0,CIN,KICKOFF
+15,2573,1,05:20,(5:20) (Shotgun) T.Gurley left guard to STL 23 for 3 yards (G.Iloka).,10,3,3,STL 20,0,STL,
+15,2645,4,04:17,"(4:17) J.Hekker punts 47 yards to CIN 25, Center-J.McQuaide. B.Tate to CIN 28 for 3 yards (C.Harkey).",2,3,8,STL 28,0,STL,PUNT
+14,2467,1,06:52,(6:52) T.Austin right end to STL 7 for -4 yards (C.Dunlap). {End around},10,3,-4,STL 11,0,STL,
+14,2430,0,07:01,"M.Nugent kicks 67 yards from CIN 35 to STL -2. B.Cunningham to STL 37 for 39 yards (T.Kroft; C.Carter). PENALTY on STL-D.Bates, Offensive Holding, 10 yards, enforced at STL 21. {Cunningham credited with 23 return yards due to the penalty}",0,3,-3,CIN 35,0,CIN,KICKOFF
+14,2516,3,05:29,"(5:29) (Shotgun) N.Foles pass short middle intended for B.Marquez INTERCEPTED by L.Hall at STL 19. L.Hall for 19 yards, TOUCHDOWN.",13,3,-3,STL 8,1,STL,TD
+14,2492,2,06:08,(6:08) (Shotgun) N.Foles pass short left to T.Austin to STL 8 for 1 yard (V.Burfict).,14,3,-3,STL 7,0,STL,
+17,2860,1,00:56,(:56) (Shotgun) N.Foles pass short right to T.Mason to STL 38 for 11 yards (R.Nelson).,10,3,33,STL 27,0,STL,
+17,2780,1,02:05,(2:05) (Shotgun) N.Foles pass incomplete short middle to B.Quick (D.Kirkpatrick).,10,3,0,STL 5,0,STL,
+17,2884,1,00:22,"(:22) (Shotgun) N.Foles pass short right to T.Mason to STL 37 for -1 yards (D.Peko). PENALTY on CIN-V.Burfict, Unnecessary Roughness, 15 yards, enforced at STL 37.",10,3,47,STL 38,0,STL,PENALTY
+17,2919,0,,END QUARTER 3,0,3,47,,0,,
+17,2935,1,15:00,(15:00) B.Cunningham left tackle to CIN 44 for 4 yards (V.Burfict).,10,4,51,CIN 48,0,STL,
+17,2956,2,14:32,(14:32) (Shotgun) N.Foles pass deep left intended for K.Britt INTERCEPTED by G.Iloka [C.Carter] at CIN 18. G.Iloka to CIN 18 for no gain (K.Britt).,6,4,51,CIN 44,0,STL,INT
+17,2806,2,02:00,(2:00) (Shotgun) N.Foles pass short middle to T.Mason to STL 12 for 7 yards (D.Kirkpatrick).,10,3,7,STL 5,0,STL,
+17,2830,3,01:19,(1:19) (Shotgun) N.Foles pass short right to K.Britt pushed ob at STL 27 for 15 yards (D.Kirkpatrick).,3,3,22,STL 12,0,STL,
+16,2670,1,04:07,(4:07) J.Hill left end to CIN 32 for 4 yards (M.Barron).,10,3,4,CIN 28,0,CIN,
+16,2723,3,03:01,(3:01) (Shotgun) G.Bernard left end to CIN 37 for 1 yard (E.Sims; M.Barron).,2,3,9,CIN 36,0,CIN,
+16,2744,4,02:18,"(2:18) K.Huber punts 53 yards to STL 10, Center-C.Harris. T.Austin to STL 16 for 6 yards (C.Peerman; T.Kroft). PENALTY on STL-C.Lynch, Offensive Holding, 5 yards, enforced at STL 10. {Austin credited with 0 yard return due to the penalty}",1,3,9,CIN 37,0,CIN,PUNT
+16,2691,2,03:33,(3:33) (Shotgun) J.Hill left guard to CIN 36 for 4 yards (C.Long).,6,3,8,CIN 32,0,CIN,
+19,3106,1,12:34,"(12:34) (Shotgun) N.Foles pass short middle to J.Cook to CIN 30 for 25 yards (R.Nelson). Penalty on CIN-V.Rey, Defensive Holding, declined.",10,4,36,STL 45,0,STL,
+19,3221,3,10:33,(10:33) (Shotgun) N.Foles pass short left to T.Austin to CIN 26 for 12 yards (A.Jones).,18,4,40,CIN 38,0,STL,
+19,3245,4,10:01,(10:01) (Shotgun) N.Foles pass incomplete short middle to K.Britt.,6,4,40,CIN 26,0,STL,
+19,3141,1,12:08,(12:08) (Shotgun) T.Gurley left tackle to CIN 27 for 3 yards (V.Burfict).,10,4,39,CIN 30,0,STL,
+19,3186,3,11:02,"(11:02) (Shotgun) N.Foles pass short right to T.Austin ran ob at CIN 17 for 11 yards. PENALTY on STL-G.Robinson, Offensive Holding, 10 yards, enforced at CIN 28 - No Play.",8,4,28,CIN 28,0,STL,PENALTY
+19,3079,1,13:04,(13:04) (Shotgun) N.Foles pass short middle to T.Gurley to STL 45 for 11 yards (V.Burfict). STL-T.Gurley was injured during the play.,10,4,40,STL 34,0,STL,
+19,3162,2,11:38,(11:38) (Shotgun) N.Foles pass short right to T.Austin to CIN 28 for -1 yards (C.Dunlap; D.Kirkpatrick).,7,4,38,CIN 27,0,STL,
+18,3056,4,13:12,"(13:12) K.Huber punts 43 yards to STL 34, Center-C.Harris, fair catch by T.Austin.",5,4,5,CIN 23,0,CIN,PUNT
+18,2982,1,14:24,(14:24) (Shotgun) G.Bernard right tackle to CIN 19 for 1 yard (M.Longacre; W.Hayes).,10,4,1,CIN 18,0,CIN,
+18,3032,3,13:46,(13:46) (Shotgun) A.Dalton pass short middle to T.Kroft to CIN 23 for 4 yards (M.Longacre).,9,4,5,CIN 19,0,CIN,
+18,3003,2,13:49,(13:49) (Shotgun) A.Dalton pass incomplete short right to G.Bernard.,9,4,1,CIN 19,0,CIN,

@@ -1,183 +1,183 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1913,2,01:21,,10,2,8,SD 11,0,SD,
-9,1937,3,00:57,,2,2,9,SD 19,0,SD,
-9,1958,0,00:53,,0,2,9,,0,,TIMEOUT
-9,1891,1,01:25,,10,2,0,SD 11,0,SD,
-9,1975,4,00:53,,1,2,9,SD 20,0,SD,PUNT
-10,2000,1,00:41,,10,2,-11,CLE 31,0,CLE,
-10,2019,0,,,0,2,-11,,0,,
-20,3616,1,04:49,,10,4,20,CLE 33,0,SD,
-20,3686,3,03:54,,11,4,19,CLE 14,0,SD,
-20,3664,2,04:00,,11,4,19,CLE 14,0,SD,
-20,3640,1,04:42,,10,4,19,CLE 13,0,SD,
-20,3719,4,03:49,,11,4,19,CLE 14,0,SD,FGB
-6,1400,1,06:18,,10,2,40,SD 30,0,CLE,
-6,1291,1,08:59,,10,2,15,CLE 48,0,CLE,
-6,1489,4,04:49,,11,2,39,SD 31,1,CLE,FG
-6,1357,1,07:01,,10,2,39,SD 42,0,CLE,
-6,1312,2,08:26,,13,2,20,CLE 45,0,CLE,
-6,1336,3,07:45,,8,2,28,50,0,CLE,
-6,1426,2,06:11,,10,2,43,SD 30,0,CLE,
-6,1447,3,05:33,,7,2,39,SD 27,0,CLE,
-6,1267,1,09:35,,10,2,18,CLE 30,0,CLE,
-6,1379,2,06:57,,10,2,40,SD 42,0,CLE,
-6,1466,0,04:51,,0,2,39,,0,,TIMEOUT
-18,3390,1,08:46,,10,4,3,SD 31,0,SD,PENALTY
-18,3366,2,09:23,,7,4,13,SD 21,0,SD,
-18,3499,4,06:59,,2,4,21,SD 39,0,SD,PUNT
-18,3449,2,07:36,,1,4,21,SD 40,0,SD,
-18,3425,1,08:24,,20,4,22,SD 21,0,SD,
-18,3478,3,07:32,,1,4,21,SD 40,0,SD,
-18,3345,1,10:05,,10,4,3,SD 18,0,SD,
-1,117,1,12:56,,10,1,71,CLE 13,0,SD,
-1,235,0,10:49,,0,1,75,CLE 15,1,SD,XP
-1,36,0,15:00,,0,1,0,CLE 35,0,CLE,KICKOFF
-1,206,1,10:53,,1,1,75,CLE 1,1,SD,TD
-1,96,2,13:35,,2,1,62,CLE 17,0,SD,
-1,185,4,11:24,,1,1,75,CLE 4,0,SD,
-1,75,1,14:04,,10,1,58,CLE 25,0,SD,
-1,142,2,12:12,,1,1,71,CLE 4,0,SD,
-1,163,3,11:30,,1,1,71,CLE 4,0,SD,
-1,51,1,15:00,,10,1,50,SD 25,0,SD,
-5,1171,1,11:10,,10,2,12,SD 37,0,SD,
-5,1125,2,12:01,,9,2,1,SD 26,0,SD,
-5,1089,0,12:39,,0,2,0,CLE 35,0,CLE,KICKOFF
-5,1147,3,11:55,,9,2,12,SD 26,0,SD,
-5,1104,1,12:39,,10,2,1,SD 25,0,SD,
-5,1217,3,10:20,,2,2,30,SD 45,0,SD,
-5,1241,1,09:46,,10,2,30,CLE 45,0,SD,INT
-5,1193,2,11:06,,10,2,20,SD 37,0,SD,
-13,2685,4,04:09,,3,3,7,CLE 32,0,CLE,PUNT
-13,2606,0,06:04,,0,3,0,SD 35,0,SD,KICKOFF
-13,2621,1,06:04,,10,3,4,CLE 25,0,CLE,
-13,2661,3,04:47,,10,3,7,CLE 25,0,CLE,
-13,2642,2,05:30,,6,3,0,CLE 29,0,CLE,
-21,3933,0,01:52,,0,4,15,,0,,
-21,3910,3,02:02,,7,4,15,CLE 38,0,CLE,
-21,3829,0,02:52,,0,4,13,,0,,TIMEOUT
-21,3803,3,02:59,,6,4,19,CLE 26,0,CLE,
-21,3889,2,02:47,,4,4,16,CLE 41,0,CLE,
-21,3765,2,03:04,,11,4,4,CLE 21,0,CLE,
-21,3950,4,01:52,,8,4,15,CLE 37,0,CLE,PUNT
-21,3872,0,02:47,,0,4,19,,0,,TIMEOUT
-21,3744,1,03:45,,10,4,19,CLE 22,0,CLE,
-21,3786,0,02:59,,0,4,3,,0,,TIMEOUT
-21,3850,1,02:52,,10,4,19,CLE 35,0,CLE,
-11,2057,1,14:55,,10,3,11,CLE 34,0,CLE,
-11,2256,4,11:44,,9,3,57,SD 9,1,CLE,FG
-11,2211,2,12:23,,13,3,59,SD 13,0,CLE,
-11,2081,1,14:13,,10,3,21,CLE 45,0,CLE,
-11,2035,0,15:00,,0,3,57,SD 35,0,SD,KICKOFF
-11,2178,1,12:29,,13,3,53,SD 13,0,CLE,
-11,2232,3,11:44,,7,3,57,SD 7,0,CLE,
-11,2134,1,13:17,,10,3,58,SD 30,0,CLE,
-11,2155,1,13:17,,8,3,53,SD 8,0,CLE,PENALTY
-11,2107,1,13:40,,10,3,36,SD 45,0,CLE,
-14,2776,1,01:59,,10,3,19,SD 44,0,SD,
-14,2842,4,01:45,,10,3,19,SD 44,0,SD,PUNT
-14,2731,2,03:16,,10,3,3,SD 25,0,SD,
-14,2798,2,01:53,,10,3,19,SD 44,0,SD,
-14,2752,3,02:36,,7,3,19,SD 28,0,SD,
-14,2710,1,03:56,,10,3,0,SD 25,0,SD,
-14,2820,3,01:50,,10,3,19,SD 44,0,SD,
-8,1732,0,02:00,,0,2,21,,0,,
-8,1828,2,01:43,,10,2,32,SD 44,0,CLE,
-8,1773,2,01:51,,4,2,32,SD 49,0,CLE,PENALTY
-8,1749,1,02:00,,10,2,27,CLE 45,0,CLE,
-8,1850,3,01:36,,10,2,32,SD 44,0,CLE,
-8,1708,2,02:13,,10,2,21,CLE 24,0,CLE,
-8,1806,1,01:48,,10,2,32,SD 44,0,CLE,
-8,1687,1,02:41,,10,2,0,CLE 24,0,CLE,
-8,1872,4,01:32,,10,2,32,SD 44,0,CLE,PUNT
-19,3591,4,05:37,,18,4,-8,CLE 3,0,CLE,PUNT
-19,3524,1,06:48,,10,4,0,CLE 11,0,CLE,
-19,3545,2,06:10,,10,4,2,CLE 11,0,CLE,
-19,3572,3,05:37,,8,4,-8,CLE 13,0,CLE,
-22,4017,1,01:19,,10,4,18,SD 40,0,SD,
-22,4083,4,01:06,,10,4,43,SD 40,0,SD,
-22,4039,2,01:15,,10,4,18,SD 40,0,SD,
-22,4179,4,00:00,,2,4,51,CLE 27,0,SD,FGM
-22,3993,2,01:25,,4,4,18,SD 28,0,SD,
-22,4061,3,01:11,,10,4,18,SD 40,0,SD,
-22,4155,3,00:28,,13,4,51,CLE 38,0,SD,
-22,3969,1,01:46,,10,4,18,SD 22,0,SD,
-22,4107,1,00:44,,10,4,43,CLE 35,0,SD,
-22,4129,2,00:43,,10,4,51,CLE 35,0,SD,FUMBLE
-12,2524,1,06:43,,1,3,74,CLE 1,0,SD,
-12,2507,0,06:43,,0,3,74,,0,,TIMEOUT
-12,2548,2,06:17,,1,3,74,CLE 1,0,SD,
-12,2451,2,06:55,,8,3,55,CLE 20,0,SD,
-12,2430,1,07:40,,10,3,55,CLE 22,0,SD,
-12,2590,0,06:04,,0,3,75,CLE 15,1,SD,XP
-12,2275,0,10:58,,0,3,0,CLE 35,0,CLE,KICKOFF
-12,2473,3,06:49,,8,3,74,CLE 20,0,SD,PENALTY
-12,2570,3,06:09,,1,3,75,CLE 1,1,SD,TD
-12,2402,2,08:12,,10,3,53,CLE 39,0,SD,
-12,2356,1,08:55,,10,3,36,SD 45,0,SD,
-12,2332,3,09:45,,10,3,20,SD 25,0,SD,
-12,2380,1,08:19,,10,3,36,CLE 39,0,SD,
-12,2311,2,10:32,,9,3,0,SD 26,0,SD,
-12,2290,1,10:56,,10,3,1,SD 25,0,SD,
-16,3167,2,11:54,,10,4,0,SD 19,0,SD,
-16,3189,3,11:49,,10,4,0,SD 19,0,SD,
-16,3223,4,11:29,,10,4,0,SD 19,0,SD,PUNT
-16,3145,1,12:00,,10,4,0,SD 19,0,SD,
-7,1664,4,02:49,,8,2,2,SD 27,0,SD,PUNT
-7,1592,2,03:58,,4,2,7,SD 31,0,SD,
-7,1536,1,04:46,,10,2,-10,SD 25,0,SD,PENALTY
-7,1642,3,02:55,,8,2,2,SD 27,0,SD,
-7,1568,1,04:29,,20,2,6,SD 15,0,SD,
-7,1521,0,04:46,,0,2,0,CLE 35,0,CLE,KICKOFF
-7,1619,3,03:14,,3,2,2,SD 32,0,SD,PENALTY
-3,747,2,03:15,,21,1,50,CLE 28,0,SD,
-3,610,0,05:12,,0,1,0,CLE 35,0,CLE,KICKOFF
-3,652,1,04:29,,10,1,16,SD 40,0,SD,
-3,771,3,02:32,,14,1,50,CLE 21,0,SD,
-3,714,1,03:20,,10,1,47,CLE 17,0,SD,PENALTY
-3,628,1,05:12,,10,1,50,SD 25,0,SD,
-3,795,4,01:54,,18,1,50,CLE 25,1,SD,FG
-3,673,2,03:48,,9,1,50,SD 41,0,SD,PENALTY
-17,3317,4,10:15,,10,4,0,CLE 32,0,CLE,PUNT
-17,3291,3,10:20,,10,4,0,CLE 32,0,CLE,
-17,3272,2,10:50,,10,4,0,CLE 32,0,CLE,
-17,3248,1,11:19,,10,4,0,CLE 32,0,CLE,
-4,829,1,01:49,,10,1,2,CLE 25,0,CLE,
-4,871,1,00:34,,10,1,16,CLE 41,0,CLE,
-4,1056,1,12:42,,4,2,75,SD 4,1,CLE,TD
-4,850,2,01:13,,8,1,16,CLE 27,0,CLE,
-4,999,3,13:32,,4,2,50,SD 42,0,CLE,
-4,1029,1,13:08,,10,2,71,SD 25,0,CLE,
-4,954,1,14:32,,10,2,32,SD 48,0,CLE,
-4,917,0,,,0,1,20,,0,,
-4,1073,0,12:39,,0,2,75,SD 15,1,CLE,XP
-4,978,2,14:05,,5,2,33,SD 43,0,CLE,
-4,814,0,01:49,,0,1,0,SD 35,0,SD,KICKOFF
-4,933,3,15:00,,6,2,27,CLE 45,0,CLE,
-4,893,2,00:28,,10,1,20,CLE 41,0,CLE,
-2,428,4,07:56,,6,1,43,SD 39,0,CLE,
-2,499,3,06:33,,5,1,72,SD 24,0,CLE,
-2,544,2,05:19,,8,1,64,SD 16,0,CLE,PENALTY
-2,577,1,05:16,,8,1,72,SD 8,1,CLE,TD
-2,402,3,08:30,,17,1,33,50,0,CLE,
-2,473,2,06:39,,5,1,48,SD 24,0,CLE,
-2,308,1,10:25,,10,1,54,CLE 43,0,CLE,
-2,594,0,05:12,,0,1,72,SD 15,1,CLE,XP
-2,523,1,05:54,,10,1,56,SD 18,0,CLE,
-2,452,1,07:19,,10,1,72,SD 29,0,CLE,
-2,362,1,09:49,,10,1,21,SD 43,0,CLE,
-2,329,2,09:53,,9,1,72,CLE 44,0,CLE,PENALTY
-2,273,1,10:43,,10,1,72,CLE 28,0,CLE,PENALTY
-2,251,0,10:49,,0,1,0,SD 35,0,SD,KICKOFF
-2,381,2,09:08,,18,1,22,CLE 49,0,CLE,
-15,2901,3,00:18,,12,3,10,CLE 19,0,CLE,
-15,2960,2,14:25,,15,4,4,CLE 26,0,CLE,
-15,3014,1,13:43,,10,4,16,CLE 40,0,CLE,
-15,2941,1,15:00,,10,4,5,CLE 31,0,CLE,
-15,3038,2,13:22,,13,4,15,CLE 37,0,CLE,
-15,2882,2,00:57,,7,3,-2,CLE 24,0,CLE,
-15,2861,1,01:34,,10,3,3,CLE 21,0,CLE,
-15,2925,0,,,0,3,10,,0,,
-15,3062,3,12:36,,14,4,10,CLE 36,0,CLE,PENALTY
-15,3120,4,12:09,,10,4,19,CLE 40,0,CLE,PUNT
-15,2981,3,13:49,,16,4,19,CLE 25,0,CLE,PENALTY
-15,3085,3,12:29,,19,4,19,CLE 31,0,CLE,
+20,3664,2,04:00,(4:00) (Shotgun) P.Rivers pass incomplete short middle to Ty.Williams (J.Taylor).,11,4,19,CLE 14,0,SD,
+20,3719,4,03:49,"(3:49) (Field Goal formation) J.Lambo 32 yard field goal is BLOCKED (J.Meder), Center-M.Windt, Holder-K.Clemens, declared dead at CLE 22.",11,4,19,CLE 14,0,SD,FGB
+20,3686,3,03:54,"(3:54) (Shotgun) P.Rivers pass incomplete short middle to D.Inman. Penalty on SD, Illegal Formation, declined.",11,4,19,CLE 14,0,SD,
+20,3616,1,04:49,(4:49) (Shotgun) P.Rivers pass short left to A.Gates to CLE 13 for 20 yards (C.Kirksey).,10,4,20,CLE 33,0,SD,
+20,3640,1,04:42,(4:42) R.Hillman left end to CLE 14 for -1 yards (T.Williams Sr.).,10,4,19,CLE 13,0,SD,
+21,3786,0,02:59,Timeout #1 by SD at 02:59.,0,4,3,,0,,TIMEOUT
+21,3765,2,03:04,(3:04) I.Crowell right end to CLE 26 for 5 yards (J.Addae).,11,4,4,CLE 21,0,CLE,
+21,3910,3,02:02,(2:02) (Shotgun) C.Kessler sacked at CLE 37 for -1 yards (K.Toomer).,7,4,15,CLE 38,0,CLE,
+21,3744,1,03:45,(3:45) (Shotgun) I.Crowell right guard to CLE 21 for -1 yards (M.Ingram).,10,4,19,CLE 22,0,CLE,
+21,3950,4,01:52,"(1:52) B.Colquitt punts 41 yards to SD 22, Center-C.Hughlett, fair catch by I.Burse.",8,4,15,CLE 37,0,CLE,PUNT
+21,3889,2,02:47,(2:47) I.Crowell right end to CLE 38 for -3 yards (C.Liuget).,4,4,16,CLE 41,0,CLE,
+21,3829,0,02:52,Timeout #2 by SD at 02:52.,0,4,13,,0,,TIMEOUT
+21,3803,3,02:59,(2:59) (Shotgun) C.Kessler pass short left to C.Coleman to CLE 35 for 9 yards (T.Reed).,6,4,19,CLE 26,0,CLE,
+21,3850,1,02:52,(2:52) (Shotgun) D.Johnson Jr. right guard to CLE 41 for 6 yards (K.Toomer).,10,4,19,CLE 35,0,CLE,
+21,3933,0,01:52,Two-Minute Warning,0,4,15,,0,,
+21,3872,0,02:47,Timeout #3 by SD at 02:47.,0,4,19,,0,,TIMEOUT
+22,4129,2,00:43,"(:43) (Shotgun) P.Rivers FUMBLES (Aborted) at CLE 38, and recovers at CLE 38. P.Rivers to CLE 38 for no gain (J.Collins).",10,4,51,CLE 35,0,SD,FUMBLE
+22,4061,3,01:11,(1:11) (Shotgun) P.Rivers pass incomplete short left to Ty.Williams (T.Williams Sr.).,10,4,18,SD 40,0,SD,
+22,4155,3,00:28,(:28) P.Rivers pass short left to A.Gates to CLE 27 for 11 yards (J.Taylor).,13,4,51,CLE 38,0,SD,
+22,4017,1,01:19,(1:19) (Shotgun) P.Rivers pass incomplete short right to D.Inman.,10,4,18,SD 40,0,SD,
+22,4179,4,00:00,"(:00) J.Lambo 45 yard field goal is No Good, Wide Right, Center-M.Windt, Holder-K.Clemens.",2,4,51,CLE 27,0,SD,FGM
+22,4083,4,01:06,(1:06) (Shotgun) P.Rivers pass short middle to A.Gates to CLE 35 for 25 yards (E.Reynolds).,10,4,43,SD 40,0,SD,
+22,4107,1,00:44,(:44) (No Huddle) P.Rivers spiked the ball to stop the clock.,10,4,43,CLE 35,0,SD,
+22,4039,2,01:15,(1:15) (Shotgun) P.Rivers pass incomplete short middle to Ty.Williams.,10,4,18,SD 40,0,SD,
+22,3993,2,01:25,"(1:25) (No Huddle, Shotgun) P.Rivers pass short right to A.Gates ran ob at SD 40 for 12 yards.",4,4,18,SD 28,0,SD,
+22,3969,1,01:46,(1:46) (Shotgun) P.Rivers pass short middle to A.Gates to SD 28 for 6 yards (J.Collins).,10,4,18,SD 22,0,SD,
+1,142,2,12:12,(12:12) K.Farrow right guard to CLE 4 for no gain (E.Ogbah).,1,1,71,CLE 4,0,SD,
+1,206,1,10:53,"(10:53) P.Rivers pass short left to A.Gates for 1 yard, TOUCHDOWN.",1,1,75,CLE 1,1,SD,TD
+1,51,1,15:00,(15:00) (Shotgun) P.Rivers pass deep right to T.Benjamin to CLE 25 for 50 yards (J.Haden).,10,1,50,SD 25,0,SD,
+1,36,0,15:00,"C.Parkey kicks 65 yards from CLE 35 to end zone, Touchback.",0,1,0,CLE 35,0,CLE,KICKOFF
+1,75,1,14:04,(14:04) (Shotgun) K.Farrow right guard to CLE 17 for 8 yards (E.Reynolds).,10,1,58,CLE 25,0,SD,
+1,117,1,12:56,(12:56) K.Farrow left tackle to CLE 4 for 9 yards (J.Meder; C.Kirksey).,10,1,71,CLE 13,0,SD,
+1,185,4,11:24,(11:24) K.Farrow right guard to CLE 1 for 3 yards (C.Kirksey; T.Howard). 79 K Wiggins reported as eligible,1,1,75,CLE 4,0,SD,
+1,235,0,10:49,"J.Lambo extra point is GOOD, Center-M.Windt, Holder-K.Clemens.",0,1,75,CLE 15,1,SD,XP
+1,163,3,11:30,(11:30) (Shotgun) P.Rivers pass incomplete short right to D.Inman.,1,1,71,CLE 4,0,SD,
+1,96,2,13:35,(13:35) K.Farrow left guard to CLE 13 for 4 yards (E.Ogbah). 79 K Wiggins reported as eligible,2,1,62,CLE 17,0,SD,
+3,795,4,01:54,"(1:54) J.Lambo 43 yard field goal is GOOD, Center-M.Windt, Holder-K.Clemens.",18,1,50,CLE 25,1,SD,FG
+3,628,1,05:12,(5:12) (Shotgun) P.Rivers pass short left to T.Benjamin to SD 40 for 15 yards (B.Boddy-Calhoun).,10,1,50,SD 25,0,SD,
+3,771,3,02:32,(2:32) P.Rivers pass short right to K.Farrow to CLE 25 for -4 yards (C.Kirksey) [E.Reynolds].,14,1,50,CLE 21,0,SD,
+3,747,2,03:15,(3:15) (Shotgun) P.Rivers pass short right to K.Farrow to CLE 21 for 7 yards (E.Reynolds).,21,1,50,CLE 28,0,SD,
+3,610,0,05:12,"C.Parkey kicks 65 yards from CLE 35 to end zone, Touchback.",0,1,0,CLE 35,0,CLE,KICKOFF
+3,714,1,03:20,"(3:20) P.Rivers pass incomplete short right [X.Cooper]. PENALTY on SD-P.Rivers, Intentional Grounding, 11 yards, enforced at CLE 17.",10,1,47,CLE 17,0,SD,PENALTY
+3,673,2,03:48,"(3:48) (Shotgun) P.Rivers pass short right to Ty.Williams to CLE 32 for 27 yards (J.Taylor). SD-O.Franklin was injured during the play. His return is Probable.  PENALTY on CLE-J.Taylor, Unnecessary Roughness, 15 yards, enforced at CLE 32.",9,1,50,SD 41,0,SD,PENALTY
+3,652,1,04:29,(4:29) K.Farrow right guard to SD 41 for 1 yard (C.Kirksey).,10,1,16,SD 40,0,SD,
+2,308,1,10:25,(10:25) I.Crowell left guard to CLE 44 for 1 yard (T.Williams; D.Perryman).,10,1,54,CLE 43,0,CLE,
+2,329,2,09:53,"(9:53) (Shotgun) R.Griffin pass incomplete short left to T.Pryor Sr.. PENALTY on SD-C.Hayward, Defensive Pass Interference, 13 yards, enforced at CLE 44 - No Play.",9,1,72,CLE 44,0,CLE,PENALTY
+2,594,0,05:12,"C.Parkey extra point is GOOD, Center-C.Hughlett, Holder-B.Colquitt.",0,1,72,SD 15,1,CLE,XP
+2,428,4,07:56,(7:56) (Shotgun) R.Griffin pass short right to G.Barnidge to SD 29 for 10 yards (D.Lowery).,6,1,43,SD 39,0,CLE,
+2,452,1,07:19,(7:19) (Shotgun) R.Griffin left guard to SD 24 for 5 yards (J.Brown). Read Option to 34 I Crowell,10,1,72,SD 29,0,CLE,
+2,523,1,05:54,(5:54) (Shotgun) D.Johnson Jr. right tackle to SD 16 for 2 yards (R.Carrethers).,10,1,56,SD 18,0,CLE,
+2,577,1,05:16,"(5:16) I.Crowell right end for 8 yards, TOUCHDOWN.",8,1,72,SD 8,1,CLE,TD
+2,381,2,09:08,(9:08) I.Crowell left guard to 50 for 1 yard (T.Williams).,18,1,22,CLE 49,0,CLE,
+2,273,1,10:43,"(10:43) R.Griffin pass short left to I.Crowell to CLE 24 for -4 yards (D.Square). PENALTY on SD-D.Square, Face Mask (15 Yards), 15 yards, enforced at CLE 28 - No Play.",10,1,72,CLE 28,0,CLE,PENALTY
+2,402,3,08:30,(8:30) (Shotgun) R.Griffin scrambles left end ran ob at SD 39 for 11 yards (T.Reed).,17,1,33,50,0,CLE,
+2,544,2,05:19,"(5:19) (Shotgun) R.Griffin pass incomplete short middle to A.Hawkins [D.Perryman]. PENALTY on SD-D.Perryman, Roughing the Passer, 8 yards, enforced at SD 16 - No Play.",8,1,64,SD 16,0,CLE,PENALTY
+2,473,2,06:39,(6:39) R.Griffin pass incomplete short left to T.Pryor Sr. (C.Hayward).,5,1,48,SD 24,0,CLE,
+2,251,0,10:49,J.Lambo kicks 62 yards from SD 35 to CLE 3. M.Alford to CLE 28 for 25 yards (T.Reed).,0,1,0,SD 35,0,SD,KICKOFF
+2,362,1,09:49,(9:49) (Shotgun) R.Griffin sacked at CLE 49 for -8 yards (D.Square).,10,1,21,SD 43,0,CLE,
+2,499,3,06:33,(6:33) (Shotgun) R.Griffin pass short middle to G.Barnidge to SD 18 for 6 yards (T.Reed) [K.Emanuel].,5,1,72,SD 24,0,CLE,
+5,1147,3,11:55,(11:55) (Shotgun) P.Rivers pass short right to A.Gates to SD 37 for 11 yards (E.Ogbah).,9,2,12,SD 26,0,SD,
+5,1171,1,11:10,(11:10) P.Rivers pass incomplete short left to A.Gates.,10,2,12,SD 37,0,SD,
+5,1193,2,11:06,(11:06) (Shotgun) P.Rivers pass short middle to A.Gates to SD 45 for 8 yards (C.Kirksey).,10,2,20,SD 37,0,SD,
+5,1125,2,12:01,(12:01) P.Rivers pass incomplete deep left to Ty.Williams [J.Meder].,9,2,1,SD 26,0,SD,
+5,1089,0,12:39,"C.Parkey kicks 65 yards from CLE 35 to end zone, Touchback.",0,2,0,CLE 35,0,CLE,KICKOFF
+5,1241,1,09:46,(9:46) (Shotgun) P.Rivers pass deep left intended for A.Gates INTERCEPTED by J.Taylor at CLE 13. J.Taylor to CLE 30 for 17 yards (C.Hairston).,10,2,30,CLE 45,0,SD,INT
+5,1104,1,12:39,(12:39) R.Hillman right tackle to SD 26 for 1 yard (E.Reynolds; J.Haden).,10,2,1,SD 25,0,SD,
+5,1217,3,10:20,(10:20) (Shotgun) P.Rivers pass short left to T.Benjamin to CLE 45 for 10 yards (B.Boddy-Calhoun).,2,2,30,SD 45,0,SD,
+4,893,2,00:28,(:28) (Shotgun) R.Griffin pass short middle to D.Johnson Jr. to CLE 45 for 4 yards (D.Perryman).,10,1,20,CLE 41,0,CLE,
+4,850,2,01:13,(1:13) (Shotgun) I.Crowell right tackle to CLE 41 for 14 yards (D.Lowery).,8,1,16,CLE 27,0,CLE,
+4,1056,1,12:42,"(12:42) (Shotgun) I.Crowell right guard for 4 yards, TOUCHDOWN.",4,2,75,SD 4,1,CLE,TD
+4,1029,1,13:08,(13:08) (Shotgun) R.Griffin pass deep left to S.DeValve to SD 4 for 21 yards (D.Stuckey). CLE-S.DeValve was injured during the play. His return is Probable.,10,2,71,SD 25,0,CLE,
+4,999,3,13:32,(13:32) (Shotgun) R.Griffin pass short right to D.Johnson Jr. to SD 25 for 17 yards (T.Reed). SD-D.Perryman was injured during the play. His return is Probable. SD-J.Addae was injured during the play. His return is Questionable.,4,2,50,SD 42,0,CLE,
+4,954,1,14:32,(14:32) R.Griffin pass short right to I.Crowell to SD 43 for 5 yards (J.Brown).,10,2,32,SD 48,0,CLE,
+4,871,1,00:34,(:34) (Shotgun) R.Griffin pass incomplete deep left to C.Coleman.,10,1,16,CLE 41,0,CLE,
+4,829,1,01:49,(1:49) (Shotgun) I.Crowell right guard to CLE 27 for 2 yards (J.Brown; J.Bosa).,10,1,2,CLE 25,0,CLE,
+4,933,3,15:00,(15:00) (Shotgun) R.Griffin scrambles left end to SD 48 for 7 yards (K.Emanuel).,6,2,27,CLE 45,0,CLE,
+4,917,0,,END QUARTER 1,0,1,20,,0,,
+4,978,2,14:05,(14:05) (Shotgun) I.Crowell right tackle to SD 42 for 1 yard (J.Addae).,5,2,33,SD 43,0,CLE,
+4,814,0,01:49,"J.Lambo kicks 65 yards from SD 35 to end zone, Touchback.",0,1,0,SD 35,0,SD,KICKOFF
+4,1073,0,12:39,"C.Parkey extra point is GOOD, Center-C.Hughlett, Holder-B.Colquitt.",0,2,75,SD 15,1,CLE,XP
+7,1619,3,03:14,"(3:14) (Shotgun) PENALTY on SD-S.Pulley, False Start, 5 yards, enforced at SD 32 - No Play.",3,2,2,SD 32,0,SD,PENALTY
+7,1642,3,02:55,(2:55) (Shotgun) P.Rivers pass incomplete deep left to T.Benjamin [J.Collins]. SD-J.Barksdale was injured during the play. His return is Probable.,8,2,2,SD 27,0,SD,
+7,1568,1,04:29,(4:29) P.Rivers pass short right to K.Farrow ran ob at SD 31 for 16 yards (J.Collins).,20,2,6,SD 15,0,SD,
+7,1536,1,04:46,"(4:46) K.Farrow left guard to SD 28 for 3 yards (D.Shelton). PENALTY on SD-D.Fluker, Offensive Holding, 10 yards, enforced at SD 25 - No Play.",10,2,-10,SD 25,0,SD,PENALTY
+7,1521,0,04:46,"C.Parkey kicks 65 yards from CLE 35 to end zone, Touchback.",0,2,0,CLE 35,0,CLE,KICKOFF
+7,1592,2,03:58,(3:58) K.Farrow right guard to SD 32 for 1 yard (C.Kirksey).,4,2,7,SD 31,0,SD,
+7,1664,4,02:49,"(2:49) (Punt formation) D.Kaser punts 49 yards to CLE 24, Center-M.Windt, fair catch by M.Alford.",8,2,2,SD 27,0,SD,PUNT
+6,1400,1,06:18,(6:18) (Shotgun) R.Griffin pass incomplete deep left to C.Coleman.,10,2,40,SD 30,0,CLE,
+6,1312,2,08:26,(8:26) (Shotgun) R.Griffin pass short left to G.Barnidge to 50 for 5 yards (D.Lowery).,13,2,20,CLE 45,0,CLE,
+6,1426,2,06:11,(6:11) (Shotgun) I.Crowell right guard to SD 27 for 3 yards (D.Lowery).,10,2,43,SD 30,0,CLE,
+6,1267,1,09:35,(9:35) R.Griffin pass short middle to T.Pryor Sr. to CLE 48 for 18 yards (A.Phillips).,10,2,18,CLE 30,0,CLE,
+6,1336,3,07:45,(7:45) (Shotgun) R.Griffin scrambles up the middle to SD 42 for 8 yards (J.Brown).,8,2,28,50,0,CLE,
+6,1357,1,07:01,(7:01) (Shotgun) R.Griffin pass incomplete short middle to I.Crowell.,10,2,39,SD 42,0,CLE,
+6,1447,3,05:33,(5:33) (Shotgun) R.Griffin sacked at SD 31 for -4 yards (sack split by J.Brown and K.Emanuel).,7,2,39,SD 27,0,CLE,
+6,1466,0,04:51,Timeout #1 by CLE at 04:51.,0,2,39,,0,,TIMEOUT
+6,1379,2,06:57,(6:57) (Shotgun) R.Griffin left guard to SD 30 for 12 yards (D.Lowery). Read Option to 34 I Crowell,10,2,40,SD 42,0,CLE,
+6,1489,4,04:49,"(4:49) (Field Goal formation) C.Parkey 49 yard field goal is GOOD, Center-C.Hughlett, Holder-B.Colquitt. Penalty on SD, Illegal Formation, declined.",11,2,39,SD 31,1,CLE,FG
+6,1291,1,08:59,(8:59) D.Johnson Jr. left end to CLE 45 for -3 yards (J.Addae).,10,2,15,CLE 48,0,CLE,
+9,1975,4,00:53,"(:53) D.Kaser punts 57 yards to CLE 23, Center-M.Windt. M.Alford to CLE 31 for 8 yards (J.Perry).",1,2,9,SD 20,0,SD,PUNT
+9,1913,2,01:21,(1:21) (Shotgun) P.Rivers pass short right to D.Inman to SD 19 for 8 yards (J.Haden).,10,2,8,SD 11,0,SD,
+9,1937,3,00:57,"(:57) (No Huddle, Shotgun) R.Hillman right end to SD 20 for 1 yard (C.Johnson; E.Ogbah).",2,2,9,SD 19,0,SD,
+9,1891,1,01:25,(1:25) (Shotgun) P.Rivers pass incomplete short right to R.Hillman.,10,2,0,SD 11,0,SD,
+9,1958,0,00:53,Timeout #2 by CLE at 00:53.,0,2,9,,0,,TIMEOUT
+8,1806,1,01:48,(1:48) (Shotgun) R.Griffin pass incomplete short left to R.Higgins.,10,2,32,SD 44,0,CLE,
+8,1828,2,01:43,(1:43) (Shotgun) R.Griffin pass incomplete deep right to T.Pryor Sr..,10,2,32,SD 44,0,CLE,
+8,1773,2,01:51,"(1:51) (Shotgun) R.Griffin pass incomplete short left to T.Pryor Sr.. PENALTY on SD-M.Ingram, Illegal Use of Hands, 5 yards, enforced at SD 49 - No Play.",4,2,32,SD 49,0,CLE,PENALTY
+8,1708,2,02:13,"(2:13) (No Huddle, Shotgun) R.Griffin pass short right to A.Hawkins to CLE 45 for 21 yards (J.Brown).",10,2,21,CLE 24,0,CLE,
+8,1732,0,02:00,Two-Minute Warning,0,2,21,,0,,
+8,1850,3,01:36,(1:36) (Shotgun) R.Griffin pass incomplete short left to G.Barnidge [J.Bosa].,10,2,32,SD 44,0,CLE,
+8,1872,4,01:32,"(1:32) (Punt formation) B.Colquitt punts 33 yards to SD 11, Center-C.Hughlett, fair catch by I.Burse.",10,2,32,SD 44,0,CLE,PUNT
+8,1749,1,02:00,(2:00) (Shotgun) R.Griffin pass short left to C.Coleman to SD 49 for 6 yards (J.Brown).,10,2,27,CLE 45,0,CLE,
+8,1687,1,02:41,(2:41) (Shotgun) D.Johnson Jr. right guard to CLE 24 for no gain (C.Liuget).,10,2,0,CLE 24,0,CLE,
+11,2134,1,13:17,(13:17) (Shotgun) D.Johnson Jr. left tackle to SD 8 for 22 yards (T.Williams).,10,3,58,SD 30,0,CLE,
+11,2232,3,11:44,(11:44) R.Griffin pass short right to I.Crowell to SD 9 for -2 yards (D.Perryman).,7,3,57,SD 7,0,CLE,
+11,2057,1,14:55,(14:55) (Shotgun) R.Griffin pass short middle to T.Pryor Sr. to CLE 45 for 11 yards (J.Brown).,10,3,11,CLE 34,0,CLE,
+11,2081,1,14:13,(14:13) (Shotgun) I.Crowell right end ran ob at SD 45 for 10 yards.,10,3,21,CLE 45,0,CLE,
+11,2211,2,12:23,(12:23) (Shotgun) I.Crowell right tackle to SD 7 for 6 yards (D.Perryman).,13,3,59,SD 13,0,CLE,
+11,2155,1,13:17,"(13:17) (Shotgun) PENALTY on CLE-C.Erving, False Start, 5 yards, enforced at SD 8 - No Play.",8,3,53,SD 8,0,CLE,PENALTY
+11,2035,0,15:00,J.Lambo kicks 62 yards from SD 35 to CLE 3. M.Alford to CLE 34 for 31 yards (K.Toomer).,0,3,57,SD 35,0,SD,KICKOFF
+11,2256,4,11:44,"(11:44) (Field Goal formation) C.Parkey 27 yard field goal is GOOD, Center-C.Hughlett, Holder-B.Colquitt.",9,3,57,SD 9,1,CLE,FG
+11,2178,1,12:29,(12:29) (Shotgun) R.Griffin pass incomplete short right to A.Hawkins.,13,3,53,SD 13,0,CLE,
+11,2107,1,13:40,(13:40) R.Griffin pass short right to D.Vitale to SD 30 for 15 yards (D.Perryman). SD-D.Perryman was injured during the play. His return is Probable.,10,3,36,SD 45,0,CLE,
+10,2000,1,00:41,(:41) (Shotgun) R.Griffin sacked at CLE 20 for -11 yards (J.Bosa).,10,2,-11,CLE 31,0,CLE,
+10,2019,0,,END QUARTER 2,0,2,-11,,0,,
+13,2685,4,04:09,"(4:09) B.Colquitt punts 51 yards to SD 17, Center-C.Hughlett. I.Burse to SD 25 for 8 yards (J.Schobert).",3,3,7,CLE 32,0,CLE,PUNT
+13,2606,0,06:04,"J.Lambo kicks 65 yards from SD 35 to end zone, Touchback.",0,3,0,SD 35,0,SD,KICKOFF
+13,2621,1,06:04,(6:04) (Shotgun) D.Johnson Jr. right guard to CLE 29 for 4 yards (J.Bosa).,10,3,4,CLE 25,0,CLE,
+13,2642,2,05:30,(5:30) R.Griffin sacked at CLE 25 for -4 yards (J.Bosa).,6,3,0,CLE 29,0,CLE,
+13,2661,3,04:47,(4:47) (Shotgun) R.Griffin pass short left to T.Pryor Sr. to CLE 32 for 7 yards (T.Williams).,10,3,7,CLE 25,0,CLE,
+12,2275,0,10:58,"C.Parkey kicks 65 yards from CLE 35 to end zone, Touchback.",0,3,0,CLE 35,0,CLE,KICKOFF
+12,2524,1,06:43,(6:43) R.Hillman left guard to CLE 1 for no gain (D.Davis; C.Kirksey). SD-O.Franklin was injured during the play. His return is Probable.,1,3,74,CLE 1,0,SD,
+12,2332,3,09:45,(9:45) (Shotgun) P.Rivers pass deep left to Ty.Williams to SD 45 for 20 yards (B.Boddy-Calhoun; E.Reynolds).,10,3,20,SD 25,0,SD,
+12,2430,1,07:40,(7:40) R.Hillman right guard to CLE 20 for 2 yards (E.Reynolds).,10,3,55,CLE 22,0,SD,
+12,2473,3,06:49,"(6:49) (Shotgun) P.Rivers pass incomplete deep left to A.Gates [J.Haden]. PENALTY on CLE-J.Taylor, Defensive Pass Interference, 19 yards, enforced at CLE 20 - No Play.",8,3,74,CLE 20,0,SD,PENALTY
+12,2290,1,10:56,(10:56) (Shotgun) R.Hillman right tackle to SD 26 for 1 yard (E.Reynolds; C.Nassib).,10,3,1,SD 25,0,SD,
+12,2451,2,06:55,(6:55) (Shotgun) P.Rivers pass incomplete deep right to A.Gates.,8,3,55,CLE 20,0,SD,
+12,2570,3,06:09,"(6:09) (Shotgun) P.Rivers pass short left to Ty.Williams for 1 yard, TOUCHDOWN.",1,3,75,CLE 1,1,SD,TD
+12,2311,2,10:32,(10:32) (Shotgun) R.Hillman left guard to SD 25 for -1 yards (J.Taylor; J.Collins).,9,3,0,SD 26,0,SD,
+12,2380,1,08:19,(8:19) P.Rivers pass incomplete short left to D.Inman. QB pressure by 57 C Johnson forced scramble,10,3,36,CLE 39,0,SD,
+12,2402,2,08:12,(8:12) (Shotgun) P.Rivers pass short right to D.Inman to CLE 22 for 17 yards (J.Haden).,10,3,53,CLE 39,0,SD,
+12,2548,2,06:17,(6:17) (Shotgun) P.Rivers pass incomplete short right to G.Davis.,1,3,74,CLE 1,0,SD,
+12,2507,0,06:43,Timeout #1 by CLE at 06:43.,0,3,74,,0,,TIMEOUT
+12,2590,0,06:04,"J.Lambo extra point is GOOD, Center-M.Windt, Holder-K.Clemens.",0,3,75,CLE 15,1,SD,XP
+12,2356,1,08:55,(8:55) (Shotgun) P.Rivers pass deep left to Ty.Williams to CLE 39 for 16 yards (T.Williams Sr.).,10,3,36,SD 45,0,SD,
+15,2882,2,00:57,(:57) R.Griffin sacked at CLE 19 for -5 yards (D.Perryman).,7,3,-2,CLE 24,0,CLE,
+15,2861,1,01:34,(1:34) (Shotgun) I.Crowell right guard to CLE 24 for 3 yards (R.Carrethers).,10,3,3,CLE 21,0,CLE,
+15,2901,3,00:18,(:18) (Shotgun) R.Griffin pass short right to G.Barnidge to CLE 31 for 12 yards (A.Phillips).,12,3,10,CLE 19,0,CLE,
+15,3038,2,13:22,(13:22) (Shotgun) R.Griffin pass short right to I.Crowell to CLE 36 for -1 yards (J.Brown).,13,4,15,CLE 37,0,CLE,
+15,2960,2,14:25,(14:25) (Shotgun) R.Griffin left tackle to CLE 25 for -1 yards (J.Bosa).,15,4,4,CLE 26,0,CLE,
+15,2981,3,13:49,"(13:49) (Shotgun) R.Griffin pass incomplete deep right to R.Higgins [J.Bosa]. PENALTY on SD-J.Bosa, Roughing the Passer, 15 yards, enforced at CLE 25 - No Play.",16,4,19,CLE 25,0,CLE,PENALTY
+15,2925,0,,END QUARTER 3,0,3,10,,0,,
+15,3014,1,13:43,(13:43) D.Johnson Jr. right guard to CLE 37 for -3 yards (D.Lowery; T.Williams). CLE-D.Johnson Jr. was injured during the play. His return is Probable.,10,4,16,CLE 40,0,CLE,
+15,3062,3,12:36,"(12:36) (Shotgun) PENALTY on CLE, False Start, 5 yards, enforced at CLE 36 - No Play.",14,4,10,CLE 36,0,CLE,PENALTY
+15,3085,3,12:29,"(12:29) (Shotgun) R.Griffin pass short left to G.Barnidge to CLE 40 for 9 yards (K.Emanuel, T.Williams).",19,4,19,CLE 31,0,CLE,
+15,3120,4,12:09,"(12:09) B.Colquitt punts 42 yards to SD 18, Center-C.Hughlett. I.Burse to SD 19 for 1 yard (R.Louis).",10,4,19,CLE 40,0,CLE,PUNT
+15,2941,1,15:00,(15:00) (Shotgun) R.Griffin sacked at CLE 26 for -5 yards (D.Square).,10,4,5,CLE 31,0,CLE,
+14,2710,1,03:56,(3:56) R.Hillman right guard to SD 25 for no gain (J.Haden; D.Shelton).,10,3,0,SD 25,0,SD,
+14,2731,2,03:16,(3:16) (Shotgun) R.Hillman right guard to SD 28 for 3 yards (C.Kirksey).,10,3,3,SD 25,0,SD,
+14,2842,4,01:45,"(1:45) D.Kaser punts 35 yards to CLE 21, Center-M.Windt, downed by SD-K.Emanuel.",10,3,19,SD 44,0,SD,PUNT
+14,2776,1,01:59,(1:59) (Shotgun) P.Rivers pass incomplete short right to Ty.Williams.,10,3,19,SD 44,0,SD,
+14,2798,2,01:53,(1:53) (Shotgun) P.Rivers pass incomplete short left to R.Hillman.,10,3,19,SD 44,0,SD,
+14,2752,3,02:36,(2:36) (Shotgun) P.Rivers pass short right to D.Watt to SD 44 for 16 yards (M.Burley).,7,3,19,SD 28,0,SD,
+14,2820,3,01:50,(1:50) (Shotgun) P.Rivers pass incomplete deep left to A.Gates [E.Reynolds].,10,3,19,SD 44,0,SD,
+17,3248,1,11:19,(11:19) I.Crowell right end to CLE 32 for no gain (D.Perryman; R.Carrethers). SD-D.Perryman was injured during the play. His return is Doubtful.,10,4,0,CLE 32,0,CLE,
+17,3272,2,10:50,(10:50) (Shotgun) R.Griffin sacked at CLE 32 for 0 yards (D.Philon). CLE-R.Griffin was injured during the play. His return is Probable.,10,4,0,CLE 32,0,CLE,
+17,3291,3,10:20,(10:20) (Shotgun) C.Kessler pass incomplete short right to C.Coleman (T.Reed).,10,4,0,CLE 32,0,CLE,
+17,3317,4,10:15,"(10:15) B.Colquitt punts 50 yards to SD 18, Center-C.Hughlett. I.Burse to SD 18 for no gain (R.Louis).",10,4,0,CLE 32,0,CLE,PUNT
+16,3167,2,11:54,(11:54) (Shotgun) P.Rivers pass incomplete deep left to D.Inman.,10,4,0,SD 19,0,SD,
+16,3145,1,12:00,(12:00) (Shotgun) P.Rivers pass incomplete short left to D.Inman (J.Taylor).,10,4,0,SD 19,0,SD,
+16,3223,4,11:29,"(11:29) D.Kaser punts 53 yards to CLE 28, Center-M.Windt. M.Alford to CLE 32 for 4 yards (D.Watt).",10,4,0,SD 19,0,SD,PUNT
+16,3189,3,11:49,(11:49) (Shotgun) P.Rivers pass incomplete deep left to D.Inman (T.Williams Sr.).,10,4,0,SD 19,0,SD,
+19,3545,2,06:10,(6:10) (Shotgun) C.Kessler pass short right to I.Crowell to CLE 13 for 2 yards (J.Brown). SD-C.Liuget was injured during the play. His return is Probable.,10,4,2,CLE 11,0,CLE,
+19,3524,1,06:48,(6:48) I.Crowell left guard to CLE 11 for no gain (M.Ingram).,10,4,0,CLE 11,0,CLE,
+19,3591,4,05:37,"(5:37) B.Colquitt punts 41 yards to CLE 44, Center-C.Hughlett. I.Burse to CLE 33 for 11 yards (C.Kirksey).",18,4,-8,CLE 3,0,CLE,PUNT
+19,3572,3,05:37,(5:37) (Shotgun) C.Kessler sacked at CLE 3 for -10 yards (M.Ingram).,8,4,-8,CLE 13,0,CLE,
+18,3390,1,08:46,"(8:46) (Shotgun) P.Rivers pass short right to D.Inman to SD 42 for 11 yards (J.Taylor). PENALTY on SD-K.Wiggins, Offensive Holding, 10 yards, enforced at SD 31 - No Play.",10,4,3,SD 31,0,SD,PENALTY
+18,3449,2,07:36,"(7:36) (No Huddle, Shotgun) P.Rivers pass incomplete short middle to A.Gates (T.Howard).",1,4,21,SD 40,0,SD,
+18,3499,4,06:59,"(6:59) D.Kaser punts 57 yards to CLE 4, Center-M.Windt. M.Alford to CLE 11 for 7 yards (K.Toomer).",2,4,21,SD 39,0,SD,PUNT
+18,3366,2,09:23,(9:23) (Shotgun) P.Rivers pass short left to K.Farrow to SD 31 for 10 yards (C.Nassib).,7,4,13,SD 21,0,SD,
+18,3478,3,07:32,(7:32) K.Farrow left guard to SD 39 for -1 yards (J.Taylor; T.Williams Sr.).,1,4,21,SD 40,0,SD,
+18,3425,1,08:24,(8:24) (Shotgun) P.Rivers pass deep right to D.Inman to SD 40 for 19 yards (B.Boddy-Calhoun).,20,4,22,SD 21,0,SD,
+18,3345,1,10:05,(10:05) K.Farrow left guard to SD 21 for 3 yards (J.Taylor; J.Collins).,10,4,3,SD 18,0,SD,

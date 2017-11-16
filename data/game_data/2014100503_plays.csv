@@ -1,180 +1,180 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,956,0,,,0,1,3,,0,,
-9,972,2,15:00,,7,2,16,BAL 7,0,BAL,
-9,1020,1,13:57,,10,2,37,BAL 40,0,BAL,
-9,1196,3,10:51,,1,2,93,IND 3,0,BAL,
-9,996,1,14:28,,10,2,36,BAL 20,0,BAL,
-9,1132,1,11:30,,10,2,84,IND 12,0,BAL,
-9,1041,2,13:23,,9,2,54,BAL 41,0,BAL,
-9,1108,3,12:15,,6,2,84,IND 38,0,BAL,
-9,935,1,00:10,,10,1,3,BAL 4,0,BAL,
-9,1065,1,12:53,,10,2,58,IND 42,0,BAL,
-9,1219,4,10:09,,1,2,82,IND 3,0,BAL,
-9,1179,0,10:51,,0,2,93,,0,,TIMEOUT
-9,1086,2,12:20,,6,2,58,IND 38,0,BAL,
-9,1158,2,11:25,,10,2,93,IND 12,0,BAL,
-24,4258,1,00:27,,10,4,-1,BAL 43,0,IND,
-24,4279,0,,,0,4,-1,,0,,
-10,1270,1,09:18,,10,2,9,IND 25,0,IND,
-10,1506,3,03:28,,5,2,63,BAL 33,0,IND,
-10,1606,0,02:00,,0,2,61,,0,,
-10,1484,2,03:35,,5,2,53,BAL 33,0,IND,
-10,1565,2,02:18,,5,2,68,BAL 18,0,IND,
-10,1241,1,10:05,,10,2,11,IND 14,0,IND,
-10,1776,4,00:39,,16,2,70,BAL 16,1,IND,FG
-10,1415,1,05:27,,10,2,38,IND 48,0,IND,
-10,1439,2,04:47,,6,2,48,BAL 48,0,IND,
-10,1463,1,04:15,,10,2,53,BAL 38,0,IND,
-10,1728,2,00:49,,16,2,70,BAL 16,0,IND,
-10,1291,2,08:40,,12,2,15,IND 23,0,IND,
-10,1750,3,00:44,,16,2,70,BAL 16,0,IND,
-10,1623,4,02:00,,12,2,66,BAL 25,0,IND,PENALTY
-10,1653,1,01:55,,10,2,80,BAL 20,0,IND,
-10,1541,1,03:04,,10,2,68,BAL 23,0,IND,
-10,1674,1,01:33,,6,2,70,BAL 6,0,IND,PENALTY
-10,1704,1,01:27,,16,2,70,BAL 16,0,IND,
-10,1370,2,06:43,,7,2,30,IND 39,0,IND,
-10,1343,1,07:21,,10,2,25,IND 36,0,IND,
-10,1315,3,07:58,,6,2,22,IND 29,0,IND,TIMEOUT
-10,1391,3,05:59,,2,2,34,IND 44,0,IND,
-10,1587,3,02:13,,5,2,61,BAL 18,0,IND,
-20,3457,2,10:28,,4,4,66,BAL 30,0,IND,
-20,3521,0,08:56,,0,4,80,BAL 2,1,IND,XP
-20,3503,2,09:04,,9,4,80,BAL 13,1,IND,TD
-20,3398,2,12:01,,20,4,44,IND 36,0,IND,
-20,3365,1,12:43,,10,4,80,IND 46,0,IND,
-20,3482,1,09:42,,10,4,67,BAL 14,0,IND,
-20,3237,0,13:56,,0,4,0,BAL 35,0,BAL,KICKOFF
-20,3256,1,13:56,,10,4,-9,IND 20,0,IND,PENALTY
-20,3291,1,13:35,,19,4,-4,IND 11,0,IND,PENALTY
-20,3422,1,11:19,,10,4,50,BAL 36,0,IND,
-20,3330,1,13:12,,14,4,26,IND 16,0,IND,
-6,601,1,05:59,,10,1,-5,BAL 31,0,IND,PENALTY
-6,624,1,05:59,,15,1,-4,BAL 36,0,IND,
-6,645,2,05:30,,14,1,-4,BAL 35,0,IND,INT
-18,3039,2,00:22,,10,3,24,BAL 35,0,BAL,
-18,3101,4,14:56,,3,4,24,BAL 42,0,BAL,FUMBLE
-18,3079,3,15:00,,3,4,24,BAL 42,0,BAL,
-18,3017,1,00:27,,10,3,17,BAL 35,0,BAL,
-18,3063,0,,,0,3,24,,0,,
-18,2993,1,01:01,,10,3,17,BAL 18,0,BAL,
-1,54,1,15:00,,10,1,0,IND 20,0,IND,
-1,102,3,13:54,,1,1,29,IND 29,0,IND,
-1,200,3,11:41,,4,1,59,BAL 24,0,IND,
-1,224,4,10:58,,1,1,59,BAL 21,0,IND,TIMEOUT
-1,171,2,11:46,,4,1,56,BAL 24,0,IND,
-1,35,0,15:00,,0,1,0,BAL 35,0,BAL,KICKOFF
-1,78,2,14:31,,10,1,9,IND 20,0,IND,
-1,147,1,12:28,,10,1,56,BAL 30,0,IND,
-1,123,1,13:13,,10,1,50,IND 49,0,IND,
-5,511,2,07:28,,10,1,4,IND 14,0,IND,
-5,556,4,06:11,,4,1,6,IND 20,0,IND,FUMBLE
-5,489,1,07:35,,10,1,0,IND 14,0,IND,
-5,532,3,06:47,,6,1,6,IND 18,0,IND,
-13,2240,1,10:51,,6,3,27,BAL 6,0,IND,
-13,2150,1,13:20,,10,3,4,BAL 33,0,IND,
-13,2219,2,11:34,,7,3,27,BAL 15,0,IND,
-13,2307,0,10:33,,0,3,33,BAL 2,1,IND,XP
-13,2264,2,10:44,,6,3,27,BAL 6,0,IND,
-13,2286,3,10:40,,6,3,33,BAL 6,1,IND,TD
-13,2174,2,12:49,,6,3,15,BAL 29,0,IND,
-13,2198,1,12:17,,10,3,18,BAL 18,0,IND,
-21,3556,1,08:56,,10,4,6,BAL 20,0,BAL,
-21,3665,2,07:20,,2,4,80,IND 11,1,BAL,TD
-21,3641,1,07:50,,10,4,69,IND 19,0,BAL,
-21,3537,0,08:56,,0,4,0,IND 35,0,IND,KICKOFF
-21,3580,2,08:31,,4,4,80,BAL 26,0,BAL,PENALTY
-21,3617,1,08:19,,10,4,61,IND 49,0,BAL,
-21,3682,0,07:16,,0,4,80,IND 2,1,BAL,XP
-23,4104,3,01:21,,3,4,7,BAL 18,0,BAL,
-23,4235,4,00:32,,3,4,32,BAL 43,0,BAL,
-23,4194,3,00:39,,10,4,32,BAL 36,0,BAL,
-23,4172,2,00:49,,10,4,25,BAL 36,0,BAL,
-23,4218,0,00:32,,0,4,32,,0,,TIMEOUT
-23,4044,1,01:49,,10,4,-8,BAL 11,0,BAL,
-23,4063,0,01:45,,0,4,-8,,0,,TIMEOUT
-23,4080,2,01:45,,18,4,7,BAL 3,0,BAL,
-23,4126,4,01:15,,3,4,25,BAL 18,0,BAL,
-23,4150,1,00:55,,10,4,25,BAL 36,0,BAL,
-11,1883,0,00:16,,0,2,45,,0,,TIMEOUT
-11,1837,1,00:27,,10,2,29,BAL 49,0,BAL,
-11,1816,1,00:35,,10,2,29,BAL 20,0,BAL,
-11,1900,1,00:16,,10,2,47,IND 35,0,BAL,
-11,1943,3,00:03,,8,2,47,IND 33,1,BAL,FG
-11,1921,2,00:03,,8,2,47,IND 33,0,BAL,
-11,1859,2,00:27,,10,2,45,BAL 49,0,BAL,
-11,1795,0,00:35,,0,2,0,IND 35,0,IND,KICKOFF
-14,2323,0,10:33,,0,3,0,IND 35,0,IND,KICKOFF
-14,2456,4,07:50,,3,3,32,BAL 46,0,BAL,PUNT
-14,2408,2,09:01,,8,3,31,BAL 41,0,BAL,
-14,2432,3,08:20,,4,3,32,BAL 45,0,BAL,
-14,2345,1,10:29,,10,3,13,BAL 14,0,BAL,
-14,2366,1,10:00,,10,3,25,BAL 27,0,BAL,
-14,2387,1,09:30,,10,3,27,BAL 39,0,BAL,
-8,868,2,01:10,,1,1,24,IND 40,0,IND,
-8,890,3,01:03,,1,1,24,IND 40,0,IND,
-8,823,3,02:11,,6,1,15,IND 20,0,IND,
-8,911,4,00:20,,1,1,24,IND 40,0,IND,PUNT
-8,847,1,01:35,,10,1,24,IND 31,0,IND,
-8,802,2,02:47,,6,1,4,IND 20,0,IND,
-8,781,1,03:19,,10,1,4,IND 16,0,IND,
-19,3196,3,14:04,,7,4,3,IND 9,0,BAL,
-19,3153,1,14:43,,10,4,3,IND 12,0,BAL,
-19,3218,4,14:00,,7,4,3,IND 9,1,BAL,FG
-19,3174,2,14:10,,7,4,3,IND 9,0,BAL,
-22,3725,1,07:10,,10,4,6,IND 16,0,IND,
-22,3888,2,03:41,,15,4,55,50,0,IND,
-22,3957,0,02:00,,0,4,76,,0,,
-22,3936,1,02:08,,10,4,76,BAL 19,0,IND,
-22,3974,1,02:00,,8,4,74,BAL 8,0,IND,
-22,3770,1,05:57,,10,4,10,IND 26,0,IND,
-22,3912,1,02:53,,10,4,65,BAL 29,0,IND,
-22,3844,1,04:24,,10,4,39,BAL 45,0,IND,
-22,3698,0,07:16,,0,4,0,BAL 35,0,BAL,KICKOFF
-22,3796,2,05:53,,10,4,39,IND 26,0,IND,
-22,3995,0,01:56,,0,4,74,,0,,TIMEOUT
-22,3820,3,05:12,,9,4,39,IND 27,0,IND,
-22,3865,2,03:41,,10,4,34,BAL 45,0,IND,PENALTY
-22,4012,2,01:56,,10,4,73,BAL 10,0,IND,FUMBLE
-22,3746,2,06:41,,4,4,10,IND 22,0,IND,
-12,2078,1,14:13,,10,3,25,BAL 46,0,BAL,
-12,2045,3,14:19,,12,3,26,BAL 18,0,BAL,PENALTY
-12,2099,2,13:39,,11,3,25,BAL 45,0,BAL,
-12,1976,0,15:00,,0,3,25,IND 35,0,IND,KICKOFF
-12,2121,3,13:35,,11,3,25,BAL 45,0,BAL,INT
-12,1999,1,15:00,,10,3,-2,BAL 20,0,BAL,
-12,2023,2,14:24,,12,3,-2,BAL 18,0,BAL,
-16,2675,2,05:20,,2,3,-3,BAL 24,0,BAL,PENALTY
-16,2767,4,04:20,,10,3,0,BAL 16,0,BAL,PUNT
-16,2708,2,05:16,,13,3,1,BAL 13,0,BAL,
-16,2651,1,05:45,,10,3,8,BAL 16,0,BAL,
-16,2732,3,04:37,,9,3,0,BAL 17,0,BAL,
-7,671,1,05:20,,10,1,11,BAL 41,0,BAL,
-7,716,2,04:19,,8,1,6,IND 46,0,BAL,
-7,695,1,04:51,,10,1,13,IND 48,0,BAL,
-7,757,4,03:27,,15,1,6,BAL 47,0,BAL,PUNT
-7,735,3,03:36,,15,1,6,BAL 47,0,BAL,
-3,331,3,09:55,,8,1,2,BAL 20,0,IND,
-3,309,2,10:00,,8,1,2,BAL 20,0,IND,
-3,288,1,10:33,,10,1,2,BAL 22,0,IND,
-3,353,4,09:49,,8,1,2,BAL 20,1,IND,FG
-17,2885,1,02:12,,10,3,45,BAL 21,0,IND,FUMBLE
-17,2804,1,04:07,,10,3,11,IND 45,0,IND,
-17,2920,1,01:59,,10,3,45,BAL 10,0,IND,
-17,2828,1,03:25,,10,3,19,BAL 44,0,IND,
-17,2942,2,01:56,,10,3,45,BAL 10,0,IND,
-17,2850,2,02:40,,2,3,34,BAL 36,0,IND,
-17,2966,3,01:11,,10,3,45,BAL 10,0,IND,INT
-4,395,1,09:39,,10,1,9,BAL 20,0,BAL,
-4,444,3,08:30,,1,1,-3,BAL 29,0,BAL,
-4,373,0,09:44,,0,1,0,IND 35,0,IND,KICKOFF
-4,463,4,07:47,,13,1,-3,BAL 17,0,BAL,PUNT
-4,423,2,09:07,,1,1,9,BAL 29,0,BAL,
-2,253,1,10:44,,10,1,1,BAL 21,0,BAL,FUMBLE
-15,2627,4,05:53,,11,3,22,IND 42,0,IND,PUNT
-15,2524,2,07:15,,5,3,23,IND 25,0,IND,
-15,2480,1,07:42,,10,3,5,IND 20,0,IND,PENALTY
-15,2503,1,07:42,,5,3,5,IND 25,0,IND,
-15,2548,1,06:45,,10,3,23,IND 43,0,IND,
-15,2573,2,06:38,,10,3,22,IND 43,0,IND,
-15,2594,3,05:58,,11,3,22,IND 42,0,IND,
+24,4258,1,00:27,(:27) A.Luck kneels to BAL 44 for -1 yards.,10,4,-1,BAL 43,0,IND,
+24,4279,0,,END GAME,0,4,-1,,0,,
+20,3503,2,09:04,"(9:04) (Shotgun) A.Luck scrambles up the middle for 13 yards, TOUCHDOWN.",9,4,80,BAL 13,1,IND,TD
+20,3237,0,13:56,"J.Tucker kicks 65 yards from BAL 35 to end zone, Touchback.",0,4,0,BAL 35,0,BAL,KICKOFF
+20,3365,1,12:43,(12:43) (Shotgun) A.Luck up the middle to IND 36 for -10 yards.,10,4,80,IND 46,0,IND,
+20,3482,1,09:42,(9:42) (Shotgun) A.Luck scrambles left end ran ob at BAL 13 for 1 yard (C.Bilukidi; D.Tyson).,10,4,67,BAL 14,0,IND,
+20,3256,1,13:56,"(13:56) (Shotgun) A.Luck pass short left to T.Hilton pushed ob at IND 21 for 1 yard (J.Smith). PENALTY on IND-R.Wayne, Offensive Holding, 10 yards, enforced at IND 21.",10,4,-9,IND 20,0,IND,PENALTY
+20,3521,0,08:56,"A.Vinatieri extra point is GOOD, Center-M.Overton, Holder-P.McAfee.",0,4,80,BAL 2,1,IND,XP
+20,3330,1,13:12,"(13:12) (Run formation) A.Luck pass deep right to C.Fleener to IND 46 for 30 yards (L.Webb). Penalty on BAL-L.Webb, Illegal Contact, declined.",14,4,26,IND 16,0,IND,
+20,3422,1,11:19,(11:19) (Shotgun) T.Richardson left end to BAL 30 for 6 yards (J.Smith).,10,4,50,BAL 36,0,IND,
+20,3398,2,12:01,(12:01) (Shotgun) A.Luck pass deep middle to D.Allen to BAL 36 for 28 yards (T.Brooks).,20,4,44,IND 36,0,IND,
+20,3291,1,13:35,"(13:35) A.Luck pass short left to T.Richardson to IND 14 for 3 yards (C.Mosley). PENALTY on BAL-T.Suggs, Defensive Offside, 5 yards, enforced at IND 11 - No Play.",19,4,-4,IND 11,0,IND,PENALTY
+20,3457,2,10:28,(10:28) (Shotgun) A.Luck pass short right to H.Nicks to BAL 14 for 16 yards (L.Webb).,4,4,66,BAL 30,0,IND,
+21,3580,2,08:31,"(8:31) (No Huddle, Shotgun) J.Flacco pass deep left intended for T.Smith INTERCEPTED by D.Butler at IND 35. D.Butler to IND 35 for no gain (T.Smith). PENALTY on IND-V.Davis, Defensive Pass Interference, 25 yards, enforced at BAL 26 - No Play.",4,4,80,BAL 26,0,BAL,PENALTY
+21,3556,1,08:56,(8:56) J.Flacco pass short middle to O.Daniels to BAL 26 for 6 yards (D.Jackson).,10,4,6,BAL 20,0,BAL,
+21,3617,1,08:19,(8:19) (Shotgun) J.Flacco pass short right to J.Jones pushed ob at IND 19 for 30 yards (J.Gordy).,10,4,61,IND 49,0,BAL,
+21,3682,0,07:16,"J.Tucker extra point is GOOD, Center-M.Cox, Holder-S.Koch.",0,4,80,IND 2,1,BAL,XP
+21,3537,0,08:56,"P.McAfee kicks 65 yards from IND 35 to end zone, Touchback.",0,4,0,IND 35,0,IND,KICKOFF
+21,3665,2,07:20,"(7:20) (No Huddle) J.Forsett right tackle for 11 yards, TOUCHDOWN.",2,4,80,IND 11,1,BAL,TD
+21,3641,1,07:50,(7:50) J.Flacco pass short middle to K.Aiken to IND 11 for 8 yards (V.Davis).,10,4,69,IND 19,0,BAL,
+22,3698,0,07:16,J.Tucker kicks 74 yards from BAL 35 to IND -9. G.Whalen to IND 16 for 25 yards (A.McClellan).,0,4,0,BAL 35,0,BAL,KICKOFF
+22,3936,1,02:08,(2:08) A.Bradshaw right tackle to BAL 8 for 11 yards (J.Miles).,10,4,76,BAL 19,0,IND,
+22,3770,1,05:57,(5:57) (Shotgun) A.Luck pass incomplete short left to H.Nicks. BAL-M.Elam was injured during the play.,10,4,10,IND 26,0,IND,
+22,3912,1,02:53,(2:53) A.Bradshaw right end to BAL 19 for 10 yards (T.Brooks). BAL-T.Brooks was injured during the play.,10,4,65,BAL 29,0,IND,
+22,3820,3,05:12,(5:12) (Shotgun) A.Luck pass deep right to R.Wayne to BAL 45 for 28 yards (C.Brown).,9,4,39,IND 27,0,IND,
+22,3746,2,06:41,(6:41) A.Luck pass short right to R.Wayne to IND 26 for 4 yards (L.Webb).,4,4,10,IND 22,0,IND,
+22,4012,2,01:56,"(1:56) A.Bradshaw up the middle to BAL 10 for no gain (M.Elam). FUMBLES (M.Elam), RECOVERED by BAL-T.Brooks at BAL 11. T.Brooks to BAL 11 for no gain (L.Louis).",10,4,73,BAL 10,0,IND,FUMBLE
+22,3796,2,05:53,(5:53) A.Luck pass short left to A.Bradshaw to IND 27 for 1 yard (C.Mosley) [E.Dumervil].,10,4,39,IND 26,0,IND,
+22,3957,0,02:00,Two-Minute Warning,0,4,76,,0,,
+22,3888,2,03:41,(3:41) (Shotgun) A.Luck pass short right to T.Hilton to BAL 29 for 21 yards (C.Mosley).,15,4,55,50,0,IND,
+22,3865,2,03:41,"(3:41) (Shotgun) PENALTY on IND-G.Cherilus, False Start, 5 yards, enforced at BAL 45 - No Play.",10,4,34,BAL 45,0,IND,PENALTY
+22,3844,1,04:24,(4:24) (Run formation) A.Bradshaw up the middle to BAL 45 for no gain (C.Mosley; D.Smith).,10,4,39,BAL 45,0,IND,
+22,3725,1,07:10,(7:10) A.Bradshaw right guard to IND 22 for 6 yards (C.Mosley).,10,4,6,IND 16,0,IND,
+22,3995,0,01:56,Timeout #1 by BAL at 01:56.,0,4,74,,0,,TIMEOUT
+22,3974,1,02:00,(2:00) (Run formation) A.Bradshaw right guard to BAL 10 for -2 yards (C.Upshaw).,8,4,74,BAL 8,0,IND,
+23,4044,1,01:49,(1:49) (Shotgun) J.Flacco sacked at BAL 3 for -8 yards (B.Werner).,10,4,-8,BAL 11,0,BAL,
+23,4063,0,01:45,Timeout #2 by BAL at 01:45.,0,4,-8,,0,,TIMEOUT
+23,4150,1,00:55,"(:55) (No Huddle, Shotgun) J.Flacco pass incomplete short middle to J.Forsett.",10,4,25,BAL 36,0,BAL,
+23,4172,2,00:49,(:49) (Shotgun) J.Flacco pass incomplete deep middle to M.Brown.,10,4,25,BAL 36,0,BAL,
+23,4194,3,00:39,(:39) (Shotgun) J.Flacco pass short right to T.Smith to BAL 43 for 7 yards (G.Toler).,10,4,32,BAL 36,0,BAL,
+23,4126,4,01:15,(1:15) (Shotgun) J.Flacco pass short middle to O.Daniels to BAL 36 for 18 yards (J.Freeman).,3,4,25,BAL 18,0,BAL,
+23,4218,0,00:32,Timeout #3 by BAL at 00:32.,0,4,32,,0,,TIMEOUT
+23,4080,2,01:45,(1:45) (Shotgun) J.Flacco pass short left to J.Forsett to BAL 18 for 15 yards (J.Freeman).,18,4,7,BAL 3,0,BAL,
+23,4104,3,01:21,"(1:21) (No Huddle, Shotgun) J.Flacco pass incomplete short right to T.Smith.",3,4,7,BAL 18,0,BAL,
+23,4235,4,00:32,(:32) (Shotgun) J.Flacco pass incomplete deep right to T.Smith.,3,4,32,BAL 43,0,BAL,
+1,147,1,12:28,(12:28) (Run formation) A.Luck pass short right to T.Richardson to BAL 24 for 6 yards (H.Ngata).,10,1,56,BAL 30,0,IND,
+1,200,3,11:41,(11:41) (Shotgun) A.Luck pass short right to T.Hilton to BAL 21 for 3 yards (D.Smith).,4,1,59,BAL 24,0,IND,
+1,54,1,15:00,(15:00) (Run formation) A.Luck pass short right to T.Richardson pushed ob at IND 20 for no gain (C.Upshaw).,10,1,0,IND 20,0,IND,
+1,35,0,15:00,"J.Tucker kicks 65 yards from BAL 35 to end zone, Touchback.",0,1,0,BAL 35,0,BAL,KICKOFF
+1,123,1,13:13,(13:13) (Shotgun) A.Luck pass deep middle to R.Wayne to BAL 30 for 21 yards (D.Stewart).,10,1,50,IND 49,0,IND,
+1,102,3,13:54,(13:54) (Run formation) A.Bradshaw up the middle to IND 49 for 20 yards (D.Stewart).,1,1,29,IND 29,0,IND,
+1,224,4,10:58,"(10:58) (Run formation) J.Reitz reported in as eligible.  A.Bradshaw left guard to BAL 21 for no gain (C.Mosley). Indianapolis challenged the first down ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1 at 10:44.)",1,1,59,BAL 21,0,IND,TIMEOUT
+1,171,2,11:46,(11:46) (Run formation) A.Luck pass incomplete short right to R.Wayne.,4,1,56,BAL 24,0,IND,
+1,78,2,14:31,(14:31) (Shotgun) A.Luck pass short right to H.Nicks to IND 29 for 9 yards (L.Webb).,10,1,9,IND 20,0,IND,
+3,288,1,10:33,(10:33) (Run formation) T.Richardson up the middle to BAL 20 for 2 yards (C.Upshaw).,10,1,2,BAL 22,0,IND,
+3,331,3,09:55,(9:55) (Shotgun) A.Luck pass incomplete deep right to R.Wayne (L.Webb).,8,1,2,BAL 20,0,IND,
+3,353,4,09:49,"(9:49) A.Vinatieri 38 yard field goal is GOOD, Center-M.Overton, Holder-P.McAfee.",8,1,2,BAL 20,1,IND,FG
+3,309,2,10:00,(10:00) (Shotgun) A.Luck pass incomplete short middle to D.Allen.,8,1,2,BAL 20,0,IND,
+2,253,1,10:44,"(10:44) (Run formation) J.Flacco pass short left to S.Smith to BAL 25 for 4 yards (G.Toler). FUMBLES (G.Toler), RECOVERED by IND-M.Hughes at BAL 22. M.Hughes to BAL 22 for no gain (S.Smith).",10,1,1,BAL 21,0,BAL,FUMBLE
+5,511,2,07:28,(7:28) (Run formation) A.Bradshaw left tackle to IND 18 for 4 yards (D.Tyson; C.Mosley).,10,1,4,IND 14,0,IND,
+5,556,4,06:11,"(6:11) P.McAfee punts 45 yards to BAL 35, Center-M.Overton. J.Jones MUFFS catch, touched at BAL 35, RECOVERED by IND-C.Anderson at BAL 31. C.Anderson to BAL 31 for no gain (K.Juszczyk). The Replay Official challenged the kick touched ruling, and the play was Upheld. The ruling on the field stands.",4,1,6,IND 20,0,IND,FUMBLE
+5,532,3,06:47,(6:47) (Shotgun) A.Luck pass short middle to R.Wayne to IND 20 for 2 yards (J.Smith).,6,1,6,IND 18,0,IND,
+5,489,1,07:35,(7:35) (Shotgun) A.Luck pass incomplete short right to T.Hilton.,10,1,0,IND 14,0,IND,
+4,373,0,09:44,P.McAfee kicks 73 yards from IND 35 to BAL -8. J.Jones to BAL 20 for 28 yards (D.Herron).,0,1,0,IND 35,0,IND,KICKOFF
+4,463,4,07:47,"(7:47) S.Koch punts 69 yards to IND 14, Center-M.Cox. G.Whalen to IND 14 for no gain (C.Mosley; B.Trawick).",13,1,-3,BAL 17,0,BAL,PUNT
+4,423,2,09:07,(9:07) J.Forsett left tackle to BAL 29 for no gain (J.Freeman; B.Werner).,1,1,9,BAL 29,0,BAL,
+4,395,1,09:39,(9:39) (Pass formation) J.Flacco pass short right to J.Forsett to BAL 29 for 9 yards (J.Freeman).,10,1,9,BAL 20,0,BAL,
+4,444,3,08:30,(8:30) J.Flacco sacked at BAL 17 for -12 yards (C.Redding).,1,1,-3,BAL 29,0,BAL,
+7,757,4,03:27,"(3:27) S.Koch punts 37 yards to IND 16, Center-M.Cox, fair catch by G.Whalen.",15,1,6,BAL 47,0,BAL,PUNT
+7,716,2,04:19,(4:19) (Run formation) J.Flacco sacked at BAL 47 for -7 yards (B.Werner).,8,1,6,IND 46,0,BAL,
+7,735,3,03:36,(3:36) (Shotgun) J.Flacco pass incomplete deep left to T.Smith (S.Brown).,15,1,6,BAL 47,0,BAL,
+7,671,1,05:20,(5:20) (Run formation) J.Flacco pass short right to T.Smith to IND 48 for 11 yards (G.Toler).,10,1,11,BAL 41,0,BAL,
+7,695,1,04:51,(4:51) (Run formation) L.Taliaferro right tackle to IND 46 for 2 yards (C.Redding; D.Jackson).,10,1,13,IND 48,0,BAL,
+6,645,2,05:30,(5:30) (Shotgun) A.Luck pass short right INTERCEPTED by H.Ngata [C.Mosley] at BAL 38. H.Ngata to BAL 41 for 3 yards (G.Cherilus).,14,1,-4,BAL 35,0,IND,INT
+6,601,1,05:59,"(5:59) (Run formation) PENALTY on IND-J.Doyle, False Start, 5 yards, enforced at BAL 31 - No Play.",10,1,-5,BAL 31,0,IND,PENALTY
+6,624,1,05:59,(5:59) (Shotgun) T.Richardson up the middle to BAL 35 for 1 yard (D.Stewart).,15,1,-4,BAL 36,0,IND,
+9,1086,2,12:20,(12:20) (Run formation) J.Flacco pass incomplete short left.,6,2,58,IND 38,0,BAL,
+9,1041,2,13:23,(13:23) (Run formation) J.Flacco pass short left to S.Smith to IND 42 for 17 yards (V.Davis).,9,2,54,BAL 41,0,BAL,
+9,996,1,14:28,(14:28) (Run formation) J.Flacco pass deep right to T.Smith to BAL 40 for 20 yards (M.Adams).,10,2,36,BAL 20,0,BAL,
+9,1020,1,13:57,(13:57) (Run formation) J.Forsett right tackle to BAL 41 for 1 yard (R.Jean Francois; J.Freeman).,10,2,37,BAL 40,0,BAL,
+9,1132,1,11:30,(11:30) (Shotgun) J.Flacco pass incomplete short left to K.Juszczyk (B.Werner).,10,2,84,IND 12,0,BAL,
+9,1219,4,10:09,(10:09) (Run formation) J.Reid reported in as eligible.  J.Flacco sacked at IND 14 for -11 yards (S.Brown).,1,2,82,IND 3,0,BAL,
+9,1065,1,12:53,(12:53) (Run formation) L.Taliaferro right tackle to IND 38 for 4 yards (S.Brown).,10,2,58,IND 42,0,BAL,
+9,1158,2,11:25,(11:25) (Run formation) L.Taliaferro right tackle to IND 3 for 9 yards (J.McNary; Z.Kerr).,10,2,93,IND 12,0,BAL,
+9,956,0,,END QUARTER 1,0,1,3,,0,,
+9,1108,3,12:15,(12:15) (Shotgun) J.Flacco pass short right to J.Forsett to IND 12 for 26 yards (M.Adams) [J.Newsome].,6,2,84,IND 38,0,BAL,
+9,1179,0,10:51,Timeout #1 by BAL at 10:51.,0,2,93,,0,,TIMEOUT
+9,1196,3,10:51,(10:51) (Run formation) J.Reid reported in as eligible.  L.Taliaferro up the middle to IND 3 for no gain (R.Jean Francois; B.Werner).,1,2,93,IND 3,0,BAL,
+9,935,1,00:10,(:10) (Run formation) L.Taliaferro left guard to BAL 7 for 3 yards (J.Freeman).,10,1,3,BAL 4,0,BAL,
+9,972,2,15:00,(15:00) J.Flacco pass short middle to O.Daniels to BAL 20 for 13 yards (D.Jackson; V.Davis).,7,2,16,BAL 7,0,BAL,
+8,847,1,01:35,(1:35) (Run formation) A.Bradshaw left end to IND 40 for 9 yards (J.Smith; J.Miles).,10,1,24,IND 31,0,IND,
+8,890,3,01:03,(1:03) (Run formation) A.Luck up the middle to IND 40 for no gain (C.Bilukidi; C.Mosley).,1,1,24,IND 40,0,IND,
+8,781,1,03:19,(3:19) (Run formation) A.Bradshaw up the middle to IND 20 for 4 yards (B.Williams).,10,1,4,IND 16,0,IND,
+8,868,2,01:10,(1:10) (Run formation) A.Luck pass incomplete deep middle to T.Hilton (D.Stewart).,1,1,24,IND 40,0,IND,
+8,802,2,02:47,(2:47) (No Huddle) A.Bradshaw right guard to IND 20 for no gain (D.Smith; C.Bilukidi).,6,1,4,IND 20,0,IND,
+8,911,4,00:20,"(:20) P.McAfee punts 56 yards to BAL 4, Center-M.Overton, downed by IND-L.Purifoy.",1,1,24,IND 40,0,IND,PUNT
+8,823,3,02:11,(2:11) (Shotgun) A.Luck pass short left to R.Wayne pushed ob at IND 31 for 11 yards (A.Jackson).,6,1,15,IND 20,0,IND,
+11,1859,2,00:27,(:27) (Shotgun) J.Flacco pass short middle to O.Daniels to IND 35 for 16 yards (C.Anderson; D.Jackson).,10,2,45,BAL 49,0,BAL,
+11,1816,1,00:35,(:35) (Run formation) J.Forsett left end pushed ob at BAL 49 for 29 yards (M.Adams).,10,2,29,BAL 20,0,BAL,
+11,1837,1,00:27,(:27) (Shotgun) J.Flacco pass incomplete short left to M.Brown.,10,2,29,BAL 49,0,BAL,
+11,1943,3,00:03,"(:03) J.Tucker 52 yard field goal is GOOD, Center-M.Cox, Holder-S.Koch.",8,2,47,IND 33,1,BAL,FG
+11,1795,0,00:35,"P.McAfee kicks 65 yards from IND 35 to end zone, Touchback.",0,2,0,IND 35,0,IND,KICKOFF
+11,1921,2,00:03,(:03) (No Huddle) J.Flacco spiked the ball to stop the clock.,8,2,47,IND 33,0,BAL,
+11,1883,0,00:16,Timeout #3 by BAL at 00:16.,0,2,45,,0,,TIMEOUT
+11,1900,1,00:16,(:16) J.Forsett right tackle to IND 33 for 2 yards (B.Werner).,10,2,47,IND 35,0,BAL,
+10,1343,1,07:21,(7:21) (Run formation) T.Richardson up the middle to IND 39 for 3 yards (D.Smith; D.Tyson).,10,2,25,IND 36,0,IND,
+10,1484,2,03:35,(3:35) (Run formation) A.Luck pass incomplete deep right to T.Hilton.,5,2,53,BAL 33,0,IND,
+10,1606,0,02:00,Two-Minute Warning,0,2,61,,0,,
+10,1776,4,00:39,"(:39) A.Vinatieri 34 yard field goal is GOOD, Center-M.Overton, Holder-P.McAfee.",16,2,70,BAL 16,1,IND,FG
+10,1541,1,03:04,(3:04) (Shotgun) A.Luck pass short right to A.Bradshaw to BAL 18 for 5 yards (D.Tyson).,10,2,68,BAL 23,0,IND,
+10,1587,3,02:13,(2:13) (Shotgun) A.Luck sacked at BAL 25 for -7 yards (P.McPhee).,5,2,61,BAL 18,0,IND,
+10,1370,2,06:43,(6:43) (Run formation) T.Richardson up the middle to IND 44 for 5 yards (C.Upshaw).,7,2,30,IND 39,0,IND,
+10,1506,3,03:28,"(3:28) (Shotgun) A.Luck pass short right to T.Hilton ran ob at BAL 23 for 10 yards [E.Dumervil]. Penalty on BAL-J.Smith, Defensive Holding, declined.",5,2,63,BAL 33,0,IND,
+10,1674,1,01:33,"(1:33) (No Huddle) A.Luck pass short left to T.Hilton for 6 yards, TOUCHDOWN NULLIFIED by Penalty. PENALTY on IND-R.Wayne, Offensive Pass Interference, 10 yards, enforced at BAL 6 - No Play.",6,2,70,BAL 6,0,IND,PENALTY
+10,1653,1,01:55,(1:55) (Run formation) T.Richardson right end to BAL 6 for 14 yards (M.Elam).,10,2,80,BAL 20,0,IND,
+10,1291,2,08:40,(8:40) (Shotgun) A.Luck pass short left to T.Hilton to IND 29 for 6 yards (T.Suggs).,12,2,15,IND 23,0,IND,
+10,1565,2,02:18,(2:18) (Shotgun) A.Luck pass incomplete short left to C.Fleener (H.Ngata).,5,2,68,BAL 18,0,IND,
+10,1463,1,04:15,(4:15) (No Huddle) T.Richardson left end to BAL 33 for 5 yards (C.Mosley; B.Trawick).,10,2,53,BAL 38,0,IND,
+10,1750,3,00:44,(:44) A.Luck pass incomplete deep middle to H.Nicks.,16,2,70,BAL 16,0,IND,
+10,1315,3,07:58,"(7:58) (Shotgun) A.Luck pass short right to R.Wayne to IND 36 for 7 yards (L.Webb). Baltimore challenged the first down ruling, and the play was Upheld. The ruling on the field stands. (Timeout #2.)",6,2,22,IND 29,0,IND,TIMEOUT
+10,1270,1,09:18,(9:18) (Run formation) T.Richardson up the middle to IND 23 for -2 yards (D.Tyson; T.Suggs).,10,2,9,IND 25,0,IND,
+10,1623,4,02:00,"(2:00) A.Vinatieri 43 yard field goal is GOOD, NULLIFIED by Penalty, Center-M.Overton, Holder-P.McAfee. PENALTY on BAL-P.McPhee, Defensive Holding, 5 yards, enforced at BAL 25 - No Play.",12,2,66,BAL 25,0,IND,PENALTY
+10,1704,1,01:27,(1:27) (Shotgun) A.Luck pass short right to T.Richardson to BAL 16 for no gain (C.Upshaw).,16,2,70,BAL 16,0,IND,
+10,1728,2,00:49,(:49) (Shotgun) A.Luck pass incomplete deep left to R.Wayne.,16,2,70,BAL 16,0,IND,
+10,1439,2,04:47,(4:47) (Run formation) A.Luck pass short left to D.Allen to BAL 38 for 10 yards (E.Dumervil; D.Smith).,6,2,48,BAL 48,0,IND,
+10,1241,1,10:05,(10:05) (Run formation) A.Luck pass short right to T.Hilton pushed ob at IND 25 for 11 yards (A.Jackson).,10,2,11,IND 14,0,IND,
+10,1391,3,05:59,(5:59) (Shotgun) A.Luck pass short right to R.Wayne to IND 48 for 4 yards (L.Webb).,2,2,34,IND 44,0,IND,
+10,1415,1,05:27,(5:27) (No Huddle) A.Luck pass short right to H.Nicks to BAL 48 for 4 yards (D.Smith).,10,2,38,IND 48,0,IND,
+13,2219,2,11:34,(11:34) (Shotgun) A.Luck scrambles up the middle to BAL 6 for 9 yards (C.Mosley; P.McPhee).,7,3,27,BAL 15,0,IND,
+13,2286,3,10:40,"(10:40) (Run formation) A.Luck pass short left to D.Allen for 6 yards, TOUCHDOWN.",6,3,33,BAL 6,1,IND,TD
+13,2150,1,13:20,(13:20) (Shotgun) A.Luck pass short right to T.Richardson to BAL 29 for 4 yards (C.Mosley).,10,3,4,BAL 33,0,IND,
+13,2307,0,10:33,"A.Vinatieri extra point is GOOD, Center-M.Overton, Holder-P.McAfee.",0,3,33,BAL 2,1,IND,XP
+13,2174,2,12:49,"(12:49) (No Huddle, Shotgun) A.Luck pass short right to T.Hilton pushed ob at BAL 18 for 11 yards (A.Jackson) [B.Williams].",6,3,15,BAL 29,0,IND,
+13,2198,1,12:17,(12:17) (Run formation) T.Richardson left guard to BAL 15 for 3 yards (D.Smith).,10,3,18,BAL 18,0,IND,
+13,2240,1,10:51,(10:51) (Run formation) J.Reitz reported in as eligible.  A.Luck pass incomplete short right.,6,3,27,BAL 6,0,IND,
+13,2264,2,10:44,(10:44) (Shotgun) A.Luck pass incomplete short left to T.Richardson.,6,3,27,BAL 6,0,IND,
+12,2121,3,13:35,(13:35) (Shotgun) J.Flacco pass deep left intended for T.Smith INTERCEPTED by V.Davis at IND 38. V.Davis to BAL 33 for 29 yards (M.Brown). BAL-K.Osemele was injured during the play.,11,3,25,BAL 45,0,BAL,INT
+12,2045,3,14:19,"(14:19) J.Flacco pass incomplete deep right to S.Smith. PENALTY on IND-G.Toler, Defensive Pass Interference, 28 yards, enforced at BAL 18 - No Play.",12,3,26,BAL 18,0,BAL,PENALTY
+12,1999,1,15:00,(15:00) J.Flacco pass short left to J.Forsett to BAL 18 for -2 yards (J.Freeman).,10,3,-2,BAL 20,0,BAL,
+12,1976,0,15:00," Roof closed at halftime due to incoming rain.  P.McAfee kicks 65 yards from IND 35 to end zone, Touchback.",0,3,25,IND 35,0,IND,KICKOFF
+12,2078,1,14:13,(14:13) (Run formation) J.Forsett left guard to BAL 45 for -1 yards (R.Jean Francois; M.Hughes).,10,3,25,BAL 46,0,BAL,
+12,2023,2,14:24,(14:24) (Run formation) J.Flacco pass incomplete short right to K.Juszczyk [E.Walden].,12,3,-2,BAL 18,0,BAL,
+12,2099,2,13:39,(13:39) (Run formation) J.Flacco pass incomplete short left to O.Daniels.,11,3,25,BAL 45,0,BAL,
+15,2594,3,05:58,"(5:58) (Shotgun) A.Luck pass incomplete short middle to R.Wayne (L.Webb). Penalty on IND-H.Thornton, Offensive Holding, declined.",11,3,22,IND 42,0,IND,
+15,2524,2,07:15,"(7:15) (No Huddle, Shotgun) A.Luck pass short right to T.Hilton to IND 43 for 18 yards (T.Brooks).",5,3,23,IND 25,0,IND,
+15,2627,4,05:53,"(5:53) P.McAfee punts 42 yards to BAL 16, Center-M.Overton, fair catch by L.Webb.",11,3,22,IND 42,0,IND,PUNT
+15,2548,1,06:45,(6:45) (No Huddle) A.Luck pass incomplete deep middle to H.Nicks (T.Brooks). BAL-T.Brooks was injured during the play.,10,3,23,IND 43,0,IND,
+15,2573,2,06:38,(6:38) (Shotgun) A.Bradshaw up the middle to IND 42 for -1 yards (P.McPhee).,10,3,22,IND 43,0,IND,
+15,2480,1,07:42,"(7:42) (Shotgun) PENALTY on BAL-T.Suggs, Neutral Zone Infraction, 5 yards, enforced at IND 20 - No Play.",10,3,5,IND 20,0,IND,PENALTY
+15,2503,1,07:42,(7:42) (Shotgun) A.Bradshaw up the middle to IND 25 for no gain (C.Mosley; L.Guy).,5,3,5,IND 25,0,IND,
+14,2323,0,10:33,P.McAfee kicks 74 yards from IND 35 to BAL -9. J.Jones to BAL 14 for 23 yards (D.McDonald).,0,3,0,IND 35,0,IND,KICKOFF
+14,2345,1,10:29,(10:29) (Run formation) B.Pierce up the middle to BAL 27 for 13 yards (J.McNary).,10,3,13,BAL 14,0,BAL,
+14,2432,3,08:20,(8:20) (Shotgun) J.Flacco pass short right to J.Forsett to BAL 46 for 1 yard (S.Brown).,4,3,32,BAL 45,0,BAL,
+14,2456,4,07:50,"(7:50) S.Koch punts 34 yards to IND 20, Center-M.Cox, fair catch by G.Whalen.",3,3,32,BAL 46,0,BAL,PUNT
+14,2387,1,09:30,(9:30) (Run formation) B.Pierce left guard to BAL 41 for 2 yards (V.Davis).,10,3,27,BAL 39,0,BAL,
+14,2366,1,10:00,(10:00) (Run formation) B.Pierce up the middle to BAL 39 for 12 yards (B.Werner).,10,3,25,BAL 27,0,BAL,
+14,2408,2,09:01,(9:01) J.Flacco pass short right to S.Smith to BAL 45 for 4 yards (E.Walden).,8,3,31,BAL 41,0,BAL,
+17,2966,3,01:11,(1:11) (Shotgun) A.Luck pass short left intended for A.Bradshaw INTERCEPTED by C.Mosley at BAL 0. C.Mosley to BAL 18 for 18 yards (L.Louis).,10,3,45,BAL 10,0,IND,INT
+17,2885,1,02:12,"(2:12) (Shotgun) A.Luck pass short middle to T.Hilton to BAL 11 for 10 yards (D.Stewart). FUMBLES (D.Stewart), recovered by IND-T.Richardson at BAL 12. T.Richardson to BAL 10 for 2 yards (D.Smith).",10,3,45,BAL 21,0,IND,FUMBLE
+17,2850,2,02:40,"(2:40) (Run formation) A.Luck pass short left to D.Allen to BAL 21 for 15 yards (C.Mosley). Penalty on BAL-M.Elam, Defensive Holding, declined.",2,3,34,BAL 36,0,IND,
+17,2828,1,03:25,(3:25) (Shotgun) A.Bradshaw right end to BAL 36 for 8 yards (B.Williams).,10,3,19,BAL 44,0,IND,
+17,2920,1,01:59,(1:59) A.Luck pass incomplete short left to R.Wayne (J.Smith).,10,3,45,BAL 10,0,IND,
+17,2942,2,01:56,(1:56) (Shotgun) A.Luck pass short left to A.Bradshaw to BAL 10 for no gain (C.Mosley).,10,3,45,BAL 10,0,IND,
+17,2804,1,04:07,(4:07) A.Luck pass short right to A.Bradshaw to BAL 44 for 11 yards (C.Mosley).,10,3,11,IND 45,0,IND,
+16,2767,4,04:20,"(4:20) S.Koch punts 59 yards to IND 25, Center-M.Cox. G.Whalen to IND 35 for 10 yards (J.Miles). PENALTY on BAL-Z.Orr, Illegal Use of Hands, 10 yards, enforced at IND 35.",10,3,0,BAL 16,0,BAL,PUNT
+16,2651,1,05:45,(5:45) (Run formation) J.Flacco pass short right to S.Smith to BAL 24 for 8 yards (J.McNary; D.Jackson).,10,3,8,BAL 16,0,BAL,
+16,2675,2,05:20,"(5:20) (No Huddle) J.Flacco pass incomplete short right to S.Smith. PENALTY on BAL-K.Osemele, Illegal Use of Hands, 11 yards, enforced at BAL 24 - No Play.",2,3,-3,BAL 24,0,BAL,PENALTY
+16,2708,2,05:16,(5:16) (Shotgun) J.Flacco pass short left to S.Smith to BAL 17 for 4 yards (D.Butler).,13,3,1,BAL 13,0,BAL,
+16,2732,3,04:37,"(4:37) (Run formation) J.Flacco pass short right to J.Forsett to BAL 16 for -1 yards (D.Butler). Penalty on BAL-M.Yanda, Offensive Holding, declined.",9,3,0,BAL 17,0,BAL,
+19,3153,1,14:43,(14:43) (Run formation) B.Pierce right end to IND 9 for 3 yards (E.Walden).,10,4,3,IND 12,0,BAL,
+19,3196,3,14:04,(14:04) (Run formation) J.Flacco pass incomplete short middle to O.Daniels.,7,4,3,IND 9,0,BAL,
+19,3218,4,14:00,"(14:00) J.Tucker 27 yard field goal is GOOD, Center-M.Cox, Holder-S.Koch.",7,4,3,IND 9,1,BAL,FG
+19,3174,2,14:10,(14:10) J.Flacco pass incomplete short left to S.Smith.,7,4,3,IND 9,0,BAL,
+18,3039,2,00:22,(:22) (Run formation) J.Flacco pass short left to J.Forsett to BAL 42 for 7 yards (M.Adams).,10,3,24,BAL 35,0,BAL,
+18,2993,1,01:01,(1:01) (Run formation) J.Flacco pass short middle to O.Daniels to BAL 35 for 17 yards (D.Jackson).,10,3,17,BAL 18,0,BAL,
+18,3017,1,00:27,(:27) (Run formation) J.Flacco pass incomplete deep right to T.Smith.,10,3,17,BAL 35,0,BAL,
+18,3101,4,14:56,"(14:56) S.Koch punts 43 yards to IND 15, Center-M.Cox. G.Whalen to IND 12 for -3 yards (J.Miles). FUMBLES (J.Miles), RECOVERED by BAL-A.McClellan at IND 12. A.McClellan to IND 12 for no gain (D.McDonald). The Replay Official challenged the fumble ruling, and the play was Upheld. The ruling on the field stands.",3,4,24,BAL 42,0,BAL,FUMBLE
+18,3063,0,,END QUARTER 3,0,3,24,,0,,
+18,3079,3,15:00,(15:00) (Shotgun) J.Flacco pass incomplete short left to S.Smith (V.Davis).,3,4,24,BAL 42,0,BAL,

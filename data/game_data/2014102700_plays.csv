@@ -1,174 +1,174 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1347,1,05:30,,10,2,75,WAS 20,0,DAL,
-9,1252,1,07:47,,10,2,32,DAL 32,0,DAL,
-9,1375,1,04:52,,5,2,80,WAS 5,1,DAL,TD
-9,1231,2,08:24,,1,2,12,DAL 29,0,DAL,
-9,1297,2,06:26,,6,2,36,WAS 44,0,DAL,
-9,1210,1,09:03,,10,2,9,DAL 20,0,DAL,
-9,1405,0,04:45,,0,2,80,WAS 2,1,DAL,XP
-9,1323,3,06:18,,6,2,60,WAS 44,0,DAL,
-9,1276,1,07:12,,10,2,36,WAS 48,0,DAL,
-10,1475,2,04:19,,5,2,16,WAS 25,0,WAS,
-10,1541,2,02:32,,11,2,31,WAS 45,0,WAS,
-10,1421,0,04:45,,0,2,0,DAL 35,0,DAL,KICKOFF
-10,1520,1,03:15,,10,2,25,WAS 46,0,WAS,
-10,1583,3,02:00,,5,2,31,DAL 49,0,WAS,
-10,1499,1,03:53,,10,2,26,WAS 36,0,WAS,
-10,1620,3,01:53,,5,2,31,DAL 49,0,WAS,
-10,1565,0,02:00,,0,2,31,,0,,
-10,1439,1,04:45,,10,2,5,WAS 20,0,WAS,TIMEOUT
-10,1646,4,01:48,,5,2,31,DAL 49,0,WAS,PUNT
-20,3712,1,00:06,,10,4,-1,WAS 31,0,WAS,
-20,3733,0,,,0,4,-1,,0,,
-6,822,2,01:31,,12,1,-2,DAL 27,0,WAS,INT
-6,801,1,02:09,,10,1,-2,DAL 25,0,WAS,
-18,3267,2,05:20,,11,4,30,WAS 41,0,WAS,
-18,3333,4,03:46,,1,4,43,DAL 49,0,WAS,
-18,3198,2,06:39,,8,4,13,WAS 33,0,WAS,
-18,3083,0,09:27,,0,4,0,DAL 35,0,DAL,KICKOFF
-18,3459,4,02:00,,14,4,39,DAL 41,0,WAS,PUNT
-18,3357,1,03:03,,10,4,44,DAL 37,0,WAS,
-18,3441,0,02:00,,0,4,39,,0,,
-18,3248,1,06:07,,10,4,21,WAS 42,0,WAS,
-18,3315,0,03:46,,0,4,31,,0,,TIMEOUT
-18,3399,3,02:16,,5,4,43,DAL 32,0,WAS,PENALTY
-18,3156,3,08:00,,2,4,11,WAS 28,0,WAS,
-18,3422,3,02:16,,10,4,39,DAL 37,0,WAS,
-18,3177,1,07:22,,10,4,13,WAS 31,0,WAS,
-18,3135,2,08:47,,6,4,8,WAS 24,0,WAS,
-18,3378,2,02:21,,9,4,48,DAL 36,0,WAS,
-18,3291,3,04:45,,2,4,39,DAL 50,0,WAS,
-18,3114,1,09:27,,10,4,4,WAS 20,0,WAS,
-18,3224,3,06:34,,8,4,22,WAS 33,0,WAS,
-1,76,2,14:30,,8,1,16,DAL 22,0,DAL,
-1,125,2,13:18,,5,1,21,DAL 41,0,DAL,
-1,55,1,15:00,,10,1,2,DAL 20,0,DAL,
-1,170,4,12:38,,17,1,9,DAL 29,0,DAL,PUNT
-1,151,3,13:12,,5,1,9,DAL 41,0,DAL,
-1,104,1,13:52,,10,1,21,DAL 36,0,DAL,
-1,36,0,15:00,,0,1,21,WAS 35,0,WAS,KICKOFF
-5,742,1,02:32,,20,1,-10,DAL 9,0,DAL,
-5,768,2,02:23,,20,1,2,DAL 9,0,DAL,FUMBLE
-5,710,1,02:51,,10,1,-10,DAL 19,0,DAL,PENALTY
-13,2246,2,08:04,,11,3,14,DAL 36,0,DAL,
-13,2154,0,09:51,,0,3,0,WAS 35,0,WAS,KICKOFF
-13,2294,4,07:41,,23,3,2,DAL 24,0,DAL,PUNT
-13,2272,3,07:59,,11,3,2,DAL 36,0,DAL,
-13,2225,1,08:34,,10,3,14,DAL 37,0,DAL,
-13,2197,2,09:08,,6,3,15,DAL 26,0,DAL,
-13,2176,1,09:46,,10,3,4,DAL 22,0,DAL,
-21,3935,3,10:30,,3,5,58,DAL 22,0,WAS,
-21,3890,1,11:52,,10,5,53,DAL 29,0,WAS,
-21,3959,4,09:48,,3,5,58,DAL 22,1,WAS,FG
-21,3776,1,15:00,,10,5,23,WAS 20,0,WAS,
-21,3749,0,15:00,,0,5,0,DAL 35,0,DAL,KICKOFF
-21,3866,1,12:25,,10,5,51,DAL 45,0,WAS,
-21,3842,3,13:03,,3,5,35,50,0,WAS,
-21,3911,2,11:10,,8,5,58,DAL 27,0,WAS,
-21,3821,2,13:40,,2,5,30,DAL 49,0,WAS,
-21,3800,1,14:18,,10,5,31,WAS 43,0,WAS,
-11,1831,3,00:23,,3,2,20,DAL 44,0,DAL,
-11,1805,2,00:27,,3,2,32,DAL 44,0,DAL,
-11,1764,1,00:34,,10,2,32,DAL 37,0,DAL,
-11,1850,0,,,0,2,20,,0,,
-11,1690,1,01:16,,10,2,16,DAL 23,0,DAL,
-11,1714,2,01:00,,5,2,16,DAL 28,0,DAL,
-11,1666,1,01:42,,10,2,11,DAL 12,0,DAL,
-11,1740,3,00:56,,5,2,25,DAL 28,0,DAL,
-11,1788,0,00:27,,0,2,32,,0,,TIMEOUT
-14,2317,1,07:34,,10,3,-6,WAS 20,0,WAS,
-14,2345,2,06:45,,16,3,1,WAS 14,0,WAS,
-14,2399,4,05:46,,9,3,1,WAS 21,0,WAS,PUNT
-14,2373,3,05:58,,9,3,1,WAS 21,0,WAS,
-8,1192,4,09:10,,21,2,41,DAL 49,0,WAS,PUNT
-8,1095,1,11:16,,10,2,57,DAL 38,0,WAS,
-8,1149,2,10:24,,20,2,49,DAL 48,0,WAS,
-8,1046,1,12:51,,10,2,3,WAS 10,0,WAS,
-8,1067,2,12:08,,7,2,52,WAS 13,0,WAS,
-8,1173,3,09:41,,13,2,41,DAL 41,0,WAS,
-8,1116,2,10:33,,5,2,42,DAL 33,0,WAS,PENALTY
-19,3618,2,00:38,,5,4,29,DAL 28,0,DAL,
-19,3686,4,00:13,,11,4,19,DAL 22,0,DAL,PUNT
-19,3601,0,00:38,,0,4,25,,0,,TIMEOUT
-19,3577,1,00:44,,10,4,25,DAL 23,0,DAL,
-19,3479,1,01:52,,10,4,9,DAL 3,0,DAL,
-19,3642,3,00:38,,1,4,19,DAL 32,0,DAL,PENALTY
-19,3560,0,00:44,,0,4,20,,0,,TIMEOUT
-19,3501,2,01:25,,1,4,2,DAL 12,0,DAL,FUMBLE
-19,3536,3,00:53,,8,4,20,DAL 5,0,DAL,
-22,4018,2,09:11,,2,5,7,DAL 28,0,DAL,
-22,3997,1,09:43,,10,5,8,DAL 20,0,DAL,
-22,3979,0,09:43,,0,5,7,WAS 35,0,WAS,KICKOFF
-22,4042,3,08:25,,3,5,7,DAL 27,0,DAL,
-22,4093,4,08:21,,3,5,7,DAL 27,0,DAL,
-22,4075,0,08:21,,0,5,7,,0,,TIMEOUT
-12,1969,3,12:29,,2,3,54,DAL 36,0,WAS,
-12,2091,2,10:28,,7,3,75,DAL 23,0,WAS,
-12,1866,0,15:00,,0,3,0,DAL 35,0,DAL,KICKOFF
-12,2029,1,11:57,,20,3,39,DAL 36,0,WAS,PENALTY
-12,2120,1,09:56,,5,3,80,DAL 5,1,WAS,TD
-12,2138,0,09:51,,0,3,80,DAL 2,1,WAS,XP
-12,1885,1,15:00,,10,3,7,WAS 20,0,WAS,
-12,1948,2,13:11,,5,3,44,DAL 39,0,WAS,
-12,2052,1,11:02,,25,3,57,DAL 41,0,WAS,
-12,1906,2,14:20,,3,3,36,WAS 27,0,WAS,
-12,1927,1,13:48,,10,3,41,DAL 44,0,WAS,
-12,1997,1,11:57,,10,3,44,DAL 26,0,WAS,PENALTY
-12,2073,0,10:28,,0,3,57,,0,,TIMEOUT
-16,2606,2,03:19,,14,3,4,WAS 16,0,WAS,
-16,2775,2,14:27,,7,4,73,DAL 7,0,WAS,
-16,2751,1,15:00,,8,4,73,DAL 8,0,WAS,
-16,2658,1,01:41,,10,3,15,WAS 31,0,WAS,
-16,2562,1,04:03,,10,3,-5,WAS 20,0,WAS,PENALTY
-16,2630,3,02:26,,6,3,11,WAS 24,0,WAS,
-16,2817,0,13:38,,0,4,80,DAL 2,1,WAS,XP
-16,2544,0,04:03,,0,3,72,DAL 35,0,DAL,KICKOFF
-16,2707,1,00:25,,10,3,72,WAS 47,0,WAS,
-16,2585,1,04:03,,15,3,-4,WAS 15,0,WAS,
-16,2679,2,01:00,,6,3,27,WAS 35,0,WAS,
-16,2731,0,,,0,3,72,,0,,
-16,2799,3,13:44,,7,4,80,DAL 7,1,WAS,TD
-7,849,1,01:23,,10,1,9,DAL 20,0,DAL,
-7,902,3,00:38,,1,1,70,DAL 29,0,DAL,
-7,981,3,13:42,,4,2,36,DAL 41,0,DAL,
-7,923,0,,,0,1,15,,0,,
-7,939,1,15:00,,10,2,19,DAL 35,0,DAL,
-7,876,2,00:46,,1,1,9,DAL 29,0,DAL,
-7,960,2,14:28,,6,2,21,DAL 39,0,DAL,
-7,1005,1,13:08,,10,2,70,WAS 44,0,DAL,FUMBLE
-3,363,1,09:40,,10,1,8,DAL 15,0,DAL,
-3,454,1,07:14,,10,1,32,WAS 50,0,DAL,PENALTY
-3,412,1,08:26,,10,1,23,DAL 36,0,DAL,
-3,384,2,09:03,,2,1,21,DAL 23,0,DAL,
-3,486,1,06:54,,10,1,43,WAS 44,0,DAL,
-3,552,4,05:33,,19,1,32,DAL 47,0,DAL,PUNT
-3,507,2,06:16,,8,1,43,WAS 42,0,DAL,
-3,433,2,07:53,,8,1,35,DAL 38,0,DAL,
-3,533,3,06:09,,8,1,32,WAS 42,0,DAL,
-3,337,0,09:48,,0,1,0,WAS 35,0,WAS,KICKOFF
-17,2853,0,13:38,,0,4,80,50,0,WAS,KICKOFF
-17,2994,2,10:54,,15,4,47,DAL 44,0,DAL,
-17,2966,1,11:42,,10,4,24,DAL 49,0,DAL,FUMBLE
-17,2938,2,12:08,,7,4,29,DAL 35,0,DAL,
-17,2917,1,12:35,,10,4,15,DAL 32,0,DAL,
-17,3043,2,09:36,,2,4,80,WAS 25,1,DAL,TD
-17,3063,0,09:27,,0,4,80,WAS 2,1,DAL,XP
-17,3022,1,10:11,,10,4,55,WAS 33,0,DAL,
-17,2872,1,13:38,,10,4,5,DAL 20,0,DAL,
-17,2893,2,13:12,,5,4,12,DAL 25,0,DAL,
-4,602,1,05:24,,10,1,19,WAS 26,0,WAS,
-4,572,1,05:24,,10,1,18,WAS 8,0,WAS,
-4,623,2,04:00,,9,1,17,WAS 27,0,WAS,
-4,651,3,03:17,,11,1,20,WAS 25,0,WAS,
-4,684,4,02:55,,8,1,20,WAS 28,0,WAS,PUNT
-2,221,2,11:49,,7,1,23,DAL 45,0,WAS,
-2,270,2,10:42,,11,1,22,DAL 26,0,WAS,
-2,196,1,12:27,,10,1,3,DAL 48,0,WAS,
-2,317,4,09:52,,11,1,22,DAL 26,1,WAS,FG
-2,291,3,10:00,,11,1,22,DAL 26,0,WAS,
-2,249,1,11:21,,10,1,22,DAL 25,0,WAS,
-15,2451,1,04:58,,6,3,54,WAS 6,0,DAL,
-15,2430,1,05:43,,10,3,51,DAL 43,0,DAL,
-15,2498,3,04:12,,3,3,54,WAS 3,0,DAL,
-15,2472,2,04:16,,3,3,54,WAS 3,0,DAL,
-15,2524,4,04:07,,3,3,54,WAS 3,1,DAL,FG
+20,3733,0,,END QUARTER 4,0,4,-1,,0,,
+20,3712,1,00:06,(:06) C.McCoy kneels to WAS 30 for -1 yards.,10,4,-1,WAS 31,0,WAS,
+21,3959,4,09:48,"(9:48) (Field Goal formation) K.Forbath 40 yard field goal is GOOD, Center-N.Sundberg, Holder-T.Way.",3,5,58,DAL 22,1,WAS,FG
+21,3776,1,15:00,(15:00) C.McCoy pass deep middle to P.Garcon to WAS 43 for 23 yards (J.Wilcox).,10,5,23,WAS 20,0,WAS,
+21,3821,2,13:40,"(13:40) R.Helu left tackle to 50 for -1 yards (R.McClain, T.Crawford).",2,5,30,DAL 49,0,WAS,
+21,3749,0,15:00,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback. Ball was kicked out of the end zone.",0,5,0,DAL 35,0,DAL,KICKOFF
+21,3911,2,11:10,(11:10) (Shotgun) C.McCoy pass short left to D.Jackson to DAL 22 for 5 yards (R.McClain).,8,5,58,DAL 27,0,WAS,
+21,3866,1,12:25,(12:25) C.McCoy pass deep left to J.Reed ran ob at DAL 29 for 16 yards.,10,5,51,DAL 45,0,WAS,
+21,3800,1,14:18,(14:18) (Shotgun) A.Morris left end to DAL 49 for 8 yards (J.Wilcox).,10,5,31,WAS 43,0,WAS,
+21,3935,3,10:30,(10:30) (Shotgun) C.McCoy pass short right to J.Reed to DAL 22 for no gain (J.Wilcox).,3,5,58,DAL 22,0,WAS,
+21,3842,3,13:03,(13:03) (Shotgun) C.McCoy pass short left to J.Reed pushed ob at DAL 45 for 5 yards (B.Church).,3,5,35,50,0,WAS,
+21,3890,1,11:52,(11:52) A.Morris right tackle to DAL 27 for 2 yards (A.Spencer).,10,5,53,DAL 29,0,WAS,
+22,4093,4,08:21,(8:21) (Shotgun) T.Romo pass incomplete short right to D.Bryant (B.Breeland). Pass knocked away on a corner route. at the Dallas 45.,3,5,7,DAL 27,0,DAL,
+22,4018,2,09:11,(9:11) T.Romo pass short right to D.Murray pushed ob at DAL 27 for -1 yards (P.Riley).,2,5,7,DAL 28,0,DAL,
+22,4042,3,08:25,(8:25) (Shotgun) T.Romo pass incomplete short left to J.Witten (P.Riley). DAL-R.Leary was injured during the play. His return is Questionable.,3,5,7,DAL 27,0,DAL,
+22,4075,0,08:21,Timeout #1 by DAL at 08:21.,0,5,7,,0,,TIMEOUT
+22,3997,1,09:43,(9:43) D.Murray right tackle to DAL 28 for 8 yards (C.Baker).,10,5,8,DAL 20,0,DAL,
+22,3979,0,09:43,"K.Forbath kicks 65 yards from WAS 35 to end zone, Touchback.",0,5,7,WAS 35,0,WAS,KICKOFF
+1,151,3,13:12,(13:12) (Shotgun) T.Romo sacked at DAL 29 for -12 yards (B.Meriweather).,5,1,9,DAL 41,0,DAL,
+1,55,1,15:00,(15:00) D.Murray left guard to DAL 22 for 2 yards (J.Jenkins).,10,1,2,DAL 20,0,DAL,
+1,36,0,15:00,"K.Forbath kicks 65 yards from WAS 35 to end zone, Touchback. Ball was kicked out of the end zone.",0,1,21,WAS 35,0,WAS,KICKOFF
+1,76,2,14:30,(14:30) T.Romo pass short middle to J.Witten to DAL 36 for 14 yards (D.Amerson). Pass complete on a curl.,8,1,16,DAL 22,0,DAL,
+1,125,2,13:18,(13:18) (Shotgun) T.Romo pass incomplete short right to D.Street. Pass incomplete at the Washington 45: Kerringan closest defender.,5,1,21,DAL 41,0,DAL,
+1,104,1,13:52,(13:52) D.Murray right tackle to DAL 41 for 5 yards (K.Robinson; J.Jenkins).,10,1,21,DAL 36,0,DAL,
+1,170,4,12:38,"(12:38) (Punt formation) C.Jones punts 56 yards to WAS 15, Center-L.Ladouceur. A.Roberts to DAL 48 for 37 yards (C.Jones). Return left side of the field outside the yardline numbers.",17,1,9,DAL 29,0,DAL,PUNT
+3,337,0,09:48,K.Forbath kicks 68 yards from WAS 35 to DAL -3. D.Harris to DAL 15 for 18 yards (E.Biggers). Return left side of the field outside the yardline numbers.,0,1,0,WAS 35,0,WAS,KICKOFF
+3,454,1,07:14,"(7:14) T.Romo scrambles right end ran ob at WAS 49 for 1 yard (P.Riley). PENALTY on WAS-B.Meriweather, Illegal Contact, 5 yards, enforced at WAS 49.",10,1,32,WAS 50,0,DAL,PENALTY
+3,433,2,07:53,(7:53) (Shotgun) D.Murray up the middle to WAS 50 for 12 yards (B.Breeland).,8,1,35,DAL 38,0,DAL,
+3,533,3,06:09,(6:09) (Shotgun) T.Romo sacked at DAL 47 for -11 yards (P.Riley).,8,1,32,WAS 42,0,DAL,
+3,384,2,09:03,(9:03) (Shotgun) T.Romo pass short left to T.Williams to DAL 36 for 13 yards (D.Amerson). Pass complete on a curl corner route.,2,1,21,DAL 23,0,DAL,
+3,412,1,08:26,"(8:26) D.Murray right guard to DAL 38 for 2 yards (T.Murphy, C.Baker).",10,1,23,DAL 36,0,DAL,
+3,507,2,06:16,(6:16) (Shotgun) T.Romo pass incomplete deep middle to J.Witten. Pass incomplete at the Washington 23 on a slant pattern; Clark closest defender.,8,1,43,WAS 42,0,DAL,
+3,486,1,06:54,(6:54) D.Murray up the middle to WAS 42 for 2 yards (S.Bowen).,10,1,43,WAS 44,0,DAL,
+3,552,4,05:33,"(5:33) (Punt formation) C.Jones punts 45 yards to WAS 8, Center-L.Ladouceur, fair catch by A.Roberts.",19,1,32,DAL 47,0,DAL,PUNT
+3,363,1,09:40,(9:40) D.Murray right tackle to DAL 23 for 8 yards (R.Kerrigan).,10,1,8,DAL 15,0,DAL,
+2,196,1,12:27,"(12:27) A.Morris left guard to DAL 45 for 3 yards (R.McClain, J.Mincey).",10,1,3,DAL 48,0,WAS,
+2,317,4,09:52,"(9:52) (Field Goal formation) K.Forbath 44 yard field goal is GOOD, Center-N.Sundberg, Holder-T.Way.",11,1,22,DAL 26,1,WAS,FG
+2,270,2,10:42,(10:42) (Shotgun) C.McCoy right end to DAL 26 for no gain (B.Carr).,11,1,22,DAL 26,0,WAS,
+2,249,1,11:21,(11:21) A.Morris right tackle to DAL 26 for -1 yards (J.Durant).,10,1,22,DAL 25,0,WAS,
+2,221,2,11:49,(11:49) (Shotgun) C.McCoy pass short left to N.Paul pushed ob at DAL 25 for 20 yards (J.Wilcox). Pass complete on a corner route.,7,1,23,DAL 45,0,WAS,
+2,291,3,10:00,(10:00) (Shotgun) C.McCoy pass incomplete deep left to A.Roberts [A.Spencer]. Pass incomplete after roll left; ball incomplete in the end zone.,11,1,22,DAL 26,0,WAS,
+5,742,1,02:32,(2:32) T.Romo pass incomplete deep middle to T.Williams (B.Breeland). Pass incomplete on a deep seam route.,20,1,-10,DAL 9,0,DAL,
+5,768,2,02:23,"(2:23) (Shotgun) J.Randle left end to DAL 21 for 12 yards (B.Meriweather). FUMBLES (B.Meriweather), RECOVERED by WAS-T.Murphy at DAL 25. T.Murphy to DAL 25 for no gain (J.Randle).",20,1,2,DAL 9,0,DAL,FUMBLE
+5,710,1,02:51,"(2:51) J.Randle left tackle to DAL 22 for 3 yards (K.Golston). PENALTY on DAL-T.Frederick, Offensive Holding, 10 yards, enforced at DAL 19 - No Play.",10,1,-10,DAL 19,0,DAL,PENALTY
+4,623,2,04:00,(4:00) (Shotgun) C.McCoy pass short right to P.Garcon to WAS 25 for -2 yards (J.Durant; T.Crawford). Pass complete on a bubble screen.,9,1,17,WAS 27,0,WAS,
+4,572,1,05:24,(5:24) (Shotgun) C.McCoy pass deep left to D.Jackson to WAS 26 for 18 yards (J.Durant).,10,1,18,WAS 8,0,WAS,
+4,651,3,03:17,(3:17) (Shotgun) C.McCoy pass short left to J.Reed pushed ob at WAS 28 for 3 yards (T.Patmon). Pass complete on a corner route.,11,1,20,WAS 25,0,WAS,
+4,684,4,02:55,"(2:55) (Punt formation) T.Way punts 53 yards to DAL 19, Center-N.Sundberg. D.Harris to DAL 19 for no gain (A.Davis).",8,1,20,WAS 28,0,WAS,PUNT
+4,602,1,05:24,(5:24) A.Morris right tackle to WAS 27 for 1 yard (T.Crawford).,10,1,19,WAS 26,0,WAS,
+7,902,3,00:38,(:38) L.Dunbar left end to DAL 35 for 6 yards (R.Clark). Injury update: Redskins'Jenkins has a foot injury; return questionable.,1,1,70,DAL 29,0,DAL,
+7,960,2,14:28,(14:28) D.Murray left guard to DAL 41 for 2 yards (R.Kerrigan; K.Robinson).,6,2,21,DAL 39,0,DAL,
+7,876,2,00:46,(:46) (Shotgun) T.Romo pass incomplete short middle to J.Witten. Pass incomplete on a drag route; Riley Jr. closest defender.,1,1,9,DAL 29,0,DAL,
+7,981,3,13:42,(13:42) (Shotgun) T.Romo pass short left to J.Witten pushed ob at WAS 44 for 15 yards (K.Robinson).,4,2,36,DAL 41,0,DAL,
+7,849,1,01:23,(1:23) D.Murray right guard to DAL 29 for 9 yards (R.Clark).,10,1,9,DAL 20,0,DAL,
+7,939,1,15:00,(15:00) D.Murray right tackle to DAL 39 for 4 yards (J.Jenkins; K.Robinson).,10,2,19,DAL 35,0,DAL,
+7,1005,1,13:08,"(13:08) T.Romo pass short right to D.Murray to WAS 8 for 36 yards (B.Breeland). FUMBLES (B.Breeland), RECOVERED by WAS-B.Meriweather at WAS 10. B.Meriweather to WAS 10 for no gain (T.Williams).",10,2,70,WAS 44,0,DAL,FUMBLE
+7,923,0,,END QUARTER 1,0,1,15,,0,,
+6,801,1,02:09,(2:09) C.McCoy right tackle to DAL 27 for -2 yards (T.Crawford).,10,1,-2,DAL 25,0,WAS,
+6,822,2,01:31,"(1:31) (Shotgun) C.McCoy pass deep left intended for A.Roberts INTERCEPTED by J.Wilcox at DAL 0. Touchback. Pass was intercepted deep left corner of the end zone. The Replay Official challenged the incomplete pass ruling, and the play was Upheld. The ruling on the field stands.",12,1,-2,DAL 27,0,WAS,INT
+9,1323,3,06:18,(6:18) (Shotgun) T.Romo pass short left to D.Murray to WAS 20 for 24 yards (D.Amerson).,6,2,60,WAS 44,0,DAL,
+9,1210,1,09:03,(9:03) D.Murray left tackle to DAL 29 for 9 yards (R.Clark; K.Robinson).,10,2,9,DAL 20,0,DAL,
+9,1231,2,08:24,(8:24) D.Murray right tackle to DAL 32 for 3 yards (E.Brown).,1,2,12,DAL 29,0,DAL,
+9,1276,1,07:12,(7:12) D.Murray right guard to WAS 44 for 4 yards (R.Kerrigan).,10,2,36,WAS 48,0,DAL,
+9,1347,1,05:30,(5:30) (Shotgun) T.Romo pass short middle to T.Williams to WAS 5 for 15 yards (B.Breeland). Pass complete on a crossing route.,10,2,75,WAS 20,0,DAL,
+9,1252,1,07:47,(7:47) (Shotgun) T.Romo pass short middle to D.Bryant to WAS 48 for 20 yards (R.Clark).,10,2,32,DAL 32,0,DAL,
+9,1375,1,04:52,"(4:52) T.Romo pass short left to D.Bryant for 5 yards, TOUCHDOWN.",5,2,80,WAS 5,1,DAL,TD
+9,1297,2,06:26,(6:26) (Shotgun) T.Romo pass incomplete short right to D.Harris. Pass incomplete on a corner route Breeland closest defender.,6,2,36,WAS 44,0,DAL,
+9,1405,0,04:45,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,2,80,WAS 2,1,DAL,XP
+8,1095,1,11:16,(11:16) A.Morris left end to DAL 33 for 5 yards (J.Durant).,10,2,57,DAL 38,0,WAS,
+8,1192,4,09:10,"(9:10) (Punt formation) T.Way punts 49 yards to end zone, Center-N.Sundberg, Touchback.",21,2,41,DAL 49,0,WAS,PUNT
+8,1173,3,09:41,(9:41) (Shotgun) C.McCoy sacked at DAL 49 for -8 yards (H.Melton).,13,2,41,DAL 41,0,WAS,
+8,1046,1,12:51,(12:51) A.Morris right end to WAS 13 for 3 yards (J.Durant).,10,2,3,WAS 10,0,WAS,
+8,1149,2,10:24,(10:24) (Shotgun) C.McCoy pass short left to R.Helu to DAL 41 for 7 yards (J.Durant).,20,2,49,DAL 48,0,WAS,
+8,1067,2,12:08,(12:08) C.McCoy pass deep middle to D.Jackson to DAL 38 for 49 yards (S.Moore). Pass complete on a post pattern.,7,2,52,WAS 13,0,WAS,
+8,1116,2,10:33,"(10:33) C.McCoy pass incomplete short right to N.Paul. PENALTY on WAS-L.Paulsen, Unsportsmanlike Conduct, 15 yards, enforced at DAL 33 - No Play.",5,2,42,DAL 33,0,WAS,PENALTY
+11,1788,0,00:27,Timeout #2 by DAL at 00:27.,0,2,32,,0,,TIMEOUT
+11,1805,2,00:27,(:27) (Shotgun) T.Romo pass incomplete short middle to D.Bryant. Pass incomplete on a slant pattern; Amerson closest defender.,3,2,32,DAL 44,0,DAL,
+11,1831,3,00:23,(:23) (Shotgun) T.Romo sacked at DAL 32 for -12 yards (R.Kerrigan).,3,2,20,DAL 44,0,DAL,
+11,1714,2,01:00,"(1:00) (No Huddle, Shotgun) T.Romo pass incomplete short middle to C.Beasley. Pass incomplet on a slant pattern; Biggers closest defender.",5,2,16,DAL 28,0,DAL,
+11,1850,0,,END QUARTER 2,0,2,20,,0,,
+11,1690,1,01:16,"(1:16) (No Huddle, Shotgun) T.Romo pass short left to D.Bryant to DAL 28 for 5 yards (D.Amerson).",10,2,16,DAL 23,0,DAL,
+11,1666,1,01:42,(1:42) (Shotgun) T.Romo pass short middle to L.Dunbar to DAL 23 for 11 yards (K.Robinson).,10,2,11,DAL 12,0,DAL,
+11,1740,3,00:56,(:56) (Shotgun) T.Romo pass short left to J.Witten to DAL 37 for 9 yards (R.Clark).,5,2,25,DAL 28,0,DAL,
+11,1764,1,00:34,"(:34) (No Huddle, Shotgun) T.Romo pass short middle to J.Witten to DAL 44 for 7 yards (K.Robinson).",10,2,32,DAL 37,0,DAL,
+10,1421,0,04:45,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback.",0,2,0,DAL 35,0,DAL,KICKOFF
+10,1620,3,01:53,(1:53) (Shotgun) C.McCoy pass incomplete deep left to D.Jackson (O.Scandrick) [R.McClain]. Pass incomplete on a go route at the Dallas 20.,5,2,31,DAL 49,0,WAS,
+10,1541,2,02:32,(2:32) (Shotgun) C.McCoy pass short right to J.Reed to DAL 49 for 6 yards (B.Carr).,11,2,31,WAS 45,0,WAS,
+10,1583,3,02:00,"(2:00) (Shotgun) C.McCoy pass incomplete short left to A.Roberts (O.Scandrick) [R.McClain]. Penalty on DAL-B.Carr, Unnecessary Roughness, offsetting, enforced at DAL 49 - No Play. Penalty on WAS-D.Jackson, Unnecessary Roughness, offsetting.",5,2,31,DAL 49,0,WAS,
+10,1439,1,04:45,"(4:45) S.Redd left tackle to WAS 25 for 5 yards (R.McClain). Dallas challenged the runner was down by contact ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",10,2,5,WAS 20,0,WAS,TIMEOUT
+10,1646,4,01:48,"(1:48) (Punt formation) T.Way punts 37 yards to DAL 12, Center-N.Sundberg, fair catch by D.Harris.",5,2,31,DAL 49,0,WAS,PUNT
+10,1520,1,03:15,(3:15) R.Helu up the middle to WAS 45 for -1 yards (J.Durant).,10,2,25,WAS 46,0,WAS,
+10,1475,2,04:19,(4:19) (Shotgun) C.McCoy pass short left to A.Roberts pushed ob at WAS 36 for 11 yards (S.Moore).,5,2,16,WAS 25,0,WAS,
+10,1499,1,03:53,(3:53) (Shotgun) R.Helu up the middle to WAS 46 for 10 yards (N.Hayden).,10,2,26,WAS 36,0,WAS,
+10,1565,0,02:00,Two-Minute Warning,0,2,31,,0,,
+13,2272,3,07:59,(7:59) (Shotgun) T.Romo sacked at DAL 24 for -12 yards (K.Robinson). DAL-T.Romo was injured during the play. His return is Questionable.,11,3,2,DAL 36,0,DAL,
+13,2225,1,08:34,(8:34) D.Murray left end pushed ob at DAL 36 for -1 yards (B.Meriweather).,10,3,14,DAL 37,0,DAL,
+13,2294,4,07:41,"(7:41) (Punt formation) C.Jones punts 56 yards to WAS 20, Center-L.Ladouceur, out of bounds.",23,3,2,DAL 24,0,DAL,PUNT
+13,2154,0,09:51,K.Forbath kicks 70 yards from WAS 35 to DAL -5. D.Harris to DAL 22 for 27 yards (D.Young).,0,3,0,WAS 35,0,WAS,KICKOFF
+13,2176,1,09:46,(9:46) D.Murray right tackle to DAL 26 for 4 yards (B.Meriweather).,10,3,4,DAL 22,0,DAL,
+13,2197,2,09:08,(9:08) (Shotgun) T.Romo pass short middle to C.Beasley to DAL 37 for 11 yards (E.Biggers). Pass complete on a crossing route.,6,3,15,DAL 26,0,DAL,
+13,2246,2,08:04,(8:04) (Shotgun) T.Romo pass incomplete short left to L.Dunbar (T.Murphy). Pass was knocked down at the line of scrimmage; almost intercepted.,11,3,14,DAL 36,0,DAL,
+12,2120,1,09:56,"(9:56) (Shotgun) A.Morris up the middle for 5 yards, TOUCHDOWN.",5,3,80,DAL 5,1,WAS,TD
+12,1948,2,13:11,(13:11) (Shotgun) R.Helu up the middle to DAL 36 for 3 yards (J.Mincey; R.McClain).,5,3,44,DAL 39,0,WAS,
+12,2052,1,11:02,(11:02) (Shotgun) R.Helu up the middle to DAL 23 for 18 yards (J.Wilcox).,25,3,57,DAL 41,0,WAS,
+12,1969,3,12:29,(12:29) (Shotgun) C.McCoy pass short left to D.Jackson to DAL 26 for 10 yards (S.Moore). Pass complete on a slant pattern.,2,3,54,DAL 36,0,WAS,
+12,1997,1,11:57,"(11:57) A.Morris left end to DAL 16 for 10 yards (B.Church). PENALTY on WAS-N.Paul, Offensive Holding, 10 yards, enforced at DAL 26 - No Play.",10,3,44,DAL 26,0,WAS,PENALTY
+12,1866,0,15:00,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback. Ball was kicked out of the end zone.",0,3,0,DAL 35,0,DAL,KICKOFF
+12,2138,0,09:51,"K.Forbath extra point is GOOD, Center-N.Sundberg, Holder-T.Way.",0,3,80,DAL 2,1,WAS,XP
+12,2073,0,10:28,Timeout #1 by WAS at 10:28.,0,3,57,,0,,TIMEOUT
+12,2091,2,10:28,(10:28) (Shotgun) C.McCoy pass short right to P.Garcon pushed ob at DAL 5 for 18 yards (O.Scandrick).,7,3,75,DAL 23,0,WAS,
+12,1927,1,13:48,(13:48) A.Morris left tackle to DAL 39 for 5 yards (R.McClain; J.Durant).,10,3,41,DAL 44,0,WAS,
+12,1906,2,14:20,(14:20) A.Morris right end pushed ob at DAL 44 for 29 yards (J.Wilcox).,3,3,36,WAS 27,0,WAS,
+12,1885,1,15:00,(15:00) C.McCoy scrambles up the middle to WAS 27 for 7 yards (B.Church).,10,3,7,WAS 20,0,WAS,
+12,2029,1,11:57,"(11:57) (Shotgun) PENALTY on WAS-C.McCoy, Delay of Game, 5 yards, enforced at DAL 36 - No Play.",20,3,39,DAL 36,0,WAS,PENALTY
+15,2498,3,04:12,(4:12) (Shotgun) B.Weeden pass incomplete short middle to D.Bryant (B.Breeland). Pass incomplete on a slant pattern.,3,3,54,WAS 3,0,DAL,
+15,2430,1,05:43,(5:43) D.Murray left tackle to WAS 6 for 51 yards (B.Breeland).,10,3,51,DAL 43,0,DAL,
+15,2451,1,04:58,(4:58) D.Murray right tackle to WAS 3 for 3 yards (K.Golston).,6,3,54,WAS 6,0,DAL,
+15,2472,2,04:16,(4:16) B.Weeden pass incomplete short right to D.Bryant (B.Breeland). Pass was broken up front-right corner of the end zone.,3,3,54,WAS 3,0,DAL,
+15,2524,4,04:07,"(4:07) (Field Goal formation) D.Bailey 21 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",3,3,54,WAS 3,1,DAL,FG
+14,2345,2,06:45,(6:45) (Shotgun) C.McCoy pass short left to N.Paul to WAS 21 for 7 yards (B.Church; S.Moore).,16,3,1,WAS 14,0,WAS,
+14,2317,1,07:34,(7:34) A.Morris left end to WAS 14 for -6 yards (H.Melton).,10,3,-6,WAS 20,0,WAS,
+14,2399,4,05:46,"(5:46) (Punt formation) T.Way punts 54 yards to DAL 25, Center-N.Sundberg. D.Harris pushed ob at DAL 43 for 18 yards (A.Hayward).",9,3,1,WAS 21,0,WAS,PUNT
+14,2373,3,05:58,(5:58) (Shotgun) C.McCoy pass incomplete deep right to A.Roberts. Pass incomplete on a flag pattern; Carr closest defender.,9,3,1,WAS 21,0,WAS,
+17,2872,1,13:38,(13:38) D.Murray right end pushed ob at DAL 25 for 5 yards (P.Riley).,10,4,5,DAL 20,0,DAL,
+17,2966,1,11:42,"(11:42) B.Weeden to DAL 44 for -5 yards. FUMBLES, recovered by DAL-D.Murray at DAL 44. D.Murray to DAL 44 for no gain (R.Kerrigan).",10,4,24,DAL 49,0,DAL,FUMBLE
+17,2938,2,12:08,(12:08) B.Weeden pass short right to T.Williams to DAL 49 for 14 yards (E.Biggers). Pass complete on a corner route.,7,4,29,DAL 35,0,DAL,
+17,2917,1,12:35,(12:35) J.Randle left end pushed ob at DAL 35 for 3 yards (K.Robinson).,10,4,15,DAL 32,0,DAL,
+17,2853,0,13:38,"K.Forbath kicks 50 yards from 50 to end zone, Touchback. Ball was kicked out of the end zone. Tony Romo is being evaluated in the locker room; his status is unknown.",0,4,80,50,0,WAS,KICKOFF
+17,2994,2,10:54,(10:54) (Shotgun) B.Weeden pass short right to D.Murray to WAS 33 for 23 yards (B.Meriweather). Screen pass.,15,4,47,DAL 44,0,DAL,
+17,3022,1,10:11,(10:11) J.Randle up the middle to WAS 25 for 8 yards (E.Brown; W.Compton).,10,4,55,WAS 33,0,DAL,
+17,2893,2,13:12,(13:12) (Shotgun) B.Weeden pass short left to J.Hanna to DAL 32 for 7 yards (K.Robinson).,5,4,12,DAL 25,0,DAL,
+17,3063,0,09:27,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones. Justin Durant of Dallas has an arm injury and will not return to the game.",0,4,80,WAS 2,1,DAL,XP
+17,3043,2,09:36,"(9:36) B.Weeden pass short right to J.Witten for 25 yards, TOUCHDOWN. Pass complete off play action.",2,4,80,WAS 25,1,DAL,TD
+16,2585,1,04:03,"(4:03) A.Morris right tackle to WAS 16 for 1 yard (J.Durant, N.Hayden).",15,3,-4,WAS 15,0,WAS,
+16,2658,1,01:41,"(1:41) (Shotgun) A.Morris up the middle to WAS 35 for 4 yards (R.McClain, N.Hayden).",10,3,15,WAS 31,0,WAS,
+16,2731,0,,END QUARTER 3,0,3,72,,0,,
+16,2544,0,04:03,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback.",0,3,72,DAL 35,0,DAL,KICKOFF
+16,2707,1,00:25,(:25) C.McCoy pass deep right to D.Jackson to DAL 8 for 45 yards (B.Carr). Pass complete on a deep out pattern.,10,3,72,WAS 47,0,WAS,
+16,2562,1,04:03,"(4:03) PENALTY on WAS-T.Compton, False Start, 5 yards, enforced at WAS 20 - No Play.",10,3,-5,WAS 20,0,WAS,PENALTY
+16,2630,3,02:26,(2:26) (Shotgun) C.McCoy pass short middle to R.Helu to WAS 31 for 7 yards (J.Durant).,6,3,11,WAS 24,0,WAS,
+16,2775,2,14:27,(14:27) C.McCoy pass short right to N.Paul to DAL 7 for no gain (J.Wilcox).,7,4,73,DAL 7,0,WAS,
+16,2679,2,01:00,(1:00) (Shotgun) C.McCoy pass short right to A.Morris pushed ob at WAS 47 for 12 yards (B.Carr). Screen pass.,6,3,27,WAS 35,0,WAS,
+16,2799,3,13:44,"(13:44) (Shotgun) C.McCoy up the middle for 7 yards, TOUCHDOWN. DAL-O.Scandrick was injured during the play. His return is Questionable.  Quarterback draw.",7,4,80,DAL 7,1,WAS,TD
+16,2751,1,15:00,(15:00) (Shotgun) A.Morris right guard to DAL 7 for 1 yard (G.Selvie).,8,4,73,DAL 8,0,WAS,
+16,2606,2,03:19,(3:19) (Shotgun) C.McCoy pass short left to P.Garcon to WAS 24 for 8 yards (O.Scandrick).,14,3,4,WAS 16,0,WAS,
+16,2817,0,13:38,"K.Forbath extra point is GOOD, Center-N.Sundberg, Holder-T.Way. PENALTY on DAL-J.Mincey, Unnecessary Roughness, 15 yards, enforced between downs.",0,4,80,DAL 2,1,WAS,XP
+19,3560,0,00:44,Timeout #1 by DAL at 00:44.,0,4,20,,0,,TIMEOUT
+19,3618,2,00:38,(:38) (Shotgun) T.Romo pass short left to T.Williams to DAL 32 for 4 yards (E.Biggers).,5,4,29,DAL 28,0,DAL,
+19,3501,2,01:25,"(1:25) (No Huddle, Shotgun) T.Romo sacked at DAL 3 for -9 yards (B.Meriweather). FUMBLES (B.Meriweather), recovered by DAL-D.Murray at DAL 5. D.Murray to DAL 5 for no gain (R.Kerrigan). The Replay Official challenged the loose ball recovery ruling, and the play was Upheld. The ruling on the field stands.",1,4,2,DAL 12,0,DAL,FUMBLE
+19,3577,1,00:44,(:44) (Shotgun) T.Romo pass short right to T.Williams to DAL 28 for 5 yards (B.Breeland).,10,4,25,DAL 23,0,DAL,
+19,3601,0,00:38,Timeout #2 by DAL at 00:38.,0,4,25,,0,,TIMEOUT
+19,3479,1,01:52,(1:52) (Shotgun) D.Murray right tackle to DAL 12 for 9 yards (B.Meriweather).,10,4,9,DAL 3,0,DAL,
+19,3686,4,00:13,"(:13) (Punt formation) C.Jones punts 49 yards to WAS 29, Center-L.Ladouceur. A.Roberts pushed ob at WAS 31 for 2 yards (J.Hanna).",11,4,19,DAL 22,0,DAL,PUNT
+19,3536,3,00:53,(:53) (Shotgun) T.Romo pass deep middle to T.Williams to DAL 23 for 18 yards (B.Breeland).,8,4,20,DAL 5,0,DAL,
+19,3642,3,00:38,"(:38) (No Huddle, Shotgun) T.Romo pass incomplete. PENALTY on DAL-T.Romo, Intentional Grounding, 10 yards, enforced at DAL 32. Heavy pressure by Ryan Clark",1,4,19,DAL 32,0,DAL,PENALTY
+18,3333,4,03:46,(3:46) C.McCoy pass short right to D.Young to DAL 37 for 12 yards (B.Church).,1,4,43,DAL 49,0,WAS,
+18,3083,0,09:27,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback. Ball was kicked out of the end zone.",0,4,0,DAL 35,0,DAL,KICKOFF
+18,3378,2,02:21,(2:21) A.Morris right end pushed ob at DAL 32 for 4 yards (A.Spencer).,9,4,48,DAL 36,0,WAS,
+18,3399,3,02:16,"(2:16) (Shotgun) PENALTY on WAS-C.McCoy, Delay of Game, 5 yards, enforced at DAL 32 - No Play.",5,4,43,DAL 32,0,WAS,PENALTY
+18,3224,3,06:34,(6:34) (Shotgun) C.McCoy pass short left to J.Reed pushed ob at WAS 42 for 9 yards (O.Scandrick).,8,4,22,WAS 33,0,WAS,
+18,3114,1,09:27,(9:27) A.Morris right end to WAS 24 for 4 yards (K.Wilber).,10,4,4,WAS 20,0,WAS,
+18,3441,0,02:00,Two-Minute Warning,0,4,39,,0,,
+18,3135,2,08:47,"(8:47) A.Morris right end to WAS 28 for 4 yards (B.Church, N.Hayden).",6,4,8,WAS 24,0,WAS,
+18,3357,1,03:03,(3:03) A.Morris left guard to DAL 36 for 1 yard (T.McClain).,10,4,44,DAL 37,0,WAS,
+18,3248,1,06:07,(6:07) (Shotgun) C.McCoy sacked at WAS 41 for -1 yards (H.Melton).,10,4,21,WAS 42,0,WAS,
+18,3156,3,08:00,(8:00) (Shotgun) C.McCoy right end to WAS 31 for 3 yards (B.Church).,2,4,11,WAS 28,0,WAS,
+18,3267,2,05:20,(5:20) (Shotgun) C.McCoy pass short right to D.Jackson ran ob at DAL 50 for 9 yards [J.Mincey].,11,4,30,WAS 41,0,WAS,
+18,3422,3,02:16,(2:16) (Shotgun) C.McCoy sacked at DAL 41 for -4 yards (J.Mincey).,10,4,39,DAL 37,0,WAS,
+18,3459,4,02:00,"(2:00) (Punt formation) T.Way punts 38 yards to DAL 3, Center-N.Sundberg, downed by WAS-T.Robinson.",14,4,39,DAL 41,0,WAS,PUNT
+18,3315,0,03:46,Timeout #2 by WAS at 03:46.,0,4,31,,0,,TIMEOUT
+18,3291,3,04:45,(4:45) (Shotgun) C.McCoy pass short left to J.Reed to DAL 49 for 1 yard (O.Scandrick).,2,4,39,DAL 50,0,WAS,
+18,3177,1,07:22,(7:22) C.McCoy scrambles right end to WAS 33 for 2 yards (J.Mincey).,10,4,13,WAS 31,0,WAS,
+18,3198,2,06:39,(6:39) (Shotgun) C.McCoy pass incomplete short middle to A.Roberts (R.McClain).,8,4,13,WAS 33,0,WAS,

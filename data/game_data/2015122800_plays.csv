@@ -1,184 +1,184 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,2131,2,09:33,,20,3,-10,CIN 10,0,CIN,
-9,2152,3,08:52,,20,3,-5,CIN 10,0,CIN,
-9,2077,1,10:14,,10,3,0,CIN 20,0,CIN,
-9,2173,4,08:10,,15,3,-5,CIN 15,0,CIN,PUNT
-9,2062,0,10:14,,0,3,0,DEN 35,0,DEN,KICKOFF
-9,2098,2,09:40,,10,3,-10,CIN 20,0,CIN,PENALTY
-10,2197,1,08:02,,10,3,-6,DEN 39,0,DEN,
-10,2237,3,06:52,,13,3,5,DEN 36,0,DEN,
-10,2261,4,06:15,,5,3,5,DEN 44,0,DEN,PUNT
-10,2216,2,07:28,,16,3,-3,DEN 33,0,DEN,
-20,3772,2,00:23,,9,4,54,CIN 24,0,DEN,
-20,3658,1,01:32,,10,4,42,DEN 36,0,DEN,
-20,3710,2,00:59,,10,4,55,CIN 38,0,DEN,
-20,3634,1,01:40,,10,4,16,DEN 20,0,DEN,
-20,3734,1,00:27,,10,4,56,CIN 25,0,DEN,
-20,3793,0,00:04,,0,4,54,,0,,TIMEOUT
-20,3816,3,00:04,,11,4,54,CIN 26,0,DEN,FGM
-20,3688,1,01:03,,10,4,42,CIN 38,0,DEN,
-20,3755,0,00:23,,0,4,56,,0,,TIMEOUT
-6,1652,3,00:26,,13,2,60,CIN 13,0,DEN,
-6,1506,1,02:26,,10,2,9,DEN 35,0,DEN,
-6,1616,2,01:12,,6,2,52,CIN 6,0,DEN,
-6,1676,4,00:18,,5,2,60,CIN 5,1,DEN,FG
-6,1595,1,01:52,,7,2,59,CIN 7,0,DEN,
-6,1530,2,02:09,,1,2,44,DEN 44,0,DEN,
-6,1635,0,00:26,,0,2,52,,0,,TIMEOUT
-6,1571,1,02:00,,10,2,58,CIN 21,0,DEN,
-18,3308,1,05:48,,10,4,22,DEN 32,0,DEN,
-18,3386,2,04:13,,2,4,49,CIN 37,0,DEN,PENALTY
-18,3332,2,05:10,,1,4,36,DEN 41,0,DEN,
-18,3358,1,04:45,,10,4,44,CIN 45,0,DEN,
-18,3409,1,04:12,,10,4,54,CIN 32,0,DEN,FUMBLE
-18,3266,1,06:40,,10,4,8,DEN 19,0,DEN,
-18,3287,2,06:14,,2,4,13,DEN 27,0,DEN,
-18,3244,0,06:46,,0,4,0,CIN 35,0,CIN,KICKOFF
-1,133,2,13:09,,5,1,19,CIN 38,0,CIN,
-1,231,1,11:12,,10,1,47,DEN 38,0,CIN,
-1,178,1,11:52,,10,1,25,CIN 45,0,CIN,
-1,48,0,15:00,,0,1,0,DEN 35,0,DEN,KICKOFF
-1,252,2,10:28,,5,1,49,DEN 33,0,CIN,
-1,154,3,12:23,,4,1,25,CIN 39,0,CIN,
-1,88,2,14:28,,6,1,13,CIN 24,0,CIN,
-1,314,1,09:08,,10,1,59,DEN 21,0,CIN,
-1,415,3,07:31,,5,1,80,DEN 5,1,CIN,TD
-1,336,2,09:02,,10,1,73,DEN 21,0,CIN,
-1,436,0,07:26,,0,1,80,DEN 15,1,CIN,XP
-1,290,3,09:43,,3,1,59,DEN 31,0,CIN,
-1,357,1,08:16,,7,1,75,DEN 7,0,CIN,
-1,112,1,13:51,,10,1,18,CIN 33,0,CIN,
-1,67,1,15:00,,10,1,4,CIN 20,0,CIN,
-1,273,0,09:43,,0,1,49,,0,,TIMEOUT
-1,382,2,07:38,,5,1,75,DEN 5,0,CIN,
-1,207,2,11:45,,10,1,42,CIN 45,0,CIN,
-5,1282,2,07:21,,1,2,11,CIN 47,0,CIN,
-5,1421,1,04:11,,10,2,33,DEN 26,0,CIN,
-5,1327,1,06:02,,10,2,20,DEN 37,0,CIN,PENALTY
-5,1442,2,03:23,,13,2,35,DEN 29,0,CIN,
-5,1258,1,08:02,,10,2,9,CIN 38,0,CIN,
-5,1485,4,02:31,,11,2,35,DEN 27,0,CIN,FGM
-5,1393,3,04:48,,11,2,36,DEN 38,0,CIN,
-5,1350,1,05:40,,15,2,24,DEN 42,0,CIN,
-5,1303,1,06:37,,10,2,25,CIN 49,0,CIN,
-5,1463,3,02:37,,11,2,35,DEN 27,0,CIN,
-5,1371,2,04:52,,11,2,24,DEN 38,0,CIN,
-13,2585,2,01:01,,2,3,8,DEN 47,0,CIN,
-13,2606,3,00:20,,2,3,8,DEN 47,0,CIN,
-13,2647,4,15:00,,2,4,8,DEN 47,0,CIN,PUNT
-13,2561,1,01:44,,10,3,8,CIN 45,0,CIN,
-21,4052,3,12:26,,3,5,48,CIN 37,0,DEN,
-21,4101,2,11:39,,10,5,60,CIN 32,0,DEN,
-21,3953,1,14:10,,10,5,13,DEN 32,0,DEN,
-21,4076,1,11:44,,10,5,48,CIN 32,0,DEN,
-21,3974,2,13:36,,9,5,36,DEN 33,0,DEN,PENALTY
-21,4125,1,10:56,,10,5,61,CIN 20,0,DEN,
-21,3912,0,14:48,,0,5,0,,0,,TIMEOUT
-21,3868,1,15:00,,10,5,0,DEN 20,0,DEN,
-21,3929,3,14:48,,10,5,12,DEN 20,0,DEN,
-21,3853,0,15:00,,0,5,0,CIN 35,0,CIN,KICKOFF
-21,4146,2,10:14,,9,5,61,CIN 19,0,DEN,
-21,3890,2,14:54,,10,5,0,DEN 20,0,DEN,
-21,4190,4,10:05,,9,5,61,CIN 19,1,DEN,FG
-21,4168,3,10:10,,9,5,61,CIN 19,0,DEN,
-21,4009,1,13:07,,10,5,43,CIN 44,0,DEN,
-21,4030,2,12:31,,3,5,43,CIN 37,0,DEN,
-11,2280,1,06:07,,10,3,15,CIN 17,0,CIN,PENALTY
-11,2437,4,03:09,,4,3,32,CIN 49,0,CIN,PUNT
-11,2322,1,05:30,,10,3,23,CIN 32,0,CIN,
-11,2370,1,04:24,,10,3,32,CIN 43,0,CIN,
-11,2349,2,05:05,,2,3,26,CIN 40,0,CIN,
-11,2394,2,03:54,,4,3,32,CIN 49,0,CIN,
-11,2415,3,03:15,,4,3,32,CIN 49,0,CIN,
-14,2700,2,14:29,,3,4,9,DEN 22,0,DEN,
-14,2721,3,13:50,,1,4,9,DEN 24,0,DEN,
-14,2743,4,13:45,,1,4,9,DEN 24,0,DEN,PUNT
-14,2676,1,14:48,,10,4,7,DEN 15,0,DEN,
-8,1834,3,14:08,,3,3,13,DEN 26,0,DEN,
-8,2025,3,10:20,,3,3,81,CIN 8,1,DEN,TD
-8,2046,0,10:14,,0,3,81,CIN 15,1,DEN,XP
-8,1951,1,11:44,,10,3,66,CIN 31,0,DEN,
-8,1755,0,15:00,,0,3,0,CIN 35,0,CIN,KICKOFF
-8,1882,2,13:14,,3,3,66,DEN 39,0,DEN,
-8,1788,1,14:54,,10,3,0,DEN 19,0,DEN,
-8,1906,1,12:42,,10,3,66,CIN 47,0,DEN,
-8,1976,1,11:07,,10,3,66,CIN 15,0,DEN,
-8,1930,2,12:14,,2,3,66,CIN 39,0,DEN,
-8,1810,2,14:47,,10,3,7,DEN 19,0,DEN,
-8,1858,1,13:40,,10,3,20,DEN 32,0,DEN,
-8,1999,2,11:02,,10,3,73,CIN 15,0,DEN,
-19,3486,0,03:15,,0,4,6,,0,,TIMEOUT
-19,3527,1,03:10,,10,4,13,CIN 40,0,CIN,
-19,3464,2,03:22,,4,4,6,CIN 32,0,CIN,
-19,3612,4,01:51,,6,4,18,CIN 44,0,CIN,PUNT
-19,3587,3,02:00,,20,4,18,CIN 30,0,CIN,
-19,3442,1,04:05,,10,4,6,CIN 26,0,CIN,
-19,3503,3,03:15,,4,4,14,CIN 32,0,CIN,
-19,3570,0,02:00,,0,4,4,,0,,
-19,3551,2,02:26,,11,4,4,CIN 39,0,CIN,
-22,4288,2,09:48,,10,5,-10,CIN 33,0,CIN,FUMBLE
-22,4254,0,09:48,,0,5,0,,0,,TIMEOUT
-22,4232,1,09:53,,10,5,0,CIN 33,0,CIN,
-22,4210,0,10:00,,0,5,0,DEN 35,0,DEN,KICKOFF
-12,2530,4,01:56,,5,3,5,DEN 25,0,DEN,PUNT
-12,2459,1,02:59,,10,3,4,DEN 20,0,DEN,
-12,2502,3,02:26,,6,3,5,DEN 24,0,DEN,
-12,2480,2,02:31,,6,3,4,DEN 24,0,DEN,
-16,2865,1,11:51,,10,4,13,DEN 48,0,DEN,
-16,2889,1,11:27,,10,4,52,CIN 39,1,DEN,TD
-16,2907,0,11:17,,0,4,52,CIN 15,1,DEN,XP
-7,1718,1,00:14,,10,2,-1,CIN 25,0,CIN,
-7,1696,0,00:14,,0,2,-1,DEN 35,0,DEN,KICKOFF
-3,829,2,00:23,,4,1,37,CIN 46,0,CIN,
-3,914,2,13:31,,8,2,57,DEN 36,0,CIN,
-3,769,0,01:47,,0,1,14,,0,,TIMEOUT
-3,1056,0,10:51,,0,2,90,DEN 15,1,CIN,XP
-3,703,1,03:41,,10,1,4,CIN 10,0,CIN,
-3,1013,0,10:56,,0,2,84,,0,,TIMEOUT
-3,808,1,01:03,,10,1,36,CIN 40,0,CIN,
-3,935,3,12:49,,5,2,68,DEN 33,0,CIN,PENALTY
-3,967,1,12:18,,10,2,80,DEN 22,0,CIN,
-3,1030,2,10:56,,6,2,90,DEN 6,1,CIN,TD
-3,745,3,02:24,,4,1,14,CIN 16,0,CIN,
-3,724,2,03:05,,6,1,6,CIN 14,0,CIN,
-3,786,1,01:47,,10,1,30,CIN 24,0,CIN,
-3,866,3,15:00,,3,2,52,CIN 47,0,CIN,
-3,890,1,14:16,,10,2,54,DEN 38,0,CIN,
-3,991,1,11:38,,10,2,84,DEN 10,0,CIN,
-17,3180,2,07:06,,5,4,46,DEN 34,0,CIN,
-17,2966,2,10:44,,11,4,-6,CIN 19,0,CIN,
-17,3158,1,07:10,,5,4,46,DEN 34,0,CIN,
-17,3050,1,08:39,,10,4,26,CIN 44,0,CIN,
-17,3026,1,09:11,,10,4,24,CIN 34,0,CIN,
-17,3093,3,07:45,,8,4,41,CIN 46,0,CIN,
-17,2985,3,09:58,,16,4,14,CIN 14,0,CIN,
-17,3009,0,09:11,,0,4,14,,0,,TIMEOUT
-17,3135,1,07:10,,10,4,46,DEN 39,0,CIN,PENALTY
-17,3071,2,07:52,,8,4,26,CIN 46,0,CIN,
-17,3202,3,06:58,,5,4,46,DEN 34,0,CIN,
-17,2939,1,11:17,,10,4,-1,CIN 20,0,CIN,
-17,3224,4,06:51,,5,4,46,DEN 34,1,CIN,FG
-17,2923,0,11:17,,0,4,0,DEN 35,0,DEN,KICKOFF
-17,3118,0,07:10,,0,4,41,,0,,TIMEOUT
-4,1146,1,10:11,,25,2,-12,DEN 5,0,DEN,
-4,1091,1,10:50,,10,2,-10,DEN 20,0,DEN,PENALTY
-4,1123,1,10:37,,20,2,-15,DEN 10,0,DEN,PENALTY
-4,1232,4,08:14,,6,2,4,DEN 24,0,DEN,PUNT
-4,1191,0,08:47,,0,2,-5,,0,,TIMEOUT
-4,1072,0,10:51,,0,2,0,CIN 35,0,CIN,KICKOFF
-4,1208,3,08:47,,15,2,4,DEN 15,0,DEN,
-4,1167,2,09:35,,22,2,-5,DEN 8,0,DEN,
-2,677,4,03:52,,19,1,20,DEN 45,0,DEN,PUNT
-2,474,1,07:18,,10,1,7,DEN 25,0,DEN,
-2,519,1,06:13,,10,1,29,DEN 36,0,DEN,PENALTY
-2,605,1,05:12,,10,1,29,CIN 46,0,DEN,
-2,573,2,05:34,,8,1,29,DEN 43,0,DEN,PENALTY
-2,452,0,07:26,,0,1,0,CIN 35,0,CIN,KICKOFF
-2,655,3,03:56,,19,1,20,DEN 45,0,DEN,
-2,498,2,06:50,,3,1,11,DEN 32,0,DEN,
-2,626,2,04:41,,10,1,20,CIN 46,0,DEN,
-2,552,1,06:08,,10,1,18,DEN 41,0,DEN,
-15,2793,2,12:49,,14,4,1,CIN 15,0,CIN,
-15,2839,4,12:03,,9,4,1,CIN 20,0,CIN,PUNT
-15,2817,3,12:08,,9,4,1,CIN 20,0,CIN,
-15,2769,1,13:35,,10,4,-4,CIN 19,0,CIN,
+20,3772,2,00:23,(:23) B.Osweiler right guard to CIN 26 for -2 yards.,9,4,54,CIN 24,0,DEN,
+20,3688,1,01:03,(1:03) (Shotgun) B.Osweiler pass incomplete short right to D.Thomas.,10,4,42,CIN 38,0,DEN,
+20,3816,3,00:04,"(:04) B.McManus 45 yard field goal is No Good, Wide Left, Center-A.Brewer, Holder-B.Colquitt.",11,4,54,CIN 26,0,DEN,FGM
+20,3710,2,00:59,(:59) (Shotgun) B.Osweiler pass short middle to B.Fowler to CIN 25 for 13 yards (L.Hall).,10,4,55,CIN 38,0,DEN,
+20,3634,1,01:40,(1:40) (Shotgun) B.Osweiler pass short right to O.Daniels pushed ob at DEN 36 for 16 yards (V.Rey).,10,4,16,DEN 20,0,DEN,
+20,3755,0,00:23,Timeout #3 by CIN at 00:23.,0,4,56,,0,,TIMEOUT
+20,3793,0,00:04,Timeout #2 by DEN at 00:04.,0,4,54,,0,,TIMEOUT
+20,3658,1,01:32,(1:32) (Shotgun) B.Osweiler pass deep middle to O.Daniels to CIN 38 for 26 yards (S.Williams).,10,4,42,DEN 36,0,DEN,
+20,3734,1,00:27,(:27) C.Anderson up the middle to CIN 24 for 1 yard (M.Johnson).,10,4,56,CIN 25,0,DEN,
+21,4009,1,13:07,(13:07) R.Hillman left end pushed ob at CIN 37 for 7 yards (L.Hall).,10,5,43,CIN 44,0,DEN,
+21,4146,2,10:14,(10:14) (Shotgun) B.Osweiler pass incomplete deep middle to O.Daniels (R.Nelson).,9,5,61,CIN 19,0,DEN,
+21,3868,1,15:00,(15:00) B.Osweiler pass incomplete deep right to D.Thomas [C.Dunlap].,10,5,0,DEN 20,0,DEN,
+21,3912,0,14:48,Timeout #1 by DEN at 14:48.,0,5,0,,0,,TIMEOUT
+21,3953,1,14:10,(14:10) (Shotgun) C.Anderson up the middle to DEN 33 for 1 yard (M.Johnson).,10,5,13,DEN 32,0,DEN,
+21,3929,3,14:48,(14:48) (Shotgun) B.Osweiler pass short right to O.Daniels to DEN 32 for 12 yards (D.Kirkpatrick).,10,5,12,DEN 20,0,DEN,
+21,4125,1,10:56,(10:56) C.Anderson left tackle to CIN 19 for 1 yard (W.Gilberry).,10,5,61,CIN 20,0,DEN,
+21,4168,3,10:10,(10:10) (Shotgun) B.Osweiler pass incomplete deep left to D.Thomas.,9,5,61,CIN 19,0,DEN,
+21,4101,2,11:39,(11:39) (Shotgun) B.Osweiler pass short left to D.Thomas to CIN 20 for 12 yards (A.Jones).,10,5,60,CIN 32,0,DEN,
+21,4030,2,12:31,(12:31) (Shotgun) B.Osweiler pass incomplete deep right to A.Caldwell.,3,5,43,CIN 37,0,DEN,
+21,4190,4,10:05,"(10:05) B.McManus 37 yard field goal is GOOD, Center-A.Brewer, Holder-B.Colquitt.",9,5,61,CIN 19,1,DEN,FG
+21,3853,0,15:00,"M.Nugent kicks 65 yards from CIN 35 to end zone, Touchback.",0,5,0,CIN 35,0,CIN,KICKOFF
+21,4052,3,12:26,(12:26) (Shotgun) B.Osweiler pass short left to D.Thomas to CIN 32 for 5 yards (A.Jones).,3,5,48,CIN 37,0,DEN,
+21,3890,2,14:54,(14:54) (Shotgun) B.Osweiler pass incomplete short right to O.Daniels.,10,5,0,DEN 20,0,DEN,
+21,4076,1,11:44,(11:44) B.Osweiler pass incomplete short right to E.Sanders (D.Kirkpatrick).,10,5,48,CIN 32,0,DEN,
+21,3974,2,13:36,"(13:36) (Shotgun) B.Osweiler pass short right to V.Green pushed ob at DEN 41 for 8 yards (V.Burfict). PENALTY on CIN-V.Burfict, Unnecessary Roughness, 15 yards, enforced at DEN 41.",9,5,36,DEN 33,0,DEN,PENALTY
+22,4288,2,09:48,"(9:48) (Shotgun) A.McCarron FUMBLES (Aborted) at CIN 23, RECOVERED by DEN-D.Ware at CIN 23.",10,5,-10,CIN 33,0,CIN,FUMBLE
+22,4254,0,09:48,Timeout #2 by DEN at 09:48.,0,5,0,,0,,TIMEOUT
+22,4210,0,10:00,B.McManus kicks 61 yards from DEN 35 to CIN 4. B.Tate pushed ob at CIN 33 for 29 yards (C.Nelson).,0,5,0,DEN 35,0,DEN,KICKOFF
+22,4232,1,09:53,"(9:53) (Shotgun) A.McCarron pass incomplete [V.Miller]. The Replay Official reviewed the incomplete pass ruling, and the play was Upheld. The ruling on the field stands.",10,5,0,CIN 33,0,CIN,
+1,357,1,08:16,(8:16) G.Bernard up the middle to DEN 5 for 2 yards (D.Ware; D.Trevathan).,7,1,75,DEN 7,0,CIN,
+1,336,2,09:02,(9:02) (Shotgun) J.Hill left end to DEN 7 for 14 yards (D.Stewart).,10,1,73,DEN 21,0,CIN,
+1,154,3,12:23,(12:23) (Shotgun) A.McCarron pass short left to G.Bernard pushed ob at CIN 45 for 6 yards (M.Jackson).,4,1,25,CIN 39,0,CIN,
+1,48,0,15:00,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback.",0,1,0,DEN 35,0,DEN,KICKOFF
+1,415,3,07:31,"(7:31) (Shotgun) A.McCarron pass short right to A.Green for 5 yards, TOUCHDOWN.",5,1,80,DEN 5,1,CIN,TD
+1,67,1,15:00,(15:00) J.Hill up the middle to CIN 24 for 4 yards (D.Ware).,10,1,4,CIN 20,0,CIN,
+1,382,2,07:38,(7:38) A.McCarron pass incomplete short left to J.Fisher.,5,1,75,DEN 5,0,CIN,
+1,314,1,09:08,(9:08) (Shotgun) A.McCarron pass incomplete deep left to A.Green.,10,1,59,DEN 21,0,CIN,
+1,133,2,13:09,(13:09) J.Hill left guard to CIN 39 for 1 yard (D.Trevathan).,5,1,19,CIN 38,0,CIN,
+1,178,1,11:52,(11:52) A.McCarron pass incomplete deep left to M.Jones.,10,1,25,CIN 45,0,CIN,
+1,88,2,14:28,(14:28) (Shotgun) A.McCarron pass short left to A.Green to CIN 33 for 9 yards (C.Harris).,6,1,13,CIN 24,0,CIN,
+1,273,0,09:43,Timeout #1 by CIN at 09:43.,0,1,49,,0,,TIMEOUT
+1,290,3,09:43,(9:43) (Shotgun) A.McCarron pass short left to M.Jones pushed ob at DEN 21 for 10 yards (B.Roby).,3,1,59,DEN 31,0,CIN,
+1,112,1,13:51,(13:51) J.Hill up the middle to CIN 38 for 5 yards (M.Jackson).,10,1,18,CIN 33,0,CIN,
+1,207,2,11:45,(11:45) A.McCarron pass deep right to A.Green ran ob at DEN 38 for 17 yards.,10,1,42,CIN 45,0,CIN,
+1,436,0,07:26,"M.Nugent extra point is GOOD, Center-C.Harris, Holder-K.Huber.",0,1,80,DEN 15,1,CIN,XP
+1,231,1,11:12,(11:12) J.Hill left guard to DEN 33 for 5 yards (V.Walker).,10,1,47,DEN 38,0,CIN,
+1,252,2,10:28,(10:28) (Shotgun) J.Hill left guard to DEN 31 for 2 yards (S.Williams; D.Trevathan).,5,1,49,DEN 33,0,CIN,
+3,890,1,14:16,(14:16) (Shotgun) A.McCarron pass short right to J.Hill to DEN 36 for 2 yards (D.Trevathan; B.Marshall).,10,2,54,DEN 38,0,CIN,
+3,786,1,01:47,(1:47) (Shotgun) A.McCarron scrambles up the middle to CIN 40 for 16 yards (S.Barrett).,10,1,30,CIN 24,0,CIN,
+3,769,0,01:47,Timeout #2 by CIN at 01:47.,0,1,14,,0,,TIMEOUT
+3,991,1,11:38,(11:38) (Shotgun) M.Sanu up the middle to DEN 6 for 4 yards (V.Walker; B.Marshall).,10,2,84,DEN 10,0,CIN,
+3,745,3,02:24,(2:24) (Shotgun) A.McCarron pass short middle to G.Bernard to CIN 24 for 8 yards (B.Marshall).,4,1,14,CIN 16,0,CIN,
+3,1056,0,10:51,"M.Nugent extra point is GOOD, Center-C.Harris, Holder-K.Huber.",0,2,90,DEN 15,1,CIN,XP
+3,967,1,12:18,(12:18) A.McCarron pass short right to A.Green ran ob at DEN 10 for 12 yards.,10,2,80,DEN 22,0,CIN,
+3,703,1,03:41,(3:41) J.Hill left guard to CIN 14 for 4 yards (D.Trevathan).,10,1,4,CIN 10,0,CIN,
+3,724,2,03:05,(3:05) (Shotgun) J.Hill left tackle to CIN 16 for 2 yards (D.Trevathan).,6,1,6,CIN 14,0,CIN,
+3,808,1,01:03,(1:03) J.Hill up the middle to CIN 46 for 6 yards (M.Jackson; D.Trevathan).,10,1,36,CIN 40,0,CIN,
+3,829,2,00:23,(:23) J.Hill up the middle to CIN 47 for 1 yard (V.Walker).,4,1,37,CIN 46,0,CIN,
+3,914,2,13:31,(13:31) (Shotgun) J.Hill right guard to DEN 33 for 3 yards (D.Trevathan).,8,2,57,DEN 36,0,CIN,
+3,1030,2,10:56,"(10:56) (Shotgun) M.Sanu left end for 6 yards, TOUCHDOWN.",6,2,90,DEN 6,1,CIN,TD
+3,866,3,15:00,(15:00) (Shotgun) A.McCarron pass short left to M.Jones to DEN 38 for 15 yards (D.Wolfe).,3,2,52,CIN 47,0,CIN,
+3,935,3,12:49,"(12:49) (Shotgun) A.McCarron scrambles left guard to DEN 27 for 6 yards (V.Miller). PENALTY on DEN-B.Marshall, Defensive Holding, 5 yards, enforced at DEN 27.",5,2,68,DEN 33,0,CIN,PENALTY
+3,1013,0,10:56,Timeout #3 by CIN at 10:56.,0,2,84,,0,,TIMEOUT
+2,605,1,05:12,(5:12) C.Anderson left guard to CIN 46 for no gain (V.Burfict).,10,1,29,CIN 46,0,DEN,
+2,626,2,04:41,(4:41) B.Osweiler sacked at DEN 45 for -9 yards (C.Dunlap).,10,1,20,CIN 46,0,DEN,
+2,573,2,05:34,"(5:34) B.Osweiler scrambles up the middle to DEN 49 for 6 yards (R.Maualuga). PENALTY on CIN-A.Jones, Illegal Contact, 5 yards, enforced at DEN 49.",8,1,29,DEN 43,0,DEN,PENALTY
+2,452,0,07:26,M.Nugent kicks 65 yards from CIN 35 to DEN 0. A.Caldwell to DEN 25 for 25 yards (R.Burkhead; E.Lamur).,0,1,0,CIN 35,0,CIN,KICKOFF
+2,677,4,03:52,"(3:52) B.Colquitt punts 46 yards to CIN 9, Center-A.Brewer. B.Tate to CIN 10 for 1 yard (S.Barrett).",19,1,20,DEN 45,0,DEN,PUNT
+2,552,1,06:08,(6:08) R.Hillman up the middle to DEN 43 for 2 yards (M.Johnson; R.Maualuga).,10,1,18,DEN 41,0,DEN,
+2,519,1,06:13,"(6:13) (Shotgun) B.Osweiler pass incomplete short right to V.Davis [R.Maualuga]. PENALTY on CIN-R.Maualuga, Illegal Use of Hands, 5 yards, enforced at DEN 36 - No Play.",10,1,29,DEN 36,0,DEN,PENALTY
+2,655,3,03:56,(3:56) (Shotgun) B.Osweiler pass incomplete short left to C.Anderson.,19,1,20,DEN 45,0,DEN,
+2,498,2,06:50,(6:50) R.Hillman right guard to DEN 36 for 4 yards (M.Johnson).,3,1,11,DEN 32,0,DEN,
+2,474,1,07:18,(7:18) B.Osweiler pass short left to D.Thomas to DEN 32 for 7 yards (A.Jones).,10,1,7,DEN 25,0,DEN,
+5,1421,1,04:11,(4:11) J.Hill left guard to DEN 29 for -3 yards (D.Ware).,10,2,33,DEN 26,0,CIN,
+5,1327,1,06:02,"(6:02) PENALTY on CIN-K.Zeitler, False Start, 5 yards, enforced at DEN 37 - No Play.",10,2,20,DEN 37,0,CIN,PENALTY
+5,1303,1,06:37,(6:37) (Shotgun) A.McCarron pass short middle to A.Green to DEN 37 for 14 yards (J.Bush).,10,2,25,CIN 49,0,CIN,
+5,1350,1,05:40,(5:40) (Shotgun) G.Bernard right guard to DEN 38 for 4 yards (D.Trevathan).,15,2,24,DEN 42,0,CIN,
+5,1371,2,04:52,(4:52) (Shotgun) A.McCarron pass incomplete short right to G.Bernard.,11,2,24,DEN 38,0,CIN,
+5,1282,2,07:21,(7:21) G.Bernard up the middle to CIN 49 for 2 yards (V.Miller).,1,2,11,CIN 47,0,CIN,
+5,1442,2,03:23,(3:23) (Shotgun) J.Hill up the middle to DEN 27 for 2 yards (D.Trevathan).,13,2,35,DEN 29,0,CIN,
+5,1485,4,02:31,"(2:31) M.Nugent 45 yard field goal is No Good, Wide Right, Center-C.Harris, Holder-K.Huber.",11,2,35,DEN 27,0,CIN,FGM
+5,1393,3,04:48,(4:48) (Shotgun) A.McCarron pass short left to T.Kroft to DEN 26 for 12 yards (B.Roby).,11,2,36,DEN 38,0,CIN,
+5,1463,3,02:37,(2:37) (Shotgun) A.McCarron pass incomplete deep left to M.Jones.,11,2,35,DEN 27,0,CIN,
+5,1258,1,08:02,(8:02) (Shotgun) A.McCarron pass short right to G.Bernard to CIN 47 for 9 yards (T.Ward).,10,2,9,CIN 38,0,CIN,
+4,1167,2,09:35,(9:35) (Shotgun) B.Osweiler pass short right to R.Hillman to DEN 15 for 7 yards (P.Sims).,22,2,-5,DEN 8,0,DEN,
+4,1146,1,10:11,(10:11) R.Hillman up the middle to DEN 8 for 3 yards (P.Sims; V.Burfict).,25,2,-12,DEN 5,0,DEN,
+4,1091,1,10:50,"(10:50) R.Hillman left end to DEN 24 for 4 yards (S.Williams). PENALTY on DEN-R.Harris, Illegal Use of Hands, 10 yards, enforced at DEN 20 - No Play.",10,2,-10,DEN 20,0,DEN,PENALTY
+4,1232,4,08:14,"(8:14) B.Colquitt punts 41 yards to CIN 35, Center-A.Brewer. B.Tate to CIN 38 for 3 yards (T.Davis; C.Nelson).",6,2,4,DEN 24,0,DEN,PUNT
+4,1191,0,08:47,Timeout #1 by DEN at 08:47.,0,2,-5,,0,,TIMEOUT
+4,1123,1,10:37,"(10:37) PENALTY on DEN-D.Thomas, False Start, 5 yards, enforced at DEN 10 - No Play.",20,2,-15,DEN 10,0,DEN,PENALTY
+4,1072,0,10:51,"M.Nugent kicks 65 yards from CIN 35 to end zone, Touchback.",0,2,0,CIN 35,0,CIN,KICKOFF
+4,1208,3,08:47,(8:47) (Shotgun) B.Osweiler pass short right to J.Norwood to DEN 24 for 9 yards (M.Johnson).,15,2,4,DEN 15,0,DEN,
+7,1696,0,00:14,B.McManus kicks 42 yards from DEN 35 to CIN 23. J.Fisher (didn't try to advance) to CIN 20 for -3 yards. Lateral to C.Peerman to CIN 25 for 5 yards (S.Keo).,0,2,-1,DEN 35,0,DEN,KICKOFF
+7,1718,1,00:14,(:14) A.McCarron kneels to CIN 24 for -1 yards.,10,2,-1,CIN 25,0,CIN,
+6,1635,0,00:26,Timeout #2 by DEN at 00:26.,0,2,52,,0,,TIMEOUT
+6,1616,2,01:12,(1:12) (Shotgun) B.Osweiler sacked at CIN 13 for -7 yards (C.Dunlap).,6,2,52,CIN 6,0,DEN,
+6,1595,1,01:52,(1:52) R.Hillman left guard to CIN 6 for 1 yard (D.Kirkpatrick).,7,2,59,CIN 7,0,DEN,
+6,1506,1,02:26,(2:26) (Shotgun) B.Osweiler pass short middle to O.Daniels to DEN 44 for 9 yards (V.Burfict).,10,2,9,DEN 35,0,DEN,
+6,1530,2,02:09,(2:09) (Shotgun) B.Osweiler pass deep right to E.Sanders to CIN 21 for 35 yards (D.Kirkpatrick).,1,2,44,DEN 44,0,DEN,
+6,1652,3,00:26,(:26) (Shotgun) B.Osweiler pass short right to D.Thomas pushed ob at CIN 5 for 8 yards (D.Kirkpatrick).,13,2,60,CIN 13,0,DEN,
+6,1571,1,02:00,(2:00) (Shotgun) B.Osweiler pass short right to R.Hillman pushed ob at CIN 7 for 14 yards (V.Burfict).,10,2,58,CIN 21,0,DEN,
+6,1676,4,00:18,"(:18) B.McManus 23 yard field goal is GOOD, Center-A.Brewer, Holder-B.Colquitt.",5,2,60,CIN 5,1,DEN,FG
+9,2131,2,09:33,(9:33) (Shotgun) J.Hill up the middle to CIN 10 for no gain (D.Wolfe).,20,3,-10,CIN 10,0,CIN,
+9,2173,4,08:10,"(8:10) K.Huber punts 46 yards to DEN 39, Center-C.Harris, fair catch by J.Norwood.",15,3,-5,CIN 15,0,CIN,PUNT
+9,2152,3,08:52,(8:52) (Shotgun) G.Bernard up the middle to CIN 15 for 5 yards (D.Trevathan).,20,3,-5,CIN 10,0,CIN,
+9,2062,0,10:14,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback.",0,3,0,DEN 35,0,DEN,KICKOFF
+9,2077,1,10:14,(10:14) J.Hill up the middle to CIN 20 for no gain (B.Marshall).,10,3,0,CIN 20,0,CIN,
+9,2098,2,09:40,"(9:40) A.McCarron pass incomplete short right to A.Green. PENALTY on CIN-A.Whitworth, Offensive Holding, 10 yards, enforced at CIN 20 - No Play.",10,3,-10,CIN 20,0,CIN,PENALTY
+8,1788,1,14:54,"(14:54) B.Osweiler pass incomplete deep right to J.Norwood (S.Williams, R.Nelson).",10,3,0,DEN 19,0,DEN,
+8,1858,1,13:40,(13:40) B.Osweiler pass short right to D.Thomas to DEN 39 for 7 yards (D.Kirkpatrick).,10,3,20,DEN 32,0,DEN,
+8,1810,2,14:47,(14:47) B.Osweiler pass short middle to O.Daniels to DEN 26 for 7 yards (R.Maualuga).,10,3,7,DEN 19,0,DEN,
+8,1834,3,14:08,(14:08) (Shotgun) B.Osweiler pass short left to J.Norwood pushed ob at DEN 32 for 6 yards (A.Jones).,3,3,13,DEN 26,0,DEN,
+8,1999,2,11:02,(11:02) (Shotgun) B.Osweiler pass short middle to D.Thomas to CIN 8 for 7 yards (J.Shaw).,10,3,73,CIN 15,0,DEN,
+8,1976,1,11:07,"(11:07) (No Huddle, Shotgun) B.Osweiler pass incomplete short right to D.Thomas.",10,3,66,CIN 15,0,DEN,
+8,2046,0,10:14,"B.McManus extra point is GOOD, Center-A.Brewer, Holder-B.Colquitt.",0,3,81,CIN 15,1,DEN,XP
+8,2025,3,10:20,"(10:20) (Shotgun) B.Osweiler pass short left to E.Sanders for 8 yards, TOUCHDOWN.",3,3,81,CIN 8,1,DEN,TD
+8,1930,2,12:14,"(12:14) (No Huddle, Shotgun) C.Anderson up the middle to CIN 31 for 8 yards (S.Williams).",2,3,66,CIN 39,0,DEN,
+8,1951,1,11:44,"(11:44) (No Huddle, Shotgun) B.Osweiler pass deep right to E.Sanders to CIN 15 for 16 yards (D.Kirkpatrick).",10,3,66,CIN 31,0,DEN,
+8,1906,1,12:42,"(12:42) (No Huddle, Shotgun) B.Osweiler pass short left to E.Sanders to CIN 39 for 8 yards (L.Hall; P.Sims).",10,3,66,CIN 47,0,DEN,
+8,1755,0,15:00,M.Nugent kicks 70 yards from CIN 35 to DEN -5. A.Caldwell to DEN 19 for 24 yards (J.Shaw; P.Dawson).,0,3,0,CIN 35,0,CIN,KICKOFF
+8,1882,2,13:14,"(13:14) (No Huddle, Shotgun) B.Osweiler pass short middle to J.Norwood to CIN 47 for 14 yards (L.Hall).",3,3,66,DEN 39,0,DEN,
+11,2322,1,05:30,(5:30) (Shotgun) J.Hill left end pushed ob at CIN 40 for 8 yards (S.Ray).,10,3,23,CIN 32,0,CIN,
+11,2280,1,06:07,"(6:07) (Shotgun) A.McCarron sacked at CIN 16 for -1 yards (M.Jackson). PENALTY on DEN-M.Jackson, Face Mask (15 Yards), 15 yards, enforced at CIN 17 - No Play.",10,3,15,CIN 17,0,CIN,PENALTY
+11,2437,4,03:09,"(3:09) K.Huber punts 51 yards to end zone, Center-C.Harris, Touchback.",4,3,32,CIN 49,0,CIN,PUNT
+11,2349,2,05:05,(5:05) J.Hill up the middle to CIN 43 for 3 yards (B.Marshall).,2,3,26,CIN 40,0,CIN,
+11,2394,2,03:54,(3:54) (Shotgun) G.Bernard up the middle to CIN 49 for no gain (D.Stewart).,4,3,32,CIN 49,0,CIN,
+11,2415,3,03:15,(3:15) (Shotgun) A.McCarron pass incomplete deep left to M.Jones (B.Roby).,4,3,32,CIN 49,0,CIN,
+11,2370,1,04:24,"(4:24) (Shotgun) A.McCarron pass short left to G.Bernard to CIN 49 for 6 yards (B.Marshall, D.Stewart).",10,3,32,CIN 43,0,CIN,
+10,2261,4,06:15,"(6:15) B.Colquitt punts 39 yards to CIN 17, Center-A.Brewer, out of bounds.",5,3,5,DEN 44,0,DEN,PUNT
+10,2216,2,07:28,(7:28) (No Huddle) R.Hillman right tackle to DEN 36 for 3 yards (V.Burfict).,16,3,-3,DEN 33,0,DEN,
+10,2237,3,06:52,(6:52) (Shotgun) B.Osweiler pass short left to C.Anderson to DEN 44 for 8 yards (L.Hall).,13,3,5,DEN 36,0,DEN,
+10,2197,1,08:02,(8:02) (Shotgun) B.Osweiler sacked at DEN 33 for -6 yards (C.Dunlap).,10,3,-6,DEN 39,0,DEN,
+13,2561,1,01:44,(1:44) A.McCarron pass short left to M.Jones ran ob at DEN 47 for 8 yards.,10,3,8,CIN 45,0,CIN,
+13,2585,2,01:01,(1:01) J.Hill left guard to DEN 47 for no gain (V.Miller).,2,3,8,DEN 47,0,CIN,
+13,2606,3,00:20,(:20) G.Bernard right end to DEN 47 for no gain (B.Marshall).,2,3,8,DEN 47,0,CIN,
+13,2647,4,15:00,"(15:00) K.Huber punts 38 yards to DEN 9, Center-C.Harris. S.Keo to DEN 15 for 6 yards (C.Harris). CIN-S.Williams was injured during the play. His return is Questionable.",2,4,8,DEN 47,0,CIN,PUNT
+12,2530,4,01:56,"(1:56) B.Colquitt punts 37 yards to CIN 38, Center-A.Brewer. B.Tate pushed ob at CIN 45 for 7 yards (S.Keo).",5,3,5,DEN 25,0,DEN,PUNT
+12,2459,1,02:59,(2:59) (Shotgun) C.Anderson up the middle to DEN 24 for 4 yards (D.Peko).,10,3,4,DEN 20,0,DEN,
+12,2502,3,02:26,(2:26) (Shotgun) B.Osweiler up the middle to DEN 25 for 1 yard (C.Dunlap).,6,3,5,DEN 24,0,DEN,
+12,2480,2,02:31,(2:31) (Shotgun) B.Osweiler pass incomplete short middle to J.Norwood (R.Maualuga).,6,3,4,DEN 24,0,DEN,
+15,2793,2,12:49,(12:49) (Shotgun) A.McCarron pass short right to T.Kroft to CIN 20 for 5 yards (A.Talib).,14,4,1,CIN 15,0,CIN,
+15,2769,1,13:35,(13:35) (Shotgun) A.McCarron pass short left to J.Hill to CIN 15 for -4 yards (B.Roby).,10,4,-4,CIN 19,0,CIN,
+15,2817,3,12:08,(12:08) (Shotgun) A.McCarron pass incomplete short left to T.Kroft.,9,4,1,CIN 20,0,CIN,
+15,2839,4,12:03,"(12:03) K.Huber punts 46 yards to DEN 34, Center-C.Harris. J.Norwood to DEN 48 for 14 yards (C.Peerman).",9,4,1,CIN 20,0,CIN,PUNT
+14,2743,4,13:45,"(13:45) B.Colquitt punts 54 yards to CIN 22, Center-A.Brewer. B.Tate to CIN 19 for -3 yards (K.Webster).",1,4,9,DEN 24,0,DEN,PUNT
+14,2700,2,14:29,(14:29) R.Hillman left tackle to DEN 24 for 2 yards (D.Peko).,3,4,9,DEN 22,0,DEN,
+14,2721,3,13:50,(13:50) (Shotgun) B.Osweiler pass incomplete deep left to D.Thomas.,1,4,9,DEN 24,0,DEN,
+14,2676,1,14:48,(14:48) B.Osweiler pass short left to R.Hillman pushed ob at DEN 22 for 7 yards (A.Jones).,10,4,7,DEN 15,0,DEN,
+17,3135,1,07:10,"(7:10) PENALTY on DEN-D.Ware, Neutral Zone Infraction, 5 yards, enforced at DEN 39 - No Play.",10,4,46,DEN 39,0,CIN,PENALTY
+17,2966,2,10:44,(10:44) (Shotgun) A.McCarron sacked at CIN 14 for -5 yards (D.Wolfe).,11,4,-6,CIN 19,0,CIN,
+17,3202,3,06:58,(6:58) (Shotgun) A.McCarron pass incomplete deep middle to A.Green [D.Wolfe].,5,4,46,DEN 34,0,CIN,
+17,2939,1,11:17,(11:17) G.Bernard left end pushed ob at CIN 19 for -1 yards (C.Harris).,10,4,-1,CIN 20,0,CIN,
+17,3026,1,09:11,(9:11) (Shotgun) A.McCarron pass short left to M.Sanu pushed ob at CIN 44 for 10 yards (C.Harris).,10,4,24,CIN 34,0,CIN,
+17,2923,0,11:17,"B.McManus kicks 65 yards from DEN 35 to end zone, Touchback.",0,4,0,DEN 35,0,DEN,KICKOFF
+17,3093,3,07:45,(7:45) (Shotgun) A.McCarron pass short middle to T.Kroft to DEN 39 for 15 yards (C.Harris).,8,4,41,CIN 46,0,CIN,
+17,2985,3,09:58,(9:58) (Shotgun) A.McCarron pass deep middle to M.Sanu to CIN 34 for 20 yards (B.Roby).,16,4,14,CIN 14,0,CIN,
+17,3118,0,07:10,Timeout #1 by DEN at 07:10.,0,4,41,,0,,TIMEOUT
+17,3071,2,07:52,(7:52) (Shotgun) A.McCarron pass incomplete deep middle to A.Green (C.Harris).,8,4,26,CIN 46,0,CIN,
+17,3180,2,07:06,(7:06) (Shotgun) A.McCarron pass incomplete short right to T.Kroft.,5,4,46,DEN 34,0,CIN,
+17,3224,4,06:51,"(6:51) M.Nugent 52 yard field goal is GOOD, Center-C.Harris, Holder-K.Huber.",5,4,46,DEN 34,1,CIN,FG
+17,3158,1,07:10,(7:10) A.McCarron pass incomplete short right to M.Jones.,5,4,46,DEN 34,0,CIN,
+17,3009,0,09:11,Timeout #1 by CIN at 09:11.,0,4,14,,0,,TIMEOUT
+17,3050,1,08:39,(8:39) (Shotgun) G.Bernard left guard to CIN 46 for 2 yards (V.Walker).,10,4,26,CIN 44,0,CIN,
+16,2889,1,11:27,"(11:27) (Shotgun) C.Anderson up the middle for 39 yards, TOUCHDOWN.",10,4,52,CIN 39,1,DEN,TD
+16,2907,0,11:17,"B.McManus extra point is GOOD, Center-A.Brewer, Holder-B.Colquitt.",0,4,52,CIN 15,1,DEN,XP
+16,2865,1,11:51,(11:51) (Shotgun) B.Osweiler pass short left to D.Thomas pushed ob at CIN 39 for 13 yards (S.Williams).,10,4,13,DEN 48,0,DEN,
+19,3612,4,01:51,"(1:51) K.Huber punts 56 yards to end zone, Center-C.Harris, Touchback.",6,4,18,CIN 44,0,CIN,PUNT
+19,3464,2,03:22,(3:22) (Shotgun) A.McCarron pass incomplete short right to A.Green [D.Wolfe].,4,4,6,CIN 32,0,CIN,
+19,3551,2,02:26,(2:26) (Shotgun) A.McCarron sacked at CIN 30 for -9 yards (V.Walker).,11,4,4,CIN 39,0,CIN,
+19,3587,3,02:00,(2:00) (Shotgun) A.McCarron pass short right to T.Kroft pushed ob at CIN 44 for 14 yards (S.Keo).,20,4,18,CIN 30,0,CIN,
+19,3503,3,03:15,(3:15) (Shotgun) A.McCarron pass short right to R.Burkhead pushed ob at CIN 40 for 8 yards (A.Talib).,4,4,14,CIN 32,0,CIN,
+19,3570,0,02:00,Two-Minute Warning,0,4,4,,0,,
+19,3486,0,03:15,Timeout #2 by CIN at 03:15.,0,4,6,,0,,TIMEOUT
+19,3527,1,03:10,(3:10) (Shotgun) A.McCarron pass short left to M.Sanu to CIN 39 for -1 yards (C.Harris).,10,4,13,CIN 40,0,CIN,
+19,3442,1,04:05,(4:05) J.Hill up the middle to CIN 32 for 6 yards (D.Trevathan).,10,4,6,CIN 26,0,CIN,
+18,3386,2,04:13,"(4:13) PENALTY on CIN-G.Atkins, Neutral Zone Infraction, 5 yards, enforced at CIN 37 - No Play.",2,4,49,CIN 37,0,DEN,PENALTY
+18,3244,0,06:46,M.Nugent kicks 65 yards from CIN 35 to DEN 0. A.Caldwell to DEN 19 for 19 yards (P.Dawson).,0,4,0,CIN 35,0,CIN,KICKOFF
+18,3409,1,04:12,"(4:12) C.Anderson up the middle to CIN 27 for 5 yards (M.Johnson). FUMBLES (M.Johnson), RECOVERED by CIN-R.Nelson at CIN 26. R.Nelson to CIN 26 for no gain (V.Green).",10,4,54,CIN 32,0,DEN,FUMBLE
+18,3332,2,05:10,(5:10) (No Huddle) C.Anderson right tackle pushed ob at CIN 45 for 14 yards (D.Kirkpatrick). CIN-D.Peko was injured during the play. His return is Probable.,1,4,36,DEN 41,0,DEN,
+18,3308,1,05:48,"(5:48) (No Huddle, Shotgun) B.Osweiler pass short middle to R.Hillman to DEN 41 for 9 yards (R.Maualuga).",10,4,22,DEN 32,0,DEN,
+18,3266,1,06:40,(6:40) R.Hillman up the middle to DEN 27 for 8 yards (C.Dunlap; R.Nelson).,10,4,8,DEN 19,0,DEN,
+18,3287,2,06:14,(6:14) (No Huddle) R.Hillman right guard to DEN 32 for 5 yards (C.Dunlap).,2,4,13,DEN 27,0,DEN,
+18,3358,1,04:45,(4:45) B.Osweiler pass short left to J.Norwood to CIN 37 for 8 yards (S.Williams).,10,4,44,CIN 45,0,DEN,

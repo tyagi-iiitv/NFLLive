@@ -1,172 +1,172 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1747,0,01:40,,0,2,80,TB 2,1,SEA,XP
-9,1657,1,01:50,,10,2,64,TB 45,0,SEA,PENALTY
-9,1571,0,02:16,,0,2,0,TB 35,0,TB,KICKOFF
-9,1690,1,01:45,,10,2,80,TB 16,1,SEA,TD
-9,1722,0,01:40,,0,2,80,,0,,TIMEOUT
-9,1625,2,02:00,,6,2,80,SEA 24,0,SEA,PENALTY
-9,1587,1,02:16,,10,2,4,SEA 20,0,SEA,
-10,1779,1,01:40,,10,2,4,TB 13,0,TB,
-10,1800,0,01:34,,0,2,4,,0,,TIMEOUT
-10,1901,0,00:02,,0,2,14,,0,,TIMEOUT
-10,1763,0,01:40,,0,2,0,50,0,SEA,KICKOFF
-10,1879,1,00:48,,10,2,14,TB 24,0,TB,
-10,1817,2,01:34,,6,2,6,TB 17,0,TB,
-10,1918,2,00:02,,7,2,12,TB 27,0,TB,
-10,1855,3,01:28,,4,2,11,TB 19,0,TB,
-10,1838,0,01:28,,0,2,6,,0,,TIMEOUT
-20,3727,0,,,0,4,5,,0,,
-20,3703,1,00:16,,10,4,5,SEA 33,0,SEA,
-6,1266,1,07:50,,10,2,27,TB 32,0,TB,
-6,1191,1,09:37,,10,2,1,TB 16,0,TB,
-6,1377,2,04:31,,6,2,45,SEA 41,0,TB,
-6,1233,3,08:17,,1,2,16,TB 25,0,TB,
-6,1398,3,03:47,,4,2,64,SEA 39,0,TB,
-6,1356,1,05:13,,10,2,43,SEA 45,0,TB,
-6,1442,0,02:55,,0,2,84,SEA 2,1,TB,XP
-6,1308,2,06:40,,9,2,30,TB 44,0,TB,
-6,1332,3,05:53,,7,2,39,TB 46,0,TB,
-6,1422,1,03:04,,10,2,84,SEA 20,1,TB,TD
-6,1212,2,08:57,,9,2,9,TB 17,0,TB,
-6,1287,1,07:18,,10,2,28,TB 43,0,TB,
-18,3263,2,05:42,,7,4,7,SEA 44,0,SEA,
-18,3305,1,04:28,,10,4,33,TB 48,0,SEA,
-18,3329,1,03:52,,10,4,33,TB 26,0,SEA,
-18,3459,3,01:56,,5,4,59,TB 10,1,SEA,TD
-18,3350,2,03:19,,10,4,41,TB 26,0,SEA,
-18,3442,0,01:56,,0,4,49,,0,,
-18,3284,3,05:09,,3,4,11,SEA 48,0,SEA,
-18,3242,1,06:13,,10,4,3,SEA 41,0,SEA,
-18,3374,3,02:35,,2,4,44,TB 18,0,SEA,
-18,3421,2,02:01,,7,4,49,TB 12,0,SEA,
-18,3484,0,01:51,,0,4,59,TB 2,1,SEA,XP
-18,3400,1,02:29,,10,4,47,TB 15,0,SEA,
-1,231,1,10:44,,10,1,57,TB 26,0,SEA,
-1,252,2,10:05,,7,1,59,TB 23,0,SEA,
-1,276,3,09:26,,5,1,59,TB 21,0,SEA,INT
-1,186,3,12:02,,9,1,43,TB 47,0,SEA,
-1,51,1,15:00,,10,1,5,SEA 20,0,SEA,
-1,143,1,12:39,,10,1,32,TB 48,0,SEA,
-1,72,2,14:26,,5,1,18,SEA 25,0,SEA,
-1,122,2,13:18,,10,1,32,SEA 38,0,SEA,
-1,98,1,13:55,,10,1,18,SEA 38,0,SEA,
-1,210,1,11:25,,10,1,54,TB 37,0,SEA,
-1,36,0,15:00,,0,1,0,TB 35,0,TB,KICKOFF
-1,165,2,12:35,,10,1,33,TB 48,0,SEA,
-5,1085,2,11:09,,1,2,12,SEA 33,0,SEA,
-5,1171,4,09:45,,1,2,21,SEA 45,0,SEA,PUNT
-5,1128,2,10:27,,10,2,12,SEA 36,0,SEA,
-5,1042,0,11:50,,0,2,0,TB 30,0,TB,KICKOFF
-5,1064,1,11:44,,10,2,9,SEA 24,0,SEA,
-5,1150,3,10:23,,10,2,21,SEA 36,0,SEA,
-5,1005,0,11:50,,0,2,0,TB 35,0,TB,PENALTY
-5,1106,1,10:33,,10,2,12,SEA 36,0,SEA,
-13,2486,1,05:00,,10,3,3,TB 20,0,TB,
-13,2507,2,04:22,,7,3,20,TB 23,0,TB,
-13,2528,1,03:42,,10,3,10,TB 40,0,TB,PENALTY
-13,2626,4,01:19,,6,3,24,TB 44,0,TB,PUNT
-13,2560,1,03:13,,20,3,12,TB 30,0,TB,
-13,2581,2,02:34,,18,3,16,TB 32,0,TB,
-13,2471,0,05:00,,0,3,0,SEA 35,0,SEA,KICKOFF
-13,2602,3,02:02,,14,3,24,TB 36,0,TB,
-21,3762,1,15:00,,10,5,1,TB 20,0,TB,
-21,3828,4,13:17,,14,5,-4,TB 16,0,TB,PUNT
-21,3743,0,15:00,,0,5,0,SEA 35,0,SEA,KICKOFF
-21,3809,3,13:51,,7,5,-4,TB 23,0,TB,
-21,3788,2,14:33,,9,5,3,TB 21,0,TB,
-11,2038,2,13:39,,10,3,18,TB 32,0,TB,
-11,2147,2,10:40,,10,3,65,SEA 17,0,TB,
-11,2168,3,10:02,,8,3,65,SEA 15,0,TB,
-11,2083,1,12:13,,10,3,45,SEA 49,0,TB,
-11,1991,2,14:23,,1,3,12,TB 29,0,TB,
-11,2190,4,09:53,,8,3,65,SEA 15,1,TB,FG
-11,2059,3,12:55,,4,3,65,TB 38,0,TB,
-11,1970,1,15:00,,10,3,9,TB 20,0,TB,
-11,2125,1,10:47,,10,3,65,SEA 17,0,TB,
-11,1955,0,15:00,,0,3,0,SEA 35,0,SEA,KICKOFF
-11,2012,1,13:44,,10,3,65,TB 32,0,TB,
-11,2104,1,11:31,,10,3,63,SEA 35,0,TB,
-14,2662,1,00:58,,10,3,2,TB 25,0,SEA,
-14,2723,3,15:00,,3,4,7,TB 18,0,SEA,
-14,2784,4,14:51,,3,4,7,TB 18,1,SEA,FG
-14,2683,2,00:12,,8,3,7,TB 23,0,SEA,TIMEOUT
-8,1527,1,02:23,,2,2,31,SEA 2,1,TB,TD
-8,1555,0,02:16,,0,2,31,SEA 2,1,TB,XP
-8,1492,1,02:46,,10,2,29,SEA 31,0,TB,PENALTY
-19,3634,0,00:25,,0,4,22,,0,,TIMEOUT
-19,3567,1,00:56,,10,4,15,TB 43,0,TB,
-19,3500,0,01:51,,0,4,0,SEA 35,0,SEA,KICKOFF
-19,3522,1,01:45,,10,4,5,TB 28,0,TB,
-19,3613,3,00:44,,7,4,22,TB 46,0,TB,
-19,3589,2,00:50,,10,4,18,TB 43,0,TB,
-19,3651,4,00:25,,3,4,17,50,0,TB,PENALTY
-19,3546,2,01:23,,5,4,15,TB 33,0,TB,
-19,3678,4,00:25,,8,4,17,TB 45,0,TB,PUNT
-22,3988,1,09:34,,10,5,54,TB 19,0,SEA,
-22,3924,1,11:27,,10,5,27,TB 37,0,SEA,
-22,3946,2,10:54,,6,5,27,TB 33,0,SEA,
-22,3900,2,12:05,,7,5,23,TB 47,0,SEA,
-22,3879,1,12:43,,10,5,13,50,0,SEA,
-22,3858,1,13:04,,10,5,10,SEA 40,0,SEA,
-22,4047,2,08:16,,9,5,51,TB 9,1,SEA,FG
-22,3967,3,10:17,,6,5,41,TB 33,0,SEA,
-22,4009,0,08:50,,0,5,54,,0,,TIMEOUT
-22,4026,1,08:50,,6,5,51,TB 6,0,SEA,
-12,2220,0,09:48,,0,3,0,TB 35,0,TB,KICKOFF
-12,2438,1,05:06,,10,3,86,TB 10,1,SEA,TD
-12,2414,1,05:20,,10,3,76,TB 29,0,SEA,
-12,2455,0,05:00,,0,3,86,TB 2,1,SEA,XP
-12,2313,1,07:42,,10,3,36,SEA 46,0,SEA,PENALTY
-12,2292,1,08:19,,10,3,32,SEA 33,0,SEA,
-12,2268,2,09:05,,8,3,19,SEA 16,0,SEA,
-12,2366,2,06:46,,6,3,38,50,0,SEA,
-12,2345,1,07:22,,18,3,36,SEA 38,0,SEA,
-12,2390,3,06:06,,4,3,57,TB 48,0,SEA,
-12,2244,1,09:43,,10,3,2,SEA 14,0,SEA,
-16,3120,1,07:59,,3,4,72,TB 3,0,SEA,INT
-16,3004,2,10:41,,12,4,35,TB 49,0,SEA,
-16,2954,1,11:37,,10,4,28,SEA 25,0,SEA,
-16,3028,3,10:01,,3,4,41,TB 40,0,SEA,
-16,2983,1,11:21,,10,4,26,TB 47,0,SEA,
-16,3073,2,08:49,,6,4,45,TB 30,0,SEA,
-16,3096,3,08:44,,6,4,72,TB 30,0,SEA,
-16,3052,1,09:26,,10,4,45,TB 34,0,SEA,
-7,1458,0,02:55,,0,2,0,TB 35,0,TB,FUMBLE
-3,621,4,03:07,,1,1,24,SEA 44,0,SEA,FUMBLE
-3,520,1,05:10,,10,1,15,SEA 20,0,SEA,PENALTY
-3,595,3,03:46,,3,1,24,SEA 42,0,SEA,
-3,553,1,05:06,,10,1,20,SEA 35,0,SEA,
-3,574,2,04:24,,5,1,22,SEA 40,0,SEA,
-17,3202,3,06:27,,2,4,8,TB 29,0,TB,
-17,3157,1,07:51,,10,4,3,TB 21,0,TB,
-17,3178,2,07:10,,7,4,8,TB 24,0,TB,
-17,3224,4,06:19,,2,4,8,TB 29,0,TB,PUNT
-4,947,1,11:59,,10,2,90,SEA 12,1,TB,TD
-4,717,1,01:31,,10,1,11,TB 26,0,TB,PENALTY
-4,926,2,12:52,,1,2,78,SEA 13,0,TB,
-4,989,0,11:50,,0,2,90,SEA 2,1,TB,XP
-4,863,1,13:40,,10,2,68,SEA 44,0,TB,PENALTY
-4,671,2,02:14,,8,1,2,TB 12,0,TB,
-4,839,3,14:19,,2,2,46,50,0,TB,
-4,905,1,13:32,,10,2,77,SEA 22,0,TB,
-4,751,1,00:58,,15,1,32,TB 21,0,TB,
-4,814,2,15:00,,2,2,40,50,0,TB,
-4,650,1,02:53,,10,1,2,TB 10,0,TB,
-4,777,1,00:26,,10,1,40,TB 42,0,TB,
-4,693,3,02:10,,8,1,16,TB 12,0,TB,
-2,302,1,09:19,,10,1,5,TB 14,0,TB,
-2,323,2,08:39,,5,1,9,TB 19,0,TB,
-2,344,3,07:54,,1,1,11,TB 23,0,TB,
-2,460,2,06:26,,7,1,21,TB 46,0,TB,
-2,439,1,07:04,,10,1,32,TB 43,0,TB,
-2,402,1,07:09,,5,1,29,TB 30,0,TB,PENALTY
-2,369,1,07:15,,10,1,16,TB 25,0,TB,PENALTY
-2,479,3,05:45,,18,1,29,TB 35,0,TB,
-2,503,4,05:19,,10,1,29,TB 43,0,TB,PUNT
-15,2870,1,13:34,,10,4,21,TB 33,0,TB,
-15,2935,4,11:45,,10,4,16,TB 33,0,TB,PUNT
-15,2849,2,14:13,,5,4,16,TB 22,0,TB,
-15,2803,0,14:47,,0,4,0,SEA 35,0,SEA,KICKOFF
-15,2915,3,12:16,,3,4,16,TB 40,0,TB,
-15,2894,2,13:00,,5,4,23,TB 38,0,TB,
-15,2825,1,14:39,,10,4,5,TB 17,0,TB,
+20,3703,1,00:16,(:16) (Shotgun) R.Wilson pass short right to M.Lynch to SEA 38 for 5 yards (G.McCoy; J.Banks).,10,4,5,SEA 33,0,SEA,
+20,3727,0,,END QUARTER 4,0,4,5,,0,,
+21,3788,2,14:33,"(14:33) M.James right guard to TB 23 for 2 yards (C.Clemons, K.Chancellor).",9,5,3,TB 21,0,TB,
+21,3762,1,15:00,(15:00) (Shotgun) M.Glennon scrambles right end ran ob at TB 21 for 1 yard.,10,5,1,TB 20,0,TB,
+21,3809,3,13:51,(13:51) (Shotgun) M.Glennon sacked at TB 16 for -7 yards (sack split by B.Wagner and C.Avril).,7,5,-4,TB 23,0,TB,
+21,3743,0,15:00,"S.Hauschka kicks 65 yards from SEA 35 to end zone, Touchback.",0,5,0,SEA 35,0,SEA,KICKOFF
+21,3828,4,13:17,"(13:17) M.Koenen punts 52 yards to SEA 32, Center-A.Economos. G.Tate pushed ob at SEA 40 for 8 yards (J.Casillas).",14,5,-4,TB 16,0,TB,PUNT
+22,3879,1,12:43,(12:43) M.Lynch up the middle to TB 47 for 3 yards (D.Landri).,10,5,13,50,0,SEA,
+22,4047,2,08:16,"(8:16) S.Hauschka 27 yard field goal is GOOD, Center-C.Gresham, Holder-J.Ryan.",9,5,51,TB 9,1,SEA,FG
+22,3900,2,12:05,(12:05) R.Wilson pass short left to D.Baldwin to TB 37 for 10 yards (J.Banks).,7,5,23,TB 47,0,SEA,
+22,3924,1,11:27,"(11:27) M.Lynch right tackle to TB 33 for 4 yards (A.Clayborn, L.David).",10,5,27,TB 37,0,SEA,
+22,4009,0,08:50,Timeout #1 by TB at 08:50.,0,5,54,,0,,TIMEOUT
+22,3946,2,10:54,(10:54) M.Lynch left tackle to TB 33 for no gain (D.Landri).,6,5,27,TB 33,0,SEA,
+22,4026,1,08:50,(8:50) R.Wilson kneels to TB 9 for -3 yards.,6,5,51,TB 6,0,SEA,
+22,3967,3,10:17,(10:17) (Shotgun) M.Lynch right tackle to TB 19 for 14 yards (L.Johnson; K.Tandy).,6,5,41,TB 33,0,SEA,
+22,3988,1,09:34,(9:34) M.Lynch left tackle to TB 6 for 13 yards (D.Revis).,10,5,54,TB 19,0,SEA,
+22,3858,1,13:04,(13:04) M.Lynch left tackle pushed ob at 50 for 10 yards (M.Barron).,10,5,10,SEA 40,0,SEA,
+1,143,1,12:39,(12:39) (Shotgun) R.Wilson pass incomplete short right to Z.Miller.,10,1,32,TB 48,0,SEA,
+1,210,1,11:25,(11:25) M.Lynch left end to TB 26 for 11 yards (M.Barron).,10,1,54,TB 37,0,SEA,
+1,51,1,15:00,(15:00) M.Lynch left tackle to SEA 25 for 5 yards (G.McCoy).,10,1,5,SEA 20,0,SEA,
+1,36,0,15:00,"M.Koenen kicks 65 yards from TB 35 to end zone, Touchback.",0,1,0,TB 35,0,TB,KICKOFF
+1,98,1,13:55,(13:55) R.Wilson pass short middle to M.Lynch to SEA 38 for no gain (A.Clayborn) [G.McCoy].,10,1,18,SEA 38,0,SEA,
+1,122,2,13:18,(13:18) M.Lynch left tackle to TB 48 for 14 yards (M.Barron; K.Tandy).,10,1,32,SEA 38,0,SEA,
+1,186,3,12:02,(12:02) (Shotgun) R.Wilson pass short middle to Z.Miller to TB 37 for 10 yards (M.Barron).,9,1,43,TB 47,0,SEA,
+1,72,2,14:26,(14:26) M.Lynch right end pushed ob at SEA 38 for 13 yards (M.Barron).,5,1,18,SEA 25,0,SEA,
+1,276,3,09:26,(9:26) (Shotgun) R.Wilson pass short left intended for Z.Miller INTERCEPTED by M.Barron at TB 11. M.Barron to TB 14 for 3 yards (J.Kearse).,5,1,59,TB 21,0,SEA,INT
+1,252,2,10:05,(10:05) R.Wilson pass short right to D.Baldwin to TB 21 for 2 yards (M.Foster; J.Banks).,7,1,59,TB 23,0,SEA,
+1,165,2,12:35,(12:35) R.Wilson scrambles right end pushed ob at TB 47 for 1 yard (L.David).,10,1,33,TB 48,0,SEA,
+1,231,1,10:44,(10:44) (Shotgun) R.Turbin right guard to TB 23 for 3 yards (L.David; D.Te'o-Nesheim).,10,1,57,TB 26,0,SEA,
+3,595,3,03:46,(3:46) (Shotgun) R.Turbin left end pushed ob at SEA 44 for 2 yards (M.Barron).,3,1,24,SEA 42,0,SEA,
+3,621,4,03:07,"(3:07) J.Ryan punts 45 yards to TB 11, Center-C.Gresham. S.Dawson MUFFS catch, and recovers at TB 10. S.Dawson to TB 10 for no gain (J.Lane).",1,1,24,SEA 44,0,SEA,FUMBLE
+3,520,1,05:10,"(5:10) R.Wilson pass incomplete short middle to Z.Miller. PENALTY on TB-J.Casillas, Roughing the Passer, 15 yards, enforced at SEA 20 - No Play.",10,1,15,SEA 20,0,SEA,PENALTY
+3,553,1,05:06,(5:06) R.Turbin right tackle to SEA 40 for 5 yards (A.Spence; K.Tandy).,10,1,20,SEA 35,0,SEA,
+3,574,2,04:24,(4:24) R.Turbin right tackle to SEA 42 for 2 yards (L.David; G.McCoy).,5,1,22,SEA 40,0,SEA,
+2,302,1,09:19,(9:19) M.James left tackle to TB 19 for 5 yards (T.McDaniel; E.Thomas).,10,1,5,TB 14,0,TB,
+2,369,1,07:15,"(7:15) (Shotgun) M.Glennon pass incomplete short middle to V.Jackson. PENALTY on SEA-R.Bryant, Defensive Offside, 5 yards, enforced at TB 25 - No Play.",10,1,16,TB 25,0,TB,PENALTY
+2,460,2,06:26,(6:26) M.Glennon sacked at TB 35 for -11 yards (B.Wagner).,7,1,21,TB 46,0,TB,
+2,344,3,07:54,(7:54) #72 Eligible M.James up the middle to TB 25 for 2 yards (K.Wright).,1,1,11,TB 23,0,TB,
+2,323,2,08:39,(8:39) M.James right guard to TB 23 for 4 yards (B.Wagner; C.Clemons).,5,1,9,TB 19,0,TB,
+2,402,1,07:09,"(7:09) #72 Eligible M.Glennon pass incomplete deep left to S.Dawson. PENALTY on SEA-B.Browner, Defensive Pass Interference, 13 yards, enforced at TB 30 - No Play.",5,1,29,TB 30,0,TB,PENALTY
+2,439,1,07:04,(7:04) M.James left tackle to TB 46 for 3 yards (K.Wright; R.Bryant).,10,1,32,TB 43,0,TB,
+2,479,3,05:45,(5:45) (Shotgun) M.Glennon pass short left to B.Leonard pushed ob at TB 43 for 8 yards (E.Thomas).,18,1,29,TB 35,0,TB,
+2,503,4,05:19,"(5:19) M.Koenen punts 57 yards to end zone, Center-A.Economos, Touchback.",10,1,29,TB 43,0,TB,PUNT
+5,1128,2,10:27,(10:27) R.Wilson pass incomplete short left to D.Baldwin (D.Gorrer).,10,2,12,SEA 36,0,SEA,
+5,1042,0,11:50,M.Koenen kicks 68 yards from TB 30 to SEA 2. J.Kearse to SEA 24 for 22 yards (A.Hayward).,0,2,0,TB 30,0,TB,KICKOFF
+5,1085,2,11:09,(11:09) M.Lynch left tackle to SEA 36 for 3 yards (G.Gibson; D.Revis).,1,2,12,SEA 33,0,SEA,
+5,1171,4,09:45,"(9:45) J.Ryan punts 39 yards to TB 16, Center-C.Gresham, fair catch by E.Page.",1,2,21,SEA 45,0,SEA,PUNT
+5,1064,1,11:44,(11:44) (Shotgun) R.Turbin left tackle to SEA 33 for 9 yards (M.Barron).,10,2,9,SEA 24,0,SEA,
+5,1150,3,10:23,(10:23) (Shotgun) R.Wilson scrambles right end to SEA 45 for 9 yards (M.Adams).,10,2,21,SEA 36,0,SEA,
+5,1106,1,10:33,(10:33) (Shotgun) R.Wilson pass incomplete short right to D.Baldwin (M.Barron).,10,2,12,SEA 36,0,SEA,
+5,1005,0,11:50,"M.Koenen kicks onside 11 yards from TB 35 to TB 46. RECOVERED by TB-M.Adams. PENALTY on TB-M.Adams, Offensive Offside, 5 yards, enforced at TB 35 - No Play.",0,2,0,TB 35,0,TB,PENALTY
+4,693,3,02:10,(2:10) (Shotgun) M.Glennon pass short left to T.Wright to TB 26 for 14 yards (K.Wright).,8,1,16,TB 12,0,TB,
+4,751,1,00:58,(:58) M.James left tackle pushed ob at TB 42 for 21 yards (K.Chancellor).,15,1,32,TB 21,0,TB,
+4,989,0,11:50,"R.Lindell extra point is GOOD, Center-A.Economos, Holder-M.Koenen.",0,2,90,SEA 2,1,TB,XP
+4,905,1,13:32,"(13:32) M.James left tackle to SEA 13 for 9 yards (E.Thomas, B.Wagner).",10,2,77,SEA 22,0,TB,
+4,717,1,01:31,"(1:31) (Shotgun) Direct snap to M.James.  M.James right tackle to TB 24 for -2 yards (T.McDaniel). PENALTY on TB-M.James, False Start, 5 yards, enforced at TB 26 - No Play.",10,1,11,TB 26,0,TB,PENALTY
+4,947,1,11:59,"(11:59) (Shotgun) M.Glennon pass short middle to T.Wright for 12 yards, TOUCHDOWN. Penalty on SEA-R.Bryant, Defensive Offside, declined.",10,2,90,SEA 12,1,TB,TD
+4,863,1,13:40,"(13:40) (Shotgun) M.Glennon pass incomplete deep left to S.Dawson (E.Thomas). PENALTY on SEA-E.Thomas, Defensive Pass Interference, 22 yards, enforced at SEA 44 - No Play.",10,2,68,SEA 44,0,TB,PENALTY
+4,839,3,14:19,(14:19) (Shotgun) M.Glennon pass short right to V.Jackson to SEA 44 for 6 yards (R.Sherman).,2,2,46,50,0,TB,
+4,777,1,00:26,(:26) B.Leonard left tackle to 50 for 8 yards (K.Chancellor).,10,1,40,TB 42,0,TB,
+4,671,2,02:14,(2:14) M.Glennon pass incomplete short left to V.Jackson (B.Browner).,8,1,2,TB 12,0,TB,
+4,650,1,02:53,(2:53) M.James left end to TB 12 for 2 yards (B.Wagner).,10,1,2,TB 10,0,TB,
+4,814,2,15:00,(15:00) #72 Eligible.  M.James right guard to 50 for no gain (C.McDonald; K.Chancellor).,2,2,40,50,0,TB,
+4,926,2,12:52,(12:52) M.James right tackle to SEA 12 for 1 yard (C.Clemons; B.Mebane).,1,2,78,SEA 13,0,TB,
+7,1458,0,02:55,"M.Koenen kicks 63 yards from TB 35 to SEA 2. J.Kearse to SEA 32 for 30 yards (R.Shepard). FUMBLES (R.Shepard), RECOVERED by TB-M.Koenen at SEA 36. M.Koenen to SEA 31 for 5 yards (C.Maragos).",0,2,0,TB 35,0,TB,FUMBLE
+6,1212,2,08:57,(8:57) M.James right tackle to TB 25 for 8 yards (K.Chancellor).,9,2,9,TB 17,0,TB,
+6,1287,1,07:18,(7:18) B.Leonard left end to TB 44 for 1 yard (K.Wright).,10,2,28,TB 43,0,TB,
+6,1422,1,03:04,"(3:04) (Shotgun) M.Glennon pass deep left to T.Underwood for 20 yards, TOUCHDOWN.",10,2,84,SEA 20,1,TB,TD
+6,1377,2,04:31,(4:31) M.James right tackle to SEA 39 for 2 yards (J.Hill; K.Wright).,6,2,45,SEA 41,0,TB,
+6,1233,3,08:17,(8:17) #72 Eligible. M.Glennon pass short right to E.Lorig ran ob at TB 32 for 7 yards.,1,2,16,TB 25,0,TB,
+6,1191,1,09:37,(9:37) M.James right tackle to TB 17 for 1 yard (T.McDaniel; K.Wright).,10,2,1,TB 16,0,TB,
+6,1308,2,06:40,(6:40) M.Glennon pass short right to E.Lorig to TB 46 for 2 yards (B.Wagner).,9,2,30,TB 44,0,TB,
+6,1266,1,07:50,(7:50) M.James up the middle to TB 43 for 11 yards (K.Chancellor; R.Sherman).,10,2,27,TB 32,0,TB,
+6,1332,3,05:53,(5:53) (Shotgun) M.Glennon pass short right to T.Underwood to SEA 45 for 9 yards (E.Thomas) [B.Irvin].,7,2,39,TB 46,0,TB,
+6,1442,0,02:55,"R.Lindell extra point is GOOD, Center-A.Economos, Holder-M.Koenen.",0,2,84,SEA 2,1,TB,XP
+6,1356,1,05:13,(5:13) M.James right end to SEA 41 for 4 yards (B.Wagner).,10,2,43,SEA 45,0,TB,
+6,1398,3,03:47,(3:47) (Shotgun) M.Glennon pass short left to B.Leonard to SEA 20 for 19 yards (E.Thomas).,4,2,64,SEA 39,0,TB,
+9,1625,2,02:00,"(2:00) R.Wilson scrambles up the middle ran ob at SEA 40 for 16 yards. PENALTY on TB-G.McCoy, Unnecessary Roughness, 15 yards, enforced at SEA 40.",6,2,80,SEA 24,0,SEA,PENALTY
+9,1722,0,01:40,Timeout #1 by SEA at 01:40. Due to injury.Sea 73,0,2,80,,0,,TIMEOUT
+9,1587,1,02:16,(2:16) M.Lynch left tackle to SEA 24 for 4 yards (G.McCoy; D.Bowers).,10,2,4,SEA 20,0,SEA,
+9,1690,1,01:45,"(1:45) (Shotgun) R.Wilson pass short middle to J.Kearse for 16 yards, TOUCHDOWN [G.McCoy]. SEA-M.Bowie was injured during the play.  PENALTY on TB-G.McCoy, Roughing the Passer, 15 yards, enforced between downs.",10,2,80,TB 16,1,SEA,TD
+9,1571,0,02:16,"M.Koenen kicks 65 yards from TB 35 to end zone, Touchback.",0,2,0,TB 35,0,TB,KICKOFF
+9,1747,0,01:40,"S.Hauschka extra point is GOOD, Center-C.Gresham, Holder-J.Ryan.",0,2,80,TB 2,1,SEA,XP
+9,1657,1,01:50,"(1:50) (Shotgun) R.Wilson pass incomplete deep left to D.Baldwin. PENALTY on TB-M.Adams, Defensive Pass Interference, 29 yards, enforced at TB 45 - No Play.",10,2,64,TB 45,0,SEA,PENALTY
+8,1492,1,02:46,"(2:46) (Shotgun) M.Glennon pass deep left to T.Wright to SEA 4 for 27 yards (E.Thomas). PENALTY on SEA-E.Thomas, Unnecessary Roughness, 2 yards, enforced at SEA 4.",10,2,29,SEA 31,0,TB,PENALTY
+8,1527,1,02:23,"(2:23) #72 Eligible. M.James pass short middle to T.Crabtree for 2 yards, TOUCHDOWN.",2,2,31,SEA 2,1,TB,TD
+8,1555,0,02:16,"R.Lindell extra point is GOOD, Center-A.Economos, Holder-M.Koenen.",0,2,31,SEA 2,1,TB,XP
+11,1991,2,14:23,(14:23) M.James right tackle to TB 32 for 3 yards (K.Wright).,1,3,12,TB 29,0,TB,
+11,2147,2,10:40,(10:40) M.James up the middle to SEA 15 for 2 yards (C.McDonald; B.Mebane).,10,3,65,SEA 17,0,TB,
+11,2125,1,10:47,(10:47) (Shotgun) M.Glennon pass incomplete short left.,10,3,65,SEA 17,0,TB,
+11,2059,3,12:55,(12:55) (Shotgun) M.Glennon pass short middle to B.Leonard to SEA 49 for 13 yards (B.Wagner; E.Thomas).,4,3,65,TB 38,0,TB,
+11,2083,1,12:13,(12:13) S.Dawson right end to SEA 35 for 14 yards (C.Avril).,10,3,45,SEA 49,0,TB,
+11,2190,4,09:53,"(9:53) R.Lindell 33 yard field goal is GOOD, Center-A.Economos, Holder-M.Koenen. Penalty on SEA, Defensive Offside, declined.",8,3,65,SEA 15,1,TB,FG
+11,1970,1,15:00,"(15:00) M.James right tackle to TB 29 for 9 yards (E.Thomas, T.McDaniel).",10,3,9,TB 20,0,TB,
+11,1955,0,15:00,"S.Hauschka kicks 65 yards from SEA 35 to end zone, Touchback.",0,3,0,SEA 35,0,SEA,KICKOFF
+11,2104,1,11:31,(11:31) M.James up the middle to SEA 17 for 18 yards (R.Sherman).,10,3,63,SEA 35,0,TB,
+11,2168,3,10:02,(10:02) (Shotgun) M.Glennon pass incomplete short right to T.Underwood.,8,3,65,SEA 15,0,TB,
+11,2038,2,13:39,(13:39) M.James left guard to TB 38 for 6 yards (K.Wright; E.Thomas).,10,3,18,TB 32,0,TB,
+11,2012,1,13:44,(13:44) #72 Eligible. M.Glennon pass incomplete deep middle to V.Jackson [R.Sherman].,10,3,65,TB 32,0,TB,
+10,1817,2,01:34,(1:34) M.James right tackle to TB 19 for 2 yards (T.McDaniel).,6,2,6,TB 17,0,TB,
+10,1800,0,01:34,Timeout #2 by SEA at 01:34.,0,2,4,,0,,TIMEOUT
+10,1838,0,01:28,Timeout #3 by SEA at 01:28.,0,2,6,,0,,TIMEOUT
+10,1779,1,01:40,(1:40) M.James left guard to TB 17 for 4 yards (B.Irvin; B.Mebane).,10,2,4,TB 13,0,TB,
+10,1855,3,01:28,(1:28) (Shotgun) B.Leonard up the middle to TB 24 for 5 yards (K.Wright; C.Avril).,4,2,11,TB 19,0,TB,
+10,1918,2,00:02,(:02) M.Glennon kneels to TB 25 for -2 yards.,7,2,12,TB 27,0,TB,
+10,1763,0,01:40,"S.Hauschka kicks 37 yards from 50 to TB 13, fair catch by E.Page.",0,2,0,50,0,SEA,KICKOFF
+10,1901,0,00:02,Timeout #1 by TB at 00:02.,0,2,14,,0,,TIMEOUT
+10,1879,1,00:48,(:48) M.James right tackle to TB 27 for 3 yards (B.Irvin).,10,2,14,TB 24,0,TB,
+13,2626,4,01:19,"(1:19) M.Koenen punts 52 yards to SEA 4, Center-A.Economos. G.Tate ran ob at TB 25 for 71 yards.",6,3,24,TB 44,0,TB,PUNT
+13,2471,0,05:00,"S.Hauschka kicks 65 yards from SEA 35 to end zone, Touchback.",0,3,0,SEA 35,0,SEA,KICKOFF
+13,2581,2,02:34,(2:34) B.Leonard left tackle to TB 36 for 4 yards (R.Bryant; T.McDaniel).,18,3,16,TB 32,0,TB,
+13,2486,1,05:00,"(5:00) M.James right tackle to TB 23 for 3 yards (B.Wagner, T.McDaniel).",10,3,3,TB 20,0,TB,
+13,2560,1,03:13,(3:13) B.Leonard right guard to TB 32 for 2 yards (T.McDaniel; M.Bennett).,20,3,12,TB 30,0,TB,
+13,2528,1,03:42,"(3:42) M.James left tackle to TB 44 for 4 yards (B.Wagner; E.Thomas). PENALTY on TB-T.Crabtree, Offensive Holding, 10 yards, enforced at TB 40 - No Play.",10,3,10,TB 40,0,TB,PENALTY
+13,2602,3,02:02,(2:02) (Shotgun) M.Glennon pass short left to B.Leonard to TB 44 for 8 yards (C.Avril).,14,3,24,TB 36,0,TB,
+13,2507,2,04:22,(4:22) M.James left tackle to TB 40 for 17 yards (K.Chancellor).,7,3,20,TB 23,0,TB,
+12,2345,1,07:22,(7:22) (Shotgun) R.Turbin up the middle to 50 for 12 yards (M.Foster).,18,3,36,SEA 38,0,SEA,
+12,2438,1,05:06,"(5:06) (No Huddle, Shotgun) R.Wilson right end for 10 yards, TOUCHDOWN.",10,3,86,TB 10,1,SEA,TD
+12,2455,0,05:00,"S.Hauschka extra point is GOOD, Center-C.Gresham, Holder-J.Ryan.",0,3,86,TB 2,1,SEA,XP
+12,2292,1,08:19,(8:19) M.Lynch left tackle to SEA 46 for 13 yards (L.David).,10,3,32,SEA 33,0,SEA,
+12,2313,1,07:42,"(7:42) M.Lynch left tackle pushed ob at SEA 48 for 2 yards (M.Barron). PENALTY on SEA-Z.Miller, Offensive Holding, 10 yards, enforced at SEA 48.",10,3,36,SEA 46,0,SEA,PENALTY
+12,2220,0,09:48,M.Koenen kicks 55 yards from TB 35 to SEA 10. J.Kearse to SEA 14 for 4 yards (S.Larsen).,0,3,0,TB 35,0,TB,KICKOFF
+12,2268,2,09:05,(9:05) (Shotgun) R.Wilson pass deep right to Z.Miller to SEA 33 for 17 yards (M.Foster).,8,3,19,SEA 16,0,SEA,
+12,2414,1,05:20,(5:20) R.Wilson pass deep left to D.Baldwin ran ob at TB 10 for 19 yards.,10,3,76,TB 29,0,SEA,
+12,2390,3,06:06,(6:06) (Shotgun) R.Wilson pass short middle to G.Tate to TB 29 for 19 yards (M.Barron).,4,3,57,TB 48,0,SEA,
+12,2244,1,09:43,(9:43) R.Wilson pass short right to G.Tate to SEA 16 for 2 yards (L.David; M.Foster).,10,3,2,SEA 14,0,SEA,
+12,2366,2,06:46,(6:46) (Shotgun) R.Wilson pass short right to M.Lynch to TB 48 for 2 yards (L.David).,6,3,38,50,0,SEA,
+15,2870,1,13:34,(13:34) M.Glennon pass short left to M.James to TB 38 for 5 yards (K.Wright).,10,4,21,TB 33,0,TB,
+15,2915,3,12:16,(12:16) (Shotgun) M.Glennon sacked at TB 33 for -7 yards (M.Bennett).,3,4,16,TB 40,0,TB,
+15,2849,2,14:13,(14:13) M.James right tackle to TB 33 for 11 yards (E.Thomas).,5,4,16,TB 22,0,TB,
+15,2894,2,13:00,(13:00) M.James left end to TB 40 for 2 yards (B.Wagner).,5,4,23,TB 38,0,TB,
+15,2935,4,11:45,"(11:45) M.Koenen punts 42 yards to SEA 25, Center-A.Economos, out of bounds.",10,4,16,TB 33,0,TB,PUNT
+15,2825,1,14:39,(14:39) M.Glennon pass short left to E.Lorig pushed ob at TB 22 for 5 yards (B.Irvin).,10,4,5,TB 17,0,TB,
+15,2803,0,14:47,S.Hauschka kicks 66 yards from SEA 35 to TB -1. E.Page to TB 17 for 18 yards (J.Kearse; C.Maragos).,0,4,0,SEA 35,0,SEA,KICKOFF
+14,2723,3,15:00,(15:00) (Shotgun) R.Wilson pass incomplete short left to D.Baldwin.,3,4,7,TB 18,0,SEA,
+14,2662,1,00:58,(:58) (Shotgun) M.Lynch left guard to TB 23 for 2 yards (L.David).,10,3,2,TB 25,0,SEA,
+14,2784,4,14:51,"(14:51) S.Hauschka 36 yard field goal is GOOD, Center-C.Gresham, Holder-J.Ryan.",3,4,7,TB 18,1,SEA,FG
+14,2683,2,00:12,"(:12) (Shotgun) R.Wilson pass short right to R.Lockette to TB 18 for 5 yards (K.Tandy). Tampa Bay challenged the pass completion ruling, and the play was Upheld. (Timeout #1.)",8,3,7,TB 23,0,SEA,TIMEOUT
+17,3178,2,07:10,(7:10) (Shotgun) M.Glennon pass short middle to V.Jackson to TB 29 for 5 yards (B.Browner).,7,4,8,TB 24,0,TB,
+17,3157,1,07:51,(7:51) M.James left tackle to TB 24 for 3 yards (M.Bennett; B.Wagner).,10,4,3,TB 21,0,TB,
+17,3202,3,06:27,(6:27) (Shotgun) M.Glennon pass incomplete short left.,2,4,8,TB 29,0,TB,
+17,3224,4,06:19,"(6:19) M.Koenen punts 30 yards to SEA 41, Center-A.Economos, out of bounds.",2,4,8,TB 29,0,TB,PUNT
+16,3028,3,10:01,(10:01) (Shotgun) R.Wilson pass short right to D.Baldwin to TB 34 for 6 yards (D.Revis).,3,4,41,TB 40,0,SEA,
+16,2983,1,11:21,"(11:21) M.Lynch right end to TB 49 for -2 yards (A.Spence, W.Gholston).",10,4,26,TB 47,0,SEA,
+16,3120,1,07:59,"(7:59) R.Wilson pass short middle intended for D.Baldwin INTERCEPTED by K.Tandy at TB 0. K.Tandy to TB 6 for 6 yards (Z.Miller; J.Sweezy). PENALTY on SEA-R.Wilson, Face Mask (15 Yards), 15 yards, enforced at TB 6.",3,4,72,TB 3,0,SEA,INT
+16,3004,2,10:41,(10:41) R.Wilson pass short middle to M.Lynch to TB 40 for 9 yards (D.Watson; L.David).,12,4,35,TB 49,0,SEA,
+16,3073,2,08:49,(8:49) R.Wilson pass incomplete short middle to M.Lynch [G.Gibson].,6,4,45,TB 30,0,SEA,
+16,3096,3,08:44,(8:44) (Shotgun) R.Wilson pass deep left to J.Kearse to TB 3 for 27 yards (M.Adams).,6,4,72,TB 30,0,SEA,
+16,2954,1,11:37,(11:37) (Shotgun) R.Wilson pass short left to D.Baldwin pushed ob at TB 47 for 28 yards (D.Revis) [A.Clayborn].,10,4,28,SEA 25,0,SEA,
+16,3052,1,09:26,"(9:26) R.Turbin right tackle to TB 30 for 4 yards (M.Barron, D.Landri).",10,4,45,TB 34,0,SEA,
+19,3546,2,01:23,"(1:23) (No Huddle, Shotgun) M.Glennon scrambles up the middle to TB 43 for 10 yards (W.Thurmond).",5,4,15,TB 33,0,TB,
+19,3613,3,00:44,(:44) (Shotgun) M.Glennon scrambles left end to 50 for 4 yards (E.Thomas; B.Irvin).,7,4,22,TB 46,0,TB,
+19,3567,1,00:56,"(:56) (No Huddle, Shotgun) M.Glennon pass incomplete short left.",10,4,15,TB 43,0,TB,
+19,3500,0,01:51,S.Hauschka kicks 62 yards from SEA 35 to TB 3. E.Page to TB 28 for 25 yards (M.Morgan; B.Maxwell).,0,4,0,SEA 35,0,SEA,KICKOFF
+19,3589,2,00:50,(:50) (Shotgun) M.Glennon pass short right to M.James pushed ob at TB 46 for 3 yards (E.Thomas).,10,4,18,TB 43,0,TB,
+19,3634,0,00:25,Timeout #1 by SEA at 00:25.,0,4,22,,0,,TIMEOUT
+19,3678,4,00:25,"(:25) M.Koenen punts 35 yards to SEA 20, Center-A.Economos. G.Tate to SEA 33 for 13 yards (A.Hayward; A.Economos).",8,4,17,TB 45,0,TB,PUNT
+19,3522,1,01:45,(1:45) (Shotgun) M.Glennon pass short left to T.Wright to TB 33 for 5 yards (K.Wright).,10,4,5,TB 28,0,TB,
+19,3651,4,00:25,"(:25) #72 Eligible. (Run formation)  PENALTY on TB-M.Glennon, Delay of Game, 5 yards, enforced at 50 - No Play.",3,4,17,50,0,TB,PENALTY
+18,3459,3,01:56,"(1:56) (Shotgun) R.Wilson pass short right to D.Baldwin for 10 yards, TOUCHDOWN.",5,4,59,TB 10,1,SEA,TD
+18,3305,1,04:28,(4:28) R.Wilson pass deep right to Z.Miller to TB 26 for 22 yards (K.Tandy) [A.Clayborn].,10,4,33,TB 48,0,SEA,
+18,3242,1,06:13,(6:13) (Shotgun) M.Lynch left guard to SEA 44 for 3 yards (L.Johnson).,10,4,3,SEA 41,0,SEA,
+18,3421,2,02:01,(2:01) (Shotgun) M.Lynch right tackle to TB 10 for 2 yards (G.McCoy; A.Hayward). TB-G.McCoy was injured during the play.,7,4,49,TB 12,0,SEA,
+18,3374,3,02:35,(2:35) (Shotgun) M.Lynch right end pushed ob at TB 15 for 3 yards (W.Gholston).,2,4,44,TB 18,0,SEA,
+18,3484,0,01:51,"S.Hauschka extra point is GOOD, Center-C.Gresham, Holder-J.Ryan.",0,4,59,TB 2,1,SEA,XP
+18,3442,0,01:56,Two-Minute Warning,0,4,49,,0,,
+18,3400,1,02:29,(2:29) (Shotgun) R.Wilson right tackle to TB 12 for 3 yards (L.David).,10,4,47,TB 15,0,SEA,
+18,3263,2,05:42,"(5:42) M.Lynch right tackle to SEA 48 for 4 yards (G.McCoy, J.Casillas).",7,4,7,SEA 44,0,SEA,
+18,3350,2,03:19,(3:19) (Shotgun) R.Wilson pass short right to G.Tate to TB 18 for 8 yards (D.Landri) [D.Te'o-Nesheim].,10,4,41,TB 26,0,SEA,
+18,3329,1,03:52,(3:52) (Shotgun) R.Turbin up the middle to TB 26 for no gain (M.Barron).,10,4,33,TB 26,0,SEA,
+18,3284,3,05:09,(5:09) (Shotgun) M.Lynch left tackle to TB 48 for 4 yards (L.David; D.Landri).,3,4,11,SEA 48,0,SEA,

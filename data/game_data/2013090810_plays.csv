@@ -1,180 +1,180 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,2059,0,15:00,,0,3,0,STL 35,0,STL,KICKOFF
-9,2100,2,14:58,,10,3,0,ARI 20,0,ARI,
-9,2122,3,14:56,,10,3,0,ARI 20,0,ARI,INT
-9,2078,1,15:00,,10,3,0,ARI 20,0,ARI,
-10,2191,3,14:05,,7,3,-3,ARI 7,0,STL,
-10,2148,1,14:47,,4,3,0,ARI 4,0,STL,
-10,2170,2,14:43,,4,3,-3,ARI 4,0,STL,
-10,2213,4,14:00,,7,3,-3,ARI 7,1,STL,FG
-20,3870,4,01:56,,2,4,8,ARI 41,0,ARI,PUNT
-20,3848,3,02:00,,2,4,8,ARI 41,0,ARI,
-20,3807,2,02:26,,13,4,8,ARI 30,0,ARI,
-20,3786,1,03:10,,10,4,-3,ARI 33,0,ARI,
-20,3831,0,02:00,,0,4,8,,0,,
-6,1400,2,06:12,,10,2,80,STL 14,0,ARI,
-6,1443,4,05:27,,8,2,80,STL 12,1,ARI,FG
-6,1126,0,11:20,,0,2,0,STL 35,0,STL,KICKOFF
-6,1259,2,07:59,,8,2,37,ARI 40,0,ARI,
-6,1304,0,06:48,,0,2,47,,0,,TIMEOUT
-6,1280,3,07:22,,3,2,47,ARI 45,0,ARI,
-6,1169,2,10:36,,6,2,4,ARI 12,0,ARI,
-6,1148,1,11:15,,10,2,4,ARI 8,0,ARI,
-6,1214,1,09:19,,10,2,30,ARI 25,0,ARI,
-6,1238,1,08:36,,10,2,32,ARI 38,0,ARI,
-6,1421,3,05:34,,8,2,80,STL 12,0,ARI,
-6,1343,2,06:46,,10,2,78,STL 45,0,ARI,PENALTY
-6,1190,3,10:00,,6,2,17,ARI 12,0,ARI,
-6,1378,1,06:19,,10,2,78,STL 14,0,ARI,
-6,1321,1,06:48,,10,2,80,STL 45,0,ARI,
-18,3441,0,09:04,,0,4,0,STL 35,0,STL,KICKOFF
-18,3600,2,05:37,,8,4,26,ARI 46,0,ARI,
-18,3456,1,09:04,,10,4,4,ARI 20,0,ARI,
-18,3480,2,08:28,,6,4,5,ARI 24,0,ARI,
-18,3632,3,05:30,,8,4,26,ARI 46,0,ARI,
-18,3579,1,06:15,,10,4,26,ARI 44,0,ARI,
-18,3557,2,06:48,,3,4,26,ARI 40,0,ARI,FUMBLE
-18,3654,4,05:25,,8,4,26,ARI 46,0,ARI,PUNT
-18,3501,3,07:48,,5,4,13,ARI 25,0,ARI,
-18,3536,1,07:27,,10,4,20,ARI 33,0,ARI,
-1,215,2,12:08,,19,1,12,STL 36,0,STL,
-1,192,2,12:26,,14,1,12,STL 41,0,STL,PENALTY
-1,107,2,13:56,,4,1,21,STL 40,0,STL,
-1,136,1,13:27,,10,1,11,STL 45,0,STL,PENALTY
-1,57,1,14:53,,10,1,10,STL 24,0,STL,
-1,261,4,11:37,,4,1,27,ARI 49,0,STL,PUNT
-1,237,3,12:04,,19,1,27,STL 36,0,STL,
-1,35,0,15:00,,0,1,0,ARI 35,0,ARI,KICKOFF
-1,86,1,14:32,,10,1,16,STL 34,0,STL,
-1,171,1,12:56,,20,1,17,STL 35,0,STL,
-5,940,2,13:34,,8,2,12,STL 23,0,STL,
-5,1085,3,11:30,,2,2,61,ARI 18,0,STL,
-5,894,0,14:11,,0,2,0,ARI 35,0,ARI,KICKOFF
-5,1064,2,12:07,,5,2,61,ARI 21,0,STL,
-5,1042,1,12:12,,5,2,58,ARI 21,0,STL,
-5,982,2,12:20,,7,2,53,STL 36,0,STL,PENALTY
-5,1019,1,12:12,,10,2,58,ARI 26,0,STL,PENALTY
-5,916,1,14:08,,10,2,2,STL 21,0,STL,
-5,1107,4,11:24,,2,2,61,ARI 18,1,STL,FG
-5,961,1,12:53,,10,2,15,STL 33,0,STL,
-13,2486,2,09:55,,8,3,7,STL 21,0,STL,
-13,2462,1,10:29,,10,3,2,STL 19,0,STL,
-13,2555,2,08:08,,1,3,21,STL 40,0,STL,
-13,2440,0,10:34,,0,3,0,ARI 35,0,ARI,KICKOFF
-13,2534,1,08:42,,10,3,21,STL 31,0,STL,
-13,2576,3,07:34,,1,3,21,STL 40,0,STL,
-13,2510,3,09:18,,3,3,12,STL 26,0,STL,
-13,2597,4,07:13,,1,3,21,STL 40,0,STL,PUNT
-21,4045,2,01:05,,5,4,52,ARI 32,0,STL,
-21,4107,0,00:45,,0,4,50,,0,,TIMEOUT
-21,3932,1,01:24,,10,4,13,STL 33,0,STL,
-21,3977,2,01:19,,5,4,43,STL 38,0,STL,
-21,3887,1,01:45,,10,4,8,STL 20,0,STL,
-21,4124,4,00:45,,3,4,50,ARI 30,1,STL,FG
-21,4028,0,01:05,,0,4,48,,0,,TIMEOUT
-21,3954,2,01:19,,10,4,18,STL 33,0,STL,PENALTY
-21,4007,1,01:12,,10,4,48,ARI 37,0,STL,
-21,4086,3,00:51,,1,4,50,ARI 28,0,STL,
-21,3911,2,01:40,,2,4,13,STL 28,0,STL,
-21,4069,0,00:51,,0,4,52,,0,,TIMEOUT
-11,2313,4,11:45,,1,3,9,ARI 29,0,ARI,PUNT
-11,2247,1,13:57,,10,3,4,ARI 20,0,ARI,
-11,2289,3,12:39,,3,3,9,ARI 27,0,ARI,
-11,2268,2,13:23,,6,3,7,ARI 24,0,ARI,
-11,2232,0,13:57,,0,3,0,STL 35,0,STL,KICKOFF
-14,2803,2,04:02,,5,3,43,STL 39,0,ARI,
-14,2640,2,06:26,,1,3,9,ARI 26,0,ARI,
-14,2824,3,03:20,,6,3,54,STL 40,0,ARI,
-14,2761,2,05:15,,4,3,39,STL 49,0,ARI,
-14,2870,2,02:31,,10,3,59,STL 29,0,ARI,
-14,2782,1,04:39,,10,3,44,STL 44,0,ARI,
-14,2894,3,01:53,,5,3,83,STL 24,1,ARI,TD
-14,2662,3,06:23,,1,3,28,ARI 26,0,ARI,PENALTY
-14,2619,1,07:03,,10,3,9,ARI 17,0,ARI,
-14,2702,1,06:03,,10,3,18,ARI 45,0,ARI,PENALTY
-14,2848,1,02:42,,10,3,54,STL 29,0,ARI,
-14,2737,1,05:34,,20,3,34,ARI 35,0,ARI,
-14,2914,0,01:47,,0,3,83,STL 2,1,ARI,XP
-8,1974,1,00:15,,10,2,32,ARI 39,0,ARI,
-8,1893,0,00:26,,0,2,0,STL 35,0,STL,KICKOFF
-8,1933,2,00:23,,10,2,19,ARI 20,0,ARI,
-8,1957,0,00:15,,0,2,19,,0,,TIMEOUT
-8,1911,1,00:26,,10,2,0,ARI 20,0,ARI,
-8,1998,1,00:10,,10,2,48,STL 48,0,ARI,
-8,2022,1,00:05,,10,2,48,STL 32,0,ARI,FGM
-19,3729,3,03:58,,3,4,8,STL 12,0,STL,FUMBLE
-19,3705,2,04:36,,8,4,7,STL 7,0,STL,
-19,3761,4,03:13,,2,4,8,STL 13,0,STL,PUNT
-19,3684,1,05:15,,10,4,2,STL 5,0,STL,
-22,4205,2,00:24,,16,4,23,ARI 29,0,ARI,
-22,4162,1,00:40,,10,4,15,ARI 20,0,ARI,
-22,4186,1,00:24,,10,4,9,ARI 35,0,ARI,
-22,4143,0,00:40,,0,4,0,STL 35,0,STL,KICKOFF
-22,4229,0,,,0,4,23,,0,,
-12,2381,1,11:20,,13,3,0,STL 4,0,STL,
-12,2349,1,11:35,,10,3,-3,STL 7,0,STL,PENALTY
-12,2402,2,10:42,,10,3,0,STL 7,1,STL,TD
-16,3261,2,12:26,,1,4,18,ARI 21,0,ARI,
-16,3303,2,11:04,,9,4,19,ARI 31,0,ARI,
-16,3199,0,12:56,,0,4,19,STL 35,0,STL,FUMBLE
-16,3237,1,12:51,,10,4,9,ARI 12,0,ARI,
-16,3325,3,10:59,,9,4,10,ARI 31,0,ARI,FUMBLE
-16,3282,1,11:46,,10,4,19,ARI 30,0,ARI,
-7,1477,1,05:23,,10,2,9,STL 20,0,STL,
-7,1877,0,00:26,,0,2,80,ARI 2,1,STL,XP
-7,1600,2,03:07,,10,2,28,STL 44,0,STL,
-7,1753,0,01:14,,0,2,56,,0,,TIMEOUT
-7,1708,2,01:17,,10,2,56,ARI 29,0,STL,PENALTY
-7,1501,2,04:46,,1,2,11,STL 29,0,STL,
-7,1522,1,04:13,,10,2,19,STL 31,0,STL,
-7,1578,1,03:13,,10,2,24,STL 44,0,STL,
-7,1546,2,03:36,,2,2,24,STL 39,0,STL,PENALTY
-7,1621,3,02:25,,6,2,40,STL 48,0,STL,
-7,1462,0,05:23,,0,2,0,ARI 35,0,ARI,KICKOFF
-7,1778,3,01:14,,5,2,65,ARI 24,0,STL,
-7,1686,1,01:23,,10,2,51,ARI 29,0,STL,
-7,1802,1,01:10,,10,2,67,ARI 15,0,STL,
-7,1662,1,02:00,,10,2,51,ARI 40,0,STL,
-7,1731,2,01:17,,5,2,56,ARI 24,0,STL,
-7,1823,2,00:32,,8,2,80,ARI 13,1,STL,TD
-3,533,1,05:46,,10,1,4,STL 12,0,STL,
-3,644,1,02:42,,10,1,80,STL 45,0,STL,FUMBLE
-3,554,2,05:14,,6,1,7,STL 16,0,STL,
-3,620,2,03:22,,9,1,33,STL 35,0,STL,
-3,599,1,03:59,,10,1,23,STL 34,0,STL,
-3,575,3,04:38,,3,1,22,STL 19,0,STL,
-17,3422,4,09:07,,8,4,2,ARI 20,1,STL,FG
-17,3398,3,09:50,,11,4,2,ARI 23,0,STL,
-17,3355,1,10:38,,10,4,-1,ARI 22,0,STL,
-17,3376,2,09:57,,11,4,-1,ARI 23,0,STL,
-4,775,1,00:06,,10,1,32,ARI 49,0,ARI,
-4,812,2,15:00,,7,2,76,STL 48,0,ARI,
-4,878,0,14:11,,0,2,80,STL 2,1,ARI,XP
-4,751,1,00:41,,10,1,29,ARI 33,0,ARI,
-4,685,1,02:30,,10,1,2,ARI 20,0,ARI,
-4,858,2,14:16,,4,2,80,STL 4,1,ARI,TD
-4,836,1,14:19,,4,2,76,STL 4,0,ARI,
-4,727,3,01:16,,2,1,13,ARI 28,0,ARI,
-4,706,2,02:01,,8,1,8,ARI 22,0,ARI,
-2,323,1,10:22,,10,1,21,ARI 30,0,ARI,
-2,463,2,06:44,,11,1,49,STL 30,0,ARI,
-2,389,1,08:47,,10,1,39,STL 41,0,ARI,FUMBLE
-2,278,1,11:26,,10,1,0,ARI 20,0,ARI,
-2,514,4,05:54,,20,1,41,STL 39,0,ARI,PUNT
-2,347,1,09:57,,10,1,28,ARI 41,0,ARI,
-2,368,2,09:21,,3,1,39,ARI 48,0,ARI,
-2,299,2,10:53,,10,1,10,ARI 20,0,ARI,
-2,484,3,06:02,,12,1,41,STL 31,0,ARI,
-2,418,2,08:07,,10,1,51,STL 41,0,ARI,
-2,442,1,07:20,,10,1,50,STL 29,0,ARI,
-15,3038,0,,,0,3,48,,0,,
-15,2945,1,01:47,,10,3,8,STL 20,0,STL,
-15,3079,1,14:28,,10,4,63,ARI 18,0,STL,
-15,3100,2,13:45,,9,4,79,ARI 17,0,STL,TIMEOUT
-15,3124,1,13:01,,1,4,80,ARI 1,1,STL,TD
-15,2930,0,01:47,,0,3,0,ARI 35,0,ARI,KICKOFF
-15,3014,2,00:01,,9,3,48,STL 32,0,STL,
-15,3173,0,12:56,,0,4,80,ARI 2,1,STL,2PR
-15,3055,1,15:00,,10,4,62,ARI 32,0,STL,
-15,2969,2,01:18,,2,3,11,STL 28,0,STL,
-15,2990,1,00:41,,10,3,12,STL 31,0,STL,
+20,3870,4,01:56,"(1:56) D.Zastudil punts 59 yards to end zone, Center-M.Leach, Touchback.",2,4,8,ARI 41,0,ARI,PUNT
+20,3848,3,02:00,(2:00) (Shotgun) C.Palmer pass incomplete short left to A.Ellington.,2,4,8,ARI 41,0,ARI,
+20,3807,2,02:26,(2:26) (Shotgun) C.Palmer pass short right to J.Dray to ARI 41 for 11 yards (C.Finnegan).,13,4,8,ARI 30,0,ARI,
+20,3786,1,03:10,(3:10) R.Mendenhall right tackle to ARI 30 for -3 yards (K.Langford).,10,4,-3,ARI 33,0,ARI,
+20,3831,0,02:00,Two-Minute Warning,0,4,8,,0,,
+21,4045,2,01:05,(1:05) (Shotgun) S.Bradford pass short right to D.Richardson to ARI 28 for 4 yards (J.Brinkley).,5,4,52,ARI 32,0,STL,
+21,3887,1,01:45,(1:45) (Shotgun) S.Bradford pass short right to A.Pettis pushed ob at STL 28 for 8 yards (T.Mathieu).,10,4,8,STL 20,0,STL,
+21,4086,3,00:51,(:51) D.Richardson left end to ARI 30 for -2 yards (M.Shaughnessy).,1,4,50,ARI 28,0,STL,
+21,3911,2,01:40,(1:40) (Shotgun) D.Richardson left guard to STL 33 for 5 yards (J.Powers).,2,4,13,STL 28,0,STL,
+21,4069,0,00:51,Timeout #2 by ARI at 00:51.,0,4,52,,0,,TIMEOUT
+21,4124,4,00:45,"(:45) G.Zuerlein 48 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",3,4,50,ARI 30,1,STL,FG
+21,4007,1,01:12,(1:12) D.Richardson left guard to ARI 32 for 5 yards (L.Alexander).,10,4,48,ARI 37,0,STL,
+21,3977,2,01:19,(1:19) (Shotgun) S.Bradford pass short right to J.Cook pushed ob at ARI 37 for 25 yards (J.Powers).,5,4,43,STL 38,0,STL,
+21,4107,0,00:45,Timeout #3 by ARI at 00:45.,0,4,50,,0,,TIMEOUT
+21,3932,1,01:24,(1:24) (Shotgun) S.Bradford pass incomplete short right to D.Richardson (J.Brinkley).,10,4,13,STL 33,0,STL,
+21,3954,2,01:19,"(1:19) (Shotgun) PENALTY on ARI-Y.Bell, Encroachment, 5 yards, enforced at STL 33 - No Play.",10,4,18,STL 33,0,STL,PENALTY
+21,4028,0,01:05,Timeout #1 by ARI at 01:05.,0,4,48,,0,,TIMEOUT
+22,4205,2,00:24,(:24) C.Palmer pass short right to J.Brown to ARI 43 for 14 yards (J.Laurinaitis).,16,4,23,ARI 29,0,ARI,
+22,4229,0,,END GAME,0,4,23,,0,,
+22,4162,1,00:40,(:40) (Shotgun) C.Palmer pass short middle to A.Roberts to ARI 35 for 15 yards (J.Laurinaitis).,10,4,15,ARI 20,0,ARI,
+22,4143,0,00:40,"G.Zuerlein kicks 65 yards from STL 35 to end zone, Touchback.",0,4,0,STL 35,0,STL,KICKOFF
+22,4186,1,00:24,(:24) (Shotgun) C.Palmer sacked at ARI 29 for -6 yards (W.Hayes).,10,4,9,ARI 35,0,ARI,
+1,215,2,12:08,(12:08) S.Bradford pass incomplete short left to J.Cook.,19,1,12,STL 36,0,STL,
+1,57,1,14:53,(14:53) S.Bradford pass short right to L.Kendricks pushed ob at STL 34 for 10 yards (J.Brinkley).,10,1,10,STL 24,0,STL,
+1,35,0,15:00,J.Feely kicks 62 yards from ARI 35 to STL 3. B.Cunningham to STL 24 for 21 yards (J.Arenas).,0,1,0,ARI 35,0,ARI,KICKOFF
+1,192,2,12:26,"(12:26) (Shotgun) PENALTY on STL-R.Saffold, False Start, 5 yards, enforced at STL 41 - No Play.",14,1,12,STL 41,0,STL,PENALTY
+1,261,4,11:37,"(11:37) J.Hekker punts 49 yards to end zone, Center-J.McQuaide, Touchback.",4,1,27,ARI 49,0,STL,PUNT
+1,136,1,13:27,"(13:27) S.Bradford pass short right to D.Richardson to ARI 35 for 20 yards. PENALTY on STL-J.Long, Offensive Holding, 10 yards, enforced at STL 45 - No Play.",10,1,11,STL 45,0,STL,PENALTY
+1,237,3,12:04,(12:04) S.Bradford pass short right to D.Richardson to ARI 49 for 15 yards (R.Johnson).,19,1,27,STL 36,0,STL,
+1,86,1,14:32,(14:32) D.Richardson up the middle to STL 40 for 6 yards (J.Brinkley).,10,1,16,STL 34,0,STL,
+1,107,2,13:56,(13:56) S.Bradford pass short right to D.Richardson pushed ob at STL 45 for 5 yards (L.Alexander) [J.Brinkley].,4,1,21,STL 40,0,STL,
+1,171,1,12:56,(12:56) (Shotgun) D.Richardson up the middle to STL 41 for 6 yards (K.Dansby).,20,1,17,STL 35,0,STL,
+3,620,2,03:22,(3:22) (Shotgun) S.Bradford pass short right to L.Kendricks to STL 45 for 10 yards (K.Dansby).,9,1,33,STL 35,0,STL,
+3,599,1,03:59,(3:59) D.Richardson left tackle to STL 35 for 1 yard (J.Brinkley).,10,1,23,STL 34,0,STL,
+3,554,2,05:14,(5:14) (Shotgun) D.Richardson up the middle to STL 19 for 3 yards (K.Dansby).,6,1,7,STL 16,0,STL,
+3,575,3,04:38,(4:38) (Shotgun) S.Bradford pass short right to C.Givens to STL 34 for 15 yards (J.Powers).,3,1,22,STL 19,0,STL,
+3,533,1,05:46,(5:46) D.Richardson up the middle to STL 16 for 4 yards (L.Alexander).,10,1,4,STL 12,0,STL,
+3,644,1,02:42,"(2:42) (Shotgun) S.Bradford pass deep middle to J.Cook to ARI 8 for 47 yards (T.Mathieu). FUMBLES (T.Mathieu), RECOVERED by ARI-K.Dansby at ARI 0. Touchback.",10,1,80,STL 45,0,STL,FUMBLE
+2,442,1,07:20,(7:20) A.Smith up the middle to STL 30 for -1 yards (W.Hayes).,10,1,50,STL 29,0,ARI,
+2,463,2,06:44,(6:44) A.Smith left tackle to STL 31 for -1 yards (W.Hayes).,11,1,49,STL 30,0,ARI,
+2,323,1,10:22,(10:22) C.Palmer pass short right to M.Floyd pushed ob at ARI 41 for 11 yards (C.Finnegan).,10,1,21,ARI 30,0,ARI,
+2,347,1,09:57,(9:57) R.Mendenhall right tackle to ARI 48 for 7 yards (A.Ogletree).,10,1,28,ARI 41,0,ARI,
+2,368,2,09:21,(9:21) R.Mendenhall up the middle to STL 41 for 11 yards (C.Finnegan).,3,1,39,ARI 48,0,ARI,
+2,299,2,10:53,(10:53) (Shotgun) C.Palmer pass short middle to J.Dray to ARI 30 for 10 yards (A.Ogletree).,10,1,10,ARI 20,0,ARI,
+2,278,1,11:26,(11:26) R.Mendenhall up the middle to ARI 20 for no gain (R.McLeod).,10,1,0,ARI 20,0,ARI,
+2,389,1,08:47,"(8:47) C.Palmer sacked at STL 48 for -7 yards (R.Quinn). FUMBLES (R.Quinn), recovered by ARI-L.Brown at STL 45. L.Brown to STL 41 for 4 yards (M.Brockers).",10,1,39,STL 41,0,ARI,FUMBLE
+2,484,3,06:02,"(6:02) (Shotgun) C.Palmer sacked at STL 39 for -8 yards (R.Quinn). Penalty on ARI, Illegal Shift, declined.",12,1,41,STL 31,0,ARI,
+2,418,2,08:07,(8:07) C.Palmer pass short left to L.Fitzgerald to STL 29 for 12 yards (J.Jenkins).,10,1,51,STL 41,0,ARI,
+2,514,4,05:54,"(5:54) D.Zastudil punts 27 yards to STL 12, Center-M.Leach, fair catch by T.Austin.",20,1,41,STL 39,0,ARI,PUNT
+5,1042,1,12:12,(12:12) S.Bradford pass incomplete deep left to J.Cook [D.Williams].,5,2,58,ARI 21,0,STL,
+5,1085,3,11:30,(11:30) (Shotgun) S.Bradford pass incomplete short left to B.Quick (J.Powers).,2,2,61,ARI 18,0,STL,
+5,894,0,14:11,J.Feely kicks 44 yards from ARI 35 to STL 21. T.Barnes (didn't try to advance) to STL 21 for no gain (K.Sperry).,0,2,0,ARI 35,0,ARI,KICKOFF
+5,961,1,12:53,(12:53) D.Richardson up the middle to STL 36 for 3 yards (K.Dansby). STL-R.Saffold was injured during the play.,10,2,15,STL 33,0,STL,
+5,982,2,12:20,"(12:20) (Shotgun) S.Bradford pass incomplete deep left to T.Austin. PENALTY on ARI-T.Mathieu, Defensive Pass Interference, 38 yards, enforced at STL 36 - No Play.",7,2,53,STL 36,0,STL,PENALTY
+5,1064,2,12:07,(12:07) D.Richardson right tackle to ARI 18 for 3 yards (D.Williams).,5,2,61,ARI 21,0,STL,
+5,940,2,13:34,(13:34) D.Richardson up the middle to STL 33 for 10 yards (Y.Bell).,8,2,12,STL 23,0,STL,
+5,1107,4,11:24,"(11:24) G.Zuerlein 36 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",2,2,61,ARI 18,1,STL,FG
+5,1019,1,12:12,"(12:12) PENALTY on ARI-D.Williams, Encroachment, 5 yards, enforced at ARI 26 - No Play.",10,2,58,ARI 26,0,STL,PENALTY
+5,916,1,14:08,(14:08) S.Bradford pass short left to T.Austin to STL 23 for 2 yards (T.Mathieu).,10,2,2,STL 21,0,STL,
+4,775,1,00:06,(:06) R.Mendenhall right tackle to STL 48 for 3 yards (K.Langford).,10,1,32,ARI 49,0,ARI,
+4,751,1,00:41,(:41) C.Palmer pass deep middle to K.Sperry to ARI 49 for 16 yards (J.Laurinaitis).,10,1,29,ARI 33,0,ARI,
+4,836,1,14:19,(14:19) C.Palmer pass incomplete short left to L.Fitzgerald.,4,2,76,STL 4,0,ARI,
+4,878,0,14:11,"J.Feely extra point is GOOD, Center-M.Leach, Holder-D.Zastudil.",0,2,80,STL 2,1,ARI,XP
+4,706,2,02:01,(2:01) R.Mendenhall right tackle to ARI 28 for 6 yards (T.McDonald).,8,1,8,ARI 22,0,ARI,
+4,858,2,14:16,"(14:16) C.Palmer pass short left to L.Fitzgerald for 4 yards, TOUCHDOWN.",4,2,80,STL 4,1,ARI,TD
+4,727,3,01:16,(1:16) (Shotgun) C.Palmer pass short left to L.Fitzgerald to ARI 33 for 5 yards (T.Johnson).,2,1,13,ARI 28,0,ARI,
+4,685,1,02:30,(2:30) R.Mendenhall left tackle to ARI 22 for 2 yards (M.Brockers).,10,1,2,ARI 20,0,ARI,
+4,812,2,15:00,(15:00) C.Palmer pass deep middle to M.Floyd to STL 4 for 44 yards (C.Finnegan).,7,2,76,STL 48,0,ARI,
+7,1546,2,03:36,"(3:36) Z.Stacy left guard to STL 42 for 3 yards. PENALTY on ARI-C.Campbell, Defensive Offside, 5 yards, enforced at STL 39 - No Play.",2,2,24,STL 39,0,STL,PENALTY
+7,1621,3,02:25,(2:25) (Shotgun) S.Bradford pass short right to C.Givens to ARI 40 for 12 yards (P.Peterson).,6,2,40,STL 48,0,STL,
+7,1802,1,01:10,(1:10) D.Richardson right tackle to ARI 13 for 2 yards (S.Acho).,10,2,67,ARI 15,0,STL,
+7,1877,0,00:26,"G.Zuerlein extra point is GOOD, Center-J.McQuaide, Holder-J.Hekker.",0,2,80,ARI 2,1,STL,XP
+7,1708,2,01:17,"(1:17) (Shotgun) PENALTY on ARI-P.Peterson, Neutral Zone Infraction, 5 yards, enforced at ARI 29 - No Play.",10,2,56,ARI 29,0,STL,PENALTY
+7,1600,2,03:07,(3:07) (Shotgun) Z.Stacy right tackle to STL 48 for 4 yards (T.Mathieu).,10,2,28,STL 44,0,STL,
+7,1778,3,01:14,(1:14) (Shotgun) S.Bradford pass short right to T.Austin pushed ob at ARI 15 for 9 yards (T.Mathieu).,5,2,65,ARI 24,0,STL,
+7,1823,2,00:32,"(:32) (Shotgun) S.Bradford pass short right to J.Cook for 13 yards, TOUCHDOWN. The Replay Assistant challenged the runner broke the plane ruling, and the play was Upheld.",8,2,80,ARI 13,1,STL,TD
+7,1578,1,03:13,(3:13) S.Bradford pass incomplete deep right to J.Cook (K.Dansby) [J.Brinkley].,10,2,24,STL 44,0,STL,
+7,1731,2,01:17,(1:17) S.Bradford pass incomplete short left to A.Pettis [K.Dansby]. STL-J.Long was injured during the play.,5,2,56,ARI 24,0,STL,
+7,1501,2,04:46,(4:46) D.Richardson left tackle to STL 31 for 2 yards (D.Dockett).,1,2,11,STL 29,0,STL,
+7,1477,1,05:23,(5:23) (Shotgun) S.Bradford pass short right to T.Austin to STL 29 for 9 yards (K.Dansby).,10,2,9,STL 20,0,STL,
+7,1522,1,04:13,(4:13) (Shotgun) S.Bradford pass short middle to D.Richardson to STL 39 for 8 yards (T.Mathieu).,10,2,19,STL 31,0,STL,
+7,1686,1,01:23,(1:23) S.Bradford pass incomplete short right to A.Pettis [C.Campbell].,10,2,51,ARI 29,0,STL,
+7,1753,0,01:14,Timeout #1 by STL at 01:14. Injury Timeout,0,2,56,,0,,TIMEOUT
+7,1662,1,02:00,(2:00) (Shotgun) S.Bradford pass short right to J.Cook to ARI 29 for 11 yards (Y.Bell).,10,2,51,ARI 40,0,STL,
+7,1462,0,05:23,"J.Feely kicks 65 yards from ARI 35 to end zone, Touchback.",0,2,0,ARI 35,0,ARI,KICKOFF
+6,1304,0,06:48,Timeout #1 by ARI at 06:48.,0,2,47,,0,,TIMEOUT
+6,1421,3,05:34,(5:34) (Shotgun) C.Palmer pass incomplete short left to A.Smith (E.Sims).,8,2,80,STL 12,0,ARI,
+6,1321,1,06:48,(6:48) C.Palmer pass incomplete short right to P.Peterson (T.Johnson).,10,2,80,STL 45,0,ARI,
+6,1280,3,07:22,(7:22) (Shotgun) C.Palmer pass short left to A.Roberts to STL 45 for 10 yards (C.Finnegan).,3,2,47,ARI 45,0,ARI,
+6,1214,1,09:19,(9:19) C.Palmer pass short right to L.Fitzgerald to ARI 38 for 13 yards (A.Ogletree).,10,2,30,ARI 25,0,ARI,
+6,1190,3,10:00,(10:00) (Shotgun) C.Palmer pass short left to A.Roberts to ARI 25 for 13 yards (J.Jenkins).,6,2,17,ARI 12,0,ARI,
+6,1148,1,11:15,(11:15) R.Mendenhall left end to ARI 12 for 4 yards (R.McLeod; T.McDonald).,10,2,4,ARI 8,0,ARI,
+6,1343,2,06:46,"(6:46) (Shotgun) C.Palmer pass deep middle to M.Floyd to STL 27 for 18 yards (R.McLeod). PENALTY on STL-C.Finnegan, Unnecessary Roughness, 13 yards, enforced at STL 27.",10,2,78,STL 45,0,ARI,PENALTY
+6,1238,1,08:36,(8:36) A.Smith up the middle to ARI 40 for 2 yards (A.Ogletree).,10,2,32,ARI 38,0,ARI,
+6,1169,2,10:36,(10:36) R.Mendenhall right tackle to ARI 12 for no gain (C.Long).,6,2,4,ARI 12,0,ARI,
+6,1126,0,11:20,G.Zuerlein kicks 71 yards from STL 35 to ARI -6. J.Arenas to ARI 8 for 14 yards (D.Bates).,0,2,0,STL 35,0,STL,KICKOFF
+6,1443,4,05:27,"(5:27) J.Feely 30 yard field goal is GOOD, Center-M.Leach, Holder-D.Zastudil.",8,2,80,STL 12,1,ARI,FG
+6,1378,1,06:19,(6:19) C.Palmer pass incomplete short left to L.Fitzgerald (J.Jenkins).,10,2,78,STL 14,0,ARI,
+6,1400,2,06:12,(6:12) R.Mendenhall left guard to STL 12 for 2 yards (M.Brockers).,10,2,80,STL 14,0,ARI,
+6,1259,2,07:59,(7:59) A.Smith up the middle to ARI 45 for 5 yards (W.Witherspoon).,8,2,37,ARI 40,0,ARI,
+9,2059,0,15:00,"G.Zuerlein kicks 65 yards from STL 35 to end zone, Touchback.",0,3,0,STL 35,0,STL,KICKOFF
+9,2078,1,15:00,(15:00) C.Palmer pass incomplete short left to L.Fitzgerald (J.Jenkins).,10,3,0,ARI 20,0,ARI,
+9,2100,2,14:58,(14:58) (Shotgun) C.Palmer pass incomplete short right to J.Brown (C.Long).,10,3,0,ARI 20,0,ARI,
+9,2122,3,14:56,(14:56) (Shotgun) C.Palmer pass short right intended for L.Fitzgerald INTERCEPTED by T.Johnson at ARI 33. T.Johnson pushed ob at ARI 4 for 29 yards (E.Winston).,10,3,0,ARI 20,0,ARI,INT
+8,1998,1,00:10,(:10) (Shotgun) C.Palmer pass short middle to L.Fitzgerald to STL 32 for 16 yards (T.McDonald).,10,2,48,STL 48,0,ARI,
+8,1974,1,00:15,(:15) (Shotgun) C.Palmer pass short right to A.Ellington ran ob at STL 48 for 13 yards (T.Johnson).,10,2,32,ARI 39,0,ARI,
+8,1933,2,00:23,(:23) (Shotgun) C.Palmer pass deep middle to A.Roberts to ARI 39 for 19 yards (R.McLeod).,10,2,19,ARI 20,0,ARI,
+8,1957,0,00:15,Timeout #2 by ARI at 00:15.,0,2,19,,0,,TIMEOUT
+8,2022,1,00:05,"(:05) J.Feely 50 yard field goal is No Good, Wide Right, Center-M.Leach, Holder-D.Zastudil.",10,2,48,STL 32,0,ARI,FGM
+8,1911,1,00:26,(:26) (Shotgun) C.Palmer pass incomplete short right to A.Ellington.,10,2,0,ARI 20,0,ARI,
+8,1893,0,00:26,"G.Zuerlein kicks 70 yards from STL 35 to ARI -5. J.Arenas, Touchback.",0,2,0,STL 35,0,STL,KICKOFF
+11,2247,1,13:57,(13:57) R.Mendenhall left tackle to ARI 24 for 4 yards (M.Conrath).,10,3,4,ARI 20,0,ARI,
+11,2268,2,13:23,(13:23) R.Mendenhall right tackle to ARI 27 for 3 yards (M.Conrath).,6,3,7,ARI 24,0,ARI,
+11,2232,0,13:57,"G.Zuerlein kicks 65 yards from STL 35 to end zone, Touchback.",0,3,0,STL 35,0,STL,KICKOFF
+11,2313,4,11:45,"(11:45) D.Zastudil punts 57 yards to STL 14, Center-M.Leach. T.Austin to STL 15 for 1 yard (J.Bethel). PENALTY on STL-W.Hayes, Unnecessary Roughness, 8 yards, enforced at STL 15.",1,3,9,ARI 29,0,ARI,PUNT
+11,2289,3,12:39,(12:39) (Shotgun) C.Palmer pass short left to L.Fitzgerald to ARI 29 for 2 yards (R.McLeod) [J.Laurinaitis].,3,3,9,ARI 27,0,ARI,
+10,2213,4,14:00,"(14:00) G.Zuerlein 25 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",7,3,-3,ARI 7,1,STL,FG
+10,2191,3,14:05,(14:05) (Shotgun) S.Bradford pass incomplete short right to A.Pettis.,7,3,-3,ARI 7,0,STL,
+10,2170,2,14:43,(14:43) (Shotgun) D.Richardson up the middle to ARI 7 for -3 yards (C.Campbell).,4,3,-3,ARI 4,0,STL,
+10,2148,1,14:47,(14:47) S.Bradford pass incomplete short right to C.Givens (L.Alexander).,4,3,0,ARI 4,0,STL,
+13,2440,0,10:34,J.Feely kicks 71 yards from ARI 35 to STL -6. B.Cunningham to STL 19 for 25 yards (L.Alexander).,0,3,0,ARI 35,0,ARI,KICKOFF
+13,2597,4,07:13,"(7:13) J.Hekker punts 43 yards to ARI 17, Center-J.McQuaide, out of bounds.",1,3,21,STL 40,0,STL,PUNT
+13,2555,2,08:08,(8:08) D.Richardson right tackle to STL 40 for no gain (J.Brinkley).,1,3,21,STL 40,0,STL,
+13,2462,1,10:29,(10:29) (Shotgun) S.Bradford pass short left to T.Austin to STL 21 for 2 yards (Y.Bell).,10,3,2,STL 19,0,STL,
+13,2486,2,09:55,(9:55) S.Bradford pass short middle to T.Austin to STL 26 for 5 yards (R.Johnson).,8,3,7,STL 21,0,STL,
+13,2576,3,07:34,(7:34) S.Bradford up the middle to STL 40 for no gain (K.Dansby).,1,3,21,STL 40,0,STL,
+13,2510,3,09:18,(9:18) S.Bradford pass short right to A.Pettis to STL 31 for 5 yards (T.Mathieu).,3,3,12,STL 26,0,STL,
+13,2534,1,08:42,(8:42) D.Richardson right guard to STL 40 for 9 yards (J.Powers).,10,3,21,STL 31,0,STL,
+12,2381,1,11:20,(11:20) D.Richardson up the middle to STL 7 for 3 yards (C.Campbell).,13,3,0,STL 4,0,STL,
+12,2402,2,10:42,"(10:42) S.Bradford pass short right intended for L.Kendricks INTERCEPTED by D.Williams (M.Shaughnessy) at STL 2. D.Williams for 2 yards, TOUCHDOWN.",10,3,0,STL 7,1,STL,TD
+12,2349,1,11:35,"(11:35) D.Richardson left end to STL 11 for 4 yards (M.Shaughnessy). PENALTY on STL-J.Cook, Offensive Holding, 3 yards, enforced at STL 7 - No Play.",10,3,-3,STL 7,0,STL,PENALTY
+15,3038,0,,END QUARTER 3,0,3,48,,0,,
+15,2990,1,00:41,(:41) (Shotgun) S.Bradford pass short left to D.Richardson to STL 32 for 1 yard (Y.Bell).,10,3,12,STL 31,0,STL,
+15,3100,2,13:45,"(13:45) (Shotgun) S.Bradford pass short right to B.Quick to ARI 1 for 16 yards (R.Johnson). St. Louis challenged the runner broke the plane ruling, and the play was Upheld. (Timeout #1.)",9,4,79,ARI 17,0,STL,TIMEOUT
+15,3124,1,13:01,"(13:01) S.Bradford pass short left to J.Cook for 1 yard, TOUCHDOWN.",1,4,80,ARI 1,1,STL,TD
+15,2969,2,01:18,(1:18) D.Richardson right tackle to STL 31 for 3 yards (C.Campbell).,2,3,11,STL 28,0,STL,
+15,3014,2,00:01,(:01) S.Bradford pass deep middle to J.Cook pushed ob at ARI 32 for 36 yards (P.Peterson).,9,3,48,STL 32,0,STL,
+15,2930,0,01:47,"J.Feely kicks 65 yards from ARI 35 to end zone, Touchback.",0,3,0,ARI 35,0,ARI,KICKOFF
+15,3079,1,14:28,(14:28) D.Richardson up the middle to ARI 17 for 1 yard (K.Dansby).,10,4,63,ARI 18,0,STL,
+15,2945,1,01:47,(1:47) S.Bradford pass short middle to J.Cook to STL 28 for 8 yards (K.Dansby).,10,3,8,STL 20,0,STL,
+15,3055,1,15:00,(15:00) (Shotgun) S.Bradford pass short middle to T.Austin to ARI 18 for 14 yards (R.Johnson).,10,4,62,ARI 32,0,STL,
+15,3173,0,12:56,TWO-POINT CONVERSION ATTEMPT. S.Bradford rushes up the middle. ATTEMPT SUCCEEDS.,0,4,80,ARI 2,1,STL,2PR
+14,2737,1,05:34,(5:34) (Shotgun) C.Palmer pass short right to A.Roberts pushed ob at STL 49 for 16 yards (T.McDonald).,20,3,34,ARI 35,0,ARI,
+14,2914,0,01:47,"J.Feely extra point is GOOD, Center-M.Leach, Holder-D.Zastudil.",0,3,83,STL 2,1,ARI,XP
+14,2848,1,02:42,(2:42) C.Palmer pass incomplete deep left to M.Floyd (J.Jenkins) [R.Quinn].,10,3,54,STL 29,0,ARI,
+14,2782,1,04:39,(4:39) (Shotgun) A.Smith up the middle to STL 39 for 5 yards (J.Laurinaitis).,10,3,44,STL 44,0,ARI,
+14,2640,2,06:26,(6:26) C.Palmer pass incomplete short right to M.Floyd.,1,3,9,ARI 26,0,ARI,
+14,2894,3,01:53,"(1:53) (Shotgun) C.Palmer pass deep right to L.Fitzgerald for 24 yards, TOUCHDOWN.",5,3,83,STL 24,1,ARI,TD
+14,2761,2,05:15,(5:15) A.Smith right tackle to STL 44 for 5 yards (J.Laurinaitis).,4,3,39,STL 49,0,ARI,
+14,2619,1,07:03,(7:03) R.Mendenhall right tackle to ARI 26 for 9 yards (T.McDonald).,10,3,9,ARI 17,0,ARI,
+14,2702,1,06:03,"(6:03) C.Palmer pass short left to R.Mendenhall pushed ob at STL 47 for 8 yards (J.Jenkins). PENALTY on ARI-L.Brown, Offensive Holding, 10 yards, enforced at ARI 45 - No Play.",10,3,18,ARI 45,0,ARI,PENALTY
+14,2870,2,02:31,(2:31) (Shotgun) C.Palmer pass short right to A.Roberts to STL 24 for 5 yards (T.Johnson).,10,3,59,STL 29,0,ARI,
+14,2662,3,06:23,"(6:23) C.Palmer pass short left to L.Fitzgerald pushed ob at ARI 30 for 4 yards (C.Finnegan). PENALTY on STL-C.Finnegan, Unnecessary Roughness, 15 yards, enforced at ARI 30.",1,3,28,ARI 26,0,ARI,PENALTY
+14,2824,3,03:20,(3:20) (Shotgun) C.Palmer pass short right to A.Roberts to STL 29 for 11 yards (A.Ogletree).,6,3,54,STL 40,0,ARI,
+14,2803,2,04:02,(4:02) A.Smith left tackle to STL 40 for -1 yards (J.Cudjo).,5,3,43,STL 39,0,ARI,
+17,3355,1,10:38,(10:38) T.Austin right end to ARI 23 for -1 yards (J.Brinkley).,10,4,-1,ARI 22,0,STL,
+17,3376,2,09:57,(9:57) (Shotgun) S.Bradford pass incomplete short right to T.Austin.,11,4,-1,ARI 23,0,STL,
+17,3422,4,09:07,"(9:07) G.Zuerlein 38 yard field goal is GOOD, Center-J.McQuaide, Holder-J.Hekker.",8,4,2,ARI 20,1,STL,FG
+17,3398,3,09:50,(9:50) (Shotgun) S.Bradford pass short left to A.Pettis to ARI 20 for 3 yards (A.Cason).,11,4,2,ARI 23,0,STL,
+16,3237,1,12:51,(12:51) C.Palmer pass short left to M.Floyd pushed ob at ARI 21 for 9 yards (J.Jenkins).,10,4,9,ARI 12,0,ARI,
+16,3282,1,11:46,(11:46) A.Smith right tackle to ARI 31 for 1 yard (W.Witherspoon).,10,4,19,ARI 30,0,ARI,
+16,3261,2,12:26,(12:26) R.Mendenhall right tackle to ARI 30 for 9 yards (A.Ogletree).,1,4,18,ARI 21,0,ARI,
+16,3325,3,10:59,"(10:59) (Shotgun) C.Palmer sacked at ARI 23 for -8 yards (R.Quinn). FUMBLES (R.Quinn), RECOVERED by STL-C.Long at ARI 22. C.Long to ARI 22 for no gain (P.Fanaika).",9,4,10,ARI 31,0,ARI,FUMBLE
+16,3303,2,11:04,(11:04) (Shotgun) C.Palmer pass incomplete short left to L.Fitzgerald.,9,4,19,ARI 31,0,ARI,
+16,3199,0,12:56,"G.Zuerlein kicks 73 yards from STL 35 to ARI -8. J.Arenas to ARI 10 for 18 yards (M.Giordano). FUMBLES (M.Giordano), recovered by ARI-T.Jefferson at ARI 12. T.Jefferson to ARI 12 for no gain (C.Reynolds).",0,4,19,STL 35,0,STL,FUMBLE
+19,3761,4,03:13,"(3:13) J.Hekker punts 55 yards to ARI 32, Center-J.McQuaide. P.Peterson to ARI 33 for 1 yard (R.Armstrong).",2,4,8,STL 13,0,STL,PUNT
+19,3705,2,04:36,(4:36) S.Bradford pass short left to L.Kendricks to STL 12 for 5 yards (J.Brinkley).,8,4,7,STL 7,0,STL,
+19,3729,3,03:58,"(3:58) (Shotgun) S.Bradford scrambles up the middle to STL 13 for 1 yard (S.Acho). FUMBLES (S.Acho), recovered by STL-D.Richardson at STL 13. D.Richardson to STL 13 for no gain (F.Rucker).",3,4,8,STL 12,0,STL,FUMBLE
+19,3684,1,05:15,(5:15) D.Richardson up the middle to STL 7 for 2 yards (J.Brinkley).,10,4,2,STL 5,0,STL,
+18,3557,2,06:48,"(6:48) (Shotgun) A.Smith left end to ARI 44 for 4 yards (J.Jenkins). FUMBLES (J.Jenkins), ball out of bounds at ARI 44.",3,4,26,ARI 40,0,ARI,FUMBLE
+18,3600,2,05:37,"(5:37) C.Palmer pass incomplete short middle to L.Fitzgerald (J.Laurinaitis, T.McDonald).",8,4,26,ARI 46,0,ARI,
+18,3456,1,09:04,(9:04) C.Palmer pass short right to R.Mendenhall to ARI 24 for 4 yards (A.Ogletree).,10,4,4,ARI 20,0,ARI,
+18,3480,2,08:28,(8:28) R.Mendenhall right guard to ARI 25 for 1 yard (J.Laurinaitis).,6,4,5,ARI 24,0,ARI,
+18,3501,3,07:48,"(7:48) (Shotgun) C.Palmer pass short left to A.Roberts to ARI 33 for 8 yards (C.Finnegan). Penalty on STL-C.Finnegan, Illegal Contact, declined.",5,4,13,ARI 25,0,ARI,
+18,3441,0,09:04,"G.Zuerlein kicks 65 yards from STL 35 to end zone, Touchback.",0,4,0,STL 35,0,STL,KICKOFF
+18,3536,1,07:27,(7:27) A.Smith up the middle to ARI 40 for 7 yards (M.Brockers).,10,4,20,ARI 33,0,ARI,
+18,3654,4,05:25,"(5:25) D.Zastudil punts 44 yards to STL 10, Center-M.Leach, downed by ARI-M.Leach. PENALTY on STL-E.Sims, Taunting, 5 yards, enforced at STL 10.",8,4,26,ARI 46,0,ARI,PUNT
+18,3579,1,06:15,(6:15) R.Mendenhall right tackle to ARI 46 for 2 yards (M.Brockers).,10,4,26,ARI 44,0,ARI,
+18,3632,3,05:30,(5:30) (Shotgun) C.Palmer pass incomplete short right to A.Roberts [R.Quinn].,8,4,26,ARI 46,0,ARI,

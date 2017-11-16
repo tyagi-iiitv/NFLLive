@@ -1,162 +1,162 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1311,1,09:04,,10,2,36,SF 23,0,IND,
-9,1354,3,08:13,,6,2,26,SF 19,0,IND,PENALTY
-9,1180,1,11:48,,10,2,26,IND 45,0,IND,
-9,1232,1,10:37,,10,2,23,SF 35,0,IND,
-9,1257,2,09:56,,7,2,27,SF 32,0,IND,
-9,1399,3,07:38,,16,2,30,SF 29,0,IND,
-9,1332,2,08:19,,6,2,36,SF 19,0,IND,
-9,1278,3,09:08,,3,2,32,SF 28,0,IND,PENALTY
-9,1427,4,07:00,,12,2,30,SF 25,1,IND,FG
-9,1204,2,11:18,,5,2,20,50,0,IND,
-10,1494,2,06:18,,7,2,2,SF 23,0,SF,
-10,1473,1,07:00,,10,2,3,SF 20,0,SF,
-10,1448,0,07:00,,0,2,0,IND 35,0,IND,KICKOFF
-10,1515,3,05:32,,8,2,26,SF 22,0,SF,
-10,1539,1,04:57,,10,2,26,SF 46,0,SF,
-10,1586,3,04:20,,10,2,26,SF 46,0,SF,
-10,1564,2,04:25,,10,2,26,SF 46,0,SF,
-10,1608,4,04:11,,10,2,26,SF 46,0,SF,PUNT
-20,3441,0,02:55,,0,4,8,SF 2,1,IND,XP
-20,3386,2,03:05,,5,4,7,SF 5,0,IND,
-20,3424,3,02:58,,1,4,8,SF 1,1,IND,TD
-20,3361,1,03:51,,8,4,3,SF 8,0,IND,
-20,3407,0,02:58,,0,4,7,,0,,TIMEOUT
-6,875,3,01:47,,4,1,6,IND 44,0,SF,
-6,854,2,02:26,,5,1,6,IND 45,0,SF,
-6,833,1,02:53,,10,1,5,50,0,SF,
-6,897,4,01:42,,4,1,6,IND 44,0,SF,PUNT
-18,3133,1,07:10,,10,4,40,SF 47,0,IND,
-18,3100,3,07:15,,4,4,33,IND 48,0,IND,PENALTY
-18,3079,2,08:03,,5,4,28,IND 47,0,IND,
-18,3203,2,04:58,,2,4,74,SF 5,0,IND,
-18,3000,1,09:28,,10,4,13,IND 32,0,IND,
-18,3058,1,08:43,,10,4,27,IND 42,0,IND,
-18,3154,2,06:27,,3,4,67,SF 40,0,IND,
-18,2943,2,10:40,,10,4,5,IND 20,0,IND,
-18,3178,1,05:43,,10,4,75,SF 13,0,IND,
-18,3025,2,08:47,,9,4,22,IND 33,0,IND,PENALTY
-18,2922,1,11:14,,10,4,80,IND 20,0,IND,
-18,3242,0,04:13,,0,4,80,SF 2,1,IND,XP
-18,2972,3,10:12,,5,4,12,IND 25,0,IND,
-18,3224,3,04:27,,3,4,80,SF 6,1,IND,TD
-1,54,1,15:00,,10,1,18,IND 20,0,IND,PENALTY
-1,93,1,14:36,,10,1,27,IND 38,0,IND,PENALTY
-1,288,0,11:20,,0,1,80,SF 2,1,IND,XP
-1,211,1,12:49,,10,1,73,SF 26,0,IND,
-1,130,1,14:32,,10,1,41,IND 47,0,IND,
-1,235,1,12:03,,7,1,79,SF 7,0,IND,
-1,158,1,14:00,,10,1,47,SF 39,0,IND,
-1,186,2,13:29,,4,1,54,SF 33,0,IND,
-1,36,0,15:00,,0,1,0,SF 35,0,SF,KICKOFF
-1,267,2,11:23,,1,1,80,SF 1,1,IND,TD
-5,767,2,03:40,,10,1,0,IND 20,0,IND,
-5,716,0,04:13,,0,1,0,SF 35,0,SF,KICKOFF
-5,789,3,03:35,,10,1,-7,IND 20,0,IND,
-5,731,1,04:13,,10,1,0,IND 20,0,IND,
-5,808,4,03:05,,17,1,-7,IND 13,0,IND,PUNT
-13,2005,1,13:47,,10,3,18,SF 32,0,SF,
-13,1980,2,14:25,,3,3,12,SF 27,0,SF,
-13,1940,0,15:00,,0,3,0,IND 35,0,IND,KICKOFF
-13,2075,4,12:02,,3,3,19,SF 39,0,SF,PUNT
-13,2029,2,13:11,,4,3,18,SF 38,0,SF,
-13,2054,3,12:38,,4,3,19,SF 38,0,SF,
-13,1959,1,15:00,,10,3,7,SF 20,0,SF,
-21,3457,0,02:55,,0,4,0,IND 35,0,IND,KICKOFF
-21,3595,1,01:52,,10,4,31,SF 37,0,SF,
-21,3723,1,00:47,,10,4,67,IND 21,0,SF,INT
-21,3479,1,02:49,,10,4,12,SF 12,0,SF,
-21,3528,2,02:03,,7,4,15,SF 27,0,SF,
-21,3695,1,01:14,,10,4,67,SF 49,0,SF,
-21,3503,1,02:26,,10,4,15,SF 24,0,SF,
-21,3627,2,01:28,,4,4,31,SF 43,0,SF,
-21,3567,3,01:59,,7,4,25,SF 27,0,SF,
-21,3671,4,01:21,,4,4,37,SF 43,0,SF,
-21,3550,0,01:59,,0,4,15,,0,,
-21,3649,3,01:24,,4,4,31,SF 43,0,SF,
-11,1884,4,00:29,,1,2,34,IND 49,0,IND,PUNT
-11,1846,3,01:14,,1,2,34,IND 49,0,IND,
-11,1684,0,02:35,,0,2,7,,0,,TIMEOUT
-11,1737,1,02:05,,10,2,18,IND 29,0,IND,
-11,1775,2,01:59,,6,2,25,IND 33,0,IND,
-11,1799,1,01:38,,10,2,34,IND 40,0,IND,
-11,1660,2,03:21,,3,2,7,IND 22,0,IND,
-11,1709,3,02:35,,3,2,14,IND 22,0,IND,
-11,1633,1,04:01,,10,2,7,IND 15,0,IND,
-11,1824,2,01:20,,1,2,34,IND 49,0,IND,
-11,1867,0,00:29,,0,2,34,,0,,TIMEOUT
-14,2323,4,06:51,,10,3,52,SF 23,1,IND,FG
-14,2279,2,06:59,,10,3,52,SF 23,0,IND,
-14,2184,1,09:06,,10,3,38,SF 40,0,IND,
-14,2226,2,08:20,,7,3,52,SF 37,0,IND,
-14,2093,1,11:54,,10,3,0,IND 25,0,IND,
-14,2163,2,09:49,,6,3,35,IND 44,0,IND,
-14,2142,1,10:32,,10,3,19,IND 40,0,IND,
-14,2121,2,11:11,,10,3,15,IND 25,0,IND,
-14,2301,3,06:55,,10,3,52,SF 23,0,IND,
-14,2209,0,08:21,,0,3,38,,0,,TIMEOUT
-14,2250,1,07:39,,10,3,52,SF 23,0,IND,
-8,1107,2,12:45,,12,2,3,SF 6,0,SF,
-8,1084,2,13:07,,7,2,-2,SF 11,0,SF,PENALTY
-8,1063,1,13:41,,10,2,3,SF 8,0,SF,
-8,1128,3,12:01,,7,2,3,SF 11,0,SF,
-8,1150,4,11:57,,7,2,3,SF 11,0,SF,PUNT
-19,3302,2,04:03,,10,4,0,SF 11,0,SF,
-19,3280,1,04:09,,10,4,0,SF 11,0,SF,
-19,3324,3,03:57,,10,4,-3,SF 11,0,SF,FUMBLE
-19,3258,0,04:13,,0,4,0,IND 35,0,IND,KICKOFF
-22,3774,0,00:00,,0,4,-1,,0,,
-22,3753,1,00:35,,10,4,-1,IND 4,0,IND,
-12,1924,0,,,0,2,-1,,0,,
-12,1903,1,00:21,,10,2,-1,SF 8,0,SF,
-16,2792,3,12:51,,9,4,59,SF 33,0,IND,
-16,2552,1,03:02,,10,3,3,IND 8,0,IND,
-16,2815,4,12:46,,9,4,59,SF 33,0,IND,FGM
-16,2621,0,01:03,,0,3,26,,0,,TIMEOUT
-16,2749,1,13:43,,10,4,59,SF 34,0,IND,
-16,2642,1,01:03,,10,3,28,IND 34,0,IND,
-16,2687,0,,,0,3,47,,0,,
-16,2594,3,01:36,,9,3,59,IND 9,0,IND,
-16,2707,1,15:00,,10,4,55,SF 45,0,IND,
-16,2728,2,14:22,,2,4,58,SF 37,0,IND,
-16,2663,2,00:22,,8,3,47,IND 36,0,IND,
-16,2573,2,02:19,,7,3,1,IND 11,0,IND,
-16,2770,2,12:58,,9,4,59,SF 33,0,IND,
-7,937,2,00:53,,6,1,17,IND 24,0,IND,
-7,1020,3,14:19,,2,2,26,IND 45,0,IND,
-7,1044,4,13:45,,1,2,26,IND 46,0,IND,PUNT
-7,999,2,15:00,,4,2,25,IND 43,0,IND,
-7,916,1,01:33,,10,1,26,IND 20,0,IND,
-7,958,1,00:11,,10,1,23,IND 37,0,IND,
-3,463,3,09:03,,2,1,8,IND 39,0,IND,
-3,485,4,08:59,,2,1,8,IND 39,0,IND,PUNT
-3,409,1,09:51,,10,1,8,IND 31,0,IND,
-3,437,2,09:08,,2,1,8,IND 39,0,IND,
-17,2858,2,12:36,,10,4,4,SF 41,0,SF,
-17,2905,4,11:22,,13,4,-3,SF 38,0,SF,PUNT
-17,2835,1,12:41,,10,4,0,SF 41,0,SF,
-17,2882,3,11:51,,6,4,-3,SF 45,0,SF,
-4,641,2,05:47,,11,1,81,IND 31,0,SF,
-4,662,1,05:02,,10,1,78,IND 10,0,SF,
-4,596,1,06:54,,10,1,61,IND 41,0,SF,
-4,617,1,06:14,,10,1,60,IND 30,0,SF,
-4,575,1,07:32,,10,1,50,SF 37,0,SF,
-4,700,0,04:13,,0,1,91,IND 2,1,SF,XP
-4,504,1,08:47,,10,1,91,SF 9,0,SF,
-4,528,1,08:05,,10,1,61,SF 23,0,SF,
-4,683,2,04:20,,13,1,91,IND 13,1,SF,TD
-4,554,2,08:03,,10,1,28,SF 23,0,SF,
-2,390,4,09:58,,1,1,9,SF 22,0,SF,PUNT
-2,326,1,11:15,,10,1,7,SF 13,0,SF,
-2,369,3,10:34,,3,1,9,SF 20,0,SF,
-2,304,0,11:20,,0,1,0,IND 35,0,IND,KICKOFF
-2,347,2,10:37,,3,1,7,SF 20,0,SF,
-15,2529,4,03:10,,4,3,35,IND 45,0,SF,PUNT
-15,2403,3,06:08,,2,3,18,SF 28,0,SF,
-15,2342,0,06:46,,0,3,0,IND 35,0,IND,KICKOFF
-15,2505,3,03:50,,13,3,35,SF 46,0,SF,
-15,2459,1,04:58,,10,3,24,SF 49,0,SF,
-15,2484,2,04:27,,15,3,26,SF 44,0,SF,
-15,2357,1,06:46,,10,3,0,SF 20,0,SF,
-15,2379,2,06:40,,10,3,8,SF 20,0,SF,
-15,2431,1,05:33,,10,3,29,SF 38,0,SF,
+20,3386,2,03:05,(3:05) A.Bradshaw up the middle to SF 1 for 4 yards (N.Bowman).,5,4,7,SF 5,0,IND,
+20,3441,0,02:55,"A.Vinatieri extra point is GOOD, Center-M.Overton, Holder-P.McAfee.",0,4,8,SF 2,1,IND,XP
+20,3361,1,03:51,(3:51) J.Reitz reported as eligible. A.Bradshaw right guard to SF 5 for 3 yards (T.Jerod-Eddie).,8,4,3,SF 8,0,IND,
+20,3407,0,02:58,Timeout #3 by SF at 02:58.,0,4,7,,0,,TIMEOUT
+20,3424,3,02:58,"(2:58) A.Bradshaw right guard for 1 yard, TOUCHDOWN.",1,4,8,SF 1,1,IND,TD
+21,3567,3,01:59,(1:59) (Shotgun) C.Kaepernick pass short right to F.Gore pushed ob at SF 37 for 10 yards (A.Bethea). Caught at SF 29.  8-yds YAC,7,4,25,SF 27,0,SF,
+21,3595,1,01:52,(1:52) (Shotgun) C.Kaepernick pass short middle to K.Williams to SF 43 for 6 yards (K.Conner). Caught at SF 42.  1-yd YAC,10,4,31,SF 37,0,SF,
+21,3550,0,01:59,Two-Minute Warning,0,4,15,,0,,
+21,3503,1,02:26,"(2:26) (No Huddle, Shotgun) C.Kaepernick scrambles right tackle to SF 27 for 3 yards (K.Conner).",10,4,15,SF 24,0,SF,
+21,3479,1,02:49,(2:49) (Shotgun) C.Kaepernick pass short middle to A.Boldin to SF 24 for 12 yards (D.Butler). Caught at SF 20.  4-yds YAC,10,4,12,SF 12,0,SF,
+21,3627,2,01:28,"(1:28) (No Huddle, Shotgun) C.Kaepernick pass incomplete short right to K.Williams.",4,4,31,SF 43,0,SF,
+21,3695,1,01:14,"(1:14) (Shotgun) C.Kaepernick pass short middle to G.Celek to IND 21 for 30 yards (K.Conner, D.Howell). Caught at IND 48.  17-yds YAC",10,4,67,SF 49,0,SF,
+21,3723,1,00:47,"(:47) (No Huddle, Shotgun) C.Kaepernick pass deep left intended for K.Williams INTERCEPTED by C.Vaughn (C.Redding) at IND 3. C.Vaughn to IND 4 for 1 yard (A.Boldin).",10,4,67,IND 21,0,SF,INT
+21,3649,3,01:24,(1:24) (Shotgun) C.Kaepernick pass incomplete short left to A.Boldin (D.Howell).,4,4,31,SF 43,0,SF,
+21,3671,4,01:21,(1:21) (Shotgun) C.Kaepernick pass short right to K.Williams to SF 49 for 6 yards (G.Toler). Caught at SF 49.  0-yds YAC,4,4,37,SF 43,0,SF,
+21,3528,2,02:03,"(2:03) (No Huddle, Shotgun) C.Kaepernick pass incomplete short right to V.McDonald.",7,4,15,SF 27,0,SF,
+21,3457,0,02:55,P.McAfee kicks 60 yards from IND 35 to SF 5. Q.Patton to SF 12 for 7 yards (S.Havili).,0,4,0,IND 35,0,IND,KICKOFF
+22,3753,1,00:35,(:35) A.Luck kneels to IND 3 for -1 yards.,10,4,-1,IND 4,0,IND,
+22,3774,0,00:00,END GAME,0,4,-1,,0,,
+1,211,1,12:49,(12:49) (Shotgun) A.Luck pass short right to D.Heyward-Bey to SF 7 for 19 yards (P.Willis). Caught at SF 18.  11-yds YAC,10,1,73,SF 26,0,IND,
+1,54,1,15:00,"(15:00) J.Reitz reported as eligible. A.Luck pass short right to A.Bradshaw to IND 23 for 3 yards (D.Whitner). PENALTY on SF-D.Whitner, Unnecessary Roughness, 15 yards, enforced at IND 23. Caught at IND 20.  3-yds YAC",10,1,18,IND 20,0,IND,PENALTY
+1,36,0,15:00,"P.Dawson kicks 74 yards from SF 35 to IND -9. C.Vaughn, Touchback.",0,1,0,SF 35,0,SF,KICKOFF
+1,267,2,11:23,"(11:23) J.Reitz reported as eligible. T.Richardson right guard for 1 yard, TOUCHDOWN.",1,1,80,SF 1,1,IND,TD
+1,288,0,11:20,"A.Vinatieri extra point is GOOD, Center-M.Overton, Holder-P.McAfee.",0,1,80,SF 2,1,IND,XP
+1,130,1,14:32,(14:32) J.Reitz reported as eligible. A.Luck pass short right to D.Heyward-Bey ran ob at SF 39 for 14 yards. Caught at SF 39.  0-yds YAC,10,1,41,IND 47,0,IND,
+1,186,2,13:29,(13:29) A.Bradshaw left tackle to SF 26 for 7 yards (D.Whitner).,4,1,54,SF 33,0,IND,
+1,158,1,14:00,(14:00) (Shotgun) A.Luck pass short right to A.Bradshaw pushed ob at SF 33 for 6 yards (A.Brooks). Caught at SF 36.  3-yds YAC,10,1,47,SF 39,0,IND,
+1,235,1,12:03,"(12:03) A.Luck pass short left to C.Fleener to SF 1 for 6 yards (D.Whitner, P.Willis). Caught at SF 2.  1-yd YAC",7,1,79,SF 7,0,IND,
+1,93,1,14:36,"(14:36) A.Luck pass incomplete short left to T.Hilton. PENALTY on SF-T.Brown, Defensive Pass Interference, 9 yards, enforced at IND 38 - No Play.",10,1,27,IND 38,0,IND,PENALTY
+3,437,2,09:08,(9:08) J.Reitz reported as eligible. A.Luck pass incomplete short right to T.Richardson (N.Bowman).,2,1,8,IND 39,0,IND,
+3,485,4,08:59,"(8:59) P.McAfee punts 52 yards to SF 9, Center-M.Overton, downed by IND-M.Harvey.",2,1,8,IND 39,0,IND,PUNT
+3,463,3,09:03,(9:03) (Shotgun) A.Luck pass incomplete short right to T.Hilton [A.Brooks].,2,1,8,IND 39,0,IND,
+3,409,1,09:51,(9:51) A.Luck pass short left to T.Hilton to IND 39 for 8 yards (N.Bowman). Caught at IND 38.  1-yd YAC,10,1,8,IND 31,0,IND,
+2,326,1,11:15,"(11:15) F.Gore left guard to SF 20 for 7 yards (A.Bethea, K.Sheppard).",10,1,7,SF 13,0,SF,
+2,347,2,10:37,(10:37) C.Kaepernick pass incomplete short right to K.Williams.,3,1,7,SF 20,0,SF,
+2,304,0,11:20,P.McAfee kicks 72 yards from IND 35 to SF -7. K.Hunter to SF 13 for 20 yards (M.Harvey).,0,1,0,IND 35,0,IND,KICKOFF
+2,390,4,09:58,"(9:58) A.Lee punts 47 yards to IND 31, Center-K.McDermott, fair catch by T.Hilton.",1,1,9,SF 22,0,SF,PUNT
+2,369,3,10:34,"(10:34) (Shotgun) K.Hunter left end to SF 22 for 2 yards (K.Conner, J.Freeman).",3,1,9,SF 20,0,SF,
+5,731,1,04:13,"(4:13) J.Reitz reported as eligible. T.Richardson right guard to IND 20 for no gain (G.Dorsey, A.Brooks).",10,1,0,IND 20,0,IND,
+5,716,0,04:13,"P.Dawson kicks 65 yards from SF 35 to end zone, Touchback.",0,1,0,SF 35,0,SF,KICKOFF
+5,808,4,03:05,"(3:05) P.McAfee punts 51 yards to SF 36, Center-M.Overton. K.Williams to 50 for 14 yards (C.Johnson).",17,1,-7,IND 13,0,IND,PUNT
+5,767,2,03:40,(3:40) (Shotgun) A.Luck pass incomplete short middle to R.Wayne [P.Willis].,10,1,0,IND 20,0,IND,
+5,789,3,03:35,(3:35) (Shotgun) A.Luck sacked at IND 13 for -7 yards (J.Smith).,10,1,-7,IND 20,0,IND,
+4,596,1,06:54,"(6:54) F.Gore up the middle to IND 30 for 11 yards (G.Toler, E.Walden).",10,1,61,IND 41,0,SF,
+4,554,2,08:03,(8:03) C.Kaepernick scrambles right end pushed ob at SF 37 for 14 yards (J.Freeman).,10,1,28,SF 23,0,SF,
+4,700,0,04:13,"P.Dawson extra point is GOOD, Center-K.McDermott, Holder-A.Lee.",0,1,91,IND 2,1,SF,XP
+4,617,1,06:14,(6:14) C.Kaepernick sacked at IND 31 for -1 yards (R.Mathis).,10,1,60,IND 30,0,SF,
+4,575,1,07:32,(7:32) F.Gore right end to IND 41 for 22 yards (A.Bethea).,10,1,50,SF 37,0,SF,
+4,662,1,05:02,"(5:02) K.Hunter left tackle to IND 13 for -3 yards (C.Redding, J.Chapman).",10,1,78,IND 10,0,SF,
+4,641,2,05:47,(5:47) F.Gore right end to IND 10 for 21 yards (F.Moala).,11,1,81,IND 31,0,SF,
+4,504,1,08:47,(8:47) C.Kaepernick pass short right to A.Boldin to SF 23 for 14 yards (A.Bethea). Caught at SF 16.  7-yds YAC,10,1,91,SF 9,0,SF,
+4,528,1,08:05,(8:05) C.Kaepernick pass incomplete short left to V.McDonald (K.Sheppard).,10,1,61,SF 23,0,SF,
+4,683,2,04:20,"(4:20) K.Hunter up the middle for 13 yards, TOUCHDOWN.",13,1,91,IND 13,1,SF,TD
+7,958,1,00:11,"(:11) J.Reitz reported as eligible. A.Bradshaw right tackle to IND 43 for 6 yards (N.Bowman, J.Smith).",10,1,23,IND 37,0,IND,
+7,1020,3,14:19,"(14:19) A.Bradshaw left guard to IND 46 for 1 yard (R.McDonald, E.Reid). IND-A.Bradshaw was injured during the play.",2,2,26,IND 45,0,IND,
+7,1044,4,13:45,"(13:45) P.McAfee punts 46 yards to SF 8, Center-M.Overton, fair catch by K.Williams.",1,2,26,IND 46,0,IND,PUNT
+7,999,2,15:00,(15:00) A.Bradshaw up the middle to IND 45 for 2 yards (R.McDonald).,4,2,25,IND 43,0,IND,
+7,916,1,01:33,(1:33) A.Bradshaw up the middle to IND 24 for 4 yards (J.Smith).,10,1,26,IND 20,0,IND,
+7,937,2,00:53,(:53) A.Bradshaw left guard to IND 37 for 13 yards (A.Brooks).,6,1,17,IND 24,0,IND,
+6,854,2,02:26,(2:26) F.Gore left guard to IND 44 for 1 yard (A.Franklin).,5,1,6,IND 45,0,SF,
+6,833,1,02:53,(2:53) (Shotgun) F.Gore up the middle to IND 45 for 5 yards (J.Freeman).,10,1,5,50,0,SF,
+6,875,3,01:47,(1:47) (Shotgun) C.Kaepernick pass incomplete short left to K.Williams.,4,1,6,IND 44,0,SF,
+6,897,4,01:42,"(1:42) A.Lee punts 24 yards to IND 20, Center-K.McDermott, fair catch by T.Hilton. SF-R.Ventrone was injured during the play. He is Out.",4,1,6,IND 44,0,SF,PUNT
+9,1278,3,09:08,"(9:08) (Shotgun) A.Luck pass incomplete short right to R.Wayne. PENALTY on SF-T.Brown, Defensive Holding, 5 yards, enforced at SF 28 - No Play.",3,2,32,SF 28,0,IND,PENALTY
+9,1427,4,07:00,"(7:00) A.Vinatieri 43 yard field goal is GOOD, Center-M.Overton, Holder-P.McAfee.",12,2,30,SF 25,1,IND,FG
+9,1232,1,10:37,"(10:37) T.Richardson right guard to SF 32 for 3 yards (A.Brooks, T.Jerod-Eddie).",10,2,23,SF 35,0,IND,
+9,1311,1,09:04,(9:04) T.Richardson up the middle to SF 19 for 4 yards (N.Bowman).,10,2,36,SF 23,0,IND,
+9,1204,2,11:18,(11:18) A.Luck pass short left to D.Heyward-Bey to SF 35 for 15 yards (T.Brown). Caught at SF36.  1-yd YAC,5,2,20,50,0,IND,
+9,1180,1,11:48,(11:48) A.Luck pass short right to R.Wayne pushed ob at 50 for 5 yards (P.Willis). Caught at IND 39.  11-yds YAC,10,2,26,IND 45,0,IND,
+9,1332,2,08:19,(8:19) (Shotgun) A.Luck pass incomplete deep left to T.Hilton [J.Smith].,6,2,36,SF 19,0,IND,
+9,1257,2,09:56,(9:56) A.Luck scrambles up the middle to SF 28 for 4 yards (N.Bowman).,7,2,27,SF 32,0,IND,
+9,1399,3,07:38,(7:38) A.Luck pass short left to D.Heyward-Bey to SF 25 for 4 yards (E.Reid). Caught at SF 30.  5-yds YAC,16,2,30,SF 29,0,IND,
+9,1354,3,08:13,"(8:13) (Shotgun) A.Luck pass short left to R.Wayne to SF 14 for 5 yards (N.Bowman). PENALTY on IND-M.McGlynn, Illegal Use of Hands, 10 yards, enforced at SF 19 - No Play.",6,2,26,SF 19,0,IND,PENALTY
+8,1128,3,12:01,(12:01) (Shotgun) C.Kaepernick pass incomplete short middle to Q.Patton (D.Howell).,7,2,3,SF 11,0,SF,
+8,1107,2,12:45,(12:45) (Shotgun) C.Kaepernick scrambles up the middle to SF 11 for 5 yards (J.Chapman).,12,2,3,SF 6,0,SF,
+8,1063,1,13:41,"(13:41) F.Gore up the middle to SF 11 for 3 yards (J.Freeman, J.Chapman).",10,2,3,SF 8,0,SF,
+8,1084,2,13:07,"(13:07) (Shotgun) PENALTY on SF-A.Davis, False Start, 5 yards, enforced at SF 11 - No Play.",7,2,-2,SF 11,0,SF,PENALTY
+8,1150,4,11:57,"(11:57) A.Lee punts 56 yards to IND 33, Center-K.McDermott. T.Hilton pushed ob at IND 45 for 12 yards (C.Spillman).",7,2,3,SF 11,0,SF,PUNT
+11,1775,2,01:59,(1:59) (Shotgun) A.Luck pass short right to C.Fleener to IND 40 for 7 yards (N.Bowman). Caught at IND 38.  2-yds YAC,6,2,25,IND 33,0,IND,
+11,1799,1,01:38,"(1:38) (No Huddle, Shotgun) D.Brown up the middle to IND 49 for 9 yards (R.McDonald).",10,2,34,IND 40,0,IND,
+11,1633,1,04:01,(4:01) T.Richardson left end to IND 22 for 7 yards (N.Bowman).,10,2,7,IND 15,0,IND,
+11,1709,3,02:35,(2:35) (Shotgun) A.Luck pass short middle to A.Bradshaw to IND 29 for 7 yards (D.Whitner). Caught at IND 27.  2-yds YAC,3,2,14,IND 22,0,IND,
+11,1846,3,01:14,(1:14) (Shotgun) D.Brown left guard to IND 49 for no gain (P.Willis).,1,2,34,IND 49,0,IND,
+11,1737,1,02:05,(2:05) T.Richardson left tackle to IND 33 for 4 yards (P.Willis).,10,2,18,IND 29,0,IND,
+11,1684,0,02:35,Timeout #1 by IND at 02:35. J.Reitz reported as eligible.,0,2,7,,0,,TIMEOUT
+11,1867,0,00:29,Timeout #2 by IND at 00:29.,0,2,34,,0,,TIMEOUT
+11,1824,2,01:20,"(1:20) (No Huddle, Shotgun) A.Luck pass incomplete short middle to D.Brown.",1,2,34,IND 49,0,IND,
+11,1884,4,00:29,"(:29) P.McAfee punts 43 yards to SF 8, Center-M.Overton, fair catch by K.Williams.",1,2,34,IND 49,0,IND,PUNT
+11,1660,2,03:21,(3:21) A.Luck pass short left to R.Wayne to IND 22 for no gain (A.Brooks). Caught at IND 20.  2-yds YAC,3,2,7,IND 22,0,IND,
+10,1608,4,04:11,"(4:11) A.Lee punts 43 yards to IND 11, Center-K.McDermott. T.Hilton to IND 15 for 4 yards (B.Miller).",10,2,26,SF 46,0,SF,PUNT
+10,1586,3,04:20,(4:20) (Shotgun) C.Kaepernick pass incomplete short middle to F.Gore.,10,2,26,SF 46,0,SF,
+10,1473,1,07:00,(7:00) (Shotgun) C.Kaepernick scrambles up the middle to SF 23 for 3 yards (B.Werner).,10,2,3,SF 20,0,SF,
+10,1494,2,06:18,(6:18) (Shotgun) A.Dixon right end to SF 22 for -1 yards (K.Sheppard).,7,2,2,SF 23,0,SF,
+10,1515,3,05:32,(5:32) (Shotgun) C.Kaepernick pass short middle to A.Boldin to SF 46 for 24 yards (D.Howell). Caught at SF 28.  18-yds YAC,8,2,26,SF 22,0,SF,
+10,1564,2,04:25,(4:25) C.Kaepernick pass incomplete short left to A.Boldin.,10,2,26,SF 46,0,SF,
+10,1539,1,04:57,(4:57) F.Gore up the middle to SF 46 for no gain (J.Chapman).,10,2,26,SF 46,0,SF,
+10,1448,0,07:00,"P.McAfee kicks 65 yards from IND 35 to end zone, Touchback.",0,2,0,IND 35,0,IND,KICKOFF
+13,2054,3,12:38,(12:38) (Shotgun) C.Kaepernick scrambles left end to SF 39 for 1 yard (A.Bethea).,4,3,19,SF 38,0,SF,
+13,1980,2,14:25,(14:25) A.Snyder reported as eligible. F.Gore right guard to SF 32 for 5 yards (A.Franklin).,3,3,12,SF 27,0,SF,
+13,1940,0,15:00,"P.McAfee kicks 65 yards from IND 35 to end zone, Touchback.",0,3,0,IND 35,0,IND,KICKOFF
+13,2005,1,13:47,(13:47) C.Kaepernick pass short left to V.McDonald to SF 38 for 6 yards (K.Sheppard). Caught at SF 35.  3-yds YAC,10,3,18,SF 32,0,SF,
+13,1959,1,15:00,(15:00) F.Gore left tackle to SF 27 for 7 yards (R.Mathis).,10,3,7,SF 20,0,SF,
+13,2029,2,13:11,(13:11) (Shotgun) F.Gore up the middle to SF 38 for no gain (J.Freeman).,4,3,18,SF 38,0,SF,
+13,2075,4,12:02,"(12:02) A.Lee punts 36 yards to IND 25, Center-K.McDermott, out of bounds.",3,3,19,SF 39,0,SF,PUNT
+12,1924,0,,END QUARTER 2,0,2,-1,,0,,
+12,1903,1,00:21,(:21) C.Kaepernick kneels to SF 7 for -1 yards.,10,2,-1,SF 8,0,SF,
+15,2459,1,04:58,(4:58) (Shotgun) C.Kaepernick to SF 44 for -5 yards (J.Freeman).,10,3,24,SF 49,0,SF,
+15,2342,0,06:46,"P.McAfee kicks 65 yards from IND 35 to end zone, Touchback.",0,3,0,IND 35,0,IND,KICKOFF
+15,2431,1,05:33,(5:33) C.Kaepernick pass short left to F.Gore pushed ob at SF 49 for 11 yards (D.Howell). Caught at SF 40.  11-yds YAC,10,3,29,SF 38,0,SF,
+15,2529,4,03:10,"(3:10) A.Lee punts 37 yards to IND 8, Center-K.McDermott, fair catch by T.Hilton.",4,3,35,IND 45,0,SF,PUNT
+15,2484,2,04:27,(4:27) (Shotgun) K.Hunter up the middle to SF 46 for 2 yards (A.Franklin).,15,3,26,SF 44,0,SF,
+15,2379,2,06:40,(6:40) (Shotgun) C.Kaepernick pass short left to A.Boldin to SF 28 for 8 yards (G.Toler). Caught at SF 25.  3-yds YAC,10,3,8,SF 20,0,SF,
+15,2505,3,03:50,(3:50) (Shotgun) C.Kaepernick pass short middle to A.Boldin to IND 45 for 9 yards (D.Butler). Caught at IND 48.  3-yds YAC,13,3,35,SF 46,0,SF,
+15,2357,1,06:46,(6:46) (Shotgun) C.Kaepernick pass incomplete short left to F.Gore.,10,3,0,SF 20,0,SF,
+15,2403,3,06:08,(6:08) C.Kaepernick pass short right to B.Miller to SF 38 for 10 yards (J.Freeman). Caught at SF 29.  9-yds YAC,2,3,18,SF 28,0,SF,
+14,2121,2,11:11,(11:11) (Shotgun) A.Luck scrambles left end pushed ob at IND 40 for 15 yards (T.Brown).,10,3,15,IND 25,0,IND,
+14,2323,4,06:51,"(6:51) A.Vinatieri 41 yard field goal is GOOD, Center-M.Overton, Holder-P.McAfee.",10,3,52,SF 23,1,IND,FG
+14,2226,2,08:20,(8:20) (Shotgun) A.Luck pass short middle to R.Wayne to SF 23 for 14 yards (D.Whitner). Caught at SF 26.  3-yds YAC,7,3,52,SF 37,0,IND,
+14,2209,0,08:21,Timeout #1 by SF at 08:21.,0,3,38,,0,,TIMEOUT
+14,2279,2,06:59,(6:59) (Shotgun) A.Luck pass incomplete short left to T.Richardson (E.Reid) [J.Smith].,10,3,52,SF 23,0,IND,
+14,2301,3,06:55,(6:55) (Shotgun) A.Luck pass incomplete short middle to A.Bradshaw [J.Smith].,10,3,52,SF 23,0,IND,
+14,2142,1,10:32,(10:32) T.Richardson left tackle to IND 44 for 4 yards (T.Brown).,10,3,19,IND 40,0,IND,
+14,2093,1,11:54,(11:54) A.Luck pass short right to S.Havili to IND 25 for no gain (P.Willis). Caught at IND 23.  2-yds YAC,10,3,0,IND 25,0,IND,
+14,2184,1,09:06,(9:06) J.Reitz reported as eligible. T.Richardson up the middle to SF 37 for 3 yards (A.Brooks).,10,3,38,SF 40,0,IND,
+14,2163,2,09:49,(9:49) (Shotgun) D.Brown left end to SF 40 for 16 yards (E.Reid).,6,3,35,IND 44,0,IND,
+14,2250,1,07:39,(7:39) J.Reitz reported as eligible. T.Richardson left tackle to SF 23 for no gain (A.Smith).,10,3,52,SF 23,0,IND,
+17,2882,3,11:51,(11:51) (Shotgun) C.Kaepernick sacked at SF 38 for -7 yards (sack split by C.Redding and R.Mathis).,6,4,-3,SF 45,0,SF,
+17,2858,2,12:36,(12:36) (Shotgun) C.Kaepernick pass short left to K.Hunter to SF 45 for 4 yards (D.Howell). Caught at SF 41.  4-yds YAC,10,4,4,SF 41,0,SF,
+17,2835,1,12:41,(12:41) C.Kaepernick pass incomplete deep left to G.Celek.,10,4,0,SF 41,0,SF,
+17,2905,4,11:22,"(11:22) A.Lee punts 62 yards to end zone, Center-K.McDermott, Touchback.",13,4,-3,SF 38,0,SF,PUNT
+16,2594,3,01:36,(1:36) (Shotgun) A.Luck pass short right to R.Wayne to IND 34 for 25 yards (A.Smith). SF-P.Willis was injured during the play. He is Out.  Caught at IND 11.  23-yds YAC,9,3,59,IND 9,0,IND,
+16,2815,4,12:46,"(12:46) A.Vinatieri 51 yard field goal is No Good, Wide Left, Center-M.Overton, Holder-P.McAfee.",9,4,59,SF 33,0,IND,FGM
+16,2552,1,03:02,(3:02) T.Richardson left guard to IND 11 for 3 yards (A.Smith).,10,3,3,IND 8,0,IND,
+16,2621,0,01:03,Timeout #2 by SF at 01:03.,0,3,26,,0,,TIMEOUT
+16,2770,2,12:58,(12:58) A.Luck pass incomplete short right to T.Richardson (N.Bowman).,9,4,59,SF 33,0,IND,
+16,2642,1,01:03,(1:03) A.Bradshaw left guard to IND 36 for 2 yards (R.McDonald).,10,3,28,IND 34,0,IND,
+16,2573,2,02:19,(2:19) (Shotgun) A.Bradshaw left end to IND 9 for -2 yards (A.Smith).,7,3,1,IND 11,0,IND,
+16,2728,2,14:22,(14:22) A.Bradshaw up the middle to SF 34 for 3 yards (N.Bowman).,2,4,58,SF 37,0,IND,
+16,2792,3,12:51,(12:51) (Shotgun) A.Luck pass incomplete deep left to R.Wayne [A.Brooks].,9,4,59,SF 33,0,IND,
+16,2663,2,00:22,(:22) A.Luck pass short middle to R.Wayne pushed ob at SF 45 for 19 yards (N.Bowman). Caught at IND 47.  8-yds YAC,8,3,47,IND 36,0,IND,
+16,2749,1,13:43,(13:43) A.Bradshaw right end to SF 33 for 1 yard (A.Smith).,10,4,59,SF 34,0,IND,
+16,2687,0,,END QUARTER 3,0,3,47,,0,,
+16,2707,1,15:00,(15:00) (Shotgun) A.Bradshaw up the middle to SF 37 for 8 yards (D.Whitner).,10,4,55,SF 45,0,IND,
+19,3258,0,04:13,P.McAfee kicks 63 yards from IND 35 to SF 2. K.Hunter to SF 11 for 9 yards (G.Whalen).,0,4,0,IND 35,0,IND,KICKOFF
+19,3324,3,03:57,"(3:57) (Shotgun) C.Kaepernick sacked at SF 8 for -3 yards (J.Freeman). FUMBLES (J.Freeman), RECOVERED by IND-K.Conner at SF 8. K.Conner to SF 8 for no gain (A.Boone).",10,4,-3,SF 11,0,SF,FUMBLE
+19,3302,2,04:03,(4:03) (Shotgun) C.Kaepernick pass incomplete deep left to M.Moore.,10,4,0,SF 11,0,SF,
+19,3280,1,04:09,(4:09) (Shotgun) C.Kaepernick pass incomplete short left to A.Boldin (D.Butler).,10,4,0,SF 11,0,SF,
+18,3203,2,04:58,(4:58) A.Bradshaw up the middle to SF 6 for -1 yards (A.Brooks).,2,4,74,SF 5,0,IND,
+18,3133,1,07:10,(7:10) A.Bradshaw left guard to SF 40 for 7 yards (T.Jerod-Eddie).,10,4,40,SF 47,0,IND,
+18,3242,0,04:13,"A.Vinatieri extra point is GOOD, Center-M.Overton, Holder-P.McAfee.",0,4,80,SF 2,1,IND,XP
+18,3224,3,04:27,"(4:27) A.Luck scrambles left end for 6 yards, TOUCHDOWN.",3,4,80,SF 6,1,IND,TD
+18,3025,2,08:47,"(8:47) A.Luck pass incomplete short left to D.Heyward-Bey. PENALTY on SF-T.Brown, Defensive Pass Interference, 9 yards, enforced at IND 33 - No Play.",9,4,22,IND 33,0,IND,PENALTY
+18,2922,1,11:14,(11:14) T.Richardson up the middle to IND 20 for no gain (A.Brooks).,10,4,80,IND 20,0,IND,
+18,3100,3,07:15,"(7:15) (Shotgun) A.Luck pass incomplete short left to D.Heyward-Bey. PENALTY on SF, Defensive Holding, 5 yards, enforced at IND 48 - No Play.",4,4,33,IND 48,0,IND,PENALTY
+18,3178,1,05:43,"(5:43) J.Reitz reported as eligible. A.Bradshaw left guard to SF 5 for 8 yards (M.Wilhoite, E.Reid).",10,4,75,SF 13,0,IND,
+18,3000,1,09:28,(9:28) (Shotgun) A.Bradshaw right guard to IND 33 for 1 yard (J.Smith).,10,4,13,IND 32,0,IND,
+18,3058,1,08:43,(8:43) T.Richardson right tackle to IND 47 for 5 yards (D.Whitner).,10,4,27,IND 42,0,IND,
+18,3154,2,06:27,(6:27) (Shotgun) A.Bradshaw right tackle to SF 13 for 27 yards (N.Asomugha). SF-N.Asomugha was injured during the play.,3,4,67,SF 40,0,IND,
+18,2972,3,10:12,(10:12) (Shotgun) A.Luck pass short right to D.Heyward-Bey to IND 32 for 7 yards (E.Reid). Caught at IND 30.  2-yds YAC,5,4,12,IND 25,0,IND,
+18,3079,2,08:03,(8:03) T.Richardson up the middle to IND 48 for 1 yard (J.Smith).,5,4,28,IND 47,0,IND,
+18,2943,2,10:40,(10:40) (Shotgun) A.Luck pass short left to T.Hilton pushed ob at IND 25 for 5 yards (C.Rogers). Caught at IND 18.  7-yds YAC,10,4,5,IND 20,0,IND,

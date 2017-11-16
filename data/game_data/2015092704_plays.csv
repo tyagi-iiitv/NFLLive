@@ -1,171 +1,171 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1346,0,09:05,,0,2,67,SD 15,1,MIN,XP
-9,1281,1,10:27,,10,2,62,SD 22,0,MIN,
-9,1233,2,11:37,,8,2,39,SD 33,0,MIN,
-9,1188,3,12:36,,9,2,32,MIN 46,0,MIN,
-9,1122,2,14:23,,1,2,12,MIN 42,0,MIN,
-9,1326,2,09:09,,2,2,67,SD 2,1,MIN,TD
-9,1305,1,09:53,,5,2,65,SD 5,0,MIN,
-9,1164,2,13:19,,11,2,13,MIN 44,0,MIN,
-9,1257,3,10:55,,3,2,45,SD 28,0,MIN,
-9,1101,1,14:44,,10,2,9,MIN 33,0,MIN,
-9,1212,1,12:15,,10,2,34,SD 35,0,MIN,
-9,1143,1,13:50,,10,2,11,MIN 45,0,MIN,
-10,1537,4,05:19,,7,2,29,SD 49,0,SD,PUNT
-10,1377,1,09:05,,10,2,8,SD 20,0,SD,
-10,1401,2,08:38,,2,2,9,SD 28,0,SD,
-10,1425,3,07:55,,1,2,11,SD 29,0,SD,
-10,1446,1,07:09,,10,2,26,SD 31,0,SD,
-10,1515,3,05:22,,7,2,29,SD 49,0,SD,
-10,1491,2,06:07,,9,2,29,SD 47,0,SD,
-10,1470,1,06:47,,10,2,27,SD 46,0,SD,
-10,1362,0,09:05,,0,2,0,MIN 35,0,MIN,KICKOFF
-20,3443,3,08:53,,4,4,6,SD 39,0,MIN,
-20,3482,4,08:46,,4,4,6,SD 39,0,MIN,PUNT
-20,3401,1,10:24,,10,4,3,SD 45,0,MIN,
-20,3422,2,09:39,,7,4,6,SD 42,0,MIN,
-20,3465,0,08:46,,0,4,6,,0,,TIMEOUT
-6,799,2,03:00,,10,1,0,SD 20,0,SD,
-6,821,3,02:55,,10,1,-7,SD 20,0,SD,FUMBLE
-6,777,1,03:02,,10,1,0,SD 20,0,SD,
-18,2779,1,02:42,,10,3,13,SD 20,0,SD,
-18,2764,0,02:42,,0,3,0,MIN 35,0,MIN,KICKOFF
-18,2946,2,15:00,,13,4,22,SD 42,0,SD,
-18,2930,0,,,0,3,22,,0,,
-18,2886,1,00:32,,10,3,20,SD 45,0,SD,PENALTY
-18,2824,0,01:48,,0,3,22,,0,,TIMEOUT
-18,3047,3,14:17,,10,4,66,MIN 14,1,SD,TD
-18,2862,3,01:07,,3,3,25,SD 40,0,SD,
-18,2841,2,01:48,,1,3,20,SD 42,0,SD,
-18,3025,2,14:20,,10,4,66,MIN 14,0,SD,
-18,2968,3,14:56,,13,4,66,SD 42,0,SD,PENALTY
-18,2909,1,00:08,,15,3,66,SD 40,0,SD,
-18,3003,1,14:24,,10,4,66,MIN 14,0,SD,
-18,2800,1,02:17,,10,3,22,SD 33,0,SD,
-1,162,3,13:07,,3,1,18,MIN 42,0,MIN,
-1,58,1,14:54,,10,1,2,MIN 24,0,MIN,
-1,124,2,13:39,,8,1,18,MIN 37,0,MIN,
-1,79,2,14:31,,8,1,11,MIN 26,0,MIN,
-1,184,4,13:03,,3,1,18,MIN 42,0,MIN,PUNT
-1,145,0,13:07,,0,1,18,,0,,TIMEOUT
-1,103,1,14:00,,10,1,13,MIN 35,0,MIN,
-1,36,0,15:00,,0,1,0,SD 35,0,SD,KICKOFF
-5,633,2,05:08,,8,1,2,MIN 9,0,MIN,
-5,612,1,05:47,,10,1,2,MIN 7,0,MIN,
-5,709,2,04:22,,11,1,33,MIN 42,0,MIN,
-5,688,1,04:57,,10,1,35,MIN 43,0,MIN,
-5,754,4,03:09,,3,1,43,50,0,MIN,PUNT
-5,730,3,03:38,,13,1,43,MIN 40,0,MIN,
-5,655,3,05:02,,8,1,36,MIN 9,0,MIN,PENALTY
-13,1940,1,01:12,,10,2,-1,MIN 25,0,MIN,
-13,1964,2,00:43,,11,2,7,MIN 24,0,MIN,
-13,1918,0,01:17,,0,2,0,SD 35,0,SD,KICKOFF
-13,1985,0,,,0,2,7,,0,,
-21,3598,1,05:58,,10,4,26,SD 37,0,SD,
-21,3641,3,05:07,,7,4,44,SD 40,0,SD,
-21,3811,1,00:36,,10,4,89,MIN 19,1,SD,TD
-21,3686,2,03:37,,7,4,52,MIN 42,0,SD,
-21,3707,3,02:57,,2,4,55,MIN 37,0,SD,
-21,3568,1,06:38,,10,4,26,SD 23,0,SD,
-21,3620,2,05:53,,10,4,29,SD 37,0,SD,
-21,3752,0,02:00,,0,4,64,,0,,
-21,3502,1,08:37,,10,4,3,SD 11,0,SD,
-21,3728,1,02:09,,10,4,64,MIN 34,0,SD,
-21,3665,1,04:22,,10,4,47,MIN 45,0,SD,
-21,3832,0,00:32,,0,4,89,MIN 15,1,SD,XP
-21,3523,2,07:58,,7,4,6,SD 14,0,SD,
-21,3769,2,02:00,,1,4,64,MIN 25,0,SD,
-21,3790,3,01:18,,1,4,70,MIN 25,0,SD,
-21,3544,3,07:15,,4,4,12,SD 17,0,SD,
-11,1557,1,05:12,,10,2,4,MIN 12,0,MIN,
-11,1578,2,04:24,,6,2,4,MIN 16,0,MIN,
-11,1600,3,04:19,,6,2,8,MIN 16,0,MIN,
-11,1624,4,03:47,,2,2,8,MIN 20,0,MIN,PUNT
-14,2044,2,14:19,,3,3,3,SD 27,0,SD,
-14,2001,0,15:00,,0,3,0,MIN 35,0,MIN,KICKOFF
-14,2065,3,13:34,,7,3,-8,SD 23,0,SD,
-14,2084,4,12:57,,18,3,-8,SD 12,0,SD,PUNT
-14,2020,1,15:00,,10,3,-8,SD 20,0,SD,
-8,1038,2,15:00,,8,2,25,SD 45,0,SD,
-8,976,2,00:40,,3,1,23,SD 27,0,SD,
-8,1021,0,,,0,1,25,,0,,
-8,955,1,01:15,,10,1,7,SD 20,0,SD,
-8,1082,4,14:53,,8,2,25,SD 45,0,SD,PUNT
-8,1000,1,00:18,,10,1,25,SD 43,0,SD,
-8,935,0,01:15,,0,1,0,MIN 35,0,MIN,KICKOFF
-8,1060,3,14:57,,8,2,25,SD 45,0,SD,
-19,3307,2,10:53,,14,4,22,SD 41,0,SD,
-19,3364,0,10:30,,0,4,30,,0,,TIMEOUT
-19,3178,2,13:25,,1,4,12,SD 28,0,SD,
-19,3199,1,12:51,,10,4,19,SD 31,0,SD,
-19,3381,4,10:30,,6,4,26,SD 49,0,SD,
-19,3329,3,10:47,,14,4,26,SD 41,0,SD,
-19,3223,2,12:29,,3,4,26,SD 38,0,SD,
-19,3279,1,11:31,,20,4,22,SD 35,0,SD,
-19,3119,0,13:57,,0,4,0,MIN 20,0,MIN,KICKOFF
-19,3244,1,12:01,,10,4,16,SD 45,0,SD,PENALTY
-19,3154,1,13:51,,10,4,26,SD 19,0,SD,
-22,3848,0,00:32,,0,4,0,SD 35,0,SD,KICKOFF
-22,3867,1,00:31,,10,4,-1,MIN 20,0,MIN,
-22,3888,0,,,0,4,-1,,0,,
-12,1792,1,01:53,,10,2,49,MIN 49,0,SD,
-12,1751,0,02:00,,0,2,2,,0,,
-12,1816,0,01:34,,0,2,49,,0,,TIMEOUT
-12,1902,0,01:17,,0,2,90,MIN 15,1,SD,XP
-12,1879,2,01:25,,10,2,90,MIN 34,1,SD,TD
-12,1729,2,02:03,,18,2,2,SD 12,0,SD,
-12,1768,3,02:00,,18,2,41,SD 12,0,SD,
-12,1857,1,01:29,,10,2,56,MIN 34,0,SD,
-12,1686,2,03:13,,4,2,10,SD 16,0,SD,
-12,1662,1,03:34,,10,2,6,SD 10,0,SD,
-12,1710,1,02:42,,10,2,2,SD 20,0,SD,
-12,1833,2,01:34,,2,2,56,MIN 41,0,SD,
-16,2185,2,12:03,,1,3,10,SD 29,0,SD,
-16,2277,4,10:10,,5,3,15,SD 35,0,SD,PUNT
-16,2227,2,10:48,,7,3,13,SD 33,0,SD,
-16,2206,1,11:26,,10,3,13,SD 30,0,SD,
-16,2164,1,12:32,,10,3,9,SD 20,0,SD,
-16,2149,0,12:32,,0,3,0,MIN 35,0,MIN,KICKOFF
-16,2253,3,10:44,,7,3,15,SD 33,0,SD,
-7,872,2,02:03,,4,1,7,SD 7,0,MIN,
-7,893,3,01:25,,3,1,7,SD 6,0,MIN,
-7,851,1,02:46,,10,1,6,SD 13,0,MIN,
-7,915,4,01:19,,3,1,7,SD 6,1,MIN,FG
-3,363,1,09:55,,10,1,23,50,0,MIN,PENALTY
-3,429,2,09:02,,10,1,44,SD 24,0,MIN,INT
-3,407,1,09:08,,10,1,44,SD 24,0,MIN,
-3,386,1,09:34,,5,1,44,SD 45,0,MIN,
-3,328,2,10:12,,5,1,18,MIN 37,0,MIN,
-3,307,1,10:44,,10,1,5,MIN 32,0,MIN,
-17,2325,1,10:01,,10,3,0,MIN 14,0,MIN,
-17,2727,1,02:45,,1,3,86,SD 1,1,MIN,TD
-17,2398,1,08:51,,10,3,15,MIN 25,0,MIN,
-17,2552,1,04:49,,10,3,64,SD 23,0,MIN,
-17,2507,2,06:12,,9,3,53,50,0,MIN,
-17,2440,1,07:40,,10,3,24,MIN 38,0,MIN,
-17,2531,1,05:29,,10,3,63,SD 33,0,MIN,
-17,2611,0,04:09,,0,3,64,,0,,TIMEOUT
-17,2419,2,08:19,,6,3,24,MIN 29,0,MIN,
-17,2486,1,06:51,,10,3,36,MIN 49,0,MIN,
-17,2650,4,04:04,,9,3,69,SD 22,0,MIN,PENALTY
-17,2348,2,09:59,,10,3,2,MIN 14,0,MIN,
-17,2680,1,03:57,,10,3,74,SD 17,0,MIN,
-17,2462,2,07:33,,10,3,35,MIN 38,0,MIN,
-17,2578,2,04:14,,9,3,64,SD 22,0,MIN,
-17,2628,3,04:09,,9,3,64,SD 22,0,MIN,
-17,2706,2,03:33,,5,3,85,SD 12,0,MIN,
-17,2747,0,02:42,,0,3,86,SD 15,1,MIN,XP
-17,2369,3,09:21,,8,3,11,MIN 16,0,MIN,
-4,571,3,06:39,,2,1,36,MIN 45,0,SD,
-4,554,0,06:39,,0,1,35,,0,,TIMEOUT
-4,512,1,07:52,,10,1,27,SD 47,0,SD,
-4,467,1,08:57,,10,1,5,SD 20,0,SD,
-4,592,4,05:55,,1,1,36,MIN 44,0,SD,PUNT
-4,533,2,07:16,,10,1,35,SD 47,0,SD,
-4,488,2,08:26,,5,1,27,SD 25,0,SD,
-2,236,2,12:13,,10,1,2,SD 6,0,SD,
-2,281,4,11:00,,3,1,7,SD 13,0,SD,PUNT
-2,215,1,12:56,,10,1,0,SD 6,0,SD,
-2,257,3,11:31,,8,1,7,SD 8,0,SD,
-15,2110,1,12:44,,10,3,43,SD 43,1,MIN,TD
-15,2133,0,12:32,,0,3,43,SD 15,1,MIN,XP
+20,3401,1,10:24,"(10:24) J.McKinnon left guard to SD 42 for 3 yards (M.Te'o, D.Butler).",10,4,3,SD 45,0,MIN,
+20,3422,2,09:39,(9:39) J.McKinnon right guard to SD 39 for 3 yards (C.Law).,7,4,6,SD 42,0,MIN,
+20,3465,0,08:46,Timeout #2 by SD at 08:46.,0,4,6,,0,,TIMEOUT
+20,3482,4,08:46,"(8:46) (Punt formation) J.Locke punts 28 yards to SD 11, Center-K.McDermott, downed by MIN-R.Ellison.",4,4,6,SD 39,0,MIN,PUNT
+20,3443,3,08:53,(8:53) T.Bridgewater pass incomplete short right to M.Pruitt.,4,4,6,SD 39,0,MIN,
+21,3544,3,07:15,(7:15) (Shotgun) K.Clemens pass short right to K.Allen pushed ob at SD 23 for 6 yards (T.Newman).,4,4,12,SD 17,0,SD,
+21,3665,1,04:22,(4:22) B.Oliver up the middle to MIN 42 for 3 yards (H.Smith).,10,4,47,MIN 45,0,SD,
+21,3752,0,02:00,Two-Minute Warning,0,4,64,,0,,
+21,3832,0,00:32,"(Kick formation) J.Lambo extra point is GOOD, Center-M.Windt, Holder-M.Scifres. SD-C.Hairston was injured during the play.",0,4,89,MIN 15,1,SD,XP
+21,3620,2,05:53,"(5:53) (Shotgun) B.Oliver right guard to SD 40 for 3 yards (S.Stephen, T.Johnson).",10,4,29,SD 37,0,SD,
+21,3502,1,08:37,(8:37) B.Oliver up the middle to SD 14 for 3 yards (R.Blanton).,10,4,3,SD 11,0,SD,
+21,3598,1,05:58,(5:58) (Shotgun) K.Clemens pass incomplete deep left to K.Allen.,10,4,26,SD 37,0,SD,
+21,3686,2,03:37,(3:37) B.Oliver left tackle to MIN 37 for 5 yards (G.Hodges).,7,4,52,MIN 42,0,SD,
+21,3707,3,02:57,(2:57) B.Oliver up the middle to MIN 34 for 3 yards (S.Crichton).,2,4,55,MIN 37,0,SD,
+21,3811,1,00:36,"(:36) (Shotgun) K.Clemens pass deep middle to K.Allen for 19 yards, TOUCHDOWN.",10,4,89,MIN 19,1,SD,TD
+21,3728,1,02:09,(2:09) K.Clemens pass short right to K.Allen to MIN 25 for 9 yards (T.Newman).,10,4,64,MIN 34,0,SD,
+21,3523,2,07:58,"(7:58) (Shotgun) B.Oliver left end to SD 17 for 3 yards (E.Griffen, S.Stephen).",7,4,6,SD 14,0,SD,
+21,3769,2,02:00,(2:00) B.Oliver left guard to MIN 25 for no gain (S.Crichton).,1,4,64,MIN 25,0,SD,
+21,3790,3,01:18,(1:18) B.Oliver up the middle to MIN 19 for 6 yards (A.Exum).,1,4,70,MIN 25,0,SD,
+21,3568,1,06:38,(6:38) K.Clemens pass short left to K.Allen to SD 37 for 14 yards (T.Waynes).,10,4,26,SD 23,0,SD,
+21,3641,3,05:07,(5:07) (Shotgun) K.Clemens pass short left to S.Johnson to MIN 45 for 15 yards (C.Munnerlyn).,7,4,44,SD 40,0,SD,
+22,3848,0,00:32,"J.Lambo kicks 65 yards from SD 35 to end zone, Touchback.",0,4,0,SD 35,0,SD,KICKOFF
+22,3867,1,00:31,(:31) (Run formation) T.Bridgewater kneels to MIN 19 for -1 yards.,10,4,-1,MIN 20,0,MIN,
+22,3888,0,,END GAME,0,4,-1,,0,,
+1,145,0,13:07,Timeout #1 by SD at 13:07.,0,1,18,,0,,TIMEOUT
+1,58,1,14:54,"(14:54) A.Peterson left tackle to MIN 26 for 2 yards (J.Attaochu, D.Butler).",10,1,2,MIN 24,0,MIN,
+1,36,0,15:00,J.Lambo kicks 73 yards from SD 35 to MIN -8. C.Patterson to MIN 24 for 32 yards (A.Phillips).,0,1,0,SD 35,0,SD,KICKOFF
+1,124,2,13:39,(13:39) (No Huddle) A.Peterson up the middle to MIN 42 for 5 yards (E.Weddle).,8,1,18,MIN 37,0,MIN,
+1,162,3,13:07,(13:07) (Shotgun) T.Bridgewater pass incomplete short right to J.Wright [K.Reyes].,3,1,18,MIN 42,0,MIN,
+1,184,4,13:03,"(13:03) (Punt formation) J.Locke punts 47 yards to SD 11, Center-K.McDermott, fair catch by K.Allen. PENALTY on SD-N.Dzubnar, Offensive Holding, 5 yards, enforced at SD 11.",3,1,18,MIN 42,0,MIN,PUNT
+1,103,1,14:00,(14:00) (No Huddle) A.Peterson up the middle to MIN 37 for 2 yards (C.Liuget).,10,1,13,MIN 35,0,MIN,
+1,79,2,14:31,"(14:31) (No Huddle, Shotgun) T.Bridgewater pass short right to C.Johnson to MIN 35 for 9 yards (J.Verrett).",8,1,11,MIN 26,0,MIN,
+3,429,2,09:02,(9:02) (Shotgun) T.Bridgewater pass deep left intended for C.Johnson INTERCEPTED by S.Williams at SD -3. Touchback (C.Johnson).,10,1,44,SD 24,0,MIN,INT
+3,307,1,10:44,"(10:44) A.Peterson right tackle to MIN 37 for 5 yards (C.Liuget, D.Butler).",10,1,5,MIN 32,0,MIN,
+3,407,1,09:08,(9:08) T.Bridgewater pass incomplete deep right to K.Rudolph [K.Reyes].,10,1,44,SD 24,0,MIN,
+3,386,1,09:34,(9:34) A.Peterson right tackle pushed ob at SD 24 for 21 yards (J.Attaochu).,5,1,44,SD 45,0,MIN,
+3,328,2,10:12,"(10:12) T.Bridgewater pass short left to M.Wallace to 50 for 13 yards (P.Robinson). Penalty on SD-J.Verrett, Defensive Holding, declined.",5,1,18,MIN 37,0,MIN,
+3,363,1,09:55,"(9:55) (No Huddle, Shotgun) PENALTY on SD-C.Liuget, Neutral Zone Infraction, 5 yards, enforced at 50 - No Play.",10,1,23,50,0,MIN,PENALTY
+2,281,4,11:00,"(11:00) (Punt formation) M.Scifres punts 68 yards to MIN 19, Center-M.Windt. M.Sherels to MIN 32 for 13 yards (J.Phillips).",3,1,7,SD 13,0,SD,PUNT
+2,236,2,12:13,"(12:13) M.Gordon right guard to SD 8 for 2 yards (L.Joseph, E.Griffen).",10,1,2,SD 6,0,SD,
+2,215,1,12:56,"(12:56) M.Gordon left tackle to SD 6 for no gain (S.Floyd, H.Smith).",10,1,0,SD 6,0,SD,
+2,257,3,11:31,"(11:31) (No Huddle, Shotgun) P.Rivers pass short right to K.Allen to SD 13 for 5 yards (T.Newman).",8,1,7,SD 8,0,SD,
+5,633,2,05:08,(5:08) T.Bridgewater pass incomplete short right to A.Thielen (P.Robinson).,8,1,2,MIN 9,0,MIN,
+5,709,2,04:22,(4:22) A.Peterson left end to MIN 40 for -2 yards (E.Weddle).,11,1,33,MIN 42,0,MIN,
+5,754,4,03:09,"(3:09) (Punt formation) J.Locke punts 30 yards to SD 20, Center-K.McDermott, fair catch by K.Allen. MIN-J.Trattou was injured during the play.",3,1,43,50,0,MIN,PUNT
+5,612,1,05:47,"(5:47) A.Peterson right tackle to MIN 9 for 2 yards (K.Reyes, P.Robinson).",10,1,2,MIN 7,0,MIN,
+5,730,3,03:38,(3:38) (Shotgun) T.Bridgewater pass short right to K.Rudolph to 50 for 10 yards (J.Wilson).,13,1,43,MIN 40,0,MIN,
+5,655,3,05:02,"(5:02) (Shotgun) T.Bridgewater pass incomplete deep left to C.Johnson. PENALTY on SD-S.Williams, Defensive Pass Interference, 34 yards, enforced at MIN 9 - No Play.",8,1,36,MIN 9,0,MIN,PENALTY
+5,688,1,04:57,(4:57) A.Peterson right guard to MIN 42 for -1 yards (M.Ingram).,10,1,35,MIN 43,0,MIN,
+4,592,4,05:55,"(5:55) (Punt formation) M.Scifres punts 37 yards to MIN 7, Center-M.Windt, downed by SD-D.Stuckey.",1,1,36,MIN 44,0,SD,PUNT
+4,554,0,06:39,Timeout #2 by SD at 06:39.,0,1,35,,0,,TIMEOUT
+4,467,1,08:57,(8:57) (Shotgun) D.Woodhead right tackle to SD 25 for 5 yards (E.Kendricks).,10,1,5,SD 20,0,SD,
+4,533,2,07:16,"(7:16) (No Huddle, Shotgun) M.Gordon left tackle to MIN 45 for 8 yards (A.Sendejo).",10,1,35,SD 47,0,SD,
+4,488,2,08:26,"(8:26) (No Huddle, Shotgun) P.Rivers pass short left to D.Woodhead to SD 47 for 22 yards (X.Rhodes).",5,1,27,SD 25,0,SD,
+4,512,1,07:52,"(7:52) (No Huddle) M.Gordon up the middle to SD 47 for no gain (X.Rhodes, G.Hodges).",10,1,27,SD 47,0,SD,
+4,571,3,06:39,(6:39) M.Gordon up the middle to MIN 44 for 1 yard (E.Griffen).,2,1,36,MIN 45,0,SD,
+7,915,4,01:19,"(1:19) (Field Goal formation) B.Walsh 24 yard field goal is GOOD, Center-K.McDermott, Holder-J.Locke.",3,1,7,SD 6,1,MIN,FG
+7,893,3,01:25,(1:25) (Shotgun) T.Bridgewater pass incomplete short right to K.Rudolph.,3,1,7,SD 6,0,MIN,
+7,872,2,02:03,(2:03) A.Peterson right guard to SD 6 for 1 yard (J.Wilson; M.Te'o).,4,1,7,SD 7,0,MIN,
+7,851,1,02:46,(2:46) A.Peterson up the middle to SD 7 for 6 yards (M.Ingram).,10,1,6,SD 13,0,MIN,
+6,777,1,03:02,(3:02) (Shotgun) P.Rivers pass incomplete short right to M.Gordon.,10,1,0,SD 20,0,SD,
+6,821,3,02:55,"(2:55) (Shotgun) P.Rivers sacked at SD 15 for -5 yards (A.Barr). FUMBLES (A.Barr), RECOVERED by MIN-C.Munnerlyn at SD 13. C.Munnerlyn to SD 13 for no gain (Team).",10,1,-7,SD 20,0,SD,FUMBLE
+6,799,2,03:00,(3:00) P.Rivers pass incomplete deep left to K.Allen (X.Rhodes).,10,1,0,SD 20,0,SD,
+9,1164,2,13:19,(13:19) (Shotgun) T.Bridgewater pass short right to J.Wright to MIN 46 for 2 yards (S.Williams).,11,2,13,MIN 44,0,MIN,
+9,1143,1,13:50,(13:50) J.McKinnon left guard to MIN 44 for -1 yards (P.Robinson).,10,2,11,MIN 45,0,MIN,
+9,1281,1,10:27,(10:27) T.Bridgewater pass short left to J.Wright to SD 5 for 17 yards (M.Ingram).,10,2,62,SD 22,0,MIN,
+9,1188,3,12:36,(12:36) (Shotgun) T.Bridgewater pass deep left to M.Wallace ran ob at SD 35 for 19 yards.,9,2,32,MIN 46,0,MIN,
+9,1233,2,11:37,(11:37) (Shotgun) T.Bridgewater pass short right to A.Thielen to SD 28 for 5 yards (M.Te'o).,8,2,39,SD 33,0,MIN,
+9,1122,2,14:23,"(14:23) J.McKinnon right guard to MIN 45 for 3 yards (K.Emanuel, M.Te'o).",1,2,12,MIN 42,0,MIN,
+9,1346,0,09:05,"(Kick formation) B.Walsh extra point is GOOD, Center-K.McDermott, Holder-J.Locke.",0,2,67,SD 15,1,MIN,XP
+9,1212,1,12:15,(12:15) M.Asiata up the middle to SD 33 for 2 yards (M.Te'o).,10,2,34,SD 35,0,MIN,
+9,1257,3,10:55,(10:55) (Shotgun) T.Bridgewater pass short right to M.Asiata to SD 22 for 6 yards (E.Weddle).,3,2,45,SD 28,0,MIN,
+9,1305,1,09:53,"(9:53) A.Peterson up the middle to SD 2 for 3 yards (K.Reyes, C.Liuget).",5,2,65,SD 5,0,MIN,
+9,1101,1,14:44,(14:44) J.McKinnon up the middle to MIN 42 for 9 yards (M.Ingram).,10,2,9,MIN 33,0,MIN,
+9,1326,2,09:09,"(9:09) (Run formation) A.Shepherd reported in as eligible.  A.Peterson right guard for 2 yards, TOUCHDOWN.",2,2,67,SD 2,1,MIN,TD
+8,976,2,00:40,"(:40) (No Huddle, Shotgun) P.Rivers pass short middle to K.Allen pushed ob at SD 43 for 16 yards (H.Smith).",3,1,23,SD 27,0,SD,
+8,1021,0,,END QUARTER 1,0,1,25,,0,,
+8,1082,4,14:53,"(14:53) (Punt formation) M.Scifres punts 22 yards to MIN 33, Center-M.Windt, out of bounds.",8,2,25,SD 45,0,SD,PUNT
+8,1060,3,14:57,"(14:57) (No Huddle, Shotgun) P.Rivers pass incomplete short right to K.Allen.",8,2,25,SD 45,0,SD,
+8,955,1,01:15,"(1:15) M.Gordon right end to SD 27 for 7 yards (E.Kendricks, A.Sendejo).",10,1,7,SD 20,0,SD,
+8,1038,2,15:00,(15:00) (Shotgun) P.Rivers pass incomplete short middle to B.Oliver.,8,2,25,SD 45,0,SD,
+8,935,0,01:15,"B.Walsh kicks 65 yards from MIN 35 to end zone, Touchback.",0,1,0,MIN 35,0,MIN,KICKOFF
+8,1000,1,00:18,"(:18) (No Huddle, Shotgun) M.Gordon up the middle to SD 45 for 2 yards (H.Smith).",10,1,25,SD 43,0,SD,
+11,1600,3,04:19,(4:19) (Shotgun) T.Bridgewater pass short left to K.Rudolph to MIN 20 for 4 yards (E.Weddle).,6,2,8,MIN 16,0,MIN,
+11,1578,2,04:24,(4:24) (Shotgun) T.Bridgewater pass incomplete deep right to K.Rudolph.,6,2,4,MIN 16,0,MIN,
+11,1557,1,05:12,(5:12) A.Peterson up the middle to MIN 16 for 4 yards (D.Butler).,10,2,4,MIN 12,0,MIN,
+11,1624,4,03:47,"(3:47) (Punt formation) J.Locke punts 60 yards to SD 20, Center-K.McDermott. K.Allen to SD 20 for no gain (R.Ellison). PENALTY on SD-D.Inman, Offensive Holding, 10 yards, enforced at SD 20.",2,2,8,MIN 20,0,MIN,PUNT
+10,1425,3,07:55,"(7:55) D.Johnson up the middle to SD 31 for 2 yards (B.Robison, H.Smith).",1,2,11,SD 29,0,SD,
+10,1491,2,06:07,"(6:07) (Shotgun) P.Rivers pass short right to K.Allen to SD 49 for 2 yards (E.Kendricks, H.Smith).",9,2,29,SD 47,0,SD,
+10,1537,4,05:19,"(5:19) (Punt formation) M.Scifres punts 39 yards to MIN 12, Center-M.Windt, fair catch by M.Sherels.",7,2,29,SD 49,0,SD,PUNT
+10,1446,1,07:09,"(7:09) (No Huddle, Shotgun) P.Rivers pass short left to J.Phillips to SD 46 for 15 yards (E.Kendricks) [E.Griffen].",10,2,26,SD 31,0,SD,
+10,1470,1,06:47,"(6:47) (No Huddle) D.Woodhead left tackle to SD 47 for 1 yard (A.Barr, S.Floyd).",10,2,27,SD 46,0,SD,
+10,1362,0,09:05,"B.Walsh kicks 65 yards from MIN 35 to end zone, Touchback.",0,2,0,MIN 35,0,MIN,KICKOFF
+10,1377,1,09:05,(9:05) (Shotgun) P.Rivers pass short middle to J.Phillips to SD 28 for 8 yards (A.Barr).,10,2,8,SD 20,0,SD,
+10,1515,3,05:22,(5:22) (Shotgun) P.Rivers pass incomplete short right to D.Woodhead [E.Griffen].,7,2,29,SD 49,0,SD,
+10,1401,2,08:38,"(8:38) (No Huddle, Shotgun) P.Rivers pass short middle to S.Johnson to SD 29 for 1 yard (A.Barr) [S.Floyd].",2,2,9,SD 28,0,SD,
+13,1964,2,00:43,"(:43) M.Asiata left guard to MIN 32 for 8 yards (M.Ingram, E.Weddle).",11,2,7,MIN 24,0,MIN,
+13,1918,0,01:17,J.Lambo kicks 61 yards from SD 35 to MIN 4. C.Patterson to MIN 25 for 21 yards (C.Law).,0,2,0,SD 35,0,SD,KICKOFF
+13,1940,1,01:12,"(1:12) (Shotgun) T.Bridgewater pass short right to M.Asiata to MIN 24 for -1 yards (A.Phillips, E.Weddle) [M.Ingram].",10,2,-1,MIN 25,0,MIN,
+13,1985,0,,END QUARTER 2,0,2,7,,0,,
+12,1833,2,01:34,(1:34) (Shotgun) P.Rivers pass short right to K.Allen to MIN 34 for 7 yards (T.Newman).,2,2,56,MIN 41,0,SD,
+12,1816,0,01:34,Timeout #1 by MIN at 01:34.,0,2,49,,0,,TIMEOUT
+12,1710,1,02:42,(2:42) (Shotgun) P.Rivers sacked at SD 12 for -8 yards (E.Griffen).,10,2,2,SD 20,0,SD,
+12,1729,2,02:03,(2:03) (Shotgun) P.Rivers pass incomplete short left to S.Johnson (E.Griffen).,18,2,2,SD 12,0,SD,
+12,1792,1,01:53,"(1:53) (No Huddle, Shotgun) P.Rivers pass short left to K.Allen to MIN 41 for 8 yards (E.Kendricks).",10,2,49,MIN 49,0,SD,
+12,1857,1,01:29,"(1:29) (No Huddle, Shotgun) P.Rivers pass incomplete deep left to K.Allen [G.Hodges].",10,2,56,MIN 34,0,SD,
+12,1768,3,02:00,(2:00) (Shotgun) P.Rivers pass deep left to M.Floyd ran ob at MIN 49 for 39 yards.,18,2,41,SD 12,0,SD,
+12,1686,2,03:13,(3:13) (No Huddle) M.Gordon right guard to SD 20 for 4 yards (B.Robison). SD-O.Franklin was injured during the play.,4,2,10,SD 16,0,SD,
+12,1902,0,01:17,"(Kick formation) J.Lambo extra point is GOOD, Center-M.Windt, Holder-M.Scifres.",0,2,90,MIN 15,1,SD,XP
+12,1662,1,03:34,(3:34) (Shotgun) P.Rivers pass short left to M.Floyd to SD 16 for 6 yards (X.Rhodes).,10,2,6,SD 10,0,SD,
+12,1751,0,02:00,Two-Minute Warning,0,2,2,,0,,
+12,1879,2,01:25,"(1:25) (Shotgun) P.Rivers pass deep left to K.Allen for 34 yards, TOUCHDOWN. MIN-X.Rhodes was injured during the play.",10,2,90,MIN 34,1,SD,TD
+15,2110,1,12:44,"(12:44) A.Peterson right end for 43 yards, TOUCHDOWN.",10,3,43,SD 43,1,MIN,TD
+15,2133,0,12:32,"B.Walsh extra point is GOOD, Center-K.McDermott, Holder-J.Locke.",0,3,43,SD 15,1,MIN,XP
+14,2044,2,14:19,(14:19) D.Woodhead right end to SD 23 for -4 yards (H.Smith).,3,3,3,SD 27,0,SD,
+14,2001,0,15:00,"B.Walsh kicks 65 yards from MIN 35 to end zone, Touchback.",0,3,0,MIN 35,0,MIN,KICKOFF
+14,2020,1,15:00,(15:00) (Shotgun) P.Rivers pass short left to K.Allen to SD 27 for 7 yards (T.Waynes).,10,3,-8,SD 20,0,SD,
+14,2065,3,13:34,(13:34) (Shotgun) P.Rivers sacked at SD 12 for -11 yards (T.Johnson).,7,3,-8,SD 23,0,SD,
+14,2084,4,12:57,"(12:57) M.Scifres punts 51 yards to MIN 37, Center-M.Windt. M.Sherels to SD 43 for 20 yards (D.Stuckey).",18,3,-8,SD 12,0,SD,PUNT
+17,2727,1,02:45,"(2:45) A.Shepherd reported in as eligible.  Z.Line right guard for 1 yard, TOUCHDOWN.",1,3,86,SD 1,1,MIN,TD
+17,2440,1,07:40,(7:40) T.Bridgewater pass incomplete deep left to M.Pruitt.,10,3,24,MIN 38,0,MIN,
+17,2706,2,03:33,(3:33) A.Peterson left end to SD 1 for 11 yards (J.Attaochu).,5,3,85,SD 12,0,MIN,
+17,2462,2,07:33,(7:33) (Shotgun) T.Bridgewater pass short left to A.Thielen to MIN 49 for 11 yards (P.Robinson).,10,3,35,MIN 38,0,MIN,
+17,2325,1,10:01,(10:01) T.Bridgewater pass incomplete short left to A.Thielen (M.Ingram).,10,3,0,MIN 14,0,MIN,
+17,2747,0,02:42,"(Kick formation) B.Walsh extra point is GOOD, Center-K.McDermott, Holder-J.Locke.",0,3,86,SD 15,1,MIN,XP
+17,2486,1,06:51,(6:51) J.McKinnon up the middle to 50 for 1 yard (M.Ingram).,10,3,36,MIN 49,0,MIN,
+17,2628,3,04:09,(4:09) (Shotgun) T.Bridgewater pass incomplete deep left to M.Wallace.,9,3,64,SD 22,0,MIN,
+17,2650,4,04:04,"(4:04) B.Walsh 40 yard field goal is GOOD, NULLIFIED by Penalty, Center-K.McDermott, Holder-J.Locke. PENALTY on SD-M.Ingram, Defensive Holding, 5 yards, enforced at SD 22 - No Play.",9,3,69,SD 22,0,MIN,PENALTY
+17,2348,2,09:59,(9:59) A.Peterson left guard to MIN 16 for 2 yards (K.Reyes).,10,3,2,MIN 14,0,MIN,
+17,2507,2,06:12,(6:12) (Shotgun) T.Bridgewater pass short left to M.Wallace to SD 33 for 17 yards (E.Weddle).,9,3,53,50,0,MIN,
+17,2552,1,04:49,(4:49) A.Peterson right end pushed ob at SD 22 for 1 yard (J.Wilson).,10,3,64,SD 23,0,MIN,
+17,2369,3,09:21,(9:21) (Shotgun) T.Bridgewater pass short left to J.Wright ran ob at MIN 25 for 9 yards.,8,3,11,MIN 16,0,MIN,
+17,2611,0,04:09,Timeout #1 by MIN at 04:09.,0,3,64,,0,,TIMEOUT
+17,2419,2,08:19,(8:19) C.Patterson right end to MIN 38 for 9 yards (E.Weddle).,6,3,24,MIN 29,0,MIN,
+17,2578,2,04:14,"(4:14) T.Bridgewater pass incomplete short right to J.McKinnon. Penalty on MIN-B.Fusco, Ineligible Downfield Pass, declined.",9,3,64,SD 22,0,MIN,
+17,2531,1,05:29,(5:29) A.Peterson left tackle to SD 23 for 10 yards (P.Robinson).,10,3,63,SD 33,0,MIN,
+17,2680,1,03:57,(3:57) A.Peterson right end pushed ob at SD 12 for 5 yards (J.Wilson).,10,3,74,SD 17,0,MIN,
+17,2398,1,08:51,"(8:51) A.Peterson right tackle to MIN 29 for 4 yards (S.Williams, M.Ingram).",10,3,15,MIN 25,0,MIN,
+16,2277,4,10:10,"(10:10) M.Scifres punts 46 yards to MIN 19, Center-M.Windt. M.Sherels to MIN 24 for 5 yards (B.Oliver). PENALTY on MIN-M.Asiata, Illegal Block Above the Waist, 10 yards, enforced at MIN 24.",5,3,15,SD 35,0,SD,PUNT
+16,2206,1,11:26,(11:26) (Shotgun) M.Gordon left guard to SD 33 for 3 yards (G.Hodges).,10,3,13,SD 30,0,SD,
+16,2227,2,10:48,(10:48) (Shotgun) P.Rivers pass incomplete short left to K.Allen (H.Smith). SD-C.Hairston was injured during the play.,7,3,13,SD 33,0,SD,
+16,2185,2,12:03,"(12:03) (No Huddle, Shotgun) M.Gordon up the middle to SD 30 for 1 yard (E.Kendricks).",1,3,10,SD 29,0,SD,
+16,2164,1,12:32,(12:32) (Shotgun) M.Gordon up the middle to SD 29 for 9 yards (E.Kendricks).,10,3,9,SD 20,0,SD,
+16,2253,3,10:44,(10:44) (Shotgun) P.Rivers pass short left to D.Woodhead to SD 35 for 2 yards (T.Waynes) [A.Barr].,7,3,15,SD 33,0,SD,
+16,2149,0,12:32,"B.Walsh kicks 65 yards from MIN 35 to end zone, Touchback.",0,3,0,MIN 35,0,MIN,KICKOFF
+19,3329,3,10:47,"(10:47) (Shotgun) P.Rivers pass short middle to D.Woodhead to SD 49 for 8 yards (C.Greenway). Penalty on SD-D.Fluker, Ineligible Downfield Pass, declined.",14,4,26,SD 41,0,SD,
+19,3119,0,13:57,"B.Walsh kicks 80 yards from MIN 20 to SD 0. B.Oliver MUFFS catch, and recovers at SD 0. B.Oliver to SD 19 for 19 yards (M.Sherels).",0,4,0,MIN 20,0,MIN,KICKOFF
+19,3381,4,10:30,(10:30) (Shotgun) P.Rivers sacked at SD 45 for -4 yards (sack split by S.Floyd and E.Griffen).,6,4,26,SD 49,0,SD,
+19,3364,0,10:30,Timeout #2 by MIN at 10:30.,0,4,30,,0,,TIMEOUT
+19,3223,2,12:29,"(12:29) (No Huddle, Shotgun) D.Woodhead left guard to SD 45 for 7 yards (L.Joseph).",3,4,26,SD 38,0,SD,
+19,3244,1,12:01,"(12:01) (No Huddle, Shotgun) P.Rivers pass short middle to D.Woodhead to MIN 46 for 9 yards (E.Kendricks). SD-K.Dunlap was injured during the play.  PENALTY on SD-D.Fluker, Offensive Holding, 10 yards, enforced at SD 45 - No Play.",10,4,16,SD 45,0,SD,PENALTY
+19,3178,2,13:25,(13:25) (Shotgun) M.Gordon up the middle to SD 31 for 3 yards (H.Smith).,1,4,12,SD 28,0,SD,
+19,3154,1,13:51,(13:51) (Shotgun) P.Rivers pass short right to M.Floyd to SD 28 for 9 yards (A.Barr).,10,4,26,SD 19,0,SD,
+19,3307,2,10:53,"(10:53) (No Huddle, Shotgun) P.Rivers pass incomplete deep middle to M.Floyd (T.Waynes).",14,4,22,SD 41,0,SD,
+19,3199,1,12:51,"(12:51) (No Huddle, Shotgun) P.Rivers pass short middle to J.Phillips to SD 38 for 7 yards (E.Kendricks).",10,4,19,SD 31,0,SD,
+19,3279,1,11:31,(11:31) (Shotgun) P.Rivers pass short right to K.Allen to SD 41 for 6 yards (E.Kendricks).,20,4,22,SD 35,0,SD,
+18,2779,1,02:42,(2:42) (Shotgun) M.Gordon left guard to SD 33 for 13 yards (A.Sendejo).,10,3,13,SD 20,0,SD,
+18,2862,3,01:07,"(1:07) (No Huddle, Shotgun) P.Rivers pass short left to J.Phillips to SD 45 for 5 yards (G.Hodges).",3,3,25,SD 40,0,SD,
+18,2886,1,00:32,"(:32) (No Huddle, Shotgun) PENALTY on SD-J.Barksdale, False Start, 5 yards, enforced at SD 45 - No Play.",10,3,20,SD 45,0,SD,PENALTY
+18,2909,1,00:08,"(:08) (Shotgun) D.Woodhead left tackle to SD 42 for 2 yards (A.Barr, T.Waynes).",15,3,66,SD 40,0,SD,
+18,2968,3,14:56,"(14:56) (No Huddle, Shotgun) P.Rivers pass short right to S.Johnson pushed ob at MIN 28 for 30 yards (A.Sendejo) [E.Griffen]. PENALTY on MIN-E.Griffen, Roughing the Passer, 14 yards, enforced at MIN 28.",13,4,66,SD 42,0,SD,PENALTY
+18,2930,0,,END QUARTER 3,0,3,22,,0,,
+18,2841,2,01:48,(1:48) M.Gordon right guard to SD 40 for -2 yards (E.Griffen).,1,3,20,SD 42,0,SD,
+18,3003,1,14:24,(14:24) (Shotgun) P.Rivers pass incomplete short left to M.Floyd.,10,4,66,MIN 14,0,SD,
+18,2824,0,01:48,Timeout #1 by SD at 01:48.,0,3,22,,0,,TIMEOUT
+18,2946,2,15:00,(15:00) (Shotgun) P.Rivers pass incomplete short middle to K.Allen.,13,4,22,SD 42,0,SD,
+18,2800,1,02:17,"(2:17) (No Huddle, Shotgun) P.Rivers pass short left to M.Floyd to SD 42 for 9 yards (T.Waynes) [A.Barr].",10,3,22,SD 33,0,SD,
+18,2764,0,02:42,"B.Walsh kicks 65 yards from MIN 35 to end zone, Touchback.",0,3,0,MIN 35,0,MIN,KICKOFF
+18,3025,2,14:20,"(14:20) (No Huddle, Shotgun) P.Rivers pass incomplete short right to M.Floyd [L.Joseph].",10,4,66,MIN 14,0,SD,
+18,3047,3,14:17,"(14:17) (Shotgun) P.Rivers pass short middle intended for S.Johnson INTERCEPTED by C.Greenway at MIN 9. C.Greenway for 91 yards, TOUCHDOWN. PENALTY on MIN, Unsportsmanlike Conduct, 15 yards, enforced between downs. Penalty on MIN Bench",10,4,66,MIN 14,1,SD,TD

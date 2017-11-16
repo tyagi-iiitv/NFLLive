@@ -1,173 +1,173 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1762,0,00:56,,0,2,58,DET 35,0,DET,KICKOFF
-9,1887,0,00:15,,0,2,58,,0,,TIMEOUT
-9,1863,3,00:21,,6,2,58,NO 30,0,NO,
-9,1904,1,00:15,,10,2,75,DET 31,0,NO,
-9,1962,2,00:05,,10,2,75,DET 14,1,NO,FG
-9,1839,2,00:42,,10,2,58,NO 26,0,NO,
-9,1940,1,00:09,,10,2,75,DET 14,0,NO,
-9,1784,1,00:49,,10,2,15,NO 11,0,NO,PENALTY
-9,1817,1,00:45,,10,2,15,NO 26,0,NO,
-18,3801,1,04:35,,10,4,9,NO 48,0,DET,
-18,3769,2,04:41,,9,4,8,DET 45,0,DET,PENALTY
-18,3867,0,02:48,,0,4,17,,0,,TIMEOUT
-18,3888,4,02:48,,1,4,13,NO 39,0,DET,PENALTY
-18,3911,4,02:48,,5,4,13,NO 43,0,DET,PUNT
-18,3822,2,03:51,,9,4,8,NO 47,0,DET,
-18,3744,1,05:23,,10,4,1,DET 44,0,DET,
-18,3843,3,03:07,,10,4,17,NO 48,0,DET,
-6,1097,2,10:18,,8,2,-1,DET 15,0,DET,
-6,1076,1,10:42,,10,2,2,DET 13,0,DET,
-6,1125,3,09:34,,11,2,6,DET 12,0,DET,
-6,1153,4,09:02,,4,2,6,DET 19,0,DET,PUNT
-14,3193,1,12:00,,10,4,12,DET 34,0,DET,
-14,3126,0,13:32,,0,4,0,NO 40,0,NO,KICKOFF
-14,3219,2,11:55,,10,4,12,DET 34,0,DET,
-14,3169,2,12:46,,4,4,78,DET 28,0,DET,
-14,3265,0,11:38,,0,4,78,NO 2,0,DET,2PPF
-14,3241,3,11:50,,10,4,78,DET 34,1,DET,TD
-14,3148,1,13:25,,10,4,6,DET 22,0,DET,
-7,1358,4,05:11,,11,2,26,DET 22,1,NO,FG
-7,1246,1,07:28,,10,2,17,DET 21,0,NO,PENALTY
-7,1202,1,08:50,,5,2,5,DET 43,0,NO,
-7,1330,3,05:49,,13,2,26,DET 24,0,NO,
-7,1278,1,07:05,,20,2,21,DET 31,0,NO,
-7,1179,1,08:50,,10,2,5,DET 48,0,NO,PENALTY
-7,1302,2,06:24,,16,2,24,DET 27,0,NO,
-7,1223,2,08:08,,5,2,27,DET 43,0,NO,
-8,1637,1,01:46,,10,2,64,NO 26,0,DET,
-8,1661,1,01:12,,10,2,64,NO 14,0,DET,
-8,1549,0,01:59,,0,2,38,,0,,
-8,1592,2,01:54,,10,2,49,NO 37,0,DET,
-8,1396,1,05:05,,10,2,-1,DET 25,0,DET,
-8,1525,1,02:05,,10,2,38,NO 47,0,DET,
-8,1500,2,02:46,,1,2,28,DET 49,0,DET,
-8,1566,1,01:59,,10,2,38,NO 37,0,DET,
-8,1716,3,01:02,,7,2,64,NO 11,0,DET,
-8,1616,0,01:46,,0,2,64,,0,,TIMEOUT
-8,1694,2,01:06,,7,2,64,NO 11,0,DET,
-8,1742,4,00:59,,7,2,64,NO 11,1,DET,FG
-8,1415,2,04:18,,11,2,7,DET 24,0,DET,
-8,1476,1,03:29,,10,2,24,DET 40,0,DET,
-8,1381,0,05:05,,0,2,0,NO 35,0,NO,KICKOFF
-8,1439,3,03:34,,3,2,15,DET 32,0,DET,PENALTY
-10,2165,2,12:07,,13,3,22,DET 48,0,DET,
-10,2236,2,09:47,,5,3,63,NO 14,0,DET,
-10,2290,4,09:00,,5,3,63,NO 14,1,DET,FG
-10,2018,1,14:54,,10,3,8,DET 23,0,DET,
-10,2082,1,13:39,,10,3,23,DET 46,0,DET,
-10,2208,1,10:32,,10,3,63,NO 19,0,DET,
-10,2144,1,12:53,,10,3,25,NO 49,0,DET,
-10,2184,3,11:21,,16,3,63,DET 45,0,DET,
-10,1996,0,15:00,,0,3,0,NO 35,0,NO,KICKOFF
-10,2264,3,09:04,,5,3,63,NO 14,0,DET,
-10,2054,2,14:23,,2,3,23,DET 31,0,DET,
-10,2107,2,13:00,,10,3,63,DET 46,0,DET,PENALTY
-19,4248,2,00:03,,3,4,80,DET 9,0,NO,
-19,4297,3,00:02,,8,4,75,DET 14,0,NO,INT
-19,3931,1,02:42,,10,4,7,NO 11,0,NO,
-19,3983,0,02:00,,0,4,11,,0,,
-19,4119,3,01:08,,10,4,45,NO 45,0,NO,
-19,4175,0,00:37,,0,4,63,,0,,TIMEOUT
-19,4274,3,00:02,,3,4,75,DET 9,0,NO,PENALTY
-19,4028,1,01:41,,10,4,24,NO 45,0,NO,PENALTY
-19,4091,2,01:30,,17,4,34,NO 38,0,NO,
-19,4067,1,01:36,,20,4,27,NO 35,0,NO,
-19,4220,1,00:18,,10,4,80,DET 16,0,NO,
-19,3955,2,02:17,,3,4,11,NO 18,0,NO,
-19,4004,1,02:00,,10,4,34,NO 22,0,NO,
-19,4147,1,00:44,,10,4,63,DET 44,0,NO,
-19,4192,1,00:37,,10,4,73,DET 26,0,NO,
-12,2735,1,02:33,,10,3,44,NO 10,0,DET,
-12,2689,2,03:22,,5,3,33,NO 21,0,DET,
-12,2618,3,05:27,,2,3,17,NO 46,0,DET,
-12,2668,1,04:04,,10,3,33,NO 26,0,DET,
-12,2757,2,02:29,,10,3,44,NO 10,0,DET,
-12,2803,4,01:46,,9,3,45,NO 9,1,DET,FG
-12,2564,1,06:15,,10,3,8,DET 46,0,DET,
-12,2643,1,04:44,,10,3,28,NO 37,0,DET,
-12,2779,3,02:26,,10,3,45,NO 10,0,DET,
-12,2711,3,03:17,,5,3,44,NO 21,0,DET,
-12,2594,2,05:36,,2,3,8,NO 46,0,DET,
-16,3527,2,08:10,,6,4,21,NO 35,0,DET,
-16,3458,2,09:38,,4,4,15,NO 48,0,DET,
-16,3548,3,07:22,,4,4,21,NO 33,0,DET,
-16,3500,2,08:31,,1,4,19,NO 30,0,DET,PENALTY
-16,3436,1,10:16,,10,4,6,DET 46,0,DET,
-16,3570,4,07:15,,4,4,21,NO 33,1,DET,FG
-16,3479,1,08:52,,10,4,24,NO 39,0,DET,
-11,2537,3,06:15,,15,3,10,NO 35,0,NO,INT
-11,2416,3,07:56,,6,3,10,NO 29,0,NO,
-11,2473,1,07:15,,10,3,19,NO 40,0,NO,
-11,2362,1,08:29,,20,3,4,NO 15,0,NO,
-11,2310,0,08:57,,0,3,0,DET 35,0,DET,KICKOFF
-11,2386,2,08:03,,6,3,4,NO 29,0,NO,
-11,2449,3,07:51,,6,3,15,NO 29,0,NO,
-11,2330,1,08:57,,10,3,-10,NO 25,0,NO,PENALTY
-11,2502,2,06:41,,6,3,10,NO 44,0,NO,PENALTY
-3,441,1,07:53,,10,1,22,NO 38,0,NO,
-3,382,0,08:14,,0,1,0,DET 35,0,DET,KICKOFF
-3,487,3,06:49,,1,1,22,NO 47,0,NO,
-3,509,4,05:45,,1,1,17,NO 47,0,NO,PENALTY
-3,535,4,05:37,,6,1,17,NO 42,0,NO,PUNT
-3,466,2,07:22,,3,1,22,NO 45,0,NO,
-3,398,1,08:14,,10,1,17,NO 25,0,NO,
-17,3648,3,06:17,,14,4,32,NO 21,0,NO,
-17,3605,1,07:10,,10,4,-7,NO 25,0,NO,
-17,3717,1,05:26,,10,4,32,DET 43,0,NO,INT
-17,3624,2,06:39,,17,4,-4,NO 18,0,NO,
-17,3590,0,07:10,,0,4,0,DET 35,0,DET,KICKOFF
-17,3687,1,05:58,,10,4,32,NO 45,0,NO,
-4,733,2,00:47,,5,1,36,DET 39,0,DET,
-4,555,1,05:28,,10,1,4,DET 8,0,DET,
-4,705,1,01:26,,10,1,31,DET 34,0,DET,
-4,577,2,04:50,,6,1,15,DET 12,0,DET,
-4,630,2,03:26,,7,1,19,DET 26,0,DET,
-4,681,3,02:15,,11,1,26,DET 22,0,DET,
-4,758,0,,,0,1,36,,0,,
-4,654,3,02:39,,6,1,14,DET 27,0,DET,PENALTY
-4,775,1,15:00,,10,2,44,DET 44,0,DET,
-4,859,1,13:05,,1,2,92,NO 1,1,DET,TD
-4,605,1,04:11,,10,1,18,DET 23,0,DET,
-4,799,2,14:20,,2,2,79,NO 48,0,DET,
-4,880,0,13:03,,0,2,92,NO 15,1,DET,XP
-4,827,1,13:52,,10,2,91,NO 13,0,DET,
-2,363,4,08:18,,4,1,44,NO 9,1,DET,FG
-2,342,3,08:57,,1,1,44,NO 6,0,DET,
-2,193,2,12:42,,1,1,44,NO 44,0,DET,
-2,165,1,13:23,,10,1,44,DET 47,0,DET,
-2,291,1,09:52,,10,1,44,NO 15,0,DET,
-2,239,2,11:21,,7,1,44,NO 39,0,DET,
-2,214,1,12:00,,10,1,14,NO 42,0,DET,
-2,321,2,09:47,,10,1,47,NO 15,0,DET,
-2,267,1,10:36,,10,1,38,NO 31,0,DET,
-1,81,2,14:17,,7,1,9,NO 21,0,NO,
-1,146,4,13:30,,21,1,-11,NO 7,0,NO,PUNT
-1,109,3,13:36,,1,1,-11,NO 27,0,NO,FUMBLE
-1,35,0,15:00,,0,1,0,DET 35,0,DET,KICKOFF
-1,57,1,14:56,,10,1,3,NO 18,0,NO,
-5,1024,3,11:10,,10,2,15,NO 37,0,NO,
-5,957,3,11:54,,1,2,12,NO 34,0,NO,
-5,1048,4,10:54,,7,2,15,NO 40,0,NO,PUNT
-5,900,0,13:03,,0,2,0,DET 35,0,DET,KICKOFF
-5,936,2,12:32,,6,2,9,NO 29,0,NO,
-5,980,1,11:19,,10,2,12,NO 37,0,NO,
-5,1002,2,11:14,,10,2,15,NO 37,0,NO,
-5,915,1,13:03,,10,2,4,NO 25,0,NO,
-13,3039,3,14:18,,5,4,74,DET 9,0,NO,TIMEOUT
-13,2866,1,01:06,,10,3,47,DET 44,0,NO,
-13,2842,1,01:42,,10,3,31,NO 25,0,NO,
-13,3099,0,13:32,,0,4,75,DET 15,1,NO,XP
-13,3015,2,15:00,,10,4,66,DET 14,0,NO,
-13,2999,0,,,0,3,61,,0,,
-13,2894,1,00:32,,10,3,61,DET 28,0,NO,
-13,2827,0,01:42,,0,3,66,DET 35,0,DET,KICKOFF
-13,2974,1,00:17,,10,3,61,DET 14,0,NO,
-13,3068,1,13:40,,1,4,75,DET 1,1,NO,TD
-15,3373,2,10:30,,10,4,10,NO 35,0,NO,
-15,3302,1,11:38,,10,4,2,NO 25,0,NO,
-15,3417,4,10:21,,10,4,10,NO 35,0,NO,PUNT
-15,3323,2,11:08,,8,4,10,NO 27,0,NO,
-15,3347,1,10:34,,10,4,10,NO 35,0,NO,
-15,3287,0,11:38,,0,4,0,DET 35,0,DET,KICKOFF
-15,3395,3,10:26,,10,4,10,NO 35,0,NO,
+11,2330,1,08:57,"(8:57) M.Ingram right guard to NO 27 for 2 yards (T.Wilson). PENALTY on NO-S.Kelemete, Offensive Holding, 10 yards, enforced at NO 25 - No Play.",10,3,-10,NO 25,0,NO,PENALTY
+11,2473,1,07:15,(7:15) M.Ingram right tackle to NO 44 for 4 yards (T.Armbrister).,10,3,19,NO 40,0,NO,
+11,2449,3,07:51,"(7:51) (Shotgun) D.Brees pass short right to J.Kuhn to NO 40 for 11 yards (A.Barnes; J.Bynes). DET-J.Bynes was injured during the play. His return is Probable.  Pass 4, YAC 7",6,3,15,NO 29,0,NO,
+11,2386,2,08:03,(8:03) D.Brees pass incomplete deep right to B.Cooks (G.Quin).,6,3,4,NO 29,0,NO,
+11,2310,0,08:57,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,3,0,DET 35,0,DET,KICKOFF
+11,2502,2,06:41,"(6:41) D.Brees pass short left to M.Ingram to NO 40 for -4 yards (J.Bynes). PENALTY on NO-M.Ingram, Delay of Game, 5 yards, enforced between downs. Pass -4, YAC 0.  Ingram was penalized for spiking the ball in frustration after the play.",6,3,10,NO 44,0,NO,PENALTY
+11,2416,3,07:56,"(7:56) (Shotgun) D.Brees pass incomplete deep left to C.Fleener [A.Bryant]. Penalty on NO-Z.Strief, Offensive Holding, offsetting, enforced at NO 29 - No Play. Penalty on DET, Face Mask (15 Yards), offsetting.",6,3,10,NO 29,0,NO,
+11,2537,3,06:15,(6:15) (Shotgun) D.Brees pass deep left intended for B.Cooks INTERCEPTED by G.Quin at DET 46. G.Quin ran ob at DET 46 for no gain.,15,3,10,NO 35,0,NO,INT
+11,2362,1,08:29,"(8:29) (Shotgun) D.Brees pass short middle to W.Snead to NO 29 for 14 yards (Q.Diggs). DET-Q.Diggs was injured during the play. His return is Probable.  Pass 8, YAC 6",20,3,4,NO 15,0,NO,
+10,2054,2,14:23,"(14:23) (Shotgun) M.Stafford pass short left to G.Tate to DET 46 for 15 yards (V.Bell). Pass 4, YAC 11",2,3,23,DET 31,0,DET,
+10,1996,0,15:00,W.Lutz kicks 70 yards from NO 35 to DET -5. A.Roberts to DET 23 for 28 yards (C.Banjo).,0,3,0,NO 35,0,NO,KICKOFF
+10,2082,1,13:39,(13:39) D.Washington right guard to DET 46 for no gain (C.Jordan). DET-D.Washington was injured during the play. His return is Probable.,10,3,23,DET 46,0,DET,
+10,2290,4,09:00,"(9:00) M.Prater 32 yard field goal is GOOD, Center-D.Muhlbach, Holder-S.Martin.",5,3,63,NO 14,1,DET,FG
+10,2236,2,09:47,"(9:47) (Shotgun) M.Stafford pass short right to T.Riddick to NO 14 for no gain (D.Ellerbe). Pass -1, YAC 1",5,3,63,NO 14,0,DET,
+10,2208,1,10:32,"(10:32) (Shotgun) M.Stafford pass short right to G.Tate to NO 14 for 5 yards (J.Byrd; S.Moore). Pass 2, YAC 3",10,3,63,NO 19,0,DET,
+10,2144,1,12:53,(12:53) (Shotgun) T.Riddick left end to DET 48 for -3 yards (D.Breaux).,10,3,25,NO 49,0,DET,
+10,2018,1,14:54,"(14:54) (Shotgun) M.Stafford pass short right to A.Boldin pushed ob at DET 31 for 8 yards (S.Moore). Pass 6, YAC 2",10,3,8,DET 23,0,DET,
+10,2184,3,11:21,"(11:21) (Shotgun) M.Stafford pass deep left to T.Jones to NO 19 for 36 yards (V.Bell, D.Breaux). Pass 30, YAC 6",16,3,63,DET 45,0,DET,
+10,2165,2,12:07,(12:07) (Shotgun) M.Stafford sacked at DET 45 for -3 yards (S.Rankins).,13,3,22,DET 48,0,DET,
+10,2107,2,13:00,"(13:00) (Shotgun) M.Stafford pass incomplete deep left to T.Jones. PENALTY on NO-D.Breaux, Defensive Holding, 5 yards, enforced at DET 46 - No Play.",10,3,63,DET 46,0,DET,PENALTY
+10,2264,3,09:04,"(9:04) (Shotgun) M.Stafford pass incomplete short right to A.Boldin [P.Kruger]. INJURY UPDATE: NO #89 J.Hill, ankle, QUESTIONABLE to return.  DET #36 D.Washington, ankle, QUESTIONABLE to return.",5,3,63,NO 14,0,DET,
+13,2999,0,,END QUARTER 3,0,3,61,,0,,
+13,3068,1,13:40,"(13:40) T.Lelito reported in as eligible.  J.Kuhn left guard for 1 yard, TOUCHDOWN.",1,4,75,DET 1,1,NO,TD
+13,3039,3,14:18,"(14:18) (Shotgun) D.Brees pass short right to B.Cooks to DET 1 for 8 yards (G.Quin). Pass 8, YAC 0 New Orleans challenged the runner was down by contact ruling, and the play was Upheld. The ruling on the field stands. (Timeout #1.)",5,4,74,DET 9,0,NO,TIMEOUT
+13,2866,1,01:06,"(1:06) (Shotgun) D.Brees pass short middle to M.Thomas to DET 28 for 16 yards (T.Wilson). Pass 7, YAC 9",10,3,47,DET 44,0,NO,
+13,2894,1,00:32,"(:32) T.Lelito reported in as eligible.  D.Brees pass incomplete short left to M.Thomas. New Orleans challenged the incomplete pass ruling, and the play was REVERSED. T.Lelito and T.Lelito reported in as eligible.  D.Brees pass short left to M.Thomas pushed ob at DET 14 for 14 yards (D.Slay). Pass 14, YAC 0",10,3,61,DET 28,0,NO,
+13,2842,1,01:42,"(1:42) (Shotgun) D.Brees pass deep right to C.Fleener to DET 44 for 31 yards (A.Williams). Pass 21, YAC 10",10,3,31,NO 25,0,NO,
+13,3015,2,15:00,"(15:00) (Shotgun) D.Brees pass short right to B.Cooks to DET 9 for 5 yards (N.Lawson). Pass 4, YAC 1",10,4,66,DET 14,0,NO,
+13,3099,0,13:32,"W.Lutz extra point is GOOD, Center-J.Drescher, Holder-T.Morstead. PENALTY on DET-D.Slay, Defensive Offside, 5 yards, enforced between downs.",0,4,75,DET 15,1,NO,XP
+13,2827,0,01:42,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,3,66,DET 35,0,DET,KICKOFF
+13,2974,1,00:17,(:17) (Shotgun) M.Ingram right end to DET 14 for no gain (T.Wilson).,10,3,61,DET 14,0,NO,
+12,2594,2,05:36,(5:36) M.Stafford pass incomplete deep right to A.Roberts (S.Moore).,2,3,8,NO 46,0,DET,
+12,2735,1,02:33,(2:33) (Shotgun) M.Stafford pass incomplete short left to A.Roberts.,10,3,44,NO 10,0,DET,
+12,2711,3,03:17,(3:17) (Shotgun) M.Stafford pass short left to A.Boldin to NO 10 for 11 yards (K.Vaccaro).,5,3,44,NO 21,0,DET,
+12,2779,3,02:26,"(2:26) (Shotgun) M.Stafford pass short left to A.Roberts to NO 9 for 1 yard (J.Byrd). Pass -1, YAC 2",10,3,45,NO 10,0,DET,
+12,2643,1,04:44,(4:44) (Shotgun) M.Stafford scrambles left end ran ob at NO 26 for 11 yards (D.Onyemata).,10,3,28,NO 37,0,DET,
+12,2564,1,06:15,(6:15) (Shotgun) Z.Zenner left tackle to NO 46 for 8 yards (S.Rankins).,10,3,8,DET 46,0,DET,
+12,2618,3,05:27,"(5:27) (Shotgun) M.Stafford pass short left to A.Boldin to NO 37 for 9 yards (S.Moore). Pass 6, YAC 3",2,3,17,NO 46,0,DET,
+12,2757,2,02:29,(2:29) (Shotgun) M.Stafford pass incomplete short middle to A.Boldin (J.Byrd).,10,3,44,NO 10,0,DET,
+12,2689,2,03:22,(3:22) (Shotgun) M.Stafford pass incomplete deep left to A.Roberts.,5,3,33,NO 21,0,DET,
+12,2803,4,01:46,"(1:46) M.Prater 27 yard field goal is GOOD, Center-D.Muhlbach, Holder-S.Martin.",9,3,45,NO 9,1,DET,FG
+12,2668,1,04:04,(4:04) (Shotgun) Z.Zenner right guard to NO 21 for 5 yards (C.Jordan).,10,3,33,NO 26,0,DET,
+15,3395,3,10:26,(10:26) (Shotgun) D.Brees pass incomplete deep middle to M.Thomas (D.Slay).,10,4,10,NO 35,0,NO,
+15,3373,2,10:30,(10:30) (Shotgun) D.Brees pass incomplete short middle to W.Snead (H.Ngata).,10,4,10,NO 35,0,NO,
+15,3347,1,10:34,(10:34) (Shotgun) D.Brees pass incomplete short right to W.Snead (J.Bynes).,10,4,10,NO 35,0,NO,
+15,3417,4,10:21,"(10:21) T.Morstead punts 19 yards to DET 46, Center-J.Drescher, out of bounds.",10,4,10,NO 35,0,NO,PUNT
+15,3323,2,11:08,"(11:08) (Shotgun) D.Brees pass short middle to M.Ingram to NO 35 for 8 yards (K.Hyder). Pass 2, YAC 6",8,4,10,NO 27,0,NO,
+15,3287,0,11:38,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,4,0,DET 35,0,DET,KICKOFF
+15,3302,1,11:38,(11:38) (Shotgun) M.Ingram right guard to NO 27 for 2 yards (E.Ansah).,10,4,2,NO 25,0,NO,
+14,3241,3,11:50,"(11:50) (Shotgun) M.Stafford pass deep right to G.Tate for 66 yards, TOUCHDOWN [C.Jordan]. Pass 29, YAC 37",10,4,78,DET 34,1,DET,TD
+14,3126,0,13:32,W.Lutz kicks 59 yards from NO 40 to DET 1. A.Roberts to DET 22 for 21 yards (R.Harper).,0,4,0,NO 40,0,NO,KICKOFF
+14,3219,2,11:55,(11:55) (Shotgun) M.Stafford pass incomplete short middle (C.Jordan).,10,4,12,DET 34,0,DET,
+14,3193,1,12:00,(12:00) M.Stafford pass incomplete deep left to G.Tate.,10,4,12,DET 34,0,DET,
+14,3169,2,12:46,"(12:46) (Shotgun) M.Stafford pass short left to T.Riddick to DET 34 for 6 yards (D.Breaux; V.Bell). Pass 0, YAC 6",4,4,78,DET 28,0,DET,
+14,3148,1,13:25,(13:25) (Shotgun) T.Riddick left guard to DET 28 for 6 yards (C.Robertson).,10,4,6,DET 22,0,DET,
+14,3265,0,11:38,(Pass formation) TWO-POINT CONVERSION ATTEMPT. M.Stafford pass to T.Jones is incomplete. ATTEMPT FAILS.,0,4,78,NO 2,0,DET,2PPF
+17,3717,1,05:26,(5:26) (Shotgun) D.Brees pass deep right intended for W.Snead INTERCEPTED by T.Wilson at DET 26. T.Wilson to DET 44 for 18 yards (M.Thomas).,10,4,32,DET 43,0,NO,INT
+17,3590,0,07:10,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,4,0,DET 35,0,DET,KICKOFF
+17,3605,1,07:10,(7:10) (Shotgun) D.Brees sacked at NO 18 for -7 yards (D.Taylor).,10,4,-7,NO 25,0,NO,
+17,3687,1,05:58,"(5:58) (Shotgun) D.Brees pass short left to C.Fleener to DET 43 for 12 yards (D.Slay). Pass 4, YAC 8",10,4,32,NO 45,0,NO,
+17,3624,2,06:39,"(6:39) (Shotgun) D.Brees pass short left to T.Cadet to NO 21 for 3 yards (A.Robinson). Pass -6, YAC 9",17,4,-4,NO 18,0,NO,
+17,3648,3,06:17,"(6:17) (No Huddle, Shotgun) D.Brees pass deep right to W.Snead to NO 45 for 24 yards (T.Wilson). Penalty on DET, Defensive 12 On-field, declined. Pass 22, YAC 2",14,4,32,NO 21,0,NO,
+16,3500,2,08:31,"(8:31) PENALTY on DET-E.Ebron, False Start, 5 yards, enforced at NO 30 - No Play.",1,4,19,NO 30,0,DET,PENALTY
+16,3458,2,09:38,(9:38) (Shotgun) Z.Zenner right guard to NO 39 for 9 yards (S.Moore).,4,4,15,NO 48,0,DET,
+16,3548,3,07:22,(7:22) (Shotgun) M.Stafford pass incomplete short right to E.Ebron.,4,4,21,NO 33,0,DET,
+16,3479,1,08:52,(8:52) Z.Zenner left guard to NO 30 for 9 yards (V.Bell). NO-C.Robertson was injured during the play. His return is Questionable.,10,4,24,NO 39,0,DET,
+16,3436,1,10:16,(10:16) (Shotgun) Z.Zenner right guard to NO 48 for 6 yards (C.Jordan).,10,4,6,DET 46,0,DET,
+16,3570,4,07:15,"(7:15) M.Prater 52 yard field goal is GOOD, Center-D.Muhlbach, Holder-S.Martin.",4,4,21,NO 33,1,DET,FG
+16,3527,2,08:10,(8:10) M.Stafford scrambles right end to NO 33 for 2 yards (C.Jordan).,6,4,21,NO 35,0,DET,
+19,4175,0,00:37,Timeout #3 by NO at 00:37.,0,4,63,,0,,TIMEOUT
+19,4091,2,01:30,"(1:30) (Shotgun) D.Brees pass short right to B.Cooks to NO 45 for 7 yards (N.Lawson). Pass 7, YAC 0",17,4,34,NO 38,0,NO,
+19,4067,1,01:36,"(1:36) (Shotgun) D.Brees pass short right to B.Cooks pushed ob at NO 38 for 3 yards (N.Lawson). Pass 7, YAC -4",20,4,27,NO 35,0,NO,
+19,4248,2,00:03,(:03) D.Brees spiked the ball to stop the clock.,3,4,80,DET 9,0,NO,
+19,4274,3,00:02,"(:02) (Shotgun) PENALTY on NO-D.Brees, Delay of Game, 5 yards, enforced at DET 9 - No Play.",3,4,75,DET 9,0,NO,PENALTY
+19,3931,1,02:42,"(2:42) (Shotgun) D.Brees pass short right to B.Cooks to NO 18 for 7 yards (N.Lawson). Pass 6, YAC 1",10,4,7,NO 11,0,NO,
+19,4147,1,00:44,"(:44) (No Huddle, Shotgun) D.Brees pass short left to T.Cadet to DET 26 for 18 yards (T.Walker). Pass -5, YAC 23",10,4,63,DET 44,0,NO,
+19,4004,1,02:00,"(2:00) (Shotgun) D.Brees pass deep middle to C.Fleener to NO 45 for 23 yards (M.Killebrew). Pass 20, YAC 3",10,4,34,NO 22,0,NO,
+19,3955,2,02:17,"(2:17) (No Huddle, Shotgun) D.Brees pass short middle to T.Cadet to NO 22 for 4 yards (A.Barnes). Pass 3, YAC 1",3,4,11,NO 18,0,NO,
+19,4192,1,00:37,"(:37) (Shotgun) D.Brees pass short middle to M.Thomas to DET 16 for 10 yards (J.Bynes). Pass 6, YAC 4",10,4,73,DET 26,0,NO,
+19,4119,3,01:08,"(1:08) (No Huddle, Shotgun) D.Brees pass short left to T.Cadet to DET 44 for 11 yards (J.Bynes; R.Bush). Pass 4, YAC 7",10,4,45,NO 45,0,NO,
+19,4220,1,00:18,"(:18) (No Huddle, Shotgun) D.Brees pass short middle to C.Fleener to DET 9 for 7 yards (M.Killebrew). Pass 6, YAC 1",10,4,80,DET 16,0,NO,
+19,4297,3,00:02,(:02) (Shotgun) D.Brees pass deep right intended for C.Fleener INTERCEPTED by M.Killebrew [K.Hyder] at DET -3. M.Killebrew to DET 4 for 7 yards (T.Cadet).,8,4,75,DET 14,0,NO,INT
+19,4028,1,01:41,"(1:41) (No Huddle, Shotgun) D.Brees pass deep right to B.Cooks ran ob at DET 23 for 32 yards. PENALTY on NO-J.Evans, Offensive Holding, 10 yards, enforced at NO 45 - No Play.",10,4,24,NO 45,0,NO,PENALTY
+19,3983,0,02:00,Two-Minute Warning,0,4,11,,0,,
+18,3822,2,03:51,(3:51) (Shotgun) Z.Zenner right end to NO 48 for -1 yards (S.Anthony).,9,4,8,NO 47,0,DET,
+18,3911,4,02:48,"(2:48) S.Martin punts 32 yards to NO 11, Center-D.Muhlbach, fair catch by J.Byrd.",5,4,13,NO 43,0,DET,PUNT
+18,3769,2,04:41,"(4:41) (Shotgun) Z.Zenner left tackle to DET 47 for 2 yards (D.Onyemata). PENALTY on NO-P.Kruger, Illegal Use of Hands, 5 yards, enforced at DET 47.",9,4,8,DET 45,0,DET,PENALTY
+18,3744,1,05:23,(5:23) Z.Zenner right tackle to DET 45 for 1 yard (D.Tapp).,10,4,1,DET 44,0,DET,
+18,3867,0,02:48,Timeout #2 by NO at 02:48.,0,4,17,,0,,TIMEOUT
+18,3888,4,02:48,"(2:48) (Run formation) PENALTY on DET-M.Stafford, Delay of Game, 4 yards, enforced at NO 39 - No Play.",1,4,13,NO 39,0,DET,PENALTY
+18,3843,3,03:07,"(3:07) (Shotgun) M.Stafford pass short right to G.Tate to NO 39 for 9 yards (S.Moore). Pass -2, YAC 11",10,4,17,NO 48,0,DET,
+18,3801,1,04:35,(4:35) Z.Zenner right guard to NO 47 for 1 yard (K.Vaccaro).,10,4,9,NO 48,0,DET,
+1,146,4,13:30,"(13:30) T.Morstead punts 46 yards to DET 47, Center-J.Drescher, out of bounds.",21,1,-11,NO 7,0,NO,PUNT
+1,57,1,14:56,"(14:56) (Shotgun) D.Brees pass short right to M.Ingram to NO 21 for 3 yards (G.Quin; N.Lawson). Pass -4, YAC 7",10,1,3,NO 18,0,NO,
+1,81,2,14:17,"(14:17) (Shotgun) D.Brees pass short left to M.Ingram ran ob at NO 27 for 6 yards (G.Quin). Pass -7, YAC 13",7,1,9,NO 21,0,NO,
+1,35,0,15:00,S.Martin kicks 64 yards from DET 35 to NO 1. T.Lewis to NO 18 for 17 yards (M.Killebrew).,0,1,0,DET 35,0,DET,KICKOFF
+1,109,3,13:36,"(13:36) (Shotgun) D.Brees to NO 23 for -4 yards. FUMBLES, and recovers at NO 11. D.Brees pass incomplete left. PENALTY on NO-D.Brees, Intentional Grounding, 20 yards, enforced at NO 27. Brees fumbled the exchange from center and had to scramble to recover the ball, then threw to an offensive lineman.",1,1,-11,NO 27,0,NO,FUMBLE
+3,441,1,07:53,(7:53) T.Lelito reported in as eligible.  M.Ingram right tackle to NO 45 for 7 yards (J.Bynes).,10,1,22,NO 38,0,NO,
+3,466,2,07:22,(7:22) (Shotgun) M.Ingram right guard to NO 47 for 2 yards (K.Thornton).,3,1,22,NO 45,0,NO,
+3,535,4,05:37,"(5:37) T.Morstead punts 50 yards to DET 8, Center-J.Drescher, downed by NO-C.Banjo.",6,1,17,NO 42,0,NO,PUNT
+3,382,0,08:14,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,1,0,DET 35,0,DET,KICKOFF
+3,509,4,05:45,"(5:45) (Run formation) PENALTY on NO-D.Brees, Delay of Game, 5 yards, enforced at NO 47 - No Play.",1,1,17,NO 47,0,NO,PENALTY
+3,487,3,06:49,(6:49) T.Hightower left tackle to NO 47 for no gain (H.Ngata; B.Copeland).,1,1,22,NO 47,0,NO,
+3,398,1,08:14,"(8:14) (Shotgun) D.Brees pass short right to C.Fleener to NO 38 for 13 yards (G.Quin). Penalty on DET-Q.Diggs, Defensive Holding, declined. Pass 7, YAC 6",10,1,17,NO 25,0,NO,
+2,214,1,12:00,(12:00) D.Washington left tackle to NO 39 for 3 yards (D.Breaux).,10,1,14,NO 42,0,DET,
+2,193,2,12:42,(12:42) (Shotgun) T.Riddick right guard to NO 42 for 2 yards (P.Kruger).,1,1,44,NO 44,0,DET,
+2,321,2,09:47,(9:47) (Shotgun) M.Stafford scrambles right end to NO 6 for 9 yards (J.Byrd; N.Fairley).,10,1,47,NO 15,0,DET,
+2,267,1,10:36,"(10:36) M.Stafford pass short right to A.Roberts to NO 15 for 16 yards (J.Byrd). Pass 8, YAC 8",10,1,38,NO 31,0,DET,
+2,239,2,11:21,"(11:21) (Shotgun) M.Stafford pass short right to D.Washington to NO 31 for 8 yards (S.Moore). Pass -5, YAC 13",7,1,44,NO 39,0,DET,
+2,342,3,08:57,(8:57) (Shotgun) T.Riddick left tackle to NO 9 for -3 yards (C.Robertson).,1,1,44,NO 6,0,DET,
+2,165,1,13:23,"(13:23) (Shotgun) M.Stafford pass short middle to G.Tate to NO 44 for 9 yards (D.Ellerbe). Pass -4, YAC 13",10,1,44,DET 47,0,DET,
+2,363,4,08:18,"(8:18) M.Prater 27 yard field goal is GOOD, Center-D.Muhlbach, Holder-S.Martin.",4,1,44,NO 9,1,DET,FG
+2,291,1,09:52,(9:52) (Shotgun) M.Stafford pass incomplete short left to T.Jones (S.Moore).,10,1,44,NO 15,0,DET,
+5,1024,3,11:10,"(11:10) (Shotgun) D.Brees pass short left to J.Hill to NO 40 for 3 yards (K.Hyder; J.Bynes) [Q.Diggs]. NO-J.Hill was injured during the play. His return is Doubtful.  Pass 3, YAC 0",10,2,15,NO 37,0,NO,
+5,900,0,13:03,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,2,0,DET 35,0,DET,KICKOFF
+5,980,1,11:19,(11:19) D.Brees pass incomplete short left to W.Snead.,10,2,12,NO 37,0,NO,
+5,1048,4,10:54,"(10:54) T.Morstead punts 47 yards to DET 13, Center-J.Drescher, downed by NO-T.Lewis.",7,2,15,NO 40,0,NO,PUNT
+5,957,3,11:54,(11:54) T.Lelito reported in as eligible.  J.Kuhn left tackle to NO 37 for 3 yards (A.Robinson).,1,2,12,NO 34,0,NO,
+5,936,2,12:32,(12:32) T.Hightower left tackle to NO 34 for 5 yards (N.Lawson).,6,2,9,NO 29,0,NO,
+5,915,1,13:03,(13:03) B.Cooks left end to NO 29 for 4 yards (A.Williams).,10,2,4,NO 25,0,NO,
+5,1002,2,11:14,(11:14) (Shotgun) D.Brees pass incomplete short middle to J.Hill (A.Robinson).,10,2,15,NO 37,0,NO,
+4,605,1,04:11,(4:11) (Shotgun) D.Washington left guard to DET 26 for 3 yards (D.Ellerbe).,10,1,18,DET 23,0,DET,
+4,630,2,03:26,"(3:26) (Shotgun) M.Stafford pass short left to T.Riddick to DET 27 for 1 yard (C.Robertson). Pass 0, YAC 1",7,1,19,DET 26,0,DET,
+4,880,0,13:03,"M.Prater extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin.",0,2,92,NO 15,1,DET,XP
+4,775,1,15:00,"(15:00) (Shotgun) M.Stafford pass short left to A.Roberts to NO 48 for 8 yards (D.Breaux). Pass 6, YAC 2",10,2,44,DET 44,0,DET,
+4,555,1,05:28,(5:28) (Shotgun) D.Washington left guard to DET 12 for 4 yards (S.Rankins).,10,1,4,DET 8,0,DET,
+4,705,1,01:26,"(1:26) (Shotgun) M.Stafford pass short right to T.Jones to DET 39 for 5 yards (S.Moore; V.Bell). Pass -1, YAC 6",10,1,31,DET 34,0,DET,
+4,758,0,,END QUARTER 1,0,1,36,,0,,
+4,577,2,04:50,"(4:50) M.Stafford pass short left to D.Washington pushed ob at DET 23 for 11 yards (D.Ellerbe). Pass 2, YAC 9",6,1,15,DET 12,0,DET,
+4,733,2,00:47,(:47) D.Washington right tackle to DET 44 for 5 yards (C.Robertson).,5,1,36,DET 39,0,DET,
+4,799,2,14:20,"(14:20) (Shotgun) M.Stafford pass deep left to G.Tate to NO 13 for 35 yards (D.Breaux). Pass 28, YAC 7",2,2,79,NO 48,0,DET,
+4,859,1,13:05,"(13:05) (Shotgun) M.Stafford pass short left to T.Riddick for 1 yard, TOUCHDOWN. Pass 1, YAC 0",1,2,92,NO 1,1,DET,TD
+4,654,3,02:39,"(2:39) (Shotgun) PENALTY on DET-G.Glasgow, False Start, 5 yards, enforced at DET 27 - No Play.",6,1,14,DET 27,0,DET,PENALTY
+4,827,1,13:52,"(13:52) (Shotgun) M.Stafford pass short middle to A.Boldin to NO 1 for 12 yards (J.Byrd). Pass 11, YAC 1",10,2,91,NO 13,0,DET,
+4,681,3,02:15,"(2:15) (Shotgun) M.Stafford pass short middle to E.Ebron to DET 34 for 12 yards (V.Bell). Pass 12, YAC 0",11,1,26,DET 22,0,DET,
+7,1278,1,07:05,"(7:05) D.Brees pass short middle to T.Hightower to DET 27 for 4 yards (J.Bynes) [K.Hyder]. Pass 2, YAC 2",20,2,21,DET 31,0,NO,
+7,1358,4,05:11,"(5:11) W.Lutz 40 yard field goal is GOOD, Center-J.Drescher, Holder-T.Morstead.",11,2,26,DET 22,1,NO,FG
+7,1223,2,08:08,(8:08) T.Lelito reported in as eligible.  M.Ingram right end to DET 21 for 22 yards (G.Quin).,5,2,27,DET 43,0,NO,
+7,1302,2,06:24,"(6:24) (Shotgun) D.Brees pass short left to M.Ingram ran ob at DET 24 for 3 yards (J.Bynes). Pass -6, YAC 9",16,2,24,DET 27,0,NO,
+7,1330,3,05:49,"(5:49) (Shotgun) D.Brees pass short right to M.Thomas to DET 22 for 2 yards (K.Hyder; E.Ansah). Pass -3, YAC 5",13,2,26,DET 24,0,NO,
+7,1179,1,08:50,"(8:50) PENALTY on DET-D.Taylor, Neutral Zone Infraction, 5 yards, enforced at DET 48 - No Play.",10,2,5,DET 48,0,NO,PENALTY
+7,1202,1,08:50,(8:50) M.Ingram left tackle to DET 43 for no gain (T.Walker).,5,2,5,DET 43,0,NO,
+7,1246,1,07:28,"(7:28) M.Ingram left guard to DET 20 for 1 yard (A.Williams). PENALTY on NO-S.Kelemete, Offensive Holding, 10 yards, enforced at DET 21 - No Play.",10,2,17,DET 21,0,NO,PENALTY
+6,1076,1,10:42,(10:42) D.Washington left tackle to DET 15 for 2 yards (J.Byrd). DET-E.Ebron was injured during the play. His return is Questionable.,10,2,2,DET 13,0,DET,
+6,1097,2,10:18,"(10:18) (Shotgun) M.Stafford pass short right to G.Tate to DET 12 for -3 yards (K.Vaccaro). Pass -3, YAC 0",8,2,-1,DET 15,0,DET,
+6,1125,3,09:34,(9:34) (Shotgun) M.Stafford pass short right to T.Riddick to DET 19 for 7 yards (K.Vaccaro).,11,2,6,DET 12,0,DET,
+6,1153,4,09:02,"(9:02) S.Martin punts 53 yards to NO 28, Center-D.Muhlbach. T.Lewis to DET 48 for 24 yards (T.Wilson).",4,2,6,DET 19,0,DET,PUNT
+9,1817,1,00:45,(:45) (Shotgun) D.Brees pass incomplete short left to T.Cadet.,10,2,15,NO 26,0,NO,
+9,1940,1,00:09,(:09) (Shotgun) D.Brees pass incomplete short middle to C.Fleener.,10,2,75,DET 14,0,NO,
+9,1839,2,00:42,"(:42) (Shotgun) D.Brees pass short right to B.Cooks to NO 30 for 4 yards (N.Lawson). Pass -2, YAC 6",10,2,58,NO 26,0,NO,
+9,1784,1,00:49,"(:49) (Shotgun) D.Brees pass incomplete short right to C.Fleener [A.Bryant]. PENALTY on DET-K.Hyder, Roughing the Passer, 15 yards, enforced at NO 11 - No Play.",10,2,15,NO 11,0,NO,PENALTY
+9,1962,2,00:05,"(:05) W.Lutz 32 yard field goal is GOOD, Center-J.Drescher, Holder-T.Morstead.",10,2,75,DET 14,1,NO,FG
+9,1887,0,00:15,Timeout #2 by NO at 00:15.,0,2,58,,0,,TIMEOUT
+9,1863,3,00:21,"(:21) (No Huddle, Shotgun) D.Brees pass deep middle to B.Cooks to DET 31 for 39 yards (R.Bush) [E.Ansah]. Pass 37, YAC 2",6,2,58,NO 30,0,NO,
+9,1762,0,00:56,S.Martin kicks 63 yards from DET 35 to NO 2. T.Lewis to NO 11 for 9 yards (A.Barnes).,0,2,58,DET 35,0,DET,KICKOFF
+9,1904,1,00:15,"(:15) (Shotgun) D.Brees pass short right to T.Cadet pushed ob at DET 14 for 17 yards (D.Slay). Pass -5, YAC 22",10,2,75,DET 31,0,NO,
+8,1716,3,01:02,(1:02) (Shotgun) M.Stafford pass incomplete short left to T.Riddick [D.Ellerbe].,7,2,64,NO 11,0,DET,
+8,1637,1,01:46,"(1:46) (Shotgun) M.Stafford pass short right to E.Ebron to NO 14 for 12 yards (K.Vaccaro). Pass 7, YAC 5",10,2,64,NO 26,0,DET,
+8,1616,0,01:46,Timeout #1 by NO at 01:46.,0,2,64,,0,,TIMEOUT
+8,1694,2,01:06,(1:06) (Shotgun) M.Stafford pass incomplete short left to G.Tate.,7,2,64,NO 11,0,DET,
+8,1439,3,03:34,"(3:34) (Shotgun) M.Stafford pass incomplete short left to A.Boldin [V.Bell]. PENALTY on NO-D.Breaux, Defensive Pass Interference, 8 yards, enforced at DET 32 - No Play.",3,2,15,DET 32,0,DET,PENALTY
+8,1525,1,02:05,"(2:05) (Shotgun) M.Stafford pass short left to A.Roberts to NO 37 for 10 yards (D.Breaux). Pass 8, YAC 2",10,2,38,NO 47,0,DET,
+8,1500,2,02:46,(2:46) D.Washington left tackle to NO 47 for 4 yards (J.Byrd).,1,2,28,DET 49,0,DET,
+8,1476,1,03:29,"(3:29) (Shotgun) M.Stafford pass short middle to G.Tate to DET 49 for 9 yards (J.Byrd). Pass 6, YAC 3",10,2,24,DET 40,0,DET,
+8,1661,1,01:12,"(1:12) (No Huddle, Shotgun) M.Stafford pass short right to E.Ebron pushed ob at NO 11 for 3 yards (K.Vaccaro). Pass 0, YAC 3",10,2,64,NO 14,0,DET,
+8,1592,2,01:54,"(1:54) (Shotgun) M.Stafford pass short right to E.Ebron to NO 26 for 11 yards (J.Byrd). Pass 6, YAC 5",10,2,49,NO 37,0,DET,
+8,1396,1,05:05,(5:05) (Shotgun) M.Stafford sacked at DET 24 for -1 yards (D.Ellerbe).,10,2,-1,DET 25,0,DET,
+8,1549,0,01:59,Two-Minute Warning,0,2,38,,0,,
+8,1742,4,00:59,"(:59) M.Prater 29 yard field goal is GOOD, Center-D.Muhlbach, Holder-S.Martin.",7,2,64,NO 11,1,DET,FG
+8,1381,0,05:05,"W.Lutz kicks 65 yards from NO 35 to end zone, Touchback.",0,2,0,NO 35,0,NO,KICKOFF
+8,1566,1,01:59,(1:59) (Shotgun) M.Stafford pass incomplete deep middle to E.Ebron.,10,2,38,NO 37,0,DET,
+8,1415,2,04:18,"(4:18) M.Stafford pass short left to T.Jones to DET 32 for 8 yards (D.Breaux). Pass -1, YAC 9",11,2,7,DET 24,0,DET,

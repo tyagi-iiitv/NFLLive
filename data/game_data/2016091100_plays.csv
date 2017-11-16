@@ -1,178 +1,178 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1282,1,09:10,,10,2,30,ATL 39,0,ATL,
-9,1237,1,10:25,,10,2,0,ATL 25,0,ATL,
-9,1218,0,10:25,,0,2,0,TB 35,0,TB,KICKOFF
-9,1348,3,07:07,,9,2,31,TB 44,0,ATL,
-9,1258,2,09:47,,10,2,14,ATL 25,0,ATL,
-9,1370,4,07:03,,9,2,31,TB 44,0,ATL,PUNT
-9,1327,2,07:46,,13,2,31,TB 48,0,ATL,
-9,1306,1,08:29,,10,2,27,TB 45,0,ATL,
-24,3939,1,01:10,,10,4,-2,ATL 28,0,TB,
-24,3960,2,00:36,,12,4,-4,ATL 30,0,TB,
-24,3981,0,00:00,,0,4,-4,,0,,
-10,1478,4,05:08,,10,2,0,TB 9,0,TB,PUNT
-10,1443,3,05:32,,3,2,0,TB 16,0,TB,PENALTY
-10,1419,2,06:17,,7,2,7,TB 12,0,TB,
-10,1398,1,06:54,,10,2,3,TB 9,0,TB,
-20,3204,2,10:49,,10,4,4,TB 8,0,TB,
-20,3230,3,10:07,,6,4,4,TB 12,0,TB,
-20,3180,1,11:33,,10,4,0,TB 8,0,TB,
-20,3252,4,10:02,,6,4,4,TB 12,0,TB,PUNT
-6,668,1,04:18,,10,1,5,TB 9,0,TB,
-6,721,2,03:32,,12,1,-5,TB 7,0,TB,PENALTY
-6,744,2,02:41,,15,1,-5,TB 4,0,TB,INT
-6,689,2,03:39,,5,1,-2,TB 14,0,TB,PENALTY
-18,2899,0,01:35,,0,3,0,ATL 35,0,ATL,KICKOFF
-18,3000,4,15:00,,2,4,8,TB 33,0,TB,PUNT
-18,2942,2,00:54,,2,3,8,TB 33,0,TB,
-18,2984,0,,,0,3,8,,0,,
-18,2963,3,00:13,,2,3,8,TB 33,0,TB,
-18,2918,1,01:35,,10,3,8,TB 25,0,TB,
-1,100,3,13:40,,9,1,9,ATL 20,0,ATL,
-1,58,1,14:55,,10,1,1,ATL 19,0,ATL,
-1,79,2,14:20,,9,1,1,ATL 20,0,ATL,
-1,36,0,15:00,,0,1,0,TB 35,0,TB,KICKOFF
-1,124,4,13:04,,1,1,9,ATL 28,0,ATL,PUNT
-5,649,4,04:25,,4,1,6,ATL 42,0,ATL,PUNT
-5,596,2,05:30,,10,1,3,ATL 36,0,ATL,
-5,617,3,04:46,,7,1,6,ATL 39,0,ATL,
-5,574,1,05:34,,10,1,0,ATL 36,0,ATL,
-13,2035,1,00:14,,10,2,-1,ATL 25,0,ATL,
-13,2056,0,,,0,2,-1,,0,,
-13,2020,0,00:14,,0,2,0,TB 35,0,TB,KICKOFF
-21,3299,2,09:13,,7,4,24,ATL 43,0,ATL,
-21,3497,3,05:04,,8,4,49,TB 11,0,ATL,
-21,3455,1,06:18,,10,4,49,TB 13,0,ATL,
-21,3438,0,06:18,,0,4,47,,0,,TIMEOUT
-21,3392,2,06:46,,12,4,35,TB 25,0,ATL,
-21,3519,4,04:59,,8,4,49,TB 11,1,ATL,FG
-21,3277,1,09:49,,10,4,3,ATL 40,0,ATL,
-21,3476,2,05:40,,3,4,49,TB 6,0,ATL,
-21,3368,1,07:25,,10,4,35,TB 23,0,ATL,
-21,3323,1,08:38,,10,4,21,TB 36,0,ATL,
-21,3414,3,06:42,,12,4,47,TB 25,0,ATL,
-21,3344,2,07:59,,13,4,37,TB 39,0,ATL,
-23,3851,1,01:29,,10,4,19,ATL 28,0,ATL,
-23,3873,2,01:26,,10,4,19,ATL 28,0,ATL,
-23,3827,1,01:52,,10,4,19,ATL 9,0,ATL,
-23,3895,3,01:22,,10,4,19,ATL 28,0,ATL,
-23,3917,4,01:17,,10,4,19,ATL 28,0,ATL,
-11,1589,2,02:52,,7,2,49,TB 7,0,ATL,
-11,1653,3,02:00,,17,2,45,TB 17,0,ATL,
-11,1544,3,04:15,,6,2,51,ATL 43,0,ATL,
-11,1691,4,01:50,,16,2,45,TB 16,1,ATL,FG
-11,1501,1,04:59,,10,2,0,ATL 39,0,ATL,
-11,1568,1,03:30,,10,2,54,TB 10,0,ATL,
-11,1636,0,02:00,,0,2,44,,0,,
-11,1523,2,04:53,,10,2,4,ATL 39,0,ATL,
-11,1613,3,02:10,,12,2,44,TB 12,0,ATL,PENALTY
-11,1674,0,01:50,,0,2,45,,0,,TIMEOUT
-14,2160,1,13:02,,10,3,75,ATL 30,1,TB,TD
-14,2072,0,15:00,,0,3,0,ATL 35,0,ATL,KICKOFF
-14,2180,0,12:54,,0,3,75,ATL 15,1,TB,XP
-14,2091,1,15:00,,10,3,15,TB 25,0,TB,
-14,2115,1,14:23,,10,3,18,TB 40,0,TB,
-14,2136,2,13:45,,7,3,45,TB 43,0,TB,
-8,975,0,,,0,1,4,,0,,
-8,1182,2,10:31,,4,2,75,ATL 4,1,TB,TD
-8,1071,1,13:12,,10,2,34,ATL 48,0,TB,
-8,1161,1,11:07,,6,2,71,ATL 6,0,TB,
-8,1202,0,10:25,,0,2,75,ATL 15,1,TB,XP
-8,1116,1,12:14,,10,2,43,ATL 34,0,TB,
-8,1047,1,13:58,,10,2,27,TB 38,0,TB,
-8,1095,2,12:48,,3,2,41,ATL 41,0,TB,
-8,932,0,00:11,,0,1,0,ATL 35,0,ATL,KICKOFF
-8,951,1,00:11,,10,1,4,TB 25,0,TB,
-8,1015,3,14:20,,2,2,13,TB 33,0,TB,PENALTY
-8,1137,2,11:40,,8,2,69,ATL 32,0,TB,
-8,991,2,15:00,,6,2,34,TB 29,0,TB,
-19,3110,2,12:56,,10,4,32,ATL 40,0,ATL,
-19,3019,1,14:52,,10,4,30,ATL 15,0,ATL,
-19,3131,3,12:21,,3,4,30,ATL 47,0,ATL,
-19,3088,1,13:04,,10,4,25,ATL 40,0,ATL,
-19,3043,2,14:10,,3,4,15,ATL 22,0,ATL,
-19,3150,4,11:41,,5,4,30,ATL 45,0,ATL,PUNT
-19,3067,1,13:36,,10,4,25,ATL 30,0,ATL,
-22,3666,3,03:10,,3,4,25,TB 37,0,TB,
-22,3649,0,03:10,,0,4,20,,0,,TIMEOUT
-22,3753,0,02:23,,0,4,30,,0,,TIMEOUT
-22,3791,0,02:00,,0,4,33,,0,,
-22,3581,2,04:06,,1,4,13,TB 26,0,TB,
-22,3628,2,03:14,,3,4,20,TB 37,0,TB,
-22,3770,3,02:23,,5,4,33,TB 47,0,TB,
-22,3707,1,03:04,,10,4,27,TB 42,0,TB,
-22,3728,2,02:27,,8,4,30,TB 44,0,TB,
-22,3808,4,02:00,,2,4,33,50,0,TB,PUNT
-22,3538,0,04:55,,0,4,0,ATL 35,0,ATL,KICKOFF
-22,3560,1,04:50,,10,4,9,TB 17,0,TB,
-22,3690,0,03:04,,0,4,25,,0,,TIMEOUT
-22,3602,1,03:22,,10,4,20,TB 30,0,TB,
-12,1834,2,01:07,,3,2,34,ATL 45,0,TB,
-12,1751,2,01:40,,10,2,6,TB 25,0,TB,
-12,1919,3,00:48,,10,2,45,ATL 41,0,TB,
-12,1967,0,00:25,,0,2,52,,0,,TIMEOUT
-12,1875,1,00:59,,10,2,34,ATL 41,0,TB,
-12,1984,2,00:24,,3,2,75,ATL 23,1,TB,TD
-12,1897,2,00:52,,10,2,34,ATL 41,0,TB,
-12,1858,0,00:59,,0,2,34,,0,,TIMEOUT
-12,1729,1,01:45,,10,2,0,TB 25,0,TB,
-12,2004,0,00:14,,0,2,75,ATL 15,1,TB,XP
-12,1810,1,01:28,,10,2,30,TB 48,0,TB,
-12,1775,3,01:33,,4,2,23,TB 31,0,TB,
-12,1710,0,01:45,,0,2,0,ATL 35,0,ATL,KICKOFF
-12,1943,1,00:29,,10,2,52,ATL 30,0,TB,
-16,2620,2,05:21,,11,3,92,ATL 45,1,TB,TD
-16,2481,3,07:46,,8,3,92,TB 10,0,TB,PENALTY
-16,2578,1,06:41,,10,3,48,TB 39,0,TB,
-16,2599,1,06:05,,10,3,47,ATL 44,0,TB,
-16,2640,0,05:12,,0,3,92,ATL 15,1,TB,XP
-16,2557,2,07:10,,1,3,31,TB 34,0,TB,
-16,2459,2,07:51,,8,3,2,TB 10,0,TB,
-16,2438,1,08:28,,10,3,2,TB 8,0,TB,
-16,2536,1,07:42,,10,3,26,TB 25,0,TB,
-7,849,3,01:13,,1,1,12,TB 4,0,ATL,
-7,804,1,02:31,,15,1,6,TB 18,0,ATL,
-7,873,1,01:06,,1,1,8,TB 1,0,ATL,PENALTY
-7,828,2,01:51,,4,1,9,TB 7,0,ATL,
-7,896,1,00:16,,5,1,13,TB 5,1,ATL,TD
-7,916,0,00:11,,0,1,13,TB 15,1,ATL,XP
-7,781,1,02:31,,10,1,-5,TB 13,0,ATL,PENALTY
-3,330,0,09:52,,0,1,0,TB 35,0,TB,KICKOFF
-3,421,3,07:54,,6,1,59,TB 12,0,ATL,
-3,373,1,09:11,,10,1,63,TB 16,0,ATL,
-3,349,1,09:52,,10,1,59,ATL 25,0,ATL,
-3,440,4,07:13,,10,1,59,TB 16,1,ATL,FG
-3,397,2,08:34,,6,1,63,TB 12,0,ATL,
-17,2775,4,03:48,,3,3,31,50,0,ATL,
-17,2885,0,01:35,,0,3,71,TB 2,1,ATL,2PS
-17,2656,0,05:12,,0,3,0,TB 35,0,TB,KICKOFF
-17,2678,1,05:06,,10,3,14,ATL 29,0,ATL,
-17,2753,3,03:52,,3,3,21,50,0,ATL,
-17,2729,2,04:27,,10,3,21,ATL 43,0,ATL,
-17,2823,2,02:48,,3,3,46,TB 33,0,ATL,
-17,2844,1,02:08,,10,3,46,TB 25,0,ATL,
-17,2865,2,01:42,,10,3,71,TB 25,1,ATL,TD
-17,2707,1,04:33,,10,3,14,ATL 43,0,ATL,
-17,2799,1,03:24,,10,3,38,TB 40,0,ATL,
-4,545,4,05:46,,3,1,7,TB 32,0,TB,PUNT
-4,459,0,07:08,,0,1,0,ATL 35,0,ATL,KICKOFF
-4,499,2,06:32,,10,1,0,TB 25,0,TB,
-4,478,1,07:08,,10,1,0,TB 25,0,TB,
-4,521,3,06:28,,10,1,7,TB 25,0,TB,
-2,168,2,12:11,,8,1,6,TB 40,0,TB,
-2,289,3,10:02,,16,1,37,ATL 25,0,TB,
-2,192,3,11:30,,4,1,31,TB 44,0,TB,PENALTY
-2,225,1,11:25,,10,1,43,ATL 31,0,TB,
-2,267,2,10:06,,16,1,37,ATL 25,0,TB,
-2,311,4,09:57,,16,1,37,ATL 25,1,TB,FG
-2,147,1,12:54,,10,1,2,TB 38,0,TB,
-2,246,1,10:53,,10,1,37,ATL 19,0,TB,
-15,2287,1,11:00,,10,3,39,TB 49,0,ATL,PENALTY
-15,2218,1,12:47,,10,3,19,ATL 21,0,ATL,
-15,2242,1,12:16,,10,3,25,ATL 40,0,ATL,
-15,2362,3,09:03,,14,3,29,TB 44,0,ATL,PENALTY
-15,2317,1,10:28,,10,3,40,TB 40,0,ATL,
-15,2196,0,12:54,,0,3,0,TB 35,0,TB,KICKOFF
-15,2263,2,11:40,,4,3,30,ATL 46,0,ATL,
-15,2397,4,08:36,,20,3,29,50,0,ATL,PUNT
-15,2338,2,09:49,,9,3,35,TB 39,0,ATL,
+24,3939,1,01:10,(1:10) J.Winston kneels to ATL 30 for -2 yards.,10,4,-2,ATL 28,0,TB,
+24,3981,0,00:00,END GAME,0,4,-4,,0,,
+24,3960,2,00:36,(:36) J.Winston kneels to ATL 32 for -2 yards.,12,4,-4,ATL 30,0,TB,
+20,3230,3,10:07,(10:07) (Shotgun) J.Winston pass incomplete short right to M.Evans.,6,4,4,TB 12,0,TB,
+20,3204,2,10:49,(10:49) (Shotgun) J.Winston scrambles right end ran ob at TB 12 for 4 yards (D.Jones).,10,4,4,TB 8,0,TB,
+20,3180,1,11:33,(11:33) C.Sims right tackle to TB 8 for no gain (J.Babineaux).,10,4,0,TB 8,0,TB,
+20,3252,4,10:02,"(10:02) B.Anger punts 57 yards to ATL 31, Center-A.DePaola. E.Weems to ATL 40 for 9 yards (A.Glanton).",6,4,4,TB 12,0,TB,PUNT
+21,3438,0,06:18,Timeout #1 by TB at 06:18.,0,4,47,,0,,TIMEOUT
+21,3476,2,05:40,(5:40) D.Freeman left end to TB 11 for -5 yards (L.David).,3,4,49,TB 6,0,ATL,
+21,3392,2,06:46,(6:46) (Shotgun) M.Ryan pass incomplete short left to J.Jones (G.McCoy).,12,4,35,TB 25,0,ATL,
+21,3368,1,07:25,(7:25) M.Ryan pass short middle to J.Tamme to TB 25 for -2 yards (K.Alexander).,10,4,35,TB 23,0,ATL,
+21,3455,1,06:18,(6:18) D.Freeman left guard to TB 6 for 7 yards (K.Tandy).,10,4,49,TB 13,0,ATL,
+21,3497,3,05:04,(5:04) (Shotgun) M.Ryan pass incomplete short right to T.Coleman (J.Adjei-Barimah).,8,4,49,TB 11,0,ATL,
+21,3519,4,04:59,"(4:59) M.Bryant 29 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher.",8,4,49,TB 11,1,ATL,FG
+21,3344,2,07:59,(7:59) (Shotgun) M.Ryan pass short right to T.Coleman to TB 23 for 16 yards (B.McDougald).,13,4,37,TB 39,0,ATL,
+21,3277,1,09:49,(9:49) T.Coleman right end to ATL 43 for 3 yards (B.McDougald).,10,4,3,ATL 40,0,ATL,
+21,3414,3,06:42,(6:42) (Shotgun) M.Ryan pass short middle to J.Tamme to TB 13 for 12 yards (K.Tandy).,12,4,47,TB 25,0,ATL,
+21,3323,1,08:38,(8:38) D.Freeman right end to TB 39 for -3 yards (G.McCoy).,10,4,21,TB 36,0,ATL,
+21,3299,2,09:13,(9:13) M.Ryan pass short left to T.Coleman pushed ob at TB 36 for 21 yards (K.Alexander).,7,4,24,ATL 43,0,ATL,
+22,3628,2,03:14,(3:14) D.Martin right tackle to TB 37 for no gain (D.Shelby).,3,4,20,TB 37,0,TB,
+22,3560,1,04:50,"(4:50) D.Martin left tackle to TB 26 for 9 yards (R.Allen, K.Ishmael).",10,4,9,TB 17,0,TB,
+22,3666,3,03:10,(3:10) (Shotgun) J.Winston pass short right to C.Sims to TB 42 for 5 yards (D.Trufant).,3,4,25,TB 37,0,TB,
+22,3808,4,02:00,"(2:00) B.Anger punts 41 yards to ATL 9, Center-A.DePaola, fair catch by E.Weems.",2,4,33,50,0,TB,PUNT
+22,3602,1,03:22,(3:22) A.Humphries right end pushed ob at TB 37 for 7 yards (R.Allen; R.Alford).,10,4,20,TB 30,0,TB,
+22,3690,0,03:04,Timeout #2 by ATL at 03:04.,0,4,25,,0,,TIMEOUT
+22,3581,2,04:06,(4:06) D.Martin right guard to TB 30 for 4 yards (D.Trufant).,1,4,13,TB 26,0,TB,
+22,3791,0,02:00,Two-Minute Warning,0,4,33,,0,,
+22,3770,3,02:23,(2:23) (Shotgun) J.Winston right tackle to 50 for 3 yards (D.Campbell).,5,4,33,TB 47,0,TB,
+22,3728,2,02:27,(2:27) D.Martin right tackle to TB 47 for 3 yards (D.Jones).,8,4,30,TB 44,0,TB,
+22,3649,0,03:10,Timeout #1 by ATL at 03:10.,0,4,20,,0,,TIMEOUT
+22,3538,0,04:55,M.Bosher kicks 60 yards from ATL 35 to TB 5. A.Humphries to TB 17 for 12 yards (E.Weems).,0,4,0,ATL 35,0,ATL,KICKOFF
+22,3753,0,02:23,Timeout #3 by ATL at 02:23.,0,4,30,,0,,TIMEOUT
+22,3707,1,03:04,(3:04) C.Sims left end to TB 44 for 2 yards (J.Babineaux). ATL-B.Reed was injured during the play.,10,4,27,TB 42,0,TB,
+23,3827,1,01:52,(1:52) (Shotgun) M.Ryan pass deep middle to J.Tamme to ATL 28 for 19 yards (C.Conte).,10,4,19,ATL 9,0,ATL,
+23,3895,3,01:22,(1:22) (Shotgun) M.Ryan pass incomplete deep left to M.Sanu.,10,4,19,ATL 28,0,ATL,
+23,3873,2,01:26,(1:26) (Shotgun) M.Ryan pass incomplete short middle to J.Jones.,10,4,19,ATL 28,0,ATL,
+23,3917,4,01:17,(1:17) (Shotgun) M.Ryan pass incomplete short right to J.Tamme (G.McCoy).,10,4,19,ATL 28,0,ATL,
+23,3851,1,01:29,"(1:29) (No Huddle, Shotgun) M.Ryan pass incomplete short left.",10,4,19,ATL 28,0,ATL,
+1,100,3,13:40,(13:40) (Shotgun) M.Ryan pass short left to P.DiMarco to ATL 28 for 8 yards (L.David).,9,1,9,ATL 20,0,ATL,
+1,124,4,13:04,"(13:04) M.Bosher punts 34 yards to TB 38, Center-J.Harris, downed by ATL-E.Weems.",1,1,9,ATL 28,0,ATL,PUNT
+1,36,0,15:00,R.Aguayo kicks 72 yards from TB 35 to ATL -7. E.Weems to ATL 19 for 26 yards (C.Conte).,0,1,0,TB 35,0,TB,KICKOFF
+1,79,2,14:20,(14:20) (Shotgun) D.Freeman right guard to ATL 20 for no gain (R.Ayers).,9,1,1,ATL 20,0,ATL,
+1,58,1,14:55,(14:55) D.Freeman right tackle to ATL 20 for 1 yard (K.Alexander).,10,1,1,ATL 19,0,ATL,
+3,440,4,07:13,"(7:13) M.Bryant 34 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher.",10,1,59,TB 16,1,ATL,FG
+3,330,0,09:52,"R.Aguayo kicks 65 yards from TB 35 to end zone, Touchback.",0,1,0,TB 35,0,TB,KICKOFF
+3,397,2,08:34,(8:34) (Shotgun) M.Ryan pass short right to J.Hardy to TB 12 for no gain (V.Hargreaves).,6,1,63,TB 12,0,ATL,
+3,421,3,07:54,(7:54) (Shotgun) M.Ryan sacked at TB 16 for -4 yards (R.Ayers).,6,1,59,TB 12,0,ATL,
+3,373,1,09:11,(9:11) (Shotgun) M.Ryan pass short left to M.Sanu to TB 12 for 4 yards (K.Alexander).,10,1,63,TB 16,0,ATL,
+3,349,1,09:52,(9:52) (Shotgun) M.Ryan pass deep right to M.Sanu to TB 16 for 59 yards (C.Conte).,10,1,59,ATL 25,0,ATL,
+2,147,1,12:54,(12:54) D.Martin left tackle to TB 40 for 2 yards (A.Clayborn).,10,1,2,TB 38,0,TB,
+2,311,4,09:57,"(9:57) R.Aguayo 43 yard field goal is GOOD, Center-A.DePaola, Holder-B.Anger.",16,1,37,ATL 25,1,TB,FG
+2,192,3,11:30,"(11:30) (Shotgun) J.Winston pass incomplete deep right to A.Seferian-Jenkins. PENALTY on ATL-D.Campbell, Defensive Pass Interference, 25 yards, enforced at TB 44 - No Play.",4,1,31,TB 44,0,TB,PENALTY
+2,289,3,10:02,(10:02) (Shotgun) J.Winston pass incomplete deep right to M.Evans.,16,1,37,ATL 25,0,TB,
+2,246,1,10:53,(10:53) (Shotgun) D.Martin left end to ATL 25 for -6 yards (D.Campbell).,10,1,37,ATL 19,0,TB,
+2,267,2,10:06,(10:06) (Shotgun) J.Winston pass incomplete deep right to A.Humphries [D.Jones].,16,1,37,ATL 25,0,TB,
+2,168,2,12:11,(12:11) (Shotgun) J.Winston pass short right to A.Humphries to TB 44 for 4 yards (D.Jones).,8,1,6,TB 40,0,TB,
+2,225,1,11:25,(11:25) D.Martin left guard to ATL 19 for 12 yards (B.Poole).,10,1,43,ATL 31,0,TB,
+5,649,4,04:25,"(4:25) M.Bosher punts 49 yards to TB 9, Center-J.Harris, fair catch by A.Humphries.",4,1,6,ATL 42,0,ATL,PUNT
+5,596,2,05:30,(5:30) T.Coleman right guard to ATL 39 for 3 yards (K.Alexander).,10,1,3,ATL 36,0,ATL,
+5,617,3,04:46,"(4:46) (Shotgun) M.Ryan scrambles left tackle to ATL 42 for 3 yards (K.Alexander). Penalty on ATL-J.Matthews, Illegal Use of Hands, declined.",7,1,6,ATL 39,0,ATL,
+5,574,1,05:34,(5:34) M.Ryan pass incomplete short right to M.Sanu.,10,1,0,ATL 36,0,ATL,
+4,459,0,07:08,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback.",0,1,0,ATL 35,0,ATL,KICKOFF
+4,478,1,07:08,(7:08) D.Martin left guard to TB 25 for no gain (P.Wheeler).,10,1,0,TB 25,0,TB,
+4,545,4,05:46,"(5:46) B.Anger punts 45 yards to ATL 23, Center-A.DePaola. E.Weems to ATL 36 for 13 yards (A.Glanton).",3,1,7,TB 32,0,TB,PUNT
+4,499,2,06:32,(6:32) (Shotgun) J.Winston pass incomplete short left to V.Jackson (R.Alford).,10,1,0,TB 25,0,TB,
+4,521,3,06:28,(6:28) (Shotgun) J.Winston pass short middle to D.Martin to TB 32 for 7 yards (D.Shelby) [A.Clayborn].,10,1,7,TB 25,0,TB,
+7,781,1,02:31,"(2:31) PENALTY on ATL-J.Tamme, False Start, 5 yards, enforced at TB 13 - No Play.",10,1,-5,TB 13,0,ATL,PENALTY
+7,896,1,00:16,"(:16) M.Ryan pass short middle to M.Sanu for 5 yards, TOUCHDOWN.",5,1,13,TB 5,1,ATL,TD
+7,873,1,01:06,"(1:06) PENALTY on ATL-A.Hooper, False Start, 4 yards, enforced at TB 1 - No Play.",1,1,8,TB 1,0,ATL,PENALTY
+7,849,3,01:13,"(1:13) (Shotgun) M.Ryan pass short left to J.Tamme to TB 1 for 3 yards (K.Alexander, C.Conte).",1,1,12,TB 4,0,ATL,
+7,828,2,01:51,(1:51) D.Freeman left end to TB 4 for 3 yards (Da.Smith).,4,1,9,TB 7,0,ATL,
+7,916,0,00:11,"M.Bryant extra point is GOOD, Center-J.Harris, Holder-M.Bosher.",0,1,13,TB 15,1,ATL,XP
+7,804,1,02:31,(2:31) (Shotgun) M.Ryan pass short middle to D.Freeman to TB 7 for 11 yards (K.Alexander).,15,1,6,TB 18,0,ATL,
+6,744,2,02:41,"(2:41) (Shotgun) J.Winston pass deep right intended for V.Jackson INTERCEPTED by D.Trufant at TB 22. D.Trufant to TB 13 for 9 yards (C.Sims). Penalty on TB-V.Jackson, Illegal Formation, declined.",15,1,-5,TB 4,0,TB,INT
+6,721,2,03:32,"(3:32) PENALTY on TB-J.Winston, Delay of Game, 3 yards, enforced at TB 7 - No Play.",12,1,-5,TB 7,0,TB,PENALTY
+6,689,2,03:39,"(3:39) C.Sims left guard to TB 21 for 7 yards (D.Campbell; D.Jones). PENALTY on TB-A.Marpet, Offensive Holding, 7 yards, enforced at TB 14 - No Play.",5,1,-2,TB 14,0,TB,PENALTY
+6,668,1,04:18,(4:18) C.Sims right tackle to TB 14 for 5 yards (R.Allen).,10,1,5,TB 9,0,TB,
+9,1348,3,07:07,(7:07) (Shotgun) M.Ryan pass incomplete short right to J.Hardy (B.Grimes) [K.Alexander].,9,2,31,TB 44,0,ATL,
+9,1306,1,08:29,(8:29) D.Freeman right end to TB 48 for -3 yards (L.David).,10,2,27,TB 45,0,ATL,
+9,1237,1,10:25,(10:25) T.Coleman left end to ATL 25 for no gain (Da.Smith).,10,2,0,ATL 25,0,ATL,
+9,1327,2,07:46,(7:46) (Shotgun) T.Coleman left end to TB 44 for 4 yards (Da.Smith).,13,2,31,TB 48,0,ATL,
+9,1282,1,09:10,(9:10) M.Ryan pass short right to T.Coleman to TB 45 for 16 yards (K.Alexander).,10,2,30,ATL 39,0,ATL,
+9,1218,0,10:25,"R.Aguayo kicks 65 yards from TB 35 to end zone, Touchback.",0,2,0,TB 35,0,TB,KICKOFF
+9,1370,4,07:03,"(7:03) M.Bosher punts 35 yards to TB 9, Center-J.Harris, fair catch by A.Humphries.",9,2,31,TB 44,0,ATL,PUNT
+9,1258,2,09:47,"(9:47) M.Ryan pass short left to J.Jones to ATL 39 for 14 yards (C.Conte, K.Alexander).",10,2,14,ATL 25,0,ATL,
+8,1095,2,12:48,(12:48) D.Martin right guard to ATL 34 for 7 yards (R.Allen; R.Alford).,3,2,41,ATL 41,0,TB,
+8,975,0,,END QUARTER 1,0,1,4,,0,,
+8,991,2,15:00,(15:00) J.Winston pass short right to A.Humphries pushed ob at TB 33 for 4 yards (D.Trufant).,6,2,34,TB 29,0,TB,
+8,1161,1,11:07,(11:07) D.Martin right tackle to ATL 4 for 2 yards (B.Poole; G.Jarrett).,6,2,71,ATL 6,0,TB,
+8,951,1,00:11,(:11) (Shotgun) J.Winston pass short left to M.Evans to TB 29 for 4 yards (R.Alford).,10,1,4,TB 25,0,TB,
+8,1182,2,10:31,"(10:31) J.Winston pass short right to B.Myers for 4 yards, TOUCHDOWN.",4,2,75,ATL 4,1,TB,TD
+8,1116,1,12:14,(12:14) C.Sims right guard to ATL 32 for 2 yards (C.Upshaw).,10,2,43,ATL 34,0,TB,
+8,1137,2,11:40,(11:40) (Shotgun) J.Winston pass short left to A.Humphries pushed ob at ATL 6 for 26 yards (D.Jones).,8,2,69,ATL 32,0,TB,
+8,1071,1,13:12,(13:12) J.Winston pass short right to D.Martin to ATL 41 for 7 yards (B.Poole).,10,2,34,ATL 48,0,TB,
+8,1015,3,14:20,"(14:20) (Shotgun) J.Winston scrambles right end to TB 34 for 1 yard (D.Jones). PENALTY on ATL-A.Clayborn, Defensive Offside, 5 yards, enforced at TB 33 - No Play.",2,2,13,TB 33,0,TB,PENALTY
+8,932,0,00:11,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback.",0,1,0,ATL 35,0,ATL,KICKOFF
+8,1202,0,10:25,"R.Aguayo extra point is GOOD, Center-A.DePaola, Holder-B.Anger.",0,2,75,ATL 15,1,TB,XP
+8,1047,1,13:58,(13:58) J.Winston pass short middle to D.Martin to ATL 48 for 14 yards (S.Weatherspoon) [P.Worrilow].,10,2,27,TB 38,0,TB,
+11,1544,3,04:15,(4:15) (Shotgun) M.Ryan pass short right to T.Coleman to TB 10 for 47 yards (C.Conte).,6,2,51,ATL 43,0,ATL,
+11,1589,2,02:52,(2:52) (Shotgun) M.Ryan pass short middle to D.Freeman to TB 12 for -5 yards (G.McCoy).,7,2,49,TB 7,0,ATL,
+11,1636,0,02:00,Two-Minute Warning,0,2,44,,0,,
+11,1691,4,01:50,"(1:50) M.Bryant 34 yard field goal is GOOD, Center-J.Harris, Holder-M.Bosher.",16,2,45,TB 16,1,ATL,FG
+11,1613,3,02:10,"(2:10) (Shotgun) PENALTY on ATL-J.Matthews, False Start, 5 yards, enforced at TB 12 - No Play.",12,2,44,TB 12,0,ATL,PENALTY
+11,1568,1,03:30,(3:30) D.Freeman right guard to TB 7 for 3 yards (B.McDougald).,10,2,54,TB 10,0,ATL,
+11,1501,1,04:59,(4:59) M.Ryan pass incomplete deep left to J.Jones.,10,2,0,ATL 39,0,ATL,
+11,1523,2,04:53,(4:53) T.Coleman right guard to ATL 43 for 4 yards (B.McDougald).,10,2,4,ATL 39,0,ATL,
+11,1674,0,01:50,Timeout #1 by TB at 01:50.,0,2,45,,0,,TIMEOUT
+11,1653,3,02:00,(2:00) (Shotgun) T.Coleman right guard to TB 16 for 1 yard (C.McDonald).,17,2,45,TB 17,0,ATL,
+10,1419,2,06:17,(6:17) J.Winston pass short left to D.Martin to TB 16 for 4 yards (S.Weatherspoon).,7,2,7,TB 12,0,TB,
+10,1478,4,05:08,"(5:08) B.Anger punts 52 yards to ATL 39, Center-A.DePaola, fair catch by E.Weems.",10,2,0,TB 9,0,TB,PUNT
+10,1443,3,05:32,"(5:32) (Shotgun) J.Winston pass short left to D.Martin to TB 18 for 2 yards (K.Ishmael). PENALTY on TB-J.Hawley, Unnecessary Roughness, 9 yards, enforced at TB 18.",3,2,0,TB 16,0,TB,PENALTY
+10,1398,1,06:54,(6:54) D.Martin right guard to TB 12 for 3 yards (D.Shelby).,10,2,3,TB 9,0,TB,
+13,2035,1,00:14,(:14) M.Ryan kneels to ATL 24 for -1 yards.,10,2,-1,ATL 25,0,ATL,
+13,2020,0,00:14,"R.Aguayo kicks 65 yards from TB 35 to end zone, Touchback.",0,2,0,TB 35,0,TB,KICKOFF
+13,2056,0,,END QUARTER 2,0,2,-1,,0,,
+12,1775,3,01:33,"(1:33) (Shotgun) J.Winston pass short right to C.Brate pushed ob at TB 48 for 17 yards (D.Campbell). Penalty on ATL-A.Clayborn, Defensive Offside, declined.",4,2,23,TB 31,0,TB,
+12,1858,0,00:59,Timeout #2 by TB at 00:59.,0,2,34,,0,,TIMEOUT
+12,1984,2,00:24,"(:24) (Shotgun) J.Winston pass short right to C.Sims for 23 yards, TOUCHDOWN.",3,2,75,ATL 23,1,TB,TD
+12,1710,0,01:45,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback.",0,2,0,ATL 35,0,ATL,KICKOFF
+12,1810,1,01:28,(1:28) (Shotgun) J.Winston pass short right to C.Brate to ATL 45 for 7 yards (D.Campbell).,10,2,30,TB 48,0,TB,
+12,1834,2,01:07,"(1:07) (No Huddle, Shotgun) J.Winston pass short middle to C.Sims to ATL 41 for 4 yards (K.Ishmael).",3,2,34,ATL 45,0,TB,
+12,1729,1,01:45,(1:45) (Shotgun) J.Winston pass incomplete short left to A.Humphries [D.Freeney].,10,2,0,TB 25,0,TB,
+12,1943,1,00:29,(:29) (No Huddle) J.Winston pass short right to V.Jackson ran ob at ATL 23 for 7 yards (D.Trufant).,10,2,52,ATL 30,0,TB,
+12,1967,0,00:25,Timeout #1 by ATL at 00:25.,0,2,52,,0,,TIMEOUT
+12,1919,3,00:48,(:48) (Shotgun) J.Winston pass short right to V.Jackson to ATL 30 for 11 yards (D.Trufant) [A.Clayborn].,10,2,45,ATL 41,0,TB,
+12,1875,1,00:59,(:59) (Shotgun) J.Winston pass incomplete deep right to V.Jackson.,10,2,34,ATL 41,0,TB,
+12,2004,0,00:14,"R.Aguayo extra point is GOOD, Center-A.DePaola, Holder-B.Anger.",0,2,75,ATL 15,1,TB,XP
+12,1897,2,00:52,(:52) (Shotgun) J.Winston pass incomplete short middle to V.Jackson.,10,2,34,ATL 41,0,TB,
+12,1751,2,01:40,(1:40) (Shotgun) J.Winston pass short right to C.Brate pushed ob at TB 31 for 6 yards (K.Ishmael).,10,2,6,TB 25,0,TB,
+15,2338,2,09:49,(9:49) (Shotgun) M.Ryan pass short right to T.Coleman to TB 44 for -5 yards (L.David).,9,3,35,TB 39,0,ATL,
+15,2317,1,10:28,(10:28) D.Freeman right tackle to TB 39 for 1 yard (K.Alexander).,10,3,40,TB 40,0,ATL,
+15,2218,1,12:47,(12:47) (Shotgun) M.Ryan pass short middle to J.Jones to ATL 40 for 19 yards (A.Verner; C.Conte).,10,3,19,ATL 21,0,ATL,
+15,2287,1,11:00,"(11:00) (Shotgun) M.Ryan sacked at ATL 45 for -6 yards (G.McCoy). PENALTY on TB, Unsportsmanlike Conduct, 15 yards, enforced at ATL 45.",10,3,39,TB 49,0,ATL,PENALTY
+15,2397,4,08:36,"(8:36) M.Bosher punts 35 yards to TB 15, Center-J.Harris, fair catch by A.Humphries. PENALTY on TB-J.Keyes, Unnecessary Roughness, 7 yards, enforced at TB 15.",20,3,29,50,0,ATL,PUNT
+15,2196,0,12:54,R.Aguayo kicks 69 yards from TB 35 to ATL -4. E.Weems to ATL 21 for 25 yards (H.Jones).,0,3,0,TB 35,0,TB,KICKOFF
+15,2263,2,11:40,(11:40) M.Ryan pass short left to M.Sanu to TB 49 for 5 yards (K.Alexander).,4,3,30,ATL 46,0,ATL,
+15,2362,3,09:03,"(9:03) (Shotgun) M.Ryan pass short middle to J.Tamme to TB 35 for 9 yards (L.David; K.Alexander). PENALTY on ATL-C.Chester, Unnecessary Roughness, 15 yards, enforced at TB 35.",14,3,29,TB 44,0,ATL,PENALTY
+15,2242,1,12:16,(12:16) D.Freeman right guard to ATL 46 for 6 yards (C.Conte).,10,3,25,ATL 40,0,ATL,
+14,2136,2,13:45,(13:45) (Shotgun) J.Winston pass deep left to M.Evans to ATL 30 for 27 yards (R.Alford).,7,3,45,TB 43,0,TB,
+14,2160,1,13:02,"(13:02) (Shotgun) J.Winston pass deep left to A.Seferian-Jenkins for 30 yards, TOUCHDOWN.",10,3,75,ATL 30,1,TB,TD
+14,2180,0,12:54,"R.Aguayo extra point is GOOD, Center-A.DePaola, Holder-B.Anger.",0,3,75,ATL 15,1,TB,XP
+14,2091,1,15:00,(15:00) J.Winston pass short left to M.Evans to TB 40 for 15 yards (R.Alford; S.Weatherspoon).,10,3,15,TB 25,0,TB,
+14,2072,0,15:00,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback.",0,3,0,ATL 35,0,ATL,KICKOFF
+14,2115,1,14:23,(14:23) D.Martin left tackle to TB 43 for 3 yards (S.Weatherspoon).,10,3,18,TB 40,0,TB,
+17,2865,2,01:42,"(1:42) (No Huddle) M.Ryan pass short middle to J.Jones for 25 yards, TOUCHDOWN.",10,3,71,TB 25,1,ATL,TD
+17,2885,0,01:35,(Pass formation) TWO-POINT CONVERSION ATTEMPT. M.Ryan pass to M.Sanu is complete. ATTEMPT SUCCEEDS.,0,3,71,TB 2,1,ATL,2PS
+17,2707,1,04:33,(4:33) M.Ryan pass incomplete short left to J.Tamme.,10,3,14,ATL 43,0,ATL,
+17,2775,4,03:48,(3:48) (Shotgun) M.Ryan pass short left to J.Tamme to TB 40 for 10 yards (K.Alexander).,3,3,31,50,0,ATL,
+17,2729,2,04:27,(4:27) (Shotgun) M.Ryan pass short left to D.Freeman pushed ob at 50 for 7 yards (L.David).,10,3,21,ATL 43,0,ATL,
+17,2656,0,05:12,R.Aguayo kicks 70 yards from TB 35 to ATL -5. E.Weems to ATL 29 for 34 yards (A.Verner).,0,3,0,TB 35,0,TB,KICKOFF
+17,2799,1,03:24,(3:24) M.Ryan pass short left to M.Sanu to TB 33 for 7 yards (K.Alexander).,10,3,38,TB 40,0,ATL,
+17,2753,3,03:52,(3:52) (Shotgun) M.Ryan pass incomplete short right to M.Sanu (B.Grimes).,3,3,21,50,0,ATL,
+17,2678,1,05:06,(5:06) M.Ryan pass short left to A.Hooper pushed ob at ATL 43 for 14 yards (B.McDougald).,10,3,14,ATL 29,0,ATL,
+17,2844,1,02:08,(2:08) T.Coleman left end to TB 25 for no gain (K.Alexander).,10,3,46,TB 25,0,ATL,
+17,2823,2,02:48,(2:48) (Shotgun) M.Ryan scrambles right guard to TB 25 for 8 yards (J.Adjei-Barimah).,3,3,46,TB 33,0,ATL,
+16,2620,2,05:21,"(5:21) (Shotgun) J.Winston pass deep left to M.Evans for 45 yards, TOUCHDOWN.",11,3,92,ATL 45,1,TB,TD
+16,2438,1,08:28,(8:28) D.Martin right guard to TB 10 for 2 yards (G.Jarrett).,10,3,2,TB 8,0,TB,
+16,2459,2,07:51,(7:51) J.Winston pass incomplete deep left to V.Jackson (R.Alford).,8,3,2,TB 10,0,TB,
+16,2578,1,06:41,(6:41) D.Martin left end to ATL 44 for 17 yards (R.Allen).,10,3,48,TB 39,0,TB,
+16,2557,2,07:10,"(7:10) D.Martin left tackle to TB 39 for 5 yards (R.Allen, K.Ishmael).",1,3,31,TB 34,0,TB,
+16,2640,0,05:12,"R.Aguayo extra point is GOOD, Center-A.DePaola, Holder-B.Anger.",0,3,92,ATL 15,1,TB,XP
+16,2599,1,06:05,(6:05) D.Martin left tackle to ATL 45 for -1 yards (A.Clayborn).,10,3,47,ATL 44,0,TB,
+16,2481,3,07:46,"(7:46) (Shotgun) J.Winston pass incomplete short right to C.Brate (T.Jackson). Penalty on ATL-K.Ishmael, Defensive Holding, declined. PENALTY on ATL, Unnecessary Roughness, 15 yards, enforced at TB 10.",8,3,92,TB 10,0,TB,PENALTY
+16,2536,1,07:42,(7:42) R.Shepard left end to TB 34 for 9 yards (D.Jones).,10,3,26,TB 25,0,TB,
+19,3019,1,14:52,(14:52) M.Ryan pass short middle to D.Freeman to ATL 22 for 7 yards (C.Conte; L.David).,10,4,30,ATL 15,0,ATL,
+19,3110,2,12:56,(12:56) (Shotgun) T.Coleman right tackle to ATL 47 for 7 yards (L.David).,10,4,32,ATL 40,0,ATL,
+19,3150,4,11:41,"(11:41) M.Bosher punts 40 yards to TB 15, Center-J.Harris, fair catch by A.Humphries. PENALTY on TB-A.Glanton, Illegal Use of Hands, 7 yards, enforced at TB 15.",5,4,30,ATL 45,0,ATL,PUNT
+19,3131,3,12:21,(12:21) (Shotgun) M.Ryan sacked at ATL 45 for -2 yards (K.Alexander).,3,4,30,ATL 47,0,ATL,
+19,3088,1,13:04,(13:04) M.Ryan pass incomplete deep left to J.Jones (B.McDougald).,10,4,25,ATL 40,0,ATL,
+19,3067,1,13:36,(13:36) D.Freeman right end to ATL 40 for 10 yards (C.Conte).,10,4,25,ATL 30,0,ATL,
+19,3043,2,14:10,(14:10) M.Ryan pass short left to J.Jones to ATL 30 for 8 yards (V.Hargreaves; C.Conte).,3,4,15,ATL 22,0,ATL,
+18,2899,0,01:35,"M.Bosher kicks 65 yards from ATL 35 to end zone, Touchback.",0,3,0,ATL 35,0,ATL,KICKOFF
+18,2963,3,00:13,(:13) D.Martin left end to TB 33 for no gain (D.Jones; K.Ishmael).,2,3,8,TB 33,0,TB,
+18,2918,1,01:35,(1:35) J.Winston pass short right to M.Evans to TB 33 for 8 yards (R.Allen).,10,3,8,TB 25,0,TB,
+18,2984,0,,END QUARTER 3,0,3,8,,0,,
+18,3000,4,15:00,"(15:00) B.Anger punts 52 yards to ATL 15, Center-A.DePaola, fair catch by E.Weems.",2,4,8,TB 33,0,TB,PUNT
+18,2942,2,00:54,(:54) D.Martin right end to TB 33 for no gain (G.Jarrett; K.Ishmael).,2,3,8,TB 33,0,TB,

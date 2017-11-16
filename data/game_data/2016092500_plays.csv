@@ -1,200 +1,200 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1313,3,14:14,,23,2,-13,BUF 48,0,BUF,INT
-9,1215,1,15:00,,10,2,-10,ARI 39,0,BUF,PENALTY
-9,1281,2,14:51,,20,2,-13,ARI 49,0,BUF,FUMBLE
-9,1249,1,14:55,,20,2,-10,ARI 49,0,BUF,
-24,4935,1,03:08,,10,4,-1,BUF 1,1,BUF,SAF
-10,1382,2,14:06,,10,2,0,ARI 10,0,ARI,
-10,1409,3,14:01,,10,2,-5,ARI 10,0,ARI,PENALTY
-10,1344,1,14:10,,10,2,0,ARI 10,0,ARI,
-10,1462,4,13:25,,10,2,0,ARI 10,0,ARI,PUNT
-10,1432,3,14:01,,15,2,0,ARI 5,0,ARI,
-20,4112,0,10:36,,0,4,11,ARI 35,0,ARI,KICKOFF
-20,4275,3,08:15,,20,4,22,ARI 40,0,BUF,
-20,4215,1,08:44,,10,4,22,ARI 30,0,BUF,FUMBLE
-20,4135,1,10:32,,10,4,5,BUF 31,0,BUF,
-20,4238,2,08:17,,20,4,29,ARI 40,0,BUF,
-20,4180,1,09:19,,10,4,39,BUF 42,0,BUF,
-20,4318,4,07:45,,27,4,22,ARI 47,0,BUF,PUNT
-20,4158,2,09:56,,5,4,11,BUF 36,0,BUF,
-6,735,1,03:29,,10,1,-3,ARI 25,0,ARI,
-6,786,3,02:40,,13,1,-3,ARI 22,0,ARI,
-6,715,0,03:29,,0,1,-3,BUF 35,0,BUF,KICKOFF
-6,758,2,02:47,,13,1,-3,ARI 22,0,ARI,
-6,819,4,02:34,,13,1,-3,ARI 22,0,ARI,PUNT
-27,5250,2,01:26,,11,4,32,ARI 39,0,ARI,
-27,5219,1,01:51,,10,4,32,ARI 40,0,ARI,FUMBLE
-27,5296,1,01:18,,10,4,32,BUF 36,0,ARI,
-27,5324,2,01:14,,2,4,32,BUF 28,0,ARI,INT
-18,3740,0,,,0,3,-8,,0,,
-18,3720,1,00:08,,10,3,-8,BUF 31,0,BUF,
-18,3696,0,00:12,,0,3,0,ARI 35,0,ARI,KICKOFF
-18,3756,0,,,0,3,-8,,0,,
-18,3830,3,13:49,,28,4,-11,BUF 13,0,BUF,
-18,3859,4,13:03,,21,4,-11,BUF 20,0,BUF,PUNT
-18,3773,2,15:00,,18,4,-11,BUF 23,0,BUF,PENALTY
-18,3807,2,14:31,,26,4,-18,BUF 15,0,BUF,
-28,5350,1,01:07,,10,4,-1,BUF 20,0,BUF,
-28,5371,2,00:38,,11,4,-3,BUF 19,0,BUF,
-28,5408,0,00:00,,0,4,-3,,0,,
-28,5392,0,,,0,4,-3,,0,,
-26,5075,1,02:13,,10,4,1,BUF 33,0,BUF,
-26,5180,0,02:00,,0,4,2,,0,,
-26,5115,2,02:09,,9,4,1,BUF 34,0,BUF,
-26,5097,0,02:09,,0,4,1,,0,,TIMEOUT
-26,5138,0,02:05,,0,4,1,,0,,TIMEOUT
-26,5198,4,02:00,,8,4,2,BUF 35,0,BUF,PUNT
-26,5157,3,02:05,,9,4,2,BUF 34,0,BUF,
-25,4990,1,02:52,,10,4,-6,BUF 14,0,ARI,
-25,5034,3,02:25,,16,4,-6,BUF 20,0,ARI,INT
-25,4957,0,03:04,,0,4,0,BUF 20,0,BUF,KICKOFF
-25,5011,2,02:28,,16,4,-6,BUF 20,0,ARI,
-1,91,2,14:17,,10,1,-5,BUF 20,0,BUF,PENALTY
-1,115,2,13:57,,15,1,-2,BUF 15,0,BUF,
-1,145,3,13:19,,12,1,-15,BUF 18,0,BUF,
-1,165,4,12:47,,25,1,-15,BUF 5,0,BUF,PUNT
-1,35,0,15:00,,0,1,0,ARI 35,0,ARI,KICKOFF
-1,58,1,14:54,,10,1,0,BUF 20,0,BUF,
-5,623,1,05:34,,9,1,77,ARI 9,0,BUF,
-5,695,4,03:32,,1,1,77,ARI 1,1,BUF,FG
-5,645,2,05:01,,3,1,72,ARI 3,0,BUF,
-5,545,1,07:20,,10,1,52,BUF 22,0,BUF,
-5,667,3,04:24,,6,1,77,ARI 6,0,BUF,
-5,593,2,06:13,,7,1,69,ARI 26,0,BUF,
-5,568,1,06:46,,10,1,69,ARI 29,0,BUF,
-13,2606,0,00:13,,0,2,22,,0,,TIMEOUT
-13,2462,0,00:52,,0,2,12,,0,,TIMEOUT
-13,2480,1,00:52,,10,2,15,BUF 37,0,BUF,
-13,2385,0,01:05,,0,2,22,ARI 35,0,ARI,KICKOFF
-13,2440,2,00:58,,6,2,12,BUF 29,0,BUF,
-13,2568,0,00:21,,0,2,22,,0,,TIMEOUT
-13,2531,3,00:30,,7,2,22,BUF 40,0,BUF,FUMBLE
-13,2509,2,00:34,,7,2,22,BUF 40,0,BUF,
-13,2650,3,00:07,,13,2,22,BUF 47,0,BUF,
-13,2693,0,,,0,2,22,,0,,
-13,2407,1,01:05,,10,2,22,BUF 25,0,BUF,
-13,2623,2,00:13,,13,2,22,BUF 47,0,BUF,
-13,2677,0,,,0,2,22,,0,,
-13,2587,1,00:21,,10,2,22,50,0,BUF,
-21,4433,2,06:40,,1,4,21,ARI 25,0,ARI,INT
-21,4338,1,07:35,,10,4,21,ARI 4,0,ARI,
-21,4405,1,07:03,,10,4,21,ARI 16,0,ARI,
-21,4365,2,07:31,,10,4,12,ARI 4,0,ARI,
-23,4652,1,04:48,,10,4,0,ARI 25,0,ARI,
-23,4885,2,03:16,,10,4,52,BUF 23,0,ARI,INT
-23,4857,1,03:23,,10,4,52,BUF 23,0,ARI,
-23,4626,0,04:48,,0,4,0,BUF 35,0,BUF,KICKOFF
-23,4774,2,04:16,,15,4,14,ARI 39,0,ARI,
-23,4829,1,03:45,,10,4,52,BUF 38,0,ARI,
-23,4801,3,04:11,,15,4,52,ARI 39,0,ARI,FUMBLE
-23,4723,1,04:22,,10,4,19,ARI 44,0,ARI,
-23,4750,2,04:16,,10,4,52,ARI 44,0,ARI,PENALTY
-23,4688,2,04:42,,10,4,19,ARI 25,0,ARI,
-11,1566,1,11:56,,10,2,47,ARI 19,0,BUF,
-11,1517,1,13:16,,5,2,23,ARI 47,0,BUF,
-11,1544,1,12:34,,10,2,33,ARI 29,0,BUF,
-11,1492,1,13:16,,10,2,5,BUF 48,0,BUF,PENALTY
-11,1588,2,11:18,,2,2,41,ARI 11,0,BUF,
-11,1641,1,10:32,,5,2,52,ARI 5,1,BUF,TD
-11,1619,3,11:13,,2,2,47,ARI 11,0,BUF,
-11,1664,0,10:25,,0,2,52,ARI 15,1,BUF,XP
-14,2730,1,15:00,,10,3,3,ARI 25,0,ARI,
-14,2815,4,13:27,,7,3,3,ARI 28,0,ARI,PUNT
-14,2710,0,15:00,,0,3,0,BUF 35,0,BUF,KICKOFF
-14,2788,3,13:31,,7,3,3,ARI 28,0,ARI,
-14,2757,2,14:17,,7,3,3,ARI 28,0,ARI,
-8,1077,1,00:55,,10,1,0,ARI 25,0,ARI,
-8,1052,0,00:55,,0,1,0,BUF 35,0,BUF,KICKOFF
-8,1153,4,00:02,,5,1,5,ARI 30,0,ARI,PUNT
-8,1125,3,00:07,,5,1,5,ARI 30,0,ARI,
-8,1104,2,00:48,,10,1,5,ARI 25,0,ARI,
-19,3882,1,12:55,,10,4,13,BUF 46,0,ARI,
-19,4002,1,11:54,,20,4,-1,BUF 38,0,ARI,
-19,3907,1,12:32,,10,4,18,BUF 33,0,ARI,PENALTY
-19,3982,0,11:55,,0,4,8,,0,,TIMEOUT
-19,4079,4,10:41,,24,4,4,BUF 42,1,ARI,FG
-19,4046,3,11:22,,29,4,4,BUF 47,0,ARI,
-19,4023,2,11:28,,29,4,-1,BUF 47,0,ARI,
-19,3950,1,12:27,,10,4,8,BUF 28,0,ARI,PENALTY
-22,4584,0,04:52,,0,4,3,,0,,TIMEOUT
-22,4476,1,06:30,,10,4,-10,ARI 30,0,BUF,PENALTY
-22,4601,4,04:52,,7,4,3,ARI 27,1,BUF,FG
-22,4509,1,06:18,,20,4,3,ARI 40,0,BUF,
-22,4540,2,05:41,,12,4,3,ARI 32,0,BUF,
-22,4562,3,04:57,,11,4,3,ARI 31,0,BUF,
-12,2156,1,02:13,,10,2,74,BUF 16,0,ARI,
-12,2307,0,01:05,,0,2,84,,0,,TIMEOUT
-12,2025,2,05:32,,4,2,42,50,0,ARI,
-12,2178,0,02:00,,0,2,74,,0,,
-12,1875,3,07:35,,4,2,17,ARI 43,0,ARI,PENALTY
-12,1997,1,06:05,,15,2,34,ARI 39,0,ARI,
-12,2368,0,01:05,,0,2,84,BUF 15,1,ARI,XP
-12,1777,3,09:33,,1,2,10,ARI 25,0,ARI,
-12,2196,2,02:00,,4,2,75,BUF 10,0,ARI,
-12,1715,1,10:20,,10,2,0,ARI 16,0,ARI,
-12,2257,1,01:13,,4,2,80,BUF 4,0,ARI,
-12,2082,1,04:19,,10,2,57,BUF 31,0,ARI,
-12,2053,1,04:59,,10,2,53,BUF 42,0,ARI,
-12,2127,3,02:57,,3,2,84,BUF 24,0,ARI,
-12,1925,3,07:08,,14,2,28,ARI 33,0,ARI,PENALTY
-12,1957,1,06:36,,10,2,23,ARI 44,0,ARI,PENALTY
-12,1848,2,08:15,,10,2,27,ARI 37,0,ARI,
-12,1825,1,08:20,,10,2,21,ARI 37,0,ARI,
-12,2219,3,01:18,,3,2,80,BUF 9,0,ARI,PENALTY
-12,1802,1,08:57,,10,2,84,ARI 26,0,ARI,
-12,2284,2,01:09,,4,2,84,BUF 4,1,ARI,TD
-12,1742,2,10:13,,10,2,9,ARI 16,0,ARI,
-12,2105,2,03:38,,6,2,60,BUF 27,0,ARI,
-12,1681,0,10:25,,0,2,0,BUF 35,0,BUF,KICKOFF
-16,3269,1,05:22,,10,3,15,BUF 16,0,ARI,
-16,3138,1,08:25,,10,3,36,ARI 48,0,ARI,
-16,3109,1,09:07,,10,3,23,ARI 36,0,ARI,
-16,3079,3,09:39,,11,3,11,ARI 24,0,ARI,
-16,3396,4,02:40,,6,3,15,BUF 12,1,ARI,TD
-16,3217,2,06:36,,10,3,52,BUF 28,0,ARI,
-16,3057,2,10:25,,10,3,-1,ARI 25,0,ARI,
-16,3339,3,03:38,,1,3,15,BUF 7,0,ARI,
-16,3009,0,10:31,,0,3,0,BUF 35,0,BUF,KICKOFF
-16,3030,1,10:31,,10,3,0,ARI 25,0,ARI,
-16,3361,4,02:49,,1,3,15,BUF 7,0,ARI,PENALTY
-16,3160,1,07:46,,10,3,47,BUF 39,0,ARI,
-16,3239,3,05:56,,5,3,15,BUF 23,0,ARI,
-16,3315,2,04:20,,1,3,15,BUF 7,0,ARI,
-16,3291,2,04:38,,6,3,15,BUF 12,0,ARI,PENALTY
-16,3195,1,07:13,,10,3,52,BUF 28,0,ARI,
-7,978,2,01:13,,20,1,29,ARI 48,0,BUF,
-7,1035,0,00:55,,0,1,53,ARI 15,1,BUF,XP
-7,950,1,01:18,,20,1,5,ARI 48,0,BUF,
-7,860,2,02:02,,4,1,15,ARI 47,0,BUF,
-7,1017,1,00:59,,10,1,53,ARI 24,1,BUF,TD
-7,838,1,02:25,,10,1,53,BUF 47,0,BUF,
-7,884,1,01:39,,10,1,5,ARI 38,0,BUF,PENALTY
-3,427,4,09:32,,9,1,12,BUF 23,0,BUF,PUNT
-3,372,2,09:45,,9,1,12,BUF 23,0,BUF,
-3,400,3,09:39,,9,1,12,BUF 23,0,BUF,
-3,291,1,11:32,,10,1,5,BUF 11,0,BUF,
-3,321,2,10:52,,5,1,11,BUF 16,0,BUF,
-3,350,1,10:17,,10,1,12,BUF 22,0,BUF,
-17,3554,1,01:39,,10,3,29,ARI 31,0,ARI,
-17,3624,1,00:42,,10,3,83,BUF 39,0,ARI,
-17,3677,0,00:12,,0,3,83,BUF 2,0,ARI,2PPF
-17,3658,1,00:19,,10,3,83,BUF 22,1,ARI,TD
-17,3588,1,01:03,,10,3,44,ARI 46,0,ARI,
-17,3507,2,01:59,,3,3,14,ARI 24,0,ARI,
-17,3442,0,02:25,,0,3,0,BUF 35,0,BUF,KICKOFF
-17,3469,1,02:20,,10,3,7,ARI 17,0,ARI,
-4,518,4,07:28,,12,1,-2,ARI 36,0,ARI,PUNT
-4,499,3,08:04,,5,1,-2,ARI 43,0,ARI,
-4,470,2,08:44,,8,1,5,ARI 40,0,ARI,
-4,447,1,09:24,,10,1,2,ARI 38,0,ARI,
-2,243,3,11:50,,8,1,2,BUF 36,0,ARI,
-2,192,1,12:37,,10,1,0,BUF 38,0,ARI,
-2,270,4,11:43,,8,1,2,BUF 36,0,ARI,PUNT
-2,220,2,12:32,,10,1,2,BUF 38,0,ARI,
-15,2945,2,11:21,,10,3,27,ARI 26,0,BUF,
-15,2834,1,13:20,,10,3,7,ARI 47,0,BUF,
-15,2968,3,10:39,,4,3,47,ARI 20,1,BUF,TD
-15,2884,3,12:06,,3,3,21,ARI 40,0,BUF,
-15,2992,0,10:31,,0,3,47,ARI 15,0,BUF,XPM
-15,2918,1,11:27,,10,3,21,ARI 26,0,BUF,
-15,2862,2,12:43,,3,3,7,ARI 40,0,BUF,
+24,4935,1,03:08,"(3:08) L.McCoy right guard tackled in End Zone for -1 yards, SAFETY (C.Peters).",10,4,-1,BUF 1,1,BUF,SAF
+25,5011,2,02:28,"(2:28) (No Huddle, Shotgun) C.Palmer pass incomplete short middle to D.Johnson.",16,4,-6,BUF 20,0,ARI,
+25,5034,3,02:25,"(2:25) (Shotgun) C.Palmer pass deep left intended for M.Floyd INTERCEPTED by S.Gilmore at BUF -1. S.Gilmore pushed ob at BUF 33 for 34 yards (E.Watford). Receiver underthrown, near sideline.",16,4,-6,BUF 20,0,ARI,INT
+25,4957,0,03:04,C.Schmidt kicks 45 yards from BUF 20 to ARI 35. Jo.Brown pushed ob at BUF 14 for 51 yards (J.Meeks).,0,4,0,BUF 20,0,BUF,KICKOFF
+25,4990,1,02:52,(2:52) (Shotgun) C.Palmer sacked at BUF 20 for -6 yards (J.Hughes).,10,4,-6,BUF 14,0,ARI,
+26,5115,2,02:09,"(2:09) J.Williams up the middle to BUF 34 for no gain (J.Mauro, T.Jefferson).",9,4,1,BUF 34,0,BUF,
+26,5180,0,02:00,Two-Minute Warning,0,4,2,,0,,
+26,5198,4,02:00,"(2:00) C.Schmidt punts 25 yards to ARI 40, Center-G.Sanborn, fair catch by Jo.Brown.",8,4,2,BUF 35,0,BUF,PUNT
+26,5157,3,02:05,"(2:05) J.Williams right tackle to BUF 35 for 1 yard (M.Golden, P.Peterson).",9,4,2,BUF 34,0,BUF,
+26,5097,0,02:09,Timeout #2 by ARI at 02:09.,0,4,1,,0,,TIMEOUT
+26,5138,0,02:05,Timeout #3 by ARI at 02:05.,0,4,1,,0,,TIMEOUT
+26,5075,1,02:13,"(2:13) J.Williams right guard to BUF 34 for 1 yard (T.Jefferson, D.Bucannon).",10,4,1,BUF 33,0,BUF,
+27,5296,1,01:18,"(1:18) (No Huddle, Shotgun) C.Palmer pass short left to Jo.Brown pushed ob at BUF 28 for 8 yards (S.Gilmore). Caught along sideline at BUF 28.",10,4,32,BUF 36,0,ARI,
+27,5250,2,01:26,(1:26) C.Palmer pass deep left to M.Floyd ran ob at BUF 36 for 25 yards.,11,4,32,ARI 39,0,ARI,
+27,5324,2,01:14,"(1:14) (No Huddle, Shotgun) C.Palmer pass deep right intended for M.Floyd INTERCEPTED by C.White at BUF -5. Touchback. INT in rear corner of end zone.",2,4,32,BUF 28,0,ARI,INT
+27,5219,1,01:51,"(1:51) (Shotgun) C.Palmer sacked at ARI 38 for -2 yards (sack split by L.Alexander and K.Williams). FUMBLES (L.Alexander), recovered by ARI-E.Watford at ARI 39. E.Watford attempted to advance, but could not by rule inside final two minutes.",10,4,32,ARI 40,0,ARI,FUMBLE
+20,4215,1,08:44,"(8:44) (Shotgun) T.Taylor to ARI 33 for -3 yards (T.Mathieu). FUMBLES (T.Mathieu), touched at ARI 33, ball out of bounds at ARI 40. Attempted pitch-back to R.Woods, batted from QB's hand at ARI 33.",10,4,22,ARI 30,0,BUF,FUMBLE
+20,4275,3,08:15,"(8:15) (Shotgun) T.Taylor sacked at ARI 47 for -7 yards (T.Jefferson). Penalty on BUF-C.Kouandjio, Offensive Holding, declined.",20,4,22,ARI 40,0,BUF,
+20,4318,4,07:45,"(7:45) C.Schmidt punts 43 yards to ARI 4, Center-G.Sanborn, downed by BUF-R.Humber.",27,4,22,ARI 47,0,BUF,PUNT
+20,4180,1,09:19,(9:19) T.Taylor pass short right to N.O'Leary pushed ob at ARI 30 for 28 yards (T.Jefferson). Caught near sideline at ARI 44.,10,4,39,BUF 42,0,BUF,
+20,4158,2,09:56,(9:56) L.McCoy up the middle to BUF 42 for 6 yards (T.Jefferson).,5,4,11,BUF 36,0,BUF,
+20,4135,1,10:32,(10:32) (Shotgun) L.McCoy right tackle to BUF 36 for 5 yards (C.Campbell).,10,4,5,BUF 31,0,BUF,
+20,4112,0,10:36,"C.Catanzaro kicks 41 yards from ARI 35 to BUF 24. J.Felton to BUF 31 for 7 yards (D.Swearinger, A.Fua).",0,4,11,ARI 35,0,ARI,KICKOFF
+20,4238,2,08:17,"(8:17) T.Taylor pass incomplete deep right to C.Clay. Overthrown, receiver in flat at ARI 21.",20,4,29,ARI 40,0,BUF,
+21,4365,2,07:31,"(7:31) (No Huddle, Shotgun) C.Palmer pass short left to Jo.Brown ran ob at ARI 16 for 12 yards. Caught along sideline at ARI 16.",10,4,12,ARI 4,0,ARI,
+21,4405,1,07:03,"(7:03) (Shotgun) C.Palmer pass short left to L.Fitzgerald to ARI 25 for 9 yards (C.Graham). Flat pass, caught at ARI 17.",10,4,21,ARI 16,0,ARI,
+21,4433,2,06:40,"(6:40) (No Huddle, Shotgun) C.Palmer pass deep left intended for Jo.Brown INTERCEPTED by S.Gilmore at ARI 44. S.Gilmore to ARI 30 for 14 yards (E.Watford). Receiver underthrown.",1,4,21,ARI 25,0,ARI,INT
+21,4338,1,07:35,"(7:35) (Shotgun) C.Palmer pass incomplete short right to M.Floyd. Thrown behind receiver, in flat at ARI 9.",10,4,21,ARI 4,0,ARI,
+22,4562,3,04:57,"(4:57) L.McCoy right guard to ARI 27 for 4 yards (D.Swearinger, M.Golden).",11,4,3,ARI 31,0,BUF,
+22,4584,0,04:52,Timeout #1 by ARI at 04:52.,0,4,3,,0,,TIMEOUT
+22,4540,2,05:41,(5:41) (Shotgun) L.McCoy up the middle to ARI 31 for 1 yard (M.Golden).,12,4,3,ARI 32,0,BUF,
+22,4476,1,06:30,"(6:30) L.McCoy up the middle to ARI 33 for -3 yards (Ch.Jones). PENALTY on BUF-C.Kouandjio, Offensive Holding, 10 yards, enforced at ARI 30 - No Play.",10,4,-10,ARI 30,0,BUF,PENALTY
+22,4509,1,06:18,"(6:18) T.Taylor pass short left to R.Woods to ARI 32 for 8 yards (M.Cooper; T.Branch). Flat pass, caught near sideline at ARI 39.",20,4,3,ARI 40,0,BUF,
+22,4601,4,04:52,"(4:52) D.Carpenter 45 yard field goal is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",7,4,3,ARI 27,1,BUF,FG
+23,4801,3,04:11,"(4:11) (Shotgun) C.Palmer to ARI 35 for -4 yards. FUMBLES, and recovers at ARI 35. C.Palmer pass short right to Ja.Brown to BUF 38 for 23 yards (C.White) [J.Hughes]. Caught in flat at ARI 42, slanting away from sideline.",15,4,52,ARI 39,0,ARI,FUMBLE
+23,4829,1,03:45,"(3:45) (No Huddle, Shotgun) C.Palmer pass deep right to Ja.Brown to BUF 23 for 15 yards (R.Blanton) [L.Douzable]. Caught at BUF 22, crossing from middle.",10,4,52,BUF 38,0,ARI,
+23,4750,2,04:16,"(4:16) (Shotgun) PENALTY on ARI-C.Palmer, Delay of Game, 5 yards, enforced at ARI 44 - No Play.",10,4,52,ARI 44,0,ARI,PENALTY
+23,4885,2,03:16,"(3:16) (Shotgun) C.Palmer pass deep left intended for Ja.Brown INTERCEPTED by C.Graham at BUF 1. C.Graham ran ob at BUF 1 for no gain. C.Graham's momentum carried him into end zone, by rule considered down at BUF 1. INT along sideline, receiver underthrown.",10,4,52,BUF 23,0,ARI,INT
+23,4723,1,04:22,"(4:22) (No Huddle, Shotgun) C.Palmer pass incomplete short middle to D.Johnson [P.Brown]. Dropped, receiver at ARI 48.",10,4,19,ARI 44,0,ARI,
+23,4774,2,04:16,"(4:16) C.Palmer pass incomplete short left to Ja.Brown. Thrown wide of receiver, along sideline at ARI 45.",15,4,14,ARI 39,0,ARI,
+23,4688,2,04:42,"(4:42) (No Huddle, Shotgun) C.Palmer pass deep middle to Jo.Brown to ARI 44 for 19 yards (S.Gilmore). Caught at ARI 42, slanting from left.",10,4,19,ARI 25,0,ARI,
+23,4626,0,04:48,"J.Gay kicks 65 yards from BUF 35 to end zone, Touchback. Kick through end zone.",0,4,0,BUF 35,0,BUF,KICKOFF
+23,4652,1,04:48,(4:48) (Shotgun) C.Palmer pass incomplete short right to M.Floyd. Thrown wide of receiver along sideline at ARI 40.,10,4,0,ARI 25,0,ARI,
+23,4857,1,03:23,"(3:23) (No Huddle, Shotgun) C.Palmer pass incomplete short left to L.Fitzgerald. Underthrown, thrown across field to receiver at BUF 11.",10,4,52,BUF 23,0,ARI,
+28,5392,0,,End of game - 4.20 pm,0,4,-3,,0,,
+28,5408,0,00:00,END GAME,0,4,-3,,0,,
+28,5371,2,00:38,(:38) T.Taylor kneels to BUF 17 for -2 yards.,11,4,-3,BUF 19,0,BUF,
+28,5350,1,01:07,(1:07) T.Taylor kneels to BUF 19 for -1 yards.,10,4,-1,BUF 20,0,BUF,
+1,145,3,13:19,(13:19) (Shotgun) T.Taylor sacked at BUF 5 for -13 yards (K.Minter).,12,1,-15,BUF 18,0,BUF,
+1,58,1,14:54,"(14:54) T.Taylor pass short right to L.McCoy pushed ob at BUF 20 for no gain (P.Peterson). Swing pass, caught at BUF 20.",10,1,0,BUF 20,0,BUF,
+1,35,0,15:00,C.Catanzaro kicks 65 yards from ARI 35 to BUF 0. B.Tate to BUF 20 for 20 yards (G.Martin).,0,1,0,ARI 35,0,ARI,KICKOFF
+1,115,2,13:57,"(13:57) (Shotgun) T.Taylor pass short left to L.McCoy to BUF 18 for 3 yards (K.Minter). Screen pass, caught at BUF 10.",15,1,-2,BUF 15,0,BUF,
+1,91,2,14:17,"(14:17) PENALTY on BUF-J.Mills, False Start, 5 yards, enforced at BUF 20 - No Play.",10,1,-5,BUF 20,0,BUF,PENALTY
+1,165,4,12:47,"(12:47) C.Schmidt punts 45 yards to 50, Center-G.Sanborn. Jo.Brown to BUF 38 for 12 yards (P.Brown).",25,1,-15,BUF 5,0,BUF,PUNT
+3,350,1,10:17,"(10:17) L.McCoy right guard to BUF 23 for 1 yard (C.Peters, M.Golden).",10,1,12,BUF 22,0,BUF,
+3,321,2,10:52,(10:52) (Shotgun) T.Taylor pass short left to M.Goodwin to BUF 22 for 6 yards (D.Bucannon). Caught in flat at BUF 21.,5,1,11,BUF 16,0,BUF,
+3,400,3,09:39,"(9:39) (Shotgun) T.Taylor pass incomplete deep right to R.Woods [T.Simon]. Thrown wide of receiver, along sideline at BUF 41.",9,1,12,BUF 23,0,BUF,
+3,372,2,09:45,"(9:45) (Shotgun) T.Taylor pass incomplete deep right to R.Woods. Overthrown, receiver near sideline at ARI 35.",9,1,12,BUF 23,0,BUF,
+3,427,4,09:32,"(9:32) C.Schmidt punts 39 yards to ARI 38, Center-G.Sanborn, fair catch by Jo.Brown.",9,1,12,BUF 23,0,BUF,PUNT
+3,291,1,11:32,"(11:32) T.Taylor pass short right to R.Woods to BUF 16 for 5 yards (M.Cooper). Flat pass, caught at BUF 16.",10,1,5,BUF 11,0,BUF,
+2,270,4,11:43,"(11:43) D.Butler punts 25 yards to BUF 11, Center-K.Canaday, downed by ARI-J.Bethel.",8,1,2,BUF 36,0,ARI,PUNT
+2,220,2,12:32,(12:32) (Shotgun) D.Johnson left tackle to BUF 36 for 2 yards (Z.Brown; A.Washington).,10,1,2,BUF 38,0,ARI,
+2,243,3,11:50,"(11:50) (Shotgun) C.Palmer pass incomplete short right to L.Fitzgerald. Thrown wide of receiver, in flat at BUF 28.",8,1,2,BUF 36,0,ARI,
+2,192,1,12:37,"(12:37) C.Palmer pass incomplete short right to M.Floyd. Dropped, receiver in flat at BUF 29.",10,1,0,BUF 38,0,ARI,
+5,568,1,06:46,(6:46) T.Taylor pass short left to R.Woods to ARI 26 for 3 yards (T.Branch). Caught along sideline at ARI 27.,10,1,69,ARI 29,0,BUF,
+5,623,1,05:34,"(5:34) (Shotgun) M.Gillislee up the middle to ARI 3 for 6 yards (D.Bucannon, R.Gunter).",9,1,77,ARI 9,0,BUF,
+5,593,2,06:13,"(6:13) L.McCoy left tackle to ARI 9 for 17 yards (M.Golden, T.Jefferson).",7,1,69,ARI 26,0,BUF,
+5,695,4,03:32,"(3:32) D.Carpenter 19 yard field goal is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",1,1,77,ARI 1,1,BUF,FG
+5,667,3,04:24,"(4:24) (Shotgun) T.Taylor pass short right to W.Powell to ARI 1 for 5 yards (M.Cooper, T.Jefferson). Caught at ARI 2, slanting to middle.",6,1,77,ARI 6,0,BUF,
+5,645,2,05:01,(5:01) (Shotgun) T.Taylor left guard to ARI 6 for -3 yards (Ch.Jones).,3,1,72,ARI 3,0,BUF,
+5,545,1,07:20,(7:20) (Shotgun) T.Taylor left end pushed ob at ARI 29 for 49 yards (M.Cooper).,10,1,52,BUF 22,0,BUF,
+4,518,4,07:28,"(7:28) D.Butler punts 50 yards to BUF 14, Center-K.Canaday. B.Tate to BUF 22 for 8 yards (J.Bethel).",12,1,-2,ARI 36,0,ARI,PUNT
+4,470,2,08:44,"(8:44) C.Palmer pass short left to L.Fitzgerald to ARI 43 for 3 yards (Z.Brown). Caught at ARI 41, crossing from middle.",8,1,5,ARI 40,0,ARI,
+4,447,1,09:24,"(9:24) D.Johnson up the middle to ARI 40 for 2 yards (Z.Brown, B.Spikes).",10,1,2,ARI 38,0,ARI,
+4,499,3,08:04,(8:04) (Shotgun) C.Palmer sacked at ARI 36 for -7 yards (sack split by K.Williams and L.McCray).,5,1,-2,ARI 43,0,ARI,
+7,884,1,01:39,"(1:39) (No Huddle, Shotgun) T.Taylor pass short right to W.Powell ran ob at ARI 29 for 9 yards. Caught along sideline at ARI 29. Penalty on BUF-W.Powell, Illegal Touch Pass, declined. PENALTY on BUF-R.Woods, Offensive Pass Interference, 10 yards, enforced at ARI 38 - No Play.",10,1,5,ARI 38,0,BUF,PENALTY
+7,860,2,02:02,"(2:02) (Shotgun) T.Taylor pass short right to W.Powell to ARI 38 for 9 yards (M.Cooper). Caught at ARI 39, slanting to middle.",4,1,15,ARI 47,0,BUF,
+7,838,1,02:25,(2:25) (Shotgun) L.McCoy left end pushed ob at ARI 47 for 6 yards (K.Minter).,10,1,53,BUF 47,0,BUF,
+7,978,2,01:13,"(1:13) (Shotgun) T.Taylor pass deep left to R.Woods to ARI 24 for 24 yards (P.Peterson). Caught near sideline at ARI 25. Penalty on ARI-P.Peterson, Defensive Holding, declined.",20,1,29,ARI 48,0,BUF,
+7,950,1,01:18,"(1:18) (Shotgun) T.Taylor pass incomplete short right to W.Powell. Through receiver's hands at ARI 43, crossing to middle.",20,1,5,ARI 48,0,BUF,
+7,1017,1,00:59,"(:59) (No Huddle, Shotgun) L.McCoy up the middle for 24 yards, TOUCHDOWN.",10,1,53,ARI 24,1,BUF,TD
+7,1035,0,00:55,"D.Carpenter extra point is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",0,1,53,ARI 15,1,BUF,XP
+6,819,4,02:34,"(2:34) D.Butler punts 31 yards to BUF 47, Center-K.Canaday, out of bounds.",13,1,-3,ARI 22,0,ARI,PUNT
+6,715,0,03:29,"J.Gay kicks 65 yards from BUF 35 to end zone, Touchback. Kick through end zone.",0,1,-3,BUF 35,0,BUF,KICKOFF
+6,758,2,02:47,(2:47) C.Palmer pass incomplete deep middle to M.Floyd (C.Graham). ARI-M.Floyd was injured during the play.  Receiver and coverage at BUF 33.,13,1,-3,ARI 22,0,ARI,
+6,735,1,03:29,(3:29) D.Johnson left tackle to ARI 22 for -3 yards (K.Williams).,10,1,-3,ARI 25,0,ARI,
+6,786,3,02:40,"(2:40) (Shotgun) C.Palmer pass incomplete short right to Jo.Brown. Underthrown, receiver in flat at ARI 35. Pressure on QB: J.Hughes.",13,1,-3,ARI 22,0,ARI,
+9,1249,1,14:55,"(14:55) (Shotgun) T.Taylor pass incomplete short left to W.Powell. Dropped, receiver near sideline at ARI 46.",20,2,-10,ARI 49,0,BUF,
+9,1313,3,14:14,(14:14) (Shotgun) T.Taylor pass deep right intended for M.Goodwin INTERCEPTED by P.Peterson at ARI 10. P.Peterson ran ob at ARI 10 for no gain. Intercepted along sideline.,23,2,-13,BUF 48,0,BUF,INT
+9,1281,2,14:51,"(14:51) (Shotgun) T.Taylor FUMBLES (Aborted) at BUF 48, and recovers at BUF 48. T.Taylor to BUF 48 for no gain (Ch.Jones). Fumble on handoff exchange to M.Gillislee.",20,2,-13,ARI 49,0,BUF,FUMBLE
+9,1215,1,15:00,"(15:00) (Shotgun) T.Taylor pass incomplete short middle to R.Woods. Dropped, receiver at ARI 35. PENALTY on BUF-R.Incognito, Illegal Use of Hands, 10 yards, enforced at ARI 39 - No Play.",10,2,-10,ARI 39,0,BUF,PENALTY
+8,1077,1,00:55,(:55) C.Palmer pass incomplete deep left to Jo.Brown (C.Graham). Receiver and coverage in flat at BUF 37.,10,1,0,ARI 25,0,ARI,
+8,1052,0,00:55,"J.Gay kicks 65 yards from BUF 35 to end zone, Touchback. A.Ellington kneels 2 yds. into end zone.",0,1,0,BUF 35,0,BUF,KICKOFF
+8,1104,2,00:48,"(:48) D.Johnson left guard to ARI 30 for 5 yards (L.Alexander, Z.Brown).",10,1,5,ARI 25,0,ARI,
+8,1153,4,00:02,"(:02) D.Butler punts 40 yards to BUF 30, Center-K.Canaday. B.Tate to ARI 39 for 31 yards (D.Bucannon, D.Butler). ARI-K.Canaday was injured during the play.",5,1,5,ARI 30,0,ARI,PUNT
+8,1125,3,00:07,"(:07) (Shotgun) C.Palmer pass incomplete short right to Ja.Brown (A.Williams). Receiver at ARI 44, crossing to middle (ball tipped at ARI 40).",5,1,5,ARI 30,0,ARI,
+11,1588,2,11:18,"(11:18) (Shotgun) T.Taylor pass incomplete short middle to C.Clay (C.Campbell). Receiver at ARI 7, pass batted at ARI 11.",2,2,41,ARI 11,0,BUF,
+11,1641,1,10:32,"(10:32) L.McCoy left end for 5 yards, TOUCHDOWN.",5,2,52,ARI 5,1,BUF,TD
+11,1619,3,11:13,(11:13) M.Gillislee left guard to ARI 5 for 6 yards (D.Swearinger; D.Bucannon).,2,2,47,ARI 11,0,BUF,
+11,1544,1,12:34,(12:34) T.Taylor scrambles right tackle to ARI 19 for 10 yards (C.Campbell).,10,2,33,ARI 29,0,BUF,
+11,1492,1,13:16,"(13:16) PENALTY on ARI-C.Peters, Encroachment, 5 yards, enforced at BUF 48 - No Play.",10,2,5,BUF 48,0,BUF,PENALTY
+11,1517,1,13:16,(13:16) L.McCoy right tackle to ARI 29 for 18 yards (T.Jefferson). Key block: J.Miller.,5,2,23,ARI 47,0,BUF,
+11,1664,0,10:25,"D.Carpenter extra point is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",0,2,52,ARI 15,1,BUF,XP
+11,1566,1,11:56,"(11:56) Direct snap to L.McCoy (T.Taylor at WR). (Shotgun) L.McCoy right guard to ARI 11 for 8 yards (P.Peterson, D.Swearinger).",10,2,47,ARI 19,0,BUF,
+10,1432,3,14:01,"(14:01) (Shotgun) C.Palmer pass short left to D.Johnson to ARI 10 for 5 yards (P.Brown). Dump pass, caught at ARI 5.",15,2,0,ARI 5,0,ARI,
+10,1409,3,14:01,"(14:01) (Shotgun) PENALTY on ARI-J.Veldheer, False Start, 5 yards, enforced at ARI 10 - No Play.",10,2,-5,ARI 10,0,ARI,PENALTY
+10,1344,1,14:10,(14:10) (Shotgun) C.Palmer pass incomplete short right to L.Fitzgerald (J.Hughes). Receiver in flat at ARI 9 (pass batted at ARI 6).,10,2,0,ARI 10,0,ARI,
+10,1382,2,14:06,"(14:06) (Shotgun) C.Palmer pass incomplete short left to Jo.Brown. Underthrown, receiver along sideline at ARI 23.",10,2,0,ARI 10,0,ARI,
+10,1462,4,13:25,"(13:25) C.Catanzaro punts 47 yards to BUF 43, Center-K.Canaday, downed by ARI-J.Bethel. PENALTY on ARI-J.Bethel, Illegal Touch Kick, 5 yards, enforced at BUF 43.",10,2,0,ARI 10,0,ARI,PUNT
+13,2587,1,00:21,(:21) (Shotgun) T.Taylor sacked at BUF 47 for -3 yards (Ch.Jones).,10,2,22,50,0,BUF,
+13,2568,0,00:21,Timeout #2 by BUF at 00:21.,0,2,22,,0,,TIMEOUT
+13,2440,2,00:58,"(:58) (No Huddle, Shotgun) M.Gillislee up the middle to BUF 37 for 8 yards (T.Branch).",6,2,12,BUF 29,0,BUF,
+13,2677,0,,End of half - 2.39 pm,0,2,22,,0,,
+13,2462,0,00:52,Timeout #1 by BUF at 00:52.,0,2,12,,0,,TIMEOUT
+13,2623,2,00:13,(:13) (Shotgun) T.Taylor pass incomplete deep left to M.Goodwin (M.Cooper). Receiver and coverage along sideline at ARI 35.,13,2,22,BUF 47,0,BUF,
+13,2650,3,00:07,"(:07) (Shotgun) T.Taylor pass incomplete deep left to M.Goodwin [E.Stinson]. Overthrown, receiver in rear corner of end zone.",13,2,22,BUF 47,0,BUF,
+13,2606,0,00:13,Timeout #3 by BUF at 00:13.,0,2,22,,0,,TIMEOUT
+13,2480,1,00:52,"(:52) (Shotgun) T.Taylor pass short middle to L.McCoy to BUF 40 for 3 yards (K.Minter). Caught at BUF 39, crossing from left.",10,2,15,BUF 37,0,BUF,
+13,2407,1,01:05,(1:05) (Shotgun) T.Taylor pass short left to R.Woods pushed ob at BUF 29 for 4 yards (T.Branch). Caught along sideline at BUF 27.,10,2,22,BUF 25,0,BUF,
+13,2385,0,01:05,"C.Catanzaro kicks 65 yards from ARI 35 to end zone, Touchback. Kick through end zone.",0,2,22,ARI 35,0,ARI,KICKOFF
+13,2509,2,00:34,"(:34) (No Huddle, Shotgun) T.Taylor pass incomplete short right to M.Goodwin. Underthrown, receiver along sideline at BUF 45.",7,2,22,BUF 40,0,BUF,
+13,2531,3,00:30,"(:30) (Shotgun) L.McCoy up the middle to BUF 49 for 9 yards (T.Jefferson). FUMBLES (T.Jefferson), recovered by BUF-J.Mills at 50. J.Mills to 50 for no gain (T.Mathieu).",7,2,22,BUF 40,0,BUF,FUMBLE
+13,2693,0,,END QUARTER 2,0,2,22,,0,,
+12,2082,1,04:19,(4:19) D.Johnson left tackle to BUF 27 for 4 yards (Z.Brown).,10,2,57,BUF 31,0,ARI,
+12,1875,3,07:35,"(7:35) (Shotgun) C.Palmer pass short middle to L.Fitzgerald to 50 for 7 yards (N.Robey-Coleman). Caught at ARI 43, slanting from left. PENALTY on ARI-Jo.Brown, Offensive Pass Interference, 10 yards, enforced at ARI 43 - No Play.",4,2,17,ARI 43,0,ARI,PENALTY
+12,1925,3,07:08,"(7:08) (Shotgun) C.Palmer sacked at ARI 29 for -4 yards (L.Alexander). PENALTY on BUF-J.Hughes, Unnecessary Roughness, 15 yards, enforced at ARI 29.",14,2,28,ARI 33,0,ARI,PENALTY
+12,2196,2,02:00,"(2:00) D.Johnson left tackle to BUF 9 for 1 yard (A.Washington, S.Gilmore).",4,2,75,BUF 10,0,ARI,
+12,1777,3,09:33,"(9:33) D.Johnson left guard to ARI 26 for 1 yard (Z.Brown, A.Washington). Measurement = first down.",1,2,10,ARI 25,0,ARI,
+12,1715,1,10:20,(10:20) C.Palmer pass incomplete deep middle to Jo.Brown (S.Gilmore). BUF-A.Williams was injured during the play.  Receiver and coverage at BUF 47.,10,2,0,ARI 16,0,ARI,
+12,2307,0,01:05,Timeout #1 by ARI at 01:05.,0,2,84,,0,,TIMEOUT
+12,2156,1,02:13,(2:13) D.Johnson right guard to BUF 10 for 6 yards (Z.Brown).,10,2,74,BUF 16,0,ARI,
+12,2368,0,01:05,"C.Catanzaro extra point is GOOD, Center-K.Canaday, Holder-D.Butler.",0,2,84,BUF 15,1,ARI,XP
+12,2178,0,02:00,Two-Minute Warning,0,2,74,,0,,
+12,2284,2,01:09,"(1:09) D.Johnson up the middle to BUF 1 for 3 yards (A.Williams). The Replay Official reviewed the runner was down by contact ruling, and the play was REVERSED. D.Johnson up the middle for 4 yards, TOUCHDOWN.",4,2,84,BUF 4,1,ARI,TD
+12,2053,1,04:59,"(4:59) C.Palmer pass short right to D.Johnson to BUF 31 for 11 yards (Z.Brown). Dump pass, caught at BUF 38.",10,2,53,BUF 42,0,ARI,
+12,1957,1,06:36,"(6:36) C.Palmer pass short middle to D.Fells to BUF 49 for 7 yards (C.Graham). Caught at BUF 49. PENALTY on ARI-M.Floyd, Illegal Formation, 5 yards, enforced at ARI 44 - No Play.",10,2,23,ARI 44,0,ARI,PENALTY
+12,1997,1,06:05,(6:05) (Shotgun) C.Palmer pass short right to Ja.Brown to 50 for 11 yards (C.Bryant) [J.Hughes]. Caught in flat at ARI 45.,15,2,34,ARI 39,0,ARI,
+12,1848,2,08:15,"(8:15) D.Johnson up the middle to ARI 43 for 6 yards (P.Brown, L.Alexander).",10,2,27,ARI 37,0,ARI,
+12,1802,1,08:57,(8:57) D.Johnson left tackle pushed ob at ARI 37 for 11 yards (Z.Brown).,10,2,84,ARI 26,0,ARI,
+12,2127,3,02:57,"(2:57) (Shotgun) C.Palmer pass short middle to D.Fells to BUF 16 for 8 yards (R.Blanton, J.Meeks). Screen pass, caught at BUF 25.",3,2,84,BUF 24,0,ARI,
+12,1825,1,08:20,(8:20) (Shotgun) C.Palmer pass incomplete deep left to J.Gresham (S.Gilmore). Receiver and coverage near sideline at BUF 45.,10,2,21,ARI 37,0,ARI,
+12,2219,3,01:18,"(1:18) (Shotgun) C.Palmer pass incomplete short left to D.Fells (S.Gilmore). Receiver and coverage in flat at BUF 4. PENALTY on BUF-L.Alexander, Defensive Holding, 5 yards, enforced at BUF 9 - No Play.",3,2,80,BUF 9,0,ARI,PENALTY
+12,1681,0,10:25,J.Gay kicks 64 yards from BUF 35 to ARI 1. A.Ellington pushed ob at ARI 16 for 15 yards (N.Robey-Coleman).,0,2,0,BUF 35,0,BUF,KICKOFF
+12,2025,2,05:32,"(5:32) C.Palmer pass short right to M.Floyd to BUF 42 for 8 yards (C.White). Caught at BUF 46, slanting to middle from flat.",4,2,42,50,0,ARI,
+12,1742,2,10:13,(10:13) (Shotgun) C.Palmer pass short right to Jo.Brown to ARI 25 for 9 yards (C.White). Caught in flat at ARI 25.,10,2,9,ARI 16,0,ARI,
+12,2257,1,01:13,"(1:13) C.Palmer pass incomplete short right to L.Fitzgerald. Overthrown, receiver in rear corner of end zone.",4,2,80,BUF 4,0,ARI,
+12,2105,2,03:38,(3:38) D.Johnson up the middle to BUF 24 for 3 yards (L.Douzable).,6,2,60,BUF 27,0,ARI,
+15,2862,2,12:43,(12:43) L.McCoy left tackle to ARI 40 for no gain (C.Campbell).,3,3,7,ARI 40,0,BUF,
+15,2884,3,12:06,(12:06) (Shotgun) T.Taylor pass short right to W.Powell pushed ob at ARI 26 for 14 yards (P.Peterson). Caught near sideline at ARI 39. Key block: R.Woods.,3,3,21,ARI 40,0,BUF,
+15,2918,1,11:27,(11:27) (Shotgun) T.Taylor pass incomplete short left to L.McCoy. Thrown away after pressure by K.Minter.,10,3,21,ARI 26,0,BUF,
+15,2992,0,10:31,"D.Carpenter extra point is No Good, Wide Right, Center-G.Sanborn, Holder-C.Schmidt.",0,3,47,ARI 15,0,BUF,XPM
+15,2968,3,10:39,"(10:39) (Shotgun) T.Taylor right tackle for 20 yards, TOUCHDOWN.",4,3,47,ARI 20,1,BUF,TD
+15,2945,2,11:21,(11:21) (Shotgun) T.Taylor left end to ARI 20 for 6 yards (M.Cooper).,10,3,27,ARI 26,0,BUF,
+15,2834,1,13:20,(13:20) L.McCoy at QB (T.Taylor at WR). (Shotgun) L.McCoy up the middle to ARI 40 for 7 yards (M.Cooper).,10,3,7,ARI 47,0,BUF,
+14,2815,4,13:27,"(13:27) C.Catanzaro punts 19 yards to ARI 47, Center-K.Canaday, out of bounds.",7,3,3,ARI 28,0,ARI,PUNT
+14,2757,2,14:17,"(14:17) C.Palmer pass short left to T.Niklas to ARI 28 for no gain (Z.Brown). Dump pas, caught at ARI 28.",7,3,3,ARI 28,0,ARI,
+14,2710,0,15:00,"J.Gay kicks 65 yards from BUF 35 to end zone, Touchback. A.Ellington kneels 5 yds. into end zone.",0,3,0,BUF 35,0,BUF,KICKOFF
+14,2730,1,15:00,"(15:00) D.Johnson right tackle to ARI 28 for 3 yards (L.Alexander, C.Bryant).",10,3,3,ARI 25,0,ARI,
+14,2788,3,13:31,(13:31) (Shotgun) C.Palmer pass incomplete short left to L.Fitzgerald. Thrown behind receiver at ARI 28.,7,3,3,ARI 28,0,ARI,
+17,3554,1,01:39,"(1:39) (No Huddle, Shotgun) C.Palmer pass short right to Jo.Brown pushed ob at ARI 46 for 15 yards (C.White). Caught along sideline at ARI 44.",10,3,29,ARI 31,0,ARI,
+17,3588,1,01:03,(1:03) C.Palmer pass short left to M.Floyd ran ob at BUF 39 for 15 yards. Caught along sideline at BUF 39.,10,3,44,ARI 46,0,ARI,
+17,3624,1,00:42,"(:42) C.Palmer pass deep middle to M.Floyd to BUF 22 for 17 yards (R.Blanton). Caught at BUF 22, crossing from left.",10,3,83,BUF 39,0,ARI,
+17,3469,1,02:20,"(2:20) (Shotgun) C.Palmer pass short right to Jo.Brown to ARI 24 for 7 yards (C.White). Caught at ARI 22, slanting to middle.",10,3,7,ARI 17,0,ARI,
+17,3507,2,01:59,"(1:59) (No Huddle, Shotgun) C.Palmer pass short left to L.Fitzgerald to ARI 31 for 7 yards (N.Robey-Coleman). Caught in flat at ARI 30. Penalty on BUF-N.Robey-Coleman, Defensive Pass Interference, declined.",3,3,14,ARI 24,0,ARI,
+17,3658,1,00:19,"(:19) (No Huddle, Shotgun) D.Johnson left end for 22 yards, TOUCHDOWN.",10,3,83,BUF 22,1,ARI,TD
+17,3442,0,02:25,J.Gay kicks 68 yards from BUF 35 to ARI -3. A.Ellington to ARI 17 for 20 yards (K.Seymour). BUF-M.Gillislee was injured during the play.,0,3,0,BUF 35,0,BUF,KICKOFF
+17,3677,0,00:12,(Pass formation) TWO-POINT CONVERSION ATTEMPT. C.Palmer pass to Ja.Brown is incomplete. ATTEMPT FAILS. Pass tipped by J.Hughes at line.,0,3,83,BUF 2,0,ARI,2PPF
+16,3217,2,06:36,"(6:36) C.Johnson right tackle to BUF 23 for 5 yards (L.Alexander, C.White).",10,3,52,BUF 28,0,ARI,
+16,3109,1,09:07,"(9:07) C.Palmer pass short left to D.Johnson to ARI 48 for 12 yards (K.Seymour, P.Brown). Flat pass, caught at ARI 39.",10,3,23,ARI 36,0,ARI,
+16,3396,4,02:40,"(2:40) (Field Goal formation) D.Butler FUMBLES (Aborted) at BUF 22, touched at ARI 40, RECOVERED by BUF-A.Williams at BUF 47. A.Williams for 53 yards, TOUCHDOWN. Fumble touched by C.Catanzaro before A.Williams recovery.",6,3,15,BUF 12,1,ARI,TD
+16,3315,2,04:20,(4:20) D.Johnson right tackle to BUF 7 for no gain (C.White).,1,3,15,BUF 7,0,ARI,
+16,3239,3,05:56,(5:56) (Shotgun) C.Palmer pass short right to D.Fells to BUF 16 for 7 yards (D.Williams). Caught in flat at BUF 18.,5,3,15,BUF 23,0,ARI,
+16,3030,1,10:31,"(10:31) C.Palmer pass incomplete short middle to D.Johnson [K.Williams]. Underthrown, receiver at ARI 34, crossing from left.",10,3,0,ARI 25,0,ARI,
+16,3361,4,02:49,"(2:49) (Shotgun) PENALTY on ARI-C.Palmer, Delay of Game, 5 yards, enforced at BUF 7 - No Play.",1,3,15,BUF 7,0,ARI,PENALTY
+16,3291,2,04:38,"(4:38) (Shotgun) PENALTY on BUF-J.Hughes, Neutral Zone Infraction, 5 yards, enforced at BUF 12 - No Play.",6,3,15,BUF 12,0,ARI,PENALTY
+16,3195,1,07:13,(7:13) C.Johnson up the middle to BUF 28 for no gain (Z.Brown).,10,3,52,BUF 28,0,ARI,
+16,3057,2,10:25,"(10:25) D.Johnson up the middle to ARI 24 for -1 yards (P.Brown, K.Williams).",10,3,-1,ARI 25,0,ARI,
+16,3269,1,05:22,(5:22) D.Johnson right tackle to BUF 12 for 4 yards (Z.Brown).,10,3,15,BUF 16,0,ARI,
+16,3079,3,09:39,(9:39) (Shotgun) C.Palmer pass short right to L.Fitzgerald to ARI 36 for 12 yards (C.White). Caught along sideline at ARI 35.,11,3,11,ARI 24,0,ARI,
+16,3339,3,03:38,"(3:38) D.Johnson up the middle to BUF 7 for no gain (J.Hughes, J.Worthy).",1,3,15,BUF 7,0,ARI,
+16,3009,0,10:31,"J.Gay kicks 65 yards from BUF 35 to end zone, Touchback. A.Ellington kneels 4 yds. into end zone.",0,3,0,BUF 35,0,BUF,KICKOFF
+16,3138,1,08:25,(8:25) D.Johnson left guard to BUF 39 for 13 yards (C.Graham).,10,3,36,ARI 48,0,ARI,
+16,3160,1,07:46,(7:46) C.Palmer pass short right to L.Fitzgerald pushed ob at BUF 28 for 11 yards (C.White). Caught along sideline at BUF 29.,10,3,47,BUF 39,0,ARI,
+19,4046,3,11:22,"(11:22) (Shotgun) C.Palmer pass short middle to L.Fitzgerald to BUF 42 for 5 yards (C.Graham). Caught at BUF 43, crossing from right.",29,4,4,BUF 47,0,ARI,
+19,3907,1,12:32,"(12:32) (No Huddle, Shotgun) C.Palmer pass incomplete short left to D.Fells (Z.Brown). Overthrown, receiver in coverage at BUF 28. PENALTY on BUF-Z.Brown, Defensive Pass Interference, 5 yards, enforced at BUF 33 - No Play.",10,4,18,BUF 33,0,ARI,PENALTY
+19,4079,4,10:41,"(10:41) C.Catanzaro 60 yard field goal is GOOD, Center-K.Canaday, Holder-D.Butler. 2nd longest FG in Cardinals history (61 yds, Jay Feely, vs. Buf., 10/14/12)",24,4,4,BUF 42,1,ARI,FG
+19,3882,1,12:55,"(12:55) (Shotgun) C.Palmer pass short middle to L.Fitzgerald pushed ob at BUF 33 for 13 yards (K.Seymour). Caught at BUF 43, crossing from left.",10,4,13,BUF 46,0,ARI,
+19,4002,1,11:54,(11:54) (Shotgun) C.Palmer sacked at BUF 47 for -9 yards (C.Graham).,20,4,-1,BUF 38,0,ARI,
+19,3950,1,12:27,"(12:27) D.Johnson left end to BUF 20 for 8 yards (P.Brown). PENALTY on ARI-A.Shipley, Offensive Holding, 10 yards, enforced at BUF 28 - No Play.",10,4,8,BUF 28,0,ARI,PENALTY
+19,4023,2,11:28,"(11:28) (No Huddle, Shotgun) C.Palmer pass incomplete short left to M.Floyd.",29,4,-1,BUF 47,0,ARI,
+19,3982,0,11:55,Timeout #1 by BUF at 11:55.,0,4,8,,0,,TIMEOUT
+18,3773,2,15:00,"(15:00) L.McCoy at QB (T.Taylor at WR). (Shotgun) L.McCoy right tackle to BUF 25 for 2 yards (T.Mathieu). PENALTY on BUF-J.Mills, Offensive Holding, 10 yards, enforced at BUF 25.",18,4,-11,BUF 23,0,BUF,PENALTY
+18,3830,3,13:49,"(13:49) (Shotgun) T.Taylor pass short left to R.Woods to BUF 20 for 7 yards (T.Mathieu). Caught at BUF 15, crossing from middle.",28,4,-11,BUF 13,0,BUF,
+18,3807,2,14:31,(14:31) L.McCoy right tackle to BUF 13 for -2 yards (C.Campbell).,26,4,-18,BUF 15,0,BUF,
+18,3740,0,,End of quarter - 3.28 pm,0,3,-8,,0,,
+18,3756,0,,END QUARTER 3,0,3,-8,,0,,
+18,3696,0,00:12,C.Catanzaro kicks 45 yards from ARI 35 to BUF 20. J.Felton to BUF 31 for 11 yards (D.Swearinger).,0,3,0,ARI 35,0,ARI,KICKOFF
+18,3720,1,00:08,(:08) T.Taylor sacked at BUF 23 for -8 yards (M.Golden).,10,3,-8,BUF 31,0,BUF,
+18,3859,4,13:03,"(13:03) C.Schmidt punts 26 yards to BUF 46, Center-G.Sanborn, out of bounds.",21,4,-11,BUF 20,0,BUF,PUNT

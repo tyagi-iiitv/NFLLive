@@ -1,185 +1,185 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1163,1,13:03,,10,2,8,DET 15,0,DET,
-9,1234,2,11:16,,16,2,26,DET 34,0,DET,
-9,1187,2,12:31,,2,2,25,DET 23,0,DET,
-9,1213,1,11:56,,10,2,19,DET 40,0,DET,
-9,1255,3,10:33,,9,2,26,DET 41,0,DET,
-9,1277,4,10:27,,9,2,26,DET 41,0,DET,PUNT
-24,3450,0,06:45,,0,4,0,DAL 35,0,DAL,KICKOFF
-24,3542,1,04:50,,10,4,65,DAL 15,0,DET,
-24,3667,0,03:33,,0,4,80,DAL 2,1,DET,XP
-24,3588,3,04:08,,4,4,80,DAL 9,0,DET,
-24,3492,1,06:03,,10,4,59,DAL 26,0,DET,
-24,3564,2,04:45,,10,4,71,DAL 15,0,DET,
-24,3609,1,03:37,,1,4,80,DAL 1,1,DET,TD
-24,3513,2,05:22,,5,4,65,DAL 21,0,DET,
-24,3468,1,06:45,,10,4,54,DET 20,0,DET,
-10,1344,1,09:32,,10,2,26,DAL 33,0,DAL,
-10,1320,2,10:10,,10,2,13,DAL 20,0,DAL,
-10,1298,1,10:16,,10,2,0,DAL 20,0,DAL,
-10,1481,3,05:53,,2,2,45,DET 35,0,DAL,
-10,1458,3,06:31,,7,2,45,DET 40,0,DAL,PENALTY
-10,1368,1,08:50,,10,2,31,DAL 46,0,DAL,
-10,1410,1,07:34,,10,2,38,DET 43,0,DAL,
-10,1431,2,07:04,,9,2,45,DET 42,0,DAL,
-10,1389,2,08:06,,5,2,37,DET 49,0,DAL,
-10,1503,4,05:44,,2,2,45,DET 35,1,DAL,FG
-20,2961,1,14:49,,3,4,53,DAL 3,0,DET,
-20,2937,1,15:00,,10,4,61,DAL 29,0,DET,
-20,2920,0,15:00,,0,4,34,,0,,TIMEOUT
-20,2859,1,00:50,,10,3,16,DET 49,0,DET,
-20,2790,1,02:54,,10,3,3,DET 37,0,DET,
-20,3028,4,13:16,,2,4,61,DAL 2,1,DET,FG
-20,2768,0,03:02,,0,3,0,DAL 35,0,DAL,KICKOFF
-20,2835,3,01:31,,4,3,12,DET 43,0,DET,
-20,2880,2,00:07,,6,3,34,DAL 47,0,DET,
-20,2982,2,14:09,,10,4,61,DAL 10,0,DET,
-20,2814,2,02:16,,7,3,6,DET 40,0,DET,
-20,3006,3,13:21,,2,4,61,DAL 2,0,DET,
-6,811,0,00:54,,0,1,0,DET 35,0,DET,KICKOFF
-6,834,1,00:54,,10,1,0,DAL 20,0,DAL,
-6,867,2,00:48,,10,1,0,DAL 20,0,DAL,
-6,889,3,00:42,,10,1,0,DAL 20,0,DAL,
-6,911,4,00:37,,10,1,0,DAL 20,0,DAL,PUNT
-27,4031,0,01:14,,0,4,-4,,0,,TIMEOUT
-27,3993,0,01:19,,0,4,-3,,0,,TIMEOUT
-27,4080,4,01:07,,5,4,5,DET 26,1,DAL,FG
-27,4010,2,01:19,,13,4,-4,DET 34,0,DAL,
-27,3972,1,01:24,,10,4,-3,DET 31,0,DAL,
-27,4048,3,01:14,,14,4,5,DET 35,0,DAL,
-18,2638,2,04:16,,9,3,56,DET 48,0,DET,FUMBLE
-18,2617,1,04:57,,10,3,35,DET 47,0,DET,
-18,2596,2,05:43,,1,3,34,DET 44,0,DET,
-18,2551,1,07:05,,10,3,22,DET 13,0,DET,
-18,2575,1,06:24,,10,3,31,DET 35,0,DET,
-28,4118,1,01:02,,10,4,0,DET 20,0,DET,
-28,4299,0,00:12,,0,4,80,DAL 2,1,DET,XP
-28,4171,1,00:42,,10,4,17,DET 37,0,DET,
-28,4193,2,00:40,,10,4,57,DET 37,0,DET,
-28,4099,0,01:02,,0,4,0,DAL 35,0,DAL,KICKOFF
-28,4217,1,00:33,,10,4,79,DAL 23,0,DET,
-28,4147,2,00:56,,10,4,17,DET 20,0,DET,
-28,4241,1,00:14,,1,4,80,DAL 1,1,DET,TD
-26,3931,4,01:33,,12,4,-2,DET 31,0,DET,
-26,3842,1,02:24,,10,4,-8,DET 33,0,DET,
-26,3902,3,01:39,,12,4,-2,DET 31,0,DET,
-26,3878,2,02:00,,18,4,-2,DET 25,0,DET,
-26,3861,0,02:00,,0,4,-8,,0,,
-25,3683,0,03:33,,0,4,0,DET 35,0,DET,KICKOFF
-25,3705,1,03:27,,10,4,6,DAL 19,0,DAL,PENALTY
-25,3759,2,02:42,,13,4,4,DAL 22,0,DAL,
-25,3797,3,02:38,,12,4,4,DAL 23,0,DAL,
-25,3780,0,02:38,,0,4,4,,0,,TIMEOUT
-25,3738,1,03:24,,10,4,3,DAL 25,0,DAL,
-25,3819,4,02:32,,12,4,4,DAL 23,0,DAL,PUNT
-1,102,2,14:28,,7,1,3,DET 23,0,DET,
-1,146,4,14:15,,7,1,3,DET 23,0,DET,PUNT
-1,124,3,14:22,,7,1,3,DET 23,0,DET,
-1,78,1,15:00,,15,1,3,DET 15,0,DET,
-1,36,0,15:00,,0,1,0,DAL 35,0,DAL,KICKOFF
-1,55,1,15:00,,10,1,-5,DET 20,0,DET,PENALTY
-5,682,2,02:44,,10,1,87,DET 10,0,DET,
-5,748,3,01:05,,2,1,88,DAL 2,0,DET,
-5,770,4,00:56,,2,1,90,DAL 2,1,DET,TD
-5,661,1,03:21,,10,1,0,DET 10,0,DET,
-5,795,0,00:54,,0,1,90,DAL 2,1,DET,XP
-5,727,2,01:48,,2,1,88,DAL 2,0,DET,
-5,706,1,02:28,,3,1,88,DAL 3,0,DET,
-13,1985,2,00:34,,10,2,14,DET 49,0,DET,
-13,1904,0,00:46,,0,2,0,DAL 35,0,DAL,KICKOFF
-13,2007,3,00:29,,10,2,14,DET 49,0,DET,PENALTY
-13,1946,0,00:38,,0,2,14,,0,,TIMEOUT
-13,2040,4,00:25,,25,2,14,DET 34,0,DET,PUNT
-13,1963,1,00:38,,10,2,29,DET 49,0,DET,
-13,1922,1,00:46,,10,2,29,DET 20,0,DET,
-29,4315,0,00:12,,0,4,0,DET 35,0,DET,KICKOFF
-29,4361,0,00:00,,0,4,6,,0,,
-29,4337,1,00:07,,10,4,6,DAL 33,0,DAL,FUMBLE
-21,3069,1,13:04,,10,4,6,DAL 29,0,DAL,
-21,3090,2,12:26,,4,4,11,DAL 35,0,DAL,
-21,3111,1,11:43,,10,4,71,DAL 40,1,DAL,TD
-21,3047,0,13:13,,0,4,0,DET 35,0,DET,KICKOFF
-21,3131,0,11:32,,0,4,71,DET 2,1,DAL,XP
-23,3393,1,07:28,,10,4,2,DAL 48,0,DAL,
-23,3434,0,06:45,,0,4,52,DET 2,1,DAL,XP
-23,3414,2,06:54,,8,4,52,50,1,DAL,TD
-23,3371,0,07:38,,0,4,0,DET 35,0,DET,KICKOFF
-11,1636,2,03:46,,10,2,32,DET 31,0,DET,
-11,1522,0,05:39,,0,2,0,DAL 35,0,DAL,KICKOFF
-11,1612,1,04:26,,10,2,11,DET 31,0,DET,
-11,1758,2,01:58,,22,2,53,DAL 44,0,DET,
-11,1561,2,05:00,,8,2,2,DET 22,0,DET,
-11,1717,1,02:08,,15,2,36,DAL 37,0,DET,
-11,1540,1,05:38,,10,2,2,DET 20,0,DET,
-11,1799,3,01:51,,5,2,53,DAL 27,0,DET,INT
-11,1583,3,04:56,,8,2,11,DET 22,0,DET,
-11,1660,1,03:06,,10,2,48,DAL 48,0,DET,
-11,1782,0,01:51,,0,2,53,,0,,TIMEOUT
-11,1681,1,02:31,,10,2,53,DAL 32,0,DET,PENALTY
-14,2065,1,00:15,,10,2,-1,DAL 33,0,DAL,
-8,1050,2,13:28,,6,2,4,DAL 42,0,DAL,
-8,1026,1,14:13,,10,2,4,DAL 38,0,DAL,
-8,1116,3,13:22,,6,2,4,DAL 42,0,DAL,
-8,1138,4,13:17,,6,2,4,DAL 42,0,DAL,PUNT
-19,2727,3,03:12,,10,3,0,DET 35,0,DAL,
-19,2684,1,03:58,,10,3,0,DET 35,0,DAL,
-19,2705,2,03:18,,10,3,0,DET 35,0,DAL,
-19,2749,4,03:07,,10,3,0,DET 35,1,DAL,FG
-22,3269,2,09:25,,8,4,54,DAL 34,0,DET,
-22,3166,1,11:32,,10,4,14,DET 20,0,DET,
-22,3293,1,08:45,,10,4,70,DAL 26,0,DET,
-22,3187,1,10:53,,10,4,23,DET 34,0,DET,
-22,3147,0,11:32,,0,4,0,DAL 35,0,DAL,KICKOFF
-22,3314,1,08:09,,10,4,80,DAL 10,0,DET,
-22,3338,2,07:43,,1,4,80,DAL 1,1,DET,TD
-22,3215,2,10:13,,1,4,44,DET 43,0,DET,PENALTY
-22,3248,1,10:07,,10,4,46,DAL 36,0,DET,
-22,3355,0,07:38,,0,4,80,DAL 2,1,DET,XP
-12,1846,2,00:55,,5,2,-1,DET 5,0,DAL,
-12,1868,3,00:51,,5,2,4,DET 5,1,DAL,TD
-12,1825,1,01:38,,4,2,-1,DET 4,0,DAL,
-12,1888,0,00:46,,0,2,4,DET 2,1,DAL,XP
-16,2365,1,09:58,,10,3,35,DAL 44,0,DET,FUMBLE
-16,2263,1,12:32,,10,3,7,DET 30,0,DET,
-16,2341,2,10:36,,6,3,26,DET 49,0,DET,
-16,2296,2,11:50,,3,3,15,DET 37,0,DET,
-16,2320,1,11:13,,10,3,19,DET 45,0,DET,
-7,934,1,00:28,,10,1,11,DET 40,0,DET,
-7,1000,2,14:26,,3,2,18,DAL 42,0,DET,INT
-7,971,1,15:00,,10,2,18,DAL 49,0,DET,
-3,399,3,08:37,,4,1,13,DET 38,0,DET,PENALTY
-3,333,2,10:36,,3,1,12,DET 27,0,DET,
-3,378,2,09:18,,6,1,18,DET 36,0,DET,
-3,354,1,10:01,,10,1,16,DET 32,0,DET,
-3,422,0,08:20,,0,1,13,,0,,TIMEOUT
-3,439,3,08:20,,9,1,20,DET 33,0,DET,
-3,312,1,11:13,,10,1,7,DET 20,0,DET,
-3,463,4,07:49,,2,1,20,DET 40,0,DET,PUNT
-17,2506,3,07:19,,5,3,17,DAL 49,0,DAL,
-17,2463,1,08:05,,10,3,17,DAL 44,0,DAL,
-17,2418,2,09:09,,5,3,9,DAL 37,0,DAL,
-17,2528,4,07:13,,5,3,17,DAL 49,0,DAL,PUNT
-17,2439,3,08:24,,1,3,12,DAL 41,0,DAL,
-17,2397,1,09:44,,10,3,5,DAL 32,0,DAL,
-17,2484,2,07:24,,5,3,17,DAL 49,0,DAL,
-4,642,4,03:28,,8,1,37,DET 42,0,DAL,PUNT
-4,576,1,05:25,,10,1,39,DET 44,0,DAL,
-4,597,2,04:46,,6,1,36,DET 40,0,DAL,
-4,547,1,05:57,,10,1,35,DAL 45,0,DAL,
-4,481,1,07:41,,10,1,7,DAL 21,0,DAL,
-4,502,2,07:04,,3,1,7,DAL 28,0,DAL,
-4,523,3,06:20,,3,1,24,DAL 28,0,DAL,
-4,618,3,04:04,,9,1,37,DET 43,0,DAL,
-2,291,4,11:22,,6,1,16,DAL 46,0,DAL,PUNT
-2,248,2,12:13,,3,1,16,DAL 49,0,DAL,
-2,195,2,13:18,,5,1,19,DAL 35,0,DAL,PENALTY
-2,174,1,14:02,,10,1,5,DAL 30,0,DAL,
-2,227,1,12:49,,10,1,19,DAL 42,0,DAL,
-2,269,3,11:30,,6,1,16,DAL 46,0,DAL,
-15,2150,2,14:15,,9,3,18,DAL 21,0,DAL,
-15,2242,4,12:43,,6,3,22,DAL 42,0,DAL,PUNT
-15,2220,3,12:49,,6,3,22,DAL 42,0,DAL,
-15,2102,0,15:00,,0,3,0,DET 35,0,DET,KICKOFF
-15,2121,1,15:00,,10,3,1,DAL 20,0,DAL,
-15,2174,1,13:36,,10,3,22,DAL 38,0,DAL,
-15,2198,2,12:55,,6,3,22,DAL 42,0,DAL,
+24,3450,0,06:45,"D.Bailey kicks 72 yards from DAL 35 to DET -7. J.Ross, Touchback.",0,4,0,DAL 35,0,DAL,KICKOFF
+24,3542,1,04:50,(4:50) (Shotgun) M.Stafford pass incomplete short right to K.Durham.,10,4,65,DAL 15,0,DET,
+24,3564,2,04:45,(4:45) (Shotgun) M.Stafford pass short middle to C.Johnson to DAL 9 for 6 yards (S.Lee; J.Heath).,10,4,71,DAL 15,0,DET,
+24,3513,2,05:22,(5:22) (Shotgun) M.Stafford pass short right to R.Bush ran ob at DAL 15 for 6 yards (E.Sims).,5,4,65,DAL 21,0,DET,
+24,3609,1,03:37,"(3:37) R.Bush left tackle for 1 yard, TOUCHDOWN. The Replay Assistant challenged the runner broke the plane ruling, and the play was Upheld.",1,4,80,DAL 1,1,DET,TD
+24,3492,1,06:03,(6:03) (Shotgun) R.Bush right tackle to DAL 21 for 5 yards (B.Church).,10,4,59,DAL 26,0,DET,
+24,3667,0,03:33,"D.Akers extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin.",0,4,80,DAL 2,1,DET,XP
+24,3468,1,06:45,(6:45) (Shotgun) M.Stafford pass deep middle to C.Johnson to DAL 26 for 54 yards (O.Scandrick) [J.Hatcher].,10,4,54,DET 20,0,DET,
+24,3588,3,04:08,(4:08) (Shotgun) M.Stafford scrambles up the middle to DAL 1 for 8 yards (E.Sims).,4,4,80,DAL 9,0,DET,
+25,3759,2,02:42,(2:42) (Shotgun) J.Randle left end to DAL 23 for 1 yard (S.Tulloch).,13,4,4,DAL 22,0,DAL,
+25,3780,0,02:38,Timeout #1 by DET at 02:38.,0,4,4,,0,,TIMEOUT
+25,3683,0,03:33,S.Martin kicks 69 yards from DET 35 to DAL -4. D.Harris to DAL 19 for 23 yards (J.Wendling).,0,4,0,DET 35,0,DET,KICKOFF
+25,3797,3,02:38,(2:38) (Shotgun) T.Romo pass incomplete short right to C.Beasley.,12,4,4,DAL 23,0,DAL,
+25,3819,4,02:32,"(2:32) C.Jones punts 44 yards to DET 33, Center-L.Ladouceur, fair catch by J.Ross.",12,4,4,DAL 23,0,DAL,PUNT
+25,3738,1,03:24,(3:24) (Shotgun) J.Randle up the middle to DAL 22 for -3 yards (D.Levy).,10,4,3,DAL 25,0,DAL,
+25,3705,1,03:27,"(3:27) (Shotgun) T.Romo pass incomplete short left to D.Bryant. PENALTY on DET-R.Mathis, Defensive Pass Interference, 6 yards, enforced at DAL 19 - No Play.",10,4,6,DAL 19,0,DAL,PENALTY
+26,3878,2,02:00,(2:00) (Shotgun) M.Stafford pass short right to B.Pettigrew to DET 31 for 6 yards (J.Heath).,18,4,-2,DET 25,0,DET,
+26,3861,0,02:00,Two-Minute Warning,0,4,-8,,0,,
+26,3842,1,02:24,(2:24) (Shotgun) M.Stafford sacked at DET 25 for -8 yards (J.Hatcher).,10,4,-8,DET 33,0,DET,
+26,3931,4,01:33,(1:33) (Shotgun) M.Stafford pass incomplete short right to K.Durham (O.Scandrick) [B.Carter].,12,4,-2,DET 31,0,DET,
+26,3902,3,01:39,"(1:39) (No Huddle, Shotgun) M.Stafford pass incomplete short middle to B.Pettigrew (B.Carter).",12,4,-2,DET 31,0,DET,
+27,4080,4,01:07,"(1:07) D.Bailey 44 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",5,4,5,DET 26,1,DAL,FG
+27,4010,2,01:19,(1:19) P.Tanner left end to DET 35 for -1 yards (Tr.Lewis).,13,4,-4,DET 34,0,DAL,
+27,4048,3,01:14,"(1:14) P.Tanner up the middle to DET 26 for 9 yards (R.McIntosh). Penalty on DAL-T.Smith, Offensive Holding, declined.",14,4,5,DET 35,0,DAL,
+27,4031,0,01:14,Timeout #3 by DET at 01:14.,0,4,-4,,0,,TIMEOUT
+27,3972,1,01:24,(1:24) J.Randle right end to DET 34 for -3 yards (D.Levy; S.Tulloch).,10,4,-3,DET 31,0,DAL,
+27,3993,0,01:19,Timeout #2 by DET at 01:19.,0,4,-3,,0,,TIMEOUT
+20,2859,1,00:50,(:50) (Shotgun) J.Bell left tackle to DAL 47 for 4 yards (S.Lee).,10,3,16,DET 49,0,DET,
+20,2814,2,02:16,(2:16) R.Bush left tackle to DET 43 for 3 yards (S.Lee).,7,3,6,DET 40,0,DET,
+20,2880,2,00:07,(:07) (Shotgun) M.Stafford pass deep middle to C.Johnson to DAL 29 for 18 yards (B.Carr).,6,3,34,DAL 47,0,DET,
+20,2768,0,03:02,D.Bailey kicks 72 yards from DAL 35 to DET -7. J.Ross to DET 37 for 44 yards (D.Bailey).,0,3,0,DAL 35,0,DAL,KICKOFF
+20,2961,1,14:49,(14:49) R.Bush left end to DAL 10 for -7 yards (B.Church).,3,4,53,DAL 3,0,DET,
+20,3028,4,13:16,"(13:16) D.Akers 20 yard field goal is GOOD, Center-D.Muhlbach, Holder-S.Martin.",2,4,61,DAL 2,1,DET,FG
+20,2920,0,15:00,Timeout #1 by DAL at 15:00.,0,4,34,,0,,TIMEOUT
+20,3006,3,13:21,(13:21) (Shotgun) M.Stafford pass incomplete short left to J.Ross [K.Wilber].,2,4,61,DAL 2,0,DET,
+20,2937,1,15:00,(15:00) (Shotgun) M.Stafford pass deep left to C.Johnson pushed ob at DAL 3 for 26 yards (B.Carr).,10,4,61,DAL 29,0,DET,
+20,2982,2,14:09,(14:09) M.Stafford pass short right to B.Pettigrew to DAL 2 for 8 yards (S.Lee).,10,4,61,DAL 10,0,DET,
+20,2790,1,02:54,(2:54) (Shotgun) M.Stafford pass short right to R.Bush to DET 40 for 3 yards (B.Webb).,10,3,3,DET 37,0,DET,
+20,2835,3,01:31,(1:31) (Shotgun) M.Stafford pass short middle to K.Durham to DET 49 for 6 yards (J.Heath; S.Lee).,4,3,12,DET 43,0,DET,
+21,3111,1,11:43,"(11:43) (No Huddle, Shotgun) T.Romo pass short right to T.Williams for 60 yards, TOUCHDOWN.",10,4,71,DAL 40,1,DAL,TD
+21,3069,1,13:04,(13:04) (Shotgun) J.Randle up the middle to DAL 35 for 6 yards (N.Suh).,10,4,6,DAL 29,0,DAL,
+21,3131,0,11:32,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,4,71,DET 2,1,DAL,XP
+21,3090,2,12:26,(12:26) (Shotgun) T.Romo scrambles left end to DAL 40 for 5 yards (S.Tulloch).,4,4,11,DAL 35,0,DAL,
+21,3047,0,13:13,S.Martin kicks 70 yards from DET 35 to DAL -5. D.Harris to DAL 29 for 34 yards (D.Slay).,0,4,0,DET 35,0,DET,KICKOFF
+22,3215,2,10:13,"(10:13) (Shotgun) M.Stafford pass incomplete deep left to K.Durham. PENALTY on DAL-O.Scandrick, Defensive Pass Interference, 21 yards, enforced at DET 43 - No Play.",1,4,44,DET 43,0,DET,PENALTY
+22,3248,1,10:07,(10:07) R.Bush left end to DAL 34 for 2 yards (B.Carter).,10,4,46,DAL 36,0,DET,
+22,3355,0,07:38,"D.Akers extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin.",0,4,80,DAL 2,1,DET,XP
+22,3269,2,09:25,(9:25) (Shotgun) M.Stafford pass short left to R.Bush to DAL 26 for 8 yards (O.Scandrick).,8,4,54,DAL 34,0,DET,
+22,3187,1,10:53,(10:53) (Shotgun) M.Stafford pass short middle to R.Bush to DET 43 for 9 yards (S.Lee; N.Hayden).,10,4,23,DET 34,0,DET,
+22,3147,0,11:32,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback.",0,4,0,DAL 35,0,DAL,KICKOFF
+22,3166,1,11:32,(11:32) R.Bush left tackle to DET 34 for 14 yards (K.Wilber; C.Rayford).,10,4,14,DET 20,0,DET,
+22,3338,2,07:43,"(7:43) (No Huddle) J.Bell up the middle for 1 yard, TOUCHDOWN.",1,4,80,DAL 1,1,DET,TD
+22,3314,1,08:09,(8:09) (Shotgun) M.Stafford pass short right to C.Johnson to DAL 1 for 9 yards (J.Heath; B.Carr).,10,4,80,DAL 10,0,DET,
+22,3293,1,08:45,(8:45) (Shotgun) J.Bell right tackle pushed ob at DAL 10 for 16 yards (B.Carr).,10,4,70,DAL 26,0,DET,
+23,3393,1,07:28,(7:28) (Shotgun) J.Randle left tackle to 50 for 2 yards (W.Young).,10,4,2,DAL 48,0,DAL,
+23,3434,0,06:45,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,4,52,DET 2,1,DAL,XP
+23,3414,2,06:54,"(6:54) (Shotgun) T.Romo pass short left to D.Bryant for 50 yards, TOUCHDOWN.",8,4,52,50,1,DAL,TD
+23,3371,0,07:38,S.Martin kicks 73 yards from DET 35 to DAL -8. D.Harris to DAL 48 for 56 yards (T.Whitehead).,0,4,0,DET 35,0,DET,KICKOFF
+28,4217,1,00:33,(:33) (Shotgun) M.Stafford pass deep right to C.Johnson to DAL 1 for 22 yards (J.Hamilton; B.Carr).,10,4,79,DAL 23,0,DET,
+28,4299,0,00:12,"D.Akers extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin.",0,4,80,DAL 2,1,DET,XP
+28,4171,1,00:42,(:42) (No Huddle) M.Stafford spiked the ball to stop the clock.,10,4,17,DET 37,0,DET,
+28,4099,0,01:02,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback.",0,4,0,DAL 35,0,DAL,KICKOFF
+28,4193,2,00:40,(:40) (Shotgun) M.Stafford pass deep left to K.Durham pushed ob at DAL 23 for 40 yards (J.Hamilton).,10,4,57,DET 37,0,DET,
+28,4241,1,00:14,"(:14) M.Stafford up the middle for 1 yard, TOUCHDOWN. The Replay Assistant challenged the runner broke the plane ruling, and the play was Upheld.",1,4,80,DAL 1,1,DET,TD
+28,4147,2,00:56,(:56) (Shotgun) M.Stafford pass deep middle to C.Johnson to DET 37 for 17 yards (B.Carr).,10,4,17,DET 20,0,DET,
+28,4118,1,01:02,(1:02) (Shotgun) M.Stafford pass short left to R.Bush pushed ob at DET 20 for no gain (O.Scandrick).,10,4,0,DET 20,0,DET,
+29,4337,1,00:07,"(:07) (Shotgun) T.Romo pass short left to C.Beasley to DAL 43 for 10 yards. FUMBLES, recovered by DAL-J.Randle at DAL 41. J.Randle to DAL 34 for -7 yards. Lateral to D.Free to DAL 39 for 5 yards (W.Young).",10,4,6,DAL 33,0,DAL,FUMBLE
+29,4361,0,00:00,END GAME,0,4,6,,0,,
+29,4315,0,00:12,S.Martin kicks 45 yards from DET 35 to DAL 20. K.Bosworth to DAL 33 for 13 yards (D.Carey).,0,4,0,DET 35,0,DET,KICKOFF
+1,146,4,14:15,"(14:15) S.Martin punts 64 yards to DAL 13, Center-D.Muhlbach. D.Harris to DAL 30 for 17 yards (A.Palmer). DAL-D.Harris was injured during the play.",7,1,3,DET 23,0,DET,PUNT
+1,55,1,15:00,"(15:00) PENALTY on DET-L.Warford, False Start, 5 yards, enforced at DET 20 - No Play.",10,1,-5,DET 20,0,DET,PENALTY
+1,36,0,15:00,"D.Bailey kicks 65 yards from DAL 35 to end zone, Touchback.",0,1,0,DAL 35,0,DAL,KICKOFF
+1,124,3,14:22,(14:22) (Shotgun) M.Stafford pass incomplete deep right to C.Johnson.,7,1,3,DET 23,0,DET,
+1,102,2,14:28,(14:28) M.Stafford pass incomplete short right to B.Pettigrew.,7,1,3,DET 23,0,DET,
+1,78,1,15:00,(15:00) M.Stafford pass short left to R.Broyles to DET 23 for 8 yards (O.Scandrick).,15,1,3,DET 15,0,DET,
+3,312,1,11:13,(11:13) R.Bush right tackle to DET 27 for 7 yards (J.Heath).,10,1,7,DET 20,0,DET,
+3,333,2,10:36,(10:36) (Shotgun) R.Bush right tackle to DET 32 for 5 yards (S.Lee).,3,1,12,DET 27,0,DET,
+3,378,2,09:18,(9:18) R.Bush left tackle to DET 38 for 2 yards (B.Church).,6,1,18,DET 36,0,DET,
+3,354,1,10:01,(10:01) M.Stafford pass short middle to R.Bush to DET 36 for 4 yards (N.Hayden; J.Durant).,10,1,16,DET 32,0,DET,
+3,463,4,07:49,"(7:49) S.Martin punts 39 yards to DAL 21, Center-D.Muhlbach, out of bounds.",2,1,20,DET 40,0,DET,PUNT
+3,439,3,08:20,(8:20) (Shotgun) M.Stafford pass short middle to T.Riddick to DET 40 for 7 yards (N.Hayden).,9,1,20,DET 33,0,DET,
+3,399,3,08:37,"(8:37) (Shotgun) PENALTY on DET-B.Pettigrew, False Start, 5 yards, enforced at DET 38 - No Play.",4,1,13,DET 38,0,DET,PENALTY
+3,422,0,08:20,Timeout #1 by DAL at 08:20.,0,1,13,,0,,TIMEOUT
+2,195,2,13:18,"(13:18) (Shotgun) T.Romo scrambles left end to DAL 37 for 2 yards (E.Ansah). PENALTY on DET-D.Bentley, Defensive Holding, 5 yards, enforced at DAL 37.",5,1,19,DAL 35,0,DAL,PENALTY
+2,227,1,12:49,(12:49) J.Randle right end to DAL 49 for 7 yards (C.Houston).,10,1,19,DAL 42,0,DAL,
+2,269,3,11:30,(11:30) (Shotgun) T.Romo pass incomplete deep right to T.Williams [N.Fairley].,6,1,16,DAL 46,0,DAL,
+2,174,1,14:02,(14:02) J.Randle right tackle to DAL 35 for 5 yards (W.Young).,10,1,5,DAL 30,0,DAL,
+2,248,2,12:13,(12:13) J.Randle left end to DAL 46 for -3 yards (D.Bentley).,3,1,16,DAL 49,0,DAL,
+2,291,4,11:22,"(11:22) C.Jones punts 54 yards to end zone, Center-L.Ladouceur, Touchback.",6,1,16,DAL 46,0,DAL,PUNT
+5,795,0,00:54,"D.Akers extra point is GOOD, Center-D.Muhlbach, Holder-S.Martin.",0,1,90,DAL 2,1,DET,XP
+5,770,4,00:56,"(:56) (Shotgun) M.Stafford pass short right to C.Johnson for 2 yards, TOUCHDOWN.",2,1,90,DAL 2,1,DET,TD
+5,748,3,01:05,(1:05) (Shotgun) M.Stafford pass incomplete short left [B.Church].,2,1,88,DAL 2,0,DET,
+5,706,1,02:28,(2:28) R.Bush left tackle to DAL 2 for 1 yard (S.Lee).,3,1,88,DAL 3,0,DET,
+5,661,1,03:21,(3:21) R.Bush right tackle to DET 10 for no gain (D.Nevis; E.Sims).,10,1,0,DET 10,0,DET,
+5,727,2,01:48,(1:48) R.Bush up the middle to DAL 2 for no gain (S.Lee).,2,1,88,DAL 2,0,DET,
+5,682,2,02:44,(2:44) (Shotgun) M.Stafford pass short right to C.Johnson pushed ob at DAL 3 for 87 yards (J.Heath).,10,1,87,DET 10,0,DET,
+4,618,3,04:04,(4:04) (Shotgun) T.Romo pass short left to J.Hanna to DET 42 for 1 yard (R.Mathis).,9,1,37,DET 43,0,DAL,
+4,597,2,04:46,"(4:46) L.Dunbar left end to DET 43 for -3 yards (D.Bentley, A.Palmer).",6,1,36,DET 40,0,DAL,
+4,576,1,05:25,(5:25) J.Randle up the middle to DET 40 for 4 yards (D.Taylor).,10,1,39,DET 44,0,DAL,
+4,642,4,03:28,"(3:28) C.Jones punts 32 yards to DET 10, Center-L.Ladouceur, fair catch by R.Broyles.",8,1,37,DET 42,0,DAL,PUNT
+4,547,1,05:57,(5:57) T.Romo pass short right to J.Hanna pushed ob at DET 44 for 11 yards (R.Mathis).,10,1,35,DAL 45,0,DAL,
+4,523,3,06:20,(6:20) (Shotgun) T.Romo pass short left to P.Tanner pushed ob at DAL 45 for 17 yards (E.Ansah).,3,1,24,DAL 28,0,DAL,
+4,502,2,07:04,(7:04) J.Randle left end to DAL 28 for no gain (L.Delmas).,3,1,7,DAL 28,0,DAL,
+4,481,1,07:41,(7:41) J.Randle left tackle to DAL 28 for 7 yards (G.Quin).,10,1,7,DAL 21,0,DAL,
+7,1000,2,14:26,(14:26) M.Stafford pass deep left INTERCEPTED by S.Lee (B.Carr) [N.Hayden] at DAL 23. S.Lee to DAL 38 for 15 yards (R.Sims).,3,2,18,DAL 42,0,DET,INT
+7,971,1,15:00,(15:00) (Shotgun) M.Stafford pass short left to R.Bush pushed ob at DAL 42 for 7 yards (S.Lee).,10,2,18,DAL 49,0,DET,
+7,934,1,00:28,(:28) J.Bell right end to DAL 49 for 11 yards (J.Heath).,10,1,11,DET 40,0,DET,
+6,811,0,00:54,"S.Martin kicks 74 yards from DET 35 to DAL -9. D.Harris, Touchback.",0,1,0,DET 35,0,DET,KICKOFF
+6,889,3,00:42,(:42) (Shotgun) T.Romo pass incomplete short right to T.Williams [N.Fairley].,10,1,0,DAL 20,0,DAL,
+6,911,4,00:37,"(:37) C.Jones punts 40 yards to DET 40, Center-L.Ladouceur, fair catch by R.Broyles.",10,1,0,DAL 20,0,DAL,PUNT
+6,867,2,00:48,(:48) (Shotgun) T.Romo pass incomplete short right to T.Williams.,10,1,0,DAL 20,0,DAL,
+6,834,1,00:54,(:54) T.Romo pass incomplete deep middle to T.Williams.,10,1,0,DAL 20,0,DAL,
+9,1234,2,11:16,(11:16) (Shotgun) T.Riddick right tackle to DET 41 for 7 yards (B.Church).,16,2,26,DET 34,0,DET,
+9,1213,1,11:56,(11:56) R.Bush right end to DET 34 for -6 yards (J.Wynn).,10,2,19,DET 40,0,DET,
+9,1163,1,13:03,(13:03) M.Stafford pass short right to C.Johnson to DET 23 for 8 yards (B.Carr).,10,2,8,DET 15,0,DET,
+9,1187,2,12:31,(12:31) R.Bush left tackle pushed ob at DET 40 for 17 yards (M.Claiborne).,2,2,25,DET 23,0,DET,
+9,1277,4,10:27,"(10:27) S.Martin punts 59 yards to end zone, Center-D.Muhlbach, Touchback.",9,2,26,DET 41,0,DET,PUNT
+9,1255,3,10:33,(10:33) (Shotgun) M.Stafford pass incomplete deep left to C.Johnson.,9,2,26,DET 41,0,DET,
+8,1050,2,13:28,(13:28) T.Romo pass short right to T.Williams ran ob at DAL 47 for 5 yards. Play Challenged by DET and REVERSED. T.Romo pass incomplete short right to T.Williams.,6,2,4,DAL 42,0,DAL,
+8,1026,1,14:13,(14:13) (Shotgun) T.Romo pass short left to T.Williams to DAL 42 for 4 yards (C.Houston).,10,2,4,DAL 38,0,DAL,
+8,1138,4,13:17,"(13:17) C.Jones punts 47 yards to DET 11, Center-L.Ladouceur. R.Broyles to DET 15 for 4 yards (C.Lawrence).",6,2,4,DAL 42,0,DAL,PUNT
+8,1116,3,13:22,(13:22) T.Romo pass incomplete short right to C.Beasley [N.Suh].,6,2,4,DAL 42,0,DAL,
+11,1799,3,01:51,(1:51) (Shotgun) M.Stafford pass short right intended for J.Ross INTERCEPTED by S.Lee at DAL 22. S.Lee to DET 4 for 74 yards (J.Bell).,5,2,53,DAL 27,0,DET,INT
+11,1717,1,02:08,(2:08) M.Stafford pass short right to R.Bush to DAL 44 for -7 yards (J.Wynn).,15,2,36,DAL 37,0,DET,
+11,1540,1,05:38,(5:38) R.Bush right tackle to DET 22 for 2 yards (E.Sims).,10,2,2,DET 20,0,DET,
+11,1636,2,03:46,(3:46) (Shotgun) M.Stafford pass short middle to C.Johnson to DAL 48 for 21 yards (B.Carr).,10,2,32,DET 31,0,DET,
+11,1583,3,04:56,(4:56) (Shotgun) M.Stafford pass short right to C.Johnson pushed ob at DET 31 for 9 yards (B.Carr).,8,2,11,DET 22,0,DET,
+11,1782,0,01:51,Timeout #2 by DAL at 01:51.,0,2,53,,0,,TIMEOUT
+11,1612,1,04:26,(4:26) M.Stafford pass short left to K.Durham to DET 31 for no gain (M.Claiborne).,10,2,11,DET 31,0,DET,
+11,1681,1,02:31,"(2:31) R.Bush right end pushed ob at DAL 29 for 3 yards (M.Claiborne). PENALTY on DET-K.Ogletree, Illegal Formation, 5 yards, enforced at DAL 32 - No Play.",10,2,53,DAL 32,0,DET,PENALTY
+11,1522,0,05:39,"D.Bailey kicks 74 yards from DAL 35 to DET -9. J.Ross, Touchback.",0,2,0,DAL 35,0,DAL,KICKOFF
+11,1758,2,01:58,(1:58) (Shotgun) M.Stafford pass short left to B.Pettigrew to DAL 27 for 17 yards (B.Church).,22,2,53,DAL 44,0,DET,
+11,1561,2,05:00,(5:00) (Shotgun) M.Stafford pass incomplete short right to R.Bush.,8,2,2,DET 22,0,DET,
+11,1660,1,03:06,(3:06) R.Bush right tackle to DAL 32 for 16 yards (K.Wilber). DAL-J.Heath was injured during the play.,10,2,48,DAL 48,0,DET,
+10,1320,2,10:10,(10:10) (Shotgun) T.Romo pass short left to J.Randle to DAL 33 for 13 yards (S.Tulloch).,10,2,13,DAL 20,0,DAL,
+10,1431,2,07:04,(7:04) (Shotgun) T.Romo pass short right to J.Witten to DET 40 for 2 yards (D.Slay). DAL-B.Waters was injured during the play. His return is Questionable.,9,2,45,DET 42,0,DAL,
+10,1344,1,09:32,(9:32) (Shotgun) T.Romo pass short middle to J.Witten to DAL 46 for 13 yards (N.Fairley).,10,2,26,DAL 33,0,DAL,
+10,1481,3,05:53,(5:53) (Shotgun) T.Romo pass incomplete deep right to T.Williams.,2,2,45,DET 35,0,DAL,
+10,1503,4,05:44,"(5:44) D.Bailey 53 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",2,2,45,DET 35,1,DAL,FG
+10,1298,1,10:16,(10:16) (Shotgun) T.Romo pass incomplete short middle to J.Randle.,10,2,0,DAL 20,0,DAL,
+10,1389,2,08:06,(8:06) (Shotgun) L.Dunbar left end pushed ob at DET 43 for 6 yards (R.Mathis).,5,2,37,DET 49,0,DAL,
+10,1410,1,07:34,(7:34) D.Bryant right end pushed ob at DET 42 for 1 yard (S.Tulloch).,10,2,38,DET 43,0,DAL,
+10,1458,3,06:31,"(6:31) (Shotgun) PENALTY on DET-N.Suh, Neutral Zone Infraction, 5 yards, enforced at DET 40 - No Play.",7,2,45,DET 40,0,DAL,PENALTY
+10,1368,1,08:50,(8:50) L.Dunbar right tackle to DET 49 for 5 yards (D.Levy; I.Idonije).,10,2,31,DAL 46,0,DAL,
+13,1985,2,00:34,(:34) (Shotgun) M.Stafford pass incomplete deep middle to R.Broyles.,10,2,14,DET 49,0,DET,
+13,2040,4,00:25,"(:25) S.Martin punts 41 yards to DAL 25, Center-D.Muhlbach. D.Harris to DAL 33 for 8 yards (Tr.Lewis).",25,2,14,DET 34,0,DET,PUNT
+13,1946,0,00:38,Timeout #1 by DET at 00:38.,0,2,14,,0,,TIMEOUT
+13,1963,1,00:38,(:38) (Shotgun) M.Stafford pass incomplete short middle to B.Pettigrew.,10,2,29,DET 49,0,DET,
+13,1922,1,00:46,(:46) (Shotgun) M.Stafford pass deep left to C.Johnson to DET 49 for 29 yards (J.Heath; B.Carter).,10,2,29,DET 20,0,DET,
+13,2007,3,00:29,"(:29) (Shotgun) M.Stafford pass incomplete short right [G.Selvie]. PENALTY on DET-M.Stafford, Intentional Grounding, 15 yards, enforced at DET 49.",10,2,14,DET 49,0,DET,PENALTY
+13,1904,0,00:46,"D.Bailey kicks 71 yards from DAL 35 to DET -6. J.Ross, Touchback.",0,2,0,DAL 35,0,DAL,KICKOFF
+12,1825,1,01:38,(1:38) J.Randle right end to DET 5 for -1 yards (S.Tulloch).,4,2,-1,DET 4,0,DAL,
+12,1868,3,00:51,"(:51) (Shotgun) T.Romo pass short right to D.Bryant for 5 yards, TOUCHDOWN.",5,2,4,DET 5,1,DAL,TD
+12,1846,2,00:55,(:55) (Shotgun) T.Romo pass incomplete short left to D.Bryant.,5,2,-1,DET 5,0,DAL,
+12,1888,0,00:46,"D.Bailey extra point is GOOD, Center-L.Ladouceur, Holder-C.Jones.",0,2,4,DET 2,1,DAL,XP
+15,2121,1,15:00,(15:00) T.Romo pass short right to J.Randle to DAL 21 for 1 yard (Tr.Lewis).,10,3,1,DAL 20,0,DAL,
+15,2220,3,12:49,(12:49) (Shotgun) T.Romo pass incomplete short middle to T.Williams (C.Houston).,6,3,22,DAL 42,0,DAL,
+15,2150,2,14:15,(14:15) (Shotgun) T.Romo pass short middle to D.Bryant to DAL 38 for 17 yards (G.Quin).,9,3,18,DAL 21,0,DAL,
+15,2174,1,13:36,(13:36) (Shotgun) T.Romo pass short middle to J.Randle to DAL 42 for 4 yards (W.Young).,10,3,22,DAL 38,0,DAL,
+15,2198,2,12:55,(12:55) (Shotgun) T.Romo pass incomplete deep left to D.Bryant.,6,3,22,DAL 42,0,DAL,
+15,2102,0,15:00,"S.Martin kicks 65 yards from DET 35 to end zone, Touchback.",0,3,0,DET 35,0,DET,KICKOFF
+15,2242,4,12:43,"(12:43) C.Jones punts 58 yards to end zone, Center-L.Ladouceur, Touchback. PENALTY on DAL-L.Ladouceur, Offensive Holding, 10 yards, enforced at DET 20.",6,3,22,DAL 42,0,DAL,PUNT
+14,2065,1,00:15,(:15) T.Romo kneels to DAL 32 for -1 yards.,10,2,-1,DAL 33,0,DAL,
+17,2439,3,08:24,(8:24) (Shotgun) L.Dunbar left end to DAL 44 for 3 yards (N.Fairley). DET-N.Fairley was injured during the play.,1,3,12,DAL 41,0,DAL,
+17,2463,1,08:05,(8:05) T.Williams left end to DAL 49 for 5 yards (D.Levy).,10,3,17,DAL 44,0,DAL,
+17,2484,2,07:24,(7:24) (Shotgun) T.Romo pass incomplete short right to T.Williams.,5,3,17,DAL 49,0,DAL,
+17,2528,4,07:13,"(7:13) C.Jones punts 38 yards to DET 13, Center-L.Ladouceur, fair catch by J.Ross.",5,3,17,DAL 49,0,DAL,PUNT
+17,2397,1,09:44,(9:44) L.Dunbar right end to DAL 37 for 5 yards (S.Tulloch).,10,3,5,DAL 32,0,DAL,
+17,2418,2,09:09,(9:09) J.Randle right end to DAL 41 for 4 yards (S.Tulloch).,5,3,9,DAL 37,0,DAL,
+17,2506,3,07:19,(7:19) (Shotgun) T.Romo pass incomplete short right to D.Harris.,5,3,17,DAL 49,0,DAL,
+16,2263,1,12:32,(12:32) R.Bush left tackle to DET 37 for 7 yards (B.Church; G.Selvie).,10,3,7,DET 30,0,DET,
+16,2365,1,09:58,"(9:58) R.Bush left tackle to DAL 35 for 9 yards (J.Heath). FUMBLES (J.Heath), RECOVERED by DAL-J.Durant at DAL 27. J.Durant to DAL 32 for 5 yards (R.Reiff).",10,3,35,DAL 44,0,DET,FUMBLE
+16,2320,1,11:13,(11:13) R.Bush right tackle to DET 49 for 4 yards (K.Wilber).,10,3,19,DET 45,0,DET,
+16,2341,2,10:36,(10:36) M.Stafford pass short middle to J.Ross to DAL 44 for 7 yards (B.Webb).,6,3,26,DET 49,0,DET,
+16,2296,2,11:50,(11:50) (Shotgun) M.Stafford pass short right to K.Durham to DET 45 for 8 yards (M.Claiborne).,3,3,15,DET 37,0,DET,
+19,2684,1,03:58,(3:58) J.Randle up the middle to DET 35 for no gain (D.Levy).,10,3,0,DET 35,0,DAL,
+19,2705,2,03:18,(3:18) (Shotgun) T.Romo pass incomplete short left to D.Bryant [N.Fairley].,10,3,0,DET 35,0,DAL,
+19,2749,4,03:07,"(3:07) D.Bailey 53 yard field goal is GOOD, Center-L.Ladouceur, Holder-C.Jones.",10,3,0,DET 35,1,DAL,FG
+19,2727,3,03:12,(3:12) (Shotgun) T.Romo pass incomplete deep left to D.Harris (D.Carey).,10,3,0,DET 35,0,DAL,
+18,2617,1,04:57,(4:57) R.Bush up the middle to DET 48 for 1 yard (Austin).,10,3,35,DET 47,0,DET,
+18,2551,1,07:05,(7:05) M.Stafford pass short middle to J.Bell to DET 35 for 22 yards (B.Carter).,10,3,22,DET 13,0,DET,
+18,2596,2,05:43,(5:43) M.Stafford scrambles left end to DET 47 for 3 yards (B.Church).,1,3,34,DET 44,0,DET,
+18,2575,1,06:24,(6:24) R.Bush right tackle to DET 44 for 9 yards (B.Webb; B.Church).,10,3,31,DET 35,0,DET,
+18,2638,2,04:16,"(4:16) (Shotgun) M.Stafford pass deep middle to C.Johnson to DAL 31 for 21 yards (B.Church). FUMBLES (B.Church), RECOVERED by DAL-B.Carr at DAL 29. B.Carr to 50 for 21 yards (K.Durham; J.Ross). PENALTY on DET-J.Fauria, Unnecessary Roughness, 15 yards, enforced at 50.",9,3,56,DET 48,0,DET,FUMBLE

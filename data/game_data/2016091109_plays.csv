@@ -1,177 +1,177 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,1272,2,08:39,,10,2,4,SEA 25,0,SEA,
-9,1320,1,07:19,,10,2,17,SEA 39,0,SEA,
-9,1250,1,08:45,,10,2,0,SEA 25,0,SEA,
-9,1296,3,07:55,,6,2,14,SEA 29,0,SEA,
-9,1421,4,05:52,,8,2,16,SEA 41,0,SEA,PUNT
-9,1342,2,06:43,,7,2,7,SEA 42,0,SEA,PENALTY
-9,1399,3,05:56,,8,2,16,SEA 41,0,SEA,
-9,1231,0,08:45,,0,2,0,MIA 35,0,MIA,KICKOFF
-9,1375,2,06:36,,17,2,16,SEA 32,0,SEA,
-24,4016,0,00:31,,0,4,0,SEA 35,0,SEA,KICKOFF
-24,4038,1,00:26,,10,4,0,MIA 18,0,MIA,
-24,4086,0,00:00,,0,4,-9,,0,,
-24,4060,2,00:20,,10,4,-9,MIA 18,0,MIA,FUMBLE
-10,1535,4,04:30,,5,2,16,MIA 43,0,MIA,PUNT
-10,1490,2,04:38,,5,2,16,MIA 43,0,MIA,
-10,1447,1,05:40,,10,2,11,MIA 27,0,MIA,
-10,1513,3,04:34,,5,2,16,MIA 43,0,MIA,
-10,1468,1,05:13,,10,2,16,MIA 38,0,MIA,
-20,3004,1,14:53,,10,4,0,SEA 36,0,MIA,
-20,3165,2,12:02,,5,4,29,SEA 5,0,MIA,
-20,3071,1,13:23,,10,4,19,SEA 22,0,MIA,
-20,3097,2,12:52,,5,4,27,SEA 17,0,MIA,
-20,3026,2,14:46,,10,4,0,SEA 36,0,MIA,
-20,3209,4,10:45,,9,4,27,SEA 9,0,MIA,FGB
-20,3143,1,12:05,,5,4,31,SEA 5,0,MIA,
-20,3186,3,11:21,,7,4,27,SEA 7,0,MIA,
-20,3047,3,14:07,,10,4,27,SEA 36,0,MIA,
-20,3119,3,12:48,,5,4,31,SEA 17,0,MIA,
-6,942,2,14:01,,10,2,-8,MIA 29,0,MIA,
-6,920,1,14:09,,10,2,0,MIA 29,0,MIA,
-6,985,4,12:40,,8,2,2,MIA 31,0,MIA,PUNT
-6,961,3,13:22,,18,2,2,MIA 21,0,MIA,
-18,2723,2,04:10,,10,3,20,MIA 48,0,MIA,
-18,2702,1,04:39,,10,3,17,MIA 48,0,MIA,
-18,2744,3,03:36,,7,3,20,SEA 49,0,MIA,
-18,2766,4,03:32,,7,3,20,SEA 49,0,MIA,PUNT
-18,2670,1,04:58,,10,3,17,MIA 31,0,MIA,PENALTY
-1,128,2,13:23,,4,1,19,SEA 44,0,SEA,
-1,179,4,13:11,,4,1,19,SEA 44,0,SEA,PUNT
-1,36,0,15:00,,0,1,0,MIA 35,0,MIA,KICKOFF
-1,150,3,13:19,,4,1,19,SEA 44,0,SEA,
-1,104,1,13:54,,10,1,19,SEA 38,0,SEA,
-1,75,2,14:29,,3,1,13,SEA 32,0,SEA,
-1,51,1,15:00,,10,1,13,SEA 25,0,SEA,
-5,829,0,,,0,1,7,,0,,
-5,787,1,01:09,,10,1,-2,SEA 17,0,SEA,
-5,808,2,00:33,,12,1,7,SEA 15,0,SEA,
-5,845,3,15:00,,3,2,9,SEA 24,0,SEA,
-5,866,4,14:20,,1,2,9,SEA 26,0,SEA,PUNT
-13,2042,1,00:30,,10,2,53,MIA 44,0,SEA,
-13,2000,1,00:37,,10,2,48,SEA 38,0,SEA,
-13,1919,1,00:52,,10,2,72,SEA 23,0,SEA,
-13,1895,3,00:57,,1,2,72,SEA 17,0,SEA,
-13,1839,2,01:30,,6,2,72,SEA 12,0,SEA,PENALTY
-13,1942,0,00:44,,0,2,72,,0,,TIMEOUT
-13,2025,0,00:30,,0,2,48,,0,,TIMEOUT
-13,1874,2,01:23,,12,2,72,SEA 6,0,SEA,
-13,2090,1,00:09,,10,2,72,MIA 20,0,SEA,
-13,1959,2,00:44,,10,2,30,SEA 23,0,SEA,
-13,1818,1,01:52,,10,2,30,SEA 8,0,SEA,
-13,2066,2,00:15,,5,2,72,MIA 39,0,SEA,
-13,2136,2,00:04,,10,2,72,MIA 20,1,SEA,FG
-13,1983,0,00:37,,0,2,30,,0,,TIMEOUT
-13,2113,0,00:04,,0,2,72,,0,,TIMEOUT
-21,3274,1,09:24,,10,4,35,SEA 31,0,SEA,
-21,3379,4,07:17,,6,4,39,MIA 41,0,SEA,PUNT
-21,3319,2,08:05,,2,4,39,MIA 37,0,SEA,
-21,3357,3,07:20,,6,4,39,MIA 41,0,SEA,
-21,3340,0,07:20,,0,4,39,,0,,TIMEOUT
-21,3298,1,08:50,,10,4,43,MIA 45,0,SEA,
-21,3229,1,10:41,,10,4,6,SEA 20,0,SEA,
-21,3253,2,10:08,,4,4,11,SEA 26,0,SEA,
-23,3740,3,02:11,,4,4,22,SEA 47,0,SEA,
-23,3906,2,01:09,,5,4,73,MIA 11,0,SEA,
-23,3889,0,01:09,,0,4,64,,0,,TIMEOUT
-23,3576,0,04:08,,0,4,0,MIA 35,0,MIA,KICKOFF
-23,3930,0,00:57,,0,4,73,,0,,TIMEOUT
-23,3779,4,02:08,,4,4,44,SEA 47,0,SEA,
-23,3968,2,00:35,,2,4,75,MIA 2,1,SEA,TD
-23,3723,0,02:11,,0,4,22,,0,,TIMEOUT
-23,3824,0,01:57,,0,4,48,,0,,
-23,3635,3,03:36,,2,4,9,SEA 33,0,SEA,
-23,3762,0,02:08,,0,4,22,,0,,TIMEOUT
-23,3701,2,02:14,,4,4,22,SEA 47,0,SEA,
-23,3592,1,04:08,,10,4,0,SEA 25,0,SEA,
-23,3803,1,02:02,,10,4,48,MIA 31,0,SEA,
-23,3677,1,02:39,,10,4,22,SEA 41,0,SEA,
-23,3841,2,01:57,,6,4,59,MIA 27,0,SEA,
-23,3865,1,01:28,,10,4,64,MIA 16,0,SEA,
-23,4000,0,00:31,,0,4,75,MIA 15,0,SEA,XPB
-23,3947,1,00:57,,2,4,73,MIA 2,0,SEA,
-23,3656,4,03:05,,1,4,16,SEA 34,0,SEA,
-23,3614,2,04:01,,10,4,8,SEA 25,0,SEA,
-11,1607,2,03:51,,12,2,-2,SEA 18,0,SEA,
-11,1553,1,04:21,,10,2,-2,SEA 20,0,SEA,PENALTY
-11,1585,1,03:57,,12,2,-2,SEA 18,0,SEA,
-11,1629,3,03:47,,12,2,-2,SEA 18,0,SEA,
-11,1651,4,03:38,,12,2,-2,SEA 18,0,SEA,PUNT
-14,2272,4,12:56,,10,3,0,MIA 41,0,MIA,PUNT
-14,2244,3,13:35,,16,3,0,MIA 35,0,MIA,
-14,2171,0,15:00,,0,3,0,SEA 35,0,SEA,KICKOFF
-14,2193,1,14:51,,10,3,0,MIA 41,0,MIA,FUMBLE
-14,2225,2,14:08,,7,3,-6,MIA 44,0,MIA,
-8,1147,1,09:43,,10,2,15,SEA 27,0,MIA,
-8,1169,2,09:37,,10,2,19,SEA 27,0,MIA,
-8,1122,2,10:16,,4,2,15,SEA 36,0,MIA,
-8,1101,1,10:51,,10,2,6,SEA 42,0,MIA,
-8,1190,3,08:55,,6,2,19,SEA 23,0,MIA,
-8,1212,4,08:49,,6,2,19,SEA 23,1,MIA,FG
-19,2979,2,15:00,,9,4,27,SEA 44,0,SEA,FUMBLE
-19,2905,1,00:56,,10,3,38,SEA 43,0,SEA,
-19,2806,2,02:47,,8,3,13,SEA 13,0,SEA,
-19,2851,2,01:42,,9,3,17,SEA 25,0,SEA,
-19,2785,1,03:25,,10,3,2,SEA 11,0,SEA,
-19,2963,0,,,0,3,33,,0,,
-19,2872,3,01:03,,6,3,32,SEA 28,0,SEA,PENALTY
-19,2926,2,00:11,,4,3,25,SEA 49,0,SEA,PENALTY
-19,2830,1,02:15,,10,3,14,SEA 24,0,SEA,
-22,3542,2,04:12,,2,4,86,SEA 2,1,MIA,TD
-22,3448,2,05:57,,8,4,27,MIA 32,0,MIA,
-22,3472,1,05:16,,10,4,55,MIA 41,0,MIA,
-22,3403,1,07:09,,10,4,16,MIA 14,0,MIA,
-22,3496,1,04:28,,10,4,84,SEA 31,0,MIA,
-22,3427,1,06:33,,10,4,18,MIA 30,0,MIA,
-22,3560,0,04:08,,0,4,86,SEA 15,1,MIA,XP
-22,3520,1,04:19,,2,4,84,SEA 2,0,MIA,
-12,1787,4,02:00,,9,2,1,MIA 39,0,MIA,PUNT
-12,1719,3,02:42,,10,2,-5,MIA 38,0,MIA,PENALTY
-12,1698,2,03:23,,10,2,0,MIA 38,0,MIA,
-12,1676,1,03:28,,10,2,0,MIA 38,0,MIA,
-12,1742,3,02:25,,15,2,1,MIA 33,0,MIA,
-12,1766,0,02:00,,0,2,1,,0,,
-16,2486,2,08:55,,9,3,2,MIA 27,0,MIA,
-16,2462,1,09:22,,10,3,1,MIA 26,0,MIA,
-16,2507,3,08:13,,8,3,2,MIA 28,0,MIA,
-16,2529,4,08:10,,8,3,2,MIA 28,0,MIA,PUNT
-7,1054,2,11:40,,4,2,5,SEA 24,0,SEA,
-7,1033,1,12:26,,10,2,6,SEA 18,0,SEA,
-7,1075,3,11:01,,5,2,5,SEA 23,0,SEA,INT
-3,474,1,07:49,,10,1,38,MIA 43,0,SEA,
-3,422,2,09:02,,9,1,17,SEA 45,0,SEA,
-3,309,1,11:19,,10,1,-5,SEA 33,0,SEA,PENALTY
-3,446,3,08:23,,4,1,24,50,0,SEA,
-3,498,1,07:19,,10,1,50,MIA 29,0,SEA,
-3,582,4,05:15,,14,1,46,MIA 21,1,SEA,FG
-3,332,1,11:19,,15,1,-2,SEA 28,0,SEA,
-3,563,3,05:56,,9,1,46,MIA 16,0,SEA,
-3,377,3,10:04,,12,1,11,SEA 31,0,SEA,
-3,401,1,09:23,,10,1,24,SEA 44,0,SEA,
-3,540,2,06:05,,9,1,51,MIA 16,0,SEA,
-3,519,1,06:42,,10,1,51,MIA 17,0,SEA,
-3,353,2,10:45,,12,1,-2,SEA 31,0,SEA,
-17,2555,1,07:58,,10,3,11,SEA 49,0,SEA,
-17,2579,1,07:11,,10,3,16,MIA 40,0,SEA,
-17,2626,3,06:00,,1,3,20,MIA 31,0,SEA,
-17,2647,4,05:02,,1,3,20,MIA 31,0,SEA,
-17,2605,2,06:39,,5,3,20,MIA 35,0,SEA,
-4,623,1,05:05,,10,1,2,MIA 20,0,MIA,
-4,765,4,01:21,,1,1,63,SEA 17,0,MIA,
-4,601,0,05:11,,0,1,0,SEA 35,0,SEA,KICKOFF
-4,713,2,02:42,,7,1,58,SEA 23,0,MIA,
-4,737,3,02:06,,6,1,63,SEA 22,0,MIA,
-4,647,2,04:31,,8,1,4,MIA 22,0,MIA,
-4,668,3,03:48,,6,1,54,MIA 24,0,MIA,
-4,692,1,03:15,,10,1,57,SEA 26,0,MIA,
-2,199,1,13:03,,10,1,-3,MIA 19,0,MIA,
-2,239,2,12:45,,13,1,5,MIA 16,0,MIA,
-2,289,4,11:27,,5,1,5,MIA 24,0,MIA,PUNT
-2,265,3,12:08,,5,1,5,MIA 24,0,MIA,
-15,2383,2,10:18,,23,3,-1,SEA 17,0,SEA,
-15,2404,3,09:37,,22,3,-1,SEA 18,0,SEA,
-15,2322,2,12:15,,3,3,9,SEA 26,0,SEA,
-15,2343,3,11:39,,1,3,11,SEA 28,0,SEA,
-15,2298,1,12:43,,10,3,7,SEA 19,0,SEA,
-15,2364,1,11:02,,10,3,-2,SEA 30,0,SEA,
-15,2426,4,09:33,,22,3,-1,SEA 18,0,SEA,PUNT
+24,4038,1,00:26,(:26) (Shotgun) R.Tannehill pass incomplete deep left to K.Stills.,10,4,0,MIA 18,0,MIA,
+24,4060,2,00:20,"(:20) (Shotgun) R.Tannehill sacked at MIA 9 for -9 yards (C.Marsh). FUMBLES (C.Marsh), ball out of bounds at MIA 11. Ball marked on the 9 because fumble forward not allowed.",10,4,-9,MIA 18,0,MIA,FUMBLE
+24,4016,0,00:31,S.Hauschka kicks 69 yards from SEA 35 to MIA -4. J.Grant to MIA 18 for 22 yards (K.Pierre-Louis).,0,4,0,SEA 35,0,SEA,KICKOFF
+24,4086,0,00:00,END GAME,0,4,-9,,0,,
+20,3119,3,12:48,(12:48) (Shotgun) R.Tannehill pass short right to L.Carroo to SEA 5 for 12 yards (J.Lane; K.Wright).,5,4,31,SEA 17,0,MIA,
+20,3071,1,13:23,(13:23) R.Tannehill right end ran ob at SEA 17 for 5 yards (B.Wagner).,10,4,19,SEA 22,0,MIA,
+20,3026,2,14:46,(14:46) (Shotgun) A.Foster up the middle to SEA 36 for no gain (D.Shead; J.Reed).,10,4,0,SEA 36,0,MIA,
+20,3209,4,10:45,"(10:45) A.Franks 27 yard field goal is BLOCKED (C.Marsh), Center-J.Denney, Holder-M.Darr.",9,4,27,SEA 9,0,MIA,FGB
+20,3004,1,14:53,(14:53) R.Tannehill pass incomplete short right.,10,4,0,SEA 36,0,MIA,
+20,3186,3,11:21,(11:21) (Shotgun) R.Tannehill sacked at SEA 9 for -2 yards (K.Wright).,7,4,27,SEA 7,0,MIA,
+20,3143,1,12:05,(12:05) (Shotgun) R.Tannehill pass incomplete short left to A.Foster (D.Shead).,5,4,31,SEA 5,0,MIA,
+20,3097,2,12:52,(12:52) (Shotgun) R.Tannehill pass incomplete short middle to J.Landry (J.Reed).,5,4,27,SEA 17,0,MIA,
+20,3165,2,12:02,(12:02) (Shotgun) R.Tannehill left tackle to SEA 7 for -2 yards (K.Wright; M.Bennett).,5,4,29,SEA 5,0,MIA,
+20,3047,3,14:07,(14:07) (Shotgun) R.Tannehill pass short middle to J.Landry to SEA 22 for 14 yards (J.Lane).,10,4,27,SEA 36,0,MIA,
+21,3229,1,10:41,(10:41) (Shotgun) R.Wilson pass short right to T.Rawls to SEA 26 for 6 yards (K.Misi).,10,4,6,SEA 20,0,SEA,
+21,3379,4,07:17,"(7:17) J.Ryan punts 27 yards to MIA 14, Center-N.Frese, fair catch by J.Landry.",6,4,39,MIA 41,0,SEA,PUNT
+21,3340,0,07:20,Timeout #1 by SEA at 07:20.,0,4,39,,0,,TIMEOUT
+21,3253,2,10:08,(10:08) (Shotgun) T.Rawls up the middle to SEA 31 for 5 yards (K.Misi; K.Alonso).,4,4,11,SEA 26,0,SEA,
+21,3357,3,07:20,(7:20) (Shotgun) R.Wilson pass incomplete short right to C.Michael.,6,4,39,MIA 41,0,SEA,
+21,3319,2,08:05,(8:05) (Shotgun) C.Michael up the middle to MIA 41 for -4 yards (R.Jones).,2,4,39,MIA 37,0,SEA,
+21,3274,1,09:24,(9:24) (Shotgun) R.Wilson pass deep left to J.Kearse ran ob at MIA 45 for 24 yards.,10,4,35,SEA 31,0,SEA,
+21,3298,1,08:50,(8:50) (Shotgun) C.Michael right tackle to MIA 37 for 8 yards (R.Jones; K.Alonso).,10,4,43,MIA 45,0,SEA,
+22,3560,0,04:08,"A.Franks extra point is GOOD, Center-J.Denney, Holder-M.Darr.",0,4,86,SEA 15,1,MIA,XP
+22,3448,2,05:57,(5:57) (No Huddle) R.Tannehill pass short left to J.Landry to MIA 41 for 9 yards (E.Thomas).,8,4,27,MIA 32,0,MIA,
+22,3472,1,05:16,(5:16) (Shotgun) R.Tannehill pass short left to J.Landry to SEA 31 for 28 yards (K.Wright; D.Shead).,10,4,55,MIA 41,0,MIA,
+22,3496,1,04:28,(4:28) (Shotgun) R.Tannehill pass short left to D.Williams pushed ob at SEA 2 for 29 yards (B.Wagner).,10,4,84,SEA 31,0,MIA,
+22,3542,2,04:12,"(4:12) (Shotgun) R.Tannehill up the middle for 2 yards, TOUCHDOWN.",2,4,86,SEA 2,1,MIA,TD
+22,3427,1,06:33,(6:33) (No Huddle) A.Foster right guard to MIA 32 for 2 yards (C.Avril).,10,4,18,MIA 30,0,MIA,
+22,3403,1,07:09,(7:09) R.Tannehill pass deep left to K.Stills to MIA 30 for 16 yards (E.Thomas).,10,4,16,MIA 14,0,MIA,
+22,3520,1,04:19,(4:19) (Shotgun) R.Tannehill pass incomplete short left [M.Bennett].,2,4,84,SEA 2,0,MIA,
+23,3592,1,04:08,(4:08) (Shotgun) R.Wilson pass incomplete short right to L.Willson.,10,4,0,SEA 25,0,SEA,
+23,3762,0,02:08,Timeout #2 by SEA at 02:08.,0,4,22,,0,,TIMEOUT
+23,3576,0,04:08,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback.",0,4,0,MIA 35,0,MIA,KICKOFF
+23,3614,2,04:01,(4:01) (Shotgun) C.Michael up the middle to SEA 33 for 8 yards (K.Alonso; R.Jones).,10,4,8,SEA 25,0,SEA,
+23,4000,0,00:31,"S.Hauschka extra point is Blocked (J.Jones), Center-N.Frese, Holder-J.Ryan.",0,4,75,MIA 15,0,SEA,XPB
+23,3779,4,02:08,(2:08) (Shotgun) R.Wilson pass short left to D.Baldwin ran ob at MIA 31 for 22 yards (I.Abdul-Quddus).,4,4,44,SEA 47,0,SEA,
+23,3635,3,03:36,(3:36) (Shotgun) C.Michael left end to SEA 34 for 1 yard (K.Alonso).,2,4,9,SEA 33,0,SEA,
+23,3889,0,01:09,Timeout #2 by MIA at 01:09.,0,4,64,,0,,TIMEOUT
+23,3906,2,01:09,(1:09) (Shotgun) R.Wilson pass short right to D.Baldwin to MIA 2 for 9 yards (R.Jones; X.Howard).,5,4,73,MIA 11,0,SEA,
+23,3740,3,02:11,(2:11) (Shotgun) R.Wilson pass incomplete short middle to J.Kearse (N.Suh).,4,4,22,SEA 47,0,SEA,
+23,3930,0,00:57,Timeout #3 by MIA at 00:57.,0,4,73,,0,,TIMEOUT
+23,3841,2,01:57,(1:57) (Shotgun) R.Wilson pass short middle to J.Graham to MIA 16 for 11 yards (B.Maxwell).,6,4,59,MIA 27,0,SEA,
+23,3947,1,00:57,(:57) (Shotgun) C.Michael left guard to MIA 2 for no gain (N.Suh).,2,4,73,MIA 2,0,SEA,
+23,3824,0,01:57,Two-Minute Warning,0,4,48,,0,,
+23,3803,1,02:02,"(2:02) (No Huddle, Shotgun) R.Wilson scrambles left tackle to MIA 27 for 4 yards (J.Jenkins).",10,4,48,MIA 31,0,SEA,
+23,3865,1,01:28,(1:28) (Shotgun) R.Wilson pass short right to T.Lockett to MIA 11 for 5 yards (X.Howard).,10,4,64,MIA 16,0,SEA,
+23,3656,4,03:05,(3:05) (Shotgun) C.Michael up the middle to SEA 41 for 7 yards (K.Alonso).,1,4,16,SEA 34,0,SEA,
+23,3701,2,02:14,"(2:14) (No Huddle, Shotgun) R.Wilson pass incomplete short right to C.Michael [K.Alonso].",4,4,22,SEA 47,0,SEA,
+23,3677,1,02:39,"(2:39) (No Huddle, Shotgun) R.Wilson pass short middle to J.Kearse to SEA 47 for 6 yards (K.Alonso; R.Jones).",10,4,22,SEA 41,0,SEA,
+23,3968,2,00:35,"(:35) (No Huddle, Shotgun) R.Wilson pass short left to D.Baldwin for 2 yards, TOUCHDOWN.",2,4,75,MIA 2,1,SEA,TD
+23,3723,0,02:11,Timeout #1 by MIA at 02:11.,0,4,22,,0,,TIMEOUT
+1,150,3,13:19,(13:19) (Shotgun) R.Wilson pass incomplete short middle to T.Lockett (B.Maxwell).,4,1,19,SEA 44,0,SEA,
+1,51,1,15:00,(15:00) (Shotgun) R.Wilson pass short right to D.Baldwin pushed ob at SEA 32 for 7 yards (X.Howard).,10,1,13,SEA 25,0,SEA,
+1,36,0,15:00,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback.",0,1,0,MIA 35,0,MIA,KICKOFF
+1,75,2,14:29,(14:29) (Shotgun) R.Wilson pass short left to T.Lockett pushed ob at SEA 38 for 6 yards (B.Maxwell).,3,1,13,SEA 32,0,SEA,
+1,179,4,13:11,"(13:11) J.Ryan punts 37 yards to MIA 19, Center-N.Frese, fair catch by J.Landry.",4,1,19,SEA 44,0,SEA,PUNT
+1,128,2,13:23,(13:23) (Shotgun) R.Wilson pass incomplete short right to T.Lockett.,4,1,19,SEA 44,0,SEA,
+1,104,1,13:54,(13:54) (Shotgun) R.Wilson pass short right to T.Lockett pushed ob at SEA 44 for 6 yards (X.Howard).,10,1,19,SEA 38,0,SEA,
+3,309,1,11:19,"(11:19) (Shotgun) PENALTY on SEA-G.Gilliam, False Start, 5 yards, enforced at SEA 33 - No Play.",10,1,-5,SEA 33,0,SEA,PENALTY
+3,582,4,05:15,"(5:15) S.Hauschka 39 yard field goal is GOOD, Center-N.Frese, Holder-J.Ryan.",14,1,46,MIA 21,1,SEA,FG
+3,474,1,07:49,(7:49) (Shotgun) R.Wilson pass short right to D.Baldwin pushed ob at MIA 29 for 14 yards (X.Howard).,10,1,38,MIA 43,0,SEA,
+3,563,3,05:56,(5:56) (Shotgun) R.Wilson sacked at MIA 21 for -5 yards (M.Williams).,9,1,46,MIA 16,0,SEA,
+3,446,3,08:23,(8:23) (Shotgun) R.Wilson pass short right to L.Willson to MIA 43 for 7 yards (J.Jenkins; X.Howard).,4,1,24,50,0,SEA,
+3,332,1,11:19,(11:19) (Shotgun) R.Wilson right end to SEA 31 for 3 yards (R.Jones).,15,1,-2,SEA 28,0,SEA,
+3,519,1,06:42,(6:42) T.Rawls up the middle to MIA 16 for 1 yard (J.Warmsley).,10,1,51,MIA 17,0,SEA,
+3,540,2,06:05,(6:05) (Shotgun) R.Wilson pass incomplete short middle to J.Kearse (R.Jones).,9,1,51,MIA 16,0,SEA,
+3,353,2,10:45,(10:45) (Shotgun) R.Wilson pass short right to C.Michael to SEA 31 for no gain (K.Misi).,12,1,-2,SEA 31,0,SEA,
+3,401,1,09:23,(9:23) C.Michael right tackle to SEA 45 for 1 yard (A.Branch; E.Mitchell). MIA-J.Phillips was injured during the play.,10,1,24,SEA 44,0,SEA,
+3,498,1,07:19,(7:19) C.Michael right tackle to MIA 17 for 12 yards (X.Howard; R.Jones).,10,1,50,MIA 29,0,SEA,
+3,422,2,09:02,(9:02) (Shotgun) R.Wilson pass short left to J.Kearse to 50 for 5 yards (M.Thomas; K.Alonso).,9,1,17,SEA 45,0,SEA,
+3,377,3,10:04,(10:04) (Shotgun) R.Wilson pass short right to C.Prosise to SEA 44 for 13 yards (K.Alonso; I.Abdul-Quddus).,12,1,11,SEA 31,0,SEA,
+2,289,4,11:27,"(11:27) M.Darr punts 43 yards to SEA 33, Center-J.Denney, fair catch by T.Lockett.",5,1,5,MIA 24,0,MIA,PUNT
+2,199,1,13:03,"(13:03) (Shotgun) R.Tannehill pass short left to J.Landry pushed ob at MIA 16 for -3 yards (K.Chancellor). Penalty on MIA-K.Stills, Offensive Holding, declined.",10,1,-3,MIA 19,0,MIA,
+2,239,2,12:45,(12:45) A.Foster right end pushed ob at MIA 24 for 8 yards (K.Chancellor).,13,1,5,MIA 16,0,MIA,
+2,265,3,12:08,(12:08) (Shotgun) R.Tannehill pass short left to J.Landry to MIA 24 for no gain (K.Wright; D.Shead).,5,1,5,MIA 24,0,MIA,
+5,866,4,14:20,"(14:20) J.Ryan punts 42 yards to MIA 32, Center-N.Frese. J.Grant to MIA 39 for 7 yards (C.Marsh). PENALTY on MIA, Illegal Block Above the Waist, 10 yards, enforced at MIA 39.",1,2,9,SEA 26,0,SEA,PUNT
+5,845,3,15:00,(15:00) (Shotgun) C.Michael up the middle to SEA 26 for 2 yards (K.Misi; N.Suh).,3,2,9,SEA 24,0,SEA,
+5,787,1,01:09,(1:09) (Shotgun) C.Prosise up the middle to SEA 15 for -2 yards (J.Phillips; A.Branch).,10,1,-2,SEA 17,0,SEA,
+5,829,0,,END QUARTER 1,0,1,7,,0,,
+5,808,2,00:33,(:33) (Shotgun) R.Wilson scrambles left end to SEA 24 for 9 yards (B.Maxwell).,12,1,7,SEA 15,0,SEA,
+4,623,1,05:05,(5:05) (Shotgun) R.Tannehill pass short right to L.Carroo to MIA 22 for 2 yards (R.Sherman).,10,1,2,MIA 20,0,MIA,
+4,692,1,03:15,(3:15) (Shotgun) A.Foster left guard to SEA 23 for 3 yards (M.Bennett).,10,1,57,SEA 26,0,MIA,
+4,601,0,05:11,S.Hauschka kicks 62 yards from SEA 35 to MIA 3. D.Williams to MIA 20 for 17 yards (M.Morgan).,0,1,0,SEA 35,0,SEA,KICKOFF
+4,737,3,02:06,(2:06) (Shotgun) R.Tannehill pass short middle to J.Cameron to SEA 17 for 5 yards (B.Wagner) [C.Avril]. Official measurement.,6,1,63,SEA 22,0,MIA,
+4,668,3,03:48,(3:48) (Shotgun) R.Tannehill pass short left to A.Foster pushed ob at SEA 26 for 50 yards (K.Wright).,6,1,54,MIA 24,0,MIA,
+4,713,2,02:42,(2:42) (Shotgun) R.Tannehill pass short right to J.Landry pushed ob at SEA 22 for 1 yard (B.Wagner).,7,1,58,SEA 23,0,MIA,
+4,765,4,01:21,(1:21) A.Foster up the middle to SEA 17 for no gain (K.Chancellor).,1,1,63,SEA 17,0,MIA,
+4,647,2,04:31,(4:31) A.Foster left guard to MIA 24 for 2 yards (M.Bennett; K.Wright).,8,1,4,MIA 22,0,MIA,
+7,1033,1,12:26,(12:26) T.Rawls up the middle to SEA 24 for 6 yards (X.Howard; M.Williams).,10,2,6,SEA 18,0,SEA,
+7,1075,3,11:01,(11:01) (Shotgun) R.Wilson pass deep right intended for L.Willson INTERCEPTED by I.Abdul-Quddus [J.Jones] at MIA 49. I.Abdul-Quddus to SEA 42 for 9 yards (L.Willson).,5,2,5,SEA 23,0,SEA,INT
+7,1054,2,11:40,(11:40) T.Rawls right guard to SEA 23 for -1 yards (R.Jones; J.Jenkins).,4,2,5,SEA 24,0,SEA,
+6,920,1,14:09,(14:09) (Shotgun) R.Tannehill pass incomplete deep middle to K.Stills.,10,2,0,MIA 29,0,MIA,
+6,942,2,14:01,(14:01) (Shotgun) R.Tannehill sacked at MIA 21 for -8 yards (F.Clark).,10,2,-8,MIA 29,0,MIA,
+6,961,3,13:22,(13:22) (Shotgun) R.Tannehill pass short middle to J.Landry to MIA 31 for 10 yards (E.Thomas; Q.Jefferson).,18,2,2,MIA 21,0,MIA,
+6,985,4,12:40,"(12:40) M.Darr punts 46 yards to SEA 23, Center-J.Denney. T.Lockett to SEA 43 for 20 yards (M.Thomas). PENALTY on SEA-B.Coyle, Illegal Block Above the Waist, 10 yards, enforced at SEA 28.",8,2,2,MIA 31,0,MIA,PUNT
+9,1421,4,05:52,"(5:52) J.Ryan punts 48 yards to MIA 11, Center-N.Frese. J.Landry to MIA 27 for 16 yards (T.Powell; B.Williams).",8,2,16,SEA 41,0,SEA,PUNT
+9,1320,1,07:19,(7:19) C.Michael up the middle to SEA 42 for 3 yards (K.Misi).,10,2,17,SEA 39,0,SEA,
+9,1231,0,08:45,"A.Franks kicks 65 yards from MIA 35 to end zone, Touchback.",0,2,0,MIA 35,0,MIA,KICKOFF
+9,1342,2,06:43,"(6:43) R.Wilson pass incomplete deep left to P.Richardson. PENALTY on SEA-B.Sowell, Offensive Holding, 10 yards, enforced at SEA 42 - No Play.",7,2,7,SEA 42,0,SEA,PENALTY
+9,1399,3,05:56,(5:56) (Shotgun) R.Wilson pass incomplete short middle to T.Lockett.,8,2,16,SEA 41,0,SEA,
+9,1375,2,06:36,(6:36) (Shotgun) R.Wilson pass short left to T.Rawls to SEA 41 for 9 yards (I.Abdul-Quddus).,17,2,16,SEA 32,0,SEA,
+9,1250,1,08:45,(8:45) R.Wilson pass incomplete short right to T.Lockett.,10,2,0,SEA 25,0,SEA,
+9,1296,3,07:55,(7:55) (Shotgun) R.Wilson pass short middle to D.Baldwin to SEA 39 for 10 yards (K.Misi; K.Alonso).,6,2,14,SEA 29,0,SEA,
+9,1272,2,08:39,(8:39) (Shotgun) R.Wilson pass short left to D.Baldwin to SEA 29 for 4 yards (R.Jones) [N.Suh].,10,2,4,SEA 25,0,SEA,
+8,1212,4,08:49,"(8:49) A.Franks 41 yard field goal is GOOD, Center-J.Denney, Holder-M.Darr.",6,2,19,SEA 23,1,MIA,FG
+8,1147,1,09:43,(9:43) (Shotgun) R.Tannehill pass incomplete deep left to K.Stills.,10,2,15,SEA 27,0,MIA,
+8,1190,3,08:55,(8:55) (Shotgun) R.Tannehill pass incomplete short left to K.Stills (D.Shead).,6,2,19,SEA 23,0,MIA,
+8,1122,2,10:16,(10:16) A.Foster left tackle pushed ob at SEA 27 for 9 yards (B.Wagner).,4,2,15,SEA 36,0,MIA,
+8,1169,2,09:37,(9:37) D.Williams right tackle to SEA 23 for 4 yards (R.Sherman).,10,2,19,SEA 27,0,MIA,
+8,1101,1,10:51,(10:51) A.Foster right tackle to SEA 36 for 6 yards (K.Wright).,10,2,6,SEA 42,0,MIA,
+11,1553,1,04:21,"(4:21) T.Rawls right tackle to SEA 28 for 8 yards (J.Jenkins; K.Misi). PENALTY on SEA-B.Williams, Offensive Holding, 10 yards, enforced at SEA 28.",10,2,-2,SEA 20,0,SEA,PENALTY
+11,1651,4,03:38,"(3:38) J.Ryan punts 49 yards to MIA 33, Center-N.Frese. J.Grant to MIA 38 for 5 yards (C.Marsh; M.Morgan).",12,2,-2,SEA 18,0,SEA,PUNT
+11,1629,3,03:47,(3:47) (Shotgun) R.Wilson pass incomplete deep right.,12,2,-2,SEA 18,0,SEA,
+11,1607,2,03:51,(3:51) (Shotgun) R.Wilson pass incomplete short left to P.Richardson.,12,2,-2,SEA 18,0,SEA,
+11,1585,1,03:57,(3:57) (Shotgun) R.Wilson pass incomplete short right [C.Wake].,12,2,-2,SEA 18,0,SEA,
+10,1447,1,05:40,(5:40) (Shotgun) R.Tannehill right end to MIA 38 for 11 yards (B.Wagner).,10,2,11,MIA 27,0,MIA,
+10,1490,2,04:38,(4:38) (Shotgun) R.Tannehill pass incomplete short middle to D.Williams (J.Reed).,5,2,16,MIA 43,0,MIA,
+10,1535,4,04:30,"(4:30) M.Darr punts 57 yards to end zone, Center-J.Denney, Touchback.",5,2,16,MIA 43,0,MIA,PUNT
+10,1468,1,05:13,(5:13) (Shotgun) D.Williams up the middle to MIA 43 for 5 yards (F.Clark; T.McDaniel).,10,2,16,MIA 38,0,MIA,
+10,1513,3,04:34,(4:34) (Shotgun) R.Tannehill pass incomplete short right to A.Foster [B.Wagner].,5,2,16,MIA 43,0,MIA,
+13,2136,2,00:04,"(:04) S.Hauschka 38 yard field goal is GOOD, Center-N.Frese, Holder-J.Ryan.",10,2,72,MIA 20,1,SEA,FG
+13,2042,1,00:30,(:30) (Shotgun) R.Wilson pass short right to C.Michael to MIA 39 for 5 yards (X.Howard).,10,2,53,MIA 44,0,SEA,
+13,1983,0,00:37,Timeout #2 by SEA at 00:37.,0,2,30,,0,,TIMEOUT
+13,1942,0,00:44,Timeout #1 by SEA at 00:44.,0,2,72,,0,,TIMEOUT
+13,1839,2,01:30,"(1:30) (Shotgun) R.Wilson pass short middle to T.Lockett to SEA 21 for 9 yards (N.Suh). PENALTY on SEA-B.Sowell, Offensive Holding, 6 yards, enforced at SEA 12 - No Play.",6,2,72,SEA 12,0,SEA,PENALTY
+13,1818,1,01:52,(1:52) (Shotgun) C.Michael left guard to SEA 12 for 4 yards (N.Suh; J.Phillips).,10,2,30,SEA 8,0,SEA,
+13,2000,1,00:37,(:37) (Shotgun) R.Wilson pass short left to D.Baldwin to MIA 44 for 18 yards (R.Jones) [N.Suh].,10,2,48,SEA 38,0,SEA,
+13,1919,1,00:52,(:52) (Shotgun) R.Wilson sacked at SEA 23 for 0 yards (sack split by J.Phillips and J.Jones).,10,2,72,SEA 23,0,SEA,
+13,2025,0,00:30,Timeout #3 by SEA at 00:30.,0,2,48,,0,,TIMEOUT
+13,1874,2,01:23,(1:23) (Shotgun) C.Michael up the middle to SEA 17 for 11 yards (I.Abdul-Quddus; B.McCain).,12,2,72,SEA 6,0,SEA,
+13,2090,1,00:09,(:09) (Shotgun) R.Wilson pass incomplete short left to D.Baldwin.,10,2,72,MIA 20,0,SEA,
+13,1895,3,00:57,(:57) (Shotgun) R.Wilson pass short left to D.Baldwin pushed ob at SEA 23 for 6 yards (B.McCain).,1,2,72,SEA 17,0,SEA,
+13,2113,0,00:04,Timeout #2 by MIA at 00:04.,0,2,72,,0,,TIMEOUT
+13,1959,2,00:44,(:44) (Shotgun) R.Wilson pass short middle to J.Kearse to SEA 38 for 15 yards (X.Howard).,10,2,30,SEA 23,0,SEA,
+13,2066,2,00:15,"(:15) (No Huddle, Shotgun) R.Wilson pass short right to L.Willson pushed ob at MIA 20 for 19 yards (R.Jones).",5,2,72,MIA 39,0,SEA,
+12,1719,3,02:42,"(2:42) (Shotgun) PENALTY on MIA-J.James, False Start, 5 yards, enforced at MIA 38 - No Play.",10,2,-5,MIA 38,0,MIA,PENALTY
+12,1787,4,02:00,"(2:00) M.Darr punts 45 yards to SEA 16, Center-J.Denney, fair catch by T.Lockett. PENALTY on SEA-K.McCray, Offensive Holding, 8 yards, enforced at SEA 16.",9,2,1,MIA 39,0,MIA,PUNT
+12,1698,2,03:23,(3:23) A.Foster right end to MIA 38 for no gain (K.Wright; R.Sherman).,10,2,0,MIA 38,0,MIA,
+12,1676,1,03:28,(3:28) (Shotgun) R.Tannehill pass incomplete deep right to J.Cameron.,10,2,0,MIA 38,0,MIA,
+12,1766,0,02:00,Two-Minute Warning,0,2,1,,0,,
+12,1742,3,02:25,(2:25) (Shotgun) R.Tannehill pass short right to A.Foster pushed ob at MIA 39 for 6 yards (K.Wright; E.Thomas).,15,2,1,MIA 33,0,MIA,
+15,2322,2,12:15,(12:15) T.Rawls left tackle to SEA 28 for 2 yards (I.Abdul-Quddus).,3,3,9,SEA 26,0,SEA,
+15,2298,1,12:43,(12:43) R.Wilson pass short left to J.Kearse to SEA 26 for 7 yards (B.Maxwell).,10,3,7,SEA 19,0,SEA,
+15,2343,3,11:39,(11:39) T.Rawls up the middle to SEA 30 for 2 yards (J.Jenkins; I.Abdul-Quddus).,1,3,11,SEA 28,0,SEA,
+15,2404,3,09:37,(9:37) (Shotgun) R.Wilson pass incomplete short left to T.Lockett.,22,3,-1,SEA 18,0,SEA,
+15,2426,4,09:33,"(9:33) J.Ryan punts 50 yards to MIA 32, Center-N.Frese. J.Grant pushed ob at MIA 48 for 16 yards (C.Marsh). PENALTY on MIA-D.Williams, Illegal Block Above the Waist, 10 yards, enforced at MIA 36.",22,3,-1,SEA 18,0,SEA,PUNT
+15,2383,2,10:18,(10:18) (Shotgun) T.Rawls left tackle to SEA 18 for 1 yard (J.Warmsley; K.Alonso).,23,3,-1,SEA 17,0,SEA,
+15,2364,1,11:02,(11:02) R.Wilson sacked at SEA 17 for -13 yards (N.Suh).,10,3,-2,SEA 30,0,SEA,
+14,2193,1,14:51,"(14:51) (Shotgun) A.Foster up the middle to MIA 44 for 3 yards. FUMBLES, recovered by MIA-J.James at MIA 44. J.James to MIA 44 for no gain (D.Shead).",10,3,0,MIA 41,0,MIA,FUMBLE
+14,2244,3,13:35,(13:35) (Shotgun) R.Tannehill pass short middle to A.Foster to MIA 41 for 6 yards (K.Wright; F.Clark).,16,3,0,MIA 35,0,MIA,
+14,2171,0,15:00,S.Hauschka kicks 69 yards from SEA 35 to MIA -4. J.Grant pushed ob at MIA 41 for 45 yards (S.Hauschka).,0,3,0,SEA 35,0,SEA,KICKOFF
+14,2225,2,14:08,(14:08) (Shotgun) R.Tannehill sacked at MIA 35 for -9 yards (M.Bennett).,7,3,-6,MIA 44,0,MIA,
+14,2272,4,12:56,"(12:56) M.Darr punts 53 yards to SEA 6, Center-J.Denney. T.Lockett to SEA 19 for 13 yards (M.Gray; M.Hull).",10,3,0,MIA 41,0,MIA,PUNT
+17,2605,2,06:39,(6:39) (Shotgun) C.Michael right tackle to MIA 31 for 4 yards (R.Jones).,5,3,20,MIA 35,0,SEA,
+17,2647,4,05:02,(5:02) (Shotgun) R.Wilson pass incomplete short right to D.Baldwin (I.Abdul-Quddus).,1,3,20,MIA 31,0,SEA,
+17,2626,3,06:00,(6:00) T.Rawls up the middle to MIA 31 for no gain (A.Branch; J.Phillips).,1,3,20,MIA 31,0,SEA,
+17,2555,1,07:58,(7:58) (Shotgun) R.Wilson pass short right to T.Rawls to MIA 40 for 11 yards (K.Misi; I.Abdul-Quddus).,10,3,11,SEA 49,0,SEA,
+17,2579,1,07:11,(7:11) (Shotgun) T.Rawls right end pushed ob at MIA 35 for 5 yards (K.Misi).,10,3,16,MIA 40,0,SEA,
+16,2486,2,08:55,(8:55) (Shotgun) R.Tannehill right tackle to MIA 28 for 1 yard (K.Chancellor; J.Reed).,9,3,2,MIA 27,0,MIA,
+16,2507,3,08:13,(8:13) (Shotgun) R.Tannehill pass incomplete short right to J.Landry [B.Wagner].,8,3,2,MIA 28,0,MIA,
+16,2529,4,08:10,"(8:10) M.Darr punts 45 yards to SEA 27, Center-J.Denney. T.Lockett to SEA 49 for 22 yards (S.Paysinger).",8,3,2,MIA 28,0,MIA,PUNT
+16,2462,1,09:22,(9:22) R.Tannehill pass short right to J.Cameron to MIA 27 for 1 yard (J.Lane).,10,3,1,MIA 26,0,MIA,
+19,2785,1,03:25,(3:25) T.Rawls up the middle to SEA 13 for 2 yards (A.Branch; I.Abdul-Quddus).,10,3,2,SEA 11,0,SEA,
+19,2872,3,01:03,"(1:03) (Shotgun) R.Wilson pass incomplete deep left to D.Baldwin [C.Wake]. PENALTY on MIA-C.Wake, Roughing the Passer, 15 yards, enforced at SEA 28 - No Play.",6,3,32,SEA 28,0,SEA,PENALTY
+19,2963,0,,END QUARTER 3,0,3,33,,0,,
+19,2905,1,00:56,(:56) C.Michael left tackle to SEA 49 for 6 yards (J.Jenkins; J.Jones).,10,3,38,SEA 43,0,SEA,
+19,2851,2,01:42,(1:42) (Shotgun) C.Michael left end to SEA 28 for 3 yards (K.Alonso).,9,3,17,SEA 25,0,SEA,
+19,2926,2,00:11,"(:11) C.Michael right end ran ob at MIA 34 for 17 yards (K.Alonso). PENALTY on SEA, Illegal Shift, 5 yards, enforced at SEA 49 - No Play.",4,3,25,SEA 49,0,SEA,PENALTY
+19,2979,2,15:00,"(15:00) R.Wilson FUMBLES (Aborted) at SEA 37, RECOVERED by MIA-K.Alonso at SEA 38. K.Alonso to SEA 36 for 2 yards (G.Gilliam).",9,4,27,SEA 44,0,SEA,FUMBLE
+19,2806,2,02:47,(2:47) R.Wilson pass short right to P.Richardson to SEA 24 for 11 yards (J.Jenkins; X.Howard).,8,3,13,SEA 13,0,SEA,
+19,2830,1,02:15,(2:15) T.Rawls up the middle to SEA 25 for 1 yard (K.Misi).,10,3,14,SEA 24,0,SEA,
+18,2670,1,04:58,"(4:58) A.Foster right end pushed ob at MIA 33 for 2 yards (T.McDaniel; K.Chancellor). PENALTY on SEA-K.Chancellor, Unnecessary Roughness, 15 yards, enforced at MIA 33.",10,3,17,MIA 31,0,MIA,PENALTY
+18,2766,4,03:32,"(3:32) M.Darr punts 38 yards to SEA 11, Center-J.Denney, fair catch by T.Lockett.",7,3,20,SEA 49,0,MIA,PUNT
+18,2723,2,04:10,(4:10) (Shotgun) A.Foster left guard to SEA 49 for 3 yards (M.Bennett; K.Chancellor).,10,3,20,MIA 48,0,MIA,
+18,2744,3,03:36,(3:36) (Shotgun) R.Tannehill pass incomplete short right to J.Landry (J.Lane) [M.Bennett].,7,3,20,SEA 49,0,MIA,
+18,2702,1,04:39,(4:39) A.Foster right guard to MIA 48 for no gain (M.Bennett; K.Chancellor).,10,3,17,MIA 48,0,MIA,

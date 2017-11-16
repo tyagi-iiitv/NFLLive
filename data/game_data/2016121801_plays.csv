@@ -1,164 +1,164 @@
 drive,play,down,time,desc,ydstogo,qtr,ydsnet,yrdln,sp,posteam,note
-9,2121,0,,,0,2,18,,0,,
-9,1989,1,00:24,,10,2,0,CLE 17,0,CLE,
-9,2137,0,,,0,2,18,,0,,
-9,2095,2,00:03,,3,2,18,CLE 35,0,CLE,
-9,1966,0,00:34,,0,2,0,BUF 35,0,BUF,KICKOFF
-9,2077,0,00:03,,0,2,18,,0,,TIMEOUT
-9,2012,2,00:20,,10,2,11,CLE 17,0,CLE,
-9,2049,1,00:11,,10,2,18,CLE 28,0,CLE,
-18,3814,2,04:27,,2,4,23,CLE 12,0,BUF,
-18,3885,3,02:56,,6,4,29,CLE 6,0,BUF,
-18,3906,4,02:11,,1,4,29,CLE 1,0,BUF,
-18,3837,1,03:42,,7,4,24,CLE 7,0,BUF,
-18,3792,1,04:33,,10,4,18,CLE 20,0,BUF,
-18,3770,2,05:17,,5,4,10,CLE 25,0,BUF,
-18,3744,1,06:00,,10,4,5,CLE 30,0,BUF,
-18,3859,2,03:00,,6,4,24,CLE 6,0,BUF,
-6,1274,1,10:43,,10,2,16,BUF 34,0,BUF,
-6,1205,1,12:34,,10,2,0,BUF 22,0,BUF,
-6,1338,3,10:02,,6,2,16,BUF 38,0,BUF,
-6,1252,3,11:18,,6,2,12,BUF 26,0,BUF,
-6,1227,2,12:00,,10,2,16,BUF 22,0,BUF,
-6,1361,4,09:58,,6,2,16,BUF 38,0,BUF,PUNT
-6,1300,2,10:09,,6,2,16,BUF 38,0,BUF,
-14,3243,1,13:20,,10,4,67,CLE 24,0,BUF,
-14,3200,1,14:36,,10,4,39,CLE 40,0,BUF,
-14,3152,0,,,0,3,24,,0,,
-14,3222,2,14:08,,6,4,51,CLE 36,0,BUF,
-14,3058,1,01:25,,10,3,8,BUF 25,0,BUF,
-14,3136,0,,,0,3,24,,0,,
-14,3081,2,00:54,,2,3,10,BUF 33,0,BUF,
-14,3034,0,01:32,,0,3,0,CLE 35,0,CLE,KICKOFF
-14,3268,1,12:45,,8,4,75,CLE 8,1,BUF,TD
-14,3169,1,15:00,,10,4,35,BUF 49,0,BUF,
-14,3291,0,12:38,,0,4,75,CLE 15,0,BUF,XPM
-14,3103,1,00:29,,10,3,24,BUF 35,0,BUF,
-7,1464,4,08:16,,4,2,6,CLE 38,0,CLE,PUNT
-7,1412,2,09:06,,9,2,6,CLE 33,0,CLE,
-7,1391,1,09:45,,10,2,6,CLE 32,0,CLE,
-7,1437,3,08:22,,4,2,6,CLE 38,0,CLE,
-8,1732,3,03:14,,22,2,58,BUF 44,0,BUF,
-8,1800,2,02:00,,9,2,63,CLE 32,0,BUF,
-8,1625,2,05:37,,8,2,47,BUF 43,0,BUF,
-8,1569,2,06:52,,8,2,32,BUF 29,0,BUF,
-8,1825,3,01:20,,5,2,72,CLE 28,0,BUF,
-8,1706,2,03:53,,23,2,35,BUF 43,0,BUF,
-8,1881,2,00:40,,10,2,91,CLE 19,1,BUF,TD
-8,1910,0,00:34,,0,2,91,CLE 15,1,BUF,XP
-8,1858,1,00:45,,10,2,72,CLE 19,0,BUF,
-8,1603,1,06:16,,10,2,34,BUF 41,0,BUF,
-8,1547,1,07:33,,10,2,20,BUF 27,0,BUF,
-8,1524,1,08:03,,10,2,18,BUF 9,0,BUF,
-8,1783,0,02:00,,0,2,59,,0,,
-8,1761,1,02:37,,10,2,59,CLE 33,0,BUF,
-8,1686,1,04:33,,20,2,91,BUF 46,0,BUF,
-8,1650,1,04:57,,10,2,91,CLE 44,0,BUF,PENALTY
-10,2240,2,13:37,,10,3,18,BUF 36,0,BUF,
-10,2192,2,14:23,,1,3,11,BUF 34,0,BUF,
-10,2293,4,13:04,,3,3,18,BUF 43,0,BUF,PUNT
-10,2214,1,13:42,,10,3,11,BUF 36,0,BUF,
-10,2170,1,15:00,,10,3,9,BUF 25,0,BUF,
-10,2262,3,13:08,,3,3,18,BUF 43,0,BUF,
-10,2153,0,15:00,,0,3,0,CLE 35,0,CLE,KICKOFF
-19,3999,2,01:34,,1,4,29,CLE 27,0,CLE,
-19,3953,0,01:57,,0,4,17,,0,,
-19,4060,2,01:04,,3,4,72,CLE 37,0,CLE,
-19,4207,0,,,0,4,72,,0,,
-19,4109,4,00:29,,1,4,44,CLE 39,0,CLE,
-19,4159,2,00:00,,4,4,72,BUF 49,0,CLE,FUMBLE
-19,3971,1,01:57,,10,4,26,CLE 18,0,CLE,
-19,3928,1,02:05,,10,4,17,CLE 1,0,CLE,
-19,4032,1,01:27,,10,4,72,CLE 30,0,CLE,
-19,4086,3,00:56,,3,4,72,CLE 37,0,CLE,
-19,4223,0,00:00,,0,4,72,,0,,
-19,4131,1,00:23,,10,4,50,CLE 45,0,CLE,
-12,2655,1,07:30,,10,3,20,BUF 42,0,BUF,
-12,2680,2,06:57,,7,3,75,BUF 45,0,BUF,PENALTY
-12,2623,2,08:09,,5,3,75,BUF 30,0,BUF,
-12,2598,1,08:51,,10,3,5,BUF 25,0,BUF,
-12,2720,1,06:35,,10,3,75,CLE 31,0,BUF,
-12,2745,1,05:53,,3,3,75,CLE 3,1,BUF,TD
-12,2763,0,05:50,,0,3,75,CLE 15,1,BUF,XP
-12,2575,0,08:58,,0,3,0,CLE 35,0,CLE,KICKOFF
-16,3587,4,07:25,,5,4,34,CLE 16,1,BUF,FG
-16,3565,3,08:03,,2,4,34,CLE 13,0,BUF,
-16,3493,2,10:03,,8,4,29,CLE 37,0,BUF,
-16,3449,1,11:21,,10,4,11,50,0,BUF,
-16,3537,2,08:44,,4,4,37,CLE 15,0,BUF,
-16,3515,1,09:29,,10,4,35,CLE 21,0,BUF,
-16,3471,1,10:43,,10,4,13,CLE 39,0,BUF,
-11,2419,2,11:42,,10,3,12,CLE 33,0,CLE,
-11,2537,3,09:10,,6,3,80,BUF 18,1,CLE,TD
-11,2492,1,09:49,,10,3,62,BUF 22,0,CLE,
-11,2441,3,11:01,,11,3,45,CLE 32,0,CLE,
-11,2514,2,09:15,,6,3,62,BUF 18,0,CLE,
-11,2343,2,12:11,,2,3,13,CLE 28,0,CLE,PENALTY
-11,2466,1,10:25,,10,3,58,BUF 35,0,CLE,
-11,2559,0,08:58,,0,3,80,BUF 15,1,CLE,XP
-11,2391,1,11:47,,10,3,13,CLE 33,0,CLE,
-11,2319,1,12:52,,10,3,8,CLE 20,0,CLE,
-3,441,3,08:52,,4,1,19,CLE 26,0,CLE,
-3,738,4,03:54,,17,1,63,BUF 17,1,CLE,FG
-3,387,1,10:08,,10,1,8,CLE 20,0,CLE,
-3,669,2,04:54,,7,1,69,BUF 7,0,CLE,
-3,625,2,06:02,,2,1,75,BUF 9,0,CLE,
-3,364,0,10:14,,0,1,0,BUF 35,0,BUF,KICKOFF
-3,475,1,08:16,,10,1,22,CLE 39,0,CLE,
-3,415,2,09:32,,2,1,6,CLE 28,0,CLE,FUMBLE
-3,574,1,07:12,,5,1,63,BUF 42,0,CLE,
-3,718,3,04:29,,11,1,63,BUF 11,0,CLE,
-3,597,1,06:35,,10,1,71,BUF 17,0,CLE,
-3,537,1,07:17,,10,1,38,BUF 47,0,CLE,PENALTY
-3,497,2,07:45,,7,1,33,CLE 42,0,CLE,
-3,647,1,05:32,,5,1,73,BUF 5,0,CLE,
-3,699,0,04:29,,0,1,69,,0,,TIMEOUT
-17,3607,0,07:21,,0,4,0,BUF 35,0,BUF,KICKOFF
-17,3627,1,07:21,,10,4,0,CLE 25,0,CLE,
-17,3714,4,06:13,,11,4,-1,CLE 24,0,CLE,PUNT
-17,3662,2,07:16,,10,4,-1,CLE 25,0,CLE,
-17,3692,3,06:46,,17,4,-1,CLE 18,0,CLE,
-4,837,1,02:42,,10,1,17,BUF 43,0,BUF,
-4,886,3,01:58,,8,1,32,BUF 45,0,BUF,
-4,989,0,00:00,,0,1,74,CLE 15,1,BUF,XP
-4,860,2,02:37,,10,1,19,BUF 43,0,BUF,
-4,971,2,00:03,,1,1,74,CLE 3,1,BUF,TD
-4,781,1,03:44,,10,1,7,BUF 26,0,BUF,
-4,911,1,01:19,,10,1,74,CLE 42,0,BUF,
-4,808,2,03:12,,3,1,17,BUF 33,0,BUF,
-4,945,1,00:37,,10,1,71,CLE 12,0,BUF,
-4,758,0,03:50,,0,1,0,CLE 35,0,CLE,KICKOFF
-2,343,4,10:17,,3,1,44,CLE 3,1,BUF,FG
-2,295,2,11:01,,5,1,43,CLE 5,0,BUF,
-2,229,2,12:46,,12,1,44,CLE 49,0,BUF,
-2,317,3,10:56,,5,1,44,CLE 5,0,BUF,
-2,273,1,11:36,,5,1,43,CLE 5,0,BUF,
-2,251,1,12:11,,10,1,43,CLE 29,0,BUF,
-2,200,1,13:20,,10,1,44,CLE 47,0,BUF,
-1,169,4,13:31,,18,1,-8,CLE 17,0,CLE,PUNT
-1,121,2,14:11,,20,1,-8,CLE 15,0,CLE,
-1,55,1,15:00,,10,1,0,CLE 25,0,CLE,
-1,143,3,13:35,,18,1,-8,CLE 17,0,CLE,
-1,88,2,14:33,,10,1,-10,CLE 25,0,CLE,PENALTY
-1,36,0,15:00,,0,1,0,BUF 35,0,BUF,KICKOFF
-5,1050,0,15:00,,0,2,4,BUF 35,0,BUF,KICKOFF
-5,1157,3,13:25,,19,2,4,CLE 15,0,CLE,
-5,1179,4,12:46,,6,2,4,CLE 28,0,CLE,PUNT
-5,1101,2,14:01,,18,2,-9,CLE 16,0,CLE,
-5,1077,1,14:55,,10,2,-8,CLE 24,0,CLE,
-13,2992,3,02:04,,22,3,45,BUF 25,0,CLE,
-13,2943,1,02:50,,21,3,45,BUF 24,0,CLE,
-13,2910,1,03:19,,10,3,45,BUF 13,0,CLE,PENALTY
-13,2849,1,04:27,,10,3,12,CLE 44,0,CLE,
-13,2970,2,02:44,,21,3,45,BUF 24,0,CLE,
-13,2803,1,05:42,,10,3,4,CLE 33,0,CLE,
-13,2871,2,03:50,,9,3,45,CLE 45,0,CLE,PENALTY
-13,3014,4,01:35,,19,3,45,BUF 22,1,CLE,FG
-13,2780,0,05:50,,0,3,0,BUF 35,0,BUF,KICKOFF
-13,2827,2,05:06,,6,3,11,CLE 37,0,CLE,
-15,3308,0,12:38,,0,4,0,BUF 35,0,BUF,KICKOFF
-15,3385,0,12:16,,0,4,0,,0,,TIMEOUT
-15,3332,1,12:32,,10,4,0,CLE 29,0,CLE,
-15,3403,3,12:16,,10,4,-9,CLE 29,0,CLE,
-15,3358,2,12:25,,10,4,0,CLE 29,0,CLE,
-15,3423,4,11:32,,19,4,-9,CLE 20,0,CLE,PUNT
+11,2466,1,10:25,"(10:25) (No Huddle, Shotgun) D.Johnson Jr. left tackle to BUF 22 for 13 yards (C.Graham).",10,3,58,BUF 35,0,CLE,
+11,2441,3,11:01,(11:01) (Shotgun) R.Griffin pass deep right to A.Hawkins to BUF 35 for 33 yards (C.White). Caught near sideline at BUF 38.,11,3,45,CLE 32,0,CLE,
+11,2343,2,12:11,"(12:11) (No Huddle) R.Griffin pass short right to T.Pryor Sr. pushed ob at CLE 30 for 2 yards (R.Darby). Screen pass, caught at CLE 28. PENALTY on BUF-S.Lawson, Defensive Offside, 5 yards, enforced at CLE 28 - No Play.",2,3,13,CLE 28,0,CLE,PENALTY
+11,2319,1,12:52,"(12:52) R.Griffin pass short left to T.Pryor Sr. to CLE 28 for 8 yards (S.Gilmore). Out-pattern, caught at CLE 28.",10,3,8,CLE 20,0,CLE,
+11,2559,0,08:58,"C.Parkey extra point is GOOD, Center-C.Hughlett, Holder-B.Colquitt.",0,3,80,BUF 15,1,CLE,XP
+11,2492,1,09:49,(9:49) (Shotgun) R.Griffin left end pushed ob at BUF 18 for 4 yards (L.Alexander).,10,3,62,BUF 22,0,CLE,
+11,2514,2,09:15,"(9:15) R.Griffin pass incomplete short right to T.Pryor Sr.. Dropped, receiver in flat at BUF 6.",6,3,62,BUF 18,0,CLE,
+11,2391,1,11:47,"(11:47) (Shotgun) R.Griffin pass incomplete short right to I.Crowell. Swing pass, dropped at CLE 26.",10,3,13,CLE 33,0,CLE,
+11,2419,2,11:42,(11:42) (Shotgun) I.Crowell right guard to CLE 32 for -1 yards (K.Williams).,10,3,12,CLE 33,0,CLE,
+11,2537,3,09:10,"(9:10) (Shotgun) R.Griffin scrambles up the middle for 18 yards, TOUCHDOWN.",6,3,80,BUF 18,1,CLE,TD
+10,2214,1,13:42,(13:42) T.Taylor pass incomplete deep right to N.O'Leary (C.Johnson). Receiver and coverage in flat at CLE 43.,10,3,11,BUF 36,0,BUF,
+10,2293,4,13:04,"(13:04) C.Schmidt punts 48 yards to CLE 9, Center-G.Sanborn. M.Alford to CLE 20 for 11 yards (R.Humber).",3,3,18,BUF 43,0,BUF,PUNT
+10,2192,2,14:23,(14:23) (Shotgun) L.McCoy right tackle to BUF 36 for 2 yards (D.Davis).,1,3,11,BUF 34,0,BUF,
+10,2170,1,15:00,(15:00) (Shotgun) L.McCoy right tackle to BUF 34 for 9 yards (D.Davis; E.Reynolds).,10,3,9,BUF 25,0,BUF,
+10,2153,0,15:00,"C.Parkey kicks 65 yards from CLE 35 to end zone, Touchback.",0,3,0,CLE 35,0,CLE,KICKOFF
+10,2262,3,13:08,"(13:08) (Shotgun) T.Taylor pass incomplete short left to S.Watkins. Dropped, receiver in flat at BUF 48.",3,3,18,BUF 43,0,BUF,
+10,2240,2,13:37,(13:37) (Shotgun) L.McCoy right end to BUF 43 for 7 yards (C.Kirksey). CLE-J.Haden was injured during the play.,10,3,18,BUF 36,0,BUF,
+13,2910,1,03:19,"(3:19) R.Griffin scrambles left end pushed ob at BUF 2 for 11 yards (Z.Brown). PENALTY on CLE-J.Thomas, Offensive Holding, 11 yards, enforced at BUF 13 - No Play.",10,3,45,BUF 13,0,CLE,PENALTY
+13,2871,2,03:50,"(3:50) R.Griffin pass deep left to G.Barnidge pushed ob at BUF 27 for 28 yards (L.Alexander). Caught along sideline at BUF 27. PENALTY on BUF-Z.Brown, Roughing the Passer, 14 yards, enforced at BUF 27.",9,3,45,CLE 45,0,CLE,PENALTY
+13,2780,0,05:50,"D.Carpenter kicks 56 yards from BUF 35 to CLE 9. M.Alford to CLE 33 for 24 yards (B.Tate, L.Alexander).",0,3,0,BUF 35,0,BUF,KICKOFF
+13,2849,1,04:27,"(4:27) I.Crowell up the middle to CLE 45 for 1 yard (K.Williams, M.Dareus).",10,3,12,CLE 44,0,CLE,
+13,2992,3,02:04,(2:04) (Shotgun) R.Griffin scrambles right end pushed ob at BUF 22 for 3 yards (Z.Brown).,22,3,45,BUF 25,0,CLE,
+13,3014,4,01:35,"(1:35) C.Parkey 40 yard field goal is GOOD, Center-C.Hughlett, Holder-B.Colquitt.",19,3,45,BUF 22,1,CLE,FG
+13,2803,1,05:42,(5:42) (Shotgun) R.Griffin scrambles right guard to CLE 37 for 4 yards (A.Washington).,10,3,4,CLE 33,0,CLE,
+13,2970,2,02:44,(2:44) I.Crowell right guard to BUF 25 for -1 yards (A.Washington).,21,3,45,BUF 24,0,CLE,
+13,2827,2,05:06,(5:06) (Shotgun) R.Griffin left end pushed ob at CLE 44 for 7 yards (Z.Brown).,6,3,11,CLE 37,0,CLE,
+13,2943,1,02:50,"(2:50) (Shotgun) R.Griffin pass incomplete short left to I.Crowell. Underthrown, receiver at BUF 24.",21,3,45,BUF 24,0,CLE,
+12,2623,2,08:09,"(8:09) T.Taylor pass short left to C.Clay to BUF 42 for 12 yards (D.Shelton). Screen pass, caught at BUF 24.",5,3,75,BUF 30,0,BUF,
+12,2720,1,06:35,(6:35) (Shotgun) T.Taylor scrambles right tackle pushed ob at CLE 3 for 28 yards (I.Campbell). Key block: J.Felton.,10,3,75,CLE 31,0,BUF,
+12,2763,0,05:50,"D.Carpenter extra point is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",0,3,75,CLE 15,1,BUF,XP
+12,2575,0,08:58,"C.Parkey kicks 64 yards from CLE 35 to BUF 1. B.Tate to BUF 25 for 24 yards (C.Johnson, T.Howard).",0,3,0,CLE 35,0,CLE,KICKOFF
+12,2598,1,08:51,"(8:51) (Shotgun) T.Taylor pass short right to R.Woods to BUF 30 for 5 yards (D.Davis). Curl pattern, caught at BUF 30.",10,3,5,BUF 25,0,BUF,
+12,2655,1,07:30,"(7:30) Direct snap to M.Gillislee (T.Taylor at WR). (Shotgun) M.Gillislee up the middle to BUF 45 for 3 yards (C.Kirksey, D.Shelton).",10,3,20,BUF 42,0,BUF,
+12,2745,1,05:53,"(5:53) (Shotgun) L.McCoy right guard for 3 yards, TOUCHDOWN.",3,3,75,CLE 3,1,BUF,TD
+12,2680,2,06:57,"(6:57) (Shotgun) T.Taylor pass short right to C.Clay to CLE 46 for 9 yards (I.Campbell) [D.Shelton]. Caught near sideline at CLE 46. PENALTY on CLE-D.Shelton, Roughing the Passer, 15 yards, enforced at CLE 46.",7,3,75,BUF 45,0,BUF,PENALTY
+15,3385,0,12:16,Timeout #1 by CLE at 12:16.,0,4,0,,0,,TIMEOUT
+15,3423,4,11:32,"(11:32) B.Colquitt punts 37 yards to BUF 43, Center-C.Hughlett. B.Tate pushed ob at 50 for 7 yards (R.Louis).",19,4,-9,CLE 20,0,CLE,PUNT
+15,3332,1,12:32,"(12:32) (Shotgun) R.Griffin pass incomplete short left to G.Barnidge. Juggled before catch out of bounds, along sideline at CLE 33.",10,4,0,CLE 29,0,CLE,
+15,3403,3,12:16,(12:16) (Shotgun) R.Griffin sacked at CLE 20 for -9 yards (K.Williams).,10,4,-9,CLE 29,0,CLE,
+15,3308,0,12:38,D.Carpenter kicks 49 yards from BUF 35 to CLE 16. S.DeValve to CLE 29 for 13 yards (L.Alexander).,0,4,0,BUF 35,0,BUF,KICKOFF
+15,3358,2,12:25,(12:25) R.Griffin pass incomplete short left. Thrown away after pressure by S.Lawson.,10,4,0,CLE 29,0,CLE,
+14,3200,1,14:36,"(14:36) (No Huddle, Shotgun) L.McCoy left tackle to CLE 36 for 4 yards (G.Wright).",10,4,39,CLE 40,0,BUF,
+14,3034,0,01:32,C.Parkey kicks 59 yards from CLE 35 to BUF 6. B.Tate to BUF 25 for 19 yards (J.Schobert).,0,3,0,CLE 35,0,CLE,KICKOFF
+14,3243,1,13:20,"(13:20) (Shotgun) T.Taylor pass short right to J.Hunter ran ob at CLE 8 for 16 yards. Caught at CLE 10, crossing from middle.",10,4,67,CLE 24,0,BUF,
+14,3103,1,00:29,"(:29) (No Huddle, Shotgun) T.Taylor pass short right to L.McCoy pushed ob at BUF 49 for 14 yards (I.Campbell). Swing pass, caught at BUF 30.",10,3,24,BUF 35,0,BUF,
+14,3152,0,,END QUARTER 3,0,3,24,,0,,
+14,3136,0,,End of quarter - 3.14 pm,0,3,24,,0,,
+14,3058,1,01:25,(1:25) (Shotgun) T.Taylor scrambles left end pushed ob at BUF 33 for 8 yards (C.Kirksey).,10,3,8,BUF 25,0,BUF,
+14,3169,1,15:00,(15:00) T.Taylor pass short left to M.Goodwin ran ob at CLE 40 for 11 yards. Caught along sideline at CLE 40.,10,4,35,BUF 49,0,BUF,
+14,3268,1,12:45,"(12:45) L.McCoy right end for 8 yards, TOUCHDOWN.",8,4,75,CLE 8,1,BUF,TD
+14,3222,2,14:08,"(14:08) (No Huddle, Shotgun) T.Taylor scrambles left guard to CLE 24 for 12 yards (J.Taylor).",6,4,51,CLE 36,0,BUF,
+14,3081,2,00:54,(:54) (Shotgun) L.McCoy left tackle to BUF 35 for 2 yards (C.Johnson).,2,3,10,BUF 33,0,BUF,
+14,3291,0,12:38,"D.Carpenter extra point is No Good, Wide Right, Center-G.Sanborn, Holder-C.Schmidt.",0,4,75,CLE 15,0,BUF,XPM
+17,3714,4,06:13,"(6:13) B.Colquitt punts 35 yards to BUF 41, Center-C.Hughlett. B.Tate pushed ob at CLE 30 for 29 yards (C.Hughlett).",11,4,-1,CLE 24,0,CLE,PUNT
+17,3692,3,06:46,(6:46) (Shotgun) R.Griffin scrambles left end pushed ob at CLE 24 for 6 yards (J.Hughes).,17,4,-1,CLE 18,0,CLE,
+17,3607,0,07:21,"D.Carpenter kicks 65 yards from BUF 35 to end zone, Touchback. M.Alford kneels 4 yds. into end zone.",0,4,0,BUF 35,0,BUF,KICKOFF
+17,3627,1,07:21,"(7:21) (Shotgun) R.Griffin pass incomplete short middle to T.Pryor Sr.. Underthrown, receiver at CLE 37, crossing from right.",10,4,0,CLE 25,0,CLE,
+17,3662,2,07:16,"(7:16) (No Huddle, Shotgun) R.Griffin sacked at CLE 18 for -7 yards (L.Alexander). Penalty on CLE-J.Thomas, Offensive Holding, declined.",10,4,-1,CLE 25,0,CLE,
+16,3449,1,11:21,(11:21) L.McCoy left guard to CLE 39 for 11 yards (E.Reynolds).,10,4,11,50,0,BUF,
+16,3471,1,10:43,(10:43) T.Taylor scrambles right end pushed ob at CLE 37 for 2 yards (C.Johnson).,10,4,13,CLE 39,0,BUF,
+16,3565,3,08:03,(8:03) (Shotgun) T.Taylor left end to CLE 16 for -3 yards (J.Collins).,2,4,34,CLE 13,0,BUF,
+16,3587,4,07:25,"(7:25) D.Carpenter 34 yard field goal is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",5,4,34,CLE 16,1,BUF,FG
+16,3493,2,10:03,"(10:03) L.McCoy right tackle to CLE 21 for 16 yards (J.Taylor, D.Davis).",8,4,29,CLE 37,0,BUF,
+16,3515,1,09:29,(9:29) (Shotgun) M.Gillislee right tackle to CLE 15 for 6 yards (C.Kirksey).,10,4,35,CLE 21,0,BUF,
+16,3537,2,08:44,"(8:44) (Shotgun) T.Taylor pass short left to C.Clay to CLE 13 for 2 yards (I.Campbell). Outlet pass, caught at CLE 14.",4,4,37,CLE 15,0,BUF,
+19,4060,2,01:04,"(1:04) (No Huddle, Shotgun) R.Griffin pass incomplete deep right to T.Pryor Sr.. Receiver dropped ball in coverage, along sideline at BUF 15.",3,4,72,CLE 37,0,CLE,
+19,4086,3,00:56,"(:56) (No Huddle, Shotgun) D.Johnson Jr. up the middle to CLE 39 for 2 yards (L.Alexander).",3,4,72,CLE 37,0,CLE,
+19,3953,0,01:57,Two-Minute Warning,0,4,17,,0,,
+19,4131,1,00:23,"(:23) (No Huddle, Shotgun) R.Griffin pass short right to S.DeValve to BUF 49 for 6 yards (Z.Brown). Caught in flat at 50.",10,4,50,CLE 45,0,CLE,
+19,3928,1,02:05,(2:05) R.Griffin pass short right to D.Vitale to CLE 18 for 17 yards (S.Gilmore).,10,4,17,CLE 1,0,CLE,
+19,4159,2,00:00,"(:00) (No Huddle, Shotgun) R.Griffin pass short middle to D.Johnson Jr. to BUF 27 for 22 yards (S.Lawson). FUMBLES (S.Lawson), ball out of bounds at BUF 25. Caught at BUF 44.",4,4,72,BUF 49,0,CLE,FUMBLE
+19,3971,1,01:57,"(1:57) (Shotgun) R.Griffin pass short middle to D.Johnson Jr. to CLE 27 for 9 yards (Z.Brown) [J.Hughes]. Caught at CLE 26, slanting from right.",10,4,26,CLE 18,0,CLE,
+19,4032,1,01:27,"(1:27) (No Huddle, Shotgun) R.Griffin pass short middle to G.Barnidge to CLE 37 for 7 yards (P.Brown; Z.Brown). Caught at CLE 35.",10,4,72,CLE 30,0,CLE,
+19,3999,2,01:34,"(1:34) (No Huddle, Shotgun) R.Griffin pass short middle to T.Pryor Sr. pushed ob at CLE 30 for 3 yards (N.Robey-Coleman). Caught at CLE 30, crossing from right.",1,4,29,CLE 27,0,CLE,
+19,4109,4,00:29,"(:29) (No Huddle, Shotgun) R.Griffin right end pushed ob at CLE 45 for 6 yards (C.Graham).",1,4,44,CLE 39,0,CLE,
+19,4207,0,,End of game - 3.55 pm,0,4,72,,0,,
+19,4223,0,00:00,END GAME,0,4,72,,0,,
+18,3885,3,02:56,"(2:56) J.Williams up the middle to CLE 1 for 5 yards (J.Schobert, E.Reynolds).",6,4,29,CLE 6,0,BUF,
+18,3906,4,02:11,(2:11) J.Williams right guard to CLE 1 for no gain (J.Schobert; I.Campbell).,1,4,29,CLE 1,0,BUF,
+18,3770,2,05:17,(5:17) M.Gillislee right tackle to CLE 20 for 5 yards (T.Carder).,5,4,10,CLE 25,0,BUF,
+18,3814,2,04:27,"(4:27) (Shotgun) J.Williams right tackle to CLE 7 for 5 yards (C.Kirksey, J.Meder).",2,4,23,CLE 12,0,BUF,
+18,3744,1,06:00,(6:00) E.Manuel in at QB. M.Gillislee right guard to CLE 25 for 5 yards (D.Davis).,10,4,5,CLE 30,0,BUF,
+18,3792,1,04:33,(4:33) M.Gillislee right end pushed ob at CLE 12 for 8 yards (D.Davis).,10,4,18,CLE 20,0,BUF,
+18,3837,1,03:42,"(3:42) (Shotgun) E.Manuel left tackle to CLE 6 for 1 yard (C.Nassib, T.Howard).",7,4,24,CLE 7,0,BUF,
+18,3859,2,03:00,(3:00) (Shotgun) E.Manuel pass incomplete short left to J.Hunter (M.Burley). Receiver and coverage in rear corner of end zone.,6,4,24,CLE 6,0,BUF,
+1,143,3,13:35,(13:35) (Shotgun) R.Griffin pass incomplete short middle to D.Johnson Jr.. Thrown behind receiver at CLE 19.,18,1,-8,CLE 17,0,CLE,
+1,55,1,15:00,"(15:00) (Shotgun) R.Griffin pass short right to T.Pryor Sr. pushed ob at CLE 25 for no gain (S.Gilmore). Screen pass, caught at CLE 21.",10,1,0,CLE 25,0,CLE,
+1,36,0,15:00,"D.Carpenter kicks 65 yards from BUF 35 to end zone, Touchback. M.Alford kneels 5 yds. into end zone.",0,1,0,BUF 35,0,BUF,KICKOFF
+1,121,2,14:11,(14:11) (Shotgun) I.Crowell right guard pushed ob at CLE 17 for 2 yards (R.Darby).,20,1,-8,CLE 15,0,CLE,
+1,88,2,14:33,"(14:33) (Shotgun) I.Crowell up the middle to CLE 37 for 12 yards (C.Graham). PENALTY on CLE-J.Cooper, Offensive Holding, 10 yards, enforced at CLE 25 - No Play.",10,1,-10,CLE 25,0,CLE,PENALTY
+1,169,4,13:31,"(13:31) B.Colquitt punts 49 yards to BUF 34, Center-C.Hughlett, downed by CLE-R.Louis. Punt credited to BUF 38 (spot of foul). PENALTY on CLE-B.Boddy-Calhoun, Interference with Opportunity to Catch, 15 yards, enforced at BUF 38.",18,1,-8,CLE 17,0,CLE,PUNT
+3,699,0,04:29,Timeout #1 by CLE at 04:29.,0,1,69,,0,,TIMEOUT
+3,625,2,06:02,(6:02) (Shotgun) D.Johnson Jr. up the middle to BUF 5 for 4 yards (C.White).,2,1,75,BUF 9,0,CLE,
+3,597,1,06:35,"(6:35) R.Griffin pass short left to T.Pryor Sr. to BUF 9 for 8 yards (R.Darby). Screen pass, caught at BUF 19.",10,1,71,BUF 17,0,CLE,
+3,718,3,04:29,(4:29) (Shotgun) R.Griffin sacked at BUF 17 for -6 yards (sack split by L.Alexander and K.Williams).,11,1,63,BUF 11,0,CLE,
+3,441,3,08:52,"(8:52) (Shotgun) R.Griffin pass short right to D.Johnson Jr. pushed ob at CLE 39 for 13 yards (P.Brown). Swing pass, caught at CLE 28.",4,1,19,CLE 26,0,CLE,
+3,387,1,10:08,"(10:08) (Shotgun) R.Griffin pass short left to C.Coleman to CLE 28 for 8 yards (L.Alexander). Screen pass, caught at CLE 19.",10,1,8,CLE 20,0,CLE,
+3,574,1,07:12,(7:12) (Shotgun) I.Crowell right end pushed ob at BUF 17 for 25 yards (P.Brown).,5,1,63,BUF 42,0,CLE,
+3,537,1,07:17,"(7:17) (Shotgun) R.Griffin pass incomplete short right to A.Hawkins (N.Robey-Coleman). Screen pass, receiver and coverage at CLE 48. PENALTY on BUF-L.Alexander, Defensive Offside, 5 yards, enforced at BUF 47 - No Play.",10,1,38,BUF 47,0,CLE,PENALTY
+3,415,2,09:32,"(9:32) R.Griffin FUMBLES (Aborted) at CLE 27, recovered by CLE-I.Crowell at CLE 26. I.Crowell to CLE 26 for no gain (P.Brown).",2,1,6,CLE 28,0,CLE,FUMBLE
+3,647,1,05:32,(5:32) (Shotgun) I.Crowell right guard to BUF 7 for -2 yards (P.Brown).,5,1,73,BUF 5,0,CLE,
+3,475,1,08:16,(8:16) I.Crowell left end pushed ob at CLE 42 for 3 yards (C.Graham).,10,1,22,CLE 39,0,CLE,
+3,738,4,03:54,"(3:54) C.Parkey 35 yard field goal is GOOD, Center-C.Hughlett, Holder-B.Colquitt.",17,1,63,BUF 17,1,CLE,FG
+3,364,0,10:14,"D.Carpenter kicks 66 yards from BUF 35 to CLE -1. M.Alford to CLE 20 for 21 yards (S.Brown, S.Gary).",0,1,0,BUF 35,0,BUF,KICKOFF
+3,497,2,07:45,(7:45) R.Griffin pass short left to C.Coleman to BUF 47 for 11 yards (L.Alexander). Caught in flat at CLE 47.,7,1,33,CLE 42,0,CLE,
+3,669,2,04:54,"(4:54) (Shotgun) R.Griffin sacked ob at BUF 11 for -4 yards (Z.Brown). Penalty on CLE-A.Pasztor, Offensive Holding, declined.",7,1,69,BUF 7,0,CLE,
+2,200,1,13:20,"(13:20) (Shotgun) T.Taylor pass short right to L.McCoy to CLE 49 for -2 yards (D.Davis). Screen pass, caught at BUF 49.",10,1,44,CLE 47,0,BUF,
+2,251,1,12:11,(12:11) L.McCoy right tackle pushed ob at CLE 5 for 24 yards (E.Reynolds).,10,1,43,CLE 29,0,BUF,
+2,317,3,10:56,(10:56) (Shotgun) T.Taylor scrambles right end pushed ob at CLE 3 for 2 yards (J.Meder).,5,1,44,CLE 5,0,BUF,
+2,273,1,11:36,(11:36) (Shotgun) T.Taylor right end pushed ob at CLE 5 for no gain (E.Reynolds).,5,1,43,CLE 5,0,BUF,
+2,229,2,12:46,(12:46) L.McCoy left tackle to CLE 29 for 20 yards (T.Williams Sr.).,12,1,44,CLE 49,0,BUF,
+2,343,4,10:17,"(10:17) D.Carpenter 21 yard field goal is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",3,1,44,CLE 3,1,BUF,FG
+2,295,2,11:01,"(11:01) (Shotgun) T.Taylor pass incomplete short right to J.Hunter. Overthrown, receiver in rear corner of end zone.",5,1,43,CLE 5,0,BUF,
+5,1050,0,15:00,D.Carpenter kicks 57 yards from BUF 35 to CLE 8. M.Alford pushed ob at CLE 24 for 16 yards (L.Alexander). CLE-R.Telfer was injured during the play. His return is Probable.  R.Telfer assisted off.,0,2,4,BUF 35,0,BUF,KICKOFF
+5,1077,1,14:55,(14:55) (Shotgun) R.Griffin sacked ob at CLE 16 for -8 yards (J.Hughes).,10,2,-8,CLE 24,0,CLE,
+5,1157,3,13:25,(13:25) (Shotgun) D.Johnson Jr. up the middle to CLE 28 for 13 yards (R.Darby).,19,2,4,CLE 15,0,CLE,
+5,1179,4,12:46,"(12:46) B.Colquitt punts 53 yards to BUF 19, Center-C.Hughlett. B.Tate to BUF 22 for 3 yards (E.Reynolds).",6,2,4,CLE 28,0,CLE,PUNT
+5,1101,2,14:01,"(14:01) (Shotgun) D.Johnson Jr. right guard to CLE 15 for -1 yards (J.Hughes, P.Brown).",18,2,-9,CLE 16,0,CLE,
+4,781,1,03:44,"(3:44) (Shotgun) L.McCoy up the middle to BUF 33 for 7 yards (I.Campbell, J.Collins).",10,1,7,BUF 26,0,BUF,
+4,837,1,02:42,"(2:42) (Shotgun) T.Taylor pass incomplete short left to S.Watkins. Overthrown, receiver in flat at 50.",10,1,17,BUF 43,0,BUF,
+4,971,2,00:03,"(:03) M.Gillislee left guard for 3 yards, TOUCHDOWN.",1,1,74,CLE 3,1,BUF,TD
+4,860,2,02:37,(2:37) (Shotgun) L.McCoy right guard to BUF 45 for 2 yards (E.Reynolds).,10,1,19,BUF 43,0,BUF,
+4,758,0,03:50,C.Parkey kicks 58 yards from CLE 35 to BUF 7. B.Tate to BUF 26 for 19 yards (J.Schobert).,0,1,0,CLE 35,0,CLE,KICKOFF
+4,945,1,00:37,(:37) Direct snap to L.McCoy (T.Taylor at WR). (Shotgun) L.McCoy right end pushed ob at CLE 3 for 9 yards (C.Johnson).,10,1,71,CLE 12,0,BUF,
+4,808,2,03:12,"(3:12) T.Taylor pass short right to S.Watkins pushed ob at BUF 43 for 10 yards (J.Taylor). Out-pattern, caught along sideline at BUF 43.",3,1,17,BUF 33,0,BUF,
+4,989,0,00:00,"D.Carpenter extra point is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",0,1,74,CLE 15,1,BUF,XP
+4,911,1,01:19,"(1:19) Direct snap to M.Gillislee (T.Taylor at WR). (Shotgun) B.Tate left end pushed ob at CLE 12 for 30 yards (D.Davis). Handoff from M.Gillislee, end-around.",10,1,74,CLE 42,0,BUF,
+4,886,3,01:58,(1:58) (Shotgun) T.Taylor pass short middle to C.Clay to CLE 42 for 13 yards (J.Collins). Caught at CLE 44.,8,1,32,BUF 45,0,BUF,
+7,1437,3,08:22,"(8:22) (Shotgun) R.Griffin pass incomplete short left to D.Johnson Jr. (Z.Brown). Overthrown, off receiver's fingers near sideline at CLE 45.",4,2,6,CLE 38,0,CLE,
+7,1412,2,09:06,(9:06) (Shotgun) R.Griffin pass short right to C.Coleman to CLE 38 for 5 yards (R.Darby). Caught in flat at CLE 37.,9,2,6,CLE 33,0,CLE,
+7,1391,1,09:45,"(9:45) I.Crowell up the middle to CLE 33 for 1 yard (R.Humber, L.Douzable).",10,2,6,CLE 32,0,CLE,
+7,1464,4,08:16,"(8:16) B.Colquitt punts 52 yards to BUF 10, Center-C.Hughlett. B.Tate pushed ob at BUF 18 for 8 yards (J.Schobert). Return credited to BUF 17 (spot of foul). PENALTY on BUF-R.Darby, Illegal Block Above the Waist, 8 yards, enforced at BUF 17.",4,2,6,CLE 38,0,CLE,PUNT
+6,1227,2,12:00,"(12:00) (Shotgun) T.Taylor pass short left to C.Clay to BUF 26 for 4 yards (C.Kirksey). Caught at BUF 25, crossing from middle.",10,2,16,BUF 22,0,BUF,
+6,1300,2,10:09,"(10:09) (Shotgun) T.Taylor pass incomplete short right to M.Goodwin. Thrown wide of receiver, along sideline at CLE 49. Pressure on QB: I.Campbell.",6,2,16,BUF 38,0,BUF,
+6,1338,3,10:02,"(10:02) (Shotgun) T.Taylor pass incomplete short middle to R.Woods (J.Taylor). Receiver and coverage at BUF 42, crossing from right. Pressure on QB: C.Johnson.",6,2,16,BUF 38,0,BUF,
+6,1205,1,12:34,(12:34) (Shotgun) L.McCoy left guard to BUF 22 for no gain (C.Kirksey).,10,2,0,BUF 22,0,BUF,
+6,1274,1,10:43,"(10:43) M.Gillislee up the middle to BUF 38 for 4 yards (D.Shelton, J.Meder).",10,2,16,BUF 34,0,BUF,
+6,1252,3,11:18,(11:18) (Shotgun) L.McCoy left tackle to BUF 34 for 8 yards (C.Johnson). Pitch-back on option.,6,2,12,BUF 26,0,BUF,
+6,1361,4,09:58,"(9:58) C.Schmidt punts 42 yards to CLE 20, Center-G.Sanborn. M.Alford pushed ob at CLE 32 for 12 yards (G.Sanborn).",6,2,16,BUF 38,0,BUF,PUNT
+9,2121,0,,End of half - 2.20 pm,0,2,18,,0,,
+9,2137,0,,END QUARTER 2,0,2,18,,0,,
+9,1966,0,00:34,D.Carpenter kicks 61 yards from BUF 35 to CLE 4. M.Alford to CLE 17 for 13 yards (R.Humber).,0,2,0,BUF 35,0,BUF,KICKOFF
+9,2049,1,00:11,"(:11) (Shotgun) R.Griffin pass short right to D.Johnson Jr. to CLE 35 for 7 yards (N.Robey-Coleman). Caught at CLE 30, crossing from middle.",10,2,18,CLE 28,0,CLE,
+9,2095,2,00:03,"(:03) (Shotgun) R.Griffin pass incomplete deep right to C.Coleman (K.Seymour). Receiver and coverage at BUF 6, near sideline.",3,2,18,CLE 35,0,CLE,
+9,1989,1,00:24,"(:24) (Shotgun) R.Griffin pass incomplete short left to T.Pryor Sr.. Underthrown on screen pass, receiver at CLE 16.",10,2,0,CLE 17,0,CLE,
+9,2077,0,00:03,Timeout #2 by CLE at 00:03.,0,2,18,,0,,TIMEOUT
+9,2012,2,00:20,"(:20) (Shotgun) R.Griffin pass short middle to D.Johnson Jr. pushed ob at CLE 28 for 11 yards (Z.Brown). Caught at CLE 17, slanting from right.",10,2,11,CLE 17,0,CLE,
+8,1858,1,00:45,"(:45) (Shotgun) T.Taylor pass incomplete short left to S.Watkins [D.Davis]. Overthrown, receiver along sideline at CLE 10.",10,2,72,CLE 19,0,BUF,
+8,1547,1,07:33,(7:33) (Shotgun) L.McCoy right tackle to BUF 29 for 2 yards (J.Collins).,10,2,20,BUF 27,0,BUF,
+8,1783,0,02:00,Two-Minute Warning,0,2,59,,0,,
+8,1706,2,03:53,"(3:53) (Shotgun) M.Gillislee up the middle to BUF 44 for 1 yard (J.Collins, C.Kirksey).",23,2,35,BUF 43,0,BUF,
+8,1625,2,05:37,"(5:37) (Shotgun) T.Taylor pass short right to C.Clay to CLE 44 for 13 yards (D.Davis, J.Taylor). Caught at BUF 49, crossing from middle.",8,2,47,BUF 43,0,BUF,
+8,1800,2,02:00,"(2:00) (Shotgun) T.Taylor pass short left to L.McCoy to CLE 28 for 4 yards (I.Campbell). Dump pass, csught at CLE 36.",9,2,63,CLE 32,0,BUF,
+8,1825,3,01:20,(1:20) (Shotgun) T.Taylor pass short left to M.Goodwin to CLE 19 for 9 yards (B.Boddy-Calhoun). Caught near sideline at CLE 20.,5,2,72,CLE 28,0,BUF,
+8,1603,1,06:16,(6:16) (Shotgun) M.Gillislee left tackle to BUF 43 for 2 yards (E.Reynolds).,10,2,34,BUF 41,0,BUF,
+8,1732,3,03:14,"(3:14) (Shotgun) T.Taylor pass deep middle to M.Goodwin to CLE 33 for 23 yards (C.Kirksey). Caught at CLE 36, slanting from left.",22,2,58,BUF 44,0,BUF,
+8,1524,1,08:03,(8:03) (Shotgun) L.McCoy right tackle pushed ob at BUF 27 for 18 yards (J.Haden).,10,2,18,BUF 9,0,BUF,
+8,1569,2,06:52,(6:52) (Shotgun) T.Taylor pass short left to J.Felton ran ob at BUF 41 for 12 yards. Caught along sideline at BUF 41. J.Felton fell backwards after catch.,8,2,32,BUF 29,0,BUF,
+8,1686,1,04:33,(4:33) (Shotgun) T.Taylor sacked at BUF 43 for -3 yards (E.Ogbah).,20,2,91,BUF 46,0,BUF,
+8,1910,0,00:34,"D.Carpenter extra point is GOOD, Center-G.Sanborn, Holder-C.Schmidt.",0,2,91,CLE 15,1,BUF,XP
+8,1650,1,04:57,"(4:57) (Shotgun) T.Taylor left end pushed ob at CLE 39 for 5 yards (D.Davis). PENALTY on BUF-M.Goodwin, Illegal Block Above the Waist, 10 yards, enforced at CLE 44 - No Play.",10,2,91,CLE 44,0,BUF,PENALTY
+8,1761,1,02:37,(2:37) L.McCoy right tackle to CLE 32 for 1 yard (D.Davis).,10,2,59,CLE 33,0,BUF,
+8,1881,2,00:40,"(:40) (Shotgun) T.Taylor pass deep left to C.Clay for 19 yards, TOUCHDOWN [J.Meder]. Caught 2 yds. into end zone. The Replay Official reviewed the pass completion ruling, and the play was Upheld. The ruling on the field stands.",10,2,91,CLE 19,1,BUF,TD
