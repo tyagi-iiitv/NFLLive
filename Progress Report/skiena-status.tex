@@ -1,0 +1,196 @@
+
+%%%%%%%%%%%%%%%%%%%%%%% file typeinst.tex %%%%%%%%%%%%%%%%%%%%%%%%%
+%
+% This is the LaTeX source for the instructions to authors using
+% the LaTeX document class 'llncs.cls' for contributions to
+% the Lecture Notes in Computer Sciences series.
+% http://www.springer.com/lncs       Springer Heidelberg 2006/05/04
+%
+% It may be used as a template for your own input - copy it
+% to a new file with a new name and use it as the basis
+% for your article.
+%
+% NB: the document class 'llncs' has its own and detailed documentation, see
+% ftp://ftp.springer.de/data/pubftp/pub/tex/latex/llncs/latex2e/llncsdoc.pdf
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\documentclass[runningheads]{llncs}
+
+\usepackage{amssymb}
+\setcounter{tocdepth}{3}
+\usepackage{graphicx}
+
+\usepackage{url}
+\urldef{\mailsa}\path|{aktyagi, yujko, ysoroka}@cs.stonybrook.edu|
+\newcommand{\keywords}[1]{\par\addvspace\baselineskip
+\noindent\keywordname\enspace\ignorespaces#1}
+\newcommand{\swallow}[1]{ }
+
+\begin{document}
+
+\mainmatter  % start of an individual contribution
+
+% first the title is needed
+\title{Status Report: Team A$^+$\\
+Live Football Bet Pricing}
+
+% a short form should be given in case it is too long for the running head
+\titlerunning{Live Football Bet Pricing}
+
+% the name(s) of the author(s) follow(s) next
+\author{Anjul Kumar Tyagi, Yu-Jung Ko, Eugenia Soroka}
+
+%
+\authorrunning{Anjul Kumar Tyagi \and Yu-Jung Ko \and Eugenia Soroka}
+% (feature abused for this document to repeat the title also on left hand pages)
+
+% the affiliations are given next; don't give your e-mail address
+% unless you accept that it will be published
+\institute{Department of Computer Science, Stony Brook University,\\
+Stony Brook, NY 11794-4400\\
+\mailsa\\}
+
+%
+% NB: a more complex sample for affiliations and the mapping to the
+% corresponding authors can be found in the file "llncs.dem"
+% (search for the string "\mainmatter" where a contribution starts).
+% "llncs.dem" accompanies the document class "llncs.cls".
+%
+
+\toctitle{Lecture Notes in Computer Science}
+\tocauthor{Authors' Instructions}
+\maketitle
+
+
+
+\section{Background Updates} 
+
+The challenge we took is predicting Football Bet Pricing for live matches happening in real time. The scale of the industry of American Football is immense, with total league revenue of more than a dozen billion USD and Super Bowl viewership exceeding 100 million views. The league remains a financial juggernaut - with merchandise over 7.3 billion USD, which amounts to 226.4 million USD per team. 
+Since NFL has an astonishingly strong position in the market, vast amounts of money are involved in the betting field in particular. This gives primary motivation for making predictions of winners of football matches and provides domain for highly practical and valuable use of Data Science and prediction models. However, whiles the stakes are high, a number of challenges arise when trying to make accurate predictions of the outcomes of the games.
+
+It is not entirely clear which factors are the most important for winning the game, and many research projects have been conducted to study this area. For instance, in [1], authors have attempted to quantify the impact of various factors on the probability of wining a game of American football. Among the factors they used are: total offensive yards, penalty yards, turnovers, possession time, passing-to-rushing ratio. They also provide a prediction engine for upcoming matchups based on statistical bootstrap and the developed Bradley-Terry regression model.
+
+FiveThirtyEight [2], on the other hand, uses Elo ratings, a simple system that estimates each team’s skill level using only the final scores and locations of each game. Teams gain and lose ground based on the final score of each game and how unexpected the result was in the eyes of the pregame ratings. Under Elo, teams pick up where they left off: The initial team ratings for 2017 are by definition the same as last season’s end-of-year ratings, only more compressed because of regression toward the mean. 
+
+Even more challenging but at the same time more enticing and potentially profitable is predicting the outcome of the NFL match using the real-time events in the game, i.e. live developments and changes during the game. While pre-match predictions are available in the form of point spread, which supposedly makes the chances of two teams fairly equal, these are based on experience and skills of corresponding experts, as well as analysis of teams' past performances. Our goal in this project is to build a model for predicting the probability of covering the bet, using live updates during the match.
+
+While working on this project, we have faced several concrete challenges, which we mention below in the corresponding sections.
+
+[1] Pelechrinis K, Papalexakis E (2016) The Anatomy of American Football: Evidence from 7 Years of NFL Game Data.
+
+[2] https://fivethirtyeight.com/features/how-our-2017-nfl-predictions-work/ 
+
+
+\section{Data Matrices}
+
+For our model, we use the NFL games data from seasons of 2013-2017. The general table of matches that includes initial point spread consists of columns:
+
+- Match eid	
+
+- Season
+
+- Week	
+
+- Home Team	
+
+- Away Team
+
+- Home Score	
+
+- Away Score	
+
+- Day of the Week
+
+- Time
+
+- Favorite	
+
+- Underdog	
+
+- Spread
+
+For games data, we have two types of files: 1) drives data and 2) plays data.
+
+\begin{table*}[htb]
+  \centering
+  \setlength{\tabcolsep}{36pt}
+  \begin{tabular}{lcr}
+    drive &      drive \\
+    fds &        play \\
+    result &     down \\
+    penyds &    time \\
+    ydsgained &  desc \\
+    numplays &  ydstogo \\
+    postime &   qtr \\
+     & ydsnet \\ 
+     & yrdln \\
+     & sp \\
+     & posteam \\
+     & note \\
+  \end{tabular}
+  \caption{Columns in files with 1) drives data (left) and 2) plays data (right).}
+  \label{tab:1}
+\end{table*}
+One of the first challenges was cleaning the data after parsing it from www.nfl.com. Names of several teams varied in the files, so those names have had to be identified and unified throughout the data set. 
+
+An even bigger challenge was to work out the scores of matches using the play by play data. Since plays data does not contain the actual scores and their changes from play to play, we had to go through the data and calculate the score differences on our own, using the note field of the data set, which contains values as 'TD' (touchdown), 'FG' (field goal), 'SAF' (safety), 'XP' (extra points by kicking from 15-yard line), '2PS' (2 extra points after touchdown from 2-yard line). However, sometimes we encountered the problem of the play being recovered by the opposing team, i.e. in such case the record of the data base did not reveal this change in 'sp' or 'note' fields, and we had to parse the description field to get the actual information. This was the reason of a number of plays with inconsistent changes in scores, which we had to deal with separately.
+
+\section{Baseline Model}
+
+For the baseline model, we use Logistic Regression classifier, because it gives us the probabilities of favourite team being in one of two classes: 1) covering the bet or 2) not covering it. We utilise the fields 'lefttime', 'yrdln', 'score' and the field 'cover' (whether the bet was covered by the favourite team or not) of each play and plug the values into logistic regression model:
+
+$P(Fav \ covers \ the \ bet  \ | \ observations) = f(lefttime, yrdln, score, cover)$
+
+
+- Normalize the data
+
+- Weights?
+
+The output is the probability of the favourite team covering the bet for each time point of the match, and Fig. 1 shows a plot depicting the output for one of the matches, as an example.
+
+
+--- PLOT ---
+
+
+Additionally, we use data from both favourite and underdog teams, because, alternatively, with everything being equal, the probability of covering the bet can depend on the actual team. Also, this method amplifies the data and gives us a chance to work with more data points and make more accurate predictions. 
+
+
+\section{Development/Evaluation Environment}
+
+As mentioned earlier in the Proposal, for the evaluation of the model we use the probabilities of covering the bet by the favourite team, compared to the percentage of the games which had the particular probability and for which the bet was covered.
+
+For each play of each match we take the output probabilities produced by the baseline model, arrange them into NumberOfBins bins and produce the histogram of the percentage of matches with the bet covered by the favourite team, for probabilities in NumberOfBins bins (see Fig. 2).
+
+
+--- PLOT ---
+
+
+Ideally, if the model is highly accurate, we would anticipate to see a plot resembling the line $y = x$, i.e. for a certain probability $p \ (p \in [0,1])$ of covering the bet the percentage of matches which had this probability at some point of the game and have eventually covered the bet should be around $100p$. However, since our baseline model behaves pretty much as a lowly intelligent monkey, and also, since we use very little data at this point, our plot is far from the theoretically ideal one. 
+
+
+\section{Next Steps}
+
+Currently we have built a baseline model, that produces the probability of the favourite team covering the bet depending on time until the end of the match, yard line and score. Also, we ave the evaluation environment, which produces the plot comparison of the probabilities and the percentage of the matches having that probability and which had the bet covered by the favourite team.
+
+For the next steps, we are going to:
+
+
+1. Polish up and clean more data, which hasn't been done at this point for the reason of it being time consuming.
+
+2. Use more data for our baseline model, and evaluate it accordingly.
+
+3. Seeing the results of the baseline model, we are going to define the most important factors for covering the bet.
+
+4. Incorporate factors from 3. into a new, machine-learning model.
+
+5. Evaluate and further improve the model.
+
+6. Predict the probabilities of covering the bet for the live NFL match.
+
+
+While we anticipate that a number of challenges to cross our path, Team A$^+$ is ready to face them and overcome any obstacles in the course of this project.
+
+
+\end{document}
