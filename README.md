@@ -9,6 +9,9 @@ https://docs.google.com/a/cs.stonybrook.edu/document/d/1EbUJxrUN1WshOiy08ETVJ7dy
 ## Gameids 
 Available at http://www.nflsavant.com/about.php from 2013 till date.
 
+## New data set for each play by play from 2009
+https://github.com/ryurko/nflscrapR-data
+
 ## Todo List
 
 Discuss
